@@ -9,13 +9,14 @@ Vielen Dank für deine Beiträge! Gemeinsam können wir dieses Deck noch besser 
 ## Was ist zu tun?
 Zum Beispiel:
 
-- Fehler korrigieren
-- Beispielsätze hinzufügen
 - Definitionen verbessern
+  - Es gibt Karten, wo die Definition identisch ist mit einer anderen Karte. **[Hier](TODO.md) ist keine komplette Liste**. Hier sollten die Definitionen angepasst werden und eine Notiz hinzugefügt werden, in der erklärt wird, wie sich die Wörter unterscheiden ([Beispiel](cards/1952_bâtiment.yml)).
+- Beispielsätze korrigieren/hinzufügen
 - Notizen zur Verwendung hinzufügen. Beispiele:
-  - [Wenn auf ein Wort keine Liaison folgt.](cards/0006_et.yml)
-  - [Um die Grammatik zu erläutern.](cards/0012_ce.yml)
   - [Um den Unterschied zu einem ähnlichen Wort zu erklären.](cards/1952_bâtiment.yml)
+  - [Um die Grammatik zu erläutern.](cards/0012_ce.yml)
+  - [Wenn auf ein Wort keine Liaison folgt.](cards/0006_et.yml)
+- Allgemein: Fehler korrigieren
 
 ## How-To
 Im Ordner [cards](cards) befinden sich alle 5000 Karten im YAML-Format. 
@@ -26,7 +27,7 @@ Im Ordner [cards](cards) befinden sich alle 5000 Karten im YAML-Format.
 4. Erstelle einen Pull Request
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40340 Beispielsätzen (durchschnittlich 8.1 pro Karte). 74 Karten haben eine Notiz.
+Insgesamt gibt es 1 Karten mit 40340 Beispielsätzen (durchschnittlich 40340.0 pro Karte). 74 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
