@@ -1,0 +1,414 @@
+/**
+  Font faces
+  -----------------------------------------------
+**/
+
+@font-face {
+  font-family: NittiGrotesk;
+  src: url("_NittiGrotesk.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: NittiGrotesk;
+  src: url("_NittiGroteskItalic.ttf");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: NittiGrotesk;
+  src: url("_NittiGroteskBold.ttf");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: NittiGrotesk;
+  src: url("_NittiGroteskBoldItalic.ttf");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: NotoSans;
+  src: url("_NotoSans-Light.ttf");
+}
+
+/**
+  Buttons
+  -----------------------------------------------
+**/
+.svg-button {
+  border: 1px solid black;
+  min-width: 24px;
+  min-height: 24px;
+  max-width: 24px;
+  max-height: 24px;
+  border-radius: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.svg-button.small {
+  border: none;
+  width: 20px;
+  height: 20px;
+  min-width: 20px;
+  min-height: 20px;
+  max-width: 20px;
+  max-height: 20px;
+}
+
+.svg-button:active {
+  background: rgb(200, 200, 200, 0.5);
+}
+
+.night_mode .svg-button:active {
+  background: rgb(68, 68, 68, 0.5);
+}
+
+.night_mode .svg-button {
+  border-color: white;
+}
+
+.svg-button svg {
+  width: 18px;
+  height: 18px;
+}
+
+.svg-button.small svg {
+  width: 14px;
+  height: 14px;
+}
+
+.night_mode svg {
+  fill: white;
+}
+
+/**
+  Card items
+  -----------------------------------------------
+**/
+.card {
+  font-family: "NittiGrotesk";
+  font-size: 38px;
+  text-align: center;
+  background-color: white;
+  width: 96%;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rank {
+  position: absolute;
+  font-size: 50%;
+  right: 0.5em;
+  top: 0.5em;
+}
+
+.rank[data-content="X"] {
+  display: none;
+}
+
+.rank::before {
+  content: "#";
+}
+
+.word {
+  font-weight: bold;
+}
+
+.word:has(.feminine .stem) {
+  margin-bottom: 0.75em;
+}
+
+.word_span {
+  position: relative;
+  display: inline-block;
+}
+
+.feminine {
+  position: absolute;
+  opacity: 0.4;
+  top: 0;
+  left: 0;
+}
+
+.feminine:has(.stem) {
+  top: 60%;
+}
+
+.stem {
+  color: rgba(0, 0, 0, 0);
+  position: relative;
+}
+
+.night_mode .stem {
+  color: rgba(255, 255, 255, 0);
+}
+
+.stem::before {
+  content: attr(data-before);
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 75%;
+  font-weight: normal;
+}
+
+.stem::after {
+  content: attr(data-after);
+  position: absolute;
+  bottom: 0;
+  color: rgba(0, 0, 0, 1);
+  font-size: 75%;
+}
+
+.night_mode .stem::before,
+.night_mode .stem::after {
+  color: rgba(255, 255, 255, 1);
+}
+
+.ipa {
+  font-size: 60%;
+  font-family: NotoSans;
+  margin-top: 0.1em;
+}
+
+.audio {
+  margin: 0.3em;
+}
+
+.pos {
+  font-size: 50%;
+  font-weight: bold;
+  color: gray;
+}
+
+.definition {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.pre-suffix {
+  opacity: 60%;
+  font-weight: 400;
+}
+
+.grammar {
+  opacity: 60%;
+  font-weight: 400;
+  font-size: 60%;
+  font-style: normal;
+}
+
+span.no-break {
+  white-space: nowrap;
+}
+
+.disamb {
+  font-style: normal;
+  font-size: 80%;
+  opacity: 60%;
+  font-weight: 400;
+}
+
+.disamb::before {
+  content: "";
+  display: block;
+}
+
+.front .disamb {
+  display: none;
+}
+
+.register {
+  font-size: 40%;
+  background: #eee;
+  padding: 0.3em;
+  border-radius: 0.8em;
+}
+
+.night_mode .register {
+  background: transparent;
+  border: 1px solid #eee;
+}
+
+.fr {
+  font-weight: bold;
+}
+
+.de {
+  font-style: italic;
+}
+
+.spoiler {
+  transition: all 0.2s;
+  -webkit-tap-highlight-color: transparent;
+  cursor: pointer;
+  border-radius: 0.2em;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+.spoiler:not(.clicked) {
+  color: transparent;
+  background: #eee;
+}
+
+.night_mode .spoiler:not(.clicked) {
+  color: transparent;
+  background: #333;
+}
+
+.spoiler:not(.clicked) .svg-button {
+  opacity: 0;
+  pointer-events: none;
+}
+
+span.spoiler {
+  padding-top: 0.15em;
+  padding-bottom: 0.15em;
+}
+
+.sentence-with-audio .svg-button {
+  display: inline-flex;
+  padding: 0.6em;
+  margin: -0.6em;
+  margin-right: -0.5em;
+  align-items: baseline;
+  transform: translateY(0.1em);
+}
+
+#github {
+  margin-top: 12px;
+  font-size: 40%;
+}
+
+#github a {
+  text-decoration: none; 
+}
+
+/**
+  Box
+  -----------------------------------------------
+**/
+.box {
+  margin-top: 1.5em;
+  position: relative;
+  font-size: 40%;
+  border: 1px solid gray;
+  border-radius: 14px;
+  padding: 10px;
+  text-align: left;
+}
+
+.box:not(:last-of-type) {
+  margin-bottom: 3em;
+}
+
+.box_float {
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  transform: translateY(-120%);
+  font-size: 90%;
+}
+
+.box_float .svg-button {
+  margin-left: 0.3em;
+}
+
+#sentences {
+  border-width: 3px;
+  padding: 12px;
+  font-size: 50%;
+}
+
+.box p {
+  margin-top: 0;
+}
+
+.box .examples {
+  margin-left: 1em;
+  margin-bottom: 1em;
+}
+
+.box .examples .fr {
+  margin-top: 0.5em;
+}
+
+.note table {
+  margin-bottom: 1em; 
+}
+
+/**
+  Conjugations
+  -----------------------------------------------
+**/
+.conjugation table {
+  font-size: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  table-layout: fixed;
+  width: 100%;
+}
+
+td {
+  white-space: nowrap;
+}
+
+tr.regular_tense {
+  display: none;
+}
+
+tr.regular_tense.show {
+  display: table-row;
+}
+
+.tense {
+  font-weight: bold;
+  white-space: nowrap;
+  width: 19%;
+}
+
+.tense_stem {
+  text-align: right !important;
+  text-decoration: underline;
+  width: 15%;
+}
+
+.squished {
+  transform-origin: left center;
+}
+
+.irregular {
+  color: black;
+  background: #eee;
+  border-radius: 0.5em;
+  padding: 0 0.3em;
+  text-align: center;
+}
+
+.night_mode .irregular {
+  color: white;
+  background: #444;
+}
+
+.regular {
+  color: #333;
+  opacity: 0.7;
+}
+
+.night_mode .regular {
+  color: white;
+}
