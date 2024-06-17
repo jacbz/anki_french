@@ -1,3 +1,5 @@
+# Französisch 5000
+
 Hilf mit, das Deck **Französisch 5000** zu verbessern! Das Deck enthält die 5000 häufigsten Wörter der französischen Sprache, mit vielen Beispielsätzen.
 
 **[AnkiWeb](https://ankiweb.net/shared/info/1677131827)**
@@ -10,7 +12,10 @@ Zum Beispiel:
 - Fehler korrigieren
 - Beispielsätze hinzufügen
 - Definitionen verbessern
-- Notizen zur Verwendung hinzufügen
+- Notizen zur Verwendung hinzufügen. Beispiele:
+  - [Wenn auf ein Wort keine Liaison folgt.](cards/0006_et.yml)
+  - [Um die Grammatik zu erläutern.](cards/0012_ce.yml)
+  - [Um den Unterschied zu einem ähnlichen Wort zu erklären.](cards/1952_bâtiment.yml)
 
 ## How-To
 Im Ordner [cards](cards) befinden sich alle 5000 Karten im YAML-Format. 
