@@ -21,6 +21,8 @@ Im Ordner [cards](cards) befinden sich alle 5000 Karten im YAML-Format.
 4. Erstelle einen Pull Request
 
 ## Übersicht
+Insgesamt gibt es 5000 Karten mit 40340 Beispielsätzen (durchschnittlich 8.1 pro Karte). 74 Karten haben eine Notiz.
+
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
 | 1 | le, la | [bestimmter Artikel], ihn/sie/es | 11 |  | [Bearbeiten](cards/0001_le.yml) |
