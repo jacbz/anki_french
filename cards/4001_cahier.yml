@@ -9,9 +9,6 @@ Femininum / Plural: ''
 IPA: \ka.je\
 Definition: Heft
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: "D’accord, fermez les cahiers. Commençons cet examen.\nOK, schließen\
   \ Sie die Hefte. Beginnen wir mit dieser Prüfung.\n\nJ’ai besoin d’un cahier pour\
   \ prendre des notes.\nIch brauche ein Heft, um Notizen zu machen.\n\nC'est un cahier\
@@ -23,7 +20,7 @@ Beispielsätze: "D’accord, fermez les cahiers. Commençons cet examen.\nOK, sc
   Dieser Rechnungsblock ist fast leer.\n\nLe cahier de prescription pour les marchés\
   \ publics est un document important.\nDie Verdingungsordnung ist ein wichtiges Dokument."
 
-# Notizen können HTML enthalten. Um Beispielsätze zu erstellen, gerne dieses Format benutzen:
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

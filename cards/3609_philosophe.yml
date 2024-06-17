@@ -9,9 +9,6 @@ Femininum / Plural: ''
 IPA: \fi.lɔ.zɔf\
 Definition: Philosoph
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: "Il est plus homme que philosophe.\nEr ist eher ein Mensch als ein\
   \ Philosoph.\n\nLes philosophes grecs ont posé les bases de la philosophie occidentale.\n\
   Die griechischen Philosophen haben die Grundlagen der westlichen Philosophie gelegt.\n\
@@ -21,7 +18,7 @@ Beispielsätze: "Il est plus homme que philosophe.\nEr ist eher ein Mensch als e
   \ à la philosophie chrétienne.\nEr ist Religionsphilosoph und interessiert sich\
   \ besonders für die christliche Philosophie."
 
-# Notizen können HTML enthalten. Um Beispielsätze zu erstellen, gerne dieses Format benutzen:
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>

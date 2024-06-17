@@ -9,9 +9,6 @@ Femininum / Plural: ''
 IPA: \lu\
 Definition: Wolf
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: "Ce n’était pas un loup, ce n’en était que l’ombre.\nEs war kein Wolf,\
   \ sondern nur ein Schatten davon.\n\nLe loup hurle à la lune.\nDer Wolf heult zum\
   \ Mond.\n\nLe plan de ce politicien est de mettre le loup dans la bergerie.\nDer\
@@ -25,7 +22,7 @@ Beispielsätze: "Ce n’était pas un loup, ce n’en était que l’ombre.\nEs 
   \ pas entre eux, mais ils se disputent parfois pour le territoire.\nEine Krähe hackt\
   \ der anderen kein Auge aus, aber manchmal streiten sie sich um das Territorium."
 
-# Notizen können HTML enthalten. Um Beispielsätze zu erstellen, gerne dieses Format benutzen:
+# Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
