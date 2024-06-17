@@ -1,0 +1,19 @@
+<span class="definition front">{{Definition}}</span>
+
+<script>
+$(".definition").each(function () {
+    var text = $(this).html();
+
+    if (text.includes(",") || text.includes(";")) {
+      text = text.replace(
+        /([^,;]+)/g,
+        (match) => `<span class="no-break">${match}</span>`
+      );
+    }
+
+    text = text.replace(/\((.*?)\)/g, '<span class="pre-suffix">$&</span>');
+    text = text.replace(/\[(.*?)\]/g, '<span class="grammar">$&</span>');
+
+    $(this).html(text);
+  });
+</script>

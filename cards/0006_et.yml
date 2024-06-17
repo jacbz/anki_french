@@ -1,0 +1,43 @@
+# Diese Felder bitte nicht ändern.
+Rang: 6
+Wort: et
+Wortart: conj
+
+# Diese Felder gerne verbessern!
+Wort mit Artikel: et
+Femininum / Plural: ''
+IPA: \e\
+Definition: und
+Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Et les larmes se remirent à couler.
+  Und die Tränen begannen wieder zu fließen.
+
+  Pierre et Marie sont frère et sœur.
+  Pierre und Marie sind Bruder und Schwester.
+
+  Le spectacle devait commencer à quatre heures et demie, mais les acteurs étaient en retard.
+  Der Schauspielbeginn war für halb fünf angesetzt, aber die Schauspieler waren verspätet.
+
+  La femme était en grande difficulté, car elle aimait à la fois son mari et son amant.
+  Die Frau war in großer Not, denn sie liebte sowohl ihren Mann als auch ihren Freund.
+
+  La performance fut si extraordinaire que le public d'applaudir pendant des minutes.
+  Die Performance war so außergewöhnlich, dass das Publikum minutenlang applaudierte.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu erstellen, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="fr">Un homme et une femme.</div>
+#   <div class="de spoiler">Ein Mann und eine Frau.</div>
+# </div>                
+Notiz: |-
+  Nach <span class="fr">et</span> folgt keine Liaison, um in der Aussprache von <span class="fr">est</span> unterschieden werden zu können.
+  <div class="examples">
+  <div class="fr">Un homme et une femme.</div>
+  <div class="de spoiler">Ein Mann und eine Frau.</div>
+  <div class="fr">Un homme est une femme.</div>
+  <div class="de spoiler">Ein Mann ist eine Frau.</div>
+  </div>

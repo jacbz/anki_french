@@ -1,0 +1,240 @@
+<meta name="referrer" content="no-referrer" />
+<meta name="side" content="FR" />
+<audio>
+  <source src="" />
+</audio>
+{{#Rang}}
+<div class="rank" data-content="{{Rang}}">{{Rang}}<br />{{Dispersion}}</div>
+{{/Rang}}
+<div class="word" data-word="{{Wort}}" data-feminine="{{Femininum / Plural}}">
+  {{Wort mit Artikel}}
+</div>
+
+{{#IPA}}
+<div class="ipa">{{IPA}}</div>
+{{/IPA}} {{#Audio}}
+<div class="audio">{{Audio}}</div>
+{{/Audio}}
+
+<div>
+  <span class="pos">{{Wortart}}</span>
+  <span class="definition">{{Definition}}</span>
+</div>
+
+{{#Register}}<span class="register">{{Register}}</span>{{/Register}}
+{{#Beispielsätze}}
+<div class="box tappable" id="sentences">
+  <div class="box_float" id="next_sentence">
+    <div class="box_float_label" id="sentence_counter"></div>
+    <div class="svg-button">
+      <svg width="800px" height="800px" viewBox="0 0 1024 1024">
+        <path
+          d="M338.752 104.704a64 64 0 0 0 0 90.496l316.8 316.8-316.8 316.8a64 64 0 0 0 90.496 90.496l362.048-362.048a64 64 0 0 0 0-90.496L429.248 104.704a64 64 0 0 0-90.496 0z" />
+      </svg>
+    </div>
+  </div>
+  <div id="sentences_inner">{{Beispielsätze}}</div>
+</div>
+{{/Beispielsätze}} {{#Notiz}}
+<div class="box tappable note">{{Notiz}}</div>
+{{/Notiz}} {{#Konjugation}}
+<div class="box tappable conjugation">
+  <div class="box_float" id="show-hide-button">
+    <div class="box_float_label" id="show-hide-label">Alle anzeigen</div>
+    <div class="svg-button">
+      <svg height="800px" width="800px" viewBox="0 0 488.85 488.85">
+        <g>
+          <path d=" M244.425,98.725c-93.4,0-178.1,51.1-240.6,134.1c-5.1,6.8-5.1,16.3,0,23.1c62.5,83.1,147.2,134.2,240.6,134.2
+        s178.1-51.1,240.6-134.1c5.1-6.8,5.1-16.3,0-23.1C422.525,149.825,337.825,98.725,244.425,98.725z M251.125,347.025
+        c-62,3.9-113.2-47.2-109.3-109.3c3.2-51.2,44.7-92.7,95.9-95.9c62-3.9,113.2,47.2,109.3,109.3
+        C343.725,302.225,302.225,343.725,251.125,347.025z
+        M248.025,299.625c-33.4,2.1-61-25.4-58.8-58.8c1.7-27.6,24.1-49.9,51.7-51.7
+        c33.4-2.1,61,25.4,58.8,58.8C297.925,275.625,275.525,297.925,248.025,299.625z" />
+        </g>
+      </svg>
+    </div>
+  </div>
+  <div id="empty-message" style="font-style: italic">Regelmäßiges Verb</div>
+  {{Konjugation}}
+</div>
+{{/Konjugation}}
+<script>
+  /**
+   * Feminine form
+   */
+  var wordWithArticle = $(".word");
+  var word = $(".word").data("word");
+  var feminine = $(".word").data("feminine");
+  function longestCommonPrefix(a, b) {
+    let i = 0;
+    while (i < a.length && i < b.length && a[i] === b[i]) i++;
+    return a.slice(0, i);
+  }
+  if (feminine) {
+    wordWithArticle.html(
+      wordWithArticle
+        .text()
+        .replace(
+          word,
+          `<span class="word_span">${word}<span class="feminine">${feminine}</span></span>`
+        )
+    );
+    if (word !== feminine.slice(0, word.length)) {
+      var stem = longestCommonPrefix(word, feminine);
+      $(".feminine").html(
+        `<span class="stem" data-before="${stem}" data-after="${feminine.slice(
+          stem.length
+        )}">${stem.length > 0 ? stem : "​"}</span>`
+      );
+    }
+  }
+
+  /**
+   * Definition
+   */
+  $(".definition").each(function () {
+    var text = $(this).html();
+
+    if (text.includes(",") || text.includes(";")) {
+      text = text.replace(
+        /([^,;]+)/g,
+        (match) => `<span class="no-break">${match}</span>`
+      );
+    }
+
+    text = text.replace(/\((.*?)\)/g, '<span class="pre-suffix">$&</span>');
+    text = text.replace(/\[(.*?)\]/g, '<span class="grammar">$&</span>');
+
+    $(this).html(text);
+  });
+
+  /**
+   * Sentences
+   */
+  var sentencesInner = $("#sentences_inner");
+  var sentencesData = sentencesInner.html();
+  var sentencesPairs = sentencesData.split("\n\n");
+  sentencesPairs = sentencesPairs.sort(() => 0.5 - Math.random());
+
+  function beautifyText(text, isFrench) {
+    var text = text.replace(/([^<>\s])'/g, "$1’"); // convert apostrophes
+    if (isFrench) {
+      // insert thin non-breaking space before punctuation (but not inside HTML tags)
+      text = text.replace(/(?!.*<[^>]+>)(\s?)([?|:|!|;])/g, "\u202F$2");
+      // Replace with French quote marks « ... »
+      text = text.replace(/(?!.*<[^>]+>)"([^"]*)"/g, "«\u202F$1\u202F»");
+    } else {
+      // Replace with German quote marks „...“
+      text = text.replace(/(?!.*<[^>]+>)"([^"]*)"/g, "„$1“");
+    }
+    return text;
+  }
+
+  var metaSide = $("meta[name='side']").attr("content");
+  var frenchFirst = metaSide === "FR";
+  var currentSentence = 0;
+  var sentenceCounter = $("#sentence_counter");
+
+  var audioButton = function (text) {
+    return `<div class="svg-button small play-sentence" data-text="${encodeURIComponent(
+      text
+    )}">
+      <svg width="800px" height="800px" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+          <path d="m 7 1.007812 c -0.296875 -0.003906 -0.578125 0.125 -0.769531 0.351563 l -3.230469 3.640625 h -1 c -1.09375 0 -2 0.84375 -2 2 v 2 c 0 1.089844 0.910156 2 2 2 h 1 l 3.230469 3.640625 c 0.210937 0.253906 0.492187 0.363281 0.769531 0.359375 z m 6.460938 0.960938 c -0.191407 -0.003906 -0.386719 0.054688 -0.558594 0.167969 c -0.457032 0.3125 -0.578125 0.933593 -0.269532 1.390625 c 1.824219 2.707031 1.824219 6.238281 0 8.945312 c -0.308593 0.457032 -0.1875 1.078125 0.269532 1.390625 c 0.457031 0.308594 1.078125 0.1875 1.390625 -0.269531 c 1.136719 -1.691406 1.707031 -3.640625 1.707031 -5.59375 s -0.570312 -3.902344 -1.707031 -5.59375 c -0.195313 -0.285156 -0.511719 -0.4375 -0.832031 -0.4375 z m -3.421876 2.019531 c -0.222656 -0.007812 -0.453124 0.058594 -0.644531 0.203125 c -0.261719 0.199219 -0.394531 0.5 -0.394531 0.804688 v 0.058594 c 0.011719 0.191406 0.074219 0.375 0.199219 0.535156 c 1.074219 1.429687 1.074219 3.390625 0 4.816406 c -0.125 0.164062 -0.1875 0.347656 -0.199219 0.535156 v 0.0625 c 0 0.304688 0.132812 0.605469 0.394531 0.804688 c 0.441407 0.332031 1.066407 0.242187 1.398438 -0.199219 c 0.804687 -1.066406 1.207031 -2.335937 1.207031 -3.609375 s -0.402344 -2.542969 -1.207031 -3.613281 c -0.183594 -0.246094 -0.464844 -0.382813 -0.753907 -0.398438 z m 0 0"/>
+      </svg>
+    </div>`;
+  };
+
+  var refreshSentences = function () {
+    var fr = sentencesPairs[currentSentence].split("\n")[0];
+    var de = sentencesPairs[currentSentence].split("\n")[1];
+    sentencesInner.html(
+      frenchFirst
+        ? `<div class="fr">${fr}</div><span class="de spoiler">${de}</span>`
+        : `<div class="de">${de}</div><span class="fr spoiler">${fr}</span>`
+    );
+    sentenceCounter.text(`${currentSentence + 1}/${sentencesPairs.length}`);
+
+    $(".fr:not(:has(.sentence-with-audio))").each(function () {
+      var text = beautifyText($(this).html(), true);
+      var containsPunctuation = text.match(/[.!?]/);
+      if (containsPunctuation) {
+        $(this).html(`<span class="sentence-with-audio">${audioButton(
+          text
+        )}<span>${text}</span></span>`);
+        if ($(this).hasClass('spoiler')) {
+          $(this).removeClass('spoiler');
+          $(this).find('.sentence-with-audio > span').addClass('spoiler');
+        }
+      } else {
+        $(this).html(text);
+      }
+    });
+
+    $(".de").each(function () {
+      $(this).html(beautifyText($(this).html(), false));
+    });
+
+    $(".spoiler").each(function () {
+      $(this).click(function () {
+        $(this).toggleClass("clicked");
+      });
+    });
+
+    $(".play-sentence").click(function (event) {
+      event.stopPropagation();
+      var text = $(this).data("text");
+      var url = `https://translate.google.com/translate_tts?ie=UTF-8&q=${text}&tl=fr-FR&client=tw-ob`;
+
+      var audioCurrent = $("audio")[0];
+      audioCurrent.src = url;
+      audioCurrent.play();
+    });
+  };
+  refreshSentences();
+  var nextSentenceButton = $("#next_sentence");
+  nextSentenceButton.click(nextSentenceHandler);
+  sentencesInner.dblclick(nextSentenceHandler);
+  function nextSentenceHandler() {
+    currentSentence = (currentSentence + 1) % sentencesPairs.length;
+    refreshSentences();
+  }
+
+  /**
+   * Conjugations
+   */
+  var showRegularConjugations = false;
+  var showHideButton = $("#show-hide-button");
+  var label = $("#show-hide-label");
+  $("#empty-message").toggle(!$("tr:visible").length);
+  function toggleConjugations() {
+    showRegularConjugations = !showRegularConjugations;
+    $("tr.regular_tense").each(function () {
+      $(this).toggleClass("show", showRegularConjugations);
+    });
+    label.text(
+      showRegularConjugations ? "Nur unregelmäßige anzeigen" : "Alle anzeigen"
+    );
+    $("#empty-message").toggle(!$("tr:visible").length);
+    squish_cells();
+  }
+  showHideButton.click(toggleConjugations);
+  $(".box.conjugation").dblclick(toggleConjugations);
+
+  // squish table cells that are too long
+  function squish_cells() {
+    $(":is(.tense,.regular,.irregular) > div").each(function () {
+      var $child = $(this);
+      $child.addClass("squished");
+
+      var parentWidth = $child[0].offsetWidth;
+      var textWidth = $child[0].scrollWidth;
+      var scaleRatio = parentWidth / textWidth;
+
+      if (scaleRatio < 1) {
+        $child.css("transform", `scaleX(${scaleRatio})`);
+      }
+    });
+  }
+  squish_cells();
+</script>

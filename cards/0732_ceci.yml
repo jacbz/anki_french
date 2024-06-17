@@ -1,0 +1,110 @@
+# Diese Felder bitte nicht ändern.
+Rang: 732
+Wort: ceci
+Wortart: pro
+
+# Diese Felder gerne verbessern!
+Wort mit Artikel: ceci
+Femininum / Plural: ''
+IPA: \sə.si\
+Definition: |-
+  es, dies<br>
+  [unbestimmtes Demonstrativpro.]
+Register: '' # Beispiel: ↘Sachtext ↗Mündlich
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Tout ceci est votre création.
+  All dies ist Ihre Schöpfung.
+
+  Ceci est un livre.
+  Dies ist ein Buch.
+
+  Ceci est pour mon ami.
+  Dies ist für meinen Freund.
+
+  Je dois te parler de ceci.
+  Ich muss mit dir über Folgendes sprechen.
+
+  Vous êtes très bon à ceci.
+  Sie sind hierin sehr gut.
+
+  Tu es bien trop jeune pour faire ceci.
+  Du bist viel zu jung, um dies zu tun.
+
+  La soirée était agréable à ceci près qu'il y avait trop de monde.
+  Abgesehen davon, dass es zu viele Leute gab, war der Abend angenehm.
+
+# Notizen können HTML enthalten. Um Beispielsätze zu erstellen, gerne dieses Format benutzen:
+# <div class="examples">
+#   <div class="fr">Un homme et une femme.</div>
+#   <div class="de spoiler">Ein Mann und eine Frau.</div>
+# </div>                
+Notiz: |
+  <b>Demonstrativpronomen</b>
+  <table>
+    <tbody>
+      <tr>
+        <td colspan="2">Person</td>
+        <td>einfach</td>
+        <td>zusammengesetzt</td>
+      </tr>
+      <tr>
+        <td rowspan="2">maskulin</td>
+        <td>Singular</td>
+        <td><span class="fr">celui</span></td>
+        <td><span class="fr">celui-ci</span> / <span class="fr">celui-là</span></td>
+      </tr>
+      <tr>
+        <td>Plural</td>
+        <td><span class="fr">ceux</span></td>
+        <td><span class="fr">ceux-ci</span> / <span class="fr">ceux-là</span></td>
+      </tr>
+      <tr>
+        <td rowspan="2">feminin</td>
+        <td>Singular</td>
+        <td><span class="fr">celle</span></td>
+        <td><span class="fr">celle-ci</span> / <span class="fr">celle-là</span></td>
+      </tr>
+      <tr>
+        <td>Plural</td>
+        <td><span class="fr">celles</span></td>
+        <td><span class="fr">celles-ci</span> / <span class="fr">celles-là</span></td>
+      </tr>
+      <tr>
+        <td class="middle center" colspan="2">unbestimmte Form</td>
+        <td><span class="fr">ce</span></td>
+        <td><span class="fr" style="color: red">ceci</span> / <span class="fr">cela</span> / <span class="fr">ça</span></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <hr>
+
+  <p>Die unbestimmten Demonstrativpronomen sind <span class="fr">ce</span>, <span class="fr">ça</span>, <span class="fr">cela</span> (gehoben) und <span class="fr">ceci</span> (gehoben). Sie können sich auf eine Wortgruppe oder einen ganzen Satz beziehen.</p>
+  <div class="examples">
+    <div class="fr">C’est lui qui garde les moutons.</div>
+    <div class="de spoiler">Er ist es, der die Schafe hütet.</div>
+    <div class="fr">Ce sont eux qui sont gardés par le berger.</div>
+    <div class="de spoiler">Sie sind es, die der Schäfer hütet.</div>
+    <div class="fr">J'aime ça.</div>
+    <div class="de spoiler">Ich mag das.</div>
+  </div>
+  <p><span class="fr">Ce/c'</span> verwendet man zusammen mit <span class="fr">être</span>. Wie das deutsche <span class="de">das</span> wird <span class="fr">ce/c'</span> immer im Singular gebraucht, unabhängig davon, ob das Verb im Singular oder Plural steht.</p>
+  <div class="examples">
+    <div class="fr">C'est intéressant. Ce sont de bonnes nouvelles.</div>
+    <div class="de spoiler">Das ist interessant. Das sind ja gute Neuigkeiten.</div>
+  </div>
+  <p>Mit allen anderen Verben außer <span class="fr">être</span> verwendet man <span class="fr">ça</span>.</p>
+  <div class="examples">
+    <div class="fr">Ça m’a beaucoup plu.</div>
+    <div class="de spoiler">Es hat mir sehr gefallen.</div>
+  </div>
+  <p>Die Formen <span class="fr">ceci</span> und <span class="fr">cela</span> können mit allen Verben verwendet werden und sind vor allem in geschriebenen Texten zu finden; beim Sprechen bevorzugt man <span class="fr">ça</span> bzw. <span class="fr">ce/c'</span>.</p>
+  <div class="examples">
+    <div class="fr">Je trouve ceci très intéressant.</div>
+    <div class="de spoiler">Ich finde das sehr interessant.</div>
+    <div class="fr">Cela est bien dit.</div>
+    <div class="de spoiler">Das ist gut gesagt.</div>
+  </div>
