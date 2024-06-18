@@ -27,7 +27,7 @@ Im Ordner [cards](cards) befinden sich alle 5000 Karten im YAML-Format.
 4. Erstelle einen Pull Request
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40340 Beispielsätzen (durchschnittlich 8.1 pro Karte). 74 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40340 Beispielsätzen (durchschnittlich 8.1 pro Karte). 75 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -278,7 +278,7 @@ Insgesamt gibt es 5000 Karten mit 40340 Beispielsätzen (durchschnittlich 8.1 pr
 | 245 | semaine | Woche | 8 |  | [Bearbeiten](cards/0245_semaine.yml) |
 | 246 | également | ebenfalls | 5 |  | [Bearbeiten](cards/0246_également.yml) |
 | 247 | ci | hier; dieser/diese/dieses | 2 |  | [Bearbeiten](cards/0247_ci.yml) |
-| 248 | façon | Art, Weise | 13 |  | [Bearbeiten](cards/0248_façon.yml) |
+| 248 | façon | Art, Weise; Methode | 13 |  | [Bearbeiten](cards/0248_façon.yml) |
 | 249 | nombre | Anzahl, Zahl | 12 |  | [Bearbeiten](cards/0249_nombre.yml) |
 | 250 | perdre | verlieren | 16 |  | [Bearbeiten](cards/0250_perdre.yml) |
 | 251 | français | Französisch, Franzose | 7 |  | [Bearbeiten](cards/0251_français.yml) |
@@ -514,7 +514,7 @@ Insgesamt gibt es 5000 Karten mit 40340 Beispielsätzen (durchschnittlich 8.1 pr
 | 481 | presque | fast, beinahe | 13 |  | [Bearbeiten](cards/0481_presque.yml) |
 | 482 | attention | Aufmerksamkeit | 13 |  | [Bearbeiten](cards/0482_attention.yml) |
 | 483 | cadre | Rahmen; Führungskraft | 12 |  | [Bearbeiten](cards/0483_cadre.yml) |
-| 484 | futur | Zukunft | 15 | X | [Bearbeiten](cards/0484_futur.yml) |
+| 484 | futur | Zukunft; (zu-)künftige(-r/s) | 15 | X | [Bearbeiten](cards/0484_futur.yml) |
 | 485 | mouvement | Bewegung | 14 |  | [Bearbeiten](cards/0485_mouvement.yml) |
 | 486 | former | bilden | 5 |  | [Bearbeiten](cards/0486_former.yml) |
 | 487 | conduire | fahren, leiten | 13 |  | [Bearbeiten](cards/0487_conduire.yml) |
@@ -617,7 +617,7 @@ Insgesamt gibt es 5000 Karten mit 40340 Beispielsätzen (durchschnittlich 8.1 pr
 | 584 | actuel | derzeitig | 2 |  | [Bearbeiten](cards/0584_actuel.yml) |
 | 585 | opposer | gegenüberstellen; gegen etw. sein | 15 |  | [Bearbeiten](cards/0585_opposer.yml) |
 | 586 | signifier | bedeuten | 9 |  | [Bearbeiten](cards/0586_signifier.yml) |
-| 587 | journée | Tag | 13 | X | [Bearbeiten](cards/0587_journée.yml) |
+| 587 | journée | Tag [Dauer] | 13 | X | [Bearbeiten](cards/0587_journée.yml) |
 | 588 | d’ailleurs | übrigens, zudem | 2 |  | [Bearbeiten](cards/0588_d’ailleurs.yml) |
 | 589 | traiter | behandeln, verarbeiten | 12 |  | [Bearbeiten](cards/0589_traiter.yml) |
 | 590 | indiquer | anzeigen, angeben | 10 |  | [Bearbeiten](cards/0590_indiquer.yml) |
@@ -2077,23 +2077,23 @@ Insgesamt gibt es 5000 Karten mit 40340 Beispielsätzen (durchschnittlich 8.1 pr
 | 2044 | issu | hervorgegangen, stammend | 7 |  | [Bearbeiten](cards/2044_issu.yml) |
 | 2045 | poursuite | Verfolgung | 12 |  | [Bearbeiten](cards/2045_poursuite.yml) |
 | 2046 | nôtre | unser | 11 |  | [Bearbeiten](cards/2046_nôtre.yml) |
-| 2047 | éclairer | erleuchten, beleuchten, aufklären | 12 |  | [Bearbeiten](cards/2047_éclairer.yml) |
-| 2048 | consommer | verbrauchen, konsumieren | 6 |  | [Bearbeiten](cards/2048_consommer.yml) |
+| 2047 | éclairer | beleuchten, aufklären | 12 |  | [Bearbeiten](cards/2047_éclairer.yml) |
+| 2048 | consommer | verbrauchen, verzehren | 6 |  | [Bearbeiten](cards/2048_consommer.yml) |
 | 2049 | infirmier | Krankenpfleger | 9 |  | [Bearbeiten](cards/2049_infirmier.yml) |
 | 2050 | caractéristique | Merkmal, Eigenschaft | 9 |  | [Bearbeiten](cards/2050_caractéristique.yml) |
-| 2051 | dépenser | ausgeben, verbrauchen | 8 |  | [Bearbeiten](cards/2051_dépenser.yml) |
-| 2052 | censé | vermeintlich, angeblich | 5 |  | [Bearbeiten](cards/2052_censé.yml) |
+| 2051 | dépenser | ausgeben, verwenden | 8 |  | [Bearbeiten](cards/2051_dépenser.yml) |
+| 2052 | censé | eigentlich | 5 |  | [Bearbeiten](cards/2052_censé.yml) |
 | 2053 | fuite | Flucht, Leck | 12 |  | [Bearbeiten](cards/2053_fuite.yml) |
 | 2054 | conviction | Überzeugung | 10 |  | [Bearbeiten](cards/2054_conviction.yml) |
 | 2055 | nettement | deutlich, klar | 4 |  | [Bearbeiten](cards/2055_nettement.yml) |
-| 2056 | détenir | besitzen, innehaben | 5 |  | [Bearbeiten](cards/2056_détenir.yml) |
+| 2056 | détenir | besitzen, festhalten | 5 |  | [Bearbeiten](cards/2056_détenir.yml) |
 | 2057 | évaluation | Bewertung, Beurteilung | 12 |  | [Bearbeiten](cards/2057_évaluation.yml) |
-| 2058 | installation | Installation | 13 |  | [Bearbeiten](cards/2058_installation.yml) |
+| 2058 | installation | Anlage, Einrichtung | 13 |  | [Bearbeiten](cards/2058_installation.yml) |
 | 2059 | innocent | unschuldig | 10 |  | [Bearbeiten](cards/2059_innocent.yml) |
-| 2060 | fameux | berühmt, großartig | 7 |  | [Bearbeiten](cards/2060_fameux.yml) |
-| 2061 | cultiver | anbauen, kultivieren | 6 |  | [Bearbeiten](cards/2061_cultiver.yml) |
-| 2062 | doux | weich, sanft | 5 |  | [Bearbeiten](cards/2062_doux.yml) |
-| 2063 | gouverner | regieren, leiten | 3 |  | [Bearbeiten](cards/2063_gouverner.yml) |
+| 2060 | fameux | berüchtigt, ungeheuer | 7 | X | [Bearbeiten](cards/2060_fameux.yml) |
+| 2061 | cultiver | anbauen, pflegen | 6 |  | [Bearbeiten](cards/2061_cultiver.yml) |
+| 2062 | doux | weich, mild | 5 |  | [Bearbeiten](cards/2062_doux.yml) |
+| 2063 | gouverner | regieren | 3 |  | [Bearbeiten](cards/2063_gouverner.yml) |
 | 2064 | jouir | genießen | 14 |  | [Bearbeiten](cards/2064_jouir.yml) |
 | 2065 | parcourir | durchlaufen, durchstreifen | 7 |  | [Bearbeiten](cards/2065_parcourir.yml) |
 | 2066 | bloc | Block, Klumpen | 16 |  | [Bearbeiten](cards/2066_bloc.yml) |
