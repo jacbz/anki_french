@@ -278,7 +278,7 @@ Insgesamt gibt es 5000 Karten mit 40340 Beispielsätzen (durchschnittlich 8.1 pr
 | 245 | semaine | Woche | 8 |  | [Bearbeiten](cards/0245_semaine.yml) |
 | 246 | également | ebenfalls | 5 |  | [Bearbeiten](cards/0246_également.yml) |
 | 247 | ci | hier; dieser/diese/dieses | 2 |  | [Bearbeiten](cards/0247_ci.yml) |
-| 248 | façon | Art, Weise; Methode | 13 |  | [Bearbeiten](cards/0248_façon.yml) |
+| 248 | façon | Art, Weise; Arbeit | 13 |  | [Bearbeiten](cards/0248_façon.yml) |
 | 249 | nombre | Anzahl, Zahl | 12 |  | [Bearbeiten](cards/0249_nombre.yml) |
 | 250 | perdre | verlieren | 16 |  | [Bearbeiten](cards/0250_perdre.yml) |
 | 251 | français | Französisch, Franzose | 7 |  | [Bearbeiten](cards/0251_français.yml) |
