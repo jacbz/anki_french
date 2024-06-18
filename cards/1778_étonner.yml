@@ -7,7 +7,7 @@ Wortart: v
 Wort mit Artikel: étonner
 Femininum / Plural: ''
 IPA: \e.tɔ.ne\
-Definition: überraschen
+Definition: überraschen, wundern
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -25,9 +25,30 @@ Beispielsätze: |-
   Le professeur s'est étonné que les élèves aient si bien réussi l'examen.
   Der Lehrer hat sich darüber gewundert, dass die Schüler die Prüfung so gut bestanden haben.
 
+  Aussi ne devons-nous pas nous étonner de retrouver ici les mêmes difficultés.
+  Auch dürfen wir uns nicht wundern, hier dieselben Schwierigkeiten wiederzufinden.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>                
-Notiz: ''
+Notiz: |-
+  <p><b>Étonner</b> bezieht sich darauf, Erstaunen oder Verwunderung auszulösen. Es deutet oft an, dass etwas unerwartet ist, aber nicht unbedingt schockierend.</p>
+  <div class="examples">
+    <div class="fr">Le spectacle de magie a étonné les enfants.</div>
+    <div class="de spoiler">Die Zauberschau hat die Kinder erstaunt.</div>
+    <div class="fr">Il m'étonne toujours avec ses talents cachés.</div>
+    <div class="de spoiler">Er erstaunt mich immer wieder mit seinen verborgenen Talenten.</div>
+    <div class="fr">Cette nouvelle a étonné tout le monde au bureau.</div>
+    <div class="de spoiler">Diese Neuigkeit hat alle im Büro erstaunt.</div>
+  </div>
+  <p><b>Surprendre</b> (#1053) impliziert, überrascht oder überrumpelt zu werden. Es beinhaltet manchmal eine Konnotation der Einmischung in die Privatsphäre oder einer zufälligen Entdeckung.</p>
+  <div class="examples">
+    <div class="fr">J'ai surpris les enfants en train de fouiller dans la cuisine.</div>
+    <div class="de spoiler">Ich habe die Kinder erwischt, als sie in der Küche herumwühlten.</div>
+    <div class="fr">Sa décision soudaine de déménager nous a tous surpris.</div>
+    <div class="de spoiler">Seine plötzliche Entscheidung umzuziehen, hat uns alle überrascht.</div>
+    <div class="fr">Je l'ai surpris en train de me préparer une fête d'anniversaire secrète.</div>
+    <div class="de spoiler">Ich habe ihn dabei erwischt, wie er heimlich eine Geburtstagsfeier für mich vorbereitete.</div>
+  </div>
