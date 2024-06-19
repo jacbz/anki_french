@@ -27,7 +27,7 @@ Im Ordner [cards](cards) befinden sich alle 5000 Karten im YAML-Format.
 4. Erstelle einen Pull Request
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40373 Beispielsätzen (durchschnittlich 8.1 pro Karte). 83 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40373 Beispielsätzen (durchschnittlich 8.1 pro Karte). 84 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -54,7 +54,7 @@ Insgesamt gibt es 5000 Karten mit 40373 Beispielsätzen (durchschnittlich 8.1 pr
 | 21 | par | durch, von | 12 |  | [Bearbeiten](cards/0021_par.yml) |
 | 22 | je | ich | 3 |  | [Bearbeiten](cards/0022_je.yml) |
 | 23 | avec | mit | 13 |  | [Bearbeiten](cards/0023_avec.yml) |
-| 24 | tout | alles, ganz, jede(-r/s) | 13 |  | [Bearbeiten](cards/0024_tout.yml) |
+| 24 | tout | alles, ganz, jede(-r/s) | 13 | X | [Bearbeiten](cards/0024_tout.yml) |
 | 25 | faire | machen, tun | 12 |  | [Bearbeiten](cards/0025_faire.yml) |
 | 26 | son | sein(-e) | 9 |  | [Bearbeiten](cards/0026_son.yml) |
 | 27 | mettre | setzen, legen, anziehen | 15 |  | [Bearbeiten](cards/0027_mettre.yml) |
