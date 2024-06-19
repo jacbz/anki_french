@@ -1005,7 +1005,7 @@ Insgesamt gibt es 5000 Karten mit 40373 Beispielsätzen (durchschnittlich 8.1 pr
 | 972 | opposition | Opposition | 11 |  | [Bearbeiten](cards/0972_opposition.yml) |
 | 973 | maladie | Krankheit | 13 |  | [Bearbeiten](cards/0973_maladie.yml) |
 | 974 | outre | jenseits, außerhalb von | 9 |  | [Bearbeiten](cards/0974_outre.yml) |
-| 975 | tandis que | während, wohingegen | 4 |  | [Bearbeiten](cards/0975_tandis que.yml) |
+| 975 | tandis que | während, wohingegen | 4 |  | [Bearbeiten](cards/0975_tandis%20que.yml) |
 | 976 | construction | Bau, Konstruktion | 12 |  | [Bearbeiten](cards/0976_construction.yml) |
 | 977 | bande | Band, Streifen | 12 |  | [Bearbeiten](cards/0977_bande.yml) |
 | 978 | signal | Signal | 13 |  | [Bearbeiten](cards/0978_signal.yml) |
