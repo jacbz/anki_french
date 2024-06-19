@@ -289,11 +289,17 @@ span.spoiler {
 
 #github {
   margin-top: 12px;
-  font-size: 40%;
+  font-size: 35%;
 }
 
 #github a {
   text-decoration: none; 
+}
+
+#github a::before {
+  content: "\2665\fe0e";
+  font-size: 90%;
+  margin-right: 0.2em;
 }
 
 /**

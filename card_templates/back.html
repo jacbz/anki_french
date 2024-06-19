@@ -62,8 +62,11 @@
 </div>
 {{/Konjugation}}
 <div id="github">
-  <a>♥ Auf GitHub bearbeiten</a>
+  <a>Auf GitHub bearbeiten</a>
 </div>
+<!--------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------->
 <script>
   /**
    * Feminine form
@@ -252,10 +255,14 @@
   var github = $("#github > a");
   // set href
   var rank = $(".rank").data("content");
-  github.attr(
-    "href",
-    `https://github.com/jacbz/anki_french/blob/main/cards/${String(
-      rank
-    ).padStart(4, "0")}_${word.split("<br>")[0]}.yml`
-  );
+  if (rank >= "1" && rank <= "5000") {
+    github.attr(
+      "href",
+      `https://github.com/jacbz/anki_french/blob/main/cards/${String(
+        rank
+      ).padStart(4, "0")}_${word.split("<br>")[0]}.yml`
+    );
+  } else {
+    github.remove();
+  }
 </script>

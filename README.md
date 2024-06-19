@@ -27,7 +27,7 @@ Im Ordner [cards](cards) befinden sich alle 5000 Karten im YAML-Format.
 4. Erstelle einen Pull Request
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40375 Beispielsätzen (durchschnittlich 8.1 pro Karte). 83 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40373 Beispielsätzen (durchschnittlich 8.1 pro Karte). 83 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -36,7 +36,7 @@ Insgesamt gibt es 5000 Karten mit 40375 Beispielsätzen (durchschnittlich 8.1 pr
 | 3 | un | ein(-e) | 12 |  | [Bearbeiten](cards/0003_un.yml) |
 | 4 | à | zu, nach, in, an, auf [örtlich], bei [zeitlich], für [Zeitraum] | 46 |  | [Bearbeiten](cards/0004_à.yml) |
 | 5 | être | sein | 4 |  | [Bearbeiten](cards/0005_être.yml) |
-| 6 | et | und | 5 | X | [Bearbeiten](cards/0006_et.yml) |
+| 6 | et | und | 4 | X | [Bearbeiten](cards/0006_et.yml) |
 | 7 | en | in | 13 |  | [Bearbeiten](cards/0007_en.yml) |
 | 8 | avoir | haben, besitzen | 14 |  | [Bearbeiten](cards/0008_avoir.yml) |
 | 9 | que | dass, als, den [Relativpronomen], was, welcher [Fragepronomen] | 12 |  | [Bearbeiten](cards/0009_que.yml) |
@@ -851,7 +851,7 @@ Insgesamt gibt es 5000 Karten mit 40375 Beispielsätzen (durchschnittlich 8.1 pr
 | 818 | respect | Respekt | 12 |  | [Bearbeiten](cards/0818_respect.yml) |
 | 819 | crime | Verbrechen | 11 |  | [Bearbeiten](cards/0819_crime.yml) |
 | 820 | précédent | vorhergehend | 7 |  | [Bearbeiten](cards/0820_précédent.yml) |
-| 821 | installer | installieren, einrichten | 13 |  | [Bearbeiten](cards/0821_installer.yml) |
+| 821 | installer | aufstellen; sich niederlassen | 13 |  | [Bearbeiten](cards/0821_installer.yml) |
 | 822 | facile | einfach, bequem | 16 | X | [Bearbeiten](cards/0822_facile.yml) |
 | 823 | augmenter | erhöhen, steigern | 5 |  | [Bearbeiten](cards/0823_augmenter.yml) |
 | 824 | réunir | vereinigen, versammeln | 12 |  | [Bearbeiten](cards/0824_réunir.yml) |
@@ -1998,7 +1998,7 @@ Insgesamt gibt es 5000 Karten mit 40375 Beispielsätzen (durchschnittlich 8.1 pr
 | 1965 | principalement | hauptsächlich, vorwiegend | 2 |  | [Bearbeiten](cards/1965_principalement.yml) |
 | 1966 | prudence | Vorsicht, Umsicht | 6 |  | [Bearbeiten](cards/1966_prudence.yml) |
 | 1967 | stade | Stadion, Stadium | 5 |  | [Bearbeiten](cards/1967_stade.yml) |
-| 1968 | liaison | Verbindung, Verknüpfung | 13 |  | [Bearbeiten](cards/1968_liaison.yml) |
+| 1968 | liaison | Verbindung, Verknüpfung | 12 |  | [Bearbeiten](cards/1968_liaison.yml) |
 | 1969 | consultation | Beratung, Sprechstunde | 12 |  | [Bearbeiten](cards/1969_consultation.yml) |
 | 1970 | québécois | Quebecer | 2 |  | [Bearbeiten](cards/1970_québécois.yml) |
 | 1971 | ordonner | anordnen, befehlen | 9 |  | [Bearbeiten](cards/1971_ordonner.yml) |
@@ -2081,7 +2081,7 @@ Insgesamt gibt es 5000 Karten mit 40375 Beispielsätzen (durchschnittlich 8.1 pr
 | 2048 | consommer | verbrauchen, verzehren | 6 |  | [Bearbeiten](cards/2048_consommer.yml) |
 | 2049 | infirmier | Krankenpfleger | 9 |  | [Bearbeiten](cards/2049_infirmier.yml) |
 | 2050 | caractéristique | Merkmal, Eigenschaft | 9 |  | [Bearbeiten](cards/2050_caractéristique.yml) |
-| 2051 | dépenser | ausgeben, verwenden | 8 |  | [Bearbeiten](cards/2051_dépenser.yml) |
+| 2051 | dépenser | ausgeben, verbrauchen | 8 |  | [Bearbeiten](cards/2051_dépenser.yml) |
 | 2052 | censé | eigentlich | 5 |  | [Bearbeiten](cards/2052_censé.yml) |
 | 2053 | fuite | Flucht, Leck | 12 |  | [Bearbeiten](cards/2053_fuite.yml) |
 | 2054 | conviction | Überzeugung | 10 |  | [Bearbeiten](cards/2054_conviction.yml) |
@@ -2095,13 +2095,13 @@ Insgesamt gibt es 5000 Karten mit 40375 Beispielsätzen (durchschnittlich 8.1 pr
 | 2062 | doux | weich, mild | 5 |  | [Bearbeiten](cards/2062_doux.yml) |
 | 2063 | gouverner | regieren | 3 |  | [Bearbeiten](cards/2063_gouverner.yml) |
 | 2064 | jouir | genießen | 14 |  | [Bearbeiten](cards/2064_jouir.yml) |
-| 2065 | parcourir | durchlaufen, durchstreifen | 7 |  | [Bearbeiten](cards/2065_parcourir.yml) |
-| 2066 | bloc | Block, Klumpen | 16 |  | [Bearbeiten](cards/2066_bloc.yml) |
+| 2065 | parcourir | durchlaufen, zurücklegen | 7 |  | [Bearbeiten](cards/2065_parcourir.yml) |
+| 2066 | bloc | Block | 16 |  | [Bearbeiten](cards/2066_bloc.yml) |
 | 2067 | électrique | elektrisch | 7 |  | [Bearbeiten](cards/2067_électrique.yml) |
 | 2068 | seuil | Schwelle | 12 |  | [Bearbeiten](cards/2068_seuil.yml) |
-| 2069 | croissant | Hörnchen, Croissant | 6 |  | [Bearbeiten](cards/2069_croissant.yml) |
-| 2070 | classer | ordnen, einordnen | 7 |  | [Bearbeiten](cards/2070_classer.yml) |
-| 2071 | audience | Zuschauerschaft, Publikum | 12 |  | [Bearbeiten](cards/2071_audience.yml) |
+| 2069 | croissant | wachsend, aufsteigend | 6 |  | [Bearbeiten](cards/2069_croissant.yml) |
+| 2070 | classer | (ein-)ordnen | 7 |  | [Bearbeiten](cards/2070_classer.yml) |
+| 2071 | audience | Verhandlung, Publikum | 12 |  | [Bearbeiten](cards/2071_audience.yml) |
 | 2072 | multiple | vielfach, mehrfach | 8 |  | [Bearbeiten](cards/2072_multiple.yml) |
 | 2073 | minorité | Minderheit | 12 |  | [Bearbeiten](cards/2073_minorité.yml) |
 | 2074 | phrase | Satz | 12 |  | [Bearbeiten](cards/2074_phrase.yml) |
