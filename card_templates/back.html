@@ -167,18 +167,18 @@
     $(".fr:not(:has(.sentence-with-audio))").each(function () {
       var text = beautifyText($(this).html(), true);
       var containsPunctuation = text.match(/[.!?]/);
+      $(this).html(text);
       if (containsPunctuation) {
+        var textContent = $(this).text();
         $(this).html(
           `<span class="sentence-with-audio">${audioButton(
-            text
+            textContent
           )}<span>${text}</span></span>`
         );
         if ($(this).hasClass("spoiler")) {
           $(this).removeClass("spoiler");
           $(this).find(".sentence-with-audio > span").addClass("spoiler");
         }
-      } else {
-        $(this).html(text);
       }
     });
 
