@@ -212,6 +212,19 @@
   }
 
   /**
+   * Collapsible sections
+   */
+  $(".box .section-title").click(function () {
+    $(this).toggleClass("expanded");
+    var content = $(this).next();
+    if (content.css("max-height") !== "0px") {
+      content.css("max-height", "0px");
+    } else {
+      content.css("max-height", content.prop("scrollHeight") + "px");
+    }
+  });
+
+  /**
    * Conjugations
    */
   var showRegularConjugations = false;
