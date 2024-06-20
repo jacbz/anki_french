@@ -60,10 +60,8 @@ Beispielsätze: |-
 Notiz: |-
   <p>Es gibt verschiedene Möglichkeiten, <b>tout</b> im Französischen zu verwenden: als Pronomen, Adjektiv oder Adverb.</p>
 
-  <hr>
-
-  <h3><span class="fr">Tout</span> = <span class="de">alles</span></h3>
-
+  <div class="section-title"><span class="fr">Tout</span> = <span class="de">alles</span></div>
+  <div class="section">
   <p>Allein verwendet, bedeutet das Pronomen <span class="fr">tout</span> <span class="de">alles</span>. Es verändert sich nie.</p>
 
   <div class="examples">
@@ -74,12 +72,12 @@ Notiz: |-
     <div class="fr">J'ai tout entendu !</div>
     <div class="de spoiler">Ich habe alles gehört!</div>
   </div>
+  </div>
 
-  <hr>
+  <div class="section-title"><span class="fr">Tout/tous/toute/toutes</span> + Artikel + Nomen</div>
+  <div class="section">
 
-  <h3><span class="fr">Tout/tous/toute/toutes</span> + Artikel + Nomen</h3>
-
-  <p>Um <span class="de">alle [Dinge]</span> oder <span class="de">(die) ganze [Sache]</span> zu sagen, verwendet man das Adjektiv <span class="fr">tout</span> wie folgt:</p>
+  <p>Um <span class="de">alle [Dinge]</span> oder <span class="de">(die) ganze [Sache]</span> auszudrucken, verwendet man das Adjektiv <span class="fr">tout</span> wie folgt:</p>
 
   <table>
     <tbody><tr>
@@ -111,11 +109,10 @@ Notiz: |-
   </div>
 
   <p>In diesem Fall ist das -s in <span class="fr">tous</span> stumm.</p>
+  </div>
 
-  <hr>
-
-  <h3><span class="fr">Tous/toutes</span> = <span class="de">[sie] alle</span></h3>
-
+  <div class="section-title"><span class="fr">Tous/toutes</span> = <span class="de">[sie] alle</span></div>
+  <div class="section">
   <p>Allein verwendet, ersetzen die Pronomen <span class="fr">tous</span> und <span class="fr">toutes</span> bereits erwähnte Nomen. Als solche stimmen <span class="fr">tous/toutes</span> in Geschlecht mit den Dingen überein, die sie ersetzen (sie drücken immer eine Pluralmenge aus!).</p>
 
   <div class="examples">
@@ -146,11 +143,10 @@ Notiz: |-
       <li>In diesem Fall wird das -s in <span class="fr">tous</span> ausgesprochen, um es von <span class="fr">tout</span> (alles) zu unterscheiden.</li>
     </ul>
   </ul>
+  </div>
 
-  <hr>
-
-  <h3><span class="fr">Tout</span> + [Adverb]</h3>
-
+  <div class="section-title"><span class="fr">Tout</span> + [Adverb]</div>
+  <div class="section">
   <p>Das Adverb <span class="fr">tout</span> kann vor einem anderen Adverb verwendet werden, um <span class="de">sehr</span> zu bedeuten. In diesem Fall ändert sich <span class="fr">tout</span> nie.</p>
 
   <div class="examples">
@@ -159,11 +155,10 @@ Notiz: |-
     <div class="fr">Il est parti à tout jamais.</div>
     <div class="de spoiler">Er ist für immer gegangen.</div>
   </div>
+  </div>
 
-  <hr>
-
-  <h3><span class="fr">Tout/toute</span> + [Adjektiv]</h3>
-
+  <div class="section-title"><span class="fr">Tout/toute</span> + [Adjektiv]</div>
+  <div class="section">
   <p>Als Adverb kann <span class="fr">tout</span> auch verwendet werden, um die Intensität eines Adjektivs zu modifizieren (<span class="de">sehr/völlig</span>). In diesem Kontext ändert sich <span class="fr">tout</span> nie vor männlichen Adjektiven.</p>
 
   <div class="examples">
@@ -218,9 +213,7 @@ Notiz: |-
     <div class="de spoiler">Die Mädchen waren sehr aufgeregt, das Feuerwerk zu sehen.</div>
   </div>
 
-  <hr>
-
-  <p>Achte auf diese Nuancen:</p>
+  <p class="attention">Achte auf diese Nuancen:</p>
 
   <div class="examples">
     <div class="fr">Nous sommes tout impatients de venir !</div>
@@ -231,4 +224,5 @@ Notiz: |-
     <div class="de spoiler">Sie sind <u>alle</u> fröhlich.</div>
     <div class="fr">Elles sont tout heureuses.</div>
     <div class="de spoiler">Sie sind <u>sehr</u> glücklich.</div>
+  </div>
   </div>

@@ -54,7 +54,8 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>                
-Notiz: "Wenn <span class=\"fr\">plus</span> <span class=\"de\">mehr</span> oder <span\
+Notiz: "<div class=\"section-title\">Aussprache von -s</div>\n<div class=\"section\"\
+  >\nWenn <span class=\"fr\">plus</span> <span class=\"de\">mehr</span> oder <span\
   \ class=\"de\">zusätzlich</span> bedeutet (z.B. +Nomen oder +que), dann wird das\
   \ -s ausgesprochen.\n<div class=\"examples\">\n<div class=\"fr\">On veut <u>plu<span\
   \ style=\"color:red;\">s</span></u> de devoirs à l'école.</div><div class=\"de spoiler\"\
@@ -63,16 +64,17 @@ Notiz: "Wenn <span class=\"fr\">plus</span> <span class=\"de\">mehr</span> oder 
   >Ich liebe dich <u>mehr</u> als alles andere.</div><div class=\"fr\">Victor a <u>plu<span\
   \ style=\"color:red;\">s</span></u> d'imagination que moi.</div><div class=\"de\
   \ spoiler\">Victor hat <u>mehr</u> Fantasie als ich.</div>  \n</div>\nAuch, wenn\
-  \ ein Adjektiv/Adverb folgt, das mit einem Vokal beginnt:\n<div class=\"examples\"\
-  >\n<div class=\"fr\">Ce matin, il fait <u>plu<span style=\"color:red;\">s</span></u>\
-  \ agréable qu'hier.</div><div class=\"de spoiler\">Heute Morgen ist das Wetter <u>schöner</u>\
-  \ als gestern.</div><div class=\"fr\">Elle est <u>plu<span style=\"color:red;\"\
-  >s</span></u> heureuse aujourd'hui qu'hier.</div><div class=\"de spoiler\">Sie ist\
-  \ heute <u>glücklicher</u> als gestern.</div>\n</div>\nWenn <span class=\"fr\">plus</span>\
-  \ <span class=\"de\">nicht mehr</span> oder <span class=\"de\">keine mehr</span>\
-  \ bedeutet oder vor einem Adjektiv/Adverb steht, das mit einem Konsonanten beginnt,\
-  \ wird das -s nicht ausgesprochen.\n<div class=\"examples\">\n<div class=\"fr\"\
-  >Nous n'avons <u>plu<span style=\"opacity:50%\">s</span></u> de travail.</div><div\
-  \ class=\"de spoiler\">Wir haben keine Arbeit <u>mehr</u>.</div><div class=\"fr\"\
-  >Nous allons rester <u>plu<span style=\"opacity:50%\">s</span></u> longtemps.</div><div\
-  \ class=\"de spoiler\">Wir werden <u>länger</u> bleiben.</div>\n</div>"
+  \ ein Adjektiv/Adverb folgt, das mit einem Vokal oder stummen h beginnt:\n<div class=\"\
+  examples\">\n<div class=\"fr\">Ce matin, il fait <u>plu<span style=\"color:red;\"\
+  >s</span></u> agréable qu'hier.</div><div class=\"de spoiler\">Heute Morgen ist\
+  \ das Wetter <u>schöner</u> als gestern.</div><div class=\"fr\">Elle est <u>plu<span\
+  \ style=\"color:red;\">s</span></u> heureuse aujourd'hui qu'hier.</div><div class=\"\
+  de spoiler\">Sie ist heute <u>glücklicher</u> als gestern.</div>\n</div>\nWenn <span\
+  \ class=\"fr\">plus</span> <span class=\"de\">nicht mehr</span> oder <span class=\"\
+  de\">keine mehr</span> bedeutet oder vor einem Adjektiv/Adverb steht, das mit einem\
+  \ Konsonanten beginnt, wird das -s nicht ausgesprochen.\n<div class=\"examples\"\
+  >\n<div class=\"fr\">Nous n'avons <u>plu<span style=\"opacity:50%\">s</span></u>\
+  \ de travail.</div><div class=\"de spoiler\">Wir haben keine Arbeit <u>mehr</u>.</div><div\
+  \ class=\"fr\">Nous allons rester <u>plu<span style=\"opacity:50%\">s</span></u>\
+  \ longtemps.</div><div class=\"de spoiler\">Wir werden <u>länger</u> bleiben.</div>\n\
+  </div>\n</div>"

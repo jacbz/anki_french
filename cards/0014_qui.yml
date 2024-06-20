@@ -7,7 +7,7 @@ Wortart: pro
 Wort mit Artikel: qui
 Femininum / Plural: ''
 IPA: \ki\
-Definition: wer, der/die/das
+Definition: wer, der/die/das [Relativpronomen]
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -54,4 +54,26 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>                
-Notiz: ''
+Notiz: |-
+  <p>Mit dem Interrogativpronomen <b>qui</b> wird nach Personen gefragt. Im Gegensatz zum Deutschen ist <b>qui</b> unveränderlich.</p>
+  <div class="examples">
+  <div class="fr">Qui est là?</div>
+  <div class="de spoiler">Wer ist da?</div>
+  <div class="fr">Vous cherchez qui?</div>
+  <div class="de spoiler">Wen suchen Sie?</div>
+  </div>
+  <p><span class="fr">qui</span> kann auch mit einer Präposition (z.B. <span class="fr">à</span>) verwendet werden.</p>
+  <div class="examples">
+  <div class="fr">À qui penses-tu?</div>
+  <div class="de spoiler">An wen denkst du?</div>
+  </div>
+
+  <hr>
+
+  <p>Das Relativpronomen <span class="fr">qui</span> leitet einen Relativsatz ein, bei dem <span class="fr">qui</span> gleichzeitig Subjekt des Relativsatzes ist. <span class="fr">Qui</span> ist unveränderlich und kann sich im Singular und Plural auf Personen oder Sachen beziehen:</p>
+  <div class="examples">
+  <div class="fr">J'ai une amie qui m'aide toujours.</div>
+  <div class="de spoiler">Ich habe eine Freundin, die mir immer hilft.</div>
+  <div class="fr">J'ai reçu un livre qui me plaît beaucoup.</div>
+  <div class="de spoiler">Ich habe ein Buch bekommen, das mir sehr gefällt.</div>
+  </div>
