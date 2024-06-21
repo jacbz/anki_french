@@ -27,7 +27,7 @@ Im Ordner [cards](cards) befinden sich alle 5000 Karten im YAML-Format.
 4. Erstelle einen Pull Request
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40371 Beispielsätzen (durchschnittlich 8.1 pro Karte). 86 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40371 Beispielsätzen (durchschnittlich 8.1 pro Karte). 95 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -2207,7 +2207,7 @@ Insgesamt gibt es 5000 Karten mit 40371 Beispielsätzen (durchschnittlich 8.1 pr
 | 2174 | verre | Glas | 12 |  | [Bearbeiten](cards/2174_verre.yml) |
 | 2175 | spécifique | spezifisch, eigen | 5 |  | [Bearbeiten](cards/2175_spécifique.yml) |
 | 2176 | docteur | Doktor | 5 |  | [Bearbeiten](cards/2176_docteur.yml) |
-| 2177 | hausser | erhöhen, steigern | 8 |  | [Bearbeiten](cards/2177_hausser.yml) |
+| 2177 | hausser | erhöhen, steigern | 8 | X | [Bearbeiten](cards/2177_hausser.yml) |
 | 2178 | fréquence | Häufigkeit, Frequenz | 12 |  | [Bearbeiten](cards/2178_fréquence.yml) |
 | 2179 | urgent | dringend | 7 |  | [Bearbeiten](cards/2179_urgent.yml) |
 | 2180 | trou | Loch | 12 |  | [Bearbeiten](cards/2180_trou.yml) |
@@ -2631,7 +2631,7 @@ Insgesamt gibt es 5000 Karten mit 40371 Beispielsätzen (durchschnittlich 8.1 pr
 | 2598 | civilisation | Zivilisation, Kultur | 2 |  | [Bearbeiten](cards/2598_civilisation.yml) |
 | 2599 | rouler | fahren, rollen | 12 |  | [Bearbeiten](cards/2599_rouler.yml) |
 | 2600 | technologique | technologisch | 4 |  | [Bearbeiten](cards/2600_technologique.yml) |
-| 2601 | heurter | stoßen, anstoßen | 10 |  | [Bearbeiten](cards/2601_heurter.yml) |
+| 2601 | heurter | stoßen, anstoßen | 10 | X | [Bearbeiten](cards/2601_heurter.yml) |
 | 2602 | football | Fußball | 9 |  | [Bearbeiten](cards/2602_football.yml) |
 | 2603 | décevant | enttäuschend | 4 |  | [Bearbeiten](cards/2603_décevant.yml) |
 | 2604 | législation | Gesetzgebung | 13 |  | [Bearbeiten](cards/2604_législation.yml) |
@@ -4011,7 +4011,7 @@ Insgesamt gibt es 5000 Karten mit 40371 Beispielsätzen (durchschnittlich 8.1 pr
 | 3978 | déploiement | Entfaltung, Bereitstellung | 9 |  | [Bearbeiten](cards/3978_déploiement.yml) |
 | 3979 | impuissant | machtlos | 4 |  | [Bearbeiten](cards/3979_impuissant.yml) |
 | 3980 | restauration | Restauration, Gastronomie | 7 |  | [Bearbeiten](cards/3980_restauration.yml) |
-| 3981 | haïr | hassen | 7 |  | [Bearbeiten](cards/3981_haïr.yml) |
+| 3981 | haïr | hassen | 7 | X | [Bearbeiten](cards/3981_haïr.yml) |
 | 3982 | marée | Gezeiten | 9 |  | [Bearbeiten](cards/3982_marée.yml) |
 | 3983 | souscrire | zeichnen, abonnieren | 6 |  | [Bearbeiten](cards/3983_souscrire.yml) |
 | 3984 | diable | Teufel | 14 |  | [Bearbeiten](cards/3984_diable.yml) |
@@ -4029,7 +4029,7 @@ Insgesamt gibt es 5000 Karten mit 40371 Beispielsätzen (durchschnittlich 8.1 pr
 | 3996 | rapporteur | Berichterstatter | 4 |  | [Bearbeiten](cards/3996_rapporteur.yml) |
 | 3997 | dix-neuvième | neunzehnte(-r/s) | 5 |  | [Bearbeiten](cards/3997_dix-neuvième.yml) |
 | 3998 | indemnisation | Entschädigung | 6 |  | [Bearbeiten](cards/3998_indemnisation.yml) |
-| 3999 | harceler | belästigen, mobben | 6 |  | [Bearbeiten](cards/3999_harceler.yml) |
+| 3999 | harceler | belästigen, mobben | 6 | X | [Bearbeiten](cards/3999_harceler.yml) |
 | 4000 | leadership | Führung, Leitung | 2 |  | [Bearbeiten](cards/4000_leadership.yml) |
 | 4001 | cahier | Heft | 9 |  | [Bearbeiten](cards/4001_cahier.yml) |
 | 4002 | portable | Handy | 2 |  | [Bearbeiten](cards/4002_portable.yml) |
@@ -4046,7 +4046,7 @@ Insgesamt gibt es 5000 Karten mit 40371 Beispielsätzen (durchschnittlich 8.1 pr
 | 4013 | remède | Heilmittel, Abhilfe | 12 |  | [Bearbeiten](cards/4013_remède.yml) |
 | 4014 | composant | Bauteil | 4 |  | [Bearbeiten](cards/4014_composant.yml) |
 | 4015 | économiquement | wirtschaftlich | 2 |  | [Bearbeiten](cards/4015_économiquement.yml) |
-| 4016 | hurler | schreien, brüllen | 3 |  | [Bearbeiten](cards/4016_hurler.yml) |
+| 4016 | hurler | schreien, brüllen | 3 | X | [Bearbeiten](cards/4016_hurler.yml) |
 | 4017 | yen | Yen | 2 |  | [Bearbeiten](cards/4017_yen.yml) |
 | 4018 | gras | fett | 8 |  | [Bearbeiten](cards/4018_gras.yml) |
 | 4019 | médiatique | medienwirksam | 5 |  | [Bearbeiten](cards/4019_médiatique.yml) |
@@ -4422,7 +4422,7 @@ Insgesamt gibt es 5000 Karten mit 40371 Beispielsätzen (durchschnittlich 8.1 pr
 | 4389 | substitution | Substitution, Ersatz | 2 |  | [Bearbeiten](cards/4389_substitution.yml) |
 | 4390 | parer | abwehren, parieren | 8 |  | [Bearbeiten](cards/4390_parer.yml) |
 | 4391 | avantageux | vorteilhaft | 4 |  | [Bearbeiten](cards/4391_avantageux.yml) |
-| 4392 | handicaper | behindern, beeinträchtigen | 4 |  | [Bearbeiten](cards/4392_handicaper.yml) |
+| 4392 | handicaper | behindern, beeinträchtigen | 4 | X | [Bearbeiten](cards/4392_handicaper.yml) |
 | 4393 | filmer | filmen, aufnehmen | 2 |  | [Bearbeiten](cards/4393_filmer.yml) |
 | 4394 | délinquant | Straftäter | 6 |  | [Bearbeiten](cards/4394_délinquant.yml) |
 | 4395 | perdant | Verlierer | 6 |  | [Bearbeiten](cards/4395_perdant.yml) |
@@ -4716,7 +4716,7 @@ Insgesamt gibt es 5000 Karten mit 40371 Beispielsätzen (durchschnittlich 8.1 pr
 | 4683 | illustration | Illustration | 3 |  | [Bearbeiten](cards/4683_illustration.yml) |
 | 4684 | appliqué | angewandt, umgesetzt | 4 |  | [Bearbeiten](cards/4684_appliqué.yml) |
 | 4685 | fermier | Bauer | 2 |  | [Bearbeiten](cards/4685_fermier.yml) |
-| 4686 | hanter | spuken, heimsuchen | 8 |  | [Bearbeiten](cards/4686_hanter.yml) |
+| 4686 | hanter | spuken, heimsuchen | 8 | X | [Bearbeiten](cards/4686_hanter.yml) |
 | 4687 | cordon | Schnur, Kordel | 12 |  | [Bearbeiten](cards/4687_cordon.yml) |
 | 4688 | néfaste | verhängnisvoll, schädlich | 4 |  | [Bearbeiten](cards/4688_néfaste.yml) |
 | 4689 | lasser | ermüden, langweilen | 9 |  | [Bearbeiten](cards/4689_lasser.yml) |
@@ -4784,7 +4784,7 @@ Insgesamt gibt es 5000 Karten mit 40371 Beispielsätzen (durchschnittlich 8.1 pr
 | 4751 | borne | Grenzstein, Meilenstein | 12 |  | [Bearbeiten](cards/4751_borne.yml) |
 | 4752 | organique | organisch | 2 |  | [Bearbeiten](cards/4752_organique.yml) |
 | 4753 | dévouer | sich hingeben, opfern | 3 |  | [Bearbeiten](cards/4753_dévouer.yml) |
-| 4754 | hâter | beeilen | 4 |  | [Bearbeiten](cards/4754_hâter.yml) |
+| 4754 | hâter | beeilen | 4 | X | [Bearbeiten](cards/4754_hâter.yml) |
 | 4755 | mobilité | Beweglichkeit, Mobilität | 4 |  | [Bearbeiten](cards/4755_mobilité.yml) |
 | 4756 | exclu | ausgeschlossen | 4 |  | [Bearbeiten](cards/4756_exclu.yml) |
 | 4757 | boucher | Metzger, zumachen, verstopfen | 8 |  | [Bearbeiten](cards/4757_boucher.yml) |
@@ -5004,7 +5004,7 @@ Insgesamt gibt es 5000 Karten mit 40371 Beispielsätzen (durchschnittlich 8.1 pr
 | 4971 | pessimiste | Pessimist | 2 |  | [Bearbeiten](cards/4971_pessimiste.yml) |
 | 4972 | sillage | Wasserwirbel, Kielwasser | 9 |  | [Bearbeiten](cards/4972_sillage.yml) |
 | 4973 | synonyme | Synonym | 3 |  | [Bearbeiten](cards/4973_synonyme.yml) |
-| 4974 | hisser | hissen, hochziehen | 7 |  | [Bearbeiten](cards/4974_hisser.yml) |
+| 4974 | hisser | hissen, hochziehen | 7 | X | [Bearbeiten](cards/4974_hisser.yml) |
 | 4975 | agréer | annehmen, zustimmen | 4 |  | [Bearbeiten](cards/4975_agréer.yml) |
 | 4976 | comble | Höhepunkt, Gipfel | 12 |  | [Bearbeiten](cards/4976_comble.yml) |
 | 4977 | bosniaque | Bosnier | 2 |  | [Bearbeiten](cards/4977_bosniaque.yml) |
