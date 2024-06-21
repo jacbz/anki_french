@@ -41,8 +41,9 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>                
-Notiz: |
-  <b>Demonstrativpronomen</b>
+Notiz: |-
+  <div class="section-title">Demonstrativpronomen</div>
+  <div class="section">
   <table>
     <tbody>
       <tr>
@@ -101,10 +102,11 @@ Notiz: |
     <div class="fr">Ça m’a beaucoup plu.</div>
     <div class="de spoiler">Es hat mir sehr gefallen.</div>
   </div>
-  <p>Die Formen <span class="fr">ceci</span> und <span class="fr">cela</span> können mit allen Verben verwendet werden und sind vor allem in geschriebenen Texten zu finden; beim Sprechen bevorzugt man <span class="fr">ça</span> bzw. <span class="fr">ce/c'</span>.</p>
+  <p class="highlight">Die Formen <span class="fr">ceci</span> und <span class="fr">cela</span> können mit allen Verben verwendet werden und sind vor allem in geschriebenen Texten zu finden; beim Sprechen bevorzugt man <span class="fr">ça</span> bzw. <span class="fr">ce/c'</span>.</p>
   <div class="examples">
     <div class="fr">Je trouve ceci très intéressant.</div>
     <div class="de spoiler">Ich finde das sehr interessant.</div>
     <div class="fr">Cela est bien dit.</div>
     <div class="de spoiler">Das ist gut gesagt.</div>
+  </div>
   </div>

@@ -35,8 +35,9 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>                
-Notiz: |
-  <b>Demonstrativpronomen</b>
+Notiz: |-
+  <div class="section-title">Demonstrativpronomen</div>
+  <div class="section">
   <table>
     <tbody>
       <tr>
@@ -73,7 +74,6 @@ Notiz: |
       </tr>
     </tbody>
   </table>
-
   <hr>
 
   <p>Die unbestimmten Demonstrativpronomen sind <span class="fr">ce</span>, <span class="fr">ça</span>, <span class="fr">cela</span> (gehoben) und <span class="fr">ceci</span> (gehoben). Sie können sich auf eine Wortgruppe oder einen ganzen Satz beziehen.</p>
@@ -101,4 +101,5 @@ Notiz: |
     <div class="de spoiler">Ich finde das sehr interessant.</div>
     <div class="fr">Cela est bien dit.</div>
     <div class="de spoiler">Das ist gut gesagt.</div>
+  </div>
   </div>

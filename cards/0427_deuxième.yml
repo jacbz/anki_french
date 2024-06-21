@@ -27,8 +27,8 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>                
-Notiz: |+
-  <p><b>Second</b> (#397) ist gehobener, und kann fast immer mit <b>deuxième</b> ersetzt werden.</p>
+Notiz: |-
+  <p class="highlight"><b>Second</b> (#397) ist gehobener, und kann fast immer mit <b>deuxième</b> ersetzt werden.</p>
 
   <p><span class="fr">Second</span> kann die Nuance implizieren, dass eine Liste genau zwei Elemente umfasst. <span class="fr">Deuxième</span> kommt zum Einsatz, wenn eine Liste mehr als zwei Elemente hat.</p>
   <div class="examples">
@@ -43,5 +43,3 @@ Notiz: |+
     <div class="de spoiler">Marie ist das zweite Kind von Christelle.</div>
     <div>Impliziert, dass Christelle genau zwei Kinder hat.</div>
   </div>
-
-...

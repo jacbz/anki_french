@@ -94,8 +94,9 @@ Beispielsätze: |-
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>                
 Notiz: |-
+  <div class="section-title">Demonstrativbegleiter</div>
+  <div class="section">
   <p>Demonstrativbegleiter haben eine zeigende Funktion: Sie bestimmen ein Substantiv näher. Im Deutschen gibt es zwei Demonstrativbegleiter: <span class="de">diese(-r/s)</span> und <span class="de">jene(-r/s)</span>, im Französischen gibt es nur einen, der sich nach Geschlecht und Anzahl des Substantives richtet.</p>
-
   <table>
     <tbody><tr>
       <th>Demonstrativbegleiter</th>
@@ -152,9 +153,10 @@ Notiz: |-
     <div class="fr">Ce soir-là, il n'est pas rentré.</div>
     <div class="de spoiler">An jenem Abend ist er nicht nach Hause gekommen.</div>
   </div>
+  </div>
 
-  <hr>
-
+  <div class="section-title">Unbestimmtes Demonstrativpronomen</div>
+  <div class="section">
   <p>
     <span class="fr">Ce</span> ist ebenfalls ein unbestimmtes Demonstrativpronomen.
     <span class="fr">Ce/c'</span> verwendet man zusammen mit <span class="fr">être</span>. Wie das deutsche <span class="de">das</span> wird <span class="fr">ce/c'</span> immer im Singular gebraucht, unabhängig davon, ob das Verb im Singular oder Plural steht.</p>
@@ -166,4 +168,5 @@ Notiz: |-
   <div class="examples">
     <div class="fr">Ça m’a beaucoup plu.</div>
     <div class="de spoiler">Es hat mir sehr gefallen.</div>
+  </div>
   </div>
