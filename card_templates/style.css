@@ -371,6 +371,11 @@ span.spoiler {
   margin-top: 0.5em;
 }
 
+.box h3 {
+  margin-block-start: 0;
+  margin-block-end: 0.5em;
+}
+
 .box p:last-child {
   margin-block-end: 0;
 }
@@ -383,14 +388,14 @@ span.spoiler {
   transition: max-height 0.2s ease-out;
 }
 
-.box .section:not(:last-child) {
+.box .section.expanded:not(:last-child) {
   margin-bottom: 1.5em;
 }
 
 .box .section-title {
   font-weight: bold;
   font-size: 120%;
-  background: rgba(0, 48, 73, 0.1);
+  background: rgba(0, 48, 73, 0.15);
   margin: 0 -10px;
   padding: 0.2em 10px;
   cursor: pointer;
@@ -451,7 +456,7 @@ span.spoiler {
 .box .highlight {
   color: hsl(192, 70%, 43%);
   border-color: hsl(192, 70%, 43%);
-  background: hsla(192, 70%, 43%, 0.1);
+  background: hsla(192, 70%, 43%, 0.15);
 }
 
 .box .highlight::before {
@@ -461,7 +466,7 @@ span.spoiler {
 .box .attention {
   color: hsl(43, 100%, 42%);
   border-color: hsl(43, 100%, 42%);
-  background: hsl(43, 100%, 42%, 0.1);
+  background: hsl(43, 100%, 42%, 0.15);
 }
 
 .box .attention::before {
@@ -471,14 +476,14 @@ span.spoiler {
 .box .tip {
   color: hsl(119, 19%, 50%);
   border-color: hsl(119, 19%, 50%);
-  background: hsla(119, 19%, 50%, 0.1);
+  background: hsla(119, 19%, 50%, 0.15);
 }
 
 .box .tip::before {
   content: url("data:image/svg+xml,%3Csvg width='30px' height='30px' viewBox='2 2 22 22' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12 10V11.5M12 14H12.01M10 16.584V18.9996C10 20.1042 10.8954 20.9996 12 20.9996C13.1046 20.9996 14 20.1042 14 18.9996L14 16.584M12 3V4M18.3643 5.63574L17.6572 6.34285M5.63574 5.63574L6.34285 6.34285M4 12H3M21 12H20M17 12C17 14.7614 14.7614 17 12 17C9.23858 17 7 14.7614 7 12C7 9.23858 9.23858 7 12 7C14.7614 7 17 9.23858 17 12Z' stroke='hsl(119, 19%, 50%)' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
 }
 
-.note table {
+.box table {
   margin-bottom: 1em;
 }
 
@@ -486,12 +491,33 @@ span.spoiler {
     Conjugations
     -----------------------------------------------
   **/
-.conjugation table {
+#conjugation-table {
   font-size: 90%;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 0;
   table-layout: fixed;
   width: 100%;
+}
+
+#conjugation-table tr {
+  line-height: 140%;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  #conjugation-table tr:hover {
+    background: rgb(200, 200, 200, 0.5);
+  }
+}
+
+#conjugation-table tr:active {
+  background: rgb(200, 200, 200, 0.5);
+}
+
+#conjugation-table td {
+  border-radius: 0.5em;
 }
 
 td {
@@ -525,7 +551,6 @@ tr.regular_tense.show {
 .irregular {
   color: black;
   background: #eee;
-  border-radius: 0.5em;
   padding: 0 0.3em;
   text-align: center;
 }
@@ -542,4 +567,8 @@ tr.regular_tense.show {
 
 .night_mode .regular {
   color: white;
+}
+
+#conjugation-grammar {
+  margin-top: 1em;
 }
