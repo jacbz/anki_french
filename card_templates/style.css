@@ -431,6 +431,29 @@ span.spoiler {
   content: "\2212";
 }
 
+#conjugation-grammar[data-aux="avoir"] *[data-aux="etre"] {
+  display: none;
+}
+#conjugation-grammar[data-aux="etre"] *[data-aux="avoir"] {
+  display: none;
+}
+.section-conjugation-table {
+  margin-left: auto;
+  margin-right: auto;
+  background: #eee;
+  padding: 0.25em 0.75em;
+  border-radius: 0.5em;
+}
+.night_mode .section-conjugation-table {
+  background: #444;
+}
+.section-conjugation-table td:first-child {
+  text-align: right;
+}
+.section-conjugation-table td:last-child {
+  font-weight: bold;
+}
+
 .box .attention,
 .box .tip,
 .box .highlight {

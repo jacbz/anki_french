@@ -30,7 +30,8 @@
     <div class="svg-button">
       <svg width="800px" height="800px" viewBox="0 0 1024 1024">
         <path
-          d="M338.752 104.704a64 64 0 0 0 0 90.496l316.8 316.8-316.8 316.8a64 64 0 0 0 90.496 90.496l362.048-362.048a64 64 0 0 0 0-90.496L429.248 104.704a64 64 0 0 0-90.496 0z" />
+          d="M338.752 104.704a64 64 0 0 0 0 90.496l316.8 316.8-316.8 316.8a64 64 0 0 0 90.496 90.496l362.048-362.048a64 64 0 0 0 0-90.496L429.248 104.704a64 64 0 0 0-90.496 0z"
+        />
       </svg>
     </div>
   </div>
@@ -45,17 +46,18 @@
     <div class="svg-button">
       <svg height="800px" width="800px" viewBox="0 0 488.85 488.85">
         <g>
-          <path d=" M244.425,98.725c-93.4,0-178.1,51.1-240.6,134.1c-5.1,6.8-5.1,16.3,0,23.1c62.5,83.1,147.2,134.2,240.6,134.2
+          <path
+            d=" M244.425,98.725c-93.4,0-178.1,51.1-240.6,134.1c-5.1,6.8-5.1,16.3,0,23.1c62.5,83.1,147.2,134.2,240.6,134.2
         s178.1-51.1,240.6-134.1c5.1-6.8,5.1-16.3,0-23.1C422.525,149.825,337.825,98.725,244.425,98.725z M251.125,347.025
         c-62,3.9-113.2-47.2-109.3-109.3c3.2-51.2,44.7-92.7,95.9-95.9c62-3.9,113.2,47.2,109.3,109.3
         C343.725,302.225,302.225,343.725,251.125,347.025z
         M248.025,299.625c-33.4,2.1-61-25.4-58.8-58.8c1.7-27.6,24.1-49.9,51.7-51.7
-        c33.4-2.1,61,25.4,58.8,58.8C297.925,275.625,275.525,297.925,248.025,299.625z" />
+        c33.4-2.1,61,25.4,58.8,58.8C297.925,275.625,275.525,297.925,248.025,299.625z"
+          />
         </g>
       </svg>
     </div>
   </div>
-  <div id="empty-message" style="font-style: italic">Regelmäßiges Verb</div>
   {{Konjugation}}
   <div id="conjugation-grammar" style="display: none"></div>
 </div>
@@ -87,7 +89,9 @@
     );
     if (word !== feminine.slice(0, word.length)) {
       var stem = longestCommonPrefix(word, feminine);
-      document.querySelector(".feminine").innerHTML = `<span class="stem" data-before="${stem}" data-after="${feminine.slice(
+      document.querySelector(
+        ".feminine"
+      ).innerHTML = `<span class="stem" data-before="${stem}" data-after="${feminine.slice(
         stem.length
       )}">${stem.length > 0 ? stem : "​"}</span>`;
     }
@@ -134,7 +138,9 @@
     return text;
   }
 
-  var metaSide = document.querySelector("meta[name='side']").getAttribute("content");
+  var metaSide = document
+    .querySelector("meta[name='side']")
+    .getAttribute("content");
   var frenchFirst = metaSide === "FR";
   var currentSentence = 0;
   var sentenceCounter = document.getElementById("sentence_counter");
@@ -155,35 +161,41 @@
     sentencesInner.innerHTML = frenchFirst
       ? `<div class="fr">${fr}</div><span class="de spoiler">${de}</span>`
       : `<div class="de">${de}</div><span class="fr spoiler">${fr}</span>`;
-    sentenceCounter.textContent = `${currentSentence + 1}/${sentencesPairs.length}`;
+    sentenceCounter.textContent = `${currentSentence + 1}/${
+      sentencesPairs.length
+    }`;
 
-    document.querySelectorAll('.fr:not(:has(.sentence-with-audio))').forEach(function (el) {
-      var text = beautifyText(el.innerHTML, true);
-      var containsPunctuation = text.match(/[.!?]/);
-      el.innerHTML = text;
-      if (containsPunctuation) {
-        var textContent = el.textContent;
-        el.innerHTML = `<span class="sentence-with-audio">${audioButton(
-          textContent
-        )}<span>${text}</span></span>`;
-        if (el.classList.contains("spoiler")) {
-          el.classList.remove("spoiler");
-          el.querySelector(".sentence-with-audio > span").classList.add("spoiler");
+    document
+      .querySelectorAll(".fr:not(:has(.sentence-with-audio))")
+      .forEach(function (el) {
+        var text = beautifyText(el.innerHTML, true);
+        var containsPunctuation = text.match(/[.!?]/);
+        el.innerHTML = text;
+        if (containsPunctuation) {
+          var textContent = el.textContent;
+          el.innerHTML = `<span class="sentence-with-audio">${audioButton(
+            textContent
+          )}<span>${text}</span></span>`;
+          if (el.classList.contains("spoiler")) {
+            el.classList.remove("spoiler");
+            el.querySelector(".sentence-with-audio > span").classList.add(
+              "spoiler"
+            );
+          }
         }
-      }
-    });
+      });
 
-    document.querySelectorAll('.de').forEach(function (el) {
+    document.querySelectorAll(".de").forEach(function (el) {
       el.innerHTML = beautifyText(el.innerHTML, false);
     });
 
-    document.querySelectorAll('.spoiler').forEach(function (el) {
+    document.querySelectorAll(".spoiler").forEach(function (el) {
       el.onclick = function () {
         this.classList.toggle("clicked");
       };
     });
 
-    document.querySelectorAll('.play-sentence').forEach(function (el) {
+    document.querySelectorAll(".play-sentence").forEach(function (el) {
       el.onclick = function (event) {
         event.stopPropagation();
         var text = this.dataset.text;
@@ -209,69 +221,121 @@
   /**
    * Conjugations
    */
-  if (document.querySelector('.conjugation')) {
+  if (document.querySelector(".conjugation")) {
     var showRegularConjugations = false;
     var showHideButton = document.getElementById("show-hide-button");
     var label = document.getElementById("show-hide-label");
-    var emptyMessage = document.getElementById("empty-message");
-    emptyMessage.style.display = document.querySelectorAll("#conjugation-table tr:not(.regular_tense)").length ? "none" : "block";
 
     function toggleConjugations() {
       showRegularConjugations = !showRegularConjugations;
       document.querySelectorAll("tr.regular_tense").forEach(function (el) {
         el.classList.toggle("show", showRegularConjugations);
       });
-      label.textContent = showRegularConjugations ? "Nur unregelmäßige anzeigen" : "Alles anzeigen";
-      if (showRegularConjugations) {
-        emptyMessage.style.display = "none";
-      } else {
-        emptyMessage.style.display = document.querySelectorAll("#conjugation-table tr:not(.regular_tense)").length ? "none" : "block";
-      }
+      label.textContent = showRegularConjugations
+        ? "Nur unregelmäßige anzeigen"
+        : "Alles anzeigen";
       squish_cells();
     }
 
     showHideButton.addEventListener("click", toggleConjugations);
-    emptyMessage.addEventListener("dblclick", toggleConjugations);
+
+    var verbClassification = document.getElementById("verb-classification");
+    if (verbClassification) {
+      verbClassification.addEventListener("dblclick", toggleConjugations);
+    }
 
     function squish_cells() {
-      document.querySelectorAll(":is(.tense,.regular,.irregular) > div").forEach(function (el) {
-        el.classList.add("squished");
-        var scaleRatio = el.offsetWidth / el.scrollWidth;
-        if (scaleRatio < 1) {
-          el.style.transform = `scaleX(${scaleRatio})`;
-        }
-      });
+      document
+        .querySelectorAll(":is(.tense,.regular,.irregular) > div")
+        .forEach(function (el) {
+          el.classList.add("squished");
+          var scaleRatio = el.offsetWidth / el.scrollWidth;
+          if (scaleRatio < 1) {
+            el.style.transform = `scaleX(${scaleRatio})`;
+          }
+        });
     }
     squish_cells();
 
     // load conjugation grammar
     fetch(`${getAnkiPrefix()}/_FR5000_tenses.html`)
-      .then(response => response.text())
-      .then(html => {
+      .then((response) => response.text())
+      .then((html) => {
         document.getElementById("conjugation-grammar").innerHTML = html;
+        document.getElementById("conjugation-grammar").dataset.aux = aux;
+        document.getElementById("conjugation-grammar").dataset.aux = aux;
         enableSectionToggle();
         refreshSentences();
+
+        // fill in conjugation table
+        document
+          .querySelectorAll('*[data-tense="INFINITIVE"]')
+          .forEach(function (el) {
+            el.textContent = word;
+          });
+        document
+          .querySelectorAll("#conjugation-table tr")
+          .forEach(function (el) {
+            const tenseValues = [...el.querySelectorAll("td[data-full]")].map(
+              (td) => td.dataset.full
+            );
+            if (tenseValues.length > 0) {
+              document
+                .querySelectorAll(
+                  `#conjugation-grammar .section *[data-tense="${el.dataset.tense}"]`
+                )
+                .forEach(function (tenseElement, index) {
+                  if (tenseValues[index] === "") {
+                    tenseElement.parentElement.remove();
+                  } else {
+                    var tenseValue =
+                      tenseValues[Math.min(index, tenseValues.length - 1)];
+                    tenseElement.textContent += tenseValue;
+                    if (index == 0 && tenseValues[0]) {
+                      var _1p =
+                        tenseElement.parentElement.querySelector(
+                          ".conj-table-1p"
+                        );
+                      if (_1p) {
+                        if (isHAspire) {
+                          _1p.innerHTML = 'j<span style="color: red; text-decoration: underline">e</span>';
+                        } else if (
+                          tenseValue.match(/^[aeiouàâäéèêëîïôöùûüh]/)
+                        ) {
+                          _1p.textContent = "j’";
+                        }
+                      }
+                    }
+                  }
+                });
+            }
+          });
       });
 
-    document.querySelectorAll('.box.conjugation table tr').forEach(function (el) {
+    var conjugationTable = document.getElementById("conjugation-table");
+    var aux = conjugationTable.dataset.aux;
+    var isHAspire = conjugationTable.dataset.haspire === "true";
+    document.querySelectorAll("#conjugation-table tr").forEach(function (el) {
+      var tense = el.dataset.tense;
       el.onclick = function () {
         document.getElementById("conjugation-grammar").style.display = "block";
-        var tense = this.dataset.tense;
-        document.querySelectorAll("#conjugation-grammar .section-title").forEach(function (section) {
-          var showForTenses = section.dataset.tenses.split(',');
-          if (showForTenses.includes(tense)) {
-            section.style.display = "block";
-            var rect = section.getBoundingClientRect();
-            if (rect.top < 0 || rect.bottom > window.innerHeight) {
-              section.scrollIntoView({ behavior: "smooth", block: "center" });
+        document
+          .querySelectorAll("#conjugation-grammar .section-title")
+          .forEach(function (section) {
+            var showForTenses = section.dataset.tenses.split(",");
+            if (showForTenses.includes(tense)) {
+              section.style.display = "block";
+              var rect = section.getBoundingClientRect();
+              if (rect.top < 0 || rect.bottom > window.innerHeight) {
+                section.scrollIntoView({ behavior: "smooth", block: "center" });
+              }
+            } else {
+              section.style.display = "none";
+              section.classList.remove("expanded");
+              section.nextElementSibling.classList.remove("expanded");
+              section.nextElementSibling.style.maxHeight = null;
             }
-          } else {
-            section.style.display = "none";
-            section.classList.remove('expanded');
-            section.nextElementSibling.classList.remove('expanded');
-            section.nextElementSibling.style.maxHeight = null;
-          }
-        });
+          });
       };
     });
   }
@@ -312,7 +376,7 @@
     return globalThis.ankiPlatform === "desktop"
       ? ""
       : globalThis.AnkiDroidJS
-        ? "https://appassets.androidplatform.net"
-        : ".";
+      ? "https://appassets.androidplatform.net"
+      : ".";
   }
 </script>
