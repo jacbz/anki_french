@@ -70,38 +70,34 @@
   /**
    * Feminine form
    */
-  var wordWithArticle = $(".word");
-  var word = $(".word").data("word");
-  var feminine = $(".word").data("feminine");
+  var wordWithArticle = document.querySelector(".word");
+  var word = wordWithArticle.dataset.word;
+  var feminine = wordWithArticle.dataset.feminine;
+
   function longestCommonPrefix(a, b) {
     let i = 0;
     while (i < a.length && i < b.length && a[i] === b[i]) i++;
     return a.slice(0, i);
   }
+
   if (feminine) {
-    wordWithArticle.html(
-      wordWithArticle
-        .text()
-        .replace(
-          word,
-          `<span class="word_span">${word}<span class="feminine">${feminine}</span></span>`
-        )
+    wordWithArticle.innerHTML = wordWithArticle.textContent.replace(
+      word,
+      `<span class="word_span">${word}<span class="feminine">${feminine}</span></span>`
     );
     if (word !== feminine.slice(0, word.length)) {
       var stem = longestCommonPrefix(word, feminine);
-      $(".feminine").html(
-        `<span class="stem" data-before="${stem}" data-after="${feminine.slice(
-          stem.length
-        )}">${stem.length > 0 ? stem : "​"}</span>`
-      );
+      document.querySelector(".feminine").innerHTML = `<span class="stem" data-before="${stem}" data-after="${feminine.slice(
+        stem.length
+      )}">${stem.length > 0 ? stem : "​"}</span>`;
     }
   }
 
   /**
    * Definition
    */
-  $(".definition").each(function () {
-    var text = $(this).html();
+  document.querySelectorAll(".definition").forEach(function (def) {
+    var text = def.innerHTML;
 
     if (text.includes(",") || text.includes(";")) {
       text = text.replace(
@@ -113,16 +109,16 @@
     text = text.replace(/\((.*?)\)/g, '<span class="pre-suffix">$&</span>');
     text = text.replace(/\[(.*?)\]/g, '<span class="grammar">$&</span>');
 
-    $(this).html(text);
+    def.innerHTML = text;
   });
 
   /**
    * Sentences
    */
-  var sentencesInner = $("#sentences_inner");
-  var sentencesData = sentencesInner.html();
+  var sentencesInner = document.getElementById("sentences_inner");
+  var sentencesData = sentencesInner.innerHTML;
   var sentencesPairs = sentencesData.split("\n\n");
-  sentencesPairs = sentencesPairs.sort(() => 0.5 - Math.random());
+  sentencesPairs.sort(() => 0.5 - Math.random());
 
   function beautifyText(text, isFrench) {
     var text = text.replace(/([^<>\s])'/g, "$1’"); // convert apostrophes
@@ -138,10 +134,10 @@
     return text;
   }
 
-  var metaSide = $("meta[name='side']").attr("content");
+  var metaSide = document.querySelector("meta[name='side']").getAttribute("content");
   var frenchFirst = metaSide === "FR";
   var currentSentence = 0;
-  var sentenceCounter = $("#sentence_counter");
+  var sentenceCounter = document.getElementById("sentence_counter");
 
   var audioButton = function (text) {
     return `<div class="svg-button small play-sentence" data-text="${encodeURIComponent(
@@ -156,55 +152,55 @@
   var refreshSentences = function () {
     var fr = sentencesPairs[currentSentence].split("\n")[0];
     var de = sentencesPairs[currentSentence].split("\n")[1];
-    sentencesInner.html(
-      frenchFirst
-        ? `<div class="fr">${fr}</div><span class="de spoiler">${de}</span>`
-        : `<div class="de">${de}</div><span class="fr spoiler">${fr}</span>`
-    );
-    sentenceCounter.text(`${currentSentence + 1}/${sentencesPairs.length}`);
+    sentencesInner.innerHTML = frenchFirst
+      ? `<div class="fr">${fr}</div><span class="de spoiler">${de}</span>`
+      : `<div class="de">${de}</div><span class="fr spoiler">${fr}</span>`;
+    sentenceCounter.textContent = `${currentSentence + 1}/${sentencesPairs.length}`;
 
-    $(".fr:not(:has(.sentence-with-audio))").each(function () {
-      var text = beautifyText($(this).html(), true);
+    document.querySelectorAll('.fr:not(:has(.sentence-with-audio))').forEach(function (el) {
+      var text = beautifyText(el.innerHTML, true);
       var containsPunctuation = text.match(/[.!?]/);
-      $(this).html(text);
+      el.innerHTML = text;
       if (containsPunctuation) {
-        var textContent = $(this).text();
-        $(this).html(
-          `<span class="sentence-with-audio">${audioButton(
-            textContent
-          )}<span>${text}</span></span>`
-        );
-        if ($(this).hasClass("spoiler")) {
-          $(this).removeClass("spoiler");
-          $(this).find(".sentence-with-audio > span").addClass("spoiler");
+        var textContent = el.textContent;
+        el.innerHTML = `<span class="sentence-with-audio">${audioButton(
+          textContent
+        )}<span>${text}</span></span>`;
+        if (el.classList.contains("spoiler")) {
+          el.classList.remove("spoiler");
+          el.querySelector(".sentence-with-audio > span").classList.add("spoiler");
         }
       }
     });
 
-    $(".de").each(function () {
-      $(this).html(beautifyText($(this).html(), false));
+    document.querySelectorAll('.de').forEach(function (el) {
+      el.innerHTML = beautifyText(el.innerHTML, false);
     });
 
-    $(".spoiler").each(function () {
-      $(this).unbind().click(function () {
-        $(this).toggleClass("clicked");
-      });
+    document.querySelectorAll('.spoiler').forEach(function (el) {
+      el.onclick = function () {
+        this.classList.toggle("clicked");
+      };
     });
 
-    $(".play-sentence").unbind().click(function (event) {
-      event.stopPropagation();
-      var text = $(this).data("text");
-      var url = `https://translate.google.com/translate_tts?ie=UTF-8&q=${text}&tl=fr-FR&client=tw-ob`;
+    document.querySelectorAll('.play-sentence').forEach(function (el) {
+      el.onclick = function (event) {
+        event.stopPropagation();
+        var text = this.dataset.text;
+        var url = `https://translate.google.com/translate_tts?ie=UTF-8&q=${text}&tl=fr-FR&client=tw-ob`;
 
-      var audioCurrent = $("audio")[0];
-      audioCurrent.src = url;
-      audioCurrent.play();
+        var audioCurrent = document.querySelector("audio");
+        audioCurrent.src = url;
+        audioCurrent.play();
+      };
     });
   };
+
   refreshSentences();
-  var nextSentenceButton = $("#next_sentence");
-  nextSentenceButton.click(nextSentenceHandler);
-  sentencesInner.dblclick(nextSentenceHandler);
+  var nextSentenceButton = document.getElementById("next_sentence");
+  nextSentenceButton.addEventListener("click", nextSentenceHandler);
+  sentencesInner.addEventListener("dblclick", nextSentenceHandler);
+
   function nextSentenceHandler() {
     currentSentence = (currentSentence + 1) % sentencesPairs.length;
     refreshSentences();
@@ -213,63 +209,70 @@
   /**
    * Conjugations
    */
-  // check if there is a conjugation element
-  if ($('.conjugation').length > 0) {
+  if (document.querySelector('.conjugation')) {
     var showRegularConjugations = false;
-    var showHideButton = $("#show-hide-button");
-    var label = $("#show-hide-label");
-    $("#empty-message").toggle(!$("#conjugation-table tr:visible").length);
+    var showHideButton = document.getElementById("show-hide-button");
+    var label = document.getElementById("show-hide-label");
+    var emptyMessage = document.getElementById("empty-message");
+    emptyMessage.style.display = document.querySelectorAll("#conjugation-table tr:not(.regular_tense)").length ? "none" : "block";
+
     function toggleConjugations() {
       showRegularConjugations = !showRegularConjugations;
-      $("tr.regular_tense").each(function () {
-        $(this).toggleClass("show", showRegularConjugations);
+      document.querySelectorAll("tr.regular_tense").forEach(function (el) {
+        el.classList.toggle("show", showRegularConjugations);
       });
-      label.text(
-        showRegularConjugations ? "Nur unregelmäßige anzeigen" : "Alles anzeigen"
-      );
-      $("#empty-message").toggle(!$("#conjugation-table tr:visible").length);
+      label.textContent = showRegularConjugations ? "Nur unregelmäßige anzeigen" : "Alles anzeigen";
+      if (showRegularConjugations) {
+        emptyMessage.style.display = "none";
+      } else {
+        emptyMessage.style.display = document.querySelectorAll("#conjugation-table tr:not(.regular_tense)").length ? "none" : "block";
+      }
       squish_cells();
     }
-    showHideButton.click(toggleConjugations);
-    $("#empty-message").dblclick(toggleConjugations);
 
-    // squish table cells that are too long
+    showHideButton.addEventListener("click", toggleConjugations);
+    emptyMessage.addEventListener("dblclick", toggleConjugations);
+
     function squish_cells() {
-      $(":is(.tense,.regular,.irregular) > div").each(function () {
-        var $child = $(this);
-        $child.addClass("squished");
-
-        var parentWidth = $child[0].offsetWidth;
-        var textWidth = $child[0].scrollWidth;
-        var scaleRatio = parentWidth / textWidth;
-
+      document.querySelectorAll(":is(.tense,.regular,.irregular) > div").forEach(function (el) {
+        el.classList.add("squished");
+        var scaleRatio = el.offsetWidth / el.scrollWidth;
         if (scaleRatio < 1) {
-          $child.css("transform", `scaleX(${scaleRatio})`);
+          el.style.transform = `scaleX(${scaleRatio})`;
         }
       });
     }
     squish_cells();
 
     // load conjugation grammar
-    $("#conjugation-grammar").load(`${getAnkiPrefix()}/_FR5000_tenses.html`, function () {
-      enableSectionToggle();
-      refreshSentences();
-    });
-
-    $('.box.conjugation table tr').unbind().click(function () {
-      $("#conjugation-grammar").show();
-      var tense = $(this).data("tense");
-      $("#conjugation-grammar .section-title").each(function () {
-        var showForTenses = $(this).data("tenses");
-        if (showForTenses.includes(tense)) {
-          $(this).show();
-        } else {
-          $(this).hide();
-          $(this).removeClass('expanded');
-          $(this).next().removeClass('expanded');
-          $(this).next().css("max-height", '0');
-        }
+    fetch(`${getAnkiPrefix()}/_FR5000_tenses.html`)
+      .then(response => response.text())
+      .then(html => {
+        document.getElementById("conjugation-grammar").innerHTML = html;
+        enableSectionToggle();
+        refreshSentences();
       });
+
+    document.querySelectorAll('.box.conjugation table tr').forEach(function (el) {
+      el.onclick = function () {
+        document.getElementById("conjugation-grammar").style.display = "block";
+        var tense = this.dataset.tense;
+        document.querySelectorAll("#conjugation-grammar .section-title").forEach(function (section) {
+          var showForTenses = section.dataset.tenses.split(',');
+          if (showForTenses.includes(tense)) {
+            section.style.display = "block";
+            var rect = section.getBoundingClientRect();
+            if (rect.top < 0 || rect.bottom > window.innerHeight) {
+              section.scrollIntoView({ behavior: "smooth", block: "center" });
+            }
+          } else {
+            section.style.display = "none";
+            section.classList.remove('expanded');
+            section.nextElementSibling.classList.remove('expanded');
+            section.nextElementSibling.style.maxHeight = null;
+          }
+        });
+      };
     });
   }
 
@@ -277,15 +280,17 @@
    * Collapsible sections
    */
   function enableSectionToggle() {
-    $(".box .section-title").unbind().click(function () {
-      $(this).toggleClass("expanded");
-      var content = $(this).next();
-      content.toggleClass("expanded");
-      if (content.css("max-height") !== "0px") {
-        content.css("max-height", "0px");
-      } else {
-        content.css("max-height", content.prop("scrollHeight") + "px");
-      }
+    document.querySelectorAll(".box .section-title").forEach(function (el) {
+      el.onclick = function () {
+        this.classList.toggle("expanded");
+        var content = this.nextElementSibling;
+        content.classList.toggle("expanded");
+        if (content.style.maxHeight) {
+          content.style.maxHeight = null;
+        } else {
+          content.style.maxHeight = content.scrollHeight + "px";
+        }
+      };
     });
   }
   enableSectionToggle();
@@ -293,16 +298,12 @@
   /**
    * GitHub
    */
-  var github = $("#github > a");
-  // set href
-  var rank = $(".rank").data("content");
+  var github = document.querySelector("#github > a");
+  var rank = document.querySelector(".rank").dataset.content;
   if (rank >= "1" && rank <= "5000") {
-    github.attr(
-      "href",
-      `https://github.com/jacbz/anki_french/blob/main/cards/${String(
-        rank
-      ).padStart(4, "0")}_${word.split("<br>")[0]}.yml`
-    );
+    github.href = `https://github.com/jacbz/anki_french/blob/main/cards/${String(
+      rank
+    ).padStart(4, "0")}_${word.split("<br>")[0]}.yml`;
   } else {
     github.remove();
   }
