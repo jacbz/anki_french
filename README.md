@@ -27,7 +27,7 @@ Im Ordner [cards](cards) befinden sich alle 5000 Karten im YAML-Format.
 4. Erstelle einen Pull Request
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40371 Beispielsätzen (durchschnittlich 8.1 pro Karte). 95 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40370 Beispielsätzen (durchschnittlich 8.1 pro Karte). 98 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -83,7 +83,7 @@ Insgesamt gibt es 5000 Karten mit 40371 Beispielsätzen (durchschnittlich 8.1 pr
 | 50 | vous | ihr/Sie [Plural] | 12 |  | [Bearbeiten](cards/0050_vous.yml) |
 | 51 | encore | noch, wieder, nochmal | 14 |  | [Bearbeiten](cards/0051_encore.yml) |
 | 52 | nouveau | neu | 9 | X | [Bearbeiten](cards/0052_nouveau.yml) |
-| 53 | aller | gehen | 13 |  | [Bearbeiten](cards/0053_aller.yml) |
+| 53 | aller | gehen | 13 | X | [Bearbeiten](cards/0053_aller.yml) |
 | 54 | cela | es, das, [unbestimmtes Demonstrativpro.] | 5 | X | [Bearbeiten](cards/0054_cela.yml) |
 | 55 | entre | zwischen | 13 |  | [Bearbeiten](cards/0055_entre.yml) |
 | 56 | premier | erste(-r/s) | 10 |  | [Bearbeiten](cards/0056_premier.yml) |
@@ -118,7 +118,7 @@ Insgesamt gibt es 5000 Karten mit 40371 Beispielsätzen (durchschnittlich 8.1 pr
 | 85 | rendre | zurückgeben, zu etw. machen | 18 |  | [Bearbeiten](cards/0085_rendre.yml) |
 | 86 | part | Anteil, Teil | 15 |  | [Bearbeiten](cards/0086_part.yml) |
 | 87 | dernier | letzter | 16 |  | [Bearbeiten](cards/0087_dernier.yml) |
-| 88 | venir | kommen | 13 |  | [Bearbeiten](cards/0088_venir.yml) |
+| 88 | venir | kommen | 13 | X | [Bearbeiten](cards/0088_venir.yml) |
 | 89 | pendant | während; Gegenstück | 11 | X | [Bearbeiten](cards/0089_pendant.yml) |
 | 90 | passer | verbringen, vorbeigehen, durchlaufen | 15 |  | [Bearbeiten](cards/0090_passer.yml) |
 | 91 | peu | wenig | 7 |  | [Bearbeiten](cards/0091_peu.yml) |
@@ -262,7 +262,7 @@ Insgesamt gibt es 5000 Karten mit 40371 Beispielsätzen (durchschnittlich 8.1 pr
 | 229 | ni | weder ... noch ... | 13 |  | [Bearbeiten](cards/0229_ni.yml) |
 | 230 | puis | dann | 4 |  | [Bearbeiten](cards/0230_puis.yml) |
 | 231 | toucher | berühren; betreffen | 12 |  | [Bearbeiten](cards/0231_toucher.yml) |
-| 232 | train | Zug | 14 |  | [Bearbeiten](cards/0232_train.yml) |
+| 232 | train | Zug | 14 | X | [Bearbeiten](cards/0232_train.yml) |
 | 233 | aujourd’hui | heute | 7 |  | [Bearbeiten](cards/0233_aujourd’hui.yml) |
 | 234 | comment | wie | 7 |  | [Bearbeiten](cards/0234_comment.yml) |
 | 235 | surtout | vor allem, besonders | 4 |  | [Bearbeiten](cards/0235_surtout.yml) |
@@ -1614,7 +1614,7 @@ Insgesamt gibt es 5000 Karten mit 40371 Beispielsätzen (durchschnittlich 8.1 pr
 | 1581 | reprocher | vorwerfen, tadeln | 10 |  | [Bearbeiten](cards/1581_reprocher.yml) |
 | 1582 | métier | Beruf | 17 |  | [Bearbeiten](cards/1582_métier.yml) |
 | 1583 | modification | Änderung | 11 |  | [Bearbeiten](cards/1583_modification.yml) |
-| 1584 | peser | wiegen, lasten | 11 |  | [Bearbeiten](cards/1584_peser.yml) |
+| 1584 | peser | wiegen, lasten | 10 |  | [Bearbeiten](cards/1584_peser.yml) |
 | 1585 | médias | Medien | 2 |  | [Bearbeiten](cards/1585_médias.yml) |
 | 1586 | hiver | Winter | 6 |  | [Bearbeiten](cards/1586_hiver.yml) |
 | 1587 | définition | Definition | 7 |  | [Bearbeiten](cards/1587_définition.yml) |
@@ -2121,13 +2121,13 @@ Insgesamt gibt es 5000 Karten mit 40371 Beispielsätzen (durchschnittlich 8.1 pr
 | 2088 | agriculture | Landwirtschaft | 4 |  | [Bearbeiten](cards/2088_agriculture.yml) |
 | 2089 | gouverneur | Gouverneur | 3 |  | [Bearbeiten](cards/2089_gouverneur.yml) |
 | 2090 | aventure | Abenteuer | 13 |  | [Bearbeiten](cards/2090_aventure.yml) |
-| 2091 | armer | bewaffnen, beladen | 7 |  | [Bearbeiten](cards/2091_armer.yml) |
-| 2092 | volet | Fenster-/Ladenklappe | 5 |  | [Bearbeiten](cards/2092_volet.yml) |
+| 2091 | armer | bewaffnen, wappnen | 7 |  | [Bearbeiten](cards/2091_armer.yml) |
+| 2092 | volet | (Fenster-)laden, Klappe | 5 |  | [Bearbeiten](cards/2092_volet.yml) |
 | 2093 | bâtir | bauen | 4 |  | [Bearbeiten](cards/2093_bâtir.yml) |
-| 2094 | prime | Prämie, Bonus | 12 |  | [Bearbeiten](cards/2094_prime.yml) |
-| 2095 | résulter | resultieren, sich ergeben | 8 |  | [Bearbeiten](cards/2095_résulter.yml) |
-| 2096 | occupation | Besetzung, Beruf, Beschäftigung | 8 |  | [Bearbeiten](cards/2096_occupation.yml) |
-| 2097 | japonais | Japanisch | 7 |  | [Bearbeiten](cards/2097_japonais.yml) |
+| 2094 | prime | Prämie | 12 |  | [Bearbeiten](cards/2094_prime.yml) |
+| 2095 | résulter | ergeben, entstehen | 8 |  | [Bearbeiten](cards/2095_résulter.yml) |
+| 2096 | occupation | Beschäftigung, Besetzung | 8 |  | [Bearbeiten](cards/2096_occupation.yml) |
+| 2097 | japonais | Japaner | 7 |  | [Bearbeiten](cards/2097_japonais.yml) |
 | 2098 | emmener | [jemanden] mitnehmen | 5 |  | [Bearbeiten](cards/2098_emmener.yml) |
 | 2099 | alimentaire | nahrhaft, Ernährungs- | 10 |  | [Bearbeiten](cards/2099_alimentaire.yml) |
 | 2100 | lecteur | Leser | 12 |  | [Bearbeiten](cards/2100_lecteur.yml) |

@@ -298,7 +298,8 @@
                         );
                       if (_1p) {
                         if (isHAspire) {
-                          _1p.innerHTML = 'j<span style="color: red; text-decoration: underline">e</span>';
+                          _1p.innerHTML =
+                            'j<span style="color: red; text-decoration: underline">e</span>';
                         } else if (
                           tenseValue.match(/^[aeiouàâäéèêëîïôöùûüh]/)
                         ) {
@@ -365,9 +366,9 @@
   var github = document.querySelector("#github > a");
   var rank = document.querySelector(".rank").dataset.content;
   if (rank >= "1" && rank <= "5000") {
-    github.href = `https://github.com/jacbz/anki_french/blob/main/cards/${String(
-      rank
-    ).padStart(4, "0")}_${word.split("<br>")[0]}.yml`;
+    github.href = `https://github.com/jacbz/anki_french/blob/main/cards/${rank.padStart(4, "0")}_${
+      word.split("<br>")[0]
+    }.yml`;
   } else {
     github.remove();
   }
