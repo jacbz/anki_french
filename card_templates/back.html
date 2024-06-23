@@ -103,33 +103,33 @@
   var pos = document.querySelector(".pos");
   if (pos) {
     pos.onclick = function () {
-      if (!pos.classList.contains('expanded')) {
-        pos.classList.add('expanded');
+      if (!pos.classList.contains("expanded")) {
+        pos.classList.add("expanded");
         var posMap = [
-          ['nadj', "Substantiv/Adjektiv", ""],
-          ['adj', "Adjektiv", ""],
-          ['adv', "Adverb", ""],
-          ['conj', "Konjunktion", ""],
-          ['det', "Determinativ", ""],
-          ['intj', "Interjektion", ""],
-          ['prep', "Präposition", ""],
-          ['pro', "Pronomen", ""],
-          ['n', "Substantiv", ""],
-          ['v', "Verb", ""],
-          ['(f)', "ohne eigenständiges Femininum", "suffix"],
-          ['(pl)', "ohne eigenständige Pluralform", "suffix"],
-          ['pl', "nur mit Plural", "suffix"],
-          ['f', "feminines", "prefix"],
-          ['m', "maskulines", "prefix"],
-          ['i', "unveränderliches", "prefix"],
+          ["nadj", "Substantiv/Adjektiv", ""],
+          ["adj", "Adjektiv", ""],
+          ["adv", "Adverb", ""],
+          ["conj", "Konjunktion", ""],
+          ["det", "Determinativ", ""],
+          ["intj", "Interjektion", ""],
+          ["prep", "Präposition", ""],
+          ["pro", "Pronomen", ""],
+          ["n", "Substantiv", ""],
+          ["v", "Verb", ""],
+          ["(f)", "ohne eigenständiges Femininum", "suffix"],
+          ["(pl)", "ohne eigenständige Pluralform", "suffix"],
+          ["pl", "nur mit Plural", "suffix"],
+          ["f", "feminines", "prefix"],
+          ["m", "maskulines", "prefix"],
+          ["i", "unveränderliches", "prefix"],
         ];
         var allPosArray = [];
-        pos.innerHTML.split(', ').forEach(function (component) {
+        pos.innerHTML.split(", ").forEach(function (component) {
           var posArray = [];
           posMap.forEach(function (pair) {
             if (component.includes(pair[0])) {
-              if (pair[2] === 'prefix') {
-                posArray.unshift(pair[1])
+              if (pair[2] === "prefix") {
+                posArray.unshift(pair[1]);
               } else {
                 posArray.push(pair[1]);
               }
@@ -370,17 +370,15 @@
     document.querySelectorAll("#conjugation-table tr").forEach(function (el) {
       var tense = el.dataset.tense;
       el.onclick = function () {
+        var displayedElements = [];
         document.getElementById("conjugation-grammar").style.display = "block";
         document
           .querySelectorAll("#conjugation-grammar .section-title")
           .forEach(function (section) {
             var showForTenses = section.dataset.tenses.split(",");
             if (showForTenses.includes(tense)) {
+              displayedElements.push(section);
               section.style.display = "block";
-              var rect = section.getBoundingClientRect();
-              if (rect.top < 0 || rect.bottom > window.innerHeight) {
-                section.scrollIntoView({ behavior: "smooth", block: "center" });
-              }
             } else {
               section.style.display = "none";
               section.classList.remove("expanded");
@@ -388,6 +386,14 @@
               section.nextElementSibling.style.maxHeight = null;
             }
           });
+          if (displayedElements.length === 1) {
+            displayedElements[0].click();
+          }
+          if (displayedElements.length > 0) {
+            setTimeout(function () {
+              displayedElements[0].scrollIntoView({ behavior: "smooth", block: "start"});
+            }, 200);
+          }
       };
     });
   }
