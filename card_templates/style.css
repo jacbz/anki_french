@@ -52,6 +52,7 @@
   align-items: center;
   cursor: pointer;
   transition: opacity 0.2s;
+  position: relative;
 }
 
 .svg-button.small {
