@@ -64,6 +64,15 @@
   max-height: 20px;
 }
 
+/** increase the clickable area of the button **/
+.svg-button::before {
+  content: '';
+  position: absolute;
+  height: 150%;
+  width: 150%;
+  border-radius: 100%;
+}
+
 @media (hover: hover) and (pointer: fine) {
   .svg-button:hover {
     background: rgb(200, 200, 200, 0.5);
@@ -206,6 +215,7 @@
   font-weight: bold;
   color: gray;
   text-decoration: dotted underline;
+  -webkit-text-decoration: dotted underline;
   cursor: help;
 }
 
@@ -306,10 +316,8 @@ span.spoiler {
 
 .sentence-with-audio .svg-button {
   display: inline-flex;
-  padding: 0.6em;
-  margin: -0.6em;
-  margin-right: -0.5em;
-  align-items: baseline;
+  margin-right: 0.1em;
+  align-items: center;
   transform: translateY(0.1em);
 }
 
