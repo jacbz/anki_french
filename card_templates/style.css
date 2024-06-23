@@ -453,6 +453,9 @@ span.spoiler {
 .section-conjugation-table td:last-child {
   font-weight: bold;
 }
+.section-conjugation-table td::before {
+  content: attr(data-prefix);
+}
 
 .box .attention,
 .box .tip,

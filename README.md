@@ -27,7 +27,7 @@ Im Ordner [cards](cards) befinden sich alle 5000 Karten im YAML-Format.
 4. Erstelle einen Pull Request
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40367 Beispielsätzen (durchschnittlich 8.1 pro Karte). 98 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40369 Beispielsätzen (durchschnittlich 8.1 pro Karte). 98 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -48,7 +48,7 @@ Insgesamt gibt es 5000 Karten mit 40367 Beispielsätzen (durchschnittlich 8.1 pr
 | 15 | ne | [Negationspartikel] | 12 |  | [Bearbeiten](cards/0015_ne.yml) |
 | 16 | sur | auf, über | 8 |  | [Bearbeiten](cards/0016_sur.yml) |
 | 17 | se | sich | 10 |  | [Bearbeiten](cards/0017_se.yml) |
-| 18 | pas | nicht | 17 |  | [Bearbeiten](cards/0018_pas.yml) |
+| 18 | pas | nicht; Schritt | 18 |  | [Bearbeiten](cards/0018_pas.yml) |
 | 19 | plus | mehr | 12 | X | [Bearbeiten](cards/0019_plus.yml) |
 | 20 | pouvoir | können; Macht | 12 |  | [Bearbeiten](cards/0020_pouvoir.yml) |
 | 21 | par | durch, von | 12 |  | [Bearbeiten](cards/0021_par.yml) |
@@ -177,7 +177,7 @@ Insgesamt gibt es 5000 Karten mit 40367 Beispielsätzen (durchschnittlich 8.1 pr
 | 144 | question | Frage | 13 |  | [Bearbeiten](cards/0144_question.yml) |
 | 145 | donc | also, daher | 6 |  | [Bearbeiten](cards/0145_donc.yml) |
 | 146 | quel | welche(-r/s) [+Bezugswort] | 12 |  | [Bearbeiten](cards/0146_quel.yml) |
-| 147 | général | allgemein | 9 |  | [Bearbeiten](cards/0147_général.yml) |
+| 147 | général | allgemein | 10 |  | [Bearbeiten](cards/0147_général.yml) |
 | 148 | moment | Moment | 15 |  | [Bearbeiten](cards/0148_moment.yml) |
 | 149 | entendre | hören, verstehen | 15 | X | [Bearbeiten](cards/0149_entendre.yml) |
 | 150 | beaucoup | viel | 9 |  | [Bearbeiten](cards/0150_beaucoup.yml) |
@@ -330,7 +330,7 @@ Insgesamt gibt es 5000 Karten mit 40367 Beispielsätzen (durchschnittlich 8.1 pr
 | 297 | quoi | was | 14 |  | [Bearbeiten](cards/0297_quoi.yml) |
 | 298 | entreprise | Unternehmen | 12 |  | [Bearbeiten](cards/0298_entreprise.yml) |
 | 299 | coup | Schlag | 11 |  | [Bearbeiten](cards/0299_coup.yml) |
-| 300 | or | und da; Gold | 12 |  | [Bearbeiten](cards/0300_or.yml) |
+| 300 | or | Gold; und da | 12 |  | [Bearbeiten](cards/0300_or.yml) |
 | 301 | social | sozial | 12 |  | [Bearbeiten](cards/0301_social.yml) |
 | 302 | assurer | (ver-)sichern, gewährleisten | 12 |  | [Bearbeiten](cards/0302_assurer.yml) |
 | 303 | essayer | versuchen, (aus-)probieren | 11 |  | [Bearbeiten](cards/0303_essayer.yml) |
