@@ -98,6 +98,52 @@
   }
 
   /**
+   * POS
+   */
+  var pos = document.querySelector(".pos");
+  if (pos) {
+    pos.onclick = function () {
+      if (!pos.classList.contains('expanded')) {
+        pos.classList.add('expanded');
+        var posMap = [
+          ['nadj', "Substantiv/Adjektiv", ""],
+          ['adj', "Adjektiv", ""],
+          ['adv', "Adverb", ""],
+          ['conj', "Konjunktion", ""],
+          ['det', "Determinativ", ""],
+          ['intj', "Interjektion", ""],
+          ['prep', "Präposition", ""],
+          ['pro', "Pronomen", ""],
+          ['n', "Substantiv", ""],
+          ['v', "Verb", ""],
+          ['(f)', "ohne eigenständiges Femininum", "suffix"],
+          ['(pl)', "ohne eigenständige Pluralform", "suffix"],
+          ['pl', "nur mit Plural", "suffix"],
+          ['f', "feminines", "prefix"],
+          ['m', "maskulines", "prefix"],
+          ['i', "unveränderliches", "prefix"],
+        ];
+        var allPosArray = [];
+        pos.innerHTML.split(', ').forEach(function (component) {
+          var posArray = [];
+          posMap.forEach(function (pair) {
+            if (component.includes(pair[0])) {
+              if (pair[2] === 'prefix') {
+                posArray.unshift(pair[1])
+              } else {
+                posArray.push(pair[1]);
+              }
+              component = component.replace(pair[0], "");
+            }
+          });
+          allPosArray.push(posArray.join(" "));
+        });
+        pos.innerHTML = allPosArray.join(",<br>");
+      }
+    };
+  }
+
+  /**
    * Definition
    */
   document.querySelectorAll(".definition").forEach(function (def) {
@@ -239,7 +285,7 @@
       squish_cells();
 
       if (verbClassification && conjugationTable.offsetHeight > 0) {
-        conjugationTable.style.marginTop = '0.5em';
+        conjugationTable.style.marginTop = "0.5em";
       }
     }
 
@@ -371,9 +417,10 @@
   var github = document.querySelector("#github > a");
   var rank = document.querySelector(".rank").dataset.content;
   if (rank >= "1" && rank <= "5000") {
-    github.href = `https://github.com/jacbz/anki_french/blob/main/cards/${rank.padStart(4, "0")}_${
-      word.split("<br>")[0]
-    }.yml`;
+    github.href = `https://github.com/jacbz/anki_french/blob/main/cards/${rank.padStart(
+      4,
+      "0"
+    )}_${word.split("<br>")[0]}.yml`;
   } else {
     github.remove();
   }

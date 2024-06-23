@@ -205,6 +205,17 @@
   font-size: 50%;
   font-weight: bold;
   color: gray;
+  text-decoration: dotted underline;
+  cursor: help;
+}
+
+.pos.expanded {
+  font-size: 40%;
+  padding-top: 0.4em;
+  font-weight: normal;
+  text-decoration: none;
+  display: block;
+  cursor: auto;
 }
 
 .definition {
@@ -461,7 +472,7 @@ span.spoiler {
 .box .tip,
 .box .highlight {
   position: relative;
-  border-radius: 0.2em;
+  border-radius: 0.4em;
   padding: 0.5em;
   border-left: 2px solid black;
   padding-left: calc(0.5em + 36px);

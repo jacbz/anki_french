@@ -4,6 +4,8 @@ Hilf mit, das Deck **Französisch 5000** zu verbessern! Das Deck enthält die 50
 
 **[AnkiWeb](https://ankiweb.net/shared/info/1677131827)**
 
+<img src="https://i.imgur.com/JBlTvwE.png" alt="" width="500px">
+
 Vielen Dank für deine Beiträge! Gemeinsam können wir dieses Deck noch besser machen.
 
 ## Was ist zu tun?
