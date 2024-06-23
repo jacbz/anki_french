@@ -386,14 +386,16 @@
               section.nextElementSibling.style.maxHeight = null;
             }
           });
-          if (displayedElements.length === 1) {
-            displayedElements[0].click();
-          }
-          if (displayedElements.length > 0) {
-            setTimeout(function () {
-              displayedElements[0].scrollIntoView({ behavior: "smooth", block: "start"});
-            }, 200);
-          }
+        if (displayedElements.length === 1) {
+          displayedElements[0].click();
+        }
+        if (displayedElements.length > 0) {
+          window.scrollTo({
+            top:
+              conjugationTable.getBoundingClientRect().top + window.pageYOffset,
+            behavior: "smooth",
+          });
+        }
       };
     });
   }

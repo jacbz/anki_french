@@ -63,7 +63,8 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>                
-Notiz: "<div class=\"section-title\"><i>bâtiment</i> und <i>immeuble</i></div>\n<div\
-  \ class=\"section\">\n<b>Bâtiment</b> ist allgemeiner als <b>immeuble</b> (#1865);\
-  \ es bezieht sich nicht nur auf Wohngebäude oder Büros, sondern allgemein auf Gebäude.\
-  \ \n</div>"
+Notiz: |-
+  <div class="section-title"><i>bâtiment</i> und <i>immeuble</i></div>
+  <div class="section">
+  <p><b>Bâtiment</b> ist allgemeiner als <b>immeuble</b> (#1865); es bezieht sich nicht nur auf Wohngebäude oder Büros, sondern allgemein auf Gebäude.</p>
+  </div>

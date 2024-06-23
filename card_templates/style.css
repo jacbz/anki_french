@@ -351,6 +351,10 @@ span.spoiler {
   text-align: left;
 }
 
+.note > *:not(.section-title) + *:not(.section-title) {
+  margin-top: 0.5em;
+}
+
 .box:not(:last-of-type) {
   margin-bottom: 3em;
 }
