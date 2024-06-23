@@ -29,7 +29,7 @@ Im Ordner [cards](cards) befinden sich alle 5000 Karten im YAML-Format.
 4. Erstelle einen Pull Request
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40370 Beispielsätzen (durchschnittlich 8.1 pro Karte). 113 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40372 Beispielsätzen (durchschnittlich 8.1 pro Karte). 116 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -346,7 +346,7 @@ Insgesamt gibt es 5000 Karten mit 40370 Beispielsätzen (durchschnittlich 8.1 pr
 | 311 | terme | Begriff, Ausdruck | 12 |  | [Bearbeiten](cards/0311_terme.yml) |
 | 312 | longtemps | lange Zeit | 12 |  | [Bearbeiten](cards/0312_longtemps.yml) |
 | 313 | reprendre | wieder aufnehmen, fortsetzen | 13 |  | [Bearbeiten](cards/0313_reprendre.yml) |
-| 314 | courant | üblich, gängig; Strom | 16 |  | [Bearbeiten](cards/0314_courant.yml) |
+| 314 | courant | üblich, gängig; Strom | 16 | X | [Bearbeiten](cards/0314_courant.yml) |
 | 315 | intérêt | Interesse | 13 |  | [Bearbeiten](cards/0315_intérêt.yml) |
 | 316 | mener | führen, leiten | 13 |  | [Bearbeiten](cards/0316_mener.yml) |
 | 317 | information | Information | 15 |  | [Bearbeiten](cards/0317_information.yml) |
@@ -1819,7 +1819,7 @@ Insgesamt gibt es 5000 Karten mit 40370 Beispielsätzen (durchschnittlich 8.1 pr
 | 1784 | doter | ausstatten | 4 |  | [Bearbeiten](cards/1784_doter.yml) |
 | 1785 | contribution | Beitrag | 8 |  | [Bearbeiten](cards/1785_contribution.yml) |
 | 1786 | profondeur | Tiefe | 8 |  | [Bearbeiten](cards/1786_profondeur.yml) |
-| 1787 | émettre | aussenden, ausstrahlen | 4 |  | [Bearbeiten](cards/1787_émettre.yml) |
+| 1787 | émettre | von sich geben, ausstrahlen | 4 |  | [Bearbeiten](cards/1787_émettre.yml) |
 | 1788 | test | Test | 13 |  | [Bearbeiten](cards/1788_test.yml) |
 | 1789 | vice-président | Vizepräsident | 2 |  | [Bearbeiten](cards/1789_vice-président.yml) |
 | 1790 | pêche | Fischen; Pfirsich | 14 |  | [Bearbeiten](cards/1790_pêche.yml) |
@@ -2027,7 +2027,7 @@ Insgesamt gibt es 5000 Karten mit 40370 Beispielsätzen (durchschnittlich 8.1 pr
 | 1992 | allié | Verbündeter | 4 |  | [Bearbeiten](cards/1992_allié.yml) |
 | 1993 | scolaire | schulisch | 7 |  | [Bearbeiten](cards/1993_scolaire.yml) |
 | 1994 | arabe | Araber, arabisch | 5 |  | [Bearbeiten](cards/1994_arabe.yml) |
-| 1995 | diffuser | verbreiten, ausstrahlen | 4 |  | [Bearbeiten](cards/1995_diffuser.yml) |
+| 1995 | diffuser | verbreiten, senden | 4 |  | [Bearbeiten](cards/1995_diffuser.yml) |
 | 1996 | budgétaire | Haushalts- | 5 |  | [Bearbeiten](cards/1996_budgétaire.yml) |
 | 1997 | inquiétant | besorgniserregend | 3 |  | [Bearbeiten](cards/1997_inquiétant.yml) |
 | 1998 | inclure | einschließen, beinhalten | 5 |  | [Bearbeiten](cards/1998_inclure.yml) |
@@ -2964,7 +2964,7 @@ Insgesamt gibt es 5000 Karten mit 40370 Beispielsätzen (durchschnittlich 8.1 pr
 | 2929 | boulot | Arbeit | 13 |  | [Bearbeiten](cards/2929_boulot.yml) |
 | 2930 | correctement | korrekt, richtig | 3 |  | [Bearbeiten](cards/2930_correctement.yml) |
 | 2931 | colonne | Säule, Spalte | 12 |  | [Bearbeiten](cards/2931_colonne.yml) |
-| 2932 | arranger | ordnen, arrangieren | 13 |  | [Bearbeiten](cards/2932_arranger.yml) |
+| 2932 | arranger | ordnen, in Ordnung sein | 15 |  | [Bearbeiten](cards/2932_arranger.yml) |
 | 2933 | lointain | fern, weit entfernt | 4 |  | [Bearbeiten](cards/2933_lointain.yml) |
 | 2934 | danser | tanzen | 5 |  | [Bearbeiten](cards/2934_danser.yml) |
 | 2935 | charbon | Kohle | 8 |  | [Bearbeiten](cards/2935_charbon.yml) |
@@ -3492,7 +3492,7 @@ Insgesamt gibt es 5000 Karten mit 40370 Beispielsätzen (durchschnittlich 8.1 pr
 | 3457 | trame | Grundstruktur, Rahmen, Netz | 6 |  | [Bearbeiten](cards/3457_trame.yml) |
 | 3458 | bain | Bad | 11 |  | [Bearbeiten](cards/3458_bain.yml) |
 | 3459 | sûreté | Sicherheit | 10 |  | [Bearbeiten](cards/3459_sûreté.yml) |
-| 3460 | hâte | Eile | 5 |  | [Bearbeiten](cards/3460_hâte.yml) |
+| 3460 | hâte | Eile | 5 | X | [Bearbeiten](cards/3460_hâte.yml) |
 | 3461 | instituer | einsetzen, einrichten | 5 |  | [Bearbeiten](cards/3461_instituer.yml) |
 | 3462 | format | Format | 11 |  | [Bearbeiten](cards/3462_format.yml) |
 | 3463 | hiérarchie | Hierarchie | 6 |  | [Bearbeiten](cards/3463_hiérarchie.yml) |
@@ -4946,7 +4946,7 @@ Insgesamt gibt es 5000 Karten mit 40370 Beispielsätzen (durchschnittlich 8.1 pr
 | 4911 | promoteur | Bauträger | 2 |  | [Bearbeiten](cards/4911_promoteur.yml) |
 | 4912 | albanais | albanisch | 2 |  | [Bearbeiten](cards/4912_albanais.yml) |
 | 4913 | obsession | Besessenheit | 6 |  | [Bearbeiten](cards/4913_obsession.yml) |
-| 4914 | exciter | anregen, erregen | 6 |  | [Bearbeiten](cards/4914_exciter.yml) |
+| 4914 | exciter | erregen, reizen | 6 | X | [Bearbeiten](cards/4914_exciter.yml) |
 | 4915 | voisinage | Nachbarschaft | 4 |  | [Bearbeiten](cards/4915_voisinage.yml) |
 | 4916 | savoir-faire | Fertigkeit, Geschick | 2 |  | [Bearbeiten](cards/4916_savoir-faire.yml) |
 | 4917 | sévèrement | stark, strengstens | 7 |  | [Bearbeiten](cards/4917_sévèrement.yml) |
