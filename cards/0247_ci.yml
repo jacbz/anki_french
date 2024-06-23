@@ -7,7 +7,7 @@ Wortart: adv, pro
 Wort mit Artikel: ci
 Femininum / Plural: ''
 IPA: \si\
-Definition: hier; dieser/diese/dieses
+Definition: hier [Suffix]
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -19,9 +19,19 @@ Beispielsätze: |-
   Ce livre-ci est à moi.
   Dieses Buch hier gehört mir.
 
+  — Ça va ? — Comme ci comme ça.
+  Wie geht's? — So lala.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>                
-Notiz: ''
+Notiz: |-
+  <p>In Gegenüberstellungen oder bei Vergleichen zweier Dinge hängt man die <b>Anhängepartikel</b> <span class="fr">–ci</span> oder <span class="fr">–là</span> an. Dabei drückt <span class="fr">–ci</span> die räumliche Nähe aus, <span class="fr">-là</span> eine größere Entfernung.</p>
+
+  <div class="examples">
+    <div class="fr">Quel pantalon est-ce que tu aimes mieux – ce pantalon-ci ou ce pantalon-là ?</div>
+    <div class="de spoiler">Welche Hose magst du lieber – diese Hose hier oder die Hose dort?</div>
+    <div class="fr">Lequel ? Celui-ci ou celui-là ?</div>
+    <div class="de spoiler">Welches? Dieses hier oder das dort?</div></div>

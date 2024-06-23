@@ -55,7 +55,7 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>                
-Notiz: |-
+Notiz: |
   <div class="section-title">Der bestimmte Artikel</div>
   <div class="section">
   <p>Im Gegensatz zum Deutschen wird der bestimmte Artikel im Französischen verwendet bei:</p>
@@ -84,5 +84,91 @@ Notiz: |-
   <div class="examples">
   <div class="fr">Ma famille habite en France, mais mon père vient de Belgique et ma mère vient d'Allemagne.</div>
   <div class="de spoiler">Meine Familie wohnt in Frankreich, aber mein Vater kommt aus Belgien und meine Mutter kommt aus Deutschland.</div>
+  </div>
+  </div>
+  <div class="section-title">Die direkten Objektpronomen (COD)</div>
+  <div class="section">
+  <p class="highlight">Die direkten Objektpronomen (<i>pronoms compléments d’objets</i>; COD) ersetzen ein Akkusativobjekt.</p>
+  <table>
+      <tbody>
+      <tr>
+      <td rowspan="3">Singular</td>
+      <td>1.</td>
+      <td><span class="fr">me (m')</span></td>
+      <td><span class="de">mich</span></td>
+      </tr>
+      <tr>
+      <td>2.</td>
+      <td><span class="fr">te (t')</span></td>
+      <td><span class="de">dich</span></td>
+      </tr>
+      <tr>
+      <td>3.</td>
+      <td><span class="fr">le (l'), la (l')</span></td>
+      <td><span class="de">ihn, es, sie</span></td>
+      </tr>
+      <tr>
+      <td rowspan="3">Plural</td>
+      <td>1.</td>
+      <td><span class="fr">nous</span></td>
+      <td><span class="de">uns</span></td>
+      </tr>
+      <tr>
+      <td>2.</td>
+      <td><span class="fr">vous</span></td>
+      <td><span class="de">euch, Sie</span></td>
+      </tr>
+      <tr>
+      <td>3.</td>
+      <td><span class="fr">les</span></td>
+      <td><span class="de">sie</span></td>
+      </tr>
+  </tbody></table>
+  <p class="attention">Das -e entfällt vor Vokalen und stummem h, besonders im <span class="fr">passé composé</span> mit avoir.</p>
+  <div class="examples">
+  <div class="fr">Je l'ai vu(e), tu l'as vu(e) etc.</div>
+  <div class="de spoiler">Ich habe ihn/sie/es gesehen, du hast ihn/sie/es gesehen etc.</div>
+  </div>
+  <p>Die direkten Objektpronomen stimmen in Zahl und Geschlecht mit ihm überein, z.B.:</p>
+  <div class="examples">
+  <div class="fr">Est-ce que tu as vu <u>Jean</u>?</div>
+  <div class="de spoiler">Hast du Jean gesehen?</div>
+  <div class="fr">Oui, je <u>l</u>'ai vu.</div>
+  <div class="de spoiler">Ja, ich habe ihn gesehen.</div>
+  <div class="fr">Est-ce que tu as vu <u>Brigitte</u>?</div>
+  <div class="de spoiler">Hast du Brigitte gesehen?</div>
+  <div class="fr">Oui, je <u>l</u>'ai vue.</div>
+  <div class="de spoiler">Ja, ich habe sie gesehen.</div>
+  <div class="fr">Est-ce que tu as vu <u>les garçons</u>?</div>
+  <div class="de spoiler">Hast du die Jungen gesehen?</div>
+  <div class="fr">Oui, je <u>les</u> ai vus.</div>
+  <div class="de spoiler">Ja, ich habe sie gesehen.</div>
+  <div class="fr">Est-ce que tu as vu <u>les filles</u>?</div>
+  <div class="de spoiler">Hast du die Mädchen gesehen?</div>
+  <div class="fr">Oui, je <u>les</u> ai vues.</div>
+  <div class="de spoiler">Ja, ich habe sie gesehen.</div>
+  </div>
+
+  <p>Die direkten Objektpronomen stehen vor dem konjugierten Verb. Bei Verneinung umschließt die Verneinung das Objektpronomen und das konjugierte Verb.</p>
+  <div class="examples">
+      <div class="fr">La télé t'intéresse?</div>
+      <div class="de spoiler">Interessiert dich das Fernsehen?</div>
+      <div class="fr">Oui, elle <u>m</u>'intéresse. / Non, elle ne <u>m</u>'intéresse pas.</div>
+      <div class="de spoiler">Ja, es interessiert mich. / Nein, es interessiert mich nicht.</div>
+  </div>
+  <p>Bei Verben mit Infinitiv steht das direkte Objektpronomen vor dem Infinitiv.</p>
+  <div class="examples">
+      <div class="fr">Est-ce que tu vas écouter la radio?</div>
+      <div class="de spoiler">Wirst du das Radio hören?</div>
+      <div class="fr">Oui, je vais <u>l</u>'écouter. / Non, je ne vais pas <u>l</u>'écouter.</div>
+      <div class="de spoiler">Ja, ich werde es hören. / Nein, ich werde es nicht hören.</div>
+  </div>
+
+  <p>Bei Imperativen wird das Objektpronomen mit Bindestrich an den bejahten Imperativ angehängt.</p>
+  <div class="examples">
+  <div class="fr">Maman, est-ce que je peux inviter mes amis?</div>
+  <div class="de spoiler">Mama, darf ich meine Freunde einladen?</div>
+  <div class="fr">Oui, invite-<u>les</u>.</div>
+  <div class="de spoiler">Ja, lade sie ein.</div>
   </div>
   </div>

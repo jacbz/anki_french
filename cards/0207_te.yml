@@ -54,4 +54,210 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>                
-Notiz: ''
+Notiz: |-
+  <div class="section-title">Die direkten Objektpronomen (COD)</div>
+  <div class="section">
+  <p class="highlight">Die direkten Objektpronomen (<i>pronoms compléments d’objets</i>; COD) ersetzen ein Akkusativobjekt.</p>
+  <table>
+      <tbody>
+      <tr>
+      <td rowspan="3">Singular</td>
+      <td>1.</td>
+      <td><span class="fr">me (m')</span></td>
+      <td><span class="de">mich</span></td>
+      </tr>
+      <tr>
+      <td>2.</td>
+      <td><span class="fr">te (t')</span></td>
+      <td><span class="de">dich</span></td>
+      </tr>
+      <tr>
+      <td>3.</td>
+      <td><span class="fr">le (l'), la (l')</span></td>
+      <td><span class="de">ihn, es, sie</span></td>
+      </tr>
+      <tr>
+      <td rowspan="3">Plural</td>
+      <td>1.</td>
+      <td><span class="fr">nous</span></td>
+      <td><span class="de">uns</span></td>
+      </tr>
+      <tr>
+      <td>2.</td>
+      <td><span class="fr">vous</span></td>
+      <td><span class="de">euch, Sie</span></td>
+      </tr>
+      <tr>
+      <td>3.</td>
+      <td><span class="fr">les</span></td>
+      <td><span class="de">sie</span></td>
+      </tr>
+  </tbody></table>
+  <p class="attention">Das -e entfällt vor Vokalen und stummem h, besonders im <span class="fr">passé composé</span> mit avoir.</p>
+  <div class="examples">
+  <div class="fr">Je l'ai vu(e), tu l'as vu(e) etc.</div>
+  <div class="de spoiler">Ich habe ihn/sie/es gesehen, du hast ihn/sie/es gesehen etc.</div>
+  </div>
+  <p>Die direkten Objektpronomen stimmen in Zahl und Geschlecht mit ihm überein, z.B.:</p>
+  <div class="examples">
+  <div class="fr">Est-ce que tu as vu <u>Jean</u>?</div>
+  <div class="de spoiler">Hast du Jean gesehen?</div>
+  <div class="fr">Oui, je <u>l</u>'ai vu.</div>
+  <div class="de spoiler">Ja, ich habe ihn gesehen.</div>
+  <div class="fr">Est-ce que tu as vu <u>Brigitte</u>?</div>
+  <div class="de spoiler">Hast du Brigitte gesehen?</div>
+  <div class="fr">Oui, je <u>l</u>'ai vue.</div>
+  <div class="de spoiler">Ja, ich habe sie gesehen.</div>
+  <div class="fr">Est-ce que tu as vu <u>les garçons</u>?</div>
+  <div class="de spoiler">Hast du die Jungen gesehen?</div>
+  <div class="fr">Oui, je <u>les</u> ai vus.</div>
+  <div class="de spoiler">Ja, ich habe sie gesehen.</div>
+  <div class="fr">Est-ce que tu as vu <u>les filles</u>?</div>
+  <div class="de spoiler">Hast du die Mädchen gesehen?</div>
+  <div class="fr">Oui, je <u>les</u> ai vues.</div>
+  <div class="de spoiler">Ja, ich habe sie gesehen.</div>
+  </div>
+
+  <p>Die direkten Objektpronomen stehen vor dem konjugierten Verb. Bei Verneinung umschließt die Verneinung das Objektpronomen und das konjugierte Verb.</p>
+  <div class="examples">
+      <div class="fr">La télé t'intéresse?</div>
+      <div class="de spoiler">Interessiert dich das Fernsehen?</div>
+      <div class="fr">Oui, elle <u>m</u>'intéresse. / Non, elle ne <u>m</u>'intéresse pas.</div>
+      <div class="de spoiler">Ja, es interessiert mich. / Nein, es interessiert mich nicht.</div>
+  </div>
+  <p>Bei Verben mit Infinitiv steht das direkte Objektpronomen vor dem Infinitiv.</p>
+  <div class="examples">
+      <div class="fr">Est-ce que tu vas écouter la radio?</div>
+      <div class="de spoiler">Wirst du das Radio hören?</div>
+      <div class="fr">Oui, je vais <u>l</u>'écouter. / Non, je ne vais pas <u>l</u>'écouter.</div>
+      <div class="de spoiler">Ja, ich werde es hören. / Nein, ich werde es nicht hören.</div>
+  </div>
+
+  <p>Bei Imperativen wird das Objektpronomen mit Bindestrich an den bejahten Imperativ angehängt.</p>
+  <div class="examples">
+  <div class="fr">Maman, est-ce que je peux inviter mes amis?</div>
+  <div class="de spoiler">Mama, darf ich meine Freunde einladen?</div>
+  <div class="fr">Oui, invite-<u>les</u>.</div>
+  <div class="de spoiler">Ja, lade sie ein.</div>
+  </div>
+  </div>
+  <div class="section-title">Die indirekten Objektpronomen (COI)</div>
+  <div class="section">
+  <p class="highlight">Die indirekten Objektpronomen (<span class="fr">pronoms compléments indirects</span>; COI) ersetzen ein Dativobjekt.</p>
+  <table>
+    <tbody><tr>
+      <td rowspan="3">Singular</td>
+      <td>1.</td>
+      <td><span class="fr">me (m')</span></td>
+      <td><span class="de">mir</span></td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td><span class="fr">te (t')</span></td>
+      <td><span class="de">dir</span></td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td><span class="fr">lui</span></td>
+      <td><span class="de">ihm, ihr</span></td>
+    </tr>
+    <tr>
+      <td rowspan="3">Plural</td>
+      <td>1.</td>
+      <td><span class="fr">nous</span></td>
+      <td><span class="de">uns</span></td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td><span class="fr">vous</span></td>
+      <td><span class="de">euch, Ihnen</span></td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td><span class="fr">leur</span></td>
+      <td><span class="de">ihnen</span></td>
+    </tr>
+  </tbody></table>
+  <p class="tip"><span class="fr">Me, te, nous</span> und <span class="fr">vous</span> erleichtern einem das Leben im Französischen sehr, da die direkten und indirekten Objektpronomen dieselbe Form haben.</p>
+  <p>Die indirekten Objektpronomen stimmen in der Zahl mit dem Dativobjekt überein. Bei den Dativobjekten handelt es sich fast ausschließlich um Personen und Tiere.</p>
+  <p>Für männliche und weibliche Dativobjekte gibt es jeweils nur ein indirektes Objektpronomen.</p>
+  <div class="examples">
+  <div class="fr">Tu donnes ton adresse <u>à Jean</u>? - Oui, je <u>lui</u> donne mon adresse.</div>
+  <div class="de spoiler">Gibst du Jean deine Adresse? - Ja, ich gebe ihm meine Adresse.</div>
+  <div class="fr">Tu vas répondre <u>à Sandra</u>? - Non, je ne vais pas <u>lui</u> répondre.</div>
+  <div class="de spoiler">Wirst du Sandra antworten? - Nein, ich werde ihr nicht antworten.</div>
+  <div class="fr">Vous écrivez <u>à vos amis</u>? - Oui, nous <u>leur</u> écrivons.</div>
+  <div class="de spoiler">Schreibt ihr euren Freunden? - Ja, wir schreiben ihnen.</div>
+  <div class="fr">Vous pouvez téléphoner <u>à mes amies</u>? - Oui, nous pouvons <u>leur</u> téléphoner.</div>
+  <div class="de spoiler">Könnt ihr meine Freundinnen anrufen? - Ja, wir können ihnen anrufen.</div>
+  </div>
+  <div class="attention">
+  <p>Im Deutschen hat man die Möglichkeit, in der 3. Person Singular ein männliches oder weibliches Pronomen zu wählen. Im Französischen hingegen gibt es dafür nur das indirekte Objektpronomen <span class="fr">lui</span>, z.B.:</p>
+  <div class="examples">
+  <div class="de">Ich gebe <u>ihm</u> ein Buch. Ich gebe <u>ihr</u> ein Buch.</div>
+  <div class="fr">Je <u>lui</u> donne un livre.</div>
+  </div>
+  </div>
+
+  <p>Die indirekten Objektpronomen stehen vor dem konjugierten Verb. Wird der Satz verneint, so umschließt die Verneinung das Objektpronomen und das konjugierte Verb.</p>
+  <div class="examples">
+  <div class="fr">Brigitte, tu téléphones à tes amies? - Oui, je <u>leur</u> téléphone. / Non, je ne <u>leur</u> téléphone pas.</div>
+  <div class="de spoiler">Brigitte, rufst du deine Freundinnen an? - Ja, ich rufe sie an. / Nein, ich rufe sie nicht an.</div>
+  </div>
+  <p>Steht der Satz im Passé composé oder im Plusquamperfekt, dann steht das Objektpronomen vor dem konjugierten Hilfsverb.</p>
+  <div class="examples">
+  <div class="fr">Est-ce que tu as montré les photos à ton copain? - Oui, je <u>lui</u> ai montré les photos. / Non, je ne <u>lui</u> ai pas montré les photos.</div>
+  <div class="de spoiler">Hast du deinem Freund die Fotos gezeigt? - Ja, ich habe ihm die Fotos gezeigt. / Nein, ich habe ihm die Fotos nicht gezeigt.</div>
+  </div>
+  <p>Bei Verben, die einen Infinitiv bei sich haben, steht das indirekte Objektpronomen vor dem Infinitiv.</p>
+  <div class="examples">
+  <div class="fr">Est-ce que tu vas écrire à ta grand-mère? - Oui, je vais <u>lui</u> écrire. / Non, je ne vais pas <u>lui</u> écrire.</div>
+  <div class="de spoiler">Wirst du deiner Großmutter schreiben? - Ja, ich werde ihr schreiben. / Nein, ich werde ihr nicht schreiben.</div>
+  </div>
+  </div>
+  <div class="section-title">Die Reflexivpronomen</div>
+  <div class="section">
+  <p class="highlight">Reflexivpronomen (<i>les pronomes réfléchis</i>), sind rückbezügliche Fürwörter, die sich immer auf das Subjekt des Satzes beziehen.</p>
+  <table>
+      <tbody>
+      <tr>
+      <td>je</td>
+      <td><span class="fr">me (m')</span></td>
+      </tr>
+      <tr>
+      <td>tu</td>
+      <td><span class="fr">te (t')</span></td>
+      </tr>
+      <tr>
+      <td>il/elle</td>
+      <td><span class="fr">se (s')</span></td>
+      </tr>
+      <tr>
+      <td>nous</td>
+      <td><span class="fr">nous</span></td>
+      </tr>
+      <tr>
+      <td>vous</td>
+      <td><span class="fr">vous</span></td>
+      </tr>
+      <tr>
+      <td>ils/elles</td>
+      <td><span class="fr">se (s')</span></td>
+      </tr>
+  </tbody></table>
+  <p class="tip">Das Reflexivpronomen verfügt nur für die 3. Person Singular und Plural über eine eigenständige Form, nämlich <span class="fr">se</span> bzw. <span class="fr">s'</span> vor Vokal und stummem h. In den beiden anderen Personen ist das Reflexivpronomen identisch mit den Objektpronomen.</p>
+  <div class="examples">
+  <div class="fr">Je m'appelle Annie.</div>
+  <div class="de spoiler">Ich heiße Annie.</div>
+  <div class="fr">Tu t'appelles Jean.</div>
+  <div class="de spoiler">Du heißt Jean.</div>
+  <div class="fr">Il se promène en ville.</div>
+  <div class="de spoiler">Er geht in der Stadt spazieren.</div>
+  <div class="fr">Nous nous lavons les mains.</div>
+  <div class="de spoiler">Wir waschen uns die Hände.</div>
+  <div class="fr">Vous vous douchez ce soir.</div>
+  <div class="de spoiler">Ihr duscht euch heute Abend.</div>
+  <div class="fr">Ils s'habillent.</div>
+  <div class="de spoiler">Sie ziehen sich an.</div>
+  </div>
+  </div>
