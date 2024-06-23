@@ -29,7 +29,7 @@ Im Ordner [cards](cards) befinden sich alle 5000 Karten im YAML-Format.
 4. Erstelle einen Pull Request
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40372 Beispielsätzen (durchschnittlich 8.1 pro Karte). 116 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40372 Beispielsätzen (durchschnittlich 8.1 pro Karte). 123 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -39,7 +39,7 @@ Insgesamt gibt es 5000 Karten mit 40372 Beispielsätzen (durchschnittlich 8.1 pr
 | 4 | à | nach, in [örtlich], um [zeitlich] | 46 | X | [Bearbeiten](cards/0004_à.yml) |
 | 5 | être | sein | 4 |  | [Bearbeiten](cards/0005_être.yml) |
 | 6 | et | und | 4 | X | [Bearbeiten](cards/0006_et.yml) |
-| 7 | en | in | 13 |  | [Bearbeiten](cards/0007_en.yml) |
+| 7 | en | in | 13 | X | [Bearbeiten](cards/0007_en.yml) |
 | 8 | avoir | haben, besitzen | 14 |  | [Bearbeiten](cards/0008_avoir.yml) |
 | 9 | que | dass, wie, welche(-r/n) | 12 |  | [Bearbeiten](cards/0009_que.yml) |
 | 10 | pour | für | 12 |  | [Bearbeiten](cards/0010_pour.yml) |
@@ -58,7 +58,7 @@ Insgesamt gibt es 5000 Karten mit 40372 Beispielsätzen (durchschnittlich 8.1 pr
 | 23 | avec | mit | 13 |  | [Bearbeiten](cards/0023_avec.yml) |
 | 24 | tout | alles, ganz, jede(-r/s) | 13 | X | [Bearbeiten](cards/0024_tout.yml) |
 | 25 | faire | machen, tun | 12 |  | [Bearbeiten](cards/0025_faire.yml) |
-| 26 | son | sein(-e) | 9 |  | [Bearbeiten](cards/0026_son.yml) |
+| 26 | son | sein(-e) | 9 | X | [Bearbeiten](cards/0026_son.yml) |
 | 27 | mettre | tun, legen, anziehen | 15 |  | [Bearbeiten](cards/0027_mettre.yml) |
 | 28 | autre | andere(-r/s) | 13 |  | [Bearbeiten](cards/0028_autre.yml) |
 | 29 | on | man, wir | 12 | X | [Bearbeiten](cards/0029_on.yml) |
@@ -68,7 +68,7 @@ Insgesamt gibt es 5000 Karten mit 40372 Beispielsätzen (durchschnittlich 8.1 pr
 | 33 | ou | oder | 7 |  | [Bearbeiten](cards/0033_ou.yml) |
 | 34 | si | wenn, falls; doch | 11 |  | [Bearbeiten](cards/0034_si.yml) |
 | 35 | leur | ihr(-e); ihnen | 14 | X | [Bearbeiten](cards/0035_leur.yml) |
-| 36 | y | dort, dahin | 3 |  | [Bearbeiten](cards/0036_y.yml) |
+| 36 | y | dort, dahin | 3 | X | [Bearbeiten](cards/0036_y.yml) |
 | 37 | dire | sagen | 12 |  | [Bearbeiten](cards/0037_dire.yml) |
 | 38 | elle | sie | 12 | X | [Bearbeiten](cards/0038_elle.yml) |
 | 39 | devoir | müssen; Pflicht | 12 |  | [Bearbeiten](cards/0039_devoir.yml) |
@@ -92,7 +92,7 @@ Insgesamt gibt es 5000 Karten mit 40372 Beispielsätzen (durchschnittlich 8.1 pr
 | 57 | vouloir | wollen | 14 |  | [Bearbeiten](cards/0057_vouloir.yml) |
 | 58 | déjà | schon, bereits | 12 |  | [Bearbeiten](cards/0058_déjà.yml) |
 | 59 | grand | groß [nach Nomen]; bedeutungsvoll [vor Nomen] | 12 |  | [Bearbeiten](cards/0059_grand.yml) |
-| 60 | mon | mein | 8 |  | [Bearbeiten](cards/0060_mon.yml) |
+| 60 | mon | mein | 8 | X | [Bearbeiten](cards/0060_mon.yml) |
 | 61 | me | mir, mich | 16 | X | [Bearbeiten](cards/0061_me.yml) |
 | 62 | moins | weniger | 12 | X | [Bearbeiten](cards/0062_moins.yml) |
 | 63 | aucun | kein | 12 | X | [Bearbeiten](cards/0063_aucun.yml) |
@@ -105,7 +105,7 @@ Insgesamt gibt es 5000 Karten mit 40372 Beispielsätzen (durchschnittlich 8.1 pr
 | 70 | quelque | einige | 12 |  | [Bearbeiten](cards/0070_quelque.yml) |
 | 71 | sans | ohne | 12 |  | [Bearbeiten](cards/0071_sans.yml) |
 | 72 | raison | Vernunft, Grund | 11 |  | [Bearbeiten](cards/0072_raison.yml) |
-| 73 | notre | unser | 7 |  | [Bearbeiten](cards/0073_notre.yml) |
+| 73 | notre | unser | 7 | X | [Bearbeiten](cards/0073_notre.yml) |
 | 74 | dont | dessen, von dem | 12 |  | [Bearbeiten](cards/0074_dont.yml) |
 | 75 | non | nein | 13 |  | [Bearbeiten](cards/0075_non.yml) |
 | 76 | an | Jahr | 13 | X | [Bearbeiten](cards/0076_an.yml) |
@@ -246,7 +246,7 @@ Insgesamt gibt es 5000 Karten mit 40372 Beispielsätzen (durchschnittlich 8.1 pr
 | 211 | agir | handeln | 12 |  | [Bearbeiten](cards/0211_agir.yml) |
 | 212 | simple | einfach, leicht | 14 |  | [Bearbeiten](cards/0212_simple.yml) |
 | 213 | plusieurs | mehrere | 10 |  | [Bearbeiten](cards/0213_plusieurs.yml) |
-| 214 | votre | euer, Ihr | 7 |  | [Bearbeiten](cards/0214_votre.yml) |
+| 214 | votre | euer, Ihr | 7 | X | [Bearbeiten](cards/0214_votre.yml) |
 | 215 | important | wichtig | 8 |  | [Bearbeiten](cards/0215_important.yml) |
 | 216 | présent | Gegenwart; Geschenk; anwesend | 14 |  | [Bearbeiten](cards/0216_présent.yml) |
 | 217 | mieux | besser | 13 | X | [Bearbeiten](cards/0217_mieux.yml) |
@@ -362,7 +362,7 @@ Insgesamt gibt es 5000 Karten mit 40372 Beispielsätzen (durchschnittlich 8.1 pr
 | 327 | apprendre | lernen | 16 |  | [Bearbeiten](cards/0327_apprendre.yml) |
 | 328 | niveau | Niveau, Stand | 12 |  | [Bearbeiten](cards/0328_niveau.yml) |
 | 329 | rencontrer | treffen, begegnen | 14 |  | [Bearbeiten](cards/0329_rencontrer.yml) |
-| 330 | ton | Ton | 18 |  | [Bearbeiten](cards/0330_ton.yml) |
+| 330 | ton | dein; Ton | 18 | X | [Bearbeiten](cards/0330_ton.yml) |
 | 331 | œuvre | Werk, Arbeit | 12 |  | [Bearbeiten](cards/0331_œuvre.yml) |
 | 332 | créer | erschaffen, entwerfen | 8 |  | [Bearbeiten](cards/0332_créer.yml) |
 | 333 | état | Staat | 12 |  | [Bearbeiten](cards/0333_état.yml) |
@@ -2136,7 +2136,7 @@ Insgesamt gibt es 5000 Karten mit 40372 Beispielsätzen (durchschnittlich 8.1 pr
 | 2101 | marin | See-; Seemann | 5 |  | [Bearbeiten](cards/2101_marin.yml) |
 | 2102 | intermédiaire | Zwischen-, Vermittler | 9 |  | [Bearbeiten](cards/2102_intermédiaire.yml) |
 | 2103 | vœu | Wunsch | 12 |  | [Bearbeiten](cards/2103_vœu.yml) |
-| 2104 | dresser | aufstellen, aufrichten | 11 |  | [Bearbeiten](cards/2104_dresser.yml) |
+| 2104 | dresser | aufstellen, (auf-)richten | 11 |  | [Bearbeiten](cards/2104_dresser.yml) |
 | 2105 | conception | Auffassung, Vorstellung | 8 |  | [Bearbeiten](cards/2105_conception.yml) |
 | 2106 | afficher | anzeigen, aushängen | 7 |  | [Bearbeiten](cards/2106_afficher.yml) |
 | 2107 | fragile | zerbrechlich, empfindlich | 5 |  | [Bearbeiten](cards/2107_fragile.yml) |
@@ -2146,7 +2146,7 @@ Insgesamt gibt es 5000 Karten mit 40372 Beispielsätzen (durchschnittlich 8.1 pr
 | 2111 | arbre | Baum | 6 |  | [Bearbeiten](cards/2111_arbre.yml) |
 | 2112 | univers | Universum | 8 |  | [Bearbeiten](cards/2112_univers.yml) |
 | 2113 | aéroport | Flughafen | 4 |  | [Bearbeiten](cards/2113_aéroport.yml) |
-| 2114 | sauter | springen, überspringen | 12 |  | [Bearbeiten](cards/2114_sauter.yml) |
+| 2114 | sauter | springen | 12 |  | [Bearbeiten](cards/2114_sauter.yml) |
 | 2115 | chasse | Jagd | 13 |  | [Bearbeiten](cards/2115_chasse.yml) |
 | 2116 | collège | Sekundarschule | 4 |  | [Bearbeiten](cards/2116_collège.yml) |
 | 2117 | garantie | Garantie | 12 |  | [Bearbeiten](cards/2117_garantie.yml) |
