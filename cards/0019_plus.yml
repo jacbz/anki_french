@@ -54,56 +54,62 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>                
-Notiz: "<div class=\"section-title\">Die Steigerung der Adjektive</div>\n<div class=\"\
-  section\">\n<p class=\"highlight\">Der Komparativ wird gebildet, indem man <span\
-  \ class=\"fr\">plus</span> (Überlegenheit), <span class=\"fr\">moins</span> (Unterlegenheit)\
-  \ oder <span class=\"fr\">aussi</span> (Gleichheit) vor das Adjektiv setzt. Das\
-  \ Bezugswort des Vergleichs wird mit <span class=\"fr\">que</span> angeschlossen.</p>\n\
-  \n<div class=\"examples\">\n    <div class=\"fr\">Marseille est <u><span class=\"\
-  fr\">plus</span> <span class=\"fr\">grand</span></u> <span class=\"fr\">que</span>\
-  \ Montpellier.</div>\n    <div class=\"de spoiler\">Marseille ist größer als Montpellier.</div>\n\
-  \    <div class=\"fr\">Marseille est <u><span class=\"fr\">moins</span> <span class=\"\
-  fr\">grand</span></u> <span class=\"fr\">que</span> New York.</div>\n    <div class=\"\
-  de spoiler\">Marseille ist kleiner (weniger groß) als New York.</div>\n    <div\
-  \ class=\"fr\">Marseille est <u><span class=\"fr\">aussi</span> <span class=\"fr\"\
-  >grand</span></u> <span class=\"fr\">que</span> Lyon.</div>\n    <div class=\"de\
-  \ spoiler\">Marseille ist genauso groß wie Lyon.</div>\n  </div>\n\n<p>Dem französischen\
-  \ Komparativ der Unterlegenheit mit <span class=\"fr\">moins</span> entspricht im\
-  \ Deutschen in der Regel der Komparativ des Gegensatzbegriffs zum gesteigerten Adjektiv,\
-  \ z.B.:</p>\n<div class=\"examples\">\n    <div class=\"fr\">Nadine est grande,\
-  \ mais elle est moins grande que sa mère.</div>\n    <div class=\"de spoiler\">Nadine\
-  \ ist groß, aber sie ist kleiner als ihre Mutter.</div>\n</div>\n\n<p>Der Superlativ\
-  \ wird gebildet, indem man <span class=\"fr\">le/la/les plus</span> (Überlegenheit)\
-  \ oder <span class=\"fr\">le/la/les moins</span> (Unterlegenheit) vor das Adjektiv\
-  \ setzt. Das Adjektiv gleicht sich auch beim Superlativ in Zahl und Geschlecht dem\
-  \ Substantiv an, auf das es sich bezieht.</p>\n<div class=\"examples\">\n    <div\
-  \ class=\"fr\">Quel est le fleuve <u>le plus long</u> d'Europe?</div>\n    <div\
-  \ class=\"de spoiler\">Welcher ist der längste Fluss Europas?</div>\n</div>\n\n\
-  <p>Das Bezugswort wird mit der Präposition <span class=\"fr\">de</span> angeschlossen.\
-  \ Kurze, häufig gebrauchte Adjektive können auch im Superlativ vor dem Substantiv\
-  \ stehen:</p>\n<div class=\"examples\">\n    <div class=\"fr\">Nicholas est <u>le\
-  \ plus jeune fils</u> de notre famille.</div>\n    <div class=\"de spoiler\">Nicholas\
-  \ ist der jüngste Sohn unserer Familie.</div>\n</div>\n</div>\n\n<div class=\"section-title\"\
-  >Aussprache von -s</div>\n<div class=\"section\">\n<p>Wenn <span class=\"fr\">plus</span>\
-  \ <span class=\"de\">mehr</span> oder <span class=\"de\">zusätzlich</span> bedeutet\
-  \ (z.B. +Nomen oder +que), dann wird das -s ausgesprochen.</p>\n<div class=\"examples\"\
-  >\n<div class=\"fr\">On veut <u>plu<span style=\"color:red;\">s</span></u> de devoirs\
-  \ à l'école.</div><div class=\"de spoiler\">Man möchte in der Schule <u>mehr</u>\
-  \ Hausaufgaben.</div><div class=\"fr\">Je t'aime <u>plu<span style=\"color:red;\"\
-  >s</span></u> que tout.</div><div class=\"de spoiler\">Ich liebe dich <u>mehr</u>\
-  \ als alles andere.</div><div class=\"fr\">Victor a <u>plu<span style=\"color:red;\"\
-  >s</span></u> d'imagination que moi.</div><div class=\"de spoiler\">Victor hat <u>mehr</u>\
-  \ Fantasie als ich.</div>  \n</div>\n<p>Auch, wenn ein Adjektiv/Adverb folgt, das\
-  \ mit einem Vokal oder stummen h beginnt:</p>\n<div class=\"examples\">\n<div class=\"\
-  fr\">Ce matin, il fait <u>plu<span style=\"color:red;\">s</span></u> agréable qu'hier.</div><div\
-  \ class=\"de spoiler\">Heute Morgen ist das Wetter <u>schöner</u> als gestern.</div><div\
-  \ class=\"fr\">Elle est <u>plu<span style=\"color:red;\">s</span></u> heureuse aujourd'hui\
-  \ qu'hier.</div><div class=\"de spoiler\">Sie ist heute <u>glücklicher</u> als gestern.</div>\n\
-  </div>\n<p>Wenn <span class=\"fr\">plus</span> <span class=\"de\">nicht mehr</span>\
-  \ oder <span class=\"de\">keine mehr</span> bedeutet oder vor einem Adjektiv/Adverb\
-  \ steht, das mit einem Konsonanten beginnt, wird das -s nicht ausgesprochen.</p>\n\
-  <div class=\"examples\">\n<div class=\"fr\">Nous n'avons <u>plu<span style=\"opacity:50%\"\
-  >s</span></u> de travail.</div><div class=\"de spoiler\">Wir haben keine Arbeit\
-  \ <u>mehr</u>.</div><div class=\"fr\">Nous allons rester <u>plu<span style=\"opacity:50%\"\
-  >s</span></u> longtemps.</div><div class=\"de spoiler\">Wir werden <u>länger</u>\
-  \ bleiben.</div>\n</div>\n</div>"
+Notiz: |-
+  <div class="section-title">Die Steigerung der Adjektive</div>
+  <div class="section">
+    <p class="highlight">Der Komparativ wird gebildet, indem man <span class="fr">plus</span> (Überlegenheit), <span class="fr">moins</span> (Unterlegenheit) oder <span class="fr">aussi</span> (Gleichheit) vor das Adjektiv setzt. Das Bezugswort des Vergleichs wird mit <span class="fr">que</span> angeschlossen.</p>
+
+    <div class="examples">
+      <div class="fr">Marseille est <u><span class="fr">plus</span> <span class="fr">grand</span></u> <span class="fr">que</span> Montpellier.</div>
+      <div class="de spoiler">Marseille ist größer als Montpellier.</div>
+      <div class="fr">Marseille est <u><span class="fr">moins</span> <span class="fr">grand</span></u> <span class="fr">que</span> New York.</div>
+      <div class="de spoiler">Marseille ist kleiner (weniger groß) als New York.</div>
+      <div class="fr">Marseille est <u><span class="fr">aussi</span> <span class="fr">grand</span></u> <span class="fr">que</span> Lyon.</div>
+      <div class="de spoiler">Marseille ist genauso groß wie Lyon.</div>
+    </div>
+
+    <p>Dem französischen Komparativ der Unterlegenheit mit <span class="fr">moins</span> entspricht im Deutschen in der Regel der Komparativ des Gegensatzbegriffs zum gesteigerten Adjektiv, z.B.:</p>
+    <div class="examples">
+      <div class="fr">Nadine est grande, mais elle est moins grande que sa mère.</div>
+      <div class="de spoiler">Nadine ist groß, aber sie ist kleiner als ihre Mutter.</div>
+    </div>
+
+    <p>Der Superlativ wird gebildet, indem man <span class="fr">le/la/les plus</span> (Überlegenheit) oder <span class="fr">le/la/les moins</span> (Unterlegenheit) vor das Adjektiv setzt. Das Adjektiv gleicht sich auch beim Superlativ in Zahl und Geschlecht dem Substantiv an, auf das es sich bezieht.</p>
+    <div class="examples">
+      <div class="fr">Quel est le fleuve <u>le plus long</u> d'Europe?</div>
+      <div class="de spoiler">Welcher ist der längste Fluss Europas?</div>
+    </div>
+
+    <p>Das Bezugswort wird mit der Präposition <span class="fr">de</span> angeschlossen. Kurze, häufig gebrauchte Adjektive können auch im Superlativ vor dem Substantiv stehen:</p>
+    <div class="examples">
+      <div class="fr">Nicholas est <u>le plus jeune fils</u> de notre famille.</div>
+      <div class="de spoiler">Nicholas ist der jüngste Sohn unserer Familie.</div>
+    </div>
+  </div>
+
+  <div class="section-title">Aussprache von -s</div>
+  <div class="section">
+    <p>Wenn <span class="fr">plus</span> <span class="de">mehr</span> oder <span class="de">zusätzlich</span> bedeutet (z.B. +Nomen oder +que), dann wird das -s ausgesprochen.</p>
+    <div class="examples">
+      <div class="fr">On veut <u>plu<span style="color:red;">s</span></u> de devoirs à l'école.</div>
+      <div class="de spoiler">Man möchte in der Schule <u>mehr</u> Hausaufgaben.</div>
+      <div class="fr">Je t'aime <u>plu<span style="color:red;">s</span></u> que tout.</div>
+      <div class="de spoiler">Ich liebe dich <u>mehr</u> als alles andere.</div>
+      <div class="fr">Victor a <u>plu<span style="color:red;">s</span></u> d'imagination que moi.</div>
+      <div class="de spoiler">Victor hat <u>mehr</u> Fantasie als ich.</div>
+    </div>
+    <p>Auch, wenn ein Adjektiv/Adverb folgt, das mit einem Vokal oder stummen h beginnt:</p>
+    <div class="examples">
+      <div class="fr">Ce matin, il fait <u>plu<span style="color:red;">s</span></u> agréable qu'hier.</div>
+      <div class="de spoiler">Heute Morgen ist das Wetter <u>schöner</u> als gestern.</div>
+      <div class="fr">Elle est <u>plu<span style="color:red;">s</span></u> heureuse aujourd'hui qu'hier.</div>
+      <div class="de spoiler">Sie ist heute <u>glücklicher</u> als gestern.</div>
+    </div>
+    <p>Wenn <span class="fr">plus</span> <span class="de">nicht mehr</span> oder <span class="de">keine mehr</span> bedeutet oder vor einem Adjektiv/Adverb steht, das mit einem Konsonanten beginnt, wird das -s nicht ausgesprochen.</p>
+    <div class="examples">
+      <div class="fr">Nous n'avons <u>plu<span style="opacity:50%">s</span></u> de travail.</div>
+      <div class="de spoiler">Wir haben keine Arbeit <u>mehr</u>.</div>
+      <div class="fr">Nous allons rester <u>plu<span style="opacity:50%">s</span></u> longtemps.</div>
+      <div class="de spoiler">Wir werden <u>länger</u> bleiben.</div>
+    </div>
+  </div>
