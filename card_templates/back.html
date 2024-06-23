@@ -178,7 +178,21 @@
       // Replace with French quote marks « ... »
       text = text.replace(/(?!.*<[^>]+>)"([^"]*)"/g, "«\u202F$1\u202F»");
     } else {
-      // Replace with German quote marks „...“
+      // format dialogue
+      if (text.includes('<br>-') || text.includes('<br>–')) {
+        const lines = text.split('<br>');
+        const formattedLines = [];
+        for (let line of lines) {
+            line = line.trim();
+            console.log(line)
+            if (line.startsWith('–') || line.startsWith('-')) {
+              line = line.replace(/^(–|-)\s*/, '');
+            }
+            formattedLines.push(`„${line}“`);
+        }
+        text = formattedLines.join('<br>');
+      }
+      // replace with German quote marks „...“
       text = text.replace(/(?!.*<[^>]+>)"([^"]*)"/g, "„$1“");
     }
     return text;
