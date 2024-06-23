@@ -517,6 +517,10 @@ span.spoiler {
     Conjugations
     -----------------------------------------------
   **/
+#verb-classification {
+  font-style: italic;
+}
+
 #conjugation-table {
   font-size: 90%;
   margin-left: auto;

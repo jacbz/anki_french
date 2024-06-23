@@ -221,10 +221,12 @@
   /**
    * Conjugations
    */
-  if (document.querySelector(".conjugation")) {
+  var conjugationTable = document.getElementById("conjugation-table");
+  if (conjugationTable) {
     var showRegularConjugations = false;
     var showHideButton = document.getElementById("show-hide-button");
     var label = document.getElementById("show-hide-label");
+    var verbClassification = document.getElementById("verb-classification");
 
     function toggleConjugations() {
       showRegularConjugations = !showRegularConjugations;
@@ -235,11 +237,14 @@
         ? "Nur unregelmäßige anzeigen"
         : "Alles anzeigen";
       squish_cells();
+
+      if (verbClassification && conjugationTable.offsetHeight > 0) {
+        conjugationTable.style.marginTop = '0.5em';
+      }
     }
 
     showHideButton.addEventListener("click", toggleConjugations);
 
-    var verbClassification = document.getElementById("verb-classification");
     if (verbClassification) {
       verbClassification.addEventListener("dblclick", toggleConjugations);
     }
