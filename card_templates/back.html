@@ -179,18 +179,17 @@
       text = text.replace(/(?!.*<[^>]+>)"([^"]*)"/g, "«\u202F$1\u202F»");
     } else {
       // format dialogue
-      if (text.includes('<br>-') || text.includes('<br>–')) {
-        const lines = text.split('<br>');
+      if (text.includes("<br>-") || text.includes("<br>–")) {
+        const lines = text.split("<br>");
         const formattedLines = [];
         for (let line of lines) {
-            line = line.trim();
-            console.log(line)
-            if (line.startsWith('–') || line.startsWith('-')) {
-              line = line.replace(/^(–|-)\s*/, '');
-            }
-            formattedLines.push(`„${line}“`);
+          line = line.trim();
+          if (line.startsWith("–") || line.startsWith("-")) {
+            line = line.replace(/^(–|-)\s*/, "");
+          }
+          formattedLines.push(`„${line}“`);
         }
-        text = formattedLines.join('<br>');
+        text = formattedLines.join("<br>");
       }
       // replace with German quote marks „...“
       text = text.replace(/(?!.*<[^>]+>)"([^"]*)"/g, "„$1“");
@@ -328,58 +327,51 @@
       .then((html) => {
         document.getElementById("conjugation-grammar").innerHTML = html;
         document.getElementById("conjugation-grammar").dataset.aux = aux;
-        document.getElementById("conjugation-grammar").dataset.onlyThirdPerson = isOnlyThirdPerson;
+        document.getElementById("conjugation-grammar").dataset.onlyThirdPerson =
+          isOnlyThirdPerson;
+        document.getElementById("conjugation-grammar").dataset.reflexive =
+          isReflexive;
         enableSectionToggle();
         refreshSentences();
 
         // fill in conjugation table
-        document
-          .querySelectorAll('*[data-tense="INFINITIVE"]')
-          .forEach(function (el) {
-            el.textContent = word;
-          });
         document
           .querySelectorAll("#conjugation-table tr")
           .forEach(function (el) {
             const tenseValues = [...el.querySelectorAll("td[data-full]")].map(
               (td) => td.dataset.full
             );
-            if (tenseValues.length > 0) {
-              document
-                .querySelectorAll(
-                  `#conjugation-grammar .section *[data-tense="${el.dataset.tense}"]`
-                )
-                .forEach(function (tenseElement, index) {
-                  if (tenseValues[index] !== "") {
-                    var tenseValue =
-                      tenseValues[Math.min(index, tenseValues.length - 1)];
-                    tenseElement.textContent += tenseValue;
-                    if (index == 0 && tenseValues[0]) {
-                      var _1p =
-                        tenseElement.parentElement.querySelector(
-                          ".conj-table-1p"
-                        );
-                      if (_1p) {
-                        if (isHAspire) {
-                          _1p.innerHTML =
-                            'j<span style="color: red; text-decoration: underline">e</span>';
-                        } else if (
-                          tenseValue.match(/^[aeiouàâäéèêëîïôöùûüh]/)
-                        ) {
-                          _1p.textContent = "j’";
-                        }
-                      }
-                    }
-                  }
-                });
+            var tense = el.dataset.tense;
+            formatConjugationTable(tenseValues, tense);
+          });
+          formatConjugationTable([word], "INFINITIVE");
+      });
+
+    function formatConjugationTable(tenseValues, tense) {
+      if (tenseValues.length > 0) {
+        document
+          .querySelectorAll(
+            `#conjugation-grammar .section *[data-tense="${tense}"]`
+          )
+          .forEach(function (tenseElement, index) {
+            if (tenseValues[index] !== "") {
+              var tenseValue =
+                tenseValues[Math.min(index, tenseValues.length - 1)];
+              tenseElement.textContent = tenseElement.textContent.trim() + tenseValue;
+
+              if (tenseValue.match(/^[aeiouàâäéèêëîïôöùûüh]/) && !isHAspire) {
+                tenseElement.parentElement.classList.add("elision");
+              }
             }
           });
-      });
+      }
+    }
 
     var conjugationTable = document.getElementById("conjugation-table");
     var aux = conjugationTable.dataset.aux;
     var isHAspire = conjugationTable.dataset.hAspire === "true";
     var isOnlyThirdPerson = conjugationTable.dataset.onlyThirdPerson === "true";
+    var isReflexive = conjugationTable.dataset.reflexive === "true";
     document.querySelectorAll("#conjugation-table tr").forEach(function (el) {
       var tense = el.dataset.tense;
       el.onclick = function () {

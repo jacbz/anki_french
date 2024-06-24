@@ -463,13 +463,25 @@ span.spoiler {
   content: "\2212";
 }
 
-#conjugation-grammar[data-aux="avoir"] *[data-aux="etre"] {
-  display: none;
-}
-#conjugation-grammar[data-aux="etre"] *[data-aux="avoir"] {
-  display: none;
-}
 #conjugation-grammar[data-only-third-person="true"] .section-conjugation-table tr:not(:nth-child(3)) {
+  display: none;
+}
+#conjugation-grammar[data-aux="avoir"] .section-conjugation-table tr span.etre {
+  display: none;
+}
+#conjugation-grammar[data-aux="etre"] .section-conjugation-table tr span.avoir {
+  display: none;
+}
+#conjugation-grammar[data-reflexive="true"] .section-conjugation-table td:not(:last-child) > span:not(.reflexive) {
+  display: none;
+}
+#conjugation-grammar[data-reflexive="false"] .section-conjugation-table td:not(:last-child) > span.reflexive {
+  display: none;
+}
+#conjugation-grammar .section-conjugation-table tr.elision td:not(:last-child) > span.full {
+  display: none;
+}
+#conjugation-grammar .section-conjugation-table tr:not(.elision) td:not(:last-child) > span.elision {
   display: none;
 }
 .section-conjugation-table {
@@ -488,8 +500,11 @@ span.spoiler {
 .section-conjugation-table td:last-child {
   font-weight: bold;
 }
-.section-conjugation-table td::before {
-  content: attr(data-prefix);
+#conjugation-grammar[data-aux="etre"] .section-conjugation-table td[data-plural="true"]::after {
+  content: 's';
+}
+#conjugation-grammar[data-reflexive="true"] .section-conjugation-table td::after {
+  content: attr(data-reflexive-suffix);
 }
 
 .box .attention,
