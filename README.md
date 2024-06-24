@@ -29,7 +29,7 @@ Im Ordner [cards](cards) befinden sich alle 5000 Karten im YAML-Format.
 4. Erstelle einen Pull Request
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40372 Beispielsätzen (durchschnittlich 8.1 pro Karte). 123 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40371 Beispielsätzen (durchschnittlich 8.1 pro Karte). 123 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -39,7 +39,7 @@ Insgesamt gibt es 5000 Karten mit 40372 Beispielsätzen (durchschnittlich 8.1 pr
 | 4 | à | nach, in [örtlich], um [zeitlich] | 46 | X | [Bearbeiten](cards/0004_à.yml) |
 | 5 | être | sein | 4 |  | [Bearbeiten](cards/0005_être.yml) |
 | 6 | et | und | 4 | X | [Bearbeiten](cards/0006_et.yml) |
-| 7 | en | in | 13 | X | [Bearbeiten](cards/0007_en.yml) |
+| 7 | en | in | 12 | X | [Bearbeiten](cards/0007_en.yml) |
 | 8 | avoir | haben, besitzen | 14 |  | [Bearbeiten](cards/0008_avoir.yml) |
 | 9 | que | dass, wie, welche(-r/n) | 12 |  | [Bearbeiten](cards/0009_que.yml) |
 | 10 | pour | für | 12 |  | [Bearbeiten](cards/0010_pour.yml) |
@@ -648,7 +648,7 @@ Insgesamt gibt es 5000 Karten mit 40372 Beispielsätzen (durchschnittlich 8.1 pr
 | 613 | livrer | liefern | 12 |  | [Bearbeiten](cards/0613_livrer.yml) |
 | 614 | auprès | bei | 10 |  | [Bearbeiten](cards/0614_auprès.yml) |
 | 615 | simplement | einfach, schlichtweg | 4 |  | [Bearbeiten](cards/0615_simplement.yml) |
-| 616 | souvenir | erinnern | 13 |  | [Bearbeiten](cards/0616_souvenir.yml) |
+| 616 | souvenir | erinnern; Erinnerung | 13 |  | [Bearbeiten](cards/0616_souvenir.yml) |
 | 617 | conséquence | Konsequenz | 13 |  | [Bearbeiten](cards/0617_conséquence.yml) |
 | 618 | large | breit, weit | 12 |  | [Bearbeiten](cards/0618_large.yml) |
 | 619 | contraire | Gegenteil | 12 |  | [Bearbeiten](cards/0619_contraire.yml) |
@@ -1854,7 +1854,7 @@ Insgesamt gibt es 5000 Karten mit 40372 Beispielsätzen (durchschnittlich 8.1 pr
 | 1819 | maintien | Haltung | 8 |  | [Bearbeiten](cards/1819_maintien.yml) |
 | 1820 | chanter | singen | 11 |  | [Bearbeiten](cards/1820_chanter.yml) |
 | 1821 | pension | Rente; Pension | 11 |  | [Bearbeiten](cards/1821_pension.yml) |
-| 1822 | revue | Zeitschrift, Überprüfung | 12 |  | [Bearbeiten](cards/1822_revue.yml) |
+| 1822 | revue | Zeitschrift; Überprüfung | 12 |  | [Bearbeiten](cards/1822_revue.yml) |
 | 1823 | clore | schließen, abschließen | 2 | X | [Bearbeiten](cards/1823_clore.yml) |
 | 1824 | neige | Schnee | 9 |  | [Bearbeiten](cards/1824_neige.yml) |
 | 1825 | figure | Figur, Gesicht | 12 |  | [Bearbeiten](cards/1825_figure.yml) |
@@ -2135,7 +2135,7 @@ Insgesamt gibt es 5000 Karten mit 40372 Beispielsätzen (durchschnittlich 8.1 pr
 | 2100 | lecteur | Leser | 12 |  | [Bearbeiten](cards/2100_lecteur.yml) |
 | 2101 | marin | See-; Seemann | 5 |  | [Bearbeiten](cards/2101_marin.yml) |
 | 2102 | intermédiaire | Zwischen-, Vermittler | 9 |  | [Bearbeiten](cards/2102_intermédiaire.yml) |
-| 2103 | vœu | Wunsch | 12 |  | [Bearbeiten](cards/2103_vœu.yml) |
+| 2103 | vœu | (Glück-)wunsch | 12 |  | [Bearbeiten](cards/2103_vœu.yml) |
 | 2104 | dresser | aufstellen, (auf-)richten | 11 |  | [Bearbeiten](cards/2104_dresser.yml) |
 | 2105 | conception | Auffassung, Vorstellung | 8 |  | [Bearbeiten](cards/2105_conception.yml) |
 | 2106 | afficher | anzeigen, aushängen | 7 |  | [Bearbeiten](cards/2106_afficher.yml) |

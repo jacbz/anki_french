@@ -34,7 +34,6 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * Sendung: [émission](cards/1074_émission.yml) (#1074), [envoi](cards/2960_envoi.yml) (#2960)
 * Gefahr: [danger](cards/0932_danger.yml) (#932), [péril](cards/2969_péril.yml) (#2969)
 * wirklich, tatsächlich: [réellement](cards/1563_réellement.yml) (#1563), [véritablement](cards/3115_véritablement.yml) (#3115)
-* Wunsch: [vœu](cards/2103_vœu.yml) (#2103), [souhait](cards/3122_souhait.yml) (#3122)
 * zusätzlich: [supplémentaire](cards/1267_supplémentaire.yml) (#1267), [additionnel](cards/3131_additionnel.yml) (#3131)
 * heiraten: [marier](cards/1686_marier.yml) (#1686), [épouser](cards/3136_épouser.yml) (#3136)
 * Überschuss: [surplus](cards/3104_surplus.yml) (#3104), [excédent](cards/3140_excédent.yml) (#3140)

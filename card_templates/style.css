@@ -40,19 +40,27 @@
     Buttons
     -----------------------------------------------
   **/
-.svg-button {
+
+.button {
+  border-radius: 0.5em;
   border: 1px solid black;
-  min-width: 24px;
-  min-height: 24px;
-  max-width: 24px;
-  max-height: 24px;
-  border-radius: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
   cursor: pointer;
   transition: opacity 0.2s;
   position: relative;
+  user-select: none;
+  -webkit-user-select: none;
+  font-weight: normal;
+}
+
+.svg-button {
+  min-width: 24px;
+  min-height: 24px;
+  max-width: 24px;
+  max-height: 24px;
+  border-radius: 100%;
 }
 
 .svg-button.small {
@@ -75,26 +83,26 @@
 }
 
 @media (hover: hover) and (pointer: fine) {
-  .svg-button:hover {
+  .button:hover {
     background: rgb(200, 200, 200, 0.5);
   }
 }
 
-.svg-button:active {
+.button:active {
   background: rgb(200, 200, 200, 0.5);
 }
 
 @media (hover: hover) and (pointer: fine) {
-  .night_mode .svg-button:hover {
-    background: rgb(68, 68, 68, 0.5);
+  .night_mode .button:hover {
+    background: rgb(100, 100, 100, 0.5);
   }
 }
 
-.night_mode .svg-button:active {
-  background: rgb(68, 68, 68, 0.5);
+.night_mode .button:active {
+  background: rgb(100, 100, 100, 0.5);
 }
 
-.night_mode .svg-button {
+.night_mode .button {
   border-color: white;
 }
 
@@ -463,27 +471,6 @@ span.spoiler {
   content: "\2212";
 }
 
-#conjugation-grammar[data-only-third-person="true"] .section-conjugation-table tr:not(:nth-child(3)) {
-  display: none;
-}
-#conjugation-grammar[data-aux="avoir"] .section-conjugation-table tr span.etre {
-  display: none;
-}
-#conjugation-grammar[data-aux="etre"] .section-conjugation-table tr span.avoir {
-  display: none;
-}
-#conjugation-grammar[data-reflexive="true"] .section-conjugation-table td:not(:last-child) > span:not(.reflexive) {
-  display: none;
-}
-#conjugation-grammar[data-reflexive="false"] .section-conjugation-table td:not(:last-child) > span.reflexive {
-  display: none;
-}
-#conjugation-grammar .section-conjugation-table tr.elision td:not(:last-child) > span.full {
-  display: none;
-}
-#conjugation-grammar .section-conjugation-table tr:not(.elision) td:not(:last-child) > span.elision {
-  display: none;
-}
 .section-conjugation-table {
   margin-left: auto;
   margin-right: auto;
@@ -505,6 +492,27 @@ span.spoiler {
 }
 #conjugation-grammar[data-reflexive="true"] .section-conjugation-table td::after {
   content: attr(data-reflexive-suffix);
+}
+#conjugation-grammar[data-only-third-person="true"] .section-conjugation-table tr:not(:nth-child(3)) {
+  display: none;
+}
+#conjugation-grammar[data-aux="avoir"] .section-conjugation-table tr span.etre {
+  display: none;
+}
+#conjugation-grammar[data-aux="etre"] .section-conjugation-table tr span.avoir {
+  display: none;
+}
+#conjugation-grammar[data-reflexive="true"] .section-conjugation-table td:not(:last-child) > span:not(.reflexive) {
+  display: none;
+}
+#conjugation-grammar[data-reflexive="false"] .section-conjugation-table td:not(:last-child) > span.reflexive {
+  display: none;
+}
+#conjugation-grammar .section-conjugation-table tr.elision td:not(:last-child) > span.full {
+  display: none;
+}
+#conjugation-grammar .section-conjugation-table tr:not(.elision) td:not(:last-child) > span.elision {
+  display: none;
 }
 
 .box .attention,

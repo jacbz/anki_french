@@ -27,7 +27,7 @@
 <div class="box tappable" id="sentences">
   <div class="box_float" id="next_sentence">
     <div class="box_float_label" id="sentence_counter"></div>
-    <div class="svg-button">
+    <div class="button svg-button">
       <svg width="800px" height="800px" viewBox="0 0 1024 1024">
         <path
           d="M338.752 104.704a64 64 0 0 0 0 90.496l316.8 316.8-316.8 316.8a64 64 0 0 0 90.496 90.496l362.048-362.048a64 64 0 0 0 0-90.496L429.248 104.704a64 64 0 0 0-90.496 0z"
@@ -43,7 +43,7 @@
 <div class="box tappable conjugation">
   <div class="box_float" id="show-hide-button">
     <div class="box_float_label" id="show-hide-label">Alles anzeigen</div>
-    <div class="svg-button">
+    <div class="button svg-button">
       <svg height="800px" width="800px" viewBox="0 0 488.85 488.85">
         <g>
           <path
@@ -205,7 +205,7 @@
   var sentenceCounter = document.getElementById("sentence_counter");
 
   var audioButton = function (text) {
-    return `<div class="svg-button small play-sentence" data-text="${encodeURIComponent(
+    return `<div class="button svg-button small play-sentence" data-text="${encodeURIComponent(
       text
     )}">
       <svg width="800px" height="800px" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
@@ -325,14 +325,36 @@
     fetch(`${getAnkiPrefix()}/_FR5000_tenses.html`)
       .then((response) => response.text())
       .then((html) => {
-        document.getElementById("conjugation-grammar").innerHTML = html;
-        document.getElementById("conjugation-grammar").dataset.aux = aux;
-        document.getElementById("conjugation-grammar").dataset.onlyThirdPerson =
-          isOnlyThirdPerson;
-        document.getElementById("conjugation-grammar").dataset.reflexive =
-          isReflexive;
+        var conjugationGrammar = document.getElementById("conjugation-grammar");
+        conjugationGrammar.innerHTML = html;
+        conjugationGrammar.dataset.aux = aux;
+        conjugationGrammar.dataset.onlyThirdPerson = isOnlyThirdPerson;
+        conjugationGrammar.dataset.reflexive = isReflexive;
         enableSectionToggle();
         refreshSentences();
+
+        // add button to toggle reflexive
+        if (!isReflexive) {
+          document
+            .querySelectorAll(".section-conjugation-table")
+            .forEach(function (el) {
+              el.querySelector("tbody").innerHTML += `
+                <tr>
+                <td colspan="6" style="text-align: center;">
+                  <div class="button reflexive-button">
+                  Reflexiv
+                  </div>
+                </td>
+                </tr>
+              `;
+              var reflexiveButton = el.querySelector(".reflexive-button");
+              reflexiveButton.onclick = () => {
+                isReflexive = !isReflexive;
+                conjugationGrammar.dataset.reflexive = isReflexive;
+                conjugationGrammar.dataset.aux = isReflexive ? "etre" : aux;
+              };
+            });
+        }
 
         // fill in conjugation table
         document
@@ -344,20 +366,19 @@
             var tense = el.dataset.tense;
             formatConjugationTable(tenseValues, tense);
           });
-          formatConjugationTable([word], "INFINITIVE");
+        formatConjugationTable([word], "INFINITIVE");
       });
 
     function formatConjugationTable(tenseValues, tense) {
       if (tenseValues.length > 0) {
         document
-          .querySelectorAll(
-            `#conjugation-grammar .section *[data-tense="${tense}"]`
-          )
+          .querySelectorAll(`.section *[data-tense="${tense}"]`)
           .forEach(function (tenseElement, index) {
             if (tenseValues[index] !== "") {
               var tenseValue =
                 tenseValues[Math.min(index, tenseValues.length - 1)];
-              tenseElement.textContent = tenseElement.textContent.trim() + tenseValue;
+              tenseElement.textContent =
+                tenseElement.textContent.trim() + tenseValue;
 
               if (tenseValue.match(/^[aeiouàâäéèêëîïôöùûüh]/) && !isHAspire) {
                 tenseElement.parentElement.classList.add("elision");
