@@ -171,12 +171,20 @@
   sentencesPairs.sort(() => 0.5 - Math.random());
 
   function beautifyText(text, isFrench) {
+    if (text.length === 0) {
+      return text;
+    }
     var text = text.replace(/([^<>\s])'/g, "$1’"); // convert apostrophes
     if (isFrench) {
       // insert thin non-breaking space before punctuation (but not inside HTML tags)
       text = text.replace(/(?!.*<[^>]+>)(\s?)([?|:|!|;])/g, "\u202F$2");
       // Replace with French quote marks « ... »
       text = text.replace(/(?!.*<[^>]+>)"([^"]*)"/g, "«\u202F$1\u202F»");
+
+      if (text[0] === '-') {
+        text = text.replace('-', "–");
+      }
+      text = text.replace('<br>-', '<br>–');
     } else {
       // format dialogue
       if (text.includes("<br>-") || text.includes("<br>–")) {
