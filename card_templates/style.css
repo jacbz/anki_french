@@ -405,6 +405,11 @@ span.spoiler {
   padding-left: 1em;
 }
 
+.box .examples u {
+  text-decoration: none;
+  color: hsl(192, 70%, 50%);
+}
+
 .box .examples:not(:last-child) {
   margin-bottom: 0.75em;
 }
