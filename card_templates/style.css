@@ -479,7 +479,7 @@ span.spoiler {
 .night_mode .section-conjugation-table {
   background: #444;
 }
-.section-conjugation-table td:first-child {
+.section-conjugation-table td:not(:last-child) {
   text-align: right;
 }
 .section-conjugation-table td:last-child {
