@@ -469,6 +469,9 @@ span.spoiler {
 #conjugation-grammar[data-aux="etre"] *[data-aux="avoir"] {
   display: none;
 }
+#conjugation-grammar[data-only-third-person="true"] .section-conjugation-table tr:not(:nth-child(3)) {
+  display: none;
+}
 .section-conjugation-table {
   margin-left: auto;
   margin-right: auto;

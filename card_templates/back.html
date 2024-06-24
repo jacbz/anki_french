@@ -328,6 +328,7 @@
       .then((html) => {
         document.getElementById("conjugation-grammar").innerHTML = html;
         document.getElementById("conjugation-grammar").dataset.aux = aux;
+        document.getElementById("conjugation-grammar").dataset.onlyThirdPerson = isOnlyThirdPerson;
         enableSectionToggle();
         refreshSentences();
 
@@ -349,9 +350,7 @@
                   `#conjugation-grammar .section *[data-tense="${el.dataset.tense}"]`
                 )
                 .forEach(function (tenseElement, index) {
-                  if (tenseValues[index] === "") {
-                    tenseElement.parentElement.remove();
-                  } else {
+                  if (tenseValues[index] !== "") {
                     var tenseValue =
                       tenseValues[Math.min(index, tenseValues.length - 1)];
                     tenseElement.textContent += tenseValue;
@@ -379,7 +378,8 @@
 
     var conjugationTable = document.getElementById("conjugation-table");
     var aux = conjugationTable.dataset.aux;
-    var isHAspire = conjugationTable.dataset.haspire === "true";
+    var isHAspire = conjugationTable.dataset.hAspire === "true";
+    var isOnlyThirdPerson = conjugationTable.dataset.onlyThirdPerson === "true";
     document.querySelectorAll("#conjugation-table tr").forEach(function (el) {
       var tense = el.dataset.tense;
       el.onclick = function () {
