@@ -492,31 +492,40 @@ span.spoiler {
 .section-conjugation-table td:last-child {
   font-weight: bold;
 }
-#conjugation-grammar[data-aux="etre"] .section-conjugation-table td[data-plural="true"]::after {
+#conjugation-grammar .section-conjugation-table td::before {
+  content: attr(data-prefix);
+}
+#conjugation-grammar[data-aux="etre"] .section-conjugation-table tbody td[data-plural="true"]::after {
   content: 's';
 }
-#conjugation-grammar[data-reflexive="true"] .section-conjugation-table td::after {
+#conjugation-grammar[data-reflexive="true"] .section-conjugation-table tbody td::after {
   content: attr(data-reflexive-suffix);
 }
-#conjugation-grammar[data-only-third-person="true"] .section-conjugation-table tr:not(:nth-child(3)) {
+#conjugation-grammar[data-reflexive="true"] .section-conjugation-table tbody td::before {
+  content: attr(data-reflexive-prefix);
+}
+#conjugation-grammar[data-reflexive="true"] .section-conjugation-table tbody tr.elision td::before {
+  content: attr(data-reflexive-prefix-elision);
+}
+#conjugation-grammar[data-only-third-person="true"] .section-conjugation-table tbody tr:not(:nth-child(3)):not(:only-of-type) {
   display: none;
 }
-#conjugation-grammar[data-aux="avoir"] .section-conjugation-table tr span.etre {
+#conjugation-grammar[data-aux="avoir"] .section-conjugation-table tbody tr span.etre {
   display: none;
 }
-#conjugation-grammar[data-aux="etre"] .section-conjugation-table tr span.avoir {
+#conjugation-grammar[data-aux="etre"] .section-conjugation-table tbody tr span.avoir {
   display: none;
 }
-#conjugation-grammar[data-reflexive="true"] .section-conjugation-table td:not(:last-child) > span:not(.reflexive) {
+#conjugation-grammar[data-reflexive="true"] .section-conjugation-table tbody td:not(:last-child) > span:not(.reflexive) {
   display: none;
 }
-#conjugation-grammar[data-reflexive="false"] .section-conjugation-table td:not(:last-child) > span.reflexive {
+#conjugation-grammar[data-reflexive="false"] .section-conjugation-table tbody td:not(:last-child) > span.reflexive {
   display: none;
 }
-#conjugation-grammar .section-conjugation-table tr.elision td:not(:last-child) > span.full {
+#conjugation-grammar .section-conjugation-table tbody tr.elision td:not(:last-child) > span.full {
   display: none;
 }
-#conjugation-grammar .section-conjugation-table tr:not(.elision) td:not(:last-child) > span.elision {
+#conjugation-grammar .section-conjugation-table tbody tr:not(.elision) td:not(:last-child) > span.elision {
   display: none;
 }
 

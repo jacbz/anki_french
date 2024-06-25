@@ -346,7 +346,8 @@
           document
             .querySelectorAll(".section-conjugation-table")
             .forEach(function (el) {
-              el.querySelector("tbody").innerHTML += `
+              el.innerHTML += `
+                <tfoot>
                 <tr>
                 <td colspan="6" style="text-align: center;">
                   <div class="button reflexive-button">
@@ -354,6 +355,7 @@
                   </div>
                 </td>
                 </tr>
+                </tfoot>
               `;
               var reflexiveButton = el.querySelector(".reflexive-button");
               reflexiveButton.onclick = () => {
@@ -385,8 +387,7 @@
             if (tenseValues[index] !== "") {
               var tenseValue =
                 tenseValues[Math.min(index, tenseValues.length - 1)];
-              tenseElement.textContent =
-                tenseElement.textContent.trim() + tenseValue;
+              tenseElement.textContent += tenseValue;
 
               if (tenseValue.match(/^[aeiouàâäéèêëîïôöùûüh]/) && !isHAspire) {
                 tenseElement.parentElement.classList.add("elision");
