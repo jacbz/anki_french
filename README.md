@@ -29,7 +29,7 @@ Im Ordner [cards](cards) befinden sich alle 5000 Karten im YAML-Format.
 4. Erstelle einen Pull Request
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40371 Beispielsätzen (durchschnittlich 8.1 pro Karte). 123 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40363 Beispielsätzen (durchschnittlich 8.1 pro Karte). 124 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -1278,7 +1278,7 @@ Insgesamt gibt es 5000 Karten mit 40371 Beispielsätzen (durchschnittlich 8.1 pr
 | 1243 | efficace | effizient | 7 |  | [Bearbeiten](cards/1243_efficace.yml) |
 | 1244 | intéressant | interessant | 11 |  | [Bearbeiten](cards/1244_intéressant.yml) |
 | 1245 | île | Insel | 5 |  | [Bearbeiten](cards/1245_île.yml) |
-| 1246 | cité | Stadt, Altstadt | 4 |  | [Bearbeiten](cards/1246_cité.yml) |
+| 1246 | cité | Stadt, Altstadt, Siedlung | 4 |  | [Bearbeiten](cards/1246_cité.yml) |
 | 1247 | carrière | Karriere | 11 |  | [Bearbeiten](cards/1247_carrière.yml) |
 | 1248 | voter | wählen, abstimmen | 8 |  | [Bearbeiten](cards/1248_voter.yml) |
 | 1249 | traité | Vertrag, Abkommen | 10 | X | [Bearbeiten](cards/1249_traité.yml) |
@@ -1414,7 +1414,7 @@ Insgesamt gibt es 5000 Karten mit 40371 Beispielsätzen (durchschnittlich 8.1 pr
 | 1379 | elle-même | (sie) selbst | 9 |  | [Bearbeiten](cards/1379_elle-même.yml) |
 | 1380 | démocratique | demokratisch | 2 |  | [Bearbeiten](cards/1380_démocratique.yml) |
 | 1381 | tentative | Versuch | 8 |  | [Bearbeiten](cards/1381_tentative.yml) |
-| 1382 | largement | weitgehend, ausgiebig | 12 |  | [Bearbeiten](cards/1382_largement.yml) |
+| 1382 | largement | bei weitem, reichlich | 12 |  | [Bearbeiten](cards/1382_largement.yml) |
 | 1383 | échouer | scheitern, durchfallen | 7 |  | [Bearbeiten](cards/1383_échouer.yml) |
 | 1384 | désirer | wünschen, begehren | 13 |  | [Bearbeiten](cards/1384_désirer.yml) |
 | 1385 | côte | Küste | 13 |  | [Bearbeiten](cards/1385_côte.yml) |
@@ -2012,9 +2012,9 @@ Insgesamt gibt es 5000 Karten mit 40371 Beispielsätzen (durchschnittlich 8.1 pr
 | 1977 | congrès | Kongress | 12 |  | [Bearbeiten](cards/1977_congrès.yml) |
 | 1978 | semblable | ähnlich | 7 |  | [Bearbeiten](cards/1978_semblable.yml) |
 | 1979 | préoccuper | beschäftigen, beunruhigen | 5 |  | [Bearbeiten](cards/1979_préoccuper.yml) |
-| 1980 | dépôt | Lager, Depot | 11 |  | [Bearbeiten](cards/1980_dépôt.yml) |
+| 1980 | dépôt | Lager | 10 |  | [Bearbeiten](cards/1980_dépôt.yml) |
 | 1981 | considération | Erwägung, (Be-)achtung | 11 |  | [Bearbeiten](cards/1981_considération.yml) |
-| 1982 | multiplier | multiplizieren, vervielfachen | 3 |  | [Bearbeiten](cards/1982_multiplier.yml) |
+| 1982 | multiplier | vervielfachen | 3 |  | [Bearbeiten](cards/1982_multiplier.yml) |
 | 1983 | dame | Dame | 15 |  | [Bearbeiten](cards/1983_dame.yml) |
 | 1984 | joie | Freude | 14 |  | [Bearbeiten](cards/1984_joie.yml) |
 | 1985 | durable | dauerhaft, nachhaltig | 4 |  | [Bearbeiten](cards/1985_durable.yml) |
@@ -2151,31 +2151,31 @@ Insgesamt gibt es 5000 Karten mit 40371 Beispielsätzen (durchschnittlich 8.1 pr
 | 2116 | collège | Sekundarschule | 4 |  | [Bearbeiten](cards/2116_collège.yml) |
 | 2117 | garantie | Garantie | 12 |  | [Bearbeiten](cards/2117_garantie.yml) |
 | 2118 | morceau | Stück | 13 |  | [Bearbeiten](cards/2118_morceau.yml) |
-| 2119 | salarié | Angestellter | 4 |  | [Bearbeiten](cards/2119_salarié.yml) |
+| 2119 | salarié | Arbeitnehmer | 4 |  | [Bearbeiten](cards/2119_salarié.yml) |
 | 2120 | discipline | Disziplin | 5 |  | [Bearbeiten](cards/2120_discipline.yml) |
 | 2121 | explosion | Explosion | 10 |  | [Bearbeiten](cards/2121_explosion.yml) |
 | 2122 | peau | Haut | 12 |  | [Bearbeiten](cards/2122_peau.yml) |
 | 2123 | commande | Bestellung, Befehl | 11 |  | [Bearbeiten](cards/2123_commande.yml) |
-| 2124 | orienter | ausrichten, orientieren | 15 |  | [Bearbeiten](cards/2124_orienter.yml) |
-| 2125 | reproduire | nachmachen, reproduzieren | 3 |  | [Bearbeiten](cards/2125_reproduire.yml) |
+| 2124 | orienter | ausrichten | 15 |  | [Bearbeiten](cards/2124_orienter.yml) |
+| 2125 | reproduire | nachmachen, wiedergeben | 3 |  | [Bearbeiten](cards/2125_reproduire.yml) |
 | 2126 | paragraphe | Absatz | 4 |  | [Bearbeiten](cards/2126_paragraphe.yml) |
-| 2127 | radical | Radikal | 8 |  | [Bearbeiten](cards/2127_radical.yml) |
-| 2128 | transférer | übertragen, transferieren | 8 |  | [Bearbeiten](cards/2128_transférer.yml) |
+| 2127 | radical | radikal, fundamental | 8 |  | [Bearbeiten](cards/2127_radical.yml) |
+| 2128 | transférer | verlegen | 8 |  | [Bearbeiten](cards/2128_transférer.yml) |
 | 2129 | diffusion | Verbreitung, Ausstrahlung | 7 |  | [Bearbeiten](cards/2129_diffusion.yml) |
-| 2130 | spécialement | besonders, speziell, insbesondere | 4 |  | [Bearbeiten](cards/2130_spécialement.yml) |
-| 2131 | croître | wachsen | 5 |  | [Bearbeiten](cards/2131_croître.yml) |
-| 2132 | tolérer | tolerieren, dulden | 5 |  | [Bearbeiten](cards/2132_tolérer.yml) |
+| 2130 | spécialement | speziell, insbesondere | 4 |  | [Bearbeiten](cards/2130_spécialement.yml) |
+| 2131 | croître | wachsen, zunehmen | 2 | X | [Bearbeiten](cards/2131_croître.yml) |
+| 2132 | tolérer | dulden, ertragen | 5 |  | [Bearbeiten](cards/2132_tolérer.yml) |
 | 2133 | copie | Kopie, Abschrift | 13 |  | [Bearbeiten](cards/2133_copie.yml) |
 | 2134 | enseigner | lehren, unterrichten | 5 |  | [Bearbeiten](cards/2134_enseigner.yml) |
-| 2135 | rédiger | verfassen, schreiben | 4 |  | [Bearbeiten](cards/2135_rédiger.yml) |
-| 2136 | magnifique | prächtig, großartig | 5 |  | [Bearbeiten](cards/2136_magnifique.yml) |
+| 2135 | rédiger | verfassen, schreiben | 3 |  | [Bearbeiten](cards/2135_rédiger.yml) |
+| 2136 | magnifique | wunderschön, großartig | 5 |  | [Bearbeiten](cards/2136_magnifique.yml) |
 | 2137 | initial | anfänglich, Ausgangs- | 5 |  | [Bearbeiten](cards/2137_initial.yml) |
-| 2138 | indice | Hinweis, Anhaltspunkt | 12 |  | [Bearbeiten](cards/2138_indice.yml) |
-| 2139 | promotion | Förderung, Beförderung, Werbeaktion | 4 |  | [Bearbeiten](cards/2139_promotion.yml) |
-| 2140 | branche | Zweig, Ast, Branche | 12 |  | [Bearbeiten](cards/2140_branche.yml) |
+| 2138 | indice | Anzeichen, Spur | 9 |  | [Bearbeiten](cards/2138_indice.yml) |
+| 2139 | promotion | Beförderung | 3 |  | [Bearbeiten](cards/2139_promotion.yml) |
+| 2140 | branche | Zweig; Branche | 12 |  | [Bearbeiten](cards/2140_branche.yml) |
 | 2141 | section | Abschnitt, Abteilung | 10 |  | [Bearbeiten](cards/2141_section.yml) |
 | 2142 | chanson | Lied | 14 |  | [Bearbeiten](cards/2142_chanson.yml) |
-| 2143 | pair | gerade [Zahl] | 10 |  | [Bearbeiten](cards/2143_pair.yml) |
+| 2143 | pair | gerade [Zahl]; Hand [in Hand] | 11 |  | [Bearbeiten](cards/2143_pair.yml) |
 | 2144 | contraindre | zwingen, nötigen | 5 |  | [Bearbeiten](cards/2144_contraindre.yml) |
 | 2145 | trancher | entscheiden, schneiden | 7 |  | [Bearbeiten](cards/2145_trancher.yml) |
 | 2146 | réformiste | Reformer, Reformist | 2 |  | [Bearbeiten](cards/2146_réformiste.yml) |

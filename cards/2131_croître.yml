@@ -7,21 +7,42 @@ Wortart: v
 Wort mit Artikel: croître
 Femininum / Plural: ''
 IPA: \kʁwatʁ\
-Definition: wachsen
+Definition: wachsen, zunehmen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Les bureaucraties ont tendance à croître et à s’étendre.\nBürokratien\
-  \ neigen dazu, zu wachsen und sich auszudehnen.\n\nLes plantes croissent rapidement\
-  \ en été.\nDie Pflanzen wachsen im Sommer schnell.\n\nLe jeune homme, qui avait\
-  \ toujours été timide, a grandi en beauté et en sagesse.\nDer junge Mann, der immer\
-  \ schüchtern gewesen war, wurde immer schöner und weiser.\n\nLe bruit des vagues\
-  \ a grandi en intensité à mesure que la tempête se rapprochait.\nDas Rauschen der\
-  \ Wellen nahm an Intensität zu, als sich der Sturm näherte. \n\nLe gâteau a grandi\
-  \ en volume au four, preuve de sa réussite.\nDer Kuchen ist im Backofen an Volumen\
-  \ zugenommen, ein Beweis für seinen Erfolg."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Les bureaucraties ont tendance à croître et à s’étendre.
+  Bürokratien neigen dazu, zu wachsen und sich auszudehnen.
+
+  Les plantes croissent rapidement en été.
+  Die Pflanzen wachsen im Sommer schnell.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>                
-Notiz: ''
+Notiz: |-
+  <div class="section-title"><i>grandir</i> und <i>croître</i></div>
+  <div class="section">
+    <p><span class="fr">Grandir</span> (#1936) wird typischerweise verwendet, um das körperliche Wachstum von Lebewesen, insbesondere Menschen, oder die persönliche Entwicklung zu beschreiben.</p>
+    <div class="examples">
+      <div class="fr">Les enfants grandissent vite.</div>
+      <div class="de spoiler">Kinder wachsen schnell auf.</div>
+      <div class="fr">Il a grandi dans un petit village.</div>
+      <div class="de spoiler">Er ist in einem kleinen Dorf aufgewachsen.</div>
+      <div class="fr">Elle a beaucoup grandi pendant l'été.</div>
+      <div class="de spoiler">Sie ist im Sommer sehr gewachsen.</div>
+    </div>
+    <p><span class="fr">Croître</span> wird im Allgemeinen für natürliches, organisches Wachstum oder Zunahme verwendet, oft in einem ökologischen oder wirtschaftlichen Kontext.</p>
+    <div class="examples">
+      <div class="fr">La population mondiale continue de croître.</div>
+      <div class="de spoiler">Die Weltbevölkerung wächst weiter.</div>
+      <div class="fr">Les plantes croissent mieux avec suffisamment de lumière.</div>
+      <div class="de spoiler">Pflanzen wachsen besser mit genügend Licht.</div>
+      <div class="fr">L'économie du pays a cru de 3% l'année dernière.</div>
+      <div class="de spoiler">Die Wirtschaft des Landes ist im letzten Jahr um 3% gewachsen.</div>
+    </div>
+  </div>

@@ -1,6 +1,5 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
-* Angestellter: [employé](cards/1485_employé.yml) (#1485), [salarié](cards/2119_salarié.yml) (#2119)
 * Beruf: [métier](cards/1582_métier.yml) (#1582), [profession](cards/2163_profession.yml) (#2163)
 * mein: [mon](cards/0060_mon.yml) (#60), [mien](cards/2165_mien.yml) (#2165)
 * erhöhen, steigern: [augmenter](cards/0823_augmenter.yml) (#823), [hausser](cards/2177_hausser.yml) (#2177)
