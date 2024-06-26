@@ -29,7 +29,7 @@ Im Ordner [cards](cards) befinden sich alle 5000 Karten im YAML-Format.
 4. Erstelle einen Pull Request
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40363 Beispielsätzen (durchschnittlich 8.1 pro Karte). 124 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40361 Beispielsätzen (durchschnittlich 8.1 pro Karte). 127 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -790,7 +790,7 @@ Insgesamt gibt es 5000 Karten mit 40363 Beispielsätzen (durchschnittlich 8.1 pr
 | 755 | peur | Angst, Furcht | 15 |  | [Bearbeiten](cards/0755_peur.yml) |
 | 756 | parlement | Parlament | 2 |  | [Bearbeiten](cards/0756_parlement.yml) |
 | 757 | fermer | schließen | 13 |  | [Bearbeiten](cards/0757_fermer.yml) |
-| 758 | forcer | zwingen, erzwingen | 10 |  | [Bearbeiten](cards/0758_forcer.yml) |
+| 758 | forcer | zwingen, erzwingen | 10 | X | [Bearbeiten](cards/0758_forcer.yml) |
 | 759 | lutte | Kampf | 13 |  | [Bearbeiten](cards/0759_lutte.yml) |
 | 760 | naturel | natürlich | 12 |  | [Bearbeiten](cards/0760_naturel.yml) |
 | 761 | air | Luft; Aussehen | 13 |  | [Bearbeiten](cards/0761_air.yml) |
@@ -2154,7 +2154,7 @@ Insgesamt gibt es 5000 Karten mit 40363 Beispielsätzen (durchschnittlich 8.1 pr
 | 2119 | salarié | Arbeitnehmer | 4 |  | [Bearbeiten](cards/2119_salarié.yml) |
 | 2120 | discipline | Disziplin | 5 |  | [Bearbeiten](cards/2120_discipline.yml) |
 | 2121 | explosion | Explosion | 10 |  | [Bearbeiten](cards/2121_explosion.yml) |
-| 2122 | peau | Haut | 12 |  | [Bearbeiten](cards/2122_peau.yml) |
+| 2122 | peau | Haut | 11 |  | [Bearbeiten](cards/2122_peau.yml) |
 | 2123 | commande | Bestellung, Befehl | 11 |  | [Bearbeiten](cards/2123_commande.yml) |
 | 2124 | orienter | ausrichten | 15 |  | [Bearbeiten](cards/2124_orienter.yml) |
 | 2125 | reproduire | nachmachen, wiedergeben | 3 |  | [Bearbeiten](cards/2125_reproduire.yml) |
@@ -2170,13 +2170,13 @@ Insgesamt gibt es 5000 Karten mit 40363 Beispielsätzen (durchschnittlich 8.1 pr
 | 2135 | rédiger | verfassen, schreiben | 3 |  | [Bearbeiten](cards/2135_rédiger.yml) |
 | 2136 | magnifique | wunderschön, großartig | 5 |  | [Bearbeiten](cards/2136_magnifique.yml) |
 | 2137 | initial | anfänglich, Ausgangs- | 5 |  | [Bearbeiten](cards/2137_initial.yml) |
-| 2138 | indice | Anzeichen, Spur | 9 |  | [Bearbeiten](cards/2138_indice.yml) |
+| 2138 | indice | Anzeichen, Spur | 8 |  | [Bearbeiten](cards/2138_indice.yml) |
 | 2139 | promotion | Beförderung | 3 |  | [Bearbeiten](cards/2139_promotion.yml) |
 | 2140 | branche | Zweig; Branche | 12 |  | [Bearbeiten](cards/2140_branche.yml) |
 | 2141 | section | Abschnitt, Abteilung | 10 |  | [Bearbeiten](cards/2141_section.yml) |
 | 2142 | chanson | Lied | 14 |  | [Bearbeiten](cards/2142_chanson.yml) |
-| 2143 | pair | gerade [Zahl]; Hand [in Hand] | 11 |  | [Bearbeiten](cards/2143_pair.yml) |
-| 2144 | contraindre | zwingen, nötigen | 5 |  | [Bearbeiten](cards/2144_contraindre.yml) |
+| 2143 | pair | gerade [Zahl]; Hand [in Hand] | 11 | X | [Bearbeiten](cards/2143_pair.yml) |
+| 2144 | contraindre | zwingen | 5 | X | [Bearbeiten](cards/2144_contraindre.yml) |
 | 2145 | trancher | entscheiden, schneiden | 7 |  | [Bearbeiten](cards/2145_trancher.yml) |
 | 2146 | réformiste | Reformer, Reformist | 2 |  | [Bearbeiten](cards/2146_réformiste.yml) |
 | 2147 | retarder | verzögern, aufhalten | 12 |  | [Bearbeiten](cards/2147_retarder.yml) |
