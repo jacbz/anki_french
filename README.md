@@ -260,7 +260,7 @@ Insgesamt gibt es 5000 Karten mit 40361 Beispielsätzen (durchschnittlich 8.1 pr
 | 225 | près | nahe | 15 |  | [Bearbeiten](cards/0225_près.yml) |
 | 226 | choisir | wählen, auswählen | 17 |  | [Bearbeiten](cards/0226_choisir.yml) |
 | 227 | national | national | 6 |  | [Bearbeiten](cards/0227_national.yml) |
-| 228 | projet | Projekt | 14 |  | [Bearbeiten](cards/0228_projet.yml) |
+| 228 | projet | Plan, Projekt | 14 |  | [Bearbeiten](cards/0228_projet.yml) |
 | 229 | ni | weder ... noch ... | 13 |  | [Bearbeiten](cards/0229_ni.yml) |
 | 230 | puis | dann | 4 |  | [Bearbeiten](cards/0230_puis.yml) |
 | 231 | toucher | berühren; betreffen | 12 |  | [Bearbeiten](cards/0231_toucher.yml) |
@@ -2157,10 +2157,10 @@ Insgesamt gibt es 5000 Karten mit 40361 Beispielsätzen (durchschnittlich 8.1 pr
 | 2122 | peau | Haut | 11 |  | [Bearbeiten](cards/2122_peau.yml) |
 | 2123 | commande | Bestellung, Befehl | 11 |  | [Bearbeiten](cards/2123_commande.yml) |
 | 2124 | orienter | ausrichten | 15 |  | [Bearbeiten](cards/2124_orienter.yml) |
-| 2125 | reproduire | nachmachen, wiedergeben | 3 |  | [Bearbeiten](cards/2125_reproduire.yml) |
+| 2125 | reproduire | nachmachen, abbilden | 3 |  | [Bearbeiten](cards/2125_reproduire.yml) |
 | 2126 | paragraphe | Absatz | 4 |  | [Bearbeiten](cards/2126_paragraphe.yml) |
 | 2127 | radical | radikal, fundamental | 8 |  | [Bearbeiten](cards/2127_radical.yml) |
-| 2128 | transférer | verlegen | 8 |  | [Bearbeiten](cards/2128_transférer.yml) |
+| 2128 | transférer | verlegen, versetzen | 8 |  | [Bearbeiten](cards/2128_transférer.yml) |
 | 2129 | diffusion | Verbreitung, Ausstrahlung | 7 |  | [Bearbeiten](cards/2129_diffusion.yml) |
 | 2130 | spécialement | speziell, insbesondere | 4 |  | [Bearbeiten](cards/2130_spécialement.yml) |
 | 2131 | croître | wachsen, zunehmen | 2 | X | [Bearbeiten](cards/2131_croître.yml) |
@@ -2177,15 +2177,15 @@ Insgesamt gibt es 5000 Karten mit 40361 Beispielsätzen (durchschnittlich 8.1 pr
 | 2142 | chanson | Lied | 14 |  | [Bearbeiten](cards/2142_chanson.yml) |
 | 2143 | pair | gerade [Zahl]; Hand [in Hand] | 11 | X | [Bearbeiten](cards/2143_pair.yml) |
 | 2144 | contraindre | zwingen | 5 | X | [Bearbeiten](cards/2144_contraindre.yml) |
-| 2145 | trancher | entscheiden, schneiden | 7 |  | [Bearbeiten](cards/2145_trancher.yml) |
-| 2146 | réformiste | Reformer, Reformist | 2 |  | [Bearbeiten](cards/2146_réformiste.yml) |
-| 2147 | retarder | verzögern, aufhalten | 12 |  | [Bearbeiten](cards/2147_retarder.yml) |
-| 2148 | réjouir | erfreuen | 7 |  | [Bearbeiten](cards/2148_réjouir.yml) |
+| 2145 | trancher | (durch-)schneiden; entscheiden | 7 |  | [Bearbeiten](cards/2145_trancher.yml) |
+| 2146 | réformiste | Reformist | 2 |  | [Bearbeiten](cards/2146_réformiste.yml) |
+| 2147 | retarder | aufhalten, verzögern | 12 |  | [Bearbeiten](cards/2147_retarder.yml) |
+| 2148 | réjouir | (er-)freuen | 7 |  | [Bearbeiten](cards/2148_réjouir.yml) |
 | 2149 | punir | bestrafen | 8 |  | [Bearbeiten](cards/2149_punir.yml) |
-| 2150 | repartir | verteilen, aufteilen, losfahren | 4 |  | [Bearbeiten](cards/2150_repartir.yml) |
+| 2150 | repartir | wieder gehen; zuteilen | 4 |  | [Bearbeiten](cards/2150_repartir.yml) |
 | 2151 | cellule | Zelle | 12 |  | [Bearbeiten](cards/2151_cellule.yml) |
 | 2152 | déclencher | auslösen | 2 |  | [Bearbeiten](cards/2152_déclencher.yml) |
-| 2153 | uni | einheitlich, vereint | 5 |  | [Bearbeiten](cards/2153_uni.yml) |
+| 2153 | uni | vereint | 5 |  | [Bearbeiten](cards/2153_uni.yml) |
 | 2154 | connexion | Verbindung | 6 |  | [Bearbeiten](cards/2154_connexion.yml) |
 | 2155 | écouler | verkaufen, absetzen | 6 |  | [Bearbeiten](cards/2155_écouler.yml) |
 | 2156 | option | Option | 5 |  | [Bearbeiten](cards/2156_option.yml) |
@@ -4219,7 +4219,7 @@ Insgesamt gibt es 5000 Karten mit 40361 Beispielsätzen (durchschnittlich 8.1 pr
 | 4184 | massacrer | abschlachten, massakrieren | 3 |  | [Bearbeiten](cards/4184_massacrer.yml) |
 | 4185 | réciproque | gegenseitig | 7 |  | [Bearbeiten](cards/4185_réciproque.yml) |
 | 4186 | état-major | Stab | 4 |  | [Bearbeiten](cards/4186_état-major.yml) |
-| 4187 | attarder | verzögern, aufhalten | 4 |  | [Bearbeiten](cards/4187_attarder.yml) |
+| 4187 | attarder | aufhalten, verweilen | 4 |  | [Bearbeiten](cards/4187_attarder.yml) |
 | 4188 | englober | umfassen, einschließen | 2 |  | [Bearbeiten](cards/4188_englober.yml) |
 | 4189 | grossir | dicker werden, zunehmen | 8 |  | [Bearbeiten](cards/4189_grossir.yml) |
 | 4190 | séparatiste | Separatist | 2 |  | [Bearbeiten](cards/4190_séparatiste.yml) |

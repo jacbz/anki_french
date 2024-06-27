@@ -80,7 +80,6 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * Brust: [sein](cards/0563_sein.yml) (#563), [poitrine](cards/4168_poitrine.yml) (#4168)
 * wettbewerbsfähig: [compétitif](cards/4173_compétitif.yml) (#4173), [concurrentiel](cards/4179_concurrentiel.yml) (#4179)
 * gegenseitig: [mutuel](cards/2642_mutuel.yml) (#2642), [réciproque](cards/4185_réciproque.yml) (#4185)
-* verzögern, aufhalten: [retarder](cards/2147_retarder.yml) (#2147), [attarder](cards/4187_attarder.yml) (#4187)
 * bestätigen: [confirmer](cards/1014_confirmer.yml) (#1014), [ratifier](cards/4198_ratifier.yml) (#4198)
 * Alarm: [alerte](cards/3599_alerte.yml) (#3599), [alarme](cards/4204_alarme.yml) (#4204)
 * leicht, mühelos: [facilement](cards/1194_facilement.yml) (#1194), [aisé](cards/4214_aisé.yml) (#4214)
