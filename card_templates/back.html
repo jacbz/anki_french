@@ -175,16 +175,17 @@
       return text;
     }
     var text = text.replace(/([^<>\s])'/g, "$1’"); // convert apostrophes
+    text = text.replaceAll("...", "…"); // convert ellipsis
     if (isFrench) {
       // insert thin non-breaking space before punctuation (but not inside HTML tags)
       text = text.replace(/(?!.*<[^>]+>)(\s?)([?|:|!|;])/g, "\u202F$2");
       // Replace with French quote marks « ... »
       text = text.replace(/(?!.*<[^>]+>)"([^"]*)"/g, "«\u202F$1\u202F»");
 
-      if (text[0] === '-') {
-        text = text.replace('-', "–");
+      if (text[0] === "-") {
+        text = text.replaceAll("-", "–");
       }
-      text = text.replace('<br>-', '<br>–');
+      text = text.replaceAll("<br>-", "<br>–");
     } else {
       // format dialogue
       if (text.includes("<br>-") || text.includes("<br>–")) {
@@ -262,6 +263,10 @@
       };
     });
 
+    initAudioButtons();
+  };
+
+  function initAudioButtons() {
     document.querySelectorAll(".play-sentence").forEach(function (el) {
       el.onclick = function (event) {
         event.stopPropagation();
@@ -273,7 +278,7 @@
         audioCurrent.play();
       };
     });
-  };
+  }
 
   refreshSentences();
   var nextSentenceButton = document.getElementById("next_sentence");
@@ -341,31 +346,6 @@
         enableSectionToggle();
         refreshSentences();
 
-        // add button to toggle reflexive
-        if (!isReflexive) {
-          document
-            .querySelectorAll(".section-conjugation-table")
-            .forEach(function (el) {
-              el.innerHTML += `
-                <tfoot>
-                <tr>
-                <td colspan="6" style="text-align: center;">
-                  <div class="button reflexive-button">
-                  Reflexiv
-                  </div>
-                </td>
-                </tr>
-                </tfoot>
-              `;
-              var reflexiveButton = el.querySelector(".reflexive-button");
-              reflexiveButton.onclick = () => {
-                isReflexive = !isReflexive;
-                conjugationGrammar.dataset.reflexive = isReflexive;
-                conjugationGrammar.dataset.aux = isReflexive ? "etre" : aux;
-              };
-            });
-        }
-
         // fill in conjugation table
         document
           .querySelectorAll("#conjugation-table tr")
@@ -374,12 +354,13 @@
               (td) => td.dataset.full
             );
             var tense = el.dataset.tense;
-            formatConjugationTable(tenseValues, tense);
+            fillInConjugationTable(tenseValues, tense);
           });
-        formatConjugationTable([word], "INFINITIVE");
+        fillInConjugationTable([word], "INFINITIVE");
+        formatConjugationTables(conjugationGrammar);
       });
 
-    function formatConjugationTable(tenseValues, tense) {
+    function fillInConjugationTable(tenseValues, tense) {
       if (tenseValues.length > 0) {
         document
           .querySelectorAll(`.section *[data-tense="${tense}"]`)
@@ -395,6 +376,47 @@
             }
           });
       }
+    }
+
+    function formatConjugationTables(conjugationGrammar) {
+      document
+        .querySelectorAll(".section-conjugation-table")
+        .forEach(function (el) {
+          var audioSentence = [...el.querySelectorAll("tr")]
+            .map((tr) => getVisibleText(tr))
+            .filter((text) => text.length > 0)
+            .join(", ")
+            .replaceAll("’ ", "’");
+          console.log(audioSentence);
+
+          if (el.parentElement.classList.contains('section-conjugation-table-wrapper')) {
+            el.parentElement.querySelector('.play-sentence').outerHTML = audioButton(audioSentence);
+          } else {
+            const wrapper = document.createElement("div");
+            wrapper.className = "section-conjugation-table-wrapper";
+            wrapper.innerHTML = `
+              <div class="section-conjugation-table-wrapper">
+                ${audioButton(audioSentence)}
+                ${el.outerHTML}
+                <div class="button svg-button small reflexive-button">
+                   <svg version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 122.88 88.15" style="enable-background:new 0 0 122.88 88.15" xml:space="preserve"><g><path d="M0,33.54l37.45,37.02H0.27v17.59h118.09V70.56H57.24l52.56-48.14v18.73c0,3.62,2.92,6.54,6.54,6.54s6.54-2.92,6.54-6.54 V6.52h-0.02c0-1.69-0.65-3.37-1.94-4.65c-1.37-1.35-3.2-1.97-4.99-1.86H83.54C79.92,0.01,77,2.94,77,6.55s2.92,6.54,6.54,6.54 h17.13L47.05,61.79L0.25,15.77L0,33.54L0,33.54z"/></g></svg>
+                </div>
+              </div>
+            `;
+            el.parentNode.replaceChild(wrapper, el);
+            var reflexiveButton = wrapper.querySelector(".reflexive-button");
+            if (isReflexive) {
+              reflexiveButton.style.display = "none";
+            }
+            reflexiveButton.onclick = () => {
+              isReflexive = !isReflexive;
+              conjugationGrammar.dataset.reflexive = isReflexive;
+              conjugationGrammar.dataset.aux = isReflexive ? "etre" : aux;
+              formatConjugationTables(conjugationGrammar);
+            };
+          }
+        });
+      initAudioButtons();
     }
 
     var conjugationTable = document.getElementById("conjugation-table");
@@ -468,11 +490,53 @@
     github.remove();
   }
 
+  /**
+   * Helper functions
+   */
   function getAnkiPrefix() {
     return globalThis.ankiPlatform === "desktop"
       ? ""
       : globalThis.AnkiDroidJS
       ? "https://appassets.androidplatform.net"
       : ".";
+  }
+
+  function getVisibleText(htmlElement) {
+    var isVisible = (element) => {
+      var style = window.getComputedStyle(element);
+      return (
+        style.display !== "none" &&
+        style.visibility !== "hidden" &&
+        style.opacity !== "0"
+      );
+    };
+    var getPseudoElementContent = (element, pseudo) => {
+      var style = window.getComputedStyle(element, pseudo);
+      var content = style.content.replace(/^["']|["']$/g, "");
+      return content !== "none" ? content : "";
+    };
+    let visibleText = "";
+    var processNode = (node) => {
+      if (node.nodeType === Node.TEXT_NODE) {
+        if (isVisible(node.parentElement)) {
+          var text = node.textContent.trim();
+          if (text.length > 0) {
+            visibleText += text + " ";
+          }
+        }
+      } else if (node.nodeType === Node.ELEMENT_NODE) {
+        if (isVisible(node)) {
+          var beforeContent = getPseudoElementContent(node, ":before");
+          if (beforeContent) visibleText = visibleText.trim() + beforeContent
+          for (var childNode of node.childNodes) {
+            processNode(childNode);
+          }
+          var afterContent = getPseudoElementContent(node, ":after");
+          if (afterContent) visibleText = visibleText.trim() + afterContent;
+        }
+      }
+    };
+    processNode(htmlElement);
+    return visibleText.trim();
   }
 </script>

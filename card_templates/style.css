@@ -37,9 +37,9 @@
 }
 
 /**
-    Buttons
-    -----------------------------------------------
-  **/
+      Buttons
+      -----------------------------------------------
+    **/
 
 .button {
   border-radius: 0.5em;
@@ -75,7 +75,7 @@
 
 /** increase the clickable area of the button **/
 .svg-button::before {
-  content: '';
+  content: "";
   position: absolute;
   height: 150%;
   width: 150%;
@@ -121,9 +121,9 @@
 }
 
 /**
-    Card items
-    -----------------------------------------------
-  **/
+      Card items
+      -----------------------------------------------
+    **/
 .card {
   font-family: "NittiGrotesk";
   font-size: 38px;
@@ -346,9 +346,9 @@ span.spoiler {
 }
 
 /**
-    Box
-    -----------------------------------------------
-  **/
+      Box
+      -----------------------------------------------
+    **/
 .box {
   margin-top: 1.5em;
   position: relative;
@@ -359,7 +359,7 @@ span.spoiler {
   text-align: left;
 }
 
-.note > *:not(.section-title) + *:not(.section-title) {
+.note>*:not(.section-title)+*:not(.section-title) {
   margin-top: 0.5em;
 }
 
@@ -397,8 +397,8 @@ span.spoiler {
   list-style-type: square;
 }
 
-.box li:not(:first-child) { 
-  margin-top: 0.75em;  
+.box li:not(:first-child) {
+  margin-top: 0.75em;
 }
 
 .box .examples {
@@ -476,56 +476,76 @@ span.spoiler {
   content: "\2212";
 }
 
+.section-conjugation-table-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.4em;
+}
+
 .section-conjugation-table {
-  margin-left: auto;
-  margin-right: auto;
   background: #eee;
   padding: 0.25em 0.75em;
   border-radius: 0.5em;
 }
+
 .night_mode .section-conjugation-table {
   background: #444;
 }
+
 .section-conjugation-table td:not(:last-child) {
   text-align: right;
 }
+
 .section-conjugation-table td:last-child {
   font-weight: bold;
 }
+
 #conjugation-grammar .section-conjugation-table td::before {
   content: attr(data-prefix);
 }
+
 #conjugation-grammar[data-aux="etre"] .section-conjugation-table tbody td[data-plural="true"]::after {
-  content: 's';
+  content: "s";
 }
+
 #conjugation-grammar[data-reflexive="true"] .section-conjugation-table tbody td::after {
   content: attr(data-reflexive-suffix);
 }
+
 #conjugation-grammar[data-reflexive="true"] .section-conjugation-table tbody td::before {
   content: attr(data-reflexive-prefix);
 }
+
 #conjugation-grammar[data-reflexive="true"] .section-conjugation-table tbody tr.elision td::before {
   content: attr(data-reflexive-prefix-elision);
 }
+
 #conjugation-grammar[data-only-third-person="true"] .section-conjugation-table tbody tr:not(:nth-child(3)):not(:only-of-type) {
   display: none;
 }
+
 #conjugation-grammar[data-aux="avoir"] .section-conjugation-table tbody tr span.etre {
   display: none;
 }
+
 #conjugation-grammar[data-aux="etre"] .section-conjugation-table tbody tr span.avoir {
   display: none;
 }
-#conjugation-grammar[data-reflexive="true"] .section-conjugation-table tbody td:not(:last-child) > span:not(.reflexive) {
+
+#conjugation-grammar[data-reflexive="true"] .section-conjugation-table tbody td:not(:last-child)>span:not(.reflexive) {
   display: none;
 }
-#conjugation-grammar[data-reflexive="false"] .section-conjugation-table tbody td:not(:last-child) > span.reflexive {
+
+#conjugation-grammar[data-reflexive="false"] .section-conjugation-table tbody td:not(:last-child)>span.reflexive {
   display: none;
 }
-#conjugation-grammar .section-conjugation-table tbody tr.elision td:not(:last-child) > span.full {
+
+#conjugation-grammar .section-conjugation-table tbody tr.elision td:not(:last-child)>span.full {
   display: none;
 }
-#conjugation-grammar .section-conjugation-table tbody tr:not(.elision) td:not(:last-child) > span.elision {
+
+#conjugation-grammar .section-conjugation-table tbody tr:not(.elision) td:not(:last-child)>span.elision {
   display: none;
 }
 
@@ -582,9 +602,9 @@ span.spoiler {
 }
 
 /**
-    Conjugations
-    -----------------------------------------------
-  **/
+      Conjugations
+      -----------------------------------------------
+    **/
 #verb-classification {
   font-style: italic;
 }
@@ -656,6 +676,14 @@ tr.regular_tense.show {
 .night_mode .irregular {
   color: white;
   background: #444;
+}
+
+td.irregular b {
+  color: hsl(210, 100%, 22%);
+}
+
+.night_mode td.irregular b {
+  color: hsl(233, 100%, 92%);
 }
 
 .regular {
