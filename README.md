@@ -29,11 +29,11 @@ Im Ordner [cards](cards) befinden sich alle 5000 Karten im YAML-Format.
 4. Erstelle einen Pull Request
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40361 Beispielsätzen (durchschnittlich 8.1 pro Karte). 127 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40359 Beispielsätzen (durchschnittlich 8.1 pro Karte). 127 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
-| 1 | le, la | [bestimmter Artikel], ihn/sie/es | 11 | X | [Bearbeiten](cards/0001_le.yml) |
+| 1 | le | [bestimmter Artikel], ihn/sie/es | 11 | X | [Bearbeiten](cards/0001_le.yml) |
 | 2 | de | von, aus, [Teilungsartikel] | 4 | X | [Bearbeiten](cards/0002_de.yml) |
 | 3 | un | eins; ein(-e) | 12 | X | [Bearbeiten](cards/0003_un.yml) |
 | 4 | à | nach, in [örtlich], um [zeitlich] | 46 | X | [Bearbeiten](cards/0004_à.yml) |
@@ -539,7 +539,7 @@ Insgesamt gibt es 5000 Karten mit 40361 Beispielsätzen (durchschnittlich 8.1 pr
 | 504 | oublier | vergessen | 13 |  | [Bearbeiten](cards/0504_oublier.yml) |
 | 505 | propos | Äußerung | 17 |  | [Bearbeiten](cards/0505_propos.yml) |
 | 506 | troisième | dritte(-r/s) | 5 | X | [Bearbeiten](cards/0506_troisième.yml) |
-| 507 | quitter | verlassen, aufgeben | 12 |  | [Bearbeiten](cards/0507_quitter.yml) |
+| 507 | quitter | verlassen | 12 |  | [Bearbeiten](cards/0507_quitter.yml) |
 | 508 | bout | Ende, Spitze | 15 |  | [Bearbeiten](cards/0508_bout.yml) |
 | 509 | population | Bevölkerung | 9 |  | [Bearbeiten](cards/0509_population.yml) |
 | 510 | toi | du, dir | 11 | X | [Bearbeiten](cards/0510_toi.yml) |
@@ -1999,7 +1999,7 @@ Insgesamt gibt es 5000 Karten mit 40361 Beispielsätzen (durchschnittlich 8.1 pr
 | 1964 | inventer | erfinden | 4 |  | [Bearbeiten](cards/1964_inventer.yml) |
 | 1965 | principalement | hauptsächlich, vorwiegend | 2 |  | [Bearbeiten](cards/1965_principalement.yml) |
 | 1966 | prudence | Vorsicht, Umsicht | 6 |  | [Bearbeiten](cards/1966_prudence.yml) |
-| 1967 | stade | Stadion, Stadium | 5 |  | [Bearbeiten](cards/1967_stade.yml) |
+| 1967 | stade | Stadium, Stadion | 5 |  | [Bearbeiten](cards/1967_stade.yml) |
 | 1968 | liaison | Verbindung, Verknüpfung | 12 |  | [Bearbeiten](cards/1968_liaison.yml) |
 | 1969 | consultation | Beratung, Sprechstunde | 12 |  | [Bearbeiten](cards/1969_consultation.yml) |
 | 1970 | québécois | Quebecer | 2 |  | [Bearbeiten](cards/1970_québécois.yml) |
@@ -2078,7 +2078,7 @@ Insgesamt gibt es 5000 Karten mit 40361 Beispielsätzen (durchschnittlich 8.1 pr
 | 2043 | anniversaire | Geburtstag, Jubiläum | 16 |  | [Bearbeiten](cards/2043_anniversaire.yml) |
 | 2044 | issu | hervorgegangen, stammend | 7 |  | [Bearbeiten](cards/2044_issu.yml) |
 | 2045 | poursuite | Verfolgung | 12 |  | [Bearbeiten](cards/2045_poursuite.yml) |
-| 2046 | nôtre | Unsere | 10 |  | [Bearbeiten](cards/2046_nôtre.yml) |
+| 2046 | nôtre | Unsere | 9 |  | [Bearbeiten](cards/2046_nôtre.yml) |
 | 2047 | éclairer | beleuchten, aufklären | 12 |  | [Bearbeiten](cards/2047_éclairer.yml) |
 | 2048 | consommer | verbrauchen, verzehren | 6 |  | [Bearbeiten](cards/2048_consommer.yml) |
 | 2049 | infirmier | Krankenpfleger | 9 |  | [Bearbeiten](cards/2049_infirmier.yml) |
@@ -2088,7 +2088,7 @@ Insgesamt gibt es 5000 Karten mit 40361 Beispielsätzen (durchschnittlich 8.1 pr
 | 2053 | fuite | Flucht, Leck | 12 |  | [Bearbeiten](cards/2053_fuite.yml) |
 | 2054 | conviction | Überzeugung | 10 |  | [Bearbeiten](cards/2054_conviction.yml) |
 | 2055 | nettement | deutlich, klar | 4 |  | [Bearbeiten](cards/2055_nettement.yml) |
-| 2056 | détenir | besitzen, festnehmen | 5 |  | [Bearbeiten](cards/2056_détenir.yml) |
+| 2056 | détenir | besitzen, festnehmen | 4 |  | [Bearbeiten](cards/2056_détenir.yml) |
 | 2057 | évaluation | Bewertung, Beurteilung | 12 |  | [Bearbeiten](cards/2057_évaluation.yml) |
 | 2058 | installation | Anlage, Einrichtung | 13 |  | [Bearbeiten](cards/2058_installation.yml) |
 | 2059 | innocent | unschuldig | 10 |  | [Bearbeiten](cards/2059_innocent.yml) |
@@ -2187,21 +2187,21 @@ Insgesamt gibt es 5000 Karten mit 40361 Beispielsätzen (durchschnittlich 8.1 pr
 | 2152 | déclencher | auslösen | 2 |  | [Bearbeiten](cards/2152_déclencher.yml) |
 | 2153 | uni | vereint | 5 |  | [Bearbeiten](cards/2153_uni.yml) |
 | 2154 | connexion | Verbindung | 6 |  | [Bearbeiten](cards/2154_connexion.yml) |
-| 2155 | écouler | verkaufen, absetzen | 6 |  | [Bearbeiten](cards/2155_écouler.yml) |
+| 2155 | écouler | absetzen, fließen | 6 |  | [Bearbeiten](cards/2155_écouler.yml) |
 | 2156 | option | Option | 5 |  | [Bearbeiten](cards/2156_option.yml) |
-| 2157 | pétrole | Erdöl | 5 |  | [Bearbeiten](cards/2157_pétrole.yml) |
+| 2157 | pétrole | (Erd-)öl | 5 |  | [Bearbeiten](cards/2157_pétrole.yml) |
 | 2158 | laboratoire | Labor | 11 |  | [Bearbeiten](cards/2158_laboratoire.yml) |
 | 2159 | étrange | seltsam, eigenartig | 5 |  | [Bearbeiten](cards/2159_étrange.yml) |
 | 2160 | coucher | schlafen, ins Bett gehen | 17 |  | [Bearbeiten](cards/2160_coucher.yml) |
-| 2161 | département | Departement | 5 |  | [Bearbeiten](cards/2161_département.yml) |
+| 2161 | département | Departement, Abteilung | 5 |  | [Bearbeiten](cards/2161_département.yml) |
 | 2162 | génie | Genie | 14 |  | [Bearbeiten](cards/2162_génie.yml) |
 | 2163 | profession | Beruf | 9 |  | [Bearbeiten](cards/2163_profession.yml) |
 | 2164 | rumeur | Gerücht | 7 |  | [Bearbeiten](cards/2164_rumeur.yml) |
-| 2165 | mien | mein | 8 |  | [Bearbeiten](cards/2165_mien.yml) |
+| 2165 | mien | mein(-e/r/s) | 8 |  | [Bearbeiten](cards/2165_mien.yml) |
 | 2166 | drôle | lustig [noch Nomen]; seltsam [vor Nomen] | 15 |  | [Bearbeiten](cards/2166_drôle.yml) |
 | 2167 | plat | Gericht; flach | 13 |  | [Bearbeiten](cards/2167_plat.yml) |
 | 2168 | maman | Mama | 5 |  | [Bearbeiten](cards/2168_maman.yml) |
-| 2169 | incertitude | Unsicherheit, Ungewissheit | 3 |  | [Bearbeiten](cards/2169_incertitude.yml) |
+| 2169 | incertitude | Ungewissheit | 3 |  | [Bearbeiten](cards/2169_incertitude.yml) |
 | 2170 | célébrer | feiern, zelebrieren | 3 |  | [Bearbeiten](cards/2170_célébrer.yml) |
 | 2171 | dignité | Würde | 7 |  | [Bearbeiten](cards/2171_dignité.yml) |
 | 2172 | légitime | berechtigt, rechtmäßig | 2 |  | [Bearbeiten](cards/2172_légitime.yml) |
