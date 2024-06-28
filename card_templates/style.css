@@ -387,6 +387,15 @@ span.spoiler {
   font-size: 50%;
 }
 
+#single_sentence {
+  margin-top: 2em;
+  font-size: 40%;
+}
+
+#single_sentence .fr {
+  font-weight: normal;
+}
+
 .box p {
   margin: 0;
 }
@@ -405,7 +414,7 @@ span.spoiler {
   padding-left: 1em;
 }
 
-.box .examples u {
+.fr u, .de u {
   text-decoration: none;
   color: hsl(192, 70%, 50%);
 }
@@ -683,7 +692,7 @@ td.irregular b {
 }
 
 .night_mode td.irregular b {
-  color: hsl(233, 100%, 92%);
+  color: hsl(233, 100%, 85%);
 }
 
 .regular {
