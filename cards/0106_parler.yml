@@ -70,9 +70,11 @@ Beispielsätze: |-
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>                
 Notiz: |-
-  <div class="section-title"><i>dire</i> und <i>parler</i></div>
-  <div class="section">
-    <p><span class="fr">Dire</span> (#37) (<span class="de">sagen</span>) wird mit direktem Objekt (<span class="fr">dire quelque chose</span>) verwendet.</p>
-    <p><span class="fr">Parler</span> (<span class="de">sprechen</span>) kann nicht mit direktem Objekt verwendet werden (<span class="fr">parler quelque chose</span>).</p>
-    <p class="tip">Einzige Ausnahme: Will man ausdrücken, dass jemand eine Sprache spricht, wird <span class="fr">parler</span> + Sprache als direktes Objekt verwendet.</p>
+  <div class="section-wrapper">
+    <div class="section-title"><i>dire</i> und <i>parler</i></div>
+    <div class="section">
+      <p><span class="fr">Dire</span> (#37) (<span class="de">sagen</span>) wird mit direktem Objekt (<span class="fr">dire quelque chose</span>) verwendet.</p>
+      <p><span class="fr">Parler</span> (<span class="de">sprechen</span>) kann nicht mit direktem Objekt verwendet werden (<span class="fr">parler quelque chose</span>).</p>
+      <p class="tip">Einzige Ausnahme: Will man ausdrücken, dass jemand eine Sprache spricht, wird <span class="fr">parler</span> + Sprache als direktes Objekt verwendet.</p>
+    </div>
   </div>

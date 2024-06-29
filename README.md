@@ -2204,20 +2204,20 @@ Insgesamt gibt es 5000 Karten mit 40359 Beispielsätzen (durchschnittlich 8.1 pr
 | 2169 | incertitude | Ungewissheit | 3 |  | [Bearbeiten](cards/2169_incertitude.yml) |
 | 2170 | célébrer | feiern, zelebrieren | 3 |  | [Bearbeiten](cards/2170_célébrer.yml) |
 | 2171 | dignité | Würde | 7 |  | [Bearbeiten](cards/2171_dignité.yml) |
-| 2172 | légitime | berechtigt, rechtmäßig | 2 |  | [Bearbeiten](cards/2172_légitime.yml) |
+| 2172 | légitime | berechtigt | 2 |  | [Bearbeiten](cards/2172_légitime.yml) |
 | 2173 | philosophie | Philosophie | 7 |  | [Bearbeiten](cards/2173_philosophie.yml) |
 | 2174 | verre | Glas | 12 |  | [Bearbeiten](cards/2174_verre.yml) |
-| 2175 | spécifique | spezifisch, eigen | 5 |  | [Bearbeiten](cards/2175_spécifique.yml) |
+| 2175 | spécifique | spezifisch | 5 |  | [Bearbeiten](cards/2175_spécifique.yml) |
 | 2176 | docteur | Doktor | 5 |  | [Bearbeiten](cards/2176_docteur.yml) |
 | 2177 | hausser | erhöhen, steigern | 8 | X | [Bearbeiten](cards/2177_hausser.yml) |
-| 2178 | fréquence | Häufigkeit, Frequenz | 12 |  | [Bearbeiten](cards/2178_fréquence.yml) |
+| 2178 | fréquence | Häufigkeit | 12 |  | [Bearbeiten](cards/2178_fréquence.yml) |
 | 2179 | urgent | dringend | 7 |  | [Bearbeiten](cards/2179_urgent.yml) |
 | 2180 | trou | Loch | 12 |  | [Bearbeiten](cards/2180_trou.yml) |
 | 2181 | stratégique | strategisch | 2 |  | [Bearbeiten](cards/2181_stratégique.yml) |
-| 2182 | mental | mental, geistig | 6 |  | [Bearbeiten](cards/2182_mental.yml) |
+| 2182 | mental | geistig | 6 |  | [Bearbeiten](cards/2182_mental.yml) |
 | 2183 | éditeur | Verleger | 5 |  | [Bearbeiten](cards/2183_éditeur.yml) |
 | 2184 | provincial | provinziell | 4 |  | [Bearbeiten](cards/2184_provincial.yml) |
-| 2185 | casser | brechen, kaputt machen | 16 |  | [Bearbeiten](cards/2185_casser.yml) |
+| 2185 | casser | kaputtmachen | 16 |  | [Bearbeiten](cards/2185_casser.yml) |
 | 2186 | probable | wahrscheinlich | 5 |  | [Bearbeiten](cards/2186_probable.yml) |
 | 2187 | signature | Unterschrift | 9 |  | [Bearbeiten](cards/2187_signature.yml) |
 | 2188 | forcément | zwangsläufig, unvermeidlich | 4 |  | [Bearbeiten](cards/2188_forcément.yml) |

@@ -34,24 +34,26 @@ Beispielsätze: |-
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>                
 Notiz: |-
-  <div class="section-title"><i>étonner</i> und <i>surprendre</i></div>
-  <div class="section">
-    <p><b>Étonner</b> bezieht sich darauf, Erstaunen oder Verwunderung auszulösen. Es deutet oft an, dass etwas unerwartet ist, aber nicht unbedingt schockierend.</p>
-    <div class="examples">
-      <div class="fr">Le spectacle de magie a étonné les enfants.</div>
-      <div class="de spoiler">Die Zauberschau hat die Kinder erstaunt.</div>
-      <div class="fr">Il m'étonne toujours avec ses talents cachés.</div>
-      <div class="de spoiler">Er erstaunt mich immer wieder mit seinen verborgenen Talenten.</div>
-      <div class="fr">Cette nouvelle a étonné tout le monde au bureau.</div>
-      <div class="de spoiler">Diese Neuigkeit hat alle im Büro erstaunt.</div>
-    </div>
-    <p><b>Surprendre</b> (#1053) impliziert, überrascht oder überrumpelt zu werden. Es beinhaltet manchmal eine Konnotation der Einmischung in die Privatsphäre oder einer zufälligen Entdeckung.</p>
-    <div class="examples">
-      <div class="fr">J'ai surpris les enfants en train de fouiller dans la cuisine.</div>
-      <div class="de spoiler">Ich habe die Kinder erwischt, als sie in der Küche herumwühlten.</div>
-      <div class="fr">Sa décision soudaine de déménager nous a tous surpris.</div>
-      <div class="de spoiler">Seine plötzliche Entscheidung umzuziehen, hat uns alle überrascht.</div>
-      <div class="fr">Je l'ai surpris en train de me préparer une fête d'anniversaire secrète.</div>
-      <div class="de spoiler">Ich habe ihn dabei erwischt, wie er heimlich eine Geburtstagsfeier für mich vorbereitete.</div>
+  <div class="section-wrapper">
+    <div class="section-title"><i>étonner</i> und <i>surprendre</i></div>
+    <div class="section">
+      <p><b>Étonner</b> bezieht sich darauf, Erstaunen oder Verwunderung auszulösen. Es deutet oft an, dass etwas unerwartet ist, aber nicht unbedingt schockierend.</p>
+      <div class="examples">
+        <div class="fr">Le spectacle de magie a étonné les enfants.</div>
+        <div class="de spoiler">Die Zauberschau hat die Kinder erstaunt.</div>
+        <div class="fr">Il m'étonne toujours avec ses talents cachés.</div>
+        <div class="de spoiler">Er erstaunt mich immer wieder mit seinen verborgenen Talenten.</div>
+        <div class="fr">Cette nouvelle a étonné tout le monde au bureau.</div>
+        <div class="de spoiler">Diese Neuigkeit hat alle im Büro erstaunt.</div>
+      </div>
+      <p><b>Surprendre</b> (#1053) impliziert, überrascht oder überrumpelt zu werden. Es beinhaltet manchmal eine Konnotation der Einmischung in die Privatsphäre oder einer zufälligen Entdeckung.</p>
+      <div class="examples">
+        <div class="fr">J'ai surpris les enfants en train de fouiller dans la cuisine.</div>
+        <div class="de spoiler">Ich habe die Kinder erwischt, als sie in der Küche herumwühlten.</div>
+        <div class="fr">Sa décision soudaine de déménager nous a tous surpris.</div>
+        <div class="de spoiler">Seine plötzliche Entscheidung umzuziehen, hat uns alle überrascht.</div>
+        <div class="fr">Je l'ai surpris en train de me préparer une fête d'anniversaire secrète.</div>
+        <div class="de spoiler">Ich habe ihn dabei erwischt, wie er heimlich eine Geburtstagsfeier für mich vorbereitete.</div>
+      </div>
     </div>
   </div>

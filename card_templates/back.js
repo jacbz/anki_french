@@ -100,7 +100,7 @@ var audioButton = function (text) {
   </div>`;
 };
 
-var refreshSentences = function () {
+function refreshExampleSentences() {
   var fr = sentencesPairs[currentSentence].split("\n")[0];
   var de = sentencesPairs[currentSentence].split("\n")[1];
   sentencesInner.innerHTML = frenchFirst
@@ -109,8 +109,11 @@ var refreshSentences = function () {
   sentenceCounter.textContent = `${currentSentence + 1}/${
     sentencesPairs.length
   }`;
+  formatSentences(document.querySelector("#sentences"));
+}
 
-  document
+function formatSentences(within = document) {
+  within
     .querySelectorAll(".fr:not(:has(.sentence-with-audio))")
     .forEach(function (el) {
       var text = beautifyText(el.innerHTML, true);
@@ -130,21 +133,21 @@ var refreshSentences = function () {
       }
     });
 
-  document.querySelectorAll(".de").forEach(function (el) {
+  within.querySelectorAll(".de").forEach(function (el) {
     el.innerHTML = beautifyText(el.innerHTML, false);
   });
 
-  document.querySelectorAll(".spoiler").forEach(function (el) {
+  within.querySelectorAll(".spoiler").forEach(function (el) {
     el.onclick = function () {
       this.classList.toggle("clicked");
     };
   });
 
-  initAudioButtons();
-};
+  initAudioButtons(within);
+}
 
-function initAudioButtons() {
-  document.querySelectorAll(".play-sentence").forEach(function (el) {
+function initAudioButtons(within = document) {
+  within.querySelectorAll(".play-sentence").forEach(function (el) {
     el.onclick = function (event) {
       event.stopPropagation();
       var text = this.dataset.text;
@@ -157,14 +160,15 @@ function initAudioButtons() {
   });
 }
 
-refreshSentences();
+refreshExampleSentences();
+formatSentences();
 var nextSentenceButton = document.getElementById("next_sentence");
-nextSentenceButton.addEventListener("click", nextSentenceHandler);
-sentencesInner.addEventListener("dblclick", nextSentenceHandler);
+nextSentenceButton.onclick = nextSentenceHandler;
+sentencesInner.ondblclick = nextSentenceHandler;
 
 function nextSentenceHandler() {
   currentSentence = (currentSentence + 1) % sentencesPairs.length;
-  refreshSentences();
+  refreshExampleSentences();
 }
 
 /**
@@ -192,10 +196,9 @@ if (conjugationTable) {
     }
   }
 
-  showHideButton.addEventListener("click", toggleConjugations);
-
+  showHideButton.onclick = toggleConjugations;
   if (verbClassification) {
-    verbClassification.addEventListener("dblclick", toggleConjugations);
+    verbClassification.ondblclick = toggleConjugations;
   }
 
   function squish_cells() {
@@ -211,124 +214,29 @@ if (conjugationTable) {
   }
   squish_cells();
 
-  // load conjugation grammar
-  fetch(`${getAnkiPrefix()}/_FR5000_tenses.html`)
-    .then((response) => response.text())
-    .then((html) => {
-      var conjugationGrammar = document.getElementById("conjugation-grammar");
-      conjugationGrammar.innerHTML = html;
-      conjugationGrammar.dataset.aux = aux;
-      conjugationGrammar.dataset.onlyThirdPerson = isOnlyThirdPerson;
-      conjugationGrammar.dataset.reflexive = isReflexive;
-      enableSectionToggle();
-      refreshSentences();
-
-      // fill in conjugation table
-      document.querySelectorAll("#conjugation-table tr").forEach(function (el) {
-        const tenseValues = [...el.querySelectorAll("td[data-full]")].map(
-          (td) => td.dataset.full
-        );
-        var tense = el.dataset.tense;
-        fillInConjugationTable(tenseValues, tense);
-      });
-      fillInConjugationTable([word], "INFINITIVE");
-      formatConjugationTables(conjugationGrammar);
-    });
-
-  function fillInConjugationTable(tenseValues, tense) {
-    if (tenseValues.length > 0) {
-      document
-        .querySelectorAll(`.section *[data-tense="${tense}"]`)
-        .forEach(function (tenseElement, index) {
-          if (tenseValues[index] !== "") {
-            var tenseValue =
-              tenseValues[Math.min(index, tenseValues.length - 1)];
-            tenseElement.textContent += tenseValue;
-
-            if (tenseValue.match(/^[aeiouàâäéèêëîïôöùûüh]/) && !isHAspire) {
-              tenseElement.parentElement.classList.add("elision");
-            }
-          }
-        });
-    }
-  }
-
-  function formatConjugationTables(conjugationGrammar) {
-    document
-      .querySelectorAll(".section-conjugation-table")
-      .forEach(function (el) {
-        var audioSentence = [...el.querySelectorAll("tr")]
-          .map((tr) => getVisibleText(tr))
-          .filter((text) => text.length > 0)
-          .join(", ")
-          .replaceAll("’ ", "’");
-
-        if (
-          el.parentElement.classList.contains(
-            "section-conjugation-table-wrapper"
-          )
-        ) {
-          el.parentElement.querySelector(".play-sentence").outerHTML =
-            audioButton(audioSentence);
-        } else {
-          const wrapper = document.createElement("div");
-          wrapper.className = "section-conjugation-table-wrapper";
-          wrapper.innerHTML = `
-            <div class="section-conjugation-table-wrapper">
-              ${audioButton(audioSentence)}
-              ${el.outerHTML}
-              <div class="button svg-button small reflexive-button">
-                 <svg version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 122.88 88.15" style="enable-background:new 0 0 122.88 88.15" xml:space="preserve"><g><path d="M0,33.54l37.45,37.02H0.27v17.59h118.09V70.56H57.24l52.56-48.14v18.73c0,3.62,2.92,6.54,6.54,6.54s6.54-2.92,6.54-6.54 V6.52h-0.02c0-1.69-0.65-3.37-1.94-4.65c-1.37-1.35-3.2-1.97-4.99-1.86H83.54C79.92,0.01,77,2.94,77,6.55s2.92,6.54,6.54,6.54 h17.13L47.05,61.79L0.25,15.77L0,33.54L0,33.54z"/></g></svg>
-              </div>
-            </div>
-          `;
-          el.parentNode.replaceChild(wrapper, el);
-          var reflexiveButton = wrapper.querySelector(".reflexive-button");
-          if (isReflexive) {
-            reflexiveButton.style.display = "none";
-          }
-          reflexiveButton.onclick = () => {
-            isReflexive = !isReflexive;
-            conjugationGrammar.dataset.reflexive = isReflexive;
-            conjugationGrammar.dataset.aux = isReflexive ? "etre" : aux;
-            formatConjugationTables(conjugationGrammar);
-          };
-        }
-      });
-    initAudioButtons();
-  }
-
+  var conjugationGrammar = document.getElementById("conjugation-grammar");
   var conjugationTable = document.getElementById("conjugation-table");
   var aux = conjugationTable.dataset.aux;
   var isHAspire = conjugationTable.dataset.hAspire === "true";
   var isOnlyThirdPerson = conjugationTable.dataset.onlyThirdPerson === "true";
   var isReflexive = conjugationTable.dataset.reflexive === "true";
-  document.querySelectorAll("#conjugation-table tr").forEach(function (el) {
+
+  conjugationTable.querySelectorAll("tr").forEach(function (el) {
     var tense = el.dataset.tense;
     el.onclick = function () {
-      var displayedElements = [];
-      document.getElementById("conjugation-grammar").style.display = "block";
-      document
-        .querySelectorAll("#conjugation-grammar .section-title")
-        .forEach(function (section) {
-          var showForTenses = section.dataset.tenses.split(",");
-          if (showForTenses.includes(tense)) {
-            displayedElements.push(section);
-            section.style.display = "block";
-          } else {
-            section.style.display = "none";
-            section.classList.remove("expanded");
-            section.nextElementSibling.classList.remove("expanded");
-            section.nextElementSibling.style.maxHeight = null;
-          }
-        });
-      if (displayedElements.length === 1) {
-        displayedElements[0].click();
+      conjugationGrammar.innerHTML = "";
+      for (var grammarId of grammar.tenses[tense]) {
+        var grammarElement = document.createElement("grammar");
+        grammarElement.dataset.id = grammarId;
+        conjugationGrammar.appendChild(grammarElement);
       }
-      if (displayedElements.length > 0) {
+      var loadedGrammarElements = loadAllGrammar();
+      if (loadedGrammarElements.length === 1) {
+        expandSection(loadedGrammarElements[0].querySelector(".section-title"));
+      }
+      if (loadedGrammarElements.length > 0) {
         window.scrollTo({
-          top:
-            conjugationTable.getBoundingClientRect().top + window.pageYOffset,
+          top: conjugationTable.getBoundingClientRect().top + window.scrollY,
           behavior: "smooth",
         });
       }
@@ -337,23 +245,197 @@ if (conjugationTable) {
 }
 
 /**
+ * Grammar loader
+ */
+var grammar = {
+  index: {},
+  tenses: {},
+  content: {},
+};
+fetch(`${getAnkiPrefix()}/_FR5000_grammar.json`)
+  .then((response) => response.json())
+  .then((loadedGrammar) => {
+    grammar = loadedGrammar;
+    loadAllGrammar();
+  });
+
+function loadGrammar(id, into) {
+  if (!grammar.content[id]) {
+    into.innerHTML = `Fehler: Grammatik ${id} nicht gefunden.`;
+    return;
+  }
+  var htmlString = grammar.content[id];
+
+  var grammarElement = document.createElement("div");
+  grammarElement.className = "section-wrapper";
+  grammarElement.innerHTML = htmlString;
+  into.parentElement.replaceChild(grammarElement, into);
+
+  enableSectionToggle(grammarElement);
+  formatSentences(grammarElement);
+
+  // fall back map
+  var conjugationInfinitive = 'regarder';
+  var tenseMap = {
+    P: ["regarde", "regardes", "regarde", "regardons", "regardez", "regardent"],
+    PC: ["regardé"],
+    IT: [
+      "regardais",
+      "regardais",
+      "regardait",
+      "regardions",
+      "regardiez",
+      "regardaient",
+    ],
+    F: [
+      "regarderai",
+      "regarderas",
+      "regardera",
+      "regarderons",
+      "regarderez",
+      "regarderont",
+    ],
+    IF: ["", "regarde", "", "regardons", "regardez", ""],
+    G: ["regardant"],
+    C: [
+      "regarderais",
+      "regarderais",
+      "regarderait",
+      "regarderions",
+      "regarderiez",
+      "regarderaient",
+    ],
+    S: [
+      "regarde",
+      "regardes",
+      "regarde",
+      "regardions",
+      "regardiez",
+      "regardent",
+    ],
+    PS: [
+      "regardai",
+      "regardas",
+      "regarda",
+      "regardâmes",
+      "regardâtes",
+      "regardèrent",
+    ],
+  };
+  if (conjugationTable && conjugationGrammar.contains(grammarElement)) {
+    conjugationInfinitive = word;
+    document.querySelectorAll("#conjugation-table tr").forEach(function (el) {
+      const tenseValues = [...el.querySelectorAll("td[data-full]")].map(
+        (td) => td.dataset.full
+      );
+      tenseMap[el.dataset.tense] = tenseValues;
+    });
+  }
+
+  for (var tense in tenseMap) {
+    fillInConjugationTable(grammarElement, tenseMap[tense], tense);
+  }
+  fillInConjugationTable(grammarElement, [conjugationInfinitive], "INFINITIVE");
+
+  formatConjugationTables(grammarElement);
+  return grammarElement;
+}
+
+function loadAllGrammar() {
+  var loadedGrammarElements = [];
+  document.querySelectorAll("grammar[data-id]").forEach(function (el) {
+    var id = el.dataset.id;
+    loadedGrammarElements.push(loadGrammar(id, el));
+  });
+  return loadedGrammarElements;
+}
+
+function fillInConjugationTable(within, tenseValues, tense) {
+  if (tenseValues.length > 0) {
+    within
+      .querySelectorAll(`.section *[data-tense="${tense}"]`)
+      .forEach(function (tenseElement, index) {
+        if (tenseValues[index] !== "") {
+          var tenseValue = tenseValues[Math.min(index, tenseValues.length - 1)];
+          tenseElement.textContent += tenseValue;
+
+          if (tenseValue.match(/^[aeiouàâäéèêëîïôöùûüh]/) && !isHAspire) {
+            tenseElement.parentElement.classList.add("elision");
+          }
+        }
+      });
+  }
+}
+
+function formatConjugationTables(within) {
+  within.querySelectorAll(".section-conjugation-table").forEach(function (el) {
+    if (!el.dataset.aux) {
+      el.dataset.aux = aux;
+      el.dataset.onlyThirdPerson = isOnlyThirdPerson;
+      el.dataset.reflexive = isReflexive;
+    }
+
+    var audioSentence = [...el.querySelectorAll("tr")]
+      .map((tr) => getVisibleText(tr))
+      .filter((text) => text.length > 0)
+      .join(", ")
+      .replaceAll("’ ", "’");
+
+    if (
+      el.parentElement.classList.contains("section-conjugation-table-wrapper")
+    ) {
+      el.parentElement.querySelector(".play-sentence").outerHTML =
+        audioButton(audioSentence);
+    } else {
+      const wrapper = document.createElement("div");
+      wrapper.className = "section-conjugation-table-wrapper";
+      wrapper.innerHTML = `
+          <div class="section-conjugation-table-wrapper">
+            ${audioButton(audioSentence)}
+            ${el.outerHTML}
+            <div class="button svg-button small reflexive-button">
+                <svg version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 122.88 88.15" style="enable-background:new 0 0 122.88 88.15" xml:space="preserve"><g><path d="M0,33.54l37.45,37.02H0.27v17.59h118.09V70.56H57.24l52.56-48.14v18.73c0,3.62,2.92,6.54,6.54,6.54s6.54-2.92,6.54-6.54 V6.52h-0.02c0-1.69-0.65-3.37-1.94-4.65c-1.37-1.35-3.2-1.97-4.99-1.86H83.54C79.92,0.01,77,2.94,77,6.55s2.92,6.54,6.54,6.54 h17.13L47.05,61.79L0.25,15.77L0,33.54L0,33.54z"/></g></svg>
+            </div>
+          </div>
+        `;
+      el.parentNode.replaceChild(wrapper, el);
+      var reflexiveButton = wrapper.querySelector(".reflexive-button");
+      if (isReflexive) {
+        reflexiveButton.style.display = "none";
+      }
+      reflexiveButton.onclick = () => {
+        var table = wrapper.querySelector(".section-conjugation-table");
+        table.dataset.reflexive = table.dataset.reflexive === "true" ? "false" : "true";
+        table.dataset.aux = table.dataset.reflexive === "true" ? "etre" : aux;
+        formatConjugationTables(wrapper);
+      };
+    }
+  });
+  initAudioButtons();
+}
+
+/**
  * Collapsible sections
  */
-function enableSectionToggle() {
-  document.querySelectorAll(".box .section-title").forEach(function (el) {
+function enableSectionToggle(within = document) {
+  within.querySelectorAll(".box .section-title").forEach(function (el) {
     el.onclick = function () {
-      this.classList.toggle("expanded");
-      var content = this.nextElementSibling;
-      content.classList.toggle("expanded");
-      if (content.style.maxHeight) {
-        content.style.maxHeight = null;
-      } else {
-        content.style.maxHeight = content.scrollHeight + "px";
-      }
+      expandSection(this);
     };
   });
 }
 enableSectionToggle();
+
+function expandSection(sectionTitle) {
+  sectionTitle.classList.toggle("expanded");
+  var content = sectionTitle.nextElementSibling;
+  content.classList.toggle("expanded");
+  if (content.style.maxHeight) {
+    content.style.maxHeight = null;
+  } else {
+    content.style.maxHeight = content.scrollHeight + "px";
+  }
+}
 
 /**
  * GitHub

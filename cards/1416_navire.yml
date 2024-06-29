@@ -49,7 +49,9 @@ Beispielsätze: |-
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>                
 Notiz: |-
-  <div class="section-title"><i>navire</i> und <i>bateau</i></div>
-  <div class="section">
-    <p>Das Wort <b>navire</b> bezeichnet größere Schiffe. Ein Fischerboot ist ein <b>bateau</b> (#1287), aber kein <b>navire</b>.</p>
+  <div class="section-wrapper">
+    <div class="section-title"><i>navire</i> und <i>bateau</i></div>
+    <div class="section">
+      <p>Das Wort <b>navire</b> bezeichnet größere Schiffe. Ein Fischerboot ist ein <b>bateau</b> (#1287), aber kein <b>navire</b>.</p>
+    </div>
   </div>

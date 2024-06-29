@@ -313,12 +313,19 @@ span.no-break {
   &:not(.clicked) {
     color: transparent;
     background: #eee;
+    > * {
+      opacity: 0;
+      transition: all 0.2s;      
+    }
   }
 }
 
 .night_mode .spoiler:not(.clicked) {
   color: transparent;
   background: #333;
+  > * {
+    opacity: 0;
+  }
 }
 
 .spoiler:not(.clicked) .svg-button {
@@ -447,6 +454,10 @@ span.spoiler {
     margin-top: 0.75em;
   }
 
+  .section-wrapper {
+    margin: 0 !important;
+  }
+
   .section {
     margin: 0 -10px;
     padding: 0 10px;
@@ -510,87 +521,83 @@ span.spoiler {
   gap: 0.4em;
 }
 
-.section-conjugation-table {
-  background: #eee;
-  padding: 0.25em 0.75em;
-  border-radius: 0.5em;
-}
-
 .night_mode .section-conjugation-table {
   background: #444;
 }
 
-.section-conjugation-table td {
-  &:not(:last-child) {
-    text-align: right;
-  }
+.section-conjugation-table {
+  background: #eee;
+  padding: 0.25em 0.75em;
+  border-radius: 0.5em;
 
-  &:last-child {
-    font-weight: bold;
-  }
-}
+  td {
+    &:not(:last-child) {
+      text-align: right;
+    }
 
-#conjugation-grammar {
-  .section-conjugation-table {
-    td::before {
+    &:last-child {
+      font-weight: bold;
+    }
+
+    &::before {
       content: attr(data-prefix);
     }
-    
-    tbody {
-      tr.elision td:not(:last-child) > span.full {
-        display: none;
-      }
-      tr:not(.elision) td:not(:last-child) > span.elision {
-        display: none;
-      }
-    }
+  }
+
+  tr.elision td:not(:last-child) > span.full {
+    display: none;
+  }
+  tr:not(.elision) td:not(:last-child) > span.elision {
+    display: none;
   }
 
   &[data-aux="etre"] {
-    .section-conjugation-table tbody td[data-plural="true"]::after {
+    td[data-plural="true"]::after {
       content: "s";
     }
-    .section-conjugation-table tbody tr span.avoir {
+    tr span.avoir {
       display: none;
     }
   }
 
-  &[data-aux="avoir"] {
-    .section-conjugation-table tbody tr span.etre {
+  &:not([data-aux="etre"]) {
+    tr span.etre {
       display: none;
     }
   }
 
   &[data-reflexive="true"] {
-    .section-conjugation-table tbody {
-      td {
-        &::after {
-          content: attr(data-reflexive-suffix);
-        }
-        &::before {
-          content: attr(data-reflexive-prefix);
-        }
-        &:not(:last-child) > span:not(.reflexive) {
-          display: none;
-        }
+    td {
+      &::after {
+        content: attr(data-reflexive-suffix);
       }
-      tr.elision td::before {
-        content: attr(data-reflexive-prefix-elision);
+      &::before {
+        content: attr(data-reflexive-prefix);
       }
+      &:not(:last-child) > span:not(.reflexive) {
+        display: none;
+      }
+    }
+    tr.elision td::before {
+      content: attr(data-reflexive-prefix-elision);
     }
   }
 
-  &[data-reflexive="false"] {
-    .section-conjugation-table tbody td:not(:last-child) > span.reflexive {
+  &:not([data-reflexive="true"]) {
+    td:not(:last-child) > span.reflexive {
       display: none;
     }
   }
 
   &[data-only-third-person="true"] {
-    .section-conjugation-table tbody tr:not(:nth-child(3)):not(:only-of-type) {
+    tr:not(:nth-child(3)):not(:only-of-type) {
       display: none;
     }
   }
+}
+
+#conjugation-grammar {
+  margin-top: 1em;
 }
 
 .box {
@@ -737,8 +744,4 @@ tr.regular_tense {
 
 .night_mode .regular {
   color: white;
-}
-
-#conjugation-grammar {
-  margin-top: 1em;
 }
