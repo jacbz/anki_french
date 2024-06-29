@@ -181,24 +181,29 @@ if (conjugationTable) {
   var label = document.getElementById("show-hide-label");
   var verbClassification = document.getElementById("verb-classification");
 
-  function toggleConjugations() {
-    showRegularConjugations = !showRegularConjugations;
-    document.querySelectorAll("tr.regular_tense").forEach(function (el) {
-      el.classList.toggle("show", showRegularConjugations);
-    });
-    label.textContent = showRegularConjugations
-      ? "Nur unregelmäßige anzeigen"
-      : "Alles anzeigen";
-    squish_cells();
+  var regularTenseRows = document.querySelectorAll("tr.regular_tense");
+  if (regularTenseRows.length === 0) {
+    showHideButton.remove();
+  } else {
+    function toggleConjugations() {
+      showRegularConjugations = !showRegularConjugations;
+      document.querySelectorAll("tr.regular_tense").forEach(function (el) {
+        el.classList.toggle("show", showRegularConjugations);
+      });
+      label.textContent = showRegularConjugations
+        ? "Nur unregelmäßige anzeigen"
+        : "Alles anzeigen";
+      squish_cells();
 
-    if (verbClassification && conjugationTable.offsetHeight > 0) {
-      conjugationTable.style.marginTop = "0.5em";
+      if (verbClassification && conjugationTable.offsetHeight > 0) {
+        conjugationTable.style.marginTop = "0.5em";
+      }
     }
-  }
 
-  showHideButton.onclick = toggleConjugations;
-  if (verbClassification) {
-    verbClassification.ondblclick = toggleConjugations;
+    showHideButton.onclick = toggleConjugations;
+    if (verbClassification) {
+      verbClassification.ondblclick = toggleConjugations;
+    }
   }
 
   function squish_cells() {
@@ -232,7 +237,7 @@ if (conjugationTable) {
       }
       var loadedGrammarElements = loadAllGrammar();
       if (loadedGrammarElements.length === 1) {
-        expandSection(loadedGrammarElements[0].querySelector(".section-title"));
+        expandSection(loadedGrammarElements[0]);
       }
       if (loadedGrammarElements.length > 0) {
         window.scrollTo({

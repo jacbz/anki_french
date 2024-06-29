@@ -601,8 +601,8 @@ hr {
   }
 }
 
-#conjugation-grammar {
-  margin-top: 1em;
+#conjugation-grammar >:first-child {
+  margin-top: 0.75em !important;
 }
 
 .box {
