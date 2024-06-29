@@ -251,6 +251,7 @@ var grammar = {
   index: {},
   tenses: {},
   content: {},
+  github: {},
 };
 fetch(`${getAnkiPrefix()}/_FR5000_grammar.json`)
   .then((response) => response.json())
@@ -269,13 +270,19 @@ function loadGrammar(id, into) {
   var grammarElement = document.createElement("div");
   grammarElement.className = "section";
   grammarElement.innerHTML = htmlString;
+
   into.parentElement.replaceChild(grammarElement, into);
+
+  var content = grammarElement.querySelector(".section-content");
+  if (content) {
+    content.innerHTML += `<div class="github"><a href="${grammar.github[id]}">Auf GitHub bearbeiten</a></div>`;
+  }
 
   enableSectionToggle(grammarElement);
   formatSentences(grammarElement);
 
   // fall back map
-  var conjugationInfinitive = 'regarder';
+  var conjugationInfinitive = "regarder";
   var tenseMap = {
     P: ["regarde", "regardes", "regarde", "regardons", "regardez", "regardent"],
     PC: ["regardé"],
@@ -405,7 +412,8 @@ function formatConjugationTables(within) {
       }
       reflexiveButton.onclick = () => {
         var table = wrapper.querySelector(".section-conjugation-table");
-        table.dataset.reflexive = table.dataset.reflexive === "true" ? "false" : "true";
+        table.dataset.reflexive =
+          table.dataset.reflexive === "true" ? "false" : "true";
         table.dataset.aux = table.dataset.reflexive === "true" ? "etre" : aux;
         formatConjugationTables(wrapper);
       };
@@ -439,7 +447,7 @@ function expandSection(section) {
 /**
  * GitHub
  */
-var github = document.querySelector("#github > a");
+var github = document.querySelector(".github > a");
 var rank = document.querySelector(".rank").dataset.content;
 if (rank >= "1" && rank <= "5000") {
   github.href = `https://github.com/jacbz/anki_french/blob/main/cards/${rank.padStart(

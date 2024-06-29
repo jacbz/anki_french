@@ -345,9 +345,9 @@ span.spoiler {
   transform: translateY(0.1em);
 }
 
-#github {
-  margin-top: 12px;
-  font-size: 35%;
+.github {
+  font-size: 12px;
+  text-align: center;
 
   a {
     text-decoration: none;
@@ -358,6 +358,17 @@ span.spoiler {
       margin-right: 0.2em;
     }
   }
+}
+
+.section .github {
+  text-align: right;
+  a::before {
+    content: '' !important;
+  }
+}
+
+hr {
+  width: 100%;
 }
 
 /**
