@@ -60,8 +60,10 @@ function shuffleArray(arr, persist = true) {
     seed = Persistence.getItem();
     Persistence.clear();
   }
-  for (var i = arr.length - 1; i > 0; i--) {
-    const j = Math.floor(seed * (i + 1));
+  var currentSeed = seed;
+  for (let i = arr.length - 1; i > 0; i--) {
+    currentSeed = (currentSeed * 16807) % 2147483647;
+    const j = Math.floor((currentSeed / 2147483647) * (i + 1));
     [arr[i], arr[j]] = [arr[j], arr[i]];
   }
   return arr;
