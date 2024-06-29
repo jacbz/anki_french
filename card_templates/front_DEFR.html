@@ -8,76 +8,10 @@
 <!--------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------->
 <script>
-  // v1.1.8 - https://github.com/SimonLammer/anki-persistence/blob/584396fea9dea0921011671a47a0fdda19265e62/script.js
-  if(void 0===window.Persistence){var e="github.com/SimonLammer/anki-persistence/",t="_default";if(window.Persistence_sessionStorage=function(){var i=!1;try{"object"==typeof window.sessionStorage&&(i=!0,this.clear=function(){for(var t=0;t<sessionStorage.length;t++){var i=sessionStorage.key(t);0==i.indexOf(e)&&(sessionStorage.removeItem(i),t--)}},this.setItem=function(i,n){void 0==n&&(n=i,i=t),sessionStorage.setItem(e+i,JSON.stringify(n))},this.getItem=function(i){return void 0==i&&(i=t),JSON.parse(sessionStorage.getItem(e+i))},this.removeItem=function(i){void 0==i&&(i=t),sessionStorage.removeItem(e+i)},this.getAllKeys=function(){for(var t=[],i=Object.keys(sessionStorage),n=0;n<i.length;n++){var s=i[n];0==s.indexOf(e)&&t.push(s.substring(e.length,s.length))}return t.sort()})}catch(n){}this.isAvailable=function(){return i}},window.Persistence_windowKey=function(i){var n=window[i],s=!1;"object"==typeof n&&(s=!0,this.clear=function(){n[e]={}},this.setItem=function(i,s){void 0==s&&(s=i,i=t),n[e][i]=s},this.getItem=function(i){return void 0==i&&(i=t),void 0==n[e][i]?null:n[e][i]},this.removeItem=function(i){void 0==i&&(i=t),delete n[e][i]},this.getAllKeys=function(){return Object.keys(n[e])},void 0==n[e]&&this.clear()),this.isAvailable=function(){return s}},window.Persistence=new Persistence_sessionStorage,Persistence.isAvailable()||(window.Persistence=new Persistence_windowKey("py")),!Persistence.isAvailable()){var i=window.location.toString().indexOf("title"),n=window.location.toString().indexOf("main",i);i>0&&n>0&&n-i<10&&(window.Persistence=new Persistence_windowKey("qt"))}}
+___PERSISTENCE___;
 </script>
 <script>
-  document.querySelectorAll(".definition").forEach(function (def) {
-    var text = def.innerHTML;
+  ___FRONT_DEFR___;
 
-    if (text.includes(",") || text.includes(";")) {
-      text = text.replace(
-        /([^,;]+)/g,
-        (match) => `<span class="no-break">${match}</span>`
-      );
-    }
-
-    text = text.replace(/\((.*?)\)/g, '<span class="pre-suffix">$&</span>');
-    text = text.replace(/\[(.*?)\]/g, '<span class="grammar">$&</span>');
-
-    def.innerHTML = text;
-  });
-
-  var sentencesInner = document.getElementById("sentences_inner");
-  var sentencesData = sentencesInner.innerHTML;
-  var sentencesPairs = sentencesData.split("\n\n");
-  shuffleArray(sentencesPairs);
-  var de = beautifyText(sentencesPairs[0].split("\n")[1], false);
-  sentencesInner.innerHTML = `<div class="de">${de}</div>`;
-
-  function beautifyText(text, isFrench) {
-    if (text.length === 0) {
-      return text;
-    }
-    var text = text.replace(/([^<>\s])'/g, "$1’"); // convert apostrophes
-    text = text.replaceAll("...", "…"); // convert ellipsis
-    if (isFrench) {
-      // insert thin non-breaking space before punctuation (but not inside HTML tags)
-      text = text.replace(/(?!.*<[^>]+>)(\s?)([?|:|!|;])/g, "\u202F$2");
-      // Replace with French quote marks « ... »
-      text = text.replace(/(?!.*<[^>]+>)"([^"]*)"/g, "«\u202F$1\u202F»");
-
-      if (text[0] === "-") {
-        text = text.replaceAll("-", "–");
-      }
-      text = text.replaceAll("<br>-", "<br>–");
-    } else {
-      // format dialogue
-      if (text.includes("<br>-") || text.includes("<br>–")) {
-        const lines = text.split("<br>");
-        const formattedLines = [];
-        for (var line of lines) {
-          line = line.trim();
-          if (line.startsWith("–") || line.startsWith("-")) {
-            line = line.replace(/^(–|-)\s*/, "");
-          }
-          formattedLines.push(`„${line}“`);
-        }
-        text = formattedLines.join("<br>");
-      }
-      // replace with German quote marks „...“
-      text = text.replace(/(?!.*<[^>]+>)"([^"]*)"/g, "„$1“");
-    }
-    return text;
-  }
-
-  function shuffleArray(arr) {
-    var seed = Math.random();
-    Persistence.setItem(seed);
-    for (var i = arr.length - 1; i > 0; i--) {
-      const j = Math.floor(seed * (i + 1));
-      [arr[i], arr[j]] = [arr[j], arr[i]];
-    }
-    return arr;
-  }
+  ___COMMONJS___;
 </script>

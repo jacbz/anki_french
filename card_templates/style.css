@@ -359,7 +359,7 @@ span.spoiler {
   text-align: left;
 }
 
-.note>*:not(.section-title)+*:not(.section-title) {
+.note > *:not(.section-title) + *:not(.section-title) {
   margin-top: 0.5em;
 }
 
@@ -389,7 +389,7 @@ span.spoiler {
 
 #single_sentence {
   margin-top: 2em;
-  font-size: 40%;
+  font-size: 50%;
 }
 
 #single_sentence .fr {
@@ -414,7 +414,8 @@ span.spoiler {
   padding-left: 1em;
 }
 
-.fr u, .de u {
+.fr u,
+.de u {
   text-decoration: none;
   color: hsl(192, 70%, 50%);
 }
@@ -514,47 +515,89 @@ span.spoiler {
   content: attr(data-prefix);
 }
 
-#conjugation-grammar[data-aux="etre"] .section-conjugation-table tbody td[data-plural="true"]::after {
+#conjugation-grammar[data-aux="etre"]
+  .section-conjugation-table
+  tbody
+  td[data-plural="true"]::after {
   content: "s";
 }
 
-#conjugation-grammar[data-reflexive="true"] .section-conjugation-table tbody td::after {
+#conjugation-grammar[data-reflexive="true"]
+  .section-conjugation-table
+  tbody
+  td::after {
   content: attr(data-reflexive-suffix);
 }
 
-#conjugation-grammar[data-reflexive="true"] .section-conjugation-table tbody td::before {
+#conjugation-grammar[data-reflexive="true"]
+  .section-conjugation-table
+  tbody
+  td::before {
   content: attr(data-reflexive-prefix);
 }
 
-#conjugation-grammar[data-reflexive="true"] .section-conjugation-table tbody tr.elision td::before {
+#conjugation-grammar[data-reflexive="true"]
+  .section-conjugation-table
+  tbody
+  tr.elision
+  td::before {
   content: attr(data-reflexive-prefix-elision);
 }
 
-#conjugation-grammar[data-only-third-person="true"] .section-conjugation-table tbody tr:not(:nth-child(3)):not(:only-of-type) {
+#conjugation-grammar[data-only-third-person="true"]
+  .section-conjugation-table
+  tbody
+  tr:not(:nth-child(3)):not(:only-of-type) {
   display: none;
 }
 
-#conjugation-grammar[data-aux="avoir"] .section-conjugation-table tbody tr span.etre {
+#conjugation-grammar[data-aux="avoir"]
+  .section-conjugation-table
+  tbody
+  tr
+  span.etre {
   display: none;
 }
 
-#conjugation-grammar[data-aux="etre"] .section-conjugation-table tbody tr span.avoir {
+#conjugation-grammar[data-aux="etre"]
+  .section-conjugation-table
+  tbody
+  tr
+  span.avoir {
   display: none;
 }
 
-#conjugation-grammar[data-reflexive="true"] .section-conjugation-table tbody td:not(:last-child)>span:not(.reflexive) {
+#conjugation-grammar[data-reflexive="true"]
+  .section-conjugation-table
+  tbody
+  td:not(:last-child)
+  > span:not(.reflexive) {
   display: none;
 }
 
-#conjugation-grammar[data-reflexive="false"] .section-conjugation-table tbody td:not(:last-child)>span.reflexive {
+#conjugation-grammar[data-reflexive="false"]
+  .section-conjugation-table
+  tbody
+  td:not(:last-child)
+  > span.reflexive {
   display: none;
 }
 
-#conjugation-grammar .section-conjugation-table tbody tr.elision td:not(:last-child)>span.full {
+#conjugation-grammar
+  .section-conjugation-table
+  tbody
+  tr.elision
+  td:not(:last-child)
+  > span.full {
   display: none;
 }
 
-#conjugation-grammar .section-conjugation-table tbody tr:not(.elision) td:not(:last-child)>span.elision {
+#conjugation-grammar
+  .section-conjugation-table
+  tbody
+  tr:not(.elision)
+  td:not(:last-child)
+  > span.elision {
   display: none;
 }
 
@@ -685,14 +728,6 @@ tr.regular_tense.show {
 .night_mode .irregular {
   color: white;
   background: #444;
-}
-
-td.irregular b {
-  color: hsl(210, 100%, 22%);
-}
-
-.night_mode td.irregular b {
-  color: hsl(233, 100%, 85%);
 }
 
 .regular {
