@@ -1,0 +1,744 @@
+/**
+  Font faces
+  -----------------------------------------------
+**/
+
+@font-face {
+  font-family: NittiGrotesk;
+  src: url("_NittiGrotesk.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: NittiGrotesk;
+  src: url("_NittiGroteskItalic.ttf");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: NittiGrotesk;
+  src: url("_NittiGroteskBold.ttf");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: NittiGrotesk;
+  src: url("_NittiGroteskBoldItalic.ttf");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: NotoSans;
+  src: url("_NotoSans-Light.ttf");
+}
+
+/**
+  Buttons
+  -----------------------------------------------
+**/
+
+.button {
+  border-radius: 0.5em;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: opacity 0.2s;
+  position: relative;
+  user-select: none;
+  -webkit-user-select: none;
+  font-weight: normal;
+}
+
+.svg-button {
+  min-width: 24px;
+  min-height: 24px;
+  max-width: 24px;
+  max-height: 24px;
+  border-radius: 100%;
+
+  &.small {
+    border: none;
+    width: 20px;
+    height: 20px;
+    min-width: 20px;
+    min-height: 20px;
+    max-width: 20px;
+    max-height: 20px;
+  }
+
+  &::before {
+    content: "";
+    position: absolute;
+    height: 150%;
+    width: 150%;
+    border-radius: 100%;
+  }
+}
+
+/** increase the clickable area of the button **/
+
+@media (hover: hover) and (pointer: fine) {
+  .button:hover {
+    background: rgba(200, 200, 200, 0.5);
+  }
+}
+
+.button:active {
+  background: rgba(200, 200, 200, 0.5);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .night_mode .button:hover {
+    background: rgba(100, 100, 100, 0.5);
+  }
+}
+
+.night_mode .button {
+  &:active {
+    background: rgba(100, 100, 100, 0.5);
+  }
+
+  border-color: white;
+}
+
+.svg-button {
+  svg {
+    width: 18px;
+    height: 18px;
+  }
+
+  &.small svg {
+    width: 14px;
+    height: 14px;
+  }
+}
+
+.night_mode svg {
+  fill: white;
+}
+
+/**
+  Card items
+  -----------------------------------------------
+**/
+
+.card {
+  font-family: "NittiGrotesk";
+  font-size: 38px;
+  text-align: center;
+  background-color: white;
+  width: 96%;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rank {
+  position: absolute;
+  font-size: 50%;
+  right: 0.5em;
+  top: 0.5em;
+
+  &[data-content="X"] {
+    display: none;
+  }
+
+  &::before {
+    content: "#";
+  }
+}
+
+.word {
+  font-weight: bold;
+
+  &:has(.feminine .stem) {
+    margin-bottom: 0.75em;
+  }
+}
+
+.word_span {
+  position: relative;
+  display: inline-block;
+}
+
+.feminine {
+  position: absolute;
+  opacity: 0.4;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  user-select: none;
+  -webkit-user-select: none;
+
+  &:has(.stem) {
+    top: 60%;
+  }
+}
+
+.stem {
+  color: rgba(0, 0, 0, 0);
+  position: relative;
+}
+
+.night_mode .stem {
+  color: rgba(255, 255, 255, 0);
+}
+
+.stem {
+  &::before {
+    content: attr(data-before);
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 75%;
+    font-weight: normal;
+  }
+
+  &::after {
+    content: attr(data-after);
+    position: absolute;
+    bottom: 0;
+    color: rgba(0, 0, 0, 1);
+    font-size: 75%;
+  }
+}
+
+.night_mode .stem {
+  &::before,
+  &::after {
+    color: rgba(255, 255, 255, 1);
+  }
+}
+
+.ipa {
+  font-size: 60%;
+  font-family: NotoSans;
+  margin-top: 0.1em;
+}
+
+.audio {
+  margin: 0.3em;
+}
+
+.pos {
+  font-size: 50%;
+  font-weight: bold;
+  color: gray;
+  text-decoration: dotted underline;
+  -webkit-text-decoration: dotted underline;
+  cursor: help;
+
+  &.expanded {
+    font-size: 40%;
+    padding-top: 0.4em;
+    font-weight: normal;
+    text-decoration: none;
+    display: block;
+    cursor: auto;
+  }
+}
+
+.definition {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.pre-suffix {
+  opacity: 60%;
+  font-weight: 400;
+}
+
+.grammar {
+  opacity: 60%;
+  font-weight: 400;
+  font-size: 60%;
+  font-style: normal;
+}
+
+span.no-break {
+  white-space: nowrap;
+}
+
+.disamb {
+  font-style: normal;
+  font-size: 80%;
+  opacity: 60%;
+  font-weight: 400;
+
+  &::before {
+    content: "";
+    display: block;
+  }
+}
+
+.front .disamb {
+  display: none;
+}
+
+.register {
+  font-size: 40%;
+  background: #eee;
+  padding: 0.3em;
+  border-radius: 0.8em;
+}
+
+.night_mode .register {
+  background: transparent;
+  border: 1px solid #eee;
+}
+
+.fr {
+  font-weight: bold;
+}
+
+.de {
+  font-style: italic;
+}
+
+.spoiler {
+  transition: all 0.2s;
+  -webkit-tap-highlight-color: transparent;
+  cursor: pointer;
+  border-radius: 0.2em;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+
+  &:not(.clicked) {
+    color: transparent;
+    background: #eee;
+  }
+}
+
+.night_mode .spoiler:not(.clicked) {
+  color: transparent;
+  background: #333;
+}
+
+.spoiler:not(.clicked) .svg-button {
+  opacity: 0;
+  pointer-events: none;
+}
+
+span.spoiler {
+  padding-top: 0.15em;
+  padding-bottom: 0.15em;
+}
+
+.sentence-with-audio .svg-button {
+  display: inline-flex;
+  margin-right: 0.1em;
+  align-items: center;
+  transform: translateY(0.1em);
+}
+
+#github {
+  margin-top: 12px;
+  font-size: 35%;
+
+  a {
+    text-decoration: none;
+
+    &::before {
+      content: "\2665\fe0e";
+      font-size: 90%;
+      margin-right: 0.2em;
+    }
+  }
+}
+
+/**
+  Box
+  -----------------------------------------------
+**/
+
+.box {
+  margin-top: 1.5em;
+  position: relative;
+  font-size: 40%;
+  border: 1px solid gray;
+  border-radius: 14px;
+  padding: 10px;
+  text-align: left;
+}
+
+.note > *:not(.section-title) + *:not(.section-title) {
+  margin-top: 0.5em;
+}
+
+.box:not(:last-of-type) {
+  margin-bottom: 3em;
+}
+
+.box_float {
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  transform: translateY(-120%);
+  font-size: 90%;
+
+  .svg-button {
+    margin-left: 0.3em;
+  }
+}
+
+#sentences {
+  border-width: 3px;
+  padding: 12px;
+  font-size: 50%;
+}
+
+#single_sentence {
+  margin-top: 2em;
+  font-size: 50%;
+
+  .fr {
+    font-weight: normal;
+  }
+}
+
+.box {
+  p {
+    margin: 0;
+  }
+
+  ul {
+    margin: 0;
+    padding-inline-start: 1.5em;
+    list-style-type: square;
+  }
+
+  li:not(:first-child) {
+    margin-top: 0.75em;
+  }
+
+  .examples {
+    padding-left: 1em;
+  }
+}
+
+.fr u,
+.de u {
+  text-decoration: none;
+  color: hsl(192, 70%, 50%);
+}
+
+.box {
+  .examples {
+    &:not(:last-child) {
+      margin-bottom: 0.75em;
+    }
+
+    .fr:not(:first-child) {
+      margin-top: 0.5em;
+    }
+  }
+
+  h3:not(:first-child) {
+    margin: 0;
+    margin-top: 0.75em;
+  }
+
+  .section {
+    margin: 0 -10px;
+    padding: 0 10px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    display: grid;
+    gap: 0.5em;
+
+    &.expanded:not(:last-child) {
+      margin-bottom: 1.5em;
+    }
+  }
+
+  .section-title {
+    font-weight: bold;
+    font-size: 120%;
+    background: rgba(0, 48, 73, 0.15);
+    margin: 0 -10px;
+    padding: 0.2em 10px;
+    cursor: pointer;
+    transition: opacity 0.2s;
+  }
+}
+
+.night_mode .box .section-title {
+  background: rgb(0, 48, 73);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .box .section-title:hover {
+    opacity: 0.7;
+  }
+}
+
+.box .section-title {
+  &:active {
+    opacity: 0.7;
+  }
+
+  &:after {
+    content: "\002B";
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+  }
+
+  &.expanded {
+    margin-bottom: 0.5em;
+
+    &:after {
+      content: "\2212";
+    }
+  }
+}
+
+.section-conjugation-table-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.4em;
+}
+
+.section-conjugation-table {
+  background: #eee;
+  padding: 0.25em 0.75em;
+  border-radius: 0.5em;
+}
+
+.night_mode .section-conjugation-table {
+  background: #444;
+}
+
+.section-conjugation-table td {
+  &:not(:last-child) {
+    text-align: right;
+  }
+
+  &:last-child {
+    font-weight: bold;
+  }
+}
+
+#conjugation-grammar {
+  .section-conjugation-table {
+    td::before {
+      content: attr(data-prefix);
+    }
+    
+    tbody {
+      tr.elision td:not(:last-child) > span.full {
+        display: none;
+      }
+      tr:not(.elision) td:not(:last-child) > span.elision {
+        display: none;
+      }
+    }
+  }
+
+  &[data-aux="etre"] {
+    .section-conjugation-table tbody td[data-plural="true"]::after {
+      content: "s";
+    }
+    .section-conjugation-table tbody tr span.avoir {
+      display: none;
+    }
+  }
+
+  &[data-aux="avoir"] {
+    .section-conjugation-table tbody tr span.etre {
+      display: none;
+    }
+  }
+
+  &[data-reflexive="true"] {
+    .section-conjugation-table tbody {
+      td {
+        &::after {
+          content: attr(data-reflexive-suffix);
+        }
+        &::before {
+          content: attr(data-reflexive-prefix);
+        }
+        &:not(:last-child) > span:not(.reflexive) {
+          display: none;
+        }
+      }
+      tr.elision td::before {
+        content: attr(data-reflexive-prefix-elision);
+      }
+    }
+  }
+
+  &[data-reflexive="false"] {
+    .section-conjugation-table tbody td:not(:last-child) > span.reflexive {
+      display: none;
+    }
+  }
+
+  &[data-only-third-person="true"] {
+    .section-conjugation-table tbody tr:not(:nth-child(3)):not(:only-of-type) {
+      display: none;
+    }
+  }
+}
+
+.box {
+  .attention,
+  .tip,
+  .highlight {
+    position: relative;
+    border-radius: 0.4em;
+    padding: 0.5em;
+    border-left: 2px solid black;
+    padding-left: calc(0.5em + 36px);
+    min-height: 32px;
+  }
+
+  .attention::before,
+  .tip::before {
+    display: block;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%) translateX(-35px);
+    height: 30px;
+    width: 30px;
+  }
+
+  .highlight {
+    &::before {
+      display: block;
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%) translateX(-35px);
+      height: 30px;
+      width: 30px;
+      content: url("data:image/svg+xml,%3Csvg width='30px' height='30px' viewBox='0 0 48 48' xmlns='http://www.w3.org/2000/svg'%3E%3Ctitle%3Einformation-circle%3C/title%3E%3Cg id='Layer_2' data-name='Layer 2'%3E%3Cg id='invisible_box' data-name='invisible box'%3E%3Crect width='48' height='48' fill='none'/%3E%3C/g%3E%3Cg fill='hsl(192, 70%, 43%)' id='icons_Q2' data-name='icons Q2'%3E%3Cpath d='M24,2A22,22,0,1,0,46,24,21.9,21.9,0,0,0,24,2Zm0,40A18,18,0,1,1,42,24,18.1,18.1,0,0,1,24,42Z'/%3E%3Cpath d='M24,20a2,2,0,0,0-2,2V34a2,2,0,0,0,4,0V22A2,2,0,0,0,24,20Z'/%3E%3Ccircle cx='24' cy='14' r='2'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    }
+
+    color: hsl(192, 70%, 43%);
+    border-color: hsl(192, 70%, 43%);
+    background: hsla(192, 70%, 43%, 0.15);
+  }
+
+  .attention {
+    color: hsl(43, 100%, 42%);
+    border-color: hsl(43, 100%, 42%);
+    background: hsla(43, 100%, 42%, 0.15);
+
+    &::before {
+      content: url("data:image/svg+xml,%3Csvg width='30px' height='30px' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M10.75 2.44995C11.45 1.85995 12.58 1.85995 13.26 2.44995L14.84 3.79995C15.14 4.04995 15.71 4.25995 16.11 4.25995H17.81C18.87 4.25995 19.74 5.12995 19.74 6.18995V7.88995C19.74 8.28995 19.95 8.84995 20.2 9.14995L21.55 10.7299C22.14 11.4299 22.14 12.5599 21.55 13.2399L20.2 14.8199C19.95 15.1199 19.74 15.6799 19.74 16.0799V17.7799C19.74 18.8399 18.87 19.7099 17.81 19.7099H16.11C15.71 19.7099 15.15 19.9199 14.85 20.1699L13.27 21.5199C12.57 22.1099 11.44 22.1099 10.76 21.5199L9.18001 20.1699C8.88001 19.9199 8.31 19.7099 7.92 19.7099H6.17C5.11 19.7099 4.24 18.8399 4.24 17.7799V16.0699C4.24 15.6799 4.04 15.1099 3.79 14.8199L2.44 13.2299C1.86 12.5399 1.86 11.4199 2.44 10.7299L3.79 9.13995C4.04 8.83995 4.24 8.27995 4.24 7.88995V6.19995C4.24 5.13995 5.11 4.26995 6.17 4.26995H7.9C8.3 4.26995 8.86 4.05995 9.16 3.80995L10.75 2.44995Z' stroke='hsl(43, 100%, 42%)' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M12 8.13V12.96' stroke='hsl(43, 100%, 42%)' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M11.9945 16H12.0035' stroke='hsl(43, 100%, 42%)' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    }
+  }
+
+  .tip {
+    color: hsl(119, 19%, 50%);
+    border-color: hsl(119, 19%, 50%);
+    background: hsla(119, 19%, 50%, 0.15);
+
+    &::before {
+      content: url("data:image/svg+xml,%3Csvg width='30px' height='30px' viewBox='2 2 22 22' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12 10V11.5M12 14H12.01M10 16.584V18.9996C10 20.1042 10.8954 20.9996 12 20.9996C13.1046 20.9996 14 20.1042 14 18.9996L14 16.584M12 3V4M18.3643 5.63574L17.6572 6.34285M5.63574 5.63574L6.34285 6.34285M4 12H3M21 12H20M17 12C17 14.7614 14.7614 17 12 17C9.23858 17 7 14.7614 7 12C7 9.23858 9.23858 7 12 7C14.7614 7 17 9.23858 17 12Z' stroke='hsl(119, 19%, 50%)' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    }
+  }
+}
+
+/**
+  Conjugations
+  -----------------------------------------------
+**/
+
+#verb-classification {
+  font-style: italic;
+}
+
+#conjugation-table {
+  font-size: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+  table-layout: fixed;
+  width: 100%;
+
+  tr {
+    line-height: 140%;
+    cursor: pointer;
+    transition: background-color 0.2s;
+
+    &:active {
+      background: rgba(200, 200, 200, 0.5);
+    }
+  }
+
+  td {
+    border-radius: 0.5em;
+  }
+}
+
+@media (hover: hover) and (pointer: fine) {
+  #conjugation-table tr:hover {
+    background: rgba(200, 200, 200, 0.5);
+  }
+}
+
+td {
+  white-space: nowrap;
+}
+
+tr.regular_tense {
+  display: none;
+
+  &.show {
+    display: table-row;
+  }
+}
+
+.tense {
+  font-weight: bold;
+  white-space: nowrap;
+  width: 19%;
+}
+
+.tense_stem {
+  text-align: right !important;
+  text-decoration: underline;
+  width: 15%;
+}
+
+.squished {
+  transform-origin: left center;
+}
+
+.irregular {
+  color: black;
+  background: #eee;
+  padding: 0 0.3em;
+  text-align: center;
+}
+
+.night_mode .irregular {
+  color: white;
+  background: #444;
+}
+
+.regular {
+  color: #333;
+  opacity: 0.7;
+}
+
+.night_mode .regular {
+  color: white;
+}
+
+#conjugation-grammar {
+  margin-top: 1em;
+}
