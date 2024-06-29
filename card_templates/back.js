@@ -267,7 +267,7 @@ function loadGrammar(id, into) {
   var htmlString = grammar.content[id];
 
   var grammarElement = document.createElement("div");
-  grammarElement.className = "section-wrapper";
+  grammarElement.className = "section";
   grammarElement.innerHTML = htmlString;
   into.parentElement.replaceChild(grammarElement, into);
 
@@ -418,18 +418,17 @@ function formatConjugationTables(within) {
  * Collapsible sections
  */
 function enableSectionToggle(within = document) {
-  within.querySelectorAll(".box .section-title").forEach(function (el) {
-    el.onclick = function () {
-      expandSection(this);
+  within.querySelectorAll(".section-title").forEach(function (title) {
+    title.onclick = function () {
+      expandSection(title.parentElement);
     };
   });
 }
 enableSectionToggle();
 
-function expandSection(sectionTitle) {
-  sectionTitle.classList.toggle("expanded");
-  var content = sectionTitle.nextElementSibling;
-  content.classList.toggle("expanded");
+function expandSection(section) {
+  section.classList.toggle("expanded");
+  var content = section.querySelector(".section-content");
   if (content.style.maxHeight) {
     content.style.maxHeight = null;
   } else {

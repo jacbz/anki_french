@@ -454,22 +454,8 @@ span.spoiler {
     margin-top: 0.75em;
   }
 
-  .section-wrapper {
-    margin: 0 !important;
-  }
-
   .section {
-    margin: 0 -10px;
-    padding: 0 10px;
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.2s ease-out;
-    display: grid;
-    gap: 0.5em;
-
-    &.expanded:not(:last-child) {
-      margin-bottom: 1.5em;
-    }
+    margin: 0 !important;
   }
 
   .section-title {
@@ -480,6 +466,35 @@ span.spoiler {
     padding: 0.2em 10px;
     cursor: pointer;
     transition: opacity 0.2s;
+
+    &:active {
+      opacity: 0.7;
+    }
+  
+    &:after {
+      content: "\002B";
+      font-weight: bold;
+      float: right;
+      margin-left: 5px;
+    }
+  }
+
+  .section-content {
+    margin: 0 -10px;
+    padding: 0 10px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    display: grid;
+    gap: 0.5em;
+
+    > *:first-child {
+      margin-top: 1em !important;
+    }
+
+    > *:last-child {
+      margin-bottom: 1.5em !important;
+    }
   }
 }
 
@@ -490,27 +505,6 @@ span.spoiler {
 @media (hover: hover) and (pointer: fine) {
   .box .section-title:hover {
     opacity: 0.7;
-  }
-}
-
-.box .section-title {
-  &:active {
-    opacity: 0.7;
-  }
-
-  &:after {
-    content: "\002B";
-    font-weight: bold;
-    float: right;
-    margin-left: 5px;
-  }
-
-  &.expanded {
-    margin-bottom: 0.5em;
-
-    &:after {
-      content: "\2212";
-    }
   }
 }
 
