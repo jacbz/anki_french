@@ -476,7 +476,7 @@ hr {
       }
     }
 
-    &.expanded .section-title:after {
+    &.expanded > .section-title:after {
       content: "\2212";
     }  
   }

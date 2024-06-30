@@ -3,9 +3,9 @@ ___CONFIG___;
 /**
  * Feminine form
  */
-let wordWithArticle = document.querySelector(".word");
-let word = wordWithArticle.dataset.word;
-let feminine = wordWithArticle.dataset.feminine;
+const wordWithArticle = document.querySelector(".word");
+const word = wordWithArticle.dataset.word;
+const feminine = wordWithArticle.dataset.feminine;
 
 function longestCommonPrefix(a, b) {
   let i = 0;
@@ -19,7 +19,7 @@ if (feminine) {
     `<span class="word_span">${word}<span class="feminine">${feminine}</span></span>`
   );
   if (word !== feminine.slice(0, word.length)) {
-    let stem = longestCommonPrefix(word, feminine);
+    const stem = longestCommonPrefix(word, feminine);
     document.querySelector(
       ".feminine"
     ).innerHTML = `<span class="stem" data-before="${stem}" data-after="${feminine.slice(
@@ -31,12 +31,12 @@ if (feminine) {
 /**
  * POS
  */
-let pos = document.querySelector(".pos");
+const pos = document.querySelector(".pos");
 if (pos) {
   pos.onclick = function () {
     if (!pos.classList.contains("expanded")) {
       pos.classList.add("expanded");
-      let posMap = [
+      const posMap = [
         ["nadj", "Substantiv/Adjektiv", ""],
         ["adj", "Adjektiv", ""],
         ["adv", "Adverb", ""],
@@ -54,9 +54,9 @@ if (pos) {
         ["m", "maskulines", "prefix"],
         ["i", "unveränderliches", "prefix"],
       ];
-      let allPosArray = [];
+      const allPosArray = [];
       pos.innerHTML.split(", ").forEach(function (component) {
-        let posArray = [];
+        const posArray = [];
         posMap.forEach(function (pair) {
           if (component.includes(pair[0])) {
             if (pair[2] === "prefix") {
@@ -82,15 +82,15 @@ formatDefinition();
 /**
  * Sentences
  */
-let sentencesInner = document.getElementById("sentences_inner");
-let sentencesData = sentencesInner.innerHTML;
-let sentencesPairs = sentencesData.split("\n\n");
+const sentencesInner = document.getElementById("sentences_inner");
+const sentencesData = sentencesInner.innerHTML;
+const sentencesPairs = sentencesData.split("\n\n");
 shuffleArray(sentencesPairs, false);
 
 let currentSentence = 0;
-let sentenceCounter = document.getElementById("sentence_counter");
+const sentenceCounter = document.getElementById("sentence_counter");
 
-let audioButton = function (text) {
+const audioButton = function (text) {
   return `<div class="button svg-button small play-sentence" data-text="${encodeURIComponent(
     text
   )}">
@@ -101,8 +101,8 @@ let audioButton = function (text) {
 };
 
 function refreshExampleSentences() {
-  let fr = sentencesPairs[currentSentence].split("\n")[0];
-  let de = sentencesPairs[currentSentence].split("\n")[1];
+  const fr = sentencesPairs[currentSentence].split("\n")[0];
+  const de = sentencesPairs[currentSentence].split("\n")[1];
   sentencesInner.innerHTML = frenchFirst
     ? `<div class="fr">${fr}</div><span class="de spoiler">${de}</span>`
     : `<div class="de">${de}</div><span class="fr spoiler">${fr}</span>`;
@@ -116,11 +116,11 @@ function formatSentences(within = document) {
   within
     .querySelectorAll(".fr:not(:has(.sentence-with-audio))")
     .forEach(function (el) {
-      let text = beautifyText(el.innerHTML, true);
-      let containsPunctuation = text.match(/[.!?]/);
+      const text = beautifyText(el.innerHTML, true);
+      const containsPunctuation = text.match(/[.!?]/);
       el.innerHTML = text;
       if (containsPunctuation) {
-        let textContent = el.textContent;
+        const textContent = el.textContent;
         el.innerHTML = `<span class="sentence-with-audio">${audioButton(
           textContent
         )}<span>${text}</span></span>`;
@@ -150,10 +150,10 @@ function initAudioButtons(within = document) {
   within.querySelectorAll(".play-sentence").forEach(function (el) {
     el.onclick = function (event) {
       event.stopPropagation();
-      let text = this.dataset.text;
-      let url = `https://translate.google.com/translate_tts?ie=UTF-8&q=${text}&tl=fr-FR&client=tw-ob`;
+      const text = this.dataset.text;
+      const url = `https://translate.google.com/translate_tts?ie=UTF-8&q=${text}&tl=fr-FR&client=tw-ob`;
 
-      let audioCurrent = document.querySelector("audio");
+      const audioCurrent = document.querySelector("audio");
       audioCurrent.src = url;
       audioCurrent.play();
     };
@@ -162,7 +162,7 @@ function initAudioButtons(within = document) {
 
 refreshExampleSentences();
 formatSentences();
-let nextSentenceButton = document.getElementById("next_sentence");
+const nextSentenceButton = document.getElementById("next_sentence");
 nextSentenceButton.onclick = nextSentenceHandler;
 sentencesInner.ondblclick = nextSentenceHandler;
 
@@ -174,14 +174,27 @@ function nextSentenceHandler() {
 /**
  * Conjugations
  */
-let conjugationTable = document.getElementById("conjugation-table");
+const conjugationTable = document.getElementById("conjugation-table");
+const conjugationGrammar = document.getElementById("conjugation-grammar");
+
+const aux = conjugationTable ? conjugationTable.dataset.aux : "avoir";
+const isHAspire = conjugationTable
+  ? conjugationTable.dataset.hAspire === "true"
+  : false;
+const isOnlyThirdPerson = conjugationTable
+  ? conjugationTable.dataset.onlyThirdPerson === "true"
+  : false;
+const isReflexive = conjugationTable
+  ? conjugationTable.dataset.reflexive === "true"
+  : false;
+
 if (conjugationTable) {
   let showRegularConjugations = false;
-  let showHideButton = document.getElementById("show-hide-button");
-  let label = document.getElementById("show-hide-label");
-  let verbClassification = document.getElementById("verb-classification");
+  const showHideButton = document.getElementById("show-hide-button");
+  const label = document.getElementById("show-hide-label");
+  const verbClassification = document.getElementById("verb-classification");
 
-  let regularTenseRows = document.querySelectorAll("tr.regular_tense");
+  const regularTenseRows = document.querySelectorAll("tr.regular_tense");
   if (regularTenseRows.length === 0) {
     showHideButton.remove();
   } else {
@@ -211,7 +224,7 @@ if (conjugationTable) {
       .querySelectorAll(":is(.tense,.regular,.irregular) > div")
       .forEach(function (el) {
         el.classList.add("squished");
-        let scaleRatio = el.offsetWidth / el.scrollWidth;
+        const scaleRatio = el.offsetWidth / el.scrollWidth;
         if (scaleRatio < 1) {
           el.style.transform = `scaleX(${scaleRatio})`;
         }
@@ -219,23 +232,16 @@ if (conjugationTable) {
   }
   squish_cells();
 
-  let conjugationGrammar = document.getElementById("conjugation-grammar");
-  let conjugationTable = document.getElementById("conjugation-table");
-  let aux = conjugationTable.dataset.aux;
-  let isHAspire = conjugationTable.dataset.hAspire === "true";
-  let isOnlyThirdPerson = conjugationTable.dataset.onlyThirdPerson === "true";
-  let isReflexive = conjugationTable.dataset.reflexive === "true";
-
   conjugationTable.querySelectorAll("tr").forEach(function (el) {
-    let tense = el.dataset.tense;
+    const tense = el.dataset.tense;
     el.onclick = function () {
       conjugationGrammar.innerHTML = "";
-      for (let grammarId of grammar.tenses[tense]) {
-        let grammarElement = document.createElement("grammar");
+      for (const grammarId of grammar.tenses[tense]) {
+        const grammarElement = document.createElement("grammar");
         grammarElement.dataset.id = grammarId;
         conjugationGrammar.appendChild(grammarElement);
       }
-      let loadedGrammarElements = loadAllGrammar();
+      const loadedGrammarElements = loadAllGrammar();
       if (loadedGrammarElements.length === 1) {
         expandSection(loadedGrammarElements[0]);
       }
@@ -270,15 +276,15 @@ function loadGrammar(id, into) {
     into.innerHTML = `Fehler: Grammatik ${id} nicht gefunden.`;
     return;
   }
-  let htmlString = grammar.content[id];
+  const htmlString = grammar.content[id];
 
-  let grammarElement = document.createElement("div");
+  const grammarElement = document.createElement("div");
   grammarElement.className = "section";
   grammarElement.innerHTML = htmlString;
 
   into.parentElement.replaceChild(grammarElement, into);
 
-  let content = grammarElement.querySelector(".section-content");
+  const content = grammarElement.querySelector(".section-content");
   if (content) {
     content.innerHTML += `<div class="github"><a href="${grammar.github[id]}">Auf GitHub bearbeiten</a></div>`;
   }
@@ -287,8 +293,8 @@ function loadGrammar(id, into) {
   formatSentences(grammarElement);
 
   // fall back map
-  let conjugationInfinitive = "regarder";
-  let tenseMap = {
+  const conjugationInfinitive = "regarder";
+  const tenseMap = {
     P: ["regarde", "regardes", "regarde", "regardons", "regardez", "regardent"],
     PC: ["regardé"],
     IT: [
@@ -334,17 +340,17 @@ function loadGrammar(id, into) {
       "regardèrent",
     ],
   };
-  if (conjugationTable && conjugationGrammar.contains(grammarElement)) {
+  if (conjugationTable && conjugationGrammar && conjugationGrammar.contains(grammarElement)) {
     conjugationInfinitive = word;
     document.querySelectorAll("#conjugation-table tr").forEach(function (el) {
-      let tenseValues = [...el.querySelectorAll("td[data-full]")].map(
+      const tenseValues = [...el.querySelectorAll("td[data-full]")].map(
         (td) => td.dataset.full
       );
       tenseMap[el.dataset.tense] = tenseValues;
     });
   }
 
-  for (let tense in tenseMap) {
+  for (const tense in tenseMap) {
     fillInConjugationTable(grammarElement, tenseMap[tense], tense);
   }
   fillInConjugationTable(grammarElement, [conjugationInfinitive], "INFINITIVE");
@@ -354,9 +360,9 @@ function loadGrammar(id, into) {
 }
 
 function loadAllGrammar() {
-  let loadedGrammarElements = [];
+  const loadedGrammarElements = [];
   document.querySelectorAll("grammar[data-id]").forEach(function (el) {
-    let id = el.dataset.id;
+    const id = el.dataset.id;
     loadedGrammarElements.push(loadGrammar(id, el));
   });
   return loadedGrammarElements;
@@ -368,7 +374,8 @@ function fillInConjugationTable(within, tenseValues, tense) {
       .querySelectorAll(`.section *[data-tense="${tense}"]`)
       .forEach(function (tenseElement, index) {
         if (tenseValues[index] !== "") {
-          let tenseValue = tenseValues[Math.min(index, tenseValues.length - 1)];
+          const tenseValue =
+            tenseValues[Math.min(index, tenseValues.length - 1)];
           tenseElement.textContent += tenseValue;
 
           if (tenseValue.match(/^[aeiouàâäéèêëîïôöùûüh]/) && !isHAspire) {
@@ -387,7 +394,7 @@ function formatConjugationTables(within) {
       el.dataset.reflexive = isReflexive;
     }
 
-    let audioSentence = [...el.querySelectorAll("tr")]
+    const audioSentence = [...el.querySelectorAll("tr")]
       .map((tr) => getVisibleText(tr))
       .filter((text) => text.length > 0)
       .join(", ")
@@ -399,7 +406,7 @@ function formatConjugationTables(within) {
       el.parentElement.querySelector(".play-sentence").outerHTML =
         audioButton(audioSentence);
     } else {
-      let wrapper = document.createElement("div");
+      const wrapper = document.createElement("div");
       wrapper.className = "section-conjugation-table-wrapper";
       wrapper.innerHTML = `
           <div class="section-conjugation-table-wrapper">
@@ -411,12 +418,12 @@ function formatConjugationTables(within) {
           </div>
         `;
       el.parentNode.replaceChild(wrapper, el);
-      let reflexiveButton = wrapper.querySelector(".reflexive-button");
+      const reflexiveButton = wrapper.querySelector(".reflexive-button");
       if (isReflexive) {
         reflexiveButton.style.display = "none";
       }
       reflexiveButton.onclick = () => {
-        let table = wrapper.querySelector(".section-conjugation-table");
+        const table = wrapper.querySelector(".section-conjugation-table");
         table.dataset.reflexive =
           table.dataset.reflexive === "true" ? "false" : "true";
         table.dataset.aux = table.dataset.reflexive === "true" ? "etre" : aux;
@@ -430,10 +437,10 @@ function formatConjugationTables(within) {
 /**
  * Grammar library
  */
-let grammarLibrary = document.getElementById("grammar-library");
-let grammarSections = document.getElementById("grammar-sections");
-let showHideButton = document.getElementById("show-hide-grammar-library");
-let closeLibraryButton = document.getElementById("close-grammar-library");
+const grammarLibrary = document.getElementById("grammar-library");
+const grammarSections = document.getElementById("grammar-sections");
+const showHideButton = document.getElementById("show-hide-grammar-library");
+const closeLibraryButton = document.getElementById("close-grammar-library");
 let isRendered = false;
 if (grammar) {
   showHideButton.onclick = function () {
@@ -494,7 +501,7 @@ function enableSectionToggle(within = document) {
   within.querySelectorAll(".section-title").forEach(function (title) {
     title.onclick = function () {
       if (title.dataset.grammar) {
-        let newGrammar = loadGrammar(
+        const newGrammar = loadGrammar(
           title.dataset.grammar,
           title.parentElement
         );
@@ -508,7 +515,7 @@ function enableSectionToggle(within = document) {
 enableSectionToggle();
 
 function expandSection(section) {
-  let content = section.querySelector(".section-content");
+  const content = section.querySelector(".section-content");
   section.classList.toggle("expanded");
 
   if (content.style.maxHeight) {
@@ -530,8 +537,8 @@ function expandSection(section) {
 /**
  * GitHub
  */
-let github = document.querySelector(".github > a");
-let rank = document.querySelector(".rank").dataset.content;
+const github = document.querySelector(".github > a");
+const rank = document.querySelector(".rank").dataset.content;
 if (rank >= "1" && rank <= "5000") {
   github.href = `https://github.com/jacbz/anki_french/blob/main/cards/${rank.padStart(
     4,
@@ -555,36 +562,36 @@ function getAnkiPrefix() {
 }
 
 function getVisibleText(htmlElement) {
-  let isVisible = (element) => {
-    let style = window.getComputedStyle(element);
+  const isVisible = (element) => {
+    const style = window.getComputedStyle(element);
     return (
       style.display !== "none" &&
       style.visibility !== "hidden" &&
       style.opacity !== "0"
     );
   };
-  let getPseudoElementContent = (element, pseudo) => {
-    let style = window.getComputedStyle(element, pseudo);
-    let content = style.content.replace(/^["']|["']$/g, "");
+  const getPseudoElementContent = (element, pseudo) => {
+    const style = window.getComputedStyle(element, pseudo);
+    const content = style.content.replace(/^["']|["']$/g, "");
     return content !== "none" ? content : "";
   };
   let visibleText = "";
-  let processNode = (node) => {
+  const processNode = (node) => {
     if (node.nodeType === Node.TEXT_NODE) {
       if (isVisible(node.parentElement)) {
-        let text = node.textContent.trim();
+        const text = node.textContent.trim();
         if (text.length > 0) {
           visibleText += text + " ";
         }
       }
     } else if (node.nodeType === Node.ELEMENT_NODE) {
       if (isVisible(node)) {
-        let beforeContent = getPseudoElementContent(node, ":before");
+        const beforeContent = getPseudoElementContent(node, ":before");
         if (beforeContent) visibleText = visibleText.trim() + beforeContent;
-        for (let childNode of node.childNodes) {
+        for (const childNode of node.childNodes) {
           processNode(childNode);
         }
-        let afterContent = getPseudoElementContent(node, ":after");
+        const afterContent = getPseudoElementContent(node, ":after");
         if (afterContent) visibleText = visibleText.trim() + afterContent;
       }
     }
