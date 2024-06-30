@@ -13,7 +13,7 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedes Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Avant d’entrer dans la chambre de mon fils j’entrai dans la mienne.
+  Avant d’entrer dans la chambre de mon fils, j'entrai dans la mienne.
   Bevor ich das Zimmer meines Sohnes betrat, ging ich in mein eigenes.
 
   Je vais me reposer dans ma chambre.
@@ -59,7 +59,7 @@ Beispielsätze: |-
   Die Camera obscura ist ein Gerät, das in der Fotografie verwendet wird, um Filme zu entwickeln.
 
   La chambre de fille était peinte en rose et décorée de fleurs.
-  Das Mädchenzimmer war in rosa gestrichen und mit Blumen dekoriert.
+  Das Mädchenzimmer war in Rosa gestrichen und mit Blumen dekoriert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
