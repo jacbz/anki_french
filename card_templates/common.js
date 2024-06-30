@@ -1,6 +1,6 @@
 function formatDefinition() {
   document.querySelectorAll(".definition").forEach(function (def) {
-    var text = def.innerHTML;
+    let text = def.innerHTML;
 
     if (text.includes(",") || text.includes(";")) {
       text = text.replace(
@@ -20,7 +20,7 @@ function beautifyText(text, isFrench) {
   if (text.length === 0) {
     return text;
   }
-  var text = text.replace(/([^<>\s])'/g, "$1’"); // convert apostrophes
+  text = text.replace(/([^<>\s])'/g, "$1’"); // convert apostrophes
   text = text.replaceAll("...", "…"); // convert ellipsis
   if (isFrench) {
     // insert thin non-breaking space before punctuation (but not inside HTML tags)
@@ -37,7 +37,7 @@ function beautifyText(text, isFrench) {
     if (text.includes("<br>-") || text.includes("<br>–")) {
       const lines = text.split("<br>");
       const formattedLines = [];
-      for (var line of lines) {
+      for (let line of lines) {
         line = line.trim();
         if (line.startsWith("–") || line.startsWith("-")) {
           line = line.replace(/^(–|-)\s*/, "");
@@ -53,14 +53,14 @@ function beautifyText(text, isFrench) {
 }
 
 function shuffleArray(arr, persist = true) {
-  var seed = Math.random();
+  let seed = Math.random();
   if (persist) {
     Persistence.setItem(seed);
   } else {
     seed = Persistence.getItem();
     Persistence.clear();
   }
-  var currentSeed = seed;
+  let currentSeed = seed;
   for (let i = arr.length - 1; i > 0; i--) {
     currentSeed = (currentSeed * 16807) % 2147483647;
     const j = Math.floor((currentSeed / 2147483647) * (i + 1));
