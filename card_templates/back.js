@@ -337,7 +337,7 @@ function loadGrammar(id, into) {
   if (conjugationTable && conjugationGrammar.contains(grammarElement)) {
     conjugationInfinitive = word;
     document.querySelectorAll("#conjugation-table tr").forEach(function (el) {
-      const tenseValues = [...el.querySelectorAll("td[data-full]")].map(
+      var tenseValues = [...el.querySelectorAll("td[data-full]")].map(
         (td) => td.dataset.full
       );
       tenseMap[el.dataset.tense] = tenseValues;
@@ -399,7 +399,7 @@ function formatConjugationTables(within) {
       el.parentElement.querySelector(".play-sentence").outerHTML =
         audioButton(audioSentence);
     } else {
-      const wrapper = document.createElement("div");
+      var wrapper = document.createElement("div");
       wrapper.className = "section-conjugation-table-wrapper";
       wrapper.innerHTML = `
           <div class="section-conjugation-table-wrapper">
@@ -428,11 +428,76 @@ function formatConjugationTables(within) {
 }
 
 /**
+ * Grammar library
+ */
+var grammarLibrary = document.getElementById("grammar-library");
+var grammarSections = document.getElementById("grammar-sections");
+var showHideButton = document.getElementById("show-hide-grammar-library");
+var closeLibraryButton = document.getElementById("close-grammar-library");
+var isRendered = false;
+if (grammar) {
+  showHideButton.onclick = function () {
+    grammarLibrary.classList.remove("collapsed");
+  
+    if (!isRendered) {
+      isRendered = true;
+      renderGrammaryLibrary();
+    }
+    window.scrollTo({
+      top: grammarLibrary.getBoundingClientRect().top + window.scrollY,
+      behavior: "smooth",
+    });
+  }
+  closeLibraryButton.onclick = function () {
+    grammarLibrary.classList.add("collapsed");
+  }
+} else {
+  grammarLibrary.remove();
+}
+
+function renderGrammaryLibrary() {
+  for (const [category, subcategories] of Object.entries(grammar.index)) {
+    const categorySection = document.createElement('div');
+    categorySection.className = 'section';
+
+    const categoryTitle = document.createElement('div');
+    categoryTitle.className = 'section-title';
+    categoryTitle.textContent = category;
+    categorySection.appendChild(categoryTitle);
+
+    const categoryContent = document.createElement('div');
+    categoryContent.className = 'section-content';
+
+    for (const [subcategory, id] of Object.entries(subcategories)) {
+      const subcategorySection = document.createElement('div');
+      subcategorySection.className = 'section';
+
+      const subcategoryTitle = document.createElement('div');
+      subcategoryTitle.className = 'section-title';
+      subcategoryTitle.dataset.grammar = id;
+      subcategoryTitle.innerHTML = subcategory;
+      subcategorySection.appendChild(subcategoryTitle);
+
+      categoryContent.appendChild(subcategorySection);
+    }
+
+    categorySection.appendChild(categoryContent);
+    grammarSections.appendChild(categorySection);
+  }
+  enableSectionToggle();
+}
+
+/**
  * Collapsible sections
  */
 function enableSectionToggle(within = document) {
   within.querySelectorAll(".section-title").forEach(function (title) {
     title.onclick = function () {
+      if (title.dataset.grammar) {
+        var newGrammar = loadGrammar(title.dataset.grammar, title.parentElement);
+        expandSection(newGrammar);
+        return;
+      }
       expandSection(title.parentElement);
     };
   });
@@ -440,12 +505,22 @@ function enableSectionToggle(within = document) {
 enableSectionToggle();
 
 function expandSection(section) {
-  section.classList.toggle("expanded");
   var content = section.querySelector(".section-content");
+  section.classList.toggle("expanded");
+
   if (content.style.maxHeight) {
     content.style.maxHeight = null;
   } else {
     content.style.maxHeight = content.scrollHeight + "px";
+    
+    var ancestor = section.parentElement;
+    while (ancestor) {
+      console.log(ancestor, ancestor.scrollHeight)
+      if (ancestor.classList.contains("section-content")) {
+        ancestor.style.maxHeight = 'unset';
+      }
+      ancestor = ancestor.parentElement;
+    }
   }
 }
 

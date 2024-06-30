@@ -467,6 +467,18 @@ hr {
 
   .section {
     margin: 0 !important;
+
+    .section {
+      padding-left: 1.5em;
+  
+      .section-title {
+        font-size: 100%;
+      }
+    }
+
+    &.expanded .section-title:after {
+      content: "\2212";
+    }  
   }
 
   .section-title {
@@ -481,7 +493,6 @@ hr {
     &:active {
       opacity: 0.7;
     }
-  
     &:after {
       content: "\002B";
       font-weight: bold;
@@ -750,3 +761,54 @@ tr.regular_tense {
 .night_mode .regular {
   color: white;
 }
+
+/**
+  Grammar library
+  -----------------------------------------------
+**/
+#grammar-library {
+  transition: all 0.3s ease-out;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+  width: 100%;
+
+  #show-hide-grammar-library {
+    display: none;
+    border: none;
+  }
+
+  #grammar-sections {
+    #grammar-sections-title {
+      margin-bottom: 0.5em;
+      font-weight: bold;
+      font-size: 120%;
+    }
+
+    .section-title {
+      font-weight: normal;
+    }
+  }
+
+  &.collapsed {
+    width: 112px;
+    height: 36px;
+    border-radius: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    #show-hide-grammar-library {
+      display: flex;
+    }
+
+    #close-grammar-library {
+      display: none;
+    }
+
+    #grammar-sections {
+      display: none;
+    }
+  }
+}
+
