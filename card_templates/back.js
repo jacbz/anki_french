@@ -293,7 +293,7 @@ function loadGrammar(id, into) {
   formatSentences(grammarElement);
 
   // fall back map
-  const conjugationInfinitive = "regarder";
+  let conjugationInfinitive = "regarder";
   const tenseMap = {
     P: ["regarde", "regardes", "regarde", "regardons", "regardez", "regardent"],
     PC: ["regardé"],
@@ -525,7 +525,6 @@ function expandSection(section) {
 
     let ancestor = section.parentElement;
     while (ancestor) {
-      console.log(ancestor, ancestor.scrollHeight);
       if (ancestor.classList.contains("section-content")) {
         ancestor.style.maxHeight = "unset";
       }

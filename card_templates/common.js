@@ -37,7 +37,7 @@ function beautifyText(text, isFrench) {
     if (text.includes("<br>-") || text.includes("<br>–")) {
       const lines = text.split("<br>");
       const formattedLines = [];
-      for (const line of lines) {
+      for (let line of lines) {
         line = line.trim();
         if (line.startsWith("–") || line.startsWith("-")) {
           line = line.replace(/^(–|-)\s*/, "");

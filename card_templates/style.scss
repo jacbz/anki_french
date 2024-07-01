@@ -315,7 +315,7 @@ span.no-break {
     background: #eee;
     > * {
       opacity: 0;
-      transition: all 0.2s;      
+      transition: all 0.2s;
     }
   }
 }
@@ -363,7 +363,7 @@ span.spoiler {
 .section .github {
   text-align: right;
   a::before {
-    content: '' !important;
+    content: "" !important;
   }
 }
 
@@ -443,13 +443,12 @@ hr {
   }
 }
 
-.fr u,
-.de u {
-  text-decoration: none;
-  color: hsl(192, 70%, 50%);
-}
-
 .box {
+  u {
+    text-decoration: none;
+    color: hsl(192, 70%, 50%);
+  }
+
   .examples {
     &:not(:last-child) {
       margin-bottom: 0.75em;
@@ -469,16 +468,15 @@ hr {
     margin: 0 !important;
 
     .section {
-      padding-left: 1.5em;
-  
       .section-title {
         font-size: 100%;
+        background: rgba(0, 48, 73, 0.07);
       }
     }
 
     &.expanded > .section-title:after {
       content: "\2212";
-    }  
+    }
   }
 
   .section-title {
@@ -521,7 +519,11 @@ hr {
 }
 
 .night_mode .box .section-title {
-  background: rgb(0, 48, 73);
+  background: hsl(201, 100%, 18%);
+}
+
+.night_mode .box .section .section .section-title {
+  background: hsl(201, 100%, 13%);
 }
 
 @media (hover: hover) and (pointer: fine) {
@@ -612,7 +614,7 @@ hr {
   }
 }
 
-#conjugation-grammar >:first-child {
+#conjugation-grammar > :first-child {
   margin-top: 0.75em !important;
 }
 
@@ -811,4 +813,3 @@ tr.regular_tense {
     }
   }
 }
-
