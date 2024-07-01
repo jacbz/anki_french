@@ -29,7 +29,7 @@ Im Ordner [cards](cards) befinden sich alle 5000 Karten im YAML-Format.
 4. Erstelle einen Pull Request
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40330 Beispielsätzen (durchschnittlich 8.1 pro Karte). 127 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40328 Beispielsätzen (durchschnittlich 8.1 pro Karte). 133 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -67,7 +67,7 @@ Insgesamt gibt es 5000 Karten mit 40330 Beispielsätzen (durchschnittlich 8.1 pr
 | 32 | comme | wie, als | 12 |  | [Bearbeiten](cards/0032_comme.yml) |
 | 33 | ou | oder | 7 |  | [Bearbeiten](cards/0033_ou.yml) |
 | 34 | si | wenn, falls; doch | 11 |  | [Bearbeiten](cards/0034_si.yml) |
-| 35 | leur | ihr(-e); ihnen | 14 | X | [Bearbeiten](cards/0035_leur.yml) |
+| 35 | leur | ihr(-e/s); ihnen | 14 | X | [Bearbeiten](cards/0035_leur.yml) |
 | 36 | y | dort, dahin | 3 | X | [Bearbeiten](cards/0036_y.yml) |
 | 37 | dire | sagen | 12 |  | [Bearbeiten](cards/0037_dire.yml) |
 | 38 | elle | sie | 12 | X | [Bearbeiten](cards/0038_elle.yml) |
@@ -1409,7 +1409,7 @@ Insgesamt gibt es 5000 Karten mit 40330 Beispielsätzen (durchschnittlich 8.1 pr
 | 1374 | arrêt | Halt, Stopp | 12 |  | [Bearbeiten](cards/1374_arrêt.yml) |
 | 1375 | concours | Wettbewerb | 13 |  | [Bearbeiten](cards/1375_concours.yml) |
 | 1376 | vis-à-vis | gegenüber | 7 |  | [Bearbeiten](cards/1376_vis-à-vis.yml) |
-| 1377 | aboutir | zu etwas führen, Erfolg haben | 5 |  | [Bearbeiten](cards/1377_aboutir.yml) |
+| 1377 | aboutir | zu etwas führen, Erfolg haben | 5 | X | [Bearbeiten](cards/1377_aboutir.yml) |
 | 1378 | visiter | besichtigen; besuchen [+rendre] | 4 | X | [Bearbeiten](cards/1378_visiter.yml) |
 | 1379 | elle-même | (sie) selbst | 9 |  | [Bearbeiten](cards/1379_elle-même.yml) |
 | 1380 | démocratique | demokratisch | 2 |  | [Bearbeiten](cards/1380_démocratique.yml) |
@@ -1732,7 +1732,7 @@ Insgesamt gibt es 5000 Karten mit 40330 Beispielsätzen (durchschnittlich 8.1 pr
 | 1697 | concert | Konzert | 16 |  | [Bearbeiten](cards/1697_concert.yml) |
 | 1698 | couverture | Decke | 13 |  | [Bearbeiten](cards/1698_couverture.yml) |
 | 1699 | religion | Religion | 8 |  | [Bearbeiten](cards/1699_religion.yml) |
-| 1700 | appui | Unterstützung, Halt | 6 |  | [Bearbeiten](cards/1700_appui.yml) |
+| 1700 | appui | Unterstützung, Halt | 6 | X | [Bearbeiten](cards/1700_appui.yml) |
 | 1701 | théâtre | Theater | 15 |  | [Bearbeiten](cards/1701_théâtre.yml) |
 | 1702 | saint | heilig | 12 |  | [Bearbeiten](cards/1702_saint.yml) |
 | 1703 | conséquent | konsequent | 5 |  | [Bearbeiten](cards/1703_conséquent.yml) |
@@ -2078,7 +2078,7 @@ Insgesamt gibt es 5000 Karten mit 40330 Beispielsätzen (durchschnittlich 8.1 pr
 | 2043 | anniversaire | Geburtstag, Jubiläum | 16 |  | [Bearbeiten](cards/2043_anniversaire.yml) |
 | 2044 | issu | hervorgegangen, stammend | 7 |  | [Bearbeiten](cards/2044_issu.yml) |
 | 2045 | poursuite | Verfolgung | 12 |  | [Bearbeiten](cards/2045_poursuite.yml) |
-| 2046 | nôtre | Unsere | 9 |  | [Bearbeiten](cards/2046_nôtre.yml) |
+| 2046 | nôtre | unsere(-r/s) | 9 | X | [Bearbeiten](cards/2046_nôtre.yml) |
 | 2047 | éclairer | beleuchten, aufklären | 12 |  | [Bearbeiten](cards/2047_éclairer.yml) |
 | 2048 | consommer | verbrauchen, verzehren | 6 |  | [Bearbeiten](cards/2048_consommer.yml) |
 | 2049 | infirmier | Krankenpfleger | 9 |  | [Bearbeiten](cards/2049_infirmier.yml) |
@@ -2197,7 +2197,7 @@ Insgesamt gibt es 5000 Karten mit 40330 Beispielsätzen (durchschnittlich 8.1 pr
 | 2162 | génie | Genie | 14 |  | [Bearbeiten](cards/2162_génie.yml) |
 | 2163 | profession | Beruf | 9 |  | [Bearbeiten](cards/2163_profession.yml) |
 | 2164 | rumeur | Gerücht | 7 |  | [Bearbeiten](cards/2164_rumeur.yml) |
-| 2165 | mien | mein(-e/r/s) | 8 |  | [Bearbeiten](cards/2165_mien.yml) |
+| 2165 | mien | mein(-e/r/s) | 8 | X | [Bearbeiten](cards/2165_mien.yml) |
 | 2166 | drôle | lustig [noch Nomen]; seltsam [vor Nomen] | 15 |  | [Bearbeiten](cards/2166_drôle.yml) |
 | 2167 | plat | Gericht; flach | 13 |  | [Bearbeiten](cards/2167_plat.yml) |
 | 2168 | maman | Mama | 5 |  | [Bearbeiten](cards/2168_maman.yml) |
@@ -2242,7 +2242,7 @@ Insgesamt gibt es 5000 Karten mit 40330 Beispielsätzen (durchschnittlich 8.1 pr
 | 2207 | enfance | Kindheit | 14 |  | [Bearbeiten](cards/2207_enfance.yml) |
 | 2208 | là-dessus | darüber, dazu | 4 |  | [Bearbeiten](cards/2208_là-dessus.yml) |
 | 2209 | merveilleux | wunderbar, herrlich | 9 |  | [Bearbeiten](cards/2209_merveilleux.yml) |
-| 2210 | sien | seine(-r/s) | 11 |  | [Bearbeiten](cards/2210_sien.yml) |
+| 2210 | sien | seine(-r/s) | 11 | X | [Bearbeiten](cards/2210_sien.yml) |
 | 2211 | commenter | kommentieren | 2 |  | [Bearbeiten](cards/2211_commenter.yml) |
 | 2212 | inciter | [zum Handeln] ermuntern | 6 |  | [Bearbeiten](cards/2212_inciter.yml) |
 | 2213 | prière | Gebet | 13 |  | [Bearbeiten](cards/2213_prière.yml) |
@@ -3185,7 +3185,7 @@ Insgesamt gibt es 5000 Karten mit 40330 Beispielsätzen (durchschnittlich 8.1 pr
 | 3150 | ventre | Bauch | 14 |  | [Bearbeiten](cards/3150_ventre.yml) |
 | 3151 | soixante | sechzig | 7 |  | [Bearbeiten](cards/3151_soixante.yml) |
 | 3152 | bière | Bier | 5 |  | [Bearbeiten](cards/3152_bière.yml) |
-| 3153 | passif | passiv | 11 |  | [Bearbeiten](cards/3153_passif.yml) |
+| 3153 | passif | passiv | 10 |  | [Bearbeiten](cards/3153_passif.yml) |
 | 3154 | interrogation | Frage, Befragung | 7 |  | [Bearbeiten](cards/3154_interrogation.yml) |
 | 3155 | voile | Segel | 11 |  | [Bearbeiten](cards/3155_voile.yml) |
 | 3156 | accentuer | betonen, hervorheben | 2 |  | [Bearbeiten](cards/3156_accentuer.yml) |
@@ -3302,7 +3302,7 @@ Insgesamt gibt es 5000 Karten mit 40330 Beispielsätzen (durchschnittlich 8.1 pr
 | 3267 | référer | sich beziehen auf | 6 |  | [Bearbeiten](cards/3267_référer.yml) |
 | 3268 | obéir | gehorchen | 13 |  | [Bearbeiten](cards/3268_obéir.yml) |
 | 3269 | fusil | Gewehr | 5 |  | [Bearbeiten](cards/3269_fusil.yml) |
-| 3270 | taper | tippen, klopfen | 12 |  | [Bearbeiten](cards/3270_taper.yml) |
+| 3270 | taper | tippen, klopfen | 11 |  | [Bearbeiten](cards/3270_taper.yml) |
 | 3271 | cohérent | kohärent, schlüssig | 2 |  | [Bearbeiten](cards/3271_cohérent.yml) |
 | 3272 | discrétion | Diskretion, Verschwiegenheit | 9 |  | [Bearbeiten](cards/3272_discrétion.yml) |
 | 3273 | odeur | Geruch | 7 |  | [Bearbeiten](cards/3273_odeur.yml) |
@@ -4097,7 +4097,7 @@ Insgesamt gibt es 5000 Karten mit 40330 Beispielsätzen (durchschnittlich 8.1 pr
 | 4062 | détecter | entdecken, aufspüren | 2 |  | [Bearbeiten](cards/4062_détecter.yml) |
 | 4063 | capter | erfassen, einfangen | 3 |  | [Bearbeiten](cards/4063_capter.yml) |
 | 4064 | sceptique | skeptisch | 2 |  | [Bearbeiten](cards/4064_sceptique.yml) |
-| 4065 | vôtre | euer, eure | 11 |  | [Bearbeiten](cards/4065_vôtre.yml) |
+| 4065 | vôtre | euer, eure | 11 | X | [Bearbeiten](cards/4065_vôtre.yml) |
 | 4066 | problématique | Problemstellung | 4 |  | [Bearbeiten](cards/4066_problématique.yml) |
 | 4067 | voiler | verhüllen, verschleiern | 4 |  | [Bearbeiten](cards/4067_voiler.yml) |
 | 4068 | nationalité | Staatsangehörigkeit | 6 |  | [Bearbeiten](cards/4068_nationalité.yml) |
