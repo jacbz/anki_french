@@ -7,7 +7,7 @@ Wortart: v
 Wort mit Artikel: hausser
 Femininum / Plural: ''
 IPA: \o.se\
-Definition: erhöhen, steigern
+Definition: erhöhen, (an-)heben
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -42,5 +42,37 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>                
-Notiz: <div class="attention">Hier gibt es ein h aspiré, d.h. das Pronomen wird nicht
-  abgekürzt.</div>
+Notiz: |-
+  <div class="attention">Hier gibt es ein h aspiré, d.h. das Pronomen wird nicht abgekürzt.</div>
+
+  <hr>
+
+  <div class="section">
+    <div class="section-title"><i>augmenter</i>, <i>accroître</i> und <i>hausser</i></div>
+    <div class="section-content">
+
+      <p><span class="fr">Augmenter</span> (#823) wird verwendet, um eine Zunahme von Größe, Menge oder Grad in verschiedenen Kontexten anzuzeigen.</p>
+      <div class="examples">
+        <div class="fr">Le prix du lait a augmenté.</div>
+        <div class="de spoiler">Der Milchpreis ist gestiegen.</div>
+        <div class="fr">Nous devons augmenter la production pour répondre à la demande.</div>
+        <div class="de spoiler">Wir müssen die Produktion erhöhen, um die Nachfrage zu befriedigen.</div>
+      </div>
+
+      <p><span class="fr">Accroître</span> (#1523) bedeutet vergrößern, wachsen oder erweitern, meist bei abstrakten Begriffen wie Reichtum, Einfluss oder Ansehen; kann aber auch auf physische Dinge wie Flächen oder Mengen angewendet werden. Es impliziert oft einen allmählichen Prozess.</p>
+      <div class="examples">
+        <div class="fr">Nous devons accroître notre présence sur les marchés internationaux.</div>
+        <div class="de spoiler">Wir müssen unsere Präsenz auf den internationalen Märkten ausbauen.</div>
+        <div class="fr">L'entreprise cherche à accroître ses profits chaque année.</div>
+        <div class="de spoiler">Das Unternehmen strebt jedes Jahr an, seine Gewinne zu steigern.</div>
+      </div>
+
+      <p><span class="fr">Hausser</span> bedeutet etwas direkt und manchmal abrupt zu heben oder anzuheben; wird hauptsächlich mit Körperteilen, Preisen, Geräuschen verwendet und kann sich auch auf die Erhöhung des Niveaus von etwas beziehen.</p>
+      <div class="examples">
+        <div class="fr">Haussant les épaules, il a continué son chemin.</div>
+        <div class="de spoiler">Mit einem Schulterzucken setzte er seinen Weg fort.</div>
+        <div class="fr">Le gouvernement a haussé les taxes.</div>
+        <div class="de spoiler">Die Regierung hat die Steuern erhöht.</div>
+      </div>
+    </div>
+  </div>

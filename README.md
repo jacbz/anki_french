@@ -4,7 +4,7 @@ Hilf mit, das Deck **Französisch 5000** zu verbessern! Das Deck enthält die 50
 
 **[AnkiWeb](https://ankiweb.net/shared/info/1677131827)**
 
-<img src="https://i.imgur.com/JBlTvwE.png" alt="" width="500px">
+<img src="https://i.imgur.com/RfuTWyG.png" alt="" width="800px">
 
 Vielen Dank für deine Beiträge! Gemeinsam können wir dieses Deck noch besser machen.
 
@@ -29,7 +29,7 @@ Im Ordner [cards](cards) befinden sich alle 5000 Karten im YAML-Format.
 4. Erstelle einen Pull Request
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40328 Beispielsätzen (durchschnittlich 8.1 pro Karte). 133 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40328 Beispielsätzen (durchschnittlich 8.1 pro Karte). 134 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -1555,7 +1555,7 @@ Insgesamt gibt es 5000 Karten mit 40328 Beispielsätzen (durchschnittlich 8.1 pr
 | 1520 | négatif | Negativ, Nachteil | 7 |  | [Bearbeiten](cards/1520_négatif.yml) |
 | 1521 | approche | Annäherung, Herangehensweise | 11 |  | [Bearbeiten](cards/1521_approche.yml) |
 | 1522 | délai | Frist | 12 |  | [Bearbeiten](cards/1522_délai.yml) |
-| 1523 | accroître | vergrößern, steigern | 3 |  | [Bearbeiten](cards/1523_accroître.yml) |
+| 1523 | accroître | vergrößern, steigern | 3 | X | [Bearbeiten](cards/1523_accroître.yml) |
 | 1524 | bruit | Lärm, Geräusch | 16 |  | [Bearbeiten](cards/1524_bruit.yml) |
 | 1525 | humanité | Menschheit | 5 |  | [Bearbeiten](cards/1525_humanité.yml) |
 | 1526 | radio | Radio | 12 |  | [Bearbeiten](cards/1526_radio.yml) |
@@ -2209,7 +2209,7 @@ Insgesamt gibt es 5000 Karten mit 40328 Beispielsätzen (durchschnittlich 8.1 pr
 | 2174 | verre | Glas | 12 |  | [Bearbeiten](cards/2174_verre.yml) |
 | 2175 | spécifique | spezifisch | 5 |  | [Bearbeiten](cards/2175_spécifique.yml) |
 | 2176 | docteur | Doktor | 5 |  | [Bearbeiten](cards/2176_docteur.yml) |
-| 2177 | hausser | erhöhen, steigern | 8 | X | [Bearbeiten](cards/2177_hausser.yml) |
+| 2177 | hausser | erhöhen, (an-)heben | 8 | X | [Bearbeiten](cards/2177_hausser.yml) |
 | 2178 | fréquence | Häufigkeit | 12 |  | [Bearbeiten](cards/2178_fréquence.yml) |
 | 2179 | urgent | dringend | 7 |  | [Bearbeiten](cards/2179_urgent.yml) |
 | 2180 | trou | Loch | 12 |  | [Bearbeiten](cards/2180_trou.yml) |
