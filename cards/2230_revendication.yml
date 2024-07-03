@@ -7,7 +7,7 @@ Wortart: nf
 Wort mit Artikel: la revendication
 Femininum / Plural: ''
 IPA: \ʁə.vɑ̃.di.ka.sjɔ̃\
-Definition: Forderung, Anspruch
+Definition: Anspruch, Forderung
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -51,4 +51,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>                
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>revendication</i> und <i>exigence</i></div>
+    <div class="section-content">
+      <p><span class="fr">Revendication</span> bezieht sich auf eine Forderung, die häufig mit einem Anspruch oder einer Beanspruchung verbunden ist. Sie drückt oft einen Anspruch auf ein Recht, eine Anerkennung oder eine Entschädigung aus.</p>
+      <div class="examples">
+        <div class="fr">Les ouvriers ont présenté leurs revendications lors de la grève.</div>
+        <div class="de spoiler">Die Arbeiter haben ihre Forderungen während des Streiks vorgebracht.</div>
+        <div class="fr">Les revendications des droits civiques ont marqué les années 1960.</div>
+        <div class="de spoiler">Die Forderungen nach Bürgerrechten prägten die 1960er Jahre.</div>
+      </div>
+      <p><span class="fr">Exigence</span> (#1312) ist eine Anforderung oder eine Erwartung, die oft mit einem hohen Maß an Dringlichkeit oder Unvermeidlichkeit verbunden ist. Es bezieht sich auf etwas, das notwendig oder unerlässlich ist.</p>
+      <div class="examples">
+        <div class="fr">Les exigences du poste sont très élevées.</div>
+        <div class="de spoiler">Die Anforderungen an die Stelle sind sehr hoch.</div>
+        <div class="fr">Il a des exigences très strictes concernant la qualité.</div>
+        <div class="de spoiler">Er hat sehr strenge Anforderungen an die Qualität.</div>
+      </div>
+    </div>
+  </div>
