@@ -72,6 +72,7 @@
     max-height: 20px;
   }
 
+  /** increase the clickable area of the button **/
   &::before {
     content: "";
     position: absolute;
@@ -80,8 +81,6 @@
     border-radius: 100%;
   }
 }
-
-/** increase the clickable area of the button **/
 
 @media (hover: hover) and (pointer: fine) {
   .button:hover {

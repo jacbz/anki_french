@@ -21,7 +21,6 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * Ziel: [destination](cards/2301_destination.yml) (#2301), [cible](cards/2740_cible.yml) (#2740)
 * Gefangener: [prisonnier](cards/1618_prisonnier.yml) (#1618), [détenu](cards/2741_détenu.yml) (#2741)
 * Decke: [couverture](cards/1698_couverture.yml) (#1698), [plafond](cards/2823_plafond.yml) (#2823)
-* Fluss: [rivière](cards/2223_rivière.yml) (#2223), [fleuve](cards/2893_fleuve.yml) (#2893)
 * anfangen, beginnen: [commencer](cards/0139_commencer.yml) (#139), [amorcer](cards/2897_amorcer.yml) (#2897)
 * beruhigen: [rassurer](cards/1842_rassurer.yml) (#1842), [calmer](cards/2909_calmer.yml) (#2909)
 * Wahl: [choix](cards/0436_choix.yml) (#436), [scrutin](cards/2913_scrutin.yml) (#2913)
