@@ -7,7 +7,7 @@ Wortart: nm
 Wort mit Artikel: le fleuve
 Femininum / Plural: ''
 IPA: \flœv\
-Definition: Fluss
+Definition: '[ins Meer mündender] Fluss'
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -36,4 +36,27 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>                
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>rivière</i> und <i>fleuve</i></div>
+    <div class="section-content">
+      <p><span class="fr">Rivière</span> (#2223) bezeichnet einen Fluss, der in einen anderen Fluss mündet. Es ist ein Nebenfluss oder Zufluss eines größeren Gewässers.</p>
+      <div class="examples">
+        <div class="fr">La rivière se jette dans une autre rivière, qui se jette dans un fleuve.</div>
+        <div class="de spoiler">Der Fluss mündet in einen anderen Fluss, der in einen Strom mündet.</div>
+      </div>
+      <p><span class="fr">Fleuve</span> bezeichnet einen Strom, der direkt ins Meer mündet. Es ist der Hauptwasserlauf eines Flusssystems.</p>
+      <div class="examples">
+        <div class="fr">L'Amazone se jette dans l'Atlantique.</div>
+        <div class="de spoiler">Der Amazonas mündet in den Atlantik.</div>
+        <div class="fr">La Loire traverse la France d'est en ouest pour rejoindre l'Atlantique.</div>
+        <div class="de spoiler">Die Loire durchquert Frankreich von Ost nach West, um den Atlantik zu erreichen.</div>
+      </div>
+      <p>Wichtige Unterscheidungsmerkmale:</p>
+      <ul>
+        <li>Ein <span class="fr">fleuve</span> mündet immer ins Meer, während eine <span class="fr">rivière</span> in einen anderen Fluss mündet.</li>
+        <li>Die Größe oder der Wasserfluss sind nicht die entscheidenden Kriterien für die Unterscheidung.</li>
+        <li>Es gibt auch Küstenflüsse (<span class="fr">fleuves côtiers</span>), die ins Meer münden, aber keine <span class="fr">rivières</span> sind.</li>
+      </ul>
+    </div>
+  </div>
