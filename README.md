@@ -37,7 +37,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40328 Beispielsätzen (durchschnittlich 8.1 pro Karte). 134 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40321 Beispielsätzen (durchschnittlich 8.1 pro Karte). 139 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -378,7 +378,7 @@ Insgesamt gibt es 5000 Karten mit 40328 Beispielsätzen (durchschnittlich 8.1 pr
 | 335 | clair | klar, hell | 14 |  | [Bearbeiten](cards/0335_clair.yml) |
 | 336 | chercher | suchen | 12 |  | [Bearbeiten](cards/0336_chercher.yml) |
 | 337 | entrer | hineingehen, eintreten | 13 |  | [Bearbeiten](cards/0337_entrer.yml) |
-| 338 | proposer | vorschlagen | 7 |  | [Bearbeiten](cards/0338_proposer.yml) |
+| 338 | proposer | vorschlagen, anbieten | 7 |  | [Bearbeiten](cards/0338_proposer.yml) |
 | 339 | apporter | bringen | 11 |  | [Bearbeiten](cards/0339_apporter.yml) |
 | 340 | programme | Programm | 13 |  | [Bearbeiten](cards/0340_programme.yml) |
 | 341 | loin | weit | 17 |  | [Bearbeiten](cards/0341_loin.yml) |
@@ -638,7 +638,7 @@ Insgesamt gibt es 5000 Karten mit 40328 Beispielsätzen (durchschnittlich 8.1 pr
 | 595 | réduire | verringern, reduzieren | 12 |  | [Bearbeiten](cards/0595_réduire.yml) |
 | 596 | d’après | gemäß | 2 |  | [Bearbeiten](cards/0596_d’après.yml) |
 | 597 | préférer | bevorzugen | 12 |  | [Bearbeiten](cards/0597_préférer.yml) |
-| 598 | rue | Straße | 13 |  | [Bearbeiten](cards/0598_rue.yml) |
+| 598 | rue | Straße, Gasse | 13 | X | [Bearbeiten](cards/0598_rue.yml) |
 | 599 | riche | reich | 16 |  | [Bearbeiten](cards/0599_riche.yml) |
 | 600 | bref | kurz; jedenfalls | 7 |  | [Bearbeiten](cards/0600_bref.yml) |
 | 601 | nommer | benennen, ernennen | 11 |  | [Bearbeiten](cards/0601_nommer.yml) |
@@ -664,7 +664,7 @@ Insgesamt gibt es 5000 Karten mit 40328 Beispielsätzen (durchschnittlich 8.1 pr
 | 621 | élément | Element | 12 |  | [Bearbeiten](cards/0621_élément.yml) |
 | 622 | local | örtlich | 10 |  | [Bearbeiten](cards/0622_local.yml) |
 | 623 | été | Sommer | 5 |  | [Bearbeiten](cards/0623_été.yml) |
-| 624 | inviter | einladen | 12 |  | [Bearbeiten](cards/0624_inviter.yml) |
+| 624 | inviter | einladen | 14 |  | [Bearbeiten](cards/0624_inviter.yml) |
 | 625 | extérieur | Außen- | 12 |  | [Bearbeiten](cards/0625_extérieur.yml) |
 | 626 | pied | Fuß | 13 |  | [Bearbeiten](cards/0626_pied.yml) |
 | 627 | mission | Auftrag, Mission | 13 |  | [Bearbeiten](cards/0627_mission.yml) |
@@ -1352,7 +1352,7 @@ Insgesamt gibt es 5000 Karten mit 40328 Beispielsätzen (durchschnittlich 8.1 pr
 | 1309 | circuit | Schaltung, Rundkurs | 12 |  | [Bearbeiten](cards/1309_circuit.yml) |
 | 1310 | terrible | schrecklich, furchtbar | 4 |  | [Bearbeiten](cards/1310_terrible.yml) |
 | 1311 | degré | Grad | 12 |  | [Bearbeiten](cards/1311_degré.yml) |
-| 1312 | exigence | Anspruch, Forderung | 9 |  | [Bearbeiten](cards/1312_exigence.yml) |
+| 1312 | exigence | (An-)forderung, Erfordernis | 9 |  | [Bearbeiten](cards/1312_exigence.yml) |
 | 1313 | rêve | Traum | 15 |  | [Bearbeiten](cards/1313_rêve.yml) |
 | 1314 | inspirer | inspirieren, einatmen | 13 |  | [Bearbeiten](cards/1314_inspirer.yml) |
 | 1315 | opérer | operieren, durchführen | 5 |  | [Bearbeiten](cards/1315_opérer.yml) |
@@ -1772,7 +1772,7 @@ Insgesamt gibt es 5000 Karten mit 40328 Beispielsätzen (durchschnittlich 8.1 pr
 | 1729 | front | Stirn, Front | 12 |  | [Bearbeiten](cards/1729_front.yml) |
 | 1730 | suspendre | aufhängen, aussetzen | 10 |  | [Bearbeiten](cards/1730_suspendre.yml) |
 | 1731 | calme | Ruhe, Stille | 13 |  | [Bearbeiten](cards/1731_calme.yml) |
-| 1732 | montagne | Berg | 14 |  | [Bearbeiten](cards/1732_montagne.yml) |
+| 1732 | montagne | Berg | 14 | X | [Bearbeiten](cards/1732_montagne.yml) |
 | 1733 | sévère | schwer, streng | 4 |  | [Bearbeiten](cards/1733_sévère.yml) |
 | 1734 | apparemment | anscheinend, offenbar | 2 |  | [Bearbeiten](cards/1734_apparemment.yml) |
 | 1735 | présidence | Präsidentschaft | 4 |  | [Bearbeiten](cards/1735_présidence.yml) |
@@ -1922,7 +1922,7 @@ Insgesamt gibt es 5000 Karten mit 40328 Beispielsätzen (durchschnittlich 8.1 pr
 | 1879 | boire | trinken | 13 |  | [Bearbeiten](cards/1879_boire.yml) |
 | 1880 | richesse | Reichtum | 7 |  | [Bearbeiten](cards/1880_richesse.yml) |
 | 1881 | caisse | Kasse | 13 |  | [Bearbeiten](cards/1881_caisse.yml) |
-| 1882 | hasard | Zufall | 12 |  | [Bearbeiten](cards/1882_hasard.yml) |
+| 1882 | hasard | Zufall | 12 | X | [Bearbeiten](cards/1882_hasard.yml) |
 | 1883 | héros | Held | 5 |  | [Bearbeiten](cards/1883_héros.yml) |
 | 1884 | oreille | Ohr | 12 |  | [Bearbeiten](cards/1884_oreille.yml) |
 | 1885 | incident | Vorfall, Zwischenfall | 7 |  | [Bearbeiten](cards/1885_incident.yml) |
@@ -2254,31 +2254,31 @@ Insgesamt gibt es 5000 Karten mit 40328 Beispielsätzen (durchschnittlich 8.1 pr
 | 2211 | commenter | kommentieren | 2 |  | [Bearbeiten](cards/2211_commenter.yml) |
 | 2212 | inciter | [zum Handeln] ermuntern | 6 |  | [Bearbeiten](cards/2212_inciter.yml) |
 | 2213 | prière | Gebet | 13 |  | [Bearbeiten](cards/2213_prière.yml) |
-| 2214 | nécessiter | erfordern, benötigen | 5 |  | [Bearbeiten](cards/2214_nécessiter.yml) |
-| 2215 | urbain | städtisch, urban | 5 |  | [Bearbeiten](cards/2215_urbain.yml) |
+| 2214 | nécessiter | erfordern | 5 |  | [Bearbeiten](cards/2214_nécessiter.yml) |
+| 2215 | urbain | städtisch | 5 |  | [Bearbeiten](cards/2215_urbain.yml) |
 | 2216 | musée | Museum | 3 |  | [Bearbeiten](cards/2216_musée.yml) |
 | 2217 | pluie | Regen | 12 |  | [Bearbeiten](cards/2217_pluie.yml) |
-| 2218 | précaution | Vorsichtsmaßnahme | 7 |  | [Bearbeiten](cards/2218_précaution.yml) |
+| 2218 | précaution | Vorsicht(-smaßnahme) | 7 |  | [Bearbeiten](cards/2218_précaution.yml) |
 | 2219 | anticiper | vorwegnehmen, vorhersehen | 6 |  | [Bearbeiten](cards/2219_anticiper.yml) |
 | 2220 | cheval | Pferd | 14 |  | [Bearbeiten](cards/2220_cheval.yml) |
-| 2221 | communiqué | Pressemitteilung | 4 |  | [Bearbeiten](cards/2221_communiqué.yml) |
+| 2221 | communiqué | (Presse-)mitteilung | 4 |  | [Bearbeiten](cards/2221_communiqué.yml) |
 | 2222 | suicide | Selbstmord | 3 |  | [Bearbeiten](cards/2222_suicide.yml) |
-| 2223 | rivière | Fluss | 4 |  | [Bearbeiten](cards/2223_rivière.yml) |
+| 2223 | rivière | Fluss, Zufluss | 5 |  | [Bearbeiten](cards/2223_rivière.yml) |
 | 2224 | avertir | warnen, benachrichtigen | 5 |  | [Bearbeiten](cards/2224_avertir.yml) |
-| 2225 | rédaction | Abfassung, Schreibstil | 9 |  | [Bearbeiten](cards/2225_rédaction.yml) |
-| 2226 | enceinte | schwanger | 12 |  | [Bearbeiten](cards/2226_enceinte.yml) |
-| 2227 | substance | Substanz, Wesen | 6 |  | [Bearbeiten](cards/2227_substance.yml) |
-| 2228 | soigner | pflegen, behandeln | 12 |  | [Bearbeiten](cards/2228_soigner.yml) |
-| 2229 | récit | Erzählung | 6 |  | [Bearbeiten](cards/2229_récit.yml) |
-| 2230 | revendication | Forderung, Anspruch | 11 |  | [Bearbeiten](cards/2230_revendication.yml) |
+| 2225 | rédaction | Redaktion, Ausarbeitung | 9 |  | [Bearbeiten](cards/2225_rédaction.yml) |
+| 2226 | enceinte | schwanger; Gelände; Lautsprecher | 12 |  | [Bearbeiten](cards/2226_enceinte.yml) |
+| 2227 | substance | Substanz | 6 |  | [Bearbeiten](cards/2227_substance.yml) |
+| 2228 | soigner | sich kümmern um, behandeln | 12 |  | [Bearbeiten](cards/2228_soigner.yml) |
+| 2229 | récit | Erzählung, Bericht | 6 |  | [Bearbeiten](cards/2229_récit.yml) |
+| 2230 | revendication | Anspruch, Forderung | 11 | X | [Bearbeiten](cards/2230_revendication.yml) |
 | 2231 | incroyable | unglaublich | 8 |  | [Bearbeiten](cards/2231_incroyable.yml) |
-| 2232 | sondage | Umfrage | 7 |  | [Bearbeiten](cards/2232_sondage.yml) |
-| 2233 | mineur | Minderjähriger | 12 |  | [Bearbeiten](cards/2233_mineur.yml) |
+| 2232 | sondage | Umfrage, Überprüfung | 7 |  | [Bearbeiten](cards/2232_sondage.yml) |
+| 2233 | mineur | minderjährig; unwichtig; Bergmann | 10 |  | [Bearbeiten](cards/2233_mineur.yml) |
 | 2234 | composition | Zusammensetzung, Komposition | 10 |  | [Bearbeiten](cards/2234_composition.yml) |
-| 2235 | débarrasser | befreien, abräumen | 11 |  | [Bearbeiten](cards/2235_débarrasser.yml) |
-| 2236 | accusation | Anklage, Beschuldigung | 7 |  | [Bearbeiten](cards/2236_accusation.yml) |
-| 2237 | invitation | Einladung | 11 |  | [Bearbeiten](cards/2237_invitation.yml) |
-| 2238 | présidentiel | präsidentiell | 4 |  | [Bearbeiten](cards/2238_présidentiel.yml) |
+| 2235 | débarrasser | ausräumen, ablegen | 11 |  | [Bearbeiten](cards/2235_débarrasser.yml) |
+| 2236 | accusation | Anschuldigung, Klage | 7 |  | [Bearbeiten](cards/2236_accusation.yml) |
+| 2237 | invitation | Einladung | 6 |  | [Bearbeiten](cards/2237_invitation.yml) |
+| 2238 | présidentiel | Präsidial- | 4 |  | [Bearbeiten](cards/2238_présidentiel.yml) |
 | 2239 | concurrent | Konkurrent | 3 |  | [Bearbeiten](cards/2239_concurrent.yml) |
 | 2240 | prévu | geplant, vorgesehen | 2 |  | [Bearbeiten](cards/2240_prévu.yml) |
 | 2241 | suisse | schweizerisch | 6 |  | [Bearbeiten](cards/2241_suisse.yml) |
@@ -2933,7 +2933,7 @@ Insgesamt gibt es 5000 Karten mit 40328 Beispielsätzen (durchschnittlich 8.1 pr
 | 2890 | crucial | entscheidend, ausschlaggebend | 3 |  | [Bearbeiten](cards/2890_crucial.yml) |
 | 2891 | marine | Marine | 7 |  | [Bearbeiten](cards/2891_marine.yml) |
 | 2892 | cadavre | Leiche | 6 |  | [Bearbeiten](cards/2892_cadavre.yml) |
-| 2893 | fleuve | Fluss | 6 |  | [Bearbeiten](cards/2893_fleuve.yml) |
+| 2893 | fleuve | [ins Meer mündender] Fluss | 6 | X | [Bearbeiten](cards/2893_fleuve.yml) |
 | 2894 | toit | Dach | 13 |  | [Bearbeiten](cards/2894_toit.yml) |
 | 2895 | mécanique | Mechanik | 10 |  | [Bearbeiten](cards/2895_mécanique.yml) |
 | 2896 | transparence | Transparenz | 9 |  | [Bearbeiten](cards/2896_transparence.yml) |
@@ -3444,7 +3444,7 @@ Insgesamt gibt es 5000 Karten mit 40328 Beispielsätzen (durchschnittlich 8.1 pr
 | 3401 | inspiration | Inspiration | 13 |  | [Bearbeiten](cards/3401_inspiration.yml) |
 | 3402 | candidature | Bewerbung | 6 |  | [Bearbeiten](cards/3402_candidature.yml) |
 | 3403 | armement | Bewaffnung, Ausrüstung | 4 |  | [Bearbeiten](cards/3403_armement.yml) |
-| 3404 | épargne | Sparen | 10 |  | [Bearbeiten](cards/3404_épargne.yml) |
+| 3404 | épargne | Sparen | 9 |  | [Bearbeiten](cards/3404_épargne.yml) |
 | 3405 | iranien | Iraner | 2 |  | [Bearbeiten](cards/3405_iranien.yml) |
 | 3406 | conférer | verleihen, übertragen | 4 |  | [Bearbeiten](cards/3406_conférer.yml) |
 | 3407 | stupide | dumm, blöd | 2 |  | [Bearbeiten](cards/3407_stupide.yml) |
@@ -3908,7 +3908,7 @@ Insgesamt gibt es 5000 Karten mit 40328 Beispielsätzen (durchschnittlich 8.1 pr
 | 3865 | propager | verbreiten | 2 |  | [Bearbeiten](cards/3865_propager.yml) |
 | 3866 | rectifier | berichtigen, korrigieren | 5 |  | [Bearbeiten](cards/3866_rectifier.yml) |
 | 3867 | tennis | Tennis | 5 |  | [Bearbeiten](cards/3867_tennis.yml) |
-| 3868 | avenue | Allee, Straße | 2 |  | [Bearbeiten](cards/3868_avenue.yml) |
+| 3868 | avenue | Allee | 2 |  | [Bearbeiten](cards/3868_avenue.yml) |
 | 3869 | vengeance | Rache | 8 |  | [Bearbeiten](cards/3869_vengeance.yml) |
 | 3870 | émouvoir | bewegen, rühren | 6 |  | [Bearbeiten](cards/3870_émouvoir.yml) |
 | 3871 | hé | Hallo | 4 |  | [Bearbeiten](cards/3871_hé.yml) |
@@ -4023,7 +4023,7 @@ Insgesamt gibt es 5000 Karten mit 40328 Beispielsätzen (durchschnittlich 8.1 pr
 | 3980 | restauration | Restauration, Gastronomie | 7 |  | [Bearbeiten](cards/3980_restauration.yml) |
 | 3981 | haïr | hassen | 7 | X | [Bearbeiten](cards/3981_haïr.yml) |
 | 3982 | marée | Gezeiten | 9 |  | [Bearbeiten](cards/3982_marée.yml) |
-| 3983 | souscrire | zeichnen, abonnieren | 6 |  | [Bearbeiten](cards/3983_souscrire.yml) |
+| 3983 | souscrire | zeichnen, abonnieren | 5 |  | [Bearbeiten](cards/3983_souscrire.yml) |
 | 3984 | diable | Teufel | 14 |  | [Bearbeiten](cards/3984_diable.yml) |
 | 3985 | suffrage | Stimmrecht, Wahlrecht | 6 |  | [Bearbeiten](cards/3985_suffrage.yml) |
 | 3986 | spontané | spontan | 2 |  | [Bearbeiten](cards/3986_spontané.yml) |
@@ -4233,7 +4233,7 @@ Insgesamt gibt es 5000 Karten mit 40328 Beispielsätzen (durchschnittlich 8.1 pr
 | 4190 | séparatiste | Separatist | 2 |  | [Bearbeiten](cards/4190_séparatiste.yml) |
 | 4191 | surcroît | Mehr, Zusatz | 6 |  | [Bearbeiten](cards/4191_surcroît.yml) |
 | 4192 | sortant | abgehend, ausscheidend | 4 |  | [Bearbeiten](cards/4192_sortant.yml) |
-| 4193 | plomb | Blei | 13 |  | [Bearbeiten](cards/4193_plomb.yml) |
+| 4193 | plomb | Blei | 12 |  | [Bearbeiten](cards/4193_plomb.yml) |
 | 4194 | gorge | Kehle, Schlucht | 12 |  | [Bearbeiten](cards/4194_gorge.yml) |
 | 4195 | nationaliste | Nationalist | 2 |  | [Bearbeiten](cards/4195_nationaliste.yml) |
 | 4196 | exportateur | Exporteur | 4 |  | [Bearbeiten](cards/4196_exportateur.yml) |
