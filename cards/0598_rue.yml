@@ -7,7 +7,7 @@ Wortart: nf
 Wort mit Artikel: la rue
 Femininum / Plural: ''
 IPA: \ʁy\
-Definition: Straße
+Definition: Straße, Gasse
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -57,4 +57,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>                
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>rue</i> und <i>route</i></div>
+    <div class="section-content">
+      <p><span class="fr">Rue</span> bezeichnet typischerweise eine städtische Straße oder eine Straße innerhalb eines bebauten Gebiets. Es entspricht dem deutschen Wort „Straße“ oder „Gasse“ und bezieht sich auf kleinere Wege, die von Gebäuden umgeben sind und hauptsächlich von Fußgängern und lokalem Verkehr genutzt werden.</p>
+      <div class="examples">
+        <div class="fr">Je vis dans une petite rue près du centre-ville.</div>
+        <div class="de spoiler">Ich wohne in einer kleinen Straße nahe dem Stadtzentrum.</div>
+        <div class="fr">La rue Saint-Honoré est très célèbre à Paris.</div>
+        <div class="de spoiler">Die Rue Saint-Honoré ist sehr berühmt in Paris.</div>
+      </div>
+      <p><span class="fr">Route</span> (#512) bezieht sich auf eine größere Straße oder Hauptverkehrsstraße, oft außerhalb städtischer Zentren. Es kann mit dem deutschen „Chaussee“ oder „Landstraße“ verglichen werden und wird üblicherweise für Straßen verwendet, die Ortschaften verbinden und auf denen höhere Geschwindigkeiten erlaubt sind.</p>
+      <div class="examples">
+        <div class="fr">Nous prenons la route nationale pour aller à Lyon.</div>
+        <div class="de spoiler">Wir nehmen die Nationalstraße, um nach Lyon zu fahren.</div>
+        <div class="fr">La route est glissante à cause de la pluie.</div>
+        <div class="de spoiler">Die Straße ist rutschig wegen des Regens.</div>
+      </div>
+    </div>
+  </div>
