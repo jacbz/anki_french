@@ -9,9 +9,15 @@ Femininum / Plural: néerlandaise
 IPA: \ne.ɛʁ.lɑ̃.dɛ\
 Definition: Niederländisch
 Register: ↘Fiktion ↗Sachtext
-Beispielsätze: "La multinationale néerlandaise a annoncé de nouvelles pertes.\nDas\
-  \ niederländische multinationale Unternehmen gab weitere Verluste bekannt.\n\nJe\
-  \ parle néerlandais.\nIch spreche Niederländisch."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  La multinationale néerlandaise a annoncé de nouvelles pertes.
+  Das niederländische multinationale Unternehmen gab weitere Verluste bekannt.
+
+  Je parle néerlandais.
+  Ich spreche Niederländisch.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

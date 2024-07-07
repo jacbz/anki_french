@@ -37,7 +37,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40326 Beispielsätzen (durchschnittlich 8.1 pro Karte). 139 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40321 Beispielsätzen (durchschnittlich 8.1 pro Karte). 151 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -379,7 +379,7 @@ Insgesamt gibt es 5000 Karten mit 40326 Beispielsätzen (durchschnittlich 8.1 pr
 | 336 | chercher | suchen | 12 |  | [Bearbeiten](cards/0336_chercher.yml) |
 | 337 | entrer | hineingehen, eintreten | 13 |  | [Bearbeiten](cards/0337_entrer.yml) |
 | 338 | proposer | vorschlagen, anbieten | 7 |  | [Bearbeiten](cards/0338_proposer.yml) |
-| 339 | apporter | bringen | 11 |  | [Bearbeiten](cards/0339_apporter.yml) |
+| 339 | apporter | bringen | 11 | X | [Bearbeiten](cards/0339_apporter.yml) |
 | 340 | programme | Programm | 13 |  | [Bearbeiten](cards/0340_programme.yml) |
 | 341 | loin | weit | 17 |  | [Bearbeiten](cards/0341_loin.yml) |
 | 342 | ligne | Linie, Zeile | 15 |  | [Bearbeiten](cards/0342_ligne.yml) |
@@ -656,7 +656,7 @@ Insgesamt gibt es 5000 Karten mit 40326 Beispielsätzen (durchschnittlich 8.1 pr
 | 613 | livrer | liefern | 12 |  | [Bearbeiten](cards/0613_livrer.yml) |
 | 614 | auprès | bei | 10 |  | [Bearbeiten](cards/0614_auprès.yml) |
 | 615 | simplement | einfach, schlichtweg | 4 |  | [Bearbeiten](cards/0615_simplement.yml) |
-| 616 | souvenir | erinnern; Erinnerung | 13 |  | [Bearbeiten](cards/0616_souvenir.yml) |
+| 616 | souvenir | erinnern; Erinnerung | 13 | X | [Bearbeiten](cards/0616_souvenir.yml) |
 | 617 | conséquence | Konsequenz | 13 |  | [Bearbeiten](cards/0617_conséquence.yml) |
 | 618 | large | breit, weit | 12 |  | [Bearbeiten](cards/0618_large.yml) |
 | 619 | contraire | Gegenteil | 12 |  | [Bearbeiten](cards/0619_contraire.yml) |
@@ -695,7 +695,7 @@ Insgesamt gibt es 5000 Karten mit 40326 Beispielsätzen (durchschnittlich 8.1 pr
 | 652 | impossible | unmöglich | 13 |  | [Bearbeiten](cards/0652_impossible.yml) |
 | 653 | preuve | Beweis | 15 |  | [Bearbeiten](cards/0653_preuve.yml) |
 | 654 | véritable | wahr, echt | 7 |  | [Bearbeiten](cards/0654_véritable.yml) |
-| 655 | amener | (mit-)bringen | 11 |  | [Bearbeiten](cards/0655_amener.yml) |
+| 655 | amener | (mit-)bringen, hinbringen | 11 | X | [Bearbeiten](cards/0655_amener.yml) |
 | 656 | viser | zielen | 10 |  | [Bearbeiten](cards/0656_viser.yml) |
 | 657 | retirer | entfernen, zurückziehen | 12 |  | [Bearbeiten](cards/0657_retirer.yml) |
 | 658 | total | total, vollständig | 11 |  | [Bearbeiten](cards/0658_total.yml) |
@@ -962,7 +962,7 @@ Insgesamt gibt es 5000 Karten mit 40326 Beispielsätzen (durchschnittlich 8.1 pr
 | 919 | progrès | Fortschritt | 7 |  | [Bearbeiten](cards/0919_progrès.yml) |
 | 920 | secrétaire | Sekretärin | 6 |  | [Bearbeiten](cards/0920_secrétaire.yml) |
 | 921 | mer | Meer | 12 |  | [Bearbeiten](cards/0921_mer.yml) |
-| 922 | rapporter | zurückbringen; berichten | 12 |  | [Bearbeiten](cards/0922_rapporter.yml) |
+| 922 | rapporter | zurückbringen; berichten | 12 | X | [Bearbeiten](cards/0922_rapporter.yml) |
 | 923 | appuyer | lehnen, drücken; unterstützen | 10 |  | [Bearbeiten](cards/0923_appuyer.yml) |
 | 924 | liste | Liste | 15 |  | [Bearbeiten](cards/0924_liste.yml) |
 | 925 | rentrer | nach Hause kommen, zurückkehren | 17 |  | [Bearbeiten](cards/0925_rentrer.yml) |
@@ -1137,7 +1137,7 @@ Insgesamt gibt es 5000 Karten mit 40326 Beispielsätzen (durchschnittlich 8.1 pr
 | 1094 | conférence | Konferenz, Vortrag | 10 |  | [Bearbeiten](cards/1094_conférence.yml) |
 | 1095 | provoquer | herausfordern, provozieren | 4 |  | [Bearbeiten](cards/1095_provoquer.yml) |
 | 1096 | vente | Verkauf | 11 |  | [Bearbeiten](cards/1096_vente.yml) |
-| 1097 | ramener | zurückbringen | 12 |  | [Bearbeiten](cards/1097_ramener.yml) |
+| 1097 | ramener | zurückbringen | 12 | X | [Bearbeiten](cards/1097_ramener.yml) |
 | 1098 | soldat | Soldat | 13 |  | [Bearbeiten](cards/1098_soldat.yml) |
 | 1099 | collègue | Kollege | 3 |  | [Bearbeiten](cards/1099_collègue.yml) |
 | 1100 | concevoir | entwerfen, konzipieren | 6 |  | [Bearbeiten](cards/1100_concevoir.yml) |
@@ -1168,7 +1168,7 @@ Insgesamt gibt es 5000 Karten mit 40326 Beispielsätzen (durchschnittlich 8.1 pr
 | 1125 | traduire | übersetzen | 8 |  | [Bearbeiten](cards/1125_traduire.yml) |
 | 1126 | sang | Blut | 12 |  | [Bearbeiten](cards/1126_sang.yml) |
 | 1127 | millier | Tausend | 13 |  | [Bearbeiten](cards/1127_millier.yml) |
-| 1128 | emporter | mitnehmen | 11 |  | [Bearbeiten](cards/1128_emporter.yml) |
+| 1128 | emporter | mitnehmen | 11 | X | [Bearbeiten](cards/1128_emporter.yml) |
 | 1129 | initiative | Initiative | 7 |  | [Bearbeiten](cards/1129_initiative.yml) |
 | 1130 | nucléaire | nuklear, Atom- | 3 |  | [Bearbeiten](cards/1130_nucléaire.yml) |
 | 1131 | industriel | industriell | 6 |  | [Bearbeiten](cards/1131_industriel.yml) |
@@ -1394,7 +1394,7 @@ Insgesamt gibt es 5000 Karten mit 40326 Beispielsätzen (durchschnittlich 8.1 pr
 | 1351 | participation | Teilnahme, Beteiligung | 12 |  | [Bearbeiten](cards/1351_participation.yml) |
 | 1352 | évolution | Entwicklung, Evolution | 11 |  | [Bearbeiten](cards/1352_évolution.yml) |
 | 1353 | totalement | vollständig, total | 3 |  | [Bearbeiten](cards/1353_totalement.yml) |
-| 1354 | gérer | verwalten, führen | 10 |  | [Bearbeiten](cards/1354_gérer.yml) |
+| 1354 | gérer | verwalten, führen | 10 | X | [Bearbeiten](cards/1354_gérer.yml) |
 | 1355 | samedi | Samstag | 3 |  | [Bearbeiten](cards/1355_samedi.yml) |
 | 1356 | informer | informieren | 12 |  | [Bearbeiten](cards/1356_informer.yml) |
 | 1357 | fou | verrückt | 17 | X | [Bearbeiten](cards/1357_fou.yml) |
@@ -1931,7 +1931,7 @@ Insgesamt gibt es 5000 Karten mit 40326 Beispielsätzen (durchschnittlich 8.1 pr
 | 1888 | régulièrement | regelmäßig, immer wieder | 2 |  | [Bearbeiten](cards/1888_régulièrement.yml) |
 | 1889 | pont | Brücke | 13 |  | [Bearbeiten](cards/1889_pont.yml) |
 | 1890 | foutre | ficken, machen, stecken [ugs.] | 41 | X | [Bearbeiten](cards/1890_foutre.yml) |
-| 1891 | apercevoir | bemerken, wahrnehmen | 9 |  | [Bearbeiten](cards/1891_apercevoir.yml) |
+| 1891 | apercevoir | bemerken, erkennen | 9 | X | [Bearbeiten](cards/1891_apercevoir.yml) |
 | 1892 | refléter | widerspiegeln | 5 |  | [Bearbeiten](cards/1892_refléter.yml) |
 | 1893 | bouger | sich bewegen | 10 |  | [Bearbeiten](cards/1893_bouger.yml) |
 | 1894 | foule | (Menschen-)menge | 10 |  | [Bearbeiten](cards/1894_foule.yml) |
@@ -2048,7 +2048,7 @@ Insgesamt gibt es 5000 Karten mit 40326 Beispielsätzen (durchschnittlich 8.1 pr
 | 2005 | interprétation | Interpretation | 10 |  | [Bearbeiten](cards/2005_interprétation.yml) |
 | 2006 | climat | Klima | 6 |  | [Bearbeiten](cards/2006_climat.yml) |
 | 2007 | séjour | Aufenthalt | 12 |  | [Bearbeiten](cards/2007_séjour.yml) |
-| 2008 | guider | leiten, lenken | 6 |  | [Bearbeiten](cards/2008_guider.yml) |
+| 2008 | guider | leiten, lenken | 6 | X | [Bearbeiten](cards/2008_guider.yml) |
 | 2009 | spécialiser | spezialisieren | 4 |  | [Bearbeiten](cards/2009_spécialiser.yml) |
 | 2010 | ben | nun, na | 6 |  | [Bearbeiten](cards/2010_ben.yml) |
 | 2011 | sport | Sport | 12 |  | [Bearbeiten](cards/2011_sport.yml) |
@@ -2138,7 +2138,7 @@ Insgesamt gibt es 5000 Karten mit 40326 Beispielsätzen (durchschnittlich 8.1 pr
 | 2095 | résulter | ergeben, entstehen | 8 |  | [Bearbeiten](cards/2095_résulter.yml) |
 | 2096 | occupation | Beschäftigung, Besetzung | 8 |  | [Bearbeiten](cards/2096_occupation.yml) |
 | 2097 | japonais | Japaner | 7 |  | [Bearbeiten](cards/2097_japonais.yml) |
-| 2098 | emmener | [jemanden] mitnehmen | 5 |  | [Bearbeiten](cards/2098_emmener.yml) |
+| 2098 | emmener | [jemanden] mitnehmen, wegbringen | 5 | X | [Bearbeiten](cards/2098_emmener.yml) |
 | 2099 | alimentaire | Nahrungs-, Unterhalts- | 10 |  | [Bearbeiten](cards/2099_alimentaire.yml) |
 | 2100 | lecteur | Leser | 12 |  | [Bearbeiten](cards/2100_lecteur.yml) |
 | 2101 | marin | See-; Seemann | 5 |  | [Bearbeiten](cards/2101_marin.yml) |
@@ -2269,7 +2269,7 @@ Insgesamt gibt es 5000 Karten mit 40326 Beispielsätzen (durchschnittlich 8.1 pr
 | 2226 | enceinte | schwanger; Gelände; Lautsprecher | 12 |  | [Bearbeiten](cards/2226_enceinte.yml) |
 | 2227 | substance | Substanz | 6 |  | [Bearbeiten](cards/2227_substance.yml) |
 | 2228 | soigner | sich kümmern um, behandeln | 11 |  | [Bearbeiten](cards/2228_soigner.yml) |
-| 2229 | récit | Erzählung, Bericht | 6 |  | [Bearbeiten](cards/2229_récit.yml) |
+| 2229 | récit | Erzählung, Bericht | 6 | X | [Bearbeiten](cards/2229_récit.yml) |
 | 2230 | revendication | Anspruch, Forderung | 11 | X | [Bearbeiten](cards/2230_revendication.yml) |
 | 2231 | incroyable | unglaublich | 8 |  | [Bearbeiten](cards/2231_incroyable.yml) |
 | 2232 | sondage | Umfrage, Überprüfung | 7 |  | [Bearbeiten](cards/2232_sondage.yml) |
@@ -4330,7 +4330,7 @@ Insgesamt gibt es 5000 Karten mit 40326 Beispielsätzen (durchschnittlich 8.1 pr
 | 4287 | enthousiaste | begeistert | 3 |  | [Bearbeiten](cards/4287_enthousiaste.yml) |
 | 4288 | quarantaine | Quarantäne | 10 |  | [Bearbeiten](cards/4288_quarantaine.yml) |
 | 4289 | sous-sol | Keller | 3 |  | [Bearbeiten](cards/4289_sous-sol.yml) |
-| 4290 | rat | Ratte | 9 |  | [Bearbeiten](cards/4290_rat.yml) |
+| 4290 | rat | Ratte | 6 |  | [Bearbeiten](cards/4290_rat.yml) |
 | 4291 | flot | Flut | 11 |  | [Bearbeiten](cards/4291_flot.yml) |
 | 4292 | mordre | beißen | 15 |  | [Bearbeiten](cards/4292_mordre.yml) |
 | 4293 | partiellement | teilweise, zum Teil | 3 |  | [Bearbeiten](cards/4293_partiellement.yml) |
@@ -4411,7 +4411,7 @@ Insgesamt gibt es 5000 Karten mit 40326 Beispielsätzen (durchschnittlich 8.1 pr
 | 4368 | incliner | neigen, beugen | 12 |  | [Bearbeiten](cards/4368_incliner.yml) |
 | 4369 | affreux | schrecklich, furchtbar | 2 |  | [Bearbeiten](cards/4369_affreux.yml) |
 | 4370 | révolter | empören, auflehnen | 3 |  | [Bearbeiten](cards/4370_révolter.yml) |
-| 4371 | conte | Märchen, Erzählung | 6 |  | [Bearbeiten](cards/4371_conte.yml) |
+| 4371 | conte | Märchen, Erzählung | 6 | X | [Bearbeiten](cards/4371_conte.yml) |
 | 4372 | évasion | Flucht, Ausbruch | 8 |  | [Bearbeiten](cards/4372_évasion.yml) |
 | 4373 | repère | Bezugspunkt, Orientierungspunkt | 5 |  | [Bearbeiten](cards/4373_repère.yml) |
 | 4374 | philosophique | philosophisch | 2 |  | [Bearbeiten](cards/4374_philosophique.yml) |
@@ -4680,7 +4680,7 @@ Insgesamt gibt es 5000 Karten mit 40326 Beispielsätzen (durchschnittlich 8.1 pr
 | 4637 | copier | kopieren, abschreiben | 6 |  | [Bearbeiten](cards/4637_copier.yml) |
 | 4638 | inculper | beschuldigen | 3 |  | [Bearbeiten](cards/4638_inculper.yml) |
 | 4639 | renouveau | Neubeginn, Wiederaufleben | 3 |  | [Bearbeiten](cards/4639_renouveau.yml) |
-| 4640 | néerlandais | Niederländisch | 4 |  | [Bearbeiten](cards/4640_néerlandais.yml) |
+| 4640 | néerlandais | Niederländisch | 2 |  | [Bearbeiten](cards/4640_néerlandais.yml) |
 | 4641 | intégral | vollständig, integral | 5 |  | [Bearbeiten](cards/4641_intégral.yml) |
 | 4642 | spécification | Spezifikation, genaue Beschreibung | 5 |  | [Bearbeiten](cards/4642_spécification.yml) |
 | 4643 | documentation | Dokumentation | 4 |  | [Bearbeiten](cards/4643_documentation.yml) |
