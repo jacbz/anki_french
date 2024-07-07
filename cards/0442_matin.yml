@@ -11,7 +11,7 @@ Definition: Morgen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   Ce matin, je me suis réveillée tôt.
   Heute Morgen bin ich früh aufgewacht.
@@ -68,7 +68,7 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: |-
   <p><span class="fr">Matin</span> lässt sich mit <span class="de">Morgen</span> übersetzen und bezieht sich auf einen Zeitpunkt, während <span class="fr">matinée</span> mit <span class="de">Vormittag</span> übersetzt werden kann und auf die Dauer/den Ablauf des Vormittags abzielt.</p>
   <div class="examples">

@@ -11,7 +11,7 @@ Definition: hier [Suffix]
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   Et celui-ci? Oui, il est vraiment super.
   Und das hier? Ja, das ist wirklich toll.
@@ -26,7 +26,7 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: |-
   <p>In Gegenüberstellungen oder bei Vergleichen zweier Dinge hängt man die <b>Anhängepartikel</b> <span class="fr">–ci</span> oder <span class="fr">–là</span> an. Dabei drückt <span class="fr">–ci</span> die räumliche Nähe aus, <span class="fr">-là</span> eine größere Entfernung.</p>
 

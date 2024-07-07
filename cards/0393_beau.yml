@@ -11,7 +11,7 @@ Definition: schön
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   Ce sont là de belles paroles, mais des paroles creuses.
   Das sind schöne Worte, aber leere Worte.
@@ -59,6 +59,6 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: Steht das Wort vor einem Vokal oder stummen h, so ist die maskuline Form <b>bel</b>,
   z.B. <b>un bel homme</b>.

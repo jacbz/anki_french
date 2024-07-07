@@ -11,7 +11,7 @@ Definition: Gehirn
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   À la naissance, le cerveau humain est loin d’être complètement développé.
   Bei der Geburt ist das menschliche Gehirn bei weitem noch nicht vollständig entwickelt.
@@ -29,5 +29,5 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: ''

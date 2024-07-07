@@ -11,7 +11,7 @@ Definition: Albtraum
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   Toute cette affaire est un vrai cauchemar.
   Die ganze Angelegenheit ist ein Albtraum.
@@ -29,5 +29,5 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: ''

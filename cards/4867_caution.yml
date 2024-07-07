@@ -11,7 +11,7 @@ Definition: Kaution, Bürgschaft
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   Le prévenu doit également régler une caution de 80.000 euros.
   Der Angeklagte muss außerdem eine Kaution in Höhe von 80.000 Euro bezahlen.
@@ -53,5 +53,5 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: ''

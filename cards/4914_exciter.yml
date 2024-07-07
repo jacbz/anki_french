@@ -11,7 +11,7 @@ Definition: erregen, reizen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   Je suis très excitée d’aller voter.
   Ich bin sehr aufgeregt, zur Wahl zu gehen.
@@ -35,7 +35,7 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: |-
   <p><span class="fr">"Je suis excité(e)"</span> hat im Französischen eine sexuelle Konnotation und bedeutet <span class="de">"ich bin erregt"</span>. Verwende es nicht, wenn du <span class="de">"ich bin begeistert"</span> (wie im Englischen) ausdrücken möchtest.</p>
 

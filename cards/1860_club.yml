@@ -11,7 +11,7 @@ Definition: Klub, Verein
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   J’arrivais dans un club qui avait gagné deux championnats.
   Ich kam zu einem Verein, der zwei Meisterschaften gewonnen hatte.
@@ -41,5 +41,5 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: ''

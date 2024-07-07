@@ -11,7 +11,7 @@ Definition: Benutzer
 Register: ↘Fiktion ↗Sachtext ↘Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   Éditez le dictionnaire utilisateur pour le réduire à 10.000 mots maximum.
   Bearbeiten Sie das Benutzerwörterbuch, um es auf maximal 10.000 Wörter zu reduzieren.
@@ -26,5 +26,5 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: ''

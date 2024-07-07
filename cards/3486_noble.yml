@@ -11,7 +11,7 @@ Definition: edel
 Register: ↗Fiktion ↘Sachtext
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   L’eau est une matière plus noble, et sans doute plus précieuse.
   Wasser ist ein edleres und wohl auch wertvolleres Material.
@@ -41,5 +41,5 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: ''

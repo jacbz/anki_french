@@ -11,7 +11,7 @@ Definition: sich kümmern um, behandeln
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   Toi, va soigner ton chien.
   Du, geh und kümmere dich um deinen Hund.
@@ -24,9 +24,6 @@ Beispielsätze: |-
 
   "Va te faire soigner !" a crié Paul à son ami qui faisait une blague un peu trop osée.
   "Du hast sie wohl nicht alle!", rief Paul seinem Freund zu, der einen etwas zu gewagten Witz gemacht hatte.
-
-  "Ne t'inquiète pas, ça se soigne!", a dit le médecin à sa patiente.
-  "Du hast sie wohl nicht alle!", sagte der Arzt zu seiner Patientin.
 
   Sophie sait soigner ses invités, elle leur prépare toujours de bons repas et les met à l'aise.
   Sophie weiß, wie man seine Gäste verwöhnt, sie bereitet ihnen immer ein gutes Essen zu und sorgt dafür, dass sie sich wohlfühlen.
@@ -53,5 +50,5 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: ''

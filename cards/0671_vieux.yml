@@ -11,7 +11,7 @@ Definition: alt; Alte(-r)
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   Ça fait trop longtemps, mon vieil ami.
   Es ist zu lange her, mein alter Freund.
@@ -53,6 +53,6 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: Steht das Wort vor einem Vokal oder stummen h, so ist die maskuline Form <b>vieil</b>,
   z.B. <b>un vieil homme</b>.

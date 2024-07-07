@@ -11,7 +11,7 @@ Definition: sein(-e)
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   Un ami ingénieur du son m’aide pour les arrangements.
   Ein befreundeter Tontechniker hilft mir bei den Absprachen.
@@ -44,5 +44,5 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: <grammar data-id="Possessivbegleiter"></grammar>

@@ -11,7 +11,7 @@ Definition: müssen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   Il ne faut pas être raciste, point.
   Man darf nicht rassistisch sein, Punkt.
@@ -68,7 +68,7 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: |-
   <p>Das Verb <span class="fr">falloir</span> drückt eine stärkere Notwendigkeit als <span class="fr">devoir</span> aus. Dieses Verb ist unpersönlich: es wird nur in der 3. Person Singular (il) verwendet. Es kann aber in verschiedenen Zeitformen konjugiert werden.</p>
 

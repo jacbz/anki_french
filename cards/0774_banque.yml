@@ -11,7 +11,7 @@ Definition: Bank
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   J’ai obtenu auprès d’une banque un prêt personnel habitat de 90 000 euros.
   Ich habe bei einer Bank ein persönliches Darlehen für den Wohnungsbau in Höhe von 90.000 Euro erhalten.
@@ -62,5 +62,5 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: ''

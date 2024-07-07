@@ -11,7 +11,7 @@ Definition: fragen, bitten
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   J’ai un service à vous demander.
   Ich möchte Sie um einen Gefallen bitten.
@@ -62,6 +62,6 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: <div class="attention">Man sagt nicht <b>demander une question</b>, sondern
   <b>poser une question</b>.</div>

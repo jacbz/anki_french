@@ -11,7 +11,7 @@ Definition: behindern, beeinträchtigen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   La croissance mondiale risque d’handicaper leurs exportations.
   Das globale Wachstum könnte ihre Exporte behindern.
@@ -29,6 +29,6 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: <div class="attention">Hier gibt es ein h aspiré, d.h. das Pronomen wird nicht
   abgekürzt.</div>

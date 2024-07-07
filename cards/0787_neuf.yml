@@ -11,7 +11,7 @@ Definition: neu; neun
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   On devait avoir des vêtements neufs!
   Wir mussten neue Kleidung haben!
@@ -53,7 +53,7 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: |-
   <p>Das Adjektiv <span class="fr">neuf</span> bedeutet <span class="de">neu</span> im Sinne von <span class="de">unbenutzt</span> oder <span class="de">ungebraucht</span>. In Verbindung mit abstrakten Begriffen (eine Idee, eine Methode) bedeutet <span class="fr">neuf</span> <span class="de">neuartig</span>.</p>
   <p>Das Gegenteil von <span class="fr">neuf</span> ist <span class="fr">vieux</span> (<span class="de">alt</span>) oder <span class="fr">usagé</span> (<span class="de">gebraucht</span>).</p>

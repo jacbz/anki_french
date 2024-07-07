@@ -11,7 +11,7 @@ Definition: Jahr
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   J’avais un an à la mort de mon père.
   Ich war ein Jahr alt, als mein Vater starb.
@@ -56,7 +56,7 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: |-
   <p>Das Wort <span class="fr">an</span> bezieht sich auf das Jahr als Zeitpunkt und nicht als Zeitspanne. <span class="fr">An</span> wird verwendet, wenn es um das Jahr als mathematische Größe geht und um Alters- oder Datumsangaben zu machen.</p>
 

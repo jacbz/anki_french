@@ -11,7 +11,7 @@ Definition: Niedergang, Abstieg
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   Leur nombre est en déclin, mais ils sont encore assez nombreux.
   Ihre Zahl ist zwar rückläufig, aber sie sind immer noch recht zahlreich.
@@ -32,5 +32,5 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: ''

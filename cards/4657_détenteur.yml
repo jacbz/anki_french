@@ -11,7 +11,7 @@ Definition: Inhaber
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   Cette carte plastifiée devrait permettre à son détenteur de voter.
   Diese plastifizierte Karte sollte dem Inhaber die Möglichkeit geben, seine Stimme abzugeben.
@@ -53,5 +53,5 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: ''

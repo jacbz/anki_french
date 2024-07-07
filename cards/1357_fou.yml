@@ -11,7 +11,7 @@ Definition: verrückt
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   Tu es complètement fou.
   Du bist völlig verrückt.
@@ -68,6 +68,6 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: Steht das Wort vor einem Vokal oder stummen h, so ist die maskuline Form <b>fol</b>,
   z.B. <b>un fol homme</b>.

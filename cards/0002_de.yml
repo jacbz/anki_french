@@ -11,7 +11,7 @@ Definition: von, aus, [Teilungsartikel]
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   Il ne rêve que d’argent et de plaisirs.
   Er träumt nur von Geld und Vergnügungen.
@@ -29,7 +29,7 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: |-
   <p class="attention">Die Präposition <b>de</b> verschmelzt mit dem bestimmten Artikel <b>le</b> und <b>les</b> zu einem Wort:<br>
     de + le = <b>du</b><br>

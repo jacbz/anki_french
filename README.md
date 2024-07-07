@@ -37,14 +37,14 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40321 Beispielsätzen (durchschnittlich 8.1 pro Karte). 139 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40319 Beispielsätzen (durchschnittlich 8.1 pro Karte). 139 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
 | 1 | le | [bestimmter Artikel], ihn/sie/es | 11 | X | [Bearbeiten](cards/0001_le.yml) |
 | 2 | de | von, aus, [Teilungsartikel] | 4 | X | [Bearbeiten](cards/0002_de.yml) |
 | 3 | un | eins; ein(-e) | 12 | X | [Bearbeiten](cards/0003_un.yml) |
-| 4 | à | nach, in [örtlich], um [zeitlich] | 46 | X | [Bearbeiten](cards/0004_à.yml) |
+| 4 | à | nach, in [örtlich], um [zeitlich] | 45 | X | [Bearbeiten](cards/0004_à.yml) |
 | 5 | être | sein | 4 |  | [Bearbeiten](cards/0005_être.yml) |
 | 6 | et | und | 4 | X | [Bearbeiten](cards/0006_et.yml) |
 | 7 | en | in | 12 | X | [Bearbeiten](cards/0007_en.yml) |
@@ -2212,7 +2212,7 @@ Insgesamt gibt es 5000 Karten mit 40321 Beispielsätzen (durchschnittlich 8.1 pr
 | 2169 | incertitude | Ungewissheit | 3 |  | [Bearbeiten](cards/2169_incertitude.yml) |
 | 2170 | célébrer | feiern, zelebrieren | 3 |  | [Bearbeiten](cards/2170_célébrer.yml) |
 | 2171 | dignité | Würde | 7 |  | [Bearbeiten](cards/2171_dignité.yml) |
-| 2172 | légitime | berechtigt | 2 |  | [Bearbeiten](cards/2172_légitime.yml) |
+| 2172 | légitime | rechtmäßig, berechtigt | 2 |  | [Bearbeiten](cards/2172_légitime.yml) |
 | 2173 | philosophie | Philosophie | 7 |  | [Bearbeiten](cards/2173_philosophie.yml) |
 | 2174 | verre | Glas | 12 |  | [Bearbeiten](cards/2174_verre.yml) |
 | 2175 | spécifique | spezifisch | 5 |  | [Bearbeiten](cards/2175_spécifique.yml) |
@@ -2242,7 +2242,7 @@ Insgesamt gibt es 5000 Karten mit 40321 Beispielsätzen (durchschnittlich 8.1 pr
 | 2199 | réveiller | aufwecken, aufwachen | 12 |  | [Bearbeiten](cards/2199_réveiller.yml) |
 | 2200 | satellite | Satellit | 12 |  | [Bearbeiten](cards/2200_satellite.yml) |
 | 2201 | ordinateur | Computer | 14 |  | [Bearbeiten](cards/2201_ordinateur.yml) |
-| 2202 | fondé | berechtigt sein | 4 |  | [Bearbeiten](cards/2202_fondé.yml) |
+| 2202 | fondé | fundiert sein | 4 |  | [Bearbeiten](cards/2202_fondé.yml) |
 | 2203 | blessé | verletzt | 8 |  | [Bearbeiten](cards/2203_blessé.yml) |
 | 2204 | municipal | kommunal | 8 |  | [Bearbeiten](cards/2204_municipal.yml) |
 | 2205 | salut | Gruß; Hallo | 7 |  | [Bearbeiten](cards/2205_salut.yml) |
@@ -2268,7 +2268,7 @@ Insgesamt gibt es 5000 Karten mit 40321 Beispielsätzen (durchschnittlich 8.1 pr
 | 2225 | rédaction | Redaktion, Ausarbeitung | 9 |  | [Bearbeiten](cards/2225_rédaction.yml) |
 | 2226 | enceinte | schwanger; Gelände; Lautsprecher | 12 |  | [Bearbeiten](cards/2226_enceinte.yml) |
 | 2227 | substance | Substanz | 6 |  | [Bearbeiten](cards/2227_substance.yml) |
-| 2228 | soigner | sich kümmern um, behandeln | 12 |  | [Bearbeiten](cards/2228_soigner.yml) |
+| 2228 | soigner | sich kümmern um, behandeln | 11 |  | [Bearbeiten](cards/2228_soigner.yml) |
 | 2229 | récit | Erzählung, Bericht | 6 |  | [Bearbeiten](cards/2229_récit.yml) |
 | 2230 | revendication | Anspruch, Forderung | 11 | X | [Bearbeiten](cards/2230_revendication.yml) |
 | 2231 | incroyable | unglaublich | 8 |  | [Bearbeiten](cards/2231_incroyable.yml) |
@@ -2286,15 +2286,15 @@ Insgesamt gibt es 5000 Karten mit 40321 Beispielsätzen (durchschnittlich 8.1 pr
 | 2243 | paiement | Zahlung | 12 |  | [Bearbeiten](cards/2243_paiement.yml) |
 | 2244 | comparaison | Vergleich | 10 |  | [Bearbeiten](cards/2244_comparaison.yml) |
 | 2245 | musulman | Muslim | 4 |  | [Bearbeiten](cards/2245_musulman.yml) |
-| 2246 | déplacement | Reise, Bewegung | 6 |  | [Bearbeiten](cards/2246_déplacement.yml) |
+| 2246 | déplacement | (Geschäfts-)reise, Bewegung | 6 |  | [Bearbeiten](cards/2246_déplacement.yml) |
 | 2247 | légal | gesetzlich | 9 |  | [Bearbeiten](cards/2247_légal.yml) |
-| 2248 | dispositif | Vorrichtung, Einrichtung | 5 |  | [Bearbeiten](cards/2248_dispositif.yml) |
+| 2248 | dispositif | Vorrichtung | 5 |  | [Bearbeiten](cards/2248_dispositif.yml) |
 | 2249 | constitutionnel | verfassungsrechtlich | 6 |  | [Bearbeiten](cards/2249_constitutionnel.yml) |
-| 2250 | contrainte | Zwang, Einschränkung | 10 |  | [Bearbeiten](cards/2250_contrainte.yml) |
-| 2251 | tarder | sich Zeit lassen, verzögern | 7 |  | [Bearbeiten](cards/2251_tarder.yml) |
-| 2252 | refaire | neu machen, wiederholen | 12 |  | [Bearbeiten](cards/2252_refaire.yml) |
+| 2250 | contrainte | Zwang | 10 |  | [Bearbeiten](cards/2250_contrainte.yml) |
+| 2251 | tarder | trödeln, sich Zeit lassen | 7 |  | [Bearbeiten](cards/2251_tarder.yml) |
+| 2252 | refaire | wieder machen | 12 |  | [Bearbeiten](cards/2252_refaire.yml) |
 | 2253 | pleurer | weinen | 12 |  | [Bearbeiten](cards/2253_pleurer.yml) |
-| 2254 | débattre | diskutieren, debattieren | 7 |  | [Bearbeiten](cards/2254_débattre.yml) |
+| 2254 | débattre | debattieren | 7 |  | [Bearbeiten](cards/2254_débattre.yml) |
 | 2255 | immigration | Einwanderung | 3 |  | [Bearbeiten](cards/2255_immigration.yml) |
 | 2256 | cancer | Krebs | 10 |  | [Bearbeiten](cards/2256_cancer.yml) |
 | 2257 | lâcher | loslassen, aufgeben | 12 |  | [Bearbeiten](cards/2257_lâcher.yml) |
@@ -2307,10 +2307,10 @@ Insgesamt gibt es 5000 Karten mit 40321 Beispielsätzen (durchschnittlich 8.1 pr
 | 2264 | perdu | verloren | 12 |  | [Bearbeiten](cards/2264_perdu.yml) |
 | 2265 | obligé | verpflichtet | 6 |  | [Bearbeiten](cards/2265_obligé.yml) |
 | 2266 | visiteur | Besucher | 8 |  | [Bearbeiten](cards/2266_visiteur.yml) |
-| 2267 | remporter | gewinnen, erringen | 4 |  | [Bearbeiten](cards/2267_remporter.yml) |
+| 2267 | remporter | wieder mitnehmen, gewinnen | 4 |  | [Bearbeiten](cards/2267_remporter.yml) |
 | 2268 | rond | rund | 10 |  | [Bearbeiten](cards/2268_rond.yml) |
 | 2269 | étage | Stockwerk | 10 |  | [Bearbeiten](cards/2269_étage.yml) |
-| 2270 | intense | intensiv, stark | 2 |  | [Bearbeiten](cards/2270_intense.yml) |
+| 2270 | intense | intensiv | 2 |  | [Bearbeiten](cards/2270_intense.yml) |
 | 2271 | bébé | Baby | 6 |  | [Bearbeiten](cards/2271_bébé.yml) |
 | 2272 | amitié | Freundschaft | 12 |  | [Bearbeiten](cards/2272_amitié.yml) |
 | 2273 | cinquante | fünfzig | 11 |  | [Bearbeiten](cards/2273_cinquante.yml) |

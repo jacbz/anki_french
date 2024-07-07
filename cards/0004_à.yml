@@ -11,7 +11,7 @@ Definition: nach, in [örtlich], um [zeitlich]
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   Ils restent à l’école le plus longtemps possible.
   Sie bleiben so lange wie möglich in der Schule.
@@ -63,9 +63,6 @@ Beispielsätze: |-
 
   J'ai cousu un bouton sur ma chemise à la machine, c'est plus rapide.
   Ich habe einen Knopf an meinem Hemd genäht, das geht schneller mit der Maschine.
-
-  Il a bu toute la bouteille d'eau, il avait vraiment soif.
-  Er hat die ganze Flasche Wasser ausgetrunken, er hatte großen Durst.
 
   Elle prend plaisir à faire du vélo, c'est son passe-temps préféré.
   Sie hat Spaß beim Fahrradfahren, das ist ihr Lieblingshobby.
@@ -155,7 +152,7 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: |-
   <p class="attention">
     Die Präposition <b>à</b> verschmelzt mit dem bestimmten Artikel <b>le</b> und <b>les</b> zu einem Wort:<br>

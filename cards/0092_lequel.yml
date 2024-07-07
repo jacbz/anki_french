@@ -11,7 +11,7 @@ Definition: welche(-r/s)
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   Il y a bien des points sur lesquels je voudrais faire des commentaires.
   Es gibt viele Punkte, zu denen ich mich äußern möchte.
@@ -59,7 +59,7 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: |-
   <p>Im Unterschied zum Begleiter <span class="fr">quel</span> steht <span class="fr">lequel</span> als Pronomen ohne ein folgendes Bezugswort.</p>
 

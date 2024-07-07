@@ -11,7 +11,7 @@ Definition: er, ihm/ihr
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedes Paar kommen zwei Zeilenumbrüche.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   Mais j’ai confiance qu’en lui.
   Aber ich vertraue nur ihm.
@@ -62,7 +62,7 @@ Beispielsätze: |-
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
-# </div>                
+# </div>
 Notiz: |-
   <grammar data-id="UnverbundenePersonalpronomen"></grammar>
   <grammar data-id="IndirekteObjektpronomen"></grammar>
