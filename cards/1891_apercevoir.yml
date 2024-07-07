@@ -7,7 +7,7 @@ Wortart: v
 Wort mit Artikel: apercevoir
 Femininum / Plural: ''
 IPA: \a.pɛʁ.sə.vwaʁ\
-Definition: bemerken, wahrnehmen
+Definition: bemerken, erkennen
 Register: ↗Fiktion
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -45,4 +45,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>apercevoir</i> und <i>percevoir</i></div>
+    <div class="section-content">
+      <p><span class="fr">Percevoir</span> (#1661) bezieht sich auf die allgemeine Wahrnehmung durch die Sinne oder den Verstand. Diese Wahrnehmung muss nicht unbedingt bewusst erfolgen.</p>
+      <div class="examples">
+        <div class="fr">Il perçoit un bruit lointain sans y prêter attention.</div>
+        <div class="de spoiler">Er nimmt ein entferntes Geräusch wahr, ohne ihm Aufmerksamkeit zu schenken.</div>
+        <div class="fr">L'œil perçoit la lumière, même pendant le sommeil.</div>
+        <div class="de spoiler">Das Auge nimmt Licht wahr, selbst während des Schlafes.</div>
+      </div>
+      <p><span class="fr">Apercevoir</span> impliziert eine aktive, bewusste Wahrnehmung oder Erkenntnis. Es beinhaltet oft eine Anstrengung oder Absicht, etwas zu erfassen oder zu verstehen.</p>
+      <div class="examples">
+        <div class="fr">J'ai aperçu une silhouette dans l'obscurité.</div>
+        <div class="de spoiler">Ich habe eine Gestalt in der Dunkelheit wahrgenommen.</div>
+        <div class="fr">Il s'est efforcé d'apercevoir le sens caché du poème.</div>
+        <div class="de spoiler">Er bemühte sich, den verborgenen Sinn des Gedichts zu erfassen.</div>
+      </div>
+    </div>
+  </div>
