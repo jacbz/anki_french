@@ -57,4 +57,32 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>se rappeler</i> und <i>se souvenir</i></div>
+    <div class="section-content">
+      <p><span class="fr">Se rappeler</span> (#208) und <span class="fr">se souvenir</span> bedeuten beide „sich erinnern“, haben jedoch syntaktische Unterschiede:</p>
+
+      <p>1. <span class="fr">Se rappeler</span> wird mit direktem Objekt ohne Präposition verwendet:</p>
+      <div class="examples">
+        <div class="fr">Je me rappelle les vacances de ma jeunesse.</div>
+        <div class="de spoiler">Ich erinnere mich an die Ferien meiner Jugend.</div>
+      </div>
+
+      <p>2. <span class="fr">Se souvenir</span> wird mit der Präposition <b>de</b> verwendet:</p>
+      <div class="examples">
+        <div class="fr">Je me souviens <u>des</u> vacances de ma jeunesse.</div>
+        <div class="de spoiler">Ich erinnere mich an die Ferien meiner Jugend.</div>
+      </div>
+
+      <p>Besonderheiten:</p>
+      <ul>
+        <li><span class="fr">Se rappeler de</span> ist umgangssprachlich verbreitet, wird aber in der Standardsprache nicht empfohlen.</li>
+        <li>Bei Pronomen ist <span class="fr">se rappeler <u>de</u></span> erlaubt: <span class="fr">Je me rappelle de vous.</span></li>
+        <li>Mit Infinitiv kann <span class="fr">se rappeler <u>de</u></span> verwendet werden: <span class="fr">Rappelle-toi de me téléphoner.</span></li>
+        <li><span class="fr">se rappeler</span> verwendet <b>le</b> als Pronomen, <span class="fr">se souvenir</span> verwendet <b>en</b>:
+          <span class="fr">Je me <u>le</u> rappelle.</span> vs. <span class="fr">Je m'<u>en</u> souviens.</span>
+        </li>
+      </ul>
+    </div>
+  </div>
