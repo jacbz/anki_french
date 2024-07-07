@@ -37,7 +37,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40319 Beispielsätzen (durchschnittlich 8.1 pro Karte). 139 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40326 Beispielsätzen (durchschnittlich 8.1 pro Karte). 139 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -1065,7 +1065,7 @@ Insgesamt gibt es 5000 Karten mit 40319 Beispielsätzen (durchschnittlich 8.1 pr
 | 1022 | avril | April | 6 |  | [Bearbeiten](cards/1022_avril.yml) |
 | 1023 | autrement | anders, sonst | 11 |  | [Bearbeiten](cards/1023_autrement.yml) |
 | 1024 | ferme | fest, sicher; Bauernhof | 8 |  | [Bearbeiten](cards/1024_ferme.yml) |
-| 1025 | désormais | von nun an, künftig | 2 |  | [Bearbeiten](cards/1025_désormais.yml) |
+| 1025 | désormais | von nun an, inzwischen | 6 |  | [Bearbeiten](cards/1025_désormais.yml) |
 | 1026 | lourd | schwer | 12 |  | [Bearbeiten](cards/1026_lourd.yml) |
 | 1027 | susciter | hervorrufen, auslösen | 2 |  | [Bearbeiten](cards/1027_susciter.yml) |
 | 1028 | république | Republik | 11 |  | [Bearbeiten](cards/1028_république.yml) |
@@ -2093,7 +2093,7 @@ Insgesamt gibt es 5000 Karten mit 40319 Beispielsätzen (durchschnittlich 8.1 pr
 | 2050 | caractéristique | Merkmal, Eigenschaft | 9 |  | [Bearbeiten](cards/2050_caractéristique.yml) |
 | 2051 | dépenser | ausgeben, verbrauchen | 8 |  | [Bearbeiten](cards/2051_dépenser.yml) |
 | 2052 | censé | eigentlich | 5 |  | [Bearbeiten](cards/2052_censé.yml) |
-| 2053 | fuite | Flucht, Leck | 12 |  | [Bearbeiten](cards/2053_fuite.yml) |
+| 2053 | fuite | Flucht, Leck | 11 |  | [Bearbeiten](cards/2053_fuite.yml) |
 | 2054 | conviction | Überzeugung | 10 |  | [Bearbeiten](cards/2054_conviction.yml) |
 | 2055 | nettement | deutlich, klar | 4 |  | [Bearbeiten](cards/2055_nettement.yml) |
 | 2056 | détenir | besitzen, festnehmen | 4 |  | [Bearbeiten](cards/2056_détenir.yml) |
@@ -2318,15 +2318,15 @@ Insgesamt gibt es 5000 Karten mit 40319 Beispielsätzen (durchschnittlich 8.1 pr
 | 2275 | drame | Drama | 5 |  | [Bearbeiten](cards/2275_drame.yml) |
 | 2276 | visible | sichtbar | 7 |  | [Bearbeiten](cards/2276_visible.yml) |
 | 2277 | haine | Hass | 8 |  | [Bearbeiten](cards/2277_haine.yml) |
-| 2278 | instance | Instanz | 12 |  | [Bearbeiten](cards/2278_instance.yml) |
-| 2279 | cérémonie | Zeremonie, Feierlichkeit | 10 |  | [Bearbeiten](cards/2279_cérémonie.yml) |
+| 2278 | instance | Instanz, Verfahren | 12 |  | [Bearbeiten](cards/2278_instance.yml) |
+| 2279 | cérémonie | Feierlichkeit | 10 |  | [Bearbeiten](cards/2279_cérémonie.yml) |
 | 2280 | ambition | Ambition | 7 |  | [Bearbeiten](cards/2280_ambition.yml) |
 | 2281 | recourir | zurückgreifen, sich wenden | 10 |  | [Bearbeiten](cards/2281_recourir.yml) |
 | 2282 | sanction | Strafe, Sanktion | 10 |  | [Bearbeiten](cards/2282_sanction.yml) |
 | 2283 | géant | Riese | 7 |  | [Bearbeiten](cards/2283_géant.yml) |
 | 2284 | jardin | Garten | 18 |  | [Bearbeiten](cards/2284_jardin.yml) |
 | 2285 | nourriture | Essen, Nahrung | 10 |  | [Bearbeiten](cards/2285_nourriture.yml) |
-| 2286 | engendrer | erzeugen, hervorrufen | 2 |  | [Bearbeiten](cards/2286_engendrer.yml) |
+| 2286 | engendrer | (er-)zeugen | 6 |  | [Bearbeiten](cards/2286_engendrer.yml) |
 | 2287 | infrastructure | Infrastruktur | 6 |  | [Bearbeiten](cards/2287_infrastructure.yml) |
 | 2288 | adversaire | Gegner | 5 |  | [Bearbeiten](cards/2288_adversaire.yml) |
 | 2289 | africain | Afrikaner | 2 |  | [Bearbeiten](cards/2289_africain.yml) |
