@@ -7,7 +7,7 @@ Wortart: v
 Wort mit Artikel: emmener
 Femininum / Plural: ''
 IPA: \ɑ̃.mə.ne\
-Definition: '[jemanden] mitnehmen'
+Definition: '[jemanden] mitnehmen, wegbringen'
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -33,4 +33,26 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>emmener</i> und <i>amener</i></div>
+    <div class="section-content">
+      <p><span class="fr">Emmener</span> bedeutet <span class="de">"mitnehmen"</span> oder <span class="de">"wegbringen"</span>. Der Fokus liegt auf dem Ausgangspunkt bzw. dem Verlassen eines Ortes.</p>
+      <div class="examples">
+        <div class="fr">C'est l'heure de partir. Allez ! Je t'emmène maintenant.</div>
+        <div class="de spoiler">Es ist Zeit zu gehen. Los! Ich nehme dich jetzt mit.</div>
+        <div class="fr">Quand je voyage, j'emmène toujours mon chien avec moi !</div>
+        <div class="de spoiler">Wenn ich reise, nehme ich immer meinen Hund mit!</div>
+      </div>
+      <p><span class="fr">Amener</span> (#655) bedeutet <span class="de">"hinbringen"</span> oder <span class="de">"herbeibringen"</span>. Der Fokus liegt auf dem Zielort bzw. der Ankunft.</p>
+      <div class="examples">
+        <div class="fr">Je peux t'amener à l'aéroport si tu veux !</div>
+        <div class="de spoiler">Ich kann dich zum Flughafen bringen, wenn du möchtest!</div>
+        <div class="fr">Amène ton petit chat quand tu viendras. Les enfants l'adorent !</div>
+        <div class="de spoiler">Bring deine kleine Katze mit, wenn du kommst. Die Kinder lieben sie!</div>
+      </div>
+      <p>Beide Verben können umgangssprachlich auch für Gegenstände verwendet werden, obwohl dies als informell gilt.</p>
+      <p class="tip">Merkhilfe: <span class="fr">Amener</span> beginnt mit A wie Ankunft.</p>
+    </div>
+  </div>
+  <grammar data-id="VerbenBringenMitnehmen"></grammar>

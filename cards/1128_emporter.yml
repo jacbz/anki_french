@@ -51,4 +51,26 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>emporter</i> und <i>apporter</i></div>
+    <div class="section-content">
+      <p><span class="fr">Emporter</span> bedeutet <span class="de">"mitnehmen"</span> oder <span class="de">"wegbringen"</span> für Gegenstände. Der Fokus liegt auf dem Verlassen eines Ortes mit etwas.</p>
+      <div class="examples">
+        <div class="fr">J'emporte mes livres pour étudier.</div>
+        <div class="de spoiler">Ich nehme meine Bücher zum Lernen mit.</div>
+        <div class="fr">Le restaurant propose des repas à emporter.</div>
+        <div class="de spoiler">Das Restaurant bietet Essen zum Mitnehmen an.</div>
+      </div>
+      <p><span class="fr">Apporter</span> (#339) bedeutet <span class="de">"mitbringen"</span> oder <span class="de">"herbringen"</span> für Gegenstände. Der Fokus liegt auf der Ankunft mit etwas an einem Zielort.</p>
+      <div class="examples">
+        <div class="fr">J'apporterai des cadeaux aux enfants de ma famille.</div>
+        <div class="de spoiler">Ich werde den Kindern meiner Familie Geschenke mitbringen.</div>
+        <div class="fr">Si tu viens, apporte une bouteille de vin !</div>
+        <div class="de spoiler">Wenn du kommst, bring eine Flasche Wein mit!</div>
+      </div>
+      <p>Beide Verben beziehen sich auf das Transportieren von Gegenständen, die man in den Händen oder Armen tragen kann.</p>
+      <p class="tip">Merkhilfe: <span class="fr">Apporter</span> beginnt mit A wie Ankunft.</p>
+    </div>
+  </div>
+  <grammar data-id="VerbenBringenMitnehmen"></grammar>

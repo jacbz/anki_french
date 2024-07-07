@@ -54,4 +54,25 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>ramener</i> und <i>rapporter</i></div>
+    <div class="section-content">
+      <p><span class="fr">Ramener</span> bedeutet <span class="de">"zurückbringen"</span> oder <span class="de">"wieder mitbringen"</span>. Es impliziert eine Rückkehr mit jemandem oder etwas zum Ausgangspunkt.</p>
+      <div class="examples">
+        <div class="fr">Tu as trop bu ! Je te ramène chez toi !</div>
+        <div class="de spoiler">Du hast zu viel getrunken! Ich bringe dich nach Hause!</div>
+        <div class="fr">Ramène plus de fromages la prochaine fois ! J'adore ça !</div>
+        <div class="de spoiler">Bring nächstes Mal mehr Käse mit! Ich liebe das!</div>
+      </div>
+      <p><span class="fr">Rapporter</span> (#922) bedeutet ebenfalls <span class="de">"zurückbringen"</span> oder <span class="de">"wieder mitbringen"</span>, wird aber speziell für Gegenstände verwendet, die man in den Händen oder Armen trägt.</p>
+      <div class="examples">
+        <div class="fr">Si tu aimes ce jeu, je le rapporte la prochaine fois.</div>
+        <div class="de spoiler">Wenn du dieses Spiel magst, bringe ich es das nächste Mal wieder mit.</div>
+        <div class="fr">Tu veux que je te rapporte quoi du Mexique ?</div>
+        <div class="de spoiler">Was soll ich dir aus Mexiko mitbringen?</div>
+      </div>
+      <p>Beide Verben implizieren eine Rückkehr oder Wiederholung der Handlung, wobei <span class="fr">ramener</span> allgemeiner verwendet wird und <span class="fr">rapporter</span> sich spezifisch auf tragbare Gegenstände bezieht.</p>
+    </div>
+  </div>
+  <grammar data-id="VerbenBringenMitnehmen"></grammar>
