@@ -37,7 +37,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40321 Beispielsätzen (durchschnittlich 8.1 pro Karte). 151 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40321 Beispielsätzen (durchschnittlich 8.1 pro Karte). 152 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -1622,7 +1622,7 @@ Insgesamt gibt es 5000 Karten mit 40321 Beispielsätzen (durchschnittlich 8.1 pr
 | 1579 | foyer | Heim, Haushalt; Herd | 12 |  | [Bearbeiten](cards/1579_foyer.yml) |
 | 1580 | adulte | Erwachsener | 6 |  | [Bearbeiten](cards/1580_adulte.yml) |
 | 1581 | reprocher | vorwerfen, tadeln | 10 |  | [Bearbeiten](cards/1581_reprocher.yml) |
-| 1582 | métier | Beruf | 14 |  | [Bearbeiten](cards/1582_métier.yml) |
+| 1582 | métier | Beruf, Handwerk | 14 |  | [Bearbeiten](cards/1582_métier.yml) |
 | 1583 | modification | Änderung | 10 |  | [Bearbeiten](cards/1583_modification.yml) |
 | 1584 | peser | wiegen, lasten | 10 |  | [Bearbeiten](cards/1584_peser.yml) |
 | 1585 | médias | Medien | 2 |  | [Bearbeiten](cards/1585_médias.yml) |
@@ -2203,7 +2203,7 @@ Insgesamt gibt es 5000 Karten mit 40321 Beispielsätzen (durchschnittlich 8.1 pr
 | 2160 | coucher | schlafen, ins Bett gehen | 17 |  | [Bearbeiten](cards/2160_coucher.yml) |
 | 2161 | département | Departement, Abteilung | 5 |  | [Bearbeiten](cards/2161_département.yml) |
 | 2162 | génie | Genie | 14 |  | [Bearbeiten](cards/2162_génie.yml) |
-| 2163 | profession | Beruf | 9 |  | [Bearbeiten](cards/2163_profession.yml) |
+| 2163 | profession | Beruf | 9 | X | [Bearbeiten](cards/2163_profession.yml) |
 | 2164 | rumeur | Gerücht | 7 |  | [Bearbeiten](cards/2164_rumeur.yml) |
 | 2165 | mien | mein(-e/r/s) | 8 | X | [Bearbeiten](cards/2165_mien.yml) |
 | 2166 | drôle | lustig [noch Nomen]; seltsam [vor Nomen] | 15 |  | [Bearbeiten](cards/2166_drôle.yml) |

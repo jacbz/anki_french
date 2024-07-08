@@ -1,6 +1,5 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
-* Beruf: [métier](cards/1582_métier.yml) (#1582), [profession](cards/2163_profession.yml) (#2163)
 * fordern, verlangen: [exiger](cards/0733_exiger.yml) (#733), [requérir](cards/2300_requérir.yml) (#2300)
 * Typ, Kerl: [gars](cards/2304_gars.yml) (#2304), [mec](cards/2358_mec.yml) (#2358)
 * sofort: [immédiatement](cards/0807_immédiatement.yml) (#807), [aussitôt](cards/2362_aussitôt.yml) (#2362)
