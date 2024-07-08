@@ -1911,7 +1911,7 @@ Insgesamt gibt es 5000 Karten mit 40321 Beispielsätzen (durchschnittlich 8.1 pr
 | 1868 | office | Büro, Amt | 12 |  | [Bearbeiten](cards/1868_office.yml) |
 | 1869 | compliquer | erschweren, komplizierter machen | 4 |  | [Bearbeiten](cards/1869_compliquer.yml) |
 | 1870 | assumer | übernehmen, auf sich nehmen | 4 |  | [Bearbeiten](cards/1870_assumer.yml) |
-| 1871 | partiel | teilweise | 4 |  | [Bearbeiten](cards/1871_partiel.yml) |
+| 1871 | partiel | Teil- | 4 |  | [Bearbeiten](cards/1871_partiel.yml) |
 | 1872 | éprouver | empfinden, erleben | 5 | X | [Bearbeiten](cards/1872_éprouver.yml) |
 | 1873 | rendez-vous | Verabredung, Treffen | 12 |  | [Bearbeiten](cards/1873_rendez-vous.yml) |
 | 1874 | argument | Argument | 7 |  | [Bearbeiten](cards/1874_argument.yml) |
@@ -2331,11 +2331,11 @@ Insgesamt gibt es 5000 Karten mit 40321 Beispielsätzen (durchschnittlich 8.1 pr
 | 2288 | adversaire | Gegner | 5 |  | [Bearbeiten](cards/2288_adversaire.yml) |
 | 2289 | africain | Afrikaner | 2 |  | [Bearbeiten](cards/2289_africain.yml) |
 | 2290 | royal | königlich | 5 |  | [Bearbeiten](cards/2290_royal.yml) |
-| 2291 | mobile | Beweggrund, Motiv | 5 |  | [Bearbeiten](cards/2291_mobile.yml) |
-| 2292 | significatif | bedeutend, aussagekräftig | 3 |  | [Bearbeiten](cards/2292_significatif.yml) |
+| 2291 | mobile | Motiv; beweglich | 5 |  | [Bearbeiten](cards/2291_mobile.yml) |
+| 2292 | significatif | bedeutsam | 3 |  | [Bearbeiten](cards/2292_significatif.yml) |
 | 2293 | circulation | Verkehr | 12 |  | [Bearbeiten](cards/2293_circulation.yml) |
-| 2294 | cotisation | Beitrag | 10 |  | [Bearbeiten](cards/2294_cotisation.yml) |
-| 2295 | entente | Verständigung, Einigung | 12 |  | [Bearbeiten](cards/2295_entente.yml) |
+| 2294 | cotisation | Beitrag(-szahlung) | 10 |  | [Bearbeiten](cards/2294_cotisation.yml) |
+| 2295 | entente | Vereinbarung, Kartell | 12 |  | [Bearbeiten](cards/2295_entente.yml) |
 | 2296 | cheveu | Haar | 12 |  | [Bearbeiten](cards/2296_cheveu.yml) |
 | 2297 | ralentir | verlangsamen | 3 |  | [Bearbeiten](cards/2297_ralentir.yml) |
 | 2298 | cadeau | Geschenk | 13 |  | [Bearbeiten](cards/2298_cadeau.yml) |
