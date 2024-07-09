@@ -7,6 +7,7 @@ function formatDefinition() {
         /([^,;]+)/g,
         (match) => `<span class="no-break">${match}</span>`
       );
+      text = text.replaceAll('<span class="no-break"> ', ' <span class="no-break">');
     }
 
     text = text.replace(/\((.*?)\)/g, '<span class="pre-suffix">$&</span>');
