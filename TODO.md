@@ -1,12 +1,12 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
-* fordern, verlangen: [exiger](cards/0733_exiger.yml) (#733), [requérir](cards/2300_requérir.yml) (#2300)
+* erfordern: [nécessiter](cards/2214_nécessiter.yml) (#2214), [requérir](cards/2300_requérir.yml) (#2300)
+* Sitzung: [séance](cards/1463_séance.yml) (#1463), [session](cards/2324_session.yml) (#2324)
 * Typ, Kerl: [gars](cards/2304_gars.yml) (#2304), [mec](cards/2358_mec.yml) (#2358)
 * sofort: [immédiatement](cards/0807_immédiatement.yml) (#807), [aussitôt](cards/2362_aussitôt.yml) (#2362)
 * Führer: [leader](cards/1499_leader.yml) (#1499), [guide](cards/2392_guide.yml) (#2392)
 * Gemeinschaft: [communauté](cards/0558_communauté.yml) (#558), [collectivité](cards/2408_collectivité.yml) (#2408)
 * Gewinn: [profit](cards/1032_profit.yml) (#1032), [gain](cards/2420_gain.yml) (#2420)
-* beginnen, anfangen: [entamer](cards/2325_entamer.yml) (#2325), [débuter](cards/2426_débuter.yml) (#2426)
 * Opfer: [victime](cards/0697_victime.yml) (#697), [sacrifice](cards/2437_sacrifice.yml) (#2437)
 * Gegenteil: [contraire](cards/0619_contraire.yml) (#619), [inverse](cards/2452_inverse.yml) (#2452)
 * Lehrer: [professeur](cards/1150_professeur.yml) (#1150), [enseignant](cards/2456_enseignant.yml) (#2456)
@@ -52,7 +52,6 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * Anpassung: [adaptation](cards/2701_adaptation.yml) (#2701), [ajustement](cards/3621_ajustement.yml) (#3621)
 * Kind: [enfant](cards/0126_enfant.yml) (#126), [gosse](cards/3631_gosse.yml) (#3631)
 * Kosten: [coût](cards/0830_coût.yml) (#830), [dépens](cards/3654_dépens.yml) (#3654)
-* Ball: [balle](cards/2311_balle.yml) (#2311), [ballon](cards/3692_ballon.yml) (#3692)
 * Hoffnung: [espoir](cards/0717_espoir.yml) (#717), [espérance](cards/3715_espérance.yml) (#3715)
 * Gast: [invité](cards/2478_invité.yml) (#2478), [hôte](cards/3780_hôte.yml) (#3780)
 * Mörder: [meurtrier](cards/2681_meurtrier.yml) (#2681), [tueur](cards/3581_tueur.yml) (#3581), [assassin](cards/3781_assassin.yml) (#3781)

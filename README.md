@@ -37,7 +37,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40321 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1027 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40330 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1027 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -893,7 +893,7 @@ Insgesamt gibt es 5000 Karten mit 40321 Beispielsätzen (durchschnittlich 8.1 pr
 | 850 | envisager | erwägen; rechnen mit | 10 |  | [Bearbeiten](cards/0850_envisager.yml) |
 | 851 | commune | Gemeinde | 2 |  | [Bearbeiten](cards/0851_commune.yml) |
 | 852 | ressource | Ressource | 13 |  | [Bearbeiten](cards/0852_ressource.yml) |
-| 853 | monter | (be-)steigen, einsteigen | 17 |  | [Bearbeiten](cards/0853_monter.yml) |
+| 853 | monter | (be-)steigen, aufstellen | 17 |  | [Bearbeiten](cards/0853_monter.yml) |
 | 854 | promettre | versprechen | 12 | X | [Bearbeiten](cards/0854_promettre.yml) |
 | 855 | motion | Antrag | 3 | X | [Bearbeiten](cards/0855_motion.yml) |
 | 856 | concentrer | konzentrieren | 7 |  | [Bearbeiten](cards/0856_concentrer.yml) |
@@ -1538,7 +1538,7 @@ Insgesamt gibt es 5000 Karten mit 40321 Beispielsätzen (durchschnittlich 8.1 pr
 | 1495 | culturel | kulturell | 4 |  | [Bearbeiten](cards/1495_culturel.yml) |
 | 1496 | coopération | Zusammenarbeit | 8 |  | [Bearbeiten](cards/1496_coopération.yml) |
 | 1497 | vertu | Tugend | 11 |  | [Bearbeiten](cards/1497_vertu.yml) |
-| 1498 | d’autant | umso | 2 |  | [Bearbeiten](cards/1498_d’autant.yml) |
+| 1498 | d’autant | umso | 7 |  | [Bearbeiten](cards/1498_d’autant.yml) |
 | 1499 | leader | Führer | 7 | X | [Bearbeiten](cards/1499_leader.yml) |
 | 1500 | taille | Größe | 15 |  | [Bearbeiten](cards/1500_taille.yml) |
 | 1501 | contenu | Inhalt | 8 |  | [Bearbeiten](cards/1501_contenu.yml) |
@@ -1577,7 +1577,7 @@ Insgesamt gibt es 5000 Karten mit 40321 Beispielsätzen (durchschnittlich 8.1 pr
 | 1534 | mètre | Meter | 9 |  | [Bearbeiten](cards/1534_mètre.yml) |
 | 1535 | aborder | ansprechen, angehen | 9 |  | [Bearbeiten](cards/1535_aborder.yml) |
 | 1536 | occidental | westlich | 5 |  | [Bearbeiten](cards/1536_occidental.yml) |
-| 1537 | suffisant | ausreichend; selbstgefällig | 4 |  | [Bearbeiten](cards/1537_suffisant.yml) |
+| 1537 | suffisant | ausreichend; selbstgefällig | 6 |  | [Bearbeiten](cards/1537_suffisant.yml) |
 | 1538 | ciel | Himmel | 14 |  | [Bearbeiten](cards/1538_ciel.yml) |
 | 1539 | tromper | täuschen, betrügen | 12 |  | [Bearbeiten](cards/1539_tromper.yml) |
 | 1540 | modeste | bescheiden | 7 |  | [Bearbeiten](cards/1540_modeste.yml) |
@@ -2321,7 +2321,7 @@ Insgesamt gibt es 5000 Karten mit 40321 Beispielsätzen (durchschnittlich 8.1 pr
 | 2278 | instance | Instanz, Verfahren | 12 |  | [Bearbeiten](cards/2278_instance.yml) |
 | 2279 | cérémonie | Feierlichkeit | 10 |  | [Bearbeiten](cards/2279_cérémonie.yml) |
 | 2280 | ambition | Ambition | 7 |  | [Bearbeiten](cards/2280_ambition.yml) |
-| 2281 | recourir | zurückgreifen, sich wenden | 10 |  | [Bearbeiten](cards/2281_recourir.yml) |
+| 2281 | recourir | zurückgreifen, sich [an jdn.] wenden | 10 |  | [Bearbeiten](cards/2281_recourir.yml) |
 | 2282 | sanction | Strafe, Sanktion | 10 |  | [Bearbeiten](cards/2282_sanction.yml) |
 | 2283 | géant | Riese | 7 |  | [Bearbeiten](cards/2283_géant.yml) |
 | 2284 | jardin | Garten | 18 |  | [Bearbeiten](cards/2284_jardin.yml) |
@@ -2339,33 +2339,33 @@ Insgesamt gibt es 5000 Karten mit 40321 Beispielsätzen (durchschnittlich 8.1 pr
 | 2296 | cheveu | Haar | 12 | X | [Bearbeiten](cards/2296_cheveu.yml) |
 | 2297 | ralentir | verlangsamen | 3 |  | [Bearbeiten](cards/2297_ralentir.yml) |
 | 2298 | cadeau | Geschenk | 13 |  | [Bearbeiten](cards/2298_cadeau.yml) |
-| 2299 | affirmation | Behauptung, Aussage | 5 |  | [Bearbeiten](cards/2299_affirmation.yml) |
-| 2300 | requérir | fordern, verlangen | 3 |  | [Bearbeiten](cards/2300_requérir.yml) |
+| 2299 | affirmation | Behauptung | 5 |  | [Bearbeiten](cards/2299_affirmation.yml) |
+| 2300 | requérir | erfordern | 3 |  | [Bearbeiten](cards/2300_requérir.yml) |
 | 2301 | destination | Ziel | 7 |  | [Bearbeiten](cards/2301_destination.yml) |
 | 2302 | stabilité | Stabilität | 4 |  | [Bearbeiten](cards/2302_stabilité.yml) |
-| 2303 | louer | mieten, vermieten | 12 |  | [Bearbeiten](cards/2303_louer.yml) |
+| 2303 | louer | (ver-)mieten; loben | 12 |  | [Bearbeiten](cards/2303_louer.yml) |
 | 2304 | gars | Typ, Kerl | 4 |  | [Bearbeiten](cards/2304_gars.yml) |
 | 2305 | fleur | Blume | 15 | X | [Bearbeiten](cards/2305_fleur.yml) |
 | 2306 | agriculteur | Landwirt | 4 |  | [Bearbeiten](cards/2306_agriculteur.yml) |
 | 2307 | poète | Dichter | 3 |  | [Bearbeiten](cards/2307_poète.yml) |
-| 2308 | fabrication | Herstellung, Fertigung | 10 |  | [Bearbeiten](cards/2308_fabrication.yml) |
+| 2308 | fabrication | Herstellung | 10 |  | [Bearbeiten](cards/2308_fabrication.yml) |
 | 2309 | vin | Wein | 13 | X | [Bearbeiten](cards/2309_vin.yml) |
 | 2310 | soudain | plötzlich | 3 |  | [Bearbeiten](cards/2310_soudain.yml) |
-| 2311 | balle | Ball | 12 |  | [Bearbeiten](cards/2311_balle.yml) |
+| 2311 | balle | Ball, Kugel | 12 |  | [Bearbeiten](cards/2311_balle.yml) |
 | 2312 | inflation | Inflation | 8 |  | [Bearbeiten](cards/2312_inflation.yml) |
 | 2313 | sec | trocken | 8 | X | [Bearbeiten](cards/2313_sec.yml) |
-| 2314 | arrêté | Anordnung, Verfügung | 5 |  | [Bearbeiten](cards/2314_arrêté.yml) |
-| 2315 | enfermer | pflegen, betreuen | 12 |  | [Bearbeiten](cards/2315_enfermer.yml) |
-| 2316 | abattre | niederlegen, umhauen | 12 |  | [Bearbeiten](cards/2316_abattre.yml) |
+| 2314 | arrêté | Anordnung; fest(-gefahren) | 5 |  | [Bearbeiten](cards/2314_arrêté.yml) |
+| 2315 | enfermer | einschließen | 12 |  | [Bearbeiten](cards/2315_enfermer.yml) |
+| 2316 | abattre | niederlegen, einreißen | 12 |  | [Bearbeiten](cards/2316_abattre.yml) |
 | 2317 | paysan | Bauer | 7 |  | [Bearbeiten](cards/2317_paysan.yml) |
 | 2318 | transition | Übergang | 6 |  | [Bearbeiten](cards/2318_transition.yml) |
 | 2319 | humanitaire | humanitär | 4 |  | [Bearbeiten](cards/2319_humanitaire.yml) |
 | 2320 | répandre | verbreiten | 8 |  | [Bearbeiten](cards/2320_répandre.yml) |
 | 2321 | adoption | Adoption | 3 |  | [Bearbeiten](cards/2321_adoption.yml) |
-| 2322 | adorer | anbeten, sehr mögen | 6 |  | [Bearbeiten](cards/2322_adorer.yml) |
+| 2322 | adorer | sehr mögen | 6 |  | [Bearbeiten](cards/2322_adorer.yml) |
 | 2323 | appartement | Wohnung | 5 |  | [Bearbeiten](cards/2323_appartement.yml) |
-| 2324 | session | Sitzung, Session | 5 |  | [Bearbeiten](cards/2324_session.yml) |
-| 2325 | entamer | beginnen, anfangen | 6 |  | [Bearbeiten](cards/2325_entamer.yml) |
+| 2324 | session | Sitzung | 5 |  | [Bearbeiten](cards/2324_session.yml) |
+| 2325 | entamer | einleiten, erschüttern | 8 |  | [Bearbeiten](cards/2325_entamer.yml) |
 | 2326 | ménage | Haushalt | 11 |  | [Bearbeiten](cards/2326_ménage.yml) |
 | 2327 | purement | rein, ausschließlich | 4 |  | [Bearbeiten](cards/2327_purement.yml) |
 | 2328 | enjeu | Wette, Einsatz | 3 |  | [Bearbeiten](cards/2328_enjeu.yml) |
@@ -2510,7 +2510,7 @@ Insgesamt gibt es 5000 Karten mit 40321 Beispielsätzen (durchschnittlich 8.1 pr
 | 2467 | impressionnant | beeindruckend | 4 |  | [Bearbeiten](cards/2467_impressionnant.yml) |
 | 2468 | scénario | Drehbuch, Handlung | 3 |  | [Bearbeiten](cards/2468_scénario.yml) |
 | 2469 | électricité | Elektrizität | 7 | X | [Bearbeiten](cards/2469_électricité.yml) |
-| 2470 | gratuit | kostenlos, Gratis- | 6 |  | [Bearbeiten](cards/2470_gratuit.yml) |
+| 2470 | gratuit | kostenlos; willkürlich | 6 |  | [Bearbeiten](cards/2470_gratuit.yml) |
 | 2471 | révolutionnaire | revolutionär | 3 |  | [Bearbeiten](cards/2471_révolutionnaire.yml) |
 | 2472 | jambe | Bein | 12 | X | [Bearbeiten](cards/2472_jambe.yml) |
 | 2473 | insuffisant | unzureichend | 4 |  | [Bearbeiten](cards/2473_insuffisant.yml) |
