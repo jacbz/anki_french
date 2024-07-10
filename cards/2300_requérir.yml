@@ -7,12 +7,9 @@ Wortart: v
 Wort mit Artikel: requérir
 Femininum / Plural: ''
 IPA: \ʁə.ke.ʁiʁ\
-Definition: erfordern
+Definition: anfordern, verlangen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
-Beispielsätze: |-
+Beispielsätze: |
   Cela requiert sans doute un certain effort.
   Dies erfordert zweifellos eine gewisse Anstrengung.
 
@@ -22,9 +19,31 @@ Beispielsätze: |-
   Il a requis l'aide de sa sœur pour déménager.
   Er hat seine Schwester um Hilfe beim Umzug gebeten.
 
+  Le demandeur peut à tout moment requérir une procédure orale.
+  Der Anmelder kann jederzeit eine mündliche Verhandlung beantragen.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>nécessiter</i> und <i>requérir</i></div>
+    <div class="section-content">
+      <p><span class="fr">Nécessiter</span> (#2214) bedeutet <span class="de">"erfordern"</span> oder <span class="de">"notwendig machen"</span>. Es wird für unpersönliche Subjekte oder abstrakte Konzepte verwendet, nicht für Personen oder konkrete Objekte.</p>
+      <div class="examples">
+        <div class="fr">Ce projet nécessite beaucoup de temps et d'efforts.</div>
+        <div class="de spoiler">Dieses Projekt erfordert viel Zeit und Aufwand.</div>
+        <div class="fr">La situation nécessite une intervention rapide.</div>
+        <div class="de spoiler">Die Situation erfordert ein schnelles Eingreifen.</div>
+      </div>
+      <p><span class="fr">Requérir</span> bedeutet <span class="de">"verlangen"</span>, <span class="de">"erfordern"</span> oder <span class="de">"anfordern"</span>. Im Gegensatz zu <span class="fr">nécessiter</span> kann es sowohl für Personen als auch für Sachen als Subjekt verwendet werden.</p>
+      <div class="examples">
+        <div class="fr">Le patient requiert des soins immédiats.</div>
+        <div class="de spoiler">Der Patient benötigt sofortige Pflege.</div>
+        <div class="fr">Cette tâche requiert une grande concentration.</div>
+        <div class="de spoiler">Diese Aufgabe erfordert hohe Konzentration.</div>
+      </div>
+    </div>
+  </div>
