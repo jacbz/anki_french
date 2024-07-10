@@ -7,7 +7,7 @@ Wortart: nf
 Wort mit Artikel: la session
 Femininum / Plural: ''
 IPA: \sɛ.sjɔ̃\
-Definition: Sitzung
+Definition: Sitzung(-speriode)
 Register: ↘Fiktion
 Beispielsätze: "Il y a seulement eu une session de débriefing.\nEs gab nur eine Nachbesprechungssitzung.\n\
   \nLa session du conseil a duré toute la journée.\nDie Sitzung des Rates dauerte\
@@ -23,4 +23,24 @@ Beispielsätze: "Il y a seulement eu une session de débriefing.\nEs gab nur ein
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>session</i> und <i>séance</i></div>
+    <div class="section-content">
+      <p><span class="fr">Session</span> bezeichnet eine Reihe von Sitzungen oder Veranstaltungen über einen bestimmten Zeitraum. Es entspricht im Deutschen oft dem Begriff <span class="de">"Sitzungsperiode"</span> oder <span class="de">"Tagungsperiode"</span>.</p>
+      <div class="examples">
+        <div class="fr">La session des examens s'étendra du 5 au 12 décembre.</div>
+        <div class="de spoiler">Die Prüfungsperiode erstreckt sich vom 5. bis 12. Dezember.</div>
+        <div class="fr">La session parlementaire reprendra sous peu.</div>
+        <div class="de spoiler">Die Sitzungsperiode des Parlaments wird in Kürze wieder aufgenommen.</div>
+      </div>
+      <p><span class="fr">Séance</span> (#1463) bezieht sich auf eine einzelne Sitzung oder Veranstaltung. Es entspricht im Deutschen dem Begriff <span class="de">"Sitzung"</span> oder <span class="de">"Veranstaltung"</span>.</p>
+      <div class="examples">
+        <div class="fr">Les séances de formation débutent la semaine prochaine.</div>
+        <div class="de spoiler">Die Schulungssitzungen beginnen nächste Woche.</div>
+        <div class="fr">Les séances du comité reprendront en septembre.</div>
+        <div class="de spoiler">Die Ausschusssitzungen werden im September wieder aufgenommen.</div>
+      </div>
+      <p class="tip">Die Verwendung von <span class="fr">session</span> für eine einzelne Sitzung ist ein Anglizismus und sollte vermieden werden.</p>
+    </div>
+  </div>
