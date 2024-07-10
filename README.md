@@ -37,7 +37,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40330 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1027 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40331 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1030 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -179,7 +179,7 @@ Insgesamt gibt es 5000 Karten mit 40330 Beispielsätzen (durchschnittlich 8.1 pr
 | 136 | homme | Mann | 15 | X | [Bearbeiten](cards/0136_homme.yml) |
 | 137 | cas | Fall | 13 |  | [Bearbeiten](cards/0137_cas.yml) |
 | 138 | petit | klein | 8 | X | [Bearbeiten](cards/0138_petit.yml) |
-| 139 | commencer | anfangen, beginnen | 6 |  | [Bearbeiten](cards/0139_commencer.yml) |
+| 139 | commencer | [mit etw.] anfangen | 6 |  | [Bearbeiten](cards/0139_commencer.yml) |
 | 140 | compter | zählen, rechnen | 12 |  | [Bearbeiten](cards/0140_compter.yml) |
 | 141 | fait | Tatsache | 12 |  | [Bearbeiten](cards/0141_fait.yml) |
 | 142 | tel | solch, so ein | 12 |  | [Bearbeiten](cards/0142_tel.yml) |
@@ -1503,7 +1503,7 @@ Insgesamt gibt es 5000 Karten mit 40330 Beispielsätzen (durchschnittlich 8.1 pr
 | 1460 | propriété | Eigentum, Besitz | 13 |  | [Bearbeiten](cards/1460_propriété.yml) |
 | 1461 | final | Ende, Finale | 2 |  | [Bearbeiten](cards/1461_final.yml) |
 | 1462 | site | Website, Standort | 12 |  | [Bearbeiten](cards/1462_site.yml) |
-| 1463 | séance | Sitzung | 12 |  | [Bearbeiten](cards/1463_séance.yml) |
+| 1463 | séance | Sitzung, Vorstellung | 12 |  | [Bearbeiten](cards/1463_séance.yml) |
 | 1464 | durée | Dauer | 12 | X | [Bearbeiten](cards/1464_durée.yml) |
 | 1465 | élire | wählen, küren | 3 |  | [Bearbeiten](cards/1465_élire.yml) |
 | 1466 | baisse | Rückgang, Senkung | 12 |  | [Bearbeiten](cards/1466_baisse.yml) |
@@ -2340,7 +2340,7 @@ Insgesamt gibt es 5000 Karten mit 40330 Beispielsätzen (durchschnittlich 8.1 pr
 | 2297 | ralentir | verlangsamen | 3 |  | [Bearbeiten](cards/2297_ralentir.yml) |
 | 2298 | cadeau | Geschenk | 13 |  | [Bearbeiten](cards/2298_cadeau.yml) |
 | 2299 | affirmation | Behauptung | 5 |  | [Bearbeiten](cards/2299_affirmation.yml) |
-| 2300 | requérir | erfordern | 3 |  | [Bearbeiten](cards/2300_requérir.yml) |
+| 2300 | requérir | anfordern, verlangen | 4 | X | [Bearbeiten](cards/2300_requérir.yml) |
 | 2301 | destination | Ziel | 7 |  | [Bearbeiten](cards/2301_destination.yml) |
 | 2302 | stabilité | Stabilität | 4 |  | [Bearbeiten](cards/2302_stabilité.yml) |
 | 2303 | louer | (ver-)mieten; loben | 12 |  | [Bearbeiten](cards/2303_louer.yml) |
@@ -2364,8 +2364,8 @@ Insgesamt gibt es 5000 Karten mit 40330 Beispielsätzen (durchschnittlich 8.1 pr
 | 2321 | adoption | Adoption | 3 |  | [Bearbeiten](cards/2321_adoption.yml) |
 | 2322 | adorer | sehr mögen | 6 |  | [Bearbeiten](cards/2322_adorer.yml) |
 | 2323 | appartement | Wohnung | 5 |  | [Bearbeiten](cards/2323_appartement.yml) |
-| 2324 | session | Sitzung | 5 |  | [Bearbeiten](cards/2324_session.yml) |
-| 2325 | entamer | einleiten, erschüttern | 8 |  | [Bearbeiten](cards/2325_entamer.yml) |
+| 2324 | session | Sitzung(-speriode) | 5 | X | [Bearbeiten](cards/2324_session.yml) |
+| 2325 | entamer | einleiten, anschneiden | 8 |  | [Bearbeiten](cards/2325_entamer.yml) |
 | 2326 | ménage | Haushalt | 11 |  | [Bearbeiten](cards/2326_ménage.yml) |
 | 2327 | purement | rein, ausschließlich | 4 |  | [Bearbeiten](cards/2327_purement.yml) |
 | 2328 | enjeu | Wette, Einsatz | 3 |  | [Bearbeiten](cards/2328_enjeu.yml) |
@@ -2466,7 +2466,7 @@ Insgesamt gibt es 5000 Karten mit 40330 Beispielsätzen (durchschnittlich 8.1 pr
 | 2423 | protester | protestieren | 5 |  | [Bearbeiten](cards/2423_protester.yml) |
 | 2424 | curieux | neugierig, seltsam | 15 |  | [Bearbeiten](cards/2424_curieux.yml) |
 | 2425 | effacer | löschen, auslöschen | 7 |  | [Bearbeiten](cards/2425_effacer.yml) |
-| 2426 | débuter | beginnen, anfangen | 4 |  | [Bearbeiten](cards/2426_débuter.yml) |
+| 2426 | débuter | anfangen, beginnen | 4 | X | [Bearbeiten](cards/2426_débuter.yml) |
 | 2427 | creuser | graben, vertiefen | 6 |  | [Bearbeiten](cards/2427_creuser.yml) |
 | 2428 | allusion | Anspielung | 3 |  | [Bearbeiten](cards/2428_allusion.yml) |
 | 2429 | lancement | Start, Einführung | 8 |  | [Bearbeiten](cards/2429_lancement.yml) |

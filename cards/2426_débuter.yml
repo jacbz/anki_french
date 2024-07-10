@@ -7,7 +7,7 @@ Wortart: v
 Wort mit Artikel: débuter
 Femininum / Plural: ''
 IPA: \de.by.te\
-Definition: beginnen, anfangen
+Definition: anfangen, beginnen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -30,4 +30,28 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>commencer</i> und <i>débuter</i></div>
+    <div class="section-content">
+      <p>Beide Verben bedeuten grundsätzlich <span class="de">"beginnen"</span> oder <span class="de">"anfangen"</span>. Der Hauptunterschied liegt in ihrer grammatikalischen Verwendung:</p>
+
+      <p><span class="fr">Commencer</span> (#139) kann sowohl mit als auch ohne direktes Objekt verwendet werden:</p>
+      <div class="examples">
+        <div class="fr">L'animatrice a commencé l'émission par un numéro humoristique.</div>
+        <div class="de spoiler">Die Moderatorin begann die Sendung mit einer humorvollen Nummer.</div>
+        <div class="fr">Nous commencerons les travaux de rénovation la semaine prochaine.</div>
+        <div class="de spoiler">Wir werden nächste Woche mit den Renovierungsarbeiten beginnen.</div>
+      </div>
+
+      <p><span class="fr">Débuter</span> wird in der Regel ohne direktes Objekt verwendet. Es wird oft mit Zeitangaben oder im Kontext von Karrieren benutzt:</p>
+      <div class="examples">
+        <div class="fr">Cette série télévisée débute le 20 septembre.</div>
+        <div class="de spoiler">Diese Fernsehserie beginnt am 20. September.</div>
+        <div class="fr">Elle a débuté comme simple choriste dans un groupe méconnu.</div>
+        <div class="de spoiler">Sie begann ihre Karriere als einfache Chorsängerin in einer unbekannten Band.</div>
+      </div>
+
+      <p class="tip">Die Verwendung von <span class="fr">débuter</span> mit einem direkten Objekt wird oft als inkorrekt angesehen, obwohl es im alltäglichen Sprachgebrauch vorkommt.</p>
+    </div>
+  </div>

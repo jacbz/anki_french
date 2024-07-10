@@ -1,7 +1,5 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
-* erfordern: [nécessiter](cards/2214_nécessiter.yml) (#2214), [requérir](cards/2300_requérir.yml) (#2300)
-* Sitzung: [séance](cards/1463_séance.yml) (#1463), [session](cards/2324_session.yml) (#2324)
 * Typ, Kerl: [gars](cards/2304_gars.yml) (#2304), [mec](cards/2358_mec.yml) (#2358)
 * sofort: [immédiatement](cards/0807_immédiatement.yml) (#807), [aussitôt](cards/2362_aussitôt.yml) (#2362)
 * Führer: [leader](cards/1499_leader.yml) (#1499), [guide](cards/2392_guide.yml) (#2392)
@@ -19,7 +17,7 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * Ziel: [destination](cards/2301_destination.yml) (#2301), [cible](cards/2740_cible.yml) (#2740)
 * Gefangener: [prisonnier](cards/1618_prisonnier.yml) (#1618), [détenu](cards/2741_détenu.yml) (#2741)
 * Decke: [couverture](cards/1698_couverture.yml) (#1698), [plafond](cards/2823_plafond.yml) (#2823)
-* anfangen, beginnen: [commencer](cards/0139_commencer.yml) (#139), [amorcer](cards/2897_amorcer.yml) (#2897)
+* anfangen, beginnen: [débuter](cards/2426_débuter.yml) (#2426), [amorcer](cards/2897_amorcer.yml) (#2897)
 * beruhigen: [rassurer](cards/1842_rassurer.yml) (#1842), [calmer](cards/2909_calmer.yml) (#2909)
 * Wahl: [choix](cards/0436_choix.yml) (#436), [scrutin](cards/2913_scrutin.yml) (#2913)
 * Rezept: [recette](cards/1709_recette.yml) (#1709), [ordonnance](cards/2922_ordonnance.yml) (#2922)
