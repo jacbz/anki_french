@@ -576,6 +576,20 @@ if (rank >= "1" && rank <= "5000") {
 }
 
 /**
+ * Update notice
+ */
+const lastUpdated = new Date("___LAST_UPDATED___");
+const numberOfDaysSince = Math.floor(
+  (Date.now() - lastUpdated.getTime()) / (1000 * 60 * 60 * 24)
+);
+const updateNotice = document.getElementById("update-notice");
+const updateNoticeDays = document.getElementById("update-notice-days");
+if (numberOfDaysSince >= 90) {
+  updateNoticeDays.textContent = numberOfDaysSince;
+  updateNotice.style.display = "block";
+}
+
+/**
  * Helper functions
  */
 ___COMMONJS___;
