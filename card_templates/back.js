@@ -565,8 +565,8 @@ function expandSection(section) {
  * GitHub
  */
 const github = document.querySelector(".github > a");
-const rank = document.querySelector(".rank").dataset.content;
-if (rank >= "1" && rank <= "5000") {
+const rank = parseInt(document.querySelector(".rank").dataset.content);
+if (rank >= 1 && rank <= 5000) {
   github.href = `https://github.com/jacbz/anki_french/blob/main/cards/${rank.padStart(
     4,
     "0"
@@ -582,9 +582,9 @@ const lastUpdated = new Date("___LAST_UPDATED___");
 const numberOfDaysSince = Math.floor(
   (Date.now() - lastUpdated.getTime()) / (1000 * 60 * 60 * 24)
 );
-const updateNotice = document.getElementById("update-notice");
-const updateNoticeDays = document.getElementById("update-notice-days");
 if (numberOfDaysSince >= 90) {
+  const updateNotice = document.getElementById("update-notice");
+  const updateNoticeDays = document.getElementById("update-notice-days");
   updateNoticeDays.textContent = numberOfDaysSince;
   updateNotice.style.display = "block";
 }
