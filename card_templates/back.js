@@ -291,6 +291,7 @@ fetch(`${getAnkiPrefix()}/_FR5000_grammar.json`)
   });
 
 function loadGrammar(id, into) {
+  id = id.normalize();
   if (!grammar.content[id]) {
     into.innerHTML = `Fehler: Grammatik ${id} nicht gefunden.`;
     return;
@@ -567,7 +568,7 @@ function expandSection(section) {
 const github = document.querySelector(".github > a");
 const rank = parseInt(document.querySelector(".rank").dataset.content);
 if (rank >= 1 && rank <= 5000) {
-  github.href = `https://github.com/jacbz/anki_french/blob/main/cards/${rank.padStart(
+  github.href = `https://github.com/jacbz/anki_french/blob/main/cards/${rank.toString().padStart(
     4,
     "0"
   )}_${word}.yml`;
