@@ -37,7 +37,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1041 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1043 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -49,7 +49,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 6 | et | und | 4 | X | [Bearbeiten](cards/0006_et.yml) |
 | 7 | en | in | 12 | X | [Bearbeiten](cards/0007_en.yml) |
 | 8 | avoir | haben, besitzen | 14 |  | [Bearbeiten](cards/0008_avoir.yml) |
-| 9 | que | dass, wie, welche(-r/n) | 12 |  | [Bearbeiten](cards/0009_que.yml) |
+| 9 | que | dass, wie, welche(-r/n) | 12 | X | [Bearbeiten](cards/0009_que.yml) |
 | 10 | pour | für | 12 |  | [Bearbeiten](cards/0010_pour.yml) |
 | 11 | dans | in, innerhalb | 12 |  | [Bearbeiten](cards/0011_dans.yml) |
 | 12 | ce | diese(-r/s); es, das | 25 | X | [Bearbeiten](cards/0012_ce.yml) |
@@ -170,7 +170,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 127 | cause | Ursache, Anliegen | 12 |  | [Bearbeiten](cards/0127_cause.yml) |
 | 128 | politique | Politik | 11 |  | [Bearbeiten](cards/0128_politique.yml) |
 | 129 | place | Platz | 15 | X | [Bearbeiten](cards/0129_place.yml) |
-| 130 | seulement | nur | 8 |  | [Bearbeiten](cards/0130_seulement.yml) |
+| 130 | seulement | nur | 8 | X | [Bearbeiten](cards/0130_seulement.yml) |
 | 131 | moi | ich, mir, mich | 13 | X | [Bearbeiten](cards/0131_moi.yml) |
 | 132 | vie | Leben | 14 | X | [Bearbeiten](cards/0132_vie.yml) |
 | 133 | connaître | kennen, erfahren | 14 |  | [Bearbeiten](cards/0133_connaître.yml) |
