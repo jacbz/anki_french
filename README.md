@@ -37,7 +37,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1036 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1041 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -55,10 +55,10 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 12 | ce | diese(-r/s); es, das | 25 | X | [Bearbeiten](cards/0012_ce.yml) |
 | 13 | il | er | 11 | X | [Bearbeiten](cards/0013_il.yml) |
 | 14 | qui | wer, der/die/das [Relativpronomen] | 12 | X | [Bearbeiten](cards/0014_qui.yml) |
-| 15 | ne | [Negationspartikel] | 12 |  | [Bearbeiten](cards/0015_ne.yml) |
+| 15 | ne | [Negation] | 12 | X | [Bearbeiten](cards/0015_ne.yml) |
 | 16 | sur | auf, über | 8 |  | [Bearbeiten](cards/0016_sur.yml) |
 | 17 | se | sich | 10 | X | [Bearbeiten](cards/0017_se.yml) |
-| 18 | pas | nicht; Schritt | 18 |  | [Bearbeiten](cards/0018_pas.yml) |
+| 18 | pas | nicht; Schritt | 18 | X | [Bearbeiten](cards/0018_pas.yml) |
 | 19 | plus | mehr | 12 | X | [Bearbeiten](cards/0019_plus.yml) |
 | 20 | pouvoir | können; Macht | 12 |  | [Bearbeiten](cards/0020_pouvoir.yml) |
 | 21 | par | durch, von | 12 |  | [Bearbeiten](cards/0021_par.yml) |
@@ -124,7 +124,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 81 | alors | dann, also | 8 |  | [Bearbeiten](cards/0081_alors.yml) |
 | 82 | après | nach, später | 14 | X | [Bearbeiten](cards/0082_après.yml) |
 | 83 | trouver | finden | 12 |  | [Bearbeiten](cards/0083_trouver.yml) |
-| 84 | personne | Person; niemand [verneint] | 14 |  | [Bearbeiten](cards/0084_personne.yml) |
+| 84 | personne | Person; niemand [verneint] | 14 | X | [Bearbeiten](cards/0084_personne.yml) |
 | 85 | rendre | zurückgeben, zu etw. machen | 18 |  | [Bearbeiten](cards/0085_rendre.yml) |
 | 86 | part | Anteil, Teil | 15 |  | [Bearbeiten](cards/0086_part.yml) |
 | 87 | dernier | letzter | 16 |  | [Bearbeiten](cards/0087_dernier.yml) |
@@ -208,7 +208,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 165 | décider | entscheiden | 8 |  | [Bearbeiten](cards/0165_décider.yml) |
 | 166 | soit | entweder ... oder ... | 8 |  | [Bearbeiten](cards/0166_soit.yml) |
 | 167 | ici | hier | 17 |  | [Bearbeiten](cards/0167_ici.yml) |
-| 168 | rien | nichts | 17 |  | [Bearbeiten](cards/0168_rien.yml) |
+| 168 | rien | nichts | 17 | X | [Bearbeiten](cards/0168_rien.yml) |
 | 169 | cours | Kurs | 14 |  | [Bearbeiten](cards/0169_cours.yml) |
 | 170 | affaire | Angelegenheit, Sache | 12 |  | [Bearbeiten](cards/0170_affaire.yml) |
 | 171 | nom | Name | 13 |  | [Bearbeiten](cards/0171_nom.yml) |
@@ -269,7 +269,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 226 | choisir | wählen, auswählen | 17 |  | [Bearbeiten](cards/0226_choisir.yml) |
 | 227 | national | national | 6 |  | [Bearbeiten](cards/0227_national.yml) |
 | 228 | projet | Plan, Projekt | 14 |  | [Bearbeiten](cards/0228_projet.yml) |
-| 229 | ni | weder ... noch ... | 13 |  | [Bearbeiten](cards/0229_ni.yml) |
+| 229 | ni | weder ... noch ... | 13 | X | [Bearbeiten](cards/0229_ni.yml) |
 | 230 | puis | dann | 4 |  | [Bearbeiten](cards/0230_puis.yml) |
 | 231 | toucher | berühren; betreffen | 12 |  | [Bearbeiten](cards/0231_toucher.yml) |
 | 232 | train | Zug | 14 | X | [Bearbeiten](cards/0232_train.yml) |
