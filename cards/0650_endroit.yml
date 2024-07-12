@@ -7,7 +7,7 @@ Wortart: nm
 Wort mit Artikel: l’endroit
 Femininum / Plural: ''
 IPA: \ɑ̃.dʁwa\
-Definition: Ort, Stelle
+Definition: Stelle, Ort
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -57,4 +57,34 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>place</i>, <i>lieu</i> und <i>endroit</i></div>
+    <div class="section-content">
+      <p><span class="fr">Lieu</span> (#117) bezeichnet einen gesamten Raum oder Ort. Es wird oft in abstrakteren oder formelleren Kontexten verwendet.</p>
+      <div class="examples">
+        <div class="fr">C'est mon lieu de travail.</div>
+        <div class="de spoiler">Das ist mein Arbeitsplatz.</div>
+        <div class="fr">L'événement aura lieu demain.</div>
+        <div class="de spoiler">Die Veranstaltung findet morgen statt.</div>
+      </div>
+      <p><span class="fr">Endroit</span> bezieht sich auf einen bestimmten Teil eines größeren Raums. Es ist spezifischer als <span class="fr">lieu</span>.</p>
+      <div class="examples">
+        <div class="fr">C'est un endroit agréable.</div>
+        <div class="de spoiler">Das ist ein angenehmer Ort.</div>
+        <div class="fr">À quel endroit se trouve le marché ?</div>
+        <div class="de spoiler">Wo befindet sich der Markt?</div>
+      </div>
+      <p><span class="fr">Place</span> (#129) impliziert eine Idee von Ordnung und Anordnung. Es wird oft verwendet, um einen bestimmten, zugewiesenen Platz zu bezeichnen.</p>
+      <div class="examples">
+        <div class="fr">C'est ma place !</div>
+        <div class="de spoiler">Das ist mein Platz!</div>
+        <div class="fr">Le téléphone n'est pas à sa place.</div>
+        <div class="de spoiler">Das Telefon ist nicht an seinem Platz.</div>
+      </div>
+      <div class="tip">
+        <div class="fr">On est dans le <u>lieu</u>, on cherche l'<u>endroit</u>, on occupe la <u>place</u>.</div>
+        <div class="de">Man befindet sich an einem <u>Ort</u>, man sucht eine bestimmte <u>Stelle</u>, man nimmt einen <u>Platz</u> ein.</div>
+      </div>
+    </div>
+  </div>
