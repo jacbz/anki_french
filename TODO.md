@@ -81,6 +81,7 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * Schauspieler: [acteur](cards/1552_acteur.yml) (#1552), [comédien](cards/4253_comédien.yml) (#4253)
 * Richter: [juge](cards/1323_juge.yml) (#1323), [magistrat](cards/4282_magistrat.yml) (#4282)
 * sparen: [épargner](cards/2354_épargner.yml) (#2354), [économiser](cards/4319_économiser.yml) (#4319)
+* Strafe: [sanction](cards/2282_sanction.yml) (#2282), [punition](cards/4322_punition.yml) (#4322)
 * Verstärkung: [renforcement](cards/3600_renforcement.yml) (#3600), [renfort](cards/4326_renfort.yml) (#4326)
 * ersetzen: [remplacer](cards/0448_remplacer.yml) (#448), [substituer](cards/4344_substituer.yml) (#4344)
 * fallen: [tomber](cards/0547_tomber.yml) (#547), [chuter](cards/4347_chuter.yml) (#4347)

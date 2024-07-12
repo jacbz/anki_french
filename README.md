@@ -37,7 +37,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40331 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1030 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1036 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -157,7 +157,7 @@ Insgesamt gibt es 5000 Karten mit 40331 Beispielsätzen (durchschnittlich 8.1 pr
 | 114 | pays | Land | 10 |  | [Bearbeiten](cards/0114_pays.yml) |
 | 115 | trois | drei | 11 | X | [Bearbeiten](cards/0115_trois.yml) |
 | 116 | penser | denken | 15 |  | [Bearbeiten](cards/0116_penser.yml) |
-| 117 | lieu | Ort | 13 |  | [Bearbeiten](cards/0117_lieu.yml) |
+| 117 | lieu | Ort | 13 | X | [Bearbeiten](cards/0117_lieu.yml) |
 | 118 | partie | Teil | 18 | X | [Bearbeiten](cards/0118_partie.yml) |
 | 119 | quand | wann | 13 |  | [Bearbeiten](cards/0119_quand.yml) |
 | 120 | suivre | folgen | 8 | X | [Bearbeiten](cards/0120_suivre.yml) |
@@ -169,7 +169,7 @@ Insgesamt gibt es 5000 Karten mit 40331 Beispielsätzen (durchschnittlich 8.1 pr
 | 126 | enfant | Kind | 16 | X | [Bearbeiten](cards/0126_enfant.yml) |
 | 127 | cause | Ursache, Anliegen | 12 |  | [Bearbeiten](cards/0127_cause.yml) |
 | 128 | politique | Politik | 11 |  | [Bearbeiten](cards/0128_politique.yml) |
-| 129 | place | Platz, Ort | 15 |  | [Bearbeiten](cards/0129_place.yml) |
+| 129 | place | Platz | 15 | X | [Bearbeiten](cards/0129_place.yml) |
 | 130 | seulement | nur | 8 |  | [Bearbeiten](cards/0130_seulement.yml) |
 | 131 | moi | ich, mir, mich | 13 | X | [Bearbeiten](cards/0131_moi.yml) |
 | 132 | vie | Leben | 14 | X | [Bearbeiten](cards/0132_vie.yml) |
@@ -389,7 +389,7 @@ Insgesamt gibt es 5000 Karten mit 40331 Beispielsätzen (durchschnittlich 8.1 pr
 | 346 | atteindre | erreichen, treffen | 12 | X | [Bearbeiten](cards/0346_atteindre.yml) |
 | 347 | tenter | versuchen, bemühen | 9 | X | [Bearbeiten](cards/0347_tenter.yml) |
 | 348 | tard | spät | 10 | X | [Bearbeiten](cards/0348_tard.yml) |
-| 349 | enfin | schließlich, endlich | 17 |  | [Bearbeiten](cards/0349_enfin.yml) |
+| 349 | enfin | endlich, schließlich | 17 |  | [Bearbeiten](cards/0349_enfin.yml) |
 | 350 | différent | unterschiedlich | 6 | X | [Bearbeiten](cards/0350_différent.yml) |
 | 351 | sorte | Art, Sorte | 17 |  | [Bearbeiten](cards/0351_sorte.yml) |
 | 352 | cependant | jedoch, allerdings | 10 |  | [Bearbeiten](cards/0352_cependant.yml) |
@@ -690,7 +690,7 @@ Insgesamt gibt es 5000 Karten mit 40331 Beispielsätzen (durchschnittlich 8.1 pr
 | 647 | risque | Risiko | 15 |  | [Bearbeiten](cards/0647_risque.yml) |
 | 648 | arme | Waffe | 13 |  | [Bearbeiten](cards/0648_arme.yml) |
 | 649 | estimer | schätzen, bewerten | 13 |  | [Bearbeiten](cards/0649_estimer.yml) |
-| 650 | endroit | Ort, Stelle | 13 |  | [Bearbeiten](cards/0650_endroit.yml) |
+| 650 | endroit | Stelle, Ort | 13 | X | [Bearbeiten](cards/0650_endroit.yml) |
 | 651 | comité | Ausschuss, Komitee | 13 |  | [Bearbeiten](cards/0651_comité.yml) |
 | 652 | impossible | unmöglich | 13 | X | [Bearbeiten](cards/0652_impossible.yml) |
 | 653 | preuve | Beweis | 15 |  | [Bearbeiten](cards/0653_preuve.yml) |
@@ -883,7 +883,7 @@ Insgesamt gibt es 5000 Karten mit 40331 Beispielsätzen (durchschnittlich 8.1 pr
 | 840 | imaginer | sich vorstellen, erdenken | 9 |  | [Bearbeiten](cards/0840_imaginer.yml) |
 | 841 | figurer | aufgeführt sein, darstellen | 8 |  | [Bearbeiten](cards/0841_figurer.yml) |
 | 842 | pratique | praktisch, bequem | 14 |  | [Bearbeiten](cards/0842_pratique.yml) |
-| 843 | finalement | schließlich, endlich | 2 |  | [Bearbeiten](cards/0843_finalement.yml) |
+| 843 | finalement | schließlich, letztendlich | 2 | X | [Bearbeiten](cards/0843_finalement.yml) |
 | 844 | allemand | Deutsch | 12 | X | [Bearbeiten](cards/0844_allemand.yml) |
 | 845 | pression | Druck | 14 | X | [Bearbeiten](cards/0845_pression.yml) |
 | 846 | accès | Zugang | 12 |  | [Bearbeiten](cards/0846_accès.yml) |
@@ -920,7 +920,7 @@ Insgesamt gibt es 5000 Karten mit 40331 Beispielsätzen (durchschnittlich 8.1 pr
 | 877 | huit | acht | 14 | X | [Bearbeiten](cards/0877_huit.yml) |
 | 878 | condamner | verurteilen | 11 | X | [Bearbeiten](cards/0878_condamner.yml) |
 | 879 | capital | Kapital; wesentlich | 13 |  | [Bearbeiten](cards/0879_capital.yml) |
-| 880 | lien | Verbindung, Bindung | 12 |  | [Bearbeiten](cards/0880_lien.yml) |
+| 880 | lien | Verbindung, Bindung | 12 | X | [Bearbeiten](cards/0880_lien.yml) |
 | 881 | voiture | Auto | 16 | X | [Bearbeiten](cards/0881_voiture.yml) |
 | 882 | discussion | Diskussion, Gespräch | 14 | X | [Bearbeiten](cards/0882_discussion.yml) |
 | 883 | limiter | begrenzen, einschränken | 9 |  | [Bearbeiten](cards/0883_limiter.yml) |
@@ -1213,7 +1213,7 @@ Insgesamt gibt es 5000 Karten mit 40331 Beispielsätzen (durchschnittlich 8.1 pr
 | 1170 | sinon | sonst | 9 |  | [Bearbeiten](cards/1170_sinon.yml) |
 | 1171 | entreprendre | unternehmen | 3 |  | [Bearbeiten](cards/1171_entreprendre.yml) |
 | 1172 | au-delà | jenseits, darüber hinaus | 7 |  | [Bearbeiten](cards/1172_au-delà.yml) |
-| 1173 | étendre | ausbreiten | 12 | X | [Bearbeiten](cards/1173_étendre.yml) |
+| 1173 | étendre | ausbreiten, erweitern | 13 | X | [Bearbeiten](cards/1173_étendre.yml) |
 | 1174 | sortie | Ausgang | 16 | X | [Bearbeiten](cards/1174_sortie.yml) |
 | 1175 | profond | tief; Tiefe | 7 |  | [Bearbeiten](cards/1175_profond.yml) |
 | 1176 | décrire | beschreiben | 4 |  | [Bearbeiten](cards/1176_décrire.yml) |
@@ -2008,7 +2008,7 @@ Insgesamt gibt es 5000 Karten mit 40331 Beispielsätzen (durchschnittlich 8.1 pr
 | 1965 | principalement | hauptsächlich, vorwiegend | 2 |  | [Bearbeiten](cards/1965_principalement.yml) |
 | 1966 | prudence | Vorsicht, Umsicht | 6 |  | [Bearbeiten](cards/1966_prudence.yml) |
 | 1967 | stade | Stadium, Stadion | 5 | X | [Bearbeiten](cards/1967_stade.yml) |
-| 1968 | liaison | Verbindung, Verknüpfung | 12 |  | [Bearbeiten](cards/1968_liaison.yml) |
+| 1968 | liaison | Verbindung, Verknüpfung | 12 | X | [Bearbeiten](cards/1968_liaison.yml) |
 | 1969 | consultation | Beratung, Sprechstunde | 12 |  | [Bearbeiten](cards/1969_consultation.yml) |
 | 1970 | québécois | Quebecer | 2 | X | [Bearbeiten](cards/1970_québécois.yml) |
 | 1971 | ordonner | anordnen, befehlen | 9 |  | [Bearbeiten](cards/1971_ordonner.yml) |
