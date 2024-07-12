@@ -7,7 +7,7 @@ Wortart: adv
 Wort mit Artikel: finalement
 Femininum / Plural: ''
 IPA: \fi.nal.mɑ̃\
-Definition: schließlich, endlich
+Definition: schließlich, letztendlich
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -24,4 +24,30 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>finalement</i> und <i>enfin</i></div>
+    <div class="section-content">
+      <p><span class="fr">Finalement</span> bedeutet <span class="de">"schließlich"</span> oder <span class="de">"letztendlich"</span> und impliziert oft ein unerwartetes Ergebnis oder eine Meinungsänderung.</p>
+      <div class="examples">
+        <div class="fr">Puis finalement j'ai compris que c'était pour mon bien.</div>
+        <div class="de spoiler">Dann habe ich schließlich verstanden, dass es zu meinem Besten war.</div>
+        <div class="fr">Alors demain, finalement, on ira pas au château.</div>
+        <div class="de spoiler">Also morgen werden wir letztendlich nicht zum Schloss gehen.</div>
+      </div>
+      <p><span class="fr">Enfin</span> (#349) bedeutet ebenfalls <span class="de">"endlich"</span> oder <span class="de">"schließlich"</span>, impliziert aber oft ein erwartetes oder ersehntes Ergebnis.</p>
+      <div class="examples">
+        <div class="fr">Le grand jour est enfin arrivé.</div>
+        <div class="de spoiler">Der große Tag ist endlich gekommen.</div>
+        <div class="fr">Je suis enchanté(e) de vous rencontrer enfin.</div>
+        <div class="de spoiler">Ich freue mich, Sie endlich kennenzulernen.</div>
+      </div>
+      <p><span class="fr">Enfin</span> wird in der Umgangssprache auch als Füllwort verwendet und kann je nach Kontext <span class="de">"nun"</span>, <span class="de">"also"</span> oder <span class="de">"ich meine"</span> bedeuten:</p>
+      <div class="examples">
+        <div class="fr">Oui, enfin, non, euh... quelques-uns, quoi.</div>
+        <div class="de spoiler">Ja, also, nein, äh... ein paar, weißt du.</div>
+        <div class="fr">Mais enfin, relève-toi!</div>
+        <div class="de spoiler">Nun komm schon, steh auf!</div>
+      </div>
+    </div>
+  </div>
