@@ -7,7 +7,7 @@ Wortart: adv, conj, pro
 Wort mit Artikel: que
 Femininum / Plural: ''
 IPA: \kə\
-Definition: dass, wie, welche(-r/n)
+Definition: dass, wie, welche(-r/n), was
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -54,4 +54,8 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: <grammar data-id="Einschränkungen"></grammar>
+Notiz: |-
+  <grammar data-id="Fragen mit que"></grammar>
+  <grammar data-id="Frageformen"></grammar>
+  <grammar data-id="Fragepronomen"></grammar>
+  <grammar data-id="Einschränkungen"></grammar>
