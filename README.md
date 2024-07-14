@@ -37,7 +37,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1043 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40334 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1052 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -49,7 +49,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 6 | et | und | 4 | X | [Bearbeiten](cards/0006_et.yml) |
 | 7 | en | in | 12 | X | [Bearbeiten](cards/0007_en.yml) |
 | 8 | avoir | haben, besitzen | 14 |  | [Bearbeiten](cards/0008_avoir.yml) |
-| 9 | que | dass, wie, welche(-r/n) | 12 | X | [Bearbeiten](cards/0009_que.yml) |
+| 9 | que | dass, wie, welche(-r/n), was | 12 | X | [Bearbeiten](cards/0009_que.yml) |
 | 10 | pour | für | 12 |  | [Bearbeiten](cards/0010_pour.yml) |
 | 11 | dans | in, innerhalb | 12 |  | [Bearbeiten](cards/0011_dans.yml) |
 | 12 | ce | diese(-r/s); es, das | 25 | X | [Bearbeiten](cards/0012_ce.yml) |
@@ -88,7 +88,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 45 | celui | diese(-r/s) | 7 | X | [Bearbeiten](cards/0045_celui.yml) |
 | 46 | donner | geben | 15 |  | [Bearbeiten](cards/0046_donner.yml) |
 | 47 | bien | gut, sehr, richtig | 15 | X | [Bearbeiten](cards/0047_bien.yml) |
-| 48 | où | wo | 14 |  | [Bearbeiten](cards/0048_où.yml) |
+| 48 | où | wo | 14 | X | [Bearbeiten](cards/0048_où.yml) |
 | 49 | fois | Mal, Zeit | 13 |  | [Bearbeiten](cards/0049_fois.yml) |
 | 50 | vous | ihr/Sie [Plural] | 12 | X | [Bearbeiten](cards/0050_vous.yml) |
 | 51 | encore | noch, wieder | 14 |  | [Bearbeiten](cards/0051_encore.yml) |
@@ -131,7 +131,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 88 | venir | kommen | 13 | X | [Bearbeiten](cards/0088_venir.yml) |
 | 89 | pendant | während; Gegenstück | 11 | X | [Bearbeiten](cards/0089_pendant.yml) |
 | 90 | passer | verbringen, durchlaufen | 15 | X | [Bearbeiten](cards/0090_passer.yml) |
-| 91 | peu | wenig | 7 |  | [Bearbeiten](cards/0091_peu.yml) |
+| 91 | peu | wenig | 7 | X | [Bearbeiten](cards/0091_peu.yml) |
 | 92 | lequel | welche(-r/s) | 14 | X | [Bearbeiten](cards/0092_lequel.yml) |
 | 93 | suite | Folge, Fortsetzung | 3 |  | [Bearbeiten](cards/0093_suite.yml) |
 | 94 | bon | gut | 12 | X | [Bearbeiten](cards/0094_bon.yml) |
@@ -159,7 +159,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 116 | penser | denken | 15 |  | [Bearbeiten](cards/0116_penser.yml) |
 | 117 | lieu | Ort | 13 | X | [Bearbeiten](cards/0117_lieu.yml) |
 | 118 | partie | Teil | 18 | X | [Bearbeiten](cards/0118_partie.yml) |
-| 119 | quand | wann | 13 |  | [Bearbeiten](cards/0119_quand.yml) |
+| 119 | quand | wann | 13 | X | [Bearbeiten](cards/0119_quand.yml) |
 | 120 | suivre | folgen | 8 | X | [Bearbeiten](cards/0120_suivre.yml) |
 | 121 | contre | gegen | 12 |  | [Bearbeiten](cards/0121_contre.yml) |
 | 122 | sous | unter | 12 |  | [Bearbeiten](cards/0122_sous.yml) |
@@ -186,11 +186,11 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 143 | droit | Recht | 13 |  | [Bearbeiten](cards/0143_droit.yml) |
 | 144 | question | Frage | 12 | X | [Bearbeiten](cards/0144_question.yml) |
 | 145 | donc | also, daher | 6 |  | [Bearbeiten](cards/0145_donc.yml) |
-| 146 | quel | welche(-r/s) [+Bezugswort] | 12 |  | [Bearbeiten](cards/0146_quel.yml) |
+| 146 | quel | welche(-r/s) [+Bezugswort] | 12 | X | [Bearbeiten](cards/0146_quel.yml) |
 | 147 | général | allgemein | 10 |  | [Bearbeiten](cards/0147_général.yml) |
 | 148 | moment | Moment | 15 | X | [Bearbeiten](cards/0148_moment.yml) |
 | 149 | entendre | hören, verstehen | 15 | X | [Bearbeiten](cards/0149_entendre.yml) |
-| 150 | beaucoup | viel | 9 |  | [Bearbeiten](cards/0150_beaucoup.yml) |
+| 150 | beaucoup | viel | 9 | X | [Bearbeiten](cards/0150_beaucoup.yml) |
 | 151 | chaque | jede(-r/s) | 7 |  | [Bearbeiten](cards/0151_chaque.yml) |
 | 152 | jeune | jung | 12 | X | [Bearbeiten](cards/0152_jeune.yml) |
 | 153 | travail | Arbeit | 17 |  | [Bearbeiten](cards/0153_travail.yml) |
@@ -233,7 +233,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 190 | peut-être | vielleicht | 4 |  | [Bearbeiten](cards/0190_peut-être.yml) |
 | 191 | vue | Aussicht | 7 |  | [Bearbeiten](cards/0191_vue.yml) |
 | 192 | maintenant | jetzt | 4 |  | [Bearbeiten](cards/0192_maintenant.yml) |
-| 193 | pourquoi | warum | 6 |  | [Bearbeiten](cards/0193_pourquoi.yml) |
+| 193 | pourquoi | warum | 6 | X | [Bearbeiten](cards/0193_pourquoi.yml) |
 | 194 | meilleur | besser, das Beste | 14 | X | [Bearbeiten](cards/0194_meilleur.yml) |
 | 195 | trop | zu (viel) | 12 |  | [Bearbeiten](cards/0195_trop.yml) |
 | 196 | laisser | lassen | 17 |  | [Bearbeiten](cards/0196_laisser.yml) |
@@ -274,7 +274,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 231 | toucher | berühren; betreffen | 12 |  | [Bearbeiten](cards/0231_toucher.yml) |
 | 232 | train | Zug | 14 | X | [Bearbeiten](cards/0232_train.yml) |
 | 233 | aujourd’hui | heute | 7 | X | [Bearbeiten](cards/0233_aujourd’hui.yml) |
-| 234 | comment | wie | 7 |  | [Bearbeiten](cards/0234_comment.yml) |
+| 234 | comment | wie | 7 | X | [Bearbeiten](cards/0234_comment.yml) |
 | 235 | surtout | vor allem, besonders | 4 |  | [Bearbeiten](cards/0235_surtout.yml) |
 | 236 | gens | Menschen, Leute | 6 |  | [Bearbeiten](cards/0236_gens.yml) |
 | 237 | propre | sauber, eigen | 10 | X | [Bearbeiten](cards/0237_propre.yml) |
@@ -337,7 +337,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 294 | madame | (gnädige) Frau | 12 |  | [Bearbeiten](cards/0294_madame.yml) |
 | 295 | société | Gesellschaft | 15 |  | [Bearbeiten](cards/0295_société.yml) |
 | 296 | difficile | schwierig | 12 | X | [Bearbeiten](cards/0296_difficile.yml) |
-| 297 | quoi | was | 14 |  | [Bearbeiten](cards/0297_quoi.yml) |
+| 297 | quoi | was | 14 | X | [Bearbeiten](cards/0297_quoi.yml) |
 | 298 | entreprise | Unternehmen | 12 |  | [Bearbeiten](cards/0298_entreprise.yml) |
 | 299 | coup | Schlag | 11 |  | [Bearbeiten](cards/0299_coup.yml) |
 | 300 | or | Gold; und da | 12 | X | [Bearbeiten](cards/0300_or.yml) |
@@ -754,7 +754,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 711 | vite | schnell, bald | 8 | X | [Bearbeiten](cards/0711_vite.yml) |
 | 712 | langue | Sprache, Zunge | 16 | X | [Bearbeiten](cards/0712_langue.yml) |
 | 713 | dangereux | gefährlich | 12 | X | [Bearbeiten](cards/0713_dangereux.yml) |
-| 714 | déplacer | verschieben | 10 | X | [Bearbeiten](cards/0714_déplacer.yml) |
+| 714 | déplacer | verschieben, bewegen | 10 | X | [Bearbeiten](cards/0714_déplacer.yml) |
 | 715 | importance | Bedeutung, Wichtigkeit | 10 |  | [Bearbeiten](cards/0715_importance.yml) |
 | 716 | suffire | genügen, ausreichen | 11 |  | [Bearbeiten](cards/0716_suffire.yml) |
 | 717 | espoir | Hoffnung | 13 |  | [Bearbeiten](cards/0717_espoir.yml) |
@@ -840,7 +840,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 797 | plaisir | Vergnügen, Freude | 14 |  | [Bearbeiten](cards/0797_plaisir.yml) |
 | 798 | dossier | Akte | 12 |  | [Bearbeiten](cards/0798_dossier.yml) |
 | 799 | proposition | Vorschlag, Angebot | 11 | X | [Bearbeiten](cards/0799_proposition.yml) |
-| 800 | combien | wie viel(-e) | 13 |  | [Bearbeiten](cards/0800_combien.yml) |
+| 800 | combien | wie viel(-e) | 13 | X | [Bearbeiten](cards/0800_combien.yml) |
 | 801 | nul | nichts, schlecht; Null | 12 |  | [Bearbeiten](cards/0801_nul.yml) |
 | 802 | absence | Abwesenheit | 12 |  | [Bearbeiten](cards/0802_absence.yml) |
 | 803 | cher | lieb [vor Nomen]; teuer [nach Nomen] | 12 |  | [Bearbeiten](cards/0803_cher.yml) |
@@ -1981,7 +1981,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 1938 | doigt | Finger | 12 | X | [Bearbeiten](cards/1938_doigt.yml) |
 | 1939 | illustrer | illustrieren, veranschaulichen | 4 |  | [Bearbeiten](cards/1939_illustrer.yml) |
 | 1940 | poche | Tasche | 14 | X | [Bearbeiten](cards/1940_poche.yml) |
-| 1941 | affronter | konfrontieren, sich stellen | 6 |  | [Bearbeiten](cards/1941_affronter.yml) |
+| 1941 | affronter | gegenübertreten, sich stellen | 6 |  | [Bearbeiten](cards/1941_affronter.yml) |
 | 1942 | éclater | platzen, explodieren, ausbrechen | 12 |  | [Bearbeiten](cards/1942_éclater.yml) |
 | 1943 | honte | Scham | 12 |  | [Bearbeiten](cards/1943_honte.yml) |
 | 1944 | faiblesse | Schwäche | 11 |  | [Bearbeiten](cards/1944_faiblesse.yml) |
@@ -2355,7 +2355,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 2312 | inflation | Inflation | 8 |  | [Bearbeiten](cards/2312_inflation.yml) |
 | 2313 | sec | trocken | 8 | X | [Bearbeiten](cards/2313_sec.yml) |
 | 2314 | arrêté | Anordnung; fest(-gefahren) | 5 |  | [Bearbeiten](cards/2314_arrêté.yml) |
-| 2315 | enfermer | einschließen | 12 |  | [Bearbeiten](cards/2315_enfermer.yml) |
+| 2315 | enfermer | einschließen, einsperren | 11 |  | [Bearbeiten](cards/2315_enfermer.yml) |
 | 2316 | abattre | niederlegen, einreißen | 12 |  | [Bearbeiten](cards/2316_abattre.yml) |
 | 2317 | paysan | Bauer | 7 |  | [Bearbeiten](cards/2317_paysan.yml) |
 | 2318 | transition | Übergang | 6 |  | [Bearbeiten](cards/2318_transition.yml) |
@@ -2369,7 +2369,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 2326 | ménage | Haushalt, Reinigung | 11 |  | [Bearbeiten](cards/2326_ménage.yml) |
 | 2327 | purement | rein, ausschließlich | 4 |  | [Bearbeiten](cards/2327_purement.yml) |
 | 2328 | enjeu | Einsatz, Herausforderung | 4 |  | [Bearbeiten](cards/2328_enjeu.yml) |
-| 2329 | passager | Passagier | 6 | X | [Bearbeiten](cards/2329_passager.yml) |
+| 2329 | passager | Passagier | 5 | X | [Bearbeiten](cards/2329_passager.yml) |
 | 2330 | transformation | Umwandlung, Verarbeitung | 9 |  | [Bearbeiten](cards/2330_transformation.yml) |
 | 2331 | calculer | rechnen | 10 |  | [Bearbeiten](cards/2331_calculer.yml) |
 | 2332 | misère | Elend | 8 |  | [Bearbeiten](cards/2332_misère.yml) |
@@ -2387,17 +2387,17 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 2344 | stock | Lager, Vorrat | 12 |  | [Bearbeiten](cards/2344_stock.yml) |
 | 2345 | invoquer | [auf etw.] berufen, geltend machen | 3 |  | [Bearbeiten](cards/2345_invoquer.yml) |
 | 2346 | compromettre | gefährden | 7 |  | [Bearbeiten](cards/2346_compromettre.yml) |
-| 2347 | arracher | herausreißen, abreißen | 14 |  | [Bearbeiten](cards/2347_arracher.yml) |
+| 2347 | arracher | herausreißen, abreißen | 13 |  | [Bearbeiten](cards/2347_arracher.yml) |
 | 2348 | sombre | dunkel, düster | 10 |  | [Bearbeiten](cards/2348_sombre.yml) |
-| 2349 | barre | Stange, Leiste | 12 |  | [Bearbeiten](cards/2349_barre.yml) |
+| 2349 | barre | Stange, Riegel | 12 |  | [Bearbeiten](cards/2349_barre.yml) |
 | 2350 | contradiction | Widerspruch | 7 |  | [Bearbeiten](cards/2350_contradiction.yml) |
-| 2351 | maîtriser | beherrschen, kontrollieren | 2 |  | [Bearbeiten](cards/2351_maîtriser.yml) |
+| 2351 | maîtriser | meistern, bewältigen | 7 |  | [Bearbeiten](cards/2351_maîtriser.yml) |
 | 2352 | violer | vergewaltigen | 3 |  | [Bearbeiten](cards/2352_violer.yml) |
 | 2353 | souveraineté | Souveränität | 6 |  | [Bearbeiten](cards/2353_souveraineté.yml) |
-| 2354 | épargner | sparen | 12 |  | [Bearbeiten](cards/2354_épargner.yml) |
+| 2354 | épargner | sparen, ersparen | 12 |  | [Bearbeiten](cards/2354_épargner.yml) |
 | 2355 | concentration | Konzentration | 7 |  | [Bearbeiten](cards/2355_concentration.yml) |
-| 2356 | téléphonique | telefonisch | 2 |  | [Bearbeiten](cards/2356_téléphonique.yml) |
-| 2357 | remise | Rabatt, Nachlass, Abstellraum | 12 |  | [Bearbeiten](cards/2357_remise.yml) |
+| 2356 | téléphonique | telefonisch | 4 |  | [Bearbeiten](cards/2356_téléphonique.yml) |
+| 2357 | remise | Übergabe, Nachlass | 10 |  | [Bearbeiten](cards/2357_remise.yml) |
 | 2358 | mec | Typ, Kerl | 4 | X | [Bearbeiten](cards/2358_mec.yml) |
 | 2359 | solidarité | Solidarität | 8 |  | [Bearbeiten](cards/2359_solidarité.yml) |
 | 2360 | restreindre | beschränken, einschränken | 4 |  | [Bearbeiten](cards/2360_restreindre.yml) |
