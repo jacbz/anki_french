@@ -283,7 +283,7 @@ let grammar = {
   content: {},
   github: {},
 };
-fetch(`${getAnkiPrefix()}/_FR5000_grammar.json`)
+fetch(`${getAnkiPrefix()}/_FR5000_grammar____VERSION___.json`)
   .then((response) => response.json())
   .then((loadedGrammar) => {
     grammar = loadedGrammar;
@@ -579,7 +579,7 @@ if (rank >= 1 && rank <= 5000) {
 /**
  * Update notice
  */
-const lastUpdated = new Date("___LAST_UPDATED___");
+const lastUpdated = new Date("___VERSION___");
 const numberOfDaysSince = Math.floor(
   (Date.now() - lastUpdated.getTime()) / (1000 * 60 * 60 * 24)
 );
