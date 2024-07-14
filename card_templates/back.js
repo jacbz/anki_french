@@ -114,8 +114,12 @@ function refreshExampleSentences() {
 
 function formatSentences(within = document) {
   within
-    .querySelectorAll(".fr:not(:has(.sentence-with-audio))")
+    .querySelectorAll(".fr")
     .forEach(function (el) {
+      if (el.querySelector(".sentence-with-audio")) {
+        return;
+      }
+
       const text = beautifyText(el.innerHTML, true);
 
       // show audio button if sentence ends with punctuation
