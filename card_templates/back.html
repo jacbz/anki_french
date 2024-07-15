@@ -23,7 +23,7 @@
 
 {{#Register}}<span class="register">{{Register}}</span>{{/Register}}
 {{#Beispielsätze}}
-<div class="box tappable" id="sentences">
+<div class="card-box tappable" id="sentences">
   <div class="box_float" id="next_sentence">
     <div class="box_float_label" id="sentence_counter"></div>
     <div class="button svg-button">
@@ -36,9 +36,9 @@
   <div id="sentences_inner">{{Beispielsätze}}</div>
 </div>
 {{/Beispielsätze}} {{#Notiz}}
-<div class="box tappable note">{{Notiz}}</div>
+<div class="card-box tappable note">{{Notiz}}</div>
 {{/Notiz}} {{#Konjugation}}
-<div class="box tappable conjugation">
+<div class="card-box tappable conjugation">
   <div class="box_float" id="show-hide-button">
     <div class="box_float_label" id="show-hide-label">Alles anzeigen</div>
     <div class="button svg-button">
@@ -58,7 +58,7 @@
   <div id="conjugation-grammar"></div>
 </div>
 {{/Konjugation}}
-<div class="box tappable collapsed" id="grammar-library">
+<div class="card-box tappable collapsed" id="grammar-library">
   <div class="box_float" id="close-grammar-library">
     <div class="box_float_label" id="show-hide-label">Schließen</div>
     <div class="button svg-button">
@@ -82,6 +82,7 @@
     <div id="grammar-sections-title">Grammatik-Bibliothek</div>
   </div>
 </div>
+<div class="card-box tappable" id="dict" style="display: none"></div>
 <div class="tip" id="update-notice" style="display: none; font-size: 40%; margin-bottom: 2.5em;">
   Das Deck wurde zuletzt vor <span id="update-notice-days"></span> Tagen aktualisiert. Führe ein <a href="https://ankiweb.net/shared/info/1677131827" target="_blank">Update</a> durch, um die neuesten Verbesserungen zu erhalten. Der Lernfortschritt bleibt erhalten.
 </div>

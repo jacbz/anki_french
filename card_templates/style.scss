@@ -379,7 +379,7 @@ hr {
   -----------------------------------------------
 **/
 
-.box {
+.card-box {
   margin-top: 1.5em;
   position: relative;
   font-size: 40%;
@@ -393,7 +393,7 @@ hr {
   margin-top: 0.5em;
 }
 
-.box:not(:last-of-type) {
+.card-box:not(:last-of-type) {
   margin-bottom: 3em;
 }
 
@@ -426,7 +426,7 @@ hr {
   }
 }
 
-.box {
+.card-box {
   p {
     margin: 0;
   }
@@ -444,9 +444,7 @@ hr {
   .examples {
     padding-left: 1em;
   }
-}
 
-.box {
   u {
     text-decoration: none;
     color: hsl(192, 70%, 50%);
@@ -521,16 +519,16 @@ hr {
   }
 }
 
-.night_mode .box .section-title {
+.night_mode .card-box .section-title {
   background: hsl(201, 100%, 18%);
 }
 
-.night_mode .box .section .section .section-title {
+.night_mode .card-box .section .section .section-title {
   background: hsl(201, 100%, 13%);
 }
 
 @media (hover: hover) and (pointer: fine) {
-  .box .section-title:hover {
+  .card-box .section-title:hover {
     opacity: 0.7;
   }
 }

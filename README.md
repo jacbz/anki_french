@@ -37,7 +37,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40333 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1052 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1059 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -1686,7 +1686,7 @@ Insgesamt gibt es 5000 Karten mit 40333 Beispielsätzen (durchschnittlich 8.1 pr
 | 1643 | pur | rein | 8 |  | [Bearbeiten](cards/1643_pur.yml) |
 | 1644 | exportation | Export | 11 |  | [Bearbeiten](cards/1644_exportation.yml) |
 | 1645 | prier | beten | 15 |  | [Bearbeiten](cards/1645_prier.yml) |
-| 1646 | trente | dreißig | 12 |  | [Bearbeiten](cards/1646_trente.yml) |
+| 1646 | trente | dreißig | 12 | X | [Bearbeiten](cards/1646_trente.yml) |
 | 1647 | âme | Seele | 17 |  | [Bearbeiten](cards/1647_âme.yml) |
 | 1648 | dominer | beherrschen, dominieren | 6 |  | [Bearbeiten](cards/1648_dominer.yml) |
 | 1649 | autorisation | Erlaubnis | 13 |  | [Bearbeiten](cards/1649_autorisation.yml) |
@@ -2313,7 +2313,7 @@ Insgesamt gibt es 5000 Karten mit 40333 Beispielsätzen (durchschnittlich 8.1 pr
 | 2270 | intense | intensiv | 2 |  | [Bearbeiten](cards/2270_intense.yml) |
 | 2271 | bébé | Baby | 6 | X | [Bearbeiten](cards/2271_bébé.yml) |
 | 2272 | amitié | Freundschaft | 12 |  | [Bearbeiten](cards/2272_amitié.yml) |
-| 2273 | cinquante | fünfzig | 11 |  | [Bearbeiten](cards/2273_cinquante.yml) |
+| 2273 | cinquante | fünfzig | 11 | X | [Bearbeiten](cards/2273_cinquante.yml) |
 | 2274 | zéro | Null | 8 | X | [Bearbeiten](cards/2274_zéro.yml) |
 | 2275 | drame | Drama | 5 |  | [Bearbeiten](cards/2275_drame.yml) |
 | 2276 | visible | sichtbar | 7 |  | [Bearbeiten](cards/2276_visible.yml) |
@@ -2476,7 +2476,7 @@ Insgesamt gibt es 5000 Karten mit 40333 Beispielsätzen (durchschnittlich 8.1 pr
 | 2433 | traîner | herumhängen, schleppen | 12 |  | [Bearbeiten](cards/2433_traîner.yml) |
 | 2434 | domicile | Wohnsitz | 12 |  | [Bearbeiten](cards/2434_domicile.yml) |
 | 2435 | oiseau | Vogel | 14 | X | [Bearbeiten](cards/2435_oiseau.yml) |
-| 2436 | quarante | vierzig | 12 |  | [Bearbeiten](cards/2436_quarante.yml) |
+| 2436 | quarante | vierzig | 12 | X | [Bearbeiten](cards/2436_quarante.yml) |
 | 2437 | sacrifice | Opfer | 6 |  | [Bearbeiten](cards/2437_sacrifice.yml) |
 | 2438 | barrière | Schranke, Barriere | 8 |  | [Bearbeiten](cards/2438_barrière.yml) |
 | 2439 | biais | Schräglage, Bias | 5 |  | [Bearbeiten](cards/2439_biais.yml) |
@@ -3191,7 +3191,7 @@ Insgesamt gibt es 5000 Karten mit 40333 Beispielsätzen (durchschnittlich 8.1 pr
 | 3148 | mademoiselle | Fräulein | 12 |  | [Bearbeiten](cards/3148_mademoiselle.yml) |
 | 3149 | coûteux | kostspielig | 2 |  | [Bearbeiten](cards/3149_coûteux.yml) |
 | 3150 | ventre | Bauch | 14 | X | [Bearbeiten](cards/3150_ventre.yml) |
-| 3151 | soixante | sechzig | 7 |  | [Bearbeiten](cards/3151_soixante.yml) |
+| 3151 | soixante | sechzig | 7 | X | [Bearbeiten](cards/3151_soixante.yml) |
 | 3152 | bière | Bier | 5 | X | [Bearbeiten](cards/3152_bière.yml) |
 | 3153 | passif | passiv | 10 |  | [Bearbeiten](cards/3153_passif.yml) |
 | 3154 | interrogation | Frage, Befragung | 7 |  | [Bearbeiten](cards/3154_interrogation.yml) |
@@ -4189,7 +4189,7 @@ Insgesamt gibt es 5000 Karten mit 40333 Beispielsätzen (durchschnittlich 8.1 pr
 | 4146 | béton | Beton | 3 | X | [Bearbeiten](cards/4146_béton.yml) |
 | 4147 | fiable | verlässlich, zuverlässig | 3 |  | [Bearbeiten](cards/4147_fiable.yml) |
 | 4148 | génocide | Völkermord | 2 |  | [Bearbeiten](cards/4148_génocide.yml) |
-| 4149 | vingt-quatre | vierundzwanzig | 4 |  | [Bearbeiten](cards/4149_vingt-quatre.yml) |
+| 4149 | vingt-quatre | vierundzwanzig | 4 | X | [Bearbeiten](cards/4149_vingt-quatre.yml) |
 | 4150 | épouvantable | entsetzlich, schrecklich | 2 |  | [Bearbeiten](cards/4150_épouvantable.yml) |
 | 4151 | indifférent | gleichgültig | 8 |  | [Bearbeiten](cards/4151_indifférent.yml) |
 | 4152 | audacieux | kühn, mutig | 3 |  | [Bearbeiten](cards/4152_audacieux.yml) |
@@ -4476,7 +4476,7 @@ Insgesamt gibt es 5000 Karten mit 40333 Beispielsätzen (durchschnittlich 8.1 pr
 | 4433 | pâle | blass | 6 |  | [Bearbeiten](cards/4433_pâle.yml) |
 | 4434 | relâcher | loslassen, entspannen, freilassen | 6 |  | [Bearbeiten](cards/4434_relâcher.yml) |
 | 4435 | visa | Visum | 5 |  | [Bearbeiten](cards/4435_visa.yml) |
-| 4436 | vingt-cinq | fünfundzwanzig | 2 |  | [Bearbeiten](cards/4436_vingt-cinq.yml) |
+| 4436 | vingt-cinq | fünfundzwanzig | 2 | X | [Bearbeiten](cards/4436_vingt-cinq.yml) |
 | 4437 | péché | Sünde | 5 |  | [Bearbeiten](cards/4437_péché.yml) |
 | 4438 | gendarme | Gendarm | 4 |  | [Bearbeiten](cards/4438_gendarme.yml) |
 | 4439 | sécheresse | Trockenheit | 2 |  | [Bearbeiten](cards/4439_sécheresse.yml) |
@@ -4927,7 +4927,7 @@ Insgesamt gibt es 5000 Karten mit 40333 Beispielsätzen (durchschnittlich 8.1 pr
 | 4884 | romantique | romantisch | 5 |  | [Bearbeiten](cards/4884_romantique.yml) |
 | 4885 | obscurité | Dunkelheit | 4 |  | [Bearbeiten](cards/4885_obscurité.yml) |
 | 4886 | vulgaire | vulgär, ordinär | 7 |  | [Bearbeiten](cards/4886_vulgaire.yml) |
-| 4887 | soixante-dix | siebzig | 6 |  | [Bearbeiten](cards/4887_soixante-dix.yml) |
+| 4887 | soixante-dix | siebzig | 6 | X | [Bearbeiten](cards/4887_soixante-dix.yml) |
 | 4888 | féroce | wild, grausam | 2 |  | [Bearbeiten](cards/4888_féroce.yml) |
 | 4889 | perpétuel | ewig, dauerhaft | 3 |  | [Bearbeiten](cards/4889_perpétuel.yml) |
 | 4890 | militer | sich engagieren, kämpfen | 6 |  | [Bearbeiten](cards/4890_militer.yml) |
@@ -4987,7 +4987,7 @@ Insgesamt gibt es 5000 Karten mit 40333 Beispielsätzen (durchschnittlich 8.1 pr
 | 4944 | ajourner | verschieben, aufschieben | 2 |  | [Bearbeiten](cards/4944_ajourner.yml) |
 | 4945 | détérioration | Verschlechterung, Beschädigung | 4 |  | [Bearbeiten](cards/4945_détérioration.yml) |
 | 4946 | viable | lebensfähig | 2 |  | [Bearbeiten](cards/4946_viable.yml) |
-| 4947 | cochon | Schwein | 13 | X | [Bearbeiten](cards/4947_cochon.yml) |
+| 4947 | cochon | Schwein | 12 | X | [Bearbeiten](cards/4947_cochon.yml) |
 | 4948 | barbare | Barbar | 2 |  | [Bearbeiten](cards/4948_barbare.yml) |
 | 4949 | atroce | grausam, entsetzlich | 4 |  | [Bearbeiten](cards/4949_atroce.yml) |
 | 4950 | civique | bürgerlich | 4 |  | [Bearbeiten](cards/4950_civique.yml) |

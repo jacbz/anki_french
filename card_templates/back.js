@@ -1,12 +1,13 @@
 ___CONFIG___;
 
+const wordWithArticle = document.querySelector(".word");
+const word = wordWithArticle.dataset.word;
+const rank = parseInt(document.querySelector(".rank").dataset.content);
+
 /**
  * Feminine form
  */
-const wordWithArticle = document.querySelector(".word");
-const word = wordWithArticle.dataset.word;
 const feminine = wordWithArticle.dataset.feminine;
-
 function longestCommonPrefix(a, b) {
   let i = 0;
   while (i < a.length && i < b.length && a[i] === b[i]) i++;
@@ -37,6 +38,11 @@ if (pos) {
     if (!pos.classList.contains("expanded")) {
       pos.classList.add("expanded");
       const posMap = [
+        ["vimp", "unpersönliches Verb", ""],
+        ["vaux", "Hilfsverb", ""],
+        ["vi", "intransitives Verb", ""],
+        ["vt", "transitives Verb", ""],
+        ["vr", "reflexives Verb", ""],
         ["nadj", "Substantiv/Adjektiv", ""],
         ["adj", "Adjektiv", ""],
         ["adv", "Adverb", ""],
@@ -46,7 +52,6 @@ if (pos) {
         ["prep", "Präposition", ""],
         ["pro", "Pronomen", ""],
         ["n", "Substantiv", ""],
-        ["v", "Verb", ""],
         ["(f)", "ohne eigenständiges Femininum", "suffix"],
         ["(pl)", "ohne eigenständige Pluralform", "suffix"],
         ["pl", "nur mit Plural", "suffix"],
@@ -565,10 +570,24 @@ function expandSection(section) {
 }
 
 /**
+ * Dictionary
+ */
+fetch(`${getAnkiPrefix()}/_FR5000_dict_${rank}.xml`)
+  .then(async (response) => {
+    console.log(response);
+    if (response.ok) {
+      const xml = await response.text();
+      console.log(xml);
+      const dict = document.getElementById('dict');
+      dict.style.display = 'block';
+      dict.innerHTML = xml;
+    }
+  })
+
+/**
  * GitHub
  */
 const github = document.querySelector(".github > a");
-const rank = parseInt(document.querySelector(".rank").dataset.content);
 if (rank >= 1 && rank <= 5000) {
   github.href = `https://github.com/jacbz/anki_french/blob/main/cards/${rank
     .toString()
