@@ -37,7 +37,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40334 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1052 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40333 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1052 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -1060,7 +1060,7 @@ Insgesamt gibt es 5000 Karten mit 40334 Beispielsätzen (durchschnittlich 8.1 pr
 | 1017 | contribuer | beitragen | 4 |  | [Bearbeiten](cards/1017_contribuer.yml) |
 | 1018 | attaquer | angreifen | 12 |  | [Bearbeiten](cards/1018_attaquer.yml) |
 | 1019 | table | Tisch | 17 |  | [Bearbeiten](cards/1019_table.yml) |
-| 1020 | remonter | hinaufsteigen | 16 |  | [Bearbeiten](cards/1020_remonter.yml) |
+| 1020 | remonter | hinaufsteigen, zurückverfolgen | 16 |  | [Bearbeiten](cards/1020_remonter.yml) |
 | 1021 | certes | gewiss, sicherlich | 4 |  | [Bearbeiten](cards/1021_certes.yml) |
 | 1022 | avril | April | 6 | X | [Bearbeiten](cards/1022_avril.yml) |
 | 1023 | autrement | anders, sonst | 11 |  | [Bearbeiten](cards/1023_autrement.yml) |
@@ -2270,7 +2270,7 @@ Insgesamt gibt es 5000 Karten mit 40334 Beispielsätzen (durchschnittlich 8.1 pr
 | 2227 | substance | Substanz | 6 |  | [Bearbeiten](cards/2227_substance.yml) |
 | 2228 | soigner | sich kümmern um, behandeln | 11 |  | [Bearbeiten](cards/2228_soigner.yml) |
 | 2229 | récit | Erzählung, Bericht | 6 | X | [Bearbeiten](cards/2229_récit.yml) |
-| 2230 | revendication | Anspruch, Forderung | 11 | X | [Bearbeiten](cards/2230_revendication.yml) |
+| 2230 | revendication | Anspruch, Forderung | 10 | X | [Bearbeiten](cards/2230_revendication.yml) |
 | 2231 | incroyable | unglaublich | 8 |  | [Bearbeiten](cards/2231_incroyable.yml) |
 | 2232 | sondage | Umfrage, Überprüfung | 7 |  | [Bearbeiten](cards/2232_sondage.yml) |
 | 2233 | mineur | minderjährig; unwichtig; Bergmann | 10 | X | [Bearbeiten](cards/2233_mineur.yml) |
@@ -2402,15 +2402,15 @@ Insgesamt gibt es 5000 Karten mit 40334 Beispielsätzen (durchschnittlich 8.1 pr
 | 2359 | solidarité | Solidarität | 8 |  | [Bearbeiten](cards/2359_solidarité.yml) |
 | 2360 | restreindre | beschränken, einschränken | 4 |  | [Bearbeiten](cards/2360_restreindre.yml) |
 | 2361 | décennie | Jahrzehnt | 2 | X | [Bearbeiten](cards/2361_décennie.yml) |
-| 2362 | aussitôt | sofort | 6 |  | [Bearbeiten](cards/2362_aussitôt.yml) |
+| 2362 | aussitôt | sofort, gleich nach(-dem) | 6 |  | [Bearbeiten](cards/2362_aussitôt.yml) |
 | 2363 | officiellement | offiziell | 2 |  | [Bearbeiten](cards/2363_officiellement.yml) |
-| 2364 | chasser | jagen, vertreiben | 6 |  | [Bearbeiten](cards/2364_chasser.yml) |
+| 2364 | chasser | jagen, (ver-)treiben | 6 |  | [Bearbeiten](cards/2364_chasser.yml) |
 | 2365 | dîner | Abendessen; zu Abend essen | 7 | X | [Bearbeiten](cards/2365_dîner.yml) |
 | 2366 | personnellement | persönlich | 3 |  | [Bearbeiten](cards/2366_personnellement.yml) |
-| 2367 | fréquenter | umgehen mit, besuchen | 7 |  | [Bearbeiten](cards/2367_fréquenter.yml) |
-| 2368 | projeter | planen, entwerfen | 11 |  | [Bearbeiten](cards/2368_projeter.yml) |
+| 2367 | fréquenter | [mit jdm] verkehren, [einen Ort] besuchen | 7 |  | [Bearbeiten](cards/2367_fréquenter.yml) |
+| 2368 | projeter | planen, vorführen | 11 |  | [Bearbeiten](cards/2368_projeter.yml) |
 | 2369 | littéraire | literarisch | 7 |  | [Bearbeiten](cards/2369_littéraire.yml) |
-| 2370 | présider | vorsitzen, den Vorsitz führen | 5 |  | [Bearbeiten](cards/2370_présider.yml) |
+| 2370 | présider | vorsitzen | 5 |  | [Bearbeiten](cards/2370_présider.yml) |
 | 2371 | fortune | Glück, Vermögen | 13 |  | [Bearbeiten](cards/2371_fortune.yml) |
 | 2372 | malheureux | unglücklich | 7 |  | [Bearbeiten](cards/2372_malheureux.yml) |
 | 2373 | numérique | digital | 7 |  | [Bearbeiten](cards/2373_numérique.yml) |

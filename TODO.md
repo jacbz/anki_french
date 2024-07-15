@@ -1,7 +1,6 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
 * Typ, Kerl: [gars](cards/2304_gars.yml) (#2304), [mec](cards/2358_mec.yml) (#2358)
-* sofort: [immédiatement](cards/0807_immédiatement.yml) (#807), [aussitôt](cards/2362_aussitôt.yml) (#2362)
 * Führer: [leader](cards/1499_leader.yml) (#1499), [guide](cards/2392_guide.yml) (#2392)
 * Gemeinschaft: [communauté](cards/0558_communauté.yml) (#558), [collectivité](cards/2408_collectivité.yml) (#2408)
 * Gewinn: [profit](cards/1032_profit.yml) (#1032), [gain](cards/2420_gain.yml) (#2420)
@@ -80,7 +79,6 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * mündlich: [oral](cards/4114_oral.yml) (#4114), [verbal](cards/4240_verbal.yml) (#4240)
 * Schauspieler: [acteur](cards/1552_acteur.yml) (#1552), [comédien](cards/4253_comédien.yml) (#4253)
 * Richter: [juge](cards/1323_juge.yml) (#1323), [magistrat](cards/4282_magistrat.yml) (#4282)
-* sparen: [épargner](cards/2354_épargner.yml) (#2354), [économiser](cards/4319_économiser.yml) (#4319)
 * Strafe: [sanction](cards/2282_sanction.yml) (#2282), [punition](cards/4322_punition.yml) (#4322)
 * Verstärkung: [renforcement](cards/3600_renforcement.yml) (#3600), [renfort](cards/4326_renfort.yml) (#4326)
 * ersetzen: [remplacer](cards/0448_remplacer.yml) (#448), [substituer](cards/4344_substituer.yml) (#4344)
