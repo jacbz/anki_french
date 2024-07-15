@@ -113,34 +113,32 @@ function refreshExampleSentences() {
 }
 
 function formatSentences(within = document) {
-  within
-    .querySelectorAll(".fr")
-    .forEach(function (el) {
-      if (el.querySelector(".sentence-with-audio")) {
-        return;
-      }
+  within.querySelectorAll(".fr").forEach(function (el) {
+    if (el.querySelector(".sentence-with-audio")) {
+      return;
+    }
 
-      const text = beautifyText(el.innerHTML, true);
+    const text = beautifyText(el.innerHTML, true);
 
-      // show audio button if sentence ends with punctuation
-      const shouldShow =
-        text.match(/[.!?]/) || el.classList.contains("force-audio");
-      el.innerHTML = text;
-      if (shouldShow) {
-        const textContent = el.textContent;
-        const customFileName = el.dataset.audioFile;
-        el.innerHTML = `<span class="sentence-with-audio">${audioButton(
-          textContent,
-          customFileName
-        )}<span>${text}</span></span>`;
-        if (el.classList.contains("spoiler")) {
-          el.classList.remove("spoiler");
-          el.querySelector(".sentence-with-audio > span").classList.add(
-            "spoiler"
-          );
-        }
+    // show audio button if sentence ends with punctuation
+    const shouldShow =
+      text.match(/[.!?]/) || el.classList.contains("force-audio");
+    el.innerHTML = text;
+    if (shouldShow) {
+      const textContent = el.textContent;
+      const customFileName = el.dataset.audioFile;
+      el.innerHTML = `<span class="sentence-with-audio">${audioButton(
+        textContent,
+        customFileName
+      )}<span>${text}</span></span>`;
+      if (el.classList.contains("spoiler")) {
+        el.classList.remove("spoiler");
+        el.querySelector(".sentence-with-audio > span").classList.add(
+          "spoiler"
+        );
       }
-    });
+    }
+  });
 
   within.querySelectorAll(".de").forEach(function (el) {
     el.innerHTML = beautifyText(el.innerHTML, false);
@@ -572,10 +570,9 @@ function expandSection(section) {
 const github = document.querySelector(".github > a");
 const rank = parseInt(document.querySelector(".rank").dataset.content);
 if (rank >= 1 && rank <= 5000) {
-  github.href = `https://github.com/jacbz/anki_french/blob/main/cards/${rank.toString().padStart(
-    4,
-    "0"
-  )}_${word}.yml`;
+  github.href = `https://github.com/jacbz/anki_french/blob/main/cards/${rank
+    .toString()
+    .padStart(4, "0")}_${word}.yml`;
 } else {
   github.remove();
 }
@@ -583,15 +580,13 @@ if (rank >= 1 && rank <= 5000) {
 /**
  * Update notice
  */
-const lastUpdated = new Date("___VERSION___");
+const lastUpdated = new Date(___VERSION___);
 const numberOfDaysSince = Math.floor(
   (Date.now() - lastUpdated.getTime()) / (1000 * 60 * 60 * 24)
 );
 if (numberOfDaysSince >= 90) {
-  const updateNotice = document.getElementById("update-notice");
-  const updateNoticeDays = document.getElementById("update-notice-days");
-  updateNoticeDays.textContent = numberOfDaysSince;
-  updateNotice.style.display = "block";
+  document.getElementById("update-notice-days").textContent = numberOfDaysSince;
+  document.getElementById("update-notice").style.display = "block";
 }
 
 /**
