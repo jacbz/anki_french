@@ -37,7 +37,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1059 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40330 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1079 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -50,20 +50,20 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 7 | en | in | 12 | X | [Bearbeiten](cards/0007_en.yml) |
 | 8 | avoir | haben, besitzen | 14 |  | [Bearbeiten](cards/0008_avoir.yml) |
 | 9 | que | dass, wie, welche(-r/n), was | 12 | X | [Bearbeiten](cards/0009_que.yml) |
-| 10 | pour | für | 12 |  | [Bearbeiten](cards/0010_pour.yml) |
-| 11 | dans | in, innerhalb | 12 |  | [Bearbeiten](cards/0011_dans.yml) |
+| 10 | pour | für | 12 | X | [Bearbeiten](cards/0010_pour.yml) |
+| 11 | dans | in, innerhalb | 12 | X | [Bearbeiten](cards/0011_dans.yml) |
 | 12 | ce | diese(-r/s); es, das | 25 | X | [Bearbeiten](cards/0012_ce.yml) |
 | 13 | il | er | 11 | X | [Bearbeiten](cards/0013_il.yml) |
 | 14 | qui | wer, der/die/das [Relativpronomen] | 12 | X | [Bearbeiten](cards/0014_qui.yml) |
 | 15 | ne | [Negation] | 12 | X | [Bearbeiten](cards/0015_ne.yml) |
-| 16 | sur | auf, über | 8 |  | [Bearbeiten](cards/0016_sur.yml) |
+| 16 | sur | auf, über | 8 | X | [Bearbeiten](cards/0016_sur.yml) |
 | 17 | se | sich | 10 | X | [Bearbeiten](cards/0017_se.yml) |
 | 18 | pas | nicht; Schritt | 18 | X | [Bearbeiten](cards/0018_pas.yml) |
 | 19 | plus | mehr | 12 | X | [Bearbeiten](cards/0019_plus.yml) |
 | 20 | pouvoir | können; Macht | 12 |  | [Bearbeiten](cards/0020_pouvoir.yml) |
-| 21 | par | durch, von | 12 |  | [Bearbeiten](cards/0021_par.yml) |
+| 21 | par | durch, von | 12 | X | [Bearbeiten](cards/0021_par.yml) |
 | 22 | je | ich | 3 | X | [Bearbeiten](cards/0022_je.yml) |
-| 23 | avec | mit | 13 |  | [Bearbeiten](cards/0023_avec.yml) |
+| 23 | avec | mit | 13 | X | [Bearbeiten](cards/0023_avec.yml) |
 | 24 | tout | alles, ganz, jede(-r/s) | 13 | X | [Bearbeiten](cards/0024_tout.yml) |
 | 25 | faire | machen, tun | 12 |  | [Bearbeiten](cards/0025_faire.yml) |
 | 26 | son | sein(-e) | 9 | X | [Bearbeiten](cards/0026_son.yml) |
@@ -95,7 +95,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 52 | nouveau | neu | 9 | X | [Bearbeiten](cards/0052_nouveau.yml) |
 | 53 | aller | gehen | 13 | X | [Bearbeiten](cards/0053_aller.yml) |
 | 54 | cela | es, das, [unbestimmtes Demonstrativpro.] | 5 | X | [Bearbeiten](cards/0054_cela.yml) |
-| 55 | entre | zwischen | 13 |  | [Bearbeiten](cards/0055_entre.yml) |
+| 55 | entre | zwischen | 13 | X | [Bearbeiten](cards/0055_entre.yml) |
 | 56 | premier | erste(-r/s) | 10 |  | [Bearbeiten](cards/0056_premier.yml) |
 | 57 | vouloir | wollen | 14 |  | [Bearbeiten](cards/0057_vouloir.yml) |
 | 58 | déjà | schon, bereits | 12 |  | [Bearbeiten](cards/0058_déjà.yml) |
@@ -136,7 +136,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 93 | suite | Folge, Fortsetzung | 3 |  | [Bearbeiten](cards/0093_suite.yml) |
 | 94 | bon | gut | 12 | X | [Bearbeiten](cards/0094_bon.yml) |
 | 95 | comprendre | verstehen | 7 |  | [Bearbeiten](cards/0095_comprendre.yml) |
-| 96 | depuis | seit | 13 |  | [Bearbeiten](cards/0096_depuis.yml) |
+| 96 | depuis | seit | 13 | X | [Bearbeiten](cards/0096_depuis.yml) |
 | 97 | point | Punkt; gar | 14 |  | [Bearbeiten](cards/0097_point.yml) |
 | 98 | ainsi | so, auf diese Weise | 12 |  | [Bearbeiten](cards/0098_ainsi.yml) |
 | 99 | heure | Stunde, Uhrzeit | 16 | X | [Bearbeiten](cards/0099_heure.yml) |
@@ -162,8 +162,8 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 119 | quand | wann | 13 | X | [Bearbeiten](cards/0119_quand.yml) |
 | 120 | suivre | folgen | 8 | X | [Bearbeiten](cards/0120_suivre.yml) |
 | 121 | contre | gegen | 12 |  | [Bearbeiten](cards/0121_contre.yml) |
-| 122 | sous | unter | 12 |  | [Bearbeiten](cards/0122_sous.yml) |
-| 123 | côté | Seite | 12 |  | [Bearbeiten](cards/0123_côté.yml) |
+| 122 | sous | unter | 12 | X | [Bearbeiten](cards/0122_sous.yml) |
+| 123 | côté | Seite | 12 | X | [Bearbeiten](cards/0123_côté.yml) |
 | 124 | ensemble | zusammen, gemeinsam | 15 |  | [Bearbeiten](cards/0124_ensemble.yml) |
 | 125 | chose | Sache, Ding | 12 |  | [Bearbeiten](cards/0125_chose.yml) |
 | 126 | enfant | Kind | 16 | X | [Bearbeiten](cards/0126_enfant.yml) |
@@ -174,7 +174,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 131 | moi | ich, mir, mich | 13 | X | [Bearbeiten](cards/0131_moi.yml) |
 | 132 | vie | Leben | 14 | X | [Bearbeiten](cards/0132_vie.yml) |
 | 133 | connaître | kennen, erfahren | 14 |  | [Bearbeiten](cards/0133_connaître.yml) |
-| 134 | jusque | bis | 17 |  | [Bearbeiten](cards/0134_jusque.yml) |
+| 134 | jusque | bis | 17 | X | [Bearbeiten](cards/0134_jusque.yml) |
 | 135 | croire | glauben | 14 |  | [Bearbeiten](cards/0135_croire.yml) |
 | 136 | homme | Mann | 15 | X | [Bearbeiten](cards/0136_homme.yml) |
 | 137 | cas | Fall | 13 |  | [Bearbeiten](cards/0137_cas.yml) |
@@ -222,10 +222,10 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 179 | jamais | niemals | 12 | X | [Bearbeiten](cards/0179_jamais.yml) |
 | 180 | sembler | scheinen | 17 |  | [Bearbeiten](cards/0180_sembler.yml) |
 | 181 | tant | so viel, solange, so sehr | 15 |  | [Bearbeiten](cards/0181_tant.yml) |
-| 182 | vers | zu, in Richtung von | 8 |  | [Bearbeiten](cards/0182_vers.yml) |
+| 182 | vers | zu, in Richtung von | 8 | X | [Bearbeiten](cards/0182_vers.yml) |
 | 183 | besoin | Bedarf, Notwendigkeit | 13 |  | [Bearbeiten](cards/0183_besoin.yml) |
 | 184 | revenir | zurückkommen | 15 |  | [Bearbeiten](cards/0184_revenir.yml) |
-| 185 | dès | ab, sobald | 13 |  | [Bearbeiten](cards/0185_dès.yml) |
+| 185 | dès | ab, sobald | 13 | X | [Bearbeiten](cards/0185_dès.yml) |
 | 186 | moyen | Mittel, Weg | 19 |  | [Bearbeiten](cards/0186_moyen.yml) |
 | 187 | groupe | Gruppe | 17 |  | [Bearbeiten](cards/0187_groupe.yml) |
 | 188 | problème | Problem | 13 |  | [Bearbeiten](cards/0188_problème.yml) |
@@ -245,8 +245,8 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 202 | long | lang, langwierig | 13 | X | [Bearbeiten](cards/0202_long.yml) |
 | 203 | service | Bedienung, Dienstleistung | 14 |  | [Bearbeiten](cards/0203_service.yml) |
 | 204 | ministre | Minister | 4 | X | [Bearbeiten](cards/0204_ministre.yml) |
-| 205 | face | Gesicht; Vorderseite | 18 |  | [Bearbeiten](cards/0205_face.yml) |
-| 206 | chez | bei, zu | 12 |  | [Bearbeiten](cards/0206_chez.yml) |
+| 205 | face | Gesicht; Vorderseite | 18 | X | [Bearbeiten](cards/0205_face.yml) |
+| 206 | chez | bei, zu | 12 | X | [Bearbeiten](cards/0206_chez.yml) |
 | 207 | te | dich, dir | 12 | X | [Bearbeiten](cards/0207_te.yml) |
 | 208 | rappeler | erinnern, zurückrufen | 12 |  | [Bearbeiten](cards/0208_rappeler.yml) |
 | 209 | présenter | vorstellen, präsentieren | 13 |  | [Bearbeiten](cards/0209_présenter.yml) |
@@ -265,7 +265,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 222 | force | Kraft | 15 |  | [Bearbeiten](cards/0222_force.yml) |
 | 223 | situation | Situation | 17 | X | [Bearbeiten](cards/0223_situation.yml) |
 | 224 | offrir | anbieten, schenken | 15 | X | [Bearbeiten](cards/0224_offrir.yml) |
-| 225 | près | nahe | 15 |  | [Bearbeiten](cards/0225_près.yml) |
+| 225 | près | nahe | 15 | X | [Bearbeiten](cards/0225_près.yml) |
 | 226 | choisir | wählen, auswählen | 17 |  | [Bearbeiten](cards/0226_choisir.yml) |
 | 227 | national | national | 6 |  | [Bearbeiten](cards/0227_national.yml) |
 | 228 | projet | Plan, Projekt | 14 |  | [Bearbeiten](cards/0228_projet.yml) |
@@ -381,7 +381,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 338 | proposer | vorschlagen, anbieten | 7 | X | [Bearbeiten](cards/0338_proposer.yml) |
 | 339 | apporter | bringen | 11 | X | [Bearbeiten](cards/0339_apporter.yml) |
 | 340 | programme | Programm | 13 |  | [Bearbeiten](cards/0340_programme.yml) |
-| 341 | loin | weit | 17 |  | [Bearbeiten](cards/0341_loin.yml) |
+| 341 | loin | weit | 17 | X | [Bearbeiten](cards/0341_loin.yml) |
 | 342 | ligne | Linie, Zeile | 15 |  | [Bearbeiten](cards/0342_ligne.yml) |
 | 343 | tête | Kopf | 14 | X | [Bearbeiten](cards/0343_tête.yml) |
 | 344 | libre | frei | 15 | X | [Bearbeiten](cards/0344_libre.yml) |
@@ -548,7 +548,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 505 | propos | Äußerung | 17 |  | [Bearbeiten](cards/0505_propos.yml) |
 | 506 | troisième | dritte(-r/s) | 5 | X | [Bearbeiten](cards/0506_troisième.yml) |
 | 507 | quitter | verlassen | 12 | X | [Bearbeiten](cards/0507_quitter.yml) |
-| 508 | bout | Ende, Spitze | 15 |  | [Bearbeiten](cards/0508_bout.yml) |
+| 508 | bout | Ende, Spitze | 15 | X | [Bearbeiten](cards/0508_bout.yml) |
 | 509 | population | Bevölkerung | 9 | X | [Bearbeiten](cards/0509_population.yml) |
 | 510 | toi | du, dir | 11 | X | [Bearbeiten](cards/0510_toi.yml) |
 | 511 | responsable | verantwortlich | 13 | X | [Bearbeiten](cards/0511_responsable.yml) |
@@ -593,7 +593,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 550 | entraîner | trainieren, mit sich bringen | 12 |  | [Bearbeiten](cards/0550_entraîner.yml) |
 | 551 | disposer | anordnen, verfügen | 10 |  | [Bearbeiten](cards/0551_disposer.yml) |
 | 552 | parole | Wort, Sprache | 11 |  | [Bearbeiten](cards/0552_parole.yml) |
-| 553 | fond | Boden, Hintergrund | 12 |  | [Bearbeiten](cards/0553_fond.yml) |
+| 553 | fond | Boden, Hintergrund | 12 | X | [Bearbeiten](cards/0553_fond.yml) |
 | 554 | public | öffentlich; Publikum | 12 | X | [Bearbeiten](cards/0554_public.yml) |
 | 555 | faux | falsch | 12 | X | [Bearbeiten](cards/0555_faux.yml) |
 | 556 | genre | Art, Gattung | 16 |  | [Bearbeiten](cards/0556_genre.yml) |
@@ -647,7 +647,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 604 | article | Artikel | 12 |  | [Bearbeiten](cards/0604_article.yml) |
 | 605 | durer | dauern | 8 |  | [Bearbeiten](cards/0605_durer.yml) |
 | 606 | qualité | Qualität | 12 |  | [Bearbeiten](cards/0606_qualité.yml) |
-| 607 | gauche | links | 13 |  | [Bearbeiten](cards/0607_gauche.yml) |
+| 607 | gauche | links | 13 | X | [Bearbeiten](cards/0607_gauche.yml) |
 | 608 | solution | Lösung | 13 | X | [Bearbeiten](cards/0608_solution.yml) |
 | 609 | voie | Weg, Bahn, Fahrspur | 13 | X | [Bearbeiten](cards/0609_voie.yml) |
 | 610 | capable | fähig | 14 | X | [Bearbeiten](cards/0610_capable.yml) |
@@ -1241,7 +1241,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 1198 | soutien | Unterstützung | 7 |  | [Bearbeiten](cards/1198_soutien.yml) |
 | 1199 | urgence | Notfall, Dringlichkeit | 9 |  | [Bearbeiten](cards/1199_urgence.yml) |
 | 1200 | clé | Schlüssel | 14 |  | [Bearbeiten](cards/1200_clé.yml) |
-| 1201 | enlever | ausziehen | 12 |  | [Bearbeiten](cards/1201_enlever.yml) |
+| 1201 | enlever | ausziehen, wegnehmen | 12 |  | [Bearbeiten](cards/1201_enlever.yml) |
 | 1202 | jeter | (weg-)werfen | 12 | X | [Bearbeiten](cards/1202_jeter.yml) |
 | 1203 | religieux | religiös | 5 | X | [Bearbeiten](cards/1203_religieux.yml) |
 | 1204 | analyse | Analyse | 12 |  | [Bearbeiten](cards/1204_analyse.yml) |
@@ -1333,7 +1333,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 1290 | exercice | Übung | 10 | X | [Bearbeiten](cards/1290_exercice.yml) |
 | 1291 | fondamental | grundlegend | 6 |  | [Bearbeiten](cards/1291_fondamental.yml) |
 | 1292 | visage | Gesicht | 16 | X | [Bearbeiten](cards/1292_visage.yml) |
-| 1293 | droite | rechte Seite; Gerade | 12 |  | [Bearbeiten](cards/1293_droite.yml) |
+| 1293 | droite | rechte Seite; Gerade | 12 | X | [Bearbeiten](cards/1293_droite.yml) |
 | 1294 | machine | Maschine | 10 |  | [Bearbeiten](cards/1294_machine.yml) |
 | 1295 | village | Dorf | 8 |  | [Bearbeiten](cards/1295_village.yml) |
 | 1296 | britannique | britisch | 3 | X | [Bearbeiten](cards/1296_britannique.yml) |
@@ -2281,7 +2281,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 2238 | présidentiel | Präsidial- | 4 |  | [Bearbeiten](cards/2238_présidentiel.yml) |
 | 2239 | concurrent | Konkurrent | 3 | X | [Bearbeiten](cards/2239_concurrent.yml) |
 | 2240 | prévu | geplant, vorgesehen | 2 |  | [Bearbeiten](cards/2240_prévu.yml) |
-| 2241 | suisse | schweizerisch | 6 | X | [Bearbeiten](cards/2241_suisse.yml) |
+| 2241 | suisse | schweizerisch | 4 | X | [Bearbeiten](cards/2241_suisse.yml) |
 | 2242 | franchement | ehrlich, offen gesagt | 4 |  | [Bearbeiten](cards/2242_franchement.yml) |
 | 2243 | paiement | Zahlung | 12 |  | [Bearbeiten](cards/2243_paiement.yml) |
 | 2244 | comparaison | Vergleich | 10 |  | [Bearbeiten](cards/2244_comparaison.yml) |
@@ -2397,7 +2397,7 @@ Insgesamt gibt es 5000 Karten mit 40332 Beispielsätzen (durchschnittlich 8.1 pr
 | 2354 | épargner | sparen, ersparen | 12 |  | [Bearbeiten](cards/2354_épargner.yml) |
 | 2355 | concentration | Konzentration | 7 |  | [Bearbeiten](cards/2355_concentration.yml) |
 | 2356 | téléphonique | telefonisch | 4 |  | [Bearbeiten](cards/2356_téléphonique.yml) |
-| 2357 | remise | Übergabe, Nachlass | 10 |  | [Bearbeiten](cards/2357_remise.yml) |
+| 2357 | remise | Übergabe; Ermäßigung | 10 |  | [Bearbeiten](cards/2357_remise.yml) |
 | 2358 | mec | Typ, Kerl | 4 | X | [Bearbeiten](cards/2358_mec.yml) |
 | 2359 | solidarité | Solidarität | 8 |  | [Bearbeiten](cards/2359_solidarité.yml) |
 | 2360 | restreindre | beschränken, einschränken | 4 |  | [Bearbeiten](cards/2360_restreindre.yml) |
