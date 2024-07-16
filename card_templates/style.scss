@@ -405,6 +405,8 @@ hr {
   align-items: center;
   transform: translateY(-120%);
   font-size: 90%;
+  user-select: none;
+  -webkit-user-select: none;
 
   .svg-button {
     margin-left: 0.3em;
