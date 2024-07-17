@@ -8,6 +8,8 @@ function formatDefinition() {
         (match) => `<span class="no-break">${match}</span>`
       );
       text = text.replaceAll('<span class="no-break"> ', ' <span class="no-break">');
+      text = text.replaceAll('</span>, <span class="no-break">', ',</span> <span class="no-break">')
+      text = text.replaceAll('</span>; <span class="no-break">', ';</span> <span class="no-break">')
     }
 
     text = text.replace(/\((.*?)\)/g, '<span class="pre-suffix">$&</span>');
@@ -24,6 +26,8 @@ function beautifyText(text, isFrench) {
   text = text.replace(/([^<>\s])'/g, "$1’"); // convert apostrophes
   text = text.replaceAll("...", "…"); // convert ellipsis
   if (isFrench) {
+    text = text.replaceAll("« ", "«").replaceAll(" »", "»");
+    text = text.replaceAll("«", '"').replaceAll("»", '"');
     // insert thin non-breaking space before punctuation (but not inside HTML tags)
     text = text.replace(/(?!.*<[^>]+>)(\s?)([?|:|!|;])/g, "\u202F$2");
     // Replace with French quote marks « ... »

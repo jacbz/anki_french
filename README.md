@@ -1590,7 +1590,7 @@ Insgesamt gibt es 5000 Karten mit 40330 Beispielsätzen (durchschnittlich 8.1 pr
 | 1547 | voire | (ja) sogar | 2 |  | [Bearbeiten](cards/1547_voire.yml) |
 | 1548 | témoignage | Aussage, Bezeugung | 9 |  | [Bearbeiten](cards/1548_témoignage.yml) |
 | 1549 | messieurs | Herren | 2 |  | [Bearbeiten](cards/1549_messieurs.yml) |
-| 1550 | effectivement | tatsächlich | 3 |  | [Bearbeiten](cards/1550_effectivement.yml) |
+| 1550 | effectivement | tatsächlich, wirksam | 3 |  | [Bearbeiten](cards/1550_effectivement.yml) |
 | 1551 | gaz | Gas | 16 |  | [Bearbeiten](cards/1551_gaz.yml) |
 | 1552 | acteur | Schauspieler | 7 | X | [Bearbeiten](cards/1552_acteur.yml) |
 | 1553 | adapter | anpassen | 12 |  | [Bearbeiten](cards/1553_adapter.yml) |
@@ -1946,7 +1946,7 @@ Insgesamt gibt es 5000 Karten mit 40330 Beispielsätzen (durchschnittlich 8.1 pr
 | 1903 | préserver | schützen, bewahren | 6 |  | [Bearbeiten](cards/1903_préserver.yml) |
 | 1904 | hommage | Würdigung | 11 |  | [Bearbeiten](cards/1904_hommage.yml) |
 | 1905 | inférieur | untere(-r/s), minderwertig | 7 | X | [Bearbeiten](cards/1905_inférieur.yml) |
-| 1906 | match | Spiel (Sport) | 9 |  | [Bearbeiten](cards/1906_match.yml) |
+| 1906 | match | Spiel [Sport] | 9 |  | [Bearbeiten](cards/1906_match.yml) |
 | 1907 | pointe | Spitze | 12 | X | [Bearbeiten](cards/1907_pointe.yml) |
 | 1908 | gouvernemental | Regierungs- | 7 |  | [Bearbeiten](cards/1908_gouvernemental.yml) |
 | 1909 | exécuter | ausführen, vollstrecken | 5 |  | [Bearbeiten](cards/1909_exécuter.yml) |
@@ -2422,8 +2422,8 @@ Insgesamt gibt es 5000 Karten mit 40330 Beispielsätzen (durchschnittlich 8.1 pr
 | 2379 | marchand | Händler | 12 |  | [Bearbeiten](cards/2379_marchand.yml) |
 | 2380 | cri | Schrei | 14 |  | [Bearbeiten](cards/2380_cri.yml) |
 | 2381 | féminin | weiblich | 4 |  | [Bearbeiten](cards/2381_féminin.yml) |
-| 2382 | désert | Wüste | 6 |  | [Bearbeiten](cards/2382_désert.yml) |
-| 2383 | vêtement | Kleidungsstück | 12 | X | [Bearbeiten](cards/2383_vêtement.yml) |
+| 2382 | désert | Wüste; verlassen | 6 |  | [Bearbeiten](cards/2382_désert.yml) |
+| 2383 | vêtement | Kleidung(-sstück) | 12 | X | [Bearbeiten](cards/2383_vêtement.yml) |
 | 2384 | autrefois | früher, einst | 3 |  | [Bearbeiten](cards/2384_autrefois.yml) |
 | 2385 | surmonter | überwinden | 2 |  | [Bearbeiten](cards/2385_surmonter.yml) |
 | 2386 | marchandise | Ware | 12 |  | [Bearbeiten](cards/2386_marchandise.yml) |
