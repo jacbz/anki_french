@@ -38,7 +38,6 @@ if (pos) {
     if (!pos.classList.contains("expanded")) {
       pos.classList.add("expanded");
       const posMap = [
-        ["vimp", "unpersönliches Verb", ""],
         ["vaux", "Hilfsverb", ""],
         ["vi", "intransitives Verb", ""],
         ["vt", "transitives Verb", ""],
@@ -54,6 +53,7 @@ if (pos) {
         ["n", "Substantiv", ""],
         ["(f)", "ohne eigenständiges Femininum", "suffix"],
         ["(pl)", "ohne eigenständige Pluralform", "suffix"],
+        ["(imp)", "unpersönliches", "prefix"],
         ["pl", "nur mit Plural", "suffix"],
         ["f", "feminines", "prefix"],
         ["m", "maskulines", "prefix"],
