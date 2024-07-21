@@ -284,17 +284,23 @@ if (conjugationTable) {
 /**
  * Grammar loader
  */
+const grammarLibrary = document.getElementById("grammar-library");
 let grammar = {
   index: {},
   tenses: {},
   content: {},
   github: {},
 };
-fetch(`${getAnkiPrefix()}/_FR5000_grammar____VERSION___.json`)
+fetch(`${getAnkiPrefix()}/FR5000_grammar____VERSION___.json`)
   .then((response) => response.json())
   .then((loadedGrammar) => {
     grammar = loadedGrammar;
     loadAllGrammar();
+  })
+  .catch(err => {
+    console.error(err);
+    grammarLibrary.classList.remove("collapsed");
+    grammarLibrary.innerHTML = "<p>Es ist ein Fehler beim Laden der Grammatik-Bibliothek aufgetreten. Bitte melde das Problem auf <a href='https://github.com/jacbz/anki_french/issues/new'>GitHub</a>.</p>";    
   });
 
 function loadGrammar(id, into) {
@@ -473,7 +479,6 @@ function formatConjugationTables(within) {
 /**
  * Grammar library
  */
-const grammarLibrary = document.getElementById("grammar-library");
 const grammarSections = document.getElementById("grammar-sections");
 const showHideButton = document.getElementById("show-hide-grammar-library");
 const closeLibraryButton = document.getElementById("close-grammar-library");
