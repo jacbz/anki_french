@@ -1,9 +1,8 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
 * Typ, Kerl: [gars](cards/2304_gars.yml) (#2304), [mec](cards/2358_mec.yml) (#2358)
-* Führer: [leader](cards/1499_leader.yml) (#1499), [guide](cards/2392_guide.yml) (#2392)
 * Gemeinschaft: [communauté](cards/0558_communauté.yml) (#558), [collectivité](cards/2408_collectivité.yml) (#2408)
-* Gewinn: [profit](cards/1032_profit.yml) (#1032), [gain](cards/2420_gain.yml) (#2420)
+* Gewinn, Nutzen: [bénéfice](cards/1915_bénéfice.yml) (#1915), [gain](cards/2420_gain.yml) (#2420)
 * Opfer: [victime](cards/0697_victime.yml) (#697), [sacrifice](cards/2437_sacrifice.yml) (#2437)
 * Gegenteil: [contraire](cards/0619_contraire.yml) (#619), [inverse](cards/2452_inverse.yml) (#2452)
 * Lehrer: [professeur](cards/1150_professeur.yml) (#1150), [enseignant](cards/2456_enseignant.yml) (#2456)
@@ -88,7 +87,7 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * schrecklich, furchtbar: [terrible](cards/1310_terrible.yml) (#1310), [horrible](cards/3190_horrible.yml) (#3190), [affreux](cards/4369_affreux.yml) (#4369)
 * Höhe: [hauteur](cards/1653_hauteur.yml) (#1653), [altitude](cards/4396_altitude.yml) (#4396)
 * angemessen, passend: [adéquat](cards/3525_adéquat.yml) (#3525), [approprié](cards/3591_approprié.yml) (#3591), [convenable](cards/4410_convenable.yml) (#4410)
-* Auto: [voiture](cards/0881_voiture.yml) (#881), [automobile](cards/2407_automobile.yml) (#2407), [auto](cards/4494_auto.yml) (#4494)
+* Auto: [voiture](cards/0881_voiture.yml) (#881), [auto](cards/4494_auto.yml) (#4494)
 * Waffenstillstand: [trêve](cards/4455_trêve.yml) (#4455), [cessez-le-feu](cards/4505_cessez-le-feu.yml) (#4505)
 * arbeiten: [travailler](cards/0290_travailler.yml) (#290), [bosser](cards/4532_bosser.yml) (#4532)
 * Wunder: [miracle](cards/2638_miracle.yml) (#2638), [merveille](cards/4545_merveille.yml) (#4545)
