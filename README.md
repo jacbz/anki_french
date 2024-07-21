@@ -37,7 +37,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40325 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1079 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40328 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1088 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -311,7 +311,7 @@ Insgesamt gibt es 5000 Karten mit 40325 Beispielsätzen (durchschnittlich 8.1 pr
 | 268 | président | Präsident | 8 | X | [Bearbeiten](cards/0268_président.yml) |
 | 269 | exister | existieren | 7 |  | [Bearbeiten](cards/0269_exister.yml) |
 | 270 | sûr | sicher | 13 | X | [Bearbeiten](cards/0270_sûr.yml) |
-| 271 | refuser | ablehnen | 13 | X | [Bearbeiten](cards/0271_refuser.yml) |
+| 271 | refuser | ablehnen, verweigern | 13 | X | [Bearbeiten](cards/0271_refuser.yml) |
 | 272 | plutôt | eher | 21 |  | [Bearbeiten](cards/0272_plutôt.yml) |
 | 273 | bureau | Büro; Schreibtisch | 18 |  | [Bearbeiten](cards/0273_bureau.yml) |
 | 274 | mauvais | schlecht | 13 | X | [Bearbeiten](cards/0274_mauvais.yml) |
@@ -795,7 +795,7 @@ Insgesamt gibt es 5000 Karten mit 40325 Beispielsätzen (durchschnittlich 8.1 pr
 | 752 | divers | verschieden, divers | 3 |  | [Bearbeiten](cards/0752_divers.yml) |
 | 753 | appliquer | anwenden, auftragen | 12 |  | [Bearbeiten](cards/0753_appliquer.yml) |
 | 754 | frapper | schlagen, klopfen | 14 |  | [Bearbeiten](cards/0754_frapper.yml) |
-| 755 | peur | Angst, Furcht | 15 |  | [Bearbeiten](cards/0755_peur.yml) |
+| 755 | peur | Angst, Furcht | 15 | X | [Bearbeiten](cards/0755_peur.yml) |
 | 756 | parlement | Parlament | 2 |  | [Bearbeiten](cards/0756_parlement.yml) |
 | 757 | fermer | schließen | 13 |  | [Bearbeiten](cards/0757_fermer.yml) |
 | 758 | forcer | zwingen, erzwingen | 10 | X | [Bearbeiten](cards/0758_forcer.yml) |
@@ -1072,7 +1072,7 @@ Insgesamt gibt es 5000 Karten mit 40325 Beispielsätzen (durchschnittlich 8.1 pr
 | 1029 | dur | hart, schwierig | 13 | X | [Bearbeiten](cards/1029_dur.yml) |
 | 1030 | application | Anwendung | 11 |  | [Bearbeiten](cards/1030_application.yml) |
 | 1031 | lutter | (be-)kämpfen | 10 | X | [Bearbeiten](cards/1031_lutter.yml) |
-| 1032 | profit | Gewinn | 12 |  | [Bearbeiten](cards/1032_profit.yml) |
+| 1032 | profit | Nutzen, Gewinn | 12 |  | [Bearbeiten](cards/1032_profit.yml) |
 | 1033 | contenir | enthalten | 2 |  | [Bearbeiten](cards/1033_contenir.yml) |
 | 1034 | déposer | ablegen, hinterlegen | 12 |  | [Bearbeiten](cards/1034_déposer.yml) |
 | 1035 | modifier | ändern, modifizieren | 4 |  | [Bearbeiten](cards/1035_modifier.yml) |
@@ -1311,7 +1311,7 @@ Insgesamt gibt es 5000 Karten mit 40325 Beispielsätzen (durchschnittlich 8.1 pr
 | 1268 | pratiquer | ausüben, praktizieren | 9 |  | [Bearbeiten](cards/1268_pratiquer.yml) |
 | 1269 | pensée | Gedanke | 12 |  | [Bearbeiten](cards/1269_pensée.yml) |
 | 1270 | extrême | äußerste/r/s, extrem | 12 | X | [Bearbeiten](cards/1270_extrême.yml) |
-| 1271 | néanmoins | nichtsdestotrotz | 2 |  | [Bearbeiten](cards/1271_néanmoins.yml) |
+| 1271 | néanmoins | nichtsdestotrotz | 2 | X | [Bearbeiten](cards/1271_néanmoins.yml) |
 | 1272 | bénéficier | profitieren, Nutzen ziehen | 6 |  | [Bearbeiten](cards/1272_bénéficier.yml) |
 | 1273 | vingt | zwanzig | 9 | X | [Bearbeiten](cards/1273_vingt.yml) |
 | 1274 | revoir | wiedersehen | 4 |  | [Bearbeiten](cards/1274_revoir.yml) |
@@ -1890,7 +1890,7 @@ Insgesamt gibt es 5000 Karten mit 40325 Beispielsätzen (durchschnittlich 8.1 pr
 | 1847 | préoccupation | Besorgnis, Sorge | 4 |  | [Bearbeiten](cards/1847_préoccupation.yml) |
 | 1848 | trace | Spur | 13 |  | [Bearbeiten](cards/1848_trace.yml) |
 | 1849 | logement | Unterkunft | 7 |  | [Bearbeiten](cards/1849_logement.yml) |
-| 1850 | langage | Sprache | 13 |  | [Bearbeiten](cards/1850_langage.yml) |
+| 1850 | langage | Sprache | 13 | X | [Bearbeiten](cards/1850_langage.yml) |
 | 1851 | plainte | Klage, Beschwerde | 10 |  | [Bearbeiten](cards/1851_plainte.yml) |
 | 1852 | chaud | warm, heiß | 14 | X | [Bearbeiten](cards/1852_chaud.yml) |
 | 1853 | taire | still sein, schweigen | 5 |  | [Bearbeiten](cards/1853_taire.yml) |
@@ -1955,7 +1955,7 @@ Insgesamt gibt es 5000 Karten mit 40325 Beispielsätzen (durchschnittlich 8.1 pr
 | 1912 | scandale | Skandal | 11 |  | [Bearbeiten](cards/1912_scandale.yml) |
 | 1913 | irakien | Iraker | 2 | X | [Bearbeiten](cards/1913_irakien.yml) |
 | 1914 | chinois | Chinese | 3 | X | [Bearbeiten](cards/1914_chinois.yml) |
-| 1915 | bénéfice | Gewinn, Nutzen | 12 |  | [Bearbeiten](cards/1915_bénéfice.yml) |
+| 1915 | bénéfice | Gewinn, Ertrag | 12 | X | [Bearbeiten](cards/1915_bénéfice.yml) |
 | 1916 | billet | Fahrkarte, Ticket | 13 |  | [Bearbeiten](cards/1916_billet.yml) |
 | 1917 | choc | Schock | 17 |  | [Bearbeiten](cards/1917_choc.yml) |
 | 1918 | proportion | Verhältnis, Anteil | 11 |  | [Bearbeiten](cards/1918_proportion.yml) |
@@ -1981,7 +1981,7 @@ Insgesamt gibt es 5000 Karten mit 40325 Beispielsätzen (durchschnittlich 8.1 pr
 | 1938 | doigt | Finger | 12 | X | [Bearbeiten](cards/1938_doigt.yml) |
 | 1939 | illustrer | illustrieren, veranschaulichen | 4 |  | [Bearbeiten](cards/1939_illustrer.yml) |
 | 1940 | poche | Tasche | 14 | X | [Bearbeiten](cards/1940_poche.yml) |
-| 1941 | affronter | gegenübertreten, sich stellen | 6 |  | [Bearbeiten](cards/1941_affronter.yml) |
+| 1941 | affronter | sich stellen, gegenübertreten | 6 | X | [Bearbeiten](cards/1941_affronter.yml) |
 | 1942 | éclater | platzen, explodieren, ausbrechen | 12 |  | [Bearbeiten](cards/1942_éclater.yml) |
 | 1943 | honte | Scham | 12 |  | [Bearbeiten](cards/1943_honte.yml) |
 | 1944 | faiblesse | Schwäche | 11 |  | [Bearbeiten](cards/1944_faiblesse.yml) |
@@ -2035,7 +2035,7 @@ Insgesamt gibt es 5000 Karten mit 40325 Beispielsätzen (durchschnittlich 8.1 pr
 | 1992 | allié | Verbündeter | 4 |  | [Bearbeiten](cards/1992_allié.yml) |
 | 1993 | scolaire | schulisch | 7 |  | [Bearbeiten](cards/1993_scolaire.yml) |
 | 1994 | arabe | Araber, arabisch | 5 | X | [Bearbeiten](cards/1994_arabe.yml) |
-| 1995 | diffuser | verbreiten, senden | 4 |  | [Bearbeiten](cards/1995_diffuser.yml) |
+| 1995 | diffuser | verbreiten, ausstrahlen | 4 |  | [Bearbeiten](cards/1995_diffuser.yml) |
 | 1996 | budgétaire | Haushalts- | 5 |  | [Bearbeiten](cards/1996_budgétaire.yml) |
 | 1997 | inquiétant | besorgniserregend | 3 |  | [Bearbeiten](cards/1997_inquiétant.yml) |
 | 1998 | inclure | einschließen, beinhalten | 5 |  | [Bearbeiten](cards/1998_inclure.yml) |
@@ -2344,7 +2344,7 @@ Insgesamt gibt es 5000 Karten mit 40325 Beispielsätzen (durchschnittlich 8.1 pr
 | 2301 | destination | Ziel | 7 |  | [Bearbeiten](cards/2301_destination.yml) |
 | 2302 | stabilité | Stabilität | 4 |  | [Bearbeiten](cards/2302_stabilité.yml) |
 | 2303 | louer | (ver-)mieten; loben | 12 |  | [Bearbeiten](cards/2303_louer.yml) |
-| 2304 | gars | Typ, Kerl | 4 |  | [Bearbeiten](cards/2304_gars.yml) |
+| 2304 | gars | Typ, Kerl; Jungs | 5 |  | [Bearbeiten](cards/2304_gars.yml) |
 | 2305 | fleur | Blume | 15 | X | [Bearbeiten](cards/2305_fleur.yml) |
 | 2306 | agriculteur | Landwirt | 4 |  | [Bearbeiten](cards/2306_agriculteur.yml) |
 | 2307 | poète | Dichter | 3 |  | [Bearbeiten](cards/2307_poète.yml) |
@@ -2360,7 +2360,7 @@ Insgesamt gibt es 5000 Karten mit 40325 Beispielsätzen (durchschnittlich 8.1 pr
 | 2317 | paysan | Bauer | 7 |  | [Bearbeiten](cards/2317_paysan.yml) |
 | 2318 | transition | Übergang | 6 |  | [Bearbeiten](cards/2318_transition.yml) |
 | 2319 | humanitaire | humanitär | 4 |  | [Bearbeiten](cards/2319_humanitaire.yml) |
-| 2320 | répandre | verbreiten | 8 |  | [Bearbeiten](cards/2320_répandre.yml) |
+| 2320 | répandre | ausbreiten, verbreiten | 8 | X | [Bearbeiten](cards/2320_répandre.yml) |
 | 2321 | adoption | Adoption | 3 |  | [Bearbeiten](cards/2321_adoption.yml) |
 | 2322 | adorer | sehr mögen | 6 |  | [Bearbeiten](cards/2322_adorer.yml) |
 | 2323 | appartement | Wohnung | 5 |  | [Bearbeiten](cards/2323_appartement.yml) |
@@ -2377,7 +2377,7 @@ Insgesamt gibt es 5000 Karten mit 40325 Beispielsätzen (durchschnittlich 8.1 pr
 | 2334 | écraser | zerdrücken, überfahren | 12 |  | [Bearbeiten](cards/2334_écraser.yml) |
 | 2335 | enrichir | bereichern | 5 |  | [Bearbeiten](cards/2335_enrichir.yml) |
 | 2336 | restaurant | Restaurant | 17 | X | [Bearbeiten](cards/2336_restaurant.yml) |
-| 2337 | destin | Schicksal | 9 |  | [Bearbeiten](cards/2337_destin.yml) |
+| 2337 | destin | Schicksal | 9 | X | [Bearbeiten](cards/2337_destin.yml) |
 | 2338 | discrimination | Diskriminierung | 8 |  | [Bearbeiten](cards/2338_discrimination.yml) |
 | 2339 | certitude | Gewissheit | 5 |  | [Bearbeiten](cards/2339_certitude.yml) |
 | 2340 | huile | Öl | 13 | X | [Bearbeiten](cards/2340_huile.yml) |
@@ -2398,9 +2398,9 @@ Insgesamt gibt es 5000 Karten mit 40325 Beispielsätzen (durchschnittlich 8.1 pr
 | 2355 | concentration | Konzentration | 7 |  | [Bearbeiten](cards/2355_concentration.yml) |
 | 2356 | téléphonique | telefonisch | 4 |  | [Bearbeiten](cards/2356_téléphonique.yml) |
 | 2357 | remise | Übergabe; Ermäßigung | 10 |  | [Bearbeiten](cards/2357_remise.yml) |
-| 2358 | mec | Typ, Kerl | 4 | X | [Bearbeiten](cards/2358_mec.yml) |
+| 2358 | mec | Kerl | 6 | X | [Bearbeiten](cards/2358_mec.yml) |
 | 2359 | solidarité | Solidarität | 8 |  | [Bearbeiten](cards/2359_solidarité.yml) |
-| 2360 | restreindre | beschränken, einschränken | 4 |  | [Bearbeiten](cards/2360_restreindre.yml) |
+| 2360 | restreindre | einschränken, beschränken | 4 | X | [Bearbeiten](cards/2360_restreindre.yml) |
 | 2361 | décennie | Jahrzehnt | 2 | X | [Bearbeiten](cards/2361_décennie.yml) |
 | 2362 | aussitôt | gleich nach(-dem), sofort | 6 |  | [Bearbeiten](cards/2362_aussitôt.yml) |
 | 2363 | officiellement | offiziell | 2 |  | [Bearbeiten](cards/2363_officiellement.yml) |
@@ -2460,7 +2460,7 @@ Insgesamt gibt es 5000 Karten mit 40325 Beispielsätzen (durchschnittlich 8.1 pr
 | 2417 | organe | Organ | 12 | X | [Bearbeiten](cards/2417_organe.yml) |
 | 2418 | protocole | Protokoll, Etikette | 5 |  | [Bearbeiten](cards/2418_protocole.yml) |
 | 2419 | apparition | Erscheinung | 6 |  | [Bearbeiten](cards/2419_apparition.yml) |
-| 2420 | gain | Gewinn, Nutzen | 12 |  | [Bearbeiten](cards/2420_gain.yml) |
+| 2420 | gain | Gewinn, Einsparung | 12 | X | [Bearbeiten](cards/2420_gain.yml) |
 | 2421 | écran | (Bild-)schirm | 12 |  | [Bearbeiten](cards/2421_écran.yml) |
 | 2422 | sonner | klingeln, läuten | 11 |  | [Bearbeiten](cards/2422_sonner.yml) |
 | 2423 | protester | protestieren | 5 |  | [Bearbeiten](cards/2423_protester.yml) |

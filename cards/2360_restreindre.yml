@@ -7,7 +7,7 @@ Wortart: vt, vr
 Wort mit Artikel: restreindre
 Femininum / Plural: ''
 IPA: \ʁɛs.tʁɛ̃dʁ\
-Definition: beschränken, einschränken
+Definition: einschränken, beschränken
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -30,4 +30,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>limiter</i> und <i>restreindre</i></div>
+    <div class="section-content">
+      <p><span class="fr">Limiter</span> (#883) bedeutet <span class="de">"begrenzen"</span> oder <span class="de">"einschränken"</span>. Es wird verwendet, um eine Grenze zu setzen oder den Umfang von etwas zu definieren, sowohl im physischen als auch im übertragenen Sinne.</p>
+      <div class="examples">
+        <div class="fr">Nous devons limiter l'accès à cette zone pour des raisons de sécurité.</div>
+        <div class="de spoiler">Wir müssen den Zugang zu diesem Bereich aus Sicherheitsgründen begrenzen.</div>
+        <div class="fr">Je cherche à limiter mes dépenses ce mois-ci.</div>
+        <div class="de spoiler">Ich versuche, meine Ausgaben diesen Monat zu begrenzen.</div>
+      </div>
+      <p><span class="fr">Restreindre</span> bedeutet <span class="de">"einschränken"</span> oder <span class="de">"beschränken"</span> im Sinne einer Verengung oder Reduzierung. Es impliziert oft eine stärkere Einschränkung als <span class="fr">limiter</span> und kann eine Verringerung des Üblichen oder zuvor Verfügbaren andeuten.</p>
+      <div class="examples">
+        <div class="fr">Le gouvernement a restreint les droits de certaines organisations.</div>
+        <div class="de spoiler">Die Regierung hat die Rechte bestimmter Organisationen eingeschränkt.</div>
+        <div class="fr">Restreindre sa consommation d'alcool peut être bénéfique pour la santé.</div>
+        <div class="de spoiler">Die Einschränkung des Alkoholkonsums kann gesundheitsfördernd sein.</div>
+      </div>
+    </div>
+  </div>

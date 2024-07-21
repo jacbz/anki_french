@@ -1,8 +1,6 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
-* Typ, Kerl: [gars](cards/2304_gars.yml) (#2304), [mec](cards/2358_mec.yml) (#2358)
 * Gemeinschaft: [communauté](cards/0558_communauté.yml) (#558), [collectivité](cards/2408_collectivité.yml) (#2408)
-* Gewinn, Nutzen: [bénéfice](cards/1915_bénéfice.yml) (#1915), [gain](cards/2420_gain.yml) (#2420)
 * Opfer: [victime](cards/0697_victime.yml) (#697), [sacrifice](cards/2437_sacrifice.yml) (#2437)
 * Gegenteil: [contraire](cards/0619_contraire.yml) (#619), [inverse](cards/2452_inverse.yml) (#2452)
 * Lehrer: [professeur](cards/1150_professeur.yml) (#1150), [enseignant](cards/2456_enseignant.yml) (#2456)
@@ -53,7 +51,6 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * Mörder: [meurtrier](cards/2681_meurtrier.yml) (#2681), [tueur](cards/3581_tueur.yml) (#3581), [assassin](cards/3781_assassin.yml) (#3781)
 * offensichtlich, sichtbar: [visiblement](cards/3677_visiblement.yml) (#3677), [apparent](cards/3803_apparent.yml) (#3803)
 * Fahrer: [conducteur](cards/3072_conducteur.yml) (#3072), [chauffeur](cards/3814_chauffeur.yml) (#3814)
-* verbreiten: [répandre](cards/2320_répandre.yml) (#2320), [propager](cards/3865_propager.yml) (#3865)
 * Spannung: [tension](cards/1799_tension.yml) (#1799), [suspens](cards/3879_suspens.yml) (#3879)
 * offensichtlich: [évident](cards/1488_évident.yml) (#1488), [flagrant](cards/3925_flagrant.yml) (#3925)
 * Paar: [couple](cards/1167_couple.yml) (#1167), [paire](cards/3926_paire.yml) (#3926)
