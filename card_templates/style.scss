@@ -32,6 +32,20 @@
 }
 
 @font-face {
+  font-family: NittiGroteskCondensed;
+  src: url("_NittiGroteskCondensed.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: NittiGroteskCondensed;
+  src: url("_NittiGroteskCondensedBold.ttf");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
   font-family: NotoSans;
   src: url("_NotoSans-Light.ttf");
 }
@@ -703,7 +717,7 @@ u {
 }
 
 #conjugation-table {
-  font-size: 90%;
+  font-size: 95%;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 0;
@@ -711,7 +725,7 @@ u {
   width: 100%;
 
   tr {
-    line-height: 140%;
+    line-height: 135%;
     cursor: pointer;
     transition: background-color 0.2s;
 
@@ -722,6 +736,12 @@ u {
 
   td {
     border-radius: 0.5em;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  #conjugation-table {
+    font-family: NittiGroteskCondensed;
   }
 }
 
@@ -746,13 +766,17 @@ tr.regular_tense {
 .tense {
   font-weight: bold;
   white-space: nowrap;
-  width: 19%;
+  width: 20%;
 }
 
 .tense_stem {
   text-align: right !important;
   text-decoration: underline;
-  width: 15%;
+  width: 17%;
+}
+
+tr[data-tense="PC"] .tense_stem {
+  text-decoration: none;
 }
 
 .squished {
@@ -762,7 +786,7 @@ tr.regular_tense {
 .irregular {
   color: black;
   background: #eee;
-  padding: 0 0.3em;
+  padding: 0 0.2em;
   text-align: center;
 }
 

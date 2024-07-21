@@ -236,6 +236,8 @@ if (conjugationTable) {
 
       if (verbClassification && conjugationTable.offsetHeight > 0) {
         conjugationTable.style.marginTop = "0.5em";
+      } else {
+        conjugationTable.style.marginTop = null;
       }
     }
 
