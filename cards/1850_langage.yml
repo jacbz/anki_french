@@ -57,4 +57,30 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>langage</i>, <i>langue</i> und <i>parole</i></div>
+    <div class="section-content">
+      <p><span class="fr">Langage</span> bezieht sich auf die grundlegende menschliche Fähigkeit zur Kommunikation. Es ist das Konzept der Sprache als abstraktes System und die Fähigkeit, Gedanken auszudrücken.</p>
+      <div class="examples">
+        <div class="fr">L'Homme a la faculté de langage.</div>
+        <div class="de spoiler">Der Mensch hat die Fähigkeit zur Sprache.</div>
+      </div>
+      <p><span class="fr">Langue</span> (#712) bezeichnet ein spezifisches Sprachsystem (z.B. Französisch, Deutsch), das von einer Gemeinschaft geteilt wird. Es ist das kollektive Werkzeug zur Umsetzung des <span class="fr">langage</span>.</p>
+      <div class="examples">
+        <div class="fr">Chacun acquiert une langue au sein de la communauté dans laquelle il grandit.</div>
+        <div class="de spoiler">Jeder erwirbt eine Sprache in der Gemeinschaft, in der er aufwächst.</div>
+      </div>
+      <p><span class="fr">Parole</span> (#552) bezieht sich auf den individuellen Sprachgebrauch, die konkrete Anwendung der <span class="fr">langue</span> in der Kommunikation.</p>
+      <div class="examples">
+        <div class="fr">Nous nous exprimons ensuite individuellement grâce à la parole.</div>
+        <div class="de spoiler">Wir drücken uns dann individuell durch die Rede aus.</div>
+      </div>
+      <p>Diese Unterscheidung, die auf Ferdinand de Saussure zurückgeht, ist grundlegend für die Linguistik. Im Deutschen gibt es keine exakten Entsprechungen für diese Dreiteilung, was die Übersetzung erschwert:</p>
+      <ul>
+        <p><span class="fr">Langage</span> ≈ <span class="de">"Sprachfähigkeit"</span> oder <span class="de">"Sprache"</span> (im abstrakten Sinn)</p>
+        <p><span class="fr">Langue</span> ≈ <span class="de">"Sprache"</span> (als spezifisches System) oder <span class="de">"Einzelsprache"</span></p>
+        <p><span class="fr">Parole</span> ≈ <span class="de">"Rede"</span> oder <span class="de">"Sprachgebrauch"</span></p>
+      </ul>
+    </div>
+  </div>
