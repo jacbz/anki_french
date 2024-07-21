@@ -7,7 +7,7 @@ Wortart: vt, vr
 Wort mit Artikel: répandre
 Femininum / Plural: ''
 IPA: \ʁe.pɑ̃dʁ\
-Definition: verbreiten
+Definition: ausbreiten, verbreiten
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -42,4 +42,35 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>diffuser</i> und <i>répandre</i></div>
+    <div class="section-content">
+      <p><span class="fr">Diffuser</span> (#1995) bedeutet <span class="de">"verbreiten"</span> oder <span class="de">"ausstrahlen"</span>, oft gleichmäßig in alle Richtungen:</p>
+      <div class="examples">
+        <div class="fr">La lampe diffusait une lumière douce.</div>
+        <div class="de spoiler">Die Lampe verbreitete ein sanftes Licht.</div>
+        <div class="fr">La radio a diffusé la nouvelle.</div>
+        <div class="de spoiler">Das Radio hat die Nachricht gesendet.</div>
+        <div class="fr">Ce journal est diffusé à 2000 exemplaires.</div>
+        <div class="de spoiler">Diese Zeitung wird in 2000 Exemplaren verbreitet.</div>
+      </div>
+      <p>In der Chemie wird es auch als <span class="de">"sich ausbreiten"</span> verwendet:</p>
+      <div class="examples">
+        <div class="fr">Le médicament diffuse sous la peau.</div>
+        <div class="de spoiler">Das Medikament breitet sich unter der Haut aus.</div>
+      </div>
+      <p><span class="fr">Se répandre</span> bedeutet <span class="de">"sich ausbreiten"</span> oder <span class="de">"verbreiten"</span> im allgemeineren Sinne:</p>
+      <div class="examples">
+        <div class="fr">La rougeur s'est répandue sur son front.</div>
+        <div class="de spoiler">Die Rötung breitete sich auf seiner Stirn aus.</div>
+        <div class="fr">La nouvelle se répand dans le public.</div>
+        <div class="de spoiler">Die Nachricht verbreitet sich in der Öffentlichkeit.</div>
+      </div>
+      <p>Es kann auch <span class="de">"sich ergießen"</span> im übertragenen Sinne bedeuten:</p>
+      <div class="examples">
+        <div class="fr">Il s'est répandu en excuses.</div>
+        <div class="de spoiler">Er hat sich in Entschuldigungen ergossen.</div>
+      </div>
+    </div>
+  </div>
