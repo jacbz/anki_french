@@ -7,7 +7,7 @@ Wortart: nm
 Wort mit Artikel: le bénéfice
 Femininum / Plural: ''
 IPA: \be.ne.fis\
-Definition: Gewinn, Nutzen
+Definition: Gewinn, Ertrag
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -54,4 +54,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>profit</i> und <i>bénéfice</i></div>
+    <div class="section-content">
+      <p><span class="fr">Profit</span> (#1032) bezieht sich oft auf einen Vorteil oder Gewinn aus einer Situation und wird nicht ausschließlich für finanzielle Gewinne verwendet. Es kann breiter gefasst sein und manchmal auch nicht-materiell.</p>
+      <div class="examples">
+        <div class="fr">Il a vendu sa voiture en faisant un gros profit.</div>
+        <div class="de spoiler">Er verkaufte sein Auto mit großem Gewinn.</div>
+        <div class="fr">Elle tire profit de chaque opportunité pour apprendre quelque chose de nouveau.</div>
+        <div class="de spoiler">Sie nutzt jede Gelegenheit, um etwas Neues zu lernen.</div>
+      </div>
+      <p><span class="fr">Bénéfice</span> wird meist in seinem finanziellen Sinn verwendet und bezieht sich speziell auf den Nettogewinn - den Überschuss nach Abzug aller Kosten. Es wird oft im Kontext von Geschäft und Buchhaltung verwendet.</p>
+      <div class="examples">
+        <div class="fr">L'entreprise a déclaré un bénéfice net de trois millions d'euros pour l'année fiscale passée.</div>
+        <div class="de spoiler">Das Unternehmen hat für das vergangene Geschäftsjahr einen Nettogewinn von drei Millionen Euro erklärt.</div>
+        <div class="fr">Les bénéfices de la vente seront investis dans la recherche et le développement.</div>
+        <div class="de spoiler">Die Gewinne aus dem Verkauf werden in Forschung und Entwicklung investiert.</div>
+      </div>
+    </div>
+  </div>
