@@ -7,7 +7,7 @@ Wortart: nm
 Wort mit Artikel: le mec
 Femininum / Plural: ''
 IPA: \mæk\
-Definition: Typ, Kerl
+Definition: Kerl
 Register: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -25,9 +25,48 @@ Beispielsätze: |-
   Les mecs et les nanas se sont rencontrés à l'école.
   Die Jungs und die Mädels haben sich in der Schule kennengelernt.
 
+  Ce n'est pas un super mec, crois-moi.
+  Er ist kein toller Typ, glaub mir.
+
+  C'est moi, le pauvre mec. J'aurais pas dû réagir.
+  Ich bin der Loser, ich hätte anders reagieren müssen.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: <grammar data-id="Beziehungen"></grammar>
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>mec</i>, <i>type</i> und <i>gars</i></div>
+    <div class="section-content">
+      <p>Alle drei Wörter sind informelle Ausdrücke für <span class="de">"Mann"</span> oder <span class="de">"Typ"</span>, haben aber leicht unterschiedliche Verwendungen.</p>
+
+      <p><span class="fr">Mec</span> kann <span class="de">"Freund"</span> im Sinne von <span class="de">"Partner"</span> bedeuten, wird aber auch allgemein für <span class="de">"Mann"</span> oder <span class="de">"Typ"</span> verwendet.</p>
+      <div class="examples">
+        <div class="fr">Mon mec m'a acheté des fleurs.</div>
+        <div class="de spoiler">Mein Freund hat mir Blumen gekauft.</div>
+        <div class="fr">C'est un mec cool.</div>
+        <div class="de spoiler">Er ist ein cooler Typ.</div>
+      </div>
+
+      <p><span class="fr">Gars</span> (#2304) kann im Plural <span class="de">"Jungs"</span> oder <span class="de">"Leute"</span> bedeuten. Es wird auch für <span class="de">"Mann"</span> oder <span class="de">"Typ"</span> verwendet, oft austauschbar mit <span class="fr">mec</span>.</p>
+      <div class="examples">
+        <div class="fr">Salut les gars!</div>
+        <div class="de spoiler">Hallo Jungs!</div>
+        <div class="fr">Le gars près de la porte est super sexy.</div>
+        <div class="de spoiler">Der Typ neben der Tür ist super sexy.</div>
+      </div>
+
+      <p><span class="fr">Type</span> (#440) wird oft verwendet, um einen Mann basierend auf einer bestimmten Eigenschaft zu beschreiben. Es kann auch einen zufälligen oder unbekannten Mann bezeichnen.</p>
+      <div class="examples">
+        <div class="fr">Un pauvre type.</div>
+        <div class="de spoiler">Ein armer Kerl.</div>
+        <div class="fr">Un type chic.</div>
+        <div class="de spoiler">Ein schicker Typ.</div>
+        <div class="fr">Un type dans le métro m'a volé mon journal.</div>
+        <div class="de spoiler">Ein Typ in der U-Bahn hat mir meine Zeitung gestohlen.</div>
+      </div>
+    </div>
+  </div>
+  <grammar data-id="Beziehungen"></grammar>
