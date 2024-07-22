@@ -127,7 +127,8 @@ function formatSentences(within = document) {
 
     // show audio button if sentence ends with punctuation
     const shouldShow =
-      text.match(/[.!?]/) || el.classList.contains("force-audio");
+      !el.classList.contains("no-audio") &&
+      (text.match(/[.!?]/) || el.classList.contains("force-audio"));
     el.innerHTML = text;
     if (shouldShow) {
       const textContent = el.textContent;
@@ -483,21 +484,19 @@ function formatConjugationTables(within) {
  * Grammar library
  */
 const grammarSections = document.getElementById("grammar-sections");
-const showHideButton = document.getElementById("show-hide-grammar-library");
+const showHideGrammarLibraryButton = document.getElementById(
+  "show-hide-grammar-library"
+);
 const closeLibraryButton = document.getElementById("close-grammar-library");
 let isRendered = false;
 if (grammar) {
-  showHideButton.onclick = function () {
+  showHideGrammarLibraryButton.onclick = function () {
     grammarLibrary.classList.remove("collapsed");
 
     if (!isRendered) {
       isRendered = true;
       renderGrammaryLibrary();
     }
-    window.scrollTo({
-      top: grammarLibrary.getBoundingClientRect().top + window.scrollY,
-      behavior: "smooth",
-    });
   };
   closeLibraryButton.onclick = function () {
     grammarLibrary.classList.add("collapsed");

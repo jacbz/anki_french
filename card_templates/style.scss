@@ -449,6 +449,10 @@ hr {
   }
 }
 
+b, i, u {
+  line-height: 100%;
+}
+
 u {
   text-decoration: none;
   color: hsl(192, 70%, 50%);
@@ -714,6 +718,14 @@ u {
   );
 }
 
+.cell-title {
+  display: inline-block;
+  border: 1px solid;
+  padding: 0 0.3em;
+  border-radius: 0.5em;
+  margin-bottom: 0.2em;
+}
+
 /**
   Conjugations
   -----------------------------------------------
@@ -731,6 +743,10 @@ u {
   table-layout: fixed;
   width: 100%;
 
+  tbody {
+    vertical-align: middle;
+  }
+
   tr {
     line-height: 135%;
     cursor: pointer;
@@ -743,6 +759,7 @@ u {
 
   td {
     border-radius: 0.5em;
+    white-space: nowrap;
   }
 }
 
@@ -758,8 +775,12 @@ u {
   }
 }
 
-td {
-  white-space: nowrap;
+table {
+  width: 100%;
+}
+
+tbody {
+  vertical-align: top;
 }
 
 tr.regular_tense {

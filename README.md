@@ -37,7 +37,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40324 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1089 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40324 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1090 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -74,7 +74,7 @@ Insgesamt gibt es 5000 Karten mit 40324 Beispielsätzen (durchschnittlich 8.1 pr
 | 31 | nous | wir | 12 | X | [Bearbeiten](cards/0031_nous.yml) |
 | 32 | comme | wie, als | 12 |  | [Bearbeiten](cards/0032_comme.yml) |
 | 33 | ou | oder | 7 |  | [Bearbeiten](cards/0033_ou.yml) |
-| 34 | si | wenn, falls; doch | 11 |  | [Bearbeiten](cards/0034_si.yml) |
+| 34 | si | wenn, falls; doch | 11 | X | [Bearbeiten](cards/0034_si.yml) |
 | 35 | leur | ihr(-e/s); ihnen | 14 | X | [Bearbeiten](cards/0035_leur.yml) |
 | 36 | y | dort, dahin | 3 | X | [Bearbeiten](cards/0036_y.yml) |
 | 37 | dire | sagen | 12 | X | [Bearbeiten](cards/0037_dire.yml) |
