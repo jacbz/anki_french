@@ -299,10 +299,11 @@ fetch(`${getAnkiPrefix()}/FR5000_grammar____VERSION___.json`)
     grammar = loadedGrammar;
     loadAllGrammar();
   })
-  .catch(err => {
+  .catch((err) => {
     console.error(err);
     grammarLibrary.classList.remove("collapsed");
-    grammarLibrary.innerHTML = "<p>Es ist ein Fehler beim Laden der Grammatik-Bibliothek aufgetreten. Bitte melde das Problem auf <a href='https://github.com/jacbz/anki_french/issues/new'>GitHub</a>.</p>";    
+    grammarLibrary.innerHTML =
+      "<p>Es ist ein Fehler beim Laden der Grammatik-Bibliothek aufgetreten. Bitte melde das Problem auf <a href='https://github.com/jacbz/anki_french/issues/new'>GitHub</a>.</p>";
   });
 
 function loadGrammar(id, into) {
@@ -576,20 +577,7 @@ function expandSection(section) {
   }
 }
 
-/**
- * Dictionary
- */
-fetch(`${getAnkiPrefix()}/_FR5000_dict_${rank}.xml`)
-  .then(async (response) => {
-    console.log(response);
-    if (response.ok) {
-      const xml = await response.text();
-      console.log(xml);
-      const dict = document.getElementById('dict');
-      dict.style.display = 'block';
-      dict.innerHTML = xml;
-    }
-  })
+___DICT___;
 
 /**
  * GitHub

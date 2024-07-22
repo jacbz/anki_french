@@ -358,18 +358,25 @@ span.spoiler {
   transform: translateY(0.1em);
 }
 
+
+a {
+  text-decoration: none;
+  color: #1d4ed8;
+}
+
+.night_mode a {
+  color: #bfdbfe;
+}
+
 .github {
   font-size: 12px;
   text-align: center;
 
-  a {
-    text-decoration: none;
-
-    &::before {
-      content: "\2665\fe0e";
-      font-size: 90%;
-      margin-right: 0.2em;
-    }
+  a::before {
+    content: "\2665\fe0e";
+    font-size: 90%;
+    margin-right: 0.2em;
+    font-family: monospace;
   }
 }
 
