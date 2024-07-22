@@ -37,7 +37,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40328 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1088 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40324 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1088 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -221,7 +221,7 @@ Insgesamt gibt es 5000 Karten mit 40328 Beispielsätzen (durchschnittlich 8.1 pr
 | 178 | mois | Monat | 10 | X | [Bearbeiten](cards/0178_mois.yml) |
 | 179 | jamais | niemals | 12 | X | [Bearbeiten](cards/0179_jamais.yml) |
 | 180 | sembler | scheinen | 17 |  | [Bearbeiten](cards/0180_sembler.yml) |
-| 181 | tant | so viel, solange, so sehr | 15 |  | [Bearbeiten](cards/0181_tant.yml) |
+| 181 | tant | so viel, solange, so sehr | 14 |  | [Bearbeiten](cards/0181_tant.yml) |
 | 182 | vers | zu, in Richtung von | 8 | X | [Bearbeiten](cards/0182_vers.yml) |
 | 183 | besoin | Bedarf, Notwendigkeit | 13 |  | [Bearbeiten](cards/0183_besoin.yml) |
 | 184 | revenir | zurückkommen | 15 |  | [Bearbeiten](cards/0184_revenir.yml) |
@@ -1867,7 +1867,7 @@ Insgesamt gibt es 5000 Karten mit 40328 Beispielsätzen (durchschnittlich 8.1 pr
 | 1824 | neige | Schnee | 9 | X | [Bearbeiten](cards/1824_neige.yml) |
 | 1825 | figure | Figur, Gesicht | 11 | X | [Bearbeiten](cards/1825_figure.yml) |
 | 1826 | masse | Masse | 12 |  | [Bearbeiten](cards/1826_masse.yml) |
-| 1827 | susceptible | anfällig | 7 |  | [Bearbeiten](cards/1827_susceptible.yml) |
+| 1827 | susceptible | anfällig, geeignet | 7 |  | [Bearbeiten](cards/1827_susceptible.yml) |
 | 1828 | étroit | eng | 6 | X | [Bearbeiten](cards/1828_étroit.yml) |
 | 1829 | goût | Geschmack | 15 |  | [Bearbeiten](cards/1829_goût.yml) |
 | 1830 | prestation | Leistung, Dienstleistung | 14 |  | [Bearbeiten](cards/1830_prestation.yml) |
@@ -2465,16 +2465,16 @@ Insgesamt gibt es 5000 Karten mit 40328 Beispielsätzen (durchschnittlich 8.1 pr
 | 2422 | sonner | klingeln, läuten | 11 |  | [Bearbeiten](cards/2422_sonner.yml) |
 | 2423 | protester | protestieren | 5 |  | [Bearbeiten](cards/2423_protester.yml) |
 | 2424 | curieux | neugierig, seltsam | 15 |  | [Bearbeiten](cards/2424_curieux.yml) |
-| 2425 | effacer | löschen, auslöschen | 7 |  | [Bearbeiten](cards/2425_effacer.yml) |
+| 2425 | effacer | (aus-)löschen, verblassen | 6 |  | [Bearbeiten](cards/2425_effacer.yml) |
 | 2426 | débuter | anfangen, beginnen | 4 | X | [Bearbeiten](cards/2426_débuter.yml) |
-| 2427 | creuser | graben, vertiefen | 6 |  | [Bearbeiten](cards/2427_creuser.yml) |
+| 2427 | creuser | graben | 6 |  | [Bearbeiten](cards/2427_creuser.yml) |
 | 2428 | allusion | Anspielung | 3 |  | [Bearbeiten](cards/2428_allusion.yml) |
-| 2429 | lancement | Start, Einführung | 8 |  | [Bearbeiten](cards/2429_lancement.yml) |
-| 2430 | porteur | Träger | 12 | X | [Bearbeiten](cards/2430_porteur.yml) |
-| 2431 | préalable | Voraussetzung | 4 |  | [Bearbeiten](cards/2431_préalable.yml) |
+| 2429 | lancement | Start, Einführung | 7 |  | [Bearbeiten](cards/2429_lancement.yml) |
+| 2430 | porteur | Träger, Inhaber | 12 | X | [Bearbeiten](cards/2430_porteur.yml) |
+| 2431 | préalable | (Vor-)bedingung; vorherig | 3 |  | [Bearbeiten](cards/2431_préalable.yml) |
 | 2432 | programmer | programmieren | 5 |  | [Bearbeiten](cards/2432_programmer.yml) |
-| 2433 | traîner | herumhängen, schleppen | 12 |  | [Bearbeiten](cards/2433_traîner.yml) |
-| 2434 | domicile | Wohnsitz | 12 |  | [Bearbeiten](cards/2434_domicile.yml) |
+| 2433 | traîner | (hin-)ziehen, schleppen | 12 |  | [Bearbeiten](cards/2433_traîner.yml) |
+| 2434 | domicile | Wohnsitz, Haus- | 12 |  | [Bearbeiten](cards/2434_domicile.yml) |
 | 2435 | oiseau | Vogel | 14 | X | [Bearbeiten](cards/2435_oiseau.yml) |
 | 2436 | quarante | vierzig | 12 | X | [Bearbeiten](cards/2436_quarante.yml) |
 | 2437 | sacrifice | Opfer | 6 |  | [Bearbeiten](cards/2437_sacrifice.yml) |
