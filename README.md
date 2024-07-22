@@ -37,7 +37,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40324 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1088 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40324 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1089 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -49,12 +49,12 @@ Insgesamt gibt es 5000 Karten mit 40324 Beispielsätzen (durchschnittlich 8.1 pr
 | 6 | et | und | 4 | X | [Bearbeiten](cards/0006_et.yml) |
 | 7 | en | in | 12 | X | [Bearbeiten](cards/0007_en.yml) |
 | 8 | avoir | haben, besitzen | 14 |  | [Bearbeiten](cards/0008_avoir.yml) |
-| 9 | que | dass, wie, welche(-r/n), was | 12 | X | [Bearbeiten](cards/0009_que.yml) |
+| 9 | que | dass; welche(-r/n); was; den/die/das | 12 | X | [Bearbeiten](cards/0009_que.yml) |
 | 10 | pour | für | 12 | X | [Bearbeiten](cards/0010_pour.yml) |
 | 11 | dans | in, innerhalb | 12 | X | [Bearbeiten](cards/0011_dans.yml) |
 | 12 | ce | diese(-r/s); es, das | 25 | X | [Bearbeiten](cards/0012_ce.yml) |
 | 13 | il | er | 11 | X | [Bearbeiten](cards/0013_il.yml) |
-| 14 | qui | wer, der/die/das [Relativpronomen] | 12 | X | [Bearbeiten](cards/0014_qui.yml) |
+| 14 | qui | wer; der/die/das [Relativpronomen] | 12 | X | [Bearbeiten](cards/0014_qui.yml) |
 | 15 | ne | [Negation] | 12 | X | [Bearbeiten](cards/0015_ne.yml) |
 | 16 | sur | auf, über | 8 | X | [Bearbeiten](cards/0016_sur.yml) |
 | 17 | se | sich | 10 | X | [Bearbeiten](cards/0017_se.yml) |
@@ -114,7 +114,7 @@ Insgesamt gibt es 5000 Karten mit 40324 Beispielsätzen (durchschnittlich 8.1 pr
 | 71 | sans | ohne | 12 |  | [Bearbeiten](cards/0071_sans.yml) |
 | 72 | raison | Vernunft, Grund | 11 |  | [Bearbeiten](cards/0072_raison.yml) |
 | 73 | notre | unser | 7 | X | [Bearbeiten](cards/0073_notre.yml) |
-| 74 | dont | dessen, von dem | 12 |  | [Bearbeiten](cards/0074_dont.yml) |
+| 74 | dont | dessen, von dem | 12 | X | [Bearbeiten](cards/0074_dont.yml) |
 | 75 | non | nein | 13 | X | [Bearbeiten](cards/0075_non.yml) |
 | 76 | an | Jahr | 13 | X | [Bearbeiten](cards/0076_an.yml) |
 | 77 | monde | Welt | 13 | X | [Bearbeiten](cards/0077_monde.yml) |
@@ -132,7 +132,7 @@ Insgesamt gibt es 5000 Karten mit 40324 Beispielsätzen (durchschnittlich 8.1 pr
 | 89 | pendant | während; Gegenstück | 11 | X | [Bearbeiten](cards/0089_pendant.yml) |
 | 90 | passer | verbringen, durchlaufen | 15 | X | [Bearbeiten](cards/0090_passer.yml) |
 | 91 | peu | wenig | 7 | X | [Bearbeiten](cards/0091_peu.yml) |
-| 92 | lequel | welche(-r/s) | 14 | X | [Bearbeiten](cards/0092_lequel.yml) |
+| 92 | lequel | welche(-r/s); der/die/das [Relativpronomen] | 14 | X | [Bearbeiten](cards/0092_lequel.yml) |
 | 93 | suite | Folge, Fortsetzung | 3 |  | [Bearbeiten](cards/0093_suite.yml) |
 | 94 | bon | gut | 12 | X | [Bearbeiten](cards/0094_bon.yml) |
 | 95 | comprendre | verstehen | 7 |  | [Bearbeiten](cards/0095_comprendre.yml) |
