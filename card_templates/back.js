@@ -1,5 +1,7 @@
 ___CONFIG___;
 
+const googleTTSApiKey = "___GOOGLE_TTS_API_KEY___";
+
 const wordWithArticle = document.querySelector(".word");
 const word = wordWithArticle.dataset.word;
 const rank = parseInt(document.querySelector(".rank").dataset.content);
@@ -159,11 +161,68 @@ function formatSentences(within = document) {
   initAudioButtons(within);
 }
 
-function getGoogleTranslateUrl(text) {
-  return `https://translate.google.com/translate_tts?ie=UTF-8&q=${text}&tl=fr-FR&client=tw-ob`;
+const memoizedTTSUrls = {};
+async function getTTSUrl(text, forceGoogleTranslate = false) {
+  // if no API key is set, fallback to use the free Google Translate TTS
+  if (!googleTTSApiKey || forceGoogleTranslate) {
+    return `https://translate.google.com/translate_tts?ie=UTF-8&q=${text}&tl=fr-FR&client=tw-ob`;
+  }
+
+  if (memoizedTTSUrls[text]) {
+    return memoizedTTSUrls[text];
+  }
+
+  try {
+    const response = await fetch(
+      `https://texttospeech.googleapis.com/v1/text:synthesize?key=${googleTTSApiKey}`,
+      {
+        method: "POST",
+        headers: {
+          Accept: "application/json",
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          audioConfig: { audioEncoding: "MP3" },
+          input: { text: decodeURIComponent(text) },
+          voice: { languageCode: "fr-FR", name: "fr-FR-Studio-D" },
+        }),
+      }
+    );
+
+    if (!response.ok) {
+      throw new Error("Network response was not ok " + response.statusText);
+    }
+
+    const data = await response.json();
+    const audioContent = data.audioContent;
+
+    if (audioContent) {
+      const audioBlob = b64ToBlob(audioContent, "audio/mp3");
+      const audioUrl = URL.createObjectURL(audioBlob);
+      memoizedTTSUrls[text] = audioUrl;
+      return audioUrl;
+    }
+  } catch (error) {
+    console.error("Fetch error:", error);
+  }
 }
 
-function initAudioButtons(within = document) {
+function b64ToBlob(b64Data, contentType, sliceSize = 512) {
+  const byteCharacters = atob(b64Data);
+  const byteArrays = [];
+  for (let offset = 0; offset < byteCharacters.length; offset += sliceSize) {
+    const slice = byteCharacters.slice(offset, offset + sliceSize);
+    const byteNumbers = new Array(slice.length);
+    for (let i = 0; i < slice.length; i++) {
+      byteNumbers[i] = slice.charCodeAt(i);
+    }
+    const byteArray = new Uint8Array(byteNumbers);
+    byteArrays.push(byteArray);
+  }
+  return new Blob(byteArrays, { type: contentType });
+}
+
+async function initAudioButtons(within = document) {
   within.querySelectorAll(".play-sentence").forEach(function (el) {
     el.onclick = async function (event) {
       event.stopPropagation();
@@ -172,7 +231,7 @@ function initAudioButtons(within = document) {
 
       const url = customFileName
         ? getAnkiPrefix() + "/" + customFileName
-        : getGoogleTranslateUrl(text);
+        : await getTTSUrl(text);
 
       const audioCurrent = document.querySelector("audio");
       audioCurrent.src = url;
@@ -180,7 +239,7 @@ function initAudioButtons(within = document) {
       try {
         await audioCurrent.play();
       } catch {
-        audioCurrent.src = getGoogleTranslateUrl(text);
+        audioCurrent.src = await getTTSUrl(text, true);
         audioCurrent.play();
       }
     };
