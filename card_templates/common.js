@@ -3,7 +3,7 @@ function formatDefinition() {
     let text = def.innerHTML;
 
     if (text.includes(",") || text.includes(";")) {
-      text = text.replace(
+      text = text.replaceAll(
         /([^,;]+)/g,
         (match) => `<span class="no-break">${match}</span>`
       );
@@ -12,8 +12,8 @@ function formatDefinition() {
       text = text.replaceAll('</span>; <span class="no-break">', ';</span> <span class="no-break">')
     }
 
-    text = text.replace(/\((.*?)\)/g, '<span class="pre-suffix">$&</span>');
-    text = text.replace(/\[(.*?)\]/g, '<span class="grammar">$&</span>');
+    text = text.replaceAll(/\((.*?)\)/g, '<span class="pre-suffix">$&</span>');
+    text = text.replaceAll(/\[(.*?)\]/g, '<span class="grammar">$&</span>');
 
     def.innerHTML = text;
   });
@@ -23,15 +23,15 @@ function beautifyText(text, isFrench) {
   if (text.length === 0) {
     return text;
   }
-  text = text.replace(/([^<>\s])'/g, "$1’"); // convert apostrophes
+  text = text.replaceAll(/([^<>\s])'/g, "$1’"); // convert apostrophes
   text = text.replaceAll("...", "…"); // convert ellipsis
   if (isFrench) {
     text = text.replaceAll("« ", "«").replaceAll(" »", "»");
     text = text.replaceAll("«", '"').replaceAll("»", '"');
     // insert thin non-breaking space before punctuation (but not inside HTML tags)
-    text = text.replace(/(?!.*<[^>]+>)(\s?)([?|:|!|;])/g, "\u202F$2");
+    text = text.replaceAll(/(?!.*<[^>]+>)(\s?)([?|:|!|;])/g, "\u202F$2");
     // Replace with French quote marks « ... »
-    text = text.replace(/(?!.*<[^>]+>)"([^"]*)"/g, "«\u202F$1\u202F»");
+    text = text.replaceAll(/(?!.*<[^>]+>)"([^"]*)"/g, "«\u202F$1\u202F»");
 
     if (text[0] === "-") {
       text = text.replaceAll("-", "–");
@@ -45,14 +45,14 @@ function beautifyText(text, isFrench) {
       for (let line of lines) {
         line = line.trim();
         if (line.startsWith("–") || line.startsWith("-")) {
-          line = line.replace(/^(–|-)\s*/, "");
+          line = line.replaceAll(/^(–|-)\s*/g, "");
         }
         formattedLines.push(`„${line}“`);
       }
       text = formattedLines.join("<br>");
     }
     // replace with German quote marks „...“
-    text = text.replace(/(?!.*<[^>]+>)"([^"]*)"/g, "„$1“");
+    text = text.replaceAll(/(?!.*<[^>]* [^>]*>)"([^"]*)"/g, "„$1“");
   }
   return text;
 }
