@@ -173,6 +173,13 @@ async function getTTSUrl(text, forceGoogleTranslate = false) {
   }
 
   try {
+    let textInput = decodeURIComponent(text);
+    let useSsml = false;
+    if (textInput.includes("\n")) {
+      useSsml = true;
+      textInput = textInput.replaceAll("\n", "<break/>");
+      textInput = `<speak>${textInput}</speak>`;
+    }
     const response = await fetch(
       `https://texttospeech.googleapis.com/v1/text:synthesize?key=${googleTTSApiKey}`,
       {
@@ -183,8 +190,8 @@ async function getTTSUrl(text, forceGoogleTranslate = false) {
         },
         body: JSON.stringify({
           audioConfig: { audioEncoding: "MP3" },
-          input: { text: decodeURIComponent(text) },
-          voice: { languageCode: "fr-FR", name: "fr-FR-Studio-D" },
+          input: useSsml ? { ssml: textInput } : { text: textInput },
+          voice: { languageCode: "fr-FR", name: "fr-FR-Studio-" + (Math.random() < 0.5 ? "A" : "D") },
         }),
       }
     );
@@ -502,7 +509,7 @@ function formatConjugationTables(within) {
     const audioSentence = [...el.querySelectorAll("tr")]
       .map((tr) => getVisibleText(tr))
       .filter((text) => text.length > 0)
-      .join(", ")
+      .join(",\n")
       .replaceAll("’ ", "’");
 
     if (
