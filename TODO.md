@@ -1,11 +1,8 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
-* Gemeinschaft: [communauté](cards/0558_communauté.yml) (#558), [collectivité](cards/2408_collectivité.yml) (#2408)
-* Opfer: [victime](cards/0697_victime.yml) (#697), [sacrifice](cards/2437_sacrifice.yml) (#2437)
 * Gegenteil: [contraire](cards/0619_contraire.yml) (#619), [inverse](cards/2452_inverse.yml) (#2452)
 * Lehrer: [professeur](cards/1150_professeur.yml) (#1150), [enseignant](cards/2456_enseignant.yml) (#2456)
 * bevorzugen: [préférer](cards/0597_préférer.yml) (#597), [privilégier](cards/2482_privilégier.yml) (#2482)
-* Süden: [sud](cards/1242_sud.yml) (#1242), [midi](cards/2483_midi.yml) (#2483)
 * einige: [quelque](cards/0070_quelque.yml) (#70), [quelques-uns](cards/2514_quelques-uns.yml) (#2514)
 * Schicksal: [destin](cards/2337_destin.yml) (#2337), [destinée](cards/2529_destinée.yml) (#2529)
 * ähnlich: [semblable](cards/1978_semblable.yml) (#1978), [similaire](cards/2632_similaire.yml) (#2632)
@@ -111,6 +108,7 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * Keller: [sous-sol](cards/4289_sous-sol.yml) (#4289), [cave](cards/4870_cave.yml) (#4870)
 * Sprung: [saut](cards/3841_saut.yml) (#3841), [bond](cards/4871_bond.yml) (#4871)
 * Rente: [retraite](cards/1180_retraite.yml) (#1180), [rente](cards/4876_rente.yml) (#4876)
+* Protokoll: [protocole](cards/2418_protocole.yml) (#2418), [procès-verbal](cards/4899_procès-verbal.yml) (#4899)
 * fangen, einfangen: [piéger](cards/4358_piéger.yml) (#4358), [capturer](cards/4921_capturer.yml) (#4921)
 * Golf: [golfe](cards/4024_golfe.yml) (#4024), [golf](cards/4936_golf.yml) (#4936)
 * folgen: [suivre](cards/0120_suivre.yml) (#120), [ensuivre](cards/4942_ensuivre.yml) (#4942)

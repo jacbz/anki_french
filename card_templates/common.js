@@ -26,6 +26,7 @@ function beautifyText(text, isFrench) {
   text = text.replaceAll(/([^<>\s])'/g, "$1’"); // convert apostrophes
   text = text.replaceAll("...", "…"); // convert ellipsis
   if (isFrench) {
+    text = text.replaceAll(/[\u0020\u00A0\u202F]+|&nbsp;/g, " "); // replace with regular space
     text = text.replaceAll("« ", "«").replaceAll(" »", "»");
     text = text.replaceAll("«", '"').replaceAll("»", '"');
     // insert thin non-breaking space before punctuation (but not inside HTML tags)
@@ -52,6 +53,7 @@ function beautifyText(text, isFrench) {
       text = formattedLines.join("<br>");
     }
     // replace with German quote marks „...“
+    text = text.replaceAll("„", '"').replaceAll("“", '"');
     text = text.replaceAll(/(?!.*<[^>]* [^>]*>)"([^"]*)"/g, "„$1“");
   }
   return text;
