@@ -54,4 +54,38 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>taxe</i> und <i>impôt</i></div>
+    <div class="section-content">
+      <p><span class="fr">Taxe</span> und <span class="fr">impôt</span> (#1241) bezeichnen beide Formen von Steuern oder Abgaben, haben aber einige Unterscheidungsmerkmale:</p>
+
+      <p><span class="fr">Impôt</span> (<span class="de">"Steuer"</span>):</p>
+      <ul>
+        <li>Ist obligatorisch und gilt für alle natürlichen und juristischen Personen.</li>
+        <li>Wird zugunsten des Staates erhoben, um öffentliche Ausgaben zu finanzieren.</li>
+        <li>Hat keine direkte Gegenleistung für den Zahlenden.</li>
+        <li>Beispiele: Einkommensteuer, Körperschaftsteuer</li>
+      </ul>
+
+      <div class="examples">
+        <div class="fr">L'impôt sur le revenu est progressif en France.</div>
+        <div class="de spoiler">Die Einkommensteuer ist in Frankreich progressiv.</div>
+      </div>
+
+      <p><span class="fr">Taxe</span> (<span class="de">"Abgabe"</span> oder <span class="de">"Gebühr"</span>):</p>
+      <ul>
+        <li>Wird oft für spezifische Produkte oder Dienstleistungen erhoben.</li>
+        <li>Der Ertrag ist häufig für bestimmte Ausgabenbereiche vorgesehen.</li>
+        <li>Kann auch von lokalen Behörden erhoben werden.</li>
+        <li>Beispiele: Kurtaxe, Erschließungsgebühr</li>
+      </ul>
+
+      <div class="examples">
+        <div class="fr">La taxe de séjour est collectée par les communes touristiques.</div>
+        <div class="de spoiler">Die Kurtaxe wird von Tourismusgemeinden erhoben.</div>
+      </div>
+
+      <p class="attention">Die Begriffe werden nicht immer strikt getrennt. So wird die Mehrwertsteuer (<i>taxe sur la valeur ajoutée</i>, TVA) als <span class="fr">"taxe"</span> bezeichnet, obwohl sie eigentlich ein <span class="fr">"impôt"</span> ist.</p>
+    </div>
+  </div>
