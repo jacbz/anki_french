@@ -7,7 +7,7 @@ Wortart: nadj(f)
 Wort mit Artikel: l’inverse
 Femininum / Plural: ''
 IPA: \ɛ̃.vɛʁs\
-Definition: Gegenteil
+Definition: Gegenteil; umgekehrt
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -33,4 +33,32 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>contraire</i> und <i>inverse</i></div>
+    <div class="section-content">
+      <p><span class="fr">Contraire</span> (#619) bedeutet <span class="de">"Gegenteil"</span> und bezieht sich oft auf die Negation oder den gegensätzlichen Zustand einer Aussage.</p>
+      <div class="examples">
+        <div class="fr">Je suis intelligent.</div>
+        <div class="de spoiler">Ich bin intelligent.</div>
+        <div class="fr">Le <u>contraire</u> : Je ne suis pas intelligent.</div>
+        <div class="de spoiler">Das Gegenteil: Ich bin nicht intelligent.</div>
+      </div>
+      <p><span class="fr">Inverse</span> bedeutet <span class="de">"Umkehrung"</span> und impliziert oft eine Änderung der Reihenfolge oder der Beziehung zwischen Elementen in einer Aussage.</p>
+      <div class="examples">
+        <div class="fr">La mathématique est facile ; la philosophie est difficile.</div>
+        <div class="de spoiler">Mathematik ist einfach; Philosophie ist schwierig.</div>
+        <div class="fr">L'<u>inverse</u> : La philosophie est facile ; la mathématique est difficile.</div>
+        <div class="de spoiler">Die Umkehrung: Philosophie ist einfach; Mathematik ist schwierig.</div>
+      </div>
+      <p>Bei komplexeren Aussagen können beide Interpretationen möglich sein:</p>
+      <div class="examples">
+        <div class="fr">La cuisine est facile ; le jardinage est difficile.</div>
+        <div class="de spoiler">Kochen ist einfach; Gartenarbeit ist schwierig.</div>
+        <div class="fr">Le <u>contraire</u> : La cuisine n'est pas facile ; le jardinage n'est pas difficile.</div>
+        <div class="de spoiler">Das Gegenteil: Kochen ist nicht einfach; Gartenarbeit ist nicht schwierig.</div>
+        <div class="fr">L'<u>inverse</u> : Le jardinage est facile ; la cuisine est difficile.</div>
+        <div class="de spoiler">Die Umkehrung: Gartenarbeit ist einfach; Kochen ist schwierig.</div>
+      </div>
+    </div>
+  </div>
