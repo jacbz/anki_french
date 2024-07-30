@@ -7,7 +7,7 @@ Wortart: nadj
 Wort mit Artikel: l’enseignant
 Femininum / Plural: enseignante
 IPA: \ɑ̃.sɛ.ɲɑ̃\
-Definition: Lehrer
+Definition: Lehrer, Lehrkraft
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -39,4 +39,27 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>enseignant</i> und <i>professeur</i></div>
+    <div class="section-content">
+      <p><span class="fr">Enseignant</span> ist der allgemeine Begriff für <span class="de">"Lehrkraft"</span> oder <span class="de">"Lehrperson"</span>. Er umfasst alle Personen, die in irgendeiner Form unterrichten.</p>
+
+      <p>Für die Grundschule (<i>niveau primaire</i>) gibt es folgende Bezeichnungen:</p>
+      <ul>
+        <li><span class="fr">Instituteur/institutrice</span>: offizielle Verwaltungssprache</li>
+        <li><span class="fr">Maître/maîtresse</span>: umgangssprachlich, <span class="de">"Lehrer/Lehrerin"</span></li>
+      </ul>
+      <hr>
+      <p><span class="fr">Professeur</span> (#1150) bezeichnet Lehrpersonen in der Sekundarstufe, an Colleges, Universitäten oder privaten Bildungseinrichtungen.</p>
+
+      <p>Wichtiger Hinweis: Nur Universitätsprofessoren dürfen den Titel <span class="fr">"Professeur"</span> vor ihrem Namen tragen.</p>
+
+      <div class="examples">
+        <div class="fr">M. le Professeur X enseigne à l'université.</div>
+        <div class="de spoiler">Professor X unterrichtet an der Universität.</div>
+        <div class="fr">M. Y est professeur au cégep. (et non M. le Professeur Y)</div>
+        <div class="de spoiler">Herr Y ist Lehrer am Cégep. (und nicht Professor Y)</div>
+      </div>
+    </div>
+  </div>
