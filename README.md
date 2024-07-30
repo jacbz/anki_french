@@ -37,7 +37,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1091 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1093 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -2496,7 +2496,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 2453 | intituler | betiteln | 5 |  | [Bearbeiten](cards/2453_intituler.yml) |
 | 2454 | possession | Besitz | 14 |  | [Bearbeiten](cards/2454_possession.yml) |
 | 2455 | rejet | Ablehnung, Abweisung | 10 |  | [Bearbeiten](cards/2455_rejet.yml) |
-| 2456 | enseignant | Lehrer | 7 |  | [Bearbeiten](cards/2456_enseignant.yml) |
+| 2456 | enseignant | Lehrer, Lehrkraft | 7 | X | [Bearbeiten](cards/2456_enseignant.yml) |
 | 2457 | avérer | sich herausstellen als | 6 |  | [Bearbeiten](cards/2457_avérer.yml) |
 | 2458 | papa | Papa | 6 | X | [Bearbeiten](cards/2458_papa.yml) |
 | 2459 | collaborateur | Mitarbeiter | 4 | X | [Bearbeiten](cards/2459_collaborateur.yml) |
@@ -2554,7 +2554,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 2511 | bibliothèque | Bibliothek | 11 |  | [Bearbeiten](cards/2511_bibliothèque.yml) |
 | 2512 | absurde | absurd | 6 |  | [Bearbeiten](cards/2512_absurde.yml) |
 | 2513 | océan | Ozean | 10 |  | [Bearbeiten](cards/2513_océan.yml) |
-| 2514 | quelques-uns | einige | 5 |  | [Bearbeiten](cards/2514_quelques-uns.yml) |
+| 2514 | quelques-uns | einige | 5 | X | [Bearbeiten](cards/2514_quelques-uns.yml) |
 | 2515 | dicter | diktieren | 4 |  | [Bearbeiten](cards/2515_dicter.yml) |
 | 2516 | tenant | Verfechter, -inhaber | 6 |  | [Bearbeiten](cards/2516_tenant.yml) |
 | 2517 | stable | stabil | 3 |  | [Bearbeiten](cards/2517_stable.yml) |

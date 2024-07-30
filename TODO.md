@@ -1,8 +1,6 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
-* Lehrer: [professeur](cards/1150_professeur.yml) (#1150), [enseignant](cards/2456_enseignant.yml) (#2456)
 * bevorzugen: [préférer](cards/0597_préférer.yml) (#597), [privilégier](cards/2482_privilégier.yml) (#2482)
-* einige: [quelque](cards/0070_quelque.yml) (#70), [quelques-uns](cards/2514_quelques-uns.yml) (#2514)
 * Schicksal: [destin](cards/2337_destin.yml) (#2337), [destinée](cards/2529_destinée.yml) (#2529)
 * ähnlich: [semblable](cards/1978_semblable.yml) (#1978), [similaire](cards/2632_similaire.yml) (#2632)
 * deutlich, klar: [nettement](cards/2055_nettement.yml) (#2055), [distinct](cards/2698_distinct.yml) (#2698)

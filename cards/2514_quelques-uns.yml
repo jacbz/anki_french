@@ -33,4 +33,25 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>quelque(s)</i> und <i>quelques-un(e)s</i></div>
+    <div class="section-content">
+      <p><span class="fr">Quelque(s)</span> ist ein unbestimmter Artikel, der mit <span class="de">"einige"</span> oder <span class="de">"ein paar"</span> übersetzt werden kann. Er steht immer in Verbindung mit einer Nominalphrase:</p>
+      <div class="examples">
+        <div class="fr">J'ai bien <u>quelques</u> idées, mais...</div>
+        <div class="de spoiler">Ich habe schon ein paar Ideen, aber...</div>
+        <div class="fr">Je suis parti en vacances avec <u>quelques</u> amies.</div>
+        <div class="de spoiler">Ich bin mit einigen Freundinnen in den Urlaub gefahren.</div>
+      </div>
+      <p><span class="fr">Quelques-un(e)s</span> ist ein unbestimmtes Pronomen. Es steht allein, anstelle einer Nominalphrase, und kann sich sowohl auf Belebtes als auch auf Unbelebtes beziehen:</p>
+      <div class="examples">
+        <div class="fr">Il y en a toujours <u>quelques-uns</u> qui n'ont pas d'appétit.</div>
+        <div class="de spoiler">Es gibt immer einige, die keinen Appetit haben.</div>
+        <div class="fr">Des voitures sans plaques ? J'en ai vu <u>quelques-unes</u>, mais pas tant que ça.</div>
+        <div class="de spoiler">Autos ohne Kennzeichen? Ich habe einige gesehen, aber nicht so viele.</div>
+      </div>
+      <p>Die Singular-Form ist <span class="fr">quelqu'un</span>, das allerdings nur für Menschen verwendet werden kann. Ansonsten verwendet man einfach <span class="fr">un(e)</span>.</p>
+      <p class="tip"><span class="fr">Chaque</span> und <span class="fr">chacun</span>, sowie <span class="fr">mon</span> und <span class="fr">le mien</span> (und die anderen Possessivpronomen) haben eine ähnliche Beziehung zueinander.</p>
+    </div>
+  </div>

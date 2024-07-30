@@ -130,7 +130,7 @@ function formatSentences(within = document) {
     // show audio button if sentence ends with punctuation
     const shouldShow =
       !el.classList.contains("no-audio") &&
-      (text.match(/[.!?]/) || el.classList.contains("force-audio"));
+      (text.match(/[.!?…]/) || el.classList.contains("force-audio"));
     el.innerHTML = text;
     if (shouldShow) {
       const textContent = el.textContent;
