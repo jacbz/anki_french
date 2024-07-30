@@ -7,7 +7,7 @@ Wortart: nf
 Wort mit Artikel: la firme
 Femininum / Plural: ''
 IPA: \fiʁm\
-Definition: Firma
+Definition: '[große] Firma'
 Register: ↗Fiktion ↘Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -24,4 +24,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>firme</i> und <i>entreprise</i></div>
+    <div class="section-content">
+      <p><span class="fr">Firme</span> bedeutet <span class="de">"Firma"</span> und bezieht sich oft auf ein größeres, etabliertes Unternehmen. Es hat eine etwas formalere Konnotation und wird häufig im Geschäftskontext verwendet.</p>
+      <div class="examples">
+        <div class="fr">Cette firme internationale a des bureaux dans dix pays.</div>
+        <div class="de spoiler">Diese internationale Firma hat Büros in zehn Ländern.</div>
+        <div class="fr">Il travaille pour une grande firme d'avocats.</div>
+        <div class="de spoiler">Er arbeitet für eine große Anwaltskanzlei.</div>
+      </div>
+      <p><span class="fr">Entreprise</span> (#298) ist der allgemeinere Begriff für <span class="de">"Unternehmen"</span> und kann sich auf Geschäfte jeder Größe beziehen, von kleinen Startups bis hin zu großen Konzernen.</p>
+      <div class="examples">
+        <div class="fr">Elle a créé sa propre entreprise il y a deux ans.</div>
+        <div class="de spoiler">Sie hat vor zwei Jahren ihr eigenes Unternehmen gegründet.</div>
+        <div class="fr">Cette entreprise familiale existe depuis trois générations.</div>
+        <div class="de spoiler">Dieses Familienunternehmen besteht seit drei Generationen.</div>
+      </div>
+    </div>
+  </div>

@@ -37,7 +37,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1093 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1097 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -110,7 +110,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 67 | savoir | wissen | 13 |  | [Bearbeiten](cards/0067_savoir.yml) |
 | 68 | falloir | müssen | 17 | X | [Bearbeiten](cards/0068_falloir.yml) |
 | 69 | voir | sehen | 14 | X | [Bearbeiten](cards/0069_voir.yml) |
-| 70 | quelque | einige | 12 |  | [Bearbeiten](cards/0070_quelque.yml) |
+| 70 | quelque | einige(-r/s) | 12 |  | [Bearbeiten](cards/0070_quelque.yml) |
 | 71 | sans | ohne | 12 |  | [Bearbeiten](cards/0071_sans.yml) |
 | 72 | raison | Vernunft, Grund | 11 |  | [Bearbeiten](cards/0072_raison.yml) |
 | 73 | notre | unser | 7 | X | [Bearbeiten](cards/0073_notre.yml) |
@@ -637,7 +637,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 594 | autour | um ... (herum) | 13 |  | [Bearbeiten](cards/0594_autour.yml) |
 | 595 | réduire | verringern, reduzieren | 12 |  | [Bearbeiten](cards/0595_réduire.yml) |
 | 596 | d’après | gemäß | 2 |  | [Bearbeiten](cards/0596_d’après.yml) |
-| 597 | préférer | bevorzugen | 12 |  | [Bearbeiten](cards/0597_préférer.yml) |
+| 597 | préférer | vorziehen | 12 |  | [Bearbeiten](cards/0597_préférer.yml) |
 | 598 | rue | Straße, Gasse | 13 | X | [Bearbeiten](cards/0598_rue.yml) |
 | 599 | riche | reich | 16 | X | [Bearbeiten](cards/0599_riche.yml) |
 | 600 | bref | kurz; jedenfalls | 7 |  | [Bearbeiten](cards/0600_bref.yml) |
@@ -1325,7 +1325,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 1282 | troupe | Truppe, Ensemble | 13 |  | [Bearbeiten](cards/1282_troupe.yml) |
 | 1283 | qualifier | qualifizieren, bezeichnen | 9 |  | [Bearbeiten](cards/1283_qualifier.yml) |
 | 1284 | absolu | absolut, uneingeschränkt | 4 | X | [Bearbeiten](cards/1284_absolu.yml) |
-| 1285 | dégager | befreien, freimachen | 12 |  | [Bearbeiten](cards/1285_dégager.yml) |
+| 1285 | dégager | enthüllen, freimachen | 12 |  | [Bearbeiten](cards/1285_dégager.yml) |
 | 1286 | stratégie | Strategie | 6 | X | [Bearbeiten](cards/1286_stratégie.yml) |
 | 1287 | bateau | (kleines) Schiff | 12 | X | [Bearbeiten](cards/1287_bateau.yml) |
 | 1288 | printemps | Frühling | 11 | X | [Bearbeiten](cards/1288_printemps.yml) |
@@ -1995,7 +1995,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 1952 | bâtiment | Gebäude | 15 | X | [Bearbeiten](cards/1952_bâtiment.yml) |
 | 1953 | époux | Gatte | 4 | X | [Bearbeiten](cards/1953_époux.yml) |
 | 1954 | médicament | Medikament | 8 |  | [Bearbeiten](cards/1954_médicament.yml) |
-| 1955 | firme | Firma | 2 |  | [Bearbeiten](cards/1955_firme.yml) |
+| 1955 | firme | [große] Firma | 2 | X | [Bearbeiten](cards/1955_firme.yml) |
 | 1956 | élargir | erweitern, ausweiten | 4 |  | [Bearbeiten](cards/1956_élargir.yml) |
 | 1957 | électeur | Wähler | 4 | X | [Bearbeiten](cards/1957_électeur.yml) |
 | 1958 | plonger | (ein-)tauchen | 12 |  | [Bearbeiten](cards/1958_plonger.yml) |
@@ -2486,7 +2486,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 2443 | champion | Meister; Verfechter | 9 | X | [Bearbeiten](cards/2443_champion.yml) |
 | 2444 | librement | frei, ungehindert | 4 |  | [Bearbeiten](cards/2444_librement.yml) |
 | 2445 | congé | Urlaub, Freistellung | 14 | X | [Bearbeiten](cards/2445_congé.yml) |
-| 2446 | taxe | Gebühr, Abgabe, Steuer | 12 |  | [Bearbeiten](cards/2446_taxe.yml) |
+| 2446 | taxe | Gebühr, Abgabe, Steuer | 12 | X | [Bearbeiten](cards/2446_taxe.yml) |
 | 2447 | onze | elf | 9 | X | [Bearbeiten](cards/2447_onze.yml) |
 | 2448 | téléphoner | telefonieren | 4 |  | [Bearbeiten](cards/2448_téléphoner.yml) |
 | 2449 | serrer | schütteln, umklammern, zusammenrücken | 12 |  | [Bearbeiten](cards/2449_serrer.yml) |
@@ -2522,7 +2522,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 2479 | militant | Aktivist | 5 | X | [Bearbeiten](cards/2479_militant.yml) |
 | 2480 | participant | Teilnehmer | 9 | X | [Bearbeiten](cards/2480_participant.yml) |
 | 2481 | blessure | Verletzung | 13 | X | [Bearbeiten](cards/2481_blessure.yml) |
-| 2482 | privilégier | bevorzugen | 4 |  | [Bearbeiten](cards/2482_privilégier.yml) |
+| 2482 | privilégier | bevorzugen, begünstigen | 4 |  | [Bearbeiten](cards/2482_privilégier.yml) |
 | 2483 | midi | Mittag; Süden | 19 | X | [Bearbeiten](cards/2483_midi.yml) |
 | 2484 | disque | Scheibe, Platte | 12 |  | [Bearbeiten](cards/2484_disque.yml) |
 | 2485 | couche | Schicht | 12 |  | [Bearbeiten](cards/2485_couche.yml) |
@@ -2556,7 +2556,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 2513 | océan | Ozean | 10 |  | [Bearbeiten](cards/2513_océan.yml) |
 | 2514 | quelques-uns | einige | 5 | X | [Bearbeiten](cards/2514_quelques-uns.yml) |
 | 2515 | dicter | diktieren | 4 |  | [Bearbeiten](cards/2515_dicter.yml) |
-| 2516 | tenant | Verfechter, -inhaber | 6 |  | [Bearbeiten](cards/2516_tenant.yml) |
+| 2516 | tenant | Halter, -inhaber | 6 | X | [Bearbeiten](cards/2516_tenant.yml) |
 | 2517 | stable | stabil | 3 |  | [Bearbeiten](cards/2517_stable.yml) |
 | 2518 | capitaine | Kapitän | 7 |  | [Bearbeiten](cards/2518_capitaine.yml) |
 | 2519 | solliciter | anfragen, ersuchen | 12 |  | [Bearbeiten](cards/2519_solliciter.yml) |
@@ -2569,7 +2569,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 2526 | choquer | schockieren, erschüttern | 7 |  | [Bearbeiten](cards/2526_choquer.yml) |
 | 2527 | primaire | Grundschule | 12 |  | [Bearbeiten](cards/2527_primaire.yml) |
 | 2528 | vital | lebenswichtig | 3 |  | [Bearbeiten](cards/2528_vital.yml) |
-| 2529 | destinée | Schicksal | 4 |  | [Bearbeiten](cards/2529_destinée.yml) |
+| 2529 | destinée | Schicksal, Bestimmung | 4 | X | [Bearbeiten](cards/2529_destinée.yml) |
 | 2530 | patrimoine | Erbe, Vermögen | 11 |  | [Bearbeiten](cards/2530_patrimoine.yml) |
 | 2531 | conforme | entsprechend, übereinstimmend | 12 |  | [Bearbeiten](cards/2531_conforme.yml) |
 | 2532 | adjoint | Stellvertreter, Assistent | 4 |  | [Bearbeiten](cards/2532_adjoint.yml) |
