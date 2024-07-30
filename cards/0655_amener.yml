@@ -52,5 +52,25 @@ Beispielsätze: |-
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>apporter</i> und <i>amener</i></div>
+    <div class="section-content">
+      <p><span class="fr">Apporter</span> (#339) bedeutet <span class="de">"bringen"</span> im Sinne von <span class="de">"etwas tragen und herbringen"</span>. Es wird hauptsächlich für unbelebte Objekte oder abstrakte Konzepte verwendet.</p>
+      <div class="examples">
+        <div class="fr">J'ai apporté un cadeau pour ton anniversaire.</div>
+        <div class="de spoiler">Ich habe ein Geschenk zu deinem Geburtstag mitgebracht.</div>
+        <div class="fr">Cette découverte apporte de nouvelles perspectives.</div>
+        <div class="de spoiler">Diese Entdeckung bringt neue Perspektiven.</div>
+      </div>
+      <p><span class="fr">Amener</span> bedeutet <span class="de">"bringen"</span> oder <span class="de">"mitbringen"</span> im Sinne von <span class="de">"jemanden oder etwas herführen"</span>. Es wird vorwiegend für belebte Wesen verwendet, kann aber auch für bestimmte unbelebte Objekte genutzt werden, die man nicht tragen muss.</p>
+      <div class="examples">
+        <div class="fr">J'ai amené mes enfants au parc.</div>
+        <div class="de spoiler">Ich habe meine Kinder in den Park gebracht.</div>
+        <div class="fr">Il a amené sa voiture chez le garagiste.</div>
+        <div class="de spoiler">Er hat sein Auto zum Mechaniker gebracht.</div>
+      </div>
+      <p>Merkhilfe: <span class="fr">Apporter</span> enthält <span class="fr">porter</span> (<span class="de">"tragen"</span>), während <span class="fr">amener</span> das Wort <span class="fr">mener</span> (<span class="de">"führen"</span>) enthält.</p>
+    </div>
+  </div>
   <grammar data-id="VerbenBringenMitnehmen"></grammar>
   <grammar data-id="Bewegungsverben"></grammar>
