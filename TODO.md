@@ -1,6 +1,5 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
-* Gegenteil: [contraire](cards/0619_contraire.yml) (#619), [inverse](cards/2452_inverse.yml) (#2452)
 * Lehrer: [professeur](cards/1150_professeur.yml) (#1150), [enseignant](cards/2456_enseignant.yml) (#2456)
 * bevorzugen: [préférer](cards/0597_préférer.yml) (#597), [privilégier](cards/2482_privilégier.yml) (#2482)
 * einige: [quelque](cards/0070_quelque.yml) (#70), [quelques-uns](cards/2514_quelques-uns.yml) (#2514)
