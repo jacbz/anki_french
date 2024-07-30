@@ -7,7 +7,7 @@ Wortart: nf
 Wort mit Artikel: la destinée
 Femininum / Plural: ''
 IPA: \dɛs.ti.ne\
-Definition: Schicksal
+Definition: Schicksal, Bestimmung
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -30,4 +30,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>destinée</i> und <i>destin</i></div>
+    <div class="section-content">
+      <p><span class="fr">Destinée</span> bezieht sich auf das persönliche Schicksal oder die individuelle Bestimmung eines Menschen. Es impliziert oft eine innere Kraft oder einen Lebensweg, den man selbst mitgestalten kann.</p>
+      <div class="examples">
+        <div class="fr">Elle a toujours su que sa destinée était de devenir artiste.</div>
+        <div class="de spoiler">Sie wusste schon immer, dass es ihre Bestimmung war, Künstlerin zu werden.</div>
+        <div class="fr">Chacun est responsable de sa propre destinée.</div>
+        <div class="de spoiler">Jeder ist für sein eigenes Schicksal verantwortlich.</div>
+      </div>
+      <p><span class="fr">Destin</span> (#2337) bezieht sich eher auf das Schicksal im Sinne einer äußeren, oft unvermeidlichen Kraft. Es wird oft als etwas gesehen, das vorherbestimmt oder unausweichlich ist.</p>
+      <div class="examples">
+        <div class="fr">Le destin a voulu que leurs chemins se croisent.</div>
+        <div class="de spoiler">Das Schicksal wollte es, dass sich ihre Wege kreuzten.</div>
+        <div class="fr">On ne peut pas échapper à son destin.</div>
+        <div class="de spoiler">Man kann seinem Schicksal nicht entfliehen.</div>
+      </div>
+    </div>
+  </div>
