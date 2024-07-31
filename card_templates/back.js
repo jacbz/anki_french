@@ -395,8 +395,8 @@ function loadGrammar(id, into) {
     content.innerHTML += `<div class="github"><a href="${grammar.github[id]}">Auf GitHub bearbeiten</a></div>`;
   }
   content.querySelectorAll(".marklemma").forEach(function (el) {
-    if (el.textContent === word) {
-      el.innerHTML = `<u>${el.innerHTML}</u>`;
+    if (el.textContent !== word) {
+      el.classList.remove("marklemma");
     }
   });
 

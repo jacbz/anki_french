@@ -25,4 +25,6 @@ Beispielsätze: "Quel livre cherchiez-vous?\nWelches Buch haben Sie gesucht?\n\n
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: <grammar data-id="Fragepronomen"></grammar>
+Notiz: |-
+  <grammar data-id="Fragepronomen"></grammar>
+  <grammar data-id="Indefinitbegleiter"></grammar>

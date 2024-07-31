@@ -453,6 +453,13 @@ b, i, u {
   line-height: 100%;
 }
 
+.marklemma {
+  background: hsl(192, 70%, 50%);
+  color: white;
+  padding: 0.1em 0.2em;
+  border-radius: 0.5em;
+}
+
 u {
   text-decoration: none;
   color: hsl(192, 70%, 50%);
