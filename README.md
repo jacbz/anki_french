@@ -1,6 +1,6 @@
 # Französisch 5000
 
-Hilf mit, das Deck **Französisch 5000** zu verbessern! Das Deck enthält die 5000 häufigsten Wörter der französischen Sprache, mit vielen Beispielsätzen.
+Hilf mit, das Deck **Französisch 5000** zu verbessern! Das Deck enthält die 5000 häufigsten Wörter der französischen Sprache, mit vielen Beispielsätzen, Grammatiknotizen, Audio und mehr.
 
 **[AnkiWeb](https://ankiweb.net/shared/info/1677131827)**
 

@@ -12,7 +12,7 @@ function formatDefinition() {
       text = text.replaceAll('</span>; <span class="no-break">', ';</span> <span class="no-break">')
     }
 
-    text = text.replaceAll(/\((.*?)\)/g, '<span class="pre-suffix">$&</span>');
+    text = text.replaceAll(/\(-?(.*?)-?\)/g, '<span class="pre-suffix">$1</span>');
     text = text.replaceAll(/\[(.*?)\]/g, '<span class="grammar">$&</span>');
 
     def.innerHTML = text;
