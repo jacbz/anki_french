@@ -1,3 +1,25 @@
+$highlight-color: hsl(192, 70%, 40%);
+$attention-color: hsl(43, 100%, 38%);
+$tip-color: hsl(119, 19%, 43%);
+$section-title-background: hsla(201, 100%, 14%, 0.15);
+$section-within-section-title-background: hsla(201, 100%, 14%, 0.07);
+
+:root {
+  --highlight-color: #{$highlight-color};
+  --attention-color: #{$attention-color};
+  --tip-color: #{$tip-color};
+  --section-title-background: #{$section-title-background};
+  --section-within-section-title-background: #{$section-within-section-title-background};
+}
+
+.night_mode {
+  --highlight-color: #{adjust-color($highlight-color, $lightness: 5%)};
+  --attention-color: #{adjust-color($attention-color, $lightness: 5%)};
+  --tip-color: #{adjust-color($tip-color, $lightness: 5%)};
+  --section-title-background: hsl(201, 100%, 18%);
+  --section-within-section-title-background: hsl(201, 100%, 13%);
+}
+
 /**
   Font faces
   -----------------------------------------------
@@ -454,7 +476,7 @@ b, i, u {
 }
 
 .marklemma {
-  background: hsl(192, 70%, 50%);
+  background: var(--highlight-color);
   color: white;
   padding: 0.1em 0.2em;
   border-radius: 0.5em;
@@ -462,7 +484,7 @@ b, i, u {
 
 u {
   text-decoration: none;
-  color: hsl(192, 70%, 50%);
+  color: var(--highlight-color);
 }
 
 .card-box {
@@ -505,7 +527,7 @@ u {
     .section {
       .section-title {
         font-size: 100%;
-        background: rgba(0, 48, 73, 0.07);
+        background: var(--section-within-section-title-background);
       }
     }
 
@@ -517,7 +539,7 @@ u {
   .section-title {
     font-weight: bold;
     font-size: 120%;
-    background: rgba(0, 48, 73, 0.15);
+    background: var(--section-title-background);
     margin: 0 -10px;
     padding: 0.2em 10px;
     cursor: pointer;
@@ -551,14 +573,6 @@ u {
       margin-bottom: 1.5em !important;
     }
   }
-}
-
-.night_mode .card-box .section-title {
-  background: hsl(201, 100%, 18%);
-}
-
-.night_mode .card-box .section .section .section-title {
-  background: hsl(201, 100%, 13%);
 }
 
 @media (hover: hover) and (pointer: fine) {
@@ -653,16 +667,15 @@ u {
   margin-top: 0.75em !important;
 }
 
-@mixin shared-styles($hue, $saturation, $lightness, $icon-url) {
-  $color: hsl($hue, $saturation, $lightness);
-  $background: hsla($hue, $saturation, $lightness, 0.15);
+@mixin shared-styles($css-color, $scss-color, $icon-url) {
+  $background: rgba($scss-color, 0.15);
 
-  color: $color;
-  border-color: $color;
+  color: $css-color;
+  border-color: $css-color;
   background: $background;
 
   svg {
-    fill: $color;
+    fill: $css-color;
   }
 
   .spoiler:not(.clicked) {
@@ -700,28 +713,25 @@ u {
 
 .highlight {
   @include shared-styles(
-    192,
-    70%,
-    43%,
-    "data:image/svg+xml,%3Csvg width='30px' height='30px' viewBox='0 0 48 48' xmlns='http://www.w3.org/2000/svg'%3E%3Ctitle%3Einformation-circle%3C/title%3E%3Cg id='Layer_2' data-name='Layer 2'%3E%3Cg id='invisible_box' data-name='invisible box'%3E%3Crect width='48' height='48' fill='none'/%3E%3C/g%3E%3Cg fill='hsl(192, 70%, 43%)' id='icons_Q2' data-name='icons Q2'%3E%3Cpath d='M24,2A22,22,0,1,0,46,24,21.9,21.9,0,0,0,24,2Zm0,40A18,18,0,1,1,42,24,18.1,18.1,0,0,1,24,42Z'/%3E%3Cpath d='M24,20a2,2,0,0,0-2,2V34a2,2,0,0,0,4,0V22A2,2,0,0,0,24,20Z'/%3E%3Ccircle cx='24' cy='14' r='2'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E"
+    var(--highlight-color),
+    $highlight-color,
+    "data:image/svg+xml,%3Csvg width='30px' height='30px' viewBox='0 0 48 48' xmlns='http://www.w3.org/2000/svg'%3E%3Ctitle%3Einformation-circle%3C/title%3E%3Cg id='Layer_2' data-name='Layer 2'%3E%3Cg id='invisible_box' data-name='invisible box'%3E%3Crect width='48' height='48' fill='none'/%3E%3C/g%3E%3Cg fill='rgb(#{red($highlight-color)},#{green($highlight-color)},#{blue($highlight-color)})' id='icons_Q2' data-name='icons Q2'%3E%3Cpath d='M24,2A22,22,0,1,0,46,24,21.9,21.9,0,0,0,24,2Zm0,40A18,18,0,1,1,42,24,18.1,18.1,0,0,1,24,42Z'/%3E%3Cpath d='M24,20a2,2,0,0,0-2,2V34a2,2,0,0,0,4,0V22A2,2,0,0,0,24,20Z'/%3E%3Ccircle cx='24' cy='14' r='2'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E"
   );
 }
 
 .attention {
   @include shared-styles(
-    43,
-    100%,
-    42%,
-    "data:image/svg+xml,%3Csvg width='30px' height='30px' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M10.75 2.44995C11.45 1.85995 12.58 1.85995 13.26 2.44995L14.84 3.79995C15.14 4.04995 15.71 4.25995 16.11 4.25995H17.81C18.87 4.25995 19.74 5.12995 19.74 6.18995V7.88995C19.74 8.28995 19.95 8.84995 20.2 9.14995L21.55 10.7299C22.14 11.4299 22.14 12.5599 21.55 13.2399L20.2 14.8199C19.95 15.1199 19.74 15.6799 19.74 16.0799V17.7799C19.74 18.8399 18.87 19.7099 17.81 19.7099H16.11C15.71 19.7099 15.15 19.9199 14.85 20.1699L13.27 21.5199C12.57 22.1099 11.44 22.1099 10.76 21.5199L9.18001 20.1699C8.88001 19.9199 8.31 19.7099 7.92 19.7099H6.17C5.11 19.7099 4.24 18.8399 4.24 17.7799V16.0699C4.24 15.6799 4.04 15.1099 3.79 14.8199L2.44 13.2299C1.86 12.5399 1.86 11.4199 2.44 10.7299L3.79 9.13995C4.04 8.83995 4.24 8.27995 4.24 7.88995V6.19995C4.24 5.13995 5.11 4.26995 6.17 4.26995H7.9C8.3 4.26995 8.86 4.05995 9.16 3.80995L10.75 2.44995Z' stroke='hsl(43, 100%, 42%)' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M12 8.13V12.96' stroke='hsl(43, 100%, 42%)' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M11.9945 16H12.0035' stroke='hsl(43, 100%, 42%)' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"
+    var(--attention-color),
+    $attention-color,
+    "data:image/svg+xml,%3Csvg width='30px' height='30px' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M10.75 2.44995C11.45 1.85995 12.58 1.85995 13.26 2.44995L14.84 3.79995C15.14 4.04995 15.71 4.25995 16.11 4.25995H17.81C18.87 4.25995 19.74 5.12995 19.74 6.18995V7.88995C19.74 8.28995 19.95 8.84995 20.2 9.14995L21.55 10.7299C22.14 11.4299 22.14 12.5599 21.55 13.2399L20.2 14.8199C19.95 15.1199 19.74 15.6799 19.74 16.0799V17.7799C19.74 18.8399 18.87 19.7099 17.81 19.7099H16.11C15.71 19.7099 15.15 19.9199 14.85 20.1699L13.27 21.5199C12.57 22.1099 11.44 22.1099 10.76 21.5199L9.18001 20.1699C8.88001 19.9199 8.31 19.7099 7.92 19.7099H6.17C5.11 19.7099 4.24 18.8399 4.24 17.7799V16.0699C4.24 15.6799 4.04 15.1099 3.79 14.8199L2.44 13.2299C1.86 12.5399 1.86 11.4199 2.44 10.7299L3.79 9.13995C4.04 8.83995 4.24 8.27995 4.24 7.88995V6.19995C4.24 5.13995 5.11 4.26995 6.17 4.26995H7.9C8.3 4.26995 8.86 4.05995 9.16 3.80995L10.75 2.44995Z' stroke='rgb(#{red($attention-color)},#{green($attention-color)},#{blue($attention-color)})' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M12 8.13V12.96' stroke='rgb(#{red($attention-color)},#{green($attention-color)},#{blue($attention-color)})' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M11.9945 16H12.0035' stroke='rgb(#{red($attention-color)},#{green($attention-color)},#{blue($attention-color)})' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"
   );
 }
 
 .tip {
   @include shared-styles(
-    119,
-    19%,
-    50%,
-    "data:image/svg+xml,%3Csvg width='30px' height='30px' viewBox='2 2 22 22' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12 10V11.5M12 14H12.01M10 16.584V18.9996C10 20.1042 10.8954 20.9996 12 20.9996C13.1046 20.9996 14 20.1042 14 18.9996L14 16.584M12 3V4M18.3643 5.63574L17.6572 6.34285M5.63574 5.63574L6.34285 6.34285M4 12H3M21 12H20M17 12C17 14.7614 14.7614 17 12 17C9.23858 17 7 14.7614 7 12C7 9.23858 9.23858 7 12 7C14.7614 7 17 9.23858 17 12Z' stroke='hsl(119, 19%, 50%)' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"
+    var(--tip-color),
+    $tip-color,
+    "data:image/svg+xml,%3Csvg width='30px' height='30px' viewBox='2 2 22 22' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12 10V11.5M12 14H12.01M10 16.584V18.9996C10 20.1042 10.8954 20.9996 12 20.9996C13.1046 20.9996 14 20.1042 14 18.9996L14 16.584M12 3V4M18.3643 5.63574L17.6572 6.34285M5.63574 5.63574L6.34285 6.34285M4 12H3M21 12H20M17 12C17 14.7614 14.7614 17 12 17C9.23858 17 7 14.7614 7 12C7 9.23858 9.23858 7 12 7C14.7614 7 17 9.23858 17 12Z' stroke='rgb(#{red($tip-color)},#{green($tip-color)},#{blue($tip-color)})' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"
   );
 }
 
