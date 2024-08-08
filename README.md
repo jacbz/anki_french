@@ -37,7 +37,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1110 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40305 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1111 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -125,7 +125,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 82 | après | nach, später | 14 | X | [Bearbeiten](cards/0082_après.yml) |
 | 83 | trouver | finden | 12 |  | [Bearbeiten](cards/0083_trouver.yml) |
 | 84 | personne | Person; niemand [verneint] | 14 | X | [Bearbeiten](cards/0084_personne.yml) |
-| 85 | rendre | zurückgeben, zu etw. machen | 18 |  | [Bearbeiten](cards/0085_rendre.yml) |
+| 85 | rendre | zurückgeben; [zu etw.] machen | 18 |  | [Bearbeiten](cards/0085_rendre.yml) |
 | 86 | part | Anteil, Teil | 15 |  | [Bearbeiten](cards/0086_part.yml) |
 | 87 | dernier | letzter | 16 |  | [Bearbeiten](cards/0087_dernier.yml) |
 | 88 | venir | kommen | 13 | X | [Bearbeiten](cards/0088_venir.yml) |
@@ -479,7 +479,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 436 | choix | Wahl | 15 |  | [Bearbeiten](cards/0436_choix.yml) |
 | 437 | prévoir | voraussehen, vorsehen | 13 |  | [Bearbeiten](cards/0437_prévoir.yml) |
 | 438 | chance | Glück, Chance | 18 |  | [Bearbeiten](cards/0438_chance.yml) |
-| 439 | notamment | insbesondere | 2 |  | [Bearbeiten](cards/0439_notamment.yml) |
+| 439 | notamment | vor allem, insbesondere | 2 |  | [Bearbeiten](cards/0439_notamment.yml) |
 | 440 | type | Typ | 15 |  | [Bearbeiten](cards/0440_type.yml) |
 | 441 | but | Ziel; Tor | 18 | X | [Bearbeiten](cards/0441_but.yml) |
 | 442 | matin | Morgen | 17 | X | [Bearbeiten](cards/0442_matin.yml) |
@@ -694,7 +694,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 651 | comité | Ausschuss, Komitee | 13 |  | [Bearbeiten](cards/0651_comité.yml) |
 | 652 | impossible | unmöglich | 13 | X | [Bearbeiten](cards/0652_impossible.yml) |
 | 653 | preuve | Beweis | 15 |  | [Bearbeiten](cards/0653_preuve.yml) |
-| 654 | véritable | wahr, echt | 7 |  | [Bearbeiten](cards/0654_véritable.yml) |
+| 654 | véritable | wirklich, echt | 7 |  | [Bearbeiten](cards/0654_véritable.yml) |
 | 655 | amener | (mit-)bringen, hinbringen | 11 | X | [Bearbeiten](cards/0655_amener.yml) |
 | 656 | viser | zielen | 10 |  | [Bearbeiten](cards/0656_viser.yml) |
 | 657 | retirer | entfernen, zurückziehen | 12 |  | [Bearbeiten](cards/0657_retirer.yml) |
@@ -1194,7 +1194,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 1151 | envers | gegenüber; Rückseite | 10 |  | [Bearbeiten](cards/1151_envers.yml) |
 | 1152 | distribuer | verteilen | 12 |  | [Bearbeiten](cards/1152_distribuer.yml) |
 | 1153 | existence | Existenz | 4 |  | [Bearbeiten](cards/1153_existence.yml) |
-| 1154 | prétendre | behaupten | 10 |  | [Bearbeiten](cards/1154_prétendre.yml) |
+| 1154 | prétendre | behaupten | 9 |  | [Bearbeiten](cards/1154_prétendre.yml) |
 | 1155 | global | global, weltweit | 6 |  | [Bearbeiten](cards/1155_global.yml) |
 | 1156 | dommage | Schaden; schade | 10 |  | [Bearbeiten](cards/1156_dommage.yml) |
 | 1157 | crédit | Kredit | 13 |  | [Bearbeiten](cards/1157_crédit.yml) |
@@ -1510,7 +1510,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 1467 | inquiétude | Unruhe, Besorgnis | 9 |  | [Bearbeiten](cards/1467_inquiétude.yml) |
 | 1468 | israélien | israelisch | 2 | X | [Bearbeiten](cards/1468_israélien.yml) |
 | 1469 | représentation | Darstellung, Vertretung | 12 |  | [Bearbeiten](cards/1469_représentation.yml) |
-| 1470 | pareil | gleich, ähnlich | 17 |  | [Bearbeiten](cards/1470_pareil.yml) |
+| 1470 | pareil | gleich, solche(-r/s) | 17 |  | [Bearbeiten](cards/1470_pareil.yml) |
 | 1471 | mandat | Auftrag, Vollmacht | 12 |  | [Bearbeiten](cards/1471_mandat.yml) |
 | 1472 | quinze | fünfzehn | 13 | X | [Bearbeiten](cards/1472_quinze.yml) |
 | 1473 | vide | leer | 13 | X | [Bearbeiten](cards/1473_vide.yml) |
@@ -1527,7 +1527,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 1484 | rang | Rang | 13 |  | [Bearbeiten](cards/1484_rang.yml) |
 | 1485 | employé | Angestellter | 10 |  | [Bearbeiten](cards/1485_employé.yml) |
 | 1486 | sommet | Gipfel | 11 |  | [Bearbeiten](cards/1486_sommet.yml) |
-| 1487 | franchir | überwinden, überschreiten | 13 | X | [Bearbeiten](cards/1487_franchir.yml) |
+| 1487 | franchir | überqueren, überschreiten | 13 | X | [Bearbeiten](cards/1487_franchir.yml) |
 | 1488 | évident | offensichtlich | 10 |  | [Bearbeiten](cards/1488_évident.yml) |
 | 1489 | comportement | Verhalten | 12 |  | [Bearbeiten](cards/1489_comportement.yml) |
 | 1490 | fête | Fest | 13 | X | [Bearbeiten](cards/1490_fête.yml) |
@@ -1631,13 +1631,13 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 1588 | spécialiste | Spezialist | 6 | X | [Bearbeiten](cards/1588_spécialiste.yml) |
 | 1589 | mari | Ehemann | 4 | X | [Bearbeiten](cards/1589_mari.yml) |
 | 1590 | supprimer | löschen, entfernen | 8 |  | [Bearbeiten](cards/1590_supprimer.yml) |
-| 1591 | guère | kaum | 12 |  | [Bearbeiten](cards/1591_guère.yml) |
+| 1591 | guère | kaum | 12 | X | [Bearbeiten](cards/1591_guère.yml) |
 | 1592 | douter | zweifeln | 12 |  | [Bearbeiten](cards/1592_douter.yml) |
 | 1593 | ressentir | empfinden, spüren | 8 | X | [Bearbeiten](cards/1593_ressentir.yml) |
 | 1594 | sexuel | sexuell | 7 |  | [Bearbeiten](cards/1594_sexuel.yml) |
 | 1595 | consulter | konsultieren, nachschlagen | 4 |  | [Bearbeiten](cards/1595_consulter.yml) |
 | 1596 | renseignement | Information, Auskunft | 12 |  | [Bearbeiten](cards/1596_renseignement.yml) |
-| 1597 | âgé | alt | 5 |  | [Bearbeiten](cards/1597_âgé.yml) |
+| 1597 | âgé | alt [Mensch] | 5 |  | [Bearbeiten](cards/1597_âgé.yml) |
 | 1598 | fonctionnement | Funktionsweise, Betrieb | 2 |  | [Bearbeiten](cards/1598_fonctionnement.yml) |
 | 1599 | garçon | Junge | 14 |  | [Bearbeiten](cards/1599_garçon.yml) |
 | 1600 | parfait | perfekt | 7 |  | [Bearbeiten](cards/1600_parfait.yml) |
@@ -1803,7 +1803,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 1760 | massif | massiv | 7 | X | [Bearbeiten](cards/1760_massif.yml) |
 | 1761 | chute | Fall, Sturz | 12 | X | [Bearbeiten](cards/1761_chute.yml) |
 | 1762 | constant | konstant | 5 |  | [Bearbeiten](cards/1762_constant.yml) |
-| 1763 | sain | gesund | 4 |  | [Bearbeiten](cards/1763_sain.yml) |
+| 1763 | sain | gesund | 3 |  | [Bearbeiten](cards/1763_sain.yml) |
 | 1764 | intégrer | integrieren, aufnehmen | 7 |  | [Bearbeiten](cards/1764_intégrer.yml) |
 | 1765 | aérien | Luft- | 9 |  | [Bearbeiten](cards/1765_aérien.yml) |
 | 1766 | contrairement | im Gegensatz zu, anders als | 10 |  | [Bearbeiten](cards/1766_contrairement.yml) |
@@ -2233,7 +2233,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 2190 | croiser | kreuzen | 3 |  | [Bearbeiten](cards/2190_croiser.yml) |
 | 2191 | plastique | Kunststoff | 8 | X | [Bearbeiten](cards/2191_plastique.yml) |
 | 2192 | autonome | selbstständig, unabhängig | 6 |  | [Bearbeiten](cards/2192_autonome.yml) |
-| 2193 | héritage | Erbe | 4 |  | [Bearbeiten](cards/2193_héritage.yml) |
+| 2193 | héritage | Erbe, Erbschaft | 4 |  | [Bearbeiten](cards/2193_héritage.yml) |
 | 2194 | voyager | reisen | 9 |  | [Bearbeiten](cards/2194_voyager.yml) |
 | 2195 | électronique | Elektronik | 9 |  | [Bearbeiten](cards/2195_électronique.yml) |
 | 2196 | parallèle | Parallele | 12 |  | [Bearbeiten](cards/2196_parallèle.yml) |
@@ -2441,7 +2441,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 2398 | joli | hübsch, schön | 11 |  | [Bearbeiten](cards/2398_joli.yml) |
 | 2399 | promouvoir | befördern | 3 |  | [Bearbeiten](cards/2399_promouvoir.yml) |
 | 2400 | écho | Widerhall | 6 | X | [Bearbeiten](cards/2400_écho.yml) |
-| 2401 | fusion | Verschmelzung | 12 |  | [Bearbeiten](cards/2401_fusion.yml) |
+| 2401 | fusion | Verschmelzung | 11 |  | [Bearbeiten](cards/2401_fusion.yml) |
 | 2402 | innovation | Innovation | 3 |  | [Bearbeiten](cards/2402_innovation.yml) |
 | 2403 | sélection | Auswahl | 9 |  | [Bearbeiten](cards/2403_sélection.yml) |
 | 2404 | confondre | verwechseln, durcheinanderbringen | 10 |  | [Bearbeiten](cards/2404_confondre.yml) |
@@ -2477,7 +2477,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 2434 | domicile | Wohnsitz, Haus- | 12 |  | [Bearbeiten](cards/2434_domicile.yml) |
 | 2435 | oiseau | Vogel | 14 | X | [Bearbeiten](cards/2435_oiseau.yml) |
 | 2436 | quarante | vierzig | 10 | X | [Bearbeiten](cards/2436_quarante.yml) |
-| 2437 | sacrifice | Opfer(-ung) | 6 |  | [Bearbeiten](cards/2437_sacrifice.yml) |
+| 2437 | sacrifice | Opfer(-ung) | 5 |  | [Bearbeiten](cards/2437_sacrifice.yml) |
 | 2438 | barrière | Schranke, Barriere | 8 |  | [Bearbeiten](cards/2438_barrière.yml) |
 | 2439 | biais | Schräge, Umweg, Verzerrung | 5 |  | [Bearbeiten](cards/2439_biais.yml) |
 | 2440 | feuille | Blatt | 14 |  | [Bearbeiten](cards/2440_feuille.yml) |
@@ -2494,7 +2494,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 2451 | préparation | Vorbereitung, Zubereitung | 9 |  | [Bearbeiten](cards/2451_préparation.yml) |
 | 2452 | inverse | Gegenteil; umgekehrt | 5 | X | [Bearbeiten](cards/2452_inverse.yml) |
 | 2453 | intituler | betiteln | 5 |  | [Bearbeiten](cards/2453_intituler.yml) |
-| 2454 | possession | Besitz | 14 |  | [Bearbeiten](cards/2454_possession.yml) |
+| 2454 | possession | Besitz | 12 |  | [Bearbeiten](cards/2454_possession.yml) |
 | 2455 | rejet | Ablehnung, Abweisung | 10 |  | [Bearbeiten](cards/2455_rejet.yml) |
 | 2456 | enseignant | Lehrer, Lehrkraft | 7 | X | [Bearbeiten](cards/2456_enseignant.yml) |
 | 2457 | avérer | sich herausstellen als | 6 |  | [Bearbeiten](cards/2457_avérer.yml) |
@@ -2543,7 +2543,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 2500 | mortel | tödlich, sterblich | 4 |  | [Bearbeiten](cards/2500_mortel.yml) |
 | 2501 | flux | Flut, -fluss | 7 | X | [Bearbeiten](cards/2501_flux.yml) |
 | 2502 | horizon | Horizont | 12 |  | [Bearbeiten](cards/2502_horizon.yml) |
-| 2503 | délivrer | befreien, erlösen | 9 |  | [Bearbeiten](cards/2503_délivrer.yml) |
+| 2503 | délivrer | befreien; ausstellen | 9 |  | [Bearbeiten](cards/2503_délivrer.yml) |
 | 2504 | subvention | Subvention | 11 |  | [Bearbeiten](cards/2504_subvention.yml) |
 | 2505 | formel | ausdrücklich, formell | 2 |  | [Bearbeiten](cards/2505_formel.yml) |
 | 2506 | aggraver | verschlimmern, verschärfen | 4 |  | [Bearbeiten](cards/2506_aggraver.yml) |
@@ -2554,9 +2554,9 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 2511 | bibliothèque | Bibliothek | 11 |  | [Bearbeiten](cards/2511_bibliothèque.yml) |
 | 2512 | absurde | absurd | 6 |  | [Bearbeiten](cards/2512_absurde.yml) |
 | 2513 | océan | Ozean | 10 |  | [Bearbeiten](cards/2513_océan.yml) |
-| 2514 | quelques-uns | einige | 5 | X | [Bearbeiten](cards/2514_quelques-uns.yml) |
+| 2514 | quelques-uns | einige, ein paar | 8 | X | [Bearbeiten](cards/2514_quelques-uns.yml) |
 | 2515 | dicter | diktieren | 4 |  | [Bearbeiten](cards/2515_dicter.yml) |
-| 2516 | tenant | Halter, -inhaber | 6 | X | [Bearbeiten](cards/2516_tenant.yml) |
+| 2516 | tenant | Halter, -inhaber | 5 | X | [Bearbeiten](cards/2516_tenant.yml) |
 | 2517 | stable | stabil | 3 |  | [Bearbeiten](cards/2517_stable.yml) |
 | 2518 | capitaine | Kapitän | 7 |  | [Bearbeiten](cards/2518_capitaine.yml) |
 | 2519 | solliciter | anfragen, ersuchen | 12 |  | [Bearbeiten](cards/2519_solliciter.yml) |
@@ -2576,88 +2576,88 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 2533 | ultime | (aller-)letzte(-r/s), äußerste(-r/s) | 2 |  | [Bearbeiten](cards/2533_ultime.yml) |
 | 2534 | intégration | Integration | 5 |  | [Bearbeiten](cards/2534_intégration.yml) |
 | 2535 | rarement | selten, kaum | 2 |  | [Bearbeiten](cards/2535_rarement.yml) |
-| 2536 | couler | fließen, laufen | 8 |  | [Bearbeiten](cards/2536_couler.yml) |
+| 2536 | couler | fließen, gießen | 8 |  | [Bearbeiten](cards/2536_couler.yml) |
 | 2537 | diversité | Vielfalt | 4 |  | [Bearbeiten](cards/2537_diversité.yml) |
-| 2538 | amuser | unterhalten, amüsieren | 11 |  | [Bearbeiten](cards/2538_amuser.yml) |
+| 2538 | amuser | Spaß machen, unterhalten | 11 |  | [Bearbeiten](cards/2538_amuser.yml) |
 | 2539 | complémentaire | ergänzend, zusätzlich | 5 |  | [Bearbeiten](cards/2539_complémentaire.yml) |
 | 2540 | satisfaisant | befriedigend, zufriedenstellend | 2 |  | [Bearbeiten](cards/2540_satisfaisant.yml) |
-| 2541 | accueil | Empfang, Aufnahme | 9 |  | [Bearbeiten](cards/2541_accueil.yml) |
+| 2541 | accueil | Empfang | 9 |  | [Bearbeiten](cards/2541_accueil.yml) |
 | 2542 | camion | Lastwagen | 7 | X | [Bearbeiten](cards/2542_camion.yml) |
 | 2543 | douloureux | schmerzhaft | 4 |  | [Bearbeiten](cards/2543_douloureux.yml) |
-| 2544 | glisser | rutschen, gleiten, gleiten lassen | 13 |  | [Bearbeiten](cards/2544_glisser.yml) |
+| 2544 | glisser | rutschen, gleiten | 13 |  | [Bearbeiten](cards/2544_glisser.yml) |
 | 2545 | prêtre | Priester | 5 |  | [Bearbeiten](cards/2545_prêtre.yml) |
-| 2546 | indication | Hinweis, Anzeichen | 11 |  | [Bearbeiten](cards/2546_indication.yml) |
+| 2546 | indication | Hinweis, Angabe | 11 |  | [Bearbeiten](cards/2546_indication.yml) |
 | 2547 | exagérer | übertreiben | 8 |  | [Bearbeiten](cards/2547_exagérer.yml) |
-| 2548 | décès | Tod | 7 |  | [Bearbeiten](cards/2548_décès.yml) |
-| 2549 | parisien | pariserisch | 4 | X | [Bearbeiten](cards/2549_parisien.yml) |
+| 2548 | décès | Tod, Ableben | 7 |  | [Bearbeiten](cards/2548_décès.yml) |
+| 2549 | parisien | Pariser | 4 | X | [Bearbeiten](cards/2549_parisien.yml) |
 | 2550 | psychologique | psychologisch | 4 |  | [Bearbeiten](cards/2550_psychologique.yml) |
 | 2551 | réviser | überarbeiten, überprüfen | 4 |  | [Bearbeiten](cards/2551_réviser.yml) |
 | 2552 | profil | Profil | 10 |  | [Bearbeiten](cards/2552_profil.yml) |
 | 2553 | rater | verpassen, verfehlen | 12 |  | [Bearbeiten](cards/2553_rater.yml) |
-| 2554 | respectif | jeweils | 2 |  | [Bearbeiten](cards/2554_respectif.yml) |
+| 2554 | respectif | jeweilig | 2 |  | [Bearbeiten](cards/2554_respectif.yml) |
 | 2555 | tranquille | ruhig, gelassen | 17 |  | [Bearbeiten](cards/2555_tranquille.yml) |
-| 2556 | registre | Register | 12 |  | [Bearbeiten](cards/2556_registre.yml) |
+| 2556 | registre | Register; Ton(-fall) | 12 |  | [Bearbeiten](cards/2556_registre.yml) |
 | 2557 | contemporain | zeitgenössisch | 10 | X | [Bearbeiten](cards/2557_contemporain.yml) |
-| 2558 | exclusif | ausschließlich, exklusiv | 5 |  | [Bearbeiten](cards/2558_exclusif.yml) |
+| 2558 | exclusif | ausschließlich, einzig | 5 |  | [Bearbeiten](cards/2558_exclusif.yml) |
 | 2559 | performance | Leistung | 11 |  | [Bearbeiten](cards/2559_performance.yml) |
-| 2560 | angle | Winkel | 10 |  | [Bearbeiten](cards/2560_angle.yml) |
+| 2560 | angle | Winkel, Ecke | 10 |  | [Bearbeiten](cards/2560_angle.yml) |
 | 2561 | divorce | Scheidung | 12 |  | [Bearbeiten](cards/2561_divorce.yml) |
 | 2562 | fermeture | Schließung, Verschluss | 8 | X | [Bearbeiten](cards/2562_fermeture.yml) |
 | 2563 | affaiblir | schwächen | 5 |  | [Bearbeiten](cards/2563_affaiblir.yml) |
-| 2564 | constamment | ständig, fortwährend | 2 |  | [Bearbeiten](cards/2564_constamment.yml) |
-| 2565 | horreur | Grauen, Schrecken | 15 |  | [Bearbeiten](cards/2565_horreur.yml) |
-| 2566 | envahir | überfallen, einfallen | 4 |  | [Bearbeiten](cards/2566_envahir.yml) |
+| 2564 | constamment | ständig | 2 |  | [Bearbeiten](cards/2564_constamment.yml) |
+| 2565 | horreur | Entsetzen, Schrecken | 15 |  | [Bearbeiten](cards/2565_horreur.yml) |
+| 2566 | envahir | überfallen, strömen in | 4 |  | [Bearbeiten](cards/2566_envahir.yml) |
 | 2567 | pétrolier | Tanker | 3 |  | [Bearbeiten](cards/2567_pétrolier.yml) |
-| 2568 | faculté | Fakultät, Fähigkeit | 10 |  | [Bearbeiten](cards/2568_faculté.yml) |
-| 2569 | brillant | glänzend, strahlend | 7 |  | [Bearbeiten](cards/2569_brillant.yml) |
-| 2570 | pacte | Pakt, Abkommen | 6 |  | [Bearbeiten](cards/2570_pacte.yml) |
-| 2571 | suspect | Verdächtiger | 5 | X | [Bearbeiten](cards/2571_suspect.yml) |
-| 2572 | lent | langsam | 5 | X | [Bearbeiten](cards/2572_lent.yml) |
+| 2568 | faculté | Fachbereich, Fähigkeit | 10 |  | [Bearbeiten](cards/2568_faculté.yml) |
+| 2569 | brillant | glänzend, strahlend | 5 |  | [Bearbeiten](cards/2569_brillant.yml) |
+| 2570 | pacte | Pakt | 6 |  | [Bearbeiten](cards/2570_pacte.yml) |
+| 2571 | suspect | verdächtig | 5 | X | [Bearbeiten](cards/2571_suspect.yml) |
+| 2572 | lent | langsam | 4 | X | [Bearbeiten](cards/2572_lent.yml) |
 | 2573 | assistance | Hilfe, Unterstützung | 12 |  | [Bearbeiten](cards/2573_assistance.yml) |
 | 2574 | négliger | vernachlässigen | 4 |  | [Bearbeiten](cards/2574_négliger.yml) |
 | 2575 | injuste | ungerecht | 6 |  | [Bearbeiten](cards/2575_injuste.yml) |
-| 2576 | plaider | plädieren, verteidigen | 11 |  | [Bearbeiten](cards/2576_plaider.yml) |
+| 2576 | plaider | plädieren | 11 |  | [Bearbeiten](cards/2576_plaider.yml) |
 | 2577 | récompenser | belohnen | 4 |  | [Bearbeiten](cards/2577_récompenser.yml) |
-| 2578 | suppression | Unterdrückung, Beseitigung | 6 |  | [Bearbeiten](cards/2578_suppression.yml) |
-| 2579 | coupure | Unterbrechung, Abschaltung | 11 |  | [Bearbeiten](cards/2579_coupure.yml) |
+| 2578 | suppression | Streichung, Beseitigung | 3 |  | [Bearbeiten](cards/2578_suppression.yml) |
+| 2579 | coupure | Schnitt, Kürzung | 11 |  | [Bearbeiten](cards/2579_coupure.yml) |
 | 2580 | glace | Eis | 7 | X | [Bearbeiten](cards/2580_glace.yml) |
-| 2581 | gare | Bahnhof | 15 | X | [Bearbeiten](cards/2581_gare.yml) |
+| 2581 | gare | Bahnhof; Achtung | 15 | X | [Bearbeiten](cards/2581_gare.yml) |
 | 2582 | drapeau | Flagge | 9 |  | [Bearbeiten](cards/2582_drapeau.yml) |
 | 2583 | réparer | reparieren | 6 |  | [Bearbeiten](cards/2583_réparer.yml) |
-| 2584 | sensibilité | Empfindlichkeit, Sensibilität | 10 |  | [Bearbeiten](cards/2584_sensibilité.yml) |
+| 2584 | sensibilité | Sensibilität | 10 |  | [Bearbeiten](cards/2584_sensibilité.yml) |
 | 2585 | jaune | gelb | 12 | X | [Bearbeiten](cards/2585_jaune.yml) |
-| 2586 | existant | vorhanden, existierend | 2 |  | [Bearbeiten](cards/2586_existant.yml) |
+| 2586 | existant | bestehend | 2 |  | [Bearbeiten](cards/2586_existant.yml) |
 | 2587 | procureur | Staatsanwalt | 4 |  | [Bearbeiten](cards/2587_procureur.yml) |
 | 2588 | informatique | Informatik | 9 |  | [Bearbeiten](cards/2588_informatique.yml) |
 | 2589 | restriction | Einschränkung | 12 |  | [Bearbeiten](cards/2589_restriction.yml) |
 | 2590 | pacifique | friedlich | 2 |  | [Bearbeiten](cards/2590_pacifique.yml) |
-| 2591 | bête | Tier, Bestie | 10 | X | [Bearbeiten](cards/2591_bête.yml) |
+| 2591 | bête | dumm; Tier, Bestie | 10 | X | [Bearbeiten](cards/2591_bête.yml) |
 | 2592 | indicateur | Anzeiger, Indikator | 9 |  | [Bearbeiten](cards/2592_indicateur.yml) |
 | 2593 | racine | Wurzel | 8 | X | [Bearbeiten](cards/2593_racine.yml) |
-| 2594 | compenser | ausgleichen, kompensieren | 4 |  | [Bearbeiten](cards/2594_compenser.yml) |
+| 2594 | compenser | ausgleichen | 4 |  | [Bearbeiten](cards/2594_compenser.yml) |
 | 2595 | maritime | maritim | 7 |  | [Bearbeiten](cards/2595_maritime.yml) |
-| 2596 | gravité | Schwere, Ernsthaftigkeit | 12 |  | [Bearbeiten](cards/2596_gravité.yml) |
+| 2596 | gravité | Ernst, Ausmaß; Schwerkraft | 12 |  | [Bearbeiten](cards/2596_gravité.yml) |
 | 2597 | pénétrer | eindringen, durchdringen | 12 |  | [Bearbeiten](cards/2597_pénétrer.yml) |
 | 2598 | civilisation | Zivilisation, Kultur | 2 |  | [Bearbeiten](cards/2598_civilisation.yml) |
-| 2599 | rouler | fahren, rollen | 12 |  | [Bearbeiten](cards/2599_rouler.yml) |
+| 2599 | rouler | rollen, fahren | 12 |  | [Bearbeiten](cards/2599_rouler.yml) |
 | 2600 | technologique | technologisch | 4 |  | [Bearbeiten](cards/2600_technologique.yml) |
-| 2601 | heurter | stoßen, anstoßen | 10 | X | [Bearbeiten](cards/2601_heurter.yml) |
+| 2601 | heurter | (an-)stoßen | 10 | X | [Bearbeiten](cards/2601_heurter.yml) |
 | 2602 | football | Fußball | 9 | X | [Bearbeiten](cards/2602_football.yml) |
 | 2603 | décevant | enttäuschend | 4 |  | [Bearbeiten](cards/2603_décevant.yml) |
-| 2604 | législation | Gesetzgebung | 13 |  | [Bearbeiten](cards/2604_législation.yml) |
+| 2604 | législation | Gesetzgebung, -recht | 8 |  | [Bearbeiten](cards/2604_législation.yml) |
 | 2605 | approprier | sich aneignen | 8 |  | [Bearbeiten](cards/2605_approprier.yml) |
 | 2606 | tactique | Taktik | 4 |  | [Bearbeiten](cards/2606_tactique.yml) |
 | 2607 | thèse | These | 11 |  | [Bearbeiten](cards/2607_thèse.yml) |
-| 2608 | acceptable | akzeptabel, annehmbar | 4 |  | [Bearbeiten](cards/2608_acceptable.yml) |
-| 2609 | surgir | plötzlich auftauchen, emporsteigen | 3 |  | [Bearbeiten](cards/2609_surgir.yml) |
+| 2608 | acceptable | akzeptabel | 4 |  | [Bearbeiten](cards/2608_acceptable.yml) |
+| 2609 | surgir | (plötzlich) auftauchen | 3 |  | [Bearbeiten](cards/2609_surgir.yml) |
 | 2610 | prince | Prinz | 9 |  | [Bearbeiten](cards/2610_prince.yml) |
 | 2611 | vidéo | Video | 10 |  | [Bearbeiten](cards/2611_vidéo.yml) |
 | 2612 | semer | säen | 7 |  | [Bearbeiten](cards/2612_semer.yml) |
 | 2613 | créateur | Schöpfer | 5 | X | [Bearbeiten](cards/2613_créateur.yml) |
 | 2614 | partenariat | Partnerschaft | 4 |  | [Bearbeiten](cards/2614_partenariat.yml) |
-| 2615 | file | (Warte-)schlange | 8 |  | [Bearbeiten](cards/2615_file.yml) |
+| 2615 | file | Reihe | 8 |  | [Bearbeiten](cards/2615_file.yml) |
 | 2616 | chômeur | Arbeitsloser | 4 |  | [Bearbeiten](cards/2616_chômeur.yml) |
-| 2617 | correct | richtig, passabel | 7 |  | [Bearbeiten](cards/2617_correct.yml) |
+| 2617 | correct | richtig | 6 |  | [Bearbeiten](cards/2617_correct.yml) |
 | 2618 | cuisine | Küche | 12 | X | [Bearbeiten](cards/2618_cuisine.yml) |
 | 2619 | succéder | folgen, nachfolgen | 5 |  | [Bearbeiten](cards/2619_succéder.yml) |
 | 2620 | royaume | Königreich | 3 |  | [Bearbeiten](cards/2620_royaume.yml) |
@@ -2762,7 +2762,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 2719 | embarquer | an Bord gehen, einladen | 9 |  | [Bearbeiten](cards/2719_embarquer.yml) |
 | 2720 | révolte | Aufstand, Rebellion | 3 |  | [Bearbeiten](cards/2720_révolte.yml) |
 | 2721 | intéressé | interessiert | 4 |  | [Bearbeiten](cards/2721_intéressé.yml) |
-| 2722 | formidable | großartig, wunderbar | 4 |  | [Bearbeiten](cards/2722_formidable.yml) |
+| 2722 | formidable | toll, großartig | 4 |  | [Bearbeiten](cards/2722_formidable.yml) |
 | 2723 | tas | Haufen | 9 |  | [Bearbeiten](cards/2723_tas.yml) |
 | 2724 | déjeuner | Mittagessen | 11 | X | [Bearbeiten](cards/2724_déjeuner.yml) |
 | 2725 | disputer | streiten, disputieren | 11 |  | [Bearbeiten](cards/2725_disputer.yml) |
@@ -3477,7 +3477,7 @@ Insgesamt gibt es 5000 Karten mit 40317 Beispielsätzen (durchschnittlich 8.1 pr
 | 3434 | intime | vertraut, intim | 7 |  | [Bearbeiten](cards/3434_intime.yml) |
 | 3435 | cerner | umkreisen, umzingeln, einschließen | 3 |  | [Bearbeiten](cards/3435_cerner.yml) |
 | 3436 | hostilité | Feindseligkeit | 7 |  | [Bearbeiten](cards/3436_hostilité.yml) |
-| 3437 | manche | Ärmelkanal | 12 | X | [Bearbeiten](cards/3437_manche.yml) |
+| 3437 | manche | <span class="disamb">le:</span> Griff, <span class="disamb">la:</span> Ärmel | 16 | X | [Bearbeiten](cards/3437_manche.yml) |
 | 3438 | mathématique | Mathematik | 2 |  | [Bearbeiten](cards/3438_mathématique.yml) |
 | 3439 | gamin | (kleiner) Junge | 11 |  | [Bearbeiten](cards/3439_gamin.yml) |
 | 3440 | induire | verleiten, verursachen | 7 |  | [Bearbeiten](cards/3440_induire.yml) |

@@ -4,10 +4,12 @@ Wort: manche
 Wortart: nm, nf
 
 # Diese Felder gerne verbessern!
-Wort mit Artikel: la manche
+Wort mit Artikel: le/la manche
 Femininum / Plural: ''
 IPA: \mɑ̃ʃ\
-Definition: Ärmelkanal
+Definition: |-
+  <span class="disamb">le:</span> Griff<br>
+  <span class="disamb">la:</span> Ärmel
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -48,6 +50,18 @@ Beispielsätze: |-
 
   Il a travaillé en manches de chemise toute la journée.
   Er hat den ganzen Tag in Hemdsärmeln gearbeitet.
+
+  L'appareil photo est déclenché grâce à un bouton situé sur le manche.
+  Die Kamera wird durch einen Knopf am Griff ausgelöst.
+
+  Son manche est flexible et sa tête s'incline.
+  Ihr Griff ist biegsam, der Kopf lässt sich abwinkeln.
+
+  Le manche et la pointe sont ornés de décors baroques.
+  Der Stiel und die Spitze sind mit barocken Prägungen geschmückt.
+
+  L'utilisation d'aluminium haute qualité rend le manche à la fois léger et robuste.
+  Der Einsatz von hochwertigem Aluminium macht den Stiel zugleich leicht und robust.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
