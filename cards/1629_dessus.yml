@@ -7,7 +7,7 @@ Wortart: adv, nm(pl), prep
 Wort mit Artikel: dessus
 Femininum / Plural: ''
 IPA: \də.sy\
-Definition: oben, darauf
+Definition: oben, darauf; Oberseite
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -69,4 +69,40 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |2-
+      <p><span class="fr">Dessus</span> kann als Adverb, als Nomen und in präpositionalen Ausdrücken verwendet werden.</p>
+
+      <h3>Als Adverb</h3>
+      <p><span class="fr">Dessus</span> wird hauptsächlich als Adverb verwendet und bedeutet <span class="de">"darauf"</span> oder <span class="de">"oben"</span>. Es bezeichnet die obere Seite oder den oberen Teil von etwas.</p>
+      <div class="examples">
+        <div class="fr">Mona a pris la chaise et s'est assise <u>dessus</u>.</div>
+        <div class="de spoiler">Mona nahm den Stuhl und setzte sich <u>darauf</u>.</div>
+        <div class="fr">Regarde <u>dessus</u>, il y a plein de poussière.</div>
+        <div class="de spoiler">Schau <u>oben</u>, es ist voller Staub.</div>
+      </div>
+
+      <h3>Als Nomen</h3>
+      <p>Als Substantiv bezeichnet <span class="fr">dessus</span> den oberen Teil von etwas. Es kann auch in zusammengesetzten Substantiven verwendet werden.</p>
+      <div class="examples">
+        <div class="fr">J'ai mis de la crème fouettée sur le <u>dessus</u> de son gâteau d'anniversaire.</div>
+        <div class="de spoiler">Ich habe Schlagsahne auf die <u>Oberseite</u> seines Geburtstagskuchens gegeben.</div>
+        <div class="fr">Elle s'est acheté un magnifique <u>dessus-de-lit</u>!</div>
+        <div class="de spoiler">Sie hat sich eine wunderschöne <u>Tagesdecke</u> gekauft!</div>
+      </div>
+
+      <h3>Als Präposition</h3>
+      <p>Die Verwendung von <span class="fr">dessus</span> als eigenständige Präposition gilt als veraltet:</p>
+      <div class="examples">
+        <div class="fr" style="text-decoration: line-through">Mettez le livre <u>dessus</u> la table.</div>
+        <div class="fr">Mettez le livre <u>sur</u> la table.</div>
+        <div class="de spoiler">Legen Sie das Buch <u>auf</u> den Tisch.</div>
+      </div>
+      <p>Stattdessen wird es in präpositionalen Ausdrücken – z.B. <span class="fr">au-dessus</span> (#1480) – verwendet, oft mit Bindestrich geschrieben.</p>
+      <div class="examples">
+        <div class="fr">Il te faudrait une pointure <u>au-dessus</u>.</div>
+        <div class="de spoiler">Du bräuchtest eine Größe <u>darüber</u>.</div>
+        <div class="fr">Le chien a sauté <u>par-dessus</u> la clôture.</div>
+        <div class="de spoiler">Der Hund ist <u>über</u> den Zaun gesprungen.</div>
+        <div class="fr">Enlève tes pieds <u>de dessus</u> mon canapé neuf!</div>
+        <div class="de spoiler">Nimm deine Füße <u>von</u> meinem neuen Sofa!</div>
+      </div>

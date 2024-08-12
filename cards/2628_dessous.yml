@@ -7,7 +7,7 @@ Wortart: adv, nm(pl), prep
 Wort mit Artikel: dessous
 Femininum / Plural: ''
 IPA: \də.su\
-Definition: Unterseite, Unterwäsche
+Definition: d(a)runter, unten; Unterseite
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -54,4 +54,38 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <span class="fr">Dessous</span> kann als Adverb, als Nomen und in präpositionalen Ausdrücken verwendet werden.
+
+  <h3>Als Adverb</h3>
+  <p><span class="fr">Dessous</span> wird hauptsächlich als Adverb verwendet und bedeutet <span class="de">"darunter"</span> oder <span class="de">"unten"</span>. Es bezeichnet die untere Seite oder den unteren Teil von etwas.</p>
+  <div class="examples">
+    <div class="fr">Si tu veux le trouver, cherche <u>dessous</u>.</div>
+    <div class="de spoiler">Wenn du es finden willst, such <u>darunter</u>.</div>
+    <div class="fr">Son nom est marqué <u>dessous</u>.</div>
+    <div class="de spoiler">Sein Name steht <u>unten</u>.</div>
+  </div>
+  <h3>Als Nomen</h3>
+  <p>Als Substantiv bezeichnet <span class="fr">dessous</span> den unteren Teil von etwas. Im Plural kann es auch <span class="de">"Unterwäsche"</span> bedeuten.</p>
+  <div class="examples">
+    <div class="fr">Assurez-vous de prendre cette caisse par le <u>dessous</u>; elle est fragile.</div>
+    <div class="de spoiler">Achten Sie darauf, diese Kiste von <u>unten</u> anzufassen; sie ist zerbrechlich.</div>
+    <div class="fr">Odile a oublié d'apporter des <u>dessous</u> dans sa valise.</div>
+    <div class="de spoiler">Odile hat vergessen, <u>Unterwäsche</u> in ihren Koffer zu packen.</div>
+  </div>
+  <h3>Als Präposition</h3>
+  <p>Die Verwendung von <span class="fr">dessous</span> als eigenständige Präposition gilt als veraltet:
+  </p>
+
+  <div class="examples">
+    <div class="fr" style="text-decoration: line-through">Cherchez <u>dessous</u> la table.</div>
+    <div class="fr">Cherchez <u>sous</u> la table.</div>
+    <div class="de spoiler">Suchen Sie <u>unter</u> dem Tisch.</div>
+  </div>
+  <p>Stattdessen wird es in präpositionalen Ausdrücken wie <span class="fr">au-dessous de</span>, <span class="fr">par-dessous</span> oder <span class="fr">en dessous de</span> verwendet.</p>
+  <div class="examples">
+    <div class="fr">Cette nuit, le thermomètre descendra <u>au-dessous de</u> zéro.</div>
+    <div class="de spoiler">In dieser Nacht wird das Thermometer <u>unter</u> null fallen.</div>
+    <div class="fr">Le chien a traversé <u>par-dessous</u> la clôture.</div>
+    <div class="de spoiler">Der Hund ist <u>unter</u> dem Zaun durchgekrochen.</div>
+  </div>
