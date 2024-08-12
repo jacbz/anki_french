@@ -7,7 +7,7 @@ Wortart: adj(f)
 Wort mit Artikel: similaire
 Femininum / Plural: ''
 IPA: \si.mi.lɛʁ\
-Definition: ähnlich
+Definition: ähnlich, vergleichbar
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -30,4 +30,39 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>semblable</i> und <i>similaire</i></div>
+    <div class="section-content">
+      <p>Die Adjektive <span class="fr">semblable</span> (#1978) und <span class="fr">similaire</span> haben ähnliche Bedeutungen und einen gemeinsamen Ursprung, da beide vom lateinischen <i>similis</i> (<span class="de">"ähnlich"</span>, <span class="de">"gleichartig"</span>) abstammen.</p>
+
+      <h3><span class="fr">Semblable</span></h3>
+      <p>Das Adjektiv <span class="fr">semblable</span>, das vom Verb <span class="fr">sembler</span> abgeleitet ist, bezieht sich auf Personen oder Dinge, die sich ähneln, die wesentliche Merkmale teilen, so dass sie als vom gleichen Typ oder von gleicher Natur betrachtet werden.</p>
+      <div class="examples">
+        <div class="fr">Le style d'écriture de ces deux auteurs est semblable.</div>
+        <div class="de spoiler">Der Schreibstil dieser beiden Autoren ist ähnlich.</div>
+        <div class="fr">Mes enfants ont des tempéraments très semblables.</div>
+        <div class="de spoiler">Meine Kinder haben sehr ähnliche Temperamente.</div>
+      </div>
+      <p><span class="fr">Semblable</span> impliziert immer einen Vergleich zwischen Elementen. Wenn es von einem dieser Vergleichselemente gefolgt wird, wird dieses durch die Präposition <span class="fr">à</span> eingeleitet.</p>
+      <div class="examples">
+        <div class="fr">Ton imperméable est semblable au mien.</div>
+        <div class="de spoiler">Dein Regenmantel ist meinem ähnlich.</div>
+      </div>
+      <p>Wenn es mit affektivem Wert vor einem Substantiv verwendet wird, kann <span class="fr">semblable</span> auch <span class="de">"solch"</span> oder <span class="de">"derartig"</span> bedeuten.</p>
+      <div class="examples">
+        <div class="fr">Un semblable engouement pour une première de film, c'est du jamais vu.</div>
+        <div class="de spoiler">Eine solche Begeisterung für eine Filmpremiere, das hat man noch nie gesehen.</div>
+      </div>
+
+      <h3><span class="fr">Similaire</span></h3>
+      <p>Das Adjektiv <span class="fr">similaire</span> gehört vor allem zur technischen oder kommerziellen Sprache. Es drückt einen Vergleich zwischen Elementen aus, die ungefähr gleich oder von gleicher Natur sind, oder die in bestimmten Punkten einander gleichgesetzt werden können.</p>
+      <p>Es wird nie von einem Komplement gefolgt; so würde man nicht sagen: <span class="fr">un produit similaire à un autre</span>, sondern eher <span class="fr">analogue à</span>, <span class="fr">comparable à un autre</span>.</p>
+      <div class="examples">
+        <div class="fr">Les biens importés à des prix très bas ne sont pas d'aussi bonne qualité que les biens similaires produits par les entreprises d'ici.</div>
+        <div class="de spoiler">Die zu sehr niedrigen Preisen importierten Waren sind nicht von so guter Qualität wie ähnliche Waren, die von hiesigen Unternehmen produziert werden.</div>
+        <div class="fr">J'ai acheté en voyage une montre similaire à un prix inférieur.</div>
+        <div class="de spoiler">Ich habe auf einer Reise eine ähnliche Uhr zu einem niedrigeren Preis gekauft.</div>
+      </div>
+    </div>
+  </div>
