@@ -1,6 +1,5 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
-* ähnlich: [semblable](cards/1978_semblable.yml) (#1978), [similaire](cards/2632_similaire.yml) (#2632)
 * deutlich, klar: [nettement](cards/2055_nettement.yml) (#2055), [distinct](cards/2698_distinct.yml) (#2698)
 * Ziel: [destination](cards/2301_destination.yml) (#2301), [cible](cards/2740_cible.yml) (#2740)
 * Gefangener: [prisonnier](cards/1618_prisonnier.yml) (#1618), [détenu](cards/2741_détenu.yml) (#2741)
@@ -93,7 +92,6 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * beeilen: [dépêcher](cards/3771_dépêcher.yml) (#3771), [hâter](cards/4754_hâter.yml) (#4754)
 * verbinden: [relier](cards/1670_relier.yml) (#1670), [connecter](cards/4772_connecter.yml) (#4772)
 * früher, einst: [autrefois](cards/2384_autrefois.yml) (#2384), [jadis](cards/4795_jadis.yml) (#4795)
-* fortschrittlich: [progressif](cards/2664_progressif.yml) (#2664), [progressiste](cards/4799_progressiste.yml) (#4799)
 * Alter: [âge](cards/0502_âge.yml) (#502), [vieillesse](cards/4813_vieillesse.yml) (#4813)
 * Batterie: [pile](cards/3893_pile.yml) (#3893), [batterie](cards/4816_batterie.yml) (#4816)
 * wiederholen: [répéter](cards/0630_répéter.yml) (#630), [réitérer](cards/4847_réitérer.yml) (#4847)
