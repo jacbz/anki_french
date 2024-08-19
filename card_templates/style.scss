@@ -380,7 +380,6 @@ span.spoiler {
   transform: translateY(0.1em);
 }
 
-
 a {
   text-decoration: none;
   color: #1d4ed8;
@@ -471,7 +470,9 @@ hr {
   }
 }
 
-b, i, u {
+b,
+i,
+u {
   line-height: 100%;
 }
 
@@ -805,6 +806,17 @@ tr.regular_tense {
 
   &.show {
     display: table-row;
+    animation: fade_in_show 0.5s;
+  }
+}
+
+@keyframes fade_in_show {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
   }
 }
 
