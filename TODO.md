@@ -1,8 +1,5 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
-* deutlich, klar: [nettement](cards/2055_nettement.yml) (#2055), [distinct](cards/2698_distinct.yml) (#2698)
-* Ziel: [destination](cards/2301_destination.yml) (#2301), [cible](cards/2740_cible.yml) (#2740)
-* Gefangener: [prisonnier](cards/1618_prisonnier.yml) (#1618), [détenu](cards/2741_détenu.yml) (#2741)
 * Decke: [couverture](cards/1698_couverture.yml) (#1698), [plafond](cards/2823_plafond.yml) (#2823)
 * anfangen, beginnen: [débuter](cards/2426_débuter.yml) (#2426), [amorcer](cards/2897_amorcer.yml) (#2897)
 * beruhigen: [rassurer](cards/1842_rassurer.yml) (#1842), [calmer](cards/2909_calmer.yml) (#2909)
@@ -82,7 +79,6 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * unterscheiden: [distinguer](cards/1807_distinguer.yml) (#1807), [différencier](cards/4620_différencier.yml) (#4620)
 * beschuldigen: [accuser](cards/1147_accuser.yml) (#1147), [inculper](cards/4638_inculper.yml) (#4638)
 * unerträglich: [insupportable](cards/4484_insupportable.yml) (#4484), [intolérable](cards/4664_intolérable.yml) (#4664)
-* Aufstand, Rebellion: [révolte](cards/2720_révolte.yml) (#2720), [rébellion](cards/4665_rébellion.yml) (#4665)
 * Bauer: [paysan](cards/2317_paysan.yml) (#2317), [fermier](cards/4685_fermier.yml) (#4685)
 * beeinflussen: [influencer](cards/2498_influencer.yml) (#2498), [influer](cards/4690_influer.yml) (#4690)
 * grundlegend, wesentlich: [primordial](cards/3744_primordial.yml) (#3744), [fondamentalement](cards/4698_fondamentalement.yml) (#4698)
