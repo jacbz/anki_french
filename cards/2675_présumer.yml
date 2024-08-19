@@ -22,11 +22,11 @@ Beispielsätze: |-
   Les étudiants présument une issue heureuse à leur examen.
   Die Studenten erwarten einen glücklichen Ausgang ihrer Prüfung.
 
-  Il a présumé de ses forces et a tenté de grimper la montagne seul.
-  Er hat seine Kräfte überschätzt und versucht, den Berg alleine zu besteigen.
+  Il a trop présumé de ses forces et a tenté de grimper la montagne seul.
+  Er hat seine Kräfte überschätzt und hat versucht, den Berg alleine zu besteigen.
 
   La police a présumé la victime morte, mais elle était encore en vie.
-  Die Polizei hat die Opfer totsagen, aber sie lebte noch.
+  Die Polizei hat das Opfer totgesagt, aber es lebte noch.
 
   Je présume que tu es d'accord avec ce plan, n'est-ce pas ?
   Ich nehme an, dass du mit diesem Plan einverstanden bist, oder?
@@ -36,4 +36,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>présumer</i> und <i>supposer</i></div>
+    <div class="section-content">
+      <p><span class="fr">Présumer</span> bedeutet <span class="de">"vermuten"</span> oder <span class="de">"annehmen"</span>, impliziert aber ein Bewusstsein für die Möglichkeit eines Irrtums. Es wird verwendet, wenn man etwas für wahrscheinlich oder sehr wahrscheinlich hält, aber anerkennt, dass es sich um eine Wahrscheinlichkeit handelt und falsch sein könnte.</p>
+      <div class="examples">
+        <div class="fr">Je présume qu'il viendra à la fête, mais je n'en suis pas certain.</div>
+        <div class="de spoiler">Ich vermute, dass er zur Party kommen wird, aber ich bin nicht sicher.</div>
+      </div>
+
+      <p><span class="fr">Supposer</span> (#730) bedeutet <span class="de">"annehmen"</span> oder <span class="de">"voraussetzen"</span> im Sinne einer Hypothese oder Prämisse für eine Argumentation oder Demonstration. Es wird oft in mathematischen oder logischen Kontexten verwendet, wo man von einer Annahme ausgeht, um zu weiteren Schlussfolgerungen zu gelangen.</p>
+      <div class="examples">
+        <div class="fr">Supposons que x est égal à 5, nous pouvons alors calculer y.</div>
+        <div class="de spoiler">Angenommen, x ist gleich 5, dann können wir y berechnen.</div>
+      </div>
+
+      <p>Der Hauptunterschied liegt darin, dass bei <span class="fr">présumer</span> das Risiko eines Irrtums im Bewusstsein bleibt, während bei <span class="fr">supposer</span> dieses Risiko (zumindest vorübergehend) ausgeblendet wird, um die Annahme als Werkzeug für weitere Schlussfolgerungen zu nutzen.</p>
+
+      <p>Das englische Wort <span class="de">"assume"</span> entspricht eher <span class="fr">supposer</span>, besonders in mathematischen Kontexten.</p>
+    </div>
+  </div>
