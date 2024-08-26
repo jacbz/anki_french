@@ -7,7 +7,7 @@ Wortart: nf
 Wort mit Artikel: la répartition
 Femininum / Plural: ''
 IPA: \ʁe.paʁ.ti.sjɔ̃\
-Definition: Verteilung
+Definition: Verteilung, Aufteilung
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -39,4 +39,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>répartition</i> und <i>distribution</i></div>
+    <div class="section-content">
+      <p><span class="fr">Répartition</span> bedeutet <span class="de">"Verteilung"</span> oder <span class="de">"Aufteilung"</span> und bezieht sich oft auf die Zuteilung von Ressourcen, Aufgaben oder Verantwortlichkeiten in einem organisierten oder systematischen Sinne.</p>
+      <div class="examples">
+        <div class="fr">La répartition des tâches entre les membres de l'équipe.</div>
+        <div class="de spoiler">Die Verteilung der Aufgaben unter den Teammitgliedern.</div>
+        <div class="fr">Une répartition équitable des ressources.</div>
+        <div class="de spoiler">Eine gerechte Verteilung der Ressourcen.</div>
+      </div>
+      <p><span class="fr">Distribution</span> (#1911) kann ebenfalls <span class="de">"Verteilung"</span> bedeuten, wird aber häufiger im Kontext der Ausgabe oder Lieferung von Gütern oder Dienstleistungen verwendet. Es kann auch die Verbreitung von Informationen oder die Vergabe von Rollen in einem Theaterstück oder Film bezeichnen.</p>
+      <div class="examples">
+        <div class="fr">La distribution des journaux commence tôt le matin.</div>
+        <div class="de spoiler">Die Verteilung der Zeitungen beginnt früh am Morgen.</div>
+        <div class="fr">La distribution des rôles pour le nouveau film a été annoncée.</div>
+        <div class="de spoiler">Die Rollenverteilung für den neuen Film wurde bekannt gegeben.</div>
+      </div>
+      <p>Während beide Wörter <span class="de">"Verteilung"</span> bedeuten können, impliziert <span class="fr">répartition</span> oft eine systematischere oder geplantere Aufteilung, während <span class="fr">distribution</span> häufiger den Prozess des Verteilens oder Ausgebens beschreibt.</p>
+    </div>
+  </div>
