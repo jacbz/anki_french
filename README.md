@@ -37,7 +37,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 40293 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1118 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 40293 Beispielsätzen (durchschnittlich 8.1 pro Karte). 1123 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -596,7 +596,7 @@ Insgesamt gibt es 5000 Karten mit 40293 Beispielsätzen (durchschnittlich 8.1 pr
 | 553 | fond | Boden, Hintergrund | 12 | X | [Bearbeiten](cards/0553_fond.yml) |
 | 554 | public | öffentlich; Publikum | 12 | X | [Bearbeiten](cards/0554_public.yml) |
 | 555 | faux | falsch | 12 | X | [Bearbeiten](cards/0555_faux.yml) |
-| 556 | genre | Art, Gattung | 16 |  | [Bearbeiten](cards/0556_genre.yml) |
+| 556 | genre | Art, Gattung | 16 | X | [Bearbeiten](cards/0556_genre.yml) |
 | 557 | retenir | behalten, zurückhalten | 13 |  | [Bearbeiten](cards/0557_retenir.yml) |
 | 558 | communauté | Gemeinschaft | 13 |  | [Bearbeiten](cards/0558_communauté.yml) |
 | 559 | intéresser | interessieren | 10 |  | [Bearbeiten](cards/0559_intéresser.yml) |
@@ -2500,7 +2500,7 @@ Insgesamt gibt es 5000 Karten mit 40293 Beispielsätzen (durchschnittlich 8.1 pr
 | 2457 | avérer | sich herausstellen als | 6 |  | [Bearbeiten](cards/2457_avérer.yml) |
 | 2458 | papa | Papa | 6 | X | [Bearbeiten](cards/2458_papa.yml) |
 | 2459 | collaborateur | Mitarbeiter | 4 | X | [Bearbeiten](cards/2459_collaborateur.yml) |
-| 2460 | gêner | stören, behindern | 12 |  | [Bearbeiten](cards/2460_gêner.yml) |
+| 2460 | gêner | stören, verlegen machen | 12 |  | [Bearbeiten](cards/2460_gêner.yml) |
 | 2461 | technicien | Techniker | 8 |  | [Bearbeiten](cards/2461_technicien.yml) |
 | 2462 | cycle | Kreislauf, Zyklus | 14 |  | [Bearbeiten](cards/2462_cycle.yml) |
 | 2463 | accumuler | anhäufen, sammeln | 5 |  | [Bearbeiten](cards/2463_accumuler.yml) |
@@ -2772,7 +2772,7 @@ Insgesamt gibt es 5000 Karten mit 40293 Beispielsätzen (durchschnittlich 8.1 pr
 | 2729 | salon | Wohnzimmer; Veranstaltungsraum | 11 |  | [Bearbeiten](cards/2729_salon.yml) |
 | 2730 | infliger | zufügen, verhängen | 8 |  | [Bearbeiten](cards/2730_infliger.yml) |
 | 2731 | repos | Ruhe | 16 |  | [Bearbeiten](cards/2731_repos.yml) |
-| 2732 | déranger | stören, belästigen; sich bemühen | 17 |  | [Bearbeiten](cards/2732_déranger.yml) |
+| 2732 | déranger | stören, belästigen; sich bemühen | 17 | X | [Bearbeiten](cards/2732_déranger.yml) |
 | 2733 | inhabituel | ungewöhnlich | 3 |  | [Bearbeiten](cards/2733_inhabituel.yml) |
 | 2734 | interdiction | Verbot | 12 |  | [Bearbeiten](cards/2734_interdiction.yml) |
 | 2735 | consentir | zustimmen; gewähren | 5 |  | [Bearbeiten](cards/2735_consentir.yml) |
@@ -2792,13 +2792,13 @@ Insgesamt gibt es 5000 Karten mit 40293 Beispielsätzen (durchschnittlich 8.1 pr
 | 2749 | pointer | zeigen, verweisen | 10 |  | [Bearbeiten](cards/2749_pointer.yml) |
 | 2750 | assassiner | ermorden | 2 |  | [Bearbeiten](cards/2750_assassiner.yml) |
 | 2751 | optimiste | optimistisch | 2 | X | [Bearbeiten](cards/2751_optimiste.yml) |
-| 2752 | instaurer | einführen, schaffen | 5 |  | [Bearbeiten](cards/2752_instaurer.yml) |
+| 2752 | instaurer | einführen, schaffen | 5 | X | [Bearbeiten](cards/2752_instaurer.yml) |
 | 2753 | isolé | abgelegen, vereinzelnt | 5 |  | [Bearbeiten](cards/2753_isolé.yml) |
 | 2754 | revendiquer | fordern, beanspruchen | 7 |  | [Bearbeiten](cards/2754_revendiquer.yml) |
 | 2755 | secouer | schütteln, rütteln | 6 |  | [Bearbeiten](cards/2755_secouer.yml) |
 | 2756 | bizarre | seltsam | 4 |  | [Bearbeiten](cards/2756_bizarre.yml) |
 | 2757 | abus | Missbrauch | 12 |  | [Bearbeiten](cards/2757_abus.yml) |
-| 2758 | procédé | Verfahren, Methode | 5 |  | [Bearbeiten](cards/2758_procédé.yml) |
+| 2758 | procédé | Verfahren, Methode | 5 | X | [Bearbeiten](cards/2758_procédé.yml) |
 | 2759 | pêcheur | Fischer | 7 |  | [Bearbeiten](cards/2759_pêcheur.yml) |
 | 2760 | amateur | Hobby-, -liebhaber | 13 | X | [Bearbeiten](cards/2760_amateur.yml) |
 | 2761 | regret | Bedauern, Reue | 12 |  | [Bearbeiten](cards/2761_regret.yml) |
@@ -2815,7 +2815,7 @@ Insgesamt gibt es 5000 Karten mit 40293 Beispielsätzen (durchschnittlich 8.1 pr
 | 2772 | loisir | Freizeit | 5 | X | [Bearbeiten](cards/2772_loisir.yml) |
 | 2773 | chaleur | Hitze, Wärme | 13 | X | [Bearbeiten](cards/2773_chaleur.yml) |
 | 2774 | ranger | aufräumen, ordnen | 10 |  | [Bearbeiten](cards/2774_ranger.yml) |
-| 2775 | partage | Aufteilung, Unterteilung | 10 |  | [Bearbeiten](cards/2775_partage.yml) |
+| 2775 | partage | Unterteilung, Aufteilung | 10 | X | [Bearbeiten](cards/2775_partage.yml) |
 | 2776 | étoile | Stern | 14 | X | [Bearbeiten](cards/2776_étoile.yml) |
 | 2777 | mystère | Geheimnis, Rätsel | 12 |  | [Bearbeiten](cards/2777_mystère.yml) |
 | 2778 | quasi | fast, nahezu | 5 |  | [Bearbeiten](cards/2778_quasi.yml) |
