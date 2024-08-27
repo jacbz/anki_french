@@ -54,4 +54,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: <grammar data-id="Wortendung -ure"></grammar>
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>processus</i> und <i>procédure</i></div>
+    <div class="section-content">
+      <p><span class="fr">Processus</span> (#689) bezieht sich auf eine Abfolge von Vorgängen oder eine Reihe von organisierten, aufeinanderfolgenden Operationen, die auf ein bestimmtes Ergebnis abzielen.</p>
+      <div class="examples">
+        <div class="fr">J'ai écouté un reportage qui expliquait le processus de croissance économique.</div>
+        <div class="de spoiler">Ich habe eine Reportage gehört, die den Prozess des Wirtschaftswachstums erklärte.</div>
+      </div>
+
+      <p><span class="fr">Procédure</span> (#993) beschreibt eine Reihe von Formalitäten oder Schritten, die befolgt werden müssen, oder ein Satz von Regeln, die in einer bestimmten Situation eingehalten werden müssen.</p>
+      <div class="examples">
+        <div class="fr">La pilote a suivi scrupuleusement la procédure d'atterrissage que lui a indiquée la tour de contrôle.</div>
+        <div class="de spoiler">Die Pilotin befolgte gewissenhaft die Landeprozedur, die ihr vom Kontrollturm vorgegeben wurde.</div>
+      </div>
+
+      <p>Zusammenfassend lässt sich sagen: Ein <span class="fr">processus</span> ist eine Abfolge von Vorgängen, und eine <span class="fr">procédure</span> ein Regelwerk zur Erreichung eines bestimmten Ziels.</p>
+    </div>
+  </div>
+  <grammar data-id="Wortendung -ure"></grammar>
