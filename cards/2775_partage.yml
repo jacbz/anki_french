@@ -7,7 +7,7 @@ Wortart: nm
 Wort mit Artikel: le partage
 Femininum / Plural: ''
 IPA: \paʁ.taʒ\
-Definition: Aufteilung, Unterteilung
+Definition: Unterteilung, Aufteilung
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -48,4 +48,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>partage</i> und <i>répartition</i></div>
+    <div class="section-content">
+      <p><span class="fr">Partage</span> (#2775) bezieht sich auf den Akt des Teilens oder Aufteilens von etwas, oft mit der Implikation von Gleichheit oder Fairness. Es kann sowohl materielle als auch immaterielle Dinge betreffen.</p>
+      <div class="examples">
+        <div class="fr">Le partage des biens après le divorce était équitable.</div>
+        <div class="de spoiler">Die Aufteilung der Güter nach der Scheidung war gerecht.</div>
+        <div class="fr">Nous avons fait un partage des tâches ménagères.</div>
+        <div class="de spoiler">Wir haben die Hausarbeiten aufgeteilt.</div>
+      </div>
+      <p><span class="fr">Répartition</span> (#2648) bezeichnet die Verteilung oder Zuteilung von Ressourcen, Aufgaben oder Verantwortlichkeiten. Es impliziert oft eine systematischere oder organisiertere Form der Verteilung.</p>
+      <div class="examples">
+        <div class="fr">La répartition des fonds entre les différents départements a été décidée.</div>
+        <div class="de spoiler">Die Verteilung der Gelder auf die verschiedenen Abteilungen wurde beschlossen.</div>
+        <div class="fr">Il faut revoir la répartition des élèves dans les classes.</div>
+        <div class="de spoiler">Die Verteilung der Schüler auf die Klassen muss überprüft werden.</div>
+      </div>
+      <p>Während <span class="fr">partage</span> oft eine gleichmäßige Aufteilung zwischen Parteien suggeriert, bezieht sich <span class="fr">répartition</span> eher auf die Zuweisung oder Verteilung innerhalb eines Systems oder einer Struktur. <span class="fr">Partage</span> kann auch eine emotionale Komponente des Teilens beinhalten, während <span class="fr">répartition</span> neutraler und technischer ist.</p>
+    </div>
+  </div>
