@@ -7,7 +7,7 @@ Wortart: vt
 Wort mit Artikel: déplorer
 Femininum / Plural: ''
 IPA: \de.plɔ.ʁe\
-Definition: bedauern, beklagen
+Definition: beklagen, bedauern
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -30,4 +30,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>déplorer</i> und <i>regretter</i></div>
+    <div class="section-content">
+      <p><span class="fr">Déplorer</span> bedeutet <span class="de">"beklagen"</span> oder <span class="de">"bedauern"</span>. Es wird oft verwendet, um Missbilligung oder Trauer über etwas Ernsthaftes oder Bedeutendes auszudrücken, oft in einem formelleren oder öffentlicheren Kontext.</p>
+      <div class="examples">
+        <div class="fr">Le ministre a déploré la perte de vies humaines dans l'accident.</div>
+        <div class="de spoiler">Der Minister beklagte den Verlust von Menschenleben bei dem Unfall.</div>
+        <div class="fr">Nous déplorons le manque de financement pour la recherche.</div>
+        <div class="de spoiler">Wir bedauern den Mangel an Finanzierung für die Forschung.</div>
+      </div>
+      <p><span class="fr">Regretter</span> (#1048) bedeutet ebenfalls <span class="de">"bedauern"</span> oder <span class="de">"bereuen"</span>, wird aber häufiger in persönlicheren Kontexten verwendet. Es kann sich auf große und kleine Dinge beziehen und oft auf persönliche Entscheidungen oder Handlungen.</p>
+      <div class="examples">
+        <div class="fr">Je regrette de ne pas avoir étudié plus dur à l'école.</div>
+        <div class="de spoiler">Ich bereue, in der Schule nicht härter gelernt zu haben.</div>
+        <div class="fr">Elle regrette d'avoir manqué la fête hier soir.</div>
+        <div class="de spoiler">Sie bedauert, gestern Abend die Party verpasst zu haben.</div>
+      </div>
+      <p>Während <span class="fr">déplorer</span> oft eine öffentliche oder formelle Missbilligung ausdrückt, wird <span class="fr">regretter</span> häufiger für persönliche Gefühle des Bedauerns oder der Reue verwendet.</p>
+    </div>
+  </div>
