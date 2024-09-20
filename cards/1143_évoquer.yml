@@ -7,7 +7,7 @@ Wortart: vt
 Wort mit Artikel: évoquer
 Femininum / Plural: ''
 IPA: \e.vɔ.ke\
-Definition: hervorrufen
+Definition: hervorrufen, erinnern an
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -30,4 +30,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>évoquer</i> und <i>susciter</i></div>
+    <div class="section-content">
+      <p><span class="fr">Évoquer</span> (#1027) bedeutet <span class="de">"hervorrufen"</span> oder <span class="de">"in Erinnerung rufen"</span>. Es wird oft verwendet, um auf Erinnerungen, Gedanken oder Assoziationen hinzuweisen.</p>
+      <div class="examples">
+        <div class="fr">Cette chanson évoque mes souvenirs d'enfance.</div>
+        <div class="de spoiler">Dieses Lied ruft meine Kindheitserinnerungen hervor.</div>
+        <div class="fr">Le président a évoqué la possibilité d'une nouvelle loi.</div>
+        <div class="de spoiler">Der Präsident erwähnte die Möglichkeit eines neuen Gesetzes.</div>
+      </div>
+      <p><span class="fr">Susciter</span> bedeutet <span class="de">"hervorrufen"</span> oder <span class="de">"auslösen"</span>, aber im Sinne von eine Reaktion oder ein Gefühl erzeugen. Es impliziert oft eine stärkere oder unmittelbarere Wirkung als <span class="fr">évoquer</span>.</p>
+      <div class="examples">
+        <div class="fr">Son discours a suscité beaucoup d'enthousiasme.</div>
+        <div class="de spoiler">Seine Rede hat viel Begeisterung ausgelöst.</div>
+        <div class="fr">Cette décision suscite de nombreuses questions.</div>
+        <div class="de spoiler">Diese Entscheidung wirft viele Fragen auf.</div>
+      </div>
+      <p>Während <span class="fr">évoquer</span> eher mental oder gedanklich orientiert ist, bezieht sich <span class="fr">susciter</span> oft auf konkretere Reaktionen oder Gefühle.</p>
+    </div>
+  </div>
