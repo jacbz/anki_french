@@ -1,3 +1,39 @@
+<script id="options">
+var options = {
+  /* Standardmäßig wird die Übersetzung von Sätzen ausgeblendet und kann durch
+  ein Klicken angezeigt werden. Wenn die Übersetzung standardmäßig angezeigt
+  werden soll, setze den Wert auf false. */
+  "hideSpoilers": true,
+
+  /* Ob der erste Beispielsatz automatisch abgespielt werden soll. */
+  "autoPlaySentence": false,
+
+  /* Welche Konjugationen in der Tabelle angezeigt werden sollen. */
+  "tenses": [
+    "P", // Présent
+    "PC", // Pa. composé
+    "IT", // Imparfait
+    "F", // Futur
+    "IF", // Impératif
+    "G", // Gérondif
+    "C", // Conditionnel
+    "S", // Subjonctif
+    "PS" // Passé simple
+  ],
+
+  /* Standardmäßig wird die kostenlose Google-Translate-API zum Vorlesen von
+  Beispielsätzen verwendet. Stattdessen kann auch die Cloud Text-to-Speech API
+  verwendet werden, die eine natürlichere Aussprache bietet. 1 Million Zeichen
+  pro Monat sind kostenlos. Erstelle ein Projekt in der Google Cloud Console
+  und aktiviere die Cloud Text-to-Speech API.
+  https://cloud.google.com/text-to-speech
+  Füge dann den API-Schlüssel in die Variable ein. */
+  "googleTTSApiKey": "___GOOGLE_TTS_API_KEY___"
+}
+</script>
+
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <meta name="referrer" content="no-referrer" />
 <!-- Dummy element to display in the Answer field in the Card Manager -->

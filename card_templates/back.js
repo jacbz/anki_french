@@ -1,7 +1,5 @@
 ___CONFIG___;
 
-const googleTTSApiKey = "___GOOGLE_TTS_API_KEY___";
-
 const wordWithArticle = document.querySelector(".word");
 const word = wordWithArticle.dataset.word;
 const rank = parseInt(document.querySelector(".rank").dataset.content);
@@ -153,9 +151,13 @@ function formatSentences(within = document) {
   });
 
   within.querySelectorAll(".spoiler").forEach(function (el) {
-    el.onclick = function () {
-      this.classList.toggle("clicked");
-    };
+    if (!options.hideSpoilers) {
+      el.classList.add("clicked");
+    } else {
+      el.onclick = function () {
+        this.classList.toggle("clicked");
+      };
+    }
   });
 
   initAudioButtons(within);
@@ -164,7 +166,7 @@ function formatSentences(within = document) {
 const memoizedTTSUrls = {};
 async function getTTSUrl(text, forceGoogleTranslate = false) {
   // if no API key is set, fallback to use the free Google Translate TTS
-  if (!googleTTSApiKey || forceGoogleTranslate) {
+  if (!options.googleTTSApiKey || forceGoogleTranslate) {
     return `https://translate.google.com/translate_tts?ie=UTF-8&q=${text}&tl=fr-FR&client=tw-ob`;
   }
 
@@ -181,7 +183,7 @@ async function getTTSUrl(text, forceGoogleTranslate = false) {
       textInput = `<speak>${textInput}</speak>`;
     }
     const response = await fetch(
-      `https://texttospeech.googleapis.com/v1/text:synthesize?key=${googleTTSApiKey}`,
+      `https://texttospeech.googleapis.com/v1/text:synthesize?key=${options.googleTTSApiKey}`,
       {
         method: "POST",
         headers: {
@@ -253,6 +255,12 @@ async function initAudioButtons(within = document) {
   });
 }
 
+if (options.autoPlaySentence) {
+  setTimeout(() => {
+    document.querySelector('.play-sentence').click();
+  }, 1000);
+}
+
 refreshExampleSentences();
 formatSentences();
 const nextSentenceButton = document.getElementById("next_sentence");
@@ -289,6 +297,13 @@ if (conjugationTable) {
   const showHideButton = document.getElementById("show-hide-button");
   const label = document.getElementById("show-hide-label");
   const verbClassification = document.getElementById("verb-classification");
+
+  document.querySelectorAll("tr[data-tense]").forEach(function (el) {
+    const dataTense = el.dataset.tense;
+    if (!options.tenses.includes(dataTense)) {
+      el.style.display = "none";
+    }
+  });
 
   const regularTenseRows = document.querySelectorAll("tr.regular_tense");
   if (regularTenseRows.length === 0) {
