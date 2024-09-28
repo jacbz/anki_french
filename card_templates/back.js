@@ -253,12 +253,12 @@ async function initAudioButtons(within = document) {
       }
     };
   });
-}
 
-if (options.autoPlaySentence) {
-  setTimeout(() => {
-    document.querySelector('.play-sentence').click();
-  }, 1000);
+  if (within == document && options.autoPlaySentence) {
+    setTimeout(() => {
+      document.querySelector('.play-sentence').click();
+    }, options.autoPlaySentenceDelay ?? 1000);
+  }
 }
 
 refreshExampleSentences();
