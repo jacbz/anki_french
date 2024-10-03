@@ -1,6 +1,25 @@
+<script id="options">
+  var options = {
+    /* Ob der Beispielsatz vorgelesen werden soll. */
+    "autoPlaySentence": false,
+  
+    /* Standardmäßig wird die kostenlose Google-Translate-API zum Vorlesen von
+    Beispielsätzen verwendet. Stattdessen kann auch die Cloud Text-to-Speech API
+    verwendet werden, die eine natürlichere Aussprache bietet. 1 Million Zeichen
+    pro Monat sind kostenlos. Erstelle ein Projekt in der Google Cloud Console
+    und aktiviere die Cloud Text-to-Speech API.
+    https://cloud.google.com/text-to-speech
+    Füge dann den API-Schlüssel in die Variable ein. */
+    "googleTTSApiKey": "___GOOGLE_TTS_API_KEY___"
+  }
+</script>
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <!-- Dummy element to display in the Question field in the Card Manager -->
 <div style="display: none;">{{Wort}}　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</div>
+<audio>
+  <source src="" />
+</audio>
 <div class="word">{{Wort}}</div>
 {{#Beispielsätze}}
 <div id="single_sentence">
@@ -15,8 +34,8 @@
 </script>
 <script>
   (function () {
-    ___FRONT_FRDE___;
+___COMMONJS___;
 
-    ___COMMONJS___;
+___FRONT_FRDE___;
   })();
 </script>
