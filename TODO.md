@@ -2,8 +2,7 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 
 * Arbeit: [travail](cards/0153_travail.yml) (#153), [boulot](cards/2929_boulot.yml) (#2929)
 * Ende, Spitze: [bout](cards/0508_bout.yml) (#508), [extrémité](cards/2941_extrémité.yml) (#2941)
-* Sendung: [émission](cards/1074_émission.yml) (#1074), [envoi](cards/2960_envoi.yml) (#2960)
-* Gefahr: [danger](cards/0932_danger.yml) (#932), [péril](cards/2969_péril.yml) (#2969)
+* widmen, weihen: [consacrer](cards/0750_consacrer.yml) (#750), [vouer](cards/2950_vouer.yml) (#2950)
 * wirklich, tatsächlich: [réellement](cards/1563_réellement.yml) (#1563), [véritablement](cards/3115_véritablement.yml) (#3115)
 * zusätzlich: [supplémentaire](cards/1267_supplémentaire.yml) (#1267), [additionnel](cards/3131_additionnel.yml) (#3131)
 * heiraten: [marier](cards/1686_marier.yml) (#1686), [épouser](cards/3136_épouser.yml) (#3136)
@@ -36,7 +35,6 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * offensichtlich: [évident](cards/1488_évident.yml) (#1488), [flagrant](cards/3925_flagrant.yml) (#3925)
 * Paar: [couple](cards/1167_couple.yml) (#1167), [paire](cards/3926_paire.yml) (#3926)
 * plötzlich: [soudain](cards/2310_soudain.yml) (#2310), [subit](cards/3930_subit.yml) (#3930)
-* vorübergehend: [temporaire](cards/2885_temporaire.yml) (#2885), [transitoire](cards/3946_transitoire.yml) (#3946)
 * spät: [tard](cards/0348_tard.yml) (#348), [tardif](cards/3947_tardif.yml) (#3947)
 * Kollege: [collègue](cards/1099_collègue.yml) (#1099), [confrère](cards/3971_confrère.yml) (#3971)
 * zusammenarbeiten: [collaborer](cards/2963_collaborer.yml) (#2963), [coopérer](cards/4026_coopérer.yml) (#4026)

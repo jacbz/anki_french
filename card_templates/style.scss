@@ -496,9 +496,12 @@ u {
     margin: 0;
   }
 
-  ul {
+  ul, ol {
     margin: 0;
     padding-inline-start: 1.5em;
+  }
+  
+  li {
     list-style-type: square;
   }
 
@@ -515,7 +518,7 @@ u {
       margin-bottom: 0.75em;
     }
 
-    .fr:not(:first-child) {
+    .fr:not(:first-child), p:not(:first-child) {
       margin-top: 0.5em;
     }
   }

@@ -4,15 +4,27 @@ function formatDefinition() {
 
     if (text.includes(",") || text.includes(";")) {
       text = text.replaceAll(
-        /([^,;]+)/g,
+        /([^,;\[\] ][^,;\]]+)/g,
         (match) => `<span class="no-break">${match}</span>`
       );
-      text = text.replaceAll('<span class="no-break"> ', ' <span class="no-break">');
-      text = text.replaceAll('</span>, <span class="no-break">', ',</span> <span class="no-break">')
-      text = text.replaceAll('</span>; <span class="no-break">', ';</span> <span class="no-break">')
+      text = text.replaceAll(
+        '<span class="no-break"> ',
+        ' <span class="no-break">'
+      );
+      text = text.replaceAll(
+        '</span>, <span class="no-break">',
+        ',</span> <span class="no-break">'
+      );
+      text = text.replaceAll(
+        '</span>; <span class="no-break">',
+        ';</span> <span class="no-break">'
+      );
     }
 
-    text = text.replaceAll(/\(-?(.*?)-?\)/g, '<span class="pre-suffix">$1</span>');
+    text = text.replaceAll(
+      /\(-?(.*?)-?\)/g,
+      '<span class="pre-suffix">$1</span>'
+    );
     text = text.replaceAll(/\[(.*?)\]/g, '<span class="grammar">$&</span>');
 
     def.innerHTML = text;
@@ -112,9 +124,15 @@ async function getTTSUrl(text, forceGoogleTranslate = false, lang = "fr-FR") {
       textInput = textInput.replaceAll("\n", "<break/>");
       textInput = `<speak>${textInput}</speak>`;
     }
-    let voice = { languageCode: "fr-FR", name: "fr-FR-Studio-" + (Math.random() < 0.5 ? "A" : "D") };
+    let voice = {
+      languageCode: "fr-FR",
+      name: "fr-FR-Studio-" + (Math.random() < 0.5 ? "A" : "D"),
+    };
     if (lang === "de-DE") {
-      voice = { languageCode: "de-DE", name: "de-DE-Studio-" + (Math.random() < 0.5 ? "B" : "C") };
+      voice = {
+        languageCode: "de-DE",
+        name: "de-DE-Studio-" + (Math.random() < 0.5 ? "B" : "C"),
+      };
     }
 
     const response = await fetch(
