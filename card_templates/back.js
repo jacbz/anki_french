@@ -177,7 +177,7 @@ async function initAudioButtons(within = document) {
   if (within == document && options.autoPlaySentence) {
     setTimeout(() => {
       if (options.autoPlaySentenceInGerman) {
-        playAudio(sentencesPairs[0].split("\n")[1], "de-DE");
+        playAudio(sentencesPairs[0].split("\n")[1], undefined, "de-DE");
       } else {
         playAudio(sentencesPairs[0].split("\n")[0]);
       }

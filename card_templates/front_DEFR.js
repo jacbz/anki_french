@@ -9,6 +9,6 @@ sentencesInner.innerHTML = `<div class="de">${de}</div>`;
 
 (async () => {
   if (options.autoPlaySentence) {
-    playAudio(de, "de-DE");
+    playAudio(de, undefined, "de-DE");
   }
 })();

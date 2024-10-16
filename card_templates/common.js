@@ -4,7 +4,7 @@ function formatDefinition() {
 
     if (text.includes(",") || text.includes(";")) {
       text = text.replaceAll(
-        /([^,;\[\] ][^,;\]]+)/g,
+        /([^,;\[\] ][^,;\[\]]+[^,;\[\] ])/g,
         (match) => `<span class="no-break">${match}</span>`
       );
       text = text.replaceAll(
@@ -43,8 +43,8 @@ function beautifyText(text, isFrench) {
     text = text.replaceAll("«", '"').replaceAll("»", '"');
     // insert thin non-breaking space before punctuation (but not inside HTML tags)
     text = text.replaceAll(/(?!.*<[^>]+>)(\s?)([?|:|!|;])/g, "\u202F$2");
-    // Replace with French quote marks « ... »
-    text = text.replaceAll(/(?!.*<[^>]+>)"([^"]*)"/g, "«\u202F$1\u202F»");
+    // Replace " with French quote marks « ... », except inside HTML tags
+    text = text.replace(/"([^"]*?)"(?=(?:[^<]*<(?!\/?[^>]+>))*[^<]*$)/g, "«\u202F$1\u202F»");
 
     if (text[0] === "-") {
       text = text.replaceAll("-", "–");
@@ -88,7 +88,7 @@ function shuffleArray(arr, persist = true) {
   return arr;
 }
 
-async function playAudio(text, lang = "fr-FR", customFileName = undefined) {
+async function playAudio(text, customFileName = undefined, lang = "fr-FR") {
   const url = customFileName
     ? getAnkiPrefix() + "/" + customFileName
     : await getTTSUrl(text, false, lang);
@@ -107,6 +107,9 @@ async function playAudio(text, lang = "fr-FR", customFileName = undefined) {
 const memoizedTTSUrls = {};
 
 async function getTTSUrl(text, forceGoogleTranslate = false, lang = "fr-FR") {
+  // unwrap <u> tags
+  text = text.replaceAll(/<u>(.*?)<\/u>/g, "$1");
+  
   // if no API key is set, fallback to use the free Google Translate TTS
   if (!options.googleTTSApiKey || forceGoogleTranslate) {
     return `https://translate.google.com/translate_tts?ie=UTF-8&q=${text}&tl=${lang}&client=tw-ob`;
