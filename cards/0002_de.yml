@@ -13,17 +13,173 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il ne rêve que d’argent et de plaisirs.
-  Er träumt nur von Geld und Vergnügungen.
+  Il ne rêve que *d'*argent et *de* plaisirs.
+  Er träumt nur *von* Geld und Vergnügungen.
 
-  La clé est faite de métal.
-  Der Schlüssel ist aus Metall gemacht.
+  Elle vient *de* finir son travail.
+  Sie hat gerade ihre Arbeit beendet.
 
-  Il ne boit pas de vin, il préfère la bière.
-  Er trinkt keinen Wein, er bevorzugt Bier.
+  Le train *de* Paris à Lyon part dans une heure.
+  Der Zug *von* Paris nach Lyon fährt in einer Stunde ab.
 
-  Il ne boit pas d'eau, il trouve qu'elle n'a pas de goût.
-  Er trinkt kein Wasser, er findet, dass es geschmacklos ist.
+  C'est le livre *de* ma sœur.
+  Das ist das Buch *meiner* Schwester.
+
+  Cette table est faite *de* bois précieux.
+  Dieser Tisch ist *aus* wertvollem Holz gefertigt.
+
+  J'ai besoin *d'*une roue *de* secours pour ma voiture.
+  Ich brauche ein Ersatz*rad* für mein Auto.
+
+  La plupart *des* gens aiment le chocolat.
+  Die meisten *der* Menschen mögen Schokolade.
+
+  Elle a acheté un sac *de* pommes au marché.
+  Sie hat einen Sack Äpfel auf dem Markt gekauft.
+
+  Pierre est un homme *d'*une grande intelligence.
+  Pierre ist ein Mann *von* großer Intelligenz.
+
+  Le comte *de* Monte-Cristo est un personnage célèbre.
+  Der Graf *von* Monte Christo ist eine berühmte Figur.
+
+  La montée *du* chômage inquiète le gouvernement.
+  Der Anstieg *der* Arbeitslosigkeit beunruhigt die Regierung.
+
+  Elle est aimée *de* tous ses collègues.
+  Sie wird *von* all ihren Kollegen geliebt.
+
+  Il est mort *de* vieillesse.
+  Er ist *an* Altersschwäche gestorben.
+
+  *De* temps en temps, j'aime me promener dans le parc.
+  *Von* Zeit zu Zeit spaziere ich gerne im Park.
+
+  Elle a parlé *d'*une voix douce.
+  Sie sprach *mit* sanfter Stimme.
+
+  C'est à vous *de* jouer maintenant.
+  Sie sind jetzt *an der Reihe* zu spielen.
+
+  Je voudrais *du* pain et *de* la confiture, s'il vous plaît.
+  Ich hätte gerne Brot und Marmelade, bitte.
+
+  Il sort *de* la maison tous les matins à 8 heures.
+  Er verlässt das Haus jeden Morgen um 8 Uhr.
+
+  La couleur *du* ciel change au coucher du soleil.
+  Die Farbe *des* Himmels ändert sich bei Sonnenuntergang.
+
+  Elle collectionne *des* timbres rares.
+  Sie sammelt seltene Briefmarken.
+
+  J'ai acheté un billet *de* cent euros pour le concert.
+  Ich habe eine Eintrittskarte für hundert Euro für das Konzert gekauft.
+
+  La Ville *de* Paris organise un festival cet été.
+  Die Stadt Paris organisiert diesen Sommer ein Festival.
+
+  "Cet idiot *de* voisin fait toujours du bruit la nuit !"
+  "Dieser Idiot *von* einem Nachbarn macht immer nachts Lärm!"
+
+  Elle est la plus douée *de* sa classe en mathématiques.
+  Sie ist die Begabteste *ihrer* Klasse in Mathematik.
+
+  Le général *de* Gaulle a joué un rôle important dans l'histoire de France.
+  General *de* Gaulle hat eine wichtige Rolle in der französischen Geschichte gespielt.
+
+  Il a évité *de* répondre à cette question délicate.
+  Er hat es vermieden, auf diese heikle Frage zu antworten.
+
+  Elle boit *du* thé tous les matins.
+  Sie trinkt jeden Morgen Tee.
+
+  Le vin *d'*Italie est réputé dans le monde entier.
+  *Italienischer* Wein ist weltweit bekannt.
+
+  J'ai augmenté mon salaire *de* cinq pour cent cette année.
+  Ich habe mein Gehalt dieses Jahr *um* fünf Prozent erhöht.
+
+  Ce film est *d'*un ennui mortel !
+  Dieser Film ist todlangweilig!
+
+  Elle a fait signe *de* la main à son ami.
+  Sie hat ihrem Freund *mit* der Hand zugewinkt.
+
+  L'accès à l'éducation est un droit fondamental *de* l'homme.
+  Der Zugang zur Bildung ist ein Grund*recht* des Menschen.
+
+  Il gagne cinquante euros *de* l'heure comme consultant.
+  Er verdient fünfzig Euro *pro* Stunde als Berater.
+
+  La crainte *de* l'échec ne doit pas nous empêcher d'essayer.
+  Die Angst *vor* dem Scheitern sollte uns nicht davon abhalten, es zu versuchen.
+
+  Elle est fatiguée *du* voyage et veut se reposer.
+  Sie ist müde *von* der Reise und möchte sich ausruhen.
+
+  *De* mai à juin, les jardins sont en fleurs.
+  *Von* Mai bis Juni blühen die Gärten.
+
+  Il a répondu *d'*une voix aiguë, surpris par la question.
+  Er antwortete *mit* schriller Stimme, überrascht von der Frage.
+
+  C'est l'occasion *de* nous réunir en famille.
+  Das ist eine gute Gelegenheit, uns als Familie zu versammeln.
+
+  Elle a reculé *de* trois pas, effrayée par le chien.
+  Sie ist *um* drei Schritte zurückgewichen, erschrocken von dem Hund.
+
+  Un jeune homme *de* vingt ans a remporté le concours.
+  Ein zwanzigjähriger junger Mann hat den Wettbewerb gewonnen.
+
+  Le meurtre *du* journaliste a choqué tout le pays.
+  Der Mord *an* dem Journalisten hat das ganze Land schockiert.
+
+  Il travaille souvent *de* nuit dans cet hôpital.
+  Er arbeitet oft *nachts* in diesem Krankenhaus.
+
+  Elle a récité le poème *de* mémoire devant toute la classe.
+  Sie hat das Gedicht *aus* dem Gedächtnis vor der ganzen Klasse aufgesagt.
+
+  *D'*un coup de poing, il a brisé la vitre.
+  *Mit* einem Faustschlag hat er die Scheibe zerbrochen.
+
+  Il est difficile *de* trouver un emploi dans ce secteur.
+  Es ist schwierig, in diesem Sektor eine Anstellung zu finden.
+
+  Elle est contente *de* partir en vacances la semaine prochaine.
+  Sie freut sich darauf, nächste Woche in den Urlaub zu fahren.
+
+  Je n'écoute jamais *de* musique classique.
+  Ich höre nie klassische Musik.
+
+  Il a commandé *de* la bière et *des* gâteaux pour la fête.
+  Er hat Bier und Kuchen für die Party bestellt.
+
+  "Cette chienne *de* vie me fatigue parfois !"
+  "Dieses *Hunde*leben macht mich manchmal müde!"
+
+  La majorité *des* Français apprécie la cuisine méditerranéenne.
+  Die Mehrheit *der* Franzosen schätzt die mediterrane Küche.
+
+  Elle porte une bague *d'*or à son doigt.
+  Sie trägt einen Ring *aus* Gold an ihrem Finger.
+
+  Le brochet *de* dix livres a impressionné tous les pêcheurs.
+  Der zehn Pfund schwere Hecht hat alle Angler beeindruckt.
+
+  L'Hôtel *de* la Poste se trouve au centre-ville.
+  Das Hotel zur Post befindet sich im Stadtzentrum.
+
+  Ce couteau *de* cuisine est très bien aiguisé.
+  Dieses Küchen*messer* ist sehr gut geschärft.
+
+  Il ne fait rien *de* la journée sauf regarder la télévision.
+  Er tut den ganzen Tag über nichts außer fernsehen.
+
+  *De* loin en loin, on aperçoit des maisons dans la campagne.
+  Hier und da sieht man Häuser auf dem Land.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

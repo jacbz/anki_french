@@ -13,17 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Une bulle de savon semblerait moins fragile.
-  Eine Seifenblase würde weniger zerbrechlich erscheinen.
+  Une bulle de savon semblerait moins *fragile*.
+  Eine Seifenblase würde weniger *zerbrechlich* erscheinen.
 
-  Attention, c’est un objet fragile.
-  Vorsicht, das ist ein zerbrechlicher Gegenstand.
+  Attention, ce vase est très *fragile* !
+  Vorsicht, diese Vase ist sehr *zerbrechlich*!
 
-  Jean est fragile du cœur et il doit faire attention à son rythme cardiaque.
-  Jean hat ein schwaches Herz und er muss auf seinen Herzschlag achten.
+  Les ailes d'un papillon sont extrêmement *fragiles*.
+  Die Flügel eines Schmetterlings sind äußerst *zerbrechlich*.
 
-  Pierre est fragile de l'estomac et doit faire attention à ce qu'il mange.
-  Pierre hat einen empfindlichen Magen und muss auf seine Ernährung achten.
+  Ma grand-mère a une santé *fragile* depuis son opération.
+  Meine Großmutter hat seit ihrer Operation eine *anfällige* Gesundheit.
+
+  Cet enfant *fragile* a besoin d'une attention particulière.
+  Dieses *zarte* Kind braucht besondere Aufmerksamkeit.
+
+  Son estomac *fragile* ne supporte pas les épices.
+  Sein *empfindlicher* Magen verträgt keine Gewürze.
+
+  Il a un cœur *fragile* et doit éviter les efforts intenses.
+  Er hat ein *schwaches* Herz und muss starke Anstrengungen vermeiden.
+
+  La paix dans cette région reste *fragile*.
+  Der Frieden in dieser Region bleibt *unsicher*.
+
+  Leur bonheur semblait si *fragile* qu'il pouvait s'évanouir à tout moment.
+  Ihr Glück schien so *vergänglich*, dass es jeden Moment verschwinden konnte.
+
+  L'économie du pays est encore *fragile* après la crise.
+  Die Wirtschaft des Landes ist nach der Krise noch *instabil*.
+
+  Ces preuves sont trop *fragiles* pour convaincre le jury.
+  Diese Beweise sind zu *wenig stichhaltig*, um die Jury zu überzeugen.
+
+  L'équilibre écologique de cette île est *fragile*.
+  Das ökologische Gleichgewicht dieser Insel ist *labil*.
+
+  Sa personnalité *fragile* le rend vulnérable au stress.
+  Seine *zerbrechliche* Persönlichkeit macht ihn anfällig für Stress.
+
+  Le système politique du pays reste *fragile*.
+  Das politische System des Landes bleibt *instabil*.
+
+  Cette hypothèse scientifique semble assez *fragile*.
+  Diese wissenschaftliche Hypothese scheint ziemlich *auf schwachen Füßen zu stehen*.
+
+  Les nouveaux-nés sont particulièrement *fragiles* aux infections.
+  Neugeborene sind besonders *anfällig* für Infektionen.
+
+  La gloire est souvent *fragile* et éphémère.
+  Ruhm ist oft *vergänglich* und kurzlebig.
+
+  Ce mécanisme est trop *fragile* pour un usage quotidien.
+  Dieser Mechanismus ist für den täglichen Gebrauch zu *empfindlich*.
+
+  Les orchidées sont des fleurs *fragiles* qui demandent beaucoup de soins.
+  Orchideen sind *empfindliche* Blumen, die viel Pflege benötigen.
+
+  La coalition gouvernementale semble de plus en plus *fragile*.
+  Die Regierungskoalition scheint zunehmend *instabil* zu werden.
+
+  Son ego *fragile* ne supporte pas la moindre critique.
+  Sein *empfindliches* Ego verträgt nicht die geringste Kritik.
+
+  Cette étoffe est très belle, mais aussi très *fragile*.
+  Dieser Stoff ist sehr schön, aber auch sehr *empfindlich*.
+
+  La nature humaine est *fragile* face aux tentations.
+  Die menschliche Natur ist *schwach* gegenüber Versuchungen.
+
+  Les arguments de l'avocat étaient *fragiles* et peu convaincants.
+  Die Argumente des Anwalts waren *nicht stichhaltig* und wenig überzeugend.
+
+  Cet écosystème *fragile* doit être protégé à tout prix.
+  Dieses *empfindliche* Ökosystem muss um jeden Preis geschützt werden.
+
+  Sa victoire électorale reste *fragile* et pourrait être contestée.
+  Sein Wahlsieg bleibt *unsicher* und könnte angefochten werden.
+
+  Les relations diplomatiques entre les deux pays sont *fragiles*.
+  Die diplomatischen Beziehungen zwischen den beiden Ländern sind *instabil*.
+
+  Ce vieux livre est très *fragile* et doit être manipulé avec précaution.
+  Dieses alte Buch ist sehr *zerbrechlich* und muss vorsichtig behandelt werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

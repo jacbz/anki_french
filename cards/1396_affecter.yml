@@ -13,38 +13,122 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elles n’ont pas été affectées par l’accident.
-  Sie waren von dem Unfall nicht betroffen.
+  Elles n'ont pas été *affectées* par l'accident.
+  Sie waren von dem Unfall nicht *betroffen*.
 
-  Cette décision va affecter notre entreprise.
-  Diese Entscheidung wird unser Unternehmen beeinträchtigen.
+  Il *affecte* un air indifférent, mais au fond, il est très inquiet.
+  Er *gibt sich* gleichgültig, aber im Grunde ist er sehr besorgt.
 
-  Le professeur affectait de grands airs et regardait ses élèves avec condescendance.
-  Der Professor tat sehr vornehm und blickte seine Schüler herablassend an.
+  Le directeur a *affecté* Marie au service comptabilité.
+  Der Direktor hat Marie der Buchhaltungsabteilung *zugewiesen*.
 
-  Le directeur a affecté Jean à un poste de chef de projet.
-  Der Direktor hat Jean einen Posten als Projektleiter zugewiesen.
+  Cette maladie *affecte* principalement les poumons.
+  Diese Krankheit *befällt* hauptsächlich die Lungen.
 
-  La mort de son chien l'a beaucoup affecté.
-  Der Tod seines Hundes hat ihn sehr mitgenommen.
+  Nous avons *affecté* ce bâtiment à l'usage exclusif des étudiants.
+  Wir haben dieses Gebäude zur ausschließlichen Nutzung durch Studenten *bestimmt*.
 
-  Les entreprises sont affectées par la récession.
-  Die Unternehmen sind rezessionsgeschädigt.
+  La récession a gravement *affecté* l'industrie automobile.
+  Die Rezession hat die Automobilindustrie stark *getroffen*.
 
-  La ville a affecté une somme importante à la construction d'un nouveau musée.
-  Die Stadt hat eine große Summe für den Bau eines neuen Museums bereitgestellt.
+  Il *affecte* de ne pas comprendre ce qui se passe.
+  Er *tut so*, als würde er nicht verstehen, was vor sich geht.
 
-  Nous avons affecté à chacun de nos collaborateurs une partition personnelle sur le serveur, pour que chacun ait son propre espace de travail.
-  Wir haben jedem Mitarbeiter eine bestimmte Partition auf dem Server zugeordnet, damit jeder seinen eigenen Arbeitsbereich hat.
+  Le professeur a été *affecté* à l'université de Lyon.
+  Der Professor wurde an die Universität Lyon *berufen*.
 
-  Il affecte de faire son travail, mais en réalité il ne fait rien.
-  Er tut so, als ob er arbeiten würde, aber in Wirklichkeit macht er nichts.
+  Ces événements ont profondément *affecté* sa vision du monde.
+  Diese Ereignisse haben seine Weltsicht tief *beeinflusst*.
 
-  Le gouvernement a affecté des troupes dans la région pour assurer la sécurité.
-  Die Regierung hat Truppen in die Gegend verlegt, um für Sicherheit zu sorgen.
+  Le virus a *affecté* presque toute la population de la ville.
+  Das Virus hat fast die gesamte Bevölkerung der Stadt *befallen*.
 
-  Le client a affecté une somme au paiement de la facture.
-  Der Kunde hat einen Betrag zur Zahlung der Rechnung angewiesen.
+  Elle *affecte* un accent britannique quand elle parle anglais.
+  Sie *gibt sich* einen britischen Akzent, wenn sie Englisch spricht.
+
+  Nous avons *affecté* une partie du budget à la recherche.
+  Wir haben einen Teil des Budgets für die Forschung *bereitgestellt*.
+
+  La pollution *affecte* la qualité de l'air dans les grandes villes.
+  Die Verschmutzung *wirkt sich auf* die Luftqualität in den Großstädten *aus*.
+
+  Il s'est fait *affecter* à l'étranger pour apprendre une nouvelle langue.
+  Er hat sich ins Ausland *versetzen* lassen, um eine neue Sprache zu lernen.
+
+  Les cristaux de neige *affectent* souvent une forme hexagonale.
+  Schneekristalle *nehmen* oft eine hexagonale Form *an*.
+
+  Son comportement *affecté* irritait ses collègues.
+  Sein *gekünsteltes* Verhalten irritierte seine Kollegen.
+
+  La nouvelle de son départ m'a beaucoup *affecté*.
+  Die Nachricht von seinem Weggang hat mich sehr *mitgenommen*.
+
+  Le changement climatique *affecte* les écosystèmes du monde entier.
+  Der Klimawandel *wirkt sich auf* Ökosysteme weltweit *aus*.
+
+  Elle *affecte* de ne pas être intéressée, mais je sais qu'elle l'est.
+  Sie *tut so*, als wäre sie nicht interessiert, aber ich weiß, dass sie es ist.
+
+  Le gouvernement a *affecté* des fonds supplémentaires à l'éducation.
+  Die Regierung hat zusätzliche Mittel für die Bildung *bereitgestellt*.
+
+  Cette décision *affectera* l'avenir de l'entreprise.
+  Diese Entscheidung wird die Zukunft des Unternehmens *beeinflussen*.
+
+  Il *affecte* un air supérieur devant ses collègues.
+  Er *gibt sich* seinen Kollegen gegenüber überheblich.
+
+  Le stress chronique peut gravement *affecter* la santé mentale.
+  Chronischer Stress kann die psychische Gesundheit ernsthaft *beeinträchtigen*.
+
+  Nous avons *affecté* chaque employé à un projet spécifique.
+  Wir haben jeden Mitarbeiter einem bestimmten Projekt *zugeordnet*.
+
+  La crise économique a fortement *affecté* le marché de l'emploi.
+  Die Wirtschaftskrise hat den Arbeitsmarkt stark *getroffen*.
+
+  Elle s'*affecte* trop facilement des critiques des autres.
+  Sie lässt sich zu leicht von der Kritik anderer *beeindrucken*.
+
+  Les feuilles de cet arbre *affectent* une forme particulière.
+  Die Blätter dieses Baumes *weisen* eine besondere Form *auf*.
+
+  Le manque de sommeil peut sérieusement *affecter* vos performances.
+  Schlafmangel kann Ihre Leistung ernsthaft *beeinträchtigen*.
+
+  Il a été *affecté* d'une timidité excessive depuis son enfance.
+  Er war seit seiner Kindheit von einer übermäßigen Schüchternheit *betroffen*.
+
+  Nous devons *affecter* plus de ressources à ce département.
+  Wir müssen dieser Abteilung mehr Ressourcen *zuweisen*.
+
+  La sécheresse a gravement *affecté* les récoltes cette année.
+  Die Dürre hat die Ernten in diesem Jahr stark *beeinträchtigt*.
+
+  Elle *affecte* un air de désintérêt pour masquer sa curiosité.
+  Sie *gibt sich* desinteressiert, um ihre Neugier zu verbergen.
+
+  Le bruit constant *affecte* ma concentration au travail.
+  Der ständige Lärm *beeinträchtigt* meine Konzentration bei der Arbeit.
+
+  Nous avons *affecté* une valeur spécifique à chaque variable du programme.
+  Wir haben jeder Variable des Programms einen bestimmten Wert *zugewiesen*.
+
+  Son attitude négative *affecte* l'ambiance de toute l'équipe.
+  Seine negative Einstellung *beeinflusst* die Stimmung des ganzen Teams.
+
+  Il s'est fait *affecter* au service des urgences de l'hôpital.
+  Er hat sich in die Notaufnahme des Krankenhauses *versetzen* lassen.
+
+  Les changements hormonaux peuvent *affecter* l'humeur.
+  Hormonelle Veränderungen können die Stimmung *beeinflussen*.
+
+  Elle *affecte* une indifférence totale face à ses provocations.
+  Sie *gibt vor*, seinen Provokationen gegenüber völlig gleichgültig zu sein.
+
+  Le nouveau système informatique *affectera* toutes nos procédures.
+  Das neue Computersystem wird all unsere Verfahren *beeinflussen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

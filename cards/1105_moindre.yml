@@ -13,41 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il n’avait absolument pas la moindre idée.
-  Er hatte absolut keine Ahnung.
+  Il n'avait absolument pas la *moindre* idée.
+  Er hatte nicht die *geringste* Ahnung.
 
-  Il n’a pas la moindre idée.
-  Er hat nicht die geringste Ahnung.
+  Le *moindre* bruit la réveillait la nuit.
+  Das *geringste* Geräusch weckte sie nachts auf.
 
-  Le moindre bruit l'a réveillé en sursaut.
-  Das geringste Geräusch hat ihn hochschrecken lassen.
+  Nous devrions choisir le *moindre* mal dans cette situation difficile.
+  Wir sollten in dieser schwierigen Situation das *kleinere* Übel wählen.
 
-  Il n'a pas la moindre chance de réussir.
-  Er hat die geringste Chance, erfolgreich zu sein.
+  Elle a acheté une étoffe de *moindre* qualité pour économiser de l'argent.
+  Sie kaufte einen Stoff von *minderer* Qualität, um Geld zu sparen.
 
-  Avec les moindres efforts, il a réussi à atteindre son objectif.
-  Mit den geringsten Bemühungen hat er es geschafft, sein Ziel zu erreichen.
+  Sans le *moindre* doute, il était le meilleur candidat pour le poste.
+  Ohne den *geringsten* Zweifel war er der beste Kandidat für die Stelle.
 
-  Elle a remarqué le moindre détail dans la pièce.
-  Sie hat das kleinste Detail im Raum bemerkt.
+  "Je me sens *moindre* en ce moment", dit-il à son médecin.
+  "Ich fühle mich momentan *angeschlagen*", sagte er zu seinem Arzt.
 
-  La moindre averse suffit à inonder les rues.
-  Der kleinste Regenschauer reicht aus, um die Straßen zu überfluten.
+  Le *moindre* effort semblait insurmontable pour elle ce jour-là.
+  Die *geringste* Anstrengung schien ihr an diesem Tag unüberwindbar.
 
-  Les moindres défauts de ce produit ont été corrigés.
-  Die kleinsten Mängel dieses Produkts wurden behoben.
+  Même le *moindre* apprenti sait comment effectuer cette tâche simple.
+  Selbst der *unerfahrenste* Lehrling weiß, wie man diese einfache Aufgabe erledigt.
 
-  Il a choisi le moindre mal: partir.
-  Er hat das kleinere Übel gewählt: zu gehen.
+  C'est l'avis de certains experts, et non des *moindres*.
+  Das ist die Meinung einiger Experten, und zwar nicht der *unbedeutendsten*.
 
-  Ils ont tous joué un rôle pas des moindres dans ce projet.
-  Sie alle haben eine nicht zu unterschätzende Rolle in diesem Projekt gespielt.
+  Il ne faut pas négliger le *moindre* détail dans cette enquête.
+  Man darf in dieser Untersuchung nicht das *kleinste* Detail vernachlässigen.
 
-  Il ne sait pas faire la moindre division, il est incapable de calculer.
-  Er kann die einfachste Teilungsaufgabe nicht lösen, er ist nicht in der Lage zu rechnen.
+  Son pouvoir n'est pas *moindre* que le vôtre dans cette affaire.
+  Seine Macht ist in dieser Angelegenheit nicht *geringer* als Ihre.
 
-  Il n'a pas le moindre diplôme, il n'a rien à prouver.
-  Er hat nicht ein einziges Zeugnis vorzuweisen, er hat nichts zu beweisen.
+  La distance est *moindre* que vous ne le pensez.
+  Die Entfernung ist *geringer*, als Sie denken.
+
+  Elle a choisi un vin de *moindre* prix pour la réception.
+  Sie wählte einen Wein von *niedrigerem* Preis für den Empfang.
+
+  Au *moindre* geste suspect, les gardes interviendraient.
+  Bei der *geringsten* verdächtigen Bewegung würden die Wachen eingreifen.
+
+  C'est la *moindre* des choses que je puisse faire pour vous remercier.
+  Das ist das *Mindeste*, was ich tun kann, um Ihnen zu danken.
+
+  Le travail est le *moindre* de ses soucis en ce moment.
+  Die Arbeit ist zurzeit seine *geringste* Sorge.
+
+  Ils n'ont pas le *moindre* diplôme pour postuler à ce poste.
+  Sie haben nicht den *geringsten* Abschluss, um sich auf diese Stelle zu bewerben.
+
+  La *moindre* averse pourrait ruiner notre pique-nique.
+  Der *kleinste* Regenschauer könnte unser Picknick ruinieren.
+
+  Ses *moindres* défauts étaient constamment critiqués par ses collègues.
+  Seine *geringsten* Fehler wurden von seinen Kollegen ständig kritisiert.
+
+  Elle ne savait pas faire la *moindre* division, même la plus simple.
+  Sie konnte nicht einmal die *einfachste* Division lösen.
+
+  Un *moindre* prix ne signifie pas toujours une qualité inférieure.
+  Ein *niedrigerer* Preis bedeutet nicht immer eine geringere Qualität.
+
+  Les *moindres* efforts peuvent parfois conduire à de grands résultats.
+  Die *geringsten* Bemühungen können manchmal zu großen Ergebnissen führen.
+
+  "Pas la *moindre*", répondit-il quand on lui demanda s'il ressentait de la douleur.
+  "Nicht im *Geringsten*", antwortete er, als man ihn fragte, ob er Schmerzen habe.
+
+  De deux maux, il faut choisir le *moindre*.
+  Von zwei Übeln muss man das *kleinere* wählen.
+
+  Elle a la *moindre* chance de réussir si elle ne travaille pas davantage.
+  Sie hat die *geringste* Chance zu erfolgreich zu sein, wenn sie nicht mehr arbeitet.
+
+  C'est son *moindre* défaut comparé à tous les autres.
+  Das ist sein *geringstes* Problem im Vergleich zu all den anderen.
+
+  Même le *moindre* inconvénient peut causer des problèmes dans ce projet délicat.
+  Selbst der *kleinste* Nachteil kann bei diesem heiklen Projekt Probleme verursachen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

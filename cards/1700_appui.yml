@@ -13,23 +13,101 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Sa loyauté et son appui me manqueront.
-  Ich werde seine Loyalität und Unterstützung vermissen.
+  Sa loyauté et son *appui* me manqueront.
+  Seine Loyalität und *Unterstützung* werden mir fehlen.
 
-  J’ai besoin de ton appui.
-  Ich brauche deine Unterstützung.
+  Le mur sert d'*appui* à la nouvelle clôture.
+  Die Mauer dient als *Stütze* für den neuen Zaun.
 
-  Le vieil homme a perdu appui et est tombé.
-  Der alte Mann hat den Halt verloren und ist gefallen.
+  Elle a perdu son *appui* et est tombée de l'échelle.
+  Sie hat den *Halt* verloren und ist von der Leiter gefallen.
 
-  La vue depuis la fenêtre était magnifique, mais l'appui de fenêtre était un peu étroit.
-  Der Ausblick aus dem Fenster war wunderschön, aber die Fensterbrüstung war etwas schmal.
+  Le gouvernement cherche l'*appui* du public pour sa nouvelle politique.
+  Die Regierung sucht die *Unterstützung* der Öffentlichkeit für ihre neue Politik.
 
-  Il a présenté plusieurs arguments à l'appui de sa théorie.
-  Er hat mehrere Argumente zum Beweis seiner Theorie vorgebracht.
+  L'*appui* de fenêtre était couvert de plantes en pot.
+  Die *Fensterbank* war mit Topfpflanzen bedeckt.
 
-  Le chat a pris appui sur le rebord de la fenêtre et a sauté sur le toit.
-  Die Katze hat sich auf das Fensterbrett gestützt und ist auf das Dach gesprungen.
+  Il a présenté des documents à l'*appui* de sa demande.
+  Er legte Dokumente zum *Beweis* seines Antrags vor.
+
+  La poutre prend *appui* sur deux colonnes massives.
+  Der Balken *ruht* auf zwei massiven Säulen.
+
+  Sans *appui* financier, le projet ne pourra pas continuer.
+  Ohne finanzielle *Unterstützung* kann das Projekt nicht fortgesetzt werden.
+
+  Le marcheur a pris *appui* sur son bâton pour gravir la pente.
+  Der Wanderer *stützte* sich auf seinen Stock, um den Hang hinaufzusteigen.
+
+  L'*appui* tactique a été crucial pour le succès de l'opération militaire.
+  Die taktische *Unterstützung* war entscheidend für den Erfolg der Militäroperation.
+
+  La décision a été prise avec des preuves à l'*appui*.
+  Die Entscheidung wurde mit *unterstützenden* Beweisen getroffen.
+
+  Le cavalier a senti l'*appui* du cheval sur les rênes.
+  Der Reiter spürte den *Zug* des Pferdes an den Zügeln.
+
+  L'*appui*-tête de la voiture était mal réglé.
+  Die Kopf*stütze* des Autos war falsch eingestellt.
+
+  Elle s'est penchée sur l'*appui* de la fenêtre pour observer la rue.
+  Sie lehnte sich auf die *Brüstung* des Fensters, um die Straße zu beobachten.
+
+  Le patient a besoin d'un *appui* pour marcher après son opération.
+  Der Patient braucht eine *Gehhilfe* nach seiner Operation.
+
+  Les soldats ont demandé un *appui* aérien immédiat.
+  Die Soldaten forderten sofortige Luft*unterstützung* an.
+
+  L'entreprise a gagné l'*appui* d'un investisseur important.
+  Das Unternehmen hat die *Unterstützung* eines wichtigen Investors gewonnen.
+
+  Le pont repose sur plusieurs points d'*appui*.
+  Die Brücke ruht auf mehreren *Stütz*punkten.
+
+  Sans *appui* politique, la réforme n'a aucune chance de passer.
+  Ohne politische *Unterstützung* hat die Reform keine Chance, durchzukommen.
+
+  L'*appui* de la communauté internationale est crucial dans cette crise.
+  Die *Unterstützung* der internationalen Gemeinschaft ist in dieser Krise entscheidend.
+
+  Le gymnaste a pris *appui* sur ses mains pour effectuer la figure.
+  Der Turner *stützte* sich auf seine Hände, um die Figur auszuführen.
+
+  La théorie manque d'*appui* scientifique solide.
+  Der Theorie fehlt eine solide wissenschaftliche *Grundlage*.
+
+  L'*appui* du public a été déterminant pour le succès du film.
+  Die *Unterstützung* des Publikums war entscheidend für den Erfolg des Films.
+
+  Le blessé cherchait un *appui* pour se relever.
+  Der Verletzte suchte nach einer *Stütze*, um aufzustehen.
+
+  L'association compte sur l'*appui* des bénévoles pour organiser l'événement.
+  Der Verein zählt auf die *Unterstützung* von Freiwilligen, um die Veranstaltung zu organisieren.
+
+  Les escaliers n'avaient pas de rampe d'*appui*, ce qui les rendait dangereux.
+  Die Treppe hatte kein *Geländer* zum Festhalten, was sie gefährlich machte.
+
+  Le candidat a gagné l'*appui* de plusieurs syndicats.
+  Der Kandidat hat die *Unterstützung* mehrerer Gewerkschaften gewonnen.
+
+  La structure a besoin d'un *appui* supplémentaire pour supporter le poids.
+  Die Struktur benötigt eine zusätzliche *Stütze*, um das Gewicht zu tragen.
+
+  L'*appui* de sa famille lui a donné la force de continuer.
+  Die *Unterstützung* seiner Familie gab ihm die Kraft weiterzumachen.
+
+  Le cheval a perdu son *appui* sur le sol glissant.
+  Das Pferd verlor den *Halt* auf dem rutschigen Boden.
+
+  Son témoignage a servi d'*appui* à l'accusation.
+  Seine Aussage diente als *Unterstützung* für die Anklage.
+
+  L'athlète a pris *appui* sur le starting-block avant de s'élancer.
+  Der Athlet *stützte* sich auf den Startblock, bevor er loslief.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

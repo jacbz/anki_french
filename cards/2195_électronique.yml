@@ -13,32 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Un message électronique m’informe que le code est erroné.
-  Eine E-Mail-Nachricht teilt mir mit, dass der Code falsch ist.
+  Un message *électronique* m'informe que le code est erroné.
+  Eine *elektronische* Nachricht teilt mir mit, dass der Code falsch ist.
 
-  J’aime étudier l’électronique.
-  Ich mag Elektronik studieren.
+  L'*électronique* a révolutionné notre façon de communiquer.
+  Die *Elektronik* hat unsere Art zu kommunizieren revolutioniert.
 
-  Le calculateur électronique est utilisé pour effectuer des calculs complexes.
-  Der Elektronenrechner wird für komplizierte Berechnungen genutzt.
+  Les composants *électroniques* de mon ordinateur ont besoin d'être remplacés.
+  Die *elektronischen* Bauteile meines Computers müssen ersetzt werden.
 
-  L'électronique embarquée est intégrée dans les voitures modernes.
-  Die Bordelektronik ist in modernen Autos integriert.
+  J'ai acheté une nouvelle montre *électronique* qui mesure aussi mon rythme cardiaque.
+  Ich habe eine neue *elektronische* Uhr gekauft, die auch meinen Herzschlag misst.
 
-  L'émission électronique est utilisée dans les téléviseurs.
-  Die Elektronenstrahlung wird in Fernsehgeräten verwendet.
+  Le microscope *électronique* permet d'observer des structures à l'échelle atomique.
+  Das *Elektronenmikroskop* ermöglicht die Beobachtung von Strukturen auf atomarer Ebene.
 
-  L'installation entièrement électronique est plus efficace qu'une installation mécanique.
-  Die vollelektronische Anlage ist effizienter als eine mechanische Anlage.
+  La musique *électronique* est très populaire dans les clubs nocturnes.
+  *Elektronische* Musik ist in Nachtclubs sehr beliebt.
 
-  La monnaie électronique est un moyen de paiement pratique.
-  Cybercash ist eine praktische Zahlungsmethode.
+  "Mon adresse *électronique* a été piratée !" s'est-il plaint.
+  "Meine *E-Mail-Adresse* wurde gehackt!", hat er sich beschwert.
 
-  L'électronique de bus est utilisée dans les systèmes informatiques.
-  Die Buselektronik wird in Computersystemen eingesetzt.
+  L'émission *électronique* des électrons est un phénomène physique fascinant.
+  Die *Elektronenemission* ist ein faszinierendes physikalisches Phänomen.
 
-  L'électronique de commande est utilisée dans les robots.
-  Die Steuerelektronik wird in Robotern eingesetzt.
+  Les systèmes de paiement *électronique* sont de plus en plus utilisés.
+  *Elektronische* Zahlungssysteme werden immer häufiger verwendet.
+
+  La guerre *électronique* joue un rôle crucial dans les conflits modernes.
+  Der *elektronische* Krieg spielt in modernen Konflikten eine entscheidende Rolle.
+
+  L'*électronique* embarquée des voitures modernes est très sophistiquée.
+  Die *Bordelektronik* moderner Autos ist sehr ausgeklügelt.
+
+  Le flux *électronique* dans les semi-conducteurs est essentiel pour la technologie moderne.
+  Der *Elektronenfluss* in Halbleitern ist für die moderne Technologie von grundlegender Bedeutung.
+
+  L'annuaire *électronique* a remplacé les gros bottins téléphoniques en papier.
+  Das *elektronische* Telefonbuch hat die dicken Papiertelefonbücher ersetzt.
+
+  Les miroirs *électroniques* sont utilisés dans de nombreux appareils scientifiques.
+  *Elektronische* Spiegel werden in vielen wissenschaftlichen Geräten verwendet.
+
+  L'optique *électronique* a permis le développement de puissants microscopes.
+  Die *Elektronenoptik* hat die Entwicklung leistungsfähiger Mikroskope ermöglicht.
+
+  Le sport *électronique* attire de plus en plus de jeunes compétiteurs.
+  Der *E-Sport* zieht immer mehr junge Wettkämpfer an.
+
+  L'*électronique* de spin ouvre de nouvelles perspectives en informatique quantique.
+  Die *Spinelektronik* eröffnet neue Perspektiven in der Quanteninformatik.
+
+  La programmation *électronique* de ma machine à laver est très pratique.
+  Die *elektronische* Programmierung meiner Waschmaschine ist sehr praktisch.
+
+  Les composants *électroniques* miniaturisés ont révolutionné l'industrie des smartphones.
+  Miniaturisierte *elektronische* Bauteile haben die Smartphone-Industrie revolutioniert.
+
+  L'*électronique* de commande régule la température du four automatiquement.
+  Die *Steuerelektronik* regelt die Ofentemperatur automatisch.
+
+  Le faisceau *électronique* du téléviseur balaie l'écran à grande vitesse.
+  Der *Elektronenstrahl* des Fernsehers tastet den Bildschirm mit hoher Geschwindigkeit ab.
+
+  La monnaie *électronique* facilite les transactions internationales.
+  *Elektronisches* Geld erleichtert internationale Transaktionen.
+
+  L'installation entièrement *électronique* a amélioré l'efficacité de l'usine.
+  Die vollelektronische Anlage hat die Effizienz der Fabrik verbessert.
+
+  Les calculateurs *électroniques* ont remplacé les anciennes machines mécaniques.
+  *Elektronische* Rechner haben die alten mechanischen Maschinen ersetzt.
+
+  L'*électronique* de bus permet une communication efficace entre les composants d'un ordinateur.
+  Die *Buselektronik* ermöglicht eine effiziente Kommunikation zwischen den Komponenten eines Computers.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

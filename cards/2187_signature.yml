@@ -13,32 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai besoin de votre signature pour l’emmener.
-  Ich brauche Ihre Unterschrift, um sie mitzunehmen.
+  J'ai besoin de votre *signature* pour l'emmener.
+  Ich brauche Ihre *Unterschrift*, um ihn mitzunehmen.
 
-  Je dois signer le contrat avec ma signature.
-  Ich muss den Vertrag mit meiner Unterschrift unterschreiben.
+  La *signature* du contrat aura lieu demain matin.
+  Die *Unterzeichnung* des Vertrags findet morgen früh statt.
 
-  Le client a apposé sa signature au bas du contrat.
-  Der Kunde hat seine Unterschrift unter den Vertrag gesetzt.
+  Veuillez apposer votre *signature* au bas du document.
+  Bitte setzen Sie Ihre *Unterschrift* unter das Dokument.
 
-  Une signature légalisée est nécessaire pour valider ce document.
-  Eine beglaubigte Unterschrift ist notwendig, um dieses Dokument zu validieren.
+  Le directeur a la *signature* pour tous les chèques de l'entreprise.
+  Der Direktor ist für alle Schecks der Firma *zeichnungsberechtigt*.
 
-  Le directeur général a la signature pour tous les contrats importants.
-  Der Geschäftsführer ist zeichnungsberechtigt für alle wichtigen Verträge.
+  Il faut honorer sa *signature*, c'est une question d'intégrité.
+  Man muss seine *vertraglichen Verpflichtungen* einhalten, das ist eine Frage der Integrität.
 
-  L'entreprise honore sa signature et respecte ses engagements envers ses clients.
-  Die Firma hält sich an ihre vertraglichen Verpflichtungen und respektiert ihre Verpflichtungen gegenüber ihren Kunden.
+  Nous allons procéder à la *signature* de l'accord de paix.
+  Wir werden zur *Unterzeichnung* des Friedensabkommens schreiten.
 
-  Nous allons procéder à la signature du contrat dès que possible.
-  Wir werden den Vertrag so schnell wie möglich unterzeichnen.
+  La *signature* du peintre se trouve dans le coin droit du tableau.
+  Die *Signatur* des Malers befindet sich in der rechten Ecke des Gemäldes.
 
-  Une signature en blanc est un document dangereux qui peut être utilisé à mauvais escient.
-  Eine Blankounterschrift ist ein gefährliches Dokument, das missbräuchlich verwendet werden kann.
+  Pour ce document officiel, une *signature* légalisée est nécessaire.
+  Für dieses offizielle Dokument ist eine beglaubigte *Unterschrift* erforderlich.
 
-  La signature sociale de l'entreprise est apposée sur tous les documents officiels.
-  Die Firmenzeichnung der Firma wird auf alle offiziellen Dokumente angebracht.
+  Ne donnez jamais une *signature* en blanc, c'est très risqué.
+  Geben Sie niemals eine *Blanko-Unterschrift*, das ist sehr riskant.
+
+  La *signature sociale* de l'entreprise a été modifiée récemment.
+  Die *Firmenzeichnung* des Unternehmens wurde kürzlich geändert.
+
+  L'arrêté sera porté à la *signature* du ministre cet après-midi.
+  Die Verordnung wird dem Minister heute Nachmittag zur *Unterschrift* vorgelegt.
+
+  La *signature électronique* devient de plus en plus courante dans les transactions en ligne.
+  Die *elektronische Signatur* wird bei Online-Transaktionen immer häufiger.
+
+  Ce meurtre porte la *signature* d'un tueur en série connu.
+  Dieser Mord trägt die *Handschrift* eines bekannten Serienmörders.
+
+  Le magazine a réuni de prestigieuses *signatures* pour son numéro spécial.
+  Die Zeitschrift hat für ihre Sonderausgabe namhafte *Autoren* versammelt.
+
+  L'écrivain fera une séance de *signatures* à la librairie samedi prochain.
+  Der Schriftsteller wird am nächsten Samstag in der Buchhandlung eine *Signierstunde* abhalten.
+
+  La *signature* du traité de paix a mis fin à des années de conflit.
+  Die *Unterzeichnung* des Friedensvertrags beendete jahrelange Konflikte.
+
+  "Votre *signature* est illisible," a remarqué le notaire.
+  "Ihre *Unterschrift* ist unleserlich", bemerkte der Notar.
+
+  Les *signatures* pour la pétition ont dépassé le million.
+  Die *Unterschriften* für die Petition haben die Millionengrenze überschritten.
+
+  Cette mélodie porte la *signature* musicale du compositeur.
+  Diese Melodie trägt die musikalische *Handschrift* des Komponisten.
+
+  La *signature* spectrale permet d'identifier la composition chimique d'une étoile.
+  Die spektrale *Signatur* ermöglicht es, die chemische Zusammensetzung eines Sterns zu identifizieren.
+
+  Le nouveau système de *signature* numérique renforce la sécurité des transactions.
+  Das neue digitale *Signatur*-System erhöht die Sicherheit von Transaktionen.
+
+  La *signature* de l'architecte est visible sur la façade du bâtiment.
+  Die *Signatur* des Architekten ist an der Fassade des Gebäudes sichtbar.
+
+  Les *signatures* radar des avions sont utilisées pour l'identification en vol.
+  Die Radar-*Signaturen* von Flugzeugen werden zur Identifikation im Flug verwendet.
+
+  Cette décision porte la *signature* du nouveau directeur.
+  Diese Entscheidung trägt die *Handschrift* des neuen Direktors.
+
+  La *signature* acoustique du sous-marin a été détectée par nos sonars.
+  Die akustische *Signatur* des U-Boots wurde von unseren Sonaren erfasst.
+
+  Le tribunal de la *Signature* apostolique a rendu son jugement hier.
+  Das Gericht der apostolischen *Signatur* hat gestern sein Urteil gefällt.
+
+  L'imprimeur vérifie soigneusement les *signatures* avant l'assemblage final du livre.
+  Der Drucker überprüft sorgfältig die *Signaturen*, bevor er das Buch endgültig zusammenstellt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

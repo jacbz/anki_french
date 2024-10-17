@@ -13,23 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je ne suis que le fournisseur. Je ne sais rien.
-  Ich bin nur der Lieferant. Ich weiß nichts.
+  Je ne suis que le *fournisseur*. Je ne sais rien.
+  Ich bin nur der *Lieferant*. Ich weiß von nichts.
 
-  Nous avons besoin d’un nouveau fournisseur.
-  Wir brauchen einen neuen Lieferanten.
+  Nous avons changé de *fournisseur* pour obtenir de meilleurs prix.
+  Wir haben den *Lieferanten* gewechselt, um bessere Preise zu bekommen.
 
-  Vous pouvez trouver ce produit chez votre fournisseur habituel, il y a toujours du stock.
-  Sie finden dieses Produkt bei Ihrem Händler, dort gibt es immer genug Vorrat.
+  La *fournisseuse* habituelle de notre boulangerie est en congé cette semaine.
+  Die übliche *Lieferantin* unserer Bäckerei hat diese Woche Urlaub.
 
-  L'Allemagne est l'un des principaux pays fournisseurs de la France en matière de voitures.
-  Deutschland ist eines der wichtigsten Exportländer für Frankreich in Bezug auf Autos.
+  L'entreprise a été nommée *fournisseur* officiel des Jeux Olympiques.
+  Das Unternehmen wurde zum offiziellen *Ausrüster* der Olympischen Spiele ernannt.
 
-  Leur fournisseur principal est situé en Chine.
-  Ihre Hauptlieferantin befindet sich in China.
+  Ce magasin est mon *fournisseur* attitré pour les produits bio.
+  Dieses Geschäft ist mein Stamm*lieferant* für Bio-Produkte.
 
-  La France importe de nombreux produits des pays fournisseurs d'Europe.
-  Frankreich importiert viele Produkte aus den Ländern, die Frankreich beliefern, in Europa.
+  Notre *fournisseur* principal de pièces détachées a des problèmes de livraison.
+  Unser Haupt*lieferant* für Ersatzteile hat Lieferprobleme.
+
+  Les pays *fournisseurs* de pétrole ont une grande influence sur l'économie mondiale.
+  Die Erdöl *exportierenden* Länder haben einen großen Einfluss auf die Weltwirtschaft.
+
+  J'ai des dettes chez tous mes *fournisseurs*.
+  Ich habe Schulden bei all meinen *Lieferanten*.
+
+  Le *fournisseur* d'accès à Internet a augmenté ses tarifs ce mois-ci.
+  Der Internet*anbieter* hat diesen Monat seine Tarife erhöht.
+
+  La *fournisseuse* de fleurs pour notre mariage était vraiment talentueuse.
+  Die Blumen*lieferantin* für unsere Hochzeit war wirklich talentiert.
+
+  Nous recherchons un nouveau *fournisseur* de matières premières plus respectueux de l'environnement.
+  Wir suchen einen neuen, umweltfreundlicheren *Lieferanten* für Rohstoffe.
+
+  Le Canada est un important pays *fournisseur* de bois pour l'industrie du papier.
+  Kanada ist ein wichtiges *Lieferland* für Holz in der Papierindustrie.
+
+  Notre *fournisseur* habituel n'avait plus l'article en stock.
+  Unser üblicher *Händler* hatte den Artikel nicht mehr auf Lager.
+
+  La société a été désignée *fournisseur* exclusif pour le nouveau stade.
+  Das Unternehmen wurde zum exklusiven *Lieferanten* für das neue Stadion ernannt.
+
+  Le contrat avec notre ancien *fournisseur* de services arrive à expiration le mois prochain.
+  Der Vertrag mit unserem bisherigen Dienst*leister* läuft nächsten Monat aus.
+
+  Cette usine est le principal *fournisseur* de pièces pour l'industrie automobile locale.
+  Diese Fabrik ist der Haupt*zulieferer* von Teilen für die lokale Automobilindustrie.
+
+  Nous avons organisé une réunion avec tous nos *fournisseurs* pour discuter des nouvelles normes de qualité.
+  Wir haben ein Treffen mit all unseren *Lieferanten* organisiert, um die neuen Qualitätsstandards zu besprechen.
+
+  Le *fournisseur* a promis de livrer la marchandise avant la fin de la semaine.
+  Der *Lieferant* hat versprochen, die Ware bis Ende der Woche zu liefern.
+
+  Notre entreprise est devenue le *fournisseur* privilégié de plusieurs grandes chaînes de restaurants.
+  Unser Unternehmen ist zum bevorzugten *Lieferanten* mehrerer großer Restaurantketten geworden.
+
+  La *fournisseuse* de tissu pour notre atelier de couture propose une nouvelle collection chaque saison.
+  Die Stoff*lieferantin* für unser Nähstudio bietet jede Saison eine neue Kollektion an.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

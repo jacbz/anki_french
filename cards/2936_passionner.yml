@@ -13,20 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis passionné de mon travail.
-  Ich bin leidenschaftlich bei meiner Arbeit.
+  Je suis *passionné* de mon travail.
+  Ich bin von meiner Arbeit *begeistert*.
 
-  Ce livre m’a passionné.
-  Dieses Buch hat mich begeistert.
+  Cette émission de télévision *passionne* des millions de téléspectateurs.
+  Diese Fernsehsendung *fesselt* Millionen von Zuschauern.
 
-  Le roman de Victor Hugo, avec ses personnages et ses intrigues complexes, passionne les lecteurs depuis des siècles.
-  Der Roman von Victor Hugo, mit seinen komplexen Figuren und Intrigen, fasziniert die Leser seit Jahrhunderten.
+  Elle s'est *passionnée* pour la photographie dès son plus jeune âge.
+  Sie hat sich schon in jungen Jahren für die Fotografie *begeistert*.
 
-  Depuis qu'elle a vu ce film, elle se passionne pour l'histoire de l'Égypte ancienne.
-  Seit sie diesen Film gesehen hat, begeistert sie sich für die Geschichte des alten Ägypten.
+  Le débat s'est rapidement *passionné*, chacun défendant ardemment son point de vue.
+  Die Debatte wurde schnell *hitzig*, wobei jeder seinen Standpunkt leidenschaftlich verteidigte.
 
-  Ce sujet me passionne, car il touche à des questions fondamentales de notre société.
-  Ich finde dieses Thema äußerst interessant, da es grundlegende Fragen unserer Gesellschaft betrifft.
+  Son discours a *passionné* l'auditoire pendant des heures.
+  Seine Rede hat das Publikum stundenlang *gefesselt*.
+
+  Je me suis *passionné* pour l'histoire de l'art en visitant les musées.
+  Ich habe mich durch Museumsbesuche für Kunstgeschichte *begeistert*.
+
+  Les romans policiers *passionnent* ma grand-mère depuis toujours.
+  Kriminalromane *faszinieren* meine Großmutter schon immer.
+
+  Il faut éviter de trop *passionner* le débat sur ce sujet sensible.
+  Man sollte vermeiden, die Debatte über dieses heikle Thema zu sehr zu *erhitzen*.
+
+  La politique *passionne* certains, mais en laisse d'autres indifférents.
+  Politik *fasziniert* manche, lässt andere aber gleichgültig.
+
+  Les enfants se sont *passionnés* pour ce nouveau jeu vidéo éducatif.
+  Die Kinder haben sich für dieses neue Lernvideospiel *begeistert*.
+
+  Le mystère entourant cette affaire *passionne* l'opinion publique.
+  Das Geheimnis um diese Angelegenheit *fesselt* die öffentliche Meinung.
+
+  Je me *passionne* pour la cuisine depuis que j'ai pris des cours.
+  Ich *begeistere* mich für das Kochen, seit ich Kurse belegt habe.
+
+  Son amour *passionné* pour la musique l'a conduit à devenir compositeur.
+  Seine *leidenschaftliche* Liebe zur Musik hat ihn dazu gebracht, Komponist zu werden.
+
+  Cette conférence sur l'environnement a *passionné* tous les participants.
+  Diese Umweltkonferenz hat alle Teilnehmer *fasziniert*.
+
+  Il ne faut pas se laisser trop *passionner* par les réseaux sociaux.
+  Man sollte sich von sozialen Netzwerken nicht zu sehr *vereinnahmen* lassen.
+
+  Les découvertes scientifiques récentes *passionnent* de plus en plus de jeunes.
+  Die jüngsten wissenschaftlichen Entdeckungen *begeistern* immer mehr junge Menschen.
+
+  Elle s'est *passionnée* pour l'apprentissage des langues étrangères.
+  Sie hat sich für das Erlernen von Fremdsprachen *begeistert*.
+
+  Le match de football a *passionné* les spectateurs jusqu'à la dernière minute.
+  Das Fußballspiel hat die Zuschauer bis zur letzten Minute *gefesselt*.
+
+  Nous nous sommes *passionnés* pour ce projet innovant dès le début.
+  Wir haben uns von Anfang an für dieses innovative Projekt *begeistert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

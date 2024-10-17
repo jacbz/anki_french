@@ -13,11 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le continent africain souffre de tous les maux.
-  Der afrikanische Kontinent leidet unter allen möglichen Übeln.
+  Le *continent* africain souffre de tous les maux.
+  Der afrikanische *Kontinent* leidet unter allen Übeln.
 
-  L’Afrique est un continent très diversifié.
-  Afrika ist ein sehr vielfältiger Kontinent.
+  Les *continents* se déplacent de quelques centimètres par an.
+  Die *Kontinente* bewegen sich jährlich um einige Zentimeter.
+
+  L'Antarctique est le seul *continent* inhabité.
+  Die Antarktis ist der einzige unbewohnte *Kontinent*.
+
+  Les scientifiques ont découvert des vallées sur les *continents* martiens.
+  Die Wissenschaftler haben Täler auf den Mars-*Kontinenten* entdeckt.
+
+  Le *continent* asiatique compte plus de quatre milliards d'habitants.
+  Der asiatische *Kontinent* hat mehr als vier Milliarden Einwohner.
+
+  Pour se rendre sur le *continent*, les insulaires doivent prendre le ferry.
+  Um aufs *Festland* zu kommen, müssen die Inselbewohner die Fähre nehmen.
+
+  Le pont relie l'île au *continent* depuis 1995.
+  Die Brücke verbindet die Insel seit 1995 mit dem *Festland*.
+
+  Un gigantesque amas de déchets forme un septième *continent* dans l'océan Pacifique.
+  Eine riesige Müllansammlung bildet einen siebten *Kontinent* im Pazifischen Ozean.
+
+  Les Britanniques utilisent souvent l'expression "sur le *continent*" pour parler de l'Europe.
+  Die Briten verwenden oft den Ausdruck "auf dem *Kontinent*", wenn sie von Europa sprechen.
+
+  L'Australie est à la fois un pays et un *continent*.
+  Australien ist sowohl ein Land als auch ein *Kontinent*.
+
+  Le cerveau humain reste un *continent* mystérieux à explorer.
+  Das menschliche Gehirn bleibt ein mysteriöser *Kontinent*, den es zu erforschen gilt.
+
+  La Grande-Bretagne s'est séparée du *continent* il y a environ 8000 ans.
+  Großbritannien hat sich vor etwa 8000 Jahren vom *Festland* getrennt.
+
+  Les cinq anneaux olympiques représentent les cinq *continents*.
+  Die fünf olympischen Ringe repräsentieren die fünf *Kontinente*.
+
+  Le tunnel sous la Manche relie le Royaume-Uni au *continent* européen.
+  Der Kanaltunnel verbindet das Vereinigte Königreich mit dem europäischen *Festland*.
+
+  L'Eurasie est le plus grand *continent* de la Terre.
+  Eurasien ist der größte *Kontinent* der Erde.
+
+  Le *continent* américain s'étend du cercle polaire arctique à la Terre de Feu.
+  Der amerikanische *Kontinent* erstreckt sich vom arktischen Polarkreis bis zum Feuerland.
+
+  Les géologues étudient la formation des *continents*.
+  Die Geologen erforschen die Entstehung der *Kontinente*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

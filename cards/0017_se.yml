@@ -13,35 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Avec ce traité, le Japon se rapproche des États-Unis.
-  Mit diesem Vertrag nähert sich Japan den Vereinigten Staaten an.
+  Avec ce traité, le Japon *se* rapproche des États-Unis.
+  Mit diesem Vertrag nähert *sich* Japan den Vereinigten Staaten an.
 
-  Elle se lave les mains.
-  Sie wäscht sich die Hände.
+  Elle *s'*est regardée dans le miroir avant de sortir.
+  Sie hat *sich* im Spiegel betrachtet, bevor sie ausging.
 
-  Il se voit dans le miroir et sourit à son reflet.
-  Er sieht sich im Spiegel und lächelt sein Spiegelbild an.
+  Les enfants *se* sont amusés toute la journée au parc.
+  Die Kinder haben *sich* den ganzen Tag im Park vergnügt.
 
-  Ils se suivent dans la rue, chacun perdu dans ses pensées.
-  Sie folgen einander auf der Straße, jeder in seinen Gedanken versunken.
+  Il *se* demande s'il a pris la bonne décision.
+  Er fragt *sich*, ob er die richtige Entscheidung getroffen hat.
 
-  Elle se demande s'il a raison de se montrer si pessimiste.
-  Sie fragt sich, ob er Recht hat, so pessimistisch zu sein.
+  Nous *nous* sommes rencontrés par hasard au marché.
+  Wir sind *uns* zufällig auf dem Markt begegnet.
 
-  Ils se nettoient les mains après avoir travaillé dans le jardin.
-  Sie machen sich die Hände sauber, nachdem sie im Garten gearbeitet haben.
+  Le château *se* dresse majestueusement sur la colline.
+  Das Schloss erhebt *sich* majestätisch auf dem Hügel.
 
-  Il se nettoie les ongles avec soin, avant de sortir dîner.
-  Er macht sich die Nägel sorgfältig sauber, bevor er zum Essen ausgeht.
+  Elle *s'*est fait couper les cheveux hier.
+  Sie hat *sich* gestern die Haare schneiden lassen.
 
-  Ils se nettoient les ongles avant d'aller au restaurant.
-  Sie machen sich die Nägel sauber, bevor sie ins Restaurant gehen.
+  Les deux équipes *se* sont affrontées dans un match serré.
+  Die beiden Mannschaften haben *sich* in einem engen Spiel gemessen.
 
-  Elle se fait couper les cheveux chez le coiffeur du coin.
-  Sie lässt sich die Haare beim Friseur um die Ecke schneiden.
+  "Il faut *se* méfier des apparences," dit le proverbe.
+  "Man muss *sich* vor dem Schein hüten," sagt das Sprichwort.
 
-  Ils se font couper les cheveux tous les deux mois, pour garder un style soigné.
-  Sie lassen sich alle zwei Monate die Haare schneiden, um einen gepflegten Look zu bewahren.
+  Le chien *s'*est endormi sur le canapé.
+  Der Hund ist auf dem Sofa eingeschlafen.
+
+  Ils *se* sont promis de rester amis pour toujours.
+  Sie haben *sich* versprochen, für immer Freunde zu bleiben.
+
+  Cette erreur ne *se* reproduira plus à l'avenir.
+  Dieser Fehler wird *sich* in Zukunft nicht wiederholen.
+
+  Le bruit *s'*est propagé rapidement dans tout le quartier.
+  Der Lärm hat *sich* schnell im ganzen Viertel ausgebreitet.
+
+  Elle *s'*est inscrite à un cours de yoga en ligne.
+  Sie hat *sich* für einen Online-Yogakurs angemeldet.
+
+  Les manifestants *se* sont rassemblés devant la mairie.
+  Die Demonstranten haben *sich* vor dem Rathaus versammelt.
+
+  Il *s'*est blessé au genou en jouant au football.
+  Er hat *sich* beim Fußballspielen am Knie verletzt.
+
+  Le soleil *se* lève à l'est et se couche à l'ouest.
+  Die Sonne geht im Osten auf und geht im Westen unter.
+
+  Elle *s'*est fait un café avant de commencer à travailler.
+  Sie hat *sich* einen Kaffee gemacht, bevor sie mit der Arbeit begann.
+
+  Les oiseaux *se* sont envolés à l'approche du chat.
+  Die Vögel sind beim Näherkommen der Katze davongeflogen.
+
+  Il *se* lave les mains avant chaque repas.
+  Er wäscht *sich* vor jeder Mahlzeit die Hände.
+
+  La porte *s'*est ouverte toute seule, comme par magie.
+  Die Tür hat *sich* wie von Zauberhand geöffnet.
+
+  Ils *se* sont mariés l'année dernière en petit comité.
+  Sie haben letztes Jahr im kleinen Kreis geheiratet.
+
+  Le fromage *se* conserve mieux au réfrigérateur.
+  Der Käse hält *sich* im Kühlschrank besser.
+
+  Elle *s'*est excusée pour son retard.
+  Sie hat *sich* für ihre Verspätung entschuldigt.
+
+  Les deux amis *se* sont réconciliés après leur dispute.
+  Die beiden Freunde haben *sich* nach ihrem Streit versöhnt.
+
+  Il *s'*est endormi en lisant son livre.
+  Er ist beim Lesen seines Buches eingeschlafen.
+
+  La situation *s'*est améliorée ces derniers mois.
+  Die Situation hat *sich* in den letzten Monaten verbessert.
+
+  Elle *s'*est souvenue de son rendez-vous à la dernière minute.
+  Sie hat *sich* in letzter Minute an ihren Termin erinnert.
+
+  Les enfants *se* sont cachés dans le placard pendant le jeu.
+  Die Kinder haben *sich* während des Spiels im Schrank versteckt.
+
+  Il *se* brosse les dents trois fois par jour.
+  Er putzt *sich* dreimal täglich die Zähne.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

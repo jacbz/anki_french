@@ -13,29 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous êtes en état d’arrestation.
-  Sie sind verhaftet.
+  Vous êtes en état d'*arrestation*.
+  Sie sind *verhaftet*.
 
-  La police a procédé à l’arrestation du suspect.
-  Die Polizei hat den Verdächtigen verhaftet.
+  L'*arrestation* arbitraire du journaliste a provoqué un scandale international.
+  Die willkürliche *Verhaftung* des Journalisten hat einen internationalen Skandal ausgelöst.
 
-  La police a procédé à une arrestation arbitraire de plusieurs manifestants.
-  Die Polizei nahm mehrere Demonstranten willkürlich fest.
+  La police a procédé à l'*arrestation* du suspect hier soir.
+  Die Polizei hat gestern Abend die *Festnahme* des Verdächtigen durchgeführt.
 
-  L'arrestation illégale du journaliste a suscité une vague de protestations.
-  Die widerrechtliche Verhaftung des Journalisten löste eine Welle von Protesten aus.
+  Son *arrestation* fut de courte durée car il a prouvé son innocence.
+  Seine *Haft* war nur von kurzer Dauer, da er seine Unschuld beweisen konnte.
 
-  L'homme est en détention provisoire depuis plusieurs semaines.
-  Der Mann sitzt seit mehreren Wochen in Untersuchungshaft.
+  Le juge a ordonné l'*arrestation* préventive du suspect.
+  Der Richter hat die *Vorbeugehaft* des Verdächtigen angeordnet.
 
-  L'arrestation préventive peut être une mesure nécessaire pour éviter des crimes.
-  Vorbeugehaft kann eine notwendige Maßnahme sein, um Straftaten zu verhindern.
+  Les manifestations ont conduit à des *arrestations* en masse.
+  Die Demonstrationen führten zu *Massenverhaftungen*.
 
-  Les arrestations en masse sont souvent utilisées pour intimider la population.
-  Massenverhaftungen werden oft eingesetzt, um die Bevölkerung einzuschüchtern.
+  L'avocat conteste la légalité de cette *arrestation*.
+  Der Anwalt bestreitet die Rechtmäßigkeit dieser *Festnahme*.
 
-  Vous êtes en état d'arrestation! Vous avez le droit de rester silencieux.
-  Sie sind verhaftet! Sie haben das Recht zu schweigen.
+  Le mandat d'*arrestation* a été émis ce matin.
+  Der *Haftbefehl* wurde heute Morgen ausgestellt.
+
+  Une *arrestation* provisoire peut durer jusqu'à 48 heures.
+  Eine vorläufige *Festnahme* kann bis zu 48 Stunden dauern.
+
+  Les témoins ont filmé l'*arrestation* avec leurs téléphones.
+  Die Zeugen haben die *Festnahme* mit ihren Handys gefilmt.
+
+  Suite à son *arrestation*, il a immédiatement demandé un avocat.
+  Nach seiner *Verhaftung* hat er sofort einen Anwalt verlangt.
+
+  L'*arrestation* illégale a été condamnée par les organisations des droits de l'homme.
+  Die widerrechtliche *Verhaftung* wurde von Menschenrechtsorganisationen verurteilt.
+
+  Les policiers ont procédé à l'*arrestation* sans violence.
+  Die Polizisten haben die *Festnahme* ohne Gewalt durchgeführt.
+
+  Cette *arrestation* préventive vise à empêcher d'autres crimes.
+  Diese *Vorbeugehaft* soll weitere Verbrechen verhindern.
+
+  L'*arrestation* a eu lieu en pleine rue, devant des dizaines de témoins.
+  Die *Festnahme* erfolgte mitten auf der Straße vor Dutzenden von Zeugen.
+
+  Le suspect s'est rendu sans résistance lors de son *arrestation*.
+  Der Verdächtige ergab sich bei seiner *Verhaftung* widerstandslos.
+
+  La nouvelle de son *arrestation* a fait la une des journaux.
+  Die Nachricht von seiner *Festnahme* machte Schlagzeilen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

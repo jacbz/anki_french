@@ -13,35 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous savons comment gérer l’éducation.
-  Wir wissen, wie man mit Bildung umgeht.
+  Nous savons comment *gérer* l'éducation.
+  Wir wissen, wie man Bildung *verwaltet*.
 
-  Je dois gérer mon temps plus efficacement.
-  Ich muss meine Zeit effektiver verwalten.
+  Elle *gère* efficacement cette succursale depuis des années.
+  Sie *leitet* diese Filiale seit Jahren effizient.
 
-  Elle gère un immeuble dans le centre-ville.
-  Sie verwaltet eine Immobilie in der Innenstadt.
+  Mon frère *gère* un petit magasin de vélos en centre-ville.
+  Mein Bruder *führt* einen kleinen Fahrradladen in der Innenstadt.
 
-  Jean gère un portefeuille de plusieurs actions.
-  Jean verwaltet einen Fonds aus mehreren Aktien.
+  L'agence immobilière *gère* plusieurs immeubles dans le quartier.
+  Die Immobilienagentur *verwaltet* mehrere Gebäude in der Nachbarschaft.
 
-  Il a du mal à gérer son passé, marqué par une enfance difficile.
-  Er hat Schwierigkeiten, sich mit seiner Vergangenheit auseinanderzusetzen, die von einer schwierigen Kindheit geprägt ist.
+  Le conseil d'administration *gère* la société depuis sa création.
+  Der Vorstand ist seit der Gründung mit der *Gesellschaftsführung beauftragt*.
 
-  Il a décidé de gérer son temps libre en s'inscrivant à un cours de peinture.
-  Er hat sich entschieden, seine Freizeit sinnvoll zu gestalten, indem er sich für einen Malkurs angemeldet hat.
+  Avec ce nouvel emploi, j'apprends à mieux *gérer* mon budget.
+  Mit diesem neuen Job lerne ich, besser zu *wirtschaften*.
 
-  Marie est chargée de gérer la société familiale.
-  Marie ist mit der Gesellschaftsführung des Familienunternehmens beauftragt.
+  "Ne t'inquiète pas pour le projet, je *gère*!"
+  "Mach dir keine Sorgen um das Projekt, ich *kriege das in den Griff*!"
 
-  Il est important de bien gérer son budget pour éviter les problèmes financiers.
-  Es ist wichtig, gut zu wirtschaften, um finanzielle Probleme zu vermeiden.
+  Le logiciel aide à *gérer* efficacement les stocks de l'entreprise.
+  Die Software hilft dabei, die Lagerbestände des Unternehmens effizient zu *verwalten*.
 
-  Il a mal géré son budget et s'est retrouvé endetté.
-  Er hat schlecht gewirtschaftet und sich verschuldet.
+  Il a du mal à *gérer* ses émotions dans des situations stressantes.
+  Er hat Schwierigkeiten, seine Emotionen in stressigen Situationen zu *beherrschen*.
 
-  Elle gère ses finances sans réfléchir et se retrouve souvent à découvert.
-  Sie wirtschaftet drauflos und ist oft im Minus.
+  Le gouvernement tente de *gérer* la crise économique actuelle.
+  Die Regierung versucht, die aktuelle Wirtschaftskrise *in den Griff zu bekommen*.
+
+  Après la thérapie, elle a appris à mieux *gérer* son passé traumatique.
+  Nach der Therapie hat sie gelernt, sich besser *mit ihrer traumatischen Vergangenheit auseinanderzusetzen*.
+
+  Les parents doivent apprendre à leurs enfants à *gérer* leur temps libre.
+  Eltern sollten ihren Kindern beibringen, ihre Freizeit sinnvoll zu *gestalten*.
+
+  L'avocat a été nommé pour *gérer* les intérêts de son client mineur.
+  Der Anwalt wurde ernannt, um die Interessen seines minderjährigen Mandanten zu *verwalten*.
+
+  Le nouveau directeur *gère* le commerce d'une main de maître.
+  Der neue Direktor *leitet* das Geschäft meisterhaft.
+
+  L'entreprise a investi dans un système pour mieux *gérer* ses données informatiques.
+  Das Unternehmen hat in ein System investiert, um seine Computerdaten besser zu *verwalten*.
+
+  Les autorités tentent de *gérer* la pénurie d'eau pendant la sécheresse.
+  Die Behörden versuchen, den Wassermangel während der Dürre zu *bewältigen*.
+
+  "Comment *gères*-tu le stress avant tes examens?"
+  "Wie *gehst du* mit dem Stress vor deinen Prüfungen *um*?"
+
+  Le tuteur légal doit *gérer* les biens de l'enfant jusqu'à sa majorité.
+  Der gesetzliche Vormund muss das Vermögen des Kindes bis zur Volljährigkeit *verwalten*.
+
+  Notre équipe *gère* actuellement plusieurs projets importants.
+  Unser Team *betreut* derzeit mehrere wichtige Projekte.
+
+  Il faut apprendre à *gérer* son temps pour être productif au travail.
+  Man muss lernen, seine Zeit zu *managen*, um bei der Arbeit produktiv zu sein.
+
+  Le comité a été créé pour *gérer* la crise environnementale dans la région.
+  Das Komitee wurde gegründet, um die Umweltkrise in der Region zu *bewältigen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -9,18 +9,57 @@ Femininum / Plural: ''
 IPA: \ʁa.sy.ʁe\
 Definition: beruhigen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Le premier travail consiste à rassurer le gosse.\nDie erste Aufgabe\
-  \ besteht darin, das Kind zu beruhigen.\n\nJe vais te rassurer.\nIch werde dich\
-  \ beruhigen.\n\nIl n'était pas rassuré par le bruit étrange qui provenait du moteur.\n\
-  Er war beunruhigt wegen des seltsamen Geräusches, das vom Motor kam. \n\nJ'ai essayé\
-  \ de me rassurer en me disant que tout allait bien se passer.\nIch habe versucht,\
-  \ mich zu beruhigen, indem ich mir sagte, dass alles gut gehen würde.\n\nJe ne me\
-  \ sens pas rassurée dans la voiture de Paul, il conduit trop vite.\nIch fühle mich\
-  \ in Pauls Auto nicht sicher, er fährt zu schnell.\n\nRassurez-vous, le médecin\
-  \ sera là dans quelques minutes !\nSeien Sie unbesorgt, der Arzt ist in wenigen\
-  \ Minuten da!\n\nQue les élèves se rassurent, l'examen sera reporté à la semaine\
-  \ prochaine.\nDie Schüler können ganz beruhigt sein, die Prüfung wird auf nächste\
-  \ Woche verschoben."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Le premier travail consiste à *rassurer* le gosse.
+  Die erste Aufgabe besteht darin, das Kind zu *beruhigen*.
+
+  Le médecin a *rassuré* la patiente sur son état de santé.
+  Der Arzt hat die Patientin über ihren Gesundheitszustand *beruhigt*.
+
+  "*Rassurez-vous*, tout se passera bien pendant l'examen," a dit le professeur.
+  "*Seien Sie unbesorgt*, alles wird gut gehen während der Prüfung," sagte der Lehrer.
+
+  Après l'accident, les parents ont essayé de se *rassurer* mutuellement.
+  Nach dem Unfall versuchten die Eltern, sich gegenseitig zu *beruhigen*.
+
+  Son discours a *rassuré* la population inquiète.
+  Seine Rede hat die besorgte Bevölkerung *beruhigt*.
+
+  Je ne me sens pas très *rassuré* dans ce quartier la nuit.
+  Ich fühle mich nachts in dieser Gegend nicht sehr *sicher*.
+
+  Les nouvelles mesures ont *rassuré* les investisseurs sur l'avenir de l'entreprise.
+  Die neuen Maßnahmen haben die Investoren über die Zukunft des Unternehmens *beruhigt*.
+
+  Il faut *rassurer* les enfants avant leur premier jour d'école.
+  Man muss die Kinder vor ihrem ersten Schultag *beruhigen*.
+
+  La présence de la police a *rassuré* les habitants du village.
+  Die Anwesenheit der Polizei hat die Dorfbewohner *beruhigt*.
+
+  "Que les étudiants se *rassurent*, l'examen ne sera pas si difficile," a annoncé le professeur.
+  "Die Studenten können *ganz beruhigt sein*, die Prüfung wird nicht so schwer sein," kündigte der Professor an.
+
+  Elle a essayé de *se rassurer* en respirant profondément avant son entretien d'embauche.
+  Sie versuchte, sich durch tiefes Atmen vor ihrem Vorstellungsgespräch zu *beruhigen*.
+
+  Le succès de son premier livre l'a *rassuré* sur ses capacités d'écrivain.
+  Der Erfolg seines ersten Buches hat ihn hinsichtlich seiner Fähigkeiten als Schriftsteller *beruhigt*.
+
+  Les explications du guide ont *rassuré* les touristes inquiets.
+  Die Erklärungen des Führers haben die besorgten Touristen *beruhigt*.
+
+  "*Rassurez-vous*, vos données personnelles sont en sécurité avec nous," a déclaré l'entreprise.
+  "*Seien Sie unbesorgt*, Ihre persönlichen Daten sind bei uns sicher," erklärte das Unternehmen.
+
+  Le sourire de sa mère a *rassuré* l'enfant effrayé.
+  Das Lächeln seiner Mutter hat das verängstigte Kind *beruhigt*.
+
+  Malgré les efforts de ses amis pour le *rassurer*, il n'avait pas l'air très *rassuré* avant son examen de conduite.
+  Trotz der Bemühungen seiner Freunde, ihn zu *beruhigen*, wirkte er vor seiner Fahrprüfung nicht sehr *beruhigt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,14 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous avons des lois pour régir les activités de la presse.
-  Wir haben Gesetze, die die Aktivitäten der Presse regeln.
+  Nous avons des lois pour *régir* les activités de la presse.
+  Wir haben Gesetze, um die Aktivitäten der Presse zu *regeln*.
 
-  Le roi régit son royaume avec sagesse.
-  Der König regiert sein Königreich weise.
+  Les règles qui *régissent* notre société évoluent avec le temps.
+  Die Regeln, die unsere Gesellschaft *bestimmen*, entwickeln sich mit der Zeit.
 
-  Le fonctionnement de cette entreprise est régi par un règlement interne très strict.
-  Der Betrieb dieser Firma wird durch eine sehr strenge interne Regelung geregelt.
+  Le conseil d'administration *régit* les affaires de l'entreprise.
+  Der Vorstand *leitet* die Geschäfte des Unternehmens.
+
+  La constitution *régit* le fonctionnement de notre démocratie.
+  Die Verfassung *regelt* das Funktionieren unserer Demokratie.
+
+  Les principes éthiques *régissent* le comportement des médecins.
+  Ethische Prinzipien *bestimmen* das Verhalten von Ärzten.
+
+  Cette loi *régit* l'utilisation des données personnelles en ligne.
+  Dieses Gesetz *regelt* die Verwendung persönlicher Daten im Internet.
+
+  Les forces gravitationnelles *régissent* le mouvement des planètes.
+  Gravitationskräfte *bestimmen* die Bewegung der Planeten.
+
+  Le protocole diplomatique *régit* les relations entre les pays.
+  Das diplomatische Protokoll *regelt* die Beziehungen zwischen den Ländern.
+
+  Un ensemble complexe de règles *régit* le marché boursier.
+  Ein komplexes Regelwerk *bestimmt* den Aktienmarkt.
+
+  Les accords internationaux *régissent* le commerce mondial.
+  Internationale Abkommen *regeln* den Welthandel.
+
+  La grammaire *régit* la structure des phrases dans une langue.
+  Die Grammatik *bestimmt* die Struktur der Sätze in einer Sprache.
+
+  Les hormones *régissent* de nombreuses fonctions dans notre corps.
+  Hormone *steuern* viele Funktionen in unserem Körper.
+
+  Le règlement intérieur *régit* la vie quotidienne dans l'école.
+  Die Schulordnung *regelt* den Alltag in der Schule.
+
+  Les lois de la physique *régissent* l'univers tel que nous le connaissons.
+  Die Gesetze der Physik *bestimmen* das Universum, wie wir es kennen.
+
+  Le contrat de travail *régit* les relations entre l'employeur et l'employé.
+  Der Arbeitsvertrag *regelt* die Beziehungen zwischen Arbeitgeber und Arbeitnehmer.
+
+  Les traditions familiales *régissent* souvent les célébrations de mariage.
+  Familientraditionen *bestimmen* oft die Hochzeitsfeiern.
+
+  La mode *régit* les tendances vestimentaires chaque saison.
+  Die Mode *bestimmt* die Bekleidungstrends jede Saison.
+
+  Les algorithmes *régissent* de plus en plus notre vie numérique.
+  Algorithmen *bestimmen* zunehmend unser digitales Leben.
+
+  Le droit international *régit* les relations entre les États souverains.
+  Das Völkerrecht *regelt* die Beziehungen zwischen souveränen Staaten.
+
+  Les statuts de l'association *régissent* son fonctionnement interne.
+  Die Satzung des Vereins *regelt* dessen interne Funktionsweise.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

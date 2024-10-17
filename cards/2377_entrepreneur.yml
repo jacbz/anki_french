@@ -13,23 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’entrepreneur et le marchand détruisent la forêt.
-  Der Bauunternehmer und der Händler zerstören den Wald.
+  L'*entrepreneur* et le marchand détruisent la forêt.
+  Der *Unternehmer* und der Händler zerstören den Wald.
 
-  Mon père est un entrepreneur très réussi.
-  Mein Vater ist ein sehr erfolgreicher Unternehmer.
+  Notre *entrepreneuse* indépendante a lancé trois startups en cinq ans.
+  Unsere selbstständige *Unternehmerin* hat in fünf Jahren drei Startups gegründet.
 
-  Marie est une entrepreneuse commerciale et dirige une chaîne de magasins de vêtements.
-  Marie ist eine Gewerbeunternehmerin und leitet eine Kette von Bekleidungsgeschäften.
+  L'*entrepreneur* en bâtiment nous a fait un devis détaillé pour les rénovations.
+  Der Bau*unternehmer* hat uns einen detaillierten Kostenvoranschlag für die Renovierungen gemacht.
 
-  Sophie est une entrepreneuse indépendante et propose des services de conseil en communication.
-  Sophie ist eine selbstständige Unternehmerin und bietet Kommunikationsberatung an.
+  Cette *entrepreneuse* de confection emploie plus de cent personnes dans son usine.
+  Diese Textil*unternehmerin* beschäftigt mehr als hundert Menschen in ihrer Fabrik.
 
-  Pierre est un petit entrepreneur et fabrique des meubles sur mesure.
-  Pierre ist ein mittelständischer Unternehmer und stellt maßgefertigte Möbel her.
+  L'*entrepreneur* de pompes funèbres s'est occupé de tout avec beaucoup de tact.
+  Der Bestattungs*unternehmer* hat sich sehr taktvoll um alles gekümmert.
 
-  Jean est un entrepreneur privé et possède un restaurant gastronomique.
-  Jean ist ein privater Unternehmer und besitzt ein Gourmet-Restaurant.
+  Mon père était un petit *entrepreneur* qui travaillait jour et nuit.
+  Mein Vater war ein mittelständischer *Unternehmer*, der Tag und Nacht arbeitete.
+
+  L'*entrepreneur* de spectacles a dû annuler le concert à cause de la pluie.
+  Der Veranstaltungs*unternehmer* musste das Konzert wegen des Regens absagen.
+
+  Cette *entrepreneuse* commerciale vend ses produits dans toute l'Europe.
+  Diese Gewerbe*unternehmerin* verkauft ihre Produkte in ganz Europa.
+
+  L'architecte et l'*entrepreneur* se réuniront demain pour discuter du projet.
+  Der Architekt und der Bau*unternehmer* werden sich morgen treffen, um das Projekt zu besprechen.
+
+  Cette jeune *entrepreneuse* privée a révolutionné le marché local.
+  Diese junge private *Unternehmerin* hat den lokalen Markt revolutioniert.
+
+  L'*entrepreneur* de menuiserie a parfaitement réalisé nos nouveaux meubles.
+  Der Tischerei*unternehmer* hat unsere neuen Möbel perfekt angefertigt.
+
+  L'*entrepreneur* de déménagements propose aussi un service d'emballage.
+  Der Umzugs*unternehmer* bietet auch einen Verpackungsservice an.
+
+  Notre *entrepreneuse* de peinture finira les travaux la semaine prochaine.
+  Unsere Maler*unternehmerin* wird die Arbeiten nächste Woche abschließen.
+
+  L'*entrepreneur* en matériel électrique a modernisé toute l'installation.
+  Der Elektro*unternehmer* hat die gesamte Installation modernisiert.
+
+  Cette *entrepreneuse* de transport livre dans toute la France.
+  Diese Transport*unternehmerin* liefert in ganz Frankreich aus.
+
+  L'*entrepreneur* de serrurerie nous a dépannés en pleine nuit.
+  Der Schlosser*unternehmer* hat uns mitten in der Nacht aus der Patsche geholfen.
+
+  Mon frère est devenu *entrepreneur* après dix ans comme employé.
+  Mein Bruder ist nach zehn Jahren als Angestellter *Unternehmer* geworden.
+
+  L'*entrepreneur* de travaux publics a terminé le chantier dans les délais.
+  Der Tiefbau*unternehmer* hat die Baustelle fristgerecht fertiggestellt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

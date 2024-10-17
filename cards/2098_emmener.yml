@@ -13,20 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Maman et papa ont dû l’emmener à l’hôpital.
-  Mama und Papa mussten ihn ins Krankenhaus bringen.
+  Maman et papa ont dû l'*emmener* à l'hôpital.
+  Mama und Papa mussten ihn ins Krankenhaus *bringen*.
 
-  Je vais t’emmener au cinéma ce soir.
-  Ich werde dich heute Abend ins Kino mitnehmen.
+  Je vais t'*emmener* au cinéma ce soir.
+  Ich werde dich heute Abend ins Kino *mitnehmen*.
 
-  J'aimerais t'emmener au cinéma ce soir.
-  Ich würde dich heute Abend gerne ins Kino mitnehmen.
+  La police l'a *emmené* en prison après son arrestation.
+  Die Polizei hat ihn nach seiner Verhaftung ins Gefängnis *gebracht*.
 
-  Si vous le souhaitez, je peux vous emmener au cinéma.
-  Wenn Sie möchten, kann ich Sie zum Kino mitnehmen.
+  "Tu peux *emmener* ton chien avec toi, si tu veux."
+  "Du kannst deinen Hund *mitnehmen*, wenn du möchtest."
 
-  Ils ont emmené le suspect en prison pour interrogatoire.
-  Sie haben den Verdächtigen zur Vernehmung ins Gefängnis gebracht.
+  Les terroristes ont *emmené* plusieurs otages.
+  Die Terroristen haben mehrere Geiseln *entführt*.
+
+  "Je pars au supermarché. Je vous *emmène* ?"
+  "Ich fahre zum Supermarkt. Soll ich Sie *mitnehmen*?"
+
+  Elle a *emmené* ses enfants en vacances à la mer.
+  Sie hat ihre Kinder in den Urlaub ans Meer *mitgenommen*.
+
+  Le bus scolaire *emmène* les élèves tous les matins.
+  Der Schulbus *bringt* die Schüler jeden Morgen zur Schule.
+
+  Le capitaine a bien *emmené* son équipe vers la victoire.
+  Der Kapitän hat sein Team gut zum Sieg *geführt*.
+
+  "*Emmène*-moi danser ce soir, s'il te plaît !"
+  "*Nimm* mich heute Abend bitte zum Tanzen *mit*!"
+
+  Les secouristes ont *emmené* les blessés à l'hôpital.
+  Die Rettungskräfte haben die Verletzten ins Krankenhaus *gebracht*.
+
+  J'ai dû *emmener* ma voiture au garage pour des réparations.
+  Ich musste mein Auto zur Reparatur in die Werkstatt *bringen*.
+
+  Le train nous *emmènera* à Paris en seulement deux heures.
+  Der Zug wird uns in nur zwei Stunden nach Paris *bringen*.
+
+  "Où m'*emmènes*-tu pour notre anniversaire ?"
+  "Wohin *führst* du mich zu unserem Jahrestag?"
+
+  Les parents *emmènent* leurs enfants à l'école tous les jours.
+  Die Eltern *bringen* ihre Kinder jeden Tag zur Schule.
+
+  Le guide touristique nous a *emmenés* visiter les monuments historiques.
+  Der Fremdenführer hat uns zu den historischen Sehenswürdigkeiten *mitgenommen*.
+
+  Après le divorce, elle a *emmené* les enfants vivre chez sa mère.
+  Nach der Scheidung hat sie die Kinder *mitgenommen*, um bei ihrer Mutter zu leben.
+
+  "Je t'*emmène* faire un tour en voiture ?"
+  "Soll ich dich zu einer Spritztour im Auto *mitnehmen*?"
+
+  Les astronautes *emmèneront* des équipements spéciaux sur la Lune.
+  Die Astronauten werden spezielle Ausrüstung zum Mond *mitnehmen*.
+
+  Le courant a *emmené* le bateau loin de la côte.
+  Die Strömung hat das Boot weit von der Küste *weggetrieben*.
+
+  "N'oublie pas d'*emmener* ton parapluie, il va pleuvoir."
+  "Vergiss nicht, deinen Regenschirm *mitzunehmen*, es wird regnen."
+
+  Son imagination l'*emmène* souvent dans des mondes fantastiques.
+  Seine Fantasie *entführt* ihn oft in fantastische Welten.
+
+  Les gendarmes ont dû *emmener* le suspect pour l'interroger.
+  Die Polizisten mussten den Verdächtigen zum Verhör *abführen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

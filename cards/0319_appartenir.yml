@@ -13,35 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cet argent n’appartient pas au gouvernement.
-  Dieses Geld gehört nicht der Regierung.
+  Cet argent n'*appartient* pas au gouvernement.
+  Dieses Geld *gehört* nicht der Regierung.
 
-  Cette maison appartient à mes parents.
-  Dieses Haus gehört meinen Eltern.
+  Cette voiture *appartient* à mon voisin depuis dix ans.
+  Dieses Auto *gehört* seit zehn Jahren meinem Nachbarn.
 
-  Ce livre appartient à ma sœur.
-  Dieses Buch gehört meiner Schwester.
+  Les chiens *appartiennent* à la famille des canidés.
+  Hunde *gehören* zur Familie der Hundeartigen.
 
-  Le chapeau que tu as trouvé doit appartenir à Paul.
-  Der Hut, den du gefunden hast, muss Paul gehören.
+  Le nombre 5 *appartient* à l'ensemble des nombres impairs.
+  Die Zahl 5 ist in der Menge der ungeraden Zahlen *enthalten*.
 
-  Cette maison appartient à un célèbre acteur.
-  Dieses Haus gehört einem berühmten Schauspieler.
+  Il *appartient* aux parents de fixer des règles pour leurs enfants.
+  Es ist die *Aufgabe* der Eltern, Regeln für ihre Kinder festzulegen.
 
-  Les décisions concernant la direction de l’entreprise appartiennent au conseil d’administration.
-  Die Entscheidungen über die Führung des Unternehmens liegen beim Verwaltungsrat.
+  "Je ne m'*appartiens* plus depuis que j'ai eu des enfants," soupira-t-elle.
+  "Ich *gehöre* mir nicht mehr, seit ich Kinder habe," seufzte sie.
 
-  En tant que citoyen, il est important de comprendre que la préservation de l’environnement appartient à tous.
-  Als Bürger ist es wichtig zu verstehen, dass die Erhaltung der Umwelt allen gehört.
+  Cette décision *appartient* au directeur général.
+  Diese Entscheidung *liegt* beim Generaldirektor.
 
-  Ce livre appartient à Marie, elle l’a acheté la semaine dernière.
-  Dieses Buch gehört Marie, sie hat es letzte Woche gekauft.
+  L'avenir *appartient* à ceux qui se lèvent tôt.
+  Die Zukunft *gehört* den Frühaufstehern.
 
-  Il appartient à Jean de faire la vaisselle, c'est son tour.
-  Es ist Jeans Sache, den Abwasch zu machen, er ist dran.
+  Ces terres *appartenaient* autrefois à la noblesse.
+  Diese Ländereien *gehörten* früher dem Adel.
 
-  L'amour appartient à la vie, il est indispensable au bonheur.
-  Die Liebe gehört zum Leben, sie ist für das Glück unerlässlich.
+  Le droit de veto *appartient* au président dans certains pays.
+  Das Vetorecht *steht* in manchen Ländern dem Präsidenten *zu*.
+
+  Cette espèce de plante *appartient* à la famille des Rosacées.
+  Diese Pflanzenart *gehört* zur Familie der Rosengewächse.
+
+  Il *appartiendra* au jury de décider du sort de l'accusé.
+  Es wird *Aufgabe* der Jury sein, über das Schicksal des Angeklagten zu entscheiden.
+
+  "Je t'*appartiendrai* pour toujours," promit-elle dans un murmure.
+  "Ich werde für immer *dir gehören*," versprach sie flüsternd.
+
+  Cette île *appartenait* jadis à un royaume voisin.
+  Diese Insel *gehörte* einst zu einem benachbarten Königreich.
+
+  Les œuvres de Shakespeare *appartiennent* au patrimoine mondial.
+  Die Werke von Shakespeare *gehören* zum Weltkulturerbe.
+
+  Ce tableau *appartiendra* bientôt au musée national.
+  Dieses Gemälde wird bald dem Nationalmuseum *gehören*.
+
+  "À qui *appartient* ce sac abandonné ?" demanda l'agent de sécurité.
+  "Wem *gehört* diese verlassene Tasche?" fragte der Sicherheitsbeamte.
+
+  Les baleines *appartiennent* au groupe des mammifères marins.
+  Wale *gehören* zur Gruppe der Meeressäugetiere.
+
+  Il *appartient* à chacun de décider de son propre avenir.
+  Es *liegt* an jedem Einzelnen, über seine eigene Zukunft zu entscheiden.
+
+  Cette méthode *appartient* au domaine de la psychologie moderne.
+  Diese Methode *gehört* zum Bereich der modernen Psychologie.
+
+  Les clés de la voiture *appartiennent* à mon frère.
+  Die Autoschlüssel *gehören* meinem Bruder.
+
+  "Je m'*appartiendrai* toujours," dit-elle fièrement.
+  "Ich werde immer *mir selbst gehören*," sagte sie stolz.
+
+  Ce moment nous *appartiendra* pour l'éternité.
+  Dieser Moment wird für immer *uns gehören*.
+
+  Les dinosaures *appartenaient* à un monde disparu depuis longtemps.
+  Die Dinosaurier *gehörten* zu einer längst vergangenen Welt.
+
+  Il *appartient* au chef d'équipe de motiver ses collaborateurs.
+  Es *ist Aufgabe* des Teamleiters, seine Mitarbeiter zu motivieren.
+
+  Cette responsabilité *appartient* désormais à la nouvelle génération.
+  Diese Verantwortung *liegt* nun bei der neuen Generation.
+
+  Le choix vous *appartient* : que décidez-vous ?
+  Die Entscheidung *liegt* bei Ihnen: Was beschließen Sie?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

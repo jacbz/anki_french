@@ -13,20 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Deux maisons ont été gravement endommagées.
-  Zwei Häuser wurden schwer beschädigt.
+  Deux maisons ont été *gravement* endommagées.
+  Zwei Häuser wurden *schwer* beschädigt.
 
-  Il a été gravement blessé dans l’accident.
-  Er wurde bei dem Unfall schwer verletzt.
+  Le juge a parlé *gravement* avant de prononcer la sentence.
+  Der Richter sprach *würdevoll*, bevor er das Urteil verkündete.
 
-  Tu es gravement malade.
-  Du bist schwer krank.
+  Sa santé s'est *gravement* détériorée ces derniers mois.
+  Seine Gesundheit hat sich in den letzten Monaten *ernsthaft* verschlechtert.
 
-  Le vieux chêne est gravement menacé par la maladie.
-  Der alte Eichbaum ist schwer bedroht durch die Krankheit.
+  Elle a *gravement* sous-estimé les conséquences de ses actes.
+  Sie hat die Folgen ihrer Handlungen *schwerwiegend* unterschätzt.
 
-  Il est gravement malade et doit être hospitalisé.
-  Er ist schwer krank und muss ins Krankenhaus.
+  Le patient est *gravement* malade et nécessite des soins intensifs.
+  Der Patient ist *schwer* krank und benötigt intensivmedizinische Behandlung.
+
+  L'orateur s'est adressé *gravement* à son auditoire.
+  Der Redner wandte sich *ernst* an sein Publikum.
+
+  Cette décision pourrait *gravement* affecter l'avenir de l'entreprise.
+  Diese Entscheidung könnte die Zukunft des Unternehmens *ernsthaft* beeinflussen.
+
+  Le conducteur a été *gravement* blessé dans l'accident.
+  Der Fahrer wurde bei dem Unfall *schwer* verletzt.
+
+  Il a *gravement* offensé son collègue avec cette remarque.
+  Er hat seinen Kollegen mit dieser Bemerkung *schwer* beleidigt.
+
+  Les diplomates discutaient *gravement* de la situation internationale.
+  Die Diplomaten diskutierten *ernsthaft* über die internationale Lage.
+
+  La pollution menace *gravement* l'écosystème de cette région.
+  Die Verschmutzung bedroht das Ökosystem dieser Region *ernsthaft*.
+
+  Elle marchait *gravement* vers l'autel le jour de son mariage.
+  Sie schritt am Tag ihrer Hochzeit *würdevoll* zum Altar.
+
+  Le virus a *gravement* perturbé l'économie mondiale.
+  Das Virus hat die Weltwirtschaft *schwer* gestört.
+
+  Le pianiste jouait *gravement* la sonate de Beethoven.
+  Der Pianist spielte Beethovens Sonate *getragen*.
+
+  Nous avons *gravement* sous-estimé le temps nécessaire pour ce projet.
+  Wir haben die für dieses Projekt benötigte Zeit *gravierend* unterschätzt.
+
+  Sa réputation a été *gravement* compromise par ce scandale.
+  Sein Ruf wurde durch diesen Skandal *schwer* beschädigt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

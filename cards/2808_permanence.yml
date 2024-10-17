@@ -13,26 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les deux pieds doivent rester en permanence dans le triangle.
-  Beide Füße müssen ständig im Dreieck bleiben.
+  Les deux pieds doivent rester *en permanence* dans le triangle.
+  Beide Füße müssen *ständig* im Dreieck bleiben.
 
-  Je suis de permanence ce soir.
-  Ich habe heute Abend Dienst.
+  L'entreprise a mis en place une *permanence* téléphonique pour répondre aux questions des clients.
+  Das Unternehmen hat einen telefonischen *Bereitschaftsdienst* eingerichtet, um Kundenfragen zu beantworten.
 
-  Le service de permanence téléphonique est ouvert tous les jours de la semaine.
-  Der Telefondienst ist jeden Tag der Woche geöffnet.
+  Le médecin de garde assure la *permanence* ce week-end.
+  Der diensthabende Arzt übernimmt am Wochenende den *Bereitschaftsdienst*.
 
-  Le candidat à la présidence a ouvert une permanence électorale dans le centre-ville.
-  Der Präsidentschaftskandidat hat ein Wahlkampfbüro in der Innenstadt eröffnet.
+  "Je suis *en permanence* fatigué ces derniers temps", se plaignit-il à son médecin.
+  "Ich bin in letzter Zeit *ständig* müde", klagte er seinem Arzt.
 
-  Le centre propose une permanence juridique gratuite aux étudiants.
-  Das Zentrum bietet Studenten einen kostenlosen juristischen Beratungsdienst an.
+  La *permanence* juridique gratuite a lieu tous les mardis à la mairie.
+  Die kostenlose juristische *Beratung* findet jeden Dienstag im Rathaus statt.
 
-  L'infirmière assure la permanence dans l'hôpital pendant la nuit.
-  Die Krankenschwester hat den Bereitschaftsdienst im Krankenhaus während der Nacht.
+  Les pompiers tiennent une *permanence* 24 heures sur 24.
+  Die Feuerwehr hält rund um die Uhr einen *Bereitschaftsdienst* aufrecht.
 
-  Il faut assurer une permanence téléphonique 24 heures sur 24.
-  Es ist notwendig, einen 24-Stunden-Telefondienst zu gewährleisten.
+  La *permanence* des traditions familiales est importante pour de nombreuses personnes.
+  Die *Beständigkeit* von Familientraditionen ist für viele Menschen wichtig.
+
+  Le parti politique a ouvert une *permanence* électorale dans le centre-ville.
+  Die politische Partei hat ein *Wahlkampfbüro* im Stadtzentrum eröffnet.
+
+  Les élèves turbulents ont été envoyés en *permanence* pour le reste de la journée.
+  Die unruhigen Schüler wurden für den Rest des Tages in den *Aufenthaltsraum* geschickt.
+
+  La *permanence* du danger rend les habitants très vigilants.
+  Die *ständige* Gefahr macht die Bewohner sehr wachsam.
+
+  Le syndicat tiendra une *permanence* pour informer les employés de leurs droits.
+  Die Gewerkschaft wird eine *Sprechstunde* abhalten, um die Angestellten über ihre Rechte zu informieren.
+
+  La *permanence* du sentiment républicain en France est un sujet d'étude pour les historiens.
+  Die *Beständigkeit* des republikanischen Gefühls in Frankreich ist ein Studienthema für Historiker.
+
+  Les infirmières assurent une *permanence* dans le service des urgences.
+  Die Krankenschwestern gewährleisten einen *Dauerdienst* in der Notaufnahme.
+
+  La *permanence* de cette liste électorale est garantie jusqu'à la prochaine révision.
+  Die *Gültigkeit* dieser Wählerliste ist bis zur nächsten Überprüfung garantiert.
+
+  "Tu te plains *en permanence*!" s'exclama sa mère, exaspérée.
+  "Du beschwerst dich *ständig*!" rief seine Mutter verärgert aus.
+
+  La *permanence* de la nature malgré les changements climatiques est remarquable.
+  Die *Beständigkeit* der Natur trotz des Klimawandels ist bemerkenswert.
+
+  L'assemblée a décidé de siéger *en permanence* jusqu'à ce qu'une décision soit prise.
+  Die Versammlung hat beschlossen, *ununterbrochen* zu tagen, bis eine Entscheidung getroffen wird.
+
+  La *permanence* d'un emploi est un facteur important de stabilité sociale.
+  Die *Dauerhaftigkeit* eines Arbeitsplatzes ist ein wichtiger Faktor für soziale Stabilität.
+
+  Le concierge de l'immeuble assure une *permanence* en cas d'urgence.
+  Der Hausmeister des Gebäudes gewährleistet einen *Bereitschaftsdienst* für Notfälle.
+
+  La *permanence* de cette tradition remonte à plusieurs siècles.
+  Die *Beständigkeit* dieser Tradition reicht mehrere Jahrhunderte zurück.
+
+  Les parents se chamaillent *en permanence* à propos de l'éducation de leurs enfants.
+  Die Eltern streiten sich *ständig* über die Erziehung ihrer Kinder.
+
+  Le musée cherche des bénévoles pour assurer une *permanence* pendant les week-ends.
+  Das Museum sucht Freiwillige, um an den Wochenenden einen *Aufsichtsdienst* zu gewährleisten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

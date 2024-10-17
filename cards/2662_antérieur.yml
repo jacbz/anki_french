@@ -13,26 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai connu le système judiciaire antérieur.
-  Ich habe das frühere Rechtssystem kennengelernt.
+  J'ai connu le système judiciaire *antérieur*.
+  Ich habe das *frühere* Justizsystem kennengelernt.
 
-  Le rapport antérieur a été publié la semaine dernière.
-  Der vorherige Bericht wurde letzte Woche veröffentlicht.
+  L'époque *antérieure* à la Révolution française était marquée par la monarchie absolue.
+  Die Zeit *vor* der Französischen Revolution war durch die absolute Monarchie geprägt.
 
-  Le début de la guerre est antérieur à la mort du roi.
-  Der Ausbruch des Krieges liegt vor dem Tod des Königs.
+  Cette découverte est *antérieure* à 1900.
+  Diese Entdeckung ist *vor* 1900 gemacht worden.
 
-  La patte antérieure du chat est blessée.
-  Die Vorderpfote der Katze ist verletzt.
+  Les pattes *antérieures* du chat sont plus agiles que ses pattes postérieures.
+  Die *Vorder*pfoten der Katze sind geschickter als ihre Hinterpfoten.
 
-  Ce bâtiment est antérieur à 1900.
-  Dieses Gebäude ist vor 1900 entstanden.
+  Pour comprendre le conflit actuel, il faut examiner les événements *antérieurs*.
+  Um den aktuellen Konflikt zu verstehen, muss man die *vorherigen* Ereignisse untersuchen.
 
-  L'époque antérieure à la révolution industrielle était marquée par l'agriculture.
-  Die Zeit vor der industriellen Revolution war durch die Landwirtschaft geprägt.
+  La face *antérieure* de l'omoplate est légèrement concave.
+  Die *Vorder*seite des Schulterblatts ist leicht konkav.
 
-  Le pied antérieur du cheval est plus long que le pied postérieur.
-  Der Vorderfuß des Pferdes ist länger als der Hinterfuß.
+  Les écrivains *antérieurs* au XIXe siècle avaient un style très différent.
+  Die Schriftsteller *vor* dem 19. Jahrhundert hatten einen sehr anderen Stil.
+
+  Dans la phrase "Quand j'eus fini, je partis", "j'eus fini" est au passé *antérieur*.
+  In dem Satz "Als ich fertig gewesen war, ging ich" steht "ich war fertig gewesen" im Plusquamperfekt (*Vorvergangenheit*).
+
+  La partie *antérieure* de l'édifice a été rénovée récemment.
+  Der *vordere* Teil des Gebäudes wurde kürzlich renoviert.
+
+  Les membres *antérieurs* des chevaux sont essentiels pour leur équilibre.
+  Die *Vorder*beine der Pferde sind wesentlich für ihr Gleichgewicht.
+
+  Le contrat *antérieur* n'est plus valable depuis la signature du nouveau.
+  Der *vorherige* Vertrag ist seit der Unterzeichnung des neuen nicht mehr gültig.
+
+  Les voyelles *antérieures* comme [i] et [e] sont produites à l'avant de la bouche.
+  Die *vorderen* Vokale wie [i] und [e] werden im vorderen Teil des Mundes gebildet.
+
+  Il faut rétablir l'état de choses *antérieur* pour résoudre ce problème.
+  Um dieses Problem zu lösen, muss der *vorherige* Zustand wiederhergestellt werden.
+
+  Les ligaments *antérieurs* du genou jouent un rôle crucial dans sa stabilité.
+  Die *vorderen* Bänder des Knies spielen eine entscheidende Rolle für seine Stabilität.
+
+  Dans une relation d'ordre, 3 est *antérieur* à 5.
+  In einer Ordnungsrelation ist 3 *vor* 5.
+
+  Le futur *antérieur* exprime une action qui sera terminée avant une autre dans le futur.
+  Das Futur II drückt eine Handlung aus, die *vor* einer anderen in der Zukunft abgeschlossen sein wird.
+
+  Les découvertes *antérieures* ont pavé la voie à cette percée scientifique.
+  Die *früheren* Entdeckungen haben den Weg für diesen wissenschaftlichen Durchbruch geebnet.
+
+  L'*antérieur* du cheval doit être bien développé pour une bonne performance.
+  Die *Vorderhand* des Pferdes muss für eine gute Leistung gut entwickelt sein.
+
+  La partie *antérieure* du navire a subi le plus de dégâts lors de la collision.
+  Der *vordere* Teil des Schiffes hat bei der Kollision den größten Schaden erlitten.
+
+  Les bords *antérieurs* de la clavicule sont plus visibles chez les personnes minces.
+  Die *vorderen* Ränder des Schlüsselbeins sind bei schlanken Menschen deutlicher sichtbar.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

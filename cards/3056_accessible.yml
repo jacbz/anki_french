@@ -13,17 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je pense être un patron plutôt accessible.
-  Ich denke, ich bin ein eher zugänglicher Chef.
+  Je pense être un patron plutôt *accessible*.
+  Ich denke, ich bin ein ziemlich *zugänglicher* Chef.
 
-  Le musée est accessible aux personnes handicapées.
-  Das Museum ist für Menschen mit Behinderungen zugänglich.
+  Le sommet de cette montagne n'est pas *accessible* en voiture.
+  Der Gipfel dieses Berges ist mit dem Auto nicht *erreichbar*.
 
-  Le téléphone de Paul était éteint et il n'était pas accessible à sa mère.
-  Pauls Handy war aus und er war für seine Mutter nicht erreichbar.
+  Ce musée est *accessible* aux personnes à mobilité réduite.
+  Dieses Museum ist für Menschen mit eingeschränkter Mobilität *zugänglich*.
 
-  Ce livre, avec ses illustrations colorées et son texte simple, est accessible à un enfant de cet âge.
-  Dieses Buch, mit seinen bunten Bildern und dem einfachen Text, kann ein Kind in diesem Alter verstehen.
+  Le professeur explique la physique quantique de manière *accessible*.
+  Der Professor erklärt Quantenphysik auf *verständliche* Weise.
+
+  Les prix de ces appartements sont *accessibles* pour la classe moyenne.
+  Die Preise dieser Wohnungen sind für die Mittelschicht *erschwinglich*.
+
+  L'information doit être *accessible* à tous les citoyens.
+  Die Information muss für alle Bürger *zugänglich* sein.
+
+  Ce roman est *accessible* aux lecteurs de tout âge.
+  Dieser Roman ist für Leser jeden Alters *verständlich*.
+
+  La plage n'est *accessible* qu'à marée basse.
+  Der Strand ist nur bei Ebbe *zugänglich*.
+
+  Le maire se veut *accessible* à ses administrés.
+  Der Bürgermeister möchte für seine Bürger *ansprechbar* sein.
+
+  Cette technologie devient de plus en plus *accessible* au grand public.
+  Diese Technologie wird für die breite Öffentlichkeit immer *zugänglicher*.
+
+  Le parking n'est pas *accessible* pendant les travaux.
+  Der Parkplatz ist während der Bauarbeiten nicht *zugänglich*.
+
+  Son style d'écriture est *accessible* même pour les débutants en français.
+  Sein Schreibstil ist selbst für Französisch-Anfänger *verständlich*.
+
+  Les concerts gratuits rendent la musique classique plus *accessible*.
+  Kostenlose Konzerte machen klassische Musik *zugänglicher*.
+
+  Ce politicien n'est pas *accessible* aux médias.
+  Dieser Politiker ist für die Medien nicht *erreichbar*.
+
+  La version simplifiée du texte est plus *accessible* aux enfants.
+  Die vereinfachte Version des Textes ist für Kinder *verständlicher*.
+
+  Le site web a été conçu pour être *accessible* aux malvoyants.
+  Die Website wurde so gestaltet, dass sie für Sehbehinderte *zugänglich* ist.
+
+  Cette offre d'emploi est *accessible* aux débutants.
+  Dieses Stellenangebot ist für Berufsanfänger *zugänglich*.
+
+  Il est toujours *accessible* à de nouvelles idées.
+  Er ist immer für neue Ideen *offen*.
+
+  La justice doit être *accessible* à tous, indépendamment des moyens financiers.
+  Die Justiz muss für alle *zugänglich* sein, unabhängig von den finanziellen Mitteln.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

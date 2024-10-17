@@ -13,29 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je crois en les médicaments génériques peu coûteux.
-  Ich glaube an kostengünstige generische Medikamente.
+  Je crois en les *médicaments* génériques peu coûteux.
+  Ich glaube an kostengünstige generische *Arzneimittel*.
 
-  Je dois prendre ce médicament tous les jours.
-  Ich muss dieses Medikament jeden Tag einnehmen.
+  Le docteur m'a prescrit un nouveau *médicament* contre la diarrhée.
+  Der Arzt hat mir ein neues *Medikament* gegen Durchfall verschrieben.
 
-  Je dois prendre des médicaments.
-  Ich muss Medikamente einnehmen.
+  "Prends ton *médicament* pour le cœur avant le petit-déjeuner."
+  "Nimm dein *Herzmedikament* vor dem Frühstück."
 
-  Nous avons un médicament pour vous.
-  Wir haben ein Medikament für Sie.
+  Ce *médicament* contenant de l'insuline doit être conservé au réfrigérateur.
+  Dieses insulinhaltige *Arzneimittel* muss im Kühlschrank aufbewahrt werden.
 
-  J'ai pris un médicament contre la diarrhée, car j'avais des problèmes d'estomac.
-  Ich habe ein Arzneimittel gegen Durchfall genommen, da ich Probleme mit dem Magen hatte.
+  Les frais de *médicaments* peuvent être très élevés sans assurance maladie.
+  Die *Arzneimittelkosten* können ohne Krankenversicherung sehr hoch sein.
 
-  Ce médicament pour le cœur est prescrit par mon médecin.
-  Dieses Herzmittel wurde mir von meinem Arzt verschrieben.
+  Le médecin a ordonné un *médicament* puissant pour soulager la douleur.
+  Der Arzt hat ein starkes *Medikament* zur Schmerzlinderung verordnet.
 
-  Il faut prendre le médicament contenant de l'insuline régulièrement.
-  Man muss das Insulinpräparat regelmäßig einnehmen.
+  "Tu as encore oublié de prendre ton *médoc* ce matin ?"
+  "Hast du heute Morgen schon wieder vergessen, deine *Medizin* zu nehmen?"
 
-  Les frais de médicaments peuvent être très élevés.
-  Die Arzneimittelkosten können sehr hoch sein.
+  Les pharmaciens préparent parfois des *médicaments* sur mesure pour certains patients.
+  Apotheker stellen manchmal maßgeschneiderte *Arzneimittel* für bestimmte Patienten her.
+
+  Ce nouveau *médicament* pourrait révolutionner le traitement du diabète.
+  Dieses neue *Medikament* könnte die Behandlung von Diabetes revolutionieren.
+
+  Les effets secondaires de ce *médicament* incluent des nausées et des vertiges.
+  Die Nebenwirkungen dieses *Arzneimittels* umfassen Übelkeit und Schwindel.
+
+  Il faut toujours lire attentivement la notice avant de prendre un *médicament*.
+  Man sollte immer sorgfältig den Beipackzettel lesen, bevor man ein *Medikament* einnimmt.
+
+  Les *médicaments* à usage externe ne doivent jamais être ingérés.
+  *Arzneimittel* zur äußeren Anwendung dürfen niemals eingenommen werden.
+
+  Certains *médicaments* peuvent interagir dangereusement avec l'alcool.
+  Einige *Medikamente* können gefährlich mit Alkohol interagieren.
+
+  La recherche sur de nouveaux *médicaments* contre le cancer progresse rapidement.
+  Die Forschung an neuen *Arzneimitteln* gegen Krebs macht schnelle Fortschritte.
+
+  N'oubliez pas d'emporter vos *médicaments* essentiels en voyage.
+  Vergessen Sie nicht, Ihre wichtigen *Medikamente* auf Reisen mitzunehmen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

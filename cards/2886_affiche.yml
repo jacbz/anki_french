@@ -13,32 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai mon nom sur des affiches.
-  Ich habe meinen Namen auf Plakaten stehen.
+  J'ai mon nom sur des *affiches*.
+  Mein Name steht auf *Plakaten*.
 
-  J’ai vu l’affiche du film dans la rue.
-  Ich habe das Plakat des Films auf der Straße gesehen.
+  L'*affiche* du concert est accrochée partout en ville.
+  Das *Plakat* für das Konzert hängt überall in der Stadt.
 
-  Sur l'affiche électorale, on peut voir le candidat sourire et promettre un avenir meilleur.
-  Auf dem Wahlplakat sieht man den Kandidaten lächeln und ein besseres Morgen versprechen.
+  Elle a dessiné une belle *affiche* publicitaire pour le nouveau produit.
+  Sie hat ein schönes Werbe*plakat* für das neue Produkt entworfen.
 
-  Le film est actuellement à l'affiche dans les cinémas de la ville.
-  Der Film ist derzeit in den Kinos der Stadt aufgeführt.
+  Les candidats ont collé leurs *affiches* électorales sur les panneaux.
+  Die Kandidaten haben ihre Wahl*plakate* an den Tafeln angebracht.
 
-  L'affiche publicitaire est accrochée au mur du magasin.
-  Das Werbeplakat hängt an der Wand des Ladens.
+  "Regarde cette *affiche* de cinéma vintage !" s'est-il exclamé.
+  "Schau dir dieses Vintage-Kino*plakat* an!", rief er aus.
 
-  L'affiche de cinéma présente les acteurs principaux du film.
-  Das Kinoplakat zeigt die Hauptdarsteller des Films.
+  L'*affiche* officielle annonce la fermeture temporaire du parc.
+  Der offizielle *Aushang* kündigt die vorübergehende Schließung des Parks an.
 
-  Le célèbre acteur est en tête d'affiche du nouveau film de science-fiction.
-  Der berühmte Schauspieler hat eine Hauptrolle im neuen Science-Fiction-Film bekommen.
+  Le nouveau spectacle est à l'*affiche* depuis trois mois.
+  Die neue Show steht seit drei Monaten auf dem *Spielplan*.
 
-  Le directeur a décidé de mettre la nouvelle pièce à l'affiche le mois prochain.
-  Der Direktor hat beschlossen, das neue Stück im nächsten Monat anzukündigen.
+  Les *affiches* de sécurité sont obligatoires sur tous les chantiers.
+  Sicherheits*plakate* sind auf allen Baustellen vorgeschrieben.
 
-  La pièce a été retirée de l'affiche après une semaine seulement, faute de public.
-  Das Stück wurde nach nur einer Woche abgesetzt, weil es kein Publikum fand.
+  Le musée expose une collection d'*affiches* Art Nouveau.
+  Das Museum stellt eine Sammlung von Art Nouveau-*Plakaten* aus.
+
+  Le colleur d'*affiches* travaille toute la nuit pour couvrir la ville.
+  Der *Plakat*kleber arbeitet die ganze Nacht, um die Stadt zu plakatieren.
+
+  Cette actrice est en tête d'*affiche* du nouveau film de Spielberg.
+  Diese Schauspielerin hat die *Hauptrolle* in Spielbergs neuem Film.
+
+  "On a retiré le film de l'*affiche* après seulement une semaine."
+  "Man hat den Film schon nach einer Woche *abgesetzt*."
+
+  L'*affiche* du théâtre annonce une distribution exceptionnelle.
+  Das Theater*plakat* kündigt eine außergewöhnliche Besetzung an.
+
+  Il a accroché une *affiche* "À vendre" sur la fenêtre de sa voiture.
+  Er hat ein "*Zu verkaufen*"-Schild an das Fenster seines Autos gehängt.
+
+  Les *affiches* de recrutement sont visibles dans toute l'université.
+  Die Rekrutierungs*plakate* sind in der ganzen Universität zu sehen.
+
+  Le gouvernement a lancé une campagne d'*affichage* pour promouvoir le recyclage.
+  Die Regierung hat eine *Plakat*kampagne gestartet, um das Recycling zu fördern.
+
+  "Tu as vu la nouvelle *affiche* publicitaire sur le grand boulevard ?"
+  "Hast du das neue Werbe*plakat* auf dem großen Boulevard gesehen?"
+
+  L'exposition présente l'évolution de l'art de l'*affiche* au XXe siècle.
+  Die Ausstellung zeigt die Entwicklung der *Plakat*kunst im 20. Jahrhundert.
+
+  Les supporters ont créé une *affiche* géante pour encourager leur équipe.
+  Die Fans haben ein riesiges *Plakat* erstellt, um ihre Mannschaft anzufeuern.
+
+  Le festival de musique a dévoilé son *affiche* officielle hier soir.
+  Das Musikfestival hat gestern Abend sein offizielles *Plakat* enthüllt.
+
+  "Il faut consulter les *affiches* pour connaître les horaires des trains."
+  "Man muss die *Aushänge* lesen, um die Zugfahrpläne zu erfahren."
+
+  L'artiste a signé toutes les *affiches* de sa dernière exposition.
+  Der Künstler hat alle *Plakate* seiner letzten Ausstellung signiert.
+
+  Les étudiants ont placardé des *affiches* pour annoncer la fête de fin d'année.
+  Die Studenten haben *Plakate* aufgehängt, um die Abschlussfeier anzukündigen.
+
+  "Cette *affiche* vintage vaut une petite fortune maintenant", a dit le collectionneur.
+  "Dieses Vintage-*Plakat* ist jetzt ein kleines Vermögen wert", sagte der Sammler.
+
+  Le maire a fait apposer une *affiche* officielle sur le panneau de la mairie.
+  Der Bürgermeister ließ eine amtliche *Bekanntmachung* am Rathaus anbringen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

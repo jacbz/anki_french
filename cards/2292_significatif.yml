@@ -13,14 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le mystère me paraît plus significatif que le secret.
-  Das Geheimnis scheint mir bedeutsamer zu sein als das Geheimnis.
+  Le mystère me paraît plus *significatif* que le secret.
+  Das Mysterium scheint mir *bedeutsamer* als das Geheimnis.
 
-  Cette étude a des résultats significatifs.
-  Diese Studie hat bedeutende Ergebnisse.
+  Son silence est plus *significatif* qu'un long discours.
+  Sein Schweigen ist *aussagekräftiger* als eine lange Rede.
 
-  Ce geste est significatif de son affection pour elle.
-  Dieser Gestus lässt seine Zuneigung zu ihr erkennen.
+  Cette augmentation *significative* des ventes indique une reprise économique.
+  Dieser *bedeutende* Anstieg der Verkäufe deutet auf eine wirtschaftliche Erholung hin.
+
+  Le sourire *significatif* de ma collègue m'a fait comprendre qu'elle était au courant.
+  Das *vielsagende* Lächeln meiner Kollegin ließ mich verstehen, dass sie Bescheid wusste.
+
+  Ces résultats sont statistiquement *significatifs* avec une marge d'erreur de 5%.
+  Diese Ergebnisse sind statistisch *signifikant* mit einer Fehlerquote von 5%.
+
+  La baisse *significative* de la pollution est attribuable aux nouvelles réglementations.
+  Der *erhebliche* Rückgang der Verschmutzung ist auf die neuen Vorschriften zurückzuführen.
+
+  Son absence à la réunion est *significative* de son mécontentement.
+  Seine Abwesenheit bei der Besprechung ist *bezeichnend* für seine Unzufriedenheit.
+
+  Choisissez des exemples *significatifs* pour illustrer votre point de vue.
+  Wählen Sie *aussagekräftige* Beispiele, um Ihren Standpunkt zu veranschaulichen.
+
+  Le geste *significatif* du politicien a été largement commenté dans les médias.
+  Die *bedeutungsvolle* Geste des Politikers wurde in den Medien ausführlich kommentiert.
+
+  Cette découverte représente une avancée *significative* dans le domaine de la médecine.
+  Diese Entdeckung stellt einen *bedeutenden* Fortschritt auf dem Gebiet der Medizin dar.
+
+  Les chiffres *significatifs* après la virgule sont cruciaux pour la précision du calcul.
+  Die *signifikanten* Nachkommastellen sind entscheidend für die Genauigkeit der Berechnung.
+
+  Un changement *significatif* de comportement a été observé chez les participants.
+  Eine *signifikante* Verhaltensänderung wurde bei den Teilnehmern beobachtet.
+
+  Cette date *significative* marque un tournant dans l'histoire de notre pays.
+  Dieses *bedeutsame* Datum markiert einen Wendepunkt in der Geschichte unseres Landes.
+
+  Le regard *significatif* qu'ils ont échangé n'a échappé à personne.
+  Der *vielsagende* Blick, den sie austauschten, ist niemandem entgangen.
+
+  Cette décision aura un impact *significatif* sur l'avenir de l'entreprise.
+  Diese Entscheidung wird *erhebliche* Auswirkungen auf die Zukunft des Unternehmens haben.
+
+  Les différences *significatives* entre les deux groupes ont influencé les résultats de l'étude.
+  Die *signifikanten* Unterschiede zwischen den beiden Gruppen haben die Studienergebnisse beeinflusst.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

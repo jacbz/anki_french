@@ -13,20 +13,68 @@ Register: ↘Fiktion ↗Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce protocole a permis de découvrir de nouveaux antigènes.
-  Mithilfe dieses Protokolls konnten neue Antigene entdeckt werden.
+  Ce *protocole* a permis de découvrir de nouveaux antigènes.
+  Dieses *Protokoll* hat die Entdeckung neuer Antigene ermöglicht.
 
-  Le protocole diplomatique doit être respecté.
-  Das diplomatische Protokoll muss eingehalten werden.
+  Le *protocole* diplomatique est strict lors des visites d'État.
+  Das diplomatische *Protokoll* ist bei Staatsbesuchen streng.
 
-  Le protocole interprétatif a été élaboré pour clarifier les points litigieux.
-  Das Auslegungsprotokoll wurde erstellt, um strittige Punkte zu klären.
+  L'entreprise a mis en place un *protocole* de sécurité renforcé.
+  Das Unternehmen hat ein verstärktes Sicherheits*protokoll* eingeführt.
 
-  Le déroulement de l'opération était contraire au protocole établi.
-  Der Ablauf der Operation war protokollwidrig.
+  Les chercheurs ont suivi un *protocole* expérimental rigoureux.
+  Die Forscher folgten einem strengen Versuchs*protokoll*.
 
-  L'employé a agi contrairement au protocole en divulguant des informations confidentielles.
-  Der Angestellte hat sich protokollwidrig verhalten, indem er vertrauliche Informationen preisgab.
+  Le *protocole* de Kyoto vise à réduire les émissions de gaz à effet de serre.
+  Das Kyoto-*Protokoll* zielt darauf ab, die Treibhausgasemissionen zu reduzieren.
+
+  Les négociations ont abouti à un *protocole* d'accord entre les parties.
+  Die Verhandlungen führten zu einem *Protokoll* der Übereinkunft zwischen den Parteien.
+
+  Le chef du *protocole* a accueilli les dignitaires étrangers.
+  Der Leiter des *Protokolls* begrüßte die ausländischen Würdenträger.
+
+  Ce nouveau *protocole* de communication améliore la vitesse du réseau.
+  Dieses neue Kommunikations*protokoll* verbessert die Netzwerkgeschwindigkeit.
+
+  Le médecin a élaboré un *protocole* de traitement personnalisé pour le patient.
+  Der Arzt hat ein individuelles Behandlungs*protokoll* für den Patienten erstellt.
+
+  Les étudiants doivent respecter le *protocole* de laboratoire pour leur sécurité.
+  Die Studenten müssen das Labor*protokoll* zu ihrer eigenen Sicherheit einhalten.
+
+  Un *protocole* d'accord sur les salaires a été signé hier.
+  Gestern wurde ein Lohn*protokoll* unterzeichnet.
+
+  Le *protocole* opératoire détaille chaque étape de l'intervention chirurgicale.
+  Das Operations*protokoll* beschreibt jeden Schritt des chirurgischen Eingriffs.
+
+  Les diplomates ont violé le *protocole* en arrivant en retard à la cérémonie.
+  Die Diplomaten haben das *Protokoll* verletzt, indem sie zu spät zur Zeremonie kamen.
+
+  Le *protocole* HTTP est utilisé pour transférer des données sur le Web.
+  Das HTTP-*Protokoll* wird verwendet, um Daten im Web zu übertragen.
+
+  Un *protocole* de recherche rigoureux garantit la fiabilité des résultats.
+  Ein strenges Forschungs*protokoll* gewährleistet die Zuverlässigkeit der Ergebnisse.
+
+  Le *protocole* d'essai clinique a été approuvé par le comité d'éthique.
+  Das *Protokoll* der klinischen Studie wurde vom Ethikkomitee genehmigt.
+
+  Les pays signataires doivent respecter le *protocole* de non-prolifération nucléaire.
+  Die Unterzeichnerstaaten müssen das Nichtverbreitungs*protokoll* für Kernwaffen einhalten.
+
+  Le *protocole* de transfert de fichiers FTP est encore largement utilisé.
+  Das Dateiübertragungs*protokoll* FTP wird immer noch häufig verwendet.
+
+  Un *protocole* thérapeutique innovant a été développé pour traiter cette maladie rare.
+  Ein innovatives Therapie*protokoll* wurde zur Behandlung dieser seltenen Krankheit entwickelt.
+
+  Le service du *protocole* a organisé la cérémonie d'investiture du président.
+  Der *Protokoll*dienst hat die Amtseinführungszeremonie des Präsidenten organisiert.
+
+  Les avocats ont rédigé un *protocole* d'accord pour finaliser le divorce à l'amiable.
+  Die Anwälte haben ein *Protokoll* der Übereinkunft verfasst, um die einvernehmliche Scheidung abzuschließen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

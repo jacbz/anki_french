@@ -13,23 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils font fleurir le désert et fonctionner la démocratie.
-  Sie lassen die Wüste blühen und die Demokratie funktionieren.
+  Ils font fleurir le *désert* et fonctionner la démocratie.
+  Sie lassen die *Wüste* erblühen und die Demokratie funktionieren.
 
-  Ils ont traversé le désert en dromadaire.
-  Sie sind auf Kamelen durch die Wüste gereist.
+  Le Sahara est le plus grand *désert* chaud du monde.
+  Die Sahara ist die größte heiße *Wüste* der Welt.
 
-  La traversée du désert de Gobi était éprouvante pour les voyageurs.
-  Die Durchquerung der Wüste Gobi war für die Reisenden eine schwere Prüfung.
+  La *déserte* plage s'étendait à perte de vue.
+  Der *menschenleere* Strand erstreckte sich, so weit das Auge reichte.
 
-  Il est inutile de prêcher dans le désert, personne ne t'écoutera.
-  Es ist sinnlos, tauben Ohren zu predigen, niemand wird dich hören.
+  Le parc était complètement *désert* à cette heure tardive.
+  Der Park war zu dieser späten Stunde völlig *verlassen*.
 
-  Après le tremblement de terre, la ville était un désert.
-  Nach dem Erdbeben war die Stadt wie ausgestorben.
+  Les rues du centre-ville étaient *désertes* pendant le confinement.
+  Die Straßen der Innenstadt waren während des Lockdowns *menschenleer*.
 
-  Ce pays est un désert culturel, sans aucune tradition.
-  Dieses Land ist ein kulturelles Notstandsgebiet, ohne jede Tradition.
+  Le manque de médecins a créé un *désert* médical dans cette région.
+  Der Ärztemangel hat in dieser Region eine medizinische *Einöde* geschaffen.
+
+  "Tu parles dans le *désert*, personne ne t'écoute !"
+  "Du *predigst tauben Ohren*, niemand hört dir zu!"
+
+  Après le scandale, il a connu une longue traversée du *désert* politique.
+  Nach dem Skandal erlebte er eine lange politische *Durststrecke*.
+
+  Les premiers moines chrétiens se retiraient dans le *désert* pour méditer.
+  Die ersten christlichen Mönche zogen sich zur Meditation in die *Einöde* zurück.
+
+  Le *désert* de Gobi s'étend sur une vaste partie de la Mongolie.
+  Die *Wüste* Gobi erstreckt sich über einen großen Teil der Mongolei.
+
+  Cette région est un véritable *désert* culturel.
+  Diese Region ist ein wahres kulturelles *Ödland*.
+
+  L'explorateur s'est perdu dans l'immensité du *désert*.
+  Der Entdecker hat sich in der Weite der *Wüste* verirrt.
+
+  Les dunes de sable dominent le paysage *désertique*.
+  Die Sanddünen dominieren die *wüstenartige* Landschaft.
+
+  La maison semblait *déserte*, mais une lumière brillait à l'étage.
+  Das Haus schien *verlassen*, aber im oberen Stockwerk brannte ein Licht.
+
+  Les rues *désertes* de la ville offraient un spectacle étrange.
+  Die *menschenleeren* Straßen der Stadt boten einen seltsamen Anblick.
+
+  Le silence régnait dans l'appartement *désert*.
+  In der *leeren* Wohnung herrschte Stille.
+
+  Les caravanes traversent le *désert* depuis des millénaires.
+  Karawanen durchqueren die *Wüste* seit Jahrtausenden.
+
+  Son discours n'a eu aucun impact ; il a prêché dans le *désert*.
+  Seine Rede hatte keine Wirkung; er hat *in den Wind geredet*.
+
+  Les oasis sont des havres de vie dans le *désert*.
+  Oasen sind Lebensinseln in der *Wüste*.
+
+  Le *désert* d'Atacama est l'un des endroits les plus arides du monde.
+  Die Atacama-*Wüste* ist einer der trockensten Orte der Welt.
+
+  La salle de concert était *déserte* ; le concert avait été annulé.
+  Der Konzertsaal war *leer*; das Konzert war abgesagt worden.
+
+  Les touristes rêvent souvent de s'évader sur une île *déserte*.
+  Touristen träumen oft davon, auf eine *einsame* Insel zu fliehen.
+
+  Le paysage *désertique* s'étendait à perte de vue.
+  Die *wüstenartige* Landschaft erstreckte sich so weit das Auge reichte.
+
+  Les archéologues ont découvert une ancienne cité dans le *désert*.
+  Die Archäologen haben eine antike Stadt in der *Wüste* entdeckt.
+
+  La fermeture des usines a transformé la ville en *désert* économique.
+  Die Schließung der Fabriken hat die Stadt in eine wirtschaftliche *Einöde* verwandelt.
+
+  Les astronautes s'entraînent dans le *désert* pour simuler les conditions sur Mars.
+  Die Astronauten trainieren in der *Wüste*, um die Bedingungen auf dem Mars zu simulieren.
+
+  Le *désert* polaire de l'Antarctique est le plus froid du monde.
+  Die polare *Eiswüste* der Antarktis ist die kälteste der Welt.
+
+  La campagne électorale de ce candidat a été une véritable traversée du *désert*.
+  Der Wahlkampf dieses Kandidaten war eine wahre *Durststrecke*.
+
+  Les nomades ont appris à survivre dans les conditions extrêmes du *désert*.
+  Die Nomaden haben gelernt, unter den extremen Bedingungen der *Wüste* zu überleben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,14 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il faut rappeler le rôle fondateur qu’a joué.
-  Man muss an die Gründungsrolle erinnern, die sie gespielt hat.
+  Il faut rappeler le rôle *fondateur* qu'a joué.
+  Man muss an die *Gründungs*rolle erinnern, die sie gespielt hat.
 
-  Le fondateur de cette entreprise est très connu.
-  Der Gründer dieses Unternehmens ist sehr bekannt.
+  Marie Curie est considérée comme la *fondatrice* de la radiochimie.
+  Marie Curie gilt als *Begründerin* der Radiochemie.
 
-  Marie est la fondatrice de l'entreprise.
-  Marie ist die Firmengründerin.
+  Le *fondateur* de cette entreprise a commencé avec seulement trois employés.
+  Der *Gründer* dieses Unternehmens begann mit nur drei Angestellten.
+
+  Les *fondateurs* de la startup ont dû faire face à de nombreux défis au début.
+  Die *Gründer* des Startups mussten sich anfangs vielen Herausforderungen stellen.
+
+  Cette association caritative recherche de nouveaux *fondateurs* pour soutenir ses projets.
+  Dieser Wohltätigkeitsverein sucht neue *Stifter*, um seine Projekte zu unterstützen.
+
+  La *fondatrice* du prix littéraire souhaitait encourager les jeunes auteurs.
+  Die *Stifterin* des Literaturpreises wollte junge Autoren ermutigen.
+
+  Les idées *fondatrices* de la démocratie moderne remontent à la Grèce antique.
+  Die *grundlegenden* Ideen der modernen Demokratie gehen auf das antike Griechenland zurück.
+
+  Le mythe *fondateur* de Rome raconte l'histoire de Romulus et Remus.
+  Der *Gründungsmythos* Roms erzählt die Geschichte von Romulus und Remus.
+
+  La *fondatrice* de cette ONG a consacré sa vie à aider les enfants défavorisés.
+  Die *Gründerin* dieser NGO hat ihr Leben der Hilfe für benachteiligte Kinder gewidmet.
+
+  Les *fondateurs* de l'entreprise ont décidé de la vendre après 30 ans de succès.
+  Die *Gründer* des Unternehmens beschlossen, es nach 30 Jahren Erfolg zu verkaufen.
+
+  Ce texte *fondateur* a influencé des générations de philosophes.
+  Dieser *grundlegende* Text hat Generationen von Philosophen beeinflusst.
+
+  La ville honore chaque année la mémoire de son *fondateur* par une grande fête.
+  Die Stadt ehrt jedes Jahr das Andenken an ihren *Gründer* mit einem großen Fest.
+
+  Les *fondateurs* de cette école de pensée ont révolutionné leur domaine.
+  Die *Begründer* dieser Denkschule haben ihr Fachgebiet revolutioniert.
+
+  La *fondatrice* du musée a fait don de sa collection personnelle.
+  Die *Gründerin* des Museums hat ihre persönliche Sammlung gestiftet.
+
+  Le rôle des *fondateurs* est crucial dans les premières années d'une entreprise.
+  Die Rolle der *Gründer* ist in den ersten Jahren eines Unternehmens entscheidend.
+
+  Cette université porte le nom de son généreux *fondateur*.
+  Diese Universität trägt den Namen ihres großzügigen *Stifters*.
+
+  Les principes *fondateurs* de l'organisation sont inscrits dans sa charte.
+  Die *grundlegenden* Prinzipien der Organisation sind in ihrer Satzung festgehalten.
+
+  La *fondatrice* de cette méthode pédagogique a révolutionné l'éducation des enfants.
+  Die *Begründerin* dieser pädagogischen Methode hat die Kindererziehung revolutioniert.
+
+  Les *fondateurs* de la constitution américaine sont souvent appelés les "Pères fondateurs".
+  Die *Gründerväter* der amerikanischen Verfassung werden oft als "Founding Fathers" bezeichnet.
+
+  Le geste *fondateur* du roi a marqué le début d'une nouvelle ère pour le pays.
+  Die *grundlegende* Geste des Königs markierte den Beginn einer neuen Ära für das Land.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

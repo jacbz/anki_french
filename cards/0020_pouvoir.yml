@@ -13,41 +13,182 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tu peux jouer de la guitare électrique.
-  Du kannst E-Gitarre spielen.
+  Tu *peux* jouer de la guitare électrique.
+  Du *kannst* E-Gitarre spielen.
 
-  Je peux parler français.
-  Ich kann Französisch sprechen.
+  Je ne *peux* pas venir à la fête ce soir, je suis malade.
+  Ich *kann* heute Abend nicht zur Party kommen, ich bin krank.
 
-  Tu peux aller jouer au parc, le soleil brille !
-  Du kannst spielen gehen im Park, die Sonne scheint!
+  *Puis-je* vous poser une question ?
+  *Darf* ich Ihnen eine Frage stellen?
 
-  Il peut pleuvoir cet après-midi, prends ton parapluie.
-  Es kann heute Nachmittag regnen, nimm deinen Regenschirm mit.
+  Elle a fait tout ce qu'elle a *pu* pour aider son ami.
+  Sie hat alles getan, was sie *konnte*, um ihrem Freund zu helfen.
 
-  Je peux faire quelque chose pour toi, n'hésite pas à me demander.
-  Ich kann etwas für dich tun, zögere nicht, mich zu fragen.
+  Je ne *peux* pas m'empêcher de rire quand je vois cette vidéo.
+  Ich *kann* nicht anders, als zu lachen, wenn ich dieses Video sehe.
 
-  Cela se peut, mais je ne suis pas sûr.
-  Das kann sein, aber ich bin mir nicht sicher.
+  Il *pourrait* être en retard à cause des embouteillages.
+  Er *könnte* wegen des Staus zu spät kommen.
 
-  Le parti au pouvoir a annoncé de nouvelles mesures économiques.
-  Die regierende Partei hat neue Wirtschaftsmaßnahmen angekündigt.
+  Quel âge *peut*-il bien avoir ? Il a l'air si jeune !
+  Wie alt *mag* er wohl sein? Er sieht so jung aus!
 
-  J'ai fait ce que j'ai pu pour l'aider, mais il ne voulait rien savoir.
-  Ich habe getan, was ich konnte, um ihm zu helfen, aber er wollte nichts wissen.
+  L'orage *pourrait* éclater d'un moment à l'autre.
+  Das Gewitter *könnte* jeden Augenblick losbrechen.
 
-  Elle peut être en France, mais je n'en suis pas certain.
-  Sie kann in Frankreich sein, aber ich bin mir nicht sicher.
+  C'est une erreur qui *peut* arriver à tout le monde.
+  Das ist ein Fehler, der jedem passieren *kann*.
 
-  Tu peux bien me prêter ton vélo, j'ai vraiment besoin d'aller au marché.
-  Du kannst mir doch wirklich dein Fahrrad leihen, ich muss unbedingt zum Markt.
+  Tu *pourrais* me prêter ton livre ? J'aimerais le lire.
+  *Könntest* du mir dein Buch leihen? Ich würde es gerne lesen.
 
-  Puisse-t-il guérir vite et retrouver la santé!
-  Wenn er doch nur schnell gesund werden könnte und wieder gesund wäre!
+  Tu aurais *pu* me prévenir plus tôt !
+  Das hättest du mir früher sagen *können*!
 
-  Le pouvoir discrétionnaire du juge est une notion complexe.
-  Das richterliche Ermessen ist ein komplexer Begriff.
+  *Puisse*-t-il réussir son examen !
+  Möge er seine Prüfung bestehen *können*!
+
+  Il *peut* pleuvoir demain, n'oublie pas ton parapluie.
+  Es *kann* morgen regnen, vergiss deinen Regenschirm nicht.
+
+  Cela aurait *pu* être un grave accident.
+  Es hätte ein schwerer Unfall sein *können*.
+
+  Je ne *peux* rien faire pour l'aider dans cette situation.
+  Ich *kann* in dieser Situation nichts für ihn tun.
+
+  Son discours était *on ne peut* mieux.
+  Seine Rede war *bestens*.
+
+  Elle n'en *pouvait* plus de fatigue après cette longue journée.
+  Sie *konnte* vor Müdigkeit nicht mehr nach diesem langen Tag.
+
+  Je n'y *peux* rien si le train est en retard.
+  Ich *kann* nichts dafür, wenn der Zug Verspätung hat.
+
+  *Si l'on peut dire*, son comportement était un peu étrange.
+  *Wenn man so sagen darf*, war sein Verhalten ein bisschen seltsam.
+
+  *On peut dire* qu'il a vraiment réussi son projet.
+  Man *kann* wohl sagen, dass er sein Projekt wirklich erfolgreich abgeschlossen hat.
+
+  Le moins qu'on *puisse* dire, c'est que la situation est compliquée.
+  Das Mindeste, was man sagen *kann*, ist, dass die Situation kompliziert ist.
+
+  Qu'est-ce que cela *peut* te faire si je pars en vacances ?
+  Was *geht* es dich an, wenn ich in den Urlaub fahre?
+
+  Je ne *peux* rien y faire, c'est la décision du patron.
+  Ich *kann* nichts daran ändern, es ist die Entscheidung des Chefs.
+
+  Cela *se peut*, mais je n'en suis pas certain.
+  Das *kann* sein, aber ich bin mir nicht sicher.
+
+  Il *se pourrait* qu'elle obtienne le poste.
+  Es *könnte* sein, dass sie die Stelle bekommt.
+
+  Nous ferons de notre mieux, autant que faire *se peut*.
+  Wir werden unser Bestes tun, soweit es *möglich* ist.
+
+  Le parti au *pouvoir* a annoncé de nouvelles réformes.
+  Die regierende *Macht* hat neue Reformen angekündigt.
+
+  Le nouveau président est arrivé au *pouvoir* l'année dernière.
+  Der neue Präsident ist letztes Jahr an die *Macht* gekommen.
+
+  Elle a un grand *pouvoir* sur ses employés.
+  Sie hat eine große *Macht* über ihre Angestellten.
+
+  Le *pouvoir* de la presse est considérable dans notre société.
+  Die *Macht* der Presse ist in unserer Gesellschaft beträchtlich.
+
+  Il est en mon *pouvoir* de changer cette décision.
+  Es steht in meiner *Macht*, diese Entscheidung zu ändern.
+
+  Son charisme lui donne un grand *pouvoir* sur son auditoire.
+  Sein Charisma gibt ihm einen großen *Einfluss* auf sein Publikum.
+
+  Le *pouvoir exécutif* est responsable devant le parlement.
+  Die *Exekutive* ist dem Parlament gegenüber verantwortlich.
+
+  La séparation des *pouvoirs* est essentielle en démocratie.
+  Die *Gewalten*teilung ist in einer Demokratie von wesentlicher Bedeutung.
+
+  Les *pouvoirs publics* ont pris des mesures pour lutter contre la pollution.
+  Die *Behörden* haben Maßnahmen zur Bekämpfung der Umweltverschmutzung ergriffen.
+
+  Le juge a un *pouvoir discrétionnaire* dans cette affaire.
+  Der Richter hat in dieser Angelegenheit *Ermessensspielraum*.
+
+  Le directeur a abusé de son *pouvoir discrétionnaire*.
+  Der Direktor hat seinen *Ermessensspielraum* missbraucht.
+
+  Le gouvernement a reçu des *pouvoirs exceptionnels* pour gérer la crise.
+  Die Regierung hat *Sondervollmachten* erhalten, um die Krise zu bewältigen.
+
+  Il a dépassé ses *pouvoirs* en prenant cette décision.
+  Er hat seine *Befugnisse* bei dieser Entscheidung überschritten.
+
+  J'ai donné *pouvoir* à mon frère pour gérer mes affaires pendant mon absence.
+  Ich habe meinem Bruder *Vollmacht* erteilt, um meine Angelegenheiten während meiner Abwesenheit zu regeln.
+
+  Ce tissu a un grand *pouvoir* absorbant.
+  Dieser Stoff hat eine hohe Saug*fähigkeit*.
+
+  Les plantes ont le *pouvoir* de purifier l'air.
+  Pflanzen haben die *Fähigkeit*, die Luft zu reinigen.
+
+  "Je ne *peux* pas croire qu'il ait dit ça !" s'est-elle exclamée.
+  "Ich *kann* nicht glauben, dass er das gesagt hat!", rief sie aus.
+
+  *Pourrais*-tu m'aider à déplacer ce meuble ?
+  *Könntest* du mir helfen, dieses Möbelstück zu verschieben?
+
+  Nous *pourrons* partir en vacances dès que j'aurai fini ce projet.
+  Wir *können* in den Urlaub fahren, sobald ich dieses Projekt abgeschlossen habe.
+
+  Elle *peut* parler cinq langues couramment.
+  Sie *kann* fünf Sprachen fließend sprechen.
+
+  Je ne *peux* pas me concentrer avec tout ce bruit.
+  Ich *kann* mich bei all dem Lärm nicht konzentrieren.
+
+  *Puissiez*-vous trouver le bonheur dans votre nouvelle maison !
+  Mögen Sie in Ihrem neuen Haus das Glück finden *können*!
+
+  Il *se peut* que nous ayons des invités ce soir.
+  Es *kann* sein, dass wir heute Abend Gäste haben.
+
+  Personne ne *pouvait* prévoir ce qui allait se passer.
+  Niemand *konnte* vorhersehen, was passieren würde.
+
+  Avec cet appareil, vous *pourrez* prendre de meilleures photos.
+  Mit diesem Gerät *können* Sie bessere Fotos machen.
+
+  Nous avons fait tout ce que nous *pouvions* pour l'aider.
+  Wir haben alles getan, was wir *konnten*, um ihm zu helfen.
+
+  Je *peux* vous assurer que ce produit est de la meilleure qualité.
+  Ich *kann* Ihnen versichern, dass dieses Produkt von höchster Qualität ist.
+
+  *Pouvons*-nous reporter la réunion à la semaine prochaine ?
+  *Können* wir das Meeting auf nächste Woche verschieben?
+
+  Il ne *peut* s'empêcher de sourire quand il la voit.
+  Er *kann* sich ein Lächeln nicht verkneifen, wenn er sie sieht.
+
+  Elles *pourront* participer au concours l'année prochaine.
+  Sie *werden* nächstes Jahr am Wettbewerb teilnehmen *können*.
+
+  Je *peux* comprendre pourquoi tu es frustré.
+  Ich *kann* verstehen, warum du frustriert bist.
+
+  Nous ne *pouvons* pas ignorer ce problème plus longtemps.
+  Wir *können* dieses Problem nicht länger ignorieren.
+
+  *Peut*-être qu'il viendra à la fête, mais ce n'est pas sûr.
+  *Vielleicht* kommt er zur Party, aber es ist nicht sicher.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

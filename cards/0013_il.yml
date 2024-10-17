@@ -13,38 +13,128 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Allez voir s’il est blessé.
-  Sehen Sie nach, ob er verletzt ist.
+  Allez voir s'*il* est blessé.
+  Sehen Sie nach, ob *er* verletzt ist.
 
-  Il est grand et brun.
-  Er ist groß und braun.
+  *Il* pleut des cordes aujourd'hui.
+  *Es* gießt heute in Strömen.
 
-  Louis a-t-il ses clés ?
-  Hat Louis seine Schlüssel?
+  *Il* est vrai que la situation est complexe.
+  *Es* stimmt, dass die Situation komplex ist.
 
-  Il est beau, ce costume !
-  Der Anzug ist schön!
+  Pierre cherche son briquet et *il* s'énerve.
+  Pierre sucht sein Feuerzeug und *er* regt sich auf.
 
-  Il est possible qu'elle fasse une promenade dans le parc.
-  Es ist möglich, dass sie im Park spazieren geht.
+  Ton frère part-*il* avec nous ce week-end ?
+  Fährt dein Bruder dieses Wochenende mit *uns*?
 
-  L'hôtel a-t-il un jardin ?
-  Hat das Hotel einen Garten?
+  "*Ils* vont encore augmenter les impôts !" se plaignait-elle.
+  "*Sie* werden die Steuern schon wieder erhöhen!", beschwerte sie sich.
 
-  Le courrier est-il arrivé ?
-  Ist die Post schon da?
+  *Il* fait un froid de canard ce matin.
+  *Es* ist bitterkalt heute Morgen.
 
-  Regarde le soleil, il se couche !
-  Sieh mal, die Sonne geht unter!
+  *Il* était une fois une princesse dans un château lointain.
+  *Es* war einmal eine Prinzessin in einem fernen Schloss.
 
-  Il est assez petit, ce cheval.
-  Dieses Pferd ist ziemlich klein.
+  Quelle heure est-*il* ? Je dois partir bientôt.
+  Wie spät ist *es*? Ich muss bald los.
 
-  Il faudrait que je descende en ville pour faire quelques courses.
-  Ich müsste in die Stadt fahren, um ein paar Einkäufe zu erledigen.
+  *Il* se fait tard, nous devrions rentrer.
+  *Es* wird spät, wir sollten nach Hause gehen.
 
-  Il paraît qu'elle a fait une bêtise et a oublié son anniversaire.
-  Es scheint, dass sie eine Dummheit gemacht hat und seinen Geburtstag vergessen hat.
+  Votre frère ne viendra pas, *il* est malade.
+  Ihr Bruder wird nicht kommen, *er* ist krank.
+
+  *Il* s'agit de votre avenir, réfléchissez bien.
+  *Es* geht um Ihre Zukunft, denken Sie gut darüber nach.
+
+  *Il* tombe des grêlons, mettez-vous à l'abri !
+  *Es* hagelt, bringt euch in Sicherheit!
+
+  *Il* n'importe ce qu'*ils* pensent, fais ce qui est juste.
+  *Es* spielt keine Rolle, was *sie* denken, tu das Richtige.
+
+  La colle, les ciseaux ? *Ils* sont dans le tiroir du bureau.
+  Der Kleber, die Schere? *Sie* sind in der Schublade des Schreibtisches.
+
+  *Il* paraît qu'elle a gagné au loto.
+  *Es* scheint, dass sie im Lotto gewonnen hat.
+
+  *Il* faudrait que je descende en ville cet après-midi.
+  *Ich* müsste heute Nachmittag in die Stadt fahren.
+
+  *Il* y a deux ans, nous étions encore étudiants.
+  Vor zwei Jahren waren wir noch Studenten.
+
+  Louis a-t-*il* ses clés ? Je ne veux pas qu'*il* reste dehors.
+  Hat Louis *seine* Schlüssel? Ich möchte nicht, dass *er* draußen bleibt.
+
+  L'hôtel a-t-*il* un jardin où nous pourrions nous promener ?
+  Hat das Hotel einen Garten, in dem wir spazieren gehen könnten?
+
+  Le courrier est-*il* arrivé ? J'attends un colis important.
+  Ist die Post schon da? Ich warte auf ein wichtiges Paket.
+
+  *Il* est beau, ce costume que tu portes.
+  *Er* ist schön, der Anzug, den du trägst.
+
+  Regarde le soleil, *il* se couche derrière les montagnes.
+  Sieh mal die Sonne, *sie* geht hinter den Bergen unter.
+
+  *Il* est assez petit, ce cheval, mais *il* est très rapide.
+  *Es* ist ziemlich klein, dieses Pferd, aber *es* ist sehr schnell.
+
+  *Il* est possible qu'elle fasse une promenade ce soir.
+  *Es* ist möglich, dass sie heute Abend spazieren geht.
+
+  *Il* pleut à verse depuis ce matin, nous ne pourrons pas sortir.
+  *Es* regnet in Strömen seit heute Morgen, wir werden nicht ausgehen können.
+
+  Ton ami, *il* est encore en retard pour notre rendez-vous.
+  Dein Freund, *er* ist schon wieder zu spät zu unserem Treffen.
+
+  Ton père et ta mère t'accompagneront-*ils* à l'aéroport demain ?
+  Werden dein Vater und deine Mutter *dich* morgen zum Flughafen begleiten?
+
+  "*Ils* ont encore changé les horaires du bus", se plaignait le vieil homme.
+  "*Sie* haben schon wieder die Busfahrpläne geändert", beschwerte sich der alte Mann.
+
+  *Il* fait une chaleur étouffante aujourd'hui, n'est-ce pas ?
+  *Es* ist heute schwülheiß, nicht wahr?
+
+  *Il* a neigé toute la nuit, la ville est magnifique ce matin.
+  *Es* hat die ganze Nacht geschneit, die Stadt sieht heute Morgen wunderschön aus.
+
+  *Il* est grand temps que nous partions, le train n'attendra pas.
+  *Es* ist höchste Zeit, dass wir aufbrechen, der Zug wird nicht warten.
+
+  *Il* était si fatigué qu'*il* s'est endormi sur le canapé.
+  *Er* war so müde, dass *er* auf dem Sofa eingeschlafen ist.
+
+  "*Il* paraît que tu as eu une promotion", lui dit son ami avec un sourire.
+  "*Es* scheint, du hast eine Beförderung bekommen", sagte sein Freund mit einem Lächeln zu ihm.
+
+  *Il* faut que je te parle de quelque chose d'important.
+  *Ich* muss mit dir über etwas Wichtiges sprechen.
+
+  *Il* y a longtemps que je n'ai pas vu mes parents.
+  *Es* ist lange her, dass ich meine Eltern nicht gesehen habe.
+
+  Sont-*ils* venus à la fête hier soir ?
+  Sind *sie* gestern Abend zur Party gekommen?
+
+  *Il* semble que le temps va s'améliorer demain.
+  *Es* sieht so aus, als würde sich das Wetter morgen bessern.
+
+  *Il* a beau être riche, *il* n'est pas heureux pour autant.
+  *Er* mag zwar reich sein, aber *er* ist deswegen nicht glücklich.
+
+  *Il* est interdit de fumer dans ce bâtiment.
+  *Es* ist in diesem Gebäude verboten zu rauchen.
+
+  *Il* vaut mieux prévenir que guérir, comme on dit.
+  *Es* ist besser vorzubeugen als zu heilen, wie man so schön sagt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

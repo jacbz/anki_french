@@ -13,26 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Un édifice s’élève pierre à pierre.
-  Ein Gebäude wird Stein für Stein errichtet.
+  Un *édifice* s'élève pierre à pierre.
+  Ein *Gebäude* entsteht Stein für Stein.
 
-  Cet édifice est très ancien.
-  Dieses Gebäude ist sehr alt.
+  La mairie est un *édifice* public imposant au centre-ville.
+  Das Rathaus ist ein beeindruckendes öffentliches *Gebäude* im Stadtzentrum.
 
-  Le parlement est un édifice public important.
-  Das Parlament ist ein wichtiges öffentliches Gebäude.
+  L'architecte a conçu un *édifice* central pour le nouveau complexe universitaire.
+  Der Architekt hat einen zentralen *Bau* für den neuen Universitätskomplex entworfen.
 
-  La famille est l'édifice social d'un État.
-  Die Familie ist das soziale Gefüge eines Staates.
+  Le palais royal est un *édifice* pompeux datant du XVIIIe siècle.
+  Der Königspalast ist ein *Prunkbau* aus dem 18. Jahrhundert.
 
-  La cathédrale est l'édifice central de la ville.
-  Die Kathedrale ist der Zentralbau der Stadt.
+  Ce temple grec antique est un magnifique *édifice* à colonnes.
+  Dieser antike griechische Tempel ist ein prächtiger *Säulenbau*.
 
-  Le temple grec est un édifice à colonnes.
-  Der griechische Tempel ist ein Säulenbau.
+  La cathédrale est le plus grand *édifice* sacré de la ville.
+  Die Kathedrale ist das größte *Sakralgebäude* der Stadt.
 
-  L'église est un édifice sacré.
-  Die Kirche ist ein Sakralbau.
+  Le gouvernement travaille à renforcer l'*édifice* social du pays.
+  Die Regierung arbeitet daran, das soziale *Gefüge* des Landes zu stärken.
+
+  Les pompiers ont évacué tous les occupants de l'*édifice* en feu.
+  Die Feuerwehr hat alle Bewohner des brennenden *Gebäudes* evakuiert.
+
+  "Chacun doit apporter sa pierre à l'*édifice*", a déclaré le maire lors de son discours.
+  "Jeder muss seinen Beitrag zum *Aufbau* leisten", erklärte der Bürgermeister in seiner Rede.
+
+  L'*édifice* de leur mariage s'est effondré après vingt ans de vie commune.
+  Das *Gebäude* ihrer Ehe ist nach zwanzig Jahren Zusammenleben eingestürzt.
+
+  Les archéologues ont découvert les ruines d'un ancien *édifice* romain.
+  Die Archäologen haben die Ruinen eines alten römischen *Bauwerks* entdeckt.
+
+  Le nouveau gratte-ciel est l'*édifice* le plus haut de la skyline.
+  Der neue Wolkenkratzer ist das höchste *Gebäude* in der Skyline.
+
+  La restauration de cet *édifice* historique prendra plusieurs années.
+  Die Restaurierung dieses historischen *Bauwerks* wird mehrere Jahre dauern.
+
+  Les touristes admiraient l'*édifice* couronné d'une magnifique coupole dorée.
+  Die Touristen bewunderten das *Gebäude*, das von einer prächtigen goldenen Kuppel gekrönt war.
+
+  Cet *édifice* du culte accueille des fidèles de toutes confessions.
+  Dieses *Gotteshaus* empfängt Gläubige aller Konfessionen.
+
+  La corruption menace de faire s'écrouler tout l'*édifice* démocratique.
+  Die Korruption droht, das ganze demokratische *Gebäude* zum Einsturz zu bringen.
+
+  Les cheveux savamment coiffés formaient un *édifice* impressionnant sur sa tête.
+  Die kunstvoll frisierten Haare bildeten einen beeindruckenden *Aufbau* auf ihrem Kopf.
+
+  Le Parlement européen est un *édifice* moderne situé à Strasbourg.
+  Das Europäische Parlament ist ein modernes *Gebäude* in Straßburg.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

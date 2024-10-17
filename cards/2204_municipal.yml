@@ -13,29 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les élus municipaux méritent notre respect.
-  Gewählte Gemeindevertreter verdienen unseren Respekt.
+  Les élus *municipaux* méritent notre respect.
+  Die *kommunalen* Volksvertreter verdienen unseren Respekt.
 
-  Le conseil municipal a voté pour le nouveau projet.
-  Der Gemeinderat hat für das neue Projekt gestimmt.
+  La piscine *municipale* est fermée pour rénovation.
+  Das *städtische* Schwimmbad ist wegen Renovierung geschlossen.
 
-  Le parlement municipal de la ville a voté une nouvelle mesure pour améliorer la sécurité des rues.
-  Das Kommunalparlament der Stadt hat eine neue Maßnahme beschlossen, um die Sicherheit in den Straßen zu verbessern.
+  Notre *conseil municipal* se réunit tous les mardis soir.
+  Unser *Gemeinderat* trifft sich jeden Dienstagabend.
 
-  Le conseiller municipal a proposé une nouvelle initiative pour soutenir les jeunes entrepreneurs.
-  Der Stadtrat hat eine neue Initiative vorgeschlagen, um junge Unternehmer zu unterstützen.
+  La bibliothèque *municipale* propose des lectures pour enfants.
+  Die *Stadt*bibliothek bietet Lesungen für Kinder an.
 
-  Les élections municipales auront lieu dans quelques semaines.
-  Die Kommunalwahlen finden in wenigen Wochen statt.
+  Les agents de la police *municipale* patrouillent dans le quartier.
+  Die Beamten der *Stadt*polizei patrouillieren im Viertel.
 
-  La femme politique municipale a annoncé un nouveau programme pour lutter contre la pauvreté.
-  Die Kommunalpolitikerin hat ein neues Programm zur Bekämpfung der Armut angekündigt.
+  Le stade *municipal* accueillera un grand concert cet été.
+  Das *städtische* Stadion wird diesen Sommer ein großes Konzert beherbergen.
 
-  Cette mesure sur le plan de la politique municipale est un pas dans la bonne direction.
-  Diese kommunalpolitische Maßnahme ist ein Schritt in die richtige Richtung.
+  La nouvelle *conseillère municipale* a proposé des changements intéressants.
+  Die neue *Stadt*rätin hat interessante Änderungen vorgeschlagen.
 
-  La décision du maire est une bonne décision pour la politique municipale.
-  Die Entscheidung des Bürgermeisters ist eine kommunalpolitisch richtige Entscheidung.
+  Les *élections municipales* auront lieu en mars prochain.
+  Die *Kommunalwahlen* finden im nächsten März statt.
+
+  Cette *mesure municipale* vise à réduire la pollution.
+  Diese *kommunale* Maßnahme zielt darauf ab, die Umweltverschmutzung zu reduzieren.
+
+  Le budget *municipal* sera voté la semaine prochaine.
+  Der *städtische* Haushalt wird nächste Woche verabschiedet.
+
+  L'école *municipale* de musique cherche un nouveau professeur de piano.
+  Die *städtische* Musikschule sucht einen neuen Klavierlehrer.
+
+  Le théâtre *municipal* présente une nouvelle pièce.
+  Das *Stadt*theater führt ein neues Stück auf.
+
+  Un arrêté *municipal* interdit le stationnement dans cette rue.
+  Eine *städtische* Verordnung verbietet das Parken in dieser Straße.
+
+  La nouvelle *politique municipale* encourage l'usage du vélo.
+  Die neue *Kommunal*politik fördert die Nutzung des Fahrrads.
+
+  Le service *municipal* des sports organise un tournoi.
+  Das *städtische* Sportamt organisiert ein Turnier.
+
+  Les archives *municipales* conservent des documents historiques précieux.
+  Das *Stadt*archiv bewahrt wertvolle historische Dokumente auf.
+
+  Notre équipe *municipale* travaille sur un projet écologique.
+  Unser *kommunales* Team arbeitet an einem Umweltprojekt.
+
+  Le parc *municipal* sera agrandi l'année prochaine.
+  Der *Stadt*park wird nächstes Jahr vergrößert.
+
+  La cantine *municipale* propose des repas bio.
+  Die *städtische* Kantine bietet Bio-Mahlzeiten an.
+
+  Le centre culturel *municipal* organise une exposition d'art moderne.
+  Das *städtische* Kulturzentrum organisiert eine Ausstellung moderner Kunst.
+
+  Les services *municipaux* seront fermés pendant les fêtes.
+  Die *städtischen* Ämter bleiben während der Feiertage geschlossen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

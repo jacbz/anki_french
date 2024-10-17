@@ -13,20 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Reculer est également hors de question.
-  Zurückweichen kommt ebenfalls nicht in Frage.
+  Reculer est *également* hors de question.
+  Ein Rückzug ist *ebenfalls* ausgeschlossen.
 
-  Je vais également prendre une tasse de thé.
-  Ich werde ebenfalls eine Tasse Tee nehmen.
+  Les deux équipes ont joué *également* bien pendant le match.
+  Beide Mannschaften haben während des Spiels *gleich* gut gespielt.
 
-  Je l’aime également beaucoup.
-  Ich mag ihn ebenfalls sehr.
+  J'aime le chocolat, mais j'apprécie *également* la vanille.
+  Ich mag Schokolade, aber ich schätze *auch* Vanille.
 
-  C’est également ce que je pensais.
-  Das war auch meine Meinung.
+  Elle parle couramment l'anglais et *également* le français.
+  Sie spricht fließend Englisch und *ebenso* Französisch.
 
-  Tu es également mon meilleur ami.
-  Du bist auch mein bester Freund.
+  Nous sommes tous *également* responsables de protéger l'environnement.
+  Wir sind alle *gleichermaßen* dafür verantwortlich, die Umwelt zu schützen.
+
+  Ce restaurant propose des plats végétariens et *également* des options sans gluten.
+  Dieses Restaurant bietet vegetarische Gerichte und *auch* glutenfreie Optionen an.
+
+  Les hommes et les femmes devraient être traités *également* dans la société.
+  Männer und Frauen sollten in der Gesellschaft *gleich* behandelt werden.
+
+  Non seulement il est intelligent, mais il est *également* très travailleur.
+  Er ist nicht nur intelligent, sondern *auch* sehr fleißig.
+
+  Ces deux candidats sont *également* qualifiés pour le poste.
+  Diese beiden Kandidaten sind für die Stelle *gleichermaßen* qualifiziert.
+
+  Le bonheur vient de l'intérieur, mais *également* des relations avec les autres.
+  Glück kommt von innen, aber *auch* aus den Beziehungen zu anderen.
+
+  Elle a réussi ses examens et a *également* trouvé un stage intéressant.
+  Sie hat ihre Prüfungen bestanden und *außerdem* ein interessantes Praktikum gefunden.
+
+  Ce médicament soulage la douleur et aide *également* à réduire l'inflammation.
+  Dieses Medikament lindert den Schmerz und hilft *zugleich*, die Entzündung zu reduzieren.
+
+  Il faut considérer non seulement le coût, mais *également* la qualité du produit.
+  Man muss nicht nur den Preis, sondern *auch* die Qualität des Produkts berücksichtigen.
+
+  Cette décision affectera notre entreprise, mais *également* nos partenaires.
+  Diese Entscheidung wird unser Unternehmen, aber *auch* unsere Partner beeinflussen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

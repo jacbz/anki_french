@@ -13,38 +13,176 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vive la politique, vive l’amour.
-  Es lebe die Politik, es lebe die Liebe.
+  Vive *la* politique, vive *l'*amour.
+  Es lebe *die* Politik, es lebe *die* Liebe.
 
-  Le chat est sur le canapé.
-  Die Katze ist auf dem Sofa.
+  *Le* chien de mon voisin aboie toute la nuit.
+  *Der* Hund meines Nachbarn bellt die ganze Nacht.
 
-  C'est ton chien ? Je l'ai aidé à sortir de l'eau.
-  Ist das dein Hund? Ich habe ihm aus dem Wasser geholfen.
+  Elle *l'*aime depuis leur première rencontre.
+  Sie liebt *ihn* seit ihrer ersten Begegnung.
 
-  Où est mon porte-monnaie ? Je ne le trouve pas !
-  Wo ist mein Geldbeutel? Ich finde ihn nicht!
+  Je ne trouve pas mon porte-monnaie, *le* vois-tu quelque part?
+  Ich finde meinen Geldbeutel nicht, siehst du *ihn* irgendwo?
 
-  Là-bas, il y a un chien, le vois-tu ?
-  Da drüben ist ein Hund, siehst du ihn?
+  *La* lune brille d'un éclat particulier ce soir.
+  *Der* Mond scheint heute Abend besonders hell.
 
-  Il le laisse conduire la voiture, même s'il est encore jeune.
-  Er lässt ihn das Auto fahren, obwohl er noch jung ist.
+  Il faut fermer *le* verrou avant de partir.
+  Man muss *den* Riegel schließen, bevor man geht.
 
-  Tu es déçu, je le comprends, mais il faut rester positif.
-  Du bist enttäuscht, das verstehe ich, aber man muss positiv bleiben.
+  "Tu ne t'es pas lavé *les* mains avant de manger?"
+  "Hast du dir nicht *die* Hände gewaschen, bevor du gegessen hast?"
 
-  Le chien est très heureux de te revoir.
-  Der Hund ist sehr glücklich, dich wiederzusehen.
+  *Le* Paris de ma jeunesse était bien différent.
+  *Das* Paris meiner Jugend war ganz anders.
 
-  Le voilà tout propre, il a pris un bain.
-  Jetzt ist er sauber, er hat ein Bad genommen.
+  *Le* boire et *le* manger sont essentiels à la vie.
+  *Das* Trinken und *das* Essen sind lebenswichtig.
 
-  Elle le voit et le salue chaque jour.
-  Sie sieht ihn und grüßt ihn jeden Tag.
+  Ces pommes coûtent trois euros *le* kilo.
+  Diese Äpfel kosten drei Euro *pro* Kilo.
 
-  Elle le suit partout où il va.
-  Sie folgt ihm überallhin, wo er hingeht.
+  Quelle main préfères-tu, *la* droite ou *la* gauche?
+  Welche Hand bevorzugst du, *die* rechte oder *die* linke?
+
+  C'est *le* plus beau cadeau que j'aie jamais reçu.
+  Das ist *das* schönste Geschenk, das ich je bekommen habe.
+
+  *L'*un ou *l'*autre fera l'affaire, peu importe.
+  *Der* eine oder *der* andere wird es tun, egal welcher.
+
+  Claire? Je *la* connais depuis l'université.
+  Claire? Ich kenne *sie* seit der Universität.
+
+  Je vais vous *le* dire une fois pour toutes.
+  Ich werde es *Ihnen* ein für alle Mal sagen.
+
+  Elle s'habille toujours à *l'*européenne.
+  Sie kleidet sich immer nach *europäischer* Art.
+
+  Tu n'es pas compétent, mais tu *le* deviendras avec le temps.
+  Du bist nicht kompetent, aber du wirst *es* mit der Zeit werden.
+
+  *L'*homme est un mammifère doué de raison.
+  *Der* Mensch ist ein mit Vernunft begabtes Säugetier.
+
+  J'adore *les* enfants, ils sont si pleins de vie.
+  Ich liebe *die* Kinder, sie sind so voller Leben.
+
+  *Le* soleil et *la* lune rythment nos journées.
+  *Die* Sonne und *der* Mond bestimmen den Rhythmus unserer Tage.
+
+  Il partit *le* lendemain sans dire au revoir.
+  Er reiste *am* nächsten Tag ab, ohne sich zu verabschieden.
+
+  Elle a mal à *la* tête depuis ce matin.
+  Sie hat seit heute Morgen Kopfschmerzen.
+
+  *Le* Japon est connu pour sa technologie avancée.
+  *Japan* ist für seine fortschrittliche Technologie bekannt.
+
+  *La* Provence est une région magnifique en été.
+  *Die* Provence ist im Sommer eine wunderschöne Region.
+
+  *Le* Rhône traverse plusieurs grandes villes françaises.
+  *Die* Rhône fließt durch mehrere große französische Städte.
+
+  *Les* Dupont sont nos voisins depuis des années.
+  *Die* Duponts sind seit Jahren unsere Nachbarn.
+
+  *Le* pourquoi du comment m'échappe dans cette affaire.
+  *Das* Warum und Wie entgeht mir in dieser Angelegenheit.
+
+  *Les* moins de vingt ans ne peuvent pas entrer dans ce bar.
+  *Die* unter Zwanzigjährigen dürfen diese Bar nicht betreten.
+
+  Il vient trois fois *la* semaine pour s'entraîner.
+  Er kommt dreimal *pro* Woche zum Training.
+
+  C'est elle qui chante *le* mieux dans notre chorale.
+  Sie singt *am* besten in unserem Chor.
+
+  Ce jour-là, elle fut *la* plus heureuse de sa vie.
+  An diesem Tag war sie *die* glücklichste ihres Lebens.
+
+  *L'*un et *l'*autre ont leurs avantages et inconvénients.
+  *Beide* haben ihre Vor- und Nachteile.
+
+  Tout *le* monde est invité à la fête ce soir.
+  *Jeder* ist heute Abend zur Party eingeladen.
+
+  *Le* mien est plus grand que *le* tien.
+  *Meins* ist größer als *deins*.
+
+  *La* plupart des gens aiment le chocolat.
+  *Die* meisten Menschen mögen Schokolade.
+
+  Il prend toujours les choses à *la* légère.
+  Er nimmt die Dinge immer auf *die* leichte Schulter.
+
+  *Le* voici qui arrive enfin!
+  Da kommt er endlich!
+
+  Je vais vous *le* donner en mille : c'est impossible.
+  Ich gebe *es* Ihnen tausendfach: Es ist unmöglich.
+
+  Ils *l'*ont échappé belle cette fois-ci.
+  Sie sind *davon* dieses Mal gerade noch einmal davongekommen.
+
+  Elle se *la* coule douce depuis sa retraite.
+  Sie lässt *es* sich seit ihrer Rente gut gehen.
+
+  J'étais naïf, mais je ne *le* suis plus maintenant.
+  Ich war naiv, aber ich bin *es* jetzt nicht mehr.
+
+  Cette femme est mon amie et *le* sera toujours.
+  Diese Frau ist meine Freundin und wird *es* immer sein.
+
+  *L'*homme que tu vois là-bas est mon frère.
+  *Der* Mann, den du dort siehst, ist mein Bruder.
+
+  Je *l'*entends chanter tous les matins.
+  Ich höre *sie* jeden Morgen singen.
+
+  Ils *l'*hébergent depuis son arrivée en ville.
+  Sie beherbergen *ihn* seit seiner Ankunft in der Stadt.
+
+  Elle *l'*y a mis sans réfléchir.
+  Sie hat *es* dort hingelegt, ohne nachzudenken.
+
+  Je *l'*en remercie sincèrement.
+  Ich danke *ihm* aufrichtig dafür.
+
+  Faites-*le* entrer, s'il vous plaît.
+  Lassen Sie *ihn* bitte eintreten.
+
+  *L'*école commence à huit heures tous les jours.
+  *Die* Schule beginnt jeden Tag um acht Uhr.
+
+  *L'*habit ne fait pas le moine, comme on dit.
+  *Das* Kleid macht noch keinen Mönch, wie man so sagt.
+
+  *La* voiture que j'ai achetée hier est en panne.
+  *Das* Auto, das ich gestern gekauft habe, ist kaputt.
+
+  *Le* chat dort sur *le* canapé toute la journée.
+  *Die* Katze schläft den ganzen Tag auf *dem* Sofa.
+
+  Il faut toujours dire *la* vérité, même si c'est difficile.
+  Man muss immer *die* Wahrheit sagen, auch wenn es schwierig ist.
+
+  *Les* oiseaux chantent dès *l'*aube.
+  *Die* Vögel singen schon bei *der* Morgendämmerung.
+
+  Je préfère *le* thé au café *le* matin.
+  Ich bevorzuge *den* Tee gegenüber *dem* Kaffee am Morgen.
+
+  *La* patience est une vertu qu'il faut cultiver.
+  *Die* Geduld ist eine Tugend, die man pflegen muss.
+
+  *L'*amour peut surmonter tous *les* obstacles.
+  *Die* Liebe kann alle Hindernisse überwinden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il lui a prédit qu’elle aurait un enfant.
-  Er sagte ihr voraus, dass sie ein Kind bekommen würde.
+  Il lui a *prédit* qu'elle aurait un enfant.
+  Er hat ihr *vorhergesagt*, dass sie ein Kind bekommen würde.
 
-  Je ne peux pas prédire l’avenir.
-  Ich kann die Zukunft nicht vorhersagen.
+  Les météorologues *prédisent* du beau temps pour ce week-end.
+  Die Meteorologen *sagen* für dieses Wochenende schönes Wetter *voraus*.
 
-  La voyante a essayé de prédire l'avenir à Jean, mais elle n'a pas réussi à voir quoi que ce soit de clair.
-  Die Wahrsagerin hat versucht, Jean die Zukunft vorauszusagen, aber sie konnte nichts Konkretes erkennen.
+  "Je vous *prédis* que vous réussirez votre examen", a dit le professeur avec confiance.
+  "Ich *sage Ihnen voraus*, dass Sie Ihre Prüfung bestehen werden", sagte der Lehrer zuversichtlich.
 
-  Les météorologues prédisent qu'il pleuvra demain, il vaut mieux prendre un parapluie.
-  Die Meteorologen sagen voraus, dass es morgen regnen wird, es ist besser, einen Regenschirm mitzunehmen.
+  La voyante prétend pouvoir *prédire* l'avenir en lisant dans les lignes de la main.
+  Die Wahrsagerin behauptet, die Zukunft *vorhersagen* zu können, indem sie aus den Handlinien liest.
+
+  Les experts économiques n'ont pas réussi à *prédire* la crise financière de 2008.
+  Die Wirtschaftsexperten konnten die Finanzkrise von 2008 nicht *vorhersagen*.
+
+  Les scientifiques *prédisent* que le changement climatique aura des conséquences graves.
+  Die Wissenschaftler *sagen voraus*, dass der Klimawandel schwerwiegende Folgen haben wird.
+
+  L'oracle de Delphes a *prédit* à Œdipe qu'il tuerait son père et épouserait sa mère.
+  Das Orakel von Delphi *sagte* Ödipus *voraus*, dass er seinen Vater töten und seine Mutter heiraten würde.
+
+  Les astronomes peuvent *prédire* avec précision quand la prochaine éclipse solaire aura lieu.
+  Die Astronomen können genau *vorhersagen*, wann die nächste Sonnenfinsternis stattfinden wird.
+
+  "Je te l'avais *prédit*!", s'est-elle exclamée quand elle a appris la nouvelle.
+  "Ich habe es dir *vorausgesagt*!", rief sie aus, als sie die Neuigkeit erfuhr.
+
+  Les sondages *prédisent* une victoire serrée pour le candidat de l'opposition.
+  Die Umfragen *sagen* einen knappen Sieg für den Oppositionskandidaten *voraus*.
+
+  On ne peut pas *prédire* l'avenir, mais on peut s'y préparer.
+  Man kann die Zukunft nicht *vorhersagen*, aber man kann sich darauf vorbereiten.
+
+  Les analystes *prédisent* une hausse des taux d'intérêt pour l'année prochaine.
+  Die Analysten *sagen* für das nächste Jahr einen Anstieg der Zinssätze *voraus*.
+
+  Nostradamus est célèbre pour avoir *prédit* de nombreux événements historiques.
+  Nostradamus ist dafür berühmt, viele historische Ereignisse *vorhergesagt* zu haben.
+
+  Le médecin a *prédit* une guérison complète si le patient suivait le traitement prescrit.
+  Der Arzt *sagte* eine vollständige Genesung *voraus*, wenn der Patient die verschriebene Behandlung befolgen würde.
+
+  Les résultats de l'étude *prédisent* une augmentation du chômage dans les prochaines années.
+  Die Ergebnisse der Studie *sagen* einen Anstieg der Arbeitslosigkeit in den kommenden Jahren *voraus*.
+
+  On ne peut pas toujours *prédire* les conséquences de nos actions.
+  Man kann nicht immer die Folgen unserer Handlungen *vorhersagen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

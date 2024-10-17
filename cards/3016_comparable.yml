@@ -13,17 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le bruit était comparable à une explosion.
-  Das Geräusch war mit einer Explosion vergleichbar.
+  Le bruit était *comparable* à une explosion.
+  Der Lärm war mit einer Explosion *vergleichbar*.
 
-  Ce produit est comparable à celui-ci.
-  Dieses Produkt ist vergleichbar mit diesem.
+  Ces deux situations ne sont pas *comparables*.
+  Diese beiden Situationen sind nicht *vergleichbar*.
 
-  Le style de ce peintre est comparable à celui de Picasso.
-  Der Stil dieses Malers ist mit dem von Picasso vergleichbar.
+  Son talent est *comparable* à celui des plus grands artistes.
+  Sein Talent ist mit dem der größten Künstler *vergleichbar*.
 
-  Les deux événements ne sont pas comparables.
-  Die beiden Ereignisse sind nicht vergleichbar.
+  La qualité de ce produit est *comparable* à celle des marques haut de gamme.
+  Die Qualität dieses Produkts ist mit der von High-End-Marken *vergleichbar*.
+
+  Rien n'est *comparable* à l'amour d'une mère.
+  Nichts ist mit der Liebe einer Mutter *vergleichbar*.
+
+  Les résultats de cette année sont *comparables* à ceux de l'année dernière.
+  Die Ergebnisse dieses Jahres sind mit denen des letzten Jahres *vergleichbar*.
+
+  Y a-t-il quelque chose de *comparable* dans votre collection ?
+  Gibt es etwas *Vergleichbares* in Ihrer Sammlung?
+
+  Cette petite ville est *comparable* aux plus grandes capitales en termes de qualité de vie.
+  Diese Kleinstadt ist in Bezug auf die Lebensqualität mit den größten Hauptstädten *vergleichbar*.
+
+  Les effets secondaires sont *comparables* à ceux d'un placebo.
+  Die Nebenwirkungen sind mit denen eines Placebos *vergleichbar*.
+
+  Pour réussir, il nous faudra des moyens *comparables* aux leurs.
+  Um erfolgreich zu sein, werden wir Mittel benötigen, die mit ihren *vergleichbar* sind.
+
+  Son succès n'est *comparable* à aucun autre dans l'histoire de l'entreprise.
+  Sein Erfolg ist mit keinem anderen in der Geschichte des Unternehmens *vergleichbar*.
+
+  Les arguments présentés ne sont pas vraiment *comparables*.
+  Die vorgebrachten Argumente sind nicht wirklich *vergleichbar*.
+
+  Cette performance est *comparable* aux meilleures de sa carrière.
+  Diese Leistung ist mit den besten seiner Karriere *vergleichbar*.
+
+  L'intensité de ce phénomène n'est *comparable* à rien de connu jusqu'à présent.
+  Die Intensität dieses Phänomens ist mit nichts bisher Bekanntem *vergleichbar*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

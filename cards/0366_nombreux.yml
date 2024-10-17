@@ -13,23 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai participé à de nombreux débats de ce genre.
-  Ich habe an vielen solchen Debatten teilgenommen.
+  J'ai participé à de *nombreux* débats de ce genre.
+  Ich habe an *zahlreichen* Debatten dieser Art teilgenommen.
 
-  Ils ont rencontré de nombreux obstacles.
-  Sie haben viele Hindernisse überwunden.
+  Les *nombreux* visiteurs du musée ont admiré la nouvelle exposition.
+  Die *vielen* Museumsbesucher haben die neue Ausstellung bewundert.
 
-  Il a donné de nombreux exemples pour illustrer son propos.
-  Er hat viele Beispiele gegeben, um seine Aussage zu veranschaulichen.
+  "Venez *nombreux* à la fête de ce soir !"
+  "Kommt *zahlreich* zur Party heute Abend!"
 
-  Les nombreux exemples qu'il a présentés étaient très convaincants.
-  Die vielen Beispiele, die er vorgestellt hat, waren sehr überzeugend.
+  Dans de *nombreux* cas, une solution simple s'avère la meilleure.
+  In *vielen* Fällen erweist sich eine einfache Lösung als die beste.
 
-  Les villageois ont été nombreux à y assister, attirés par la promesse d'un spectacle grandiose.
-  Viele Dorfbewohner haben daran teilgenommen, angelockt von dem Versprechen einer großartigen Show.
+  La salle de concert était *nombreuse* ce soir-là.
+  Der Konzertsaal war an diesem Abend gut *besucht*.
 
-  Là-bas, les lynx sont peu nombreux, car leur habitat est menacé par la déforestation.
-  Dort gibt es wenige Luchse, weil ihr Lebensraum durch die Abholzung bedroht ist.
+  Les lynx sont *nombreux* dans cette région montagneuse.
+  In dieser Bergregion gibt es *viele* Luchse.
+
+  Elle a une famille *nombreuse* avec cinq enfants.
+  Sie hat eine *große* Familie mit fünf Kindern.
+
+  Les exemples de ce phénomène sont *nombreux* dans la littérature.
+  Die Beispiele für dieses Phänomen sind in der Literatur *zahlreich*.
+
+  *Nombreux* sont les défis auxquels nous devons faire face.
+  *Zahlreich* sind die Herausforderungen, denen wir uns stellen müssen.
+
+  La *nombreuse* clientèle du magasin témoigne de sa popularité.
+  Die *große* Kundschaft des Geschäfts zeugt von seiner Beliebtheit.
+
+  Les villageois ont été *nombreux* à participer à la fête locale.
+  *Viele* Dorfbewohner haben am örtlichen Fest teilgenommen.
+
+  Cette décision a suscité de *nombreuses* réactions positives.
+  Diese Entscheidung hat *viele* positive Reaktionen hervorgerufen.
+
+  Les *nombreuses* erreurs dans son rapport ont nui à sa crédibilité.
+  Die *zahlreichen* Fehler in seinem Bericht haben seiner Glaubwürdigkeit geschadet.
+
+  Malgré ses *nombreux* efforts, il n'a pas réussi l'examen.
+  Trotz seiner *zahlreichen* Bemühungen hat er die Prüfung nicht bestanden.
+
+  Les spectateurs *nombreux* ont applaudi chaleureusement à la fin du spectacle.
+  Das *zahlreiche* Publikum applaudierte am Ende der Vorstellung herzlich.
+
+  Cette région attire de *nombreux* touristes chaque année.
+  Diese Region zieht jedes Jahr *viele* Touristen an.
+
+  Les *nombreuses* innovations technologiques ont transformé notre façon de vivre.
+  Die *zahlreichen* technologischen Innovationen haben unsere Lebensweise verändert.
+
+  Elle a reçu de *nombreux* cadeaux pour son anniversaire.
+  Sie hat zu ihrem Geburtstag *viele* Geschenke bekommen.
+
+  Les *nombreuses* facettes de sa personnalité le rendent fascinant.
+  Die *vielen* Facetten seiner Persönlichkeit machen ihn faszinierend.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

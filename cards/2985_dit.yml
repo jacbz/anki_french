@@ -13,11 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’OTAN s’est transformée en organisation dite « de sécurité ».
-  Die NATO hat sich in eine sogenannte „Sicherheitsorganisation“ verwandelt.
+  L'OTAN s'est transformée en organisation *dite* « de sécurité ».
+  Die NATO hat sich in eine *sogenannte* Sicherheitsorganisation verwandelt.
 
-  Le train est arrivé à l'heure dite, sans aucun retard.
-  Der Zug kam zur vereinbarten Zeit an, ohne jegliche Verspätung.
+  Philippe IV, *dit* le Bel, était roi de France de 1285 à 1314.
+  Philipp IV., *genannt* der Schöne, war von 1285 bis 1314 König von Frankreich.
+
+  Les participants sont arrivés à l'heure *dite*.
+  Die Teilnehmer kamen zur *vereinbarten* Zeit.
+
+  *Ledit* contrat doit être signé par les deux parties.
+  Der *besagte* Vertrag muss von beiden Parteien unterschrieben werden.
+
+  Nous avons reçu *ladite* lettre hier soir.
+  Wir haben *besagtes* Schreiben gestern Abend erhalten.
+
+  Le propriétaire de *ladite* maison refuse de la vendre.
+  Der Eigentümer des *genannten* Hauses weigert sich, es zu verkaufen.
+
+  Les documents concernant *ledit* véhicule sont incomplets.
+  Die Unterlagen zu *besagtem* Fahrzeug sind unvollständig.
+
+  "Sois à l'endroit *dit* à midi précis."
+  "Sei am *vereinbarten* Ort um Punkt zwölf."
+
+  Les chercheurs ont étudié les *dits* de Confucius.
+  Die Forscher haben die *Aussprüche* von Konfuzius untersucht.
+
+  Les *dits et gestes* des grands philosophes nous inspirent encore.
+  Die *Worte und Taten* der großen Philosophen inspirieren uns noch heute.
+
+  J'ai lu un livre sur les *dits* d'un maître zen.
+  Ich habe ein Buch über die *Sprüche* eines Zen-Meisters gelesen.
+
+  Le musée expose un manuscrit du "*Dit* de l'Herberie".
+  Das Museum stellt ein Manuskript der "*Kräutergeschichte*" aus.
+
+  *Ladite* réunion aura lieu demain matin.
+  *Besagte* Versammlung findet morgen früh statt.
+
+  Le juge a convoqué *lesdits* témoins.
+  Der Richter hat die *besagten* Zeugen vorgeladen.
+
+  Charles V, *dit* le Sage, a fait construire la Bastille.
+  Karl V., *genannt* der Weise, ließ die Bastille errichten.
+
+  Les étudiants doivent rendre leur travail à la date *dite*.
+  Die Studenten müssen ihre Arbeit zum *festgelegten* Termin abgeben.
+
+  L'auteur de *ladite* étude n'a pas été identifié.
+  Der Autor *besagter* Studie wurde nicht identifiziert.
+
+  Les *dits* des anciens sages sont toujours d'actualité.
+  Die *Weisheiten* der alten Weisen sind noch immer aktuell.
+
+  Nous avons examiné *ledit* dossier avec attention.
+  Wir haben *besagte* Akte sorgfältig geprüft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

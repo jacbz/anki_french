@@ -13,32 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le drapeau est plus qu’un simple bout de tissu.
-  Die Flagge ist mehr als nur ein Stück Stoff.
+  Le *drapeau* est plus qu'un simple bout de tissu.
+  Die *Flagge* ist mehr als nur ein Stück Stoff.
 
-  Le drapeau français est bleu, blanc, rouge.
-  Die französische Flagge ist blau, weiß, rot.
+  Le *drapeau* tricolore flotte sur le toit de la mairie.
+  Die *Trikolore* weht auf dem Dach des Rathauses.
 
-  Le drapeau est très beau.
-  Die Flagge ist sehr schön.
+  Chaque pays a son propre *drapeau* national.
+  Jedes Land hat seine eigene National*flagge*.
 
-  C’est le drapeau du Japon.
-  Dies ist die Flagge Japans.
+  Les supporters agitaient des *drapeaux* aux couleurs de leur équipe.
+  Die Fans schwenkten *Fahnen* in den Farben ihrer Mannschaft.
 
-  Le drapeau de l'association est bleu et blanc avec un soleil au centre.
-  Die Vereinsfahne ist blau und weiß mit einer Sonne in der Mitte.
+  Le *drapeau* blanc est un symbole universel de reddition.
+  Die weiße *Fahne* ist ein universelles Symbol der Kapitulation.
 
-  Pierre a été appelé sous les drapeaux il y a six mois.
-  Pierre wurde vor sechs Monaten zum Militärdienst einberufen.
+  L'association a créé son propre *drapeau* pour se démarquer.
+  Der Verein hat seine eigene *Fahne* entworfen, um sich abzuheben.
 
-  Son frère aîné est toujours sous les drapeaux.
-  Sein älterer Bruder ist immer noch bei der Armee.
+  Les *drapeaux* européens flottaient devant le bâtiment du Parlement.
+  Die Europa*flaggen* wehten vor dem Parlamentsgebäude.
 
-  Le drapeau européen, avec ses douze étoiles dorées, est un symbole d'unité et de paix.
-  Die Europaflagge mit ihren zwölf goldenen Sternen ist ein Symbol für Einheit und Frieden.
+  "Hissez le *drapeau* !" cria le capitaine du navire.
+  "Hisst die *Flagge*!" rief der Kapitän des Schiffes.
 
-  Le drapeau national français est un drapeau tricolore, bleu, blanc et rouge.
-  Die französische Nationalflagge ist eine Trikolore, blau, weiß und rot.
+  Le soldat a juré fidélité au *drapeau* de son pays.
+  Der Soldat schwor der *Fahne* seines Landes die Treue.
+
+  Les manifestants brandissaient des *drapeaux* rouges.
+  Die Demonstranten schwenkten rote *Fahnen*.
+
+  Le bâtiment était pavoisé de *drapeaux* pour la fête nationale.
+  Das Gebäude war zur Nationalfeier mit *Flaggen* geschmückt.
+
+  Le pirate hissa le *drapeau* noir à tête de mort.
+  Der Pirat hisste die schwarze *Flagge* mit dem Totenkopf.
+
+  Les *drapeaux* sont en berne en signe de deuil national.
+  Die *Flaggen* sind auf Halbmast als Zeichen der Staatstrauer.
+
+  L'athlète a fait un tour d'honneur en portant le *drapeau* de son pays.
+  Der Athlet machte eine Ehrenrunde und trug dabei die *Fahne* seines Landes.
+
+  Le *drapeau* olympique comporte cinq anneaux entrelacés.
+  Die olympische *Flagge* besteht aus fünf ineinander verschlungenen Ringen.
+
+  Les enfants ont planté de petits *drapeaux* sur la carte du monde.
+  Die Kinder haben kleine *Fähnchen* auf der Weltkarte aufgestellt.
+
+  Le chef de gare agita son *drapeau* rouge pour signaler le départ du train.
+  Der Bahnhofsvorsteher schwenkte seine rote *Flagge*, um die Abfahrt des Zuges zu signalisieren.
+
+  Les *drapeaux* délimitaient le parcours de la course cycliste.
+  Die *Flaggen* markierten die Strecke des Radrennens.
+
+  "Nous défendrons l'honneur du *drapeau* !" s'exclama le général.
+  "Wir werden die Ehre der *Fahne* verteidigen!" rief der General.
+
+  Ce politicien est devenu le *drapeau* du mouvement écologiste.
+  Dieser Politiker ist zum Aushänge*schild* der Umweltbewegung geworden.
+
+  L'acrobate réalisa un impressionnant *drapeau* sur la barre fixe.
+  Der Akrobat führte eine beeindruckende *Fahne* am Reck aus.
+
+  En informatique, un *drapeau* est utilisé pour marquer un état spécifique.
+  In der Informatik wird ein *Flag* verwendet, um einen bestimmten Zustand zu markieren.
+
+  Le viticulteur utilise un *drapeau* pour réguler la température du moût.
+  Der Winzer verwendet eine Kühlschlange, um die Temperatur der *Maische* zu regulieren.
+
+  Les scouts ont appris à faire des nœuds pour attacher un *drapeau* à une hampe.
+  Die Pfadfinder lernten Knoten zu machen, um eine *Fahne* an einer Stange zu befestigen.
+
+  Le *drapeau* arc-en-ciel est devenu un symbole de la communauté LGBTQ+.
+  Die Regenbogen*flagge* ist zu einem Symbol der LGBTQ+-Gemeinschaft geworden.
+
+  Les diplomates ont négocié sous un *drapeau* neutre.
+  Die Diplomaten verhandelten unter einer neutralen *Flagge*.
+
+  Le navire a hissé le *drapeau* de détresse pour demander de l'aide.
+  Das Schiff hisste die Not*flagge*, um Hilfe anzufordern.
+
+  Les soldats sont "sous les *drapeaux*" pendant leur service militaire.
+  Die Soldaten sind während ihres Militärdienstes "unter der *Fahne*".
+
+  Le *drapeau* à damier signale la fin de la course automobile.
+  Die karierte *Flagge* signalisiert das Ende des Autorennens.
+
+  L'entreprise a créé un *drapeau* publicitaire pour attirer l'attention.
+  Das Unternehmen hat ein Werbe*banner* erstellt, um Aufmerksamkeit zu erregen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

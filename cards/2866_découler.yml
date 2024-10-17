@@ -13,23 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Une conséquence importante en découle.
-  Daraus ergibt sich eine wichtige Konsequenz.
+  Une conséquence importante en *découle*.
+  Daraus *ergibt sich* eine wichtige Konsequenz.
 
-  Les conséquences découlent de nos actions.
-  Die Konsequenzen ergeben sich aus unseren Handlungen.
+  La sueur *découlait* de son front après l'exercice intense.
+  Der Schweiß *rann* von seiner Stirn nach der intensiven Übung.
 
-  Sa décision découle de sa conviction profonde.
-  Seine Entscheidung kommt aus seiner tiefen Überzeugung.
+  Tous nos problèmes *découlent* d'un manque de communication.
+  Alle unsere Probleme *rühren* von einem Mangel an Kommunikation *her*.
 
-  Le droit de vote découle d'un droit fondamental.
-  Das Wahlrecht lässt sich von einem Grundrecht herleiten.
+  Ces droits *découlent* directement de la Constitution.
+  Diese Rechte *leiten sich* direkt aus der Verfassung *ab*.
 
-  Il découle de ce contrat qu'il est tenu de payer.
-  Aus diesem Vertrag ergibt sich, dass er zur Zahlung verpflichtet ist.
+  Il *découle* de cette étude que le changement climatique s'accélère.
+  Aus dieser Studie *folgt*, dass sich der Klimawandel beschleunigt.
 
-  Il en découle qu'il a tort, car les faits lui donnent tort.
-  Daraus folgt, dass er im Unrecht ist, denn die Fakten geben ihm Unrecht.
+  Les responsabilités qui *découlent* de ce poste sont considérables.
+  Die Verantwortlichkeiten, die sich aus dieser Position *ergeben*, sind beträchtlich.
+
+  Cette conclusion ne *découle* pas logiquement des prémisses.
+  Diese Schlussfolgerung *folgt* nicht logisch aus den Prämissen.
+
+  Les avantages *découlant* de cette décision sont nombreux.
+  Die Vorteile, die sich aus dieser Entscheidung *ergeben*, sind zahlreich.
+
+  De ce principe *découlent* plusieurs applications pratiques.
+  Aus diesem Prinzip *ergeben sich* mehrere praktische Anwendungen.
+
+  La confiance mutuelle *découle* d'une communication ouverte et honnête.
+  Gegenseitiges Vertrauen *entsteht* aus offener und ehrlicher Kommunikation.
+
+  Les conséquences juridiques qui en *découlent* sont complexes.
+  Die rechtlichen Folgen, die sich daraus *ergeben*, sind komplex.
+
+  Cette théorie *découle* naturellement des observations précédentes.
+  Diese Theorie *ergibt sich* natürlich aus den vorherigen Beobachtungen.
+
+  Les obligations *découlant* du contrat doivent être respectées.
+  Die sich aus dem Vertrag *ergebenden* Verpflichtungen müssen eingehalten werden.
+
+  Il *découle* de ces faits que l'accusé est innocent.
+  Aus diesen Tatsachen *folgt*, dass der Angeklagte unschuldig ist.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,20 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Des situations extraordinaires nécessitent un acte extraordinaire.
-  Außergewöhnliche Situationen erfordern eine außergewöhnliche Handlung.
+  Des situations extraordinaires *nécessitent* un acte extraordinaire.
+  Außergewöhnliche Situationen *erfordern* eine außergewöhnliche Handlung.
 
-  Cette tâche nécessite beaucoup de patience.
-  Diese Aufgabe erfordert viel Geduld.
+  Ce projet *nécessite* qu'on y réfléchisse davantage avant de prendre une décision.
+  Dieses Projekt *erfordert*, dass wir es gründlicher überdenken, bevor wir eine Entscheidung treffen.
 
-  Ce projet nécessite quelques explications avant que nous puissions le mettre en œuvre.
-  Dieses Projekt bedarf einiger Erklärungen, bevor wir es umsetzen können.
+  La rénovation de ce vieux bâtiment *nécessitera* des travaux longs et coûteux.
+  Die Renovierung dieses alten Gebäudes wird langwierige und teure Arbeiten *erfordern*.
 
-  La construction de cette maison nécessite une autorisation du conseil municipal.
-  Der Bau dieses Hauses ist genehmigungsbedürftig vom Gemeinderat.
+  L'utilisation de cet appareil *nécessite* quelques explications préalables.
+  Die Verwendung dieses Geräts *bedarf* einiger vorheriger Erklärungen.
 
-  Ce projet nécessite qu'on y réfléchisse à fond avant de prendre une décision.
-  Dieses Projekt muss noch gründlich überdacht werden, bevor eine Entscheidung getroffen wird.
+  Ce nouveau logiciel *nécessite* une formation spécifique pour tous les employés.
+  Diese neue Software *macht* eine spezielle Schulung für alle Mitarbeiter *erforderlich*.
+
+  La mise en place de cette politique *nécessite* l'approbation du conseil d'administration.
+  Die Umsetzung dieser Politik *erfordert* die Zustimmung des Vorstands.
+
+  "Cette recette *nécessite* beaucoup d'attention et de précision."
+  "Dieses Rezept *erfordert* viel Aufmerksamkeit und Genauigkeit."
+
+  L'importation de ces produits *nécessite* une autorisation spéciale du gouvernement.
+  Die Einfuhr dieser Produkte *ist* genehmigungsbedürftig durch die Regierung.
+
+  La compréhension de ce texte philosophique *nécessite* une lecture attentive.
+  Das Verständnis dieses philosophischen Textes *erfordert* eine aufmerksame Lektüre.
+
+  Le traitement de cette maladie rare *nécessite* l'intervention de spécialistes.
+  Die Behandlung dieser seltenen Krankheit *macht* den Einsatz von Spezialisten *erforderlich*.
+
+  Cette cause *nécessite* d'être étudiée avec le plus grand soin.
+  Diese Angelegenheit *muss* mit größter Sorgfalt untersucht werden.
+
+  La résolution de ce problème mathématique *nécessite* l'application de plusieurs théorèmes.
+  Die Lösung dieses mathematischen Problems *erfordert* die Anwendung mehrerer Theoreme.
+
+  Le succès de ce projet *nécessite* la collaboration de tous les départements.
+  Der Erfolg dieses Projekts *erfordert* die Zusammenarbeit aller Abteilungen.
+
+  La production de ce vaccin *nécessite* des conditions de laboratoire très strictes.
+  Die Herstellung dieses Impfstoffs *erfordert* sehr strenge Laborbedingungen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Avez-vous néanmoins un code de discipline à respecter?
-  Gibt es dennoch einen Disziplinarkodex, an den Sie sich halten müssen?
+  Avez-vous *néanmoins* un code de discipline à respecter?
+  Gibt es *dennoch* einen Verhaltenskodex, den Sie einhalten müssen?
 
-  Il était fatigué, néanmoins il a continué à travailler.
-  Er war müde, dennoch hat er weitergearbeitet.
+  Il pleuvait *néanmoins* nous sommes allés faire une promenade.
+  Es regnete, *trotzdem* sind wir spazieren gegangen.
+
+  Le film était long, *néanmoins* il était captivant du début à la fin.
+  Der Film war lang, *dennoch* war er von Anfang bis Ende fesselnd.
+
+  Malgré son jeune âge, elle était *néanmoins* très mature pour ses années.
+  Trotz ihres jungen Alters war sie *nichtsdestotrotz* sehr reif für ihr Alter.
+
+  *Néanmoins*, je tiens à souligner l'importance de cette décision.
+  *Dennoch* möchte ich die Wichtigkeit dieser Entscheidung betonen.
+
+  Le restaurant était cher, la nourriture était *néanmoins* excellente.
+  Das Restaurant war teuer, das Essen war *trotzdem* ausgezeichnet.
+
+  Bien que fatigué, il a *néanmoins* terminé son travail à temps.
+  Obwohl er müde war, hat er seine Arbeit *dennoch* pünktlich beendet.
+
+  Elle n'aimait pas le sport, elle a *néanmoins* participé au marathon.
+  Sie mochte Sport nicht, hat *trotzdem* am Marathon teilgenommen.
+
+  Le candidat a perdu l'élection, il reste *néanmoins* optimiste pour l'avenir.
+  Der Kandidat hat die Wahl verloren, bleibt *nichtsdestoweniger* optimistisch für die Zukunft.
+
+  *Néanmoins*, nous devons considérer toutes les options avant de prendre une décision.
+  *Trotzdem* müssen wir alle Optionen in Betracht ziehen, bevor wir eine Entscheidung treffen.
+
+  La route était longue et difficile, ils sont *néanmoins* arrivés à destination.
+  Die Strecke war lang und schwierig, sie sind *dennoch* am Ziel angekommen.
+
+  Le projet était ambitieux, l'équipe a *néanmoins* réussi à le réaliser dans les délais.
+  Das Projekt war ehrgeizig, dem Team ist es *trotzdem* gelungen, es fristgerecht umzusetzen.
+
+  *Néanmoins*, il faut reconnaître que des progrès ont été réalisés.
+  *Nichtsdestotrotz* muss man anerkennen, dass Fortschritte erzielt wurden.
+
+  La situation est complexe, nous restons *néanmoins* confiants en l'avenir.
+  Die Situation ist komplex, wir bleiben *dennoch* zuversichtlich für die Zukunft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

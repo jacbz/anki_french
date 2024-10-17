@@ -13,17 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il déplore la montée des superstitions.
-  Er beklagt die Zunahme des Aberglaubens.
+  Il *déplore* la montée des superstitions.
+  Er *beklagt* die Zunahme des Aberglaubens.
 
-  Je déplore cette situation.
-  Ich bedauere diese Situation.
+  Nous *déplorons* la perte de nombreuses espèces animales.
+  Wir *betrauern* den Verlust vieler Tierarten.
 
-  Le professeur déplore de ne pas pouvoir donner plus de temps à ses élèves pour terminer leur projet.
-  Der Professor bedauert, seinen Schülern nicht mehr Zeit für die Fertigstellung ihres Projekts geben zu können.
+  Le ministre a *déploré* le manque de financement pour l'éducation.
+  Der Minister hat den Mangel an Bildungsfinanzierung *bedauert*.
 
-  On déplore les nombreuses victimes de l'accident.
-  Die zahlreichen Opfer des Unfalls sind zu beklagen.
+  Elle *déplore* que son fils ait abandonné ses études.
+  Sie *bedauert*, dass ihr Sohn sein Studium abgebrochen hat.
+
+  Les habitants *déplorent* l'état de leurs routes.
+  Die Einwohner *beklagen* den Zustand ihrer Straßen.
+
+  Je *déplore* sincèrement votre absence à la réunion.
+  Ich *bedaure* aufrichtig Ihre Abwesenheit bei dem Treffen.
+
+  L'entreprise *déplore* la perte de plusieurs employés clés.
+  Das Unternehmen *beklagt* den Verlust mehrerer Schlüsselmitarbeiter.
+
+  Les écologistes *déplorent* la pollution croissante des océans.
+  Die Umweltschützer *beklagen* die zunehmende Verschmutzung der Ozeane.
+
+  Le président a *déploré* les violences lors des manifestations.
+  Der Präsident hat die Gewalt bei den Demonstrationen *bedauert*.
+
+  Nous *déplorons* qu'il n'y ait pas eu de dialogue entre les parties.
+  Wir *bedauern*, dass es keinen Dialog zwischen den Parteien gab.
+
+  L'historien *déplore* la destruction de nombreux documents anciens.
+  Der Historiker *beklagt* die Zerstörung vieler alter Dokumente.
+
+  Les médecins *déplorent* le manque de personnel dans les hôpitaux.
+  Die Ärzte *beklagen* den Personalmangel in den Krankenhäusern.
+
+  Elle *déplore* son incapacité à parler des langues étrangères.
+  Sie *bedauert* ihre Unfähigkeit, Fremdsprachen zu sprechen.
+
+  Les agriculteurs *déplorent* les effets du changement climatique sur leurs récoltes.
+  Die Landwirte *beklagen* die Auswirkungen des Klimawandels auf ihre Ernten.
+
+  Le jury a *déploré* le manque de créativité des candidats.
+  Die Jury hat den Mangel an Kreativität der Kandidaten *bedauert*.
+
+  Nous n'avons heureusement aucune victime à *déplorer* suite à l'accident.
+  Glücklicherweise haben wir keine Opfer zu *beklagen* nach dem Unfall.
+
+  Les critiques *déplorent* la qualité médiocre du dernier film du réalisateur.
+  Die Kritiker *bedauern* die mittelmäßige Qualität des letzten Films des Regisseurs.
+
+  Le coach *déplore* le manque de motivation de certains joueurs.
+  Der Trainer *beklagt* den Mangel an Motivation einiger Spieler.
+
+  Les syndicats *déplorent* la fermeture de l'usine et la perte d'emplois.
+  Die Gewerkschaften *beklagen* die Schließung des Werks und den Verlust von Arbeitsplätzen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

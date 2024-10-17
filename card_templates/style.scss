@@ -13,7 +13,7 @@ $section-within-section-title-background: hsla(201, 100%, 14%, 0.07);
 }
 
 .night_mode {
-  --highlight-color: #{adjust-color($highlight-color, $lightness: 5%)};
+  --highlight-color: #{adjust-color($highlight-color, $lightness: 8%)};
   --attention-color: #{adjust-color($attention-color, $lightness: 5%)};
   --tip-color: #{adjust-color($tip-color, $lightness: 5%)};
   --section-title-background: hsl(201, 100%, 18%);
@@ -472,6 +472,13 @@ hr {
   .fr {
     font-weight: normal;
   }
+}
+
+.word-highlight {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 0.2em;
+  text-decoration-color: var(--highlight-color);
 }
 
 b,

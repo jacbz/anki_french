@@ -13,38 +13,107 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il vous reste une minute pour conclure.
-  Sie haben noch eine Minute Zeit für den Abschluss.
+  Il vous reste une minute pour *conclure*.
+  Sie haben noch eine Minute, um zum *Schluss* zu kommen.
 
-  Nous avons conclu un accord.
-  Wir haben eine Vereinbarung abgeschlossen.
+  Après de longues négociations, nous avons finalement *conclu* un accord.
+  Nach langen Verhandlungen haben wir endlich eine Vereinbarung *abgeschlossen*.
 
-  Après de longues négociations, ils ont conclu un accord avec les employés.
-  Nach langen Verhandlungen haben sie mit den Angestellten ein Abkommen getroffen.
+  Le chercheur a *conclu* que l'expérience était un succès.
+  Der Forscher hat *gefolgert*, dass das Experiment ein Erfolg war.
 
-  Pour conclure, je voudrais dire que cette expérience a été enrichissante.
-  Um abzuschließen, möchte ich sagen, dass diese Erfahrung bereichernd war.
+  Ils ont *conclu* la paix après des années de conflit.
+  Sie haben nach Jahren des Konflikts Frieden *geschlossen*.
 
-  La cérémonie se conclut par un chant choral.
-  Die Zeremonie schließt mit einem Chorgesang.
+  "Marché *conclu* !" s'est-il exclamé en serrant la main de son partenaire.
+  "Geschäft *abgemacht*!" rief er aus, während er seinem Partner die Hand schüttelte.
 
-  De son comportement, on peut conclure qu'il est malhonnête.
-  Aus seinem Verhalten kann man schließen, dass er unehrlich ist.
+  Le tribunal a *conclu* à l'innocence de l'accusé.
+  Das Gericht hat auf die Unschuld des Angeklagten *erkannt*.
 
-  Les experts ont conclu à un accident de la route.
-  Die Experten haben auf einen Verkehrsunfall geschlossen.
+  Pour *conclure*, j'aimerais remercier tous les participants.
+  Zum *Abschluss* möchte ich allen Teilnehmern danken.
 
-  Après avoir écouté son témoignage, le jury a conclu que Marie avait raison.
-  Nachdem sie ihr Zeugnis gehört hatten, hat die Jury geschlossen, dass Marie Recht hatte.
+  Les experts ont *conclu* que le tableau était un faux.
+  Die Experten haben *geschlussfolgert*, dass das Gemälde eine Fälschung war.
 
-  Le discours du président se concluait par un appel à l'unité nationale.
-  Die Rede des Präsidenten schloss mit einem Aufruf zur nationalen Einheit.
+  Nous devons *conclure* cette affaire avant la fin du mois.
+  Wir müssen dieses Geschäft vor Ende des Monats *abschließen*.
 
-  Le tribunal a conclu à l'innocence de l'accusé.
-  Das Gericht hat den Angeklagten für unschuldig befunden.
+  Le roman se *conclut* par une fin inattendue.
+  Der Roman *endet* mit einem unerwarteten Schluss.
 
-  Le jury a conclu à l'acquittement du prévenu.
-  Die Jury hat auf Freispruch entschieden.
+  Elle a *conclu* son discours par une citation inspirante.
+  Sie hat ihre Rede mit einem inspirierenden Zitat *abgeschlossen*.
+
+  Les deux pays ont *conclu* un traité commercial.
+  Die beiden Länder haben einen Handelsvertrag *abgeschlossen*.
+
+  J'en *conclus* que vous n'êtes pas d'accord avec ma proposition.
+  Ich *schließe daraus*, dass Sie mit meinem Vorschlag nicht einverstanden sind.
+
+  Le jury a *conclu* à la culpabilité de l'accusé.
+  Die Jury hat auf die Schuld des Angeklagten *erkannt*.
+
+  Il faut *conclure* cette réunion, nous sommes en retard.
+  Wir müssen diese Besprechung *beenden*, wir sind spät dran.
+
+  Les scientifiques ont *conclu* que le réchauffement climatique s'accélère.
+  Die Wissenschaftler haben *geschlussfolgert*, dass sich die globale Erwärmung beschleunigt.
+
+  Nous devons *conclure* ce chapitre avant de passer au suivant.
+  Wir müssen dieses Kapitel *abschließen*, bevor wir zum nächsten übergehen.
+
+  Le détective a *conclu* que le majordome était le coupable.
+  Der Detektiv hat *gefolgert*, dass der Butler der Täter war.
+
+  Les négociations se sont *conclues* par un échec.
+  Die Verhandlungen *endeten* mit einem Misserfolg.
+
+  Après avoir examiné les preuves, le juge a *conclu* à un non-lieu.
+  Nach Prüfung der Beweise hat der Richter auf Einstellung des Verfahrens *erkannt*.
+
+  Il a *conclu* son exposé en résumant les points principaux.
+  Er hat seinen Vortrag *abgeschlossen*, indem er die Hauptpunkte zusammenfasste.
+
+  Les médecins ont *conclu* que le patient était en bonne santé.
+  Die Ärzte haben *geschlussfolgert*, dass der Patient gesund war.
+
+  Nous devons *conclure* ce contrat avant la fin de la semaine.
+  Wir müssen diesen Vertrag vor Ende der Woche *abschließen*.
+
+  Le comité a *conclu* à la nécessité d'une réforme.
+  Der Ausschuss hat die Notwendigkeit einer Reform *festgestellt*.
+
+  Pour *conclure*, permettez-moi de vous remercier de votre attention.
+  Lassen Sie mich zum *Schluss* Ihnen für Ihre Aufmerksamkeit danken.
+
+  Les archéologues ont *conclu* que le site datait de l'âge du bronze.
+  Die Archäologen haben *gefolgert*, dass die Stätte aus der Bronzezeit stammt.
+
+  Nous avons *conclu* un accord de principe avec nos partenaires.
+  Wir haben eine grundsätzliche Vereinbarung mit unseren Partnern *getroffen*.
+
+  Le philosophe *conclut* que l'existence précède l'essence.
+  Der Philosoph *schlussfolgert*, dass die Existenz der Essenz vorausgeht.
+
+  La conférence s'est *conclue* par une séance de questions-réponses.
+  Die Konferenz *endete* mit einer Frage-Antwort-Runde.
+
+  Les parents ont *conclu* qu'il valait mieux changer d'école.
+  Die Eltern haben *beschlossen*, dass es besser sei, die Schule zu wechseln.
+
+  L'avocat a *conclu* en demandant l'acquittement de son client.
+  Der Anwalt hat seine Rede *beendet*, indem er um Freispruch für seinen Mandanten bat.
+
+  On peut *conclure* de cette expérience que notre hypothèse était correcte.
+  Wir können aus diesem Experiment *schließen*, dass unsere Hypothese richtig war.
+
+  Le rapport *conclut* à la nécessité d'une action immédiate.
+  Der Bericht *kommt zu dem Schluss*, dass sofortiges Handeln notwendig ist.
+
+  Nous devons *conclure* cette transaction avant la fermeture de la bourse.
+  Wir müssen dieses Geschäft vor Börsenschluss *abwickeln*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

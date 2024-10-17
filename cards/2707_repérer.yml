@@ -13,23 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils ont repéré le tireur, vers le sud.
-  Sie haben den Schützen in südlicher Richtung entdeckt.
+  Ils ont *repéré* le tireur, vers le sud.
+  Sie haben den Scharfschützen im Süden *ausfindig gemacht*.
 
-  Je n’arrive pas à repérer le problème.
-  Ich kann das Problem nicht ausfindig machen.
+  L'enquêteur a *repéré* des empreintes sur la scène de crime.
+  Der Ermittler hat am Tatort Fingerabdrücke *entdeckt*.
 
-  Le voleur a essayé de s'échapper, mais il s'est fait repérer par la police.
-  Der Dieb versuchte zu fliehen, aber er hat sich von der Polizei erwischen lassen.
+  "J'ai *repéré* un super resto pas cher dans le coin !"
+  "Ich habe ein tolles günstiges Restaurant in der Gegend *aufgespürt*!"
 
-  Il s'est fait repérer par sa voisine, qui l'a vu sortir de la maison.
-  Er hat sich von seiner Nachbarin erwischen lassen, die ihn beim Verlassen des Hauses sah.
+  Le radar a *repéré* un avion non identifié dans l'espace aérien.
+  Das Radar hat ein nicht identifiziertes Flugzeug im Luftraum *geortet*.
 
-  Il faut du temps pour se repérer dans une nouvelle ville.
-  Es braucht Zeit, sich in einer neuen Stadt zurechtzufinden.
+  Il faut *repérer* les symptômes précoces de la maladie.
+  Man muss die frühen Symptome der Krankheit *erkennen*.
 
-  Il s'est repéré dans la jungle grâce à la carte qu'il avait trouvée.
-  Er hat sich mit Hilfe der Karte, die er gefunden hatte, im Dschungel zurechtgefunden.
+  Les archéologues ont *repéré* des ruines anciennes grâce aux images satellites.
+  Die Archäologen haben dank Satellitenbildern alte Ruinen *ausfindig gemacht*.
+
+  Elle s'est vite fait *repérer* avec ses cheveux roses.
+  Sie ist mit ihren rosa Haaren schnell *aufgefallen*.
+
+  Le chasseur a *repéré* les traces du cerf dans la neige.
+  Der Jäger hat die Spuren des Hirsches im Schnee *entdeckt*.
+
+  Avant le tournage, l'équipe doit *repérer* les meilleurs lieux.
+  Vor den Dreharbeiten muss das Team die besten Drehorte *erkunden*.
+
+  J'ai du mal à me *repérer* dans cette grande ville.
+  Ich habe Schwierigkeiten, mich in dieser großen Stadt *zurechtzufinden*.
+
+  Le sous-marin ennemi a été *repéré* par nos sonars.
+  Das feindliche U-Boot wurde von unseren Sonaren *geortet*.
+
+  "Tu as *repéré* où est la sortie de secours ?"
+  "Hast du *herausgefunden*, wo der Notausgang ist?"
+
+  Les astronomes ont *repéré* une nouvelle planète dans un système lointain.
+  Die Astronomen haben einen neuen Planeten in einem fernen System *entdeckt*.
+
+  Il faut *repérer* les pièces avant de les assembler.
+  Man muss die Teile *markieren*, bevor man sie zusammenbaut.
+
+  Le lion a *repéré* sa proie et s'apprête à bondir.
+  Der Löwe hat seine Beute *ausgemacht* und macht sich zum Sprung bereit.
+
+  Je n'arrive pas à me *repérer* dans ce labyrinthe de couloirs.
+  Ich kann mich in diesem Labyrinth von Gängen nicht *orientieren*.
+
+  L'agent secret s'est fait *repérer* par la police locale.
+  Der Geheimagent wurde von der örtlichen Polizei *entdeckt*.
+
+  Les sauveteurs ont *repéré* les naufragés grâce à leur signal de détresse.
+  Die Retter haben die Schiffbrüchigen dank ihres Notsignals *ausfindig gemacht*.
+
+  Elle a *repéré* une erreur dans le contrat avant de le signer.
+  Sie hat einen Fehler im Vertrag *entdeckt*, bevor sie ihn unterschrieben hat.
+
+  Le chasseur de talents a *repéré* ce jeune chanteur lors d'un concours.
+  Der Talentscout hat diesen jungen Sänger bei einem Wettbewerb *entdeckt*.
+
+  Les biologistes ont *repéré* une nouvelle espèce dans la forêt tropicale.
+  Die Biologen haben eine neue Art im Regenwald *entdeckt*.
+
+  Il faut bien *repérer* les bornes kilométriques sur l'autoroute.
+  Man muss die Kilometermarkierungen auf der Autobahn gut *im Auge behalten*.
+
+  "Tu as *repéré* où on a garé la voiture ?"
+  "Hast du *gemerkt*, wo wir das Auto geparkt haben?"
+
+  L'oiseau a *repéré* un ver dans l'herbe et s'est précipité dessus.
+  Der Vogel hat einen Wurm im Gras *erspäht* und ist darauf zugestürzt.
+
+  Les pompiers ont *repéré* l'origine de l'incendie dans la cuisine.
+  Die Feuerwehrleute haben den Ursprung des Brandes in der Küche *lokalisiert*.
+
+  Je n'arrive pas à me *repérer* dans ce nouveau logiciel complexe.
+  Ich kann mich in dieser neuen komplexen Software nicht *zurechtfinden*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

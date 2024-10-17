@@ -13,23 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’étais absorbé, obsédé par mes recherches.
-  Ich war von meiner Forschung absorbiert und besessen.
+  J'étais *absorbé*, obsédé par mes recherches.
+  Ich war von meinen Forschungen völlig *eingenommen* und besessen.
 
-  Les plantes absorbent l’eau du sol.
-  Die Pflanzen nehmen das Wasser aus dem Boden auf.
+  Le buvard *absorbe* l'encre rapidement.
+  Das Löschpapier *saugt* die Tinte schnell *auf*.
 
-  Le travail l'a complètement absorbé, il n'a plus pensé à rien d'autre.
-  Die Arbeit hat ihn völlig in Anspruch genommen, er hat an nichts anderes mehr gedacht.
+  L'éponge *absorbe* l'eau comme par magie.
+  Der Schwamm *saugt* das Wasser wie durch Zauberhand *auf*.
 
-  Elle s'est absorbée dans une lecture passionnante et a oublié l'heure.
-  Sie hat sich in eine spannende Lektüre vertieft und die Zeit vergessen.
+  Elle n'a rien *absorbé* depuis hier soir.
+  Sie hat seit gestern Abend nichts zu sich *genommen*.
 
-  Absorbé par la contemplation du paysage, il n'a pas vu le danger arriver.
-  In die Betrachtung der Landschaft vertieft, hat er die Gefahr nicht kommen sehen.
+  Le noir *absorbe* la lumière, tandis que le blanc la réfléchit.
+  Schwarz *absorbiert* das Licht, während Weiß es reflektiert.
 
-  Il s'est absorbé dans son travail et a fini par oublier son rendez-vous.
-  In seiner Arbeit ist er aufgegangen und hat schließlich seinen Termin vergessen.
+  Cette dépense imprévue a *absorbé* toutes mes économies.
+  Diese unerwartete Ausgabe hat meine ganzen Ersparnisse *aufgebraucht*.
+
+  La grande entreprise a *absorbé* plusieurs petites sociétés locales.
+  Das große Unternehmen hat mehrere kleine lokale Firmen *übernommen*.
+
+  Il s'est complètement *absorbé* dans la lecture de ce roman passionnant.
+  Er hat sich völlig in die Lektüre dieses spannenden Romans *vertieft*.
+
+  Les plantes *absorbent* le dioxyde de carbone et rejettent de l'oxygène.
+  Pflanzen *nehmen* Kohlendioxid *auf* und geben Sauerstoff ab.
+
+  Le médecin lui a conseillé d'*absorber* beaucoup de liquides.
+  Der Arzt hat ihm geraten, viel Flüssigkeit zu sich zu *nehmen*.
+
+  Cette activité *absorbe* tout mon temps libre.
+  Diese Aktivität *beansprucht* meine ganze Freizeit.
+
+  Le charbon actif *absorbe* les odeurs dans le réfrigérateur.
+  Aktivkohle *absorbiert* Gerüche im Kühlschrank.
+
+  La mousse acoustique *absorbe* les bruits parasites.
+  Der Akustikschaum *schluckt* störende Geräusche.
+
+  Les racines des arbres *absorbent* l'eau et les nutriments du sol.
+  Die Baumwurzeln *nehmen* Wasser und Nährstoffe aus dem Boden *auf*.
+
+  Le nouveau projet a *absorbé* une grande partie du budget.
+  Das neue Projekt hat einen großen Teil des Budgets *verschlungen*.
+
+  "Tu as l'air complètement *absorbé* par tes pensées," remarqua-t-elle.
+  "Du scheinst völlig in deine Gedanken *versunken* zu sein", bemerkte sie.
+
+  Les océans *absorbent* une partie importante du CO2 atmosphérique.
+  Die Ozeane *nehmen* einen beträchtlichen Teil des atmosphärischen CO2 *auf*.
+
+  Le tissu *absorbe* la transpiration pendant l'exercice.
+  Der Stoff *nimmt* den Schweiß während des Trainings *auf*.
+
+  Cette ville a dû *absorber* un afflux soudain de réfugiés.
+  Diese Stadt musste einen plötzlichen Zustrom von Flüchtlingen *aufnehmen*.
+
+  Les matériaux isolants *absorbent* efficacement la chaleur.
+  Isoliermaterialien *absorbieren* Wärme effektiv.
+
+  Le travail l'*absorbe* tellement qu'il en oublie de manger.
+  Die Arbeit *nimmt* ihn so sehr *in Anspruch*, dass er darüber das Essen vergisst.
+
+  La Terre *absorbe* une partie des rayons solaires.
+  Die Erde *absorbiert* einen Teil der Sonnenstrahlen.
+
+  Il faut *absorber* les chocs pour protéger les objets fragiles.
+  Man muss die Stöße *dämpfen*, um zerbrechliche Gegenstände zu schützen.
+
+  L'économie du pays a réussi à *absorber* le choc de la crise.
+  Die Wirtschaft des Landes hat es geschafft, den Schock der Krise zu *verkraften*.
+
+  Les jeunes doivent *absorber* beaucoup d'informations à l'école.
+  Junge Menschen müssen in der Schule viele Informationen *aufnehmen*.
+
+  La peau *absorbe* facilement certaines substances chimiques.
+  Die Haut *nimmt* bestimmte chemische Substanzen leicht *auf*.
+
+  Le corps *absorbe* les vitamines essentielles à travers l'alimentation.
+  Der Körper *nimmt* lebenswichtige Vitamine über die Nahrung *auf*.
+
+  Cette tâche va *absorber* toute mon attention pendant des semaines.
+  Diese Aufgabe wird meine ganze Aufmerksamkeit wochenlang *in Anspruch nehmen*.
+
+  Les forêts *absorbent* une grande quantité de dioxyde de carbone.
+  Wälder *absorbieren* große Mengen Kohlendioxid.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

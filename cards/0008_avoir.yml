@@ -13,47 +13,182 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On était six donc tu peux pas avoir une conversation.
-  Wir waren zu sechst, also kannst du keine Unterhaltung führen.
+  On était six donc tu peux pas *avoir* une conversation.
+  Wir waren zu sechst, also kannst du keine Unterhaltung *führen*.
 
-  J’ai un chat.
-  Ich habe eine Katze.
+  J'ai *eu* de la chance de trouver un travail si rapidement.
+  Ich hatte das *Glück*, so schnell eine Arbeit zu finden.
 
-  Je sais ce que vous avez fait.
-  Ich weiß, was Sie getan haben.
+  Il *a* les yeux verts et les cheveux bruns.
+  Er *hat* grüne Augen und braune Haare.
 
-  J'ai la chance d'avoir des collègues sympas avec qui je peux partager mes pauses déjeuner.
-  Ich habe das Glück, nette Kolleginnen und Kollegen zu haben, mit denen ich meine Mittagspausen verbringen kann.
+  "Tu n'*as* qu'à lui demander directement !"
+  "Du *brauchst* ihn nur direkt zu fragen!"
 
-  J'ai la soupe sur le feu, elle sera prête dans quelques minutes.
-  Ich habe Suppe auf dem Herd, sie wird in ein paar Minuten fertig sein.
+  *Avez*-vous déjà visité Paris ?
+  *Haben* Sie Paris schon einmal besucht?
 
-  Il a de longs cheveux bouclés.
-  Er hat lange, lockige Haare.
+  J'*ai* très faim, allons manger quelque chose.
+  Ich *habe* großen Hunger, lass uns etwas essen gehen.
 
-  Avez-vous une pièce d'identité, s'il vous plaît ? Je dois la vérifier.
-  Haben Sie Ihren Ausweis dabei, bitte? Ich muss ihn kontrollieren.
+  Elle *a* toujours eu un faible pour les chats.
+  Sie *hat* schon immer eine Schwäche für Katzen *gehabt*.
 
-  Le grand chêne dans le jardin a deux mètres de large.
-  Die große Eiche im Garten ist zwei Meter breit.
+  Nous *avons* dû annuler notre voyage à cause du mauvais temps.
+  Wir *haben* unsere Reise wegen des schlechten Wetters absagen müssen.
 
-  Le bébé a dix mois et il commence à marcher.
-  Das Baby ist zehn Monate alt und fängt an zu laufen.
+  Il faut *avoir* du courage pour affronter ses peurs.
+  Man muss Mut *haben*, um seinen Ängsten zu begegnen.
 
-  Elle a vingt ans et elle étudie le droit.
-  Sie ist zwanzig Jahre alt und studiert Jura.
+  *As*-tu l'heure s'il te plaît ?
+  *Kannst* du mir bitte sagen, wie spät es ist?
 
-  Il a les mains dans les poches et regarde le paysage.
-  Er hat die Hände in den Taschen und betrachtet die Landschaft.
+  Ils *ont* l'intention de déménager l'année prochaine.
+  Sie *haben* vor, nächstes Jahr umzuziehen.
 
-  Qu'est-ce qu'il a, docteur ? Il se plaint de maux de tête.
-  Herr Doktor, was hat er? Er klagt über Kopfschmerzen.
+  "J'*ai* vraiment hâte de te revoir !"
+  "Ich kann es kaum erwarten, dich wiederzusehen!"
 
-  Avez-vous du feu, s'il vous plaît ? J'ai oublié mon briquet.
-  Haben Sie Feuer, bitte? Ich habe mein Feuerzeug vergessen.
+  Elle *a* eu son diplôme avec mention.
+  Sie *hat* ihren Abschluss mit Auszeichnung *gemacht*.
 
-  Avez-vous du charbon de bois ? Je veux faire un barbecue ce soir.
-  Haben Sie Holzkohle? Ich möchte heute Abend grillen.
+  Nous n'*avons* plus de lait dans le frigo.
+  Wir *haben* keine Milch mehr im Kühlschrank.
+
+  *Avoir* tort n'est pas grave, l'important est de l'admettre.
+  Unrecht zu *haben* ist nicht schlimm, wichtig ist, es zuzugeben.
+
+  Il *a* du mal à s'adapter à son nouvel environnement.
+  Er *hat* Schwierigkeiten, sich an seine neue Umgebung anzupassen.
+
+  *As*-tu des nouvelles de Marie ?
+  *Hast* du Neuigkeiten von Marie?
+
+  Nous *avons* beaucoup de travail à faire avant ce soir.
+  Wir *haben* viel Arbeit zu erledigen, bevor es Abend wird.
+
+  Elle *a* l'habitude de se lever tôt le matin.
+  Sie *hat* die Angewohnheit, morgens früh aufzustehen.
+
+  "J'*ai* vraiment besoin de vacances !"
+  "Ich *habe* wirklich Urlaub nötig!"
+
+  Ils *ont* eu un accident de voiture, mais heureusement personne n'a été blessé.
+  Sie *haben* einen Autounfall *gehabt*, aber zum Glück wurde niemand verletzt.
+
+  *Avoir* un bon métier est important pour beaucoup de gens.
+  Einen guten Beruf zu *haben* ist für viele Menschen wichtig.
+
+  Tu n'*as* pas à t'inquiéter, tout ira bien.
+  Du *brauchst* dich nicht zu sorgen, alles wird gut werden.
+
+  Il *a* toujours rêvé de devenir pilote.
+  Er *hat* immer davon geträumt, Pilot zu werden.
+
+  Nous *avons* passé un excellent moment ensemble.
+  Wir *haben* eine tolle Zeit miteinander verbracht.
+
+  Elle *a* l'air fatiguée aujourd'hui.
+  Sie sieht heute müde aus.
+
+  *As*-tu déjà fini ton devoir de maths ?
+  *Hast* du deine Matheaufgaben schon fertig?
+
+  Il faut *avoir* de la patience pour apprendre une langue étrangère.
+  Man muss Geduld *haben*, um eine Fremdsprache zu lernen.
+
+  Nous *avons* hâte de découvrir votre nouveau projet.
+  Wir sind gespannt darauf, Ihr neues Projekt kennenzulernen.
+
+  "*Avez*-vous une réservation ?"
+  "*Haben* Sie eine Reservierung?"
+
+  Elle *a* eu une excellente idée pour résoudre le problème.
+  Sie *hat* eine ausgezeichnete Idee *gehabt*, um das Problem zu lösen.
+
+  J'*ai* besoin d'un peu de temps pour réfléchir à votre proposition.
+  Ich *habe* etwas Zeit nötig, um über Ihren Vorschlag nachzudenken.
+
+  Ils *ont* décidé d'*avoir* un enfant l'année prochaine.
+  Sie *haben* beschlossen, nächstes Jahr ein Kind zu *bekommen*.
+
+  Tu *as* intérêt à être à l'heure demain !
+  Du *hast* besser pünktlich zu sein morgen!
+
+  Nous *avons* eu la chance de voir une aurore boréale.
+  Wir *haben* das Glück *gehabt*, ein Nordlicht zu sehen.
+
+  Il *a* du mal à joindre les deux bouts en ce moment.
+  Er *hat* Schwierigkeiten, momentan über die Runden zu kommen.
+
+  *As*-tu pensé à prendre ton parapluie ?
+  *Hast* du daran gedacht, deinen Regenschirm mitzunehmen?
+
+  Elle *a* toujours su ce qu'elle voulait faire dans la vie.
+  Sie *hat* immer gewusst, was sie im Leben machen wollte.
+
+  Nous *avons* hâte de vous revoir bientôt.
+  Wir können es kaum erwarten, Sie bald wiederzusehen.
+
+  Il *a* fallu beaucoup de courage pour prendre cette décision.
+  Es *hat* viel Mut gebraucht, diese Entscheidung zu treffen.
+
+  "*As*-tu envie d'aller au cinéma ce soir ?"
+  "*Hast* du Lust, heute Abend ins Kino zu gehen?"
+
+  J'*ai* l'impression que quelque chose ne va pas.
+  Ich *habe* das Gefühl, dass etwas nicht stimmt.
+
+  Ils *ont* dû reporter leur mariage à cause de la pandémie.
+  Sie *haben* ihre Hochzeit wegen der Pandemie verschieben müssen.
+
+  Nous *avons* beaucoup de chance d'*avoir* une si belle vue depuis notre appartement.
+  Wir *haben* großes Glück, eine so schöne Aussicht von unserer Wohnung zu *haben*.
+
+  Elle *a* toujours eu un don pour la musique.
+  Sie *hat* schon immer eine Begabung für Musik *gehabt*.
+
+  *As*-tu déjà visité le nouveau musée ?
+  *Hast* du schon das neue Museum besucht?
+
+  Il *a* fallu trois ans pour construire ce bâtiment.
+  Es *hat* drei Jahre gedauert, dieses Gebäude zu errichten.
+
+  J'*ai* hâte que les vacances arrivent.
+  Ich kann es kaum erwarten, dass die Ferien kommen.
+
+  Nous *avons* eu du mal à trouver un parking en centre-ville.
+  Wir *haben* Schwierigkeiten *gehabt*, einen Parkplatz in der Innenstadt zu finden.
+
+  Tu *as* intérêt à étudier dur pour réussir cet examen.
+  Du *hast* besser hart zu lernen, um diese Prüfung zu bestehen.
+
+  Elle *a* toujours su garder son calme dans les situations difficiles.
+  Sie *hat* immer die Ruhe in schwierigen Situationen bewahren können.
+
+  *Avoir* un bon équilibre entre travail et vie personnelle est essentiel.
+  Eine gute Balance zwischen Arbeit und Privatleben zu *haben* ist wesentlich.
+
+  Ils *ont* eu la bonne idée d'investir dans cette start-up.
+  Sie *haben* die gute Idee *gehabt*, in dieses Start-up zu investieren.
+
+  Nous *avons* hâte de goûter ta nouvelle recette.
+  Wir können es kaum erwarten, dein neues Rezept zu probieren.
+
+  "*As*-tu déjà réfléchi à ce que tu veux faire plus tard ?"
+  "*Hast* du schon darüber nachgedacht, was du später machen willst?"
+
+  J'*ai* bien peur que nous soyons en retard pour le concert.
+  Ich fürchte, wir werden zu spät zum Konzert kommen.
+
+  Il *a* fallu beaucoup de persévérance pour atteindre ce niveau.
+  Es *hat* viel Ausdauer gebraucht, um dieses Niveau zu erreichen.
+
+  Elle *a* toujours eu un faible pour les desserts au chocolat.
+  Sie *hat* schon immer eine Schwäche für Schokoladendesserts *gehabt*.
+
+  Nous *avons* eu la chance de rencontrer notre acteur préféré.
+  Wir *haben* das Glück *gehabt*, unseren Lieblingsschauspieler zu treffen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

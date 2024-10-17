@@ -13,14 +13,110 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est certain qu’on va y aller.
-  Wir werden auf jeden Fall hingehen.
+  C'est certain qu'on va *y* aller.
+  Es ist sicher, dass wir *dorthin* gehen werden.
 
-  Je vais y aller demain.
-  Ich werde morgen dorthin gehen.
+  J'*y* suis allé hier et je compte *y* retourner demain.
+  Ich war gestern *dort* und plane, morgen wieder *dorthin* zu gehen.
 
-  Regarde le dessin – c'est-y pas beau, ce portrait de Marie ?
-  Schau dir dieses Bild an – ist es nicht schön, dieses Porträt von Marie?
+  Il n'*y* était pas quand je suis arrivé.
+  Er war nicht *da*, als ich ankam.
+
+  Elle s'*y* connaît bien en informatique.
+  Sie kennt sich gut mit Computern *aus*.
+
+  Je n'*y* tiens plus, je vais lui dire ce que je pense.
+  Ich halte es nicht mehr *aus*, ich werde ihm sagen, was ich denke.
+
+  "Regarde ce tableau, c'est-*y* pas magnifique ?"
+  "Schau dir dieses Gemälde an, ist es nicht wunderschön?"
+
+  Le chromosome *Y* est présent chez les mammifères mâles.
+  Das *Y*-Chromosom ist bei männlichen Säugetieren vorhanden.
+
+  En mathématiques, l'axe des *y* représente les ordonnées.
+  In der Mathematik stellt die *y*-Achse die Ordinaten dar.
+
+  *Y* est le symbole chimique de l'yttrium.
+  *Y* ist das chemische Symbol für Yttrium.
+
+  Allons-*y*, le film va bientôt commencer !
+  Lass uns *losgehen*, der Film fängt bald an!
+
+  Ah, j'*y* suis ! J'ai enfin compris le problème.
+  Ach, jetzt hab ich's! Ich habe das Problem endlich verstanden.
+
+  J'*y* renonce, c'est trop difficile pour moi.
+  Ich gebe es *auf*, es ist zu schwierig für mich.
+
+  N'*y* comptez pas, je ne viendrai pas à la fête.
+  Rechnen Sie nicht *damit*, ich werde nicht zur Party kommen.
+
+  Il *y* a beaucoup de monde dans ce parc aujourd'hui.
+  Es sind heute viele Leute in diesem Park.
+
+  "Vas-*y*, lance la balle !"
+  "Los, wirf den Ball!"
+
+  Ça *y* est, j'ai enfin terminé mon rapport !
+  Das war's, ich habe meinen Bericht endlich fertig!
+
+  "*Y* en a pas d'autres qui veulent participer ?"
+  "Gibt es keine anderen, die mitmachen wollen?"
+
+  J'*y* ai dit de faire attention, mais il ne m'a pas écouté.
+  Ich habe *ihm* gesagt, er soll vorsichtig sein, aber er hat nicht auf mich gehört.
+
+  Ce quartier, j'*y* habite depuis vingt ans.
+  In diesem Viertel wohne ich seit zwanzig Jahren.
+
+  Mets-toi là et restes-*y* jusqu'à ce que je revienne.
+  Stell dich dort hin und bleib *dort*, bis ich zurückkomme.
+
+  Le plat est brûlant, n'*y* touchez pas !
+  Das Gericht ist heiß, fassen Sie es nicht *an*!
+
+  J'*y* compte bien, ne t'inquiète pas.
+  Ich rechne fest *damit*, mach dir keine Sorgen.
+
+  Pensez-vous encore à Jean ? — J'*y* pense souvent.
+  Denken Sie noch an Jean? — Ich denke oft *an ihn*.
+
+  Je ne m'*y* fierais pas si j'étais toi.
+  Ich würde *ihm* nicht vertrauen, wenn ich du wäre.
+
+  Il s'*y* connaît vraiment en vins.
+  Er kennt sich wirklich gut mit Weinen *aus*.
+
+  Elle sait s'*y* prendre avec les enfants difficiles.
+  Sie weiß, wie man mit schwierigen Kindern *umgeht*.
+
+  "C'est-*y* pas une belle journée aujourd'hui ?"
+  "Ist es nicht ein schöner Tag heute?"
+
+  Le *y* est la vingt-cinquième lettre de l'alphabet français.
+  Das *Y* ist der fünfundzwanzigste Buchstabe des französischen Alphabets.
+
+  La route forme un *Y* à cet endroit.
+  Die Straße bildet an dieser Stelle ein *Y*.
+
+  Je n'*y* comprends rien à cette nouvelle loi.
+  Ich verstehe *nichts* von diesem neuen Gesetz.
+
+  On *y* va à pied ou en voiture ?
+  Gehen wir zu Fuß *dorthin* oder fahren wir mit dem Auto?
+
+  Il faut *y* réfléchir avant de prendre une décision.
+  Man muss *darüber* nachdenken, bevor man eine Entscheidung trifft.
+
+  "Tu *y* crois, toi, à cette histoire ?"
+  "Glaubst du *daran*, an diese Geschichte?"
+
+  Je m'*y* suis habitué avec le temps.
+  Ich habe mich mit der Zeit *daran* gewöhnt.
+
+  Si tu vas au marché, penses-*y* à acheter des fruits.
+  Wenn du zum Markt gehst, denk *daran*, Obst zu kaufen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

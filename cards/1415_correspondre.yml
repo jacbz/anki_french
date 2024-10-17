@@ -13,41 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’espère que nous correspondrons.
-  Ich hoffe, dass wir übereinstimmen werden.
+  J'espère que nous *correspondrons*.
+  Ich hoffe, wir werden *in Kontakt bleiben*.
 
-  Cette réponse ne correspond pas à ma question.
-  Diese Antwort entspricht nicht meiner Frage.
+  Nous avons cessé de *correspondre* depuis des années.
+  Wir haben vor Jahren aufgehört, *miteinander zu schreiben*.
 
-  Je corresponds avec mon ami depuis des années.
-  Ich stehe mit meinem Freund seit Jahren im Briefwechsel.
+  La version du témoin ne *correspond* pas aux faits établis.
+  Die Version des Zeugen *stimmt* nicht mit den festgestellten Tatsachen *überein*.
 
-  Ce livre correspond parfaitement à mes goûts.
-  Dieses Buch hat genau meinen Geschmack getroffen.
+  Ces deux pièces *correspondent* par une porte cachée.
+  Diese beiden Zimmer sind durch eine versteckte Tür *miteinander verbunden*.
 
-  Ce tableau correspond à la description de la police.
-  Dieses Bild entspricht der Beschreibung der Polizei.
+  Son comportement ne lui *correspond* pas du tout.
+  Sein Verhalten *passt* überhaupt nicht *zu* ihm.
 
-  Elle correspond un peu à sa mère, mais elle est plus grande.
-  Sie sieht ihrer Mutter ein bisschen ähnlich, aber sie ist größer.
+  Le train de 18h *correspond* avec le vol pour New York.
+  Der Zug um 18 Uhr hat *Anschluss* an den Flug nach New York.
 
-  Nous correspondons par courrier électronique au moins deux fois par semaine.
-  Wir korrespondieren mindestens zweimal pro Woche per E-Mail.
+  Nous *correspondons* régulièrement par courrier électronique.
+  Wir *stehen* regelmäßig per E-Mail *in Verbindung*.
 
-  Ci-joint un chèque correspondant à la facture pour le service de réparation.
-  Anbei ein Scheck über den Rechnungsbetrag für die Reparatur.
+  Cette théorie ne *correspond* à rien de concret.
+  Diese Theorie *entspricht* nichts Konkretem.
 
-  Sa version des faits ne correspond pas à la réalité, il est évident qu'il ment.
-  Seine Darstellung entspricht nicht der Wahrheit, es ist klar, dass er lügt.
+  Les résultats *correspondent* exactement à nos prévisions.
+  Die Ergebnisse *stimmen* genau mit unseren Vorhersagen *überein*.
 
-  Cette théorie ne correspond à rien, elle n'est pas fondée sur des données.
-  Diese Theorie ist völlig haltlos, sie basiert nicht auf Fakten.
+  "Cela ne me *correspond* pas du tout", a-t-elle dit en refusant l'offre.
+  "Das *passt* überhaupt nicht *zu* mir", sagte sie und lehnte das Angebot ab.
 
-  Sa voix ne correspondait pas au reste de sa personne, elle était douce et calme.
-  Seine Stimme passte nicht zu seiner sonstigen Erscheinung, sie war sanft und ruhig.
+  Les deux ensembles se *correspondent* élément par élément.
+  Die beiden Mengen *entsprechen* sich Element für Element.
 
-  Ce mot correspond exactement au terme anglais "love", il est donc facile à traduire.
-  Dieses Wort entspricht genau dem englischen Begriff "love", daher ist es einfach zu übersetzen.
+  Ce poste *correspond* parfaitement à vos compétences.
+  Diese Stelle *passt* perfekt zu Ihren Fähigkeiten.
+
+  Nous *correspondions* autrefois par fax.
+  Früher *korrespondierten* wir per Fax.
+
+  Le mot français "chat" *correspond* au mot anglais "cat".
+  Das französische Wort "chat" *entspricht* dem englischen Wort "cat".
+
+  Les avantages *correspondent* aux responsabilités du poste.
+  Die Vorteile *stehen im Verhältnis* zu den Verantwortlichkeiten der Position.
+
+  Le thermomètre Fahrenheit ne *correspond* pas directement au Celsius.
+  Das Fahrenheit-Thermometer *entspricht* nicht direkt dem Celsius.
+
+  Ses actions ne *correspondent* pas à ses paroles.
+  Seine Taten *stimmen* nicht mit seinen Worten *überein*.
+
+  Le salon *correspond* directement avec la salle à manger.
+  Der Salon *ist direkt verbunden* mit dem Esszimmer.
+
+  Nous nous sommes *correspondu* pendant toute notre jeunesse.
+  Wir haben uns während unserer ganzen Jugend *geschrieben*.
+
+  Cette explication ne *correspond* pas à la réalité.
+  Diese Erklärung *entspricht* nicht der Realität.
+
+  Le prix ne *correspond* pas à la qualité du produit.
+  Der Preis *steht nicht im Verhältnis* zur Qualität des Produkts.
+
+  Les deux parties du puzzle *correspondent* parfaitement.
+  Die beiden Teile des Puzzles *passen* perfekt *zusammen*.
+
+  Sa réaction ne *correspondait* pas du tout à ce que j'attendais.
+  Seine Reaktion *entsprach* überhaupt nicht dem, was ich erwartet hatte.
+
+  Nous *correspondons* depuis des années sans nous être jamais rencontrés.
+  Wir *stehen* seit Jahren *in Briefkontakt*, ohne uns je getroffen zu haben.
+
+  Le numéro de série *correspond* à celui sur la facture.
+  Die Seriennummer *stimmt mit* der auf der Rechnung *überein*.
+
+  Ces mesures ne *correspondent* plus aux normes actuelles.
+  Diese Maßnahmen *entsprechen* nicht mehr den aktuellen Normen.
+
+  Les deux bâtiments *correspondent* par un passage souterrain.
+  Die beiden Gebäude sind durch einen unterirdischen Gang *miteinander verbunden*.
+
+  Son apparence ne *correspondait* pas à sa voix au téléphone.
+  Sein Aussehen *passte* nicht zu seiner Stimme am Telefon.
+
+  Nous *correspondons* principalement via des applications de messagerie.
+  Wir *kommunizieren* hauptsächlich über Messaging-Apps *miteinander*.
+
+  Cette solution ne *correspond* pas à nos besoins.
+  Diese Lösung *entspricht* nicht unseren Bedürfnissen.
+
+  Le style de ce tableau *correspond* à l'époque baroque.
+  Der Stil dieses Gemäldes *entspricht* der Barockzeit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

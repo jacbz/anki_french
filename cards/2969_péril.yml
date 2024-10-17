@@ -13,20 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Aujourd’hui, notre porte-parole est en péril.
-  Heute ist unser Sprecher in Gefahr.
+  Aujourd'hui, notre porte-parole est en *péril*.
+  Heute ist unser Sprecher in *Gefahr*.
 
-  Il y a un grand péril dans cette situation.
-  In dieser Situation besteht eine große Gefahr.
+  L'entreprise se trouve en *péril* financier après plusieurs mauvais investissements.
+  Das Unternehmen befindet sich nach mehreren schlechten Investitionen in finanzieller *Gefahr*.
 
-  Il y a péril à faire de la plongée sous-marine dans cette zone.
-  Es ist gefährlich, in diesem Gebiet Tauchen zu gehen.
+  Les pompiers ont bravé les *périls* pour sauver les habitants de l'immeuble en feu.
+  Die Feuerwehrleute haben die *Gefahren* auf sich genommen, um die Bewohner des brennenden Gebäudes zu retten.
 
-  Le pompier s'est précipité dans l'immeuble en flammes, au péril de sa vie.
-  Der Feuerwehrmann stürzte sich in das brennende Gebäude, unter Einsatz seines Lebens.
+  "Je ne peux pas accepter cette mission, il y a trop de *périls*."
+  "Ich kann diese Mission nicht annehmen, es gibt zu viele *Gefahren*."
 
-  La conduite en état d'ivresse met en péril la vie de tous les usagers de la route.
-  Fahren unter Alkoholeinfluss gefährdet das Leben aller Verkehrsteilnehmer.
+  Le capitaine a décidé de *mettre en péril* sa propre vie pour sauver son équipage.
+  Der Kapitän beschloss, sein eigenes Leben zu *gefährden*, um seine Mannschaft zu retten.
+
+  Les changements climatiques *mettent en péril* de nombreuses espèces animales.
+  Der Klimawandel *bringt* viele Tierarten in *Gefahr*.
+
+  Le gouvernement a pris des mesures pour contrer le *péril* économique imminent.
+  Die Regierung hat Maßnahmen ergriffen, um der drohenden wirtschaftlichen *Gefahr* entgegenzuwirken.
+
+  *Au péril de* sa carrière, elle a dénoncé la corruption au sein de l'entreprise.
+  Unter *Gefährdung* ihrer Karriere hat sie die Korruption innerhalb des Unternehmens angeprangert.
+
+  Le navire en détresse a lancé un signal de *péril* en mer.
+  Das in Seenot geratene Schiff hat ein *Notsignal* auf See gesendet.
+
+  Les archéologues travaillent d'arrache-pied pour sauver ce *chef-d'œuvre en péril*.
+  Die Archäologen arbeiten hart daran, dieses *gefährdete* Meisterwerk zu retten.
+
+  "Tu fais cette randonnée *à tes risques et périls*, je t'ai prévenu des dangers."
+  "Du machst diese Wanderung *auf eigene Gefahr*, ich habe dich vor den Risiken gewarnt."
+
+  Le maire a signé un arrêté de *péril* pour l'évacuation de l'immeuble menaçant de s'effondrer.
+  Der Bürgermeister hat eine Anordnung zur *Gefahrenabwehr* für die Evakuierung des einsturzgefährdeten Gebäudes unterzeichnet.
+
+  Les explorateurs ont dû affronter de nombreux *périls* lors de leur expédition en Amazonie.
+  Die Entdecker mussten während ihrer Expedition im Amazonas zahlreichen *Gefahren* trotzen.
+
+  La surpêche *met en péril* l'équilibre des écosystèmes marins.
+  Überfischung *gefährdet* das Gleichgewicht der Meeresökosysteme.
+
+  "Il y a *péril* à ignorer les avertissements des experts en cybersécurité."
+  "Es ist *gefährlich*, die Warnungen der Cybersicherheitsexperten zu ignorieren."
+
+  Les tensions diplomatiques croissantes font craindre une *montée des périls* à l'échelle internationale.
+  Die zunehmenden diplomatischen Spannungen lassen eine *gefährliche Zuspitzung* auf internationaler Ebene befürchten.
+
+  La déforestation *met en péril* la survie de nombreuses espèces animales et végétales.
+  Die Abholzung der Wälder *bedroht* das Überleben vieler Tier- und Pflanzenarten.
+
+  Face au *péril* imminent, les habitants ont été évacués en urgence.
+  Angesichts der drohenden *Gefahr* wurden die Bewohner in einer Notevakuierung in Sicherheit gebracht.
+
+  Le journaliste a mené son enquête *au péril de* sa vie dans cette zone de conflit.
+  Der Journalist hat seine Recherchen in diesem Konfliktgebiet unter *Lebensgefahr* durchgeführt.
+
+  "À vaincre sans *péril*, on triomphe sans gloire", a déclaré le général avant la bataille.
+  "Wer ohne *Gefahr* siegt, triumphiert ohne Ruhm", erklärte der General vor der Schlacht.
+
+  Les glaciers fondent à vue d'œil, *mettant en péril* l'approvisionnement en eau de millions de personnes.
+  Die Gletscher schmelzen sichtbar dahin und *gefährden* die Wasserversorgung von Millionen von Menschen.
+
+  La pollution atmosphérique *met en péril* la santé des habitants des grandes villes.
+  Die Luftverschmutzung *gefährdet* die Gesundheit der Bewohner großer Städte.
+
+  Le plongeur expérimenté connaissait bien les *périls* des profondeurs marines.
+  Der erfahrene Taucher kannte die *Gefahren* der Meerestiefen gut.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

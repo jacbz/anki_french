@@ -13,17 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La mondialisation se fait au détriment des moins forts.
-  Die Globalisierung geht auf Kosten der weniger Starken.
+  La mondialisation se fait au *détriment* des moins forts.
+  Die Globalisierung erfolgt auf *Kosten* der Schwächeren.
 
-  Cela se fait au détriment de la qualité.
-  Das geschieht auf Kosten der Qualität.
+  Il a réussi sa carrière au *détriment* de sa vie familiale.
+  Er hat seine Karriere auf *Kosten* seines Familienlebens gemacht.
 
-  Elle a réussi à atteindre son objectif, au détriment de son amitié avec Jean.
-  Sie hat es geschafft, ihr Ziel zu erreichen, auf Kosten ihrer Freundschaft mit Jean.
+  Cette décision est prise à mon *détriment*.
+  Diese Entscheidung wird zu meinem *Nachteil* getroffen.
 
-  La situation a évolué à mon détriment.
-  Die Situation hat sich zu meinem Nachteil entwickelt.
+  L'entreprise favorise certains employés au *détriment* des autres.
+  Das Unternehmen bevorzugt bestimmte Mitarbeiter zum *Nachteil* der anderen.
+
+  Le développement urbain se fait souvent au *détriment* de l'environnement.
+  Die Stadtentwicklung erfolgt oft auf *Kosten* der Umwelt.
+
+  Il a subi un grand *détriment* financier suite à cette transaction.
+  Er hat durch diese Transaktion einen großen finanziellen *Schaden* erlitten.
+
+  Les nouvelles technologies progressent parfois au *détriment* des emplois traditionnels.
+  Neue Technologien schreiten manchmal auf *Kosten* traditioneller Arbeitsplätze voran.
+
+  Cette loi protège les consommateurs au *détriment* des grandes entreprises.
+  Dieses Gesetz schützt die Verbraucher zum *Nachteil* der großen Unternehmen.
+
+  L'affaire a tourné au *détriment* de l'accusé.
+  Die Angelegenheit hat sich zum *Nachteil* des Angeklagten entwickelt.
+
+  Les économies budgétaires se font souvent au *détriment* de l'éducation et de la santé.
+  Haushaltseinsparungen erfolgen oft auf *Kosten* von Bildung und Gesundheit.
+
+  Le constat d'accident a été signé au *détriment* de Marie.
+  Das Unfallprotokoll wurde zu Maries *Nachteil* unterschrieben.
+
+  Il a acquis cette fortune au *détriment* de sa réputation.
+  Er hat dieses Vermögen auf *Kosten* seines Rufs erworben.
+
+  Les mesures d'austérité ont été appliquées au *détriment* des classes moyennes.
+  Die Sparmaßnahmen wurden zum *Nachteil* der Mittelschicht umgesetzt.
+
+  Le temps consacré au travail est souvent au *détriment* des loisirs.
+  Die für die Arbeit aufgewendete Zeit geht oft auf *Kosten* der Freizeit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

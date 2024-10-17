@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Comme elle le soupçonnait, il souffrait de douleurs.
-  Wie sie vermutet hatte, litt er unter Schmerzen.
+  Comme elle le *soupçonnait*, il souffrait de douleurs.
+  Wie sie *vermutet* hatte, litt er unter Schmerzen.
 
-  Je soupçonne mon voisin d’avoir volé mon vélo.
-  Ich verdächtige meinen Nachbarn, mein Fahrrad gestohlen zu haben.
+  La police *soupçonne* le voisin d'avoir volé la voiture.
+  Die Polizei *verdächtigt* den Nachbarn, das Auto gestohlen zu haben.
 
-  La police soupçonne Jean de vol, car il a été vu près du lieu du crime.
-  Die Polizei verdächtigt Jean des Diebstahls, da er in der Nähe des Tatorts gesehen wurde.
+  Je *soupçonne* qu'il y a un problème avec le moteur de ma voiture.
+  Ich *ahne*, dass es ein Problem mit dem Motor meines Autos gibt.
 
-  Le suspect, soupçonné de meurtre, a été arrêté par la police.
-  Der Tatverdächtige, mordverdächtig, wurde von der Polizei festgenommen.
+  Les enquêteurs *soupçonnent* une fuite de gaz comme cause de l'explosion.
+  Die Ermittler *vermuten* ein Gasleck als Ursache der Explosion.
+
+  "Je te *soupçonne* d'avoir mangé le dernier cookie !" dit-elle en riant.
+  "Ich *verdächtige* dich, den letzten Keks gegessen zu haben!", sagte sie lachend.
+
+  On *soupçonnait* depuis longtemps que l'entreprise fraudait le fisc.
+  Man *hatte schon lange den Verdacht*, dass das Unternehmen Steuerbetrug beging.
+
+  Les scientifiques *soupçonnent* que le changement climatique est la cause de ces phénomènes.
+  Die Wissenschaftler *vermuten*, dass der Klimawandel die Ursache für diese Phänomene ist.
+
+  Il a été *soupçonné* de meurtre, mais finalement innocenté.
+  Er war *mordverdächtig*, wurde aber schließlich freigesprochen.
+
+  Je ne *soupçonnais* pas à quel point ce travail serait difficile.
+  Ich *ahnte* nicht, wie schwierig diese Arbeit sein würde.
+
+  Le jury *soupçonne* que le candidat a triché pendant l'examen.
+  Die Jury *hegt den Verdacht*, dass der Kandidat während der Prüfung betrogen hat.
+
+  Elle *soupçonnait* son mari d'avoir une liaison, mais n'en était pas certaine.
+  Sie *verdächtigte* ihren Mann, eine Affäre zu haben, war sich aber nicht sicher.
+
+  Les autorités *soupçonnent* une organisation criminelle d'être derrière ces attaques.
+  Die Behörden *vermuten*, dass eine kriminelle Organisation hinter diesen Angriffen steckt.
+
+  Je commence à *soupçonner* que mon ami me cache quelque chose.
+  Ich beginne zu *ahnen*, dass mein Freund mir etwas verheimlicht.
+
+  Le patron *soupçonne* que certains employés volent dans la caisse.
+  Der Chef *hat den Verdacht*, dass einige Angestellte aus der Kasse stehlen.
+
+  Personne ne *soupçonnait* l'ampleur de la catastrophe à venir.
+  Niemand *ahnte* das Ausmaß der bevorstehenden Katastrophe.
+
+  Les médecins *soupçonnent* une allergie comme cause de ces symptômes.
+  Die Ärzte *vermuten* eine Allergie als Ursache dieser Symptome.
+
+  On ne peut pas le condamner simplement parce qu'on le *soupçonne*.
+  Man kann ihn nicht verurteilen, nur weil man ihn *verdächtigt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

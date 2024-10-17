@@ -13,38 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La performance d’hier est simplement fa-buleu-se.
-  Die gestrige Leistung ist einfach fa-buleu-se.
+  La *performance* d'hier est simplement fa-buleu-se.
+  Die gestrige *Leistung* war einfach fa-bel-haft.
 
-  La performance de l’équipe était incroyable.
-  Die Leistung des Teams war unglaublich.
+  Le sprinter a réalisé une *performance* exceptionnelle en battant le record mondial.
+  Der Sprinter hat eine außergewöhnliche *Leistung* erbracht, indem er den Weltrekord gebrochen hat.
 
-  Le moteur de la nouvelle voiture atteint une performance maximale.
-  Der Motor des neuen Autos erreicht Höchstleistung.
+  Les *performances* de cette voiture de sport sont impressionnantes.
+  Die *Fahrleistungen* dieses Sportwagens sind beeindruckend.
 
-  Les performances maximales du moteur sont atteintes à 5 000 tours par minute.
-  Die Spitzenleistung des Motors wird bei 5000 Umdrehungen pro Minute erreicht.
+  L'entreprise a amélioré ses *performances* économiques au cours du dernier trimestre.
+  Das Unternehmen hat seine wirtschaftliche *Leistung* im letzten Quartal verbessert.
 
-  La performance du processeur est essentielle pour la vitesse du logiciel.
-  Der Prozessortakt ist entscheidend für die Geschwindigkeit der Software.
+  La *performance* artistique a duré trois heures sans interruption.
+  Die künstlerische *Performance* dauerte drei Stunden ohne Unterbrechung.
 
-  L'entraînement physique régulier améliore la performance intellectuelle.
-  Regelmäßiges körperliches Training verbessert die Intelligenzleistung.
+  Le diagnostic de *performance* énergétique est obligatoire pour vendre une maison.
+  Der Energieeffizienz-*Nachweis* ist beim Verkauf eines Hauses obligatorisch.
 
-  Il faut travailler dur pour réaliser de bonnes performances au travail.
-  Man muss hart arbeiten, um leistungsstark bei der Arbeit zu sein.
+  Cette équipe a réalisé une contre-*performance* lors du dernier match.
+  Diese Mannschaft hat im letzten Spiel eine schwache *Leistung* gezeigt.
 
-  La courbe des performances montre l'évolution de la vitesse du véhicule.
-  Die Leistungskurve zeigt die Entwicklung der Geschwindigkeit des Fahrzeugs.
+  Les *performances* intellectuelles des étudiants s'améliorent avec la pratique.
+  Die *Denkleistungen* der Studenten verbessern sich durch Übung.
 
-  C'est une super performance pour un débutant!
-  Das ist eine Klasseleistung für einen Anfänger!
+  Le nouveau processeur offre des *performances* accrues pour le traitement des données.
+  Der neue Prozessor bietet erhöhte *Leistung* bei der Datenverarbeitung.
 
-  Remporter le marathon était une véritable performance!
-  Den Marathon zu gewinnen, war eine echte Leistung!
+  "C'est une véritable *performance* d'avoir fini ce projet en si peu de temps !"
+  "Es ist eine echte *Leistung*, dieses Projekt in so kurzer Zeit abgeschlossen zu haben!"
 
-  Le manque de sommeil est un facteur qui baisse les performances.
-  Schlafentzug ist ein leistungsmindernder Faktor.
+  Les chercheurs étudient la *performance* linguistique des locuteurs bilingues.
+  Die Forscher untersuchen die sprachliche *Performanz* zweisprachiger Sprecher.
+
+  Le coefficient de *performance* de cette pompe à chaleur est très élevé.
+  Der *Leistungskoeffizient* dieser Wärmepumpe ist sehr hoch.
+
+  Les *performances* maximales de cet athlète sont atteintes en fin de saison.
+  Die *Höchstleistungen* dieses Athleten werden am Ende der Saison erreicht.
+
+  L'artiste a présenté sa nouvelle *performance* devant un public enthousiaste.
+  Der Künstler präsentierte seine neue *Performance* vor einem begeisterten Publikum.
+
+  La courbe des *performances* du joueur montre une progression constante.
+  Die *Leistungskurve* des Spielers zeigt eine konstante Steigerung.
+
+  Le test de *performance* évalue les capacités pratiques des candidats.
+  Der *Leistungstest* bewertet die praktischen Fähigkeiten der Kandidaten.
+
+  Les *performances* de ce cheval de course sont remarquables cette saison.
+  Die *Leistungen* dieses Rennpferds sind in dieser Saison bemerkenswert.
+
+  L'ingénieur travaille à améliorer les *performances* du moteur.
+  Der Ingenieur arbeitet daran, die *Leistung* des Motors zu verbessern.
+
+  La *performance* énergétique des bâtiments est un enjeu majeur pour l'environnement.
+  Die Energie*leistung* von Gebäuden ist eine große Herausforderung für die Umwelt.
+
+  Les *performances* économiques du pays se sont améliorées au cours de l'année.
+  Die wirtschaftliche *Leistung* des Landes hat sich im Laufe des Jahres verbessert.
+
+  Cette *performance* théâtrale mêle danse, musique et poésie.
+  Diese Theater*performance* verbindet Tanz, Musik und Poesie.
+
+  Les normes de *performance* pour ce produit sont très strictes.
+  Die *Leistungs*standards für dieses Produkt sind sehr streng.
+
+  L'échelle de *performance* permet d'évaluer les progrès des patients en rééducation.
+  Die *Leistungs*skala ermöglicht es, die Fortschritte von Patienten in der Rehabilitation zu bewerten.
+
+  Le classement à l'indice de *performance* tient compte de la puissance des voitures.
+  Die Einstufung nach dem *Leistungs*index berücksichtigt die Leistung der Autos.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

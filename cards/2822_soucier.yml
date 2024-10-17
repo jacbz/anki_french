@@ -13,32 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tu n’as pas à te soucier de tes manières ici.
-  Du musst dir hier keine Sorgen um deine Manieren machen.
+  Tu n'as pas à te *soucier* de tes manières ici.
+  Du brauchst dich hier nicht um dein Benehmen zu *sorgen*.
 
-  Je ne me soucie pas de ce qu’ils pensent.
-  Ich mache mir keine Sorgen darüber, was sie denken.
+  Elle ne se *soucie* guère de son apparence.
+  Sie *kümmert* sich kaum um ihr Aussehen.
 
-  La mère se soucie beaucoup de ses enfants et de leur bien-être.
-  Die Mutter sorgt sich sehr um ihre Kinder und ihr Wohlbefinden.
+  "Je me *soucie* comme de l'an quarante de ce qu'il pense !"
+  "Es ist mir *schnurzegal*, was er denkt!"
 
-  La vieille dame se soucie de la nourriture pour ses chats.
-  Die alte Dame kümmert sich um die Verpflegung ihrer Katzen.
+  Nous devons nous *soucier* davantage de l'environnement.
+  Wir müssen uns mehr um die Umwelt *kümmern*.
 
-  Il faut se soucier de l'avenir de nos enfants.
-  Wir müssen für die Zukunft unserer Kinder sorgen.
+  Il faut se *soucier* de l'avenir des jeunes générations.
+  Man muss für die Zukunft der jungen Generationen *vorsorgen*.
 
-  Pendant qu'il conduisait, il ne se souciait pas de l'heure.
-  Während er fuhr, hat er die Zeit nicht beachtet.
+  Les parents se *soucient* toujours de la santé de leurs enfants.
+  Eltern *sorgen* sich immer um die Gesundheit ihrer Kinder.
 
-  En ville, il faut se soucier des voitures qui passent.
-  In der Stadt muss man auf den Straßenverkehr achten.
+  Elle s'est *souciée* de faire bonne impression lors de l'entretien.
+  Sie war *bestrebt*, beim Vorstellungsgespräch einen guten Eindruck zu machen.
 
-  Il ne se soucie pas de la vérité et il ment souvent.
-  Er kümmert sich nicht um die Wahrheit und lügt oft.
+  "Tu devrais te *soucier* un peu plus de tes études !"
+  "Du solltest dich ein bisschen mehr um dein Studium *kümmern*!"
 
-  Le professeur se soucie de faire passer ses élèves à l'examen.
-  Der Professor ist bestrebt, seine Schüler zum Examen zu bringen.
+  Le gouvernement ne semble pas se *soucier* des problèmes des citoyens.
+  Die Regierung scheint sich nicht um die Probleme der Bürger zu *scheren*.
+
+  Il se *soucie* plus de son travail que de sa famille.
+  Er *kümmert* sich mehr um seine Arbeit als um seine Familie.
+
+  Nous nous *soucions* de votre confort pendant votre séjour.
+  Wir *sorgen* uns um Ihren Komfort während Ihres Aufenthalts.
+
+  "Ne vous *souciez* pas de moi, je peux me débrouiller seul."
+  "*Kümmern* Sie sich nicht um mich, ich komme allein zurecht."
+
+  Les automobilistes doivent se *soucier* de la sécurité des piétons.
+  Autofahrer müssen auf die Sicherheit der Fußgänger *achten*.
+
+  Elle s'est toujours *souciée* de la qualité de son travail.
+  Sie hat sich immer um die Qualität ihrer Arbeit *gekümmert*.
+
+  "Je me *soucie* bien de ce qu'il peut penser !" dit-elle ironiquement.
+  "Es *interessiert* mich wirklich brennend, was er denken mag!" sagte sie ironisch.
+
+  Le directeur se *soucie* peu des opinions de ses employés.
+  Der Direktor *schert* sich wenig um die Meinungen seiner Angestellten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

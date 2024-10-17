@@ -13,23 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous leur vouons un grand respect.
-  Wir haben großen Respekt vor ihnen.
+  Nous leur *vouons* un grand respect.
+  Wir *zollen* ihnen großen Respekt.
 
-  Elle a voué sa vie à la musique.
-  Sie hat ihr Leben der Musik gewidmet.
+  Il a *voué* sa vie à la recherche scientifique.
+  Er hat sein Leben der wissenschaftlichen Forschung *gewidmet*.
 
-  Marie s'est vouée à son travail avec passion.
-  Marie hat sich ihrem Arbeit mit Leidenschaft gewidmet.
+  Les parents ont *voué* leur enfant à la Vierge Marie.
+  Die Eltern haben ihr Kind der Jungfrau Maria *geweiht*.
 
-  Elle a voué la statue à la Sainte Vierge.
-  Sie hat die Statue der Heiligen Jungfrau geweiht.
+  Elle *voue* une haine tenace à son ancien patron.
+  Sie *hegt* einen hartnäckigen Hass gegen ihren ehemaligen Chef.
 
-  Il voue une haine féroce à son rival.
-  Er hegt einen wütenden Hass gegen seinen Rivalen.
+  Je me suis *voué* corps et âme à ce projet.
+  Ich habe mich mit Leib und Seele diesem Projekt *verschrieben*.
 
-  Le prêtre s'est voué au célibat, il ne se mariera jamais.
-  Der Priester hat sich dem Zölibat verschrieben, er wird nie heiraten.
+  Cette décision l'a *voué* à l'échec.
+  Diese Entscheidung hat ihn zum Scheitern *verdammt*.
+
+  Les moines se sont *voués* au célibat.
+  Die Mönche haben sich dem Zölibat *verschrieben*.
+
+  Elle *voue* une admiration sans bornes à son mentor.
+  Sie *bringt* ihrem Mentor grenzenlose Bewunderung *entgegen*.
+
+  Nous nous sommes *voués* à la protection de l'environnement.
+  Wir haben uns dem Umweltschutz *gewidmet*.
+
+  Cette erreur l'a *voué* à la ruine financière.
+  Dieser Fehler hat ihn in den finanziellen Ruin *getrieben*.
+
+  Il ne savait plus à quel saint se *vouer* pour résoudre ce problème.
+  Er wusste nicht mehr, an welchen Heiligen er sich *wenden* sollte, um dieses Problem zu lösen.
+
+  Les bénévoles se sont *voués* à aider les sans-abri.
+  Die Freiwilligen haben sich der Hilfe für Obdachlose *verschrieben*.
+
+  Cette entreprise est *vouée* à l'échec dès le départ.
+  Dieses Unternehmen ist von Anfang an zum Scheitern *verurteilt*.
+
+  Il a *voué* un culte à sa défunte épouse.
+  Er hat seiner verstorbenen Frau einen Kult *gewidmet*.
+
+  Nous nous sommes *voués* à la cause des droits de l'homme.
+  Wir haben uns der Sache der Menschenrechte *verschrieben*.
+
+  Elle *voue* une affection particulière à ses grands-parents.
+  Sie *hegt* eine besondere Zuneigung zu ihren Großeltern.
+
+  Le politicien s'est *voué* à la lutte contre la corruption.
+  Der Politiker hat sich dem Kampf gegen die Korruption *verschrieben*.
+
+  Cette erreur de jugement l'a *voué* à l'opprobre public.
+  Dieser Fehleinschätzung hat ihn der öffentlichen Schmach *preisgegeben*.
+
+  Les artistes se sont *voués* à la création d'œuvres novatrices.
+  Die Künstler haben sich der Schaffung innovativer Werke *gewidmet*.
+
+  Il *voue* une passion dévorante à la musique classique.
+  Er *hegt* eine verzehrende Leidenschaft für klassische Musik.
+
+  Nous nous sommes *voués* à l'éducation des enfants défavorisés.
+  Wir haben uns der Bildung benachteiligter Kinder *gewidmet*.
+
+  Cette décision l'a *voué* à une vie de solitude.
+  Diese Entscheidung hat ihn zu einem Leben in Einsamkeit *verdammt*.
+
+  Elle s'est *vouée* à la défense des animaux en danger.
+  Sie hat sich dem Schutz gefährdeter Tiere *verschrieben*.
+
+  Le roi a *voué* le royaume à la prospérité.
+  Der König hat das Königreich dem Wohlstand *geweiht*.
+
+  Ils se sont *voués* un amour éternel lors de leur mariage.
+  Sie haben sich bei ihrer Hochzeit ewige Liebe *geschworen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

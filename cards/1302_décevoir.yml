@@ -13,14 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Désolé de t’avoir déçue.
-  Es tut mir leid, dass ich dich enttäuscht habe.
+  Désolé de t'avoir *déçue*.
+  Tut mir leid, dass ich dich *enttäuscht* habe.
 
-  Je ne veux pas te décevoir.
-  Ich möchte dich nicht enttäuschen.
+  Son comportement a *déçu* toutes mes attentes.
+  Sein Verhalten hat all meine Erwartungen *enttäuscht*.
 
-  Le résultat du match a déçu les supporters.
-  Die Resultate des Spiels haben die Fans enttäuscht.
+  Le film n'était pas aussi bon que prévu et a *déçu* le public.
+  Der Film war nicht so gut wie erwartet und hat das Publikum *enttäuscht*.
+
+  Ne *décevez* pas la confiance que vos parents ont placée en vous.
+  *Enttäuschen* Sie nicht das Vertrauen, das Ihre Eltern in Sie gesetzt haben.
+
+  Les résultats de l'élection ont *déçu* de nombreux électeurs.
+  Die Wahlergebnisse haben viele Wähler *enttäuscht*.
+
+  "Tu me *déçois*, je ne te croyais pas si égoïste."
+  "Du *enttäuschst* mich, ich hielt dich nicht für so egoistisch."
+
+  L'équipe nationale a *déçu* ses supporters en perdant le match crucial.
+  Die Nationalmannschaft hat ihre Fans *enttäuscht*, indem sie das entscheidende Spiel verlor.
+
+  Cette décision politique risque de *décevoir* les attentes des citoyens.
+  Diese politische Entscheidung droht, die Erwartungen der Bürger zu *enttäuschen*.
+
+  Le nouveau smartphone a *déçu* les critiques par son manque d'innovation.
+  Das neue Smartphone hat die Kritiker durch seinen Mangel an Innovation *enttäuscht*.
+
+  Ne vous laissez pas *décevoir* par les apparences trompeuses.
+  Lassen Sie sich nicht von trügerischem Schein *täuschen*.
+
+  La réalité peut parfois *décevoir* nos rêves les plus chers.
+  Die Realität kann manchmal unsere liebsten Träume *enttäuschen*.
+
+  Son amour *déçu* l'a conduit à se replier sur lui-même.
+  Seine *enttäuschte* Liebe hat ihn dazu gebracht, sich in sich selbst zurückzuziehen.
+
+  Les promesses non tenues du politicien ont *déçu* ses électeurs.
+  Die nicht eingehaltenen Versprechen des Politikers haben seine Wähler *enttäuscht*.
+
+  La météo capricieuse a *déçu* les organisateurs du festival en plein air.
+  Das launische Wetter hat die Organisatoren des Open-Air-Festivals *enttäuscht*.
+
+  J'espère que mon travail ne vous *décevra* pas, patron.
+  Ich hoffe, meine Arbeit wird Sie nicht *enttäuschen*, Chef.
+
+  Malgré ses efforts, il n'a pas pu s'empêcher de *décevoir* les attentes de son père.
+  Trotz seiner Bemühungen konnte er es nicht vermeiden, die Erwartungen seines Vaters zu *enttäuschen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

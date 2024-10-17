@@ -13,41 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai eu une urgence à domicile.
-  Ich hatte einen Notfall zu Hause.
+  J'ai eu une urgence à *domicile*.
+  Ich hatte einen Notfall *zu Hause*.
 
-  Je dois changer mon domicile.
-  Ich muss meinen Wohnsitz ändern.
+  Ils cherchent un nouveau *domicile* depuis trois mois.
+  Sie suchen seit drei Monaten eine neue *Wohnung*.
 
-  Il a été arrêté pour violation de domicile.
-  Er wurde wegen Hausfriedensbruchs verhaftet.
+  Le *domicile* de mes parents se trouve dans un quartier calme.
+  Die *Wohnung* meiner Eltern liegt in einem ruhigen Viertel.
 
-  Le changement de domicile est une formalité administrative.
-  Der Wohnsitzwechsel ist eine administrative Formalität.
+  La police enquête sur une violation de *domicile*.
+  Die Polizei ermittelt wegen *Hausfriedensbruchs*.
 
-  La livraison est franco domicile.
-  Die Lieferung erfolgt frei Haus.
+  Il n'a pas signalé son changement de *domicile* à la mairie.
+  Er hat seinen *Wohnsitz*wechsel nicht beim Rathaus gemeldet.
 
-  Ce sans domicile fixe a besoin d'aide.
-  Dieser Obdachlose braucht Hilfe.
+  Cette personne sans *domicile* fixe dort dans le parc.
+  Diese Person ohne festen *Wohnsitz* schläft im Park.
 
-  Il a décidé d'élire domicile 9, rue Montparnasse.
-  Er hat sich entschieden, sich in der Rue Montparnasse 9 niederzulassen.
+  La famille a élu *domicile* dans un petit village près de la mer.
+  Die Familie hat sich in einem kleinen Dorf am Meer *niedergelassen*.
 
-  Le domicile de notification est le lieu où les documents officiels sont envoyés.
-  Der Zustellungswohnsitz ist der Ort, an dem offizielle Dokumente geschickt werden.
+  Les livraisons à *domicile* sont gratuites.
+  Die Lieferungen *frei Haus* sind kostenlos.
 
-  Le travail à domicile est de plus en plus populaire.
-  Heimarbeit wird immer beliebter.
+  Elle préfère travailler à *domicile* plutôt qu'au bureau.
+  Sie arbeitet lieber von *zu Hause* aus als im Büro.
 
-  Le médecin a fait une visite à domicile.
-  Der Arzt hat einen Hausbesuch gemacht.
+  Mon frère a quitté le *domicile* conjugal hier soir.
+  Mein Bruder hat gestern Abend die eheliche *Wohnung* verlassen.
 
-  La vente à domicile est une pratique courante.
-  Haustürgeschäft ist eine gängige Praxis.
+  Le *domicile* de notre société se trouve au centre-ville.
+  Der *Firmensitz* befindet sich in der Innenstadt.
 
-  Il préfère travailler à domicile.
-  Er arbeitet lieber von zu Hause aus.
+  "Tu ferais mieux de regagner ton *domicile*", m'a conseillé mon ami.
+  "Du solltest besser nach *Hause* gehen", riet mir mein Freund.
+
+  Les cambrioleurs sont entrés par effraction dans son *domicile*.
+  Die Einbrecher sind gewaltsam in ihre *Wohnung* eingedrungen.
+
+  Notre entreprise propose des services de massage à *domicile*.
+  Unser Unternehmen bietet Massage*hausbesuche* an.
+
+  Ils ont établi leur *domicile* dans une ancienne ferme rénovée.
+  Sie haben ihre *Wohnung* in einem renovierten alten Bauernhaus eingerichtet.
+
+  Le médecin fait des visites à *domicile* le weekend.
+  Der Arzt macht am Wochenende *Hausbesuche*.
+
+  Les agents immobiliers proposent des visites de *domicile* virtuelles.
+  Die Immobilienmakler bieten virtuelle *Wohnungs*besichtigungen an.
+
+  Paul n'a pas de *domicile* fixe depuis son divorce.
+  Paul hat seit seiner Scheidung keinen festen *Wohnsitz*.
+
+  La banque m'envoie mes relevés à mon nouveau *domicile*.
+  Die Bank schickt mir meine Kontoauszüge an meinen neuen *Wohnsitz*.
+
+  Notre *domicile* a été cambriolé pendant les vacances.
+  In unsere *Wohnung* wurde während des Urlaubs eingebrochen.
+
+  L'infirmière prodigue des soins à *domicile*.
+  Die Krankenschwester leistet *Haus*pflege.
+
+  Marie garde les enfants à *domicile*.
+  Marie betreut die Kinder *zu Hause*.
+
+  J'ai fait installer une alarme dans mon *domicile*.
+  Ich habe in meiner *Wohnung* eine Alarmanlage installieren lassen.
+
+  Le coiffeur propose maintenant des prestations à *domicile*.
+  Der Friseur bietet jetzt *Haus*besuche an.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

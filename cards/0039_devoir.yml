@@ -13,41 +13,176 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je dois travailler sans la moindre entrave.
-  Ich muss ohne die geringste Behinderung arbeiten.
+  Je *dois* travailler sans la moindre entrave.
+  Ich *muss* ohne die geringste Behinderung arbeiten.
 
-  Je dois faire mes devoirs ce soir.
-  Ich muss heute Abend meine Hausaufgaben machen.
+  Tu *dois* cinquante euros à ton frère.
+  Du *schuldest* deinem Bruder fünfzig Euro.
 
-  La réussite de son entreprise, elle la doit à son courage et à sa persévérance.
-  Den Erfolg ihres Unternehmens verdankt sie ihrem Mut und ihrer Ausdauer.
+  Elle *doit* son succès à son travail acharné.
+  Sie *verdankt* ihren Erfolg ihrer harten Arbeit.
 
-  Je me dois de vous aider, car vous m'avez été d'un grand secours.
-  Ich muss dir helfen, denn du hast mir sehr geholfen.
+  Nous *devons* respecter les règles du jeu.
+  Wir *müssen* die Spielregeln einhalten.
 
-  Je vous dois une partie de tennis, car je vous ai battu la dernière fois.
-  Ich schulde dir ein Tennisspiel, denn ich habe dich das letzte Mal geschlagen.
+  Vous *devez* des excuses à votre collègue.
+  Sie *schulden* Ihrem Kollegen eine Entschuldigung.
 
-  Tu aurais dû lui rendre visite, il était vraiment malade.
-  Du hättest ihn besuchen sollen, er war wirklich krank.
+  Ils *doivent* terminer ce projet avant la fin du mois.
+  Sie *müssen* dieses Projekt vor Monatsende abschließen.
 
-  Cela devait arriver un jour ! Il a enfin trouvé sa véritable vocation.
-  Das musste ja einmal passieren! Er hat endlich seine wahre Berufung gefunden.
+  Je *dois* avouer que je me suis trompé.
+  Ich *muss* zugeben, dass ich mich geirrt habe.
 
-  Normalement, il doit arriver ce soir, s'il n'y a pas de brouillard.
-  Er müsste eigentlich heute Abend ankommen, wenn es nicht neblig ist.
+  Tu *devrais* aller voir un médecin.
+  Du *solltest* zum Arzt gehen.
 
-  Il doit être heureux, il a enfin réussi à obtenir le poste qu'il convoitait depuis longtemps.
-  Er muss froh sein, er hat endlich die Stelle bekommen, die er sich schon lange gewünscht hat.
+  Elle *doit* arriver demain soir.
+  Sie *soll* morgen Abend ankommen.
 
-  Faire un devoir de math peut être difficile, mais c'est aussi une excellente façon d'apprendre.
-  Eine Mathearbeit schreiben kann schwierig sein, aber es ist auch eine gute Möglichkeit zu lernen.
+  Nous *devions* partir en vacances, mais nous avons dû annuler.
+  Wir *sollten* in den Urlaub fahren, mussten aber absagen.
 
-  Avoir des devoirs en math peut être stressant, mais c'est important de les faire pour réussir.
-  Etwas in Mathe aufhaben kann stressig sein, aber es ist wichtig, sie zu erledigen, um erfolgreich zu sein.
+  Vous *devez* être fatigués après ce long voyage.
+  Sie *müssen* nach dieser langen Reise müde sein.
 
-  Son succès ne doit rien au hasard, il a travaillé dur pour l'obtenir.
-  Sein Erfolg ist nicht von ungefähr gekommen, er hat hart dafür gearbeitet.
+  Ils *doivent* se tromper de numéro.
+  Sie *müssen* sich in der Nummer irren.
+
+  Je me *dois* d'être honnête avec vous.
+  Ich *bin* es mir *schuldig*, ehrlich zu Ihnen zu sein.
+
+  Tu te *dois* à ta famille avant tout.
+  Du *bist* in erster Linie deiner Familie *verpflichtet*.
+
+  Elle s'est *dû* de refuser cette offre.
+  Sie *musste* dieses Angebot ablehnen.
+
+  Nous nous *devons* de respecter l'environnement.
+  Wir *sind* es uns *schuldig*, die Umwelt zu respektieren.
+
+  Vous vous *devez* d'être un exemple pour vos enfants.
+  Sie *müssen* ein Vorbild für Ihre Kinder sein.
+
+  Ils se *doivent* d'être à la hauteur de la situation.
+  Sie *müssen* der Situation gewachsen sein.
+
+  Le loyer *est dû* au premier du mois.
+  Die Miete *ist* am Ersten des Monats *fällig*.
+
+  Cette récompense lui *est due*.
+  Diese Belohnung *steht* ihm *zu*.
+
+  L'accident *est dû* à un excès de vitesse.
+  Der Unfall *ist* auf überhöhte Geschwindigkeit *zurückzuführen*.
+
+  Je *dois* la vie à ce médecin.
+  Ich *verdanke* diesem Arzt mein Leben.
+
+  Tu *dois* ton prénom à ton grand-père.
+  Du *verdankst* deinen Vornamen deinem Großvater.
+
+  Elle *doit* sa réussite à sa persévérance.
+  Sie *verdankt* ihren Erfolg ihrer Beharrlichkeit.
+
+  Nous *devons* notre liberté à nos ancêtres.
+  Wir *verdanken* unseren Vorfahren unsere Freiheit.
+
+  Vous *devez* votre victoire à votre excellent travail d'équipe.
+  Sie *verdanken* Ihren Sieg Ihrer ausgezeichneten Teamarbeit.
+
+  Ils *doivent* leur fortune à un héritage inattendu.
+  Sie *verdanken* ihr Vermögen einer unerwarteten Erbschaft.
+
+  Je ne *dois* rien à personne.
+  Ich *schulde* niemandem etwas.
+
+  Tu ne *dois* pas mentir à tes parents.
+  Du *darfst* deine Eltern nicht anlügen.
+
+  Elle ne *doit* pas négliger sa santé.
+  Sie *darf* ihre Gesundheit nicht vernachlässigen.
+
+  Nous ne *devons* pas oublier nos racines.
+  Wir *dürfen* unsere Wurzeln nicht vergessen.
+
+  Vous ne *devez* pas vous décourager face aux obstacles.
+  Sie *dürfen* sich angesichts von Hindernissen nicht entmutigen lassen.
+
+  Ils ne *doivent* pas manquer cette opportunité.
+  Sie *dürfen* diese Gelegenheit nicht verpassen.
+
+  "Je *dois* y aller maintenant, sinon je serai en retard."
+  "Ich *muss* jetzt gehen, sonst komme ich zu spät."
+
+  "Tu *dois* être fou pour faire une chose pareille !"
+  "Du *musst* verrückt sein, so etwas zu tun!"
+
+  "Elle *doit* avoir une vingtaine d'années."
+  "Sie *muss* ungefähr zwanzig Jahre alt sein."
+
+  "Nous *devons* nous être trompés de chemin."
+  "Wir *müssen* uns verlaufen haben."
+
+  "Vous *devez* être fiers de votre fille."
+  "Sie *müssen* stolz auf Ihre Tochter sein."
+
+  "Ils *doivent* avoir terminé la réunion maintenant."
+  "Sie *müssen* die Besprechung jetzt beendet haben."
+
+  Le sens du *devoir* est important dans notre société.
+  Das *Pflicht*bewusstsein ist wichtig in unserer Gesellschaft.
+
+  Son *devoir* de citoyen l'oblige à voter.
+  Seine Bürger*pflicht* verpflichtet ihn zu wählen.
+
+  Elle a fait son *devoir* conjugal à contrecœur.
+  Sie hat ihre ehe*liche Pflicht* widerwillig erfüllt.
+
+  Nous avons des *devoirs* envers notre communauté.
+  Wir haben *Pflichten* gegenüber unserer Gemeinschaft.
+
+  Vos *devoirs* professionnels passent avant vos loisirs.
+  Ihre beruflichen *Pflichten* gehen vor Ihren Freizeitaktivitäten.
+
+  Ils ont rempli leurs *devoirs* parentaux avec diligence.
+  Sie haben ihre elterlichen *Pflichten* mit Sorgfalt erfüllt.
+
+  J'ai un *devoir* d'histoire à rendre pour demain.
+  Ich habe für morgen eine Geschichte*arbeit* abzugeben.
+
+  Tu as beaucoup de *devoirs* à faire ce week-end.
+  Du hast dieses Wochenende viele *Hausaufgaben* zu erledigen.
+
+  Elle aide son fils à faire ses *devoirs* tous les soirs.
+  Sie hilft ihrem Sohn jeden Abend bei den *Hausaufgaben*.
+
+  Nous avons un *devoir* de maths difficile pour la semaine prochaine.
+  Wir haben für nächste Woche eine schwierige Mathe*arbeit*.
+
+  Vous devriez commencer vos *devoirs* de vacances dès maintenant.
+  Sie sollten jetzt mit Ihren Ferien*aufgaben* beginnen.
+
+  Ils ont eu un *devoir* surprise en classe aujourd'hui.
+  Sie hatten heute eine Überraschungs*arbeit* im Unterricht.
+
+  Je me fais un *devoir* de répondre à tous mes messages.
+  Ich mache es mir zur *Pflicht*, alle meine Nachrichten zu beantworten.
+
+  Tu te fais un *devoir* d'aider les personnes âgées.
+  Du machst es dir zur *Pflicht*, älteren Menschen zu helfen.
+
+  Elle s'est fait un *devoir* de terminer son travail à temps.
+  Sie hat es sich zur *Pflicht* gemacht, ihre Arbeit rechtzeitig zu beenden.
+
+  Nous nous faisons un *devoir* de recycler nos déchets.
+  Wir machen es uns zur *Pflicht*, unseren Müll zu recyceln.
+
+  Vous vous faites un *devoir* d'être ponctuel à chaque rendez-vous.
+  Sie machen es sich zur *Pflicht*, bei jedem Termin pünktlich zu sein.
+
+  Ils se font un *devoir* de soutenir les associations locales.
+  Sie machen es sich zur *Pflicht*, lokale Vereine zu unterstützen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

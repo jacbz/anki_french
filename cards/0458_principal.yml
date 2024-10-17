@@ -13,44 +13,122 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Trouver le rôle principal s’est révélé assez problématique.
-  Die Hauptrolle zu finden, erwies sich als ziemlich problematisch.
+  Trouver le rôle *principal* s'est révélé assez problématique.
+  Es erwies sich als ziemlich schwierig, die *Hauptrolle* zu besetzen.
 
-  Le principal objectif est de réussir.
-  Das Hauptziel ist es, Erfolg zu haben.
+  Le *principal*, c'est que tout le monde soit arrivé sain et sauf.
+  Die *Hauptsache* ist, dass alle wohlbehalten angekommen sind.
 
-  Il doit être le principal.
-  Er muss die Hauptperson sein.
+  La rue *principale* de notre village est en travaux depuis des mois.
+  Die *Hauptstraße* unseres Dorfes wird seit Monaten renoviert.
 
-  Le principal avantage de ce nouveau produit est sa durabilité.
-  Das Wichtigste an diesem neuen Produkt ist seine Langlebigkeit.
+  Le commissaire *principal* a dirigé l'enquête avec beaucoup de rigueur.
+  Der *Hauptkommissar* leitete die Ermittlungen mit großer Sorgfalt.
 
-  Les principaux monuments de la ville, comme la cathédrale et le palais, attirent chaque année des millions de touristes.
-  Die wichtigsten Bauwerke der Stadt, wie die Kathedrale und der Palast, ziehen jedes Jahr Millionen von Touristen an.
+  L'entrée *principale* du musée était fermée pour rénovation.
+  Der *Haupteingang* des Museums war wegen Renovierungsarbeiten geschlossen.
 
-  Les principaux intéressés dans cette histoire sont les parents de l'enfant disparu.
-  Die Hauptbetroffenen in dieser Geschichte sind die Eltern des verschwundenen Kindes.
+  Le motif *principal* de sa démission était le stress au travail.
+  Der *Hauptgrund* für seinen Rücktritt war der Stress bei der Arbeit.
 
-  "Le soleil se lève à l'est", c'est la proposition principale de la phrase.
-  "Die Sonne geht im Osten auf", das ist der Hauptsatz des Satzes.
+  Les *principaux* symptômes de cette maladie sont la fièvre et la fatigue.
+  Die *wichtigsten* Symptome dieser Krankheit sind Fieber und Müdigkeit.
 
-  C'est le principal : tu dois absolument te reposer.
-  Das ist die Hauptsache: Du musst dich unbedingt ausruhen.
+  "Le *principal*, c'est de participer", a dit l'athlète après sa défaite.
+  "Die *Hauptsache* ist, dabei zu sein", sagte der Athlet nach seiner Niederlage.
 
-  Le principal, c'est que tu sois vivante, tout le reste est secondaire.
-  Hauptsache ist, dass du noch am Leben bist, alles andere ist nebensächlich.
+  La proposition *principale* de cette phrase est "Je pense".
+  Der *Hauptsatz* dieses Satzes lautet "Ich denke".
 
-  La signification principale de ce tableau est la recherche de la beauté dans la nature.
-  Die Grundbedeutung dieses Bildes ist die Suche nach Schönheit in der Natur.
+  Le *principal* du collège a convoqué une réunion d'urgence.
+  Der *Direktor* der Schule hat eine Dringlichkeitssitzung einberufen.
 
-  Les raisons principales de son départ sont la fatigue et le manque de motivation.
-  Die Hauptgründe für seinen Abschied sind die Erschöpfung und der Mangel an Motivation.
+  Les *principaux* partis politiques ont participé au débat télévisé.
+  Die *wichtigsten* politischen Parteien haben an der Fernsehdebatte teilgenommen.
 
-  Sa résidence principale se trouve à Paris, mais il possède une maison de vacances à la campagne.
-  Sein Hauptwohnsitz befindet sich in Paris, aber er besitzt ein Ferienhaus auf dem Land.
+  Il a remboursé le *principal* de sa dette, mais pas les intérêts.
+  Er hat die *Hauptschuld* zurückgezahlt, aber nicht die Zinsen.
 
-  Il a décroché le rôle principal d'un film d'action et il est très fier de lui.
-  Er hat die Hauptrolle in einem Actionfilm bekommen und ist sehr stolz auf sich.
+  La diagonale *principale* de cette matrice contient uniquement des zéros.
+  Die *Hauptdiagonale* dieser Matrix enthält nur Nullen.
+
+  Les *principaux* monuments de Paris attirent des millions de touristes chaque année.
+  Die *wichtigsten* Sehenswürdigkeiten von Paris ziehen jedes Jahr Millionen von Touristen an.
+
+  Le rôle *principal* du film a été attribué à une actrice débutante.
+  Die *Hauptrolle* des Films wurde an eine Nachwuchsschauspielerin vergeben.
+
+  La cause *principale* de l'accident était l'excès de vitesse.
+  Die *Hauptursache* des Unfalls war überhöhte Geschwindigkeit.
+
+  Le *principal* clerc de l'étude a préparé tous les documents nécessaires.
+  Der *Hauptangestellte* der Kanzlei hat alle erforderlichen Dokumente vorbereitet.
+
+  Les *principaux* arguments de la défense ont été rejetés par le juge.
+  Die *Hauptargumente* der Verteidigung wurden vom Richter abgelehnt.
+
+  La signification *principale* de ce symbole est la paix.
+  Die *Hauptbedeutung* dieses Symbols ist Frieden.
+
+  Le plan *principal* du système optique est perpendiculaire à l'axe.
+  Die *Hauptebene* des optischen Systems steht senkrecht zur Achse.
+
+  Sa résidence *principale* se trouve à Paris, mais il a aussi une maison de vacances.
+  Sein *Hauptwohnsitz* ist in Paris, aber er hat auch ein Ferienhaus.
+
+  Les *principaux* intéressés ont été informés de la décision.
+  Die *Hauptbetroffenen* wurden über die Entscheidung informiert.
+
+  Le *principal* obstacle à la réussite du projet était le manque de financement.
+  Das *Haupthindernis* für den Erfolg des Projekts war der Mangel an Finanzierung.
+
+  Il passe le *principal* de son temps à lire et à écrire.
+  Er verbringt den *Großteil* seiner Zeit mit Lesen und Schreiben.
+
+  La proposition *principale* "Il pleut" est suivie d'une subordonnée.
+  Dem *Hauptsatz* "Es regnet" folgt ein Nebensatz.
+
+  Les *principaux* ports de France sont équipés pour accueillir de grands navires.
+  Die *wichtigsten* Häfen Frankreichs sind für die Aufnahme großer Schiffe ausgerüstet.
+
+  Le *principal*, c'est que vous ayez compris la leçon.
+  Die *Hauptsache* ist, dass Sie die Lektion verstanden haben.
+
+  La pièce *principale* du moteur a dû être remplacée.
+  Das *Hauptteil* des Motors musste ersetzt werden.
+
+  Les *principaux* aspects de la réforme ont été présentés lors de la conférence.
+  Die *wichtigsten* Aspekte der Reform wurden auf der Konferenz vorgestellt.
+
+  Le commissaire *principal* a été promu après des années de service exemplaire.
+  Der *Hauptkommissar* wurde nach Jahren vorbildlichen Dienstes befördert.
+
+  L'entrée *principale* du bâtiment était décorée pour l'occasion.
+  Der *Haupteingang* des Gebäudes war für den Anlass geschmückt.
+
+  Les *principaux* objectifs du projet ont été atteints dans les délais.
+  Die *Hauptziele* des Projekts wurden fristgerecht erreicht.
+
+  La diagonale *principale* de cette matrice carrée contient des éléments importants.
+  Die *Hauptdiagonale* dieser quadratischen Matrix enthält wichtige Elemente.
+
+  Le *principal* grief au procès concernait la violation du contrat.
+  Der *Hauptvorwurf* im Prozess betraf die Vertragsverletzung.
+
+  Les *principaux* symptômes de la grippe incluent la fièvre et les courbatures.
+  Zu den *wichtigsten* Symptomen der Grippe gehören Fieber und Gliederschmerzen.
+
+  L'actrice *principale* du film a reçu de nombreuses récompenses pour sa performance.
+  Die *Hauptdarstellerin* des Films erhielt zahlreiche Auszeichnungen für ihre Leistung.
+
+  Le *principal* du collège a organisé une réunion avec les parents d'élèves.
+  Der *Direktor* der Schule hat ein Treffen mit den Eltern organisiert.
+
+  La rue *principale* de la ville était bondée pendant le festival.
+  Die *Hauptstraße* der Stadt war während des Festivals überfüllt.
+
+  Le *principal* avantage de cette méthode est sa simplicité d'utilisation.
+  Der *Hauptvorteil* dieser Methode ist ihre einfache Anwendung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

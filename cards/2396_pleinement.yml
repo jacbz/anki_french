@@ -13,11 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis pleinement d’accord avec elle.
-  Ich stimme ihr voll und ganz zu.
+  Je suis *pleinement* d'accord avec elle.
+  Ich stimme ihr *voll und ganz* zu.
 
-  Je suis pleinement satisfait de mon travail.
-  Ich bin voll und ganz zufrieden mit meiner Arbeit.
+  Il a *pleinement* profité de ses vacances en Italie.
+  Er hat seinen Urlaub in Italien *voll* ausgekostet.
+
+  La nouvelle loi n'est pas encore *pleinement* en vigueur.
+  Das neue Gesetz ist noch nicht *vollständig* in Kraft getreten.
+
+  Elle s'est *pleinement* investie dans son nouveau projet.
+  Sie hat sich *ganz und gar* in ihr neues Projekt eingebracht.
+
+  Nous sommes *pleinement* conscients des risques de cette opération.
+  Wir sind uns der Risiken dieses Eingriffs *vollkommen* bewusst.
+
+  "Je ne suis pas *pleinement* satisfait de votre travail," a déclaré le patron.
+  "Ich bin mit Ihrer Arbeit nicht *vollauf* zufrieden", erklärte der Chef.
+
+  L'artiste a *pleinement* exprimé ses émotions dans cette œuvre.
+  Der Künstler hat seine Gefühle in diesem Werk *vollständig* zum Ausdruck gebracht.
+
+  As-tu *pleinement* réfléchi aux conséquences de ta décision ?
+  Hast du *gründlich* über die Folgen deiner Entscheidung nachgedacht?
+
+  Le candidat a *pleinement* convaincu le jury lors de son entretien.
+  Der Kandidat hat die Jury bei seinem Vorstellungsgespräch *völlig* überzeugt.
+
+  Cette technologie n'a pas encore *pleinement* atteint son potentiel.
+  Diese Technologie hat ihr Potenzial noch nicht *voll* ausgeschöpft.
+
+  L'entreprise s'efforce d'utiliser *pleinement* ses ressources.
+  Das Unternehmen bemüht sich, seine Ressourcen *vollständig* zu nutzen.
+
+  Je ne peux pas *pleinement* apprécier ce film sans sous-titres.
+  Ich kann diesen Film ohne Untertitel nicht *in vollem Umfang* genießen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

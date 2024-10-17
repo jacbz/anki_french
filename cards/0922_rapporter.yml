@@ -13,41 +13,170 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je t’ai rapporté ton livre.
-  Ich habe dir dein Buch zurückgebracht.
+  Je t'ai *rapporté* ton livre.
+  Ich habe dir dein Buch *zurückgebracht*.
 
-  Je vais rapporter les livres à la bibliothèque.
-  Ich werde die Bücher in die Bibliothek zurückbringen.
+  Le chien a *rapporté* la balle à son maître.
+  Der Hund hat seinem Herrchen den Ball *apportiert*.
 
-  J'ai décidé de rapporter un livre à mon amie, qui adore lire.
-  Ich habe beschlossen, meiner Freundin, die sehr gerne liest, ein Buch mitzubringen.
+  Cette action *rapporte* des dividendes intéressants.
+  Diese Aktie *bringt* interessante Dividenden *ein*.
 
-  Un chien de chasse rapporte le gibier à son maître, qui l'attend patiemment.
-  Ein Jagdhund apportiert das Wild zu seinem Herrn, der geduldig wartet.
+  L'enquêteur a *rapporté* les faits au commissaire.
+  Der Ermittler hat dem Kommissar die Fakten *berichtet*.
 
-  Ses paroles se rapportent à la situation actuelle, ce qui rend son discours d'autant plus pertinent.
-  Seine Worte beziehen sich auf die aktuelle Situation, was seine Rede umso relevanter macht.
+  "Ne *rapporte* pas tout ce que tu entends !" a dit la mère à son enfant.
+  "*Trage* nicht alles weiter, was du hörst!", sagte die Mutter zu ihrem Kind.
 
-  J'ai oublié de rapporter le livre à la bibliothèque, et je suis sûr que je vais payer une amende.
-  Ich habe vergessen, das Buch in die Bibliothek zurückzubringen, und bin sicher, dass ich eine Gebühr bezahlen muss.
+  Il faut *rapporter* cette décision à son contexte historique.
+  Man muss diese Entscheidung in ihren historischen Kontext *einordnen*.
 
-  Tu peux rapporter ce message à ton frère, il est important qu'il le sache.
-  Du kannst diese Nachricht deinem Bruder bringen, es ist wichtig, dass er sie erhält.
+  Le journaliste a fidèlement *rapporté* les propos du ministre.
+  Der Journalist hat die Äußerungen des Ministers getreu *wiedergegeben*.
 
-  Le policier a rapporté le cas de vol à son supérieur, qui a ouvert une enquête.
-  Der Polizist hat seinem Vorgesetzten von dem Diebstahl berichtet, der daraufhin eine Untersuchung einleitete.
+  Cet investissement nous a *rapporté* gros.
+  Diese Investition hat sich für uns sehr *gelohnt*.
 
-  Les archéologues ont réussi à rapporter cet événement à l'époque romaine, grâce à des artefacts retrouvés.
-  Die Archäologen haben es geschafft, dieses Ereignis mithilfe von gefundenen Artefakten in die römische Zeit einzuordnen.
+  Le comité a décidé de *rapporter* la loi controversée.
+  Der Ausschuss hat beschlossen, das umstrittene Gesetz *aufzuheben*.
 
-  Je m'en rapporte à ton jugement, tu sais toujours ce qu'il faut faire.
-  Ich verlasse mich auf dein Urteil, du weißt immer, was zu tun ist.
+  Elle a *rapporté* un magnifique souvenir de son voyage.
+  Sie hat ein wunderschönes Andenken von ihrer Reise *mitgebracht*.
 
-  Le professeur a demandé aux élèves de rapporter une réponse à la question posée.
-  Der Professor hat die Schüler gebeten, eine Antwort auf die gestellte Frage zu geben.
+  Ce travail ne me *rapporte* que des ennuis.
+  Diese Arbeit *bringt* mir nur Ärger *ein*.
 
-  Le chien rapporte le gibier à son maître, qui le récompense avec une friandise.
-  Der Hund apportiert das Wild zu seinem Herrn, der ihn mit einem Leckerli belohnt.
+  Le témoin a *rapporté* ce qu'il avait vu à la police.
+  Der Zeuge hat der Polizei *berichtet*, was er gesehen hatte.
+
+  J'ai *rapporté* ton manteau du pressing.
+  Ich habe deinen Mantel von der Reinigung *mitgebracht*.
+
+  Cette terre *rapporte* de bonnes récoltes chaque année.
+  Dieses Land *bringt* jedes Jahr gute Ernten *hervor*.
+
+  Le consultant a *rapporté* ses conclusions au conseil d'administration.
+  Der Berater hat dem Vorstand seine Schlussfolgerungen *vorgetragen*.
+
+  Ne *rapporte* pas mes paroles de travers !
+  *Gib* meine Worte nicht falsch *wieder*!
+
+  Les élèves doivent *rapporter* leurs livres à la bibliothèque.
+  Die Schüler müssen ihre Bücher in die Bibliothek *zurückbringen*.
+
+  Son nouveau roman lui a *rapporté* une belle somme.
+  Sein neuer Roman hat ihm eine schöne Summe *eingebracht*.
+
+  Le chien de chasse *rapporte* le gibier à son maître.
+  Der Jagdhund *apportiert* das Wild zu seinem Herrn.
+
+  Il faut *rapporter* cette poche sur le pantalon.
+  Man muss diese Tasche an die Hose *annähen*.
+
+  Pouvez-vous me *rapporter* un café de la machine ?
+  Können Sie mir einen Kaffee vom Automaten *mitbringen*?
+
+  Cette affaire ne *rapportera* rien de bon.
+  Diese Angelegenheit wird nichts Gutes *einbringen*.
+
+  Le scientifique a *rapporté* ses observations dans un journal.
+  Der Wissenschaftler hat seine Beobachtungen in einem Tagebuch *festgehalten*.
+
+  "Tu ne devrais pas *rapporter* les secrets de tes amis," lui a-t-elle conseillé.
+  "Du solltest die Geheimnisse deiner Freunde nicht *weitererzählen*", riet sie ihm.
+
+  Il faut *rapporter* cet angle sur le plan.
+  Man muss diesen Winkel auf den Plan *übertragen*.
+
+  Cette décision se *rapporte* à notre discussion précédente.
+  Diese Entscheidung *bezieht sich* auf unsere vorherige Diskussion.
+
+  Je m'en *rapporte* à votre jugement dans cette affaire.
+  Ich *verlasse* mich in dieser Sache auf Ihr Urteil.
+
+  Le comité a *rapporté* la mesure impopulaire.
+  Der Ausschuss hat die unpopuläre Maßnahme *rückgängig gemacht*.
+
+  Elle *rapporte* tout à elle-même, c'est fatiguant.
+  Sie *bezieht* alles auf sich selbst, das ist ermüdend.
+
+  Ce placement *rapporte* 5% d'intérêts par an.
+  Diese Anlage *bringt* 5% Zinsen pro Jahr *ein*.
+
+  L'historien a *rapporté* ces événements dans son livre.
+  Der Historiker hat diese Ereignisse in seinem Buch *dargestellt*.
+
+  Il faut *rapporter* ce document au service concerné.
+  Dieses Dokument muss der zuständigen Abteilung *zurückgegeben* werden.
+
+  Le stagiaire a *rapporté* les photocopies au bureau.
+  Der Praktikant hat die Fotokopien ins Büro *zurückgebracht*.
+
+  Cette entreprise *rapporte* des bénéfices importants.
+  Dieses Unternehmen *erwirtschaftet* beträchtliche Gewinne.
+
+  Le journaliste a *rapporté* l'incident de manière objective.
+  Der Journalist hat über den Vorfall objektiv *berichtet*.
+
+  Peux-tu me *rapporter* ma veste ? Je l'ai oubliée.
+  Kannst du mir meine Jacke *mitbringen*? Ich habe sie vergessen.
+
+  Ces actions *rapportent* peu, mais elles sont sûres.
+  Diese Aktien *bringen* wenig *ein*, aber sie sind sicher.
+
+  L'élève a *rapporté* les paroles de l'enseignant à ses parents.
+  Der Schüler hat die Worte des Lehrers seinen Eltern *weitergegeben*.
+
+  Il faut *rapporter* cette bande de tissu sur le bord du rideau.
+  Man muss diesen Stoffstreifen an den Rand des Vorhangs *ansetzen*.
+
+  Le chien a bien *rapporté* la balle, comme on le lui a appris.
+  Der Hund hat den Ball gut *apportiert*, wie man es ihm beigebracht hat.
+
+  Cette loi se *rapporte* aux droits des travailleurs.
+  Dieses Gesetz *bezieht sich* auf die Rechte der Arbeitnehmer.
+
+  Le détective a *rapporté* ses découvertes à son client.
+  Der Detektiv hat seinem Kunden seine Entdeckungen *mitgeteilt*.
+
+  Ce nouveau projet nous *rapportera* beaucoup.
+  Dieses neue Projekt wird uns viel *einbringen*.
+
+  Il faut *rapporter* ce livre à la bibliothèque avant demain.
+  Dieses Buch muss bis morgen in die Bibliothek *zurückgebracht* werden.
+
+  L'agent immobilier a *rapporté* de bonnes nouvelles sur la vente.
+  Der Immobilienmakler hat gute Nachrichten über den Verkauf *überbracht*.
+
+  Cette activité ne *rapporte* pas assez pour être rentable.
+  Diese Aktivität *bringt* nicht genug *ein*, um rentabel zu sein.
+
+  Le tribunal a *rapporté* le jugement précédent.
+  Das Gericht hat das vorherige Urteil *aufgehoben*.
+
+  Je me *rapporte* à votre expérience dans ce domaine.
+  Ich *beziehe* mich auf Ihre Erfahrung in diesem Bereich.
+
+  L'étudiant a *rapporté* les propos du professeur dans sa dissertation.
+  Der Student hat die Aussagen des Professors in seiner Abhandlung *zitiert*.
+
+  Ce terrain *rapporte* de bons fruits chaque été.
+  Dieses Grundstück *bringt* jeden Sommer gute Früchte *hervor*.
+
+  Il faut *rapporter* ces chiffres au contexte économique actuel.
+  Diese Zahlen müssen in den aktuellen wirtschaftlichen Kontext *eingeordnet* werden.
+
+  Le sondage a *rapporté* des résultats surprenants.
+  Die Umfrage hat überraschende Ergebnisse *ergeben*.
+
+  Pouvez-vous me *rapporter* un verre d'eau, s'il vous plaît ?
+  Können Sie mir bitte ein Glas Wasser *bringen*?
+
+  Cette décision a été *rapportée* suite aux protestations.
+  Diese Entscheidung wurde aufgrund der Proteste *rückgängig gemacht*.
+
+  Le chercheur a *rapporté* ses découvertes dans un article scientifique.
+  Der Forscher hat seine Entdeckungen in einem wissenschaftlichen Artikel *dargelegt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

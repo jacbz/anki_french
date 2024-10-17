@@ -31,7 +31,7 @@ function formatDefinition() {
   });
 }
 
-function beautifyText(text, isFrench) {
+function processText(text, isFrench) {
   if (text.length === 0) {
     return text;
   }
@@ -68,6 +68,9 @@ function beautifyText(text, isFrench) {
     text = text.replaceAll("„", '"').replaceAll("“", '"');
     text = text.replaceAll(/(?!.*<[^>]* [^>]*>)"([^"]*)"/g, "„$1“");
   }
+
+  // replace *...* with <u>...</u>
+  text = text.replaceAll(/\*(.*?)\*/g, '<span class="word-highlight">$1</span>');
   return text;
 }
 

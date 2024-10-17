@@ -13,26 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le premier ministre a compromis le processus de paix.
-  Der Premierminister hat den Friedensprozess gefährdet.
+  Le premier ministre a *compromis* le processus de paix.
+  Der Premierminister hat den Friedensprozess *gefährdet*.
 
-  Je ne veux pas compromettre ma réputation.
-  Ich möchte meinen Ruf nicht gefährden.
+  Ses actions ont gravement *compromis* sa réputation professionnelle.
+  Seine Handlungen haben seinen beruflichen Ruf ernsthaft *geschädigt*.
 
-  Le plan de la police a été compromis par une fuite d'informations.
-  Der Plan der Polizei wurde durch ein Informationsleck sabotiert.
+  Il faut éviter de *compromettre* la sécurité des données personnelles.
+  Man muss vermeiden, die Sicherheit persönlicher Daten zu *gefährden*.
 
-  Il s'est compromis avec son patron en acceptant un pot-de-vin.
-  Er ist mit seinem Chef ins Gerede gekommen, weil er Bestechungsgeld angenommen hat.
+  "Tu t'es *compromis* en fréquentant ces gens louches !"
+  "Du hast dich *bloßgestellt*, indem du mit diesen zwielichtigen Leuten verkehrt hast!"
 
-  Les conducteurs en état d'ivresse compromettent la sécurité routière.
-  Betrunkene Fahrer gefährden den Straßenverkehr.
+  La fuite d'informations a *compromis* toute l'opération.
+  Das Durchsickern von Informationen hat die gesamte Operation *zunichte gemacht*.
 
-  Le ministre est compromis dans l'affaire de corruption.
-  Der Minister ist in die Korruptionsaffäre verwickelt.
+  Elle a refusé de se *compromettre* dans cette affaire douteuse.
+  Sie hat sich geweigert, sich in diese zweifelhafte Angelegenheit *hineinziehen zu lassen*.
 
-  Notre voyage est compromis à cause du mauvais temps.
-  Aus unserer Reise wird wohl nichts wegen des schlechten Wetters.
+  Les fortes pluies ont *compromis* la récolte de cette année.
+  Die starken Regenfälle haben die diesjährige Ernte *gefährdet*.
+
+  Son imprudence a failli *compromettre* toute la mission.
+  Seine Unvorsichtigkeit hätte beinahe die ganze Mission *zum Scheitern gebracht*.
+
+  Ne vous *compromettez* pas en signant ce contrat douteux.
+  *Bringen Sie sich nicht in Verruf*, indem Sie diesen zweifelhaften Vertrag unterzeichnen.
+
+  Cette décision pourrait *compromettre* l'avenir de l'entreprise.
+  Diese Entscheidung könnte die Zukunft des Unternehmens *gefährden*.
+
+  Le scandale a *compromis* ses chances d'être réélu.
+  Der Skandal hat seine Chancen auf eine Wiederwahl *zunichte gemacht*.
+
+  Il a été *compromis* dans une affaire de corruption.
+  Er wurde in einen Korruptionsfall *verwickelt*.
+
+  Les négociations sont *compromises* suite à ce désaccord.
+  Die Verhandlungen sind aufgrund dieser Meinungsverschiedenheit *gefährdet*.
+
+  Ne laissez pas vos émotions *compromettre* votre jugement.
+  Lassen Sie nicht zu, dass Ihre Gefühle Ihr Urteilsvermögen *beeinträchtigen*.
+
+  Cette erreur pourrait *compromettre* toute votre carrière.
+  Dieser Fehler könnte Ihre gesamte Karriere *gefährden*.
+
+  Les témoins ont refusé de se *compromettre* en parlant à la police.
+  Die Zeugen weigerten sich, sich zu *kompromittieren*, indem sie mit der Polizei sprachen.
+
+  Son attitude irresponsable a *compromis* la réussite du projet.
+  Seine unverantwortliche Haltung hat den Erfolg des Projekts *gefährdet*.
+
+  Elle craint que cette relation ne *compromette* son mariage.
+  Sie befürchtet, dass diese Beziehung ihre Ehe *gefährden* könnte.
+
+  Le manque de fonds *compromet* sérieusement l'avenir de l'association.
+  Der Geldmangel *gefährdet* ernsthaft die Zukunft des Vereins.
+
+  Ne *compromettez* pas votre intégrité pour de l'argent facile.
+  *Gefährden* Sie nicht Ihre Integrität für schnelles Geld.
+
+  Cette fuite d'eau risque de *compromettre* la structure du bâtiment.
+  Dieses Wasserleck droht die Struktur des Gebäudes zu *beschädigen*.
+
+  Son refus de coopérer a *compromis* l'enquête policière.
+  Seine Weigerung zu kooperieren hat die polizeilichen Ermittlungen *behindert*.
+
+  Les grèves ont gravement *compromis* la production de l'usine.
+  Die Streiks haben die Produktion der Fabrik ernsthaft *beeinträchtigt*.
+
+  Il ne voulait pas *compromettre* ses principes en acceptant le pot-de-vin.
+  Er wollte seine Prinzipien nicht *gefährden*, indem er das Bestechungsgeld annahm.
+
+  La mauvaise gestion a *compromis* l'avenir financier de l'entreprise.
+  Das schlechte Management hat die finanzielle Zukunft des Unternehmens *gefährdet*.
+
+  Cette rumeur pourrait *compromettre* ses chances d'obtenir le poste.
+  Dieses Gerücht könnte seine Chancen auf die Stelle *zunichte machen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,32 +13,107 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je ne sais pas dessiner. C’est une frustration.
-  Ich kann nicht zeichnen. Das ist frustrierend.
+  Je ne sais pas *dessiner*. C'est une frustration.
+  Ich kann nicht *zeichnen*. Das ist frustrierend.
 
-  Je vais dessiner un portrait.
-  Ich werde ein Porträt zeichnen.
+  L'enfant *dessine* un arbre au crayon.
+  Das Kind *zeichnet* mit dem Bleistift einen Baum.
 
-  J’aime dessiner.
-  Ich zeichne gerne.
+  Elle *dessine* souvent des portraits au fusain.
+  Sie *zeichnet* oft Porträts mit Kohle.
 
-  J'aime dessiner au crayon, c'est une technique qui me permet d'exprimer ma créativité.
-  Ich zeichne gerne mit dem Bleistift, es ist eine Technik, die mir erlaubt, meine Kreativität auszudrücken.
+  L'architecte a *dessiné* les plans de la nouvelle maison.
+  Der Architekt hat die Pläne für das neue Haus *entworfen*.
 
-  Le portrait qu'elle a fait est remarquable, notamment la bouche bien dessinée.
-  Das Porträt, das sie gemalt hat, ist bemerkenswert, vor allem der schön gezeichnete Mund.
+  La styliste *dessine* une nouvelle collection de robes.
+  Die Modedesignerin *entwirft* eine neue Kollektion von Kleidern.
 
-  On voit des maisons se dessiner à l'horizon, au loin.
-  Man sieht Häuser am Horizont in der Ferne.
+  Le paysagiste *dessine* un jardin zen pour son client.
+  Der Landschaftsarchitekt *gestaltet* einen Zen-Garten für seinen Kunden.
 
-  Le champ dessine un damier avec ses rangées de maïs et de tournesols.
-  Das Feld sieht aus wie ein Schachbrett mit seinen Reihen von Mais und Sonnenblumen.
+  Cette robe *dessine* parfaitement sa silhouette.
+  Dieses Kleid *betont* perfekt ihre Silhouette.
 
-  L'avenir de cette entreprise se dessine avec l'arrivée de nouveaux clients.
-  Die Zukunft dieses Unternehmens nimmt Gestalt an mit dem Eintreffen neuer Kunden.
+  Le maquillage *dessine* ses yeux en amande.
+  Das Make-up *unterstreicht* ihre mandelförmigen Augen.
 
-  Un sourire se dessina sur son visage lorsqu'il a appris la bonne nouvelle.
-  Ein Lächeln zeigte sich auf seinem Gesicht, als er die gute Nachricht erfahren hat.
+  La rivière *dessine* une courbe gracieuse dans la vallée.
+  Der Fluss *beschreibt* eine anmutige Kurve im Tal.
+
+  Les montagnes se *dessinent* à l'horizon.
+  Die Berge *zeichnen* sich am Horizont ab.
+
+  Un sourire se *dessina* sur son visage.
+  Ein Lächeln *zeigte* sich auf seinem Gesicht.
+
+  La solution commence à se *dessiner*.
+  Die Lösung beginnt, *Gestalt anzunehmen*.
+
+  "Tu *dessines* comme un pied !" lui dit-elle en riant.
+  "Du *zeichnest* wie ein Kleinkind!", sagte sie lachend zu ihm.
+
+  Il *dessine* depuis son plus jeune âge.
+  Er *zeichnet*, seit er klein war.
+
+  L'artiste *dessine* d'après nature dans le parc.
+  Der Künstler *zeichnet* im Park nach der Natur.
+
+  Elle *dessine* à main levée avec une précision remarquable.
+  Sie *zeichnet* freihändig mit bemerkenswerter Genauigkeit.
+
+  Le tatoueur *dessine* le motif sur la peau avant de le tatouer.
+  Der Tätowierer *zeichnet* das Motiv auf die Haut, bevor er es tätowiert.
+
+  Les nuages *dessinaient* des formes fantastiques dans le ciel.
+  Die Wolken *bildeten* fantastische Formen am Himmel.
+
+  Le contour de ses lèvres est parfaitement *dessiné*.
+  Die Kontur ihrer Lippen ist perfekt *gezeichnet*.
+
+  Les traits de son visage semblent *dessinés* par un artiste.
+  Die Züge seines Gesichts scheinen von einem Künstler *gezeichnet* zu sein.
+
+  Il faut *dessiner* les personnages avant de les animer.
+  Man muss die Figuren *zeichnen*, bevor man sie animiert.
+
+  L'illustrateur *dessine* les vignettes pour la bande dessinée.
+  Der Illustrator *zeichnet* die Bilder für den Comic.
+
+  Le couturier *dessine* ses modèles avant de les coudre.
+  Der Schneider *zeichnet* seine Modelle, bevor er sie näht.
+
+  Les tendances pour la prochaine saison commencent à se *dessiner*.
+  Die Trends für die nächste Saison beginnen sich *abzuzeichnen*.
+
+  Le professeur *dessine* un diagramme au tableau.
+  Der Lehrer *zeichnet* ein Diagramm an die Tafel.
+
+  Les contours du continent se *dessinent* sur la carte.
+  Die Umrisse des Kontinents *zeichnen* sich auf der Karte ab.
+
+  L'ingénieur *dessine* les plans du nouveau pont.
+  Der Ingenieur *zeichnet* die Pläne für die neue Brücke.
+
+  Le graphiste *dessine* le nouveau logo de l'entreprise.
+  Der Grafikdesigner *entwirft* das neue Logo des Unternehmens.
+
+  Les enfants adorent *dessiner* sur les murs.
+  Kinder lieben es, an die Wände zu *malen*.
+
+  Il *dessine* ses rêves dès qu'il se réveille.
+  Er *zeichnet* seine Träume, sobald er aufwacht.
+
+  Le vent *dessinait* des motifs sur le sable.
+  Der Wind *zeichnete* Muster in den Sand.
+
+  Elle *dessine* ses propres patrons de couture.
+  Sie *zeichnet* ihre eigenen Schnittmuster.
+
+  Les lignes du bâtiment se *dessinent* contre le ciel nocturne.
+  Die Linien des Gebäudes *heben* sich vom Nachthimmel ab.
+
+  Le calligraphe *dessine* chaque lettre avec soin.
+  Der Kalligraph *zeichnet* jeden Buchstaben sorgfältig.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
