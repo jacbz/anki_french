@@ -64,9 +64,9 @@ function processText(text, isFrench) {
       }
       text = formattedLines.join("<br>");
     }
-    // replace with German quote marks „...“
+    // replace with German quote marks »...«
     text = text.replaceAll("„", '"').replaceAll("“", '"');
-    text = text.replaceAll(/(?!.*<[^>]* [^>]*>)"([^"]*)"/g, "„$1“");
+    text = text.replace(/"([^"]*?)"(?=(?:[^<]*<(?!\/?[^>]+>))*[^<]*$)/g, "»\u2060$1\u2060«");
   }
 
   // replace *...* with <u>...</u>
