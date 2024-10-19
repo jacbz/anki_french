@@ -13,14 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle ne sait pas qui je suis réellement.
-  Sie weiß nicht, wer ich wirklich bin.
+  Elle ne sait pas qui je suis *réellement*.
+  Sie weiß nicht, wer ich *wirklich* bin.
 
-  Je suis réellement désolé.
-  Ich bin wirklich entschuldigt.
+  Ces faits ont *réellement* eu lieu.
+  Diese Ereignisse haben *tatsächlich* stattgefunden.
 
-  Aimez-vous réellement ça ?
-  Gefällt es Ihnen wirklich?
+  Je ne pense pas qu'il soit *réellement* malade.
+  Ich glaube nicht, dass er *wirklich* krank ist.
+
+  "*Réellement*, tu ne m'as pas reconnu ?"
+  "*Ehrlich*, du hast mich nicht erkannt?"
+
+  Ce conte est *réellement* plaisant à lire.
+  Diese Geschichte ist *wirklich* angenehm zu lesen.
+
+  Es-tu *réellement* prêt à relever ce défi ?
+  Bist du *tatsächlich* bereit, diese Herausforderung anzunehmen?
+
+  Elle est *réellement* la plus compétente pour ce poste.
+  Sie ist *wirklich* die Kompetenteste für diese Position.
+
+  Je me demande s'il m'aime *réellement*.
+  Ich frage mich, ob er mich *wirklich* liebt.
+
+  Cette technologie pourrait *réellement* changer nos vies.
+  Diese Technologie könnte unser Leben *tatsächlich* verändern.
+
+  As-tu *réellement* besoin de tous ces livres ?
+  Brauchst du *wirklich* all diese Bücher?
+
+  Le film était *réellement* différent de ce que j'attendais.
+  Der Film war *tatsächlich* anders, als ich erwartet hatte.
+
+  Nous devrions essayer de voir les gens tels qu'ils sont *réellement*.
+  Wir sollten versuchen, die Menschen so zu sehen, wie sie *wirklich* sind.
+
+  *Réellement*, je ne sais pas quoi faire dans cette situation.
+  *Ehrlich gesagt* weiß ich nicht, was ich in dieser Situation tun soll.
+
+  Ce personnage historique a *réellement* existé.
+  Diese historische Figur hat *tatsächlich* existiert.
+
+  Es-tu *réellement* sûr de vouloir démissionner ?
+  Bist du dir *wirklich* sicher, dass du kündigen möchtest?
+
+  Je n'avais pas *réellement* compris l'importance de cette décision.
+  Ich hatte die Bedeutung dieser Entscheidung nicht *wirklich* verstanden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

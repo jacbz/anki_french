@@ -13,14 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous avons effectivement un système progressif.
-  Wir haben tatsächlich ein progressives System.
+  Nous avons effectivement un système *progressif*.
+  Wir haben in der Tat ein *progressives* System.
 
-  Il est un politicien progressif.
-  Er ist ein fortschrittlicher Politiker.
+  La météo a annoncé une augmentation *progressive* des températures pour la semaine prochaine.
+  Der Wetterbericht kündigte einen *allmählichen* Temperaturanstieg für nächste Woche an.
 
-  Un impôt progressif est un système fiscal où le taux d'imposition augmente à mesure que le revenu augmente.
-  Eine Progressivsteuer ist ein Steuersystem, bei dem der Steuersatz mit steigendem Einkommen steigt.
+  L'apprentissage d'une langue étrangère est un processus *progressif*.
+  Das Erlernen einer Fremdsprache ist ein *schrittweiser* Prozess.
+
+  Mes grands-parents ont besoin de verres *progressifs* pour bien voir.
+  Meine Großeltern brauchen *Gleitsicht*gläser, um gut sehen zu können.
+
+  La *progressive* détérioration de l'environnement nous inquiète tous.
+  Die *fortschreitende* Umweltzerstörung beunruhigt uns alle.
+
+  Les exercices deviennent de plus en plus difficiles - c'est un entraînement *progressif*.
+  Die Übungen werden immer schwieriger - es ist ein *progressives* Training.
+
+  L'enfant montre une amélioration *progressive* dans son comportement.
+  Das Kind zeigt eine *allmähliche* Verbesserung in seinem Verhalten.
+
+  Le remboursement *progressif* du prêt s'étale sur vingt ans.
+  Die *schrittweise* Rückzahlung des Kredits erstreckt sich über zwanzig Jahre.
+
+  Cette maladie provoque une paralysie *progressive* des muscles.
+  Diese Krankheit verursacht eine *fortschreitende* Lähmung der Muskeln.
+
+  L'entreprise a mis en place une automatisation *progressive* de ses services.
+  Das Unternehmen hat eine *schrittweise* Automatisierung seiner Dienste eingeführt.
+
+  La pollution *progressive* de l'océan menace les écosystèmes marins.
+  Die *fortschreitende* Verschmutzung des Ozeans bedroht die Meeresökosysteme.
+
+  Le gouvernement a introduit un impôt *progressif* sur le revenu.
+  Die Regierung hat eine *progressive* Einkommensteuer eingeführt.
+
+  Notre société connaît une transformation *progressive* vers le numérique.
+  Unsere Gesellschaft erfährt eine *allmähliche* Transformation hin zum Digitalen.
+
+  L'adaptation *progressive* au changement climatique est nécessaire.
+  Die *schrittweise* Anpassung an den Klimawandel ist notwendig.
+
+  Les symptômes montrent une aggravation *progressive*.
+  Die Symptome zeigen eine *zunehmende* Verschlechterung.
+
+  Le développement *progressif* des compétences est important dans l'éducation.
+  Die *schrittweise* Entwicklung der Kompetenzen ist wichtig in der Bildung.
+
+  L'intégration *progressive* des nouvelles technologies prend du temps.
+  Die *allmähliche* Integration neuer Technologien braucht Zeit.
+
+  Une augmentation *progressive* des prix est prévue pour l'année prochaine.
+  Eine *schrittweise* Preiserhöhung ist für nächstes Jahr geplant.
+
+  La diminution *progressive* du bruit a amélioré notre qualité de vie.
+  Die *allmähliche* Lärmreduzierung hat unsere Lebensqualität verbessert.
+
+  Son retour *progressif* au travail s'est bien passé.
+  Seine *schrittweise* Rückkehr zur Arbeit verlief gut.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

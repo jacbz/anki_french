@@ -13,41 +13,173 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis retournée en espagne en septembre.
-  Ich bin im September wieder nach Spanien gereist.
+  Je suis retournée *en* Espagne *en* septembre.
+  Ich bin *im* September *nach* Spanien zurückgekehrt.
 
-  Je vais en France.
-  Ich fahre nach Frankreich.
+  Elle habite *en* Corse depuis deux ans.
+  Sie wohnt seit zwei Jahren *auf* Korsika.
 
-  - As-tu un stylo ?<br>- Oui, j'en ai un.
-  Hast du einen Kuli?<br>- Ja, ich habe einen.
+  Nous avons passé une semaine *en* mer.
+  Wir haben eine Woche *auf* See verbracht.
 
-  J'aime aller en ville pour faire du shopping.
-  Ich fahre gerne in die Stadt, um einzukaufen.
+  Elle se disait *en* elle-même qu'il avait raison.
+  Sie dachte *bei* sich, dass er Recht hatte.
 
-  Il est en bonne santé, mais sa femme est en mauvaise santé.
-  Er ist bei guter Gesundheit, aber seine Frau ist bei schlechter Gesundheit.
+  J'aime *en* lui sa générosité.
+  Ich mag *an* ihm seine Großzügigkeit.
 
-  En bon démocrate, je m'incline devant le verdict du jury.
-  Als guter Demokrat gebe ich dem Urteil der Jury nach.
+  Nous allons *en* ville pour faire des courses.
+  Wir fahren *in* die Stadt zum Einkaufen.
 
-  En travaillant beaucoup, tu réussiras à atteindre tes objectifs.
-  Wenn du viel arbeitest, wirst du deine Ziele erreichen.
+  Ils sont partis *en* Iran pour leurs vacances.
+  Sie sind für ihren Urlaub *in* den Iran geflogen.
 
-  Il lui souriait tout en la maudissant intérieurement pour son comportement.
-  Auch wenn er sie innerlich verfluchte, lächelte er sie an, weil er ihr Verhalten verachtete.
+  *En* 2025, nous célébrerons notre anniversaire de mariage.
+  *Im* Jahr 2025 werden wir unseren Hochzeitstag feiern.
 
-  Le vase est tombé par terre et s'est brisé en morceaux.
-  Die Vase fiel auf den Boden und zerbrach in Stücke.
+  Les cerisiers fleurissent *en* avril dans notre région.
+  Die Kirschbäume blühen *im* April in unserer Region.
 
-  Ce pull est en laine et ce fauteuil est en bois.
-  Dieser Pullover ist aus Wolle und dieser Sessel ist aus Holz.
+  Il a réussi à réparer la voiture *en* dix minutes.
+  Es ist ihm gelungen, das Auto *innerhalb von* zehn Minuten zu reparieren.
 
-  J'ai pris le train pour aller à Paris, et je suis retourné en voiture.
-  Ich bin mit dem Zug nach Paris gefahren und mit dem Auto zurückgekommen.
+  *En* semaine, je me lève toujours à 6 heures.
+  *Während der* Woche stehe ich immer um 6 Uhr auf.
 
-  Je coupe le gâteau en six parts égales pour que tout le monde ait sa part.
-  Ich schneide den Kuchen in sechs gleiche Stücke, damit jeder ein Stück bekommt.
+  La situation s'améliore de jour *en* jour.
+  Die Situation verbessert sich von Tag *zu* Tag.
+
+  Elle est *en* bonne santé malgré son âge avancé.
+  Sie ist trotz ihres fortgeschrittenen Alters *bei* guter Gesundheit.
+
+  Ne te mets pas *en* colère pour si peu !
+  Werde nicht *wütend* wegen so einer Kleinigkeit!
+
+  Le directeur est *en* déplacement cette semaine.
+  Der Direktor ist diese Woche *unterwegs*.
+
+  La famille est *en* deuil après le décès de leur grand-mère.
+  Die Familie ist nach dem Tod ihrer Großmutter *in* Trauer.
+
+  "Tu ferais mieux d'écouter *en* silence !" lui a-t-elle dit.
+  "Du tätest besser daran, *schweigend* zuzuhören!" sagte sie zu ihm.
+
+  J'ai fait mes valises *en* vitesse pour ne pas rater mon train.
+  Ich habe meine Koffer *schnell* gepackt, um meinen Zug nicht zu verpassen.
+
+  Ils ont décidé de peindre leur salon *en* blanc.
+  Sie haben beschlossen, ihr Wohnzimmer *weiß* zu streichen.
+
+  *En* bon citoyen, il participe à toutes les réunions municipales.
+  *Als* guter Bürger nimmt er an allen Gemeinderatssitzungen teil.
+
+  *En* sortant du cinéma, nous avons croisé nos voisins.
+  *Beim* Verlassen des Kinos sind wir unseren Nachbarn begegnet.
+
+  *En* travaillant dur, tu atteindras tes objectifs.
+  *Wenn* du hart arbeitest, wirst du deine Ziele erreichen.
+
+  Il souriait tout *en* sachant qu'elle lui mentait.
+  Er lächelte, *obwohl* er wusste, dass sie ihn anlog.
+
+  Les enfants sont rentrés *en* courant de l'école.
+  Die Kinder sind *im* Laufschritt von der Schule nach Hause gekommen.
+
+  Le vase est tombé et s'est brisé *en* mille morceaux.
+  Die Vase ist heruntergefallen und *in* tausend Stücke zerbrochen.
+
+  J'ai acheté du riz *en* vrac au marché.
+  Ich habe auf dem Markt *losen* Reis gekauft.
+
+  Cette sculpture *en* forme de cœur est magnifique.
+  Diese Skulptur *in* Herzform ist wunderschön.
+
+  As-tu ce pull *en* plus petit ?
+  Hast du diesen Pullover *in* einer kleineren Größe?
+
+  La pièce de théâtre est *en* trois actes.
+  Das Theaterstück ist *in* drei Akten.
+
+  Cette symphonie est *en* si mineur.
+  Diese Symphonie ist *in* h-Moll.
+
+  Les soldats défilent *en* uniforme dans la rue principale.
+  Die Soldaten marschieren *in* Uniform durch die Hauptstraße.
+
+  Ce pull est fait *en* laine mérinos.
+  Dieser Pullover ist *aus* Merinowolle gemacht.
+
+  Nous irons à Paris *en* train.
+  Wir werden *mit* dem Zug nach Paris fahren.
+
+  "Allons faire une balade *en* vélo !" a-t-il proposé.
+  "Lass uns eine Fahrt *mit* dem Rad machen!" schlug er vor.
+
+  Découpez la tarte *en* six parts égales.
+  Schneiden Sie den Kuchen *in* sechs gleiche Stücke.
+
+  Elle a réussi à terminer son projet *en* une seule fois.
+  Es ist ihr gelungen, ihr Projekt *in* einem Zug fertigzustellen.
+
+  Mon fils excelle *en* mathématiques.
+  Mein Sohn ist hervorragend *in* Mathematik.
+
+  Elle est experte *en* marketing digital.
+  Sie ist Expertin *im* Bereich digitales Marketing.
+
+  Il s'est spécialisé *en* chirurgie cardiaque.
+  Er hat sich *auf* Herzchirurgie spezialisiert.
+
+  Marie est très forte *en* langues étrangères.
+  Marie ist sehr stark *in* Fremdsprachen.
+
+  Je crois *en* toi et en tes capacités.
+  Ich glaube *an* dich und deine Fähigkeiten.
+
+  Nous avons confiance *en* notre équipe pour gagner le match.
+  Wir haben Vertrauen *zu* unserem Team, das Spiel zu gewinnen.
+
+  Il parle toujours *en* son nom propre, jamais au nom du groupe.
+  Er spricht immer *in* seinem eigenen Namen, nie im Namen der Gruppe.
+
+  As-tu des stylos ? Oui, j'*en* ai plusieurs.
+  Hast du Kugelschreiber? Ja, ich habe mehrere *davon*.
+
+  J'*en* connais qui ne seraient pas d'accord avec cette décision.
+  Ich kenne *welche*, die mit dieser Entscheidung nicht einverstanden wären.
+
+  Tu reviens de la bibliothèque ? Oui, j'*en* viens.
+  Kommst du gerade aus der Bibliothek? Ja, ich komme *von dort*.
+
+  On *en* parle depuis des semaines dans les médias.
+  Man spricht seit Wochen *darüber* in den Medien.
+
+  J'*en* ai vraiment besoin pour finir mon travail.
+  Ich brauche *es* wirklich, um meine Arbeit zu beenden.
+
+  Je m'*en* souviens comme si c'était hier.
+  Ich erinnere mich *daran*, als wäre es gestern gewesen.
+
+  Elle *en* est fière et ne s'en cache pas.
+  Sie ist stolz *darauf* und macht kein Geheimnis daraus.
+
+  J'*en* suis bien conscient, mais je ne peux rien y faire.
+  Ich bin mir dessen durchaus bewusst, aber ich kann nichts dagegen tun.
+
+  Il *en* est tellement stressé qu'il n'arrive plus à dormir.
+  Er ist *deshalb* so gestresst, dass er nicht mehr schlafen kann.
+
+  Elle *en* est malade d'inquiétude.
+  Sie ist *deshalb* krank vor Sorge.
+
+  Des problèmes, j'*en* ai plus que je ne peux en gérer !
+  Probleme, ich habe mehr *davon*, als ich bewältigen kann!
+
+  Vous *en* avez, de la patience avec ces enfants !
+  Sie haben ja wirklich Geduld mit diesen Kindern!
+
+  Ne jette pas ces fleurs, j'aimerais *en* garder quelques pétales.
+  Wirf diese Blumen nicht weg, ich möchte einige *ihrer* Blütenblätter aufheben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

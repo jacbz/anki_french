@@ -13,32 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Volkswagen supprime un quart de ses effectifs aux États-Unis.
-  Volkswagen streicht ein Viertel der Belegschaft in den Vereinigten Staaten.
+  Volkswagen supprime un quart de ses *effectifs* aux États-Unis.
+  Volkswagen streicht ein Viertel seiner *Belegschaft* in den USA.
 
-  L’effectif de l’entreprise a augmenté cette année.
-  Die Belegschaft des Unternehmens ist in diesem Jahr gewachsen.
+  L'*effectif* de la classe a diminué depuis le début de l'année.
+  Die *Klassenstärke* hat sich seit Anfang des Jahres verringert.
 
-  Le nombre d'employés de base de l'entreprise est de 50 personnes.
-  Die Rumpfbelegschaft des Unternehmens beträgt 50 Personen.
+  Notre entreprise a besoin d'une aide *effective* pour surmonter cette crise.
+  Unser Unternehmen braucht *wirksame* Hilfe, um diese Krise zu überwinden.
 
-  Le capital effectif de l'entreprise a augmenté de 10% cette année.
-  Das Aktivkapital des Unternehmens ist dieses Jahr um 10% gestiegen.
+  Le nouveau traitement s'est révélé *effectif* contre cette maladie rare.
+  Die neue Behandlung hat sich als *wirksam* gegen diese seltene Krankheit erwiesen.
 
-  La nouvelle loi sera effective à partir du 1er janvier prochain.
-  Das neue Gesetz wird am 1. Januar kommenden Jahres wirksam.
+  L'*effectif* animalier du zoo a augmenté avec la naissance de deux pandas.
+  Der *Tierbestand* des Zoos hat sich mit der Geburt von zwei Pandas erhöht.
 
-  L'effectif de la classe de troisième est de 25 élèves.
-  Die Klassenstärke der dritten Klasse beträgt 25 Schüler.
+  La loi sera *effective* à partir du 1er janvier prochain.
+  Das Gesetz wird ab dem 1. Januar nächsten Jahres *wirksam*.
 
-  Le professeur a vérifié l'effectif de la classe avant de commencer le cours.
-  Der Lehrer hat überprüft, ob die Klasse vollständig ist, bevor er mit dem Unterricht begann.
+  Le capital *effectif* de l'entreprise est inférieur à ce qui était prévu.
+  Das *Aktivkapital* des Unternehmens ist niedriger als erwartet.
 
-  L'effectif animalier de la ferme a diminué après la vente des vaches.
-  Der Tierbestand des Hofes ist nach dem Verkauf der Kühe gesunken.
+  La puissance *effective* du moteur est de 150 chevaux.
+  Die *Nutzleistung* des Motors beträgt 150 PS.
 
-  La puissance effective du moteur est de 100 chevaux.
-  Die Nutzleistung des Motors beträgt 100 PS.
+  Les données *effectives* du stock ne correspondent pas à l'inventaire théorique.
+  Die *aktuellen* Bestandsdaten stimmen nicht mit dem theoretischen Inventar überein.
+
+  L'armistice sera *effectif* dès minuit ce soir.
+  Der Waffenstillstand wird ab Mitternacht heute Abend *tatsächlich* in Kraft treten.
+
+  Sa participation *effective* au projet a grandement contribué à son succès.
+  Seine *tatsächliche* Beteiligung am Projekt hat wesentlich zu dessen Erfolg beigetragen.
+
+  L'*effectif* du bataillon a été réduit de moitié après la dernière bataille.
+  Die *Stärke* des Bataillons wurde nach der letzten Schlacht halbiert.
+
+  Les *effectifs* de l'entreprise ont augmenté de 10% cette année.
+  Das *Personal* des Unternehmens ist in diesem Jahr um 10% gewachsen.
+
+  Le directeur vérifie régulièrement l'*effectif* de chaque classe.
+  Der Direktor überprüft regelmäßig, *ob die Klassen vollständig sind*.
+
+  La méthode s'est avérée *effective* pour résoudre ce problème mathématique complexe.
+  Die Methode hat sich als *effektiv* erwiesen, um dieses komplexe mathematische Problem zu lösen.
+
+  L'autorité *effective* du manager a été remise en question par ses employés.
+  Die *tatsächliche* Autorität des Managers wurde von seinen Mitarbeitern in Frage gestellt.
+
+  Les valeurs *effectives* de l'entreprise ont été évaluées par des experts indépendants.
+  Die *tatsächlichen* Werte des Unternehmens wurden von unabhängigen Experten bewertet.
+
+  L'armée compte désormais quinze mille hommes *effectifs*.
+  Die Armee zählt nun *tatsächlich* fünfzehntausend Mann.
+
+  Le nouveau logiciel de gestion des *effectifs* a simplifié le travail des ressources humaines.
+  Die neue Software zur Verwaltung der *Belegschaft* hat die Arbeit der Personalabteilung vereinfacht.
+
+  L'*effectif* de base de l'usine a été maintenu malgré la crise économique.
+  Die *Rumpfbelegschaft* der Fabrik wurde trotz der Wirtschaftskrise beibehalten.
+
+  Son amour *effectif* pour l'environnement se traduit par des actions concrètes.
+  Seine *tatsächliche* Liebe zur Umwelt zeigt sich in konkreten Handlungen.
+
+  La réduction des *effectifs* a entraîné une baisse de la productivité.
+  Der *Personalabbau* hat zu einem Rückgang der Produktivität geführt.
+
+  Les belligérants ont dû aligner des *effectifs* comparables pour maintenir l'équilibre des forces.
+  Die Kriegsparteien mussten vergleichbare *Truppenstärken* aufstellen, um das Kräftegleichgewicht aufrechtzuerhalten.
+
+  Le gouvernement a promis une aide *effective* aux régions touchées par la catastrophe naturelle.
+  Die Regierung hat den von der Naturkatastrophe betroffenen Regionen *wirksame* Hilfe zugesagt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

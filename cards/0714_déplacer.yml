@@ -13,35 +13,131 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous nous déplaçons librement entre les deux pays.
-  Wir bewegen uns frei zwischen den beiden Ländern.
+  Nous nous *déplaçons* librement entre les deux pays.
+  Wir *bewegen* uns frei zwischen den beiden Ländern.
 
-  Je dois déplacer cette chaise.
-  Ich muss diesen Stuhl verschieben.
+  Il faut *déplacer* ce meuble pour faire de la place.
+  Wir müssen dieses Möbelstück *umstellen*, um Platz zu schaffen.
 
-  Nous avons décidé de déplacer la réunion à dimanche prochain.
-  Wir haben beschlossen, das Treffen auf nächsten Sonntag zu verlegen.
+  "J'ai dû *déplacer* la souris vers la gauche pour cliquer sur l'icône."
+  "Ich musste die Maus nach links *schieben*, um auf das Symbol zu klicken."
 
-  Déplace la souris vers la gauche pour accéder au menu principal.
-  Schiebe die Maus nach links, um zum Hauptmenü zu gelangen.
+  Le médecin a accidentellement *déplacé* une vertèbre du patient pendant l'examen.
+  Der Arzt hat dem Patienten versehentlich einen Wirbel *ausgerenkt* während der Untersuchung.
 
-  Le médecin a déplacé une vertèbre à Paul lors de l'accident.
-  Der Arzt hat Paul bei dem Unfall eine Wirbel ausgerenkt.
+  L'entreprise a *déplacé* plusieurs employés dans une nouvelle succursale.
+  Das Unternehmen hat mehrere Angestellte in eine neue Filiale *versetzt*.
 
-  Un bateau déplace de l'air lorsqu'il navigue sur l'eau.
-  Ein Schiff verdrängt Luft, wenn es auf dem Wasser fährt.
+  Le gouvernement a dû *déplacer* toute une population à cause des inondations.
+  Die Regierung musste wegen der Überschwemmungen eine ganze Bevölkerung *umsiedeln*.
 
-  Il a essayé de déplacer la question de la pollution en la minimisant.
-  Er versuchte, der Frage der Umweltverschmutzung auszuweichen, indem er sie herunterspielte.
+  Ce nouveau ventilateur *déplace* beaucoup d'air, rafraîchissant rapidement la pièce.
+  Dieser neue Ventilator *verdrängt* viel Luft und kühlt den Raum schnell ab.
 
-  Elle s'est déplacé une articulation du poignet en tombant.
-  Sie hat sich beim Sturz ein Handgelenk verrenkt.
+  Il essaie toujours de *déplacer* la question quand on aborde des sujets sensibles.
+  Er versucht immer, der Frage *auszuweichen*, wenn heikle Themen angesprochen werden.
 
-  Depuis son accident, il se déplace en chaise roulante.
-  Seit seinem Unfall bewegt er sich im Rollstuhl fort.
+  Les personnes âgées ont parfois du mal à *se déplacer* sans aide.
+  Ältere Menschen haben manchmal Schwierigkeiten, sich ohne Hilfe *fortzubewegen*.
 
-  Nous allons nous déplacer en avion pour les vacances d'été.
-  Wir werden im Sommer in den Urlaub fliegen.
+  Les nuages *se déplacent* lentement dans le ciel d'été.
+  Die Wolken *ziehen* langsam am Sommerhimmel entlang.
+
+  "Il préfère *se déplacer* en chaise roulante plutôt qu'avec des béquilles."
+  "Er *bewegt* sich lieber im Rollstuhl *fort* als mit Krücken."
+
+  Pouvez-vous *vous déplacer* un peu pour que je puisse m'asseoir ?
+  Können Sie bitte etwas *zur Seite rücken*, damit ich mich setzen kann?
+
+  Nous devons *nous déplacer* en avion pour assister à la conférence.
+  Wir müssen *fliegen*, um an der Konferenz teilzunehmen.
+
+  Elle s'est *déplacé* le poignet en faisant du sport.
+  Sie hat sich beim Sport das Handgelenk *verrenkt*.
+
+  J'ai dû *déplacer* le vase pour qu'il ne tombe pas.
+  Ich musste die Vase *umstellen*, damit sie nicht herunterfällt.
+
+  L'ouvreuse a *déplacé* un spectateur qui était assis à la mauvaise place.
+  Die Platzanweiserin hat einen Zuschauer *umgesetzt*, der auf dem falschen Platz saß.
+
+  Depuis son opération, il a du mal à *déplacer* sa jambe droite.
+  Seit seiner Operation fällt es ihm schwer, sein rechtes Bein zu *bewegen*.
+
+  Nous avons dû *déplacer* le rendez-vous à la semaine prochaine.
+  Wir mussten den Termin auf nächste Woche *verschieben*.
+
+  "Pour le moindre rhume, elle *déplace* le médecin."
+  "Wegen der kleinsten Erkältung lässt sie den Arzt *kommen*."
+
+  Le fonctionnaire a été *déplacé* dans un autre service après l'incident.
+  Der Beamte wurde nach dem Vorfall in eine andere Abteilung *versetzt*.
+
+  Tu as tort, ne cherche pas à *déplacer* la discussion !
+  Du hast Unrecht, versuche nicht, das Gespräch in eine andere Richtung zu *lenken*!
+
+  Cet opéra va *déplacer* le Tout-Paris.
+  Diese Oper wird die ganze Pariser Gesellschaft *anlocken*.
+
+  Le nouveau paquebot *déplace* plus de 200 000 tonnes d'eau.
+  Das neue Kreuzfahrtschiff hat eine *Wasserverdrängung* von über 200.000 Tonnen.
+
+  "Ce type *déplace* vraiment de l'air quand il entre dans une pièce !"
+  "Dieser Typ *macht* wirklich *viel Wind* um sich, wenn er einen Raum betritt!"
+
+  Les sondages montrent que le candidat a réussi à *déplacer* des voix en sa faveur.
+  Die Umfragen zeigen, dass es dem Kandidaten gelungen ist, Stimmen zu seinen Gunsten zu *verlagern*.
+
+  Sa remarque *déplacée* a créé un malaise dans la salle.
+  Seine *unangebrachte* Bemerkung hat für Unbehagen im Saal gesorgt.
+
+  Il se sentait *déplacé* au milieu de tous ces intellectuels.
+  Er fühlte sich *fehl am Platz* inmitten all dieser Intellektuellen.
+
+  Les personnes *déplacées* par la guerre ont besoin d'aide humanitaire.
+  Die durch den Krieg *vertriebenen* Menschen benötigen humanitäre Hilfe.
+
+  Un spectateur s'est *déplacé* pour laisser passer une dame âgée.
+  Ein Zuschauer ist *zur Seite gerückt*, um eine ältere Dame vorbeizulassen.
+
+  Peu de gens *se déplaceraient* pour voir ce film médiocre.
+  Nur wenige Leute würden sich *auf den Weg machen*, um diesen mittelmäßigen Film zu sehen.
+
+  Comment *se déplaçait*-on du temps des Romains ?
+  Wie *reiste* man zur Zeit der Römer?
+
+  Ce médecin *se déplace* en cas d'urgence, même la nuit.
+  Dieser Arzt *macht Hausbesuche* in Notfällen, sogar nachts.
+
+  Il faut *déplacer* cette armoire pour repeindre le mur.
+  Wir müssen diesen Schrank *verrücken*, um die Wand neu zu streichen.
+
+  Les glaciers *se déplacent* lentement au fil des siècles.
+  Gletscher *bewegen* sich im Laufe der Jahrhunderte langsam *fort*.
+
+  "J'ai *déplacé* ton livre, il est maintenant sur l'étagère du haut."
+  "Ich habe dein Buch *woanders hingelegt*, es ist jetzt auf dem oberen Regal."
+
+  Le tremblement de terre a *déplacé* des villages entiers.
+  Das Erdbeben hat ganze Dörfer *verschoben*.
+
+  Les oiseaux migrateurs *se déplacent* sur de longues distances chaque année.
+  Zugvögel *legen* jedes Jahr weite Strecken *zurück*.
+
+  Elle a *déplacé* son chat qui dormait sur son clavier d'ordinateur.
+  Sie hat ihre Katze *weggesetzt*, die auf ihrer Computertastatur schlief.
+
+  "Ne *déplacez* pas ces documents, j'en ai encore besoin !"
+  "*Legen* Sie diese Dokumente nicht *woanders hin*, ich brauche sie noch!"
+
+  Les tectoniciens étudient comment les continents *se déplacent*.
+  Tektoniker untersuchen, wie sich die Kontinente *verschieben*.
+
+  Le parc d'attractions *déplace* des foules chaque week-end.
+  Der Freizeitpark *zieht* jedes Wochenende Menschenmassen *an*.
+
+  "Pour *se déplacer* en ville, il préfère le vélo à la voiture."
+  "Um sich in der Stadt *fortzubewegen*, bevorzugt er das Fahrrad gegenüber dem Auto."
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

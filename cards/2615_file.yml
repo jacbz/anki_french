@@ -13,29 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les fichiers seront placés dans la file d’attente.
-  Die Dateien werden in die Warteschlange gestellt.
+  Les fichiers seront placés dans la *file* d'attente.
+  Die Dateien werden in die *Warteschlange* eingereiht.
 
-  Il y a un long file devant le cinéma.
-  Vor dem Kino gibt es eine lange Schlange.
+  Il y a une longue *file* devant la billetterie du musée.
+  Vor der Museumskasse steht eine lange *Schlange*.
 
-  Les enfants se sont mis en file pour monter dans le bus.
-  Die Kinder haben sich in einer Reihe aufgestellt, um in den Bus einzusteigen.
+  La voiture est garée en double *file* devant le magasin.
+  Das Auto steht in zweiter *Reihe* vor dem Laden.
 
-  Les touristes sont entrés dans le musée en file indienne.
-  Die Touristen sind im Gänsemarsch in das Museum gegangen.
+  Les enfants marchent en *file* indienne dans le couloir.
+  Die Kinder laufen im *Gänsemarsch* durch den Flur.
 
-  Nous nous sommes mis à la file pour acheter des billets.
-  Wir haben uns angestellt, um Tickets zu kaufen.
+  Cette entreprise est le chef de *file* dans son secteur.
+  Dieses Unternehmen ist der *Vorreiter* in seiner Branche.
 
-  Il a pris la file de gauche pour éviter les embouteillages.
-  Er hat sich links eingeordnet, um den Stau zu umgehen.
+  Les voitures roulent sur trois *files* sur l'autoroute.
+  Die Autos fahren auf drei *Spuren* auf der Autobahn.
 
-  La file de voitures s'étendait sur plusieurs kilomètres.
-  Die Fahrzeugkolonne erstreckte sich über mehrere Kilometer.
+  Une *file* de maisons blanches longe la plage.
+  Eine *Reihe* weißer Häuser säumt den Strand.
 
-  Elle a chanté plusieurs chansons à la file, sans jamais s'arrêter.
-  Sie hat ein Lied nach dem anderen gesungen, ohne jemals anzuhalten.
+  Veuillez vous mettre dans la *file* de droite pour sortir.
+  Bitte ordnen Sie sich auf der rechten *Spur* zum Ausfahren ein.
+
+  Les étudiants se sont mis en *file* pour entrer dans l'amphithéâtre.
+  Die Studenten haben sich in einer *Reihe* aufgestellt, um in den Hörsaal zu gehen.
+
+  Une longue *file* de fourmis traverse le jardin.
+  Eine lange *Reihe* Ameisen durchquert den Garten.
+
+  Il a bu trois cafés à la *file*.
+  Er hat drei Kaffees *hintereinander* getrunken.
+
+  La *file* d'attente avance très lentement aujourd'hui.
+  Die *Warteschlange* bewegt sich heute sehr langsam.
+
+  Les manifestants forment une *file* qui s'étend sur plusieurs kilomètres.
+  Die Demonstranten bilden eine *Reihe*, die sich über mehrere Kilometer erstreckt.
+
+  Ne coupez pas la *file*, s'il vous plaît.
+  Bitte drängeln Sie sich nicht in der *Schlange* vor.
+
+  Une *file* de spectateurs attend devant le théâtre depuis ce matin.
+  Eine *Schlange* von Zuschauern wartet seit heute Morgen vor dem Theater.
+
+  Je préfère prendre la *file* de gauche, il y a moins de circulation.
+  Ich fahre lieber auf der linken *Spur*, da ist weniger Verkehr.
+
+  Les oiseaux migrateurs volent en *file*.
+  Die Zugvögel fliegen in *Formation*.
+
+  Une longue *file* de camions est bloquée à la frontière.
+  Eine lange *Kolonne* von Lastwagen steckt an der Grenze fest.
+
+  Les clients font la *file* devant le nouveau restaurant.
+  Die Kunden stehen vor dem neuen Restaurant *Schlange*.
+
+  Le policier demande aux voitures de serrer la *file*.
+  Der Polizist fordert die Autos auf, die *Reihe* enger zu machen.
+
+  Les élèves se rangent en *file* dans la cour de récréation.
+  Die Schüler stellen sich auf dem Pausenhof in *Reih und Glied* auf.
+
+  Une *file* de panneaux publicitaires borde la route.
+  Eine *Reihe* von Werbetafeln säumt die Straße.
+
+  "Regardez cette *file* interminable !"
+  "Schaut euch diese endlose *Schlange* an!"
+
+  Les taxis attendent en *file* devant la gare.
+  Die Taxis warten in einer *Reihe* vor dem Bahnhof.
+
+  Il faut respecter la *file* d'attente.
+  Man muss die *Warteschlange* respektieren.
+
+  La *file* de voitures s'étend jusqu'au prochain village.
+  Die Auto*schlange* reicht bis zum nächsten Dorf.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

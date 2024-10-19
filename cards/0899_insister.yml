@@ -13,29 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle insistait pour m’accompagner, je refusai.
-  Sie bestand darauf, mich zu begleiten, und ich lehnte ab.
+  Elle *insistait* pour m'accompagner, je refusai.
+  Sie *bestand darauf*, mich zu begleiten, aber ich lehnte ab.
 
-  Il a insisté pour que je vienne.
-  Er hat darauf beharrt, dass ich komme.
+  Le professeur *insiste* sur l'importance de la pratique régulière.
+  Der Lehrer *betont* die Wichtigkeit regelmäßigen Übens.
 
-  J’insiste sur cela.
-  Ich betone dies.
+  Malgré son refus initial, Pierre a continué à *insister*.
+  Trotz seiner anfänglichen Ablehnung *beharrte* Pierre weiter darauf.
 
-  Il est inutile d'insister, elle ne changera pas d'avis.
-  Gib's auf, sie wird ihre Meinung nicht ändern.
+  "*N'insistez pas*, s'il vous plaît, ma décision est prise."
+  "Bitte *drängen Sie nicht weiter*, meine Entscheidung steht fest."
 
-  Il a accepté sans insister.
-  Er hat ohne besonderen Nachdruck zugestimmt.
+  Les parents *insistent* pour que leurs enfants mangent des légumes.
+  Die Eltern *bestehen darauf*, dass ihre Kinder Gemüse essen.
 
-  Il a insisté sur la nécessité d'agir rapidement.
-  Er hat die Notwendigkeit, schnell zu handeln, betont.
+  Je dois *insister* sur le fait que cette information est confidentielle.
+  Ich muss *nachdrücklich betonen*, dass diese Information vertraulich ist.
 
-  J'ai insisté pour qu'il vienne avec moi, mais il a refusé.
-  Ich habe darauf bestanden, dass er mit mir kommt, aber er hat abgelehnt.
+  Elle a *insisté* pour payer l'addition, alors j'ai accepté.
+  Sie *bestand darauf*, die Rechnung zu bezahlen, also habe ich es akzeptiert.
 
-  Je n'ai pas insisté pour savoir où il était allé.
-  Ich habe nicht weiter darauf bestanden, wohin er gegangen war.
+  Le médecin *insiste* sur l'importance d'une alimentation équilibrée.
+  Der Arzt *legt Nachdruck* auf die Bedeutung einer ausgewogenen Ernährung.
+
+  Pourquoi *insistes*-tu tant pour venir avec nous ?
+  Warum *bestehst* du so sehr darauf, mit uns zu kommen?
+
+  Il faut *insister* sur ce point lors de la prochaine réunion.
+  Wir müssen bei der nächsten Sitzung auf diesen Punkt *beharren*.
+
+  Les syndicats *insistent* pour obtenir de meilleures conditions de travail.
+  Die Gewerkschaften *drängen* auf bessere Arbeitsbedingungen.
+
+  J'ai dû *insister* plusieurs fois avant d'obtenir un rendez-vous.
+  Ich musste mehrmals *nachhaken*, bevor ich einen Termin bekam.
+
+  Le directeur *insiste* pour que le rapport soit remis avant vendredi.
+  Der Direktor *besteht darauf*, dass der Bericht vor Freitag eingereicht wird.
+
+  Malgré mes explications, il continue à *insister*.
+  Trotz meiner Erklärungen *gibt er nicht nach*.
+
+  Elle *insiste* toujours sur la ponctualité lors des réunions.
+  Sie *legt* bei Besprechungen immer *Wert* auf Pünktlichkeit.
+
+  *N'insistez pas*, je ne changerai pas d'avis sur cette question.
+  *Drängen Sie nicht weiter*, ich werde meine Meinung zu dieser Frage nicht ändern.
+
+  Les chercheurs *insistent* sur la nécessité de poursuivre les études.
+  Die Forscher *betonen* die Notwendigkeit, die Studien fortzusetzen.
+
+  Il a *insisté* pour me raccompagner chez moi après la fête.
+  Er *bestand darauf*, mich nach der Party nach Hause zu bringen.
+
+  Nous devons *insister* sur l'importance de la sécurité au travail.
+  Wir müssen die Bedeutung der Arbeitssicherheit *hervorheben*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

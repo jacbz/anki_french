@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce genre de choses sort systématiquement.
-  Solche Dinge kommen systematisch heraus.
+  Ce genre de choses sort *systématiquement*.
+  Diese Art von Dingen kommt *systematisch* vor.
 
-  Il vérifie systématiquement toutes les portes avant de partir.
-  Er überprüft systematisch alle Türen, bevor er geht.
+  Il refuse *systématiquement* toutes nos propositions.
+  Er lehnt *kategorisch* alle unsere Vorschläge ab.
+
+  Les données ont été *systématiquement* collectées et analysées.
+  Die Daten wurden *systematisch* gesammelt und analysiert.
+
+  Elle vérifie *systématiquement* son travail avant de le soumettre.
+  Sie überprüft ihre Arbeit *systematisch*, bevor sie sie einreicht.
+
+  Les faits ont été *systématiquement* groupés par catégorie.
+  Die Fakten wurden *systematisch* nach Kategorien gruppiert.
+
+  Le gouvernement s'abstient *systématiquement* de commenter cette affaire.
+  Die Regierung enthält sich *konsequent* jeglichen Kommentars zu dieser Angelegenheit.
+
+  Cet ouvrage traite *systématiquement* de l'histoire de l'art moderne.
+  Dieses Werk behandelt die Geschichte der modernen Kunst *systematisch*.
+
+  Les termes de la question ont été *systématiquement* repris dans la conclusion.
+  Die Begriffe der Fragestellung wurden in der Schlussfolgerung *systematisch* wieder aufgegriffen.
+
+  Les adolescents ont tendance à contester *systématiquement* les valeurs établies.
+  Jugendliche neigen dazu, etablierte Werte *systematisch* in Frage zu stellen.
+
+  Dans ce pays, les nouveau-nés sont *systématiquement* vaccinés contre la rougeole.
+  In diesem Land werden Neugeborene *systematisch* gegen Masern geimpft.
+
+  Elle arrive *systématiquement* en retard à nos rendez-vous.
+  Sie kommt *systematisch* zu spät zu unseren Verabredungen.
+
+  Le logiciel met *systématiquement* à jour la base de données chaque nuit.
+  Die Software aktualisiert die Datenbank jede Nacht *systematisch*.
+
+  Notre équipe vérifie *systématiquement* la qualité de chaque produit.
+  Unser Team überprüft *systematisch* die Qualität jedes Produkts.
+
+  Il faut aborder *systématiquement* chaque problème pour trouver une solution efficace.
+  Man muss jedes Problem *systematisch* angehen, um eine effektive Lösung zu finden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

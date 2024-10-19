@@ -13,29 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le feu a démarré dans l’escalier d’un restaurant.
-  Das Feuer brach im Treppenhaus eines Restaurants aus.
+  Le feu a *démarré* dans l'escalier d'un restaurant.
+  Das Feuer *brach* im Treppenhaus eines Restaurants *aus*.
 
-  Je vais démarrer la voiture.
-  Ich werde das Auto starten.
+  La voiture ne veut pas *démarrer* ce matin.
+  Das Auto will heute Morgen nicht *anspringen*.
 
-  Je n'ai pas réussi à démarrer ma voiture ce matin.
-  Mein Auto ist heute Morgen nicht angesprungen.
+  "*Démarrons* cette réunion, nous avons beaucoup à discuter."
+  "Lasst uns dieses Meeting *beginnen*, wir haben viel zu besprechen."
 
-  Ce matin, j'ai dû démarrer ma voiture en poussant, car elle n'a pas démarré.
-  Heute Morgen musste ich mein Auto anschieben, weil es nicht angesprungen ist.
+  Le moteur *démarra* au quart de tour.
+  Der Motor *sprang* auf Anhieb *an*.
 
-  Ma voiture n'a pas démarré bien ce matin.
-  Mein Auto ist heute Morgen schlecht angesprungen.
+  Il faut *démarrer* l'ordinateur avant d'installer le logiciel.
+  Man muss den Computer *hochfahren*, bevor man die Software installiert.
 
-  J'ai fait démarrer la voiture en poussant.
-  Ich habe das Auto angeschoben.
+  La fusée *démarrera* dans dix minutes.
+  Die Rakete wird in zehn Minuten *starten*.
 
-  Il a fait démarrer l'ordinateur pour commencer à travailler.
-  Er hat den Computer hochgefahren, um mit der Arbeit zu beginnen.
+  "Je n'arrive pas à *démarrer* mon projet, je manque d'inspiration."
+  "Ich kann mein Projekt nicht *in Gang bringen*, mir fehlt die Inspiration."
 
-  Elle a démarré bien en maths cette année.
-  Sie hat einen guten Start in Mathe dieses Jahr gehabt.
+  L'économie commence enfin à *démarrer* après la crise.
+  Die Wirtschaft *kommt* nach der Krise endlich wieder *in Schwung*.
+
+  Le sprinter *démarra* en trombe dès le coup de pistolet.
+  Der Sprinter *spurtete* beim Startschuss sofort los.
+
+  La machine *démarre* lentement le matin.
+  Die Maschine *läuft* morgens langsam *an*.
+
+  "*Démarrons* notre voyage tôt pour éviter les embouteillages."
+  "Lasst uns unsere Reise früh *beginnen*, um Staus zu vermeiden."
+
+  Le film a mal *démarré* au box-office.
+  Der Film ist an der Kinokasse schlecht *angelaufen*.
+
+  Il faut *démarrer* les travaux avant l'hiver.
+  Wir müssen mit den Arbeiten *loslegen*, bevor der Winter kommt.
+
+  Le bateau *démarrera* à l'aube pour profiter de la marée.
+  Das Boot wird bei Tagesanbruch *ablegen*, um die Flut zu nutzen.
+
+  "Je n'arrive pas à *démarrer* ma journée sans café."
+  "Ich kann meinen Tag nicht *in Gang bringen* ohne Kaffee."
+
+  L'entreprise a bien *démarré* l'année avec de nouveaux contrats.
+  Das Unternehmen hat das Jahr mit neuen Verträgen gut *begonnen*.
+
+  "*Démarre* la voiture pendant que je ferme le garage."
+  "*Lass* das Auto *an*, während ich die Garage schließe."
+
+  La conversation a eu du mal à *démarrer* entre eux.
+  Das Gespräch *kam* zwischen ihnen nur schwer *in Gang*.
+
+  Le coureur *démarra* en tête du peloton.
+  Der Läufer *startete* an der Spitze des Feldes.
+
+  "*Démarrons* ce nouveau chapitre de notre vie ensemble."
+  "Lasst uns dieses neue Kapitel unseres Lebens gemeinsam *beginnen*."
+
+  Le train *démarra* à l'heure prévue.
+  Der Zug *fuhr* pünktlich *ab*.
+
+  "Il faut *démarrer* le générateur en cas de coupure d'électricité."
+  "Bei einem Stromausfall muss man den Generator *anwerfen*."
+
+  La campagne publicitaire *démarrera* le mois prochain.
+  Die Werbekampagne wird nächsten Monat *starten*.
+
+  "Je n'arrive pas à *démarrer* sur ce nouveau régime."
+  "Ich schaffe es nicht, mit dieser neuen Diät *anzufangen*."
+
+  Le pilote *démarra* les moteurs de l'avion.
+  Der Pilot *ließ* die Motoren des Flugzeugs *an*.
+
+  La saison touristique *démarre* lentement cette année.
+  Die Tourismussaison *läuft* dieses Jahr langsam *an*.
+
+  "*Démarrons* la fête, les invités sont tous arrivés!"
+  "Lasst uns die Party *starten*, alle Gäste sind da!"
+
+  L'exposition *démarrera* la semaine prochaine.
+  Die Ausstellung wird nächste Woche *eröffnet*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,35 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous serons bons amis malgré tout.
-  Wir werden trotz allem gute Freunde sein.
+  Nous serons bons amis *malgré* tout.
+  Wir werden *trotz* allem gute Freunde sein.
 
-  Malgré la pluie, nous sommes sortis.
-  Trotz des Regens sind wir rausgegangen.
+  *Malgré* la pluie, nous avons décidé de faire un pique-nique.
+  *Trotz* des Regens haben wir beschlossen, ein Picknick zu machen.
 
-  Elle est sortie malgré la pluie.
-  Sie ging trotz des Regens nach draußen.
+  Il a réussi son examen *malgré* son manque de préparation.
+  Er hat seine Prüfung *trotz* mangelnder Vorbereitung bestanden.
 
-  Il est venu travailler malgré la grippe.
-  Er kam trotz der Grippe zur Arbeit.
+  "J'ai entendu votre conversation *malgré* moi", s'est-elle excusée.
+  "Ich habe Ihr Gespräch *ungewollt* mitgehört", entschuldigte sie sich.
 
-  Malgré la chaleur, il a continué à courir.
-  Trotz der Hitze lief er weiter.
+  *Malgré* ses efforts, il n'a pas réussi à résoudre le problème.
+  *Trotz* seiner Bemühungen ist es ihm nicht gelungen, das Problem zu lösen.
 
-  J’ai décidé d’acheter la voiture malgré son prix élevé.
-  Ich entschied mich, das Auto trotz des hohen Preises zu kaufen.
+  Elle est sortie *malgré* l'interdiction de ses parents.
+  Sie ist *gegen* das Verbot ihrer Eltern ausgegangen.
 
-  Malgré toutes les difficultés, ils ont réussi.
-  Trotz aller Schwierigkeiten haben sie es geschafft.
+  *Malgré* la chaleur accablante, ils ont continué leur randonnée.
+  *Trotz* der drückenden Hitze setzten sie ihre Wanderung fort.
 
-  Malgré tout, j'ai décidé de partir.
-  Trotz allem habe ich mich entschlossen zu gehen.
+  Il a décidé de partir en vacances *malgré* ses dettes.
+  Er hat sich entschieden, *trotz* seiner Schulden in den Urlaub zu fahren.
 
-  Malgré moi, j'ai entendu ce que vous venez de dire.
-  Ohne zu wollen habe ich gehört, was Sie gerade gesagt haben.
+  *Malgré* son jeune âge, elle a déjà publié trois romans.
+  *Trotz* ihres jungen Alters hat sie bereits drei Romane veröffentlicht.
 
-  J'ai décidé malgré mes parents de faire ce voyage.
-  Ich habe gegen den Willen meiner Eltern beschlossen, diese Reise zu unternehmen.
+  "*Malgré* que j'en aie, je dois admettre que vous avez raison", dit-il à contrecœur.
+  "*Wider Willen* muss ich zugeben, dass Sie Recht haben", sagte er widerwillig.
+
+  L'entreprise a réalisé des bénéfices *malgré* la crise économique.
+  Das Unternehmen hat *trotz* der Wirtschaftskrise Gewinne erzielt.
+
+  *Malgré* son apparence fragile, elle est très courageuse.
+  *Trotz* ihres zerbrechlichen Aussehens ist sie sehr mutig.
+
+  Il a continué à travailler *malgré* sa fatigue.
+  Er arbeitete *trotz* seiner Müdigkeit weiter.
+
+  *Malgré* le bruit, les enfants ont réussi à s'endormir.
+  *Trotz* des Lärms gelang es den Kindern einzuschlafen.
+
+  Elle est restée calme *malgré* la situation stressante.
+  Sie blieb *trotz* der stressigen Situation ruhig.
+
+  *Malgré* ses erreurs passées, on lui a donné une seconde chance.
+  *Trotz* seiner vergangenen Fehler hat man ihm eine zweite Chance gegeben.
+
+  "*Malgré* moi, j'ai laissé échapper un rire", avoua-t-il, embarrassé.
+  "*Unwillkürlich* ist mir ein Lachen entwischt", gestand er verlegen.
+
+  *Malgré* le mauvais temps, le festival en plein air a eu lieu.
+  *Trotz* des schlechten Wetters fand das Open-Air-Festival statt.
+
+  Il a dû partir *malgré* lui pour ce long voyage d'affaires.
+  Er musste *gegen seinen Willen* zu dieser langen Geschäftsreise aufbrechen.
+
+  *Malgré* tout, elle garde espoir pour l'avenir.
+  *Trotz allem* bewahrt sie die Hoffnung für die Zukunft.
+
+  Les fleurs ont survécu *malgré* le gel.
+  Die Blumen haben *trotz* des Frosts überlebt.
+
+  *Malgré* son âge avancé, il continue à faire du sport tous les jours.
+  *Trotz* seines fortgeschrittenen Alters treibt er jeden Tag Sport.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

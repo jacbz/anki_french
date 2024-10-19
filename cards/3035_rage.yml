@@ -13,32 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La guerre fait rage dans les ténèbres.
-  Der Krieg tobt in der Dunkelheit.
+  La guerre fait *rage* dans les ténèbres.
+  Der Krieg *wütet* in der Dunkelheit.
 
-  Il a été pris de rage.
-  Er wurde von Wut überwältigt.
+  Il a dû être vacciné contre la *rage* après avoir été mordu par un renard.
+  Er musste gegen *Tollwut* geimpft werden, nachdem er von einem Fuchs gebissen wurde.
 
-  Il était fou de rage.
-  Er war außer sich vor Wut.
+  "J'ai une telle *rage* de réussir que rien ne m'arrêtera."
+  "Ich habe so einen *Drang* zum Erfolg, dass mich nichts aufhalten wird."
 
-  Quand il a appris la nouvelle, il était fou de rage.
-  Als er die Nachricht erfuhr, war er rasend vor Wut.
+  La tempête faisait *rage* sur la côte, détruisant tout sur son passage.
+  Der Sturm *wütete* an der Küste und zerstörte alles, was ihm in den Weg kam.
 
-  La rage de vivre l'animait, malgré les difficultés de la vie.
-  Der Drang zu leben, erfüllte ihn, trotz der Schwierigkeiten des Lebens.
+  Elle était folle de *rage* quand elle a découvert la trahison.
+  Sie war *rasend vor Wut*, als sie den Verrat entdeckte.
 
-  Son refus de l'aider a mis Marie en rage.
-  Sein Verweigern, ihr zu helfen, hat Marie wütend gemacht.
+  Les manifestants ont exprimé leur *rage* contre les nouvelles mesures du gouvernement.
+  Die Demonstranten brachten ihre *Wut* über die neuen Regierungsmaßnahmen zum Ausdruck.
 
-  Elle était en rage contre son voisin pour le bruit incessant.
-  Sie war auf ihren Nachbarn wütend wegen des unaufhörlichen Lärms.
+  "J'ai une *rage* de dents terrible depuis ce matin."
+  "Ich habe seit heute Morgen furchtbare *Zahnschmerzen*."
 
-  Il avait la rage au ventre quand il a vu son équipe perdre.
-  Er hatte eine Wut im Bauch, als er sah, wie seine Mannschaft verlor.
+  La *rage* de vivre de cet artiste se reflète dans chacune de ses œuvres.
+  Der *Lebensdrang* dieses Künstlers spiegelt sich in jedem seiner Werke wider.
 
-  Une rage folle est entrée en lui quand il a vu la scène.
-  Eine wilde Wut stieg in ihm auf, als er die Szene sah.
+  L'épidémie de *rage* chez les animaux sauvages inquiète les autorités sanitaires.
+  Der Ausbruch von *Tollwut* bei Wildtieren beunruhigt die Gesundheitsbehörden.
+
+  Sa *rage* au volant lui a valu plusieurs contraventions.
+  Seine *Wut* am Steuer hat ihm mehrere Strafzettel eingebracht.
+
+  L'incendie faisait *rage* dans la forêt, menaçant les villages voisins.
+  Das Feuer *wütete* im Wald und bedrohte die umliegenden Dörfer.
+
+  "Il a une *rage* de collectionner des timbres rares."
+  "Er hat einen *Drang*, seltene Briefmarken zu sammeln."
+
+  Les yeux pleins de *rage*, il a quitté la réunion en claquant la porte.
+  Mit *wuterfüllten* Augen verließ er die Versammlung und knallte die Tür zu.
+
+  La *rage* au cœur, elle a juré de se venger de cette humiliation.
+  Mit *Wut* im Herzen schwor sie, sich für diese Demütigung zu rächen.
+
+  Les chercheurs travaillent sur un nouveau traitement contre la *rage*.
+  Die Forscher arbeiten an einer neuen Behandlung gegen *Tollwut*.
+
+  Sa *rage* de vaincre l'a poussé à s'entraîner jour et nuit.
+  Sein *Siegeswille* trieb ihn dazu, Tag und Nacht zu trainieren.
+
+  "Qui veut noyer son chien l'accuse de la *rage*."
+  "Wer seinen Hund ersäufen will, bezichtigt ihn der *Tollwut*."
+
+  Le débat politique a fait *rage* toute la soirée à la télévision.
+  Die politische Debatte *tobte* den ganzen Abend im Fernsehen.
+
+  Elle a ressenti une *rage* incontrôlable en apprenant la nouvelle.
+  Sie verspürte eine unkontrollierbare *Wut*, als sie die Nachricht hörte.
+
+  Les spectateurs ont assisté avec *rage* à la défaite de leur équipe.
+  Die Zuschauer verfolgten die Niederlage ihrer Mannschaft mit *Wut*.
+
+  "J'ai la *rage* au ventre depuis qu'on m'a refusé cette promotion."
+  "Ich habe eine *Wut* im Bauch, seit man mir diese Beförderung verweigert hat."
+
+  La *rage* de créer ne l'a jamais quitté, même dans les moments difficiles.
+  Der *Schaffensdrang* hat ihn nie verlassen, selbst in schwierigen Zeiten.
+
+  Les symptômes de la *rage* apparaissent généralement plusieurs semaines après la morsure.
+  Die Symptome der *Tollwut* treten in der Regel erst mehrere Wochen nach dem Biss auf.
+
+  Il a déchiré la lettre dans un accès de *rage* incontrôlée.
+  In einem Anfall von unkontrollierter *Wut* zerriss er den Brief.
+
+  La *rage* des éléments s'est abattue sur la petite île.
+  Die *Wut* der Elemente brach über die kleine Insel herein.
+
+  "Cette injustice me met dans une *rage* folle !"
+  "Diese Ungerechtigkeit macht mich *wahnsinnig wütend*!"
+
+  Sa *rage* de lire l'a conduit à dévorer des centaines de livres chaque année.
+  Seine *Leseleidenschaft* führte dazu, dass er jedes Jahr Hunderte von Büchern verschlang.
+
+  Les médecins recommandent la vaccination contre la *rage* avant de voyager dans certains pays.
+  Ärzte empfehlen eine *Tollwut*-Impfung vor Reisen in bestimmte Länder.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

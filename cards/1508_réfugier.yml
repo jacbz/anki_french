@@ -13,17 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je m’étais réfugié dans une espèce d’esprit farceur.
-  Ich hatte mich in eine Art Witzgeist geflüchtet.
+  Je m'étais *réfugié* dans une espèce d'esprit farceur.
+  Ich hatte mich in eine Art Scherzhaftigkeit *geflüchtet*.
 
-  Les habitants se sont réfugiés dans les abris.
-  Die Bewohner haben sich in Schutzräume geflüchtet.
+  Pendant l'orage, nous nous sommes *réfugiés* sous un grand arbre.
+  Während des Gewitters haben wir uns unter einem großen Baum *in Sicherheit gebracht*.
 
-  Le chien, apeuré par le bruit des pétards, s'est réfugié chez sa maîtresse.
-  Der Hund, der sich vor dem Lärm der Böller fürchtete, hat sich zu seiner Herrin geflüchtet.
+  Les manifestants se sont *réfugiés* dans une église pour échapper à la police.
+  Die Demonstranten *flüchteten* sich in eine Kirche, um der Polizei zu entkommen.
 
-  Après la rupture, elle s'est réfugiée dans la solitude, cherchant du réconfort dans le silence.
-  Nach der Trennung hat sie sich in die Einsamkeit zurückgezogen und suchte Trost in der Stille.
+  Après la dispute, elle s'est *réfugiée* chez sa meilleure amie.
+  Nach dem Streit *flüchtete* sie sich zu ihrer besten Freundin.
+
+  "Je me *réfugie* souvent dans la lecture quand je suis stressé."
+  "Ich *flüchte* mich oft ins Lesen, wenn ich gestresst bin."
+
+  Les oiseaux se sont *réfugiés* dans leurs nids pendant la tempête.
+  Die Vögel haben sich während des Sturms in ihre Nester *geflüchtet*.
+
+  Face aux critiques, il s'est *réfugié* dans le silence.
+  Angesichts der Kritik *zog* er sich in Schweigen *zurück*.
+
+  Les réfugiés se sont *réfugiés* dans un pays voisin pour fuir la guerre.
+  Die Flüchtlinge *flohen* in ein Nachbarland, um dem Krieg zu entkommen.
+
+  Pour échapper à la canicule, les habitants se sont *réfugiés* dans les centres commerciaux climatisés.
+  Um der Hitzewelle zu entgehen, *suchten* die Einwohner in klimatisierten Einkaufszentren *Zuflucht*.
+
+  Le suspect s'est *réfugié* dans une ambassade pour éviter l'arrestation.
+  Der Verdächtige *flüchtete* sich in eine Botschaft, um der Verhaftung zu entgehen.
+
+  Quand la réalité devient trop dure, certains se *réfugient* dans l'alcool.
+  Wenn die Realität zu hart wird, *flüchten* sich manche in den Alkohol.
+
+  Les animaux sauvages se sont *réfugiés* dans les montagnes à cause des feux de forêt.
+  Die wilden Tiere *flüchteten* wegen der Waldbrände in die Berge.
+
+  Pour échapper au bruit de la ville, je me *réfugie* souvent dans la solitude de la campagne.
+  Um dem Lärm der Stadt zu entkommen, *ziehe* ich mich oft in die Einsamkeit des Landes *zurück*.
+
+  Face à ses problèmes, il s'est *réfugié* dans le travail.
+  Angesichts seiner Probleme *flüchtete* er sich in die Arbeit.
+
+  Le bateau endommagé s'est *réfugié* dans le port le plus proche.
+  Das beschädigte Boot *suchte Zuflucht* im nächstgelegenen Hafen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

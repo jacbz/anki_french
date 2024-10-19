@@ -13,41 +13,182 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous ne faisons pas du très bon travail.
-  Wir leisten keine sehr gute Arbeit.
+  Nous *ne* faisons pas du très bon travail.
+  Wir machen *keine* sehr gute Arbeit.
 
-  Je ne suis pas heureux.
-  Ich bin nicht glücklich.
+  Il *n'*a guère d'amis à l'école.
+  Er hat kaum Freunde in der Schule.
 
-  Il ne mange pas le midi, il préfère prendre son repas le soir.
-  Er isst nicht zu Mittag, er isst lieber abends.
+  Je *ne* fume plus depuis deux ans.
+  Ich rauche seit zwei Jahren *nicht* mehr.
 
-  Je ne vois que cette solution, il n'y a pas d'autre choix.
-  Ich sehe nur diese Lösung, es gibt keine andere Wahl.
+  Elle *ne* sort jamais le soir.
+  Sie geht abends *nie* aus.
 
-  J'ai peur qu'il ne vienne pas, car il est malade.
-  Ich fürchte, er kommt nicht, denn er ist krank.
+  Je *ne* vois personne qui pourrait m'aider.
+  Ich sehe *niemanden*, der mir helfen könnte.
 
-  Elle n'a guère d'argent, elle doit être prudente avec ses dépenses.
-  Sie hat kaum Geld, sie muss mit ihren Ausgaben sparsam sein.
+  Personne *ne* veut prendre la responsabilité de ce projet.
+  *Niemand* will die Verantwortung für dieses Projekt übernehmen.
 
-  Je ne me promène jamais dans ce quartier, il est trop dangereux.
-  Ich gehe nie in diesem Viertel spazieren, es ist zu gefährlich.
+  Je *n'*ai rien compris à son explication.
+  Ich habe von seiner Erklärung *nichts* verstanden.
 
-  Je ne vois personne, il est tard et tout le monde est déjà rentré chez soi.
-  Ich sehe niemanden, es ist spät und alle sind schon nach Hause gegangen.
+  Rien *ne* va plus dans cette entreprise.
+  In diesem Unternehmen läuft *nichts* mehr.
 
-  Il n'a ni frère ni sœur, il est enfant unique.
-  Er hat weder Bruder noch Schwester, er ist Einzelkind.
+  Il *n'*a ni talent ni motivation pour ce travail.
+  Er hat weder Talent noch Motivation für diese Arbeit.
 
-  Tu n'as aucune chance de gagner, ton adversaire est trop fort.
-  Du hast keine Chance zu gewinnen, dein Gegner ist zu stark.
+  Tu *n'*as aucune raison d'être jaloux.
+  Du hast *keinen* Grund, eifersüchtig zu sein.
 
-  Il n'y a pas que vous qui le dites, beaucoup d'autres personnes partagent votre avis.
-  Sie sind nicht der Einzige, der das sagt, viele andere Menschen teilen Ihre Meinung.
+  Je *n'*ose lui avouer la vérité.
+  Ich wage es *nicht*, ihm die Wahrheit zu gestehen.
 
-  ... à moins qu'il ne neige, alors nous devrons annuler notre randonnée.
-  ... es sei denn, es schneit, dann müssen wir unsere Wanderung absagen.
+  Elle *ne* boit que de l'eau pendant ses repas.
+  Sie trinkt zu ihren Mahlzeiten *nur* Wasser.
+
+  J'ai peur qu'il *ne* soit trop tard pour s'excuser.
+  Ich fürchte, es ist zu spät, um sich zu entschuldigen.
+
+  À moins qu'il *ne* pleuve, nous irons pique-niquer demain.
+  Es sei denn, es regnet, wir werden morgen picknicken gehen.
+
+  *N'*est-ce pas magnifique, ce coucher de soleil ?
+  Ist dieser Sonnenuntergang *nicht* wunderschön?
+
+  Je *n'*ai aucune nouvelle de lui depuis des mois.
+  Ich habe seit Monaten *nichts* von ihm gehört.
+
+  Il *ne* veut voir personne aujourd'hui.
+  Er will heute *niemanden* sehen.
+
+  Vous *ne* direz rien de notre conversation, j'espère.
+  Sie werden *nichts* von unserem Gespräch erzählen, hoffe ich.
+
+  Rien *n'*est encore décidé pour les vacances.
+  Für den Urlaub ist noch *nichts* entschieden.
+
+  Nul *ne* sait ce que l'avenir nous réserve.
+  *Niemand* weiß, was die Zukunft für uns bereithält.
+
+  Je *ne* peux l'affirmer avec certitude.
+  Ich kann es *nicht* mit Sicherheit behaupten.
+
+  Si je *ne* me trompe, nous nous sommes déjà rencontrés.
+  Wenn ich mich *nicht* irre, sind wir uns schon einmal begegnet.
+
+  *N'*ayez crainte, tout se passera bien !
+  Haben Sie *keine* Angst, alles wird gut gehen!
+
+  *N'*empêche qu'il est très déçu du résultat.
+  Es ändert *nichts* daran, dass er vom Ergebnis sehr enttäuscht ist.
+
+  Son discours était on *ne* peut plus clair.
+  Seine Rede war überaus klar.
+
+  Je crains qu'elle *ne* soit en retard à cause des embouteillages.
+  Ich befürchte, dass sie wegen des Staus zu spät kommt.
+
+  Pour éviter qu'il *ne* se perde, nous lui avons donné une carte.
+  Um zu vermeiden, dass er sich verirrt, haben wir ihm eine Karte gegeben.
+
+  Je *ne* nie pas qu'il *ne* soit intelligent, mais il manque d'expérience.
+  Ich bestreite *nicht*, dass er intelligent ist, aber es fehlt ihm an Erfahrung.
+
+  C'est plus difficile que je *ne* l'imaginais.
+  Es ist schwieriger, als ich es mir vorgestellt hatte.
+
+  Décidez-vous avant qu'il *ne* soit trop tard.
+  Entscheiden Sie sich, bevor es zu spät ist.
+
+  Je *n'*y comprends rien à cette nouvelle technologie.
+  Ich verstehe von dieser neuen Technologie *nichts*.
+
+  Il *ne* cesse de parler de son voyage en Italie.
+  Er hört *nicht* auf, von seiner Reise nach Italien zu erzählen.
+
+  "Je *ne* saurais vous dire pourquoi il a agi ainsi."
+  "Ich kann Ihnen *nicht* sagen, warum er so gehandelt hat."
+
+  Que *ne* ferais-je pour revoir ma famille !
+  Was würde ich *nicht* alles tun, um meine Familie wiederzusehen!
+
+  Il *n'*était pas si naïf qu'il *ne* pût comprendre la situation.
+  Er war *nicht* so naiv, dass er die Situation *nicht* verstehen konnte.
+
+  *N'*importe qui peut participer à ce concours.
+  *Jeder* kann an diesem Wettbewerb teilnehmen.
+
+  À Dieu *ne* plaise que cela arrive !
+  Gott bewahre, dass das passiert!
+
+  Que *ne* m'as-tu prévenu plus tôt !
+  Warum hast du mich *nicht* früher gewarnt!
+
+  Il y a deux mois que nous *ne* nous sommes vus.
+  Wir haben uns seit zwei Monaten *nicht* gesehen.
+
+  Je *ne* connais personne qui *ne* l'apprécie.
+  Ich kenne *niemanden*, der ihn *nicht* schätzt.
+
+  Je *n'*ai d'autre choix que d'accepter cette offre.
+  Ich habe *keine* andere Wahl, als dieses Angebot anzunehmen.
+
+  *N'*eût été son courage, nous aurions abandonné.
+  Wäre *nicht* sein Mut gewesen, hätten wir aufgegeben.
+
+  Elle *ne* mange ni viande ni poisson.
+  Sie isst weder Fleisch noch Fisch.
+
+  Je *ne* peux m'empêcher de penser à lui.
+  Ich kann *nicht* aufhören, an ihn zu denken.
+
+  *N'*as-tu jamais rêvé de voyager dans l'espace ?
+  Hast du *nie* davon geträumt, ins All zu reisen?
+
+  Il *ne* faut pas vendre la peau de l'ours avant de l'avoir tué.
+  Man soll den Tag *nicht* vor dem Abend loben.
+
+  Je *ne* saurais que faire sans vos conseils.
+  Ich wüsste *nicht*, was ich ohne Ihre Ratschläge tun sollte.
+
+  *Ne* vous en faites pas, tout s'arrangera.
+  Machen Sie sich *keine* Sorgen, alles wird sich regeln.
+
+  Il *n'*y a pas que le travail dans la vie.
+  Es gibt im Leben *nicht nur* die Arbeit.
+
+  Elle *ne* fait que penser à ses examens.
+  Sie denkt *nur* an ihre Prüfungen.
+
+  Je *ne* doute pas qu'il *ne* réussisse.
+  Ich zweifle *nicht* daran, dass er Erfolg haben wird.
+
+  *N'*auriez-vous pas vu mes clés quelque part ?
+  Hätten Sie *nicht* irgendwo meine Schlüssel gesehen?
+
+  Il *n'*en fait qu'à sa tête.
+  Er macht *nur*, was er will.
+
+  Je *ne* saurais trop vous remercier pour votre aide.
+  Ich kann Ihnen für Ihre Hilfe gar *nicht* genug danken.
+
+  *Ne* serait-ce que pour te faire plaisir, j'accepte ton invitation.
+  Und sei es *nur*, um dir eine Freude zu machen, ich nehme deine Einladung an.
+
+  Elle *n'*a de cesse que justice soit faite.
+  Sie gibt *nicht* nach, bis Gerechtigkeit herrscht.
+
+  Je *ne* peux m'empêcher de rire quand je pense à cette situation.
+  Ich kann *nicht* anders als zu lachen, wenn ich an diese Situation denke.
+
+  *N'*allez pas croire que c'est facile.
+  Glauben Sie *nicht*, dass es einfach ist.
+
+  Il *ne* s'en est fallu que d'un cheveu.
+  Es hat *nur* an einem Haar gehangen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,26 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’art est une tentative pour intégrer le mal.
-  Kunst ist ein Versuch, das Böse zu integrieren.
+  L'art est une tentative pour *intégrer* le mal.
+  Kunst ist ein Versuch, das Böse zu *integrieren*.
 
-  Il a réussi à intégrer l’équipe.
-  Er hat es geschafft, in das Team aufgenommen zu werden.
+  Il faut *intégrer* ces nouveaux employés à l'équipe le plus rapidement possible.
+  Wir müssen diese neuen Mitarbeiter so schnell wie möglich ins Team *eingliedern*.
 
-  J'ai intégré "Le Petit Prince" à ma liste de livres à lire cet été.
-  Ich habe "Der kleine Prinz" in meine Liste der Bücher aufgenommen, die ich diesen Sommer lesen möchte.
+  Le gouvernement cherche à *intégrer* les immigrants dans la société.
+  Die Regierung versucht, die Einwanderer in die Gesellschaft zu *integrieren*.
 
-  Pierre a réussi à intégrer à une grande école de commerce.
-  Pierre wurde an einer renommierten Handelsschule aufgenommen.
+  L'architecte a réussi à *intégrer* harmonieusement le bâtiment moderne dans le quartier historique.
+  Dem Architekten ist es gelungen, das moderne Gebäude harmonisch in das historische Viertel *einzufügen*.
 
-  Il a du mal à s'intégrer à sa nouvelle classe.
-  Er hat Schwierigkeiten, sich in seine neue Klasse zu integrieren.
+  Nous devons *intégrer* ces données dans notre rapport avant la réunion.
+  Wir müssen diese Daten vor der Besprechung in unseren Bericht *einarbeiten*.
 
-  Après des années d'études, il a décidé d'intégrer le secteur agricole.
-  Nach jahrelanger Ausbildung entschied er sich, in die Landwirtschaft zu gehen.
+  Elle a *intégré* l'École Polytechnique après deux ans de classes préparatoires.
+  Sie wurde nach zwei Jahren Vorbereitungsklassen an der École Polytechnique *aufgenommen*.
 
-  J'ai acheté un ordinateur avec carte son intégrée, ce qui est très pratique.
-  Ich habe einen Computer mit integrierter Soundkarte gekauft, was sehr praktisch ist.
+  Ce smartphone a une caméra *intégrée* de haute qualité.
+  Dieses Smartphone hat eine hochwertige *eingebaute* Kamera.
+
+  Le projet vise à *intégrer* les énergies renouvelables dans le réseau électrique existant.
+  Das Projekt zielt darauf ab, erneuerbare Energien in das bestehende Stromnetz zu *integrieren*.
+
+  Les étudiants doivent *intégrer* ces nouvelles connaissances pour réussir l'examen.
+  Die Studenten müssen dieses neue Wissen *verinnerlichen*, um die Prüfung zu bestehen.
+
+  Il a du mal à s'*intégrer* dans son nouvel environnement de travail.
+  Er hat Schwierigkeiten, sich in seinem neuen Arbeitsumfeld *einzuleben*.
+
+  L'entreprise a *intégré* plusieurs petites sociétés au cours des dernières années.
+  Das Unternehmen hat in den letzten Jahren mehrere kleine Firmen *übernommen*.
+
+  Les mathématiciens doivent *intégrer* cette fonction complexe pour résoudre l'équation.
+  Die Mathematiker müssen diese komplexe Funktion *integrieren*, um die Gleichung zu lösen.
+
+  Le chef cuisinier a *intégré* des ingrédients locaux dans son nouveau menu.
+  Der Küchenchef hat lokale Zutaten in sein neues Menü *einbezogen*.
+
+  Nous devons *intégrer* les commentaires des clients dans notre processus de développement.
+  Wir müssen das Kundenfeedback in unseren Entwicklungsprozess *einbeziehen*.
+
+  La compagnie aérienne a *intégré* un nouveau système de réservation en ligne.
+  Die Fluggesellschaft hat ein neues Online-Buchungssystem *eingeführt*.
+
+  Le professeur essaie d'*intégrer* des méthodes d'enseignement innovantes dans ses cours.
+  Der Lehrer versucht, innovative Lehrmethoden in seinen Unterricht *einzubinden*.
+
+  Cette application permet d'*intégrer* facilement des vidéos dans vos présentations.
+  Diese Anwendung ermöglicht es, Videos einfach in Ihre Präsentationen *einzubinden*.
+
+  Le comité a décidé d'*intégrer* vos suggestions dans la version finale du rapport.
+  Der Ausschuss hat beschlossen, Ihre Vorschläge in die Endversion des Berichts *aufzunehmen*.
+
+  Les entreprises doivent *intégrer* les principes de développement durable dans leur stratégie.
+  Unternehmen müssen die Prinzipien der Nachhaltigkeit in ihre Strategie *integrieren*.
+
+  Le logiciel permet d'*intégrer* automatiquement les mises à jour de sécurité.
+  Die Software ermöglicht es, Sicherheitsupdates automatisch zu *integrieren*.
+
+  "Il faut que tu t'*intègres* mieux dans l'équipe," lui a conseillé son manager.
+  "Du musst dich besser ins Team *einfügen*", riet ihm sein Manager.
+
+  Le designer a réussi à *intégrer* élégamment la technologie dans le mobilier.
+  Dem Designer ist es gelungen, die Technologie elegant in die Möbel zu *integrieren*.
+
+  Nous devons *intégrer* ces changements climatiques dans nos plans à long terme.
+  Wir müssen diese Klimaveränderungen in unsere langfristigen Pläne *einbeziehen*.
+
+  L'école s'efforce d'*intégrer* les élèves ayant des besoins spéciaux.
+  Die Schule bemüht sich, Schüler mit besonderen Bedürfnissen zu *integrieren*.
+
+  Le nouveau membre s'est rapidement *intégré* à notre groupe d'amis.
+  Das neue Mitglied hat sich schnell in unseren Freundeskreis *eingefügt*.
+
+  Cette entreprise a complètement *intégré* sa chaîne de production.
+  Dieses Unternehmen hat seine Produktionskette vollständig *integriert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

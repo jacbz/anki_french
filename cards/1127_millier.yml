@@ -13,44 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Des milliers d’entre eux refusent de partir.
-  Tausende von ihnen weigern sich zu gehen.
+  Des *milliers* d'entre eux refusent de partir.
+  *Tausende* von ihnen weigern sich zu gehen.
 
-  Il y a des milliers de personnes ici.
-  Es gibt Tausende von Menschen hier.
+  Un *millier* de personnes ont assisté au concert hier soir.
+  Ungefähr *tausend* Menschen haben gestern Abend das Konzert besucht.
 
-  Un millier de personnes ont assisté au concert.
-  Ungefähr tausend Menschen haben das Konzert besucht.
+  Les manifestants se sont rassemblés par *milliers* dans les rues.
+  Die Demonstranten haben sich zu *Tausenden* auf den Straßen versammelt.
 
-  Deux milliers de choses sont exposées dans ce musée.
-  Zweitausend Dinge sind in diesem Museum ausgestellt.
+  Cette entreprise emploie plusieurs *milliers* de travailleurs.
+  Dieses Unternehmen beschäftigt mehrere *tausend* Arbeitnehmer.
 
-  Des milliers de personnes ont participé à la manifestation.
-  Tausende von Menschen haben an der Demonstration teilgenommen.
+  Il y a des *milliers* et des *milliers* d'étoiles dans le ciel ce soir.
+  Es gibt *Tausende und Abertausende* Sterne am Himmel heute Abend.
 
-  Des milliers de personnes ont fui le pays en guerre.
-  Tausende von Menschen sind aus dem Kriegsland geflohen.
+  Le nouveau jeu vidéo s'est vendu à des *milliers* d'exemplaires dès sa sortie.
+  Das neue Videospiel wurde gleich nach seiner Veröffentlichung *tausendfach* verkauft.
 
-  Des milliers et des milliers d'étoiles brillaient dans le ciel.
-  Tausende und Abertausende von Sternen glänzten am Himmel.
+  Plusieurs dizaines de *milliers* de spectateurs ont assisté au match.
+  *Zehntausende* von Zuschauern haben das Spiel verfolgt.
 
-  Plusieurs dizaines de milliers de personnes ont manifesté devant le Parlement.
-  Zehntausende von Menschen haben vor dem Parlament demonstriert.
+  L'île compte environ un *millier* d'habitants permanents.
+  Die Insel hat ungefähr *tausend* ständige Einwohner.
 
-  Le maire reçoit des lettres par milliers depuis l'annonce de son projet.
-  Der Bürgermeister bekommt bergeweise Post seit der Bekanntgabe seines Projekts.
+  Des *milliers* de personnes ont été évacuées à cause des inondations.
+  *Tausende* von Menschen wurden wegen der Überschwemmungen evakuiert.
 
-  Je ne sais combien de milliers de lettres j'ai écrites à mes parents.
-  Zigtausend Briefe habe ich an meine Eltern geschrieben.
+  Le roman s'est vendu à des centaines de *milliers* d'exemplaires.
+  Der Roman wurde in *Hunderttausenden* von Exemplaren verkauft.
 
-  Ce livre a été vendu des milliers de fois.
-  Dieses Buch wurde tausendfach verkauft.
+  "J'ai reçu je ne sais combien de *milliers* de messages de soutien."
+  "Ich habe *zigtausend* Unterstützungsnachrichten erhalten."
 
-  Le fournisseur a commandé des milliers de pièces détachées.
-  Der Zulieferer hat tausendfach Ersatzteile bestellt.
+  Les oiseaux migrateurs parcourent des *milliers* de kilomètres chaque année.
+  Zugvögel legen jedes Jahr *Tausende* von Kilometern zurück.
 
-  Les oiseaux migrateurs arrivent par milliers chaque année.
-  Die Zugvögel kommen jedes Jahr zu Tausenden an.
+  Cette facture s'élève à plusieurs *milliers* d'euros.
+  Diese Rechnung beläuft sich auf mehrere *tausend* Euro.
+
+  Un *millier* d'années se sont écoulées depuis la construction de ce château.
+  *Tausend* Jahre sind seit dem Bau dieses Schlosses vergangen.
+
+  Les papillons volaient par *milliers* dans le champ fleuri.
+  Die Schmetterlinge flogen zu *Tausenden* über das blühende Feld.
+
+  Ce fossile date d'il y a plusieurs *milliers* d'années.
+  Dieses Fossil stammt aus einer Zeit vor mehreren *tausend* Jahren.
+
+  "Je pourrais vous citer des *milliers* d'exemples pour prouver mon point."
+  "Ich könnte Ihnen *tausende* Beispiele nennen, um meinen Standpunkt zu beweisen."
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

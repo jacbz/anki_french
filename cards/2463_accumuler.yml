@@ -13,20 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les bombes atomiques s’accumulent.
-  Die Atombomben häufen sich.
+  Les bombes atomiques *s'accumulent*.
+  Die Atombomben *häufen sich*.
 
-  Il a accumulé beaucoup de dettes.
-  Er hat viele Schulden angehäuft.
+  Il *accumule* les erreurs dans son rapport.
+  Er *begeht* in seinem Bericht einen *Fehler* nach dem anderen.
 
-  Ils ont accumulé des erreurs tout au long du projet, ce qui a conduit à son échec.
-  Sie haben einen Fehler nach dem anderen im Laufe des Projekts gemacht, was zu dessen Scheitern geführt hat.
+  La poussière *s'accumule* sur les étagères.
+  Der Staub *sammelt sich* in den Regalen.
 
-  Les charges s'accumulent contre l'accusé, il est de plus en plus difficile pour lui de se défendre.
-  Die Beweise gegen den Angeklagten häufen sich, es wird für ihn immer schwieriger, sich zu verteidigen.
+  Elle *accumule* les preuves contre son voisin bruyant.
+  Sie *sammelt* Beweise gegen ihren lauten Nachbarn.
 
-  Les intérêts accumulés pendant cinq ans ont atteint une somme considérable.
-  Die in fünf Jahren aufgelaufenen Zinsen haben einen beträchtlichen Betrag erreicht.
+  Les intérêts *accumulés* pendant dix ans sont considérables.
+  Die in zehn Jahren *angehäuften* Zinsen sind beträchtlich.
+
+  "Tu *accumules* les bêtises aujourd'hui !"
+  "Du *machst* heute eine *Dummheit* nach der anderen!"
+
+  L'entreprise *accumule* les profits depuis des années.
+  Das Unternehmen *häuft* seit Jahren Gewinne *an*.
+
+  Les nuages noirs *s'accumulent* à l'horizon.
+  Schwarze Wolken *türmen sich* am Horizont *auf*.
+
+  Le courrier *s'accumule* dans la boîte aux lettres pendant les vacances.
+  Die Post *stapelt sich* während des Urlaubs im Briefkasten.
+
+  Il *accumule* les diplômes sans jamais trouver de travail.
+  Er *sammelt* Abschlüsse, ohne je eine Arbeit zu finden.
+
+  Les déchets *s'accumulent* dans les rues de la ville.
+  Der Müll *türmt sich* in den Straßen der Stadt *auf*.
+
+  Cette bibliothèque *accumule* des livres rares depuis des siècles.
+  Diese Bibliothek *sammelt* seit Jahrhunderten seltene Bücher.
+
+  Les retards *s'accumulent* sur cette ligne de train.
+  Die Verspätungen *häufen sich* auf dieser Bahnlinie.
+
+  Le collectionneur *accumule* des timbres depuis son enfance.
+  Der Sammler *hortet* seit seiner Kindheit Briefmarken.
+
+  Les difficultés *s'accumulent* pour cette petite entreprise.
+  Die Schwierigkeiten *häufen sich* für dieses kleine Unternehmen.
+
+  La batterie de la voiture électrique *accumule* l'énergie solaire.
+  Die Batterie des Elektroautos *speichert* Solarenergie.
+
+  Les preuves *s'accumulent* contre le suspect principal.
+  Die Beweise gegen den Hauptverdächtigen *häufen sich*.
+
+  L'athlète *accumule* les médailles dans sa carrière.
+  Der Athlet *sammelt* in seiner Karriere Medaillen.
+
+  Cette région *accumule* les records de température.
+  Diese Region *häuft* Temperaturrekorde *an*.
+
+  Les dossiers non traités *s'accumulent* sur son bureau.
+  Die unbearbeiteten Akten *stapeln sich* auf seinem Schreibtisch.
+
+  Le gourmand *accumule* les calories sans s'en rendre compte.
+  Der Feinschmecker *häuft* Kalorien *an*, ohne es zu merken.
+
+  L'avare *accumule* l'argent sans jamais le dépenser.
+  Der Geizhals *hortet* Geld, ohne es jemals auszugeben.
+
+  Les années *s'accumulent*, mais elle garde toujours son dynamisme.
+  Die Jahre *häufen sich an*, aber sie behält immer noch ihre Dynamik.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

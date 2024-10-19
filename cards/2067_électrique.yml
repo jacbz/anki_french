@@ -13,26 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je n’aime pas tous ces appareils électriques.
-  Ich mag all diese elektrischen Geräte nicht.
+  Je n'aime pas tous ces appareils *électriques*.
+  Ich mag all diese *elektrischen* Geräte nicht.
 
-  La voiture est équipée d’un moteur électrique.
-  Das Auto ist mit einem Elektromotor ausgestattet.
+  La voiture *électrique* est une alternative écologique.
+  Das *Elektro*auto ist eine umweltfreundliche Alternative.
 
-  Le réfrigérateur est un appareil électrique qui sert à conserver les aliments frais.
-  Der Kühlschrank ist ein Elektrogerät, das dazu dient, Lebensmittel frisch zu halten.
+  Le four *électrique* chauffe plus rapidement qu'un four à gaz.
+  Der *elektrische* Ofen heizt schneller auf als ein Gasofen.
 
-  La centrale électrique produit l'électricité qui alimente nos maisons.
-  Das Stromkraftwerk produziert den Strom, der unsere Häuser versorgt.
+  Notre centrale *électrique* fonctionne à l'énergie solaire.
+  Unser *Strom*kraftwerk wird mit Solarenergie betrieben.
 
-  Le moteur électrique est utilisé dans les voitures électriques et les trains.
-  Der Elektromotor wird in Elektroautos und Zügen verwendet.
+  L'éclairage *électrique* a révolutionné la vie nocturne.
+  Die *elektrische* Beleuchtung hat das Nachtleben revolutioniert.
 
-  La production électrique est en augmentation constante pour répondre à la demande croissante.
-  Die Stromerzeugung nimmt ständig zu, um den wachsenden Bedarf zu decken.
+  Le moteur *électrique* est plus silencieux que le moteur à essence.
+  Der *Elektro*motor ist leiser als der Benzinmotor.
 
-  Le réseau électrique est un système complexe qui transporte l'électricité dans toutes les régions.
-  Das Stromnetz ist ein komplexes System, das den Strom in alle Regionen transportiert.
+  Cette guitare *électrique* produit un son impressionnant.
+  Diese *elektrische* Gitarre erzeugt einen beeindruckenden Klang.
+
+  La chaise *électrique* est un moyen d'exécution controversé.
+  Der *elektrische* Stuhl ist eine umstrittene Hinrichtungsmethode.
+
+  Les fils *électriques* doivent être correctement isolés.
+  Die *elektrischen* Leitungen müssen richtig isoliert sein.
+
+  L'atmosphère était *électrique* avant le début du match.
+  Die Atmosphäre war vor Spielbeginn *elektrisierend*.
+
+  Le bleu *électrique* de sa robe attirait tous les regards.
+  Das *elektrische* Blau ihres Kleides zog alle Blicke auf sich.
+
+  Un court-circuit *électrique* a provoqué l'incendie.
+  Ein *elektrischer* Kurzschluss hat den Brand verursacht.
+
+  Les voitures *électriques* sont de plus en plus populaires en ville.
+  *Elektro*autos werden in der Stadt immer beliebter.
+
+  Le réseau *électrique* a été endommagé par la tempête.
+  Das *Strom*netz wurde durch den Sturm beschädigt.
+
+  La production d'énergie *électrique* doit devenir plus durable.
+  Die Erzeugung von *elektrischer* Energie muss nachhaltiger werden.
+
+  Son discours a eu un effet *électrique* sur la foule.
+  Seine Rede hatte eine *elektrisierende* Wirkung auf die Menge.
+
+  Les trains *électriques* sont plus écologiques que les trains diesel.
+  *Elektro*züge sind umweltfreundlicher als Dieselzüge.
+
+  La cheminée *électrique* offre une ambiance chaleureuse sans fumée.
+  Der *elektrische* Kamin bietet eine gemütliche Atmosphäre ohne Rauch.
+
+  Les appareils *électriques* doivent être recyclés correctement.
+  *Elektrische* Geräte müssen ordnungsgemäß recycelt werden.
+
+  Le chauffage *électrique* est pratique mais peut être coûteux.
+  Die *elektrische* Heizung ist praktisch, kann aber teuer sein.
+
+  La clôture *électrique* empêche les animaux de s'échapper.
+  Der *Elektro*zaun verhindert, dass die Tiere entkommen.
+
+  Les vélos *électriques* facilitent les déplacements en ville.
+  *Elektro*fahrräder erleichtern die Fortbewegung in der Stadt.
+
+  Le compteur *électrique* mesure notre consommation d'énergie.
+  Der *Strom*zähler misst unseren Energieverbrauch.
+
+  Les voitures de Formule E sont entièrement *électriques*.
+  Die Formel-E-Autos sind vollständig *elektrisch* betrieben.
+
+  La brosse à dents *électrique* nettoie plus efficacement les dents.
+  Die *elektrische* Zahnbürste reinigt die Zähne gründlicher.
+
+  L'énergie *électrique* peut être produite de manière renouvelable.
+  *Elektrische* Energie kann auf erneuerbare Weise erzeugt werden.
+
+  Les tensions *électriques* peuvent être dangereuses si mal gérées.
+  *Elektrische* Spannungen können gefährlich sein, wenn sie falsch gehandhabt werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

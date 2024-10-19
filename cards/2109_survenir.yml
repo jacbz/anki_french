@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Trop d’événements néfastes sont survenus cette année.
-  Zu viele negative Ereignisse haben sich in diesem Jahr ereignet.
+  Trop d'événements néfastes sont *survenus* cette année.
+  Zu viele unglückliche Ereignisse sind in diesem Jahr *eingetreten*.
 
-  L’accident est survenu hier soir.
-  Der Unfall ist gestern Abend passiert.
+  Une panne d'électricité est *survenue* pendant la réunion importante.
+  Während des wichtigen Meetings ist ein Stromausfall *aufgetreten*.
+
+  Si des complications *surviennent*, n'hésitez pas à contacter votre médecin.
+  Wenn *unerwartete* Komplikationen *auftreten*, zögern Sie nicht, Ihren Arzt zu kontaktieren.
+
+  Le changement climatique *survient* plus rapidement que prévu.
+  Der Klimawandel *tritt* schneller als erwartet *ein*.
+
+  "Que faire si un incendie *survient* pendant la nuit ?"
+  "Was tun, wenn nachts ein Feuer *ausbricht*?"
+
+  Une opportunité inattendue est *survenue* dans sa carrière.
+  In seiner Karriere hat sich eine unerwartete Gelegenheit *ergeben*.
+
+  Des problèmes techniques sont *survenus* lors du lancement du satellite.
+  Beim Start des Satelliten sind technische Probleme *aufgetreten*.
+
+  Si des témoins *surviennent*, nous devrons interrompre notre conversation.
+  Wenn *plötzlich* Zeugen *auftauchen*, müssen wir unser Gespräch unterbrechen.
+
+  Un miracle est *survenu* au moment où tout semblait perdu.
+  Ein Wunder ist *geschehen*, als alles verloren schien.
+
+  L'accident est *survenu* sans que personne ne puisse l'anticiper.
+  Der Unfall ist *eingetreten*, ohne dass jemand ihn vorhersehen konnte.
+
+  Des changements inattendus sont *survenus* dans le programme de la conférence.
+  Im Konferenzprogramm sind *unvorhergesehene* Änderungen *eingetreten*.
+
+  Un quiproquo fâcheux est *survenu* entre les deux collègues.
+  Zwischen den beiden Kollegen ist ein ärgerliches Missverständnis *entstanden*.
+
+  Si un problème *survient*, n'hésitez pas à m'appeler, même tard dans la nuit.
+  Wenn ein Problem *auftritt*, zögern Sie nicht, mich anzurufen, selbst spät in der Nacht.
+
+  La crise économique est *survenue* de manière brutale et inattendue.
+  Die Wirtschaftskrise ist *plötzlich und unerwartet eingetreten*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

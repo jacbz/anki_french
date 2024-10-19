@@ -13,23 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mon corps est autonome. Il ne m’écoute pas.
-  Mein Körper ist autonom. Er hört nicht auf mich.
+  Mon corps est *autonome*. Il ne m'écoute pas.
+  Mein Körper ist *autonom*. Er hört nicht auf mich.
 
-  Cette région est autonome.
-  Diese Region ist autonom.
+  Les provinces *autonomes* du nord ont leur propre gouvernement.
+  Die *autonomen* Provinzen im Norden haben ihre eigene Regierung.
 
-  Il a décidé de devenir travailleur autonome pour avoir plus de liberté.
-  Er hat sich entschieden, Freiberufler zu werden, um mehr Freiheit zu haben.
+  Elle cherche un emploi qui lui permettra d'être financièrement *autonome*.
+  Sie sucht eine Arbeit, die es ihr ermöglicht, finanziell *unabhängig* zu sein.
 
-  Il a choisi de travailler de manière autonome.
-  Er hat sich dafür entschieden, selbstständig zu arbeiten.
+  Le nouveau robot ménager est complètement *autonome* et peut nettoyer toute la maison.
+  Der neue Haushaltsroboter ist völlig *autonom* und kann das ganze Haus reinigen.
 
-  Quand il est en train de travailler, il préfère être autonome, sans aucune distraction.
-  Wenn er arbeitet, ist er lieber offline, ohne Ablenkungen.
+  "Je suis assez grand pour être *autonome*", a déclaré l'adolescent à ses parents.
+  "Ich bin alt genug, um *selbstständig* zu sein", erklärte der Teenager seinen Eltern.
 
-  Il est devenu autonome pour mieux gérer son temps.
-  Er wurde selbstständig, um seine Zeit besser zu managen.
+  Le port *autonome* de Marseille gère ses propres affaires.
+  Der *autonome* Hafen von Marseille verwaltet seine eigenen Angelegenheiten.
+
+  Les voitures *autonomes* pourraient révolutionner les transports urbains.
+  *Autonome* Autos könnten den städtischen Verkehr revolutionieren.
+
+  Cette région *autonome* a le pouvoir de promulguer ses propres lois.
+  Diese *autonome* Region hat die Befugnis, ihre eigenen Gesetze zu erlassen.
+
+  Le nouveau logiciel est *autonome* et ne nécessite pas de connexion internet.
+  Die neue Software ist *autonom* und benötigt keine Internetverbindung.
+
+  Les syndicats *autonomes* ne sont affiliés à aucune grande centrale syndicale.
+  Die *unabhängigen* Gewerkschaften sind mit keinem großen Gewerkschaftsverband verbunden.
+
+  L'objectif est de rendre les patients plus *autonomes* dans la gestion de leur maladie.
+  Das Ziel ist es, die Patienten im Umgang mit ihrer Krankheit *selbstständiger* zu machen.
+
+  Le budget *autonome* de ce département lui permet une grande flexibilité.
+  Der *eigenständige* Haushalt dieser Abteilung ermöglicht ihr große Flexibilität.
+
+  Les cellules souches sont *autonomes* et peuvent se développer en différents types de tissus.
+  Stammzellen sind *autonom* und können sich zu verschiedenen Gewebetypen entwickeln.
+
+  Cette entreprise encourage la formation d'équipes de travail *autonomes*.
+  Dieses Unternehmen fördert die Bildung von *selbstständigen* Arbeitsgruppen.
+
+  Le système nerveux *autonome* contrôle les fonctions involontaires du corps.
+  Das *autonome* Nervensystem steuert die unwillkürlichen Körperfunktionen.
+
+  Les dominions britanniques étaient des États *autonomes* sous la Couronne.
+  Die britischen Dominions waren *autonome* Staaten unter der Krone.
+
+  Cette machine *autonome* peut fonctionner pendant des jours sans intervention humaine.
+  Diese *autonome* Maschine kann tagelang ohne menschlichen Eingriff funktionieren.
+
+  Les régions *autonomes* de ce pays ont leur propre parlement.
+  Die *autonomen* Regionen dieses Landes haben ihr eigenes Parlament.
+
+  Le mouvement étudiant prône une université plus *autonome* vis-à-vis de l'État.
+  Die Studentenbewegung fordert eine vom Staat *unabhängigere* Universität.
+
+  La gestion *autonome* de ce projet a permis une grande créativité.
+  Die *selbstständige* Verwaltung dieses Projekts hat große Kreativität ermöglicht.
+
+  Les travailleurs *autonomes* doivent gérer eux-mêmes leur temps et leurs ressources.
+  *Selbstständige* Arbeiter müssen ihre Zeit und Ressourcen selbst verwalten.
+
+  Cette application *autonome* fonctionne sans connexion internet.
+  Diese *eigenständige* App funktioniert ohne Internetverbindung.
+
+  L'objectif de l'éducation est de former des citoyens *autonomes* et responsables.
+  Das Ziel der Bildung ist es, *eigenständige* und verantwortungsbewusste Bürger heranzubilden.
+
+  La principauté *autonome* a sa propre monnaie et ses propres lois.
+  Das *autonome* Fürstentum hat seine eigene Währung und seine eigenen Gesetze.
+
+  Les groupes *autonomes* agissent souvent en marge des organisations politiques traditionnelles.
+  *Autonome* Gruppen handeln oft am Rande traditioneller politischer Organisationen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

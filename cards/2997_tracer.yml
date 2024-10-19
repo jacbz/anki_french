@@ -13,17 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La voie est tracée mais elle est difficile.
-  Der Weg ist vorgezeichnet, aber er ist schwierig.
+  La voie est *tracée* mais elle est difficile.
+  Der Weg ist vor*gezeichnet*, aber er ist schwierig.
 
-  Il a tracé une ligne droite.
-  Er hat eine gerade Linie gezeichnet.
+  L'architecte a *tracé* les plans du nouveau bâtiment.
+  Der Architekt hat die Pläne für das neue Gebäude *gezeichnet*.
 
-  Le modèle tout tracé lui a permis de comprendre facilement les étapes à suivre.
-  Das ideale Vorbild hat es ihm ermöglicht, die Schritte, die es zu unternehmen gilt, leicht zu verstehen.
+  Elle a *tracé* une ligne droite à la règle.
+  Sie hat mit dem Lineal eine gerade Linie *gezogen*.
 
-  Le professeur a tracé la voie à ses élèves pour qu'ils réussissent leur examen.
-  Der Professor hat seinen Schülern den Weg geebnet, damit sie ihre Prüfung bestehen.
+  Les explorateurs ont *tracé* un nouveau sentier dans la jungle.
+  Die Entdecker haben einen neuen Pfad durch den Dschungel *gebahnt*.
+
+  L'ingénieur *trace* la route à travers les montagnes.
+  Der Ingenieur *legt* die Straße durch die Berge *an*.
+
+  Son roman *trace* un portrait saisissant de la société moderne.
+  Sein Roman *zeichnet* ein ergreifendes Bild der modernen Gesellschaft.
+
+  Cette découverte *trace* la voie à de nouvelles recherches.
+  Diese Entdeckung *ebnet* den Weg für neue Forschungen.
+
+  Le parcours de la course est déjà tout *tracé*.
+  Die Rennstrecke ist bereits komplett *vorgegeben*.
+
+  "Il faut *tracer* maintenant si on ne veut pas rater le train !"
+  "Wir müssen jetzt *düsen*, wenn wir den Zug nicht verpassen wollen!"
+
+  Les enfants *tracent* des lettres dans leurs cahiers.
+  Die Kinder *schreiben* Buchstaben in ihre Hefte.
+
+  Le GPS permet de *tracer* l'itinéraire le plus court.
+  Das GPS ermöglicht es, die kürzeste Route zu *planen*.
+
+  L'historien *trace* les origines de cette coutume au Moyen Âge.
+  Der Historiker *verfolgt* die Ursprünge dieses Brauchs bis ins Mittelalter zurück.
+
+  Le skieur a *tracé* une belle courbe dans la neige fraîche.
+  Der Skifahrer hat eine schöne Kurve in den frischen Schnee *gezogen*.
+
+  Les autorités *tracent* les appels téléphoniques suspects.
+  Die Behörden *verfolgen* verdächtige Telefonanrufe.
+
+  Le professeur *trace* un cercle au tableau.
+  Der Lehrer *zeichnet* einen Kreis an die Tafel.
+
+  Cette décision *trace* la voie à suivre pour l'entreprise.
+  Diese Entscheidung *gibt* den Weg vor, dem das Unternehmen folgen soll.
+
+  Le peintre a *tracé* les contours de son tableau au fusain.
+  Der Maler hat die Umrisse seines Gemäldes mit Kohle *skizziert*.
+
+  Les géomètres *tracent* les limites du terrain à construire.
+  Die Landvermesser *markieren* die Grenzen des zu bebauenden Grundstücks.
+
+  Il faut *tracer* une ligne entre vie professionnelle et vie privée.
+  Man muss eine Grenze zwischen Berufs- und Privatleben *ziehen*.
+
+  Le logiciel permet de *tracer* l'évolution des ventes sur un graphique.
+  Die Software ermöglicht es, die Entwicklung der Verkäufe in einem Diagramm *darzustellen*.
+
+  Les archéologues *tracent* le plan des ruines découvertes.
+  Die Archäologen *zeichnen* den Grundriss der entdeckten Ruinen.
+
+  Cette loi *trace* le cadre juridique pour les années à venir.
+  Dieses Gesetz *gibt* den rechtlichen Rahmen für die kommenden Jahre *vor*.
+
+  Le journaliste *trace* un portrait élogieux du nouveau ministre.
+  Der Journalist *zeichnet* ein lobendes Porträt des neuen Ministers.
+
+  Les astronomes *tracent* la trajectoire de la comète.
+  Die Astronomen *berechnen* die Flugbahn des Kometen.
+
+  Le détective *trace* les mouvements du suspect.
+  Der Detektiv *verfolgt* die Bewegungen des Verdächtigen.
+
+  L'artiste *trace* des motifs complexes sur le tissu.
+  Der Künstler *zeichnet* komplexe Muster auf den Stoff.
+
+  Le navigateur *trace* sa route sur la carte maritime.
+  Der Seemann *zeichnet* seinen Kurs auf der Seekarte *ein*.
+
+  L'élève *trace* soigneusement les lettres de l'alphabet.
+  Der Schüler *schreibt* sorgfältig die Buchstaben des Alphabets.
+
+  Cette expérience *trace* la voie à de nouvelles découvertes scientifiques.
+  Dieses Experiment *bahnt* den Weg für neue wissenschaftliche Entdeckungen.
+
+  Le coureur *trace* sa propre voie vers le succès.
+  Der Läufer *bahnt* sich seinen eigenen Weg zum Erfolg.
+
+  Les géologues *tracent* les contours des plaques tectoniques.
+  Die Geologen *zeichnen* die Umrisse der tektonischen Platten *nach*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

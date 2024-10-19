@@ -13,17 +13,113 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Et les larmes se remirent à couler.
-  Und die Tränen begannen wieder zu fließen.
+  *Et* les larmes se remirent à couler.
+  *Und* die Tränen begannen wieder zu fließen.
 
-  Pierre et Marie sont frère et sœur.
-  Pierre und Marie sind Bruder und Schwester.
+  Il a mangé *et* bu toute la journée.
+  Er hat den ganzen Tag gegessen *und* getrunken.
 
-  Le spectacle devait commencer à quatre heures et demie, mais les acteurs étaient en retard.
-  Der Schauspielbeginn war für halb fünf angesetzt, aber die Schauspieler waren verspätet.
+  Elle a acheté des pommes *et* des poires au marché.
+  Sie hat Äpfel *und* Birnen auf dem Markt gekauft.
 
-  La femme était en grande difficulté, car elle aimait à la fois son mari et son amant.
-  Die Frau war in großer Not, denn sie liebte sowohl ihren Mann als auch ihren Freund.
+  J'ai invité mes parents *et* mes beaux-parents pour Noël.
+  Ich habe meine Eltern *und* Schwiegereltern zu Weihnachten eingeladen.
+
+  Il est intelligent *et* travailleur.
+  Er ist intelligent *und* fleißig.
+
+  Nous irons au cinéma *et* au restaurant ce soir.
+  Wir werden heute Abend ins Kino *und* ins Restaurant gehen.
+
+  Le train arrive à huit heures *et* quart.
+  Der Zug kommt um Viertel *nach* acht an.
+
+  Elle parle français, anglais *et* allemand couramment.
+  Sie spricht fließend Französisch, Englisch *und* Deutsch.
+
+  *Et* voilà qu'il se met à pleuvoir !
+  *Und* da fängt es an zu regnen!
+
+  Il a vingt *et* un ans aujourd'hui.
+  Er wird heute ein*und*zwanzig Jahre alt.
+
+  Je suis fatigué *et* je vais me coucher tôt.
+  Ich bin müde *und* werde früh ins Bett gehen.
+
+  Elle chante *et* danse comme une professionnelle.
+  Sie singt *und* tanzt wie ein Profi.
+
+  Nous avons visité Paris *et* ses monuments.
+  Wir haben Paris *und* seine Sehenswürdigkeiten besichtigt.
+
+  Il pleut *et* il fait froid dehors.
+  Es regnet *und* es ist kalt draußen.
+
+  *Et* si on allait au parc ?
+  *Und* wenn wir in den Park gehen würden?
+
+  Elle a réussi son examen, *et* de brillante façon !
+  Sie hat ihre Prüfung bestanden, *und* zwar glänzend!
+
+  Il y a café *et* café, tous n'ont pas la même qualité.
+  Es gibt Kaffee *und* Kaffee, nicht alle haben die gleiche Qualität.
+
+  Le chien *et* le chat dorment ensemble sur le canapé.
+  Der Hund *und* die Katze schlafen zusammen auf dem Sofa.
+
+  J'ai lu ce livre *et* je l'ai beaucoup aimé.
+  Ich habe dieses Buch gelesen *und* es hat mir sehr gut gefallen.
+
+  Elle joue du piano *et* de la guitare.
+  Sie spielt Klavier *und* Gitarre.
+
+  *Et* toi, qu'en penses-tu ?
+  *Und* du, was denkst du darüber?
+
+  Il faut agir vite *et* bien dans cette situation.
+  In dieser Situation muss man schnell *und* gut handeln.
+
+  J'ai mangé une pomme *et* demie ce matin.
+  Ich habe heute Morgen eineinhalb Äpfel gegessen.
+
+  *Et* voilà le travail !
+  *Und* fertig ist die Arbeit!
+
+  Nous avons marché pendant des heures *et* des heures.
+  Wir sind stundenlang gelaufen.
+
+  Il a bu *et* son amie aussi.
+  Er hat getrunken *und* seine Freundin auch.
+
+  *Et* dire que je ne savais rien !
+  *Und* ich wusste von nichts!
+
+  Elle a tout préparé, *et* bien préparé.
+  Sie hat alles vorbereitet, *und* zwar gut vorbereitet.
+
+  Ils se sont mariés *et* ont eu trois enfants.
+  Sie haben geheiratet *und* drei Kinder bekommen.
+
+  *Et* d'un, *et* de deux, *et* de trois !
+  *Und* eins, *und* zwei, *und* drei!
+
+  Le soleil brille *et* les oiseaux chantent.
+  Die Sonne scheint *und* die Vögel singen.
+
+  Il a travaillé dur *et* a réussi son examen.
+  Er hat hart gearbeitet *und* seine Prüfung bestanden.
+
+  Elle a étudié la médecine *et* est devenue chirurgienne.
+  Sie hat Medizin studiert *und* ist Chirurgin geworden.
+
+  J'ai lu ce livre *et* je l'ai trouvé fascinant.
+  Ich habe dieses Buch gelesen *und* es faszinierend gefunden.
+
+  Il pleut *et* pourtant les gens sont dehors.
+  Es regnet *und* trotzdem sind die Leute draußen.
+
+  *Et* comment ! Je suis tout à fait d'accord.
+  *Und* wie! Ich stimme völlig zu.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

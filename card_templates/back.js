@@ -123,7 +123,7 @@ function formatSentences(within = document) {
       return;
     }
 
-    const text = beautifyText(el.innerHTML, true);
+    const text = processText(el.innerHTML, true);
 
     // show audio button if sentence ends with punctuation
     const shouldShow =
@@ -147,7 +147,7 @@ function formatSentences(within = document) {
   });
 
   within.querySelectorAll(".de").forEach(function (el) {
-    el.innerHTML = beautifyText(el.innerHTML, false);
+    el.innerHTML = processText(el.innerHTML, false);
   });
 
   within.querySelectorAll(".spoiler").forEach(function (el) {
@@ -177,7 +177,7 @@ async function initAudioButtons(within = document) {
   if (within == document && options.autoPlaySentence) {
     setTimeout(() => {
       if (options.autoPlaySentenceInGerman) {
-        playAudio(sentencesPairs[0].split("\n")[1], "de-DE");
+        playAudio(sentencesPairs[0].split("\n")[1], undefined, "de-DE");
       } else {
         playAudio(sentencesPairs[0].split("\n")[0]);
       }

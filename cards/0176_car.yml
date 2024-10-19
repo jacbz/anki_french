@@ -13,14 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est dommage, car tu vas perdre un gros client.
-  Das ist schade, denn du verlierst einen großen Kunden.
+  C'est dommage, *car* tu vas perdre un gros client.
+  Das ist schade, *denn* du wirst einen wichtigen Kunden verlieren.
 
-  Je ne peux pas sortir, car il pleut.
-  Ich kann nicht rausgehen, da es regnet.
+  Elle ne peut pas sortir *car* elle est malade.
+  Sie kann nicht ausgehen, *denn* sie ist krank.
 
-  Il n'a pas pu venir à la fête, car il était malade.
-  Er konnte nicht zur Feier kommen, denn er war krank.
+  Nous avons pris le *car* pour visiter la région.
+  Wir haben den *Bus* genommen, um die Gegend zu besichtigen.
+
+  Je suis épuisé, *car* j'ai travaillé toute la nuit.
+  Ich bin erschöpft, *denn* ich habe die ganze Nacht gearbeitet.
+
+  Le *car* scolaire est en retard ce matin.
+  Der Schul*bus* hat heute Morgen Verspätung.
+
+  "Arrêtez de parler, *car* le film commence !"
+  "Hört auf zu reden, *denn* der Film fängt an!"
+
+  Les enfants sont montés dans le *car* de police pour une démonstration.
+  Die Kinder sind in den Polizei*bus* gestiegen, um eine Vorführung zu sehen.
+
+  Il faut être prudent *car* la route est glissante.
+  Man muss vorsichtig sein, *denn* die Straße ist rutschig.
+
+  Le *car* de reportage est arrivé sur les lieux de l'événement.
+  Der Fernseh-Übertragungswagen ist am Ort des Geschehens eingetroffen.
+
+  Nous avons réservé un *car* de trente places pour l'excursion.
+  Wir haben einen *Bus* mit dreißig Plätzen für den Ausflug reserviert.
+
+  J'ai choisi ce livre *car* son résumé m'intriguait.
+  Ich habe dieses Buch ausgewählt, *denn* seine Zusammenfassung hat mich neugierig gemacht.
+
+  Le *car* de ramassage scolaire passe à 7h30 chaque matin.
+  Der Schul*bus* kommt jeden Morgen um 7:30 Uhr.
+
+  Il a réussi *car* il a beaucoup travaillé.
+  Er hatte Erfolg, *denn* er hat viel gearbeitet.
+
+  Les touristes sont montés dans le *car* pour leur visite guidée.
+  Die Touristen sind in den *Bus* für ihre geführte Tour eingestiegen.
+
+  Nous devons partir maintenant, *car* le temps presse.
+  Wir müssen jetzt aufbrechen, *denn* die Zeit drängt.
+
+  Le *car* de police a été déployé pour maintenir l'ordre lors de la manifestation.
+  Der Polizei-Mannschaftswagen wurde eingesetzt, um während der Demonstration die Ordnung aufrechtzuerhalten.
+
+  Elle a choisi de voyager en *car*, *car* c'est moins cher que le train.
+  Sie hat sich entschieden, mit dem *Bus* zu reisen, *denn* es ist günstiger als der Zug.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

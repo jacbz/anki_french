@@ -13,29 +13,182 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  T’avais une chance sur un million.
-  Du hattest eine Chance von eins zu einer Million.
+  T'avais une chance *sur* un million.
+  Du hattest eine Chance von eins zu einer *Million*.
 
-  Le chat est sur la table.
-  Die Katze ist auf dem Tisch.
+  Le chat dort *sur* le canapé.
+  Die Katze schläft *auf* dem Sofa.
 
-  Sur sa recommandation, j'ai décidé de postuler pour ce poste.
-  Auf seine Empfehlung hin habe ich mich für diese Stelle beworben.
+  Nous avons marché *sur* la plage pendant des heures.
+  Wir sind stundenlang *am* Strand entlang gelaufen.
 
-  Ne me parle pas sur ce ton ! Je ne suis pas ton chien.
-  Sprich nicht so mit mir! Ich bin nicht dein Hund.
+  Il a posé le livre *sur* la table.
+  Er hat das Buch *auf* den Tisch gelegt.
 
-  Sur ses vieux jours, il a décidé de vendre sa maison et de déménager à la campagne.
-  Auf seine alten Tage hat er beschlossen, sein Haus zu verkaufen und aufs Land zu ziehen.
+  L'avion vole *sur* la ville.
+  Das Flugzeug fliegt *über* der Stadt.
 
-  Sur ce, je vous quitte, j'ai encore beaucoup de travail à faire.
-  Und nun gehe ich, ich habe noch viel zu tun.
+  J'ai écrit mon nom *sur* le formulaire.
+  Ich habe meinen Namen *auf* das Formular geschrieben.
 
-  Sur présentation d'une pièce d'identité, vous pourrez accéder au site.
-  Gegen Vorlage eines Ausweises erhalten Sie Zugang zum Gelände.
+  Le soleil brille *sur* la mer.
+  Die Sonne scheint *auf* das Meer.
 
-  Le jardin est magnifique, il fait cinq mètres sur quatre.
-  Der Garten ist wunderschön, er ist fünf auf vier Meter groß.
+  Elle a versé du sirop *sur* ses crêpes.
+  Sie hat Sirup *über* ihre Pfannkuchen gegossen.
+
+  Nous comptons *sur* votre discrétion.
+  Wir zählen *auf* Ihre Verschwiegenheit.
+
+  La clé est *sur* la porte.
+  Der Schlüssel steckt *in* der Tür.
+
+  Ce terrain *sur* lequel on a bâti est magnifique.
+  Das Grundstück, *auf* dem wir gebaut haben, ist wunderschön.
+
+  Les gens dormaient les uns *sur* les autres dans le train bondé.
+  Die Menschen schliefen im überfüllten Zug übereinander.
+
+  Je n'ai pas d'argent *sur* moi.
+  Ich habe kein Geld *bei* mir.
+
+  La plage s'étend *sur* huit kilomètres.
+  Der Strand erstreckt sich *über* acht Kilometer.
+
+  Appuyez *sur* le bouton pour commencer.
+  Drücken Sie *auf* den Knopf, um zu beginnen.
+
+  Ne tirez pas *sur* le messager !
+  Schießen Sie nicht *auf* den Boten!
+
+  Cherchez la ville *sur* la carte.
+  Suchen Sie die Stadt *auf* der Karte.
+
+  Il a prélevé de l'argent *sur* ses économies.
+  Er hat Geld von seinen Ersparnissen *abgehoben*.
+
+  L'impôt *sur* le revenu augmente chaque année.
+  Die Einkommensteuer steigt jedes Jahr.
+
+  Elle travaille un jour *sur* deux.
+  Sie arbeitet jeden zweiten Tag.
+
+  Regardez *sur* votre droite, vous verrez le monument.
+  Schauen Sie nach *rechts*, dort werden Sie das Denkmal sehen.
+
+  Le chien a foncé *sur* le facteur.
+  Der Hund ist *auf* den Briefträger losgestürzt.
+
+  Ne jugez pas les gens *sur* la mine.
+  Beurteilen Sie Menschen nicht nach ihrem *Aussehen*.
+
+  Il a juré *sur* son honneur de dire la vérité.
+  Er hat *bei* seiner Ehre geschworen, die Wahrheit zu sagen.
+
+  Ce costume a été fait *sur* mesure.
+  Dieser Anzug wurde *nach* Maß gefertigt.
+
+  J'ai appris quelque chose d'intéressant *sur* lui.
+  Ich habe etwas Interessantes *über* ihn erfahren.
+
+  Elle a écrit un essai *sur* la philosophie moderne.
+  Sie hat einen Aufsatz *über* moderne Philosophie geschrieben.
+
+  *Sur* le coup, je n'ai pas su quoi dire.
+  *Im* ersten Moment wusste ich nicht, was ich sagen sollte.
+
+  *Sur* ce, je vous laisse réfléchir à ma proposition.
+  *Damit* überlasse ich es Ihnen, über meinen Vorschlag nachzudenken.
+
+  Ils arriveront *sur* le soir.
+  Sie werden *gegen* Abend ankommen.
+
+  Nous sommes *sur* le départ, ne nous retardez pas.
+  Wir sind *im* Begriff aufzubrechen, halten Sie uns nicht auf.
+
+  Notre équipe a pris l'avantage *sur* l'adversaire.
+  Unsere Mannschaft hat die Oberhand *über* den Gegner gewonnen.
+
+  Restez *sur* vos gardes, le danger n'est pas écarté.
+  Bleiben Sie *auf* der Hut, die Gefahr ist nicht gebannt.
+
+  Ces pommes sont un peu *sures*.
+  Diese Äpfel sind ein bisschen *sauer*.
+
+  Le *sur*lendemain, tout était rentré dans l'ordre.
+  Am *über*nächsten Tag war alles wieder in Ordnung.
+
+  Cet enfant est *sur*doué en mathématiques.
+  Dieses Kind ist in Mathematik *hoch*begabt.
+
+  La foudre est tombée *sur* le clocher de l'église.
+  Der Blitz ist *in* den Kirchturm eingeschlagen.
+
+  Le gouvernement a institué un nouvel impôt *sur* le capital.
+  Die Regierung hat eine neue Steuer *auf* Kapital eingeführt.
+
+  Les troupes marchaient *sur* la capitale.
+  Die Truppen marschierten *auf* die Hauptstadt zu.
+
+  Cette somme sera retenue *sur* votre salaire.
+  Dieser Betrag wird von Ihrem Gehalt *einbehalten*.
+
+  J'ai obtenu 15 *sur* 20 à mon examen.
+  Ich habe 15 von 20 Punkten *in* meiner Prüfung erreicht.
+
+  La pièce mesure 6 mètres *sur* 4.
+  Der Raum misst 6 mal 4 Meter.
+
+  Elle l'a emporté *sur* tous ses concurrents.
+  Sie hat sich *gegen* alle ihre Konkurrenten durchgesetzt.
+
+  Ne le jugez pas *sur* les apparences.
+  Beurteilen Sie ihn nicht nach dem *Äußeren*.
+
+  Le comité doit se prononcer *sur* ce projet demain.
+  Das Komitee muss sich morgen zu diesem Projekt *äußern*.
+
+  Il joue magnifiquement *sur* un clavecin ancien.
+  Er spielt wunderbar *auf* einem alten Cembalo.
+
+  Les enfants apprennent à compter *sur* leurs doigts.
+  Die Kinder lernen, *an* den Fingern zu zählen.
+
+  L'équipe était *sur* la défensive pendant tout le match.
+  Die Mannschaft war während des ganzen Spiels *in* der Defensive.
+
+  *Sur* le soir, un orage violent a éclaté.
+  *Gegen* Abend brach ein heftiges Gewitter aus.
+
+  Il commet gaffe *sur* gaffe depuis ce matin.
+  Er macht seit heute Morgen einen Fehler nach dem *anderen*.
+
+  Le bateau navigue *sur* une mer agitée.
+  Das Boot segelt *auf* einem unruhigen Meer.
+
+  "Je compte *sur* toi pour garder le secret."
+  "Ich verlasse mich *darauf*, dass du das Geheimnis bewahrst."
+
+  Les oiseaux volent *sur* place face au vent fort.
+  Die Vögel fliegen *auf* der Stelle gegen den starken Wind.
+
+  Nous avons discuté *sur* plusieurs sujets intéressants.
+  Wir haben *über* mehrere interessante Themen diskutiert.
+
+  La neige s'accumule *sur* le toit de la maison.
+  Der Schnee häuft sich *auf* dem Dach des Hauses.
+
+  Elle a fait un exposé *sur* l'histoire de l'art.
+  Sie hat einen Vortrag *über* Kunstgeschichte gehalten.
+
+  Les prix sont affichés *sur* la vitrine du magasin.
+  Die Preise sind *im* Schaufenster des Geschäfts ausgestellt.
+
+  "*Sur* mon honneur, je n'ai rien volé !"
+  "*Bei* meiner Ehre, ich habe nichts gestohlen!"
+
+  Le médecin ausculte le patient allongé *sur* la table d'examen.
+  Der Arzt untersucht den Patienten, der *auf* dem Untersuchungstisch liegt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

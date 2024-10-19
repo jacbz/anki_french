@@ -13,14 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai reçu le scénario, je l’ai lu et j’ai adoré.
-  Ich erhielt das Drehbuch, las es und fand es toll.
+  J'ai reçu le *scénario*, je l'ai lu et j'ai adoré.
+  Ich habe das *Drehbuch* bekommen, es gelesen und war begeistert.
 
-  Le scénario du film est très bien écrit.
-  Das Drehbuch des Films ist sehr gut geschrieben.
+  Le *scénario* du film était si bien écrit qu'il a reçu un prix.
+  Das *Drehbuch* des Films war so gut geschrieben, dass es einen Preis gewonnen hat.
 
-  C'est toujours le même scénario&nbsp;: la société est divisée entre les riches et les pauvres, les puissants et les faibles.
-  Es ist immer dasselbe Spiel: die Gesellschaft ist gespalten in Reiche und Arme, Mächtige und Schwache.
+  L'auteur a passé des mois à peaufiner le *scénario* de sa bande dessinée.
+  Der Autor hat monatelang an der *Story* seines Comics gefeilt.
+
+  Le *scénario* de cette pièce de théâtre est assez simpliste.
+  Das *Gerüst* dieses Theaterstücks ist ziemlich simpel.
+
+  Les critiques ont loué la complexité du *scénario* de ce roman policier.
+  Die Kritiker lobten den komplexen *Aufbau* dieses Kriminalromans.
+
+  Le gouvernement a préparé plusieurs *scénarios* pour faire face à la crise.
+  Die Regierung hat mehrere *Szenarien* vorbereitet, um die Krise zu bewältigen.
+
+  Les experts ont élaboré différents *scénarios* du futur concernant le changement climatique.
+  Die Experten haben verschiedene *Zukunftsszenarien* bezüglich des Klimawandels ausgearbeitet.
+
+  "C'est toujours le même *scénario* avec toi : tu promets et tu ne tiens pas parole."
+  "Es ist immer dasselbe *Spiel* mit dir: Du versprichst etwas und hältst dein Wort nicht."
+
+  Le *scénario* des négociations a été modifié à la dernière minute.
+  Der *Ablauf* der Verhandlungen wurde in letzter Minute geändert.
+
+  "J'en ai marre d'écrire des *scénars* qui ne sont jamais produits", se plaignait le jeune scénariste.
+  "Ich habe es satt, *Drehbücher* zu schreiben, die nie verfilmt werden", beklagte sich der junge Drehbuchautor.
+
+  Les *scenarii* proposés par l'équipe créative étaient tous très originaux.
+  Die von dem Kreativteam vorgeschlagenen *Szenarien* waren alle sehr originell.
+
+  La cérémonie s'est déroulée selon un *scénario* bien réglé.
+  Die Zeremonie verlief nach einem genau festgelegten *Ablauf*.
+
+  Les économistes ont présenté trois *scénarios* possibles pour la reprise économique.
+  Die Ökonomen haben drei mögliche *Szenarien* für die wirtschaftliche Erholung vorgestellt.
+
+  Le *scénario* de cette comédie dell'arte laissait beaucoup de place à l'improvisation.
+  Das *Drehbuch* dieser Commedia dell'arte ließ viel Raum für Improvisation.
+
+  L'écriture du *scénario* a pris plus de temps que le tournage du film lui-même.
+  Das Schreiben des *Drehbuchs* hat länger gedauert als die Dreharbeiten des Films selbst.
+
+  Le réalisateur a demandé plusieurs modifications du *scénario* avant de commencer le tournage.
+  Der Regisseur hat vor Beginn der Dreharbeiten mehrere Änderungen am *Drehbuch* verlangt.
+
+  Les créateurs du jeu vidéo ont passé des mois à peaufiner le *scénario* pour le rendre plus immersif.
+  Die Entwickler des Videospiels haben monatelang am *Szenario* gefeilt, um es immersiver zu gestalten.
+
+  Les analystes politiques ont envisagé plusieurs *scénarios* pour les prochaines élections.
+  Die politischen Analysten haben mehrere *Szenarien* für die nächsten Wahlen in Betracht gezogen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

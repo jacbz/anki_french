@@ -13,17 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cette manifestation illustre les craintes des citoyens.
-  Diese Demonstration verdeutlicht die Befürchtungen der Bürger.
+  Cette manifestation *illustre* les craintes des citoyens.
+  Diese Demonstration *veranschaulicht* die Ängste der Bürger.
 
-  Ce livre est illustré par de belles images.
-  Dieses Buch wird durch schöne Bilder illustriert.
+  Le peintre a *illustré* le livre de contes avec de magnifiques aquarelles.
+  Der Maler hat das Märchenbuch mit wunderschönen Aquarellen *illustriert*.
 
-  Le professeur a illustré son cours de biologie avec des photos de microscopes électroniques.
-  Der Professor hat seinen Biologieunterricht mit Bildern aus dem Elektronenmikroskop illustriert.
+  Ses actes héroïques ont *illustré* le courage de notre nation.
+  Seine heldenhaften Taten haben den Mut unserer Nation *berühmt gemacht*.
 
-  L'architecte a illustré son projet de maison avec des plans et des maquettes.
-  Der Architekt hat sein Hausprojekt mit Plänen und Modellen illustriert.
+  Le professeur a *illustré* son cours avec des exemples concrets.
+  Der Lehrer hat seinen Unterricht mit konkreten Beispielen *veranschaulicht*.
+
+  Marie s'est *illustrée* dans le domaine de la recherche médicale.
+  Marie hat sich auf dem Gebiet der medizinischen Forschung einen *Namen gemacht*.
+
+  Ce graphique *illustre* parfaitement l'évolution des ventes.
+  Diese Grafik *veranschaulicht* die Entwicklung der Verkäufe perfekt.
+
+  L'artiste a *illustré* le poème avec des gravures sur bois.
+  Der Künstler hat das Gedicht mit Holzschnitten *illustriert*.
+
+  Son discours était *illustré* par des anecdotes personnelles.
+  Seine Rede wurde durch persönliche Anekdoten *veranschaulicht*.
+
+  Cette exposition *illustre* l'histoire de notre ville.
+  Diese Ausstellung *illustriert* die Geschichte unserer Stadt.
+
+  Le scientifique s'est *illustré* par ses découvertes révolutionnaires.
+  Der Wissenschaftler hat sich durch seine bahnbrechenden Entdeckungen *ausgezeichnet*.
+
+  J'ai acheté une édition *illustrée* des fables de La Fontaine.
+  Ich habe eine *illustrierte* Ausgabe der Fabeln von La Fontaine gekauft.
+
+  Cet incident *illustre* bien les problèmes de sécurité actuels.
+  Dieser Vorfall *veranschaulicht* die aktuellen Sicherheitsprobleme gut.
+
+  Le journaliste a *illustré* son article avec des photographies saisissantes.
+  Der Journalist hat seinen Artikel mit eindrucksvollen Fotografien *illustriert*.
+
+  Cette situation *illustre* parfaitement le dilemme auquel nous sommes confrontés.
+  Diese Situation *veranschaulicht* perfekt das Dilemma, mit dem wir konfrontiert sind.
+
+  Les exemples du dictionnaire *illustrent* les différents sens du mot.
+  Die Beispiele im Wörterbuch *veranschaulichen* die verschiedenen Bedeutungen des Wortes.
+
+  Le roman *illustre* les défis de la vie moderne.
+  Der Roman *veranschaulicht* die Herausforderungen des modernen Lebens.
+
+  "Il s'est *illustré* par sa maladresse lors de la réunion," dit-elle en riant.
+  "Er ist durch seine Ungeschicklichkeit bei dem Treffen *aufgefallen*", sagte sie lachend.
+
+  Cette expérience *illustre* le principe scientifique que nous étudions.
+  Dieses Experiment *veranschaulicht* das wissenschaftliche Prinzip, das wir untersuchen.
+
+  Le musée présente une collection d'affiches *illustrées* du 20e siècle.
+  Das Museum zeigt eine Sammlung *illustrierter* Plakate aus dem 20. Jahrhundert.
+
+  Les victoires de Napoléon ont *illustré* la puissance militaire française.
+  Napoleons Siege haben die französische Militärmacht *berühmt gemacht*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

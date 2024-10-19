@@ -13,20 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Pourquoi ne m’avais-tu pas averti?
-  Warum hast du mich nicht gewarnt?
+  Pourquoi ne m'avais-tu pas *averti* ?
+  Warum hast du mich nicht *gewarnt*?
 
-  Je vais l’avertir de la situation.
-  Ich werde ihn über die Situation informieren.
+  Je dois vous *avertir* que ce projet comporte des risques.
+  Ich muss Sie *warnen*, dass dieses Projekt Risiken birgt.
 
-  Je t'avertis que ça va mal aller.
-  Ich warne dich, da kommt nichts Gutes dabei heraus.
+  Le professeur a *averti* les élèves du changement d'horaire.
+  Der Lehrer hat die Schüler über die Zeitplanänderung *informiert*.
 
-  Il faut avertir Paul des risques qu'il prend.
-  Man muss Paul von den Risiken, die er eingeht, in Kenntnis setzen.
+  "Je t'*avertis*, si tu continues comme ça, tu auras des problèmes."
+  "Ich *warne* dich, wenn du so weitermachst, wirst du Probleme bekommen."
 
-  Je l'ai avertie que je viendrai la chercher à huit heures.
-  Ich habe ihr mitgeteilt, dass ich sie um acht Uhr abhole.
+  Il faut *avertir* la police immédiatement en cas d'accident.
+  Man muss die Polizei bei einem Unfall sofort *benachrichtigen*.
+
+  Son instinct l'a *averti* du danger imminent.
+  Sein Instinkt hat ihn vor der drohenden Gefahr *gewarnt*.
+
+  Nous l'avons *averti* de notre arrivée par téléphone.
+  Wir haben ihn telefonisch von unserer Ankunft *in Kenntnis gesetzt*.
+
+  Le panneau *avertit* les automobilistes d'un virage dangereux.
+  Das Schild *warnt* die Autofahrer vor einer gefährlichen Kurve.
+
+  Elle m'a *averti* qu'elle serait en retard.
+  Sie hat mich *benachrichtigt*, dass sie sich verspäten würde.
+
+  Les météorologues ont *averti* la population de l'approche d'une tempête.
+  Die Meteorologen haben die Bevölkerung vor dem herannahenden Sturm *gewarnt*.
+
+  "Je vous *en avertis* : les conséquences seront graves si vous ne respectez pas les règles."
+  "Ich *warne* Sie: Die Folgen werden ernst sein, wenn Sie die Regeln nicht einhalten."
+
+  Le système d'alarme *avertit* les occupants en cas d'incendie.
+  Das Alarmsystem *warnt* die Bewohner im Falle eines Brandes.
+
+  N'oubliez pas d'*avertir* vos voisins de la fête ce week-end.
+  Vergessen Sie nicht, Ihre Nachbarn von der Party am Wochenende zu *benachrichtigen*.
+
+  Le médecin l'a *averti* des risques liés à l'opération.
+  Der Arzt hat ihn über die mit der Operation verbundenen Risiken *aufgeklärt*.
+
+  Les panneaux routiers *avertissent* les conducteurs des travaux à venir.
+  Die Straßenschilder *warnen* die Fahrer vor bevorstehenden Bauarbeiten.
+
+  J'aurais dû vous *avertir* plus tôt de ce changement de programme.
+  Ich hätte Sie früher von dieser Programmänderung *in Kenntnis setzen* sollen.
+
+  Le capitaine a *averti* l'équipage de se préparer à une mer agitée.
+  Der Kapitän hat die Besatzung *gewarnt*, sich auf raue See vorzubereiten.
+
+  "Un homme *averti* en vaut deux," dit le proverbe.
+  "Ein *gewarnter* Mann ist so viel wert wie zwei," sagt das Sprichwort.
+
+  Le directeur l'a *averti* qu'il devrait améliorer ses performances.
+  Der Direktor hat ihn *darauf hingewiesen*, dass er seine Leistungen verbessern müsse.
+
+  Elle a *averti* ses parents qu'elle rentrerait tard.
+  Sie hat ihre Eltern *benachrichtigt*, dass sie spät nach Hause kommen würde.
+
+  Les autorités ont *averti* la population de ne pas sortir pendant la canicule.
+  Die Behörden haben die Bevölkerung *gewarnt*, während der Hitzewelle nicht nach draußen zu gehen.
+
+  Le panneau "Chien méchant" *avertit* les visiteurs du danger potentiel.
+  Das Schild "Bissiger Hund" *warnt* Besucher vor der möglichen Gefahr.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

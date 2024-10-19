@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cela constitue une atteinte aux traités existants.
-  Dies stellt einen Angriff auf bestehende Verträge dar.
+  Cela constitue une atteinte aux traités *existants*.
+  Das ist ein Verstoß gegen die *bestehenden* Verträge.
 
-  Les problèmes existants doivent être résolus.
-  Die vorhandenen Probleme müssen gelöst werden.
+  Les lois *existantes* ne protègent pas suffisamment l'environnement.
+  Die *bestehenden* Gesetze schützen die Umwelt nicht ausreichend.
+
+  Il faut adapter notre *existant* en magasin aux besoins des clients.
+  Wir müssen unseren *Warenbestand* an die Kundenbedürfnisse anpassen.
+
+  La philosophie étudie le monde *existant* dans toute sa complexité.
+  Die Philosophie untersucht die *existierende* Welt in ihrer ganzen Komplexität.
+
+  Nous devons élargir la clientèle *existante* avant la fin de l'année.
+  Wir müssen die *bestehende* Kundschaft bis zum Jahresende erweitern.
+
+  Le système *existant* nécessite une mise à jour complète.
+  Das *bestehende* System benötigt ein komplettes Update.
+
+  J'ai du mal à distinguer les choses *existantes* des choses imaginaires.
+  Ich tue mich schwer damit, *existierende* Dinge von imaginären zu unterscheiden.
+
+  Veuillez vérifier l'*existant* en caisse avant la fermeture.
+  Bitte überprüfen Sie den *Kassenbestand* vor Geschäftsschluss.
+
+  Notre approche doit tenir compte de l'*existant*.
+  Unser Ansatz muss das *Bestehende* berücksichtigen.
+
+  Les accords *existants* resteront valables jusqu'en 2025.
+  Die *bestehenden* Abkommen bleiben bis 2025 gültig.
+
+  L'infrastructure *existante* ne répond plus aux besoins actuels.
+  Die *vorhandene* Infrastruktur entspricht nicht mehr den aktuellen Bedürfnissen.
+
+  Nous devons repenser les structures *existantes*.
+  Wir müssen die *existierenden* Strukturen überdenken.
+
+  Le philosophe tente de saisir l'être comme *existant*.
+  Der Philosoph versucht, das Sein als *existierend* zu erfassen.
+
+  Je préfère améliorer les outils *existants* plutôt que d'en créer de nouveaux.
+  Ich verbessere lieber die *bestehenden* Werkzeuge, anstatt neue zu entwickeln.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

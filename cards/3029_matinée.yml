@@ -13,35 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai passé la matinée à lire.
-  Ich verbrachte den ganzen Vormittag mit Lesen.
+  J'ai passé la *matinée* à lire.
+  Ich habe den *Vormittag* mit Lesen verbracht.
 
-  Je travaille toute la matinée.
-  Ich arbeite den ganzen Vormittag.
+  Une belle *matinée* d'octobre nous a accueillis à notre arrivée.
+  Ein schöner Oktober*vormittag* begrüßte uns bei unserer Ankunft.
 
-  Elle était là toute la matinée.
-  Sie war den ganzen Morgen da.
+  Toute la *matinée*, les enfants ont joué dans le jardin.
+  Den ganzen *Vormittag* über haben die Kinder im Garten gespielt.
 
-  Je vais faire ça dans la matinée.
-  Ich werde das am Morgen tun.
+  Le médecin m'a dit qu'il me rappellerait dans la *matinée*.
+  Der Arzt sagte mir, er würde mich im Laufe des *Vormittags* zurückrufen.
 
-  Ne pouvons-nous pas en parler dans la matinée ?
-  Können wir das nicht am Vormittag besprechen?
+  Nous avons prévu une réunion mardi dans la *matinée*.
+  Wir haben für Dienstag*vormittag* eine Besprechung geplant.
 
-  C'était une belle matinée d'octobre, idéale pour une promenade en forêt.
-  Es war ein schöner Oktobermorgen, ideal für einen Waldspaziergang.
+  "Allez, debout ! Tu ne vas quand même pas faire la grasse *matinée* un jour de semaine !"
+  "Los, aufstehen! Du wirst doch wohl nicht an einem Wochentag *ausschlafen*!"
 
-  Après une nuit agitée, j'ai décidé de faire la grasse matinée.
-  Nach einer unruhigen Nacht habe ich beschlossen, auszuschlafen.
+  Le théâtre propose une représentation en *matinée* pour les familles.
+  Das Theater bietet eine *Nachmittagsvorstellung* für Familien an.
 
-  J'ai travaillé toute la matinée sur ce projet, sans prendre une seule pause.
-  Den ganzen Vormittag habe ich an diesem Projekt gearbeitet, ohne eine einzige Pause einzulegen.
+  Les *matinées* sont fraîches en cette saison, n'oublie pas ton pull.
+  Die *Vormittage* sind kühl in dieser Jahreszeit, vergiss deinen Pullover nicht.
 
-  Dans la matinée, j'ai reçu un appel important qui a changé le cours de ma journée.
-  Im Laufe des Vormittags erhielt ich einen wichtigen Anruf, der den Verlauf meines Tages veränderte.
+  Il ne fait rien de productif de toute la *matinée*, c'est inquiétant.
+  Er macht den ganzen *Vormittag* über nichts Produktives, das ist besorgniserregend.
 
-  Dans la matinée de lundi, je vais rencontrer mon avocat pour discuter de mon contrat.
-  Im Laufe des Montagvormittags werde ich meinen Anwalt treffen, um meinen Vertrag zu besprechen.
+  Après une longue *matinée* de travail, je me suis accordé une pause déjeuner bien méritée.
+  Nach einem langen *Arbeitsvormittag* habe ich mir eine wohlverdiente Mittagspause gegönnt.
+
+  La *matinée* musicale a été un grand succès, avec une salle comble.
+  Die musikalische *Matinee* war ein großer Erfolg, mit einem ausverkauften Saal.
+
+  Le début de *matinée* est le meilleur moment pour faire du sport.
+  Der frühe *Vormittag* ist die beste Zeit zum Sport treiben.
+
+  Dans la *matinée* de lundi, nous finaliserons le projet.
+  Im Laufe des *Montag*vormittags werden wir das Projekt abschließen.
+
+  Les élèves ont assisté à une *matinée* cinéma dans le cadre de leur cours de français.
+  Die Schüler haben im Rahmen ihres Französischunterrichts eine *Filmvorführung am Vormittag* besucht.
+
+  Je préfère travailler tôt le matin, ma productivité baisse en fin de *matinée*.
+  Ich arbeite lieber früh am Morgen, meine Produktivität sinkt gegen *Vormittag*ende.
+
+  La *matinée* portes ouvertes de l'université a attiré de nombreux lycéens.
+  Der Tag der offenen Tür der Universität am *Vormittag* hat viele Oberstufenschüler angezogen.
+
+  "Tu as dormi toute la *matinée* ? Tu as manqué un temps magnifique !"
+  "Hast du den ganzen *Vormittag* verschlafen? Du hast wunderschönes Wetter verpasst!"
+
+  Les *matinées* d'été sont idéales pour faire du jardinage avant qu'il ne fasse trop chaud.
+  Die Sommer*vormittage* sind ideal zum Gärtnern, bevor es zu heiß wird.
+
+  J'ai une *matinée* chargée demain, avec trois rendez-vous importants.
+  Ich habe morgen einen vollen *Vormittag* mit drei wichtigen Terminen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,14 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est là que réside l’avenir de nos enfants.
-  Hier liegt die Zukunft unserer Kinder.
+  C'est là que *réside* l'avenir de nos enfants.
+  Dort *liegt* die Zukunft unserer Kinder.
 
-  Je réside à Paris depuis deux ans.
-  Ich wohne seit zwei Jahren in Paris.
+  Ma grand-mère *réside* dans une maison de retraite depuis deux ans.
+  Meine Großmutter *wohnt* seit zwei Jahren in einem Altersheim.
 
-  Les étrangers qui résident en France ont souvent du mal à s'intégrer.
-  Die in Frankreich ansässigen Ausländer haben oft Schwierigkeiten, sich zu integrieren.
+  Le problème *réside* dans le manque de communication entre les départements.
+  Das Problem *liegt* im Mangel an Kommunikation zwischen den Abteilungen.
+
+  Nous *résidons* actuellement dans un petit appartement au centre-ville.
+  Wir *wohnen* derzeit in einer kleinen Wohnung im Stadtzentrum.
+
+  L'ambassadeur de France *réside* dans un magnifique hôtel particulier.
+  Der französische Botschafter *residiert* in einem prächtigen Stadtpalais.
+
+  La beauté de ce tableau *réside* dans sa simplicité.
+  Die Schönheit dieses Gemäldes *liegt* in seiner Einfachheit.
+
+  Pendant ses études, elle *résidait* chez sa tante à Paris.
+  Während ihres Studiums *wohnte* sie bei ihrer Tante in Paris.
+
+  Le pouvoir exécutif *réside* principalement entre les mains du président.
+  Die Exekutivgewalt *liegt* hauptsächlich in den Händen des Präsidenten.
+
+  Beaucoup d'étudiants étrangers *résident* dans des cités universitaires.
+  Viele ausländische Studenten *wohnen* in Studentenwohnheimen.
+
+  La difficulté *réside* dans la mise en œuvre de cette nouvelle politique.
+  Die Schwierigkeit *besteht* in der Umsetzung dieser neuen Politik.
+
+  "Où *résidez*-vous actuellement ?" demanda l'agent immobilier.
+  "Wo *wohnen* Sie zurzeit?", fragte der Immobilienmakler.
+
+  Le charme de cette ville *réside* dans son architecture médiévale.
+  Der Charme dieser Stadt *liegt* in ihrer mittelalterlichen Architektur.
+
+  Les moines *résidaient* autrefois dans ce monastère abandonné.
+  Die Mönche *lebten* früher in diesem verlassenen Kloster.
+
+  Notre force *réside* dans notre diversité et notre unité.
+  Unsere Stärke *liegt* in unserer Vielfalt und unserer Einheit.
+
+  Il *résidera* à l'étranger pendant au moins deux ans pour son travail.
+  Er wird für mindestens zwei Jahre berufsbedingt im Ausland *wohnen*.
+
+  La clé du succès *réside* souvent dans la persévérance.
+  Der Schlüssel zum Erfolg *liegt* oft in der Beharrlichkeit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

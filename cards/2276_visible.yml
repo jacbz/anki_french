@@ -13,26 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il a toujours des partenaires, visibles ou invisibles.
-  Er hat immer Partner, sowohl sichtbare als auch unsichtbare.
+  Il a toujours des partenaires, *visibles* ou invisibles.
+  Er hat immer Partner, *sichtbare* oder unsichtbare.
 
-  Le phare est visible de loin.
-  Der Leuchtturm ist von Weitem sichtbar.
+  Les étoiles ne sont pas *visibles* en plein jour.
+  Die Sterne sind am helllichten Tag nicht *sichtbar*.
 
-  La comète est visible à l'œil nu depuis plusieurs jours.
-  Die Komete ist seit mehreren Tagen mit bloßem Auge erkennbar.
+  La tension était *visible* sur son visage pendant l'entretien.
+  Die Anspannung war während des Gesprächs in seinem Gesicht *sichtbar*.
 
-  La tristesse était visible sur son visage.
-  Die Traurigkeit war an seinem Gesicht ablesbar.
+  Ce monument historique est *visible* du lundi au vendredi de 9h à 17h.
+  Dieses historische Denkmal ist von Montag bis Freitag von 9 bis 17 Uhr *zu besichtigen*.
 
-  Son désespoir est visible dans ses paroles.
-  Sein Verzweiflung ist in seinen Worten zu sprechen.
+  L'amélioration de sa santé était *visible* pour tous ses amis.
+  Die Verbesserung seiner Gesundheit war für all seine Freunde *sichtlich*.
 
-  Le château est visible du haut de la colline.
-  Das Schloss ist von oben auf dem Hügel zu besichtigen.
+  Les dégâts causés par la tempête sont *visibles* partout dans la ville.
+  Die Schäden, die der Sturm verursacht hat, sind überall in der Stadt *sichtbar*.
 
-  Il est visible qu'il va pleuvoir, les nuages sont noirs et menaçants.
-  Es ist offensichtlich, dass es Regen geben wird, die Wolken sind dunkel und bedrohlich.
+  Il est *visible* qu'elle n'a pas dormi de la nuit.
+  Es ist *offensichtlich*, dass sie die ganze Nacht nicht geschlafen hat.
+
+  Le directeur n'est pas *visible* aujourd'hui, il est en réunion.
+  Der Direktor ist heute nicht *zu sprechen*, er ist in einer Besprechung.
+
+  Cette galaxie lointaine n'est *visible* qu'avec un télescope puissant.
+  Diese ferne Galaxie ist nur mit einem leistungsstarken Teleskop *sichtbar*.
+
+  Son embarras était *visible* quand on lui a posé cette question délicate.
+  Seine Verlegenheit war *offensichtlich*, als man ihm diese heikle Frage stellte.
+
+  Les effets du réchauffement climatique deviennent de plus en plus *visibles*.
+  Die Auswirkungen des Klimawandels werden immer *sichtbarer*.
+
+  La différence de qualité entre les deux produits est clairement *visible*.
+  Der Qualitätsunterschied zwischen den beiden Produkten ist deutlich *erkennbar*.
+
+  Le bonheur était *visible* sur son visage le jour de son mariage.
+  Das Glück war am Tag ihrer Hochzeit in ihrem Gesicht *ablesbar*.
+
+  Cette exposition sur l'art moderne sera *visible* jusqu'à la fin du mois.
+  Diese Ausstellung über moderne Kunst wird bis zum Ende des Monats *zu sehen sein*.
+
+  Les premiers signes du printemps sont déjà *visibles* dans le jardin.
+  Die ersten Anzeichen des Frühlings sind im Garten bereits *sichtbar*.
+
+  La comète sera *visible* à l'œil nu pendant encore quelques jours.
+  Der Komet wird noch einige Tage lang mit bloßem Auge *sichtbar* sein.
+
+  Son mécontentement était *visible* dans sa façon de froncer les sourcils.
+  Seine Unzufriedenheit war an seinem Stirnrunzeln *sichtbar*.
+
+  Les résultats de son régime sont *visibles* : il a perdu beaucoup de poids.
+  Die Ergebnisse seiner Diät sind *sichtbar*: Er hat viel Gewicht verloren.
+
+  Le professeur n'est *visible* que sur rendez-vous.
+  Der Professor ist nur nach Vereinbarung *zu sprechen*.
+
+  La pollution de l'air est particulièrement *visible* dans les grandes villes.
+  Die Luftverschmutzung ist besonders in großen Städten *sichtbar*.
+
+  Les cicatrices de l'accident sont encore *visibles* sur son visage.
+  Die Narben des Unfalls sind in seinem Gesicht noch immer *sichtbar*.
+
+  L'anxiété était *visible* dans ses yeux avant l'examen important.
+  Die Angst war vor der wichtigen Prüfung in seinen Augen *sichtbar*.
+
+  Le nouveau bâtiment est *visible* de loin grâce à son architecture unique.
+  Das neue Gebäude ist dank seiner einzigartigen Architektur von weitem *sichtbar*.
+
+  Les progrès de l'élève sont *visibles* depuis qu'il prend des cours particuliers.
+  Die Fortschritte des Schülers sind *sichtbar*, seit er Nachhilfeunterricht nimmt.
+
+  La différence entre le *visible* et l'invisible fascine les philosophes depuis des siècles.
+  Der Unterschied zwischen dem *Sichtbaren* und dem Unsichtbaren fasziniert Philosophen seit Jahrhunderten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

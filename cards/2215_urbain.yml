@@ -13,20 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je vis en milieu urbain.
-  Ich lebe in einem städtischen Umfeld.
+  Je vis en milieu *urbain*.
+  Ich lebe im *städtischen* Umfeld.
 
-  Il préfère la vie urbaine.
-  Er bevorzugt das städtische Leben.
+  La pollution est un problème *urbain* majeur.
+  Die Verschmutzung ist ein großes *städtisches* Problem.
 
-  L'aménagement urbain est un domaine important pour le développement d'une ville.
-  Stadtplanung ist ein wichtiges Gebiet für die Entwicklung einer Stadt.
+  Les transports *urbains* sont essentiels pour une ville efficace.
+  Der *städtische* Nahverkehr ist entscheidend für eine effiziente Stadt.
 
-  Le paysage urbain est souvent le reflet de l'histoire et de la culture d'une ville.
-  Das Stadtbild spiegelt oft die Geschichte und Kultur einer Stadt wider.
+  L'éclairage *urbain* contribue à la sécurité des rues la nuit.
+  Die *städtische* Beleuchtung trägt zur Sicherheit der Straßen bei Nacht bei.
 
-  Une zone urbaine mixte permet de combiner différents types d'usages.
-  Ein Mischgebiet ermöglicht die Kombination verschiedener Nutzungsarten.
+  Le mobilier *urbain* comprend les bancs, les poubelles et les lampadaires.
+  Zur *städtischen* Möblierung gehören Bänke, Mülleimer und Straßenlaternen.
+
+  Les populations *urbaines* ont tendance à avoir un rythme de vie plus rapide.
+  *Städtische* Bevölkerungen neigen zu einem schnelleren Lebensrhythmus.
+
+  L'aménagement *urbain* vise à améliorer la qualité de vie des citadins.
+  Die *Stadtplanung* zielt darauf ab, die Lebensqualität der Stadtbewohner zu verbessern.
+
+  Le paysage *urbain* de Paris est caractérisé par ses monuments historiques.
+  Das *Stadtbild* von Paris ist durch seine historischen Denkmäler geprägt.
+
+  La zone *urbaine* mixte permet de combiner logements et commerces.
+  Das *städtische* Mischgebiet ermöglicht es, Wohnungen und Geschäfte zu kombinieren.
+
+  Les *urbains* et les ruraux ont parfois des modes de vie très différents.
+  *Stadtbewohner* und Landbewohner haben manchmal sehr unterschiedliche Lebensweisen.
+
+  Son comportement *urbain* et courtois a impressionné tout le monde.
+  Sein *höfliches* und kultiviertes Verhalten hat alle beeindruckt.
+
+  La mode *urbaine* s'inspire souvent de la culture hip-hop.
+  Die *urbane* Mode lässt sich oft von der Hip-Hop-Kultur inspirieren.
+
+  L'art *urbain* transforme les murs de la ville en véritables galeries.
+  *Urbane* Kunst verwandelt die Wände der Stadt in wahre Galerien.
+
+  L'agriculture *urbaine* gagne en popularité dans les grandes villes.
+  *Urbane* Landwirtschaft gewinnt in Großstädten an Beliebtheit.
+
+  L'aire *urbaine* de Lyon s'étend bien au-delà des limites de la ville.
+  Der *Ballungsraum* von Lyon erstreckt sich weit über die Stadtgrenzen hinaus.
+
+  La sociologie *urbaine* étudie les interactions sociales dans les villes.
+  Die *Stadtsoziologie* untersucht soziale Interaktionen in Städten.
+
+  Les cohortes *urbaines* maintenaient l'ordre dans la Rome antique.
+  Die *städtischen* Kohorten hielten in der Antike die Ordnung in Rom aufrecht.
+
+  Les cultures *urbaines* englobent le rap, le graff et le skateboard.
+  Zu den *urbanen* Kulturen gehören Rap, Graffiti und Skateboarding.
+
+  La croissance de la population *urbaine* pose des défis environnementaux.
+  Das Wachstum der *städtischen* Bevölkerung stellt ökologische Herausforderungen dar.
+
+  Les unités *urbaines* sont définies par la continuité du bâti.
+  *Städtische* Einheiten werden durch die Kontinuität der Bebauung definiert.
+
+  Le stress est souvent considéré comme un mal *urbain*.
+  Stress wird oft als ein *städtisches* Übel angesehen.
+
+  L'expansion *urbaine* menace parfois les espaces naturels environnants.
+  Die *Stadtausdehnung* bedroht manchmal die umliegenden Naturräume.
+
+  Les jardins *urbains* offrent des espaces verts précieux aux citadins.
+  *Städtische* Gärten bieten den Stadtbewohnern wertvolle Grünflächen.
+
+  La rénovation *urbaine* vise à moderniser les quartiers anciens.
+  Die *Stadterneuerung* zielt darauf ab, alte Viertel zu modernisieren.
+
+  Le bruit est un problème *urbain* qui affecte la qualité de vie.
+  Lärm ist ein *städtisches* Problem, das die Lebensqualität beeinträchtigt.
+
+  Les espaces *urbains* sont en constante évolution.
+  *Städtische* Räume befinden sich in ständigem Wandel.
+
+  La densification *urbaine* permet d'optimiser l'utilisation de l'espace.
+  Die *städtische* Verdichtung ermöglicht eine optimale Raumnutzung.
+
+  Le développement *urbain* durable est un défi majeur pour les villes modernes.
+  Eine nachhaltige *Stadtentwicklung* ist eine große Herausforderung für moderne Städte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

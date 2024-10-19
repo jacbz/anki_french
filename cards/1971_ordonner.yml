@@ -13,32 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Soldat, je vous ordonne d’avancer ces catapultes.
-  Soldat, ich befehle Ihnen, die Katapulte vorzuschieben.
+  Soldat, je vous *ordonne* d'avancer ces catapultes.
+  Soldat, ich *befehle* Ihnen, diese Katapulte vorzurücken.
 
-  Le général ordonne la retraite.
-  Der General befiehlt den Rückzug.
+  Le médecin m'a *ordonné* de prendre ces médicaments trois fois par jour.
+  Der Arzt hat mir *verordnet*, diese Medikamente dreimal täglich einzunehmen.
 
-  Le médecin a ordonné un traitement à la patiente.
-  Der Arzt hat der Patientin eine Behandlung verordnet.
+  Le juge a *ordonné* que l'accusé soit placé en détention provisoire.
+  Der Richter hat *angeordnet*, dass der Angeklagte in Untersuchungshaft genommen wird.
 
-  Après des heures de réflexion, mes idées se sont enfin ordonnées.
-  Nach stundenlangem Nachdenken kam endlich Klarheit in meine Gedanken.
+  Pendant la cérémonie, l'évêque a *ordonné* trois nouveaux prêtres.
+  Während der Zeremonie hat der Bischof drei neue Priester *geweiht*.
 
-  L'évêque a ordonné un nouveau prêtre pour la paroisse.
-  Der Bischof hat einen neuen Priester für die Gemeinde geweiht.
+  Il faut *ordonner* ces dossiers par ordre alphabétique pour les retrouver facilement.
+  Diese Akten müssen alphabetisch *geordnet* werden, um sie leicht wiederzufinden.
 
-  Le général a ordonné à ses soldats d'attaquer à l'aube.
-  Der General hat seinen Soldaten befohlen, im Morgengrauen anzugreifen.
+  Le professeur a *ordonné* aux élèves de rendre leurs devoirs avant la fin de la semaine.
+  Der Lehrer hat den Schülern *befohlen*, ihre Hausaufgaben vor Ende der Woche abzugeben.
 
-  Le juge a ordonné que le procès se déroule à huis clos.
-  Der Richter hat angeordnet, dass der Prozess unter Ausschluss der Öffentlichkeit stattfindet.
+  Le roi *ordonna* la construction d'un nouveau château sur la colline.
+  Der König *befahl* den Bau eines neuen Schlosses auf dem Hügel.
 
-  Le gouvernement a ordonné par décret la fermeture des écoles.
-  Die Regierung hat per Dekret die Schließung der Schulen verfügt.
+  L'architecte a soigneusement *ordonné* les espaces dans ce bâtiment moderne.
+  Der Architekt hat die Räume in diesem modernen Gebäude sorgfältig *angeordnet*.
 
-  La cour d'appel a ordonné par voie légale la libération du prisonnier.
-  Das Berufungsgericht hat per Gerichtsentscheid die Freilassung des Gefangenen verfügt.
+  Le capitaine *ordonna* à l'équipage de préparer le navire pour le départ immédiat.
+  Der Kapitän *befahl* der Besatzung, das Schiff für die sofortige Abfahrt vorzubereiten.
+
+  Mon patron m'a *ordonné* de terminer ce projet avant la fin du mois.
+  Mein Chef hat mir *aufgetragen*, dieses Projekt vor Ende des Monats abzuschließen.
+
+  Le tribunal a *ordonné* la fermeture temporaire de l'entreprise pour non-respect des normes.
+  Das Gericht hat die vorübergehende Schließung des Unternehmens wegen Nichteinhaltung der Standards *angeordnet*.
+
+  La police a *ordonné* l'évacuation immédiate du bâtiment en raison d'une menace à la bombe.
+  Die Polizei hat wegen einer Bombendrohung die sofortige Räumung des Gebäudes *angeordnet*.
+
+  Le général *ordonna* à ses troupes de se retirer sur une position plus défendable.
+  Der General *befahl* seinen Truppen, sich auf eine besser zu verteidigende Position zurückzuziehen.
+
+  Le maire a *ordonné* que toutes les rues soient nettoyées avant le festival.
+  Der Bürgermeister hat *angeordnet*, dass alle Straßen vor dem Festival gereinigt werden.
+
+  Les mathématiciens *ordonnent* souvent les nombres du plus petit au plus grand.
+  Mathematiker *ordnen* die Zahlen oft vom Kleinsten zum Größten.
+
+  Le chef cuisinier *ordonne* méticuleusement les ingrédients avant de commencer à cuisiner.
+  Der Küchenchef *ordnet* die Zutaten sorgfältig, bevor er mit dem Kochen beginnt.
+
+  Le président a *ordonné* une enquête approfondie sur les allégations de corruption.
+  Der Präsident hat eine gründliche Untersuchung der Korruptionsvorwürfe *angeordnet*.
+
+  Le médecin m'a *ordonné* de me reposer pendant au moins une semaine.
+  Der Arzt hat mir *verordnet*, mich mindestens eine Woche lang auszuruhen.
+
+  L'enseignant a *ordonné* aux élèves de ranger la salle de classe avant de partir.
+  Der Lehrer hat den Schülern *befohlen*, den Klassenraum aufzuräumen, bevor sie gehen.
+
+  Le gouvernement a *ordonné* la fermeture des frontières en raison de la pandémie.
+  Die Regierung hat wegen der Pandemie die Schließung der Grenzen *angeordnet*.
+
+  Le coach *ordonna* à ses joueurs de s'entraîner plus dur pour le prochain match.
+  Der Trainer *befahl* seinen Spielern, härter für das nächste Spiel zu trainieren.
+
+  Le directeur a *ordonné* que tous les employés assistent à la réunion demain matin.
+  Der Direktor hat *angeordnet*, dass alle Mitarbeiter morgen früh an der Besprechung teilnehmen.
+
+  La mère *ordonna* à ses enfants de ranger leurs jouets avant le dîner.
+  Die Mutter *befahl* ihren Kindern, vor dem Abendessen ihre Spielsachen aufzuräumen.
+
+  Le bibliothécaire *ordonne* soigneusement les livres sur les étagères.
+  Der Bibliothekar *ordnet* die Bücher sorgfältig in den Regalen.
+
+  Le chef d'orchestre *ordonne* les musiciens selon leurs instruments.
+  Der Dirigent *ordnet* die Musiker nach ihren Instrumenten.
+
+  L'avocat a *ordonné* à son client de ne pas parler aux médias.
+  Der Anwalt hat seinem Mandanten *befohlen*, nicht mit den Medien zu sprechen.
+
+  Le jardinier *ordonne* les plantes dans le jardin selon leur hauteur et leur couleur.
+  Der Gärtner *ordnet* die Pflanzen im Garten nach ihrer Höhe und Farbe.
+
+  Le professeur de mathématiques a *ordonné* le polynôme selon les puissances croissantes de x.
+  Der Mathematiklehrer hat das Polynom nach steigenden Potenzen von x *geordnet*.
+
+  Le psychiatre m'a *ordonné* de tenir un journal pour mieux comprendre mes émotions.
+  Der Psychiater hat mir *verordnet*, ein Tagebuch zu führen, um meine Gefühle besser zu verstehen.
+
+  Peu à peu, ses pensées confuses se sont *ordonnées* et il a pu prendre une décision.
+  Nach und nach haben sich seine verworrenen Gedanken *geordnet* und er konnte eine Entscheidung treffen.
+
+  Le chef de projet a *ordonné* les tâches par ordre de priorité.
+  Der Projektleiter hat die Aufgaben nach Priorität *geordnet*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,14 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il est toujours plus facile de promouvoir la haine que de la combattre.
-  Es ist immer einfacher, Hass zu fördern, als ihn zu bekämpfen.
+  Il est toujours plus facile de *promouvoir* la haine que de la combattre.
+  Es ist immer einfacher, Hass zu *fördern*, als ihn zu bekämpfen.
 
-  Il a été promu au poste de directeur.
-  Er wurde zum Direktor befördert.
+  L'entreprise a décidé de *promouvoir* Jean au poste de directeur des ventes.
+  Das Unternehmen hat beschlossen, Jean zum Vertriebsleiter zu *befördern*.
 
-  Le chef d'atelier a décidé de promouvoir Paul, le meilleur mécanicien de l'équipe, au poste de contremaître.
-  Der Werkstattleiter hat beschlossen, Paul, den besten Mechaniker des Teams, zum Werkmeister zu befördern.
+  Le gouvernement s'efforce de *promouvoir* l'utilisation des énergies renouvelables.
+  Die Regierung bemüht sich, die Nutzung erneuerbarer Energien zu *fördern*.
+
+  Notre mission est de *promouvoir* l'égalité des chances pour tous les citoyens.
+  Unsere Mission ist es, Chancengleichheit für alle Bürger zu *fördern*.
+
+  La campagne publicitaire vise à *promouvoir* notre nouvelle gamme de produits biologiques.
+  Die Werbekampagne zielt darauf ab, unsere neue Reihe von Bio-Produkten zu *bewerben*.
+
+  Marie a été *promue* au rang de directrice adjointe après des années de travail acharné.
+  Marie wurde nach Jahren harter Arbeit zur stellvertretenden Direktorin *befördert*.
+
+  L'association cherche à *promouvoir* la culture locale auprès des jeunes.
+  Der Verein versucht, die lokale Kultur bei jungen Menschen zu *fördern*.
+
+  Le festival de cinéma a pour but de *promouvoir* les jeunes réalisateurs talentueux.
+  Das Filmfestival hat zum Ziel, talentierte junge Regisseure zu *fördern*.
+
+  Cette politique vise à *promouvoir* l'innovation dans le secteur technologique.
+  Diese Politik zielt darauf ab, Innovation im Technologiesektor zu *fördern*.
+
+  L'entreprise *promeut* activement la diversité et l'inclusion sur le lieu de travail.
+  Das Unternehmen *fördert* aktiv Vielfalt und Inklusion am Arbeitsplatz.
+
+  Le comité a décidé de *promouvoir* trois employés au rang de cadre supérieur.
+  Der Ausschuss hat beschlossen, drei Mitarbeiter in leitende Positionen zu *befördern*.
+
+  Nous devons *promouvoir* une culture de respect et de tolérance dans notre société.
+  Wir müssen eine Kultur des Respekts und der Toleranz in unserer Gesellschaft *fördern*.
+
+  Le ministère de l'Éducation s'efforce de *promouvoir* l'apprentissage des langues étrangères.
+  Das Bildungsministerium bemüht sich, das Erlernen von Fremdsprachen zu *fördern*.
+
+  Cette campagne vise à *promouvoir* la santé mentale et le bien-être des employés.
+  Diese Kampagne zielt darauf ab, die psychische Gesundheit und das Wohlbefinden der Mitarbeiter zu *fördern*.
+
+  Le nouveau directeur a été chargé de *promouvoir* l'image de marque de l'entreprise.
+  Der neue Direktor wurde beauftragt, das Markenimage des Unternehmens zu *fördern*.
+
+  Les autorités locales cherchent à *promouvoir* le tourisme durable dans la région.
+  Die lokalen Behörden versuchen, nachhaltigen Tourismus in der Region zu *fördern*.
+
+  Cette initiative vise à *promouvoir* la lecture auprès des enfants dès leur plus jeune âge.
+  Diese Initiative zielt darauf ab, das Lesen bei Kindern von klein auf zu *fördern*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

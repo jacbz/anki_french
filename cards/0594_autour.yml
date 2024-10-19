@@ -13,44 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je t’emmènerai autour du monde.
-  Ich nehme dich mit um die Welt.
+  Je t'emmènerai *autour* du monde.
+  Ich werde dich *um* die Welt führen.
 
-  Nous nous sommes assis autour de la table.
-  Wir haben uns um den Tisch herumgesetzt.
+  Nous nous sommes assis *autour* de la table pour discuter.
+  Wir haben uns *um* den Tisch gesetzt, um zu diskutieren.
 
-  Regardez autour de toi.
-  Sieh dich um.
+  *Autour* de la maison, il y a un magnifique jardin.
+  *Um* das Haus herum gibt es einen wunderschönen Garten.
 
-  La ville est entourée de montagnes.
-  Die Stadt ist von Bergen umgeben.
+  Les enfants jouaient *autour* de la fontaine.
+  Die Kinder spielten *um* den Brunnen herum.
 
-  Il y a des arbres tout autour de la maison.
-  Ringsherum um das Haus stehen Bäume.
+  Il y a beaucoup de bruit *autour* de ce nouveau film.
+  Es gibt viel Aufregung *um* diesen neuen Film.
 
-  Les enfants ont joué tout autour de la balançoire.
-  Die Kinder spielten ringsherum um die Schaukel.
+  La Terre tourne *autour* du Soleil.
+  Die Erde dreht sich *um* die Sonne.
 
-  La fête a eu lieu autour de la piscine.
-  Die Party fand in der Umgebung des Schwimmbeckens statt.
+  "Arrête de tourner *autour* du pot et dis-moi la vérité !"
+  "Hör auf, *um* den heißen Brei herumzureden, und sag mir die Wahrheit!"
 
-  Le prix du billet est autour des 15 euros.
-  Der Preis des Tickets liegt um die 15 Euro.
+  Il a *autour* de quarante ans.
+  Er ist *um* die vierzig Jahre alt.
 
-  Il est arrivé autour des 15 heures.
-  Er kam gegen 15 Uhr an.
+  Les invités se sont rassemblés *autour* du feu.
+  Die Gäste haben sich *um* das Feuer versammelt.
 
-  Le marché a lieu tous les mercredis autour de la place de la ville.
-  Der Markt findet jeden Mittwoch in der Umgebung des Stadtplatzes statt.
+  J'ai mis une écharpe *autour* de mon cou.
+  Ich habe einen Schal *um* meinen Hals gelegt.
 
-  Nous avons fait un tour autour du lac.
-  Wir haben eine Runde um den See gemacht.
+  Tout *autour* de la ville, on peut voir des montagnes.
+  *Ringsherum* um die Stadt kann man Berge sehen.
 
-  La police a bouclé tout autour de l'immeuble.
-  Die Polizei hat den ganzen Block abgeriegelt.
+  Elle a regardé *autour* d'elle, mais ne vit personne.
+  Sie schaute sich *um*, sah aber niemanden.
 
-  Il y a une clôture autour du jardin.
-  Um den Garten herum ist ein Zaun.
+  Le débat tourne *autour* de la question de l'environnement.
+  Die Debatte dreht sich *um* die Umweltfrage.
+
+  Les satellites tournent *autour* de la Terre.
+  Die Satelliten kreisen *um* die Erde.
+
+  Il y a beaucoup de restaurants *autour* de la place.
+  Es gibt viele Restaurants in der *Umgebung* des Platzes.
+
+  Nous avons marché *autour* du lac.
+  Wir sind *um* den See herumgelaufen.
+
+  Le chien courait *autour* de son maître.
+  Der Hund lief *um* seinen Besitzer herum.
+
+  Elle a attaché un ruban *autour* du cadeau.
+  Sie hat ein Band *um* das Geschenk gebunden.
+
+  Les fans se sont rassemblés *autour* de la célébrité.
+  Die Fans haben sich *um* den Star versammelt.
+
+  Il y a eu beaucoup de spéculations *autour* de cette affaire.
+  Es gab viele Spekulationen *um* diese Angelegenheit.
+
+  L'*autour* est un oiseau rapace rare en France.
+  Der Habicht ist ein in Frankreich seltener Greifvogel.
+
+  Les gardes du corps se tenaient *autour* du président.
+  Die Leibwächter standen *um* den Präsidenten herum.
+
+  On a construit une clôture *autour* du parc.
+  Man hat einen Zaun *um* den Park herum gebaut.
+
+  Elle a placé des bougies *autour* de la baignoire.
+  Sie hat Kerzen *um* die Badewanne herum aufgestellt.
+
+  Le débat s'est articulé *autour* de trois points principaux.
+  Die Debatte drehte sich *um* drei Hauptpunkte.
+
+  Les manifestants se sont rassemblés *autour* de l'hôtel de ville.
+  Die Demonstranten haben sich *um* das Rathaus versammelt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

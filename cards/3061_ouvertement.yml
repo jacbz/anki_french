@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il a parlé assez ouvertement.
-  Er sprach ziemlich offen.
+  Il a parlé assez *ouvertement*.
+  Er hat ziemlich *offen* gesprochen.
 
-  Il a avoué son amour pour elle ouvertement.
-  Er hat seine Liebe zu ihr offen zugegeben.
+  Le politique a *ouvertement* critiqué la décision du gouvernement.
+  Der Politiker hat die Entscheidung der Regierung *offen* kritisiert.
+
+  Elle a exprimé ses opinions *ouvertement* lors de la réunion.
+  Sie hat ihre Meinungen während des Treffens *unverblümt* geäußert.
+
+  "Je n'aime pas quand les gens ne disent pas les choses *ouvertement*."
+  "Ich mag es nicht, wenn Leute die Dinge nicht *geradeheraus* sagen."
+
+  Le candidat s'est *ouvertement* opposé à la nouvelle loi.
+  Der Kandidat hat sich *öffentlich* gegen das neue Gesetz gestellt.
+
+  Les manifestants ont *ouvertement* défié l'autorité dans les rues.
+  Die Demonstranten haben die Autorität *offen* auf den Straßen herausgefordert.
+
+  Elle m'a dit *ouvertement* qu'elle n'aimait pas mon idée.
+  Sie hat mir *unumwunden* gesagt, dass ihr meine Idee nicht gefiel.
+
+  Le journal a *ouvertement* soutenu ce parti politique pendant la campagne.
+  Die Zeitung hat diese politische Partei während des Wahlkampfs *offen* unterstützt.
+
+  Il faut parler *ouvertement* de ces problèmes pour trouver des solutions.
+  Wir müssen *offen* über diese Probleme sprechen, um Lösungen zu finden.
+
+  L'entreprise a *ouvertement* reconnu ses erreurs dans un communiqué de presse.
+  Das Unternehmen hat in einer Pressemitteilung *öffentlich* seine Fehler eingeräumt.
+
+  Les deux pays sont maintenant *ouvertement* en conflit.
+  Die beiden Länder befinden sich jetzt *offen* im Konflikt.
+
+  Elle a *ouvertement* admis qu'elle avait tort dans cette situation.
+  Sie hat *freimütig* zugegeben, dass sie in dieser Situation falsch lag.
+
+  Le directeur a *ouvertement* félicité son équipe pour leur excellent travail.
+  Der Direktor hat sein Team *öffentlich* für ihre hervorragende Arbeit gelobt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

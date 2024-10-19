@@ -13,41 +13,179 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je me suis cassé un ongle.
-  Ich habe mir einen Fingernagel abgebrochen.
+  Je me suis cassé *un* ongle.
+  Ich habe mir *einen* Nagel abgebrochen.
 
-  Je voudrais un café s’il vous plaît.
-  Ich hätte gerne einen Kaffee bitte.
+  Il a fait *une* de ces scènes !
+  Er hat vielleicht *eine* Szene gemacht!
 
-  Il a affronté le danger avec un grand courage.
-  Er stellte sich der Gefahr mit großer Tapferkeit.
+  *Un* jour, nous visiterons Paris ensemble.
+  *Eines* Tages werden wir zusammen Paris besuchen.
 
-  Je connais un qui pourrait t'aider.
-  Ich kenne jemanden, der dir helfen könnte.
+  J'ai obtenu *un* sur vingt à l'examen de maths.
+  Ich habe in der Matheprüfung *eine* Sechs bekommen.
 
-  Le bébé aura bientôt un an.
-  Das Baby wird bald ein Jahr alt.
+  *Un*, je suis fatigué, deux, j'ai faim.
+  *Erstens* bin ich müde, und zweitens habe ich Hunger.
 
-  L'un dans l'autre, il est heureux.
-  Alles in allem ist er glücklich.
+  Elle a fait preuve d'*une* grande bonté envers les réfugiés.
+  Sie zeigte *eine* große Güte gegenüber den Flüchtlingen.
 
-  Tu peux choisir l'un ou l'autre.
-  Du kannst das eine oder das andere wählen.
+  Venez *un* jour quelconque de la semaine prochaine.
+  Kommen Sie *irgendwann* nächste Woche.
 
-  Il s'est battu à un contre trois.
-  Er kämpfte allein gegen drei.
+  Ce tableau n'est pas *un* Picasso !
+  Dieses Gemälde ist kein Picasso!
 
-  C'est un artiste comme pas un.
-  Er ist ein Künstler wie kein anderer.
+  Il y avait *un* de ces bruits dans la rue !
+  Es gab *einen* derartigen Lärm auf der Straße!
 
-  C'est tout un défi.
-  Das ist alles eine Herausforderung.
+  J'ai eu *une* de ces peurs quand j'ai vu l'araignée !
+  Ich habe vielleicht *eine* Angst gehabt, als ich die Spinne sah!
 
-  Ils ne font qu'un.
-  Sie sind ein Herz und eine Seele.
+  C'était *un* de ces jours où rien ne va comme prévu.
+  Das war vielleicht wieder *ein* Tag, an dem nichts wie geplant lief!
 
-  Un, je suis fatigué, deux, j'ai faim.
-  Erstens bin ich müde, und zweitens habe ich Hunger.
+  Elle est d'*une* amabilité rare.
+  Sie ist von *einer* solchen Liebenswürdigkeit, die selten ist.
+
+  La chambre d'hôtel était d'*une* saleté repoussante.
+  Das Hotelzimmer war von *einer* abstoßenden Schmutzigkeit.
+
+  Ce type est d'*un* culot incroyable !
+  Der Kerl ist von *einer* unglaublichen Frechheit!
+
+  J'en connais *un* qui ne sera pas content d'apprendre ça.
+  Ich kenne da *einen*, der nicht erfreut sein wird, das zu erfahren.
+
+  Elle est l'*une* des meilleures actrices de sa génération.
+  Sie ist *eine* der besten Schauspielerinnen ihrer Generation.
+
+  Prête-moi *un* de tes livres, s'il te plaît.
+  Leih mir bitte *eines* deiner Bücher.
+
+  À *un* de ces jours, mon ami !
+  Bis bald, mein Freund!
+
+  Je le ferai *un* de ces jours, quand j'aurai le temps.
+  Ich werde es *eines* Tages machen, wenn ich Zeit habe.
+
+  *Un* de ces jours, il va se faire prendre.
+  *Eines* schönen Tages wird er erwischt werden.
+
+  Les *uns* disent qu'il faut partir, les autres qu'il faut rester.
+  Die *einen* sagen, man müsse gehen, die anderen, man müsse bleiben.
+
+  Ces jumeaux sont aussi têtus l'*un* que l'autre.
+  Diese Zwillinge sind beide gleich stur.
+
+  Ils s'encouragent l'*un* l'autre dans leurs projets.
+  Sie ermutigen *einander* bei ihren Projekten.
+
+  Nous étions assis l'*un* en face de l'autre au restaurant.
+  Wir saßen *einander* gegenüber im Restaurant.
+
+  "Aimez-vous les *uns* les autres", c'est un beau message.
+  "Liebt *einander*", das ist eine schöne Botschaft.
+
+  L'*un* dans l'autre, la journée s'est bien passée.
+  Alles in allem ist der Tag gut verlaufen.
+
+  Tu peux choisir l'*une* ou l'autre option, elles sont équivalentes.
+  Du kannst die *eine* oder die andere Option wählen, sie sind gleichwertig.
+
+  Il a réussi à gagner à *un* contre trois.
+  Es ist ihm gelungen, allein gegen drei zu gewinnen.
+
+  Elle connaît cette ville comme pas *une*.
+  Sie kennt diese Stadt wie keine Zweite.
+
+  "Et d'*un* !" s'exclama-t-il en marquant le premier but.
+  "Das wäre das *Erste*!", rief er aus, als er das erste Tor schoss.
+
+  Nous avons examiné les dossiers *un* par *un*.
+  Wir haben die Akten *eine* nach der anderen geprüft.
+
+  Notre fille aura bientôt *un* an.
+  Unsere Tochter wird bald *ein* Jahr alt.
+
+  C'est *un* enfant d'*un* an très éveillé.
+  Es ist *ein* sehr aufgewecktes *einjähriges* Kind.
+
+  La garantie est valable pour *une* période d'*un* an.
+  Die Garantie gilt für *einen* Zeitraum von *einem* Jahr.
+
+  Il est *une* heure, nous devrions déjeuner.
+  Es ist *ein* Uhr, wir sollten zu Mittag essen.
+
+  Louis XIV est aussi connu sous le nom de Louis le Grand ou Louis *Un*.
+  Ludwig XIV. ist auch bekannt als Ludwig der Große oder Ludwig der *Erste*.
+
+  Pour les croyants, Dieu est *un* et unique.
+  Für die Gläubigen ist Gott *einzig* und allein.
+
+  Peu importe la couleur ou la forme, c'est tout *un* pour moi.
+  Egal ob Farbe oder Form, das ist für mich alles *eins*.
+
+  Après des années de mariage, ils ne font qu'*un*.
+  Nach Jahren der Ehe sind sie *ein* Herz und *eine* Seele.
+
+  Le cavalier ne fait qu'*un* avec son cheval pendant la course.
+  Der Reiter bildet *eine* Einheit mit seinem Pferd während des Rennens.
+
+  Il ne fit ni *une* ni deux et sauta dans la rivière.
+  Er überlegte nicht lange und sprang in den Fluss.
+
+  "C'était moins *une* ! J'ai failli rater mon train."
+  "Das war haarscharf! Ich hätte beinahe meinen Zug verpasst."
+
+  J'ai besoin d'*un* nouveau stylo pour écrire.
+  Ich brauche *einen* neuen Stift zum Schreiben.
+
+  Il y a *une* belle vue depuis le sommet de la montagne.
+  Es gibt *eine* schöne Aussicht vom Gipfel des Berges.
+
+  Nous avons passé *une* semaine merveilleuse en Italie.
+  Wir haben *eine* wunderbare Woche in Italien verbracht.
+
+  As-tu *une* idée de ce que nous pourrions faire ce week-end ?
+  Hast du *eine* Idee, was wir dieses Wochenende machen könnten?
+
+  Il m'a donné *un* conseil très utile pour mon entretien d'embauche.
+  Er gab mir *einen* sehr nützlichen Rat für mein Vorstellungsgespräch.
+
+  *Une* fois n'est pas coutume, je suis arrivé en avance au travail.
+  *Einmal* ist keinmal, ich bin früh zur Arbeit gekommen.
+
+  J'aimerais acheter *une* nouvelle voiture l'année prochaine.
+  Ich möchte nächstes Jahr *ein* neues Auto kaufen.
+
+  Il ne reste qu'*une* place disponible pour le concert de ce soir.
+  Es ist nur noch *ein* Platz für das Konzert heute Abend verfügbar.
+
+  Nous avons besoin d'*un* volontaire pour organiser la fête.
+  Wir brauchen *einen* Freiwilligen, um die Party zu organisieren.
+
+  Elle a *une* voix magnifique, elle devrait devenir chanteuse.
+  Sie hat *eine* wunderschöne Stimme, sie sollte Sängerin werden.
+
+  J'ai fait *un* rêve étrange la nuit dernière.
+  Ich hatte letzte Nacht *einen* seltsamen Traum.
+
+  Il faut toujours avoir *un* plan B au cas où le premier échouerait.
+  Man sollte immer *einen* Plan B haben, falls der erste scheitert.
+
+  Nous avons adopté *un* chaton abandonné le mois dernier.
+  Wir haben letzten Monat *ein* verlassenes Kätzchen adoptiert.
+
+  C'est *une* question difficile, laissez-moi réfléchir *un* moment.
+  Das ist *eine* schwierige Frage, lassen Sie mich *einen* Moment nachdenken.
+
+  Il a reçu *un* Oscar pour son rôle dans ce film.
+  Er hat *einen* Oscar für seine Rolle in diesem Film erhalten.
+
+  Nous avons passé *une* journée entière à nettoyer la maison.
+  Wir haben *einen* ganzen Tag damit verbracht, das Haus zu putzen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

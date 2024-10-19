@@ -13,14 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le rôle du nouveau gouverneur de l’île est si important.
-  Die Rolle des neuen Gouverneurs der Insel ist so wichtig.
+  Le rôle du nouveau *gouverneur* de l'île est si important.
+  Die Rolle des neuen *Gouverneurs* der Insel ist so wichtig.
 
-  Le gouverneur de la province a annoncé sa démission.
-  Der Gouverneur der Provinz hat seinen Rücktritt angekündigt.
+  Le *gouverneur* militaire a déclaré l'état d'urgence dans la région.
+  Der Militär*gouverneur* hat in der Region den Notstand ausgerufen.
 
-  Le général Dubois était le gouverneur militaire de la ville.
-  General Dubois war der Militärgouverneur der Stadt.
+  Au Canada, le *gouverneur* général représente symboliquement la Couronne britannique.
+  In Kanada repräsentiert der General*gouverneur* symbolisch die britische Krone.
+
+  Le *gouverneur* de la Banque de France a annoncé de nouvelles mesures économiques.
+  Der *Gouverneur* der französischen Zentralbank hat neue wirtschaftliche Maßnahmen angekündigt.
+
+  Aux États-Unis, chaque État élit son propre *gouverneur*.
+  In den Vereinigten Staaten wählt jeder Bundesstaat seinen eigenen *Gouverneur*.
+
+  Le *gouverneur* de la province belge a inauguré le nouveau musée.
+  Der *Gouverneur* der belgischen Provinz hat das neue Museum eingeweiht.
+
+  Dans l'Empire romain, les *gouverneurs* administraient les provinces conquises.
+  Im Römischen Reich verwalteten die *Gouverneure* die eroberten Provinzen.
+
+  Le jeune prince a reçu un nouveau *gouverneur* pour son éducation.
+  Der junge Prinz hat einen neuen *Erzieher* für seine Ausbildung erhalten.
+
+  "Monsieur le *Gouverneur*, nous avons besoin de votre aide urgente !"
+  "Herr *Gouverneur*, wir brauchen dringend Ihre Hilfe!"
+
+  Le *gouverneur* colonial a imposé de nouvelles lois controversées.
+  Der Kolonial*gouverneur* hat umstrittene neue Gesetze erlassen.
+
+  Sous l'Ancien Régime, le *gouverneur* de Bretagne était un poste très convoité.
+  Unter dem Ancien Régime war der Posten des *Gouverneurs* der Bretagne sehr begehrt.
+
+  Le *gouverneur* des Invalides a organisé une cérémonie en l'honneur des anciens combattants.
+  Der *Gouverneur* des Invalidendoms hat eine Zeremonie zu Ehren der Kriegsveteranen organisiert.
+
+  Au Sénégal, chaque région est administrée par un *gouverneur* nommé par l'État.
+  Im Senegal wird jede Region von einem vom Staat ernannten *Gouverneur* verwaltet.
+
+  Le *gouverneur* de la Banque centrale européenne a fait une déclaration importante.
+  Der *Präsident* der Europäischen Zentralbank hat eine wichtige Erklärung abgegeben.
+
+  Les pouvoirs du *gouverneur* de Californie sont comparables à ceux d'un chef d'État.
+  Die Befugnisse des *Gouverneurs* von Kalifornien sind mit denen eines Staatsoberhauptes vergleichbar.
+
+  Dans l'Empire byzantin, les *gouverneurs* jouaient un rôle crucial dans l'administration des thèmes.
+  Im Byzantinischen Reich spielten die *Gouverneure* eine entscheidende Rolle bei der Verwaltung der Themen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

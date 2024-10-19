@@ -13,23 +13,107 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai alors conçu le projet.
-  Daraufhin entwarf ich das Projekt.
+  J'ai alors *conçu* le projet.
+  Ich habe dann das Projekt *entworfen*.
 
-  Il a conçu un plan pour résoudre le problème.
-  Er hat einen Plan entworfen, um das Problem zu lösen.
+  Il est difficile de *concevoir* l'immensité de l'univers.
+  Es ist schwer, die Unermesslichkeit des Universums zu *begreifen*.
 
-  Le professeur a conçu son cours comme une expérience interactive.
-  Der Professor hat seinen Unterricht als interaktives Erlebnis konzipiert.
+  Marie a *conçu* son premier enfant à l'âge de 30 ans.
+  Marie hat ihr erstes Kind mit 30 Jahren *empfangen*.
 
-  Cela se conçoit facilement, pourquoi il est si fatigué.
-  Das kann man gut verstehen, warum er so müde ist.
+  Le comité a *conçu* un nouveau plan d'action.
+  Das Komitee hat einen neuen Aktionsplan *konzipiert*.
 
-  On conçoit sa déception, après avoir échoué à l'examen.
-  Seine Enttäuschung ist verständlich, nachdem er die Prüfung nicht bestanden hat.
+  Je ne peux pas *concevoir* qu'il ait agi ainsi.
+  Ich kann nicht *verstehen*, dass er so gehandelt hat.
 
-  Le pire qui puisse se concevoir, c'est que le train soit annulé.
-  Das Schlimmste, was man sich vorstellen kann, ist, dass der Zug ausfällt.
+  L'architecte a *conçu* un bâtiment moderne et écologique.
+  Der Architekt hat ein modernes und umweltfreundliches Gebäude *entworfen*.
+
+  Comment *concevoir* un monde sans injustice ?
+  Wie kann man sich eine Welt ohne Ungerechtigkeit *vorstellen*?
+
+  Cette voiture a été *conçue* pour la conduite en ville.
+  Dieses Auto wurde für das Fahren in der Stadt *konzipiert*.
+
+  Il a *conçu* une profonde amitié pour son voisin.
+  Er hat eine tiefe Freundschaft für seinen Nachbarn *entwickelt*.
+
+  Le roman a été *conçu* comme une critique sociale.
+  Der Roman wurde als Gesellschaftskritik *konzipiert*.
+
+  "Je ne peux pas *concevoir* que tu aies fait ça !"
+  "Ich kann nicht *begreifen*, dass du das getan hast!"
+
+  Les scientifiques ont *conçu* une nouvelle théorie sur l'origine de l'univers.
+  Die Wissenschaftler haben eine neue Theorie über den Ursprung des Universums *entwickelt*.
+
+  Cette idée a été *conçue* il y a longtemps.
+  Diese Idee wurde vor langer Zeit *erdacht*.
+
+  Comment *concevoir* un avenir meilleur pour nos enfants ?
+  Wie können wir eine bessere Zukunft für unsere Kinder *gestalten*?
+
+  Le philosophe a *conçu* un système de pensée original.
+  Der Philosoph hat ein originelles Denksystem *entwickelt*.
+
+  Je *conçois* que vous soyez déçu par cette décision.
+  Ich kann *verstehen*, dass Sie von dieser Entscheidung enttäuscht sind.
+
+  Cette machine a été *conçue* pour faciliter le travail des ouvriers.
+  Diese Maschine wurde *entwickelt*, um die Arbeit der Arbeiter zu erleichtern.
+
+  Il est difficile de *concevoir* l'étendue des dégâts causés par le changement climatique.
+  Es ist schwierig, das Ausmaß der durch den Klimawandel verursachten Schäden zu *erfassen*.
+
+  L'artiste a *conçu* une œuvre provocante et controversée.
+  Der Künstler hat ein provokatives und kontroverses Werk *geschaffen*.
+
+  Comment *concevoir* un monde sans frontières ?
+  Wie kann man sich eine Welt ohne Grenzen *vorstellen*?
+
+  Le projet a été *conçu* pour répondre aux besoins de la communauté.
+  Das Projekt wurde *entworfen*, um den Bedürfnissen der Gemeinschaft gerecht zu werden.
+
+  Je ne peux pas *concevoir* qu'il ait menti délibérément.
+  Ich kann nicht *begreifen*, dass er absichtlich gelogen hat.
+
+  L'ingénieur a *conçu* un nouveau système de filtration d'eau.
+  Der Ingenieur hat ein neues Wasserfiltrationssystem *konzipiert*.
+
+  Cette stratégie a été *conçue* pour maximiser les profits.
+  Diese Strategie wurde *entwickelt*, um die Gewinne zu maximieren.
+
+  Il a *conçu* un plan audacieux pour sauver l'entreprise.
+  Er hat einen kühnen Plan *entworfen*, um das Unternehmen zu retten.
+
+  Comment *concevoir* l'éducation au 21e siècle ?
+  Wie kann man Bildung im 21. Jahrhundert *gestalten*?
+
+  Le chercheur a *conçu* une expérience novatrice.
+  Der Forscher hat ein innovatives Experiment *entworfen*.
+
+  Cette politique a été *conçue* pour protéger l'environnement.
+  Diese Politik wurde *konzipiert*, um die Umwelt zu schützen.
+
+  Je *conçois* que ce changement puisse être difficile pour vous.
+  Ich kann *verstehen*, dass diese Veränderung für Sie schwierig sein kann.
+
+  L'équipe a *conçu* une application révolutionnaire.
+  Das Team hat eine revolutionäre App *entwickelt*.
+
+  Comment *concevoir* une société plus juste et équitable ?
+  Wie kann man eine gerechtere und fairere Gesellschaft *gestalten*?
+
+  Le programme a été *conçu* pour aider les étudiants en difficulté.
+  Das Programm wurde *konzipiert*, um Schülern mit Schwierigkeiten zu helfen.
+
+  Je ne peux pas *concevoir* un monde sans musique.
+  Ich kann mir eine Welt ohne Musik nicht *vorstellen*.
+
+  L'urbaniste a *conçu* un plan de ville durable et innovant.
+  Der Stadtplaner hat einen nachhaltigen und innovativen Stadtplan *entworfen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,26 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La réaction en chaîne est amorcée.
-  Die Kettenreaktion wird eingeleitet.
+  La réaction en chaîne est *amorcée*.
+  Die Kettenreaktion ist *ausgelöst*.
 
-  Il faut amorcer la discussion.
-  Wir müssen die Diskussion beginnen.
+  Le pêcheur *amorce* son hameçon avec un ver de terre.
+  Der Angler *ködert* seinen Haken mit einem Regenwurm *an*.
 
-  J'ai amorcé l'hameçon avec un ver avant de le lancer dans l'eau.
-  Ich habe einen Wurm angeködert, bevor ich die Angelrute ins Wasser geworfen habe.
+  Nous devons *amorcer* la pompe avant de l'utiliser.
+  Wir müssen die Pumpe *ansaugen* lassen, bevor wir sie benutzen.
 
-  Il faut amorcer la pompe avant de l'utiliser.
-  Man muss die Pumpe ansaugen lassen, bevor man sie benutzt.
+  L'entreprise a *amorcé* la construction d'un nouveau tunnel.
+  Das Unternehmen hat mit dem *Bau* eines neuen Tunnels *begonnen*.
 
-  Le gouvernement a amorcé la construction d'une nouvelle route pour désengorger le trafic.
-  Die Regierung hat mit dem Bau einer neuen Straße begonnen, um den Verkehr zu entlasten.
+  Le pilote *amorce* un virage serré pour éviter l'obstacle.
+  Der Pilot *geht* in eine enge Kurve, um das Hindernis zu vermeiden.
 
-  Le pilote a amorcé un virage serré pour éviter un obstacle.
-  Der Pilot ist in eine scharfe Kurve gegangen, um ein Hindernis zu umfahren.
+  Les deux pays ont *amorcé* des négociations de paix.
+  Die beiden Länder haben Friedensverhandlungen *aufgenommen*.
 
-  Ces machines ne seront certainement pas capables d'amorcer depuis le disque dur à moins que le microprogramme ne soit corrigé.
-  Diese Maschinen werden höchstwahrscheinlich nicht von der Festplatte booten können, wenn die Firmware nicht gepatcht wird.
+  Une baisse des prix s'*amorce* sur le marché immobilier.
+  Auf dem Immobilienmarkt *zeichnet sich* ein Preisrückgang *ab*.
+
+  Il faut *amorcer* le siphon avec de l'eau pour qu'il fonctionne.
+  Man muss den Siphon mit Wasser *füllen*, damit er funktioniert.
+
+  Le gouvernement *amorce* une réforme du système éducatif.
+  Die Regierung *leitet* eine Reform des Bildungssystems *ein*.
+
+  Les scientifiques ont *amorcé* une nouvelle série d'expériences.
+  Die Wissenschaftler haben eine neue Reihe von Experimenten *begonnen*.
+
+  L'artiste *amorce* son tableau par une esquisse au fusain.
+  Der Künstler *beginnt* sein Gemälde mit einer Kohleskizze.
+
+  La police a *amorcé* une enquête sur les récents cambriolages.
+  Die Polizei hat eine Untersuchung der jüngsten Einbrüche *eingeleitet*.
+
+  Le mécanicien *amorce* le moteur en tournant la clé de contact.
+  Der Mechaniker *startet* den Motor, indem er den Zündschlüssel dreht.
+
+  Les danseurs *amorcent* leur chorégraphie par un mouvement lent.
+  Die Tänzer *beginnen* ihre Choreographie mit einer langsamen Bewegung.
+
+  Il faut *amorcer* la perceuse avant de commencer à forer.
+  Man muss die Bohrmaschine *vorbohren*, bevor man mit dem Bohren beginnt.
+
+  Le diplomate a habilement *amorcé* le dialogue entre les parties.
+  Der Diplomat hat geschickt den Dialog zwischen den Parteien *in Gang gebracht*.
+
+  La décrue du fleuve s'*amorce* après plusieurs jours de pluie.
+  Der Rückgang des Flusses *zeichnet sich* nach mehreren Regentagen *ab*.
+
+  L'écrivain *amorce* son roman par une scène captivante.
+  Der Schriftsteller *beginnt* seinen Roman mit einer fesselnden Szene.
+
+  Les manifestants ont *amorcé* leur marche vers le centre-ville.
+  Die Demonstranten haben ihren Marsch in Richtung Stadtzentrum *begonnen*.
+
+  Le chirurgien *amorce* l'incision avec précision.
+  Der Chirurg *beginnt* den Schnitt mit Präzision.
+
+  L'entreprise *amorce* un virage stratégique vers le numérique.
+  Das Unternehmen *leitet* eine strategische Wende hin zur Digitalisierung *ein*.
+
+  Le conférencier *amorce* son discours par une anecdote amusante.
+  Der Redner *beginnt* seine Rede mit einer amüsanten Anekdote.
+
+  Les pompiers ont *amorcé* l'extinction de l'incendie par le toit.
+  Die Feuerwehrleute haben vom Dach aus mit der *Bekämpfung* des Brandes *begonnen*.
+
+  Le joueur *amorce* sa course vers le but adverse.
+  Der Spieler *setzt* zum Lauf in Richtung gegnerisches Tor *an*.
+
+  L'alpiniste *amorce* son ascension au lever du soleil.
+  Der Bergsteiger *beginnt* seinen Aufstieg bei Sonnenaufgang.
+
+  Le processus de paix s'*amorce* enfin après des années de conflit.
+  Der Friedensprozess *kommt* endlich nach Jahren des Konflikts *in Gang*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

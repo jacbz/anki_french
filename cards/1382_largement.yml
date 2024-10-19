@@ -13,41 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On doit payer largement sa part d’impôt.
-  Man muss seinen Anteil an der Steuer weitgehend bezahlen.
+  On doit payer *largement* sa part d'impôt.
+  Man muss seinen Steueranteil *großzügig* bezahlen.
 
-  Il a largement gagné la compétition.
-  Er hat den Wettbewerb weitgehend gewonnen.
+  Cette opinion est *largement* répandue dans la population.
+  Diese Meinung ist in der Bevölkerung weit *verbreitet*.
 
-  La conviction que les femmes sont moins compétentes en mathématiques est une opinion largement répandue.
-  Die Überzeugung, dass Frauen weniger kompetent in Mathematik sind, ist eine weit verbreitete Meinung.
+  Vous avez *largement* le temps de finir votre travail.
+  Sie haben *bei weitem* genug Zeit, um Ihre Arbeit zu beenden.
 
-  Vous avez largement le temps de réfléchir à votre décision avant de vous engager.
-  Sie haben reichlich Zeit, über Ihre Entscheidung nachzudenken, bevor Sie sich festlegen.
+  L'équipe de Paris a *largement* battu celle de Lyon.
+  Die Mannschaft aus Paris hat die aus Lyon *haushoch* geschlagen.
 
-  Le cuisinier a poivré largement le plat, ce qui a donné un goût piquant.
-  Der Koch hat das Gericht kräftig gepfeffert, was ihm einen pikanten Geschmack verliehen hat.
+  Il y a *largement* assez de nourriture pour tout le monde.
+  Es gibt *weitaus* genug Essen für alle.
 
-  Il est largement onze heures, il est temps de se coucher.
-  Es ist längst elf Uhr, es ist Zeit ins Bett zu gehen.
+  La fenêtre était *largement* ouverte pour laisser entrer l'air frais.
+  Das Fenster war weit *geöffnet*, um frische Luft hereinzulassen.
 
-  Un seul gâteau suffit pour le goûter, c'est largement suffisant.
-  Ein einziger Kuchen reicht für die Teestunde, das reicht gut.
+  Cette somme est *largement* suffisante pour couvrir les frais.
+  Diese Summe ist *mehr als* ausreichend, um die Kosten zu decken.
 
-  Marseille est largement premier au classement, il est difficile de le rattraper.
-  Marseille führt mit Abstand in der Rangliste, es ist schwer, sie einzuholen.
+  Le sujet du débat a *largement* dépassé le cadre initial.
+  Das Thema der Debatte ist weit über den ursprünglichen Rahmen *hinausgegangen*.
 
-  On a largement assez de nourriture pour tout le monde, il n'y a pas besoin de s'inquiéter.
-  Wir haben weitaus genug Essen für alle, es gibt keinen Grund zur Sorge.
+  Il faut poivrer *largement* ce plat pour qu'il soit savoureux.
+  Man muss dieses Gericht *kräftig* pfeffern, damit es schmackhaft wird.
 
-  Il a mangé largement trop de gâteau, il a mal au ventre maintenant.
-  Er hat viel zu viel Kuchen gegessen, ihm tut jetzt der Bauch weh.
+  "Il est *largement* l'heure de partir," dit-elle en regardant sa montre.
+  "Es ist *längst* Zeit zu gehen", sagte sie mit einem Blick auf ihre Uhr.
 
-  Le professeur a débordé largement du sujet, ce qui a rendu le cours très long.
-  Der Professor ist weit über das Thema hinausgegangen, was den Unterricht sehr lang gemacht hat.
+  Cette solution devrait *largement* convenir à nos besoins.
+  Diese Lösung sollte unseren Bedürfnissen *gut* entsprechen.
 
-  Il y en a déjà largement assez de problèmes dans le monde, il n'est pas nécessaire d'en ajouter d'autres.
-  Es ist schon genug davon da, Probleme in der Welt, es ist nicht nötig, noch mehr hinzuzufügen.
+  Le candidat a été *largement* élu dès le premier tour.
+  Der Kandidat wurde bereits im ersten Wahlgang mit *großem* Vorsprung gewählt.
+
+  Les avantages de cette méthode *dépassent largement* ses inconvénients.
+  Die Vorteile dieser Methode *überwiegen bei weitem* ihre Nachteile.
+
+  Elle gagne *largement* sa vie comme avocate.
+  Sie verdient als Anwältin *sehr gut* ihren Lebensunterhalt.
+
+  Le budget a été *largement* dépassé pour ce projet.
+  Das Budget für dieses Projekt wurde *weit* überschritten.
+
+  Cette théorie est *largement* acceptée dans la communauté scientifique.
+  Diese Theorie ist in der wissenschaftlichen Gemeinschaft *weithin* akzeptiert.
+
+  Il a *largement* mérité cette promotion.
+  Er hat diese Beförderung *reichlich* verdient.
+
+  La salle de concert était *largement* remplie pour le spectacle.
+  Der Konzertsaal war für die Aufführung *gut* gefüllt.
+
+  Cette entreprise *dépasse largement* ses concurrents en termes d'innovation.
+  Dieses Unternehmen *übertrifft bei weitem* seine Konkurrenten in Sachen Innovation.
+
+  Les frontières ont été *largement* ouvertes aux réfugiés.
+  Die Grenzen wurden für Flüchtlinge weit *geöffnet*.
+
+  Il faut *largement* diffuser cette information importante.
+  Diese wichtige Information muss *breit* gestreut werden.
+
+  Le nouveau modèle est *largement* supérieur à l'ancien.
+  Das neue Modell ist dem alten *weit* überlegen.
+
+  Cette décision a été *largement* influencée par l'opinion publique.
+  Diese Entscheidung wurde *maßgeblich* von der öffentlichen Meinung beeinflusst.
+
+  Il a *largement* profité de cette opportunité pour avancer sa carrière.
+  Er hat diese Gelegenheit *ausgiebig* genutzt, um seine Karriere voranzutreiben.
+
+  Le coût réel *dépasse largement* les estimations initiales.
+  Die tatsächlichen Kosten *übersteigen bei weitem* die ursprünglichen Schätzungen.
+
+  Cette mesure a été *largement* approuvée par le parlement.
+  Diese Maßnahme wurde vom Parlament mit *großer* Mehrheit gebilligt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

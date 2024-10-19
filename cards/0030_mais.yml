@@ -13,50 +13,134 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je ne suis pas riche, mais je connais la vérité.
-  Ich bin nicht reich, aber ich kenne die Wahrheit.
+  Je ne suis pas riche, *mais* je connais la vérité.
+  Ich bin nicht reich, *aber* ich kenne die Wahrheit.
 
-  On n'est pas jeudi, mais vendredi.
-  Heute ist nicht Donnerstag, sondern Freitag.
+  Il est intelligent, *mais* paresseux.
+  Er ist intelligent, *aber* faul.
 
-  Non seulement il arrive en retard, mais en plus il ne s'excuse pas.
-  Er kommt nicht nur zu spät, sondern entschuldigt sich auch nicht.
+  Ce n'est pas bleu, *mais* gris.
+  Das ist nicht blau, *sondern* grau.
 
-  Mais enfin, combien de temps faut-il encore vous attendre?
-  Wie lange müssen wir noch auf Sie warten?
+  Non seulement il arrive en retard, *mais* en plus il ne s'excuse pas.
+  Nicht nur kommt er zu spät, er entschuldigt sich noch nicht einmal.
 
-  Il n'est pas encore arrivé? Mais il est déjà 8 heures.
-  Er ist noch nicht da? Aber es ist schon acht Uhr.
+  Il n'est pas encore arrivé ? *Mais* il est déjà 8 heures !
+  Ist er noch nicht da? Es ist *doch* schon 8 Uhr!
 
-  Paul est intelligent, mais paresseux, ce qui le rend souvent inefficace.
-  Paul ist intelligent, aber faul, was ihn oft ineffektiv macht.
+  *Mais* oui, bien sûr !
+  *Aber* klar!
 
-  Pierre n'est pas encore arrivé? Mais il est déjà 8 heures! Où peut-il bien être?
-  Ist Pierre noch nicht da? Es ist doch schon 8 Uhr! Wo kann er nur sein?
+  *Mais* si, je t'assure que c'est vrai !
+  *Aber* ja doch, ich versichere dir, dass es wahr ist!
 
-  "Je ne peux pas venir au cinéma ce soir." "Il n'y a pas de mais! On y va!"
-  "Ich kann heute Abend nicht ins Kino kommen." "Da gibt es kein Aber! Wir gehen!"
+  *Mais* non, ce n'est pas comme ça qu'on fait !
+  *Aber* nein, so macht man das nicht!
 
-  On n'est pas jeudi, mais vendredi, donc on peut se permettre de se détendre un peu.
-  Heute ist nicht Donnerstag, sondern Freitag, also können wir uns etwas entspannen.
+  *Mais* aie confiance en toi !
+  Hab *doch* Vertrauen in dich!
 
-  Non seulement il arrive en retard, mais en plus il ne s'excuse pas! C'est vraiment irrespectueux.
-  Nicht nur, dass er zu spät kommt, er entschuldigt sich noch nicht einmal! Das ist wirklich respektlos.
+  *Mais* c'est pas possible !
+  *Also* das ist doch nicht die Möglichkeit!
 
-  "Tu as gagné au loto?" "Mais c'est pas possible! C'est une blague, n'est-ce pas?"
-  "Du hast im Lotto gewonnen?" "Also das ist doch nicht die Möglichkeit! Das ist doch ein Witz, oder?"
+  *Mais*, vous n'avez pas encore mangé ?
+  Was, ihr habt noch nicht gegessen?
 
-  Mais enfin, combien de temps faut-il encore vous attendre? Vous nous faites perdre un temps précieux!
-  Also bitte, wie lange sollen wir denn noch auf euch warten? Ihr verschwendet unsere wertvolle Zeit!
+  *Mais* enfin, combien de temps faut-il encore vous attendre ?
+  *Also* bitte, wie lange sollen wir denn noch auf euch warten?
 
-  Non mais, tu me prends pour un idiot? Je sais très bien ce que je fais!
-  Also hör mal, hältst du mich für einen Idioten? Ich weiß genau, was ich tue!
+  J'aimerais venir, *mais* encore faut-il que j'aie le temps.
+  Ich würde gerne kommen, *aber* dafür muss ich erst einmal Zeit haben.
 
-  Oui, mais il faut d'abord que je termine ce rapport avant de pouvoir partir.
-  Ja, aber ich muss zuerst diesen Bericht fertig stellen, bevor ich gehen kann.
+  Non *mais*, tu me prends pour un imbécile ?
+  *Also* hör mal, hältst du mich für einen Idioten?
 
-  Ce n'est pas bleu, mais gris, tu ne vois pas la différence?
-  Das ist nicht blau, sondern grau, siehst du den Unterschied nicht?
+  Ah *mais* ! Ce n'est pas ce que nous avions convenu !
+  *Also* so etwas! Das ist nicht das, was wir vereinbart hatten!
+
+  Il n'y a pas de *mais* qui tienne !
+  Da gibt es kein *Aber*!
+
+  *Mais* voyons, c'est tout naturel d'aider un ami.
+  *Aber* natürlich, es ist ganz selbstverständlich, einem Freund zu helfen.
+
+  Demain oui, *mais* aujourd'hui non.
+  Morgen ja, *aber* heute nicht.
+
+  Je n'en veux pas un, *mais* deux.
+  Ich möchte nicht einen, *sondern* zwei.
+
+  C'est beau, *mais* c'est cher.
+  Es ist schön, *aber* teuer.
+
+  Non seulement il est talentueux, *mais* aussi très travailleur.
+  Er ist nicht nur talentiert, *sondern* auch sehr fleißig.
+
+  *Mais* pourtant vous étiez prévenu ?
+  *Aber* Sie waren doch gewarnt worden, oder?
+
+  Que signifie ce "*mais*" dans votre réponse ?
+  Was bedeutet dieses "*Aber*" in Ihrer Antwort?
+
+  Je n'en peux *mais*, ce n'est pas de ma faute.
+  Ich kann nichts dafür, es ist nicht meine Schuld.
+
+  "Tu viens avec moi ?" "*Mais* bien sûr !"
+  "Kommst du mit mir?" "*Aber* natürlich!"
+
+  Eh *mais* ! C'est toi, Marie ?
+  Ach *du* bist es, Marie?
+
+  Ah *mais* ! Si tu continues comme ça, ça va mal se passer !
+  Oh *wehe*! Wenn du so weitermachst, wird das böse enden!
+
+  Non, *mais* ! Pour qui te prends-tu ?
+  *Also* wirklich! Für wen hältst du dich?
+
+  Il est petit, *mais* costaud.
+  Er ist klein, *aber* kräftig.
+
+  J'aimerais y aller, *mais* je suis trop occupé.
+  Ich würde gerne hingehen, *aber* ich bin zu beschäftigt.
+
+  Ce n'est pas une excuse, *mais* une explication.
+  Das ist keine Ausrede, *sondern* eine Erklärung.
+
+  Elle parle doucement, *mais* avec conviction.
+  Sie spricht leise, *aber* mit Überzeugung.
+
+  Je comprends ton point de vue, *mais* je ne suis pas d'accord.
+  Ich verstehe deinen Standpunkt, *bin aber* nicht einverstanden.
+
+  Il pleut, *mais* nous sortirons quand même.
+  Es regnet, *aber* wir werden trotzdem ausgehen.
+
+  Ce livre est intéressant, *mais* un peu long.
+  Dieses Buch ist interessant, *aber* ein bisschen lang.
+
+  J'ai essayé plusieurs fois, *mais* sans succès.
+  Ich habe es mehrmals versucht, *aber* ohne Erfolg.
+
+  Elle est stricte, *mais* juste dans ses décisions.
+  Sie ist streng, *aber* gerecht in ihren Entscheidungen.
+
+  *Mais* où est-il donc passé ?
+  Wo ist er *bloß* hingegangen?
+
+  *Mais*, j'y pense, avez-vous déjeuné ?
+  *Übrigens*, haben Sie schon zu Mittag gegessen?
+
+  Non *mais* des fois, où vous croyez-vous ?
+  Also *wirklich*, wo glauben Sie eigentlich zu sein?
+
+  (Non *mais*) je te jure, c'est insupportable !
+  *Ich schwöre* dir, es ist unerträglich!
+
+  La mère est déjà jolie, *mais* alors la fille, pardon !
+  Die Mutter ist schon hübsch, *aber* die Tochter erst, *meine Güte*!
+
+  Avec des *mais* et des si, on ne fait jamais rien.
+  Mit *Wenn* und *Aber* kommt man zu nichts.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

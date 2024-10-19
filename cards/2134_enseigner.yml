@@ -13,20 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai enseigné les mathématiques et les finances.
-  Ich habe Mathematik und Finanzwesen unterrichtet.
+  J'ai *enseigné* les mathématiques et les finances.
+  Ich habe Mathematik und Finanzen *unterrichtet*.
 
-  Elle enseigne le français à l’université.
-  Sie unterrichtet Französisch an der Universität.
+  Madame Dubois *enseigne* le français à des étudiants étrangers.
+  Frau Dubois *unterrichtet* ausländische Studenten in Französisch.
 
-  J’aime enseigner.
-  Ich unterrichte gerne.
+  Les professeurs *enseignent* l'histoire de l'art à l'université.
+  Die Professoren *lehren* Kunstgeschichte an der Universität.
 
-  Le professeur a enseigné le français à Marie pendant plusieurs années.
-  Der Lehrer hat Marie über mehrere Jahre hinweg Französisch beigebracht.
+  Mon grand-père m'a *enseigné* à jouer aux échecs.
+  Mein Großvater hat mir *beigebracht*, Schach zu spielen.
 
-  Il enseigne à ses élèves à faire des équations complexes.
-  Er bringt seinen Schülern bei, komplexe Gleichungen zu lösen.
+  L'expérience nous *enseigne* souvent plus que les livres.
+  Die Erfahrung *lehrt* uns oft mehr als Bücher.
+
+  Il *enseigne* la patience à ses élèves par l'exemple.
+  Er *lehrt* seinen Schülern Geduld durch sein Beispiel.
+
+  "Tu dois *enseigner* à tes enfants à être honnêtes", lui dit sa mère.
+  "Du musst deinen Kindern *beibringen*, ehrlich zu sein", sagte seine Mutter zu ihm.
+
+  Les écoles primaires *enseignent* les bases de la lecture et de l'écriture.
+  Die Grundschulen *vermitteln* die Grundlagen des Lesens und Schreibens.
+
+  Ce livre *enseigne* les principes fondamentaux de la physique quantique.
+  Dieses Buch *vermittelt* die Grundprinzipien der Quantenphysik.
+
+  Elle *enseigne* le piano depuis plus de vingt ans.
+  Sie *unterrichtet* seit über zwanzig Jahren Klavier.
+
+  Les parents doivent *enseigner* le respect à leurs enfants.
+  Eltern müssen ihren Kindern Respekt *beibringen*.
+
+  Le yoga *enseigne* la relaxation et la concentration.
+  Yoga *lehrt* Entspannung und Konzentration.
+
+  On *enseigne* la littérature française dans de nombreux pays.
+  Französische Literatur wird in vielen Ländern *gelehrt*.
+
+  Les professeurs *enseignent* les langues étrangères de manière interactive.
+  Die Lehrer *unterrichten* Fremdsprachen auf interaktive Weise.
+
+  Cette méthode *enseigne* la grammaire de façon ludique.
+  Diese Methode *vermittelt* Grammatik auf spielerische Weise.
+
+  Les échecs *enseignent* la stratégie et la patience.
+  Schach *lehrt* Strategie und Geduld.
+
+  Il faut *enseigner* aux enfants à respecter l'environnement.
+  Man muss Kindern *beibringen*, die Umwelt zu respektieren.
+
+  Cette université *enseigne* principalement les sciences politiques.
+  Diese Universität *lehrt* hauptsächlich Politikwissenschaften.
+
+  Les professeurs expérimentés *enseignent* souvent mieux que les débutants.
+  Erfahrene Lehrer *unterrichten* oft besser als Anfänger.
+
+  On devrait *enseigner* les premiers secours dans toutes les écoles.
+  Erste Hilfe sollte in allen Schulen *gelehrt* werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

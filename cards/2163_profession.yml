@@ -13,32 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous faites honte à votre profession!
-  Sie sind eine Schande für Ihren Beruf!
+  Vous faites honte à votre *profession* !
+  Sie machen Ihrer *Berufsgruppe* Schande!
 
-  Elle a choisi sa profession à l’âge de 25 ans.
-  Sie hat ihren Beruf im Alter von 25 Jahren gewählt.
+  Quelle est votre *profession* ?
+  Was ist Ihr *Beruf*?
 
-  Sa profession est d’enseigner.
-  Ihr Beruf ist Lehrerin.
+  Elle exerce la *profession* d'avocate depuis dix ans.
+  Sie übt den *Beruf* der Rechtsanwältin seit zehn Jahren aus.
 
-  Pierre a choisi la profession de boulanger, car il aime le travail manuel et le contact avec les clients.
-  Pierre hat den Beruf des Bäckers gewählt, weil er gerne mit den Händen arbeitet und Kontakt zu Kunden hat.
+  Les médecins font partie des *professions* libérales.
+  Ärzte gehören zu den freien *Berufen*.
 
-  Ma sœur a fait profession de ne jamais mentir.
-  Meine Schwester hat sich dazu bekannt, niemals zu lügen.
+  "Je suis chanteur de *profession*", a-t-il déclaré lors de l'interview.
+  "Ich bin *von Beruf* Sänger", erklärte er während des Interviews.
 
-  Leur profession commerciale a connu des difficultés ces derniers mois.
-  Ihr Handelsgewerbe hat in den letzten Monaten Schwierigkeiten gehabt.
+  La *profession* médicale s'inquiète des nouvelles réformes de santé.
+  Der *Berufsstand* der Ärzte ist besorgt über die neuen Gesundheitsreformen.
 
-  Il est important d'exercer une profession qui vous passionne.
-  Es ist wichtig, einer Tätigkeit nachzugehen, die einen begeistert.
+  Il a choisi une *profession* à la mode : développeur d'applications mobiles.
+  Er hat einen *Modeberuf* gewählt: Entwickler für mobile Anwendungen.
 
-  Marie exerce la profession de journaliste depuis dix ans.
-  Marie ist von Beruf Journalistin und das schon seit zehn Jahren.
+  La *profession* de boulanger exige de se lever tôt.
+  Der *Beruf* des Bäckers erfordert es, früh aufzustehen.
 
-  La profession de développeur web est un des métiers à la mode actuellement.
-  Der Beruf des Webentwicklers ist zurzeit ein Modeberuf.
+  Elle fait *profession* de foi en tant que féministe engagée.
+  Sie legt ein *Bekenntnis* als engagierte Feministin ab.
+
+  Toute la *profession* des enseignants est touchée par cette nouvelle loi.
+  Der gesamte *Berufsstand* der Lehrer ist von diesem neuen Gesetz betroffen.
+
+  Il n'a pas de *profession* fixe, il enchaîne les petits boulots.
+  Er hat keinen festen *Beruf*, er reiht einen Gelegenheitsjob an den anderen.
+
+  La cérémonie de *profession* religieuse aura lieu demain à l'abbaye.
+  Die Zeremonie des religiösen *Gelübdes* findet morgen in der Abtei statt.
+
+  "C'est un menteur de *profession*", a-t-elle dit en plaisantant.
+  "Er ist ein *Berufslügner*", sagte sie scherzhaft.
+
+  Les *professions* juridiques doivent s'adapter aux nouvelles technologies.
+  Die juristischen *Berufe* müssen sich an die neuen Technologien anpassen.
+
+  Elle a embrassé la *profession* d'architecte par passion.
+  Sie hat den *Beruf* der Architektin aus Leidenschaft ergriffen.
+
+  La *profession* de journaliste est en pleine mutation à l'ère du numérique.
+  Der *Beruf* des Journalisten befindet sich im digitalen Zeitalter im Umbruch.
+
+  Il fait *profession* d'athéisme depuis son adolescence.
+  Er *bekennt* sich seit seiner Jugend zum Atheismus.
+
+  Les *professions* artisanales sont essentielles à notre économie.
+  Die handwerklichen *Berufe* sind für unsere Wirtschaft unerlässlich.
+
+  Sa *profession* de foi politique a surpris ses collègues.
+  Sein politisches *Glaubensbekenntnis* hat seine Kollegen überrascht.
+
+  Elle exerce sa *profession* d'infirmière avec dévouement.
+  Sie übt ihren *Beruf* als Krankenschwester mit Hingabe aus.
+
+  La *profession* d'expert-comptable requiert une grande rigueur.
+  Der *Beruf* des Wirtschaftsprüfers erfordert große Genauigkeit.
+
+  Il a changé de *profession* à l'âge de 40 ans pour devenir professeur.
+  Er hat mit 40 Jahren den *Beruf* gewechselt, um Lehrer zu werden.
+
+  La *profession* bancaire doit faire face à de nombreux défis éthiques.
+  Das *Bankgewerbe* muss sich vielen ethischen Herausforderungen stellen.
+
+  Elle a choisi une *profession* qui lui permet de voyager constamment.
+  Sie hat einen *Beruf* gewählt, der es ihr ermöglicht, ständig zu reisen.
+
+  Les nouvelles technologies ont révolutionné de nombreuses *professions*.
+  Neue Technologien haben viele *Berufe* revolutioniert.
+
+  "Je fais *profession* de ne jamais mentir", a-t-il déclaré solennellement.
+  "Ich *bekenne* mich dazu, niemals zu lügen", erklärte er feierlich.
+
+  La *profession* d'enseignant est noble mais souvent sous-estimée.
+  Der *Lehrerberuf* ist edel, wird aber oft unterschätzt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

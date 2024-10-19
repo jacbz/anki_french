@@ -13,29 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Lire et faire l’amour sont ses occupations préférées.
-  Lesen und Sex sind ihre Lieblingsbeschäftigungen.
+  Lire et faire l'amour sont ses *occupations* préférées.
+  Lesen und Sex sind ihre Lieblings*beschäftigungen*.
 
-  Son occupation préférée est la lecture.
-  Seine Lieblingsbeschäftigung ist das Lesen.
+  L'*occupation* principale de Marie est la peinture.
+  Maries Haupt*beschäftigung* ist die Malerei.
 
-  Son occupation principale était la peinture.
-  Seine Hauptbeschäftigung war die Malerei.
+  Pierre cherche une nouvelle *occupation* à temps partiel.
+  Pierre sucht eine neue Teil*beschäftigung*.
 
-  Il a une occupation à temps complet chez une grande entreprise.
-  Er hat eine Ganztagsbeschäftigung bei einem großen Unternehmen.
+  Pendant l'*Occupation*, la vie était difficile pour beaucoup de Français.
+  Während der deutschen *Besatzung* war das Leben für viele Franzosen schwierig.
 
-  L'armée d'occupation a imposé ses règles à la population.
-  Die Besatzungsarmee hat der Bevölkerung ihre Regeln aufgezwungen.
+  L'*occupation* illégale de cet immeuble pose problème.
+  Die illegale *Besetzung* dieses Gebäudes stellt ein Problem dar.
 
-  L'occupation abusive des parking est interdite.
-  Die Fehlbelegung des Parkplatzes ist verboten.
+  Quelle est votre *occupation* actuelle ?
+  Was ist Ihre derzeitige *Beschäftigung*?
 
-  Son occupation de soirée était la lecture de romans policiers.
-  Seine Abendbeschäftigung war das Lesen von Kriminalromanen.
+  Les grévistes ont décidé l'*occupation* de l'usine.
+  Die Streikenden haben beschlossen, die Fabrik zu *besetzen*.
 
-  L'Occupation a marqué profondément la vie des Français.
-  Die deutsche Besatzung hat die Lebenswelt der Franzosen tiefgreifend geprägt.
+  La lecture est une *occupation* enrichissante.
+  Lesen ist eine bereichernde *Beschäftigung*.
+
+  L'*occupation* du territoire a duré plusieurs années.
+  Die *Besetzung* des Gebiets dauerte mehrere Jahre.
+
+  "J'ai tellement d'*occupations* que je ne sais plus où donner de la tête !"
+  "Ich habe so viele *Beschäftigungen*, dass ich nicht mehr weiß, wo mir der Kopf steht!"
+
+  L'*occupation* des sols est strictement réglementée dans cette zone.
+  Die *Nutzung* des Bodens ist in diesem Gebiet streng reguliert.
+
+  Les enfants trouvent toujours une *occupation* pendant les vacances.
+  Kinder finden in den Ferien immer eine *Beschäftigung*.
+
+  L'armée d'*occupation* a imposé un couvre-feu.
+  Die *Besatzungs*armee hat eine Ausgangssperre verhängt.
+
+  Son *occupation* favorite est de jardiner le week-end.
+  Seine Lieblings*beschäftigung* ist es, am Wochenende zu gärtnern.
+
+  L'*occupation* de l'appartement est limitée à trois personnes.
+  Die *Belegung* der Wohnung ist auf drei Personen beschränkt.
+
+  Il a changé plusieurs fois d'*occupation* au cours de sa carrière.
+  Er hat im Laufe seiner Karriere mehrmals die *Beschäftigung* gewechselt.
+
+  L'*occupation* du théâtre par les artistes a duré une semaine.
+  Die *Besetzung* des Theaters durch die Künstler dauerte eine Woche.
+
+  Trouver une *occupation* intéressante peut être un défi pour les retraités.
+  Eine interessante *Beschäftigung* zu finden, kann für Rentner eine Herausforderung sein.
+
+  Les étudiants cherchent souvent une *occupation* pour l'été.
+  Studenten suchen oft eine *Beschäftigung* für den Sommer.
+
+  L'*occupation* des locaux sans autorisation est interdite.
+  Die *Besetzung* der Räumlichkeiten ohne Genehmigung ist verboten.
+
+  Son *occupation* à temps plein ne lui laisse que peu de temps libre.
+  Seine Vollzeit*beschäftigung* lässt ihm nur wenig Freizeit.
+
+  Pendant l'*Occupation*, la Résistance s'est organisée clandestinement.
+  Während der *Besatzung* organisierte sich der Widerstand im Untergrund.
+
+  L'*occupation* du terrain par les manifestants a été pacifique.
+  Die *Besetzung* des Geländes durch die Demonstranten verlief friedlich.
+
+  Elle considère le bénévolat comme une *occupation* enrichissante.
+  Sie betrachtet die ehrenamtliche Tätigkeit als eine bereichernde *Beschäftigung*.
+
+  L'*occupation* principale de ce village est l'agriculture.
+  Die Haupt*beschäftigung* in diesem Dorf ist die Landwirtschaft.
+
+  Le taux d'*occupation* des hôtels a augmenté cet été.
+  Die *Auslastung* der Hotels ist diesen Sommer gestiegen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

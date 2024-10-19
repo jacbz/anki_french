@@ -13,20 +13,65 @@ Register: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis tellement désolé. Désolé pour tout.
-  Es tut mir so leid, es tut mir alles leid.
+  Je suis tellement *désolé*. *Désolé* pour tout.
+  Es tut mir so *leid*. *Entschuldigung* für alles.
 
-  Je suis désolé pour le retard.
-  Es tut mir leid für die Verspätung.
+  La nouvelle de son licenciement l'a *désolé*.
+  Die Nachricht von seiner Entlassung hat ihn zutiefst *betrübt*.
 
-  Ça me désole de te dire que mon frère a oublié ton anniversaire.
-  Es tut mir leid, dir sagen zu müssen, dass mein Bruder deinen Geburtstag vergessen hat.
+  "Je suis *désolée* de vous avoir fait attendre", dit la secrétaire.
+  "Es *tut mir leid*, dass ich Sie habe warten lassen", sagte die Sekretärin.
 
-  Je me désole de ne pas pouvoir t'aider.
-  Ich bedauere, dass ich dir nicht helfen kann.
+  La guerre a *désolé* toute la région.
+  Der Krieg hat die ganze Region *verwüstet*.
 
-  Je me désole de t'avoir interrompu.
-  Ich bedauere, dich unterbrochen zu haben.
+  Cet échec me *désole* profondément.
+  Dieser Misserfolg *bedrückt* mich zutiefst.
+
+  Elle se *désolait* jour et nuit de l'absence de son fils.
+  Sie *grämte* sich Tag und Nacht wegen der Abwesenheit ihres Sohnes.
+
+  Le retard du train *désole* tous les passagers.
+  Die Verspätung des Zuges *verärgert* alle Passagiere.
+
+  Je suis *désolé* d'apprendre le décès de votre grand-mère.
+  Es *tut mir leid* zu hören, dass Ihre Großmutter verstorben ist.
+
+  La famine *désolait* le pays depuis des mois.
+  Die Hungersnot *verwüstete* das Land seit Monaten.
+
+  "*Désolé*, je n'ai pas le temps de discuter maintenant."
+  "*Tut mir leid*, ich habe jetzt keine Zeit zum Reden."
+
+  Ça me *désole* de te voir abandonner tes rêves.
+  Es *betrübt* mich, zu sehen, wie du deine Träume aufgibst.
+
+  Les pillards ont *désolé* la campagne environnante.
+  Die Plünderer haben das umliegende Land *verwüstet*.
+
+  Ne vous *désolez* pas pour si peu !
+  *Grämen* Sie sich nicht wegen so einer Kleinigkeit!
+
+  Son air *désolé* ne trompait personne.
+  Sein *betrübter* Gesichtsausdruck täuschte niemanden.
+
+  La mauvaise conduite de son fils la *désolait* énormément.
+  Das schlechte Benehmen ihres Sohnes *bekümmerte* sie sehr.
+
+  Je suis *désolé* que vous n'ayez pas pu venir à la fête.
+  Es *tut mir leid*, dass Sie nicht zur Party kommen konnten.
+
+  Ce paysage *désolé* me rappelle un désert.
+  Diese *öde* Landschaft erinnert mich an eine Wüste.
+
+  Vous m'en voyez *désolé*, mais je ne peux rien faire.
+  Wie Sie sehen, *bedaure* ich es, aber ich kann nichts tun.
+
+  Il se *désolait* de ne pas avoir obtenu le poste.
+  Er *bedauerte*, die Stelle nicht bekommen zu haben.
+
+  "Je suis vraiment *désolée* de t'avoir blessé", murmura-t-elle.
+  "Es *tut mir wirklich leid*, dass ich dich verletzt habe", flüsterte sie.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

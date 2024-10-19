@@ -13,23 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ne veille pas trop tard, cela use les yeux.
-  Geh nicht zu spät schlafen, das strapaziert die Augen.
+  Ne *veille* pas trop tard, cela use les yeux.
+  *Bleib* nicht zu lange auf, das strapaziert die Augen.
 
-  Je vais veiller tard ce soir.
-  Ich werde heute Abend lange wach bleiben.
+  Les parents *veillent* sur leurs enfants jour et nuit.
+  Die Eltern *wachen* Tag und Nacht über ihre Kinder.
 
-  Il faut veiller à la sécurité des enfants.
-  Man muss auf die Sicherheit der Kinder achten.
+  Il faut *veiller* à bien éteindre le gaz avant de partir.
+  Man muss darauf *achten*, das Gas abzudrehen, bevor man geht.
 
-  Le chien veille sur la maison.
-  Der Hund passt auf das Haus auf.
+  Le chien de garde *veille* sur la maison pendant notre absence.
+  Der Wachhund *bewacht* das Haus während unserer Abwesenheit.
 
-  J'ai veillé tard hier soir pour regarder le film.
-  Ich bin gestern Abend lange aufgeblieben, um den Film zu schauen.
+  Les infirmières *veillent* les malades toute la nuit.
+  Die Krankenschwestern *wachen* die ganze Nacht über die Kranken.
 
-  Le gouvernement veille aux intérêts des citoyens.
-  Die Regierung nimmt die Interessen der Bürger wahr.
+  "J'ai *veillé* jusqu'à l'aube pour finir ce rapport."
+  "Ich bin bis zum Morgengrauen *aufgeblieben*, um diesen Bericht fertigzustellen."
+
+  Le gouvernement doit *veiller* aux intérêts de tous les citoyens.
+  Die Regierung muss die Interessen aller Bürger *wahrnehmen*.
+
+  Les pompiers *veillent* jour et nuit pour assurer notre sécurité.
+  Die Feuerwehrleute *halten* Tag und Nacht Wache, um unsere Sicherheit zu gewährleisten.
+
+  Il faut *veiller* à ce que les enfants mangent équilibré.
+  Man muss darauf *achten*, dass die Kinder ausgewogen essen.
+
+  La grand-mère *veillait* son petit-fils malade toute la nuit.
+  Die Großmutter *wachte* die ganze Nacht über ihren kranken Enkel.
+
+  Les astronomes *veillent* tard pour observer les étoiles.
+  Die Astronomen *bleiben* spät auf, um die Sterne zu beobachten.
+
+  Le directeur *veille* au bon fonctionnement de l'entreprise.
+  Der Direktor *achtet* auf das reibungslose Funktionieren des Unternehmens.
+
+  "Nous avons *veillé* toute la nuit pour préparer la fête surprise."
+  "Wir sind die ganze Nacht *aufgeblieben*, um die Überraschungsparty vorzubereiten."
+
+  Le gardien *veille* sur le musée pendant les heures de fermeture.
+  Der Wächter *bewacht* das Museum während der Schließzeiten.
+
+  Il faut *veiller* à ne pas faire trop de bruit le soir.
+  Man muss darauf *achten*, abends nicht zu viel Lärm zu machen.
+
+  Les parents *veillent* à ce que leurs enfants fassent leurs devoirs.
+  Die Eltern *achten* darauf, dass ihre Kinder ihre Hausaufgaben machen.
+
+  Le capitaine *veille* à la sécurité de son équipage en mer.
+  Der Kapitän *sorgt* auf See für die Sicherheit seiner Mannschaft.
+
+  Les médecins *veillent* sur la santé de leurs patients.
+  Die Ärzte *wachen* über die Gesundheit ihrer Patienten.
+
+  "J'ai *veillé* mon grand-père malade toute la semaine dernière."
+  "Ich habe letzte Woche die ganze Zeit bei meinem kranken Großvater *gewacht*."
+
+  Le personnel de nuit *veille* pendant que les autres dorment.
+  Das Nachtpersonal *bleibt wach*, während die anderen schlafen.
+
+  Il faut *veiller* à bien fermer les fenêtres avant de partir.
+  Man muss darauf *achten*, die Fenster gut zu schließen, bevor man geht.
+
+  Les parents *veillent* à ce que leurs enfants aient une bonne éducation.
+  Die Eltern *achten* darauf, dass ihre Kinder eine gute Erziehung erhalten.
+
+  Le gardien de nuit *veille* sur les locaux de l'entreprise.
+  Der Nachtwächter *bewacht* die Räumlichkeiten des Unternehmens.
+
+  Les diplomates *veillent* aux intérêts de leur pays à l'étranger.
+  Die Diplomaten *nehmen* die Interessen ihres Landes im Ausland *wahr*.
+
+  "J'ai *veillé* toute la nuit pour terminer mon projet à temps."
+  "Ich bin die ganze Nacht *aufgeblieben*, um mein Projekt rechtzeitig fertigzustellen."
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

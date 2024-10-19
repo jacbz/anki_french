@@ -9,17 +9,72 @@ Femininum / Plural: ''
 IPA: \kɛl.kɔ̃k\
 Definition: irgendein
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Est-ce qu’on a un vase quelconque?\nHaben wir eine Vase?\n\nJe peux\
-  \ prendre n’importe quelconque livre.\nIch kann irgendein Buch nehmen.\n\nJe trouvais\
-  \ son visage quelconque, sans aucun trait marquant.\nIch fand sein Gesicht Allerwelts,\
-  \ ohne ein besonderes Merkmal.\n\nIl a refusé de parler sous un prétexte quelconque.\n\
-  Er hat sich geweigert zu reden, unter irgendeinem Vorwand.\n\nIl faut éviter de\
-  \ prendre des risques quelconques.\nMan sollte irgendwelche Risiken vermeiden.\n\
-  \nElle a dit qu'elle ne voulait pas aller au restaurant, sans donner de raison quelconque.\n\
-  Sie sagte, sie wolle nicht ins Restaurant gehen, ohne irgendwelche Gründe zu nennen.\n\
-  \nSi seulement j'en avais une quelconque idée! \nWenn ich nur die leiseste Ahnung\
-  \ hätte!\n\nSa vie est très quelconque, sans grand intérêt.\nSein Leben ist überhaupt\
-  \ nichts Besonderes, ohne großen Reiz."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Est-ce qu'on a un vase *quelconque* ?
+  Haben wir *irgendeine* Vase?
+
+  J'ai besoin d'un stylo *quelconque* pour noter cette adresse.
+  Ich brauche *irgendeinen* Stift, um diese Adresse aufzuschreiben.
+
+  Sous un prétexte *quelconque*, il a quitté la réunion plus tôt.
+  Unter *irgendeinem* Vorwand hat er die Besprechung früher verlassen.
+
+  Je ne vois aucun risque *quelconque* dans cette situation.
+  Ich sehe in dieser Situation keinerlei *irgendwelche* Risiken.
+
+  Si seulement j'avais une *quelconque* idée de ce qui s'est passé !
+  Wenn ich nur die *leiseste* Ahnung hätte, was passiert ist!
+
+  Son visage *quelconque* ne retient pas l'attention.
+  Sein *Allerwelts*gesicht fällt nicht auf.
+
+  Le film était très *quelconque*, rien de spécial.
+  Der Film war sehr *mittelmäßig*, nichts Besonderes.
+
+  "Je trouve ce restaurant d'un *quelconque* !"
+  "Ich finde dieses Restaurant so *gewöhnlich*!"
+
+  Un point *quelconque* du cercle peut être choisi comme point de départ.
+  Ein *beliebiger* Punkt des Kreises kann als Ausgangspunkt gewählt werden.
+
+  N'importe quel triangle *quelconque* a trois côtés de longueurs différentes.
+  Jedes *beliebige* Dreieck hat drei Seiten unterschiedlicher Länge.
+
+  Cette personne *quelconque* ne se démarque pas dans la foule.
+  Diese *unbedeutende* Person sticht in der Menge nicht hervor.
+
+  Il a choisi un livre *quelconque* sur l'étagère sans même regarder le titre.
+  Er hat *irgendein* Buch aus dem Regal genommen, ohne auch nur auf den Titel zu schauen.
+
+  As-tu une *quelconque* expérience en programmation ?
+  Hast du *irgendwelche* Erfahrungen im Programmieren?
+
+  Le sujet de la conférence était tellement *quelconque* que j'ai failli m'endormir.
+  Das Thema des Vortrags war so *belanglos*, dass ich fast eingeschlafen wäre.
+
+  Elle cherchait une excuse *quelconque* pour ne pas aller à la fête.
+  Sie suchte nach *irgendeiner* Ausrede, um nicht zur Party zu gehen.
+
+  Un triangle *quelconque* n'a pas de propriétés particulières comme l'équilatéralité.
+  Ein *beliebiges* Dreieck hat keine besonderen Eigenschaften wie Gleichseitigkeit.
+
+  Je ne veux pas d'un cadeau *quelconque*, j'aimerais quelque chose de spécial.
+  Ich möchte kein *x-beliebiges* Geschenk, ich hätte gerne etwas Besonderes.
+
+  Dans ce groupe, il n'y a personne de *quelconque* ; chacun a sa particularité.
+  In dieser Gruppe gibt es niemanden *Gewöhnliches*; jeder hat seine Besonderheit.
+
+  Pour une raison *quelconque*, le train a été retardé de 30 minutes.
+  Aus *irgendeinem* Grund hatte der Zug 30 Minuten Verspätung.
+
+  Elle refuse d'obéir à une autorité *quelconque* sans explication.
+  Sie weigert sich, *irgendeiner* Autorität ohne Erklärung zu gehorchen.
+
+  Son style d'écriture est plutôt *quelconque*, rien de très original.
+  Sein Schreibstil ist eher *mittelmäßig*, nichts besonders Originelles.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

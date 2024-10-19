@@ -13,41 +13,104 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’étais fou amoureux. Elle m’aimait bien.
-  Ich war wahnsinnig verliebt. Sie mochte mich.
+  J'étais fou amoureux. *Elle* m'aimait bien.
+  Ich war verrückt vor Liebe. *Sie* mochte mich ganz gern.
 
-  Elle est française.
-  Sie ist französisch.
+  *Elle* est grande pour son âge.
+  *Sie* ist groß für ihr Alter.
 
-  Sophie a-t-elle ses clés ?
-  Hat Sophie ihre Schlüssel?
+  Sophie a-t-*elle* fini ses devoirs ?
+  Hat Sophie ihre Hausaufgaben fertig?
 
-  Regarde la lune comme elle est ronde !
-  Sieh mal, wie rund der Mond ist!
+  Regarde la lune comme *elle* est belle ce soir !
+  Schau mal, wie schön der Mond heute Abend ist!
 
-  Elle, monter une entreprise ?
-  Was, die will ein Unternehmen gründen?
+  "*Elle*, monter une entreprise ? Je n'y crois pas !"
+  "*Die* will ein Unternehmen gründen? Das glaube ich nicht!"
 
-  Elle ne pense qu'à elle.
-  Sie denkt nur an sich.
+  C'est *elle* qui a eu l'idée de ce projet innovant.
+  *Sie* war es, die die Idee für dieses innovative Projekt hatte.
 
-  Lui est venu, mais pas elle.
-  Er ist gekommen, aber sie nicht.
+  Je ne peux pas imaginer ma vie sans *elle*.
+  Ich kann mir mein Leben ohne *sie* nicht vorstellen.
 
-  La maison a-t-elle un jardin ?
-  Hat das Haus einen Garten?
+  À *elle* seule, Marie a réussi à convaincre tout le comité.
+  Marie hat es ganz allein geschafft, das gesamte Komitee zu überzeugen.
 
-  La mer, elle aussi, est polluée.
-  Auch das Meer ist verschmutzt.
+  Il est aussi intelligent qu'*elle*, mais moins organisé.
+  Er ist genauso intelligent wie *sie*, aber weniger organisiert.
 
-  La vache, elle fait meuh.
-  Die Kuh macht muh.
+  *Elle* ne pense qu'à *elle*-même, c'est vraiment dommage.
+  *Sie* denkt nur an *sich* selbst, das ist wirklich schade.
 
-  Elle, elle n'a pas ouvert la bouche.
-  Die hat den Mund nicht aufgemacht.
+  *Elle*-même a confirmé la nouvelle lors de la conférence de presse.
+  *Sie* selbst hat die Neuigkeit auf der Pressekonferenz bestätigt.
 
-  Et elle qui pensait avoir compris !
-  Und die dachte, sie hätte alles verstanden!
+  Écoute cette histoire, *elle* est vraiment fascinante !
+  Hör dir diese Geschichte an, *sie* ist wirklich faszinierend!
+
+  *Elles*, ce sont les meilleures athlètes de l'équipe nationale.
+  *Sie* sind die besten Athletinnen der Nationalmannschaft.
+
+  La maison a-t-*elle* été vendue ?
+  Ist das Haus verkauft worden?
+
+  La vache, *elle* broute tranquillement dans le pré.
+  Die Kuh, *sie* grast friedlich auf der Wiese.
+
+  "Et *elle* qui pensait avoir tout compris !"
+  "Und *die* dachte, sie hätte alles verstanden!"
+
+  C'est à *elle* de prendre la décision finale.
+  *Sie* muss die endgültige Entscheidung treffen.
+
+  *Elle* a remporté le premier prix, pas lui.
+  *Sie* hat den ersten Preis gewonnen, nicht er.
+
+  Je les admire beaucoup, lui et *elle*.
+  Ich bewundere sie beide sehr, ihn und *sie*.
+
+  La voiture est à *elle*, pas à son mari.
+  Das Auto gehört *ihr*, nicht ihrem Mann.
+
+  "C'est à *elle* !" cria l'arbitre pendant le match.
+  "*Sie* ist dran!" rief der Schiedsrichter während des Spiels.
+
+  *Elle* est fière d'*elle*-même, et *elle* a raison de l'être.
+  *Sie* ist stolz auf *sich* selbst, und *sie* hat allen Grund dazu.
+
+  *Elle* a réussi là où beaucoup ont échoué.
+  *Sie* hatte dort Erfolg, wo viele gescheitert sind.
+
+  Je me demande si *elle* viendra à la fête ce soir.
+  Ich frage mich, ob *sie* heute Abend zur Party kommen wird.
+
+  *Elle* chante comme un rossignol.
+  *Sie* singt wie eine Nachtigall.
+
+  Même si *elle* est partie, son influence se fait encore sentir.
+  Auch wenn *sie* weg ist, ist ihr Einfluss noch zu spüren.
+
+  *Elle* a toujours su ce qu'*elle* voulait dans la vie.
+  *Sie* hat immer gewusst, was *sie* im Leben wollte.
+
+  C'est grâce à *elle* que nous avons pu résoudre ce problème.
+  Dank *ihr* konnten wir dieses Problem lösen.
+
+  *Elle* n'a pas dit un mot de toute la réunion.
+  *Sie* hat während der ganzen Sitzung kein Wort gesagt.
+
+  Plus je la connais, plus je l'apprécie, *elle* et ses idées.
+  Je besser ich *sie* kenne, desto mehr schätze ich *sie* und ihre Ideen.
+
+  "*Elle*, *elle* n'aurait jamais fait une chose pareille !"
+  "*Die* hätte so etwas nie getan!"
+
+  A-t-*elle* déjà commencé son nouveau travail ?
+  Hat *sie* ihre neue Arbeit schon begonnen?
+
+  *Elle* avait l'air fatiguée, mais *elle* a quand même terminé le projet à temps.
+  *Sie* sah müde aus, aber *sie* hat das Projekt trotzdem rechtzeitig fertiggestellt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

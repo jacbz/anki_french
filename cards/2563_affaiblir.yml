@@ -13,20 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il ne mange rien, il s’affaiblit.
-  Er isst nichts und wird immer schwächer.
+  Il ne mange rien, il *s'affaiblit*.
+  Er isst nichts, er wird *schwächer*.
 
-  Le stress peut affaiblir le système immunitaire.
-  Stress kann das Immunsystem schwächen.
+  La maladie a considérablement *affaibli* le patient.
+  Die Krankheit hat den Patienten erheblich *geschwächt*.
 
-  Il est affaibli par la maladie.
-  Er ist durch die Krankheit geschwächt.
+  Les sanctions économiques ont *affaibli* l'économie du pays.
+  Die Wirtschaftssanktionen haben die Wirtschaft des Landes *geschwächt*.
 
-  Sa vue s'est affaiblie avec l'âge.
-  Seine Sehstärke hat mit dem Alter abgenommen.
+  Le bruit du moteur *s'affaiblit* progressivement.
+  Das Motorengeräusch wird allmählich *leiser*.
 
-  Le bruit s'est affaibli au fur et à mesure que la nuit tombait.
-  Der Lärm hat abgenommen, als die Nacht hereinbrach.
+  Ces mesures ont *affaibli* la monnaie nationale.
+  Diese Maßnahmen haben die Landeswährung *geschwächt*.
+
+  La fièvre *l'a affaibli* au point qu'il ne pouvait plus marcher.
+  Das Fieber hat ihn so stark *geschwächt*, dass er nicht mehr laufen konnte.
+
+  Le sens de ce mot *s'est affaibli* au fil du temps.
+  Die Bedeutung dieses Wortes ist im Laufe der Zeit *verblasst*.
+
+  Les crises successives ont *affaibli* l'autorité du gouvernement.
+  Die aufeinanderfolgenden Krisen haben die Autorität der Regierung *geschwächt*.
+
+  Le manque de sommeil peut *affaiblir* votre système immunitaire.
+  Schlafmangel kann Ihr Immunsystem *schwächen*.
+
+  Les rumeurs ont *affaibli* sa crédibilité auprès de ses collègues.
+  Die Gerüchte haben seine Glaubwürdigkeit bei seinen Kollegen *geschwächt*.
+
+  Sa vue *s'affaiblit* de jour en jour.
+  Seine Sehkraft *lässt* von Tag zu Tag *nach*.
+
+  Le vent *s'affaiblit* progressivement au cours de la journée.
+  Der Wind *wird* im Laufe des Tages allmählich *schwächer*.
+
+  Ces arguments ont *affaibli* la position de l'accusation.
+  Diese Argumente haben die Position der Anklage *geschwächt*.
+
+  Le photographe a intentionnellement *affaibli* le contraste de l'image.
+  Der Fotograf hat den Kontrast des Bildes absichtlich *abgeschwächt*.
+
+  Les années de guerre ont considérablement *affaibli* le pays.
+  Die Kriegsjahre haben das Land erheblich *geschwächt*.
+
+  Le signal radio *s'affaiblit* lorsque vous vous éloignez de l'émetteur.
+  Das Funksignal wird *schwächer*, wenn Sie sich vom Sender entfernen.
+
+  Ce régime drastique *l'a affaibli* plutôt que de l'aider.
+  Diese drastische Diät hat ihn eher *geschwächt* als ihm zu helfen.
+
+  L'absence de preuves a *affaibli* l'argumentation de l'avocat.
+  Der Mangel an Beweisen hat die Argumentation des Anwalts *geschwächt*.
+
+  Le son *s'affaiblit* à mesure que vous vous éloignez de la source.
+  Der Ton wird *leiser*, je weiter Sie sich von der Quelle entfernen.
+
+  Les divisions internes ont *affaibli* le parti politique.
+  Die internen Spaltungen haben die politische Partei *geschwächt*.
+
+  La pollution *affaiblit* la couche d'ozone.
+  Die Verschmutzung *schwächt* die Ozonschicht.
+
+  Le temps a *affaibli* sa passion pour la musique.
+  Die Zeit hat seine Leidenschaft für Musik *abgeschwächt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
