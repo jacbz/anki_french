@@ -13,14 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Toute la planète est fatiguée de ce conflit.
-  Der ganze Planet ist dieses Konflikts überdrüssig.
+  Toute la *planète* est fatiguée de ce conflit.
+  Der ganze *Planet* ist dieses Konflikts müde.
 
-  La Terre est une planète.
-  Die Erde ist ein Planet.&nbsp;
+  Le réchauffement de la *planète* est un problème urgent à résoudre.
+  Die Erwärmung des *Planeten* ist ein dringendes Problem, das gelöst werden muss.
 
-  Il veut sauver la planète.
-  Er will den Planeten retten.
+  Mars est surnommée la *planète* rouge en raison de sa couleur caractéristique.
+  Mars wird wegen seiner charakteristischen Farbe der rote *Planet* genannt.
+
+  Les scientifiques ont découvert une nouvelle *planète* hors de notre système solaire.
+  Wissenschaftler haben einen neuen *Planeten* außerhalb unseres Sonnensystems entdeckt.
+
+  La *planète* Terre est aussi appelée la planète bleue.
+  Der *Planet* Erde wird auch der blaue Planet genannt.
+
+  Les mouvements des *planètes* autour du Soleil fascinent les astronomes depuis des siècles.
+  Die Bewegungen der *Planeten* um die Sonne faszinieren Astronomen seit Jahrhunderten.
+
+  Vénus est considérée comme la *planète* sœur de la Terre en raison de leur taille similaire.
+  Venus gilt aufgrund ihrer ähnlichen Größe als Schwester*planet* der Erde.
+
+  La pollution menace l'équilibre écologique de notre *planète*.
+  Die Verschmutzung bedroht das ökologische Gleichgewicht unseres *Planeten*.
+
+  Jupiter est la plus grande *planète* de notre système solaire.
+  Jupiter ist der größte *Planet* in unserem Sonnensystem.
+
+  Les anciens croyaient que chaque *planète* avait une influence sur le destin des hommes.
+  Die Alten glaubten, dass jeder *Planet* einen Einfluss auf das Schicksal der Menschen hatte.
+
+  "Tu vis sur quelle *planète* ? Tu ne vois pas ce qui se passe autour de toi ?"
+  "Auf welchem *Planeten* lebst du? Siehst du nicht, was um dich herum passiert?"
+
+  La *planète* rugby est en effervescence à l'approche de la Coupe du monde.
+  Die Rugby-*Welt* ist in Aufruhr, während sich die Weltmeisterschaft nähert.
+
+  Les astronomes observent attentivement le cours des *planètes*.
+  Astronomen beobachten aufmerksam den Lauf der *Planeten*.
+
+  Pluton a été reclassée comme *planète* naine en 2006.
+  Pluto wurde 2006 als Zwerg*planet* neu klassifiziert.
+
+  La révolution d'une *planète* autour du Soleil définit son année.
+  Der Umlauf eines *Planeten* um die Sonne definiert sein Jahr.
+
+  Les *planètes* telluriques ont une croûte solide, contrairement aux planètes gazeuses.
+  *Planeten* vom Typ der Gesteinsplaneten haben eine feste Kruste, im Gegensatz zu den Gasplaneten.
+
+  Parcourir la *planète* est le rêve de nombreux voyageurs.
+  Den *Planeten* zu bereisen ist der Traum vieler Reisender.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,41 +13,167 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous êtes là où le vent souffle.
-  Sie sind dort, wo der Wind weht.
+  Vous êtes là où le vent *souffle*.
+  Sie sind dort, wo der Wind *weht*.
 
-  Le vent souffle fort.
-  Der Wind bläst stark.
+  Le vent *souffle* fort aujourd'hui, faites attention aux branches qui pourraient tomber.
+  Der Wind *weht* heute stark, achten Sie auf herabfallende Äste.
 
-  Le vent a soufflé la poussière dans les yeux de Thomas, qui a dû s'arrêter un instant.
-  Der Wind hat Thomas den Staub in die Augen geweht, sodass er kurz anhalten musste.
+  "Ça *souffle* dehors !" s'exclama-t-elle en rentrant.
+  "Es ist *windig* draußen!", rief sie beim Hereinkommen.
 
-  Elle soufflait sur le gâteau chaud pour le faire refroidir.
-  Sie blies auf den heißen Kuchen, um ihn abzukühlen.
+  Il faut *souffler* sur la soupe avant de la manger, elle est trop chaude.
+  Man muss auf die Suppe *pusten*, bevor man sie isst, sie ist zu heiß.
 
-  Laissez souffler Marie, elle a besoin de temps pour se calmer.
-  Lass Marie etwas Zeit, sie muss sich erst beruhigen.
+  Elle *souffla* doucement sur ses doigts pour les réchauffer.
+  Sie *hauchte* sanft auf ihre Finger, um sie zu wärmen.
 
-  Le joueur a soufflé un pion de son adversaire.
-  Der Spieler hat seinem Gegner einen Stein kassiert.
+  Le professeur *souffla* sur la poussière qui recouvrait le vieux livre.
+  Der Lehrer *pustete* den Staub weg, der das alte Buch bedeckte.
 
-  Elle lui a soufflé un secret à l'oreille, en s'approchant de lui.
-  Sie flüsterte ihm ein Geheimnis ins Ohr, indem sie sich zu ihm beugte.
+  Après avoir couru pendant une heure, il *soufflait* comme un bœuf.
+  Nachdem er eine Stunde gelaufen war, *keuchte* er wie ein Ochse.
 
-  L'artisan a soufflé le verre pour lui donner la forme souhaitée.
-  Der Handwerker hat das Glas geblasen, um ihm die gewünschte Form zu geben.
+  "Laissez-moi *souffler* un peu", dit-elle en s'asseyant sur un banc.
+  "Lassen Sie mich kurz *verschnaufen*", sagte sie und setzte sich auf eine Bank.
 
-  Il soufflait sur ses doigts gelés pour les réchauffer.
-  Er hauchte in seine kalten Finger, um sie zu wärmen.
+  Le patron a décidé de laisser *souffler* ses employés après ce projet intense.
+  Der Chef hat beschlossen, seinen Mitarbeitern nach diesem intensiven Projekt eine *Verschnaufpause* zu gönnen.
 
-  Elle a soufflé sur la poussière qui recouvrait le vieux livre.
-  Sie hat den Staub weggepustet, der das alte Buch bedeckte.
+  Les enfants s'amusaient à *souffler* les bougies de leur gâteau d'anniversaire.
+  Die Kinder hatten Spaß daran, die Kerzen auf ihrem Geburtstagskuchen *auszublasen*.
 
-  Le fumeur a soufflé la fumée au visage du non-fumeur.
-  Der Raucher pustete dem Nichtraucher den Rauch ins Gesicht.
+  Le vent violent a *soufflé* tous les papiers de mon bureau par la fenêtre.
+  Der starke Wind hat alle Papiere von meinem Schreibtisch zum Fenster hinaus*geweht*.
 
-  Il a soufflé le gâteau à sa sœur avant qu'elle ne puisse le manger.
-  Er hat seiner Schwester den Kuchen weggeschnappt, bevor sie ihn essen konnte.
+  Il *souffla* accidentellement la poussière dans les yeux de son ami.
+  Er *pustete* versehentlich den Staub in die Augen seines Freundes.
+
+  "Ne me *souffle* pas ta fumée au visage", lui demanda-t-elle poliment.
+  "*Puste* mir deinen Rauch nicht ins Gesicht", bat sie ihn höflich.
+
+  Au jeu de dames, elle réussit à *souffler* trois pions à son adversaire.
+  Beim Damespiel gelang es ihr, ihrem Gegner drei Steine zu *kassieren*.
+
+  Le concurrent a *soufflé* le contrat à notre entreprise au dernier moment.
+  Der Konkurrent hat unserer Firma den Auftrag im letzten Moment *weggeschnappt*.
+
+  L'explosion a *soufflé* la façade de l'immeuble.
+  Die Explosion hat die Fassade des Gebäudes *weggefegt*.
+
+  Il lui *souffla* un secret à l'oreille pendant la fête.
+  Er *flüsterte* ihr während der Party ein Geheimnis ins Ohr.
+
+  L'acteur principal a oublié son texte, et le souffleur a dû lui *souffler* ses répliques.
+  Der Hauptdarsteller hat seinen Text vergessen, und der Souffleur musste ihm seine Zeilen *vorsagen*.
+
+  La performance de l'athlète nous a complètement *soufflés*.
+  Die Leistung des Athleten hat uns völlig *umgehauen*.
+
+  Dans cette verrerie, les artisans *soufflent* le verre pour créer de magnifiques objets.
+  In dieser Glashütte *blasen* die Handwerker das Glas, um wunderschöne Objekte zu erschaffen.
+
+  Le vent *souffle* en tempête, mieux vaut rester à l'intérieur.
+  Der Wind *weht* stürmisch, es ist besser, drinnen zu bleiben.
+
+  Après l'ascension, ils s'arrêtèrent pour *souffler* un peu.
+  Nach dem Aufstieg hielten sie an, um kurz zu *verschnaufen*.
+
+  "*Soufflez* fort dans le ballon pour le gonfler", dit la mère à son enfant.
+  "*Blase* kräftig in den Ballon, um ihn aufzupumpen", sagte die Mutter zu ihrem Kind.
+
+  Le musicien *souffla* dans sa trompette, produisant une mélodie entraînante.
+  Der Musiker *blies* in seine Trompette und erzeugte eine mitreißende Melodie.
+
+  Elle *souffla* délicatement sur son thé brûlant avant de le boire.
+  Sie *pustete* vorsichtig auf ihren heißen Tee, bevor sie ihn trank.
+
+  Le coureur *soufflait* comme un phoque en franchissant la ligne d'arrivée.
+  Der Läufer *schnaufte* wie ein Walross, als er die Ziellinie überquerte.
+
+  "Laissez-moi le temps de *souffler* avant de prendre une décision", demanda-t-il.
+  "Lassen Sie mir Zeit, um *Luft zu holen*, bevor ich eine Entscheidung treffe", bat er.
+
+  Le vent *soufflait* si fort qu'il était difficile de marcher droit.
+  Der Wind *wehte* so stark, dass es schwierig war, geradeaus zu gehen.
+
+  "*Souffle* sur ta blessure, ça aidera", conseilla la mère à son enfant.
+  "*Puste* auf deine Wunde, das wird helfen", riet die Mutter ihrem Kind.
+
+  Les pompiers ont dû *souffler* la fumée hors du bâtiment avec de gros ventilateurs.
+  Die Feuerwehrleute mussten den Rauch mit großen Ventilatoren aus dem Gebäude *pusten*.
+
+  L'explosion a *soufflé* les vitres de tout le quartier.
+  Die Explosion hat die Fensterscheiben im ganzen Viertel *zerstört*.
+
+  Il lui *souffla* discrètement la réponse pendant l'examen.
+  Er *flüsterte* ihr während der Prüfung heimlich die Antwort zu.
+
+  Son collègue lui a *soufflé* l'idée de ce projet innovant.
+  Sein Kollege hat ihm die Idee für dieses innovative Projekt *zugeflüstert*.
+
+  La nouvelle de sa victoire nous a complètement *soufflés*.
+  Die Nachricht von seinem Sieg hat uns völlig *sprachlos gemacht*.
+
+  Les verriers *soufflent* le verre pour créer des formes uniques.
+  Die Glasbläser *blasen* das Glas, um einzigartige Formen zu schaffen.
+
+  "N'oubliez pas de *souffler* sur vos mains si elles ont froid", rappela le guide.
+  "Vergessen Sie nicht, in Ihre Hände zu *hauchen*, wenn sie kalt sind", erinnerte der Führer.
+
+  Le vent *soufflait* si fort qu'il emportait les feuilles mortes dans un tourbillon.
+  Der Wind *wehte* so stark, dass er die toten Blätter in einem Wirbel davontrug.
+
+  Après la course, il s'est arrêté pour *souffler* un moment.
+  Nach dem Rennen hielt er an, um einen Moment zu *verschnaufen*.
+
+  "*Soufflez* doucement dans ce tube pour le test d'alcoolémie", demanda le policier.
+  "*Blasen* Sie vorsichtig in dieses Röhrchen für den Alkoholtest", forderte der Polizist.
+
+  Le saxophoniste *souffla* dans son instrument, remplissant la salle de musique jazz.
+  Der Saxophonist *blies* in sein Instrument und erfüllte den Saal mit Jazzmusik.
+
+  Elle *souffla* sur la bulle de savon, l'envoyant flotter dans l'air.
+  Sie *blies* auf die Seifenblase und schickte sie schwebend in die Luft.
+
+  Le marathonien *soufflait* bruyamment en approchant de la ligne d'arrivée.
+  Der Marathonläufer *keuchte* laut, als er sich der Ziellinie näherte.
+
+  "J'ai besoin de *souffler* un peu après cette longue journée de travail", dit-il en s'étirant.
+  "Ich muss nach diesem langen Arbeitstag etwas *durchatmen*", sagte er und streckte sich.
+
+  Le vent *soufflait* en rafales, faisant claquer les volets.
+  Der Wind *wehte* in Böen und ließ die Fensterläden klappern.
+
+  "*Souffle* sur la cuillère avant de goûter, c'est encore chaud", conseilla-t-elle.
+  "*Puste* auf den Löffel, bevor du probierst, es ist noch heiß", riet sie.
+
+  Les ouvriers ont utilisé un puissant ventilateur pour *souffler* les débris hors du chantier.
+  Die Arbeiter benutzten einen starken Ventilator, um den Schutt von der Baustelle *wegzublasen*.
+
+  La tornade a *soufflé* plusieurs maisons dans le village.
+  Der Tornado hat mehrere Häuser im Dorf *zerstört*.
+
+  L'ami lui *souffla* la bonne réponse pendant le jeu télévisé.
+  Der Freund *flüsterte* ihm während der Fernsehshow die richtige Antwort zu.
+
+  Son mentor lui a *soufflé* l'idée de postuler pour ce poste.
+  Sein Mentor hat ihm die Idee *eingeflüstert*, sich auf diese Stelle zu bewerben.
+
+  La performance de l'illusionniste nous a complètement *soufflés*.
+  Die Vorstellung des Zauberkünstlers hat uns völlig *umgehauen*.
+
+  Dans cet atelier, les artisans *soufflent* le verre pour fabriquer des vases uniques.
+  In diesem Atelier *blasen* die Handwerker Glas, um einzigartige Vasen herzustellen.
+
+  "*Soufflez* sur votre café s'il est trop chaud", suggéra le serveur.
+  "*Pusten* Sie auf Ihren Kaffee, wenn er zu heiß ist", schlug der Kellner vor.
+
+  Le vent *soufflait* si fort qu'il faisait onduler les champs de blé.
+  Der Wind *wehte* so stark, dass er die Weizenfelder wogen ließ.
+
+  Après l'exercice intensif, il s'arrêta un instant pour *souffler*.
+  Nach der intensiven Übung hielt er einen Moment inne, um zu *verschnaufen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,23 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  D’accord, ça me paraît correct.
-  Ok, das klingt richtig.
+  D'accord, ça me paraît *correct*.
+  Okay, das erscheint mir *korrekt*.
 
-  La réponse est correcte.
-  Die Antwort ist korrekt.
+  Cette traduction n'est pas *correcte* du tout.
+  Diese Übersetzung ist überhaupt nicht *korrekt*.
 
-  Ça n’est toujours pas correct.
-  Das ist immer noch nicht richtig.
+  Mon professeur m'a dit que ma réponse était *correcte*.
+  Mein Lehrer sagte mir, dass meine Antwort *richtig* war.
 
-  Il faut être correct avec ses clients, sinon ils ne reviendront pas.
-  Man muss seine Kunden korrekt behandeln, sonst kommen sie nicht wieder.
+  "Le prix n'est pas très élevé et la qualité est *correcte*."
+  "Der Preis ist nicht sehr hoch und die Qualität ist *annehmbar*."
 
-  Tu peux me passer le sel?<br>- C'est correct.
-  "Kannst du mir bitte das Salz reichen?"<br>"Ist in Ordnung."
+  Elle s'est toujours montrée très *correcte* avec ses collègues.
+  Sie hat sich ihren Kollegen gegenüber immer sehr *korrekt* verhalten.
 
-  Il faut être correct en affaires, sinon on risque de perdre des clients.
-  Man muss in geschäftlichen Dingen korrekt sein, sonst riskiert man Kunden zu verlieren.
+  Il faut maintenir une distance *correcte* entre les véhicules.
+  Man muss einen *angemessenen* Abstand zwischen den Fahrzeugen einhalten.
+
+  Le *correct* fonctionnement de cet appareil est essentiel.
+  Die *einwandfreie* Funktion dieses Geräts ist wesentlich.
+
+  Pour entrer dans ce restaurant, une tenue *correcte* est exigée.
+  Für dieses Restaurant ist *angemessene* Kleidung erforderlich.
+
+  Cette phrase n'est pas grammaticalement *correcte*.
+  Dieser Satz ist grammatikalisch nicht *korrekt*.
+
+  Son comportement a toujours été *correct* en affaires.
+  Sein Verhalten war in geschäftlichen Dingen stets *korrekt*.
+
+  Tous les calculs dans ce devoir sont *corrects*.
+  Alle Berechnungen in dieser Aufgabe sind *richtig*.
+
+  La température est maintenue à un niveau *correct*.
+  Die Temperatur wird auf einem *angemessenen* Niveau gehalten.
+
+  "Ce film était juste *correct*, rien de plus."
+  "Dieser Film war nur *passabel*, mehr nicht."
+
+  Pour un trois étoiles, cet hôtel est très *correct*.
+  Für ein Drei-Sterne-Hotel ist dieses Hotel sehr *anständig*.
+
+  Il est important d'avoir une vision *correcte* de la situation.
+  Es ist wichtig, eine *richtige* Sicht auf die Situation zu haben.
+
+  Le déroulement de l'événement était parfaitement *correct*.
+  Der Ablauf der Veranstaltung war vollkommen *korrekt*.
+
+  Votre raisonnement n'est pas *correct*.
+  Ihre Argumentation ist nicht *schlüssig*.
+
+  Cette copie est *correcte* et fidèle à l'original.
+  Diese Kopie ist *originalgetreu* und authentisch.
+
+  La rémunération proposée est tout à fait *correcte*.
+  Die angebotene Bezahlung ist durchaus *angemessen*.
+
+  Son français n'est pas très *correct*, mais on le comprend.
+  Sein Französisch ist nicht sehr *korrekt*, aber man versteht ihn.
+
+  Elle s'efforce toujours d'écrire de manière *correcte*.
+  Sie bemüht sich immer, *korrekt* zu schreiben.
+
+  Les résultats du test sont *corrects*.
+  Die Testergebnisse sind *richtig*.
+
+  Cette édition est très *correcte* et respecte bien le texte original.
+  Diese Ausgabe ist sehr *genau* und respektiert den Originaltext.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

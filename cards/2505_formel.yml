@@ -13,11 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La morale, quand elle est formelle, dévore.
-  Moral, wenn sie formal ist, verschlingt.
+  La morale, quand elle est *formelle*, dévore.
+  Eine Moral, die nur *formal* ist, verschlingt alles.
 
-  Elle a été formelle sur son intention de démissionner.
-  Sie hat sich in Bezug auf ihre Absicht, zurückzutreten, klar ausgedrückt.
+  L'engagement *formel* du président a rassuré la population.
+  Das *ausdrückliche* Versprechen des Präsidenten beruhigte die Bevölkerung.
+
+  Le juge a donné un ordre *formel* d'évacuer le bâtiment.
+  Der Richter gab den *strikten* Befehl, das Gebäude zu räumen.
+
+  Les preuves sont *formelles* : l'accusé était sur les lieux du crime.
+  Die Beweise sind *eindeutig*: Der Angeklagte war am Tatort.
+
+  Le médecin a été *formel* sur la nécessité d'arrêter de fumer.
+  Der Arzt hat sich in Bezug auf die Notwendigkeit, mit dem Rauchen aufzuhören, *klar ausgedrückt*.
+
+  L'analyse *formelle* du poème révèle une structure complexe.
+  Die *Form*analyse des Gedichts offenbart eine komplexe Struktur.
+
+  Cette cérémonie n'est que pure *formalité*.
+  Diese Zeremonie ist reine *Formsache*.
+
+  La logique *formelle* étudie la validité des raisonnements.
+  Die *formale* Logik untersucht die Gültigkeit von Argumenten.
+
+  Le démenti *formel* du gouvernement n'a pas convaincu l'opposition.
+  Das *entschiedene* Dementi der Regierung hat die Opposition nicht überzeugt.
+
+  La beauté *formelle* de cette sculpture est remarquable.
+  Die *formale* Schönheit dieser Skulptur ist bemerkenswert.
+
+  "Je suis *formel* : ce n'est pas moi qui ai pris votre stylo."
+  "Ich bin mir *sicher*: Ich habe Ihren Stift nicht genommen."
+
+  L'égalité *formelle* devant la loi ne garantit pas l'égalité réelle.
+  Die *formale* Gleichheit vor dem Gesetz garantiert keine tatsächliche Gleichheit.
+
+  La grammaire *formelle* s'intéresse à la structure syntaxique des phrases.
+  Die *formale* Grammatik beschäftigt sich mit der syntaktischen Struktur von Sätzen.
+
+  Son refus *formel* de coopérer a compliqué l'enquête.
+  Seine *entschiedene* Weigerung zu kooperieren hat die Ermittlungen erschwert.
+
+  La validité *formelle* du contrat a été confirmée par l'avocat.
+  Die *formale* Gültigkeit des Vertrags wurde vom Anwalt bestätigt.
+
+  Cette politesse *formelle* cache souvent une profonde indifférence.
+  Diese *formelle* Höflichkeit verbirgt oft eine tiefe Gleichgültigkeit.
+
+  Le testament contient des instructions *formelles* concernant l'héritage.
+  Das Testament enthält *eindeutige* Anweisungen bezüglich der Erbschaft.
+
+  L'étude *formelle* du texte a révélé des motifs récurrents.
+  Die *formale* Untersuchung des Textes hat wiederkehrende Motive aufgedeckt.
+
+  Les libertés *formelles* ne suffisent pas à garantir une véritable démocratie.
+  *Formale* Freiheiten reichen nicht aus, um eine echte Demokratie zu garantieren.
+
+  La structure *formelle* de ce roman est particulièrement innovante.
+  Die *formale* Struktur dieses Romans ist besonders innovativ.
+
+  Le juge a rejeté l'argument *formel* pour examiner le fond de l'affaire.
+  Der Richter wies das *formale* Argument zurück, um den Kern der Sache zu untersuchen.
+
+  La loi est *formelle* : il est interdit de fumer dans les lieux publics.
+  Das Gesetz ist *eindeutig*: Rauchen ist in öffentlichen Räumen verboten.
+
+  Cette protestation *formelle* n'a eu aucun effet concret.
+  Dieser *förmliche* Protest hatte keine konkreten Auswirkungen.
+
+  L'analyse *formelle* de la langue ne tient pas compte du sens des mots.
+  Die *formale* Sprachanalyse berücksichtigt nicht die Bedeutung der Wörter.
+
+  Le médecin a été *formel* : vous devez vous reposer pendant une semaine.
+  Der Arzt war *eindeutig*: Sie müssen sich eine Woche lang ausruhen.
+
+  La beauté *formelle* de l'œuvre masque son manque de profondeur.
+  Die *formale* Schönheit des Werks verdeckt seinen Mangel an Tiefe.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

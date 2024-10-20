@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il récompensait mes efforts d’un compliment.
-  Er belohnte meine Bemühungen mit einem Kompliment.
+  Il *récompensait* mes efforts d'un compliment.
+  Er *belohnte* meine Bemühungen mit einem Kompliment.
 
-  Le professeur a récompensé les élèves pour leur travail acharné.
-  Der Lehrer hat die Schüler für ihre harte Arbeit belohnt.
+  L'entreprise *récompense* ses employés les plus performants par des primes.
+  Das Unternehmen *belohnt* seine leistungsstärksten Mitarbeiter mit Boni.
 
-  Le patron a récompensé ses employés d'un effort supplémentaire.
-  Der Chef hat seine Mitarbeiter für ihren zusätzlichen Einsatz belohnt.
+  "Je te *récompenserai* pour ton aide", a-t-elle promis à son ami.
+  "Ich werde dich für deine Hilfe *belohnen*", versprach sie ihrem Freund.
 
-  Le gouvernement a récompensé les soldats pour leur service pendant la guerre.
-  Die Regierung hat die Soldaten für ihren Dienst während des Krieges belohnt.
+  Le courage du pompier a été *récompensé* par une médaille.
+  Der Mut des Feuerwehrmanns wurde mit einer Medaille *belohnt*.
+
+  Les parents *récompensent* souvent leurs enfants pour de bonnes notes.
+  Eltern *belohnen* ihre Kinder oft für gute Noten.
+
+  Son travail acharné a finalement été *récompensé* par une promotion.
+  Seine harte Arbeit wurde schließlich mit einer Beförderung *belohnt*.
+
+  Le professeur a *récompensé* l'élève le plus assidu de la classe.
+  Der Lehrer hat den fleißigsten Schüler der Klasse *belohnt*.
+
+  Les bénévoles ont été *récompensés* pour leur dévouement à la communauté.
+  Die Freiwilligen wurden für ihr Engagement in der Gemeinde *belohnt*.
+
+  Le comité olympique *récompense* les athlètes avec des médailles.
+  Das Olympische Komitee *belohnt* die Athleten mit Medaillen.
+
+  Elle s'est sentie *récompensée* de ses efforts quand elle a reçu son diplôme.
+  Sie fühlte sich für ihre Anstrengungen *belohnt*, als sie ihr Diplom erhielt.
+
+  Le succès du film *récompense* le travail acharné de toute l'équipe.
+  Der Erfolg des Films *belohnt* die harte Arbeit des gesamten Teams.
+
+  Les clients fidèles sont *récompensés* par un programme de points.
+  Treue Kunden werden durch ein Punkteprogramm *belohnt*.
+
+  Le chien a été *récompensé* d'une friandise pour avoir bien obéi.
+  Der Hund wurde mit einem Leckerli *belohnt*, weil er gut gehorcht hat.
+
+  "Ton honnêteté sera *récompensée*", lui a assuré son patron.
+  "Deine Ehrlichkeit wird *belohnt* werden", versicherte ihm sein Chef.
+
+  La nature *récompense* parfois la patience du photographe animalier.
+  Die Natur *belohnt* manchmal die Geduld des Tierfotografen.
+
+  Les efforts de l'équipe ont été *récompensés* par une victoire éclatante.
+  Die Bemühungen des Teams wurden mit einem glänzenden Sieg *belohnt*.
+
+  La société *récompense* l'innovation en accordant des brevets.
+  Die Gesellschaft *belohnt* Innovation durch die Vergabe von Patenten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

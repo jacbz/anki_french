@@ -13,20 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il ne leur reste donc qu’une option.
-  Daher bleibt ihnen nur eine Option.
+  Il ne leur reste donc qu'une *option*.
+  Es bleibt ihnen also nur eine *Option*.
 
-  J’ai pris l’option de partir plus tôt.
-  Ich habe die Option gewählt, früher zu gehen.
+  Les étudiants doivent choisir une *option* pour compléter leur programme.
+  Die Studenten müssen ein *Wahlfach* wählen, um ihr Programm zu vervollständigen.
 
-  L'option « découper et coller » est très pratique pour déplacer du texte d'un document à un autre.
-  Die Option „Ausschneiden und einfügen“ ist sehr praktisch, um Text von einem Dokument in ein anderes zu verschieben.
+  J'ai pris l'*option* "découper et coller" dans le menu du logiciel.
+  Ich habe die *Option* "Ausschneiden und Einfügen" im Menü der Software gewählt.
 
-  La banque a pris une option sur un appartement dans le quartier, pour le proposer à ses clients.
-  Die Bank hat sich das Vorkaufsrecht auf eine Wohnung im Viertel gesichert, um sie ihren Kunden anzubieten.
+  L'histoire est une *option* populaire dans notre lycée.
+  Geschichte ist ein beliebtes *Wahlfach* an unserem Gymnasium.
 
-  Malgré la crise, l'entreprise a choisi l'option zéro, en refusant tout plan de restructuration.
-  Trotz der Krise hat sich das Unternehmen für die Nullösung entschieden, indem es jeglichen Restrukturierungsplan abgelehnt hat.
+  Nous avons décidé de prendre une *option* sur cet appartement.
+  Wir haben beschlossen, uns das *Vorkaufsrecht* für diese Wohnung zu sichern.
+
+  Cette voiture est disponible en plusieurs *options*.
+  Dieses Auto ist in verschiedenen *Ausführungen* erhältlich.
+
+  Le toit ouvrant est proposé en *option* sur ce modèle.
+  Das Schiebedach wird bei diesem Modell als *Sonderausstattung* angeboten.
+
+  Les *options* politiques du parti ont évolué au fil des années.
+  Die politischen *Optionen* der Partei haben sich im Laufe der Jahre weiterentwickelt.
+
+  Il faut étudier toutes les *options* possibles avant de prendre une décision.
+  Man muss alle möglichen *Wahlmöglichkeiten* prüfen, bevor man eine Entscheidung trifft.
+
+  La musique est une *option* au baccalauréat cette année.
+  Musik ist dieses Jahr ein *Wahlfach* im Abitur.
+
+  Nous devons considérer l'*option* zéro comme une possibilité.
+  Wir müssen die *Nullösung* als eine Möglichkeit in Betracht ziehen.
+
+  Les *options* sur actions sont un sujet complexe en finance.
+  *Aktienoptionen* sind ein komplexes Thema in der Finanzwelt.
+
+  "Tu as plusieurs *options*, choisis celle qui te convient le mieux."
+  "Du hast mehrere *Möglichkeiten*, wähle die, die dir am besten passt."
+
+  L'entreprise offre des stock-*options* à ses cadres supérieurs.
+  Das Unternehmen bietet seinen Führungskräften *Aktienoptionen* an.
+
+  Il faut peser le pour et le contre de chaque *option*.
+  Man muss das Für und Wider jeder *Option* abwägen.
+
+  Les *options* de personnalisation sont nombreuses sur ce site web.
+  Die *Anpassungsmöglichkeiten* auf dieser Website sind zahlreich.
+
+  L'achat de cette maison n'est qu'une *option* parmi d'autres.
+  Der Kauf dieses Hauses ist nur eine *Option* unter vielen.
+
+  Nous avons levé l'*option* d'achat sur le terrain adjacent.
+  Wir haben die Kauf*option* für das angrenzende Grundstück wahrgenommen.
+
+  Les *options* de paiement incluent le virement bancaire et la carte de crédit.
+  Die Zahlungs*optionen* umfassen Banküberweisung und Kreditkarte.
+
+  Le droit d'*option* de l'héritier est limité dans le temps.
+  Das *Wahlrecht* des Erben ist zeitlich begrenzt.
+
+  L'*option* "Ne pas déranger" est très utile sur les smartphones.
+  Die *Option* "Nicht stören" ist sehr nützlich auf Smartphones.
+
+  Elle a choisi l'espagnol comme *option* pour sa dernière année d'études.
+  Sie hat Spanisch als *Wahlfach* für ihr letztes Studienjahr gewählt.
+
+  Les *options* végétariennes sont de plus en plus présentes dans les restaurants.
+  Vegetarische *Optionen* sind in Restaurants immer häufiger zu finden.
+
+  L'*option* d'annulation gratuite a convaincu de nombreux clients.
+  Die *Option* der kostenlosen Stornierung hat viele Kunden überzeugt.
+
+  Nous devons garder toutes nos *options* ouvertes dans cette négociation.
+  Wir müssen uns in dieser Verhandlung alle *Möglichkeiten* offen halten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

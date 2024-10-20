@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je pourrais peut-être simplifier les choses pour vous.
-  Vielleicht kann ich die Dinge für Sie vereinfachen.
+  Je pourrais peut-être *simplifier* les choses pour vous.
+  Ich könnte die Dinge für Sie vielleicht *vereinfachen*.
 
-  Il faut simplifier les procédures administratives.
-  Die Verwaltungsverfahren müssen vereinfacht werden.
+  Notre nouveau logiciel *simplifie* grandement la gestion des stocks.
+  Unsere neue Software *vereinfacht* die Lagerverwaltung erheblich.
 
-  Elle a décidé de se simplifier la vie en déménageant à la campagne.
-  Sie hat beschlossen, sich das Leben zu erleichtern, indem sie aufs Land zieht.
+  Il faut *simplifier* cette procédure administrative, elle est trop complexe.
+  Dieses Verwaltungsverfahren muss *vereinfacht* werden, es ist zu kompliziert.
 
-  Il a essayé de simplifier son existence en réduisant ses dépenses.
-  Er hat versucht, sich das Dasein zu erleichtern, indem er seine Ausgaben reduziert hat.
+  Les nouvelles technologies ont *simplifié* notre vie quotidienne.
+  Die neuen Technologien haben unser tägliches Leben *erleichtert*.
+
+  Pour *simplifier* le problème, concentrons-nous sur les points essentiels.
+  Um das Problem zu *vereinfachen*, konzentrieren wir uns auf die wesentlichen Punkte.
+
+  Le gouvernement cherche à *simplifier* le code des impôts.
+  Die Regierung versucht, das Steuerrecht zu *vereinfachen*.
+
+  Cette application *simplifie* la réservation de billets d'avion.
+  Diese App *vereinfacht* die Buchung von Flugtickets.
+
+  Les mathématiciens cherchent souvent à *simplifier* les équations complexes.
+  Mathematiker versuchen oft, komplexe Gleichungen zu *vereinfachen*.
+
+  "J'essaie toujours de me *simplifier* la vie quand c'est possible."
+  "Ich versuche immer, mir das Leben zu *erleichtern*, wenn es möglich ist."
+
+  En *simplifiant* trop l'explication, on risque de perdre des nuances importantes.
+  Wenn man die Erklärung zu sehr *vereinfacht*, läuft man Gefahr, wichtige Nuancen zu verlieren.
+
+  Le chef a *simplifié* la recette pour la rendre accessible à tous.
+  Der Koch hat das Rezept *vereinfacht*, um es für alle zugänglich zu machen.
+
+  Il faut *simplifier* cette fraction en divisant le numérateur et le dénominateur par 2.
+  Man muss diesen Bruch *kürzen*, indem man Zähler und Nenner durch 2 teilt.
+
+  La méditation peut vous aider à *simplifier* votre vie mentale.
+  Meditation kann Ihnen helfen, Ihr geistiges Leben zu *vereinfachen*.
+
+  Nous devons *simplifier* notre message pour le rendre plus percutant.
+  Wir müssen unsere Botschaft *vereinfachen*, um sie einprägsamer zu machen.
+
+  Le nouveau système a considérablement *simplifié* les démarches administratives.
+  Das neue System hat die Verwaltungsabläufe erheblich *vereinfacht*.
+
+  "Tu devrais *simplifier* ton discours pour que tout le monde comprenne."
+  "Du solltest deine Rede *vereinfachen*, damit sie jeder versteht."
+
+  En *simplifiant* le processus, nous avons augmenté notre productivité.
+  Indem wir den Prozess *vereinfacht* haben, haben wir unsere Produktivität gesteigert.
+
+  Les ingénieurs travaillent constamment à *simplifier* l'interface utilisateur.
+  Die Ingenieure arbeiten ständig daran, die Benutzeroberfläche zu *vereinfachen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,47 +13,185 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis sûr qu’elle est en vie.
-  Ich bin mir sicher, dass sie noch am Leben ist.
+  Je suis sûr qu'elle est en *vie*.
+  Ich bin sicher, dass sie am *Leben* ist.
 
-  La vie est belle.
-  Das Leben ist schön.
+  La *vie* éternelle est un concept religieux important.
+  Das ewige *Leben* ist ein wichtiges religiöses Konzept.
 
-  La vie est comme ça.
-  Das Leben ist so.
+  Cet hôpital est plein de *vie* et d'activité jour et nuit.
+  Dieses Krankenhaus ist Tag und Nacht voller *Leben* und Aktivität.
 
-  Je vous dois la vie.
-  Ich schulde Ihnen mein Leben.
+  Le patient était entre la *vie* et la mort pendant plusieurs jours.
+  Der Patient schwebte tagelang zwischen *Leben* und Tod.
 
-  Le blessé était entre la vie et la mort après l'accident.
-  Der Verletzte schwebte zwischen Leben und Tod nach dem Unfall.
+  Son discours a donné *vie* à nos espoirs pour l'avenir.
+  Seine Rede hat unsere Hoffnungen für die Zukunft zum *Leben* erweckt.
 
-  La naissance de leur premier enfant leur a donné la vie à tous les deux.
-  Die Geburt ihres ersten Kindes hat ihnen beiden das Leben neu geschenkt.
+  Elle a donné la *vie* à son premier enfant hier soir.
+  Gestern Abend hat sie ihrem ersten Kind das *Leben* geschenkt.
 
-  Elle a donné sa vie pour sauver son enfant du feu.
-  Sie hat ihr Leben geopfert, um ihr Kind vor dem Feuer zu retten.
+  Il a donné sa *vie* pour sauver son pays.
+  Er hat sein *Leben* geopfert, um sein Land zu retten.
 
-  Les médecins ont réussi à rappeler le patient à la vie grâce à une intervention d'urgence.
-  Die Ärzte haben es geschafft, den Patienten durch eine Notfallintervention ins Leben zurückzuholen.
+  Le criminel a payé ses actes de sa *vie*.
+  Der Verbrecher hat seine Taten mit seinem *Leben* bezahlt.
 
-  La vie quotidienne peut être monotone, mais elle est aussi précieuse.
-  Das tägliche Leben kann eintönig sein, aber es ist auch kostbar.
+  Les médecins ont réussi à rappeler le patient à la *vie*.
+  Die Ärzte haben es geschafft, den Patienten ins *Leben* zurückzuholen.
 
-  Leur vie en commun était basée sur le respect et l'amour.
-  Ihr Gemeinschaftsleben basierte auf Respekt und Liebe.
+  Après une longue dépression, elle revient enfin à la *vie*.
+  Nach einer langen Depression kehrt sie endlich ins *Leben* zurück.
 
-  Il faut apprendre à prendre la vie du bon côté, même en temps de difficulté.
-  Man muss lernen, dem Leben die guten Seiten abzugewinnen, auch in Zeiten der Not.
+  Certains croient à une *vie* après la mort.
+  Manche glauben an ein *Leben* nach dem Tod.
 
-  Il menait une double vie, travaillant comme avocat le jour et comme espion la nuit.
-  Er führte ein Doppelleben, arbeitete tagsüber als Anwalt und nachts als Spion.
+  "Je t'aimerai pour la *vie*," lui a-t-il promis.
+  "Ich werde dich für immer *lieben*", versprach er ihr.
 
-  Ils ont décidé de mener la grande vie après avoir gagné à la loterie.
-  Sie beschlossen, in Saus und Braus zu leben, nachdem sie im Lotto gewonnen hatten.
+  "Jamais de la *vie* je ne ferai ça !" s'exclama-t-elle.
+  "Niemals im *Leben* werde ich das tun!", rief sie aus.
 
-  Elle voit la vie en rose et ne se laisse jamais décourager par les difficultés.
-  Sie sieht alles durch die rosa Brille und lässt sich von Schwierigkeiten nie entmutigen.
+  Malgré l'accident, il est toujours en *vie*.
+  Trotz des Unfalls ist er noch am *Leben*.
+
+  Le corps sans *vie* a été découvert ce matin.
+  Der leblose Körper wurde heute Morgen entdeckt.
+
+  La *vie* active commence généralement après les études.
+  Das *Berufsleben* beginnt in der Regel nach dem Studium.
+
+  Elle préfère la *vie* citadine à la campagne.
+  Sie bevorzugt das Stadt*leben* gegenüber dem Land.
+
+  La *vie* quotidienne est parfois monotone.
+  Das tägliche *Leben* ist manchmal eintönig.
+
+  La *vie* en communauté peut être enrichissante.
+  Das Gemeinschafts*leben* kann bereichernd sein.
+
+  Depuis son mariage, elle a la *vie* belle.
+  Seit ihrer Heirat hat sie ein schönes *Leben*.
+
+  Il faut prendre la *vie* du bon côté pour être heureux.
+  Man muss dem *Leben* die guten Seiten abgewinnen, um glücklich zu sein.
+
+  "C'est la belle *vie* !" s'exclama-t-il en vacances.
+  "So lässt es sich *leben*!", rief er im Urlaub aus.
+
+  On soupçonnait qu'il menait une double *vie*.
+  Man vermutete, dass er ein Doppel*leben* führte.
+
+  Les célébrités mènent souvent la grande *vie*.
+  Prominente *leben* oft in Saus und Braus.
+
+  Malgré les difficultés, elle voit toujours la *vie* en rose.
+  Trotz der Schwierigkeiten sieht sie immer noch alles durch die rosa Brille.
+
+  Quand les choses vont mal, on se dit "c'est la *vie* !"
+  Wenn die Dinge schlecht laufen, sagt man sich "so ist das *Leben*!"
+
+  "Ce n'est pas une *vie* !" se plaignait-il de son travail stressant.
+  "Das ist doch kein *Leben*!", beklagte er sich über seinen stressigen Job.
+
+  Elle a décidé de vivre sa *vie* comme elle l'entendait.
+  Sie beschloss, ihr *Leben* so zu leben, wie sie es für richtig hielt.
+
+  Le biographe a raconté la *vie* du célèbre écrivain.
+  Der Biograf erzählte die *Lebens*geschichte des berühmten Schriftstellers.
+
+  L'absence de *vie* dans le centre-ville inquiète les commerçants.
+  Die *Leblosigkeit* in der Innenstadt beunruhigt die Händler.
+
+  La science de la *vie* étudie tous les êtres vivants.
+  Die *Biologie* untersucht alle Lebewesen.
+
+  L'espérance de *vie* augmente dans de nombreux pays.
+  Die *Lebens*erwartung steigt in vielen Ländern.
+
+  Il a été condamné à la prison à *vie*.
+  Er wurde zu lebens*länglicher* Haft verurteilt.
+
+  Son style de *vie* sain lui permet de rester en forme.
+  Sein gesunder *Lebens*stil ermöglicht es ihm, fit zu bleiben.
+
+  La *vie* privée des célébrités est souvent exposée dans les médias.
+  Das Privat*leben* von Prominenten wird oft in den Medien ausgebreitet.
+
+  Beaucoup de gens cherchent un équilibre entre *vie* professionnelle et personnelle.
+  Viele Menschen suchen nach einer Balance zwischen Berufs- und Privat*leben*.
+
+  Sa *vie* spirituelle est très importante pour elle.
+  Ihr geistliches *Leben* ist ihr sehr wichtig.
+
+  Le coût de la *vie* augmente chaque année.
+  Die *Lebens*haltungskosten steigen jedes Jahr.
+
+  Il faut savoir regarder la *vie* en face pour avancer.
+  Man muss dem *Leben* ins Auge sehen können, um voranzukommen.
+
+  La *vie* des sociétés évolue constamment.
+  Das *Leben* der Gesellschaften entwickelt sich ständig weiter.
+
+  Les astronomes étudient la *vie* des étoiles.
+  Die Astronomen untersuchen das *Leben* der Sterne.
+
+  Certains préjugés ont la *vie* dure dans notre société.
+  Manche Vorurteile haben in unserer Gesellschaft ein zähes *Leben*.
+
+  La *vie* marine est menacée par la pollution.
+  Das *Leben* im Meer ist durch Verschmutzung bedroht.
+
+  Cette plante a une *vie* de cinq ans en moyenne.
+  Diese Pflanze hat eine durchschnittliche *Lebens*dauer von fünf Jahren.
+
+  Les pompiers ont sauvé la *vie* de plusieurs personnes lors de l'incendie.
+  Die Feuerwehrleute haben bei dem Brand mehreren Menschen das *Leben* gerettet.
+
+  La *vie* des femmes au XIXe siècle était très différente d'aujourd'hui.
+  Das *Leben* der Frauen im 19. Jahrhundert war sehr anders als heute.
+
+  Elle m'a raconté sa *vie* en détail lors de notre rencontre.
+  Sie hat mir bei unserem Treffen ihr *Leben* ausführlich erzählt.
+
+  J'ai lu la *vie* de Nelson Mandela, c'était fascinant.
+  Ich habe Nelson Mandelas *Lebens*geschichte gelesen, es war faszinierend.
+
+  Il est important de séparer sa *vie* privée et sa *vie* professionnelle.
+  Es ist wichtig, Privat*leben* und Berufs*leben* zu trennen.
+
+  Les hasards de la *vie* l'ont conduit dans ce pays lointain.
+  Die Zufälle des *Lebens* haben ihn in dieses ferne Land geführt.
+
+  Cette machine aura eu la *vie* courte à cause de sa fragilité.
+  Diese Maschine wird aufgrund ihrer Fragilität nur eine kurze *Lebens*dauer haben.
+
+  La *vie* de l'entreprise a été perturbée par la crise économique.
+  Das *Leben* des Unternehmens wurde durch die Wirtschaftskrise gestört.
+
+  La *vie* artistique en France au XXe siècle était très riche.
+  Das Kunst*leben* in Frankreich im 20. Jahrhundert war sehr reichhaltig.
+
+  La *vie* est chère dans les grandes villes.
+  Das *Leben* ist in den Großstädten teuer.
+
+  Ce film est plein de *vie* et d'énergie.
+  Dieser Film ist voller *Leben* und Energie.
+
+  La *vie* étudiante est une période d'apprentissage et de découverte.
+  Das Studenten*leben* ist eine Zeit des Lernens und der Entdeckungen.
+
+  Les conditions de *vie* se sont améliorées au fil des siècles.
+  Die *Lebens*bedingungen haben sich im Laufe der Jahrhunderte verbessert.
+
+  La *vie* politique du pays est agitée en ce moment.
+  Das politische *Leben* des Landes ist derzeit turbulent.
+
+  Elle a consacré sa *vie* à aider les autres.
+  Sie hat ihr *Leben* der Hilfe für andere gewidmet.
+
+  La *vie* moderne est souvent stressante et rapide.
+  Das moderne *Leben* ist oft stressig und schnell.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

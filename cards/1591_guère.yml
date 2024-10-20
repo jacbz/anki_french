@@ -13,41 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mon travail n’avançait guère.
-  Meine Arbeit machte kaum Fortschritte.
+  Mon travail n'avançait *guère*.
+  Meine Arbeit kam kaum *voran*.
 
-  Je ne mange guère de viande.
-  Ich esse kaum Fleisch.
+  Je ne vois *guère* de solution à ce problème.
+  Ich sehe *kaum* eine Lösung für dieses Problem.
 
-  Le malade ne mangeait guère et ne parlait presque plus.
-  Der Kranke a fast gar nichts gegessen und kaum noch gesprochen.
+  Elle ne sort *guère* depuis son accident.
+  Sie geht seit ihrem Unfall *kaum* aus.
 
-  Il ne fait plus guère de sport depuis son accident.
-  Er treibt seit seinem Unfall nicht mehr oft Sport.
+  Ce restaurant n'est *guère* fréquenté le soir.
+  Dieses Restaurant wird abends *kaum* besucht.
 
-  Le soleil brille, mais ça ne dure guère.
-  Die Sonne scheint, aber das dauert nicht lange.
+  Il n'y a *guère* que toi qui puisses m'aider.
+  *Nur* du kannst mir helfen.
 
-  Je ne peux guère demander qu'à mes parents pour me faire aider.
-  Ich kann höchstens meine Eltern fragen, um mir helfen zu lassen.
+  La réunion n'a *guère* duré plus d'une heure.
+  Die Besprechung hat *kaum* länger als eine Stunde gedauert.
 
-  On ne parle guère de lui dans la famille.
-  Man spricht kaum von ihm in der Familie.
+  Ce film n'est *guère* original.
+  Dieser Film ist nicht *besonders* originell.
 
-  Il ne lit plus guère depuis qu'il a trouvé un nouveau passe-temps.
-  Er liest kaum noch, seit er ein neues Hobby gefunden hat.
+  Je ne mange *guère* de viande.
+  Ich esse *kaum* Fleisch.
 
-  Il n'est guère poli, mais il est gentil.
-  Er ist nicht gerade höflich, aber er ist nett.
+  Il ne reste *guère* de temps avant le départ.
+  Es bleibt *kaum noch* Zeit bis zur Abreise.
 
-  Il n'aime guère l'art moderne, il préfère les tableaux classiques.
-  Er mag moderne Kunst nicht so gerne, er bevorzugt klassische Gemälde.
+  Cette méthode n'est *guère* efficace.
+  Diese Methode ist nicht *sehr* effektiv.
 
-  Elle ne se soucie guère de l'avenir, elle vit au jour le jour.
-  Sie sorgt sich kaum um die Zukunft, sie lebt von Tag zu Tag.
+  Nous n'avons *guère* progressé dans nos recherches.
+  Wir haben in unserer Forschung *kaum* Fortschritte gemacht.
 
-  Il n'y a guère de monde ici, on pourrait dire que c'est désert.
-  Es ist kaum jemand hier, man könnte sagen, es ist wie ausgestorben.
+  Le temps n'a *guère* changé depuis hier.
+  Das Wetter hat sich seit gestern *kaum* geändert.
+
+  Je ne connais *guère* les coutumes locales.
+  Ich kenne die örtlichen Bräuche *kaum*.
+
+  Cette décision ne me plaît *guère*.
+  Diese Entscheidung gefällt mir *nicht sonderlich*.
+
+  Il n'y a *guère* de différence entre ces deux modèles.
+  Es gibt *kaum* einen Unterschied zwischen diesen beiden Modellen.
+
+  L'entreprise ne fait *guère* de bénéfices.
+  Das Unternehmen macht *kaum* Gewinne.
+
+  Je ne lui parle *guère* depuis notre dispute.
+  Ich spreche *kaum* mit ihm seit unserem Streit.
+
+  Cette explication n'est *guère* convaincante.
+  Diese Erklärung ist *nicht sehr* überzeugend.
+
+  Il ne se soucie *guère* des conséquences.
+  Er kümmert sich *kaum* um die Konsequenzen.
+
+  La situation n'a *guère* évolué ces derniers mois.
+  Die Situation hat sich in den letzten Monaten *kaum* verändert.
+
+  Ces nouvelles ne sont *guère* rassurantes.
+  Diese Nachrichten sind *nicht gerade* beruhigend.
+
+  Je ne lis *guère* plus de romans.
+  Ich lese *kaum noch* Romane.
+
+  Son comportement n'est *guère* approprié.
+  Sein Verhalten ist *nicht sehr* angemessen.
+
+  Cette région n'attire *guère* de touristes.
+  Diese Region zieht *kaum* Touristen an.
+
+  Il ne reste *guère* d'espoir de le retrouver.
+  Es bleibt *kaum* Hoffnung, ihn zu finden.
+
+  Je ne comprends *guère* son raisonnement.
+  Ich verstehe seine Argumentation *kaum*.
+
+  Le spectacle n'a *guère* impressionné le public.
+  Die Vorstellung hat das Publikum *nicht sonderlich* beeindruckt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

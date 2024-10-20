@@ -13,17 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Un prêtre s’avance à pas lents.
-  Ein Priester kommt mit langsamen Schritten nach vorn.
+  Un prêtre s'avance à pas *lents*.
+  Ein Priester schreitet mit *langsamen* Schritten voran.
 
-  On a décidé d'aller à pas lents, pour profiter du paysage.
-  Wir haben uns entschieden, langsam zu gehen, um die Landschaft zu genießen.
+  La tortue est un animal *lent*.
+  Die Schildkröte ist ein *langsames* Tier.
 
-  Il est lent à comprendre, mais il a un grand cœur.
-  Es dauert lange, ehe er begreift, aber er hat ein großes Herz.
+  Ce poison est *lent* à agir, mais très efficace.
+  Dieses Gift wirkt *langsam*, ist aber sehr effektiv.
 
-  Décidément, vous êtes lents à comprendre! Je vous l'ai déjà expliqué trois fois !
-  Ihr seid wirklich schwer von Begriff! Ich habe es euch doch schon dreimal erklärt!
+  Le mouvement *lent* des astres fascine les astronomes.
+  Die *langsame* Bewegung der Himmelskörper fasziniert die Astronomen.
+
+  La justice est souvent *lente*, mais elle finit par triompher.
+  Die Justiz ist oft *langsam*, aber sie setzt sich am Ende durch.
+
+  Ce film est tellement *lent* que je m'ennuie.
+  Dieser Film ist so *langsam*, dass ich mich langweile.
+
+  Il a l'esprit *lent*, mais ses réflexions sont toujours pertinentes.
+  Er hat einen *langsamen* Verstand, aber seine Überlegungen sind immer treffend.
+
+  La *lente* érosion de la montagne a créé ce paysage spectaculaire.
+  Die *langsame* Erosion des Berges hat diese spektakuläre Landschaft geschaffen.
+
+  Le tempo *lent* de cette valse la rend particulièrement romantique.
+  Das *langsame* Tempo dieses Walzers macht ihn besonders romantisch.
+
+  Les véhicules *lents* doivent emprunter la voie de droite sur l'autoroute.
+  *Langsame* Fahrzeuge müssen auf der Autobahn die rechte Spur benutzen.
+
+  La combustion *lente* de ce bois permet de chauffer la maison toute la nuit.
+  Die *langsame* Verbrennung dieses Holzes ermöglicht es, das Haus die ganze Nacht zu heizen.
+
+  Elle est *lente* à comprendre les blagues, mais elle rit de bon cœur.
+  Sie versteht Witze *langsam*, aber sie lacht dann herzlich.
+
+  Le courrier est *lent* à nous parvenir dans ce village isolé.
+  Die Post erreicht uns *langsam* in diesem abgelegenen Dorf.
+
+  Les progrès sont *lents*, mais constants dans sa rééducation.
+  Die Fortschritte in seiner Rehabilitation sind *langsam*, aber stetig.
+
+  "Décidément, vous êtes *lents* à comprendre !" s'exclama le professeur exaspéré.
+  "Ihr seid wirklich *schwer von Begriff*!" rief der genervte Lehrer aus.
+
+  Cette symphonie comporte un mouvement particulièrement *lent* et méditatif.
+  Diese Symphonie hat einen besonders *langsamen* und meditativen Satz.
+
+  L'escargot est *lent*, mais il finit toujours par arriver à destination.
+  Die Schnecke ist *langsam*, kommt aber immer ans Ziel.
+
+  La *lente* progression de la maladie lui permet de continuer à travailler.
+  Der *langsame* Verlauf der Krankheit erlaubt es ihm, weiter zu arbeiten.
+
+  Son imagination *lente* contraste avec sa rapidité d'action.
+  Seine *langsame* Vorstellungskraft steht im Gegensatz zu seiner schnellen Handlungsweise.
+
+  Cette poudre *lente* est idéale pour les feux d'artifice de longue durée.
+  Dieses *langsam* brennende Pulver ist ideal für lang andauernde Feuerwerke.
+
+  Il est *lent* à punir, mais prompt à récompenser ses employés.
+  Er ist *langsam* beim Bestrafen, aber schnell beim Belohnen seiner Angestellten.
+
+  La démarche *lente* et majestueuse de la reine impressionna la foule.
+  Der *langsame* und majestätische Gang der Königin beeindruckte die Menge.
+
+  Ce remède est *lent* mais efficace contre les douleurs chroniques.
+  Dieses Heilmittel wirkt *langsam*, ist aber wirksam gegen chronische Schmerzen.
+
+  Les réflexes *lents* du conducteur ont causé l'accident.
+  Die *langsamen* Reflexe des Fahrers haben den Unfall verursacht.
+
+  L'orateur au débit trop *lent* endormait son auditoire.
+  Der Redner mit dem zu *langsamen* Redefluss schläferte sein Publikum ein.
+
+  Une mort *lente* et douloureuse l'attendait s'il ne recevait pas de soins.
+  Ein *langsamer* und schmerzhafter Tod erwartete ihn, wenn er keine Behandlung erhielt.
+
+  Si vous étiez moins *lent*, cette affaire serait conclue depuis longtemps.
+  Wenn Sie nicht so *langsam* wären, wäre diese Angelegenheit längst abgeschlossen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

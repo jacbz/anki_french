@@ -13,17 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Un désespoir sinistre envahissait son esprit.
-  Eine unheimliche Verzweiflung erfüllte seinen Geist.
+  Un désespoir sinistre *envahissait* son esprit.
+  Eine düstere Verzweiflung *überkam* seinen Geist.
 
-  Les troupes ennemies ont envahi le pays.
-  Die feindlichen Truppen sind ins Land eingefallen.
+  Les touristes *envahissent* les plages chaque été.
+  Die Touristen *überschwemmen* jeden Sommer die Strände.
 
-  La ville était envahie par les touristes en été.
-  Die Stadt war im Sommer von Touristen überlaufen.
+  L'armée ennemie a *envahi* le pays sans avertissement.
+  Die feindliche Armee ist ohne Vorwarnung in das Land *eingefallen*.
 
-  Elle se laissait envahir par ses émotions.
-  Sie ließ sich von ihren Emotionen in Beschlag nehmen.
+  Des mauvaises herbes *envahissent* progressivement mon jardin.
+  Unkraut *überwuchert* nach und nach meinen Garten.
+
+  Une douce mélancolie m'a *envahi* en écoutant cette vieille chanson.
+  Eine sanfte Melancholie *überkam* mich, als ich dieses alte Lied hörte.
+
+  Les manifestants ont *envahi* la place principale de la ville.
+  Die Demonstranten haben den Hauptplatz der Stadt *gestürmt*.
+
+  Les produits bon marché *envahissent* le marché local.
+  Billigprodukte *überschwemmen* den lokalen Markt.
+
+  Un sentiment de culpabilité *envahit* soudainement Marie.
+  Ein Schuldgefühl *überkam* Marie plötzlich.
+
+  Les sauterelles ont *envahi* les champs de blé.
+  Die Heuschrecken sind über die Weizenfelder *hergefallen*.
+
+  La musique moderne *envahit* progressivement les ondes radio.
+  Moderne Musik *dringt* allmählich in die Radiosender *ein*.
+
+  L'eau de mer a *envahi* les rues côtières pendant la tempête.
+  Das Meerwasser hat während des Sturms die Küstenstraßen *überflutet*.
+
+  Une odeur nauséabonde *envahit* la pièce quand il ouvrit la porte.
+  Ein übler Geruch *erfüllte* den Raum, als er die Tür öffnete.
+
+  Les spectateurs ont *envahi* le terrain après le match.
+  Die Zuschauer haben nach dem Spiel das Spielfeld *gestürmt*.
+
+  La peur *envahit* peu à peu son cœur tandis qu'elle attendait les résultats.
+  Die Angst *schlich* sich nach und nach in ihr Herz, während sie auf die Ergebnisse wartete.
+
+  Les smartphones *envahissent* notre vie quotidienne.
+  Smartphones *dringen* in unser tägliches Leben *ein*.
+
+  Une foule en colère a *envahi* le bâtiment du gouvernement.
+  Eine wütende Menge hat das Regierungsgebäude *gestürmt*.
+
+  Les Romains ont *envahi* la Gaule au premier siècle avant J.-C.
+  Die Römer sind im ersten Jahrhundert v. Chr. in Gallien *eingefallen*.
+
+  Le brouillard *envahit* lentement la vallée au crépuscule.
+  Der Nebel *erfüllt* langsam das Tal in der Dämmerung.
+
+  Les termites ont *envahi* la structure en bois de la maison.
+  Die Termiten haben die Holzstruktur des Hauses *befallen*.
+
+  Un sentiment de paix *envahit* mon âme lors de la méditation.
+  Ein Gefühl des Friedens *erfüllte* meine Seele während der Meditation.
+
+  Les voitures électriques *envahissent* progressivement nos routes.
+  Elektroautos *erobern* nach und nach unsere Straßen.
+
+  La tristesse *envahit* son visage quand il apprit la nouvelle.
+  Traurigkeit *überkam* sein Gesicht, als er die Nachricht erfuhr.
+
+  Les algues *envahissent* le lac en raison de la pollution.
+  Algen *überwuchern* den See aufgrund der Verschmutzung.
+
+  Un sentiment de joie *envahit* la foule lorsque l'équipe marqua.
+  Ein Gefühl der Freude *erfasste* die Menge, als die Mannschaft ein Tor schoss.
+
+  Les fans *envahissent* les réseaux sociaux avec leurs commentaires.
+  Die Fans *überschwemmen* die sozialen Medien mit ihren Kommentaren.
+
+  La lumière du soleil *envahit* la pièce à travers les rideaux.
+  Das Sonnenlicht *erfüllte* den Raum durch die Vorhänge.
+
+  Les souvenirs d'enfance *envahissent* son esprit chaque Noël.
+  Kindheitserinnerungen *überfluten* seinen Geist jedes Weihnachten.
+
+  Les pigeons ont *envahi* la place du village.
+  Die Tauben haben den Dorfplatz *bevölkert*.
+
+  Un sentiment de fierté *envahit* les parents lors de la remise des diplômes.
+  Ein Gefühl des Stolzes *überkam* die Eltern bei der Diplomverleihung.
+
+  La publicité *envahit* de plus en plus notre espace urbain.
+  Werbung *dringt* immer mehr in unseren städtischen Raum *ein*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

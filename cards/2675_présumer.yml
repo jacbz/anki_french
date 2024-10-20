@@ -13,23 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je présume que vous êtes carnivore.
-  Ich nehme an, dass Sie ein Fleischfresser sind.
+  Je *présume* que vous êtes carnivore.
+  Ich *nehme an*, dass Sie Fleisch essen.
 
-  Je présume qu’il sera en retard.
-  Ich vermute, dass er zu spät kommen wird.
+  On peut *présumer* une issue heureuse de cette négociation.
+  Man kann einen glücklichen Ausgang dieser Verhandlung *erwarten*.
 
-  Les étudiants présument une issue heureuse à leur examen.
-  Die Studenten erwarten einen glücklichen Ausgang ihrer Prüfung.
+  Les parents *présumaient* leur fille morte après sa longue disparition.
+  Die Eltern *hielten* ihre Tochter nach ihrem langen Verschwinden für *tot*.
 
-  Il a trop présumé de ses forces et a tenté de grimper la montagne seul.
-  Er hat seine Kräfte überschätzt und hat versucht, den Berg alleine zu besteigen.
+  "Je *présume* que tu es d'accord avec cette décision ?"
+  "Ich *gehe davon aus*, dass du mit dieser Entscheidung einverstanden bist?"
 
-  La police a présumé la victime morte, mais elle était encore en vie.
-  Die Polizei hat das Opfer totgesagt, aber es lebte noch.
+  Elle a trop *présumé* de ses forces et n'a pas pu terminer le marathon.
+  Sie hat ihre Kräfte *überschätzt* und konnte den Marathon nicht beenden.
 
-  Je présume que tu es d'accord avec ce plan, n'est-ce pas ?
-  Ich nehme an, dass du mit diesem Plan einverstanden bist, oder?
+  Les auteurs *présumés* du vol ont été arrêtés hier soir.
+  Die *mutmaßlichen* Täter des Diebstahls wurden gestern Abend festgenommen.
+
+  Tout accusé est *présumé* innocent jusqu'à preuve du contraire.
+  Jeder Angeklagte gilt als *unschuldig*, bis das Gegenteil bewiesen ist.
+
+  Je *présume* d'après votre accent que vous venez du sud de la France.
+  Ich *vermute* aufgrund Ihres Akzents, dass Sie aus Südfrankreich kommen.
+
+  On *présume* qu'il réussira son examen, vu ses excellentes notes.
+  Man *nimmt an*, dass er seine Prüfung bestehen wird, angesichts seiner hervorragenden Noten.
+
+  "Il a quitté la fête tôt, je *présume*."
+  "Er hat die Party früh verlassen, *nehme ich an*."
+
+  Dans un couple marié, le mari est *présumé* être le père de l'enfant.
+  In einer Ehe wird der Ehemann als *mutmaßlicher* Vater des Kindes angesehen.
+
+  Ne *présumez* pas trop de vos capacités, cela pourrait vous jouer des tours.
+  *Überschätzen* Sie Ihre Fähigkeiten nicht, das könnte Ihnen zum Verhängnis werden.
+
+  Les premiers résultats ne permettent pas de *présumer* de l'issue finale.
+  Die ersten Ergebnisse lassen keine *Rückschlüsse* auf das Endergebnis zu.
+
+  Il est à *présumer* que le temps s'améliorera demain.
+  Es ist *anzunehmen*, dass sich das Wetter morgen bessern wird.
+
+  Les enquêteurs poursuivent leurs recherches sans rien *présumer*.
+  Die Ermittler setzen ihre Untersuchungen fort, ohne etwas *vorauszusetzen*.
+
+  On ne peut pas *présumer* des intentions de quelqu'un sans preuve.
+  Man kann die Absichten einer Person nicht ohne Beweis *vermuten*.
+
+  "C'est une erreur, je *présume* ?"
+  "Das ist ein Fehler, *vermute* ich?"
+
+  Le suspect a été arrêté car il était *présumé* coupable du crime.
+  Der Verdächtige wurde festgenommen, da er als *mutmaßlicher* Täter des Verbrechens galt.
+
+  Ne *présumez* pas que tout le monde partage votre opinion.
+  *Gehen Sie nicht davon aus*, dass jeder Ihre Meinung teilt.
+
+  Les experts *présument* que le tableau est une œuvre de Rembrandt.
+  Die Experten *vermuten*, dass das Gemälde ein Werk von Rembrandt ist.
+
+  On peut *présumer* de bons résultats si l'on travaille dur.
+  Man kann *gute Ergebnisse erwarten*, wenn man hart arbeitet.
+
+  Il a *présumé* de son influence et s'est retrouvé dans une situation délicate.
+  Er hat seinen Einfluss *überschätzt* und sich in einer heiklen Lage wiedergefunden.
+
+  La police a identifié un suspect *présumé* dans l'affaire du cambriolage.
+  Die Polizei hat einen *mutmaßlichen* Verdächtigen im Fall des Einbruchs identifiziert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

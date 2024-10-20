@@ -13,11 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Que proposez-vous comme solutions concrètes?
-  Welche konkreten Lösungen schlagen Sie vor?
+  Que proposez-vous comme solutions *concrètes* ?
+  Was schlagen Sie als *konkrete* Lösungen vor?
 
-  Il faut des exemples concrets.
-  Es braucht konkrete Beispiele.
+  Cet exemple *concret* illustre parfaitement mon point de vue.
+  Dieses *konkrete* Beispiel veranschaulicht meinen Standpunkt perfekt.
+
+  Le professeur a demandé aux élèves de donner des exemples *concrets*.
+  Der Lehrer bat die Schüler, *konkrete* Beispiele zu nennen.
+
+  Les mathématiques abstraites m'ennuient ; je préfère les applications *concrètes*.
+  Abstrakte Mathematik langweilt mich; ich bevorzuge *konkrete* Anwendungen.
+
+  Il faut passer de la théorie à la pratique *concrète*.
+  Man muss von der Theorie zur *konkreten* Praxis übergehen.
+
+  Cette exposition d'art *concret* m'a beaucoup impressionné.
+  Diese Ausstellung *konkreter* Kunst hat mich sehr beeindruckt.
+
+  J'ai besoin de voir des résultats *concrets* avant de prendre une décision.
+  Ich muss *konkrete* Ergebnisse sehen, bevor ich eine Entscheidung treffe.
+
+  La musique *concrète* utilise des sons du quotidien comme matériau sonore.
+  *Konkrete* Musik verwendet Alltagsgeräusche als Klangmaterial.
+
+  Son esprit *concret* l'aide à résoudre rapidement des problèmes pratiques.
+  Sein *praxisorientierter* Verstand hilft ihm, praktische Probleme schnell zu lösen.
+
+  Pouvez-vous me donner un exemple *concret* de ce que vous voulez dire ?
+  Können Sie mir ein *konkretes* Beispiel dafür geben, was Sie meinen?
+
+  Les enfants apprennent mieux avec des objets *concrets* qu'avec des concepts abstraits.
+  Kinder lernen besser mit *konkreten* Gegenständen als mit abstrakten Konzepten.
+
+  Cette huile essentielle se présente sous forme *concrète* à température ambiante.
+  Dieses ätherische Öl liegt bei Raumtemperatur in *fester* Form vor.
+
+  Le *concret* s'oppose souvent à l'abstrait dans les discussions philosophiques.
+  Das *Konkrete* steht in philosophischen Diskussionen oft im Gegensatz zum Abstrakten.
+
+  Nous avons besoin d'un plan d'action *concret* pour atteindre nos objectifs.
+  Wir brauchen einen *konkreten* Aktionsplan, um unsere Ziele zu erreichen.
+
+  Les politiciens devraient proposer des mesures *concrètes* plutôt que des promesses vagues.
+  Politiker sollten *konkrete* Maßnahmen vorschlagen, anstatt vage Versprechen zu machen.
+
+  Cette expérience *concrète* m'a fait changer d'avis sur la question.
+  Diese *konkrete* Erfahrung hat meine Meinung zu der Frage geändert.
+
+  L'artiste transforme ses idées abstraites en œuvres *concrètes*.
+  Der Künstler verwandelt seine abstrakten Ideen in *konkrete* Werke.
+
+  Dans ce roman, les descriptions *concrètes* rendent l'histoire vivante.
+  In diesem Roman machen die *konkreten* Beschreibungen die Geschichte lebendig.
+
+  Il faut analyser les faits *concrets* avant de tirer des conclusions.
+  Man muss die *konkreten* Fakten analysieren, bevor man Schlüsse zieht.
+
+  Les nombres *concrets* en mathématiques sont toujours accompagnés d'unités.
+  *Konkrete* Zahlen in der Mathematik werden immer von Einheiten begleitet.
+
+  Cette réforme a eu des effets *concrets* sur la vie quotidienne des citoyens.
+  Diese Reform hatte *konkrete* Auswirkungen auf das tägliche Leben der Bürger.
+
+  Le terme "chat" est un mot *concret*, contrairement à "bonheur" qui est abstrait.
+  Das Wort "Katze" ist ein *konkreter* Begriff, im Gegensatz zu "Glück", das abstrakt ist.
+
+  Les preuves *concrètes* sont essentielles dans une enquête policière.
+  *Konkrete* Beweise sind in einer polizeilichen Ermittlung unerlässlich.
+
+  La pédagogie moderne favorise l'apprentissage par des activités *concrètes*.
+  Die moderne Pädagogik fördert das Lernen durch *konkrete* Aktivitäten.
+
+  Cette essence *concrète* est utilisée en parfumerie pour sa richesse olfactive.
+  Dieses *konkrete* Extrakt wird in der Parfümerie wegen seines olfaktorischen Reichtums verwendet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

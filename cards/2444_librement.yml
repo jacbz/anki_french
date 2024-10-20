@@ -13,17 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Seuls les piétons peuvent passer librement.
-  Nur Fußgänger können ungehindert passieren.
+  Seuls les piétons peuvent passer *librement*.
+  Nur Fußgänger können *frei* passieren.
 
-  Il peut parler librement.
-  Er kann frei sprechen.
+  Dans une démocratie, les citoyens peuvent s'exprimer *librement*.
+  In einer Demokratie können sich die Bürger *frei* äußern.
 
-  Après avoir pris ses médicaments, il a pu respirer plus librement.
-  Nachdem er seine Medikamente genommen hatte, konnte er freier atmen.
+  Il a *librement* choisi de quitter son emploi.
+  Er hat *freiwillig* entschieden, seinen Job zu kündigen.
 
-  Avec lui, on peut parler librement de tout, sans crainte de jugement.
-  Mit ihm kann man offen über alles reden, ohne Angst vor Beurteilung.
+  Les oiseaux volent *librement* dans le ciel.
+  Die Vögel fliegen *frei* am Himmel.
+
+  Après l'opération, elle peut enfin respirer plus *librement*.
+  Nach der Operation kann sie endlich *freier* atmen.
+
+  "Je peux te parler *librement* ?" demanda-t-elle à son amie.
+  "Kann ich *offen* mit dir reden?", fragte sie ihre Freundin.
+
+  Le traité permet aux marchandises de circuler *librement* entre les pays.
+  Der Vertrag erlaubt es Waren, *frei* zwischen den Ländern zu zirkulieren.
+
+  Les journalistes peuvent-ils vraiment écrire *librement* dans ce pays ?
+  Können Journalisten in diesem Land wirklich *frei* schreiben?
+
+  Elle a traduit le poème assez *librement*.
+  Sie hat das Gedicht recht *frei* übersetzt.
+
+  Le film est *librement* inspiré d'événements réels.
+  Der Film ist *frei* von realen Ereignissen inspiriert.
+
+  Nous devrions pouvoir choisir *librement* notre religion.
+  Wir sollten unsere Religion *frei* wählen können.
+
+  Le prisonnier rêvait de marcher à nouveau *librement*.
+  Der Gefangene träumte davon, wieder *frei* gehen zu können.
+
+  Les enfants jouent *librement* dans le parc.
+  Die Kinder spielen *frei* im Park.
+
+  Il faut laisser les idées circuler *librement*.
+  Man muss Ideen *frei* zirkulieren lassen.
+
+  L'artiste a *librement* interprété le thème de l'exposition.
+  Der Künstler hat das Thema der Ausstellung *frei* interpretiert.
+
+  Dans ce groupe, chacun peut s'exprimer *librement*.
+  In dieser Gruppe kann sich jeder *ungezwungen* ausdrücken.
+
+  Elle a avoué *librement* ses erreurs.
+  Sie hat ihre Fehler *freimütig* eingestanden.
+
+  Le contrat a été *librement* consenti par les deux parties.
+  Der Vertrag wurde von beiden Parteien *freiwillig* vereinbart.
+
+  Les électeurs ont voté *librement* lors des élections.
+  Die Wähler haben bei den Wahlen *frei* abgestimmt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

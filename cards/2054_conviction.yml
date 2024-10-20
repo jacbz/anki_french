@@ -13,35 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous avez agi selon vos convictions.
-  Sie haben nach ihren Überzeugungen gehandelt.
+  Vous avez agi selon vos *convictions*.
+  Sie haben nach Ihrer *Überzeugung* gehandelt.
 
-  J’ai la conviction que c’est la bonne décision.
-  Ich bin überzeugt, dass es die richtige Entscheidung ist.
+  J'ai la ferme *conviction* que nous réussirons ce projet.
+  Ich habe die feste *Überzeugung*, dass wir dieses Projekt erfolgreich abschließen werden.
 
-  Sa conviction de base était que la paix était possible.
-  Seine Grundanschauung war, dass Frieden möglich sei.
+  Elle défend ses *convictions* politiques avec passion.
+  Sie verteidigt ihre politischen *Überzeugungen* mit Leidenschaft.
 
-  Il manque de conviction lorsqu'il présente ses arguments.
-  Ihm fehlt es an Überzeugungskraft, wenn er seine Argumente vorträgt.
+  Le jury n'avait pas assez de preuves pour établir sa *conviction*.
+  Die Jury hatte nicht genug Beweise, um zu einer *Überzeugung* zu gelangen.
 
-  Mes convictions sont profondes et immuables.
-  Meine Überzeugung ist tief verwurzelt und unerschütterlich.
+  "Je n'ai aucune *conviction* religieuse", a-t-il avoué.
+  "Ich habe keinerlei religiöse *Überzeugungen*", gab er zu.
 
-  Mes convictions politiques sont progressistes.
-  Meine politische Einstellung ist progressiv.
+  La *conviction* avec laquelle il parlait était impressionnante.
+  Die *Überzeugungskraft*, mit der er sprach, war beeindruckend.
 
-  J'ai la conviction que vous avez raison.
-  Ich bin davon überzeugt, dass Sie Recht haben.
+  Ses *convictions* de base ont été ébranlées par cette expérience.
+  Seine *Grundüberzeugungen* wurden durch diese Erfahrung erschüttert.
 
-  Il ment, j'en ai la conviction, j'ai vu ses preuves.
-  Er lügt, davon bin ich überzeugt, ich habe seine Beweise gesehen.
+  Il manque de *conviction* dans son jeu d'acteur.
+  Seinem Schauspiel fehlt es an *Überzeugungskraft*.
 
-  Il a défendu son point de vue avec conviction.
-  Er hat seinen Standpunkt überzeugend verteidigt.
+  La pièce à *conviction* a été présentée au tribunal.
+  Das Beweis*stück* wurde dem Gericht vorgelegt.
 
-  Elle a exprimé son opinion sans conviction.
-  Sie hat ihre Meinung nicht überzeugend zum Ausdruck gebracht.
+  Nous recherchons des candidats avec de fortes *convictions* écologiques.
+  Wir suchen Kandidaten mit starken ökologischen *Überzeugungen*.
+
+  Elle a exprimé sa *conviction* que l'éducation est la clé du progrès.
+  Sie brachte ihre *Überzeugung* zum Ausdruck, dass Bildung der Schlüssel zum Fortschritt ist.
+
+  Les *convictions* de chacun doivent être respectées dans une démocratie.
+  Die *Überzeugungen* jedes Einzelnen müssen in einer Demokratie respektiert werden.
+
+  Il a défendu son point de vue avec *conviction*.
+  Er verteidigte seinen Standpunkt mit *Überzeugung*.
+
+  Ses *convictions* morales l'empêchent de mentir.
+  Seine moralischen *Überzeugungen* hindern ihn daran zu lügen.
+
+  La *conviction* du juge était basée sur des preuves solides.
+  Die *Überzeugung* des Richters basierte auf stichhaltigen Beweisen.
+
+  Elle a changé ses *convictions* politiques au fil des années.
+  Sie hat ihre politischen *Überzeugungen* im Laufe der Jahre geändert.
+
+  "J'ai la *conviction* que la vérité finira par éclater", déclara-t-il.
+  "Ich habe die *Überzeugung*, dass die Wahrheit letztendlich ans Licht kommen wird", erklärte er.
+
+  Les électeurs veulent des politiciens qui agissent avec *conviction*.
+  Die Wähler wollen Politiker, die mit *Überzeugung* handeln.
+
+  Sa *conviction* intime est que l'art peut changer le monde.
+  Seine innerste *Überzeugung* ist, dass Kunst die Welt verändern kann.
+
+  Il faut avoir des *convictions* fortes pour réussir dans ce domaine.
+  Man muss starke *Überzeugungen* haben, um in diesem Bereich erfolgreich zu sein.
+
+  Les *convictions* religieuses ne doivent pas interférer avec le travail.
+  Religiöse *Überzeugungen* sollten die Arbeit nicht beeinträchtigen.
+
+  Elle a plaidé sa cause avec une *conviction* profonde.
+  Sie plädierte für ihre Sache mit tiefer *Überzeugung*.
+
+  Leurs *convictions* divergentes ont conduit à un débat animé.
+  Ihre unterschiedlichen *Überzeugungen* führten zu einer lebhaften Debatte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

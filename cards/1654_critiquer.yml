@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils s’arrogent le droit de me critiquer, me juger.
-  Sie nehmen sich das Recht heraus, mich zu kritisieren und zu beurteilen.
+  Ils s'arrogent le droit de me *critiquer*, me juger.
+  Sie nehmen sich das Recht heraus, mich zu *kritisieren* und zu beurteilen.
 
-  Il aime critiquer tout le monde.
-  Er mag es, alle zu kritisieren.
+  Le jury a *critiqué* sévèrement sa performance.
+  Die Jury hat seine Leistung scharf *kritisiert*.
 
-  Il est facile de critiquer tout le monde, mais il est beaucoup plus difficile de trouver des solutions.
-  Es ist einfach, alles und jeden zu kritisieren, aber viel schwieriger, Lösungen zu finden.
+  Elle *critique* toujours les décisions de ses parents.
+  Sie *kritisiert* immer die Entscheidungen ihrer Eltern.
 
-  Marie Curie, une femme auteur très critiquée de son temps, est aujourd'hui considérée comme une pionnière dans le domaine de la physique.
-  Marie Curie, eine viel geschmähte Autorin ihrer Zeit, gilt heute als Wegbereiterin auf dem Gebiet der Physik.
+  Le journaliste a *critiqué* le nouveau film de manière objective.
+  Der Journalist hat den neuen Film objektiv *besprochen*.
+
+  "Arrête de *critiquer* tout le monde !" s'est-elle exclamée, agacée.
+  "Hör auf, *an allen herumzunörgeln*!" rief sie genervt aus.
+
+  Les experts ont *critiqué* le rapport pour son manque de rigueur.
+  Die Experten haben den Bericht wegen mangelnder Gründlichkeit *kritisch geprüft*.
+
+  Il faut savoir accepter d'être *critiqué* pour progresser.
+  Man muss lernen, *Kritik* zu akzeptieren, um sich weiterzuentwickeln.
+
+  Le philosophe *critique* les idées reçues dans son dernier essai.
+  Der Philosoph *hinterfragt* in seinem neuesten Essay die gängigen Vorstellungen.
+
+  Les opposants n'ont pas manqué de *critiquer* la politique du gouvernement.
+  Die Oppositionellen haben nicht versäumt, die Politik der Regierung zu *kritisieren*.
+
+  La pièce de théâtre a été *critiquée* pour son manque d'originalité.
+  Das Theaterstück wurde wegen mangelnder Originalität *verrissen*.
+
+  Il est facile de *critiquer*, mais difficile de faire mieux.
+  Es ist leicht zu *kritisieren*, aber schwer, es besser zu machen.
+
+  Le comité a *critiqué* de façon constructive le projet de loi.
+  Der Ausschuss hat den Gesetzentwurf *konstruktiv kritisiert*.
+
+  Les étudiants ont appris à *critiquer* les sources historiques.
+  Die Studenten haben gelernt, historische Quellen *kritisch zu hinterfragen*.
+
+  Elle *critique* toujours son apparence dans le miroir.
+  Sie *kritisiert* immer ihr Aussehen im Spiegel.
+
+  Le professeur nous a demandé de *critiquer* l'article scientifique.
+  Der Professor hat uns gebeten, den wissenschaftlichen Artikel zu *rezensieren*.
+
+  Les médias ont vivement *critiqué* la nouvelle loi sur l'environnement.
+  Die Medien haben das neue Umweltgesetz scharf *kritisiert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

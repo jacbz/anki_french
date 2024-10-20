@@ -13,29 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je me hâtai de revoir mes camarades.
-  Ich beeilte mich, meine Mitschülerinnen und Mitschüler wiederzusehen.
+  Je me hâtai de revoir mes *camarades*.
+  Ich beeilte mich, meine *Kameraden* wiederzusehen.
 
-  Mon camarade de classe est très sympa.
-  Mein Klassenkamerad ist sehr nett.
+  Paul est mon *camarade* de classe depuis le primaire.
+  Paul ist seit der Grundschule mein *Schulkamerad*.
 
-  Elle est une camarade de club de tennis et une amie très chère.
-  Sie ist eine Klubkameradin im Tennisclub und eine sehr gute Freundin.
+  Marie et Sophie sont *camarades* de jeu depuis leur plus tendre enfance.
+  Marie und Sophie sind seit ihrer frühesten Kindheit *Spielgefährtinnen*.
 
-  Il était un camarade d'école et on s'est retrouvé des années plus tard.
-  Er war ein Schulkamerad und wir sind uns Jahre später wieder begegnet.
+  Nous sommes devenus de bons *camarades* pendant notre service militaire.
+  Wir sind während unseres Militärdienstes gute *Kameraden* geworden.
 
-  C'était un camarade d'études brillant et motivé.
-  Es war ein brillanter und motivierter Studienkollege.
+  Le professeur a demandé aux élèves de choisir un *camarade* pour le projet.
+  Der Lehrer hat die Schüler gebeten, einen *Partner* für das Projekt zu wählen.
 
-  On était des camarades de jeu et on passait des heures à jouer ensemble.
-  Wir waren Spielkameraden und haben Stundenlang zusammen gespielt.
+  "Salut, *camarade*!" s'est exclamé le syndicaliste en entrant dans la réunion.
+  "Hallo, *Genosse*!", rief der Gewerkschafter, als er die Versammlung betrat.
 
-  Ils étaient des camarades de sport et s'entraînaient ensemble.
-  Sie waren Sportkameraden und haben zusammen trainiert.
+  Les *camarades* de promotion se sont retrouvés vingt ans après l'université.
+  Die *Studienkollegen* trafen sich zwanzig Jahre nach der Universität wieder.
 
-  Ils étaient des camarades de régiment et ont vécu des moments difficiles ensemble.
-  Sie waren Kameraden aus der Militärzeit und haben schwere Zeiten miteinander durchgestanden.
+  Elle a toujours été une excellente *camarade*, prête à aider en cas de besoin.
+  Sie war immer eine ausgezeichnete *Kameradin*, bereit zu helfen, wenn es nötig war.
+
+  Pierre et Jacques sont *camarades* de régiment depuis leur service militaire.
+  Pierre und Jacques sind seit ihrem Militärdienst *Kameraden aus der Militärzeit*.
+
+  Les *camarades* du parti ont organisé une manifestation pacifique.
+  Die *Genossen* der Partei haben eine friedliche Demonstration organisiert.
+
+  "Tu n'es pas un bon *camarade*!" lui a-t-elle reproché après qu'il l'a trahie.
+  "Du bist kein guter *Kamerad*!", warf sie ihm vor, nachdem er sie verraten hatte.
+
+  Nos *camarades* de lutte nous ont soutenus tout au long de la grève.
+  Unsere *Kampfgefährten* haben uns während des gesamten Streiks unterstützt.
+
+  Le chef d'équipe a demandé à chacun de choisir un *camarade* de travail.
+  Der Teamleiter bat jeden, einen *Arbeitskollegen* zu wählen.
+
+  "*Camarades*, unissons-nous pour défendre nos droits!" a déclaré le leader syndical.
+  "*Genossen*, lasst uns uns vereinen, um unsere Rechte zu verteidigen!", erklärte der Gewerkschaftsführer.
+
+  Les anciens *camarades* de combat se sont retrouvés pour commémorer la fin de la guerre.
+  Die ehemaligen *Kampfgefährten* trafen sich, um das Ende des Krieges zu gedenken.
+
+  "Traite-moi en *camarade*, pas en supérieur," a-t-il dit à son nouvel assistant.
+  "Behandle mich als *Kamerad*, nicht als Vorgesetzten", sagte er zu seinem neuen Assistenten.
+
+  Les *camarades* du club de lecture se réunissent tous les mardis soir.
+  Die *Kameraden* des Leseclubs treffen sich jeden Dienstagabend.
+
+  "Ce n'est pas très *camarade* de ta part de ne pas partager tes notes," lui a-t-elle reproché.
+  "Es ist nicht sehr *kameradschaftlich* von dir, deine Notizen nicht zu teilen", warf sie ihm vor.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

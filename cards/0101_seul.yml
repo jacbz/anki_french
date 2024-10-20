@@ -13,41 +13,164 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Parler tout seul était signe d’aliénation.
-  Selbstgespräche waren ein Zeichen von Entfremdung.
+  Parler tout *seul* était signe d'aliénation.
+  Mit sich selbst zu sprechen war ein Zeichen geistiger Verwirrung.
 
-  Je me sens seul.
-  Ich fühle mich allein.
+  Je préfère travailler *seul* plutôt qu'en groupe.
+  Ich arbeite lieber *allein* als in einer Gruppe.
 
-  Le seul à pouvoir déchiffrer ce code compliqué était Thomas, lui seul était capable de le faire.
-  Thomas war der Einzige, der diesen komplizierten Code entziffern konnte, er allein war dazu fähig.
+  "Ça descend tout *seul* !"
+  "Das rutscht ganz von alleine!"
 
-  Il est important de parler à Marie seul à seul pour lui dire la vérité.
-  Es ist wichtig, mit Marie unter vier Augen zu sprechen, um ihr die Wahrheit zu sagen.
+  Marie vit *seule* depuis son divorce.
+  Marie lebt seit ihrer Scheidung *allein*.
 
-  Les dames voyageant seules doivent être très prudentes.
-  Allein reisende Damen sollten sehr vorsichtig sein.
+  *Seuls* les parents sont autorisés à entrer dans l'école.
+  *Nur* die Eltern dürfen die Schule betreten.
 
-  C'est moi seul qui ai réussi à faire ça, sans l'aide de personne.
-  Ich habe das ganz allein geschafft, ohne die Hilfe von irgendjemandem.
+  Il est le *seul* de sa famille à parler chinois.
+  Er ist der *Einzige* in seiner Familie, der Chinesisch spricht.
 
-  Cette lampe seule ne suffit pas pour éclairer toute la pièce, il nous en faut une autre.
-  Diese eine Lampe reicht nicht, um den ganzen Raum zu beleuchten, wir brauchen noch eine.
+  La *seule* chose qui compte, c'est ta santé.
+  Das *Einzige*, was zählt, ist deine Gesundheit.
 
-  Eh vous, vous n'êtes pas seul! Il y a encore plein de monde autour de vous!
-  He, die anderen sind auch noch da! Es sind noch viele Menschen um dich herum!
+  Je dois vous parler *seul à seul*.
+  Ich muss mit Ihnen *unter vier Augen* sprechen.
 
-  Ce sac descend tout seul, il n'y a pas besoin de le pousser.
-  Dieser Sack rutscht ganz von allein, man muss ihn nicht schieben.
+  Ma grand-mère ne veut plus rester toute *seule* la nuit.
+  Meine Großmutter möchte nachts nicht mehr ganz *allein* bleiben.
 
-  Ce type de fleur est unique au monde, il est seul de son espèce.
-  Diese Art von Blume ist einzigartig auf der Welt, sie ist einzigartig.
+  Le concert était à guichets fermés pour ce *seul en scène*.
+  Das Konzert war ausverkauft für diesen *Solo*-Auftritt.
 
-  Les habitants du village ont déclaré d'une seule voix leur soutien au projet.
-  Die Bewohner des Dorfes haben einstimmig ihre Unterstützung für das Projekt erklärt.
+  Cette *seule* pensée me fait sourire.
+  Allein dieser *eine* Gedanke bringt mich zum Lächeln.
 
-  Je suis venu te voir pour la seule raison que j'ai besoin de ton aide.
-  Ich bin zu dir gekommen, allein deswegen, weil ich deine Hilfe brauche.
+  Thomas préfère faire cavalier *seul*.
+  Thomas macht lieber sein *eigenes* Ding.
+
+  D'une *seule* voix, ils ont refusé la proposition.
+  *Einstimmig* haben sie den Vorschlag abgelehnt.
+
+  *Seul* un expert peut réparer cette machine.
+  *Nur* ein Experte kann diese Maschine reparieren.
+
+  Elle se sent *seule* dans cette grande ville.
+  Sie fühlt sich *einsam* in dieser großen Stadt.
+
+  C'est mon *seul* et unique exemplaire.
+  Das ist mein *einziges* Exemplar.
+
+  Une *seule* fois suffit pour comprendre.
+  Ein *einziges* Mal reicht zum Verstehen.
+
+  Pierre a réussi tout *seul* à réparer sa voiture.
+  Pierre hat es ganz *alleine* geschafft, sein Auto zu reparieren.
+
+  La lumière de cette *seule* bougie éclaire toute la pièce.
+  Das Licht dieser *einen* Kerze erhellt den ganzen Raum.
+
+  Elle est la *seule* à ne pas avoir compris la blague.
+  Sie ist die *Einzige*, die den Witz nicht verstanden hat.
+
+  *Seul* le temps nous dira si c'était le bon choix.
+  *Nur* die Zeit wird zeigen, ob es die richtige Entscheidung war.
+
+  Cette femme *seule* cherche un appartement.
+  Diese *alleinstehende* Frau sucht eine Wohnung.
+
+  Je suis resté *seul* à la maison pendant les vacances.
+  Ich bin während der Ferien *allein* zu Hause geblieben.
+
+  Pour la *seule* raison qu'il était en retard, il a été exclu.
+  *Einzig und allein* weil er zu spät war, wurde er ausgeschlossen.
+
+  Sophie est la *seule* de son espèce à avoir cette capacité.
+  Sophie ist in ihrer Art *einzigartig* mit dieser Fähigkeit.
+
+  Un *seul* de ces diamants vaut une fortune.
+  Ein *einziger* dieser Diamanten ist ein Vermögen wert.
+
+  Ma *seule* consolation était un bon livre.
+  Meine *einzige* Tröstung war ein gutes Buch.
+
+  Le projet a échoué par la faute d'un *seul*.
+  Das Projekt ist durch die Schuld eines *Einzigen* gescheitert.
+
+  "Enfin *seuls* !" s'écria-t-il en fermant la porte.
+  "Endlich *allein*!" rief er und schloss die Tür.
+
+  *Seule* Marie peut résoudre ce problème.
+  *Nur* Marie kann dieses Problem lösen.
+
+  Dans la *seule* intention de t'aider, j'ai fait ça.
+  In der *einzigen* Absicht dir zu helfen, habe ich das getan.
+
+  Il est *seul* responsable de ses actes.
+  Er ist *allein* verantwortlich für seine Taten.
+
+  Cette association aide les personnes *seules*.
+  Dieser Verein hilft *alleinstehenden* Menschen.
+
+  Elle n'est pas la *seule* à penser ainsi.
+  Sie ist nicht die *Einzige*, die so denkt.
+
+  Les dames *seules* sont prioritaires le soir.
+  *Alleinreisende* Damen haben abends Vorrang.
+
+  D'un *seul* coup, tout est devenu clair.
+  Mit einem *einzigen* Schlag wurde alles klar.
+
+  À la *seule* idée de partir, elle sourit.
+  Schon bei dem *bloßen* Gedanken ans Weggehen lächelt sie.
+
+  Il préfère voyager *seul*.
+  Er reist lieber *allein*.
+
+  Cette *seule* phrase résume tout le problème.
+  Dieser *eine* Satz fasst das ganze Problem zusammen.
+
+  *Seuls* les faits nous intéressent.
+  *Nur* die Fakten interessieren uns.
+
+  Je peux le faire tout *seul*, merci.
+  Ich kann das ganz *alleine* machen, danke.
+
+  Elle est *seule* maître à bord.
+  Sie ist die *alleinige* Chefin an Bord.
+
+  C'est mon *seul* espoir de réussir.
+  Das ist meine *einzige* Hoffnung auf Erfolg.
+
+  Nous étions *seuls* dans le parc ce jour-là.
+  Wir waren an diesem Tag *allein* im Park.
+
+  La *seule* solution possible est de recommencer.
+  Die *einzige* mögliche Lösung ist, neu anzufangen.
+
+  *Seul* contre tous, il a défendu son opinion.
+  *Ganz allein* gegen alle hat er seine Meinung verteidigt.
+
+  Cette *seule* erreur lui a coûté son travail.
+  Dieser *eine* Fehler hat ihn seinen Job gekostet.
+
+  Il n'aime pas manger *seul*.
+  Er isst nicht gerne *allein*.
+
+  Tu es le *seul* à qui je fais confiance.
+  Du bist der *Einzige*, dem ich vertraue.
+
+  Ça ira tout *seul*, ne t'inquiète pas.
+  Das geht ganz von *alleine*, mach dir keine Sorgen.
+
+  Tu n'es pas *seul* dans cette situation.
+  Du bist in dieser Situation nicht *allein*.
+
+  La décision revient à lui *seul*.
+  Die Entscheidung liegt bei ihm *allein*.
+
+  Cette *seule* remarque a changé toute la discussion.
+  Diese *eine* Bemerkung hat die ganze Diskussion verändert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

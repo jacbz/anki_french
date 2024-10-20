@@ -9,18 +9,105 @@ Femininum / Plural: ''
 IPA: \ɛks.tʁɛʁ\
 Definition: entnehmen, herausholen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "L’ingénieur a extrait l’expertise empirique des pilotes.\nDer Ingenieur\
-  \ hat das empirische Fachwissen der Piloten extrahiert.\n\nIl faut extraire la dent.\n\
-  Der Zahn muss gezogen werden.\n\nCe passage du livre était si captivant qu'il m'a\
-  \ été difficile de m'en extraire. \nDieser Auszug aus dem Buch war so fesselnd,\
-  \ dass ich mich nur schwer davon lösen konnte.\n\nElle a essayé de s'extraire de\
-  \ ses soucis en se plongeant dans la lecture.\nSie versuchte, sich aus ihren Sorgen\
-  \ zu quälen, indem sie sich ins Lesen vertiefte.\n\nPour faire un jus de fruits\
-  \ frais, il faut extraire le jus des fruits.\nUm einen frischen Fruchtsaft zu machen,\
-  \ muss man den Saft aus den Früchten auspressen.\n\nPour calculer la longueur de\
-  \ la diagonale d'un carré, il faut extraire la racine carrée de deux fois le carré\
-  \ du côté.\nUm die Länge der Diagonale eines Quadrats zu berechnen, muss man die\
-  \ Wurzel aus dem Doppelten des Quadrats der Seite ziehen."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  L'ingénieur a *extrait* l'expertise empirique des pilotes.
+  Der Ingenieur hat das empirische Fachwissen der Piloten *herausgearbeitet*.
+
+  Les mineurs *extraient* du charbon de la mine depuis des décennies.
+  Die Bergleute *fördern* seit Jahrzehnten Kohle aus der Mine.
+
+  Le dentiste a dû *extraire* la dent de sagesse infectée.
+  Der Zahnarzt musste den entzündeten Weisheitszahn *ziehen*.
+
+  On *extrait* le jus d'orange en pressant les fruits frais.
+  Man *gewinnt* Orangensaft, indem man frische Früchte auspresst.
+
+  Les chercheurs ont *extrait* l'ADN des cellules pour l'analyser.
+  Die Forscher haben die DNA aus den Zellen *extrahiert*, um sie zu analysieren.
+
+  Il faut *extraire* la balle de la jambe du patient blessé.
+  Man muss die Kugel aus dem Bein des verletzten Patienten *entfernen*.
+
+  L'étudiant a *extrait* les citations les plus pertinentes du texte.
+  Der Student hat die relevantesten Zitate aus dem Text *entnommen*.
+
+  Les parfumeurs *extraient* l'essence des fleurs pour créer de nouveaux arômes.
+  Die Parfümeure *gewinnen* die Essenz aus Blumen, um neue Düfte zu kreieren.
+
+  "Je n'arrive pas à m'*extraire* de ce fauteuil confortable !"
+  "Ich kann mich aus diesem bequemen Sessel nicht *herausquälen*!"
+
+  L'entreprise *extrait* du pétrole en mer depuis plusieurs années.
+  Das Unternehmen *fördert* seit mehreren Jahren Öl auf See.
+
+  Les archéologues ont *extrait* avec précaution les artefacts du site de fouilles.
+  Die Archäologen haben die Artefakte vorsichtig aus der Ausgrabungsstätte *geborgen*.
+
+  Le professeur a demandé aux élèves d'*extraire* la racine carrée de 144.
+  Der Lehrer bat die Schüler, die Quadratwurzel aus 144 zu *ziehen*.
+
+  On *extrait* le marbre de cette carrière depuis l'Antiquité.
+  Man *bricht* Marmor in diesem Steinbruch seit der Antike.
+
+  Les pompiers ont *extrait* les victimes des décombres après le tremblement de terre.
+  Die Feuerwehrleute haben die Opfer nach dem Erdbeben aus den Trümmern *geborgen*.
+
+  Le chimiste a *extrait* les principes actifs de la plante médicinale.
+  Der Chemiker hat die Wirkstoffe aus der Heilpflanze *extrahiert*.
+
+  "J'ai dû m'*extraire* de la voiture accidentée par le pare-brise."
+  "Ich musste mich durch die Windschutzscheibe aus dem Unfallwagen *herausquälen*."
+
+  Les journalistes ont *extrait* les informations clés du long discours du ministre.
+  Die Journalisten haben die Schlüsselinformationen aus der langen Rede des Ministers *herausgefiltert*.
+
+  On *extrait* le sel de l'eau de mer par évaporation.
+  Man *gewinnt* Salz aus Meerwasser durch Verdunstung.
+
+  L'écrivain a *extrait* l'inspiration de ses voyages pour son nouveau roman.
+  Der Schriftsteller hat die Inspiration für seinen neuen Roman aus seinen Reisen *geschöpft*.
+
+  Les ouvriers *extraient* le minerai de fer de la montagne.
+  Die Arbeiter *bauen* Eisenerz aus dem Berg *ab*.
+
+  Le détective a réussi à *extraire* des aveux du suspect après un long interrogatoire.
+  Dem Detektiv gelang es, dem Verdächtigen nach einem langen Verhör ein Geständnis zu *entlocken*.
+
+  Les scientifiques ont *extrait* des données cruciales de l'expérience.
+  Die Wissenschaftler haben entscheidende Daten aus dem Experiment *gewonnen*.
+
+  Le programme informatique permet d'*extraire* facilement les fichiers compressés.
+  Das Computerprogramm ermöglicht es, komprimierte Dateien leicht zu *entpacken*.
+
+  On *extrait* l'huile d'olive en pressant les olives fraîchement cueillies.
+  Man *presst* Olivenöl aus frisch geernteten Oliven.
+
+  L'équipe de secours a *extrait* le randonneur blessé de la crevasse.
+  Das Rettungsteam hat den verletzten Wanderer aus der Gletscherspalte *geborgen*.
+
+  Les abeilles *extraient* le nectar des fleurs pour produire du miel.
+  Die Bienen *gewinnen* Nektar aus Blüten, um Honig zu produzieren.
+
+  Le professeur a demandé aux étudiants d'*extraire* les idées principales du texte philosophique.
+  Der Professor bat die Studenten, die Hauptideen aus dem philosophischen Text *herauszuarbeiten*.
+
+  L'entreprise pharmaceutique *extrait* des molécules de plantes tropicales pour créer de nouveaux médicaments.
+  Das Pharmaunternehmen *gewinnt* Moleküle aus tropischen Pflanzen, um neue Medikamente zu entwickeln.
+
+  Les géologues ont *extrait* des échantillons de roche du fond marin.
+  Die Geologen haben Gesteinsproben vom Meeresboden *entnommen*.
+
+  Le sculpteur *extrait* sa statue du bloc de marbre brut.
+  Der Bildhauer *schlägt* seine Statue aus dem rohen Marmorblock *heraus*.
+
+  L'étudiant a dû *extraire* les données pertinentes du long rapport pour son résumé.
+  Der Student musste die relevanten Daten aus dem langen Bericht für seine Zusammenfassung *herausfiltern*.
+
+  Le sommelier *extrait* délicatement le bouchon de la bouteille de vin rare.
+  Der Sommelier *zieht* vorsichtig den Korken aus der Flasche mit seltenem Wein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle a promis de venir régulièrement.
-  Sie versprach, regelmäßig zu kommen.
+  Elle a promis de venir *régulièrement*.
+  Sie hat versprochen, *regelmäßig* zu kommen.
 
-  Je vais régulièrement à la gym.
-  Ich gehe regelmäßig ins Fitnessstudio.
+  Il faut prendre ses médicaments *régulièrement* pour guérir.
+  Man muss seine Medikamente *regelmäßig* einnehmen, um gesund zu werden.
+
+  Les trains circulent *régulièrement* entre Paris et Lyon.
+  Die Züge verkehren *turnusmäßig* zwischen Paris und Lyon.
+
+  Le comité se réunit *régulièrement* le premier mardi du mois.
+  Das Komitee trifft sich *regelmäßig* am ersten Dienstag des Monats.
+
+  Cette horloge ne marche pas *régulièrement*.
+  Diese Uhr läuft nicht *gleichmäßig*.
+
+  La neige tombe *régulièrement* depuis ce matin.
+  Der Schnee fällt seit heute Morgen *gleichmäßig*.
+
+  Les documents ont été *régulièrement* déposés auprès de l'administration.
+  Die Dokumente wurden *vorschriftsmäßig* bei der Verwaltung eingereicht.
+
+  Le nouveau maire a été *régulièrement* élu par les citoyens.
+  Der neue Bürgermeister wurde *vorschriftsmäßig* von den Bürgern gewählt.
+
+  Je fais du sport *régulièrement* pour rester en forme.
+  Ich treibe *regelmäßig* Sport, um fit zu bleiben.
+
+  Ces arbres ont été plantés *régulièrement* le long du chemin.
+  Diese Bäume wurden *gleichmäßig* entlang des Weges gepflanzt.
+
+  Mon voisin sort son chien *régulièrement* trois fois par jour.
+  Mein Nachbar führt seinen Hund *regelmäßig* dreimal am Tag aus.
+
+  La machine doit être entretenue *régulièrement*.
+  Die Maschine muss *regelmäßig* gewartet werden.
+
+  "*Régulièrement*, il devrait être là dans cinq minutes."
+  "*Normalerweise* müsste er in fünf Minuten hier sein."
+
+  Les étudiants sont *régulièrement* évalués pendant le semestre.
+  Die Studenten werden während des Semesters *regelmäßig* geprüft.
+
+  Le cœur du patient bat *régulièrement* maintenant.
+  Das Herz des Patienten schlägt jetzt *gleichmäßig*.
+
+  Elle vérifie *régulièrement* ses emails sur son téléphone.
+  Sie prüft *regelmäßig* ihre E-Mails auf ihrem Handy.
+
+  Les impôts doivent être payés *régulièrement*.
+  Die Steuern müssen *vorschriftsmäßig* gezahlt werden.
+
+  Ces exercices sont *régulièrement* pratiqués dans nos cours de français.
+  Diese Übungen werden in unserem Französischunterricht *regelmäßig* durchgeführt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

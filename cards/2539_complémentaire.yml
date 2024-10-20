@@ -13,20 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai des informations additionnelles et complémentaires à fournir.
-  Ich habe zusätzliche und ergänzende Informationen.
+  J'ai des informations additionnelles et *complémentaires* à fournir.
+  Ich habe zusätzliche und *ergänzende* Informationen zu liefern.
 
-  Ces deux couleurs sont complémentaires.
-  Diese beiden Farben ergänzen sich.
+  L'étude *complémentaire* a confirmé les résultats initiaux.
+  Die *ergänzende* Studie hat die ursprünglichen Ergebnisse bestätigt.
 
-  Il y a eu des problèmes techniques, des précisions complémentaires sont nécessaires.
-  Es gab technische Probleme, weitere Erläuterungen sind erforderlich.
+  Pour obtenir votre visa, veuillez fournir les documents *complémentaires* demandés.
+  Um Ihr Visum zu erhalten, reichen Sie bitte die geforderten *zusätzlichen* Dokumente ein.
 
-  J'ai besoin de précisions complémentaires pour comprendre votre demande.
-  Ich benötige weitere Erläuterungen, um Ihre Anfrage zu verstehen.
+  Le médecin a prescrit des examens *complémentaires* pour établir un diagnostic précis.
+  Der Arzt hat *weitere* Untersuchungen angeordnet, um eine genaue Diagnose zu stellen.
 
-  Pouvez-vous me donner des précisions complémentaires sur le sujet ?
-  Können Sie mir weitere Erläuterungen zu diesem Thema geben?
+  Notre entreprise propose une assurance *complémentaire* santé à tous ses employés.
+  Unser Unternehmen bietet allen Mitarbeitern eine *zusätzliche* Krankenversicherung an.
+
+  En géométrie, deux angles sont dits *complémentaires* si leur somme est égale à 90 degrés.
+  In der Geometrie werden zwei Winkel als *Komplementärwinkel* bezeichnet, wenn ihre Summe 90 Grad beträgt.
+
+  Le rouge et le vert sont des couleurs *complémentaires* en peinture.
+  Rot und Grün sind in der Malerei *Komplementärfarben*.
+
+  "Pouvez-vous me donner des précisions *complémentaires* sur ce sujet ?"
+  "Können Sie mir *nähere* Erläuterungen zu diesem Thema geben?"
+
+  Les industries automobile et pétrolière sont souvent considérées comme *complémentaires*.
+  Die Automobil- und Ölindustrie werden oft als *sich ergänzende* Branchen betrachtet.
+
+  Pour une nutrition équilibrée, il est important de consommer des aliments *complémentaires*.
+  Für eine ausgewogene Ernährung ist es wichtig, *sich ergänzende* Lebensmittel zu sich zu nehmen.
+
+  Le numéro *complémentaire* du Loto peut augmenter vos chances de gagner.
+  Die *Zusatzzahl* im Lotto kann Ihre Gewinnchancen erhöhen.
+
+  En linguistique, on parle de distribution *complémentaire* lorsque deux phonèmes n'apparaissent jamais dans le même contexte.
+  In der Linguistik spricht man von *komplementärer* Verteilung, wenn zwei Phoneme nie im gleichen Kontext auftreten.
+
+  Le yoga et la méditation sont des pratiques *complémentaires* pour le bien-être.
+  Yoga und Meditation sind *sich ergänzende* Praktiken für das Wohlbefinden.
+
+  "J'ai suivi une formation *complémentaire* pour améliorer mes compétences professionnelles."
+  "Ich habe eine *ergänzende* Ausbildung absolviert, um meine beruflichen Fähigkeiten zu verbessern."
+
+  Les vitamines et les minéraux jouent des rôles *complémentaires* dans notre organisme.
+  Vitamine und Mineralstoffe spielen *sich ergänzende* Rollen in unserem Körper.
+
+  Pour approfondir ce sujet, je vous recommande de lire l'ouvrage *complémentaire* de cet auteur.
+  Um dieses Thema zu vertiefen, empfehle ich Ihnen, das *ergänzende* Werk dieses Autors zu lesen.
+
+  Dans le calendrier républicain français, les jours *complémentaires* étaient ajoutés à la fin de l'année.
+  Im französischen Revolutionskalender wurden die *Ergänzungstage* am Ende des Jahres hinzugefügt.
+
+  Les cours *complémentaires* permettaient autrefois aux élèves de poursuivre leurs études après le certificat d'études.
+  Die *weiterführenden* Kurse ermöglichten es den Schülern früher, ihre Ausbildung nach dem Grundschulabschluss fortzusetzen.
+
+  En mathématiques, l'ensemble *complémentaire* contient tous les éléments qui n'appartiennent pas à un sous-ensemble donné.
+  In der Mathematik enthält die *Komplementärmenge* alle Elemente, die nicht zu einer gegebenen Teilmenge gehören.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

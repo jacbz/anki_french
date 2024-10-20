@@ -13,41 +13,116 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Trop d’argent et aucun goût.
-  Zu viel Geld und kein Geschmack.
+  Trop d'argent et *aucun* goût.
+  Zu viel Geld und *kein* Geschmack.
 
-  Je n’ai aucun problème.
-  Ich habe kein Problem.
+  *Aucun* humain n'échappera à la mort.
+  *Kein* Mensch entgeht dem Tod.
 
-  Je n’ai aucun livre à te prêter.
-  Ich habe kein Buch, das ich dir leihen kann.
+  La police n'a *aucune* preuve contre le suspect.
+  Die Polizei hat *überhaupt keinen* Beweis gegen den Verdächtigen.
 
-  Il n’y avait aucun passager dans le train.
-  Im Zug befanden sich keine Fahrgäste.
+  Il n'a répondu d'*aucune* façon à mes questions.
+  Er hat auf *keinerlei* Weise auf meine Fragen geantwortet.
 
-  Elle n’a eu aucun problème pour résoudre l’exercice.
-  Sie hatte keine Probleme, die Aufgabe zu lösen.
+  Elle est entrée dans la pièce sans faire *aucun* bruit.
+  Sie betrat den Raum, ohne *den geringsten* Lärm zu machen.
 
-  Marie lit plus qu'aucun autre enfant de sa classe.
-  Marie liest mehr als jedes andere Kind in ihrer Klasse.
+  Cet enfant lit plus qu'*aucun* autre de son âge.
+  Dieses Kind liest mehr als *jedes* andere in seinem Alter.
 
-  Croyez-vous qu'aucun auditeur vous écoute dans ce concert vide ?
-  Glauben Sie, irgendein Zuhörer hört Ihnen in diesem leeren Konzert zu?
+  Croyez-vous qu'*aucun* auditeur vous écoute vraiment ?
+  Glauben Sie, dass Ihnen *irgendein* Zuhörer wirklich zuhört?
 
-  Pensez-vous qu'aucun élève ait compris vos explications sur la relativité générale ?
-  Glauben Sie, irgendjemand hätte Ihre Erklärungen zur Allgemeinen Relativitätstheorie verstanden?
+  *Aucun* d'entre nous n'a osé contredire le patron.
+  *Keiner* von uns hat es gewagt, dem Chef zu widersprechen.
 
-  Aucun humain n'échappera à la mort, mais nous pouvons tous choisir comment nous vivons jusqu'à notre dernier jour.
-  Kein Mensch entgeht dem Tod, aber wir können alle wählen, wie wir bis zu unserem letzten Tag leben.
+  Je n'aime *aucun* de ces nouveaux modèles de voiture.
+  Ich mag *keines* dieser neuen Automodelle.
 
-  Le policier n'a aucune preuve pour accuser le suspect.
-  Der Polizist hat gar keinen Beweis, um den Verdächtigen anzuklagen.
+  Pensez-vous qu'*aucun* ait compris vos explications complexes ?
+  Glauben Sie, *irgendjemand* hätte Ihre komplizierten Erklärungen verstanden?
 
-  Le chat s'est faufilé dans la pièce sans faire aucun bruit.
-  Die Katze schlich sich ohne jeden Lärm in den Raum.
+  D'*aucuns* pensent que c'est une mauvaise idée.
+  *Einige* denken, dass das eine schlechte Idee ist.
 
-  Je n'aime aucun de ces romans, ils sont tous trop clichés.
-  Ich mag keinen dieser Romane, sie sind alle zu klischeehaft.
+  Il l'aime plus qu'*aucune* autre femme au monde.
+  Er liebt sie mehr als *jede* andere Frau auf der Welt.
+
+  Je n'ai *aucun* doute sur sa culpabilité.
+  Ich habe *keinerlei* Zweifel an seiner Schuld.
+
+  Elle travaille plus qu'*aucun* de ses collègues.
+  Sie arbeitet mehr als *jeder* ihrer Kollegen.
+
+  "Je ne connais *aucun* de ses amis," a-t-elle avoué.
+  "Ich kenne *keinen* seiner Freunde", gab sie zu.
+
+  *Aucune* décision n'a été prise lors de la réunion.
+  Es wurde *keine* Entscheidung während des Treffens getroffen.
+
+  Ces réparations n'entraîneront *aucuns* frais supplémentaires.
+  Diese Reparaturen werden *keinerlei* zusätzliche Kosten verursachen.
+
+  Il a fait connaître son choix sans hésitation *aucune*.
+  Er hat seine Wahl ohne *jegliches* Zögern bekannt gegeben.
+
+  Je doute qu'*aucun* résultat puisse être obtenu de cette façon.
+  Ich bezweifle, dass *irgendein* Ergebnis auf diese Weise erzielt werden kann.
+
+  Quoi qu'en pensent d'*aucuns*, la situation est sérieuse.
+  Was auch immer *manche* denken mögen, die Situation ist ernst.
+
+  *Aucune* de ces solutions ne me convient.
+  *Keine* dieser Lösungen passt mir.
+
+  Il n'y a *aucun* moyen de le convaincre.
+  Es gibt *keine* Möglichkeit, ihn zu überzeugen.
+
+  Elle n'a *aucune* intention de démissionner.
+  Sie hat *keinerlei* Absicht zu kündigen.
+
+  *Aucun* des participants n'a réussi l'examen.
+  *Keiner* der Teilnehmer hat die Prüfung bestanden.
+
+  Je n'ai *aucune* raison de douter de sa parole.
+  Ich habe *keinen* Grund, an seinem Wort zu zweifeln.
+
+  "As-tu des regrets ?" "- *Aucun*."
+  "Hast du irgendwelche Reue?" "- *Keine*."
+
+  *Aucune* de ces excuses n'est acceptable.
+  *Keine* dieser Entschuldigungen ist akzeptabel.
+
+  Il n'a *aucun* respect pour les règles.
+  Er hat *überhaupt keinen* Respekt vor den Regeln.
+
+  Elle ne montre *aucun* intérêt pour ce projet.
+  Sie zeigt *keinerlei* Interesse an diesem Projekt.
+
+  *Aucun* des candidats n'a les qualifications requises.
+  *Keiner* der Kandidaten hat die erforderlichen Qualifikationen.
+
+  Nous n'avons *aucune* nouvelle de lui depuis des mois.
+  Wir haben seit Monaten *keinerlei* Nachrichten von ihm.
+
+  Il n'y a *aucun* doute sur son innocence.
+  Es gibt *keinen* Zweifel an seiner Unschuld.
+
+  *Aucune* de ces options n'est satisfaisante.
+  *Keine* dieser Optionen ist zufriedenstellend.
+
+  Elle n'a *aucune* expérience dans ce domaine.
+  Sie hat *keinerlei* Erfahrung auf diesem Gebiet.
+
+  Il n'y a *aucun* risque à essayer.
+  Es besteht *kein* Risiko, es zu versuchen.
+
+  Je n'ai *aucune* idée de ce qui s'est passé.
+  Ich habe *keine* Ahnung, was passiert ist.
+
+  *Aucun* effort n'a été épargné pour réussir ce projet.
+  Es wurde *keine* Mühe gescheut, um dieses Projekt erfolgreich zu machen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

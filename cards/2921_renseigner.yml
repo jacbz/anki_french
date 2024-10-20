@@ -13,20 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Renseigne-moi, je veux savoir.
-  Informiere mich, ich will es wissen.
+  *Renseigne*-moi, je veux savoir.
+  *Informiere* mich, ich möchte es wissen.
 
-  Le directeur a renseigné les parents sur le comportement de leur fils, qui était inacceptable.
-  Der Schuldirektor hat die Eltern über das inakzeptable Verhalten ihres Sohnes aufgeklärt.
+  Le guide touristique nous a bien *renseignés* sur l'histoire de la ville.
+  Der Fremdenführer hat uns gut über die Geschichte der Stadt *informiert*.
 
-  Avant de partir en voyage, il est important de se renseigner sur les coutumes locales.
-  Bevor man auf Reisen geht, ist es wichtig, sich über die lokalen Gepflogenheiten zu informieren.
+  Je vais me *renseigner* auprès de la banque sur les taux d'intérêt actuels.
+  Ich werde mich bei der Bank über die aktuellen Zinssätze *informieren*.
 
-  On vous a mal renseigné, le train pour Paris est déjà parti.
-  Man hat Ihnen eine falsche Auskunft gegeben, der Zug nach Paris ist schon abgefahren.
+  Cette brochure *renseigne* les visiteurs sur les heures d'ouverture du musée.
+  Diese Broschüre *informiert* die Besucher über die Öffnungszeiten des Museums.
 
-  Le fait qu'il ait neigé hier ne nous renseigne pas beaucoup sur l'état des routes aujourd'hui.
-  Dass es gestern geschneit hat, hilft uns nicht viel weiter, was den Zustand der Straßen heute angeht.
+  Pouvez-vous me *renseigner* sur le prix de ce produit ?
+  Können Sie mich über den Preis dieses Produkts *informieren*?
+
+  Il faut toujours bien se *renseigner* avant d'acheter une maison.
+  Man sollte sich immer gut *informieren*, bevor man ein Haus kauft.
+
+  L'agent immobilier nous a mal *renseignés* sur l'état du bâtiment.
+  Der Immobilienmakler hat uns falsch über den Zustand des Gebäudes *informiert*.
+
+  Ce document nous *renseigne* utilement sur les coutumes locales.
+  Dieses Dokument *gibt* uns nützliche *Informationen* über die örtlichen Bräuche.
+
+  "Peux-tu me *renseigner* sur les horaires des trains ?" a-t-elle demandé au guichet.
+  "Kannst du mich über die Zugfahrpläne *informieren*?" fragte sie am Schalter.
+
+  Les journalistes bien *renseignés* ont prédit le résultat de l'élection.
+  Die gut *informierten* Journalisten haben das Wahlergebnis vorhergesagt.
+
+  Elle s'est *renseignée* auprès de plusieurs universités avant de faire son choix.
+  Sie hat sich bei mehreren Universitäten *erkundigt*, bevor sie ihre Wahl traf.
+
+  Ce rapport *renseigne* le gouvernement sur l'état de l'économie.
+  Dieser Bericht *informiert* die Regierung über den Zustand der Wirtschaft.
+
+  Nous devons *renseigner* tous les champs du formulaire avec précision.
+  Wir müssen alle Felder des Formulars genau *ausfüllen*.
+
+  L'hôtesse d'accueil est là pour vous *renseigner* sur les services de l'hôtel.
+  Die Empfangsdame ist da, um Sie über die Dienstleistungen des Hotels zu *informieren*.
+
+  Je me suis mal *renseigné* sur les conditions de vente.
+  Ich habe mich schlecht über die Verkaufsbedingungen *informiert*.
+
+  Cette étude *renseigne* sur les habitudes alimentaires des Français.
+  Diese Studie *gibt Aufschluss* über die Essgewohnheiten der Franzosen.
+
+  "*Renseignez-vous* bien avant de prendre une décision", a conseillé l'expert.
+  "*Informieren* Sie sich gut, bevor Sie eine Entscheidung treffen", riet der Experte.
+
+  Les espions ont *renseigné* leur gouvernement sur les mouvements de l'ennemi.
+  Die Spione haben ihre Regierung über die Bewegungen des Feindes *informiert*.
+
+  Ce site web *renseigne* les consommateurs sur leurs droits.
+  Diese Website *informiert* die Verbraucher über ihre Rechte.
+
+  Il faut se *renseigner* sur les effets secondaires avant de prendre ce médicament.
+  Man sollte sich über die Nebenwirkungen *informieren*, bevor man dieses Medikament einnimmt.
+
+  Le panneau *renseigne* les automobilistes sur les travaux à venir.
+  Das Schild *informiert* die Autofahrer über die bevorstehenden Bauarbeiten.
+
+  "Pouvez-vous me *renseigner* sur les tarifs ?" a demandé le client.
+  "Können Sie mich über die Preise *informieren*?" fragte der Kunde.
+
+  Cette base de données *renseigne* les chercheurs sur l'évolution du climat.
+  Diese Datenbank *gibt* den Forschern *Auskunft* über die Klimaentwicklung.
+
+  Je me suis bien *renseigné* avant de choisir ma nouvelle voiture.
+  Ich habe mich gut *informiert*, bevor ich mein neues Auto ausgewählt habe.
+
+  L'office de tourisme *renseigne* les visiteurs sur les attractions locales.
+  Das Touristenbüro *informiert* die Besucher über die örtlichen Sehenswürdigkeiten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

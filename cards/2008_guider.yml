@@ -13,23 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Voilà les convictions qui guident mes pas.
-  Das sind die Überzeugungen, die meine Schritte leiten.
+  Voilà les convictions qui *guident* mes pas.
+  Das sind die Überzeugungen, die meine Schritte *leiten*.
 
-  Je vais te guider vers la sortie.
-  Ich werde dich zum Ausgang führen.
+  Le GPS nous a *guidés* jusqu'à notre destination.
+  Das GPS hat uns zu unserem Ziel *geführt*.
 
-  Les enquêteurs se sont guidés sur les indices laissés sur les lieux du crime.
-  Die Ermittler haben sich nach den Spuren gerichtet, die am Tatort hinterlassen wurden.
+  Elle *guide* les touristes à travers les ruelles pittoresques de la vieille ville.
+  Sie *führt* die Touristen durch die malerischen Gassen der Altstadt.
 
-  Ils se sont laissés guider par leur instinct dans cette affaire complexe.
-  Sie haben sich in dieser komplizierten Angelegenheit von ihrem Instinkt leiten lassen.
+  Les étoiles *guidaient* autrefois les navigateurs en mer.
+  Die Sterne *leiteten* früher die Seefahrer auf dem Meer.
 
-  Le professeur a guidé les étudiants dans leurs recherches sur l'histoire de la ville.
-  Der Professor hat die Studenten bei ihren Recherchen über die Geschichte der Stadt beraten.
+  Le professeur *guide* ses élèves dans leurs recherches.
+  Der Lehrer *berät* seine Schüler bei ihren Forschungen.
 
-  La mère guida les pas de son enfant à travers la foule.
-  Die Mutter lenkte die Schritte ihres Kindes durch die Menge.
+  Ce chien est spécialement dressé pour *guider* les personnes malvoyantes.
+  Dieser Hund ist speziell ausgebildet, um sehbehinderte Menschen zu *führen*.
+
+  Laissez-vous *guider* par votre intuition dans cette décision.
+  Lassen Sie sich bei dieser Entscheidung von Ihrer Intuition *leiten*.
+
+  Le capitaine *guidait* habilement le navire à travers les récifs.
+  Der Kapitän *steuerte* das Schiff geschickt durch die Riffe.
+
+  Son mentor l'a *guidé* tout au long de sa carrière.
+  Sein Mentor hat ihn während seiner gesamten Karriere *begleitet*.
+
+  Les panneaux routiers nous *guideront* jusqu'au centre-ville.
+  Die Straßenschilder werden uns in die Innenstadt *führen*.
+
+  Il faut *guider* les jeunes dans le choix de leur orientation professionnelle.
+  Man muss die Jugendlichen bei der Wahl ihrer beruflichen Ausrichtung *beraten*.
+
+  Le berger *guide* son troupeau vers de nouveaux pâturages.
+  Der Hirte *führt* seine Herde zu neuen Weidegründen.
+
+  Les principes éthiques doivent *guider* nos actions quotidiennes.
+  Ethische Prinzipien sollten unser tägliches Handeln *leiten*.
+
+  Le pilote automatique *guidait* l'avion pendant que l'équipage se reposait.
+  Der Autopilot *steuerte* das Flugzeug, während sich die Besatzung ausruhte.
+
+  Elle se *guide* sur le soleil pour retrouver son chemin dans la forêt.
+  Sie *orientiert* sich an der Sonne, um ihren Weg im Wald zu finden.
+
+  Les instructions écrites *guideront* les participants tout au long de l'exercice.
+  Die schriftlichen Anweisungen werden die Teilnehmer durch die gesamte Übung *leiten*.
+
+  Un conseiller d'orientation peut vous *guider* dans le choix de vos études.
+  Ein Berufsberater kann Sie bei der Wahl Ihres Studiums *beraten*.
+
+  Le radar *guide* le missile vers sa cible avec précision.
+  Das Radar *lenkt* die Rakete präzise auf ihr Ziel.
+
+  Les panneaux lumineux *guident* les automobilistes sur l'autoroute la nuit.
+  Die Leuchttafeln *leiten* die Autofahrer nachts auf der Autobahn.
+
+  L'amour et le respect mutuel *guident* leur relation depuis des années.
+  Liebe und gegenseitiger Respekt *leiten* ihre Beziehung seit Jahren.
+
+  Le manuel d'utilisation vous *guidera* étape par étape dans l'assemblage du meuble.
+  Die Bedienungsanleitung wird Sie Schritt für Schritt beim Zusammenbau des Möbelstücks *anleiten*.
+
+  Les valeurs familiales ont *guidé* ses choix tout au long de sa vie.
+  Familiäre Werte haben seine Entscheidungen sein ganzes Leben lang *geleitet*.
+
+  Le gouvernail *guide* le bateau dans la direction souhaitée.
+  Das Steuerruder *lenkt* das Boot in die gewünschte Richtung.
+
+  L'expérience des anciens *guide* souvent les décisions des plus jeunes.
+  Die Erfahrung der Älteren *leitet* oft die Entscheidungen der Jüngeren.
+
+  Les balises *guideront* les randonneurs sur le sentier de montagne.
+  Die Markierungen werden die Wanderer auf dem Bergpfad *leiten*.
+
+  L'enseignant *guide* doucement la main de l'élève pour l'aider à former ses lettres.
+  Der Lehrer *führt* sanft die Hand des Schülers, um ihm bei der Formung seiner Buchstaben zu helfen.
+
+  Le phare *guidait* les navires vers l'entrée du port.
+  Der Leuchtturm *leitete* die Schiffe zum Hafeneingang.
+
+  Son instinct de survie l'a *guidé* à travers la jungle hostile.
+  Sein Überlebensinstinkt hat ihn durch den feindseligen Dschungel *geleitet*.
+
+  Les conseils de son père l'ont *guidée* dans ses choix professionnels.
+  Die Ratschläge ihres Vaters haben sie bei ihren beruflichen Entscheidungen *geleitet*.
+
+  La curiosité scientifique *guide* ses recherches depuis des années.
+  Wissenschaftliche Neugier *leitet* seine Forschungen seit Jahren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

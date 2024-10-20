@@ -13,20 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il est probable que le visa sera refusé.
-  Es ist wahrscheinlich, dass das Visum abgelehnt wird.
+  Il est *probable* que le visa sera refusé.
+  Es ist *wahrscheinlich*, dass das Visum abgelehnt wird.
 
-  Il est probable qu’il viendra demain.
-  Es ist wahrscheinlich, dass er morgen kommt.
+  L'hypothèse la plus *probable* est qu'il a oublié notre rendez-vous.
+  Die *wahrscheinlichste* Vermutung ist, dass er unseren Termin vergessen hat.
 
-  Ça semblerait probable.
-  Das scheint wahrscheinlich.
+  "*Probable* qu'elle ne viendra pas à la fête."
+  "*Wahrscheinlich* kommt sie nicht zur Party."
 
-  Il est probable qu'il gagnera le match, il a beaucoup d'expérience.
-  Wahrscheinlich wird er das Match gewinnen, er hat viel Erfahrung.
+  La date *probable* de livraison est fixée à mardi prochain.
+  Der *voraussichtliche* Liefertermin ist nächsten Dienstag.
 
-  Il est probable qu'il gagnera le concours, il a préparé son exposé avec soin.
-  Wahrscheinlich wird er den Wettbewerb gewinnen, er hat seinen Vortrag sorgfältig vorbereitet.
+  Il n'est pas *probable* qu'elle dise non à cette offre.
+  Es ist nicht *wahrscheinlich*, dass sie dieses Angebot ablehnt.
+
+  La cause la plus *probable* de la panne est un problème électrique.
+  Die *wahrscheinlichste* Ursache für den Ausfall ist ein elektrisches Problem.
+
+  Son départ est plus que *probable* maintenant.
+  Sein Weggang ist jetzt mehr als *wahrscheinlich*.
+
+  Cette explication me semble *probable*.
+  Diese Erklärung erscheint mir *wahrscheinlich*.
+
+  Le scénario le plus *probable* est que nous devrons reporter le voyage.
+  Das *wahrscheinlichste* Szenario ist, dass wir die Reise verschieben müssen.
+
+  Il est fort *probable* que nous aurons de la pluie demain.
+  Es ist sehr *wahrscheinlich*, dass wir morgen Regen bekommen werden.
+
+  La victoire de notre équipe est peu *probable*.
+  Der Sieg unserer Mannschaft ist wenig *wahrscheinlich*.
+
+  "*Probable* que je serai en retard ce soir."
+  "*Wahrscheinlich* werde ich heute Abend zu spät kommen."
+
+  Le coût *probable* des réparations dépassera notre budget.
+  Die *voraussichtlichen* Reparaturkosten werden unser Budget übersteigen.
+
+  Cette théorie semble plus *probable* que l'ancienne.
+  Diese Theorie erscheint *wahrscheinlicher* als die alte.
+
+  Il est *probable* qu'elle finira par accepter notre proposition.
+  Es ist *wahrscheinlich*, dass sie am Ende unseren Vorschlag annehmen wird.
+
+  Le successeur *probable* du directeur sera son assistant actuel.
+  Der *wahrscheinliche* Nachfolger des Direktors wird sein jetziger Assistent sein.
+
+  La date *probable* de son retour n'est pas encore connue.
+  Der *voraussichtliche* Zeitpunkt seiner Rückkehr ist noch nicht bekannt.
+
+  Ne prenons pas pour certain ce qui n'est que *probable*.
+  Halten wir nicht für sicher, was nur *wahrscheinlich* ist.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

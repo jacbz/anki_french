@@ -13,20 +13,161 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’étaient des oiseaux sauvages.
-  Es waren wilde Vögel.
+  C'étaient des oiseaux *sauvages*.
+  Es waren *wilde* Vögel.
 
-  Les animaux sauvages vivent dans la forêt.
-  Wilde Tiere leben im Wald.
+  Les fleurs *sauvages* poussent librement dans la prairie.
+  Die *Wildblumen* wachsen frei auf der Wiese.
 
-  Le lion est un animal à l'état sauvage qui vit dans les savanes d'Afrique.
-  Der Löwe ist ein in der Wildnis lebendes Tier, das in den Savannen Afrikas lebt.
+  Son jardin ressemble à une forêt *sauvage*.
+  Sein Garten gleicht einem *wilden* Wald.
 
-  Les enfants jouaient dans la forêt, comme des sauvages.
-  Die Kinder spielten im Wald, wie die Wilden.
+  Le sanglier est un animal *sauvage* difficile à approcher.
+  Das Wildschwein ist ein schwer zu näherndes *wildes* Tier.
 
-  La nature présentait une beauté sauvage et fascinante.
-  Die Natur zeigte eine Urwüchsigkeit, die sowohl schön als auch faszinierend war.
+  "Arrêtez de crier comme des *sauvages* !" a dit la mère à ses enfants.
+  "Hört auf zu schreien *wie die Wilden*!", sagte die Mutter zu ihren Kindern.
+
+  Les *sauvages* du Nouveau Monde fascinaient les explorateurs européens.
+  Die *Wilden* der Neuen Welt faszinierten die europäischen Entdecker.
+
+  La beauté *sauvage* de la côte bretonne attire de nombreux touristes.
+  Die *unberührte* Schönheit der bretonischen Küste zieht viele Touristen an.
+
+  Cette grève *sauvage* a pris la direction par surprise.
+  Dieser *wilde* Streik hat die Führung überrascht.
+
+  Le camping *sauvage* est interdit dans ce parc national.
+  *Wildes* Campen ist in diesem Nationalpark verboten.
+
+  Les autorités ont mené une répression *sauvage* contre les manifestants.
+  Die Behörden haben eine *brutale* Unterdrückung gegen die Demonstranten durchgeführt.
+
+  Ce paysage *sauvage* n'a pas été touché par l'homme depuis des siècles.
+  Diese *unberührte* Landschaft wurde seit Jahrhunderten nicht vom Menschen berührt.
+
+  La concurrence *sauvage* nuit à l'économie locale.
+  Die *illegale* Konkurrenz schadet der lokalen Wirtschaft.
+
+  Les chats *sauvages* sont difficiles à apprivoiser.
+  *Wilde* Katzen sind schwer zu zähmen.
+
+  Cette région *sauvage* est d'un accès très difficile.
+  Diese *unberührte* Region ist sehr schwer zugänglich.
+
+  Le capitalisme *sauvage* a creusé les inégalités sociales.
+  Der *ungezügelte* Kapitalismus hat die sozialen Ungleichheiten vertieft.
+
+  Les cris *sauvages* de la foule ont effrayé les enfants.
+  Die *gellenden* Schreie der Menge haben die Kinder erschreckt.
+
+  Cette plante *sauvage* a des propriétés médicinales.
+  Diese *wildwachsende* Pflanze hat heilende Eigenschaften.
+
+  Le loup est retourné à l'état *sauvage* après des années de captivité.
+  Der Wolf ist nach Jahren in Gefangenschaft in den *wilden* Zustand zurückgekehrt.
+
+  Les fraises des bois sont plus parfumées que les fraises *sauvages*.
+  Walderdbeeren sind aromatischer als *wilde* Erdbeeren.
+
+  Cette tribu *sauvage* n'a jamais eu de contact avec la civilisation moderne.
+  Dieser *primitive* Stamm hatte nie Kontakt zur modernen Zivilisation.
+
+  Le petit garçon était très *sauvage* et refusait de parler aux étrangers.
+  Der kleine Junge war sehr *scheu* und weigerte sich, mit Fremden zu sprechen.
+
+  La beauté *sauvage* de ces montagnes est à couper le souffle.
+  Die *unverfälschte* Schönheit dieser Berge ist atemberaubend.
+
+  Les pommes *sauvages* sont généralement plus acides que les pommes cultivées.
+  *Wildäpfel* sind in der Regel saurer als kultivierte Äpfel.
+
+  Cette vente *sauvage* de billets est totalement illégale.
+  Dieser *illegale* Ticketverkauf ist völlig gesetzeswidrig.
+
+  Les chevaux *sauvages* galopent librement dans la plaine.
+  Die *wilden* Pferde galoppieren frei über die Ebene.
+
+  La théorie du "bon *sauvage*" a influencé de nombreux philosophes.
+  Die Theorie des "edlen *Wilden*" hat viele Philosophen beeinflusst.
+
+  Cette forêt *sauvage* abrite de nombreuses espèces rares.
+  Dieser *naturbelassene* Wald beherbergt viele seltene Arten.
+
+  Les *sauvages* du film étaient en réalité des acteurs maquillés.
+  Die *Wilden* im Film waren in Wirklichkeit geschminkte Schauspieler.
+
+  Cette répression *sauvage* a choqué l'opinion publique.
+  Diese *brutale* Unterdrückung hat die Öffentlichkeit schockiert.
+
+  Le jardin botanique cultive des variétés *sauvages* de roses.
+  Der botanische Garten kultiviert *wilde* Rosensorten.
+
+  Les abeilles *sauvages* jouent un rôle crucial dans la pollinisation.
+  *Wildbienen* spielen eine entscheidende Rolle bei der Bestäubung.
+
+  Ce paysage *sauvage* n'a jamais été exploité par l'homme.
+  Diese *unberührte* Landschaft wurde nie vom Menschen genutzt.
+
+  La nature *sauvage* reprend ses droits dans cette ville abandonnée.
+  Die *wilde* Natur erobert diese verlassene Stadt zurück.
+
+  Les canards *sauvages* migrent chaque année vers le sud.
+  *Wildenten* ziehen jedes Jahr nach Süden.
+
+  Cette crèche *sauvage* a été créée par des parents mécontents.
+  Diese *wilde* Kindertagesstätte wurde von unzufriedenen Eltern gegründet.
+
+  Le comportement *sauvage* de certains supporters a gâché le match.
+  Das *brutale* Verhalten einiger Fans hat das Spiel ruiniert.
+
+  Les framboises *sauvages* ont un goût plus intense que les cultivées.
+  *Wilde* Himbeeren haben einen intensiveren Geschmack als kultivierte.
+
+  Cette côte *sauvage* est dangereuse pour la navigation.
+  Diese *wilde* Küste ist gefährlich für die Schifffahrt.
+
+  L'enfant *sauvage* de l'Aveyron a fasciné les scientifiques du 19ème siècle.
+  Das *wilde* Kind von Aveyron faszinierte die Wissenschaftler des 19. Jahrhunderts.
+
+  Les oies *sauvages* volent en formation en V.
+  *Wildgänse* fliegen in V-Formation.
+
+  Cette *sauvage* a vécu seule dans la forêt pendant des années.
+  Diese *Einzelgängerin* hat jahrelang allein im Wald gelebt.
+
+  Le lynx est un félin *sauvage* très discret.
+  Der Luchs ist eine sehr scheue *wilde* Katze.
+
+  Les mûres *sauvages* poussent le long des chemins de campagne.
+  *Wilde* Brombeeren wachsen entlang der Feldwege.
+
+  Ce *sauvage* refuse tout contact avec la civilisation.
+  Dieser *Einzelgänger* lehnt jeden Kontakt mit der Zivilisation ab.
+
+  La vie *sauvage* est menacée par la déforestation.
+  Das *wilde* Leben ist durch die Abholzung der Wälder bedroht.
+
+  Ces champignons *sauvages* peuvent être toxiques.
+  Diese *wilden* Pilze können giftig sein.
+
+  Le *sauvage* s'est peu à peu habitué à la vie en société.
+  Der *Wilde* hat sich nach und nach an das Leben in der Gesellschaft gewöhnt.
+
+  Les orties *sauvages* ont des propriétés médicinales.
+  *Wilde* Brennnesseln haben heilende Eigenschaften.
+
+  Cette horde *sauvage* a pillé le village.
+  Diese *wilde* Horde hat das Dorf geplündert.
+
+  La beauté *sauvage* de l'Alaska attire de nombreux aventuriers.
+  Die *unberührte* Schönheit Alaskas zieht viele Abenteurer an.
+
+  Les lapins *sauvages* causent des dégâts dans les cultures.
+  *Wildkaninchen* verursachen Schäden in den Kulturen.
+
+  Ce *sauvage* vit en ermite depuis des années.
+  Dieser *Einzelgänger* lebt seit Jahren als Einsiedler.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,41 +13,131 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je fais plus jeune sans maquillage.
-  Ich sehe ohne Make-up jünger aus.
+  Je fais plus jeune *sans* maquillage.
+  Ich sehe *ohne* Make-up jünger aus.
 
-  Il est parti sans dire au revoir.
-  Er ist gegangen, ohne "Auf Wiedersehen" zu sagen.
+  Elle a acheté une robe *sans* manches pour l'été.
+  Sie hat ein *ärmelloses* Sommerkleid gekauft.
 
-  Je suis allé au supermarché sans mon portefeuille.
-  Ich bin ohne meine Brieftasche in den Supermarkt gegangen.
+  Je préfère le thé *sans* sucre.
+  Ich bevorzuge den Tee *ohne* Zucker.
 
-  Elle a réussi l’examen sans aucune aide.
-  Sie hat die Prüfung ohne Hilfe bestanden.
+  Cette piscine utilise un système *sans* chlore.
+  Dieses Schwimmbad verwendet ein *chlorfreies* System.
 
-  Il a préparé la recette sans suivre les instructions.
-  Er hat das Rezept zubereitet, ohne die Anweisungen zu befolgen.
+  C'est un homme *sans* scrupules qui ferait n'importe quoi pour réussir.
+  Er ist ein *skrupelloser* Mann, der alles tun würde, um Erfolg zu haben.
 
-  Nous sommes partis en vacances sans réserver d’hôtel.
-  Wir fuhren in den Urlaub, ohne ein Hotel zu buchen.
+  Il marche *sans* but dans les rues désertes.
+  Er läuft *ziellos* durch die leeren Straßen.
 
-  Elle est arrivée en retard, sans même s’excuser.
-  Sie kam zu spät und entschuldigte sich nicht einmal.
+  Il est parti *sans* fermer la porte à clé.
+  Er ist gegangen, *ohne* die Tür abzuschließen.
 
-  Il va falloir faire sans elle, car elle est malade.
-  Wir werden ohne sie auskommen müssen, da sie krank ist.
+  La situation n'est pas *sans* nous inquiéter.
+  Die Situation macht uns durchaus Sorgen.
 
-  Il est parti sans fermer la porte, ce qui a inquiété ses parents.
-  Er ist gegangen, ohne die Tür zu schließen, was seine Eltern beunruhigt hat.
+  Vous n'êtes pas *sans* savoir que les règles ont changé.
+  Sie wissen doch, dass sich die Regeln geändert haben.
 
-  La situation n'est pas sans nous inquiéter, car elle est très volatile.
-  Nicht, dass wir über die Situation nicht beunruhigt wären, denn sie ist sehr instabil.
+  Elle a déménagé *sans* que je le sache.
+  Sie ist umgezogen, *ohne* dass ich es wusste.
 
-  Vous n'êtes pas sans savoir que le projet a été un succès.
-  Sie wissen doch, dass das Projekt ein Erfolg war.
+  "C'est un bon restaurant, mais *sans* plus."
+  "Es ist ein gutes Restaurant, aber auch nicht mehr."
 
-  Il a fait ça sans que tu le saches, pour te faire une surprise.
-  Er hat das, ohne dass du es weißt, getan, um dir eine Überraschung zu machen.
+  Tu dois finir tes devoirs, *sans* quoi tu seras puni.
+  Du musst deine Hausaufgaben fertig machen, *sonst* wirst du bestraft.
+
+  "On n'a plus de café, il va falloir faire *sans*."
+  "Wir haben keinen Kaffee mehr, wir werden *ohne* auskommen müssen."
+
+  Il est *sans* argent depuis qu'il a perdu son travail.
+  Er ist *ohne* Geld, seit er seine Arbeit verloren hat.
+
+  C'était un film complètement *sans* intérêt.
+  Es war ein völlig *reizloser* Film.
+
+  *Sans* toi, je n'aurais jamais réussi !
+  *Ohne* dich hätte ich es nie geschafft!
+
+  Elle travaille *sans* cesse du matin au soir.
+  Sie arbeitet *ohne* Unterlass von morgens bis abends.
+
+  Cette règle s'applique *sans* exception.
+  Diese Regel gilt *ohne* Ausnahme.
+
+  Il n'est pas parti *sans* une certaine tristesse.
+  Er ist nicht *ohne* eine gewisse Traurigkeit gegangen.
+
+  Elle a quitté la réunion *sans* dire un mot.
+  Sie hat die Besprechung verlassen, *ohne* ein Wort zu sagen.
+
+  Cela va *sans* dire qu'il viendra à la fête.
+  Es versteht sich von selbst, dass er zur Party kommen wird.
+
+  Il est sorti *sans* parapluie sous la pluie.
+  Er ist *ohne* Regenschirm in den Regen hinausgegangen.
+
+  Cette eau est *sans* goût ni odeur.
+  Dieses Wasser ist *geschmacks-* und geruchlos.
+
+  Je suis *sans* nouvelles de lui depuis des mois.
+  Ich bin seit Monaten *ohne* Nachricht von ihm.
+
+  Nous vendons des produits *sans* conservateurs.
+  Wir verkaufen *konservierungsfreie* Produkte.
+
+  Il vit *sans* téléphone portable.
+  Er lebt *ohne* Handy.
+
+  *Sans* voiture, je mets une heure pour aller au travail.
+  *Ohne* Auto brauche ich eine Stunde zur Arbeit.
+
+  Elle est partie en vacances *sans* réserver d'hôtel.
+  Sie ist in den Urlaub gefahren, *ohne* ein Hotel zu buchen.
+
+  Je ne peux pas dormir *sans* un oreiller confortable.
+  Ich kann nicht *ohne* ein bequemes Kissen schlafen.
+
+  Il est resté *sans* emploi pendant six mois.
+  Er war sechs Monate lang *ohne* Arbeit.
+
+  Cette crème est *sans* parfum.
+  Diese Creme ist *parfümfrei*.
+
+  *Sans* GPS, nous nous sommes perdus en ville.
+  *Ohne* GPS haben wir uns in der Stadt verirrt.
+
+  Elle cuisine toujours *sans* sel.
+  Sie kocht immer *ohne* Salz.
+
+  J'ai oublié mon mot de passe et je suis *sans* accès à mes emails.
+  Ich habe mein Passwort vergessen und bin *ohne* Zugang zu meinen E-Mails.
+
+  Il est parti en voyage *sans* bagages.
+  Er ist *ohne* Gepäck verreist.
+
+  Elle a réussi l'examen *sans* difficulté.
+  Sie hat die Prüfung *ohne* Schwierigkeiten bestanden.
+
+  *Sans* lumière, je ne peux pas lire.
+  *Ohne* Licht kann ich nicht lesen.
+
+  Il est sorti *sans* manteau malgré le froid.
+  Er ist trotz der Kälte *ohne* Mantel rausgegangen.
+
+  La maison est restée *sans* chauffage tout l'hiver.
+  Das Haus blieb den ganzen Winter *ohne* Heizung.
+
+  Cette boisson est *sans* calories.
+  Dieses Getränk ist *kalorienfrei*.
+
+  Elle traverse une période *sans* stress.
+  Sie durchlebt eine *stressfreie* Zeit.
+
+  Les enfants sont *sans* surveillance dans la cour.
+  Die Kinder sind *ohne* Aufsicht auf dem Hof.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

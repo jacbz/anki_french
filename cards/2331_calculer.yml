@@ -13,35 +13,113 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai conçu un autre ordinateur pour calculer cela.
-  Ich habe einen anderen Computer entworfen, um das zu berechnen.
+  J'ai conçu un autre ordinateur pour *calculer* cela.
+  Ich habe einen anderen Computer entwickelt, um das zu *berechnen*.
 
-  Je dois calculer mes dépenses.
-  Ich muss meine Ausgaben berechnen.
+  L'astrophysicien *calcule* la trajectoire des astéroïdes.
+  Der Astrophysiker *berechnet* die Flugbahn der Asteroiden.
 
-  Pierre adore calculer de tête, c'est un véritable prodige.
-  Pierre liebt es, kopfrechnen, er ist ein wahres Wunderkind.
+  Elle *calcule* mentalement la somme de ses achats.
+  Sie *rechnet* die Summe ihrer Einkäufe im Kopf *aus*.
 
-  Le prix du billet d'avion était un prix calculé au plus juste.
-  Der Preis des Flugtickets war ein scharf kalkulierter Preis.
+  "Tu ne *calcules* jamais les conséquences de tes actes !"
+  "Du *bedenkst* nie die Folgen deiner Handlungen!"
 
-  Il faut calculer au plus juste pour ne pas dépasser le budget.
-  Man muss sehr knapp kalkulieren, um das Budget nicht zu sprengen.
+  Les ingénieurs *calculent* la résistance du nouveau pont.
+  Die Ingenieure *berechnen* die Belastbarkeit der neuen Brücke.
 
-  Il a calculé ses chances et a décidé de prendre le risque.
-  Er hat seine Chancen ausgerechnet und sich entschieden, das Risiko einzugehen.
+  Il faut *calculer* le coût total du projet avant de commencer.
+  Man muss die Gesamtkosten des Projekts *kalkulieren*, bevor man beginnt.
 
-  Ils ont calculé que ça suffit pour le voyage.
-  Sie haben geschätzt, dass es für die Reise reicht.
+  L'économiste *calcule* l'inflation pour l'année à venir.
+  Der Ökonom *berechnet* die Inflation für das kommende Jahr.
 
-  Il faut calculer large pour les imprévus.
-  Man sollte großzügig kalkulieren, um für unvorhergesehene Ereignisse gerüstet zu sein.
+  Nous devons *calculer* nos dépenses pour ne pas dépasser le budget.
+  Wir müssen unsere Ausgaben *kalkulieren*, um das Budget nicht zu überschreiten.
 
-  Tout bien calculé, le projet est rentable.
-  Alles in allem ist das Projekt rentabel.
+  L'élève apprend à *calculer* les pourcentages en classe de mathématiques.
+  Der Schüler lernt im Mathematikunterricht, Prozentsätze zu *berechnen*.
 
-  Il faut encore que je calcule comment je vais arranger les meubles.
-  Ich muss erst noch ausklamüsern, wie ich die Möbel umstellen kann.
+  Le comptable *calcule* les impôts de l'entreprise.
+  Der Buchhalter *berechnet* die Steuern des Unternehmens.
+
+  Les scientifiques *calculent* la probabilité d'une éruption volcanique.
+  Die Wissenschaftler *berechnen* die Wahrscheinlichkeit eines Vulkanausbruchs.
+
+  Il faut *calculer* le temps nécessaire pour atteindre notre destination.
+  Wir müssen die Zeit *berechnen*, die wir brauchen, um unser Ziel zu erreichen.
+
+  L'athlète *calcule* son élan avant de sauter.
+  Der Athlet *kalkuliert* seinen Anlauf vor dem Sprung.
+
+  Le politicien *calcule* ses chances de gagner les élections.
+  Der Politiker *rechnet* seine Chancen *aus*, die Wahlen zu gewinnen.
+
+  L'architecte *calcule* la quantité de matériaux nécessaires pour la construction.
+  Der Architekt *berechnet* die Menge an Materialien, die für den Bau benötigt werden.
+
+  "Il faut *calculer* au plus juste pour que le projet soit rentable."
+  "Wir müssen sehr knapp *kalkulieren*, damit das Projekt rentabel ist."
+
+  L'ordinateur peut *calculer* des millions d'opérations par seconde.
+  Der Computer kann Millionen von Rechenoperationen pro Sekunde *berechnen*.
+
+  Les météorologues *calculent* la probabilité de précipitations pour demain.
+  Die Meteorologen *berechnen* die Wahrscheinlichkeit von Niederschlägen für morgen.
+
+  L'étudiant *calcule* sa moyenne pour le semestre.
+  Der Student *berechnet* seinen Notendurchschnitt für das Semester.
+
+  Le navigateur *calcule* la route la plus courte vers le port.
+  Der Navigator *berechnet* die kürzeste Route zum Hafen.
+
+  "Tout bien *calculé*, ce n'est pas une si mauvaise affaire."
+  "*Alles in allem* ist es kein so schlechtes Geschäft."
+
+  L'investisseur *calcule* le retour sur investissement potentiel.
+  Der Investor *kalkuliert* die potenzielle Rendite.
+
+  Le chef cuisinier *calcule* les quantités nécessaires pour 100 personnes.
+  Der Küchenchef *berechnet* die benötigten Mengen für 100 Personen.
+
+  L'astronome *calcule* la date de la prochaine éclipse solaire.
+  Der Astronom *berechnet* das Datum der nächsten Sonnenfinsternis.
+
+  Le joueur de poker *calcule* ses chances de gagner la main.
+  Der Pokerspieler *berechnet* seine Chancen, die Hand zu gewinnen.
+
+  "Il faut *calculer* large pour éviter les mauvaises surprises."
+  "Man muss großzügig *kalkulieren*, um böse Überraschungen zu vermeiden."
+
+  La compagnie aérienne *calcule* le carburant nécessaire pour le vol.
+  Die Fluggesellschaft *berechnet* den für den Flug benötigten Treibstoff.
+
+  Le pharmacien *calcule* la dose exacte du médicament.
+  Der Apotheker *berechnet* die genaue Dosis des Medikaments.
+
+  L'entrepreneur *calcule* le prix de vente optimal pour son produit.
+  Der Unternehmer *kalkuliert* den optimalen Verkaufspreis für sein Produkt.
+
+  Le physicien *calcule* la vitesse de la lumière dans différents milieux.
+  Der Physiker *berechnet* die Lichtgeschwindigkeit in verschiedenen Medien.
+
+  "Ne *calcule* pas trop, fais-moi confiance !"
+  "*Rechne* nicht zu viel, vertrau mir einfach!"
+
+  Le statisticien *calcule* la marge d'erreur du sondage.
+  Der Statistiker *berechnet* die Fehlermarge der Umfrage.
+
+  L'agent immobilier *calcule* le montant des mensualités du prêt.
+  Der Immobilienmakler *berechnet* die Höhe der monatlichen Kreditraten.
+
+  Le géomètre *calcule* la superficie exacte du terrain.
+  Der Landvermesser *berechnet* die genaue Fläche des Grundstücks.
+
+  Le programmeur *calcule* la complexité de son algorithme.
+  Der Programmierer *berechnet* die Komplexität seines Algorithmus.
+
+  "Il a *calculé* son coup pour obtenir une promotion."
+  "Er hat seinen Schachzug genau *kalkuliert*, um eine Beförderung zu erhalten."
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

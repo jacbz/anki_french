@@ -13,32 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les investissements en provenance de l’extérieur diminuent.
-  Die Investitionen aus dem Ausland gehen zurück.
+  Les investissements en *provenance* de l'extérieur diminuent.
+  Die Investitionen aus dem *Ausland* gehen zurück.
 
-  Je ne connais pas la provenance de ce vin.
-  Ich kenne nicht den Ursprung dieses Weins.
+  Je ne connais pas la *provenance* exacte de ce tableau.
+  Ich kenne die genaue *Herkunft* dieses Gemäldes nicht.
 
-  La provenance des fonds est inconnue.
-  Die Mittelherkunft ist unbekannt.
+  Le vol en *provenance* de Paris atterrira dans une heure.
+  Der Flug *aus* Paris wird in einer Stunde landen.
 
-  Le train en provenance de Lyon arrive dans quelques minutes.
-  Der Zug aus Lyon kommt in wenigen Minuten an.
+  Cette entreprise vérifie soigneusement la *provenance* de ses matières premières.
+  Dieses Unternehmen überprüft sorgfältig die *Herkunft* seiner Rohstoffe.
 
-  Les voyageurs en provenance de Lyon ont été accueillis à la gare.
-  Die Reisenden aus Lyon wurden am Bahnhof begrüßt.
+  Les douaniers ont examiné la *provenance* des marchandises importées.
+  Die Zöllner haben die *Herkunft* der importierten Waren untersucht.
 
-  Les deux étudiants sont de même provenance.
-  Die beiden Studenten haben die gleiche Herkunft.
+  On peut retracer la *provenance* de ce mot jusqu'au latin.
+  Man kann die *Herkunft* dieses Wortes bis zum Lateinischen zurückverfolgen.
 
-  Les visiteurs sont venus de toute provenance pour assister au concert.
-  Die Besucher kamen von überall her, um das Konzert zu besuchen.
+  Les fruits et légumes de diverses *provenances* sont vendus sur ce marché.
+  Obst und Gemüse verschiedener *Herkünfte* werden auf diesem Markt verkauft.
 
-  La plupart des élèves sont de provenance étrangère.
-  Die meisten Schüler sind ausländischer Herkunft.
+  La *provenance* des fonds pour ce projet reste mystérieuse.
+  Die *Herkunft* der Gelder für dieses Projekt bleibt mysteriös.
 
-  Il est de provenance anglaise.
-  Er ist englischer Herkunft.
+  Ces antiquités sont de *provenance* égyptienne.
+  Diese Antiquitäten sind *ägyptischer Herkunft*.
+
+  Le restaurant propose des vins en *provenance* directe des vignobles locaux.
+  Das Restaurant bietet Weine *direkt vom* lokalen Weinberg an.
+
+  Les autorités enquêtent sur la *provenance* de ces documents confidentiels.
+  Die Behörden untersuchen den *Ursprung* dieser vertraulichen Dokumente.
+
+  La *provenance* de cette information n'a pas été vérifiée.
+  Die *Quelle* dieser Information wurde nicht überprüft.
+
+  Le musée expose des œuvres d'art de *provenances* diverses.
+  Das Museum stellt Kunstwerke verschiedener *Herkunft* aus.
+
+  Les passagers en *provenance* de zones à risque doivent se faire tester.
+  Passagiere *aus* Risikogebieten müssen sich testen lassen.
+
+  Cette méthode permet de déterminer la *provenance* géographique des aliments.
+  Diese Methode ermöglicht es, die geografische *Herkunft* von Lebensmitteln zu bestimmen.
+
+  La *provenance* des graines est cruciale pour le succès du reboisement.
+  Die *Herkunft* der Samen ist entscheidend für den Erfolg der Wiederaufforstung.
+
+  On a reçu un message en *provenance* de la station spatiale.
+  Wir haben eine Nachricht *von* der Raumstation erhalten.
+
+  Les scientifiques étudient la *provenance* des particules cosmiques.
+  Die Wissenschaftler untersuchen den *Ursprung* der kosmischen Teilchen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

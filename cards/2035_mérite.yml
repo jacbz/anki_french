@@ -13,26 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mon mérite était nul.
-  Mein Verdienst war gleich null.
+  Mon *mérite* était nul.
+  Mein *Verdienst* war gleich null.
 
-  Il a obtenu cette promotion grâce à son mérite.
-  Er hat diese Beförderung aufgrund seines Verdienstes erhalten.
+  Il a le *mérite* d'être honnête, même dans les situations difficiles.
+  Er hat den *Vorzug*, auch in schwierigen Situationen ehrlich zu sein.
 
-  Le travail de Marie a bien du mérite.
-  Marias Arbeit ist sehr verdienstvoll.
+  Les scientifiques de renom ont souvent beaucoup de *mérites*.
+  Renommierte Wissenschaftler haben oft viele *Verdienste*.
 
-  Ce programme informatique a le mérite de la simplicité, il est facile à utiliser.
-  Dieses Computerprogramm hat den Vorzug, einfach zu sein, es ist leicht zu benutzen.
+  "Tu as vraiment du *mérite* d'avoir terminé ce projet à temps !"
+  "Du hast wirklich *Anerkennung verdient*, dieses Projekt pünktlich abgeschlossen zu haben!"
 
-  La scientifique qui a beaucoup de mérites, a reçu le prix Nobel pour ses recherches.
-  Die hochverdiente Wissenschaftlerin hat den Nobelpreis für ihre Forschung erhalten.
+  Elle s'est fait un *mérite* d'avoir résolu ce problème complexe.
+  Sie *rühmte sich damit*, dieses komplexe Problem gelöst zu haben.
 
-  Il a le mérite de la sincérité, il dit toujours ce qu'il pense.
-  Seine Aufrichtigkeit verdient Anerkennung, er sagt immer, was er denkt.
+  Le *mérite* de cette découverte revient entièrement à notre équipe de recherche.
+  Das *Verdienst* dieser Entdeckung gebührt ganz unserem Forschungsteam.
 
-  Elle a le mérite d'être sincère, même si ses opinions ne sont pas toujours populaires.
-  Es ist anerkennenswert, dass sie aufrichtig ist, auch wenn ihre Ansichten nicht immer populär sind.
+  Cet appareil a au moins le *mérite* d'être simple d'utilisation.
+  Dieses Gerät hat zumindest den *Vorzug*, einfach zu bedienen zu sein.
+
+  Il a été décoré de l'Ordre national du *Mérite* pour ses actions humanitaires.
+  Er wurde für seine humanitären Aktionen mit dem Nationalen *Verdienstorden* ausgezeichnet.
+
+  Sa persévérance face à l'adversité n'est pas sans *mérite*.
+  Seine Beharrlichkeit angesichts von Widrigkeiten ist nicht ohne *Verdienst*.
+
+  Les candidats seront classés par ordre de *mérite*.
+  Die Kandidaten werden nach *Verdienst* eingestuft.
+
+  Elle a le *mérite* d'avoir affronté ses peurs.
+  Sie hat es *verdient*, Anerkennung dafür zu bekommen, dass sie sich ihren Ängsten gestellt hat.
+
+  Ce livre a le *mérite* d'aborder un sujet rarement traité.
+  Dieses Buch hat den *Vorzug*, ein selten behandeltes Thema anzusprechen.
+
+  Les *mérites* de la Passion du Christ sont au cœur de la théologie chrétienne.
+  Die *Verdienste* der Passion Christi stehen im Mittelpunkt der christlichen Theologie.
+
+  Il faut reconnaître les *mérites* de chacun dans ce projet collectif.
+  Man muss die *Verdienste* eines jeden in diesem Gemeinschaftsprojekt anerkennen.
+
+  Son plus grand *mérite* est sa capacité à inspirer les autres.
+  Sein größtes *Verdienst* ist seine Fähigkeit, andere zu inspirieren.
+
+  Cette solution a le *mérite* d'être économique et écologique.
+  Diese Lösung hat den *Vorzug*, wirtschaftlich und umweltfreundlich zu sein.
+
+  Les *mérites* de cet artiste ont été reconnus de son vivant.
+  Die *Verdienste* dieses Künstlers wurden zu seinen Lebzeiten anerkannt.
+
+  Elle a le *mérite* d'avoir créé son entreprise à partir de rien.
+  Sie hat es *verdient*, Anerkennung dafür zu bekommen, dass sie ihr Unternehmen aus dem Nichts aufgebaut hat.
+
+  Le jury évaluera les candidats uniquement sur leurs *mérites*.
+  Die Jury wird die Kandidaten ausschließlich nach ihren *Verdiensten* bewerten.
+
+  Cette réforme a le *mérite* d'exister, même si elle est imparfaite.
+  Diese Reform hat zumindest den *Vorzug* zu existieren, auch wenn sie unvollkommen ist.
+
+  Il se fait un *mérite* de toujours dire la vérité, même quand c'est difficile.
+  Er *rühmt sich damit*, immer die Wahrheit zu sagen, auch wenn es schwierig ist.
+
+  Les *mérites* de son travail ont été reconnus par ses pairs.
+  Die *Verdienste* seiner Arbeit wurden von seinen Kollegen anerkannt.
+
+  Cette méthode d'enseignement a fait ses preuves et a de nombreux *mérites*.
+  Diese Lehrmethode hat sich bewährt und hat viele *Vorzüge*.
+
+  Il faut juger les gens sur leurs *mérites*, pas sur leurs origines.
+  Man sollte Menschen nach ihren *Verdiensten* beurteilen, nicht nach ihrer Herkunft.
+
+  Son plus grand *mérite* est d'avoir su rester humble malgré son succès.
+  Sein größtes *Verdienst* ist es, trotz seines Erfolgs bescheiden geblieben zu sein.
+
+  La réversibilité des *mérites* est un concept important dans certaines religions.
+  Die Übertragbarkeit der *Verdienste* ist ein wichtiges Konzept in einigen Religionen.
+
+  Cette décision a le *mérite* de la clarté, même si elle est controversée.
+  Diese Entscheidung hat den *Vorzug* der Klarheit, auch wenn sie umstritten ist.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

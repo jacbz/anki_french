@@ -13,26 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il y en a un parmi vous qui est un démon.
-  Unter euch ist einer, der ein Dämon ist.
+  Il y en a un *parmi* vous qui est un démon.
+  Einer *unter* euch ist ein Teufel.
 
-  Il y a un musée parmi les bâtiments.
-  Es gibt ein Museum unter den Gebäuden.
+  *Parmi* les langues européennes, le français est l'une des plus parlées.
+  *Unter* den europäischen Sprachen ist Französisch eine der meistgesprochenen.
 
-  Pas un seul parmi les élèves n'avait compris l'explication du professeur.
-  Keiner von den Schülern hatte die Erklärung des Professors verstanden.
+  J'ai trouvé cette vieille photo *parmi* mes affaires.
+  Ich habe dieses alte Foto *unter* meinen Sachen gefunden.
 
-  Il avançait parmi les rues désertes, enveloppé par le silence de la nuit.
-  Er ging durch die leeren Straßen, eingehüllt in die Stille der Nacht.
+  Le chaton s'est caché *parmi* les buissons du jardin.
+  Das Kätzchen hat sich *zwischen* den Büschen im Garten versteckt.
 
-  C'est un exemple parmi d'autres de la négligence du gouvernement.
-  Das ist ein Beispiel unter vielen für die Nachlässigkeit der Regierung.
+  *Parmi* tous ces livres, lequel préfères-tu ?
+  Welches *von* all diesen Büchern magst du am liebsten?
 
-  Je compte Marie parmi mes amis les plus chers.
-  Ich zähle Marie zu meinen engsten Freunden.
+  Elle a été choisie *parmi* des centaines de candidats.
+  Sie wurde *aus* Hunderten von Bewerbern ausgewählt.
 
-  Parmi les spectateurs, je salue mon ami Pierre, qui s'est déplacé spécialement pour l'occasion.
-  Unter den Zuschauern begrüße ich meinen Freund Pierre, der extra für diesen Anlass gekommen ist.
+  On peut compter Marie *parmi* nos meilleurs employés.
+  Man kann Marie *zu* unseren besten Mitarbeitern zählen.
+
+  *Parmi* la foule, j'ai reconnu un vieil ami.
+  *In* der Menge habe ich einen alten Freund erkannt.
+
+  Il se sentait perdu *parmi* tant d'inconnus.
+  Er fühlte sich *inmitten* so vieler Unbekannter verloren.
+
+  *Parmi* les spectateurs, on pouvait voir plusieurs célébrités.
+  *Unter* den Zuschauern konnte man mehrere Prominente sehen.
+
+  C'est l'un des plus beaux paysages *parmi* ceux que j'ai vus.
+  Das ist eine der schönsten Landschaften *unter* denen, die ich gesehen habe.
+
+  *Parmi* ses qualités, on peut citer sa patience et sa gentillesse.
+  *Zu* seinen Eigenschaften gehören seine Geduld und seine Freundlichkeit.
+
+  Le renard s'est faufilé *parmi* les poules sans se faire remarquer.
+  Der Fuchs hat sich *unter* die Hühner geschlichen, ohne bemerkt zu werden.
+
+  *Parmi* les options proposées, aucune ne me convient vraiment.
+  *Unter* den vorgeschlagenen Optionen passt keine wirklich zu mir.
+
+  On peut ranger ce mot *parmi* les adjectifs.
+  Man kann dieses Wort *zu* den Adjektiven zählen.
+
+  *Parmi* tous mes amis, c'est lui qui me connaît le mieux.
+  *Von* all meinen Freunden kennt er mich am besten.
+
+  Elle se sentait comme un poisson dans l'eau *parmi* les artistes.
+  Sie fühlte sich *unter* den Künstlern wie ein Fisch im Wasser.
+
+  *Parmi* les raisons de son succès, on peut citer son travail acharné.
+  *Unter* den Gründen für seinen Erfolg kann man seinen unermüdlichen Fleiß nennen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

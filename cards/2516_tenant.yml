@@ -13,20 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  À ma gauche, le tenant du titre.
-  Zu meiner Linken sitzt der Titelverteidiger.
+  À ma gauche, le *tenant* du titre.
+  Zu meiner Linken, der *Titelverteidiger*.
 
-  Marie est la tenante de la coupe, elle a gagné l'année dernière.
-  Marie ist die Pokalverteidigerin, sie hat letztes Jahr gewonnen.
+  La décision a été prise séance *tenante*.
+  Die Entscheidung wurde *unverzüglich* getroffen.
 
-  On ne connaît pas encore les tenants et les aboutissants de l'accident.
-  Die näheren Umstände des Unfalls sind noch nicht bekannt.
+  Les *tenants* et les aboutissants de cette affaire restent mystérieux.
+  Die *näheren Umstände* dieser Angelegenheit bleiben mysteriös.
 
-  La pièce était d'un seul tenant, sans aucune cloison.
-  Das Zimmer war in einem Stück, ohne irgendwelche Trennwände.
+  Cette forêt s'étend d'un seul *tenant* sur plus de mille hectares.
+  Dieser Wald erstreckt sich *am Stück* über mehr als tausend Hektar.
 
-  La tenante du titre a été battue en finale.
-  Die Titelverteidigerin wurde im Finale geschlagen.
+  La *tenante* du titre mondial défendra sa couronne demain.
+  Die *Titelverteidigerin* wird morgen ihre Krone verteidigen.
+
+  Il est un fervent *tenant* du commerce équitable.
+  Er ist ein leidenschaftlicher *Verfechter* des fairen Handels.
+
+  Notre jardin est d'un seul *tenant*, ce qui facilite son entretien.
+  Unser Garten liegt *zusammenhängend*, was die Pflege erleichtert.
+
+  Cette robe a des manches *tenantes*.
+  Dieses Kleid hat *fest angenähte* Ärmel.
+
+  Les *tenants* de cette théorie ont présenté de nouveaux arguments.
+  Die *Verfechter* dieser Theorie haben neue Argumente vorgebracht.
+
+  La jeune *tenante* du record impressionne ses adversaires.
+  Die junge *Titelverteidigerin* beeindruckt ihre Gegnerinnen.
+
+  J'aimerais connaître les *tenants* et les aboutissants de cette décision.
+  Ich würde gerne die *Hintergründe* dieser Entscheidung kennen.
+
+  Ces terres agricoles sont d'un seul *tenant*.
+  Diese landwirtschaftlichen Flächen liegen *in einem Stück*.
+
+  Le comité a voté, séance *tenante*, pour le nouveau règlement.
+  Das Komitee stimmte *auf der Stelle* für die neue Regelung.
+
+  Les *tenants* du projet ont convaincu les investisseurs.
+  Die *Befürworter* des Projekts haben die Investoren überzeugt.
+
+  La *tenante* de la médaille d'or s'entraîne dur pour les Jeux.
+  Die *Titelverteidigerin* der Goldmedaille trainiert hart für die Spiele.
+
+  Le parc naturel s'étend d'un seul *tenant* jusqu'à la mer.
+  Der Naturpark erstreckt sich *zusammenhängend* bis zum Meer.
+
+  Les *tenants* de la réforme ont gagné le débat.
+  Die *Verfechter* der Reform haben die Debatte gewonnen.
+
+  Cette chemise a un col *tenant*.
+  Dieses Hemd hat einen *fest angenähten* Kragen.
+
+  Le problème a été résolu séance *tenante*.
+  Das Problem wurde *unverzüglich* gelöst.
+
+  Elle est devenue *tenante* du titre après une victoire spectaculaire.
+  Sie wurde nach einem spektakulären Sieg zur *Titelverteidigerin*.
+
+  Les *tenants* de cette philosophie sont de plus en plus nombreux.
+  Die *Anhänger* dieser Philosophie werden immer zahlreicher.
+
+  Le conseil a pris sa décision séance *tenante*.
+  Der Rat hat seine Entscheidung *auf der Stelle* getroffen.
+
+  Notre propriété est d'un seul *tenant*, sans clôtures intérieures.
+  Unser Grundstück liegt *in einem Stück*, ohne innere Zäune.
+
+  Les *tenants* du changement climatique présentent des preuves irréfutables.
+  Die *Verfechter* des Klimawandels präsentieren unwiderlegbare Beweise.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

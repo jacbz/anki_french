@@ -13,20 +13,83 @@ Register: ↘Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je t’ai menti. Je t’ai caché des choses.
-  Ich habe dich angelogen. Ich habe dir Dinge vorenthalten.
+  Je t'ai *menti*. Je t'ai caché des choses.
+  Ich habe dich *belogen*. Ich habe dir Dinge verheimlicht.
 
-  Il ne faut pas mentir.
-  Man sollte nicht lügen.
+  Il a *menti* sur son âge pour obtenir le poste.
+  Er hat über sein Alter *gelogen*, um die Stelle zu bekommen.
 
-  Il a menti à sa femme sur ses projets de voyage.
-  Er hat seine Frau über seine Reisepläne angelogen.
+  "Tu *mens* comme tu respires !" s'est-elle exclamée, furieuse.
+  "Du *lügst*, wie du atmest!" rief sie wütend aus.
 
-  Il ment comme il respire, c'est un véritable menteur pathologique.
-  Er lügt wie gedruckt, er ist ein echter pathologischer Lügner.
+  Sans *mentir*, c'était le meilleur repas que j'ai jamais eu.
+  *Ungelogen*, das war das beste Essen, das ich je hatte.
 
-  Sans mentir, je trouve que ce film est très bon.
-  Ungelogen, ich finde diesen Film sehr gut.
+  Les apparences peuvent parfois *mentir*.
+  Der Schein kann manchmal *trügen*.
+
+  Elle *mentait* constamment à ses parents sur ses notes.
+  Sie *log* ihren Eltern ständig über ihre Noten.
+
+  Ne me *mens* pas, je veux connaître la vérité.
+  *Lüg* mich nicht an, ich will die Wahrheit wissen.
+
+  Il faut arrêter de se *mentir* à soi-même et affronter la réalité.
+  Man muss aufhören, sich selbst zu *belügen*, und der Realität ins Auge sehen.
+
+  Le témoin a *menti* sous serment devant le tribunal.
+  Der Zeuge hat vor Gericht unter Eid *gelogen*.
+
+  "Je ne *mens* jamais", dit-il en *mentant*.
+  "Ich *lüge* nie", sagte er *lügend*.
+
+  Les politiciens sont souvent accusés de *mentir* à leurs électeurs.
+  Politikern wird oft vorgeworfen, ihre Wähler zu *belügen*.
+
+  Elle *mentait* par omission en ne révélant pas toute l'histoire.
+  Sie *log* durch Auslassung, indem sie nicht die ganze Geschichte erzählte.
+
+  *Mentir* peut parfois sembler plus facile que de dire la vérité.
+  Zu *lügen* kann manchmal einfacher erscheinen als die Wahrheit zu sagen.
+
+  Il a *menti* à sa conscience en ignorant ses principes moraux.
+  Er hat sein Gewissen *belogen*, indem er seine moralischen Prinzipien ignorierte.
+
+  Les publicités *mentent* souvent sur les effets réels des produits.
+  Werbung *lügt* oft über die tatsächlichen Wirkungen von Produkten.
+
+  "À ne point *mentir*, je suis impressionné par votre travail", dit le patron.
+  "Um nicht zu *lügen*, ich bin beeindruckt von Ihrer Arbeit", sagte der Chef.
+
+  Son sourire *mentait* ; au fond, elle était profondément triste.
+  Ihr Lächeln *log*; im Inneren war sie zutiefst traurig.
+
+  Il *ment* comme un arracheur de dents quand il parle de ses exploits.
+  Er *lügt* wie gedruckt, wenn er von seinen Heldentaten spricht.
+
+  Nous devons cesser de nous *mentir* sur l'urgence climatique.
+  Wir müssen aufhören, uns über die Klimakrise selbst zu *belügen*.
+
+  Le miroir ne *ment* pas : j'ai vraiment pris du poids.
+  Der Spiegel *lügt* nicht: Ich habe wirklich zugenommen.
+
+  Elle a *menti* à son mari sur ses dépenses excessives.
+  Sie hat ihren Mann über ihre übermäßigen Ausgaben *belogen*.
+
+  Les statistiques peuvent *mentir* si elles sont mal interprétées.
+  Statistiken können *lügen*, wenn sie falsch interpretiert werden.
+
+  "Je ne peux pas *mentir*, ce gâteau est délicieux", avoua-t-il.
+  "Ich kann nicht *lügen*, dieser Kuchen ist köstlich", gab er zu.
+
+  Il a *menti* sur ses qualifications dans son CV.
+  Er hat in seinem Lebenslauf über seine Qualifikationen *gelogen*.
+
+  Les enfants apprennent souvent à *mentir* pour éviter les punitions.
+  Kinder lernen oft zu *lügen*, um Bestrafungen zu vermeiden.
+
+  Son visage ne *mentait* pas : il était visiblement surpris.
+  Sein Gesicht *log* nicht: Er war sichtlich überrascht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

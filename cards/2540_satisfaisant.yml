@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je ne trouvais pas d’emploi satisfaisant en région.
-  Ich fand keine zufriedenstellende Beschäftigung in der Region.
+  Je ne trouvais pas d'emploi *satisfaisant* en région.
+  Ich fand keine *zufriedenstellende* Arbeit in der Region.
 
-  Le résultat est satisfaisant.
-  Das Ergebnis ist zufriedenstellend.
+  Les résultats de l'enquête sont *satisfaisants* pour le gouvernement.
+  Die Ergebnisse der Umfrage sind für die Regierung *zufriedenstellend*.
+
+  Sa performance n'était pas *satisfaisante* lors de l'entretien d'embauche.
+  Seine Leistung war beim Vorstellungsgespräch nicht *befriedigend*.
+
+  Nous avons enfin trouvé une solution *satisfaisante* au problème.
+  Wir haben endlich eine *zufriedenstellende* Lösung für das Problem gefunden.
+
+  L'état de santé du patient est *satisfaisant* selon le médecin.
+  Der Gesundheitszustand des Patienten ist laut dem Arzt *zufriedenstellend*.
+
+  Ce compromis est-il *satisfaisant* pour les deux parties ?
+  Ist dieser Kompromiss für beide Parteien *zufriedenstellend*?
+
+  Les notes de l'élève sont à peine *satisfaisantes* ce trimestre.
+  Die Noten des Schülers sind in diesem Trimester kaum *befriedigend*.
+
+  Elle a fourni une explication *satisfaisante* pour son retard.
+  Sie hat eine *zufriedenstellende* Erklärung für ihre Verspätung geliefert.
+
+  Le nouveau design du produit n'est pas *satisfaisant* pour les clients.
+  Das neue Design des Produkts ist für die Kunden nicht *zufriedenstellend*.
+
+  Nous cherchons une qualité *satisfaisante* à un prix raisonnable.
+  Wir suchen eine *zufriedenstellende* Qualität zu einem vernünftigen Preis.
+
+  Les conditions de travail sont-elles *satisfaisantes* dans cette entreprise ?
+  Sind die Arbeitsbedingungen in diesem Unternehmen *zufriedenstellend*?
+
+  Le rapport présente des résultats *satisfaisants* malgré les difficultés.
+  Der Bericht zeigt trotz der Schwierigkeiten *zufriedenstellende* Ergebnisse.
+
+  Sa réponse à mes questions n'était pas vraiment *satisfaisante*.
+  Seine Antwort auf meine Fragen war nicht wirklich *befriedigend*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

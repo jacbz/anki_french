@@ -13,26 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cette idée diffère sensiblement d’une hypothèse concurrente.
-  Diese Idee unterscheidet sich wesentlich von einer konkurrierenden Hypothese.
+  Cette idée *diffère* sensiblement d'une hypothèse concurrente.
+  Diese Idee *unterscheidet* sich erheblich von einer konkurrierenden Hypothese.
 
-  Ces deux versions diffèrent légèrement.
-  Diese beiden Versionen unterscheiden sich leicht.
+  Le nouveau modèle *diffère* de l'ancien par son design innovant.
+  Das neue Modell *unterscheidet* sich vom alten durch sein innovatives Design.
 
-  L'histoire de la famille diffère du conte en son caractère plus réaliste.
-  Die Geschichte der Familie unterscheidet sich vom Märchen durch ihren realistischeren Charakter.
+  Nos opinions *diffèrent* sur la meilleure façon de résoudre ce problème.
+  Unsere Meinungen *gehen auseinander*, was die beste Lösung für dieses Problem betrifft.
 
-  La décision de Marie diffère du fils de ses parents par sa lucidité.
-  Maries Entscheidung unterscheidet sich vom Wunsch ihrer Eltern durch ihre Klarheit.
+  La banque a accepté de *différer* le remboursement du prêt de trois mois.
+  Die Bank hat zugestimmt, die Rückzahlung des Kredits um drei Monate zu *verschieben*.
 
-  Deux personnes diffèrent sur le choix du candidat.
-  Die Meinungen zweier Personen gehen in der Wahl des Kandidaten auseinander.
+  Les coutumes *diffèrent* considérablement d'un pays à l'autre.
+  Die Bräuche *unterscheiden* sich von Land zu Land erheblich.
 
-  Je suis sûre que vous pouvez différer votre voyage.
-  Ich bin sicher, Sie können Ihre Reise verschieben.
+  "Je vais *différer* ma réponse jusqu'à ce que j'aie plus d'informations", a-t-elle déclaré.
+  "Ich werde meine Antwort *aufschieben*, bis ich mehr Informationen habe", erklärte sie.
 
-  Nous devrions différer le vote à demain.
-  Wir sollten die Abstimmungen auf morgen verschieben.
+  Les deux versions du livre *diffèrent* par leurs conclusions.
+  Die beiden Versionen des Buches *unterscheiden* sich in ihren Schlussfolgerungen.
+
+  Le tribunal a décidé de *différer* le jugement jusqu'à la semaine prochaine.
+  Das Gericht beschloss, das Urteil bis nächste Woche zu *vertagen*.
+
+  Bien que frères, ils *diffèrent* complètement en termes de personnalité.
+  Obwohl sie Brüder sind, *unterscheiden* sie sich in ihrer Persönlichkeit völlig.
+
+  L'entreprise a choisi de *différer* le lancement du nouveau produit.
+  Das Unternehmen hat beschlossen, die Einführung des neuen Produkts zu *verschieben*.
+
+  Les deux théories scientifiques *diffèrent* sur plusieurs points clés.
+  Die beiden wissenschaftlichen Theorien *unterscheiden* sich in mehreren Schlüsselpunkten.
+
+  Il est préférable de ne pas *différer* les tâches importantes.
+  Es ist besser, wichtige Aufgaben nicht *aufzuschieben*.
+
+  Les résultats de l'étude *diffèrent* significativement des attentes initiales.
+  Die Ergebnisse der Studie *weichen* erheblich von den ursprünglichen Erwartungen *ab*.
+
+  Le comité a décidé de *différer* sa décision jusqu'à la prochaine réunion.
+  Der Ausschuss beschloss, seine Entscheidung bis zur nächsten Sitzung zu *verschieben*.
+
+  Ces deux espèces de plantes *diffèrent* par leur besoin en eau.
+  Diese beiden Pflanzenarten *unterscheiden* sich in ihrem Wasserbedarf.
+
+  "Ne *différez* pas votre inscription, les places sont limitées !", a conseillé le professeur.
+  "*Schieben* Sie Ihre Anmeldung nicht *auf*, die Plätze sind begrenzt!", riet der Professor.
+
+  Les méthodes d'enseignement *diffèrent* grandement entre ces deux écoles.
+  Die Lehrmethoden *unterscheiden* sich zwischen diesen beiden Schulen stark.
+
+  Il est important de ne pas *différer* les examens médicaux de routine.
+  Es ist wichtig, routinemäßige medizinische Untersuchungen nicht *aufzuschieben*.
+
+  Leurs points de vue sur la politique étrangère *diffèrent* radicalement.
+  Ihre Ansichten zur Außenpolitik *gehen* radikal *auseinander*.
+
+  La livraison a été *différée* en raison de problèmes logistiques.
+  Die Lieferung wurde aufgrund logistischer Probleme *verschoben*.
+
+  Les goûts culinaires peuvent *différer* considérablement d'une culture à l'autre.
+  Die kulinarischen Vorlieben können sich von Kultur zu Kultur erheblich *unterscheiden*.
+
+  "Ne *différez* pas jusqu'à demain ce que vous pouvez faire aujourd'hui."
+  "*Schieben* Sie nicht auf morgen auf, was Sie heute tun können."
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,20 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous arrivons à un moment décisif.
-  Wir sind an einem entscheidenden Punkt angelangt.
+  Nous arrivons à un moment *décisif*.
+  Wir kommen zu einem *entscheidenden* Moment.
 
-  C’est un moment décisif pour notre entreprise.
-  Das ist ein entscheidender Moment für unser Unternehmen.
+  L'intervention du président a joué un rôle *décisif* dans les négociations.
+  Der Eingriff des Präsidenten spielte eine *maßgebliche* Rolle in den Verhandlungen.
 
-  La bataille de Stalingrad fut un événement décisif pour la guerre.
-  Die Schlacht von Stalingrad war ein kriegsentscheidendes Ereignis.
+  Cet argument *décisif* a convaincu le jury de son innocence.
+  Dieses *ausschlaggebende* Argument überzeugte die Jury von seiner Unschuld.
 
-  L'emplacement a toujours été le critère décisif pour les acheteurs de biens immobiliers.
-  Die Lage ist schon immer das ausschlaggebende Kriterium für Immobilienkäufer gewesen.
+  La bataille de Waterloo fut *décisive* pour l'avenir de l'Europe.
+  Die Schlacht von Waterloo war *entscheidend* für die Zukunft Europas.
 
-  Leur faible poids constitue un avantage décisif.
-  Ein entscheidender Vorteil ergibt sich durch das geringe Gewicht.
+  Le juge a prononcé un jugement *décisif* dans cette affaire complexe.
+  Der Richter fällte in dieser komplexen Angelegenheit ein *entscheidendes* Urteil.
+
+  Son comportement *décisif* a montré qu'il acceptait les termes du contrat.
+  Sein *konludentes* Verhalten zeigte, dass er die Vertragsbedingungen akzeptierte.
+
+  La découverte de l'ADN a été un tournant *décisif* en biologie.
+  Die Entdeckung der DNA war ein *entscheidender* Wendepunkt in der Biologie.
+
+  Cette preuve *décisive* a permis de résoudre l'énigme.
+  Dieser *entscheidende* Beweis hat es ermöglicht, das Rätsel zu lösen.
+
+  L'influence *décisive* de son mentor a façonné sa carrière.
+  Der *maßgebliche* Einfluss seines Mentors hat seine Karriere geprägt.
+
+  Le patron a adopté un ton *décisif* en annonçant les changements.
+  Der Chef nahm einen *entschiedenen* Ton an, als er die Änderungen ankündigte.
+
+  Cette rencontre *décisive* déterminera le champion de la saison.
+  Dieses *entscheidende* Spiel wird den Meister der Saison bestimmen.
+
+  L'invention de l'imprimerie a eu un impact *décisif* sur la diffusion du savoir.
+  Die Erfindung des Buchdrucks hatte eine *entscheidende* Auswirkung auf die Verbreitung des Wissens.
+
+  Le témoignage de l'expert a apporté une preuve *décisive* au procès.
+  Die Aussage des Experten lieferte einen *ausschlaggebenden* Beweis im Prozess.
+
+  Cette expérience *décisive* a confirmé la théorie du scientifique.
+  Dieses *entscheidende* Experiment bestätigte die Theorie des Wissenschaftlers.
+
+  Le vote de demain sera *décisif* pour l'avenir du pays.
+  Die morgige Abstimmung wird für die Zukunft des Landes *entscheidend* sein.
+
+  Son intervention *décisive* a permis de débloquer la situation.
+  Sein *maßgeblicher* Eingriff hat es ermöglicht, die Situation zu entspannen.
+
+  La réponse du candidat à cette question *décisive* a influencé les électeurs.
+  Die Antwort des Kandidaten auf diese *entscheidende* Frage beeinflusste die Wähler.
+
+  Ce geste *décisif* du joueur a changé le cours du match.
+  Diese *entscheidende* Geste des Spielers hat den Verlauf des Spiels verändert.
+
+  Les prochaines heures seront *décisives* pour le succès de l'opération.
+  Die nächsten Stunden werden für den Erfolg der Operation *entscheidend* sein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

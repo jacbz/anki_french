@@ -69,8 +69,8 @@ function processText(text, isFrench) {
     text = text.replace(/"([^"]*?)"(?=(?:[^<]*<(?!\/?[^>]+>))*[^<]*$)/g, "»\u2060$1\u2060«");
   }
 
-  // replace *...* with <u>...</u>
-  text = text.replaceAll(/\*(.*?)\*/g, '<span class="word-highlight">$1</span>');
+  // replace *...* with word-highlight span
+  text = text.replaceAll(/\*(.*?)\*/g, '\u2060<span class="word-highlight">$1</span>\u2060');
   return text;
 }
 
@@ -110,8 +110,7 @@ async function playAudio(text, customFileName = undefined, lang = "fr-FR") {
 const memoizedTTSUrls = {};
 
 async function getTTSUrl(text, forceGoogleTranslate = false, lang = "fr-FR") {
-  // unwrap <u> tags
-  text = text.replaceAll(/<u>(.*?)<\/u>/g, "$1");
+  text = text.replaceAll("*", "");
   
   // if no API key is set, fallback to use the free Google Translate TTS
   if (!options.googleTTSApiKey || forceGoogleTranslate) {

@@ -13,17 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est un enjeu de taille pour les femmes.
-  Dies ist eine große Herausforderung für Frauen.
+  C'est un *enjeu* de taille pour les femmes.
+  Es ist eine große *Herausforderung* für die Frauen.
 
-  L’enjeu de cette partie est très élevé.
-  Der Einsatz dieses Spiels ist sehr hoch.
+  L'*enjeu* de la partie était de 100 euros.
+  Der *Einsatz* für das Spiel betrug 100 Euro.
 
-  La sécurité du pays est l'enjeu de cette guerre.
-  Die Sicherheit des Landes steht bei diesem Krieg auf dem Spiel.
+  Les *enjeux* économiques de cette décision sont considérables.
+  Die wirtschaftlichen *Auswirkungen* dieser Entscheidung sind beträchtlich.
 
-  Après l'enjeu est l'épreuve de force.
-  Nach dem Einsatz kommt es zum Showdown.
+  Notre vie privée est l'*enjeu* principal de ce débat sur la sécurité en ligne.
+  Unsere Privatsphäre ist der zentrale *Streitpunkt* in dieser Debatte über Online-Sicherheit.
+
+  "Tu ne comprends pas l'*enjeu* de la situation", dit-elle, frustrée.
+  "Du verstehst nicht, was hier auf dem *Spiel* steht", sagte sie frustriert.
+
+  Les *enjeux* environnementaux deviennent de plus en plus urgents.
+  Die *Herausforderungen* im Umweltbereich werden immer dringlicher.
+
+  Chaque joueur a mis son *enjeu* sur la table avant le début de la partie.
+  Jeder Spieler legte seinen *Einsatz* vor Beginn des Spiels auf den Tisch.
+
+  L'*enjeu* de ces élections dépasse les frontières nationales.
+  Die *Bedeutung* dieser Wahlen geht über nationale Grenzen hinaus.
+
+  Il a retiré son *enjeu* quand il a réalisé que le projet était trop risqué.
+  Er zog seinen *Einsatz* zurück, als er merkte, dass das Projekt zu riskant war.
+
+  Les *enjeux* de cette négociation sont cruciaux pour l'avenir de l'entreprise.
+  Der *Ausgang* dieser Verhandlung ist entscheidend für die Zukunft des Unternehmens.
+
+  La paix mondiale est l'*enjeu* majeur de cette conférence internationale.
+  Der Weltfrieden ist das wichtigste *Anliegen* dieser internationalen Konferenz.
+
+  Les *enjeux* du débat n'étaient pas clairs pour tous les participants.
+  Die *Kernpunkte* der Debatte waren nicht allen Teilnehmern klar.
+
+  Cette découverte scientifique représente un *enjeu* considérable pour la médecine.
+  Diese wissenschaftliche Entdeckung stellt einen bedeutenden *Durchbruch* für die Medizin dar.
+
+  L'éducation est l'*enjeu* central pour le développement d'un pays.
+  Bildung ist der zentrale *Faktor* für die Entwicklung eines Landes.
+
+  Les *enjeux* de cette campagne publicitaire sont énormes pour notre marque.
+  Die *Ziele* dieser Werbekampagne sind für unsere Marke von enormer Bedeutung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

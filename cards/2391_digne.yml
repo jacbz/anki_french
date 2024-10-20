@@ -13,47 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce n’est pas digne d’une dame.
-  Das ist einer Dame nicht würdig.
+  Ce n'est pas *digne* d'une dame.
+  Das ist einer Dame nicht *würdig*.
 
-  Il est digne de confiance.
-  Er ist vertrauenswürdig.
+  Un homme *digne* de confiance ne trahirait jamais ses amis.
+  Ein vertrauens*würdiger* Mann würde seine Freunde niemals verraten.
 
-  Je veux être digne de ton amitié.
-  Ich möchte deiner Freundschaft würdig sein.
+  Son comportement était parfaitement *digne* face à l'adversité.
+  Sein Verhalten war angesichts der Widrigkeiten vollkommen *würdevoll*.
 
-  Le professeur, digne de ce nom, a su motiver ses élèves.
-  Der Lehrer, dieses Namens würdig, hat es verstanden, seine Schüler zu motivieren.
+  Cette récompense est *digne* de vos efforts exceptionnels.
+  Diese Belohnung ist Ihrer außergewöhnlichen Anstrengungen *würdig*.
 
-  Ce jeune homme, digne de son père, est un véritable gentleman.
-  Dieser junge Mann, seines Vaters würdig, ist ein echter Gentleman.
+  Il s'est montré *digne* de ses responsabilités en tant que leader.
+  Er hat sich seiner Verantwortung als Führungskraft als *würdig* erwiesen.
 
-  Son comportement est digne d'éloges.
-  Sein Verhalten ist lobenswert.
+  Son travail est *digne* d'éloges et mérite une reconnaissance.
+  Seine Arbeit ist *lobenswert* und verdient Anerkennung.
 
-  Les découvertes de ce chercheur sont dignes d'admiration.
-  Die Entdeckungen dieses Forschers sind bewundernswert.
+  Ce roman est *digne* d'un grand écrivain du 19ème siècle.
+  Dieser Roman ist eines großen Schriftstellers des 19. Jahrhunderts *würdig*.
 
-  La situation actuelle mérite une attention toute particulière, elle est digne d'attention.
-  Die aktuelle Situation verdient besondere Aufmerksamkeit, sie ist beachtenswert.
+  Elle est restée *digne* malgré les critiques injustes.
+  Sie blieb trotz der ungerechten Kritik *würdevoll*.
 
-  Les informations de ce journal sont dignes de foi.
-  Die Informationen dieser Zeitung sind glaubwürdig.
+  Ce témoignage est-il vraiment *digne* de foi ?
+  Ist diese Aussage wirklich glaub*würdig*?
 
-  Ce témoin est digne de confiance.
-  Dieser Zeuge ist vertrauenswürdig.
+  Votre proposition n'est pas *digne* d'être prise en compte.
+  Ihr Vorschlag ist es nicht wert, *berücksichtigt* zu werden.
 
-  Les arguments de son discours sont dignes d'être pris en compte.
-  Die Argumente seiner Rede sind berücksichtigenswert.
+  "Tu n'es pas *digne* de porter ce nom !" s'est-il exclamé avec colère.
+  "Du bist es nicht *wert*, diesen Namen zu tragen!", rief er wütend aus.
 
-  Le courage de ce soldat est digne d'être récompensé.
-  Der Mut dieses Soldaten ist belohnenswert.
+  Cette action charitable est *digne* d'admiration.
+  Diese wohltätige Aktion ist *bewundernswert*.
 
-  Le conseil de son ami était digne d'être suivi.
-  Der Rat seines Freundes war beherzigenswert.
+  Il s'est avéré être un adversaire *digne* de ce nom.
+  Er erwies sich als ein Gegner, der diesen Namen *verdient*.
 
-  Il est digne de faire partie de cette équipe.
-  Er verdient es, Teil dieses Teams zu sein.
+  Le candidat s'est montré *digne* du poste lors de l'entretien.
+  Der Kandidat hat sich im Vorstellungsgespräch der Position als *würdig* erwiesen.
+
+  Cet acte de bravoure est *digne* d'être récompensé.
+  Diese mutige Tat ist es *wert*, belohnt zu werden.
+
+  Son conseil était *digne* d'être suivi, mais peu l'ont écouté.
+  Sein Rat war *beherzigenswert*, aber nur wenige haben auf ihn gehört.
+
+  Elle a fait preuve d'une attitude *digne* face à la défaite.
+  Sie zeigte eine *würdevolle* Haltung angesichts der Niederlage.
+
+  Ce spectacle n'est pas *digne* de votre talent d'artiste.
+  Diese Aufführung wird Ihrem künstlerischen Talent nicht *gerecht*.
+
+  Il a maintenu un air *digne* tout au long de la cérémonie.
+  Er behielt während der gesamten Zeremonie eine *würdevolle* Miene.
+
+  Cette décision n'est pas *digne* d'un leader responsable.
+  Diese Entscheidung ist eines verantwortungsvollen Anführers nicht *würdig*.
+
+  L'exposition présente des objets *dignes* d'intérêt pour les historiens.
+  Die Ausstellung zeigt für Historiker *beachtenswerte* Objekte.
+
+  Son comportement n'était pas *digne* de sa réputation.
+  Sein Verhalten war seines Rufes nicht *würdig*.
+
+  Elle s'est montrée *digne* de la confiance que nous lui avons accordée.
+  Sie hat sich des Vertrauens, das wir ihr entgegengebracht haben, als *würdig* erwiesen.
+
+  Ce geste généreux est *digne* des plus grands philanthropes.
+  Diese großzügige Geste ist der größten Philanthropen *würdig*.
+
+  Il est resté *digne* dans sa douleur, refusant de se plaindre.
+  Er blieb in seinem Schmerz *würdevoll* und weigerte sich zu klagen.
+
+  Cette mesquinerie n'est pas *digne* de vous, mon cher ami.
+  Diese Kleinlichkeit ist Ihrer nicht *würdig*, mein lieber Freund.
+
+  Le jeune prodige s'est montré *digne* de ses illustres prédécesseurs.
+  Das junge Wunderkind hat sich seiner berühmten Vorgänger als *würdig* erwiesen.
+
+  Son action héroïque est *digne* de figurer dans les livres d'histoire.
+  Seine heldenhafte Tat ist es *wert*, in die Geschichtsbücher einzugehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,41 +13,179 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ces hallucinations ont une cause.
-  Diese Halluzinationen haben eine Ursache.
+  Ces hallucinations ont une *cause*.
+  Diese Halluzinationen haben eine *Ursache*.
 
-  Il faut trouver la cause de ce problème.
-  Man muss die Ursache dieses Problems finden.
+  La *cause* principale de l'accident était l'excès de vitesse.
+  Die Haupt*ursache* des Unfalls war überhöhte Geschwindigkeit.
 
-  La cause de son licenciement était son manque de motivation.
-  Der Entlassungsgrund war sein Mangel an Motivation.
+  Il a été licencié pour *cause* d'absentéisme répété.
+  Er wurde wegen wiederholten Fehlens ent*lassen*.
 
-  Il a donné son argent à l'association pour la bonne cause.
-  Er hat sein Geld der Organisation für einen guten Zweck gespendet.
+  La pollution est la première *cause* de mortalité dans cette région.
+  Umweltverschmutzung ist die häufigste Todes*ursache* in dieser Region.
 
-  Il a décidé de partir, pour les besoins de la cause.
-  Er hat beschlossen zu gehen, in Anbetracht der Lage.
+  À *cause* de la pluie, le match a été reporté.
+  *Wegen* des Regens wurde das Spiel verschoben.
 
-  Le procès était une cause civile.
-  Der Prozess war eine Zivilsache.
+  L'école est fermée pour *cause* de travaux.
+  Die Schule ist *wegen* Bauarbeiten geschlossen.
 
-  La cause première est le manque de communication.
-  Die Causa prima ist der Mangel an Kommunikation.
+  Le concert a été annulé pour une *cause* indéterminée.
+  Das Konzert wurde aus unbekanntem *Grund* abgesagt.
 
-  La première cause d'accidents de la route est la vitesse.
-  Die häufigste Unfallursache im Straßenverkehr ist die Geschwindigkeit.
+  Le stress a souvent sa *cause* dans le travail.
+  Stress hat oft seine *Ursache* in der Arbeit.
 
-  Il est absent pour cause de maladie.
-  Er ist krankheitsbedingt abwesend.
+  L'avocat a gagné sa *cause* devant le tribunal.
+  Der Anwalt hat seine *Sache* vor Gericht gewonnen.
 
-  Le magasin est fermé pour cause de maladie.
-  Der Laden ist wegen Krankheit geschlossen.
+  Elle a plaidé sa *cause* avec conviction.
+  Sie hat ihre *Sache* überzeugend vertreten.
 
-  Le feu s'est déclaré pour une cause indéterminée.
-  Das Feuer brach aus ungeklärter Ursache aus.
+  Après des mois de négociations, ils ont obtenu gain de *cause*.
+  Nach monatelangen Verhandlungen haben sie *das erreicht, was sie wollten*.
 
-  Le mal-être de l'enfant a sa cause dans les problèmes familiaux.
-  Das Unwohlsein des Kindes hat seine Ursache in den familiären Problemen.
+  Il a vendu sa voiture pour la bonne *cause*.
+  Er hat sein Auto für einen guten *Zweck* verkauft.
+
+  Nous devons défendre la *cause* de l'égalité.
+  Wir müssen uns für die *Sache* der Gleichberechtigung einsetzen.
+
+  Les deux partis ont fait *cause* commune contre la corruption.
+  Die beiden Parteien haben im Kampf gegen Korruption *gemeinsame Sache gemacht*.
+
+  Pour les besoins de la *cause*, nous devons rester discrets.
+  In Anbetracht der *Lage* müssen wir diskret bleiben.
+
+  Il a pris cette décision en connaissance de *cause*.
+  Er hat diese Entscheidung in *Kenntnis der Sachlage* getroffen.
+
+  En tout état de *cause*, nous respecterons le contrat.
+  *Auf jeden Fall* werden wir den Vertrag einhalten.
+
+  Cette *cause* civile a attiré l'attention des médias.
+  Diese *Zivilsache* hat die Aufmerksamkeit der Medien auf sich gezogen.
+
+  L'affaire est devenue une *cause* célèbre.
+  Der Fall wurde zu einem *berühmten Rechtsfall*.
+
+  Le juge siégera cette *cause* la semaine prochaine.
+  Der Richter wird diesen *Fall* nächste Woche verhandeln.
+
+  L'avocat a plaidé la *cause* de son client avec éloquence.
+  Der Anwalt hat die *Sache* seines Mandanten eloquent vertreten.
+
+  Les philosophes débattent souvent de la *cause* première de l'univers.
+  Philosophen debattieren oft über die *Erstursache* des Universums.
+
+  La jalousie était la *cause* profonde de leur dispute.
+  Eifersucht war der *Urgrund* ihres Streits.
+
+  Son retard a été *cause* de nombreux problèmes.
+  Seine Verspätung war die *Ursache* vieler Probleme.
+
+  *À cause* de toi, nous avons manqué le train !
+  *Deinetwegen* haben wir den Zug verpasst!
+
+  Le magasin est fermé pour *cause* d'inventaire annuel.
+  Das Geschäft ist wegen der jährlichen Inventur ge*schlossen*.
+
+  Il n'a pas pu venir, et pour *cause* : il était malade.
+  Er konnte nicht kommen, und *das aus gutem Grund*: Er war krank.
+
+  La *cause* première de son succès est son travail acharné.
+  Die *Hauptursache* seines Erfolgs ist seine harte Arbeit.
+
+  Ils se battent pour une noble *cause*.
+  Sie kämpfen für eine edle *Sache*.
+
+  Le témoin a plaidé sa *cause* devant le jury.
+  Der Zeuge hat seine *Sache* vor der Jury vertreten.
+
+  Après des années de lutte, les activistes ont obtenu gain de *cause*.
+  Nach jahrelangem Kampf haben die Aktivisten *das erreicht, was sie wollten*.
+
+  En tout état de *cause*, nous devons rester calmes.
+  *Auf jeden Fall* müssen wir ruhig bleiben.
+
+  L'enquête a mis en *cause* plusieurs hauts fonctionnaires.
+  Die Untersuchung hat mehrere hohe Beamte *verdächtigt*.
+
+  Cette décision remet en *cause* tout le projet.
+  Diese Entscheidung stellt das ganze Projekt *in Frage*.
+
+  Le suspect a été mis hors de *cause* par de nouveaux éléments.
+  Der Verdächtige wurde durch neue Beweise *entlastet*.
+
+  En désespoir de *cause*, ils ont fait appel à un médiateur.
+  Als letzte *Möglichkeit* haben sie einen Vermittler eingeschaltet.
+
+  Nous devons agir en connaissance de *cause*.
+  Wir müssen in *Kenntnis der Sachlage* handeln.
+
+  Elle se bat pour la *cause* des droits des animaux.
+  Sie kämpft für die *Sache* der Tierrechte.
+
+  Les deux pays ont fait *cause* commune contre le terrorisme.
+  Die beiden Länder haben im Kampf gegen den Terrorismus *gemeinsame Sache gemacht*.
+
+  La *cause* du conflit reste un mystère.
+  Die *Ursache* des Konflikts bleibt ein Rätsel.
+
+  *À cause* du mauvais temps, le vol a été retardé.
+  *Aufgrund* des schlechten Wetters wurde der Flug verschoben.
+
+  Le bureau est fermé pour *cause* de déménagement.
+  Das Büro ist *wegen* eines Umzugs geschlossen.
+
+  Sa démission a une *cause* bien précise.
+  Sein Rücktritt hat einen ganz bestimmten *Grund*.
+
+  Le stress trouve souvent sa *cause* dans le mode de vie moderne.
+  Stress hat oft seine *Ursache* in der modernen Lebensweise.
+
+  L'avocat a brillamment défendu la *cause* de son client.
+  Der Anwalt hat die *Sache* seines Mandanten brillant verteidigt.
+
+  Malgré ses efforts, il n'a pas obtenu gain de *cause*.
+  Trotz seiner Bemühungen hat er *nicht das erreicht, was er wollte*.
+
+  Ils ont vendu leurs biens pour la bonne *cause*.
+  Sie haben ihr Eigentum für einen guten *Zweck* verkauft.
+
+  Nous devons tous défendre la *cause* de l'environnement.
+  Wir müssen alle die *Sache* der Umwelt verteidigen.
+
+  Les partis d'opposition ont fait *cause* commune sur cette question.
+  Die Oppositionsparteien haben in dieser Frage *gemeinsame Sache gemacht*.
+
+  Pour les besoins de la *cause*, nous devons simplifier l'explication.
+  Der *Sache wegen* müssen wir die Erklärung vereinfachen.
+
+  Le jury a rendu son verdict en connaissance de *cause*.
+  Die Jury hat ihr Urteil in *Kenntnis der Sachlage* gefällt.
+
+  En tout état de *cause*, la décision finale appartient au directeur.
+  *Auf jeden Fall* liegt die endgültige Entscheidung beim Direktor.
+
+  Cette *cause* criminelle a captivé l'opinion publique.
+  Diese *Strafsache* hat die öffentliche Meinung gefesselt.
+
+  L'affaire est devenue une *cause* célèbre dans les médias.
+  Der Fall wurde in den Medien zu einem *berühmten Rechtsfall*.
+
+  Le juge examinera cette *cause* avec attention.
+  Der Richter wird diesen *Fall* sorgfältig prüfen.
+
+  Les philosophes débattent de la *cause* finale de l'existence.
+  Philosophen debattieren über den *Endzweck* der Existenz.
+
+  La *cause* profonde de la révolution était l'inégalité sociale.
+  Der *Urgrund* der Revolution war die soziale Ungleichheit.
+
+  Son arrivée tardive a été *cause* de confusion.
+  Seine späte Ankunft war die *Ursache* für Verwirrung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

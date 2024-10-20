@@ -13,23 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’industrie automobile européenne est parfaitement compétitive.
-  Die europäische Automobilindustrie ist absolut wettbewerbsfähig.
+  L'industrie *automobile* européenne est parfaitement compétitive.
+  Die europäische *Auto*industrie ist absolut wettbewerbsfähig.
 
-  Je préfère conduire une automobile plutôt qu’une moto.
-  Ich fahre lieber ein Auto als ein Motorrad.
+  Les ventes d'*automobiles* ont augmenté de 5% l'année dernière.
+  Die *Auto*verkäufe sind im letzten Jahr um 5% gestiegen.
 
-  Le canot automobile a vogué sur le lac avec élégance.
-  Das Motorboot schwebte elegant über den See.
+  Le salon *automobile* de Genève attire des visiteurs du monde entier.
+  Die Genfer *Auto*messe zieht Besucher aus der ganzen Welt an.
 
-  Le coureur automobile a remporté la course avec une avance significative.
-  Der Rennfahrer hat das Rennen mit einem deutlichen Vorsprung gewonnen.
+  Mon assurance *automobile* couvre les dommages causés aux tiers.
+  Meine Kraft*fahrzeug*versicherung deckt Schäden an Dritten ab.
 
-  La voiture automobile a été conçue pour la vitesse et la performance.
-  Der Kraftwagen wurde für Geschwindigkeit und Leistung entwickelt.
+  Le sport *automobile* requiert beaucoup de concentration et de réflexes.
+  Der *Motorsport* erfordert viel Konzentration und schnelle Reflexe.
 
-  Le sport automobile est une discipline exigeante qui attire des millions de fans.
-  Der Motorsport ist eine anspruchsvolle Disziplin, die Millionen von Fans begeistert.
+  "Cette vieille *automobile* est une vraie bagnole !"
+  "Dieses alte *Auto* ist eine echte Schrottkiste!"
+
+  Les *automobiles* électriques gagnent en popularité chaque année.
+  Elektrische *Autos* gewinnen jedes Jahr an Beliebtheit.
+
+  Le parc *automobile* français compte environ 38 millions de véhicules.
+  Der französische *Fahrzeug*bestand umfasst etwa 38 Millionen Fahrzeuge.
+
+  J'ai acheté une *automobile* d'occasion pour économiser de l'argent.
+  Ich habe ein gebrauchtes *Auto* gekauft, um Geld zu sparen.
+
+  La circulation *automobile* est dense en centre-ville aux heures de pointe.
+  Der *Auto*verkehr ist in der Innenstadt zu Stoßzeiten dicht.
+
+  Le coureur *automobile* a remporté sa troisième victoire consécutive.
+  Der *Rennfahrer* hat seinen dritten Sieg in Folge errungen.
+
+  Les phares de mon *automobile* ont besoin d'être changés.
+  Die Scheinwerfer meines *Autos* müssen ausgetauscht werden.
+
+  L'industrie *automobile* emploie des milliers de personnes dans notre région.
+  Die *Auto*mobilindustrie beschäftigt Tausende von Menschen in unserer Region.
+
+  Le marché de l'*automobile* connaît actuellement une forte croissance en Asie.
+  Der *Auto*markt erlebt derzeit in Asien ein starkes Wachstum.
+
+  Les freins de cette *automobile* sont très performants.
+  Die Bremsen dieses *Autos* sind sehr leistungsfähig.
+
+  Le salon de l'*automobile* de Paris présente les dernières innovations du secteur.
+  Die Pariser *Auto*messe präsentiert die neuesten Innovationen der Branche.
+
+  J'ai fait réparer le moteur de mon *automobile* la semaine dernière.
+  Ich habe letzte Woche den Motor meines *Autos* reparieren lassen.
+
+  Les *automobiles* autonomes pourraient révolutionner nos déplacements.
+  Autonome *Autos* könnten unsere Art der Fortbewegung revolutionieren.
+
+  Le conducteur de l'*automobile* a perdu le contrôle dans le virage.
+  Der Fahrer des *Autos* verlor in der Kurve die Kontrolle.
+
+  Les *automobiles* hybrides combinent un moteur électrique et un moteur thermique.
+  *Hybrid*autos kombinieren einen Elektromotor mit einem Verbrennungsmotor.
+
+  Le coffre de cette *automobile* est vraiment spacieux.
+  Der Kofferraum dieses *Autos* ist wirklich geräumig.
+
+  Les sièges de cette *automobile* sont très confortables pour les longs trajets.
+  Die Sitze dieses *Autos* sind sehr bequem für lange Fahrten.
+
+  Le tableau de bord de la nouvelle *automobile* est entièrement numérique.
+  Das Armaturenbrett des neuen *Autos* ist vollständig digital.
+
+  L'*automobile* a transformé nos sociétés au cours du 20ème siècle.
+  Das *Auto*mobil hat unsere Gesellschaften im 20. Jahrhundert verändert.
+
+  Un accident d'*automobile* a provoqué un embouteillage sur l'autoroute.
+  Ein *Auto*unfall hat einen Stau auf der Autobahn verursacht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

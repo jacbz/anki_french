@@ -13,14 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il y avait une autre alternative à la guerre.
-  Es gab eine andere Alternative zum Krieg.
+  Il y avait une autre *alternative* à la guerre.
+  Es gab eine andere *Alternative* zum Krieg.
 
-  Nous devons trouver une alternative.
-  Wir müssen eine Alternative finden.
+  L'*alternative* entre partir ou rester le paralysait.
+  Die *Alternative* zwischen Gehen oder Bleiben lähmte ihn.
 
-  La comparaison des frais a permis d'identifier une alternative plus avantageuse.
-  Der Kostenvergleich hat eine günstigere Alternative aufgezeigt.
+  Nous devons envisager des *alternatives* énergétiques durables.
+  Wir müssen nachhaltige Energie*alternativen* in Betracht ziehen.
+
+  L'économie circulaire offre une *alternative* au modèle linéaire traditionnel.
+  Die Kreislaufwirtschaft bietet eine *Alternative* zum traditionellen linearen Modell.
+
+  Le candidat a présenté une *alternative* intéressante à la politique actuelle.
+  Der Kandidat präsentierte eine interessante *Alternative* zur aktuellen Politik.
+
+  Les *alternatives* de succès et d'échecs ont marqué sa carrière.
+  Der Wechsel zwischen Erfolgen und Misserfolgen hat seine Karriere geprägt.
+
+  Cette thérapie est proposée comme *alternative* aux traitements conventionnels.
+  Diese Therapie wird als *Alternative* zu konventionellen Behandlungen vorgeschlagen.
+
+  L'entreprise explore des *alternatives* pour réduire son empreinte carbone.
+  Das Unternehmen erkundet *Alternativen*, um seinen CO2-Fußabdruck zu reduzieren.
+
+  Face à cette *alternative*, il a choisi la solution la moins risquée.
+  Angesichts dieser *Alternative* hat er sich für die weniger riskante Lösung entschieden.
+
+  Les transports en commun sont une *alternative* viable à la voiture individuelle.
+  Der öffentliche Nahverkehr ist eine praktikable *Alternative* zum Individualverkehr.
+
+  "Il n'y a pas d'*alternative*", a déclaré le ministre lors de la conférence de presse.
+  "Es gibt keine *Alternative*", erklärte der Minister während der Pressekonferenz.
+
+  L'*alternative* démocratique a finalement prévalu dans ce pays.
+  Die demokratische *Alternative* hat sich in diesem Land schließlich durchgesetzt.
+
+  Le jeune torero a reçu son *alternative* lors d'une cérémonie émouvante.
+  Der junge Torero erhielt seine *Alternative* in einer bewegenden Zeremonie.
+
+  Les *alternatives* de pluie et de soleil ont rendu la journée imprévisible.
+  Der Wechsel zwischen Regen und Sonnenschein machte den Tag unberechenbar.
+
+  Cette situation nous place devant une *alternative* difficile : agir maintenant ou attendre.
+  Diese Situation stellt uns vor eine schwierige *Alternative*: Jetzt handeln oder abwarten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

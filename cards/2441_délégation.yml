@@ -13,26 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Notre délégation a été accueillie à l’aéroport.
-  Unsere Delegation wurde am Flughafen empfangen.
+  Notre *délégation* a été accueillie à l'aéroport.
+  Unsere *Delegation* wurde am Flughafen empfangen.
 
-  La délégation française est arrivée à l’aéroport.
-  Die französische Delegation ist am Flughafen angekommen.
+  La *délégation* syndicale a rencontré la direction ce matin.
+  Die Gewerkschafts*delegation* hat sich heute Morgen mit der Geschäftsführung getroffen.
 
-  La délégation syndicale s'est réunie pour discuter des conditions de travail.
-  Die Gewerkschaftsdelegation hat sich getroffen, um über die Arbeitsbedingungen zu diskutieren.
+  Il a signé le document par *délégation* du directeur.
+  Er hat das Dokument im *Auftrag* des Direktors unterschrieben.
 
-  En vertu d'une délégation du directeur général, j'ai signé le contrat.
-  Kraft Vollmacht des Geschäftsführers habe ich den Vertrag unterzeichnet.
+  Une *délégation* commerciale française s'est rendue en Chine.
+  Eine französische Handels*delegation* ist nach China gereist.
 
-  La délégation commerciale a rencontré les clients potentiels.
-  Die Vertretung hat die potenziellen Kunden getroffen.
+  Le maire a donné une *délégation* de pouvoir à son adjoint.
+  Der Bürgermeister hat seinem Stellvertreter eine *Vollmacht* erteilt.
 
-  Les étudiants sont venus en délégation à la mairie pour exprimer leurs revendications.
-  Die Studenten sind als Abordnung zum Rathaus gekommen, um ihre Forderungen zu äußern.
+  La *délégation* de compétences a été approuvée par le conseil.
+  Die *Übertragung* von Befugnissen wurde vom Rat genehmigt.
 
-  Par délégation du professeur, j'ai corrigé les examens.
-  Im Auftrag des Professors habe ich die Prüfungen korrigiert.
+  "Nous sommes venus en *délégation* pour exprimer nos préoccupations."
+  "Wir sind als *Abordnung* gekommen, um unsere Bedenken zu äußern."
+
+  La *délégation* parlementaire a visité plusieurs pays européens.
+  Die Parlaments*delegation* hat mehrere europäische Länder besucht.
+
+  Le président a reçu une *délégation* de grévistes hier soir.
+  Der Präsident hat gestern Abend eine *Abordnung* von Streikenden empfangen.
+
+  Cette *délégation* rectorale est valable pour l'année scolaire en cours.
+  Diese rektorale *Beauftragung* gilt für das laufende Schuljahr.
+
+  La *délégation* de signature permet d'accélérer les procédures administratives.
+  Die *Übertragung* der Unterschriftsbefugnis ermöglicht es, Verwaltungsverfahren zu beschleunigen.
+
+  Une *délégation* spéciale a été nommée pour gérer la commune.
+  Eine besondere *Abordnung* wurde ernannt, um die Gemeinde zu verwalten.
+
+  La DATAR (*Délégation* à l'aménagement du territoire) a joué un rôle crucial.
+  Die DATAR (*Behörde* für Raumplanung) hat eine entscheidende Rolle gespielt.
+
+  Le *délégant* a transféré ses droits au *délégataire* par le biais d'une *délégation*.
+  Der Delegierende hat seine Rechte durch eine *Übertragung* auf den Begünstigten übertragen.
+
+  La *délégation* de créance a permis de résoudre le litige financier.
+  Die *Abtretung* der Forderung hat es ermöglicht, den Finanzstreit beizulegen.
+
+  "J'ai reçu une *délégation* de deux cent mille euros pour ce projet."
+  "Ich habe eine *Zuweisung* von zweihunderttausend Euro für dieses Projekt erhalten."
+
+  La *délégation* de solde permet aux familles des militaires de recevoir une partie de leur salaire.
+  Die *Überweisung* des Soldes ermöglicht es den Familien von Soldaten, einen Teil ihres Gehalts zu erhalten.
+
+  Cette *délégation* commerciale représente les intérêts de plusieurs entreprises françaises.
+  Diese Handels*vertretung* repräsentiert die Interessen mehrerer französischer Unternehmen.
+
+  Le ministre a agi en vertu d'une *délégation* du Premier ministre.
+  Der Minister hat kraft einer *Vollmacht* des Premierministers gehandelt.
+
+  La *délégation* olympique française s'entraîne pour les prochains Jeux.
+  Die französische olympische *Delegation* trainiert für die nächsten Spiele.
+
+  Les négociations entre les deux *délégations* ont duré toute la journée.
+  Die Verhandlungen zwischen den beiden *Delegationen* haben den ganzen Tag gedauert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

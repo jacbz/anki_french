@@ -13,38 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Six mois d’attente, c’est beaucoup trop long.
-  Sechs Monate Wartezeit sind viel zu lang.
+  Six mois d'*attente*, c'est beaucoup trop long.
+  Sechs Monate *Wartezeit* sind viel zu lang.
 
-  Je suis en attente de nouvelles.
-  Ich warte auf Neuigkeiten.
+  L'*attente* du train m'a semblé interminable.
+  Das *Warten* auf den Zug kam mir endlos vor.
 
-  L'attente de la nouvelle était insoutenable.
-  Das Warten auf die Nachricht war unerträglich.
+  La salle d'*attente* était bondée de patients.
+  Das *Wartezimmer* war voller Patienten.
 
-  Le projet a été achevé contre toute attente.
-  Das Projekt wurde wider Erwarten abgeschlossen.
+  "J'en ai marre d'*attendre*!" s'est-il exclamé, frustré.
+  "Ich habe es satt zu *warten*!", rief er frustriert aus.
 
-  Une solution d'attente a été trouvée pour le problème de l'eau.
-  Eine vorübergehende Lösung wurde für das Wasserproblem gefunden.
+  Contre toute *attente*, l'équipe a remporté le match.
+  Wider *Erwarten* hat das Team das Spiel gewonnen.
 
-  La salle d'attente était pleine de voyageurs en attente du vol pour Paris.
-  Der Wartesaal war voller Passagiere, die auf den Flug nach Paris warteten.
+  Les résultats ont dépassé nos *attentes*.
+  Die Ergebnisse haben unsere *Erwartungen* übertroffen.
 
-  Les voyageurs en attente du vol pour Tokyo étaient impatients.
-  Die Passagiere des Fluges nach Tokyo waren ungeduldig.
+  Dans l'*attente* de votre réponse, je vous prie d'agréer mes salutations distinguées.
+  In *Erwartung* Ihrer Antwort verbleibe ich mit freundlichen Grüßen.
 
-  Il a laissé sa valise en attente à l'hôtel.
-  Er hat seinen Koffer im Hotel liegen lassen.
+  Le dossier est resté en *attente* pendant des semaines.
+  Die Akte blieb wochenlang *unerledigt*.
 
-  Le film a déçu l'attente des critiques.
-  Der Film hat die Erwartungen der Kritiker enttäuscht.
+  L'*attente* du verdict a été angoissante pour l'accusé.
+  Das *Warten* auf das Urteil war für den Angeklagten beängstigend.
 
-  Le nouveau modèle de voiture répond à l'attente des clients.
-  Das neue Automodell entspricht den Erwartungen der Kunden.
+  La solution d'*attente* n'a pas satisfait les employés.
+  Die vorläufige Lösung hat die Mitarbeiter nicht zufriedengestellt.
 
-  Dans l'attente de la réponse, il est resté chez lui.
-  In Erwartung der Antwort blieb er zu Hause.
+  Les voyageurs en *attente* du vol retardé s'impatientaient.
+  Die *wartenden* Passagiere des verspäteten Fluges wurden ungeduldig.
+
+  Cette décision a déçu l'*attente* du public.
+  Diese Entscheidung hat die *Erwartungen* der Öffentlichkeit enttäuscht.
+
+  L'entreprise a répondu à l'*attente* de ses clients.
+  Das Unternehmen hat die *Erwartungen* seiner Kunden erfüllt.
+
+  Dans l'*attente* d'une opportunité, il a accepté un emploi temporaire.
+  In *Erwartung* einer Gelegenheit hat er eine befristete Stelle angenommen.
+
+  L'*attente* se prolongeait, augmentant la tension dans la pièce.
+  Das *Warten* zog sich hin und erhöhte die Spannung im Raum.
+
+  Le colis est resté en *attente* à la poste pendant une semaine.
+  Das Paket blieb eine Woche lang bei der Post *liegen*.
+
+  Cette loi n'est qu'une pierre d'*attente* pour une réforme plus large.
+  Dieses Gesetz ist nur ein *Ansatzpunkt* für eine umfassendere Reform.
+
+  L'artiste a laissé une partie de la toile en *attente* d'inspiration.
+  Der Künstler ließ einen Teil der Leinwand *unvollendet* in Erwartung von Inspiration.
+
+  La longue *attente* aux urgences a exaspéré les patients.
+  Die lange *Wartezeit* in der Notaufnahme hat die Patienten verärgert.
+
+  L'enfant trépignait d'impatience dans l'*attente* de son cadeau.
+  Das Kind zappelte ungeduldig in *Erwartung* seines Geschenks.
+
+  Le chirurgien a posé une ligature d'*attente* avant l'opération principale.
+  Der Chirurg legte vor der Hauptoperation eine vorläufige Ligatur an.
+
+  L'*attente* du printemps rend l'hiver plus supportable.
+  Die *Vorfreude* auf den Frühling macht den Winter erträglicher.
+
+  Cette mesure n'est qu'une solution d'*attente* avant une réforme complète.
+  Diese Maßnahme ist nur eine Übergangslösung vor einer vollständigen Reform.
+
+  Le service client a mis mon appel en *attente* pendant dix minutes.
+  Der Kundenservice hat mich zehn Minuten lang in der *Warteschleife* gelassen.
+
+  L'*attente* d'un diagnostic peut être très stressante pour les patients.
+  Das *Warten* auf eine Diagnose kann für Patienten sehr belastend sein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

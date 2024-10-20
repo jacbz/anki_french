@@ -13,17 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je remercie donc tous les collaborateurs.
-  Ich danke daher allen Mitarbeiterinnen und Mitarbeitern.
+  Je remercie donc tous les *collaborateurs*.
+  Ich danke also allen *Mitarbeitern*.
 
-  Les collaborateurs travaillent ensemble sur ce projet.
-  Die Mitarbeiter arbeiten zusammen an diesem Projekt.
+  L'entreprise recherche un *collaborateur* expérimenté pour diriger le projet.
+  Das Unternehmen sucht einen erfahrenen *Mitarbeiter* zur Leitung des Projekts.
 
-  Sophie est une collaboratrice en service extérieur qui travaille dans le domaine de la vente.
-  Sophie ist eine Außenmitarbeiterin, die im Bereich Vertrieb arbeitet.
+  Marie est une *collaboratrice* précieuse pour notre équipe de recherche.
+  Marie ist eine wertvolle *Mitarbeiterin* für unser Forschungsteam.
 
-  L'équipe de collaborateurs a été félicitée pour son travail acharné.
-  Der Mitarbeiterstab wurde für seine harte Arbeit gelobt.
+  Le journal a besoin de nouveaux *collaborateurs* pour sa rubrique sportive.
+  Die Zeitung braucht neue *Mitarbeiter* für ihre Sportkolumne.
+
+  Notre *collaboratrice* en service extérieur visitera plusieurs clients cette semaine.
+  Unsere *Außendienstmitarbeiterin* wird diese Woche mehrere Kunden besuchen.
+
+  Le directeur a félicité ses *collaborateurs* pour leur excellent travail.
+  Der Direktor hat seine *Mitarbeiter* für ihre ausgezeichnete Arbeit gelobt.
+
+  Nous avons une équipe de *collaborateurs* très diversifiée et talentueuse.
+  Wir haben einen sehr vielfältigen und talentierten *Mitarbeiterstab*.
+
+  En tant que *collaboratrice* freelance, elle travaille pour plusieurs magazines.
+  Als freie *Mitarbeiterin* arbeitet sie für mehrere Zeitschriften.
+
+  Le professeur cherche un *collaborateur* pour l'aider dans ses recherches.
+  Der Professor sucht einen *Mitarbeiter*, der ihm bei seiner Forschung hilft.
+
+  Les *collaborateurs* de cette revue scientifique sont tous des experts reconnus.
+  Die *Mitarbeiter* dieser wissenschaftlichen Zeitschrift sind alle anerkannte Experten.
+
+  "J'ai besoin d'un *collaborateur* fiable pour ce projet important."
+  "Ich brauche einen zuverlässigen *Mitarbeiter* für dieses wichtige Projekt."
+
+  La start-up a récompensé ses meilleurs *collaborateurs* avec des primes.
+  Das Start-up hat seine besten *Mitarbeiter* mit Prämien belohnt.
+
+  Les *collaborateurs* du ministre ont préparé un rapport détaillé.
+  Die *Mitarbeiter* des Ministers haben einen detaillierten Bericht vorbereitet.
+
+  Pendant l'occupation, certains Français sont devenus des *collaborateurs*.
+  Während der Besatzung wurden einige Franzosen zu *Kollaborateuren*.
+
+  L'historien a étudié le rôle des *collaborateurs* pendant la Seconde Guerre mondiale.
+  Der Historiker hat die Rolle der *Kollaborateure* während des Zweiten Weltkriegs untersucht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

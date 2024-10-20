@@ -13,41 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ça, c’est un vêtement de marque.
-  Das ist ein Markenkleidungsstück.
+  Ça, c'est un *vêtement* de marque.
+  Das ist ein Marken*kleidungsstück*.
 
-  Je dois acheter des vêtements pour l’hiver.
-  Ich muss Kleidung für den Winter kaufen.
+  Les *vêtements* pour hommes sont à droite du magasin.
+  Die Herren*bekleidung* ist auf der rechten Seite des Geschäfts.
 
-  Ce magasin vend des vêtements pour hommes, des vêtements pour enfants et des vêtements pour dames.
-  Dieser Laden verkauft Herrenbekleidung, Kinderbekleidung und Damenbekleidung.
+  J'ai besoin de nouveaux *vêtements* d'extérieur pour ma randonnée.
+  Ich brauche neue Outdoor*bekleidung* für meine Wanderung.
 
-  On peut trouver des vêtements d'extérieur pour toutes les saisons.
-  Outdoorbekleidung gibt es für alle Jahreszeiten.
+  As-tu déjà sorti tes *vêtements* d'hiver ?
+  Hast du deine Winter*kleidung* schon herausgeholt?
 
-  Il fait froid dehors, il faut mettre des vêtements d'hiver.
-  Es ist kalt draußen, man muss Winterkleidung anziehen.
+  Elle a oublié d'emporter des *vêtements* de plage pour ses vacances.
+  Sie hat vergessen, Strand*kleidung* für ihren Urlaub mitzunehmen.
 
-  J'ai acheté une nouvelle robe de plage pour mes vacances.
-  Ich habe mir ein neues Strandkleid für meinen Urlaub gekauft.
+  Ces *vêtements* de pluie sont vraiment imperméables.
+  Diese Regen*kleidung* ist wirklich wasserdicht.
 
-  Il faut porter des vêtements de pluie quand il pleut.
-  Wenn es regnet, sollte man Regenkleidung tragen.
+  Les pompiers portent des *vêtements* de protection spéciaux.
+  Die Feuerwehrleute tragen spezielle Schutz*kleidung*.
 
-  Les ouvriers portent des vêtements de protection pour se protéger des dangers du travail.
-  Arbeiter tragen Schutzkleidung, um sich vor den Gefahren der Arbeit zu schützen.
+  J'ai acheté de nouveaux *vêtements* de tennis pour le tournoi.
+  Ich habe neue Tennis*kleidung* für das Turnier gekauft.
 
-  J'ai acheté un nouveau t-shirt de tennis pour mon entraînement.
-  Ich habe mir ein neues Tennisshirt für mein Training gekauft.
+  Il préfère porter des *vêtements* de travail confortables.
+  Er trägt lieber bequeme Arbeits*kleidung*.
 
-  Je porte des vêtements de travail quand je fais des travaux à la maison.
-  Ich trage Arbeitskleidung, wenn ich zu Hause Handwerksarbeiten verrichte.
+  L'industrie du *vêtement* emploie des milliers de personnes dans notre région.
+  Die Bekleidungs*industrie* beschäftigt Tausende von Menschen in unserer Region.
 
-  L'industrie du vêtement est un secteur important de l'économie.
-  Die Bekleidungsindustrie ist ein wichtiger Wirtschaftszweig.
+  Je dois changer de *vêtements* avant d'aller au restaurant.
+  Ich muss mich vor dem Restaurant*besuch* *umziehen*.
 
-  Je vais changer de vêtements avant d'aller au restaurant.
-  Ich werde mich umziehen, bevor ich ins Restaurant gehe.
+  "Ces *vêtements* sont trop grands pour moi", dit-elle en essayant la robe.
+  "Diese *Kleidungsstücke* sind mir zu groß", sagte sie, als sie das Kleid anprobierte.
+
+  Les *vêtements* de ville sont généralement plus formels que les tenues décontractées.
+  Straßen*kleidung* ist in der Regel formeller als Freizeitkleidung.
+
+  Il faut laver les *vêtements* de sport après chaque utilisation.
+  Sport*kleidung* sollte nach jedem Gebrauch gewaschen werden.
+
+  "Tu devrais mettre des *vêtements* plus chauds, il fait froid dehors."
+  "Du solltest wärmere *Kleidung* anziehen, es ist kalt draußen."
+
+  Le commerce du *vêtement* en ligne a connu une forte croissance ces dernières années.
+  Der Online-*Kleider*handel hat in den letzten Jahren ein starkes Wachstum erlebt.
+
+  Ce *vêtement* est fabriqué à partir de matériaux recyclés.
+  Dieses *Kleidungsstück* wird aus recycelten Materialien hergestellt.
+
+  Les *vêtements* pour enfants doivent être à la fois confortables et résistants.
+  Kinder*kleidung* muss sowohl bequem als auch strapazierfähig sein.
+
+  Elle a organisé son placard par type de *vêtement*.
+  Sie hat ihren Schrank nach *Kleidungs*arten sortiert.
+
+  "J'adore ce *vêtement*, il te va à merveille !"
+  "Ich liebe dieses *Kleidungsstück*, es steht dir ausgezeichnet!"
+
+  Les *vêtements* de la nouvelle collection sont exposés en vitrine.
+  Die *Kleidungsstücke* der neuen Kollektion sind im Schaufenster ausgestellt.
+
+  Un bon *vêtement* de ski doit être à la fois chaud et imperméable.
+  Gute Ski*kleidung* muss sowohl warm als auch wasserdicht sein.
+
+  Le poète a décrit la neige comme "un *vêtement* de brume" couvrant la ville.
+  Der Dichter beschrieb den Schnee als einen "Schleier aus Nebel", der die Stadt *bedeckte*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,23 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous fondons nos espoirs sur une issue positive au référendum.
-  Wir setzen unsere Hoffnungen auf einen positiven Ausgang des Referendums.
+  Nous fondons nos espoirs sur une *issue* positive au référendum.
+  Wir setzen unsere Hoffnungen auf einen positiven *Ausgang* des Referendums.
 
-  Nous ne connaissons pas encore l’issue de cette affaire.
-  Wir kennen das Ergebnis dieser Angelegenheit noch nicht.
+  La porte de l'*issue* de secours était bloquée.
+  Die Tür des *Notausgangs* war blockiert.
 
-  La porte à côté de la scène était l'issue de secours.
-  Die Tür neben der Bühne war der Notausgang.
+  Cette ruelle est une *issue* sans issue.
+  Diese Gasse ist eine *Sackgasse*.
 
-  L'accident a eu une issue fatale pour la victime.
-  Der Unfall hat für das Opfer ein fatales Ende genommen.
+  Il n'y a aucune *issue* à ce conflit sans compromis.
+  Es gibt keinen *Ausweg* aus diesem Konflikt ohne Kompromisse.
 
-  L'histoire a eu une issue heureuse, et le couple s'est marié.
-  Die Geschichte hat ein glückliches Ende genommen und das Paar hat geheiratet.
+  La maladie a connu une *issue* fatale malgré les efforts des médecins.
+  Die Krankheit nahm trotz der Bemühungen der Ärzte ein *tödliches Ende*.
 
-  Le chemin était une voie sans issue, et nous avons dû faire demi-tour.
-  Der Weg war eine Sackgasse, und wir mussten umkehren.
+  "À l'*issue* de la réunion, nous prendrons un café ensemble."
+  "*Nach* der Besprechung werden wir zusammen einen Kaffee trinken."
+
+  Les pompiers ont sécurisé toutes les *issues* du bâtiment.
+  Die Feuerwehr hat alle *Ausgänge* des Gebäudes gesichert.
+
+  Cette négociation n'a pas d'autre *issue* que le compromis.
+  Diese Verhandlung hat keinen anderen *Ausweg* als den Kompromiss.
+
+  L'*issue* du match était incertaine jusqu'à la dernière minute.
+  Der *Ausgang* des Spiels war bis zur letzten Minute ungewiss.
+
+  Il faut toujours prévoir une *issue* de secours dans un plan d'évacuation.
+  In einem Evakuierungsplan muss immer ein *Notausgang* vorgesehen sein.
+
+  Les manifestants ont bloqué toutes les *issues* de l'immeuble.
+  Die Demonstranten haben alle *Ausgänge* des Gebäudes blockiert.
+
+  À l'*issue* du procès, l'accusé a été acquitté.
+  *Am Ende* des Prozesses wurde der Angeklagte freigesprochen.
+
+  Cette *issue* donne sur une cour intérieure.
+  Dieser *Ausgang* führt zu einem Innenhof.
+
+  Nous devons trouver une *issue* pacifique à cette crise.
+  Wir müssen einen friedlichen *Ausweg* aus dieser Krise finden.
+
+  L'*issue* des négociations reste incertaine.
+  Der *Ausgang* der Verhandlungen bleibt ungewiss.
+
+  Cette rue est une *issue* sans issue depuis les travaux.
+  Diese Straße ist seit den Bauarbeiten eine *Sackgasse*.
+
+  À l'*issue* du concert, les fans ont attendu les artistes.
+  *Nach* dem Konzert warteten die Fans auf die Künstler.
+
+  Il n'y a pas d'*issue* favorable sans effort de notre part.
+  Es gibt keinen *günstigen Ausgang* ohne unsere Bemühungen.
+
+  Les *issues* de cette usine sont strictement contrôlées.
+  Die *Ausgänge* dieser Fabrik werden streng kontrolliert.
+
+  L'*issue* du vote aura des conséquences importantes.
+  Der *Ausgang* der Abstimmung wird wichtige Folgen haben.
+
+  Nous cherchons une *issue* créative à ce problème.
+  Wir suchen einen kreativen *Ausweg* aus diesem Problem.
+
+  Cette *issue* de secours mène directement à la rue.
+  Dieser *Notausgang* führt direkt auf die Straße.
+
+  L'*issue* du débat a surpris tous les participants.
+  Das *Ergebnis* der Debatte überraschte alle Teilnehmer.
+
+  À l'*issue* de ses études, elle a trouvé un excellent emploi.
+  *Nach* ihrem Studium fand sie eine ausgezeichnete Anstellung.
+
+  Cette décision ouvre de nouvelles *issues* pour l'entreprise.
+  Diese Entscheidung eröffnet dem Unternehmen neue *Möglichkeiten*.
+
+  Les *issues* de blé sont utilisées pour nourrir le bétail.
+  Die *Nebenprodukte* des Weizens werden zur Fütterung von Vieh verwendet.
+
+  Le labyrinthe semblait n'avoir aucune *issue*.
+  Das Labyrinth schien keinen *Ausweg* zu haben.
+
+  À l'*issue* de la cérémonie, un buffet sera servi.
+  *Im Anschluss an* die Zeremonie wird ein Buffet serviert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

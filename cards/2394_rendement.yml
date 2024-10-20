@@ -13,38 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elles ne donnent pas le même rendement de lait.
-  Sie liefern nicht den gleichen Milchertrag.
+  Elles ne donnent pas le même *rendement* de lait.
+  Sie haben nicht den gleichen Milch*ertrag*.
 
-  Le rendement de cette entreprise est en hausse.
-  Die Leistung dieses Unternehmens steigt.
+  Le *rendement* de ce champ de blé est excellent cette année.
+  Der *Ertrag* dieses Weizenfeldes ist dieses Jahr ausgezeichnet.
 
-  Le rendement annuel de son investissement était de 5%.
-  Der Jahresertrag seines Investments betrug 5%.
+  Cette nouvelle machine a un meilleur *rendement* énergétique.
+  Diese neue Maschine hat einen besseren Energie*nutzeffekt*.
 
-  La société a annoncé un rendement circulant de 10%.
-  Die Gesellschaft gab eine Umlaufrendite von 10% bekannt.
+  Le *rendement* du puits de pétrole a diminué ces derniers mois.
+  Die *Ausbeute* des Ölbrunnens hat in den letzten Monaten abgenommen.
 
-  Les employés sont payés au rendement.
-  Die Mitarbeiter werden leistungsbezogen bezahlt.
+  L'entreprise cherche à améliorer le *rendement* de ses employés.
+  Das Unternehmen versucht, die *Leistung* seiner Mitarbeiter zu verbessern.
 
-  Le rendement brut de la mine est de 50 tonnes par jour.
-  Die Rohausbeute des Bergwerks beträgt 50 Tonnen pro Tag.
+  Le *rendement* annuel de cette plantation d'oliviers est impressionnant.
+  Der Jahres*ertrag* dieser Olivenplantage ist beeindruckend.
 
-  Le rendement partiel de la récolte de blé était excellent.
-  Der Teilertrag der Weizenernte war ausgezeichnet.
+  Nous devons calculer le *rendement* brut avant de prendre une décision.
+  Wir müssen die Roh*ausbeute* berechnen, bevor wir eine Entscheidung treffen.
 
-  La banque propose un rendement réel de 2% sur les dépôts.
-  Die Bank bietet eine Realverzinsung von 2% auf Einlagen.
+  Les économistes étudient le *rendement* marginal de chaque secteur.
+  Die Ökonomen untersuchen den Skalen*ertrag* jedes Sektors.
 
-  Les terres d'un bon rendement sont très demandées.
-  Ertragreiche Böden sind sehr gefragt.
+  Le *rendement* réel de cette turbine dépasse nos attentes.
+  Die Effektiv*leistung* dieser Turbine übertrifft unsere Erwartungen.
 
-  La courbe de rendement montre la relation entre l'effort et la production.
-  Die Leistungskurve zeigt den Zusammenhang zwischen dem Aufwand und der Produktion.
+  Ces terres ont un bon *rendement* grâce à des techniques modernes.
+  Diese Böden haben dank moderner Techniken einen guten *Ertrag*.
 
-  Le rendement d'un emprunt à 10 ans est de 3%.
-  Die Anleiherendite eines 10-jährigen Kredits beträgt 3%.
+  La courbe de *rendement* montre une amélioration constante.
+  Die *Leistungs*kurve zeigt eine konstante Verbesserung.
+
+  Les investisseurs recherchent des placements à fort *rendement*.
+  Die Investoren suchen nach Anlagen mit hoher *Rendite*.
+
+  Le *rendement* circulant de ces obligations est attractif.
+  Die Umlauf*rendite* dieser Anleihen ist attraktiv.
+
+  Il faut considérer le *rendement* réel plutôt que le rendement nominal.
+  Man muss die Real*verzinsung* statt der nominalen Rendite betrachten.
+
+  Le *rendement* de l'emprunt a chuté suite à la crise économique.
+  Die Anleihe*rendite* ist infolge der Wirtschaftskrise gefallen.
+
+  Le *rendement* de la part a augmenté de 5% ce trimestre.
+  Die Anteils*rendite* ist in diesem Quartal um 5% gestiegen.
+
+  Dans cette usine, les ouvriers sont payés au *rendement*.
+  In dieser Fabrik werden die Arbeiter *leistungsbezogen* bezahlt.
+
+  Le salaire au *rendement* peut être motivant pour certains employés.
+  Der *Leistungs*lohn kann für manche Mitarbeiter motivierend sein.
+
+  Le *rendement* de cette centrale électrique atteint 95%.
+  Die *Leistung* dieses Kraftwerks erreicht 95%.
+
+  Le *rendement* à l'hectare varie selon les régions et les cultures.
+  Der *Ertrag* pro Hektar variiert je nach Region und Anbau.
+
+  La direction a noté une baisse du *rendement* dans l'atelier.
+  Die Leitung hat einen Rückgang der *Produktivität* in der Werkstatt festgestellt.
+
+  Le taux de *rendement* de cet investissement est supérieur à la moyenne du marché.
+  Die *Rendite* dieser Investition liegt über dem Marktdurchschnitt.
+
+  Elle s'applique, mais son *rendement* reste faible.
+  Sie gibt sich Mühe, aber ihre *Leistung* bleibt schwach.
+
+  Le *rendement* d'un puits de pétrole diminue généralement avec le temps.
+  Die *Ausbeute* eines Ölbrunnens nimmt in der Regel mit der Zeit ab.
+
+  Ce placement offre un bon *rendement* avec un risque modéré.
+  Diese Anlage bietet eine gute *Rendite* bei mäßigem Risiko.
+
+  Malgré ses efforts, son *rendement* au travail est jugé insuffisant.
+  Trotz seiner Bemühungen wird seine *Leistung* bei der Arbeit als unzureichend eingestuft.
+
+  Le *rendement* de cette réaction chimique est proche de 100%.
+  Die *Ausbeute* dieser chemischen Reaktion liegt nahe bei 100%.
+
+  Le *rendement* fiscal de cette nouvelle taxe a dépassé les prévisions.
+  Der steuerliche *Ertrag* dieser neuen Abgabe hat die Prognosen übertroffen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

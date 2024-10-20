@@ -13,17 +13,47 @@ Register: ↘Fiktion ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’aimerais lire son dernier paragraphe.
-  Ich würde gerne ihren letzten Absatz lesen.
+  J'aimerais lire son dernier *paragraphe*.
+  Ich möchte seinen letzten *Absatz* lesen.
 
-  Dans ce texte, chaque paragraphe traite d’un sujet différent.
-  In diesem Text behandelt jeder Absatz ein anderes Thema.
+  Le texte est divisé en plusieurs *paragraphes* pour plus de clarté.
+  Der Text ist zur besseren Übersicht in mehrere *Abschnitte* unterteilt.
 
-  La structure d'un texte en paragraphes permet une lecture plus fluide et une meilleure compréhension du contenu.
-  Eine abschnittsweise Gliederung eines Textes ermöglicht eine flüssigere Lektüre und ein besseres Verständnis des Inhalts.
+  Veuillez vous référer au *paragraphe* §3 de la page 12.
+  Bitte beziehen Sie sich auf *Paragraf* §3 auf Seite 12.
 
-  Je lis ce livre paragraphe par paragraphe pour mieux assimiler les informations.
-  Ich lese dieses Buch abschnittsweise, um die Informationen besser zu verarbeiten.
+  Les élèves lisent le texte *paragraphe* par *paragraphe*.
+  Die Schüler lesen den Text *absatzweise*.
+
+  Il a commencé un nouveau *paragraphe* après cette phrase.
+  Er hat nach diesem Satz einen neuen *Absatz* begonnen.
+
+  Elle a numéroté tous les *paragraphes* du document.
+  Sie hat alle *Abschnitte* des Dokuments nummeriert.
+
+  Le professeur nous a demandé de résumer chaque *paragraphe*.
+  Der Lehrer bat uns, jeden *Absatz* zusammenzufassen.
+
+  Dans le deuxième *paragraphe*, l'auteur développe son argument principal.
+  Im zweiten *Abschnitt* entwickelt der Autor sein Hauptargument.
+
+  Le symbole *paragraphe* (§) apparaît souvent dans les textes juridiques.
+  Das *Paragraphenzeichen* (§) erscheint häufig in juristischen Texten.
+
+  La structure en *paragraphes* rend le texte plus facile à lire.
+  Die *Absatz*struktur macht den Text leichter lesbar.
+
+  Ce *paragraphe* est trop long, il faudrait le diviser.
+  Dieser *Absatz* ist zu lang, man sollte ihn aufteilen.
+
+  L'éditeur a ajouté des *paragraphes* pour améliorer la mise en page.
+  Der Herausgeber hat *Absätze* hinzugefügt, um das Layout zu verbessern.
+
+  Le premier *paragraphe* doit introduire le sujet clairement.
+  Der erste *Absatz* muss das Thema klar einführen.
+
+  On peut voir le symbole *paragraphe* (§) en bas de page.
+  Man kann das *Paragraphenzeichen* (§) am Ende der Seite sehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

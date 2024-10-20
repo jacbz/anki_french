@@ -13,23 +13,101 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’emprunte le couloir.
-  Ich gehe den Korridor entlang.
+  J'emprunte le *couloir*.
+  Ich gehe durch den *Flur*.
 
-  Il y a une porte au bout du couloir.
-  Am Ende des Flurs gibt es eine Tür.
+  Le *couloir* de l'hôtel était sombre et étroit.
+  Der *Gang* des Hotels war dunkel und eng.
 
-  Le coureur du deuxième couloir a gagné la course.
-  Der Läufer auf der zweiten Bahn hat das Rennen gewonnen.
+  Les enfants courent dans les *couloirs* de l'école.
+  Die Kinder rennen durch die *Gänge* der Schule.
 
-  Le couloir rocheux était étroit et sinueux.
-  Die Felsschlucht war eng und gewunden.
+  Le patient attend son tour dans le *couloir* de l'hôpital.
+  Der Patient wartet im *Korridor* des Krankenhauses auf seine Reihe.
 
-  L'avion a traversé un couloir aérien contrôlé par la tour de contrôle.
-  Das Flugzeug durchquerte einen Luftkorridor, der vom Kontrollturm überwacht wurde.
+  "Chut ! Ne faites pas de bruit dans le *couloir*."
+  "Pst! Macht keinen Lärm im *Flur*."
 
-  Le couloir rhodanien est une vallée fertile et productive.
-  Die Rhônefurche ist ein fruchtbares und produktives Tal.
+  L'appartement dispose d'un long *couloir* qui dessert toutes les pièces.
+  Die Wohnung hat einen langen *Flur*, der zu allen Zimmern führt.
+
+  Les valises sont rangées dans le *couloir* de l'avion.
+  Die Koffer sind im *Gang* des Flugzeugs verstaut.
+
+  Le steward pousse le chariot dans le *couloir* central de l'avion.
+  Der Flugbegleiter schiebt den Wagen durch den *Mittelgang* des Flugzeugs.
+
+  Elle a choisi un siège côté *couloir* pour le vol.
+  Sie hat einen *Gang*platz für den Flug gewählt.
+
+  Le sprinter s'est maintenu dans son *couloir* tout au long de la course.
+  Der Sprinter blieb während des gesamten Rennens in seiner *Bahn*.
+
+  Le skieur a dévalé un étroit *couloir* rocheux.
+  Der Skifahrer ist eine enge felsige *Schlucht* hinuntergefahren.
+
+  Les randonneurs ont emprunté un *couloir* d'avalanche pour leur ascension.
+  Die Wanderer haben für ihren Aufstieg eine *Lawinenschneise* benutzt.
+
+  Le fleuve s'écoule dans le *couloir* rhodanien.
+  Der Fluss fließt durch die Rhône*furche*.
+
+  L'avion a dévié de son *couloir* aérien.
+  Das Flugzeug ist von seinem *Flugkorridor* abgewichen.
+
+  Les automobilistes doivent respecter le *couloir* réservé aux bus.
+  Die Autofahrer müssen die für Busse reservierte *Fahrspur* respektieren.
+
+  "J'ai entendu des *bruits de couloir* concernant une possible fusion."
+  "Ich habe *Gerüchte* über eine mögliche Fusion gehört."
+
+  Les députés discutent dans les *couloirs* de l'Assemblée nationale.
+  Die Abgeordneten diskutieren in den *Wandelgängen* der Nationalversammlung.
+
+  Un *couloir* humanitaire a été établi pour évacuer les civils.
+  Ein humanitärer *Korridor* wurde eingerichtet, um Zivilisten zu evakuieren.
+
+  Les nageurs s'entraînent chacun dans leur *couloir* de nage.
+  Die Schwimmer trainieren jeweils in ihrer *Schwimmbahn*.
+
+  Le *couloir* de la mort est une section spéciale de la prison.
+  Der *Todestrakt* ist ein spezieller Bereich des Gefängnisses.
+
+  Les joueurs de tennis utilisent les *couloirs* latéraux pour les doubles.
+  Die Tennisspieler nutzen die seitlichen *Gassen* für das Doppel.
+
+  Un *couloir* de vent s'est formé entre les deux immeubles.
+  Zwischen den beiden Gebäuden hat sich eine Wind*schneise* gebildet.
+
+  La rivière a creusé un profond *couloir* dans la roche.
+  Der Fluss hat eine tiefe *Klamm* in den Felsen gegraben.
+
+  Les spéléologues ont exploré un étroit *couloir* souterrain.
+  Die Höhlenforscher haben einen engen unterirdischen *Gang* erkundet.
+
+  Le métro emprunte un *couloir* souterrain pour traverser la ville.
+  Die U-Bahn nutzt einen unterirdischen *Tunnel*, um die Stadt zu durchqueren.
+
+  Les étudiants attendent devant la salle d'examen dans un *couloir* bondé.
+  Die Studenten warten vor dem Prüfungsraum in einem überfüllten *Flur*.
+
+  Le *couloir* d'embarquement mène directement à l'avion.
+  Der Einstiegs*korridor* führt direkt zum Flugzeug.
+
+  Les alpinistes ont gravi un dangereux *couloir* de glace.
+  Die Bergsteiger haben einen gefährlichen Eis*couloir* erklommen.
+
+  Un tapis rouge a été déroulé dans le *couloir* d'entrée pour accueillir les invités.
+  Ein roter Teppich wurde im Eingangs*flur* ausgerollt, um die Gäste zu empfangen.
+
+  Le concierge nettoie les *couloirs* de l'immeuble tous les matins.
+  Der Hausmeister reinigt jeden Morgen die *Flure* des Gebäudes.
+
+  Les espions échangeaient des informations secrètes dans les *couloirs* du pouvoir.
+  Die Spione tauschten geheime Informationen in den *Wandelgängen* der Macht aus.
+
+  Le navire emprunte un *couloir* de navigation balisé pour entrer dans le port.
+  Das Schiff nutzt eine markierte Schifffahrts*rinne*, um in den Hafen einzufahren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,20 +13,59 @@ Register: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Eh bien, j’ai changé d’avis.
-  Nun, ich habe meine Meinung geändert.
+  "*Eh bien*, j'ai changé d'avis."
+  "*Na gut*, ich habe meine Meinung geändert."
 
-  Eh bien, qu’est-ce que tu veux faire aujourd’hui?
-  Na gut, was möchtest du heute machen?
+  "*Eh*, Thomas, tu as oublié ton sac !"
+  "*He*, Thomas, du hast deine Tasche vergessen!"
 
-  Eh, vous là-bas! Arrêtez de parler si fort, vous me donnez mal à la tête!
-  He, Sie da hinten! Hören Sie auf so laut zu reden, Sie geben mir Kopfschmerzen!
+  "*Eh bien*, qu'est-ce qu'on fait maintenant ?"
+  "*Also*, was machen wir jetzt?"
 
-  Eh oui, c'est comme ça! La vie est injuste, on n'y peut rien.
-  Tja, das ist nun mal so! Das Leben ist ungerecht, man kann nichts dagegen tun.
+  "*Eh oui*, c'est déjà l'heure de partir."
+  "*Tja*, es ist schon Zeit zu gehen."
 
-  Eh bien ça par exemple! Tu as vraiment osé lui dire ça en face?
-  Na, so was! Du hast es wirklich gewagt, ihr das ins Gesicht zu sagen?
+  "*Eh*, fais attention à la marche !"
+  "*He*, pass auf die Stufe auf!"
+
+  "*Eh bien*, je dois avouer que je suis impressionné."
+  "*Nun ja*, ich muss zugeben, dass ich beeindruckt bin."
+
+  "*Eh*, Marie, vous venez avec nous ?"
+  "*He*, Marie, kommen Sie mit uns?"
+
+  "*Eh bien*, si c'est comme ça, je m'en vais !"
+  "*Na gut*, wenn das so ist, gehe ich!"
+
+  "*Eh quoi* ! Vous partez déjà ?"
+  "*Was denn*! Sie gehen schon?"
+
+  "*Eh là*, ne courez pas si vite !"
+  "*He da*, rennt nicht so schnell!"
+
+  "*Eh bien*, c'est une surprise !"
+  "*Nanu*, das ist ja eine Überraschung!"
+
+  "*Eh*, l'ami, vous avez fait tomber votre portefeuille !"
+  "*He*, Freundchen, Sie haben Ihre Geldbörse fallen lassen!"
+
+  "*Eh non*, ce n'est pas possible aujourd'hui."
+  "*Nein nein*, das geht heute nicht."
+
+  "*Eh bien*, soit, faisons comme tu veux."
+  "*Na schön*, machen wir es wie du willst."
+
+  "*Eh* ! *Eh* ! Il y a quelque chose d'intéressant là-bas !"
+  "*Haha*! Da ist wohl etwas Interessantes!"
+
+  "*Eh bien*, qu'attendez-vous pour répondre ?"
+  "*Also*, worauf warten Sie mit Ihrer Antwort?"
+
+  "*Eh*, vous là-bas, c'est une propriété privée !"
+  "*He*, Sie da drüben, das ist Privatgelände!"
+
+  "*Eh bien*, voilà qui est fait !"
+  "*So*, das wäre geschafft!"
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

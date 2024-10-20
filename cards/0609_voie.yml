@@ -13,44 +13,185 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il a toujours suivi sa voie, ton père.
-  Er ist immer seinen Weg gegangen, dein Vater.
+  Il a toujours suivi sa *voie*, ton père.
+  Dein Vater ist immer seinen *Weg* gegangen.
 
-  Je prends la voie rapide pour aller au travail.
-  Ich nehme die Autobahn, um zur Arbeit zu kommen.
+  La *voie* d'accès à l'usine est bloquée par des travaux.
+  Die *Zufahrtsstraße* zur Fabrik ist durch Bauarbeiten blockiert.
 
-  Je pense que nous sommes sur la bonne voie.
-  Ich denke, wir sind auf dem richtigen Weg.
+  Nous devons trouver une nouvelle *voie* de communication avec nos clients.
+  Wir müssen einen neuen *Kommunikationsweg* mit unseren Kunden finden.
 
-  La voie d'accès au château était longue et sinueuse.
-  Die Zufahrtstraße zum Schloss war lang und kurvenreich.
+  La *voie* publique ne doit pas être obstruée par des véhicules mal garés.
+  Die öffentliche *Straße* darf nicht durch falsch geparkte Fahrzeuge blockiert werden.
 
-  Par voie de conséquence, il a décidé de ne pas aller au travail.
-  Als logische Folge entschied er sich, nicht zur Arbeit zu gehen.
+  Cette autoroute comporte huit *voies* de circulation.
+  Diese Autobahn hat acht Fahr*spuren*.
 
-  Le projet est en bonne voie, nous devrions le terminer dans les temps.
-  Das Projekt kommt gut voran, wir sollten es rechtzeitig abschließen.
+  Le train arrivera sur la *voie* 3 dans cinq minutes.
+  Der Zug wird in fünf Minuten auf *Gleis* 3 einfahren.
 
-  La voie royale pour réussir à l'examen est de bien étudier.
-  Der ideale Weg, um die Prüfung zu bestehen, ist fleißig zu lernen.
+  Les *voies* navigables sont essentielles pour le transport de marchandises.
+  Die *Wasserwege* sind für den Warentransport von wesentlicher Bedeutung.
 
-  Son invention a ouvert la voie à de nouvelles découvertes dans le domaine de la médecine.
-  Seine Erfindung hat der Medizin den Weg für neue Entdeckungen geebnet.
+  Nous avons choisi la *voie* aérienne pour notre voyage en Australie.
+  Wir haben den *Luftweg* für unsere Reise nach Australien gewählt.
 
-  Le patient est en voie de guérison, il se rétablit rapidement.
-  Der Patient ist auf dem Wege der Besserung, er erholt sich schnell.
+  La décision a été prise par *voie* administrative.
+  Die Entscheidung wurde auf dem *Verwaltungsweg* getroffen.
 
-  Le chantier est en voie d'achèvement, les travaux sont presque terminés.
-  Die Baustelle geht dem Ende entgegen, die Arbeiten sind fast abgeschlossen.
+  Les négociations se poursuivent par *voie* diplomatique.
+  Die Verhandlungen werden auf *diplomatischem Wege* fortgesetzt.
 
-  Le projet est en voie d'exécution, les équipes travaillent sans relâche.
-  Das Projekt ist im Gange, die Teams arbeiten unermüdlich.
+  Elle a trouvé sa *voie* dans l'enseignement.
+  Sie hat ihre *Berufung* im Lehrberuf gefunden.
 
-  Certaines espèces animales sont en voie d'extinction, il est urgent de les protéger.
-  Einige Tierarten sind vom Aussterben bedroht, es ist dringend notwendig, sie zu schützen.
+  Les *voies* respiratoires de Paul sont irritées à cause de la pollution.
+  Pauls *Atemwege* sind durch die Verschmutzung gereizt.
 
-  Le train est arrivé sur la voie d'arrivée, il est prêt à débarquer les voyageurs.
-  Der Zug ist auf dem Ankunftsgleis angekommen, er ist bereit, die Passagiere aussteigen zu lassen.
+  Ce médicament doit être administré par *voie* intraveineuse.
+  Dieses Medikament muss *intravenös* verabreicht werden.
+
+  Les astronomes étudient la *Voie lactée* depuis des siècles.
+  Astronomen erforschen die *Milchstraße* seit Jahrhunderten.
+
+  La *voie* romaine est encore visible dans cette région.
+  Die *Römerstraße* ist in dieser Region noch sichtbar.
+
+  "Tu as pris la mauvaise *voie*, mon ami," lui dit-elle avec inquiétude.
+  "Du hast den falschen *Weg* eingeschlagen, mein Freund", sagte sie besorgt zu ihm.
+
+  Les chiens ont perdu la *voie* du renard dans la forêt.
+  Die Hunde haben die *Spur* des Fuchses im Wald verloren.
+
+  Cette *voie* express permet de contourner la ville rapidement.
+  Diese *Schnellstraße* ermöglicht es, die Stadt schnell zu umfahren.
+
+  Le capitaine a signalé une *voie* d'eau dans la coque du navire.
+  Der Kapitän meldete ein *Leck* im Rumpf des Schiffes.
+
+  Les *voies* du Seigneur sont impénétrables.
+  Die *Wege* des Herrn sind unergründlich.
+
+  Le pays est en *voie* de développement économique.
+  Das Land befindet sich auf dem *Weg* der wirtschaftlichen Entwicklung.
+
+  La ligne de train à *voie* unique pose des problèmes de circulation.
+  Die eingleisige Bahn*strecke* verursacht Verkehrsprobleme.
+
+  Il faut élargir cette *voie* pour améliorer la circulation.
+  Diese *Straße* muss verbreitert werden, um den Verkehrsfluss zu verbessern.
+
+  Les manifestants ont bloqué les principales *voies* de communication.
+  Die Demonstranten haben die wichtigsten *Verkehrswege* blockiert.
+
+  Cette découverte ouvre la *voie* à de nouvelles recherches.
+  Diese Entdeckung *bahnt den Weg* für neue Forschungen.
+
+  Le juge a rejeté cette *voie* de recours.
+  Der Richter hat diesen *Rechtsbehelf* abgelehnt.
+
+  La *voie* verte est très appréciée des cyclistes le week-end.
+  Der *Radweg* wird von Radfahrern am Wochenende sehr geschätzt.
+
+  Les pompiers ont dégagé la *voie* pour permettre le passage des ambulances.
+  Die Feuerwehr hat die *Straße* freigeräumt, um den Krankenwagen die Durchfahrt zu ermöglichen.
+
+  Le médecin a prescrit un traitement par *voie* orale.
+  Der Arzt hat eine Behandlung auf *oralem Wege* verschrieben.
+
+  Cette *voie* ferrée relie Paris à Lyon en seulement deux heures.
+  Diese Eisen*bahnstrecke* verbindet Paris mit Lyon in nur zwei Stunden.
+
+  Les ingénieurs travaillent sur une nouvelle *voie* de transmission des données.
+  Die Ingenieure arbeiten an einem neuen *Weg* zur Datenübertragung.
+
+  Le gouvernement cherche de nouvelles *voies* pour réduire le chômage.
+  Die Regierung sucht nach neuen *Wegen*, um die Arbeitslosigkeit zu reduzieren.
+
+  La *voie* lactée est particulièrement visible ce soir.
+  Die *Milchstraße* ist heute Abend besonders gut zu sehen.
+
+  Les travaux sur la *voie* publique causent des embouteillages.
+  Die Arbeiten auf der öffentlichen *Straße* verursachen Staus.
+
+  Le chirurgien a opéré par *voie* laparoscopique.
+  Der Chirurg operierte auf *laparoskopischem Wege*.
+
+  Cette *voie* sans issue mène à un joli parc caché.
+  Diese *Sackgasse* führt zu einem schönen versteckten Park.
+
+  Les *voies* urinaires de Marie sont infectées.
+  Maries *Harnwege* sind infiziert.
+
+  La police a sécurisé toutes les *voies* d'accès au stade.
+  Die Polizei hat alle *Zugangswege* zum Stadion gesichert.
+
+  Le train a déraillé à cause d'un problème sur la *voie*.
+  Der Zug ist wegen eines Problems am *Gleis* entgleist.
+
+  Cette décision ouvre la *voie* à de nombreuses possibilités.
+  Diese Entscheidung *ebnet den Weg* für viele Möglichkeiten.
+
+  Les *voies* digestives sont affectées par ce type d'alimentation.
+  Die *Verdauungswege* werden durch diese Art der Ernährung beeinträchtigt.
+
+  La *voie* maritime est souvent privilégiée pour le transport de marchandises lourdes.
+  Der *Seeweg* wird oft für den Transport schwerer Güter bevorzugt.
+
+  Le patient a reçu le médicament par *voie* intraveineuse.
+  Der Patient erhielt das Medikament auf *intravenösem Wege*.
+
+  Cette *voie* de garage est utilisée pour le stationnement des trains la nuit.
+  Dieses *Abstellgleis* wird nachts zum Abstellen der Züge genutzt.
+
+  La *voie* sacrée mène au temple antique.
+  Die *heilige Straße* führt zum antiken Tempel.
+
+  Les alpinistes ont ouvert une nouvelle *voie* d'ascension.
+  Die Bergsteiger haben eine neue Aufstiegs*route* eröffnet.
+
+  Le mécanicien a réglé la *voie* des roues avant de la voiture.
+  Der Mechaniker hat die *Spurweite* der Vorderräder des Autos eingestellt.
+
+  Cette *voie* de fait est passible d'une amende.
+  Diese *Tätlichkeit* ist mit einer Geldstrafe belegt.
+
+  Les archéologues ont découvert une ancienne *voie* romaine.
+  Die Archäologen haben eine alte *Römerstraße* entdeckt.
+
+  Le projet est en bonne *voie* pour être terminé à temps.
+  Das Projekt ist auf gutem *Wege*, rechtzeitig fertiggestellt zu werden.
+
+  Cette *voie* de transmission est sécurisée contre les cyberattaques.
+  Dieser Übertragung*skanal* ist gegen Cyberangriffe gesichert.
+
+  La *voie* lactée fascine les astronomes depuis des siècles.
+  Die *Milchstraße* fasziniert Astronomen seit Jahrhunderten.
+
+  Les *voies* respiratoires du patient sont obstruées.
+  Die *Atemwege* des Patienten sind verstopft.
+
+  Cette *voie* navigable relie deux grands ports commerciaux.
+  Dieser *Wasserweg* verbindet zwei große Handelshäfen.
+
+  La nouvelle *voie* rapide permettra de désengorger le centre-ville.
+  Die neue *Schnellstraße* wird zur Entlastung der Innenstadt beitragen.
+
+  Le chirurgien a choisi d'opérer par *voie* laparoscopique.
+  Der Chirurg hat sich für eine Operation auf *laparoskopischem Wege* entschieden.
+
+  Les *voies* de la Providence sont impénétrables.
+  Die *Wege* der Vorsehung sind unergründlich.
+
+  Cette entreprise est en *voie* de devenir leader sur le marché.
+  Dieses Unternehmen ist auf dem *Weg*, Marktführer zu werden.
+
+  La *voie* lactée brille de mille feux dans le ciel nocturne.
+  Die *Milchstraße* leuchtet mit tausend Lichtern am Nachthimmel.
+
+  Le train circule sur une *voie* unique dans cette région montagneuse.
+  Der Zug fährt in dieser Bergregion auf einer ein*gleisigen Strecke*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

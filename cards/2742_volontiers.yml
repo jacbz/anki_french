@@ -13,23 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je serais volontiers mort dans cette maison.
-  Ich wäre gerne in diesem Haus gestorben.
+  Je serais *volontiers* mort dans cette maison.
+  Ich wäre *gerne* in diesem Haus gestorben.
 
-  Je viendrai volontiers à la fête.
-  Ich komme gerne zur Party.
+  J'accepte *volontiers* votre invitation à dîner.
+  Ich nehme Ihre Einladung zum Abendessen *gerne* an.
 
-  Il l’a fait volontiers.
-  Er tat dies bereitwillig.
+  "Voulez-vous un café ?" - "*Volontiers*, merci."
+  "Möchten Sie einen Kaffee?" - "*Gerne*, danke."
 
-  Je dirais volontiers qu'il le fait exprès, il a l'air tellement content de la situation.
-  Ich würde fast sagen, dass er es absichtlich macht, er sieht so zufrieden mit der Situation aus.
+  Elle *volontiers* passe des heures à lire sans s'en rendre compte.
+  Sie verbringt *oft* stundenlang lesend, ohne es zu merken.
 
-  Je suis plus volontiers inquiet pour les enfants que pour les adultes.
-  Ich bin lieber um die Kinder besorgt als um die Erwachsenen.
+  Je reverrais *volontiers* ce film classique.
+  Ich würde mir diesen Klassiker *gerne* noch einmal ansehen.
 
-  Il est le plus volontiers inquiet lorsque les choses ne se passent pas comme prévu.
-  Am liebsten ist er beunruhigt, wenn die Dinge nicht so laufen wie geplant.
+  Il est *volontiers* critique envers les autres, mais rarement envers lui-même.
+  Er ist *schnell* kritisch gegenüber anderen, aber selten gegenüber sich selbst.
+
+  Nous discutons *volontiers* de politique autour d'un verre.
+  Wir diskutieren *gerne* bei einem Glas über Politik.
+
+  Elle sourit *volontiers* aux inconnus dans la rue.
+  Sie lächelt Fremde auf der Straße *gerne* an.
+
+  *Volontiers*, je vous aiderai à déménager ce week-end.
+  Ich helfe Ihnen am Wochenende *gerne* beim Umzug.
+
+  Les enfants mangent *volontiers* des bonbons, mais pas toujours leurs légumes.
+  Kinder essen *gerne* Süßigkeiten, aber nicht immer ihr Gemüse.
+
+  Il partage *volontiers* ses connaissances avec ses collègues.
+  Er teilt sein Wissen *bereitwillig* mit seinen Kollegen.
+
+  Elle accepterait *volontiers* un poste à l'étranger.
+  Sie würde *gerne* eine Stelle im Ausland annehmen.
+
+  Nous irions *volontiers* à la plage, mais il pleut.
+  Wir würden *gerne* an den Strand gehen, aber es regnet.
+
+  Il prête *volontiers* l'oreille aux problèmes de ses amis.
+  Er leiht den Problemen seiner Freunde *bereitwillig* sein Ohr.
+
+  Je mangerais *volontiers* une glace par cette chaleur.
+  Bei dieser Hitze würde ich *gerne* ein Eis essen.
+
+  Elle participe *volontiers* aux activités communautaires.
+  Sie nimmt *gerne* an Gemeindeaktivitäten teil.
+
+  Nous répondrons *volontiers* à toutes vos questions après la présentation.
+  Wir beantworten nach der Präsentation *gerne* all Ihre Fragen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

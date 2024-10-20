@@ -13,41 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les crimes économiques demeurent largement impunis.
-  Wirtschaftsverbrechen bleiben weitgehend ungestraft.
+  Les crimes économiques *demeurent* largement impunis.
+  Wirtschaftsverbrechen *bleiben* weitgehend ungestraft.
 
-  Je vais demeurer chez mes parents.
-  Ich werde bei meinen Eltern wohnen bleiben.
+  Elle a *demeuré* à Paris pendant ses études.
+  Sie hat während ihres Studiums in Paris *gewohnt*.
 
-  L'homme, demeurant à Paris, a une grande maison.
-  Der Mann, wohnhaft in Paris, besitzt ein großes Haus.
+  Le mystère *demeure* entier après des années d'enquête.
+  Das Rätsel *bleibt* auch nach jahrelanger Untersuchung ungelöst.
 
-  J'ai essayé de lui expliquer, mais il en est demeuré là.
-  Ich habe versucht, es ihm zu erklären, aber er ließ es dabei belassen.
+  "Tu ne peux pas *demeurer* ainsi sans rien faire !"
+  "Du kannst nicht einfach so *bleiben* und nichts tun!"
 
-  Une interrogation demeure toutefois: pourquoi a-t-il agi de cette façon ?
-  Eine Frage jedoch bleibt offen: warum hat er so gehandelt?
+  Malgré les changements, l'essence du projet *demeure* la même.
+  Trotz der Änderungen *bleibt* der Kern des Projekts derselbe.
 
-  Le président a décidé de demeurer ministre malgré les critiques.
-  Der Präsident hat entschieden, weiterhin Minister zu bleiben, trotz der Kritik.
+  Il *demeure* fidèle à ses principes depuis toujours.
+  Er *bleibt* seinen Prinzipien seit jeher treu.
 
-  L'énigme de la disparition de l'avion demeure.
-  Das Rätsel des Verschwindens des Flugzeugs bleibt bestehen.
+  La question *demeure* : qui sera le prochain président ?
+  Die Frage *bleibt*: Wer wird der nächste Präsident sein?
 
-  Il demeure que c'est arrivé, et il faut en tirer les leçons.
-  Tatsache ist jedoch, dass es eingetroffen ist, und wir müssen daraus lernen.
+  Les troupes *demeurèrent* en position jusqu'à nouvel ordre.
+  Die Truppen *blieben* bis auf weiteres in Stellung.
 
-  Il a perdu son emploi et demeure sans emploi depuis des mois.
-  Er hat seinen Job verloren und ist seit Monaten weiterhin ohne Arbeit.
+  Cette vieille maison *demeure* dans notre famille depuis des générations.
+  Dieses alte Haus *bleibt* seit Generationen in unserer Familie.
 
-  Ma question est demeurée sans réponse.
-  Meine Frage blieb unbeantwortet.
+  Le souvenir de cette journée *demeurera* gravé dans ma mémoire.
+  Die Erinnerung an diesen Tag wird in meinem Gedächtnis *eingeprägt bleiben*.
 
-  Il n'en demeure pas moins que vous avez tort, même si vous êtes convaincu du contraire.
-  Nichtsdestoweniger haben Sie Unrecht, auch wenn Sie vom Gegenteil überzeugt sind.
+  Nous avons *demeuré* dans ce quartier pendant dix ans.
+  Wir haben zehn Jahre lang in diesem Viertel *gewohnt*.
 
-  La conversation en est demeurée là, car il ne voulait pas en parler davantage.
-  Die Unterhaltung wurde nicht fortgesetzt, da er nicht weiter darüber sprechen wollte.
+  Son sourire *demeura* figé malgré la mauvaise nouvelle.
+  Ihr Lächeln *blieb* trotz der schlechten Nachricht erstarrt.
+
+  Le contrat *demeure* valable jusqu'à la fin de l'année.
+  Der Vertrag *bleibt* bis zum Ende des Jahres gültig.
+
+  Elle *demeure* sans emploi depuis plusieurs mois.
+  Sie *bleibt* seit mehreren Monaten ohne Arbeit.
+
+  L'origine de cette coutume *demeure* inconnue.
+  Der Ursprung dieses Brauchs *bleibt* unbekannt.
+
+  *Demeurez* calme, nous allons résoudre ce problème.
+  *Bleiben* Sie ruhig, wir werden dieses Problem lösen.
+
+  La porte *demeura* fermée malgré nos efforts.
+  Die Tür *blieb* trotz unserer Bemühungen verschlossen.
+
+  Il *demeure* que cette décision est discutable.
+  Es *bleibt* die Tatsache, dass diese Entscheidung fragwürdig ist.
+
+  Où *demeurez*-vous actuellement ?
+  Wo *wohnen* Sie derzeit?
+
+  Le château *demeura* inhabité pendant des décennies.
+  Das Schloss *blieb* jahrzehntelang unbewohnt.
+
+  Cette loi *demeure* en vigueur malgré les contestations.
+  Dieses Gesetz *bleibt* trotz der Anfechtungen in Kraft.
+
+  Les choses *en demeurèrent* là après leur dispute.
+  Die Dinge *blieben* nach ihrem Streit dabei.
+
+  Il *demeure* difficile de prédire l'avenir de l'économie.
+  Es *bleibt* schwierig, die Zukunft der Wirtschaft vorherzusagen.
+
+  Nous *demeurerons* vigilants face à ces menaces.
+  Wir *bleiben* angesichts dieser Bedrohungen wachsam.
+
+  Son talent *demeure* incontesté dans le milieu artistique.
+  Sein Talent *bleibt* in der Kunstszene unbestritten.
+
+  *Demeurez* assis jusqu'à ce que l'avion s'arrête complètement.
+  *Bleiben* Sie sitzen, bis das Flugzeug vollständig zum Stehen gekommen ist.
+
+  La situation politique *demeure* tendue dans la région.
+  Die politische Lage in der Region *bleibt* angespannt.
+
+  Elle a *demeuré* silencieuse pendant toute la réunion.
+  Sie *blieb* während der gesamten Sitzung stumm.
+
+  Le problème *demeure* sans solution à ce jour.
+  Das Problem *bleibt* bis heute ungelöst.
+
+  Malgré nos efforts, certaines inégalités *demeurent*.
+  Trotz unserer Bemühungen *bestehen* einige Ungleichheiten weiterhin.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

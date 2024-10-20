@@ -13,41 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les rues étaient déjà pleines de monde.
-  Die Straßen waren bereits voller Menschen.
+  Les rues étaient *déjà* pleines de monde.
+  Die Straßen waren *schon* voller Menschen.
 
-  Je suis déjà allé à Paris.
-  Ich bin schon nach Paris gereist.
+  Elle a *déjà* fini ses devoirs.
+  Sie hat ihre Hausaufgaben *schon* fertig.
 
-  Tu as déjà fait ça.
-  Das hast du bereits getan.
+  *Déjà* ? Il n'est que 18h et tu veux rentrer ?
+  *Schon*? Es ist erst 18 Uhr und du willst nach Hause?
 
-  Je sais déjà comment faire ça.
-  Ich weiß bereits, wie man das macht.
+  À cette époque *déjà*, on parlait du changement climatique.
+  *Damals schon* sprach man über den Klimawandel.
 
-  Il était déjà parti quand j'ai appelé, j'ai donc laissé un message.
-  Er war schon weg, als ich anrief, deshalb habe ich eine Nachricht hinterlassen.
+  J'ai *déjà* vu ce film trois fois.
+  Ich habe diesen Film *schon* dreimal gesehen.
 
-  Déjà que Jean a raté son examen, il ne faut pas qu'il échoue aussi à l'oral !
-  Schon genug reicht schon, dass Jean seine Prüfung verhauen hat, jetzt darf er auch die mündliche nicht vermasseln!
+  Il est *déjà* assez difficile de trouver un emploi !
+  Es ist *schon* schwierig genug, einen Job zu finden!
 
-  À cette époque déjà, les voitures étaient beaucoup moins polluantes.
-  Damals schon waren die Autos viel weniger umweltbelastend.
+  C'est *déjà* pas mal comme résultat !
+  Das ist *doch schon* kein schlechtes Ergebnis!
 
-  Il est déjà assez paresseux! Il devrait vraiment se bouger!
-  Der ist so schon faul genug! Er sollte sich wirklich mal bewegen!
+  Comment s'appelait ce restaurant, *déjà* ?
+  Wie hieß dieses Restaurant *noch gleich*?
 
-  Comment vous appelez-vous déjà? J'ai oublié votre nom.
-  Wie heißen Sie noch? Ich habe Ihren Namen vergessen.
+  D'ores et *déjà*, nous pouvons confirmer la date de l'événement.
+  Wir können den Termin der Veranstaltung *bereits jetzt* bestätigen.
 
-  J'ai déjà vu ce film plusieurs fois, mais je l'aime toujours autant.
-  Ich habe diesen Film schon mehrmals gesehen, aber ich mag ihn immer noch genauso gerne.
+  Quand je suis arrivé, le train était *déjà* parti.
+  Als ich ankam, war der Zug *schon* abgefahren.
 
-  C'est déjà pas mal! On a quand même réussi à faire tout ce qu'on s'était fixé.
-  Das ist schon nicht schlecht! Wir haben es trotzdem geschafft, alles zu erledigen, was wir uns vorgenommen hatten.
+  Tu m'as *déjà* raconté cette histoire hier.
+  Du hast mir diese Geschichte *schon* gestern erzählt.
 
-  C'est déjà quelque chose! On a quand même réussi à sauver quelques meubles.
-  Das ist doch schon etwas! Wir haben es trotzdem geschafft, ein paar Möbel zu retten.
+  C'est *déjà* beaucoup d'avoir réussi l'examen !
+  Es ist *schon* viel, die Prüfung bestanden zu haben!
+
+  Où en étions-nous *déjà* dans notre discussion ?
+  Wo waren wir in unserer Diskussion *noch gleich*?
+
+  Il est *déjà* midi et nous n'avons rien fait !
+  Es ist *schon* Mittag und wir haben noch nichts getan!
+
+  As-tu *déjà* goûté cette spécialité locale ?
+  Hast du diese lokale Spezialität *schon einmal* probiert?
+
+  C'est *déjà* la troisième fois que je te le répète !
+  Das ist *schon* das dritte Mal, dass ich es dir wiederhole!
+
+  "Tu es *déjà* là ? Je ne t'attendais pas si tôt !"
+  "Du bist *schon* da? Ich habe dich nicht so früh erwartet!"
+
+  *Déjà* que je suis en retard, voilà qu'il se met à pleuvoir !
+  *Es reicht schon*, dass ich zu spät bin, und jetzt fängt es auch noch an zu regnen!
+
+  Le soleil se couchait *déjà* quand nous sommes arrivés à la plage.
+  Die Sonne ging *schon* unter, als wir am Strand ankamen.
+
+  Avez-vous *déjà* pris votre décision ?
+  Haben Sie Ihre Entscheidung *schon* getroffen?
+
+  Il faisait *déjà* nuit quand nous sommes rentrés.
+  Es war *schon* dunkel, als wir nach Hause kamen.
+
+  C'est *déjà* un bon début, continuons dans cette voie !
+  Das ist *schon* ein guter Anfang, lasst uns so weitermachen!
+
+  As-tu *déjà* réfléchi à ma proposition ?
+  Hast du *schon* über meinen Vorschlag nachgedacht?
+
+  J'ai *déjà* eu l'impression d'avoir vécu cette situation.
+  Ich hatte *schon* das Gefühl, diese Situation erlebt zu haben.
+
+  Nous sommes *déjà* en retard, dépêchons-nous !
+  Wir sind *schon* spät dran, lass uns beeilen!
+
+  "Cette histoire, c'est du *déjà*-vu !"
+  "Diese Geschichte ist *nichts Neues*!"
+
+  Le printemps est *déjà* là, les arbres sont en fleurs.
+  Der Frühling ist *schon* da, die Bäume blühen.
+
+  N'as-tu pas *déjà* assez mangé comme ça ?
+  Hast du nicht *schon* genug gegessen?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

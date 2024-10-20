@@ -13,20 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il est impossible de prévoir avec certitude où nous en arriverons.
-  Es ist unmöglich, mit Sicherheit vorherzusagen, wo wir landen werden.
+  Il est impossible de prévoir avec *certitude* où nous en arriverons.
+  Es ist unmöglich, mit *Sicherheit* vorherzusagen, wo wir landen werden.
 
-  J’ai la certitude que tout ira bien.
-  Ich bin sicher, dass alles gut gehen wird.
+  La *certitude* de sa victoire lui donnait beaucoup de confiance.
+  Die *Gewissheit* seines Sieges gab ihm viel Selbstvertrauen.
 
-  C'est maintenant une certitude absolue : le train arrivera à l'heure.
-  Darüber besteht jetzt absolute Gewissheit: Der Zug wird pünktlich ankommen.
+  J'ai la *certitude* qu'elle sera là demain matin.
+  Ich bin mir *sicher*, dass sie morgen Morgen da sein wird.
 
-  Il a la certitude de réussir son examen.
-  Er ist sich seiner Sache sicher, dass er seine Prüfung besteht.
+  Les preuves scientifiques nous apportent une *certitude* absolue.
+  Die wissenschaftlichen Beweise geben uns absolute *Sicherheit*.
 
-  La certitude d'atteindre son but lui donnait de l'énergie.
-  Die Zielsicherheit gab ihm Kraft.
+  "Je peux vous dire en toute *certitude* que ce n'est pas vrai."
+  "Ich kann Ihnen mit absoluter *Sicherheit* sagen, dass das nicht stimmt."
+
+  Mes doutes se sont transformés en *certitude* après avoir vu les documents.
+  Meine Zweifel verwandelten sich in *Gewissheit*, nachdem ich die Dokumente gesehen hatte.
+
+  Cette *certitude* mathématique repose sur des calculs précis.
+  Diese mathematische *Gewissheit* basiert auf präzisen Berechnungen.
+
+  Elle avançait avec la *certitude* d'atteindre son but.
+  Sie ging mit der *Sicherheit* voran, ihr Ziel zu erreichen.
+
+  As-tu la *certitude* que le train part à cette heure-là ?
+  Bist du dir *sicher*, dass der Zug zu dieser Zeit abfährt?
+
+  Ces résultats nous donnent une *certitude* sur l'origine du problème.
+  Diese Ergebnisse geben uns *Gewissheit* über den Ursprung des Problems.
+
+  La *certitude* de son innocence a été prouvée par plusieurs témoins.
+  Die *Gewissheit* seiner Unschuld wurde durch mehrere Zeugen bewiesen.
+
+  Je ne peux pas affirmer avec *certitude* ce qui s'est passé ce soir-là.
+  Ich kann nicht mit *Sicherheit* sagen, was an diesem Abend passiert ist.
+
+  Cette *certitude* morale guide toutes ses décisions.
+  Diese moralische *Gewissheit* leitet alle seine Entscheidungen.
+
+  Les scientifiques ont maintenant la *certitude* que le changement climatique s'accélère.
+  Die Wissenschaftler haben jetzt die *Gewissheit*, dass sich der Klimawandel beschleunigt.
+
+  Sans *certitude*, nous devons continuer nos recherches.
+  Ohne *Gewissheit* müssen wir unsere Forschung fortsetzen.
+
+  Il n'y a qu'une seule *certitude* dans la vie : rien n'est permanent.
+  Es gibt nur eine *Gewissheit* im Leben: nichts ist dauerhaft.
+
+  La *certitude* du diagnostic a soulagé toute la famille.
+  Die *Gewissheit* der Diagnose hat die ganze Familie erleichtert.
+
+  Ces hypothèses se sont transformées en *certitudes* après des années de recherche.
+  Diese Hypothesen haben sich nach Jahren der Forschung in *Gewissheiten* verwandelt.
+
+  Il faut distinguer les faits des *certitudes* personnelles.
+  Man muss die Fakten von persönlichen *Überzeugungen* unterscheiden.
+
+  Elle a exprimé sa *certitude* avec une conviction impressionnante.
+  Sie hat ihre *Überzeugung* mit beeindruckender Bestimmtheit zum Ausdruck gebracht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

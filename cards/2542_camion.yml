@@ -13,26 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils ont trouvé le camion stationné à l’extérieur.
-  Sie fanden den Lkw draußen geparkt vor.
+  Ils ont trouvé le *camion* stationné à l'extérieur.
+  Sie haben den *Lastwagen* draußen geparkt gefunden.
 
-  Le camion transporte des marchandises.
-  Der Lastwagen transportiert Waren.
+  Le *camion* de déménagement arrivera demain matin à huit heures.
+  Der Umzugs*lkw* kommt morgen früh um acht Uhr.
 
-  Le camion est parti.
-  Der Lastwagen ist weg.
+  Ce *camion* frigorifique transporte des produits surgelés vers les supermarchés.
+  Dieser Kühl*lastwagen* transportiert Tiefkühlprodukte zu den Supermärkten.
 
-  Quel gros camion !
-  Was für ein großer Lastwagen!
+  Les *camions*-citernes livrent le carburant aux stations-service.
+  Die Tank*lastwagen* liefern den Treibstoff an die Tankstellen.
 
-  Je serai dans le camion.
-  Ich bin im Lastwagen.
+  Un *camion* de dix tonnes a percuté la barrière de sécurité.
+  Ein zehn Tonnen schwerer *Lkw* ist gegen die Sicherheitsbarriere geprallt.
 
-  Le camion de dix tonnes a transporté la cargaison jusqu'au chantier.
-  Der Zehntonner hat die Fracht zur Baustelle transportiert.
+  Le peintre prépare sa peinture dans un grand *camion* en métal.
+  Der Maler bereitet seine Farbe in einem großen Farb*behälter* aus Metall vor.
 
-  Le camion bâché était rempli de foin.
-  Der Planwagen war voll mit Heu.
+  La dentellière utilise des *camions* pour fixer délicatement la dentelle.
+  Die Klöpplerin verwendet feine *Stecknadeln*, um die Spitze vorsichtig zu befestigen.
+
+  Le *camion* bâché protège les marchandises de la pluie.
+  Der Plan*lastwagen* schützt die Waren vor dem Regen.
+
+  Nous avons commandé deux *camions* de sable pour le chantier.
+  Wir haben zwei *Lkw*-Ladungen Sand für die Baustelle bestellt.
+
+  Au XIXe siècle, les *camions* étaient tirés par des chevaux.
+  Im 19. Jahrhundert wurden die Transport*wagen* von Pferden gezogen.
+
+  Le chauffeur du *camion* fait une pause toutes les quatre heures.
+  Der *Lkw*-Fahrer macht alle vier Stunden eine Pause.
+
+  Les *camions* à benne transportent les déchets vers la décharge.
+  Die Kipper*lastwagen* transportieren den Müll zur Deponie.
+
+  Un *camion* isotherme assure la livraison des produits frais.
+  Ein Isolier*lastwagen* gewährleistet die Lieferung der frischen Produkte.
+
+  Les collectionneurs de papillons utilisent des *camions* très fins.
+  Die Schmetterlingssammler verwenden sehr feine *Nadeln*.
+
+  Le vieux *camion* de pompiers est exposé au musée.
+  Der alte Feuerwehr*lastwagen* wird im Museum ausgestellt.
+
+  La société de transport possède une flotte de vingt *camions*.
+  Das Transportunternehmen besitzt eine Flotte von zwanzig *Lastwagen*.
+
+  Les *camions* de livraison ne peuvent pas entrer dans le centre-ville après midi.
+  Die Liefer*lastwagen* dürfen nach mittags nicht in die Innenstadt fahren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

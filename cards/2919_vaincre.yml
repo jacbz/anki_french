@@ -13,17 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous sommes nés pour vaincre.
-  Wir sind zum Siegen geboren.
+  Nous sommes nés pour *vaincre*.
+  Wir sind geboren, um zu *siegen*.
 
-  Nous allons vaincre nos ennemis.
-  Wir werden unsere Feinde besiegen.
+  L'armée a finalement réussi à *vaincre* l'ennemi après des mois de combat.
+  Die Armee hat es nach monatelangem Kampf endlich geschafft, den Feind zu *besiegen*.
 
-  Le guerrier a vaincu son ennemi en luttant sans relâche.
-  Der Krieger hat seinen Feind nach einem erbitterten Kampf besiegt.
+  Le champion a *vaincu* tous ses adversaires lors du tournoi.
+  Der Champion hat alle seine Gegner im Turnier *geschlagen*.
 
-  Il a vaincu la face nord de l'Eiger, un exploit rare et dangereux.
-  Er hat die Nordwand des Eigers bezwungen, eine seltene und gefährliche Leistung.
+  Elle a dû *vaincre* sa timidité pour parler en public.
+  Sie musste ihre Schüchternheit *überwinden*, um in der Öffentlichkeit zu sprechen.
+
+  Les chercheurs travaillent dur pour *vaincre* cette maladie rare.
+  Die Forscher arbeiten hart daran, diese seltene Krankheit zu *besiegen*.
+
+  "J'ai *vaincu* ma peur des hauteurs en faisant du parachutisme", a-t-il expliqué fièrement.
+  "Ich habe meine Höhenangst *überwunden*, indem ich Fallschirmspringen gegangen bin", erklärte er stolz.
+
+  L'équipe nationale a *vaincu* ses rivaux et remporté la coupe du monde.
+  Die Nationalmannschaft hat ihre Rivalen *geschlagen* und den Weltmeisterpokal gewonnen.
+
+  Il faut *vaincre* ou mourir, dit le proverbe.
+  Man muss *siegen* oder sterben, sagt das Sprichwort.
+
+  Les manifestants ont *vaincu* l'opposition du gouvernement.
+  Die Demonstranten haben den Widerstand der Regierung *bezwungen*.
+
+  Après des années d'entraînement, elle a finalement *vaincu* l'Everest.
+  Nach Jahren des Trainings hat sie schließlich den Mount Everest *bezwungen*.
+
+  Nous devons *vaincre* nos préjugés pour créer une société plus juste.
+  Wir müssen unsere Vorurteile *überwinden*, um eine gerechtere Gesellschaft zu schaffen.
+
+  Le jeune athlète a *vaincu* le record mondial du 100 mètres.
+  Der junge Athlet hat den Weltrekord über 100 Meter *geschlagen*.
+
+  La détermination de Marie a *vaincu* tous les obstacles sur son chemin.
+  Maries Entschlossenheit hat alle Hindernisse auf ihrem Weg *überwunden*.
+
+  Les nouvelles technologies nous aident à *vaincre* les distances.
+  Neue Technologien helfen uns, Entfernungen zu *überwinden*.
+
+  Il faut *vaincre* le mal par le bien.
+  Man muss das Böse mit dem Guten *besiegen*.
+
+  L'alpiniste a *vaincu* la face nord de la montagne en solitaire.
+  Der Bergsteiger hat die Nordwand des Berges im Alleingang *bezwungen*.
+
+  Ensemble, nous pouvons *vaincre* la pauvreté dans notre région.
+  Gemeinsam können wir die Armut in unserer Region *besiegen*.
+
+  Le candidat a *vaincu* ses opposants lors des élections.
+  Der Kandidat hat seine Gegner bei den Wahlen *geschlagen*.
+
+  Après des années de lutte, ils ont enfin *vaincu* l'injustice.
+  Nach jahrelangem Kampf haben sie endlich die Ungerechtigkeit *besiegt*.
+
+  L'équipe a dû *vaincre* sa fatigue pour terminer le marathon.
+  Das Team musste seine Müdigkeit *überwinden*, um den Marathon zu beenden.
+
+  Les scientifiques espèrent *vaincre* le cancer dans les prochaines décennies.
+  Die Wissenschaftler hoffen, den Krebs in den nächsten Jahrzehnten zu *besiegen*.
+
+  Il a fallu des siècles pour *vaincre* certaines superstitions.
+  Es hat Jahrhunderte gedauert, bestimmte Aberglauben zu *überwinden*.
+
+  Le héros du film a *vaincu* le dragon et sauvé la princesse.
+  Der Held des Films hat den Drachen *besiegt* und die Prinzessin gerettet.
+
+  Nous devons *vaincre* notre dépendance aux énergies fossiles.
+  Wir müssen unsere Abhängigkeit von fossilen Brennstoffen *überwinden*.
+
+  L'explorateur a *vaincu* les dangers de la jungle amazonienne.
+  Der Entdecker hat die Gefahren des Amazonas-Dschungels *bezwungen*.
+
+  "J'ai enfin *vaincu* mon addiction au tabac", a-t-elle annoncé avec fierté.
+  "Ich habe endlich meine Tabaksucht *besiegt*", verkündete sie stolz.
+
+  Le temps finit toujours par *vaincre* les constructions les plus solides.
+  Die Zeit *besiegt* am Ende selbst die stabilsten Bauwerke.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

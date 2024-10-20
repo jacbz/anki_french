@@ -13,23 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je l’ai emmenée à la clinique.
-  Ich habe sie in die Klinik gebracht.
+  Je l'ai emmenée à la *clinique*.
+  Ich habe sie in die *Klinik* gebracht.
 
-  Je dois aller à la clinique demain.
-  Ich muss morgen in die Klinik gehen.
+  Le médecin a effectué un examen *clinique* approfondi.
+  Der Arzt führte eine gründliche *klinische* Untersuchung durch.
 
-  Elle a pris rendez-vous dans une clinique dermatologique pour un problème de peau.
-  Sie hat einen Termin in einer Hautklinik wegen eines Hautproblems vereinbart.
+  Cette *clinique* privée est réputée pour ses soins dermatologiques.
+  Diese private *Klinik* ist bekannt für ihre dermatologischen Behandlungen.
 
-  Il a été transféré à la clinique neurologique après l'accident.
-  Er wurde nach dem Unfall in die Nervenklinik verlegt.
+  Les étudiants en médecine suivent des cours de *clinique* au chevet des patients.
+  Die Medizinstudenten nehmen an *klinischem* Unterricht am Krankenbett teil.
 
-  Une nouvelle clinique pour les sidéens a ouvert ses portes dans le quartier.
-  Im Viertel wurde eine neue Aidsklinik eröffnet.
+  La *clinique* neurologique a récemment acquis un nouvel équipement d'imagerie cérébrale.
+  Die neurologische *Klinik* hat kürzlich neue Geräte für die Hirnbildgebung angeschafft.
 
-  J'ai passé un mois dans une clinique thérapeutique pour soigner mon addiction.
-  Ich habe einen Monat in einer Kurklinik verbracht, um meine Sucht zu behandeln.
+  Le tableau *clinique* du patient suggère une infection virale.
+  Das *klinische* Bild des Patienten deutet auf eine Virusinfektion hin.
+
+  Elle travaille comme chef de *clinique* dans un grand hôpital universitaire.
+  Sie arbeitet als *Oberärztin* in einem großen Universitätskrankenhaus.
+
+  Les signes *cliniques* de la maladie sont apparus soudainement.
+  Die *klinischen* Anzeichen der Krankheit traten plötzlich auf.
+
+  Cette *clinique* thérapeutique offre des programmes de réadaptation novateurs.
+  Diese *Kurklinik* bietet innovative Rehabilitationsprogramme an.
+
+  La mort *clinique* a été constatée à 15h30, mais les médecins ont continué la réanimation.
+  Der *klinische* Tod wurde um 15:30 Uhr festgestellt, aber die Ärzte setzten die Wiederbelebung fort.
+
+  Les résultats de laboratoire ont confirmé le diagnostic *clinique* initial.
+  Die Laborergebnisse haben die erste *klinische* Diagnose bestätigt.
+
+  La *clinique* ophtalmologique propose des consultations sans rendez-vous le samedi matin.
+  Die *Augenklinik* bietet am Samstagmorgen Sprechstunden ohne Termin an.
+
+  Le service de *clinique* cardiologique accueille des patients du monde entier.
+  Die kardiologische *Klinik* empfängt Patienten aus der ganzen Welt.
+
+  Les étudiants en dernière année de médecine passent leurs examens *cliniques* cette semaine.
+  Die Medizinstudenten im letzten Jahr legen diese Woche ihre *klinischen* Prüfungen ab.
+
+  Cette petite *clinique* de quarante lits offre des soins personnalisés.
+  Diese kleine *Klinik* mit vierzig Betten bietet personalisierte Pflege.
+
+  La médecine *clinique* met l'accent sur l'observation directe du patient.
+  Die *klinische* Medizin legt den Schwerpunkt auf die direkte Beobachtung des Patienten.
+
+  Les signes *cliniques* de la mort incluent l'absence de pouls et de respiration.
+  Zu den *klinischen* Todeszeichen gehören fehlender Puls und Atemstillstand.
+
+  La *clinique* conventionnée permet aux patients de bénéficier d'un remboursement plus élevé.
+  Die zugelassene *Klinik* ermöglicht es den Patienten, eine höhere Erstattung zu erhalten.
+
+  Le professeur de *clinique* a démontré la technique d'auscultation aux étudiants.
+  Der *Klinik*professor demonstrierte den Studenten die Auskultationstechnik.
+
+  L'examen *clinique* a révélé une anomalie que les tests n'avaient pas détectée.
+  Die *klinische* Untersuchung deckte eine Anomalie auf, die die Tests nicht erkannt hatten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

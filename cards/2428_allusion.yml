@@ -13,14 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le texte auquel vous faites allusion date de 1989.
-  Der Text, auf den Sie sich beziehen, stammt aus dem Jahr 1989.
+  Le texte auquel vous faites *allusion* date de 1989.
+  Der Text, auf den Sie *anspielen*, stammt aus dem Jahr 1989.
 
-  Il a fait une allusion à notre conversation précédente.
-  Er hat eine Anspielung auf unser vorheriges Gespräch gemacht.
+  J'ai compris son *allusion* à mon ancien emploi.
+  Ich habe seine *Anspielung* auf meinen früheren Job verstanden.
 
-  Le professeur a fait allusion à la récente crise économique dans son discours.
-  Der Professor hat in seiner Rede eine Anspielung auf die jüngste Wirtschaftskrise gemacht.
+  Cette *allusion* voilée à son passé l'a mis mal à l'aise.
+  Diese versteckte *Anspielung* auf seine Vergangenheit hat ihn verlegen gemacht.
+
+  Le professeur a fait une *allusion* à Shakespeare dans son cours.
+  Der Lehrer machte in seinem Unterricht eine *Anspielung* auf Shakespeare.
+
+  Son discours était rempli d'*allusions* littéraires.
+  Seine Rede war voller literarischer *Anspielungen*.
+
+  Elle a fait une *allusion* discrète à la surprise-partie.
+  Sie machte eine dezente *Anspielung* auf die Überraschungsparty.
+
+  Les *allusions* constantes à son âge l'agaçaient.
+  Die ständigen *Anspielungen* auf sein Alter ärgerten ihn.
+
+  "As-tu saisi mon *allusion* ?" demanda-t-elle en souriant.
+  "Hast du meine *Anspielung* verstanden?", fragte sie lächelnd.
+
+  Le roman contient de nombreuses *allusions* historiques.
+  Der Roman enthält zahlreiche historische *Anspielungen*.
+
+  Il a parlé par *allusions*, sans jamais nommer directement les personnes concernées.
+  Er sprach in *Andeutungen*, ohne die betreffenden Personen jemals direkt zu nennen.
+
+  L'*allusion* au scandale récent n'a pas échappé aux journalistes.
+  Die *Anspielung* auf den jüngsten Skandal entging den Journalisten nicht.
+
+  Cette publicité fait *allusion* à un film culte des années 80.
+  Diese Werbung *spielt* auf einen Kultfilm der 80er Jahre *an*.
+
+  Les enfants n'ont pas compris l'*allusion* dans la blague de leur grand-père.
+  Die Kinder haben die *Anspielung* im Witz ihres Großvaters nicht verstanden.
+
+  "Je ne faisais aucune *allusion* à toi", s'est-elle défendue.
+  "Ich habe in keiner Weise auf dich *angespielt*", verteidigte sie sich.
+
+  Sa remarque contenait une *allusion* à peine voilée à mon échec.
+  Seine Bemerkung enthielt eine kaum verhüllte *Anspielung* auf mein Scheitern.
+
+  L'*allusion* à ses origines l'a profondément blessé.
+  Die *Anspielung* auf seine Herkunft hat ihn zutiefst verletzt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

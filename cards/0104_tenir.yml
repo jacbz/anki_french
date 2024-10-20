@@ -13,38 +13,185 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je tiens le livre dans ma main.
-  Ich halte das Buch in meiner Hand.
+  Je *tiens* le livre dans ma main.
+  Ich *halte* das Buch in meiner Hand.
 
-  La petite fille s'est blottie contre sa mère, qui la tenait sur ses genoux.
-  Die kleine Tochter kuschelte sich an ihre Mutter, die sie auf dem Schoß hatte.
+  L'enfant *tient* son ours en peluche contre sa poitrine.
+  Das Kind *hält* seinen Teddybär an seine Brust gedrückt.
 
-  Ils se tenaient par la main, en marchant le long de la plage.
-  Sie gingen Hand in Hand am Strand entlang.
+  Elle *tenait* son verre loin d'elle pour éviter de le renverser.
+  Sie *hielt* ihr Glas von sich weg, um es nicht zu verschütten.
 
-  Pendant le concert, elle tenait les yeux fermés, absorbée par la musique.
-  Während des Konzertes hielt sie die Augen geschlossen, versunken in der Musik.
+  Le grand-père *tient* sa petite-fille sur ses genoux.
+  Der Großvater *hat* seine Enkelin auf dem Schoß.
 
-  Il tenait la chambre, car il était malade.
-  Er blieb im Zimmer, da er krank war.
+  Essayez de *tenir* vos yeux ouverts pendant que je les examine.
+  Versuchen Sie, Ihre Augen offen zu *halten*, während ich sie untersuche.
 
-  Elle tenait une information de sa voisine, qui était très importante.
-  Sie hatte eine Information von ihrer Nachbarin, die sehr wichtig war.
+  Le patient doit *tenir* le lit pendant une semaine.
+  Der Patient muss eine Woche lang im Bett *bleiben*.
 
-  Il tenait ce chanteur pour un talent, mais les critiques étaient moins enthousiastes.
-  Er hielt diesen Sänger für ein Talent, aber die Kritiker waren weniger begeistert.
+  Notre magasin *tient* une grande variété de produits locaux.
+  Unser Geschäft *führt* eine große Auswahl an lokalen Produkten.
 
-  Elle tenait à ce que tout soit en ordre dans sa maison.
-  Sie legte Wert darauf, dass alles in ihrer Wohnung ordentlich war.
+  Il a du mal à *tenir* son sérieux face à cette situation comique.
+  Er hat Schwierigkeiten, angesichts dieser komischen Situation *ernst zu bleiben*.
 
-  Cinq personnes tenaient dans la petite voiture.
-  Fünf Personen hatten in dem kleinen Auto Platz.
+  Le chanteur a réussi à *tenir* la note pendant plusieurs secondes.
+  Der Sänger schaffte es, den Ton mehrere Sekunden lang zu *halten*.
 
-  Le discours du président pouvait se tenir en un mot: "espoir".
-  Die Rede des Präsidenten ließ sich in einem Wort zusammenfassen: "Hoffnung".
+  Le cavalier expérimenté *tient* fermement les rênes de son cheval.
+  Der erfahrene Reiter *hält* die Zügel seines Pferdes fest.
 
-  Il se tenait debout, le dos droit, et regardait le paysage.
-  Er stand da, den Rücken gerade, und betrachtete die Landschaft.
+  Ma grand-mère *tenait* un petit hôtel dans les montagnes.
+  Meine Großmutter *führte* ein kleines Hotel in den Bergen.
+
+  Le professeur va *tenir* une conférence sur l'histoire de l'art demain.
+  Der Professor wird morgen einen Vortrag über Kunstgeschichte *halten*.
+
+  L'actrice *tient* le rôle principal dans ce nouveau film.
+  Die Schauspielerin *spielt* die Hauptrolle in diesem neuen Film.
+
+  Je *tiens* cette information d'une source fiable.
+  Ich *habe* diese Information von einer zuverlässigen Quelle.
+
+  Ce meuble *tient* toute la largeur du mur.
+  Dieses Möbelstück *nimmt* die ganze Breite der Wand *ein*.
+
+  Cette bouteille *tient* deux litres d'eau.
+  Diese Flasche *fasst* zwei Liter Wasser.
+
+  Ces bottes *tiennent* bien l'eau, elles sont parfaites pour la randonnée.
+  Diese Stiefel sind gut wasserdicht, sie sind perfekt zum Wandern.
+
+  La lecture de ce roman m'a *tenu* en haleine toute la nuit.
+  Die Lektüre dieses Romans *hat* mich die ganze Nacht in Atem *gehalten*.
+
+  Ne me *tiens* pas, je dois partir maintenant.
+  *Halte* mich nicht *auf*, ich muss jetzt gehen.
+
+  La jalousie le *tenait* depuis qu'il avait vu sa femme parler à son ex.
+  Die Eifersucht *packte* ihn, seit er seine Frau mit ihrem Ex reden gesehen hatte.
+
+  En tant que médecin, vous êtes *tenu* au secret professionnel.
+  Als Arzt sind Sie an die Schweigepflicht *gebunden*.
+
+  Les employés sont *tenus* de respecter les règles de sécurité.
+  Die Angestellten *müssen* die Sicherheitsvorschriften einhalten.
+
+  Il est juridiquement *tenu* de payer une pension alimentaire.
+  Er ist rechtlich *verpflichtet*, Unterhalt zu zahlen.
+
+  "*Tiens* ta langue, tu vas nous attirer des ennuis !" chuchota-t-elle.
+  "*Halt* den Mund, du wirst uns Ärger einbrocken!" flüsterte sie.
+
+  Son sourire *tient* lieu de réponse.
+  Sein Lächeln *nimmt* die Stelle einer Antwort *ein*.
+
+  Elle *tient* beaucoup à sa famille et passe du temps avec eux chaque semaine.
+  Sie *hängt* sehr an ihrer Familie und verbringt jede Woche Zeit mit ihnen.
+
+  Je *tiens* à ce que tout soit parfait pour la cérémonie.
+  Ich *lege* Wert darauf, dass alles perfekt für die Zeremonie ist.
+
+  Son succès *tient* à son travail acharné et à sa persévérance.
+  Sein Erfolg ist auf seine harte Arbeit und Ausdauer *zurückzuführen*.
+
+  Cette étagère *tient* bien au mur, pas besoin de la renforcer.
+  Dieses Regal *hält* gut an der Wand, es muss nicht verstärkt werden.
+
+  Son argumentation ne *tient* pas la route, il y a trop de contradictions.
+  Seine Argumentation ist nicht *stichhaltig*, es gibt zu viele Widersprüche.
+
+  Le plan initial ne *tient* plus, nous devons trouver une alternative.
+  Der ursprüngliche Plan *steht* nicht mehr, wir müssen eine Alternative finden.
+
+  Malgré la pression, il a *tenu* bon et n'a pas cédé.
+  Trotz des Drucks hat er *durchgehalten* und nicht nachgegeben.
+
+  Toutes ces affaires ne *tiendront* pas dans une seule valise.
+  All diese Sachen werden nicht in einen einzigen Koffer *passen*.
+
+  Son discours *tenait* en trois points principaux.
+  Seine Rede ließ sich in drei Hauptpunkten *zusammenfassen*.
+
+  Ce yaourt se *tiendra* au frais pendant une semaine.
+  Dieser Joghurt wird sich eine Woche lang im Kühlschrank *halten*.
+
+  Cette fille *tient* beaucoup de sa mère, elles ont le même sourire.
+  Dieses Mädchen *ähnelt* sehr ihrer Mutter, sie haben das gleiche Lächeln.
+
+  Notre jardin *tient* à celui des voisins.
+  Unser Garten *grenzt* an den der Nachbarn.
+
+  Dans ce jeu de cartes, l'as *tient* toujours.
+  In diesem Kartenspiel *sticht* das Ass immer.
+
+  "*Tiens* bon, nous sommes presque arrivés !" encouragea-t-il son ami fatigué.
+  "*Halte durch*, wir sind fast da!" ermutigte er seinen müden Freund.
+
+  "*Tiens* ! Je ne m'attendais pas à te voir ici," dit-elle surprise.
+  "*Schau an*! Ich habe nicht erwartet, dich hier zu sehen," sagte sie überrascht.
+
+  Il n'y *tenait* plus et a fini par avouer la vérité.
+  Er *hielt* es nicht mehr *aus* und gestand schließlich die Wahrheit.
+
+  Les manifestants se *tenaient* par la main en signe de solidarité.
+  Die Demonstranten *gingen* Hand in Hand als Zeichen der Solidarität.
+
+  Elle se *tenait* à la rampe pour monter les escaliers.
+  Sie *hielt* sich am Geländer fest, um die Treppe hinaufzugehen.
+
+  Veuillez vous *tenir* debout pendant l'hymne national.
+  Bitte *bleiben* Sie während der Nationalhymne stehen.
+
+  Les enfants, *tenez*-vous bien pendant le spectacle !
+  Kinder, *benehmt* euch gut während der Aufführung!
+
+  La conférence se *tiendra* dans l'auditorium principal le mois prochain.
+  Die Konferenz wird nächsten Monat im Hauptauditorium *stattfinden*.
+
+  Son histoire ne se *tient* pas, il y a trop d'incohérences.
+  Seine Geschichte ist nicht *stimmig*, es gibt zu viele Unstimmigkeiten.
+
+  Je m'en *tiendrai* à ce qui a été convenu lors de la réunion.
+  Ich werde es bei dem *bewenden lassen*, was in der Sitzung vereinbart wurde.
+
+  Il faut se *tenir* aux règles du jeu pour que ce soit équitable.
+  Man muss sich an die Spielregeln *halten*, damit es fair bleibt.
+
+  Ne vous *tenez* pas pour battu, il y a encore de l'espoir !
+  *Halten* Sie sich nicht für geschlagen, es gibt noch Hoffnung!
+
+  *Tenez*-le vous pour dit : je ne répéterai pas cet avertissement.
+  *Lassen* Sie sich das gesagt sein: Ich werde diese Warnung nicht wiederholen.
+
+  Après cette conversation, je sais à quoi m'en *tenir* avec lui.
+  Nach diesem Gespräch weiß ich, woran ich bei ihm *bin*.
+
+  Ça *tient* à peu de chose qu'il n'ait pas eu l'emploi.
+  Es *hängt* von Kleinigkeiten ab, dass er den Job nicht bekommen hat.
+
+  Il ne *tient* qu'à vous de saisir cette opportunité.
+  Es *hängt* nur von Ihnen ab, diese Gelegenheit zu ergreifen.
+
+  "Qu'à cela ne *tienne* !" dit-il en trouvant une solution alternative.
+  "Daran soll es nicht *liegen*!" sagte er, als er eine alternative Lösung fand.
+
+  Elle *tient* à sa réputation comme à la prunelle de ses yeux.
+  Sie *legt* auf ihren Ruf so viel Wert wie auf ihren Augapfel.
+
+  Le succès de l'entreprise *tient* en grande partie à son équipe dévouée.
+  Der Erfolg des Unternehmens ist größtenteils auf sein engagiertes Team *zurückzuführen*.
+
+  *Tenez*-vous prêt, le départ est imminent.
+  *Halten* Sie sich bereit, der Start steht unmittelbar bevor.
+
+  Cette décision ne me *tient* pas à cœur, mais je la respecterai.
+  Diese Entscheidung liegt mir nicht am Herzen, aber ich werde mich daran *halten*.
+
+  Le pont *tient* bon malgré les fortes intempéries.
+  Die Brücke *hält* trotz des schweren Unwetters stand.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

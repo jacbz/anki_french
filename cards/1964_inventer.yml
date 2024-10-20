@@ -13,17 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je n’ai pas pu inventer un tel souvenir.
-  Ich konnte mir eine solche Erinnerung nicht ausdenken.
+  Je n'ai pas pu *inventer* un tel souvenir.
+  Ich konnte mir eine solche Erinnerung nicht *ausdenken*.
 
-  Il a inventé une nouvelle machine.
-  Er hat eine neue Maschine erfunden.
+  Les Chinois ont *inventé* l'imprimerie au XIe siècle.
+  Die Chinesen haben im 11. Jahrhundert den Buchdruck *erfunden*.
 
-  Ça ne s'invente pas, c'est vraiment arrivé.
-  Das ist nicht erfunden, das ist wirklich passiert.
+  Elle a *inventé* une histoire pour justifier son retard.
+  Sie hat sich eine Geschichte *ausgedacht*, um ihre Verspätung zu rechtfertigen.
 
-  Ça ne s'invente pas, c'est tellement incroyable.
-  Das ist nicht erfunden, das ist so unglaublich.
+  "Je te jure que je n'*invente* rien, c'est vraiment arrivé !"
+  "Ich schwöre dir, ich *erfinde* nichts, das ist wirklich passiert!"
+
+  Les scientifiques cherchent à *inventer* de nouveaux traitements contre le cancer.
+  Die Wissenschaftler versuchen, neue Behandlungsmethoden gegen Krebs zu *erfinden*.
+
+  Il faut *inventer* de nouvelles solutions pour lutter contre le changement climatique.
+  Wir müssen neue Lösungen *erfinden*, um den Klimawandel zu bekämpfen.
+
+  "Ce type n'a vraiment pas *inventé* l'eau chaude !"
+  "Dieser Typ hat wirklich das Pulver nicht *erfunden*!"
+
+  Les enfants adorent *inventer* des jeux imaginaires.
+  Kinder lieben es, sich Fantasiespiele *auszudenken*.
+
+  L'entreprise a *inventé* un nouveau procédé de fabrication plus écologique.
+  Das Unternehmen hat ein neues, umweltfreundlicheres Herstellungsverfahren *erfunden*.
+
+  On ne peut pas *inventer* l'amour, il faut le cultiver.
+  Man kann Liebe nicht *erfinden*, man muss sie pflegen.
+
+  "Arrête d'*inventer* des excuses et dis-moi la vérité !"
+  "Hör auf, dir Ausreden *auszudenken*, und sag mir die Wahrheit!"
+
+  Les poètes *inventent* des mondes avec leurs mots.
+  Dichter *erfinden* Welten mit ihren Worten.
+
+  Il a *inventé* de toutes pièces cette histoire pour impressionner ses amis.
+  Er hat diese Geschichte völlig frei *erfunden*, um seine Freunde zu beeindrucken.
+
+  Chaque génération doit *inventer* sa propre façon de vivre.
+  Jede Generation muss ihre eigene Art zu leben *erfinden*.
+
+  "Ce sont des choses qui ne s'*inventent* pas !"
+  "Das sind Dinge, die man sich nicht *ausdenken* kann!"
+
+  Les mathématiciens *inventent* parfois de nouveaux concepts pour résoudre des problèmes complexes.
+  Mathematiker *erfinden* manchmal neue Konzepte, um komplexe Probleme zu lösen.
+
+  Elle a dû *inventer* un prétexte pour ne pas assister à la réunion.
+  Sie musste sich einen Vorwand *ausdenken*, um nicht an dem Treffen teilzunehmen.
+
+  Les créateurs de mode *inventent* constamment de nouvelles tendances.
+  Modedesigner *erfinden* ständig neue Trends.
+
+  "Je n'ai rien *inventé*, j'ai simplement rapporté les faits."
+  "Ich habe nichts *erfunden*, ich habe einfach nur die Tatsachen berichtet."
+
+  L'artiste a *inventé* une nouvelle technique de peinture.
+  Der Künstler hat eine neue Maltechnik *erfunden*.
+
+  On ne peut pas *inventer* le passé, mais on peut imaginer l'avenir.
+  Man kann die Vergangenheit nicht *erfinden*, aber man kann sich die Zukunft vorstellen.
+
+  Les philosophes *inventent* parfois de nouveaux concepts pour expliquer le monde.
+  Philosophen *erfinden* manchmal neue Konzepte, um die Welt zu erklären.
+
+  "Il faut *inventer* sa vie chaque jour", disait le poète.
+  "Man muss sein Leben jeden Tag neu *erfinden*", sagte der Dichter.
+
+  L'écrivain a *inventé* un personnage fascinant pour son nouveau roman.
+  Der Schriftsteller hat eine faszinierende Figur für seinen neuen Roman *erfunden*.
+
+  Les publicistes doivent constamment *inventer* de nouveaux slogans accrocheurs.
+  Werbefachleute müssen ständig neue einprägsame Slogans *erfinden*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

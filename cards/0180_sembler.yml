@@ -13,56 +13,101 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le processus semble irréversible.
-  Der Prozess scheint unumkehrbar zu sein.
+  Le processus *semble* irréversible.
+  Der Prozess *scheint* unumkehrbar zu sein.
 
-  Elle semble fatiguée.
-  Sie scheint müde zu sein.
+  La situation *semble* s'améliorer de jour en jour.
+  Die Situation *scheint* sich von Tag zu Tag zu verbessern.
 
-  Il semble qu’il va pleuvoir aujourd’hui.
-  Es sieht so aus, als ob es heute regnen wird.
+  Il *semble* que nous ayons sous-estimé la difficulté du projet.
+  Es *scheint*, dass wir die Schwierigkeit des Projekts unterschätzt haben.
 
-  Cette robe semble trop grande pour toi.
-  Das Kleid scheint zu groß für dich zu sein.
+  Cette solution ne *semble* pas appropriée dans ce contexte.
+  Diese Lösung *erscheint* in diesem Kontext nicht angemessen.
 
-  Il semble qu’elle soit très contente de son nouveau travail.
-  Es scheint, dass sie mit ihrer neuen Arbeit sehr zufrieden ist.
+  *Semble-t-il*, le train aura du retard aujourd'hui.
+  Der Zug wird heute, wie es *scheint*, Verspätung haben.
 
-  Les voisins semblent très bruyants.
-  Die Nachbarn scheinen sehr laut zu sein.
+  Le candidat *semblait* nerveux pendant l'entretien.
+  Der Kandidat *wirkte* während des Vorstellungsgesprächs nervös.
 
-  Cela semble être un problème très difficile à résoudre.
-  Dies scheint ein sehr schwer zu lösendes Problem zu sein.
+  Cela *semble* être une bonne idée, mais réfléchissons-y davantage.
+  Das *scheint* eine gute Idee zu sein, aber lasst uns darüber noch einmal nachdenken.
 
-  Il semble inutile d'espérer une solution à ce problème.
-  Es wäre zwecklos, zu hoffen, dass es eine Lösung für dieses Problem gibt.
+  Il me *semble* avoir déjà vu ce film quelque part.
+  Ich *glaube*, diesen Film schon irgendwo gesehen zu haben.
 
-  Il me semble inutile de le déranger pour une si petite chose.
-  Es ist nicht nötig, ihn wegen so einer Kleinigkeit zu stören.
+  Les résultats *semblent* prometteurs, mais il faut rester prudent.
+  Die Ergebnisse *scheinen* vielversprechend, aber wir müssen vorsichtig bleiben.
 
-  Il me semble bien vous avoir déjà rencontré au marché, il y a quelques semaines.
-  Ich habe das Gefühl, Ihnen schon einmal auf dem Markt begegnet zu sein, vor ein paar Wochen.
+  Cette théorie *semble* expliquer de nombreux phénomènes inexpliqués.
+  Diese Theorie *scheint* viele unerklärte Phänomene zu erklären.
 
-  Tu me sembles nerveux. As-tu des problèmes ?
-  Mir scheint, du bist nervös. Hast du Probleme?
+  Le suspect *semblait* calme lors de son interrogatoire.
+  Der Verdächtige *wirkte* während seines Verhörs ruhig.
 
-  Cet appartement semble lui convenir. Il a l'air très content.
-  Die Wohnung scheint ihm zu gefallen. Er wirkt sehr zufrieden.
+  Il *semble* que nous ayons trouvé la solution à ce problème.
+  Es *sieht so aus*, als hätten wir die Lösung für dieses Problem gefunden.
 
-  Il semble que la situation s'est aggravée depuis notre dernière conversation.
-  Es sieht ganz so aus, als habe sich die Lage seit unserem letzten Gespräch verschlimmert.
+  Cette décision *semble* avoir été prise à la hâte.
+  Diese Entscheidung *scheint* überstürzt getroffen worden zu sein.
 
-  Il semblerait qu'elle ait oublié son rendez-vous avec le médecin. Elle n'est pas là.
-  Allem Anschein nach hat sie ihre Verabredung mit dem Arzt vergessen. Sie ist nicht da.
+  Le temps *semble* s'écouler plus lentement quand on s'ennuie.
+  Die Zeit *scheint* langsamer zu vergehen, wenn man sich langweilt.
 
-  Il semble probable que demain il fera beau. Le soleil brille déjà.
-  Wahrscheinlich wird es morgen schön. Die Sonne scheint schon.
+  Cet argument ne *semble* pas très convaincant.
+  Dieses Argument *wirkt* nicht sehr überzeugend.
 
-  Il nous semble souhaitable de partir de bonne heure pour éviter les embouteillages.
-  Wir halten es für wünschenswert, frühzeitig loszufahren, um den Stau zu vermeiden.
+  Il me *semble* que vous avez mal compris mes intentions.
+  Mir *scheint*, Sie haben meine Absichten falsch verstanden.
 
-  Il vous semble que j'exagère ? Je pense que c'est un problème sérieux.
-  Haben Sie das Gefühl, dass ich übertreibe? Ich finde, es ist ein ernstes Problem.
+  La maison *semblait* abandonnée depuis des années.
+  Das Haus *schien* seit Jahren verlassen zu sein.
+
+  Cette méthode *semble* plus efficace que la précédente.
+  Diese Methode *scheint* effektiver zu sein als die vorherige.
+
+  Le patient *semble* réagir positivement au traitement.
+  Der Patient *scheint* positiv auf die Behandlung anzusprechen.
+
+  Il *semble* que nous ayons sous-estimé l'ampleur du problème.
+  Es *scheint*, dass wir das Ausmaß des Problems unterschätzt haben.
+
+  Cette offre *semble* trop belle pour être vraie.
+  Dieses Angebot *erscheint* zu gut, um wahr zu sein.
+
+  Les choses ne sont pas toujours ce qu'elles *semblent* être.
+  Die Dinge sind nicht immer so, wie sie zu *sein scheinen*.
+
+  Il *semblerait* que le concert soit annulé à cause de la pluie.
+  Es *sieht danach aus*, dass das Konzert wegen des Regens abgesagt wird.
+
+  Cette explication *semble* logique, mais est-elle vraiment exacte ?
+  Diese Erklärung *klingt* logisch, aber ist sie wirklich korrekt?
+
+  Le nouveau chef *semble* avoir de bonnes idées pour l'entreprise.
+  Der neue Chef *scheint* gute Ideen für das Unternehmen zu haben.
+
+  Il me *semble* que nous nous sommes déjà rencontrés quelque part.
+  Mir *kommt es so vor*, als hätten wir uns schon irgendwo getroffen.
+
+  La situation *semble* évoluer en notre faveur.
+  Die Situation *scheint* sich zu unseren Gunsten zu entwickeln.
+
+  Cette tâche *semble* plus compliquée qu'elle ne l'est en réalité.
+  Diese Aufgabe *wirkt* komplizierter, als sie in Wirklichkeit ist.
+
+  Il *semble* que nous ayons mal interprété les données.
+  Es *scheint*, dass wir die Daten falsch interpretiert haben.
+
+  Le problème *semble* résolu, mais restons vigilants.
+  Das Problem *scheint* gelöst zu sein, aber lasst uns wachsam bleiben.
+
+  Cette décision ne *semble* pas avoir été prise à la légère.
+  Diese Entscheidung *scheint* nicht leichtfertig getroffen worden zu sein.
+
+  Il *semble* que le temps se soit arrêté dans ce petit village.
+  Es *wirkt*, als sei die Zeit in diesem kleinen Dorf stehen geblieben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

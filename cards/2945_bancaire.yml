@@ -13,17 +13,44 @@ Register: ↘Fiktion ↗Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’entreprise offre des services bancaires aux particuliers et aux sociétés.
-  Das Unternehmen bietet Bankdienstleistungen für Privatpersonen und Unternehmen an.
+  L'entreprise offre des services *bancaires* aux particuliers et aux sociétés.
+  Das Unternehmen bietet *Bank*dienstleistungen für Privatpersonen und Unternehmen an.
 
-  Le secteur bancaire est en crise.
-  Der Bankensektor befindet sich in einer Krise.
+  J'ai besoin d'ouvrir un compte *bancaire* pour recevoir mon salaire.
+  Ich muss ein *Bank*konto eröffnen, um mein Gehalt zu erhalten.
 
-  J'ai ouvert un compte bancaire à la banque de ma ville.
-  Ich habe ein Bankkonto bei der Bank in meiner Stadt eröffnet.
+  Le système *bancaire* joue un rôle crucial dans l'économie mondiale.
+  Das *Bank*ensystem spielt eine entscheidende Rolle in der Weltwirtschaft.
 
-  La banque a refusé l'acceptation bancaire.
-  Die Bank hat das Bankakzept abgelehnt.
+  Elle a reçu un relevé *bancaire* détaillant toutes ses transactions du mois.
+  Sie hat einen *Bank*auszug erhalten, der alle ihre Transaktionen des Monats auflistet.
+
+  Les taux d'intérêt *bancaires* ont considérablement baissé ces dernières années.
+  Die *Bank*zinsen sind in den letzten Jahren erheblich gesunken.
+
+  Pour obtenir un prêt *bancaire*, il faut souvent fournir de nombreuses garanties.
+  Um einen *Bank*kredit zu erhalten, muss man oft viele Sicherheiten vorweisen.
+
+  L'agence *bancaire* du centre-ville fermera ses portes le mois prochain.
+  Die *Bank*filiale in der Innenstadt wird nächsten Monat schließen.
+
+  Les transferts *bancaires* internationaux peuvent prendre plusieurs jours ouvrables.
+  Internationale *Bank*überweisungen können mehrere Werktage dauern.
+
+  La confidentialité *bancaire* est un principe fondamental dans de nombreux pays.
+  Das *Bank*geheimnis ist in vielen Ländern ein grundlegendes Prinzip.
+
+  L'application *bancaire* sur son smartphone lui permet de gérer ses finances facilement.
+  Die *Bank*-App auf ihrem Smartphone ermöglicht es ihr, ihre Finanzen einfach zu verwalten.
+
+  Le conseiller *bancaire* m'a aidé à choisir le meilleur plan d'épargne.
+  Der *Bank*berater hat mir geholfen, den besten Sparplan auszuwählen.
+
+  Les fraudes *bancaires* en ligne sont de plus en plus sophistiquées.
+  Online-*Bank*betrug wird immer ausgefeilter.
+
+  L'étudiant a demandé un découvert *bancaire* pour couvrir ses frais de scolarité.
+  Der Student hat einen *Bank*überziehungskredit beantragt, um seine Studiengebühren zu decken.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

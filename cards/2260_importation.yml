@@ -13,35 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le Japon envisage de s’ouvrir aux importations de riz.
-  Japan erwägt, sich für Reisimporte zu öffnen.
+  Le Japon envisage de s'ouvrir aux *importations* de riz.
+  Japan erwägt, sich für Reis*importe* zu öffnen.
 
-  L’importation de produits étrangers est en hausse.
-  Der Import ausländischer Produkte nimmt zu.
+  Les *importations* de pétrole ont augmenté de 10% cette année.
+  Die Öl*einfuhren* sind in diesem Jahr um 10% gestiegen.
 
-  L'importation de données est un processus important pour les entreprises.
-  Datenimport ist ein wichtiger Prozess für Unternehmen.
+  Notre entreprise se spécialise dans l'*importation* de vins français.
+  Unser Unternehmen spezialisiert sich auf den *Import* französischer Weine.
 
-  Les importations privées sont réglementées par le gouvernement.
-  Privateinfuhren werden von der Regierung reguliert.
+  Le gouvernement a imposé des restrictions sur l'*importation* de certains produits.
+  Die Regierung hat Beschränkungen für die *Einfuhr* bestimmter Produkte verhängt.
 
-  L'importation de marchandises est un secteur en plein essor.
-  Die Wareneinfuhr ist ein wachsender Sektor.
+  L'*importation* de données dans le nouveau logiciel a pris plusieurs heures.
+  Der Daten*import* in die neue Software hat mehrere Stunden gedauert.
 
-  Le produit d'importation est généralement moins cher que le produit local.
-  Einfuhrgüter sind in der Regel günstiger als lokale Produkte.
+  "Cette viande est un produit d'*importation*", a expliqué le boucher.
+  "Dieses Fleisch ist ein *Import*produkt", erklärte der Metzger.
 
-  La marchandise d'importation est soumise à des taxes douanières.
-  Importware wird mit Zollgebühren belegt.
+  Les *importations* de voitures étrangères ont chuté suite aux nouvelles taxes.
+  Die *Einfuhren* ausländischer Autos sind nach den neuen Steuern eingebrochen.
 
-  L'importation de viande est soumise à des contrôles sanitaires stricts.
-  Importfleisch unterliegt strengen Gesundheitskontrollen.
+  L'*importation* de technologies avancées est cruciale pour notre développement industriel.
+  Die *Einfuhr* fortschrittlicher Technologien ist entscheidend für unsere industrielle Entwicklung.
 
-  La société d'importation a un grand réseau de fournisseurs.
-  Die Importfirma verfügt über ein großes Netzwerk von Lieferanten.
+  La société d'*importation* a dû faire face à de nombreux défis logistiques.
+  Die *Import*firma musste sich vielen logistischen Herausforderungen stellen.
 
-  La croissance des importations a un impact positif sur l'économie.
-  Der Importzuwachs hat positive Auswirkungen auf die Wirtschaft.
+  L'*importation* de cette maladie a été causée par des voyageurs non vaccinés.
+  Die *Einschleppung* dieser Krankheit wurde durch ungeimpfte Reisende verursacht.
+
+  Le coût des *importations* a considérablement augmenté en raison de la hausse du prix du carburant.
+  Die Kosten für *Einfuhren* sind aufgrund der gestiegenen Treibstoffpreise erheblich gestiegen.
+
+  L'*importation* de main-d'œuvre qualifiée est devenue nécessaire dans certains secteurs.
+  Die *Einfuhr* qualifizierter Arbeitskräfte ist in einigen Sektoren notwendig geworden.
+
+  Les douanes ont saisi une cargaison d'*importation* illégale hier soir.
+  Der Zoll hat gestern Abend eine illegale *Import*ladung beschlagnahmt.
+
+  L'*importation* de nouvelles idées peut stimuler l'innovation dans une entreprise.
+  Die *Einführung* neuer Ideen kann die Innovation in einem Unternehmen fördern.
+
+  La balance commerciale s'est détériorée en raison de l'augmentation des *importations*.
+  Die Handelsbilanz hat sich aufgrund der gestiegenen *Einfuhren* verschlechtert.
+
+  L'*importation* de fruits exotiques a considérablement augmenté ces dernières années.
+  Der *Import* exotischer Früchte hat in den letzten Jahren erheblich zugenommen.
+
+  Le ministère du Commerce a délivré une nouvelle licence d'*importation* à notre société.
+  Das Handelsministerium hat unserem Unternehmen eine neue *Import*lizenz erteilt.
+
+  L'*importation* de ce vaccin pourrait sauver de nombreuses vies dans notre pays.
+  Die *Einfuhr* dieses Impfstoffs könnte in unserem Land viele Leben retten.
+
+  Les petites entreprises ont du mal à faire face aux coûts d'*importation* élevés.
+  Kleine Unternehmen haben Schwierigkeiten, mit den hohen *Import*kosten umzugehen.
+
+  L'*importation* de certaines espèces animales est strictement réglementée pour protéger l'écosystème local.
+  Die *Einfuhr* bestimmter Tierarten ist zum Schutz des lokalen Ökosystems streng reguliert.
+
+  Notre pays dépend fortement des *importations* de matières premières pour son industrie.
+  Unser Land ist für seine Industrie stark von *Einfuhren* von Rohstoffen abhängig.
+
+  L'*importation* de cette mode vestimentaire a rapidement conquis les jeunes consommateurs.
+  Die *Einführung* dieses Kleidungsstils hat schnell die jungen Verbraucher erobert.
+
+  Le logiciel permet l'*importation* rapide et facile de fichiers de différents formats.
+  Die Software ermöglicht den schnellen und einfachen *Import* von Dateien verschiedener Formate.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

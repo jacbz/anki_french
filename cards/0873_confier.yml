@@ -13,17 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je te confie ce garçon. Rends-moi un homme.
-  Ich vertraue dir diesen Jungen an. Gib mir einen Mann zurück.
+  Je te *confie* ce garçon. Rends-moi un homme.
+  Ich *vertraue* dir diesen Jungen an. Mach einen Mann aus ihm.
 
-  Je lui ai confié mes clés.
-  Ich habe ihm meine Schlüssel anvertraut.
+  Elle a *confié* ses craintes à son journal intime.
+  Sie hat ihre Ängste ihrem Tagebuch *anvertraut*.
 
-  Le chef a confié une mission importante à son assistant.
-  Der Chef hat seinen Assistenten mit einem wichtigen Auftrag betraut.
+  Le directeur m'a *confié* une mission importante.
+  Der Direktor hat mich mit einer wichtigen Aufgabe *betraut*.
 
-  J'ai décidé de me confier à mon meilleur ami, car j'ai besoin de parler à quelqu'un.
-  Ich habe mich entschlossen, meinem besten Freund mein Herz auszuschütten, weil ich mit jemandem reden muss.
+  Je dois *confier* les clés à la voisine pendant mes vacances.
+  Ich muss der Nachbarin während meines Urlaubs die Schlüssel *anvertrauen*.
+
+  Pierre s'est *confié* à moi hier soir.
+  Pierre hat sich mir gestern Abend *anvertraut*.
+
+  Nous lui avons *confié* la responsabilité du projet.
+  Wir haben ihm die Verantwortung für das Projekt *übertragen*.
+
+  Les parents *confient* leurs enfants à la garderie tous les matins.
+  Die Eltern *vertrauen* ihre Kinder jeden Morgen der Kindertagesstätte *an*.
+
+  Je me suis *confié* à ma sœur sur mes problèmes.
+  Ich habe mich meiner Schwester mit meinen Problemen *anvertraut*.
+
+  Il m'a *confié* qu'il allait déménager.
+  Er hat mir *mitgeteilt*, dass er umziehen wird.
+
+  La banque nous a *confié* la gestion de ses documents.
+  Die Bank hat uns die Verwaltung ihrer Dokumente *anvertraut*.
+
+  Marie *confie* toujours ses secrets à sa meilleure amie.
+  Marie *vertraut* ihrer besten Freundin immer ihre Geheimnisse *an*.
+
+  Le patient s'est *confié* au médecin sur ses symptômes.
+  Der Patient hat sich dem Arzt bezüglich seiner Symptome *anvertraut*.
+
+  Je vous *confie* ma santé, docteur.
+  Ich *vertraue* Ihnen meine Gesundheit *an*, Doktor.
+
+  Elle a *confié* la garde du chat à ses voisins.
+  Sie hat die Betreuung der Katze ihren Nachbarn *anvertraut*.
+
+  Il m'a *confié* ses espoirs pour l'avenir.
+  Er hat mir seine Hoffnungen für die Zukunft *anvertraut*.
+
+  Nous devons *confier* ces documents à l'avocat.
+  Wir müssen diese Dokumente dem Anwalt *anvertrauen*.
+
+  Les élèves se sont *confiés* à leur professeur.
+  Die Schüler haben sich ihrem Lehrer *anvertraut*.
+
+  Je lui ai *confié* mon plus grand secret.
+  Ich habe ihr mein größtes Geheimnis *anvertraut*.
+
+  Elle *confie* ses pensées à son journal chaque soir.
+  Sie *vertraut* ihre Gedanken jeden Abend ihrem Tagebuch *an*.
+
+  Le chef m'a *confié* la préparation du repas.
+  Der Chef hat mir die Zubereitung des Essens *übertragen*.
+
+  Je n'ai personne à qui me *confier*.
+  Ich habe niemanden, dem ich mich *anvertrauen* kann.
+
+  Thomas a *confié* ses inquiétudes à son ami.
+  Thomas hat seinem Freund seine Sorgen *mitgeteilt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

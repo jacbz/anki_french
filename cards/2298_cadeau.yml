@@ -13,44 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je lui ai apporté un cadeau.
-  Ich habe ihr ein Geschenk mitgebracht.
+  Je lui ai apporté un *cadeau*.
+  Ich habe ihm ein *Geschenk* mitgebracht.
 
-  J’ai acheté un cadeau pour mon ami.
-  Ich habe ein Geschenk für meinen Freund gekauft.
+  Qu'est-ce que tu vas offrir comme *cadeau* d'anniversaire à ta mère ?
+  Was wirst du deiner Mutter als Geburtstags*geschenk* schenken?
 
-  Je veux te donner un cadeau.
-  Ich möchte dir ein Geschenk geben.
+  Les enfants ont hâte d'ouvrir leurs *cadeaux* de Noël.
+  Die Kinder können es kaum erwarten, ihre Weihnachts*geschenke* zu öffnen.
 
-  Elle a été très heureuse de mon cadeau.
-  Sie hat sich sehr über mein Geschenk gefreut.
+  "Ce n'est vraiment pas un *cadeau* de travailler avec lui !"
+  "Es ist wirklich kein *Geschenk*, mit ihm zu arbeiten!"
 
-  Elle ne voulait pas lui donner de cadeau.
-  Sie wollte ihm kein Geschenk geben.
+  Nous avons reçu un bon-*cadeau* pour un dîner dans un restaurant chic.
+  Wir haben einen *Geschenk*gutschein für ein Essen in einem schicken Restaurant bekommen.
 
-  Je suis venu ici pour te faire un cadeau.
-  Ich bin hergekommen, um dir ein Geschenk zu machen.
+  Marie a fait *cadeau* de son ancien vélo à sa petite sœur.
+  Marie hat ihrer kleinen Schwester ihr altes Fahrrad *geschenkt*.
 
-  Merci pour le cadeau que vous avez donné à mon fils.
-  Vielen Dank für das Geschenk, das Sie meinem Sohn gegeben haben.
+  Le magasin offre un emballage *cadeau* gratuit pour les achats de plus de 50 euros.
+  Der Laden bietet eine kostenlose *Geschenk*verpackung für Einkäufe über 50 Euro an.
 
-  C'est un cadeau de Noël pour mon amie.
-  Das ist ein Weihnachtsgeschenk für meine Freundin.
+  "Les petits *cadeaux* entretiennent l'amitié", comme dit le proverbe.
+  "Kleine *Geschenke* erhalten die Freundschaft", wie das Sprichwort sagt.
 
-  Ils se sont offert un cadeau de fiançailles magnifique.
-  Sie haben sich ein wunderschönes Verlobungsgeschenk gemacht.
+  J'ai acheté du papier *cadeau* pour emballer les présents de fin d'année.
+  Ich habe *Geschenk*papier gekauft, um die Jahresendpräsente einzupacken.
 
-  Pour son anniversaire, elle a reçu un cadeau inattendu.
-  Zu ihrem Geburtstag hat sie ein unerwartetes Geschenk bekommen.
+  Ce livre en édition limitée fera un excellent *cadeau* pour un amateur de littérature.
+  Dieses Buch in limitierter Auflage wird ein ausgezeichnetes *Geschenk* für einen Literaturliebhaber sein.
 
-  Les petits cadeaux entretiennent l'amitié, comme le disent les proverbes.
-  Kleine Geschenke erhalten die Freundschaft, wie es die Sprichwörter besagen.
+  "Je vous fais *cadeau* des détails sordides de l'affaire."
+  "Ich *erspare* Ihnen die schmutzigen Details der Angelegenheit."
 
-  Je vais faire cadeau de ce livre à mon frère.
-  Ich werde meinem Bruder dieses Buch schenken.
+  Nos amis nous ont offert un *cadeau* de fiançailles très touchant.
+  Unsere Freunde haben uns ein sehr rührendes Verlobungs*geschenk* gemacht.
 
-  Cette maison, ce n'est pas un cadeau.
-  Dieses Haus möchte ich nicht einmal geschenkt haben.
+  Le patron a distribué des bons-*cadeaux* à tous les employés pour les fêtes.
+  Der Chef hat allen Mitarbeitern *Geschenk*gutscheine für die Feiertage verteilt.
+
+  Ce *cadeau* surprise a vraiment illuminé sa journée.
+  Dieses Überraschungs*geschenk* hat seinen Tag wirklich erhellt.
+
+  "Ne lui fais pas de *cadeau* pendant la négociation, il essaiera de profiter de toi."
+  "Mach ihm während der Verhandlung keine *Zugeständnisse*, er wird versuchen, dich auszunutzen."
+
+  Les invités ont apporté de nombreux *cadeaux* pour le mariage.
+  Die Gäste haben viele *Geschenke* zur Hochzeit mitgebracht.
+
+  Ce soi-disant *cadeau* s'est avéré être un véritable *cadeau* empoisonné.
+  Dieses angebliche *Geschenk* erwies sich als ein wahres Danaer*geschenk*.
+
+  La boutique propose un service d'emballage *cadeau* personnalisé.
+  Der Laden bietet einen personalisierten *Geschenk*verpackungsservice an.
+
+  Elle a reçu un *cadeau* d'anniversaire inattendu de la part de son ex-petit ami.
+  Sie hat ein unerwartetes Geburtstags*geschenk* von ihrem Ex-Freund bekommen.
+
+  "Ce chiot n'est pas un *cadeau*, il demande beaucoup d'attention et de soins."
+  "Dieser Welpe ist kein *Geschenk*, er erfordert viel Aufmerksamkeit und Pflege."
+
+  Les grands-parents ont gâté leurs petits-enfants en leur offrant de nombreux *cadeaux*.
+  Die Großeltern haben ihre Enkelkinder verwöhnt, indem sie ihnen viele *Geschenke* gemacht haben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

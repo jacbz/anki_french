@@ -13,47 +13,191 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On ne dit pas où il vit.
-  Es wird nicht gesagt, wo er lebt.
+  On ne dit pas *où* il vit.
+  Man sagt nicht, *wo* er wohnt.
 
-  Où est la gare ?
-  Wo ist der Bahnhof?
+  La maison *où* j'ai grandi est toujours là.
+  Das Haus, *in dem* ich aufgewachsen bin, steht noch immer.
 
-  Où suis-je ?
-  Wo bin ich?
+  *Où* as-tu mis mes clés ?
+  *Wo* hast du meine Schlüssel hingelegt?
 
-  Je sais où elle est.
-  Ich weiß, wo sie ist.
+  Je ne sais pas *où* aller ce soir.
+  Ich weiß nicht, *wohin* ich heute Abend gehen soll.
 
-  Je le suis partout où il va, comme un ombre fidèle.
-  Ich folge ihm überallhin, wie ein treuer Schatten.
+  *D'où* viens-tu ? Tu as l'air fatigué.
+  *Woher* kommst du? Du siehst müde aus.
 
-  À l'allure où il va, il ne va pas tarder à arriver.
-  Bei seinem Tempo wird er nicht lange auf sich warten lassen.
+  Le jardin *où* nous jouions enfants a été vendu.
+  Der Garten, *wo* wir als Kinder spielten, wurde verkauft.
 
-  D'où ton silence, je suppose que tu es en colère.
-  Daher dein Schweigen, ich vermute, du bist wütend.
+  *Jusqu'où* irez-vous pour réussir ?
+  *Wie weit* würden Sie gehen, um erfolgreich zu sein?
 
-  D'où il était, il ne voyait rien de ce qui se passait.
-  Von seinem Platz aus konnte er nichts von dem sehen, was geschah.
+  C'était l'époque *où* tout semblait possible.
+  Das war die Zeit, *als* alles möglich schien.
 
-  Le chemin par où nous sommes passés était long et sinueux.
-  Der Weg, den wir genommen haben, war lang und kurvenreich.
+  *Où que* vous soyez, je vous retrouverai.
+  *Wo auch immer* Sie sind, ich werde Sie finden.
 
-  Dans l'état où tu es, il est préférable de rester au lit.
-  In deinem Zustand ist es besser, im Bett zu bleiben.
+  Le chemin *par où* nous sommes venus était plus court.
+  Der Weg, *durch den* wir gekommen sind, war kürzer.
 
-  Au prix où j'ai acheté cet appareil, il devrait durer longtemps.
-  Zu dem Preis, zu dem ich diesen Apparat gekauft habe, sollte er lange halten.
+  *D'où* mon inquiétude pour sa santé.
+  *Daher* meine Sorge um seine Gesundheit.
 
-  Dans l'obligation où j'étais de partir, je n'ai pas pu te dire au revoir.
-  Da ich gezwungen war zu gehen, konnte ich dich nicht verabschieden.
+  Regarde *où* tu mets les pieds !
+  Pass auf, *wohin* du trittst!
 
-  Je ne sais pas où passer la nuit, car tous les hôtels sont complets.
-  Ich weiß nicht, wo ich die Nacht verbringen soll, denn alle Hotels sind ausgebucht.
+  Le café *où* nous nous sommes rencontrés a fermé.
+  Das Café, *wo* wir uns kennengelernt haben, hat geschlossen.
 
-  Par où êtes-vous passé pour venir jusqu'ici, à travers la forêt ?
-  Wie haben Sie hier hergefunden, durch den Wald?
+  *Où* en étions-nous dans la discussion ?
+  *Wo* waren wir in der Diskussion stehengeblieben?
+
+  *Où* voulez-vous en venir avec cette histoire ?
+  *Worauf* wollen Sie mit dieser Geschichte hinaus?
+
+  Dans la situation *où* nous sommes, il faut rester calme.
+  In der Situation, *in der* wir uns befinden, müssen wir ruhig bleiben.
+
+  Le moment *où* tout a basculé reste gravé dans ma mémoire.
+  Der Moment, *als* sich alles veränderte, bleibt in meiner Erinnerung.
+
+  *D'où* vient cette odeur étrange ?
+  *Woher* kommt dieser seltsame Geruch?
+
+  Le parc *où* nous pique-niquons souvent est magnifique.
+  Der Park, *wo* wir oft picknicken, ist wunderschön.
+
+  Je me demande *où* il a appris à cuisiner comme ça.
+  Ich frage mich, *wo* er so kochen gelernt hat.
+
+  Le bureau *où* je travaille est au centre-ville.
+  Das Büro, *in dem* ich arbeite, ist im Stadtzentrum.
+
+  *Où* passeras-tu tes vacances cette année ?
+  *Wo* wirst du dieses Jahr deinen Urlaub verbringen?
+
+  La ville *où* nous déménageons est plus petite.
+  Die Stadt, *in die* wir umziehen, ist kleiner.
+
+  *D'où* peut-on voir le meilleur coucher de soleil ?
+  *Von wo aus* kann man den schönsten Sonnenuntergang sehen?
+
+  Au point *où* nous en sommes, il faut continuer.
+  An dem Punkt, *an dem* wir jetzt sind, müssen wir weitermachen.
+
+  *Où que* nous allions, il pleut toujours.
+  *Wo auch immer* wir hingehen, regnet es immer.
+
+  Je ne sais plus *où* j'ai garé ma voiture.
+  Ich weiß nicht mehr, *wo* ich mein Auto geparkt habe.
+
+  L'hôtel *où* nous avons séjourné était confortable.
+  Das Hotel, *in dem* wir übernachtet haben, war komfortabel.
+
+  *D'où* vient votre intérêt pour les langues ?
+  *Woher* kommt Ihr Interesse für Sprachen?
+
+  Le restaurant *où* nous mangeons est excellent.
+  Das Restaurant, *wo* wir essen, ist ausgezeichnet.
+
+  *Où* se trouve la gare la plus proche ?
+  *Wo* ist der nächste Bahnhof?
+
+  La bibliothèque *où* j'étudie ferme à 20 heures.
+  Die Bibliothek, *in der* ich lerne, schließt um 20 Uhr.
+
+  *Où* as-tu appris à parler français ?
+  *Wo* hast du Französisch sprechen gelernt?
+
+  Le village *où* vivent mes grands-parents est très petit.
+  Das Dorf, *in dem* meine Großeltern leben, ist sehr klein.
+
+  *D'où* la nécessité d'agir rapidement.
+  *Daher* die Notwendigkeit, schnell zu handeln.
+
+  La rue *où* nous habitons est calme.
+  Die Straße, *in der* wir wohnen, ist ruhig.
+
+  *Où* as-tu rangé mon livre ?
+  *Wo* hast du mein Buch hingelegt?
+
+  Le musée *où* se trouve ce tableau est fermé aujourd'hui.
+  Das Museum, *wo* sich dieses Gemälde befindet, ist heute geschlossen.
+
+  *Jusqu'où* faut-il marcher pour atteindre le sommet ?
+  *Wie weit* muss man laufen, um den Gipfel zu erreichen?
+
+  L'école *où* j'enseigne est rénovée.
+  Die Schule, *in der* ich unterrichte, wird renoviert.
+
+  *Où* vas-tu si tôt le matin ?
+  *Wohin* gehst du so früh am Morgen?
+
+  La plage *où* nous nous baignons est magnifique.
+  Der Strand, *wo* wir baden, ist wunderschön.
+
+  *D'où* viennent ces informations ?
+  *Woher* kommen diese Informationen?
+
+  Le quartier *où* j'ai grandi a beaucoup changé.
+  Das Viertel, *in dem* ich aufgewachsen bin, hat sich sehr verändert.
+
+  *Où* peut-on acheter des billets ?
+  *Wo* kann man Tickets kaufen?
+
+  La salle *où* se tient la réunion est au premier étage.
+  Der Raum, *in dem* das Meeting stattfindet, ist im ersten Stock.
+
+  *Où que* tu ailles, pense à m'appeler.
+  *Wo auch immer* du hingehst, denk daran, mich anzurufen.
+
+  Le pays *où* je suis né me manque.
+  Das Land, *in dem* ich geboren wurde, fehlt mir.
+
+  *Où* as-tu passé la nuit ?
+  *Wo* hast du die Nacht verbracht?
+
+  La forêt *où* nous nous promenons est très dense.
+  Der Wald, *durch den* wir spazieren, ist sehr dicht.
+
+  *D'où* vient ce bruit étrange ?
+  *Woher* kommt dieses seltsame Geräusch?
+
+  Le magasin *où* j'ai acheté ces chaussures a fermé.
+  Das Geschäft, *wo* ich diese Schuhe gekauft habe, hat geschlossen.
+
+  *Où* allons-nous dîner ce soir ?
+  *Wo* werden wir heute Abend essen gehen?
+
+  La place *où* nous nous retrouvons est bondée.
+  Der Platz, *wo* wir uns treffen, ist überfüllt.
+
+  *D'où* vient cette expression ?
+  *Woher* kommt dieser Ausdruck?
+
+  Le parc *où* les enfants jouent est bien entretenu.
+  Der Park, *wo* die Kinder spielen, ist gut gepflegt.
+
+  *Où* as-tu appris cette nouvelle ?
+  *Wo* hast du diese Neuigkeit erfahren?
+
+  La station *où* nous descendons est la prochaine.
+  Die Station, *wo* wir aussteigen, ist die nächste.
+
+  *Par où* faut-il passer pour arriver au centre ?
+  *Wodurch* muss man gehen, um ins Zentrum zu kommen?
+
+  Le pont *où* nous nous sommes arrêtés offre une belle vue.
+  Die Brücke, *wo* wir angehalten haben, bietet eine schöne Aussicht.
+
+  *Où* se trouve l'arrêt de bus ?
+  *Wo* ist die Bushaltestelle?
+
+  Le marché *où* nous achetons nos légumes est animé.
+  Der Markt, *wo* wir unser Gemüse kaufen, ist belebt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

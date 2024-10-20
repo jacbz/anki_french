@@ -13,47 +13,185 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tu veux faire ton chemin. C’est bien.
-  Du willst deinen Weg machen. Das ist gut.
+  Tu *veux* faire ton chemin. C'est bien.
+  Du *willst* deinen Weg gehen. Das ist gut.
 
-  Je veux une glace.
-  Ich will ein Eis.
+  Je *voudrais* manger une glace à la vanille.
+  Ich *möchte* ein Vanilleeis essen.
 
-  Je sais ce que je veux faire.
-  Ich weiß, was ich tun will.
+  *Veuillez* patienter un instant, s'il vous plaît.
+  Bitte haben Sie einen Moment Gedulund.
 
-  Ne voulez-vous pas savoir qui est cet homme?
-  Wollen Sie nicht wissen, wer dieser Mann ist?
+  Cette plante *veut* beaucoup de lumière.
+  Diese Pflanze *braucht* viel Licht.
 
-  Marie voulait un livre de son grand-père, un livre rare et précieux qu'elle n'avait jamais pu lire.
-  Marie verlangte ein Buch von ihrem Großvater, ein seltenes und wertvolles Buch, das sie noch nie lesen konnte.
+  Le hasard a *voulu* que je la rencontre hier.
+  Der Zufall *wollte* es, dass ich sie gestern traf.
 
-  L'entreprise a un intérêt pour cette personne comme cadre supérieur, en raison de ses compétences et de son expérience.
-  Die Firma hat ein Interesse an dieser Person als leitende Angestellte, aufgrund ihrer Fähigkeiten und ihrer Erfahrung.
+  "Je n'en *veux* pas !" cria l'enfant.
+  "Das *will* ich nicht!" schrie das Kind.
 
-  Il se voulait honnête avec elle, mais il n'a pas réussi à lui dire la vérité.
-  Er wollte nett zu ihr sein, aber er konnte ihr nicht die Wahrheit sagen.
+  Elle *veut* devenir médecin depuis son enfance.
+  Sie *möchte* seit ihrer Kindheit Ärztin werden.
 
-  La réalisation du projet dépend du bon vouloir du maire, qui a le pouvoir de l'approuver ou de le rejeter.
-  Die Realisierung des Projekts hängt vom guten Willen des Bürgermeisters ab, der die Macht hat, es zu genehmigen oder abzulehnen.
+  Il ne *veut* plus de ses vieux meubles.
+  Er *will* seine alten Möbel nicht mehr haben.
 
-  Le directeur a bien voulu qu'on fasse une réunion pour discuter des problèmes de l'entreprise.
-  Der Direktor war einverstanden, dass man eine Sitzung abhält, um die Probleme der Firma zu besprechen.
+  Je lui en *veux* d'avoir menti.
+  Ich bin ihm böse, weil er gelogen hat.
 
-  Si tu veux bien m'aider, je te serai très reconnaissant.
-  Wenn du bitte so freundlich wärest, mir zu helfen, wäre ich dir sehr dankbar.
+  Il s'en *veut* d'avoir oublié son anniversaire.
+  Er macht sich Vorwürfe, dass er ihren Geburtstag vergessen hat.
 
-  Il l'a voulu! Il voulait que ça se passe comme ça, et c'est arrivé.
-  Er hat es so gewollt! Er wollte, dass es so passiert, und es ist passiert.
+  Le règlement *veut* que tout le monde soit présent.
+  Die Vorschrift *verlangt*, dass alle anwesend sind.
 
-  Qu'on le veuille ou non, les changements technologiques ont un impact majeur sur notre société.
-  Es lässt sich nicht wegdiskutieren, dass die technologischen Veränderungen einen großen Einfluss auf unsere Gesellschaft haben.
+  Ils se sont *voulus* discrets pendant la réunion.
+  Sie *wollten* während der Besprechung unauffällig sein.
 
-  En veux-tu, en voilà! J'ai préparé un festin pour tout le monde.
-  In Hülle und Fülle! Ich habe ein Festmahl für alle vorbereitet.
+  Elle *voudrait* bien participer à la fête.
+  Sie *möchte* gern an der Party teilnehmen.
 
-  Il s'en voulait de ne pas avoir été plus présent pour sa famille pendant les dernières années.
-  Er machte sich Vorwürfe, dass er in den letzten Jahren nicht mehr für seine Familie da war.
+  Je ne *veux* pas de tes excuses !
+  Ich *will* deine Entschuldigungen nicht!
+
+  Que *voulez*-vous que je fasse ?
+  Was *erwarten* Sie von mir?
+
+  Cette tâche *veut* beaucoup de patience.
+  Diese Aufgabe *erfordert* viel Geduld.
+
+  Je *veux* bien t'aider avec tes devoirs.
+  Ich bin einverstanden, dir bei den Hausaufgaben zu helfen.
+
+  Ils *veulent* 500 euros pour ce vélo.
+  Sie *verlangen* 500 Euro für dieses Fahrrad.
+
+  Tout dépend de son bon *vouloir*.
+  Alles hängt von seinem guten *Willen* ab.
+
+  Elle ne *veut* plus me parler.
+  Sie *will* nicht mehr mit mir sprechen.
+
+  *Veux*-tu du café ou du thé ?
+  *Möchtest* du Kaffee oder Tee?
+
+  Il *veut* toujours avoir raison.
+  Er *will* immer Recht haben.
+
+  Je ne lui *veux* aucun mal.
+  Ich *will* ihm nichts Böses.
+
+  La tradition *veut* qu'on mange du poisson le vendredi.
+  Die Tradition *verlangt*, dass man freitags Fisch isst.
+
+  Qu'est-ce que tu *veux* pour ton anniversaire ?
+  Was *wünschst* du dir zum Geburtstag?
+
+  Elle *veut* qu'on la laisse tranquille.
+  Sie *will*, dass man sie in Ruhe lässt.
+
+  Mon père *voudrait* me voir réussir.
+  Mein Vater *möchte*, dass ich erfolgreich bin.
+
+  Je *voudrais* vous parler en privé.
+  Ich *möchte* unter vier Augen mit Ihnen sprechen.
+
+  Si tu *veux* mon avis, c'est une mauvaise idée.
+  Wenn du meine Meinung *willst*, das ist keine gute Idee.
+
+  Que *veux*-tu, c'est la vie !
+  Was *willst* du machen, so ist das Leben!
+
+  Elle *veut* de lui comme associé.
+  Sie *will* ihn als Geschäftspartner.
+
+  Cette situation *veut* du temps pour s'arranger.
+  Diese Situation *braucht* Zeit, um sich zu regeln.
+
+  Il en *veut* à ma fortune.
+  Er hat es auf mein Vermögen abgesehen.
+
+  *Voulez*-vous danser avec moi ?
+  *Möchten* Sie mit mir tanzen?
+
+  Je ne *veux* plus vous voir ici !
+  Ich *will* Sie hier nicht mehr sehen!
+
+  Elle se *veut* moderne et sophistiquée.
+  Sie *will* modern und sophisticated wirken.
+
+  Ils *veulent* un enfant depuis longtemps.
+  Sie *wünschen* sich seit langem ein Kind.
+
+  *Veuillez* signer ici, s'il vous plaît.
+  Bitte unterschreiben Sie hier.
+
+  Je *veux* bien admettre mes erreurs.
+  Ich bin bereit, meine Fehler einzugestehen.
+
+  Que me *voulez*-vous ?
+  Was *wollen* Sie von mir?
+
+  Il *veut* du respect de ses élèves.
+  Er *verlangt* Respekt von seinen Schülern.
+
+  Cette décision *veut* être mûrement réfléchie.
+  Diese Entscheidung *muss* gut überlegt sein.
+
+  Dieu *veuille* que tout se passe bien !
+  Gott gebe, dass alles gut geht!
+
+  Elle *veut* toujours avoir le dernier mot.
+  Sie *will* immer das letzte Wort haben.
+
+  Je ne *veux* pas de cette responsabilité.
+  Ich *will* diese Verantwortung nicht.
+
+  La loi *veut* que chacun paie ses impôts.
+  Das Gesetz *verlangt*, dass jeder seine Steuern zahlt.
+
+  Il *voudrait* bien partir en vacances.
+  Er *würde* gerne in den Urlaub fahren.
+
+  Elle n'en *veut* plus à son frère.
+  Sie ist ihrem Bruder nicht mehr böse.
+
+  *Vouloir*, c'est pouvoir.
+  *Wollen* ist können.
+
+  Que *veux*-tu boire ?
+  Was *möchtest* du trinken?
+
+  *Voulez*-vous bien vous taire !
+  Seien Sie endlich still!
+
+  Il *veut* toujours plus d'argent.
+  Er *will* immer mehr Geld.
+
+  Tu *veux* bien m'accompagner ?
+  *Willst* du mich begleiten?
+
+  Elle ne *veut* rien entendre.
+  Sie *will* nichts davon hören.
+
+  Je *voudrais* tant te revoir.
+  Ich *würde* dich so gerne wiedersehen.
+
+  Il *veut* qu'on le respecte.
+  Er *will*, dass man ihn respektiert.
+
+  La nature *veut* que tout change.
+  Die Natur *will*, dass sich alles verändert.
+
+  Son attitude *veut* dire qu'il est fâché.
+  Seine Haltung *bedeutet*, dass er verärgert ist.
+
+  Elle *veut* bien nous aider.
+  Sie ist bereit, uns zu helfen.
+
+  Nous *voulons* tous la paix.
+  Wir *wollen* alle Frieden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

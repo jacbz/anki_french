@@ -13,26 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Pensez-vous réellement que cette guerre s’achèvera.
-  Glauben Sie wirklich, dass dieser Krieg enden wird.
+  Pensez-vous réellement que cette guerre s'*achèvera* bientôt ?
+  Glauben Sie wirklich, dass dieser Krieg bald *enden* wird?
 
-  Il a enfin achevé son travail.
-  Er hat endlich seine Arbeit vollendet.
+  Il faut *achever* ce projet avant la fin du mois.
+  Wir müssen dieses Projekt vor Ende des Monats *abschließen*.
 
-  Il a achevé son repas en moins de dix minutes.
-  Er hat sein Essen in weniger als zehn Minuten zu Ende gegessen.
+  "Cette dernière remarque m'a *achevé*", dit-il en riant.
+  "Diese letzte Bemerkung hat mir den *Rest gegeben*", sagte er lachend.
 
-  Le chasseur a achevé l'animal d'un coup de fusil.
-  Der Jäger hat das Tier mit einem Schuss getötet.
+  Le peintre s'efforce d'*achever* son chef-d'œuvre.
+  Der Maler bemüht sich, sein Meisterwerk zu *vollenden*.
 
-  Après avoir passé toute la nuit à travailler, la fatigue m'a achevé.
-  Nachdem ich die ganze Nacht gearbeitet hatte, hat mich die Müdigkeit fertig gemacht.
+  Nous devons *achever* nos stocks avant les soldes.
+  Wir müssen unsere Bestände vor dem Ausverkauf *aufbrauchen*.
 
-  Elle a achevé la lecture d'un livre avant de se coucher.
-  Sie hat ein Buch ausgelesen, bevor sie ins Bett ging.
+  Elle a *achevé* sa carrière en beauté avec une médaille d'or.
+  Sie hat ihre Karriere mit einer Goldmedaille *gekrönt*.
 
-  Il a achevé de faire ses devoirs avant de sortir.
-  Er hat seine Hausaufgaben zu Ende gemacht, bevor er rausging.
+  Le vétérinaire a dû *achever* le cheval gravement blessé.
+  Der Tierarzt musste das schwer verletzte Pferd *erlösen*.
+
+  J'ai enfin *achevé* la lecture de ce roman passionnant.
+  Ich habe diesen spannenden Roman endlich *ausgelesen*.
+
+  Cette longue journée de travail m'a complètement *achevé*.
+  Dieser lange Arbeitstag hat mich völlig *erschöpft*.
+
+  Le discours s'*acheva* par une standing ovation.
+  Die Rede *endete* mit stehenden Ovationen.
+
+  Il faut *achever* les préparatifs avant l'arrivée des invités.
+  Wir müssen die Vorbereitungen vor der Ankunft der Gäste *abschließen*.
+
+  "*Achevez* votre assiette, s'il vous plaît", dit la mère à son enfant.
+  "*Iss* deinen Teller bitte *auf*", sagte die Mutter zu ihrem Kind.
+
+  Le marathon s'*achève* traditionnellement devant l'hôtel de ville.
+  Der Marathon *endet* traditionell vor dem Rathaus.
+
+  Cette décision a *achevé* de le convaincre de démissionner.
+  Diese Entscheidung hat ihn endgültig davon *überzeugt*, zu kündigen.
+
+  Nous devons *achever* la rédaction du rapport avant midi.
+  Wir müssen die Erstellung des Berichts vor Mittag *abschließen*.
+
+  Le film s'*achève* sur une note d'espoir.
+  Der Film *endet* mit einer hoffnungsvollen Note.
+
+  Elle a *achevé* ses études avec mention très bien.
+  Sie hat ihr Studium mit Auszeichnung *abgeschlossen*.
+
+  Ce scandale a *achevé* sa carrière politique.
+  Dieser Skandal hat seine politische Karriere *ruiniert*.
+
+  "*Achevez* votre phrase, je vous prie", dit le juge à l'accusé.
+  "*Beenden* Sie bitte Ihren Satz", sagte der Richter zum Angeklagten.
+
+  La tempête a *achevé* de détruire la vieille grange.
+  Der Sturm hat die alte Scheune endgültig *zerstört*.
+
+  Il faut *achever* la bouteille ce soir, elle ne se conservera pas.
+  Wir müssen die Flasche heute Abend *austrinken*, sie wird sich nicht halten.
+
+  Le concert s'*acheva* par un tonnerre d'applaudissements.
+  Das Konzert *endete* mit tosendem Applaus.
+
+  Cette dernière épreuve *achèvera* votre formation.
+  Diese letzte Prüfung wird Ihre Ausbildung *abschließen*.
+
+  Il a *achevé* sa vie dans un petit village de montagne.
+  Er hat sein Leben in einem kleinen Bergdorf *beschlossen*.
+
+  "Cette nouvelle m'*achève*", soupira-t-elle, épuisée.
+  "Diese Nachricht *gibt mir den Rest*", seufzte sie erschöpft.
+
+  Nous devons *achever* les négociations avant la fin de la semaine.
+  Wir müssen die Verhandlungen vor Ende der Woche *abschließen*.
+
+  Le peintre s'apprête à *achever* son tableau par quelques touches finales.
+  Der Maler bereitet sich darauf vor, sein Gemälde mit einigen letzten Pinselstrichen zu *vollenden*.
+
+  La cérémonie s'*acheva* par un lâcher de colombes.
+  Die Zeremonie *endete* mit einem Taubenflug.
+
+  Ce dernier échec a *achevé* de le décourager.
+  Dieser letzte Misserfolg hat ihn endgültig *entmutigt*.
+
+  L'équipe doit *achever* le développement du logiciel avant le lancement.
+  Das Team muss die Entwicklung der Software vor dem Launch *abschließen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

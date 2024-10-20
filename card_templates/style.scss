@@ -218,7 +218,7 @@ $section-within-section-title-background: hsla(201, 100%, 14%, 0.07);
 
 .stem {
   color: rgba(0, 0, 0, 0);
-  position: relative
+  position: relative;
 
   &::before {
     content: attr(data-before);

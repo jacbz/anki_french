@@ -13,17 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il est méthodique, rigoureux et, pire que tout, patient.
-  Er ist methodisch, gründlich und, was am schlimmsten ist, geduldig.
+  Il est méthodique, *rigoureux* et, pire que tout, patient.
+  Er ist methodisch, *gründlich* und, schlimmer noch, geduldig.
 
-  Il est rigoureux dans son travail.
-  Er ist streng in seiner Arbeit.
+  La professeure est connue pour être *rigoureuse* dans ses corrections.
+  Die Lehrerin ist dafür bekannt, bei ihren Korrekturen *streng* zu sein.
 
-  L'audit rigoureux a permis de mettre en évidence des faiblesses dans le système de contrôle.
-  Die strenge Prüfung hat Schwächen im Kontrollsystem aufgedeckt.
+  Un entraînement *rigoureux* est nécessaire pour réussir à ce niveau.
+  Ein *strenges* Training ist notwendig, um auf diesem Niveau erfolgreich zu sein.
 
-  Un straffes Controlling est indispensable pour garantir la bonne gestion des ressources.
-  Ein striktes Controlling ist unerlässlich, um die effiziente Verwaltung der Ressourcen zu gewährleisten.
+  L'hiver a été particulièrement *rigoureux* cette année.
+  Der Winter war dieses Jahr besonders *streng*.
+
+  Elle suit un régime alimentaire *rigoureux* pour sa santé.
+  Sie folgt einer *strengen* Diät für ihre Gesundheit.
+
+  Le chercheur a mené une analyse *rigoureuse* des données.
+  Der Forscher hat eine *gründliche* Analyse der Daten durchgeführt.
+
+  "Ce juge est trop *rigoureux* dans ses sentences !"
+  "Dieser Richter ist in seinen Urteilen zu *streng*!"
+
+  Les conditions de travail sont devenues plus *rigoureuses*.
+  Die Arbeitsbedingungen sind *härter* geworden.
+
+  Une logique *rigoureuse* est essentielle en mathématiques.
+  Eine *strenge* Logik ist in der Mathematik unerlässlich.
+
+  Le style *rigoureux* de l'auteur rend le texte difficile à lire.
+  Der *strenge und einfache* Stil des Autors macht den Text schwer zu lesen.
+
+  La neutralité *rigoureuse* du journaliste a été appréciée.
+  Die *strikte* Neutralität des Journalisten wurde geschätzt.
+
+  Un contrôle de qualité *rigoureux* est effectué sur chaque produit.
+  Eine *gründliche* Qualitätskontrolle wird bei jedem Produkt durchgeführt.
+
+  Les températures *rigoureuses* ont gelé les récoltes.
+  Die *strengen* Temperaturen haben die Ernten einfrieren lassen.
+
+  Son raisonnement *rigoureux* a convaincu tout l'auditoire.
+  Seine *stichhaltige* Argumentation hat das gesamte Publikum überzeugt.
+
+  Une discipline *rigoureuse* règne dans cette école militaire.
+  In dieser Militärschule herrscht eine *strenge* Disziplin.
+
+  L'entreprise a mis en place un audit *rigoureux* de ses finances.
+  Das Unternehmen hat ein *straffes Controlling* seiner Finanzen eingeführt.
+
+  La morale *rigoureuse* de ses parents l'a profondément marqué.
+  Die *strenge* Moral seiner Eltern hat ihn tief geprägt.
+
+  Un examen *rigoureux* des faits est nécessaire avant de tirer des conclusions.
+  Eine *gründliche* Untersuchung der Fakten ist notwendig, bevor man Schlüsse zieht.
+
+  Les scientifiques doivent être *rigoureux* dans leurs expériences.
+  Wissenschaftler müssen in ihren Experimenten *peinlich genau* sein.
+
+  Une interdiction *rigoureuse* de fumer a été mise en place.
+  Ein *striktes* Rauchverbot wurde eingeführt.
+
+  Le climat *rigoureux* de cette région rend la vie difficile.
+  Das *strenge* Klima dieser Region macht das Leben schwierig.
+
+  L'authenticité *rigoureuse* de ce document a été vérifiée.
+  Die *hundertprozentige* Echtheit dieses Dokuments wurde überprüft.
+
+  Elle a observé un jeûne *rigoureux* pendant le Ramadan.
+  Sie hat während des Ramadans ein *strenges* Fasten eingehalten.
+
+  Son esprit *rigoureux* lui permet d'exceller en sciences.
+  Ihr *strenger* Geist ermöglicht es ihr, in den Wissenschaften zu glänzen.
+
+  La méthode *rigoureuse* qu'il a utilisée a produit des résultats fiables.
+  Die *strikte* Methode, die er angewandt hat, hat zuverlässige Ergebnisse geliefert.
+
+  Une propreté *rigoureuse* est exigée dans ce laboratoire.
+  In diesem Labor wird *peinliche* Sauberkeit verlangt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

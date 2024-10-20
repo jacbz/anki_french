@@ -13,17 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le flux des immigrés clandestins en espagne n’a cessé de grossir.
-  Der Strom illegaler Einwanderer nach spanien hat sich stetig vergrößert.
+  Le flux des immigrés *clandestins* en Espagne n'a cessé de grossir.
+  Der Strom *illegaler* Einwanderer nach Spanien ist weiter angestiegen.
 
-  Les clandestins risquent leur vie pour traverser la mer.
-  Illegale Einwanderer riskieren ihr Leben, um das Meer zu überqueren.
+  La police a découvert une imprimerie *clandestine* dans la cave.
+  Die Polizei hat eine *geheime* Druckerei im Keller entdeckt.
 
-  Le passager clandestin a été découvert par l'équipage du navire.
-  Der blinde Passagier wurde von der Schiffsbesatzung entdeckt.
+  Un *clandestin* a été arrêté hier à la frontière.
+  Ein *illegaler Einwanderer* wurde gestern an der Grenze festgenommen.
 
-  Le mouvement clandestin a organisé des manifestations contre le régime.
-  Die Untergrundbewegung organisierte Demonstrationen gegen das Regime.
+  Les résistants ont distribué des journaux *clandestins* pendant l'occupation.
+  Die Widerstandskämpfer verteilten während der Besatzung *illegale* Zeitungen.
+
+  La réunion *clandestine* s'est tenue dans un vieil entrepôt abandonné.
+  Das *geheime* Treffen fand in einem alten verlassenen Lagerhaus statt.
+
+  Un passager *clandestin* s'est caché dans la soute de l'avion.
+  Ein *blinder* Passagier versteckte sich im Frachtraum des Flugzeugs.
+
+  Cette organisation *clandestine* lutte contre le régime.
+  Diese *Untergrund*organisation kämpft gegen das Regime.
+
+  Les autorités ont fermé cette distillerie *clandestine*.
+  Die Behörden haben diese *illegale* Brennerei geschlossen.
+
+  Un réseau de travailleurs *clandestins* a été démantelé ce matin.
+  Ein Netzwerk von *Schwarz*arbeitern wurde heute Morgen zerschlagen.
+
+  Elle dirige un mouvement *clandestin* de résistance.
+  Sie leitet eine *Untergrund*bewegung des Widerstands.
+
+  Des centaines de *clandestins* tentent chaque jour de traverser la Méditerranée.
+  Hunderte *illegale Einwanderer* versuchen täglich, über das Mittelmeer zu kommen.
+
+  Le gouvernement combat le commerce *clandestin* d'armes.
+  Die Regierung bekämpft den *illegalen* Waffenhandel.
+
+  Une radio *clandestine* diffuse des messages codés.
+  Ein *geheimer* Radiosender überträgt verschlüsselte Nachrichten.
+
+  Les *clandestins* vivent souvent dans des conditions précaires.
+  *Illegale Einwanderer* leben oft unter prekären Bedingungen.
+
+  Cette association aide les travailleurs *clandestins* à régulariser leur situation.
+  Dieser Verein hilft *illegalen* Arbeitern dabei, ihren Status zu legalisieren.
+
+  Un groupe de passagers *clandestins* a été découvert dans un camion.
+  Eine Gruppe *blinder* Passagiere wurde in einem LKW entdeckt.
+
+  L'édition *clandestine* de ce livre était interdite sous la dictature.
+  Die *geheime* Ausgabe dieses Buches war während der Diktatur verboten.
+
+  Ces ouvriers *clandestins* travaillent sans contrat ni protection sociale.
+  Diese *illegalen* Arbeiter arbeiten ohne Vertrag und ohne Sozialversicherung.
+
+  Une assemblée *clandestine* se réunit chaque semaine dans ce sous-sol.
+  Eine *geheime* Versammlung trifft sich jede Woche in diesem Keller.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

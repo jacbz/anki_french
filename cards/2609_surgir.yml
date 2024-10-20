@@ -13,14 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  De transylvanie surgit un chevalier roumain.
-  Aus Transsylvanien taucht ein rumänischer Ritter auf.
+  De Transylvanie *surgit* un chevalier roumain.
+  Aus Transsilvanien *tauchte* ein rumänischer Ritter auf.
 
-  Il a surgi de nulle part.
-  Er ist aus dem Nichts aufgetaucht.
+  Une source d'eau chaude *surgit* soudainement du sol dans le parc.
+  Eine heiße Quelle *sprudelte* plötzlich im Park aus dem Boden.
 
-  Le bruit d'une explosion a surgi dans le hall, faisant trembler les murs.
-  Ein ohrenbetäubender Knall schoss in die Halle hinein und ließ die Wände erzittern.
+  Des manifestants *surgirent* de toutes parts lors de la réunion.
+  Von allen Seiten *strömten* Demonstranten während des Treffens herbei.
+
+  Un cerf majestueux *surgit* de la forêt dense.
+  Ein majestätischer Hirsch *tauchte* aus dem dichten Wald auf.
+
+  Le soleil *surgit* à l'horizon, illuminant le paysage.
+  Die Sonne *erhob sich* am Horizont und erleuchtete die Landschaft.
+
+  Une idée brillante *surgit* dans son esprit pendant la réunion.
+  Eine brillante Idee *tauchte* während des Meetings in seinem Geist auf.
+
+  Des problèmes inattendus *surgirent* lors de la mise en œuvre du projet.
+  Unerwartete Probleme *traten* bei der Umsetzung des Projekts auf.
+
+  Un renard *surgit* brusquement devant la voiture sur la route de campagne.
+  Ein Fuchs *tauchte* plötzlich vor dem Auto auf der Landstraße auf.
+
+  Les souvenirs d'enfance *surgirent* dans sa mémoire en visitant sa ville natale.
+  Kindheitserinnerungen *tauchten* in seinem Gedächtnis auf, als er seine Heimatstadt besuchte.
+
+  Une nouvelle théorie scientifique *surgit* des récentes découvertes.
+  Eine neue wissenschaftliche Theorie *entstand* aus den jüngsten Entdeckungen.
+
+  Le clown *surgit* de sa boîte, surprenant tous les enfants.
+  Der Clown *schoss* aus seiner Box hervor und überraschte alle Kinder.
+
+  Des questions importantes *surgirent* lors du débat présidentiel.
+  Wichtige Fragen *tauchten* während der Präsidentschaftsdebatte auf.
+
+  Un sous-marin *surgit* à la surface de l'océan, brisant le calme des vagues.
+  Ein U-Boot *tauchte* an der Meeresoberfläche auf und durchbrach die Ruhe der Wellen.
+
+  La vérité finit par *surgir* au cours de l'enquête policière.
+  Die Wahrheit *kam* schließlich im Laufe der polizeilichen Ermittlungen *ans Licht*.
+
+  Des opportunités inattendues *surgirent* de la crise économique.
+  Unerwartete Möglichkeiten *ergaben sich* aus der Wirtschaftskrise.
+
+  Le spectre *surgit* du mur, effrayant tous les visiteurs du château hanté.
+  Der Geist *erschien* aus der Wand und erschreckte alle Besucher des Spukschlosses.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

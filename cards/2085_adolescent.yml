@@ -13,14 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous étions alors de jeunes adolescents.
-  Wir waren damals junge Teenager.
+  Nous étions alors de jeunes *adolescents*.
+  Wir waren damals junge *Heranwachsende*.
 
-  Les adolescents ont souvent des problèmes d’identité.
-  Jugendliche haben oft Identitätsprobleme.
+  Les *adolescents* ont souvent du mal à communiquer avec leurs parents.
+  *Jugendliche* haben oft Schwierigkeiten, mit ihren Eltern zu kommunizieren.
 
-  C'est une période difficile d'être adolescent, mais aussi une période excitante.
-  Es ist eine schwierige Zeit, jung zu sein, aber auch eine aufregende Zeit.
+  Marie est une *adolescente* de 15 ans qui aime beaucoup lire.
+  Marie ist eine 15-jährige *Jugendliche*, die sehr gerne liest.
+
+  Le comportement *adolescent* de mon frère m'agace parfois.
+  Das *jugendliche* Verhalten meines Bruders nervt mich manchmal.
+
+  "Les *ados* passent trop de temps sur leurs téléphones !" se plaignent souvent les parents.
+  "Die *Jugendlichen* verbringen zu viel Zeit an ihren Handys!", beklagen sich die Eltern oft.
+
+  L'*adolescente* timide est devenue une femme confiante.
+  Das schüchterne *Teenagermädchen* ist zu einer selbstbewussten Frau geworden.
+
+  Les problèmes de peau sont courants chez les *adolescents*.
+  Hautprobleme sind bei *Heranwachsenden* häufig.
+
+  Il a commencé à écrire des poèmes quand il était *adolescent*.
+  Er begann Gedichte zu schreiben, als er ein *Teenager* war.
+
+  L'*adolescence* est une période de grands changements physiques et émotionnels.
+  Die *Jugend* ist eine Zeit großer körperlicher und emotionaler Veränderungen.
+
+  Les parents doivent être patients avec leurs enfants *adolescents*.
+  Eltern müssen mit ihren *jugendlichen* Kindern geduldig sein.
+
+  Cette série TV s'adresse principalement à un public *adolescent*.
+  Diese Fernsehserie richtet sich hauptsächlich an ein *jugendliches* Publikum.
+
+  Les *adolescentes* de son groupe d'amies adorent faire du shopping ensemble.
+  Die *Teenagermädchen* in ihrer Freundesgruppe lieben es, zusammen einkaufen zu gehen.
+
+  L'*adolescent* imberbe rêvait du jour où il aurait enfin de la barbe.
+  Der bartlose *Jugendliche* träumte von dem Tag, an dem er endlich einen Bart haben würde.
+
+  La gracieuse *adolescente* est devenue mannequin à l'âge de 16 ans.
+  Das anmutige *Teenagermädchen* wurde mit 16 Jahren Model.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

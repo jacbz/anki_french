@@ -13,14 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis allé faire un tour au musée.
-  Ich habe dem Museum einen Besuch abgestattet.
+  Je suis allé faire un tour au *musée*.
+  Ich habe einen Rundgang durch das *Museum* gemacht.
 
-  Nous allons visiter le musée du Louvre.
-  Wir werden das Louvre-Museum besuchen.
+  Les enfants sont impatients de visiter le *musée* d'histoire naturelle.
+  Die Kinder können es kaum erwarten, das Naturkunde*museum* zu besuchen.
 
-  Le musée est fermé le lundi.
-  Das Museum ist montags geschlossen.
+  Le nouveau *musée* d'art contemporain a ouvert ses portes au public hier.
+  Das neue *Museum* für zeitgenössische Kunst hat gestern seine Türen für die Öffentlichkeit geöffnet.
+
+  Notre ville possède un *musée* dédié à l'histoire locale.
+  Unsere Stadt hat ein *Museum*, das der lokalen Geschichte gewidmet ist.
+
+  Le conservateur du *musée* a organisé une visite guidée exclusive.
+  Der Kurator des *Museums* hat eine exklusive Führung organisiert.
+
+  Cette exposition temporaire au *musée* attire beaucoup de visiteurs.
+  Diese Sonderausstellung im *Museum* zieht viele Besucher an.
+
+  Les *musées* sont souvent gratuits le premier dimanche du mois.
+  *Museen* sind oft am ersten Sonntag des Monats kostenlos.
+
+  Cette vieille voiture est une vraie pièce de *musée*.
+  Dieses alte Auto ist ein echtes *Museums*stück.
+
+  Venise est considérée comme une ville-*musée* à ciel ouvert.
+  Venedig gilt als *Museums*stadt unter freiem Himmel.
+
+  "C'est le *musée* des horreurs !" s'est-elle exclamée en voyant la décoration.
+  "Das ist ja ein Grusel*museum*!", rief sie aus, als sie die Dekoration sah.
+
+  Le *musée* Rodin expose principalement les œuvres du célèbre sculpteur.
+  Das Rodin-*Museum* stellt hauptsächlich Werke des berühmten Bildhauers aus.
+
+  Le *musée* des sciences et techniques propose des ateliers interactifs pour les enfants.
+  Das Wissenschafts- und Technik*museum* bietet interaktive Workshops für Kinder an.
+
+  Le *musée* du Louvre abrite la célèbre Joconde de Léonard de Vinci.
+  Im Louvre-*Museum* befindet sich Leonardo da Vincis berühmte Mona Lisa.
+
+  Les donateurs privés ont grandement contribué aux collections de ce *musée*.
+  Private Spender haben erheblich zu den Sammlungen dieses *Museums* beigetragen.
+
+  Le *musée* Guimet est réputé pour sa collection d'art asiatique.
+  Das Guimet-*Museum* ist bekannt für seine Sammlung asiatischer Kunst.
+
+  Un nouveau *musée* virtuel permet de découvrir des œuvres du monde entier.
+  Ein neues virtuelles *Museum* ermöglicht es, Kunstwerke aus der ganzen Welt zu entdecken.
+
+  Les étudiants en histoire de l'art visitent régulièrement les *musées* pour leurs recherches.
+  Kunstgeschichtsstudenten besuchen regelmäßig *Museen* für ihre Forschungen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

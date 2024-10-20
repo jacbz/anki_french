@@ -9,24 +9,159 @@ Femininum / Plural: messieurs
 IPA: \mə.sjø\
 Definition: Herr
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Comment allez-vous, monsieur?\nWie geht es Ihnen, Herr?\n\nMonsieur\
-  \ Dupont est en réunion.\nHerr Dupont ist in einer Besprechung.\n\nPardon monsieur,\
-  \ je n'ai pas compris.\nEntschuldigen Sie, ich habe nicht verstanden.\n\nMonsieur\
-  \ environnement, je voudrais vous poser une question concernant la pollution.\n\
-  Der Mann für Umweltfragen, ich möchte Ihnen eine Frage zur Umweltverschmutzung stellen.\n\
-  \nMonsieur Dupont, pourriez-vous me dire où se trouve la bibliothèque municipale\
-  \ ?\nHerr Dupont, könnten Sie mir sagen, wo sich die Stadtbücherei befindet?\n\n\
-  Bonjour monsieur, comment allez-vous ? \nGuten Tag, wie geht es Ihnen?\n\nBonjour\
-  \ Monsieur Pujol, j'espère que vous allez bien.\nGuten Tag, Herr Pujol, ich hoffe,\
-  \ es geht Ihnen gut.\n\nMessieurs et chers collègues, je vous remercie pour votre\
-  \ attention.\nSehr verehrte Herren und liebe Kollegen, ich danke Ihnen für Ihre\
-  \ Aufmerksamkeit.\n\nMonsieur le Professeur Dupont, je vous remercie pour votre\
-  \ conférence.\nProfessor Dupont, ich danke Ihnen für Ihren Vortrag.\n\nMonsieur\
-  \ le Ministre, nous sommes heureux de vous accueillir.\nHerr Minister, wir freuen\
-  \ uns, Sie begrüßen zu dürfen.\n\nMadame, Monsieur, je vous présente mes sincères\
-  \ condoléances.\nSehr geehrte Damen und Herren, ich spreche Ihnen mein aufrichtiges\
-  \ Beileid aus.\n\nMonsieur Vincent Pujol, j'ai le plaisir de vous présenter mon\
-  \ collègue.\nHerrn Vincent Pujol, ich habe die Freude, Ihnen meinen Kollegen vorzustellen."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Comment allez-vous, *monsieur*?
+  Wie geht es Ihnen, *Herr* Schmidt?
+
+  Pardon *monsieur*, pourriez-vous m'indiquer le chemin de la gare?
+  Entschuldigen Sie *Herr*, könnten Sie mir den Weg zum Bahnhof zeigen?
+
+  *Monsieur* le Président a annoncé de nouvelles mesures.
+  *Herr* Präsident hat neue Maßnahmen angekündigt.
+
+  Un vieux *monsieur* lisait son journal dans le parc.
+  Ein alter *Herr* las seine Zeitung im Park.
+
+  *Messieurs*, la séance est ouverte.
+  Meine *Herren*, die Sitzung ist eröffnet.
+
+  *Monsieur* Martin sera votre nouveau professeur de mathématiques.
+  *Herr* Martin wird Ihr neuer Mathematiklehrer sein.
+
+  Veuillez agréer, *Monsieur*, l'expression de mes sentiments distingués.
+  Mit freundlichen Grüßen, sehr geehrter *Herr* Müller.
+
+  *Messieurs dames*, bienvenue dans notre restaurant !
+  Meine *Damen und Herren*, willkommen in unserem Restaurant!
+
+  Je vous présente *Monsieur* Dubois, notre nouveau directeur.
+  Ich stelle Ihnen *Herrn* Dubois vor, unseren neuen Direktor.
+
+  "Dis bonjour au *monsieur*, mon petit."
+  "Sag dem *Herrn* guten Tag, mein Kleiner."
+
+  C'est vraiment un grand *monsieur* dans le monde de la science.
+  Er ist wirklich eine große Persönlichkeit in der Wissenschaftswelt.
+
+  *Monsieur* Tout-le-monde ne peut pas se permettre d'acheter une voiture électrique.
+  Der *Otto-Normalverbraucher* kann sich kein Elektroauto leisten.
+
+  Les résultats du slalom *messieurs* seront annoncés dans quelques minutes.
+  Die Ergebnisse des Herren-Slaloms werden in wenigen Minuten bekannt gegeben.
+
+  *Monsieur* le Ministre répondra à vos questions demain.
+  *Herr* Minister wird Ihre Fragen morgen beantworten.
+
+  Un *monsieur* en costume noir vous attend à la réception.
+  Ein *Herr* im schwarzen Anzug wartet auf Sie am Empfang.
+
+  Je ne connais pas ce *monsieur*.
+  Ich kenne diesen *Herrn* nicht.
+
+  *Monsieur* est servi.
+  Der *Herr* kann serviert werden.
+
+  Ces *messieurs* de la commission examineront votre dossier.
+  Die *Herren* vom Ausschuss werden Ihre Unterlagen prüfen.
+
+  *Monsieur* Météo prévoit du beau temps pour demain.
+  Der *Wetterfrosch* sagt für morgen schönes Wetter voraus.
+
+  Cher *Monsieur* Dupont, je fais suite à votre demande...
+  Lieber *Herr* Dupont, bezugnehmend auf Ihre Anfrage...
+
+  *Monsieur* et Madame Blanc vous invitent à dîner.
+  *Herr* und Frau Blanc laden Sie zum Abendessen ein.
+
+  Bonjour *Monsieur* le Professeur, avez-vous une minute?
+  Guten Tag *Herr* Professor, haben Sie einen Moment Zeit?
+
+  Un *monsieur* très distingué a laissé ce message pour vous.
+  Ein sehr vornehmer *Herr* hat diese Nachricht für Sie hinterlassen.
+
+  *Monsieur* environnement présentera son rapport demain.
+  Der *Mann für Umweltfragen* wird morgen seinen Bericht vorlegen.
+
+  Ces *messieurs* du conseil d'administration ont voté contre.
+  Die *Herren* des Vorstands haben dagegen gestimmt.
+
+  *Monsieur* le directeur est en réunion.
+  Der *Herr* Direktor ist in einer Besprechung.
+
+  Excusez-moi, *monsieur*, vous avez fait tomber votre portefeuille.
+  Entschuldigung, *mein Herr*, Sie haben Ihre Brieftasche fallen lassen.
+
+  *Monsieur* Untel a appelé pendant votre absence.
+  *Herr* Sowieso hat während Ihrer Abwesenheit angerufen.
+
+  Regardez ce vieux *monsieur* qui nourrit les pigeons.
+  Schauen Sie sich den alten *Herrn* an, der die Tauben füttert.
+
+  *Messieurs*, veuillez éteindre vos téléphones portables.
+  Meine *Herren*, bitte schalten Sie Ihre Handys aus.
+
+  Le petit déjeuner de *Monsieur* est prêt.
+  Das Frühstück des *Herrn* ist fertig.
+
+  "Mon pauvre *monsieur*, vous vous êtes trompé d'adresse."
+  "Mein guter *Herr*, Sie haben sich in der Adresse geirrt."
+
+  *Monsieur* le Maire inaugurera la nouvelle bibliothèque.
+  *Herr* Bürgermeister wird die neue Bibliothek einweihen.
+
+  Ces *messieurs* attendent dans la salle de conférence.
+  Die *Herren* warten im Konferenzraum.
+
+  *Monsieur* qualité supervisera le nouveau projet.
+  Der *Mann für Qualitätsfragen* wird das neue Projekt überwachen.
+
+  Un *monsieur* âgé cherche son chemin.
+  Ein älterer *Herr* sucht seinen Weg.
+
+  *Messieurs* les jurés, vous pouvez vous retirer.
+  Meine *Herren* Geschworenen, Sie können sich zurückziehen.
+
+  *Monsieur* le Commissaire mène l'enquête personnellement.
+  *Herr* Kommissar leitet die Ermittlungen persönlich.
+
+  Ces *messieurs* du ministère arrivent demain.
+  Die *Herren* vom Ministerium kommen morgen.
+
+  Votre mari n'est pas là ? Non, *Monsieur* est sorti.
+  Ist Ihr Mann nicht da? Nein, der *Herr* ist ausgegangen.
+
+  *Monsieur* le Juge rendra sa décision la semaine prochaine.
+  *Herr* Richter wird nächste Woche seine Entscheidung verkünden.
+
+  Un *monsieur* très élégant a demandé à vous voir.
+  Ein sehr eleganter *Herr* wollte Sie sprechen.
+
+  *Messieurs* les actionnaires se réuniront vendredi.
+  Die *Herren* Aktionäre werden sich am Freitag treffen.
+
+  Pourriez-vous transmettre ce message à *Monsieur* le Directeur ?
+  Könnten Sie diese Nachricht an *Herrn* Direktor weiterleiten?
+
+  "Bonjour mon bon *monsieur*, puis-je vous aider ?"
+  "Guten Tag, mein guter *Herr*, kann ich Ihnen helfen?"
+
+  *Monsieur* le Consul recevra la délégation demain.
+  *Herr* Konsul wird morgen die Delegation empfangen.
+
+  Ces *messieurs* du comité ont approuvé le projet.
+  Die *Herren* vom Komitee haben das Projekt genehmigt.
+
+  *Monsieur* le Curé donnera la messe de Noël.
+  *Herr* Pfarrer wird die Weihnachtsmesse halten.
+
+  Un vilain *monsieur* a volé mon sac.
+  Ein übler *Herr* hat meine Tasche gestohlen.
+
+  *Monsieur* le Député prendra la parole dans un instant.
+  *Herr* Abgeordneter wird gleich das Wort ergreifen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

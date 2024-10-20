@@ -13,44 +13,164 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Attendez…vous refusez d’obéir?
-  Moment... Sie weigern sich zu gehorchen?
+  Attendez... vous *refusez* d'obéir ?
+  Moment mal... Sie *weigern* sich zu gehorchen?
 
-  Je refuse de participer à cette activité.
-  Ich lehne es ab, an dieser Aktivität teilzunehmen.
+  Le comité a *refusé* sa demande de subvention.
+  Der Ausschuss hat seinen Antrag auf Förderung *abgelehnt*.
 
-  Je refuse de répondre à la question.
-  Ich weigere mich, die Frage zu beantworten.
+  Elle a *refusé* l'invitation au dîner.
+  Sie hat die Einladung zum Abendessen *ausgeschlagen*.
 
-  Le comité a refusé le projet en bloc, sans même le discuter.
-  Der Ausschuss hat das Projekt rundweg abgelehnt, ohne es auch nur zu diskutieren.
+  L'enfant *refuse* de manger ses légumes.
+  Das Kind *weigert* sich, sein Gemüse zu essen.
 
-  Pierre s'est refusé un voyage en Italie, car il n'avait pas assez d'argent.
-  Pierre hat auf eine Reise nach Italien verzichtet, weil er nicht genug Geld hatte.
+  Nous *refusons* catégoriquement cette proposition.
+  Wir *lehnen* diesen Vorschlag kategorisch *ab*.
 
-  Le gardien de nuit a refusé la porte à Marie, car elle n'avait pas de badge.
-  Der Nachtwächter hat Marie den Zutritt verweigert, weil sie keinen Ausweis hatte.
+  La banque a *refusé* d'accorder un prêt à l'entreprise.
+  Die Bank hat es *abgelehnt*, dem Unternehmen einen Kredit zu gewähren.
 
-  Paul a été refusé à l'examen de mathématiques, car il n'avait pas assez appris.
-  Paul hat die Mathematikprüfung nicht bestanden, weil er nicht genug gelernt hatte.
+  Il a *refusé* de répondre aux questions des journalistes.
+  Er hat es *verweigert*, die Fragen der Journalisten zu beantworten.
 
-  Le président se refusait à l'évidence : son parti perdait du terrain dans les sondages.
-  Der Präsident wollte die Wahrheit nicht ins Gesicht sehen: Seine Partei verlor in den Umfragen an Boden.
+  Le chien *refuse* d'obéir aux ordres de son maître.
+  Der Hund *weigert* sich, den Befehlen seines Herrchens zu gehorchen.
 
-  Le chat s'est refusé à la nourriture, car il n'avait pas faim.
-  Die Katze hat die Nahrung verschmäht, weil sie keinen Hunger hatte.
+  On ne peut pas lui *refuser* un certain talent.
+  Man kann ihm ein gewisses Talent nicht *absprechen*.
 
-  La jeune fille s'est refusée à son amant, car elle n'était pas amoureuse de lui.
-  Das junge Mädchen hat sich ihrem Liebhaber verweigert, weil sie nicht in ihn verliebt war.
+  Le système *refuse* l'accès aux fichiers confidentiels.
+  Das System *verweigert* den Zugang zu den vertraulichen Dateien.
 
-  La banque a refusé la demande de crédit de Jean, car il n'avait pas assez de revenus.
-  Die Bank hat Jeans Kreditgesuch abgelehnt, weil er nicht genug Einkommen hatte.
+  La porte *refuse* de s'ouvrir malgré mes efforts.
+  Die Tür *weigert* sich trotz meiner Bemühungen aufzugehen.
 
-  Le client a refusé la réception de la livraison, car le colis était endommagé.
-  Der Kunde hat die Abnahme verweigert, weil das Paket beschädigt war.
+  Le candidat s'est vu *refuser* l'entrée à l'université.
+  Dem Bewerber wurde der Zugang zur Universität *verweigert*.
 
-  Mon patron m'a refusé une augmentation, car il trouvait que mon travail n'était pas assez bon.
-  Mein Chef hat mir keine Gehaltserhöhung gegeben, weil er fand, dass meine Arbeit nicht gut genug war.
+  Je me *refuse* à croire qu'il ait pu commettre un tel acte.
+  Ich *weigere* mich zu glauben, dass er eine solche Tat begangen haben könnte.
+
+  Le cheval a *refusé* l'obstacle au dernier moment.
+  Das Pferd hat im letzten Moment das Hindernis *verweigert*.
+
+  Ils *refusent* de voir la réalité en face.
+  Sie *weigern* sich, der Realität ins Auge zu sehen.
+
+  Le client a *refusé* de payer la facture.
+  Der Kunde hat sich *geweigert*, die Rechnung zu bezahlen.
+
+  L'artiste *refuse* de se conformer aux normes sociales.
+  Der Künstler *weigert* sich, sich an soziale Normen anzupassen.
+
+  Elle s'est *refusé* ce plaisir par souci d'économie.
+  Sie hat sich dieses Vergnügen aus Sparsamkeit *versagt*.
+
+  Le médecin *refuse* de prescrire des antibiotiques sans raison valable.
+  Der Arzt *weigert* sich, ohne triftigen Grund Antibiotika zu verschreiben.
+
+  On ne peut pas *refuser* une telle opportunité.
+  Man kann eine solche Gelegenheit nicht *ausschlagen*.
+
+  Le serveur *refuse* d'accepter les pourboires.
+  Der Kellner *weigert* sich, Trinkgeld anzunehmen.
+
+  L'équipe adverse a *refusé* de jouer dans ces conditions.
+  Die gegnerische Mannschaft hat sich *geweigert*, unter diesen Bedingungen zu spielen.
+
+  Je me *refuse* à participer à cette mascarade.
+  Ich *weigere* mich, an dieser Farce teilzunehmen.
+
+  Le directeur a *refusé* d'accorder un jour de congé supplémentaire.
+  Der Direktor hat es *abgelehnt*, einen zusätzlichen Urlaubstag zu gewähren.
+
+  La voiture *refuse* de démarrer par ce froid.
+  Das Auto *weigert* sich, bei dieser Kälte anzuspringen.
+
+  Ils ont *refusé* l'offre d'achat de leur maison.
+  Sie haben das Kaufangebot für ihr Haus *abgelehnt*.
+
+  Le juge a *refusé* d'entendre ce témoignage.
+  Der Richter hat es *abgelehnt*, diese Zeugenaussage anzuhören.
+
+  L'employé *refuse* de faire des heures supplémentaires.
+  Der Angestellte *weigert* sich, Überstunden zu machen.
+
+  Le gouvernement *refuse* de céder aux exigences des manifestants.
+  Die Regierung *weigert* sich, den Forderungen der Demonstranten nachzugeben.
+
+  Elle *refuse* de s'excuser pour son comportement.
+  Sie *weigert* sich, sich für ihr Verhalten zu entschuldigen.
+
+  Le restaurant *refuse* les cartes de crédit.
+  Das Restaurant *akzeptiert* keine Kreditkarten.
+
+  L'acteur a *refusé* de tourner cette scène jugée trop dangereuse.
+  Der Schauspieler hat sich *geweigert*, diese als zu gefährlich eingestufte Szene zu drehen.
+
+  Je me *refuse* à croire que tout est perdu.
+  Ich *weigere* mich zu glauben, dass alles verloren ist.
+
+  L'entreprise *refuse* de négocier avec les syndicats.
+  Das Unternehmen *weigert* sich, mit den Gewerkschaften zu verhandeln.
+
+  Le patient *refuse* le traitement proposé par le médecin.
+  Der Patient *lehnt* die vom Arzt vorgeschlagene Behandlung *ab*.
+
+  Ils ont *refusé* de signer le contrat sans le lire attentivement.
+  Sie haben sich *geweigert*, den Vertrag zu unterschreiben, ohne ihn sorgfältig zu lesen.
+
+  Le professeur *refuse* de corriger les copies pendant le week-end.
+  Der Lehrer *weigert* sich, die Arbeiten am Wochenende zu korrigieren.
+
+  L'armée *refuse* de participer à cette opération militaire.
+  Die Armee *weigert* sich, an diesem Militäreinsatz teilzunehmen.
+
+  Le chanteur *refuse* de se produire dans cette salle mal équipée.
+  Der Sänger *weigert* sich, in diesem schlecht ausgestatteten Saal aufzutreten.
+
+  L'enfant *refuse* d'aller se coucher à l'heure prévue.
+  Das Kind *weigert* sich, zur vorgesehenen Zeit ins Bett zu gehen.
+
+  La compagnie aérienne *refuse* d'embarquer les passagers en retard.
+  Die Fluggesellschaft *verweigert* verspäteten Passagieren den Einstieg.
+
+  Le suspect *refuse* de répondre aux questions de la police.
+  Der Verdächtige *weigert* sich, die Fragen der Polizei zu beantworten.
+
+  L'athlète *refuse* de se soumettre à un contrôle antidopage.
+  Der Athlet *weigert* sich, sich einer Dopingkontrolle zu unterziehen.
+
+  Le comédien *refuse* de jouer ce rôle qu'il juge inapproprié.
+  Der Schauspieler *weigert* sich, diese Rolle zu spielen, die er für unangemessen hält.
+
+  L'équipe *refuse* de jouer sur ce terrain détrempé.
+  Die Mannschaft *weigert* sich, auf diesem durchnässten Platz zu spielen.
+
+  Le politicien *refuse* de commenter les rumeurs sur sa vie privée.
+  Der Politiker *weigert* sich, die Gerüchte über sein Privatleben zu kommentieren.
+
+  L'artiste *refuse* de vendre ses œuvres à des collectionneurs privés.
+  Der Künstler *weigert* sich, seine Werke an private Sammler zu verkaufen.
+
+  Le tribunal *refuse* d'entendre de nouveaux témoins.
+  Das Gericht *lehnt* es *ab*, neue Zeugen anzuhören.
+
+  L'entreprise *refuse* de licencier des employés malgré la crise.
+  Das Unternehmen *weigert* sich trotz der Krise, Mitarbeiter zu entlassen.
+
+  Le jeune homme *refuse* de quitter le domicile familial.
+  Der junge Mann *weigert* sich, das Elternhaus zu verlassen.
+
+  La star *refuse* de donner des autographes après le spectacle.
+  Der Star *weigert* sich, nach der Vorstellung Autogramme zu geben.
+
+  Le conducteur *refuse* de céder le passage aux piétons.
+  Der Fahrer *weigert* sich, Fußgängern den Vortritt zu gewähren.
+
+  L'élève *refuse* de rendre son devoir à temps.
+  Der Schüler *weigert* sich, seine Hausaufgaben pünktlich abzugeben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

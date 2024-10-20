@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai fait quelques rencontres formidables.
-  Ich habe einige tolle Bekanntschaften gemacht.
+  J'ai fait quelques rencontres *formidables*.
+  Ich habe ein paar *tolle* Bekanntschaften gemacht.
 
-  C’est une nouvelle formidable!
-  Das ist eine großartige Neuigkeit!
+  Le bruit de l'explosion était *formidable*.
+  Der Knall der Explosion war *gewaltig*.
 
-  Tu es une femme formidable !
-  Du bist eine tolle Frau!
+  "C'est un *formidable* spectacle !" s'est-il exclamé en voyant le feu d'artifice.
+  "Das ist ein *tolles* Schauspiel!", rief er beim Anblick des Feuerwerks aus.
 
-  C'est formidable ! Je suis vraiment heureux pour toi.
-  Das ist ja irre! Ich freue mich riesig für dich.
+  Elle a une volonté *formidable* qui lui permet de surmonter tous les obstacles.
+  Sie hat einen *ungeheuren* Willen, der es ihr ermöglicht, alle Hindernisse zu überwinden.
+
+  Le coût de ce projet est *formidable*, mais il en vaut la peine.
+  Die Kosten für dieses Projekt sind *gewaltig*, aber es lohnt sich.
+
+  "Tu as été *formidable* pendant la présentation !" a dit le patron à son employé.
+  "Du warst während der Präsentation *stark*!", sagte der Chef zu seinem Angestellten.
+
+  Les Vikings étaient considérés comme des guerriers *formidables* par leurs ennemis.
+  Die Wikinger wurden von ihren Feinden als *furchteinflößende* Krieger angesehen.
+
+  Cette entreprise a connu une croissance *formidable* ces dernières années.
+  Dieses Unternehmen hat in den letzten Jahren ein *enormes* Wachstum erlebt.
+
+  Le candidat a fait un discours *formidable* qui a captivé tout l'auditoire.
+  Der Kandidat hielt eine *außergewöhnliche* Rede, die das gesamte Publikum fesselte.
+
+  "C'est quand même *formidable* qu'il ait réussi à terminer le marathon !"
+  "Es ist schon *erstaunlich*, dass er es geschafft hat, den Marathon zu beenden!"
+
+  La nature a une capacité de régénération *formidable*.
+  Die Natur hat eine *erstaunliche* Regenerationsfähigkeit.
+
+  Ils ont dû faire face à des défis *formidables* pour atteindre le sommet.
+  Sie mussten *gewaltige* Herausforderungen bewältigen, um den Gipfel zu erreichen.
+
+  Ce nouveau vaccin représente une avancée *formidable* dans la lutte contre la maladie.
+  Dieser neue Impfstoff stellt einen *gewaltigen* Fortschritt im Kampf gegen die Krankheit dar.
+
+  "Ton gâteau est vraiment *formidable* !" a-t-elle dit en se léchant les doigts.
+  "Dein Kuchen ist wirklich *toll*!", sagte sie, während sie sich die Finger ableckte.
+
+  L'équipe a montré une détermination *formidable* malgré sa défaite.
+  Die Mannschaft zeigte trotz ihrer Niederlage eine *ungeheure* Entschlossenheit.
+
+  Le chanteur a une voix *formidable* qui peut remplir toute la salle.
+  Der Sänger hat eine *gewaltige* Stimme, die den ganzen Saal füllen kann.
+
+  Les effets spéciaux du film étaient absolument *formidables*.
+  Die Spezialeffekte des Films waren absolut *sensationell*.
+
+  Cette découverte ouvre des possibilités *formidables* pour la recherche future.
+  Diese Entdeckung eröffnet *gewaltige* Möglichkeiten für die zukünftige Forschung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

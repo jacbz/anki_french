@@ -13,23 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le fleuve coule toujours dans le même sens.
-  Der Fluss fließt immer in die gleiche Richtung.
+  Le *fleuve* coule toujours dans le même sens.
+  Der *Fluss* fließt immer in dieselbe Richtung.
 
-  Le fleuve Amazone est le plus grand fleuve du monde.
-  Der Amazonas ist der größte Fluss der Welt.
+  Le Nil est le plus long *fleuve* d'Afrique.
+  Der Nil ist der längste *Strom* Afrikas.
 
-  Le fleuve de lave a détruit tout sur son passage.
-  Der Lavastrom hat alles auf seinem Weg vernichtet.
+  La ville est traversée par un majestueux *fleuve*.
+  Die Stadt wird von einem majestätischen *Strom* durchquert.
 
-  Une immense fleuve de boue s'est abattue sur le village.
-  Eine Schlammlawine hat das Dorf getroffen.
+  Les enfants jouaient sur les rives du *fleuve*.
+  Die Kinder spielten am Ufer des *Flusses*.
 
-  Le professeur a déversé un fleuve de paroles sur ses étudiants.
-  Der Professor hat einen Redeschwall auf seine Studenten losgelassen.
+  Un *fleuve* de boue a dévalé la montagne après les fortes pluies.
+  Eine *Schlammlawine* stürzte nach dem starken Regen den Berg hinunter.
 
-  Elle laissait couler un fleuve de larmes.
-  Sie ließ Bäche von Tränen fließen.
+  L'orateur a déversé un *fleuve* de paroles.
+  Der Redner ergoss einen *Redeschwall*.
+
+  Elle a versé un *fleuve* de larmes en apprenant la nouvelle.
+  Sie vergoss *Bäche von Tränen*, als sie die Nachricht erfuhr.
+
+  Le *fleuve* Amazone a le plus grand débit au monde.
+  Der Amazonas*strom* hat die größte Wassermenge der Welt.
+
+  Les bateaux de croisière naviguent sur ce *fleuve* en été.
+  Die Kreuzfahrtschiffe befahren diesen *Strom* im Sommer.
+
+  Le pont enjambe le *fleuve* large de plusieurs centaines de mètres.
+  Die Brücke überspannt den mehrere hundert Meter breiten *Fluss*.
+
+  La pollution menace l'écosystème de ce *fleuve* côtier.
+  Die Verschmutzung bedroht das Ökosystem dieses Küsten*flusses*.
+
+  Un barrage a été construit pour réguler le débit du *fleuve*.
+  Ein Staudamm wurde gebaut, um den Abfluss des *Stroms* zu regulieren.
+
+  Les agriculteurs dépendent de ce *fleuve* pour irriguer leurs champs.
+  Die Bauern sind von diesem *Fluss* abhängig, um ihre Felder zu bewässern.
+
+  Le delta du *fleuve* est une zone riche en biodiversité.
+  Das Delta des *Stroms* ist ein Gebiet mit reicher Biodiversität.
+
+  Les anciens Égyptiens vénéraient le Nil comme un dieu *fleuve*.
+  Die alten Ägypter verehrten den Nil als *Flussgott*.
+
+  "Ce roman-*fleuve* m'a tenu en haleine pendant des semaines."
+  "Dieser *epische Roman* hat mich wochenlang in Atem gehalten."
+
+  Le *fleuve* déborde chaque année pendant la saison des pluies.
+  Der *Fluss* tritt jedes Jahr während der Regenzeit über die Ufer.
+
+  Les eaux du *fleuve* se jettent dans l'océan par un large estuaire.
+  Die Gewässer des *Stroms* münden durch eine breite Flussmündung in den Ozean.
+
+  La source de ce *fleuve* se trouve dans les montagnes lointaines.
+  Die Quelle dieses *Flusses* befindet sich in den fernen Bergen.
+
+  Un *fleuve* de lave s'écoulait du volcan en éruption.
+  Ein *Lavastrom* floss aus dem ausbrechenden Vulkan.
+
+  Le temps s'écoule comme un *fleuve* qui ne remonte jamais à sa source.
+  Die Zeit vergeht wie ein *Fluss*, der nie zu seiner Quelle zurückkehrt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

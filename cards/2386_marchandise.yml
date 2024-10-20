@@ -13,41 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La marchandise s’est vendue de façon incroyable.
-  Die Ware verkaufte sich unglaublich gut.
+  La *marchandise* s'est vendue de façon incroyable.
+  Die *Ware* hat sich unglaublich gut verkauft.
 
-  Le magasin a reçu une nouvelle marchandise.
-  Das Geschäft hat neue Ware erhalten.
+  Le magasin propose une large gamme de *marchandises* à des prix compétitifs.
+  Der Laden bietet eine breite Palette von *Waren* zu wettbewerbsfähigen Preisen an.
 
-  On ne trouve que de la marchandise discount dans ce magasin.
-  In diesem Geschäft gibt es nur Billigware.
+  Les douaniers ont saisi des *marchandises* de contrebande à la frontière.
+  Die Zollbeamten haben an der Grenze Schmuggler*waren* beschlagnahmt.
 
-  Les marchandises disponibles sont à votre disposition dans le stock.
-  Die Lokowaren stehen Ihnen im Lager zur Verfügung.
+  Le fournisseur a livré des *marchandises* défectueuses.
+  Der Lieferant hat fehlerhafte *Waren* geliefert.
 
-  Le vendeur sait faire valoir sa marchandise.
-  Der Verkäufer weiß, seine Ware anzupreisen.
+  La *marchandise* a été stockée dans l'entrepôt en attendant d'être distribuée.
+  Die *Ware* wurde im Lager gelagert, bis sie verteilt wird.
 
-  La marchandise déficitaire se vend à prix d'or.
-  Die Defizitware wird zu Höchstpreisen verkauft.
+  Les *marchandises* périssables doivent être transportées rapidement.
+  Verderbliche *Waren* müssen schnell transportiert werden.
 
-  Le camion transportait de la marchandise pondéreuse.
-  Der LKW transportierte Schwergut.
+  Le train de *marchandises* traverse la campagne jour et nuit.
+  Der *Güter*zug fährt Tag und Nacht durch die Landschaft.
 
-  Ils ont inondé le marché avec leur marchandise sacrifiée.
-  Sie haben den Markt mit ihrer Dumpingware überschwemmt.
+  "Cette *marchandise* est de première qualité," a assuré le vendeur.
+  "Diese *Ware* ist von erstklassiger Qualität", versicherte der Verkäufer.
 
-  La marchandise saisonnière est en promotion en fin de saison.
-  Die Saisonware ist am Ende der Saison reduziert.
+  Les *marchandises* en solde attirent toujours beaucoup de clients.
+  Reduzierte *Waren* ziehen immer viele Kunden an.
 
-  Cette boutique propose de la marchandise de catégorie moyenne.
-  Dieser Laden bietet Durchschnittsware an.
+  Il faut vérifier la qualité de la *marchandise* avant de l'accepter.
+  Man muss die Qualität der *Ware* überprüfen, bevor man sie annimmt.
 
-  Le navire transportait des marchandises de gros tonnage.
-  Das Schiff transportierte Massengüter.
+  La *marchandise* a été endommagée pendant le transport.
+  Die *Ware* wurde während des Transports beschädigt.
 
-  Les prix des marchandises de première nécessité ont augmenté.
-  Die Preise für Waren des Grundbedarfs sind gestiegen.
+  Les *marchandises* importées sont soumises à des droits de douane.
+  Importierte *Waren* unterliegen Zollgebühren.
+
+  Le supermarché propose des *marchandises* de marque et des produits génériques.
+  Der Supermarkt bietet Marken*waren* und Eigenmarkenprodukte an.
+
+  Les *marchandises* saisonnières sont mises en avant dans la vitrine.
+  Saison*waren* werden im Schaufenster hervorgehoben.
+
+  Le commerce en ligne a révolutionné la distribution des *marchandises*.
+  Der Online-Handel hat den Vertrieb von *Waren* revolutioniert.
+
+  Les *marchandises* exposées doivent être étiquetées avec leur prix.
+  Die ausgestellten *Waren* müssen mit ihrem Preis ausgezeichnet sein.
+
+  "Il ne faut pas juger la *marchandise* sur son emballage," dit le proverbe.
+  "Man soll die *Ware* nicht nach ihrer Verpackung beurteilen", sagt das Sprichwort.
+
+  La bourse des *marchandises* influence les prix mondiaux de certains produits.
+  Die *Waren*börse beeinflusst die weltweiten Preise für bestimmte Produkte.
+
+  Les *marchandises* en transit sont temporairement stockées dans un entrepôt franc.
+  Transit*waren* werden vorübergehend in einem Zolllager gelagert.
+
+  Le vendeur ambulant proposait des *marchandises* à bas prix.
+  Der Straßenhändler bot billige *Waren* an.
+
+  L'entreprise a dû retourner la *marchandise* non conforme au fournisseur.
+  Das Unternehmen musste die nicht konforme *Ware* an den Lieferanten zurückschicken.
+
+  "*Faites valoir votre marchandise*," a conseillé le mentor au jeune entrepreneur.
+  "*Preisen Sie Ihre Ware an*", riet der Mentor dem jungen Unternehmer.
+
+  Le magasin propose des *marchandises* de catégorie moyenne à des prix abordables.
+  Der Laden bietet *Durchschnittsware* zu erschwinglichen Preisen an.
+
+  "Ne vous fiez pas aux apparences, il a *trompé sur la marchandise*," a averti le client mécontent.
+  "Lassen Sie sich nicht vom Schein trügen, er hat *falsche Tatsachen vorgespiegelt*", warnte der unzufriedene Kunde.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

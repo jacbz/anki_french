@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Apparemment, ces moulins tournent encore.
-  Offenbar drehen sich diese Mühlen immer noch.
+  *Apparemment*, ces moulins tournent encore.
+  Diese Mühlen drehen sich *anscheinend* noch.
 
-  Apparemment, il n’y a personne à la maison.
-  Offensichtlich ist niemand zu Hause.
+  Il n'a *apparemment* pas compris la question.
+  Er hat die Frage *offenbar* nicht verstanden.
+
+  *Apparemment*, le train aura du retard aujourd'hui.
+  Der Zug wird heute *anscheinend* Verspätung haben.
+
+  Elle est *apparemment* très douée en mathématiques.
+  Sie ist *offensichtlich* sehr begabt in Mathematik.
+
+  Le suspect a *apparemment* quitté la ville hier soir.
+  Der Verdächtige hat die Stadt *anscheinend* gestern Abend verlassen.
+
+  *Apparemment*, le concert de ce soir est complet.
+  Das Konzert heute Abend ist *offenbar* ausverkauft.
+
+  Cette recette est *apparemment* facile à réaliser.
+  Dieses Rezept ist *anscheinend* einfach zuzubereiten.
+
+  Le nouveau film de ce réalisateur a *apparemment* beaucoup de succès.
+  Der neue Film dieses Regisseurs hat *offensichtlich* viel Erfolg.
+
+  *Apparemment*, il pleuvra toute la semaine prochaine.
+  Es wird nächste Woche *anscheinend* die ganze Zeit regnen.
+
+  La situation économique s'est *apparemment* améliorée ces derniers mois.
+  Die wirtschaftliche Lage hat sich in den letzten Monaten *offenbar* verbessert.
+
+  *Apparemment*, le chien du voisin s'est encore échappé.
+  Der Hund des Nachbarn ist *anscheinend* wieder ausgebüxt.
+
+  Cette entreprise a *apparemment* de gros revenus.
+  Dieses Unternehmen hat *offensichtlich* hohe Einnahmen.
+
+  *Apparemment*, le professeur ne viendra pas aujourd'hui.
+  Der Lehrer kommt heute *anscheinend* nicht.
+
+  Le patient est *apparemment* guéri de sa maladie.
+  Der Patient ist von seiner Krankheit *offenbar* geheilt.
+
+  *Apparemment*, elle en sait plus long que nous sur cette affaire.
+  Sie weiß über diese Angelegenheit *anscheinend* mehr als wir.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

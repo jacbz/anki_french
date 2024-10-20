@@ -13,41 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Son père était un ingénieur des chemins de fer.
-  Sein Vater war ein Eisenbahningenieur.
+  Son père était un *ingénieur* des chemins de fer.
+  Sein Vater war *Ingenieur* bei der Eisenbahn.
 
-  Mon père est ingénieur.
-  Mein Vater ist Ingenieur.
+  Marie rêve de devenir *ingénieure* en aéronautique depuis son enfance.
+  Marie träumt seit ihrer Kindheit davon, *Ingenieurin* in der Luftfahrt zu werden.
 
-  L'ingénieur général est à la tête d'un grand projet.
-  Die leitende Ingenieurin ist verantwortlich für ein großes Projekt.
+  L'*ingénieur* chimiste a développé un nouveau procédé de recyclage du plastique.
+  Der *Chemieingenieur* hat ein neues Verfahren zum Recycling von Plastik entwickelt.
 
-  L'ingénieur en chef dirige une équipe d'ingénieurs.
-  Die Oberingenieurin leitet ein Team von Ingenieuren.
+  Notre entreprise recherche un *ingénieur* système expérimenté.
+  Unser Unternehmen sucht einen erfahrenen System*ingenieur*.
 
-  L'ingénieur agronome étudie les sols et les cultures.
-  Die Diplomlandwirtin befasst sich mit Böden und Kulturen.
+  Les *ingénieurs* civils jouent un rôle crucial dans la conception des infrastructures urbaines.
+  Bau*ingenieure* spielen eine entscheidende Rolle bei der Gestaltung der städtischen Infrastruktur.
 
-  L'ingénieur chimiste travaille dans une usine de produits chimiques.
-  Die Chemieingenieurin arbeitet in einem Chemieunternehmen.
+  L'*ingénieure* agronome a proposé des solutions innovantes pour l'agriculture durable.
+  Die *Agraringenieurin* hat innovative Lösungen für nachhaltige Landwirtschaft vorgeschlagen.
 
-  L'ingénieur civil construit des bâtiments et des infrastructures.
-  Die Ingenieurin in der Privatwirtschaft baut Gebäude und Infrastruktur.
+  Le projet sera supervisé par un *ingénieur* en chef de grande expérience.
+  Das Projekt wird von einem sehr erfahrenen Ober*ingenieur* beaufsichtigt.
 
-  L'ingénieur en écologie travaille pour protéger l'environnement.
-  Die Umweltingenieurin arbeitet im Umweltschutz.
+  Les *ingénieurs* en écologie travaillent à la protection de l'environnement.
+  Umwelt*ingenieure* arbeiten am Schutz der Umwelt.
 
-  L'ingénieur économiste analyse les données économiques.
-  Die Wirtschaftsingenieurin analysiert Wirtschaftsdaten.
+  L'*ingénieur* du son a amélioré la qualité acoustique de la salle de concert.
+  Der Ton*ingenieur* hat die akustische Qualität des Konzertsaals verbessert.
 
-  L'ingénieur textile conçoit des vêtements et des tissus.
-  Die Textilingenieurin entwirft Kleidung und Stoffe.
+  Le diplôme d'*ingénieur* est très valorisé sur le marché du travail.
+  Der *Ingenieur*titel wird auf dem Arbeitsmarkt sehr geschätzt.
 
-  L'ingénieur en aéronautique travaille dans l'industrie aéronautique.
-  Die Flugtechnikerin arbeitet in der Luftfahrtindustrie.
+  Les *ingénieurs* textile développent de nouveaux matériaux innovants.
+  Textil*ingenieure* entwickeln neue, innovative Materialien.
 
-  L'ingénieur en bâtiment conçoit des bâtiments.
-  Die Hochbauingenieurin entwirft Gebäude.
+  L'*ingénieure* en bâtiment a conçu un gratte-ciel résistant aux tremblements de terre.
+  Die Hochbau*ingenieurin* hat einen erdbebensicheren Wolkenkratzer entworfen.
+
+  Les *ingénieurs* économistes analysent l'impact financier des projets industriels.
+  Wirtschafts*ingenieure* analysieren die finanziellen Auswirkungen von Industrieprojekten.
+
+  L'*ingénieur* général a supervisé la construction du nouveau pont.
+  Der leitende *Ingenieur* hat den Bau der neuen Brücke beaufsichtigt.
+
+  Les *ingénieurs* des eaux et forêts veillent à la préservation de nos ressources naturelles.
+  Die *Ingenieure* für Wasser und Forsten sorgen für den Erhalt unserer natürlichen Ressourcen.
+
+  L'*ingénieure* conseil a proposé des solutions pour optimiser la production de l'usine.
+  Die *Beratungsingenieurin* hat Lösungen zur Optimierung der Fabrikproduktion vorgeschlagen.
+
+  Les *ingénieurs* de l'armement travaillent sur des technologies de défense avancées.
+  Rüstungs*ingenieure* arbeiten an fortschrittlichen Verteidigungstechnologien.
+
+  L'*ingénieur* d'études a présenté les plans du nouveau projet au comité de direction.
+  Der Projekt*ingenieur* hat die Pläne für das neue Projekt dem Leitungsausschuss vorgestellt.
+
+  Les *ingénieurs* de la ville ont conçu un nouveau système de gestion des déchets.
+  Die Stadt*ingenieure* haben ein neues Abfallmanagementsystem entwickelt.
+
+  L'*ingénieure* électronicienne a mis au point un circuit imprimé innovant.
+  Die Elektronik*ingenieurin* hat eine innovative Leiterplatte entwickelt.
+
+  Les *ingénieurs*-experts ont été appelés pour évaluer les dommages après l'incendie.
+  Die Sach*ingenieure* wurden gerufen, um die Schäden nach dem Brand zu bewerten.
+
+  L'*ingénieur* commercial a négocié un contrat important avec un nouveau client.
+  Der Vertriebs*ingenieur* hat einen wichtigen Vertrag mit einem neuen Kunden ausgehandelt.
+
+  Les élèves *ingénieurs* participent à un stage en entreprise pour acquérir de l'expérience pratique.
+  Die angehenden *Ingenieure* nehmen an einem Unternehmenspraktikum teil, um praktische Erfahrungen zu sammeln.
+
+  L'*ingénieure* en génie rural a conçu un système d'irrigation innovant pour les régions arides.
+  Die *Ingenieurin* für ländliche Entwicklung hat ein innovatives Bewässerungssystem für Trockengebiete entworfen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

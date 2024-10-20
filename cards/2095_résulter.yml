@@ -13,29 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il en est résulté une tragédie humaine énorme.
-  Das Ergebnis war eine enorme menschliche Tragödie.
+  Il en est *résulté* une tragédie humaine énorme.
+  Daraus *resultierte* eine enorme menschliche Tragödie.
 
-  Cela peut résulter en des conséquences graves.
-  Das kann zu schwerwiegenden Konsequenzen führen.
+  Les problèmes actuels *résultent* d'années de mauvaise gestion.
+  Die aktuellen Probleme *resultieren* aus jahrelanger Misswirtschaft.
 
-  Le conflit entre les deux familles a résulté d'un malentendu.
-  Aus einem Missverständnis ist der Konflikt zwischen den beiden Familien entstanden.
+  Que *résultera*-t-il de cette décision précipitée ?
+  Was wird aus dieser überstürzten Entscheidung *folgen*?
 
-  Il résulte d'un long travail de recherche, que la solution au problème a été trouvée.
-  Aus einer langen Forschungsarbeit folgt, dass die Lösung für das Problem gefunden wurde.
+  La pollution de l'air *résulte* principalement de l'activité industrielle.
+  Die Luftverschmutzung *ergibt sich* hauptsächlich aus der industriellen Aktivität.
 
-  La décision a résulté d'une réunion animée, où chacun a pu exprimer son point de vue.
-  Die Entscheidung ist bei einer lebhaften Versammlung herausgekommen, in der jeder seinen Standpunkt vertreten konnte.
+  Les tensions *résultant* de ce conflit ont affecté toute la région.
+  Die aus diesem Konflikt *resultierenden* Spannungen haben die ganze Region betroffen.
 
-  Il en est résulté une grande confusion dans la salle.
-  Das Ergebnis war große Verwirrung im Raum.
+  Il *résulte* de cette étude que le changement climatique s'accélère.
+  Aus dieser Studie *geht hervor*, dass sich der Klimawandel beschleunigt.
 
-  Il en est résulté que le projet a été abandonné.
-  Das Ergebnis war, dass das Projekt aufgegeben wurde.
+  Cette découverte scientifique *résulte* de années de recherche intensive.
+  Diese wissenschaftliche Entdeckung *ist das Ergebnis* jahrelanger intensiver Forschung.
 
-  Qu'en résultera-t-il pour l'avenir de la société ?
-  Was dabei wohl für die Zukunft des Unternehmens herauskommen wird?
+  Les économies réalisées *résultent* d'une gestion plus efficace des ressources.
+  Die erzielten Einsparungen *ergeben sich* aus einem effizienteren Ressourcenmanagement.
+
+  La confusion qui a *résulté* de cette annonce était prévisible.
+  Die Verwirrung, die aus dieser Ankündigung *entstanden ist*, war vorhersehbar.
+
+  Le succès de l'entreprise *résulte* de l'innovation constante.
+  Der Erfolg des Unternehmens *resultiert* aus ständiger Innovation.
+
+  Les conclusions *résultant* de l'enquête seront publiées demain.
+  Die aus der Untersuchung *resultierenden* Schlussfolgerungen werden morgen veröffentlicht.
+
+  Cette situation *résulte* d'une série de mauvaises décisions.
+  Diese Situation *ist das Ergebnis* einer Reihe von Fehlentscheidungen.
+
+  Les bénéfices pour la santé *résultent* d'un mode de vie équilibré.
+  Die gesundheitlichen Vorteile *ergeben sich* aus einer ausgewogenen Lebensweise.
+
+  La théorie *résultant* de ces observations a révolutionné la physique.
+  Die aus diesen Beobachtungen *resultierende* Theorie hat die Physik revolutioniert.
+
+  Le chômage élevé *résulte* en partie de l'automatisation croissante.
+  Die hohe Arbeitslosigkeit *resultiert* teilweise aus der zunehmenden Automatisierung.
+
+  Cette erreur *résulte* d'un manque d'attention aux détails.
+  Dieser Fehler *ergibt sich* aus einem Mangel an Aufmerksamkeit für Details.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

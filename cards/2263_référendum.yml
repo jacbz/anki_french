@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils se préparent à un référendum.
-  Sie bereiten sich auf ein Referendum vor.
+  Ils se préparent à un *référendum*.
+  Sie bereiten sich auf ein *Referendum* vor.
 
-  Le gouvernement a organisé un référendum sur la réforme constitutionnelle.
-  Die Regierung hat eine Volksabstimmung über die Verfassungsreform organisiert.
+  Le *référendum* sur l'indépendance aura lieu le mois prochain.
+  Die *Volksabstimmung* über die Unabhängigkeit findet nächsten Monat statt.
+
+  Le gouvernement a décidé de soumettre cette loi au *référendum*.
+  Die Regierung hat beschlossen, dieses Gesetz zur *Volksabstimmung* zu bringen.
+
+  Les citoyens ont rejeté la proposition lors du *référendum* d'hier.
+  Die Bürger haben den Vorschlag bei der gestrigen *Volksabstimmung* abgelehnt.
+
+  Un *référendum* constitutionnel est prévu pour l'année prochaine.
+  Für nächstes Jahr ist ein *Volksentscheid* zur Verfassung geplant.
+
+  Le maire a annoncé un *référendum* local sur le projet de construction.
+  Der Bürgermeister hat ein lokales *Referendum* über das Bauprojekt angekündigt.
+
+  Les résultats du *référendum* seront annoncés ce soir à 20 heures.
+  Die Ergebnisse des *Volksentscheids* werden heute Abend um 20 Uhr bekannt gegeben.
+
+  Le Parlement a approuvé la tenue d'un *référendum* sur cette question.
+  Das Parlament hat die Durchführung eines *Referendums* zu dieser Frage genehmigt.
+
+  Les électeurs ont participé massivement au *référendum* d'autodétermination.
+  Die Wähler haben sich massiv an der *Volksabstimmung* zur Selbstbestimmung beteiligt.
+
+  Un *référendum* d'initiative populaire a été lancé pour modifier la loi.
+  Ein *Volksbegehren* wurde gestartet, um das Gesetz zu ändern.
+
+  Le syndicat a organisé un *référendum* auprès des employés sur les nouvelles conditions de travail.
+  Die Gewerkschaft hat eine *Abstimmung* unter den Mitarbeitern über die neuen Arbeitsbedingungen organisiert.
+
+  La Constitution de 1958 a été adoptée par *référendum*.
+  Die Verfassung von 1958 wurde durch eine *Volksabstimmung* angenommen.
+
+  Le *référendum* législatif portera sur la réforme du système de santé.
+  Der *Volksentscheid* wird sich mit der Reform des Gesundheitssystems befassen.
+
+  Les citoyens suisses sont habitués à voter lors de nombreux *référendums*.
+  Die Schweizer Bürger sind es gewohnt, an zahlreichen *Volksabstimmungen* teilzunehmen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

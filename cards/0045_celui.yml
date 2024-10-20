@@ -13,26 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tu es celui que je respecte le plus.
-  Du bist derjenige, den ich am meisten respektiere.
+  Tu es *celui* que je respecte le plus.
+  Du bist *derjenige*, den ich am meisten respektiere.
 
-  Celui-ci est plus grand que celui-là.
-  Dieser hier ist größer als der da.
+  Prenez ce crayon, *celui*-ci est plus adapté pour dessiner.
+  Nehmen Sie diesen Bleistift, *dieser* ist besser zum Zeichnen geeignet.
 
-  Mon classeur est plus joli que celui de Paul.
-  Mein Ordner ist schöner als der von Paul.
+  La robe de Marie est plus élégante que *celle* de sa sœur.
+  Maries Kleid ist eleganter als *das* ihrer Schwester.
 
-  Voilà l'ordinateur qui est encore mieux que celui de Jules.
-  Das ist der Computer, der noch besser ist als der von Jules.
+  *Ceux* qui arriveront en retard ne pourront pas entrer.
+  *Diejenigen*, die zu spät kommen, dürfen nicht eintreten.
 
-  Le produit importé est moins cher que celui fabriqué en France.
-  Die importierte Ware ist preisgünstiger als die, die in Frankreich hergestellt wird.
+  J'ai choisi *celle*-là parmi toutes les options disponibles.
+  Ich habe *jene* unter allen verfügbaren Optionen ausgewählt.
 
-  Mets donc ton pantalon rouge, c'est celui qui te va le mieux.
-  Zieh doch deine rote Hose an, die steht dir am besten.
+  Les problèmes d'aujourd'hui ne sont pas *ceux* d'hier.
+  Die Probleme von heute sind nicht *die* von gestern.
 
-  Ce tableau est moins cher que celui que j'ai acheté.
-  Dieses Bild ist billiger als das, das ich gekauft habe.
+  *Celui* qui rira le dernier rira le mieux.
+  *Wer* zuletzt lacht, lacht am besten.
+
+  Cette voiture est moins chère que *celle* que nous avons vue hier.
+  Dieses Auto ist günstiger als *das*, das wir gestern gesehen haben.
+
+  Entre ces deux candidats, *celui*-ci semble plus qualifié que *celui*-là.
+  Von diesen beiden Kandidaten scheint *dieser* qualifizierter zu sein als *jener*.
+
+  Les idées de Pierre et *celles* de Paul sont très différentes.
+  Die Ideen von Pierre und *die* von Paul sind sehr unterschiedlich.
+
+  *Celle* dont je te parle est une vieille amie d'enfance.
+  *Diejenige*, von der ich dir erzähle, ist eine alte Freundin aus Kindertagen.
+
+  Le stylo que j'ai perdu était *celui* que tu m'avais offert.
+  Der Stift, den ich verloren habe, war *der*, den du mir geschenkt hattest.
+
+  Parmi tous ces livres, *ceux* que j'ai lus sont sur cette étagère.
+  Von all diesen Büchern stehen *die*, die ich gelesen habe, in diesem Regal.
+
+  Je préfère *celle*-ci à *celle*-là, elle est plus confortable.
+  Ich bevorzuge *diese* gegenüber *jener*, sie ist bequemer.
+
+  Les opinions de chacun, y compris *celles* des minorités, doivent être respectées.
+  Die Meinungen eines jeden, einschließlich *derer* von Minderheiten, müssen respektiert werden.
+
+  *Celui* qui ne dit mot consent.
+  *Wer* schweigt, stimmt zu.
+
+  Cette méthode est plus efficace que *celle* que nous utilisions auparavant.
+  Diese Methode ist effizienter als *die*, die wir zuvor verwendet haben.
+
+  Entre ces deux chemises, je choisis *celle*-ci pour le rendez-vous.
+  Von diesen beiden Hemden wähle ich *dieses* für das Treffen.
+
+  Les défis d'aujourd'hui ne sont pas *ceux* d'hier, mais nous les surmonterons.
+  Die Herausforderungen von heute sind nicht *die* von gestern, aber wir werden sie meistern.
+
+  "*Celui*-là, il ne manque pas d'air !" s'exclama-t-elle, surprise par son audace.
+  "*Der* hat vielleicht Nerven!" rief sie aus, überrascht von seiner Kühnheit.
+
+  Les meilleures idées sont souvent *celles* qui semblent les plus simples au début.
+  Die besten Ideen sind oft *diejenigen*, die am Anfang am einfachsten erscheinen.
+
+  *Celles* et *ceux* qui travaillent dur réussiront tôt ou tard.
+  *Diejenigen*, die hart arbeiten, werden früher oder später Erfolg haben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

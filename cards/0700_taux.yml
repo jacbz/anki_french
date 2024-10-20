@@ -13,44 +13,161 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les taux d’intérêt ont notablement haussé.
-  Die Zinssätze stiegen deutlich an.
+  Les *taux* d'intérêt ont notablement haussé.
+  Die Zins*sätze* sind deutlich gestiegen.
 
-  Le taux de chômage a augmenté.
-  Die Arbeitslosenrate ist gestiegen.
+  Le *taux* de chômage continue d'augmenter dans la région.
+  Die Arbeitslosen*quote* steigt in der Region weiter an.
 
-  Le taux d'imposition est un indicateur économique qui mesure la part des revenus qui sont prélevés par l'État sous forme d'impôts.
-  Die Steuerquote ist ein wirtschaftspolitischer Indikator, der den Anteil der Einnahmen misst, die der Staat in Form von Steuern erhebt.
+  Son *taux* de cholestérol est trop élevé selon le médecin.
+  Sein Cholesterin*spiegel* ist laut dem Arzt zu hoch.
 
-  Le taux d'activité est un indicateur du marché du travail qui mesure le pourcentage de personnes en âge de travailler qui sont effectivement en emploi ou en recherche d'emploi.
-  Die Beschäftigungsquote ist ein Indikator des Arbeitsmarktes, der den Prozentsatz der Personen im erwerbsfähigen Alter misst, die tatsächlich in Beschäftigung stehen oder Arbeit suchen.
+  La banque propose un prêt à *taux* fixe sur 15 ans.
+  Die Bank bietet einen fest*verzinslichen* Kredit über 15 Jahre an.
 
-  Le taux de chômage est un indicateur du marché du travail qui mesure le pourcentage de personnes en âge de travailler qui sont sans emploi et à la recherche d'un emploi.
-  Die Arbeitslosenquote ist ein Indikator des Arbeitsmarktes, der den Prozentsatz der Personen im erwerbsfähigen Alter misst, die ohne Beschäftigung sind und Arbeit suchen.
+  Le *taux* de sucre dans son sang est normal.
+  Ihr Zucker*spiegel* ist normal.
 
-  Le taux de cholestérol est une mesure du niveau de cholestérol dans le sang.
-  Der Cholesterinwert ist ein Maß für den Cholesterinspiegel im Blut.
+  Le *taux* d'accidents a diminué depuis l'installation des nouveaux feux.
+  Die Unfall*rate* ist seit der Installation der neuen Ampeln gesunken.
 
-  Le taux de pollution est une mesure de la concentration de polluants dans l'air, l'eau ou le sol.
-  Die Schadstoffbelastung ist ein Maß für die Konzentration von Schadstoffen in der Luft, im Wasser oder im Boden.
+  Le *taux* de contamination reste stable cette semaine.
+  Die Infektions*rate* bleibt diese Woche stabil.
 
-  Le taux de compression est un rapport entre le volume d'un gaz avant et après compression.
-  Das Druckverhältnis ist ein Verhältnis zwischen dem Volumen eines Gases vor und nach der Kompression.
+  Les *taux* d'hormones varient selon le cycle menstruel.
+  Der Hormon*spiegel* schwankt während des Menstruationszyklus.
 
-  Le taux d'imposition de base est le taux d'imposition appliqué aux revenus les plus bas.
-  Der Basissteuersatz ist der Steuersatz, der auf die niedrigsten Einkommen angewendet wird.
+  Le *taux* de pollution atteint des niveaux alarmants.
+  Die Schadstoff*belastung* erreicht alarmierende Werte.
 
-  Le taux d'imposition des revenus est le taux d'imposition appliqué aux revenus imposables.
-  Der Einkommensteuersatz ist der Steuersatz, der auf das zu versteuernde Einkommen angewendet wird.
+  Le *taux* d'imposition maximum est de 45% pour les plus hauts revenus.
+  Der Spitzen*satz* für die höchsten Einkommen beträgt 45%.
 
-  Le taux d'imposition unique est un taux d'imposition unique appliqué à tous les revenus.
-  Der Einheitssteuersatz ist ein einheitlicher Steuersatz, der auf alle Einkünfte angewendet wird.
+  Cette année, le *taux* normal de TVA reste inchangé.
+  Der Regel*satz* der Mehrwertsteuer bleibt dieses Jahr unverändert.
 
-  Le taux marginal d'imposition est le taux d'imposition appliqué au dernier euro gagné.
-  Der Grenzsteuersatz ist der Steuersatz, der auf den zuletzt verdienten Euro angewendet wird.
+  Les *taux* créditeurs sont particulièrement bas en ce moment.
+  Die Einlagen*sätze* sind momentan besonders niedrig.
 
-  Le taux moyen d'imposition est le taux d'imposition moyen appliqué à tous les revenus.
-  Der Durchschnittssteuersatz ist der durchschnittliche Steuersatz, der auf alle Einkünfte angewendet wird.
+  La banque centrale a décidé d'abaisser le *taux* d'escompte.
+  Die Zentralbank hat beschlossen, den Diskont*satz* zu senken.
+
+  Le *taux* d'activité des femmes augmente chaque année.
+  Die Beschäftigungs*quote* der Frauen steigt jedes Jahr.
+
+  Le *taux* de compression du moteur influence sa performance.
+  Das Druck*verhältnis* des Motors beeinflusst seine Leistung.
+
+  Le *taux* de graisse dans le sang doit être surveillé régulièrement.
+  Der Blutfett*wert* muss regelmäßig überwacht werden.
+
+  Cette banque offre des prêts à *taux* variable.
+  Diese Bank bietet variabel *verzinsliche* Kredite an.
+
+  Le *taux* d'imposition de base s'applique à tous les contribuables.
+  Der Basis*satz* gilt für alle Steuerzahler.
+
+  Le *taux* moyen d'imposition varie selon les revenus.
+  Der Durchschnittssteuer*satz* variiert je nach Einkommen.
+
+  Le *taux* de dioxyde de carbone dans l'atmosphère augmente chaque année.
+  Der Kohlendioxid*gehalt* in der Atmosphäre steigt jedes Jahr.
+
+  Le *taux* d'intérêt réel est négatif en ce moment.
+  Der Real*zins* ist derzeit negativ.
+
+  Les *taux* préférentiels sont réservés aux meilleurs clients.
+  Die Präferenz*raten* sind den besten Kunden vorbehalten.
+
+  Le *taux* de rendement sur dividendes est attractif cette année.
+  Die Dividenden*rendite* ist dieses Jahr attraktiv.
+
+  Le *taux* marginal d'imposition s'applique aux revenus supplémentaires.
+  Der Grenz*satz* gilt für zusätzliches Einkommen.
+
+  Le *taux* d'intérêt fort s'applique aux retards de paiement.
+  Der volle Zins*satz* gilt bei Zahlungsverzug.
+
+  Les *taux* du marché monétaire fluctuent quotidiennement.
+  Die Geldmarkt*sätze* schwanken täglich.
+
+  Le *taux* brut inclut toutes les taxes.
+  Der Brutto*satz* enthält alle Steuern.
+
+  Le *taux* maximal du jour a été atteint à midi.
+  Der Tageshöchst*satz* wurde mittags erreicht.
+
+  Le *taux* de l'impôt sur les sociétés va baisser l'année prochaine.
+  Der Körperschaftsteuer*satz* wird nächstes Jahr sinken.
+
+  Le *taux* de base bancaire sert de référence.
+  Der Mindest*satz* dient als Referenz.
+
+  Le *taux* de couverture de l'assurance est de 100%.
+  Das Deckungs*verhältnis* der Versicherung beträgt 100%.
+
+  Le *taux* record a été atteint hier en bourse.
+  Die Rekord*höhe* wurde gestern an der Börse erreicht.
+
+  Le *taux* de l'exercice précédent était plus élevé.
+  Die Vorjahres*rate* war höher.
+
+  Ce placement offre un *taux* fictif de 5%.
+  Diese Anlage bietet eine Schein*rendite* von 5%.
+
+  Le *taux* unitaire s'applique à chaque transaction.
+  Der Einheits*satz* gilt für jede Transaktion.
+
+  Le *taux* forfaitaire est plus simple à calculer.
+  Der Pauschal*satz* ist einfacher zu berechnen.
+
+  Le nouveau *taux* d'imposition unique simplifie le système fiscal.
+  Der neue Einheitssteuer*satz* vereinfacht das Steuersystem.
+
+  Les *taux* d'intérêt sur le marché financier sont instables.
+  Die Kapitalmarkt*zinsen* sind instabil.
+
+  Le *taux* de rendement des bons du Trésor diminue.
+  Der Schatzwechselzins*satz* sinkt.
+
+  La banque propose des prêts à *taux* d'intérêt réduit.
+  Die Bank bietet *zinsverbilligte* Kredite an.
+
+  Le *taux* d'escompte des bons du Trésor est fixé mensuellement.
+  Der Schatzwechseldiskont*satz* wird monatlich festgelegt.
+
+  Cette obligation à faible *taux* d'intérêt est peu attractive.
+  Diese niedrig*verzinsliche* Anleihe ist wenig attraktiv.
+
+  Le *taux* d'imposition des revenus dépend de plusieurs facteurs.
+  Der Einkommensteuer*satz* hängt von mehreren Faktoren ab.
+
+  Les *taux* d'intérêt baissent depuis plusieurs mois.
+  Die Zins*sätze* fallen seit mehreren Monaten.
+
+  Le *taux* de rendement d'une option d'achat peut être très élevé.
+  Die Call-*Rendite* kann sehr hoch sein.
+
+  La banque centrale maintient un *taux* d'intérêt préférentiel bas.
+  Die Zentralbank hält die Prime *Rate* niedrig.
+
+  Le *taux* d'accidents du travail a diminué cette année.
+  Die Arbeitsunfall*quote* ist dieses Jahr gesunken.
+
+  Le *taux* de pollution atmosphérique dépasse les normes.
+  Der Schadstoff*gehalt* in der Luft überschreitet die Normen.
+
+  Le *taux* maximum d'imposition ne s'applique qu'aux très hauts revenus.
+  Der Höchststeuer*satz* gilt nur für sehr hohe Einkommen.
+
+  Un prêt à *taux* fixe offre plus de sécurité.
+  Ein fest*verzinslicher* Kredit bietet mehr Sicherheit.
+
+  Le *taux* de compression optimal dépend du type de moteur.
+  Das optimale Druck*verhältnis* hängt vom Motortyp ab.
+
+  Le *taux* de l'impôt varie selon les régions.
+  Der Steuer*tarif* variiert je nach Region.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

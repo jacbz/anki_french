@@ -13,32 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Un infirmier lui est venu en aide.
-  Ein Pfleger kam ihm zu Hilfe.
+  Un *infirmier* lui est venu en aide.
+  Ein *Krankenpfleger* kam ihm zu Hilfe.
 
-  L’infirmier prend soin des patients.
-  Der Krankenpfleger kümmert sich um die Patienten.
+  L'*infirmière* a pris ma tension artérielle.
+  Die *Krankenschwester* hat meinen Blutdruck gemessen.
 
-  Elle a fait ses études à l'école d'infirmières.
-  Sie hat ihre Ausbildung an der Krankenpflegeschule absolviert.
+  Mon frère étudie pour devenir *infirmier*.
+  Mein Bruder studiert, um *Krankenpfleger* zu werden.
 
-  Il est infirmier militaire.
-  Er ist Sanitäter.
+  Elle travaille comme *infirmière* de nuit à l'hôpital.
+  Sie arbeitet als *Nachtschwester* im Krankenhaus.
 
-  L'infirmière de bloc opératoire a préparé le matériel.
-  Die OP-Schwester hat das Material vorbereitet.
+  L'*infirmier* militaire a soigné les soldats blessés.
+  Der militärische *Sanitäter* versorgte die verwundeten Soldaten.
 
-  L'infirmier de nuit a fait sa tournée.
-  Der Nachtpfleger hat seine Runde gemacht.
+  L'*infirmière* anesthésiste prépare le patient pour l'opération.
+  Die *Narkoseschwester* bereitet den Patienten für die Operation vor.
 
-  L'infirmière anesthésiste a préparé le patient pour l'opération.
-  Die Narkoseschwester hat den Patienten für die Operation vorbereitet.
+  Les *infirmières* puéricultrices s'occupent des nouveau-nés.
+  Die *Kinderkrankenschwestern* kümmern sich um die Neugeborenen.
 
-  L'infirmière puéricultrice s'occupe des bébés.
-  Die Kinderkrankenschwester kümmert sich um die Babys.
+  L'*infirmière* de la Croix Rouge a aidé lors de la catastrophe naturelle.
+  Die *Rotkreuzschwester* half bei der Naturkatastrophe.
 
-  L'infirmier de la Croix Rouge a aidé les victimes de l'accident.
-  Der Rotkreuzschwester hat den Opfern des Unfalls geholfen.
+  Le personnel *infirmier* de cet hôpital est très compétent.
+  Das *Pflegepersonal* dieses Krankenhauses ist sehr kompetent.
+
+  L'école d'*infirmières* forme de nouveaux professionnels chaque année.
+  Die *Krankenpflegeschule* bildet jedes Jahr neue Fachkräfte aus.
+
+  L'*infirmière* de bloc opératoire assiste le chirurgien pendant l'intervention.
+  Die *OP-Schwester* assistiert dem Chirurgen während des Eingriffs.
+
+  Les *infirmiers* dispensent des soins à domicile pour les patients âgés.
+  Die *Krankenpfleger* leisten häusliche Pflege für ältere Patienten.
+
+  L'*infirmière* en chef organise les plannings du service.
+  Die leitende *Krankenschwester* organisiert die Dienstpläne der Abteilung.
+
+  Le diplôme d'*infirmier* est reconnu dans toute l'Union européenne.
+  Der *Krankenpfleger*-Abschluss wird in der gesamten Europäischen Union anerkannt.
+
+  Les élèves *infirmiers* font leur stage pratique à l'hôpital local.
+  Die *Krankenpflege*-Schüler machen ihr Praktikum im örtlichen Krankenhaus.
+
+  L'*infirmière* a changé le pansement de ma blessure.
+  Die *Krankenschwester* hat den Verband meiner Wunde gewechselt.
+
+  Les *infirmiers* ambulanciers sont arrivés rapidement sur les lieux de l'accident.
+  Die *Rettungssanitäter* trafen schnell am Unfallort ein.
+
+  L'*infirmier* major a supervisé l'évacuation des patients.
+  Der leitende *Sanitäter* überwachte die Evakuierung der Patienten.
+
+  Les soins *infirmiers* sont essentiels pour le rétablissement des patients.
+  Die *pflegerische* Versorgung ist für die Genesung der Patienten unerlässlich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,41 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Qu’est-ce qui le pousse à agir ainsi ?
-  Was treibt ihn dazu, so zu handeln?
+  Qu'est-ce qui le pousse à agir *ainsi* ?
+  Was bringt ihn dazu, *so* zu handeln?
 
-  Il a agi ainsi pour aider son ami.
-  Er hat so gehandelt, um seinem Freund zu helfen.
+  C'est *ainsi* que nous avons toujours fait les choses.
+  *So* haben wir die Dinge schon immer gemacht.
 
-  Je suis fatigué, ainsi je vais me coucher plus tôt ce soir.
-  Ich bin müde, also werde ich heute Abend früher ins Bett gehen.
+  *Ainsi*, tu as finalement décidé de partir ?
+  *Also* hast du dich endlich entschieden zu gehen?
 
-  Elle a économisé de l’argent et ainsi elle a pu s’acheter une nouvelle voiture.
-  Sie hat Geld gespart und konnte sich so ein neues Auto kaufen.
+  *Ainsi* que vous pouvez le constater, les résultats sont excellents.
+  *Wie* Sie feststellen können, sind die Ergebnisse ausgezeichnet.
 
-  Il aime la randonnée, ainsi il passe tous les week-ends en montagne.
-  Er geht gerne wandern, so dass er jedes Wochenende in den Bergen verbringt.
+  Les enfants, *ainsi* que les adultes, doivent respecter ces règles.
+  Sowohl die Kinder *als auch* die Erwachsenen müssen diese Regeln befolgen.
 
-  La réunion a été annulée, ainsi nous avons pu quitter le bureau plus tôt.
-  Das Treffen wurde abgesagt, sodass wir das Büro früher verlassen konnten.
+  C'est mieux *ainsi*, croyez-moi.
+  Es ist besser *so*, glauben Sie mir.
 
-  Elle a gagné la course, ainsi elle est qualifiée pour la finale.
-  Sie hat das Rennen gewonnen, so dass sie sich für das Finale qualifiziert hat.
+  *Ainsi* va la vie, mon ami.
+  *So* geht das Leben, mein Freund.
 
-  S'il en est ainsi, nous pouvons commencer à planifier notre voyage.
-  Wenn das so ist, können wir anfangen, unsere Reise zu planen.
+  S'il en est *ainsi*, nous devrons changer nos plans.
+  Wenn das *so* ist, müssen wir unsere Pläne ändern.
 
-  Il en sera ainsi, et pas autrement, car il ne faut pas s'attendre à des miracles.
-  Das wird so und nicht anders werden, denn man darf keine Wunder erwarten.
+  Je suis *ainsi* fait : je ne peux pas mentir.
+  Ich bin nun mal *so*: ich kann nicht lügen.
 
-  C'est ainsi qu'il faut procéder: d'abord, on prépare les ingrédients, puis on les mélange et enfin on cuit le gâteau.
-  So muss man das machen: zuerst bereitet man die Zutaten vor, dann vermischt man sie und schließlich backt man den Kuchen.
+  *Pour ainsi dire*, il ne me reste plus rien.
+  Mir bleibt *sozusagen* nichts mehr.
 
-  Ainsi, il écrit : "Le ciel est bleu, les oiseaux chantent et le soleil brille".
-  So schreibt er: "Der Himmel ist blau, die Vögel singen und die Sonne scheint".
+  Et *ainsi de suite* jusqu'à la fin du mois.
+  Und *so weiter* bis zum Ende des Monats.
 
-  Ainsi donc, c'est décidé? Nous partons en vacances la semaine prochaine.
-  Dann ist es also entschieden? Wir fahren nächste Woche in Urlaub.
+  *Ainsi soit-il* ! a dit le prêtre à la fin de la prière.
+  *Amen*! sagte der Priester am Ende des Gebets.
+
+  *Ainsi*, mon frère a déjà visité ce pays trois fois.
+  *Zum Beispiel* war mein Bruder schon dreimal in diesem Land.
+
+  *Ainsi* donc, vous refusez notre proposition ?
+  *Also* lehnen Sie unseren Vorschlag ab?
+
+  Ayant *ainsi* parlé, elle quitta la pièce.
+  Nachdem sie *so* gesprochen hatte, verließ sie den Raum.
+
+  La chose s'est passée *ainsi*, je vous assure.
+  Die Sache hat sich *so* zugetragen, das versichere ich Ihnen.
+
+  *Ainsi* l'a voulu le destin.
+  *So* hat es das Schicksal gewollt.
+
+  Si j'ose m'exprimer *ainsi*, je trouve ce comportement inapproprié.
+  Wenn ich mich *so* ausdrücken darf, finde ich dieses Verhalten unangemessen.
+
+  Puisqu'il en est *ainsi*, nous n'avons plus le choix.
+  Da es nun einmal *so* ist, haben wir keine Wahl mehr.
+
+  *Ainsi* périssent tous les tyrans !
+  *So* sollen alle Tyrannen untergehen!
+
+  Comme le soleil se lève chaque matin, *ainsi* l'espoir renaît chaque jour.
+  *So wie* die Sonne jeden Morgen aufgeht, erwacht auch die Hoffnung jeden Tag aufs Neue.
+
+  Tout est temporaire ; *ainsi* de nous.
+  Alles ist vergänglich; *so* auch wir.
+
+  Il ne lui reste, *pour ainsi dire*, que les yeux pour pleurer.
+  Ihm bleibt *sozusagen* nur noch das Hemd am Leib.
+
+  *Ainsi*, rien n'a changé depuis mon départ.
+  *Also* hat sich seit meiner Abreise nichts verändert.
+
+  Les choses se sont déroulées *ainsi* que je vous l'ai expliqué.
+  Die Dinge haben sich *so* abgespielt, wie ich es Ihnen erklärt habe.
+
+  C'est *ainsi* qu'il faut préparer ce plat traditionnel.
+  *So* muss man dieses traditionelle Gericht zubereiten.
+
+  *Ainsi* que prévu, le train est arrivé à l'heure.
+  *Wie* vorgesehen ist der Zug pünktlich angekommen.
+
+  Ce pays, *ainsi* que ses voisins, connaît une période difficile.
+  Dieses Land durchlebt *ebenso wie* seine Nachbarn eine schwierige Zeit.
+
+  Je ne saurais pas faire autrement, je suis *ainsi*.
+  Ich könnte nicht anders handeln, ich bin nun mal *so*.
+
+  La patience, *ainsi* que la persévérance, sont des qualités essentielles.
+  Sowohl die Geduld *als auch* die Ausdauer sind wesentliche Eigenschaften.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

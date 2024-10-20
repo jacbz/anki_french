@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce serait peut-être un éventuel projet pour vous.
-  Dies könnte ein mögliches Projekt für Sie sein.
+  Ce serait peut-être un *éventuel* projet pour vous.
+  Das könnte ein *mögliches* Projekt für Sie sein.
 
-  Il y a un risque éventuel.
-  Es besteht ein möglicher Risikofaktor.
+  Nous devons prendre en compte les conséquences *éventuelles* de cette décision.
+  Wir müssen die *möglichen* Konsequenzen dieser Entscheidung berücksichtigen.
+
+  L'*éventuel* successeur du directeur n'a pas encore été choisi.
+  Der *potenzielle* Nachfolger des Direktors wurde noch nicht ausgewählt.
+
+  Les bénéfices *éventuels* dépendront de l'évolution du marché.
+  Die *möglichen* Gewinne werden von der Marktentwicklung abhängen.
+
+  Elle a préparé un plan B en cas d'*éventuelle* annulation du vol.
+  Sie hat einen Plan B für den Fall einer *möglichen* Flugstornierung vorbereitet.
+
+  L'*éventuel* acheteur de la maison viendra la visiter demain.
+  Der *potenzielle* Käufer des Hauses wird es morgen besichtigen.
+
+  Nous devons anticiper les problèmes *éventuels* avant qu'ils ne surviennent.
+  Wir müssen *mögliche* Probleme antizipieren, bevor sie auftreten.
+
+  Le contrat inclut une clause pour couvrir d'*éventuels* retards de livraison.
+  Der Vertrag enthält eine Klausel zur Abdeckung *möglicher* Lieferverzögerungen.
+
+  L'*éventuelle* fusion des deux entreprises est encore en discussion.
+  Die *mögliche* Fusion der beiden Unternehmen wird noch diskutiert.
+
+  Il faut prévoir un budget pour les dépenses *éventuelles* du projet.
+  Wir müssen ein Budget für *mögliche* Projektausgaben einplanen.
+
+  Les candidats *éventuels* pour le poste seront convoqués la semaine prochaine.
+  Die *möglichen* Kandidaten für die Stelle werden nächste Woche eingeladen.
+
+  Une *éventuelle* augmentation des prix pourrait affecter nos ventes.
+  Eine *mögliche* Preiserhöhung könnte unsere Verkäufe beeinflussen.
+
+  Le jury examinera les preuves *éventuelles* avant de rendre son verdict.
+  Die Jury wird *mögliche* Beweise prüfen, bevor sie ihr Urteil fällt.
+
+  L'*éventuel* report de la réunion sera communiqué par e-mail.
+  Die *mögliche* Verschiebung des Meetings wird per E-Mail mitgeteilt.
+
+  Nous devons envisager tous les scénarios *éventuels* avant de prendre une décision.
+  Wir müssen alle *möglichen* Szenarien in Betracht ziehen, bevor wir eine Entscheidung treffen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

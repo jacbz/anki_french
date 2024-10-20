@@ -13,20 +13,101 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est l’inverse de ce que tu m’as raconté.
-  Das ist das Gegenteil von dem, was du mir erzählt hast.
+  C'est l'*inverse* de ce que tu m'as raconté.
+  Das ist das *Gegenteil* von dem, was du mir erzählt hast.
 
-  L’inverse de chaud est froid.
-  Das Gegenteil von warm ist kalt.
+  Le sens de rotation de cette roue est *inverse* à celui des aiguilles d'une montre.
+  Die Drehrichtung dieses Rades ist *entgegengesetzt* zum Uhrzeigersinn.
 
-  La vitesse de la voiture est en proportion inverse de la quantité de carburant qu'elle consomme.
-  Die Geschwindigkeit des Autos ist indirekt proportional zu der Menge an Benzin, die es verbraucht.
+  La relation entre l'offre et la demande est souvent *inverse*.
+  Das Verhältnis zwischen Angebot und Nachfrage ist oft *umgekehrt* proportional.
 
-  Il semble que les prix baissent, mais c'est l'inverse qui est vrai.
-  Es scheint, dass die Preise sinken, in Wahrheit ist es aber genau umgekehrt.
+  "*À l'inverse* de toi, je préfère travailler le matin."
+  "Im *Gegensatz* zu dir arbeite ich lieber morgens."
 
-  Les études scientifiques ont montré que la pollution a augmenté, à l'inverse de la qualité de l'air.
-  Wissenschaftliche Studien haben gezeigt, dass die Umweltverschmutzung zugenommen hat, im Gegensatz zur Luftqualität.
+  Les deux scientifiques ont obtenu des résultats *inverses*.
+  Die beiden Wissenschaftler haben *gegensätzliche* Ergebnisse erzielt.
+
+  L'effet de cette politique est l'*inverse* de ce qui était prévu.
+  Die Auswirkung dieser Politik ist das *Gegenteil* von dem, was beabsichtigt war.
+
+  En mathématiques, 2 et 0,5 sont des nombres *inverses*.
+  In der Mathematik sind 2 und 0,5 *reziproke* Zahlen.
+
+  La multiplication et la division sont des opérations *inverses*.
+  Multiplikation und Division sind *inverse* Operationen.
+
+  L'*inverse* d'une matrice est crucial en algèbre linéaire.
+  Die *Inverse* einer Matrix ist in der linearen Algebra von entscheidender Bedeutung.
+
+  Le professeur a demandé aux élèves de résoudre le problème *inverse*.
+  Der Lehrer bat die Schüler, das *umgekehrte* Problem zu lösen.
+
+  "J'ai fait exactement l'*inverse* de ce que tu m'as conseillé."
+  "Ich habe genau das *Gegenteil* von dem gemacht, was du mir geraten hast."
+
+  La vitesse est *inversement* proportionnelle au temps de parcours.
+  Die Geschwindigkeit ist *umgekehrt* proportional zur Fahrtzeit.
+
+  Ce phénomène produit l'effet *inverse* de celui qu'on attendait.
+  Dieses Phänomen erzeugt die *entgegengesetzte* Wirkung von dem, was man erwartet hatte.
+
+  Dans ce pays, les saisons sont *inverses* aux nôtres.
+  In diesem Land sind die Jahreszeiten *umgekehrt* zu unseren.
+
+  L'*inverse* d'un nombre positif est toujours positif.
+  Der *Kehrwert* einer positiven Zahl ist immer positiv.
+
+  Les deux équipes jouaient dans des directions *inverses*.
+  Die beiden Mannschaften spielten in *entgegengesetzte* Richtungen.
+
+  "À l'*inverse* de mes attentes, le film était excellent."
+  "*Entgegen* meinen Erwartungen war der Film ausgezeichnet."
+
+  Le conducteur a pris la route dans le sens *inverse*.
+  Der Fahrer ist in die *falsche* Richtung gefahren.
+
+  L'*inverse* d'une fonction n'est pas toujours facile à trouver.
+  Die *Umkehrfunktion* ist nicht immer leicht zu finden.
+
+  Cette théorie propose l'*inverse* de ce qui est communément accepté.
+  Diese Theorie schlägt das *Gegenteil* von dem vor, was allgemein akzeptiert wird.
+
+  La relation entre le prix et la demande est souvent *inverse*.
+  Die Beziehung zwischen Preis und Nachfrage ist oft *umgekehrt* proportional.
+
+  L'*inverse* du verbe "faire" est "défaire".
+  Das *Gegenteil* des Verbs "machen" ist "rückgängig machen".
+
+  En géométrie, les figures *inverses* ont des propriétés intéressantes.
+  In der Geometrie haben *inverse* Figuren interessante Eigenschaften.
+
+  L'entreprise a connu une évolution *inverse* à celle du marché.
+  Das Unternehmen hat eine *gegenläufige* Entwicklung zum Markt erlebt.
+
+  "Tu as compris l'*inverse* de ce que je voulais dire."
+  "Du hast das *Gegenteil* von dem verstanden, was ich sagen wollte."
+
+  L'*inverse* additif de 5 est -5.
+  Die additive *Inverse* von 5 ist -5.
+
+  Les deux pays ont des intérêts *inverses* dans cette négociation.
+  Die beiden Länder haben *entgegengesetzte* Interessen in dieser Verhandlung.
+
+  La réaction chimique a provoqué l'effet *inverse* de celui escompté.
+  Die chemische Reaktion hat die *entgegengesetzte* Wirkung von der erwarteten hervorgerufen.
+
+  L'*inverse* d'un carré est toujours positif pour les nombres réels non nuls.
+  Der *Kehrwert* eines Quadrats ist für reelle Zahlen ungleich Null immer positiv.
+
+  Cette décision va à l'*inverse* du bon sens.
+  Diese Entscheidung widerspricht dem gesunden Menschenverstand.
+
+  Le peintre a utilisé des couleurs *inverses* pour créer un contraste saisissant.
+  Der Maler hat *gegensätzliche* Farben verwendet, um einen auffälligen Kontrast zu erzeugen.
+
+  En logique, la proposition *inverse* n'est pas toujours vraie.
+  In der Logik ist die *Umkehrung* einer Aussage nicht immer wahr.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

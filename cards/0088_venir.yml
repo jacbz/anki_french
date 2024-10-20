@@ -13,44 +13,197 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Venez rencontrer les autres.
-  Lernen Sie die anderen kennen.
+  *Venez* rencontrer les autres.
+  *Kommt* und trefft die anderen.
 
-  Je viens de France.
-  Ich komme aus Frankreich.
+  Je *viens* à bicyclette tous les jours au travail.
+  Ich *komme* jeden Tag mit dem Fahrrad zur Arbeit.
 
-  Je lui ai dit de venir nous voir.
-  Ich sagte ihm, er solle zu uns kommen.
+  Ils *sont venus* en voiture malgré les embouteillages.
+  Sie *sind* trotz des Staus mit dem Auto *gekommen*.
 
-  Il est arrivé en voiture, car il était pressé.
-  Er ist mit dem Auto gekommen, da er es eilig hatte.
+  Nous *venons* en train pour réduire notre empreinte carbone.
+  Wir *kommen* mit dem Zug, um unseren CO2-Fußabdruck zu reduzieren.
 
-  Il viendra un temps où les robots feront tout notre travail.
-  Es wird eine Zeit kommen, wo die Roboter all unsere Arbeit machen.
+  Elle *est venue* en avion de New York pour la conférence.
+  Sie *ist* für die Konferenz mit dem Flugzeug aus New York *gekommen*.
 
-  Je viendrai à la réunion si j'ai le temps.
-  Ich komme zu dem Treffen, wenn ich Zeit habe.
+  *Venez* par l'autoroute, c'est plus rapide.
+  *Kommt* über die Autobahn, das ist schneller.
 
-  Il vient de la campagne et s'adapte mal à la vie en ville.
-  Er kommt vom Land und passt sich schlecht an das Leben in der Stadt an.
+  Les manifestants *sont venus* à pied jusqu'à la place centrale.
+  Die Demonstranten *sind* zu Fuß bis zum zentralen Platz *gekommen*.
 
-  Le lait vient de la vache.
-  Die Milch kommt von der Kuh.
+  La voisine *est venue* en courant pour nous prévenir du danger.
+  Die Nachbarin *kam* angerannt, um uns vor der Gefahr zu warnen.
 
-  Les larmes me viennent aux yeux quand je regarde ce film.
-  Mir kommen die Tränen, wenn ich diesen Film sehe.
+  Quel bus dois-je prendre pour *venir* chez toi ?
+  Welchen Bus muss ich nehmen, um zu dir zu *kommen*?
 
-  Il faut se concentrer pour que les idées viennent, sinon on ne trouvera jamais la solution.
-  Man muss sich konzentrieren, damit einem etwas einfällt, sonst findet man nie die Lösung.
+  *Viens* chez moi ce soir, on regardera un film !
+  *Komm* heute Abend zu mir, wir schauen einen Film!
 
-  Le désir de réussir ne m'est venu que tard, après que j'ai rencontré mon mentor.
-  Den Wunsch nach Erfolg habe ich erst spät verspürt, nachdem ich meinen Mentor getroffen habe.
+  *Viens* avec moi au concert, j'ai un billet en trop.
+  *Komm* mit mir zum Konzert, ich habe eine Karte übrig.
 
-  L'équipe est venue au premier rang après avoir gagné le match.
-  Das Team hat ganz vorn rangiert, nachdem es das Spiel gewonnen hatte.
+  Le directeur a fait *venir* un expert pour résoudre le problème.
+  Der Direktor hat einen Experten *kommen* lassen, um das Problem zu lösen.
 
-  Le bruit du vent est venu jusqu'à mes oreilles.
-  Das Windgeräusch drang bis zu meinen Ohren.
+  Il faut faire *venir* le médecin, l'enfant a beaucoup de fièvre.
+  Man muss den Arzt *kommen* lassen, das Kind hat hohes Fieber.
+
+  Ce nouveau parc attrayant fait *venir* beaucoup de touristes.
+  Dieser attraktive neue Park *lockt* viele Touristen *an*.
+
+  Je *viens* du marché avec des fruits frais.
+  Ich *komme* gerade vom Markt mit frischem Obst.
+
+  D'où *viens*-tu si tard ?
+  Wo *kommst* du so spät her?
+
+  Le train *vient* de Paris et va jusqu'à Marseille.
+  Der Zug *kommt* aus Paris und fährt bis nach Marseille.
+
+  Les nuages sombres *viennent* de l'ouest, il va pleuvoir.
+  Die dunklen Wolken *kommen* von Westen, es wird regnen.
+
+  Je *viendrai* à la réunion demain matin sans faute.
+  Ich *werde* morgen früh auf jeden Fall zu dem Treffen *kommen*.
+
+  Ma grand-mère *vient* de la campagne, elle adore la nature.
+  Meine Großmutter *kommt* vom Land, sie liebt die Natur.
+
+  Ces délicieuses oranges *viennent* de Sicile.
+  Diese köstlichen Orangen *kommen* aus Sizilien.
+
+  Ce fromage bio *vient* de l'agriculture locale.
+  Dieser Bio-Käse *kommt* aus der lokalen Landwirtschaft.
+
+  Le mot "algorithme" *vient* de l'arabe.
+  Das Wort "Algorithmus" *stammt* aus dem Arabischen.
+
+  Une dépêche qui *vient* de Washington annonce un changement politique majeur.
+  Eine Eilmeldung, die aus Washington *kommt*, kündigt eine große politische Veränderung an.
+
+  Ce lait frais *vient* directement de la ferme voisine.
+  Diese frische Milch *kommt* direkt vom Nachbarhof.
+
+  Les larmes lui *sont venues* aux yeux en écoutant cette triste histoire.
+  Ihm *kamen* die Tränen, als er diese traurige Geschichte hörte.
+
+  Cette odeur délicieuse me fait *venir* l'eau à la bouche.
+  Dieser köstliche Duft lässt mir das Wasser im Mund zusammen*laufen*.
+
+  Aucune idée ne me *vient* pour résoudre ce problème complexe.
+  Mir *fällt* keine Idee ein, um dieses komplexe Problem zu lösen.
+
+  La solution lui *est venue* pendant qu'il dormait.
+  Die Lösung *kam* ihm, während er schlief.
+
+  L'envie lui *est venue* de partir en voyage spontanément.
+  Er bekam plötzlich Lust, spontan zu verreisen.
+
+  Cette pensée m'*est venue* à l'esprit lors de notre conversation.
+  Dieser Gedanke *kam* mir während unseres Gesprächs.
+
+  Son talent pour la peinture lui *est venu* très tôt.
+  Ihr Talent fürs Malen *entfaltete* sich sehr früh.
+
+  Le désir d'apprendre ne m'*est venu* que tardivement.
+  Der Wunsch zu lernen *ist* erst spät in mir *erwacht*.
+
+  Quand t'*est venue* cette passion pour la musique classique ?
+  Wann *ist* diese Leidenschaft für klassische Musik in dir *erwacht*?
+
+  L'appétit *vient* en mangeant, comme on dit.
+  Der Appetit *kommt* beim Essen, wie man so sagt.
+
+  La nuit *vient* de tomber, il faut allumer les lampes.
+  Die Nacht *ist* gerade *hereingebrochen*, wir müssen die Lampen anmachen.
+
+  Attendons de voir *venir* avant de prendre une décision.
+  Lasst uns [erst mal] abwarten, bevor wir eine Entscheidung treffen.
+
+  Il faut prendre les choses comme elles *viennent*.
+  Man muss die Dinge nehmen, wie sie *kommen*.
+
+  Nous discuterons de ce projet dans les semaines à *venir*.
+  Wir werden in den *kommenden* Wochen über dieses Projekt diskutieren.
+
+  Je te verrai dimanche qui *vient*.
+  Ich sehe dich am *kommenden* Sonntag.
+
+  Il *viendra* un temps où nous comprendrons tout cela.
+  Es *wird* eine Zeit *kommen*, in der wir das alles verstehen werden.
+
+  Alors, ça *vient* ? On n'a pas toute la journée !
+  "Na, *wird's* bald? Wir haben nicht den ganzen Tag Zeit!"
+
+  Notre équipe *vient* juste derrière la vôtre au classement.
+  Unsere Mannschaft *liegt* in der Tabelle direkt hinter eurer.
+
+  Cette plante *vient* bien dans un sol humide.
+  Diese Pflanze *wächst* gut in feuchter Erde.
+
+  Des boutons lui *sont venus* sur tout le visage.
+  Ihm *sind* im ganzen Gesicht Pickel *aufgetreten*.
+
+  L'eau leur *venait* jusqu'aux genoux dans la rue inondée.
+  Das Wasser *reichte* ihnen in der überschwemmten Straße bis an die Knie.
+
+  Le bruit de l'explosion *est venu* jusqu'à nous.
+  Der Lärm der Explosion *ist* bis zu uns *gedrungen*.
+
+  Cette montre me *vient* de mon grand-père.
+  Diese Uhr *habe* ich von meinem Großvater.
+
+  Ces problèmes *viennent* de ton manque d'organisation.
+  Diese Probleme *kommen* von deinem Mangel an Organisation.
+
+  J'en *viens* à douter de ses intentions.
+  Ich fange an, an seinen Absichten zu zweifeln.
+
+  Elle en *est venue* à penser qu'il lui mentait.
+  Sie *fing* [langsam] an zu glauben, dass er sie anlog.
+
+  J'en *viens* maintenant au point principal de mon exposé.
+  Ich *komme* nun zum Hauptpunkt meines Vortrags.
+
+  Où voulez-vous en *venir* avec ces questions ?
+  Worauf wollen Sie mit diesen Fragen *hinaus*?
+
+  Il faut *en venir* à une décision rapidement.
+  Wir müssen schnell zu einer Entscheidung *kommen*.
+
+  "*Viens*-y si tu l'oses !" cria-t-il, provoquant son adversaire.
+  "*Komm* nur, wenn du dich traust!", rief er und forderte seinen Gegner heraus.
+
+  Il me *vient* à l'esprit que nous avons oublié un détail important.
+  Mir *fällt* ein, dass wir ein wichtiges Detail vergessen haben.
+
+  D'où *vient* que tu sois si pessimiste aujourd'hui ?
+  Wie *kommt* es, dass du heute so pessimistisch bist?
+
+  Je *viens* manger chez toi ce soir, si ça ne te dérange pas.
+  Ich *komme* heute Abend bei dir essen, wenn es dich nicht stört.
+
+  Tu *viens* prendre un café après le travail ?
+  *Kommst* du nach der Arbeit einen Kaffee trinken?
+
+  Quand *viendras*-tu nous voir à la campagne ?
+  Wann *kommst* du uns auf dem Land besuchen?
+
+  La crise économique *est venue* bouleverser tous nos plans.
+  Die Wirtschaftskrise *hat* all unsere Pläne über den Haufen *geworfen*.
+
+  Il *vient* faire le malin avec sa nouvelle voiture.
+  Er *spielt* sich mit seinem neuen Auto wer weiß wie *auf*.
+
+  Le train *vient* de partir, nous l'avons manqué de peu.
+  Der Zug *ist* gerade *abgefahren*, wir haben ihn knapp verpasst.
+
+  S'il *venait* à pleuvoir, la fête serait annulée.
+  Wenn es regnen *sollte*, würde die Feier abgesagt werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

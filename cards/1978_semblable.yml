@@ -13,29 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous avons vu un cas semblable ici.
-  Wir haben hier einen ähnlichen Fall gesehen.
+  Nous avons vu un cas *semblable* ici.
+  Wir haben hier einen *ähnlichen* Fall gesehen.
 
-  Ils ont des goûts semblables.
-  Sie haben ähnliche Geschmäcker.
+  Les deux jumeaux sont tout à fait *semblables*.
+  Die beiden Zwillinge sind sich völlig *ähnlich*.
 
-  Il n'y a rien de semblable à ce que j'ai vu auparavant.
-  Nichts Derartiges habe ich je zuvor gesehen.
+  Il n'existe rien de *semblable* sur le marché.
+  Es gibt nichts *Derartiges* auf dem Markt.
 
-  Mon semblable n'aurait jamais osé se comporter de la sorte.
-  Meinesgleichen hätte es nie gewagt, sich so zu verhalten.
+  Une *semblable* attitude est inacceptable.
+  Eine *solche* Haltung ist inakzeptabel.
 
-  Une semblable désinvolture est inacceptable dans ce contexte.
-  So eine Frechheit ist in diesem Zusammenhang nicht akzeptabel.
+  Son comportement est *semblable* à celui de son père.
+  Sein Verhalten *ähnelt* dem seines Vaters.
 
-  Ce tableau est semblable à celui que j'ai vu au musée.
-  Dieses Bild ist dem ähnlich, das ich im Museum gesehen habe.
+  Nous devons aider nos *semblables* dans le besoin.
+  Wir müssen unseren *Mitmenschen* in Not helfen.
 
-  Toi et tes semblables n'avez aucune conscience des conséquences de vos actes.
-  Du und deinesgleichen habt keine Ahnung von den Folgen eurer Taten.
+  Ces triangles sont mathématiquement *semblables*.
+  Diese Dreiecke sind mathematisch *ähnlich*.
 
-  Un semblable engouement pour une première de film, c'est du jamais vu.
-  Eine solche Begeisterung für eine Filmpremiere, das hat man noch nie gesehen.
+  "Je n'ai jamais entendu de *semblables* absurdités !"
+  "Ich habe noch nie solchen *Unsinn* gehört!"
+
+  Elle est restée *semblable* à elle-même malgré le succès.
+  Sie ist trotz des Erfolgs sich selbst *treu* geblieben.
+
+  Nos goûts sont très *semblables*.
+  Unsere Geschmäcker sind sehr *ähnlich*.
+
+  Il faut respecter ses *semblables*.
+  Man muss seine *Mitmenschen* respektieren.
+
+  Cette maison est *semblable* à beaucoup d'autres du quartier.
+  Dieses Haus *ähnelt* vielen anderen im Viertel.
+
+  En *semblable* occasion, que feriez-vous ?
+  Was würden Sie in einer *solchen* Situation tun?
+
+  Les versions des témoins sont presque *semblables*.
+  Die Aussagen der Zeugen sind fast *identisch*.
+
+  Tous les cercles sont *semblables* entre eux.
+  Alle Kreise sind untereinander *ähnlich*.
+
+  "Toi et tes *semblables*, vous êtes tous pareils !"
+  "Du und *deinesgleichen*, ihr seid alle gleich!"
+
+  Il n'a pas son *semblable* pour raconter des histoires.
+  Er hat nicht *seinesgleichen*, wenn es darum geht, Geschichten zu erzählen.
+
+  Les matrices A et B sont mathématiquement *semblables*.
+  Die Matrizen A und B sind mathematisch *ähnlich*.
+
+  Chaque animal produit son *semblable*.
+  Jedes Tier bringt *seinesgleichen* hervor.
+
+  Je n'ai jamais vu de *semblable* beauté.
+  Ich habe noch nie eine *solche* Schönheit gesehen.
+
+  Il faut reconnaître chaque être humain comme son *semblable*.
+  Man muss jeden Menschen als seinen *Mitmenschen* anerkennen.
+
+  Ces deux situations ne sont pas *semblables*.
+  Diese beiden Situationen sind nicht *vergleichbar*.
+
+  L'éternel retour du *semblable* est un concept philosophique.
+  Die ewige Wiederkehr des *Gleichen* ist ein philosophisches Konzept.
+
+  Elle éprouve des sentiments *semblables* aux vôtres.
+  Sie empfindet *ähnliche* Gefühle wie Sie.
+
+  Nous recherchons des candidats aux profils *semblables*.
+  Wir suchen Kandidaten mit *ähnlichen* Profilen.
+
+  En géométrie, deux triangles *semblables* ont les mêmes angles.
+  In der Geometrie haben zwei *ähnliche* Dreiecke die gleichen Winkel.
+
+  Il a su rester *semblable* à lui-même malgré les difficultés.
+  Er hat es geschafft, trotz der Schwierigkeiten *sich selbst treu* zu bleiben.
+
+  Ces deux échantillons sont presque *semblables*.
+  Diese beiden Proben sind fast *identisch*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

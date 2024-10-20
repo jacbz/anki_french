@@ -13,26 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Hugh était issu d’une famille de cinq garçons.
-  Hugh stammte aus einer Familie mit fünf Jungen.
+  Hugh était *issu* d'une famille de cinq garçons.
+  Hugh *stammte* aus einer Familie mit fünf Jungen.
 
-  Il est issu d’une famille riche.
-  Er stammt aus einer reichen Familie.
+  Elle est *issue* d'une famille modeste mais a réussi grâce à son travail acharné.
+  Sie *stammt* aus einfachen Verhältnissen, hat es aber durch harte Arbeit geschafft.
 
-  Le film est issu de l'imagination du réalisateur.
-  Der Film ist aus der Fantasie des Regisseurs entstanden.
+  Le roi actuel est *issu* d'une longue lignée de monarques.
+  Der aktuelle König *entstammt* einer langen Reihe von Monarchen.
 
-  Il est issu d'une famille modeste, mais il a réussi à faire fortune.
-  Er stammt aus einer einfachen Familie, aber er hat es geschafft, ein Vermögen zu machen.
+  Ce parti politique est *issu* d'un mouvement de protestation populaire.
+  Diese politische Partei ist aus einer Protestbewegung des Volkes *hervorgegangen*.
 
-  Le prince est issu de sang royal et a hérité du trône.
-  Der Prinz ist königlicher Abstammung und hat den Thron geerbt.
+  Les progrès médicaux sont souvent *issus* de la recherche fondamentale.
+  Medizinische Fortschritte *gehen* oft aus der Grundlagenforschung *hervor*.
 
-  Le parti, issu du SED, a remporté les élections.
-  Die Nachfolgepartei der SED hat die Wahl gewonnen.
+  La plupart des langues romanes sont *issues* du latin.
+  Die meisten romanischen Sprachen *stammen* vom Lateinischen *ab*.
 
-  Les États issus de l'URSS ont connu des difficultés économiques après la chute du communisme.
-  Die Nachfolgestaaten der UdSSR hatten nach dem Fall des Kommunismus mit wirtschaftlichen Schwierigkeiten zu kämpfen.
+  Cette startup innovante est *issue* de l'incubateur de notre université.
+  Dieses innovative Startup ist aus dem Inkubator unserer Universität *entstanden*.
+
+  Les tensions actuelles sont *issues* d'un long conflit historique.
+  Die aktuellen Spannungen *resultieren* aus einem langen historischen Konflikt.
+
+  Notre entreprise est *issue* de la fusion de deux sociétés concurrentes.
+  Unser Unternehmen ist aus der Fusion zweier konkurrierender Firmen *hervorgegangen*.
+
+  Ces nouveaux matériaux sont *issus* de années de recherche en laboratoire.
+  Diese neuen Materialien sind das *Ergebnis* jahrelanger Laborforschung.
+
+  La théorie de la relativité est *issue* du génie d'Albert Einstein.
+  Die Relativitätstheorie *entspringt* dem Genie Albert Einsteins.
+
+  Les deux cousins sont *issus* de germain et partagent les mêmes grands-parents.
+  Die beiden Cousins sind Cousins zweiten Grades und haben dieselben Großeltern.
+
+  Cette coutume est *issue* d'une tradition ancestrale du village.
+  Dieser Brauch *stammt* von einer alten Tradition des Dorfes *ab*.
+
+  Les conflits actuels sont souvent *issus* de malentendus culturels.
+  Die aktuellen Konflikte *entstehen* oft aus kulturellen Missverständnissen.
+
+  Le scénario du film est *issu* d'une histoire vraie.
+  Das Drehbuch des Films *basiert* auf einer wahren Geschichte.
+
+  Ces plantes sont *issues* de graines récoltées l'année dernière.
+  Diese Pflanzen sind aus Samen *gewachsen*, die im letzten Jahr geerntet wurden.
+
+  Les décisions prises sont *issues* d'un long processus de consultation.
+  Die getroffenen Entscheidungen sind das *Ergebnis* eines langen Beratungsprozesses.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

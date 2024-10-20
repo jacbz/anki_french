@@ -13,20 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai été séduite par votre jeunesse.
-  Ich war von Ihrer Jugend begeistert.
+  J'ai été *séduite* par votre jeunesse.
+  Ich wurde von Ihrer Jugend *verführt*.
 
-  Il a réussi à la séduire.
-  Er hat es geschafft, sie zu verführen.
+  Le candidat a *séduit* les électeurs avec ses promesses alléchantes.
+  Der Kandidat hat die Wähler mit seinen verlockenden Versprechen *verführt*.
 
-  Le nouveau programme de voyage l'a séduit.
-  Er war von dem neuen Reiseprogramm angetan.
+  Sa personnalité charismatique *séduit* tout le monde.
+  Seine charismatische Persönlichkeit *bezaubert* jeden.
 
-  Elle a été séduite par la beauté du paysage.
-  Sie war von der Schönheit der Landschaft verführt.
+  "Il cherche toujours à *séduire* lors des soirées."
+  "Er versucht auf Partys immer zu *verführen*."
 
-  Il a essayé de séduire sa cliente avec des propositions alléchantes.
-  Er versuchte, seine Kundin mit verführerischen Vorschlägen zu locken.
+  L'idée d'un voyage autour du monde m'a complètement *séduit*.
+  Die Idee einer Weltreise hat mich völlig *begeistert*.
+
+  Le film n'a pas réussi à *séduire* le public.
+  Der Film hat es nicht geschafft, das Publikum zu *überzeugen*.
+
+  Elle *séduit* par sa beauté naturelle et son intelligence.
+  Sie *bezaubert* durch ihre natürliche Schönheit und Intelligenz.
+
+  Les politiciens essaient de *séduire* les électeurs avec de belles paroles.
+  Die Politiker versuchen, die Wähler mit schönen Worten zu *gewinnen*.
+
+  Ce roman m'a *séduit* dès les premières pages.
+  Dieser Roman hat mich von den ersten Seiten an *gefesselt*.
+
+  L'entreprise tente de *séduire* de nouveaux clients avec des offres spéciales.
+  Das Unternehmen versucht, mit Sonderangeboten neue Kunden zu *locken*.
+
+  Il a été *séduit* par l'ambiance chaleureuse du petit village.
+  Er war von der herzlichen Atmosphäre des kleinen Dorfes *hingerissen*.
+
+  La simplicité de cette solution a *séduit* les investisseurs.
+  Die Einfachheit dieser Lösung hat die Investoren *überzeugt*.
+
+  "Tu ne peux pas *séduire* tout le monde, sois toi-même."
+  "Du kannst nicht jeden *für dich einnehmen*, sei einfach du selbst."
+
+  L'orateur a *séduit* l'auditoire par son éloquence.
+  Der Redner hat das Publikum durch seine Redegewandtheit *bezaubert*.
+
+  Ce parfum *séduit* par ses notes délicates et raffinées.
+  Dieses Parfüm *verführt* durch seine zarten und raffinierten Noten.
+
+  La ville nous a *séduits* par le charme de ses ruelles pittoresques.
+  Die Stadt hat uns durch den Charme ihrer malerischen Gassen *verzaubert*.
+
+  Il faut être prudent : les apparences peuvent parfois *séduire* et tromper.
+  Man muss vorsichtig sein: Der Schein kann manchmal *verlocken* und täuschen.
+
+  L'art de *séduire* ne s'apprend pas dans les livres.
+  Die Kunst des *Verführens* lernt man nicht aus Büchern.
+
+  Cette offre d'emploi m'a vraiment *séduit* par ses perspectives d'évolution.
+  Dieses Stellenangebot hat mich durch seine Entwicklungsmöglichkeiten wirklich *angesprochen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

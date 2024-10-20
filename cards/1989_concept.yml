@@ -13,11 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce concept me réjouit, il est plein d’espoir.
-  Dieses Konzept freut mich, es ist hoffnungsvoll.
+  Ce *concept* me réjouit, il est plein d'espoir.
+  Dieses *Konzept* erfreut mich, es ist voller Hoffnung.
 
-  Ce livre présente un nouveau concept de management.
-  Dieses Buch stellt ein neues Managementkonzept vor.
+  Le *concept* de liberté est complexe et varie selon les cultures.
+  Der *Begriff* der Freiheit ist komplex und variiert je nach Kultur.
+
+  Les philosophes débattent souvent du *concept* de justice.
+  Philosophen debattieren oft über das *Konzept* der Gerechtigkeit.
+
+  Le *concept* de ce nouveau restaurant est vraiment innovant.
+  Das *Konzept* dieses neuen Restaurants ist wirklich innovativ.
+
+  Dans son livre, l'auteur développe un nouveau *concept* de leadership.
+  In seinem Buch entwickelt der Autor ein neues *Konzept* von Führung.
+
+  Le *concept* de temps est difficile à expliquer aux enfants.
+  Der *Begriff* der Zeit ist schwer Kindern zu erklären.
+
+  Les scientifiques travaillent sur un *concept* révolutionnaire pour économiser l'énergie.
+  Die Wissenschaftler arbeiten an einem revolutionären *Konzept* zur Energieeinsparung.
+
+  "Ton *concept* de l'amitié est complètement dépassé !" s'est-elle exclamée.
+  "Deine *Vorstellung* von Freundschaft ist völlig veraltet!", rief sie aus.
+
+  Le professeur a expliqué le *concept* de photosynthèse à ses élèves.
+  Der Lehrer erklärte seinen Schülern das *Konzept* der Photosynthese.
+
+  Ce *concept* publicitaire a remporté plusieurs prix internationaux.
+  Dieses Werbe*konzept* hat mehrere internationale Preise gewonnen.
+
+  Les mathématiciens utilisent le *concept* d'infini dans leurs calculs.
+  Mathematiker verwenden in ihren Berechnungen das *Konzept* der Unendlichkeit.
+
+  Le *concept* de cette émission de télévision plaît beaucoup aux jeunes.
+  Das *Konzept* dieser Fernsehsendung gefällt jungen Leuten sehr.
+
+  Les étudiants doivent maîtriser les *concepts* de base avant d'aborder des sujets plus complexes.
+  Die Studenten müssen die Grund*konzepte* beherrschen, bevor sie komplexere Themen angehen.
+
+  Le *concept* de développement durable est devenu incontournable dans les politiques modernes.
+  Das *Konzept* der nachhaltigen Entwicklung ist in der modernen Politik unverzichtbar geworden.
+
+  Ce dictionnaire présente les *concepts* clés de la psychologie de manière claire.
+  Dieses Wörterbuch stellt die Schlüssel*konzepte* der Psychologie klar dar.
+
+  Les urbanistes ont développé un nouveau *concept* pour rendre la ville plus verte.
+  Die Stadtplaner haben ein neues *Konzept* entwickelt, um die Stadt grüner zu machen.
+
+  Le *concept* de ce jeu vidéo est si original qu'il a révolutionné l'industrie.
+  Das *Konzept* dieses Videospiels ist so originell, dass es die Branche revolutioniert hat.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

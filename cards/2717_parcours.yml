@@ -13,17 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis en bout de parcours.
-  Ich bin am Ende meines Weges.
+  Je suis en bout de *parcours*.
+  Ich bin am Ende meines *Weges*.
 
-  Le parcours de la course est très difficile.
-  Die Strecke des Rennens ist sehr schwierig.
+  Le *parcours* du marathon traverse toute la ville.
+  Die *Strecke* des Marathons führt durch die ganze Stadt.
 
-  Le parcours d'un drogué est souvent marqué par une descente aux enfers, où la dépendance prend le contrôle de sa vie.
-  Die Drogenkarriere eines Süchtigen ist oft von einem Abstieg in die Hölle geprägt, in der die Sucht die Kontrolle über sein Leben übernimmt.
+  Elle a effectué un *parcours* sans faute en équitation.
+  Sie hat einen fehlerfreien *Durchgang* im Reitsport absolviert.
 
-  La droguée, au début, cherche peut-être une échappatoire, une sensation nouvelle, mais elle se retrouve rapidement prisonnière de ses propres démons.
-  Die Süchtige sucht am Anfang vielleicht einen Ausweg, ein neues Gefühl, doch sie wird schnell zum Gefangenen ihrer eigenen Dämonen.
+  Le fleuve suit un *parcours* sinueux à travers la vallée.
+  Der Fluss nimmt einen gewundenen *Lauf* durch das Tal.
+
+  "Son *parcours* professionnel est vraiment impressionnant."
+  "Sein beruflicher *Werdegang* ist wirklich beeindruckend."
+
+  Les golfeurs se préparent pour le *parcours* de 18 trous.
+  Die Golfspieler bereiten sich auf den 18-Loch-*Parcours* vor.
+
+  Le bus emprunte un nouveau *parcours* à partir de demain.
+  Der Bus fährt ab morgen eine neue *Strecke*.
+
+  Cette exposition retrace le *parcours* artistique de Picasso.
+  Diese Ausstellung zeichnet Picassos künstlerischen *Werdegang* nach.
+
+  Le *parcours* du combattant a été particulièrement difficile aujourd'hui.
+  Der *Hindernislauf* war heute besonders schwierig.
+
+  "J'ai rencontré quelques incidents de *parcours* dans mon projet."
+  "Ich bin in meinem Projekt auf einige *unvorhergesehene Schwierigkeiten* gestoßen."
+
+  Les étudiants doivent choisir leur *parcours* universitaire avec soin.
+  Die Studenten müssen ihren universitären *Bildungsweg* sorgfältig wählen.
+
+  Le *parcours* de ce politicien est marqué par de nombreux scandales.
+  Die *Laufbahn* dieses Politikers ist von zahlreichen Skandalen geprägt.
+
+  Les randonneurs ont terminé leur *parcours* en trois jours.
+  Die Wanderer haben ihre *Tour* in drei Tagen beendet.
+
+  Le *parcours* client a été optimisé pour améliorer l'expérience d'achat.
+  Die *Customer Journey* wurde optimiert, um das Einkaufserlebnis zu verbessern.
+
+  Ce parc propose un *parcours* santé pour les sportifs.
+  Dieser Park bietet einen *Trimm-dich-Pfad* für Sportler an.
+
+  Le *parcours* de l'eau dans la station d'épuration est complexe.
+  Der *Weg* des Wassers durch die Kläranlage ist komplex.
+
+  Les oiseaux migrateurs suivent un *parcours* bien défini chaque année.
+  Die Zugvögel folgen jedes Jahr einer genau festgelegten *Route*.
+
+  "Le *parcours* de ma vie a pris un tournant inattendu."
+  "Mein *Lebensweg* hat eine unerwartete Wendung genommen."
+
+  L'agriculteur a aménagé un *parcours* pour ses poules en plein air.
+  Der Landwirt hat einen *Auslauf* für seine Freilandhühner angelegt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

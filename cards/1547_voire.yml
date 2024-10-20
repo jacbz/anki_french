@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Deux, trois cent millions. Voire plus.
-  Zwei, dreihundert Millionen. Oder sogar noch mehr.
+  Deux, trois cent millions. *Voire* plus.
+  Zwei-, dreihundert Millionen. *Oder sogar* mehr.
 
-  Il est très intelligent, voire surdoué.
-  Er ist sehr intelligent, ja sogar hochbegabt.
+  Les prix augmentent chaque mois, *voire* chaque semaine.
+  Die Preise steigen jeden Monat, *ja sogar* jede Woche.
+
+  Ce projet prendra des mois, *voire* des années à se réaliser.
+  Dieses Projekt wird Monate, *wenn nicht sogar* Jahre brauchen, um verwirklicht zu werden.
+
+  Il est difficile, *voire* impossible, de prédire l'avenir avec certitude.
+  Es ist schwierig, *wenn nicht sogar* unmöglich, die Zukunft mit Sicherheit vorherzusagen.
+
+  Son comportement est inapproprié, *voire* offensant dans certaines situations.
+  Sein Verhalten ist unangemessen, *ja sogar* beleidigend in manchen Situationen.
+
+  Cette technologie pourrait révolutionner l'industrie, *voire* notre façon de vivre.
+  Diese Technologie könnte die Industrie revolutionieren, *oder sogar* unsere gesamte Lebensweise.
+
+  Les conséquences seront graves, *voire* catastrophiques, si nous n'agissons pas maintenant.
+  Die Folgen werden schwerwiegend, *wenn nicht sogar* katastrophal sein, wenn wir jetzt nicht handeln.
+
+  Cette méthode est inefficace, *voire* contre-productive dans certains cas.
+  Diese Methode ist ineffektiv, *ja sogar* kontraproduktiv in manchen Fällen.
+
+  Son talent est reconnu nationalement, *voire* internationalement.
+  Sein Talent ist landesweit, *ja sogar* international anerkannt.
+
+  Cette décision pourrait être risquée, *voire* dangereuse pour l'entreprise.
+  Diese Entscheidung könnte riskant, *wenn nicht sogar* gefährlich für das Unternehmen sein.
+
+  Les effets secondaires sont rares, *voire* inexistants pour la plupart des patients.
+  Die Nebenwirkungen sind selten, *ja sogar* nicht vorhanden für die meisten Patienten.
+
+  Cette loi est controversée, *voire* impopulaire dans certaines régions du pays.
+  Dieses Gesetz ist umstritten, *ja sogar* unpopulär in einigen Regionen des Landes.
+
+  "C'est le meilleur restaurant de la ville. — *Voire* !" répondit-elle avec scepticisme.
+  "Das ist das beste Restaurant der Stadt. — *Tatsächlich*?!" antwortete sie skeptisch.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

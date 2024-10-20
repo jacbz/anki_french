@@ -13,23 +13,56 @@ Register: ↘Fiktion ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il y a donc une connexion profonde entre science et technologie.
-  Es gibt also eine tiefe Verbindung zwischen Wissenschaft und Technologie.
+  Il y a donc une *connexion* profonde entre science et technologie.
+  Es gibt also einen tiefen *Zusammenhang* zwischen Wissenschaft und Technologie.
 
-  La connexion internet est lente.
-  Die Internetverbindung ist langsam.
+  Je ne peux pas établir de *connexion* Internet depuis ce matin.
+  Ich kann seit heute Morgen keine Internet*verbindung* aufbauen.
 
-  J'ai eu du mal à connecter l'imprimante à mon ordinateur.
-  Ich hatte Schwierigkeiten, den Drucker an meinen Computer anzuschließen.
+  La *connexion* au réseau WiFi est très lente aujourd'hui.
+  Die WLAN-*Verbindung* ist heute sehr langsam.
 
-  L'entreprise a une connexion RNIS haut débit.
-  Die Firma hat einen schnellen ISDN-Anschluss.
+  Vérifiez la *connexion* de l'imprimante avant de lancer l'impression.
+  Überprüfen Sie den Drucker*anschluss*, bevor Sie den Druckvorgang starten.
 
-  Pour utiliser les services de streaming, il est nécessaire d'obtenir une connexion à Internet.
-  Um Streaming-Dienste nutzen zu können, muss man eine Verbindung zum Internet herstellen.
+  Marie a perdu la *connexion* pendant la visioconférence.
+  Marie hat während der Videokonferenz die *Verbindung* verloren.
 
-  Lorsque mon ordinateur est hors connexion, je ne peux pas accéder à mes emails.
-  Wenn mein Computer offline ist, kann ich nicht auf meine E-Mails zugreifen.
+  Les chercheurs ont découvert une *connexion* inattendue entre ces deux phénomènes.
+  Die Forscher haben einen unerwarteten *Zusammenhang* zwischen diesen beiden Phänomenen entdeckt.
+
+  Il faut une *connexion* stable pour participer à ce cours en ligne.
+  Man braucht eine stabile *Verbindung*, um an diesem Online-Kurs teilzunehmen.
+
+  La *connexion* électrique doit être effectuée par un professionnel.
+  Der elektrische *Anschluss* muss von einem Fachmann durchgeführt werden.
+
+  Cette bibliothèque offre une *connexion* gratuite à Internet.
+  Diese Bibliothek bietet eine kostenlose Internet*verbindung* an.
+
+  La police étudie une possible *connexion* entre ces deux accidents.
+  Die Polizei untersucht einen möglichen *Zusammenhang* zwischen diesen beiden Unfällen.
+
+  Je dois vérifier la *connexion* des câbles derrière l'ordinateur.
+  Ich muss den *Anschluss* der Kabel hinter dem Computer überprüfen.
+
+  As-tu une *connexion* suffisamment rapide pour le streaming ?
+  Hast du eine ausreichend schnelle *Verbindung* zum Streamen?
+
+  Notre *connexion* au serveur a été interrompue sans raison.
+  Unsere *Verbindung* zum Server wurde grundlos unterbrochen.
+
+  Il n'y a aucune *connexion* logique entre ces deux événements.
+  Es gibt keinen logischen *Zusammenhang* zwischen diesen beiden Ereignissen.
+
+  La *connexion* au nouveau routeur se fait automatiquement.
+  Die *Verbindung* zum neuen Router erfolgt automatisch.
+
+  L'étudiant a établi une *connexion* intéressante entre ces deux théories.
+  Der Student hat einen interessanten *Zusammenhang* zwischen diesen beiden Theorien hergestellt.
+
+  Le technicien va installer une nouvelle *connexion* RNIS demain.
+  Der Techniker wird morgen einen neuen ISDN-*Anschluss* installieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

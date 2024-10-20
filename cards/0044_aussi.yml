@@ -13,41 +13,119 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je rêvais aussi de beaucoup voyager.
-  Ich träumte auch davon, viel zu reisen.
+  Je rêvais *aussi* de beaucoup voyager.
+  Ich träumte *auch* davon, viel zu reisen.
 
-  Je suis fatigué et toi aussi.
-  Ich bin müde und du auch.
+  Elle parle anglais et *aussi* allemand.
+  Sie spricht Englisch und *auch* Deutsch.
 
-  C'est aussi mon avis, et je pense que nous devrions en discuter davantage.
-  Das ist auch meine Meinung, und ich denke, wir sollten darüber weiter diskutieren.
+  Votre avis est intéressant, mais le sien l'est tout *aussi*.
+  Ihre Meinung ist interessant, aber seine ist es *genauso*.
 
-  Non seulement il est intelligent, mais aussi très drôle.
-  Nicht nur ist er intelligent, sondern auch sehr lustig.
+  Il est *aussi* intelligent que travailleur.
+  Er ist *ebenso* intelligent wie fleißig.
 
-  Moi aussi, je ne suis pas d'accord avec cette proposition.
-  Ich bin auch nicht einverstanden mit diesem Vorschlag.
+  *Aussi* surprenant que cela puisse paraître, c'est la vérité.
+  So überraschend es *auch* erscheinen mag, es ist die Wahrheit.
 
-  Aussi riche soit-il, il n'est pas heureux.
-  So reich er auch sein mag, er ist nicht glücklich.
+  Cette décision affecte les employés *aussi* bien que les dirigeants.
+  Diese Entscheidung betrifft die Angestellten *ebenso* wie die Führungskräfte.
 
-  Paul aussi bien que son frère est un excellent joueur de tennis.
-  Paul so wie sein Bruder ist ein ausgezeichneter Tennisspieler.
+  Je suis fatigué, et toi *aussi* ?
+  Ich bin müde, und du *auch*?
 
-  Elle est aussi grande que moi, mais elle est beaucoup plus mince.
-  Sie ist so groß wie ich, aber sie ist viel dünner.
+  Non seulement il est riche, mais il est *aussi* généreux.
+  Er ist nicht nur reich, sondern *auch* großzügig.
 
-  Il est aussi grand qu'il est bête, c'est pourquoi il se trompe souvent.
-  Er ist so dumm wie er lang ist, deshalb irrt er sich oft.
+  La maison est spacieuse et *aussi* bien située.
+  Das Haus ist geräumig und *auch* gut gelegen.
 
-  D'aussi loin qu'il nous voit, il nous salue avec un grand sourire.
-  Sobald er uns in der Ferne sieht, grüßt er uns mit einem breiten Lächeln.
+  Il est *aussi* grand que son frère.
+  Er ist *genauso* groß wie sein Bruder.
 
-  Bon appétit! – Merci, vous aussi!
-  Guten Appetit! – Danke, gleichfalls!
+  Cette loi s'applique *aussi* aux entreprises étrangères.
+  Dieses Gesetz gilt *auch* für ausländische Unternehmen.
 
-  Ça peut tout aussi bien être faux! Il faut vérifier les faits avant de tirer des conclusions.
-  Das kann genauso gut falsch sein! Man muss die Fakten überprüfen, bevor man Schlussfolgerungen zieht.
+  Je n'ai jamais rien vu d'*aussi* beau.
+  Ich habe noch nie etwas so Schönes gesehen.
+
+  *Aussi* vite que possible, nous vous enverrons une réponse.
+  Wir werden Ihnen so schnell wie möglich eine Antwort schicken.
+
+  Elle est *aussi* douée en mathématiques qu'en langues.
+  Sie ist in Mathematik *genauso* begabt wie in Sprachen.
+
+  Son chien aboie beaucoup, et le mien *aussi*.
+  Sein Hund bellt viel, und meiner *auch*.
+
+  Il travaille dur, mais il s'amuse *aussi*.
+  Er arbeitet hart, aber er hat *auch* Spaß.
+
+  *Aussi* invraisemblable que cela paraisse, c'est arrivé.
+  So unwahrscheinlich es *auch* erscheinen mag, es ist passiert.
+
+  Le prix inclut le transport et *aussi* l'installation.
+  Der Preis beinhaltet den Transport und *auch* die Installation.
+
+  C'est un plat délicieux et *aussi* très nutritif.
+  Es ist ein köstliches und *auch* sehr nahrhaftes Gericht.
+
+  Elle aime le cinéma, mais *aussi* le théâtre.
+  Sie mag Kino, aber *auch* Theater.
+
+  Je pensais qu'il était plus jeune, je ne savais pas qu'il était *aussi* âgé.
+  Ich dachte, er wäre jünger, ich wusste nicht, dass er so alt ist.
+
+  *Aussi* riche soit-il, il ne peut pas tout acheter.
+  So reich er *auch* sein mag, er kann nicht alles kaufen.
+
+  Cette règle s'applique *aussi* bien aux hommes qu'aux femmes.
+  Diese Regel gilt sowohl für Männer als *auch* für Frauen.
+
+  Il pleut, et il fait froid *aussi*.
+  Es regnet, und es ist *auch* kalt.
+
+  Je suis d'accord, et ma sœur l'est *aussi*.
+  Ich bin einverstanden, und meine Schwester ist es *auch*.
+
+  *Aussi* loin que je me souvienne, j'ai toujours aimé la musique.
+  Soweit ich mich erinnern kann, habe ich Musik schon immer gemocht.
+
+  Elle est *aussi* talentueuse que son frère, sinon plus.
+  Sie ist *genauso* talentiert wie ihr Bruder, wenn nicht sogar mehr.
+
+  Le café était bon, mais *aussi* un peu trop fort.
+  Der Kaffee war gut, aber *auch* ein bisschen zu stark.
+
+  Il est *aussi* bon en cuisine qu'au jardinage.
+  Er ist *genauso* gut im Kochen wie im Gärtnern.
+
+  "*Aussi* bien, pourquoi ne pas essayer ?" dit-elle en haussant les épaules.
+  "Na gut, warum es nicht versuchen?" sagte sie achselzuckend.
+
+  Ces chaussures sont confortables et *aussi* très élégantes.
+  Diese Schuhe sind bequem und *auch* sehr elegant.
+
+  Le concert était magnifique, et le public était *aussi* enthousiaste.
+  Das Konzert war wunderbar, und das Publikum war *ebenso* begeistert.
+
+  Je ne savais pas que tu parlais *aussi* le japonais.
+  Ich wusste nicht, dass du *auch* Japanisch sprichst.
+
+  Il a réussi l'examen, et sa sœur *aussi*.
+  Er hat die Prüfung bestanden, und seine Schwester *auch*.
+
+  Cette solution est efficace et *aussi* économique.
+  Diese Lösung ist effektiv und *auch* wirtschaftlich.
+
+  Le film était long, mais *aussi* très captivant.
+  Der Film war lang, aber *auch* sehr fesselnd.
+
+  *Aussi* étrange que cela puisse paraître, personne n'a remarqué son absence.
+  So seltsam es *auch* erscheinen mag, niemand hat seine Abwesenheit bemerkt.
+
+  Il aime le sport, mais *aussi* la lecture.
+  Er mag Sport, aber *auch* das Lesen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

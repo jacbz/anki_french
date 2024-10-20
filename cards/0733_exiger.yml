@@ -13,26 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Une vie publique exige de nombreux sacrifices.
-  Ein öffentliches Leben erfordert viele Opfer.
+  Une vie publique *exige* de nombreux sacrifices.
+  Ein Leben in der Öffentlichkeit *erfordert* viele Opfer.
 
-  Je vous demande d’exiger plus de votre équipe.
-  Ich bitte Sie, mehr von Ihrem Team zu fordern.
+  Le directeur *exige* que tous les employés arrivent à l'heure.
+  Der Direktor *verlangt*, dass alle Angestellten pünktlich erscheinen.
 
-  Le directeur a exigé des références de tous les candidats.
-  Der Direktor hat Referenzen von allen Bewerbern erbitten.
+  Cette plante rare *exige* beaucoup de soleil et d'eau.
+  Diese seltene Pflanze *benötigt* viel Sonne und Wasser.
 
-  Le règlement exige que tous les élèves portent un uniforme.
-  Die Schulordnung erfordert, dass alle Schüler eine Uniform tragen.
+  Les manifestants *exigent* la démission du ministre.
+  Die Demonstranten *fordern* den Rücktritt des Ministers.
 
-  Les victimes ont exigé réparation pour les dommages causés.
-  Die Opfer haben Wiedergutmachung für den angerichteten Schaden verlangt.
+  La situation *exige* une action immédiate.
+  Die Situation *erfordert* sofortiges Handeln.
 
-  Mes parents exigent beaucoup de moi, mais je les comprends.
-  Meine Eltern stellen hohe Ansprüche an mich, aber ich verstehe sie.
+  Elle *exige* des excuses pour ce comportement inacceptable.
+  Sie *verlangt* eine Entschuldigung für dieses inakzeptable Verhalten.
 
-  Le travail exige trop de toi, tu devrais prendre des vacances.
-  Die Arbeit überfordert dich, du solltest Urlaub machen.
+  Le contrat *exige* que le paiement soit effectué dans les 30 jours.
+  Der Vertrag *schreibt vor*, dass die Zahlung innerhalb von 30 Tagen erfolgen muss.
+
+  Ce poste *exige* une grande diplomatie.
+  Diese Position *erfordert* großes diplomatisches Geschick.
+
+  Les parents *exigent* que leurs enfants respectent le couvre-feu.
+  Die Eltern *verlangen*, dass ihre Kinder die Ausgangssperre einhalten.
+
+  L'université *exige* un diplôme de baccalauréat pour l'admission.
+  Die Universität *setzt* für die Zulassung ein Abitur *voraus*.
+
+  Le client mécontent *exigeait* un remboursement complet.
+  Der unzufriedene Kunde *forderte* eine vollständige Rückerstattung.
+
+  La sécurité *exige* que tous les visiteurs passent par un contrôle.
+  Die Sicherheit *erfordert*, dass sich alle Besucher einer Kontrolle unterziehen.
+
+  Le médecin *exigera* probablement des examens supplémentaires.
+  Der Arzt wird wahrscheinlich zusätzliche Untersuchungen *verlangen*.
+
+  Cette tâche complexe *exige* une attention constante aux détails.
+  Diese komplexe Aufgabe *erfordert* ständige Aufmerksamkeit für Details.
+
+  Les circonstances *exigent* que nous repensions notre stratégie.
+  Die Umstände *machen* es *erforderlich*, dass wir unsere Strategie überdenken.
+
+  Le professeur *exige* le silence absolu pendant l'examen.
+  Der Lehrer *verlangt* absolute Stille während der Prüfung.
+
+  Cette machine sophistiquée *exige* un entretien régulier.
+  Diese hochentwickelte Maschine *erfordert* regelmäßige Wartung.
+
+  Le patron *exigeait* de ses employés qu'ils fassent des heures supplémentaires.
+  Der Chef *verlangte* von seinen Angestellten, dass sie Überstunden machen.
+
+  La loi *exige* que tous les conducteurs aient une assurance.
+  Das Gesetz *schreibt vor*, dass alle Fahrer eine Versicherung haben müssen.
+
+  Cette recette *exige* une précision absolue dans les mesures.
+  Dieses Rezept *erfordert* absolute Genauigkeit bei den Mengenangaben.
+
+  Les règles du jeu *exigent* que chaque joueur lance le dé à son tour.
+  Die Spielregeln *verlangen*, dass jeder Spieler den Würfel der Reihe nach wirft.
+
+  Le syndicat *exige* de meilleures conditions de travail pour les ouvriers.
+  Die Gewerkschaft *fordert* bessere Arbeitsbedingungen für die Arbeiter.
+
+  Cette théorie scientifique *exige* des preuves concrètes pour être validée.
+  Diese wissenschaftliche Theorie *erfordert* konkrete Beweise, um bestätigt zu werden.
+
+  Le tribunal *a exigé* que l'accusé soit présent à toutes les audiences.
+  Das Gericht *hat verlangt*, dass der Angeklagte bei allen Anhörungen anwesend ist.
+
+  La tradition *exige* que les invités apportent un cadeau à la fête.
+  Die Tradition *verlangt*, dass die Gäste ein Geschenk zur Party mitbringen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

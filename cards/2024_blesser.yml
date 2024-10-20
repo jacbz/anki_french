@@ -13,20 +13,101 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le premier avait été légèrement blessé, le second était sorti indemne.
-  Der erste war leicht verletzt worden, während der zweite unverletzt geblieben war.
+  Le premier avait été légèrement *blessé*, le second était sorti indemne.
+  Der erste war leicht *verletzt* worden, der zweite war unverletzt davongekommen.
 
-  Il a été blessé dans l’accident.
-  Er wurde bei dem Unfall verletzt.
+  Il s'est grièvement *blessé* en tombant de l'échelle.
+  Er hat sich beim Sturz von der Leiter schwer *verletzt*.
 
-  Vous pourriez vous blesser.
-  Sie könnten sich verletzen.
+  La balle a *blessé* mortellement le soldat.
+  Die Kugel hat den Soldaten tödlich *verwundet*.
 
-  Ses paroles blessantes ont blessé Pierre dans son orgueil.
-  Seine verletzenden Worte haben Peter in seinem Stolz verletzt.
+  Ces nouvelles chaussures me *blessent* les pieds.
+  Diese neuen Schuhe *drücken* an meinen Füßen.
 
-  Un rien la blesse, elle est très sensible.
-  Sie ist leicht gekränkt, sie ist sehr sensibel.
+  La bretelle de son sac *blesse* son épaule.
+  Der Riemen ihrer Tasche *reibt* an ihrer Schulter wund.
+
+  Ses paroles ont profondément *blessé* mon amour-propre.
+  Seine Worte haben meine Eigenliebe zutiefst *verletzt*.
+
+  Cette musique forte *blesse* mes oreilles.
+  Diese laute Musik *beleidigt* meine Ohren.
+
+  Il s'est *blessé* au genou en faisant du ski.
+  Er hat sich beim Skifahren am Knie *verletzt*.
+
+  "Tu m'as *blessée* avec tes remarques insensibles !"
+  "Du hast mich mit deinen unsensiblen Bemerkungen *gekränkt*!"
+
+  Le clou qui dépassait a *blessé* sa main.
+  Der hervorstehende Nagel hat seine Hand *verletzt*.
+
+  Elle s'est *blessée* à la cheville en courant.
+  Sie hat sich beim Laufen den Knöchel *verletzt*.
+
+  Son comportement irrespectueux a *blessé* la dignité de tous.
+  Sein respektloses Verhalten hat die Würde aller *verletzt*.
+
+  Les rayons du soleil trop intenses *blessaient* ses yeux.
+  Die zu intensiven Sonnenstrahlen *schmerzten* in seinen Augen.
+
+  Il ne voulait pas *blesser* ses sentiments, mais il devait dire la vérité.
+  Er wollte ihre Gefühle nicht *verletzen*, aber er musste die Wahrheit sagen.
+
+  Le chat s'est *blessé* en sautant du mur.
+  Die Katze hat sich beim Sprung von der Mauer *verletzt*.
+
+  Ces propos racistes *blessent* profondément la communauté.
+  Diese rassistischen Äußerungen *verletzen* die Gemeinschaft zutiefst.
+
+  Le joueur s'est *blessé* lors du match et ne pourra pas jouer la finale.
+  Der Spieler hat sich während des Spiels *verletzt* und kann nicht am Finale teilnehmen.
+
+  Son orgueil a été *blessé* par cette critique injuste.
+  Sein Stolz wurde durch diese ungerechte Kritik *gekränkt*.
+
+  La ceinture trop serrée *blessait* sa taille.
+  Der zu eng geschnallte Gürtel *scheuerte* an ihrer Taille.
+
+  Elle s'est *blessée* à la main en coupant des légumes.
+  Sie hat sich beim Gemüseschneiden an der Hand *verletzt*.
+
+  Les bruits stridents de l'usine *blessaient* les oreilles des habitants.
+  Die schrillen Geräusche der Fabrik *belästigten* die Ohren der Anwohner.
+
+  Il a été profondément *blessé* par le rejet de sa proposition.
+  Er war durch die Ablehnung seines Vorschlags zutiefst *gekränkt*.
+
+  Le chien s'est *blessé* la patte sur un tesson de bouteille.
+  Der Hund hat sich die Pfote an einer Glasscherbe *verletzt*.
+
+  Cette lumière vive *blesse* mes yeux fatigués.
+  Dieses grelle Licht *schmerzt* in meinen müden Augen.
+
+  Les remarques sarcastiques ont *blessé* sa sensibilité.
+  Die sarkastischen Bemerkungen haben seine Empfindlichkeit *verletzt*.
+
+  Il s'est *blessé* au dos en soulevant une charge trop lourde.
+  Er hat sich den Rücken *verletzt*, als er eine zu schwere Last hob.
+
+  Sa décision de partir sans un mot m'a profondément *blessé*.
+  Seine Entscheidung, ohne ein Wort zu gehen, hat mich zutiefst *verletzt*.
+
+  Le cavalier a été *blessé* lorsque son cheval a trébuché.
+  Der Reiter wurde *verletzt*, als sein Pferd stolperte.
+
+  Ces chaussures neuves *blessent* mes talons.
+  Diese neuen Schuhe *reiben* an meinen Fersen.
+
+  L'accident a *blessé* trois personnes, dont une grièvement.
+  Bei dem Unfall wurden drei Personen *verletzt*, eine davon schwer.
+
+  Son manque de confiance a *blessé* notre amitié.
+  Sein Mangel an Vertrauen hat unsere Freundschaft *verletzt*.
+
+  Elle s'est *blessée* à l'œil en jouant au badminton.
+  Sie hat sich beim Badmintonspielen am Auge *verletzt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

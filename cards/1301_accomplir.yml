@@ -13,17 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il vous faut continuer, accomplir votre destinée.
-  Sie müssen weitermachen und Ihr Schicksal erfüllen.
+  Il vous faut continuer, *accomplir* votre destinée.
+  Sie müssen weitermachen und Ihr Schicksal *erfüllen*.
 
-  Il a accompli sa mission avec succès.
-  Er hat seine Mission erfolgreich erfüllt.
+  J'ai *accompli* ma tâche avec diligence et précision.
+  Ich habe meine Aufgabe mit Sorgfalt und Genauigkeit *erledigt*.
 
-  Elle s'est accomplie dans son rôle de mère.
-  Sie hat in ihrer Rolle als Mutter Erfüllung gefunden.
+  Le président a *accompli* son devoir envers la nation.
+  Der Präsident hat seine Pflicht gegenüber der Nation *erfüllt*.
 
-  Le rêve de toute sa vie s'est accompli.
-  Der Traum ihres ganzen Lebens hat sich erfüllt.
+  Les soldats ont *accompli* les ordres sans hésitation.
+  Die Soldaten haben die Befehle ohne Zögern *ausgeführt*.
+
+  Ce guérisseur prétend pouvoir *accomplir* des miracles.
+  Dieser Heiler behauptet, Wunder *vollbringen* zu können.
+
+  J'espère *accomplir* tous mes rêves avant mes trente ans.
+  Ich hoffe, alle meine Träume vor meinem dreißigsten Geburtstag zu *verwirklichen*.
+
+  Elle a *accompli* sa promesse malgré les difficultés.
+  Sie hat ihr Versprechen trotz der Schwierigkeiten *eingelöst*.
+
+  Nous devons *accomplir* ce projet dans les délais impartis.
+  Wir müssen dieses Projekt innerhalb der vorgegebenen Frist *ausführen*.
+
+  Il s'est pleinement *accompli* dans son travail d'artiste.
+  Er hat in seiner Arbeit als Künstler *Erfüllung gefunden*.
+
+  La prophétie s'est finalement *accomplie* après des siècles.
+  Die Prophezeiung hat sich nach Jahrhunderten endlich *erfüllt*.
+
+  "Mission *accomplie* !" a déclaré le chef d'équipe.
+  "Mission *erfüllt*!" erklärte der Teamleiter.
+
+  Nous avons *accompli* notre devoir civique en allant voter.
+  Wir haben unsere Bürgerpflicht *erfüllt*, indem wir wählen gegangen sind.
+
+  Le gymnaste a *accompli* une performance exceptionnelle.
+  Der Turner hat eine außergewöhnliche Leistung *vollbracht*.
+
+  Elle s'est *accomplie* dans son rôle de mère.
+  Sie ist in ihrer Rolle als Mutter *aufgegangen*.
+
+  L'entreprise a *accompli* des progrès remarquables cette année.
+  Das Unternehmen hat in diesem Jahr bemerkenswerte Fortschritte *erzielt*.
+
+  Il faut *accomplir* les formalités administratives avant de partir.
+  Man muss die behördlichen Formalitäten *erledigen*, bevor man abreist.
+
+  Le jeune homme a *accompli* son service militaire avec honneur.
+  Der junge Mann hat seinen Militärdienst mit Ehre *abgeleistet*.
+
+  Nous devons *accomplir* notre destin, quel qu'il soit.
+  Wir müssen unser Schicksal *erfüllen*, wie auch immer es aussehen mag.
+
+  L'athlète a *accompli* un exploit en battant le record mondial.
+  Der Athlet hat eine Meisterleistung *vollbracht*, indem er den Weltrekord gebrochen hat.
+
+  J'ai enfin *accompli* mon rêve de visiter Paris.
+  Ich habe endlich meinen Traum *verwirklicht*, Paris zu besuchen.
+
+  Le magicien a *accompli* des tours stupéfiants sur scène.
+  Der Zauberer hat auf der Bühne verblüffende Kunststücke *vollführt*.
+
+  Elle s'est *accomplie* en tant que scientifique renommée.
+  Sie hat sich als renommierte Wissenschaftlerin *verwirklicht*.
+
+  Nous avons *accompli* notre mission en un temps record.
+  Wir haben unsere Mission in Rekordzeit *erfüllt*.
+
+  Le chef cuisinier a *accompli* des merveilles pour le banquet.
+  Der Küchenchef hat für das Bankett Wunder *vollbracht*.
+
+  Il faut *accomplir* ses obligations familiales avec amour.
+  Man muss seine familiären Pflichten mit Liebe *erfüllen*.
+
+  L'équipe a *accompli* l'impossible en gagnant le championnat.
+  Das Team hat das Unmögliche *geschafft*, indem es die Meisterschaft gewonnen hat.
+
+  Nous devons *accomplir* nos tâches quotidiennes avec diligence.
+  Wir müssen unsere täglichen Aufgaben mit Sorgfalt *erledigen*.
+
+  Le président a *accompli* son mandat de cinq ans.
+  Der Präsident hat seine fünfjährige Amtszeit *vollendet*.
+
+  L'entreprise a *accompli* sa transformation digitale avec succès.
+  Das Unternehmen hat seine digitale Transformation erfolgreich *vollzogen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

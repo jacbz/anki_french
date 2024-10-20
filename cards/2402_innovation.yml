@@ -13,14 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les entreprises maintiennent leurs efforts d’innovation.
-  Die Unternehmen halten ihre Innovationsbemühungen aufrecht.
+  Les entreprises maintiennent leurs efforts d'*innovation*.
+  Die Unternehmen halten ihre *Innovationsbemühungen* aufrecht.
 
-  Cette entreprise est connue pour son innovation.
-  Dieses Unternehmen ist für seine Innovationen bekannt.
+  L'*innovation* technique a révolutionné notre façon de travailler.
+  Die technische *Innovation* hat unsere Arbeitsweise revolutioniert.
 
-  L'innovation produit est un processus qui consiste à créer de nouveaux produits ou à améliorer les produits existants.
-  Produktinnovation ist ein Prozess, der darin besteht, neue Produkte zu schaffen oder bestehende Produkte zu verbessern.
+  Cette start-up est connue pour ses *innovations* constantes.
+  Dieses Start-up ist für seine ständigen *Neuerungen* bekannt.
+
+  L'*innovation* produit est essentielle pour rester compétitif.
+  Die Produkt*innovation* ist entscheidend, um wettbewerbsfähig zu bleiben.
+
+  "J'en ai assez de toutes ces *innovations* ! Ça change trop vite."
+  "Ich habe genug von all diesen *Neuerungen*! Es ändert sich zu schnell."
+
+  L'*innovation* pédagogique peut améliorer l'apprentissage des élèves.
+  Pädagogische *Innovation* kann das Lernen der Schüler verbessern.
+
+  Cette mesure constitue une *innovation* majeure dans notre politique.
+  Diese Maßnahme stellt eine bedeutende *Neuerung* in unserer Politik dar.
+
+  Les *innovations* dangereuses doivent être soigneusement évaluées.
+  Gefährliche *Innovationen* müssen sorgfältig bewertet werden.
+
+  Le processus d'*innovation* commence souvent par une simple idée.
+  Der *Innovationsprozess* beginnt oft mit einer einfachen Idee.
+
+  L'*innovation* sociale vise à résoudre les problèmes de la communauté.
+  Soziale *Innovation* zielt darauf ab, Probleme in der Gemeinschaft zu lösen.
+
+  Certains craignent que l'*innovation* ne remplace les emplois traditionnels.
+  Manche befürchten, dass *Innovation* traditionelle Arbeitsplätze ersetzen könnte.
+
+  L'*innovation* heureuse a transformé l'entreprise en leader du marché.
+  Die gelungene *Innovation* hat das Unternehmen zum Marktführer gemacht.
+
+  Le département recherche et développement est le moteur de l'*innovation*.
+  Die Forschungs- und Entwicklungsabteilung ist der Motor der *Innovation*.
+
+  L'*innovation* dans le processus de production a réduit les coûts de 30%.
+  Die *Innovation* im Produktionsprozess hat die Kosten um 30% gesenkt.
+
+  Cette *innovation* a rejeté les normes sociales existantes.
+  Diese *Neuerung* hat bestehende soziale Normen abgelehnt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,38 @@ Register: ↗Fiktion ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il gérait les fonds de la firme.
-  Er verwaltete die Gelder der Firma.
+  Il gérait les fonds de la *firme*.
+  Er verwaltete die Finanzen der *Firma*.
 
-  Je travaille pour une firme allemande.
-  Ich arbeite für eine deutsche Firma.
+  La *firme* a annoncé une restructuration majeure pour l'année prochaine.
+  Die *Firma* hat für das nächste Jahr eine umfassende Umstrukturierung angekündigt.
+
+  Cette *firme* multinationale emploie plus de 100 000 personnes dans le monde.
+  Dieses multinationale *Unternehmen* beschäftigt weltweit über 100.000 Mitarbeiter.
+
+  La nouvelle *firme* de technologie a rapidement gagné en notoriété.
+  Das neue Technologie-*Unternehmen* hat schnell an Bekanntheit gewonnen.
+
+  Les actions de la *firme* ont chuté suite à l'annonce des résultats trimestriels.
+  Die Aktien der *Firma* sind nach der Bekanntgabe der Quartalsergebnisse gefallen.
+
+  Notre *firme* cherche à réduire son empreinte carbone d'ici 2030.
+  Unser *Unternehmen* strebt an, seinen CO2-Fußabdruck bis 2030 zu reduzieren.
+
+  La *firme* a été fondée il y a plus d'un siècle par deux frères entrepreneurs.
+  Die *Firma* wurde vor über einem Jahrhundert von zwei Unternehmerbrüdern gegründet.
+
+  Les employés sont fiers de travailler pour une *firme* aussi prestigieuse.
+  Die Mitarbeiter sind stolz darauf, für eine so renommierte *Firma* zu arbeiten.
+
+  La fusion entre les deux *firmes* a créé un géant de l'industrie.
+  Die Fusion der beiden *Unternehmen* hat einen Industriegiganten geschaffen.
+
+  Cette petite *firme* familiale s'est transformée en leader du marché en seulement dix ans.
+  Diese kleine *Familienfirma* hat sich in nur zehn Jahren zum Marktführer entwickelt.
+
+  Les grandes *firmes* de l'industrie automobile investissent massivement dans les véhicules électriques.
+  Die großen *Firmen* der Automobilindustrie investieren massiv in Elektrofahrzeuge.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

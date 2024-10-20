@@ -13,29 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Désolée de devoir vous infliger ça maintenant.
-  Es tut mir leid, dass ich Ihnen das jetzt zumuten muss.
+  Désolée de devoir vous *infliger* ça maintenant.
+  Es tut mir leid, dass ich Ihnen das jetzt *antun* muss.
 
-  Le juge a décidé d’infliger une amende.
-  Der Richter hat beschlossen, eine Geldstrafe zu verhängen.
+  Le juge a *infligé* une amende de 500 euros au conducteur imprudent.
+  Der Richter hat dem unvorsichtigen Fahrer eine Geldstrafe von 500 Euro *auferlegt*.
 
-  Le policier a infligé une amende à Pierre pour excès de vitesse.
-  Der Polizist hat gegen Pierre wegen Geschwindigkeitsüberschreitung eine Geldbuße verhängt.
+  L'équipe adverse nous a *infligé* une défaite écrasante.
+  Die gegnerische Mannschaft hat uns eine vernichtende Niederlage *zugefügt*.
 
-  Il a infligé un récit de son voyage à ses amis, qui étaient lassés de l'écouter.
-  Er hat seine Freunde mit einem Bericht seiner Reise behelligt, die es leid waren, ihm zuzuhören.
+  Les parents ont *infligé* une punition sévère à leur enfant désobéissant.
+  Die Eltern haben ihrem ungehorsamen Kind eine harte Strafe *erteilt*.
 
-  Le maître a infligé un châtiment à l'élève pour son comportement irrespectueux.
-  Der Lehrer hat den Schüler für sein respektloses Verhalten gezüchtigt.
+  "Je ne veux pas vous *infliger* la corvée de nettoyer tout ça."
+  "Ich möchte Ihnen nicht die Plackerei *aufbürden*, das alles zu putzen."
 
-  Le juge a infligé une peine de prison à l'accusé.
-  Der Richter hat eine Haftstrafe über den Angeklagten verhängt.
+  Le professeur a *infligé* un devoir supplémentaire aux élèves bavards.
+  Der Lehrer hat den schwatzhaften Schülern eine zusätzliche Hausaufgabe *aufgebrummt*.
 
-  Elle a infligé sa présence à ses voisins, qui n'avaient pas envie de la voir.
-  Sie hat sich ihren Nachbarn aufgedrängt, die sie nicht sehen wollten.
+  Cette expérience m'a *infligé* un traumatisme dont je ne me suis jamais remis.
+  Diese Erfahrung hat mir ein Trauma *zugefügt*, von dem ich mich nie erholt habe.
 
-  Il a infligé un affront à sa famille en se comportant de manière inappropriée.
-  Er hat seine Familie bloßgestellt, indem er sich unangemessen verhielt.
+  Le tribunal a *infligé* une peine de prison à vie au meurtrier.
+  Das Gericht hat dem Mörder eine lebenslange Haftstrafe *verhängt*.
+
+  Son comportement irresponsable lui a *infligé* de lourdes conséquences.
+  Sein unverantwortliches Verhalten hat ihm schwerwiegende Konsequenzen *eingebracht*.
+
+  La nature nous *inflige* parfois des catastrophes dévastatrices.
+  Die Natur *fügt* uns manchmal verheerende Katastrophen *zu*.
+
+  "Je ne voulais pas t'*infliger* ma mauvaise humeur."
+  "Ich wollte dir meine schlechte Laune nicht *zumuten*."
+
+  Le destin lui a *infligé* une série d'épreuves difficiles.
+  Das Schicksal hat ihr eine Reihe schwieriger Prüfungen *auferlegt*.
+
+  Les critiques ont *infligé* un camouflet cinglant au dernier film du réalisateur.
+  Die Kritiker haben dem neuesten Film des Regisseurs eine vernichtende Abfuhr *erteilt*.
+
+  L'entreprise s'est *infligé* des pertes importantes en ignorant les avertissements.
+  Das Unternehmen hat sich durch Ignorieren der Warnungen erhebliche Verluste *zugefügt*.
+
+  Le gouvernement a *infligé* des sanctions économiques au pays voisin.
+  Die Regierung hat dem Nachbarland wirtschaftliche Sanktionen *auferlegt*.
+
+  Cette défaite a *infligé* un coup dur à leur moral.
+  Diese Niederlage hat ihrer Moral einen harten Schlag *versetzt*.
+
+  "Je ne veux pas vous *infliger* le récit de mes malheurs."
+  "Ich möchte Sie nicht mit der Erzählung meiner Unglücke *belästigen*."
+
+  Le tribunal a *infligé* une amende record à l'entreprise pour fraude fiscale.
+  Das Gericht hat dem Unternehmen wegen Steuerbetrugs eine Rekordgeldstrafe *auferlegt*.
+
+  Son absence *inflige* une grande peine à sa famille.
+  Seine Abwesenheit *fügt* seiner Familie großes Leid *zu*.
+
+  Les conditions météorologiques ont *infligé* de lourds dégâts aux cultures.
+  Die Wetterbedingungen haben den Feldfrüchten schwere Schäden *zugefügt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

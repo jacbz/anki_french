@@ -13,41 +13,116 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On a tout ce dont tu rêvais en ville.
-  Wir haben in der Stadt alles, was du dir erträumt hast.
+  On a tout ce *dont* tu rêvais en ville.
+  Wir haben alles in der Stadt, *wovon* du geträumt hast.
 
-  Le livre dont je te parle.
-  Das Buch, von dem ich spreche.
+  Le problème *dont* je te parle est très important.
+  Das Problem, *von dem* ich dir erzähle, ist sehr wichtig.
 
-  J’ai acheté un livre dont la couverture est très belle.
-  Ich habe ein Buch gekauft, dessen Einband sehr schön ist.
+  Voici la maison *dont* je suis propriétaire.
+  Hier ist das Haus, *dessen* Eigentümer ich bin.
 
-  Il a vu le film dont je lui ai parlé.
-  Er hat den Film gesehen, von dem ich ihm erzählt habe.
+  J'ai acheté dix livres, *dont* trois en anglais.
+  Ich habe zehn Bücher gekauft, *davon* drei auf Englisch.
 
-  Elle a mangé le gâteau dont j’avais envie.
-  Sie hat den Kuchen gegessen, auf den ich Lust hatte.
+  C'est une histoire *dont* je me souviendrai toujours.
+  Das ist eine Geschichte, *an die* ich mich immer erinnern werde.
 
-  Cet acteur, dont le dernier film a été un échec, a décidé de prendre une pause.
-  Dieser Schauspieler, dessen letzter Film ein Flop war, hat sich entschlossen, eine Pause einzulegen.
+  La façon *dont* il s'est comporté était inacceptable.
+  Die Art und Weise, *wie* er sich verhalten hat, war inakzeptabel.
 
-  Les moyens dont tu te sers pour apprendre le français sont très efficaces.
-  Die Mittel, deren du dich bedienst, um Französisch zu lernen, sind sehr effektiv.
+  Marie, *dont* la sœur est médecin, habite à Paris.
+  Marie, *deren* Schwester Ärztin ist, wohnt in Paris.
 
-  Cet accident a fait six victimes, dont deux enfants qui jouaient sur le trottoir.
-  Dieser Unfall forderte sechs Opfer, darunter zwei Kinder, die auf dem Bürgersteig spielten.
+  Le chien *dont* tu prends soin est vraiment adorable.
+  Der Hund, *um den* du dich kümmerst, ist wirklich liebenswert.
 
-  Les enfants dont la mère travaille sont souvent gardés par une nounou.
-  Die Kinder, deren Mutter berufstätig ist, werden oft von einer Tagesmutter betreut.
+  C'est un sujet *dont* nous sommes tous responsables.
+  Das ist ein Thema, *für das* wir alle verantwortlich sind.
 
-  La femme dont vous me parlez est ma voisine.
-  Die Frau, von der Sie sprechen, ist meine Nachbarin.
+  La ville *dont* je viens est au bord de la mer.
+  Die Stadt, *aus der* ich komme, liegt am Meer.
 
-  La famille dont elle sort est très riche.
-  Die Familie, aus der sie stammt, ist sehr reich.
+  Voilà le garçon *dont* elle est amoureuse.
+  Das ist der Junge, *in den* sie verliebt ist.
 
-  Cet enfant dont vous étiez si fier est maintenant un jeune homme.
-  Dieses Kind, auf das Sie so stolz waren, ist jetzt ein junger Mann.
+  Le restaurant *dont* je t'ai parlé a fermé.
+  Das Restaurant, *von dem* ich dir erzählt habe, hat geschlossen.
+
+  C'est un projet *dont* je suis vraiment fier.
+  Das ist ein Projekt, *auf das* ich wirklich stolz bin.
+
+  L'équipe compte vingt joueurs, *dont* cinq débutants.
+  Das Team hat zwanzig Spieler, *darunter* fünf Anfänger.
+
+  La chambre *dont* je sors vient d'être nettoyée.
+  Das Zimmer, *aus dem* ich komme, wurde gerade gereinigt.
+
+  Le parc *dont* tu vois l'entrée est magnifique.
+  Der Park, *dessen* Eingang du siehst, ist wunderschön.
+
+  Voici l'artiste *dont* tout le monde parle.
+  Hier ist der Künstler, *von dem* alle sprechen.
+
+  C'est une région *dont* le climat est très doux.
+  Das ist eine Region, *deren* Klima sehr mild ist.
+
+  L'ordinateur *dont* je me sers est assez ancien.
+  Der Computer, *den* ich benutze, ist ziemlich alt.
+
+  Le film *dont* il est l'auteur a gagné un prix.
+  Der Film, *dessen* Autor er ist, hat einen Preis gewonnen.
+
+  Les outils *dont* nous avons besoin sont dans le garage.
+  Die Werkzeuge, *die* wir brauchen, sind in der Garage.
+
+  C'est une décision *dont* je ne suis pas sûr.
+  Das ist eine Entscheidung, *bei der* ich mir nicht sicher bin.
+
+  Le musée *dont* je t'ai montré les photos est fermé aujourd'hui.
+  Das Museum, *von dem* ich dir die Fotos gezeigt habe, ist heute geschlossen.
+
+  Voici les personnes *dont* je t'ai tant parlé.
+  Hier sind die Personen, *von denen* ich dir so viel erzählt habe.
+
+  La maison *dont* le toit est rouge appartient à mon oncle.
+  Das Haus, *dessen* Dach rot ist, gehört meinem Onkel.
+
+  Le livre *dont* je connais l'auteur est fascinant.
+  Das Buch, *dessen* Autor ich kenne, ist faszinierend.
+
+  C'est un problème *dont* nous connaissons la solution.
+  Das ist ein Problem, *dessen* Lösung wir kennen.
+
+  L'entreprise *dont* il est le directeur se développe rapidement.
+  Das Unternehmen, *dessen* Direktor er ist, entwickelt sich schnell.
+
+  Le jardin *dont* je m'occupe fleurit au printemps.
+  Der Garten, *um den* ich mich kümmere, blüht im Frühling.
+
+  La recette *dont* je me sers vient de ma grand-mère.
+  Das Rezept, *das* ich verwende, stammt von meiner Großmutter.
+
+  Le concert *dont* je reviens était extraordinaire.
+  Das Konzert, *von dem* ich zurückkomme, war außergewöhnlich.
+
+  Voici l'association *dont* nous sommes membres.
+  Hier ist der Verein, *dessen* Mitglieder wir sind.
+
+  Le pays *dont* je rêve est loin d'ici.
+  Das Land, *von dem* ich träume, ist weit von hier.
+
+  C'est une tradition *dont* nous sommes fiers.
+  Das ist eine Tradition, *auf die* wir stolz sind.
+
+  La boutique *dont* je t'ai parlé est au coin de la rue.
+  Der Laden, *von dem* ich dir erzählt habe, ist an der Straßenecke.
+
+  Le groupe compte dix musiciens, *dont* trois guitaristes.
+  Die Band hat zehn Musiker, *darunter* drei Gitarristen.
+
+  C'est un secret *dont* personne ne parle.
+  Das ist ein Geheimnis, *von dem* niemand spricht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

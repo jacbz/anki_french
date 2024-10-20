@@ -13,35 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La clôture est trop haute.
-  Der Zaun ist zu hoch.
+  La *clôture* est trop haute.
+  Der *Zaun* ist zu hoch.
 
-  La clôture de la propriété est en bois.
-  Der Zaun des Grundstücks ist aus Holz.
+  Une *clôture* électrique entoure le pâturage pour garder les moutons.
+  Ein elektrischer *Zaun* umgibt die Weide, um die Schafe einzuzäunen.
 
-  Le jardin est entouré d'une clôture en bois.
-  Der Garten ist von einem Holzzaun umgeben.
+  Ils ont planté une *clôture* de cyprès autour de leur propriété.
+  Sie haben eine *Hecke* aus Zypressen um ihr Grundstück gepflanzt.
 
-  La clôture des bureaux aura lieu à 18h aujourd'hui.
-  Die Büros schließen heute um 18 Uhr.
+  Le mur de *clôture* du monastère empêche les visiteurs d'entrer.
+  Die *Umfassungsmauer* des Klosters hält Besucher fern.
 
-  La clôture totale de la Bourse est prévue à 17h30.
-  Der volle Börsenschluss ist für 17:30 Uhr geplant.
+  La *clôture* du festival aura lieu dimanche soir avec un grand concert.
+  Das *Ende* des Festivals findet am Sonntagabend mit einem großen Konzert statt.
 
-  La clôture du bilan a été réalisée avec succès.
-  Der Bilanzabschluss wurde erfolgreich abgeschlossen.
+  Le président a annoncé la *clôture* du débat après trois heures de discussion.
+  Der Vorsitzende hat nach dreistündiger Diskussion die *Beendigung* der Debatte angekündigt.
 
-  La clôture d'un compte est une procédure simple.
-  Der Kontoabschluss ist ein einfacher Vorgang.
+  "Désolé, nous sommes fermés. C'est l'heure de la *clôture* du magasin."
+  "Tut mir leid, wir haben geschlossen. Es ist *Ladenschluss*."
 
-  La clôture des crédits journaliers est un processus automatisé.
-  Der Tagesgeldabschluss ist ein automatisierter Prozess.
+  La *clôture* totale de la Bourse a été décidée en raison de la crise financière.
+  Der *volle Börsenschluss* wurde aufgrund der Finanzkrise beschlossen.
 
-  La clôture de la procédure de dépôt de bilan a libéré l'entreprise de ses dettes.
-  Die Konkurseröffnung hat das Unternehmen von seinen Schulden befreit.
+  L'expert-comptable travaille sur la *clôture* du bilan annuel de l'entreprise.
+  Der Buchprüfer arbeitet am *Bilanzabschluss* des Unternehmens für das Jahr.
 
-  Les cours de l'action ont baissé après clôture.
-  Die Aktienkurse sind nachbörslich gefallen.
+  La banque a procédé à la *clôture* de tous les comptes inactifs depuis plus d'un an.
+  Die Bank hat alle seit über einem Jahr inaktiven Konten *geschlossen*.
+
+  Après la *clôture* de la séance boursière, les traders ont analysé les résultats.
+  Nach *Börsenschluss* haben die Händler die Ergebnisse analysiert.
+
+  N'oubliez pas d'effectuer la *clôture* de votre session informatique avant de partir.
+  Vergessen Sie nicht, sich von Ihrer Computersitzung *abzumelden*, bevor Sie gehen.
+
+  Le vieux mur de *clôture* s'est effondré pendant la tempête.
+  Die alte *Umfassungsmauer* ist während des Sturms eingestürzt.
+
+  La religieuse a choisi de vivre dans la *clôture* du monastère.
+  Die Nonne hat sich entschieden, in der *Klausur* des Klosters zu leben.
+
+  La *clôture* solennelle du concile a eu lieu dans la basilique Saint-Pierre.
+  Die feierliche *Beendigung* des Konzils fand in der Petersbasilika statt.
+
+  Les sculpteurs ont orné la *clôture* du chœur de la cathédrale de figures bibliques.
+  Die Bildhauer haben die *Chorschranke* der Kathedrale mit biblischen Figuren verziert.
+
+  À la *clôture* du marché, l'indice boursier avait gagné 2%.
+  Zum *Börsenschluss* hatte der Aktienindex 2% gewonnen.
+
+  Le juge a prononcé la *clôture* des débats et s'est retiré pour délibérer.
+  Der Richter hat das *Ende* der Verhandlung verkündet und sich zur Beratung zurückgezogen.
+
+  "La *clôture* de la session parlementaire aura lieu demain," a annoncé le président de l'Assemblée.
+  "Die *Schließung* der Parlamentssitzung findet morgen statt", kündigte der Präsident der Versammlung an.
+
+  Le gala de *clôture* du festival de cinéma a attiré de nombreuses célébrités.
+  Die *Abschluss*gala des Filmfestivals zog zahlreiche Prominente an.
+
+  Les moines respectent strictement la règle de *clôture* et ne sortent jamais du monastère.
+  Die Mönche halten sich streng an die *Klausur*regel und verlassen das Kloster nie.
+
+  La conférence de *clôture* du symposium a résumé les principaux points abordés durant la semaine.
+  Der *Abschluss*vortrag des Symposiums fasste die wichtigsten Punkte der Woche zusammen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

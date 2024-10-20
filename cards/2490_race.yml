@@ -13,35 +13,104 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle n’est pas de ta race.
-  Sie gehört nicht zu deiner Rasse.
+  Elle n’est pas de ta *race*.
+  Sie gehört nicht zu deiner *Rasse*.
 
-  La discrimination basée sur la race est illégale.
-  Diskriminierung aufgrund der Rasse ist illegal.
+  Un cheval de *race* pure est plus cher.
+  Ein reinrassiges Pferd ist teurer.
 
-  Le croisement entre races de chiens peut donner naissance à des animaux aux caractéristiques uniques.
-  Die Kreuzung von Rassen bei Hunden kann zu Tieren mit einzigartigen Merkmalen führen.
+  Nous devons lutter contre les discriminations basées sur la *race*.
+  Wir müssen gegen Rassendiskriminierungen kämpfen.
 
-  Ce cheval a de la race, il est magnifique.
-  Dieses Pferd hat Format, es ist wunderschön.
+  Un chien de *race* coûte souvent plus cher qu’un bâtard.
+  Ein Rassehund ist oft teurer als ein Mischling.
 
-  Le chat est un animal de pure race.
-  Die Katze ist ein reinrassiges Tier.
+  La *race* des seigneurs est aujourd'hui révolue.
+  Die *Rasse* der Herrscher ist heute Vergangenheit.
 
-  Les amis sont tous de la même race.
-  Die Freunde sind alle vom gleichen Schlag.
+  C'est un animal de pure *race*.
+  Das ist ein reinrassiges Tier.
 
-  Il a acheté un chien de race, un labrador.
-  Er hat sich einen Rassehund, einen Labrador, gekauft.
+  Les chevaux de cette *race* sont réputés pour leur vitesse.
+  Pferde dieser *Rasse* sind für ihre Schnelligkeit bekannt.
 
-  La race bovine charolaise est connue pour sa viande.
-  Die Rinderrasse Charolais ist für ihr Fleisch bekannt.
+  Ils disent que les vaches de cette *race* produisent plus de lait.
+  Man sagt, dass Kühe dieser *Rasse* mehr Milch produzieren.
 
-  La race chevaline arabe est réputée pour sa vitesse et son endurance.
-  Die Pferderasse Araber ist für ihre Geschwindigkeit und Ausdauer bekannt.
+  Il vient d'une grande *race* de conquérants.
+  Er stammt aus einer großen *Rasse* von Eroberern.
 
-  Il existe de nombreuses races de chiens nains, comme le chihuahua.
-  Es gibt viele Zwerghundrassen, wie den Chihuahua.
+  Les *races* bovines sont diverses dans cette région.
+  Die Rinder*rassen* sind in dieser Region vielfältig.
+
+  La question de la *race* humaine est complexe et débattue.
+  Die Frage der menschlichen *Rasse* ist komplex und umstritten.
+
+  Un croisement entre deux *races* peut créer une nouvelle espèce.
+  Eine Kreuzung zwischen zwei *Rassen* kann eine neue Art hervorbringen.
+
+  Il s'agit d'une *race* rare de chien.
+  Es handelt sich um eine seltene *Hunderasse*.
+
+  La *race* blanche a été privilégiée par les colonisateurs.
+  Die weiße *Rasse* wurde von den Kolonialherren bevorzugt.
+
+  Ce cheval est de la même *race* que celui de mon oncle.
+  Dieses Pferd ist von derselben *Rasse* wie das meines Onkels.
+
+  "Sa *race*!" s’écria-t-il en colère.
+  "*Verdammt*!" schrie er wütend.
+
+  Les animaux de cette *race* sont connus pour leur résistance.
+  Die Tiere dieser *Rasse* sind für ihre Widerstandskraft bekannt.
+
+  Les vaches de *race* normande produisent un lait excellent.
+  Normannische Kühe produzieren hervorragende Milch.
+
+  L'extermination d'une *race* est un acte de barbarie.
+  Die Auslöschung einer *Rasse* ist ein barbarischer Akt.
+
+  Ils sont de la même *race* d’hommes courageux.
+  Sie sind vom gleichen *Schlag* mutiger Männer.
+
+  Les *races* humaines n'existent pas scientifiquement parlant.
+  Wissenschaftlich gesehen existieren menschliche *Rassen* nicht.
+
+  On ne peut pas juger quelqu'un sur sa *race*.
+  Man kann niemanden nach seiner *Rasse* beurteilen.
+
+  Ce chien appartient à une *race* ancienne.
+  Dieser Hund gehört zu einer alten *Rasse*.
+
+  Les *races* canines sont nombreuses et variées.
+  Es gibt zahlreiche und verschiedene *Hunderassen*.
+
+  Il y a des *races* de chats très rares et très prisées.
+  Es gibt sehr seltene und geschätzte *Katzenrassen*.
+
+  Cette *race* de chevaux est particulièrement robuste.
+  Diese *Pferderasse* ist besonders widerstandsfähig.
+
+  C’est une vieille *race* royale.
+  Das ist ein altes *königliches Geschlecht*.
+
+  Elle est d'une *race* noble.
+  Sie stammt aus einer *adeligen Familie*.
+
+  "Quelle sale *race*!" murmura-t-il avec mépris.
+  "Was für eine üble *Brut*!" murmelte er verächtlich.
+
+  La *race* des grands explorateurs n’est pas éteinte.
+  Die *Rasse* der großen Entdecker ist nicht ausgestorben.
+
+  Les fermiers préfèrent cette *race* de vaches pour leur production laitière.
+  Die Bauern bevorzugen diese *Rinderrasse* wegen ihrer Milchproduktion.
+
+  Les *races* d'animaux sont souvent le résultat de sélections génétiques.
+  *Tierrassen* sind oft das Ergebnis genetischer Selektionen.
+
+  Il a acheté un chien de *race* pour ses enfants.
+  Er hat einen *Rassehund* für seine Kinder gekauft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,14 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Un inconnu avait au préalable averti le journal.
-  Ein Unbekannter hatte die Zeitung zuvor gewarnt.
+  Un inconnu avait *au préalable* averti le journal.
+  Ein Unbekannter hatte die Zeitung *im Voraus* gewarnt.
 
-  C’est une condition préalable.
-  Das ist eine Voraussetzung.
+  La signature du contrat nécessite une autorisation *préalable* du conseil d'administration.
+  Die Vertragsunterzeichnung erfordert eine *vorherige* Genehmigung des Vorstands.
 
-  Je voudrais votre accord préalable avant de prendre une décision.
-  Ich hätte gerne vorher Ihre Zustimmung, bevor ich eine Entscheidung treffe.
+  *Préalablement* à toute décision, nous devons examiner les conséquences.
+  *Vor* jeder Entscheidung müssen wir die Konsequenzen prüfen.
+
+  Un examen médical *préalable* est obligatoire pour participer à cette compétition.
+  Eine *vorausgehende* ärztliche Untersuchung ist für die Teilnahme an diesem Wettbewerb obligatorisch.
+
+  Elle a posé une question *préalable* avant d'accepter l'offre d'emploi.
+  Sie stellte eine *Vor*frage, bevor sie das Jobangebot annahm.
+
+  Le gouvernement a fixé des conditions *préalables* à l'ouverture des négociations.
+  Die Regierung hat *Vor*bedingungen für die Aufnahme der Verhandlungen festgelegt.
+
+  Sans *préalable*, les deux parties ont commencé à discuter.
+  Ohne *Vorbedingungen* begannen die beiden Parteien zu diskutieren.
+
+  Il faut obtenir l'accord *préalable* des parents pour cette sortie scolaire.
+  Für diesen Schulausflug ist die *vorherige* Zustimmung der Eltern erforderlich.
+
+  Une formation *préalable* est nécessaire pour utiliser cette machine.
+  Eine *vorausgehende* Schulung ist notwendig, um diese Maschine zu bedienen.
+
+  Le juge a demandé que soit résolue cette question *préalable*.
+  Der Richter forderte, dass diese *Vor*frage geklärt wird.
+
+  *Préalablement* à l'entretien, veuillez préparer votre CV.
+  *Vor* dem Gespräch bereiten Sie bitte Ihren Lebenslauf vor.
+
+  L'inscription *préalable* est obligatoire pour participer au concours.
+  Die *vorherige* Anmeldung ist für die Teilnahme am Wettbewerb verpflichtend.
+
+  Il faut remplir certaines conditions *préalables* pour obtenir ce prêt.
+  Man muss bestimmte *Voraus*setzungen erfüllen, um diesen Kredit zu erhalten.
+
+  Une étude de marché *préalable* a été menée avant le lancement du produit.
+  Vor der Produkteinführung wurde eine *vorbereitende* Marktstudie durchgeführt.
+
+  La connaissance *préalable* du sujet facilitera la compréhension du cours.
+  *Vorkenntnisse* zum Thema werden das Verständnis des Kurses erleichtern.
+
+  Le *préalable* à toute négociation est la reconnaissance mutuelle des parties.
+  Die *Voraussetzung* für jede Verhandlung ist die gegenseitige Anerkennung der Parteien.
+
+  Nous exigeons un paiement *préalable* pour ce type de service.
+  Wir verlangen eine *Vorauszahlung* für diese Art von Dienstleistung.
+
+  Une consultation *préalable* des habitants est prévue avant les travaux.
+  Eine *vorherige* Befragung der Anwohner ist vor den Bauarbeiten geplant.
+
+  L'accord *préalable* de l'auteur est nécessaire pour toute adaptation de l'œuvre.
+  Die *vorherige* Zustimmung des Autors ist für jede Adaption des Werkes erforderlich.
+
+  Il faut effectuer un test *préalable* pour vérifier la compatibilité des produits.
+  Man muss einen *Vortest* durchführen, um die Verträglichkeit der Produkte zu überprüfen.
+
+  La réunion *préalable* a permis de clarifier les objectifs du projet.
+  Das *vorbereitende* Treffen hat es ermöglicht, die Projektziele zu klären.
+
+  Un avertissement *préalable* aurait pu éviter ce malentendu.
+  Eine *vorherige* Warnung hätte dieses Missverständnis vermeiden können.
+
+  L'entretien *préalable* au licenciement est une étape importante du processus.
+  Das *Vorgespräch* zur Kündigung ist ein wichtiger Schritt im Prozess.
+
+  Elle a posé comme *préalable* la résolution du conflit existant.
+  Sie stellte die Lösung des bestehenden Konflikts als *Vorbedingung*.
+
+  *Préalablement* à l'inscription, assurez-vous de remplir tous les critères.
+  *Vor* der Anmeldung stellen Sie bitte sicher, dass Sie alle Kriterien erfüllen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

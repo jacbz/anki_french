@@ -13,11 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Pour moi, le sujet est clos.
-  Für mich ist das Thema abgeschlossen.
+  Pour moi, le sujet est *clos*.
+  Für mich ist das Thema *abgeschlossen*.
 
-  Il faut clore cette affaire au plus vite.
-  Wir müssen diese Angelegenheit so schnell wie möglich abschließen.
+  Le débat a été *clos* après trois heures de discussion.
+  Die Debatte wurde nach drei Stunden Diskussion *beendet*.
+
+  "*Clos* ta bouche et écoute !" a ordonné le professeur.
+  "*Halt* den Mund und hör zu!", befahl der Lehrer.
+
+  Ils ont *clos* la réunion par un vote unanime.
+  Sie *beendeten* die Sitzung mit einer einstimmigen Abstimmung.
+
+  Le jardin était *clos* par une haute haie.
+  Der Garten war von einer hohen Hecke *umschlossen*.
+
+  L'affaire sera *close* d'ici la fin de la semaine.
+  Die Angelegenheit wird bis zum Ende der Woche *abgeschlossen* sein.
+
+  Le jury a *clos* ses délibérations à minuit.
+  Die Jury hat ihre Beratungen um Mitternacht *beendet*.
+
+  La cérémonie *clora* la conférence internationale.
+  Die Zeremonie wird die internationale Konferenz *abschließen*.
+
+  Il faut *clore* ce compte bancaire avant de partir.
+  Dieses Bankkonto muss vor der Abreise *geschlossen* werden.
+
+  Les volets *clos* empêchaient la lumière d'entrer.
+  Die *geschlossenen* Fensterläden verhinderten, dass Licht eindrang.
+
+  Le maire a *clos* le festival par un discours émouvant.
+  Der Bürgermeister *beschloss* das Festival mit einer bewegenden Rede.
+
+  Nous devons *clore* l'enquête dans les plus brefs délais.
+  Wir müssen die Untersuchung schnellstmöglich *abschließen*.
+
+  Le propriétaire a fait *clore* son terrain pour plus de sécurité.
+  Der Besitzer ließ sein Grundstück aus Sicherheitsgründen *einzäunen*.
+
+  Les négociations ont été *closes* sans accord.
+  Die Verhandlungen wurden ohne Einigung *beendet*.
+
+  Le testament *clôt* par ces mots : "Tel est mon dernier souhait."
+  Das Testament *endet* mit den Worten: "Dies ist mein letzter Wunsch."
+
+  À la nuit *close*, les oiseaux cessèrent de chanter.
+  Bei *Einbruch* der Nacht hörten die Vögel auf zu singen.
+
+  Le conducteur n'avait pas bien *clos* la portière de sa voiture.
+  Der Fahrer hatte die Tür seines Autos nicht richtig *geschlossen*.
+
+  Les participants se sont affrontés à huis *clos*.
+  Die Teilnehmer trafen sich unter *Ausschluss* der Öffentlichkeit.
+
+  Le magasin était *clos* pour inventaire annuel.
+  Der Laden war wegen der jährlichen Inventur *geschlossen*.
+
+  Il faut *clore* hermétiquement le bocal pour conserver les aliments.
+  Das Einmachglas muss luftdicht *verschlossen* werden, um die Lebensmittel zu konservieren.
+
+  Le président a *clos* la séance en remerciant tous les participants.
+  Der Präsident *beendete* die Sitzung, indem er allen Teilnehmern dankte.
+
+  La frontière a été *close* en raison de la crise sanitaire.
+  Die Grenze wurde aufgrund der Gesundheitskrise *geschlossen*.
+
+  Le juge a déclaré que l'affaire était désormais *close*.
+  Der Richter erklärte, dass der Fall nun *abgeschlossen* sei.
+
+  Les rideaux *clos* plongeaient la pièce dans l'obscurité.
+  Die *zugezogenen* Vorhänge tauchten den Raum in Dunkelheit.
+
+  Il faut *clore* ce chapitre de notre histoire et aller de l'avant.
+  Wir müssen dieses Kapitel unserer Geschichte *abschließen* und vorwärts gehen.
+
+  Le contrat sera officiellement *clos* lors de la signature finale.
+  Der Vertrag wird bei der endgültigen Unterzeichnung offiziell *abgeschlossen*.
+
+  Les yeux *clos*, elle écoutait attentivement la musique.
+  Mit *geschlossenen* Augen hörte sie aufmerksam der Musik zu.
+
+  Le parc zoologique était *clos* par de hautes barrières.
+  Der Zoo war von hohen Zäunen *umschlossen*.
+
+  Nous avons *clos* la discussion sur une note positive.
+  Wir haben die Diskussion auf einer positiven Note *beendet*.
+
+  Le dossier ne pourra être *clos* qu'après vérification de tous les documents.
+  Die Akte kann erst nach Überprüfung aller Dokumente *geschlossen* werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

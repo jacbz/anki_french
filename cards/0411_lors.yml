@@ -13,35 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je vous ai vu lors de votre dernière visite.
-  Ich habe Sie bei Ihrem letzten Besuch gesehen.
+  Je vous ai vu *lors* de votre dernière visite.
+  Ich habe Sie *bei* Ihrem letzten Besuch gesehen.
 
-  Je l’ai vu lors de ma visite à Paris.
-  Ich habe ihn bei meinem Besuch in Paris gesehen.
+  *Lors* de notre arrivée, il pleuvait à verse.
+  *Bei* unserer Ankunft regnete es in Strömen.
 
-  Je l'ai rencontré lors de mon voyage en France.
-  Ich habe ihn auf meiner Reise nach Frankreich kennengelernt.
+  Nous nous sommes rencontrés *lors* d'un congrès scientifique.
+  Wir haben uns *auf* einem wissenschaftlichen Kongress kennengelernt.
 
-  Elle était très occupée lors de la réunion.
-  Sie war während des Treffens sehr beschäftigt.
+  *Depuis lors*, je n'ai plus jamais revu mon ancien collègue.
+  *Seitdem* habe ich meinen ehemaligen Kollegen nie wieder gesehen.
 
-  Nous avons beaucoup ri lors de la soirée.
-  Wir haben an diesem Abend viel gelacht.
+  *Dès lors*, il a décidé de changer complètement sa façon de vivre.
+  *Von da an* beschloss er, seine Lebensweise komplett zu ändern.
 
-  Il est devenu célèbre lors de son dernier film.
-  Berühmt wurde er durch seinen letzten Film.
+  *Dès lors que* vous aurez fini vos devoirs, vous pourrez sortir jouer.
+  *Sobald* du deine Hausaufgaben erledigt hast, kannst du rausgehen und spielen.
 
-  Elle était malade lors de son anniversaire.
-  An ihrem Geburtstag war sie krank.
+  *Lors même que* vous insisteriez, je ne changerais pas d'avis.
+  *Selbst wenn* Sie darauf bestehen würden, würde ich meine Meinung nicht ändern.
 
-  Lors de notre arrivée à Paris, nous avons été accueillis par un ciel bleu azur.
-  Bei unserer Ankunft in Paris wurden wir von strahlend blauem Himmel begrüßt.
+  "*Pour lors*, je n'ai pas de réponse à vous donner", a-t-il répondu.
+  "*Momentan* habe ich keine Antwort für Sie", antwortete er.
 
-  Lors d'un congrès international, les participants ont pu échanger leurs idées et expériences.
-  Auf einem internationalen Kongress konnten die Teilnehmer ihre Ideen und Erfahrungen austauschen.
+  L'ambiance était tendue *lors* de la réunion familiale.
+  Die Stimmung war *während* des Familientreffens angespannt.
 
-  Dès lors que Jean a terminé ses études, il a trouvé un emploi dans une grande entreprise.
-  Sobald Jean seine Ausbildung abgeschlossen hatte, fand er eine Stelle in einem großen Unternehmen.
+  *Lors* de son mariage, elle portait une magnifique robe blanche.
+  *Bei* ihrer Hochzeit trug sie ein wunderschönes weißes Kleid.
+
+  *Dès lors que* tu as accepté ce travail, tu dois assumer tes responsabilités.
+  *Da* du diese Arbeit angenommen hast, musst du deine Verantwortung übernehmen.
+
+  Nous avons discuté de ce problème *lors* de notre dernière rencontre.
+  Wir haben dieses Problem *bei* unserem letzten Treffen besprochen.
+
+  *Lors* de la cérémonie d'ouverture, le président prononcera un discours.
+  *Während* der Eröffnungszeremonie wird der Präsident eine Rede halten.
+
+  *Dès lors*, il est devenu évident que nous devions changer de stratégie.
+  *Folglich* wurde klar, dass wir unsere Strategie ändern mussten.
+
+  Elle a commencé à s'intéresser à la politique *lors* de ses études universitaires.
+  Sie begann sich *während* ihres Universitätsstudiums für Politik zu interessieren.
+
+  *Lors* de mon séjour à Paris, j'ai visité la Tour Eiffel.
+  *Während* meines Aufenthalts in Paris habe ich den Eiffelturm besichtigt.
+
+  *Dès lors que* vous avez signé le contrat, vous êtes légalement engagé.
+  *Sobald* Sie den Vertrag unterschrieben haben, sind Sie rechtlich gebunden.
+
+  Nous avons fait connaissance *lors* d'une soirée entre amis.
+  Wir haben uns *bei* einer Abendgesellschaft mit Freunden kennengelernt.
+
+  *Lors* de la pandémie, de nombreuses entreprises ont dû s'adapter rapidement.
+  *Während* der Pandemie mussten sich viele Unternehmen schnell anpassen.
+
+  Il a pris cette décision importante *lors* d'un moment de crise.
+  Er traf diese wichtige Entscheidung *in* einem Moment der Krise.
+
+  *Lors même que* tous seraient contre cette idée, je continuerais à y croire.
+  *Selbst wenn* alle gegen diese Idee wären, würde ich weiterhin daran glauben.
+
+  *Dès lors*, nous avons compris l'importance de la communication dans notre équipe.
+  *Von da an* haben wir die Bedeutung der Kommunikation in unserem Team verstanden.
+
+  *Lors* de son discours, le maire a annoncé plusieurs nouveaux projets pour la ville.
+  *Während* seiner Rede kündigte der Bürgermeister mehrere neue Projekte für die Stadt an.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

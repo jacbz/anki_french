@@ -13,17 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je joue à des simulateurs de vie artificielle.
-  Ich spiele Simulatoren für künstliches Leben.
+  Je joue à des simulateurs de vie *artificielle*.
+  Ich spiele Simulatoren für *künstliches* Leben.
 
-  Les fleurs artificielles sont très réalistes.
-  Künstliche Blumen sehen sehr realistisch aus.
+  L'intelligence *artificielle* révolutionne de nombreux domaines.
+  *Künstliche* Intelligenz revolutioniert viele Bereiche.
 
-  Les bijoux en soie artificielle sont moins chers que ceux en soie naturelle.
-  Schmuck aus Kunstseide ist günstiger als Schmuck aus Naturseide.
+  Les fleurs *artificielles* décorent la salle de réception.
+  Die *künstlichen* Blumen schmücken den Empfangssaal.
 
-  Le plan de travail est en pierre artificielle, un matériau très résistant.
-  Die Arbeitsplatte ist aus Similistein, einem sehr widerstandsfähigen Material.
+  Le lac *artificiel* attire de nombreux touristes.
+  Der *künstliche* See zieht viele Touristen an.
+
+  La fécondation *artificielle* est une option pour certains couples.
+  Die *künstliche* Befruchtung ist eine Option für manche Paare.
+
+  Cet arôme *artificiel* imite parfaitement la vanille.
+  Dieses *künstliche* Aroma imitiert Vanille perfekt.
+
+  Les besoins *artificiels* sont créés par la publicité.
+  *Künstliche* Bedürfnisse werden durch Werbung geschaffen.
+
+  Cette classification *artificielle* ne reflète pas la réalité.
+  Diese *willkürliche* Klassifizierung spiegelt die Realität nicht wider.
+
+  "Son sourire *artificiel* ne trompe personne."
+  "Sein *gekünsteltes* Lächeln täuscht niemanden."
+
+  La lumière *artificielle* peut perturber notre rythme de sommeil.
+  *Künstliches* Licht kann unseren Schlafrhythmus stören.
+
+  Les prairies *artificielles* sont cultivées pour le fourrage.
+  *Künstliche* Wiesen werden für Futtermittel angebaut.
+
+  La production de froid *artificiel* est essentielle pour la conservation des aliments.
+  Die Erzeugung von *künstlicher* Kälte ist für die Konservierung von Lebensmitteln unerlässlich.
+
+  Le langage *artificiel* facilite la communication avec les personnes sourdes.
+  Die *künstliche* Sprache erleichtert die Kommunikation mit gehörlosen Menschen.
+
+  L'espéranto est un exemple de langue *artificielle*.
+  Esperanto ist ein Beispiel für eine *künstliche* Sprache.
+
+  La respiration *artificielle* peut sauver des vies.
+  *Künstliche* Beatmung kann Leben retten.
+
+  L'insémination *artificielle* est courante en élevage.
+  *Künstliche* Besamung ist in der Tierzucht weit verbreitet.
+
+  L'alimentation *artificielle* est parfois nécessaire pour les patients hospitalisés.
+  *Künstliche* Ernährung ist manchmal für Krankenhauspatienten notwendig.
+
+  Les "Paradis *artificiels*" de Baudelaire explorent l'usage de drogues.
+  Baudelaires "Les Paradis *artificiels*" erforscht den Drogenkonsum.
+
+  Ce système de notation est totalement *artificiel*.
+  Dieses Bewertungssystem ist völlig *willkürlich*.
+
+  Son enthousiasme *artificiel* ne convainc personne.
+  Seine *gespielte* Begeisterung überzeugt niemanden.
+
+  La soie *artificielle* est moins coûteuse que la soie naturelle.
+  *Kunstseide* ist günstiger als natürliche Seide.
+
+  Les diamants *artificiels* sont difficiles à distinguer des vrais.
+  *Künstliche* Diamanten sind schwer von echten zu unterscheiden.
+
+  Ce parfum utilise uniquement des essences *artificielles*.
+  Dieses Parfüm verwendet nur *synthetische* Essenzen.
+
+  La pierre *artificielle* imite parfaitement le marbre.
+  Der *Similistein* imitiert Marmor perfekt.
+
+  Les colorants *artificiels* sont souvent utilisés dans l'industrie alimentaire.
+  *Künstliche* Farbstoffe werden oft in der Lebensmittelindustrie verwendet.
+
+  Cette distinction entre les deux concepts me semble *artificielle*.
+  Diese Unterscheidung zwischen den beiden Konzepten erscheint mir *gekünstelt*.
+
+  Les membres *artificiels* améliorent la qualité de vie de nombreuses personnes.
+  *Künstliche* Gliedmaßen verbessern die Lebensqualität vieler Menschen.
+
+  L'éclairage *artificiel* permet de travailler la nuit.
+  *Künstliche* Beleuchtung ermöglicht es, nachts zu arbeiten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

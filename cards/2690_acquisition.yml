@@ -13,41 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous ne souhaitons ni fusion ni acquisition.
-  Wir streben weder Fusionen noch Übernahmen an.
+  Nous ne souhaitons ni fusion ni *acquisition*.
+  Wir wünschen weder eine Fusion noch eine *Übernahme*.
 
-  L’acquisition de cette entreprise a été un succès.
-  Der Erwerb dieses Unternehmens war ein Erfolg.
+  L'*acquisition* de cette entreprise a été finalisée hier.
+  Die *Übernahme* dieses Unternehmens wurde gestern abgeschlossen.
 
-  J'ai fait l'acquisition d'une voiture ancienne.
-  Ich habe ein altes Auto erworben.
+  Il a fait l'*acquisition* d'une nouvelle voiture.
+  Er hat sich ein neues Auto *angeschafft*.
 
-  Ma nouvelle acquisition est une maison à la campagne.
-  Meine Neuanschaffung ist ein Haus auf dem Land.
+  L'*acquisition* du langage est un processus fascinant chez les enfants.
+  Der *Erwerb* der Sprache ist ein faszinierender Prozess bei Kindern.
 
-  L'acquisition de ce bien immobilier a été faite de bonne foi.
-  Der Erwerb dieser Immobilie erfolgte in gutem Glauben.
+  Cette peinture est ma dernière *acquisition*.
+  Dieses Gemälde ist meine neueste *Errungenschaft*.
 
-  L'acquisition loyale d'un bien est un principe fondamental du droit.
-  Der redliche Erwerb eines Gutes ist ein fundamentaler Rechtsgrundsatz.
+  L'*acquisition* de nouvelles compétences est cruciale dans ce métier.
+  Der *Erwerb* neuer Fähigkeiten ist in diesem Beruf entscheidend.
 
-  L'acquisition de parts dans une entreprise peut être risquée.
-  Der Erwerb von Anteilen an einem Unternehmen kann riskant sein.
+  Le musée a fait une importante *acquisition* ce mois-ci.
+  Das Museum hat diesen Monat eine wichtige *Anschaffung* gemacht.
 
-  L'acquisition de la propriété d'un bien immobilier est un acte important.
-  Der Eigentumserwerb an einer Immobilie ist ein wichtiger Schritt.
+  L'*acquisition* de la propriété se fait par acte notarié.
+  Der *Erwerb* des Eigentums erfolgt durch notarielle Beurkundung.
 
-  L'acquisition de la propriété de l'héritier est régie par le Code civil.
-  Der Erbanfall ist im Bürgerlichen Gesetzbuch geregelt.
+  L'*acquisition* de connaissances est un processus continu.
+  Der *Erwerb* von Wissen ist ein kontinuierlicher Prozess.
 
-  L'acquisition de la propriété avec pacte de réserve de propriété est courante dans le commerce.
-  Der Eigentumsvorbehaltskauf ist im Handel weit verbreitet.
+  Cette start-up est une excellente *acquisition* pour notre groupe.
+  Dieses Start-up ist eine ausgezeichnete *Erwerbung* für unsere Gruppe.
 
-  L'acquisition de remplacement de la machine défectueuse a été effectuée rapidement.
-  Die Ersatzbeschaffung der defekten Maschine erfolgte zügig.
+  L'*acquisition* de la nationalité française peut se faire de plusieurs manières.
+  Der *Erwerb* der französischen Staatsbürgerschaft kann auf verschiedene Arten erfolgen.
 
-  L'acquisition d'un terrain constructible est un bon investissement.
-  Der Erwerb eines Baugrundstücks ist eine gute Investition.
+  Son *acquisition* la plus précieuse est sa collection de livres rares.
+  Seine wertvollste *Anschaffung* ist seine Sammlung seltener Bücher.
+
+  L'*acquisition* de bonnes habitudes commence dès l'enfance.
+  Die *Aneignung* guter Gewohnheiten beginnt schon in der Kindheit.
+
+  Cette *acquisition* stratégique renforcera notre position sur le marché.
+  Diese strategische *Übernahme* wird unsere Marktposition stärken.
+
+  L'*acquisition* de cette propriété a nécessité de longues négociations.
+  Der *Erwerb* dieses Anwesens erforderte lange Verhandlungen.
+
+  Ses nouvelles *acquisitions* en bourse s'avèrent prometteuses.
+  Seine neuen *Erwerbungen* an der Börse erweisen sich als vielversprechend.
+
+  L'*acquisition* d'une seconde langue est plus facile pendant l'enfance.
+  Der *Erwerb* einer zweiten Sprache fällt im Kindesalter leichter.
+
+  Cette *acquisition* inattendue a surpris les analystes du marché.
+  Diese unerwartete *Übernahme* hat die Marktanalysten überrascht.
+
+  L'*acquisition* de ce terrain permettra l'expansion de l'entreprise.
+  Der *Erwerb* dieses Grundstücks wird die Expansion des Unternehmens ermöglichen.
+
+  Son *acquisition* la plus récente est un ordinateur dernier cri.
+  Seine neueste *Anschaffung* ist ein hochmoderner Computer.
+
+  L'*acquisition* de cette technologie nous donnera un avantage concurrentiel.
+  Die *Aneignung* dieser Technologie wird uns einen Wettbewerbsvorteil verschaffen.
+
+  Cette *acquisition* a considérablement augmenté la valeur de l'entreprise.
+  Diese *Übernahme* hat den Unternehmenswert erheblich gesteigert.
+
+  L'*acquisition* de la lecture est une étape importante dans le développement de l'enfant.
+  Der *Erwerb* der Lesefähigkeit ist ein wichtiger Schritt in der Entwicklung des Kindes.
+
+  La récente *acquisition* du musée est un tableau de Picasso.
+  Die jüngste *Erwerbung* des Museums ist ein Gemälde von Picasso.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

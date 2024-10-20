@@ -13,23 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Son cadavre apparaîtra à la fin du film.
-  Seine Leiche taucht am Ende des Films auf.
+  Son *cadavre* apparaîtra à la fin du film.
+  Seine *Leiche* wird am Ende des Films auftauchen.
 
-  La police a trouvé un cadavre dans la rivière.
-  Die Polizei hat eine Leiche im Fluss gefunden.
+  Les enquêteurs ont découvert un *cadavre* dans la rivière.
+  Die Ermittler haben eine *Leiche* im Fluss entdeckt.
 
-  La police a été appelée sur les lieux après la découverte d'un cadavre dans le parc.
-  Die Polizei wurde auf den Tatort gerufen, nachdem ein Leichnam im Park gefunden wurde.
+  Le médecin légiste a examiné le *cadavre* avec attention.
+  Der Gerichtsmediziner untersuchte den *Leichnam* sorgfältig.
 
-  Après son accident, il était un cadavre ambulant.
-  Nach seinem Unfall sah er aus wie der Tod.
+  "Il y a un *cadavre* dans mon placard", a-t-il avoué métaphoriquement.
+  "Ich habe eine *Leiche* im Keller", gestand er metaphorisch.
 
-  Elle était pâle comme un cadavre après avoir vu l'accident.
-  Sie war leichenblass, nachdem sie den Unfall gesehen hatte.
+  Les vautours se nourrissaient du *cadavre* d'un animal dans le désert.
+  Die Geier ernährten sich von dem *Kadaver* eines Tieres in der Wüste.
 
-  Ils ont trouvé un cadavre animal dans la forêt.
-  Sie haben einen Tierkadaver im Wald gefunden.
+  La police a trouvé trois bouteilles vides, ou "*cadavres*", près de la scène de crime.
+  Die Polizei fand drei leere Flaschen, oder "*Leichen*", in der Nähe des Tatorts.
+
+  Le *cadavre* du cerf a été retrouvé dans la forêt.
+  Der *Kadaver* des Hirsches wurde im Wald gefunden.
+
+  L'étudiant en médecine a dû disséquer son premier *cadavre*.
+  Der Medizinstudent musste seine erste *Leiche* sezieren.
+
+  Les archéologues ont exhumé un *cadavre* vieux de plusieurs siècles.
+  Die Archäologen haben eine jahrhundertealte *Leiche* exhumiert.
+
+  "Tu as l'air d'un *cadavre* ambulant", lui a-t-elle dit, inquiète de sa santé.
+  "Du siehst aus wie eine wandelnde *Leiche*", sagte sie besorgt um seine Gesundheit.
+
+  Le *cadavre* du poisson flottait à la surface du lac.
+  Der *Kadaver* des Fisches trieb auf der Oberfläche des Sees.
+
+  Les soldats ont dû enterrer les *cadavres* de leurs camarades tombés au combat.
+  Die Soldaten mussten die *Leichen* ihrer im Kampf gefallenen Kameraden begraben.
+
+  Le jeu surréaliste du "*cadavre* exquis" consiste à composer une phrase à plusieurs.
+  Das surrealistische Spiel des "köstlichen *Leichnams*" besteht darin, einen Satz zu mehreren zu komponieren.
+
+  Le détective savait que son adversaire avait un *cadavre* dans le placard.
+  Der Detektiv wusste, dass sein Gegner eine *Leiche* im Keller hatte.
+
+  Les experts ont identifié le *cadavre* grâce à ses empreintes dentaires.
+  Die Experten identifizierten die *Leiche* anhand ihrer Zahnabdrücke.
+
+  "Regardez tous ces *cadavres*!", s'est exclamé l'hôte en montrant les bouteilles vides après la fête.
+  "Schaut euch all diese *Leichen* an!", rief der Gastgeber und zeigte auf die leeren Flaschen nach der Party.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

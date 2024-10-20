@@ -13,41 +13,131 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est la vraie date de ton anniversaire.
-  Das ist der richtige Tag für deinen Geburtstag.
+  C'est la vraie *date* de ton anniversaire.
+  Das ist dein echter Geburts*tag*.
 
-  Quelle est la date aujourd’hui?
-  Welches Datum haben wir heute?
+  Quelle est la *date* de votre naissance ?
+  Was ist Ihr Geburts*datum*?
 
-  Le 15 octobre est la date de naissance de Marie.
-  Der 15. Oktober ist der Geburtstag von Marie.
+  La *date* limite pour l'inscription est le 15 mars.
+  Der Anmelde*termin* ist der 15. März.
 
-  J'ai pris date avec le docteur pour un contrôle.
-  Ich habe mit dem Arzt einen Termin für eine Kontrolle vereinbart.
+  Nous devons fixer une *date* pour notre prochaine réunion.
+  Wir müssen einen *Termin* für unser nächstes Treffen festlegen.
 
-  Les grandes dates de l'Histoire sont toujours étudiées à l'école.
-  Die bedeutenden Ereignisse der Geschichte werden immer noch in der Schule behandelt.
+  J'ai oublié la *date* exacte de notre mariage.
+  Ich habe das genaue *Datum* unserer Hochzeit vergessen.
 
-  La date d'exécution de la prestation est le 1er juillet.
-  Der Erfüllungstermin ist der 1. Juli.
+  La *date* d'expiration du produit est indiquée sur l'emballage.
+  Das Verfalls*datum* des Produkts ist auf der Verpackung angegeben.
 
-  Leur date de mariage est le 25 juin.
-  Ihr Hochzeitstag ist der 25. Juni.
+  Cette lettre est en *date* du 5 septembre.
+  Dieser Brief ist vom 5. September *datiert*.
 
-  La date de l'accouchement est prévue pour le 1er mars.
-  Der Geburtstermin ist auf den 1. März angesetzt.
+  Le médecin a calculé la *date* prévue de l'accouchement.
+  Der Arzt hat den voraussichtlichen Geburts*termin* berechnet.
 
-  Le médecin a calculé la date de l'accouchement à partir de la date de la dernière menstruation.
-  Der Arzt hat den Geburtstermin anhand des Datums der letzten Menstruation errechnet.
+  Pouvez-vous me donner la *date* d'arrivée du colis ?
+  Können Sie mir das Ankunfts*datum* des Pakets nennen?
 
-  La date d'arrivée du train est annoncée sur le tableau d'affichage.
-  Der Ankunftstermin des Zuges wird auf der Anzeigetafel angezeigt.
+  La *date* limite de paiement est fixée au 30 du mois.
+  Der letzte Zahlungs*termin* ist auf den 30. des Monats festgelegt.
 
-  La date d'envoi des colis est le 10 décembre.
-  Der Einsendetermin für die Pakete ist der 10. Dezember.
+  N'oubliez pas d'écrire la *date* sur votre copie d'examen.
+  Vergessen Sie nicht, das *Datum* auf Ihren Prüfungsbogen zu schreiben.
 
-  La date limite d'envoi des candidatures est le 31 janvier.
-  Der Einsendeschluss für die Bewerbungen ist der 31. Januar.
+  À quelle *date* partez-vous en vacances ?
+  An welchem *Datum* fahren Sie in den Urlaub?
+
+  La *date* de péremption du médicament est dépassée.
+  Das Verfalls*datum* des Medikaments ist überschritten.
+
+  Ils se connaissent de longue *date*.
+  Sie kennen sich seit *langer Zeit*.
+
+  La prise de la Bastille est une *date* importante de l'histoire française.
+  Der Sturm auf die Bastille ist ein wichtiges *Datum* in der französischen Geschichte.
+
+  J'ai pris *date* avec le dentiste pour la semaine prochaine.
+  Ich habe einen *Termin* beim Zahnarzt für nächste Woche vereinbart.
+
+  Cette amitié de vieille *date* a résisté à l'épreuve du temps.
+  Diese alte Freundschaft hat die *Zeit* überdauert.
+
+  La *date* butoir pour la remise du projet est dans deux semaines.
+  Der Abgabe*termin* für das Projekt ist in zwei Wochen.
+
+  Il faut reporter la *date* de la conférence.
+  Wir müssen den *Termin* für die Konferenz verschieben.
+
+  Cette découverte fera *date* dans l'histoire de la médecine.
+  Diese Entdeckung wird in die Geschichte der Medizin *eingehen*.
+
+  Le contrat doit être signé à la *date* du 1er janvier.
+  Der Vertrag muss zum *Datum* des 1. Januar unterzeichnet werden.
+
+  La *date* de livraison prévue est le 20 du mois prochain.
+  Der voraussichtliche Liefer*termin* ist der 20. des nächsten Monats.
+
+  Nous célébrons aujourd'hui l'anniversaire d'une *date* historique.
+  Wir feiern heute den Jahrestag eines historischen *Datums*.
+
+  Le système informatique enregistre automatiquement la *date* et l'heure de chaque transaction.
+  Das Computersystem zeichnet automatisch *Datum* und Uhrzeit jeder Transaktion auf.
+
+  À cette *date*-là, j'étais encore étudiant.
+  Zu diesem *Zeitpunkt* war ich noch Student.
+
+  La *date* du festival n'a pas encore été annoncée.
+  Der *Termin* für das Festival wurde noch nicht bekannt gegeben.
+
+  Le dernier album du groupe est de fraîche *date*.
+  Das letzte Album der Band ist *brandneu*.
+
+  Veuillez inscrire la *date* du jour sur le formulaire.
+  Bitte tragen Sie das heutige *Datum* auf dem Formular ein.
+
+  La *date* de clôture des inscriptions approche rapidement.
+  Der Anmeldeschluss*termin* rückt schnell näher.
+
+  Cette loi entrera en vigueur à la *date* du 1er janvier prochain.
+  Dieses Gesetz tritt zum *Datum* des nächsten 1. Januar in Kraft.
+
+  Il faut respecter la *date* limite pour le dépôt des candidatures.
+  Die *Frist* für die Einreichung der Bewerbungen muss eingehalten werden.
+
+  La *date* de début des soldes a été avancée cette année.
+  Der *Beginn* des Schlussverkaufs wurde dieses Jahr vorverlegt.
+
+  Ce document porte la *date* du 15 avril 1998.
+  Dieses Dokument trägt das *Datum* vom 15. April 1998.
+
+  Nous devons fixer une *date* pour la prochaine assemblée générale.
+  Wir müssen einen *Termin* für die nächste Hauptversammlung festlegen.
+
+  La *date* de sortie du film a été repoussée.
+  Der Erscheinungs*termin* des Films wurde verschoben.
+
+  Cette facture est en *date* du mois dernier.
+  Diese Rechnung ist vom letzten Monat *datiert*.
+
+  Quelle est la *date* d'échéance de votre contrat ?
+  Was ist das Ablauf*datum* Ihres Vertrags?
+
+  La *date* de création de l'entreprise remonte à 1985.
+  Das Gründungs*datum* des Unternehmens geht auf 1985 zurück.
+
+  Il faut mettre à jour la *date* sur tous les ordinateurs.
+  Das *Datum* muss auf allen Computern aktualisiert werden.
+
+  La *date* de validité de votre passeport est dépassée.
+  Das Gültigkeits*datum* Ihres Passes ist abgelaufen.
+
+  Nous avons dû avancer la *date* de la réunion.
+  Wir mussten den *Termin* für das Treffen vorziehen.
+
+  Cette coutume *date* du Moyen Âge.
+  Dieser Brauch *stammt* aus dem Mittelalter.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

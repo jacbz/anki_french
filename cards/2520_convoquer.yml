@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous serez convoquée au commissariat.
-  Sie werden auf die Polizeiwache vorgeladen.
+  Vous serez *convoquée* au commissariat.
+  Sie werden auf das Polizeirevier *vorgeladen* werden.
 
-  Le directeur a convoqué une réunion urgente.
-  Der Direktor hat eine dringende Sitzung einberufen.
+  Le patron a *convoqué* une réunion d'urgence pour discuter de la crise.
+  Der Chef hat eine Dringlichkeitssitzung *einberufen*, um die Krise zu besprechen.
 
-  Pierre a été convoqué chez le patron pour discuter de sa récente erreur.
-  Pierre wurde zum Chef bestellt, um über seinen letzten Fehler zu sprechen.
+  Les députés ont été *convoqués* pour une session extraordinaire du Parlement.
+  Die Abgeordneten wurden zu einer außerordentlichen Parlamentssitzung *einberufen*.
 
-  Marie a été convoquée à dix heures pour l'oral d'histoire.
-  Marie musste um zehn Uhr zur mündlichen Prüfung in Geschichte antreten.
+  "Tu as été *convoqué* chez le directeur ? Qu'est-ce que tu as fait ?"
+  "Du wurdest zum Direktor *bestellt*? Was hast du angestellt?"
+
+  Le jury a *convoqué* les finalistes pour la dernière étape du concours.
+  Die Jury hat die Finalisten zur letzten Runde des Wettbewerbs *eingeladen*.
+
+  Les témoins seront *convoqués* à comparaître devant le tribunal la semaine prochaine.
+  Die Zeugen werden *vorgeladen*, nächste Woche vor Gericht zu erscheinen.
+
+  Le pape a *convoqué* un concile pour discuter des réformes de l'Église.
+  Der Papst hat ein Konzil *einberufen*, um Kirchenreformen zu diskutieren.
+
+  Tous les employés ont été *convoqués* pour une formation obligatoire sur la sécurité.
+  Alle Mitarbeiter wurden zu einer obligatorischen Sicherheitsschulung *einbestellt*.
+
+  Le roi a *convoqué* ses conseillers pour discuter de la stratégie militaire.
+  Der König hat seine Berater *zusammengerufen*, um die Militärstrategie zu besprechen.
+
+  Les candidats seront *convoqués* à l'examen oral à 10 heures précises.
+  Die Kandidaten werden um Punkt 10 Uhr zur mündlichen Prüfung *bestellt*.
+
+  Le comité a *convoqué* une assemblée générale pour élire un nouveau président.
+  Der Ausschuss hat eine Generalversammlung *einberufen*, um einen neuen Vorsitzenden zu wählen.
+
+  Le syndicat a *convoqué* une grève pour protester contre les nouvelles mesures.
+  Die Gewerkschaft hat zu einem Streik *aufgerufen*, um gegen die neuen Maßnahmen zu protestieren.
+
+  Les autorités ont *convoqué* une conférence de presse pour clarifier la situation.
+  Die Behörden haben eine Pressekonferenz *einberufen*, um die Situation zu klären.
+
+  Le coach a *convoqué* tous les joueurs pour un entraînement supplémentaire.
+  Der Trainer hat alle Spieler zu einem zusätzlichen Training *einbestellt*.
+
+  Les électeurs ont été *convoqués* aux urnes pour un référendum crucial.
+  Die Wähler wurden zu einem entscheidenden Referendum an die Urnen *gerufen*.
+
+  Le juge d'instruction a *convoqué* le suspect pour un nouvel interrogatoire.
+  Der Untersuchungsrichter hat den Verdächtigen zu einer erneuten Vernehmung *vorgeladen*.
+
+  L'ambassadeur a été *convoqué* au ministère des Affaires étrangères pour s'expliquer.
+  Der Botschafter wurde ins Außenministerium *einbestellt*, um sich zu erklären.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

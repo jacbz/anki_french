@@ -13,11 +13,119 @@ Register: ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La surface totale brute de ce bâtiment est de 215.000 m².
-  Die Bruttogesamtfläche dieses Gebäudes beträgt 215.000 m².
+  La surface totale *brute* de ce bâtiment est de 215.000 m².
+  Die gesamte *Brutto*fläche dieses Gebäudes beträgt 215.000 m².
 
-  Le diamant brut est taillé par le joaillier.
-  Der Rohdiamant wird vom Juwelier geschliffen.
+  Le champagne *brut* est sec et peu sucré.
+  Der *trockene* Champagner ist herb und wenig gezuckert.
+
+  Les données *brutes* des statistiques du chômage sont inquiétantes.
+  Die *unbearbeiteten* Daten der Arbeitslosenstatistik sind beunruhigend.
+
+  Le diamant *brut* doit être taillé avant d'être vendu.
+  Der *ungeschliffene* Diamant muss vor dem Verkauf bearbeitet werden.
+
+  Le pétrole *brut* est extrait des profondeurs de la terre.
+  Das *Roh*öl wird aus den Tiefen der Erde gefördert.
+
+  Son salaire *brut* est de 3000 euros par mois.
+  Sein *Brutto*gehalt beträgt 3000 Euro pro Monat.
+
+  Cette toile *brute* n'a pas encore été peinte.
+  Diese *unbehandelte* Leinwand wurde noch nicht bemalt.
+
+  Le *brut* de fonderie nécessite encore beaucoup de travail.
+  Das *rohe* Gussstück bedarf noch vieler Bearbeitung.
+
+  L'art *brut* fascine par sa spontanéité et son originalité.
+  Die *Art brut* fasziniert durch ihre Spontaneität und Originalität.
+
+  Le poids *brut* du colis inclut l'emballage.
+  Das *Brutto*gewicht des Pakets schließt die Verpackung ein.
+
+  Cette idée *brute* a besoin d'être affinée.
+  Diese *unausgereifte* Idee muss noch verfeinert werden.
+
+  La soie *brute* est plus rigide que la soie traitée.
+  *Rohe* Seide ist steifer als behandelte Seide.
+
+  Le produit national *brut* est un indicateur économique important.
+  Das *Brutto*nationaleinkommen ist ein wichtiger Wirtschaftsindikator.
+
+  "Il ne faut pas confondre force *brute* et intelligence", dit-il.
+  "Man darf *rohe* Gewalt nicht mit Intelligenz verwechseln", sagte er.
+
+  Le minerai *brut* est transporté vers l'usine de traitement.
+  Das *Roh*erz wird zur Aufbereitungsanlage transportiert.
+
+  Cette sculpture en bois *brut* a un charme rustique.
+  Diese Skulptur aus *unbehandeltem* Holz hat einen rustikalen Charme.
+
+  Le métal *brut de coulée* doit encore être usiné.
+  Das *unbearbeitete Guss*metall muss noch bearbeitet werden.
+
+  Les faits *bruts* doivent être analysés avec soin.
+  Die *nackten* Tatsachen müssen sorgfältig analysiert werden.
+
+  La laine *brute* est lavée avant d'être filée.
+  Die *Roh*wolle wird vor dem Spinnen gewaschen.
+
+  Ce vin mousseux *brut* se marie bien avec les fruits de mer.
+  Dieser *trockene* Schaumwein passt gut zu Meeresfrüchten.
+
+  Le bois *brut de sciage* nécessite un ponçage minutieux.
+  Das *roh gesägte* Holz erfordert ein sorgfältiges Schleifen.
+
+  La *force brute* ne résout pas tous les problèmes.
+  *Rohe Gewalt* löst nicht alle Probleme.
+
+  Le ballot pèse *brut* 200 kg.
+  Der Ballen wiegt *brutto* 200 kg.
+
+  Cette patente *brute* indique que le navire a visité un port infecté.
+  Dieses *uneingeschränkte* Patent zeigt an, dass das Schiff einen infizierten Hafen angelaufen hat.
+
+  Le métal *brut de forge* doit encore être poli.
+  Das *geschmiedete Roh*metall muss noch poliert werden.
+
+  Les revenus *bruts* de l'entreprise ont augmenté de 5% cette année.
+  Die *Brutto*einnahmen des Unternehmens sind in diesem Jahr um 5% gestiegen.
+
+  "Cette bête *brute* m'a fait peur", s'exclama-t-elle.
+  "Dieses *wilde* Tier hat mir Angst eingejagt", rief sie aus.
+
+  Le *brut* est le pétrole non raffiné.
+  *Rohöl* ist unraffiniertes Erdöl.
+
+  Cette étoffe *brute* a une texture intéressante.
+  Dieser *unbehandelte* Stoff hat eine interessante Textur.
+
+  L'or *brut* doit être purifié avant utilisation.
+  Das *Roh*gold muss vor der Verwendung gereinigt werden.
+
+  Les données *brutes* du sondage doivent être interprétées avec prudence.
+  Die *unverarbeiteten* Umfragedaten müssen mit Vorsicht interpretiert werden.
+
+  Le goût *brut* de ce fromage est très prononcé.
+  Der *herbe* Geschmack dieses Käses ist sehr ausgeprägt.
+
+  Ce *brut* de Champagne est parfait pour l'apéritif.
+  Dieser *trockene* Champagner ist perfekt als Aperitif.
+
+  Le poids *brut* du camion dépasse la limite autorisée.
+  Das *Brutto*gewicht des Lastwagens überschreitet die zulässige Grenze.
+
+  Cette pierre *brute* sera transformée en bijou précieux.
+  Dieser *unbearbeitete* Stein wird in ein wertvolles Schmuckstück verwandelt.
+
+  Le métal *brut de laminage* nécessite encore des traitements.
+  Das *walzrohe* Metall benötigt noch weitere Behandlungen.
+
+  La vérité *brute* peut parfois être difficile à entendre.
+  Die *ungeschminkte* Wahrheit kann manchmal schwer zu hören sein.
+
+  Les chiffres *bruts* ne racontent pas toute l'histoire.
+  Die *nackten* Zahlen erzählen nicht die ganze Geschichte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

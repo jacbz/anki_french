@@ -13,11 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il commença à perdre progressivement la vue.
-  Er begann, allmählich sein Augenlicht zu verlieren.
+  Il commença à perdre *progressivement* la vue.
+  Er begann *allmählich* sein Augenlicht zu verlieren.
 
-  Le projet avance progressivement.
-  Das Projekt schreitet allmählich voran.
+  La température augmente *progressivement* au cours de la journée.
+  Die Temperatur steigt im Laufe des Tages *schrittweise* an.
+
+  Les élèves apprennent *progressivement* à lire et à écrire.
+  Die Schüler lernen *nach und nach* lesen und schreiben.
+
+  L'entreprise a *progressivement* étendu ses activités à l'international.
+  Das Unternehmen hat seine Aktivitäten *schrittweise* international ausgeweitet.
+
+  La douleur a disparu *progressivement* grâce au traitement.
+  Der Schmerz verschwand dank der Behandlung *allmählich*.
+
+  Le niveau de l'eau monte *progressivement* dans le réservoir.
+  Der Wasserstand im Reservoir steigt *nach und nach* an.
+
+  Elle s'est *progressivement* adaptée à son nouvel environnement de travail.
+  Sie hat sich *allmählich* an ihre neue Arbeitsumgebung angepasst.
+
+  Les restrictions sanitaires seront levées *progressivement* dans les prochains mois.
+  Die Gesundheitsauflagen werden in den kommenden Monaten *schrittweise* aufgehoben.
+
+  La confiance entre les deux pays s'est rétablie *progressivement*.
+  Das Vertrauen zwischen den beiden Ländern wurde *nach und nach* wiederhergestellt.
+
+  Le projet sera mis en œuvre *progressivement* sur une période de cinq ans.
+  Das Projekt wird über einen Zeitraum von fünf Jahren *schrittweise* umgesetzt.
+
+  Les couleurs du ciel changent *progressivement* au coucher du soleil.
+  Die Farben des Himmels ändern sich bei Sonnenuntergang *allmählich*.
+
+  Il faut introduire les nouvelles technologies *progressivement* dans l'éducation.
+  Neue Technologien müssen *schrittweise* in die Bildung eingeführt werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

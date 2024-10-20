@@ -13,41 +13,104 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La firme me réclame le paiement d’une indemnité.
-  Die Firma verlangt von mir die Zahlung einer Entschädigung.
+  La firme me réclame le *paiement* d'une indemnité.
+  Die Firma verlangt von mir die *Zahlung* einer Entschädigung.
 
-  Le paiement doit être effectué avant la livraison.
-  Die Zahlung muss vor der Lieferung erfolgen.
+  Le *paiement* des impôts est une obligation civique.
+  Die *Zahlung* der Steuern ist eine staatsbürgerliche Pflicht.
 
-  Le paiement compensatoire est une somme d'argent versée pour compenser une différence de prix.
-  Eine Ausgleichszahlung ist eine Geldsumme, die zur Kompensation eines Preisunterschieds gezahlt wird.
+  J'ai effectué le *paiement* de ma facture en ligne.
+  Ich habe die *Bezahlung* meiner Rechnung online vorgenommen.
 
-  Le paiement de la facture sera effectué dans les 10 jours.
-  Der Lohn für die Rechnung wird innerhalb von 10 Tagen erfolgen.
+  Le *paiement* en espèces n'est plus accepté dans ce magasin.
+  *Barzahlung* wird in diesem Geschäft nicht mehr akzeptiert.
 
-  La plupart des transactions aujourd'hui se font par paiements en monnaie scripturale.
-  Der Großteil der Transaktionen erfolgt heute über unbaren Zahlungsverkehr.
+  Nous proposons des facilités de *paiement* pour cet achat.
+  Wir bieten *Zahlungs*erleichterungen für diesen Kauf an.
 
-  Le paiement comptant immédiat est souvent préféré pour les achats en magasin.
-  Eine sofortige Barzahlung wird häufig für Einkäufe im Laden bevorzugt.
+  Le *paiement* par carte bancaire est sécurisé sur notre site.
+  Die *Zahlung* mit Kreditkarte ist auf unserer Website sicher.
 
-  Le paiement comptant à la réception de la facture est une option courante pour les petites entreprises.
-  Kasse bei Rechnungseingang ist eine gängige Option für Kleinunternehmen.
+  L'entreprise a suspendu ses *paiements* en raison de difficultés financières.
+  Das Unternehmen hat seine *Zahlungen* aufgrund finanzieller Schwierigkeiten eingestellt.
 
-  Le paiement différentiel est utilisé pour compenser les fluctuations de prix.
-  Eine Differenzzahlung wird verwendet, um Preisschwankungen auszugleichen.
+  Un *paiement* différé vous sera proposé pour cet achat.
+  Für diesen Kauf wird Ihnen eine aufgeschobene *Zahlung* angeboten.
 
-  Le paiement immédiat est nécessaire pour certains services.
-  Eine Sofortzahlung ist für bestimmte Dienstleistungen erforderlich.
+  Le *paiement* de votre commande sera traité dans les plus brefs délais.
+  Die *Bezahlung* Ihrer Bestellung wird schnellstmöglich bearbeitet.
 
-  Le paiement intérimaire est une partie du paiement total qui est versé avant la fin du travail.
-  Eine Interimszahlung ist ein Teil der Gesamtsumme, der vor Beendigung der Arbeit geleistet wird.
+  Nous acceptons le *paiement* par chèque ou par virement bancaire.
+  Wir akzeptieren *Zahlung* per Scheck oder Banküberweisung.
 
-  Le paiement partiel est effectué lorsque le client ne peut pas payer la totalité de la somme due.
-  Eine Teilerfüllung wird geleistet, wenn der Kunde nicht in der Lage ist, die gesamte fällige Summe zu zahlen.
+  Le *paiement* sans contact est limité à 50 euros par transaction.
+  Die kontaktlose *Zahlung* ist auf 50 Euro pro Transaktion begrenzt.
 
-  Le paiement supplémentaire effectué par le client a permis de couvrir le coût total du projet.
-  Die Kundenzuzahlung hat die Deckung der Gesamtkosten des Projekts ermöglicht.
+  Un *paiement* partiel a été effectué sur votre dette.
+  Eine Teil*zahlung* wurde auf Ihre Schuld geleistet.
+
+  Le *paiement* des heures supplémentaires sera inclus dans votre prochain salaire.
+  Die *Bezahlung* der Überstunden wird in Ihrem nächsten Gehalt enthalten sein.
+
+  Nous exigeons un *paiement* comptant pour ce service.
+  Wir verlangen *Barzahlung* für diese Dienstleistung.
+
+  Le *paiement* de la pension alimentaire est obligatoire chaque mois.
+  Die *Zahlung* des Unterhalts ist jeden Monat verpflichtend.
+
+  Un *paiement* échelonné vous sera proposé pour rembourser votre prêt.
+  Ihnen wird eine Raten*zahlung* zur Rückzahlung Ihres Kredits angeboten.
+
+  Le *paiement* en bitcoins est maintenant accepté dans certains commerces.
+  *Zahlung* in Bitcoin wird jetzt in einigen Geschäften akzeptiert.
+
+  Un *paiement* supplémentaire sera nécessaire pour couvrir les frais imprévus.
+  Eine zusätzliche *Zahlung* wird erforderlich sein, um die unvorhergesehenen Kosten zu decken.
+
+  Le *paiement* des salaires est effectué le dernier jour du mois.
+  Die *Auszahlung* der Gehälter erfolgt am letzten Tag des Monats.
+
+  Nous avons reçu votre *paiement* et vous en remercions.
+  Wir haben Ihre *Zahlung* erhalten und danken Ihnen dafür.
+
+  Le *paiement* de la caution est obligatoire avant d'emménager.
+  Die *Zahlung* der Kaution ist vor dem Einzug obligatorisch.
+
+  Un *paiement* immédiat vous donnera droit à une remise de 5%.
+  Bei sofortiger *Bezahlung* erhalten Sie einen Rabatt von 5%.
+
+  Le *paiement* des droits d'auteur sera effectué trimestriellement.
+  Die *Zahlung* der Urheberrechtsgebühren erfolgt vierteljährlich.
+
+  Nous n'acceptons pas le *paiement* à la livraison pour cet article.
+  Wir akzeptieren für diesen Artikel keine *Zahlung* bei Lieferung.
+
+  Le *paiement* des intérêts est dû le 15 de chaque mois.
+  Die *Zahlung* der Zinsen ist am 15. jeden Monats fällig.
+
+  Un *paiement* compensatoire a été versé aux employés licenciés.
+  Eine Ausgleichs*zahlung* wurde an die entlassenen Mitarbeiter geleistet.
+
+  Le *paiement* des amendes peut être effectué en ligne ou au guichet.
+  Die *Bezahlung* der Bußgelder kann online oder am Schalter erfolgen.
+
+  Notre système de *paiement* électronique est temporairement hors service.
+  Unser elektronisches *Zahlungs*system ist vorübergehend außer Betrieb.
+
+  Le *paiement* des dividendes aux actionnaires aura lieu le mois prochain.
+  Die *Auszahlung* der Dividenden an die Aktionäre erfolgt nächsten Monat.
+
+  Un *paiement* anticipé vous permettra de bénéficier d'une réduction.
+  Eine vorzeitige *Zahlung* ermöglicht es Ihnen, von einem Nachlass zu profitieren.
+
+  Le *paiement* des allocations familiales est effectué le 5 du mois.
+  Die *Auszahlung* des Kindergeldes erfolgt am 5. des Monats.
+
+  Nous avons mis en place un nouveau système de *paiement* sécurisé.
+  Wir haben ein neues sicheres *Zahlungs*system eingerichtet.
+
+  Le *paiement* de la TVA doit être effectué trimestriellement.
+  Die *Zahlung* der Mehrwertsteuer muss vierteljährlich erfolgen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

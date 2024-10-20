@@ -9,29 +9,105 @@ Femininum / Plural: ''
 IPA: \ʁə.kɔ.mɑ̃.se\
 Definition: wieder anfangen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Recommence depuis le début, s’il te plaît.\nBitte fang noch einmal\
-  \ von vorne an.\n\nJe vais recommencer à étudier le français.\nIch werde wieder\
-  \ anfangen, Französisch zu lernen.\n\nIls avaient promis de ne plus se disputer,\
-  \ mais ils ont recommencé hier soir.\nSie hatten versprochen, sich nicht mehr zu\
-  \ streiten, aber gestern Abend haben sie wieder angefangen.\n\nLes cours ont recommencé\
-  \ la semaine dernière, après deux mois de vacances.\nDie Schule hat letzte Woche\
-  \ nach zwei Monaten Ferien wieder angefangen.\n\nOh non, ça recommence! J'avais\
-  \ pourtant tout réparé!\nOh nein, jetzt geht das schon wieder los! Dabei hatte ich\
-  \ doch alles repariert! \n\nAprès l'incendie, tout est à recommencer : la maison,\
-  \ le mobilier, les souvenirs...\nNach dem Brand muss alles neu gemacht werden: das\
-  \ Haus, die Möbel, die Erinnerungen...\n\nNe recommence jamais ça, tu m'as fait\
-  \ peur!\nMach das nie wieder, du hast mir Angst gemacht!\n\nAprès des années de\
-  \ tristesse, elle recommence à espérer à un avenir meilleur.\nNach Jahren der Trauer\
-  \ beginnt sie wieder auf eine bessere Zukunft zu hoffen.\n\nLe petit garçon n'arrivait\
-  \ pas à comprendre l'histoire, alors sa mère a dû recommencer le récit depuis le\
-  \ début.\nDer kleine Junge konnte die Geschichte nicht verstehen, also musste seine\
-  \ Mutter alles noch einmal von vorn erzählen.\n\nSi c'était à recommencer, je ferais\
-  \ exactement les mêmes choix.\nWenn man noch einmal von vorn beginnen könnte, würde\
-  \ ich genau die gleichen Entscheidungen treffen.\n\nOn avait enfin rangé les parapluies,\
-  \ mais la pluie recommence!\nWir hatten endlich die Regenschirme weggelegt, aber\
-  \ es beginnt wieder zu regnen!\n\nJ'avais hâte au printemps, mais il recommence\
-  \ à neiger!\nIch habe mich so auf den Frühling gefreut, aber es fängt wieder an\
-  \ zu schneien!"
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  *Recommence* depuis le début, s'il te plaît.
+  *Fang* bitte noch einmal von vorne *an*.
+
+  Après une longue pause, elle a décidé de *recommencer* ses études.
+  Nach einer langen Pause hat sie beschlossen, ihr Studium *wieder aufzunehmen*.
+
+  Il faut *recommencer* le combat pour l'égalité des droits.
+  Wir müssen den Kampf für Gleichberechtigung *wieder aufnehmen*.
+
+  "Arrête de *recommencer* la même dispute!" s'est-il exclamé, exaspéré.
+  "Hör auf, immer *wieder denselben Streit anzufangen*!", rief er genervt.
+
+  Le professeur a demandé à l'élève de *recommencer* son récit depuis le début.
+  Der Lehrer bat den Schüler, seine Geschichte noch einmal von vorn zu *beginnen*.
+
+  Malheureusement, tout est à *recommencer* après la perte des données.
+  Leider muss nach dem Datenverlust alles neu *gemacht werden*.
+
+  Si c'était à *recommencer*, je prendrais une décision différente.
+  Wenn ich es *noch einmal machen* könnte, würde ich mich anders entscheiden.
+
+  "Ne *recommence* jamais ça!" a averti la mère à son enfant turbulent.
+  "*Mach* das nie *wieder*!", warnte die Mutter ihr aufgewühltes Kind.
+
+  Les cours *recommencent* lundi prochain après les vacances.
+  Der Unterricht *fängt* am nächsten Montag nach den Ferien *wieder an*.
+
+  La pluie a *recommencé* à tomber juste après que nous sommes rentrés.
+  Es hat *wieder angefangen* zu regnen, kurz nachdem wir hereingekommen sind.
+
+  Après plusieurs échecs, il a décidé de *recommencer* et d'essayer une nouvelle approche.
+  Nach mehreren Misserfolgen beschloss er, *es noch einmal zu versuchen* und einen neuen Ansatz zu wählen.
+
+  L'étudiant doit *recommencer* son devoir car il n'a pas respecté les consignes.
+  Der Student muss seine Hausaufgabe *noch einmal machen*, weil er die Anweisungen nicht befolgt hat.
+
+  Malgré ses promesses, il a *recommencé* à fumer après seulement une semaine.
+  Trotz seiner Versprechungen hat er nach nur einer Woche *wieder angefangen* zu rauchen.
+
+  Après une longue dépression, elle *recommence* enfin à espérer.
+  Nach einer langen Depression *beginnt* sie endlich *wieder* zu hoffen.
+
+  Le patient *recommence* à marcher après des mois de rééducation.
+  Der Patient *fängt* nach monatelanger Rehabilitation *wieder* an zu gehen.
+
+  "*Et voilà que ça recommence*!" a-t-elle soupiré en entendant les voisins se disputer.
+  "*Jetzt geht das schon wieder los*!", seufzte sie, als sie die Nachbarn streiten hörte.
+
+  La nature *recommence* son cycle avec l'arrivée du printemps.
+  Die Natur *beginnt* mit dem Frühlingsbeginn ihren Kreislauf *von Neuem*.
+
+  Le gouvernement a décidé de *recommencer* les négociations depuis le début.
+  Die Regierung hat beschlossen, die Verhandlungen *von vorn zu beginnen*.
+
+  Après une courte pause, l'orchestre *recommença* à jouer.
+  Nach einer kurzen Pause *begann* das Orchester *wieder* zu spielen.
+
+  Il faut *recommencer* à zéro après cette erreur majeure.
+  Nach diesem großen Fehler müssen wir *wieder bei Null anfangen*.
+
+  Le chauffeur a dû *recommencer* sa manœuvre de stationnement.
+  Der Fahrer musste sein Parkmanöver *wiederholen*.
+
+  "Si tu *recommences*, tu seras puni," a averti le père à son fils.
+  "Wenn du das *noch mal machst*, wirst du bestraft," warnte der Vater seinen Sohn.
+
+  Après l'interruption, le conférencier *recommença* son discours là où il l'avait laissé.
+  Nach der Unterbrechung *setzte* der Redner seinen Vortrag dort *fort*, wo er aufgehört hatte.
+
+  L'entreprise a décidé de *recommencer* sa stratégie marketing sur de nouvelles bases.
+  Das Unternehmen hat beschlossen, seine Marketingstrategie *neu aufzusetzen*.
+
+  Le débat *recommença* de plus belle après une brève accalmie.
+  Die Debatte *flammte* nach einer kurzen Ruhezeit *wieder* heftiger *auf*.
+
+  Chaque matin, nous *recommençons* la même routine.
+  Jeden Morgen *beginnen* wir *wieder* mit derselben Routine.
+
+  L'artiste a choisi de *recommencer* sa carrière sous un nouveau nom.
+  Der Künstler hat sich entschieden, seine Karriere unter einem neuen Namen *neu zu starten*.
+
+  "Il faut *recommencer* l'expérience pour confirmer les résultats," a déclaré le scientifique.
+  "Wir müssen das Experiment *wiederholen*, um die Ergebnisse zu bestätigen," erklärte der Wissenschaftler.
+
+  Après la panne, le système a *recommencé* à fonctionner normalement.
+  Nach dem Ausfall hat das System *wieder* normal zu funktionieren *begonnen*.
+
+  Les oiseaux *recommencent* à chanter dès l'aube.
+  Die Vögel *fangen* bei Tagesanbruch *wieder* an zu singen.
+
+  Elle a décidé de *recommencer* sa vie dans un nouveau pays.
+  Sie hat beschlossen, in einem neuen Land *ein neues Leben zu beginnen*.
+
+  "C'est toujours à *recommencer* avec toi!" s'est-elle exclamée, frustrée.
+  "Bei dir muss man *immer wieder von vorne anfangen*!", rief sie frustriert aus.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

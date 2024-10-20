@@ -13,17 +13,116 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je n’entends d’ailleurs pas le tenir secret.
-  Ich habe auch nicht die Absicht, es geheim zu halten.
+  Je n'entends *d'ailleurs* pas le tenir secret.
+  Ich habe *übrigens* nicht vor, es geheim zu halten.
 
-  Je ne l’aime pas. D’ailleurs, je ne l’ai jamais aimé.
-  Ich mag ihn nicht. Im Übrigen habe ich ihn nie gemocht.
+  Il est absent aujourd'hui. *D'ailleurs*, il l'était déjà hier.
+  Er ist heute abwesend. *Übrigens* war er es gestern auch schon.
 
-  Ce point n'a d'ailleurs jamais été contesté par les autorités françaises.
-  Dies wurde im Übrigen von den französischen Behörden nie bestritten.
+  Nous n'avons pas besoin de ces informations. *D'ailleurs*, elles sont confidentielles.
+  Wir brauchen diese Informationen nicht. *Außerdem* sind sie vertraulich.
 
-  J'adore votre photo au dos d'ailleurs.
-  Ich liebe übrigens Ihr Bild auf der Rückseite.
+  Le restaurant est complet ce soir. *D'ailleurs*, il l'est presque tous les soirs.
+  Das Restaurant ist heute Abend ausgebucht. *Im Übrigen* ist es das fast jeden Abend.
+
+  Elle n'aime pas le café. *D'ailleurs*, elle ne boit que de l'eau.
+  Sie mag keinen Kaffee. *Übrigens* trinkt sie nur Wasser.
+
+  Ce livre est fascinant. *D'ailleurs*, je l'ai déjà lu deux fois.
+  Dieses Buch ist faszinierend. *Nebenbei bemerkt* habe ich es schon zweimal gelesen.
+
+  Il ne viendra pas à la fête. *D'ailleurs*, il n'aime pas ce genre d'événements.
+  Er wird nicht zur Party kommen. *Ohnehin* mag er solche Veranstaltungen nicht.
+
+  Cette solution est coûteuse. *D'ailleurs*, elle n'est pas très efficace.
+  Diese Lösung ist teuer. *Zudem* ist sie nicht sehr effektiv.
+
+  J'ai oublié mon parapluie. *D'ailleurs*, il ne pleut plus.
+  Ich habe meinen Regenschirm vergessen. *Allerdings* regnet es sowieso nicht mehr.
+
+  Elle parle couramment l'anglais. *D'ailleurs*, elle a vécu à Londres pendant cinq ans.
+  Sie spricht fließend Englisch. *Übrigens* hat sie fünf Jahre in London gelebt.
+
+  Ce plat est délicieux. *D'ailleurs*, c'est une spécialité locale.
+  Dieses Gericht ist köstlich. *Nebenbei bemerkt* ist es eine lokale Spezialität.
+
+  Il est très talentueux. *D'ailleurs*, il a remporté plusieurs prix.
+  Er ist sehr talentiert. *Im Übrigen* hat er mehrere Preise gewonnen.
+
+  Je ne peux pas venir ce soir. *D'ailleurs*, j'ai déjà d'autres engagements.
+  Ich kann heute Abend nicht kommen. *Außerdem* habe ich schon andere Verpflichtungen.
+
+  Ce projet est ambitieux. *D'ailleurs*, il nécessitera beaucoup de ressources.
+  Dieses Projekt ist ehrgeizig. *Übrigens* wird es viele Ressourcen benötigen.
+
+  Elle a réussi l'examen. *D'ailleurs*, elle avait beaucoup travaillé.
+  Sie hat die Prüfung bestanden. *Schließlich* hatte sie auch viel dafür gearbeitet.
+
+  Je n'aime pas cette chanson. *D'ailleurs*, je n'aime pas du tout cet artiste.
+  Ich mag dieses Lied nicht. *Ohnehin* mag ich diesen Künstler überhaupt nicht.
+
+  Cette voiture est très économe en carburant. *D'ailleurs*, c'est un modèle hybride.
+  Dieses Auto ist sehr sparsam im Verbrauch. *Übrigens* ist es ein Hybridmodell.
+
+  Il ne mange pas de viande. *D'ailleurs*, il est végétarien depuis des années.
+  Er isst kein Fleisch. *Nebenbei bemerkt* ist er seit Jahren Vegetarier.
+
+  Ce musée est fascinant. *D'ailleurs*, j'y retourne chaque fois que je suis en ville.
+  Dieses Museum ist faszinierend. *Im Übrigen* gehe ich jedes Mal dorthin, wenn ich in der Stadt bin.
+
+  Elle a décidé de démissionner. *D'ailleurs*, elle a déjà trouvé un nouveau travail.
+  Sie hat beschlossen zu kündigen. *Übrigens* hat sie bereits eine neue Arbeit gefunden.
+
+  Je n'ai pas aimé ce film. *D'ailleurs*, je suis sorti avant la fin.
+  Ich mochte diesen Film nicht. *Tatsächlich* bin ich vor dem Ende gegangen.
+
+  Cette recette est facile à préparer. *D'ailleurs*, elle ne prend que 30 minutes.
+  Dieses Rezept ist einfach zuzubereiten. *Zudem* dauert es nur 30 Minuten.
+
+  Il est très doué en mathématiques. *D'ailleurs*, il participe à des compétitions internationales.
+  Er ist sehr begabt in Mathematik. *Übrigens* nimmt er an internationalen Wettbewerben teil.
+
+  Ce logiciel est très utile. *D'ailleurs*, je l'utilise tous les jours.
+  Diese Software ist sehr nützlich. *Nebenbei bemerkt* benutze ich sie jeden Tag.
+
+  Elle a une excellente mémoire. *D'ailleurs*, elle n'oublie jamais un visage.
+  Sie hat ein ausgezeichnetes Gedächtnis. *Im Übrigen* vergisst sie nie ein Gesicht.
+
+  Je ne peux pas me concentrer ici. *D'ailleurs*, il y a trop de bruit.
+  Ich kann mich hier nicht konzentrieren. *Außerdem* ist es hier zu laut.
+
+  Cette ville est magnifique. *D'ailleurs*, j'envisage d'y déménager.
+  Diese Stadt ist wunderschön. *Übrigens* überlege ich, dorthin zu ziehen.
+
+  Il est très créatif. *D'ailleurs*, il expose ses œuvres dans plusieurs galeries.
+  Er ist sehr kreativ. *Nebenbei bemerkt* stellt er seine Werke in mehreren Galerien aus.
+
+  Je n'ai pas encore lu ce livre. *D'ailleurs*, je ne connais pas cet auteur.
+  Ich habe dieses Buch noch nicht gelesen. *Ohnehin* kenne ich diesen Autor nicht.
+
+  Elle parle cinq langues. *D'ailleurs*, elle travaille comme interprète.
+  Sie spricht fünf Sprachen. *Übrigens* arbeitet sie als Dolmetscherin.
+
+  Ce restaurant est toujours bondé. *D'ailleurs*, il faut réserver des semaines à l'avance.
+  Dieses Restaurant ist immer überfüllt. *Tatsächlich* muss man Wochen im Voraus reservieren.
+
+  Je ne peux pas t'aider aujourd'hui. *D'ailleurs*, j'ai déjà beaucoup de travail.
+  Ich kann dir heute nicht helfen. *Außerdem* habe ich schon viel zu tun.
+
+  Cette théorie est controversée. *D'ailleurs*, de nombreux scientifiques la contestent.
+  Diese Theorie ist umstritten. *Im Übrigen* wird sie von vielen Wissenschaftlern angefochten.
+
+  Il est très sportif. *D'ailleurs*, il court un marathon chaque année.
+  Er ist sehr sportlich. *Nebenbei bemerkt* läuft er jedes Jahr einen Marathon.
+
+  Je n'ai pas aimé ce spectacle. *D'ailleurs*, beaucoup de spectateurs sont partis avant la fin.
+  Ich mochte diese Aufführung nicht. *Übrigens* sind viele Zuschauer vor dem Ende gegangen.
+
+  Elle est très douée en musique. *D'ailleurs*, elle joue dans un orchestre professionnel.
+  Sie ist sehr begabt in Musik. *Nebenbei bemerkt* spielt sie in einem professionellen Orchester.
+
+  Ce projet est très ambitieux. *D'ailleurs*, il nécessitera plusieurs années de travail.
+  Dieses Projekt ist sehr ehrgeizig. *Zudem* wird es mehrere Jahre Arbeit erfordern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

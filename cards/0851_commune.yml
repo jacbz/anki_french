@@ -13,11 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il s’agit là d’une responsabilité commune.
-  Dies ist eine gemeinsame Verantwortung.
+  Il s'agit là d'une responsabilité *commune*.
+  Das ist eine *gemeinsame* Verantwortung.
 
-  Je vis dans une petite commune près de la ville.
-  Ich lebe in einer kleinen Gemeinde in der Nähe der Stadt.
+  La *commune* de Bordeaux organise un festival de musique cet été.
+  Die *Gemeinde* Bordeaux organisiert diesen Sommer ein Musikfestival.
+
+  Le maire préside le conseil municipal de notre *commune*.
+  Der Bürgermeister leitet den Gemeinderat unserer *Kommune*.
+
+  Les habitants de cette petite *commune* rurale se connaissent tous.
+  Die Einwohner dieser kleinen ländlichen *Gemeinde* kennen sich alle.
+
+  La *Commune* de Paris a marqué l'histoire de France en 1871.
+  Die Pariser *Kommune* hat 1871 die französische Geschichte geprägt.
+
+  "Notre *commune* manque de fonds pour rénover l'école", a déclaré le maire.
+  "Unserer *Gemeinde* fehlen die Mittel, um die Schule zu renovieren", erklärte der Bürgermeister.
+
+  La fusion des *communes* voisines a été votée par les conseils municipaux.
+  Die Fusion der benachbarten *Gemeinden* wurde von den Gemeinderäten beschlossen.
+
+  Au Moyen Âge, certaines *communes* jouissaient de privilèges importants.
+  Im Mittelalter genossen einige *Kommunen* bedeutende Privilegien.
+
+  Les élections municipales déterminent qui dirigera la *commune* pour les six prochaines années.
+  Die Kommunalwahlen bestimmen, wer die *Gemeinde* für die nächsten sechs Jahre leiten wird.
+
+  La *Chambre des communes* a voté une nouvelle loi sur l'environnement.
+  Das *Unterhaus* hat ein neues Umweltgesetz verabschiedet.
+
+  Les services de la *commune* sont fermés aujourd'hui en raison d'une grève.
+  Die Dienststellen der *Gemeinde* sind heute wegen eines Streiks geschlossen.
+
+  Cette *commune* a reçu un prix pour ses initiatives écologiques.
+  Diese *Gemeinde* hat einen Preis für ihre ökologischen Initiativen erhalten.
+
+  La *commune* a décidé d'investir dans la construction d'une nouvelle bibliothèque.
+  Die *Gemeinde* hat beschlossen, in den Bau einer neuen Bibliothek zu investieren.
+
+  Les citoyens peuvent consulter le budget de la *commune* en ligne.
+  Die Bürger können den Haushalt der *Gemeinde* online einsehen.
+
+  La fête de la *commune* aura lieu le premier week-end de juillet.
+  Das *Gemeindefest* findet am ersten Juliwochenende statt.
+
+  Les *Communes* canadiennes ont débattu d'un projet de loi controversé.
+  Das kanadische *Unterhaus* hat über einen umstrittenen Gesetzentwurf debattiert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il mourut assassiné.
-  Er starb ermordet.
+  Il mourut *assassiné*.
+  Er wurde *ermordet*.
 
-  Il a été accusé d’assassiner sa femme.
-  Er wurde beschuldigt, seine Frau ermordet zu haben.
+  Le roi Henri IV a été *assassiné* en 1610 par François Ravaillac.
+  König Heinrich IV. wurde 1610 von François Ravaillac *ermordet*.
+
+  Les dictateurs tentent souvent d'*assassiner* leurs opposants politiques.
+  Diktatoren versuchen oft, ihre politischen Gegner zu *ermorden*.
+
+  "Ce prix exorbitant va m'*assassiner* financièrement !" s'est-il plaint.
+  "Dieser überhöhte Preis wird mich finanziell *ruinieren*!" beklagte er sich.
+
+  Le nouveau régime a *assassiné* toute forme de liberté d'expression.
+  Das neue Regime hat jede Form der Meinungsfreiheit *zunichte gemacht*.
+
+  L'acteur a complètement *assassiné* son texte lors de la représentation.
+  Der Schauspieler hat seinen Text bei der Aufführung völlig *verhunzt*.
+
+  Les rumeurs persistantes ont fini par *assassiner* sa réputation.
+  Die anhaltenden Gerüchte haben schließlich seinen Ruf *zerstört*.
+
+  "Arrête de m'*assassiner* avec tes questions incessantes !" s'est-elle exclamée.
+  "Hör auf, mich mit deinen ständigen Fragen zu *bombardieren*!" rief sie aus.
+
+  Les braconniers *assassinent* la faune sauvage pour leurs profits illégaux.
+  Wilderer *töten* die wilde Tierwelt für ihre illegalen Profite.
+
+  Ce journaliste courageux a été *assassiné* pour avoir révélé la vérité.
+  Dieser mutige Journalist wurde *ermordet*, weil er die Wahrheit aufgedeckt hatte.
+
+  Le criminel a avoué avoir *assassiné* trois personnes au cours des derniers mois.
+  Der Verbrecher gestand, in den letzten Monaten drei Menschen *ermordet* zu haben.
+
+  Les critiques ont *assassiné* le nouveau film du réalisateur dans leurs articles.
+  Die Kritiker haben den neuen Film des Regisseurs in ihren Artikeln *verrissen*.
+
+  "Vos regards glacials m'*assassinent*", murmura-t-elle avec ironie.
+  "Ihre eisigen Blicke *töten* mich", murmelte sie ironisch.
+
+  L'entreprise a *assassiné* la concurrence avec ses prix imbattables.
+  Das Unternehmen hat die Konkurrenz mit seinen unschlagbaren Preisen *ausgeschaltet*.
+
+  Les nouvelles technologies ont *assassiné* de nombreux métiers traditionnels.
+  Die neuen Technologien haben viele traditionelle Berufe *ausgelöscht*.
+
+  "Ce commerçant nous *assassine* avec ses tarifs !" se sont plaints les clients.
+  "Dieser Händler *bringt* uns mit seinen Preisen *um*!" beschwerten sich die Kunden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

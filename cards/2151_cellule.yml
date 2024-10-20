@@ -13,41 +13,101 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai aidé à bâtir ces cellules.
-  Ich habe geholfen, diese Zellen aufzubauen.
+  J'ai aidé à bâtir ces *cellules*.
+  Ich habe beim Bau dieser *Zellen* geholfen.
 
-  La cellule est l’unité de base de tout être vivant.
-  Die Zelle ist die Grundbaueinheit aller Lebewesen.
+  La *cellule* monacale était petite mais confortable.
+  Die Mönchs*zelle* war klein, aber gemütlich.
 
-  Une cellule monacale est une pièce de vie réservée à un moine dans un monastère.
-  Eine Mönchszelle ist ein Wohnraum für einen Mönch in einem Kloster.
+  Le prisonnier a été placé dans une *cellule* d'isolement.
+  Der Gefangene wurde in eine Einzel*zelle* gebracht.
 
-  Une cellule adipeuse est une cellule qui stocke les graisses.
-  Eine Fettzelle ist eine Zelle, die Fett speichert.
+  Les *cellules* adipeuses stockent l'énergie sous forme de graisse.
+  Die Fett*zellen* speichern Energie in Form von Fett.
 
-  Une cellule photoélectrique est un dispositif qui convertit la lumière en électricité.
-  Eine Fotozelle ist ein Gerät, das Licht in Elektrizität umwandelt.
+  Les chercheurs étudient les *cellules* souches pour développer de nouveaux traitements.
+  Die Forscher untersuchen Stamm*zellen*, um neue Behandlungen zu entwickeln.
 
-  Une cellule de crise est un groupe de personnes qui se réunissent pour gérer une situation d'urgence.
-  Ein Krisenstab ist eine Gruppe von Personen, die sich zusammenfinden, um eine Notsituation zu bewältigen.
+  La *cellule* photoélectrique détecte la présence de lumière.
+  Die Foto*zelle* erkennt das Vorhandensein von Licht.
 
-  Une cellule de monastère est une pièce de vie réservée à un moine dans un monastère.
-  Eine Klosterzelle ist ein Wohnraum für einen Mönch in einem Kloster.
+  Dans ce tableur, chaque *cellule* contient une formule différente.
+  In dieser Tabellenkalkulation enthält jede *Zelle* eine andere Formel.
 
-  Une cellule d'isolement est une pièce séparée et sécurisée dans laquelle une personne peut être détenue.
-  Eine Einzelzelle ist ein abgetrennter, sicherer Raum, in dem eine Person inhaftiert werden kann.
+  Les abeilles construisent des *cellules* hexagonales dans leurs ruches.
+  Die Bienen bauen sechseckige *Waben* in ihren Stöcken.
 
-  Une cellule basale est une cellule qui se trouve à la base d'un épithélium.
-  Eine Basalzelle ist eine Zelle, die sich am Grund eines Epithels befindet.
+  La *cellule* de crise s'est réunie pour gérer la situation d'urgence.
+  Der Krisen*stab* trat zusammen, um die Notsituation zu bewältigen.
 
-  Une cellule mère diploïde est une cellule qui contient deux ensembles complets de chromosomes.
-  Eine Urkeimzelle ist eine Zelle, die zwei vollständige Chromosomensätze enthält.
+  Le parti politique a formé une nouvelle *cellule* dans notre quartier.
+  Die politische Partei hat eine neue *Zelle* in unserem Viertel gebildet.
 
-  Les cellules cérébrales sont les cellules du cerveau.
-  Hirnzellen sind die Zellen des Gehirns.
+  Les *cellules* nerveuses transmettent les informations dans notre corps.
+  Die Nerven*zellen* übertragen Informationen in unserem Körper.
 
-  Les cellules nerveuses sont les cellules qui transmettent des informations dans le système nerveux.
-  Nervenzellen sind die Zellen, die Informationen im Nervensystem weiterleiten.
+  La *cellule* familiale est considérée comme le noyau de la société.
+  Die Familien*zelle* gilt als Kern der Gesellschaft.
+
+  Les ingénieurs ont amélioré la *cellule* de l'avion pour réduire sa consommation de carburant.
+  Die Ingenieure haben die Flugzeug*zelle* verbessert, um den Treibstoffverbrauch zu reduzieren.
+
+  "Tu devrais voir la *cellule* dans laquelle ils m'ont mis !" s'est plaint le détenu.
+  "Du solltest die *Zelle* sehen, in die sie mich gesteckt haben!", beschwerte sich der Häftling.
+
+  Les *cellules* reproductrices sont essentielles à la perpétuation des espèces.
+  Die Keim*zellen* sind für die Fortpflanzung der Arten unerlässlich.
+
+  La *cellule* électrochimique convertit l'énergie chimique en électricité.
+  Die Brennstoff*zelle* wandelt chemische Energie in Elektrizität um.
+
+  Les cardinaux se sont retirés dans leurs *cellules* pour réfléchir avant le vote.
+  Die Kardinäle zogen sich in ihre *Zellen* zurück, um vor der Abstimmung nachzudenken.
+
+  La division cellulaire est un processus où une *cellule* mère se divise en deux *cellules* filles.
+  Die Zellteilung ist ein Prozess, bei dem sich eine Mutter*zelle* in zwei Tochter*zellen* teilt.
+
+  Les *cellules* cancéreuses se multiplient de manière incontrôlée.
+  Krebs*zellen* vermehren sich unkontrolliert.
+
+  La membrane de la *cellule* régule les échanges avec l'environnement extérieur.
+  Die *Zell*membran reguliert den Austausch mit der äußeren Umgebung.
+
+  Le monastère comptait une centaine de *cellules* pour les moines.
+  Das Kloster hatte etwa hundert *Zellen* für die Mönche.
+
+  Les *cellules* souches ont le potentiel de se transformer en différents types de tissus.
+  Stamm*zellen* haben das Potenzial, sich in verschiedene Gewebetypen zu verwandeln.
+
+  La *cellule* syndicale a organisé une réunion pour discuter des conditions de travail.
+  Die Gewerschafts*zelle* organisierte ein Treffen, um die Arbeitsbedingungen zu besprechen.
+
+  Les *cellules* sanguines jouent un rôle crucial dans notre système immunitaire.
+  Die Blut*zellen* spielen eine entscheidende Rolle in unserem Immunsystem.
+
+  La *cellule* de haute activité est utilisée pour manipuler des matières très radioactives.
+  Die Heiße *Zelle* wird zur Handhabung hochradioaktiver Materialien verwendet.
+
+  Les *cellules* solaires convertissent la lumière du soleil en électricité.
+  Solar*zellen* wandeln Sonnenlicht in Elektrizität um.
+
+  Le microscope nous permet d'observer les organites à l'intérieur de la *cellule*.
+  Das Mikroskop ermöglicht es uns, die Organellen innerhalb der *Zelle* zu beobachten.
+
+  La *cellule* d'un pensionnat était spartiate mais suffisante pour étudier.
+  Die *Zelle* in einem Internat war spartanisch, aber zum Lernen ausreichend.
+
+  Les *cellules* épithéliales forment une barrière protectrice sur notre peau.
+  Die Epithel*zellen* bilden eine Schutzbarriere auf unserer Haut.
+
+  Les chercheurs ont isolé une *cellule* primitive pour étudier l'évolution.
+  Die Forscher haben eine Ur*zelle* isoliert, um die Evolution zu untersuchen.
+
+  La *cellule* psychologique a été mise en place pour soutenir les victimes.
+  Die psychologische *Zelle* wurde eingerichtet, um die Opfer zu unterstützen.
+
+  Les *cellules* de la ruche étaient remplies de miel fraîchement produit.
+  Die *Waben* des Bienenstocks waren mit frisch produziertem Honig gefüllt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

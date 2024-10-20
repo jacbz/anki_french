@@ -13,29 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On va seulement rester quelques jours, ma chérie.
-  Wir bleiben nur ein paar Tage, mein Schatz.
+  On va *seulement* rester quelques jours, ma chérie.
+  Wir bleiben *nur* ein paar Tage, Liebling.
 
-  Je veux seulement un peu de temps.
-  Ich brauche nur ein bisschen Zeit.
+  Il n'y a *seulement* que trois places disponibles pour le concert.
+  Es sind *nur* drei Plätze für das Konzert verfügbar.
 
-  Je veux seulement vous aider.
-  Ich will Ihnen nur helfen.
+  J'ai *seulement* voulu t'aider, je ne voulais pas te blesser.
+  Ich wollte dir *nur* helfen, ich wollte dich nicht verletzen.
 
-  Si seulement il avait été là.
-  Wenn er doch nur da gewesen wäre.
+  Elle vient *seulement* d'arriver à la fête.
+  Sie ist *gerade erst* auf der Party angekommen.
 
-  Il rentrera seulement demain, car il a dû faire un détour imprévu.
-  Er kommt erst morgen zurück, weil er einen unvorhergesehenen Umweg machen musste.
+  *Seulement*, je dois vous prévenir que ce ne sera pas facile.
+  *Allerdings* muss ich Sie warnen, dass es nicht einfach sein wird.
 
-  Je te donne l'argent, seulement je demande des garanties pour que l'investissement soit sécurisé.
-  Ich gebe dir das Geld, allerdings verlange ich Sicherheiten, damit die Investition abgesichert ist.
+  Si *seulement* j'avais su plus tôt !
+  Wenn ich es *nur* früher gewusst hätte!
 
-  Si seulement j'en avais les moyens, j'achèterais une maison à la campagne.
-  Wenn ich es mir nur leisten könnte, würde ich mir ein Haus auf dem Land kaufen.
+  Non *seulement* il est intelligent, mais il est aussi très drôle.
+  Er ist nicht *nur* intelligent, sondern auch sehr witzig.
 
-  Tu as gagné à la loterie? – Si seulement! Je rêve de voyager autour du monde.
-  Hast du in der Lotterie gewonnen? – Schön wär's! Ich träume davon, um die Welt zu reisen.
+  Cette offre est valable *seulement* jusqu'à la fin du mois.
+  Dieses Angebot gilt *nur* bis zum Ende des Monats.
+
+  J'ai *seulement* besoin de cinq minutes pour finir mon travail.
+  Ich brauche *nur* fünf Minuten, um meine Arbeit zu beenden.
+
+  Il ne mange *seulement* que des légumes et des fruits.
+  Er isst *ausschließlich* Gemüse und Obst.
+
+  "Essaie *seulement* de me contredire !"
+  "Wage es *ja nicht*, mir zu widersprechen!"
+
+  Le train arrivera *seulement* dans une heure.
+  Der Zug kommt *erst* in einer Stunde an.
+
+  Je peux *seulement* imaginer ce que tu ressens.
+  Ich kann mir *nur* vorstellen, wie du dich fühlst.
+
+  C'est une belle maison, *seulement* elle coûte très cher.
+  Es ist ein schönes Haus, *aber* es ist sehr teuer.
+
+  Il faut *seulement* appuyer sur ce bouton pour démarrer la machine.
+  Man muss *nur* diesen Knopf drücken, um die Maschine zu starten.
+
+  "Entrez *seulement*, ne soyez pas timide !"
+  "Kommen Sie *ruhig* herein, seien Sie nicht schüchtern!"
+
+  As-tu *seulement* pensé aux conséquences de tes actes ?
+  Hast du überhaupt an die Folgen deines Handelns gedacht?
+
+  Je l'ai vu *seulement* une fois dans ma vie.
+  Ich habe ihn in meinem Leben *nur* einmal gesehen.
+
+  Il a *seulement* vingt ans, mais il est déjà très mature.
+  Er ist *erst* zwanzig Jahre alt, aber schon sehr reif.
+
+  Nous acceptons *seulement* les paiements en espèces.
+  Wir akzeptieren *nur* Barzahlungen.
+
+  Elle ne fait pas *seulement* du sport, elle mange aussi sainement.
+  Sie treibt nicht *nur* Sport, sie ernährt sich auch gesund.
+
+  Je voulais *seulement* te dire que je t'aime.
+  Ich wollte dir *nur* sagen, dass ich dich liebe.
+
+  Il ne faut pas *seulement* étudier, il faut aussi comprendre.
+  Man muss nicht *nur* lernen, sondern auch verstehen.
+
+  *Seulement* trois personnes sont venues à la réunion.
+  *Nur* drei Personen sind zum Treffen gekommen.
+
+  Cette règle s'applique si et *seulement* si toutes les conditions sont remplies.
+  Diese Regel gilt dann und *nur* dann, wenn alle Bedingungen erfüllt sind.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

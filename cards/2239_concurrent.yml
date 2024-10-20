@@ -13,14 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est un concurrent politique.
-  Er ist ein politischer Konkurrent.
+  C'est un *concurrent* politique.
+  Er ist ein politischer *Konkurrent*.
 
-  Nous avons plusieurs concurrents sur le marché.
-  Wir haben mehrere Konkurrenten auf dem Markt.
+  Nous sommes des entreprises *concurrentes* sur le marché local.
+  Wir sind *konkurrierende* Unternehmen auf dem lokalen Markt.
 
-  L'entreprise concurrente a lancé une nouvelle campagne publicitaire.
-  Der Konkurrenzbetrieb hat eine neue Werbekampagne gestartet.
+  Le *concurrent* principal a baissé ses prix.
+  Der Haupt*konkurrent* hat seine Preise gesenkt.
+
+  Les forces *concurrentes* ont abouti à un équilibre.
+  Die *konkurrierenden* Kräfte haben zu einem Gleichgewicht geführt.
+
+  "Tu es mon plus grand *concurrent*", a-t-il dit en plaisantant.
+  "Du bist mein größter *Konkurrent*", sagte er scherzhaft.
+
+  La *concurrente* a remporté la médaille d'or.
+  Die *Konkurrentin* hat die Goldmedaille gewonnen.
+
+  Nos produits sont *concurrents* des leurs.
+  Unsere Produkte *konkurrieren* mit ihren.
+
+  Il y a dix *concurrents* pour ce poste.
+  Es gibt zehn *Bewerber* für diese Stelle.
+
+  Les sociétés *concurrentes* ont signé un accord.
+  Die *konkurrierenden* Unternehmen haben eine Vereinbarung unterzeichnet.
+
+  Cette entreprise est devenue notre principal *concurrent*.
+  Dieses Unternehmen ist zu unserem Haupt*konkurrenten* geworden.
+
+  Les équipes *concurrentes* s'affrontent ce soir.
+  Die *konkurrierenden* Teams treten heute Abend gegeneinander an.
+
+  Elle a su écarter tous ses *concurrents*.
+  Sie hat es geschafft, alle ihre *Konkurrenten* auszuschalten.
+
+  Le magasin *concurrent* a fermé ses portes.
+  Das *Konkurrenz*geschäft hat seine Türen geschlossen.
+
+  Les activités *concurrentes* se disputent les mêmes ressources.
+  Die *konkurrierenden* Aktivitäten streiten um die gleichen Ressourcen.
+
+  Notre *concurrent* direct a lancé un nouveau produit.
+  Unser direkter *Konkurrent* hat ein neues Produkt auf den Markt gebracht.
+
+  Les *concurrents* se sont serrés la main après la course.
+  Die *Konkurrenten* haben sich nach dem Rennen die Hand geschüttelt.
+
+  Cette technologie est *concurrente* de la nôtre.
+  Diese Technologie *konkurriert* mit unserer.
+
+  Les *concurrentes* se sont préparées pendant des mois.
+  Die *Konkurrentinnen* haben sich monatelang vorbereitet.
+
+  Nous devons surveiller les mouvements de nos *concurrents*.
+  Wir müssen die Bewegungen unserer *Konkurrenten* im Auge behalten.
+
+  La *concurrente* a fait une offre plus intéressante.
+  Die *Konkurrentin* hat ein attraktiveres Angebot gemacht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,29 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tout ce que tu as emprunté s’évanouira en fumée.
-  Alles, was du dir geliehen hast, wird sich in Rauch auflösen.
+  Tout ce que tu as *emprunté* s'évanouira en fumée.
+  Alles, was du dir *geliehen* hast, wird sich in Luft auflösen.
 
-  Je vais emprunter un livre à la bibliothèque.
-  Ich werde mir ein Buch in der Bibliothek ausleihen.
+  Il a dû *emprunter* de l'argent à ses parents pour payer son loyer.
+  Er musste sich von seinen Eltern Geld *leihen*, um seine Miete zu bezahlen.
 
-  Paul a dû emprunter de l'argent à la banque pour acheter sa nouvelle maison.
-  Paul musste sich bei der Bank Geld leihen, um sein neues Haus zu kaufen.
+  Pourrais-je vous *emprunter* votre stylo pour une minute ?
+  Könnte ich mir kurz Ihren Stift *ausleihen*?
 
-  Le professeur a emprunté une idée à un autre chercheur pour son dernier article.
-  Der Professor hat eine Idee von einem anderen Forscher für seinen letzten Artikel übernommen.
+  La banque a refusé de nous *emprunter* la somme nécessaire.
+  Die Bank hat sich geweigert, uns die nötige Summe zu *leihen*.
 
-  Pour aller à Paris, nous avons emprunté l'autoroute.
-  Um nach Paris zu fahren, haben wir die Autobahn genommen.
+  Elle a *emprunté* cette recette à sa grand-mère.
+  Sie hat dieses Rezept von ihrer Großmutter *übernommen*.
 
-  Je peux t'emprunter mille euros pour payer mon loyer?
-  Kannst du mir tausend Euro leihen, um meine Miete zu bezahlen?
+  Les automobilistes sont priés d'*emprunter* la déviation mise en place.
+  Die Autofahrer werden gebeten, die eingerichtete Umleitung zu *benutzen*.
 
-  Le roman emprunte des éléments à la mythologie grecque.
-  Der Roman entnimmt Elemente der griechischen Mythologie.
+  J'ai *emprunté* ce livre à la bibliothèque municipale.
+  Ich habe dieses Buch aus der Stadtbibliothek *ausgeliehen*.
 
-  Le style de ce tableau est emprunté à l'art baroque.
-  Der Stil dieses Bildes ist dem Barock entnommen.
+  Ce mot français est *emprunté* à l'arabe.
+  Dieses französische Wort ist aus dem Arabischen *entlehnt*.
+
+  "Peux-tu m'*emprunter* ta voiture pour le week-end ?"
+  "Kannst du mir dein Auto fürs Wochenende *leihen*?"
+
+  Le peintre a *emprunté* ses couleurs à la nature environnante.
+  Der Maler hat seine Farben der umgebenden Natur *entlehnt*.
+
+  Nous devons *emprunter* le passage souterrain pour traverser la rue.
+  Wir müssen die Unterführung *benutzen*, um die Straße zu überqueren.
+
+  L'écrivain a *emprunté* plusieurs idées à ses prédécesseurs.
+  Der Schriftsteller hat mehrere Ideen von seinen Vorgängern *übernommen*.
+
+  Il faut *emprunter* ce sentier pour atteindre le sommet de la montagne.
+  Man muss diesen Pfad *nehmen*, um den Gipfel des Berges zu erreichen.
+
+  Elle a *emprunté* un air embarrassé pour éviter de répondre.
+  Sie hat einen verlegenen Gesichtsausdruck *aufgesetzt*, um nicht antworten zu müssen.
+
+  Le projet a été financé par des fonds *empruntés* à diverses institutions.
+  Das Projekt wurde durch von verschiedenen Institutionen *geliehene* Gelder finanziert.
+
+  Certains artistes *empruntent* leur inspiration à la vie quotidienne.
+  Manche Künstler *entnehmen* ihre Inspiration dem Alltag.
+
+  Les étudiants peuvent *emprunter* jusqu'à cinq livres à la fois.
+  Die Studenten dürfen bis zu fünf Bücher gleichzeitig *ausleihen*.
+
+  Nous avons dû *emprunter* un détour à cause des travaux sur la route principale.
+  Wir mussten wegen der Bauarbeiten auf der Hauptstraße einen Umweg *nehmen*.
+
+  La lune *emprunte* sa lumière au soleil.
+  Der Mond *erhält* sein Licht von der Sonne.
+
+  Il a *emprunté* le nom d'un célèbre auteur pour publier son livre.
+  Er hat den Namen eines berühmten Autors *benutzt*, um sein Buch zu veröffentlichen.
+
+  "Tu m'as *emprunté* 50 euros le mois dernier, tu t'en souviens ?"
+  "Du hast dir letzten Monat 50 Euro von mir *geliehen*, erinnerst du dich?"
+
+  Les politiciens *empruntent* souvent des expressions à leurs adversaires.
+  Politiker *übernehmen* oft Ausdrücke von ihren Gegnern.
+
+  Elle a *emprunté* les traits de son personnage à une vieille photo.
+  Sie hat die Züge ihrer Figur einem alten Foto *entlehnt*.
+
+  Veuillez *emprunter* la sortie de secours en cas d'incendie.
+  Bitte *benutzen* Sie im Brandfall den Notausgang.
+
+  J'ai dû *emprunter* de l'argent pour financer mes études.
+  Ich musste Geld *leihen*, um mein Studium zu finanzieren.
+
+  Le chanteur a *emprunté* sa mélodie à une chanson folklorique traditionnelle.
+  Der Sänger hat seine Melodie einem traditionellen Volkslied *entlehnt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

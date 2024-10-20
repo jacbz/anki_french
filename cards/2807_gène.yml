@@ -13,11 +13,41 @@ Register: ↘Fiktion ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils collent des gènes ensemble, je crois.
-  Sie kleben Gene zusammen, glaube ich.
+  Ils collent des *gènes* ensemble, je crois.
+  Ich glaube, sie kleben *Gene* zusammen.
 
-  Le gène responsable de cette maladie a été identifié.
-  Das Gen, das für diese Krankheit verantwortlich ist, wurde identifiziert.
+  Les scientifiques ont identifié un *gène* responsable de cette maladie rare.
+  Die Wissenschaftler haben ein *Gen* identifiziert, das für diese seltene Krankheit verantwortlich ist.
+
+  L'ADN est le constituant principal des *gènes*.
+  DNA ist der Hauptbestandteil von *Genen*.
+
+  Chaque *gène* occupe un endroit précis sur un chromosome donné.
+  Jedes *Gen* nimmt einen bestimmten Platz auf einem gegebenen Chromosom ein.
+
+  Les *gènes* dirigent la synthèse des protéines dans nos cellules.
+  *Gene* steuern die Proteinsynthese in unseren Zellen.
+
+  Une mutation d'un *gène* peut parfois entraîner des maladies héréditaires.
+  Eine Mutation eines *Gens* kann manchmal zu Erbkrankheiten führen.
+
+  Les *gènes* allèles sont différentes versions d'un même *gène*.
+  Allele *Gene* sind verschiedene Versionen desselben *Gens*.
+
+  Ce caractère est déterminé par un *gène* dominant.
+  Dieses Merkmal wird durch ein dominantes *Gen* bestimmt.
+
+  Les biologistes étudient comment les *gènes* se transmettent d'une génération à l'autre.
+  Biologen untersuchen, wie *Gene* von einer Generation zur nächsten weitergegeben werden.
+
+  Le séquençage des *gènes* a révolutionné la recherche médicale.
+  Die Sequenzierung von *Genen* hat die medizinische Forschung revolutioniert.
+
+  Certains *gènes* peuvent être activés ou désactivés en fonction de l'environnement.
+  Bestimmte *Gene* können je nach Umweltbedingungen an- oder abgeschaltet werden.
+
+  Les *gènes* jouent un rôle crucial dans le développement embryonnaire.
+  *Gene* spielen eine entscheidende Rolle in der embryonalen Entwicklung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

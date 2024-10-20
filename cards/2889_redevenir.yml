@@ -13,17 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je vais redevenir célibataire.
-  Ich werde wieder Single sein.
+  Je vais *redevenir* célibataire.
+  Ich werde wieder *Single* werden.
 
-  Je veux redevenir ce que j’étais avant.
-  Ich möchte wieder werden, was ich früher war.
+  Après la thérapie, il est *redevenu* lui-même.
+  Nach der Therapie ist er wieder *er selbst geworden*.
 
-  L'entreprise, après des années de difficultés, a réussi à redevenir rentable.
-  Das Unternehmen, das jahrelang mit Schwierigkeiten zu kämpfen hatte, hat es geschafft, sich wieder zu rentieren.
+  L'entreprise a *redevenu* rentable grâce à une restructuration.
+  Das Unternehmen hat sich dank einer Umstrukturierung wieder *rentiert*.
 
-  Après un séjour à l'hôpital, elle est redevenue elle-même.
-  Nach ihrem Krankenhausaufenthalt ist sie wieder die Alte.
+  Elle *redevint* sérieuse dès que le professeur entra dans la salle.
+  Sie wurde wieder *ernst*, sobald der Lehrer den Raum betrat.
+
+  Nous sommes *redevenus* des amis comme avant.
+  Wir sind wieder *zu* Freunden *geworden* wie früher.
+
+  Le ciel *redevient* bleu après la pluie.
+  Der Himmel *wird* nach dem Regen wieder blau.
+
+  Les rues *redeviendront* animées une fois le confinement levé.
+  Die Straßen *werden* wieder belebt *werden*, sobald der Lockdown aufgehoben ist.
+
+  J'espère que tu *redeviendras* bientôt l'étudiant brillant que tu étais.
+  Ich hoffe, du *wirst* bald wieder der brillante Student *werden*, der du warst.
+
+  La ville *redevient* calme après le départ des touristes.
+  Die Stadt *wird* nach der Abreise der Touristen wieder ruhig.
+
+  Avec le temps, leur relation *redeviendra* normale.
+  Mit der Zeit *wird* ihre Beziehung wieder normal *werden*.
+
+  L'économie du pays *redevient* peu à peu stable.
+  Die Wirtschaft des Landes *wird* nach und nach wieder stabil.
+
+  Les arbres *redeviendront* verts au printemps.
+  Die Bäume *werden* im Frühling wieder grün *werden*.
+
+  Après son accident, il a dû apprendre à *redevenir* autonome.
+  Nach seinem Unfall musste er lernen, wieder selbstständig *zu werden*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

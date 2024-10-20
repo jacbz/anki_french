@@ -9,24 +9,75 @@ Femininum / Plural: ''
 IPA: \mɛ̃.tjɛ̃\
 Definition: Haltung
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Le maintien de la paix ne se limite plus.\nDie Friedenssicherung ist\
-  \ nicht mehr begrenzt.\n\nIl a un très bon maintien.\nEr hat eine sehr gute Haltung.\n\
-  \nLe gouvernement a annoncé une série de mesures pour assurer le maintien des droits\
-  \ acquis des travailleurs.\nDie Regierung hat eine Reihe von Maßnahmen angekündigt,\
-  \ um die Wahrung wohlerworbener Rechte von Arbeitnehmern zu gewährleisten.\n\nLe\
-  \ maintien d'une faible inflation est un objectif prioritaire pour les banques centrales.\n\
-  Die anhaltend niedrige Inflation ist ein wichtiges Ziel für die Zentralbanken.\n\
-  \nLe maintien d'un privilège fiscal pour les entreprises permet de stimuler l'investissement.\n\
-  Die Steuervorteilswahrung für Unternehmen dient der Förderung von Investitionen.\n\
-  \nLe maintien de l'emploi signifie que l'employeur attribue provisoirement des tâches\
-  \ de travail à l'employé jusqu'à la fin du processus et qu'il le paie pour cela.\n\
-  Weiterbeschäftigung heißt, dass der Arbeitgeber dem Arbeitnehmer vorläufig bis zum\
-  \ Abschluss des Prozesses Arbeitsaufgaben zuweist und ihn dafür auch bezahlt. \n\
-  \nLe gouvernement a mis en place une mesure de maintien de l'emploi pour les travailleurs\
-  \ âgés.\nDie Regierung hat eine beschäftigungssichernde Maßnahme für ältere Arbeitnehmer\
-  \ eingeführt.\n\nLe maintien du salaire en période de maladie est une protection\
-  \ sociale importante.\nLohnfortzahlung im Krankheitsfall ist ein wichtiger sozialer\
-  \ Schutz."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Le *maintien* de la paix ne se limite plus aux interventions militaires.
+  Die Friedens*wahrung* beschränkt sich nicht mehr auf militärische Interventionen.
+
+  Les manifestants ont appelé au *maintien* des acquis sociaux.
+  Die Demonstranten forderten die *Beibehaltung* der sozialen Errungenschaften.
+
+  L'entreprise a mis en place des mesures de *maintien* dans l'emploi.
+  Das Unternehmen hat Maßnahmen zur *Weiterbeschäftigung* eingeführt.
+
+  Le gouvernement a annoncé le *maintien* des subventions pour l'année prochaine.
+  Die Regierung hat die *Fortführung* der Subventionen für das nächste Jahr angekündigt.
+
+  Son *maintien* droit et sa démarche assurée impressionnaient tout le monde.
+  Seine aufrechte *Haltung* und sein sicherer Gang beeindruckten alle.
+
+  La nouvelle loi vise à assurer le *maintien* des droits acquis des travailleurs.
+  Das neue Gesetz zielt darauf ab, die *Wahrung* der erworbenen Rechte der Arbeitnehmer sicherzustellen.
+
+  Le *maintien* d'un faible taux d'inflation est crucial pour l'économie.
+  Die *Aufrechterhaltung* einer niedrigen Inflationsrate ist entscheidend für die Wirtschaft.
+
+  Les écologistes luttent pour le *maintien* de la biodiversité.
+  Die Umweltschützer kämpfen für den *Erhalt* der Artenvielfalt.
+
+  Ce soutien-gorge offre un excellent *maintien* pour les activités sportives.
+  Dieser BH bietet einen ausgezeichneten *Halt* für sportliche Aktivitäten.
+
+  Le juge a ordonné le *maintien* en détention du suspect.
+  Der Richter ordnete die *Aufrechterhaltung* der Untersuchungshaft für den Verdächtigen an.
+
+  Les forces de l'ordre ont assuré le *maintien* de la sécurité pendant l'événement.
+  Die Sicherheitskräfte gewährleisteten die *Aufrechterhaltung* der Sicherheit während der Veranstaltung.
+
+  La direction a décidé le *maintien* du directeur à son poste malgré les critiques.
+  Die Geschäftsführung hat beschlossen, den Direktor trotz Kritik in seiner Position zu *belassen*.
+
+  Le *maintien* des traditions locales est important pour l'identité culturelle.
+  Die *Bewahrung* lokaler Traditionen ist wichtig für die kulturelle Identität.
+
+  Les négociations ont abouti au *maintien* des avantages fiscaux pour les entreprises.
+  Die Verhandlungen führten zur *Beibehaltung* der Steuervorteile für Unternehmen.
+
+  Son *maintien* élégant lui a valu de nombreux compliments lors de la soirée.
+  Ihre elegante *Haltung* brachte ihr viele Komplimente während des Abends ein.
+
+  Le syndicat se bat pour le *maintien* des emplois dans l'usine menacée de fermeture.
+  Die Gewerkschaft kämpft für den *Erhalt* der Arbeitsplätze in der von Schließung bedrohten Fabrik.
+
+  Le *maintien* à domicile des personnes âgées est encouragé par les autorités.
+  Der *Verbleib* älterer Menschen in ihrem Zuhause wird von den Behörden gefördert.
+
+  La nouvelle politique vise au *maintien* de la qualité de l'eau potable.
+  Die neue Politik zielt auf die *Erhaltung* der Trinkwasserqualität ab.
+
+  Le *maintien* dans les lieux a été accordé au locataire malgré l'expiration du bail.
+  Dem Mieter wurde trotz Ablauf des Mietvertrags das *Wohnrecht* zugestanden.
+
+  Les cours de *maintien* étaient autrefois obligatoires dans les écoles pour jeunes filles.
+  *Haltungs*unterricht war früher in Mädchenschulen obligatorisch.
+
+  Le *maintien* d'un climat de confiance est essentiel pour la réussite du projet.
+  Die *Aufrechterhaltung* eines Vertrauensklimas ist entscheidend für den Erfolg des Projekts.
+
+  La commission a recommandé le *maintien* des mesures sanitaires actuelles.
+  Die Kommission hat die *Beibehaltung* der aktuellen Gesundheitsmaßnahmen empfohlen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

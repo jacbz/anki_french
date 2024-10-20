@@ -13,14 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous venons célébrer le mariage de mon frère.
-  Wir sind hier, um die Hochzeit meines Bruders zu feiern.
+  Nous venons *célébrer* le mariage de mon frère.
+  Wir kommen, um die Hochzeit meines Bruders zu *feiern*.
 
-  Nous allons célébrer notre anniversaire de mariage.
-  Wir werden unseren Hochzeitstag feiern.
+  Le prêtre *célébrera* la messe de minuit à Noël.
+  Der Priester wird die Mitternachtsmesse an Weihnachten *abhalten*.
 
-  Le prêtre a célébré un office solennel pour le centenaire de l'église.
-  Der Priester hat eine feierliche Messe zum hundertjährigen Bestehen der Kirche gehalten.
+  Toute la ville *célèbre* la victoire de l'équipe locale.
+  Die ganze Stadt *feiert* den Sieg der lokalen Mannschaft.
+
+  Les critiques *célèbrent* le talent du jeune artiste dans leurs articles.
+  Die Kritiker *preisen* das Talent des jungen Künstlers in ihren Artikeln.
+
+  "On va *célébrer* ça avec un bon repas !" s'est-il exclamé après sa promotion.
+  "Das werden wir mit einem guten Essen *feiern*!" rief er nach seiner Beförderung aus.
+
+  Le pays *célébrera* demain le centenaire de son indépendance.
+  Das Land wird morgen den hundertsten Jahrestag seiner Unabhängigkeit *begehen*.
+
+  Les poètes ont souvent *célébré* la beauté de la nature dans leurs œuvres.
+  Dichter haben oft die Schönheit der Natur in ihren Werken *gepriesen*.
+
+  Chaque année, nous *célébrons* l'anniversaire de la fondation de notre entreprise.
+  Jedes Jahr *feiern* wir den Jahrestag der Gründung unseres Unternehmens.
+
+  Le maire *célébrera* les noces d'or de ses parents ce week-end.
+  Der Bürgermeister wird dieses Wochenende die goldene Hochzeit seiner Eltern *feiern*.
+
+  Les fidèles se sont réunis pour *célébrer* Pâques à l'église.
+  Die Gläubigen haben sich versammelt, um Ostern in der Kirche zu *feiern*.
+
+  L'académie a décidé de *célébrer* la mémoire de ce grand écrivain par une exposition.
+  Die Akademie hat beschlossen, das Andenken dieses großen Schriftstellers mit einer Ausstellung zu *würdigen*.
+
+  Nous allons *célébrer* nos fiançailles avec nos amis proches.
+  Wir werden unsere Verlobung mit unseren engen Freunden *feiern*.
+
+  Le journal local *célèbre* les exploits des athlètes olympiques de la région.
+  Die Lokalzeitung *rühmt* die Leistungen der olympischen Athleten aus der Region.
+
+  Les historiens *célèbrent* les grandes actions des héros nationaux dans leurs livres.
+  Die Historiker *preisen* die großen Taten der nationalen Helden in ihren Büchern.
+
+  La communauté scientifique *célèbre* les avancées médicales récentes.
+  Die wissenschaftliche Gemeinschaft *feiert* die jüngsten medizinischen Fortschritte.
+
+  Les étudiants ont *célébré* la fin des examens par une grande fête.
+  Die Studenten haben das Ende der Prüfungen mit einer großen Party *gefeiert*.
+
+  Le festival annuel *célèbre* la diversité culturelle de notre ville.
+  Das jährliche Festival *feiert* die kulturelle Vielfalt unserer Stadt.
+
+  L'entreprise *célébrera* son cinquantième anniversaire l'année prochaine.
+  Das Unternehmen wird nächstes Jahr sein fünfzigjähriges Jubiläum *feiern*.
+
+  Les médias *célèbrent* les mérites du nouveau lauréat du prix Nobel.
+  Die Medien *preisen* die Verdienste des neuen Nobelpreisträgers.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

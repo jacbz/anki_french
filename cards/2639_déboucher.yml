@@ -13,23 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il déboucha la bouteille et nous servit.
-  Er entkorkte die Flasche und schenkte uns ein.
+  Il *déboucha* la bouteille et nous servit.
+  Er *entkorkte* die Flasche und schenkte uns ein.
 
-  Je vais déboucher la bouteille.
-  Ich werde die Flasche öffnen.
+  Pouvez-vous *déboucher* le lavabo ? Il est complètement bouché.
+  Können Sie das Waschbecken *freimachen*? Es ist völlig verstopft.
 
-  Le plombier est arrivé et a déboucher le lavabo de la cuisine.
-  Der Klempner kam und hat das Waschbecken in der Küche frei gemacht.
+  Le cortège *déboucha* sur la place principale de la ville.
+  Der Umzug *mündete* auf dem Hauptplatz der Stadt.
 
-  Le chemin de terre débouche dans une rue pavée.
-  Der Feldweg mündet in eine gepflasterte Straße.
+  J'ai utilisé un produit pour *déboucher* mon nez.
+  Ich habe ein Mittel benutzt, um meine Nase *frei zu bekommen*.
 
-  Ce couloir débouche sur le jardin.
-  Dieser Gang führt zum Garten.
+  Cette conversation ne *débouche* sur rien de concret.
+  Dieses Gespräch *führt* zu nichts Konkretem.
 
-  Mon nez est débouché, je peux enfin respirer !
-  Meine Nase ist wieder frei, ich kann endlich wieder atmen!
+  Le plombier a réussi à *déboucher* le tuyau d'évacuation.
+  Dem Klempner ist es gelungen, das Abflussrohr *frei zu machen*.
+
+  La rivière *débouche* dans l'océan à cet endroit.
+  Der Fluss *mündet* an dieser Stelle in den Ozean.
+
+  "*Débouche* cette bouteille de champagne, on va fêter ça !"
+  "*Mach* diese Flasche Champagner *auf*, wir werden das feiern!"
+
+  Le sentier étroit *débouche* sur une magnifique clairière.
+  Der schmale Pfad *führt* zu einer wunderschönen Lichtung.
+
+  Il faut *déboucher* le tube de dentifrice avant de l'utiliser.
+  Man muss die Zahnpastatube *aufschrauben*, bevor man sie benutzt.
+
+  Les manifestants *débouchèrent* soudainement de la rue adjacente.
+  Die Demonstranten *kamen* plötzlich aus der Nebenstraße *hervor*.
+
+  Cette formation *débouche* sur un emploi bien rémunéré.
+  Diese Ausbildung *führt* zu einem gut bezahlten Job.
+
+  Le mécanicien a dû *déboucher* le carburateur de la voiture.
+  Der Mechaniker musste den Vergaser des Autos *frei machen*.
+
+  La ruelle sombre *débouche* sur une place animée.
+  Die dunkle Gasse *mündet* in einen belebten Platz.
+
+  J'ai essayé de *déboucher* mes oreilles après le vol.
+  Ich habe versucht, meine Ohren nach dem Flug *frei zu bekommen*.
+
+  Le camion *déboucha* brusquement du virage.
+  Der Lastwagen *kam* plötzlich um die Kurve *geschossen*.
+
+  Cette discussion philosophique *débouche* sur des questions existentielles.
+  Diese philosophische Diskussion *führt* zu existenziellen Fragen.
+
+  Il faut *déboucher* la baignoire pour que l'eau s'écoule correctement.
+  Man muss die Badewanne *frei machen*, damit das Wasser richtig abfließen kann.
+
+  Le tunnel *débouche* directement dans la vallée.
+  Der Tunnel *mündet* direkt ins Tal.
+
+  J'ai dû *déboucher* le pommeau de douche qui était entartré.
+  Ich musste den verkalkten Duschkopf *frei machen*.
+
+  Les négociations ont finalement *débouché* sur un accord.
+  Die Verhandlungen haben schließlich zu einer Einigung *geführt*.
+
+  "*Débouche*-moi ce vin, s'il te plaît, pendant que je prépare le repas."
+  "*Mach* bitte den Wein *auf*, während ich das Essen zubereite."
+
+  Le chemin escarpé *débouche* sur un panorama spectaculaire.
+  Der steile Weg *führt* zu einem spektakulären Panorama.
+
+  Les secouristes ont dû *déboucher* les voies respiratoires de la victime.
+  Die Rettungskräfte mussten die Atemwege des Opfers *frei machen*.
+
+  Cette impasse ne *débouche* nulle part, faisons demi-tour.
+  Diese Sackgasse *führt* nirgendwohin, lass uns umkehren.
+
+  Le ruisseau *débouche* dans le lac après avoir traversé la forêt.
+  Der Bach *mündet* in den See, nachdem er den Wald durchquert hat.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

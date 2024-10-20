@@ -13,26 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous ne sommes pas strictement obligés.
-  Wir sind nicht streng verpflichtet.
+  Nous ne sommes pas *strictement* obligés.
+  Wir sind nicht *streng* verpflichtet.
 
-  Il faut suivre les règles strictement.
-  Die Regeln müssen strikt befolgt werden.
+  Il est *strictement* interdit de fumer dans ce bâtiment.
+  Es ist *streng* verboten, in diesem Gebäude zu rauchen.
 
-  Le port du téléphone portable est strictement interdit dans l'avion.
-  Das Benutzen von Handys ist im Flugzeug streng verboten.
+  Cette information est *strictement* confidentielle.
+  Diese Information ist *streng* vertraulich.
 
-  Strictement parlant, il n'y a pas de différence entre les deux.
-  Genau genommen gibt es keinen Unterschied zwischen den beiden.
+  *Strictement* parlant, ce n'est pas tout à fait correct.
+  *Genau* genommen ist das nicht ganz richtig.
 
-  Le maître de cérémonie était strictement vêtu en smoking noir.
-  Der Zeremonienmeister war streng in einem schwarzen Smoking gekleidet.
+  Elle était *strictement* vêtue pour l'entretien d'embauche.
+  Sie war für das Vorstellungsgespräch *streng* gekleidet.
 
-  Ce gâteau est strictement pareil que celui que j'ai fait hier.
-  Dieser Kuchen ist genau das Gleiche wie der, den ich gestern gebacken habe.
+  Cette affaire est *strictement* personnelle.
+  Diese Angelegenheit ist *streng* persönlich.
 
-  Les informations contenues dans ce document sont strictement confidentielles.
-  Die Informationen in diesem Dokument sind streng vertraulich.
+  Nous devons observer *strictement* le Code de la route.
+  Wir müssen die Straßenverkehrsordnung *strikt* einhalten.
+
+  Ce rapport est *strictement* confidentiel.
+  Dieser Bericht ist *streng* vertraulich.
+
+  Il remplit *strictement* ses obligations professionnelles.
+  Er erfüllt seine beruflichen Verpflichtungen *strikt*.
+
+  La loi doit être appliquée *strictement*.
+  Das Gesetz muss *strikt* angewendet werden.
+
+  Le cumul des mandats est *strictement* réglementé en France.
+  Die Ämterhäufung ist in Frankreich *streng* reglementiert.
+
+  Cela revient *strictement* au même.
+  Das läuft *genau* auf das Gleiche hinaus.
+
+  Un nombre *strictement* positif est supérieur à zéro.
+  Eine *streng* positive Zahl ist größer als null.
+
+  À *strictement* parler, ce n'est pas la bonne terminologie.
+  *Streng* genommen ist das nicht die richtige Terminologie.
+
+  Les règles du jeu doivent être *strictement* respectées.
+  Die Spielregeln müssen *strikt* eingehalten werden.
+
+  Cette diète est *strictement* végétalienne.
+  Diese Diät ist *streng* vegan.
+
+  "Je suis *strictement* opposé à cette proposition," a-t-il déclaré.
+  "Ich bin *strikt* gegen diesen Vorschlag", erklärte er.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

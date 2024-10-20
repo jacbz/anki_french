@@ -13,23 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Trois bombes ont successivement explosé mercredi matin.
-  Am Mittwochmorgen explodierten nacheinander drei Bomben.
+  Trois bombes ont successivement *explosé* mercredi matin.
+  Drei Bomben sind am Mittwochmorgen nacheinander *explodiert*.
 
-  La bombe va exploser.
-  Die Bombe wird explodieren.
+  La grenade a *explosé* près du bâtiment, causant des dégâts importants.
+  Die Granate ist in der Nähe des Gebäudes *explodiert* und hat erheblichen Schaden verursacht.
 
-  Ça va exploser !
-  Es wird explodieren!
+  Le pneu de ma voiture a soudainement *explosé* sur l'autoroute.
+  Der Reifen meines Autos ist plötzlich auf der Autobahn *geplatzt*.
 
-  Le terroriste a voulu faire exploser la bombe dans le centre-ville.
-  Der Terrorist wollte die Bombe im Stadtzentrum zur Explosion bringen.
+  Les manifestants ont fait *exploser* des pétards devant le parlement.
+  Die Demonstranten haben vor dem Parlament Knallkörper *gezündet*.
 
-  Il a laissé sa colère exploser devant tout le monde.
-  Er hat seiner Wut vor aller Augen freien Lauf gelassen.
+  La chaudière du sous-sol a *explosé* à cause de la pression excessive.
+  Der Heizkessel im Keller ist wegen des übermäßigen Drucks *geplatzt*.
 
-  La colère explosa en lui lorsqu'il apprit la nouvelle.
-  Die Wut brach aus ihm hervor, als er die Nachricht erfuhr.
+  "J'ai *explosé* mon téléphone en le faisant tomber dans les escaliers."
+  "Ich habe mein Handy *kaputtgemacht*, als ich es die Treppe hinunterfallen ließ."
+
+  Sa colère a finalement *explosé* après des mois de frustration.
+  Seine Wut ist nach Monaten der Frustration endlich *explodiert*.
+
+  Les prix de l'immobilier ont *explosé* dans les grandes villes ces dernières années.
+  Die Immobilienpreise sind in den Großstädten in den letzten Jahren *explodiert*.
+
+  Le coureur a *explosé* son record personnel lors du marathon.
+  Der Läufer hat seinen persönlichen Rekord beim Marathon *pulverisiert*.
+
+  Les applaudissements ont *explosé* dans la salle quand l'artiste est monté sur scène.
+  Der Applaus *brach* im Saal *aus*, als der Künstler die Bühne betrat.
+
+  Le nombre de cas de grippe a *explosé* cet hiver.
+  Die Zahl der Grippefälle ist diesen Winter *in die Höhe geschnellt*.
+
+  "Si tu continues à me provoquer, je vais *exploser* !"
+  "Wenn du mich weiter provozierst, *gehe* ich *in die Luft*!"
+
+  Les feux d'artifice ont *explosé* dans le ciel nocturne, illuminant la ville.
+  Das Feuerwerk *explodierte* am Nachthimmel und erleuchtete die Stadt.
+
+  Le ballon a *explosé* quand l'enfant l'a trop gonflé.
+  Der Ballon ist *geplatzt*, als das Kind ihn zu stark aufgeblasen hat.
+
+  La joie a *explosé* dans le stade quand l'équipe a marqué le but de la victoire.
+  Die Freude *brach* im Stadion *aus*, als die Mannschaft das Siegtor erzielte.
+
+  Les ventes du nouveau produit ont littéralement *explosé* dès son lancement.
+  Die Verkaufszahlen des neuen Produkts sind bei seiner Einführung regelrecht *explodiert*.
+
+  Le volcan dormant a soudainement *explosé*, projetant des cendres dans l'atmosphère.
+  Der schlafende Vulkan ist plötzlich *ausgebrochen* und hat Asche in die Atmosphäre geschleudert.
+
+  La bulle spéculative a fini par *exploser*, entraînant une crise économique.
+  Die spekulative Blase ist schließlich *geplatzt* und hat eine Wirtschaftskrise ausgelöst.
+
+  Le champagne a *explosé* quand nous avons ouvert la bouteille pour célébrer.
+  Der Champagner ist *explodiert*, als wir die Flasche zum Feiern geöffnet haben.
+
+  Les tensions entre les deux pays ont *explosé*, menant à une crise diplomatique.
+  Die Spannungen zwischen den beiden Ländern sind *eskaliert* und haben zu einer diplomatischen Krise geführt.
+
+  Le moteur de la voiture de course a *explosé* en pleine compétition.
+  Der Motor des Rennwagens ist mitten im Wettkampf *explodiert*.
+
+  La population de lapins a *explosé* dans la région, causant des dégâts aux cultures.
+  Die Kaninchenpopulation in der Region ist *explodiert* und hat Schäden an den Kulturen verursacht.
+
+  Le comédien a fait *exploser* de rire tout le public avec sa blague.
+  Der Komiker hat das ganze Publikum mit seinem Witz zum *Bersten* gebracht.
+
+  Les négociations ont *explosé* quand les deux parties n'ont pas pu trouver un accord.
+  Die Verhandlungen sind *gescheitert*, als die beiden Parteien keine Einigung erzielen konnten.
+
+  "J'ai complètement *explosé* mes objectifs de vente ce mois-ci !"
+  "Ich habe meine Verkaufsziele in diesem Monat völlig *übertroffen*!"
+
+  Le ballon-sonde météorologique a *explosé* à haute altitude.
+  Der Wetterballon ist in großer Höhe *geplatzt*.
+
+  La bombe a *explosé* à distance grâce à un détonateur télécommandé.
+  Die Bombe wurde aus der Ferne durch einen ferngesteuerten Zünder zur *Explosion gebracht*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
