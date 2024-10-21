@@ -13,20 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ça n’appartient pas au syndicat.
-  Das gehört nicht der Gewerkschaft.
+  Ça n'appartient pas au *syndicat*.
+  Das gehört nicht der *Gewerkschaft*.
 
-  Le syndicat a organisé une grève.
-  Die Gewerkschaft hat einen Streik organisiert.
+  Le *syndicat* des enseignants a appelé à une grève nationale.
+  Die Lehrer*gewerkschaft* hat zu einem landesweiten Streik aufgerufen.
 
-  La grève a été déclenchée par le syndicat d'exploitation minière.
-  Der Streik wurde von der bergrechtlichen Gewerkschaft ausgerufen.
+  Elle a décidé d'adhérer au *syndicat* pour défendre ses droits.
+  Sie hat beschlossen, der *Gewerkschaft* beizutreten, um ihre Rechte zu verteidigen.
 
-  Le syndicat patronal a proposé un nouveau contrat de travail.
-  Der Arbeitgeberverband hat einen neuen Arbeitsvertrag vorgeschlagen.
+  Le *syndicat* patronal a rejeté la proposition des employés.
+  Der *Arbeitgeberverband* hat den Vorschlag der Angestellten abgelehnt.
 
-  Le syndicat financier a investi dans la nouvelle entreprise.
-  Das Finanzkonsortium hat in das neue Unternehmen investiert.
+  Un *syndicat* financier a été formé pour gérer cette grande fusion.
+  Ein *Finanzkonsortium* wurde gebildet, um diese große Fusion zu managen.
+
+  Les négociations entre la direction et les *syndicats* ont duré toute la nuit.
+  Die Verhandlungen zwischen der Geschäftsleitung und den *Gewerkschaften* dauerten die ganze Nacht.
+
+  Le *syndicat* d'initiative propose des visites guidées de la ville.
+  Die örtliche *Touristeninformation* bietet Stadtführungen an.
+
+  "Je ne fais pas confiance aux *syndicats*," a-t-il déclaré.
+  "Ich vertraue den *Gewerkschaften* nicht", erklärte er.
+
+  Le *syndicat* des copropriétaires a voté pour rénover la façade de l'immeuble.
+  Die *Eigentümergemeinschaft* hat für die Renovierung der Gebäudefassade gestimmt.
+
+  Les *syndicats* ouvriers ont organisé une manifestation pacifique.
+  Die Arbeiter*gewerkschaften* haben eine friedliche Demonstration organisiert.
+
+  Le *Syndicat* National de l'Édition représente les intérêts des éditeurs français.
+  Der Nationale *Verband* des Verlagswesens vertritt die Interessen der französischen Verleger.
+
+  Les *syndicats* étudiants protestent contre la hausse des frais d'inscription.
+  Die Studenten*verbände* protestieren gegen die Erhöhung der Studiengebühren.
+
+  Le *syndicat* de communes a décidé de construire une nouvelle piscine intercommunale.
+  Der *Gemeindeverband* hat beschlossen, ein neues interkommunales Schwimmbad zu bauen.
+
+  Les *syndicats* autonomes ont refusé de participer à la grève générale.
+  Die unabhängigen *Gewerkschaften* haben sich geweigert, am Generalstreik teilzunehmen.
+
+  Le président du *syndicat* a été élu à une large majorité.
+  Der Vorsitzende der *Gewerkschaft* wurde mit großer Mehrheit gewählt.
+
+  Le *syndicat* mixte gère le parc naturel régional.
+  Der gemischte *Zweckverband* verwaltet den regionalen Naturpark.
+
+  Les *syndicats* de la fonction publique négocient une augmentation des salaires.
+  Die *Gewerkschaften* des öffentlichen Dienstes verhandeln über eine Gehaltserhöhung.
+
+  Le *syndicat* des producteurs de vin a organisé une dégustation.
+  Die *Vereinigung* der Weinproduzenten hat eine Verkostung organisiert.
+
+  Les *syndicats* représentatifs ont signé la nouvelle convention collective.
+  Die repräsentativen *Gewerkschaften* haben den neuen Tarifvertrag unterzeichnet.
+
+  Le *syndicat* des journalistes dénonce la concentration des médias.
+  Die Journalisten*gewerkschaft* prangert die Medienkonzentration an.
+
+  Historiquement, les "*syndicats* jaunes" s'opposaient aux grèves.
+  Historisch gesehen waren die "gelben *Gewerkschaften*" gegen Streiks.
+
+  Le *syndicat* des cadres a proposé un plan de réorganisation de l'entreprise.
+  Die *Gewerkschaft* der leitenden Angestellten hat einen Plan zur Umstrukturierung des Unternehmens vorgeschlagen.
+
+  Au XIXe siècle, les *syndicats* étaient interdits en France.
+  Im 19. Jahrhundert waren *Gewerkschaften* in Frankreich verboten.
+
+  Le *syndicat* d'exploitation minière a négocié de meilleures conditions de travail.
+  Die Berg*gewerkschaft* hat bessere Arbeitsbedingungen ausgehandelt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -9,26 +9,90 @@ Femininum / Plural: ''
 IPA: \sa.ʒɛs\
 Definition: Weisheit
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "J’ai profité énormément de sa sagesse.\nIch habe enorm von seiner\
-  \ Weisheit profitiert.\n\nLa sagesse est une qualité importante.\nWeisheit ist eine\
-  \ wichtige Eigenschaft.\n\nL'expression \"sagesse populaire\" désigne les proverbes\
-  \ et les dictons transmis de génération en génération, qui reflètent la sagesse\
-  \ accumulée par le peuple.\nVolksweisheit bezeichnet die Sprichwörter und Redensarten,\
-  \ die von Generation zu Generation weitergegeben werden und die vom Volk angesammelte\
-  \ Weisheit widerspiegeln.\n\nLa sagesse des nations se retrouve dans leurs traditions,\
-  \ leurs philosophies et leurs arts. \nVolksweisheit spiegelt sich in den Traditionen,\
-  \ Philosophien und Künsten der Völker wider.\n\nIl est important d'agir avec sagesse\
-  \ dans toutes les situations de la vie. \nEs ist wichtig, in allen Lebenslagen klug\
-  \ zu handeln. \n\nIl faut user de l'alcool avec sagesse pour éviter les problèmes\
-  \ de santé. \nAlkohol sollte in Maßen konsumiert werden, um gesundheitliche Probleme\
-  \ zu vermeiden.\n\nLe conseil de ton grand-père était plein de sagesse et m'a beaucoup\
-  \ aidé. \nDer Rat deines Großvaters war weise und hat mir sehr geholfen.\n\nLa sagesse\
-  \ de ta décision a été saluée par tous. \nDeine kluge Entscheidung wurde von allen\
-  \ gelobt.\n\nLa solution de la sagesse est souvent la plus simple. \nDie vernünftige\
-  \ Lösung ist oft die einfachste. \n\nLa voie de la sagesse mène à la paix et au\
-  \ bonheur.\nDer vernünftige Weg führt zu Frieden und Glück.\n\nIl a eu la sagesse\
-  \ de ne pas se laisser emporter par la colère.\nEr war so klug und hat sich nicht\
-  \ von seinem Zorn leiten lassen."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  J'ai profité énormément de sa *sagesse*.
+  Ich habe sehr von seiner *Weisheit* profitiert.
+
+  La *sagesse* populaire dit qu'il ne faut pas mettre tous ses œufs dans le même panier.
+  Die Volks*weisheit* besagt, dass man nicht alle Eier in einen Korb legen sollte.
+
+  Il faut agir avec *sagesse* dans cette situation délicate.
+  In dieser heiklen Situation müssen wir mit *Bedacht* handeln.
+
+  Les parents doivent user de leur autorité avec *sagesse*.
+  Eltern sollten ihre Autorität *maßvoll* einsetzen.
+
+  Son conseil était plein de *sagesse*.
+  Sein Rat war voller *Weisheit*.
+
+  La *sagesse* de ta décision m'a impressionné.
+  Die *Klugheit* deiner Entscheidung hat mich beeindruckt.
+
+  Nous cherchons une solution de la *sagesse*.
+  Wir suchen nach einer *vernünftigen* Lösung.
+
+  La voie de la *sagesse* serait de négocier plutôt que de s'affronter.
+  Der *weise* Weg wäre es, zu verhandeln, anstatt zu konfrontieren.
+
+  Elle a eu la *sagesse* d'attendre le bon moment.
+  Sie hatte die *Klugheit*, den richtigen Moment abzuwarten.
+
+  Les enfants ont fait preuve d'une grande *sagesse* pendant la réunion.
+  Die Kinder haben während des Treffens große *Artigkeit* bewiesen.
+
+  La jeune fille était connue pour sa *sagesse* et sa modestie.
+  Das junge Mädchen war für seine *Sittsamkeit* und Bescheidenheit bekannt.
+
+  Sa tenue reflétait une *sagesse* et une simplicité admirables.
+  Ihre Kleidung spiegelte bewundernswerte *Schlichtheit* und Bescheidenheit wider.
+
+  La *sagesse* du législateur se reflète dans cette nouvelle loi.
+  Die *Weisheit* des Gesetzgebers spiegelt sich in diesem neuen Gesetz wider.
+
+  "Mieux vaut prévenir que guérir" est un exemple de la *sagesse* des nations.
+  "Vorbeugen ist besser als heilen" ist ein Beispiel für die *Weisheit* der Völker.
+
+  Avoir la *sagesse* d'attendre est parfois la meilleure stratégie.
+  Die *Klugheit* zu haben, abzuwarten, ist manchmal die beste Strategie.
+
+  Il faut écouter la voix de la *sagesse* dans les moments difficiles.
+  In schwierigen Zeiten sollte man auf die Stimme der *Vernunft* hören.
+
+  La *sagesse* orientale enseigne l'importance de l'équilibre intérieur.
+  Die orientalische *Weisheit* lehrt die Bedeutung des inneren Gleichgewichts.
+
+  Il a tranché le conflit avec sa *sagesse* habituelle.
+  Er hat den Konflikt mit seiner gewohnten *Weisheit* gelöst.
+
+  La *sagesse* nous dicte de modérer nos désirs et nos plaisirs.
+  Die *Weisheit* gebietet uns, unsere Wünsche und Vergnügungen zu mäßigen.
+
+  Les enfants ont été d'une *sagesse* exemplaire pendant le voyage.
+  Die Kinder waren während der Reise von vorbildlicher *Bravheit*.
+
+  Le projet d'urbanisme a été critiqué pour sa trop grande *sagesse*.
+  Der Stadtplanungsentwurf wurde für seine zu große *Konventionalität* kritisiert.
+
+  En théologie, la *sagesse* est considérée comme un don divin.
+  In der Theologie wird *Weisheit* als göttliche Gabe betrachtet.
+
+  Moïse s'est instruit dans la *sagesse* des Égyptiens.
+  Moses wurde in der *Weisheit* der Ägypter unterwiesen.
+
+  La *sagesse* de Salomon est devenue légendaire.
+  Die *Weisheit* Salomos ist legendär geworden.
+
+  "La crainte de Dieu est le commencement de la *sagesse*."
+  "Die Furcht des Herrn ist der Anfang der *Weisheit*."
+
+  Il a gouverné le pays avec *sagesse* et compassion.
+  Er regierte das Land mit *Weisheit* und Mitgefühl.
+
+  Ses dents de *sagesse* ont poussé tardivement.
+  Seine *Weisheits*zähne sind spät durchgebrochen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

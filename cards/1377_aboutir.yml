@@ -13,20 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce projet n’a pourtant pas abouti.
-  Dieses Vorhaben blieb jedoch erfolglos.
+  Ce projet n'a pourtant pas *abouti*.
+  Dieses Projekt wurde jedoch nicht erfolgreich *abgeschlossen*.
 
-  Ce projet doit aboutir à une solution.
-  Dieses Projekt muss zu einer Lösung führen.
+  La rue principale *aboutit* à la place du marché.
+  Die Hauptstraße *führt* zum Marktplatz.
 
-  Leur plan n'a pas abouti, malgré tous leurs efforts.
-  Ihr Plan ist trotz aller Bemühungen gescheitert.
+  Leurs efforts ont finalement *abouti* à un accord.
+  Ihre Bemühungen haben schließlich zu einer Einigung *geführt*.
 
-  La discussion a abouti à un accord satisfaisant pour tous.
-  Die Diskussion führte zu einer für alle zufriedenstellenden Einigung.
+  Le chemin *aboutit* dans une clairière au milieu de la forêt.
+  Der Weg *endet* auf einer Lichtung mitten im Wald.
 
-  Cette rue aboutit dans une autre rue, plus large et plus animée.
-  Diese Straße mündet in eine andere Straße, breiter und belebter.
+  Malgré des années de recherche, l'équipe n'a pas *abouti* à une découverte majeure.
+  Trotz jahrelanger Forschung hat das Team keine bahnbrechende Entdeckung *erzielt*.
+
+  Les négociations ont *abouti* à la signature d'un traité de paix.
+  Die Verhandlungen haben zum Abschluss eines Friedensvertrags *geführt*.
+
+  Cette démarche administrative n'*aboutira* probablement à rien.
+  Dieser Verwaltungsvorgang wird wahrscheinlich zu nichts *führen*.
+
+  Le couloir *aboutit* à une petite pièce sombre.
+  Der Flur *mündet* in einen kleinen, dunklen Raum.
+
+  Nous espérons que nos efforts *aboutiront* à des résultats concrets.
+  Wir hoffen, dass unsere Bemühungen zu konkreten Ergebnissen *führen* werden.
+
+  La rivière *aboutit* dans un grand lac.
+  Der Fluss *mündet* in einen großen See.
+
+  Son travail acharné a finalement *abouti* à une promotion.
+  Seine harte Arbeit hat schließlich zu einer Beförderung *geführt*.
+
+  L'enquête policière a *abouti* à l'arrestation du suspect.
+  Die polizeilichen Ermittlungen haben zur Verhaftung des Verdächtigen *geführt*.
+
+  Toutes les pistes de l'enquête n'ont pas encore *abouti*.
+  Nicht alle Ermittlungsspuren haben bisher zu einem Ergebnis *geführt*.
+
+  Le sentier escarpé *aboutit* au sommet de la montagne.
+  Der steile Pfad *führt* zum Gipfel des Berges.
+
+  Leurs revendications ont finalement *abouti* à des changements concrets.
+  Ihre Forderungen haben schließlich zu konkreten Veränderungen *geführt*.
+
+  Ce long processus de paix a enfin *abouti*.
+  Dieser lange Friedensprozess ist endlich *erfolgreich abgeschlossen* worden.
+
+  L'escalier en colimaçon *aboutit* dans le grenier.
+  Die Wendeltreppe *führt* zum Dachboden.
+
+  Nous devons faire *aboutir* ce projet avant la fin de l'année.
+  Wir müssen dieses Projekt vor Jahresende zum *Abschluss bringen*.
+
+  Les pourparlers ont *abouti* à un compromis acceptable pour tous.
+  Die Gespräche haben zu einem für alle akzeptablen Kompromiss *geführt*.
+
+  Malheureusement, ses efforts n'ont pas *abouti* comme il l'espérait.
+  Leider haben seine Bemühungen nicht zu dem erhofften Ergebnis *geführt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

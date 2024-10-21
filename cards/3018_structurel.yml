@@ -13,14 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il y a des pressions structurelles dans le système de santé.
-  Es gibt strukturellen Druck im Gesundheitssystem.
+  Il y a des pressions *structurelles* dans le système de santé.
+  Es gibt *strukturelle* Belastungen im Gesundheitssystem.
 
-  Les réformes structurelles sont nécessaires.
-  Strukturelle Reformen sind notwendig.
+  Le chômage *structurel* reste un défi majeur pour l'économie.
+  Die *strukturelle* Arbeitslosigkeit bleibt eine große Herausforderung für die Wirtschaft.
 
-  Les gouvernements de nombreux pays s'engagent dans des réformes structurelles pour améliorer la compétitivité et la croissance économique.
-  Die Regierungen vieler Länder setzen sich für Strukturreformen ein, um die Wettbewerbsfähigkeit und das Wirtschaftswachstum zu verbessern.
+  La réforme *structurelle* de l'éducation vise à améliorer les résultats à long terme.
+  Die *Strukturreform* im Bildungswesen zielt darauf ab, die langfristigen Ergebnisse zu verbessern.
+
+  L'inflation *structurelle* peut avoir des effets durables sur l'économie.
+  Die *strukturelle* Inflation kann langanhaltende Auswirkungen auf die Wirtschaft haben.
+
+  Les changements *structurels* dans l'industrie ont conduit à de nouvelles opportunités d'emploi.
+  *Strukturelle* Veränderungen in der Industrie haben zu neuen Beschäftigungsmöglichkeiten geführt.
+
+  Une analyse *structurelle* de la phrase peut révéler sa complexité grammaticale.
+  Eine *strukturelle* Analyse des Satzes kann seine grammatikalische Komplexität offenbaren.
+
+  Le déséquilibre *structurel* entre l'offre et la demande persiste sur le marché du travail.
+  Das *strukturelle* Ungleichgewicht zwischen Angebot und Nachfrage auf dem Arbeitsmarkt hält an.
+
+  Les problèmes *structurels* de l'entreprise nécessitent une refonte complète de l'organisation.
+  Die *strukturellen* Probleme des Unternehmens erfordern eine komplette Umgestaltung der Organisation.
+
+  Une approche *structurelle* de la linguistique examine les relations entre les éléments de la langue.
+  Ein *struktureller* Ansatz in der Linguistik untersucht die Beziehungen zwischen den Elementen der Sprache.
+
+  Les défis *structurels* de l'économie ne peuvent être résolus par des mesures à court terme.
+  Die *strukturellen* Herausforderungen der Wirtschaft können nicht durch kurzfristige Maßnahmen gelöst werden.
+
+  La dette *structurelle* du pays limite sa capacité à investir dans les services publics.
+  Die *strukturelle* Verschuldung des Landes begrenzt seine Fähigkeit, in öffentliche Dienstleistungen zu investieren.
+
+  Une réforme *structurelle* du système fiscal pourrait stimuler la croissance économique.
+  Eine *strukturelle* Reform des Steuersystems könnte das Wirtschaftswachstum ankurbeln.
+
+  L'analyse *structurelle* du bâtiment a révélé des faiblesses dans sa conception.
+  Die *strukturelle* Analyse des Gebäudes hat Schwächen in seiner Konstruktion aufgedeckt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

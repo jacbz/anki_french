@@ -7,7 +7,7 @@ Wortart: vt
 Wort mit Artikel: dédier
 Femininum / Plural: ''
 IPA: \de.dje\
-Definition: widmen
+Definition: widmen, zueignen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -36,4 +36,32 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>consacrer</i>, <i>vouer</i> und <i>dédier</i></div>
+    <div class="section-content">
+      <p><span class="fr">Consacrer</span> (#750) bedeutet <span class="de">"widmen"</span> oder <span class="de">"weihen"</span>. Es impliziert oft eine feierliche oder offizielle Zuweisung von Zeit, Energie oder Ressourcen für einen bestimmten Zweck.</p>
+      <div class="examples">
+        <div class="fr">Il a consacré sa vie à la recherche scientifique.</div>
+        <div class="de spoiler">Er hat sein Leben der wissenschaftlichen Forschung gewidmet.</div>
+        <div class="fr">Cette église a été consacrée au 12ème siècle.</div>
+        <div class="de spoiler">Diese Kirche wurde im 12. Jahrhundert geweiht.</div>
+      </div>
+
+      <p><span class="fr">Vouer</span> (#2950) bedeutet <span class="de">"widmen"</span> oder <span class="de">"verschreiben"</span> im Sinne einer starken, oft emotionalen oder spirituellen Hingabe.</p>
+      <div class="examples">
+        <div class="fr">Elle s'est vouée à aider les plus démunis.</div>
+        <div class="de spoiler">Sie hat sich der Hilfe für die Bedürftigsten verschrieben.</div>
+        <div class="fr">Il voue un culte à cet artiste.</div>
+        <div class="de spoiler">Er verehrt diesen Künstler geradezu.</div>
+      </div>
+
+      <p><span class="fr">Dédier</span> (#4008) bedeutet <span class="de">"widmen"</span> oder <span class="de">"zueignen"</span>, oft im Zusammenhang mit kreativen Werken oder Ehrungen.</p>
+      <div class="examples">
+        <div class="fr">L'auteur a dédié son livre à sa femme.</div>
+        <div class="de spoiler">Der Autor hat sein Buch seiner Frau gewidmet.</div>
+        <div class="fr">Ce monument est dédié aux victimes de la guerre.</div>
+        <div class="de spoiler">Dieses Denkmal ist den Opfern des Krieges gewidmet.</div>
+      </div>
+    </div>
+  </div>

@@ -13,14 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le rapport de force est clairement déséquilibré.
-  Das Kräfteverhältnis ist eindeutig unausgewogen.
+  Le rapport de force est *clairement* déséquilibré.
+  Das Kräfteverhältnis ist *eindeutig* unausgewogen.
 
-  Il a clairement expliqué le problème.
-  Er hat das Problem klar erklärt.
+  Il faut *clairement* définir les objectifs du projet avant de commencer.
+  Die Projektziele müssen *klar* definiert werden, bevor wir anfangen.
 
-  Tu n'es clairement pas la bienvenue ici.
-  Du bist hier offensichtlich nicht willkommen.
+  Elle a *clairement* exprimé son désaccord lors de la réunion.
+  Sie hat in der Besprechung *deutlich* ihre Ablehnung zum Ausdruck gebracht.
+
+  Les instructions n'étaient pas *clairement* formulées, ce qui a conduit à des malentendus.
+  Die Anweisungen waren nicht *klar* formuliert, was zu Missverständnissen führte.
+
+  On peut voir *clairement* la lune ce soir, il n'y a aucun nuage.
+  Man kann den Mond heute Abend *deutlich* sehen, es gibt keine Wolken.
+
+  Le candidat a *clairement* expliqué son programme électoral.
+  Der Kandidat hat sein Wahlprogramm *klar* erläutert.
+
+  Les résultats de l'étude montrent *clairement* que le réchauffement climatique s'accélère.
+  Die Ergebnisse der Studie zeigen *eindeutig*, dass sich der Klimawandel beschleunigt.
+
+  Il faut parler *clairement* aux enfants pour qu'ils comprennent les règles.
+  Man muss mit Kindern *deutlich* sprechen, damit sie die Regeln verstehen.
+
+  La situation économique s'est *clairement* améliorée au cours des derniers mois.
+  Die wirtschaftliche Lage hat sich in den letzten Monaten *deutlich* verbessert.
+
+  Le professeur a demandé aux élèves d'écrire plus *clairement* leurs réponses.
+  Der Lehrer bat die Schüler, ihre Antworten *deutlicher* zu schreiben.
+
+  J'ai *clairement* entendu quelqu'un frapper à la porte.
+  Ich habe *deutlich* gehört, wie jemand an die Tür klopfte.
+
+  Le message était *clairement* affiché sur le panneau d'information.
+  Die Nachricht war *deutlich* auf der Informationstafel angezeigt.
+
+  "Je ne veux plus te voir", lui a-t-elle dit *clairement*.
+  "Ich will dich nicht mehr sehen", sagte sie ihm *unmissverständlich*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

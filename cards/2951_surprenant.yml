@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le contraire aurait été moins surprenant.
-  Das Gegenteil wäre weniger überraschend gewesen.
+  Le contraire aurait été moins *surprenant*.
+  Das Gegenteil wäre weniger *überraschend* gewesen.
 
-  C’est une nouvelle surprenante.
-  Das ist eine überraschende Nachricht.
+  La nouvelle de son départ a été *surprenante* pour toute l'équipe.
+  Die Nachricht von seinem Weggang war für das ganze Team *überraschend*.
+
+  Les résultats de cette expérience sont vraiment *surprenants*.
+  Die Ergebnisse dieses Experiments sind wirklich *erstaunlich*.
+
+  "C'est *surprenant* que tu sois déjà là !"
+  "Es ist *überraschend*, dass du schon hier bist!"
+
+  Elle a fait des progrès *surprenants* en seulement quelques semaines.
+  Sie hat in nur wenigen Wochen *erstaunliche* Fortschritte gemacht.
+
+  Le film avait une fin tout à fait *surprenante*.
+  Der Film hatte ein völlig *überraschendes* Ende.
+
+  Il est *surprenant* de voir à quel point la technologie a évolué.
+  Es ist *erstaunlich* zu sehen, wie sehr sich die Technologie entwickelt hat.
+
+  Cette décision *surprenante* a changé le cours de l'histoire.
+  Diese *überraschende* Entscheidung hat den Lauf der Geschichte verändert.
+
+  Le goût *surprenant* de ce plat m'a conquis.
+  Der *überraschende* Geschmack dieses Gerichts hat mich überzeugt.
+
+  Son comportement *surprenant* a attiré l'attention de tous.
+  Sein *überraschendes* Verhalten zog die Aufmerksamkeit aller auf sich.
+
+  Les effets *surprenants* de ce médicament ont été largement étudiés.
+  Die *erstaunlichen* Wirkungen dieses Medikaments wurden ausführlich untersucht.
+
+  C'est un orateur vraiment *surprenant*, il captive toujours son auditoire.
+  Er ist ein wirklich *erstaunlicher* Redner, er fesselt immer sein Publikum.
+
+  Malgré son apparence ordinaire, c'est un personnage *surprenant*.
+  Trotz seines gewöhnlichen Aussehens ist er eine *überraschende* Persönlichkeit.
+
+  Si *surprenant* que cela puisse paraître, il a réussi du premier coup.
+  So *überraschend* es auch erscheinen mag, er hat es beim ersten Mal geschafft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

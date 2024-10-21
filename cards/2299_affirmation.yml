@@ -13,20 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai été étonnée de cette affirmation.
-  Ich war über diese Aussage erstaunt.
+  J'ai été étonnée de cette *affirmation*.
+  Ich war über diese *Behauptung* erstaunt.
 
-  Je suis sûr de mon affirmation.
-  Ich bin mir meiner Aussage sicher.
+  La presse a publié une *affirmation* sans fondement sur le président.
+  Die Presse veröffentlichte eine unbegründete *Behauptung* über den Präsidenten.
 
-  Sa remarque était une affirmation gratuite, sans aucune preuve.
-  Seine Bemerkung war eine bloße Behauptung, ohne jeglichen Beweis.
+  Son *affirmation* catégorique a mis fin au débat.
+  Seine kategorische *Aussage* beendete die Debatte.
 
-  Le scientifique a avancé une affirmation audacieuse sur la nature de l'univers.
-  Der Wissenschaftler hat eine kühne Behauptung über die Natur des Universums aufgestellt.
+  "Cette *affirmation* est complètement fausse !" s'est-il exclamé.
+  "Diese *Behauptung* ist völlig falsch!" rief er aus.
 
-  En dépit de vos affirmations, je ne suis pas convaincu.
-  Trotz Ihrer Beteuerungen bin ich nicht überzeugt.
+  Malgré ses *affirmations*, nous n'avons aucune preuve concrète.
+  Trotz seiner *Beteuerungen* haben wir keine konkreten Beweise.
+
+  L'*affirmation* de soi est importante dans le développement personnel.
+  Die *Selbstbehauptung* ist wichtig für die persönliche Entwicklung.
+
+  Les scientifiques ont remis en question cette *affirmation*.
+  Die Wissenschaftler haben diese *Aussage* in Frage gestellt.
+
+  Elle a fait une *affirmation* audacieuse lors de la conférence.
+  Sie machte während der Konferenz eine gewagte *Behauptung*.
+
+  Les *affirmations* du témoin ont été vérifiées par la police.
+  Die *Aussagen* des Zeugen wurden von der Polizei überprüft.
+
+  Cette *affirmation* nécessite des preuves supplémentaires.
+  Diese *Behauptung* erfordert zusätzliche Beweise.
+
+  L'avocat a présenté des *affirmations* convaincantes devant le jury.
+  Der Anwalt präsentierte der Jury überzeugende *Darlegungen*.
+
+  Ses *affirmations* répétées ont fini par convaincre l'audience.
+  Seine wiederholten *Beteuerungen* überzeugten schließlich das Publikum.
+
+  L'*affirmation* de notre indépendance est cruciale pour l'avenir du pays.
+  Die *Bekräftigung* unserer Unabhängigkeit ist entscheidend für die Zukunft des Landes.
+
+  Il a fait une *affirmation* sous serment devant le tribunal.
+  Er machte eine eidliche *Aussage* vor Gericht.
+
+  Votre *affirmation* contredit les faits présentés précédemment.
+  Ihre *Behauptung* widerspricht den zuvor präsentierten Fakten.
+
+  L'*affirmation* de ses droits lui a valu le respect de ses collègues.
+  Die *Behauptung* seiner Rechte brachte ihm den Respekt seiner Kollegen ein.
+
+  Cette *affirmation* relève plus de l'opinion que du fait avéré.
+  Diese *Aussage* ist eher eine Meinung als eine bewiesene Tatsache.
+
+  Les médias ont relayé cette *affirmation* sans la vérifier.
+  Die Medien haben diese *Behauptung* ungeprüft weitergegeben.
+
+  L'*affirmation* "je pense, donc je suis" est célèbre en philosophie.
+  Die *Aussage* "Ich denke, also bin ich" ist in der Philosophie berühmt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

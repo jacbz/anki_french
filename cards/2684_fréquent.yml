@@ -13,14 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les visites peuvent être plus fréquentes.
-  Die Besuche können häufiger stattfinden.
+  Les visites peuvent être plus *fréquentes*.
+  Die Besuche können *häufiger* werden.
 
-  Un test négatif pendant la grossesse est assez fréquent.
-  Ein negativer Test in der Schwangerschaft ist durchaus üblich.
+  Les orages sont *fréquents* dans cette région en été.
+  Gewitter sind in dieser Region im Sommer *häufig*.
 
-  Le rhume est plus fréquent et plus banal que la grippe.
-  Erkältungen sind häufiger und ungefährlicher als Grippe.
+  Il est *fréquent* de voir des touristes dans le centre-ville.
+  Es ist *üblich*, Touristen in der Innenstadt zu sehen.
+
+  Les pannes de courant sont devenues plus *fréquentes* ces derniers temps.
+  Stromausfälle sind in letzter Zeit *häufiger* geworden.
+
+  Le mot "bonjour" est très *fréquent* dans le vocabulaire français.
+  Das Wort "bonjour" ist im französischen Wortschatz sehr *geläufig*.
+
+  Les réunions *fréquentes* améliorent la communication dans l'équipe.
+  *Häufige* Besprechungen verbessern die Kommunikation im Team.
+
+  Cette maladie est plus *fréquente* chez les personnes âgées.
+  Diese Krankheit ist bei älteren Menschen *häufiger*.
+
+  Les contrôles de vitesse sont *fréquents* sur cette route.
+  Geschwindigkeitskontrollen sind auf dieser Straße *häufig*.
+
+  Il est de plus en plus *fréquent* de travailler à distance.
+  Es wird immer *üblicher*, von zu Hause aus zu arbeiten.
+
+  Les changements climatiques provoquent des phénomènes météorologiques *fréquents* et extrêmes.
+  Der Klimawandel verursacht *häufige* und extreme Wetterereignisse.
+
+  Le médecin a remarqué que le patient avait un pouls *fréquent*.
+  Der Arzt bemerkte, dass der Patient einen *schnellen* Puls hatte.
+
+  Les mises à jour *fréquentes* du logiciel améliorent sa sécurité.
+  *Häufige* Software-Updates verbessern deren Sicherheit.
+
+  Il est *fréquent* que les enfants attrapent des rhumes en hiver.
+  Es ist *üblich*, dass Kinder im Winter Erkältungen bekommen.
+
+  Les voyages *fréquents* peuvent être fatigants à long terme.
+  *Häufiges* Reisen kann auf Dauer ermüdend sein.
+
+  L'exercice physique *fréquent* est bénéfique pour la santé.
+  *Regelmäßige* körperliche Betätigung ist gut für die Gesundheit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

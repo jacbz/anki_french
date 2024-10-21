@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils avaient des ventes exclusivement au Japon.
-  Sie verkauften ausschließlich in Japan.
+  Ils avaient des ventes *exclusivement* au Japon.
+  Sie hatten Verkäufe *ausschließlich* in Japan.
 
-  Cet événement est réservé exclusivement aux membres.
-  Diese Veranstaltung ist ausschließlich für Mitglieder reserviert.
+  Cette boutique vend *exclusivement* des produits de luxe.
+  Dieser Laden verkauft *ausschließlich* Luxusprodukte.
+
+  Le concert est réservé *exclusivement* aux membres du club.
+  Das Konzert ist *exklusiv* für Clubmitglieder reserviert.
+
+  Elle se nourrit *exclusivement* de fruits et de légumes.
+  Sie ernährt sich *ausschließlich* von Obst und Gemüse.
+
+  Ce train est destiné *exclusivement* aux voyageurs pour Paris.
+  Dieser Zug ist *ausschließlich* für Reisende nach Paris bestimmt.
+
+  La conférence s'adresse *exclusivement* aux professionnels du secteur.
+  Die Konferenz richtet sich *ausschließlich* an Fachleute der Branche.
+
+  "Je ne bois *exclusivement* que du thé vert."
+  "Ich trinke *ausschließlich* grünen Tee."
+
+  Le musée sera ouvert *exclusivement* les week-ends pendant l'hiver.
+  Das Museum wird im Winter *ausschließlich* an den Wochenenden geöffnet sein.
+
+  Cette offre est valable *exclusivement* en ligne, pas en magasin.
+  Dieses Angebot gilt *ausschließlich* online, nicht im Geschäft.
+
+  Il se consacre *exclusivement* à sa carrière depuis son divorce.
+  Er widmet sich seit seiner Scheidung *ausschließlich* seiner Karriere.
+
+  L'accès à la salle VIP est *exclusivement* réservé aux clients premium.
+  Der Zugang zum VIP-Raum ist *exklusiv* für Premium-Kunden reserviert.
+
+  Ces informations sont destinées *exclusivement* à un usage interne.
+  Diese Informationen sind *ausschließlich* für den internen Gebrauch bestimmt.
+
+  La promotion est valable du 1er au 30 juin *exclusivement*.
+  Die Aktion gilt *ausschließlich* vom 1. bis zum 30. Juni.
+
+  Elle lit *exclusivement* des romans policiers pour se détendre.
+  Sie liest zur Entspannung *ausschließlich* Kriminalromane.
+
+  Notre entreprise travaille *exclusivement* avec des fournisseurs locaux.
+  Unser Unternehmen arbeitet *ausschließlich* mit lokalen Lieferanten zusammen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

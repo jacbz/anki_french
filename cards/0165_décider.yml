@@ -13,29 +13,152 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai décidé d’écrire un roman.
-  Ich beschloss, einen Roman zu schreiben.
+  J'ai *décidé* d'écrire un roman.
+  Ich habe *beschlossen*, einen Roman zu schreiben.
 
-  Je dois décider quoi faire.
-  Ich muss entscheiden, was zu tun ist.
+  Le président *décide* de la politique étrangère.
+  Der Präsident *bestimmt* über die Außenpolitik.
 
-  C’est à toi de décider ce que tu veux faire.
-  Es ist deine Entscheidung, was du tun willst.
+  Comment l'as-tu *décidée* à venir à la fête ?
+  Wie hast du sie dazu *bewegt*, zur Party zu kommen?
 
-  J'ai décidé de faire un voyage en Italie cet été.
-  Ich habe beschlossen, diesen Sommer nach Italien zu reisen.
+  Il faut *décider* maintenant, nous n'avons plus de temps.
+  Wir müssen uns jetzt *entscheiden*, wir haben keine Zeit mehr.
 
-  Le médecin a décidé sa patiente à subir une opération.
-  Der Arzt hat seine Patientin dazu bewegt, sich operieren zu lassen.
+  "La voiture ne s'est pas *décidée* à démarrer ce matin."
+  "Das Auto wollte sich heute Morgen nicht dazu *entschließen* anzuspringen."
 
-  Va-t-il enfin se décider à pleuvoir? J'en ai assez de ce soleil!
-  Wird es endlich regnen? Ich habe genug von dieser Sonne!
+  Elle s'est finalement *décidée* pour la robe rouge.
+  Sie hat sich schließlich für das rote Kleid *entschieden*.
 
-  Après des années de réflexion, il s'est décidé à demander sa petite amie en mariage.
-  Nach jahrelanger Überlegung hat er sich entschlossen, seine Freundin zu heiraten.
+  C'est toi qui *décides*, pas moi.
+  Du bist derjenige, der *entscheidet*, nicht ich.
 
-  Il ne se décidait pas à partir, même si la situation était difficile.
-  Er machte keine Anstalten zu gehen, auch wenn die Lage schwierig war.
+  Le sort en est *décidé* : nous partons demain.
+  Es ist *beschlossen*: Wir brechen morgen auf.
+
+  Je suis *décidé* à réussir cet examen.
+  Ich bin *entschlossen*, diese Prüfung zu bestehen.
+
+  Les juges ont *décidé* en sa faveur.
+  Die Richter haben zu seinen Gunsten *entschieden*.
+
+  Qu'est-ce qui t'a *décidé* à changer de travail ?
+  Was hat dich dazu *bewogen*, den Job zu wechseln?
+
+  Il ne s'est toujours pas *décidé* entre les deux options.
+  Er hat sich immer noch nicht zwischen den beiden Optionen *entschieden*.
+
+  Le conseil *décidera* de cette question demain.
+  Der Rat wird morgen über diese Frage *entscheiden*.
+
+  Marie s'est enfin *décidée* à apprendre le piano.
+  Marie hat sich endlich dazu *entschlossen*, Klavier zu lernen.
+
+  Les électeurs *décideront* de l'avenir du pays.
+  Die Wähler werden über die Zukunft des Landes *entscheiden*.
+
+  Tu dois te *décider* avant la fin de la semaine.
+  Du musst dich vor Ende der Woche *entscheiden*.
+
+  Qui *décide* du menu ce soir ?
+  Wer *bestimmt* heute Abend über das Menü?
+
+  Le hasard a *décidé* de notre rencontre.
+  Der Zufall hat über unser Treffen *entschieden*.
+
+  Je me suis *décidé* à lui dire la vérité.
+  Ich habe mich dazu *durchgerungen*, ihr die Wahrheit zu sagen.
+
+  Nous avons *décidé* d'organiser une fête surprise.
+  Wir haben *beschlossen*, eine Überraschungsparty zu organisieren.
+
+  C'est *décidé*, nous prenons le train.
+  Es ist *beschlossene* Sache, wir nehmen den Zug.
+
+  Le jury *décidera* du gagnant ce soir.
+  Die Jury wird heute Abend über den Gewinner *entscheiden*.
+
+  Elle ne se *décidait* pas à ouvrir la lettre.
+  Sie konnte sich nicht dazu *durchringen*, den Brief zu öffnen.
+
+  Les parents ont *décidé* de déménager.
+  Die Eltern haben *beschlossen* umzuziehen.
+
+  Le temps *décidera* si nous pouvons partir en randonnée.
+  Das Wetter wird *bestimmen*, ob wir wandern gehen können.
+
+  Je n'arrive pas à me *décider* entre ces deux universités.
+  Ich kann mich nicht zwischen diesen beiden Universitäten *entscheiden*.
+
+  Le comité a *décidé* à l'unanimité.
+  Das Komitee hat einstimmig *entschieden*.
+
+  Ils se sont *décidés* au dernier moment.
+  Sie haben sich im letzten Moment *entschieden*.
+
+  C'est son expérience qui a *décidé* de son embauche.
+  Seine Erfahrung hat über seine Einstellung *entschieden*.
+
+  Pierre s'est finalement *décidé* à faire du sport.
+  Pierre hat sich endlich dazu *durchgerungen*, Sport zu machen.
+
+  Le match se *décidera* aux penalties.
+  Das Spiel wird im Elfmeterschießen *entschieden*.
+
+  Il faut *décider* d'une date pour la réunion.
+  Wir müssen uns für einen Termin für das Meeting *entscheiden*.
+
+  Les circonstances ont *décidé* autrement.
+  Die Umstände haben anders *entschieden*.
+
+  Je me suis *décidé* pour le modèle bleu.
+  Ich habe mich für das blaue Modell *entschieden*.
+
+  Nous devons *décider* de notre avenir.
+  Wir müssen über unsere Zukunft *entscheiden*.
+
+  Les médecins ont *décidé* d'opérer immédiatement.
+  Die Ärzte haben *beschlossen*, sofort zu operieren.
+
+  Elle s'est *décidée* à vendre sa maison.
+  Sie hat sich dazu *entschlossen*, ihr Haus zu verkaufen.
+
+  Le chef *décide* seul dans cette entreprise.
+  Der Chef *entscheidet* in dieser Firma allein.
+
+  Cette expérience a *décidé* de ma carrière.
+  Diese Erfahrung hat über meine Karriere *entschieden*.
+
+  Nous nous sommes *décidés* pour les vacances en Italie.
+  Wir haben uns für den Urlaub in Italien *entschieden*.
+
+  Le gouvernement *décidera* des nouvelles mesures.
+  Die Regierung wird über die neuen Maßnahmen *entscheiden*.
+
+  Thomas ne se *décide* jamais rapidement.
+  Thomas *entscheidet* sich nie schnell.
+
+  C'est à toi de *décider* de ton futur.
+  Es liegt an dir, über deine Zukunft zu *entscheiden*.
+
+  Les critiques ont *décidé* du succès du film.
+  Die Kritiker haben über den Erfolg des Films *entschieden*.
+
+  Elle s'est *décidée* à accepter le poste.
+  Sie hat sich dazu *entschlossen*, die Stelle anzunehmen.
+
+  Nous avons *décidé* d'un commun accord.
+  Wir haben in gegenseitigem Einvernehmen *entschieden*.
+
+  Je ne peux pas *décider* pour toi.
+  Ich kann nicht für dich *entscheiden*.
+
+  Le sort en est *décidé*.
+  Die Würfel sind *gefallen*.
+
+  Cette rencontre a *décidé* de ma vie.
+  Diese Begegnung hat über mein Leben *entschieden*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

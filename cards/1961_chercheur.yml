@@ -13,23 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Même si vous êtes un bon chercheur, la compétition est rude.
-  Selbst wenn Sie ein guter Forscher sind, ist der Wettbewerb hart.
+  Même si vous êtes un bon *chercheur*, la compétition est rude.
+  Auch wenn Sie ein guter *Forscher* sind, ist die Konkurrenz hart.
 
-  Le chercheur travaille dans un laboratoire.
-  Der Forscher arbeitet in einem Labor.
+  Les *chercheurs* ont fait une découverte révolutionnaire dans le domaine de la physique quantique.
+  Die *Forscher* haben eine bahnbrechende Entdeckung auf dem Gebiet der Quantenphysik gemacht.
 
-  Pierre, chercheur en étude comportementale, a publié un article sur l'influence des réseaux sociaux sur les adolescents.
-  Pierre, Verhaltensforscher, hat einen Artikel über den Einfluss sozialer Netzwerke auf Jugendliche veröffentlicht.
+  Marie Curie était une *chercheuse* passionnée qui a consacré sa vie à l'étude de la radioactivité.
+  Marie Curie war eine leidenschaftliche *Forscherin*, die ihr Leben der Erforschung der Radioaktivität widmete.
 
-  L'esprit chercheur de Marie l'a poussée à explorer des domaines inconnus de la science.
-  Der Forschergeist von Marie trieb sie an, unbekannte Bereiche der Wissenschaft zu erforschen.
+  Le *chercheur d'or* a passé des mois à prospecter dans les montagnes.
+  Der *Goldsucher* verbrachte Monate damit, in den Bergen zu schürfen.
 
-  Les chercheurs d'or ont passé des semaines à la recherche de filons prometteurs dans la montagne.
-  Die Goldsucher verbrachten Wochen mit der Suche nach vielversprechenden Adern in den Bergen.
+  Notre équipe de *chercheurs* travaille sur un nouveau traitement contre le cancer.
+  Unser Team von *Forschern* arbeitet an einer neuen Krebstherapie.
 
-  Les chercheurs de trésors ont découvert un coffre rempli de pièces d'or et de bijoux anciens.
-  Die Schatzsucher entdeckten eine Truhe, gefüllt mit Goldmünzen und antiken Schmuckstücken.
+  Le télescope est équipé d'un *chercheur* pour faciliter le repérage des étoiles.
+  Das Teleskop ist mit einem *Sucher* ausgestattet, um das Auffinden von Sternen zu erleichtern.
+
+  Les *chercheuses* en sciences sociales étudient l'impact des réseaux sociaux sur le comportement des adolescents.
+  Die *Forscherinnen* in den Sozialwissenschaften untersuchen den Einfluss sozialer Medien auf das Verhalten von Jugendlichen.
+
+  Le missile est doté d'une tête *chercheuse* capable de suivre sa cible avec précision.
+  Die Rakete ist mit einem *Such*kopf ausgestattet, der in der Lage ist, sein Ziel präzise zu verfolgen.
+
+  Les *chercheurs de trésors* ont exploré l'épave d'un ancien navire espagnol.
+  Die *Schatzsucher* haben das Wrack eines alten spanischen Schiffes erkundet.
+
+  Son esprit *chercheur* l'a toujours poussé à explorer de nouvelles idées.
+  Sein *forschender* Geist hat ihn immer dazu getrieben, neue Ideen zu erkunden.
+
+  La *chercheuse* a reçu une bourse pour poursuivre ses travaux sur le changement climatique.
+  Die *Forscherin* hat ein Stipendium erhalten, um ihre Arbeit zum Klimawandel fortzusetzen.
+
+  Le *chercheur de comètes* a permis de repérer un nouvel objet céleste.
+  Der *Kometensucher* hat es ermöglicht, ein neues Himmelsobjekt zu entdecken.
+
+  Les *chercheurs* en intelligence artificielle développent des algorithmes de plus en plus sophistiqués.
+  Die *Forscher* im Bereich künstlicher Intelligenz entwickeln immer ausgefeiltere Algorithmen.
+
+  Le *chercheur de nord* est un instrument essentiel pour l'orientation précise des missiles.
+  Der *Nordsucher* ist ein wesentliches Instrument für die genaue Ausrichtung von Raketen.
+
+  La collaboration entre *chercheurs* de différentes disciplines a conduit à des avancées significatives.
+  Die Zusammenarbeit zwischen *Forschern* verschiedener Disziplinen hat zu bedeutenden Fortschritten geführt.
+
+  Les *chercheuses de champignons* connaissent les meilleurs endroits de la forêt.
+  Die *Pilzsammlerinnen* kennen die besten Stellen im Wald.
+
+  Le jeune *chercheur* a publié ses premiers résultats dans une revue scientifique renommée.
+  Der junge *Forscher* hat seine ersten Ergebnisse in einer renommierten wissenschaftlichen Zeitschrift veröffentlicht.
+
+  Les *chercheurs d'aventures* ont planifié une expédition dans la jungle amazonienne.
+  Die *Abenteuersucher* haben eine Expedition in den Amazonas-Dschungel geplant.
+
+  La *chercheuse* en ethnologie étudie les coutumes des tribus isolées.
+  Die *Forscherin* in Ethnologie untersucht die Bräuche isolierter Stämme.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

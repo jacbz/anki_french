@@ -13,29 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous sommes tous atterrés par l’accroissement du chômage.
-  Wir sind alle entsetzt über die steigende Arbeitslosigkeit.
+  Nous sommes tous atterrés par l'*accroissement* du chômage.
+  Wir sind alle bestürzt über den *Anstieg* der Arbeitslosigkeit.
 
-  L’accroissement de la population est un problème mondial.
-  Das Bevölkerungswachstum ist ein globales Problem.
+  L'*accroissement* de la population mondiale pose de nouveaux défis.
+  Das *Wachstum* der Weltbevölkerung stellt uns vor neue Herausforderungen.
 
-  L'accroissement de la capacité de production est un atout majeur pour l'entreprise.
-  Die Kapazitätssteigerung der Produktion ist ein großer Vorteil für das Unternehmen.
+  Le gouvernement a annoncé un *accroissement* des dépenses militaires.
+  Die Regierung hat eine *Erhöhung* der Militärausgaben angekündigt.
 
-  L'accroissement de la population dans les villes pose des défis en matière de logement.
-  Die Bevölkerungszunahme in den Städten stellt Herausforderungen in Bezug auf die Wohnungssituation dar.
+  L'*accroissement* de la capacité de production a permis de répondre à la demande.
+  Die *Steigerung* der Produktionskapazität ermöglichte es, die Nachfrage zu decken.
 
-  L'accroissement de la fortune de la famille a permis d'acheter une nouvelle maison.
-  Der Vermögenszuwachs der Familie ermöglichte den Kauf eines neuen Hauses.
+  Les économistes prévoient un faible *accroissement* du PIB cette année.
+  Die Ökonomen prognostizieren für dieses Jahr ein geringes *Wachstum* des BIP.
 
-  L'accroissement de la productivité s'explique par l'investissement dans de nouvelles technologies.
-  Der Produktivitätszuwachs ist auf die Investition in neue Technologien zurückzuführen.
+  "Cet *accroissement* des charges est insupportable !" s'est plaint le propriétaire.
+  "Diese *Zunahme* der Kosten ist unerträglich!", beschwerte sich der Besitzer.
 
-  L'accroissement du patrimoine de la famille est un signe de réussite.
-  Der Vermögenszuwachs der Familie ist ein Zeichen von Erfolg.
+  L'*accroissement* naturel de la population a ralenti dans de nombreux pays développés.
+  Das natürliche *Bevölkerungswachstum* hat sich in vielen entwickelten Ländern verlangsamt.
 
-  L'accroissement faible du taux de chômage est un signal positif pour l'économie.
-  Die leichte Zunahme der Arbeitslosenquote ist ein positives Signal für die Wirtschaft.
+  Nous devons trouver des solutions pour freiner l'*accroissement* de la pollution.
+  Wir müssen Lösungen finden, um den *Anstieg* der Umweltverschmutzung zu bremsen.
+
+  L'entreprise a enregistré un *accroissement* significatif de son chiffre d'affaires.
+  Das Unternehmen verzeichnete eine beträchtliche *Steigerung* seines Umsatzes.
+
+  Les scientifiques étudient l'*accroissement* des arbres pour comprendre les changements climatiques.
+  Die Wissenschaftler untersuchen das *Wachstum* der Bäume, um den Klimawandel zu verstehen.
+
+  L'*accroissement* de la fortune des milliardaires fait débat dans la société.
+  Der *Zuwachs* des Vermögens von Milliardären sorgt für Diskussionen in der Gesellschaft.
+
+  On constate un *accroissement* constant de la demande en énergies renouvelables.
+  Man beobachtet eine stetige *Zunahme* der Nachfrage nach erneuerbaren Energien.
+
+  L'*accroissement* de la productivité est essentiel pour rester compétitif.
+  Die *Steigerung* der Produktivität ist entscheidend, um wettbewerbsfähig zu bleiben.
+
+  Les alluvions ont entraîné un *accroissement* naturel des terres riveraines.
+  Die Anschwemmungen führten zu einem natürlichen *Zuwachs* des Uferlandes.
+
+  L'*accroissement* des échanges commerciaux a renforcé les liens entre les deux pays.
+  Die *Zunahme* des Handelsaustauschs hat die Beziehungen zwischen den beiden Ländern gestärkt.
+
+  Le rapport souligne l'*accroissement* inquiétant des inégalités sociales.
+  Der Bericht hebt die besorgniserregende *Zunahme* der sozialen Ungleichheiten hervor.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

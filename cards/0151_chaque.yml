@@ -13,26 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Chaque entreprise doit avoir sa propre organisation.
-  Jedes Unternehmen muss seine eigene Organisation haben.
+  *Chaque* entreprise doit avoir sa propre organisation.
+  *Jedes* Unternehmen muss seine eigene Organisation haben.
 
-  Chaque personne doit apporter quelque chose.
-  Jede Person muss etwas mitbringen.
+  *Chaque* jour, je prends une tasse de café le matin.
+  *Jeden* Tag trinke ich morgens eine Tasse Kaffee.
 
-  Je viens ici chaque jour.
-  Ich komme jeden Tag hierher.
+  La professeure a donné un exercice différent à *chaque* élève.
+  Die Lehrerin gab *jedem* Schüler eine andere Aufgabe.
 
-  Je vous aime de plus en plus chaque jour.
-  Ich liebe Sie jeden Tag mehr und mehr.
+  Nous avons visité *chaque* pays d'Europe de l'Ouest.
+  Wir haben *jedes* Land in Westeuropa besucht.
 
-  Il y a une place pour chaque chose dans son placard.
-  Es gibt einen Platz für jedes einzelne Objekt in seinem Schrank.
+  Il y a une surprise dans *chaque* boîte.
+  In *jeder* Schachtel ist eine Überraschung.
 
-  Je voudrais cent grammes de chaque type de fromage.
-  Ich möchte je hundert Gramm von jedem Käsesort.
+  *Chaque* fois que je le vois, il me raconte la même histoire.
+  *Jedes* Mal, wenn ich ihn sehe, erzählt er mir dieselbe Geschichte.
 
-  Ces cravates coûtent cinquante euros chacune.
-  Diese Krawatten kosten je fünfzig Euro.
+  "Un peu de *chaque*", a-t-elle dit en choisissant les bonbons.
+  "Ein bisschen von *jedem*", sagte sie, als sie die Süßigkeiten auswählte.
+
+  *Chaque* personne a le droit d'exprimer son opinion.
+  *Jede* Person hat das Recht, ihre Meinung zu äußern.
+
+  Il faut vérifier *chaque* détail avant de soumettre le rapport.
+  Man muss *jedes* Detail überprüfen, bevor man den Bericht einreicht.
+
+  Nous avons passé cinq minutes dans *chaque* magasin.
+  Wir haben in *jedem* Geschäft fünf Minuten verbracht.
+
+  *Chaque* membre de l'équipe a contribué au succès du projet.
+  *Jedes* Teammitglied hat zum Erfolg des Projekts beigetragen.
+
+  Elle a lu *chaque* livre de cet auteur.
+  Sie hat *jedes* Buch dieses Autors gelesen.
+
+  Le train s'arrête à *chaque* station entre Paris et Lyon.
+  Der Zug hält an *jeder* Station zwischen Paris und Lyon.
+
+  *Chaque* pays a ses propres traditions culinaires.
+  *Jedes* Land hat seine eigenen kulinarischen Traditionen.
+
+  Il faut respecter *chaque* culture et *chaque* tradition.
+  Man muss *jede* Kultur und *jede* Tradition respektieren.
+
+  *Chaque* pièce de la maison a été soigneusement décorée.
+  *Jeder* Raum des Hauses wurde sorgfältig dekoriert.
+
+  À *chaque* problème sa solution.
+  Für *jedes* Problem gibt es eine Lösung.
+
+  *Chaque* génération a ses propres défis à relever.
+  *Jede* Generation hat ihre eigenen Herausforderungen zu bewältigen.
+
+  Ces pommes coûtent un euro *chaque*.
+  Diese Äpfel kosten *je* einen Euro.
+
+  *Chaque* dix minutes, on entend le bruit du train qui passe.
+  Alle zehn Minuten hört man den vorbeifahrenden Zug.
+
+  "*Chaque* chose en son temps", dit le proverbe.
+  "Alles zu seiner Zeit", sagt das Sprichwort.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

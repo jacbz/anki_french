@@ -13,23 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous n’êtes pas obligés de me donner une réponse.
-  Sie sind nicht verpflichtet, mir eine Antwort zu geben.
+  Vous n'êtes pas *obligés* de me donner une réponse.
+  Sie sind nicht *verpflichtet*, mir eine Antwort zu geben.
 
-  Je suis obligé de partir.
-  Ich bin verpflichtet zu gehen.
+  C'était *obligé* que ça se passe comme ça avec tous ces problèmes.
+  Es war *zwangsläufig*, dass es mit all diesen Problemen so kommen musste.
 
-  C'était obligé! On le savait depuis le début.
-  Das musste ja so kommen! Das wussten wir doch schon die ganze Zeit.
+  Je suis *obligé* de travailler ce week-end pour finir le projet.
+  Ich bin *gezwungen*, dieses Wochenende zu arbeiten, um das Projekt fertigzustellen.
 
-  Je suis votre obligé, madame! Vous m'avez sauvé la vie.
-  Ich bin Ihnen zu Dank verpflichtet! Sie haben mir das Leben gerettet.
+  "C'était *obligé* qu'il rate son examen, il n'a pas étudié du tout !"
+  "Es war *vorprogrammiert*, dass er seine Prüfung nicht besteht, er hat überhaupt nicht gelernt!"
 
-  Je suis obligé à mon ami de m'avoir aidé à déménager.
-  Ich bin meinem Freund dankbar, dass er mir beim Umzug geholfen hat.
+  Nous vous serions très *obligés* de bien vouloir nous accorder un rendez-vous.
+  Wir wären Ihnen sehr *verbunden*, wenn Sie uns einen Termin gewähren würden.
 
-  Nous vous serions obligés de bien vouloir nous répondre à cette question.
-  Für eine Antwort auf diese Frage wären wir Ihnen dankbar.
+  Le port du casque est *obligé* pour tous les cyclistes.
+  Das Tragen eines Helms ist für alle Radfahrer *obligatorisch*.
+
+  Je me sens *obligée* de vous dire la vérité sur cette affaire.
+  Ich fühle mich *verpflichtet*, Ihnen die Wahrheit über diese Angelegenheit zu sagen.
+
+  Monsieur le Maire, je suis votre *obligé* pour votre aide précieuse.
+  Herr Bürgermeister, ich bin Ihr *Schuldner* für Ihre wertvolle Hilfe.
+
+  La visite de la Tour Eiffel est un passage *obligé* pour les touristes à Paris.
+  Der Besuch des Eiffelturms ist ein *obligatorischer* Programmpunkt für Touristen in Paris.
+
+  Elle s'est sentie *obligée* d'accepter l'invitation par politesse.
+  Sie fühlte sich aus Höflichkeit *genötigt*, die Einladung anzunehmen.
+
+  Je suis *obligé* de vous informer que votre contrat ne sera pas renouvelé.
+  Ich bin *gezwungen*, Sie darüber zu informieren, dass Ihr Vertrag nicht verlängert wird.
+
+  Dans ce restaurant, le pourboire est *obligé* et inclus dans l'addition.
+  In diesem Restaurant ist das Trinkgeld *obligatorisch* und in der Rechnung enthalten.
+
+  Nous sommes *obligés* de respecter les règles de sécurité sur le chantier.
+  Wir sind *verpflichtet*, die Sicherheitsvorschriften auf der Baustelle einzuhalten.
+
+  Je me sens *obligée* envers mes parents pour tout ce qu'ils ont fait pour moi.
+  Ich fühle mich meinen Eltern gegenüber *verpflichtet* für alles, was sie für mich getan haben.
+
+  L'acheteur est *obligé* par contrat de payer le prix convenu.
+  Der Käufer ist vertraglich *verpflichtet*, den vereinbarten Preis zu zahlen.
+
+  La partie de violon est *obligée* dans cette symphonie.
+  Die Violinstimme ist in dieser Sinfonie *obligat*.
+
+  "C'était *obligé* que tu gagnes, tu es le meilleur joueur de l'équipe !"
+  "Es war *klar*, dass du gewinnst, du bist der beste Spieler der Mannschaft!"
+
+  Je suis votre *obligé*, Madame, pour votre généreuse recommandation.
+  Ich bin Ihnen *zu Dank verpflichtet*, gnädige Frau, für Ihre großzügige Empfehlung.
+
+  Les personnes *obligées* font parfois preuve d'ingratitude envers leurs bienfaiteurs.
+  *Verpflichtete* Personen zeigen manchmal Undankbarkeit gegenüber ihren Wohltätern.
+
+  Dans cette entreprise, le costume-cravate est *obligé* pour les hommes.
+  In diesem Unternehmen ist der Anzug mit Krawatte für Männer *Pflicht*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

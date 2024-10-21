@@ -7,7 +7,7 @@ Wortart: vt, vi, vr
 Wort mit Artikel: rater
 Femininum / Plural: ''
 IPA: \ʁa.te\
-Definition: verpassen, verfehlen
+Definition: verpassen, scheitern
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -138,4 +138,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>manquer</i> und <i>rater</i></div>
+    <div class="section-content">
+      <p><span class="fr">Manquer</span> (#583) ist ein formelleres Verb, das oft verwendet wird, um das Verpassen eines Termins, Busses, Zuges oder Flugzeugs aufgrund von Verspätung auszudrücken. Es kann auch <span class="de">"vermissen"</span> im weiteren Sinne bedeuten, wie eine Person zu vermissen oder etwas zu entbehren.</p>
+      <div class="examples">
+        <div class="fr">J'ai manqué mon train ce matin parce que je me suis réveillé en retard.</div>
+        <div class="de spoiler">Ich habe meinen Zug heute Morgen verpasst, weil ich zu spät aufgewacht bin.</div>
+        <div class="fr">Si tu ne pars pas maintenant, tu vas manquer ton vol.</div>
+        <div class="de spoiler">Wenn du jetzt nicht losfährst, wirst du deinen Flug verpassen.</div>
+      </div>
+      <p><span class="fr">Rater</span> ist ein gebräuchliches und vielseitiges Verb, das <span class="de">"verpassen"</span> oder <span class="de">"scheitern"</span> bedeutet. In Bezug auf Verkehrsmittel deutet es darauf hin, einen Bus oder Zug zu verpassen, unabhängig vom Grund.</p>
+      <div class="examples">
+        <div class="fr">J'ai raté le bus, donc je dois attendre le prochain.</div>
+        <div class="de spoiler">Ich habe den Bus verpasst, also muss ich auf den nächsten warten.</div>
+        <div class="fr">Il a raté son examen de conduite trois fois déjà.</div>
+        <div class="de spoiler">Er ist bereits dreimal durch die Führerscheinprüfung gefallen.</div>
+      </div>
+    </div>
+  </div>

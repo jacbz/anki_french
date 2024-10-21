@@ -9,19 +9,84 @@ Femininum / Plural: ''
 IPA: \li.te.ʁɛʁ\
 Definition: literarisch
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "La poésie est beaucoup plus qu’un genre littéraire.\nGedichte sind\
-  \ viel mehr als nur eine literarische Gattung.\n\nC’est un critique littéraire très\
-  \ respecté.\nEr ist ein sehr angesehener Literaturkritiker.\n\nLa littérature est\
-  \ une discipline qui étudie l'histoire littéraire. \nDie Literatur ist eine Disziplin,\
-  \ die sich mit der Literaturgeschichte beschäftigt.\n\nIl faut avoir l'esprit littéraire\
-  \ pour apprécier les subtilités de la littérature.\nMan muss Sinn für Literatur\
-  \ haben, um die Feinheiten der Literatur zu schätzen.\n\nL'explication littéraire\
-  \ est un exercice qui permet de comprendre un texte.\nDie Textinterpretation ist\
-  \ eine Übung, die es ermöglicht, einen Text zu verstehen.\n\nLa langue littéraire\
-  \ est différente de la langue parlée.\nDie Schriftsprache unterscheidet sich von\
-  \ der gesprochenen Sprache.\n\nElle a des talents littéraires exceptionnels, elle\
-  \ écrit de magnifiques poèmes.\nSie ist schriftstellerisch außergewöhnlich begabt,\
-  \ sie schreibt wunderschöne Gedichte."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  La poésie est beaucoup plus qu'un genre *littéraire*.
+  Lyrik ist viel mehr als eine *literarische* Gattung.
+
+  L'analyse *littéraire* de ce roman a révélé des thèmes profonds.
+  Die *literarische* Analyse dieses Romans hat tiefgründige Themen offenbart.
+
+  Elle a reçu un prestigieux prix *littéraire* pour son dernier ouvrage.
+  Sie hat für ihr letztes Werk einen renommierten *Literatur*preis erhalten.
+
+  Les critiques *littéraires* ont salué l'originalité de son style d'écriture.
+  Die *Literatur*kritiker haben die Originalität seines Schreibstils gelobt.
+
+  La revue *littéraire* publie des textes d'auteurs émergents chaque trimestre.
+  Die *Literatur*zeitschrift veröffentlicht vierteljährlich Texte aufstrebender Autoren.
+
+  Son esprit *littéraire* se reflète dans chacune de ses conversations.
+  Sein *literarischer* Geist spiegelt sich in jedem seiner Gespräche wider.
+
+  Les études *littéraires* l'ont toujours passionné plus que les sciences.
+  Das *Literatur*studium hat ihn schon immer mehr fasziniert als die Naturwissenschaften.
+
+  Le salon *littéraire* attire chaque année des milliers de lecteurs passionnés.
+  Die *Literatur*messe zieht jedes Jahr Tausende begeisterte Leser an.
+
+  "Tu es un vrai *littéraire*, toi !" s'est-elle exclamée en riant.
+  "Du bist wirklich ein *Literaturmensch*!", rief sie lachend aus.
+
+  L'histoire *littéraire* du XXe siècle est marquée par de nombreux courants.
+  Die *Literatur*geschichte des 20. Jahrhunderts ist von vielen Strömungen geprägt.
+
+  La propriété *littéraire* protège les droits des auteurs sur leurs œuvres.
+  Das *literarische* Eigentum schützt die Rechte der Autoren an ihren Werken.
+
+  Cette tournure *littéraire* donne au texte une saveur particulière.
+  Diese *literarische* Wendung verleiht dem Text eine besondere Note.
+
+  L'arabe *littéraire* est utilisé dans les médias et la littérature formelle.
+  Das *literarische* Arabisch wird in den Medien und der formellen Literatur verwendet.
+
+  Les disciplines *littéraires* développent l'esprit critique et l'imagination.
+  Die *literarischen* Disziplinen fördern kritisches Denken und Vorstellungskraft.
+
+  Son style *littéraire* est reconnaissable entre mille.
+  Sein *literarischer* Stil ist unverwechselbar.
+
+  La création *littéraire* exige à la fois talent et persévérance.
+  *Literarisches* Schaffen erfordert sowohl Talent als auch Ausdauer.
+
+  Les cafés *littéraires* étaient des lieux d'échange intellectuel importants.
+  *Literarische* Cafés waren wichtige Orte des intellektuellen Austauschs.
+
+  L'agent *littéraire* a négocié un contrat avantageux pour son client.
+  Der *Literatur*agent hat einen vorteilhaften Vertrag für seinen Klienten ausgehandelt.
+
+  La langue *littéraire* diffère souvent de la langue parlée quotidienne.
+  Die *literarische* Sprache unterscheidet sich oft von der Alltagssprache.
+
+  Les qualités *littéraires* de ce texte en font un classique moderne.
+  Die *literarischen* Qualitäten dieses Textes machen ihn zu einem modernen Klassiker.
+
+  Son explication *littéraire* a impressionné le jury du concours.
+  Seine *literarische* Interpretation hat die Wettbewerbsjury beeindruckt.
+
+  La vie *littéraire* parisienne était très animée au XIXe siècle.
+  Das *literarische* Leben in Paris war im 19. Jahrhundert sehr lebendig.
+
+  Les courants *littéraires* reflètent souvent les changements sociaux.
+  *Literarische* Strömungen spiegeln oft gesellschaftliche Veränderungen wider.
+
+  Elle a choisi la filière *littéraire* pour approfondir sa passion des lettres.
+  Sie hat den *literarischen* Zweig gewählt, um ihrer Leidenschaft für die Geisteswissenschaften nachzugehen.
+
+  L'œuvre *littéraire* transcende souvent les frontières culturelles.
+  Das *literarische* Werk überschreitet oft kulturelle Grenzen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

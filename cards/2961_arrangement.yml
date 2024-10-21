@@ -13,14 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai conclu un arrangement avec le diable.
-  Ich habe eine Vereinbarung mit dem Teufel getroffen.
+  J'ai conclu un *arrangement* avec le diable.
+  Ich habe eine *Abmachung* mit dem Teufel getroffen.
 
-  Nous avons trouvé un arrangement.
-  Wir haben eine Vereinbarung gefunden.
+  L'*arrangement* floral au centre de la table était magnifique.
+  Das Blumen*arrangement* in der Tischmitte war wunderschön.
 
-  Après de longues négociations, les deux parties ont réussi à parvenir à un arrangement.
-  Nach langen Verhandlungen konnten sich die beiden Parteien auf eine Übereinkunft einigen.
+  Nous devons trouver un *arrangement* à l'amiable pour éviter un procès coûteux.
+  Wir müssen eine gütliche *Einigung* finden, um einen teuren Prozess zu vermeiden.
+
+  L'*arrangement* pour piano de cette symphonie est vraiment réussi.
+  Das *Arrangement* dieser Symphonie für Klavier ist wirklich gelungen.
+
+  "On peut toujours trouver un *arrangement*", a dit le négociateur avec optimisme.
+  "Man kann immer eine *Übereinkunft* finden", sagte der Verhandlungsführer optimistisch.
+
+  L'*arrangement* des meubles dans le salon crée une atmosphère chaleureuse.
+  Die *Anordnung* der Möbel im Wohnzimmer schafft eine gemütliche Atmosphäre.
+
+  Le groupe a fait un nouvel *arrangement* de leur chanson la plus populaire.
+  Die Band hat ein neues *Arrangement* ihres beliebtesten Songs gemacht.
+
+  Nous devons prendre des *arrangements* pour le paiement de cette dette.
+  Wir müssen *Vereinbarungen* für die Bezahlung dieser Schuld treffen.
+
+  L'*arrangement* de sa coiffure lui a pris plus d'une heure.
+  Das *Zurechtmachen* ihrer Frisur hat mehr als eine Stunde gedauert.
+
+  Les mathématiciens étudient les *arrangements* de n éléments pris p à p.
+  Die Mathematiker untersuchen die *Anordnungen* von n Elementen, die p zu p genommen werden.
+
+  J'ai dû modifier l'*arrangement* de mon emploi du temps pour cette semaine.
+  Ich musste die *Einteilung* meines Zeitplans für diese Woche ändern.
+
+  L'*arrangement* de cette entrevue a été compliqué, mais nous y sommes parvenus.
+  Die *Organisation* dieses Treffens war kompliziert, aber wir haben es geschafft.
+
+  Cet *arrangement* orchestral apporte une nouvelle dimension à la chanson originale.
+  Dieses Orchester*arrangement* verleiht dem Originalsong eine neue Dimension.
+
+  L'*arrangement* de la salle de conférence permettra d'accueillir plus de participants.
+  Die *Gestaltung* des Konferenzraums wird es ermöglichen, mehr Teilnehmer unterzubringen.
+
+  Un bon *arrangement* vaut mieux qu'un mauvais procès.
+  Eine gute *Einigung* ist besser als ein schlechter Prozess.
+
+  L'*arrangement* des mots dans cette phrase rend le message plus percutant.
+  Die *Anordnung* der Wörter in diesem Satz macht die Botschaft eindrucksvoller.
+
+  Le jazz moderne est connu pour ses *arrangements* complexes et innovants.
+  Moderner Jazz ist für seine komplexen und innovativen *Arrangements* bekannt.
+
+  Nous avons conclu un *arrangement* satisfaisant pour les deux parties.
+  Wir haben eine für beide Seiten zufriedenstellende *Vereinbarung* getroffen.
+
+  L'*arrangement* des tableaux dans la galerie suit un ordre chronologique.
+  Die *Hängung* der Gemälde in der Galerie folgt einer chronologischen Ordnung.
+
+  Le nouvel *arrangement* de mon bureau a considérablement amélioré mon efficacité.
+  Die neue *Einrichtung* meines Büros hat meine Effizienz erheblich verbessert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

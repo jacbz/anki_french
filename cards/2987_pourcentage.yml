@@ -13,20 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elles calculent les pourcentages sur leurs profits.
-  Sie berechnen die Prozentsätze auf ihre Gewinne.
+  Elles calculent les *pourcentages* sur leurs profits.
+  Sie berechnen die *Prozentsätze* auf ihre Gewinne.
 
-  Le pourcentage de réussite est élevé.
-  Die Erfolgsquote ist hoch.
+  Un fort *pourcentage* de chômeurs inquiète le gouvernement.
+  Ein hoher *Prozentsatz* an Arbeitslosen beunruhigt die Regierung.
 
-  Le pourcentage sur les ventes est un moyen de motiver les employés.
-  Der Anteil am Umsatz ist eine Möglichkeit, die Angestellten zu motivieren.
+  Le vendeur touche un *pourcentage* sur chaque voiture vendue.
+  Der Verkäufer erhält einen *prozentualen Anteil* für jedes verkaufte Auto.
 
-  Le vendeur travaille au pourcentage.
-  Der Verkäufer arbeitet auf Provisionsbasis.
+  Les *pourcentages* de réussite varient selon les filières universitaires.
+  Die Erfolgs*quoten* variieren je nach Studiengang.
 
-  Le commercial est payé au pourcentage de ses ventes.
-  Der Handelsvertreter wird auf Provisionsbasis für seine Verkäufe bezahlt.
+  Notre entreprise a augmenté ses ventes de 5 *pourcents* ce trimestre.
+  Unser Unternehmen hat seine Verkäufe in diesem Quartal um 5 *Prozent* gesteigert.
+
+  Il faut donner les résultats en *pourcentages* pour faciliter la comparaison.
+  Man muss die Ergebnisse in *Prozenten* angeben, um den Vergleich zu erleichtern.
+
+  Le *pourcentage* d'oxygène dans l'air est d'environ 21%.
+  Der *Prozentsatz* an Sauerstoff in der Luft beträgt etwa 21%.
+
+  "Quel *pourcentage* de la population a-t-il participé au sondage ?"
+  "Welcher *Prozentsatz* der Bevölkerung hat an der Umfrage teilgenommen?"
+
+  Les statisticiens analysent les *pourcentages* de croissance économique.
+  Die Statistiker analysieren die Wirtschaftswachstums*raten*.
+
+  Le *pourcentage* de femmes en politique a considérablement augmenté.
+  Der *Anteil* der Frauen in der Politik ist erheblich gestiegen.
+
+  Ce produit contient un faible *pourcentage* d'alcool.
+  Dieses Produkt enthält einen geringen *Prozentsatz* Alkohol.
+
+  Les enseignants observent une hausse du *pourcentage* d'élèves en difficulté.
+  Die Lehrer beobachten einen Anstieg des *Anteils* von Schülern mit Schwierigkeiten.
+
+  Le rapport indique les *pourcentages* de satisfaction des clients.
+  Der Bericht zeigt die Kunden*zufriedenheitsraten* an.
+
+  Ils travaillent au *pourcentage* dans cette boutique.
+  Sie arbeiten in diesem Geschäft auf *Provisionsbasis*.
+
+  Un grand *pourcentage* de la population ne s'est pas prononcé sur cette question.
+  Ein großer *Prozentsatz* der Bevölkerung hat sich zu dieser Frage nicht geäußert.
+
+  La pente de cette route a un *pourcentage* élevé, faites attention en conduisant.
+  Diese Straße hat eine hohe *Steigungsrate*, seien Sie beim Fahren vorsichtig.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

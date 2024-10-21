@@ -13,17 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai peut-être une idée.
-  Ich habe vielleicht eine Idee.
+  J'ai *peut-être* une idée.
+  Ich habe *vielleicht* eine Idee.
 
-  Peut-être viendra-t-il demain.
-  Vielleicht kommt er morgen.
+  *Peut-être* viendra-t-il demain.
+  *Vielleicht* kommt er morgen.
 
-  Peut-être que Pierre va faire un voyage en Italie cet été.
-  Es kann sein, dass Pierre diesen Sommer eine Reise nach Italien machen wird.
+  Elle ne viendra *peut-être* pas à la fête.
+  Sie kommt *vielleicht* nicht zur Party.
 
-  Ce médicament est peut-être efficace, mais il a des effets secondaires.
-  Dieses Medikament mag ja wirkungsvoll sein, aber es hat Nebenwirkungen.
+  As-tu *peut-être* vu mes clés ?
+  Hast du *vielleicht* meine Schlüssel gesehen?
+
+  Il y avait *peut-être* vingt personnes à la réunion.
+  Es waren *vielleicht* zwanzig Personen bei dem Treffen.
+
+  *Peut-être* que je ne pourrai pas venir ce soir.
+  *Möglicherweise* kann ich heute Abend nicht kommen.
+
+  C'est *peut-être* vrai, mais j'en doute.
+  Das stimmt *vielleicht*, aber ich bezweifle es.
+
+  "Viendrez-vous à la soirée ?" - "*Peut-être*."
+  "Kommen Sie zur Abendveranstaltung?" - "*Vielleicht*."
+
+  *Peut-être* bien qu'il a oublié notre rendez-vous.
+  Es kann gut sein, dass er unseren Termin *vielleicht* vergessen hat.
+
+  Le train arrivera *peut-être* avec du retard.
+  Der Zug kommt *möglicherweise* mit Verspätung an.
+
+  Ce livre aura *peut-être* du succès.
+  Dieses Buch wird *vielleicht* erfolgreich sein.
+
+  *Peut-être* aurais-je dû lui en parler plus tôt.
+  *Vielleicht* hätte ich früher mit ihm darüber sprechen sollen.
+
+  Il a *peut-être* changé d'avis depuis hier.
+  Er hat seine Meinung seit gestern *vielleicht* geändert.
+
+  Nous partirons dans trois semaines, un mois *peut-être*.
+  Wir werden in drei Wochen abreisen, *vielleicht* in einem Monat.
+
+  *Peut-être* que la situation s'améliorera bientôt.
+  *Möglicherweise* wird sich die Situation bald verbessern.
+
+  Je me trompe *peut-être*, mais j'ai un mauvais pressentiment.
+  Ich irre mich *vielleicht*, aber ich habe ein ungutes Gefühl.
+
+  "Tu crois *peut-être* que tout t'est permis ?"
+  "Glaubst du *etwa*, dass dir alles erlaubt ist?"
+
+  *Peut-être* bien que oui, *peut-être* bien que non.
+  *Vielleicht* ja, *vielleicht* nein.
+
+  Ce médicament est *peut-être* efficace, mais il a des effets secondaires.
+  Dieses Medikament ist *vielleicht* wirksam, hat aber Nebenwirkungen.
+
+  *Peut-être* qu'il aurait réussi s'il avait essayé.
+  *Vielleicht* hätte er es geschafft, wenn er es versucht hätte.
+
+  Il fait froid dehors, *peut-être* devrais-tu mettre un manteau.
+  Es ist kalt draußen, *vielleicht* solltest du einen Mantel anziehen.
+
+  *Peut-être* que nous nous reverrons un jour.
+  *Vielleicht* sehen wir uns eines Tages wieder.
+
+  Elle arrivera *peut-être* en retard à cause des embouteillages.
+  Sie kommt *möglicherweise* wegen des Staus zu spät.
+
+  "Vous l'ignorez, *peut-être* ?"
+  "Sie wissen es *etwa* nicht?"
+
+  *Peut-être* devrions-nous reporter la réunion.
+  *Vielleicht* sollten wir das Treffen verschieben.
+
+  Il y a *peut-être* une autre solution à ce problème.
+  Es gibt *vielleicht* eine andere Lösung für dieses Problem.
+
+  *Peut-être* que le temps s'améliorera demain.
+  *Möglicherweise* wird das Wetter morgen besser.
+
+  Je n'ai *peut-être* pas bien compris la question.
+  Ich habe die Frage *vielleicht* nicht richtig verstanden.
+
+  *Peut-être* est-il déjà parti sans nous prévenir.
+  *Vielleicht* ist er schon gegangen, ohne uns Bescheid zu geben.
+
+  Ce n'est *peut-être* pas la meilleure approche.
+  Das ist *vielleicht* nicht der beste Ansatz.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,20 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les résultats officiels seront proclamés samedi.
-  Die offiziellen Ergebnisse werden am Samstag verkündet.
+  Les résultats officiels seront *proclamés* samedi.
+  Die offiziellen Ergebnisse werden am Samstag *verkündet*.
 
-  Le président a proclamé la loi.
-  Der Präsident hat das Gesetz verkündet.
+  Le président a *proclamé* l'état d'urgence suite aux manifestations.
+  Der Präsident hat nach den Demonstrationen den Notstand *ausgerufen*.
 
-  Le peuple a proclamé Napoléon empereur.
-  Das Volk hat Napoleon zum Kaiser ausgerufen.
+  L'assemblée a *proclamé* la nouvelle constitution à l'unanimité.
+  Die Versammlung hat die neue Verfassung einstimmig *proklamiert*.
 
-  La province s'est proclamée indépendante.
-  Die Provinz hat sich für unabhängig erklärt.
+  "Je *proclame* mon innocence devant tous !" s'est écrié l'accusé.
+  "Ich *beteuere* vor allen meine Unschuld!", rief der Angeklagte.
 
-  L'état s'est proclamé république autonome.
-  Der Staat hat sich zur freien Republik erklärt.
+  Le général s'est *proclamé* chef de l'État après le coup d'État.
+  Der General hat sich nach dem Putsch zum Staatschef *erklärt*.
+
+  La foule *proclamait* sa joie dans les rues.
+  Die Menge *verkündete* ihre Freude auf den Straßen.
+
+  L'indépendance du pays a été *proclamée* le 1er janvier 1960.
+  Die Unabhängigkeit des Landes wurde am 1. Januar 1960 *proklamiert*.
+
+  Les scientifiques ont *proclamé* leur découverte lors d'une conférence de presse.
+  Die Wissenschaftler haben ihre Entdeckung auf einer Pressekonferenz *verkündet*.
+
+  Le jury a *proclamé* le gagnant du concours littéraire.
+  Die Jury hat den Gewinner des Literaturwettbewerbs *bekanntgegeben*.
+
+  La région s'est *proclamée* république autonome.
+  Die Region hat sich zur autonomen Republik *erklärt*.
+
+  Le maire a *proclamé* la ville "capitale culturelle" pour l'année à venir.
+  Der Bürgermeister hat die Stadt für das kommende Jahr zur "Kulturhauptstadt" *ausgerufen*.
+
+  Les manifestants *proclamaient* leurs revendications dans la rue.
+  Die Demonstranten *verkündeten* ihre Forderungen auf der Straße.
+
+  L'artiste a *proclamé* son amour pour son pays natal dans son discours.
+  Der Künstler hat in seiner Rede seine Liebe zu seinem Heimatland *proklamiert*.
+
+  Le tribunal a *proclamé* le verdict après trois jours de délibération.
+  Das Gericht hat nach drei Tagen Beratung das Urteil *verkündet*.
+
+  La charte des droits de l'homme a été solennellement *proclamée* par l'ONU.
+  Die Charta der Menschenrechte wurde von der UNO feierlich *proklamiert*.
+
+  Les révolutionnaires ont *proclamé* la fin de la monarchie.
+  Die Revolutionäre haben das Ende der Monarchie *ausgerufen*.
+
+  L'entreprise *proclame* son engagement pour l'environnement dans sa nouvelle campagne.
+  Das Unternehmen *verkündet* in seiner neuen Kampagne sein Engagement für die Umwelt.
+
+  Le poète *proclamait* son amour à travers ses vers.
+  Der Dichter *verkündete* seine Liebe durch seine Verse.
+
+  La presse a *proclamé* le film comme le chef-d'œuvre de l'année.
+  Die Presse hat den Film zum Meisterwerk des Jahres *erklärt*.
+
+  Les syndicats ont *proclamé* une grève générale pour la semaine prochaine.
+  Die Gewerkschaften haben für nächste Woche einen Generalstreik *ausgerufen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

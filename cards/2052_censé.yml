@@ -13,20 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle est censé donner une réponse.
-  Sie soll eine Antwort geben.
+  Elle est *censée* donner une réponse.
+  Sie *soll* eine Antwort geben.
 
-  Il est censé être là.
-  Er soll da sein.
+  Je suis *censé* être à la réunion dans une heure.
+  Ich *sollte* in einer Stunde beim Meeting sein.
 
-  Je suis censé faire mes devoirs ce soir.
-  Ich soll heute Abend meine Hausaufgaben machen.
+  Nous étions *censés* partir en vacances, mais nos plans ont changé.
+  Wir *sollten* eigentlich in den Urlaub fahren, aber unsere Pläne haben sich geändert.
 
-  Je suis censé connaître la réponse, mais je ne me souviens plus.
-  Ich bin eigentlich der Einzige, der die Antwort kennt, aber ich kann mich nicht mehr erinnern.
+  "*Censée* connaître la réponse, j'ai pourtant hésité."
+  "Obwohl ich die Antwort *eigentlich wissen müsste*, habe ich gezögert."
 
-  Je te le dis, mais tu n'es pas censé le savoir, c'est un secret.
-  Ich sage es dir, aber eigentlich darfst du es gar nicht wissen, es ist ein Geheimnis.
+  Le train est *censé* arriver à 15h, mais il a du retard.
+  Der Zug *soll* um 15 Uhr ankommen, hat aber Verspätung.
+
+  Tu n'étais pas *censé* être au courant de cette surprise !
+  Du *solltest* eigentlich nicht von dieser Überraschung wissen!
+
+  Les experts sont *censés* trouver une solution à ce problème.
+  Die Experten *sollen* eine Lösung für dieses Problem finden.
+
+  Nul n'est *censé* ignorer la loi.
+  Niemand kann sich darauf berufen, das Gesetz nicht zu *kennen*.
+
+  Que suis-je *censé* faire dans cette situation ?
+  Was *soll* ich in dieser Situation tun?
+
+  Les étudiants sont *censés* rendre leur devoir demain.
+  Die Studenten *sollen* ihre Hausaufgaben morgen abgeben.
+
+  Elle était *censée* m'appeler hier soir, mais je n'ai pas eu de nouvelles.
+  Sie *sollte* mich gestern Abend anrufen, aber ich habe nichts von ihr gehört.
+
+  Ce nouveau logiciel est *censé* améliorer notre productivité.
+  Diese neue Software *soll* unsere Produktivität verbessern.
+
+  Vous êtes *censé* avoir lu le rapport avant la réunion.
+  Sie *sollten* den Bericht vor dem Meeting gelesen haben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -9,24 +9,171 @@ Femininum / Plural: ''
 IPA: \e.kla.te\
 Definition: platzen, explodieren, ausbrechen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Quand la guerre a éclaté, tout était perdu.\nAls der Krieg ausbrach,\
-  \ war alles verloren.\n\nLe ballon a éclaté.\nDer Ballon ist geplatzt.\n\nLe jeune\
-  \ homme éclatait de santé.\nDer junge Mann strotzte vor Gesundheit. \n\nLa décision\
-  \ du président a fait éclater la coalition.\nDie Entscheidung des Präsidenten hat\
-  \ zum Bruch der Koalition geführt. \n\nLe scandale a éclaté lors d'une conférence\
-  \ de presse.\nEs kam zu einem Skandal während einer Pressekonferenz. \n\nUn coup\
-  \ de tonnerre éclata, faisant sursauter les passants.\nEs gab einen plötzlichen\
-  \ Donnerschlag, der die Passanten zusammenzucken ließ. \n\nIls éclatèrent de rire\
-  \ à la blague de Pierre.\nSie brachen in lautes Gelächter aus, als Pierre seinen\
-  \ Witz erzählte. \n\nL'ingénieur a fait éclater la dynamite pour dégager la route.\n\
-  Der Ingenieur hat die Dynamit zum Explodieren gebracht, um die Straße freizuräumen.\
-  \ \n\nLes ouvriers ont fait éclater les roches pour construire le tunnel.\nDie Arbeiter\
-  \ haben das Gestein gesprengt, um den Tunnel zu bauen. \n\nSa tristesse éclatait\
-  \ dans les yeux de Jean.\nJean trug seine Trauer im Gesicht.\n\nLa joie éclatait\
-  \ dans leurs yeux, ils étaient ravis de leur victoire.\nSie strahlten vor Freude,\
-  \ sie waren überglücklich über ihren Sieg.\n\nElle éclata en pleurs en apprenant\
-  \ la mauvaise nouvelle.\nSie brach in Tränen aus, als sie die schlechte Nachricht\
-  \ erfuhr."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Quand la guerre a *éclaté*, tout était perdu.
+  Als der Krieg *ausbrach*, war alles verloren.
+
+  La bombe a *éclaté* au milieu de la place, causant de nombreux dégâts.
+  Die Bombe *explodierte* mitten auf dem Platz und verursachte erheblichen Schaden.
+
+  Le pneu de ma voiture a *éclaté* sur l'autoroute.
+  Der Reifen meines Autos ist auf der Autobahn *geplatzt*.
+
+  Les châtaignes *éclatent* dans le feu, produisant un bruit caractéristique.
+  Die Kastanien *platzen* im Feuer auf und erzeugen ein charakteristisches Geräusch.
+
+  La structure du vieux bâtiment menace d'*éclater* sous la pression.
+  Die Struktur des alten Gebäudes droht unter dem Druck *auseinanderzubrechen*.
+
+  Le verre a *éclaté* en mille morceaux quand il est tombé.
+  Das Glas *zersprang* in tausend Stücke, als es herunterfiel.
+
+  Les bourgeons commencent à *éclater* au printemps.
+  Die Knospen beginnen im Frühling *aufzubrechen*.
+
+  L'épidémie a *éclaté* dans plusieurs pays simultanément.
+  Die Epidemie ist in mehreren Ländern gleichzeitig *ausgebrochen*.
+
+  L'orage a *éclaté* soudainement, surprenant tout le monde.
+  Das Gewitter *brach* plötzlich *los* und überraschte alle.
+
+  La nouvelle de sa démission a *éclaté* comme une bombe.
+  Die Nachricht von seinem Rücktritt *schlug ein* wie eine Bombe.
+
+  Des cris de joie ont *éclaté* dans la foule.
+  Freudenschreie *erschallten* aus der Menge.
+
+  Un coup de feu a *éclaté* dans la nuit, brisant le silence.
+  Ein Schuss *krachte* in der Nacht und durchbrach die Stille.
+
+  La fanfare a *éclaté* en une mélodie joyeuse.
+  Die Blaskapelle *schmetterte* eine fröhliche Melodie *los*.
+
+  Les applaudissements ont *éclaté* à la fin du discours.
+  Am Ende der Rede *brach* der Applaus *los*.
+
+  Un coup de tonnerre a *éclaté*, faisant sursauter tout le monde.
+  Ein Donnerschlag *krachte*, der alle zusammenzucken ließ.
+
+  Elle n'a pas pu s'empêcher d'*éclater* de rire face à cette situation absurde.
+  Sie konnte nicht anders, als angesichts dieser absurden Situation in lautes Gelächter *auszubrechen*.
+
+  Sa bonne foi *éclate* dans ses yeux.
+  Seine Aufrichtigkeit *steht* ihm im Gesicht *geschrieben*.
+
+  La joie *éclate* sur leurs visages.
+  Die Freude *strahlt* aus ihren Gesichtern.
+
+  L'enfant a *éclaté* en pleurs quand il a vu son jouet cassé.
+  Das Kind *brach* in Tränen *aus*, als es sein kaputtes Spielzeug sah.
+
+  Le journaliste a fait *éclater* la vérité sur cette affaire.
+  Der Journalist *brachte* die Wahrheit über diese Angelegenheit *ans Licht*.
+
+  Son comportement a fait *éclater* un scandale dans l'entreprise.
+  Sein Verhalten *löste* einen Skandal in der Firma *aus*.
+
+  Il a laissé *éclater* sa colère après des mois de frustration.
+  Er ließ seiner Wut nach Monaten der Frustration *freien Lauf*.
+
+  "*Éclate*-toi bien à la fête ce soir !" lui a-t-elle dit en souriant.
+  "*Amüsier dich* gut auf der Party heute Abend!", sagte sie lächelnd zu ihm.
+
+  Les jeunes s'*éclatent* en dansant toute la nuit.
+  Die Jugendlichen *haben einen Riesenspaß* beim Tanzen die ganze Nacht durch.
+
+  Il s'*éclate* vraiment dans son nouveau travail.
+  Er *hat wirklich Spaß* an seiner neuen Arbeit.
+
+  La coalition gouvernementale menace d'*éclater* en raison de désaccords internes.
+  Die Regierungskoalition droht aufgrund interner Meinungsverschiedenheiten *auseinanderzubrechen*.
+
+  Le ballon a *éclaté* quand l'enfant l'a trop gonflé.
+  Der Ballon *platzte*, als das Kind ihn zu stark aufblies.
+
+  Sa santé *éclate*, il déborde d'énergie.
+  Er *strotzt* vor Gesundheit und sprüht vor Energie.
+
+  Les roches ont *éclaté* sous l'effet des explosifs.
+  Die Felsen *zersprangen* durch die Wirkung der Sprengstoffe.
+
+  Le scandale financier a *éclaté* au grand jour.
+  Der Finanzskandal *kam* ans Tageslicht.
+
+  Les manifestants ont *éclaté* en cris de protestation.
+  Die Demonstranten *brachen* in Protestrufe *aus*.
+
+  Son talent a *éclaté* au grand jour lors de ce concours.
+  Sein Talent *trat* bei diesem Wettbewerb deutlich *zutage*.
+
+  La tension entre les deux pays a finalement *éclaté* en conflit ouvert.
+  Die Spannung zwischen den beiden Ländern *eskalierte* schließlich zu einem offenen Konflikt.
+
+  Les couleurs vives *éclatent* sous le soleil d'été.
+  Die leuchtenden Farben *strahlen* in der Sommersonne.
+
+  Le diamant *éclate* de mille feux sous la lumière.
+  Der Diamant *funkelt* in tausendfachem Glanz im Licht.
+
+  Sa carrière a *éclaté* après son premier rôle principal au cinéma.
+  Seine Karriere *explodierte* nach seiner ersten Hauptrolle im Kino.
+
+  Le silence a *éclaté* en mille morceaux quand la foule a commencé à chanter.
+  Die Stille *zerbrach* in tausend Stücke, als die Menge zu singen begann.
+
+  La vérité finira par *éclater*, peu importe les efforts pour la cacher.
+  Die Wahrheit wird am Ende *ans Licht kommen*, egal wie sehr man versucht, sie zu verbergen.
+
+  Son sourire *éclate* de sincérité.
+  Sein Lächeln *strahlt* vor Aufrichtigkeit.
+
+  La joie *éclate* dans leurs yeux quand ils se revoient.
+  Die Freude *leuchtet* in ihren Augen, wenn sie sich wiedersehen.
+
+  Le parti politique s'est *éclaté* en plusieurs factions rivales.
+  Die politische Partei *zersplitterte* in mehrere rivalisierende Fraktionen.
+
+  Les initiatives *éclatées* de l'entreprise manquent de cohérence.
+  Die *verstreuten* Initiativen des Unternehmens mangeln an Zusammenhang.
+
+  Le dessin *éclaté* de la machine aide à comprendre son fonctionnement.
+  Die *Explosionszeichnung* der Maschine hilft, ihre Funktionsweise zu verstehen.
+
+  Sa patience a fini par *éclater* face à tant de provocation.
+  Seine Geduld *platzte* schließlich angesichts so vieler Provokationen.
+
+  Les négociations ont *éclaté* suite à un désaccord majeur.
+  Die Verhandlungen *platzten* aufgrund einer großen Meinungsverschiedenheit.
+
+  Le bruit de l'explosion a *éclaté* dans toute la ville.
+  Der Lärm der Explosion *hallte* durch die ganze Stadt.
+
+  Son rire contagieux a *éclaté* dans la salle de classe.
+  Sein ansteckendes Lachen *brach* im Klassenzimmer *aus*.
+
+  La bulle spéculative a fini par *éclater*, entraînant une crise économique.
+  Die spekulative Blase *platzte* schließlich und führte zu einer Wirtschaftskrise.
+
+  Les fleurs *éclatent* de couleurs vives dans le jardin.
+  Die Blumen *erblühen* in leuchtenden Farben im Garten.
+
+  Le conflit a *éclaté* entre les deux frères pour une simple question d'héritage.
+  Der Konflikt *brach* zwischen den beiden Brüdern wegen einer einfachen Erbschaftsfrage *aus*.
+
+  Sa voix a *éclaté* de colère face à cette injustice.
+  Seine Stimme *barst* vor Wut angesichts dieser Ungerechtigkeit.
+
+  Le champion s'est *éclaté* sur la piste, battant tous les records.
+  Der Champion *gab alles* auf der Rennstrecke und brach alle Rekorde.
+
+  La beauté du paysage *éclate* aux yeux des visiteurs.
+  Die Schönheit der Landschaft *offenbart* sich den Augen der Besucher.
+
+  Les applaudissements ont *éclaté* spontanément à la fin de la performance.
+  Der Applaus *brach* spontan am Ende der Aufführung *aus*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ma démarche est purement professionnelle.
-  Mein Vorgehen ist rein beruflich.
+  Ma démarche est *purement* professionnelle.
+  Mein Vorgehen ist *rein* beruflich.
 
-  C’est purement une question de choix personnel.
-  Das ist rein eine Frage der persönlichen Wahl.
+  Cette décision a été prise *purement* et simplement pour des raisons économiques.
+  Diese Entscheidung wurde *schlicht und einfach* aus wirtschaftlichen Gründen getroffen.
 
-  J'ai donné un avis purement subjectif, qui ne reflète pas nécessairement la réalité.
-  Ich habe eine rein subjektive Meinung geäußert, die nicht unbedingt die Realität widerspiegelt.
+  Son approche de l'art est *purement* esthétique.
+  Seine Herangehensweise an die Kunst ist *rein* ästhetisch.
 
-  Ce n'est qu'un avis purement subjectif, basé sur mon expérience personnelle.
-  Das ist nur eine rein subjektive Meinung, die auf meiner persönlichen Erfahrung basiert.
+  Les motivations de l'entreprise sont *purement* financières.
+  Die Beweggründe des Unternehmens sind *rein* finanzieller Natur.
+
+  C'est une réaction *purement* instinctive de sa part.
+  Das ist eine *rein* instinktive Reaktion von ihm.
+
+  Il s'agit d'une coïncidence *purement* fortuite.
+  Es handelt sich um einen *rein* zufälligen Zufall.
+
+  La proposition a été *purement* et simplement rejetée.
+  Der Vorschlag wurde *kurzerhand* abgelehnt.
+
+  Son raisonnement est *purement* logique, sans aucune émotion.
+  Seine Argumentation ist *rein* logisch, ohne jegliche Emotion.
+
+  Elle écrit *purement* et avec élégance.
+  Sie schreibt *einwandfrei* und elegant.
+
+  Ce phénomène est *purement* scientifique.
+  Dieses Phänomen ist *rein* wissenschaftlich.
+
+  "J'ai fait ça *purement* par plaisir," a-t-il expliqué en souriant.
+  "Ich habe das *einfach* aus Spaß gemacht", erklärte er lächelnd.
+
+  Les résultats de l'expérience sont *purement* théoriques pour l'instant.
+  Die Ergebnisse des Experiments sind im Moment *rein* theoretisch.
+
+  Cette loi a été adoptée *purement* et simplement, sans aucun amendement.
+  Dieses Gesetz wurde *ohne Wenn und Aber*, ohne jegliche Änderung verabschiedet.
+
+  Son geste était *purement* désintéressé, sans attendre de récompense.
+  Seine Geste war *völlig* uneigennützig, ohne eine Belohnung zu erwarten.
+
+  La beauté de ce paysage est *purement* naturelle, sans intervention humaine.
+  Die Schönheit dieser Landschaft ist *rein* natürlich, ohne menschlichen Eingriff.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

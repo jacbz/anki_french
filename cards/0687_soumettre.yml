@@ -13,41 +13,104 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  De retour chez eux, elle l’a soumis à un ultime test.
-  Zu Hause angekommen, unterzog sie ihn einem letzten Test.
+  De retour chez eux, elle l'a *soumis* à un ultime test.
+  Nach ihrer Rückkehr hat sie ihn einem letzten Test *unterzogen*.
 
-  Je vais soumettre mon projet au comité.
-  Ich werde meinen Plan dem Ausschuss vorlegen.
+  Le général a *soumis* les rebelles après une longue bataille.
+  Der General hat die Rebellen nach einer langen Schlacht *unterworfen*.
 
-  Le coach a soumis son joueur à un entraînement spécial pour le préparer à la compétition.
-  Der Trainer hat seinen Spieler einem speziellen Training unterzogen, um ihn auf den Wettkampf vorzubereiten.
+  Nous devons *soumettre* notre rapport avant la fin de la semaine.
+  Wir müssen unseren Bericht vor Ende der Woche *einreichen*.
 
-  Le joueur s'est soumis à la demande de son entraîneur.
-  Der Spieler hat sich der Bitte seines Trainers gefügt.
+  Les citoyens doivent se *soumettre* aux lois du pays.
+  Die Bürger müssen sich den Gesetzen des Landes *unterwerfen*.
 
-  L'État soumet tous les citoyens à une réglementation stricte concernant la sécurité routière.
-  Der Staat unterwirft alle Bürger einer strengen Verordnung bezüglich der Verkehrssicherheit.
+  L'entreprise *soumet* ses employés à un contrôle strict des horaires.
+  Das Unternehmen *unterwirft* seine Angestellten einer strengen Zeitkontrolle.
 
-  Le gouvernement a soumis le projet de loi au vote du Parlement.
-  Die Regierung hat das Gesetzesvorhaben der Abstimmung im Parlament unterzogen.
+  Le chercheur a *soumis* son article à une revue scientifique.
+  Der Forscher hat seinen Artikel bei einer wissenschaftlichen Zeitschrift *eingereicht*.
 
-  L'auteur a soumis son manuscrit à plusieurs éditeurs avant de trouver un qui l'accepte.
-  Der Autor hat sein Manuskript mehreren Verlagen unterbreitet, bevor er einen fand, der es akzeptierte.
+  Les échantillons ont été *soumis* à des tests rigoureux.
+  Die Proben wurden strengen Tests *unterzogen*.
 
-  Le malade a dû se soumettre à une série d'analyses pour déterminer la cause de sa maladie.
-  Der Patient musste sich einer Reihe von Untersuchungen unterziehen, um die Ursache seiner Krankheit zu ermitteln.
+  Il faut *soumettre* cette idée au comité de direction.
+  Man muss diese Idee dem Vorstand *vorlegen*.
 
-  Le chef d'entreprise a soumis ses employés à des tests de performance.
-  Der Chef des Unternehmens hat seine Angestellten Leistungstests unterzogen.
+  Le chien s'est finalement *soumis* à l'autorité de son maître.
+  Der Hund hat sich schließlich der Autorität seines Herrchens *unterworfen*.
 
-  Les entreprises ne sont pas obligées de soumettre leurs bénéfices à l'impôt.
-  Unternehmen sind nicht verpflichtet, ihre Gewinne zu versteuern.
+  Nous allons *soumettre* notre candidature pour ce poste.
+  Wir werden unsere Bewerbung für diese Stelle *einreichen*.
 
-  L'athlète s'est soumis à un régime alimentaire strict pour améliorer ses performances.
-  Der Athlet hat sich einer strengen Diät unterzogen, um seine Leistungen zu verbessern.
+  Le tribunal a *soumis* l'accusé à un interrogatoire serré.
+  Das Gericht hat den Angeklagten einem scharfen Verhör *unterzogen*.
 
-  Le jury a soumis les candidats à une épreuve finale pour déterminer le vainqueur.
-  Die Jury hat die Kandidaten einer Abschlussprüfung unterzogen, um den Gewinner zu ermitteln.
+  Les athlètes se *soumettent* à un entraînement intensif.
+  Die Athleten *unterziehen* sich einem intensiven Training.
+
+  Le projet de loi sera *soumis* au vote du Parlement.
+  Der Gesetzentwurf wird dem Parlament zur Abstimmung *vorgelegt*.
+
+  Il a dû *soumettre* sa décision à l'approbation de ses parents.
+  Er musste seine Entscheidung der Zustimmung seiner Eltern *unterwerfen*.
+
+  Les nouveaux produits sont *soumis* à des contrôles de qualité.
+  Die neuen Produkte werden Qualitätskontrollen *unterzogen*.
+
+  Le roi a *soumis* les provinces conquises à son autorité.
+  Der König hat die eroberten Provinzen seiner Autorität *unterworfen*.
+
+  Nous devons *soumettre* notre demande de visa avant le voyage.
+  Wir müssen unseren Visumantrag vor der Reise *einreichen*.
+
+  L'expérience a été *soumise* à l'examen du comité d'éthique.
+  Das Experiment wurde der Prüfung des Ethikkomitees *vorgelegt*.
+
+  Les étudiants doivent *soumettre* leurs devoirs avant la date limite.
+  Die Studenten müssen ihre Hausaufgaben vor dem Stichtag *abgeben*.
+
+  Le pays s'est *soumis* aux exigences du FMI pour obtenir un prêt.
+  Das Land hat sich den Forderungen des IWF *gebeugt*, um einen Kredit zu erhalten.
+
+  Il faut *soumettre* cette hypothèse à une vérification empirique.
+  Diese Hypothese muss einer empirischen Überprüfung *unterzogen* werden.
+
+  Le patient s'est *soumis* à un traitement expérimental.
+  Der Patient hat sich einer experimentellen Behandlung *unterzogen*.
+
+  Nous devons *soumettre* notre proposition au client demain.
+  Wir müssen dem Kunden morgen unseren Vorschlag *unterbreiten*.
+
+  L'armée a *soumis* la ville après un long siège.
+  Die Armee hat die Stadt nach einer langen Belagerung *unterworfen*.
+
+  Les candidats seront *soumis* à une série d'entretiens.
+  Die Kandidaten werden einer Reihe von Interviews *unterzogen*.
+
+  Il a *soumis* son manuscrit à plusieurs éditeurs.
+  Er hat sein Manuskript bei mehreren Verlagen *eingereicht*.
+
+  Le gouvernement a *soumis* un nouveau plan économique au Parlement.
+  Die Regierung hat dem Parlament einen neuen Wirtschaftsplan *vorgelegt*.
+
+  Les volontaires se sont *soumis* à une expérience psychologique.
+  Die Freiwilligen haben sich einem psychologischen Experiment *unterzogen*.
+
+  Nous devons nous *soumettre* aux règles de sécurité de l'entreprise.
+  Wir müssen uns den Sicherheitsvorschriften des Unternehmens *unterwerfen*.
+
+  Le chef a *soumis* ses employés à un rythme de travail intense.
+  Der Chef hat seine Angestellten einem intensiven Arbeitsrhythmus *ausgesetzt*.
+
+  L'avocat a *soumis* de nouvelles preuves au tribunal.
+  Der Anwalt hat dem Gericht neue Beweise *vorgelegt*.
+
+  Les aliments sont *soumis* à des contrôles sanitaires stricts.
+  Die Lebensmittel werden strengen Hygienekontrollen *unterzogen*.
+
+  La proposition sera *soumise* au vote des actionnaires.
+  Der Vorschlag wird den Aktionären zur Abstimmung *vorgelegt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

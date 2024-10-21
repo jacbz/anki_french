@@ -13,20 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Une époque ne se caractérise pas seulement par ses idées.
-  Eine Epoche zeichnet sich nicht nur durch ihre Ideen aus.
+  Une époque ne se *caractérise* pas seulement par ses idées.
+  Eine Epoche *zeichnet* sich nicht nur durch ihre Ideen *aus*.
 
-  Ce roman se caractérise par une intrigue complexe.
-  Dieser Roman zeichnet sich durch eine komplexe Handlung aus.
+  Le style baroque *caractérise* l'architecture du XVIIe siècle.
+  Der Barockstil *kennzeichnet* die Architektur des 17. Jahrhunderts.
 
-  Il a répondu à la question avec la franchise qui le caractérise.
-  Er hat die Frage mit der für ihn charakteristischen Offenheit beantwortet.
+  Cette région se *caractérise* par un climat méditerranéen.
+  Diese Region *zeichnet* sich durch ein mediterranes Klima *aus*.
 
-  Ce livre se caractérise par son style simple et clair.
-  Dieses Buch zeichnet sich durch seinen einfachen und klaren Stil aus.
+  La gentillesse *caractérise* vraiment sa personnalité.
+  Freundlichkeit *charakterisiert* wirklich seine Persönlichkeit.
 
-  La grippe est caractérisée par une forte fièvre, des maux de tête et des douleurs musculaires.
-  Bei Grippe ist hohes Fieber, Kopfschmerzen und Muskelschmerzen symptomatisch.
+  Le professeur a demandé aux élèves de *caractériser* le personnage principal du roman.
+  Der Lehrer bat die Schüler, die Hauptfigur des Romans zu *charakterisieren*.
+
+  La grippe est *caractérisée* par une forte fièvre et des douleurs musculaires.
+  Grippe ist durch hohes Fieber und Muskelschmerzen *gekennzeichnet*.
+
+  Comment *caractériseriez*-vous la politique étrangère actuelle de votre pays ?
+  Wie würden Sie die aktuelle Außenpolitik Ihres Landes *beschreiben*?
+
+  L'œuvre de cet artiste se *caractérise* par l'utilisation de couleurs vives.
+  Das Werk dieses Künstlers *zeichnet* sich durch die Verwendung lebhafter Farben *aus*.
+
+  Les scientifiques cherchent à *caractériser* les propriétés de ce nouveau matériau.
+  Die Wissenschaftler versuchen, die Eigenschaften dieses neuen Materials zu *charakterisieren*.
+
+  La franchise qui le *caractérise* lui vaut parfois des ennuis.
+  Die Offenheit, die ihn *charakterisiert*, bringt ihm manchmal Ärger ein.
+
+  Cette erreur peut être *caractérisée* comme une négligence grave.
+  Dieser Fehler kann als grobe Fahrlässigkeit *charakterisiert* werden.
+
+  Le film *caractérise* bien les défis auxquels notre génération est confrontée.
+  Der Film *charakterisiert* gut die Herausforderungen, mit denen unsere Generation konfrontiert ist.
+
+  Les symptômes qui *caractérisent* cette maladie sont encore mal connus.
+  Die Symptome, die diese Krankheit *kennzeichnen*, sind noch wenig bekannt.
+
+  Comment *caractériseriez*-vous votre relation avec vos collègues ?
+  Wie würden Sie Ihre Beziehung zu Ihren Kollegen *charakterisieren*?
+
+  L'empathie *caractérise* son approche en tant que médecin.
+  Empathie *charakterisiert* seinen Ansatz als Arzt.
+
+  Cette découverte *caractérise* une avancée majeure dans le domaine de la physique.
+  Diese Entdeckung *kennzeichnet* einen großen Fortschritt auf dem Gebiet der Physik.
+
+  Le professeur a demandé aux étudiants de *caractériser* brièvement l'époque des Lumières.
+  Der Professor bat die Studenten, die Epoche der Aufklärung kurz zu *charakterisieren*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

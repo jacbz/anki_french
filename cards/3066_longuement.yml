@@ -13,14 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle m’a longuement regardé, sans colère.
-  Sie sah mich lange an, ohne Zorn.
+  Elle m'a *longuement* regardé, sans colère.
+  Sie hat mich *lange* angeschaut, ohne Ärger.
 
-  Il a parlé longuement de son voyage.
-  Er hat ausführlich über seine Reise gesprochen.
+  Le professeur a *longuement* expliqué ce chapitre difficile.
+  Der Lehrer hat dieses schwierige Kapitel *ausführlich* erklärt.
 
-  Il a réfléchi longuement avant de donner une réponse longuement méditée.
-  Er hat lange überlegt, bevor er eine wohlbedachte Antwort gegeben hat.
+  J'ai *longuement* réfléchi avant de prendre ma décision.
+  Ich habe *lange* nachgedacht, bevor ich meine Entscheidung getroffen habe.
+
+  Nous avons discuté *longuement* de nos projets d'avenir.
+  Wir haben *ausführlich* über unsere Zukunftspläne gesprochen.
+
+  Il s'est *longuement* entraîné pour cette compétition.
+  Er hat *lange* für diesen Wettbewerb trainiert.
+
+  La commission a *longuement* étudié votre dossier.
+  Die Kommission hat Ihre Akte *eingehend* geprüft.
+
+  Elle a soupiré *longuement* avant de répondre.
+  Sie hat *lang* geseufzt, bevor sie antwortete.
+
+  Cette question a été *longuement* débattue lors de la réunion.
+  Diese Frage wurde während der Sitzung *lang und breit* diskutiert.
+
+  Les experts ont *longuement* analysé les résultats.
+  Die Experten haben die Ergebnisse *eingehend* analysiert.
+
+  Il m'a *longuement* parlé de ses voyages.
+  Er hat mir *ausführlich* von seinen Reisen erzählt.
+
+  Sa réponse *longuement* méditée m'a surpris.
+  Seine *wohlbedachte* Antwort hat mich überrascht.
+
+  Le guide s'est *longuement* attardé sur l'histoire du château.
+  Der Führer ist *ausführlich* auf die Geschichte des Schlosses eingegangen.
+
+  Marie a *longuement* hésité avant d'accepter l'offre.
+  Marie hat *lange* gezögert, bevor sie das Angebot annahm.
+
+  Les chercheurs ont *longuement* observé ce phénomène rare.
+  Die Forscher haben dieses seltene Phänomen *lange* beobachtet.
+
+  Il a insisté *longuement* sur l'importance de la ponctualité.
+  Er hat *ausführlich* auf die Wichtigkeit der Pünktlichkeit hingewiesen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

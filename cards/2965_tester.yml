@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Opératrice, veuillez tester ce numéro.
-  Vermittlung, bitte testen Sie diese Nummer.
+  Opératrice, veuillez *tester* ce numéro.
+  Telefonistin, bitte *überprüfen* Sie diese Nummer.
 
-  Je vais tester cette nouvelle recette.
-  Ich werde dieses neue Rezept ausprobieren.
+  Le laboratoire va *tester* ce nouveau médicament sur des volontaires.
+  Das Labor wird dieses neue Medikament an Freiwilligen *testen*.
+
+  Avant d'acheter cette voiture, j'aimerais la *tester* sur route.
+  Bevor ich dieses Auto kaufe, möchte ich es auf der Straße *probefahren*.
+
+  Les ingénieurs doivent *tester* le logiciel pour détecter les bugs.
+  Die Ingenieure müssen die Software auf Fehler *testen*.
+
+  Le professeur va *tester* les connaissances des élèves avec un examen surprise.
+  Der Lehrer wird das Wissen der Schüler mit einer Überraschungsprüfung *testen*.
+
+  "Je vais *tester* ta patience aujourd'hui," dit l'enfant espiègle à sa mère.
+  "Ich werde heute deine Geduld auf die *Probe stellen*", sagte das schelmische Kind zu seiner Mutter.
+
+  L'entreprise *teste* actuellement un nouveau système de paiement en ligne.
+  Das Unternehmen *testet* derzeit ein neues Online-Zahlungssystem.
+
+  Il faut *tester* la solidité de ce pont avant son ouverture au public.
+  Die Stabilität dieser Brücke muss vor ihrer Eröffnung für die Öffentlichkeit *geprüft* werden.
+
+  Les scientifiques vont *tester* cette hypothèse par une série d'expériences.
+  Die Wissenschaftler werden diese Hypothese durch eine Reihe von Experimenten *testen*.
+
+  Le cuisinier doit *tester* chaque plat avant de le servir aux clients.
+  Der Koch muss jedes Gericht *probieren*, bevor er es den Kunden serviert.
+
+  Nous allons *tester* différentes stratégies marketing pour augmenter nos ventes.
+  Wir werden verschiedene Marketingstrategien *ausprobieren*, um unsere Verkäufe zu steigern.
+
+  Le médecin va *tester* votre vision avec un examen oculaire complet.
+  Der Arzt wird Ihr Sehvermögen mit einer umfassenden Augenuntersuchung *testen*.
+
+  L'athlète doit *tester* ses limites pour s'améliorer constamment.
+  Der Athlet muss seine Grenzen *austesten*, um sich ständig zu verbessern.
+
+  Le juge a demandé à l'accusé s'il souhaitait *tester* avant sa condamnation.
+  Der Richter fragte den Angeklagten, ob er vor seiner Verurteilung ein *Testament machen* wolle.
+
+  Les techniciens vont *tester* le nouveau puits de pétrole avec un appareil spécial.
+  Die Techniker werden den neuen Ölbrunnen mit einem speziellen Gerät *testen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

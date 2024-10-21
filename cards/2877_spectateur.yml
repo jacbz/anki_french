@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les spectateurs s’enfuient épouvantés.
-  Die Zuschauer laufen entsetzt weg.
+  Les *spectateurs* s'enfuient épouvantés.
+  Die *Zuschauer* fliehen entsetzt.
 
-  Le spectacle a attiré de nombreux spectateurs.
-  Die Vorstellung hat viele Zuschauer angezogen.
+  Le nombre de *spectateurs* a dépassé nos attentes pour cette première.
+  Die *Zuschauerzahl* hat bei dieser Premiere unsere Erwartungen übertroffen.
 
-  La nouvelle pièce a attiré un grand nombre de spectateurs.
-  Die neue Inszenierung hat hohe Zuschauerzahlen verzeichnet.
+  Les *spectatrices* au premier rang ont applaudi avec enthousiasme.
+  Die *Zuschauerinnen* in der ersten Reihe applaudierten begeistert.
 
-  La jeune femme est une spectatrice de théâtre assidue.
-  Die junge Frau ist eine begeisterte Theaterbesucherin.
+  Ce *spectateur* assidu ne rate jamais une représentation de notre théâtre.
+  Dieser treue *Theaterbesucher* verpasst nie eine Aufführung in unserem Theater.
+
+  En tant que simple *spectateur*, je n'ai pas le droit d'intervenir dans le débat.
+  Als bloßer *Beobachter* habe ich kein Recht, in die Debatte einzugreifen.
+
+  Les *spectateurs* du drame ont été interrogés par la police.
+  Die *Zeugen* des Dramas wurden von der Polizei befragt.
+
+  L'acteur principal a salué chaleureusement les *spectateurs* à la fin du spectacle.
+  Der Hauptdarsteller grüßte die *Zuschauer* am Ende der Vorstellung herzlich.
+
+  La manifestation a attiré des milliers de *spectateurs* dans les rues.
+  Die Demonstration lockte Tausende von *Zuschauern* auf die Straßen.
+
+  Elle préfère être *spectatrice* plutôt que de participer activement.
+  Sie zieht es vor, *Zuschauerin* zu sein, anstatt aktiv teilzunehmen.
+
+  Les applaudissements des *spectateurs* ont duré plusieurs minutes.
+  Der Applaus der *Zuschauer* dauerte mehrere Minuten an.
+
+  Le stade était rempli de *spectateurs* enthousiastes pour le match final.
+  Das Stadion war für das Endspiel mit begeisterten *Zuschauern* gefüllt.
+
+  Les *spectatrices* au premier rang ont été éclaboussées par la fontaine.
+  Die *Zuschauerinnen* in der ersten Reihe wurden von dem Springbrunnen bespritzt.
+
+  Le silence des *spectateurs* était palpable pendant la scène dramatique.
+  Die Stille der *Zuschauer* war während der dramatischen Szene spürbar.
+
+  Les *spectateurs* ont été invités à participer à l'expérience interactive.
+  Die *Zuschauer* wurden eingeladen, an dem interaktiven Experiment teilzunehmen.
+
+  "Je ne veux plus être un simple *spectateur* de ma vie," a-t-il déclaré.
+  "Ich will nicht länger nur *Zuschauer* in meinem Leben sein," erklärte er.
+
+  Les *spectateurs* du défilé du 14 Juillet ont agité des drapeaux français.
+  Die *Zuschauer* der Parade am 14. Juli schwenkten französische Fahnen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

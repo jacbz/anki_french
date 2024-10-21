@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai essayé de vous téléphoner chez vous.
-  Ich habe versucht, Sie zu Hause anzurufen.
+  J'ai essayé de vous *téléphoner* chez vous.
+  Ich habe versucht, Sie zu Hause *anzurufen*.
 
-  Je vais téléphoner à ma mère ce soir.
-  Ich werde heute Abend meine Mutter anrufen.
+  Elle m'a *téléphoné* pour m'annoncer la bonne nouvelle.
+  Sie hat mich *angerufen*, um mir die gute Nachricht mitzuteilen.
 
-  J'ai téléphoné la nouvelle à Marie, qui était très heureuse de l'apprendre.
-  Ich habe Marie die Neuigkeit telefonisch mitgeteilt, die sich sehr darüber freute.
+  Pourriez-vous *téléphoner* à mon bureau pour confirmer le rendez-vous ?
+  Könnten Sie in meinem Büro *anrufen*, um den Termin zu bestätigen?
 
-  J'ai téléphoné à mon ami pour lui donner des nouvelles.
-  Ich habe meinen Freund angerufen, um ihm Neuigkeiten zu erzählen.
+  Je dois *téléphoner* à ma mère, elle s'inquiète si je ne l'appelle pas régulièrement.
+  Ich muss meine Mutter *anrufen*, sie macht sich Sorgen, wenn ich mich nicht regelmäßig melde.
+
+  Il est interdit de *téléphoner* au volant.
+  Es ist verboten, während der Fahrt zu *telefonieren*.
+
+  "Tu peux me *téléphoner* quand tu veux, je serai là pour toi."
+  "Du kannst mich *anrufen*, wann immer du willst, ich werde für dich da sein."
+
+  Le journaliste a *téléphoné* les dernières informations à la rédaction.
+  Der Journalist hat die neuesten Informationen an die Redaktion *durchgegeben*.
+
+  Nous nous *téléphonons* tous les week-ends pour garder le contact.
+  Wir *telefonieren* jedes Wochenende miteinander, um in Kontakt zu bleiben.
+
+  *Téléphonez*-moi dès que vous arrivez à l'hôtel.
+  *Rufen* Sie mich an, sobald Sie im Hotel ankommen.
+
+  Les enfants adorent *téléphoner* à leurs grands-parents.
+  Die Kinder lieben es, ihre Großeltern *anzurufen*.
+
+  J'ai *téléphoné* trois fois, mais personne n'a répondu.
+  Ich habe dreimal *angerufen*, aber niemand hat geantwortet.
+
+  Elle *téléphonera* demain pour nous donner les résultats de l'examen.
+  Sie wird morgen *anrufen*, um uns die Prüfungsergebnisse mitzuteilen.
+
+  "Ce film est tellement *téléphoné* qu'on devine la fin dès le début."
+  "Dieser Film ist so *vorhersehbar*, dass man das Ende von Anfang an errät."
+
+  Le message *téléphoné* n'était pas très clair, pouvez-vous rappeler ?
+  Die *telefonisch übermittelte* Nachricht war nicht sehr klar, können Sie nochmal anrufen?
+
+  Avant l'ère d'internet, on *téléphonait* beaucoup plus souvent.
+  Vor dem Internetzeitalter hat man viel häufiger *telefoniert*.
+
+  N'oubliez pas de *téléphoner* pour annuler votre réservation si vous ne pouvez pas venir.
+  Vergessen Sie nicht *anzurufen*, um Ihre Reservierung zu stornieren, falls Sie nicht kommen können.
+
+  Les amis se sont *téléphoné* pour organiser une fête surprise.
+  Die Freunde haben sich gegenseitig *angerufen*, um eine Überraschungsparty zu organisieren.
+
+  Je préfère *téléphoner* plutôt que d'envoyer un message, c'est plus personnel.
+  Ich *telefoniere* lieber, anstatt eine Nachricht zu schicken, das ist persönlicher.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

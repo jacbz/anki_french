@@ -9,27 +9,87 @@ Femininum / Plural: ''
 IPA: \pɛʁ.mi\
 Definition: Erlaubnis, Führerschein
 Register: ↗Mündlich
-Beispielsätze: "Vos papiers? Pièce d’identité, permis de conduire.\nIhre Papiere:\
-  \ Personalausweis, Führerschein.\n\nJ’ai obtenu mon permis de conduire hier.\nIch\
-  \ habe gestern meinen Führerschein bekommen.\n\nUn jour, ils vont te prendre ton\
-  \ permis de conduire.\nEines Tages werden sie dir den Führerschein wegnehmen.\n\n\
-  Pour obtenir le droit de conduire une moto, il faut passer le permis moto. \nUm\
-  \ das Recht zu erhalten, Motorrad zu fahren, muss man den Motorradführerschein machen.\n\
-  \nJ'ai passé le permis il y a quelques mois, mais je ne suis pas encore reçu.\n\
-  Ich habe den Führerschein vor ein paar Monaten gemacht, aber ich habe die Prüfung\
-  \ noch nicht bestanden.\n\nJean-Pierre, qui est passionné de chasse, a passé le\
-  \ permis de chasse avec succès.\nJean-Pierre, der leidenschaftlich gerne jagt, hat\
-  \ den Jagdschein bestanden.\n\nPour conduire un poids lourd, il faut obtenir un\
-  \ permis poids lourd.\nUm einen Lkw fahren zu dürfen, muss man einen Lkw-Führerschein\
-  \ haben.\n\nIl a échoué au permis de conduire, mais il va le repasser.\nEr ist bei\
-  \ der Führerscheinprüfung durchgefallen, aber er wird sie wiederholen.\n\nAvec un\
-  \ permis de pêche, on peut pêcher dans les rivières et les lacs.\nMit einem Angelschein\
-  \ darf man in Flüssen und Seen angeln.\n\nAvant de pouvoir chasser, il faut passer\
-  \ l'examen du permis de chasse.\nBevor man jagen darf, muss man die Jagdprüfung\
-  \ ablegen.\n\nJ'ai passé l'examen du permis de chasse, mais j'ai échoué.\nIch habe\
-  \ die Jagdprüfung abgelegt, aber ich bin durchgefallen.\n\nIl est heureux d'avoir\
-  \ un permis de chasser et de pouvoir pratiquer sa passion.\nEr ist glücklich, einen\
-  \ Jagdschein zu haben und seiner Leidenschaft nachgehen zu können."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Vos papiers ? Pièce d'identité, *permis* de conduire.
+  Ihre Papiere bitte? Personalausweis, *Führerschein*.
+
+  J'ai enfin obtenu mon *permis* de conduire après trois tentatives.
+  Ich habe endlich meinen *Führerschein* nach drei Versuchen bestanden.
+
+  Le *permis* de construire a été approuvé par la mairie.
+  Die Bau*genehmigung* wurde vom Rathaus erteilt.
+
+  "Tu as ton *permis* moto ?" "Non, seulement le *permis* voiture."
+  "Hast du deinen Motorrad*führerschein*?" "Nein, nur den Auto*führerschein*."
+
+  Il faut un *permis* spécial pour conduire un poids lourd.
+  Man braucht einen speziellen *Führerschein*, um einen LKW zu fahren.
+
+  Elle a réussi son examen du *permis* du premier coup.
+  Sie hat ihre *Führerscheinprüfung* beim ersten Mal bestanden.
+
+  Le policier a contrôlé mon *permis* et mes papiers d'assurance.
+  Der Polizist hat meinen *Führerschein* und meine Versicherungspapiere kontrolliert.
+
+  Mon grand-père a dû repasser son *permis* à cause de problèmes de vue.
+  Mein Großvater musste wegen Sehproblemen seinen *Führerschein* neu machen.
+
+  Le *permis* à points encourage une conduite plus responsable.
+  Der Punkte*führerschein* fördert ein verantwortungsvolleres Fahrverhalten.
+
+  Sans *permis* de pêche, vous risquez une amende.
+  Ohne Angel*schein* riskieren Sie ein Bußgeld.
+
+  L'entreprise a demandé un *permis* d'exploitation pour sa nouvelle usine.
+  Das Unternehmen hat eine Betriebs*genehmigung* für seine neue Fabrik beantragt.
+
+  Le *permis* de chasse est obligatoire pour participer à cette battue.
+  Der Jagd*schein* ist für die Teilnahme an dieser Treibjagd obligatorisch.
+
+  Attention, conduire sans *permis* est une infraction grave.
+  Achtung, Fahren ohne *Führerschein* ist eine schwere Ordnungswidrigkeit.
+
+  "J'ai raté mon *permis* trois fois, je commence à désespérer."
+  "Ich bin dreimal durch die *Fahrprüfung* gefallen, ich fange an zu verzweifeln."
+
+  Le *permis* probatoire dure trois ans pour les nouveaux conducteurs.
+  Der Probe*führerschein* gilt für Fahranfänger drei Jahre lang.
+
+  Il faut un *permis* spécial pour transporter des matières dangereuses.
+  Man braucht eine spezielle *Genehmigung*, um Gefahrgut zu transportieren.
+
+  Les autorités ont révoqué son *permis* d'exploitation forestière.
+  Die Behörden haben seine Wald*nutzungsgenehmigung* widerrufen.
+
+  "Tu as ton *permis* bateau ?" "Oui, je l'ai passé l'été dernier."
+  "Hast du deinen Boots*führerschein*?" "Ja, ich habe ihn letzten Sommer gemacht."
+
+  Le *permis* de séjour lui a été refusé pour des raisons administratives.
+  Die Aufenthalts*genehmigung* wurde ihm aus verwaltungstechnischen Gründen verweigert.
+
+  Sans *permis* de travail, il ne peut pas être embauché légalement.
+  Ohne Arbeits*erlaubnis* kann er nicht legal eingestellt werden.
+
+  La municipalité a accordé un *permis* de démolir pour cet ancien bâtiment.
+  Die Stadtverwaltung hat eine Abbruch*genehmigung* für dieses alte Gebäude erteilt.
+
+  Le *permis* de port d'armes est strictement réglementé en France.
+  Die Waffentrag*erlaubnis* ist in Frankreich streng reguliert.
+
+  "J'ai enfin mon *permis* poids lourd, je peux postuler comme chauffeur."
+  "Ich habe endlich meinen LKW-*Führerschein*, ich kann mich als Fahrer bewerben."
+
+  Il a perdu son *permis* à cause d'un excès de vitesse.
+  Er hat seinen *Führerschein* wegen zu schnellen Fahrens verloren.
+
+  Le *permis* d'inhumer est nécessaire avant de procéder à l'enterrement.
+  Die Bestattungs*genehmigung* ist vor der Beerdigung erforderlich.
+
+  Les agents forestiers vérifient systématiquement les *permis* de chasse.
+  Die Förster überprüfen systematisch die Jagd*scheine*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

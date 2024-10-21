@@ -13,14 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La baie immense de naples s’éployait sans fin.
-  Die riesige Bucht von Neapel breitete sich endlos aus.
+  La *baie* immense de Naples s'éployait sans fin.
+  Die riesige *Bucht* von Neapel erstreckte sich endlos.
 
-  Nous avons visité la baie de Somme.
-  Wir haben die Bucht von Somme besucht.
+  Les pêcheurs ont trouvé refuge dans une petite *baie* abritée.
+  Die Fischer fanden Zuflucht in einer kleinen geschützten *Bucht*.
 
-  La baie vitrée offrait une vue imprenable sur la vallée.
-  Das große Glasfenster bot einen atemberaubenden Blick auf das Tal.
+  La maison dispose d'une grande *baie* vitrée donnant sur le jardin.
+  Das Haus verfügt über ein großes *Fenster* mit Blick auf den Garten.
+
+  Les *baies* de genévrier sont utilisées pour aromatiser le gin.
+  Die Wacholder*beeren* werden zur Aromatisierung von Gin verwendet.
+
+  La *baie* de San Francisco est connue pour son célèbre pont.
+  Die *Bucht* von San Francisco ist für ihre berühmte Brücke bekannt.
+
+  L'architecte a conçu une *baie* circulaire pour laisser entrer plus de lumière.
+  Der Architekt entwarf ein rundes *Fenster*, um mehr Licht hineinzulassen.
+
+  Les oiseaux se régalent des *baies* rouges du houx en hiver.
+  Die Vögel erfreuen sich im Winter an den roten Stech*palmenbeeren*.
+
+  La *baie* des Trépassés en Bretagne est réputée pour ses légendes.
+  Die *Bucht* der Verstorbenen in der Bretagne ist für ihre Legenden bekannt.
+
+  Les framboises sont des *baies* composées de petites drupéoles.
+  Himbeeren sind zusammengesetzte *Beeren* aus kleinen Steinfrüchtchen.
+
+  Une large *baie* ouverte permet d'admirer le paysage montagneux.
+  Ein großes offenes *Fenster* ermöglicht es, die Berglandschaft zu bewundern.
+
+  La *baie* de Somme est réputée pour sa biodiversité exceptionnelle.
+  Die *Bucht* der Somme ist für ihre außergewöhnliche Biodiversität bekannt.
+
+  Les myrtilles sont des *baies* riches en antioxydants.
+  Heidelbeeren sind *Beeren* mit einem hohen Anteil an Antioxidantien.
+
+  L'hôtel offre une vue imprenable sur la *baie* de Rio.
+  Das Hotel bietet einen atemberaubenden Blick auf die *Bucht* von Rio.
+
+  Le mur de la cuisine comporte une *baie* coulissante menant à la terrasse.
+  Die Küchenwand hat eine *Schiebetür*, die zur Terrasse führt.
+
+  Les enfants cueillent des *baies* sauvages dans la forêt.
+  Die Kinder pflücken wilde *Beeren* im Wald.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

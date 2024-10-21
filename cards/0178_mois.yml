@@ -13,35 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il a écrit ce livre en deux mois.
-  Er schrieb das Buch in zwei Monaten.
+  Il a écrit ce livre en deux *mois*.
+  Er hat dieses Buch in zwei *Monaten* geschrieben.
 
-  Je suis né en janvier, le premier mois de l’année.
-  Ich bin im Januar geboren, dem ersten Monat des Jahres.
+  Le *mois* de janvier est souvent le plus froid de l'année.
+  Der *Monat* Januar ist oft der kälteste des Jahres.
 
-  Il vient ici une fois par mois.
-  Er kommt einmal im Monat hierher.
+  Nous partons en vacances le *mois* prochain.
+  Wir fahren nächsten *Monat* in den Urlaub.
 
-  Le mois de janvier est souvent le plus froid de l'année.
-  Der Januar ist oft der kälteste Monat des Jahres.
+  Elle gagne 2000 euros par *mois*.
+  Sie verdient 2000 Euro pro *Monat*.
 
-  Au mois de mars, les journées commencent à s'allonger.
-  Im März beginnen die Tage länger zu werden.
+  Les *mois* d'été sont les plus agréables pour voyager.
+  Die Sommer*monate* sind die angenehmsten zum Reisen.
 
-  Le voyage de plusieurs mois a permis à Sophie de découvrir de nouvelles cultures.
-  Die mehrmonatige Reise ermöglichte Sophie, neue Kulturen zu entdecken.
+  J'ai payé trois *mois* de loyer d'avance.
+  Ich habe drei *Monatsmieten* im Voraus bezahlt.
 
-  Le bébé est dans son deuxième mois et commence à sourire.
-  Das Baby ist im zweiten Monat und beginnt zu lächeln.
+  Le bébé a maintenant six *mois*.
+  Das Baby ist jetzt sechs *Monate* alt.
 
-  Le premier du mois, on a reçu notre chèque de paie.
-  Am Ersten des Monats haben wir unseren Gehaltsscheck erhalten.
+  Nous nous sommes mariés il y a exactement douze *mois*.
+  Wir haben vor genau zwölf *Monaten* geheiratet.
 
-  Le cinq de ce mois, nous fêtons l'anniversaire de notre mariage.
-  Am Fünften dieses Monats feiern wir unseren Hochzeitstag.
+  Le *mois* dernier, il a plu presque tous les jours.
+  Im letzten *Monat* hat es fast jeden Tag geregnet.
 
-  Le dernier du mois, il y a une réunion importante à l'entreprise.
-  Am Letzten des Monats findet ein wichtiges Meeting im Unternehmen statt.
+  Elle est dans son cinquième *mois* de grossesse.
+  Sie ist im fünften *Monat* schwanger.
+
+  Les employés reçoivent un treizième *mois* à Noël.
+  Die Angestellten erhalten zu Weihnachten ein dreizehntes *Monatsgehalt*.
+
+  Ce contrat a une durée de six *mois*.
+  Dieser Vertrag hat eine Laufzeit von sechs *Monaten*.
+
+  Les huîtres sont meilleures pendant les *mois* en "r".
+  Austern schmecken in den *Monaten* mit "r" am besten.
+
+  Il faut payer le loyer au début de chaque *mois*.
+  Die Miete muss am Anfang jedes *Monats* bezahlt werden.
+
+  Le *mois* de Marie est traditionnellement célébré en mai.
+  Der *Marienmonat* wird traditionell im Mai gefeiert.
+
+  Son salaire mensuel correspond à 160 heures de travail par *mois*.
+  Sein *Monats*gehalt entspricht 160 Arbeitsstunden pro *Monat*.
+
+  Les *mois* d'hiver sont généralement plus calmes pour le tourisme.
+  Die Winter*monate* sind in der Regel ruhiger für den Tourismus.
+
+  Elle a signé un bail de neuf *mois* pour son appartement.
+  Sie hat einen Mietvertrag für neun *Monate* für ihre Wohnung unterschrieben.
+
+  Le quinze du *mois*, c'est le jour de paie.
+  Am Fünfzehnten des *Monats* ist Zahltag.
+
+  Nous avons passé trois *mois* à l'étranger l'année dernière.
+  Wir haben letztes Jahr drei *Monate* im Ausland verbracht.
+
+  Il y a des *mois* que je n'ai pas vu mes parents.
+  Ich habe meine Eltern seit *Monaten* nicht gesehen.
+
+  Le projet devrait être terminé dans les deux *mois* à venir.
+  Das Projekt sollte in den kommenden zwei *Monaten* abgeschlossen sein.
+
+  Les frais de scolarité sont payables par *mois*.
+  Die Studiengebühren sind *monatlich* zu zahlen.
+
+  "J'arrondirai mes fins de *mois* en donnant des cours particuliers."
+  "Ich werde mein *Monats*ende mit Nachhilfeunterricht aufbessern."
+
+  Le *mois* lunaire dure environ 29,5 jours.
+  Der Mond*monat* dauert ungefähr 29,5 Tage.
+
+  Dans certaines entreprises, on reçoit même un quatorzième *mois*.
+  In manchen Unternehmen erhält man sogar ein vierzehntes *Monatsgehalt*.
+
+  Les factures sont émises au début de chaque *mois*.
+  Die Rechnungen werden am Anfang jedes *Monats* ausgestellt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

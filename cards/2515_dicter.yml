@@ -13,17 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Écris ce que je te dicte, mot pour mot.
-  Schreibe das, was ich dir diktiere, Wort für Wort auf.
+  Écris ce que je te *dicte*, mot pour mot.
+  Schreibe auf, was ich dir *diktiere*, Wort für Wort.
 
-  Le professeur dicte les notes aux étudiants.
-  Der Professor diktiert den Studenten die Notizen.
+  Le professeur *dictait* lentement pour que tous les élèves puissent suivre.
+  Der Lehrer *diktierte* langsam, damit alle Schüler folgen konnten.
 
-  Son geste était dicté par la colère.
-  Er hat aus Wut so gehandelt.
+  "Ne me *dictez* pas ce que je dois faire !" s'est-elle exclamée.
+  "*Schreiben* Sie mir nicht vor, was ich tun soll!" rief sie aus.
 
-  Sa colère l'a poussé à agir de la sorte.
-  Sie ist aus Wut so gehandelt.
+  Les circonstances nous ont *dicté* notre décision.
+  Die Umstände haben uns unsere Entscheidung *aufgezwungen*.
+
+  Il *dictait* son courrier à sa secrétaire chaque matin.
+  Er *diktierte* seiner Sekretärin jeden Morgen seine Post.
+
+  La raison d'État *dicte* parfois des choix difficiles.
+  Die Staatsräson *schreibt* manchmal schwierige Entscheidungen *vor*.
+
+  Les parents ne devraient pas *dicter* tous les choix de leurs enfants.
+  Eltern sollten nicht alle Entscheidungen ihrer Kinder *diktieren*.
+
+  Elle a *dicté* ses dernières volontés à son avocat.
+  Sie hat ihrem Anwalt ihren letzten Willen *diktiert*.
+
+  La mode *dicte* souvent les tendances vestimentaires.
+  Die Mode *diktiert* oft die Bekleidungstrends.
+
+  Le jury a *dicté* son verdict après une longue délibération.
+  Die Jury hat nach langer Beratung ihr Urteil *verkündet*.
+
+  "*Dictez*-moi votre numéro de téléphone, s'il vous plaît."
+  "*Diktieren* Sie mir bitte Ihre Telefonnummer."
+
+  La peur ne devrait pas *dicter* nos actions.
+  Angst sollte nicht unser Handeln *bestimmen*.
+
+  L'entreprise a *dicté* de nouvelles règles à ses employés.
+  Das Unternehmen hat seinen Mitarbeitern neue Regeln *vorgeschrieben*.
+
+  Le médecin lui a *dicté* un régime strict à suivre.
+  Der Arzt hat ihm eine strenge Diät *verordnet*.
+
+  Les événements récents ont *dicté* la politique étrangère du pays.
+  Die jüngsten Ereignisse haben die Außenpolitik des Landes *diktiert*.
+
+  "Je vais vous *dicter* la liste des ingrédients nécessaires."
+  "Ich werde Ihnen die Liste der benötigten Zutaten *diktieren*."
+
+  Son instinct lui *dictait* de fuir le danger.
+  Sein Instinkt *gebot* ihm, die Gefahr zu meiden.
+
+  Le chef d'orchestre *dictait* le tempo aux musiciens.
+  Der Dirigent *gab* den Musikern den Takt *vor*.
+
+  Les conditions météorologiques *dictent* souvent le déroulement d'un match.
+  Die Wetterbedingungen *bestimmen* oft den Verlauf eines Spiels.
+
+  "Ne laissez pas vos émotions vous *dicter* vos décisions."
+  "Lassen Sie nicht zu, dass Ihre Gefühle Ihre Entscheidungen *diktieren*."
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

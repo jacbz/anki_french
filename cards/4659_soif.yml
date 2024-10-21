@@ -13,41 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Si tu as soif, tu bois.
-  Wenn du Durst hast, trinkst du.
+  Si tu as *soif*, tu bois.
+  Wenn du *Durst* hast, trinkst du.
 
-  J’ai tellement soif que je pourrais boire un océan.
-  Ich habe so großen Durst, dass ich einen Ozean trinken könnte.
+  J'ai tellement *soif* que je pourrais boire un océan.
+  Ich habe so großen *Durst*, dass ich ein Meer austrinken könnte.
 
-  Il fait soif.
-  Es ist ziemlich trockene Luft.
+  La chaleur intense du désert provoque une *soif* inextinguible.
+  Die intensive Hitze der Wüste verursacht einen unstillbaren *Durst*.
 
-  Laisser Jean sur sa soif, c'est cruel.
-  Jean seine Erwartungen nicht zu erfüllen, ist grausam.
+  "J'ai une de ces *soifs* !" s'exclama-t-il après son jogging.
+  "Ich habe einen solchen *Durst*!" rief er nach seinem Jogging aus.
 
-  Le voyageur a failli mourir de soif dans le désert.
-  Der Reisende wäre beinahe in der Wüste verdurstet.
+  Les plantes fanées ont *soif* d'eau.
+  Die welken Pflanzen haben *Durst* nach Wasser.
 
-  Ils sont restés sur leur soif après le repas.
-  Sie hatten nach dem Essen noch Durst.
+  Sa *soif* de connaissances l'a conduit à lire des centaines de livres.
+  Sein *Wissensdurst* hat ihn dazu gebracht, Hunderte von Büchern zu lesen.
 
-  Il a bu jusqu'à plus soif et il est tombé malade.
-  Er hat sich volllaufen lassen und wurde krank.
+  Elle a une *soif* insatiable de nouvelles expériences.
+  Sie hat einen unstillbaren *Drang* nach neuen Erfahrungen.
 
-  Le jeune homme a une soif d'indépendance qui le pousse à voyager.
-  Der junge Mann hat ein Unabhängigkeitsstreben, das ihn zum Reisen antreibt.
+  Les voyageurs ont bu jusqu'à plus *soif* à la source.
+  Die Reisenden haben an der Quelle getrunken, bis ihr *Durst* vollständig gestillt war.
 
-  Les belles photos de plages ont donné soif à Marie.
-  Die schönen Fotos von Stränden haben Marie durstig gemacht.
+  La *soif* de pouvoir peut corrompre même les plus nobles intentions.
+  Der *Durst* nach Macht kann selbst die edelsten Absichten verderben.
 
-  Il a étanché sa soif à la fontaine.
-  Er hat seinen Durst an der Quelle gelöscht.
+  "Je meurs de *soif* !" dit-il en entrant dans le café.
+  "Ich sterbe vor *Durst*!" sagte er, als er das Café betrat.
 
-  J'ai bu à ma soif.
-  Ich habe ausreichend getrunken.
+  Cette bière légère est un vrai vin de *soif*.
+  Dieses leichte Bier ist ein echtes *Durstlöscher*-Getränk.
 
-  J'ai une très grosse soif, j'ai besoin d'une boisson.
-  Ich habe riesigen Durst, ich brauche etwas zu trinken.
+  La *soif* de justice l'a poussé à devenir avocat.
+  Der *Durst* nach Gerechtigkeit hat ihn dazu getrieben, Anwalt zu werden.
+
+  Il faut toujours garder une poire pour la *soif*.
+  Man sollte immer etwas für schlechte Zeiten zurücklegen (*einen Notgroschen beiseitelegen*).
+
+  Sa *soif* de vengeance l'a consumé pendant des années.
+  Seine *Rachsucht* hat ihn jahrelang verzehrt.
+
+  Les marathoniens boivent pour étancher leur *soif*.
+  Die Marathonläufer trinken, um ihren *Durst* zu löschen.
+
+  Cette chaleur donne *soif* à tout le monde.
+  Diese Hitze macht allen *Durst*.
+
+  "J'ai *soif* d'aventures !" s'exclama le jeune explorateur.
+  "Ich habe *Durst* nach Abenteuern!", rief der junge Entdecker aus.
+
+  Les terres asséchées ont *soif* de pluie.
+  Das ausgetrocknete Land *dürstet* nach Regen.
+
+  Sa *soif* de liberté l'a poussé à quitter son pays.
+  Sein *Drang* nach Freiheit hat ihn dazu getrieben, sein Land zu verlassen.
+
+  Les boissons sucrées ne font qu'exacerber la *soif*.
+  Süße Getränke verstärken den *Durst* nur noch.
+
+  "Il fait *soif* !" dit-il en entrant dans le bar.
+  "Es ist *durstig*!", sagte er, als er die Bar betrat.
+
+  La *soif* de découvertes a poussé l'humanité à explorer l'espace.
+  Der *Entdeckerdrang* hat die Menschheit dazu getrieben, den Weltraum zu erforschen.
+
+  Après l'exercice, j'ai toujours une grande *soif*.
+  Nach dem Training habe ich immer großen *Durst*.
+
+  Sa *soif* de tendresse l'a conduit à adopter un chien.
+  Ihr *Bedürfnis nach Zärtlichkeit* hat sie dazu gebracht, einen Hund zu adoptieren.
+
+  Les plantes du jardin ont *soif* ; il faut les arroser.
+  Die Pflanzen im Garten haben *Durst*; wir müssen sie gießen.
+
+  Cette exposition n'a pas étanché ma *soif* de culture.
+  Diese Ausstellung hat meinen *Wissensdurst* nicht gestillt.
+
+  Sa *soif* de vivre était contagieuse.
+  Sein *Lebenshunger* war ansteckend.
+
+  "Buvez à votre *soif*," dit l'hôte en servant le vin.
+  "Trinken Sie nach Ihrem *Durst*," sagte der Gastgeber, während er den Wein einschenkte.
+
+  La *soif* d'indépendance a conduit à la révolution.
+  Das *Streben nach Unabhängigkeit* führte zur Revolution.
+
+  Cette conférence a aiguisé ma *soif* d'informations sur le sujet.
+  Diese Konferenz hat mein *Informationsbedürfnis* zu dem Thema geschärft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

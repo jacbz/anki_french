@@ -1,8 +1,5 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
-* Arbeit: [travail](cards/0153_travail.yml) (#153), [boulot](cards/2929_boulot.yml) (#2929)
-* Ende, Spitze: [bout](cards/0508_bout.yml) (#508), [extrémité](cards/2941_extrémité.yml) (#2941)
-* widmen, weihen: [consacrer](cards/0750_consacrer.yml) (#750), [vouer](cards/2950_vouer.yml) (#2950)
 * wirklich, tatsächlich: [réellement](cards/1563_réellement.yml) (#1563), [véritablement](cards/3115_véritablement.yml) (#3115)
 * zusätzlich: [supplémentaire](cards/1267_supplémentaire.yml) (#1267), [additionnel](cards/3131_additionnel.yml) (#3131)
 * heiraten: [marier](cards/1686_marier.yml) (#1686), [épouser](cards/3136_épouser.yml) (#3136)

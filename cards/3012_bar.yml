@@ -13,20 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous buvons un café dans le bar voisin.
-  Wir trinken einen Kaffee in der Bar nebenan.
+  Nous buvons un café dans le *bar* voisin.
+  Wir trinken einen Kaffee in der *Bar* nebenan.
 
-  Je vais prendre un verre au bar.
-  Ich werde an der Bar etwas trinken.
+  "Regarde ce mec, c'est un vrai pilier de *bar*!"
+  "Schau dir den Kerl an, der ist ein richtiger *Kneipen*hocker!"
 
-  Le bar était plein de gens.
-  Die Bar war voller Menschen.
+  J'ai installé un petit *bar* dans mon salon.
+  Ich habe eine kleine *Bar* in meinem Wohnzimmer eingerichtet.
 
-  Ce bar est connu pour être un bar de pédés.
-  Diese Bar ist als Schwulenbar bekannt.
+  La pression atmosphérique est de deux *bars*.
+  Der atmosphärische Druck beträgt zwei *Bar*.
 
-  On m'a dit que c'était un bar à putes.
-  Mir wurde gesagt, dass es sich um eine Rotlichtkneipe handelt.
+  Le *bar* est un poisson délicieux grillé.
+  Der *Seebarsch* schmeckt gegrillt hervorragend.
+
+  Elle travaille comme serveuse dans un *bar* à vin.
+  Sie arbeitet als Kellnerin in einer Wein*bar*.
+
+  Le train dispose d'une voiture-*bar* confortable.
+  Der Zug hat einen komfortablen Speise*wagen*.
+
+  Ils ont ouvert un *bar* à sourcils dans le centre-ville.
+  Sie haben eine Augenbrauen*bar* in der Innenstadt eröffnet.
+
+  Au Canada, on trouve souvent des *bars* laitiers.
+  In Kanada findet man oft Eis*bars*.
+
+  Les clients sont accoudés au *bar*.
+  Die Gäste lehnen an der *Bar*.
+
+  "On se retrouve au *bar* de l'aéroport avant le vol ?"
+  "Treffen wir uns vor dem Flug in der Flughafen*bar*?"
+
+  Ce restaurant propose un *bar* à soupes self-service.
+  Dieses Restaurant bietet eine Suppen*bar* zur Selbstbedienung an.
+
+  Le *bar* du congrès ferme à minuit.
+  Die Kongress*bar* schließt um Mitternacht.
+
+  Pierre a commandé un *bar* au fenouil.
+  Pierre hat *Seebarsch* mit Fenchel bestellt.
+
+  Dans ce *bar*-tabac, on peut aussi acheter des cigarettes.
+  In dieser Tabak*kneipe* kann man auch Zigaretten kaufen.
+
+  Le nouveau *bar* à tapas est toujours plein.
+  Die neue Tapas*bar* ist immer voll.
+
+  J'ai acheté un *bar* design pour mon appartement.
+  Ich habe eine Designer-*Bar* für meine Wohnung gekauft.
+
+  Les pêcheurs ont attrapé un *bar* d'un mètre.
+  Die Fischer haben einen einen Meter langen *Seebarsch* gefangen.
+
+  La météo indique une pression de 1013 *bars*.
+  Der Wetterbericht zeigt einen Druck von 1013 *Bar*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

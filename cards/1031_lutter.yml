@@ -13,35 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je me préoccupe de lutter contre la pauvreté.
-  Die Bekämpfung von Armut ist mir ein Anliegen.
+  Je me préoccupe de *lutter* contre la pauvreté.
+  Ich bin bestrebt, die Armut zu *bekämpfen*.
 
-  Il faut lutter contre l’injustice.
-  Man muss gegen Ungerechtigkeit kämpfen.
+  Les athlètes *luttent* pour remporter la médaille d'or.
+  Die Athleten *kämpfen* um die Goldmedaille.
 
-  Le malade luttait contre la mort avec une force incroyable.
-  Der Kranke rang mit dem Tod, mit einer unglaublichen Kraft.
+  Il faut *lutter* contre le réchauffement climatique.
+  Wir müssen gegen die Erderwärmung *ankämpfen*.
 
-  Les soldats ont lutté contre l'ennemi pendant des heures.
-  Die Soldaten kämpften stundenlang gegen den Feind.
+  Elle *lutte* chaque jour pour joindre les deux bouts.
+  Sie *kämpft* jeden Tag darum, über die Runden zu kommen.
 
-  Les deux amis se sont lutté de bonté, chacun essayant de faire plus pour l'autre.
-  Die beiden Freunde versuchten, sich gegenseitig an Güte zu überbieten, jeder versuchte, mehr für den anderen zu tun.
+  Les deux équipes *luttent* de vitesse sur la piste.
+  Die beiden Teams *liefern* sich auf der Rennstrecke ein Geschwindigkeits*duell*.
 
-  Il luttait contre le sommeil, mais il était trop tard, il s'est endormi.
-  Er kämpfte gegen die Müdigkeit, aber es war zu spät, er schlief ein.
+  Nous devons *lutter* contre nos préjugés.
+  Wir müssen gegen unsere Vorurteile *ankämpfen*.
 
-  Le marin luttait contre le vent, essayant de maintenir le cap.
-  Der Seemann kämpfte gegen den Wind, versuchte den Kurs zu halten.
+  Le malade *lutte* contre la mort depuis des semaines.
+  Der Kranke *ringt* seit Wochen mit dem Tod.
 
-  Le gouvernement lutte contre l'inflation, mais les prix continuent d'augmenter.
-  Die Regierung kämpft gegen die Inflation, aber die Preise steigen weiter.
+  Les syndicats *luttent* pour de meilleures conditions de travail.
+  Die Gewerkschaften *kämpfen* für bessere Arbeitsbedingungen.
 
-  Ils ont lutté pour leur liberté, pour pouvoir vivre dans un pays libre.
-  Sie kämpften für ihre Freiheit, um in einem freien Land leben zu können.
+  Il *lutte* de toutes ses forces contre le courant.
+  Er *kämpft* mit aller Kraft gegen die Strömung an.
 
-  Les deux coureurs se sont lutté de vitesse, chacun essayant d'être le premier à franchir la ligne d'arrivée.
-  Die beiden Läufer versuchten, sich an Schnelligkeit zu überbieten, jeder versuchte, als erster die Ziellinie zu überqueren.
+  Les pompiers *luttent* contre les flammes depuis des heures.
+  Die Feuerwehrleute *kämpfen* seit Stunden gegen die Flammen.
+
+  Elle *lutte* contre le sommeil pour finir son travail.
+  Sie *kämpft* gegen den Schlaf an, um ihre Arbeit zu beenden.
+
+  Les deux candidats *luttent* pour gagner l'élection.
+  Die beiden Kandidaten *kämpfen* darum, die Wahl zu gewinnen.
+
+  Nous devons *lutter* contre la désinformation sur internet.
+  Wir müssen gegen Fehlinformationen im Internet *ankämpfen*.
+
+  Le gouvernement *lutte* pour réduire le chômage.
+  Die Regierung *kämpft* dafür, die Arbeitslosigkeit zu senken.
+
+  Les scientifiques *luttent* contre le temps pour trouver un vaccin.
+  Die Wissenschaftler *kämpfen* gegen die Zeit, um einen Impfstoff zu finden.
+
+  Il faut *lutter* contre la corruption à tous les niveaux.
+  Man muss die Korruption auf allen Ebenen *bekämpfen*.
+
+  Les deux rivaux *luttent* d'élégance lors de la soirée.
+  Die beiden Rivalen *wetteifern* auf der Abendveranstaltung um Eleganz.
+
+  Elle *lutte* contre sa timidité depuis l'enfance.
+  Sie *kämpft* seit ihrer Kindheit gegen ihre Schüchternheit an.
+
+  Les agriculteurs *luttent* contre la sécheresse cette année.
+  Die Landwirte *kämpfen* dieses Jahr gegen die Dürre.
+
+  Nous devons *lutter* pour préserver la biodiversité.
+  Wir müssen dafür *kämpfen*, die Biodiversität zu erhalten.
+
+  L'équipe *lutte* pour maintenir sa place en première division.
+  Das Team *kämpft* darum, seinen Platz in der ersten Liga zu behalten.
+
+  Il *lutte* de toutes ses forces pour surmonter sa dépendance.
+  Er *kämpft* mit aller Kraft darum, seine Sucht zu überwinden.
+
+  Les deux champions *luttent* au corps à corps sur le tatami.
+  Die beiden Champions *ringen* auf der Matte im Nahkampf.
+
+  Nous devons *lutter* contre nos propres démons intérieurs.
+  Wir müssen gegen unsere inneren Dämonen *ankämpfen*.
+
+  L'entreprise *lutte* pour survivre dans un marché très concurrentiel.
+  Das Unternehmen *kämpft* in einem hart umkämpften Markt ums Überleben.
+
+  Les médecins *luttent* sans relâche contre cette nouvelle maladie.
+  Die Ärzte *kämpfen* unermüdlich gegen diese neue Krankheit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

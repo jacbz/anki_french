@@ -13,14 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je ne connais pas un seul économiste.
-  Ich kenne keinen einzigen Wirtschaftswissenschaftler.
+  Je ne connais pas un seul *économiste*.
+  Ich kenne keinen einzigen *Ökonomen*.
 
-  Mon père est un économiste renommé.
-  Mein Vater ist ein renommierter Ökonom.
+  Les *économistes* prévoient une croissance économique de 2% pour l'année prochaine.
+  Die *Wirtschaftsexperten* prognostizieren für das nächste Jahr ein Wirtschaftswachstum von 2%.
 
-  La France a besoin d'un économiste national qui puisse proposer des solutions aux défis économiques actuels.
-  Deutschland braucht eine Nationalökonomin, die Lösungen für die aktuellen wirtschaftlichen Herausforderungen anbieten kann.
+  Marie rêve de devenir une *économiste* renommée dans le domaine du développement durable.
+  Marie träumt davon, eine angesehene *Ökonomin* im Bereich der nachhaltigen Entwicklung zu werden.
+
+  L'université recherche un(e) *économiste* spécialisé(e) en macroéconomie pour rejoindre son équipe de recherche.
+  Die Universität sucht einen/eine auf Makroökonomie spezialisierte(n) *Wirtschaftsexperten/-expertin* für ihr Forschungsteam.
+
+  Les *économistes nationaux* ont présenté leur rapport annuel au gouvernement.
+  Die *Nationalökonomen* haben dem Regierungskabinett ihren Jahresbericht vorgelegt.
+
+  Cet *économiste* a reçu le prix Nobel pour ses travaux sur l'économie comportementale.
+  Dieser *Ökonom* erhielt den Nobelpreis für seine Arbeiten zur Verhaltensökonomie.
+
+  Les prévisions de l'*économiste* ont été largement discutées dans les médias.
+  Die Prognosen des *Wirtschaftsexperten* wurden in den Medien ausführlich diskutiert.
+
+  En tant qu'*économiste*, elle a travaillé sur des projets dans plusieurs pays en développement.
+  Als *Ökonomin* hat sie an Projekten in verschiedenen Entwicklungsländern gearbeitet.
+
+  L'*économiste* a expliqué les conséquences potentielles de l'inflation lors de la conférence.
+  Der *Wirtschaftsexperte* erläuterte auf der Konferenz die möglichen Folgen der Inflation.
+
+  Les *économistes* du FMI ont publié un rapport sur l'état de l'économie mondiale.
+  Die *Ökonomen* des IWF haben einen Bericht über den Zustand der Weltwirtschaft veröffentlicht.
+
+  Elle a décidé de devenir *économiste* après avoir lu les œuvres d'Adam Smith.
+  Sie beschloss, *Wirtschaftsexpertin* zu werden, nachdem sie die Werke von Adam Smith gelesen hatte.
+
+  Les *économistes* débattent souvent des meilleures politiques pour stimuler la croissance économique.
+  *Ökonomen* debattieren häufig über die besten Maßnahmen zur Förderung des Wirtschaftswachstums.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

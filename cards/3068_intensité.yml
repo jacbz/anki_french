@@ -13,32 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils relayent la vérité avec la même intensité que les mensonges.
-  Sie verbreiten die Wahrheit mit der gleichen Intensität wie die Lügen.
+  Ils relayent la vérité avec la même *intensité* que les mensonges.
+  Sie verbreiten die Wahrheit mit der gleichen *Intensität* wie die Lügen.
 
-  L’intensité de la lumière est très forte.
-  Die Intensität des Lichts ist sehr hoch.
+  L'*intensité* de son regard m'a fait frissonner.
+  Die *Intensität* seines Blicks ließ mich erschaudern.
 
-  L'intensité lumineuse de la lampe est très faible.
-  Die Lichtstärke der Lampe ist sehr gering.
+  La tempête a gagné en *intensité* pendant la nuit.
+  Der Sturm hat in der Nacht an *Stärke* zugenommen.
 
-  Le courant de faible intensité est utilisé pour alimenter les appareils électroniques.
-  Schwachstrom wird zur Stromversorgung elektronischer Geräte verwendet.
+  L'*intensité* lumineuse de cette lampe est réglable.
+  Die Licht*stärke* dieser Lampe ist einstellbar.
 
-  Le courant d'une grande intensité est dangereux pour les humains.
-  Starkstrom ist für Menschen gefährlich.
+  Le courant électrique d'une grande *intensité* peut être dangereux.
+  *Stark*strom kann gefährlich sein.
 
-  La société a une forte intensité capitalistique.
-  Die Gesellschaft hat eine hohe Kapitalintensität.
+  L'*intensité* du froid nous a forcés à rentrer.
+  Die *Strenge* der Kälte zwang uns zur Rückkehr.
 
-  Le son était de faible intensité, difficile à entendre.
-  Der Ton war schwach, schwer zu hören.
+  Son chagrin diminuait progressivement en *intensité*.
+  Sein Kummer nahm allmählich an *Stärke* ab.
 
-  La lumière a augmenté d'intensité.
-  Das Licht wurde stärker.
+  Les scientifiques mesurent l'*intensité* du séisme sur l'échelle de Richter.
+  Die Wissenschaftler messen die *Stärke* des Erdbebens auf der Richterskala.
 
-  L'intensité d'utilisation des moyens de production est un facteur important dans la productivité.
-  Die Arbeitsmittelintensität ist ein wichtiger Faktor für die Produktivität.
+  L'*intensité* dramatique du film m'a coupé le souffle.
+  Die dramatische *Intensität* des Films hat mir den Atem geraubt.
+
+  Cette région reçoit des pluies de faible *intensité*.
+  Diese Region erhält Niederschläge von geringer *Stärke*.
+
+  L'*intensité* de la musique variait selon les scènes.
+  Die *Stärke* der Musik variierte je nach Szene.
+
+  Le médecin surveille l'*intensité* de sa fièvre.
+  Der Arzt überwacht die *Stärke* seines Fiebers.
+
+  L'*intensité* de leur amour grandissait chaque jour.
+  Die *Intensität* ihrer Liebe wuchs jeden Tag.
+
+  Les exercices varient en *intensité* selon le niveau.
+  Die Übungen variieren je nach Niveau in ihrer *Intensität*.
+
+  L'*intensité* du vent a fait tomber plusieurs arbres.
+  Die *Heftigkeit* des Winds hat mehrere Bäume umgeworfen.
+
+  On mesure l'*intensité* sonore en décibels.
+  Die Schall*stärke* wird in Dezibel gemessen.
+
+  L'*intensité* de la chaleur était insupportable.
+  Die *Stärke* der Hitze war unerträglich.
+
+  Cette ampoule émet une lumière de forte *intensité*.
+  Diese Glühbirne gibt Licht von hoher *Intensität* ab.
+
+  L'*intensité* du champ magnétique diminue avec la distance.
+  Die *Stärke* des Magnetfelds nimmt mit der Entfernung ab.
+
+  L'*intensité* de la douleur s'est atténuée après la prise du médicament.
+  Die *Stärke* der Schmerzen ließ nach der Einnahme des Medikaments nach.
+
+  Les adverbes d'*intensité* modifient le sens des adjectifs.
+  Die *Intensitäts*adverbien verändern die Bedeutung der Adjektive.
+
+  L'*intensité* de la crise économique inquiète les experts.
+  Die *Intensität* der Wirtschaftskrise beunruhigt die Experten.
+
+  Le professeur parlait avec une *intensité* remarquable.
+  Der Lehrer sprach mit bemerkenswerter *Intensität*.
+
+  L'*intensité* de la pollution atmosphérique atteint des niveaux alarmants.
+  Die *Stärke* der Luftverschmutzung erreicht alarmierende Werte.
+
+  Cette syllabe porte l'accent d'*intensité*.
+  Diese Silbe trägt den *Intensitäts*akzent.
+
+  L'*intensité* respiratoire augmente pendant l'exercice.
+  Die Atem*intensität* steigt während des Sports.
+
+  L'*intensité* du courant se mesure en ampères.
+  Die Strom*stärke* wird in Ampere gemessen.
+
+  La performance de l'athlète impressionne par son *intensité*.
+  Die Leistung des Athleten beeindruckt durch ihre *Intensität*.
+
+  L'*intensité* de la concentration se lisait sur son visage.
+  Die *Intensität* der Konzentration war in seinem Gesicht abzulesen.
+
+  Cette expérience a marqué ma vie par son *intensité*.
+  Diese Erfahrung hat durch ihre *Intensität* mein Leben geprägt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

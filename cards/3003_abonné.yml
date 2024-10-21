@@ -13,29 +13,65 @@ Register: ↘Fiktion ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le texte du message reçu de l’abonné.
-  Der Text der vom Abonnenten empfangenen Nachricht.
+  Le texte du message reçu de l'*abonné*.
+  Der Text der vom *Abonnenten* empfangenen Nachricht.
 
-  Les abonnés ont accès à des avantages exclusifs.
-  Abonnenten haben Zugang zu exklusiven Vorteilen.
+  Notre magazine compte désormais plus de 10 000 *abonnés*.
+  Unsere Zeitschrift hat jetzt über 10.000 *Abonnenten*.
 
-  Marie est abonnée au journal local depuis plusieurs années.
-  Marie ist seit mehreren Jahren Zeitungsabonnentin der Lokalzeitung.
+  Elle est *abonnée* à plusieurs chaînes YouTube de cuisine.
+  Sie hat mehrere Koch-YouTube-Kanäle *abonniert*.
 
-  Le responsable du projet est aux abonnés absents depuis le début de la semaine.
-  Man kann ihn lang suchen, den Verantwortlichen für das Projekt, seit Anfang der Woche.
+  Les *abonnés* du théâtre bénéficient de tarifs préférentiels.
+  Die *Abonnenten* des Theaters genießen Vorzugspreise.
 
-  Thomas est abonné aux mauvaises notes en mathématiques.
-  Thomas ist auf schlechte Noten in Mathe abonniert.
+  "Je suis *abonné* aux mauvaises nouvelles ces derniers temps."
+  "In letzter Zeit bin ich auf schlechte Nachrichten *abonniert*."
 
-  Je suis abonné à un journal économique pour me tenir au courant des tendances du marché.
-  Ich habe eine Wirtschaftszeitung abonniert, um über die Marktbewegungen auf dem Laufenden zu bleiben.
+  La bibliothèque propose des services exclusifs à ses lecteurs *abonnés*.
+  Die Bibliothek bietet ihren *abonnierten* Lesern exklusive Dienste an.
 
-  Mon père est abonné à un club de golf depuis son enfance.
-  Mein Vater ist seit seiner Kindheit Mitglied eines Golfclubs.
+  Les *abonnés* du club de fitness ont accès à toutes les installations.
+  Die *Mitglieder* des Fitnessclubs haben Zugang zu allen Einrichtungen.
 
-  Ma grand-mère est abonnée au téléphone depuis des décennies.
-  Meine Großmutter ist seit Jahrzehnten Fernsprechteilnehmerin.
+  "Il faut que je renouvelle mon abonnement, sinon je ne serai plus *abonnée*."
+  "Ich muss mein Abonnement erneuern, sonst bin ich kein *Abonnent* mehr."
+
+  Le nombre d'*abonnés* à notre newsletter a doublé en un an.
+  Die Zahl der *Abonnenten* unseres Newsletters hat sich in einem Jahr verdoppelt.
+
+  Les *abonnés* du journal reçoivent une édition spéciale chaque mois.
+  Die *Abonnenten* der Zeitung erhalten jeden Monat eine Sonderausgabe.
+
+  "Tu es *abonné* à combien de services de streaming ?"
+  "Wie viele Streaming-Dienste hast du *abonniert*?"
+
+  La compagnie téléphonique a perdu de nombreux *abonnés* cette année.
+  Die Telefongesellschaft hat dieses Jahr viele *Kunden* verloren.
+
+  Les spectateurs *abonnés* peuvent réserver leurs places en avance.
+  *Abonnierte* Zuschauer können ihre Plätze im Voraus reservieren.
+
+  "Il est *abonné* aux retards, c'est toujours le dernier à arriver."
+  "Er ist auf Verspätungen *abonniert*, er kommt immer als Letzter an."
+
+  Notre chaîne YouTube a atteint le million d'*abonnés* hier soir.
+  Unser YouTube-Kanal hat gestern Abend die Million *Abonnenten* erreicht.
+
+  Les *abonnés* du musée ont droit à des visites guidées gratuites.
+  Die *Abonnenten* des Museums haben Anrecht auf kostenlose Führungen.
+
+  "Je suis *abonnée* à ce magazine depuis plus de vingt ans."
+  "Ich *beziehe* diese Zeitschrift seit über zwanzig Jahren."
+
+  La salle de concert offre des réductions aux spectateurs *abonnés*.
+  Der Konzertsaal bietet *abonnierten* Zuschauern Ermäßigungen an.
+
+  Les *abonnés* du réseau social reçoivent des notifications instantanées.
+  Die *Abonnenten* des sozialen Netzwerks erhalten sofortige Benachrichtigungen.
+
+  "Il est toujours *abonné* absent quand on a besoin de lui."
+  "Er ist immer *unerreichbar*, wenn man ihn braucht."
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

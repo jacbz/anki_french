@@ -13,17 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  En fait, mes ancêtres viennent d’lnde.
-  Eigentlich kommen meine Vorfahren aus Indien.
+  En fait, mes *ancêtres* viennent d'Inde.
+  Eigentlich kommen meine *Vorfahren* aus Indien.
 
-  Mes ancêtres sont originaires de France.
-  Meine Vorfahren kommen aus Frankreich.
+  Son *ancêtre* était un célèbre général de Napoléon.
+  Sein *Vorfahr* war ein berühmter General Napoleons.
 
-  Les ancêtres étaient des personnages importants pour nos familles.
-  Die Alten waren wichtige Personen für unsere Familien.
+  Le culte des *ancêtres* est important dans la culture chinoise.
+  Die Verehrung der *Ahnen* ist in der chinesischen Kultur wichtig.
 
-  Les ancêtres ont laissé un héritage riche à leurs descendants.
-  Die Alten haben ihren Nachkommen ein reiches Erbe hinterlassen.
+  Les traces de nos *ancêtres* ont été découvertes dans cette grotte.
+  Die Spuren unserer *Vorfahren* wurden in dieser Höhle entdeckt.
+
+  Le mammouth est l'*ancêtre* de l'éléphant moderne.
+  Der Mammut ist der *Vorfahr* des modernen Elefanten.
+
+  Elle a retrouvé la tombe de son *ancêtre* dans le vieux cimetière.
+  Sie hat das Grab ihres *Vorfahren* auf dem alten Friedhof gefunden.
+
+  Voltaire est considéré comme l'*ancêtre* du journalisme moderne.
+  Voltaire gilt als *Urvater* des modernen Journalismus.
+
+  "Regarde l'*ancêtre* là-bas, il doit avoir au moins 90 ans !"
+  "Schau mal den alten *Greis* da drüben, der muss mindestens 90 sein!"
+
+  Nos *ancêtres* nous ont légué ces traditions.
+  Unsere *Vorfahren* haben uns diese Traditionen hinterlassen.
+
+  Le gramophone est l'*ancêtre* du lecteur CD.
+  Der Grammophon ist der *Vorläufer* des CD-Players.
+
+  Cette coutume remonte à nos *ancêtres*.
+  Dieser Brauch geht auf unsere *Ahnen* zurück.
+
+  La machine à vapeur est l'*ancêtre* de la locomotive moderne.
+  Die Dampfmaschine ist der *Vorläufer* der modernen Lokomotive.
+
+  "C'est l'*ancêtre* du village, il connaît toutes les histoires."
+  "Er ist der alte *Patriarch* des Dorfes, er kennt alle Geschichten."
+
+  Mon *ancêtre* a émigré aux États-Unis au XIXe siècle.
+  Mein *Vorfahr* ist im 19. Jahrhundert in die USA ausgewandert.
+
+  Les scientifiques cherchent notre plus ancien *ancêtre* commun.
+  Die Wissenschaftler suchen nach unserem ältesten gemeinsamen *Vorfahren*.
+
+  Elle est fière d'avoir un *ancêtre* aussi illustre.
+  Sie ist stolz, einen so berühmten *Ahnen* zu haben.
+
+  Les *ancêtres* de l'humanité vivaient en Afrique.
+  Die *Urahnen* der Menschheit lebten in Afrika.
+
+  Darwin est l'*ancêtre* spirituel de nombreux biologistes.
+  Darwin ist der geistige *Urvater* vieler Biologen.
+
+  Certains considèrent Hippocrate comme l'*ancêtre* de la médecine moderne.
+  Manche sehen Hippokrates als *Urvater* der modernen Medizin.
+
+  Cette peinture rupestre a été réalisée par nos *ancêtres*.
+  Diese Höhlenmalerei wurde von unseren *Vorfahren* angefertigt.
+
+  "L'*ancêtre* raconte toujours les mêmes histoires de guerre."
+  "Der alte *Mann* erzählt immer die gleichen Kriegsgeschichten."
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

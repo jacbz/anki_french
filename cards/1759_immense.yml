@@ -13,11 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous vivons dans un territoire immense.
-  Wir leben in einem riesigen Gebiet.
+  Nous vivons dans un territoire *immense*.
+  Wir leben in einem *riesigen* Gebiet.
 
-  L’univers est immense.
-  Das Universum ist riesig.
+  L'océan Pacifique est *immense* et plein de mystères.
+  Der Pazifische Ozean ist *unermesslich groß* und voller Geheimnisse.
+
+  Son chagrin était *immense* après la perte de son ami.
+  Sein Kummer war *ungeheuer* nach dem Verlust seines Freundes.
+
+  L'entreprise a connu un *immense* succès avec son nouveau produit.
+  Das Unternehmen hatte einen *riesigen* Erfolg mit seinem neuen Produkt.
+
+  La fête a attiré une foule *immense*.
+  Das Fest zog eine *riesige* Menschenmenge an.
+
+  L'*immense* majorité des gens approuve cette décision.
+  Die *überwältigende* Mehrheit der Menschen stimmt dieser Entscheidung zu.
+
+  Cet artiste jouit d'une *immense* popularité dans son pays.
+  Dieser Künstler genießt eine *unglaubliche* Popularität in seinem Land.
+
+  Le projet de construction est d'une ampleur *immense*.
+  Das Bauprojekt hat ein *gewaltiges* Ausmaß.
+
+  Elle possède une *immense* collection de livres rares.
+  Sie besitzt eine *riesige* Sammlung seltener Bücher.
+
+  L'exploration spatiale offre des possibilités *immenses*.
+  Die Weltraumforschung bietet *unermessliche* Möglichkeiten.
+
+  Nous avons fait face à d'*immenses* difficultés pendant la crise.
+  Wir standen während der Krise vor *enormen* Schwierigkeiten.
+
+  Le paysage *immense* s'étendait à perte de vue.
+  Die *unermesslich weite* Landschaft erstreckte sich, so weit das Auge reichte.
+
+  Cette découverte scientifique aura des conséquences *immenses*.
+  Diese wissenschaftliche Entdeckung wird *gewaltige* Folgen haben.
+
+  Il a une *immense* responsabilité en tant que leader.
+  Er trägt als Führungskraft eine *enorme* Verantwortung.
+
+  L'*immense* forêt amazonienne joue un rôle crucial pour notre planète.
+  Der *riesige* Amazonas-Regenwald spielt eine entscheidende Rolle für unseren Planeten.
+
+  Nous ressentons une gratitude *immense* envers nos bienfaiteurs.
+  Wir empfinden eine *unermessliche* Dankbarkeit gegenüber unseren Wohltätern.
+
+  Le candidat a remporté une victoire *immense* aux élections.
+  Der Kandidat errang bei den Wahlen einen *überwältigenden* Sieg.
+
+  L'artiste a peint une toile *immense* pour l'exposition.
+  Der Künstler hat für die Ausstellung ein *riesiges* Gemälde angefertigt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

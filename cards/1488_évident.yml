@@ -13,35 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce n’était pas évident pour nous au début.
-  Das war für uns anfangs nicht einfach.
+  Ce n'était pas *évident* pour nous au début.
+  Es war für uns am Anfang nicht *offensichtlich*.
 
-  C’est évident qu’il ment.
-  Es ist offensichtlich, dass er lügt.
+  La solution à ce problème est *évidente*.
+  Die Lösung für dieses Problem ist *offensichtlich*.
 
-  C’était évident.
-  Das war offensichtlich.
+  Il est *évident* qu'il a menti pendant l'interrogatoire.
+  Es ist *eindeutig*, dass er während des Verhörs gelogen hat.
 
-  Je crois que le choix est évident.
-  Ich denke, die Wahl ist offensichtlich.
+  Les progrès de l'élève sont *évidents* pour tous ses professeurs.
+  Die Fortschritte des Schülers sind für all seine Lehrer *klar erkennbar*.
 
-  C'est évident pour Marie, elle a vécu la même chose.
-  Das ist Marie klar, sie hat dasselbe erlebt.
+  L'*évidente* bonne volonté du candidat a impressionné le jury.
+  Die *unbestreitbare* Bereitschaft des Kandidaten hat die Jury beeindruckt.
 
-  C'est pas évident! Je ne comprends pas ce qu'il faut faire.
-  Das ist gar nicht so einfach! Ich verstehe nicht, was ich tun soll.
+  Pour des raisons *évidentes*, nous ne pouvons pas révéler cette information.
+  Aus *offensichtlichen* Gründen können wir diese Information nicht preisgeben.
 
-  C'est pas évident du tout! On ne sait pas ce qui va se passer.
-  Das ist überhaupt nicht klar! Man weiß nicht, was passieren wird.
+  La différence de qualité entre les deux produits est *évidente*.
+  Der Qualitätsunterschied zwischen den beiden Produkten ist *deutlich*.
 
-  Il est évident que Jean fait tout ce qu'il peut pour réussir.
-  Es ist offensichtlich, dass Jean alles tut, was er kann, um erfolgreich zu sein.
+  C'est *évident* que nous devons changer notre stratégie.
+  Es *versteht sich von selbst*, dass wir unsere Strategie ändern müssen.
 
-  Il est évident que Marie a fait tout son possible pour aider.
-  Es versteht sich von selbst, dass Marie alles in ihrer Macht Stehende getan hat, um zu helfen.
+  L'*évidente* disproportion entre les deux bâtiments choque les passants.
+  Die *offensichtliche* Unverhältnismäßigkeit zwischen den beiden Gebäuden schockiert die Passanten.
 
-  Pour des raisons évidentes, je ne peux pas vous en dire plus.
-  Erklärlicherweise kann ich Ihnen dazu nichts weiter sagen.
+  Les signes de fatigue sur son visage étaient *évidents*.
+  Die Anzeichen von Müdigkeit in seinem Gesicht waren *eindeutig*.
+
+  Il a donné des marques *évidentes* de son embarras pendant la présentation.
+  Er zeigte während der Präsentation *deutliche* Anzeichen von Verlegenheit.
+
+  La preuve de sa culpabilité est devenue *évidente* au cours du procès.
+  Der Beweis seiner Schuld wurde im Laufe des Prozesses *offensichtlich*.
+
+  Cette vérité *évidente* ne peut être ignorée plus longtemps.
+  Diese *offensichtliche* Wahrheit kann nicht länger ignoriert werden.
+
+  L'erreur dans le calcul était tellement *évidente* que tout le monde l'a remarquée.
+  Der Fehler in der Berechnung war so *offensichtlich*, dass ihn jeder bemerkt hat.
+
+  Il est *évident* que vous avez besoin de repos après ce long voyage.
+  Es ist *klar*, dass Sie nach dieser langen Reise Ruhe brauchen.
+
+  La mauvaise volonté du client était *évidente* dès le début de la négociation.
+  Die Unwilligkeit des Kunden war von Beginn der Verhandlung an *offensichtlich*.
+
+  Cette proposition *évidente* a été acceptée à l'unanimité.
+  Dieser *eindeutige* Vorschlag wurde einstimmig angenommen.
+
+  L'*évidente* supériorité de son équipe a surpris tous les spectateurs.
+  Die *offensichtliche* Überlegenheit seiner Mannschaft hat alle Zuschauer überrascht.
+
+  "C'est *évident* !" s'est-il exclamé en trouvant enfin la solution.
+  "Das ist ja *klar*!", rief er aus, als er endlich die Lösung fand.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

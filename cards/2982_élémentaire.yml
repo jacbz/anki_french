@@ -13,35 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il posait des questions élémentaires.
-  Er stellte elementare Fragen.
+  Il posait des questions *élémentaires*.
+  Er stellte *elementare* Fragen.
 
-  Les mathématiques élémentaires sont importantes.
-  Elementarmathematik ist wichtig.
+  Ce cours couvre les concepts *élémentaires* de la physique.
+  Dieser Kurs behandelt die *grundlegenden* Konzepte der Physik.
 
-  Les enfants sont en cours élémentaire cette année.
-  Die Kinder sind dieses Jahr im Anfangsunterricht.
+  Les règles *élémentaires* de politesse sont essentielles dans toute société.
+  Die *elementaren* Höflichkeitsregeln sind in jeder Gesellschaft unerlässlich.
 
-  "Élémentaire, mon cher Watson!", a déclaré Sherlock Holmes.
-  "Das ist doch ganz klar, mein lieber Watson!", sagte Sherlock Holmes.
+  L'école *élémentaire* est une étape cruciale dans l'éducation d'un enfant.
+  Die *Grundschule* ist eine entscheidende Phase in der Bildung eines Kindes.
 
-  C'est élémentaire! Tout le monde le sait.
-  Das weiß doch jeder!
+  Cette grammaire *élémentaire* est parfaite pour les débutants.
+  Diese *Elementargrammatik* ist perfekt für Anfänger.
 
-  Les physiciens étudient les particules élémentaires.
-  Physiker studieren Elementarteilchen.
+  Les particules *élémentaires* sont les composants fondamentaux de la matière.
+  *Elementarteilchen* sind die grundlegenden Bausteine der Materie.
 
-  La grammaire élémentaire est essentielle pour apprendre une langue.
-  Elementargrammatik ist essenziell, um eine Sprache zu lernen.
+  "C'est *élémentaire*, mon cher Watson!" s'exclama Sherlock Holmes.
+  "Das ist *elementar*, mein lieber Watson!" rief Sherlock Holmes aus.
 
-  Ce livre couvre le niveau élémentaire de la langue française.
-  Dieses Buch behandelt die Grundstufe der französischen Sprache.
+  Il faut maîtriser les opérations *élémentaires* avant d'aborder l'algèbre.
+  Man muss die *elementaren* Rechenoperationen beherrschen, bevor man sich mit Algebra befasst.
 
-  Les principes élémentaires de la démocratie sont la liberté et l'égalité.
-  Die Grundprinzipien der Demokratie sind Freiheit und Gleichheit.
+  Le respect des autres est une règle *élémentaire* de la vie en société.
+  Respekt vor anderen ist eine *grundlegende* Regel des Zusammenlebens in der Gesellschaft.
 
-  Cet exercice est vraiment élémentaire! Je peux le faire les yeux fermés!
-  Diese Übung ist wirklich einfach! Ich kann sie mit geschlossenen Augen lösen!
+  Cette analyse *élémentaire* révèle la composition chimique de l'échantillon.
+  Diese *Elementaranalyse* zeigt die chemische Zusammensetzung der Probe.
+
+  Les besoins *élémentaires* incluent la nourriture, l'eau et un abri.
+  Zu den *elementaren* Bedürfnissen gehören Nahrung, Wasser und Unterkunft.
+
+  Ce traité de géométrie *élémentaire* explique les bases de la discipline.
+  Dieses *elementare* Geometrielehrbuch erklärt die Grundlagen des Faches.
+
+  La prudence *élémentaire* exige de regarder des deux côtés avant de traverser la rue.
+  *Elementare* Vorsicht erfordert, dass man in beide Richtungen schaut, bevor man die Straße überquert.
+
+  Les principes *élémentaires* de l'économie sont abordés dans ce chapitre.
+  Die *grundlegenden* Prinzipien der Wirtschaft werden in diesem Kapitel behandelt.
+
+  Un niveau *élémentaire* en anglais est suffisant pour ce poste.
+  Ein *elementares* Niveau in Englisch ist für diese Stelle ausreichend.
+
+  Cet exercice *élémentaire* ne devrait pas vous poser de problème.
+  Diese *einfache* Übung sollte Ihnen keine Schwierigkeiten bereiten.
+
+  La théorie des particules *élémentaires* est un domaine fascinant de la physique.
+  Die Theorie der *Elementarteilchen* ist ein faszinierender Bereich der Physik.
+
+  Les gestes barrières sont des précautions *élémentaires* contre la propagation des virus.
+  Schutzmaßnahmen sind *elementare* Vorsichtsmaßnahmen gegen die Ausbreitung von Viren.
+
+  Le cours *élémentaire* première année (CE1) accueille les enfants de 7-8 ans.
+  Die erste Klasse der *Grundschule* nimmt Kinder im Alter von 7-8 Jahren auf.
+
+  Cette vérité *élémentaire* semble avoir échappé à de nombreuses personnes.
+  Diese *elementare* Wahrheit scheint vielen Menschen entgangen zu sein.
+
+  Un manuel *élémentaire* de chimie est indispensable pour débuter dans cette matière.
+  Ein *elementares* Chemielehrbuch ist unerlässlich, um mit diesem Fach zu beginnen.
+
+  Les sylphes étaient considérés comme des esprits *élémentaires* de l'air dans certaines croyances.
+  Sylphen wurden in manchen Glaubensvorstellungen als *Elementargeister* der Luft betrachtet.
+
+  La politesse *élémentaire* veut qu'on dise "merci" quand on reçoit quelque chose.
+  *Elementare* Höflichkeit gebietet es, "danke" zu sagen, wenn man etwas bekommt.
+
+  Cette erreur *élémentaire* a coûté cher à l'entreprise.
+  Dieser *elementare* Fehler kam das Unternehmen teuer zu stehen.
+
+  Les connaissances *élémentaires* en informatique sont de plus en plus nécessaires de nos jours.
+  *Grundlegende* Computerkenntnisse werden heutzutage immer wichtiger.
+
+  "Ce n'est pas *élémentaire* du tout !" s'écria-t-elle, frustrée par le problème complexe.
+  "Das ist überhaupt nicht *einfach*!" rief sie frustriert angesichts des komplexen Problems.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est sur les femmes principalement qu’elle a exercé une grande influence.
-  Vor allem auf Frauen übte sie einen großen Einfluss aus.
+  C'est sur les femmes *principalement* qu'elle a exercé une grande influence.
+  Sie hat *hauptsächlich* auf Frauen einen großen Einfluss ausgeübt.
 
-  Je mange principalement des légumes.
-  Ich esse hauptsächlich Gemüse.
+  Les revenus de l'entreprise proviennent *principalement* de la vente en ligne.
+  Die Einnahmen des Unternehmens stammen *hauptsächlich* aus dem Online-Verkauf.
+
+  Cette région est connue *principalement* pour ses vignobles.
+  Diese Region ist *vor allem* für ihre Weinberge bekannt.
+
+  Le festival attire *principalement* un public jeune et branché.
+  Das Festival zieht *vorwiegend* ein junges und trendiges Publikum an.
+
+  Les dépenses du gouvernement sont *principalement* consacrées à l'éducation et à la santé.
+  Die Ausgaben der Regierung sind *hauptsächlich* für Bildung und Gesundheit bestimmt.
+
+  Cette technologie est utilisée *principalement* dans l'industrie automobile.
+  Diese Technologie wird *vorrangig* in der Automobilindustrie eingesetzt.
+
+  Les touristes visitent ce pays *principalement* pour ses plages et son climat tropical.
+  Touristen besuchen dieses Land *in erster Linie* wegen seiner Strände und seines tropischen Klimas.
+
+  Le succès de l'équipe repose *principalement* sur sa stratégie défensive.
+  Der Erfolg der Mannschaft beruht *hauptsächlich* auf ihrer Verteidigungsstrategie.
+
+  Ce restaurant se spécialise *principalement* dans les fruits de mer.
+  Dieses Restaurant hat sich *vor allem* auf Meeresfrüchte spezialisiert.
+
+  Les passereaux se nourrissent *principalement* d'insectes et de graines.
+  Singvögel ernähren sich *überwiegend* von Insekten und Samen.
+
+  C'est *principalement* pour cette raison qu'il a décidé de démissionner.
+  *Hauptsächlich* aus diesem Grund hat er beschlossen zu kündigen.
+
+  L'économie de cette ville repose *principalement* sur le tourisme.
+  Die Wirtschaft dieser Stadt basiert *vorwiegend* auf dem Tourismus.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -47,7 +47,7 @@ function processText(text, isFrench) {
     text = text.replace(/"([^"]*?)"(?=(?:[^<]*<(?!\/?[^>]+>))*[^<]*$)/g, "«\u202F$1\u202F»");
 
     if (text[0] === "-") {
-      text = text.replaceAll("-", "–");
+      text[0] = "–";
     }
     text = text.replaceAll("<br>-", "<br>–");
   } else {
@@ -60,13 +60,13 @@ function processText(text, isFrench) {
         if (line.startsWith("–") || line.startsWith("-")) {
           line = line.replaceAll(/^(–|-)\s*/g, "");
         }
-        formattedLines.push(`„${line}“`);
+        formattedLines.push(`"${line}"`);
       }
       text = formattedLines.join("<br>");
     }
     // replace with German quote marks »...«
     text = text.replaceAll("„", '"').replaceAll("“", '"');
-    text = text.replace(/"([^"]*?)"(?=(?:[^<]*<(?!\/?[^>]+>))*[^<]*$)/g, "»\u2060$1\u2060«");
+    text = text.replaceAll(/"(?![^<]*>)(.*?)"(?![^<]*>)/g, "»\u2060$1\u2060«");
   }
 
   // replace *...* with word-highlight span

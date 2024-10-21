@@ -13,32 +13,92 @@ Register: ↗Fiktion ↘Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les amis se promènent dans la rue.
-  Die Freunde gehen auf der Straße spazieren.
+  Les amis *se promènent* dans la rue.
+  Die Freunde *spazieren* auf der Straße.
 
-  Je vais promener mon chien.
-  Ich gehe mit meinem Hund spazieren.
+  Je *promène* mon chien tous les matins.
+  Ich *führe* meinen Hund jeden Morgen *spazieren*.
 
-  Le chien de Pierre est très joueur, il l'a promené dans le parc pendant une heure.
-  Pierre hat seinen Hund, der sehr verspielt ist, eine Stunde lang im Park spazieren geführt.
+  Elle aime *se promener* au bord de la mer.
+  Sie geht gerne am Meer *spazieren*.
 
-  La route sinueuse se promenait à travers la forêt.
-  Die kurvige Straße schlängelte sich durch den Wald.
+  Le guide nous a *promenés* dans les rues historiques de la ville.
+  Der Führer hat uns durch die historischen Straßen der Stadt *geführt*.
 
-  L'école est trop stricte, ça me promènera de sortir en soirée.
-  Die Schule ist zu streng, da komme ich ein bisschen raus, wenn ich abends ausgehe.
+  "Va te *promener* !" lui a-t-il dit avec colère.
+  "*Geh spazieren*!", sagte er wütend zu ihm.
 
-  Le pianiste promenait ses doigts sur le clavier, créant une mélodie douce.
-  Der Pianist ließ seine Finger über die Tasten gleiten und schuf eine sanfte Melodie.
+  Les enfants *se promènent* à vélo dans le parc.
+  Die Kinder machen eine *Fahrradtour* im Park.
 
-  Le vieil homme promenait son regard sur la plaine, admirant la beauté du paysage.
-  Der alte Mann ließ seinen Blick über die Ebene schweifen und bewunderte die Schönheit der Landschaft.
+  Il *promène* son regard sur la foule.
+  Er lässt seinen Blick über die Menge *schweifen*.
 
-  Nous nous sommes promenés en voiture le long de la côte, en profitant du soleil.
-  Wir sind mit dem Auto entlang der Küste gefahren und haben die Sonne genossen.
+  Nous aimons *nous promener* en forêt le week-end.
+  Wir gehen am Wochenende gerne im Wald *spazieren*.
 
-  Le dimanche matin, j'aime me promener à vélo dans la campagne.
-  Am Sonntagmorgen mache ich gerne eine Fahrradtour durch die Landschaft.
+  Le chat *se promène* sur le toit de la maison.
+  Die Katze *läuft* auf dem Dach des Hauses *herum*.
+
+  Elle *promène* ses doigts sur les touches du piano.
+  Sie lässt ihre Finger über die Klaviertasten *gleiten*.
+
+  "Ça me *promènera* un peu", dit-il en acceptant l'invitation.
+  "Das bringt mich mal ein bisschen *raus*", sagte er, als er die Einladung annahm.
+
+  Les touristes *se promènent* dans les ruelles de la vieille ville.
+  Die Touristen *schlendern* durch die Gassen der Altstadt.
+
+  Il faut *promener* les idées reçues.
+  Man muss vorgefasste Ideen *hinterfragen*.
+
+  Nous allons *nous promener* en bateau sur le lac.
+  Wir werden eine *Bootsfahrt* auf dem See machen.
+
+  Le fleuve *se promène* paisiblement à travers la vallée.
+  Der Fluss *schlängelt* sich friedlich durch das Tal.
+
+  Elle aime *promener* son insolence dans les soirées mondaines.
+  Sie liebt es, ihre Frechheit auf gesellschaftlichen Abenden zur *Schau zu stellen*.
+
+  Les nuages *se promènent* dans le ciel d'été.
+  Die Wolken *ziehen* am Sommerhimmel *entlang*.
+
+  "Ne me *promène* pas !" s'exclama-t-il, agacé par ses fausses promesses.
+  "Führ mich nicht an der Nase *herum*!", rief er verärgert über ihre falschen Versprechungen.
+
+  Ils *se promènent* main dans la main au clair de lune.
+  Sie *spazieren* Hand in Hand im Mondschein.
+
+  Le cavalier *promène* son cheval dans le pré.
+  Der Reiter *führt* sein Pferd auf der Wiese *spazieren*.
+
+  Les feuilles mortes *se promènent* au gré du vent.
+  Die toten Blätter *treiben* im Wind *umher*.
+
+  "Promenons-nous dans les bois", chantent les enfants.
+  "Lasst uns durch die Wälder *wandern*", singen die Kinder.
+
+  Elle *promène* son chagrin dans les rues désertes.
+  Sie *trägt* ihren Kummer durch die verlassenen Straßen.
+
+  Le peintre *promène* son pinceau sur la toile.
+  Der Maler *führt* seinen Pinsel über die Leinwand.
+
+  Les pensées *se promènent* dans son esprit agité.
+  Die Gedanken *schweifen* in seinem unruhigen Geist *umher*.
+
+  "Va te faire *promener* !" cria-t-elle, exaspérée.
+  "*Geh zum Teufel*!", schrie sie verärgert.
+
+  Ils aiment *se promener* en amoureux au coucher du soleil.
+  Sie *spazieren* gerne als Verliebte beim Sonnenuntergang.
+
+  Le politicien *promène* ses promesses de ville en ville.
+  Der Politiker *trägt* seine Versprechungen von Stadt zu Stadt.
+
+  Les chaussettes *se promènent* partout dans la chambre.
+  Die Socken *liegen* überall im Zimmer *herum*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

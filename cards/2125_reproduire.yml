@@ -13,14 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Malheureusement, ces situations se reproduiront.
-  Leider werden sich diese Situationen wiederholen.
+  Malheureusement, ces situations se *reproduiront*.
+  Leider werden sich diese Situationen *wiederholen*.
 
-  Il est difficile de reproduire cette peinture à la perfection.
-  Es ist schwierig, dieses Gemälde perfekt nachzumachen.
+  Les scientifiques tentent de *reproduire* les conditions de l'expérience.
+  Die Wissenschaftler versuchen, die Bedingungen des Experiments zu *reproduzieren*.
 
-  Ce tableau est reproduit dans de nombreux musées.
-  Dieses Bild ist in zahlreichen Museen abgebildet.
+  Cette imprimante peut *reproduire* des documents en couleur.
+  Dieser Drucker kann farbige Dokumente *vervielfältigen*.
+
+  L'artiste a réussi à *reproduire* fidèlement le paysage.
+  Dem Künstler ist es gelungen, die Landschaft getreu *nachzubilden*.
+
+  Les pandas géants ont du mal à se *reproduire* en captivité.
+  Große Pandas haben Schwierigkeiten, sich in Gefangenschaft *fortzupflanzen*.
+
+  Le livre *reproduit* de nombreuses citations d'auteurs célèbres.
+  Das Buch *gibt* zahlreiche Zitate berühmter Autoren *wieder*.
+
+  Cette technologie permet de *reproduire* le son avec une grande fidélité.
+  Diese Technologie ermöglicht es, den Klang mit großer Genauigkeit *wiederzugeben*.
+
+  Il faut éviter de *reproduire* les erreurs du passé.
+  Man sollte vermeiden, die Fehler der Vergangenheit zu *wiederholen*.
+
+  Les cellules cancéreuses se *reproduisent* rapidement.
+  Krebszellen *vermehren* sich schnell.
+
+  L'acteur a parfaitement *reproduit* l'accent du personnage.
+  Der Schauspieler hat den Akzent der Figur perfekt *nachgeahmt*.
+
+  Cette machine peut *reproduire* des pièces mécaniques avec précision.
+  Diese Maschine kann mechanische Teile präzise *nachbilden*.
+
+  Les virus ont la capacité de se *reproduire* à l'intérieur des cellules hôtes.
+  Viren haben die Fähigkeit, sich innerhalb von Wirtszellen zu *vermehren*.
+
+  Le musée a décidé de *reproduire* certaines œuvres pour les rendre accessibles au public.
+  Das Museum hat beschlossen, bestimmte Werke zu *reproduzieren*, um sie der Öffentlichkeit zugänglich zu machen.
+
+  Il est interdit de *reproduire* ce document sans autorisation.
+  Es ist verboten, dieses Dokument ohne Genehmigung zu *vervielfältigen*.
+
+  Les plantes peuvent se *reproduire* de manière asexuée.
+  Pflanzen können sich auf ungeschlechtliche Weise *fortpflanzen*.
+
+  Le peintre s'efforce de *reproduire* les nuances subtiles de la lumière.
+  Der Maler bemüht sich, die subtilen Nuancen des Lichts *wiederzugeben*.
+
+  Cette méthode permet de *reproduire* l'expérience dans n'importe quel laboratoire.
+  Diese Methode ermöglicht es, das Experiment in jedem Labor zu *reproduzieren*.
+
+  Les hologrammes peuvent *reproduire* des images en trois dimensions.
+  Hologramme können dreidimensionale Bilder *wiedergeben*.
+
+  Il est important de ne pas *reproduire* les comportements toxiques de nos parents.
+  Es ist wichtig, die toxischen Verhaltensweisen unserer Eltern nicht zu *wiederholen*.
+
+  Cette espèce en voie de disparition a du mal à se *reproduire* dans son habitat naturel.
+  Diese vom Aussterben bedrohte Art hat Schwierigkeiten, sich in ihrem natürlichen Lebensraum *fortzupflanzen*.
+
+  Le logiciel permet de *reproduire* fidèlement les couleurs de l'original.
+  Die Software ermöglicht es, die Farben des Originals getreu *wiederzugeben*.
+
+  Les bactéries peuvent se *reproduire* très rapidement dans des conditions favorables.
+  Bakterien können sich unter günstigen Bedingungen sehr schnell *vermehren*.
+
+  L'ordinateur peut *reproduire* des sons complexes avec une grande précision.
+  Der Computer kann komplexe Klänge mit großer Genauigkeit *reproduzieren*.
+
+  Il est difficile de *reproduire* exactement les conditions de l'accident.
+  Es ist schwierig, die genauen Umstände des Unfalls zu *rekonstruieren*.
+
+  Cette technique permet de *reproduire* l'ADN en grande quantité.
+  Diese Technik ermöglicht es, DNA in großen Mengen zu *vervielfältigen*.
+
+  L'écho *reproduit* le son original avec un léger décalage.
+  Das Echo *gibt* den ursprünglichen Klang mit einer leichten Verzögerung *wieder*.
+
+  Les historiens tentent de *reproduire* les techniques de construction anciennes.
+  Die Historiker versuchen, alte Bautechniken *nachzuahmen*.
+
+  Cette imprimante 3D peut *reproduire* des objets complexes.
+  Dieser 3D-Drucker kann komplexe Objekte *nachbilden*.
+
+  Les généticiens cherchent à comprendre comment les gènes se *reproduisent*.
+  Die Genetiker versuchen zu verstehen, wie sich Gene *reproduzieren*.
+
+  Le miroir *reproduit* fidèlement l'image qui lui est présentée.
+  Der Spiegel *gibt* das ihm präsentierte Bild getreu *wieder*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

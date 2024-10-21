@@ -13,29 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il s’oppose aux multiples procédures d’extradition.
-  Er widersetzt sich den zahlreichen Auslieferungsverfahren.
+  Il s'oppose aux *multiples* procédures d'extradition.
+  Er widersetzt sich den *vielfachen* Auslieferungsverfahren.
 
-  Il y a de multiples façons de résoudre ce problème.
-  Es gibt viele Möglichkeiten, dieses Problem zu lösen.
+  Les causes de cette maladie sont *multiples*.
+  Die Ursachen dieser Krankheit sind *vielfältig*.
 
-  Ce couteau suisse est à usages multiples.
-  Dieses Schweizer Taschenmesser ist zur vielseitigen Verwendung gedacht.
+  Cette entreprise propose des solutions à usages *multiples*.
+  Dieses Unternehmen bietet Lösungen zur *vielseitigen* Verwendung an.
 
-  Le nombre 12 est le multiple de 3.
-  Die Zahl 12 ist das Vielfache von 3.
+  Nous avons examiné le problème sous ses aspects *multiples*.
+  Wir haben das Problem unter seinen *vielfältigen* Aspekten untersucht.
 
-  Ce programme a été utilisé à de multiples reprises.
-  Dieses Programm wurde wiederholt eingesetzt.
+  Elle a reçu des félicitations de *multiples* personnes.
+  Sie hat von *vielen* Menschen Glückwünsche erhalten.
 
-  Après l'accident, il a subi une fracture multiple de la jambe.
-  Nach dem Unfall erlitt er einen komplizierten Knochenbruch am Bein.
+  Le gouvernement a pris des mesures *multiples* pour lutter contre l'inflation.
+  Die Regierung hat *vielfache* Maßnahmen ergriffen, um die Inflation zu bekämpfen.
 
-  Ce nouvel appareil à fonctions multiples peut faire le café, le thé et le jus d'orange.
-  Dieses neue Multifunktionsgerät kann Kaffee, Tee und Orangensaft herstellen.
+  Cet appareil photo a des fonctions *multiples*.
+  Diese Kamera hat *vielfältige* Funktionen.
 
-  Le nombre 24 est multiple de 4, 6 et 8.
-  Die Zahl 24 ist ein Vielfaches von 4, 6 und 8.
+  "J'ai dû le lui répéter à de *multiples* reprises !"
+  "Ich musste es ihm *wiederholt* sagen!"
+
+  La réalité est souvent plus *multiple* qu'on ne le pense.
+  Die Realität ist oft *vielschichtiger*, als man denkt.
+
+  Le patient a subi une fracture *multiple* de la jambe.
+  Der Patient erlitt einen *komplizierten* Knochenbruch am Bein.
+
+  Nous avons installé une prise *multiple* dans le bureau.
+  Wir haben eine *Mehrfach*steckdose im Büro installiert.
+
+  Douze est *multiple* de trois et de quatre.
+  Zwölf ist ein *Vielfaches* von drei und vier.
+
+  Les *multiples* de cinq se terminent toujours par zéro ou cinq.
+  Die *Vielfachen* von fünf enden immer mit null oder fünf.
+
+  Cette artiste crée des œuvres en éditions *multiples*.
+  Diese Künstlerin schafft Werke in *mehrfacher* Auflage.
+
+  Le scanner a révélé des lésions *multiples*.
+  Der Scan zeigte *mehrfache* Verletzungen.
+
+  Il faut prendre en compte les *multiples* facettes de cette question.
+  Man muss die *vielfältigen* Aspekte dieser Frage berücksichtigen.
+
+  Les *multiples* talents de cet artiste m'impressionnent.
+  Die *vielfältigen* Talente dieses Künstlers beeindrucken mich.
+
+  Cette technologie offre des avantages *multiples*.
+  Diese Technologie bietet *vielfache* Vorteile.
+
+  Nous avons rencontré des difficultés *multiples* lors de ce projet.
+  Wir sind bei diesem Projekt auf *vielfältige* Schwierigkeiten gestoßen.
+
+  L'écosystème de la forêt tropicale abrite une faune *multiple*.
+  Das Ökosystem des Regenwaldes beherbergt eine *vielfältige* Fauna.
+
+  Les causes de l'échec sont *multiples* et complexes.
+  Die Gründe für das Scheitern sind *vielfältig* und komplex.
+
+  Cette ville *multiple* offre une richesse culturelle unique.
+  Diese *vielschichtige* Stadt bietet eine einzigartige kulturelle Vielfalt.
+
+  Le plus petit commun *multiple* de 12 et 18 est 36.
+  Das kleinste gemeinsame *Vielfache* von 12 und 18 ist 36.
+
+  Les *multiples* interfaces de ce logiciel le rendent difficile à utiliser.
+  Die *vielfachen* Schnittstellen dieser Software machen sie schwierig zu bedienen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

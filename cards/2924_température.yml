@@ -13,50 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il faut que j’aille prendre ma température.
-  Ich muss meine Temperatur messen.
+  Il faut que j'aille prendre ma *température*.
+  Ich muss meine *Temperatur* messen gehen.
 
-  La température est de 25 degrés Celsius.
-  Die Temperatur beträgt 25 Grad Celsius.
+  La *température* extérieure a chuté de dix degrés cette nuit.
+  Die Außen*temperatur* ist heute Nacht um zehn Grad gefallen.
 
-  Sa température est normal.
-  Seine Temperatur ist normal.
+  Le médecin a vérifié la *température* rectale du bébé.
+  Der Arzt hat die Rektal*temperatur* des Babys überprüft.
 
-  La température ambiante était agréable pour travailler.
-  Die Raumtemperatur war angenehm zum Arbeiten.
+  La *température* moyenne en été a augmenté ces dernières années.
+  Die durchschnittliche *Temperatur* im Sommer ist in den letzten Jahren gestiegen.
 
-  La température extérieure est descendue en dessous de zéro.
-  Die Außentemperatur ist unter Null gefallen.
+  "Tu as l'air pâle, tu fais de la *température* ?"
+  "Du siehst blass aus, hast du *Fieber*?"
 
-  La température basale est un indicateur important de la fertilité.
-  Die Basaltemperatur ist ein wichtiger Indikator für die Fruchtbarkeit.
+  Les scientifiques surveillent de près la *température* des océans.
+  Die Wissenschaftler überwachen genau die *Temperatur* der Ozeane.
 
-  Il a de la température depuis hier soir.
-  Er hat seit gestern Abend Fieber.
+  La *température* d'ébullition de l'eau est de 100 degrés Celsius au niveau de la mer.
+  Die Siede*temperatur* von Wasser beträgt auf Meereshöhe 100 Grad Celsius.
 
-  La température moyenne annuelle dans cette région est de 15°C.
-  Die durchschnittliche Jahrestemperatur in dieser Region beträgt 15°C.
+  Les reptiles sont des animaux à *température* variable.
+  Reptilien sind Tiere mit variabler Körper*temperatur*.
 
-  La température de l'air est de 25°C à l'ombre.
-  Die Lufttemperatur beträgt 25°C im Schatten.
+  Le chef pâtissier contrôle attentivement la *température* du four.
+  Der Chefkonditor kontrolliert sorgfältig die *Temperatur* des Backofens.
 
-  La température d'ébullition de l'eau est de 100°C.
-  Der Siedepunkt von Wasser beträgt 100°C.
+  J'ai réglé le thermostat pour maintenir une *température* ambiante agréable.
+  Ich habe den Thermostat eingestellt, um eine angenehme Raum*temperatur* zu halten.
 
-  La température de fusion du plomb est de 327°C.
-  Der Schmelzpunkt von Blei beträgt 327°C.
+  Le changement climatique affecte la *température* de l'air dans le monde entier.
+  Der Klimawandel beeinflusst die Luft*temperatur* weltweit.
 
-  La température rectale est généralement plus élevée que la température orale.
-  Die Rektaltemperatur ist in der Regel höher als die orale Temperatur.
+  Avant de se baigner, il faut vérifier la *température* de l'eau.
+  Vor dem Baden sollte man die Wasser*temperatur* überprüfen.
 
-  Les reptiles sont des animaux à température variable.
-  Reptilien sind wechselwarme Tiere.
+  La *température* basale peut aider à déterminer le moment de l'ovulation.
+  Die Basal*temperatur* kann helfen, den Zeitpunkt des Eisprungs zu bestimmen.
 
-  Un fort stress peut dérégler la température du corps.
-  Starker Stress kann den Wärmehaushalt des Körpers durcheinanderbringen.
+  Le mécanicien a utilisé un thermomètre infrarouge pour mesurer la *température* du moteur.
+  Der Mechaniker benutzte ein Infrarot-Thermometer, um die *Temperatur* des Motors zu messen.
 
-  Le médecin a pris la température de l'enfant.
-  Der Arzt hat dem Kind Fieber gemessen.
+  Les météorologues prévoient une hausse des *températures* pour la semaine prochaine.
+  Die Meteorologen sagen für nächste Woche steigende *Temperaturen* voraus.
+
+  Cette plante ne supporte pas les *températures* inférieures à zéro degré.
+  Diese Pflanze verträgt keine *Temperaturen* unter null Grad.
+
+  Le processus de fusion du métal dépend de sa *température* de fusion.
+  Der Schmelzprozess des Metalls hängt von seinem Schmelz*punkt* ab.
+
+  "J'ai pris sa *température* : il a 39 degrés de fièvre."
+  "Ich habe seine *Temperatur* gemessen: Er hat 39 Grad Fieber."
+
+  La *température* corporelle normale varie légèrement d'une personne à l'autre.
+  Die normale Körper*temperatur* variiert leicht von Person zu Person.
+
+  Le climatiseur maintient une *température* constante dans la pièce.
+  Die Klimaanlage hält eine konstante *Temperatur* im Raum.
+
+  Les variations de *température* peuvent affecter la qualité du vin.
+  *Temperatur*schwankungen können die Qualität des Weins beeinflussen.
+
+  Le journaliste a pris la *température* du débat politique.
+  Der Journalist hat die *Stimmung* in der politischen Debatte erfasst.
+
+  La *température* de fusion de la glace est de 0 degré Celsius.
+  Der Schmelz*punkt* von Eis liegt bei 0 Grad Celsius.
+
+  Le stockage des aliments à la bonne *température* est crucial pour éviter leur détérioration.
+  Die Lagerung von Lebensmitteln bei der richtigen *Temperatur* ist entscheidend, um ihren Verderb zu vermeiden.
+
+  Les biologistes étudient comment les organismes s'adaptent aux changements de *température*.
+  Die Biologen untersuchen, wie sich Organismen an *Temperatur*änderungen anpassen.
+
+  La *température* élevée dans l'usine rend le travail difficile en été.
+  Die hohe *Temperatur* in der Fabrik macht die Arbeit im Sommer schwierig.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

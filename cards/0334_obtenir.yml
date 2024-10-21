@@ -13,35 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’essaierai d’obtenir la réponse pour demain.
-  Ich werde versuchen, die Antwort bis morgen zu erhalten.
+  J'essaierai d'*obtenir* la réponse pour demain.
+  Ich werde versuchen, bis morgen die Antwort zu *bekommen*.
 
-  J’ai réussi à obtenir une promotion.
-  Ich habe es geschafft, eine Beförderung zu bekommen.
+  Elle a *obtenu* une augmentation de salaire après des mois de négociations.
+  Sie hat nach monatelangen Verhandlungen eine Gehaltserhöhung *erhalten*.
 
-  Pierre a obtenu de l'avancement après avoir travaillé dur pendant plusieurs années.
-  Pierre wurde befördert, nachdem er mehrere Jahre lang hart gearbeitet hatte.
+  Nous avons *obtenu* la permission de visiter le site archéologique.
+  Wir haben die Erlaubnis *erhalten*, die archäologische Stätte zu besichtigen.
 
-  Le président a mené le débat de manière à obtenir un résultat consensuel.
-  Der Präsident hat die Diskussion ergebnisorientiert geführt, um ein Konsensergebnis zu erzielen.
+  Le candidat a *obtenu* la majorité des voix lors de l'élection.
+  Der Kandidat hat bei der Wahl die Mehrheit der Stimmen *erlangt*.
 
-  Après avoir fait valoir ses arguments, il a obtenu satisfaction.
-  Nachdem er seine Argumente vorgebracht hatte, hat er sich durchgesetzt.
+  En mélangeant le bleu et le jaune, on *obtient* du vert.
+  Wenn man Blau und Gelb mischt, *erhält* man Grün.
 
-  Malgré tous ses efforts, il n'a rien pu obtenir.
-  Trotz aller Bemühungen konnte er nichts erreichen.
+  Il a *obtenu* son diplôme avec mention.
+  Er hat seinen Abschluss mit Auszeichnung *bestanden*.
 
-  Le prince a obtenu la main de la princesse après une longue période de cour.
-  Der Prinz hat die Prinzessin zur Frau genommen, nachdem er sie lange umworben hatte.
+  "J'ai enfin *obtenu* un rendez-vous chez le médecin !"
+  "Ich habe endlich einen Termin beim Arzt *bekommen*!"
 
-  J'ai obtenu d'elle de jouer dans cette pièce en lui offrant le rôle principal.
-  Ich habe bei ihr erreicht, dass ich in dem Stück spiele, indem ich ihr die Hauptrolle angeboten habe.
+  Les chercheurs ont *obtenu* des résultats prometteurs dans leur étude.
+  Die Forscher haben vielversprechende Ergebnisse in ihrer Studie *erzielt*.
 
-  J'ai obtenu de mon père qu'il m'achète une nouvelle voiture en lui expliquant que j'en avais vraiment besoin pour mon travail.
-  Ich habe bei meinem Vater erreicht, dass er mir ein neues Auto kauft, indem ich ihm erklärt habe, dass ich es wirklich für meine Arbeit brauche.
+  Comment as-tu *obtenu* cette information confidentielle ?
+  Wie hast du diese vertrauliche Information *erlangt*?
 
-  Il a obtenu justice en portant plainte contre son employeur.
-  Er hat Recht bekommen, indem er Klage gegen seinen Arbeitgeber eingereicht hat.
+  Après des années d'efforts, elle a *obtenu* la nationalité française.
+  Nach Jahren der Bemühungen hat sie die französische Staatsbürgerschaft *erhalten*.
+
+  Le film a *obtenu* un franc succès auprès du public.
+  Der Film hat beim Publikum einen großen Erfolg *erzielt*.
+
+  Nous devons *obtenir* son accord avant de procéder.
+  Wir müssen seine Zustimmung *einholen*, bevor wir fortfahren.
+
+  L'entreprise a *obtenu* un contrat important avec un nouveau client.
+  Das Unternehmen hat einen wichtigen Vertrag mit einem neuen Kunden *abgeschlossen*.
+
+  Il faut *obtenir* un visa pour voyager dans ce pays.
+  Man muss ein Visum *beantragen*, um in dieses Land zu reisen.
+
+  Les manifestants ont *obtenu* gain de cause après des semaines de protestation.
+  Die Demonstranten haben nach wochenlangen Protesten *Recht bekommen*.
+
+  J'ai *obtenu* de lui qu'il vienne à la réunion.
+  Ich habe bei ihm *erreicht*, dass er zum Treffen kommt.
+
+  Cette autorisation ne s'*obtient* pas facilement.
+  Diese Genehmigung lässt sich nicht leicht *erlangen*.
+
+  En divisant un nombre par lui-même, on *obtient* toujours 1.
+  Wenn man eine Zahl durch sich selbst teilt, *erhält* man immer 1.
+
+  Le jeune homme a *obtenu* la main de sa bien-aimée.
+  Der junge Mann hat die Hand seiner Geliebten *erhalten*.
+
+  Nous avons *obtenu* une réduction de 20% sur notre achat.
+  Wir haben einen Rabatt von 20% auf unseren Einkauf *erhalten*.
+
+  Comment *obtenir* réparation pour ce préjudice ?
+  Wie kann man für diesen Schaden eine Entschädigung *erlangen*?
+
+  L'équipe a *obtenu* une victoire écrasante contre ses adversaires.
+  Das Team hat einen überwältigenden Sieg gegen seine Gegner *errungen*.
+
+  Il a *obtenu* le poste grâce à ses compétences exceptionnelles.
+  Er hat die Stelle aufgrund seiner außergewöhnlichen Fähigkeiten *erhalten*.
+
+  Nous avons *obtenu* d'excellents résultats aux examens.
+  Wir haben ausgezeichnete Prüfungsergebnisse *erzielt*.
+
+  Le scientifique a *obtenu* une nouvelle variété de plante par des croisements génétiques.
+  Der Wissenschaftler hat durch genetische Kreuzungen eine neue Pflanzensorte *gezüchtet*.
+
+  J'ai *obtenu* son numéro de téléphone par l'intermédiaire d'un ami commun.
+  Ich habe seine Telefonnummer über einen gemeinsamen Freund *bekommen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

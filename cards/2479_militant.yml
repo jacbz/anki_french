@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous ne sommes militants d’aucune organisation politique.
-  Wir sind keine Aktivisten einer politischen Organisation.
+  Nous ne sommes *militants* d'aucune organisation politique.
+  Wir sind *aktive Mitglieder* keiner politischen Organisation.
 
-  Il est un militant engagé dans la défense des droits de l’homme.
-  Er ist ein Aktivist, der sich für die Verteidigung der Menschenrechte einsetzt.
+  Elle est une *militante* passionnée pour les droits des animaux.
+  Sie ist eine leidenschaftliche *Aktivistin* für Tierrechte.
 
-  Les militants de base sont des personnes engagées dans un mouvement social.
-  Die aktive Basis sind Personen, die sich für eine soziale Bewegung einsetzen.
+  Le syndicat a besoin de *militants* motivés pour défendre les intérêts des travailleurs.
+  Die Gewerkschaft braucht motivierte *aktive Mitglieder*, um die Interessen der Arbeiter zu verteidigen.
 
-  Une militante de la cause animale se bat pour la protection des animaux.
-  Eine Tierschützerin kämpft für den Schutz der Tiere.
+  La manifestation a rassemblé des *militants* de diverses causes sociales.
+  Die Demonstration brachte *Aktivisten* verschiedener sozialer Bewegungen zusammen.
+
+  Son discours *militant* a inspiré de nombreux jeunes à s'engager.
+  Seine *kämpferische* Rede hat viele junge Menschen dazu inspiriert, sich zu engagieren.
+
+  Les *militants* de base du parti ont exprimé leur mécontentement envers la direction.
+  Die *aktive Basis* der Partei hat ihre Unzufriedenheit mit der Führung zum Ausdruck gebracht.
+
+  "Je suis fier d'être un *militant* pour la justice sociale," a-t-il déclaré.
+  "Ich bin stolz, ein *Kämpfer* für soziale Gerechtigkeit zu sein," erklärte er.
+
+  L'organisation environnementale recherche de nouveaux *militants* pour ses campagnes.
+  Die Umweltorganisation sucht neue *aktive Mitglieder* für ihre Kampagnen.
+
+  La *militante* féministe a donné une conférence sur l'égalité des sexes.
+  Die feministische *Aktivistin* hielt einen Vortrag über Geschlechtergleichstellung.
+
+  L'esprit *militant* de cette communauté a conduit à de nombreux changements positifs.
+  Der *kämpferische* Geist dieser Gemeinschaft hat zu vielen positiven Veränderungen geführt.
+
+  Les *militants* syndicaux ont organisé une grève pour de meilleures conditions de travail.
+  Die gewerkschaftlichen *Aktivisten* organisierten einen Streik für bessere Arbeitsbedingungen.
+
+  Cette politique *militante* vise à réduire les inégalités sociales.
+  Diese *kämpferische* Politik zielt darauf ab, soziale Ungleichheiten zu reduzieren.
+
+  Le parti a récompensé ses *militants* les plus actifs lors de la convention annuelle.
+  Die Partei ehrte ihre aktivsten *Mitglieder* auf dem jährlichen Parteitag.
+
+  L'Église *militante* appelle ses fidèles à défendre activement leur foi.
+  Die *streitende* Kirche ruft ihre Gläubigen dazu auf, ihren Glauben aktiv zu verteidigen.
+
+  Le zèle *militant* de certains membres a parfois conduit à des tensions au sein du groupe.
+  Der *kämpferische* Eifer einiger Mitglieder hat manchmal zu Spannungen innerhalb der Gruppe geführt.
+
+  Les *militants* écologistes ont manifesté contre la construction d'une nouvelle usine.
+  Die *Umweltaktivisten* demonstrierten gegen den Bau einer neuen Fabrik.
+
+  Son ardeur *militante* pour la cause des sans-abri ne s'est jamais éteinte.
+  Ihr *kämpferischer* Eifer für die Sache der Obdachlosen ist nie erloschen.
+
+  La réunion a attiré de nombreux *militants* chrétiens engagés dans l'action sociale.
+  Das Treffen zog viele *engagierte Christen* an, die sich in der Sozialarbeit einsetzen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

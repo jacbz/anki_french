@@ -13,29 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Peut-être a-t-on tout simplement exagéré.
-  Vielleicht wurde auch einfach nur übertrieben.
+  Peut-être a-t-on tout simplement *exagéré*.
+  Vielleicht hat man einfach *übertrieben*.
 
-  Il exagère toujours.
-  Er übertreibt immer.
+  Il ne faut pas *exagérer* l'importance de cette erreur.
+  Man sollte die Bedeutung dieses Fehlers nicht *überbewerten*.
 
-  Elle exagère son maquillage pour se démarquer dans la foule.
-  Sie übertreibt es mit ihrer Schminke, um in der Menge aufzufallen.
+  "Tu *exagères* toujours quand tu racontes tes histoires !"
+  "Du *übertreibst* immer, wenn du deine Geschichten erzählst!"
 
-  Il s'exagère le danger.
-  Er spielt die Gefahr hoch.
+  Les médias ont tendance à *exagérer* les dangers.
+  Die Medien neigen dazu, Gefahren zu *dramatisieren*.
 
-  Sans exagérer, ce film est l'un des meilleurs que j'ai jamais vu.
-  Ohne Übertreibung, dieser Film ist einer der besten, die ich je gesehen habe.
+  Elle s'est *exagéré* les difficultés de l'examen.
+  Sie hat die Schwierigkeiten der Prüfung *überbewertet*.
 
-  N'exagérons rien, mais cette situation est vraiment préoccupante.
-  Man soll nichts übertreiben, aber diese Situation ist wirklich besorgniserregend.
+  Ne *t'exagère* pas les problèmes, ils sont gérables.
+  *Spiel* die Probleme nicht *hoch*, sie sind zu bewältigen.
 
-  Il s'exagère une difficulté et se sent incapable de réussir.
-  Er überbewertet eine Schwierigkeit und fühlt sich unfähig, sie zu bewältigen.
+  Il faut éviter d'*exagérer* son maquillage pour un entretien.
+  Man sollte es mit dem Make-up für ein Vorstellungsgespräch nicht *übertreiben*.
 
-  Elle s'exagère l'importance d'une remarque.
-  Sie misst einer Bemerkung allzu große Bedeutung bei.
+  Sans *exagérer*, c'était le meilleur repas de ma vie.
+  Ohne zu *übertreiben*, das war die beste Mahlzeit meines Lebens.
+
+  Vous *exagérez* un peu les mérites de votre fils, non ?
+  Sie *überschätzen* die Verdienste Ihres Sohnes ein wenig, oder?
+
+  N'*exagérons* rien, la situation n'est pas si grave.
+  *Übertreiben* wir nichts, die Situation ist nicht so schlimm.
+
+  Les comédiens *exagèrent* parfois leurs gestes sur scène.
+  Schauspieler *übertreiben* manchmal ihre Gesten auf der Bühne.
+
+  Il s'est *exagéré* l'importance de cette remarque.
+  Er hat die Bedeutung dieser Bemerkung *überbewertet*.
+
+  "Franchement, tu *exagères* !" s'est-elle exclamée.
+  "Ehrlich, du *übertreibst*!" rief sie aus.
+
+  Les politiciens ont tendance à *exagérer* leurs promesses.
+  Politiker neigen dazu, ihre Versprechen zu *übertreiben*.
+
+  Ne pas *exagérer* les précautions est aussi dangereux que de les négliger.
+  Vorsichtsmaßnahmen nicht zu *übertreiben* ist genauso gefährlich, wie sie zu vernachlässigen.
+
+  Les rumeurs ont *exagéré* l'ampleur du scandale.
+  Die Gerüchte haben das Ausmaß des Skandals *hochgespielt*.
+
+  Il ne faut pas *exagérer* l'importance du diplôme dans la vie professionnelle.
+  Man sollte die Bedeutung des Abschlusses im Berufsleben nicht *überbewerten*.
+
+  Elle s'*exagère* toujours les conséquences de ses actions.
+  Sie *überbewertet* immer die Folgen ihrer Handlungen.
+
+  Les dépenses *exagérées* ont conduit l'entreprise à la faillite.
+  Die *übertriebenen* Ausgaben haben das Unternehmen in den Konkurs getrieben.
+
+  *Exagérer* ses qualités sur un CV peut se retourner contre soi.
+  Seine Qualitäten in einem Lebenslauf zu *übertreiben*, kann nach hinten losgehen.
+
+  "Tu peux manger des sucreries, mais n'*exagère* pas !"
+  "Du kannst Süßigkeiten essen, aber *übertreib* es nicht!"
+
+  Les médias ont *exagéré* l'impact de cette découverte scientifique.
+  Die Medien haben die Auswirkungen dieser wissenschaftlichen Entdeckung *übertrieben*.
+
+  Il ne faut pas *exagérer* l'influence des réseaux sociaux sur les jeunes.
+  Man sollte den Einfluss sozialer Medien auf Jugendliche nicht *überbewerten*.
+
+  Les touristes *exagèrent* souvent les dangers des pays étrangers.
+  Touristen *übertreiben* oft die Gefahren fremder Länder.
+
+  "N'*exagérons* pas l'importance de cette décision", a dit le chef.
+  "Lasst uns die Bedeutung dieser Entscheidung nicht *überbewerten*", sagte der Chef.
+
+  Son mauvais caractère s'est *exagéré* avec l'âge.
+  Sein schlechter Charakter hat sich mit dem Alter *verschlimmert*.
+
+  Les compliments *exagérés* sonnent souvent faux.
+  *Übertriebene* Komplimente klingen oft unecht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

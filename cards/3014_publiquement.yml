@@ -13,11 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il ne voulait pas critiquer publiquement ses supérieurs.
-  Er wollte seine Vorgesetzten nicht öffentlich kritisieren.
+  Il ne voulait pas critiquer *publiquement* ses supérieurs.
+  Er wollte seine Vorgesetzten nicht *öffentlich* kritisieren.
 
-  Il a été condamné publiquement.
-  Er wurde öffentlich verurteilt.
+  Le ministre a *publiquement* présenté ses excuses pour cette erreur.
+  Der Minister hat sich für diesen Fehler *öffentlich* entschuldigt.
+
+  Elle a exprimé *publiquement* son désaccord avec la nouvelle loi.
+  Sie hat ihre Ablehnung des neuen Gesetzes *öffentlich* zum Ausdruck gebracht.
+
+  L'entreprise a annoncé *publiquement* son intention de fermer l'usine.
+  Das Unternehmen hat seine Absicht, das Werk zu schließen, *öffentlich* bekannt gegeben.
+
+  Les manifestants ont *publiquement* dénoncé la corruption du gouvernement.
+  Die Demonstranten haben die Korruption der Regierung *öffentlich* angeprangert.
+
+  Le couple royal s'est embrassé *publiquement*, provoquant l'enthousiasme de la foule.
+  Das königliche Paar küsste sich *öffentlich*, was die Begeisterung der Menge hervorrief.
+
+  L'artiste a révélé *publiquement* son combat contre la maladie.
+  Der Künstler hat seinen Kampf gegen die Krankheit *öffentlich* enthüllt.
+
+  Le président a *publiquement* félicité l'équipe nationale pour sa victoire.
+  Der Präsident hat der Nationalmannschaft *öffentlich* zu ihrem Sieg gratuliert.
+
+  Elle refuse de parler *publiquement* de sa vie privée.
+  Sie weigert sich, *öffentlich* über ihr Privatleben zu sprechen.
+
+  L'association a *publiquement* remercié ses donateurs lors de la cérémonie.
+  Der Verein hat seinen Spendern bei der Zeremonie *öffentlich* gedankt.
+
+  Le scientifique a *publiquement* défendu sa théorie controversée.
+  Der Wissenschaftler hat seine umstrittene Theorie *öffentlich* verteidigt.
+
+  Les politiciens ont débattu *publiquement* des enjeux économiques.
+  Die Politiker haben *öffentlich* über wirtschaftliche Fragen debattiert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

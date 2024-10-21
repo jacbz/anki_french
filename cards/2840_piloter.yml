@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Et qui pilotera l’avion?
-  Und wer wird das Flugzeug fliegen?
+  Et qui *pilotera* l'avion ?
+  Und wer wird das Flugzeug *fliegen*?
 
-  Je vais piloter l’avion.
-  Ich werde das Flugzeug steuern.
+  Le capitaine expérimenté *pilote* habilement le navire à travers les eaux dangereuses.
+  Der erfahrene Kapitän *lotst* das Schiff geschickt durch die gefährlichen Gewässer.
 
-  Ce jouet est piloté par la souris, ce qui permet aux enfants de l'utiliser facilement.
-  Dieses Spielzeug ist mausgesteuert, sodass Kinder es leicht bedienen können.
+  Elle a appris à *piloter* une voiture de course sur circuit fermé.
+  Sie hat gelernt, ein Rennauto auf einer geschlossenen Strecke zu *steuern*.
 
-  Ce robot est piloté par microprocesseur intégré, ce qui lui permet d'exécuter des tâches complexes.
-  Dieser Roboter ist mit integrierter Mikroprozessorsteuerung ausgestattet, wodurch er komplexe Aufgaben ausführen kann.
+  Le guide touristique *pilote* le groupe à travers les rues animées de la vieille ville.
+  Der Fremdenführer *leitet* die Gruppe durch die belebten Straßen der Altstadt.
+
+  Le programme est entièrement *piloté* par la souris pour une utilisation intuitive.
+  Das Programm wird vollständig mit der Maus *gesteuert*, um eine intuitive Bedienung zu ermöglichen.
+
+  Cette nouvelle imprimante 3D est *pilotée* par un microprocesseur intégré de dernière génération.
+  Dieser neue 3D-Drucker wird von einem integrierten Mikroprozessor der neuesten Generation *gesteuert*.
+
+  J'ai toujours rêvé de *piloter* un planeur et de voler silencieusement dans les airs.
+  Ich habe immer davon geträumt, einen Segelflieger zu *fliegen* und lautlos durch die Lüfte zu gleiten.
+
+  Le champion de Formule 1 *pilote* sa monoplace avec une précision remarquable.
+  Der Formel-1-Champion *steuert* seinen Rennwagen mit bemerkenswerter Präzision.
+
+  Pour construire sur ce terrain marécageux, il faut d'abord le *piloter*.
+  Um auf diesem sumpfigen Gelände zu bauen, muss man es zunächst mit Pfählen *versehen*.
+
+  Avant de bâtir à Venise, il a fallu *piloter* pour créer une base solide.
+  Bevor man in Venedig bauen konnte, musste man *Pfähle einrammen*, um eine solide Grundlage zu schaffen.
+
+  Les ingénieurs ont décidé de *piloter* la jetée pour la rendre plus résistante aux vagues.
+  Die Ingenieure beschlossen, den Wellenbrecher zu *unterpfählen*, um ihn widerstandsfähiger gegen die Wellen zu machen.
+
+  Le pilote doit *piloter* aux instruments lorsque la visibilité est réduite.
+  Der Pilot muss nach Instrumenten *fliegen*, wenn die Sicht eingeschränkt ist.
+
+  "Je vais te *piloter* dans ce labyrinthe de rues, ne t'inquiète pas !"
+  "Ich werde dich durch dieses Labyrinth von Straßen *führen*, keine Sorge!"
+
+  Le directeur de projet *pilote* la rénovation du quartier historique.
+  Der Projektleiter *leitet* die Renovierung des historischen Viertels.
+
+  Cette chaîne de montage robotisée est entièrement *pilotée* par ordinateur.
+  Diese robotisierte Montagelinie wird vollständig vom Computer *gesteuert*.
+
+  Les astronautes s'entraînent à *piloter* la navette spatiale dans un simulateur sophistiqué.
+  Die Astronauten trainieren, das Raumschiff in einem hochentwickelten Simulator zu *steuern*.
+
+  Le champion de rallye doit *piloter* son véhicule sur des terrains variés et difficiles.
+  Der Rallye-Champion muss sein Fahrzeug über verschiedene und schwierige Terrains *lenken*.
+
+  "Sans une stratégie claire, nous *pilotons* à vue dans ce projet complexe."
+  "Ohne eine klare Strategie *steuern* wir in diesem komplexen Projekt auf Sicht."
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

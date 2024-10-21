@@ -13,35 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis très heureux que vous deveniez ma voisine.
-  Ich freue mich sehr, dass Sie meine Nachbarin werden.
+  Je suis très heureux que vous *deveniez* ma voisine.
+  Ich freue mich sehr, dass Sie meine Nachbarin *werden*.
 
-  Il veut devenir médecin.
-  Er möchte Arzt werden.
+  Les fruits mûrs *deviennent* rouges en été.
+  Die reifen Früchte *werden* im Sommer rot.
 
-  Il a toujours rêvé de devenir riche et indépendant.
-  Er hat immer davon geträumt, reich und unabhängig zu werden.
+  "Que *deviens*-tu ces derniers temps?"
+  "Was *treibst* du denn so in letzter Zeit?"
 
-  Marie a décidé de devenir ingénieure, car elle a toujours aimé les sciences.
-  Marie hat sich entschieden, Ingenieurin zu werden, da sie schon immer die Wissenschaften mochte.
+  La situation *devient* de plus en plus difficile.
+  Die Situation *wird* immer schwieriger.
 
-  Il devient une star du cinéma, grâce à son talent et à son charisme.
-  Aus ihm wird ein Star im Kino, dank seines Talents und seines Charismas.
+  Qu'est *devenu* mon téléphone portable? Je ne le trouve plus.
+  Wo ist mein Handy bloß hin*gekommen*?
 
-  Le fait de manger des fruits et des légumes tous les jours est devenu une habitude pour moi.
-  Das tägliche Essen von Obst und Gemüse ist bei mir zu einer Gewohnheit geworden.
+  Cette petite ville *est devenue* une grande métropole.
+  Aus dieser kleinen Stadt ist eine große Metropole *geworden*.
 
-  Qu'allons-nous devenir, si nous ne trouvons pas un emploi rapidement ?
-  Was soll bloß aus uns werden, wenn wir nicht schnell einen Job finden?
+  Mon fils veut *devenir* médecin plus tard.
+  Mein Sohn will später Arzt *werden*.
 
-  Que deviennent tes projets de voyage en Asie ?
-  Was wird aus deinen Reiseplänen nach Asien?
+  Nous sommes *devenus* de très bons amis.
+  Wir sind sehr gute Freunde *geworden*.
 
-  Qu'est-ce que tu deviens, depuis que tu as déménagé à la campagne ?
-  Was treibst du denn so, seit du aufs Land gezogen bist?
+  Le rêve *est devenu* réalité.
+  Der Traum ist Wirklichkeit *geworden*.
 
-  La ville est devenue une métropole animée, avec de nombreux gratte-ciels et des millions d'habitants.
-  Aus der Stadt ist eine geschäftige Metropole geworden, mit vielen Hochhäusern und Millionen Einwohnern.
+  Il *est devenu* fou après l'accident.
+  Er ist nach dem Unfall verrückt *geworden*.
+
+  Que vont *devenir* nos projets?
+  Was wird aus unseren Plänen *werden*?
+
+  Marie *deviendra* une grande star un jour.
+  Aus Marie wird eines Tages ein großer Star *werden*.
+
+  Cette expression *est devenue* à la mode après la guerre.
+  Dieser Ausdruck ist nach dem Krieg in Mode *gekommen*.
+
+  Il *est devenu* contremaître après dix ans d'expérience.
+  Er ist nach zehn Jahren Erfahrung Vorarbeiter *geworden*.
+
+  La chenille *deviendra* un magnifique papillon.
+  Die Raupe wird ein wunderschöner Schmetterling *werden*.
+
+  Qu'allons-nous *devenir* sans argent?
+  Was soll bloß aus uns *werden* ohne Geld?
+
+  Je ne sais pas ce que je vais *devenir*.
+  Ich weiß nicht, was aus mir *werden* soll.
+
+  Cette habitude *est devenue* insupportable.
+  Diese Angewohnheit ist unerträglich *geworden*.
+
+  Sophie *est devenue* membre de notre association.
+  Sophie ist Mitglied unseres Vereins *geworden*.
+
+  Je me demande ce que sont *devenus* mes amis d'enfance.
+  Ich frage mich, was aus meinen Kindheitsfreunden *geworden* ist.
+
+  La mer *devient* plus calme ce soir.
+  Das Meer *wird* heute Abend ruhiger.
+
+  Il *devient* difficile de trouver un appartement dans cette ville.
+  Es *wird* schwierig, eine Wohnung in dieser Stadt zu finden.
+
+  Que voulez-vous *devenir* plus tard?
+  Was wollen Sie später einmal *werden*?
+
+  Son absence *est devenue* une habitude.
+  Seine Abwesenheit ist zur Gewohnheit *geworden*.
+
+  Pierre *est devenu* célèbre du jour au lendemain.
+  Pierre ist über Nacht berühmt *geworden*.
+
+  Ma sœur *deviendra* ingénieure l'année prochaine.
+  Meine Schwester wird nächstes Jahr Ingenieurin *werden*.
+
+  Cette propriété *est devenue* l'objet de toutes les convoitises.
+  Dieses Anwesen ist zum Objekt aller Begehrlichkeiten *geworden*.
+
+  De pauvre qu'il était, il *est devenu* millionnaire.
+  Aus dem armen Mann, der er war, ist ein Millionär *geworden*.
+
+  Où étais-tu? Qu'étais-tu *devenu*?
+  Wo warst du? Wo bist du *geblieben*?
+
+  Cette entreprise est encore *en devenir*.
+  Dieses Unternehmen ist noch in der *Entstehung*.
+
+  Le projet *devient* de plus en plus concret.
+  Das Projekt *nimmt* immer konkretere Formen *an*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

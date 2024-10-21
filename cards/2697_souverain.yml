@@ -13,14 +13,107 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce sera le 66e séjour du souverain pontife à l’étranger.
-  Es wird der 66. Auslandsaufenthalt des Pontifex sein.
+  Ce sera le 66e séjour du *souverain* pontife à l'étranger.
+  Dies wird der 66. Auslandsaufenthalt des *Ober*hauptes der katholischen Kirche sein.
 
-  Le souverain a décidé de déclarer la guerre.
-  Der Herrscher hat beschlossen, Krieg zu erklären.
+  Le peuple *souverain* a le droit de choisir ses représentants.
+  Das *souveräne* Volk hat das Recht, seine Vertreter zu wählen.
 
-  Le pays est souverain et peut prendre ses propres décisions sans ingérence étrangère.
-  Das Land ist unabhängig und kann seine eigenen Entscheidungen treffen, ohne Einmischung von außen.
+  La décision *souveraine* du tribunal ne peut être contestée.
+  Die *souveräne* Entscheidung des Gerichts kann nicht angefochten werden.
+
+  Le parlement a pris une décision *souveraine* concernant cette loi.
+  Das Parlament hat eine *souveräne* Entscheidung bezüglich dieses Gesetzes getroffen.
+
+  La *souveraine* a signé le traité de paix hier soir.
+  Die *Herrscherin* hat gestern Abend den Friedensvertrag unterzeichnet.
+
+  L'assemblée nationale est *souveraine* dans ses délibérations.
+  Die Nationalversammlung ist in ihren Beratungen *souverän*.
+
+  Le *souverain* a abdiqué en faveur de son fils aîné.
+  Der *Herrscher* hat zugunsten seines ältesten Sohnes abgedankt.
+
+  Cette nation a préservé son statut d'État *souverain*.
+  Diese Nation hat ihren Status als *souveräner* Staat bewahrt.
+
+  Le juge a exercé son pouvoir *souverain* d'appréciation.
+  Der Richter hat sein *uneingeschränktes* Ermessen ausgeübt.
+
+  La cour suprême est *souveraine* dans ses jugements.
+  Der Oberste Gerichtshof ist in seinen Urteilen *unabhängig*.
+
+  Le mépris *souverain* qu'il affichait envers ses adversaires était palpable.
+  Die *völlige* Verachtung, die er gegenüber seinen Gegnern zeigte, war spürbar.
+
+  Ce remède est considéré comme *souverain* contre le mal de tête.
+  Dieses Heilmittel gilt als *unübertroffen* gegen Kopfschmerzen.
+
+  La *souveraine* a prononcé un discours émouvant lors de la cérémonie.
+  Die *Herrscherin* hielt bei der Zeremonie eine bewegende Rede.
+
+  L'indifférence *souveraine* du chat face à nos appels était frustrante.
+  Die *völlige* Gleichgültigkeit der Katze gegenüber unseren Rufen war frustrierend.
+
+  Le bonheur *souverain* qu'il ressentait était visible sur son visage.
+  Das *höchste* Glück, das er empfand, war auf seinem Gesicht sichtbar.
+
+  La volonté *souveraine* du peuple s'est exprimée dans les urnes.
+  Der *souveräne* Wille des Volkes hat sich an den Wahlurnen ausgedrückt.
+
+  Cette décision relève du pouvoir *souverain* de l'État.
+  Diese Entscheidung fällt unter die *höchste* Gewalt des Staates.
+
+  Le *souverain* britannique a un rôle principalement cérémoniel.
+  Der britische *Monarch* hat eine hauptsächlich zeremonielle Rolle.
+
+  L'habileté *souveraine* du chirurgien a sauvé la vie du patient.
+  Die *überragende* Geschicklichkeit des Chirurgen hat das Leben des Patienten gerettet.
+
+  La Constitution garantit les droits *souverains* de la nation.
+  Die Verfassung garantiert die *souveränen* Rechte der Nation.
+
+  Le *souverain* bien, selon Aristote, est le bonheur.
+  Das *höchste* Gut ist nach Aristoteles das Glück.
+
+  Les citoyens suisses forment le *souverain* helvétique.
+  Die Schweizer Bürger bilden den helvetischen *Souverän*.
+
+  La reine exerçait un pouvoir *souverain* sur son royaume.
+  Die Königin übte eine *uneingeschränkte* Macht über ihr Königreich aus.
+
+  L'amour *souverain* qu'elle portait à ses enfants guidait toutes ses actions.
+  Die *höchste* Liebe, die sie für ihre Kinder empfand, leitete all ihre Handlungen.
+
+  Le *souverain* pontife a appelé à la paix mondiale.
+  Das *Oberhaupt* der katholischen Kirche hat zum Weltfrieden aufgerufen.
+
+  Cette loi a été adoptée par la volonté *souveraine* du parlement.
+  Dieses Gesetz wurde durch den *souveränen* Willen des Parlaments verabschiedet.
+
+  Le *souverain* a accordé sa grâce au condamné.
+  Der *Herrscher* hat dem Verurteilten Gnade gewährt.
+
+  La beauté *souveraine* du paysage nous a laissés sans voix.
+  Die *überragende* Schönheit der Landschaft hat uns sprachlos gemacht.
+
+  Le peuple est *souverain* dans une démocratie directe.
+  Das Volk ist in einer direkten Demokratie *souverän*.
+
+  La cour *souveraine* a rendu son verdict final.
+  Das *höchste* Gericht hat sein endgültiges Urteil gefällt.
+
+  Le *souverain* a présidé la cérémonie d'ouverture des Jeux olympiques.
+  Der *Monarch* hat die Eröffnungszeremonie der Olympischen Spiele geleitet.
+
+  Cette nation revendique sa *souveraine* indépendance.
+  Diese Nation beansprucht ihre *souveräne* Unabhängigkeit.
+
+  L'assemblée générale est l'organe *souverain* de l'association.
+  Die Generalversammlung ist das *oberste* Organ des Vereins.
+
+  Le *souverain* mépris qu'il affichait pour les règles était choquant.
+  Die *äußerste* Verachtung, die er für die Regeln zeigte, war schockierend.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

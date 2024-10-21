@@ -13,20 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai été très heureux d’apprendre votre nomination.
-  Ich habe mich sehr gefreut, als ich von Ihrer Ernennung erfahren habe.
+  J'ai été très heureux d'apprendre votre *nomination*.
+  Ich habe mich sehr gefreut, von Ihrer *Ernennung* zu erfahren.
 
-  Sa nomination au poste de directeur a été confirmée.
-  Seine Ernennung zum Direktorposten wurde bestätigt.
+  La *nomination* du nouveau directeur a été annoncée ce matin.
+  Die *Ernennung* des neuen Direktors wurde heute Morgen bekannt gegeben.
 
-  Jean a reçu la nomination à un poste de directeur, après des années de travail acharné.
-  Jean wurde zum Direktor ernannt, nachdem er jahrelang hart gearbeitet hatte.
+  Sa *nomination* comme professeur titulaire a été une grande réussite dans sa carrière.
+  Seine *Einstellung* als ordentlicher Professor war ein großer Erfolg in seiner Karriere.
 
-  Marie a reçu une nomination à un poste de professeur à l'université.
-  Marie wurde als Lehrerin an der Universität eingestellt.
+  Le ministre a signé l'acte de *nomination* du nouvel ambassadeur.
+  Der Minister hat die *Ernennungsurkunde* des neuen Botschafters unterzeichnet.
 
-  Le ministre a fait une nomination officielle comme expert pour la commission d'enquête.
-  Der Minister hat den Experten öffentlich zum Gutachter für die Untersuchungskommission bestellt.
+  Le film a reçu plusieurs *nominations* aux Oscars cette année.
+  Der Film erhielt dieses Jahr mehrere Oscar-*Nominierungen*.
+
+  La *nomination* officielle de l'expert judiciaire aura lieu la semaine prochaine.
+  Die offizielle *Bestellung* des Gerichtssachverständigen findet nächste Woche statt.
+
+  Le conseil d'administration doit approuver la *nomination* du nouveau PDG.
+  Der Vorstand muss die *Ernennung* des neuen Geschäftsführers genehmigen.
+
+  Cette *nomination* surprise a provoqué de vives réactions dans le monde politique.
+  Diese überraschende *Ernennung* hat in der politischen Welt heftige Reaktionen ausgelöst.
+
+  La cérémonie de *nomination* des chevaliers de la Légion d'honneur aura lieu au palais de l'Élysée.
+  Die *Ernennungszeremonie* der Ritter der Ehrenlegion wird im Élysée-Palast stattfinden.
+
+  Les employés ont accueilli avec enthousiasme la *nomination* de leur collègue au poste de chef de service.
+  Die Mitarbeiter begrüßten die *Ernennung* ihres Kollegen zum Abteilungsleiter mit Begeisterung.
+
+  Le président a le pouvoir de *nomination* pour de nombreux postes gouvernementaux.
+  Der Präsident hat die *Ernennungsbefugnis* für viele Regierungsposten.
+
+  La *nomination* de cet artiste au jury du festival a fait polémique dans les médias.
+  Die *Berufung* dieses Künstlers in die Festivaljury sorgte in den Medien für Kontroversen.
+
+  Après sa *nomination*, il a dû déménager dans une autre ville pour prendre ses nouvelles fonctions.
+  Nach seiner *Ernennung* musste er in eine andere Stadt umziehen, um seine neue Position anzutreten.
+
+  La *nomination* de cette femme au poste de ministre marque une avancée pour l'égalité des sexes.
+  Die *Ernennung* dieser Frau zur Ministerin ist ein Fortschritt für die Gleichstellung der Geschlechter.
+
+  Le comité de sélection a procédé à la *nomination* des finalistes du concours littéraire.
+  Das Auswahlkomitee hat die *Nominierung* der Finalisten des Literaturwettbewerbs vorgenommen.
+
+  Sa *nomination* au Conseil d'État a été saluée par ses pairs comme une reconnaissance de son expertise juridique.
+  Seine *Ernennung* in den Staatsrat wurde von seinen Kollegen als Anerkennung seiner juristischen Expertise begrüßt.
+
+  L'entreprise a publié un communiqué de presse annonçant la *nomination* du nouveau directeur financier.
+  Das Unternehmen veröffentlichte eine Pressemitteilung, in der die *Ernennung* des neuen Finanzchefs bekannt gegeben wurde.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous proposons de réduire considérablement les impôts.
-  Wir schlagen vor, die Steuern deutlich zu senken.
+  Nous proposons de réduire *considérablement* les impôts.
+  Wir schlagen vor, die Steuern *erheblich* zu senken.
 
-  Le prix a augmenté considérablement.
-  Der Preis ist beträchtlich gestiegen.
+  Le nombre de participants à l'événement a *considérablement* augmenté cette année.
+  Die Zahl der Teilnehmer an der Veranstaltung ist dieses Jahr *beträchtlich* gestiegen.
+
+  Son état de santé s'est *considérablement* amélioré après le traitement.
+  Sein Gesundheitszustand hat sich nach der Behandlung *beachtlich* verbessert.
+
+  La situation économique du pays a *considérablement* changé au cours des dernières années.
+  Die wirtschaftliche Situation des Landes hat sich in den letzten Jahren *grundlegend* verändert.
+
+  Elle a *considérablement* travaillé pour obtenir son diplôme.
+  Sie hat *viel* gearbeitet, um ihren Abschluss zu bekommen.
+
+  Les nouvelles technologies ont *considérablement* modifié notre façon de communiquer.
+  Neue Technologien haben unsere Art zu kommunizieren *erheblich* verändert.
+
+  Le niveau de la mer a *considérablement* augmenté en raison du changement climatique.
+  Der Meeresspiegel ist aufgrund des Klimawandels *beträchtlich* gestiegen.
+
+  Cette décision a *considérablement* nui à sa réputation.
+  Diese Entscheidung hat seinem Ruf *erheblich* geschadet.
+
+  Les prix des logements ont *considérablement* augmenté dans les grandes villes.
+  Die Wohnungspreise sind in den Großstädten *beachtlich* gestiegen.
+
+  Le temps de trajet a été *considérablement* réduit grâce au nouveau pont.
+  Die Fahrtzeit wurde dank der neuen Brücke *erheblich* verkürzt.
+
+  Son style de vie a *considérablement* évolué depuis qu'il a déménagé à l'étranger.
+  Sein Lebensstil hat sich *grundlegend* verändert, seit er ins Ausland gezogen ist.
+
+  La qualité de l'air s'est *considérablement* améliorée grâce aux nouvelles réglementations.
+  Die Luftqualität hat sich dank der neuen Vorschriften *beträchtlich* verbessert.
+
+  Il a *considérablement* investi dans sa formation professionnelle.
+  Er hat *viel* in seine berufliche Weiterbildung investiert.
+
+  Les ventes de l'entreprise ont *considérablement* augmenté au quatrième trimestre.
+  Die Verkäufe des Unternehmens sind im vierten Quartal *beachtlich* gestiegen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

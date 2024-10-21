@@ -7,7 +7,7 @@ Wortart: vt, vr
 Wort mit Artikel: vouer
 Femininum / Plural: ''
 IPA: \vwe\
-Definition: widmen, weihen
+Definition: widmen, verschreiben
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -93,4 +93,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>consacrer</i> und <i>vouer</i></div>
+    <div class="section-content">
+      <p><span class="fr">Consacrer</span> (#750) bedeutet <span class="de">"widmen"</span> oder <span class="de">"weihen"</span>. Es impliziert oft eine feierliche oder offizielle Zuweisung von Zeit, Energie oder Ressourcen für einen bestimmten Zweck.</p>
+      <div class="examples">
+        <div class="fr">Il a consacré sa vie à la recherche scientifique.</div>
+        <div class="de spoiler">Er hat sein Leben der wissenschaftlichen Forschung gewidmet.</div>
+        <div class="fr">Cette église a été consacrée au 12ème siècle.</div>
+        <div class="de spoiler">Diese Kirche wurde im 12. Jahrhundert geweiht.</div>
+      </div>
+
+      <p><span class="fr">Vouer</span> (#2950) bedeutet <span class="de">"widmen"</span> oder <span class="de">"verschreiben"</span> im Sinne einer starken, oft emotionalen oder spirituellen Hingabe.</p>
+      <div class="examples">
+        <div class="fr">Elle s'est vouée à aider les plus démunis.</div>
+        <div class="de spoiler">Sie hat sich der Hilfe für die Bedürftigsten verschrieben.</div>
+        <div class="fr">Il voue un culte à cet artiste.</div>
+        <div class="de spoiler">Er verehrt diesen Künstler geradezu.</div>
+      </div>
+    </div>
+  </div>

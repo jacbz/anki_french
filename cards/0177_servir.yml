@@ -13,41 +13,179 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il m’a servi une coupe de champagne.
-  Er schenkte mir ein Glas Champagner ein.
+  Il m'a *servi* une coupe de champagne.
+  Er hat mir ein Glas Champagner *serviert*.
 
-  Je vais servir le repas.
-  Ich werde das Essen servieren.
+  Le maître d'hôtel *sert* le repas avec élégance.
+  Der Oberkellner *serviert* die Mahlzeit elegant.
 
-  Le serveur a servi un plat de pâtes à Marie.
-  Der Kellner hat Marie ein Gericht mit Nudeln serviert.
+  Cette clé *sert* à ouvrir la porte d'entrée.
+  Dieser Schlüssel *dient* dazu, die Haustür zu öffnen.
 
-  Ce tournevis peut servir à Jean à la réparation de sa voiture.
-  Dieser Schraubendreher kann Jean bei der Reparatur seines Autos helfen.
+  Nous *servons* notre pays avec fierté.
+  Wir *dienen* unserem Land mit Stolz.
 
-  Pierre s'est servi d'un couteau pour couper le pain.
-  Pierre hat ein Messer benutzt, um das Brot zu schneiden.
+  Ce couteau ne *sert* à rien, il est complètement émoussé.
+  Dieses Messer *taugt* nichts, es ist völlig stumpf.
 
-  On vous sert, Madame, ou souhaitez-vous encore quelque chose ?
-  Werden Sie schon bedient, Madame, oder wünschen Sie noch etwas?
+  Il faut *servir* la soupe bien chaude.
+  Die Suppe muss schön heiß *serviert* werden.
 
-  Jean a servi de guide à ses amis lors de leur voyage à Paris.
-  Jean hat seine Freunde bei ihrem Paris-Trip als Fremdenführer begleitet.
+  Cette expérience lui *servira* de leçon.
+  Diese Erfahrung wird ihm als *Lehre dienen*.
 
-  Ce vélo ne peut plus servir, il est trop vieux.
-  Dieses Rad ist nicht mehr zu gebrauchen, es ist zu alt.
+  Je me *sers* de cet outil tous les jours.
+  Ich *benutze* dieses Werkzeug jeden Tag.
 
-  Marie s'est servie au marché pour acheter des fruits frais.
-  Marie hat auf dem Markt eingekauft, um frisches Obst zu kaufen.
+  Le garçon nous a bien *servis* ce soir.
+  Der Kellner hat uns heute Abend gut *bedient*.
 
-  Ce vin se sert frais, il est donc important de le laisser refroidir au préalable.
-  Dieser Wein wird kühl serviert, daher ist es wichtig, ihn vorher abkühlen zu lassen.
+  Cette loi *sert* à protéger les consommateurs.
+  Dieses Gesetz *dient* dem Schutz der Verbraucher.
 
-  Sophie a servi à boire à ses invités avant le dîner.
-  Sophie hat ihren Gästen etwas zu trinken gebracht, bevor sie zu Abend aßen.
+  *Servez*-vous, le buffet est ouvert!
+  *Bedienen* Sie sich, das Buffet ist eröffnet!
 
-  On lui sert le petit-déjeuner au lit tous les matins, car elle a du mal à se lever.
-  Das Frühstück wird ihr jeden Morgen ans Bett gebracht, weil sie Schwierigkeiten hat aufzustehen.
+  Ce vieux vélo peut encore *servir*.
+  Dieses alte Fahrrad kann noch *gebraucht werden*.
+
+  Il *sert* la messe tous les dimanches.
+  Er *ministriert* jeden Sonntag bei der Messe.
+
+  Cette banque *sert* des intérêts élevés.
+  Diese Bank *zahlt* hohe Zinsen *aus*.
+
+  L'armée *sert* à défendre le territoire national.
+  Die Armee *dient* der Verteidigung des nationalen Territoriums.
+
+  Cet argument *sert* sa cause.
+  Dieses Argument *kommt* seiner Sache *zustatten*.
+
+  Je me *sers* toujours chez le même boulanger.
+  Ich *kaufe* immer beim gleichen Bäcker *ein*.
+
+  Cette explication ne *sert* à rien.
+  Diese Erklärung *bringt* nichts.
+
+  Il *sert* de guide aux touristes.
+  Er *fungiert* als Fremdenführer für die Touristen.
+
+  Ce vin se *sert* frais.
+  Dieser Wein wird kühl *serviert*.
+
+  "*Servez*-vous mieux!", dit la grand-mère à ses petits-enfants.
+  "*Nehmt* euch doch noch etwas!", sagt die Großmutter zu ihren Enkeln.
+
+  Cette pièce *sert* de bureau et de chambre d'amis.
+  Dieses Zimmer *dient* als Arbeitszimmer und Gästezimmer.
+
+  Il s'est *servi* de son influence pour obtenir le poste.
+  Er hat seinen Einfluss *genutzt*, um die Stelle zu bekommen.
+
+  Le joueur *sert* la balle avec puissance.
+  Der Spieler *schlägt* den Ball kraftvoll *auf*.
+
+  Cette histoire ne *sert* qu'à nous faire peur.
+  Diese Geschichte *dient* nur dazu, uns Angst zu machen.
+
+  Je vais *servir* le dîner dans dix minutes.
+  Ich werde das Abendessen in zehn Minuten *servieren*.
+
+  Cet outil *sert* à la réparation des montres.
+  Dieses Werkzeug *dient* zur Reparatur von Uhren.
+
+  Il *sert* fidèlement son entreprise depuis vingt ans.
+  Er *dient* seinem Unternehmen seit zwanzig Jahren treu.
+
+  Cette plante *sert* de remède naturel contre le rhume.
+  Diese Pflanze *dient* als natürliches Heilmittel gegen Erkältungen.
+
+  "Pour vous *servir*, Madame", dit le vendeur avec courtoisie.
+  "Zu Ihren *Diensten*, gnädige Frau", sagt der Verkäufer höflich.
+
+  Il s'est *servi* dans la caisse de l'entreprise.
+  Er hat sich an der Firmenkasse *bedient*.
+
+  Cette cravate *servira* pour l'entretien d'embauche.
+  Diese Krawatte wird für das Vorstellungsgespräch *dienen*.
+
+  Le sommelier *sert* le vin avec précaution.
+  Der Sommelier *serviert* den Wein vorsichtig.
+
+  Ce dictionnaire me *sert* tous les jours.
+  Dieses Wörterbuch *leistet* mir jeden Tag gute *Dienste*.
+
+  Il *sert* son pays dans la marine.
+  Er *dient* seinem Land in der Marine.
+
+  Cette brosse *sert* à nettoyer les chaussures.
+  Diese Bürste *dient* zum Reinigen der Schuhe.
+
+  Je me *sers* de mes connaissances en informatique dans mon travail.
+  Ich *nutze* meine Computerkenntnisse bei meiner Arbeit.
+
+  Le serveur *sert* les clients avec le sourire.
+  Der Kellner *bedient* die Kunden mit einem Lächeln.
+
+  Cette loi *sert* les intérêts des plus riches.
+  Dieses Gesetz *dient* den Interessen der Reichsten.
+
+  Il faut *servir* la patrie avec dévouement.
+  Man muss dem Vaterland mit Hingabe *dienen*.
+
+  Ce meuble *sert* de rangement pour les livres.
+  Dieses Möbelstück *dient* als Aufbewahrungsort für Bücher.
+
+  Elle s'est *servie* de son charme pour obtenir ce qu'elle voulait.
+  Sie hat ihren Charme *eingesetzt*, um zu bekommen, was sie wollte.
+
+  Le café se *sert* généralement après le repas.
+  Der Kaffee wird normalerweise nach der Mahlzeit *serviert*.
+
+  Cet appareil *sert* à mesurer la pression artérielle.
+  Dieses Gerät *dient* zur Messung des Blutdrucks.
+
+  "À quoi *sert* cette machine ?", demanda l'étudiant curieux.
+  "Wozu *dient* diese Maschine?", fragte der neugierige Student.
+
+  Il *sert* la soupe aux sans-abri tous les soirs.
+  Er *gibt* jeden Abend Suppe an Obdachlose *aus*.
+
+  Cette échelle *sert* à atteindre les étagères les plus hautes.
+  Diese Leiter *dient* dazu, die höchsten Regale zu erreichen.
+
+  Le petit garçon *sert* de guide à son grand-père aveugle.
+  Der kleine Junge *dient* seinem blinden Großvater als Führer.
+
+  Cette expérience lui *servira* dans sa future carrière.
+  Diese Erfahrung wird ihm in seiner zukünftigen Karriere *nützlich sein*.
+
+  Il s'est *servi* de son téléphone pour appeler les secours.
+  Er hat sein Telefon *benutzt*, um Hilfe zu rufen.
+
+  Le restaurant *sert* des plats traditionnels de la région.
+  Das Restaurant *serviert* traditionelle Gerichte der Region.
+
+  Cette bague *servait* de sceau à mon arrière-grand-père.
+  Dieser Ring *diente* meinem Urgroßvater als Siegel.
+
+  Je me *sers* de cette application pour gérer mon emploi du temps.
+  Ich *benutze* diese App, um meinen Zeitplan zu verwalten.
+
+  Le majordome *sert* le thé à quatre heures précises.
+  Der Butler *serviert* den Tee um Punkt vier Uhr.
+
+  Cet argent *servira* à financer nos projets futurs.
+  Dieses Geld wird dazu *dienen*, unsere zukünftigen Projekte zu finanzieren.
+
+  Il *sert* de médiateur dans les conflits familiaux.
+  Er *fungiert* als Vermittler bei Familienkonflikten.
+
+  Cette association *sert* les intérêts des personnes âgées.
+  Dieser Verein *dient* den Interessen älterer Menschen.
+
+  Le cuisinier *sert* les plats avec une présentation soignée.
+  Der Koch *serviert* die Gerichte mit einer sorgfältigen Präsentation.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

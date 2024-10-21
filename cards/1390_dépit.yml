@@ -13,41 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai ressenti un soulagement mêlé de dépit.
-  Ich spürte eine Mischung aus Erleichterung und Ärger.
+  J'ai ressenti un soulagement mêlé de *dépit*.
+  Ich habe eine Erleichterung mit einem Hauch von *Ärger* verspürt.
 
-  Il a quitté la pièce en dépit.
-  Er hat den Raum verlassen, voller Ärger.
+  Le *dépit* amoureux est un thème récurrent dans la littérature classique.
+  Die *enttäuschte Liebe* ist ein wiederkehrendes Thema in der klassischen Literatur.
 
-  La rupture avec Pierre a été un dépit amoureux pour Marie.
-  Die Trennung von Pierre war eine enttäuschte Liebe für Marie.
+  Par *dépit*, elle a refusé son invitation au bal.
+  Aus *Trotz* hat sie seine Einladung zum Ball abgelehnt.
 
-  En dépit de ses efforts, elle n'a pas réussi à obtenir le poste.
-  Einer S. zum Trotz, nämlich trotz ihrer Bemühungen, hat sie die Stelle nicht bekommen.
+  Il éprouvait un profond *dépit* après avoir perdu la compétition.
+  Er war nach dem Verlust des Wettbewerbs zutiefst *gekränkt*.
 
-  Il a éprouvé du dépit en apprenant que son ami avait obtenu une promotion.
-  Er war tief gekränkt, als er hörte, dass sein Freund eine Beförderung erhalten hatte.
+  "Je crève de *dépit* en voyant son succès !", s'exclama-t-il avec amertume.
+  "Ich *erblasse vor Neid*, wenn ich seinen Erfolg sehe!", rief er verbittert aus.
 
-  Il a crevé de dépit en voyant son rival réussir.
-  Er ist vor Neid erblassen, als er sah, wie sein Rivale erfolgreich war.
+  Malgré son *dépit*, elle a réussi à ravaler sa fierté et à le féliciter.
+  Trotz ihres *Ärgers* gelang es ihr, ihren Stolz *herunterzuschlucken* und ihm zu gratulieren.
 
-  Il a ravalé son dépit et a essayé de rester calme.
-  Er hat seinen Ärger herunterschluckt und versucht ruhig zu bleiben.
+  Son comportement arrogant a causé beaucoup de *dépit* à ses collègues.
+  Sein arrogantes Verhalten hat seinen Kollegen viel *Ärger* bereitet.
 
-  Ses paroles ont causé du dépit à son ami, qui s'est senti offensé.
-  Seine Worte haben seinem Freund Ärger bereitet, der sich gekränkt fühlte.
+  La réussite inattendue de son rival lui a causé un grand *dépit*.
+  Der unerwartete Erfolg seines Rivalen hat ihm großen *Ärger* bereitet.
 
-  En dépit de tout et de tous, elle a continué à lutter pour ses droits.
-  Allem und jedem zum Trotz kämpfte sie weiter für ihre Rechte.
+  Elle a fait ce choix par *dépit*, pas par conviction.
+  Sie hat diese Wahl aus *Trotz* getroffen, nicht aus Überzeugung.
 
-  En dépit de la pluie, ils sont allés se promener dans le parc.
-  Trotz des Regens sind sie im Park spazieren gegangen.
+  Les larmes de *dépit* coulaient sur ses joues après l'humiliation publique.
+  Die Tränen des *Ärgers* liefen ihm nach der öffentlichen Demütigung über die Wangen.
 
-  En dépit de sa jeunesse, il a déjà beaucoup d'expérience.
-  Trotz seiner Jugend hat er bereits viel Erfahrung.
+  En *dépit* de ses efforts, il n'a pas réussi à obtenir le poste convoité.
+  *Trotz* seiner Bemühungen ist es ihm nicht gelungen, die begehrte Stelle zu bekommen.
 
-  En dépit de conventions passées, il a décidé de changer de stratégie.
-  Entgegen früheren Vereinbarungen beschloss er, seine Strategie zu ändern.
+  Le travail a été fait en *dépit* du bon sens, sans aucune logique apparente.
+  Die Arbeit wurde *wider* allen *Verstand* gemacht, ohne erkennbare Logik.
+
+  Elle a éprouvé un vif *dépit* en apprenant qu'elle n'avait pas été sélectionnée pour le rôle.
+  Sie empfand einen heftigen *Ärger*, als sie erfuhr, dass sie nicht für die Rolle ausgewählt worden war.
+
+  Son *dépit* était palpable lorsqu'il a vu son ex-petite amie avec un autre homme.
+  Sein *Ärger* war spürbar, als er seine Ex-Freundin mit einem anderen Mann sah.
+
+  Il n'a pas pu étouffer son *dépit* face à cette injustice flagrante.
+  Er konnte seinen *Ärger* angesichts dieser offensichtlichen Ungerechtigkeit nicht unterdrücken.
+
+  En *dépit* des apparences, sa réaction cachait un profond *dépit*.
+  *Trotz* des äußeren Anscheins verbarg seine Reaktion einen tiefen *Ärger*.
+
+  Elle a laissé éclater son *dépit* quand elle a appris la nouvelle de sa défaite.
+  Sie ließ ihrem *Ärger* freien Lauf, als sie die Nachricht von ihrer Niederlage erfuhr.
+
+  Un mouvement de *dépit* l'a poussé à claquer la porte et partir.
+  Eine Regung des *Ärgers* veranlasste ihn, die Tür zuzuschlagen und zu gehen.
+
+  *En dépit* de tous les obstacles, il a persévéré dans son projet.
+  *Trotz* aller Hindernisse hat er an seinem Projekt festgehalten.
+
+  Le *dépit* se lisait sur son visage quand il a vu les résultats du concours.
+  Der *Ärger* war ihm ins Gesicht geschrieben, als er die Ergebnisse des Wettbewerbs sah.
+
+  Son *dépit* s'est transformé en détermination pour faire mieux la prochaine fois.
+  Sein *Ärger* verwandelte sich in Entschlossenheit, es beim nächsten Mal besser zu machen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

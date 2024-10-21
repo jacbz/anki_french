@@ -13,29 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il n’y pas d’objections de votre part.
-  Es gibt keine Einwände Ihrerseits.
+  Il n'y pas d'*objections* de votre part.
+  Es gibt keine *Einwände* von Ihrer Seite.
 
-  J’ai une objection à cette proposition.
-  Ich habe einen Einwand gegen diesen Vorschlag.
+  L'avocat a soulevé une *objection* pendant le procès.
+  Der Anwalt hat während des Prozesses *Einspruch* erhoben.
 
-  Le juge a fait une objection à la procédure.
-  Der Richter hat einen Einwand gegen das Verfahren erhoben.
+  Si vous n'avez pas d'*objection*, nous commencerons la réunion maintenant.
+  Wenn Sie keine *Einwände* haben, beginnen wir jetzt mit der Besprechung.
 
-  L'avocat a soulevé une objection juridique.
-  Der Anwalt hat eine Rechtseinwendung erhoben.
+  Le professeur a réfuté toutes les *objections* des étudiants à sa théorie.
+  Der Professor hat alle *Einwände* der Studenten gegen seine Theorie widerlegt.
 
-  La défense a fait objection à la preuve présentée par l'accusation.
-  Die Verteidigung hat einen Einwand gegen den Beweis erhoben, der von der Anklage präsentiert wurde.
+  Son *objection* de conscience lui a permis d'éviter le service militaire.
+  Seine Gewissens*einwände* ermöglichten es ihm, den Militärdienst zu vermeiden.
 
-  La proposition a été accueillie avec des objections de la part de plusieurs membres du conseil d'administration.
-  Die Vorschläge stießen auf zahlreichen Widerstand von Seiten einiger Mitglieder des Verwaltungsrats.
+  "*Objection*, Votre Honneur !" s'est écrié l'avocat de la défense.
+  "*Einspruch*, Euer Ehren!" rief der Verteidiger.
 
-  Si vous n'y voyez pas d'objection, nous allons voter sur la résolution.
-  Wenn Sie keine weiteren Einwände haben, stimmen wir über den Beschluss ab.
+  Malgré de nombreuses *objections*, le projet a finalement été approuvé.
+  Trotz zahlreicher *Einwände* wurde das Projekt schließlich genehmigt.
 
-  L'accusé a soulevé une objection relative à la prescription.
-  Der Angeklagte hat eine Verjährungseinrede erhoben.
+  Je n'ai aucune *objection* à ce que vous partiez plus tôt aujourd'hui.
+  Ich habe keine *Einwände* dagegen, dass Sie heute früher gehen.
+
+  Les *objections* du comité ont été soigneusement notées et examinées.
+  Die *Einwände* des Ausschusses wurden sorgfältig notiert und geprüft.
+
+  Elle a formulé une *objection* pertinente lors du débat.
+  Sie brachte während der Debatte einen treffenden *Einwand* vor.
+
+  Avez-vous des *objections* à ce que nous modifiions le planning ?
+  Haben Sie *Einwände* dagegen, dass wir den Zeitplan ändern?
+
+  L'*objection* principale à cette loi concerne son impact environnemental.
+  Der Haupt*einwand* gegen dieses Gesetz betrifft seine Auswirkungen auf die Umwelt.
+
+  Le juge a rejeté l'*objection* de l'avocat car elle n'était pas fondée.
+  Der Richter wies den *Einspruch* des Anwalts zurück, da er unbegründet war.
+
+  Nous devons prendre en compte toutes les *objections* avant de prendre une décision.
+  Wir müssen alle *Einwände* berücksichtigen, bevor wir eine Entscheidung treffen.
+
+  Son *objection* a soulevé un point important que nous n'avions pas considéré.
+  Sein *Einwand* hat einen wichtigen Punkt aufgeworfen, den wir nicht bedacht hatten.
+
+  Les citoyens ont le droit de présenter leurs *objections* au projet de loi.
+  Die Bürger haben das Recht, ihre *Einwände* gegen den Gesetzentwurf vorzubringen.
+
+  "Je n'ai qu'une seule *objection* à faire", a-t-il dit calmement.
+  "Ich habe nur einen *Einwand* zu machen", sagte er ruhig.
+
+  Ses *objections* constantes ralentissent considérablement le processus.
+  Seine ständigen *Einwände* verlangsamen den Prozess erheblich.
+
+  L'*objection* la plus courante à cette théorie est son manque de preuves empiriques.
+  Der häufigste *Einwand* gegen diese Theorie ist ihr Mangel an empirischen Beweisen.
+
+  Si personne n'a d'*objection*, nous adopterons cette nouvelle procédure.
+  Wenn niemand *Einwände* hat, werden wir dieses neue Verfahren einführen.
+
+  Les *objections* du public ont été prises en compte dans la version finale du projet.
+  Die *Einwände* der Öffentlichkeit wurden in der Endfassung des Projekts berücksichtigt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
