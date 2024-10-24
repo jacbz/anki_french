@@ -13,29 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous ne pouvons accepter l’introduction d’amendements.
-  Wir können das Einbringen von Änderungsanträgen nicht akzeptieren.
+  Nous ne pouvons accepter l'*introduction* d'amendements.
+  Wir können das *Einbringen* von Änderungsanträgen nicht akzeptieren.
 
-  L’introduction de ce livre est très intéressante.
-  Die Einführung dieses Buches ist sehr interessant.
+  L'*introduction* d'un nouveau système informatique a facilité notre travail.
+  Die *Einführung* eines neuen Computersystems hat unsere Arbeit erleichtert.
 
-  Le chapitre d'introduction présente les principaux thèmes abordés dans le livre.
-  Das einleitende Kapitel stellt die wichtigsten Themen vor, die in dem Buch behandelt werden.
+  Ce livre propose une excellente *introduction* à la philosophie grecque.
+  Dieses Buch bietet eine ausgezeichnete *Einführung* in die griechische Philosophie.
 
-  L'introduction de la peste en Europe a eu des conséquences désastreuses.
-  Das Einschleppen der Pest nach Europa hatte verheerende Folgen.
+  Marie a écrit une brève *introduction* pour présenter son projet.
+  Marie hat eine kurze *Einleitung* geschrieben, um ihr Projekt vorzustellen.
 
-  L'introduction à une discipline est souvent un moment excitant.
-  Die Einführung in ein Fach ist oft ein spannender Moment.
+  L'*introduction* des smartphones a révolutionné notre façon de communiquer.
+  Die *Einführung* von Smartphones hat unsere Art zu kommunizieren revolutioniert.
 
-  L'introduction d'un recours est un moyen de contester une décision.
-  Die Einlegung eines Rechtsmittels ist eine Möglichkeit, eine Entscheidung anzufechten.
+  Le professeur a commencé son cours par une courte *introduction*.
+  Der Professor begann seinen Unterricht mit einer kurzen *Einleitung*.
 
-  Voici quelques mots d'introduction pour vous souhaiter la bienvenue.
-  Hier sind ein paar einleitende Worte, um Sie herzlich willkommen zu heißen.
+  L'*introduction* de nouvelles technologies dans l'entreprise nécessite une formation.
+  Die *Einführung* neuer Technologien im Unternehmen erfordert eine Schulung.
 
-  En introduction, je voudrais vous présenter les objectifs de ce projet.
-  Einleitend möchte ich Ihnen die Ziele dieses Projekts vorstellen.
+  Cette *introduction* historique nous aide à mieux comprendre le contexte.
+  Diese geschichtliche *Einleitung* hilft uns, den Kontext besser zu verstehen.
+
+  L'*introduction* de ce médicament sur le marché a sauvé de nombreuses vies.
+  Die *Einführung* dieses Medikaments auf dem Markt hat viele Leben gerettet.
+
+  En guise d'*introduction*, permettez-moi de vous présenter notre équipe.
+  Als *Einleitung* erlauben Sie mir, Ihnen unser Team vorzustellen.
+
+  L'*introduction* des données dans le système prend environ une heure.
+  Die *Eingabe* der Daten in das System dauert ungefähr eine Stunde.
+
+  Son *introduction* dans le cercle artistique s'est faite naturellement.
+  Seine *Einführung* in den Künstlerkreis verlief ganz natürlich.
+
+  Cette lettre d'*introduction* m'a ouvert beaucoup de portes.
+  Dieser *Empfehlungs*brief hat mir viele Türen geöffnet.
+
+  L'*introduction* de mots étrangers enrichit notre vocabulaire.
+  Die *Einführung* fremder Wörter bereichert unseren Wortschatz.
+
+  Le chapitre d'*introduction* résume les points principaux du livre.
+  Das *Einleitungs*kapitel fasst die Hauptpunkte des Buches zusammen.
+
+  L'*introduction* de la vaccination a considérablement réduit la mortalité infantile.
+  Die *Einführung* der Impfung hat die Kindersterblichkeit erheblich gesenkt.
+
+  J'ai lu l'*introduction* du livre hier soir.
+  Ich habe gestern Abend die *Einleitung* des Buches gelesen.
+
+  L'*introduction* de l'euro a modifié nos habitudes de consommation.
+  Die *Einführung* des Euro hat unsere Konsumgewohnheiten verändert.
+
+  Cette *introduction* à la chimie est parfaite pour les débutants.
+  Diese *Einführung* in die Chemie ist perfekt für Anfänger.
+
+  L'*introduction* d'espèces invasives menace l'écosystème local.
+  Das *Einschleppen* invasiver Arten bedroht das lokale Ökosystem.
+
+  L'*introduction* du jazz en Europe a influencé la musique classique.
+  Die *Einführung* des Jazz in Europa hat die klassische Musik beeinflusst.
+
+  Après une brève *introduction*, le conférencier est entré dans le vif du sujet.
+  Nach einer kurzen *Einleitung* kam der Redner zum Hauptthema.
+
+  L'*introduction* de cette clause dans le contrat est nécessaire.
+  Die *Aufnahme* dieser Klausel in den Vertrag ist notwendig.
+
+  L'*introduction* du vote électronique a simplifié le processus électoral.
+  Die *Einführung* der elektronischen Abstimmung hat den Wahlprozess vereinfacht.
+
+  Cette longue *introduction* musicale crée une atmosphère mystérieuse.
+  Diese lange musikalische *Einleitung* schafft eine geheimnisvolle Atmosphäre.
+
+  L'*introduction* de nouveaux membres dans l'équipe a dynamisé le groupe.
+  Die *Aufnahme* neuer Mitglieder ins Team hat die Gruppe dynamischer gemacht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

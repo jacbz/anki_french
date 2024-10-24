@@ -13,11 +13,140 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je voudrais d’abord savoir quel métier tu exerces.
-  Ich möchte zunächst wissen, welchen Beruf du ausübst.
+  Je voudrais *d'abord* savoir quel métier tu exerces.
+  Ich möchte *zuerst* wissen, welchen Beruf du ausübst.
 
-  Je dois d’abord finir mon travail.
-  Ich muss zuerst meine Arbeit beenden.
+  Elle est restée la même qu'*au premier abord*.
+  Sie ist genauso geblieben wie *beim ersten Eindruck*.
+
+  *D'abord* je dois finir mes devoirs, après je peux jouer.
+  *Erst* muss ich meine Hausaufgaben fertig machen, dann kann ich spielen.
+
+  "*D'abord*, ce n'est pas mon problème !"
+  "*Erstens mal* ist das nicht mein Problem!"
+
+  Les *abords* du château sont magnifiques.
+  Die *Umgebung* des Schlosses ist wunderschön.
+
+  Il faut *d'abord* réfléchir, puis agir.
+  Man muss *erst* nachdenken, dann handeln.
+
+  Pierre est d'un *abord* facile, on peut lui parler de tout.
+  Pierre ist *zugänglich*, man kann mit ihm über alles reden.
+
+  *D'abord* il pleuvait, maintenant il fait beau.
+  *Zunächst* regnete es, jetzt ist es schön.
+
+  Les *abords* de la gare sont toujours bondés.
+  Die *Zugänge* zum Bahnhof sind immer überfüllt.
+
+  *D'abord* et avant tout, il faut penser à ta santé.
+  *Zuallererst* musst du an deine Gesundheit denken.
+
+  Ce roman est d'un *abord* difficile pour les débutants.
+  Dieser Roman ist für Anfänger schwer *zugänglich*.
+
+  Je vais *d'abord* me reposer un peu.
+  Ich werde mich *erst einmal* ein bisschen ausruhen.
+
+  Les travaux bloquent les *abords* de l'école.
+  Die Bauarbeiten blockieren die *Zufahrten* zur Schule.
+
+  *D'abord*, je ne comprends pas pourquoi tu as fait ça.
+  *Also erstens* verstehe ich nicht, warum du das getan hast.
+
+  Il m'a semblé sympathique dès l'*abord*.
+  Er erschien mir von *Anfang* an sympathisch.
+
+  *D'abord*, nous devons établir un plan.
+  *Zunächst* müssen wir einen Plan aufstellen.
+
+  Cette personne est d'un *abord* agréable.
+  Diese Person hat ein *angenehmes Auftreten*.
+
+  *D'abord* il faut nettoyer la plaie.
+  *Zuerst* muss man die Wunde reinigen.
+
+  Les *abords* du parc sont bien entretenus.
+  Die *Umgebung* des Parks ist gut gepflegt.
+
+  *D'abord* je ne savais pas quoi dire.
+  *Anfangs* wusste ich nicht, was ich sagen sollte.
+
+  Elle paraît froide au premier *abord*.
+  Sie wirkt auf den *ersten Blick* kühl.
+
+  *D'abord*, comment oses-tu me parler ainsi ?
+  *Also erstmal*, wie wagst du es, so mit mir zu sprechen?
+
+  Les *abords* de la plage sont surveillés.
+  Die *Zugänge* zum Strand werden überwacht.
+
+  *D'abord* je vais prendre une douche.
+  *Erst* werde ich duschen gehen.
+
+  Ce professeur est d'un *abord* chaleureux.
+  Dieser Lehrer hat ein *herzliches Wesen*.
+
+  *D'abord*, ce n'est pas ce que tu penses.
+  *Erstens*, das ist nicht das, was du denkst.
+
+  Les *abords* du stade sont sécurisés.
+  Die *Umgebung* des Stadions ist gesichert.
+
+  *D'abord* nous mangeons, ensuite nous sortons.
+  *Zuerst* essen wir, dann gehen wir aus.
+
+  Cette théorie est d'un *abord* complexe.
+  Diese Theorie ist schwer *zugänglich*.
+
+  *D'abord*, je dois t'avouer quelque chose.
+  *Zunächst* muss ich dir etwas gestehen.
+
+  Les *abords* du village sont calmes.
+  Die *Umgebung* des Dorfes ist ruhig.
+
+  *D'abord*, je ne suis pas d'accord avec toi.
+  *Also erstmal* bin ich nicht einverstanden mit dir.
+
+  Elle semblait timide de prime *abord*.
+  Sie wirkte auf den *ersten Blick* schüchtern.
+
+  *D'abord* il faut préparer les ingrédients.
+  *Zuerst* müssen die Zutaten vorbereitet werden.
+
+  Les *abords* du musée sont en travaux.
+  Die *Zugänge* zum Museum werden renoviert.
+
+  *D'abord*, comment es-tu arrivé ici ?
+  *Erstmal*, wie bist du hierher gekommen?
+
+  Cette musique est d'un *abord* difficile.
+  Diese Musik ist schwer *zugänglich*.
+
+  *D'abord* je veux écouter ton histoire.
+  *Erst* möchte ich deine Geschichte hören.
+
+  Les *abords* de l'hôpital sont interdits aux voitures.
+  Die *Zufahrten* zum Krankenhaus sind für Autos gesperrt.
+
+  *D'abord*, ce n'est pas à moi de décider.
+  *Erstens* ist es nicht an mir zu entscheiden.
+
+  Il paraît sévère au premier *abord*.
+  Er wirkt auf den *ersten Blick* streng.
+
+  *D'abord* nous devons définir nos objectifs.
+  *Zunächst* müssen wir unsere Ziele festlegen.
+
+  Les *abords* de la rivière sont aménagés.
+  Die *Uferzone* des Flusses ist gestaltet.
+
+  *D'abord*, pourquoi ne m'as-tu pas appelé ?
+  *Also erstmal*, warum hast du mich nicht angerufen?
+
+  Cette personne semble distante de prime *abord*.
+  Diese Person erscheint auf den *ersten Blick* distanziert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

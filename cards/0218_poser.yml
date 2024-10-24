@@ -9,26 +9,195 @@ Femininum / Plural: ''
 IPA: \po.ze\
 Definition: stellen, fragen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Je ne me posais plus de questions.\nIch stellte keine Fragen mehr.\n\
-  \nJe vais poser cette tasse sur la table.\nIch werde diese Tasse auf den Tisch stellen.\n\
-  \nLe chat s'est posé sur le tapis, se léchant les moustaches.\nDer Kater hat sich\
-  \ auf den Teppich gelegt und sich die Schnurrhaare geleckt.\n\nLes pièces de ce\
-  \ puzzle se posent facilement, même pour les enfants.\nDie Teile dieses Puzzles\
-  \ lassen sich leicht legen, sogar für Kinder.\n\nLe professeur a posé son regard\
-  \ sur l'élève qui parlait, le faisant taire d'un geste.\nDer Professor richtete\
-  \ seinen Blick auf den Schüler, der sprach, und brachte ihn mit einer Geste zum\
-  \ Schweigen.\n\nLe maire a inauguré la nouvelle statue, et ça vous pose un homme!\
-  \ \nDer Bürgermeister hat die neue Statue eingeweiht, und die Leute sehen zu einem\
-  \ hoch!\n\nLes héros de la guerre ont posé pour la postérité, fiers de leur sacrifice.\n\
-  Die Helden des Krieges haben für die Nachwelt posiert, stolz auf ihr Opfer.\n\n\
-  La nouvelle starlette pose pour la galerie, essayant de capter l'attention des médias.\n\
-  Die neue Starlette setzt sich in Szene, um die Aufmerksamkeit der Medien zu gewinnen.\n\
-  \nIl se pose la question si son choix était le bon, mais il n'a pas de regrets.\n\
-  Es stellt sich die Frage, ob seine Wahl die richtige war, aber er hat keine Reue.\n\
-  \nJ'ai dû me poser une question importante avant de prendre ma décision.\nIch musste\
-  \ mir eine wichtige Frage stellen, bevor ich meine Entscheidung traf.\n\nIl ne faut\
-  \ pas se poser des problèmes inutiles, il faut profiter de la vie.\nMan sollte sich\
-  \ keine unnötigen Probleme schaffen, sondern das Leben genießen."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Je ne me *posais* plus de questions.
+  Ich *stellte* mir keine Fragen mehr.
+
+  J'ai *posé* le livre sur la table.
+  Ich habe das Buch auf den Tisch *gelegt*.
+
+  L'avion s'est *posé* en douceur sur la piste.
+  Das Flugzeug ist sanft auf der Piste *gelandet*.
+
+  Elle *pose* pour un peintre célèbre.
+  Sie *sitzt* einem berühmten Maler Modell.
+
+  Il a *posé* sa main sur mon épaule.
+  Er hat seine Hand auf meine Schulter *gelegt*.
+
+  Nous devons *poser* les rideaux avant ce soir.
+  Wir müssen die Vorhänge vor heute Abend *anbringen*.
+
+  L'oiseau s'est *posé* sur la branche.
+  Der Vogel hat sich auf den Ast *gesetzt*.
+
+  La question ne s'est pas encore *posée*.
+  Die Frage hat sich noch nicht *gestellt*.
+
+  Il *pose* toujours ses bagages dans l'entrée.
+  Er *stellt* sein Gepäck immer in den Eingang.
+
+  Son regard se *posa* sur moi.
+  Sein Blick *richtete* sich auf mich.
+
+  "Comme menteur, il se *pose* là !"
+  "Als Lügner *steht* er ganz oben!"
+
+  Elle a *posé* sa candidature pour le poste.
+  Sie hat ihre Bewerbung *eingereicht*.
+
+  Le professeur *pose* une question difficile.
+  Der Lehrer *stellt* eine schwierige Frage.
+
+  *Posons* le principe suivant.
+  Wir *stellen* folgendes Prinzip auf.
+
+  Les ouvriers *posent* le nouveau carrelage.
+  Die Arbeiter *verlegen* die neuen Fliesen.
+
+  Il faut *poser* le problème clairement.
+  Man muss das Problem klar *aufwerfen*.
+
+  Je *pose* cinq et je retiens un.
+  Ich *schreibe* die Fünf hin und behalte die Eins.
+
+  Le chat s'est *posé* sur le rebord de la fenêtre.
+  Die Katze hat sich auf das Fensterbrett *gesetzt*.
+
+  Il *pose* un peu trop devant ses amis.
+  Er *gibt* sich vor seinen Freunden etwas zu wichtig.
+
+  Nous devons *poser* les nouvelles fenêtres demain.
+  Wir müssen morgen die neuen Fenster *einsetzen*.
+
+  Elle *pose* toujours son manteau sur cette chaise.
+  Sie *legt* ihren Mantel immer auf diesen Stuhl.
+
+  Le papillon se *posa* délicatement sur la fleur.
+  Der Schmetterling *setzte* sich sanft auf die Blume.
+
+  Les fondations *posent* sur le sol rocheux.
+  Die Fundamente *ruhen* auf dem felsigen Boden.
+
+  Il *pose* au philosophe devant ses collègues.
+  Er *spielt* sich vor seinen Kollegen als Philosoph auf.
+
+  La poutre *pose* sur deux piliers.
+  Der Balken *ruht* auf zwei Pfeilern.
+
+  Elle s'est *posée* en victime.
+  Sie hat sich als Opfer *aufgespielt*.
+
+  Nous devons *poser* le nouveau câble électrique.
+  Wir müssen das neue Stromkabel *verlegen*.
+
+  Le problème se *pose* différemment maintenant.
+  Das Problem *stellt* sich jetzt anders dar.
+
+  Il *pose* pour la postérité.
+  Er *posiert* für die Nachwelt.
+
+  Cette découverte l'a bien *posé* dans son domaine.
+  Diese Entdeckung hat ihm in seinem Bereich viel *Ansehen* verschafft.
+
+  Les électriciens *posent* une nouvelle prise.
+  Die Elektriker *installieren* eine neue Steckdose.
+
+  Le modèle *pose* depuis deux heures.
+  Das Modell *steht* seit zwei Stunden.
+
+  L'hélicoptère s'est *posé* sur le toit.
+  Der Hubschrauber ist auf dem Dach *gelandet*.
+
+  Il *pose* sa voix parfaitement.
+  Er *beherrscht* seinen Registerausgleich perfekt.
+
+  Elle a *posé* son regard sur l'horizon.
+  Sie hat ihren Blick zum Horizont *gerichtet*.
+
+  La neige se *pose* doucement sur le sol.
+  Der Schnee *legt* sich sanft auf den Boden.
+
+  Ils *posent* la moquette dans le salon.
+  Sie *verlegen* den Teppichboden im Wohnzimmer.
+
+  Le peintre *pose* la première couche.
+  Der Maler *trägt* die erste Schicht auf.
+
+  Elle *pose* toujours des questions pertinentes.
+  Sie *stellt* immer relevante Fragen.
+
+  *Posons* cette équation ensemble.
+  Lass uns diese Gleichung zusammen *aufstellen*.
+
+  Le jardinier *pose* les nouvelles dalles.
+  Der Gärtner *verlegt* die neuen Platten.
+
+  Il se *pose* en expert du sujet.
+  Er *spielt* sich als Experte auf diesem Gebiet auf.
+
+  Les oiseaux se *posent* sur le toit.
+  Die Vögel *lassen* sich auf dem Dach nieder.
+
+  Elle *pose* son verre sur la table basse.
+  Sie *stellt* ihr Glas auf den Couchtisch.
+
+  La lumière se *posa* sur son visage.
+  Das Licht *fiel* auf ihr Gesicht.
+
+  Il *pose* sa démission sur le bureau.
+  Er *legt* seine Kündigung auf den Schreibtisch.
+
+  Cette situation *pose* vraiment problème.
+  Diese Situation *wirft* wirklich Probleme auf.
+
+  Elle *pose* pour une photo de famille.
+  Sie *posiert* für ein Familienfoto.
+
+  Le plombier *pose* un nouveau robinet.
+  Der Klempner *installiert* einen neuen Wasserhahn.
+
+  La question se *pose* de savoir si...
+  Die Frage *stellt* sich, ob...
+
+  Il *pose* ses conditions avant d'accepter.
+  Er *stellt* seine Bedingungen, bevor er zusagt.
+
+  Ceci *posé*, passons à autre chose.
+  Dies *vorausgesetzt*, lasst uns zu etwas anderem übergehen.
+
+  Il faut *poser* les bases avant de commencer.
+  Man muss die Grundlagen *legen*, bevor man anfängt.
+
+  Elle *pose* ses limites dès le début.
+  Sie *setzt* ihre Grenzen von Anfang an.
+
+  Le menuisier *pose* les nouvelles portes.
+  Der Schreiner *setzt* die neuen Türen ein.
+
+  Elle *pose* son panier sur le comptoir.
+  Sie *stellt* ihren Korb auf die Theke.
+
+  Un papillon se *posa* sur sa main.
+  Ein Schmetterling *ließ* sich auf ihrer Hand nieder.
+
+  Les fondations *posent* sur le roc.
+  Die Fundamente *ruhen* auf dem Fels.
+
+  Elle *pose* toujours ses clés au même endroit.
+  Sie *legt* ihre Schlüssel immer an dieselbe Stelle.
+
+  Le problème ne se *pose* plus maintenant.
+  Das Problem *stellt* sich jetzt nicht mehr.
+
+  Il *pose* sa signature en bas du document.
+  Er *setzt* seine Unterschrift unter das Dokument.
+
+  Cette expérience l'a bien *posé* dans sa carrière.
+  Diese Erfahrung hat ihm in seiner Karriere *Ansehen* verschafft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

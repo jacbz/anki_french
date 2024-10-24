@@ -13,23 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La violence engendre la violence.
-  Gewalt erzeugt Gewalt.
+  La violence *engendre* la violence.
+  Gewalt *erzeugt* Gewalt.
 
-  La pollution peut engendrer des maladies.
-  Verschmutzung kann Krankheiten hervorrufen.
+  Ses parents l'ont *engendré* il y a vingt ans.
+  Seine Eltern haben ihn vor zwanzig Jahren *gezeugt*.
 
-  De telles décisions ont engendré la mort, l'insécurité et une grande instabilité.
-  Solche Entscheidungen haben Tod, Unsicherheit und größere Instabilität hervorgebracht.
+  La rotation du triangle *engendre* un cône parfait.
+  Die Rotation des Dreiecks *ergibt* einen perfekten Kegel.
 
-  Il a été créé, pas engendré, par nous.
-  Erschaffen, aber nicht gezeugt, von uns.
+  Cette décision politique a *engendré* beaucoup de protestations.
+  Diese politische Entscheidung hat viele Proteste *erzeugt*.
 
-  Comme si je t'avais engendré.
-  Ganz so, als hätte ich Sie gezeugt.
+  "Il est tellement drôle, il n'*engendre* pas la mélancolie !"
+  "Er ist so lustig, er verbreitet nur gute Laune!"
 
-  Un fils engendré lors de votre nuit de noce.
-  Einen Sohn, gezeugt in eurer Hochzeitsnacht.
+  Les nouvelles technologies *engendrent* des changements profonds dans la société.
+  Die neuen Technologien *erzeugen* tiefgreifende Veränderungen in der Gesellschaft.
+
+  L'étalon blanc a *engendré* trois poulains magnifiques.
+  Der weiße Hengst hat drei prächtige Fohlen *gezeugt*.
+
+  Cette grammaire peut *engendrer* toutes les phrases correctes de la langue.
+  Diese Grammatik kann alle korrekten Sätze der Sprache *generieren*.
+
+  Le stress au travail *engendre* souvent des problèmes de santé.
+  Stress bei der Arbeit *erzeugt* oft gesundheitliche Probleme.
+
+  Un simple malentendu a *engendré* ce conflit.
+  Ein einfaches Missverständnis hat diesen Konflikt *erzeugt*.
+
+  La rotation d'une droite *engendre* un plan dans l'espace.
+  Die Rotation einer Geraden *ergibt* eine Ebene im Raum.
+
+  Cette situation difficile *engendrera* certainement des complications.
+  Diese schwierige Situation wird sicherlich Komplikationen *erzeugen*.
+
+  Selon la Bible, Abraham *engendra* Isaac à un âge avancé.
+  Laut der Bibel hat Abraham Isaak in hohem Alter *gezeugt*.
+
+  Le succès *engendre* souvent le succès.
+  Erfolg *erzeugt* oft Erfolg.
+
+  Ces nouvelles règles ont *engendré* beaucoup de confusion.
+  Diese neuen Regeln haben viel Verwirrung *erzeugt*.
+
+  La peur peut *engendrer* des comportements irrationnels.
+  Angst kann irrationales Verhalten *erzeugen*.
+
+  Le mouvement de cette courbe *engendre* une surface complexe.
+  Die Bewegung dieser Kurve *ergibt* eine komplexe Fläche.
+
+  L'amour *engendre* parfois la jalousie.
+  Liebe *erzeugt* manchmal Eifersucht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

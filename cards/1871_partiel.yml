@@ -13,17 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle travaille à temps partiel.
-  Sie arbeitet in Teilzeit.
+  Elle travaille à temps *partiel*.
+  Sie arbeitet in *Teilzeit*.
 
-  C’est une réponse partiellement correcte.
-  Das ist eine teilweise richtige Antwort.
+  J'ai obtenu une note excellente au *partiel* d'histoire.
+  Ich habe eine ausgezeichnete Note in der *Klausur* in Geschichte bekommen.
 
-  Le chômage partiel permet aux salariés de toucher une partie de leur salaire pendant qu'ils travaillent moins d'heures.
-  Kurzarbeit ermöglicht es Arbeitnehmern, einen Teil ihres Gehalts zu erhalten, während sie weniger Stunden arbeiten.
+  Les étudiants doivent passer trois *partiels* ce semestre.
+  Die Studierenden müssen dieses Semester drei *Klausuren* schreiben.
 
-  Le travail à temps partiel est une forme de travail où les salariés travaillent moins d'heures par semaine que les salariés à temps plein.
-  Teilzeitarbeit ist eine Form der Arbeit, bei der Arbeitnehmer weniger Stunden pro Woche arbeiten als Vollzeitbeschäftigte.
+  Une *éclipse partielle* de soleil aura lieu demain matin.
+  Morgen früh wird es eine *partielle* Sonnenfinsternis geben.
+
+  Je n'ai qu'une vision *partielle* du problème.
+  Ich habe nur eine *lückenhafte* Sicht des Problems.
+
+  L'entreprise a mis en place le chômage *partiel* pendant la crise.
+  Das Unternehmen hat während der Krise *Kurz*arbeit eingeführt.
+
+  Les résultats *partiels* montrent que nous sommes en tête.
+  Die *Teil*ergebnisse zeigen, dass wir vorne liegen.
+
+  Une élection *partielle* aura lieu le mois prochain.
+  Nächsten Monat findet eine *Nach*wahl statt.
+
+  Il n'a effectué qu'un paiement *partiel* de sa dette.
+  Er hat nur eine *Teil*zahlung seiner Schuld geleistet.
+
+  Nous n'avons reçu que des informations *partielles* sur l'incident.
+  Wir haben nur *lückenhafte* Informationen über den Vorfall erhalten.
+
+  Le succès n'a été que *partiel*, mais c'est déjà un début.
+  Der Erfolg war nur *teilweise*, aber es ist schon ein Anfang.
+
+  La restauration *partielle* du bâtiment commencera bientôt.
+  Die *Teil*renovierung des Gebäudes wird bald beginnen.
+
+  Mon père est passé d'un emploi à temps plein à un emploi à temps *partiel*.
+  Mein Vater ist von einer Vollzeitstelle zu einer *Teilzeit*stelle gewechselt.
+
+  Le remboursement *partiel* sera effectué dans les plus brefs délais.
+  Die *Teil*erstattung wird schnellstmöglich durchgeführt.
+
+  Les données *partielles* ne permettent pas de tirer des conclusions définitives.
+  Die *unvollständigen* Daten lassen keine endgültigen Schlüsse zu.
+
+  La rénovation *partielle* de l'appartement prendra deux semaines.
+  Die *Teil*renovierung der Wohnung wird zwei Wochen dauern.
+
+  La couverture *partielle* des frais sera assurée par l'assurance.
+  Die *Teil*übernahme der Kosten wird von der Versicherung gewährleistet.
+
+  Le système n'est que *partiellement* opérationnel aujourd'hui.
+  Das System ist heute nur *teilweise* funktionsfähig.
+
+  Les étudiants stressent beaucoup avant les *partiels* de fin de semestre.
+  Die Studierenden sind vor den *Klausuren* am Ende des Semesters sehr gestresst.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

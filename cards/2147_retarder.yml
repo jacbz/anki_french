@@ -13,41 +13,104 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai été retardé par un embouteillage, un accident.
-  Ich wurde durch einen Stau oder einen Unfall aufgehalten.
+  J'ai été *retardé* par un embouteillage, un accident.
+  Ich wurde durch einen Stau und einen Unfall *aufgehalten*.
 
-  Je suis désolé de retarder notre rendez-vous.
-  Es tut mir leid, dass ich unser Treffen verzögere.
+  Le train sera *retardé* de 30 minutes à cause des travaux.
+  Der Zug wird sich wegen der Bauarbeiten um 30 Minuten *verzögern*.
 
-  Le mauvais temps a retardé l'arrivée de Paul à l'aéroport.
-  Das schlechte Wetter hat Pauls Ankunft am Flughafen hinausgezögert.
+  Je ne veux pas vous *retarder* dans votre travail.
+  Ich möchte Sie nicht von Ihrer Arbeit *abhalten*.
 
-  Le train a retardé d'une heure, ce qui a provoqué un grand désordre.
-  Der Zug verspätete sich um eine Stunde, was zu großem Chaos führte.
+  "Ma montre *retarde* de cinq minutes."
+  "Meine Uhr geht fünf Minuten *nach*."
 
-  La panne de courant a retardé Marie dans son travail.
-  Der Stromausfall hat Marie von ihrer Arbeit abgehalten.
+  Les fortes pluies ont *retardé* la construction du pont.
+  Der starke Regen hat den Brückenbau *verzögert*.
 
-  Le directeur a décidé de retarder la réunion de deux jours.
-  Der Chef hat beschlossen, die Besprechung um zwei Tage zu verschieben.
+  Il faut *retarder* la réunion d'une semaine.
+  Wir müssen die Besprechung um eine Woche *verschieben*.
 
-  On a retardé la montre d'une heure pour s'adapter au changement d'heure.
-  Man hat die Uhr um eine Stunde zurückstellt, um sich an die Zeitumstellung anzupassen.
+  N'oubliez pas de *retarder* vos montres d'une heure ce week-end.
+  Vergessen Sie nicht, Ihre Uhren dieses Wochenende um eine Stunde *zurückzustellen*.
 
-  Les élèves de cette classe sont retardés de dix ans sur leurs camarades.
-  Die Schüler dieser Klasse sind zehn Jahre hinter ihren Klassenkameraden.
+  Sa maladie l'a *retardé* dans ses études.
+  Seine Krankheit hat ihn im Studium *zurückgeworfen*.
 
-  Le trafic dense a retardé le départ du train.
-  Durch den dichten Verkehr hat sich die Abfahrt des Zuges verzögert.
+  "Tu *retardes* complètement, tout le monde est déjà au courant !"
+  "Du *hängst* ja völlig *hinterher*, das wissen doch schon alle!"
 
-  Le concert était retardé d'une heure, ce qui a déçu beaucoup de fans.
-  Das Konzert hat eine Stunde später begonnen, was viele Fans enttäuscht hat.
+  Les vents contraires ont *retardé* notre arrivée au port.
+  Widrige Winde haben unsere Ankunft im Hafen *verzögert*.
 
-  Le frein a retardé le moteur dans sa course, ce qui a permis au conducteur de s'arrêter.
-  Die Bremse hat den Motor in seiner Fahrt verlangsamt, was dem Fahrer ermöglichte, anzuhalten.
+  Cette entreprise *retarde* de dix ans sur ses concurrents.
+  Diese Firma *hinkt* zehn Jahre hinter ihrer Konkurrenz *her*.
 
-  Le gel a retardé la construction de la maison, ce qui a entraîné des coûts supplémentaires.
-  Durch den Frost hat sich der Bau des Hauses hinausgezögert, was zusätzliche Kosten verursachte.
+  Il *retarde* sur son temps avec ses idées démodées.
+  Er lebt mit seinen altmodischen Ideen hinter dem Mond.
+
+  Le lever du soleil *retarde* de quelques minutes chaque jour en automne.
+  Der Sonnenaufgang *verschiebt* sich im Herbst jeden Tag um einige Minuten nach hinten.
+
+  Nous devons *retarder* notre départ à cause de la météo.
+  Wir müssen unsere Abreise wegen des Wetters *verschieben*.
+
+  Les problèmes techniques ont *retardé* le lancement de la fusée.
+  Technische Probleme haben den Raketenstart *verzögert*.
+
+  Ces médicaments peuvent *retarder* l'évolution de la maladie.
+  Diese Medikamente können den Krankheitsverlauf *verzögern*.
+
+  La neige a *retardé* tous les vols ce matin.
+  Der Schnee hat heute Morgen alle Flüge *verzögert*.
+
+  Je dois *retarder* mon rendez-vous chez le dentiste.
+  Ich muss meinen Zahnarzttermin *verschieben*.
+
+  Les manifestations ont *retardé* la circulation en centre-ville.
+  Die Demonstrationen haben den Verkehr in der Innenstadt *aufgehalten*.
+
+  Cette horloge *retarde* de deux minutes par jour.
+  Diese Uhr geht jeden Tag zwei Minuten *nach*.
+
+  Les grèves ont *retardé* la livraison du colis.
+  Die Streiks haben die Paketlieferung *verzögert*.
+
+  Le brouillard a *retardé* le décollage de l'avion.
+  Der Nebel hat den Start des Flugzeugs *verzögert*.
+
+  Nous devons *retarder* l'ouverture du magasin d'une heure.
+  Wir müssen die Ladenöffnung um eine Stunde *verschieben*.
+
+  Les embouteillages m'ont *retardé* d'une demi-heure.
+  Die Staus haben mich um eine halbe Stunde *aufgehalten*.
+
+  La panne d'électricité a *retardé* la production.
+  Der Stromausfall hat die Produktion *verzögert*.
+
+  Le mauvais temps a *retardé* les semailles.
+  Das schlechte Wetter hat die Aussaat *verzögert*.
+
+  Les travaux routiers *retardent* la circulation.
+  Die Straßenarbeiten *verzögern* den Verkehr.
+
+  Son absence a *retardé* la prise de décision.
+  Seine Abwesenheit hat die Entscheidungsfindung *verzögert*.
+
+  Ces obstacles ont *retardé* notre progression.
+  Diese Hindernisse haben unseren Fortschritt *verzögert*.
+
+  Les difficultés administratives ont *retardé* le projet.
+  Die administrativen Schwierigkeiten haben das Projekt *verzögert*.
+
+  La crise économique a *retardé* nos plans d'expansion.
+  Die Wirtschaftskrise hat unsere Expansionspläne *verzögert*.
+
+  Les nouvelles régulations ont *retardé* le processus d'approbation.
+  Die neuen Vorschriften haben den Genehmigungsprozess *verzögert*.
+
+  Le système de freinage *retarde* la vitesse du véhicule.
+  Das Bremssystem *verlangsamt* die Geschwindigkeit des Fahrzeugs.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

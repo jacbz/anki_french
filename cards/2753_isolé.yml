@@ -13,20 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Dans quelques semaines, on sera isolés par la glace.
-  In ein paar Wochen werden wir durch das Eis isoliert sein.
+  Dans quelques semaines, on sera *isolés* par la glace.
+  In ein paar Wochen werden wir durch das Eis *isoliert* sein.
 
-  Nous avons trouvé une maison isolée dans les montagnes.
-  Wir haben ein alleinstehendes Haus in den Bergen gefunden.
+  La maison *isolée* se trouve à trois kilomètres du village.
+  Das *abgelegene* Haus liegt drei Kilometer vom Dorf entfernt.
 
-  Marie est une mère isolée avec deux enfants.
-  Marie ist eine alleinerziehende Mutter mit zwei Kindern.
+  Des arbres *isolés* parsèment le paysage désertique.
+  *Einzelne* Bäume sind über die Wüstenlandschaft verstreut.
 
-  Ce cas de corruption n'est malheureusement pas isolé.
-  Dieser Fall von Korruption ist leider kein Einzelfall.
+  Marie élève ses enfants comme mère *isolée*.
+  Marie erzieht ihre Kinder als *alleinerziehende* Mutter.
 
-  Depuis sa retraite, mon oncle Pierre vit très isolé à la campagne.
-  Seit seiner Pensionierung lebt mein Onkel Pierre sehr zurückgezogen auf dem Land.
+  Cette ferme *isolée* n'a pas d'électricité.
+  Dieser *einsam gelegene* Bauernhof hat keinen Strom.
+
+  Il vit *isolé* depuis son divorce.
+  Seit seiner Scheidung lebt er *zurückgezogen*.
+
+  Ce n'est pas un cas *isolé* de fraude.
+  Das ist kein *Einzelfall* von Betrug.
+
+  Le fil électrique mal *isolé* représente un danger.
+  Das schlecht *isolierte* Elektrokabel stellt eine Gefahr dar.
+
+  Des applaudissements *isolés* ont suivi son discours.
+  *Vereinzeltes* Klatschen folgte seiner Rede.
+
+  Un tireur *isolé* a été repéré sur le toit.
+  Ein *einzelner* Schütze wurde auf dem Dach gesichtet.
+
+  La statue *isolée* domine la place centrale.
+  Die *freistehende* Statue dominiert den zentralen Platz.
+
+  Les personnes âgées se sentent souvent *isolées*.
+  Ältere Menschen fühlen sich oft *isoliert*.
+
+  Un grand chêne *isolé* marque l'entrée du domaine.
+  Eine große *alleinstehende* Eiche markiert den Eingang des Anwesens.
+
+  Cette région *isolée* manque d'infrastructures.
+  Diese *abgelegene* Region hat keine Infrastruktur.
+
+  Les actes de vandalisme *isolés* inquiètent les habitants.
+  Die *vereinzelten* Vandalismusfälle beunruhigen die Bewohner.
+
+  La pièce est bien *isolée* contre le bruit.
+  Der Raum ist gut *schallisoliert*.
+
+  Un monument *isolé* attire l'attention des touristes.
+  Ein *freistehendes* Denkmal zieht die Aufmerksamkeit der Touristen auf sich.
+
+  Les chercheurs étudient ce système *isolé*.
+  Die Forscher untersuchen dieses *isolierte* System.
+
+  Le petit village *isolé* est accessible uniquement à pied.
+  Das kleine *abgelegene* Dorf ist nur zu Fuß erreichbar.
+
+  Elle se sent *isolée* dans son nouveau quartier.
+  Sie fühlt sich in ihrer neuen Nachbarschaft *isoliert*.
+
+  Le clocher *isolé* est visible de loin.
+  Der *freistehende* Kirchturm ist von weitem sichtbar.
+
+  Ces phénomènes ne sont pas *isolés*.
+  Diese Phänomene sind keine *Einzelfälle*.
+
+  Un soldat *isolé* a demandé de l'aide par radio.
+  Ein *einzelner* Soldat hat per Funk um Hilfe gebeten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

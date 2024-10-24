@@ -13,14 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est un voyageur chevronné.
-  Er ist ein erfahrener Reisender.
+  C'est un *voyageur* chevronné.
+  Er ist ein erfahrener *Reisender*.
 
-  Le voyageur a pris le train ce matin.
-  Der Reisende hat heute Morgen den Zug genommen.
+  Les *voyageurs* doivent se présenter deux heures avant le décollage.
+  Die *Fluggäste* müssen sich zwei Stunden vor dem Abflug einfinden.
 
-  Aujourd'hui, il est d'humeur voyageuse et rêve de s'envoler vers des contrées lointaines.
-  Heute ist er reiselustig und träumt davon, in ferne Länder zu fliegen.
+  Notre fils est très *voyageur*, il adore découvrir de nouveaux pays.
+  Unser Sohn ist sehr *reiselustig*, er liebt es, neue Länder zu entdecken.
+
+  Tous les *voyageurs* sont priés de descendre du train.
+  Alle *Fahrgäste* werden gebeten, den Zug zu verlassen.
+
+  Attention, un *voyageur* a oublié sa valise sur le quai.
+  Achtung, ein *Passagier* hat seinen Koffer auf dem Bahnsteig vergessen.
+
+  Elle est une *voyageuse* passionnée qui parcourt le monde depuis vingt ans.
+  Sie ist eine leidenschaftliche *Reisende*, die seit zwanzig Jahren die Welt bereist.
+
+  Les *voyageurs* en direction de Lyon doivent changer de voie.
+  Die *Fahrgäste* nach Lyon müssen das Gleis wechseln.
+
+  Marc travaille comme *voyageur* de commerce depuis dix ans.
+  Marc arbeitet seit zehn Jahren als Handels*reisender*.
+
+  Ces anciens *voyageurs* ont écrit des récits fascinants sur leurs explorations.
+  Diese ehemaligen *Entdecker* haben faszinierende Berichte über ihre Erkundungen geschrieben.
+
+  La compagnie aérienne rembourse les *voyageurs* en cas d'annulation.
+  Die Fluggesellschaft erstattet den *Passagieren* den Preis bei Stornierung.
+
+  D'une nature *voyageuse*, elle ne reste jamais longtemps au même endroit.
+  Von *reiselustiger* Natur bleibt sie nie lange am selben Ort.
+
+  Les *voyageurs* de première classe peuvent accéder au salon VIP.
+  Die *Passagiere* der ersten Klasse haben Zugang zur VIP-Lounge.
+
+  Cette *voyageuse* intrépide a traversé l'Afrique à pied.
+  Diese unerschrockene *Reisende* hat Afrika zu Fuß durchquert.
+
+  Le bateau peut accueillir jusqu'à 3000 *voyageurs*.
+  Das Schiff kann bis zu 3000 *Passagiere* aufnehmen.
+
+  En tant que *voyageur* de commerce, il visite des clients dans toute la France.
+  Als Handels*reisender* besucht er Kunden in ganz Frankreich.
+
+  Une vie *voyageuse* l'a menée aux quatre coins du monde.
+  Ein *Reise*leben hat sie in alle Ecken der Welt geführt.
+
+  La gare était bondée de *voyageurs* en cette veille de Noël.
+  Der Bahnhof war an diesem Heiligabend voller *Reisender*.
+
+  Cette exposition présente les photos d'une *voyageuse* du XIXe siècle.
+  Diese Ausstellung zeigt die Fotos einer *Reisenden* aus dem 19. Jahrhundert.
+
+  Son âme *voyageuse* ne lui permet pas de s'installer définitivement.
+  Seine *reiselustige* Seele erlaubt es ihm nicht, sich dauerhaft niederzulassen.
+
+  Les *voyageurs* doivent présenter leur billet avant d'embarquer.
+  Die *Fahrgäste* müssen vor dem Einsteigen ihre Fahrkarte vorzeigen.
+
+  Cette jeune *voyageuse* documente ses aventures sur les réseaux sociaux.
+  Diese junge *Reisende* dokumentiert ihre Abenteuer in den sozialen Medien.
+
+  Le train a du retard, et les *voyageurs* s'impatientent.
+  Der Zug hat Verspätung, und die *Fahrgäste* werden ungeduldig.
+
+  Les *voyageurs* fréquents accumulent des points de fidélité.
+  Viel*reisende* sammeln Treuepunkte.
+
+  Une application permet aux *voyageurs* de suivre leur vol en temps réel.
+  Eine App ermöglicht es den *Fluggästen*, ihren Flug in Echtzeit zu verfolgen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

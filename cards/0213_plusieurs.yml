@@ -13,35 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il y a plusieurs formes d’humour.
-  Es gibt verschiedene Formen von Humor.
+  Il y a *plusieurs* formes d'humour.
+  Es gibt *mehrere* Arten von Humor.
 
-  J’ai vu plusieurs amis hier soir.
-  Ich habe gestern Abend mehrere Freunde gesehen.
+  J'ai essayé *plusieurs* fois de l'appeler, mais il ne répond pas.
+  Ich habe *mehrmals* versucht, ihn anzurufen, aber er antwortet nicht.
 
-  Il est venu plusieurs fois.
-  Er kam mehrmals.
+  *Plusieurs* personnes m'ont parlé de ce nouveau restaurant.
+  *Mehrere* Leute haben mir von diesem neuen Restaurant erzählt.
 
-  Je veux rester plusieurs jours.
-  Ich möchte mehrere Tage bleiben.
+  Il faut attendre *plusieurs* heures avant le décollage.
+  Man muss *mehrere* Stunden vor dem Abflug warten.
 
-  Je travaille ici depuis plusieurs années.
-  Ich arbeite seit mehreren Jahren hier.
+  Je connais *plusieurs* façons de préparer ce plat.
+  Ich kenne *mehrere* Arten, dieses Gericht zuzubereiten.
 
-  Plusieurs m'ont raconté cette histoire, mais je n'y crois pas vraiment.
-  Die Geschichte habe ich von einigen gehört, aber ich glaube sie nicht wirklich.
+  *Plusieurs* d'entre nous ne pourront pas venir à la fête.
+  *Einige* von uns werden nicht zur Party kommen können.
 
-  Il y a plusieurs années, j'ai vécu une expérience extraordinaire.
-  Vor mehreren Jahren habe ich eine außergewöhnliche Erfahrung gemacht.
+  Elle a dû relire le texte à *plusieurs* reprises pour le comprendre.
+  Sie musste den Text *mehrmals* lesen, um ihn zu verstehen.
 
-  Plusieurs d'entre nous étaient présents à la réunion.
-  Einige von uns waren bei der Sitzung dabei.
+  *Plusieurs* de ces livres sont en anglais.
+  *Einige* dieser Bücher sind auf Englisch.
 
-  Plusieurs de ces journaux sont des tabloïds, il ne faut pas les prendre au sérieux.
-  Einige von diesen Zeitungen sind Boulevardblätter, man sollte sie nicht ernst nehmen.
+  Il faut être à *plusieurs* pour déplacer ce meuble.
+  Man muss zu *mehreren* sein, um dieses Möbelstück zu bewegen.
 
-  Plusieurs de mes amis sont venus à mon anniversaire.
-  Einige meiner Freunde kamen zu meinem Geburtstag.
+  Cette tâche prendra *plusieurs* jours.
+  Diese Aufgabe wird *mehrere* Tage dauern.
+
+  *Plusieurs* pensent que c'est une mauvaise idée.
+  *Einige* halten das für eine schlechte Idee.
+
+  L'accident s'est produit en *plusieurs* endroits.
+  Der Unfall ereignete sich an *mehreren* Stellen.
+
+  *Plusieurs* de mes collègues sont en vacances.
+  *Einige* meiner Kollegen sind im Urlaum.
+
+  Nous avons exploré *plusieurs* options avant de prendre une décision.
+  Wir haben *mehrere* Optionen geprüft, bevor wir eine Entscheidung getroffen haben.
+
+  Il mène de front *plusieurs* projets en même temps.
+  Er bearbeitet gleichzeitig *mehrere* Projekte.
+
+  *Plusieurs* mains se sont levées pour répondre à la question.
+  *Mehrere* Hände gingen hoch, um die Frage zu beantworten.
+
+  La chute de *plusieurs* mètres aurait pu être fatale.
+  Der Sturz aus *mehreren* Metern Höhe hätte tödlich sein können.
+
+  *Plusieurs* parmi eux ont refusé l'offre.
+  *Einige* von ihnen haben das Angebot abgelehnt.
+
+  Il s'est écoulé *plusieurs* années depuis notre dernière rencontre.
+  Es sind *mehrere* Jahre seit unserem letzten Treffen vergangen.
+
+  Cette artiste a *plusieurs* cordes à son arc.
+  Diese Künstlerin hat *mehrere* Talente.
+
+  Ils étaient *plusieurs* à vouloir participer au concours.
+  *Mehrere* wollten an dem Wettbewerb teilnehmen.
+
+  Ne courez pas *plusieurs* lièvres à la fois.
+  Verfolgen Sie nicht *mehrere* Ziele gleichzeitig.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

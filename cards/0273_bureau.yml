@@ -9,27 +9,168 @@ Femininum / Plural: bureaux
 IPA: \by.ʁo\
 Definition: Büro; Schreibtisch
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Il veut vous voir dans son bureau immédiatement.\nEr möchte Sie sofort\
-  \ in seinem Büro sehen.\n\nJe travaille dans un bureau.\nIch arbeite in einem Büro.\n\
-  \nViens à mon bureau.\nKomm in mein Büro.\n\nIl est au bureau.\nEr ist im Büro.\n\
-  \nEs-tu encore au bureau?\nBist du noch im Büro?\n\nLe père est dans son bureau.\n\
-  Der Vater ist in seinem Arbeitszimmer.\n\nMon frère est à son bureau.\nMein Bruder\
-  \ ist an seinem Schreibtisch.\n\nPuis-je te voir dans mon bureau ?\nKann ich dich\
-  \ in meinem Büro sprechen?\n\nChaque matin, Pierre va au bureau. \nJeden Morgen\
-  \ geht Pierre ins Büro.\n\nLe bureau des expéditions se trouve au rez-de-chaussée.\
-  \ \nDie Versandabteilung befindet sich im Erdgeschoss. \n\nÀ la fermeture des bureaux,\
-  \ tout le monde est parti. \nNach Dienstschluss ist jeder gegangen. \n\nL'employé\
-  \ de bureau est chargé de répondre au téléphone. \nDie Büroangestellte ist dafür\
-  \ zuständig, ans Telefon zu gehen.\n\nL'immeuble de bureaux est situé au centre-ville.\
-  \ \nDas Bürogebäude liegt im Stadtzentrum.\n\nAu bureau des informations, on peut\
-  \ se renseigner sur les horaires des trains. \nIm Informationsbüro kann man sich\
-  \ über die Zugzeiten informieren. \n\nLe bureau de tri est responsable du tri des\
-  \ lettres. \nDie Sortierstelle ist für das Sortieren der Briefe zuständig. \n\n\
-  Le bureau de location est ouvert tous les jours. \nDie Vorverkaufsstelle ist jeden\
-  \ Tag geöffnet.\n\nAu bureau d'enregistrement des bagages, on peut déposer ses valises.\
-  \ \nAn der Gepäckabfertigungsstelle kann man seine Koffer abgeben.\n\nLe bureau\
-  \ de renseignements peut fournir des informations touristiques. \nDas Auskunftsbüro\
-  \ kann touristische Informationen liefern."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Il veut vous voir dans son *bureau* immédiatement.
+  Er will Sie sofort in seinem *Büro* sehen.
+
+  J'ai acheté un nouveau *bureau* en bois massif.
+  Ich habe einen neuen *Schreibtisch* aus Massivholz gekauft.
+
+  Elle passe toute la journée assise derrière son *bureau*.
+  Sie sitzt den ganzen Tag hinter ihrem *Schreibtisch*.
+
+  Cette entreprise cherche un employé de *bureau* à temps partiel.
+  Diese Firma sucht eine *Büro*kraft in Teilzeit.
+
+  Le *bureau* de vote ouvre à huit heures.
+  Das Wahl*büro* öffnet um acht Uhr.
+
+  Pierre travaille dans un grand immeuble de *bureaux*.
+  Pierre arbeitet in einem großen *Büro*gebäude.
+
+  Le *bureau* des objets trouvés se trouve au rez-de-chaussée.
+  Das Fund*büro* befindet sich im Erdgeschoss.
+
+  As-tu rangé les dossiers dans ton *bureau* ?
+  Hast du die Akten in deinem *Schreibtisch* verstaut?
+
+  Le *bureau* politique du parti se réunit ce soir.
+  Der Partei*vorstand* tritt heute Abend zusammen.
+
+  J'ai placé ce fichier sur le *bureau* de mon ordinateur.
+  Ich habe diese Datei auf den *Desktop* meines Computers gelegt.
+
+  Les *bureaux* ferment à 17 heures le vendredi.
+  Die *Büros* schließen freitags um 17 Uhr.
+
+  Le *bureau* de poste est fermé le dimanche.
+  Das Post*büro* ist sonntags geschlossen.
+
+  Notre *bureau* d'études travaille sur un nouveau projet.
+  Unser Planungs*büro* arbeitet an einem neuen Projekt.
+
+  Il faut passer au *bureau* des renseignements.
+  Sie müssen zum Auskunfts*büro* gehen.
+
+  Le *bureau* de change est ouvert 24 heures sur 24.
+  Das Wechsel*büro* ist rund um die Uhr geöffnet.
+
+  Marie a été élue au *bureau* de l'association.
+  Marie wurde in den Vereins*vorstand* gewählt.
+
+  J'ai déposé mes bagages au *bureau* d'enregistrement.
+  Ich habe mein Gepäck bei der *Gepäckabfertigung* aufgegeben.
+
+  Les membres du *bureau* ont voté à l'unanimité.
+  Die *Vorstands*mitglieder haben einstimmig abgestimmt.
+
+  Le *bureau* des douanes est au terminal 2.
+  Das Zoll*büro* ist in Terminal 2.
+
+  Ce *bureau* antique vaut une fortune.
+  Dieser antike *Schreibtisch* ist ein Vermögen wert.
+
+  Ils ont réaménagé leurs *bureaux* l'année dernière.
+  Sie haben ihre *Büros* letztes Jahr neu eingerichtet.
+
+  Le *bureau* exécutif se réunira lundi prochain.
+  Der Exekutiv*vorstand* wird sich nächsten Montag treffen.
+
+  Il faut faire la queue devant le *bureau* de location.
+  Man muss vor der Vorverkaufs*stelle* Schlange stehen.
+
+  Son *bureau* est toujours parfaitement rangé.
+  Sein *Schreibtisch* ist immer perfekt aufgeräumt.
+
+  Le *bureau* des expéditions ferme dans une heure.
+  Die Versand*abteilung* schließt in einer Stunde.
+
+  On a installé un nouveau *bureau* informatique dans sa chambre.
+  Wir haben einen neuen Computer*schreibtisch* in seinem Zimmer aufgestellt.
+
+  Le *bureau* de tri est débordé pendant les fêtes.
+  Die Sortier*stelle* ist während der Feiertage überlastet.
+
+  Les *bureaux* sont climatisés en été.
+  Die *Büros* sind im Sommer klimatisiert.
+
+  Elle nettoie son *bureau* tous les vendredis soir.
+  Sie putzt ihren *Schreibtisch* jeden Freitagabend.
+
+  Le *bureau* de tabac du coin est très pratique.
+  Der Tabak*laden* an der Ecke ist sehr praktisch.
+
+  La réunion du *bureau* a duré trois heures.
+  Die *Vorstands*sitzung hat drei Stunden gedauert.
+
+  Ils ont déménagé leurs *bureaux* dans un nouveau quartier.
+  Sie haben ihre *Büros* in ein neues Viertel verlegt.
+
+  Le *bureau* de l'avocat est au troisième étage.
+  Das *Büro* des Anwalts ist im dritten Stock.
+
+  J'ai personnalisé le *bureau* de mon ordinateur portable.
+  Ich habe den *Desktop* meines Laptops personalisiert.
+
+  Les *bureaux* sont fermés pendant les jours fériés.
+  Die *Büros* sind an Feiertagen geschlossen.
+
+  Le *bureau* des informations vous renseignera.
+  Das Informations*büro* wird Ihnen Auskunft geben.
+
+  Elle a hérité d'un magnifique *bureau* Louis XV.
+  Sie hat einen wunderschönen Louis-XV-*Schreibtisch* geerbt.
+
+  Le *bureau* de vote se trouve à la mairie.
+  Das Wahl*büro* befindet sich im Rathaus.
+
+  Les membres du *bureau* se réunissent chaque mois.
+  Die *Vorstands*mitglieder treffen sich jeden Monat.
+
+  Le *bureau* de la directrice est au fond du couloir.
+  Das *Büro* der Direktorin ist am Ende des Flurs.
+
+  Il faut passer au *bureau* des bagages avant l'embarquement.
+  Sie müssen vor dem Boarding zur *Gepäckabfertigung* gehen.
+
+  Le *bureau* de poste ouvre à neuf heures.
+  Das Post*büro* öffnet um neun Uhr.
+
+  Mon *bureau* est près de la fenêtre.
+  Mein *Schreibtisch* steht beim Fenster.
+
+  Le *bureau* politique se réunit en urgence.
+  Der *Vorstand* tritt zu einer Dringlichkeitssitzung zusammen.
+
+  Les nouveaux *bureaux* sont plus spacieux.
+  Die neuen *Büros* sind geräumiger.
+
+  Elle range toujours les papiers dans son *bureau*.
+  Sie räumt die Papiere immer in ihrem *Schreibtisch* weg.
+
+  Le *bureau* des douanes contrôle tous les colis.
+  Das Zoll*büro* kontrolliert alle Pakete.
+
+  Les *bureaux* sont équipés d'ordinateurs modernes.
+  Die *Büros* sind mit modernen Computern ausgestattet.
+
+  J'ai perdu mes clés au *bureau* hier soir.
+  Ich habe gestern Abend meine Schlüssel im *Büro* verloren.
+
+  Le *bureau* de change est à côté de la banque.
+  Das Wechsel*büro* ist neben der Bank.
+
+  Le petit *bureau* dans le coin est parfait pour travailler.
+  Der kleine *Schreibtisch* in der Ecke ist perfekt zum Arbeiten.
+
+  Les employés de *bureau* partent à 18 heures.
+  Die *Büro*angestellten gehen um 18 Uhr.
+
+  Le *bureau* des renseignements est au rez-de-chaussée.
+  Das Auskunfts*büro* ist im Erdgeschoss.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

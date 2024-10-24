@@ -13,11 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’erreur administrative a été décelée puis corrigée.
-  Der Verwaltungsfehler wurde entdeckt und anschließend korrigiert.
+  L'erreur administrative a été *décelée* puis corrigée.
+  Der Verwaltungsfehler wurde *entdeckt* und dann korrigiert.
 
-  Il a décelé une erreur dans le rapport.
-  Er hat einen Fehler im Bericht entdeckt.
+  Les chercheurs ont *décelé* une nouvelle particule dans leurs expériences.
+  Die Forscher haben in ihren Experimenten ein neues Teilchen *festgestellt*.
+
+  Le détecteur a *décelé* une fuite de gaz dans la cuisine.
+  Der Detektor hat ein Gasleck in der Küche *aufgedeckt*.
+
+  J'ai *décelé* un peu de tristesse dans son sourire.
+  Ich habe in ihrem Lächeln etwas Traurigkeit *wahrgenommen*.
+
+  Cette lettre *décèle* ses véritables intentions.
+  Dieser Brief lässt seine wahren Absichten *erkennen*.
+
+  Les médecins ont rapidement *décelé* la cause de ses symptômes.
+  Die Ärzte haben die Ursache ihrer Symptome schnell *herausgefunden*.
+
+  Le jury a *décelé* un talent extraordinaire chez cette jeune artiste.
+  Die Jury hat bei dieser jungen Künstlerin ein außergewöhnliches Talent *entdeckt*.
+
+  Les experts ont *décelé* plusieurs fissures dans les fondations du bâtiment.
+  Die Experten haben mehrere Risse im Fundament des Gebäudes *festgestellt*.
+
+  Son comportement étrange *décelait* un profond malaise.
+  Sein seltsames Verhalten ließ ein tiefes Unbehagen *erkennen*.
+
+  Les tests ont *décelé* des traces de pollution dans l'eau.
+  Die Tests haben Spuren von Verschmutzung im Wasser *aufgedeckt*.
+
+  L'inspecteur a *décelé* une contradiction dans son témoignage.
+  Der Inspektor hat einen Widerspruch in seiner Aussage *aufgedeckt*.
+
+  La caméra thermique a *décelé* une présence dans le bâtiment abandonné.
+  Die Wärmekamera hat eine Präsenz im verlassenen Gebäude *wahrgenommen*.
+
+  Nous avons *décelé* plusieurs erreurs dans le rapport.
+  Wir haben mehrere Fehler in dem Bericht *festgestellt*.
+
+  Les archéologues ont *décelé* des traces d'une ancienne civilisation.
+  Die Archäologen haben Spuren einer alten Zivilisation *entdeckt*.
+
+  Sa voix tremblante *décelait* sa nervosité.
+  Seine zitternde Stimme ließ seine Nervosität *erkennen*.
+
+  L'analyse a *décelé* la présence d'anticorps dans son sang.
+  Die Analyse hat das Vorhandensein von Antikörpern in seinem Blut *nachgewiesen*.
+
+  Les enseignants ont rapidement *décelé* ses difficultés en mathématiques.
+  Die Lehrer haben seine Schwierigkeiten in Mathematik schnell *erkannt*.
+
+  Le scanner a *décelé* une anomalie dans le cerveau.
+  Der Scanner hat eine Anomalie im Gehirn *aufgedeckt*.
+
+  On peut facilement *déceler* son accent étranger.
+  Man kann seinen ausländischen Akzent leicht *wahrnehmen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

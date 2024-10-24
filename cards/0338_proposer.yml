@@ -13,26 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le jeune français propose une promenade au parc.
-  Der junge Franzose schlägt einen Spaziergang im Park vor.
+  Le jeune français *propose* une promenade au parc.
+  Der junge Franzose *schlägt* einen Spaziergang im Park *vor*.
 
-  Je vais te proposer une idée.
-  Ich werde dir einen Vorschlag machen.
+  Elle nous a *proposé* son aide pour déménager.
+  Sie hat uns ihre Hilfe beim Umzug *angeboten*.
 
-  Le ministre de l'Environnement a proposé une nouvelle loi pour réduire les émissions de CO2.
-  Der Umweltminister hat eine Gesetzesvorlage zur Reduzierung der CO2-Emissionen eingebracht.
+  Le gouvernement *propose* une nouvelle loi sur l'environnement.
+  Die Regierung *bringt* ein neues Umweltgesetz *ein*.
 
-  Avant de commencer un nouveau projet, il est important de se proposer un but clair.
-  Bevor man ein neues Projekt beginnt, ist es wichtig, sich ein klares Ziel zu setzen.
+  Je me *propose* de finir ce projet avant la fin du mois.
+  Ich habe die *Absicht*, dieses Projekt vor Ende des Monats fertigzustellen.
 
-  Le directeur a proposé Marie pour le poste de responsable du marketing.
-  Der Direktor hat Marie für den Posten der Marketingleiterin vorgeschlagen.
+  L'entreprise *propose* des salaires très compétitifs.
+  Das Unternehmen *bietet* sehr wettbewerbsfähige Gehälter.
 
-  Pierre s'est proposé à sa grand-mère comme chauffeur pour l'emmener au marché.
-  Pierre hat sich seiner Großmutter als Chauffeur angeboten, um sie zum Markt zu fahren.
+  Marie s'est *proposée* comme bénévole pour l'événement.
+  Marie hat sich als Freiwillige für die Veranstaltung *angeboten*.
 
-  Il s'est proposé de faire la vaisselle après le dîner.
-  Er hat die Absicht gehabt, nach dem Abendessen den Abwasch zu machen.
+  Le professeur *propose* trois sujets différents pour l'examen.
+  Der Professor *stellt* drei verschiedene Prüfungsthemen.
+
+  Je vous *propose* de reporter la réunion à la semaine prochaine.
+  Ich *schlage vor*, die Besprechung auf nächste Woche zu verschieben.
+
+  Le vendeur m'a *proposé* un bon prix pour ma voiture.
+  Der Verkäufer hat mir einen guten Preis für mein Auto *angeboten*.
+
+  Ils se sont *proposé* un objectif ambitieux pour cette année.
+  Sie haben sich ein ehrgeiziges Ziel *gesetzt*.
+
+  Le restaurant *propose* un nouveau menu végétarien.
+  Das Restaurant *bietet* eine neue vegetarische Speisekarte.
+
+  Pierre a été *proposé* pour le poste de directeur.
+  Pierre wurde für die Position des Direktors *vorgeschlagen*.
+
+  Je *propose* que nous prenions une pause maintenant.
+  Ich *schlage vor*, dass wir jetzt eine Pause machen.
+
+  L'agence de voyage nous *propose* différentes destinations.
+  Das Reisebüro *bietet* uns verschiedene Reiseziele.
+
+  Elle s'est *proposée* pour garder les enfants ce soir.
+  Sie hat sich *angeboten*, heute Abend auf die Kinder aufzupassen.
+
+  Le comité *propose* des changements dans le règlement.
+  Das Komitee *schlägt* Änderungen in der Regelung *vor*.
+
+  L'architecte nous a *proposé* plusieurs plans pour la maison.
+  Der Architekt hat uns mehrere Pläne für das Haus *vorgelegt*.
+
+  Le cinéma *propose* une rétrospective de films classiques.
+  Das Kino *bietet* eine Retrospektive klassischer Filme.
+
+  Il m'a *proposé* un arrangement à l'amiable.
+  Er hat mir eine gütliche Einigung *vorgeschlagen*.
+
+  Nous nous *proposons* de visiter Paris l'été prochain.
+  Wir haben *vor*, nächsten Sommer Paris zu besuchen.
+
+  Le magasin *propose* des réductions importantes.
+  Das Geschäft *bietet* hohe Rabatte.
+
+  On l'a *proposé* pour la médaille d'honneur.
+  Man hat ihn für die Ehrenmedaille *vorgeschlagen*.
+
+  La banque *propose* différents types de prêts.
+  Die Bank *bietet* verschiedene Arten von Krediten.
+
+  Je me *propose* comme volontaire pour organiser la fête.
+  Ich *biete* mich als Freiwilliger für die Organisation der Feier *an*.
+
+  L'opposition *propose* un amendement à la loi.
+  Die Opposition *bringt* einen Gesetzesänderungsantrag *ein*.
+
+  Le jury a *proposé* trois finalistes pour le concours.
+  Die Jury hat drei Finalisten für den Wettbewerb *vorgeschlagen*.
+
+  Le musée *propose* une nouvelle exposition temporaire.
+  Das Museum *bietet* eine neue Sonderausstellung.
+
+  Il s'est *proposé* comme candidat aux élections.
+  Er hat sich als Kandidat für die Wahlen *zur Verfügung gestellt*.
+
+  Son ami lui a *proposé* un travail intéressant.
+  Sein Freund hat ihm eine interessante Arbeit *angeboten*.
+
+  Les scientifiques *proposent* une nouvelle théorie.
+  Die Wissenschaftler *stellen* eine neue Theorie *vor*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

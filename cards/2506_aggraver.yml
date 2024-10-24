@@ -13,17 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tous ces facteurs aggravent la situation.
-  All diese Faktoren verschlimmern die Situation.
+  Tous ces facteurs *aggravent* la situation.
+  All diese Faktoren *verschlimmern* die Situation.
 
-  La situation s’aggrave de jour en jour.
-  Die Situation verschlimmert sich von Tag zu Tag.
+  Les retards constants ont *aggravé* le mécontentement des clients.
+  Die ständigen Verspätungen haben die Unzufriedenheit der Kunden *verschärft*.
 
-  Cela aggrave ma colère, car je ne comprends pas pourquoi il a agi de la sorte.
-  Das steigert meine Wut, denn ich verstehe nicht, warum er so gehandelt hat.
+  Sa fièvre s'est encore *aggravée* pendant la nuit.
+  Sein Fieber hat sich in der Nacht weiter *verschlimmert*.
 
-  Cela aggrave le mécontentement général de la population envers le gouvernement.
-  Das steigert die Unzufriedenheit der Bevölkerung mit der Regierung.
+  Le manque d'exercice peut *aggraver* les problèmes de santé.
+  Bewegungsmangel kann gesundheitliche Probleme *verschlimmern*.
+
+  Ces nouvelles mesures risquent d'*aggraver* la crise économique.
+  Diese neuen Maßnahmen drohen die Wirtschaftskrise zu *verschärfen*.
+
+  Son état de santé s'*aggrave* de jour en jour.
+  Sein Gesundheitszustand *verschlechtert* sich von Tag zu Tag.
+
+  Ne dis rien qui puisse *aggraver* la situation !
+  Sag nichts, was die Situation *verschlimmern* könnte!
+
+  La pollution continue de s'*aggraver* dans les grandes villes.
+  Die Umweltverschmutzung *nimmt* in den Großstädten weiter *zu*.
+
+  Les tensions entre les deux pays se sont *aggravées*.
+  Die Spannungen zwischen den beiden Ländern haben sich *zugespitzt*.
+
+  Le chômage s'est *aggravé* ces derniers mois.
+  Die Arbeitslosigkeit ist in den letzten Monaten *angestiegen*.
+
+  Cette décision va *aggraver* nos difficultés.
+  Diese Entscheidung wird unsere Schwierigkeiten *vergrößern*.
+
+  Son silence n'a fait qu'*aggraver* la dispute.
+  Sein Schweigen hat den Streit nur *verschlimmert*.
+
+  La sécheresse *aggrave* le risque d'incendies.
+  Die Trockenheit *verschärft* die Brandgefahr.
+
+  Le stress peut *aggraver* les symptômes.
+  Stress kann die Symptome *verschlimmern*.
+
+  Cette remarque a *aggravé* sa colère.
+  Diese Bemerkung hat seine Wut *gesteigert*.
+
+  Les conditions météorologiques s'*aggravent*.
+  Die Wetterbedingungen *verschlechtern* sich.
+
+  Son mensonge n'a fait qu'*aggraver* son cas.
+  Seine Lüge hat seine Lage nur *verschlimmert*.
+
+  Le conflit risque de s'*aggraver* dans les prochains jours.
+  Der Konflikt droht sich in den nächsten Tagen *zuzuspitzen*.
+
+  Ces mesures vont *aggraver* les inégalités sociales.
+  Diese Maßnahmen werden die sozialen Ungleichheiten *verschärfen*.
+
+  La situation financière s'est considérablement *aggravée*.
+  Die finanzielle Situation hat sich erheblich *verschlechtert*.
+
+  Son comportement ne fait qu'*aggraver* les choses.
+  Sein Verhalten macht die Dinge nur *schlimmer*.
+
+  Les conditions de travail se sont *aggravées* depuis la restructuration.
+  Die Arbeitsbedingungen haben sich seit der Umstrukturierung *verschlechtert*.
+
+  Le juge a décidé d'*aggraver* la peine.
+  Der Richter hat beschlossen, das Strafmaß zu *verschärfen*.
+
+  Cette nouvelle loi risque d'*aggraver* les problèmes existants.
+  Dieses neue Gesetz droht die bestehenden Probleme zu *verschärfen*.
+
+  Son état s'est *aggravé* suite à l'accident.
+  Sein Zustand hat sich nach dem Unfall *verschlechtert*.
+
+  Les difficultés économiques continuent de s'*aggraver*.
+  Die wirtschaftlichen Schwierigkeiten *verschärfen* sich weiter.
+
+  La maladie s'est rapidement *aggravée*.
+  Die Krankheit hat sich schnell *verschlimmert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

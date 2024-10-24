@@ -13,17 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La science évolue à une vitesse impressionnante.
-  Die Wissenschaft entwickelt sich mit beeindruckender Geschwindigkeit.
+  La science évolue à une vitesse *impressionnante*.
+  Die Wissenschaft entwickelt sich in einem *beeindruckenden* Tempo.
 
-  Le spectacle était impressionnant.
-  Die Vorstellung war beeindruckend.
+  Le silence qui régnait dans la cathédrale était *impressionnant*.
+  Die Stille in der Kathedrale war *eindrucksvoll*.
 
-  C’est très impressionnant.
-  Das ist sehr beeindruckend.
+  Cette jeune athlète a une force physique *impressionnante*.
+  Diese junge Athletin hat eine *beachtliche* Körperkraft.
 
-  Je pense que c’est très impressionnant.
-  Ich finde das sehr beeindruckend.
+  Les résultats de leurs recherches sont vraiment *impressionnants*.
+  Die Ergebnisse ihrer Forschung sind wirklich *beeindruckend*.
+
+  Il a accumulé une somme *impressionnante* d'expérience dans ce domaine.
+  Er hat eine *beträchtliche* Menge an Erfahrung in diesem Bereich gesammelt.
+
+  La vue depuis le sommet de la montagne était *impressionnante*.
+  Die Aussicht vom Berggipfel war *eindrucksvoll*.
+
+  Ces statistiques montrent une série *impressionnante* de succès.
+  Diese Statistiken zeigen eine *beeindruckende* Erfolgsserie.
+
+  Le nombre de participants à la manifestation était *impressionnant*.
+  Die Anzahl der Demonstrationsteilnehmer war *beachtlich*.
+
+  Cette artiste a créé une œuvre particulièrement *impressionnante*.
+  Diese Künstlerin hat ein besonders *eindrucksvolles* Werk geschaffen.
+
+  Son discours était *impressionnant* de sincérité.
+  Seine Rede war von *beeindruckender* Aufrichtigkeit.
+
+  L'équipe a réalisé une performance *impressionnante* hier soir.
+  Das Team hat gestern Abend eine *eindrucksvolle* Leistung erbracht.
+
+  Les dimensions de ce nouveau bâtiment sont vraiment *impressionnantes*.
+  Die Ausmaße dieses neuen Gebäudes sind wirklich *beachtlich*.
+
+  Elle utilise toujours des arguments *impressionnants* dans ses débats.
+  Sie verwendet in ihren Debatten stets *beeindruckende* Argumente.
+
+  Le spectacle de la nature était *impressionnant* après l'orage.
+  Das Naturschauspiel war nach dem Gewitter *eindrucksvoll*.
+
+  Cette expérience scientifique a donné des résultats *impressionnants*.
+  Dieses wissenschaftliche Experiment hat *beträchtliche* Ergebnisse geliefert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,38 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est un gars très intelligent.
-  Er ist ein sehr intelligenter Typ.
+  C'est un gars très *intelligent*.
+  Er ist ein sehr *intelligenter* Typ.
 
-  Il est très intelligent.
-  Er ist sehr klug.
+  L'*intelligence* artificielle peut-elle devenir plus *intelligente* que l'homme ?
+  Kann künstliche *Intelligenz* *intelligenter* werden als der Mensch?
 
-  Je sais que tu es intelligent.
-  Ich weiß, dass du intelligent bist.
+  Cette jeune fille est remarquablement *intelligente* en mathématiques.
+  Dieses junge Mädchen ist bemerkenswert *intelligent* in Mathematik.
 
-  Il est très intelligent pour un garçon de dix ans.
-  Er ist für einen zehnjährigen Jungen sehr intelligent.
+  Son chien est si *intelligent* qu'il comprend tout ce qu'elle dit.
+  Ihr Hund ist so *intelligent*, dass er alles versteht, was sie sagt.
 
-  Pierre est foncièrement intelligent, mais il a du mal à s'exprimer.
-  Pierre ist grundgescheit, aber er hat Schwierigkeiten, sich auszudrücken.
+  Elle a un regard *intelligent* qui inspire confiance.
+  Sie hat einen *intelligenten* Blick, der Vertrauen erweckt.
 
-  Le plan le plus intelligent est de partir avant l'aube.
-  Der allerklügste Plan ist, vor der Morgendämmerung zu verschwinden.
+  Ce n'était pas très *intelligent* de sortir sans parapluie.
+  Es war nicht sehr *intelligent*, ohne Regenschirm rauszugehen.
 
-  La réponse la plus intelligente à la question est de rester silencieux.
-  Die allerklügste Antwort auf die Frage ist, still zu bleiben.
+  Les dauphins sont des animaux particulièrement *intelligents*.
+  Delfine sind besonders *intelligente* Tiere.
 
-  Elle est la plus intelligente de la classe.
-  Sie ist die Klügste in der Klasse.
+  La maison *intelligente* régule automatiquement la température.
+  Das *intelligente* Haus regelt die Temperatur automatisch.
 
-  C'est le plus intelligent de ne pas trop en parler.
-  Das ist das Allerklügste, nicht zu viel darüber zu reden.
+  Il a fait une remarque très *intelligente* pendant la réunion.
+  Er hat während der Besprechung eine sehr *intelligente* Bemerkung gemacht.
 
-  Le plus intelligent, c'est de ne pas se laisser provoquer.
-  Am allerklügsten ist es, sich nicht provozieren zu lassen.
+  "Tu trouves ça *intelligent* de répondre ainsi à ton professeur ?"
+  "Findest du das *intelligent*, deinem Lehrer so zu antworten?"
 
-  C'est intelligent ! Tu as trouvé la solution !
-  Das ist intelligent! Du hast die Lösung gefunden!
+  Marie est la plus *intelligente* de sa classe.
+  Marie ist die *Intelligenteste* in ihrer Klasse.
+
+  Il s'est montré *intelligent* dans la façon de gérer cette crise.
+  Er hat sich bei der Bewältigung dieser Krise *intelligent* gezeigt.
+
+  L'être humain est-il la seule créature *intelligente* sur Terre ?
+  Ist der Mensch das einzige *intelligente* Wesen auf der Erde?
+
+  Votre solution est foncièrement *intelligente*.
+  Ihre Lösung ist grund*gescheit*.
+
+  La réponse la plus *intelligente* serait de garder le silence.
+  Die *klügste* Antwort wäre es, zu schweigen.
+
+  Les robots *intelligents* facilitent le travail à l'usine.
+  *Intelligente* Roboter erleichtern die Arbeit in der Fabrik.
+
+  Je cherche une occupation *intelligente* pour mes vacances.
+  Ich suche eine *intelligente* Beschäftigung für meinen Urlaub.
+
+  Son livre propose une analyse *intelligente* de la situation.
+  Sein Buch bietet eine *intelligente* Analyse der Situation.
+
+  Elle n'est pas très *intelligente* dans ses choix vestimentaires.
+  Sie ist nicht sehr *intelligent* bei ihrer Kleiderwahl.
+
+  Les élèves *intelligents* ne sont pas toujours les plus studieux.
+  *Intelligente* Schüler sind nicht immer die fleißigsten.
+
+  Le plan le plus *intelligent* serait d'attendre le bon moment.
+  Der *klügste* Plan wäre es, den richtigen Moment abzuwarten.
+
+  Cette voiture *intelligente* peut se garer toute seule.
+  Dieses *intelligente* Auto kann von selbst einparken.
+
+  Mon chat est très *intelligent* : il ouvre les portes tout seul.
+  Meine Katze ist sehr *intelligent*: Sie öffnet die Türen ganz allein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

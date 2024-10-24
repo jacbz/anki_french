@@ -13,41 +13,158 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous sommes quatre étudiants dans la maison.
-  Wir sind vier Schülerinnen und Schüler im Haus.
+  Nous sommes *quatre* étudiants dans la maison.
+  Wir sind *vier* Studierende in dem Haus.
 
-  Je vois quatre chats dans le jardin.
-  Ich sehe vier Katzen im Garten.
+  Elle aura *quatre* ans le mois prochain.
+  Sie wird nächsten Monat *vier* Jahre alt.
 
-  Nous sommes une famille de quatre.
-  Wir sind eine vierköpfige Familie.
+  Mon petit frère est un enfant de *quatre* ans.
+  Mein kleiner Bruder ist ein *Vier*jähriger.
 
-  Ils ont quatre cours le matin.
-  Sie haben vier Unterrichtsstunden am Vormittag.
+  Cette période de *quatre* ans a changé ma vie.
+  Dieser Zeitraum von *vier* Jahren hat mein Leben verändert.
 
-  Mon fils aura bientôt quatre ans.
-  Mein Sohn wird bald vier Jahre alt sein.
+  Il est *quatre* heures, je dois partir.
+  Es ist *vier* Uhr, ich muss gehen.
 
-  Il est quatre heures du matin, je suis déjà réveillé.
-  Es ist vier Uhr morgens, ich bin schon wach.
+  Le rendez-vous est fixé pour le *quatre* mars.
+  Der Termin ist für den *vierten* März angesetzt.
 
-  Le quatrième mars, nous fêtons l'anniversaire de mon grand-père.
-  Am vierten März feiern wir den Geburtstag meines Großvaters.
+  Dans la course, elle est arrivée *quatre*ième.
+  Im Rennen kam sie als *Vierte*.
 
-  Elle est arrivée quatrième à la course, juste derrière son frère.
-  Sie ist als Vierte im Rennen angekommen, direkt hinter ihrem Bruder.
+  *Henri quatre* était un grand roi de France.
+  *Heinrich der Vierte* war ein großer König von Frankreich.
 
-  Henri IV était un roi français célèbre.
-  Heinrich der Vierte war ein berühmter französischer König.
+  "Elle se *met en quatre* pour ses enfants."
+  "Sie *zerreißt* sich förmlich für ihre Kinder."
 
-  Nous avons loué un voilier sans barreur pour naviguer en famille.
-  Wir haben ein Segelboot ohne Steuermann gemietet, um mit der Familie zu segeln.
+  Il monte l'escalier *quatre à quatre* pour attraper le train.
+  Er stürzt die Treppe hinauf, um den Zug zu erwischen.
 
-  L'enfant de quatre ans joue avec des blocs en bois.
-  Das vierjährige Kind spielt mit Holzklötzen.
+  "Il mange comme *quatre* au petit-déjeuner !"
+  "Er isst beim Frühstück *für zwei*!"
 
-  Cette étude a porté sur une période de quatre ans.
-  Diese Studie erstreckte sich über einen Zeitraum von vier Jahren.
+  "On se verra un de ces *quatre*."
+  "Wir sehen uns *demnächst*."
+
+  J'ai tiré un *quatre* aux dés.
+  Ich habe eine *Vier* gewürfelt.
+
+  Le bus numéro *quatre* passe toutes les dix minutes.
+  Die Linie *vier* fährt alle zehn Minuten.
+
+  En maths, il a eu *quatre* sur vingt.
+  In Mathe hat er eine *Sechs* bekommen.
+
+  L'équipe s'entraîne dans un *quatre* sans barreur.
+  Die Mannschaft trainiert in einem *Vierer* ohne Steuermann.
+
+  La chambre *quatre* est au bout du couloir.
+  Zimmer *vier* ist am Ende des Flurs.
+
+  Les *quatre* saisons de Vivaldi sont magnifiques.
+  Vivaldis *vier* Jahreszeiten sind wunderschön.
+
+  Je l'ai vu il y a *quatre* jours.
+  Ich habe ihn vor *vier* Tagen gesehen.
+
+  "Je me *mets en quatre* pour finir ce projet à temps."
+  "Ich *zerreiße* mich förmlich, um dieses Projekt rechtzeitig fertigzustellen."
+
+  Ils ont descendu les escaliers *quatre à quatre* pour sortir.
+  Sie sind die Treppe hinuntergestürzt, um rauszukommen.
+
+  Le *quatre* de cœur manque dans ce jeu de cartes.
+  Die Herz-*Vier* fehlt in diesem Kartenspiel.
+
+  J'habite au numéro *quatre* de cette rue.
+  Ich wohne in der Hausnummer *vier* dieser Straße.
+
+  Les *quatre* points cardinaux sont le nord, le sud, l'est et l'ouest.
+  Die *vier* Himmelsrichtungen sind Nord, Süd, Ost und West.
+
+  Nous avons gagné *quatre* matchs d'affilée.
+  Wir haben *vier* Spiele hintereinander gewonnen.
+
+  Il y a *quatre* personnes par équipe dans ce jeu.
+  Es gibt *vier* Personen pro Team in diesem Spiel.
+
+  La réunion commence dans *quatre* minutes.
+  Die Besprechung beginnt in *vier* Minuten.
+
+  Ces *quatre* livres sont mes préférés.
+  Diese *vier* Bücher sind meine Lieblingsbücher.
+
+  Elle a *quatre* chats à la maison.
+  Sie hat *vier* Katzen zu Hause.
+
+  Les *quatre* roues de ma voiture sont neuves.
+  Die *vier* Reifen meines Autos sind neu.
+
+  J'ai acheté *quatre* croissants ce matin.
+  Ich habe heute Morgen *vier* Croissants gekauft.
+
+  Il reste *quatre* jours avant les vacances.
+  Es sind noch *vier* Tage bis zu den Ferien.
+
+  Nous avons passé *quatre* heures au musée.
+  Wir haben *vier* Stunden im Museum verbracht.
+
+  Le restaurant ouvre à *quatre* heures de l'après-midi.
+  Das Restaurant öffnet um *vier* Uhr nachmittags.
+
+  Les *quatre* coins de la place étaient bondés.
+  Die *vier* Ecken des Platzes waren überfüllt.
+
+  Elle a obtenu *quatre* diplômes différents.
+  Sie hat *vier* verschiedene Abschlüsse gemacht.
+
+  Les *quatre* murs de la pièce sont blancs.
+  Die *vier* Wände des Raumes sind weiß.
+
+  J'ai *quatre* rendez-vous aujourd'hui.
+  Ich habe heute *vier* Termine.
+
+  "Il boit comme *quatre* à chaque fête."
+  "Er trinkt bei jedem Fest *sehr viel*."
+
+  La table *quatre* est réservée pour ce soir.
+  Tisch *vier* ist für heute Abend reserviert.
+
+  Tournez page *quatre* du livre.
+  Schlagen Sie Seite *vier* des Buches auf.
+
+  Il ne me reste que *quatre* euros.
+  Ich habe nur noch *vier* Euro übrig.
+
+  Les *quatre* musiciens jouent ensemble depuis longtemps.
+  Die *vier* Musiker spielen seit langem zusammen.
+
+  On se retrouve dans *quatre* semaines.
+  Wir sehen uns in *vier* Wochen wieder.
+
+  Elle habite au *quatre*ième étage.
+  Sie wohnt im *vierten* Stock.
+
+  La chaîne *quatre* diffuse un bon film ce soir.
+  Das *vierte* Programm zeigt heute Abend einen guten Film.
+
+  Nous avons marché pendant *quatre* heures.
+  Wir sind *vier* Stunden gewandert.
+
+  Les *quatre* enfants jouent dans le jardin.
+  Die *vier* Kinder spielen im Garten.
+
+  Il y a *quatre* œufs dans le frigo.
+  Es sind *vier* Eier im Kühlschrank.
+
+  Il travaille *quatre* jours par semaine.
+  Er arbeitet *vier* Tage pro Woche.
+
+  Je prendrai *quatre* billets pour le concert.
+  Ich nehme *vier* Karten für das Konzert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

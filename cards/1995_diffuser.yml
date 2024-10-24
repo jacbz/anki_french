@@ -13,17 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nos stations diffusent une émission quotidienne.
-  Unsere Sender strahlen täglich eine Sendung aus.
+  Nos stations *diffusent* une émission quotidienne.
+  Unsere Sender *übertragen* eine tägliche Sendung.
 
-  La radio diffuse de la musique.
-  Das Radio spielt Musik aus.
+  La chaleur du feu se *diffusait* lentement dans la pièce.
+  Die Wärme des Feuers *verbreitete* sich langsam im Raum.
 
-  Le fabricant a diffusé son nouveau produit pour la première fois lors d'une grande conférence.
-  Der Hersteller hat sein neues Produkt zum ersten Mal auf einer großen Konferenz vorgestellt.
+  Cette radio locale *diffuse* les dernières nouvelles toutes les heures.
+  Dieser lokale Sender *sendet* stündlich die neuesten Nachrichten.
 
-  Le chef a diffusé la nouvelle de son départ à ses employés.
-  Der Chef hat seinen Mitarbeitern die Nachricht von seinem Abschied weitergegeben.
+  Une douce lumière se *diffusait* à travers les rideaux.
+  Ein sanftes Licht *verbreitete* sich durch die Vorhänge.
+
+  Les manifestants ont *diffusé* des tracts dans toute la ville.
+  Die Demonstranten haben Flugblätter in der ganzen Stadt *verteilt*.
+
+  Cette maison d'édition *diffuse* des livres dans toute l'Europe.
+  Dieser Verlag *vertreibt* Bücher in ganz Europa.
+
+  Le concert sera *diffusé* en direct ce soir.
+  Das Konzert wird heute Abend live *übertragen*.
+
+  L'odeur du café frais se *diffusait* dans toute la maison.
+  Der Duft des frischen Kaffees *verbreitete* sich im ganzen Haus.
+
+  Les réseaux sociaux ont *diffusé* rapidement cette information.
+  Die sozialen Medien haben diese Information schnell *verbreitet*.
+
+  La lampe *diffusait* une lumière tamisée dans le salon.
+  Die Lampe *verbreitete* gedämpftes Licht im Wohnzimmer.
+
+  Le journal est *diffusé* à plus de 100.000 exemplaires.
+  Die Zeitung wird in mehr als 100.000 Exemplaren *vertrieben*.
+
+  Cette chaîne de télévision *diffuse* des films 24 heures sur 24.
+  Dieser Fernsehsender *sendet* rund um die Uhr Filme.
+
+  Les rumeurs se sont *diffusées* très rapidement dans l'école.
+  Die Gerüchte haben sich in der Schule sehr schnell *verbreitet*.
+
+  Le radiateur *diffusait* une chaleur agréable dans la chambre.
+  Die Heizung *verbreitete* eine angenehme Wärme im Zimmer.
+
+  Ils vont *diffuser* leur podcast sur toutes les plateformes.
+  Sie werden ihren Podcast auf allen Plattformen *verbreiten*.
+
+  Le parfum s'est *diffusé* doucement dans l'air.
+  Der Duft hat sich sanft in der Luft *verbreitet*.
+
+  L'entreprise *diffuse* régulièrement des newsletters à ses clients.
+  Das Unternehmen *verteilt* regelmäßig Newsletter an seine Kunden.
+
+  La musique se *diffusait* à travers les haut-parleurs.
+  Die Musik *verbreitete* sich durch die Lautsprecher.
+
+  L'interview sera *diffusée* demain matin à la radio.
+  Das Interview wird morgen früh im Radio *gesendet*.
+
+  Ces idées se sont rapidement *diffusées* dans la société.
+  Diese Ideen haben sich schnell in der Gesellschaft *verbreitet*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

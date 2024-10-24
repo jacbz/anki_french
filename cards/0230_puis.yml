@@ -9,14 +9,69 @@ Femininum / Plural: ''
 IPA: \pɥi\
 Definition: dann
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Elle a tenté de me tuer, puis elle m’a chassée.\nSie hat versucht,\
-  \ mich zu töten, und mich dann weggejagt.\n\nJe suis arrivé en retard, puis j’ai\
-  \ dû attendre.\nIch kam zu spät und musste dann warten.\n\n\"Et puis quoi encore!?\"\
-  \ a-t-elle lancé, l'air défiant, \"Je ne vois pas ce qu'il y a de plus à dire!\"\
-  \ \n\"Ja, was denn noch!\", rief sie herausfordernd, \"Ich sehe nicht, was man noch\
-  \ sagen könnte!\"\n\n\"Et puis quoi encore!?\" a-t-il rétorqué, l'air exaspéré,\
-  \ \"C'est pourtant bien évident!\"\n\"Ja, was denn noch!\" konterte er genervt,\
-  \ \"Das ist doch offensichtlich!\""
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Elle a tenté de me tuer, *puis* elle m'a chassée.
+  Sie hat versucht, mich zu töten, und *dann* hat sie mich verjagt.
+
+  Il leur a parlé pendant une heure, *puis* il est parti sans dire au revoir.
+  Er hat eine Stunde mit ihnen geredet, und *dann* ist er ohne ein Wort gegangen.
+
+  "Et *puis* après, si je suis en retard ?"
+  "Na *und*, wenn ich zu spät komme?"
+
+  On va d'abord à Paris, *puis* à Londres, et enfin à Berlin.
+  Wir fahren zuerst nach Paris, *dann* nach London und schließlich nach Berlin.
+
+  Elle a préparé le repas, *puis* elle a mis la table.
+  Sie hat das Essen zubereitet und *dann* den Tisch gedeckt.
+
+  "Et *puis* quoi encore !? Tu veux que je fasse tout le travail ?"
+  "Was *denn* noch alles!? Willst du, dass ich die ganze Arbeit mache?"
+
+  J'ai lu le livre, et *puis* je l'ai prêté à Marie.
+  Ich habe das Buch gelesen und es *dann* Marie geliehen.
+
+  Il y avait Pierre, Jean, et *puis* Sophie qui est arrivée en dernier.
+  Da waren Pierre, Jean und *dann* kam Sophie als Letzte.
+
+  Je n'aime pas ce film, et *puis* il est trop long.
+  Ich mag diesen Film nicht, und *außerdem* ist er zu lang.
+
+  Le guide nous a montré le musée, *puis* le jardin botanique.
+  Der Führer hat uns das Museum gezeigt und *dann* den botanischen Garten.
+
+  Ajoutez le sel, *puis* le poivre selon votre goût.
+  Fügen Sie das Salz hinzu, *dann* den Pfeffer nach Geschmack.
+
+  Elle est devenue pâle, *puis* rouge de colère.
+  Sie wurde blass und *dann* rot vor Wut.
+
+  "Et *puis*, qu'est-ce que tu en penses ?"
+  "Und was denkst du *dann* darüber?"
+
+  Je vais faire mes devoirs, *puis* je pourrai jouer.
+  Ich werde meine Hausaufgaben machen und *dann* kann ich spielen.
+
+  Il a hésité, *puis* il a accepté l'offre.
+  Er zögerte und nahm *dann* das Angebot an.
+
+  D'abord la théorie, *puis* la pratique.
+  Erst die Theorie, *dann* die Praxis.
+
+  "Je ne peux pas venir, et *puis* c'est tout !"
+  "Ich kann nicht kommen, und damit *basta*!"
+
+  On traverse la rivière, *puis* on tourne à droite.
+  Man überquert den Fluss und biegt *dann* rechts ab.
+
+  Nous visiterons la cathédrale, *puis* nous irons déjeuner.
+  Wir werden die Kathedrale besichtigen und *danach* essen gehen.
+
+  Elle m'a regardé, *puis* elle a souri.
+  Sie hat mich angesehen und *dann* gelächelt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai surtout besoin d’argent.
-  Ich brauche vor allem Geld.
+  J'ai *surtout* besoin d'argent.
+  Ich brauche *vor allem* Geld.
 
-  Surtout, ne fais pas ça!
-  Vor allem, mach das nicht!
+  "*Surtout* pas maintenant !" s'est-il exclamé avec impatience.
+  "*Bloß* nicht jetzt!" rief er ungeduldig aus.
 
-  J'ai peur de lui, surtout qu'il est si fort et qu'il pourrait me faire du mal.
-  Ich habe Angst vor ihm, besonders, wo er doch so stark ist und mir etwas antun könnte.
+  Elle aime *surtout* lire des romans d'aventure.
+  Sie liest *besonders* gerne Abenteuerromane.
 
-  Surtout pas, je ne veux pas y aller.
-  Auf keinen Fall, ich möchte dort nicht hingehen.
+  Ne dis *surtout* rien à personne !
+  Sag es *bloß* niemandem!
+
+  J'ai peur de lui, *surtout* qu'il est très agressif.
+  Ich habe Angst vor ihm, *besonders* weil er so aggressiv ist.
+
+  Il y avait *surtout* des étudiants à cette manifestation.
+  Bei dieser Demonstration waren *hauptsächlich* Studenten.
+
+  *Surtout*, n'oublie pas de prendre tes médicaments.
+  Vergiss *vor allem* nicht, deine Medikamente zu nehmen.
+
+  Cette région est connue *surtout* pour ses vins.
+  Diese Region ist *vor allem* für ihre Weine bekannt.
+
+  Je me souviens *surtout* des bons moments passés ensemble.
+  Ich erinnere mich *besonders* an die schönen gemeinsamen Momente.
+
+  Les enfants adorent *surtout* jouer dans le jardin.
+  Die Kinder spielen *am liebsten* im Garten.
+
+  Ce plat contient *surtout* des légumes frais.
+  Dieses Gericht enthält *hauptsächlich* frisches Gemüse.
+
+  Elle travaille *surtout* le soir.
+  Sie arbeitet *vor allem* abends.
+
+  "*Surtout*, ne fais pas la même erreur que moi," m'a-t-il conseillé.
+  "*Vor allem* mach nicht denselben Fehler wie ich", riet er mir.
+
+  Je voyage *surtout* en été.
+  Ich reise *hauptsächlich* im Sommer.
+
+  Ce qui m'inquiète *surtout*, c'est son silence.
+  Was mich *besonders* beunruhigt, ist sein Schweigen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,26 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je n’ai plus de mémoire immédiate.
-  Ich habe kein unmittelbares Gedächtnis mehr.
+  Je n'ai plus de mémoire *immédiate*.
+  Ich habe kein *unmittelbares* Gedächtnis mehr.
 
-  Je veux une réponse immédiate.
-  Ich möchte eine unmittelbare Antwort.
+  Ces événements auront des conséquences *immédiates* sur notre économie.
+  Diese Ereignisse werden *unmittelbare* Folgen für unsere Wirtschaft haben.
 
-  L’effet fut immédiat.
-  Die Wirkung trat sofort ein.
+  La douleur a disparu grâce à l'effet *immédiat* du médicament.
+  Der Schmerz verschwand durch die *sofortige* Wirkung des Medikaments.
 
-  Leur grand-père maternel fait partie de la parenté immédiate.
-  Ihr Großvater mütterlicherseits gehört zur nächsten Verwandtschaft.
+  Dans mon *immédiat* voisinage habite une famille très sympathique.
+  In meiner *direkten* Nachbarschaft wohnt eine sehr nette Familie.
 
-  Dans l'immédiat, il n'y a pas de solution facile.
-  Im Augenblick gibt es keine einfache Lösung.
+  Paul est son collaborateur *immédiat*.
+  Paul ist sein *direkter* Mitarbeiter.
 
-  Les autorités ont pris des mesures immédiates pour empêcher la propagation du virus.
-  Die Behörden haben Sofortmaßnahmen ergriffen, um die Ausbreitung des Virus zu verhindern.
+  Dans l'*immédiat*, nous ne pouvons rien faire.
+  Im *Moment* können wir nichts tun.
 
-  La ville de Constance était une ville sous l'autorité immédiate de l'Empire.
-  Die Stadt Konstanz war eine reichsunmittelbare Stadt.
+  La mort a été *immédiate*.
+  Der Tod trat *sofort* ein.
+
+  J'ai eu une intuition *immédiate* de la vérité.
+  Ich hatte eine *unmittelbare* Intuition der Wahrheit.
+
+  Son supérieur *immédiat* lui a donné une promotion.
+  Sein *direkter* Vorgesetzter hat ihm eine Beförderung gegeben.
+
+  La situation nécessite une intervention *immédiate*.
+  Die Situation erfordert ein *sofortiges* Eingreifen.
+
+  Marie fait partie de ma parenté *immédiate*.
+  Marie gehört zu meiner *direkten* Verwandtschaft.
+
+  L'*immédiat* après-guerre a été une période difficile.
+  Die *unmittelbare* Nachkriegszeit war eine schwierige Phase.
+
+  Je vous demande une réponse *immédiate*.
+  Ich bitte Sie um eine *sofortige* Antwort.
+
+  Les causes *immédiates* de l'accident sont encore inconnues.
+  Die *unmittelbaren* Ursachen des Unfalls sind noch unbekannt.
+
+  Cette décision aura un impact *immédiat* sur nos vies.
+  Diese Entscheidung wird eine *unmittelbare* Auswirkung auf unser Leben haben.
+
+  Pour l'*immédiat*, nous devons rester prudents.
+  Für den *Moment* müssen wir vorsichtig bleiben.
+
+  Le soulagement a été *immédiat*.
+  Die Erleichterung war *unmittelbar*.
+
+  L'embarquement *immédiat* a été annoncé.
+  Das *sofortige* Boarding wurde angekündigt.
+
+  Son prédécesseur *immédiat* a quitté l'entreprise il y a trois mois.
+  Sein *direkter* Vorgänger hat das Unternehmen vor drei Monaten verlassen.
+
+  Nous avons pris des mesures *immédiates* pour résoudre le problème.
+  Wir haben *sofortige* Maßnahmen ergriffen, um das Problem zu lösen.
+
+  Cette ville se trouve à proximité *immédiate* de la frontière.
+  Diese Stadt liegt in *unmittelbarer* Nähe zur Grenze.
+
+  L'effet *immédiat* de cette loi sera visible dès demain.
+  Die *unmittelbare* Wirkung dieses Gesetzes wird schon morgen sichtbar sein.
+
+  La réaction *immédiate* du public a été positive.
+  Die *spontane* Reaktion des Publikums war positiv.
+
+  Dans son avenir *immédiat*, elle prévoit de déménager.
+  In ihrer *unmittelbaren* Zukunft plant sie umzuziehen.
+
+  L'analyse *immédiate* de l'échantillon a révélé sa composition.
+  Die *direkte* Analyse der Probe hat ihre Zusammensetzung gezeigt.
+
+  Le contact *immédiat* avec les patients est important pour un médecin.
+  Der *direkte* Kontakt mit den Patienten ist wichtig für einen Arzt.
+
+  Un danger *immédiat* menace notre environnement.
+  Eine *unmittelbare* Gefahr bedroht unsere Umwelt.
+
+  Cette question exige une attention *immédiate*.
+  Diese Frage erfordert *sofortige* Aufmerksamkeit.
+
+  Il y a eu une contagion *immédiate* dans toute la classe.
+  Es gab eine *direkte* Ansteckung in der ganzen Klasse.
+
+  Le successeur *immédiat* du roi était son fils aîné.
+  Der *direkte* Nachfolger des Königs war sein ältester Sohn.
+
+  L'historien a écrit sur l'histoire *immédiate* de la révolution.
+  Der Historiker schrieb über die *unmittelbare* Geschichte der Revolution.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

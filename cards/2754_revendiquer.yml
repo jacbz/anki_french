@@ -13,26 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’attentat n’a pas été revendiqué.
-  Zu dem Anschlag bekannte sich niemand.
+  L'attentat n'a pas été *revendiqué*.
+  Niemand hat sich zu dem Anschlag *bekannt*.
 
-  Les travailleurs revendiquent une augmentation de salaire.
-  Die Arbeiter fordern eine Gehaltserhöhung.
+  Les syndicats *revendiquent* une augmentation des salaires de 5%.
+  Die Gewerkschaften *fordern* eine Lohnerhöhung von 5%.
 
-  La direction a revendiqué le maintien de tous les emplois, malgré les difficultés économiques que traverse l'entreprise.
-  Die Geschäftsleitung hat die Weiterbeschäftigung aller Mitarbeiter gefordert, trotz der wirtschaftlichen Schwierigkeiten, in denen sich das Unternehmen befindet.
+  Elle *revendique* le droit de voir ses enfants.
+  Sie *erhebt Anspruch* auf das Recht, ihre Kinder zu sehen.
 
-  Il a revendiqué la paternité de l'enfant, malgré les doutes de la mère.
-  Er hat Anspruch auf die Vaterschaft des Kindes erhoben, trotz der Zweifel der Mutter.
+  Je *revendique* ma part de l'héritage familial.
+  Ich *fordere* meinen Anteil am Familienerbe *ein*.
 
-  Le groupe terroriste a revendiqué un attentat contre le gouvernement.
-  Der Terroristengruppe hat sich zu einem Attentat gegen die Regierung bekannt.
+  Il a *revendiqué* la paternité de l'enfant.
+  Er hat die Vaterschaft für das Kind *beansprucht*.
 
-  Le vol de la banque a été revendiqué par le groupe de gangsters.
-  Der Banküberfall wurde von der Gangstergruppe bekannt.
+  Marie *revendique* fièrement ses origines italiennes.
+  Marie *bekennt* sich stolz zu ihren italienischen Wurzeln.
 
-  L'attentat a été revendiqué par la Mafia.
-  Die Mafia hat sich zu dem Anschlag bekannt.
+  Le groupe terroriste a *revendiqué* l'enlèvement du journaliste.
+  Die terroristische Gruppe hat sich zu der Entführung des Journalisten *bekannt*.
+
+  Les employés *revendiquent* de meilleures conditions de travail.
+  Die Angestellten *fordern* bessere Arbeitsbedingungen.
+
+  Il *revendique* la responsabilité de cette décision controversée.
+  Er *übernimmt* die Verantwortung für diese umstrittene Entscheidung.
+
+  Cette région autonome *revendique* son indépendance depuis des années.
+  Diese autonome Region *erhebt* seit Jahren *Anspruch* auf ihre Unabhängigkeit.
+
+  Les artistes *revendiquent* plus de soutien financier de l'État.
+  Die Künstler *fordern* mehr finanzielle Unterstützung vom Staat.
+
+  Elle se *revendique* comme féministe engagée.
+  Sie *bekennt* sich als engagierte Feministin.
+
+  Les manifestants *revendiquent* le maintien des services publics.
+  Die Demonstranten *fordern* die Aufrechterhaltung der öffentlichen Dienste.
+
+  La famille *revendique* la propriété de ce tableau ancien.
+  Die Familie *erhebt Anspruch* auf den Besitz dieses alten Gemäldes.
+
+  Les étudiants *revendiquent* plus de places en résidence universitaire.
+  Die Studenten *fordern* mehr Plätze in Studentenwohnheimen.
+
+  L'écrivain *revendique* l'influence de Voltaire sur son œuvre.
+  Der Schriftsteller *bekennt* sich zum Einfluss Voltaires auf sein Werk.
+
+  Les habitants *revendiquent* un meilleur accès aux transports publics.
+  Die Einwohner *fordern* einen besseren Zugang zu öffentlichen Verkehrsmitteln.
+
+  Il *revendique* son droit à la liberté d'expression.
+  Er *pocht* auf sein Recht auf freie Meinungsäußerung.
+
+  L'association *revendique* la protection de cette espèce menacée.
+  Der Verein *setzt* sich für den Schutz dieser bedrohten Art *ein*.
+
+  Les victimes *revendiquent* une indemnisation équitable.
+  Die Opfer *fordern* eine angemessene Entschädigung.
+
+  Elle *revendique* son statut d'artiste indépendante.
+  Sie *besteht* auf ihrem Status als unabhängige Künstlerin.
+
+  Le mouvement se *revendique* du pacifisme.
+  Die Bewegung *bekennt* sich zum Pazifismus.
+
+  Les paysans *revendiquent* des prix plus justes pour leurs produits.
+  Die Bauern *fordern* gerechtere Preise für ihre Produkte.
+
+  L'auteur *revendique* la paternité de cette théorie.
+  Der Autor *erhebt Anspruch* auf die Urheberschaft dieser Theorie.
+
+  Le parti politique *revendique* sa victoire aux élections.
+  Die politische Partei *beansprucht* ihren Wahlsieg.
+
+  Les minorités *revendiquent* une meilleure représentation.
+  Die Minderheiten *fordern* eine bessere Vertretung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

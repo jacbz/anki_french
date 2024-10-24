@@ -13,20 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La séquence s’intitulera « cinq minutes pour survivre ».
-  Die Sequenz wird den Titel „Fünf Minuten zum Überleben“ tragen.
+  La séquence *s'intitulera* « cinq minutes pour survivre ».
+  Die Sequenz wird den *Titel* „Fünf Minuten zum Überleben" tragen.
 
-  Le livre est intitulé « Le Petit Prince ».
-  Das Buch hat den Titel „Der kleine Prinz“.
+  Comment *intituler* votre prochain article ?
+  Welchen *Titel* werden Sie Ihrem nächsten Artikel geben?
 
-  Elle a décidé d'intituler son livre "Mémoires", car elle voulait partager ses expériences avec le monde.
-  Sie hat beschlossen, ihrem Buch den Titel „Memoiren“ zu geben, denn sie wollte ihre Erfahrungen mit der Welt teilen.
+  Son dernier roman *s'intitule* « Les chemins de la liberté ».
+  Sein neuester Roman *trägt den Titel* „Die Wege der Freiheit".
 
-  Ce livre, qui s'intitule "Mémoires", raconte l'histoire d'une femme qui a vécu des moments difficiles.
-  Dieses Buch, das den Titel „Memoiren“ trägt, erzählt die Geschichte einer Frau, die schwere Zeiten durchgemacht hat.
+  Le chapitre trois est *intitulé* « La grande aventure ».
+  Das dritte Kapitel ist mit „Das große Abenteuer" *betitelt*.
 
-  Le livre, intitulé "Mémoires", est un récit poignant de la vie d'un homme ordinaire.
-  Das Buch, das den Titel „Memoiren“ trägt, ist eine ergreifende Geschichte des Lebens eines gewöhnlichen Mannes.
+  Il *s'intitule* expert en marketing sans avoir de diplôme.
+  Er *nennt* sich Marketingexperte, ohne einen Abschluss zu haben.
+
+  L'auteur a *intitulé* sa nouvelle collection « Voyages imaginaires ».
+  Der Autor hat seine neue Sammlung „Imaginäre Reisen" *betitelt*.
+
+  Je ne me souviens plus comment *s'intitulait* ce documentaire.
+  Ich erinnere mich nicht mehr, welchen *Titel* diese Dokumentation hatte.
+
+  Le jugement est *intitulé* « Au nom du peuple français ».
+  Das Urteil ist mit „Im Namen des französischen Volkes" *betitelt*.
+
+  Pourquoi avez-vous *intitulé* votre exposition « Rêves d'été » ?
+  Warum haben Sie Ihre Ausstellung „Sommerträume" *betitelt*?
+
+  Le poème *s'intitule* simplement « Amour ».
+  Das Gedicht *trägt* einfach den *Titel* „Liebe".
+
+  Elle a *intitulé* sa thèse « L'art de la Renaissance ».
+  Sie hat ihre Dissertation „Die Kunst der Renaissance" *betitelt*.
+
+  La pièce de théâtre *s'intitulera* « Le dernier acte ».
+  Das Theaterstück wird den *Titel* „Der letzte Akt" tragen.
+
+  Le premier chapitre est *intitulé* « Introduction à la philosophie ».
+  Das erste Kapitel ist mit „Einführung in die Philosophie" *betitelt*.
+
+  Cette émission *s'intitule* « À la découverte du monde ».
+  Diese Sendung *trägt den Titel* „Auf Weltentdeckung".
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,32 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’aime bien l’atmosphère des pubs.
-  Ich mag die Atmosphäre in den Pubs.
+  J'aime bien l'*atmosphère* des pubs.
+  Ich mag die *Atmosphäre* in Pubs.
 
-  L’atmosphère terrestre est composée de plusieurs couches.
-  Die Erdatmosphäre besteht aus mehreren Schichten.
+  L'*atmosphère* terrestre protège notre planète des radiations solaires.
+  Die *Atmosphäre* der Erde schützt unseren Planeten vor Sonnenstrahlung.
 
-  Le degré d'humidité de l'atmosphère est important pour la santé des plantes.
-  Der Luftfeuchtigkeitsgrad ist wichtig für das Gedeihen der Pflanzen.
+  Les scientifiques étudient l'*atmosphère* de Mars depuis des décennies.
+  Wissenschaftler erforschen seit Jahrzehnten die *Atmosphäre* des Mars.
 
-  L'atmosphère devient irrespirable dans cette pièce close.
-  Die Luft ist stickig in diesem geschlossenen Raum.
+  La pollution détruit peu à peu notre *atmosphère*.
+  Die Umweltverschmutzung zerstört nach und nach unsere *Atmosphäre*.
 
-  L'atmosphère de vacances règne dans la ville.
-  Ferienstimmung liegt über der Stadt.
+  L'*atmosphère* était tendue pendant la réunion.
+  Die *Stimmung* war während der Sitzung angespannt.
 
-  L'atmosphère primitive de la Terre était très différente de celle d'aujourd'hui.
-  Die Uratmosphäre der Erde war ganz anders als die heutige.
+  "J'ai besoin de changer d'*atmosphère*."
+  "Ich brauche einen *Tapetenwechsel*."
 
-  L'atmosphère de travail est tendue depuis l'arrivée du nouveau directeur.
-  Die Arbeitsatmosphäre ist angespannt seit dem Antritt des neuen Direktors.
+  Le taux d'humidité dans l'*atmosphère* influence la météo.
+  Die Feuchtigkeit in der *Atmosphäre* beeinflusst das Wetter.
 
-  Le rire de l'enfant a détendu l'atmosphère de la réunion.
-  Das Lachen des Kindes hat die Spannung der Versammlung gelöst.
+  Cette vieille bibliothèque a une *atmosphère* particulière.
+  Diese alte Bibliothek hat eine besondere *Atmosphäre*.
 
-  Après des mois de travail acharné, il a besoin de changer d'atmosphère.
-  Nach monatelanger harter Arbeit braucht er einen Tapetenwechsel.
+  L'*atmosphère* de travail s'est beaucoup améliorée depuis son arrivée.
+  Die *Arbeitsatmosphäre* hat sich seit seiner Ankunft stark verbessert.
+
+  Une blague a suffi pour détendre l'*atmosphère*.
+  Ein Witz reichte aus, um die *Stimmung* zu lockern.
+
+  L'*atmosphère* suffocante de la ville m'a poussé à déménager.
+  Die erstickende *Luft* in der Stadt hat mich zum Umzug bewegt.
+
+  L'*atmosphère* primitive de la Terre était très différente d'aujourd'hui.
+  Die *Uratmosphäre* der Erde war sehr anders als heute.
+
+  La pluie a rafraîchi l'*atmosphère*.
+  Der Regen hat die *Luft* abgekühlt.
+
+  Les chercheurs analysent l'*atmosphère* de cette nouvelle planète.
+  Die Forscher analysieren die *Atmosphäre* dieses neu entdeckten Planeten.
+
+  L'*atmosphère* familiale est devenue plus sereine.
+  Die familiäre *Atmosphäre* ist entspannter geworden.
+
+  La haute *atmosphère* contient plus d'ozone que la basse atmosphère.
+  Die obere *Atmosphäre* enthält mehr Ozon als die untere Atmosphäre.
+
+  Cette petite ville côtière a une *atmosphère* très agréable.
+  Diese kleine Küstenstadt hat eine sehr angenehme *Atmosphäre*.
+
+  L'*atmosphère* humide du littoral n'est pas bonne pour ma santé.
+  Die feuchte *Luft* an der Küste ist nicht gut für meine Gesundheit.
+
+  Le réchauffement de l'*atmosphère* est un problème mondial.
+  Die Erwärmung der *Atmosphäre* ist ein globales Problem.
+
+  Une *atmosphère* de vacances règne dans la ville.
+  Eine *Urlaubsstimmung* herrscht in der Stadt.
+
+  L'*atmosphère* glaciale de ce matin annonce l'hiver.
+  Die eisige *Luft* heute Morgen kündigt den Winter an.
+
+  L'*atmosphère* étouffante de la salle nous a fait sortir.
+  Die stickige *Luft* im Saal hat uns nach draußen getrieben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

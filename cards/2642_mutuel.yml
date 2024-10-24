@@ -13,11 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est un accord obtenu par consentement mutuel.
-  Es handelt sich um eine Vereinbarung, die in gegenseitigem Einvernehmen zustande gekommen ist.
+  C'est un accord obtenu par consentement *mutuel*.
+  Das ist eine durch *gegenseitiges* Einvernehmen erzielte Vereinbarung.
 
-  Nous avons un accord mutuel.
-  Wir haben eine gegenseitige Vereinbarung.
+  L'amour *mutuel* entre ces deux personnes est évident.
+  Die *gegenseitige* Liebe zwischen diesen beiden Menschen ist offensichtlich.
+
+  Les parents et les enfants ont des devoirs *mutuels* à respecter.
+  Eltern und Kinder haben *gegenseitige* Pflichten zu erfüllen.
+
+  Notre *mutuelle* couvre tous les frais dentaires.
+  Unsere *Krankenkasse* übernimmt alle Zahnarztkosten.
+
+  Il y a un respect *mutuel* entre le professeur et ses élèves.
+  Zwischen dem Lehrer und seinen Schülern herrscht *gegenseitiger* Respekt.
+
+  J'ai adhéré à une société d'assurance *mutuelle* l'année dernière.
+  Ich bin letztes Jahr einer *Gegenseitigkeits*versicherung beigetreten.
+
+  Leur estime *mutuelle* s'est développée au fil des années.
+  Ihre *gegenseitige* Wertschätzung hat sich im Laufe der Jahre entwickelt.
+
+  La tolérance *mutuelle* est essentielle dans une société multiculturelle.
+  *Gegenseitige* Toleranz ist in einer multikulturellen Gesellschaft unerlässlich.
+
+  Ma *mutuelle* rembourse 80% des frais médicaux.
+  Meine *Krankenkasse* erstattet 80% der Arztkosten.
+
+  Les deux équipes se sont prêté une assistance *mutuelle* pendant la compétition.
+  Die beiden Teams haben sich während des Wettkampfs *gegenseitig* unterstützt.
+
+  Ces concessions *mutuelles* ont permis d'aboutir à un compromis.
+  Diese *gegenseitigen* Zugeständnisse haben zu einem Kompromiss geführt.
+
+  Notre admiration *mutuelle* nous a rapprochés.
+  Unsere *gegenseitige* Bewunderung hat uns einander nähergebracht.
+
+  Je dois changer de *mutuelle* au début de l'année prochaine.
+  Ich muss Anfang nächsten Jahres die *Krankenversicherung* wechseln.
+
+  La confiance *mutuelle* est la base de toute relation durable.
+  *Gegenseitiges* Vertrauen ist die Grundlage jeder dauerhaften Beziehung.
+
+  Une société de secours *mutuels* a été créée dans notre quartier.
+  In unserem Viertel wurde eine *Gegenseitigkeits*hilfe gegründet.
+
+  Les deux entreprises ont signé un accord d'aide *mutuelle*.
+  Die beiden Unternehmen haben ein Abkommen zur *gegenseitigen* Hilfe unterzeichnet.
+
+  Cette compréhension *mutuelle* nous a permis d'éviter bien des conflits.
+  Dieses *gegenseitige* Verständnis hat uns geholfen, viele Konflikte zu vermeiden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

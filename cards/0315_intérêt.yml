@@ -9,30 +9,195 @@ Femininum / Plural: ''
 IPA: \ɛ̃.te.ʁɛ\
 Definition: Interesse
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "L’avenir ne présente guère d’intérêt.\nDie Zukunft ist kaum von Interesse.\n\
-  \nJ’ai beaucoup d’intérêt pour la musique.\nIch habe großes Interesse an Musik.\n\
-  \nJe doute que ce soit de quelque intérêt pour vous.\nIch bezweifle, dass es für\
-  \ Sie von irgendeinem Interesse sein wird.\n\nSon intérêt pour la musique est indéniable.\
-  \ \nSein Interesse an der Musik ist unbestreitbar.\n\nL’étude de l’histoire est\
-  \ du plus haut intérêt pour comprendre le monde d’aujourd’hui.\nDie Beschäftigung\
-  \ mit Geschichte ist äußerst bedeutsam, um die heutige Welt zu verstehen.\n\nCe\
-  \ film était sans aucun intérêt, je l’ai trouvé très ennuyeux.\nDieser Film war\
-  \ völlig uninteressant, ich fand ihn sehr langweilig.\n\nL’intérêt d’une partie\
-  \ politique ne doit pas primer sur le bien commun.\nDas Parteiinteresse darf nicht\
-  \ über dem Gemeinwohl stehen.\n\nJe ne vois pas l’intérêt de faire ce voyage, il\
-  \ ne me semble pas utile.\nIch sehe nicht ein, welchen Nutzen es haben soll, diese\
-  \ Reise zu unternehmen, sie erscheint mir nicht sinnvoll.\n\nLe prêt a été accordé\
-  \ à un taux d’intérêt de six pour cent.\nDas Darlehen wurde zu einem Zinssatz von\
-  \ sechs Prozent gewährt.\n\nIl a des intérêts dans une affaire immobilière, il est\
-  \ donc très investi dans ce projet.\nEr ist an einem Immobiliengeschäft beteiligt,\
-  \ daher ist er sehr in dieses Projekt investiert.\n\nLa préservation de l’environnement\
-  \ est d’intérêt public, c’est un enjeu crucial pour notre avenir.\nDer Schutz der\
-  \ Umwelt ist von öffentlichem Interesse, er ist eine entscheidende Herausforderung\
-  \ für unsere Zukunft.\n\nLe placement est avec intérêt, ce qui signifie que vous\
-  \ gagnez de l’argent sur votre investissement.\nDie Anlage ist verzinslich, das\
-  \ bedeutet, dass Sie Geld mit Ihrer Investition verdienen.\n\nJ’ai porté de l’intérêt\
-  \ à son travail depuis le début de sa carrière.\nIch habe seinem Werk seit Beginn\
-  \ seiner Karriere Interesse entgegengebracht."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  L'avenir ne présente guère d'*intérêt*.
+  Die Zukunft ist kaum von *Interesse*.
+
+  Il lit ce roman avec beaucoup d'*intérêt*.
+  Er liest diesen Roman sehr *interessiert*.
+
+  Les élèves ne montrent aucun *intérêt* pour les mathématiques.
+  Die Schüler zeigen keinerlei *Interesse* für Mathematik.
+
+  Elle porte un vif *intérêt* à la culture japonaise.
+  Sie bringt der japanischen Kultur großes *Interesse* entgegen.
+
+  Ce film a perdu tout son *intérêt* après la première heure.
+  Der Film wurde nach der ersten Stunde völlig un*interessant*.
+
+  Le principal *intérêt* de ce musée est sa collection de sculptures.
+  Der Haupt*reiz* dieses Museums ist seine Skulpturensammlung.
+
+  Ces nouvelles technologies sont d'un *intérêt* capital pour notre avenir.
+  Diese neuen Technologien sind für unsere Zukunft von höchster *Bedeutung*.
+
+  Marie témoigne beaucoup d'*intérêt* pour la musique classique.
+  Marie zeigt viel *Interesse* für klassische Musik.
+
+  Il faut défendre les *intérêts* des travailleurs.
+  Man muss die *Interessen* der Arbeitnehmer vertreiben.
+
+  Le taux d'*intérêt* de ce prêt est de trois pour cent.
+  Der *Zins*satz für diesen Kredit beträgt drei Prozent.
+
+  Dans l'*intérêt* général, cette route doit être réparée.
+  Im allgemeinen *Interesse* muss diese Straße repariert werden.
+
+  Cette exposition est du plus haut *intérêt* culturel.
+  Diese Ausstellung ist von höchster kultureller *Bedeutung*.
+
+  Les *intérêts* bancaires sont particulièrement bas cette année.
+  Die Bank*zinsen* sind dieses Jahr besonders niedrig.
+
+  "Je ne vois pas l'*intérêt* de sortir par ce temps."
+  "Ich sehe keinen *Sinn* darin, bei diesem Wetter rauszugehen."
+
+  Cette proposition ne présente aucun *intérêt* pour nous.
+  Dieser Vorschlag ist für uns völlig un*interessant*.
+
+  L'*intérêt* pour l'environnement grandit chaque jour.
+  Das *Interesse* für die Umwelt wächst jeden Tag.
+
+  Il a des *intérêts* dans plusieurs entreprises.
+  Er ist an mehreren Unternehmen *beteiligt*.
+
+  Cette décision est d'*intérêt* public.
+  Diese Entscheidung ist von öffentlichem *Interesse*.
+
+  Le groupe défend les *intérêts* des consommateurs.
+  Die Gruppe vertritt die *Interessen* der Verbraucher.
+
+  Ce livre gagne en *intérêt* au fil des pages.
+  Dieses Buch wird mit jeder Seite *interessanter*.
+
+  Tu as tout *intérêt* à être ponctuel demain.
+  Du solltest wirklich pünktlich sein morgen.
+
+  Les *intérêts* moratoires seront calculés à partir de demain.
+  Die Verzugs*zinsen* werden ab morgen berechnet.
+
+  Cette histoire est sans *intérêt*.
+  Diese Geschichte ist völlig *belanglos*.
+
+  Il agit uniquement par *intérêt* personnel.
+  Er handelt nur aus Eigen*interesse*.
+
+  L'*intérêt* principal de ce logiciel est sa simplicité.
+  Das Haupt*interesse* dieser Software liegt in ihrer Einfachheit.
+
+  Cette solution est d'un *intérêt* vital pour l'entreprise.
+  Diese Lösung ist von lebens*wichtiger* Bedeutung für das Unternehmen.
+
+  Les *intérêts* communautaires doivent être protégés.
+  Die Gemeinschafts*interessen* müssen geschützt werden.
+
+  Ce prêt est sans *intérêts* pendant un an.
+  Dieser Kredit ist ein Jahr lang *zins*frei.
+
+  L'absence d'*intérêt* des jeunes pour la politique est préoccupante.
+  Die *Interesse*losigkeit der Jugendlichen für Politik ist besorgniserregend.
+
+  Il y a un conflit d'*intérêts* entre les deux parties.
+  Es gibt einen *Interessen*konflikt zwischen den beiden Parteien.
+
+  Cette décision sert les *intérêts* de tous.
+  Diese Entscheidung dient den *Interessen* aller.
+
+  J'ai suivi ce cours avec grand *intérêt*.
+  Ich habe diesen Kurs mit großem *Interesse* verfolgt.
+
+  Les *intérêts* créditeurs sont versés chaque mois.
+  Die Haben*zinsen* werden monatlich ausgezahlt.
+
+  Cette offre ne présente aucun *intérêt* commercial.
+  Dieses Angebot hat keinen kommerziellen *Reiz*.
+
+  Il trouve son *intérêt* dans la photographie.
+  Er kommt bei der Fotografie auf seine *Kosten*.
+
+  Les *intérêts* des salariés sont bien représentés.
+  Die *Interessen* der Angestellten werden gut vertreten.
+
+  Cette exposition est d'un grand *intérêt* historique.
+  Diese Ausstellung ist von großem historischen *Interesse*.
+
+  Il calcule les *intérêts* composés de son épargne.
+  Er berechnet die *Zins*eszinsen seiner Ersparnisse.
+
+  L'*intérêt* pour les énergies renouvelables augmente.
+  Das *Interesse* an erneuerbaren Energien steigt.
+
+  Cette proposition est dans ton *intérêt*.
+  Dieser Vorschlag ist in deinem *Interesse*.
+
+  Les *intérêts* débiteurs sont trop élevés.
+  Die Soll*zinsen* sind zu hoch.
+
+  Il prête peu d'*intérêt* aux opinions des autres.
+  Er bringt den Meinungen anderer wenig *Interesse* entgegen.
+
+  Cette question est d'un *intérêt* secondaire.
+  Diese Frage ist von untergeordneter *Bedeutung*.
+
+  L'*intérêt* du public pour cette affaire ne faiblit pas.
+  Das *Interesse* der Öffentlichkeit an dieser Sache lässt nicht nach.
+
+  Ces *intérêts* sont protégés par la loi.
+  Diese *Interessen* sind gesetzlich geschützt.
+
+  Le film a gagné en *intérêt* vers la fin.
+  Der Film wurde gegen Ende *interessanter*.
+
+  Cette région présente un *intérêt* touristique majeur.
+  Diese Region hat einen bedeutenden touristischen *Reiz*.
+
+  Les *intérêts* économiques ne doivent pas primer.
+  Die wirtschaftlichen *Interessen* dürfen nicht Vorrang haben.
+
+  Il a perdu tout *intérêt* pour son travail.
+  Er hat jedes *Interesse* an seiner Arbeit verloren.
+
+  Cette mesure sert l'*intérêt* général.
+  Diese Maßnahme dient dem Gemein*interesse*.
+
+  L'*intérêt* pour les langues étrangères grandit.
+  Das *Interesse* an Fremdsprachen wächst.
+
+  Un prêt avec *intérêts* raisonnables.
+  Ein Kredit mit vernünftigen *Zinsen*.
+
+  Cette décision va contre nos *intérêts*.
+  Diese Entscheidung geht gegen unsere *Interessen*.
+
+  L'*intérêt* de cette méthode réside dans sa simplicité.
+  Der *Reiz* dieser Methode liegt in ihrer Einfachheit.
+
+  Les *intérêts* du groupe sont bien défendus.
+  Die *Interessen* der Gruppe werden gut verteidigt.
+
+  Cette histoire a gagné en *intérêt*.
+  Diese Geschichte wurde *interessanter*.
+
+  Il agit contre ses propres *intérêts*.
+  Er handelt gegen seine eigenen *Interessen*.
+
+  Les *intérêts* financiers sont considérables.
+  Die finanziellen *Interessen* sind beträchtlich.
+
+  Cette activité ne présente aucun *intérêt* pour les enfants.
+  Diese Aktivität ist für Kinder völlig un*interessant*.
+
+  Les différents groupes d'*intérêts* se sont réunis.
+  Die verschiedenen *Interessen*gruppen haben sich getroffen.
+
+  Cette offre est sans *intérêt*.
+  Dieses Angebot ist *reiz*los.
+
+  Il poursuit ses *intérêts* personnels.
+  Er verfolgt seine persönlichen *Interessen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

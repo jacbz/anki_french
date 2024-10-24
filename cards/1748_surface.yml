@@ -13,26 +13,125 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les eaux de surface sont très chaudes.
-  Das Oberflächenwasser ist sehr warm.
+  Les eaux de *surface* sont très chaudes.
+  Das Oberflächen*wasser* ist sehr warm.
 
-  La surface de la table est en bois.
-  Die Oberfläche des Tisches ist aus Holz.
+  Cette table a une *surface* lisse et brillante.
+  Dieser Tisch hat eine glatte und glänzende *Oberfläche*.
 
-  Nous avons fait nos courses dans la grande surface du quartier.
-  Wir haben in dem Supermarkt im Viertel eingekauft.
+  La *surface* habitable de l'appartement est de 85 mètres carrés.
+  Die *Wohn*fläche der Wohnung beträgt 85 Quadratmeter.
 
-  Après avoir plongé, le sous-marin a fait surface.
-  Nachdem es getaucht war, tauchte das U-Boot wieder auf.
+  Le sous-marin est remonté à la *surface*.
+  Das U-Boot ist an die *Oberfläche* zurückgekehrt.
 
-  Les souvenirs de notre voyage ont refait surface pendant que nous regardions les photos.
-  Die Erinnerungen an unsere Reise tauchten wieder auf, als wir die Fotos ansahen.
+  Ces poissons nagent près de la *surface*.
+  Diese Fische schwimmen nahe der *Oberfläche*.
 
-  Le poisson a sauté hors de l'eau et a rebondi sur la surface de l'eau.
-  Der Fisch sprang aus dem Wasser und prallte auf der Wasseroberfläche ab.
+  La température à la *surface* de la Terre augmente.
+  Die Temperatur an der *Oberfläche* der Erde steigt.
 
-  On pouvait voir des débris à la surface de la mer.
-  Man konnte Trümmer auf der Meeresoberfläche sehen.
+  "Il a fait *surface* après trois mois d'absence."
+  "Er ist nach drei Monaten Abwesenheit wieder *aufgetaucht*."
+
+  Notre nouvelle *surface* commerciale ouvrira la semaine prochaine.
+  Unser neuer Super*markt* wird nächste Woche eröffnen.
+
+  Les mathématiciens étudient les *surfaces* courbes.
+  Die Mathematiker untersuchen gekrümmte *Flächen*.
+
+  Il ne faut pas juger les gens sur la *surface*.
+  Man sollte Menschen nicht nach der *Oberfläche* beurteilen.
+
+  La balle a rebondi sur la *surface* plane.
+  Der Ball ist von der ebenen *Fläche* abgeprallt.
+
+  Cette entreprise a une grande *surface* financière.
+  Dieses Unternehmen hat eine solide finanzielle *Basis*.
+
+  Le ballon est sorti par la *surface* de réparation.
+  Der Ball ging über den Straf*raum* hinaus.
+
+  Les spéléologues ont passé trois jours sous la *surface*.
+  Die Höhlenforscher verbrachten drei Tage unter der *Oberfläche*.
+
+  La *surface* du lac reflète les montagnes.
+  Die *Oberfläche* des Sees spiegelt die Berge wider.
+
+  Les astronomes observent la *surface* de Mars.
+  Die Astronomen beobachten die *Oberfläche* des Mars.
+
+  La *surface* du bureau est rayée.
+  Die *Oberfläche* des Schreibtisches ist zerkratzt.
+
+  Nous devons calculer la *surface* totale du terrain.
+  Wir müssen die Gesamt*fläche* des Grundstücks berechnen.
+
+  Les algues flottent à la *surface* de l'étang.
+  Die Algen treiben an der *Oberfläche* des Teichs.
+
+  Cette peinture donne une belle *surface* brillante.
+  Diese Farbe ergibt eine schöne glänzende *Oberfläche*.
+
+  La *surface* de contact est trop petite.
+  Die Kontakt*fläche* ist zu klein.
+
+  Les feuilles mortes couvrent la *surface* du sol.
+  Die toten Blätter bedecken die *Oberfläche* des Bodens.
+
+  La *surface* vitrée permet beaucoup de luminosité.
+  Die Glas*fläche* lässt viel Helligkeit durch.
+
+  Le skieur glisse sur la *surface* gelée.
+  Der Skifahrer gleitet über die vereiste *Oberfläche*.
+
+  La bulle d'air monte à la *surface*.
+  Die Luftblase steigt an die *Oberfläche*.
+
+  La *surface* du miroir est parfaitement polie.
+  Die *Oberfläche* des Spiegels ist perfekt poliert.
+
+  L'huile flotte à la *surface* de l'eau.
+  Das Öl schwimmt auf der *Oberfläche* des Wassers.
+
+  La *surface* de vente a doublé après les travaux.
+  Die Verkaufs*fläche* hat sich nach dem Umbau verdoppelt.
+
+  Les cratères marquent la *surface* lunaire.
+  Die Krater prägen die Mond*oberfläche*.
+
+  Cette analyse reste en *surface*.
+  Diese Analyse bleibt an der *Oberfläche*.
+
+  La *surface* du pain est bien dorée.
+  Die *Oberfläche* des Brotes ist schön gebräunt.
+
+  Le bateau navigue en *surface*.
+  Das Boot fährt an der *Oberfläche*.
+
+  La *surface* du parking est en béton.
+  Die Park*fläche* ist aus Beton.
+
+  "Il a enfin refait *surface* après sa dépression."
+  "Er ist nach seiner Depression endlich wieder *aufgetaucht*."
+
+  La *surface* de la pierre est rugueuse.
+  Die *Oberfläche* des Steins ist rau.
+
+  Les nuages se reflètent sur la *surface* calme du lac.
+  Die Wolken spiegeln sich auf der ruhigen *Oberfläche* des Sees.
+
+  Cette *surface* métallique conduit bien la chaleur.
+  Diese Metall*oberfläche* leitet die Wärme gut.
+
+  La *surface* du terrain de tennis est en terre battue.
+  Die *Fläche* des Tennisplatzes ist aus rotem Sand.
+
+  Les taches ont abîmé la *surface* du bois.
+  Die Flecken haben die *Oberfläche* des Holzes beschädigt.
+
+  La *surface* de la piscine brille au soleil.
+  Die *Oberfläche* des Pools glitzert in der Sonne.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

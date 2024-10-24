@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On ignore notamment si des gendarmes figurent parmi les victimes.
-  Insbesondere ist nicht bekannt, ob sich unter den Opfern auch Gendarmen befinden.
+  On ignore *notamment* si des gendarmes figurent parmi les victimes.
+  Man weiß *insbesondere* nicht, ob sich Polizisten unter den Opfern befinden.
 
-  Il a plusieurs talents, notamment la musique.
-  Er hat mehrere Talente, insbesondere Musik.
+  La pollution atmosphérique, *notamment* dans les grandes villes, pose un problème majeur de santé publique.
+  Die Luftverschmutzung, *besonders* in den Großstädten, stellt ein großes Problem für die öffentliche Gesundheit dar.
+
+  Plusieurs pays européens, et *notamment* la France, ont signé l'accord.
+  Mehrere europäische Länder, *insbesondere* Frankreich, haben das Abkommen unterzeichnet.
+
+  Elle aime beaucoup voyager, *notamment* en Asie.
+  Sie reist sehr gerne, *vor allem* in Asien.
+
+  *Notamment* grâce à son expérience, elle a obtenu le poste.
+  *Besonders* dank ihrer Erfahrung hat sie die Stelle bekommen.
+
+  Les jeunes utilisent beaucoup les réseaux sociaux, *notamment* Instagram.
+  Junge Menschen nutzen häufig soziale Medien, *vor allem* Instagram.
+
+  J'apprécie sa personnalité, *notamment* son sens de l'humour.
+  Ich schätze seine Persönlichkeit, *besonders* seinen Humor.
+
+  Il faut faire attention à son alimentation, *notamment* pendant la grossesse.
+  Man muss auf seine Ernährung achten, *insbesondere* während der Schwangerschaft.
+
+  Les sports d'hiver, *notamment* le ski, attirent beaucoup de touristes.
+  Wintersportarten, *vor allem* Skifahren, ziehen viele Touristen an.
+
+  Son comportement m'a surpris, *notamment* son manque de respect.
+  Sein Verhalten hat mich überrascht, *besonders* sein Mangel an Respekt.
+
+  Cette recette nécessite plusieurs ingrédients, *notamment* des œufs frais.
+  Dieses Rezept erfordert verschiedene Zutaten, *insbesondere* frische Eier.
+
+  Les enfants adorent les animaux, *notamment* les chiens et les chats.
+  Kinder lieben Tiere, *vor allem* Hunde und Katzen.
+
+  Le stress peut causer divers problèmes de santé, *notamment* des troubles du sommeil.
+  Stress kann verschiedene gesundheitliche Probleme verursachen, *insbesondere* Schlafstörungen.
+
+  Le changement climatique affecte *notamment* les régions polaires.
+  Der Klimawandel betrifft *besonders* die Polarregionen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,26 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Appelle ton contrôleur, vérifie.
-  Ruf deinen Kontrolleur an und überprüfe es.
+  Appelle ton contrôleur, *vérifie*.
+  Ruf deinen Kontrolleur an und *überprüf* das.
 
-  Je dois vérifier mes emails.
-  Ich muss meine E-Mails überprüfen.
+  Il faut *vérifier* si le gaz est bien fermé avant de partir.
+  Man muss *überprüfen*, ob das Gas ausgeschaltet ist, bevor man geht.
 
-  Je peux vérifier par moi-même que c’est la vérité.
-  Ich kann mich selbst davon überzeugen, dass dies die Wahrheit ist.
+  Je dois *vérifier* l'adresse e-mail dans mon carnet de contacts.
+  Ich muss die E-Mail-Adresse in meinen Kontakten *nachschlagen*.
 
-  Je dois vérifier tout ce que vous nous avez dit.
-  Ich muss alles überprüfen, was Sie uns gesagt haben.
+  Les scientifiques vont *vérifier* cette hypothèse par des expériences.
+  Die Wissenschaftler werden diese Hypothese durch Experimente *überprüfen*.
 
-  Vérifiez si le gaz est fermé avant de partir.
-  Überprüfen Sie, ob das Gas abgestellt ist, bevor Sie gehen.
+  Ses craintes se sont finalement *vérifiées*.
+  Seine Befürchtungen haben sich schließlich *bewahrheitet*.
 
-  Vérifiez le numéro de téléphone dans le carnet d'adresse avant de téléphoner.
-  Schlagen Sie die Telefonnummer im Adressbuch nach, bevor Sie anrufen.
+  Je vais *vérifier* les freins de ma voiture demain.
+  Ich werde morgen die Bremsen meines Autos *kontrollieren*.
 
-  Ce document est devant être vérifié par un expert.
-  Dieses Dokument ist prüfungspflichtig durch einen Experten.
+  Elle a *vérifié* trois fois que la porte était fermée à clé.
+  Sie hat dreimal *kontrolliert*, ob die Tür abgeschlossen war.
+
+  Il faut *vérifier* l'authenticité de ce document ancien.
+  Man muss die Echtheit dieses alten Dokuments *prüfen*.
+
+  La théorie s'est *vérifiée* par des observations récentes.
+  Die Theorie hat sich durch neuere Beobachtungen *bestätigt*.
+
+  Peux-tu *vérifier* si le train est à l'heure ?
+  Kannst du *nachsehen*, ob der Zug pünktlich ist?
+
+  Les événements ont *vérifié* nos prévisions.
+  Die Ereignisse haben unsere Vorhersagen *bestätigt*.
+
+  Je dois faire *vérifier* ma vue chaque année.
+  Ich muss jedes Jahr meine Augen *untersuchen* lassen.
+
+  N'oublie pas de *vérifier* la température du four.
+  Vergiss nicht, die Ofentemperatur zu *kontrollieren*.
+
+  Les soupçons du détective se sont rapidement *vérifiés*.
+  Die Vermutungen des Detektivs haben sich schnell *bestätigt*.
+
+  Il faut *vérifier* le niveau d'huile avant un long voyage.
+  Man muss vor einer langen Reise den Ölstand *überprüfen*.
+
+  Marie *vérifie* toujours ses messages avant de les envoyer.
+  Marie *prüft* ihre Nachrichten immer, bevor sie sie abschickt.
+
+  Le mécanicien va *vérifier* le moteur de ta voiture.
+  Der Mechaniker wird den Motor deines Autos *überprüfen*.
+
+  Les faits ont *vérifié* notre première analyse.
+  Die Fakten haben unsere erste Analyse *bestätigt*.
+
+  Tu devrais *vérifier* ton compte en banque régulièrement.
+  Du solltest dein Bankkonto regelmäßig *prüfen*.
+
+  Je vais *vérifier* les informations avant de les partager.
+  Ich werde die Informationen *überprüfen*, bevor ich sie weitergebe.
+
+  L'expert doit *vérifier* l'authenticité de ce tableau.
+  Der Experte muss die Echtheit dieses Gemäldes *prüfen*.
+
+  Nos inquiétudes se sont malheureusement *vérifiées*.
+  Unsere Befürchtungen haben sich leider *bewahrheitet*.
+
+  Il faut *vérifier* la date de péremption avant de manger.
+  Man muss das Verfallsdatum *kontrollieren*, bevor man es isst.
+
+  Les résultats ont *vérifié* notre hypothèse initiale.
+  Die Ergebnisse haben unsere ursprüngliche Hypothese *bestätigt*.
+
+  Pierre *vérifie* toujours deux fois son réveil avant de dormir.
+  Pierre *kontrolliert* seinen Wecker immer zweimal, bevor er schlafen geht.
+
+  L'assistante va *vérifier* les disponibilités pour le rendez-vous.
+  Die Assistentin wird die Verfügbarkeit für den Termin *prüfen*.
+
+  Cette découverte *vérifie* la théorie du professeur.
+  Diese Entdeckung *bestätigt* die Theorie des Professors.
+
+  Je dois *vérifier* si j'ai bien éteint tous les appareils.
+  Ich muss *nachsehen*, ob ich alle Geräte ausgeschaltet habe.
+
+  La police va *vérifier* son alibi pour la soirée d'hier.
+  Die Polizei wird sein Alibi für den gestrigen Abend *überprüfen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

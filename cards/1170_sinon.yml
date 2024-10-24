@@ -13,29 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mais n’anticipons pas, sinon nous n’arriverons jamais.
-  Aber wir dürfen nicht vorgreifen, sonst kommen wir nie an.
+  Mais n'anticipons pas, *sinon* nous n'arriverons jamais.
+  Aber greifen wir nicht vor, *sonst* kommen wir nie ans Ziel.
 
-  Je dois travailler demain, sinon je perdrai mon travail.
-  Ich muss morgen arbeiten, sonst verliere ich meinen Job.
+  Il faut partir maintenant, *sinon* nous serons en retard.
+  Wir müssen jetzt los, *sonst* kommen wir zu spät.
 
-  Je dois acheter du lait, sinon je ne pourrai pas faire de café demain matin.
-  Ich muss Milch kaufen, sonst kann ich morgen früh keinen Kaffee machen.
+  *Sinon* tu perds ton emploi, tu dois respecter les horaires.
+  *Andernfalls* verlierst du deinen Job - du musst dich an die Arbeitszeiten halten.
 
-  Que faire sinon attendre que le train arrive ?
-  Was können wir anderes tun, als darauf zu warten, dass der Zug kommt?
+  Que pouvons-nous faire *sinon* attendre le train suivant ?
+  Was können wir *außer* auf den nächsten Zug warten tun?
 
-  À quoi sert la clé sinon à faire ouvrir la porte ?
-  Wozu ist der Schlüssel eigentlich gut, wenn nicht dazu, die Tür zu öffnen?
+  Je ne lis aucun magazine *sinon* "Paris Match".
+  Ich lese keine Zeitschrift *außer* "Paris Match".
 
-  Aucun roman sinon "Madame Bovary" ne l'a autant fasciné.
-  Kein Roman außer „Madame Bovary“ hat ihn so sehr fasziniert.
+  Elle ne s'intéresse à rien *sinon* au sport.
+  Sie interessiert sich für nichts *außer* für Sport.
 
-  Il ne s'intéresse à rien sinon à la musique classique.
-  Er interessiert sich für nichts anderes, als für klassische Musik.
+  *Sinon* parfait, au moins très bon.
+  Wenn *nicht* perfekt, *so* doch sehr gut.
 
-  Sinon, du moins, il est honnête.
-  Wenn nicht, so doch ist er ehrlich.
+  C'est un bon élève, *sinon* le meilleur de sa classe.
+  Er ist ein guter Schüler, wenn *nicht* gar der beste seiner Klasse.
+
+  Je ne sais rien de lui, *sinon* qu'il habite à Paris.
+  Ich weiß nichts von ihm, *außer* dass er in Paris wohnt.
+
+  Range ta chambre, *sinon* pas de dessert !
+  Räum dein Zimmer auf, *sonst* gibt es keinen Nachtisch!
+
+  Il n'a pas reçu mon message, *sinon* il m'aurait répondu.
+  Er hat meine Nachricht nicht bekommen, *sonst* hätte er mir geantwortet.
+
+  Que cherches-tu *sinon* l'amour ?
+  Was suchst du *wenn nicht* die Liebe?
+
+  Je ne vois pas d'autre solution *sinon* de recommencer.
+  Ich sehe keine andere Lösung, *als* von vorn anzufangen.
+
+  Elle est appréciée *sinon* aimée de tous ses collègues.
+  Sie wird von allen Kollegen geschätzt, wenn *nicht* gar geliebt.
+
+  *Sinon* moi, qui pourrait t'aider ?
+  Wer *außer* mir könnte dir helfen?
+
+  Baisse le son, *sinon* les voisins vont se plaindre.
+  Mach die Musik leiser, *sonst* werden sich die Nachbarn beschweren.
+
+  Je n'ai pas d'autre choix *sinon* d'accepter cette offre.
+  Ich habe keine andere Wahl, *als* dieses Angebot anzunehmen.
+
+  Personne ne comprend ces mathématiques, *sinon* Marie.
+  Niemand versteht diese Mathematik *außer* Marie.
+
+  On le considère, *sinon* comme un génie, du moins comme un grand talent.
+  Man sieht ihn, wenn *nicht* als Genie, so doch als großes Talent.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,38 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Des sanctions seront éventuellement prises.
-  Eventuell werden Sanktionen verhängt.
+  Des sanctions seront *éventuellement* prises.
+  *Gegebenenfalls* werden Sanktionen verhängt.
 
-  Je viendrai éventuellement demain.
-  Ich komme eventuell morgen.
+  Je pourrais *éventuellement* te prêter ma voiture demain.
+  Ich könnte dir *eventuell* morgen mein Auto leihen.
+
+  La réunion pourrait *éventuellement* être reportée à la semaine prochaine.
+  Die Besprechung könnte *möglicherweise* auf nächste Woche verschoben werden.
+
+  Si tu as faim, il reste *éventuellement* un peu de soupe dans le frigo.
+  Falls du Hunger hast, ist *vielleicht* noch etwas Suppe im Kühlschrank.
+
+  Nous pourrons *éventuellement* organiser une fête surprise pour son anniversaire.
+  Wir könnten *unter Umständen* eine Überraschungsparty für seinen Geburtstag organisieren.
+
+  Le musée fermera *éventuellement* plus tôt pendant les vacances.
+  Das Museum wird während der Ferien *eventuell* früher schließen.
+
+  *Éventuellement*, nous pourrions nous retrouver au café vers midi.
+  Wir könnten uns *gegebenenfalls* gegen Mittag im Café treffen.
+
+  As-tu *éventuellement* vu mes lunettes quelque part ?
+  Hast du *zufällig* irgendwo meine Brille gesehen?
+
+  Le train aura *éventuellement* du retard à cause de la neige.
+  Der Zug wird sich *möglicherweise* wegen des Schnees verspäten.
+
+  Si le temps le permet, nous irons *éventuellement* à la plage dimanche.
+  Wenn das Wetter es zulässt, gehen wir am Sonntag *eventuell* an den Strand.
+
+  Marie viendra *éventuellement* dîner avec nous ce soir.
+  Marie kommt *vielleicht* heute Abend mit uns essen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,29 +13,101 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cela n’aurait évidemment rien empêché.
-  Dies hätte natürlich nichts verhindert.
+  Cela n'aurait évidemment rien *empêché*.
+  Dies hätte natürlich nichts *verhindert*.
 
-  Elle a essayé d’empêcher le vol.
-  Sie hat versucht, den Diebstahl zu verhindern.
+  Le mauvais temps n'a pas *empêché* le festival d'avoir lieu.
+  Das schlechte Wetter hat das Festival nicht *verhindert*.
 
-  Leur désaccord profond a empêché le contrat de se conclure.
-  Ihr tiefgreifender Dissens hat die Vertragsunterzeichnung verhindert.
+  Son père l'a *empêchée* de sortir hier soir.
+  Ihr Vater hat sie gestern Abend *daran gehindert* auszugehen.
 
-  Je ne pouvais pas m'empêcher de rire en voyant son expression.
-  Ich konnte mir ein Lachen nicht verkneifen, als ich seinen Gesichtsausdruck sah.
+  Je ne peux pas m'*empêcher* de sourire quand je la vois.
+  Ich kann nicht anders, als zu lächeln, wenn ich sie sehe.
 
-  Il a fait une erreur, n'empêche que c'est arrivé.
-  Er hat einen Fehler gemacht, trotzdem ist es passiert.
+  La neige *empêche* les voitures de passer par ce col.
+  Der Schnee *hindert* die Autos daran, diesen Pass zu überqueren.
 
-  Le policier a empêché le jeune homme de traverser la route.
-  Der Polizist hat den jungen Mann daran gehindert, die Straße zu überqueren.
+  "N'*empêche*, c'était une belle soirée!"
+  "*Trotzdem* war es ein schöner Abend!"
 
-  Le mauvais temps a empêché que la fête ait lieu.
-  Das schlechte Wetter hat verhindert, dass die Feier stattfinden konnte.
+  Cette barrière *empêche* les enfants d'accéder à la zone dangereuse.
+  Diese Absperrung *hindert* die Kinder daran, den Gefahrenbereich zu betreten.
 
-  Je n'ai pas pu empêcher que mon enfant mange des bonbons.
-  Ich konnte nicht verhindern, dass mein Kind Süßigkeiten aß.
+  Rien ne m'*empêchera* de réaliser mes rêves.
+  Nichts wird mich *daran hindern*, meine Träume zu verwirklichen.
+
+  Il a mis des rideaux épais pour *empêcher* la lumière d'entrer.
+  Er hat dicke Vorhänge aufgehängt, um das Licht *abzuhalten*.
+
+  Les manifestants ont *empêché* la réunion de se tenir.
+  Die Demonstranten haben *verhindert*, dass die Versammlung stattfindet.
+
+  Elle ne peut pas s'*empêcher* de corriger les fautes des autres.
+  Sie kann nicht anders, als die Fehler der anderen zu korrigieren.
+
+  La grève des transports *empêche* beaucoup d'employés d'aller travailler.
+  Der Verkehrsstreik *hindert* viele Angestellte daran, zur Arbeit zu gehen.
+
+  "N'*empêche* que tu aurais pu me prévenir!"
+  "*Trotzdem* hättest du mir Bescheid sagen können!"
+
+  Ces mesures *empêcheront* la propagation du virus.
+  Diese Maßnahmen werden die Ausbreitung des Virus *verhindern*.
+
+  Le bruit *empêche* les étudiants de se concentrer.
+  Der Lärm *hindert* die Studenten daran, sich zu konzentrieren.
+
+  Tu ne pourras pas *empêcher* que la vérité éclate.
+  Du wirst nicht *verhindern* können, dass die Wahrheit ans Licht kommt.
+
+  Le brouillard *empêchait* les avions de décoller.
+  Der Nebel *verhinderte*, dass die Flugzeuge starten konnten.
+
+  Je n'ai pas pu m'*empêcher* d'éclater de rire.
+  Ich konnte nicht anders als loszulachen.
+
+  La pluie nous a *empêchés* de faire notre pique-nique.
+  Der Regen hat uns *daran gehindert*, unser Picknick zu machen.
+
+  Son attitude négative *empêche* tout dialogue constructif.
+  Seine negative Haltung *verhindert* jeden konstruktiven Dialog.
+
+  Les parents *empêchent* leurs enfants de regarder trop la télévision.
+  Die Eltern *hindern* ihre Kinder daran, zu viel fernzusehen.
+
+  Rien ne nous *empêche* d'essayer une nouvelle approche.
+  Nichts *hindert* uns daran, einen neuen Ansatz zu versuchen.
+
+  La chaleur m'*empêche* de dormir la nuit.
+  Die Hitze *hindert* mich daran, nachts zu schlafen.
+
+  Il n'y a rien qui *empêche* ce projet d'aboutir.
+  Nichts *verhindert*, dass dieses Projekt zum Abschluss kommt.
+
+  Ces règles *empêchent* les abus potentiels.
+  Diese Regeln *verhindern* potenzielle Missbräuche.
+
+  La police a *empêché* les suspects de quitter le pays.
+  Die Polizei hat *verhindert*, dass die Verdächtigen das Land verlassen.
+
+  Le ministre, *empêché* de venir, s'est excusé.
+  Der Minister, *verhindert* zu kommen, hat sich entschuldigt.
+
+  Cette technologie *empêche* la copie illégale des données.
+  Diese Technologie *verhindert* das illegale Kopieren der Daten.
+
+  Les nuages *empêchent* de voir les étoiles ce soir.
+  Die Wolken *verhindern*, dass man heute Abend die Sterne sehen kann.
+
+  "N'*empêche*, il avait raison depuis le début."
+  "*Dennoch* hatte er von Anfang an Recht."
+
+  Elle s'est *empêchée* de répondre à sa provocation.
+  Sie hat sich *zurückgehalten*, auf seine Provokation zu reagieren.
+
+  Cette décision *empêchera* de futures erreurs.
+  Diese Entscheidung wird künftige Fehler *verhindern*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

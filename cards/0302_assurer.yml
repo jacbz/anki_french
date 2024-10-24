@@ -13,41 +13,197 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le contrat assure une pension à l’époux survivant.
-  Der Vertrag sichert dem überlebenden Ehegatten eine Rente zu.
+  Le contrat *assure* une pension à l'époux survivant.
+  Der Vertrag *sichert* dem überlebenden Ehepartner eine Rente zu.
 
-  Je vais m’assurer que tout est prêt pour demain.
-  Ich werde sicherstellen, dass morgen alles bereit ist.
+  Je peux vous *assurer* qu'elle sera là à l'heure.
+  Ich kann Ihnen *versichern*, dass sie pünktlich da sein wird.
 
-  Le directeur a assuré à Marie que Pierre l'aiderait à terminer le projet.
-  Der Chef hat Marie versichert, dass Pierre ihr helfen würde, das Projekt abzuschließen.
+  "Ce nouveau smartphone *assure* vraiment !"
+  "Das neue Smartphone ist echt *der Hammer*!"
 
-  Jean s'est assuré à la compagnie Y contre les dommages causés par le feu.
-  Jean hat sich bei der Gesellschaft Y gegen Feuerschäden versichert.
+  La compagnie *assure* notre maison contre les inondations.
+  Die Versicherung *versichert* unser Haus gegen Überschwemmungen.
 
-  La mère a assuré sa fille de son soutien indéfectible.
-  Die Mutter hat ihrer Tochter ihre unerschütterliche Unterstützung versichert.
+  Il faut *s'assurer* que toutes les portes sont fermées avant de partir.
+  Man muss sich *vergewissern*, dass alle Türen geschlossen sind, bevor man geht.
 
-  Paul a assuré sa voiture à la compagnie Z contre le vol.
-  Paul hat sein Auto bei der Versicherungsgesellschaft Z gegen Diebstahl versichert.
+  Le guide *assurait* le grimpeur avec une corde solide.
+  Der Führer *sicherte* den Kletterer mit einem stabilen Seil.
 
-  Le gouvernement a assuré une retraite confortable à tous les citoyens âgés.
-  Die Regierung hat allen älteren Bürgern eine komfortable Rente zugesichert.
+  Cette formation vous *assurera* un meilleur avenir professionnel.
+  Diese Ausbildung *sichert* Ihnen eine bessere berufliche Zukunft.
 
-  Avant de partir en voyage, il s'est assuré de la validité de son passeport.
-  Bevor er auf Reisen ging, hat er sich von der Gültigkeit seines Passes überzeugt.
+  Un bus navette *assure* la liaison entre l'aéroport et le centre-ville.
+  Ein Shuttlebus *gewährleistet* die Verbindung zwischen Flughafen und Stadtzentrum.
 
-  Le candidat a essayé de s'assurer l'appui des électeurs avant l'élection.
-  Der Kandidat hat versucht, sich die Unterstützung der Wähler vor der Wahl zu sichern.
+  Je *m'assure* toujours contre les accidents de voyage.
+  Ich *versichere* mich immer gegen Reiseunfälle.
 
-  Si, si, je t'assure! J'ai vu le monstre de mes propres yeux!
-  Doch, doch, das kannst du mir glauben! Ich habe das Monster mit eigenen Augen gesehen!
+  Elle a *assuré* ses bijoux pour une valeur de 10 000 euros.
+  Sie hat ihren Schmuck für einen Wert von 10.000 Euro *versichert*.
 
-  Mon témoignage va assurer le jury de son innocence, car j'ai été témoin de la scène.
-  Meine Aussage wird die Jury von seiner Unschuld überzeugen, weil ich Zeuge der Szene war.
+  Le directeur nous a *assurés* de son soutien.
+  Der Direktor hat uns seiner Unterstützung *versichert*.
 
-  L'hôpital a assuré la priorité aux patients les plus gravement malades.
-  Das Krankenhaus hat den schwerstkranken Patienten Priorität eingeräumt.
+  Ce traité *assure* la paix dans la région.
+  Dieser Vertrag *sichert* den Frieden in der Region.
+
+  "Je t'*assure*, c'est la pure vérité !"
+  "Ich *versichere* dir, das ist die reine Wahrheit!"
+
+  Les cordages *assurent* la stabilité du chargement.
+  Die Seile *sichern* die Stabilität der Ladung.
+
+  Il faut *s'assurer* de l'exactitude des informations avant de les publier.
+  Man muss sich der Richtigkeit der Informationen *vergewissern*, bevor man sie veröffentlicht.
+
+  Cette entreprise *assure* un excellent service après-vente.
+  Dieses Unternehmen *gewährleistet* einen ausgezeichneten Kundenservice.
+
+  Le nouveau système *assure* une meilleure protection des données.
+  Das neue System *garantiert* einen besseren Datenschutz.
+
+  Ces revenus lui *assurent* une totale indépendance financière.
+  Diese Einnahmen *sichern* ihm völlige finanzielle Unabhängigkeit.
+
+  La police *s'est assurée* du suspect hier soir.
+  Die Polizei hat sich des Verdächtigen gestern Abend *bemächtigt*.
+
+  Il faut *s'assurer* l'appui des collègues avant de lancer le projet.
+  Man muss sich der Unterstützung der Kollegen *versichern*, bevor man das Projekt startet.
+
+  "En mathématiques, ce prof *assure* vraiment !"
+  "In Mathe ist dieser Lehrer echt *fit*!"
+
+  Les parents doivent *s'assurer* que leurs enfants sont bien rentrés.
+  Die Eltern müssen sich *vergewissern*, dass ihre Kinder gut nach Hause gekommen sind.
+
+  Cette technologie *assure* un fonctionnement sans interruption.
+  Diese Technologie *gewährleistet* einen unterbrechungsfreien Betrieb.
+
+  Je vous *assure* que ce n'était pas mon intention.
+  Ich *versichere* Ihnen, dass das nicht meine Absicht war.
+
+  Son témoignage a *assuré* ma libération.
+  Seine Aussage hat meine Freilassung *bewirkt*.
+
+  La cavalière est bien *assurée* sur sa selle.
+  Die Reiterin sitzt *sicher* im Sattel.
+
+  Le nouveau chef *assure* la continuité du service.
+  Der neue Chef *stellt* die Kontinuität des Dienstes *sicher*.
+
+  Cette mesure *assure* la sécurité des piétons.
+  Diese Maßnahme *gewährleistet* die Sicherheit der Fußgänger.
+
+  Je me suis *assuré* une retraite confortable.
+  Ich habe mir eine komfortable Rente *gesichert*.
+
+  L'État *assure* l'éducation gratuite pour tous.
+  Der Staat *garantiert* kostenlose Bildung für alle.
+
+  Il faut *s'assurer* de la qualité des produits.
+  Man muss sich der Qualität der Produkte *vergewissern*.
+
+  Cette compagnie *assure* tous mes biens.
+  Diese Gesellschaft *versichert* meinen gesamten Besitz.
+
+  Le nouveau contrat *assure* de meilleures conditions de travail.
+  Der neue Vertrag *garantiert* bessere Arbeitsbedingungen.
+
+  "Je t'*assure*, elle va adorer ton cadeau !"
+  "Ich *versichere* dir, sie wird dein Geschenk lieben!"
+
+  La banque *s'est assurée* du remboursement du prêt.
+  Die Bank hat sich der Rückzahlung des Kredits *versichert*.
+
+  Ce système *assure* une distribution équitable des ressources.
+  Dieses System *gewährleistet* eine gerechte Verteilung der Ressourcen.
+
+  Il faut *s'assurer* que le médicament est bien toléré.
+  Man muss sich *vergewissern*, dass das Medikament gut vertragen wird.
+
+  Cette formation *assure* un taux d'emploi de 90%.
+  Diese Ausbildung *garantiert* eine Beschäftigungsquote von 90%.
+
+  Le nouveau protocole *assure* la confidentialité des données.
+  Das neue Protokoll *sichert* die Vertraulichkeit der Daten.
+
+  "Cette voiture *assure* en tout-terrain !"
+  "Dieses Auto *macht sich* im Gelände!"
+
+  Les pompiers *s'assurent* que l'incendie est bien éteint.
+  Die Feuerwehrleute *vergewissern* sich, dass das Feuer wirklich gelöscht ist.
+
+  Cette entreprise *assure* la livraison en 24 heures.
+  Dieses Unternehmen *garantiert* die Lieferung innerhalb von 24 Stunden.
+
+  Le gardien *s'assure* que toutes les fenêtres sont fermées.
+  Der Hausmeister *vergewissert* sich, dass alle Fenster geschlossen sind.
+
+  Cette technique *assure* de meilleurs résultats.
+  Diese Technik *garantiert* bessere Ergebnisse.
+
+  Il faut *s'assurer* de la fraîcheur des aliments.
+  Man muss sich der Frische der Lebensmittel *vergewissern*.
+
+  Ce dispositif *assure* la protection contre les virus.
+  Diese Vorrichtung *gewährleistet* den Schutz vor Viren.
+
+  La police *assure* la sécurité du quartier.
+  Die Polizei *gewährleistet* die Sicherheit des Viertels.
+
+  Je peux vous *assurer* que le projet sera terminé à temps.
+  Ich kann Ihnen *versichern*, dass das Projekt rechtzeitig fertig wird.
+
+  Cette méthode *assure* un apprentissage efficace.
+  Diese Methode *garantiert* ein effektives Lernen.
+
+  Le nouveau système *assure* une meilleure ventilation.
+  Das neue System *gewährleistet* eine bessere Belüftung.
+
+  Cette entreprise *s'assure* les services des meilleurs experts.
+  Dieses Unternehmen *sichert* sich die Dienste der besten Experten.
+
+  Le contrat *assure* une garantie de dix ans.
+  Der Vertrag *gewährt* eine Garantie von zehn Jahren.
+
+  Il faut *s'assurer* du bon fonctionnement des freins.
+  Man muss sich der einwandfreien Funktion der Bremsen *vergewissern*.
+
+  Cette solution *assure* un rendement optimal.
+  Diese Lösung *garantiert* eine optimale Leistung.
+
+  La loi *assure* l'égalité des droits.
+  Das Gesetz *gewährleistet* die Gleichheit der Rechte.
+
+  Le nouveau chef *assure* comme un pro.
+  Der neue Chef *macht* seinen Job wie ein Profi.
+
+  Cette technologie *assure* une économie d'énergie.
+  Diese Technologie *gewährleistet* Energieeinsparungen.
+
+  Le médecin *s'assure* que le patient suit bien son traitement.
+  Der Arzt *vergewissert* sich, dass der Patient seine Behandlung gut befolgt.
+
+  Cette formation *assure* un bon départ professionnel.
+  Diese Ausbildung *garantiert* einen guten Berufseinstieg.
+
+  Les gendarmes *s'assurent* que la route est praticable.
+  Die Gendarmen *vergewissern* sich, dass die Straße befahrbar ist.
+
+  Cette entreprise *assure* la maintenance 24h/24.
+  Dieses Unternehmen *gewährleistet* die Wartung rund um die Uhr.
+
+  Ce système *assure* une protection maximale.
+  Dieses System *bietet* maximalen Schutz.
+
+  Il faut *s'assurer* du respect des normes.
+  Man muss sich der Einhaltung der Normen *vergewissern*.
+
+  Cette méthode *assure* des résultats rapides.
+  Diese Methode *garantiert* schnelle Ergebnisse.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

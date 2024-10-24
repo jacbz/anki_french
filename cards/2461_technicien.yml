@@ -13,29 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il faut des experts, des techniciens.
-  Es werden Experten und Techniker benötigt.
+  Il faut des experts, des *techniciens*.
+  Wir brauchen Experten und *Techniker*.
 
-  Le technicien a réparé la machine.
-  Der Techniker hat die Maschine repariert.
+  Notre équipe recherche un *technicien* en génie climatique expérimenté.
+  Unser Team sucht einen erfahrenen Klima*techniker*.
 
-  La jeune femme est une technicienne aérospatiale talentueuse.
-  Die junge Frau ist eine talentierte Raumfahrttechnikerin.
+  "Je suis *technicienne* de surface," dit-elle fièrement.
+  "Ich bin *Reinigungskraft*," sagte sie stolz.
 
-  Le technicien de la finance a analysé les chiffres avec précision.
-  Der Finanzexperte hat die Zahlen präzise analysiert.
+  Le *technicien* du laboratoire analyse les échantillons avec précision.
+  Der Labor*techniker* analysiert die Proben mit Präzision.
 
-  Le technicien en génie climatique a installé un nouveau système de ventilation.
-  Die Klimatechnikerin hat ein neues Lüftungssystem installiert.
+  Cette *technicienne* aérospatiale travaille sur les nouveaux satellites.
+  Diese Raumfahrt*technikerin* arbeitet an den neuen Satelliten.
 
-  Le technicien de laboratoire dans l'industrie chimique a effectué des tests rigoureux.
-  Der Chemielaborant hat strenge Tests durchgeführt.
+  En tant que *technicien* de la finance, il comprend bien les marchés.
+  Als Finanz*experte* versteht er die Märkte gut.
 
-  Le technicien de la politique a conseillé le ministre sur la nouvelle loi.
-  Der Politikexperte hat den Minister zur neuen Gesetzgebung beraten.
+  La *technicienne* de laboratoire prépare les analyses chimiques.
+  Die Chemie*laborantin* bereitet die chemischen Analysen vor.
 
-  Le technicien préposé à la sécurité a vérifié les équipements de protection.
-  Der Sicherheitsbeauftragte hat die Schutzausrüstung kontrolliert.
+  Notre *technicien* responsable de la sécurité vérifie les alarmes chaque matin.
+  Unser Sicherheits*beauftragter* überprüft jeden Morgen die Alarmanlagen.
+
+  Cette pianiste n'est pas seulement une *technicienne*, elle joue avec beaucoup d'émotion.
+  Diese Pianistin ist nicht nur eine *Technikerin*, sie spielt mit viel Gefühl.
+
+  Les *techniciens* de la télévision préparent le plateau pour l'émission.
+  Die Fernseh*techniker* bereiten das Studio für die Sendung vor.
+
+  La *technicienne* de surface arrivera à six heures demain matin.
+  Die *Reinigungskraft* kommt morgen früh um sechs Uhr.
+
+  Notre société recherche une *technicienne* qualifiée pour notre nouveau projet.
+  Unsere Firma sucht eine qualifizierte *Technikerin* für unser neues Projekt.
+
+  Le *technicien* travaille sous la direction de l'ingénieur en chef.
+  Der *Techniker* arbeitet unter der Leitung des Chefingenieurs.
+
+  Cette *technicienne* de la politique analyse les sondages avec précision.
+  Diese Politik*expertin* analysiert die Umfragen mit Präzision.
+
+  Les *techniciens* du son règlent les micros avant le concert.
+  Die Ton*techniker* stellen die Mikrofone vor dem Konzert ein.
+
+  La *technicienne* informatique a résolu le problème en quelques minutes.
+  Die IT-*Technikerin* hat das Problem in wenigen Minuten gelöst.
+
+  Notre *technicien* en climatisation vérifie le système deux fois par an.
+  Unser Klima*techniker* überprüft das System zweimal im Jahr.
+
+  Les *techniciens* du laboratoire ont fait une découverte importante.
+  Die Labor*techniker* haben eine wichtige Entdeckung gemacht.
+
+  La *technicienne* de maintenance répare les machines depuis vingt ans.
+  Die Wartungs*technikerin* repariert seit zwanzig Jahren die Maschinen.
+
+  Notre civilisation devient de plus en plus *technicienne*.
+  Unsere Zivilisation wird immer *technischer*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

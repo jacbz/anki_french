@@ -13,35 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Un quart de million d’articles ont été distribués.
-  Eine Viertelmillion Artikel wurden verteilt.
+  Un quart de *million* d'articles ont été distribués.
+  Eine Viertelmillion *Million* Artikel wurden verteilt.
 
-  Il a gagné un million d’euros à la loterie.
-  Er hat eine Million Euro im Lotto gewonnen.
+  La ville compte maintenant plus d'un *million* d'habitants.
+  Die Stadt hat jetzt mehr als eine *Million* Einwohner.
 
-  Le concert a attiré plus d'un million de personnes.
-  Das Konzert lockte über eine Million Menschen an.
+  L'entreprise a fait des *millions* de bénéfices cette année.
+  Das Unternehmen hat dieses Jahr *Millionen*gewinne gemacht.
 
-  Deux millions de personnes ont participé à la manifestation.
-  Zwei Millionen Menschen nahmen an der Demonstration teil.
+  Nous avons reçu des *millions et des millions* de demandes.
+  Wir haben Tausende und Abertausende von Anfragen erhalten.
 
-  Des millions de personnes vivent dans la pauvreté.
-  Millionen von Menschen leben in Armut.
+  "Il lui reste quelques petits *millions* sur son compte."
+  "Er hat noch ein paar *Milliönchen* auf seinem Konto."
 
-  Des millions de choses sont produites chaque jour dans cette usine.
-  Millionen von Dingen werden täglich in diesem Werk hergestellt.
+  Ce *million* d'euros servira à rénover l'école.
+  Diese *Million* Euro wird für die Renovierung der Schule verwendet.
 
-  L'entreprise a réalisé des millions de bénéfices cette année.
-  Die Firma hat in diesem Jahr Millionengewinne erzielt.
+  Des *millions* de personnes ont regardé le match en direct.
+  *Millionen* Menschen haben das Spiel live gesehen.
 
-  Il y a des millions et des millions d'étoiles dans l'univers.
-  Es gibt Tausende und Abertausende von Sternen im Universum.
+  Le projet coûtera plusieurs *millions* d'euros.
+  Das *Millionen*projekt wird mehrere Millionen Euro kosten.
 
-  Il a gagné quelques petits millions avec son invention.
-  Er hat mit seiner Erfindung ein paar Milliönchen verdient.
+  Sa fortune s'élève à dix *millions* d'euros.
+  Sein Vermögen beläuft sich auf zehn *Millionen* Euro.
 
-  Le projet de construction du nouveau stade est un projet de plusieurs millions.
-  Das Bauprojekt des neuen Stadions ist ein Millionenprojekt.
+  Le pays a exporté trois *millions* de tonnes de blé.
+  Das Land hat drei *Millionen* Tonnen Weizen exportiert.
+
+  "Je ne le ferais pas pour un *million*!"
+  "Das würde ich nicht für eine *Million* tun!"
+
+  Je t'ai déjà dit ça un *million* de fois!
+  Ich habe dir das schon *millionen*mal gesagt!
+
+  Ces travaux ont coûté des *millions* à la ville.
+  Diese Arbeiten haben die Stadt *Millionen* gekostet.
+
+  Notre chaîne YouTube a dépassé un *million* d'abonnés.
+  Unser YouTube-Kanal hat die *Million* Abonnenten überschritten.
+
+  Les *millions* qu'il a gagnés au loto ont changé sa vie.
+  Die *Millionen*, die er im Lotto gewonnen hat, haben sein Leben verändert.
+
+  L'application compte désormais des *millions* de téléchargements.
+  Die App verzeichnet mittlerweile *Millionen* Downloads.
+
+  Ce nouveau vaccin sauvera des *millions* de vies.
+  Dieser neue Impfstoff wird *Millionen* Leben retten.
+
+  Un demi-*million* de visiteurs ont assisté au festival.
+  Eine halbe *Million* Besucher haben das Festival besucht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

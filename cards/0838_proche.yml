@@ -13,47 +13,125 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous n’avions pas de famille proche.
-  Wir hatten keine nahen Verwandten.
+  Nous n'avions pas de famille *proche*.
+  Wir hatten keine *nahen* Verwandten.
 
-  Ma famille habite proche de moi.
-  Meine Familie wohnt in der Nähe von mir.
+  L'école est *proche* du centre-ville.
+  Die Schule liegt *nah* am Stadtzentrum.
 
-  Je veux savoir si c’est proche.
-  Ich möchte wissen, ob es in der Nähe ist.
+  Le restaurant le plus *proche* se trouve à deux kilomètres.
+  Das nächst*gelegene* Restaurant ist zwei Kilometer entfernt.
 
-  Son bureau est très proche du mien.
-  Sein Büro befindet sich ganz in der Nähe von meinem.
+  Ces deux bâtiments sont très *proches* l'un de l'autre.
+  Diese beiden Gebäude liegen sehr *nah* beieinander.
 
-  Il y a un restaurant tout proche, si vous avez faim.
-  Es gibt ein Restaurant ganz in der Nähe, falls Sie Hunger haben.
+  La planète Mars est *proche* de la Terre en ce moment.
+  Der Mars ist der Erde momentan sehr *nah*.
 
-  Les proches d'elle, ses amis et sa famille, lui ont apporté leur soutien.
-  Die ihr Nahestehenden, ihre Freunde und Familie, haben ihr ihre Unterstützung gegeben.
+  Le *proche* voisin a appelé la police.
+  Der *unmittelbare* Nachbar hat die Polizei gerufen.
 
-  La nouvelle s'est répandue de proche en proche.
-  Die Neuigkeit hat sich nach und nach verbreitet.
+  La date de l'examen est *proche*.
+  Die Prüfung steht kurz *bevor*.
 
-  Le moment de la retraite est proche.
-  Der Zeitpunkt der Pensionierung steht kurz bevor.
+  Son départ est *proche*.
+  Seine Abreise steht *kurz bevor*.
 
-  Les événements décrits dans le roman ne sont pas très proches de notre époque.
-  Die Ereignisse, die in dem Roman geschildert werden, liegen nicht weit zurück.
+  Dans un *proche* avenir, nous aurons des voitures volantes.
+  In *naher* Zukunft werden wir fliegende Autos haben.
 
-  Je me sens très proche de mon frère.
-  Ich fühle mich meinem Bruder sehr nah.
+  Ces souvenirs sont encore très *proches*.
+  Diese Erinnerungen sind noch sehr *lebendig*.
 
-  Son travail est proche de celui de ses contemporains.
-  Seine Arbeit ähnelt der seiner Zeitgenossen.
+  Cet événement est trop *proche* de nous pour en parler objectivement.
+  Dieses Ereignis liegt uns zeitlich zu *nah*, um objektiv darüber zu sprechen.
 
-  La description du livre est proche de la réalité.
-  Die Beschreibung des Buches ist wirklichkeitsnah.
+  Pierre est un cousin *proche*.
+  Pierre ist ein *naher* Cousin.
 
-  Les proches de Jean lui ont rendu visite à l'hôpital.
-  Jeans Angehörige haben ihn im Krankenhaus besucht.
+  Je me sens très *proche* de ma sœur.
+  Ich fühle mich meiner Schwester sehr *nah*.
 
-  La ville la plus proche est située à 10 kilomètres.
-  Die nächste Stadt liegt 10 Kilometer entfernt.
+  Ces deux langues sont très *proches*.
+  Diese beiden Sprachen sind sehr *verwandt*.
+
+  Sa prévision était très *proche* de la réalité.
+  Seine Vorhersage war der Realität sehr *nah*.
+
+  Ce film est très *proche* de la vie quotidienne.
+  Dieser Film ist sehr *lebensnah*.
+
+  *De proche en proche*, il a convaincu tout le monde.
+  *Nach und nach* hat er alle überzeugt.
+
+  C'est un *proche* de la famille royale.
+  Er ist ein *Vertrauter* der königlichen Familie.
+
+  Les *proches* des victimes ont été prévenus.
+  Die *Angehörigen* der Opfer wurden benachrichtigt.
+
+  L'incendie s'est propagé *de proche en proche*.
+  Das Feuer breitete sich *nach und nach* aus.
+
+  Le bureau est *proche* de la gare.
+  Das Büro liegt *nah* am Bahnhof.
+
+  La fin du film est *proche*.
+  Das Ende des Films ist *nah*.
+
+  Ces deux idées sont très *proches*.
+  Diese beiden Ideen sind sich sehr *nah*.
+
+  Marie est une amie très *proche*.
+  Marie ist eine sehr *enge* Freundin.
+
+  Seuls les *proches* étaient invités au mariage.
+  Nur die *engsten* Verwandten waren zur Hochzeit eingeladen.
+
+  La solution était plus *proche* que nous ne le pensions.
+  Die Lösung lag *näher*, als wir dachten.
+
+  Le supermarché le plus *proche* est fermé aujourd'hui.
+  Der nächst*gelegene* Supermarkt hat heute geschlossen.
+
+  Une ville *proche* de Paris.
+  Eine Stadt *nahe* Paris.
+
+  La date limite est *proche*.
+  Der Stichtag rückt *näher*.
+
+  Les vacances sont *proches*.
+  Die Ferien stehen kurz *bevor*.
+
+  Son style d'écriture est *proche* de celui de Voltaire.
+  Sein Schreibstil ist dem von Voltaire sehr *ähnlich*.
+
+  Il habite dans le *proche* quartier.
+  Er wohnt im *angrenzenden* Viertel.
+
+  Nous sommes devenus très *proches* pendant le voyage.
+  Wir sind uns während der Reise sehr *nahegekommen*.
+
+  Cette traduction est très *proche* de l'original.
+  Diese Übersetzung ist dem Original sehr *nah*.
+
+  La pharmacie la plus *proche* est à cinq minutes à pied.
+  Die nächst*gelegene* Apotheke ist fünf Minuten zu Fuß entfernt.
+
+  Son bureau est *proche* du mien.
+  Sein Büro liegt *nah* an meinem.
+
+  Elle est une *proche* collaboratrice du directeur.
+  Sie ist eine *enge* Mitarbeiterin des Direktors.
+
+  J'ai averti mes *proches* de mon déménagement.
+  Ich habe meine *Angehörigen* über meinen Umzug informiert.
+
+  Je cherche un appartement *proche* du centre.
+  Ich suche eine Wohnung *nah* am Zentrum.
+
+  Nos points de vue sont très *proches*.
+  Unsere Standpunkte sind sich sehr *nah*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

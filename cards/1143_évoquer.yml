@@ -13,17 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On peut l’écouter des heures évoquer des souvenirs.
-  Man kann ihm stundenlang zuhören, wenn er Erinnerungen wachruft.
+  On peut l'écouter des heures *évoquer* des souvenirs.
+  Man kann ihm stundenlang zuhören, wie er Erinnerungen *heraufbeschwört*.
 
-  Ce tableau évoque la tristesse.
-  Dieses Gemälde ruft Traurigkeit hervor.
+  Les photos de vacances *évoquent* de beaux moments passés ensemble.
+  Die Urlaubsfotos *rufen* schöne gemeinsame Momente *wach*.
 
-  Ce mot n'évoque rien pour moi.
-  Mit diesem Wort verbinde ich nichts.
+  Cette musique *évoque* pour moi mon enfance à Paris.
+  Diese Musik *erinnert* mich an meine Kindheit in Paris.
 
-  Le parfum de la mer évoque chez moi des souvenirs d'enfance.
-  Der Duft des Meeres erinnert mich an meine Kindheit.
+  L'odeur du pain frais *évoque* toujours la maison de ma grand-mère.
+  Der Duft von frischem Brot *ruft* mir immer das Haus meiner Großmutter *ins Gedächtnis*.
+
+  Le professeur a *évoqué* brièvement ce sujet pendant le cours.
+  Der Lehrer hat dieses Thema im Unterricht kurz *angeschnitten*.
+
+  Son style d'écriture *évoque* celui des grands auteurs classiques.
+  Sein Schreibstil *erinnert* an den der großen klassischen Autoren.
+
+  Je voudrais *évoquer* un point important avec vous.
+  Ich möchte einen wichtigen Punkt mit Ihnen *ansprechen*.
+
+  Ces ruines antiques *évoquent* la grandeur de Rome.
+  Diese antiken Ruinen *vermitteln* eine Vorstellung von der Größe Roms.
+
+  Elle a délicatement *évoqué* les difficultés du projet.
+  Sie hat die Schwierigkeiten des Projekts behutsam *erwähnt*.
+
+  Le film *évoque* la vie des immigrants dans les années 50.
+  Der Film *schildert* das Leben der Einwanderer in den 50er Jahren.
+
+  Ce nom ne m'*évoque* absolument rien.
+  Dieser Name *sagt* mir überhaupt nichts.
+
+  L'artiste *évoque* la nature à travers ses peintures abstraites.
+  Der Künstler *evoziert* die Natur durch seine abstrakten Gemälde.
+
+  La romancière *évoque* brillamment l'atmosphère du Paris d'après-guerre.
+  Die Romanautorin *beschreibt* brillant die Atmosphäre des Nachkriegsparis.
+
+  Pendant la séance, nous avons *évoqué* plusieurs solutions possibles.
+  Während der Sitzung haben wir mehrere mögliche Lösungen *angesprochen*.
+
+  Son parfum *évoque* le printemps et les fleurs.
+  Ihr Parfüm *weckt* Gedanken an Frühling und Blumen.
+
+  Le journaliste a *évoqué* les conséquences du changement climatique.
+  Der Journalist hat die Folgen des Klimawandels *thematisiert*.
+
+  Cette mélodie m'*évoque* toujours notre première rencontre.
+  Diese Melodie *erinnert* mich immer an unser erstes Treffen.
+
+  Il *évoqua* son projet devant un public attentif.
+  Er *stellte* sein Projekt vor einem aufmerksamen Publikum *dar*.
+
+  Les poètes aiment *évoquer* les beautés de la nature.
+  Dichter lieben es, die Schönheiten der Natur zu *beschwören*.
+
+  Dans son discours, elle a *évoqué* les défis à venir.
+  In ihrer Rede hat sie die kommenden Herausforderungen *angesprochen*.
+
+  Le peintre *évoque* la solitude à travers ses œuvres.
+  Der Maler *vermittelt* durch seine Werke Einsamkeit.
+
+  Personne n'osait *évoquer* ce sujet délicat.
+  Niemand wagte es, dieses heikle Thema *anzusprechen*.
+
+  Cette ville *évoque* pour moi beaucoup de souvenirs.
+  Diese Stadt *weckt* in mir viele Erinnerungen.
+
+  Le roman *évoque* la vie quotidienne au Moyen Âge.
+  Der Roman *schildert* das alltägliche Leben im Mittelalter.
+
+  Il a *évoqué* la possibilité d'un changement de carrière.
+  Er hat die Möglichkeit eines Berufswechsels *erwogen*.
+
+  Les anciens *évoquaient* les esprits par des rituels mystérieux.
+  Die Alten *beschworen* die Geister durch geheimnisvolle Rituale.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

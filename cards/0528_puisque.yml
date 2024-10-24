@@ -13,26 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je ne lui répondais pas puisque j’étais muet.
-  Ich antwortete ihr nicht, da ich stumm war.
+  Je ne lui répondais pas *puisque* j'étais muet.
+  Ich antwortete ihm nicht, *da* ich stumm war.
 
-  Puisque tu es là, aide-moi.
-  Da du hier bist, hilf mir bitte.
+  *Puisque* tu es là, aide-moi à porter ces cartons.
+  *Da* du schon mal hier bist, hilf mir beim Tragen dieser Kartons.
 
-  Puisque je suis ici, laissez-moi vous aider.
-  Wenn ich schon einmal hier bin, lassen Sie mich Ihnen helfen.
+  *Puisque* vous insistez tant, je vais vous raconter toute l'histoire.
+  *Da* Sie so darauf bestehen, werde ich Ihnen die ganze Geschichte erzählen.
 
-  Mais puisqu'elle est malade, elle ne peut pas venir à la fête.
-  Aber sie ist doch krank, sie kann nicht zur Party kommen.
+  "Mais *puisque* je te dis que j'ai déjà fait mes devoirs !"
+  "Aber ich sage dir *ja*, dass ich meine Hausaufgaben schon gemacht habe!"
 
-  Puisqu'il est ainsi, je ferai de mon mieux.
-  Da es nun einmal so ist, werde ich mein Bestes geben.
+  Il doit être riche, *puisqu*'il conduit une voiture de luxe.
+  Er muss reich sein, *da* er einen Luxuswagen fährt.
 
-  Puisqu'il le faut, je vais essayer.
-  Wenn es sein muss, werde ich es versuchen.
+  *Puisqu*'il pleut, nous annulons le pique-nique.
+  *Da* es regnet, sagen wir das Picknick ab.
 
-  Ce doit être vrai, puisqu'il le dit, mais j'ai quand même des doutes.
-  Wenn er es sagt, muss es ja stimmen, aber ich habe trotzdem Zweifel.
+  Son déménagement, *puisque* déménagement il y a, est prévu pour juillet.
+  Sein Umzug, *wenn* es denn einer ist, ist für Juli geplant.
+
+  *Puisque* personne ne peut venir, nous reportons la fête.
+  *Da* niemand kommen kann, verschieben wir die Party.
+
+  "*Puisque* c'est comme ça, je m'en vais !"
+  "*Wenn* das so ist, gehe ich!"
+
+  *Puisque* vous êtes si pressé, prenez ma place dans la file.
+  *Da* Sie es so eilig haben, nehmen Sie meinen Platz in der Schlange.
+
+  *Puisqu*'on vous en prie, acceptez notre invitation.
+  *Da* wir Sie darum bitten, nehmen Sie unsere Einladung an.
+
+  Nous devons partir maintenant, *puisqu*'il se fait tard.
+  Wir müssen jetzt gehen, *da* es spät wird.
+
+  *Puisque* tout le monde est d'accord, commençons la réunion.
+  *Da* alle einverstanden sind, lasst uns mit der Besprechung beginnen.
+
+  *Puisque* vous le dites, je vous crois.
+  *Wenn* Sie das sagen, glaube ich Ihnen.
+
+  *Puisqu*'il fait beau, allons nous promener.
+  *Da* das Wetter schön ist, lasst uns spazieren gehen.
+
+  Ce restaurant doit être bon, *puisqu*'il y a toujours du monde.
+  Dieses Restaurant muss gut sein, *da* es immer voll ist.
+
+  *Puisque* tu as fini ton travail, tu peux rentrer chez toi.
+  *Da* du mit deiner Arbeit fertig bist, kannst du nach Hause gehen.
+
+  *Puisque* l'affaire est réglée, passons à autre chose.
+  *Da* die Sache erledigt ist, lass uns zum nächsten Punkt übergehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

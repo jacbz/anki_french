@@ -13,35 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il s’agit d’élaborer des traités internationaux.
-  Es geht darum, internationale Verträge auszuarbeiten.
+  Il s'agit d'élaborer des *traités* internationaux.
+  Es geht darum, internationale *Verträge* auszuarbeiten.
 
-  Le traité de Versailles a mis fin à la Première Guerre mondiale.
-  Der Vertrag von Versailles beendete den Ersten Weltkrieg.
+  L'historien a écrit un *traité* sur l'art de la Renaissance.
+  Der Historiker hat eine *Abhandlung* über die Kunst der Renaissance geschrieben.
 
-  Le traité communautaire était secret.
-  Der Gemeinschaftsvertrag war geheim.
+  Le *traité* de paix a été signé hier à Genève.
+  Der Friedens*vertrag* wurde gestern in Genf unterzeichnet.
 
-  Le traité collectif a été signé par les deux parties.
-  Der Kollektivvertrag wurde von beiden Seiten unterzeichnet.
+  Les deux pays ont conclu un *traité* secret en 1995.
+  Die beiden Länder haben 1995 einen geheimen *Vertrag* geschlossen.
 
-  Le traité collectif de société a été négocié entre les employés et la direction.
-  Der Betriebskollektivvertrag wurde zwischen den Angestellten und der Geschäftsleitung ausgehandelt.
+  Ce *traité* de mathématiques est utilisé dans toutes les universités.
+  Diese Mathematik*abhandlung* wird in allen Universitäten verwendet.
 
-  Le traité fondamental entre la France et l'Allemagne a été signé en 1963.
-  Der Grundvertrag zwischen Frankreich und Deutschland wurde 1963 unterzeichnet.
+  Le *traité* de Maastricht a marqué une étape importante dans l'histoire de l'UE.
+  Der Maastrichter *Vertrag* markierte einen wichtigen Meilenstein in der EU-Geschichte.
 
-  Le traité bilatéral de protectorat des investissements a été conclu entre les deux pays.
-  Der bilaterale Investitionsschutzvertrag wurde zwischen den beiden Ländern geschlossen.
+  Elle prépare un nouveau *traité* sur la psychologie cognitive.
+  Sie bereitet eine neue *Abhandlung* über kognitive Psychologie vor.
 
-  Le traité international sur les droits de l'homme a été ratifié par de nombreux pays.
-  Der völkerrechtliche Vertrag über die Menschenrechte wurde von vielen Ländern ratifiziert.
+  Le parlement doit encore ratifier ce *traité* commercial.
+  Das Parlament muss dieses Handels*abkommen* noch ratifizieren.
 
-  Le traité d'accession à l'Union européenne a été signé par la Croatie en 2011.
-  Der Beitrittsvertrag zur Europäischen Union wurde 2011 von Kroatien unterzeichnet.
+  J'ai lu un excellent *traité* sur l'histoire de la musique baroque.
+  Ich habe eine ausgezeichnete *Abhandlung* über die Geschichte der Barockmusik gelesen.
 
-  Le traité sur le contrôle des armements a été négocié par les grandes puissances.
-  Das Rüstungskontrollabkommen wurde von den Großmächten ausgehandelt.
+  Les négociations pour ce *traité* environnemental ont duré trois ans.
+  Die Verhandlungen für dieses Umwelt*abkommen* dauerten drei Jahre.
+
+  Son *traité* sur l'architecture médiévale fait référence.
+  Seine *Abhandlung* über mittelalterliche Architektur gilt als Standardwerk.
+
+  Le *traité* communautaire doit être approuvé par tous les États membres.
+  Der Gemeinschafts*vertrag* muss von allen Mitgliedstaaten genehmigt werden.
+
+  Les experts analysent encore les implications de ce *traité*.
+  Die Experten analysieren noch die Auswirkungen dieses *Abkommens*.
+
+  Ce *traité* de physique quantique est très complet.
+  Diese *Abhandlung* über Quantenphysik ist sehr umfassend.
+
+  Nous devons respecter les termes du *traité*.
+  Wir müssen die Bedingungen des *Vertrags* einhalten.
+
+  Le nouveau *traité* sur le contrôle des armements entrera en vigueur l'année prochaine.
+  Das neue Rüstungskontroll*abkommen* tritt nächstes Jahr in Kraft.
+
+  Les étudiants consultent souvent ce *traité* de philosophie.
+  Die Studenten konsultieren häufig diese Philosophie*abhandlung*.
+
+  Le *traité* d'accession sera signé le mois prochain.
+  Der Beitritts*vertrag* wird nächsten Monat unterzeichnet.
+
+  Plusieurs pays ont déjà ratifié ce *traité* bilatéral.
+  Mehrere Länder haben dieses bilaterale *Abkommen* bereits ratifiziert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

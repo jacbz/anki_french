@@ -13,23 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tu voulais que je signe les papiers.
-  Du wolltest, dass ich die Papiere unterschreibe.
+  Tu voulais que je *signe* les papiers.
+  Du wolltest, dass ich die Papiere *unterschreibe*.
 
-  Je dois signer ce document.
-  Ich muss dieses Dokument unterschreiben.
+  Elle a *signé* tous les documents sans même les lire.
+  Sie hat alle Dokumente *unterschrieben*, ohne sie überhaupt zu lesen.
 
-  Le peintre a signé son tableau de son nom, au bas de la toile.
-  Der Maler hat sein Bild unten auf der Leinwand mit seinem Namen signiert.
+  L'artiste a *signé* son tableau d'un pseudonyme.
+  Der Künstler hat sein Gemälde mit einem Pseudonym *signiert*.
 
-  C'est signé, c'est lui qui a commis ce crime.
-  Es ist sonnenklar, wer das Verbrechen begangen hat.
+  Le président *signera* le traité de paix demain matin.
+  Der Präsident wird morgen früh den Friedensvertrag *unterzeichnen*.
 
-  Ce poème est signé de Victor Hugo, l'un des plus grands écrivains français.
-  Dieses Gedicht stammt von Victor Hugo, einem der größten französischen Schriftsteller.
+  Marie doit *signer* son chèque avant de le donner à la banque.
+  Marie muss ihren Scheck *unterschreiben*, bevor sie ihn zur Bank bringt.
 
-  Il a signé le contrat en blanc, sans même le lire.
-  Er hat den Vertrag blanko unterschrieben, ohne ihn überhaupt zu lesen.
+  "C'est *signé*" - tout le monde savait que c'était son œuvre.
+  "Das *trägt eindeutig seinen Stempel*" - jeder wusste, dass es sein Werk war.
+
+  La vieille dame s'est *signée* en passant devant l'église.
+  Die alte Dame hat sich beim Vorbeigehen an der Kirche *bekreuzigt*.
+
+  Il faut *signer* ici, en bas de la page.
+  Sie müssen hier unten auf der Seite *unterschreiben*.
+
+  Le jeune peintre a enfin *signé* sa première grande œuvre.
+  Der junge Maler hat endlich sein erstes großes Werk *signiert*.
+
+  Je refuse de *signer* un contrat en blanc.
+  Ich weigere mich, einen Vertrag *blanko zu unterschreiben*.
+
+  Cette méthode criminelle était *signée* : c'était forcément lui.
+  Diese kriminelle Methode *trug seine Handschrift*: Es musste er gewesen sein.
+
+  Les deux pays ont *signé* un accord commercial important.
+  Die beiden Länder haben ein wichtiges Handelsabkommen *unterzeichnet*.
+
+  L'interprète *signe* rapidement pour les personnes sourdes.
+  Die Dolmetscherin *gebärdet* schnell für die gehörlosen Menschen.
+
+  La star *signait* des autographes après le concert.
+  Der Star *unterschrieb* nach dem Konzert Autogramme.
+
+  Je *signerai* de mon sang que c'est la vérité !
+  Ich würde dafür meine Hand ins Feuer legen, dass das die Wahrheit ist!
+
+  Le groupe de rock a *signé* avec une nouvelle maison de disques.
+  Die Rockband hat bei einer neuen Plattenfirma *unterschrieben*.
+
+  Veuillez *signer* votre déposition au commissariat.
+  Bitte *unterschreiben* Sie Ihre Aussage auf dem Polizeirevier.
+
+  Les enfants ont *signé* la carte d'anniversaire pour leur professeur.
+  Die Kinder haben die Geburtstagskarte für ihren Lehrer *unterschrieben*.
+
+  Cette sculpture n'est pas *signée* par l'artiste.
+  Diese Skulptur ist vom Künstler nicht *signiert*.
+
+  Il persiste et *signe* : il n'était pas là ce soir-là.
+  Er *bleibt dabei* und lässt sich nicht umstimmen: Er war an diesem Abend nicht dort.
+
+  La jeune femme *signe* toujours avec ses initiales.
+  Die junge Frau *unterschreibt* immer mit ihren Initialen.
+
+  En faisant cela, tu as *signé* ton arrêt de mort professionnel.
+  Damit hast du dir beruflich selbst das Grab *geschaufelt*.
+
+  Le notaire nous attend : nous *signons* mardi.
+  Der Notar wartet auf uns: Wir *unterschreiben* am Dienstag.
+
+  Ces pièces de mobilier sont toutes *signées* par des designers célèbres.
+  Diese Möbelstücke sind alle von berühmten Designern *signiert*.
+
+  Le réalisateur vient de *signer* son meilleur film.
+  Der Regisseur hat gerade seinen besten Film *geschaffen*.
+
+  L'ambassadeur a *signé* le document de sa propre main.
+  Der Botschafter hat das Dokument *eigenhändig unterschrieben*.
+
+  Les témoins doivent *signer* le registre de mariage.
+  Die Trauzeugen müssen das Hochzeitsregister *unterschreiben*.
+
+  Ce roman est *signé* par un auteur inconnu.
+  Dieser Roman *stammt* von einem unbekannten Autor.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

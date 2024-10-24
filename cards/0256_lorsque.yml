@@ -13,32 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Que se passe-t-il lorsque nous manquons de sucre?
-  Was passiert, wenn wir zu wenig Zucker haben?
+  Que se passe-t-il *lorsque* nous manquons de sucre ?
+  Was passiert, *wenn* uns der Zucker ausgeht?
 
-  Lorsque je finis mon travail, je rentre chez moi.
-  Wenn ich meine Arbeit beende, gehe ich nach Hause.
+  *Lorsque* vous serez arrivé à la maison, appelez-moi.
+  *Wenn* Sie zu Hause angekommen sind, rufen Sie mich an.
 
-  Faites-le lorsque vous en aurez le temps.
-  Tun Sie dies, wenn Sie die Zeit dazu haben.
+  *Lorsqu'*elle était petite, elle adorait jouer au piano.
+  *Als* sie klein war, liebte sie es, Klavier zu spielen.
 
-  Lorsque je me trouve avec toi, je suis heureux.
-  Wenn ich mit dir zusammen bin, bin ich glücklich.
+  Il continue à travailler *lorsque* tout le monde est déjà parti.
+  Er arbeitet weiter, *während* alle anderen schon gegangen sind.
 
-  Lorsque tu fais du vélo, fais attention aux voitures.
-  Wenn du Fahrrad fährst, achte auf die Autos.
+  *Lorsque* le printemps arrivera, les oiseaux reviendront.
+  *Wenn* der Frühling kommt, werden die Vögel zurückkehren.
 
-  Lorsque tu feras tes études, tu seras plus indépendant.
-  Wenn du dein Studium abschließt, wirst du unabhängiger sein.
+  *Lorsqu'*il pleut, je préfère rester à la maison.
+  *Wenn* es regnet, bleibe ich lieber zu Hause.
 
-  Lorsque tu faisais du ski, tu étais toujours en train de tomber.
-  Als du Ski gefahren bist, bist du immer gestürzt.
+  Je l'ai rencontré *lorsque* j'étais étudiant à Paris.
+  Ich habe ihn kennengelernt, *als* ich Student in Paris war.
 
-  Lorsque tu as fait ton gâteau, tu as oublié de mettre du sucre.
-  Als du deinen Kuchen gebacken hast, hast du vergessen, Zucker hineinzugeben.
+  *Lorsqu'*une fois vous aurez goûté ce gâteau, vous en voudrez encore.
+  *Sobald* Sie diesen Kuchen einmal probiert haben, werden Sie mehr davon wollen.
 
-  Lorsqu'il fera beau, nous sortirons nous promener dans le parc.
-  Wenn das Wetter schön ist, werden wir im Park spazieren gehen.
+  Elle dort toujours *lorsque* j'arrive au bureau.
+  Sie schläft immer noch, *wenn* ich im Büro ankomme.
+
+  *Lorsque* tu auras fini tes devoirs, nous irons au parc.
+  *Wenn* du deine Hausaufgaben fertig hast, gehen wir in den Park.
+
+  Il parle de vacances *lorsqu'*il devrait se concentrer sur son travail.
+  Er redet von Urlaub, *während* er sich auf seine Arbeit konzentrieren sollte.
+
+  *Lorsque* le soleil se couche, les températures baissent rapidement.
+  *Wenn* die Sonne untergeht, sinken die Temperaturen schnell.
+
+  *Lorsqu'*ils ont sonné à la porte, nous venions de nous lever.
+  *Als* sie an der Tür klingelten, waren wir gerade aufgestanden.
+
+  Marie sourit *lorsqu'*elle entend cette chanson.
+  Marie lächelt, *wenn* sie dieses Lied hört.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

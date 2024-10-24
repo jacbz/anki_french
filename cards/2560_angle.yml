@@ -13,35 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On a fait l’analyse sous deux angles.
-  Wir haben die Analyse aus zwei Blickwinkeln durchgeführt.
+  On a fait l'analyse sous deux *angles*.
+  Wir haben die Analyse unter zwei *Blickwinkeln* durchgeführt.
 
-  Le chat est assis dans l’angle de la pièce.
-  Die Katze sitzt in der Ecke des Raumes.
+  Le chat s'est caché dans l'*angle* de la pièce.
+  Die Katze hat sich in der *Ecke* des Zimmers versteckt.
 
-  La table avait un angle de 90 degrés, donc elle était parfaite pour le travail.
-  Die Tischplatte hatte einen rechten Winkel, also war sie perfekt zum Arbeiten.
+  Cet immeuble se trouve à l'*angle* de la rue Pasteur.
+  Dieses Gebäude befindet sich an der *Ecke* der Pasteurstraße.
 
-  Il a arrondi les angles dans son discours afin de ne pas offenser personne.
-  Er hat in seiner Rede für einen Ausgleich gesorgt, um niemanden zu verärgern.
+  En géométrie, un *angle* droit mesure 90 degrés.
+  In Geometrie misst ein rechter *Winkel* 90 Grad.
 
-  Un angle droit est un angle de 90 degrés, tandis qu'un angle aigu est inférieur à 90 degrés.
-  Ein rechter Winkel ist ein Winkel von 90 Grad, während ein spitzer Winkel kleiner als 90 Grad ist.
+  Attention à l'*angle* mort en conduisant !
+  Achte beim Fahren auf den toten *Winkel*!
 
-  Vu sous cet angle, le problème semble moins grave.
-  Unter diesem Gesichtspunkt betrachtet, scheint das Problem weniger schwerwiegend.
+  Le photographe a pris la photo sous un *angle* inhabituel.
+  Der Fotograf hat das Foto aus einem ungewöhnlichen *Blickwinkel* aufgenommen.
 
-  La maison qui fait l'angle est la plus vieille du quartier.
-  Das Eckhaus ist das Älteste im Viertel.
+  Les élèves apprennent à mesurer les *angles* avec un rapporteur.
+  Die Schüler lernen, *Winkel* mit einem Winkelmesser zu messen.
 
-  Je dois aller à l'angle de la rue Napoléon pour prendre le bus.
-  Ich muss bis zur Ecke Napoleonstraße gehen, um den Bus zu nehmen.
+  Il s'est cogné contre l'*angle* de la table.
+  Er ist gegen die *Ecke* des Tisches gestoßen.
 
-  Un objectif à grand angle est idéal pour prendre des photos panoramiques.
-  Ein Weitwinkelobjektiv eignet sich hervorragend für Panoramaaufnahmen.
+  L'architecte a conçu une maison sans *angles* droits.
+  Der Architekt hat ein Haus ohne rechte *Winkel* entworfen.
 
-  Vu sous un certain angle, le film est un chef-d'œuvre.
-  In gewisser Hinsicht ist der Film ein Meisterwerk.
+  Le journaliste a traité le sujet sous un nouvel *angle*.
+  Der Journalist hat das Thema unter einem neuen *Blickwinkel* behandelt.
+
+  Marie range toujours sa bibliothèque dans l'*angle* du salon.
+  Marie stellt ihr Bücherregal immer in die *Ecke* des Wohnzimmers.
+
+  L'*angle* d'incidence est égal à l'*angle* de réflexion.
+  Der Einfalls*winkel* ist gleich dem Reflexions*winkel*.
+
+  Le canapé s'adapte parfaitement à l'*angle* du mur.
+  Das Sofa passt perfekt in die *Ecke* der Wand.
+
+  J'ai installé une lampe dans l'*angle* de mon bureau.
+  Ich habe eine Lampe in die *Ecke* meines Arbeitszimmers gestellt.
+
+  La araignée a tissé sa toile dans l'*angle* de la fenêtre.
+  Die Spinne hat ihr Netz in der *Ecke* des Fensters gesponnen.
+
+  Les *angles* aigus sont inférieurs à 90 degrés.
+  Spitze *Winkel* sind kleiner als 90 Grad.
+
+  Le policier surveillait l'intersection depuis l'*angle* de la rue.
+  Der Polizist überwachte die Kreuzung von der Straßen*ecke* aus.
+
+  L'appareil photo grand *angle* capture plus de paysage.
+  Das Weitwinkelobjektiv erfasst mehr von der Landschaft.
+
+  Sophie aime étudier les *angles* des cristaux.
+  Sophie untersucht gerne die *Winkel* von Kristallen.
+
+  Le professeur dessine un *angle* obtus au tableau.
+  Der Lehrer zeichnet einen stumpfen *Winkel* an die Tafel.
+
+  L'*angle* de vue de cette caméra est impressionnant.
+  Der Sicht*winkel* dieser Kamera ist beeindruckend.
+
+  La souris s'est réfugiée dans l'*angle* sombre de la cuisine.
+  Die Maus ist in die dunkle *Ecke* der Küche geflüchtet.
+
+  Il faut mesurer l'*angle* de rotation de la Terre.
+  Man muss den Rotations*winkel* der Erde messen.
+
+  Pour éviter les conflits, il faut savoir *arrondir les angles*.
+  Um Konflikte zu vermeiden, muss man die Wogen *glätten*.
+
+  Le soleil frappe directement l'*angle* nord-est de la maison.
+  Die Sonne trifft direkt auf die Nord-Ost-*Ecke* des Hauses.
+
+  Les deux rues se croisent en formant un *angle* de 45 degrés.
+  Die beiden Straßen kreuzen sich in einem *Winkel* von 45 Grad.
+
+  L'*angle* facial permet d'étudier la morphologie du visage.
+  Der Gesichts*winkel* ermöglicht es, die Gesichtsmorphologie zu untersuchen.
+
+  Le nouveau bâtiment présente des *angles* très modernes.
+  Das neue Gebäude weist sehr moderne *Ecken* auf.
+
+  Cette question peut être abordée sous différents *angles*.
+  Diese Frage kann unter verschiedenen *Blickwinkeln* betrachtet werden.
+
+  L'*angle* de tir est crucial pour réussir ce coup franc.
+  Der Schuss*winkel* ist entscheidend für diesen Freistoß.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

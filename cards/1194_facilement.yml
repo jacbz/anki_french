@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai retrouvé facilement le carton.
-  Ich habe den Karton leicht wiedergefunden.
+  J'ai retrouvé *facilement* le carton.
+  Ich habe den Karton *leicht* gefunden.
 
-  Je peux facilement comprendre le français.
-  Ich kann Französisch leicht verstehen.
+  Le nouveau logiciel s'installe très *facilement*.
+  Die neue Software lässt sich sehr *leicht* installieren.
+
+  Les enfants apprennent à nager *facilement* dans l'eau chaude.
+  Die Kinder lernen im warmen Wasser *leicht* schwimmen.
+
+  Cette chaise peut *facilement* supporter 150 kilos.
+  Dieser Stuhl kann *locker* 150 Kilo tragen.
+
+  Marie se laisse *facilement* convaincre par ses amis.
+  Marie lässt sich von ihren Freunden *leicht* überzeugen.
+
+  "Il s'énerve *facilement* quand on le contredit."
+  "Er regt sich *schnell* auf, wenn man ihm widerspricht."
+
+  Cette voiture coûte *facilement* 50 000 euros.
+  Dieses Auto kostet *mindestens* 50.000 Euro.
+
+  Les jeunes s'adaptent *facilement* aux nouvelles technologies.
+  Junge Menschen passen sich *leicht* an neue Technologien an.
+
+  Tu peux *facilement* faire ce gâteau en moins d'une heure.
+  Du kannst diesen Kuchen *problemlos* in weniger als einer Stunde backen.
+
+  Elle a *facilement* réussi son examen de conduite.
+  Sie hat ihre Führerscheinprüfung *mühelos* bestanden.
+
+  Mon petit frère pleure *facilement* quand on le taquine.
+  Mein kleiner Bruder weint *schnell*, wenn man ihn neckt.
+
+  Ce problème peut être résolu *facilement*.
+  Dieses Problem lässt sich *leicht* lösen.
+
+  La peinture s'enlève *facilement* avec ce produit.
+  Die Farbe lässt sich mit diesem Produkt *leicht* entfernen.
+
+  On peut *facilement* perdre son chemin dans cette forêt.
+  Man kann sich in diesem Wald *leicht* verlaufen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

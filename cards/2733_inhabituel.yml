@@ -13,14 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous nous trouvons dans une situation inhabituelle.
-  Wir befinden uns in einer ungewöhnlichen Situation.
+  Nous nous trouvons dans une situation *inhabituelle*.
+  Wir befinden uns in einer *ungewöhnlichen* Situation.
 
-  C’est inhabituel de voir des étoiles en plein jour.
-  Es ist ungewöhnlich, Sterne am Tag zu sehen.
+  Le magasin ferme à une heure *inhabituelle* aujourd'hui.
+  Der Laden schließt heute zu einer *ungewohnten* Zeit.
 
-  Le prix proposé est inhabituel dans la branche, ce qui suscite la curiosité.
-  Der angebotene Preis ist branchenunüblich, was Neugier weckt.
+  Une *inhabituelle* agitation régnait dans le quartier ce matin-là.
+  Eine *ungewöhnliche* Unruhe herrschte an diesem Morgen im Viertel.
+
+  Les prix sont devenus *inhabituels* pour ce type de produit.
+  Die Preise sind für diese Art von Produkt *unüblich* geworden.
+
+  J'ai remarqué un comportement *inhabituel* chez mon chat hier soir.
+  Ich habe gestern Abend bei meiner Katze ein *ungewöhnliches* Verhalten bemerkt.
+
+  Ce bruit *inhabituel* m'a réveillé en pleine nuit.
+  Dieses *ungewohnte* Geräusch hat mich mitten in der Nacht geweckt.
+
+  Il a fait un geste *inhabituel* de la main pour nous saluer.
+  Er machte eine *ungewöhnliche* Handbewegung zur Begrüßung.
+
+  Cette chaleur *inhabituelle* en avril inquiète les agriculteurs.
+  Diese für April *ungewöhnliche* Hitze beunruhigt die Landwirte.
+
+  Le silence *inhabituel* dans la rue nous a tous surpris.
+  Die *ungewohnte* Stille auf der Straße hat uns alle überrascht.
+
+  La voiture fait un bruit *inhabituel* depuis ce matin.
+  Das Auto macht seit heute Morgen ein *ungewöhnliches* Geräusch.
+
+  Son absence *inhabituelle* nous a tous inquiétés.
+  Seine *ungewöhnliche* Abwesenheit hat uns alle beunruhigt.
+
+  L'entreprise a connu une croissance *inhabituelle* cette année.
+  Das Unternehmen hat dieses Jahr ein *ungewöhnliches* Wachstum verzeichnet.
+
+  Ces conditions météorologiques *inhabituelles* persistent depuis une semaine.
+  Diese *ungewöhnlichen* Wetterbedingungen halten seit einer Woche an.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

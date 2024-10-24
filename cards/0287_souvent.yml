@@ -13,23 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mais alors souvent en fin de soirée c’est la fête.
-  Aber dann ist oft am Ende des Abends Party angesagt.
+  Mais alors *souvent* en fin de soirée c'est la fête.
+  Dann ist es am späten Abend *oft* Zeit zum Feiern.
 
-  Je vais souvent à la plage.
-  Ich gehe oft zum Strand.
+  Elle va *souvent* au cinéma avec ses amis.
+  Sie geht *häufig* mit ihren Freunden ins Kino.
 
-  Cela nous arrive souvent.
-  Das passiert uns oft.
+  Le *plus souvent*, je prends le métro pour aller au travail.
+  *Meistens* nehme ich die U-Bahn zur Arbeit.
 
-  Je ne viens pas souvent ici.
-  Ich komme nicht oft hierher.
+  Cette erreur arrive bien *souvent* quand on ne fait pas attention.
+  Dieser Fehler passiert sehr *oft*, wenn man nicht aufpasst.
 
-  Il est souvent en retard au travail.
-  Er kommt oft zu spät zur Arbeit.
+  Les enfants mangent *plus souvent* des légumes depuis qu'ils ont leur propre jardin.
+  Die Kinder essen *öfter* Gemüse, seit sie ihren eigenen Garten haben.
 
-  Comme cela lui arrive souvent, il était en retard.
-  Wie es oft vorkommt, war er zu spät gekommen.
+  Il pleut *plus souvent qu'à son tour* dans cette région.
+  Es regnet in dieser Gegend *häufiger als normal*.
+
+  *Souvent* je pense à mon enfance en Bretagne.
+  *Oft* denke ich an meine Kindheit in der Bretagne.
+
+  Cette règle n'est pas *souvent* appliquée correctement.
+  Diese Regel wird nicht *häufig* korrekt angewendet.
+
+  On devrait se voir *plus souvent*.
+  Wir sollten uns *öfter* sehen.
+
+  Il arrive *très souvent* que le train soit en retard.
+  Es kommt *sehr häufig* vor, dass der Zug Verspätung hat.
+
+  Venez nous rendre visite aussi *souvent* que possible !
+  Besucht uns so *oft* wie möglich!
+
+  Je ne mange pas *souvent* au restaurant.
+  Ich esse nicht *oft* im Restaurant.
+
+  Les accidents arrivent *le plus souvent* par négligence.
+  Unfälle passieren *meistens* durch Nachlässigkeit.
+
+  Ces oiseaux migrent *plus souvent* à cause du changement climatique.
+  Diese Vögel wandern wegen des Klimawandels *häufiger*.
+
+  Il est *souvent* préférable d'écouter avant de parler.
+  Es ist *oft* besser, erst zuzuhören, bevor man spricht.
+
+  Ces symptômes apparaissent *assez souvent* chez les personnes âgées.
+  Diese Symptome treten bei älteren Menschen *ziemlich häufig* auf.
+
+  Les grands-parents gardent *plus souvent* leurs petits-enfants de nos jours.
+  Großeltern passen heutzutage *öfter* auf ihre Enkelkinder auf.
+
+  Marie arrive *le plus souvent* en avance au bureau.
+  Marie kommt *meistens* früh ins Büro.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

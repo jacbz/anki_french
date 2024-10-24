@@ -13,41 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis parti à la poursuite de mon rêve.
-  Ich machte mich auf den Weg, um meinen Traum zu verfolgen.
+  Je suis parti à la *poursuite* de mon rêve.
+  Ich habe mich auf die *Jagd* nach meinem Traum gemacht.
 
-  La police est à la poursuite du suspect.
-  Die Polizei verfolgt den Verdächtigen.
+  La police s'est lancée à la *poursuite* du suspect.
+  Die Polizei hat die *Verfolgung* des Verdächtigen aufgenommen.
 
-  Le policier était à la poursuite du voleur qui s'était enfui avec le butin.
-  Der Polizist verfolgte den Dieb, der mit der Beute geflüchtet war.
+  Les enfants jouent à une course-*poursuite* dans le jardin.
+  Die Kinder spielen *Fangen* im Garten.
 
-  La poursuite de la fortune a souvent conduit les hommes à des actes désespérés.
-  Das Streben nach Reichtum hat die Menschen oft zu verzweifelten Taten getrieben.
+  La *poursuite* de mes études m'a mené jusqu'en France.
+  Die *Fortsetzung* meines Studiums hat mich nach Frankreich geführt.
 
-  Les poursuites judiciaires contre l'entreprise ont été longues et coûteuses.
-  Die gerichtliche Verfolgung des Unternehmens war langwierig und kostspielig.
+  Elle a consacré sa vie à la *poursuite* de la vérité.
+  Sie hat ihr Leben der *Suche* nach der Wahrheit gewidmet.
 
-  La poursuite de l'audience orale est prévue pour la semaine prochaine.
-  Die Fortsetzung der mündlichen Verhandlung ist für nächste Woche geplant.
+  Le tribunal a engagé des *poursuites* contre l'entreprise.
+  Das Gericht hat ein *Verfahren* gegen das Unternehmen eingeleitet.
 
-  Le chien s'est lancé à la poursuite du chat qui s'était enfui dans le jardin.
-  Der Hund nahm die Verfolgung des Katers auf, der in den Garten geflüchtet war.
+  La *poursuite* du bonheur est un droit fondamental.
+  Das *Streben* nach Glück ist ein Grundrecht.
 
-  La poursuite du bonheur est un voyage sans fin, plein de surprises et de défis.
-  Die Jagd nach dem Glück ist eine Reise ohne Ende, voller Überraschungen und Herausforderungen.
+  Cette *poursuite* acharnée de la perfection l'a épuisé.
+  Dieses verbissene *Streben* nach Perfektion hat ihn erschöpft.
 
-  La poursuite de la vérité peut être dangereuse, mais elle est essentielle pour la justice.
-  Die Suche nach der Wahrheit kann gefährlich sein, aber sie ist für die Gerechtigkeit unerlässlich.
+  Le gouvernement a décidé la *poursuite* des négociations.
+  Die Regierung hat die *Fortsetzung* der Verhandlungen beschlossen.
 
-  Les poursuites pénales contre le trafiquant de drogue ont été menées avec succès.
-  Die Strafverfolgung des Drogenhändlers wurde erfolgreich durchgeführt.
+  Un lion s'est lancé à la *poursuite* d'une gazelle.
+  Ein Löwe hat die *Verfolgung* einer Gazelle aufgenommen.
 
-  La poursuite en justice pour exécution du contrat a abouti à une condamnation du débiteur.
-  Die Einklagung der Vertragserfüllung führte zur Verurteilung des Schuldners.
+  La *poursuite* de la richesse ne mène pas toujours au bonheur.
+  Die *Jagd* nach Reichtum führt nicht immer zum Glück.
 
-  Le propriétaire du terrain a engagé des poursuites contre l'entrepreneur pour non-respect du contrat.
-  Der Grundstückseigentümer ging gerichtlich gegen den Unternehmer vor, da dieser den Vertrag nicht eingehalten hatte.
+  Les cyclistes s'affrontent dans une course de *poursuite*.
+  Die Radfahrer treten in einem *Verfolgungsrennen* gegeneinander an.
+
+  Les *poursuites* judiciaires ont duré trois ans.
+  Das *Gerichtsverfahren* dauerte drei Jahre.
+
+  Le chat s'est mis à la *poursuite* d'une souris.
+  Die Katze hat die *Verfolgung* einer Maus aufgenommen.
+
+  La *poursuite* des travaux reprendra demain.
+  Die *Fortführung* der Arbeiten wird morgen wieder aufgenommen.
+
+  Les *poursuites* pénales ont été abandonnées.
+  Die *Strafverfolgung* wurde eingestellt.
+
+  Le projecteur de *poursuite* suit le danseur sur scène.
+  Der *Verfolger*scheinwerfer folgt dem Tänzer auf der Bühne.
+
+  La *poursuite* de ses ambitions l'a mené loin.
+  Das *Streben* nach seinen Zielen hat ihn weit gebracht.
+
+  Le voleur a échappé à toute *poursuite*.
+  Der Dieb ist jeder *Verfolgung* entkommen.
+
+  La *poursuite* de l'excellence exige beaucoup d'efforts.
+  Das *Streben* nach Exzellenz erfordert viel Anstrengung.
+
+  Les gendarmes ont dû interrompre la *poursuite*.
+  Die Polizisten mussten die *Verfolgung* abbrechen.
+
+  La *poursuite* des recherches n'a rien donné.
+  Die *Fortsetzung* der Suche blieb erfolglos.
+
+  Une spectaculaire course-*poursuite* a eu lieu en ville.
+  Eine spektakuläre *Verfolgungsjagd* hat in der Stadt stattgefunden.
+
+  La *poursuite* de ce projet demande beaucoup de patience.
+  Die *Weiterführung* dieses Projekts erfordert viel Geduld.
+
+  Les *poursuites* contre l'accusé ont été suspendues.
+  Das *Verfahren* gegen den Angeklagten wurde ausgesetzt.
+
+  Le chien s'est élancé à la *poursuite* du facteur.
+  Der Hund ist zur *Verfolgung* des Briefträgers losgerannt.
+
+  La *poursuite* du progrès ne doit pas nuire à l'environnement.
+  Das *Streben* nach Fortschritt darf der Umwelt nicht schaden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

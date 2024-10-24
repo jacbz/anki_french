@@ -13,20 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les 287 passagers ont probablement tous péri.
-  Die 287 Passagiere kamen wahrscheinlich alle ums Leben.
+  Les 287 *passagers* ont probablement tous péri.
+  Die 287 *Passagiere* sind wahrscheinlich alle ums Leben gekommen.
 
-  Le passager a pris le train ce matin.
-  Der Passagier ist heute Morgen mit dem Zug gefahren.
+  La pluie sera *passagère* ce matin.
+  Der Regen wird heute Morgen *vorübergehend* sein.
 
-  J’étais passager.
-  Ich war Beifahrer.
+  "Cette rue est très *passagère* le weekend."
+  "Diese Straße ist am Wochenende sehr *belebt*."
 
-  La passagère avant avait oublié son sac dans la voiture.
-  Die Beifahrerin hatte ihre Tasche im Auto vergessen.
+  Notre bonheur n'était que *passager*.
+  Unser Glück war nur *flüchtig*.
 
-  L'hôtel accueille de nombreux hôtes passagers, en provenance du monde entier.
-  Das Hotel beherbergt viele Durchreisende aus aller Welt.
+  Le *passager* clandestin a été découvert dans la soute à bagages.
+  Der blinde *Passagier* wurde im Gepäckraum entdeckt.
+
+  La *passagère* avant a attaché sa ceinture de sécurité.
+  Die *Beifahrerin* hat sich angeschnallt.
+
+  Ces oiseaux *passagers* migrent chaque année vers le sud.
+  Diese *Zug*vögel ziehen jedes Jahr nach Süden.
+
+  Un malaise *passager* l'a forcée à s'asseoir.
+  Eine *vorübergehende* Schwäche zwang sie, sich zu setzen.
+
+  Les *passagers* du vol AF408 sont priés de se présenter à la porte B.
+  Die *Fluggäste* des Fluges AF408 werden gebeten, sich am Gate B einzufinden.
+
+  Cette beauté *passagère* ne durera pas.
+  Diese *vergängliche* Schönheit wird nicht von Dauer sein.
+
+  Tous les *passagers* doivent présenter leur carte d'embarquement.
+  Alle *Fahrgäste* müssen ihre Bordkarte vorzeigen.
+
+  Le succès n'est souvent que *passager*.
+  Der Erfolg ist oft nur *vorübergehend*.
+
+  "Cette avenue est très *passagère* aux heures de pointe."
+  "Diese Allee ist zu den Stoßzeiten sehr *verkehrsreich*."
+
+  Un hôte *passager* nous a rendu visite hier soir.
+  Ein *durchreisender* Gast hat uns gestern Abend besucht.
+
+  Les *passagers* du ferry ont admiré le coucher de soleil.
+  Die *Passagiere* der Fähre bewunderten den Sonnenuntergang.
+
+  Cette tristesse n'est que *passagère*, tu verras.
+  Diese Traurigkeit ist nur *vorübergehend*, du wirst schon sehen.
+
+  La *passagère* s'est endormie pendant le trajet.
+  Die *Mitfahrerin* ist während der Fahrt eingeschlafen.
+
+  Des averses *passagères* sont prévues dans l'après-midi.
+  *Vorübergehende* Schauer sind am Nachmittag vorhergesagt.
+
+  Les *passagers* d'entrepont supportaient des conditions difficiles.
+  Die Zwischendeck*passagiere* ertrugen schwierige Bedingungen.
+
+  Cette mode ne sera que *passagère*.
+  Dieser Trend wird nur *flüchtig* sein.
+
+  Un client *passager* a réservé la chambre pour une nuit.
+  Ein *durchreisender* Kunde hat das Zimmer für eine Nacht gebucht.
+
+  Cette douleur *passagère* disparaîtra bientôt.
+  Dieser *vorübergehende* Schmerz wird bald verschwinden.
+
+  Les *passagers* du train ont été évacués en raison d'une panne technique.
+  Die *Fahrgäste* des Zuges wurden wegen einer technischen Störung evakuiert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

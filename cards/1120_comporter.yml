@@ -13,26 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tâche de bien te comporter.
-  Versuche, dich gut zu benehmen.
+  Tâche de bien te *comporter*.
+  Versuche dich gut zu *benehmen*.
 
-  Il se comporte mal en classe.
-  Er benimmt sich schlecht im Unterricht.
+  La maison *comporte* trois chambres et une salle de bain.
+  Das Haus *umfasst* drei Schlafzimmer und ein Bad.
 
-  La demande doit comporter une évaluation complète des risques.
-  Der Antrag muss eine umfassende Risikobewertung enthalten.
+  Cette décision *comporte* des conséquences graves.
+  Diese Entscheidung *beinhaltet* schwerwiegende Folgen.
 
-  Le projet comporte plusieurs faiblesses.
-  Der Entwurf weist mehrere Schwächen auf.
+  Son petit frère s'est mal *comporté* à l'école aujourd'hui.
+  Sein kleiner Bruder hat sich heute in der Schule schlecht *benommen*.
 
-  Il se comporte bien à l'école.
-  Er benimmt sich gut in der Schule.
+  Le nouveau modèle se *comporte* parfaitement sur route mouillée.
+  Das neue Modell *verhält* sich perfekt auf nasser Straße.
 
-  La voiture se comporte mal dans les virages.
-  Die Wagen hat ein schlechtes Kurvenverhalten.
+  L'examen final *comporte* deux parties écrites.
+  Die Abschlussprüfung *besteht* aus zwei schriftlichen Teilen.
 
-  Il se comporte comme un gamin, il n'écoute personne.
-  Er benimmt sich wie ein kleines Kind, er hört niemandem zu.
+  Julie s'est *comportée* comme une vraie professionnelle pendant l'entretien.
+  Julie hat sich während des Vorstellungsgesprächs wie eine echte Professionelle *verhalten*.
+
+  Ce projet *comporte* trop de risques pour être accepté.
+  Dieses Projekt *weist* zu viele Risiken auf, um akzeptiert zu werden.
+
+  Le nouveau smartphone *comporte* une caméra améliorée.
+  Das neue Smartphone ist mit einer verbesserten Kamera *ausgestattet*.
+
+  Comment s'est-il *comporté* face à cette situation difficile ?
+  Wie hat er sich in dieser schwierigen Situation *verhalten*?
+
+  Le programme *comporte* plusieurs erreurs à corriger.
+  Das Programm *enthält* mehrere Fehler, die korrigiert werden müssen.
+
+  Notre équipe se *comporte* bien cette saison.
+  Unser Team *verhält* sich diese Saison gut.
+
+  Le matériau se *comporte* différemment sous haute température.
+  Das Material *verhält* sich bei hoher Temperatur anders.
+
+  Cette offre d'emploi *comporte* de nombreux avantages.
+  Dieses Stellenangebot *beinhaltet* viele Vorteile.
+
+  Chaque chapitre *comporte* un résumé à la fin.
+  Jedes Kapitel *enthält* am Ende eine Zusammenfassung.
+
+  Il faut que tu te *comportes* comme les autres invités.
+  Du musst dich wie die anderen Gäste *benehmen*.
+
+  Le nouveau règlement *comporte* plusieurs exceptions.
+  Die neue Regelung *weist* mehrere Ausnahmen auf.
+
+  La voiture se *comporte* mal dans les virages serrés.
+  Das Auto *verhält* sich in engen Kurven schlecht.
+
+  Cette formule ne *comporte* aucune erreur de calcul.
+  Diese Formel *enthält* keine Rechenfehler.
+
+  Les enfants se sont bien *comportés* pendant la visite.
+  Die Kinder haben sich während des Besuchs gut *benommen*.
+
+  Le festival *comporte* plus d'activités cette année.
+  Das Festival *umfasst* dieses Jahr mehr Aktivitäten.
+
+  Le moteur se *comporte* parfaitement après la réparation.
+  Der Motor *verhält* sich nach der Reparatur perfekt.
+
+  Cette théorie *comporte* plusieurs contradictions évidentes.
+  Diese Theorie *weist* mehrere offensichtliche Widersprüche auf.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

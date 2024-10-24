@@ -13,20 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Leurs gosses, ils n’osent plus protester.
-  Ihre Kinder wagen es nicht mehr, zu protestieren.
+  Leurs gosses, ils n'osent plus *protester*.
+  Ihre Kinder trauen sich nicht mehr zu *protestieren*.
 
-  Les étudiants ont décidé de protester contre la hausse des frais de scolarité.
-  Die Studenten haben beschlossen, gegen die Erhöhung der Studiengebühren zu protestieren.
+  Les manifestants *protestaient* contre la hausse des prix.
+  Die Demonstranten *protestierten* gegen die Preiserhöhung.
 
-  Les habitants du quartier ont protesté contre la construction d'un nouveau supermarché.
-  Die Anwohner des Viertels haben gegen den Bau eines neuen Supermarktes Einspruch erhoben.
+  Marie a *protesté* de son innocence devant le juge.
+  Marie hat ihre Unschuld vor dem Richter *beteuert*.
 
-  L'accusé a protesté de son innocence devant le tribunal.
-  Der Angeklagte hat vor Gericht seine Unschuld beteuert.
+  Je dois *protester* contre cette décision injuste.
+  Ich muss gegen diese ungerechte Entscheidung *Einspruch erheben*.
 
-  La banque a fait protester la lettre de change car le débiteur n'a pas payé à temps.
-  Die Bank hat den Wechsel zu Protest gehen lassen, da der Schuldner nicht rechtzeitig gezahlt hat.
+  L'accusé n'a cessé de *protester* de sa bonne foi.
+  Der Angeklagte hörte nicht auf, seine Aufrichtigkeit zu *beteuern*.
+
+  Les étudiants *protestent* contre les nouveaux horaires.
+  Die Studenten *protestieren* gegen die neuen Zeitpläne.
+
+  Sans même *protester*, elle a accepté les nouvelles conditions.
+  Ohne auch nur zu *protestieren*, hat sie die neuen Bedingungen akzeptiert.
+
+  La banque a dû *protester* le chèque non provisionné.
+  Die Bank musste den ungedeckten Scheck *protestieren* lassen.
+
+  Tout le quartier *proteste* contre la construction du nouveau centre commercial.
+  Die ganze Nachbarschaft *protestiert* gegen den Bau des neuen Einkaufszentrums.
+
+  Il a beau *protester*, personne ne le croit plus.
+  Er kann *protestieren* soviel er will, niemand glaubt ihm mehr.
+
+  Les employés ont *protesté* contre la réduction des salaires.
+  Die Angestellten haben gegen die Gehaltskürzungen *protestiert*.
+
+  Elle *proteste* toujours de son amitié, mais je doute de sa sincérité.
+  Sie *beteuert* stets ihre Freundschaft, aber ich zweifle an ihrer Aufrichtigkeit.
+
+  Les citoyens *protestent* vivement contre cette nouvelle loi.
+  Die Bürger *protestieren* heftig gegen dieses neue Gesetz.
+
+  Le client mécontent *protestait* auprès du directeur.
+  Der unzufriedene Kunde *beschwerte* sich beim Direktor.
+
+  Les parents d'élèves *protestent* contre la fermeture de l'école.
+  Die Eltern der Schüler *protestieren* gegen die Schulschließung.
+
+  Mon petit frère ne fait que *protester* quand il doit ranger sa chambre.
+  Mein kleiner Bruder tut nichts als zu *protestieren*, wenn er sein Zimmer aufräumen muss.
+
+  L'entreprise a *protesté* contre ces accusations infondées.
+  Das Unternehmen hat gegen diese unbegründeten Anschuldigungen *protestiert*.
+
+  Je dois *protester* de ma fidélité envers mes amis.
+  Ich muss meine Treue zu meinen Freunden *beteuern*.
+
+  Les agriculteurs *protestent* contre les nouvelles régulations.
+  Die Landwirte *protestieren* gegen die neuen Vorschriften.
+
+  Les voisins *protestent* contre le bruit nocturne.
+  Die Nachbarn *protestieren* gegen den nächtlichen Lärm.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

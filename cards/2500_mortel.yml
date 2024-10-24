@@ -13,17 +13,125 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous ne sommes que mortels. Nous sommes tous humains.
-  Wir sind nur sterblich. Wir sind alle Menschen.
+  Nous ne sommes que *mortels*. Nous sommes tous humains.
+  Wir sind nur *sterblich*. Wir sind alle Menschen.
 
-  Le poison est mortel.
-  Das Gift ist tödlich.
+  L'homme ne peut pas vivre éternellement, car il est *mortel*.
+  Der Mensch kann nicht ewig leben, da er *sterblich* ist.
 
-  Le jeune homme était un heureux mortel, qui vivait une vie simple et paisible.
-  Der junge Mann war ein glücklicher Sterblicher, der ein einfaches und friedliches Leben führte.
+  Le poison qu'il a ingéré était *mortel*.
+  Das Gift, das er eingenommen hatte, war *tödlich*.
 
-  La vieille femme était une heureuse mortelle, qui s'est toujours réjouie de la vie.
-  Die alte Frau war eine glückliche Sterbliche, die sich immer über das Leben gefreut hat.
+  Cette blessure n'est pas *mortelle* si elle est traitée rapidement.
+  Diese Verletzung ist nicht *tödlich*, wenn sie schnell behandelt wird.
+
+  Sa jalousie *mortelle* l'a conduit à commettre l'irréparable.
+  Seine *tödliche* Eifersucht hat ihn dazu gebracht, das Unwiderrufliche zu tun.
+
+  Un froid *mortel* règne dans les rues ce soir.
+  Eine *mörderische* Kälte herrscht heute Abend in den Straßen.
+
+  Elle est devenue d'une pâleur *mortelle* en apprenant la nouvelle.
+  Sie wurde *leichenblass*, als sie die Nachricht hörte.
+
+  Le prêtre lui a pardonné son péché *mortel*.
+  Der Priester hat ihm seine *Tod*sünde vergeben.
+
+  "Ce cours est vraiment *mortel*, je m'endors."
+  "Dieser Unterricht ist echt *todlangweilig*, ich schlafe ein."
+
+  "Son nouveau film est *mortel*, tu dois absolument le voir !"
+  "Sein neuer Film ist echt *super*, den musst du unbedingt sehen!"
+
+  Ce silence *mortel* dura plusieurs minutes.
+  Diese *eisige* Stille dauerte mehrere Minuten.
+
+  L'attente était *mortelle* dans la salle d'opération.
+  Das Warten im Operationssaal war *qualvoll*.
+
+  Il est le plus heureux des *mortels* depuis qu'il a gagné à la loterie.
+  Er ist der glücklichste *Sterbliche*, seit er im Lotto gewonnen hat.
+
+  Même les plus grandes civilisations sont *mortelles*.
+  Selbst die größten Zivilisationen sind *sterblich*.
+
+  Le médecin a diagnostiqué une maladie *mortelle*.
+  Der Arzt diagnostizierte eine *tödliche* Krankheit.
+
+  Ce danger *mortel* nous guette à chaque instant.
+  Diese *tödliche* Gefahr lauert in jedem Moment auf uns.
+
+  Ils sont devenus des ennemis *mortels* après cette trahison.
+  Sie wurden nach diesem Verrat *Tod*feinde.
+
+  La chaleur *mortelle* de l'été a causé plusieurs décès.
+  Die *mörderische* Sommerhitze hat mehrere Todesfälle verursacht.
+
+  "Cette réunion était *mortelle*, personne n'a rien dit."
+  "Diese Besprechung war *todlangweilig*, niemand hat etwas gesagt."
+
+  "Son nouveau jeu vidéo est vraiment *mortel* !"
+  "Sein neues Videospiel ist echt *hammermäßig*!"
+
+  Les *mortels* ne peuvent pas comprendre les desseins des dieux.
+  Die *Sterblichen* können die Absichten der Götter nicht verstehen.
+
+  Cette blessure s'est avérée *mortelle* malgré les soins.
+  Diese Verletzung erwies sich trotz der Behandlung als *tödlich*.
+
+  Sa haine *mortelle* envers son frère a détruit la famille.
+  Sein *tödlicher* Hass auf seinen Bruder hat die Familie zerstört.
+
+  L'accident a eu des conséquences *mortelles*.
+  Der Unfall hatte *tödliche* Folgen.
+
+  Un ennui *mortel* s'est emparé de l'assemblée.
+  Eine *tödliche* Langeweile erfasste die Versammlung.
+
+  Cette peur *mortelle* ne l'a jamais quitté.
+  Diese *tödliche* Angst hat ihn nie verlassen.
+
+  Les restes *mortels* du poète reposent dans ce cimetière.
+  Die *sterblichen* Überreste des Dichters ruhen auf diesem Friedhof.
+
+  Tout *mortel* doit un jour faire face à sa fin.
+  Jeder *Sterbliche* muss eines Tages seinem Ende ins Auge sehen.
+
+  La dose était *mortelle* même pour un adulte.
+  Die Dosis war selbst für einen Erwachsenen *tödlich*.
+
+  "Son nouveau spectacle est *mortel*, tu vas adorer !"
+  "Seine neue Show ist *super*, du wirst sie lieben!"
+
+  Cette rivalité *mortelle* dure depuis des années.
+  Diese *tödliche* Rivalität dauert schon seit Jahren an.
+
+  Les conditions hivernales sont devenues *mortelles* en montagne.
+  Die Winterbedingungen in den Bergen wurden *tödlich*.
+
+  Sa blague a été suivie d'un silence *mortel*.
+  Seinem Witz folgte eine *eisige* Stille.
+
+  Le venin de ce serpent est *mortel*.
+  Das Gift dieser Schlange ist *tödlich*.
+
+  Cette attente *mortelle* me ronge depuis des semaines.
+  Dieses *qualvolle* Warten nagt seit Wochen an mir.
+
+  La combinaison de ces médicaments peut être *mortelle*.
+  Die Kombination dieser Medikamente kann *tödlich* sein.
+
+  "Le concert était *mortel*, j'ai adoré chaque minute !"
+  "Das Konzert war echt *hammermäßig*, ich habe jede Minute geliebt!"
+
+  Ces erreurs peuvent avoir des conséquences *mortelles*.
+  Diese Fehler können *tödliche* Konsequenzen haben.
+
+  La fièvre est devenue *mortelle* au troisième jour.
+  Das Fieber wurde am dritten Tag *tödlich*.
+
+  Cette morsure de serpent est rarement *mortelle*.
+  Dieser Schlangenbiss ist selten *tödlich*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

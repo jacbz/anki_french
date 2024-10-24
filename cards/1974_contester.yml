@@ -13,23 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’art conteste le réel.
-  Kunst bestreitet die Realität.
+  L'art *conteste* le réel.
+  Die Kunst *stellt* die Realität *in Frage*.
 
-  Je conteste cette décision.
-  Ich bestreite diese Entscheidung.
+  Le gouvernement ne peut pas *contester* le droit des citoyens à manifester.
+  Die Regierung kann das *Demonstrations*recht der Bürger nicht *anfechten*.
 
-  Les étudiants ont décidé de contester dans la rue la décision du gouvernement.
-  Die Studenten haben beschlossen, gegen die Entscheidung der Regierung auf die Straße zu gehen.
+  Cette théorie scientifique est très *contestée* par les experts.
+  Diese wissenschaftliche Theorie ist bei den Experten sehr *umstritten*.
 
-  Elle a contesté le droit de son frère à l'héritage.
-  Sie hat ihrem Bruder das Recht auf das Erbe abgestritten.
+  Les étudiants ont *contesté* dans la rue contre l'augmentation des frais.
+  Die Studenten sind gegen die Erhöhung der Gebühren auf die Straße gegangen.
 
-  La décision du maire est contestée par une grande partie de la population.
-  Die Entscheidung des Bürgermeisters ist bei einem Großteil der Bevölkerung umstritten.
+  Je ne *conteste* pas qu'il soit intelligent, mais il manque d'expérience.
+  Ich *bestreite* nicht, dass er intelligent ist, aber ihm fehlt die Erfahrung.
 
-  Je ne conteste pas que tu aies raison, mais je ne suis pas d'accord avec ta manière de faire.
-  Ich bezweifle nicht, dass du Recht hast, aber ich bin nicht einverstanden mit deiner Vorgehensweise.
+  Sa version des faits a été fortement *contestée* par les témoins.
+  Seine Version der Ereignisse wurde von den Zeugen stark *angezweifelt*.
+
+  Personne ne peut *contester* son talent pour la musique.
+  Niemand kann sein Talent für Musik *bestreiten*.
+
+  Les manifestants *contestent* les nouvelles mesures économiques.
+  Die Demonstranten *stellen* die neuen Wirtschaftsmaßnahmen *in Frage*.
+
+  "Je te *conteste* le droit de me parler ainsi !"
+  "Ich *bestreite* dein Recht, so mit mir zu reden!"
+
+  Cette décision sera certainement *contestée* devant le tribunal.
+  Diese Entscheidung wird sicherlich vor Gericht *angefochten* werden.
+
+  Les adolescents *contestent* souvent l'autorité de leurs parents.
+  Jugendliche *stellen* oft die Autorität ihrer Eltern *in Frage*.
+
+  Il est impossible de *contester* l'authenticité de ces documents.
+  Die Echtheit dieser Dokumente lässt sich nicht *anzweifeln*.
+
+  Son leadership est de plus en plus *contesté* au sein du parti.
+  Seine Führung wird innerhalb der Partei zunehmend *infrage gestellt*.
+
+  Les experts *contestent* la fiabilité de cette méthode.
+  Die Experten *zweifeln* die Zuverlässigkeit dieser Methode *an*.
+
+  Elle ne peut pas *contester* avoir reçu l'avertissement.
+  Sie kann nicht *bestreiten*, die Warnung erhalten zu haben.
+
+  Les critiques ont vivement *contesté* l'attribution du prix.
+  Die Kritiker haben die Preisvergabe heftig *angefochten*.
+
+  Plusieurs scientifiques *contestent* ces résultats.
+  Mehrere Wissenschaftler *zweifeln* diese Ergebnisse *an*.
+
+  Cette loi est largement *contestée* par la population.
+  Dieses Gesetz ist in der Bevölkerung weitgehend *umstritten*.
+
+  Nous devons *contester* cette fausse information.
+  Wir müssen dieser falschen Information *widersprechen*.
+
+  Les syndicats *contestent* les nouvelles conditions de travail.
+  Die Gewerkschaften *fechten* die neuen Arbeitsbedingungen *an*.
+
+  Il a *contesté* la validité du contrat.
+  Er hat die Gültigkeit des Vertrags *angezweifelt*.
+
+  Cette artiste *contestée* est devenue célèbre après sa mort.
+  Diese *umstrittene* Künstlerin wurde nach ihrem Tod berühmt.
+
+  Je ne peux pas *contester* que tu aies fait de ton mieux.
+  Ich kann nicht *bestreiten*, dass du dein Bestes gegeben hast.
+
+  Personne n'ose *contester* son autorité dans ce domaine.
+  Niemand wagt es, seine Autorität auf diesem Gebiet *anzuzweifeln*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

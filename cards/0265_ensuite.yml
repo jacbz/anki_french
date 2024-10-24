@@ -13,14 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ensuite, il va au restaurant.
-  Danach geht er in ein Restaurant.
+  *Ensuite*, il va au restaurant.
+  *Danach* geht er ins Restaurant.
 
-  Nous avons mangé, ensuite nous sommes sortis.
-  Wir haben gegessen, anschließend sind wir ausgegangen.
+  Je vais ranger ma chambre et *ensuite* je ferai mes devoirs.
+  Ich werde mein Zimmer aufräumen und *dann* meine Hausaufgaben machen.
 
-  D'accord, mais ensuite, qu'est-ce qu'on fait ?
-  Einverstanden, aber was dann?
+  Il a bu son café, *ensuite* il est parti travailler.
+  Er hat seinen Kaffee getrunken, *anschließend* ist er zur Arbeit gegangen.
+
+  *Ensuite*, qu'est-ce que tu proposes de faire ?
+  *Was dann*, was schlägst du vor zu tun?
+
+  Le guide marchait devant, et nous venions *ensuite*.
+  Der Führer ging vorne, und wir kamen *dahinter*.
+
+  D'abord la théorie, *ensuite* la pratique.
+  Erst die Theorie, *dann* die Praxis.
+
+  On traverse le pont, et *ensuite* on tourne à droite.
+  Man überquert die Brücke, und *dann* biegt man rechts ab.
+
+  *Ensuite* de quoi, ils se sont réconciliés.
+  *Daraufhin* haben sie sich versöhnt.
+
+  Prenez l'escalier jusqu'au deuxième étage ; *ensuite*, c'est la première porte à gauche.
+  Nehmen Sie die Treppe bis in den zweiten Stock; *danach* ist es die erste Tür links.
+
+  Il a lu le message, et *ensuite* il l'a effacé.
+  Er hat die Nachricht gelesen und sie *anschließend* gelöscht.
+
+  D'abord écouter, réfléchir *ensuite*.
+  Erst zuhören, *dann* nachdenken.
+
+  La route passe *ensuite* par une forêt dense.
+  Die Straße führt *danach* durch einen dichten Wald.
+
+  J'ai fini mon travail ; que fait-on *ensuite* ?
+  Ich bin mit meiner Arbeit fertig; was machen wir *dann*?
+
+  *Ensuite*, nous avons visité le musée pendant deux heures.
+  *Anschließend* haben wir das Museum zwei Stunden lang besichtigt.
+
+  Elle a préparé le dîner, *ensuite* elle s'est reposée.
+  Sie hat das Abendessen zubereitet, *danach* hat sie sich ausgeruht.
+
+  D'abord je ne peux pas, et *ensuite* je n'en ai pas envie.
+  Erstens kann ich nicht, und *zweitens* habe ich keine Lust.
+
+  Le président parlait, *ensuite* venaient les ministres.
+  Der Präsident sprach, *darauf* folgten die Minister.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

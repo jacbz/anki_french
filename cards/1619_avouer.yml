@@ -13,29 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’avoue que j’étais encore plutôt naïf.
-  Ich muss zugeben, dass ich noch ziemlich naiv war.
+  J'*avoue* que j'étais encore plutôt naïf.
+  Ich *gestehe*, dass ich damals noch ziemlich naiv war.
 
-  Il a finalement avoué son crime.
-  Er hat schließlich sein Verbrechen gestanden.
+  Les suspects ont *avoué* leur crime après l'interrogatoire.
+  Die Verdächtigen haben ihr Verbrechen *gestanden*.
 
-  Le jeune homme a avoué faire du vélo sans casque.
-  Der junge Mann hat zugegeben, ohne Helm Fahrrad zu fahren.
+  Je dois vous *avouer* que je ne sais pas nager.
+  Ich muss Ihnen *gestehen*, dass ich nicht schwimmen kann.
 
-  Le suspect s'est avoué coupable de vol.
-  Der Verdächtige hat sich des Diebstahls schuldig bekannt.
+  Il faut bien *avouer* que ce film est un chef-d'œuvre.
+  Man muss schon *zugeben*, dass dieser Film ein Meisterwerk ist.
 
-  Je dois vous avouer que j'ai perdu votre livre.
-  Ich muss Ihnen gestehen, dass ich Ihr Buch verloren habe.
+  Il s'est *avoué* coupable devant le tribunal.
+  Er hat sich vor Gericht schuldig *bekannt*.
 
-  Il faut bien avouer que c'est beau, ce jardin.
-  Man muss schon zugeben, dass der Garten schön ist.
+  Elle s'est finalement *avoué* vaincue après trois heures de jeu.
+  Nach drei Stunden Spielzeit hat sie sich schließlich *geschlagen gegeben*.
 
-  Le chevalier s'est avoué vaincu après une longue bataille.
-  Der Ritter gab sich nach einer langen Schlacht geschlagen.
+  Je dois m'*avouer* déçu par les résultats.
+  Ich muss meine Enttäuschung über die Ergebnisse *eingestehen*.
 
-  Je dois m'avouer déçu par le résultat du match.
-  Ich muss meine Enttäuschung über das Ergebnis des Spiels gestehen.
+  Pierre a *avoué* son âge pour la première fois.
+  Pierre hat sein Alter zum ersten Mal *zugegeben*.
+
+  L'assassin a fini par *avouer*.
+  Der Mörder hat am Ende *gestanden*.
+
+  Elle s'est *avoué* ses sentiments les plus profonds.
+  Sie hat sich ihre tiefsten Gefühle *eingestanden*.
+
+  Il m'a *avoué* son amour sous les étoiles.
+  Er hat mir unter den Sternen seine Liebe *gestanden*.
+
+  Ils se sont *avoué* leur amour mutuel.
+  Sie haben sich ihre gegenseitige Liebe *gestanden*.
+
+  Tu dois *avouer* que tu as fait une erreur.
+  Du musst *zugeben*, dass du einen Fehler gemacht hast.
+
+  Je m'*avoue* incapable de résoudre ce problème.
+  Ich *bekenne* mich außerstande, dieses Problem zu lösen.
+
+  Elle a *avoué* avoir volé le collier.
+  Sie hat *zugegeben*, die Kette gestohlen zu haben.
+
+  Il faut *avouer* que la situation devient compliquée.
+  Man muss *eingestehen*, dass die Situation kompliziert wird.
+
+  Le ministre a dû *avouer* son ignorance sur le sujet.
+  Der Minister musste seine Unwissenheit in dieser Sache *eingestehen*.
+
+  Je dois *avouer* que je n'y avais pas pensé.
+  Ich muss *zugeben*, dass ich nicht daran gedacht hatte.
+
+  L'accusé a *avoué* spontanément ses actes.
+  Der Angeklagte hat seine Taten spontan *gestanden*.
+
+  Elle s'est *avouée* dépassée par les événements.
+  Sie hat *zugegeben*, dass sie von den Ereignissen überfordert war.
+
+  Il *avoue* franchement ses erreurs.
+  Er *gesteht* seine Fehler ehrlich ein.
+
+  Je dois *avouer* que cette décision me déplaît.
+  Ich muss *gestehen*, dass mir diese Entscheidung missfällt.
+
+  Il a fini par *avouer* sa faiblesse.
+  Er hat schließlich seine Schwäche *eingestanden*.
+
+  Elle n'*avouera* jamais sa jalousie.
+  Sie wird ihre Eifersucht nie *zugeben*.
+
+  Je dois *avouer* que je suis impressionné.
+  Ich muss *gestehen*, dass ich beeindruckt bin.
+
+  Il s'*avoue* responsable de l'accident.
+  Er *bekennt* sich schuldig am Unfall.
+
+  Nous devons *avouer* que nous nous sommes trompés.
+  Wir müssen *eingestehen*, dass wir uns geirrt haben.
+
+  Elle a *avoué* avoir menti à ses parents.
+  Sie hat *zugegeben*, ihre Eltern angelogen zu haben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

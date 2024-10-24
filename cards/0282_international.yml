@@ -13,23 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle jouit également d’une excellente réputation internationale.
-  Sie genießt auch international einen ausgezeichneten Ruf.
+  Elle jouit également d'une excellente réputation *internationale*.
+  Sie genießt auch einen ausgezeichneten *internationalen* Ruf.
 
-  Le commerce international est important.
-  Der internationale Handel ist wichtig.
+  Le train *international* pour Amsterdam part dans une heure.
+  Der *Fern*zug nach Amsterdam fährt in einer Stunde ab.
 
-  Le match international entre la France et l'Allemagne a été un événement sportif majeur.
-  Das Länderspiel zwischen Frankreich und Deutschland war ein großes Sportereignis.
+  Nous avons signé un accord de commerce *international* avec plusieurs pays.
+  Wir haben ein *internationales* Handelsabkommen mit mehreren Ländern unterzeichnet.
 
-  La communication internationale est essentielle pour les entreprises multinationales.
-  Auslandsgespräche sind für multinationale Unternehmen unerlässlich.
+  L'équipe française a remporté ce match *international* contre l'Allemagne.
+  Die französische Mannschaft hat dieses *Länder*spiel gegen Deutschland gewonnen.
 
-  Un vol international vers les États-Unis est un voyage long et fatigant.
-  Ein Auslandsflug in die USA ist eine lange und anstrengende Reise.
+  La compagnie propose des vols *internationaux* à prix réduits.
+  Die Firma bietet vergünstigte *Auslands*flüge an.
 
-  Le fret international est une industrie en pleine croissance.
-  Die Auslandsfracht ist eine wachsende Branche.
+  Pierre est devenu *international* après des années d'entraînement.
+  Pierre ist nach Jahren des Trainings *Nationalspieler* geworden.
+
+  Ce *international* a marqué trois buts lors de son premier match.
+  Dieser *Nationalspieler* hat in seinem ersten Spiel drei Tore geschossen.
+
+  Les eaux *internationales* ne sont sous la juridiction d'aucun pays.
+  Die *internationalen* Gewässer unterstehen keinem Land.
+
+  Le droit *international* protège les droits humains fondamentaux.
+  Das *internationale* Recht schützt die grundlegenden Menschenrechte.
+
+  Notre entreprise cherche à se développer à l'*international*.
+  Unser Unternehmen strebt eine Expansion ins *Ausland* an.
+
+  La conférence *internationale* sur le climat aura lieu en juin.
+  Die *internationale* Klimakonferenz findet im Juni statt.
+
+  Les organismes *internationaux* jouent un rôle crucial dans la diplomatie.
+  Die *internationalen* Organisationen spielen eine wichtige Rolle in der Diplomatie.
+
+  Le bureau *international* du travail a publié un nouveau rapport.
+  Das *internationale* Arbeitsamt hat einen neuen Bericht veröffentlicht.
+
+  Cette ville accueille de nombreux fonctionnaires *internationaux*.
+  Diese Stadt beherbergt viele *internationale* Beamte.
+
+  L'anglais est devenu une langue *internationale*.
+  Englisch ist zu einer *internationalen* Sprache geworden.
+
+  Le port *international* accueille des navires du monde entier.
+  Der *internationale* Hafen empfängt Schiffe aus aller Welt.
+
+  Les *internationaux* de tennis débutent la semaine prochaine.
+  Die *internationalen* Tennismeisterschaften beginnen nächste Woche.
+
+  La solidarité *internationale* est essentielle en temps de crise.
+  Die *internationale* Solidarität ist in Krisenzeiten unerlässlich.
+
+  Ce fleuve *international* traverse trois pays différents.
+  Dieser *internationale* Fluss durchquert drei verschiedene Länder.
+
+  Le fret *international* a augmenté de 20% cette année.
+  Die *Auslands*fracht ist dieses Jahr um 20% gestiegen.
+
+  Cette communication *internationale* coûte très cher.
+  Dieses *Auslands*gespräch ist sehr teuer.
+
+  L'aéroport gère principalement du trafic *international*.
+  Der Flughafen wickelt hauptsächlich *internationalen* Verkehr ab.
+
+  La renommée *internationale* de l'artiste ne cesse de grandir.
+  Der *internationale* Ruhm des Künstlers wächst stetig.
+
+  Le style *international* a révolutionné l'architecture moderne.
+  Der *internationale* Stil hat die moderne Architektur revolutioniert.
+
+  Un mandat d'arrêt *international* a été émis contre le suspect.
+  Ein *internationaler* Haftbefehl wurde gegen den Verdächtigen erlassen.
+
+  Cette jeune *internationale* représente son pays pour la première fois.
+  Diese junge *Nationalspielerin* vertritt ihr Land zum ersten Mal.
+
+  Le commerce *international* connaît une forte croissance.
+  Der *internationale* Handel verzeichnet ein starkes Wachstum.
+
+  La banque propose des services de transfert *international*.
+  Die Bank bietet *internationale* Überweisungsdienste an.
+
+  Le Comité *International* Olympique a annoncé sa décision hier.
+  Das *Internationale* Olympische Komitee hat gestern seine Entscheidung bekannt gegeben.
+
+  Les accords *internationaux* doivent être respectés par tous les pays.
+  Die *internationalen* Abkommen müssen von allen Ländern eingehalten werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,23 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il ne démontre aucun signe de compassion envers ces travailleurs.
-  Er zeigt keinerlei Anzeichen von Mitgefühl für diese Arbeiterinnen und Arbeiter.
+  Il ne *démontre* aucun signe de compassion envers ces travailleurs.
+  Er *zeigt* keinerlei Mitgefühl für diese Arbeiter.
 
-  Il a réussi à démontrer son innocence.
-  Er hat seine Unschuld bewiesen.
+  Les scientifiques ont *démontré* que le réchauffement climatique s'accélère.
+  Die Wissenschaftler haben *nachgewiesen*, dass sich die Erderwärmung beschleunigt.
 
-  Sophie a tout fait pour démontrer sa confiance à son mari.
-  Sophie hat alles getan, um ihrem Mann sein Vertrauen zu beweisen.
+  Elle a clairement *démontré* ses compétences lors de l'entretien.
+  Sie hat ihre Fähigkeiten beim Vorstellungsgespräch klar unter *Beweis gestellt*.
 
-  Il est démontré que c'est exact, mais personne ne veut le croire.
-  Es ist bewiesen, dass es korrekt ist, aber niemand will es glauben.
+  Le professeur *démontre* le théorème de Pythagore au tableau.
+  Der Lehrer *beweist* den Satz des Pythagoras an der Tafel.
 
-  L'expérience a démontré que c'est exact.
-  Die Erfahrung hat bewiesen, dass es korrekt ist.
+  Son sourire *démontre* sa joie de vivre.
+  Ihr Lächeln *zeigt* ihre Lebensfreude.
 
-  Isaac Newton a démontré la loi de la gravitation universelle.
-  Isaac Newton hat den Beweis für das Gravitationsgesetz erbracht.
+  "Je vais te *démontrer* par A plus B pourquoi tu as tort !"
+  "Ich werde dir haargenau *beweisen*, warum du falsch liegst!"
+
+  Cette étude *démontre* l'efficacité du nouveau médicament.
+  Diese Studie *belegt* die Wirksamkeit des neuen Medikaments.
+
+  Il s'est *démontré* que leurs hypothèses étaient correctes.
+  Es hat sich *erwiesen*, dass ihre Hypothesen richtig waren.
+
+  Les résultats *démontrent* la nécessité d'agir rapidement.
+  Die Ergebnisse *zeigen* die Notwendigkeit, schnell zu handeln.
+
+  Je lui ai *démontré* ma confiance en lui confiant ce projet important.
+  Ich habe ihm mein Vertrauen *bewiesen*, indem ich ihm dieses wichtige Projekt anvertraut habe.
+
+  Ce qu'il *démontre* n'est pas nouveau, mais c'est toujours pertinent.
+  Was er *beweist* ist nicht neu, aber immer noch relevant.
+
+  Comment *démontrer* l'égalité de ces deux triangles ?
+  Wie lässt sich die Gleichheit dieser beiden Dreiecke *beweisen*?
+
+  Son comportement *démontre* un manque total de respect.
+  Sein Verhalten *zeugt* von einem völligen Mangel an Respekt.
+
+  L'expérience a *démontré* que cette méthode est inefficace.
+  Das Experiment hat *gezeigt*, dass diese Methode unwirksam ist.
+
+  Nous devons *démontrer* notre engagement envers ce projet.
+  Wir müssen unser Engagement für dieses Projekt unter *Beweis stellen*.
+
+  La preuve reste à *démontrer*.
+  Der Beweis muss noch *erbracht* werden.
+
+  Ces chiffres *démontrent* clairement l'ampleur du problème.
+  Diese Zahlen *belegen* deutlich das Ausmaß des Problems.
+
+  Il faut *démontrer* cette proposition mathématique pas à pas.
+  Man muss diesen mathematischen Satz Schritt für Schritt *beweisen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

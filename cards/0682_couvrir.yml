@@ -13,47 +13,185 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il était couvert de taches de sang.
-  Er war mit Blutflecken übersät.
+  Il était *couvert* de taches de sang.
+  Er war mit Blutflecken *bedeckt*.
 
-  Je vais couvrir la table avec une nappe.
-  Ich werde den Tisch mit einem Tischtuch bedecken.
+  La neige *couvre* toute la ville.
+  Der Schnee *bedeckt* die ganze Stadt.
 
-  Je vais te couvrir.
-  Ich werde dich decken.
+  Je vais *couvrir* la casserole pour que ça cuise plus vite.
+  Ich werde den Topf *zudecken*, damit es schneller kocht.
 
-  La neige épaisse couvre le paysage.
-  Der Schnee bedeckt die Landschaft.
+  "*Couvre-toi* bien, il fait très froid dehors !"
+  "*Zieh* dir was *an*, es ist sehr kalt draußen!"
 
-  Il a couvert sa petite fille d'un plaid pour la protéger du froid.
-  Er hat seine kleine Tochter mit einer Decke zugedeckt, um sie vor der Kälte zu schützen.
+  Les journalistes *couvrent* les élections présidentielles.
+  Die Journalisten *berichten* über die Präsidentschaftswahlen.
 
-  Ne la couvre pas trop, elle a déjà chaud !
-  Zieh sie nicht zu warm an, ihr ist schon warm!
+  L'assurance ne *couvre* pas ce type de dommage.
+  Die Versicherung *haftet* nicht für diese Art von Schaden.
 
-  La garantie couvre tous les dommages.
-  Die Garantie haftet für alle Schäden.
+  Cette somme *couvre* largement nos dépenses.
+  Diese Summe *deckt* unsere Ausgaben bei weitem.
 
-  Il a couvert sa femme de baisers tendres.
-  Er hat seine Frau mit zärtlichen Küssen bedeckt.
+  Le ciel se *couvre* de nuages sombres.
+  Der Himmel *bewölkt* sich mit dunklen Wolken.
 
-  L'arbre se couvre de bourgeons au printemps.
-  Der Baum entwickelt im Frühling viele Knospen.
+  Elle *couvrait* son visage de ses mains.
+  Sie *verdeckte* ihr Gesicht mit ihren Händen.
 
-  Le serveur a couvert les épaules de la dame avec une nappe.
-  Der Kellner hat die Schultern der Dame mit einer Tischdecke bedeckt.
+  Son chef l'a *couvert* pendant l'enquête interne.
+  Sein Chef hat während der internen Untersuchung *hinter* ihm *gestanden*.
 
-  Il est couvert par son chef, qui lui permet de prendre des risques.
-  Sein Chef steht hinter ihm, so dass er Risiken eingehen kann.
+  Les feuilles mortes *couvrent* le sol du jardin.
+  Die toten Blätter *bedecken* den Gartenboden.
 
-  Il a couvert sa femme de son corps pour la protéger de la pluie.
-  Er hat seine Frau mit seinem Körper geschützt, um sie vor dem Regen zu schützen.
+  Il a *couvert* 100 kilomètres en deux heures.
+  Er hat in zwei Stunden 100 Kilometer *zurückgelegt*.
 
-  L'assurance couvre les frais de réparation.
-  Die Versicherung übernimmt die Reparaturkosten.
+  Sa mère le *couvre* toujours trop chaudement.
+  Seine Mutter *zieht* ihn immer zu warm *an*.
 
-  Le père Noël a couvert ses enfants de cadeaux.
-  Der Weihnachtsmann hat seine Kinder mit Geschenken überhäuft.
+  Les manifestants ont *couvert* les murs de graffitis.
+  Die Demonstranten haben die Wände mit Graffiti *bedeckt*.
+
+  Elle s'est *couverte* de ridicule devant tout le monde.
+  Sie hat sich vor allen Leuten zum Gespött *gemacht*.
+
+  Notre équipe de sécurité *couvre* toute la zone sud.
+  Unser Sicherheitsteam *deckt* die gesamte Südzone *ab*.
+
+  Les applaudissements *couvraient* sa voix.
+  Der Applaus *übertönte* ihre Stimme.
+
+  Il faut *couvrir* ce livre pour le protéger.
+  Man muss dieses Buch *einbinden*, um es zu schützen.
+
+  Les soldats *couvraient* la retraite de leurs camarades.
+  Die Soldaten *gaben* ihren Kameraden beim Rückzug *Deckung*.
+
+  Marie l'a *couvert* de baisers.
+  Marie hat ihn mit Küssen *überhäuft*.
+
+  Le prix *couvre* les frais de livraison.
+  Der Preis *deckt* die Lieferkosten.
+
+  Il s'est *couvert* d'un chapeau pour se protéger du soleil.
+  Er hat sich einen Hut *aufgesetzt*, um sich vor der Sonne zu schützen.
+
+  Les nuages *couvrent* le sommet de la montagne.
+  Die Wolken *verhüllen* den Berggipfel.
+
+  Cette peinture *couvre* bien le mur.
+  Diese Farbe *deckt* gut auf der Wand.
+
+  Les parents *couvrent* toujours les bêtises de leur fils.
+  Die Eltern *decken* immer die Dummheiten ihres Sohnes.
+
+  Il a *couvert* son collègue pendant son absence.
+  Er hat seinen Kollegen während seiner Abweichung *vertreten*.
+
+  Le bruit du moteur *couvrait* notre conversation.
+  Das Motorengeräusch *übertönte* unser Gespräch.
+
+  Les arbres *couvrent* le chemin d'une voûte naturelle.
+  Die Bäume *bilden* über dem Weg ein natürliches Gewölbe.
+
+  Sa propriété *couvre* plus de dix hectares.
+  Sein Grundstück *umfasst* mehr als zehn Hektar.
+
+  Elle *couvrait* ses épaules d'un châle.
+  Sie *bedeckte* ihre Schultern mit einem Schal.
+
+  Le temps se *couvre*, il va pleuvoir.
+  Es *trübt* sich *ein*, es wird regnen.
+
+  Il *couvrait* sa tristesse d'un sourire.
+  Er *verbarg* seine Traurigkeit hinter einem Lächeln.
+
+  Les sponsors *couvrent* tous les frais du tournoi.
+  Die Sponsoren *übernehmen* alle Kosten des Turniers.
+
+  Tu devrais *couvrir* ton jardin avant le gel.
+  Du solltest deinen Garten vor dem Frost *abdecken*.
+
+  Les vignes *couvrent* toute la colline.
+  Die Weinreben *bedecken* den ganzen Hügel.
+
+  Il s'est *couvert* de gloire pendant la compétition.
+  Er hat sich während des Wettkampfs mit Ruhm *bedeckt*.
+
+  Elle *couvrait* son enfant d'un regard protecteur.
+  Sie *bedachte* ihr Kind mit einem beschützenden Blick.
+
+  Sa voix puissante *couvrait* celle des autres chanteurs.
+  Seine kräftige Stimme *übertönte* die der anderen Sänger.
+
+  Les pompiers ont *couvert* l'incendie de mousse.
+  Die Feuerwehrleute haben den Brand mit Schaum *bedeckt*.
+
+  La mère *couvre* son bébé d'une couverture.
+  Die Mutter *deckt* ihr Baby mit einer Decke *zu*.
+
+  Le brouillard *couvre* toute la vallée.
+  Der Nebel *bedeckt* das ganze Tal.
+
+  Cette antenne *couvre* toute la région.
+  Diese Antenne *versorgt* die ganze Region.
+
+  Il l'a *couvert* de cadeaux pour son anniversaire.
+  Er hat sie zu ihrem Geburtstag mit Geschenken *überhäuft*.
+
+  Les médias *couvrent* l'événement en direct.
+  Die Medien *berichten* live über das Ereignis.
+
+  Elle *couvrait* sa tête d'un foulard.
+  Sie *bedeckte* ihren Kopf mit einem Tuch.
+
+  La mousse *couvre* les vieux murs du château.
+  Das Moos *bedeckt* die alten Schlossmauern.
+
+  La neige fraîche *couvre* les traces.
+  Der frische Schnee *verdeckt* die Spuren.
+
+  L'assurance *couvre* les dégâts causés par l'orage.
+  Die Versicherung *deckt* die durch das Gewitter verursachten Schäden.
+
+  Il *couvrait* ses arrières avant de prendre sa décision.
+  Er *sicherte* sich ab, bevor er seine Entscheidung traf.
+
+  Les arbres se *couvrent* de bourgeons au printemps.
+  Die Bäume *entwickeln* im Frühling viele Knospen.
+
+  Les recettes ne *couvrent* plus les dépenses.
+  Die Einnahmen *decken* die Ausgaben nicht mehr.
+
+  La police *couvrait* toutes les sorties du bâtiment.
+  Die Polizei *sicherte* alle Ausgänge des Gebäudes.
+
+  Elle *couvrait* son mari de reproches.
+  Sie *überschüttete* ihren Mann mit Vorwürfen.
+
+  Le toit *couvre* mal la terrasse.
+  Das Dach *deckt* die Terrasse schlecht *ab*.
+
+  Je vais *couvrir* mes plantes avant l'hiver.
+  Ich werde meine Pflanzen vor dem Winter *abdecken*.
+
+  Une bâche *couvre* la piscine pendant l'hiver.
+  Eine Plane *bedeckt* den Pool während des Winters.
+
+  Les nuages *couvrent* le soleil.
+  Die Wolken *verdecken* die Sonne.
+
+  La musique *couvrait* les bruits de la rue.
+  Die Musik *übertönte* die Straßengeräusche.
+
+  Il s'est *couvert* d'une veste légère.
+  Er hat sich eine leichte Jacke *angezogen*.
+
+  Le lierre *couvre* tout le mur de la maison.
+  Der Efeu *bedeckt* die ganze Hauswand.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

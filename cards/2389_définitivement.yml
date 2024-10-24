@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je m’étais définitivement métamorphosée en enfant sage.
-  Ich hatte mich endgültig in ein braves Kind verwandelt.
+  Je m'étais *définitivement* métamorphosée en enfant sage.
+  Ich hatte mich *endgültig* in ein braves Kind verwandelt.
 
-  Je quitte définitivement cette ville.
-  Ich verlasse diese Stadt für immer.
+  Cette décision est *définitivement* prise.
+  Diese Entscheidung ist *endgültig* getroffen.
+
+  Il a *définitivement* quitté son emploi hier.
+  Er hat gestern *endgültig* seinen Job gekündigt.
+
+  Les deux amis se sont *définitivement* brouillés après cette dispute.
+  Die beiden Freunde haben sich nach diesem Streit *definitiv* zerstritten.
+
+  Nous allons nous installer *définitivement* en France.
+  Wir werden uns *für immer* in Frankreich niederlassen.
+
+  Je veux *définitivement* arrêter de fumer.
+  Ich will *endgültig* mit dem Rauchen aufhören.
+
+  Es-tu *définitivement* sûr de ta décision ?
+  Bist du dir bei deiner Entscheidung *definitiv* sicher?
+
+  Le musée a *définitivement* fermé ses portes.
+  Das Museum hat seine Türen *endgültig* geschlossen.
+
+  Il faut *définitivement* régler cette question aujourd'hui.
+  Diese Frage muss heute *definitiv* geklärt werden.
+
+  Elle s'est *définitivement* installée à Berlin.
+  Sie hat sich *endgültig* in Berlin niedergelassen.
+
+  Le projet est *définitivement* abandonné.
+  Das Projekt ist *endgültig* aufgegeben worden.
+
+  Je dois *définitivement* savoir si tu viendras à la fête.
+  Ich muss *definitiv* wissen, ob du zur Party kommst.
+
+  Cette espèce d'oiseau a *définitivement* disparu.
+  Diese Vogelart ist *endgültig* ausgestorben.
+
+  Le contrat sera *définitivement* signé demain.
+  Der Vertrag wird morgen *definitiv* unterschrieben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

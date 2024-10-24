@@ -13,35 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les vents tempétueux ont modifié la situation quant aux avalanches.
-  Die stürmischen Winde haben die Lawinensituation verändert.
+  Les vents tempétueux ont modifié la situation *quant* aux avalanches.
+  Die stürmischen Winde haben die Situation *bezüglich* der Lawinen verändert.
 
-  Quant aux vacances, je n’ai pas encore décidé.
-  Was die Ferien betrifft, habe ich noch nicht entschieden.
+  *Quant* à moi, je préfère rester à la maison ce soir.
+  *Was mich betrifft*, bleibe ich heute Abend lieber zu Hause.
 
-  Je ne sais pas quant ça coûte.
-  Ich weiß nicht, wie viel das kostet.
+  Le professeur est optimiste *quant* aux progrès de ses élèves.
+  Der Lehrer ist *hinsichtlich* der Fortschritte seiner Schüler optimistisch.
 
-  Il faut être précis quant aux détails importants.
-  Sie müssen bei wichtigen Details genau sein.
+  *Quant* à Pierre, il arrivera plus tard dans la soirée.
+  *Was* Pierre *angeht*, er kommt später am Abend.
 
-  Il y a des règles à suivre quant à l’utilisation de l’équipement.
-  Es gibt Regeln, die Sie bei der Nutzung der Ausrüstung beachten sollten.
+  Les experts restent prudents *quant* à l'évolution des prix.
+  Die Experten bleiben *bezüglich* der Preisentwicklung vorsichtig.
 
-  Le professeur a donné des instructions claires quant à la manière de résoudre l’exercice.
-  Der Lehrer gab klare Anweisungen, wie die Übung zu lösen ist.
+  *Quant* à partir en vacances cet été, nous n'avons pas encore décidé.
+  *Was* den Sommerurlaub *betrifft*, haben wir noch keine Entscheidung getroffen.
 
-  C’est important de prendre en compte tous les facteurs quant à la prise de décision.
-  Es ist wichtig, alle Faktoren bei der Entscheidungsfindung zu berücksichtigen.
+  Marie hésite encore *quant* au choix de ses études.
+  Marie ist sich *hinsichtlich* ihrer Studienwahl noch unsicher.
 
-  Quant à Marie, elle est partie en vacances.
-  Was Marie betrifft, so ist sie in den Urlaub gefahren.
+  *Quant* au restaurant, j'ai déjà réservé une table.
+  *Was* das Restaurant *angeht*, habe ich bereits einen Tisch reserviert.
 
-  Quant à se brosser les dents, c'est une habitude importante.
-  Was das Zähneputzen angeht, so ist es eine wichtige Gewohnheit.
+  Les médecins sont inquiets *quant* à la propagation du virus.
+  Die Ärzte sind *bezüglich* der Virusausbreitung besorgt.
 
-  Quant à moi, je préfère rester à la maison.
-  Ich für mein Teil bleibe lieber zu Hause.
+  *Quant* à prendre le train ou la voiture, je préfère le train.
+  *Was* die Wahl zwischen Zug und Auto *betrifft*, bevorzuge ich den Zug.
+
+  *Quant* aux détails du projet, nous en discuterons demain.
+  *Was* die Projektdetails *angeht*, werden wir morgen darüber sprechen.
+
+  Les chercheurs sont divisés *quant* aux résultats de l'étude.
+  Die Forscher sind *hinsichtlich* der Studienergebnisse geteilter Meinung.
+
+  *Quant* à lui, il préfère travailler seul.
+  *Was ihn betrifft*, arbeitet er lieber alleine.
+
+  Les parents sont optimistes *quant* à l'adaptation de leur enfant à l'école.
+  Die Eltern sind *bezüglich* der Eingewöhnung ihres Kindes in der Schule optimistisch.
+
+  *Quant* à déménager dans une autre ville, elle y réfléchit encore.
+  *Was* den Umzug in eine andere Stadt *betrifft*, denkt sie noch darüber nach.
+
+  *Quant* aux vacances d'hiver, nous irons probablement au ski.
+  *Was* die Winterferien *angeht*, werden wir wahrscheinlich Ski fahren gehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

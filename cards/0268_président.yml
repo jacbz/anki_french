@@ -13,29 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai rencontré le président des États-Unis.
-  Ich habe mich mit dem Präsidenten der Vereinigten Staaten von Amerika getroffen.
+  J'ai rencontré le *président* des États-Unis.
+  Ich habe den amerikanischen *Präsidenten* getroffen.
 
-  Le président de la République française est Emmanuel Macron.
-  Der Präsident der französischen Republik ist Emmanuel Macron.
+  La *présidente* du tribunal a écouté attentivement les témoins.
+  Die Gerichts*präsidentin* hörte den Zeugen aufmerksam zu.
 
-  Elle a parlé avec le président.
-  Sie sprach mit dem Präsidenten.
+  Elle sera *présidente* de l'association à partir de janvier.
+  Ab Januar wird sie *Vorsitzende* des Vereins sein.
 
-  Marie est la présidente d'une association qui aide les animaux abandonnés.
-  Marie ist die Vereinsvorsitzende eines Vereins, der sich um ausgesetzte Tiere kümmert.
+  Le *président* du jury a annoncé le verdict.
+  Der *Vorsitzende* der Jury hat das Urteil verkündet.
 
-  Le Président de la République française a annoncé de nouvelles mesures pour lutter contre la pauvreté.
-  Der französische Staatspräsident hat neue Maßnahmen zur Bekämpfung der Armut angekündigt.
+  Notre *président-directeur général* part à la retraite.
+  Unser *Generaldirektor* geht in den Ruhestand.
 
-  La Présidente du conseil d'administration a présenté le nouveau plan stratégique de l'entreprise.
-  Die Verwaltungsratsvorsitzende hat den neuen strategischen Plan des Unternehmens vorgestellt.
+  Le *président* du Sénat a ouvert la séance.
+  Der *Präsident* des Senats hat die Sitzung eröffnet.
 
-  Le président d'un syndicat a appelé à une grève générale pour protester contre les réformes du gouvernement.
-  Der Gewerkschaftsvorsitzende hat zu einem Generalstreik aufgerufen, um gegen die Reformen der Regierung zu protestieren.
+  La *présidente* de la commission examine les dossiers.
+  Die Kommissions*vorsitzende* prüft die Unterlagen.
 
-  Le président du tribunal a prononcé la sentence.
-  Der Gerichtspräsident hat das Urteil verkündet.
+  Les étudiants ont élu un nouveau *président* d'université.
+  Die Studenten haben einen neuen Universitäts*präsidenten* gewählt.
+
+  Le *président* du conseil d'administration a démissionné.
+  Der Verwaltungsrats*vorsitzende* ist zurückgetreten.
+
+  Notre *présidente* du syndicat négocie avec la direction.
+  Unsere Gewerkschafts*vorsitzende* verhandelt mit der Geschäftsführung.
+
+  Le *Président* s'adressera à la nation ce soir.
+  Der Staats*präsident* wird heute Abend zur Nation sprechen.
+
+  La *présidente* du club sportif organise un tournoi.
+  Die *Vorsitzende* des Sportvereins organisiert ein Turnier.
+
+  En tant que *président* d'honneur, il n'a qu'un rôle symbolique.
+  Als Ehren*präsident* hat er nur eine symbolische Rolle.
+
+  Le *président* de séance a suspendu les débats.
+  Der Sitzungs*leiter* hat die Debatten unterbrochen.
+
+  La *présidente* de la chambre a reporté l'audience.
+  Die Kammer*vorsitzende* hat die Verhandlung vertagt.
+
+  Le *président* de la République française réside à l'Élysée.
+  Der französische Staats*präsident* residiert im Élysée-Palast.
+
+  Notre *présidente-directrice générale* a signé un nouveau contrat.
+  Unsere *Generaldirektorin* hat einen neuen Vertrag unterschrieben.
+
+  Le *président* d'âge a procédé à l'ouverture de la session.
+  Der altersälteste *Vorsitzende* hat die Sitzung eröffnet.
+
+  La *présidente* du groupe parlementaire a pris la parole.
+  Die *Vorsitzende* der Parlamentsfraktion hat das Wort ergriffen.
+
+  Le nouveau *président* de l'université encourage l'innovation.
+  Der neue Universitäts*präsident* fördert Innovation.
+
+  La *présidente* honoraire assistera à la cérémonie.
+  Die ehemalige *Vorsitzende* wird an der Zeremonie teilnehmen.
+
+  Un nouveau *président* a été nommé à la tête de l'entreprise.
+  Ein neuer *Leiter* wurde an die Spitze des Unternehmens berufen.
+
+  Le *président* à vie a gouverné pendant trente ans.
+  Der *Präsident* auf Lebenszeit regierte dreißig Jahre lang.
+
+  La *présidente* du conseil supérieur s'est exprimée.
+  Die *Vorsitzende* des Obersten Rates hat sich geäußert.
+
+  Le *président* chinois visite notre pays.
+  Der chinesische *Präsident* besucht unser Land.
+
+  La *présidente* de la conférence a clôturé les débats.
+  Die Konferenz*leiterin* hat die Debatten beendet.
+
+  Le *président* du bureau a compté les votes.
+  Der *Vorsitzende* des Büros hat die Stimmen gezählt.
+
+  La *présidente* de la fédération propose des changements.
+  Die Verbands*präsidentin* schlägt Änderungen vor.
+
+  Notre *président* d'association cherche un successeur.
+  Unser Vereins*vorsitzender* sucht einen Nachfolger.
+
+  Les vice-*présidents* soutiennent le travail du *président*.
+  Die Vize*präsidenten* unterstützen die Arbeit des *Präsidenten*.
+
+  Le *président* russe a signé le traité.
+  Der russische *Präsident* hat den Vertrag unterzeichnet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

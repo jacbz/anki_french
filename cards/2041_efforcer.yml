@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous nous efforçons de contenir ce fléau.
-  Wir bemühen uns, diese Plage einzudämmen.
+  Nous nous *efforçons* de contenir ce fléau.
+  Wir *bemühen* uns, diese Plage einzudämmen.
 
-  Je m’efforce de comprendre.
-  Ich bemühe mich zu verstehen.
+  Il faut que je m'*efforce* d'être plus patient avec les enfants.
+  Ich muss mich *bemühen*, geduldiger mit den Kindern zu sein.
 
-  Le professeur s'efforce de faire comprendre la leçon aux élèves.
-  Der Lehrer bemüht sich, den Schülern die Lektion verständlich zu machen.
+  Elle s'*efforçait* de soulever la lourde valise toute seule.
+  Sie *versuchte* den schweren Koffer alleine hochzuheben.
 
-  Elle s'efforce à la politesse, même lorsqu'elle est en colère.
-  Sie versucht höflich zu bleiben, auch wenn sie wütend ist.
+  Les élèves s'*efforcent* de comprendre la leçon difficile.
+  Die Schüler *bemühen* sich, die schwierige Lektion zu verstehen.
+
+  Marie s'*efforce* à la politesse malgré sa colère.
+  Marie *versucht* trotz ihres Ärgers höflich zu bleiben.
+
+  Je m'*efforce* de dépasser mes limites chaque jour.
+  Ich *bemühe* mich jeden Tag, über meine Grenzen hinauszugehen.
+
+  Le petit Thomas s'*efforçait* d'être sage pendant la cérémonie.
+  Der kleine Thomas *versuchte* während der Zeremonie brav zu sein.
+
+  Elle s'*efforce* de nager contre le courant.
+  Sie *versucht* gegen den Strom zu schwimmen.
+
+  Mon frère s'*efforce* vers un idéal de perfection.
+  Mein Bruder *strebt* nach einem Ideal der Perfektion.
+
+  Pierre s'*efforce* pour se montrer aimable avec ses nouveaux voisins.
+  Pierre *gibt* sich Mühe, freundlich zu seinen neuen Nachbarn zu sein.
+
+  Les scientifiques s'*efforcent* de trouver un remède.
+  Die Wissenschaftler *bemühen* sich, ein Heilmittel zu finden.
+
+  Tu t'*efforces* toujours de voir le bon côté des choses.
+  Du *versuchst* immer, die gute Seite der Dinge zu sehen.
+
+  Il s'*efforçait* à une gentillesse qui semblait peu naturelle.
+  Er *zwang* sich zu einer Freundlichkeit, die unnatürlich wirkte.
+
+  Nous nous *efforcerons* de terminer le projet avant la date limite.
+  Wir werden uns *bemühen*, das Projekt vor dem Stichtag fertigzustellen.
+
+  Le candidat s'*efforce* de convaincre les électeurs.
+  Der Kandidat *bemüht* sich, die Wähler zu überzeugen.
+
+  Sophie s'*efforce* au calme malgré la situation stressante.
+  Sophie *versucht* trotz der stressigen Situation ruhig zu bleiben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

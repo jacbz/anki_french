@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il a survécu uniquement avec la diète anticancéreuse.
-  Er überlebte nur mit der Krebsdiät.
+  Il a survécu *uniquement* avec la diète anticancéreuse.
+  Er hat *ausschließlich* mit der Anti-Krebs-Diät überlebt.
 
-  Je veux uniquement du café.
-  Ich möchte ausschließlich Kaffee.
+  Cette application fonctionne *uniquement* sur les appareils Apple.
+  Diese App funktioniert *nur* auf Apple-Geräten.
+
+  Je fais ça *uniquement* pour toi.
+  Das mache ich *einzig und allein* für dich.
+
+  *Uniquement* les membres du club peuvent participer à cet événement.
+  *Nur* Clubmitglieder dürfen an dieser Veranstaltung teilnehmen.
+
+  Le restaurant est ouvert *uniquement* le soir.
+  Das Restaurant ist *nur* abends geöffnet.
+
+  Elle étudie *uniquement* pour réussir ses examens.
+  Sie lernt *ausschließlich*, um ihre Prüfungen zu bestehen.
+
+  Ces produits sont vendus *uniquement* en ligne.
+  Diese Produkte werden *nur* online verkauft.
+
+  Je peux te voir *uniquement* le weekend prochain.
+  Ich kann dich *nur* nächstes Wochenende sehen.
+
+  C'est *uniquement* grâce à son aide que j'ai réussi.
+  *Einzig und allein* durch seine Hilfe habe ich es geschafft.
+
+  Le concert est réservé *uniquement* aux adultes.
+  Das Konzert ist *ausschließlich* für Erwachsene.
+
+  Je suis venu *uniquement* pour te dire au revoir.
+  Ich bin *nur* gekommen, um dir auf Wiedersehen zu sagen.
+
+  Les billets sont disponibles *uniquement* en prévente.
+  Die Tickets sind *ausschließlich* im Vorverkauf erhältlich.
+
+  Tu penses *uniquement* à toi-même.
+  Du denkst *nur* an dich selbst.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

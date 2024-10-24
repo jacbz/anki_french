@@ -13,14 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Et celui-ci? Oui, il est vraiment super.
-  Und das hier? Ja, das ist wirklich toll.
+  Et *celui-ci*? Oui, il est vraiment super.
+  Und *dieser* hier? Ja, er ist wirklich toll.
 
-  Ce livre-ci est à moi.
-  Dieses Buch hier gehört mir.
+  Veuillez trouver *ci-joint* mon CV et ma lettre de motivation.
+  Anbei finden Sie meinen Lebenslauf und mein *beigefügtes* Anschreiben.
 
-  — Ça va ? — Comme ci comme ça.
-  Wie geht's? — So lala.
+  "Comment vas-tu?" - "*Comme ci, comme ça*."
+  "Wie geht's dir?" - "*So lala*."
+
+  Nous discuterons de ce sujet-*ci* plus tard.
+  Über *dieses* Thema hier sprechen wir später.
+
+  Les événements décrits *ci-dessous* sont véridiques.
+  Die unten *aufgeführten* Ereignisse sind wahr.
+
+  Les fleurs poussent *par-ci par-là* dans le jardin.
+  Die Blumen wachsen *hier und da* im Garten.
+
+  Vous trouverez les informations importantes *ci-dessus*.
+  Die wichtigen Informationen finden Sie *oben*.
+
+  *Ci-gît* Marie Dupont, bien-aimée mère et grand-mère.
+  *Hier ruht* Marie Dupont, geliebte Mutter und Großmutter.
+
+  Il a demandé *ci et ça* pendant toute la journée.
+  Er hat den ganzen Tag nach *dies und das* gefragt.
+
+  Ces temps-*ci*, je suis très occupé.
+  In *dieser* Zeit hier bin ich sehr beschäftigt.
+
+  Le document *ci-inclus* contient toutes les informations nécessaires.
+  Das *beigefügte* Dokument enthält alle notwendigen Informationen.
+
+  Les feuilles mortes volent *de-ci de-là* dans le vent d'automne.
+  Die toten Blätter fliegen im Herbstwind *hierhin und dorthin*.
+
+  Prenez cette route-*ci*, c'est plus court.
+  Nehmen Sie *diese* Straße hier, das ist kürzer.
+
+  Il y a *ci-contre* un tableau explicatif.
+  *Nebenstehend* befindet sich eine erklärende Tabelle.
+
+  Elle préfère cette maison-*ci* à celle-là.
+  Sie bevorzugt *dieses* Haus hier gegenüber jenem dort.
+
+  Les prix indiqués *ci-dessous* sont en euros.
+  Die unten *angegebenen* Preise sind in Euro.
+
+  On trouve des champignons *par-ci par-là* dans la forêt.
+  Man findet *hier und da* Pilze im Wald.
+
+  Cette semaine-*ci* sera décisive pour notre projet.
+  *Diese* Woche hier wird entscheidend für unser Projekt sein.
+
+  Veuillez lire attentivement les conditions *ci-jointes*.
+  Bitte lesen Sie die *beigefügten* Bedingungen aufmerksam durch.
+
+  Les enfants courent *de-ci de-là* dans le parc.
+  Die Kinder rennen *kreuz und quer* durch den Park.
+
+  Regardez ce modèle-*ci*, il est plus récent.
+  Schauen Sie sich *dieses* Modell hier an, es ist neuer.
+
+  Les détails sont expliqués *ci-après*.
+  Die Details werden *nachfolgend* erklärt.
+
+  J'ai remarqué quelques erreurs *par-ci par-là* dans le texte.
+  Ich habe *hier und da* einige Fehler im Text bemerkt.
+
+  Cette année-*ci* a été particulièrement difficile.
+  *Dieses* Jahr hier war besonders schwierig.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

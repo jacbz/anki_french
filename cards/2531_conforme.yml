@@ -13,41 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La construction était conforme aux plans produits.
-  Der Bau entsprach den produzierten Plänen.
+  La construction était *conforme* aux plans produits.
+  Der Bau war *konform* mit den vorgelegten Plänen.
 
-  Le produit est conforme aux normes européennes.
-  Das Produkt entspricht den europäischen Normen.
+  Les résultats sont *conformes* à nos attentes.
+  Die Ergebnisse *entsprechen* unseren Erwartungen.
 
-  Le rapport annuel est conforme aux directives de l'entreprise.
-  Der Jahresbericht entspricht den Richtlinien des Unternehmens.
+  "Cette réponse n'est pas *conforme* à ce que j'avais demandé", a dit le professeur.
+  "Diese Antwort *entspricht* nicht dem, was ich verlangt hatte", sagte der Lehrer.
 
-  Le document a été certifié conforme par un expert indépendant.
-  Das Dokument wurde von einem unabhängigen Experten beglaubigt.
+  Le nouveau règlement est *conforme* aux normes européennes.
+  Die neue Vorschrift ist mit den europäischen Normen *konform*.
 
-  Les travaux de rénovation ont été réalisés conformément à la demande du client.
-  Die Renovierungsarbeiten wurden antragsgemäß durchgeführt.
+  L'emballage doit être *conforme* aux exigences de sécurité.
+  Die Verpackung muss den Sicherheitsanforderungen *entsprechen*.
 
-  Le projet est conforme à la loi et respecte toutes les réglementations en vigueur.
-  Das Projekt ist gesetzeskonform und entspricht allen geltenden Vorschriften.
+  Les aliments servis sont *conformes* aux besoins nutritionnels des enfants.
+  Die servierten Speisen sind den Ernährungsbedürfnissen der Kinder *angemessen*.
 
-  La proposition a été conçue de manière conforme à ses besoins spécifiques.
-  Der Vorschlag wurde seinen Bedürfnissen entsprechend konzipiert.
+  Cette explication n'est pas *conforme* à son âge.
+  Diese Erklärung ist nicht *altersgemäß*.
 
-  L'explication du professeur a été conforme à l'âge des élèves.
-  Die Erklärung des Lehrers war altersgemäß.
+  La rénovation est *conforme* au style d'origine du bâtiment.
+  Die Renovierung ist *stilgerecht*.
 
-  Les produits sont livrés conformément aux dispositions du contrat.
-  Die Produkte werden bestimmungsgemäß ausgeliefert.
+  Le prix n'est pas *conforme* aux conditions du marché.
+  Der Preis ist nicht *marktgerecht*.
 
-  Le processus de production est conforme au règlement de l'usine.
-  Der Produktionsprozess ist regelgemäß.
+  La livraison était *conforme* à l'échantillon présenté.
+  Die Lieferung *entsprach* der vorgelegten Probe.
 
-  La rénovation du bâtiment a été réalisée dans un style conforme à l'architecture du quartier.
-  Die Renovierung des Gebäudes wurde in einem Stil durchgeführt, der der Architektur des Viertels entspricht.
+  Sa signature n'est pas *conforme* à celle de son passeport.
+  Seine Unterschrift *stimmt* nicht mit der in seinem Pass *überein*.
 
-  Le prix du produit est conforme aux conditions du marché actuel.
-  Der Preis des Produkts ist marktgerecht.
+  Il mène une vie *conforme* à ses principes.
+  Er führt ein Leben, das seinen Prinzipien *entspricht*.
+
+  Voici la copie *conforme* de votre acte de naissance.
+  Hier ist die *beglaubigte* Kopie Ihrer Geburtsurkunde.
+
+  Cette décision n'est pas *conforme* à la loi.
+  Diese Entscheidung ist nicht *gesetzeskonform*.
+
+  Les modifications sont *conformes* aux termes du contrat.
+  Die Änderungen sind *vertragsgemäß*.
+
+  Il a toujours des opinions très *conformes*.
+  Er hat immer sehr *angepasste* Ansichten.
+
+  La traduction est parfaitement *conforme* au texte original.
+  Die Übersetzung *stimmt* perfekt mit dem Originaltext *überein*.
+
+  Cette pièce n'est pas *conforme* au gabarit standard.
+  Dieses Teil *entspricht* nicht der Standardvorlage.
+
+  Le comportement de Marie est très *conforme* aux attentes de ses parents.
+  Maries Verhalten *entspricht* sehr den Erwartungen ihrer Eltern.
+
+  Le produit livré n'était pas *conforme* à la commande.
+  Das gelieferte Produkt *entsprach* nicht der Bestellung.
+
+  Les mesures prises sont *conformes* à la situation.
+  Die getroffenen Maßnahmen sind der Situation *angemessen*.
+
+  Cette solution n'est pas *conforme* à nos valeurs.
+  Diese Lösung *entspricht* nicht unseren Werten.
+
+  Les dimensions sont *conformes* aux spécifications techniques.
+  Die Abmessungen sind mit den technischen Vorgaben *konform*.
+
+  Notre approche est *conforme* aux recommandations officielles.
+  Unser Ansatz *entspricht* den offiziellen Empfehlungen.
+
+  Le projet n'est pas *conforme* au budget prévu.
+  Das Projekt *entspricht* nicht dem vorgesehenen Budget.
+
+  Cette conduite est *conforme* à son caractère.
+  Dieses Verhalten *entspricht* seinem Charakter.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

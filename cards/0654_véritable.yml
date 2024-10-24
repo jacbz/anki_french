@@ -13,26 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les véritables coupables restaient en liberté.
-  Die wahren Schuldigen blieben auf freiem Fuß.
+  Les *véritables* coupables restaient en liberté.
+  Die *wahren* Täter blieben in Freiheit.
 
-  C’est un véritable ami.
-  Das ist ein wahrer Freund.
+  Cette statue est en marbre *véritable*.
+  Diese Statue ist aus *echtem* Marmor.
 
-  Je veux trouver le véritable amour.
-  Ich möchte die wahre Liebe finden.
+  Mon frère a trouvé un *véritable* ami en Jean.
+  Mein Bruder hat in Jean einen *wahren* Freund gefunden.
 
-  Ils s'aimaient d'un amour véritable, un amour qui durait depuis de nombreuses années.
-  Sie liebten sich aufrichtig, eine Liebe, die schon viele Jahre bestand.
+  "C'est une *véritable* catastrophe !"
+  "Das ist eine *echte* Katastrophe!"
 
-  Tu ne le connais pas sous son véritable jour, il est beaucoup plus complexe que tu ne le penses.
-  Du weißt nicht, wie er wirklich ist, er ist viel komplexer, als du denkst.
+  Ces perles *véritables* coûtent une fortune.
+  Diese *echten* Perlen kosten ein Vermögen.
 
-  J'ai éprouvé une véritable joie à apprendre que tu avais réussi ton examen.
-  Ich habe mich aufrichtig gefreut zu erfahren, dass du deine Prüfung bestanden hast.
+  Le *véritable* bonheur ne dépend pas de l'argent.
+  Das *wahre* Glück hängt nicht vom Geld ab.
 
-  C'est une véritable folie de penser que tu peux réussir tout cela en une seule journée.
-  Das ist ja echter Wahnsinn, zu denken, dass du alles das an einem Tag schaffen kannst.
+  Il éprouve un *véritable* plaisir à enseigner.
+  Er empfindet *echte* Freude am Unterrichten.
+
+  Je ne connais pas sa *véritable* identité.
+  Ich kenne seine *wahre* Identität nicht.
+
+  C'est un *véritable* artiste, pas un amateur.
+  Er ist ein *echter* Künstler, kein Amateur.
+
+  Elle porte une veste en cuir *véritable*.
+  Sie trägt eine Jacke aus *echtem* Leder.
+
+  Un *véritable* sourire illuminait son visage.
+  Ein *echtes* Lächeln erhellte ihr Gesicht.
+
+  C'est une *véritable* passion qui l'anime.
+  Eine *echte* Leidenschaft treibt ihn an.
+
+  Nous recherchons la *véritable* cause du problème.
+  Wir suchen nach der *wahren* Ursache des Problems.
+
+  Le *véritable* amour ne meurt jamais.
+  Die *wahre* Liebe stirbt nie.
+
+  "C'est un *véritable* miracle qu'il ait survécu !"
+  "Es ist ein *wahres* Wunder, dass er überlebt hat!"
+
+  Son *véritable* caractère s'est révélé avec le temps.
+  Sein *wahrer* Charakter hat sich mit der Zeit gezeigt.
+
+  Cette pierre précieuse est-elle *véritable* ?
+  Ist dieser Edelstein *echt*?
+
+  Un *véritable* ami te dira toujours la vérité.
+  Ein *wahrer* Freund wird dir immer die Wahrheit sagen.
+
+  Cette histoire est-elle *véritable* ?
+  Ist diese Geschichte *wahr*?
+
+  C'est un *véritable* génie en mathématiques.
+  Er ist ein *echtes* Genie in Mathematik.
+
+  Je cherche le *véritable* sens de la vie.
+  Ich suche nach dem *wahren* Sinn des Lebens.
+
+  Elle a montré un *véritable* talent pour la musique.
+  Sie hat ein *echtes* Talent für Musik gezeigt.
+
+  C'est une *véritable* œuvre d'art.
+  Das ist ein *echtes* Kunstwerk.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

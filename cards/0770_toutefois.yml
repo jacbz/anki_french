@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Toutefois, l’industrie connaît des problèmes réels.
-  Die Industrie hat jedoch mit echten Problemen zu kämpfen.
+  *Toutefois*, l'industrie connaît des problèmes réels.
+  *Jedoch* hat die Industrie echte Probleme.
 
-  Je voulais venir, toutefois j’ai été empêché.
-  Ich wollte kommen, allerdings wurde ich daran gehindert.
+  Le film était intéressant, *toutefois* un peu long pour les enfants.
+  Der Film war interessant, *allerdings* etwas lang für die Kinder.
+
+  Elle accepte l'invitation, si *toutefois* vous êtes d'accord.
+  Sie nimmt die Einladung an, *sofern* Sie einverstanden sind.
+
+  *Toutefois*, il ne faut pas oublier les conséquences.
+  Man darf *jedoch* die Konsequenzen nicht vergessen.
+
+  Je viendrai à la fête, si *toutefois* je finis mon travail à temps.
+  Ich komme zur Party, *falls* ich rechtzeitig mit der Arbeit fertig werde.
+
+  Le prix est élevé, *toutefois* la qualité est excellente.
+  Der Preis ist hoch, *dennoch* ist die Qualität ausgezeichnet.
+
+  *Toutefois*, nous devons considérer d'autres options.
+  Wir müssen *allerdings* auch andere Optionen in Betracht ziehen.
+
+  Il est gentil, *toutefois* un peu naïf parfois.
+  Er ist nett, *jedoch* manchmal etwas naiv.
+
+  *Toutefois*, les résultats n'étaient pas concluants.
+  Die Ergebnisse waren *indessen* nicht schlüssig.
+
+  Le restaurant était complet, *toutefois* ils ont trouvé une table pour nous.
+  Das Restaurant war voll, *trotzdem* haben sie einen Tisch für uns gefunden.
+
+  *Toutefois*, cette solution présente quelques inconvénients.
+  Diese Lösung hat *allerdings* einige Nachteile.
+
+  Je lui parlerai demain, si *toutefois* elle est disponible.
+  Ich werde morgen mit ihr sprechen, *sofern* sie Zeit hat.
+
+  La recette est simple, *toutefois* il faut suivre les étapes avec précision.
+  Das Rezept ist einfach, man muss sich *jedoch* genau an die Schritte halten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

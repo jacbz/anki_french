@@ -13,20 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je ne m’étais jamais vraiment intéressé à la question.
-  Ich hatte mich nie wirklich für dieses Thema interessiert.
+  Je ne m'étais jamais vraiment *intéressé* à la question.
+  Ich hatte mich nie wirklich für die Frage *interessiert*.
 
-  Je suis très intéressé par ce projet.
-  Ich bin sehr an diesem Projekt interessiert.
+  Elle n'est pas *intéressée* par les jeux vidéo.
+  Sie ist nicht an Videospielen *interessiert*.
 
-  L'alliance intéressée s'est formée uniquement pour des raisons économiques.
-  Das Zweckbündnis ist ausschließlich aus wirtschaftlichen Gründen entstanden.
+  Tous les *intéressés* doivent s'inscrire avant vendredi.
+  Alle *Interessierten* müssen sich bis Freitag anmelden.
 
-  Le cadeau était très intéressé, je l'avoue.
-  Das Geschenk war eigennützig, ich gebe es zu.
+  Son amitié *intéressée* ne m'a pas surpris.
+  Seine eigen*nützige* Freundschaft hat mich nicht überrascht.
 
-  C'est égoïste, intéressé, et hors de question.
-  Es ist egoistisch und eigennützig und es wird nicht passieren.
+  Les parties *intéressées* se réuniront demain matin.
+  Die *betroffenen* Parteien werden sich morgen früh treffen.
+
+  Paul est très *intéressé* par notre proposition de collaboration.
+  Paul ist an unserem Kooperationsvorschlag sehr *interessiert*.
+
+  La principale *intéressée* n'était même pas présente à la réunion.
+  Die Haupt*betroffene* war nicht einmal bei dem Treffen anwesend.
+
+  As-tu contacté tous les *intéressés* ?
+  Hast du alle *Beteiligten* kontaktiert?
+
+  Son comportement *intéressé* a détruit notre amitié.
+  Sein *selbstsüchtiges* Verhalten hat unsere Freundschaft zerstört.
+
+  Marie s'est toujours *intéressée* à l'art moderne.
+  Marie hat sich schon immer für moderne Kunst *interessiert*.
+
+  Les *intéressés* peuvent retirer leur dossier à l'accueil.
+  Die *Interessierten* können ihre Unterlagen am Empfang abholen.
+
+  Cette alliance *intéressée* ne durera pas longtemps.
+  Dieses *Zweck*bündnis wird nicht lange halten.
+
+  Elle semblait très *intéressée* par mes explications.
+  Sie schien an meinen Erklärungen sehr *interessiert* zu sein.
+
+  Les personnes *intéressées* doivent envoyer leur CV.
+  Die *interessierten* Personen sollen ihren Lebenslauf schicken.
+
+  Son conseil *intéressé* m'a mis mal à l'aise.
+  Sein eigen*nütziger* Ratschlag war mir unangenehm.
+
+  Nous sommes *intéressés* par votre offre de stage.
+  Wir sind an Ihrem Praktikumsangebot *interessiert*.
+
+  Les *intéressés* seront informés par mail.
+  Die *Betroffenen* werden per E-Mail informiert.
+
+  C'est un homme très *intéressé*, il ne fait rien gratuitement.
+  Er ist ein sehr *eigennütziger* Mensch, er tut nichts umsonst.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

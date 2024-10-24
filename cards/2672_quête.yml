@@ -13,26 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Au lycée, la quête de popularité est une guerre.
-  In der Highschool ist das Streben nach Beliebtheit ein Krieg.
+  Au lycée, la *quête* de popularité est une guerre.
+  In der Schule ist die *Suche* nach Popularität ein Krieg.
 
-  Il est parti en quête de la vérité.
-  Er ist auf der Suche nach der Wahrheit gegangen.
+  Notre groupe de théâtre est en *quête* d'un nouveau local de répétition.
+  Unsere Theatergruppe ist auf der *Suche* nach einem neuen Proberaum.
 
-  La quête de la vérité est un long chemin.
-  Die Suche nach der Wahrheit ist ein langer Weg.
+  Les bénévoles font la *quête* pour aider les sans-abri.
+  Die Freiwilligen *sammeln* Geld, um den Obdachlosen zu helfen.
 
-  Après son divorce, elle était en quête d'un nouveau départ.
-  Nach ihrer Scheidung war sie auf der Suche nach einem Neuanfang.
+  La *quête* du dimanche a rapporté plus de 500 euros à l'église.
+  Die sonntägliche *Kollekte* hat der Kirche über 500 Euro eingebracht.
 
-  Il est en quête d'un emploi stable et bien rémunéré.
-  Er ist auf Suche nach einer sicheren und gut bezahlten Stelle.
+  "Je suis en *quête* d'un appartement depuis deux mois."
+  "Ich bin seit zwei Monaten auf *Wohnungssuche*."
 
-  Le lion est en quête de nourriture pour ses petits.
-  Der Löwe ist auf Nahrungssuche für seine Jungen.
+  Chaque matin, les oiseaux partent en *quête* de nourriture.
+  Jeden Morgen machen sich die Vögel auf *Nahrungs*suche.
 
-  La quête du Graal est une légende qui a inspiré de nombreux écrivains.
-  Die Gralssuche ist eine Legende, die viele Schriftsteller inspiriert hat.
+  La *quête* du bonheur nous pousse parfois à faire des choix difficiles.
+  Die *Suche* nach Glück bringt uns manchmal dazu, schwierige Entscheidungen zu treffen.
+
+  Les chevaliers de la Table ronde sont partis en *quête* du Graal.
+  Die Ritter der Tafelrunde machten sich auf die *Grals*suche.
+
+  Les artistes de rue font la *quête* après leur spectacle.
+  Die Straßenkünstler *sammeln* nach ihrer Vorführung Geld.
+
+  Sa *quête* de la perfection l'a conduit à l'épuisement.
+  Seine *Suche* nach Perfektion hat ihn zur Erschöpfung geführt.
+
+  Le jeune chien est en *quête* d'affection auprès de son nouveau maître.
+  Der junge Hund ist auf der *Suche* nach Zuneigung bei seinem neuen Herrchen.
+
+  Pendant la messe, Marie fait la *quête* avec une corbeille en osier.
+  Während der Messe sammelt Marie die *Kollekte* mit einem Weidenkorb ein.
+
+  Les philosophes sont en perpétuelle *quête* de vérité.
+  Philosophen sind in ständiger *Suche* nach Wahrheit.
+
+  La *quête* spirituelle l'a mené dans différents monastères.
+  Die spirituelle *Suche* hat ihn in verschiedene Klöster geführt.
+
+  Le renard part en *quête* de proies dès la tombée de la nuit.
+  Der Fuchs macht sich bei Einbruch der Dunkelheit auf *Beute*suche.
+
+  La *quête* d'un emploi stable occupe tout son temps.
+  Die *Suche* nach einer festen Stelle nimmt seine ganze Zeit in Anspruch.
+
+  Cette association humanitaire organise une *quête* à domicile.
+  Diese Hilfsorganisation führt eine Haus-zu-Haus-*Sammlung* durch.
+
+  Dans ce roman, la *quête* initiatique du héros est fascinante.
+  In diesem Roman ist die *Suche* des Helden nach Selbsterkenntnis faszinierend.
+
+  Son chien de chasse excelle dans la *quête* du gibier.
+  Sein Jagdhund ist hervorragend in der *Suche* nach Wild.
+
+  La *quête* de sens est une préoccupation universelle.
+  Die *Suche* nach Sinn ist ein universelles Anliegen.
+
+  Les moines mendiants vivent des *quêtes* qu'ils font chaque jour.
+  Die Bettelmönche leben von den *Sammlungen*, die sie täglich durchführen.
+
+  Le scientifique poursuit sa *quête* de nouvelles découvertes.
+  Der Wissenschaftler setzt seine *Suche* nach neuen Entdeckungen fort.
+
+  Cette *quête* d'amour l'a menée aux quatre coins du monde.
+  Diese *Suche* nach Liebe hat sie in alle Ecken der Welt geführt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

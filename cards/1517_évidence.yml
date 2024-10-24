@@ -13,38 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je souhaite que cette évidence pénètre les esprits.
-  Ich wünsche mir, dass diese Selbstverständlichkeit in die Köpfe der Menschen eindringt.
+  Je souhaite que cette *évidence* pénètre les esprits.
+  Ich hoffe, dass diese *Offensichtlichkeit* die Gemüter durchdringt.
 
-  Cela va de soi, c’est une évidence.
-  Das versteht sich von selbst, das ist offensichtlich.
+  L'*évidence* de la solution m'a frappé immédiatement.
+  Die *Offensichtlichkeit* der Lösung hat mich sofort getroffen.
 
-  La vérité était d'une évidence aveuglante, personne ne pouvait la nier.
-  Die Wahrheit war mehr als offensichtlich, niemand konnte sie leugnen.
+  Cette erreur est d'une *évidence* aveuglante.
+  Dieser Fehler ist mehr als *offensichtlich*.
 
-  L'affiche était bien en évidence sur le mur, impossible à manquer.
-  Das Plakat war gut sichtbar an der Wand, man konnte es unmöglich übersehen.
+  De toute *évidence*, elle ne viendra pas à la fête.
+  Ganz *offensichtlich* wird sie nicht zur Party kommen.
 
-  De toute évidence, il avait menti, ses paroles étaient incohérentes.
-  Ganz offensichtlich hatte er gelogen, seine Worte waren widersprüchlich.
+  Les résultats sont à l'*évidence* catastrophiques.
+  Die Ergebnisse sind *offenkundig* katastrophal.
 
-  L'erreur dans son raisonnement est apparue à l'évidence après quelques minutes de discussion.
-  Der Fehler in seiner Argumentation wurde deutlich nach ein paar Minuten der Diskussion.
+  La vérité est apparue à l'*évidence* après quelques minutes.
+  Die Wahrheit wurde nach einigen Minuten *offensichtlich*.
 
-  C'est l'évidence même qu'il a triché, ses résultats sont invraisemblables.
-  Das ist völlig klar, dass er betrogen hat, seine Ergebnisse sind unglaubwürdig.
+  C'est une *évidence* : nous devons agir maintenant.
+  Das ist eine klare *Tatsache*: Wir müssen jetzt handeln.
 
-  Après plusieurs tentatives infructueuses, il a fini par se rendre à l'évidence: il n'y arriverait pas.
-  Nach mehreren erfolglosen Versuchen hat er sich schließlich den Tatsachen gebeugt: Er würde es nicht schaffen.
+  C'est l'*évidence* même qu'il ment !
+  Das liegt doch auf der *Hand*, dass er lügt!
 
-  Il refusait de se rendre à l'évidence, même face aux preuves irréfutables.
-  Er wollte etwas nicht wahrhaben wollen, selbst angesichts der unwiderlegbaren Beweise.
+  Il a fallu qu'elle se rende à l'*évidence* : son chat était malade.
+  Sie musste sich den *Tatsachen* beugen: Ihre Katze war krank.
 
-  Le rapport mettait en évidence les nombreux défauts du système actuel.
-  Der Bericht stellte die zahlreichen Mängel des aktuellen Systems klar heraus.
+  Pierre refuse de se rendre à l'*évidence* concernant ses problèmes d'argent.
+  Pierre will seine finanziellen Probleme nicht *wahrhaben*.
 
-  Elle se mettait en évidence en portant une robe rouge flamboyante.
-  Sie setzte sich in Szene, indem sie ein leuchtend rotes Kleid trug.
+  Le panneau d'avertissement était bien en *évidence*.
+  Das Warnschild war gut *sichtbar*.
+
+  L'architecte a mis les défauts bien en *évidence* dans son rapport.
+  Der Architekt hat die Mängel in seinem Bericht deutlich *herausgestellt*.
+
+  Marie aime se mettre en *évidence* lors des réunions.
+  Marie drängt sich bei Besprechungen gern in den *Vordergrund*.
+
+  L'*évidence* mathématique ne peut pas être contestée.
+  Die mathematische *Evidenz* kann nicht bestritten werden.
+
+  Cette *évidence* éclatante nous a tous surpris.
+  Diese leuchtende *Offensichtlichkeit* hat uns alle überrascht.
+
+  Il s'obstine à nier l'*évidence*.
+  Er beharrt darauf, das *Offensichtliche* zu leugnen.
+
+  L'*évidence* de son mensonge était frappante.
+  Die *Offensichtlichkeit* seiner Lüge war verblüffend.
+
+  J'ai laissé les clés en *évidence* sur la table.
+  Ich habe die Schlüssel gut *sichtbar* auf den Tisch gelegt.
+
+  Cette *évidence* scientifique ne peut pas être ignorée.
+  Diese wissenschaftliche *Evidenz* kann nicht ignoriert werden.
+
+  De toute *évidence*, le suspect était innocent.
+  Ganz *offensichtlich* war der Verdächtige unschuldig.
+
+  L'*évidence* de sa culpabilité a choqué tout le monde.
+  Die *Offensichtlichkeit* seiner Schuld hat alle schockiert.
+
+  Elle a mis son nouveau diplôme en *évidence* dans son bureau.
+  Sie hat ihr neues Diplom in ihrem Büro gut *sichtbar* aufgehängt.
+
+  L'*évidence* de sa jeunesse frappait tous les visiteurs.
+  Die *Offensichtlichkeit* ihrer Jugend fiel allen Besuchern auf.
+
+  Cette *évidence* historique est maintenant remise en question.
+  Diese historische *Evidenz* wird nun in Frage gestellt.
+
+  Il faut parfois démontrer l'*évidence*.
+  Manchmal muss man das *Offensichtliche* beweisen.
+
+  Les faits démontrent à l'*évidence* qu'il avait raison.
+  Die Fakten beweisen *eindeutig*, dass er Recht hatte.
+
+  L'*évidence* de son trouble était visible sur son visage.
+  Die *Offensichtlichkeit* ihrer Verwirrung war in ihrem Gesicht zu sehen.
+
+  Cette *évidence* philosophique mérite d'être approfondie.
+  Diese philosophische *Evidenz* verdient es, vertieft zu werden.
+
+  L'*évidence* sensible ne suffit pas toujours à convaincre.
+  Die sinnliche *Evidenz* reicht nicht immer aus, um zu überzeugen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

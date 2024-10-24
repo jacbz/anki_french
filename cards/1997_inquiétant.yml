@@ -13,14 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La puissance iranienne est inquiétante.
-  Die Macht des Irans ist besorgniserregend.
+  La puissance iranienne est *inquiétante*.
+  Die iranische Macht ist *beunruhigend*.
 
-  C’est une nouvelle inquiétante.
-  Das ist eine besorgniserregende Nachricht.
+  Le silence de mon ami devient de plus en plus *inquiétant*.
+  Das Schweigen meines Freundes wird immer *beunruhigender*.
 
-  La situation devient inquiétante, il faut réagir rapidement.
-  Die Situation nimmt beunruhigende Formen an, man muss schnell handeln.
+  Son comportement *inquiétant* fait peur à tout le monde.
+  Sein *Furcht erregendes* Verhalten macht allen Angst.
+
+  L'état du patient n'a rien d'*inquiétant*, selon le médecin.
+  Der Zustand des Patienten ist nach Aussage des Arztes nicht *besorgniserregend*.
+
+  Ces nouvelles *inquiétantes* ont surpris toute la famille.
+  Diese *beunruhigenden* Nachrichten haben die ganze Familie überrascht.
+
+  La situation économique prend des proportions *inquiétantes*.
+  Die Wirtschaftslage nimmt *beunruhigende* Ausmaße an.
+
+  Un personnage *inquiétant* est apparu dans le film d'horreur.
+  Eine *Furcht einflößende* Gestalt tauchte in dem Horrorfilm auf.
+
+  Les changements climatiques deviennent de plus en plus *inquiétants*.
+  Der Klimawandel wird zunehmend *besorgniserregender*.
+
+  Son visage *inquiétant* nous a fait reculer d'un pas.
+  Sein *Furcht erregendes* Gesicht ließ uns einen Schritt zurückweichen.
+
+  Les symptômes sont devenus *inquiétants* au fil des jours.
+  Die Symptome wurden im Laufe der Tage *beunruhigender*.
+
+  Cette *inquiétante* découverte a alerté les scientifiques.
+  Diese *beunruhigende* Entdeckung hat die Wissenschaftler alarmiert.
+
+  L'évolution de la maladie reste *inquiétante*.
+  Der Verlauf der Krankheit bleibt *besorgniserregend*.
+
+  Un bruit *inquiétant* venait de la cave.
+  Ein *beunruhigendes* Geräusch kam aus dem Keller.
+
+  Les statistiques montrent une tendance *inquiétante*.
+  Die Statistiken zeigen einen *besorgniserregenden* Trend.
+
+  Cette *inquiétante* absence de réponse nous préoccupe tous.
+  Dieses *beunruhigende* Ausbleiben einer Antwort beschäftigt uns alle.
+
+  L'augmentation *inquiétante* des prix affecte toute la population.
+  Der *besorgniserregende* Preisanstieg betrifft die gesamte Bevölkerung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

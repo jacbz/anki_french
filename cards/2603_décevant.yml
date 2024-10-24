@@ -13,17 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je trouvais très décevants les commentaires de nos journaux.
-  Ich fand die Kommentare in unseren Zeitungen sehr enttäuschend.
+  Je trouvais très *décevants* les commentaires de nos journaux.
+  Ich fand die Kommentare unserer Zeitungen sehr *enttäuschend*.
 
-  Le film était décevant.
-  Der Film war enttäuschend.
+  Cette adaptation cinématographique s'est révélée *décevante* pour les fans du livre.
+  Diese Kinoadaption hat sich für die Fans des Buches als *enttäuschend* erwiesen.
 
-  Le projet s'est montré décevant malgré les efforts déployés par l'équipe.
-  Das Projekt enttäuschte die Erwartungen, trotz der Bemühungen des Teams.
+  Les résultats de notre équipe ont été particulièrement *décevants* cette saison.
+  Die Ergebnisse unserer Mannschaft waren diese Saison besonders *enttäuschend*.
 
-  La performance du joueur s'est révélée décevante, loin de ce qu'on attendait de lui.
-  Die Leistung des Spielers enttäuschte, sie lag weit hinter dem, was man von ihm erwartet hatte.
+  La performance de cet élève est devenue de plus en plus *décevante*.
+  Die Leistung dieses Schülers wurde immer *enttäuschender*.
+
+  L'entretien d'embauche s'est montré *décevant* : ils n'ont parlé que du salaire.
+  Das Vorstellungsgespräch war *enttäuschend*: Sie haben nur über das Gehalt gesprochen.
+
+  La réponse du ministre s'est avérée *décevante* pour tous les citoyens.
+  Die Antwort des Ministers erwies sich für alle Bürger als *enttäuschend*.
+
+  Cette nouvelle exposition d'art contemporain est assez *décevante*.
+  Diese neue Ausstellung zeitgenössischer Kunst ist ziemlich *enttäuschend*.
+
+  Le concert d'hier soir était plutôt *décevant*.
+  Das gestrige Konzert war eher *enttäuschend*.
+
+  Ces apparences *décevantes* cachent souvent une réalité plus complexe.
+  Dieser *enttäuschende* Anschein verbirgt oft eine komplexere Realität.
+
+  Les propos *décevants* de mon ami m'ont vraiment blessée.
+  Die *enttäuschenden* Äußerungen meines Freundes haben mich wirklich verletzt.
+
+  La qualité *décevante* du produit ne justifie pas son prix élevé.
+  Die *enttäuschende* Qualität des Produkts rechtfertigt nicht seinen hohen Preis.
+
+  Le bilan de cette année s'est révélé plutôt *décevant*.
+  Die Bilanz dieses Jahres hat sich als recht *enttäuschend* erwiesen.
+
+  Cette fin de roman est vraiment *décevante*.
+  Dieses Romanende ist wirklich *enttäuschend*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

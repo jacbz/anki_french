@@ -13,32 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On ne vend ni ski ni accessoire.
-  Wir verkaufen weder Ski noch Zubehör.
+  On ne vend ni ski ni *accessoire*.
+  Wir verkaufen weder Ski noch *Zubehör*.
 
-  Elle a acheté des accessoires pour sa voiture.
-  Sie hat Zubehör für ihr Auto gekauft.
+  Les frais d'électricité sont *accessoires* par rapport au loyer.
+  Die Stromkosten sind im Vergleich zur Miete *nebensächlich*.
 
-  Les frais accessoires de ce voyage sont très élevés.
-  Die Nebenkosten dieser Reise sind sehr hoch.
+  Cette belle montre est l'*accessoire* parfait pour compléter ma tenue.
+  Diese schöne Uhr ist das perfekte Mode*accessoire*, um mein Outfit zu vervollständigen.
 
-  Les accessoires de cette robe sont magnifiques.
-  Das Zubehör zu diesem Kleid ist wunderschön.
+  Le magasin des *accessoires* se trouve derrière la scène.
+  Die *Requisiten*kammer befindet sich hinter der Bühne.
 
-  Le magasin des accessoires se trouve juste en face du théâtre.
-  Das Requisitenlager befindet sich direkt gegenüber dem Theater.
+  J'ai acheté plusieurs *accessoires* pour mon nouveau téléphone.
+  Ich habe verschiedenes *Zubehör* für mein neues Handy gekauft.
 
-  L'accessoire n'est pas important dans cette affaire.
-  Das Unwesentliche spielt in dieser Angelegenheit keine Rolle.
+  Les *accessoires* de cuisine rendent la préparation des repas plus facile.
+  Küchen*zubehör* macht die Essenszubereitung einfacher.
 
-  Les accessoires de camping sont essentiels pour un séjour confortable en pleine nature.
-  Campingzubehör ist unerlässlich für einen komfortablen Aufenthalt in der freien Natur.
+  "C'est un détail *accessoire*, ne t'inquiète pas."
+  "Das ist eine *nebensächliche* Kleinigkeit, mach dir keine Sorgen."
 
-  Une telle question revêt en effet un caractère accessoire et ne modifie pas l'objet du litige.
-  Eine solche Frage ist nämlich nebensächlich und ändert nicht den Streitgegenstand.
+  L'acteur cherche désespérément son *accessoire* principal pour la prochaine scène.
+  Der Schauspieler sucht verzweifelt sein wichtigstes *Requisit* für die nächste Szene.
 
-  À première vue, cela pourrait sembler plutôt accessoire, voire même dénué d'intérêt.
-  Dies mag auf den ersten Blick eher nebensächlich, gar belanglos erscheinen.
+  Ces lunettes de soleil sont plus qu'un simple *accessoire* de mode.
+  Diese Sonnenbrille ist mehr als nur ein Mode*accessoire*.
+
+  Dans ce film, la voiture n'est pas un simple *accessoire*, elle joue un rôle central.
+  In diesem Film ist das Auto nicht nur ein *Requisit*, sondern spielt eine zentrale Rolle.
+
+  Elle collectionne les *accessoires* vintage des années 50.
+  Sie sammelt Vintage-*Accessoires* aus den 50er Jahren.
+
+  Les *accessoires* de camping doivent être légers et pratiques.
+  Camping*zubehör* muss leicht und praktisch sein.
+
+  Concentrons-nous sur l'essentiel, pas sur l'*accessoire*.
+  Konzentrieren wir uns auf das Wesentliche, nicht auf das *Nebensächliche*.
+
+  Le magasin propose une large gamme d'*accessoires* pour voiture.
+  Der Laden bietet eine große Auswahl an Auto*zubehör* an.
+
+  Cet *accessoire* de théâtre a plus de cent ans.
+  Dieses Theater*requisit* ist über hundert Jahre alt.
+
+  Les *accessoires* de salle de bain sont inclus dans la location.
+  Das Bad*zubehör* ist in der Miete inbegriffen.
+
+  Cette ceinture est l'*accessoire* idéal pour cette robe.
+  Dieser Gürtel ist das ideale *Accessoire* für dieses Kleid.
+
+  Les questions *accessoires* seront discutées plus tard.
+  Die *nebensächlichen* Fragen werden später besprochen.
+
+  L'*accessoire* le plus important pour cette scène est le livre ancien.
+  Das wichtigste *Requisit* für diese Szene ist das alte Buch.
+
+  J'ai besoin de nouveaux *accessoires* pour mon appareil photo.
+  Ich brauche neues *Zubehör* für meine Kamera.
+
+  Le vendeur m'a conseillé plusieurs *accessoires* utiles.
+  Der Verkäufer hat mir verschiedenes nützliches *Zubehör* empfohlen.
+
+  Ces *accessoires* de mode sont fabriqués à la main.
+  Diese Mode*accessoires* werden handgefertigt.
+
+  L'aspirateur est vendu avec tous ses *accessoires*.
+  Der Staubsauger wird mit allem *Zubehör* verkauft.
+
+  Ce point du règlement est *accessoire*.
+  Dieser Punkt der Vorschrift ist *nebensächlich*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

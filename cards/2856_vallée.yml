@@ -13,26 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je marche dans la vallée de la mort.
-  Ich wandere durch das Tal des Todes.
+  Je marche dans la *vallée* de la mort.
+  Ich wandere durch das *Tal* des Todes.
 
-  Nous avons marché dans la vallée toute la journée.
-  Wir sind den ganzen Tag durch das Tal gewandert.
+  La *vallée* du Rhin est connue pour ses vignobles.
+  Das Rhein*tal* ist bekannt für seine Weinberge.
 
-  La vallée du Rhin est une région fertile et pittoresque.
-  Das Rheintal ist eine fruchtbare und malerische Gegend.
+  Les touristes admirent la beauté de la *vallée* de Chamonix.
+  Die Touristen bewundern die Schönheit des *Tals* von Chamonix.
 
-  La vallée du Rhône abrite de nombreux vignobles.
-  Das Rhonetal beherbergt zahlreiche Weinberge.
+  Cette *vallée* glaciaire s'est formée il y a des milliers d'années.
+  Dieses Urstrom*tal* entstand vor Tausenden von Jahren.
 
-  La vallée de Chamonix est une destination populaire pour les amateurs de ski.
-  Das Tal von Chamonix ist ein beliebtes Ziel für Skifahrer.
+  Une petite *vallée* transversale mène au village.
+  Ein kleines Seiten*tal* führt zum Dorf.
 
-  Une vallée glaciaire est formée par l'érosion d'un glacier.
-  Ein Urstromtal entsteht durch die Erosion eines Gletschers.
+  Le brouillard recouvre le fond de la *vallée*.
+  Der Nebel bedeckt den *Tal*grund.
 
-  Une vallée transversale est une vallée qui coupe une chaîne de montagnes.
-  Ein Seitental ist ein Tal, das eine Bergkette durchschneidet.
+  Notre maison se trouve au creux de la *vallée*.
+  Unser Haus liegt in der *Tal*mulde.
+
+  Les pentes de la *vallée* sont couvertes de sapins.
+  Die *Tal*hänge sind mit Tannen bedeckt.
+
+  La rivière serpente à travers la *vallée*.
+  Der Fluss schlängelt sich durch das *Tal*.
+
+  Un pont suspendu traverse toute la *vallée*.
+  Eine Hängebrücke überquert das ganze *Tal*.
+
+  La *vallée* de la Loire est célèbre pour ses châteaux.
+  Das Loire*tal* ist berühmt für seine Schlösser.
+
+  Les agriculteurs cultivent le fond de la *vallée*.
+  Die Bauern bewirtschaften den *Tal*boden.
+
+  Le train traverse la *vallée* sur un vieux viaduc.
+  Der Zug überquert das *Tal* auf einem alten Viadukt.
+
+  La neige a isolé les habitants de la *vallée*.
+  Der Schnee hat die *Tal*bewohner von der Außenwelt abgeschnitten.
+
+  Les randonneurs descendent dans la *vallée* pour la nuit.
+  Die Wanderer steigen für die Nacht ins *Tal* hinab.
+
+  Le soleil ne pénètre dans cette *vallée* que quelques heures par jour.
+  Die Sonne scheint nur wenige Stunden am Tag in dieses *Tal*.
+
+  La *vallée* est protégée des vents froids par les montagnes.
+  Das *Tal* wird von den Bergen vor kalten Winden geschützt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,23 +13,65 @@ Register: ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Durant le trajet, nous avons été peu bavards.
-  Während der Fahrt waren wir nicht sehr gesprächig.
+  Durant le *trajet*, nous avons été peu bavards.
+  Während der *Fahrt* waren wir nicht sehr gesprächig.
 
-  Le trajet en train dure trois heures.
-  Die Zugfahrt dauert drei Stunden.
+  Le *trajet* en train de Paris à Lyon dure environ deux heures.
+  Die *Zugfahrt* von Paris nach Lyon dauert ungefähr zwei Stunden.
 
-  Ça me fait deux heures de trajet pour aller au travail.
-  Für die Strecke zur Arbeit brauche ich zwei Stunden.
+  Quel est le meilleur *trajet* pour aller au centre-ville ?
+  Was ist der beste *Weg* zum Stadtzentrum?
 
-  Le trajet aller et retour dure environ trois heures.
-  Der Hin- und Rückweg dauert etwa drei Stunden.
+  Pour ce *trajet*, je préfère prendre ma voiture.
+  Für diese *Strecke* nehme ich lieber mein Auto.
 
-  Le trajet en train est plus long que le trajet en voiture.
-  Die Zugfahrt ist länger als die Autofahrt.
+  Le *trajet* en bateau était magnifique avec ce coucher de soleil.
+  Die *Schiffsfahrt* war wunderschön mit diesem Sonnenuntergang.
 
-  Le trajet en avion est très rapide, mais il est aussi très cher.
-  Die Flugstrecke ist sehr schnell, aber auch sehr teuer.
+  Mon *trajet* quotidien jusqu'au bureau me prend une demi-heure.
+  Mein täglicher *Weg* ins Büro dauert eine halbe Stunde.
+
+  Les enfants ont fait tout le *trajet* à pied.
+  Die Kinder sind den ganzen *Weg* zu Fuß gegangen.
+
+  Le *trajet* aller coûte 50 euros en première classe.
+  Die *Hinfahrt* kostet 50 Euro in der ersten Klasse.
+
+  J'ai réservé mon *trajet* en avion pour la semaine prochaine.
+  Ich habe meinen *Flug* für nächste Woche gebucht.
+
+  Le *trajet* aller et retour nous prendra toute la journée.
+  Die *Hin- und Rückfahrt* wird den ganzen Tag dauern.
+
+  Pendant le *trajet*, nous nous sommes arrêtés plusieurs fois.
+  Während der *Fahrt* haben wir mehrmals angehalten.
+
+  Le médecin a expliqué le *trajet* du nerf optique.
+  Der Arzt hat die *Bahn* des Sehnervs erklärt.
+
+  Ce *trajet* est desservi par trois lignes de bus différentes.
+  Diese *Strecke* wird von drei verschiedenen Buslinien bedient.
+
+  Il faut compter une heure de *trajet* entre les deux villes.
+  Man muss mit einer Stunde *Fahrt* zwischen den beiden Städten rechnen.
+
+  Le GPS a calculé le *trajet* le plus rapide.
+  Das GPS hat die schnellste *Strecke* berechnet.
+
+  Elle étudie les différents *trajets* possibles pour ses vacances.
+  Sie untersucht die verschiedenen möglichen *Routen* für ihren Urlaub.
+
+  Le *trajet* en métro sera plus rapide qu'en bus.
+  Die *Fahrt* mit der U-Bahn wird schneller sein als mit dem Bus.
+
+  Nous devrons faire un long *trajet* pour arriver à destination.
+  Wir müssen eine lange *Strecke* zurücklegen, um ans Ziel zu kommen.
+
+  Le *trajet* retour s'est fait sous la pluie.
+  Die *Rückfahrt* fand im Regen statt.
+
+  Paul fait ce *trajet* tous les jours depuis dix ans.
+  Paul macht diesen *Weg* seit zehn Jahren jeden Tag.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

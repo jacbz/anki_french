@@ -13,29 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Supprime ce paragraphe, cela ne changera rien.
-  Streichen Sie diesen Absatz, es wird nichts ändern.
+  *Supprime* ce paragraphe, cela ne changera rien.
+  *Lösche* diesen Absatz, das wird nichts ändern.
 
-  Je vais supprimer ce fichier.
-  Ich werde diese Datei löschen.
+  Le professeur a *supprimé* trois élèves de la liste des participants.
+  Der Lehrer hat drei Schüler von der Teilnehmerliste *gestrichen*.
 
-  Le directeur a décidé de supprimer l'avantage aux salariés qui ne respectaient pas le code vestimentaire.
-  Der Direktor hat beschlossen, den Mitarbeitern, die sich nicht an die Kleiderordnung hielten, den Vorteil zu streichen.
+  Il faut *supprimer* tous les obstacles à l'innovation.
+  Wir müssen alle Hindernisse für Innovation *beseitigen*.
 
-  Le médecin a conseillé à son patient de supprimer le sucre de son alimentation.
-  Der Arzt hat seinem Patienten geraten, auf Zucker in seiner Ernährung zu verzichten.
+  Le nouveau médicament *supprime* complètement la douleur.
+  Das neue Medikament *stillt* den Schmerz vollständig.
 
-  Il faut supprimer la tabulation avant d'envoyer le document.
-  Man muss die Tabulatoren löschen, bevor man das Dokument versendet.
+  Le gouvernement a *supprimé* cette loi controversée.
+  Die Regierung hat dieses umstrittene Gesetz *abgeschafft*.
 
-  L'entreprise a supprimé des emplois en raison de la crise économique.
-  Das Unternehmen hat aufgrund der Wirtschaftskrise Arbeitsplätze abgebaut.
+  N'oublie pas de *supprimer* les fichiers temporaires.
+  Vergiss nicht, die temporären Dateien zu *löschen*.
 
-  La police a supprimé le permis à Pierre après qu'il a été arrêté pour conduite en état d'ivresse.
-  Die Polizei hat Pierre den Führerschein entzogen, nachdem er wegen Trunkenheit am Steuer festgenommen wurde.
+  L'entreprise va devoir *supprimer* vingt postes cette année.
+  Die Firma wird dieses Jahr zwanzig Arbeitsplätze *abbauen* müssen.
 
-  Le gouvernement a supprimé l'aide financière à la famille de Marie après avoir découvert qu'ils étaient riches.
-  Die Regierung hat der Familie von Marie die Kredithilfe entzogen, nachdem sie herausfand, dass sie reich waren.
+  La police lui a *supprimé* son permis de conduire pour trois mois.
+  Die Polizei hat ihm für drei Monate den Führerschein *entzogen*.
+
+  Mon médecin m'a conseillé de *supprimer* le sel de mon alimentation.
+  Mein Arzt hat mir geraten, auf Salz in meiner Ernährung zu *verzichten*.
+
+  Le nouveau régime a *supprimé* toutes les libertés fondamentales.
+  Das neue Regime hat alle Grundfreiheiten *abgeschafft*.
+
+  Ce détergent *supprime* même les taches les plus tenaces.
+  Dieses Waschmittel *beseitigt* selbst die hartnäckigsten Flecken.
+
+  Marie a *supprimé* tous ses comptes sur les réseaux sociaux.
+  Marie hat alle ihre Social-Media-Konten *gelöscht*.
+
+  La banque lui a *supprimé* son aide financière.
+  Die Bank hat ihm die finanzielle Unterstützung *entzogen*.
+
+  Le comité a décidé de *supprimer* cette clause du contrat.
+  Das Komitee hat beschlossen, diese Klausel aus dem Vertrag zu *streichen*.
+
+  Les nouvelles technologies ont presque *supprimé* les distances.
+  Die neuen Technologien haben die Entfernungen fast *beseitigt*.
+
+  Je dois *supprimer* le sucre de mon café.
+  Ich muss auf Zucker in meinem Kaffee *verzichten*.
+
+  La mise à jour va *supprimer* tous les bugs du système.
+  Das Update wird alle Fehler im System *beseitigen*.
+
+  L'éditeur a *supprimé* plusieurs passages du manuscrit.
+  Der Herausgeber hat mehrere Passagen aus dem Manuskript *gestrichen*.
+
+  Cette crème *supprime* rapidement les rougeurs.
+  Diese Creme *beseitigt* schnell die Rötungen.
+
+  Le parti au pouvoir veut *supprimer* cette taxe impopulaire.
+  Die regierende Partei will diese unpopuläre Steuer *abschaffen*.
+
+  La direction a *supprimé* toutes les pauses café.
+  Die Geschäftsleitung hat alle Kaffeepausen *gestrichen*.
+
+  Le correcteur automatique *supprime* la plupart des fautes.
+  Die Autokorrektur *beseitigt* die meisten Fehler.
+
+  Il faut *supprimer* les risques d'accident dans cette zone.
+  Die Unfallrisiken in diesem Bereich müssen *beseitigt* werden.
+
+  Les restrictions sanitaires ont été *supprimées*.
+  Die gesundheitlichen Beschränkungen wurden *aufgehoben*.
+
+  Nous devons *supprimer* les obstacles à l'égalité des chances.
+  Wir müssen die Hindernisse für Chancengleichheit *beseitigen*.
+
+  L'application permet de *supprimer* facilement les yeux rouges sur les photos.
+  Die App ermöglicht es, rote Augen auf Fotos einfach zu *entfernen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

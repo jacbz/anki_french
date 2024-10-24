@@ -13,20 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous évaluons des projets en fonction de leur pertinence.
-  Wir bewerten Projekte nach ihrer Relevanz.
+  Nous *évaluons* des projets en fonction de leur pertinence.
+  Wir *bewerten* Projekte nach ihrer Relevanz.
 
-  Il est difficile d’évaluer la valeur de cette peinture.
-  Es ist schwierig, den Wert dieses Gemäldes zu bewerten.
+  L'expert a *évalué* ce tableau à 100.000 euros.
+  Der Experte hat dieses Gemälde auf 100.000 Euro *geschätzt*.
 
-  Les marchandises sont évaluées au prix de revient, ce qui permet de garantir une marge bénéficiaire raisonnable.
-  Die Waren werden mit Einstandskurs bewertet, was eine angemessene Gewinnspanne garantiert.
+  Les pompiers *évaluent* les dégâts causés par l'incendie.
+  Die Feuerwehrleute *schätzen* die durch das Feuer verursachten Schäden.
 
-  À combien évaluez-vous le temps nécessaire pour réaliser ce projet ?
-  Was glauben Sie, wie viel Zeit wir benötigen, um dieses Projekt zu realisieren?
+  Comment *évaluer* la distance jusqu'au sommet de la montagne ?
+  Wie kann man die Entfernung bis zum Gipfel *abschätzen*?
 
-  L'expert a évalué la somme des dommages à 10 000 euros.
-  Der Sachverständige hat die Summe der Schäden auf 10 000 Euro geschätzt.
+  Le professeur doit *évaluer* les connaissances de ses élèves.
+  Der Lehrer muss die Kenntnisse seiner Schüler *evaluieren*.
+
+  Les scientifiques ont *évalué* la population des ours polaires à 26.000.
+  Die Wissenschaftler haben die Population der Eisbären auf 26.000 *geschätzt*.
+
+  Je dois *évaluer* mes chances de réussite avant de commencer.
+  Ich muss meine Erfolgschancen *einschätzen*, bevor ich beginne.
+
+  Le comptable *évalue* les coûts du projet à 50.000 euros.
+  Der Buchhalter *schätzt* die Projektkosten auf 50.000 Euro.
+
+  Les chercheurs *évaluent* le débit de la rivière pendant la saison des pluies.
+  Die Forscher *messen* den Durchfluss des Flusses während der Regenzeit.
+
+  Il faut *évaluer* les risques avant de prendre une décision.
+  Man muss die Risiken *abschätzen*, bevor man eine Entscheidung trifft.
+
+  Les médecins *évaluent* l'état du patient chaque matin.
+  Die Ärzte *beurteilen* den Zustand des Patienten jeden Morgen.
+
+  La commission va *évaluer* l'impact environnemental du nouveau bâtiment.
+  Die Kommission wird die Umweltauswirkungen des neuen Gebäudes *bewerten*.
+
+  Comment *évaluer* le temps nécessaire pour finir ce travail ?
+  Wie kann man die Zeit *einschätzen*, die für diese Arbeit benötigt wird?
+
+  L'agence immobilière a *évalué* la maison à 300.000 euros.
+  Die Immobilienagentur hat das Haus auf 300.000 Euro *geschätzt*.
+
+  Les experts *évaluent* l'importance de cette découverte archéologique.
+  Die Experten *schätzen* die Bedeutung dieser archäologischen Entdeckung *ein*.
+
+  La police a *évalué* la foule à plus de 10.000 personnes.
+  Die Polizei hat die Menschenmenge auf mehr als 10.000 Personen *geschätzt*.
+
+  Le jury va *évaluer* la performance des candidats.
+  Die Jury wird die Leistung der Kandidaten *bewerten*.
+
+  Nous devons *évaluer* nos besoins en personnel pour l'année prochaine.
+  Wir müssen unseren Personalbedarf für das nächste Jahr *einschätzen*.
+
+  Les météorologues *évaluent* les risques d'orage pour ce soir.
+  Die Meteorologen *schätzen* die Gewittergefahr für heute Abend *ein*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

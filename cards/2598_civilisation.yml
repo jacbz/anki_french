@@ -13,11 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On cherchait des signes de civilisation.
-  Wir suchten nach Zeichen der Zivilisation.
+  On cherchait des signes de *civilisation*.
+  Man suchte nach Zeichen der *Zivilisation*.
 
-  La civilisation égyptienne est très ancienne.
-  Die ägyptische Zivilisation ist sehr alt.
+  La *civilisation* maya nous fascine encore aujourd'hui.
+  Die Maya-*Kultur* fasziniert uns noch heute.
+
+  Les Romains ont apporté la *civilisation* en Gaule.
+  Die Römer brachten die *Zivilisation* nach Gallien.
+
+  Notre *civilisation* moderne dépend trop de la technologie.
+  Unsere moderne *Zivilisation* ist zu abhängig von Technologie.
+
+  La *civilisation* égyptienne a prospéré pendant des millénaires.
+  Die ägyptische *Kultur* blühte jahrtausendelang.
+
+  Les vestiges d'une ancienne *civilisation* ont été découverts.
+  Die Überreste einer alten *Zivilisation* wurden entdeckt.
+
+  La Méditerranée était le berceau de plusieurs *civilisations*.
+  Das Mittelmeer war die Wiege mehrerer *Kulturen*.
+
+  Le déclin de cette *civilisation* s'est produit rapidement.
+  Der Niedergang dieser *Kultur* vollzog sich schnell.
+
+  La *civilisation* industrielle a transformé notre rapport à la nature.
+  Die Industrie*kultur* hat unser Verhältnis zur Natur verändert.
+
+  Les progrès de la *civilisation* nous ont menés jusqu'ici.
+  Die Fortschritte der *Zivilisation* haben uns bis hierher gebracht.
+
+  Cette brillante *civilisation* a laissé de nombreuses œuvres d'art.
+  Diese glanzvolle *Kultur* hat zahlreiche Kunstwerke hinterlassen.
+
+  Le passage à la *civilisation* agraire fut une étape cruciale.
+  Der Übergang zur Agrar*kultur* war ein entscheidender Schritt.
+
+  La *civilisation* occidentale a influencé le monde entier.
+  Die westliche *Zivilisation* hat die ganze Welt beeinflusst.
+
+  Les archéologues étudient cette *civilisation* disparue.
+  Die Archäologen erforschen diese untergegangene *Kultur*.
+
+  L'aire de diffusion de cette *civilisation* était immense.
+  Das Verbreitungsgebiet dieser *Kultur* war riesig.
+
+  La *civilisation* chrétienne a marqué l'Europe médiévale.
+  Die christliche *Kultur* prägte das mittelalterliche Europa.
+
+  Les *civilisations* précolombiennes ont développé des calendriers précis.
+  Die präkolumbischen *Kulturen* entwickelten präzise Kalender.
+
+  Cette région a connu plusieurs *civilisations* successives.
+  Diese Region erlebte mehrere aufeinanderfolgende *Kulturen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,26 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je fréquente un homme riche.
-  Ich bin mit einem reichen Mann zusammen.
+  Je *fréquente* un homme riche.
+  Ich *gehe* mit einem reichen Mann *aus*.
 
-  Je fréquente une école de danse.
-  Ich besuche eine Tanzschule.
+  Cette bibliothèque est très *fréquentée* par les étudiants.
+  Diese Bibliothek wird von den Studenten stark *besucht*.
 
-  Il fréquente les bars tous les soirs.
-  Er besucht häufig die Bars, jeden Abend.
+  Il *fréquente* régulièrement le théâtre depuis son enfance.
+  Er *besucht* seit seiner Kindheit regelmäßig das Theater.
 
-  Elle fréquente les théâtres, elle adore le théâtre.
-  Sie besucht häufig die Theater, sie liebt das Theater.
+  Marie et Sophie *se fréquentent* depuis le lycée.
+  Marie und Sophie *sehen sich* seit der Schulzeit häufig.
 
-  Ils se fréquentent depuis un an.
-  Sie sind seit einem Jahr zusammen.
+  "Ce bar est mal *fréquenté*, je ne te conseille pas d'y aller."
+  "In dieser Bar *verkehrt* zwielichtiges Publikum, ich rate dir davon ab."
 
-  Elle fréquente beaucoup de gens différents.
-  Sie verkehrt mit vielen verschiedenen Leuten.
+  Les jeunes *fréquentent* de plus en plus les musées.
+  Junge Menschen *besuchen* immer häufiger Museen.
 
-  Il fréquente la maison de ses parents chaque week-end.
-  Er verkehrt jedes Wochenende im Haus seiner Eltern.
+  Mes parents ne voulaient pas que je *fréquente* ce groupe d'amis.
+  Meine Eltern wollten nicht, dass ich mit dieser Freundesgruppe *verkehre*.
+
+  Pierre et Marie *se fréquentent* depuis six mois.
+  Pierre und Marie *gehen* seit sechs Monaten miteinander.
+
+  Les touristes *fréquentent* beaucoup cette promenade en été.
+  Die Touristen *besuchen* diesen Spazierweg im Sommer sehr häufig.
+
+  Tu devrais *fréquenter* plus souvent la piscine.
+  Du solltest öfter ins Schwimmbad *gehen*.
+
+  Les intellectuels *fréquentaient* ce café dans les années 50.
+  Die Intellektuellen *verkehrten* in den 50er Jahren in diesem Café.
+
+  Elle a cessé de *fréquenter* ses anciens voisins.
+  Sie hat aufgehört, mit ihren ehemaligen Nachbarn *Umgang zu haben*.
+
+  Cette discothèque est bien *fréquentée*.
+  In dieser Diskothek *verkehrt* gutes Publikum.
+
+  Les enfants doivent *fréquenter* l'école jusqu'à 16 ans.
+  Die Kinder müssen die Schule bis zum Alter von 16 Jahren *besuchen*.
+
+  Nous ne nous *fréquentons* plus depuis notre dispute.
+  Wir *sehen uns* seit unserem Streit nicht mehr.
+
+  Il *fréquente* les meilleures universités de Paris.
+  Er *besucht* die besten Universitäten in Paris.
+
+  Ces deux familles *se fréquentent* depuis des générations.
+  Diese beiden Familien *pflegen* seit Generationen *Umgang* miteinander.
+
+  Les artistes *fréquentaient* souvent ce quartier bohème.
+  Die Künstler *verkehrten* oft in diesem Künstlerviertel.
+
+  Je ne *fréquente* plus les boîtes de nuit.
+  Ich *gehe* nicht mehr in Nachtclubs.
+
+  Elle *fréquente* régulièrement la bibliothèque municipale.
+  Sie *besucht* regelmäßig die Stadtbibliothek.
+
+  "Dis-moi qui tu *fréquentes*, je te dirai qui tu es."
+  "Sage mir, mit wem du *verkehrst*, und ich sage dir, wer du bist."
+
+  Mon fils *fréquente* une fille de sa classe.
+  Mein Sohn *geht* mit einem Mädchen aus seiner Klasse.
+
+  Les étudiants *fréquentent* assidûment les cours.
+  Die Studenten *besuchen* fleißig die Vorlesungen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

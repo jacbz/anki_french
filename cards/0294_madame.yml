@@ -13,41 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Et je suis au service de madame.
-  Und ich stehe in Madames Diensten.
+  *Madame* est servie.
+  Die *gnädige Frau* wird serviert.
 
-  Madame, voulez-vous un café ?
-  Madame, möchten Sie einen Kaffee?
+  Bonjour *madame*, je peux vous aider ?
+  Guten Tag *gnädige Frau*, kann ich Ihnen helfen?
 
-  Bonjour madame, comment allez-vous?
-  Guten Tag, wie geht es Ihnen?
+  "Regarde cette *madame* qui fait ses courses !"
+  "Schau dir diese feine *Dame* beim Einkaufen an!"
 
-  Ce matin, Madame Pujol ne fera pas son cours car elle est malade.
-  Frau Pujol wird heute Morgen keinen Unterricht halten, weil sie krank ist.
+  Veuillez agréer, *Madame* la Directrice, mes salutations distinguées.
+  Sehr geehrte Frau Direktorin, mit freundlichen Grüßen.
 
-  Madame le professeur, j'ai une question à vous poser.
-  Frau Lehrerin, ich habe eine Frage an Sie.
+  *Madame* Dubois n'est pas disponible pour le moment.
+  *Frau* Dubois ist momentan nicht verfügbar.
 
-  Madame Dupont, je vous remercie pour votre aide précieuse.
-  An Frau Dupont, ich danke Ihnen für Ihre wertvolle Hilfe.
+  Toutes les *mesdames* sont invitées à la réception.
+  Alle *Damen* sind zum Empfang eingeladen.
 
-  Madame, je vous écris pour vous faire part de mon intérêt pour votre proposition.
-  Sehr geehrte Frau ..., ich schreibe Ihnen, um Ihnen mein Interesse an Ihrem Angebot mitzuteilen.
+  *Madame* la juge a rendu son verdict hier.
+  *Frau* Richterin hat gestern ihr Urteil gefällt.
 
-  Elle jouait à la madame, mais son comportement était ridicule.
-  Sie spielte die feine Dame, aber ihr Verhalten war lächerlich.
+  La lettre est adressée à *Madame* et Monsieur Martin.
+  Der Brief ist an Herrn und *Frau* Martin adressiert.
 
-  Bonjour Madame Larroque, j'espère que vous allez bien.
-  Guten Tag, Frau Larroque, ich hoffe, es geht Ihnen gut.
+  Chère *madame*, nous avons bien reçu votre demande.
+  Sehr geehrte *Frau*, wir haben Ihre Anfrage erhalten.
 
-  Bonjour mesdames, je suis ravi de vous rencontrer.
-  Guten Tag, meine Damen, ich freue mich, Sie kennenzulernen.
+  "Cette petite fille aime jouer à la *madame*."
+  "Dieses kleine Mädchen spielt gerne die feine *Dame*."
 
-  Mesdames, mesdemoiselles, messieurs! Je vous remercie de votre présence.
-  Meine Damen und Herren! Ich danke Ihnen für Ihre Anwesenheit.
+  Bonjour *mesdames*, bienvenue dans notre boutique.
+  Guten Tag *meine Damen*, willkommen in unserem Geschäft.
 
-  Monsieur et Madame Pujol, nous vous invitons à notre mariage.
-  An Herrn und Frau Pujol, wir laden Sie zu unserer Hochzeit ein.
+  *Madame* Martinez donnera une conférence demain.
+  *Frau* Martinez wird morgen einen Vortrag halten.
+
+  Pouvez-vous transmettre ce message à *Madame* la Présidente ?
+  Können Sie diese Nachricht an *Frau* Präsidentin weiterleiten?
+
+  *Mesdames* et Messieurs, le spectacle va commencer.
+  *Meine Damen* und Herren, die Vorstellung beginnt.
+
+  Je vous présente *Madame* Sophie Laurent, notre nouvelle collègue.
+  Ich stelle Ihnen *Frau* Sophie Laurent vor, unsere neue Kollegin.
+
+  La réunion des *mesdames* du comité aura lieu mardi.
+  Das Treffen der *Damen* des Komitees findet am Dienstag statt.
+
+  *Madame* la Ministre répondra à vos questions.
+  *Frau* Ministerin wird Ihre Fragen beantworten.
+
+  Excusez-moi, *madame*, vous avez fait tomber votre écharpe.
+  Entschuldigung, *gnädige Frau*, Sie haben Ihren Schal fallen lassen.
+
+  C'est *Madame* Petit qui organise l'événement.
+  *Frau* Petit organisiert die Veranstaltung.
+
+  Les *mesdames* de la chorale répètent tous les jeudis.
+  Die *Damen* des Chors proben jeden Donnerstag.
+
+  *Madame* la Professeure sera absente aujourd'hui.
+  *Frau* Professorin wird heute abwesend sein.
+
+  Pardonnez-moi, *madame*, cette place est réservée.
+  Entschuldigung, *gnädige Frau*, dieser Platz ist reserviert.
+
+  Je dois parler à *Madame* Garcia de toute urgence.
+  Ich muss dringend mit *Frau* Garcia sprechen.
+
+  Bonjour *mesdames*, avez-vous une réservation ?
+  Guten Tag *meine Damen*, haben Sie eine Reservierung?
+
+  *Madame* la Maire inaugurera le nouveau parc.
+  *Frau* Bürgermeisterin wird den neuen Park einweihen.
+
+  "Attention *madame*, vous allez rater votre arrêt !"
+  "Achtung *gnädige Frau*, Sie verpassen gleich Ihre Haltestelle!"
+
+  Les *mesdames* du premier rang applaudissent.
+  Die *Damen* in der ersten Reihe applaudieren.
+
+  *Madame* Durand présidera la séance.
+  *Frau* Durand wird die Sitzung leiten.
+
+  Veuillez patienter, *madame*, je vérifie votre dossier.
+  Bitte haben Sie einen Moment Geduld, *gnädige Frau*, ich prüfe Ihre Akte.
+
+  Et je suis au service de *madame*.
+  Und ich stehe der *gnädigen Frau* zu Diensten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

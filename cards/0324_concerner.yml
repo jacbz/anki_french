@@ -13,32 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  En ce qui me concerne, je voudrais te féliciter.
-  Was mich betrifft, möchte ich dir gratulieren.
+  En ce qui me *concerne*, je voudrais te féliciter.
+  Was mich *betrifft*, möchte ich dir gratulieren.
 
-  Cette décision concerne tout le monde.
-  Diese Entscheidung betrifft alle.
+  Les nouvelles du jour ne *concernent* que des catastrophes naturelles.
+  Die Nachrichten des Tages *handeln* nur von Naturkatastrophen.
 
-  Cette décision ne concerne pas les enfants.
-  Diese Entscheidung betrifft nicht die Kinder.
+  Cette mesure de sécurité *concerne* tous les employés.
+  Diese Sicherheitsmaßnahme *betrifft* alle Mitarbeiter.
 
-  Le problème de sécurité concerne tout le monde.
-  Das Sicherheitsproblem betrifft alle.
+  En ce qui *concerne* son travail, il est très méticuleux.
+  Was seine Arbeit *angeht*, ist er sehr genau.
 
-  Le texte que nous étudions en classe concerne la Révolution française.
-  Der Text, den wir im Unterricht behandeln, handelt von der Französischen Revolution.
+  Je ne me sens pas *concernée* par cette discussion.
+  Diese Diskussion *geht* mich nichts *an*.
 
-  Le vol de données personnelles concerne des millions de personnes.
-  Der Diebstahl persönlicher Daten betrifft Millionen von Menschen.
+  J'ai reçu un e-mail qui *concerne* notre projet commun.
+  Ich habe eine E-Mail erhalten, die unser gemeinsames Projekt *betrifft*.
 
-  Il est important de prendre en compte tous les éléments qui concernent cette question.
-  Es ist wichtig, dass Sie alle Aspekte berücksichtigen, die diese Frage betreffen.
+  Cette décision *concerne* uniquement les étudiants en première année.
+  Diese Entscheidung *betrifft* nur die Studenten im ersten Jahr.
 
-  Les nouvelles concernent souvent des catastrophes naturelles, comme des tremblements de terre ou des inondations.
-  In den Nachrichten geht es oft um Katastrophen, wie Erdbeben oder Überschwemmungen.
+  Pour ce qui *concerne* le prix, nous pouvons négocier.
+  Was den Preis *betrifft*, können wir verhandeln.
 
-  En ce qui concerne le projet, il est en bonne voie.
-  Was das Projekt betrifft, so ist es auf dem richtigen Weg.
+  En ce qui les *concerne*, ils préfèrent partir en vacances en hiver.
+  Was sie *betrifft*, fahren sie lieber im Winter in den Urlaub.
+
+  Cette information ne *concerne* que les membres du club.
+  Diese Information *betrifft* nur die Clubmitglieder.
+
+  Le changement d'horaire *concerne* toutes les lignes de bus.
+  Die Fahrplanänderung *betrifft* alle Buslinien.
+
+  En ce qui *concerne* le dîner, j'ai déjà tout préparé.
+  Was das Abendessen *angeht*, habe ich schon alles vorbereitet.
+
+  Cette réunion ne *concerne* pas notre département.
+  Diese Besprechung *betrifft* unsere Abteilung nicht.
+
+  Le nouveau règlement *concerne* principalement la sécurité.
+  Die neue Vorschrift *betrifft* hauptsächlich die Sicherheit.
+
+  En ce qui *concerne* ses études, elle fait d'excellents progrès.
+  Was ihr Studium *betrifft*, macht sie ausgezeichnete Fortschritte.
+
+  Cette question *concerne* tout le monde, pas seulement toi.
+  Diese Frage *geht* jeden *an*, nicht nur dich.
+
+  Si cela ne vous *concerne* pas directement, vous pouvez partir.
+  Wenn Sie das nicht direkt *betrifft*, können Sie gehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

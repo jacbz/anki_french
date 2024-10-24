@@ -13,32 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le jury doit prononcer sa condamnation vendredi.
-  Die Geschworenen sollen am Freitag ihre Verurteilung verkünden.
+  Le jury doit prononcer sa *condamnation* vendredi.
+  Die Jury muss am Freitag ihr *Urteil* verkünden.
 
-  Il a reçu une condamnation à trois ans de prison.
-  Er hat eine Verurteilung zu drei Jahren Gefängnis erhalten.
+  La *condamnation* à trois ans de prison a été confirmée en appel.
+  Die *Verurteilung* zu drei Jahren Gefängnis wurde in der Berufung bestätigt.
 
-  Le juge a condamné l'accusé à dix ans de prison pour vol à main armée.
-  Der Richter hat den Angeklagten zu zehn Jahren Gefängnis wegen bewaffneten Raubes verurteilt.
+  Il a reçu une *condamnation* avec sursis pour son premier délit.
+  Er hat für sein erstes Vergehen eine *Bewährungsstrafe* erhalten.
 
-  La nouvelle législation sur la fiscalité représente la condamnation des petites entreprises.
-  Die neue Steuergesetzgebung bedeutet das Ende für die kleinen Unternehmen.
+  Après plusieurs *condamnations*, il risque maintenant la prison ferme.
+  Nach mehreren *Verurteilungen* droht ihm jetzt eine Gefängnisstrafe ohne Bewährung.
 
-  La condamnation des portes se fait automatiquement lorsqu'on sort du bâtiment.
-  Die Türen schließen selbsttätig, wenn man das Gebäude verlässt.
+  Cette nouvelle loi signifie la *condamnation* des petits commerces de quartier.
+  Dieses neue Gesetz bedeutet das *Ende* für kleine Nachbarschaftsläden.
 
-  Il a été condamné pour viol et meurtre.
-  Er wurde wegen Vergewaltigung und Totschlags verurteilt.
+  La *condamnation* des portes se fait par un système électronique.
+  Das *Schließen* der Türen erfolgt durch ein elektronisches System.
 
-  Le tribunal l'a condamné avec sursis pour conduite en état d'ivresse.
-  Das Gericht hat ihn wegen Trunkenheit am Steuer zu einer Bewährungsstrafe verurteilt.
+  Le tribunal a prononcé une *condamnation* sévère pour fraude fiscale.
+  Das Gericht hat ein hartes *Urteil* wegen Steuerbetrugs gesprochen.
 
-  Il a subi une condamnation pour vol il y a cinq ans.
-  Er ist vor fünf Jahren wegen Diebstahls vorbestraft.
+  Cette décision marque la *condamnation* définitive du projet.
+  Diese Entscheidung bedeutet das endgültige *Aus* für das Projekt.
 
-  Il a subi plusieurs condamnations pour conduite dangereuse.
-  Er ist mehrfach wegen Verkehrsdelikten vorbestraft.
+  Les médias ont salué la *condamnation* de ces pratiques douteuses.
+  Die Medien begrüßten die *Verurteilung* dieser fragwürdigen Praktiken.
+
+  Sa *condamnation* pour corruption a mis fin à sa carrière politique.
+  Seine *Verurteilung* wegen Korruption beendete seine politische Karriere.
+
+  Le montant de la *condamnation* s'élève à 50 000 euros.
+  Die Höhe der *Strafe* beläuft sich auf 50.000 Euro.
+
+  Cette faillite est la *condamnation* d'une mauvaise gestion.
+  Dieser Konkurs ist die *Verurteilung* einer schlechten Geschäftsführung.
+
+  La *condamnation* de cette fenêtre est nécessaire pour des raisons de sécurité.
+  Das *Verschließen* dieses Fensters ist aus Sicherheitsgründen notwendig.
+
+  L'avocat a fait appel de la *condamnation* de son client.
+  Der Anwalt hat gegen die *Verurteilung* seines Mandanten Berufung eingelegt.
+
+  Cette *condamnation* unanime reflète l'indignation du public.
+  Diese einhellige *Verurteilung* spiegelt die Empörung der Öffentlichkeit wider.
+
+  Les associations ont exprimé leur *condamnation* de ces discriminations.
+  Die Verbände haben ihre *Verurteilung* dieser Diskriminierungen zum Ausdruck gebracht.
+
+  Une *condamnation* à des dommages et intérêts a été prononcée.
+  Eine *Verurteilung* zu Schadenersatz wurde ausgesprochen.
+
+  La cour d'appel a aggravé la *condamnation* initiale.
+  Das Berufungsgericht hat das ursprüngliche *Urteil* verschärft.
+
+  Cette *condamnation* historique fera jurisprudence.
+  Diese historische *Verurteilung* wird einen Präzedenzfall schaffen.
+
+  La *condamnation* de ces idées est partagée par tous les démocrates.
+  Die *Verurteilung* dieser Ideen wird von allen Demokraten geteilt.
+
+  Le syndicat a exprimé sa *condamnation* des licenciements abusifs.
+  Die Gewerkschaft hat ihre *Verurteilung* der ungerechtfertigten Entlassungen zum Ausdruck gebracht.
+
+  Cette *condamnation* morale a eu plus d'impact qu'une sanction légale.
+  Diese moralische *Verurteilung* hatte mehr Wirkung als eine rechtliche Strafe.
+
+  La *condamnation* automatique des issues de secours est interdite.
+  Das automatische *Verschließen* der Notausgänge ist verboten.
+
+  Sa première *condamnation* remonte à l'année dernière.
+  Seine erste *Verurteilung* liegt ein Jahr zurück.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

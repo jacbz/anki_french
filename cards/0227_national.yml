@@ -13,23 +13,107 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il y avait l’intérêt national français.
-  Es gab das nationale Interesse Frankreichs.
+  Il y avait l'intérêt *national* français.
+  Es ging um das französische *National*interesse.
 
-  L’équipe nationale de football.
-  Die Nationalmannschaft im Fußball.
+  L'équipe *nationale* a gagné le match contre l'Italie.
+  Die *National*mannschaft hat das Spiel gegen Italien gewonnen.
 
-  C’est une question de sécurité nationale.
-  Dies ist eine Frage der nationalen Sicherheit.
+  Pendant la fête *nationale*, il y a toujours un grand feu d'artifice.
+  Am *National*feiertag gibt es immer ein großes Feuerwerk.
 
-  Les syndicats ont appelé à une grève à l'échelon national pour protester contre la réforme des retraites.
-  Die Gewerkschaften haben zu einem Streik auf nationaler Ebene aufgerufen, um gegen die Rentenreform zu protestieren.
+  Tout le monde connaît l'hymne *national* par cœur.
+  Jeder kennt die *National*hymne auswendig.
 
-  Le territoire national français est vaste et diversifié.
-  Das Staatsgebiet Frankreichs ist groß und vielfältig.
+  Le gouvernement protège le territoire *national*.
+  Die Regierung schützt das *Staats*gebiet.
 
-  Les obsèques nationales de l'ancien président ont été suivies par des millions de personnes.
-  Das Staatsbegräbnis des ehemaligen Präsidenten wurde von Millionen Menschen verfolgt.
+  La volonté *nationale* s'est exprimée lors des élections.
+  Der *Volks*wille hat sich bei den Wahlen geäußert.
+
+  Cette grève *nationale* a paralysé tout le pays.
+  Dieser *landesweite* Streik hat das ganze Land lahmgelegt.
+
+  Les besoins *nationaux* en énergie augmentent chaque année.
+  Der *Inlands*bedarf an Energie steigt jedes Jahr.
+
+  On lui a accordé des obsèques *nationales*.
+  Er bekam ein *Staats*begräbnis.
+
+  En tant que double *national*, il possède deux passeports.
+  Als *Doppelstaatler* besitzt er zwei Pässe.
+
+  La défense *nationale* est une priorité pour le pays.
+  Die *National*verteidigung ist eine Priorität für das Land.
+
+  Cette *nationale* est très fréquentée pendant les vacances.
+  Diese *National*straße ist während der Ferien stark befahren.
+
+  La représentation *nationale* a voté la nouvelle loi.
+  Die *nationale* Vertretung hat das neue Gesetz verabschiedet.
+
+  Les diplomates protègent les intérêts de leurs *nationaux* à l'étranger.
+  Die Diplomaten schützen die Interessen ihrer *Staatsangehörigen* im Ausland.
+
+  Le français est la langue *nationale* de plusieurs pays.
+  Französisch ist die *National*sprache mehrerer Länder.
+
+  Cette entreprise *nationale* emploie des milliers de personnes.
+  Dieses *staatliche* Unternehmen beschäftigt tausende Menschen.
+
+  Le trafic *national* aérien a diminué pendant la pandémie.
+  Der *Inlands*flugverkehr ist während der Pandemie zurückgegangen.
+
+  L'Assemblée *nationale* débat actuellement du budget.
+  Die *National*versammlung debattiert derzeit über den Haushalt.
+
+  Cette marchandise *nationale* n'est pas destinée à l'exportation.
+  Diese *Inlands*ware ist nicht für den Export bestimmt.
+
+  Le concours *national* de mathématiques aura lieu demain.
+  Der *nationale* Mathematikwettbewerb findet morgen statt.
+
+  L'émetteur *national* diffuse les informations dans tout le pays.
+  Der *Inlands*sender überträgt die Nachrichten im ganzen Land.
+
+  La politique *nationale* de l'environnement est très stricte.
+  Die *nationale* Umweltpolitik ist sehr streng.
+
+  Les parcs *nationaux* sont protégés par la loi.
+  Die *National*parks sind gesetzlich geschützt.
+
+  Le musée *national* expose des œuvres importantes.
+  Das *National*museum stellt wichtige Werke aus.
+
+  La bibliothèque *nationale* conserve des livres précieux.
+  Die *National*bibliothek bewahrt wertvolle Bücher auf.
+
+  Le système *national* d'éducation est en cours de réforme.
+  Das *nationale* Bildungssystem wird gerade reformiert.
+
+  Cette compétition *nationale* attire beaucoup de participants.
+  Dieser *nationale* Wettbewerb zieht viele Teilnehmer an.
+
+  La banque *nationale* a baissé ses taux d'intérêt.
+  Die *National*bank hat ihre Zinsen gesenkt.
+
+  Le journal télévisé *national* est diffusé à 20 heures.
+  Die *nationale* Fernsehnachrichten werden um 20 Uhr gesendet.
+
+  La production *nationale* de blé a augmenté cette année.
+  Die *inländische* Weizenproduktion ist dieses Jahr gestiegen.
+
+  Le centre de recherche *national* a fait une découverte importante.
+  Das *nationale* Forschungszentrum hat eine wichtige Entdeckung gemacht.
+
+  La dette *nationale* atteint des niveaux record.
+  Die *National*schulden erreichen Rekordhöhen.
+
+  L'orchestre *national* donnera un concert ce soir.
+  Das *National*orchester gibt heute Abend ein Konzert.
+
+  Le patrimoine *national* doit être préservé pour les générations futures.
+  Das *National*erbe muss für zukünftige Generationen bewahrt werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,26 +13,116 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils n’ont pas totalement une image négative.
-  Sie haben nicht gänzlich ein negatives Image.
+  Ils n'ont pas totalement une image *négative*.
+  Sie haben kein komplett *negatives* Image.
 
-  Il faut éviter les aspects négatifs de la situation.
-  Man sollte die negativen Aspekte der Situation vermeiden.
+  Nous avons développé le *négatif* de ces photos de vacances.
+  Wir haben das *Negativ* dieser Urlaubsfotos entwickelt.
 
-  Il ne faut pas mettre au négatif.
-  Man darf nicht verneinen.
+  La température est descendue à cinq degrés *négatifs*.
+  Die Temperatur ist auf minus fünf Grad (*negativ*) gesunken.
 
-  Les températures ne sont pas négatives.
-  Die Temperaturen sind nicht negativ.
+  Elle est très *négative* concernant notre proposition de voyage.
+  Sie ist sehr *negativ* eingestellt, was unseren Reisevorschlag angeht.
 
-  Ce n'est pas une particule négative.
-  Das ist keine Verneinungspartikel.
+  Les examens médicaux sont revenus *négatifs*.
+  Die medizinischen Untersuchungen waren *negativ*.
 
-  Il n'y a pas de préfixe négatif.
-  Es gibt kein Verneinungspräfix.
+  "*Négatif*, nous ne sommes pas encore arrivés à destination," a répondu le pilote.
+  "*Negativ*, wir sind noch nicht am Ziel angekommen," antwortete der Pilot.
 
-  Ce n'est pas une phrase négative.
-  Das ist kein negierter Satz.
+  Cette critique *négative* n'aide personne.
+  Diese *negative* Kritik hilft niemandem.
+
+  Dans la *négative*, je devrai chercher une autre solution.
+  Falls die Antwort *negativ* ausfällt, muss ich eine andere Lösung suchen.
+
+  Le solde de son compte est devenu *négatif*.
+  Sein Kontostand ist ins *Negative* gerutscht.
+
+  La particule *négative* "ne" est souvent omise à l'oral.
+  Das *Verneinungs*partikel "ne" wird in der gesprochenen Sprache oft weggelassen.
+
+  Les ions *négatifs* sont attirés par les ions positifs.
+  Die *negativ* geladenen Ionen werden von den positiv geladenen Ionen angezogen.
+
+  J'ai perdu le *négatif* de cette superbe photo.
+  Ich habe das *Negativ* dieses tollen Fotos verloren.
+
+  Son attitude *négative* décourage toute l'équipe.
+  Seine *negative* Einstellung entmutigt das ganze Team.
+
+  Les nombres *négatifs* sont inférieurs à zéro.
+  Die *negativen* Zahlen sind kleiner als null.
+
+  La proposition *négative* exprime un refus.
+  Der *verneinte* Satz drückt eine Ablehnung aus.
+
+  Le test COVID-19 est revenu *négatif*.
+  Der COVID-19-Test war *negativ*.
+
+  Le préfixe *négatif* change complètement le sens du mot.
+  Das *Verneinungs*präfix ändert die Bedeutung des Wortes komplett.
+
+  Cette expérience a eu un impact *négatif* sur sa carrière.
+  Diese Erfahrung hatte einen *negativen* Einfluss auf seine Karriere.
+
+  Le développement du film a révélé un *négatif* parfait.
+  Die Entwicklung des Films ergab ein perfektes *Negativ*.
+
+  Sa réponse *négative* m'a beaucoup déçu.
+  Seine *abschlägige* Antwort hat mich sehr enttäuscht.
+
+  Les effets *négatifs* de cette décision sont considérables.
+  Die *negativen* Auswirkungen dieser Entscheidung sind erheblich.
+
+  Le laboratoire a confirmé un résultat *négatif*.
+  Das Labor hat ein *negatives* Ergebnis bestätigt.
+
+  Ces pensées *négatives* ne t'aideront pas à avancer.
+  Diese *negativen* Gedanken werden dir nicht helfen voranzukommen.
+
+  Les critiques sont devenues de plus en plus *négatives*.
+  Die Kritiken wurden immer *negativer*.
+
+  La réaction chimique s'est révélée *négative*.
+  Die chemische Reaktion fiel *negativ* aus.
+
+  Les commentaires *négatifs* n'ont pas affecté sa confiance.
+  Die *negativen* Kommentare haben ihr Selbstvertrauen nicht beeinträchtigt.
+
+  Le bilan de l'année est malheureusement *négatif*.
+  Die Jahresbilanz fällt leider *negativ* aus.
+
+  La charge électrique de cet atome est *négative*.
+  Die elektrische Ladung dieses Atoms ist *negativ*.
+
+  Les températures *négatives* persistent depuis une semaine.
+  Die *Minus*temperaturen halten seit einer Woche an.
+
+  Cette phrase *négative* nécessite deux particules de négation.
+  Dieser *verneinte* Satz benötigt zwei Verneinungspartikel.
+
+  Le développement du *négatif* prend environ une heure.
+  Die Entwicklung des *Negativs* dauert ungefähr eine Stunde.
+
+  Paul est toujours si *négatif* dans ses jugements.
+  Paul ist in seinen Urteilen immer so *negativ*.
+
+  Les conséquences *négatives* étaient prévisibles.
+  Die *negativen* Folgen waren vorhersehbar.
+
+  Le test de grossesse est *négatif*.
+  Der Schwangerschaftstest ist *negativ*.
+
+  "*Négatif*, capitaine, nous n'avons pas repéré l'ennemi."
+  "*Negativ*, Kapitän, wir haben den Feind nicht gesichtet."
+
+  Les prévisions économiques restent *négatives*.
+  Die Wirtschaftsprognosen bleiben *negativ*.
+
+  La croissance *négative* inquiète les investisseurs.
+  Das *negative* Wachstum beunruhigt die Investoren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

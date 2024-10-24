@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Michael était procureur adjoint, à l’époque.
-  Michael war damals stellvertretender Staatsanwalt.
+  Michael était *procureur* adjoint, à l'époque.
+  Damals war Michael stellvertretender *Staatsanwalt*.
 
-  Le procureur a présenté des preuves convaincantes.
-  Der Staatsanwalt hat überzeugende Beweise vorgelegt.
+  La *procureure* générale a requis la peine maximale.
+  Die General*staatsanwältin* hat das Höchstmaß der Strafe gefordert.
 
-  Le procureur général a requis une peine de prison ferme.
-  Der Generalstaatsanwalt forderte eine Freiheitsstrafe.
+  Le nouveau *procureur* de la République tiendra une conférence de presse demain.
+  Der neue *Staatsanwalt* wird morgen eine Pressekonferenz abhalten.
 
-  La procureure générale a fait part de ses inquiétudes quant à la sécurité des témoins.
-  Die Generalstaatsanwältin äußerte ihre Bedenken hinsichtlich der Sicherheit der Zeugen.
+  Sophie rêve de devenir *procureure* depuis son enfance.
+  Sophie träumt seit ihrer Kindheit davon, *Staatsanwältin* zu werden.
+
+  Le *procureur* général a fait appel de cette décision controversée.
+  Der General*staatsanwalt* hat gegen diese umstrittene Entscheidung Berufung eingelegt.
+
+  Les conclusions du *procureur* ont convaincu le jury.
+  Die Schlussfolgerungen des *Staatsanwalts* haben die Jury überzeugt.
+
+  La *procureure* a démontré la culpabilité de l'accusé avec des preuves solides.
+  Die *Staatsanwältin* hat die Schuld des Angeklagten mit stichhaltigen Beweisen nachgewiesen.
+
+  Le père *procureur* s'occupe des finances du monastère depuis vingt ans.
+  Der Pater *Prokurator* kümmert sich seit zwanzig Jahren um die Finanzen des Klosters.
+
+  Au Canada, chaque *procureur* de la Couronne doit prêter serment.
+  In Kanada muss jeder Kron*staatsanwalt* einen Eid ablegen.
+
+  Le *procureur* nous présentera ses réquisitions cet après-midi.
+  Der *Staatsanwalt* wird uns heute Nachmittag seine Anträge vorlegen.
+
+  La *procureure* générale supervise tous les parquets de la région.
+  Die General*staatsanwältin* beaufsichtigt alle Staatsanwaltschaften der Region.
+
+  Le bureau du *procureur* se trouve au deuxième étage du tribunal.
+  Das Büro des *Staatsanwalts* befindet sich im zweiten Stock des Gerichtsgebäudes.
+
+  Cette *procureure* a gagné plusieurs affaires importantes cette année.
+  Diese *Staatsanwältin* hat dieses Jahr mehrere wichtige Fälle gewonnen.
+
+  Le *procureur* général des Bénédictins réside à Rome.
+  Der General*prokurator* der Benediktiner wohnt in Rom.
+
+  Les substituts du *procureur* préparent les dossiers pour l'audience.
+  Die stellvertretenden *Staatsanwälte* bereiten die Akten für die Verhandlung vor.
+
+  La *procureure* de la République a ouvert une enquête préliminaire.
+  Die *Staatsanwältin* hat ein Vorermittlungsverfahren eingeleitet.
+
+  Le *procureur* a requis une peine de cinq ans de prison.
+  Der *Staatsanwalt* hat eine Gefängnisstrafe von fünf Jahren gefordert.
+
+  La nouvelle *procureure* générale prendra ses fonctions lundi prochain.
+  Die neue General*staatsanwältin* wird am nächsten Montag ihr Amt antreten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

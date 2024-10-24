@@ -13,26 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le risque n’existe plus.
-  Das Risiko existiert nicht mehr.
+  Le risque n'*existe* plus.
+  Das Risiko *existiert* nicht mehr.
 
-  Je ne peux pas croire qu’il n’existe pas.
-  Ich kann nicht glauben, dass es nicht existiert.
+  Il *existe* plusieurs façons de résoudre ce problème.
+  Es *gibt* mehrere Möglichkeiten, dieses Problem zu lösen.
 
-  Ce mot existe, mais je ne sais pas ce qu'il signifie.
-  Dieses Wort gibt es, aber ich weiß nicht, was es bedeutet.
+  Cette espèce rare *existe* encore dans les montagnes.
+  Diese seltene Art *existiert* noch in den Bergen.
 
-  Il existe un moyen de résoudre ce problème.
-  Es gibt einen Weg, dieses Problem zu lösen.
+  "Je pense, donc j'*existe*."
+  "Ich denke, also *existiere* ich."
 
-  Cette personne existe pour toi, même si tu ne la vois pas.
-  Diese Person existiert für dich, auch wenn du sie nicht siehst.
+  Les dinosaures ont *existé* il y a des millions d'années.
+  Die Dinosaurier haben vor Millionen Jahren *existiert*.
 
-  Ce livre existe pour ceux qui cherchent des réponses.
-  Dieses Buch existiert für diejenigen, die nach Antworten suchen.
+  Cette tradition *existe* depuis le Moyen Âge.
+  Diese Tradition *besteht* seit dem Mittelalter.
 
-  L'amour, la haine, la tristesse, tout cela continue d'exister dans le monde.
-  Liebe, Hass, Trauer, all das existiert weiterhin in der Welt.
+  Pour lui, seul l'argent *existe*.
+  Für ihn *zählt* nur das Geld.
+
+  Je ne savais pas que ce mot *existait* en français.
+  Ich wusste nicht, dass es dieses Wort im Französischen *gibt*.
+
+  L'amour véritable *existe*-t-il encore ?
+  *Gibt* es die wahre Liebe noch?
+
+  Elle *existait* déjà quand j'étais petit.
+  Sie hat schon *gelebt*, als ich klein war.
+
+  Il *existe* une solution à chaque problème.
+  Es *gibt* für jedes Problem eine Lösung.
+
+  Cette maladie n'*existe* plus en Europe.
+  Diese Krankheit *existiert* in Europa nicht mehr.
+
+  Le monde virtuel et le monde réel peuvent *exister* ensemble.
+  Die virtuelle und die reale Welt können nebeneinander *existieren*.
+
+  Sans eau, la vie ne pourrait pas *exister*.
+  Ohne Wasser könnte Leben nicht *existieren*.
+
+  Cette coutume *existe* encore dans certains villages.
+  Dieser Brauch *besteht* noch in einigen Dörfern.
+
+  Je veux *exister* par moi-même.
+  Ich will aus mir selbst heraus *existieren*.
+
+  Ces problèmes ont toujours *existé*.
+  Diese Probleme haben schon immer *existiert*.
+
+  Il faut apprendre à *exister* sans lui.
+  Man muss lernen, ohne ihn zu *leben*.
+
+  Cette entreprise *existe* depuis vingt ans.
+  Dieses Unternehmen *besteht* seit zwanzig Jahren.
+
+  Pour mes parents, seules mes notes *existaient*.
+  Für meine Eltern *zählten* nur meine Noten.
+
+  Il *existe* encore des gens qui croient à la magie.
+  Es *gibt* noch Menschen, die an Magie glauben.
+
+  Le dragon n'a jamais *existé*.
+  Der Drache hat nie *existiert*.
+
+  Ces difficultés n'*existent* que dans ta tête.
+  Diese Schwierigkeiten *existieren* nur in deinem Kopf.
+
+  Je suis heureuse d'*exister*.
+  Ich bin glücklich zu *leben*.
+
+  Ces documents *existaient* avant l'incendie.
+  Diese Dokumente haben vor dem Brand *existiert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

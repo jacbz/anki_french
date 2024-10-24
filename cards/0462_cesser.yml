@@ -13,26 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On ne doit pas cesser de poser des questions.
-  Wir dürfen nicht aufhören, Fragen zu stellen.
+  On ne doit pas *cesser* de poser des questions.
+  Man soll nicht *aufhören* Fragen zu stellen.
 
-  Il faut cesser de fumer.
-  Man muss aufhören zu rauchen.
+  Le vent a enfin *cessé* de souffler après trois jours.
+  Der Wind hat nach drei Tagen endlich *aufgehört* zu wehen.
 
-  Le directeur a décidé de cesser le travail plus tôt aujourd'hui pour profiter du beau temps.
-  Der Chef hat beschlossen, heute die Arbeit früher zu beenden, um das schöne Wetter zu genießen.
+  Sa fièvre a *cessé* ce matin.
+  Sein Fieber ist heute Morgen *gesunken*.
 
-  Après des années de dépendance, il a enfin réussi à cesser de fumer.
-  Nach Jahren der Abhängigkeit ist es ihm endlich gelungen, das Rauchen aufzugeben.
+  "*Cessez* ce bruit immédiatement !"
+  "*Hört* mit diesem Lärm sofort *auf*!"
 
-  Cessez ces cris, vous allez réveiller les voisins!
-  Hört mit dem Geschrei auf, ihr werdet die Nachbarn wecken!
+  Les ouvriers ont *cessé* le travail pour protester contre les conditions.
+  Die Arbeiter haben die Arbeit *eingestellt*, um gegen die Bedingungen zu protestieren.
 
-  La police est arrivée pour faire cesser la bagarre entre les deux groupes.
-  Die Polizei ist eingetroffen, um den Streit zwischen den beiden Gruppen zu beenden.
+  Il faut faire *cesser* ce chaos avant qu'il ne soit trop tard.
+  Dieses Chaos muss *beendet* werden, bevor es zu spät ist.
 
-  Les pompiers ont réussi à faire cesser le chaos provoqué par l'incendie.
-  Die Feuerwehrleute haben es geschafft, das durch den Brand verursachte Chaos zu beseitigen.
+  Elle a décidé de *cesser* de fumer pour sa santé.
+  Sie hat beschlossen, das Rauchen *aufzugeben* für ihre Gesundheit.
+
+  La pluie n'a pas *cessé* de tomber depuis ce matin.
+  Der Regen hat seit heute Morgen nicht *aufgehört*.
+
+  Le journal local a *cessé* de paraître après cinquante ans.
+  Die Lokalzeitung hat nach fünfzig Jahren ihr Erscheinen *eingestellt*.
+
+  Les combats ont *cessé* à la frontière.
+  Die Kämpfe an der Grenze wurden *eingestellt*.
+
+  Marie ne *cesse* pas de parler de son nouveau projet.
+  Marie *hört* nicht *auf*, von ihrem neuen Projekt zu sprechen.
+
+  Le conflit a finalement *cessé* après des mois de négociations.
+  Der Konflikt hat nach monatelangen Verhandlungen endlich ein *Ende* gefunden.
+
+  "*Cessez* vos plaintes, s'il vous plaît !"
+  "*Hören* Sie bitte mit Ihren Beschwerden *auf*!"
+
+  Les manifestants ont *cessé* leur protestation pacifiquement.
+  Die Demonstranten haben ihren Protest friedlich *beendet*.
+
+  Il faut faire *cesser* ce scandale immédiatement.
+  Dieser Skandal muss sofort *beendet* werden.
+
+  L'entreprise a *cessé* ses activités fin décembre.
+  Das Unternehmen hat seine Aktivitäten Ende Dezember *eingestellt*.
+
+  Le bébé n'a pas *cessé* de pleurer de toute la nuit.
+  Das Baby hat die ganze Nacht nicht *aufgehört* zu weinen.
+
+  Les négociations ont *cessé* brusquement hier soir.
+  Die Verhandlungen wurden gestern Abend abrupt *eingestellt*.
+
+  "*Cessez* de me déranger pendant que je travaille !"
+  "*Hören* Sie *auf*, mich bei der Arbeit zu stören!"
+
+  La tempête a *cessé* aussi vite qu'elle était venue.
+  Der Sturm hat so schnell *aufgehört*, wie er gekommen war.
+
+  Les voisins ont enfin *cessé* leur dispute.
+  Die Nachbarn haben ihren Streit endlich *beendet*.
+
+  Il ne *cesse* pas de m'envoyer des messages.
+  Er *hört* nicht *auf*, mir Nachrichten zu schicken.
+
+  L'usine a *cessé* la production temporairement.
+  Die Fabrik hat die Produktion vorübergehend *eingestellt*.
+
+  Les bombardements ont *cessé* à l'aube.
+  Die Bombardierungen wurden im Morgengrauen *eingestellt*.
+
+  Le téléphone n'a pas *cessé* de sonner aujourd'hui.
+  Das Telefon hat heute nicht *aufgehört* zu klingeln.
+
+  Quand *cesserez*-vous de faire des promesses que vous ne tenez pas ?
+  Wann *hören* Sie *auf*, Versprechen zu machen, die Sie nicht halten?
+
+  Son cœur a *cessé* de battre pendant quelques secondes.
+  Sein Herz hat für einige Sekunden *aufgehört* zu schlagen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce régime admirable est fondé sur l’honnêteté.
-  Dieses bewundernswerte Regime beruht auf Ehrlichkeit.
+  Ce régime admirable est *fondé* sur l'honnêteté.
+  Dieses bewundernswerte System ist auf Ehrlichkeit *gegründet*.
 
-  Cette décision est fondée sur des faits.
-  Diese Entscheidung ist auf Tatsachen begründet.
+  Sa demande de remboursement est parfaitement *fondée*.
+  Sein Antrag auf Erstattung ist völlig *berechtigt*.
 
-  Sa demande était bien fondée et a été acceptée.
-  Ihre Anfrage war berechtigt und wurde angenommen.
+  "Je suis *fondé* à croire que tu me mens", dit-il calmement.
+  "Ich habe allen *Grund* zu glauben, dass du mich anlügst", sagte er ruhig.
 
-  Elle est fondée à faire des reproches, après ce qui s'est passé.
-  Sie hat allen Grund, Vorwürfe zu machen, nachdem das passiert ist, was passiert ist.
+  Le *fondé* de pouvoir a signé tous les documents importants.
+  Der *Prokurist* hat alle wichtigen Dokumente unterschrieben.
+
+  Leurs craintes étaient malheureusement bien *fondées*.
+  Ihre Befürchtungen waren leider sehr *begründet*.
+
+  Cette théorie scientifique est solidement *fondée*.
+  Diese wissenschaftliche Theorie ist gut *fundiert*.
+
+  Notre confiance en elle était pleinement *fondée*.
+  Unser Vertrauen in sie war völlig *gerechtfertigt*.
+
+  La nouvelle *fondée* de pouvoir commencera lundi prochain.
+  Die neue *Prokuristin* fängt nächsten Montag an.
+
+  Son pressentiment était bien *fondé* : il a gagné la course.
+  Seine Vorahnung war nicht *unbegründet*: er hat das Rennen gewonnen.
+
+  Je ne suis pas *fondé* à vous donner ces informations.
+  Ich habe keinen *Grund*, Ihnen diese Informationen zu geben.
+
+  Cette critique sévère me semble parfaitement *fondée*.
+  Diese strenge Kritik erscheint mir völlig *berechtigt*.
+
+  Son opinion est bien *fondée* sur des années d'expérience.
+  Seine Meinung ist gut *fundiert* durch jahrelange Erfahrung.
+
+  Les *fondés* de pouvoir se réuniront demain matin.
+  Die *Prokuristen* werden sich morgen früh treffen.
+
+  Sa plainte n'était pas du tout *fondée*.
+  Seine Beschwerde war überhaupt nicht *begründet*.
+
+  Elle était mal *fondée* à rejeter cette proposition.
+  Sie hatte keinen *Grund*, diesen Vorschlag abzulehnen.
+
+  Nos soupçons se sont révélés bien *fondés*.
+  Unser Verdacht hat sich als *begründet* erwiesen.
+
+  Le recours en justice était *fondé* en droit.
+  Die Klage war rechtlich *begründet*.
+
+  Cette décision n'est pas *fondée* sur des faits réels.
+  Diese Entscheidung ist nicht auf echten Fakten *begründet*.
+
+  La banque a nommé un nouveau *fondé* de pouvoir hier.
+  Die Bank hat gestern einen neuen *Prokuristen* ernannt.
+
+  Ses arguments semblent très bien *fondés*.
+  Seine Argumente scheinen sehr gut *fundiert* zu sein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

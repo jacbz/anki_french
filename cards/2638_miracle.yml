@@ -9,23 +9,93 @@ Femininum / Plural: ''
 IPA: \mi.ʁɑkl\
 Definition: Wunder
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Les miracles arrivent tous les jours.\nWunder geschehen jeden Tag.\n\
-  \nC’est un miracle qu’il ait survécu.\nEs ist ein Wunder, dass er überlebt hat.\n\
-  \nC’est un miracle.\nEs ist ein Wunder.\n\nQuel miracle!\nWas für ein Wunder!\n\n\
-  Il me faut un miracle.\nIch brauche ein Wunder.\n\nAprès la guerre, l'Allemagne\
-  \ a connu le miracle économique. \nNach dem Krieg erlebte Deutschland das Wirtschaftswunder.\n\
-  \nCe n'est pas une solution miracle, mais ça peut aider.\nDas ist keine Patentlösung,\
-  \ aber es kann helfen.\n\nCe nouveau logiciel est un miracle de la technique.\n\
-  Diese neue Software ist ein Wunderwerk der Technik.\n\nElle a réussi à rattraper\
-  \ le vase avant qu'il ne se brise, un miracle d'adresse !\nSie hat es geschafft,\
-  \ die Vase zu fangen, bevor sie zerbrach - ein Wunder an Geschicklichkeit!\n\nCe\
-  \ chirurgien fait des miracles.\nDieser Chirurg wirkt Wunder.\n\nNe crie pas au\
-  \ miracle, tu as juste eu de la chance.\nTu jetzt nicht so, als wäre es ein Wunder,\
-  \ du hattest einfach nur Glück.\n\nIl est difficile de croire aux miracles à notre\
-  \ époque.\nEs ist schwierig, in unserer Zeit an Wunder zu glauben.\n\nC'est un miracle\
-  \ qu'il s'en soit tiré sans une égratignure.\nEs ist ein Wunder, dass er ohne einen\
-  \ Kratzer davongekommen ist.\n\nPar miracle, personne n'a été blessé dans l'accident.\n\
-  Wie durch ein Wunder wurde bei dem Unfall niemand verletzt."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Les *miracles* arrivent tous les jours.
+  *Wunder* geschehen jeden Tag.
+
+  La science moderne fait des *miracles*.
+  Die moderne Wissenschaft vollbringt *Wunder*.
+
+  Comme par *miracle*, personne n'a été blessé dans l'accident.
+  Wie durch ein *Wunder* wurde bei dem Unfall niemand verletzt.
+
+  Cette petite église est un *miracle* d'architecture gothique.
+  Diese kleine Kirche ist ein *Wunder* der gotischen Architektur.
+
+  Il ne faut pas attendre un *miracle* pour agir.
+  Man sollte nicht auf ein *Wunder* warten, um zu handeln.
+
+  "Tu crois aux *miracles* maintenant ?"
+  "Glaubst du jetzt an *Wunder*?"
+
+  C'est un *miracle* que nous ayons trouvé des billets à la dernière minute.
+  Es ist ein *Wunder*, dass wir in letzter Minute noch Karten gefunden haben.
+
+  Le *miracle* économique japonais des années 60 reste impressionnant.
+  Das japanische Wirtschafts*wunder* der 60er Jahre bleibt beeindruckend.
+
+  Cette danseuse est un *miracle* d'élégance.
+  Diese Tänzerin ist ein *Wunder* an Eleganz.
+
+  Par *miracle*, j'ai réussi l'examen sans réviser.
+  Wie durch ein *Wunder* habe ich die Prüfung bestanden, ohne zu lernen.
+
+  Les médecins ont fait des *miracles* pour sauver sa vie.
+  Die Ärzte haben *Wunder* vollbracht, um sein Leben zu retten.
+
+  Ce médicament *miracle* a guéri sa maladie.
+  Dieses *Wunder*mittel hat seine Krankheit geheilt.
+
+  Tout le monde a crié au *miracle* quand l'équipe a marqué.
+  Alle haben ein *Wunder* ausgerufen, als die Mannschaft ein Tor schoss.
+
+  Le *miracle* de sa guérison a surpris tous les médecins.
+  Das *Wunder* seiner Heilung hat alle Ärzte überrascht.
+
+  Cette recette *miracle* va résoudre tous vos problèmes de cuisine.
+  Dieses *Wunder*rezept wird all Ihre Kochprobleme lösen.
+
+  Les *miracles* de la technologie moderne nous impressionnent chaque jour.
+  Die *Wunder* der modernen Technologie beeindrucken uns jeden Tag.
+
+  Ce petit robot est un *miracle* de la technique.
+  Dieser kleine Roboter ist ein technisches *Wunder*werk.
+
+  C'est un *miracle* d'adresse : il a réussi à rattraper le vase qui tombait.
+  Es ist ein *Wunder* an Geschicklichkeit: er konnte die fallende Vase auffangen.
+
+  J'attends un *miracle* pour finir ce travail à temps.
+  Ich warte auf ein *Wunder*, um diese Arbeit rechtzeitig fertig zu bekommen.
+
+  Ce peintre fait des *miracles* avec trois couleurs seulement.
+  Dieser Maler vollbringt *Wunder* mit nur drei Farben.
+
+  Les *miracles* de la nature ne cessent de nous étonner.
+  Die *Wunder* der Natur hören nicht auf, uns zu erstaunen.
+
+  Par *miracle*, le bébé n'avait pas une seule égratignure.
+  Wie durch ein *Wunder* hatte das Baby nicht einen einzigen Kratzer.
+
+  Cette solution *miracle* résoudra tous nos problèmes.
+  Diese *Wunder*lösung wird all unsere Probleme lösen.
+
+  Le *miracle* de la vie se produit chaque jour dans la nature.
+  Das *Wunder* des Lebens geschieht jeden Tag in der Natur.
+
+  C'est un véritable *miracle* qu'il ait survécu à cette chute.
+  Es ist ein wahres *Wunder*, dass er diesen Sturz überlebt hat.
+
+  L'invention de l'internet est un *miracle* du XXe siècle.
+  Die Erfindung des Internets ist ein *Wunder* des 20. Jahrhunderts.
+
+  Ce chirurgien accomplit des *miracles* dans son domaine.
+  Dieser Chirurg vollbringt *Wunder* in seinem Fachgebiet.
+
+  Il s'en est sorti par *miracle* de cette situation difficile.
+  Er ist wie durch ein *Wunder* aus dieser schwierigen Situation herausgekommen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

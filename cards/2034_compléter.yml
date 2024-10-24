@@ -13,11 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cela complète notre présentation, mesdames et messieurs.
-  Das vervollständigt unsere Präsentation, meine Damen und Herren.
+  Cela *complète* notre présentation, mesdames et messieurs.
+  Das *vervollständigt* unsere Präsentation, meine Damen und Herren.
 
-  Je vais compléter le formulaire.
-  Ich werde das Formular vervollständigen.
+  J'ai besoin de *compléter* mon dossier avec une pièce d'identité.
+  Ich muss meine Akte mit einem Ausweis *vervollständigen*.
+
+  Ma sœur et moi, nous nous *complétons* parfaitement en cuisine.
+  Meine Schwester und ich *ergänzen* uns perfekt beim Kochen.
+
+  Il faut *compléter* ce formulaire avant demain.
+  Dieses Formular muss bis morgen *ausgefüllt* werden.
+
+  La police a dû *compléter* son enquête avec de nouveaux témoignages.
+  Die Polizei musste ihre Ermittlungen durch neue Zeugenaussagen *vervollständigen*.
+
+  Sa collection de timbres se *complète* peu à peu.
+  Seine Briefmarkensammlung *vervollständigt* sich nach und nach.
+
+  Marie doit encore *compléter* son travail avant de le rendre.
+  Marie muss ihre Arbeit noch *vervollständigen*, bevor sie sie abgibt.
+
+  Les deux équipes se *complètent* bien sur le terrain.
+  Die beiden Teams *ergänzen* sich gut auf dem Spielfeld.
+
+  Pouvez-vous *compléter* votre adresse avec le code postal ?
+  Können Sie Ihre Adresse mit der Postleitzahl *vervollständigen*?
+
+  Cette bibliothèque a *complété* sa collection d'œuvres classiques.
+  Diese Bibliothek hat ihre Sammlung klassischer Werke *vervollständigt*.
+
+  Le professeur a demandé aux élèves de *compléter* le texte à trous.
+  Der Lehrer hat die Schüler gebeten, den Lückentext zu *vervollständigen*.
+
+  Ces nouvelles informations *complètent* bien notre rapport.
+  Diese neuen Informationen *ergänzen* unseren Bericht gut.
+
+  Il faudra *compléter* le puzzle avec les pièces manquantes.
+  Das Puzzle muss mit den fehlenden Teilen *vervollständigt* werden.
+
+  Les graphiques vont *compléter* notre analyse des données.
+  Die Grafiken werden unsere Datenanalyse *ergänzen*.
+
+  Paul et Julie se *complètent* parfaitement dans leur relation.
+  Paul und Julie *ergänzen* sich perfekt in ihrer Beziehung.
+
+  Je dois *compléter* mes notes avant l'examen.
+  Ich muss meine Notizen vor der Prüfung *vervollständigen*.
+
+  L'index *complète* utilement ce livre de référence.
+  Der Index *ergänzt* dieses Nachschlagewerk sinnvoll.
+
+  Cette expérience va *compléter* sa formation professionnelle.
+  Diese Erfahrung wird seine berufliche Ausbildung *vervollständigen*.
+
+  Nous devons *compléter* l'équipe avec deux nouveaux membres.
+  Wir müssen das Team um zwei neue Mitglieder *ergänzen*.
+
+  Le nouveau système vient *compléter* l'installation existante.
+  Das neue System *ergänzt* die bestehende Anlage.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

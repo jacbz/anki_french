@@ -13,23 +13,146 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai étudié la musique classique.
-  Ich habe klassische Musik studiert.
+  J'ai étudié la musique *classique*.
+  Ich habe *klassische* Musik studiert.
 
-  La musique classique est très belle.
-  Klassische Musik ist sehr schön.
+  Cette université propose des études *classiques* très réputées.
+  Diese Universität bietet einen angesehenen *humanistischen* Studiengang an.
 
-  "C'est classique!"
-  Das ist typisch!
+  La Joconde est un *classique* de la peinture.
+  Die Mona Lisa ist ein *Klassiker* der Malerei.
 
-  "Connaître ses classiques"
-  In der Schule aufgepasst haben
+  Elle porte toujours des vêtements très *classiques*.
+  Sie trägt immer sehr *konservative* Kleidung.
 
-  "Filière classique"
-  Humanistischer Zweig
+  "*C'est classique* avec lui, il arrive toujours en retard !"
+  "Das ist *typisch* für ihn, er kommt immer zu spät!"
 
-  "Ah mais, je connais mes classiques"
-  Tja, gelernt ist gelernt
+  Victor Hugo est un auteur *classique* que tous les élèves étudient.
+  Victor Hugo ist ein *klassischer* Autor, den alle Schüler lesen.
+
+  Le latin est une langue *classique* enseignée au lycée.
+  Latein ist eine *klassische* Sprache, die am Gymnasium unterrichtet wird.
+
+  Cette robe a une coupe *classique* qui ne se démode jamais.
+  Dieses Kleid hat einen *klassischen* Schnitt, der nie aus der Mode kommt.
+
+  Notre fille prend des cours de danse *classique*.
+  Unsere Tochter nimmt *klassischen* Tanzunterricht.
+
+  Les *classiques* de la littérature française sont traduits dans de nombreuses langues.
+  Die *Klassiker* der französischen Literatur sind in viele Sprachen übersetzt worden.
+
+  Cette méthode *classique* de construction est utilisée depuis des siècles.
+  Diese *herkömmliche* Baumethode wird seit Jahrhunderten verwendet.
+
+  Le Paris-Roubaix est une *classique* du cyclisme.
+  Paris-Roubaix ist ein *traditionelles* Radrennen.
+
+  Sa beauté *classique* rappelle les statues grecques.
+  Ihre *klassische* Schönheit erinnert an griechische Statuen.
+
+  Il préfère le jazz au *classique*.
+  Er bevorzugt Jazz gegenüber *Klassik*.
+
+  "Ah, je connais mes *classiques* !"
+  "Tja, *gelernt* ist *gelernt*!"
+
+  Ce film est devenu un *classique* du cinéma français.
+  Dieser Film ist zu einem *Klassiker* des französischen Kinos geworden.
+
+  Dans ce restaurant, ils servent une cuisine *classique* française.
+  In diesem Restaurant servieren sie *traditionelle* französische Küche.
+
+  Les arguments *classiques* contre cette théorie ne tiennent plus.
+  Die *üblichen* Argumente gegen diese Theorie halten nicht mehr stand.
+
+  Elle s'habille toujours en *classique*.
+  Sie kleidet sich immer *klassisch*.
+
+  Cette voiture est un *classique* des années 60.
+  Dieses Auto ist ein *Klassiker* der 60er Jahre.
+
+  La logique *classique* est enseignée en première année de philosophie.
+  Die *klassische* Logik wird im ersten Jahr Philosophie unterrichtet.
+
+  C'est une théorie *classique* en économie.
+  Das ist eine *klassische* Theorie in der Wirtschaft.
+
+  Le style *classique* se caractérise par sa simplicité.
+  Der *klassische* Stil zeichnet sich durch seine Schlichtheit aus.
+
+  Cette collection présente les auteurs *classiques* grecs.
+  Diese Sammlung präsentiert die *klassischen* griechischen Autoren.
+
+  Son interprétation des œuvres *classiques* est remarquable.
+  Seine Interpretation *klassischer* Werke ist bemerkenswert.
+
+  L'architecture *classique* privilégie les lignes droites.
+  Die *klassische* Architektur bevorzugt gerade Linien.
+
+  Cette mélodie est devenue un *classique* du jazz.
+  Diese Melodie ist zu einem Jazz-*Klassiker* geworden.
+
+  Le théâtre *classique* respecte la règle des trois unités.
+  Das *klassische* Theater beachtet die Regel der drei Einheiten.
+
+  Ces meubles ont un design *classique*.
+  Diese Möbel haben ein *klassisches* Design.
+
+  Cette erreur est *classique* chez les débutants.
+  Dieser Fehler ist *typisch* für Anfänger.
+
+  Il suit une formation *classique* en médecine.
+  Er absolviert eine *traditionelle* medizinische Ausbildung.
+
+  Ce tableau représente une scène *classique* de la mythologie.
+  Dieses Gemälde stellt eine *klassische* Szene aus der Mythologie dar.
+
+  Cette installation *classique* sera bientôt remplacée.
+  Diese *herkömmliche* Anlage wird bald ersetzt.
+
+  L'époque *classique* a profondément influencé l'art moderne.
+  Die *klassische* Epoche hat die moderne Kunst stark beeinflusst.
+
+  Le français *classique* était parlé au XVIIe siècle.
+  Das *klassische* Französisch wurde im 17. Jahrhundert gesprochen.
+
+  Cette chanson est un *classique* de la variété française.
+  Dieses Lied ist ein *Klassiker* des französischen Chansons.
+
+  Les escaliers en colimaçon sont un élément *classique* des châteaux.
+  Wendeltreppen sind ein *klassisches* Element von Schlössern.
+
+  Cette pièce de théâtre est un *classique* du répertoire.
+  Dieses Theaterstück ist ein *Klassiker* des Repertoires.
+
+  Son costume *classique* convenait parfaitement à l'occasion.
+  Sein *klassischer* Anzug passte perfekt zu dem Anlass.
+
+  Cette approche *classique* du problème n'est plus efficace.
+  Dieser *herkömmliche* Ansatz für das Problem ist nicht mehr effektiv.
+
+  Les proportions *classiques* de ce bâtiment sont parfaites.
+  Die *klassischen* Proportionen dieses Gebäudes sind perfekt.
+
+  Cette symphonie est un *classique* de Beethoven.
+  Diese Sinfonie ist ein *Klassiker* von Beethoven.
+
+  Ce roman est devenu un *classique* de la littérature jeunesse.
+  Dieser Roman ist zu einem *Klassiker* der Jugendliteratur geworden.
+
+  La physique *classique* ne peut pas expliquer tous les phénomènes.
+  Die *klassische* Physik kann nicht alle Phänomene erklären.
+
+  Les exercices *classiques* de grammaire sont toujours utiles.
+  Die *klassischen* Grammatikübungen sind immer noch nützlich.
+
+  Cette réaction est *classique* dans ce type de situation.
+  Diese Reaktion ist *typisch* in solch einer Situation.
+
+  Ce parfum a une fragrance *classique* et élégante.
+  Dieses Parfüm hat einen *klassischen* und eleganten Duft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

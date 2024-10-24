@@ -13,11 +13,38 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ma mère me punissait rarement.
-  Meine Mutter bestrafte mich selten.
+  Ma mère me punissait *rarement*.
+  Meine Mutter bestrafte mich *selten*.
 
-  Je vais rarement au cinéma.
-  Ich gehe selten ins Kino.
+  Je vois *rarement* mes amis d'enfance depuis que j'habite à l'étranger.
+  Ich sehe meine Kindheitsfreunde *selten*, seit ich im Ausland wohne.
+
+  *Rarement* j'ai mangé un plat aussi délicieux.
+  *Selten* habe ich ein so köstliches Gericht gegessen.
+
+  Il arrive *rarement* qu'il neige en avril.
+  Es kommt *selten* vor, dass es im April schneit.
+
+  Cette espèce d'oiseau se voit de plus en plus *rarement* dans notre région.
+  Diese Vogelart ist in unserer Region immer *seltener* zu sehen.
+
+  Les trains sont *rarement* en retard dans ce pays.
+  Die Züge sind in diesem Land *selten* verspätet.
+
+  On trouve *rarement* des places de parking gratuites en centre-ville.
+  Man findet *selten* kostenlose Parkplätze in der Innenstadt.
+
+  Elle sort *rarement* le soir pendant la semaine.
+  Sie geht unter der Woche *selten* abends aus.
+
+  *Rarement* une décision n'avait provoqué autant de débats.
+  *Selten* hatte eine Entscheidung so viele Diskussionen ausgelöst.
+
+  J'ai *rarement* vu des étudiants aussi motivés.
+  Ich habe *selten* so motivierte Studenten gesehen.
+
+  Le soleil apparaît *rarement* pendant cette saison.
+  Die Sonne zeigt sich in dieser Jahreszeit *selten*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,38 +13,119 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le mousquetaire est seul. Et condamné à la solitude.
-  Der Musketier ist allein. Und zur Einsamkeit verdammt.
+  Le mousquetaire est seul. Et *condamné* à la solitude.
+  Der Musketier ist allein. Und zur Einsamkeit *verdammt*.
 
-  Le juge a condamné l’accusé à 10 ans de prison.
-  Der Richter hat den Angeklagten zu 10 Jahren Gefängnis verurteilt.
+  Le tribunal l'a *condamné* à dix ans de prison pour fraude.
+  Das Gericht hat ihn wegen Betrugs zu zehn Jahren Gefängnis *verurteilt*.
 
-  Le juge a condamné le voleur à dix ans de prison.
-  Der Richter hat den Dieb zu zehn Jahren Haft verurteilt.
+  Les médecins l'ont *condamné*, mais il s'est miraculeusement rétabli.
+  Die Ärzte haben ihn *aufgegeben*, aber er hat sich auf wunderbare Weise erholt.
 
-  Ces délits sont sévèrement condamnés par la loi.
-  Diese Vergehen werden streng von der Gesetzgebung bestraft.
+  Sa blessure le *condamne* à rester au lit pendant deux semaines.
+  Seine Verletzung *zwingt* ihn, zwei Wochen im Bett zu bleiben.
 
-  La police a condamné le suspect d'avoir volé la voiture.
-  Die Polizei hat den Verdächtigen vorgeworfen, das Auto gestohlen zu haben.
+  Nous devons *condamner* cette fenêtre avant l'arrivée de l'ouragan.
+  Wir müssen dieses Fenster vor dem Hurrikan *vernageln*.
 
-  Ce joueur est condamné, il n'a jamais réussi à gagner un match.
-  Dieser Spieler ist ein hoffnungsloser Fall, er hat noch nie ein Spiel gewonnen.
+  L'opposition a fermement *condamné* la décision du gouvernement.
+  Die Opposition hat die Entscheidung der Regierung scharf *verurteilt*.
 
-  La maladie a condamné Jean à l'inaction pendant plusieurs mois.
-  Die Krankheit hat Jean mehrere Monate lang zur Untätigkeit verdammt.
+  Le juge l'a *condamné* à payer une amende de mille euros.
+  Der Richter hat ihn zur Zahlung einer Geldstrafe von tausend Euro *verurteilt*.
 
-  Le tribunal a condamné l'entreprise à payer une amende de 10 000 euros.
-  Das Gericht hat das Unternehmen zu einer Geldstrafe von 10 000 Euro verurteilt.
+  Cette preuve l'a définitivement *condamné*.
+  Dieser Beweis hat ihn endgültig *überführt*.
 
-  Le verdict a été prononcé, il est condamné de manière définitive.
-  Das Urteil ist gefällt, er ist rechtskräftig verurteilt.
+  La société *condamne* fortement ce type de comportement.
+  Die Gesellschaft *verurteilt* diese Art von Verhalten aufs Schärfste.
 
-  La situation économique est très difficile, les entreprises sont condamnées.
-  Die Wirtschaftslage ist sehr schwierig, die Unternehmen sind zum Scheitern verurteilt.
+  Sa maladie le *condamne* à vivre dans une chaise roulante.
+  Seine Krankheit *verdammt* ihn dazu, in einem Rollstuhl zu leben.
 
-  Sa mère l'a condamné à faire ses devoirs avant de jouer aux jeux vidéo.
-  Seine Mutter hat ihn gezwungen, seine Hausaufgaben zu machen, bevor er Videospiele spielen durfte.
+  Les propriétaires ont *condamné* l'accès au vieux bâtiment.
+  Die Eigentümer haben den Zugang zum alten Gebäude *gesperrt*.
+
+  Il a été *condamné* pour excès de vitesse.
+  Er wurde wegen zu schnellen Fahrens *verurteilt*.
+
+  Les experts ont *condamné* cette entreprise à la faillite.
+  Die Experten haben dieses Unternehmen zum Konkurs *verdammt*.
+
+  La loi *condamne* sévèrement ce type de fraude.
+  Das Gesetz *stellt* diese Art von Betrug unter schwere *Strafe*.
+
+  Elle a *condamné* sa porte à tous ses anciens amis.
+  Sie hat allen ihren alten Freunden die Tür *verschlossen*.
+
+  Le jury l'a *condamné* à perpétuité.
+  Die Jury hat ihn zu lebenslanger Haft *verurteilt*.
+
+  Son attitude négative le *condamne* à l'échec.
+  Seine negative Einstellung *verdammt* ihn zum Scheitern.
+
+  Les critiques ont *condamné* le nouveau film.
+  Die Kritiker haben den neuen Film *verurteilt*.
+
+  Il faut *condamner* cette porte de secours pour des raisons de sécurité.
+  Diese Notfalltür muss aus Sicherheitsgründen *verriegelt* werden.
+
+  La communauté internationale a *condamné* ces actes de violence.
+  Die internationale Gemeinschaft hat diese Gewalttaten *verurteilt*.
+
+  Les médecins l'ont *condamné* à trois mois de repos complet.
+  Die Ärzte haben ihn zu drei Monaten völliger Ruhe *verdammt*.
+
+  Le tribunal l'a *condamné* par contumace.
+  Das Gericht hat ihn in Abwesenheit *verurteilt*.
+
+  Cette décision *condamne* toute la région au déclin économique.
+  Diese Entscheidung *verdammt* die ganze Region zum wirtschaftlichen Niedergang.
+
+  Les autorités ont *condamné* l'accès à la plage.
+  Die Behörden haben den Zugang zum Strand *gesperrt*.
+
+  Le patient était *condamné*, mais il a survécu contre toute attente.
+  Der Patient war *aufgegeben*, überlebte aber wider Erwarten.
+
+  Son handicap le *condamne* à dépendre des autres.
+  Seine Behinderung *zwingt* ihn, von anderen abhängig zu sein.
+
+  Les juges ont *condamné* cette pratique commerciale.
+  Die Richter haben diese Geschäftspraxis *verurteilt*.
+
+  L'Académie française *condamne* l'utilisation de ce mot.
+  Die Académie française *verurteilt* die Verwendung dieses Wortes.
+
+  Il a été *condamné* aux travaux forcés.
+  Er wurde zu Zwangsarbeit *verurteilt*.
+
+  Nous devons *condamner* temporairement cette route.
+  Wir müssen diese Straße vorübergehend *sperren*.
+
+  Les critiques ont sévèrement *condamné* son dernier roman.
+  Die Kritiker haben seinen letzten Roman scharf *verurteilt*.
+
+  Le manque de fonds *condamne* ce projet à l'échec.
+  Der Geldmangel *verdammt* dieses Projekt zum Scheitern.
+
+  La société *condamne* de plus en plus le tabagisme.
+  Die Gesellschaft *verurteilt* das Rauchen immer mehr.
+
+  Cette erreur l'a *condamné* à perdre la course.
+  Dieser Fehler hat ihn dazu *verdammt*, das Rennen zu verlieren.
+
+  Les experts ont *condamné* ce bâtiment à la démolition.
+  Die Experten haben dieses Gebäude zum Abriss *verurteilt*.
+
+  Elle s'est *condamnée* elle-même à la solitude.
+  Sie hat sich selbst zur Einsamkeit *verdammt*.
+
+  Le tribunal l'a *condamné* à verser des dommages et intérêts.
+  Das Gericht hat ihn zur Zahlung von Schadenersatz *verurteilt*.
+
+  Cette preuve irréfutable l'a définitivement *condamné*.
+  Dieser unwiderlegbare Beweis hat ihn endgültig *überführt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

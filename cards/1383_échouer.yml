@@ -13,26 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tout ce que j’ai tenté a échoué.
-  Alles, was ich versucht habe, ist gescheitert.
+  Tout ce que j'ai tenté a *échoué*.
+  Alles, was ich versucht habe, ist *gescheitert*.
 
-  Il a échoué à son examen.
-  Er ist bei seiner Prüfung durchgefallen.
+  L'entreprise a finalement *échoué* faute de financement.
+  Das Unternehmen ist letztendlich mangels Finanzierung *gescheitert*.
 
-  Pierre a échoué à l'examen de mathématiques, ce qui l'a beaucoup déçu.
-  Pierre hat die Mathematikprüfung nicht bestanden, was ihn sehr enttäuscht hat.
+  Marie a *échoué* à son examen de conduite pour la troisième fois.
+  Marie ist zum dritten Mal durch ihre Fahrprüfung *gefallen*.
 
-  Le bateau s'est échoué dans la vase et les passagers ont dû être évacués.
-  Das Boot ist im Schlick steckengeblieben und die Passagiere mussten evakuiert werden.
+  Le grand navire s'est *échoué* sur un récif de corail.
+  Das große Schiff ist auf einem Korallenriff *gestrandet*.
 
-  Le navire s'est échoué sur un récif et a été gravement endommagé.
-  Das Schiff ist auf ein Riff aufgelaufen und wurde schwer beschädigt.
+  Elle a *échoué* de justesse au concours d'entrée.
+  Sie ist beim Aufnahmetest knapp *durchgefallen*.
 
-  Le voyageur a échoué chez un ami, car il n'avait pas réservé d'hôtel.
-  Der Reisende ist bei einem Freund gelandet, da er kein Hotel gebucht hatte.
+  Le yacht s'est *échoué* dans une baie peu profonde.
+  Die Yacht ist in einer flachen Bucht auf *Grund gelaufen*.
 
-  Le gouvernement a fait échouer le projet de loi, car il était trop coûteux.
-  Die Regierung hat den Gesetzesentwurf vereitelt, weil er zu teuer war.
+  Leurs négociations ont *échoué* au dernier moment.
+  Ihre Verhandlungen sind im letzten Moment *gescheitert*.
+
+  Le capitaine a délibérément *échoué* son bateau pour sauver l'équipage.
+  Der Kapitän hat sein Boot absichtlich auf *Grund gesetzt*, um die Mannschaft zu retten.
+
+  "Après tant d'années de galère, il a *échoué* dans ce petit bistrot."
+  "Nach so vielen schwierigen Jahren ist er in diesem kleinen Bistro *gelandet*."
+
+  La baleine s'est *échouée* sur la plage pendant la nuit.
+  Der Wal ist in der Nacht am Strand *gestrandet*.
+
+  Les débris du naufrage sont venus *échouer* sur nos côtes.
+  Die Wrackteile sind an unserer Küste *angeschwemmt* worden.
+
+  Son projet de réforme a complètement *échoué*.
+  Sein Reformprojekt ist völlig *gescheitert*.
+
+  Le petit bateau de pêche s'est *échoué* dans la vase.
+  Das kleine Fischerboot ist im Schlamm *steckengeblieben*.
+
+  Les tentatives de médiation ont *échoué* les unes après les autres.
+  Die Vermittlungsversuche sind einer nach dem anderen *gescheitert*.
+
+  Une bouteille mystérieuse est venue *échouer* sur le rivage.
+  Eine mysteriöse Flasche ist am Ufer *angespült* worden.
+
+  Le pilote a dû *échouer* l'avion sur le ventre.
+  Der Pilot musste das Flugzeug *notlanden*.
+
+  La start-up a *échoué* après seulement six mois d'activité.
+  Das Start-up ist nach nur sechs Monaten *gescheitert*.
+
+  Trois baleines se sont *échouées* sur la côte ce matin.
+  Drei Wale sind heute Morgen an der Küste *gestrandet*.
+
+  Les pourparlers de paix ont *échoué* une fois de plus.
+  Die Friedensgespräche sind einmal mehr *gescheitert*.
+
+  Le cargo s'est *échoué* sur un banc de sable.
+  Der Frachter ist auf einer Sandbank *aufgelaufen*.
+
+  Thomas a *échoué* de peu à l'examen final.
+  Thomas ist bei der Abschlussprüfung knapp *durchgefallen*.
+
+  Le bateau de plaisance s'est *échoué* près du phare.
+  Das Freizeitboot ist in der Nähe des Leuchtturms *gestrandet*.
+
+  La mission de sauvetage a malheureusement *échoué*.
+  Die Rettungsmission ist leider *gescheitert*.
+
+  "Nous avons *échoué* dans ce petit hôtel de campagne."
+  "Wir sind in diesem kleinen Landhotel *gelandet*."
+
+  Le plan d'austérité a *échoué* dès le début.
+  Der Sparplan ist von Anfang an *gescheitert*.
+
+  Le pétrolier s'est *échoué* près de la côte.
+  Der Öltanker ist nahe der Küste auf *Grund gelaufen*.
+
+  Sa tentative de record du monde a *échoué*.
+  Sein Weltrekordversuch ist *gescheitert*.
+
+  Les dauphins se sont *échoués* sur la plage à marée basse.
+  Die Delfine sind bei Ebbe am Strand *gestrandet*.
+
+  Le voilier s'est *échoué* contre les rochers pendant la tempête.
+  Das Segelboot ist während des Sturms an den Felsen *zerschellt*.
+
+  Leurs efforts pour sauver l'entreprise ont *échoué*.
+  Ihre Bemühungen, das Unternehmen zu retten, sind *gescheitert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

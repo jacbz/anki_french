@@ -13,44 +13,134 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je vous en prie, expliquez-moi tout.
-  Bitte erklären Sie mir alles.
+  Je vous en prie, *expliquez*-moi tout.
+  Bitte *erklären* Sie mir alles.
 
-  Je vais t’expliquer le problème.
-  Ich werde dir das Problem erklären.
+  Les enfants doivent *expliquer* leur retard à l'école.
+  Die Kinder müssen ihre Verspätung in der Schule *erklären*.
 
-  Elle ne va pas le leur expliquer.
-  Sie wird es ihnen nicht erklären.
+  Est-ce que tu peux m'*expliquer* la règle du jeu ?
+  Kannst du mir die Spielregeln *erklären*?
 
-  Paul a insisté pour expliquer que Sarah avait menti.
-  Paul hat darauf bestanden, zu erklären, dass Sarah gelogen hat.
+  Je ne peux pas m'*expliquer* son comportement étrange.
+  Ich kann mir sein seltsames Verhalten nicht *erklären*.
 
-  Elle lui a expliqué pourquoi elle avait quitté la fête.
-  Sie hat ihm erklärt, warum sie die Party verlassen hat.
+  Le professeur *explique* la leçon au tableau.
+  Der Lehrer *erläutert* die Lektion an der Tafel.
 
-  Il s’est expliqué sur son retard en expliquant qu’il avait raté son train.
-  Er hat sich für sein Zuspätkommen entschuldigt und erklärt, dass er seinen Zug verpasst hat.
+  "Je t'*explique* pas comme j'étais content !"
+  "Es ist kaum zu *beschreiben*, wie glücklich ich war!"
 
-  Le suspect s’est expliqué devant le tribunal et a nié toute implication dans le crime.
-  Der Verdächtige hat sich vor Gericht verantwortet und jede Beteiligung an dem Verbrechen bestritten.
+  Tu dois t'*expliquer* devant ton père maintenant.
+  Du musst dich jetzt vor deinem Vater *verantworten*.
 
-  Marie s’est expliquée avec son fils sur ses résultats scolaires.
-  Marie hat sich mit ihrem Sohn über seine schulischen Leistungen auseinandergesetzt.
+  Elle s'est *expliquée* sur son absence prolongée.
+  Sie hat sich für ihre lange Abwesenheit *gerechtfertigt*.
 
-  Tu lui as bien expliqué que tu n’étais pas d’accord avec son plan ?
-  Du hast ihm doch gesagt, dass du mit seinem Plan nicht einverstanden bist?
+  Comment *expliquez*-vous qu'il ne soit pas venu ?
+  Wie *erklären* Sie sich, dass er nicht gekommen ist?
 
-  Le candidat s’est expliqué sur son choix de se présenter à la présidence.
-  Der Kandidat hat seine Entscheidung, sich zur Präsidentschaft zu bewerben, gerechtfertigt.
+  Le stress *explique* ses maux de tête.
+  Der Stress *erklärt* ihre Kopfschmerzen.
 
-  Le voleur s’est expliqué devant les gendarmes et a avoué son crime.
-  Der Dieb hat sich der Polizei gestellt und sein Verbrechen gestanden.
+  Il faut que je m'*explique* avec Marie sur ce malentendu.
+  Ich muss mich mit Marie über dieses Missverständnis *aussprechen*.
 
-  Le fils s’est expliqué devant son père et a avoué avoir dépensé l’argent de son anniversaire.
-  Der Sohn hat sich seinem Vater Rede und Antwort gestellt und zugegeben, das Geld von seinem Geburtstag ausgegeben zu haben.
+  Pourrais-tu *expliquer* ton projet plus en détail ?
+  Könntest du dein Projekt genauer *erläutern*?
 
-  Il s'explique que Jean fasse un caprice quand il est fatigué.
-  Man kann sich erklären, dass Jean eine Laune kriegt, wenn er müde ist.
+  La météo *explique* l'annulation de l'événement.
+  Das Wetter *erklärt* die Absage der Veranstaltung.
+
+  Elle *explique* très clairement des concepts complexes.
+  Sie *erklärt* komplexe Konzepte sehr verständlich.
+
+  Je vais lui *expliquer* que nous partons demain.
+  Ich werde ihr *erklären*, dass wir morgen abreisen.
+
+  Cette théorie *explique* bien le phénomène.
+  Diese Theorie *erklärt* das Phänomen gut.
+
+  Il s'est mal *expliqué* lors de son entretien.
+  Er hat sich bei seinem Vorstellungsgespräch schlecht *ausgedrückt*.
+
+  Les deux frères sont allés s'*expliquer* dehors.
+  Die beiden Brüder sind nach draußen gegangen, um sich *auszusprechen*.
+
+  Peux-tu m'*expliquer* comment ça marche ?
+  Kannst du mir *erklären*, wie das funktioniert?
+
+  Le manque d'eau *explique* la mort des plantes.
+  Der Wassermangel *erklärt* das Absterben der Pflanzen.
+
+  Tu dois t'*expliquer* devant les gendarmes.
+  Du musst dich vor der Polizei *verantworten*.
+
+  Elle *expliquera* son choix lors de la réunion.
+  Sie wird ihre Wahl bei der Sitzung *erläutern*.
+
+  Comment s'*explique* cette soudaine disparition ?
+  Wie *erklärt* sich dieses plötzliche Verschwinden?
+
+  Il faut s'*expliquer* clairement pour éviter les malentendus.
+  Man muss sich klar *ausdrücken*, um Missverständnisse zu vermeiden.
+
+  Le guide nous *explique* l'histoire du monument.
+  Der Führer *erklärt* uns die Geschichte des Denkmals.
+
+  Le scientifique *explique* sa découverte aux journalistes.
+  Der Wissenschaftler *erläutert* den Journalisten seine Entdeckung.
+
+  Cette erreur s'*explique* par un manque d'attention.
+  Dieser Fehler *erklärt* sich durch mangelnde Aufmerksamkeit.
+
+  Je dois m'*expliquer* devant le tribunal demain.
+  Ich muss mich morgen vor Gericht *verantworten*.
+
+  Elle m'a *expliqué* son point de vue.
+  Sie hat mir ihren Standpunkt *erklärt*.
+
+  Les parents doivent *expliquer* les règles à leurs enfants.
+  Die Eltern müssen ihren Kindern die Regeln *erklären*.
+
+  La pollution *explique* la disparition des abeilles.
+  Die Verschmutzung *erklärt* das Verschwinden der Bienen.
+
+  Je ne m'*explique* pas qu'il ait refusé cette offre.
+  Ich kann mir nicht *erklären*, dass er dieses Angebot abgelehnt hat.
+
+  Il faut *expliquer* aux élèves l'importance de l'exercice.
+  Man muss den Schülern die Wichtigkeit der Übung *erklären*.
+
+  Le professeur *explique* le texte en classe.
+  Der Lehrer *interpretiert* den Text im Unterricht.
+
+  Paul s'est bien *expliqué* sur ses intentions.
+  Paul hat seine Absichten gut *dargelegt*.
+
+  Cette théorie *explique* tout !
+  Diese Theorie *erklärt* alles!
+
+  Tout s'*explique* maintenant !
+  Jetzt *erklärt* sich alles!
+
+  Le directeur doit s'*expliquer* sur ces dépenses.
+  Der Direktor muss sich für diese Ausgaben *rechtfertigen*.
+
+  Elle *explique* toujours tout en détail.
+  Sie *erklärt* immer alles detailliert.
+
+  La fatigue *explique* ses erreurs.
+  Die Müdigkeit *erklärt* ihre Fehler.
+
+  Il faut s'*expliquer* avec son fils sur ce problème.
+  Man muss sich mit seinem Sohn über dieses Problem *aussprechen*.
+
+  Les scientifiques tentent d'*expliquer* ce phénomène.
+  Die Wissenschaftler versuchen, dieses Phänomen zu *erklären*.
+
+  Tu m'as mal *expliqué* le chemin.
+  Du hast mir den Weg schlecht *erklärt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

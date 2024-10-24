@@ -13,35 +13,143 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les investissements en provenance de l’extérieur diminuent.
-  Die Investitionen aus dem Ausland gehen zurück.
+  Les investissements en provenance de l'extérieur *diminuent*.
+  Die Investitionen aus dem Ausland *nehmen ab*.
 
-  Le bruit va diminuer.
-  Der Lärm wird nachlassen.
+  Le bruit du moteur a *diminué* progressivement jusqu'à s'arrêter.
+  Das Motorengeräusch ist allmählich *schwächer geworden*, bis es aufhörte.
 
-  Le gouvernement a fait diminuer les impôts de cinq pour cent pour stimuler l'économie.
-  Die Regierung hat die Steuern um fünf Prozent gesenkt, um die Wirtschaft anzukurbeln.
+  Ses forces *diminuent* de jour en jour depuis sa maladie.
+  Seine Kräfte *schwinden* seit seiner Krankheit von Tag zu Tag.
 
-  Le prix de ce produit a diminué de cinq euros depuis l'année dernière.
-  Der Preis dieses Produkts ist seit letztem Jahr um fünf Euro billiger geworden.
+  Le niveau d'eau du lac *diminue* pendant l'été.
+  Der Wasserstand des Sees *geht* im Sommer *zurück*.
 
-  La douleur a diminué d'intensité après la prise de médicaments.
-  Der Schmerz hat an Intensität abgenommen, nachdem die Medikamente eingenommen wurden.
+  Les jours *diminuent* déjà depuis le solstice d'été.
+  Die Tage *werden* seit der Sommersonnenwende bereits *kürzer*.
 
-  Le pantalon a diminué de longueur après plusieurs lavages.
-  Die Hose ist nach mehreren Waschgängen kürzer geworden.
+  Sa fièvre a commencé à *diminuer* après la prise du médicament.
+  Sein Fieber begann nach der Einnahme des Medikaments *abzuklingen*.
 
-  Le nombre de touristes a diminué en volume cette année.
-  Die Anzahl der Touristen ist in diesem Jahr volumenmäßig zurückgegangen.
+  Le gouvernement souhaite faire *diminuer* le chômage.
+  Die Regierung möchte die Arbeitslosigkeit *reduzieren*.
 
-  La direction a décidé de diminuer les moyens destinés à la recherche et développement.
-  Die Geschäftsleitung hat beschlossen, die Mittel für Forschung und Entwicklung zu kürzen.
+  Le prix du carburant a *diminué* de cinquante centimes.
+  Der Kraftstoffpreis ist um fünfzig Cent *billiger geworden*.
 
-  La société a décidé de diminuer un employé en raison de la crise économique.
-  Die Firma hat beschlossen, das Gehalt eines Angestellten zu kürzen, aufgrund der Wirtschaftskrise.
+  L'intensité de la tempête a *diminué* pendant la nuit.
+  Die Intensität des Sturms hat in der Nacht *abgenommen*.
 
-  Le nombre de voitures sur la route a fait diminuer un nombre de voitures sur la route.
-  Die Anzahl der Autos auf der Straße hat eine Anzahl von Autos auf der Straße zurückgehen lassen.
+  L'enflure de sa cheville a *diminué* après l'application de la pommade.
+  Die Schwellung seines Knöchels ist nach dem Auftragen der Salbe *zurückgegangen*.
+
+  La largeur du chemin *diminue* progressivement.
+  Der Weg *wird* allmählich *schmaler*.
+
+  Le gouvernement a *diminué* les impôts de trois pour cent.
+  Die Regierung hat die Steuern um drei Prozent *gesenkt*.
+
+  L'entreprise va *diminuer* les moyens destinés à la recherche.
+  Das Unternehmen wird die Mittel für die Forschung *kürzen*.
+
+  La direction a dû *diminuer* les salaires pendant la crise.
+  Die Leitung musste während der Krise die Gehälter *kürzen*.
+
+  Elle a *diminué* la longueur de ses cheveux de dix centimètres.
+  Sie hat ihre Haarlänge um zehn Zentimeter *gekürzt*.
+
+  Cette décision va *diminuer* son autorité auprès des employés.
+  Diese Entscheidung wird seine Autorität bei den Angestellten *mindern*.
+
+  Ces rumeurs ont *diminué* le mérite de son travail.
+  Diese Gerüchte haben das Verdienst seiner Arbeit *geschmälert*.
+
+  La musique douce a *diminué* l'ardeur des manifestants.
+  Die sanfte Musik hat die Begeisterung der Demonstranten *gedämpft*.
+
+  Les nouvelles mesures ont *diminué* la violence dans les rues.
+  Die neuen Maßnahmen haben die Gewalt auf den Straßen *eingedämmt*.
+
+  Le manque de sommeil *diminue* nos forces.
+  Der Schlafmangel *schwächt* unsere Kräfte.
+
+  Ce traitement va *diminuer* vos souffrances.
+  Diese Behandlung wird Ihre Schmerzen *lindern*.
+
+  Il cherche toujours à *diminuer* les autres pour se sentir supérieur.
+  Er versucht immer, andere *herabzusetzen*, um sich überlegen zu fühlen.
+
+  Je refuse de me *diminuer* devant mes collègues.
+  Ich weigere mich, mich vor meinen Kollegen *selbst herabzusetzen*.
+
+  La chaleur commence à *diminuer* en fin d'après-midi.
+  Die Hitze beginnt am späten Nachmittag *nachzulassen*.
+
+  L'efficacité du médicament *diminue* avec le temps.
+  Die Wirksamkeit des Medikaments *lässt* mit der Zeit *nach*.
+
+  Le brouillard *diminue* petit à petit.
+  Der Nebel *geht* nach und nach *zurück*.
+
+  Je dois *diminuer* la largeur de cette étagère.
+  Ich muss die Breite dieses Regals *verkleinern*.
+
+  Le supermarché a *diminué* ses prix de 20%.
+  Der Supermarkt hat seine Preise um 20% *gesenkt*.
+
+  Ces exercices vont *diminuer* les risques de blessure.
+  Diese Übungen werden das Verletzungsrisiko *verringern*.
+
+  Son attitude *diminue* la joie de tous.
+  Seine Haltung *dämpft* die Freude aller.
+
+  Les stocks de marchandises *diminuent* rapidement.
+  Die Warenbestände *gehen* schnell *zurück*.
+
+  Il faut *diminuer* le chauffage pour économiser l'énergie.
+  Man muss die Heizung *zurückdrehen*, um Energie zu sparen.
+
+  La production *diminue* en volume depuis trois mois.
+  Die Produktion *geht* seit drei Monaten volumenmäßig *zurück*.
+
+  L'âge l'a beaucoup *diminué* physiquement.
+  Das Alter hat ihn körperlich stark *geschwächt*.
+
+  Je l'ai trouvée très *diminuée* après son opération.
+  Ich fand sie nach ihrer Operation sehr *geschwächt*.
+
+  La pluie a *diminué* d'intensité.
+  Der Regen hat an Intensität *abgenommen*.
+
+  Le vent *diminue* progressivement depuis ce matin.
+  Der Wind *wird* seit heute Morgen allmählich *schwächer*.
+
+  La lumière *diminue* rapidement après le coucher du soleil.
+  Das Licht *wird* nach Sonnenuntergang schnell *schwächer*.
+
+  Elle doit *diminuer* la longueur de ses rideaux.
+  Sie muss ihre Vorhänge *kürzen*.
+
+  Cette expérience l'a beaucoup *diminué* moralement.
+  Diese Erfahrung hat ihn moralisch sehr *geschwächt*.
+
+  Le nombre d'accidents a *diminué* depuis l'installation des radars.
+  Die Anzahl der Unfälle ist seit der Installation der Radargeräte *zurückgegangen*.
+
+  La douleur commence à *diminuer* grâce aux médicaments.
+  Der Schmerz beginnt dank der Medikamente *nachzulassen*.
+
+  Les ventes *diminuent* pendant la basse saison.
+  Die Verkäufe *gehen* während der Nebensaison *zurück*.
+
+  Il faut *diminuer* la consommation d'énergie.
+  Man muss den Energieverbrauch *verringern*.
+
+  L'entreprise a dû *diminuer* ses effectifs.
+  Das Unternehmen musste seine Belegschaft *verkleinern*.
+
+  Le bruit de la circulation *diminue* la nuit.
+  Der Verkehrslärm *wird* nachts *schwächer*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

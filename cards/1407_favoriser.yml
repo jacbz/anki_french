@@ -13,17 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cela favorise le commerce et l’investissement.
-  Dies fördert den Handel und die Investitionstätigkeit.
+  Cela *favorise* le commerce et l'investissement.
+  Dies *fördert* den Handel und die Investitionen.
 
-  Le gouvernement veut favoriser l’emploi des jeunes.
-  Die Regierung will die Beschäftigung von Jugendlichen fördern.
+  Cette banque *favorise* les petites entreprises avec des taux avantageux.
+  Diese Bank *begünstigt* Kleinunternehmen mit günstigen Zinssätzen.
 
-  Les familles les plus favorisées ont souvent accès à de meilleures ressources éducatives.
-  Die bessergestellten Familien haben oft Zugang zu besseren Bildungsressourcen.
+  La nouvelle loi *favorise* l'égalité des chances pour tous.
+  Das neue Gesetz *fördert* die Chancengleichheit für alle.
 
-  Une mesure qui favorise la concurrence peut encourager l'innovation et la croissance économique.
-  Eine wettbewerbsfördernde Maßnahme kann Innovation und Wirtschaftswachstum fördern.
+  Les parents ne devraient pas *favoriser* un enfant plus que l'autre.
+  Eltern sollten kein Kind mehr *bevorzugen* als das andere.
+
+  Le climat chaud et humide *favorise* la croissance des plantes.
+  Das warme und feuchte Klima *begünstigt* das Pflanzenwachstum.
+
+  Marie a toujours été *favorisée* par la chance.
+  Marie wurde vom Glück immer *begünstigt*.
+
+  Cette politique *favorise* l'accès au logement pour les jeunes.
+  Diese Politik *unterstützt* den Zugang zu Wohnraum für junge Menschen.
+
+  Le jury a injustement *favorisé* ce candidat.
+  Die Jury hat diesen Kandidaten zu Unrecht *bevorzugt*.
+
+  L'obscurité *favorisait* leur évasion discrète.
+  Die Dunkelheit *begünstigte* ihre heimliche Flucht.
+
+  Ces conditions météorologiques *favorisent* la propagation du virus.
+  Diese Wetterbedingungen *begünstigen* die Ausbreitung des Virus.
+
+  Le gouvernement *favorise* les énergies renouvelables.
+  Die Regierung *fördert* erneuerbare Energien.
+
+  Son grand-père l'a *favorisé* dans son testament.
+  Sein Großvater hat ihn im Testament *bevorzugt*.
+
+  Cette région est particulièrement *favorisée* par son climat.
+  Diese Region wird durch ihr Klima besonders *begünstigt*.
+
+  Le vent *favorisait* la progression du voilier.
+  Der Wind *begünstigte* den Fortschritt des Segelboots.
+
+  Les nouvelles technologies *favorisent* l'apprentissage à distance.
+  Neue Technologien *fördern* das Fernlernen.
+
+  Cette association *favorise* l'intégration des immigrants.
+  Dieser Verein *unterstützt* die Integration von Einwanderern.
+
+  Le sol riche *favorise* la culture du café.
+  Der nährstoffreiche Boden *begünstigt* den Kaffeeanbau.
+
+  Ces réformes *favorisent* la création d'emplois.
+  Diese Reformen *fördern* die Schaffung von Arbeitsplätzen.
+
+  La direction *favorise* le dialogue social.
+  Die Geschäftsführung *fördert* den sozialen Dialog.
+
+  Les circonstances ont *favorisé* sa réussite professionnelle.
+  Die Umstände haben seinen beruflichen Erfolg *begünstigt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il refuse de privilégier les insurgés cubains!
-  Er lehnt es ab, die kubanischen Aufständischen zu bevorzugen!
+  Il refuse de *privilégier* les insurgés cubains!
+  Er weigert sich, die kubanischen Aufständischen zu *bevorzugen*!
 
-  Il faut privilégier la sécurité.
-  Sicherheit sollte bevorzugt werden.
+  Les parents ne devraient jamais *privilégier* un enfant par rapport aux autres.
+  Eltern sollten niemals ein Kind gegenüber den anderen *bevorzugen*.
 
-  Il a toujours privilégié sa fille aînée.
-  Er hat immer seine älteste Tochter bevorzugt.
+  Son père l'a toujours *privilégiée* par rapport à ses frères.
+  Ihr Vater hat sie gegenüber ihren Brüdern immer *begünstigt*.
 
-  Il faut privilégier la qualité à la quantité.
-  Man sollte der Qualität den Vorzug geben gegenüber der Quantität.
+  Cette école *privilégie* l'apprentissage des langues étrangères.
+  Diese Schule *bevorzugt* das Erlernen von Fremdsprachen.
+
+  Dans notre entreprise, nous *privilégions* la qualité plutôt que la quantité.
+  In unserem Unternehmen *bevorzugen* wir Qualität statt Quantität.
+
+  Le nouveau système fiscal *privilégie* les familles nombreuses.
+  Das neue Steuersystem *begünstigt* kinderreiche Familien.
+
+  Cette région est *privilégiée* grâce à son climat méditerranéen.
+  Diese Region ist aufgrund ihres mediterranen Klimas *begünstigt*.
+
+  Le professeur *privilégie* une approche pratique dans son enseignement.
+  Der Lehrer *bevorzugt* einen praktischen Ansatz in seinem Unterricht.
+
+  Vous êtes *privilégié* d'avoir eu cette opportunité rare.
+  Sie sind *privilegiert*, diese seltene Gelegenheit bekommen zu haben.
+
+  Les zones côtières sont *privilégiées* pour le développement touristique.
+  Die Küstengebiete werden für die touristische Entwicklung *bevorzugt*.
+
+  Cette université *privilégie* les étudiants ayant de bonnes notes.
+  Diese Universität *bevorzugt* Studierende mit guten Noten.
+
+  Le gouvernement a décidé de *privilégier* les énergies renouvelables.
+  Die Regierung hat beschlossen, erneuerbare Energien zu *bevorzugen*.
+
+  Les quartiers *privilégiés* de la ville attirent de nouveaux habitants.
+  Die *privilegierten* Stadtteile ziehen neue Bewohner an.
+
+  Je *privilégie* toujours le train pour mes déplacements professionnels.
+  Ich *bevorzuge* für meine Geschäftsreisen immer den Zug.
+
+  Cette maison d'édition *privilégie* les auteurs locaux.
+  Dieser Verlag *bevorzugt* lokale Autoren.
+
+  Les investisseurs *privilégient* les placements à long terme.
+  Die Investoren *bevorzugen* langfristige Anlagen.
+
+  Marie se sent *privilégiée* d'avoir grandi dans un environnement stable.
+  Marie fühlt sich *privilegiert*, in einem stabilen Umfeld aufgewachsen zu sein.
+
+  Le chef *privilégie* les produits de saison dans sa cuisine.
+  Der Koch *bevorzugt* saisonale Produkte in seiner Küche.
+
+  Cette méthode d'enseignement *privilégie* l'oral plutôt que l'écrit.
+  Diese Unterrichtsmethode *bevorzugt* das Sprechen gegenüber dem Schreiben.
+
+  Les clients *privilégiés* bénéficient d'offres spéciales.
+  *Bevorzugte* Kunden erhalten Sonderangebote.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

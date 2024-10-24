@@ -13,14 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce que nous avons accompli reste insuffisant.
-  Was wir erreicht haben, ist immer noch unzureichend.
+  Ce que nous avons accompli reste *insuffisant*.
+  Was wir erreicht haben, bleibt *unzureichend*.
 
-  Le budget est insuffisant.
-  Das Budget ist unzureichend.
+  Nos ressources humaines sont *insuffisantes* pour gérer ce grand projet.
+  Unsere personellen Ressourcen sind *nicht ausreichend*, um dieses große Projekt zu bewältigen.
 
-  La quantité de nourriture était insuffisante pour nourrir tout le monde.
-  Die Menge an Essen reichte nicht aus, um alle zu ernähren.
+  Le nombre de places de stationnement est *insuffisant* dans ce quartier.
+  Die Anzahl der Parkplätze in diesem Viertel ist *nicht groß genug*.
+
+  La lumière est *insuffisante* pour lire confortablement dans cette pièce.
+  Das Licht ist zu *schwach*, um in diesem Raum bequem lesen zu können.
+
+  Les résultats de Pierre en mathématiques sont *insuffisants* pour passer en classe supérieure.
+  Peters Mathematikergebnisse sind *ungenügend* für die Versetzung.
+
+  Le budget alloué à la recherche reste *insuffisant* cette année.
+  Das für die Forschung zugewiesene Budget bleibt dieses Jahr *zu gering*.
+
+  Son expérience professionnelle était *insuffisante* pour le poste de direction.
+  Seine Berufserfahrung war für die Führungsposition *unzulänglich*.
+
+  La ventilation de cette salle est *insuffisante* pendant l'été.
+  Die Belüftung dieses Raums ist im Sommer *nicht ausreichend*.
+
+  Les mesures prises contre le changement climatique sont *insuffisantes*.
+  Die Maßnahmen gegen den Klimawandel sind *unzureichend*.
+
+  La qualité de ce travail est vraiment *insuffisante*.
+  Die Qualität dieser Arbeit ist wirklich *mangelhaft*.
+
+  Le nombre de médecins est *insuffisant* dans les zones rurales.
+  Die Anzahl der Ärzte in ländlichen Gebieten ist *zu gering*.
+
+  Sa préparation pour l'examen s'est révélée *insuffisante*.
+  Seine Prüfungsvorbereitung erwies sich als *unzureichend*.
+
+  Les explications données aux étudiants étaient *insuffisantes*.
+  Die den Studenten gegebenen Erklärungen waren *unzulänglich*.
+
+  Le temps accordé pour finir ce projet est *insuffisant*.
+  Die Zeit für die Fertigstellung dieses Projekts ist *nicht ausreichend*.
+
+  La protection contre le bruit s'est avérée *insuffisante*.
+  Der Lärmschutz erwies sich als *unzureichend*.
+
+  Son niveau en français est *insuffisant* pour suivre les cours.
+  Sein Französischniveau ist *zu schwach*, um dem Unterricht zu folgen.
+
+  Les précautions prises étaient *insuffisantes* pour garantir la sécurité.
+  Die getroffenen Vorsichtsmaßnahmen waren *unzureichend*, um die Sicherheit zu gewährleisten.
+
+  La connexion internet est *insuffisante* pour le télétravail.
+  Die Internetverbindung ist fürs Homeoffice *nicht ausreichend*.
+
+  L'isolation thermique de ce bâtiment est *insuffisante*.
+  Die Wärmedämmung dieses Gebäudes ist *unzureichend*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

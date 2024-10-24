@@ -13,26 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il s’attacha à dénoncer les abus et la corruption.
-  Er konzentrierte sich darauf, Missbrauch und Korruption anzuprangern.
+  Il s'attacha à *dénoncer* les abus et la corruption.
+  Er bemühte sich, die Missstände und Korruption *anzuprangern*.
 
-  Il a dénoncé son ami à la police.
-  Er hat seinen Freund bei der Polizei angezeigt.
+  Plusieurs témoins ont *dénoncé* le criminel à la police.
+  Mehrere Zeugen haben den Kriminellen bei der Polizei *angezeigt*.
 
-  Le témoin a dénoncé un complice à la police.
-  Der Zeuge hat einen Komplizen bei der Polizei verraten.
+  Je dois *dénoncer* mon contrat de location trois mois à l'avance.
+  Ich muss meinen Mietvertrag drei Monate im Voraus *kündigen*.
 
-  Le voleur a décidé de se dénoncer à la police.
-  Der Dieb hat sich entschieden, sich zu stellen.
+  Les journalistes ont *dénoncé* un scandale financier majeur.
+  Die Journalisten haben einen großen Finanzskandal *aufgedeckt*.
 
-  L'entreprise a dénoncé un contrat de façon unilatérale.
-  Das Unternehmen hat einen Vertrag unilateral gekündigt.
+  Le criminel s'est finalement *dénoncé* après des années de fuite.
+  Der Kriminelle hat sich nach Jahren auf der Flucht schließlich *gestellt*.
 
-  Le régime autoritaire a dénoncé un opposant politique à l'étranger.
-  Das autoritäre Regime hat einen Oppositionellen bei einer anderen Macht denunziert.
+  Son attitude *dénonce* un manque total de respect.
+  Seine Haltung *verrät* einen völligen Mangel an Respekt.
 
-  Le voisin a dénoncé son voisin à la police pour vol.
-  Der Nachbar hat seinen Nachbarn bei der Polizei wegen Diebstahls angezeigt.
+  Les syndicats ont *dénoncé* les conditions de travail déplorables.
+  Die Gewerkschaften haben die miserablen Arbeitsbedingungen *angeprangert*.
+
+  Le gouvernement a *dénoncé* le traité commercial.
+  Die Regierung hat das Handelsabkommen *aufgekündigt*.
+
+  Sa nervosité *dénonçait* sa culpabilité.
+  Seine Nervosität *verriet* seine Schuld.
+
+  Le complice a *dénoncé* tous les membres du gang.
+  Der Komplize hat alle Gangmitglieder *verraten*.
+
+  L'opposition a *dénoncé* les irrégularités lors des élections.
+  Die Opposition hat die Unregelmäßigkeiten bei der Wahl *angeprangert*.
+
+  Les voisins ont *dénoncé* les nuisances sonores à la mairie.
+  Die Nachbarn haben die Lärmbelästigung bei der Stadtverwaltung *angezeigt*.
+
+  Cette association *dénonce* les dangers des réseaux sociaux.
+  Dieser Verein *prangert* die Gefahren sozialer Medien *an*.
+
+  Le lanceur d'alerte s'est *dénoncé* publiquement.
+  Der Whistleblower hat sich öffentlich zu erkennen *gegeben*.
+
+  Nous devons *dénoncer* l'accord avant la fin du mois.
+  Wir müssen den Vertrag vor Ende des Monats *kündigen*.
+
+  Les experts ont *dénoncé* les risques environnementaux.
+  Die Experten haben die Umweltrisiken *angeprangert*.
+
+  Son style vestimentaire *dénonce* ses origines modestes.
+  Seine Kleidung *verrät* seine bescheidene Herkunft.
+
+  La presse a *dénoncé* un système de corruption généralisé.
+  Die Presse hat ein weitverbreitetes Korruptionssystem *aufgedeckt*.
+
+  Elle a *dénoncé* son assurance automobile.
+  Sie hat ihre Autoversicherung *gekündigt*.
+
+  Les militants *dénoncent* la destruction de la forêt.
+  Die Aktivisten *prangern* die Zerstörung des Waldes *an*.
+
+  Le suspect s'est *dénoncé* à la gendarmerie.
+  Der Verdächtige hat sich bei der Polizei *gestellt*.
+
+  L'architecte a *dénoncé* le contrat suite aux retards de paiement.
+  Der Architekt hat den Vertrag wegen Zahlungsverzug *gekündigt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

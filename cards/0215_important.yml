@@ -13,29 +13,104 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est une question extrêmement importante.
-  Dies ist eine äußerst wichtige Frage.
+  C'est une question extrêmement *importante*.
+  Das ist eine äußerst *wichtige* Frage.
 
-  C’est un point important à considérer.
-  Das ist ein wichtiger Punkt, der berücksichtigt werden muss.
+  Il a joué un rôle *important* dans le développement du projet.
+  Er hat eine *wichtige* Rolle bei der Entwicklung des Projekts gespielt.
 
-  Faire cela est très important.
-  Dies zu tun ist sehr wichtig.
+  L'*important* est de rester calme dans ces situations.
+  Die *Hauptsache* ist, in solchen Situationen ruhig zu bleiben.
 
-  Nous avons un travail important à faire ici.
-  Wir haben hier eine wichtige Aufgabe zu erfüllen.
+  "Il fait toujours l'*important* devant ses collègues."
+  "Er *gibt* immer vor seinen Kollegen *an*."
 
-  Passer du temps ensemble est important pour moi.
-  Gemeinsam Zeit zu verbringen ist wichtig für mich.
+  Une *importante* somme d'argent a été volée de la banque.
+  Eine *beträchtliche* Geldsumme wurde aus der Bank gestohlen.
 
-  Le tourisme est important pour l'économie de la région.
-  Der Tourismus ist wirtschaftsrelevant für die Region.
+  Elle occupe un poste très *important* au ministère de l'Education.
+  Sie hat einen sehr *einflussreichen* Posten im Bildungsministerium.
 
-  Nos importantes relations internationales nous permettent de collaborer avec de nombreux pays.
-  Unsere umfangreichen internationalen Beziehungen ermöglichen uns die Zusammenarbeit mit vielen Ländern.
+  Notre entreprise a subi des dommages *importants* suite à l'incendie.
+  Unser Unternehmen hat durch den Brand *erhebliche* Schäden erlitten.
 
-  Il a pris des airs importants en entrant dans la salle.
-  Er hat sich wichtig gemacht, als er den Raum betrat.
+  Nous avons un stock *important* de marchandises.
+  Wir haben einen *umfangreichen* Warenbestand.
+
+  "Il prend toujours des airs *importants* quand il parle de son travail."
+  "Er *macht* sich immer *wichtig*, wenn er von seiner Arbeit spricht."
+
+  Il est *important* d'agir rapidement dans cette situation.
+  Es ist *wichtig*, in dieser Situation schnell zu handeln.
+
+  Le plus *important* est que tout le monde soit en sécurité.
+  Das *Wichtigste* ist, dass alle in Sicherheit sind.
+
+  Une *importante* majorité a voté en faveur de la proposition.
+  Eine *beachtliche* Mehrheit hat für den Vorschlag gestimmt.
+
+  Plusieurs *importants* personnages politiques étaient présents à la cérémonie.
+  Mehrere *einflussreiche* politische Persönlichkeiten waren bei der Zeremonie anwesend.
+
+  Il m'a rendu un service très *important* hier.
+  Er hat mir gestern einen sehr *wichtigen* Dienst erwiesen.
+
+  Cette découverte jouera un rôle *important* dans la recherche médicale.
+  Diese Entdeckung wird eine *wichtige* Rolle in der medizinischen Forschung spielen.
+
+  Nous avons reçu un avis *important* de la direction.
+  Wir haben eine *wichtige* Mitteilung von der Leitung erhalten.
+
+  D'*importants* travaux de rénovation sont prévus pour l'année prochaine.
+  *Umfangreiche* Renovierungsarbeiten sind für nächstes Jahr geplant.
+
+  Cette usine est la plus *importante* de la région.
+  Diese Fabrik ist die *bedeutendste* der Region.
+
+  Il est devenu un industriel très *important* dans le secteur automobile.
+  Er ist ein sehr *einflussreicher* Industrieller in der Automobilbranche geworden.
+
+  Des capitaux *importants* ont été investis dans ce projet.
+  *Beträchtliche* Kapitalien wurden in dieses Projekt investiert.
+
+  Une foule *importante* s'est rassemblée devant le bâtiment.
+  Eine *beachtliche* Menschenmenge hat sich vor dem Gebäude versammelt.
+
+  Il a écrit un article *important* sur le changement climatique.
+  Er hat einen *wichtigen* Artikel über den Klimawandel geschrieben.
+
+  L'*important* n'est pas de gagner, mais de participer.
+  Das *Wichtige* ist nicht zu gewinnen, sondern teilzunehmen.
+
+  Cette décision aura des conséquences *importantes* pour l'avenir.
+  Diese Entscheidung wird *bedeutende* Folgen für die Zukunft haben.
+
+  Nous avons signé un contrat *important* avec un nouveau client.
+  Wir haben einen *bedeutenden* Vertrag mit einem neuen Kunden unterschrieben.
+
+  Elle assume des responsabilités *importantes* dans son nouveau poste.
+  Sie übernimmt *wichtige* Verantwortungen in ihrer neuen Position.
+
+  Un *important* retard est à prévoir sur cette ligne de train.
+  Auf dieser Bahnlinie ist mit einer *erheblichen* Verspätung zu rechnen.
+
+  Notre entreprise entretient d'*importantes* relations internationales.
+  Unser Unternehmen pflegt *umfangreiche* internationale Beziehungen.
+
+  Il est *important* de bien dormir pour rester en bonne santé.
+  Es ist *wichtig*, gut zu schlafen, um gesund zu bleiben.
+
+  C'est le changement le plus *important* depuis des années.
+  Das ist die *wichtigste* Veränderung seit Jahren.
+
+  Les dégâts ne sont pas très *importants*.
+  Die Schäden sind nicht sehr *erheblich*.
+
+  Nous avons réalisé d'*importantes* économies cette année.
+  Wir haben dieses Jahr *beachtliche* Einsparungen erzielt.
+
+  Elle occupe une fonction *importante* dans l'administration.
+  Sie hat eine *bedeutende* Funktion in der Verwaltung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

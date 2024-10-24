@@ -13,35 +13,101 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est ce qu’on appelle un abandon de poste.
-  Dies wird als Verlassen des Arbeitsplatzes bezeichnet.
+  C’est ce qu’on appelle un *abandon* de poste.
+  Dies wird als *Verlassen* des Arbeitsplatzes bezeichnet.
 
-  Il a fait preuve d’abandon.
-  Er hat sich aufgegeben.
+  Les enfants passent des heures dans ce jardin *abandonné*.
+  Die Kinder verbringen Stunden in diesem *verlassenen* Garten.
 
-  Ils ont laissé ce vieux château à l'abandon, et il est maintenant en ruine.
-  Sie haben dieses alte Schloss verkommen lassen, und es ist jetzt eine Ruine.
+  Il a *abandonné* ses études pour devenir musicien.
+  Er hat sein Studium *abgebrochen*, um Musiker zu werden.
 
-  L'abandon d'une méthode de travail efficace peut avoir des conséquences négatives.
-  Der Verzicht auf eine effiziente Arbeitsmethode kann negative Folgen haben.
+  La maison était *à l'abandon* depuis des années.
+  Das Haus war seit Jahren *verwahrlost*.
 
-  Le roi a annoncé son abandon du pouvoir et a désigné son fils comme successeur.
-  Der König hat seinen Verzicht auf die Macht angekündigt und seinen Sohn als Nachfolger bestimmt.
+  Après son *abandon* au marathon, elle s'est jurée de revenir plus forte.
+  Nach ihrer *Aufgabe* beim Marathon schwor sie sich, stärker zurückzukommen.
 
-  Le coureur a gagné la course par abandon de ses adversaires.
-  Der Läufer hat das Rennen durch Aufgabe seiner Gegner gewonnen.
+  Le cycliste a dû *abandonner* la course à cause d'une blessure.
+  Der Radfahrer musste das Rennen wegen einer Verletzung *aufgeben*.
 
-  La maison à l'abandon est devenue un repaire pour les rats et les souris.
-  Das verkommene Haus ist zu einem Unterschlupf für Ratten und Mäuse geworden.
+  Elle parle avec *abandon* de ses projets futurs.
+  Sie spricht mit *Ungezwungenheit* über ihre Zukunftspläne.
 
-  Une politique d'abandon des régions rurales a conduit à leur dépeuplement.
-  Eine Verzichtspolitik gegenüber den ländlichen Regionen hat zu ihrer Entvölkerung geführt.
+  L'*abandon* des recherches a été annoncé hier soir.
+  Die *Einstellung* der Forschungen wurde gestern Abend bekannt gegeben.
 
-  La clause d'abandon du contrat stipule que les parties peuvent se retirer à tout moment.
-  Die Abandonklausel des Vertrages besagt, dass die Parteien jederzeit zurücktreten können.
+  Cette vieille usine *abandonnée* devient un lieu de création artistique.
+  Diese alte *verlassene* Fabrik wird zu einem Ort künstlerischen Schaffens.
 
-  Il y a eu de nombreux abandons lors de la course à pied, car le parcours était particulièrement difficile.
-  Zahlreiche Teilnehmer haben das Laufrennen aufgegeben, da die Strecke besonders schwierig war.
+  L'*abandon* de cette méthode traditionnelle a surpris tout le monde.
+  Der *Verzicht* auf diese traditionelle Methode hat alle überrascht.
+
+  Il a ressenti un profond sentiment d'*abandon*.
+  Er verspürte ein tiefes Gefühl des *Verlassenseins*.
+
+  La ville a décidé d'*abandonner* ce projet coûteux.
+  Die Stadt hat beschlossen, dieses teure Projekt *aufzugeben*.
+
+  Son *abandon* du pouvoir a été inattendu.
+  Sein *Verzicht* auf die Macht kam unerwartet.
+
+  Cette route *abandonnée* mène nulle part.
+  Diese *verlassene* Straße führt ins Nichts.
+
+  L'équipe a dû *abandonner* les fouilles à cause de la pluie.
+  Das Team musste die Ausgrabungen wegen des Regens *abbrechen*.
+
+  Le terrain est resté *à l'abandon* pendant des décennies.
+  Das Grundstück blieb jahrzehntelang *verwildert*.
+
+  Ces vieux papiers ont été *abandonnés* dans le grenier.
+  Diese alten Papiere wurden auf dem Dachboden *zurückgelassen*.
+
+  L'*abandon* des locomotives à vapeur s'est fait progressivement.
+  Die *Aufgabe* der Dampflokomotiven erfolgte schrittweise.
+
+  Elle s'est laissée aller avec *abandon* dans ses bras.
+  Sie hat sich mit völliger *Hingabe* in seine Arme fallen lassen.
+
+  Plusieurs coureurs ont dû *abandonner* à cause de la chaleur.
+  Mehrere Läufer mussten wegen der Hitze *aufgeben*.
+
+  Le gouvernement a *abandonné* cette politique controversée.
+  Die Regierung hat diese umstrittene Politik *aufgegeben*.
+
+  Cette politique d'*abandon* a été vivement critiquée.
+  Diese *Verzichts*politik wurde scharf kritisiert.
+
+  L'*abandon* de la vieille méthode s'est révélé bénéfique.
+  Die *Aufgabe* der alten Methode erwies sich als vorteilhaft.
+
+  Il y a eu trois *abandons* pendant la première étape du Tour.
+  Es gab drei *Ausfälle* während der ersten Etappe der Tour.
+
+  Le boxeur a été déclaré vainqueur par *abandon*.
+  Der Boxer wurde zum Sieger durch *Aufgabe* erklärt.
+
+  Cette région est menacée d'*abandon*.
+  Diese Region ist von *Verödung* bedroht.
+
+  Les villages *abandonnés* racontent l'histoire de l'exode rural.
+  Die *verlassenen* Dörfer erzählen die Geschichte der Landflucht.
+
+  Son *abandon* du projet a déçu toute l'équipe.
+  Seine *Aufgabe* des Projekts hat das ganze Team enttäuscht.
+
+  Elle dansait avec un gracieux *abandon*.
+  Sie tanzte mit anmutiger *Ungezwungenheit*.
+
+  Les chercheurs ont dû *abandonner* leurs expériences.
+  Die Forscher mussten ihre Experimente *abbrechen*.
+
+  Cette maison *abandonnée* sera bientôt rénovée.
+  Dieses *verlassene* Haus wird bald renoviert.
+
+  L'*abandon* des anciennes traditions inquiète les habitants.
+  Die *Aufgabe* der alten Traditionen beunruhigt die Einwohner.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
