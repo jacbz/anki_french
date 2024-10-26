@@ -13,38 +13,164 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce n’est pas à moi de juger ça.
-  Es steht mir nicht zu, das zu beurteilen.
+  Ce n'est pas à moi de *juger* ça.
+  Es steht mir nicht zu, das zu *beurteilen*.
 
-  Il faut juger cette situation avec attention.
-  Wir müssen diese Situation sorgfältig beurteilen.
+  Le tribunal *jugera* cette affaire la semaine prochaine.
+  Das Gericht wird diesen Fall nächste Woche *verhandeln*.
 
-  Le tribunal jugera le procès pour vol de voiture.
-  Das Gericht wird über den Prozess wegen Autodiebstahls entscheiden.
+  Marie a été *jugée* coupable de fraude.
+  Marie wurde des Betrugs für *schuldig* befunden.
 
-  Il est à toi de juger si c'est nécessaire de changer de stratégie.
-  Du musst entscheiden, ob es nötig ist, die Strategie zu ändern.
+  Il ne faut pas *juger* les gens sur leur apparence.
+  Man sollte Menschen nicht nach ihrem Äußeren *beurteilen*.
 
-  Il faut juger les personnes d'après leurs actes.
-  Man muss Menschen nach ihren Taten beurteilen.
+  L'histoire *jugera* ses actions.
+  Die Geschichte wird über seine Taten *urteilen*.
 
-  Il juge son voisin stupide, car il ne comprend pas ses arguments.
-  Er hält seinen Nachbarn für dumm, da er seine Argumente nicht versteht.
+  Je me suis *jugé* trop vieux pour cette activité.
+  Ich hielt mich für zu alt für diese Aktivität.
 
-  Il juge l'idée ridicule, mais il ne l'explique pas.
-  Er hält die Idee für lächerlich, aber er erklärt es nicht.
+  Le juge a *jugé* en faveur du plaignant.
+  Der Richter hat zugunsten des Klägers *entschieden*.
 
-  Juge de la beauté du paysage, c'est magnifique.
-  Stell dir die Schönheit der Landschaft vor, sie ist wunderschön.
+  *Jugez* par vous-même !
+  *Urteilen* Sie selbst!
 
-  Il se juge incapable de faire face à ses responsabilités.
-  Er hält sich für unfähig, seinen Pflichten nachzukommen.
+  À en *juger* par son sourire, elle était contente.
+  Nach ihrem Lächeln zu *urteilen*, war sie zufrieden.
 
-  Le juge l'a jugé coupable de meurtre.
-  Der Richter hat ihn des Mordes schuldig befunden.
+  L'affaire se *juge* aujourd'hui.
+  Der Fall wird heute *verhandelt*.
 
-  Le juge a jugé en faveur de la partie demanderesse.
-  Der Richter hat für den Kläger entschieden.
+  Il a été *jugé* pour vol.
+  Er wurde wegen Diebstahls *verurteilt*.
+
+  Je me *juge* incapable de faire ça.
+  Ich halte mich für unfähig, das zu tun.
+
+  Autant que je puisse en *juger*, il dit la vérité.
+  Soweit ich das *beurteilen* kann, sagt er die Wahrheit.
+
+  Le jury doit *juger* les candidats équitablement.
+  Die Jury muss die Kandidaten fair *bewerten*.
+
+  Elle a *jugé* bon de partir tôt.
+  Sie hielt es für angebracht, früh zu gehen.
+
+  *Jugez* de ma surprise quand je l'ai vu !
+  Stellen Sie sich meine Überraschung vor, als ich ihn sah!
+
+  Le comité *jugera* de la qualité du projet.
+  Das Komitee wird über die Qualität des Projekts *entscheiden*.
+
+  Nous l'avons mal *jugé*.
+  Wir haben ihn falsch *eingeschätzt*.
+
+  C'est à vous de *juger* si c'est nécessaire.
+  Sie müssen *entscheiden*, ob das notwendig ist.
+
+  Cette décision a été *jugée* inappropriée.
+  Diese Entscheidung wurde als unangemessen *bewertet*.
+
+  Il *juge* tout sans être informé.
+  Er *urteilt* über alles, ohne informiert zu sein.
+
+  Le professeur doit *juger* les performances des élèves.
+  Der Lehrer muss die Leistungen der Schüler *bewerten*.
+
+  Il s'est *jugé* perdu dans cette situation.
+  Er hielt sich in dieser Situation für verloren.
+
+  Je ne peux pas *juger* de la distance exacte.
+  Ich kann die genaue Entfernung nicht *einschätzen*.
+
+  Elle a été *jugée* à sa juste valeur.
+  Sie wurde nach ihrem wahren Wert *eingeschätzt*.
+
+  Le jury a *jugé* son travail excellent.
+  Die Jury hat seine Arbeit als ausgezeichnet *bewertet*.
+
+  Il faut *juger* sur les faits, pas sur les rumeurs.
+  Man muss nach Fakten *urteilen*, nicht nach Gerüchten.
+
+  Je *juge* qu'il est temps de partir.
+  Ich *finde*, dass es Zeit ist zu gehen.
+
+  Ils ont *jugé* la situation dangereuse.
+  Sie haben die Situation als gefährlich *eingestuft*.
+
+  Le tribunal *jugera* de cette dispute.
+  Das Gericht wird über diesen Streit *entscheiden*.
+
+  Elle s'est *jugée* trop jeune pour ce poste.
+  Sie hielt sich für zu jung für diese Position.
+
+  Comment *jugez*-vous ses chances de réussite ?
+  Wie *schätzen* Sie seine Erfolgschancen ein?
+
+  Il a été *jugé* responsable de l'accident.
+  Er wurde für den Unfall *verantwortlich* gemacht.
+
+  Le comité *jugera* les œuvres d'art demain.
+  Das Komitee wird morgen die Kunstwerke *bewerten*.
+
+  Nous avons mal *jugé* la situation.
+  Wir haben die Situation falsch *eingeschätzt*.
+
+  Je ne peux pas *juger* de ses intentions.
+  Ich kann seine Absichten nicht *beurteilen*.
+
+  Elle *juge* nécessaire d'intervenir.
+  Sie hält es für notwendig einzugreifen.
+
+  Le public *jugera* de la qualité du spectacle.
+  Das Publikum wird über die Qualität der Aufführung *urteilen*.
+
+  Il s'est *jugé* capable de réussir.
+  Er traute sich zu, erfolgreich zu sein.
+
+  Le jury va *juger* les participants au concours.
+  Die Jury wird die Teilnehmer des Wettbewerbs *bewerten*.
+
+  On l'a *jugé* incompétent.
+  Man hat ihn als inkompetent *eingestuft*.
+
+  Il faut *juger* sur pièces.
+  Man muss anhand der Beweise *urteilen*.
+
+  Elle *juge* que c'est une bonne idée.
+  Sie ist der Meinung, dass das eine gute Idee ist.
+
+  Le temps *jugera* de la pertinence de cette décision.
+  Die Zeit wird über die Richtigkeit dieser Entscheidung *urteilen*.
+
+  Je ne peux pas *juger* de la gravité de la situation.
+  Ich kann den Ernst der Lage nicht *einschätzen*.
+
+  Ils ont *jugé* préférable d'attendre.
+  Sie hielten es für besser zu warten.
+
+  On ne peut pas *juger* un livre sur sa couverture.
+  Man kann ein Buch nicht nach seinem Umschlag *beurteilen*.
+
+  Le conseil devra *juger* de cette proposition.
+  Der Rat wird über diesen Vorschlag *entscheiden* müssen.
+
+  Elle s'est *jugée* prête pour le défi.
+  Sie hielt sich für die Herausforderung bereit.
+
+  Je *juge* important de vous informer.
+  Ich halte es für wichtig, Sie zu informieren.
+
+  Il a été *jugé* digne de confiance.
+  Er wurde als vertrauenswürdig *eingestuft*.
+
+  Le médecin *jugera* de votre aptitude à travailler.
+  Der Arzt wird über Ihre Arbeitsfähigkeit *befinden*.
+
+  Nous devons *juger* chaque cas individuellement.
+  Wir müssen jeden Fall einzeln *beurteilen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

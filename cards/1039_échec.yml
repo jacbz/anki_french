@@ -13,38 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’objectif central est de combattre l’échec scolaire.
-  Das zentrale Ziel ist die Bekämpfung des Schulversagens.
+  L'objectif central est de combattre l'*échec* scolaire.
+  Das zentrale Ziel ist die Bekämpfung des Schul*versagens*.
 
-  Le projet a connu un échec.
-  Das Projekt hat einen Misserfolg erlitten.
+  Les négociations ont abouti à un *échec* total.
+  Die Verhandlungen sind komplett ge*scheitert*.
 
-  Pierre a connu un échec scolaire important, ce qui a déçu ses parents.
-  Pierre hat ein schweres Schulversagen erlebt, was seine Eltern enttäuscht hat.
+  Son *échec* à l'examen l'a beaucoup découragé.
+  Sein *Misserfolg* bei der Prüfung hat ihn sehr entmutigt.
 
-  Le projet est voué à l'échec, il n'y a aucune chance de réussite.
-  Das Projekt ist zum Scheitern verurteilt, es hat keine Aussicht auf Erfolg.
+  Ma grand-mère m'a appris à jouer aux *échecs*.
+  Meine Großmutter hat mir *Schach* spielen beigebracht.
 
-  Les négociations ont fait échec, les deux parties n'ont pas réussi à trouver un accord.
-  Die Verhandlungen sind gescheitert, die beiden Parteien konnten keine Einigung erzielen.
+  Le champion d'*échecs* s'entraîne quatre heures par jour.
+  Der *Schach*meister trainiert täglich vier Stunden.
 
-  Le roi est en échec et mat, il n'a plus aucun mouvement possible.
-  Der König ist Schachmatt, er hat keinen Zug mehr.
+  Cette pièce de théâtre fut un *échec* retentissant.
+  Dieses Theaterstück war ein gewaltiger *Misserfolg*.
 
-  Le joueur blanc est en échec, il doit trouver un moyen de se protéger.
-  Der weiße Spieler ist im Schach, er muss eine Möglichkeit finden, sich zu schützen.
+  Elle participe à un tournoi d'*échecs* par correspondance.
+  Sie nimmt an einem Fern*schach*turnier teil.
 
-  Le joueur noir s'est lui-même mis en échec et mat en déplaçant son fou.
-  Der schwarze Spieler hat sich selbst Schachmatt gesetzt, indem er seinen Läufer verschoben hat.
+  Les recherches ont connu un *échec* inattendu.
+  Die Forschungen sind unerwartet ge*scheitert*.
 
-  Il n'admet pas son échec à l'examen, il prétend avoir été victime d'une injustice.
-  Er gibt nicht zu, durch die Prüfung gefallen zu sein, er behauptet, Opfer einer Ungerechtigkeit geworden zu sein.
+  Le roi est en *échec*, il faut le protéger.
+  Der König steht im *Schach*, er muss geschützt werden.
 
-  Jean adore jouer aux échecs, il passe des heures à réfléchir à ses coups.
-  Jean liebt es, Schach zu spielen, er verbringt Stunden damit, über seine Züge nachzudenken.
+  Notre équipe a tenu l'adversaire en *échec* pendant tout le match.
+  Unser Team hat den Gegner das ganze Spiel lang in *Schach* gehalten.
 
-  Les échecs éclair sont un format de jeu très intense et exigeant.
-  Blitzschach ist eine sehr intensive und anspruchsvolle Spielform.
+  Les *échecs* éclair demandent beaucoup de concentration.
+  *Blitzschach* erfordert viel Konzentration.
+
+  Cette tentative était vouée à l'*échec* dès le début.
+  Dieser Versuch war von Anfang an zum *Scheitern* verurteilt.
+
+  Le nouveau club d'*échecs* ouvre ses portes demain.
+  Der neue *Schach*klub öffnet morgen seine Türen.
+
+  Il a subi trois *échecs* consécutifs aux examens.
+  Er ist dreimal hintereinander durch die Prüfungen ge*fallen*.
+
+  La défense a fait *échec* à toutes les attaques.
+  Die Verteidigung hat alle Angriffe zum *Scheitern* gebracht.
+
+  Mon frère collectionne les jeux d'*échecs* anciens.
+  Mein Bruder sammelt antike *Schach*spiele.
+
+  L'*échec* de ce projet a coûté des millions.
+  Das *Scheitern* dieses Projekts hat Millionen gekostet.
+
+  Le joueur a réussi un *échec* à la découverte.
+  Dem Spieler gelang ein Ab*zug*schach.
+
+  Cette stratégie a permis d'éviter l'*échec*.
+  Diese Strategie hat das *Scheitern* verhindert.
+
+  L'*échec* double est une tactique puissante aux *échecs*.
+  Das Doppel*schach* ist eine mächtige Taktik beim Schachspiel.
+
+  Son *échec* commercial l'a poussé à changer de carrière.
+  Sein geschäftlicher *Misserfolg* hat ihn zu einem Berufswechsel bewogen.
+
+  Les pièces d'*échecs* sont sculptées à la main.
+  Die *Schach*figuren sind handgeschnitzt.
+
+  Cette réforme s'est soldée par un *échec*.
+  Diese Reform endete im *Scheitern*.
+
+  Le roi noir est *échec* et mat en trois coups.
+  Der schwarze König ist in drei Zügen *schachmatt*.
+
+  L'*échec* du lancement a déçu toute l'équipe.
+  Das *Scheitern* des Starts hat das ganze Team enttäuscht.
+
+  Le championnat d'*échecs* aura lieu à Paris.
+  Die *Schach*meisterschaft wird in Paris stattfinden.
+
+  Son premier roman fut un *échec* cuisant.
+  Sein erster Roman war ein vernichtender *Misserfolg*.
+
+  Les *échecs* développent la pensée stratégique.
+  *Schach* entwickelt das strategische Denken.
+
+  Cette décision politique fut un *échec* total.
+  Diese politische Entscheidung war ein totaler *Fehlschlag*.
+
+  Après plusieurs *échecs*, elle a enfin réussi.
+  Nach mehreren *Misserfolgen* hat sie es endlich geschafft.
+
+  Les deux joueurs d'*échecs* se concentrent intensément.
+  Die beiden *Schach*spieler konzentrieren sich intensiv.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

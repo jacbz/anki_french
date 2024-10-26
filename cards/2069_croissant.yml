@@ -13,23 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La compétition avec les États-Unis ira croissant.
-  Der Wettbewerb mit den Vereinigten Staaten wird zunehmen.
+  La compétition avec les États-Unis ira *croissant*.
+  Der Wettbewerb mit den USA wird *zunehmen*.
 
-  Je prends un croissant et un café.
-  Ich nehme ein Croissant und einen Kaffee.
+  La fièvre *croissante* l'empêchait de dormir.
+  Das *steigende* Fieber hinderte ihn am Schlafen.
 
-  Le pain en croissant est très populaire en France.
-  Das sichelförmige Brot ist in Frankreich sehr beliebt.
+  Je préfère manger un *croissant* aux amandes pour le petit-déjeuner.
+  Zum Frühstück esse ich lieber ein Mandel*hörnchen*.
 
-  Le nombre croissant des voitures sur les routes cause des embouteillages.
-  Die steigende Anzahl der Autos auf den Straßen verursacht Staus.
+  Le *croissant* de lune illuminait faiblement le jardin.
+  Die Mond*sichel* erhellte schwach den Garten.
 
-  Le Croissant-Rouge est une organisation humanitaire.
-  Der Rote Halbmond ist eine humanitäre Organisation.
+  Face à une demande *croissante*, nous devons augmenter la production.
+  Angesichts der *steigenden* Nachfrage müssen wir die Produktion erhöhen.
 
-  Il faut effectuer un tri croissant des données avant de les analyser.
-  Man muss die Dateien aufsteigend sortieren, bevor man sie analysiert.
+  Le *Croissant-Rouge* apporte une aide humanitaire dans la région.
+  Der *Rote Halbmond* leistet humanitäre Hilfe in der Region.
+
+  "Tu veux un *croissant* au beurre ou nature ?"
+  "Möchtest du ein Butter*hörnchen* oder ein normales?"
+
+  Les scientifiques ont observé un *croissant* de Vénus particulièrement net ce soir-là.
+  Die Wissenschaftler beobachteten an diesem Abend eine besonders deutliche Venus*sichel*.
+
+  Son anxiété *croissante* commençait à affecter son travail.
+  Seine *zunehmende* Angst begann seine Arbeit zu beeinträchtigen.
+
+  La boulangerie vend des *croissants* tout chauds dès 7 heures.
+  Die Bäckerei verkauft ab 7 Uhr ofenfrische *Hörnchen*.
+
+  Les données sont classées par ordre *croissant*.
+  Die Daten sind in *aufsteigender* Reihenfolge sortiert.
+
+  Le *croissant* est devenu un symbole important de l'islam.
+  Der *Halbmond* wurde zu einem wichtigen Symbol des Islam.
+
+  Les troupes se sont disposées en *croissant* autour de la ville.
+  Die Truppen stellten sich *sichelförmig* um die Stadt auf.
+
+  Notre équipe fait face à une pression *croissante*.
+  Unser Team steht unter *wachsendem* Druck.
+
+  J'utilise un *croissant* pour élaguer les branches hautes.
+  Ich benutze eine Baum*sichel* zum Beschneiden der hohen Äste.
+
+  Le nombre *croissant* de touristes pose des problèmes environnementaux.
+  Die *steigende* Anzahl von Touristen verursacht Umweltprobleme.
+
+  Le *Croissant* fertile était le berceau de plusieurs civilisations.
+  Der Fruchtbare *Halbmond* war die Wiege mehrerer Zivilisationen.
+
+  Cette fonction mathématique est strictement *croissante*.
+  Diese mathematische Funktion ist streng *steigend*.
+
+  La lune apparaît en *croissant* ce soir.
+  Der Mond erscheint heute Abend als *Sichel*.
+
+  Il y a une irritation *croissante* entre les deux pays.
+  Es gibt eine *zunehmende* Gereiztheit zwischen den beiden Ländern.
+
+  Les *croissants* de cette boulangerie sont délicieux.
+  Die *Hörnchen* dieser Bäckerei sind köstlich.
+
+  Une population *croissante* vit dans les grandes villes.
+  Eine *wachsende* Bevölkerung lebt in den Großstädten.
+
+  La frise décorative alterne cercles et *croissants*.
+  Der Zierfries wechselt zwischen Kreisen und *Halbmonden*.
+
+  Le jardinier range ses outils sur le *croissant* de la cheminée.
+  Der Gärtner stellt seine Werkzeuge auf den *Halbmond* des Kamins.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

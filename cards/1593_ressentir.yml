@@ -13,29 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est alors qu’il ressentit, dans sa nuque, la douleur.
-  Da spürte er den Schmerz in seinem Nacken.
+  C'est alors qu'il *ressentit*, dans sa nuque, la douleur.
+  Da *spürte* er den Schmerz in seinem Nacken.
 
-  Je ressens de la tristesse.
-  Ich empfinde Traurigkeit.
+  Tous les spectateurs ont *ressenti* la tension pendant le match final.
+  Alle Zuschauer *spürten* die Spannung während des Finalspiels.
 
-  Je ressens la même chose que toi.
-  Ich fühle das Gleiche wie du.
+  Elle *ressent* une profonde tristesse depuis le départ de son ami.
+  Sie *empfindet* eine tiefe Traurigkeit seit dem Weggang ihres Freundes.
 
-  Le froid se fait vivement ressentir en cette saison.
-  Die Kälte ist in dieser Jahreszeit deutlich spürbar.
+  Les habitants *ressentent* toujours les effets du tremblement de terre.
+  Die Bewohner *spüren* noch immer die Auswirkungen des Erdbebens.
 
-  Il se ressent encore de sa chute, même s'il est remis sur pied.
-  Er spürt immer noch die Nachwirkungen seines Sturzes, obwohl er wieder auf den Beinen ist.
+  Marie *ressent* beaucoup d'admiration pour son professeur de musique.
+  Marie *empfindet* große Bewunderung für ihre Musiklehrerin.
 
-  Il ressent l'amour comme un sentiment de chaleur et de bonheur.
-  Er empfindet Liebe als ein Gefühl von Wärme und Glück.
+  Je *ressens* une grande fatigue après cette longue journée de travail.
+  Ich *spüre* eine große Müdigkeit nach diesem langen Arbeitstag.
 
-  Le manque de sommeil se fait ressentir sur sa concentration.
-  Der Schlafmangel wirkt sich auf seine Konzentration aus.
+  Il se *ressentira* longtemps de cette blessure au genou.
+  Er wird die Nachwirkungen dieser Knieverletzung noch lange *spüren*.
 
-  C'est la qualité des produits qui s'en ressentira, si on réduit les coûts de production.
-  Das wird sich auf die Qualität der Produkte auswirken, wenn man die Produktionskosten senkt.
+  La qualité du produit se *ressent* du manque d'investissement.
+  Die Qualität des Produkts *leidet* unter den fehlenden Investitionen.
+
+  Les plantes *ressentent* déjà les premiers effets du printemps.
+  Die Pflanzen *spüren* bereits die ersten Anzeichen des Frühlings.
+
+  Je *ressens* le besoin de faire une pause.
+  Ich *verspüre* das Bedürfnis, eine Pause zu machen.
+
+  L'économie se *ressent* encore de la crise financière.
+  Die Wirtschaft *leidet* noch immer unter den Folgen der Finanzkrise.
+
+  Pierre *ressentait* une grande joie à l'idée de revoir sa famille.
+  Pierre *empfand* große Freude bei dem Gedanken, seine Familie wiederzusehen.
+
+  L'équipe se *ressent* du départ de son meilleur joueur.
+  Das Team *spürt* den Weggang seines besten Spielers.
+
+  Elle *ressent* chaque note de musique jusqu'au plus profond de son âme.
+  Sie *empfindet* jede Musiknote bis in ihre tiefste Seele.
+
+  Nous *ressentons* tous différemment la chaleur.
+  Wir *empfinden* die Hitze alle unterschiedlich.
+
+  L'entreprise se *ressent* de la mauvaise gestion précédente.
+  Das Unternehmen *leidet* unter der schlechten vorherigen Führung.
+
+  Les enfants *ressentent* souvent l'anxiété de leurs parents.
+  Kinder *spüren* oft die Ängste ihrer Eltern.
+
+  Il *ressent* encore les effets du décalage horaire.
+  Er *spürt* noch immer die Auswirkungen des Jetlags.
+
+  La société tout entière *ressent* les effets du changement climatique.
+  Die gesamte Gesellschaft *spürt* die Auswirkungen des Klimawandels.
+
+  Elle *ressentait* un profond malaise dans cette situation.
+  Sie *empfand* ein tiefes Unbehagen in dieser Situation.
+
+  Son travail se *ressent* de sa passion pour l'art.
+  Seine Arbeit *zeigt* seine Leidenschaft für die Kunst.
+
+  Je *ressens* une grande fierté devant les progrès de mes élèves.
+  Ich *empfinde* großen Stolz über die Fortschritte meiner Schüler.
+
+  Il *ressentit* immédiatement les bienfaits du massage.
+  Er *spürte* sofort die wohltuende Wirkung der Massage.
+
+  L'artiste *ressent* profondément les émotions qu'il exprime dans ses œuvres.
+  Der Künstler *empfindet* die Emotionen, die er in seinen Werken ausdrückt, zutiefst.
+
+  Les vignes se *ressentent* de la sécheresse cette année.
+  Die Weinreben *leiden* dieses Jahr unter der Trockenheit.
+
+  Thomas *ressent* une forte attirance pour la photographie.
+  Thomas *empfindet* eine starke Anziehung zur Fotografie.
+
+  Je me *ressens* encore de cette longue randonnée.
+  Ich *spüre* noch immer die Nachwirkungen dieser langen Wanderung.
+
+  Le public *ressent* intensément l'émotion de cette scène.
+  Das Publikum *empfindet* die Emotion dieser Szene sehr intensiv.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

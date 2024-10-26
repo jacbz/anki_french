@@ -13,17 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les témoignages étaient douloureux à entendre.
-  Die Aussagen waren schmerzhaft zu hören.
+  Les témoignages étaient *douloureux* à entendre.
+  Die Zeugenaussagen waren *schmerzlich* anzuhören.
 
-  C’est une expérience très douloureuse.
-  Das ist eine sehr schmerzhafte Erfahrung.
+  La blessure à mon genou était très *douloureuse*.
+  Die Verletzung an meinem Knie war sehr *schmerzhaft*.
 
-  La blessure était très douloureuse, il a fallu l'emmener à l'hôpital.
-  Die Verletzung war schmerzvoll, man musste ihn ins Krankenhaus bringen.
+  Cette articulation devient de plus en plus *douloureuse* avec l'âge.
+  Dieses Gelenk wird mit dem Alter immer *schmerzender*.
 
-  Le réveil douloureux de la population a été provoqué par la nouvelle du tremblement de terre.
-  Das böse Erwachen der Bevölkerung wurde durch die Nachricht vom Erdbeben ausgelöst.
+  Son regard *douloureux* en disait long sur sa souffrance.
+  Sein *schmerzerfüllter* Blick sagte viel über sein Leid aus.
+
+  L'opération sera un peu *douloureuse*, mais nécessaire.
+  Die Operation wird etwas *schmerzhaft* sein, aber notwendig.
+
+  Elle a poussé un cri *douloureux* quand elle est tombée.
+  Sie stieß einen *schmerzerfüllten* Schrei aus, als sie fiel.
+
+  Le divorce a été une expérience particulièrement *douloureuse* pour les enfants.
+  Die Scheidung war eine besonders *schmerzliche* Erfahrung für die Kinder.
+
+  Mes muscles sont *douloureux* après l'entraînement d'hier.
+  Meine Muskeln sind nach dem gestrigen Training *schmerzend*.
+
+  Cette sensation *douloureuse* ne disparaît pas depuis des jours.
+  Dieses *schmerzhafte* Gefühl verschwindet seit Tagen nicht.
+
+  La perte de son ami d'enfance reste *douloureuse* même après des années.
+  Der Verlust seines Kindheitsfreundes bleibt auch nach Jahren *schmerzlich*.
+
+  "Apporte-moi la *douloureuse*", a demandé le client au serveur.
+  "Bring mir die *Rechnung*", bat der Gast den Kellner.
+
+  Son absence laisse un vide *douloureux* dans nos cœurs.
+  Seine Abwesenheit hinterlässt eine *schmerzliche* Leere in unseren Herzen.
+
+  Cette décision a été très *douloureuse* à prendre.
+  Diese Entscheidung war sehr *schmerzlich* zu treffen.
+
+  Le dentiste m'a dit que cette dent *douloureuse* devait être traitée.
+  Der Zahnarzt sagte mir, dass dieser *schmerzende* Zahn behandelt werden müsse.
+
+  Les souvenirs *douloureux* de la guerre le hantent encore.
+  Die *schmerzlichen* Kriegserinnerungen verfolgen ihn noch immer.
+
+  Le traitement sera un peu *douloureux*, mais efficace.
+  Die Behandlung wird etwas *schmerzhaft* sein, aber wirksam.
+
+  Elle a eu une enfance particulièrement *douloureuse*.
+  Sie hatte eine besonders *schmerzvolle* Kindheit.
+
+  Ces moments *douloureux* nous ont rendus plus forts.
+  Diese *schmerzlichen* Momente haben uns stärker gemacht.
+
+  La migraine devient de plus en plus *douloureuse*.
+  Die Migräne wird immer *schmerzhafter*.
+
+  Son départ précipité fut *douloureux* pour toute la famille.
+  Sein überstürzter Abschied war *schmerzlich* für die ganze Familie.
+
+  Cette vérité *douloureuse* doit être acceptée.
+  Diese *schmerzliche* Wahrheit muss akzeptiert werden.
+
+  L'inflammation est devenue très *douloureuse* depuis hier.
+  Die Entzündung ist seit gestern sehr *schmerzhaft* geworden.
+
+  Le patient décrit une sensation *douloureuse* dans le bas du dos.
+  Der Patient beschreibt ein *schmerzhaftes* Gefühl im unteren Rücken.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

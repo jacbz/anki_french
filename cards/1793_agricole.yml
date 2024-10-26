@@ -13,29 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les subventions agricoles sont des taxes.
-  Agrarsubventionen sind Steuern.
+  Les subventions *agricoles* sont des taxes.
+  Die *landwirtschaftlichen* Subventionen sind Steuern.
 
-  L’exploitation agricole est située en dehors de la ville.
-  Der landwirtschaftliche Betrieb befindet sich außerhalb der Stadt.
+  Cette région *agricole* produit principalement du blé et du maïs.
+  Diese *Agrar*region produziert hauptsächlich Weizen und Mais.
 
-  Les produits agricoles sont très importants pour l'économie de la région.
-  Landwirtschaftliche Produkte sind für die Wirtschaft der Region sehr wichtig.
+  Le tracteur est la machine *agricole* la plus importante pour notre ferme.
+  Der Traktor ist die wichtigste *landwirtschaftliche* Maschine für unseren Hof.
 
-  L'ouvrier agricole a travaillé dur toute la journée.
-  Der Landarbeiter hat den ganzen Tag hart gearbeitet.
+  Les produits *agricoles* locaux sont vendus au marché tous les samedis.
+  Die lokalen *landwirtschaftlichen* Produkte werden jeden Samstag auf dem Markt verkaubt.
 
-  La machine agricole a été achetée par un fermier local.
-  Die Landmaschine wurde von einem lokalen Bauern gekauft.
+  Mon père travaille comme ouvrier *agricole* depuis vingt ans.
+  Mein Vater arbeitet seit zwanzig Jahren als *Land*arbeiter.
 
-  La région agricole est connue pour sa production de vin.
-  Die Agrarregion ist bekannt für ihre Weinproduktion.
+  L'enseignement *agricole* devient de plus en plus important dans notre société.
+  Die *landwirtschaftliche* Ausbildung wird in unserer Gesellschaft immer wichtiger.
 
-  Les travaux agricoles sont souvent pénibles.
-  Die Feldarbeit ist oft beschwerlich.
+  La France reste une grande nation *agricole* en Europe.
+  Frankreich bleibt eine große *Agrar*nation in Europa.
 
-  L'ingénieur agricole a développé une nouvelle variété de blé.
-  Die Diplomlandwirtin hat eine neue Weizensorte entwickelt.
+  Les travaux *agricoles* commencent tôt le matin.
+  Die *Feld*arbeit beginnt früh am Morgen.
+
+  Notre exploitation *agricole* s'étend sur cent hectares.
+  Unser *landwirtschaftlicher* Betrieb erstreckt sich über hundert Hektar.
+
+  La population *agricole* diminue chaque année.
+  Die *landwirtschaftliche* Bevölkerung nimmt jedes Jahr ab.
+
+  Les industries *agricoles* transforment les produits bruts en aliments.
+  Die *Agrar*industrien verarbeiten Rohprodukte zu Lebensmitteln.
+
+  Marie étudie pour devenir ingénieure *agricole*.
+  Marie studiert, um *Landwirtin* zu werden.
+
+  Le matériel *agricole* coûte très cher aujourd'hui.
+  *Landwirtschaftliche* Geräte sind heute sehr teuer.
+
+  Cette coopérative *agricole* regroupe cinquante fermiers.
+  Diese *landwirtschaftliche* Genossenschaft vereint fünfzig Bauern.
+
+  Les richesses *agricoles* de cette région sont impressionnantes.
+  Der *landwirtschaftliche* Reichtum dieser Region ist beeindruckend.
+
+  Le syndicat *agricole* défend les intérêts des fermiers.
+  Die *Landwirtschafts*gewerkschaft verteidigt die Interessen der Bauern.
+
+  Cette école *agricole* forme les futurs agriculteurs.
+  Diese *landwirtschaftliche* Schule bildet die zukünftigen Bauern aus.
+
+  Le salon *agricole* attire des milliers de visiteurs chaque année.
+  Die *Landwirtschafts*messe zieht jedes Jahr tausende Besucher an.
+
+  Les terres *agricoles* sont devenues très précieuses.
+  *Landwirtschaftliche* Flächen sind sehr wertvoll geworden.
+
+  La politique *agricole* européenne influence tous les pays membres.
+  Die europäische *Agrar*politik beeinflusst alle Mitgliedsländer.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

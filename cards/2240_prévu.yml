@@ -13,11 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La période actuelle prévue est de 92 ans.
-  Der derzeit geplante Zeitraum beträgt 92 Jahre.
+  La période actuelle *prévue* est de 92 ans.
+  Die aktuell *vorgesehene* Periode beträgt 92 Jahre.
 
-  Le voyage est prévu pour demain.
-  Die Reise ist für morgen geplant.
+  Le temps *prévu* pour demain est ensoleillé.
+  Das für morgen *vorhergesagte* Wetter ist sonnig.
+
+  Nous avions *prévu* d'aller au cinéma ce soir.
+  Wir hatten *geplant*, heute Abend ins Kino zu gehen.
+
+  Ce n'était pas *prévu* dans le budget initial.
+  Das war im ursprünglichen Budget nicht *vorgesehen*.
+
+  As-tu *prévu* quelque chose pour le week-end ?
+  Hast du für das Wochenende etwas *geplant*?
+
+  Le concert est *prévu* pour 20 heures précises.
+  Das Konzert ist für genau 20 Uhr *angesetzt*.
+
+  J'ai *prévu* un repas léger pour ce soir.
+  Ich habe für heute Abend eine leichte Mahlzeit *eingeplant*.
+
+  Tout s'est passé comme *prévu*.
+  Alles lief wie *geplant*.
+
+  Les travaux sont *prévus* jusqu'à la fin du mois.
+  Die Arbeiten sind bis Ende des Monats *vorgesehen*.
+
+  Il faut toujours *prévoir* le pire.
+  Man muss immer das Schlimmste *einkalkulieren*.
+
+  Les météorologues ont *prévu* de fortes pluies.
+  Die Meteorologen haben starke Regenfälle *vorhergesagt*.
+
+  La réunion était initialement *prévue* pour lundi.
+  Die Besprechung war ursprünglich für Montag *angesetzt*.
+
+  Nous n'avions pas *prévu* autant de monde.
+  Wir hatten nicht mit so vielen Leuten *gerechnet*.
+
+  Le projet a coûté plus cher que *prévu*.
+  Das Projekt hat mehr gekostet als *geplant*.
+
+  As-tu *prévu* assez de temps pour finir ?
+  Hast du genug Zeit *eingeplant*, um fertig zu werden?
+
+  L'arrivée du train est *prévue* à 15h30.
+  Die Ankunft des Zuges ist für 15:30 Uhr *vorgesehen*.
+
+  Elle a tout *prévu* dans les moindres détails.
+  Sie hat alles bis ins kleinste Detail *durchgeplant*.
+
+  C'était *prévu* dans le contrat initial.
+  Das war im ursprünglichen Vertrag *vorgesehen*.
+
+  Ils ont *prévu* une solution de rechange.
+  Sie haben eine Alternative *eingeplant*.
+
+  Le budget *prévu* a été dépassé de 20%.
+  Das *veranschlagte* Budget wurde um 20% überschritten.
+
+  On n'avait pas *prévu* cette complication.
+  Mit dieser Komplikation hatten wir nicht *gerechnet*.
+
+  L'événement est *prévu* pour début juin.
+  Die Veranstaltung ist für Anfang Juni *geplant*.
+
+  Il est impossible de tout *prévoir*.
+  Es ist unmöglich, alles *vorherzusehen*.
+
+  La livraison est *prévue* pour la semaine prochaine.
+  Die Lieferung ist für nächste Woche *vorgesehen*.
+
+  J'ai *prévu* trois jours pour ce travail.
+  Ich habe für diese Arbeit drei Tage *eingeplant*.
+
+  Les résultats sont meilleurs que *prévu*.
+  Die Ergebnisse sind besser als *erwartet*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

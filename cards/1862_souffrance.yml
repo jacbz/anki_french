@@ -13,20 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je connais les souffrances du monde.
-  Ich kenne das Leid der Welt.
+  Je connais les *souffrances* du monde.
+  Ich kenne das *Leid* der Welt.
 
-  Il ressentait une grande souffrance.
-  Er empfand großen Schmerz.
+  Les *souffrances* de l'accouchement ont duré plusieurs heures.
+  Die *Schmerzen* der Geburt dauerten mehrere Stunden.
 
-  Le dossier en souffrance a été remis à la police.
-  Die unerledigte Angelegenheit wurde der Polizei übergeben.
+  La *souffrance* animale est un sujet qui me tient à cœur.
+  Das *Leiden* der Tiere ist mir ein wichtiges Anliegen.
 
-  Le colis en souffrance sera renvoyé à l'expéditeur.
-  Das nicht abgeholte Paket wird an den Absender zurückgeschickt.
+  Il y a beaucoup d'adolescents en *souffrance* dans les grandes villes.
+  In den Großstädten gibt es viele Jugendliche, die *leiden*.
 
-  Le paiement en souffrance devra être réglé dans les plus brefs délais.
-  Die ausstehende Zahlung muss so schnell wie möglich beglichen werden.
+  Cette facture est en *souffrance* depuis trois mois.
+  Diese Rechnung ist seit drei Monaten *ausstehend*.
+
+  La *souffrance* physique était insupportable après l'accident.
+  Der körperliche *Schmerz* war nach dem Unfall unerträglich.
+
+  Les médecins ont détecté une *souffrance* fœtale pendant l'accouchement.
+  Die Ärzte haben während der Geburt eine fetale *Notsituation* festgestellt.
+
+  La *souffrance* au travail devient un problème majeur dans notre société.
+  Das *Leiden* am Arbeitsplatz wird zu einem großen Problem in unserer Gesellschaft.
+
+  Ce colis est en *souffrance* à la poste depuis une semaine.
+  Dieses Paket ist seit einer Woche bei der Post *liegengeblieben*.
+
+  Les *souffrances* du patient ont été apaisées par la morphine.
+  Die *Schmerzen* des Patienten wurden durch das Morphium gelindert.
+
+  Notre dossier est resté en *souffrance* pendant des mois.
+  Unsere Akte blieb monatelang *unerledigt*.
+
+  Il transforme sa *souffrance* en art.
+  Er verwandelt seinen *Schmerz* in Kunst.
+
+  Les *souffrances* psychologiques peuvent être aussi intenses que les douleurs physiques.
+  Seelische *Qualen* können genauso intensiv sein wie körperliche Schmerzen.
+
+  Ces marchandises en *souffrance* seront bientôt mises aux enchères.
+  Diese *nicht abgeholten* Waren werden bald versteigert.
+
+  La méditation peut aider à gérer la *souffrance* chronique.
+  Meditation kann helfen, chronische *Schmerzen* zu bewältigen.
+
+  As-tu lu "Les *Souffrances* du jeune Werther" de Goethe ?
+  Hast du Goethes "Die *Leiden* des jungen Werther" gelesen?
+
+  Cette fenêtre est un jour de *souffrance* selon la loi.
+  Dieses Fenster ist laut Gesetz ein *geduldetes* Lichtfenster.
+
+  La *souffrance* du cœur est plus difficile à guérir que celle du corps.
+  Der *Schmerz* des Herzens ist schwerer zu heilen als der des Körpers.
+
+  Tous les paiements en *souffrance* doivent être réglés avant la fin du mois.
+  Alle *ausstehenden* Zahlungen müssen vor Monatsende beglichen werden.
+
+  Elle a enduré d'atroces *souffrances* avant de mourir.
+  Sie hat vor ihrem Tod schreckliche *Qualen* erlitten.
+
+  Les exercices de respiration peuvent soulager la *souffrance*.
+  Atemübungen können das *Leiden* lindern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

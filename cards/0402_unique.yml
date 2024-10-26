@@ -13,38 +13,110 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai longtemps cru que tu étais unique.
-  Ich habe lange Zeit geglaubt, dass du einzigartig bist.
+  J'ai longtemps cru que tu étais *unique*.
+  Ich habe lange geglaubt, dass du *einzigartig* bist.
 
-  C’est une occasion unique.
-  Das ist eine einmalige Gelegenheit.
+  Il est merveilleux d'être *unique* en son genre.
+  Es ist wunderbar, in seiner Art *einzigartig* zu sein.
 
-  Chacun est unique.
-  Jeder Mensch ist einzigartig.
+  Mon frère est *unique* : il fait toujours rire tout le monde.
+  Mein Bruder ist *einmalig*: er bringt immer alle zum Lachen.
 
-  Chaque personne est unique.
-  Jede Person ist einzigartig.
+  La Rue des Fleurs est à sens *unique*.
+  Die Blumenstraße ist eine *Einbahn*straße.
 
-  Sophie est enfant unique, ce qui lui permet de profiter pleinement de l'attention de ses parents.
-  Sophie ist Einzelkind, was ihr ermöglicht, die volle Aufmerksamkeit ihrer Eltern zu genießen.
+  Cette opportunité est vraiment *unique*.
+  Diese Gelegenheit ist wirklich *einmalig*.
 
-  Le prix unique pour le menu du midi est de 15 euros.
-  Der Einheitspreis für das Mittagsmenü beträgt 15 Euro.
+  Marie est fille *unique*.
+  Marie ist ein *Einzel*kind.
 
-  Ce château, avec son architecture particulière, est unique au monde.
-  Dieses Schloss mit seiner besonderen Architektur ist einmalig auf der Welt.
+  Le prix *unique* du livre est de 15 euros.
+  Der *Einheits*preis des Buches beträgt 15 Euro.
 
-  Il est unique, personne ne ressemble à lui.
-  Er ist einzigartig, niemand gleicht ihm.
+  Cette peinture est *unique* au monde.
+  Dieses Gemälde ist auf der Welt *einmalig*.
 
-  Être enfant unique peut parfois être un peu solitaire, mais cela permet aussi de développer une grande indépendance.
-  Einzelkind zu sein kann manchmal etwas einsam sein, aber es ermöglicht auch, eine große Unabhängigkeit zu entwickeln.
+  "Il est vraiment *unique*, celui-là !"
+  "Der ist echt *einmalig*, dieser Typ!"
 
-  Cette route est à voie unique, il faut donc faire attention en la parcourant.
-  Diese Straße ist einspurig, daher muss man beim Befahren vorsichtig sein.
+  Le train circulera sur une voie *unique* pendant les travaux.
+  Der Zug wird während der Bauarbeiten auf einer *einspurigen* Strecke fahren.
 
-  La rue du marché est à sens unique, vous devez donc tourner à gauche au prochain carrefour.
-  Die Marktstraße ist eine Einbahnstraße, daher müssen Sie an der nächsten Kreuzung links abbiegen.
+  C'est mon *unique* chance de réussir.
+  Das ist meine *einzige* Chance auf Erfolg.
+
+  Cette exposition présente une pièce *unique* du 18e siècle.
+  Diese Ausstellung zeigt ein *einzigartiges* Stück aus dem 18. Jahrhundert.
+
+  Le marché *unique* européen facilite le commerce.
+  Der europäische *Einheits*markt erleichtert den Handel.
+
+  Son *unique* objectif est de gagner la compétition.
+  Sein *einziges* Ziel ist es, den Wettbewerb zu gewinnen.
+
+  Cette méthode offre une solution *unique* à ce problème.
+  Diese Methode bietet eine *einzigartige* Lösung für dieses Problem.
+
+  L'euro est la monnaie *unique* de nombreux pays européens.
+  Der Euro ist die *einheitliche* Währung vieler europäischer Länder.
+
+  Le spectacle était vraiment *unique* en son genre.
+  Die Show war wirklich *einzigartig* in ihrer Art.
+
+  Mon *unique* souhait est de te revoir.
+  Mein *einziger* Wunsch ist es, dich wiederzusehen.
+
+  Cette entreprise propose un salaire *unique* pour tous les employés.
+  Dieses Unternehmen bietet einen *einheitlichen* Lohn für alle Mitarbeiter.
+
+  Pierre et Marie ont un fils *unique*.
+  Pierre und Marie haben einen *einzigen* Sohn.
+
+  Cette collection contient des pièces *uniques*.
+  Diese Sammlung enthält *einzigartige* Stücke.
+
+  Le gouvernement a mis en place un système *unique* de gestion.
+  Die Regierung hat ein *einheitliches* Verwaltungssystem eingeführt.
+
+  Son talent *unique* l'a rendu célèbre.
+  Sein *einzigartiges* Talent hat ihn berühmt gemacht.
+
+  C'est une occasion *unique* dans une vie.
+  Das ist eine *einmalige* Gelegenheit im Leben.
+
+  Chaque flocon de neige est *unique*.
+  Jede Schneeflocke ist *einzigartig*.
+
+  La boutique propose des créations *uniques*.
+  Der Laden bietet *einzigartige* Kreationen an.
+
+  C'est mon *unique* espoir de guérison.
+  Das ist meine *einzige* Hoffnung auf Heilung.
+
+  Il possède une voix *unique*.
+  Er hat eine *einzigartige* Stimme.
+
+  Cette île abrite une espèce *unique* au monde.
+  Diese Insel beherbergt eine weltweit *einzigartige* Art.
+
+  L'architecte a créé un style *unique*.
+  Der Architekt hat einen *einzigartigen* Stil geschaffen.
+
+  Son *unique* défaut est sa timidité.
+  Seine *einzige* Schwäche ist seine Schüchternheit.
+
+  Cette signature *unique* garantit l'authenticité du document.
+  Diese *einzigartige* Unterschrift garantiert die Echtheit des Dokuments.
+
+  Le musée expose une collection *unique* de fossiles.
+  Das Museum stellt eine *einzigartige* Fossiliensammlung aus.
+
+  "Cette situation est vraiment *unique* !"
+  "Diese Situation ist wirklich *einmalig*!"
+
+  Chaque personne a une empreinte digitale *unique*.
+  Jeder Mensch hat einen *einzigartigen* Fingerabdruck.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

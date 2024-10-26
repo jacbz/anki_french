@@ -13,32 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  À l’époque, il était légal de battre sa femme.
-  Damals war es legal, seine Frau zu schlagen.
+  À l'époque, il était *légal* de battre sa femme.
+  Damals war es *legal*, seine Frau zu schlagen.
 
-  C’est une pratique légale.
-  Das ist eine legale Praxis.
+  L'âge *légal* pour voter est de 18 ans en France.
+  Das *gesetzliche* Wahlalter in Frankreich ist 18 Jahre.
 
-  La nouvelle loi impose une nouvelle règle légale concernant les contrats de travail.
-  Die neue Gesetzesvorschrift legt eine neue Regel für Arbeitsverträge fest.
+  Cette entreprise utilise uniquement des moyens *légaux* pour réussir.
+  Diese Firma nutzt nur *legale* Mittel, um erfolgreich zu sein.
 
-  Le texte légal est disponible sur le site du gouvernement.
-  Der Gesetzestext ist auf der Website der Regierung verfügbar.
+  Sa décision n'était pas *légale*, et le tribunal l'a annulée.
+  Seine Entscheidung war nicht *rechtmäßig*, und das Gericht hat sie aufgehoben.
 
-  Le 1er mai est un jour férié, une fête légale en France.
-  Der 1. Mai ist ein gesetzlicher Feiertag in Frankreich.
+  Je suis son tuteur *légal* depuis le décès de ses parents.
+  Ich bin seit dem Tod seiner Eltern sein *gesetzlicher* Vormund.
 
-  L'heure légale en France est UTC+1.
-  Die Normalzeit in Frankreich ist UTC+1.
+  L'heure *légale* en France a changé le weekend dernier.
+  Die *gesetzliche* Zeit in Frankreich hat sich letztes Wochenende geändert.
 
-  La justice offre plusieurs moyens légaux pour faire valoir ses droits.
-  Die Justiz bietet verschiedene Rechtsmittel, um seine Rechte geltend zu machen.
+  Le 14 juillet est une fête *légale* en France.
+  Der 14. Juli ist ein *gesetzlicher* Feiertag in Frankreich.
 
-  Il est important de régler le différend par les voies légales.
-  Es ist wichtig, den Streit auf legalem Wege zu lösen.
+  La médecine *légale* joue un rôle crucial dans cette enquête criminelle.
+  Die *Gerichts*medizin spielt eine entscheidende Rolle bei dieser Kriminaluntersuchung.
 
-  Le juge a rendu une décision légale, qui ne peut être contestée.
-  Der Richter hat eine rechtmäßige Entscheidung getroffen, die nicht angefochten werden kann.
+  Nous devons suivre la procédure *légale* pour déposer une plainte.
+  Wir müssen den *gesetzlichen* Weg einschlagen, um eine Beschwerde einzureichen.
+
+  Le texte *légal* précise les conditions du contrat.
+  Der *Gesetzes*text legt die Vertragsbedingungen fest.
+
+  Cette règle *légale* s'applique à tous les citoyens sans exception.
+  Diese *gesetzliche* Regel gilt ausnahmslos für alle Bürger.
+
+  L'euro est la monnaie *légale* dans la plupart des pays européens.
+  Der Euro ist das *gesetzliche* Zahlungsmittel in den meisten europäischen Ländern.
+
+  Les formalités *légales* pour le mariage sont très strictes.
+  Die *gesetzlichen* Formalitäten für die Eheschließung sind sehr streng.
+
+  Au XIX siècle, le pays *légal* ne représentait qu'une minorité de la population.
+  Im 19. Jahrhundert vertrat das *wahlberechtigte* Land nur eine Minderheit der Bevölkerung.
+
+  Il faut respecter l'âge *légal* pour acheter de l'alcool.
+  Man muss das *gesetzliche* Mindestalter für den Alkoholkauf einhalten.
+
+  Toutes ces actions sont parfaitement *légales*.
+  Alle diese Handlungen sind völlig *legal*.
+
+  La police a utilisé des moyens *légaux* pour obtenir ces preuves.
+  Die Polizei hat *legale* Mittel eingesetzt, um diese Beweise zu erhalten.
+
+  Elle n'a pas encore atteint l'âge *légal* pour travailler.
+  Sie hat das *gesetzliche* Arbeitsalter noch nicht erreicht.
+
+  Les actes *légaux* doivent être signés par un notaire.
+  *Rechtsgültige* Urkunden müssen von einem Notar unterschrieben werden.
+
+  Cette pratique était *légale* jusqu'à l'année dernière.
+  Diese Praxis war bis zum letzten Jahr *legal*.
+
+  Le tribunal a confirmé le caractère *légal* de cette décision.
+  Das Gericht hat die *Rechtmäßigkeit* dieser Entscheidung bestätigt.
+
+  Nous devons faire un dépôt *légal* de ce livre à la bibliothèque.
+  Wir müssen von diesem Buch eine *Pflicht*exemplar bei der Bibliothek abgeben.
+
+  Les observations *légales* doivent être respectées à la lettre.
+  Die *gesetzlichen* Vorschriften müssen buchstabengetreu befolgt werden.
+
+  C'est une question de médecine *légale* très complexe.
+  Das ist eine sehr komplexe *gerichts*medizinische Frage.
+
+  Le gouvernement a établi un nouveau cadre *légal*.
+  Die Regierung hat einen neuen *rechtlichen* Rahmen geschaffen.
+
+  Cette décision n'a aucun fondement *légal*.
+  Diese Entscheidung hat keine *rechtliche* Grundlage.
+
+  Le représentant *légal* de l'entreprise doit signer ce document.
+  Der *gesetzliche* Vertreter der Firma muss dieses Dokument unterschreiben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

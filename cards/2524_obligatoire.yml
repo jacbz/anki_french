@@ -13,26 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La quarantaine est obligatoire.
-  Die Quarantäne ist obligatorisch.
+  La quarantaine est *obligatoire*.
+  Die Quarantäne ist *verpflichtend*.
 
-  Le port du masque est obligatoire dans les magasins.
-  Das Tragen einer Maske ist in Geschäften verpflichtend.
+  À partir de cette année, le vaccin sera *obligatoire* pour tous les enfants.
+  Ab diesem Jahr wird die Impfung für alle Kinder *Pflicht* sein.
 
-  La présence à l'école est obligatoire pour tous les élèves.
-  Die Anwesenheitspflicht gilt für alle Schüler.
+  Le port du masque reste *obligatoire* dans les hôpitaux.
+  Das Tragen einer Maske bleibt in Krankenhäusern *vorgeschrieben*.
 
-  C'est obligatoire que le médecin visite le patient tous les jours.
-  Es muss so kommen, dass der Arzt den Patienten täglich besucht.
+  "Avec lui, c'est *obligatoire* qu'il arrive en retard."
+  "Bei ihm ist es ja *unvermeidlich*, dass er zu spät kommt."
 
-  L'utilisation du masque est obligatoire dans les transports en commun.
-  Die Maskenpflicht gilt in den öffentlichen Verkehrsmitteln.
+  La présence des parents à la réunion est *obligatoire*.
+  Die Anwesenheit der Eltern beim Treffen ist *verpflichtend*.
 
-  Votre présence à cette réunion est obligatoire, car nous devons discuter de questions importantes.
-  Sie sind verpflichtet, an der Versammlung teilzunehmen, weil wir wichtige Themen besprechen müssen.
+  Le gouvernement a rendu le cours de natation *obligatoire* à l'école primaire.
+  Die Regierung hat den Schwimmunterricht in der Grundschule *obligatorisch* gemacht.
 
-  Le gouvernement a décidé de rendre le port du casque obligatoire pour les cyclistes.
-  Die Regierung hat beschlossen, das Tragen eines Helms für Radfahrer zur Pflicht zu machen.
+  Les autorités vont rendre le tri des déchets *obligatoire*.
+  Die Behörden werden die Mülltrennung zur *Pflicht* machen.
+
+  Cette formation en ligne est *obligatoire* pour tous les employés.
+  Diese Online-Schulung ist für alle Mitarbeiter *verpflichtend*.
+
+  Le casque est *obligatoire* pour faire du vélo.
+  Beim Fahrradfahren ist ein Helm *vorgeschrieben*.
+
+  Une visite médicale *obligatoire* est prévue avant la rentrée.
+  Vor Schulbeginn ist eine *pflichtmäßige* ärztliche Untersuchung vorgesehen.
+
+  Le code vestimentaire *obligatoire* précise : costume et cravate.
+  Die *verbindliche* Kleiderordnung schreibt Anzug und Krawatte vor.
+
+  La ceinture de sécurité est *obligatoire* depuis 1973.
+  Der Sicherheitsgurt ist seit 1973 *Pflicht*.
+
+  L'assurance responsabilité civile est *obligatoire* pour les propriétaires de chiens.
+  Eine Haftpflichtversicherung ist für Hundebesitzer *vorgeschrieben*.
+
+  "C'était *obligatoire* que ça finisse comme ça !"
+  "Das musste ja so *zwangsläufig* enden!"
+
+  Les devoirs sont *obligatoires* pour tous les élèves.
+  Die Hausaufgaben sind für alle Schüler *verpflichtend*.
+
+  Le sens de circulation *obligatoire* est indiqué par des flèches.
+  Die *vorgeschriebene* Fahrtrichtung wird durch Pfeile angezeigt.
+
+  Les cookies *obligatoires* sont nécessaires au fonctionnement du site.
+  Die *erforderlichen* Cookies sind für die Funktionsweise der Website notwendig.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

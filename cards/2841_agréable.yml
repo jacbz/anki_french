@@ -13,50 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est une chambre très agréable.
-  Es ist ein sehr angenehmes Zimmer.
+  C'est une chambre très *agréable*.
+  Das ist ein sehr *angenehmes* Zimmer.
 
-  C’est une soirée très agréable.
-  Es ist ein sehr angenehmer Abend.
+  J'ai passé une *agréable* soirée avec mes amis.
+  Ich habe einen *schönen* Abend mit meinen Freunden verbracht.
 
-  C’est très agréable.
-  Das ist sehr angenehm.
+  Cette personne est très *agréable* à vivre.
+  Diese Person ist sehr *umgänglich*.
 
-  Il semble très agréable.
-  Er scheint sehr angenehm zu sein.
+  Cette musique est *agréable* à l'oreille.
+  Diese Musik ist eine *Wohltat* für das Ohr.
 
-  Sa voix est agréable à écouter.
-  Seine Stimme ist angenehm zu hören.
+  Il m'est *agréable* de vous annoncer votre promotion.
+  Es ist mir eine *Freude*, Ihnen Ihre Beförderung mitzuteilen.
 
-  Cette maison est très agréable à vivre.
-  Dieses Haus ist sehr angenehm zu bewohnen.
+  Le parfum des roses est *agréable* à sentir.
+  Der Duft der Rosen riecht sehr *angenehm*.
 
-  Le paysage était agréable à regarder, avec ses collines verdoyantes et ses rivières qui coulaient paisiblement.
-  Der Anblick der Landschaft war angenehm, mit ihren grünen Hügeln und den Flüssen, die friedlich dahinflossen.
+  Ces nouveaux canapés sont très *agréables* au toucher.
+  Diese neuen Sofas fühlen sich sehr *angenehm* an.
 
-  Un simple "bonjour" peut être une parole agréable pour commencer la journée.
-  Ein einfaches "Guten Tag" kann ein freundliches Wort sein, um den Tag zu beginnen.
+  Elle a une voix très *agréable*.
+  Sie hat eine sehr *angenehme* Stimme.
 
-  Pierre est agréable à vivre, toujours prêt à rendre service et à faire rire les gens.
-  Pierre ist umgänglich, immer bereit zu helfen und die Leute zum Lachen zu bringen.
+  Pierre est un garçon *agréable* qui fait toujours sourire les autres.
+  Pierre ist ein *sympathischer* Junge, der andere immer zum Lächeln bringt.
 
-  Nous avons fait une promenade dans le parc par une agréable journée d'été, le soleil brillait et les oiseaux chantaient.
-  Wir machten einen Spaziergang im Park an einem schönen Sommertag, die Sonne schien und die Vögel sangen.
+  Cette robe en coton est *agréable* à porter.
+  Dieses Baumwollkleid trägt sich sehr *angenehm*.
 
-  La mélodie de la flûte était agréable à l'oreille, elle créait une ambiance apaisante.
-  Die Melodie der Flöte war eine Wohltat für das Ohr, sie schuf eine beruhigende Atmosphäre.
+  La température est particulièrement *agréable* aujourd'hui.
+  Die Temperatur ist heute besonders *angenehm*.
 
-  Le parfum des roses était agréable à sentir, il emplissait l'air d'une douce fragrance.
-  Der Duft der Rosen war angenehm zu riechen, er erfüllte die Luft mit einem zarten Duft.
+  Son sourire *agréable* met tout le monde à l'aise.
+  Ihr *gewinnendes* Lächeln lässt alle sich wohlfühlen.
 
-  La fourrure du chat était agréable à toucher, elle était douce et soyeuse.
-  Das Fell der Katze war angenehm anzufassen, es war weich und seidig.
+  Ce restaurant offre une ambiance très *agréable*.
+  Dieses Restaurant bietet eine sehr *angenehme* Atmosphäre.
 
-  Voilà qui est agréable à entendre! Une bonne nouvelle comme celle-là fait toujours plaisir.
-  So etwas hört man gerne! Eine gute Nachricht wie diese macht immer Freude.
+  Il a fait un temps très *agréable* pendant nos vacances.
+  Während unseres Urlaubs war das Wetter sehr *angenehm*.
 
-  Il est agréable à Marie de faire du vélo dans la campagne, elle aime la sensation de liberté qu'elle ressent.
-  Es tut Marie gut, mit dem Fahrrad durch die Landschaft zu fahren, sie liebt das Gefühl der Freiheit, das sie empfindet.
+  Notre nouvelle collègue est vraiment *agréable*.
+  Unsere neue Kollegin ist wirklich *sympathisch*.
+
+  Ce tableau est très *agréable* à regarder.
+  Dieses Gemälde ist sehr *angenehm* anzusehen.
+
+  Elle a des manières très *agréables*.
+  Sie hat sehr *angenehme* Umgangsformen.
+
+  C'est *agréable* de ne rien faire parfois.
+  Es ist *angenehm*, manchmal nichts zu tun.
+
+  Le jardin offre une vue *agréable* depuis la terrasse.
+  Der Garten bietet einen *angenehmen* Blick von der Terrasse.
+
+  Cette conversation *agréable* m'a fait oublier mes soucis.
+  Diese *angenehme* Unterhaltung hat mich meine Sorgen vergessen lassen.
+
+  Nous avons eu une rencontre très *agréable*.
+  Wir hatten eine sehr *erfreuliche* Begegnung.
+
+  Il fait toujours l'*agréable* auprès des invités.
+  Er gibt sich immer besonders *liebenswürdig* bei den Gästen.
+
+  C'est un hôte très *agréable*.
+  Er ist ein sehr *angenehmer* Gastgeber.
+
+  Par cette *agréable* journée d'été, nous avons déjeuné dehors.
+  An diesem *schönen* Sommertag haben wir draußen zu Mittag gegessen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

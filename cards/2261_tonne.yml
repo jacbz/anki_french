@@ -13,32 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils mangent des millions de tonnes de poisson.
-  Sie essen Millionen Tonnen Fisch.
+  Ils mangent des millions de *tonnes* de poisson.
+  Sie essen Millionen *Tonnen* Fisch.
 
-  Le camion transporte une tonne de marchandises.
-  Der Lastwagen transportiert eine Tonne Waren.
+  Notre bateau peut transporter jusqu'à trois *tonnes* de marchandises.
+  Unser Boot kann bis zu drei *Tonnen* Waren transportieren.
 
-  Il y avait sur lui une tonne de pression.
-  Auf ihm lastete eine Tonne Druck.
+  Le nouveau camion pèse huit *tonnes* à vide.
+  Der neue Lastwagen wiegt leer acht *Tonnen*.
 
-  Le camion transportait trois tonnes de charbon pour alimenter la centrale électrique.
-  Der LKW transportierte drei Tonnen Kohlen, um das Kraftwerk zu befeuern.
+  "J'ai des *tonnes* de devoirs à faire ce week-end !"
+  "Ich habe am Wochenende *Unmengen* an Hausaufgaben zu machen!"
 
-  Il n'y a pas besoin d'en faire des tonnes, il suffit de dire la vérité.
-  Man muss nicht dick auftragen, es reicht, die Wahrheit zu sagen.
+  Ils ont commandé deux *tonnes* de sable pour le jardin.
+  Sie haben zwei *Tonnen* Sand für den Garten bestellt.
 
-  On a acheté des tonnes de légumes pour le marché de Noël.
-  Wir haben Tonnen von Gemüse für den Weihnachtsmarkt gekauft.
+  Les agriculteurs ont récolté plusieurs *tonnes* de pommes de terre.
+  Die Bauern haben mehrere *Tonnen* Kartoffeln geerntet.
 
-  L'entreprise a produit des tonnes kilométriques de papier l'année dernière.
-  Das Unternehmen hat im letzten Jahr Tonnenkilometer Papier produziert.
+  "Ma grand-mère m'a donné des *tonnes* de conseils pour mon mariage."
+  "Meine Großmutter hat mir *massenweise* Ratschläge für meine Hochzeit gegeben."
 
-  Après la publication de son livre, il a reçu des tonnes de lettres de ses lecteurs.
-  Nachdem sein Buch veröffentlicht wurde, bekam er bergeweise Post von seinen Lesern.
+  Le port peut accueillir des navires jusqu'à 50 000 *tonnes*.
+  Der Hafen kann Schiffe bis zu 50.000 *Tonnen* aufnehmen.
 
-  Il bouffe des tonnes de chocolat chaque jour, c'est incroyable !
-  Er futtert jeden Tag kiloweise Schokolade, das ist unglaublich!
+  La *tonne* d'acier coûte plus cher cette année.
+  Die *Tonne* Stahl kostet dieses Jahr mehr.
+
+  "Il y a des *tonnes* de monde dans ce magasin aujourd'hui !"
+  "Es sind heute *Massen* von Leuten in diesem Geschäft!"
+
+  Le fermier stocke le lisier dans une *tonne* à l'arrière du tracteur.
+  Der Bauer lagert die Gülle in einem *Tank* hinter dem Traktor.
+
+  La production mondiale de blé atteint des millions de *tonnes* par an.
+  Die weltweite Weizenproduktion erreicht jährlich Millionen *Tonnen*.
+
+  "J'ai des *tonnes* de messages à répondre sur mon téléphone."
+  "Ich habe *Unmengen* von Nachrichten auf meinem Handy zu beantworten."
+
+  Cette grue peut soulever jusqu'à dix *tonnes*.
+  Dieser Kran kann bis zu zehn *Tonnen* heben.
+
+  Le vignoble conserve son vin dans d'énormes *tonnes* en chêne.
+  Das Weingut lagert seinen Wein in riesigen Eichen*fässern*.
+
+  La *tonne* kilométrique est une unité importante dans le transport ferroviaire.
+  Der *Tonnen*kilometer ist eine wichtige Einheit im Schienenverkehr.
+
+  "Elle a reçu des *tonnes* de cadeaux pour son anniversaire."
+  "Sie hat zu ihrem Geburtstag *massenweise* Geschenke bekommen."
+
+  Cette usine produit cent *tonnes* d'acier par jour.
+  Diese Fabrik produziert hundert *Tonnen* Stahl pro Tag.
+
+  Le camion-citerne contient une *tonne* d'eau pour les pompiers.
+  Der Tankwagen enthält eine *Tonne* Wasser für die Feuerwehr.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

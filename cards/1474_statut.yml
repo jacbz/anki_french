@@ -13,35 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le jeune reste sous statut scolaire.
-  Der Jugendliche bleibt im Schulstatus.
+  Le jeune reste sous *statut* scolaire.
+  Der Jugendliche behält seinen Schul*status*.
 
-  Le statut de l’entreprise a été modifié.
-  Der Status des Unternehmens wurde geändert.
+  L'entreprise a changé son *statut* juridique l'année dernière.
+  Das Unternehmen hat letztes Jahr seine Rechts*stellung* geändert.
 
-  Le statut social de la famille Smith est très élevé.
-  Der gesellschaftliche Status der Familie Smith ist sehr hoch.
+  Elle a un *statut* social élevé grâce à son travail.
+  Sie hat durch ihre Arbeit einen hohen sozialen *Status*.
 
-  Le statut d'une association doit être approuvé par les membres.
-  Die Vereinssatzung muss von den Mitgliedern genehmigt werden.
+  Les *statuts* de l'association doivent être approuvés par tous les membres.
+  Die *Satzung* des Vereins muss von allen Mitgliedern genehmigt werden.
 
-  Le statut de fonctionnaire garantit la sécurité d'emploi.
-  Der Beamtenstatus garantiert die Arbeitsplatzsicherheit.
+  Mon ami vient d'obtenir le *statut* de réfugié.
+  Mein Freund hat gerade den Flüchtlings*status* erhalten.
 
-  L'organisation a obtenu un statut consultatif auprès des Nations Unies.
-  Die Organisation hat einen Konsultativstatus bei den Vereinten Nationen erhalten.
+  Le conseil municipal a modifié les *statuts* communaux hier soir.
+  Der Gemeinderat hat gestern Abend die Gemeinde*verfassung* geändert.
 
-  Le statut juridique de l'entreprise est en cours d'examen.
-  Die Rechtsstellung des Unternehmens wird derzeit geprüft.
+  Elle souhaite acquérir le *statut* de fonctionnaire.
+  Sie möchte den Beamten*status* erwerben.
 
-  Le statut du lieu de situation est important pour déterminer les taxes.
-  Der Belegenheitsstatus ist wichtig, um die Steuern zu bestimmen.
+  Les nouveaux *statuts* de la société seront votés demain.
+  Die neue *Satzung* der Gesellschaft wird morgen abgestimmt.
 
-  Les statuts communaux régissent la vie de la commune.
-  Die Gemeindeverfassung regelt das Leben der Gemeinde.
+  Son *statut* « hors ligne » sur la messagerie inquiète ses amis.
+  Sein "Offline-*Status*" im Messenger beunruhigt seine Freunde.
 
-  Le statut particulier de ce cas nécessite une attention particulière.
-  Der Einzelstatut dieses Falles erfordert besondere Aufmerksamkeit.
+  Le *statut* de la femme a beaucoup évolué depuis un siècle.
+  Die *Stellung* der Frau hat sich seit einem Jahrhundert stark verändert.
+
+  Ils ont dû modifier leur *statut* d'autoentrepreneur.
+  Sie mussten ihren *Status* als Selbstständige ändern.
+
+  Les *statuts* de l'Académie française n'ont pas changé depuis des siècles.
+  Die *Statuten* der Académie française haben sich seit Jahrhunderten nicht geändert.
+
+  Ce roman a acquis le *statut* de classique de la littérature.
+  Dieser Roman hat den *Status* eines Literaturklassikers erlangt.
+
+  Le *statut* diplomatique lui confère certains privilèges.
+  Der Diplomaten*status* gewährt ihr bestimmte Privilegien.
+
+  Nous devons respecter le *statut* particulier de cette région.
+  Wir müssen den Sonder*status* dieser Region respektieren.
+
+  Les *statuts* de l'entreprise définissent clairement ses objectifs.
+  Die *Satzung* des Unternehmens definiert ihre Ziele klar.
+
+  Son *statut* privilégié dans l'entreprise lui permet de travailler à distance.
+  Seine privilegierte *Stellung* im Unternehmen erlaubt ihm, von zu Hause zu arbeiten.
+
+  Le nouveau *statut* des forêts publiques protège mieux l'environnement.
+  Der neue *Status* der öffentlichen Wälder schützt die Umwelt besser.
+
+  La loi définit le *statut* des biens culturels.
+  Das Gesetz definiert die Rechts*stellung* von Kulturgütern.
+
+  Le conseil d'administration a rédigé de nouveaux *statuts*.
+  Der Vorstand hat eine neue *Satzung* verfasst.
+
+  Cette décision va changer le *statut* de l'organisation.
+  Diese Entscheidung wird die *Stellung* der Organisation verändern.
+
+  Le *statut* consultatif permet de participer aux réunions sans droit de vote.
+  Der Konsultativ*status* erlaubt die Teilnahme an Sitzungen ohne Stimmrecht.
+
+  Selon les *statuts*, le président est élu pour cinq ans.
+  Laut *Satzung* wird der Präsident für fünf Jahre gewählt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,32 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai terminé la rédaction de ma thèse.
-  Ich habe die Arbeit an meiner Dissertation abgeschlossen.
+  J'ai terminé la *rédaction* de ma thèse.
+  Ich habe das *Verfassen* meiner Doktorarbeit abgeschlossen.
 
-  Je dois améliorer ma rédaction.
-  Ich muss meinen Schreibstil verbessern.
+  La *rédaction* de ce contrat doit être très précise.
+  Die *Abfassung* dieses Vertrags muss sehr präzise sein.
 
-  C'est la première rédaction que j'ai écrite.
-  Das ist die erste Fassung, die ich geschrieben habe.
+  Elle travaille à la *rédaction* d'un nouveau roman.
+  Sie arbeitet am *Verfassen* eines neuen Romans.
 
-  Il travaille à la rédaction du journal.
-  Er arbeitet in der Zeitungsredaktion.
+  La *rédaction* en chef a décidé de publier cet article controversé.
+  Die Chef*redaktion* hat beschlossen, diesen kontroversen Artikel zu veröffentlichen.
 
-  Les élèves ont reçu une rédaction en classe à faire pour la semaine prochaine.
-  Die Schüler haben einen Klassenaufsatz für nächste Woche bekommen.
+  Je dois finir la *rédaction* de mon rapport avant demain.
+  Ich muss die *Ausarbeitung* meines Berichts bis morgen fertigstellen.
 
-  La rédaction de la station de radio a diffusé un reportage sur l'événement.
-  Die Rundfunkredaktion hat einen Bericht über das Ereignis ausgestrahlt.
+  La *rédaction* de cette encyclopédie a pris dix ans.
+  Die *Redaktion* dieser Enzyklopädie hat zehn Jahre gedauert.
 
-  La rédaction spécialiste en économie a publié un article sur la crise.
-  Die Wirtschaftsredaktion hat einen Artikel über die Krise veröffentlicht.
+  Toute la *rédaction* s'est réunie pour discuter des prochains articles.
+  Die ganze *Redaktion* hat sich getroffen, um die nächsten Artikel zu besprechen.
 
-  Le bureau de la rédaction est situé au deuxième étage.
-  Das Redaktionsbüro befindet sich im zweiten Stock.
+  Les élèves ont une *rédaction* à faire pour lundi.
+  Die Schüler müssen bis Montag einen *Aufsatz* schreiben.
 
-  La réunion de la rédaction a eu lieu ce matin.
-  Die Redaktionssitzung fand heute Morgen statt.
+  La *rédaction* sportive couvre tous les événements importants.
+  Die Sport*redaktion* berichtet über alle wichtigen Ereignisse.
+
+  Cette *rédaction* finale diffère beaucoup de la première version.
+  Diese endgültige *Fassung* unterscheidet sich stark von der ersten Version.
+
+  La *rédaction* de France Info cherche de nouveaux journalistes.
+  Die *Redaktion* von France Info sucht neue Journalisten.
+
+  Il faut améliorer la *rédaction* de cette lettre officielle.
+  Die *Formulierung* dieses offiziellen Schreibens muss verbessert werden.
+
+  La *rédaction* du journal se trouve au deuxième étage.
+  Die Zeitungs*redaktion* befindet sich im zweiten Stock.
+
+  Pour la *rédaction* en classe, vous avez deux heures.
+  Für den Klassen*aufsatz* habt ihr zwei Stunden Zeit.
+
+  La *rédaction* de ce programme informatique prendra plusieurs semaines.
+  Das *Verfassen* dieses Computerprogramms wird mehrere Wochen dauern.
+
+  Le chef de *rédaction* a corrigé mon article.
+  Der *Redaktions*leiter hat meinen Artikel korrigiert.
+
+  Julie a eu une excellente note en *rédaction*.
+  Julie hat eine ausgezeichnete Note im *Aufsatz* bekommen.
+
+  La *rédaction* de cette loi a nécessité de nombreuses consultations.
+  Die *Abfassung* dieses Gesetzes erforderte zahlreiche Beratungen.
+
+  Une réunion de *rédaction* aura lieu ce soir.
+  Heute Abend findet eine *Redaktions*sitzung statt.
+
+  La *rédaction* de son livre lui a pris deux ans.
+  Das *Verfassen* seines Buches hat zwei Jahre gedauert.
+
+  Le bureau de *rédaction* est fermé le week-end.
+  Das *Redaktions*büro ist am Wochenende geschlossen.
+
+  La *rédaction* de cette note de synthèse doit être claire et concise.
+  Die *Ausarbeitung* dieser Zusammenfassung muss klar und prägnant sein.
+
+  La *rédaction* économique analyse les dernières tendances du marché.
+  Die Wirtschafts*redaktion* analysiert die neuesten Markttrends.
+
+  Nous avons reçu une note de la *rédaction* concernant les nouveaux formats.
+  Wir haben eine Mitteilung der *Redaktion* bezüglich der neuen Formate erhalten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

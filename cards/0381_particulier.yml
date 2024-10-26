@@ -13,41 +13,170 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai un regard un peu particulier.
-  Ich habe einen etwas eigenwilligen Blick.
+  J'ai un regard un peu *particulier*.
+  Ich habe einen etwas *eigenartigen* Blick.
 
-  C’est un cas particulier.
-  Das ist ein besonderer Fall.
+  Sa manière de parler est *particulière* : elle fait beaucoup de pauses.
+  Ihre Art zu sprechen ist *eigenartig*: Sie macht viele Pausen.
 
-  La peinture, datant du XVIIIe siècle, est en la possession d'un particulier depuis plusieurs générations.
-  Die Malerei, die aus dem 18. Jahrhundert stammt, befindet sich seit mehreren Generationen in Privathand.
+  Cette ville a un charme tout *particulier* en automne.
+  Diese Stadt hat im Herbst einen ganz *besonderen* Charme.
 
-  Le chien, un labrador noir, n'a "signes particuliers néant".
-  Der Hund, ein schwarzer Labrador, hat „keine besonderen Kennzeichen“.
+  Les *particuliers* peuvent acheter des actions en bourse.
+  *Privatpersonen* können Aktien an der Börse kaufen.
 
-  Nous avons discuté de l'affaire en particulier, sans témoins.
-  Wir haben die Angelegenheit unter vier Augen besprochen, ohne Zeugen.
+  Le médecin *particulier* du président l'accompagne partout.
+  Der *persönliche* Arzt des Präsidenten begleitet ihn überall hin.
 
-  Son fils a des aptitudes particulières pour les mathématiques.
-  Sein Sohn hat besondere Begabungen in Mathematik.
+  Avez-vous des questions en *particulier* ?
+  Haben Sie *bestimmte* Fragen?
 
-  Il a suivi des leçons particulières pour améliorer ses notes en français.
-  Er hat Nachhilfestunden genommen, um seine Französischnoten zu verbessern.
+  Je voudrais vous parler en *particulier*.
+  Ich möchte mit Ihnen unter vier Augen sprechen.
 
-  Cette maison est d'un genre particulier, avec ses tourelles et ses jardins secrets.
-  Dieses Haus fällt aus dem Rahmen, mit seinen Türmen und seinen geheimen Gärten.
+  Cette méthode est *particulière* aux pays scandinaves.
+  Diese Methode ist für die skandinavischen Länder *charakteristisch*.
 
-  La collection appartient à un particulier, qui la garde précieusement depuis des années.
-  Die Sammlung ist in Privatbesitz, der sie seit Jahren sorgsam bewahrt.
+  Je n'ai rien de *particulier* à signaler.
+  Ich habe nichts *Besonderes* zu berichten.
 
-  J'ai acheté ce tableau d'un particulier, qui le vendait à prix réduit.
-  Ich habe dieses Bild aus Privathand erworben, der es zu einem reduzierten Preis verkaufte.
+  Cette pièce est en *particulier* très lumineuse.
+  Dieses Zimmer ist *besonders* hell.
 
-  La vente aux particuliers est interdite pour ce type de produit.
-  Der Verkauf an Privat ist für diese Art von Produkt verboten.
+  Il a acheté sa voiture d'un *particulier*.
+  Er hat sein Auto von einer *Privatperson* gekauft.
 
-  Ce style de musique est particulier à la culture japonaise.
-  Dieser Musikstil ist der japanischen Kultur eigen.
+  La maison se trouve dans une rue *particulière*, à l'écart du centre.
+  Das Haus befindet sich in einer *eigenartigen* Straße, abseits vom Zentrum.
+
+  Mon professeur me donne des leçons *particulières* de mathématiques.
+  Mein Lehrer gibt mir *Privat*unterricht in Mathematik.
+
+  Cette collection appartient à un *particulier*.
+  Diese Sammlung ist in *Privat*besitz.
+
+  L'université propose des cours *particuliers* pour les débutants.
+  Die Universität bietet *Einzel*kurse für Anfänger an.
+
+  Il a une façon très *particulière* de marcher.
+  Er hat eine sehr *eigentümliche* Art zu gehen.
+
+  En tant que *particulier*, je ne peux pas accéder à ces informations.
+  Als *Privatperson* habe ich keinen Zugang zu diesen Informationen.
+
+  Cette fleur dégage un parfum *particulier*.
+  Diese Blume verströmt einen *besonderen* Duft.
+
+  Son style d'écriture est *particulier* à sa génération.
+  Sein Schreibstil ist *typisch* für seine Generation.
+
+  Il faut porter une attention *particulière* à ce détail.
+  Man muss diesem Detail *besondere* Aufmerksamkeit schenken.
+
+  Cet artiste a un talent tout *particulier*.
+  Dieser Künstler hat eine ganz *besondere* Begabung.
+
+  Dans ce cas *particulier*, nous ferons une exception.
+  In diesem *speziellen* Fall werden wir eine Ausnahme machen.
+
+  Les *particuliers* peuvent visiter le château le dimanche.
+  *Privatbesucher* können das Schloss sonntags besichtigen.
+
+  Cette région a un climat très *particulier*.
+  Diese Region hat ein sehr *eigentümliches* Klima.
+
+  Elle a une passion *particulière* pour la photographie.
+  Sie hat eine *besondere* Leidenschaft für Fotografie.
+
+  "C'est un *particulier* un peu bizarre qui habite là-bas."
+  "Das ist ein etwas *merkwürdiger* Typ, der dort wohnt."
+
+  L'entreprise vend ses produits aux *particuliers*.
+  Das Unternehmen verkauft seine Produkte an *Privatkunden*.
+
+  Ce monument présente un intérêt *particulier*.
+  Dieses Denkmal ist von *besonderem* Interesse.
+
+  Son *hôtel particulier* se trouve au centre-ville.
+  Sein *herrschaftliches* Stadthaus befindet sich im Zentrum.
+
+  Il n'y a rien de *particulier* à faire aujourd'hui.
+  Es gibt heute nichts *Besonderes* zu tun.
+
+  Cette solution est *particulière* à notre entreprise.
+  Diese Lösung ist für unser Unternehmen *charakteristisch*.
+
+  Les enfants ont des besoins *particuliers*.
+  Die Kinder haben *besondere* Bedürfnisse.
+
+  Le restaurant a une ambiance *particulière* le soir.
+  Das Restaurant hat abends eine *besondere* Atmosphäre.
+
+  Cette espèce est *particulière* à cette région.
+  Diese Art ist für diese Region *charakteristisch*.
+
+  Je n'ai pas d'opinion *particulière* sur ce sujet.
+  Ich habe keine *bestimmte* Meinung zu diesem Thema.
+
+  Les *particuliers* doivent remplir ce formulaire.
+  *Privatpersonen* müssen dieses Formular ausfüllen.
+
+  Cette situation mérite une attention *particulière*.
+  Diese Situation verdient *besondere* Aufmerksamkeit.
+
+  Son cas est *particulier* et demande plus d'attention.
+  Sein Fall ist *speziell* und erfordert mehr Aufmerksamkeit.
+
+  Cette œuvre a une histoire *particulière*.
+  Dieses Werk hat eine *besondere* Geschichte.
+
+  Elle donne des cours *particuliers* d'anglais.
+  Sie gibt *Privat*unterricht in Englisch.
+
+  Le projet nécessite des compétences *particulières*.
+  Das Projekt erfordert *besondere* Fähigkeiten.
+
+  Cette demande est *particulière* et doit être étudiée.
+  Diese Anfrage ist *speziell* und muss geprüft werden.
+
+  Il a un goût *particulier* pour la cuisine épicée.
+  Er hat einen *besonderen* Geschmack für scharfes Essen.
+
+  Les *particuliers* peuvent louer cette salle.
+  *Privatleute* können diesen Saal mieten.
+
+  Cette technique est *particulière* aux artisans locaux.
+  Diese Technik ist für die lokalen Handwerker *typisch*.
+
+  Cette recette requiert un soin *particulier*.
+  Dieses Rezept erfordert *besondere* Sorgfalt.
+
+  Le musée est fermé aux *particuliers* le lundi.
+  Das Museum ist montags für *Privatbesucher* geschlossen.
+
+  Cette plante a des besoins *particuliers* en eau.
+  Diese Pflanze hat *besondere* Wasserbedürfnisse.
+
+  Les conditions sont *particulières* cette année.
+  Die Bedingungen sind dieses Jahr *besonders*.
+
+  Cette mélodie a quelque chose de *particulier*.
+  Diese Melodie hat etwas *Besonderes* an sich.
+
+  Son comportement était *particulier* ce jour-là.
+  Sein Verhalten war an diesem Tag *eigenartig*.
+
+  Cette règle s'applique à ce cas *particulier*.
+  Diese Regel gilt für diesen *speziellen* Fall.
+
+  Cette région possède un patrimoine *particulier*.
+  Diese Region hat ein *besonderes* Kulturerbe.
+
+  Les *particuliers* ne peuvent pas stationner ici.
+  *Privatfahrzeuge* dürfen hier nicht parken.
+
+  Cette mission exige une formation *particulière*.
+  Diese Mission erfordert eine *spezielle* Ausbildung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

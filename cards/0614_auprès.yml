@@ -13,35 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il avait beaucoup de succès auprès des femmes.
-  Er war bei Frauen sehr beliebt.
+  Il avait beaucoup de succès *auprès* des femmes.
+  Er hatte bei den Frauen viel *Erfolg*.
 
-  Je suis allé voir mon ami auprès de sa famille.
-  Ich bin zu meinem Freund gegangen, der bei seiner Familie ist.
+  Viens t'asseoir *auprès* de moi, je veux te montrer quelque chose.
+  Komm, setz dich *zu* mir, ich möchte dir etwas zeigen.
 
-  Elle est toujours auprès de son mari, malgré leurs difficultés.
-  Sie ist trotz all ihrer Schwierigkeiten immer bei ihrem Mann.
+  La petite fille cherche du réconfort *auprès* de sa mère.
+  Das kleine Mädchen sucht *bei* ihrer Mutter Trost.
 
-  Leurs salaires sont bas, même auprès des autres employés de l'entreprise.
-  Ihre Gehälter sind niedrig, selbst im Vergleich zu den anderen Angestellten des Unternehmens.
+  Une rivière coule *auprès* de notre maison de campagne.
+  Ein Fluss fließt *neben* unserem Landhaus.
 
-  Il a déposé une requête auprès du ministre pour obtenir un financement supplémentaire.
-  Er hat beim Minister einen Antrag auf zusätzliche Mittel gestellt.
+  Je me suis renseigné *auprès* du service client.
+  Ich habe mich *beim* Kundenservice informiert.
 
-  Viens auprès de moi, j'ai quelque chose à te dire.
-  Komm zu mir, ich muss dir etwas sagen.
+  L'ambassadrice de France *auprès* du Vatican a pris ses fonctions hier.
+  Die französische Botschafterin *beim* Vatikan hat gestern ihr Amt angetreten.
 
-  Viens t'asseoir auprès de moi, je vais te raconter une histoire.
-  Komm, setz dich zu mir, ich erzähle dir eine Geschichte.
+  Mes problèmes semblent insignifiants *auprès* des siens.
+  Meine Probleme erscheinen im *Vergleich* zu seinen unbedeutend.
 
-  L'enfant se réfugia auprès de sa mère, effrayé par le bruit.
-  Das Kind suchte bei seiner Mutter Zuflucht, verängstigt vom Lärm.
+  Notre fils restera *auprès* de nous pendant les vacances.
+  Unser Sohn wird während der Ferien *bei* uns bleiben.
 
-  La table est disposée auprès du grand chêne, dans le jardin.
-  Der Tisch steht neben der großen Eiche im Garten.
+  Elle s'est plainte *auprès* de la direction.
+  Sie hat sich *bei* der Geschäftsleitung beschwert.
 
-  Il est fort bien vu auprès de ses chefs, car il est très compétent et dévoué.
-  Er ist bei seinen Vorgesetzten recht gut angesehen, weil er sehr kompetent und engagiert ist.
+  Il a essayé de me discréditer *auprès* de mes collègues.
+  Er hat versucht, mich *bei* meinen Kollegen in Verruf zu bringen.
+
+  Le chien s'est couché *auprès* du feu pour se réchauffer.
+  Der Hund hat sich *neben* dem Feuer hingelegt, um sich zu wärmen.
+
+  L'enfant dort paisiblement *auprès* de ses peluches.
+  Das Kind schläft friedlich *neben* seinen Kuscheltieren.
+
+  Elle a trouvé du soutien *auprès* de ses amis.
+  Sie hat *bei* ihren Freunden Unterstützung gefunden.
+
+  Le nouveau stagiaire est bien vu *auprès* de ses supérieurs.
+  Der neue Praktikant ist *bei* seinen Vorgesetzten gut angesehen.
+
+  Nous avons déposé une réclamation *auprès* de la mairie.
+  Wir haben *bei* der Stadtverwaltung eine Beschwerde eingereicht.
+
+  La bibliothèque se trouve *auprès* de la gare.
+  Die Bibliothek befindet sich *bei* dem Bahnhof.
+
+  Ces petits désagréments ne sont rien *auprès* de ce qui nous attend.
+  Diese kleinen Unannehmlichkeiten sind nichts im *Vergleich* zu dem, was uns erwartet.
+
+  Je dois intervenir *auprès* du directeur en sa faveur.
+  Ich muss mich *beim* Direktor für ihn einsetzen.
+
+  Paul s'est assis *auprès* de Marie pendant la réunion.
+  Paul hat sich während der Besprechung *neben* Marie gesetzt.
+
+  Les étudiants peuvent obtenir des informations *auprès* du secrétariat.
+  Die Studenten können *beim* Sekretariat Informationen erhalten.
+
+  Ma réputation *auprès* de mes voisins est excellente.
+  Mein Ruf *bei* den Nachbarn ist ausgezeichnet.
+
+  Il faut se renseigner *auprès* des autorités compétentes.
+  Man muss sich *bei* den zuständigen Behörden erkundigen.
+
+  Le chat aime se réchauffer *auprès* du radiateur.
+  Die Katze wärmt sich gerne *am* Heizkörper auf.
+
+  Elle a fait une demande de visa *auprès* de l'ambassade.
+  Sie hat *bei* der Botschaft einen Visumantrag gestellt.
+
+  J'ai vérifié cette information *auprès* de plusieurs sources.
+  Ich habe diese Information *bei* mehreren Quellen überprüft.
+
+  Le nouveau médicament a fait ses preuves *auprès* des patients.
+  Das neue Medikament hat sich *bei* den Patienten bewährt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

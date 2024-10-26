@@ -13,32 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai beaucoup joué au football.
-  Ich habe viel Fußball gespielt.
+  J'ai beaucoup joué au *football*.
+  Ich habe viel *Fußball* gespielt.
 
-  Je joue au football tous les samedis.
-  Ich spiele jeden Samstag Fußball.
+  Le *football* professionnel exige beaucoup d'entraînement et de discipline.
+  Der Profi*fußball* erfordert viel Training und Disziplin.
 
-  Il joue au football.
-  Er spielt Fußball.
+  Mon frère s'entraîne au *football* en salle tous les mercredis.
+  Mein Bruder trainiert jeden Mittwoch Hallen*fußball*.
 
-  Je sais jouer au football.
-  Ich kann Fußball spielen.
+  Notre club de *football* local a remporté le championnat régional.
+  Unser lokaler *Fußball*verein hat die Regionalmeisterschaft gewonnen.
 
-  Il fait partie du club de football.
-  Er ist Mitglied des Fußballvereins.
+  Le *football* américain est très populaire aux États-Unis.
+  American *Football* ist in den USA sehr beliebt.
 
-  Je suis une grande fan de football.
-  Ich bin ein großer Fußballfan.
+  Le terrain de *football* était complètement boueux après la pluie.
+  Der *Fußball*platz war nach dem Regen völlig verschlammt.
 
-  Le football professionnel attire des millions de fans dans le monde entier.
-  Der Profifußball zieht Millionen von Fans weltweit an.
+  La finale de la Coupe du monde de *football* aura lieu dimanche prochain.
+  Das *Fußball*-Weltmeisterschaftsfinale findet nächsten Sonntag statt.
 
-  Le football en salle est une variante du football qui se joue sur un terrain plus petit et avec des règles spécifiques.
-  Hallenfußball ist eine Variante des Fußballs, die auf einem kleineren Feld mit speziellen Regeln gespielt wird.
+  Les règles du *football* interdisent de toucher le ballon avec les mains.
+  Die *Fußball*regeln verbieten es, den Ball mit den Händen zu berühren.
 
-  Le club de football local a remporté le championnat régional.
-  Der örtliche Fußballklub hat die regionale Meisterschaft gewonnen.
+  Elle rêve de devenir une star du *football* professionnel.
+  Sie träumt davon, ein Profi*fußball*star zu werden.
+
+  Les enfants jouent au *football* dans la cour de récréation.
+  Die Kinder spielen auf dem Schulhof *Fußball*.
+
+  Le *football* amateur permet à tout le monde de pratiquer ce sport.
+  Amateur*fußball* ermöglicht es jedem, diesen Sport auszuüben.
+
+  Mon oncle m'emmène voir un match de *football* ce week-end.
+  Mein Onkel nimmt mich dieses Wochenende zu einem *Fußball*spiel mit.
+
+  L'équipe nationale de *football* s'est qualifiée pour le tournoi.
+  Die nationale *Fußball*mannschaft hat sich für das Turnier qualifiziert.
+
+  "Tu regardes le match de *football* ce soir ?"
+  "Schaust du dir heute Abend das *Fußball*spiel an?"
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

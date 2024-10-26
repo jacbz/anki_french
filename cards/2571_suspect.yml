@@ -13,20 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les suspects sont armés et très dangereux.
-  Die Verdächtigen sind bewaffnet und sehr gefährlich.
+  Les *suspects* sont armés et très dangereux.
+  Die *Verdächtigen* sind bewaffnet und sehr gefährlich.
 
-  La police a arrêté un suspect.
-  Die Polizei hat einen Verdächtigen festgenommen.
+  La police a identifié un nouveau *suspect* dans cette affaire.
+  Die Polizei hat einen neuen *Verdächtigen* in diesem Fall identifiziert.
 
-  La police a arrêté le suspect.
-  Die Polizei nahm den Verdächtigen fest.
+  Cette mort *suspecte* fait l'objet d'une enquête approfondie.
+  Dieser *verdächtige* Tod wird gründlich untersucht.
 
-  Le comportement de Pierre était suspect à Marie.
-  Pierres Verhalten war Marie verdächtig.
+  Son comportement *suspect* a attiré l'attention des voisins.
+  Sein *verdächtiges* Verhalten hat die Aufmerksamkeit der Nachbarn erregt.
 
-  Le suspect est suspect de vol.
-  Der Verdächtige steht im Verdacht, einen Diebstahl begangen zu haben.
+  Les agents de sécurité ont repéré un colis *suspect* dans le hall de la gare.
+  Die Sicherheitsbeamten haben ein *verdächtiges* Paket in der Bahnhofshalle entdeckt.
+
+  La qualité *suspecte* de ces produits nous inquiète.
+  Die *zweifelhafte* Qualität dieser Produkte bereitet uns Sorgen.
+
+  Le principal *suspect* a été relâché faute de preuves.
+  Der Haupt*verdächtige* wurde aus Mangel an Beweisen freigelassen.
+
+  Cette viande a une odeur *suspecte*, je ne la mangerai pas.
+  Dieses Fleisch hat einen *verdächtigen* Geruch, ich werde es nicht essen.
+
+  Les trois *suspects* ont été placés en garde à vue.
+  Die drei *Verdächtigen* wurden in Gewahrsam genommen.
+
+  Un bruit *suspect* réveilla tout le monde en pleine nuit.
+  Ein *verdächtiges* Geräusch weckte alle mitten in der Nacht auf.
+
+  Ce témoin est *suspect* de mensonge devant le tribunal.
+  Dieser Zeuge ist der Lüge vor Gericht *verdächtig*.
+
+  Les symptômes *suspects* ont conduit à des tests supplémentaires.
+  Die *verdächtigen* Symptome führten zu weiteren Tests.
+
+  La police a diffusé le portrait-robot du *suspect*.
+  Die Polizei hat ein Phantombild des *Verdächtigen* veröffentlicht.
+
+  Son histoire me paraît *suspecte*.
+  Seine Geschichte kommt mir *verdächtig* vor.
+
+  Les autorités ont identifié plusieurs activités *suspectes* sur son compte bancaire.
+  Die Behörden haben mehrere *verdächtige* Aktivitäten auf seinem Bankkonto festgestellt.
+
+  Le gardien a signalé des mouvements *suspects* autour du bâtiment.
+  Der Wächter meldete *verdächtige* Bewegungen um das Gebäude herum.
+
+  Cette entreprise est *suspecte* de fraude fiscale.
+  Dieses Unternehmen ist der Steuerhinterziehung *verdächtig*.
+
+  Les médecins ont découvert une tumeur *suspecte*.
+  Die Ärzte haben einen *verdächtigen* Tumor entdeckt.
+
+  Le jury considère son témoignage comme *suspect*.
+  Die Jury hält seine Aussage für *verdächtig*.
+
+  Un véhicule *suspect* a été repéré près de la banque.
+  Ein *verdächtiges* Fahrzeug wurde in der Nähe der Bank gesichtet.
+
+  Le serveur a remarqué le comportement *suspect* du client.
+  Der Kellner bemerkte das *verdächtige* Verhalten des Gastes.
+
+  Cette transaction *suspecte* a déclenché une alerte.
+  Diese *verdächtige* Transaktion hat einen Alarm ausgelöst.
+
+  Les douaniers ont intercepté un chargement *suspect*.
+  Die Zollbeamten haben eine *verdächtige* Ladung abgefangen.
+
+  Tous les *suspects* ont un alibi solide.
+  Alle *Verdächtigen* haben ein wasserdichtes Alibi.
+
+  Sa gentillesse soudaine me paraît *suspecte*.
+  Seine plötzliche Freundlichkeit kommt mir *verdächtig* vor.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

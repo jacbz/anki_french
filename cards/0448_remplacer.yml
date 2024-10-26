@@ -13,29 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tu dois être prêt à nous remplacer, le cas échéant.
-  Du musst bereit sein, uns gegebenenfalls zu ersetzen.
+  Tu dois être prêt à nous *remplacer*, le cas échéant.
+  Du musst bereit sein, uns gegebenenfalls zu *vertreten*.
 
-  Je vais remplacer le vieux canapé.
-  Ich werde das alte Sofa ersetzen.
+  Elle va *remplacer* le médecin pendant ses vacances.
+  Sie wird den Arzt während seines Urlaubs *vertreten*.
 
-  Je peux le remplacer.
-  Ich kann ihn ersetzen.
+  L'équipe technique doit *remplacer* tous les composants défectueux.
+  Das technische Team muss alle defekten Komponenten *austauschen*.
 
-  Ils vont détruire le bâtiment et le remplacer par un parc.
-  Sie wollen das Gebäude abreißen und durch einen Park ersetzen.
+  Le directeur a *remplacé* son assistant par quelqu'un de plus compétent.
+  Der Direktor hat seinen Assistenten durch jemand Kompetenteres *ersetzt*.
 
-  Pierre a décidé de remplacer sa vieille voiture par un modèle plus récent.
-  Pierre hat sich entschieden, sich ein anderes Auto zu kaufen, ein neueres Modell.
+  Les calculatrices ont *remplacé* les règles à calcul dans les écoles.
+  Taschenrechner haben die Rechenschieber in den Schulen *ersetzt*.
 
-  Sophie va remplacer son collègue pendant son absence.
-  Sophie wird ihren Kollegen vertreten, während er abwesend ist.
+  Paul s'est fait *remplacer* au dernier moment par son collègue.
+  Paul hat sich im letzten Moment von seinem Kollegen *vertreten* lassen.
 
-  L'éditeur a décidé de supprimer la préface sans la remplacer.
-  Der Verlag hat entschieden, das Vorwort ersatzlos zu streichen.
+  Je dois *remplacer* ma vieille voiture qui tombe en panne.
+  Ich muss mein altes Auto, das ständig kaputtgeht, *ersetzen*.
 
-  Le technicien a remplacé le lecteur de CD-ROM par un lecteur de DVD.
-  Der Techniker hat das CD-ROM-Laufwerk gegen ein DVD-Laufwerk ausgetauscht.
+  Marc pourra me *remplacer* pendant la réunion demain.
+  Marc kann mich morgen bei der Besprechung *vertreten*.
+
+  Le professeur malade a été *remplacé* par un nouveau.
+  Der kranke Lehrer wurde durch einen neuen *ersetzt*.
+
+  Nous devons *remplacer* les rideaux par des stores.
+  Wir müssen die Vorhänge durch Jalousien *ersetzen*.
+
+  Cette machine peut *remplacer* trois ouvriers à elle seule.
+  Diese Maschine kann drei Arbeiter alleine *ersetzen*.
+
+  Les énergies renouvelables vont progressivement *remplacer* le pétrole.
+  Erneuerbare Energien werden nach und nach das Erdöl *ersetzen*.
+
+  Il faut *remplacer* la batterie de mon téléphone.
+  Die Batterie meines Handys muss *ausgetauscht* werden.
+
+  Sophie et Marie se sont *remplacées* au volant pendant le long trajet.
+  Sophie und Marie haben sich während der langen Fahrt am Steuer *abgelöst*.
+
+  Le miel peut *remplacer* le sucre dans cette recette.
+  Der Honig kann in diesem Rezept den Zucker *ersetzen*.
+
+  Une génération *remplace* naturellement l'autre.
+  Eine Generation *löst* natürlich die andere *ab*.
+
+  Ce logiciel va *remplacer* l'ancien système.
+  Diese Software wird das alte System *ablösen*.
+
+  Les LED ont *remplacé* les ampoules traditionnelles.
+  LED-Lampen haben die traditionellen Glühbirnen *ersetzt*.
+
+  Le joueur blessé a été *remplacé* à la mi-temps.
+  Der verletzte Spieler wurde zur Halbzeit *ausgewechselt*.
+
+  Il faut *remplacer* ce pneu usé avant l'hiver.
+  Dieser abgenutzte Reifen muss vor dem Winter *ausgewechselt* werden.
+
+  Rien ne peut *remplacer* l'expérience pratique.
+  Nichts kann praktische Erfahrung *ersetzen*.
+
+  Les emails ont largement *remplacé* le courrier traditionnel.
+  E-Mails haben die traditionelle Post weitgehend *ersetzt*.
+
+  Je dois *remplacer* la serrure cassée de ma porte.
+  Ich muss das kaputte Schloss meiner Tür *austauschen*.
+
+  Cette pièce rare ne peut pas se *remplacer* facilement.
+  Dieses seltene Teil lässt sich nicht einfach *ersetzen*.
+
+  L'euro a *remplacé* le franc en 2002.
+  Der Euro hat 2002 den Franc *abgelöst*.
+
+  Le numérique a *remplacé* l'analogique dans la photographie.
+  Die digitale hat die analoge Fotografie *abgelöst*.
+
+  Les robots vont-ils *remplacer* les humains un jour?
+  Werden Roboter die Menschen eines Tages *ersetzen*?
+
+  Julie va *remplacer* Marie à la direction du projet.
+  Julie wird Marie in der Projektleitung *ablösen*.
+
+  La joie a *remplacé* la tristesse dans ses yeux.
+  Freude hat die Traurigkeit in ihren Augen *ersetzt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

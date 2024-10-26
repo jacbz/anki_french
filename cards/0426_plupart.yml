@@ -13,38 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La plupart des jeux vidéo violents sont japonais.
-  Die meisten gewalttätigen Videospiele kommen aus Japan.
+  La *plupart* des jeux vidéo violents sont japonais.
+  Die *meisten* gewalttätigen Videospiele sind japanisch.
 
-  La plupart des gens aiment le chocolat.
-  Die Mehrheit der Menschen mag Schokolade.
+  La *plupart* des étudiants préfèrent travailler le soir.
+  Die *meisten* Studenten arbeiten lieber abends.
 
-  La plupart des élèves ont réussi leur examen.
-  Die meisten Schüler haben ihre Prüfung bestanden.
+  La *plupart* d'entre nous ne connaissaient pas cette histoire.
+  Die *meisten* von uns kannten diese Geschichte nicht.
 
-  La plupart des femmes mariées travaillent.
-  Die meisten Ehefrauen arbeiten.
+  La *plupart* du temps, je prends le métro pour aller au travail.
+  *Meistens* nehme ich die U-Bahn zur Arbeit.
 
-  Pour la plupart, les élèves étaient satisfaits du professeur.
-  Zum größten Teil waren die Schüler mit dem Lehrer zufrieden.
+  Dans la *plupart* des cas, une simple aspirine suffit.
+  In den *meisten* Fällen reicht eine einfache Aspirin.
 
-  La plupart d'entre nous sommes allés au cinéma.
-  Die meisten von uns sind ins Kino gegangen.
+  La *plupart* des oiseaux migrateurs sont déjà partis vers le sud.
+  Die *meisten* Zugvögel sind bereits nach Süden geflogen.
 
-  La plupart d'entre eux ont déjà fini leurs devoirs.
-  Die meisten von ihnen haben ihre Hausaufgaben schon beendet.
+  La *plupart* de son argent a été dépensé en vacances.
+  Der *größte* Teil seines Geldes wurde für Urlaub ausgegeben.
 
-  La plupart d'entre elles ont participé au concours.
-  Die meisten von ihnen haben an dem Wettbewerb teilgenommen.
+  Ils sont venus nombreux, et la *plupart* sont restés jusqu'à la fin.
+  Viele sind gekommen, und die *meisten* sind bis zum Ende geblieben.
 
-  La plupart sont venus à la fête.
-  Die meisten sind zur Party gekommen.
+  La *plupart* d'entre elles travaillent dans l'informatique.
+  Die *meisten* von ihnen arbeiten in der IT-Branche.
 
-  Dans la plupart des cas, le résultat est positif.
-  In den meisten Fällen ist das Ergebnis positiv.
+  Pour la *plupart*, ces fruits viennent d'Espagne.
+  Diese Früchte kommen *größtenteils* aus Spanien.
 
-  La plupart du temps, il fait beau en été.
-  Die meiste Zeit ist es im Sommer schön.
+  La *plupart* des restaurants ferment le lundi.
+  Die *meisten* Restaurants haben montags geschlossen.
+
+  La *plupart* du temps, il fait beau en été.
+  *Meistens* ist das Wetter im Sommer schön.
+
+  La *plupart* des enfants adorent les bonbons.
+  Die *meisten* Kinder lieben Süßigkeiten.
+
+  La *plupart* de mes amis parlent au moins deux langues.
+  Die *meisten* meiner Freunde sprechen mindestens zwei Sprachen.
+
+  Dans la *plupart* des pays européens, l'euro est la monnaie officielle.
+  In den *meisten* europäischen Ländern ist der Euro die offizielle Währung.
+
+  La *plupart* des chats dorment pendant la journée.
+  Die *meisten* Katzen schlafen tagsüber.
+
+  La *plupart* d'entre vous avez déjà visité Paris.
+  Die *meisten* von euch haben Paris bereits besucht.
+
+  La *plupart* du temps, elle arrive en retard.
+  *Meistens* kommt sie zu spät.
+
+  La *plupart* des touristes visitent la tour Eiffel.
+  Die *meisten* Touristen besuchen den Eiffelturm.
+
+  La *plupart* de ses livres sont en français.
+  Die *meisten* seiner Bücher sind auf Französisch.
+
+  Pour la *plupart*, ces problèmes sont faciles à résoudre.
+  Diese Probleme sind *größtenteils* leicht zu lösen.
+
+  La *plupart* des gens préfèrent l'été à l'hiver.
+  Die *meisten* Menschen haben den Sommer lieber als den Winter.
+
+  La *plupart* d'entre eux habitent en ville.
+  Die *meisten* von ihnen wohnen in der Stadt.
+
+  Dans la *plupart* des familles, on mange ensemble le soir.
+  In den *meisten* Familien isst man abends zusammen.
+
+  La *plupart* des voitures modernes sont automatiques.
+  Die *meisten* modernen Autos sind Automatikfahrzeuge.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

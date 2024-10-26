@@ -13,38 +13,80 @@ Register: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je peux avoir un truc à grignoter?
-  Kann ich etwas zum Knabbern haben?
+  "Je peux avoir un *truc* à grignoter ?"
+  "Kann ich ein *Ding* zum Knabbern haben?"
 
-  Je ne sais pas comment utiliser ce truc.
-  Ich weiß nicht, wie man dieses Ding benutzt.
+  "C'est quoi ce *truc* bizarre sur la table ?"
+  "Was ist das für ein seltsames *Ding* auf dem Tisch?"
 
-  Où est le truc ?
-  Wo ist der Trick?
+  "J'ai acheté un nouveau *truc* pour la cuisine."
+  "Ich habe ein neues *Ding* für die Küche gekauft."
 
-  C'est mon truc, je préfère cuisiner plutôt que de regarder la télé.
-  Das ist meine Sache, ich koche lieber, als fernzusehen.
+  "Le magicien nous a montré ses meilleurs *trucs*."
+  "Der Zauberer hat uns seine besten *Tricks* gezeigt."
 
-  C'est pas mon truc, je n'aime pas les films d'horreur.
-  Das ist nicht mein Fall, ich mag keine Horrorfilme.
+  "Tu connais le *truc* pour faire partir les taches ?"
+  "Kennst du den *Trick*, wie man Flecken entfernt?"
 
-  J'ai finalement trouvé le truc pour faire des gâteaux moelleux.
-  Ich habe endlich den Dreh gefunden, wie man fluffige Kuchen backt.
+  "C'est *Truc* qui m'a donné ce livre, tu sais."
+  "Das hat mir *Dingsbums* gegeben, du weißt schon."
 
-  C'est Truc, tu sais, ce petit magasin caché dans une ruelle.
-  Das ist der Dings, du weißt schon, dieser kleine Laden versteckt in einer Gasse.
+  "La cuisine japonaise, ce n'est pas mon *truc*."
+  "Japanische Küche ist nicht mein *Ding*."
 
-  J'ai trouvé un truc pour faire pousser des tomates plus grosses.
-  Ich habe einen Trick gefunden, um größere Tomaten wachsen zu lassen.
+  "Il y a un *truc* qui ne va pas avec cette voiture."
+  "Mit diesem Auto stimmt irgendein *Ding* nicht."
 
-  C'est un drôle de truc, ce qu'il a fait.
-  Das ist etwas Komisches, was er gemacht hat.
+  "Elle m'a appris tous les *trucs* du métier."
+  "Sie hat mir alle *Tricks* des Handwerks beigebracht."
 
-  C'est un truc extraordinaire, cette sculpture.
-  Das ist etwas Außergewöhnliches, diese Skulptur.
+  "J'ai un *truc* à te dire."
+  "Ich habe dir ein *Ding* zu sagen."
 
-  J'ai vu un truc bizarre dans le jardin, je n'ai pas compris ce que c'était.
-  Ich habe etwas Seltsames im Garten gesehen, ich habe nicht verstanden, was es war.
+  "Passe-moi ce *truc*-là, s'il te plaît."
+  "Reich mir bitte das *Dings* da."
+
+  "C'est un *truc* extraordinaire qui m'est arrivé hier."
+  "Mir ist gestern etwas Außergewöhnliches *passiert*."
+
+  "Je cherche un *truc* pour ranger mes câbles."
+  "Ich suche ein *Ding* zum Aufbewahren meiner Kabel."
+
+  "Il connaît plein de *trucs* pour économiser de l'argent."
+  "Er kennt viele *Tricks*, um Geld zu sparen."
+
+  "Ce *truc*-là, ça ne marchera jamais !"
+  "Dieses *Ding* da wird niemals funktionieren!"
+
+  "J'ai vu un drôle de *truc* en rentrant."
+  "Ich habe auf dem Heimweg ein komisches *Ding* gesehen."
+
+  "Tu as encore oublié ton *truc* pour les clés."
+  "Du hast schon wieder dein *Dings* für die Schlüssel vergessen."
+
+  "Le théâtre utilise beaucoup de *trucs* pour créer des effets spéciaux."
+  "Das Theater verwendet viele *Tricks*, um Spezialeffekte zu erzeugen."
+
+  "Chacun son *truc*, comme on dit."
+  "Jeder hat sein *Ding*, wie man so sagt."
+
+  "Il y a un *truc* qui cloche dans son histoire."
+  "In seiner Geschichte stimmt irgendein *Ding* nicht."
+
+  "Elle a toujours des *trucs* intéressants à raconter."
+  "Sie hat immer interessante *Sachen* zu erzählen."
+
+  "Je dois trouver un *truc* pour me motiver."
+  "Ich muss einen *Trick* finden, um mich zu motivieren."
+
+  "C'est un *truc* tout simple en fait."
+  "Es ist eigentlich ein ganz einfaches *Ding*."
+
+  "Il m'a vendu un *truc* qui ne fonctionne même pas."
+  "Er hat mir ein *Ding* verkauft, das nicht einmal funktioniert."
+
+  "Tu as vu le nouveau *truc* de Paul ?"
+  "Hast du Pauls neues *Ding* gesehen?"
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

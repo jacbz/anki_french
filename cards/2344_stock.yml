@@ -13,41 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il conserve et protège nos stocks de poisson.
-  Er bewahrt und schützt unsere Fischbestände.
+  Il conserve et protège nos *stocks* de poisson.
+  Er schützt und bewahrt unsere Fisch*bestände*.
 
-  Nous avons un grand stock de marchandises.
-  Wir haben einen großen Lagerbestand an Waren.
+  Le supermarché a un grand *stock* de produits alimentaires.
+  Der Supermarkt hat einen großen *Vorrat* an Lebensmitteln.
 
-  Les stocks budgétés sont les stocks que l'entreprise prévoit d'avoir à la fin de la période.
-  Der Planbestand ist der Bestand, den das Unternehmen am Ende der Periode zu haben plant.
+  Nous devons contrôler notre *stock* de pièces détachées chaque mois.
+  Wir müssen unser Ersatzteil*lager* jeden Monat kontrollieren.
 
-  Le stock de sucre est le nombre de kilos de sucre que l'entreprise a en stock.
-  Der Zuckervorrat ist die Menge an Zucker in Kilogramm, die das Unternehmen auf Lager hat.
+  "J'ai un énorme *stock* de chocolat dans mon placard !"
+  "Ich habe einen riesigen *Vorrat* an Schokolade in meinem Schrank!"
 
-  Garde ce stylo, j'en ai tout un stock.
-  Behalte den Stift, ich habe davon eine ganze Menge.
+  Malheureusement, cet article est en rupture de *stock*.
+  Leider ist dieser Artikel nicht mehr *vorrätig*.
 
-  Un stock déficitaire est un stock qui est inférieur au niveau minimal requis.
-  Ein Fehlbestand ist ein Bestand, der unter dem minimal erforderlichen Niveau liegt.
+  Le magasin doit *stocker* plus de marchandises avant Noël.
+  Das Geschäft muss vor Weihnachten mehr Waren *einlagern*.
 
-  Les stocks disponibles sont les stocks qui sont effectivement disponibles pour la vente.
-  Der Lagerbestand ist der Bestand, der tatsächlich für den Verkauf verfügbar ist.
+  Les *stocks* de matières premières diminuent rapidement.
+  Die Rohstoff*bestände* gehen schnell zur Neige.
 
-  Le stock effectif est le stock qui est réellement présent dans l'entrepôt.
-  Der effektive Bestand ist der Bestand, der sich tatsächlich im Lager befindet.
+  Mon père a constitué un *stock* de bois pour l'hiver.
+  Mein Vater hat einen Holz*vorrat* für den Winter angelegt.
 
-  Le stock final est le stock qui est présent à la fin de la période.
-  Der Endbestand ist der Bestand, der am Ende der Periode vorhanden ist.
+  Il faut gérer les *stocks* de manière efficace.
+  Die *Lagerbestände* müssen effizient verwaltet werden.
 
-  Les stocks tampons sont des stocks supplémentaires qui sont maintenus pour faire face aux variations de la demande.
-  Pufferbestände sind zusätzliche Bestände, die zur Deckung von Nachfrageschwankungen gehalten werden.
+  La librairie a un *stock* important de nouveaux romans.
+  Die Buchhandlung hat einen großen *Bestand* an neuen Romanen.
 
-  Les stocks de matières premières sont les stocks de matériaux utilisés pour la production.
-  Rohstoffbestände sind die Bestände an Materialien, die für die Produktion verwendet werden.
+  Les *stocks* tampons nous protègent des pénuries.
+  Die Puffer*bestände* schützen uns vor Engpässen.
 
-  Le stock de pièces détachées est le stock de pièces utilisées pour réparer les produits.
-  Das Ersatzteillager ist der Bestand an Teilen, die zur Reparatur von Produkten verwendet werden.
+  Notre *stock* de sucre est presque épuisé.
+  Unser Zucker*vorrat* ist fast aufgebraucht.
+
+  Le nouveau système informatique gère tous nos *stocks*.
+  Das neue Computersystem verwaltet alle unsere *Bestände*.
+
+  "Garde ce livre, j'en ai tout un *stock* à la maison."
+  "Behalte das Buch, ich habe zu Hause einen ganzen *Vorrat* davon."
+
+  Ils doivent liquider leur *stock* avant la fin du mois.
+  Sie müssen ihr *Lager* bis zum Monatsende räumen.
+
+  Le *stock* final sera compté demain matin.
+  Der End*bestand* wird morgen früh gezählt.
+
+  Nous avons un *stock* déficitaire de ces produits.
+  Wir haben einen Fehl*bestand* bei diesen Produkten.
+
+  Les agriculteurs surveillent leurs *stocks* de céréales.
+  Die Bauern überwachen ihre Getreide*vorräte*.
+
+  La police a découvert un *stock* d'armes dans la cave.
+  Die Polizei hat ein Waffen*lager* im Keller entdeckt.
+
+  Le serveur conserve un *stock* de données important.
+  Der Server bewahrt einen großen Daten*bestand*.
+
+  Ces médicaments sont toujours en *stock*.
+  Diese Medikamente sind noch auf *Lager*.
+
+  Pierre gère le *stock* de pièces détachées depuis dix ans.
+  Pierre verwaltet seit zehn Jahren das Ersatzteil*lager*.
+
+  Les *stocks* budgétés ne correspondent pas à la réalité.
+  Die Plan*bestände* stimmen nicht mit der Realität überein.
+
+  Le magasin doit écouler ses *stocks* avant les soldes.
+  Das Geschäft muss seine *Bestände* vor dem Schlussverkauf abverkaufen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

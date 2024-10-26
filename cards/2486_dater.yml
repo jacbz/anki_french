@@ -13,29 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le dernier film concerné date de 1990.
-  Der letzte betroffene Film stammt aus dem Jahr 1990.
+  Le dernier film concerné *date* de 1990.
+  Der betreffende letzte Film *stammt* aus dem Jahr 1990.
 
-  Cette lettre date de 1789.
-  Dieser Brief stammt aus dem Jahr 1789.
+  Cette lettre *date* d'aujourd'hui et doit être envoyée immédiatement.
+  Dieser Brief *datiert* von heute und muss sofort verschickt werden.
 
-  Ce livre est daté du 18ème siècle.
-  Dieses Buch trägt das Datum aus dem 18. Jahrhundert.
+  Cette robe *date* un peu, mais elle est toujours élégante.
+  Dieses Kleid ist etwas *altmodisch*, aber immer noch elegant.
 
-  Ces ruines datent de la guerre de Cent Ans.
-  Diese Ruinen stammen aus dem Hundertjährigen Krieg.
+  "Notre amitié ne *date* pas d'hier !"
+  "Unsere Freundschaft ist nicht von gestern!"
 
-  Ce magasin ne date pas d'hier, il est là depuis 50 ans.
-  Dieser Laden ist nicht neu, er ist schon seit 50 Jahren hier.
+  La décision de démissionner *date* de quelques minutes.
+  Die Entscheidung zu kündigen wurde vor einigen Minuten getroffen.
 
-  Cette décision date de quelques minutes, elle n'a pas encore été annoncée au public.
-  Diese Entscheidung ist vor einigen Minuten getroffen worden, sie wurde noch nicht öffentlich bekannt gegeben.
+  À *dater* du premier janvier, les nouvelles règles s'appliqueront.
+  Ab dem ersten Januar werden die neuen Regeln gelten.
 
-  À dater du 3 mai, les prix de l'essence augmenteront.
-  Vom 3. Mai an werden die Benzinpreise steigen.
+  Cette découverte a *daté* dans l'histoire de la médecine.
+  Diese Entdeckung war ein *Meilenstein* in der Geschichte der Medizin.
 
-  Le décès de son père a été un moment qui date dans la vie de Marie.
-  Der Tod seines Vaters war ein einschneidender Moment im Leben von Marie.
+  N'oubliez pas de *dater* et signer le formulaire.
+  Vergessen Sie nicht, das Formular zu *datieren* und zu unterschreiben.
+
+  Les archéologues ont *daté* ces ossements du néolithique.
+  Die Archäologen haben diese Knochen auf die Jungsteinzeit *datiert*.
+
+  Cette rencontre a *daté* dans ma vie.
+  Diese Begegnung war ein *Einschnitt* in meinem Leben.
+
+  Les experts ont *daté* ce tableau du XVIIIe siècle.
+  Die Experten haben dieses Gemälde auf das 18. Jahrhundert *datiert*.
+
+  La construction de cette cathédrale *date* du Moyen Âge.
+  Der Bau dieser Kathedrale *stammt* aus dem Mittelalter.
+
+  Son style vestimentaire *date* terriblement.
+  Sein Kleidungsstil ist schrecklich *veraltet*.
+
+  La tradition *date* de plusieurs siècles.
+  Die Tradition *reicht* mehrere Jahrhunderte zurück.
+
+  Le document est *daté* du 15 mars 2024.
+  Das Dokument *trägt* das Datum vom 15. März 2024.
+
+  Cette invention *datera* dans l'histoire des technologies.
+  Diese Erfindung wird in die Geschichte der Technologie *eingehen*.
+
+  Les chercheurs ont réussi à *dater* précisément le manuscrit.
+  Den Forschern ist es gelungen, das Manuskript genau zu *datieren*.
+
+  Cette photo est *datée* de Londres, juin 1985.
+  Dieses Foto ist mit London, Juni 1985 *datiert*.
+
+  Son nouveau roman *date* déjà un peu.
+  Sein neuer Roman wirkt schon etwas *angestaubt*.
+
+  Cette méthode ne *date* pas d'hier, mais elle reste efficace.
+  Diese Methode ist nicht neu, aber sie ist noch immer effektiv.
+
+  Le début de leur relation *date* de cette soirée mémorable.
+  Der Beginn ihrer Beziehung *geht* auf diesen denkwürdigen Abend zurück.
+
+  À *dater* d'aujourd'hui, je commence un nouveau régime.
+  Von heute an beginne ich mit einer neuen Diät.
+
+  Cette expression *date* de l'époque médiévale.
+  Dieser Ausdruck *stammt* aus dem Mittelalter.
+
+  Les géologues ont *daté* ces roches au carbone 14.
+  Die Geologen haben diese Gesteine mit der Radiokohlenstoffmethode *datiert*.
+
+  Le journal est *daté* du 3 mai.
+  Die Zeitung *trägt* das Datum vom 3. Mai.
+
+  Leur amitié *date* de l'université.
+  Ihre Freundschaft *stammt* aus der Studienzeit.
+
+  Cette décoration intérieure *date* terriblement.
+  Diese Inneneinrichtung ist sehr *altmodisch*.
+
+  Sa passion pour la musique *date* de son enfance.
+  Seine Leidenschaft für Musik *reicht* bis in seine Kindheit zurück.
+
+  Le premier courriel *date* des années 1970.
+  Die erste E-Mail *stammt* aus den 1970er Jahren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

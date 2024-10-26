@@ -13,17 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’en suis profondément heureux.
-  Ich bin zutiefst glücklich darüber.
+  J'en suis *profondément* heureux.
+  Ich bin darüber *zutiefst* glücklich.
 
-  Je suis profondément touché.
-  Ich bin tief berührt.
+  Il faut creuser *profondément* pour trouver de l'eau dans cette région.
+  Man muss *tief* graben, um in dieser Region Wasser zu finden.
 
-  Ces deux pays sont profondément différents dans leur culture et leur mode de vie.
-  Diese beiden Länder sind in ihrer Kultur und Lebensweise grundverschieden.
+  Elle dormait *profondément* quand l'orage a éclaté.
+  Sie schlief *tief*, als das Gewitter losbrach.
 
-  La situation actuelle est profondément différente de ce que nous avons connu auparavant.
-  Die aktuelle Situation ist grundverschieden von dem, was wir bisher erlebt haben.
+  Ces deux cultures sont *profondément* différentes l'une de l'autre.
+  Diese beiden Kulturen sind *grund*verschieden voneinander.
+
+  La racine de cet arbre s'enfonce *profondément* dans le sol.
+  Die Wurzel dieses Baumes dringt *tief* in den Boden ein.
+
+  Je suis *profondément* convaincu que nous réussirons.
+  Ich bin *felsenfest* davon überzeugt, dass wir Erfolg haben werden.
+
+  Cette expérience m'a *profondément* marqué.
+  Diese Erfahrung hat mich *tief* geprägt.
+
+  Il s'est incliné *profondément* devant le roi.
+  Er verbeugte sich *tief* vor dem König.
+
+  Cette rivière est *profondément* encaissée entre les montagnes.
+  Dieser Fluss liegt *tief* zwischen den Bergen eingeschnitten.
+
+  Je regrette *profondément* mes erreurs.
+  Ich bereue meine Fehler *zutiefst*.
+
+  Elle a *profondément* réfléchi avant de prendre sa décision.
+  Sie hat *gründlich* nachgedacht, bevor sie ihre Entscheidung traf.
+
+  Cette idée est *profondément* ancrée dans notre culture.
+  Diese Idee ist *tief* in unserer Kultur verankert.
+
+  Respirez *profondément* et détendez-vous.
+  Atmen Sie *tief* ein und entspannen Sie sich.
+
+  Ces changements ont *profondément* influencé notre société.
+  Diese Veränderungen haben unsere Gesellschaft *stark* beeinflusst.
+
+  Je suis *profondément* déçu par son comportement.
+  Ich bin von seinem Verhalten *zutiefst* enttäuscht.
+
+  Elle aime *profondément* ses enfants.
+  Sie liebt ihre Kinder *innig*.
+
+  Cette grotte s'enfonce *profondément* dans la montagne.
+  Diese Höhle dringt *tief* in den Berg ein.
+
+  Je souhaite *profondément* vous revoir un jour.
+  Ich wünsche mir *sehnlichst*, Sie eines Tages wiederzusehen.
+
+  Il a été *profondément* touché par ce geste.
+  Er war von dieser Geste *tief* berührt.
+
+  Ces événements l'ont *profondément* affectée.
+  Diese Ereignisse haben sie *stark* mitgenommen.
+
+  Cette trahison l'a *profondément* vexé.
+  Dieser Verrat hat ihn *schwer* gekränkt.
+
+  Le message s'est *profondément* gravé dans sa mémoire.
+  Die Botschaft hat sich *tief* in sein Gedächtnis eingeprägt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

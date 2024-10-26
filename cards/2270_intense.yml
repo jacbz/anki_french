@@ -13,11 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle me faisait vivre des moments intenses.
-  Sie ließ mich intensive Momente erleben.
+  Elle me faisait vivre des moments *intenses*.
+  Sie ließ mich *intensive* Momente erleben.
 
-  C’est une expérience intense.
-  Es ist eine intensive Erfahrung.
+  La lumière *intense* du soleil m'éblouissait.
+  Das *intensive* Sonnenlicht blendete mich.
+
+  Le rouge *intense* de sa robe attirait tous les regards.
+  Das *kräftige* Rot ihres Kleides zog alle Blicke auf sich.
+
+  Nous avons ressenti une joie *intense* à la naissance de notre fils.
+  Wir empfanden eine *große* Freude bei der Geburt unseres Sohnes.
+
+  La chaleur *intense* de l'été nous épuisait.
+  Die *starke* Sommerhitze erschöpfte uns.
+
+  Un froid *intense* s'est abattu sur la ville cette nuit.
+  Eine *eisige* Kälte ist heute Nacht über die Stadt hereingebrochen.
+
+  Les vibrations *intenses* faisaient trembler tout l'immeuble.
+  Die *heftigen* Vibrationen ließen das ganze Gebäude erzittern.
+
+  La circulation est particulièrement *intense* aux heures de pointe.
+  Der Verkehr ist besonders *dicht* zu den Stoßzeiten.
+
+  Une activité *intense* règne dans les rues du marché.
+  Eine *rege* Aktivität herrscht in den Marktstraßen.
+
+  Le parfum *intense* des fleurs embaumait toute la pièce.
+  Der *intensive* Duft der Blumen durchströmte den ganzen Raum.
+
+  Son regard *intense* m'a fait frissonner.
+  Sein *durchdringender* Blick ließ mich erschaudern.
+
+  La douleur était si *intense* qu'elle ne pouvait plus bouger.
+  Der Schmerz war so *heftig*, dass sie sich nicht mehr bewegen konnte.
+
+  Une soif *intense* nous torturait pendant la randonnée.
+  Ein *starker* Durst quälte uns während der Wanderung.
+
+  Le bleu *intense* du ciel annonçait une belle journée.
+  Das *intensive* Blau des Himmels kündigte einen schönen Tag an.
+
+  Son désir *intense* de réussir l'a poussé à travailler jour et nuit.
+  Sein *starker* Wunsch nach Erfolg trieb ihn dazu, Tag und Nacht zu arbeiten.
+
+  L'émotion *intense* l'empêchait de parler.
+  Die *heftige* Emotion hinderte ihn am Sprechen.
+
+  Une pluie *intense* s'est mise à tomber.
+  Ein *starker* Regen setzte ein.
+
+  Le bruit *intense* de l'orage réveilla tout le village.
+  Der *intensive* Lärm des Gewitters weckte das ganze Dorf.
+
+  Le plaisir *intense* de retrouver sa famille le submergeait.
+  Die *große* Freude, seine Familie wiederzusehen, überwältigte ihn.
+
+  Une odeur *intense* de café se répandait dans la cuisine.
+  Ein *intensiver* Kaffeeduft breitete sich in der Küche aus.
+
+  La musique devenait de plus en plus *intense*.
+  Die Musik wurde immer *intensiver*.
+
+  Les couleurs deviennent plus *intenses* au coucher du soleil.
+  Die Farben werden *kräftiger* bei Sonnenuntergang.
+
+  Le silence était si *intense* qu'on pouvait entendre une mouche voler.
+  Die Stille war so *intensiv*, dass man eine Fliege hätte fliegen hören können.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -9,26 +9,54 @@ Femininum / Plural: ''
 IPA: \sə.pɑ̃.dɑ̃\
 Definition: jedoch, allerdings
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Cette sécurité se trouve cependant menacée.\nDiese Sicherheit ist\
-  \ jedoch gefährdet.\n\nJe voulais aller au cinéma, cependant j’ai décidé de rester\
-  \ à la maison.\nIch wollte ins Kino gehen, allerdings habe ich mich entschieden,\
-  \ zu Hause zu bleiben.\n\nJ’aime beaucoup les sucreries, cependant je dois faire\
-  \ attention à ma santé.\nIch mag Süßigkeiten sehr gerne, allerdings muss ich auf\
-  \ meine Gesundheit achten.\n\nJ’aimerais sortir ce soir, cependant je dois étudier\
-  \ pour mon examen demain.\nIch würde heute Abend gerne ausgehen, allerdings muss\
-  \ ich morgen für meine Prüfung lernen.\n\nIl a travaillé dur, cependant il n’a pas\
-  \ réussi à obtenir le poste.\nEr arbeitete hart, dennoch gelang es ihm nicht, die\
-  \ Stelle zu bekommen.\n\nL’entreprise a connu des difficultés financières, cependant\
-  \ elle a réussi à se redresser.\nDas Unternehmen hatte finanzielle Schwierigkeiten,\
-  \ schaffte es jedoch, sich wieder zu erholen.\n\nLes prévisions météorologiques\
-  \ annonçaient de la pluie, cependant le soleil a finalement brillé toute la journée.\n\
-  Die Wettervorhersage sagte Regen voraus, jedoch schien schließlich den ganzen Tag\
-  \ lang die Sonne.\n\nC'est incroyable et cependant vrai que la Terre soit ronde.\
-  \ \nEs ist unglaublich, aber wahr, dass die Erde rund ist.\n\nCependant, en fin\
-  \ de journée, il est rentré chez lui.\nGegen Abend jedoch ging er nach Hause.\n\n\
-  Il a raté son examen de mathématiques et cependant il avait travaillé dur pendant\
-  \ des semaines.\nEr ist durch die Mathematikprüfung gefallen, obwohl er doch wochenlang\
-  \ fleißig gelernt hatte."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Cette sécurité se trouve *cependant* menacée.
+  Diese Sicherheit ist *jedoch* bedroht.
+
+  Le film était long, *cependant* il restait captivant jusqu'à la fin.
+  Der Film war lang, *dennoch* blieb er bis zum Ende fesselnd.
+
+  *Cependant* que Marie étudiait, Pierre préparait le dîner.
+  *Während* Marie lernte, bereitete Pierre das Abendessen vor.
+
+  La solution paraît simple, *cependant* personne n'y avait pensé avant.
+  Die Lösung scheint einfach, *trotzdem* hatte vorher niemand daran gedacht.
+
+  Son histoire semblait incroyable, et *cependant* elle disait la vérité.
+  Ihre Geschichte schien unglaublich, und *dennoch* sagte sie die Wahrheit.
+
+  Les prix augmentent, *cependant* les salaires restent les mêmes.
+  Die Preise steigen, die Gehälter bleiben *jedoch* gleich.
+
+  Elle a beaucoup travaillé, *cependant* elle n'a pas réussi l'examen.
+  Sie hat viel gearbeitet, ist *jedoch* durch die Prüfung gefallen.
+
+  *Cependant* que l'orage grondait, nous restions à l'abri.
+  *Während* das Gewitter grollte, blieben wir im Schutz.
+
+  Le temps passe vite, *cependant* nous n'avançons pas.
+  Die Zeit vergeht schnell, wir kommen *allerdings* nicht voran.
+
+  Nous pensions qu'il ne viendrait pas, *cependant* le voilà.
+  Wir dachten, er würde nicht kommen, *jedoch* ist er da.
+
+  Il pleuvait fort, *cependant* nous avons continué notre randonnée.
+  Es regnete stark, wir haben unsere Wanderung *trotzdem* fortgesetzt.
+
+  La maison est petite, *cependant* elle est très confortable.
+  Das Haus ist klein, *dennoch* ist es sehr gemütlich.
+
+  *Cependant* que les enfants jouaient, les parents discutaient.
+  *Während* die Kinder spielten, unterhielten sich die Eltern.
+
+  Le chemin était difficile, *cependant* nous sommes arrivés à l'heure.
+  Der Weg war schwierig, wir sind *aber* pünktlich angekommen.
+
+  Elle ne parle pas français couramment, *cependant* elle se fait comprendre.
+  Sie spricht nicht fließend Französisch, kann sich *aber* verständlich machen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

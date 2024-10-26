@@ -13,11 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La société se retourne contre les juifs.
-  Die Gesellschaft wendet sich gegen die Juden.
+  La société se retourne contre les *Juifs*.
+  Die Gesellschaft wendet sich gegen die *Juden*.
 
-  Mon voisin est juif.
-  Mein Nachbar ist Jude.
+  La communauté *juive* célèbre Hanoukka en décembre.
+  Die *jüdische* Gemeinschaft feiert im Dezember Chanukka.
+
+  L'histoire des *Juifs* en Europe est complexe et douloureuse.
+  Die Geschichte der *Juden* in Europa ist komplex und schmerzlich.
+
+  Les traditions *juives* se transmettent de génération en génération.
+  Die *jüdischen* Traditionen werden von Generation zu Generation weitergegeben.
+
+  Le vieux quartier *juif* de Prague attire de nombreux visiteurs.
+  Das alte *Juden*viertel in Prag zieht viele Besucher an.
+
+  Cette famille *juive* pratiquante respecte le shabbat.
+  Diese praktizierende *jüdische* Familie hält den Sabbat ein.
+
+  Les *Juifs* ashkénazes ont développé leur propre culture culinaire.
+  Die aschkenasischen *Juden* haben ihre eigene Esskultur entwickelt.
+
+  La diaspora *juive* s'étend sur tous les continents.
+  Die *jüdische* Diaspora erstreckt sich über alle Kontinente.
+
+  Les fêtes *juives* suivent le calendrier lunaire.
+  Die *jüdischen* Feiertage folgen dem Mondkalender.
+
+  De nombreux *Juifs* français ont émigré en Israël.
+  Viele französische *Juden* sind nach Israel ausgewandert.
+
+  Le cimetière *juif* de Prague date du XVe siècle.
+  Der *jüdische* Friedhof in Prag stammt aus dem 15. Jahrhundert.
+
+  La cuisine *juive* varie selon les régions du monde.
+  Die *jüdische* Küche unterscheidet sich je nach Weltregion.
+
+  Les *Juifs* sépharades ont préservé leurs traditions ancestrales.
+  Die sephardischen *Juden* haben ihre althergebrachten Traditionen bewahrt.
+
+  Le musée présente l'histoire du peuple *juif*.
+  Das Museum stellt die Geschichte des *jüdischen* Volkes dar.
+
+  La population *juive* de New York est importante.
+  Die *jüdische* Bevölkerung in New York ist bedeutend.
+
+  Les écoles *juives* enseignent l'hébreu aux enfants.
+  Die *jüdischen* Schulen unterrichten die Kinder in Hebräisch.
+
+  Les *Juifs* orthodoxes suivent strictement la Torah.
+  Orthodoxe *Juden* befolgen streng die Thora.
+
+  La culture *juive* a enrichi le patrimoine mondial.
+  Die *jüdische* Kultur hat das Weltkulturerbe bereichert.
+
+  Les archives contiennent des documents sur la vie *juive* médiévale.
+  Die Archive enthalten Dokumente über das mittelalterliche *jüdische* Leben.
+
+  L'identité *juive* se définit par la religion et la culture.
+  Die *jüdische* Identität wird durch Religion und Kultur definiert.
+
+  Certains critiquent le soutien des institutions juives à Israël, jugé trop fort.
+  Einige kritisieren die Unterstützung der jüdischen Institutionen für Israel, die als zu stark empfunden wird.
+
+  On reproche parfois aux communautés juives d’être trop tournées vers elles-mêmes.
+  Manchmal wird den jüdischen Gemeinschaften vorgeworfen, zu sehr auf sich selbst fokussiert zu sein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

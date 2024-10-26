@@ -13,14 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai pas envie de me faire violer.
-  Ich will nicht vergewaltigt werden.
+  J'ai pas envie de me faire *violer*.
+  Ich will nicht *vergewaltigt* werden.
 
-  Il a été condamné pour avoir violé une femme.
-  Er wurde verurteilt, weil er eine Frau vergewaltigt hat.
+  Les cambrioleurs ont *violé* mon domicile pendant les vacances.
+  Die Einbrecher sind während des Urlaubs *widerrechtlich* in meine Wohnung eingedrungen.
 
-  Elle a été violée par un inconnu.
-  Sie wurde von einem Unbekannten vergewaltigt.
+  En signant ce contrat, il a *violé* tous ses principes.
+  Mit der Unterzeichnung dieses Vertrags hat er alle seine Prinzipien *verletzt*.
+
+  Ces nouvelles lois *violent* la constitution.
+  Diese neuen Gesetze *verstoßen* gegen die Verfassung.
+
+  Le gouvernement a *violé* le traité de paix.
+  Die Regierung hat den Friedensvertrag *gebrochen*.
+
+  Les troupes ennemies ont *violé* la frontière hier soir.
+  Die feindlichen Truppen haben gestern Abend die Grenze *verletzt*.
+
+  Cette entreprise a *violé* les droits des travailleurs.
+  Dieses Unternehmen hat die Arbeiterrechte *verletzt*.
+
+  Elle a *violé* son serment de confidentialité.
+  Sie hat ihren Schweigepflicht*eid* *gebrochen*.
+
+  Les vandales ont *violé* plusieurs tombes au cimetière.
+  Die Vandalen haben mehrere Gräber auf dem Friedhof *geschändet*.
+
+  Le journaliste a *violé* le secret professionnel.
+  Der Journalist hat die Schweigepflicht *verraten*.
+
+  Ces actions *violent* clairement le règlement intérieur.
+  Diese Handlungen *verstoßen* eindeutig gegen die Hausordnung.
+
+  Il a *violé* sa promesse de rester sobre.
+  Er hat sein Versprechen, nüchtern zu bleiben, *gebrochen*.
+
+  Les manifestants ont *violé* l'interdiction de rassemblement.
+  Die Demonstranten haben gegen das Versammlungsverbot *verstoßen*.
+
+  L'armée a *violé* les accords internationaux.
+  Die Armee hat die internationalen Abkommen *verletzt*.
+
+  Ces terroristes ont *violé* un lieu sacré.
+  Diese Terroristen haben einen heiligen Ort *geschändet*.
+
+  Le parti au pouvoir a *violé* les principes démocratiques.
+  Die regierende Partei hat die demokratischen Prinzipien *verletzt*.
+
+  Les pirates informatiques ont *violé* nos systèmes de sécurité.
+  Die Hacker haben unsere Sicherheitssysteme *verletzt*.
+
+  Cette décision *viole* les droits de l'homme.
+  Diese Entscheidung *verletzt* die Menschenrechte.
+
+  La police a *violé* le protocole d'intervention.
+  Die Polizei hat gegen das Einsatzprotokoll *verstoßen*.
+
+  Ces documents prouvent que l'entreprise a *violé* la loi.
+  Diese Dokumente beweisen, dass das Unternehmen gegen das Gesetz *verstoßen* hat.
+
+  Les cambrioleurs ont *violé* le coffre-fort de la banque.
+  Die Einbrecher sind *gewaltsam* in den Banktresor eingedrungen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

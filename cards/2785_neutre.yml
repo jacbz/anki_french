@@ -13,26 +13,107 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mais mon travail n’est pas neutre et objectif.
-  Meine Arbeit ist jedoch nicht neutral und objektiv.
+  Mais mon travail n'est pas *neutre* et objectif.
+  Aber meine Arbeit ist nicht *neutral* und objektiv.
 
-  Le Suisse est un pays neutre.
-  Die Schweiz ist ein neutrales Land.
+  Les États-Unis sont restés *neutres* pendant les deux premières années de la guerre.
+  Die Vereinigten Staaten blieben in den ersten zwei Kriegsjahren *neutral*.
 
-  Il est important de rester neutre lors d'une discussion sensible.
-  Es ist wichtig, in einer sensiblen Diskussion neutral zu bleiben.
+  La Suisse est restée *neutre* pendant les deux guerres mondiales.
+  Die Schweiz ist während der beiden Weltkriege *neutral* geblieben.
 
-  Ce mot est du genre neutre.
-  Dieses Wort ist sächlich.
+  Il a choisi une teinte *neutre* pour les murs de son bureau.
+  Er hat einen *neutralen* Farbton für die Wände seines Büros gewählt.
 
-  Le témoin a tenté de rester neutre pendant son témoignage.
-  Der Zeuge hat versucht, sich während seiner Aussage neutral zu verhalten.
+  Nous avons décidé de nous rencontrer en terrain *neutre*.
+  Wir haben uns entschieden, uns auf *neutralem* Boden zu treffen.
 
-  Rédiger une offre d'emploi de manière neutre est essentiel pour attirer un large éventail de candidats.
-  Ein Stellenangebot geschlechtsneutral zu formulieren ist wichtig, um ein breites Spektrum an Kandidaten anzuziehen.
+  Cette solution chimique est parfaitement *neutre*.
+  Diese chemische Lösung ist vollkommen *neutral*.
 
-  Ce plat est neutre au goût, ce qui le rend polyvalent.
-  Dieses Gericht ist geschmacksneutral, was es vielseitig macht.
+  Le pH de l'eau pure est *neutre*.
+  Der pH-Wert von reinem Wasser ist *neutral*.
+
+  "Das" est un article *neutre* en allemand.
+  "Das" ist ein *sächlicher* Artikel im Deutschen.
+
+  Le savon est *neutre* pour la peau.
+  Die Seife ist *hautneutral*.
+
+  L'électricien a vérifié le fil *neutre* avant de commencer les travaux.
+  Der Elektriker hat den *Null*leiter vor Beginn der Arbeiten überprüft.
+
+  Elle essaie toujours de rester *neutre* dans les disputes familiales.
+  Sie versucht immer, bei Familienstreitigkeiten *neutral* zu bleiben.
+
+  Son expression est restée *neutre* en entendant la nouvelle.
+  Ihr Gesichtsausdruck blieb beim Hören der Nachricht *neutral*.
+
+  Les abeilles *neutres* sont les ouvrières de la ruche.
+  Die *geschlechtslosen* Bienen sind die Arbeiterinnen des Bienenstocks.
+
+  Ce détergent est *neutre* en parfum.
+  Dieses Waschmittel ist *geruchsneutral*.
+
+  Le journaliste doit maintenir un ton *neutre* dans ses articles.
+  Der Journalist muss in seinen Artikeln einen *neutralen* Ton bewahren.
+
+  La Suède a adopté une politique *neutre* face au conflit.
+  Schweden hat eine *neutrale* Politik gegenüber dem Konflikt eingenommen.
+
+  Les *neutres* ont refusé de participer aux sanctions économiques.
+  Die *neutralen* Staaten haben sich geweigert, an den Wirtschaftssanktionen teilzunehmen.
+
+  Ce navire navigue sous pavillon *neutre*.
+  Dieses Schiff segelt unter *neutraler* Flagge.
+
+  Le sol de cette région est *neutre*, idéal pour la culture.
+  Der Boden dieser Region ist *neutral*, ideal für den Anbau.
+
+  J'ai choisi une couleur *neutre* pour mon nouveau canapé.
+  Ich habe eine *dezente* Farbe für mein neues Sofa gewählt.
+
+  Le médiateur doit rester *neutre* dans le conflit.
+  Der Vermittler muss im Konflikt *neutral* bleiben.
+
+  Cette particule atomique est électriquement *neutre*.
+  Dieses Atomteilchen ist elektrisch *neutral*.
+
+  Les fourmis *neutres* protègent la colonie.
+  Die *geschlechtslosen* Ameisen beschützen die Kolonie.
+
+  Le sel de table est un sel *neutre*.
+  Das Tafelsalz ist ein *Neutral*salz.
+
+  Son visage gardait une expression *neutre*.
+  Sein Gesicht behielt einen *ausdruckslosen* Ausdruck.
+
+  Elle a rédigé un rapport totalement *neutre*.
+  Sie hat einen völlig *neutralen* Bericht verfasst.
+
+  Le pronom "ce" est *neutre* dans "c'est fait".
+  Das Pronomen "ce" ist in "c'est fait" *neutral*.
+
+  Ces pays *neutres* ont formé une alliance défensive.
+  Diese *neutralen* Länder haben ein Verteidigungsbündnis gebildet.
+
+  La solution doit être *neutre* pour ne pas endommager le tissu.
+  Die Lösung muss *neutral* sein, um den Stoff nicht zu beschädigen.
+
+  Les termites *neutres* construisent la termitière.
+  Die *geschlechtslosen* Termiten bauen den Termitenbau.
+
+  Le genre *neutre* n'existe pas en français moderne.
+  Das *sächliche* Geschlecht existiert im modernen Französisch nicht.
+
+  L'observateur international doit rester *neutre*.
+  Der internationale Beobachter muss *neutral* bleiben.
+
+  Cette entreprise utilise un langage *neutre* dans ses offres d'emploi.
+  Dieses Unternehmen verwendet eine *geschlechtsneutrale* Sprache in seinen Stellenanzeigen.
+
+  Le point *neutre* du circuit électrique est bien isolé.
+  Der *Null*punkt des elektrischen Stromkreises ist gut isoliert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

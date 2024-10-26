@@ -13,47 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle était enceinte de six mois.
-  Sie war im sechsten Monat schwanger.
+  Elle était enceinte de *six* mois.
+  Sie war im *sechsten* Monat schwanger.
 
-  Il y a six pommes dans le panier.
-  Es gibt sechs Äpfel im Korb.
+  Le concours commence à *six* heures précises.
+  Der Wettbewerb beginnt um genau *sechs* Uhr.
 
-  Il est déjà six heures.
-  Es ist bereits sechs Uhr.
+  Ma sœur aura *six* ans la semaine prochaine.
+  Meine Schwester wird nächste Woche *sechs* Jahre alt.
 
-  Le dîner est à six heures.
-  Das Abendessen ist um sechs Uhr.
+  Les *Six* Jours de Berlin sont une course cycliste légendaire.
+  Die Berliner *Sechs*tagerennen sind ein legendäres Radrennen.
 
-  Je serai de retour à six heures.
-  Ich werde um sechs Uhr zurück sein.
+  "*Six* sur vingt ? Je dois vraiment améliorer mes notes !"
+  "Eine *Sechs*? Ich muss meine Noten wirklich verbessern!"
 
-  Elle a six ans de plus que moi.
-  Sie ist sechs Jahre älter als ich.
+  Le petit Thomas habite au numéro *six* de la rue des Fleurs.
+  Der kleine Thomas wohnt in der Blumenstraße Nummer *sechs*.
 
-  Elle aura bientôt six ans et va enfin aller à l'école.
-  Sie wird bald sechs und geht endlich zur Schule.
+  Les enfants ont partagé le gâteau en *six* parts égales.
+  Die Kinder haben den Kuchen in *sechs* gleiche Stücke geteilt.
 
-  Il est six heures du matin et le soleil se lève déjà.
-  Es ist sechs Uhr morgens und die Sonne geht schon auf.
+  Prenez le bus ligne *six* jusqu'au terminus.
+  Nehmen Sie die Buslinie *sechs* bis zur Endstation.
 
-  La réunion aura lieu le six mars, date à laquelle nous devrons tous être présents.
-  Die Sitzung findet am sechsten März statt, zu dem Termin müssen wir alle anwesend sein.
+  Le roi Charles *Six* souffrait de crises de folie.
+  König Karl der *Sechste* litt unter Wahnvorstellungen.
 
-  L'équipe a terminé la course en arrivant sixième, juste derrière les vainqueurs.
-  Das Team beendete das Rennen als Sechster, gleich hinter den Gewinnern.
+  Dans ce jeu, il faut lancer les dés jusqu'à obtenir un *six*.
+  In diesem Spiel muss man die Würfel werfen, bis man eine *Sechs* würfelt.
 
-  Charles VI, roi de France, a régné pendant une période difficile.
-  Karl der Sechste, König von Frankreich, regierte in einer schwierigen Zeit.
+  La guerre des *Six* Jours a changé la géopolitique du Moyen-Orient.
+  Der *Sechs*tagekrieg veränderte die Geopolitik des Nahen Ostens.
 
-  Il a obtenu six sur dix à l'examen, ce qui est un résultat assez moyen.
-  Er hat eine Sechs in der Prüfung bekommen, was ein ziemlich durchschnittliches Ergebnis ist.
+  Les *Six* Nations est le plus ancien tournoi de rugby.
+  Die *Sechs* Nationen sind das älteste Rugbyturnier.
 
-  Un enfant de six ans est généralement plein d'énergie et de curiosité.
-  Ein Sechsjähriger ist in der Regel voller Energie und Neugier.
+  "Ce travail est fait à la *six-quatre-deux*."
+  "Diese Arbeit ist *schlampig* gemacht."
 
-  La période de six ans qui s'est écoulée depuis le début du projet a été marquée par des progrès significatifs.
-  Die sechs Jahre, die seit dem Beginn des Projekts vergangen sind, waren von bedeutenden Fortschritten geprägt.
+  Le *six* de cœur est sa carte porte-bonheur.
+  Die Herz-*Sechs* ist seine Glückskarte.
+
+  L'Europe des *Six* a été fondée en 1957.
+  Die *Sechs*ergemeinschaft wurde 1957 gegründet.
+
+  J'ai rendez-vous avec le docteur le *six* mars.
+  Ich habe am *sechsten* März einen Termin beim Arzt.
+
+  Il ne reste plus que *six* places disponibles.
+  Es sind nur noch *sechs* Plätze frei.
+
+  Nous étions *six* à table pour le dîner de Noël.
+  Wir waren zu *sechst* beim Weihnachtsessen.
+
+  Le petit garçon de *six* ans joue dans le jardin.
+  Der *sechs*jährige Junge spielt im Garten.
+
+  Ils ont gagné *six* matchs consécutifs.
+  Sie haben *sechs* Spiele in Folge gewonnen.
+
+  Le pape Paul *Six* a dirigé l'Église catholique pendant quinze ans.
+  Papst Paul der *Sechste* leitete die katholische Kirche fünfzehn Jahre lang.
+
+  Il repose maintenant *six* pieds sous terre.
+  Er ruht jetzt unter der Erde.
+
+  L'alphabet français a *six* voyelles différentes.
+  Das französische Alphabet hat *sechs* verschiedene Vokale.
+
+  Le chiffre *six* s'écrit VI en nombres romains.
+  Die Zahl *sechs* wird in römischen Zahlen als VI geschrieben.
+
+  Elle a obtenu les *six* huitièmes de l'héritage.
+  Sie hat *sechs* Achtel des Erbes erhalten.
+
+  Le tome *six* de cette série est le meilleur.
+  Band *sechs* dieser Reihe ist der beste.
+
+  Le cours dure de quatre à *six*.
+  Der Kurs geht von vier bis *sechs*.
+
+  "Ça vaut trois francs *six* sous."
+  "Das ist einen *Sechser* wert."
+
+  Le Groupe des *Six* a révolutionné la musique française.
+  Die Gruppe der *Sechs* revolutionierte die französische Musik.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

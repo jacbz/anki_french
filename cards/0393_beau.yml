@@ -13,47 +13,194 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce sont là de belles paroles, mais des paroles creuses.
-  Das sind schöne Worte, aber leere Worte.
+  Ce sont là de *belles* paroles, mais des paroles creuses.
+  Das sind *schöne* Worte, aber leere Worte.
 
-  Elle porte une belle robe.
-  Sie trägt ein schönes Kleid.
+  C'est une *belle* journée ensoleillée d'été.
+  Es ist ein *schöner* sonniger Sommertag.
 
-  Tout était si beau.
-  Alles war so schön.
+  Elle portait une *belle* robe de soirée en soie.
+  Sie trug ein *schönes* seidenes Abendkleid.
 
-  Tu as un nom si beau.
-  Du hast so einen schönen Namen.
+  "Tu devrais te faire *beau* pour le dîner."
+  "Du solltest dich für das Abendessen *schön* machen."
 
-  La mer est belle aujourd'hui, d'un bleu profond et calme.
-  Das Meer ist ruhig heute, ein tiefes, ruhiges Blau.
+  La mer est *belle* aujourd'hui, allons nager !
+  Das Meer ist heute *ruhig*, lass uns schwimmen gehen!
 
-  Le projet est au beau fixe, tout avance comme prévu.
-  Das Projekt ist auf Schön, alles läuft nach Plan.
+  Je suis fier de mon *beau* jardin fleuri.
+  Ich bin stolz auf meinen *schönen* blühenden Garten.
 
-  Bel et bien, il ne reviendra pas.
-  Tatsächlich, er wird nicht zurückkommen.
+  Il m'a fait une *belle* peur hier soir.
+  Er hat mir gestern Abend einen ganz *schönen* Schrecken eingejagt.
 
-  On a beau dire et beau faire, il n'y a rien à faire, il ne comprendra jamais.
-  Sosehr man es sich auch sagt und sosehr man sich auch bemüht, es bringt nichts, er wird es nie verstehen.
+  Le *beau* monde était présent à cette soirée.
+  Die *feine* Gesellschaft war an diesem Abend anwesend.
 
-  Il l'a belle, avec sa nouvelle voiture de sport.
-  Er hat es schön, mit seinem neuen Sportwagen.
+  Cette maison a coûté une *belle* somme.
+  Dieses Haus hat ein *hübsches* Sümmchen gekostet.
 
-  Il a échappé belle, l'accident était vraiment dangereux.
-  Er hatte gerade noch mal Glück, der Unfall war wirklich gefährlich.
+  "*Belle* comme le jour, elle attirait tous les regards."
+  "*Schön* wie der Tag zog sie alle Blicke auf sich."
 
-  Il fait beau aujourd'hui, on devrait aller se promener.
-  Es ist schön heute, wir sollten spazieren gehen.
+  Il fait vraiment *beau* ce matin.
+  Es ist wirklich *schönes* Wetter heute Morgen.
 
-  Elle se fait belle pour le rendez-vous.
-  Sie macht sich fein für den Termin.
+  Le temps se met au *beau*.
+  Das Wetter wird *schön*.
 
-  De plus belle, il a encore fait une bêtise.
-  Umso schlimmer, er hat wieder Blödsinn gemacht.
+  Un *beau* matin, elle a décidé de tout changer.
+  Eines *schönen* Morgens beschloss sie, alles zu ändern.
 
-  Le temps se met au beau, les nuages disparaissent.
-  Das Wetter wird schön, die Wolken verschwinden.
+  Il pleut de plus *belle*.
+  Es regnet immer *stärker*.
+
+  "Ce n'est pas *beau* de mentir aux autres !"
+  "Es ist nicht *schön*, andere anzulügen!"
+
+  Elle s'est *bel* et bien trompée dans ses calculs.
+  Sie hat sich tatsächlich in ihren Berechnungen geirrt.
+
+  J'ai *beau* essayer, je n'y arrive pas.
+  Ich kann es noch so sehr versuchen, ich schaffe es nicht.
+
+  Nous dormons à la *belle* étoile.
+  Wir schlafen unter freiem Himmel.
+
+  Il a fait un *beau* geste en aidant cette famille.
+  Er hat eine *noble* Geste gemacht, indem er dieser Familie half.
+
+  C'est un *beau* gâchis !
+  Das ist ja eine *schöne* Bescherung!
+
+  Le baromètre est au *beau* fixe.
+  Das Barometer steht auf beständig *schön*.
+
+  Cette boutique ne vend que du *beau*.
+  Dieser Laden verkauft nur *hochwertige* Ware.
+
+  "En voilà une *belle* surprise !"
+  "Das ist ja eine *schöne* Überraschung!"
+
+  Il a reçu une *belle* gifle.
+  Er hat eine *saftige* Ohrfeige bekommen.
+
+  Cette artiste a un *beau* talent.
+  Diese Künstlerin hat ein *großes* Talent.
+
+  Le culte du *beau* est très présent dans l'art moderne.
+  Der *Schönheits*kult ist in der modernen Kunst sehr präsent.
+
+  Ils ont attrapé une *belle* prise aujourd'hui.
+  Sie haben heute einen *kapitalen* Fang gemacht.
+
+  Au plus *beau* de la fête, l'orage a éclaté.
+  Auf dem *Höhepunkt* des Festes brach das Gewitter los.
+
+  "Ça me fait une *belle* jambe !"
+  "Das nützt mir gar nichts!"
+
+  C'est un *beau* dégoûtant !
+  Er ist ein richtiges *Ekel*!
+
+  Elle nous raconte de *belles* histoires chaque soir.
+  Sie erzählt uns jeden Abend *schöne* Geschichten.
+
+  "En voilà un *beau* gâteau d'anniversaire !"
+  "Das ist ja eine *schöne* Geburtstagstorte!"
+
+  Il y a *beau* temps que je ne l'ai pas vu.
+  Ich habe ihn schon lange nicht mehr gesehen.
+
+  Cette démonstration est vraiment *belle*.
+  Diese Beweisführung ist wirklich *elegant*.
+
+  Le *beau* temps va durer toute la semaine.
+  Das *schöne* Wetter wird die ganze Woche anhalten.
+
+  "Il a fait ça pour tes *beaux* yeux."
+  "Er hat das nur deinetwegen getan."
+
+  Les *beaux* jours arrivent enfin.
+  Die *schöne* Jahreszeit kommt endlich.
+
+  C'est la *belle* saison pour faire du jardinage.
+  Es ist die *beste* Zeit zum Gärtnern.
+
+  Il occupe une *belle* situation dans cette entreprise.
+  Er hat eine *angesehene* Position in dieser Firma.
+
+  Le piano a un *beau* son cristallin.
+  Das Klavier hat einen *schönen* kristallklaren Klang.
+
+  "J'en apprends de *belles* sur ton compte !"
+  "Ich höre ja *schöne* Sachen über dich!"
+
+  Il est *beau* comme un dieu grec.
+  Er ist *schön* wie ein griechischer Gott.
+
+  C'est trop *beau* pour être vrai !
+  Das ist zu *schön*, um wahr zu sein!
+
+  Cette fleur est vraiment *belle*.
+  Diese Blume ist wirklich *schön*.
+
+  Un *vieux beau* draguait toutes les serveuses.
+  Ein alter *Schöner* machte sich an alle Kellnerinnen heran.
+
+  Elle a amassé une *belle* fortune.
+  Sie hat ein *hübsches* Vermögen angehäuft.
+
+  Le chien fait le *beau* pour avoir un biscuit.
+  Der Hund macht *Männchen* für einen Keks.
+
+  C'est le *bel* âge pour apprendre à nager.
+  Das ist das *richtige* Alter, um schwimmen zu lernen.
+
+  "Ce n'est pas du *beau* travail !"
+  "Das ist keine *schöne* Arbeit!"
+
+  Voilà un *beau* poulet bien dodu !
+  Das ist ein *prächtiges* dickes Huhn!
+
+  On a *beau* dire, la vie est belle.
+  Man kann sagen was man will, das Leben ist schön.
+
+  Il nous fait de *belles* promesses.
+  Er macht uns *schöne* Versprechungen.
+
+  Les *belles* années de ma jeunesse me manquent.
+  Ich vermisse die *schönen* Jahre meiner Jugend.
+
+  "Me voilà *beau* avec cette tache sur ma chemise !"
+  "Da steh ich ja *schön* da mit diesem Fleck auf meinem Hemd!"
+
+  C'est un *beau* coup au billard.
+  Das ist ein *schöner* Billardstoß.
+
+  Il l'a chassé de la *belle* manière.
+  Er hat ihn *gründlich* hinausgeworfen.
+
+  Le plus *beau*, c'est qu'il ne s'est rendu compte de rien.
+  Das *Schönste* ist, dass er nichts bemerkt hat.
+
+  "J'aime le *beau* en peinture."
+  "Ich liebe das *Schöne* in der Malerei."
+
+  Il a une *belle* bronchite.
+  Er hat eine ganz *schöne* Bronchitis.
+
+  C'est un *bel* égoïste !
+  Er ist ein richtiger *Egoist*!
+
+  Cette ville a un *beau* passé historique.
+  Diese Stadt hat eine *schöne* historische Vergangenheit.
+
+  Il ferait *beau* voir qu'ils partent sans nous !
+  Das wäre ja noch *schöner*, wenn sie ohne uns losfahren würden!
+
+  Il a reçu un *beau* compliment de son professeur.
+  Er hat ein *schönes* Kompliment von seinem Lehrer bekommen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

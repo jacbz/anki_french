@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il savait nettement ce qu’il devait et voulait faire.
-  Er wusste eindeutig, was er tun sollte und wollte.
+  Il savait *nettement* ce qu'il devait et voulait faire.
+  Er wusste *genau*, was er tun musste und wollte.
 
-  Il a nettement amélioré ses résultats.
-  Er hat seine Ergebnisse deutlich verbessert.
+  Les contours des montagnes se détachaient *nettement* sur le ciel bleu.
+  Die Bergkonturen hoben sich *scharf* vom blauen Himmel ab.
 
-  Le maire a pris nettement position contre la construction du nouveau centre commercial.
-  Der Bürgermeister hat sich eindeutig gegen den Bau des neuen Einkaufszentrums positioniert.
+  On voit *nettement* la différence entre les deux versions du document.
+  Man sieht *deutlich* den Unterschied zwischen den beiden Versionen des Dokuments.
 
-  Il y a nettement moins de voitures dans le centre-ville aujourd'hui.
-  Heute sind deutlich weniger Autos in der Innenstadt unterwegs.
+  Le nouveau traitement a *nettement* amélioré son état de santé.
+  Die neue Behandlung hat seinen Gesundheitszustand *deutlich* verbessert.
+
+  Les résultats sont *nettement* supérieurs à ceux de l'année dernière.
+  Die Ergebnisse sind *eindeutig* besser als die vom letzten Jahr.
+
+  Elle a *nettement* refusé notre proposition.
+  Sie hat unseren Vorschlag *unmissverständlich* abgelehnt.
+
+  Je me souviens *nettement* de cette journée d'été.
+  Ich erinnere mich *genau* an diesen Sommertag.
+
+  Le candidat a *nettement* exposé ses idées pendant le débat.
+  Der Kandidat hat seine Ideen während der Debatte *klar* dargelegt.
+
+  Les prix ont *nettement* augmenté ces derniers mois.
+  Die Preise sind in den letzten Monaten *deutlich* gestiegen.
+
+  Il faut *nettement* séparer les faits des opinions.
+  Man muss Fakten und Meinungen *eindeutig* trennen.
+
+  La qualité de l'image est *nettement* meilleure avec ce nouveau téléviseur.
+  Die Bildqualität ist mit diesem neuen Fernseher *deutlich* besser.
+
+  Son attitude a *nettement* changé depuis notre dernière rencontre.
+  Seine Haltung hat sich seit unserem letzten Treffen *deutlich* verändert.
+
+  Les spectateurs pouvaient *nettement* entendre chaque mot du discours.
+  Die Zuschauer konnten jedes Wort der Rede *deutlich* hören.
+
+  Elle s'est *nettement* positionnée contre cette décision.
+  Sie hat *unmissverständlich* Stellung gegen diese Entscheidung bezogen.
+
+  La situation s'est *nettement* améliorée depuis l'année dernière.
+  Die Situation hat sich seit letztem Jahr *deutlich* verbessert.
+
+  On distingue *nettement* les étoiles par cette nuit claire.
+  Man kann die Sterne in dieser klaren Nacht *deutlich* erkennen.
+
+  Il a *nettement* pris l'avantage dans la dernière partie du match.
+  Er hat im letzten Teil des Spiels *eindeutig* die Oberhand gewonnen.
+
+  Cette version est *nettement* plus efficace que la précédente.
+  Diese Version ist *deutlich* effizienter als die vorherige.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

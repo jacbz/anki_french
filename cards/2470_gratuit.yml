@@ -13,23 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Hé, un spectacle gratuit!
-  Hey, eine kostenlose Show!
+  Hé, un spectacle *gratuit* !
+  Hey, eine *kostenlose* Vorstellung!
 
-  L’entrée est gratuite.
-  Der Eintritt ist kostenlos.
+  L'entrée du musée est *gratuite* le premier dimanche du mois.
+  Der Eintritt ins Museum ist am ersten Sonntag im Monat *kostenlos*.
 
-  L’appel est gratuit.
-  Der Anruf ist kostenlos.
+  Les consultations médicales en ligne sont *gratuites* pendant la pandémie.
+  Die Online-Arztberatungen sind während der Pandemie *kostenlos*.
 
-  Le journal propose un supplément gratuit chaque semaine.
-  Die Zeitung bietet jede Woche eine Gratisbeilage an.
+  Avez-vous reçu l'échantillon *gratuit* dans votre boîte aux lettres ?
+  Haben Sie die *kostenlose* Probe in Ihrem Briefkasten erhalten?
 
-  L'enseignement primaire est gratuit dans ce pays.
-  Der Grundschulunterricht ist in diesem Land kostenlos.
+  Je distribue des journaux *gratuits* chaque matin devant la gare.
+  Ich verteile jeden Morgen *kostenlose* Zeitungen vor dem Bahnhof.
 
-  Les musées sont ouverts au public à titre gratuit.
-  Die Museen sind kostenlos für die Öffentlichkeit zugänglich.
+  Le prêt des livres est *gratuit* dans toutes les bibliothèques municipales.
+  Die Ausleihe von Büchern ist in allen städtischen Bibliotheken *kostenlos*.
+
+  Notre école propose un enseignement *gratuit* et de qualité.
+  Unsere Schule bietet *kostenlosen* und hochwertigen Unterricht an.
+
+  Ces accusations *gratuites* ont vraiment blessé Marie.
+  Diese *grundlosen* Anschuldigungen haben Marie wirklich verletzt.
+
+  Le supplément *gratuit* du magazine contient des recettes intéressantes.
+  Die *Gratis*beilage der Zeitschrift enthält interessante Rezepte.
+
+  Cette méchanceté *gratuite* ne te ressemble pas du tout.
+  Diese *grundlose* Boshaftigkeit sieht dir gar nicht ähnlich.
+
+  Le wifi est *gratuit* dans tous les espaces publics de la ville.
+  Das WLAN ist in allen öffentlichen Bereichen der Stadt *kostenlos*.
+
+  Nous proposons une consultation *gratuite* pour les nouveaux clients.
+  Wir bieten Neukunden eine *kostenlose* Beratung an.
+
+  Cette hypothèse *gratuite* n'a aucun fondement scientifique.
+  Diese *unbegründete* Hypothese hat keine wissenschaftliche Grundlage.
+
+  Je te donne ce conseil *gratuit* : ne fais pas confiance à cet homme.
+  Ich gebe dir diesen *unverbindlichen* Rat: Vertraue diesem Mann nicht.
+
+  La cruauté *gratuite* envers les animaux est inacceptable.
+  *Unnötige* Grausamkeit gegenüber Tieren ist inakzeptabel.
+
+  L'application propose une version *gratuite* avec des fonctionnalités limitées.
+  Die App bietet eine *kostenlose* Version mit eingeschränkten Funktionen an.
+
+  Cette supposition *gratuite* a causé beaucoup de malentendus.
+  Diese *unbegründete* Vermutung hat viele Missverständnisse verursacht.
+
+  Ils organisent des visites *gratuites* du château chaque weekend.
+  Sie organisieren jedes Wochenende *kostenlose* Schlossführungen.
+
+  Le parking sera *gratuit* pendant les fêtes de fin d'année.
+  Das Parken wird während der Feiertage *kostenlos* sein.
+
+  Ce geste de violence *gratuite* a choqué tout le quartier.
+  Diese *grundlose* Gewalttat hat die ganze Nachbarschaft schockiert.
+
+  La formation en ligne est *gratuite* pour tous les employés.
+  Die Online-Schulung ist für alle Mitarbeiter *kostenlos*.
+
+  Ces éloges ne sont pas *gratuits*, il attend quelque chose en retour.
+  Dieses Lob ist nicht *uneigennützig*, er erwartet eine Gegenleistung.
+
+  Il a cédé sa maison à titre *gratuit* à sa fille.
+  Er hat seiner Tochter sein Haus *unentgeltlich* überlassen.
+
+  Les services publics proposent une aide juridique *gratuite*.
+  Die öffentlichen Dienste bieten *kostenlose* Rechtshilfe an.
+
+  Cette affirmation *gratuite* ne repose sur aucune preuve.
+  Diese *willkürliche* Behauptung stützt sich auf keinerlei Beweise.
+
+  Le transport en commun sera *gratuit* pendant la journée sans voiture.
+  Der öffentliche Nahverkehr wird am autofreien Tag *kostenlos* sein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

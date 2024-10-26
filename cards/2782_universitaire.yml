@@ -13,20 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’étais occupée à des travaux de recherches universitaires.
-  Ich war mit Forschungsarbeiten an der Universität beschäftigt.
+  J'étais occupée à des travaux de recherches *universitaires*.
+  Ich war mit *akademischer* Forschungsarbeit beschäftigt.
 
-  Je suis étudiant universitaire.
-  Ich bin Universitätsstudent.
+  La *résidence universitaire* se trouve à dix minutes à pied du campus.
+  Das *Studenten*wohnheim ist zehn Minuten zu Fuß vom Campus entfernt.
 
-  Je suis allé à la résidence universitaire pour visiter un ami.
-  Ich bin ins Studentenwohnheim gegangen, um einen Freund zu besuchen.
+  Pour devenir professeur, il faut suivre un long parcours *universitaire*.
+  Um Professor zu werden, muss man eine lange *akademische* Laufbahn absolvieren.
 
-  J'ai obtenu un diplôme universitaire en histoire.
-  Ich habe ein Hochschuldiplom in Geschichte erworben.
+  La bibliothèque *universitaire* est ouverte jusqu'à minuit pendant les examens.
+  Die *Universitäts*bibliothek hat während der Prüfungen bis Mitternacht geöffnet.
 
-  J'aime étudier dans la bibliothèque universitaire.
-  Ich lerne gerne in der Universitätsbibliothek.
+  Les étudiants se retrouvent souvent au restaurant *universitaire* pour déjeuner ensemble.
+  Die Studenten treffen sich oft in der *Mensa* zum gemeinsamen Mittagessen.
+
+  Elle est *universitaire* depuis vingt ans et enseigne la littérature française.
+  Sie ist seit zwanzig Jahren *Hochschullehrerin* und unterrichtet französische Literatur.
+
+  Le nouveau bâtiment *universitaire* sera inauguré le mois prochain.
+  Das neue *Universitäts*gebäude wird nächsten Monat eingeweiht.
+
+  Mon diplôme *universitaire* m'a ouvert beaucoup de portes professionnelles.
+  Mein *Hochschul*diplom hat mir viele berufliche Türen geöffnet.
+
+  Le corps *universitaire* a voté contre cette réforme controversée.
+  Der *akademische* Lehrkörper hat gegen diese umstrittene Reform gestimmt.
+
+  Cette ville compte trois restaurants *universitaires* et deux bibliothèques.
+  Diese Stadt hat drei *Mensen* und zwei Bibliotheken.
+
+  Les chercheurs *universitaires* ont publié une étude importante.
+  Die *Hochschul*forscher haben eine wichtige Studie veröffentlicht.
+
+  Son titre *universitaire* lui a permis d'obtenir un meilleur salaire.
+  Sein *akademischer* Titel hat ihm ermöglicht, ein besseres Gehalt zu bekommen.
+
+  La vie *universitaire* est très différente de celle du lycée.
+  Das *Universitäts*leben unterscheidet sich stark vom Leben in der Schule.
+
+  Les équipements *universitaires* sont en cours de modernisation.
+  Die *Universitäts*einrichtungen werden derzeit modernisiert.
+
+  La carte *universitaire* donne accès à tous les services du campus.
+  Der *Studenten*ausweis ermöglicht den Zugang zu allen Diensten auf dem Campus.
+
+  Le milieu *universitaire* favorise les échanges intellectuels.
+  Das *akademische* Umfeld fördert den intellektuellen Austausch.
+
+  Cette conférence a réuni des *universitaires* du monde entier.
+  Diese Konferenz hat *Hochschullehrer* aus der ganzen Welt zusammengebracht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

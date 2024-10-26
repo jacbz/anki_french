@@ -13,17 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cette vision a été élaborée avant le 11 septembre.
-  Diese Vision wurde vor dem 11. September entwickelt.
+  Cette vision a été *élaborée* avant le 11 septembre.
+  Diese Vision wurde vor dem 11. September *ausgearbeitet*.
 
-  Nous devons élaborer un plan.
-  Wir müssen einen Plan ausarbeiten.
+  Les scientifiques *élaborent* une nouvelle théorie sur l'origine de l'univers.
+  Die Wissenschaftler *arbeiten* eine neue Theorie über den Ursprung des Universums *aus*.
 
-  Ce plan a été élaboré avec soin par le comité.
-  Dieser Plan wurde vom Komitee sorgfältig ausgearbeitet.
+  Le comité a *élaboré* un plan détaillé pour résoudre la crise.
+  Das Komitee hat einen detaillierten Plan zur Lösung der Krise *erstellt*.
 
-  Le joueur a été élaboré du match pour une faute grossière.
-  Der Spieler wurde wegen eines groben Foulspiels vom Spiel ausgeschieden.
+  Les reins *élaborent* l'urine à partir du sang.
+  Die Nieren *bilden* Urin aus dem Blut.
+
+  Une nouvelle stratégie s'est *élaborée* au fil des discussions.
+  Im Laufe der Diskussionen hat sich eine neue Strategie *herausgebildet*.
+
+  Le chef nous a préparé un plat très *élaboré*.
+  Der Koch hat uns ein sehr *raffiniertes* Gericht zubereitet.
+
+  Les enseignants ont *élaboré* un nouveau programme scolaire.
+  Die Lehrer haben einen neuen Lehrplan *ausgearbeitet*.
+
+  Un diagnostic précis sera *élaboré* après les examens.
+  Nach den Untersuchungen wird eine präzise Diagnose *erstellt*.
+
+  Le pancréas *élabore* des hormones essentielles.
+  Die Bauchspeicheldrüse *produziert* wichtige Hormone.
+
+  Cette idée s'*élabore* petit à petit dans mon esprit.
+  Diese Idee nimmt in meinem Kopf langsam *Gestalt* an.
+
+  Les globules blancs *élaborent* des anticorps pour nous protéger.
+  Die weißen Blutkörperchen *bilden* Antikörper zu unserem Schutz.
+
+  La sève *élaborée* descend dans les racines de l'arbre.
+  Der *ausgeschiedene* Pflanzensaft fließt in die Wurzeln des Baumes.
+
+  Le foie *élabore* la bile nécessaire à la digestion.
+  Die Leber *produziert* die für die Verdauung notwendige Galle.
+
+  Les équipes vont *élaborer* ensemble une solution commune.
+  Die Teams werden gemeinsam eine Lösung *ausarbeiten*.
+
+  Un système très *élaboré* de contrôle a été mis en place.
+  Ein sehr *elaboriertes* Kontrollsystem wurde eingeführt.
+
+  Cette recette a été *élaborée* par un chef renommé.
+  Dieses Rezept wurde von einem renommierten Koch *ausgearbeitet*.
+
+  Le projet s'*élabore* progressivement depuis plusieurs mois.
+  Das Projekt *entwickelt* sich seit mehreren Monaten schrittweise.
+
+  L'estomac *élabore* les enzymes digestives.
+  Der Magen *bildet* die Verdauungsenzyme.
+
+  Les experts ont *élaboré* de nouvelles recommandations.
+  Die Experten haben neue Empfehlungen *ausgearbeitet*.
+
+  La Constitution s'est *élaborée* sur plusieurs années.
+  Die Verfassung hat sich über mehrere Jahre hinweg *herausgebildet*.
+
+  Les cellules *élaborent* des protéines spécifiques.
+  Die Zellen *produzieren* spezifische Proteine.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

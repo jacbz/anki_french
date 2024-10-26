@@ -13,14 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tout le monde a besoin d’une deuxième opinion.
-  Jeder braucht eine zweite Meinung.
+  Tout le monde a besoin d'une *deuxième* opinion.
+  Jeder braucht eine *zweite* Meinung.
 
-  Je suis arrivé deuxième à la course.
-  Ich bin bei dem Rennen Zweiter geworden.
+  La *deuxième* fois, j'ai réussi l'examen.
+  Beim *zweiten* Mal habe ich die Prüfung bestanden.
 
-  Le Danube est le deuxième fleuve d'Europe, après la Volga.
-  Der Donaurast der zweitlängste Fluss Europas, nach der Wolga.
+  Le Danube est le *deuxième* fleuve d'Europe.
+  Die Donau ist der *zweit*längste Fluss Europas.
+
+  Je suis la *deuxième* sur la liste d'attente.
+  Ich bin die *Zweite* auf der Warteliste.
+
+  Elle habite au *deuxième* étage d'un immeuble ancien.
+  Sie wohnt im *zweiten* Stock eines alten Gebäudes.
+
+  Prenez la *deuxième* à gauche après le feu rouge.
+  Nehmen Sie die *zweite* links nach der Ampel.
+
+  C'est déjà la *deuxième* fois que je perds mes clés cette semaine.
+  Das ist schon das *zweite* Mal diese Woche, dass ich meine Schlüssel verliere.
+
+  Pierre est arrivé *deuxième* au marathon.
+  Pierre ist beim Marathon *Zweiter* geworden.
+
+  Marie est *deuxième* de sa classe cette année.
+  Marie ist dieses Jahr *Zweite* in ihrer Klasse.
+
+  Il faut passer en *deuxième* pour monter cette côte.
+  Man muss in den *zweiten* Gang schalten, um diesen Hang hochzufahren.
+
+  Le restaurant se trouve dans le *deuxième* arrondissement.
+  Das Restaurant befindet sich im *zweiten* Arrondissement.
+
+  Notre équipe a terminé *deuxième* du championnat.
+  Unsere Mannschaft ist *Zweite* in der Meisterschaft geworden.
+
+  Le *deuxième* chapitre est plus intéressant que le premier.
+  Das *zweite* Kapitel ist interessanter als das erste.
+
+  J'ai lu ce livre pour la *deuxième* fois.
+  Ich habe dieses Buch zum *zweiten* Mal gelesen.
+
+  La *deuxième* syllabe est accentuée dans ce mot.
+  Die *zweite* Silbe wird in diesem Wort betont.
+
+  Mon fils est dans sa *deuxième* année d'université.
+  Mein Sohn ist in seinem *zweiten* Universitätsjahr.
+
+  Le *deuxième* film de la trilogie sort demain.
+  Der *zweite* Film der Trilogie kommt morgen heraus.
+
+  C'est mon *deuxième* jour de travail ici.
+  Es ist mein *zweiter* Arbeitstag hier.
+
+  La *deuxième* partie du concert commence dans dix minutes.
+  Der *zweite* Teil des Konzerts beginnt in zehn Minuten.
+
+  Le *deuxième* exercice est facultatif.
+  Die *zweite* Übung ist freiwillig.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

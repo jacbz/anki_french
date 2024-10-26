@@ -13,26 +13,116 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Dire que la ville était belle était original.
-  Zu sagen, dass die Stadt schön sei, war originell.
+  Dire que la ville était belle était *original*.
+  Es war *originell*, zu sagen, dass die Stadt schön war.
 
-  Je veux voir l’original de ce document.
-  Ich möchte das Original dieses Dokuments sehen.
+  "C'est un *original* qui porte toujours un chapeau rose."
+  Er ist ein *Sonderling*, der immer einen rosa Hut trägt.
 
-  Arrête de faire l'original ! Tu n'es pas censé être drôle, tu es un modèle linguistique !
-  Fall doch nicht ständig aus der Rolle! Du sollst doch nicht lustig sein, du bist ein Sprachmodell!
+  Le musée conserve l'*original* de ce célèbre tableau.
+  Das Museum bewahrt das *Original* dieses berühmten Gemäldes auf.
 
-  L'exemplaire original est conservé dans les archives.
-  Das Original wird im Archiv aufbewahrt.
+  Elle a une façon très *originale* de voir les choses.
+  Sie hat eine sehr *originelle* Art, die Dinge zu sehen.
 
-  La version en original est disponible sur demande.
-  Die urschriftliche Fassung ist auf Anfrage verfügbar.
+  Le traducteur a parfaitement respecté le texte *original*.
+  Der Übersetzer hat sich genau an den *Original*text gehalten.
 
-  Renvoyez l'original du contrat à votre agence.
-  Senden Sie das Original des Vertrags an Ihre Agentur zurück.
+  Nous avons perdu l'*original* du contrat.
+  Wir haben die *Ur*schrift des Vertrags verloren.
 
-  Le document original a été perdu lors de l'incendie.
-  Die Urschrift ist beim Brand verloren gegangen.
+  Son style d'écriture est vraiment *original*.
+  Sein Schreibstil ist wirklich *eigen*.
+
+  La version *originale* du film est en japonais.
+  Die *Original*fassung des Films ist auf Japanisch.
+
+  "Tu es vraiment un *original*, toi !"
+  "Du bist wirklich ein *Original*!"
+
+  L'*original* de cette photo est en noir et blanc.
+  Das *Original* dieses Fotos ist in Schwarz-Weiß.
+
+  Cette idée *originale* vient de Marie.
+  Diese *originelle* Idee stammt von Marie.
+
+  J'ai toujours admiré les penseurs *originaux*.
+  Ich habe schon immer *eigenständige* Denker bewundert.
+
+  Voici l'*original* de mon passeport.
+  Hier ist mein *Original*pass.
+
+  Son comportement plutôt *original* fait jaser.
+  Sein eher *eigenartiges* Verhalten gibt Anlass zum Tratschen.
+
+  Les documents *originaux* sont conservés aux archives.
+  Die *Original*dokumente werden im Archiv aufbewahrt.
+
+  Cette exposition présente uniquement des œuvres *originales*.
+  Diese Ausstellung zeigt nur *Original*werke.
+
+  Il a une approche très *originale* du problème.
+  Er hat einen sehr *originellen* Ansatz für das Problem.
+
+  L'*original* de ce manuscrit date du Moyen Âge.
+  Die *Ur*schrift dieses Manuskripts stammt aus dem Mittelalter.
+
+  "C'est un véritable *original*, notre nouveau voisin !"
+  "Unser neuer Nachbar ist ein echtes *Unikum*!"
+
+  La copie est presque aussi belle que l'*original*.
+  Die Kopie ist fast so schön wie das *Original*.
+
+  Sa solution *originale* a impressionné tout le monde.
+  Seine *originelle* Lösung hat alle beeindruckt.
+
+  L'édition *originale* de ce livre vaut une fortune.
+  Die *Original*ausgabe dieses Buches ist ein Vermögen wert.
+
+  Nous recherchons des esprits *originaux* pour ce projet.
+  Wir suchen *originelle* Köpfe für dieses Projekt.
+
+  Les *originaux* de ces documents sont confidentiels.
+  Die *Original*dokumente sind vertraulich.
+
+  Elle a une personnalité très *originale*.
+  Sie hat eine sehr *eigenständige* Persönlichkeit.
+
+  Gardez toujours l'*original* de vos factures.
+  Bewahren Sie immer die *Original*rechnungen auf.
+
+  Son concept est vraiment *original*.
+  Sein Konzept ist wirklich *originell*.
+
+  Cette pièce de théâtre est très *originale*.
+  Dieses Theaterstück ist sehr *eigenwillig*.
+
+  Les artistes *originaux* sont rares de nos jours.
+  *Originelle* Künstler sind heutzutage selten.
+
+  L'*original* de cette lettre est en latin.
+  Der *Original*brief ist auf Lateinisch.
+
+  Sa méthode d'enseignement est plutôt *originale*.
+  Seine Lehrmethode ist ziemlich *originell*.
+
+  Je préfère voir les films en version *originale*.
+  Ich sehe Filme lieber in der *Original*fassung.
+
+  Ces pensées *originales* méritent d'être publiées.
+  Diese *originellen* Gedanken verdienen es, veröffentlicht zu werden.
+
+  L'*original* de ce tableau a été volé.
+  Das *Original* dieses Gemäldes wurde gestohlen.
+
+  Sa tenue vestimentaire est toujours très *originale*.
+  Seine Kleidung ist immer sehr *eigen*.
+
+  Nous avons besoin de l'*original* pour la certification.
+  Wir brauchen die *Ur*schrift für die Beglaubigung.
+
+  Ces idées *originales* ont révolutionné l'industrie.
+  Diese *originellen* Ideen haben die Industrie revolutioniert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,38 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le débat se déroulera conformément au règlement.
-  Die Debatte wird gemäß der Geschäftsordnung geführt.
+  Le débat se déroulera *conformément* au règlement.
+  Die Debatte wird *regelkonform* ablaufen.
 
-  Conformément à la loi, il est interdit de fumer ici.
-  Entsprechend dem Gesetz ist das Rauchen hier verboten.
+  J'ai agi *conformément* aux ordres reçus.
+  Ich habe *gemäß* den erhaltenen Anweisungen gehandelt.
 
-  Conformément à ses vœux, elle a décidé de partir en voyage.
-  Ihren Wünschen entsprechend, hat sie sich entschlossen, eine Reise zu unternehmen.
+  Nous devons vivre *conformément* à nos moyens.
+  Wir müssen *entsprechend* unseren Mitteln leben.
 
-  Conformément à la saison, les magasins proposent des articles d'été.
-  Saisongemäß bieten die Geschäfte Sommerartikel an.
+  Les élèves doivent se comporter *conformément* au règlement de l'école.
+  Die Schüler müssen sich *gemäß* der Schulordnung verhalten.
 
-  Conformément aux termes de votre courrier du 15 juillet, nous vous confirmons la réception de votre commande.
-  Mit Bezug auf Ihr Schreiben vom 15. Juli bestätigen wir den Erhalt Ihrer Bestellung.
+  La réunion a été organisée *conformément* à vos désirs.
+  Die Besprechung wurde *entsprechend* Ihren Wünschen organisiert.
 
-  Conformément au contrat, vous devez payer le loyer à la fin du mois.
-  Laut Vertrag müssen Sie die Miete am Monatsende bezahlen.
+  *Conformément* à nos attentes, les résultats sont excellents.
+  Die Ergebnisse sind, *wie* erwartet, hervorragend.
 
-  Conformément à la déclaration, vous devez fournir votre numéro de sécurité sociale.
-  Anmeldungsgemäß müssen Sie Ihre Sozialversicherungsnummer angeben.
+  Le restaurant change son menu *conformément* à la saison.
+  Das Restaurant ändert sein Menü *saisongemäß*.
 
-  Le conseil municipal a voté conformément à la demande, malgré les objections de certains membres.
-  Der Gemeinderat hat antragsgemäß abgestimmt, trotz der Einwände einiger Mitglieder.
+  *Conformément* à la loi, nous devons porter un casque à moto.
+  *Nach* dem Gesetz müssen wir beim Motorradfahren einen Helm tragen.
 
-  Conformément à la loi, les animaux doivent être vaccinés contre la rage.
-  Nach Maßgabe des Gesetzes müssen Tiere gegen Tollwut geimpft werden.
+  Le conseil a voté *conformément* à la demande des citoyens.
+  Der Rat hat *gemäß* der Forderung der Bürger abgestimmt.
 
-  Conformément au pouvoir que vous m'avez délégué, j'ai pris la décision de…
-  Ermessenskonform habe ich die Entscheidung getroffen, ...
+  *Conformément* aux instructions, j'ai rempli tous les formulaires.
+  Ich habe *entsprechend* den Anweisungen alle Formulare ausgefüllt.
 
-  Conformément au règlement, les chiens doivent être tenus en laisse dans les lieux publics.
-  Regelgerecht müssen Hunde an der Leine geführt werden in der Öffentlichkeit.
+  Nous avons procédé *conformément* aux règles de sécurité.
+  Wir sind *gemäß* den Sicherheitsvorschriften vorgegangen.
+
+  Le bâtiment a été construit *conformément* aux plans.
+  Das Gebäude wurde *entsprechend* den Plänen gebaut.
+
+  *Conformément* à votre demande, nous vous envoyons les documents.
+  *Wie* gewünscht senden wir Ihnen die Unterlagen zu.
+
+  Les examens se dérouleront *conformément* au calendrier prévu.
+  Die Prüfungen werden *gemäß* dem vorgesehenen Zeitplan stattfinden.
+
+  Le projet avance *conformément* au planning établi.
+  Das Projekt schreitet *plangemäß* voran.
+
+  *Conformément* à la tradition, nous célébrons cette fête chaque année.
+  *Entsprechend* der Tradition feiern wir dieses Fest jedes Jahr.
+
+  Les travaux seront réalisés *conformément* au devis.
+  Die Arbeiten werden *entsprechend* dem Kostenvoranschlag ausgeführt.
+
+  Veuillez agir *conformément* aux directives fournies.
+  Bitte handeln Sie *entsprechend* den bereitgestellten Richtlinien.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

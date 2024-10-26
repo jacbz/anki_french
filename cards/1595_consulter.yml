@@ -13,17 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je n’ai pas été consulté.
-  Ich wurde nicht konsultiert.
+  Je n'ai pas été *consulté* sur cette décision.
+  Ich wurde zu dieser Entscheidung nicht *befragt*.
 
-  Je vais consulter mon agenda.
-  Ich werde meinen Terminkalender nachschlagen.
+  Le docteur Martin *consulte* tous les jours de 9h à 17h.
+  Doktor Martin hat jeden Tag von 9 bis 17 Uhr *Sprechstunde*.
 
-  Le policier a consulté le dossier pour retrouver l'adresse du suspect.
-  Der Polizist hat Akteneinsicht genommen, um die Adresse des Verdächtigen zu finden.
+  Pour ce problème de santé, je vous conseille de *consulter* un spécialiste.
+  Für dieses gesundheitliche Problem rate ich Ihnen, einen Facharzt *aufzusuchen*.
 
-  La chaîne de télévision a consulté l'opinion publique sur la nouvelle loi.
-  Die Fernsehstation hat eine Meinungsumfrage zur neuen Gesetzgebung durchgeführt.
+  Avant de prendre une décision, il faut *consulter* tous les documents disponibles.
+  Bevor man eine Entscheidung trifft, muss man alle verfügbaren Unterlagen *einsehen*.
+
+  Sophie *consulte* sa montre toutes les cinq minutes.
+  Sophie *schaut* alle fünf Minuten auf ihre Uhr.
+
+  Les élèves peuvent *consulter* le dictionnaire pendant l'examen.
+  Die Schüler dürfen während der Prüfung im Wörterbuch *nachschlagen*.
+
+  Il faudrait *consulter* un avocat avant de signer ce contrat.
+  Man sollte einen Anwalt *zu Rate ziehen*, bevor man diesen Vertrag unterschreibt.
+
+  La mairie va *consulter* les habitants sur ce projet.
+  Die Stadtverwaltung wird zu diesem Projekt eine *Bürgerbefragung* durchführen.
+
+  Nous devons nous *consulter* avant de prendre une décision.
+  Wir müssen uns *beraten*, bevor wir eine Entscheidung treffen.
+
+  Elle *consulte* régulièrement son agenda pour ne rien oublier.
+  Sie *schaut* regelmäßig in ihrem Kalender *nach*, um nichts zu vergessen.
+
+  Le patient a *consulté* trois médecins différents pour son problème.
+  Der Patient hat wegen seines Problems drei verschiedene Ärzte *aufgesucht*.
+
+  Les députés se sont *consultés* du regard avant de voter.
+  Die Abgeordneten haben sich mit Blicken *verständigt*, bevor sie abstimmten.
+
+  Je dois *consulter* mes parents avant de te donner une réponse.
+  Ich muss meine Eltern um *Rat fragen*, bevor ich dir eine Antwort gebe.
+
+  Il *consulte* sa conscience avant chaque décision importante.
+  Er *hört* bei jeder wichtigen Entscheidung auf sein Gewissen.
+
+  Les chercheurs peuvent *consulter* ces archives sur rendez-vous.
+  Die Forscher können diese Archive nach Terminvereinbarung *einsehen*.
+
+  Marc *consulte* l'horaire des trains sur son téléphone.
+  Marc *schaut* auf seinem Handy im Zugfahrplan *nach*.
+
+  Elle a *consulté* sa mémoire pour retrouver ce souvenir d'enfance.
+  Sie hat in ihrem Gedächtnis *gekramt*, um diese Kindheitserinnerung wiederzufinden.
+
+  Le médecin *consulte* depuis vingt ans dans ce cabinet.
+  Der Arzt hat seit zwanzig Jahren seine *Praxis* in dieser Praxis.
+
+  Avant d'agir, il ne *consulte* que son intérêt personnel.
+  Bevor er handelt, *folgt* er nur seinem persönlichen Interesse.
+
+  Nous devons *consulter* le plan pour trouver notre chemin.
+  Wir müssen auf den Stadtplan *schauen*, um unseren Weg zu finden.
+
+  Les experts se sont *consultés* pendant des heures sur ce cas complexe.
+  Die Experten haben sich stundenlang über diesen komplexen Fall *beraten*.
+
+  Il faut *consulter* un spécialiste pour ce type de problème.
+  Man muss für diese Art von Problem einen Spezialisten *aufsuchen*.
+
+  Elle *consulte* son miroir avant de sortir.
+  Sie *betrachtet* sich im Spiegel, bevor sie ausgeht.
+
+  Pierre *consulte* la météo tous les matins.
+  Pierre *schaut* jeden Morgen nach dem Wetter.
+
+  Le gouvernement a décidé de *consulter* l'opinion publique.
+  Die Regierung hat beschlossen, eine *Meinungsumfrage* durchzuführen.
+
+  Tu devrais *consulter* tes forces avant d'accepter ce défi.
+  Du solltest deine Kräfte *einschätzen*, bevor du diese Herausforderung annimmst.
+
+  Les étudiants peuvent *consulter* leurs notes pendant l'examen.
+  Die Studenten dürfen während der Prüfung in ihren Notizen *nachsehen*.
+
+  Je dois *consulter* mon agenda avant de fixer une date.
+  Ich muss in meinem Kalender *nachschauen*, bevor ich einen Termin festlege.
+
+  Nous nous sommes *consultés* longuement avant de prendre cette décision.
+  Wir haben uns lange *beraten*, bevor wir diese Entscheidung getroffen haben.
+
+  Il faut *consulter* les experts avant de lancer ce projet.
+  Man muss die Experten *zu Rate ziehen*, bevor man dieses Projekt startet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

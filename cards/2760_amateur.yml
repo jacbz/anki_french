@@ -13,44 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai eu des parents amateurs de théâtre.
-  Ich hatte Eltern, die Theaterliebhaber waren.
+  J'ai eu des parents *amateurs* de théâtre.
+  Meine Eltern waren *Liebhaber* des Theaters.
 
-  Je suis un amateur de vin.
-  Ich bin ein Weinliebhaber.
+  Elle est une grande *amatrice* d'art contemporain.
+  Sie ist eine große *Liebhaberin* zeitgenössischer Kunst.
 
-  L'équipe des jeunes était une équipe amateur, mais elle a quand même remporté le championnat.
-  Die Jugendmannschaft war eine Amateurmannschaft, aber sie hat trotzdem die Meisterschaft gewonnen.
+  "Je ne suis pas *amateur* de ce genre de blagues."
+  "Ich bin kein *Freund* solcher Witze."
 
-  Sophie est une amatrice d'art, elle visite souvent des musées.
-  Sophie ist eine Kunstliebhaberin, sie besucht oft Museen.
+  Cette collection rare attirera sûrement des *amateurs*.
+  Diese seltene Sammlung wird bestimmt *Interessenten* anlocken.
 
-  Il n'est pas amateur de sports, il préfère regarder des films.
-  Er ist nicht an Sport interessiert, er schaut lieber Filme.
+  Les *amateurs* de café apprécieront particulièrement ce nouveau restaurant.
+  *Kaffeeliebhaber* werden dieses neue Restaurant besonders schätzen.
 
-  Marie est une amatrice de jardins, elle passe beaucoup de temps à jardiner.
-  Marie ist eine Gartenfreundin, sie verbringt viel Zeit mit Gärtnern.
+  Notre équipe *amateur* s'entraîne trois fois par semaine.
+  Unsere *Amateur*mannschaft trainiert dreimal pro Woche.
 
-  Il est amateur de belle musique, il écoute du classique tous les jours.
-  Er liebt schöne Musik, er hört jeden Tag Klassik.
+  C'est un photographe *amateur* très talentueux.
+  Er ist ein sehr talentierter *Hobby*fotograf.
 
-  Il est amateur de films, il va au cinéma presque tous les weekends.
-  Er sieht gerne Filme, er geht fast jedes Wochenende ins Kino.
+  Elle peint en *amatrice* depuis sa retraite.
+  Sie malt seit ihrer Pensionierung als *Hobby*malerin.
 
-  Pierre est un amateur de bons vins, il a une cave bien fournie.
-  Pierre ist ein Liebhaber guter Weine, er hat einen gut sortierten Weinkeller.
+  Mon oncle est un véritable *amateur* de bons vins.
+  Mein Onkel ist ein echter Wein*liebhaber*.
 
-  Elle fait de la peinture en amateur, elle aime créer des tableaux.
-  Sie malt aus Liebhaberei, sie malt gerne Bilder.
+  "C'est du travail d'*amateur*!"
+  "Das ist *stümper*hafte Arbeit!"
 
-  Il travaille en amateur, il n'est pas du tout professionnel.
-  Er arbeitet stümperhaft, er ist überhaupt nicht professionell.
+  L'exposition est ouverte aux artistes *amateurs* et professionnels.
+  Die Ausstellung ist für *Amateur*- und Berufskünstler offen.
 
-  Elle a trouvé un amateur de voyages, ils partent souvent en vacances ensemble.
-  Sie hat einen Reiseliebhaber gefunden, sie gehen oft zusammen in Urlaub.
+  Cette *amatrice* de jardinage passe tout son temps libre dans son potager.
+  Diese Garten*liebhaberin* verbringt ihre ganze Freizeit in ihrem Gemüsegarten.
 
-  Sa mère est une peintre amateur, elle expose ses tableaux dans la galerie du village.
-  Ihre Mutter ist eine Hobbymalerin, sie stellt ihre Bilder in der Galerie des Dorfes aus.
+  Les musiciens *amateurs* donneront un concert ce weekend.
+  Die *Amateur*musiker werden dieses Wochenende ein Konzert geben.
+
+  Il fait de la photographie en *amateur* depuis des années.
+  Er fotografiert seit Jahren als *Hobby*.
+
+  Avis aux *amateurs* : cette voiture de collection est à vendre.
+  An alle *Interessenten*: Dieser Oldtimer steht zum Verkauf.
+
+  Cette galerie attire de nombreux *amateurs* d'art moderne.
+  Diese Galerie zieht viele *Liebhaber* moderner Kunst an.
+
+  Il joue au tennis en *amateur* le weekend.
+  Er spielt am Wochenende *hobbymäßig* Tennis.
+
+  Les vrais *amateurs* de chocolat préfèrent celui à forte teneur en cacao.
+  Echte Schokoladen*liebhaber* bevorzugen die mit hohem Kakaogehalt.
+
+  Cette *amatrice* de lecture dévore trois romans par semaine.
+  Diese Bücher*liebhaberin* verschlingt drei Romane pro Woche.
+
+  "Il travaille comme un *amateur*."
+  "Er arbeitet wie ein *Stümper*."
+
+  Son blog de cuisine attire beaucoup d'*amateurs* de gastronomie.
+  Sein Kochblog zieht viele *Liebhaber* der Gastronomie an.
+
+  La compétition est réservée aux sportifs *amateurs*.
+  Der Wettkampf ist *Amateur*sportlern vorbehalten.
+
+  Cette *amatrice* de cinéma ne rate aucun festival.
+  Diese Film*liebhaberin* lässt kein Festival aus.
+
+  Le marché aux puces attire toujours des *amateurs* d'antiquités.
+  Der Flohmarkt zieht immer Antiquitäten*liebhaber* an.
+
+  Ces *amateurs* de nature font une randonnée chaque weekend.
+  Diese Natur*liebhaber* machen jedes Wochenende eine Wanderung.
+
+  L'orchestre *amateur* répète tous les mardis soir.
+  Das *Amateur*orchester probt jeden Dienstagabend.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,20 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les invités les plus attendus ne sont pas venus.
-  Die am meisten erwarteten Gäste sind nicht gekommen.
+  Les *invités* les plus attendus ne sont pas venus.
+  Die am meisten erwarteten *Gäste* sind nicht gekommen.
 
-  L’invité est arrivé.
-  Der Gast ist angekommen.
+  Le professeur *invité* donnera une conférence sur le climat la semaine prochaine.
+  Der *Gast*professor wird nächste Woche einen Vortrag über das Klima halten.
 
-  Le professeur Dupont, invité d'honneur de la cérémonie, a reçu un diplôme honorifique.
-  Der Professor Dupont, der Ehrengast der Zeremonie, wurde mit einem Ehrendoktortitel ausgezeichnet.
+  La conférencière *invitée* a captivé tout l'auditoire avec son discours.
+  Die *Gast*rednerin hat mit ihrer Rede das ganze Publikum in ihren Bann gezogen.
 
-  Mme. Dubois, professeur invitée de l'université, donnera un séminaire sur l'histoire de l'art.
-  Frau Dubois, Gastprofessorin an der Universität, wird ein Seminar über die Kunstgeschichte halten.
+  En tant qu'*invité* d'honneur, il prononcera le discours d'ouverture.
+  Als *Ehren*gast wird er die Eröffnungsrede halten.
 
-  La conférencière invitée, Mme. Martin, a captivé le public avec son discours passionnant.
-  Die Gastrednerin, Frau Martin, hat das Publikum mit ihrem spannenden Vortrag gefesselt.
+  Nous accueillons trois *invités* à la partie de chasse ce week-end.
+  Wir empfangen dieses Wochenende drei *Jagd*gäste.
+
+  C'est un plaisir de vous avoir comme *invitée* ce soir.
+  Es ist eine Freude, Sie heute Abend als *Gast* bei uns zu haben.
+
+  L'*invité* de marque est arrivé avec une heure de retard.
+  Der prominente *Gast* ist eine Stunde zu spät gekommen.
+
+  Notre *invitée* nous a apporté un délicieux gâteau fait maison.
+  Unsere *Gast* hat uns einen köstlichen selbstgemachten Kuchen mitgebracht.
+
+  Combien d'*invités* attendez-vous pour le mariage ?
+  Wie viele *Gäste* erwarten Sie für die Hochzeit?
+
+  Les *invités* se sont installés autour de la grande table.
+  Die *Gäste* haben sich um den großen Tisch herum niedergelassen.
+
+  Paul sera notre seul *invité* pour le dîner de ce soir.
+  Paul wird unser einziger *Gast* beim heutigen Abendessen sein.
+
+  Je suis ravie d'être votre *invitée* pour cette soirée.
+  Ich freue mich sehr, Ihr *Gast* an diesem Abend zu sein.
+
+  L'université a accueilli plusieurs professeurs *invités* cette année.
+  Die Universität hat dieses Jahr mehrere *Gast*professoren empfangen.
+
+  Tous les *invités* ont apprécié la fête d'anniversaire.
+  Alle *Geburtstags*gäste haben die Feier genossen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

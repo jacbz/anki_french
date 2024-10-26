@@ -13,17 +13,53 @@ Register: ↘Fiktion ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le commutateur d’origine fixe les paramètres.
-  Der ursprüngliche Schalter legt die Einstellungen fest.
+  Le commutateur d'origine fixe les *paramètres*.
+  Der Original-Schalter legt die *Einstellungen* fest.
 
-  Les paramètres de l’expérience ont été soigneusement choisis.
-  Die Parameter des Experiments wurden sorgfältig ausgewählt.
+  Dans cette équation, le *paramètre* a représente la pente de la droite.
+  In dieser Gleichung stellt der *Parameter* a die Steigung der Geraden dar.
 
-  Les paramètres nationaux définissent les préférences linguistiques et régionales d'un système, comme la langue, le fuseau horaire et le format des dates.
-  Die Ländereinstellung definiert die sprachlichen und regionalen Einstellungen eines Systems, wie Sprache, Zeitzone und Datumsformat.
+  Pour modifier les *paramètres* du clavier, allez dans les réglages système.
+  Um die Tastatur*einstellungen* zu ändern, gehen Sie in die Systemeinstellungen.
 
-  Le paramètre par défaut est utilisé lorsque aucune autre valeur n'est spécifiée.
-  Der Ausgangsparameter wird verwendet, wenn kein anderer Wert angegeben ist.
+  La température est un *paramètre* essentiel pour cette expérience.
+  Die Temperatur ist ein wichtiger *Parameter* für dieses Experiment.
+
+  Les *paramètres* de sécurité ont été mis à jour automatiquement.
+  Die Sicherheits*einstellungen* wurden automatisch aktualisiert.
+
+  Le système utilise les *paramètres* par défaut si aucune valeur n'est spécifiée.
+  Das System verwendet die Standard*parameter*, wenn kein Wert angegeben ist.
+
+  Nous devons prendre en compte plusieurs *paramètres* avant de prendre une décision.
+  Wir müssen mehrere *Parameter* berücksichtigen, bevor wir eine Entscheidung treffen.
+
+  Les *paramètres* d'affichage de mon écran ne fonctionnent plus correctement.
+  Die Anzeige*einstellungen* meines Bildschirms funktionieren nicht mehr richtig.
+
+  Le médecin surveille régulièrement les *paramètres* sanguins du patient.
+  Der Arzt überwacht regelmäßig die Blut*parameter* des Patienten.
+
+  J'ai modifié les *paramètres* de confidentialité sur mon compte.
+  Ich habe die Privatsphäre*einstellungen* in meinem Konto geändert.
+
+  Cette fonction mathématique dépend de trois *paramètres* différents.
+  Diese mathematische Funktion hängt von drei verschiedenen *Parametern* ab.
+
+  Les *paramètres* de langue ont été restaurés aux valeurs initiales.
+  Die Sprach*einstellungen* wurden auf die ursprünglichen Werte zurückgesetzt.
+
+  Le stress est un *paramètre* important à considérer dans cette étude.
+  Stress ist ein wichtiger *Parameter*, der in dieser Studie berücksichtigt werden muss.
+
+  Les *paramètres* régionaux déterminent le format de la date et de l'heure.
+  Die Regions*einstellungen* bestimmen das Datum- und Zeitformat.
+
+  Le scientifique a modifié plusieurs *paramètres* pendant l'expérience.
+  Der Wissenschaftler hat während des Experiments mehrere *Parameter* verändert.
+
+  La variance est un *paramètre* statistique qui mesure la dispersion des données.
+  Die Varianz ist ein statistischer *Parameter*, der die Streuung der Daten misst.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

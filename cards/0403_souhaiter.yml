@@ -13,44 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’équipage vous souhaite un bon voyage.
-  Die Besatzung wünscht Ihnen eine gute Reise.
+  L'équipage vous *souhaite* un bon voyage.
+  Die Crew *wünscht* Ihnen eine gute Reise.
 
-  Je te souhaite une bonne journée.
-  Ich wünsche dir einen schönen Tag.
+  Je *souhaiterais* avoir plus de temps libre.
+  Ich *wünschte*, ich hätte mehr Freizeit.
 
-  Je souhaite une bonne journée à mon ami.
-  Ich wünsche meinem Freund einen schönen Tag.
+  Les enfants se sont *souhaité* de joyeuses vacances.
+  Die Kinder haben sich schöne Ferien *gewünscht*.
 
-  Les élèves se souhaitent bonne chance pour l'examen.
-  Die Schüler wünschen sich gegenseitig viel Glück für die Prüfung.
+  Nous vous *souhaitons* la bienvenue dans notre école.
+  Wir *heißen* Sie an unserer Schule willkommen.
 
-  La grand-mère a souhaité bonne nuit à ses petits-enfants.
-  Die Großmutter hat ihren Enkeln gute Nacht gewünscht.
+  "Je t'en *souhaite*!" a-t-il dit en riant.
+  "Na dann viel Spaß!" sagte er lachend.
 
-  On leur souhaite beaucoup de bonheur pour leur mariage.
-  Man wünscht ihnen viel Glück zu ihrer Hochzeit.
+  Elle *souhaite* que ses parents soient fiers d'elle.
+  Sie *hofft*, dass ihre Eltern stolz auf sie sind.
 
-  Tous les invités souhaitaient que tout se passe bien pour le nouveau projet.
-  Alle Gäste hofften, dass alles gut verläuft für das neue Projekt.
+  Je *souhaite* sincèrement votre réussite.
+  Ich *wünsche* Ihnen aufrichtig Erfolg.
 
-  Nous souhaitons manger un bon repas à la campagne.
-  Wir möchten ein gutes Essen auf dem Land genießen.
+  *Souhaitez*-vous un café ?
+  *Möchten* Sie einen Kaffee?
 
-  Je souhaiterais t'aider davantage, mais je n'ai pas le temps.
-  Ich würde dir gern noch mehr helfen, aber ich habe keine Zeit.
+  Nous vous *souhaitons* tout le bonheur du monde.
+  Wir *wünschen* Ihnen alles Glück der Welt.
 
-  Les amis ont souhaité bien des choses pour la nouvelle année à leur amie.
-  Die Freunde haben ihrer Freundin alles Gute für das neue Jahr gewünscht.
+  Je ne *souhaite* pas sa mort, mais son bonheur.
+  Ich *wünsche* nicht seinen Tod, sondern sein Glück.
 
-  Je souhaiterais un joyeux anniversaire à ma sœur.
-  Ich möchte meiner Schwester alles Gute zum Geburtstag wünschen.
+  Le président *souhaite* présenter ses excuses.
+  Der Präsident *möchte* sich entschuldigen.
 
-  Les collègues ont souhaité son anniversaire à leur collègue.
-  Die Kollegen haben ihrem Kollegen zum Geburtstag gratuliert.
+  Il n'a pas *souhaité* répondre à mes questions.
+  Er *wollte* nicht auf meine Fragen antworten.
 
-  Je souhaiterais à mon frère de réussir son examen.
-  Ich wünsche meinem Bruder, dass er seine Prüfung besteht.
+  Les élèves se *souhaitent* de bonnes vacances.
+  Die Schüler *wünschen* sich schöne Ferien.
+
+  Je vous *souhaite* une excellente année 2025.
+  Ich *wünsche* Ihnen ein ausgezeichnetes Jahr 2025.
+
+  *Souhaitons*-lui un prompt rétablissement.
+  Lasst uns ihm eine schnelle Genesung *wünschen*.
+
+  Elle *souhaiterait* devenir médecin un jour.
+  Sie *möchte* eines Tages Ärztin werden.
+
+  Je te *souhaite* tout ce que tu désires.
+  Ich *wünsche* dir alles, was du dir ersehnst.
+
+  Que *souhaitez*-vous manger ce soir ?
+  Was *möchten* Sie heute Abend essen?
+
+  Les résultats n'étaient pas ceux *souhaités*.
+  Die Ergebnisse waren nicht die *erwünschten*.
+
+  Je *souhaite* que tu comprennes ma décision.
+  Ich *hoffe*, dass du meine Entscheidung verstehst.
+
+  Ma famille vous *souhaite* de joyeuses fêtes.
+  Meine Familie *wünscht* Ihnen frohe Festtage.
+
+  Je ne *souhaite* rien tant que ton bonheur.
+  Ich *wünsche* mir nichts mehr als dein Glück.
+
+  On vous *souhaite* bien du plaisir avec ce projet difficile !
+  Dann *wünschen* wir Ihnen viel Spaß mit diesem schwierigen Projekt!
+
+  Je lui ai *souhaité* son anniversaire ce matin.
+  Ich habe ihm heute Morgen zum Geburtstag *gratuliert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

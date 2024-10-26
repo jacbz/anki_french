@@ -13,20 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les gens tentent de combler ce vide, pierre par pierre.
-  Die Menschen versuchen, diese Lücke zu füllen, Stein für Stein.
+  Les gens tentent de *combler* ce vide, pierre par pierre.
+  Die Menschen versuchen diese Leere *aufzufüllen*, Stein für Stein.
 
-  Il a réussi à combler le fossé entre les deux cultures.
-  Er hat es geschafft, die Kluft zwischen den beiden Kulturen zu überbrücken.
+  Il faut *combler* ce trou dans le jardin avant que quelqu'un ne tombe dedans.
+  Wir müssen dieses Loch im Garten *zuschütten*, bevor jemand hineinfällt.
 
-  Il était comblé de son nouveau travail.
-  Er war wunschlos glücklich mit seinem neuen Job.
+  Marie essaie de *combler* son retard en travaillant jour et nuit.
+  Marie versucht ihren Rückstand *aufzuholen*, indem sie Tag und Nacht arbeitet.
 
-  Ses parents l'ont comblé de cadeaux pour son anniversaire.
-  Seine Eltern haben ihn mit Geschenken zu seinem Geburtstag überhäuft.
+  Cette nouvelle entreprise va *combler* le déficit budgétaire.
+  Dieses neue Unternehmen wird das Haushaltsdefizit *ausgleichen*.
 
-  Le succès de son livre l'a comblé de joie.
-  Der Erfolg seines Buches hat ihn mit Freude erfüllt.
+  L'université a créé ce cours pour *combler* une lacune dans le programme.
+  Die Universität hat diesen Kurs eingeführt, um eine Lücke im Programm zu *schließen*.
+
+  Ses parents l'ont *comblé* de cadeaux pour son anniversaire.
+  Seine Eltern haben ihn zu seinem Geburtstag mit Geschenken *überhäuft*.
+
+  Cette promotion m'a *comblé* de joie.
+  Diese Beförderung hat mich mit Freude *erfüllt*.
+
+  Les grands-parents *comblent* leurs petits-enfants d'attention.
+  Die Großeltern *überhäufen* ihre Enkelkinder mit Aufmerksamkeit.
+
+  Elle était *comblée* après avoir obtenu son diplôme.
+  Sie war *wunschlos glücklich*, nachdem sie ihren Abschluss bekommen hatte.
+
+  Les ouvriers doivent *combler* la tranchée avant la fin de la journée.
+  Die Arbeiter müssen den Graben vor Tagesende *zuschütten*.
+
+  Ce dictionnaire vient *combler* un manque important dans la littérature linguistique.
+  Dieses Wörterbuch *schließt* eine wichtige Lücke in der sprachwissenschaftlichen Literatur.
+
+  Les bénévoles ont *comblé* le fossé avec du sable.
+  Die Freiwilligen haben den Graben mit Sand *aufgefüllt*.
+
+  Son succès a *comblé* tous mes espoirs.
+  Sein Erfolg hat alle meine Hoffnungen *erfüllt*.
+
+  Le nouvel entraîneur va *combler* les faiblesses de l'équipe.
+  Der neue Trainer wird die Schwächen der Mannschaft *ausgleichen*.
+
+  Cette découverte *comble* une lacune importante dans nos connaissances.
+  Diese Entdeckung *schließt* eine wichtige Lücke in unserem Wissen.
+
+  Il faut *combler* l'interstice entre les deux planches.
+  Man muss den Spalt zwischen den beiden Brettern *auffüllen*.
+
+  Les dons ont permis de *combler* le déficit de l'association.
+  Die Spenden haben es ermöglicht, das Defizit des Vereins *auszugleichen*.
+
+  Son nouveau travail l'a *comblée* de satisfaction.
+  Ihre neue Arbeit hat sie mit Zufriedenheit *erfüllt*.
+
+  Nous devons *combler* ce puits abandonné pour éviter les accidents.
+  Wir müssen diesen verlassenen Brunnen *zuschütten*, um Unfälle zu vermeiden.
+
+  L'amour de ses enfants *comble* sa vie.
+  Die Liebe ihrer Kinder *erfüllt* ihr Leben.
+
+  Cette petite victoire a *comblé* leur journée.
+  Dieser kleine Sieg hat ihren Tag *erfüllt*.
+
+  Le gouvernement va *combler* le manque de personnel dans les hôpitaux.
+  Die Regierung wird den Personalmangel in den Krankenhäusern *ausgleichen*.
+
+  Tu me *combles* de bonheur avec cette nouvelle.
+  Du *erfüllst* mich mit dieser Nachricht mit Glück.
+
+  Les jardiniers vont *combler* les trous avec de la terre fertile.
+  Die Gärtner werden die Löcher mit fruchtbarer Erde *auffüllen*.
+
+  Cette formation m'a permis de *combler* mes lacunes en mathématiques.
+  Diese Ausbildung hat es mir ermöglicht, meine Lücken in Mathematik zu *schließen*.
+
+  La nature *comble* peu à peu le ravin avec des sédiments.
+  Die Natur *füllt* die Schlucht nach und nach mit Sedimenten *auf*.
+
+  Par cette action, il a *comblé* la mesure de ses erreurs.
+  Mit dieser Handlung hat er das Maß seiner Fehler *voll gemacht*.
+
+  La réussite de son fils l'a *comblé* de fierté.
+  Der Erfolg seines Sohnes hat ihn mit Stolz *erfüllt*.
+
+  Nous devons *combler* nos besoins en énergie de manière durable.
+  Wir müssen unseren Energiebedarf nachhaltig *decken*.
+
+  C'est un homme *comblé* qui n'a plus rien à désirer.
+  Er ist ein *wunschlos glücklicher* Mann, der sich nichts mehr wünscht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,44 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ces problèmes sociaux sont des blessures qui ne sont pas encore guéries.
-  Diese sozialen Probleme sind Wunden, die noch nicht verheilt sind.
+  Ces problèmes sociaux sont des *blessures* qui ne sont pas encore guéries.
+  Diese sozialen Probleme sind *Wunden*, die noch nicht verheilt sind.
 
-  Il a une blessure à la jambe.
-  Er hat eine Verletzung am Bein.
+  Elle a reçu une *blessure* au genou lors de l'accident.
+  Sie hat sich bei dem Unfall eine *Verletzung* am Knie zugezogen.
 
-  Elle est celle qui a pris soin de sa blessure.
-  Sie ist diejenige, die sich um seine Wunde gekümmert hat.
+  Le médecin doit désinfecter la *blessure* avant de la panser.
+  Der Arzt muss die *Wunde* desinfizieren, bevor er sie verbindet.
 
-  Le football est un sport qui comporte de nombreux risques de blessure articulaire.
-  Fußball ist ein Sport, der mit vielen Risiken für Gelenkverletzungen verbunden ist.
+  Sa *blessure* à la tête était plus grave que prévu.
+  Seine *Kopfverletzung* war schlimmer als erwartet.
 
-  La critique a blessé l'amour-propre de l'artiste.
-  Die Kritik hat die Eitelkeit des Künstlers verletzt.
+  Il s'est remis lentement de ses *blessures*.
+  Er hat sich langsam von seinen *Verletzungen* erholt.
 
-  Le cycliste a subi une blessure à la tête suite à une chute.
-  Der Radfahrer erlitt eine Kopfverletzung nach einem Sturz.
+  Cette *blessure* d'amour-propre ne guérira jamais complètement.
+  Diese *Verletzung* seiner Eitelkeit wird nie ganz heilen.
 
-  Le voleur a infligé une blessure par arme de taille à sa victime.
-  Der Dieb fügte seinem Opfer eine Hiebwunde zu.
+  Le joueur a subi une grave *blessure* articulaire pendant le match.
+  Der Spieler hat sich während des Spiels eine schwere *Gelenkverletzung* zugezogen.
 
-  Le bricoleur s'est fait une blessure à la main en manipulant un outil tranchant.
-  Der Heimwerker hat sich beim Umgang mit einem scharfen Werkzeug eine Verletzung an der Hand zugezogen.
+  Les secouristes ont immédiatement traité sa *blessure* par balle.
+  Die Rettungskräfte haben sofort seine *Schusswunde* behandelt.
 
-  Le soldat a reçu une blessure au combat.
-  Der Soldat wurde im Kampf verwundet.
+  "Cette *blessure* superficielle ne nécessite qu'un simple pansement."
+  "Diese oberflächliche *Verletzung* braucht nur ein einfaches Pflaster."
 
-  Le blessé a succombé à ses blessures après plusieurs jours de coma.
-  Der Verletzte erlag seinen Verletzungen nach mehreren Tagen im Koma.
+  La *blessure* s'est rouverte pendant qu'il courait.
+  Die *Wunde* ist wieder aufgegangen, während er lief.
 
-  L'agresseur a été condamné pour coups et blessures.
-  Der Angreifer wurde wegen Körperverletzung verurteilt.
+  Les *blessures* causées par la calomnie sont souvent plus profondes que les blessures physiques.
+  Die durch Verleumdung verursachten seelischen *Verletzungen* sind oft tiefer als körperliche Wunden.
 
-  L'agresseur a été condamné pour coups et blessures ayant entraîné la mort.
-  Der Angreifer wurde wegen Körperverletzung mit Todesfolge verurteilt.
+  Cette vieille *blessure* lui fait encore mal quand il pleut.
+  Die alte *Verletzung* schmerzt ihn noch immer, wenn es regnet.
 
-  La blessure oubliée a soudainement fait surface.
-  Die alte Wunde ist plötzlich wieder aufgebrochen.
+  Elle a succombé à ses *blessures* trois jours après l'accident.
+  Sie ist drei Tage nach dem Unfall ihren *Verletzungen* erlegen.
+
+  Ne pas parler de cet incident, c'est comme panser une *blessure*.
+  Nicht über diesen Vorfall zu sprechen ist wie eine *Wunde* zu verbinden.
+
+  La victime présentait plusieurs *blessures* à la main droite.
+  Das Opfer wies mehrere *Verletzungen* an der rechten Hand auf.
+
+  Chaque fois qu'il en parle, il rouvre une vieille *blessure*.
+  Jedes Mal, wenn er darüber spricht, reißt er eine alte *Wunde* wieder auf.
+
+  Les *blessures* de la guerre ont mis des années à cicatriser.
+  Die *Wunden* des Krieges brauchten Jahre, um zu heilen.
+
+  Sa *blessure* au pied l'empêche de participer à la compétition.
+  Seine *Verletzung* am Fuß hindert ihn daran, am Wettkampf teilzunehmen.
+
+  Le temps guérit toutes les *blessures*, dit-on.
+  Die Zeit heilt alle *Wunden*, sagt man.
+
+  Cette remarque a ravivé une ancienne *blessure*.
+  Diese Bemerkung hat eine alte *Wunde* wieder aufgerissen.
+
+  Les *blessures* de l'envie sont difficiles à guérir.
+  Die *Wunden* des Neids sind schwer zu heilen.
+
+  Le médecin a nettoyé la *blessure* avec précaution.
+  Der Arzt reinigte die *Wunde* vorsichtig.
+
+  Cette *blessure* profonde nécessite des points de suture.
+  Diese tiefe *Wunde* muss genäht werden.
+
+  Les *blessures* de l'amour laissent parfois des cicatrices permanentes.
+  Die *Wunden* der Liebe hinterlassen manchmal bleibende Narben.
+
+  Il montre fièrement ses *blessures* de guerre.
+  Er zeigt stolz seine Kriegs*wunden*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

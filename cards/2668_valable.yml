@@ -13,23 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Comme toute histoire valable, celle-ci concerne une fille.
-  Wie jede gültige Geschichte handelt auch diese von einem Mädchen.
+  Comme toute histoire *valable*, celle-ci concerne une fille.
+  Wie jede *ordentliche* Geschichte handelt auch diese von einem Mädchen.
 
-  Ce coupon n’est plus valable.
-  Dieser Gutschein ist nicht mehr gültig.
+  Cette carte d'identité n'est plus *valable* depuis trois mois.
+  Dieser Personalausweis ist seit drei Monaten nicht mehr *gültig*.
 
-  Ce permis de conduire ne sera plus valable à partir du mois prochain.
-  Dieser Führerschein verliert ab nächsten Monat seine Gültigkeit.
+  Le billet de train est *valable* jusqu'à minuit.
+  Die Zugfahrkarte ist bis Mitternacht *gültig*.
 
-  Ce coupon est valable dans tout le pays.
-  Dieser Gutschein ist landesweit gültig.
+  Cette promotion est *valable* uniquement en magasin.
+  Dieses Angebot ist nur im Geschäft *gültig*.
 
-  Le contrat est juridiquement valable.
-  Der Vertrag ist rechtsverbindlich.
+  Votre passeport doit être *valable* au moins six mois après votre retour.
+  Ihr Reisepass muss mindestens sechs Monate nach Ihrer Rückkehr *gültig* sein.
 
-  Ce document est non valable.
-  Dieses Dokument ist rechtsungültig.
+  Cette offre exceptionnelle sera *valable* pendant tout le mois de juin.
+  Dieses Sonderangebot ist den ganzen Juni *gültig*.
+
+  Le contrat n'est pas juridiquement *valable* sans votre signature.
+  Der Vertrag ist ohne Ihre Unterschrift nicht rechts*gültig*.
+
+  Les billets sont *valables* sur toutes les lignes de bus.
+  Die Fahrscheine sind für alle Buslinien *gültig*.
+
+  Son argument n'était pas vraiment *valable*.
+  Sein Argument war nicht wirklich *stichhaltig*.
+
+  Elle n'a donné aucune raison *valable* pour son absence.
+  Sie hat keinen *triftigen* Grund für ihre Abwesenheit genannt.
+
+  "C'est un mec *valable*, tu peux lui faire confiance."
+  "Er ist ein *ordentlicher* Typ, du kannst ihm vertrauen."
+
+  Ces critères ne sont pas assez *valables* pour prendre une décision.
+  Diese Kriterien sind nicht *hinreichend*, um eine Entscheidung zu treffen.
+
+  Cette théorie n'est plus *valable* depuis les nouvelles découvertes.
+  Diese Theorie ist seit den neuen Entdeckungen nicht mehr *gerechtfertigt*.
+
+  Les réductions sont *valables* dans tous nos magasins.
+  Die Ermäßigungen sind in allen unseren Geschäften *gültig*.
+
+  Cette hypothèse est-elle encore *valable* aujourd'hui ?
+  Ist diese Hypothese heute noch *gerechtfertigt*?
+
+  Nous recherchons des témoins *valables* pour cette affaire.
+  Wir suchen *brauchbare* Zeugen für diesen Fall.
+
+  Je n'ai trouvé aucun interlocuteur *valable* pour discuter de ce sujet.
+  Ich habe keinen *akzeptablen* Gesprächspartner zu diesem Thema gefunden.
+
+  C'est une solution tout à fait *valable* pour résoudre ce problème.
+  Das ist eine durchaus *ordentliche* Lösung für dieses Problem.
+
+  Cette excuse n'est pas *valable* pour justifier ton retard.
+  Diese Ausrede ist nicht *stichhaltig* genug, um deine Verspätung zu rechtfertigen.
+
+  L'abonnement reste *valable* jusqu'à la fin de l'année.
+  Das Abonnement bleibt bis zum Ende des Jahres *gültig*.
+
+  Cette adresse n'est plus *valable* depuis son déménagement.
+  Diese Adresse ist seit seinem Umzug nicht mehr *gültig*.
+
+  Les tickets restaurant sont *valables* un an.
+  Die Essensmarken sind ein Jahr lang *gültig*.
+
+  Cette carte de réduction n'est *valable* que pour les étudiants.
+  Diese Rabattkarte ist nur für Studierende *gültig*.
+
+  C'est une affaire très *valable*, il faut saisir cette opportunité.
+  Das ist ein sehr *einträgliches* Geschäft, man muss diese Gelegenheit nutzen.
+
+  Le permis de conduire est *valable* dix ans.
+  Der Führerschein ist zehn Jahre *gültig*.
+
+  L'assurance n'est plus *valable* après la date d'expiration.
+  Die Versicherung ist nach dem Ablaufdatum nicht mehr *gültig*.
+
+  Cette loi est *valable* dans toute l'Union européenne.
+  Dieses Gesetz ist in der ganzen Europäischen Union *gültig*.
+
+  Le coupon de réduction est *valable* jusqu'à la fin du mois.
+  Der Rabattgutschein ist bis zum Monatsende *gültig*.
+
+  Les résultats ne seront pas *valables* sans une méthodologie rigoureuse.
+  Die Ergebnisse werden ohne eine strenge Methodik nicht *gültig* sein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

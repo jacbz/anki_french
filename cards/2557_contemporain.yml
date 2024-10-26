@@ -13,35 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce n’était pas un langage contemporain.
-  Es war keine zeitgenössische Sprache.
+  Ce n'était pas un langage *contemporain*.
+  Das war keine *zeitgenössische* Sprache.
 
-  L’art contemporain est souvent difficile à comprendre.
-  Zeitgenössische Kunst ist oft schwer zu verstehen.
+  Les peintres *contemporains* explorent de nouvelles formes d'expression artistique.
+  Die *zeitgenössischen* Maler erkunden neue Formen des künstlerischen Ausdrucks.
 
-  Pierre est un contemporain de Marie.
-  Pierre ist ein Zeitgenosse von Marie.
+  Mozart était *contemporain* de Haydn.
+  Mozart war ein *Zeitgenosse* von Haydn.
 
-  Le groupe a interprété la chanson d'une façon contemporaine.
-  Die Band hat den Song zeitgerecht interpretiert.
+  Cette sculpture *contemporaine* attire beaucoup de visiteurs au musée.
+  Diese *zeitgenössische* Skulptur zieht viele Besucher ins Museum an.
 
-  Ce tableau est contemporain de la Révolution française.
-  Dieses Bild ist in der gleichen Zeit wie die Französische Revolution entstanden.
+  Le chorégraphe a donné une interprétation *contemporaine* du ballet classique.
+  Der Choreograph hat eine *zeitgemäße* Interpretation des klassischen Balletts geschaffen.
 
-  Les deux écrivains sont contemporains l'un de l'autre.
-  Die beiden Schriftsteller haben in der gleichen Zeit gelebt.
+  Victor Hugo et Charles Baudelaire étaient *contemporains* l'un de l'autre.
+  Victor Hugo und Charles Baudelaire waren *Zeitgenossen*.
 
-  Ce document d'histoire contemporaine décrit la chute du mur de Berlin.
-  Dieses zeitgeschichtliche Dokument beschreibt den Fall der Berliner Mauer.
+  La danse *contemporaine* permet d'exprimer des émotions nouvelles.
+  Der *zeitgenössische* Tanz ermöglicht es, neue Emotionen auszudrücken.
 
-  L'histoire contemporaine se concentre sur les événements du XXe siècle.
-  Die Geschichte der Gegenwart konzentriert sich auf die Ereignisse des 20. Jahrhunderts.
+  Ce bâtiment est *contemporain* de la Révolution française.
+  Dieses Gebäude ist zur gleichen Zeit wie die Französische Revolution entstanden.
 
-  La littérature contemporaine explore des thèmes de notre époque.
-  Die Gegenwartsliteratur erforscht Themen unserer Zeit.
+  Les problèmes *contemporains* exigent des solutions innovantes.
+  Die *gegenwärtigen* Probleme erfordern innovative Lösungen.
 
-  Le français contemporain a évolué au cours des dernières décennies.
-  Das heutige Französisch hat sich in den letzten Jahrzehnten weiterentwickelt.
+  J'aime beaucoup la musique *contemporaine*.
+  Ich mag *zeitgenössische* Musik sehr.
+
+  La littérature *contemporaine* reflète les préoccupations de notre époque.
+  Die *zeitgenössische* Literatur spiegelt die Sorgen unserer Zeit wider.
+
+  Ces romans *contemporains* abordent des thèmes universels.
+  Diese *gegenwärtigen* Romane behandeln universelle Themen.
+
+  Le français *contemporain* évolue constamment.
+  Das *heutige* Französisch entwickelt sich ständig weiter.
+
+  Les artistes *contemporains* utilisent souvent les nouvelles technologies.
+  *Zeitgenössische* Künstler nutzen oft neue Technologien.
+
+  Nous étudions l'histoire *contemporaine* à l'université.
+  Wir studieren *Zeit*geschichte an der Universität.
+
+  Cette pièce de théâtre *contemporaine* a reçu d'excellentes critiques.
+  Dieses *zeitgenössische* Theaterstück hat ausgezeichnete Kritiken erhalten.
+
+  Léonard de Vinci était *contemporain* de Michel-Ange.
+  Leonardo da Vinci war ein *Zeitgenosse* von Michelangelo.
+
+  Le cinéma *contemporain* aborde des sujets de plus en plus variés.
+  Der *zeitgenössische* Film behandelt immer vielfältigere Themen.
+
+  L'architecture *contemporaine* privilégie souvent le minimalisme.
+  Die *zeitgenössische* Architektur bevorzugt oft den Minimalismus.
+
+  Ces documents d'histoire *contemporaine* sont très précieux.
+  Diese *zeit*geschichtlichen Dokumente sind sehr wertvoll.
+
+  La poésie *contemporaine* explore de nouvelles formes d'expression.
+  Die *zeitgenössische* Poesie erkundet neue Ausdrucksformen.
+
+  Nos *contemporains* sont très préoccupés par l'environnement.
+  Unsere *Zeitgenossen* sind sehr besorgt um die Umwelt.
+
+  Cette exposition d'art *contemporain* attire beaucoup de monde.
+  Diese Ausstellung *zeitgenössischer* Kunst zieht viele Menschen an.
+
+  Ces deux œuvres sont *contemporaines* l'une de l'autre.
+  Diese beiden Werke sind zur *gleichen Zeit* entstanden.
+
+  Le photographe capture la société *contemporaine* dans ses images.
+  Der Fotograf fängt die *zeitgenössische* Gesellschaft in seinen Bildern ein.
+
+  La philosophie *contemporaine* s'intéresse à de nouvelles questions.
+  Die *zeitgenössische* Philosophie beschäftigt sich mit neuen Fragen.
+
+  Les défis *contemporains* nécessitent des approches innovantes.
+  Die *gegenwärtigen* Herausforderungen erfordern innovative Ansätze.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

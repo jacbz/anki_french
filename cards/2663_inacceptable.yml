@@ -13,11 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Selon nous, c’est totalement inacceptable.
-  Unserer Ansicht nach ist dies völlig inakzeptabel.
+  Selon nous, c'est totalement *inacceptable*.
+  Unserer Meinung nach ist das völlig *inakzeptabel*.
 
-  Ce comportement est inacceptable.
-  Dieses Verhalten ist inakzeptabel.
+  Les conditions de travail dans cette usine sont *inacceptables*.
+  Die Arbeitsbedingungen in dieser Fabrik sind *unannehmbar*.
+
+  Cette erreur est *inacceptable* pour un professionnel.
+  Dieser Fehler ist für einen Fachmann *nicht akzeptabel*.
+
+  Le directeur a rejeté notre proposition, la jugeant *inacceptable*.
+  Der Direktor hat unseren Vorschlag abgelehnt, da er ihn für *unannehmbar* hielt.
+
+  Son comportement envers les clients est devenu *inacceptable*.
+  Sein Verhalten gegenüber den Kunden ist *nicht akzeptabel* geworden.
+
+  Le retard constant des livraisons est tout simplement *inacceptable*.
+  Die ständige Verzögerung der Lieferungen ist schlichtweg *inakzeptabel*.
+
+  Les nouvelles mesures ont été jugées *inacceptables* par les syndicats.
+  Die neuen Maßnahmen wurden von den Gewerkschaften als *unannehmbar* eingestuft.
+
+  Il est *inacceptable* que personne n'ait été prévenu du changement.
+  Es ist *nicht akzeptabel*, dass niemand über die Änderung informiert wurde.
+
+  Cette situation est devenue *inacceptable* pour tout le monde.
+  Diese Situation ist für alle *unannehmbar* geworden.
+
+  Le prix demandé pour ce service est tout à fait *inacceptable*.
+  Der für diese Dienstleistung verlangte Preis ist völlig *inakzeptabel*.
+
+  Les risques pour la sécurité sont *inacceptables*.
+  Die Sicherheitsrisiken sind *nicht akzeptabel*.
+
+  Marie trouve *inacceptable* qu'on ne l'ait pas invitée à la réunion.
+  Marie findet es *unannehmbar*, dass man sie nicht zum Meeting eingeladen hat.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

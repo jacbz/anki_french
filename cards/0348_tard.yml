@@ -13,35 +13,104 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Retournez au lit, il est tard.
-  Legen Sie sich wieder ins Bett, es ist spät.
+  Retournez au lit, il est *tard*.
+  Gehen Sie zurück ins Bett, es ist *spät*.
 
-  Je suis arrivé trop tard.
-  Ich bin zu spät gekommen.
+  Je dois *tard* ou tôt affronter mes peurs.
+  *Früher oder später* muss ich mich meinen Ängsten stellen.
 
-  Il se fait tard.
-  Es ist spät geworden.
+  Il faut rendre ce document au plus *tard* vendredi matin.
+  Das Dokument muss *spätestens* Freitagmorgen abgegeben werden.
 
-  Désolé de venir si tard.
-  Tut mir leid, dass ich so spät komme.
+  "*Mieux vaut tard que jamais*", dit-elle en souriant.
+  "*Besser spät als nie*", sagte sie lächelnd.
 
-  J'ai terminé mon travail le plus tard possible, afin d'avoir le plus de temps possible pour me détendre.
-  Ich habe meine Arbeit möglichst spät beendet, um möglichst viel Zeit zum Entspannen zu haben.
+  Je suis rentré plus *tard* que d'habitude hier soir.
+  Gestern Abend bin ich *später* als gewöhnlich nach Hause gekommen.
 
-  Il n'est jamais trop tard pour bien faire, même si cela signifie demander pardon à quelqu'un que l'on a blessé.
-  Für eine Wiedergutmachung ist es nie zu spät, auch wenn es bedeutet, sich bei jemandem zu entschuldigen, den man verletzt hat.
+  Il n'est jamais trop *tard* pour apprendre une nouvelle langue.
+  Es ist nie zu *spät*, eine neue Sprache zu lernen.
 
-  Mieux vaut tard que jamais, même si cela signifie que je manquerai le début de la fête.
-  Besser spät als nie, auch wenn es bedeutet, dass ich den Beginn der Feier verpasse.
+  Marie travaille *tard* le soir pour finir son projet.
+  Marie arbeitet bis *spät* abends, um ihr Projekt fertigzustellen.
 
-  J'aime travailler tard le soir, car c'est le seul moment où je peux vraiment me concentrer.
-  Ich arbeite gerne bis spätabends, denn das ist die einzige Zeit, in der ich mich wirklich konzentrieren kann.
+  Je te verrai plus *tard* dans la journée.
+  Ich sehe dich *später* am Tag.
 
-  Tu dois arriver au plus tard à 10 heures du soir, sinon la porte sera fermée.
-  Spätestens um 22 Uhr musst du da sein, sonst ist die Tür geschlossen.
+  Pas plus *tard* qu'hier, nous parlions de toi.
+  Erst *gestern* haben wir über dich gesprochen.
 
-  Tôt ou tard, la vérité éclatera, alors il vaut mieux être honnête dès le début.
-  Früher oder später wird die Wahrheit ans Licht kommen, deshalb ist es besser, von Anfang an ehrlich zu sein.
+  Elle s'est mariée sur le *tard*.
+  Sie hat *spät* im Leben geheiratet.
+
+  "*Il n'est jamais trop tard pour bien faire*", m'a conseillé mon grand-père.
+  "Für eine Wiedergutmachung ist es nie zu *spät*", riet mir mein Großvater.
+
+  Le magasin ferme plus *tard* le weekend.
+  Am Wochenende schließt der Laden *später*.
+
+  Je me suis couché *tard* hier soir.
+  Gestern Abend bin ich *spät* ins Bett gegangen.
+
+  Le train arrivera au plus *tard* à midi.
+  Der Zug wird *spätestens* um zwölf ankommen.
+
+  Il fait ses courses *tard* dans la soirée.
+  Er macht seine Einkäufe *spät* am Abend.
+
+  La vérité éclatera tôt ou *tard*.
+  Die Wahrheit wird *früher oder später* ans Licht kommen.
+
+  Elle a commencé à peindre sur le *tard*.
+  Sie hat erst *spät* im Leben angefangen zu malen.
+
+  Je rentre *tard* ce soir, ne m'attendez pas pour dîner.
+  Ich komme heute Abend *spät* heim, wartet nicht mit dem Abendessen auf mich.
+
+  Nous nous sommes couchés *tard* après la fête.
+  Nach der Party sind wir *spät* schlafen gegangen.
+
+  Plus *tard* dans la matinée, le soleil est apparu.
+  *Später* am Vormittag kam die Sonne heraus.
+
+  Il est arrivé trop *tard* pour le début du film.
+  Er kam zu *spät* zum Filmbeginn.
+
+  La réunion commencera plus *tard* que prévu.
+  Die Besprechung wird *später* als geplant beginnen.
+
+  Le spectacle s'est terminé *tard* dans la nuit.
+  Die Show endete *spät* in der Nacht.
+
+  Je me suis réveillé *tard* ce matin.
+  Ich bin heute Morgen *spät* aufgewacht.
+
+  Quelques minutes plus *tard*, le téléphone a sonné.
+  Einige Minuten *später* klingelte das Telefon.
+
+  Il reste souvent *tard* au bureau.
+  Er bleibt oft *spät* im Büro.
+
+  Elle a découvert sa passion sur le *tard*.
+  Sie hat ihre Leidenschaft erst *spät* entdeckt.
+
+  Mon frère rentre toujours *tard*.
+  Mein Bruder kommt immer *spät* nach Hause.
+
+  Il ne faut pas rester trop *tard* à la fête.
+  Man sollte nicht zu *spät* auf der Party bleiben.
+
+  Je préfère partir le plus *tard* possible.
+  Ich möchte so *spät* wie möglich abreisen.
+
+  Le courrier est arrivé trop *tard* aujourd'hui.
+  Die Post kam heute zu *spät*.
+
+  Je te rappellerai plus *tard*.
+  Ich rufe dich *später* zurück.
+
+  La conférence s'est terminée *tard* dans la soirée.
+  Die Konferenz endete *spät* am Abend.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

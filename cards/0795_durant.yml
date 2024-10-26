@@ -13,26 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai travaillé sur ce problème durant toute ma carrière.
-  Ich habe mich während meiner gesamten Laufbahn mit diesem Problem beschäftigt.
+  J'ai travaillé sur ce problème *durant* toute ma carrière.
+  Ich habe mich *während* meiner ganzen Karriere mit diesem Problem beschäftigt.
 
-  Durant l’été, je vais à la plage.
-  Während des Sommers gehe ich zum Strand.
+  Il a neigé *durant* trois jours sans interruption.
+  Es hat drei Tage lang *während* der gesamten Zeit geschneit.
 
-  Ils ont travaillé durant deux jours sans arrêt.
-  Sie haben zwei Tage lang ohne Unterbrechung gearbeitet.
+  *Durant* l'été, nous avons voyagé à travers l'Europe.
+  *Während* des Sommers sind wir durch Europa gereist.
 
-  Elle a décidé de travailler sa vie durant pour financer ses études.
-  Sie hat beschlossen, ihr Leben lang zu arbeiten, um ihr Studium zu finanzieren.
+  Elle est restée silencieuse des heures *durant*.
+  Sie blieb stunden*lang* still.
 
-  Le vent a soufflé durant l'hiver, rendant le paysage désolé.
-  Der Wind hat den Winter über geweht und die Landschaft trostlos gemacht.
+  *Durant* son enfance, il habitait à la campagne.
+  *Während* seiner Kindheit wohnte er auf dem Land.
 
-  Il a touché une rente sa vie durant après avoir travaillé pendant 40 ans.
-  Er hat lebenslang eine Rente bezogen, nachdem er 40 Jahre lang gearbeitet hatte.
+  Je vais méditer une heure *durant*.
+  Ich werde eine Stunde *lang* meditieren.
 
-  Ils ont attendu des heures durant pour voir leur idole.
-  Sie haben stundenlang gewartet, um ihr Idol zu sehen.
+  *Durant* que les enfants dormaient, nous avons préparé leurs cadeaux.
+  *Während* die Kinder schliefen, haben wir ihre Geschenke vorbereitet.
+
+  La musique a joué la nuit *durant*.
+  Die Musik spielte die ganze Nacht *hindurch*.
+
+  *Durant* le spectacle, personne n'a fait de bruit.
+  *Während* der Vorstellung hat niemand Lärm gemacht.
+
+  Elle restera directrice sa carrière *durant*.
+  Sie wird ihre Karriere *lang* Direktorin bleiben.
+
+  *Durant* le repas, nous avons discuté de nos projets.
+  *Während* des Essens haben wir über unsere Pläne gesprochen.
+
+  Il a plu des jours *durant*.
+  Es hat tage*lang* geregnet.
+
+  *Durant* le trajet, j'ai lu un livre passionnant.
+  *Während* der Fahrt habe ich ein spannendes Buch gelesen.
+
+  Les oiseaux ont chanté l'aube *durant*.
+  Die Vögel sangen die Morgendämmerung *hindurch*.
+
+  *Durant* ses vacances, elle a appris à faire du surf.
+  *Während* ihres Urlaubs hat sie surfen gelernt.
+
+  Elle touchera cette pension sa vie *durant*.
+  Sie wird diese Rente ihr Leben *lang* beziehen.
+
+  *Durant* tout l'hiver, nous avons dû chauffer la maison.
+  *Während* des ganzen Winters mussten wir das Haus heizen.
+
+  Le chien a attendu son maître des minutes *durant*.
+  Der Hund wartete minuten*lang* auf seinen Herrn.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,20 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les circonstances sont identiques.
-  Die Umstände sind identisch.
+  Les circonstances sont *identiques*.
+  Die Umstände sind *identisch*.
 
-  Les jumeaux sont identiques.
-  Die Zwillinge sind identisch.
+  Ces jumeaux portent des vêtements *identiques*.
+  Diese Zwillinge tragen *identische* Kleidung.
 
-  Le nouveau véhicule est identique à l'ancien.
-  Das neue Fahrzeug ist vom gleichen Typ wie das alte.
+  Tous les appartements de cet immeuble sont *identiques*.
+  Alle Wohnungen in diesem Gebäude sind *identisch*.
 
-  Ce tableau est identique à celui que j'ai vu au musée.
-  Dieses Bild ist identisch mit dem, das ich im Museum gesehen habe.
+  La nouvelle voiture est *identique* à l'ancienne.
+  Das neue Auto ist mit dem alten *identisch*.
 
-  Il reste toujours identique à lui-même, malgré les années qui passent.
-  Er bleibt sich immer treu, obwohl die Jahre vergehen.
+  Par des chemins différents, nous sommes arrivés à des conclusions *identiques*.
+  Auf unterschiedlichen Wegen sind wir zu *identischen* Schlussfolgerungen gekommen.
+
+  Ces deux livres ont un contenu *identique*.
+  Diese beiden Bücher haben einen *identischen* Inhalt.
+
+  Le restaurant a été reconstruit à l'*identique* après l'incendie.
+  Das Restaurant wurde nach dem Brand *originalgetreu* wiederaufgebaut.
+
+  Il faut faire une copie *identique* du document original.
+  Man muss eine *identische* Kopie des Originaldokuments anfertigen.
+
+  Les prix sont *identiques* dans tous les magasins.
+  Die Preise sind in allen Geschäften *identisch*.
+
+  Notre point de vue sur cette question est *identique*.
+  Unsere Sichtweise zu dieser Frage ist *identisch*.
+
+  Les résultats des deux expériences sont *identiques*.
+  Die Ergebnisse der beiden Experimente sind *identisch*.
+
+  "Il reste toujours *identique* à lui-même."
+  "Er bleibt sich immer *treu*."
+
+  Les symptômes sont *identiques* chez tous les patients.
+  Die Symptome sind bei allen Patienten *identisch*.
+
+  Ces deux modèles de téléphone sont *identiques*.
+  Diese beiden Handymodelle sind *identisch*.
+
+  La réaction chimique produit des effets *identiques*.
+  Die chemische Reaktion erzeugt *identische* Effekte.
+
+  Les goûts de ces gâteaux sont *identiques*.
+  Der Geschmack dieser Kuchen ist *identisch*.
+
+  Nos horaires de travail sont *identiques*.
+  Unsere Arbeitszeiten sind *identisch*.
+
+  La configuration des deux ordinateurs est *identique*.
+  Die Konfiguration der beiden Computer ist *identisch*.
+
+  Le nouveau logo est *identique* à l'ancien.
+  Das neue Logo ist mit dem alten *identisch*.
+
+  Ces deux mots ont une origine *identique*.
+  Diese beiden Wörter haben einen *identischen* Ursprung.
+
+  Les dimensions des deux tables sont *identiques*.
+  Die Maße der beiden Tische sind *identisch*.
+
+  La qualité des deux produits est *identique*.
+  Die Qualität der beiden Produkte ist *identisch*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

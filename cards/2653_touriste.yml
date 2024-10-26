@@ -13,17 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Suis-moi et joue les touristes.
-  Folge mir und spiele den Touristen.
+  Suis-moi et joue les *touristes*.
+  Folge mir und spiel den *Touristen*.
 
-  Les touristes visitent souvent la tour Eiffel.
-  Die Touristen besuchen oft den Eiffelturm.
+  Les *touristes* affluent vers Paris pendant la haute saison.
+  Die *Touristen* strömen während der Hochsaison nach Paris.
 
-  Il est venu à Paris en touriste.
-  Er ist als Tourist nach Paris gekommen.
+  Il voyage *en touriste* dans les pays scandinaves.
+  Er reist als *Tourist* durch die skandinavischen Länder.
 
-  Elle est la première femme touriste de l'espace.
-  Sie ist die erste Frau, die als Weltraumtouristin ins All fliegt.
+  Le premier *touriste* de l'espace a payé 20 millions de dollars pour son voyage.
+  Der erste Weltraum*tourist* hat 20 Millionen Dollar für seine Reise bezahlt.
+
+  "Il ne connaît rien au sujet, il fait juste le *touriste*."
+  "Er hat keine Ahnung von der Sache, er schaut nur mal *touristenmäßig* vorbei."
+
+  Avez-vous réservé vos billets en classe *touriste* ou en classe affaires ?
+  Haben Sie Ihre Tickets in der *Economy*- oder Business-Klasse gebucht?
+
+  Cette ville attire plus de trois millions de *touristes* chaque année.
+  Diese Stadt zieht jedes Jahr mehr als drei Millionen *Touristen* an.
+
+  Une jeune *touriste* américaine a perdu son passeport hier soir.
+  Eine junge amerikanische *Touristin* hat gestern Abend ihren Pass verloren.
+
+  Les *touristes* sont priés de respecter les coutumes locales.
+  Die *Touristen* werden gebeten, die örtlichen Bräuche zu respektieren.
+
+  Le guide accompagne un groupe de *touristes* japonais.
+  Der Führer begleitet eine Gruppe japanischer *Touristen*.
+
+  "Ce restaurant est un vrai piège à *touristes*."
+  "Dieses Restaurant ist eine echte *Touristen*falle."
+
+  Les *touristes* peuvent visiter le château du mardi au dimanche.
+  *Touristen* können das Schloss von Dienstag bis Sonntag besichtigen.
+
+  De nombreux *touristes* préfèrent voyager hors saison.
+  Viele *Touristen* reisen lieber außerhalb der Saison.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,26 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Allez, encouragez notre petit gars.
-  Kommen Sie, feuern Sie unseren kleinen Kerl an.
+  Allez, *encouragez* notre petit gars.
+  Los, *feuert* unseren Kleinen an.
 
-  Je veux encourager mes enfants à poursuivre leurs rêves.
-  Ich möchte meine Kinder ermutigen, ihre Träume zu verfolgen.
+  Le professeur *encourage* ses élèves d'un sourire bienveillant.
+  Der Lehrer *ermuntert* seine Schüler mit einem wohlwollenden Lächeln.
 
-  Le professeur a encouragé son élève d'un regard bienveillant.
-  Der Lehrer ermutigte seinen Schüler mit einem wohlwollenden Blick.
+  Ses parents l'ont toujours *encouragée* à poursuivre ses rêves.
+  Ihre Eltern haben sie immer *ermutigt*, ihre Träume zu verfolgen.
 
-  Ses parents l'ont encouragé à poursuivre ses études.
-  Seine Eltern haben ihn ermutigt, sein Studium fortzusetzen.
+  Cette bourse *encourage* les jeunes talents artistiques.
+  Dieses Stipendium *fördert* junge künstlerische Talente.
 
-  L'initiative de créer un jardin partagé mérite d'être encouragée.
-  Die Initiative, einen Gemeinschaftsgarten zu gründen, ist förderungswürdig.
+  La foule *encourageait* les marathoniens avec enthousiasme.
+  Die Menge *feuerte* die Marathonläufer enthusiastisch an.
 
-  Les supporters ont encouragé le sportif en criant son nom.
-  Die Fans feuerten den Sportler an, indem sie seinen Namen riefen.
+  Son mentor l'a *encouragé* à postuler pour ce poste.
+  Sein Mentor hat ihn *ermutigt*, sich auf diese Stelle zu bewerben.
 
-  Il a encouragé sa fille à faire de la musique.
-  Er ermutigte seine Tochter dazu, Musik zu machen.
+  Ces résultats positifs nous *encouragent* à continuer nos recherches.
+  Diese positiven Ergebnisse *ermutigen* uns, unsere Forschung fortzusetzen.
+
+  Le gouvernement *encourage* les énergies renouvelables.
+  Die Regierung *unterstützt* erneuerbare Energien.
+
+  Marie *encourage* toujours ses amis dans les moments difficiles.
+  Marie *muntert* ihre Freunde in schwierigen Momenten immer auf.
+
+  Les spectateurs *encourageaient* l'équipe par leurs cris.
+  Die Zuschauer *feuerten* die Mannschaft durch ihre Rufe an.
+
+  Cette politique *encourage* l'innovation dans le secteur privé.
+  Diese Politik *begünstigt* Innovationen im privaten Sektor.
+
+  Le coach nous a *encouragés* avant le match décisif.
+  Der Trainer hat uns vor dem entscheidenden Spiel *Mut gemacht*.
+
+  Sa réussite *encourage* d'autres à suivre son exemple.
+  Sein Erfolg *ermutigt* andere dazu, seinem Beispiel zu folgen.
+
+  Les parents doivent *encourager* la créativité de leurs enfants.
+  Eltern sollten die Kreativität ihrer Kinder *fördern*.
+
+  Cette récompense va *encourager* les jeunes chercheurs.
+  Diese Auszeichnung wird junge Forscher *anspornen*.
+
+  Le médecin m'a *encouragé* à faire plus d'exercice.
+  Der Arzt hat mich *ermuntert*, mehr Sport zu treiben.
+
+  Son frère l'*encourageait* d'un geste discret.
+  Ihr Bruder *ermutigte* sie mit einer dezenten Geste.
+
+  Cette mesure *encourage* l'épargne des ménages.
+  Diese Maßnahme *fördert* das Sparen der Haushalte.
+
+  Je t'*encourage* vivement à accepter cette opportunité.
+  Ich *rate* dir dringend, diese Gelegenheit anzunehmen.
+
+  Les bonnes notes *encouragent* les étudiants à travailler davantage.
+  Gute Noten *spornen* die Studenten an, noch mehr zu arbeiten.
+
+  La critique *encourageante* l'a poussée à continuer.
+  Die *aufmunternde* Kritik hat sie dazu gebracht weiterzumachen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

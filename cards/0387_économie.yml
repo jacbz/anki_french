@@ -9,34 +9,201 @@ Femininum / Plural: ''
 IPA: \e.kɔ.nɔ.mi\
 Definition: Wirtschaft
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Les exportations sont le moteur de notre économie.\nExporte sind der\
-  \ Motor unserer Wirtschaft.\n\nL’économie française est en croissance.\nDie französische\
-  \ Wirtschaft wächst.\n\nLe capitalisme est un système économique basé sur la propriété\
-  \ privée des moyens de production. \nEine kapitalistische Wirtschaft ist ein Wirtschaftssystem,\
-  \ das auf dem Privateigentum an Produktionsmitteln basiert.\n\nIl n'y a pas de petites\
-  \ économies, car chaque euro compte.\nWer den Pfennig nicht ehrt, ist des Talers\
-  \ nicht wert, denn jede Ersparnis trägt zum Gesamtbild bei. \n\nAprès avoir perdu\
-  \ son emploi, il a dû manger ses économies pour subvenir à ses besoins.\nNachdem\
-  \ er seinen Job verloren hatte, musste er seine Ersparnisse aufbrauchen, um über\
-  \ die Runden zu kommen.\n\nRouler à l'économie, c'est conduire en utilisant le moins\
-  \ de carburant possible.\nDen Schongang einlegen bedeutet, mit dem Auto sparsam\
-  \ umzugehen und möglichst wenig Benzin zu verbrauchen.\n\nL'économie politique est\
-  \ l'étude des relations entre l'économie et la politique.\nDie Volkswirtschaftslehre\
-  \ ist die Lehre von den Wechselbeziehungen zwischen Wirtschaft und Politik.\n\n\
-  L'économie réalisée sur les coûts est une économie qui permet de réduire les dépenses.\n\
-  Kostenersparnis ist eine Wirtschaft, die es ermöglicht, die Ausgaben zu senken.\n\
-  \nL'économie collectiviste est un système économique dans lequel les moyens de production\
-  \ sont détenus collectivement.\nKollektivwirtschaft ist ein Wirtschaftssystem, in\
-  \ dem die Produktionsmittel gemeinschaftlich gehören.\n\nL'économie collectivisée\
-  \ et planifiée est un système économique dans lequel l'État contrôle tous les aspects\
-  \ de l'économie.\nGemeinwirtschaft ist ein Wirtschaftssystem, in dem der Staat alle\
-  \ Aspekte der Wirtschaft kontrolliert.\n\nL'économie concertée est un système économique\
-  \ dans lequel le gouvernement et les entreprises collaborent pour atteindre des\
-  \ objectifs économiques.\nAbgestimmte Marktwirtschaft ist ein Wirtschaftssystem,\
-  \ in dem Regierung und Unternehmen zusammenarbeiten, um wirtschaftliche Ziele zu\
-  \ erreichen.\n\nL'économie dirigée est un système économique dans lequel l'État\
-  \ contrôle tous les aspects de l'économie.\nPlanwirtschaft ist ein Wirtschaftssystem,\
-  \ in dem der Staat alle Aspekte der Wirtschaft kontrolliert."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Les exportations sont le moteur de notre *économie*.
+  Die Exporte sind der Motor unserer *Wirtschaft*.
+
+  L'*économie* française montre des signes de reprise.
+  Die französische *Wirtschaft* zeigt Anzeichen einer Erholung.
+
+  Cette nouvelle usine va stimuler l'*économie* locale.
+  Diese neue Fabrik wird die lokale *Wirtschaft* ankurbeln.
+
+  L'Allemagne a adopté l'*économie* sociale de marché après la guerre.
+  Deutschland hat nach dem Krieg die soziale *Marktwirtschaft* eingeführt.
+
+  Le gouvernement veut relancer l'*économie* par des investissements publics.
+  Die Regierung will die *Wirtschaft* durch öffentliche Investitionen ankurbeln.
+
+  "J'ai fait des *économies* pour partir en vacances."
+  "Ich habe *gespart*, um in den Urlaub zu fahren."
+
+  Il étudie l'*économie* à l'université.
+  Er studiert *Wirtschaftswissenschaften* an der Universität.
+
+  Cette innovation permet une *économie* d'énergie considérable.
+  Diese Innovation ermöglicht erhebliche Energie*einsparungen*.
+
+  L'*économie* circulaire favorise le recyclage des matériaux.
+  Die Kreislauf*wirtschaft* fördert das Recycling von Materialien.
+
+  Ses *économies* ont fondu comme neige au soleil.
+  Seine *Ersparnisse* sind wie Schnee in der Sonne geschmolzen.
+
+  L'*économie* mondiale connaît des bouleversements importants.
+  Die *Weltwirtschaft* erfährt bedeutende Umwälzungen.
+
+  Cette mesure permettra une *économie* de temps considérable.
+  Diese Maßnahme wird eine erhebliche Zeit*ersparnis* ermöglichen.
+
+  "Il fait des *économies* de bouts de chandelle."
+  "Er macht *Einsparungen* bei Kleinigkeiten."
+
+  L'*économie* collaborative transforme nos habitudes de consommation.
+  Die *Sharing Economy* verändert unsere Konsumgewohnheiten.
+
+  Par *économie*, nous avons pris le bus au lieu du taxi.
+  Aus *Sparsamkeit* haben wir den Bus statt des Taxis genommen.
+
+  La transition vers une *économie* verte nécessite des investissements massifs.
+  Der Übergang zu einer grünen *Wirtschaft* erfordert massive Investitionen.
+
+  L'*économie* souterraine représente un défi majeur pour l'État.
+  Die Schatten*wirtschaft* stellt eine große Herausforderung für den Staat dar.
+
+  Les petites *économies* de Marie lui ont permis d'acheter une voiture.
+  Maries kleine *Ersparnisse* haben ihr ermöglicht, ein Auto zu kaufen.
+
+  L'*économie* domestique était autrefois enseignée aux jeunes filles.
+  *Hauswirtschaft* wurde früher den jungen Mädchen beigebracht.
+
+  Il a fait l'*économie* d'une longue explication.
+  Er hat sich eine lange Erklärung *gespart*.
+
+  La nouvelle *économie* repose sur les technologies numériques.
+  Die neue *Wirtschaft* basiert auf digitalen Technologien.
+
+  L'*économie* planifiée a montré ses limites.
+  Die Plan*wirtschaft* hat ihre Grenzen gezeigt.
+
+  Cette réforme vise à dynamiser l'*économie* privée.
+  Diese Reform zielt darauf ab, die Privat*wirtschaft* zu beleben.
+
+  La crise a secoué l'*économie* mondiale.
+  Die Krise hat die *Weltwirtschaft* erschüttert.
+
+  L'*économie* politique est une science complexe.
+  Die *Volkswirtschaftslehre* ist eine komplexe Wissenschaft.
+
+  Il a placé ses *économies* dans l'immobilier.
+  Er hat seine *Ersparnisse* in Immobilien angelegt.
+
+  L'*économie* mixte combine secteur public et privé.
+  Die gemischte *Wirtschaft* verbindet öffentlichen und privaten Sektor.
+
+  Cette mesure permettra une *économie* substantielle.
+  Diese Maßnahme wird eine erhebliche *Einsparung* ermöglichen.
+
+  L'*économie* libérale favorise la libre concurrence.
+  Die liberale *Wirtschaft* fördert den freien Wettbewerb.
+
+  Ils ont réalisé d'importantes *économies* d'échelle.
+  Sie haben bedeutende *Skaleneffekte* erzielt.
+
+  L'*économie* solidaire crée des emplois locaux.
+  Die Solidar*wirtschaft* schafft lokale Arbeitsplätze.
+
+  L'*économie* rurale dépend beaucoup des conditions climatiques.
+  Die Land*wirtschaft* ist stark von den Wetterbedingungen abhängig.
+
+  Cette entreprise contribue à l'*économie* locale.
+  Dieses Unternehmen trägt zur lokalen *Wirtschaft* bei.
+
+  L'*économie* nationale montre des signes de faiblesse.
+  Die *Volkswirtschaft* zeigt Schwächezeichen.
+
+  Il gère ses *économies* avec prudence.
+  Er verwaltet seine *Ersparnisse* vorsichtig.
+
+  L'*économie* internationale devient de plus en plus interconnectée.
+  Die internationale *Wirtschaft* wird zunehmend vernetzter.
+
+  La pandémie a bouleversé l'*économie* mondiale.
+  Die Pandemie hat die *Weltwirtschaft* erschüttert.
+
+  Cette innovation représente une *économie* considérable.
+  Diese Innovation stellt eine erhebliche *Einsparung* dar.
+
+  L'*économie* de marché repose sur l'offre et la demande.
+  Die *Marktwirtschaft* basiert auf Angebot und Nachfrage.
+
+  Les *économies* émergentes jouent un rôle croissant.
+  Die aufstrebenden *Volkswirtschaften* spielen eine zunehmende Rolle.
+
+  L'*économie* numérique transforme nos modes de travail.
+  Die Digital*wirtschaft* verändert unsere Arbeitsweisen.
+
+  Cette solution permet une *économie* d'eau importante.
+  Diese Lösung ermöglicht eine erhebliche Wasser*einsparung*.
+
+  L'*économie* sociale emploie des millions de personnes.
+  Die Sozial*wirtschaft* beschäftigt Millionen Menschen.
+
+  Les *économies* d'énergie deviennent une priorité.
+  *Energieeinsparungen* werden zu einer Priorität.
+
+  L'*économie* collaborative favorise le partage des ressources.
+  Die *Sharing Economy* fördert das Teilen von Ressourcen.
+
+  Cette décision aura un impact sur l'*économie* régionale.
+  Diese Entscheidung wird Auswirkungen auf die regionale *Wirtschaft* haben.
+
+  L'*économie* circulaire réduit le gaspillage.
+  Die Kreislauf*wirtschaft* reduziert die Verschwendung.
+
+  Les petites *économies* s'accumulent avec le temps.
+  Kleine *Ersparnisse* summieren sich mit der Zeit.
+
+  L'*économie* parallèle échappe au contrôle fiscal.
+  Die Parallel*wirtschaft* entzieht sich der Steuerkontrolle.
+
+  Cette mesure stimulera l'*économie* locale.
+  Diese Maßnahme wird die lokale *Wirtschaft* ankurbeln.
+
+  L'*économie* mondiale se digitalise rapidement.
+  Die *Weltwirtschaft* digitalisiert sich schnell.
+
+  Les *économies* d'échelle réduisent les coûts de production.
+  *Skaleneffekte* reduzieren die Produktionskosten.
+
+  Cette innovation bouleverse l'*économie* traditionnelle.
+  Diese Innovation revolutioniert die traditionelle *Wirtschaft*.
+
+  L'*économie* verte crée de nouveaux emplois.
+  Die grüne *Wirtschaft* schafft neue Arbeitsplätze.
+
+  Il a investi ses *économies* dans une start-up.
+  Er hat seine *Ersparnisse* in ein Start-up investiert.
+
+  L'*économie* sociale et solidaire se développe rapidement.
+  Die soziale und solidarische *Wirtschaft* entwickelt sich schnell.
+
+  Cette réforme modernisera notre *économie*.
+  Diese Reform wird unsere *Wirtschaft* modernisieren.
+
+  Les nouvelles technologies transforment l'*économie* mondiale.
+  Neue Technologien verändern die *Weltwirtschaft*.
+
+  L'*économie* de partage révolutionne les services.
+  Die *Sharing Economy* revolutioniert die Dienstleistungen.
+
+  Elle place ses *économies* à la banque.
+  Sie legt ihre *Ersparnisse* bei der Bank an.
+
+  L'*économie* du pays dépend des exportations.
+  Die *Wirtschaft* des Landes hängt von Exporten ab.
+
+  Cette crise affecte toute l'*économie* mondiale.
+  Diese Krise betrifft die gesamte *Weltwirtschaft*.
+
+  Les *économies* d'énergie protègent l'environnement.
+  *Energieeinsparungen* schützen die Umwelt.
+
+  L'*économie* numérique crée de nouveaux métiers.
+  Die Digital*wirtschaft* schafft neue Berufe.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,44 +13,143 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’écrivis les premières pages d’un roman.
-  Ich schrieb die ersten Seiten eines Romans.
+  J'écrivis les premières *pages* d'un roman.
+  Ich schrieb die ersten *Seiten* eines Romans.
 
-  Tournez la page s’il vous plaît.
-  Drehen Sie bitte die Seite um.
+  La *page* d'accueil de ce site web est très bien conçue.
+  Die Start*seite* dieser Website ist sehr gut gestaltet.
 
-  Tourne la page.
-  Blättere die Seite um.
+  Il faut maintenant *tourner la page* et aller de l'avant.
+  Wir müssen jetzt einen *Schlussstrich ziehen* und weitermachen.
 
-  Laissez-moi vous mettre à la page.
-  Lassen Sie sich von mir auf den neuesten Stand bringen.
+  Au Moyen Âge, le jeune *page* servait son seigneur avec dévouement.
+  Im Mittelalter diente der junge *Page* seinem Herrn hingebungsvoll.
 
-  J'ai lu l'article sur la page de sport du journal.
-  Ich habe den Artikel auf der Sportseite der Zeitung gelesen.
+  Les *pages* sportives du journal sont toujours les plus lues.
+  Die Sport*seiten* der Zeitung werden immer am meisten gelesen.
 
-  Il a ouvert la fausse page du livre.
-  Er hat die linke Seite des Buches aufgeschlagen.
+  Cette entreprise a publié une annonce en pleine *page*.
+  Dieses Unternehmen hat eine ganz*seitige* Anzeige veröffentlicht.
 
-  La page blanche de son journal intime était vide de toute pensée.
-  Das weiße Blatt in seinem Tagebuch war leer von Gedanken.
+  Je lis ce livre *page* par *page* pour ne rien manquer.
+  Ich lese dieses Buch *Seite* für *Seite*, um nichts zu verpassen.
 
-  La première page du journal annonçait un scandale politique.
-  Auf der Titelseite der Zeitung wurde ein politischer Skandal angekündigt.
+  Ma sœur a sa propre *page* personnelle sur Internet.
+  Meine Schwester hat ihre eigene Home*page* im Internet.
 
-  J'ai trouvé le numéro de téléphone de l'entreprise dans les pages jaunes.
-  Ich habe die Telefonnummer der Firma in den Gelben Seiten gefunden.
+  La mise en *page* de ce magazine est vraiment élégante.
+  Das *Seiten*layout dieses Magazins ist wirklich elegant.
 
-  Le graphiste a mis en page la brochure de l'entreprise.
-  Der Grafiker hat den Umbruch für die Broschüre der Firma gemacht.
+  "Tu n'es pas vraiment *à la page*" lui a dit son ami.
+  "Du bist nicht wirklich *auf dem Laufenden*", sagte sein Freund zu ihm.
 
-  Après la séparation, il a décidé de tourner la page.
-  Nach der Trennung beschloss er, einen Schlussstrich zu ziehen.
+  Cette *page* web contient trop de publicités.
+  Diese Web*seite* enthält zu viele Werbeanzeigen.
 
-  La victoire de l'équipe était une page glorieuse de l'histoire du sport.
-  Der Sieg des Teams war ein ruhmreiches Blatt der Geschichte des Sports.
+  Le professeur nous demandait d'écrire une *page* d'écriture chaque jour.
+  Der Lehrer verlangte von uns, jeden Tag eine *Seite* Schönschrift zu schreiben.
 
-  Pour accéder à la page du site web, vous devez cliquer sur le lien.
-  Um auf die Seite der Website zuzugreifen, müssen Sie auf den Link klicken.
+  La Résistance fut une *page* glorieuse de l'histoire française.
+  Der Widerstand war ein ruhmreiches *Kapitel* der französischen Geschichte.
+
+  Le pied de *page* contient la date et le numéro de version.
+  Die *Seiten*fußzeile enthält das Datum und die Versionsnummer.
+
+  Les enfants adorent la *page* pour les jeunes lecteurs.
+  Die Kinder lieben die *Seite* für junge Leser.
+
+  Cette *page* de Chopin est particulièrement difficile à jouer.
+  Diese *Passage* von Chopin ist besonders schwer zu spielen.
+
+  On trouve l'article en *page* dix du journal d'aujourd'hui.
+  Den Artikel findet man auf *Seite* zehn der heutigen Zeitung.
+
+  Le document contient plusieurs *pages* d'annexes.
+  Das Dokument enthält mehrere *Seiten* Anhang.
+
+  La *page* visitée n'existe plus sur ce serveur.
+  Die aufgerufene *Seite* existiert nicht mehr auf diesem Server.
+
+  Cette *page* modèle servira de base pour le nouveau site.
+  Diese Modell*seite* wird als Grundlage für die neue Website dienen.
+
+  Le haut de *page* comprend le logo de l'entreprise.
+  Der *Seiten*kopf enthält das Firmenlogo.
+
+  J'ai corné la *page* pour ne pas perdre l'endroit.
+  Ich habe die *Seite* eingeknickt, um die Stelle nicht zu verlieren.
+
+  Ce roman de mille *pages* m'a tenu en haleine.
+  Dieser tausend *Seiten* starke Roman hat mich in Atem gehalten.
+
+  La *page* Facebook de notre entreprise compte déjà mille abonnés.
+  Die Facebook-*Seite* unserer Firma hat bereits tausend Abonnenten.
+
+  Il faut actualiser la *page* pour voir les nouveaux commentaires.
+  Man muss die *Seite* aktualisieren, um die neuen Kommentare zu sehen.
+
+  Les *pages* les plus belles de Victor Hugo sont dans cette anthologie.
+  Die schönsten *Passagen* von Victor Hugo sind in dieser Anthologie.
+
+  Le jeune *page* accompagnait la reine lors des cérémonies.
+  Der junge *Page* begleitete die Königin bei den Zeremonien.
+
+  Cette période représente une *page* sombre de notre histoire.
+  Diese Zeit stellt ein dunkles *Kapitel* unserer Geschichte dar.
+
+  L'imprimante s'est bloquée en plein milieu de la *page*.
+  Der Drucker ist mitten auf der *Seite* stecken geblieben.
+
+  La *page* des petites annonces est très consultée.
+  Die Klein*anzeigen*seite wird sehr häufig aufgerufen.
+
+  Le système charge une nouvelle *page* toutes les 30 secondes.
+  Das System lädt alle 30 Sekunden eine neue *Seite*.
+
+  Cette *page* personnelle n'a pas été mise à jour depuis des années.
+  Diese Home*page* wurde seit Jahren nicht mehr aktualisiert.
+
+  Notre fils écrit déjà proprement sur toute la *page*.
+  Unser Sohn schreibt schon ordentlich über die ganze *Seite*.
+
+  La *page* culturelle propose une critique du dernier film.
+  Die Kultur*seite* bietet eine Kritik des neuesten Films.
+
+  Les *pages* jaunies témoignent de l'âge du livre.
+  Die vergilbten *Seiten* zeugen vom Alter des Buches.
+
+  Le *page* portait l'épée de son maître lors des tournois.
+  Der *Page* trug das Schwert seines Herrn bei den Turnieren.
+
+  Cette *page* restera gravée dans nos mémoires.
+  Dieses *Kapitel* wird uns in Erinnerung bleiben.
+
+  La *page* météo annonce du beau temps pour demain.
+  Die Wetter*seite* kündigt schönes Wetter für morgen an.
+
+  Chaque *page* de ce manuscrit est numérotée à la main.
+  Jede *Seite* dieses Manuskripts ist handnummeriert.
+
+  L'écrivain a produit une *page* magistrale sur ce sujet.
+  Der Schriftsteller hat eine meisterhafte *Passage* zu diesem Thema verfasst.
+
+  La *page* économique analyse la situation actuelle.
+  Die Wirtschafts*seite* analysiert die aktuelle Situation.
+
+  Cette *page* web n'est accessible qu'aux membres.
+  Diese Web*seite* ist nur für Mitglieder zugänglich.
+
+  Il a marqué cette *page* d'un signet rouge.
+  Er hat diese *Seite* mit einem roten Lesezeichen markiert.
+
+  La *page* des lecteurs contient des lettres intéressantes.
+  Die Leser*seite* enthält interessante Briefe.
+
+  La dernière *page* du livre était déchirée.
+  Die letzte *Seite* des Buches war eingerissen.
+
+  Les *pages* de publicité sont regroupées à la fin.
+  Die Werbe*seiten* sind am Ende zusammengefasst.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

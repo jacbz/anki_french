@@ -13,11 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce livre contient donc un message.
-  Das Buch enthält also eine Botschaft.
+  Ce livre *contient* donc un message.
+  Dieses Buch *enthält* also eine Botschaft.
 
-  Cette boîte contient des chocolats.
-  Diese Schachtel enthält Schokolade.
+  La bouteille *contient* un litre d'eau minérale.
+  Die Flasche *fasst* einen Liter Mineralwasser.
+
+  Cette salle de concert *contient* jusqu'à 500 personnes.
+  Dieser Konzertsaal kann bis zu 500 Menschen *aufnehmen*.
+
+  Marie ne pouvait plus *contenir* ses larmes en apprenant la nouvelle.
+  Marie konnte ihre Tränen nicht mehr *zurückhalten*, als sie die Nachricht erfuhr.
+
+  Le paquet que j'ai reçu *contenait* une belle surprise.
+  Das Paket, das ich bekommen habe, *enthielt* eine schöne Überraschung.
+
+  Comment *contenir* une foule aussi nombreuse ?
+  Wie kann man so eine große Menschenmenge in *Schach halten*?
+
+  Je n'arrive pas à me *contenir* quand je suis en colère.
+  Ich schaffe es nicht, mich zu *beherrschen*, wenn ich wütend bin.
+
+  Cette boîte *contient* tous mes souvenirs d'enfance.
+  Diese Box *enthält* alle meine Kindheitserinnerungen.
+
+  Le menu *contient* plusieurs plats végétariens.
+  Die Speisekarte *enthält* mehrere vegetarische Gerichte.
+
+  Thomas essayait de *contenir* son enthousiasme pendant l'entretien.
+  Thomas versuchte seinen Enthusiasmus während des Gesprächs zu *unterdrücken*.
+
+  L'armoire *contient* tous mes vêtements d'hiver.
+  Der Schrank *fasst* meine gesamte Winterkleidung.
+
+  Le professeur devait *contenir* l'excitation des élèves avant la sortie scolaire.
+  Der Lehrer musste die Aufregung der Schüler vor dem Schulausflug *zügeln*.
+
+  Cette valise ne pourra pas *contenir* tous tes livres.
+  Dieser Koffer wird nicht all deine Bücher *fassen* können.
+
+  La police a réussi à *contenir* les manifestants derrière les barrières.
+  Der Polizei gelang es, die Demonstranten hinter den Absperrungen *zurückzuhalten*.
+
+  Le café que je bois ne *contient* pas de caféine.
+  Der Kaffee, den ich trinke, *enthält* kein Koffein.
+
+  Paul ne s'est pas *contenu* et a éclaté de rire en pleine réunion.
+  Paul hat sich nicht *beherrscht* und ist mitten in der Besprechung in Lachen ausgebrochen.
+
+  Ce document *contient* des informations confidentielles.
+  Dieses Dokument *enthält* vertrauliche Informationen.
+
+  La piscine municipale peut *contenir* jusqu'à 200 nageurs.
+  Das städtische Schwimmbad kann bis zu 200 Schwimmer *aufnehmen*.
+
+  Le jardin *contient* différentes espèces de roses.
+  Der Garten *beherbergt* verschiedene Rosenarten.
+
+  Sarah essayait de *contenir* sa joie en ouvrant les cadeaux.
+  Sarah versuchte ihre Freude beim Öffnen der Geschenke zu *unterdrücken*.
+
+  Cette armoire peut *contenir* beaucoup plus que tu ne le penses.
+  Dieser Schrank kann viel mehr *fassen*, als du denkst.
+
+  Le nouveau dictionnaire *contient* plus de 60000 mots.
+  Das neue Wörterbuch *enthält* mehr als 60000 Wörter.
+
+  Les parents doivent parfois *contenir* l'énergie de leurs enfants.
+  Eltern müssen manchmal die Energie ihrer Kinder *zügeln*.
+
+  Cette soupe *contient* beaucoup de légumes.
+  Diese Suppe *enthält* viele Gemüsesorten.
+
+  Le chapitre *contient* plusieurs exemples intéressants.
+  Das Kapitel *enthält* mehrere interessante Beispiele.
+
+  Le vase antique *contenait* des pièces d'or.
+  Die antike Vase *enthielt* Goldmünzen.
+
+  Julie a dû se *contenir* pour ne pas crier de joie.
+  Julie musste sich *beherrschen*, um nicht vor Freude zu schreien.
+
+  Le musée peut *contenir* jusqu'à 3000 visiteurs par jour.
+  Das Museum kann täglich bis zu 3000 Besucher *aufnehmen*.
+
+  Ce médicament *contient* du paracétamol.
+  Dieses Medikament *enthält* Paracetamol.
+
+  Marc n'a pas pu *contenir* son impatience et a ouvert le cadeau avant Noël.
+  Marc konnte seine Ungeduld nicht *zügeln* und hat das Geschenk vor Weihnachten geöffnet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

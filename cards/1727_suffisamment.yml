@@ -13,29 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je ne l’ai pas dit suffisamment.
-  Ich habe dies nicht ausreichend zum Ausdruck gebracht.
+  Je ne l'ai pas dit *suffisamment*.
+  Ich habe es nicht *genug* gesagt.
 
-  Nous avons suffisamment de temps pour finir.
-  Wir haben genug Zeit, um fertig zu werden.&nbsp;
+  Cette boîte est-elle *suffisamment* grande pour tout ranger ?
+  Ist diese Kiste *groß genug*, um alles zu verstauen?
 
-  Il y a suffisamment de pain pour vous tous.
-  Es gibt genug Brot für euch alle.
+  Votre lettre n'était pas *suffisamment* affranchie pour l'envoi à l'étranger.
+  Ihr Brief war für den Auslandsversand nicht *ausreichend* frankiert.
 
-  Le jardin est suffisamment grand pour accueillir un grand nombre de plantes.
-  Der Garten ist groß genug, um eine große Anzahl von Pflanzen zu beherbergen.
+  As-tu *suffisamment* de temps pour finir ce projet ?
+  Hast du *genügend* Zeit, um dieses Projekt zu beenden?
 
-  L'enveloppe n'est pas suffisamment affranchie, il faut ajouter un timbre.
-  Der Umschlag ist nicht ausreichend frankiert, es muss eine Briefmarke hinzugefügt werden.
+  Il n'y avait pas *suffisamment* à boire pour tout le monde à la fête.
+  Es gab auf der Party nicht *genug* zu trinken für alle.
 
-  Nous avons suffisamment de temps pour terminer le travail avant la fin de la journée.
-  Wir haben genügend Zeit, um die Arbeit vor Ende des Tages zu beenden.
+  Nous avons été *suffisamment* patients avec les enfants aujourd'hui.
+  Wir waren heute *genug* geduldig mit den Kindern.
 
-  Il y a suffisamment de livres dans la bibliothèque pour satisfaire tous les lecteurs.
-  Es gibt genug Bücher in der Bibliothek, um alle Leser zufrieden zu stellen.
+  Le professeur a-t-il *suffisamment* expliqué la leçon ?
+  Hat der Lehrer die Lektion *ausreichend* erklärt?
 
-  Il n'y a pas suffisamment à boire pour tout le monde, il faut aller acheter des boissons.
-  Es gibt nicht genug zu trinken für alle, man muss Getränke kaufen gehen.
+  Elle gagne *suffisamment* d'argent pour partir en vacances deux fois par an.
+  Sie verdient *genug* Geld, um zweimal im Jahr in den Urlaub zu fahren.
+
+  Les fenêtres ne sont pas *suffisamment* isolées contre le bruit.
+  Die Fenster sind nicht *ausreichend* gegen Lärm isoliert.
+
+  Avez-vous *suffisamment* de place dans votre valise ?
+  Haben Sie *genug* Platz in Ihrem Koffer?
+
+  Marc n'a pas *suffisamment* réfléchi avant de prendre sa décision.
+  Marc hat vor seiner Entscheidung nicht *genügend* nachgedacht.
+
+  La salle est-elle *suffisamment* chauffée pour les bébés ?
+  Ist der Raum für die Babys *ausreichend* geheizt?
+
+  Les élèves ont *suffisamment* de livres pour commencer le cours.
+  Die Schüler haben *genügend* Bücher, um mit dem Unterricht zu beginnen.
+
+  Je suis *suffisamment* préparée pour l'examen de demain.
+  Ich bin für die morgige Prüfung *ausreichend* vorbereitet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

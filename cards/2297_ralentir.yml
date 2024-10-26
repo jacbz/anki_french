@@ -13,14 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je vais pas ralentir. Je vais même accélérer.
-  Ich werde nicht langsamer, ich werde sogar schneller.
+  Je vais pas *ralentir*. Je vais même accélérer.
+  Ich werde nicht *langsamer werden*. Ich werde sogar schneller werden.
 
-  Il faut ralentir dans les virages.
-  In Kurven muss man verlangsamen.
+  La voiture a dû *ralentir* dans le virage dangereux.
+  Das Auto musste in der gefährlichen Kurve *abbremsen*.
 
-  La demande ralentie a inquiété les entreprises.
-  Die schleppende Nachfrage hat die Unternehmen beunruhigt.
+  Son rythme cardiaque s'est *ralenti* pendant le sommeil.
+  Sein Herzschlag hat sich im Schlaf *verlangsamt*.
+
+  Le conducteur du bus *ralentit* à l'approche du passage piéton.
+  Der Busfahrer *bremst* vor dem Zebrastreifen *ab*.
+
+  La croissance économique s'est *ralentie* au dernier trimestre.
+  Das Wirtschaftswachstum ist im letzten Quartal *zurückgegangen*.
+
+  L'âge n'a pas *ralenti* son enthousiasme pour la danse.
+  Das Alter hat seine Begeisterung fürs Tanzen nicht *gedämpft*.
+
+  Les travaux sur l'autoroute font *ralentir* la circulation.
+  Die Bauarbeiten auf der Autobahn lassen den Verkehr *langsamer werden*.
+
+  Il faut *ralentir* le rythme de production pour garantir la qualité.
+  Wir müssen das Produktionstempo *drosseln*, um die Qualität zu garantieren.
+
+  La pluie a *ralenti* la progression des coureurs.
+  Der Regen hat den Vormarsch der Läufer *verlangsamt*.
+
+  Le métabolisme se *ralentit* naturellement avec l'âge.
+  Der Stoffwechsel *verlangsamt* sich natürlicherweise mit dem Alter.
+
+  La demande pour ce produit s'est considérablement *ralentie*.
+  Die Nachfrage nach diesem Produkt ist erheblich *zurückgegangen*.
+
+  Les médicaments ont *ralenti* la progression de la maladie.
+  Die Medikamente haben das Fortschreiten der Krankheit *verlangsamt*.
+
+  Le vent violent a *ralenti* notre marche.
+  Der starke Wind hat unseren Gang *gebremst*.
+
+  La production de l'usine *ralentit* pendant les vacances d'été.
+  Die Produktion der Fabrik *geht* während der Sommerferien *zurück*.
+
+  Les manifestations ont *ralenti* le trafic au centre-ville.
+  Die Demonstrationen haben den Verkehr in der Innenstadt *verlangsamt*.
+
+  Sa motivation s'est *ralentie* après cet échec.
+  Seine Motivation hat nach diesem Misserfolg *nachgelassen*.
+
+  Le train *ralentit* à l'entrée de la gare.
+  Der Zug *bremst* bei der Einfahrt in den Bahnhof *ab*.
+
+  La crise a *ralenti* les investissements étrangers.
+  Die Krise hat die ausländischen Investitionen *gedämpft*.
+
+  Les forces du cycliste commencent à se *ralentir*.
+  Die Kräfte des Radfahrers beginnen *nachzulassen*.
+
+  Il faut *ralentir* le débit de l'eau pour économiser.
+  Man muss den Wasserfluss *verlangsamen*, um zu sparen.
+
+  Son élocution s'est *ralentie* après l'accident.
+  Seine Sprechweise hat sich nach dem Unfall *verlangsamt*.
+
+  La neige a *ralenti* tous les déplacements en ville.
+  Der Schnee hat den gesamten Stadtverkehr *verlangsamt*.
+
+  Les efforts de l'équipe se sont *ralentis* vers la fin du match.
+  Die Anstrengungen der Mannschaft haben gegen Ende des Spiels *nachgelassen*.
+
+  Le nouveau radar fait *ralentir* les automobilistes.
+  Der neue Blitzer lässt die Autofahrer *abbremsen*.
+
+  La fatigue a *ralenti* ses réflexes.
+  Die Müdigkeit hat seine Reflexe *verlangsamt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

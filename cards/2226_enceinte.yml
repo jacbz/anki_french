@@ -13,41 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis enceinte de six mois.
-  Ich bin im sechsten Monat schwanger.
+  Je suis *enceinte* de six mois.
+  Ich bin im sechsten Monat *schwanger*.
 
-  Elle est enceinte de trois mois.
-  Sie ist im dritten Monat schwanger.
+  Elle est *enceinte* de son deuxième enfant.
+  Sie ist mit ihrem zweiten Kind *schwanger*.
 
-  Elle est enceinte.
-  Sie ist schwanger.
+  Ma sœur est *enceinte* de Marc.
+  Meine Schwester ist von Marc *schwanger*.
 
-  Ma femme est enceinte.
-  Meine Frau ist schwanger.
+  Les femmes *enceintes* ont priorité dans la file d'attente.
+  *Schwangere* Frauen haben in der Warteschlange Vorrang.
 
-  Marie est enceinte de Jean, et ils sont très heureux.
-  Marie ist von Jean schwanger, und sie sind sehr glücklich.
+  Le médecin lui a annoncé qu'elle était *enceinte*.
+  Der Arzt teilte ihr mit, dass sie *schwanger* ist.
 
-  Le port est situé sur un vaste enceinte portuaire.
-  Der Hafen befindet sich auf einem ausgedehnten Hafengelände.
+  Cette haute *enceinte* de pierre protégeait autrefois la ville.
+  Diese hohe *Ringmauer* schützte früher die Stadt.
 
-  Le concert était d'une qualité exceptionnelle, grâce aux enceintes.
-  Das Konzert war von außergewöhnlicher Qualität, dank der Lautsprecheranlage.
+  L'*enceinte* fortifiée date du Moyen Âge.
+  Die befestigte *Ringmauer* stammt aus dem Mittelalter.
 
-  C'est sa troisième grossesse, elle est enceinte de son troisième enfant.
-  Es ist ihre dritte Schwangerschaft, sie ist zum dritten Mal schwanger.
+  Les visiteurs ne peuvent pas quitter l'*enceinte* du parc après 22 heures.
+  Die Besucher dürfen das Park*gelände* nach 22 Uhr nicht verlassen.
 
-  Elle est enceinte de trois mois, et son ventre commence à s'arrondir.
-  Sie ist im dritten Monat schwanger, und ihr Bauch fängt an, rund zu werden.
+  Dans l'*enceinte* du tribunal, le silence est de rigueur.
+  Im *Innenraum* des Gerichts ist Stille geboten.
 
-  Il possède un système audio haut de gamme avec des enceintes à deux voies.
-  Er besitzt ein High-End-Audiosystem mit Zweiwegeboxen.
+  L'accès à l'*enceinte* portuaire est strictement réglementé.
+  Der Zugang zum *Hafen*gelände ist streng geregelt.
 
-  Les enceintes acoustiques de son home cinéma sont exceptionnelles.
-  Die Lautsprecher seines Heimkinos sind außergewöhnlich.
+  Les nouvelles *enceintes* sont très puissantes.
+  Die neuen *Lautsprecherboxen* sind sehr leistungsstark.
 
-  Il a acheté des enceintes amplifiées pour sa salle de musique.
-  Er hat Aktivboxen für seinen Musikraum gekauft.
+  J'ai installé des *enceintes* acoustiques dans mon salon.
+  Ich habe *Lautsprecher* in meinem Wohnzimmer installiert.
+
+  Cette *enceinte* à trois voies offre un son exceptionnel.
+  Diese *Dreiwegebox* bietet einen außergewöhnlichen Klang.
+
+  Il faut baisser le volume des *enceintes*, les voisins se plaignent.
+  Man muss die *Lautsprecheranlage* leiser stellen, die Nachbarn beschweren sich.
+
+  Les *enceintes* amplifiées ne nécessitent pas d'amplificateur externe.
+  Die *Aktivboxen* benötigen keinen externen Verstärker.
+
+  Une *enceinte* de fossés protégeait le château.
+  Ein *Ring* aus Gräben schützte die Burg.
+
+  Des gardes surveillent l'*enceinte* officielle jour et nuit.
+  Wachen überwachen den offiziellen *Bereich* Tag und Nacht.
+
+  L'animal est toujours dans l'*enceinte* de chasse.
+  Das Tier ist noch im *Jagdgebiet*.
+
+  L'*enceinte* du réacteur garantit la sécurité.
+  Die *Schutzhülle* des Reaktors gewährleistet die Sicherheit.
+
+  Les manifestants ont pénétré dans l'*enceinte* du Parlement.
+  Die Demonstranten sind in den *Innenbereich* des Parlaments eingedrungen.
+
+  Les pêcheurs ont formé une *enceinte* autour du banc de thons.
+  Die Fischer haben einen *Ring* um den Thunfischschwarm gebildet.
+
+  Un mur d'*enceinte* entoure la propriété.
+  Eine *Ring*mauer umgibt das Anwesen.
+
+  Elle était *enceinte* quand elle a commencé son nouveau travail.
+  Sie war *schwanger*, als sie ihre neue Arbeit begann.
+
+  Les *enceintes* bluetooth sont très pratiques pour les voyages.
+  Die Bluetooth-*Lautsprecher* sind sehr praktisch für Reisen.
+
+  Cette *enceinte* de palissades délimite le chantier.
+  Dieser *Ring* aus Palisaden grenzt die Baustelle ab.
+
+  La double *enceinte* de la forteresse la rendait imprenable.
+  Die doppelte *Ringmauer* machte die Festung uneinnehmbar.
+
+  L'*enceinte* de confinement assure la protection contre les radiations.
+  Die *Schutzhülle* gewährleistet den Schutz vor Strahlung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,23 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cette explication s’avéra la bonne, par la suite.
-  Diese Erklärung erwies sich später als richtig.
+  Cette explication s'*avéra* la bonne, par la suite.
+  Diese Erklärung *erwies* sich später als die richtige.
 
-  Cette information s’est avérée fausse.
-  Diese Information hat sich als falsch erwiesen.
+  Les rumeurs se sont *avérées* vraies après tout.
+  Die Gerüchte haben sich am Ende als *wahr erwiesen*.
 
-  Le témoignage de l'accusé s'est avéré être un mensonge.
-  Das Zeugnis des Angeklagten hat sich als Lüge erwiesen.
+  Il s'*avère* que le nouveau directeur a beaucoup d'expérience.
+  Es *stellt* sich *heraus*, dass der neue Direktor viel Erfahrung hat.
 
-  L'hypothèse du scientifique s'est avérée exacte.
-  Die Hypothese des Wissenschaftlers hat sich als richtig erwiesen.
+  Cette méthode s'*avère* efficace dans la plupart des cas.
+  Diese Methode *erweist* sich in den meisten Fällen als effektiv.
 
-  Le rapport de l'agence de presse s'est avéré faux.
-  Der Bericht der Nachrichtenagentur hat sich als falsch erwiesen.
+  Ses craintes se sont *avérées* infondées.
+  Seine Befürchtungen haben sich als un*begründet* *herausgestellt*.
 
-  Il s'avère que le trésor était caché dans le jardin.
-  Es erweist sich, dass der Schatz im Garten versteckt war.
+  L'hypothèse du chercheur s'est rapidement *avérée*.
+  Die Hypothese des Forschers hat sich schnell *bestätigt*.
+
+  Il s'*avère* impossible de terminer le projet à temps.
+  Es *erweist* sich als unmöglich, das Projekt rechtzeitig fertigzustellen.
+
+  La situation s'*avère* plus complexe que prévu.
+  Die Situation *entpuppt* sich als komplexer als erwartet.
+
+  Cette décision s'est *avérée* être la meilleure option.
+  Diese Entscheidung *erwies* sich als die beste Option.
+
+  Les faits *avérés* ne peuvent pas être contestés.
+  Die *erwiesenen* Tatsachen können nicht bestritten werden.
+
+  Son talent s'*avère* remarquable pour son âge.
+  Ihr Talent *erweist* sich für ihr Alter als bemerkenswert.
+
+  La solution s'*avéra* inefficace après plusieurs essais.
+  Die Lösung *erwies* sich nach mehreren Versuchen als unwirksam.
+
+  Ces mesures se sont *avérées* nécessaires.
+  Diese Maßnahmen haben sich als *notwendig erwiesen*.
+
+  Il s'*avère* que nous avions tort depuis le début.
+  Es *stellt* sich *heraus*, dass wir von Anfang an falsch lagen.
+
+  Les conséquences se sont *avérées* désastreuses.
+  Die Folgen haben sich als *katastrophal erwiesen*.
+
+  Le nouveau traitement s'*avère* prometteur.
+  Die neue Behandlung *zeigt* sich vielversprechend.
+
+  Ce candidat s'*avère* être le plus qualifié.
+  Dieser Kandidat *stellt* sich als der am besten qualifizierte *heraus*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

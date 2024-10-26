@@ -13,53 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il y a peut-être du courrier.
-  Vielleicht gibt es Post.
+  Il y a peut-être du *courrier*.
+  Vielleicht ist *Post* da.
 
-  J’ai reçu une lettre par courrier.
-  Ich habe einen Brief per Post erhalten.
+  J'ai reçu beaucoup de *courrier* aujourd'hui.
+  Ich habe heute viel *Post* bekommen.
 
-  Le courrier est arrivé.
-  Die Post ist angekommen.
+  Le *courrier* électronique a révolutionné notre façon de communiquer.
+  Die *E-Mail* hat unsere Art zu kommunizieren revolutioniert.
 
-  Tu as du courrier.
-  Du hast Post.
+  Le *courrier* du cœur est la rubrique la plus lue du journal.
+  Die Ratgeber*spalte* ist die meistgelesene Rubrique der Zeitung.
 
-  Je dois me souvenir de mettre la lettre au courrier.
-  Ich muss daran denken, den Brief zur Post zu bringen.
+  Le *courrier* des lecteurs reflète l'opinion publique.
+  Die *Leserbriefe* spiegeln die öffentliche Meinung wider.
 
-  J'ai reçu un courrier postal hier matin.
-  Ich habe heute Morgen Briefpost bekommen.
+  Je dois encore traiter tout le *courrier* en retard.
+  Ich muss noch alle *Brief*schulden abarbeiten.
 
-  J'ai lu le courrier économique du journal ce matin.
-  Ich habe heute Morgen den Wirtschaftsteil der Zeitung gelesen.
+  Le *courrier* interne sera distribué ce matin.
+  Die Haus*post* wird heute Morgen verteilt.
 
-  Le colis sera envoyé par courrier.
-  Das Paket wird per Eilboten verschickt.
+  Nous avons envoyé votre colis par *courrier* spécial.
+  Wir haben Ihr Paket per *Eilboten* verschickt.
 
-  Je dois faire mon courrier cet après-midi.
-  Ich muss heute Nachmittag meine Post erledigen.
+  Le *Courrier* picard est un journal régional important.
+  Der *Kurier* der Picardie ist eine wichtige Regionalzeitung.
 
-  Les informations sur le remboursement vous seront envoyées par courrier séparé.
-  Die Informationen zum Rückerstattungsprozess werden Ihnen mit getrennter Post zugeschickt.
+  Elle travaille au service du *courrier* dans un ministère.
+  Sie arbeitet in der *Post*stelle eines Ministeriums.
 
-  Il a du courrier en retard à payer.
-  Er hat Briefschulden zu begleichen.
+  Le *courrier* arrivée doit être trié avant midi.
+  Die Eingangs*post* muss vor 12 Uhr sortiert werden.
 
-  Il faut faire son courrier en retard avant la fin du mois.
-  Man muss seine Briefschulden bis Ende des Monats begleichen.
+  Je vous répondrai par retour du *courrier*.
+  Ich werde Ihnen umgehend per *Post* antworten.
 
-  J'ai lu le courrier du cœur dans le magazine.
-  Ich habe die Spalte „Leser fragen um Rat“ im Magazin gelesen.
+  Notre *courrier* postal est livré tous les matins à 9 heures.
+  Unsere Brief*post* wird jeden Morgen um 9 Uhr zugestellt.
 
-  J'ai envoyé un courrier des lecteurs à la rédaction.
-  Ich habe einen Leserbrief an die Redaktion geschickt.
+  Le *courrier* maritime met plus longtemps à arriver.
+  Die See*post* braucht länger zum Ankommen.
 
-  Le courrier arrivée est traité par le secrétariat.
-  Die Eingangspost wird vom Sekretariat bearbeitet.
+  As-tu déjà fait suivre ton *courrier* à ta nouvelle adresse ?
+  Hast du deine *Post* schon an deine neue Adresse nachsenden lassen?
 
-  Le courrier départ est préparé par la secrétaire.
-  Die Ausgangspost wird von der Sekretärin vorbereitet.
+  Le *courrier* littéraire présente les nouveautés de la semaine.
+  Der Literatur*teil* stellt die Neuerscheinungen der Woche vor.
+
+  Un *courrier* papal apporta la nouvelle au roi.
+  Ein päpstlicher *Bote* überbrachte dem König die Nachricht.
+
+  Je dois poster ce *courrier* avant la dernière levée.
+  Ich muss diese *Post* vor der letzten Leerung einwerfen.
+
+  La concierge a déposé le *courrier* dans nos boîtes aux lettres.
+  Die Hausmeisterin hat die *Post* in unsere Briefkästen gelegt.
+
+  Le *courrier* par fax n'est presque plus utilisé aujourd'hui.
+  *Fax*post wird heute kaum noch verwendet.
+
+  Veuillez envoyer votre candidature par *courrier* séparé.
+  Bitte senden Sie Ihre Bewerbung mit getrennter *Post*.
+
+  Le service du *courrier* est fermé pendant les jours fériés.
+  Die *Post*abteilung ist an Feiertagen geschlossen.
+
+  Les entreprises reçoivent beaucoup de *courrier* publicitaire.
+  Firmen bekommen viel Werbe*post*.
+
+  Le *courrier* départ doit être affranchi correctement.
+  Die Ausgangs*post* muss richtig frankiert werden.
+
+  Je n'ai pas encore lu mon *courrier* d'aujourd'hui.
+  Ich habe meine heutige *Post* noch nicht gelesen.
+
+  Elle a passé la matinée à trier le *courrier*.
+  Sie hat den Vormittag damit verbracht, die *Post* zu sortieren.
+
+  Le *courrier* économique analyse les tendances du marché.
+  Der Wirtschafts*teil* analysiert die Markttrends.
+
+  Le *courrier* recommandé doit être signé à la réception.
+  Die Einschreibe*post* muss bei Erhalt unterschrieben werden.
+
+  Je vais chercher le *courrier* à la boîte postale.
+  Ich hole die *Post* vom Postfach ab.
+
+  Le *courrier* est en retard à cause de la grève.
+  Die *Post* ist wegen des Streiks verspätet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,38 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il en résultera un influx technologique.
-  Dies wird zu einem technologischen Zufluss führen.
+  Il en résultera un influx *technologique*.
+  Daraus wird sich ein *technologischer* Fortschritt ergeben.
 
-  Les avancées technologiques ont changé notre vie quotidienne.
-  Die technologischen Fortschritte haben unser tägliches Leben verändert.
+  Le parc *technologique* de la ville attire de nombreuses entreprises innovantes.
+  Der *Technologie*park der Stadt zieht viele innovative Unternehmen an.
 
-  Le centre technologique de la ville est un lieu de recherche et de développement pour les entreprises locales.
-  Das Technologiezentrum der Stadt ist ein Ort für Forschung und Entwicklung für lokale Unternehmen.
+  Les avancées *technologiques* ont révolutionné notre façon de communiquer.
+  Die *technologischen* Fortschritte haben unsere Art zu kommunizieren revolutioniert.
 
-  Le centre technologique propose des formations et des ateliers pour les entrepreneurs.
-  Das Technologiezentrum bietet Schulungen und Workshops für Unternehmer an.
+  Ce centre *technologique* est spécialisé dans la recherche sur l'intelligence artificielle.
+  Dieses *Technologie*zentrum ist auf die Erforschung künstlicher Intelligenz spezialisiert.
+
+  L'évolution *technologique* s'accélère d'année en année.
+  Die *technologische* Entwicklung beschleunigt sich von Jahr zu Jahr.
+
+  Notre dépendance *technologique* devient de plus en plus préoccupante.
+  Unsere *technologische* Abhängigkeit wird zunehmend besorgniserregender.
+
+  Le développement *technologique* doit aller de pair avec le progrès social.
+  Die *technologische* Entwicklung muss mit dem sozialen Fortschritt Hand in Hand gehen.
+
+  Les innovations *technologiques* ont transformé le secteur médical.
+  Die *technologischen* Innovationen haben den medizinischen Sektor verändert.
+
+  Le transfert *technologique* entre les universités et l'industrie s'intensifie.
+  Der *Technologie*transfer zwischen Universitäten und Industrie verstärkt sich.
+
+  La révolution *technologique* a créé de nouveaux métiers.
+  Die *technologische* Revolution hat neue Berufe geschaffen.
+
+  Le gap *technologique* entre les pays se réduit progressivement.
+  Die *technologische* Kluft zwischen den Ländern verringert sich allmählich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

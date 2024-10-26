@@ -13,47 +13,134 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La recherche en santé peut se révéler extrêmement bénéfique.
-  Die Gesundheitsforschung kann sich als äußerst vorteilhaft erweisen.
+  La *recherche* en santé peut se révéler extrêmement bénéfique.
+  Die medizinische *Forschung* kann sich als äußerst nützlich erweisen.
 
-  Je travaille dans la recherche médicale.
-  Ich arbeite in der medizinischen Forschung.
+  Je suis à la *recherche* d'un appartement dans le centre-ville.
+  Ich bin auf der *Suche* nach einer Wohnung im Stadtzentrum.
 
-  Je suis à la recherche d'un livre sur l'histoire de la France.
-  Ich suche nach einem Buch über die Geschichte Frankreichs.
+  La police a lancé une *recherche* pour retrouver le suspect.
+  Die Polizei hat eine *Fahndung* nach dem Verdächtigen eingeleitet.
 
-  Il a fait des recherches sur les origines familiales de sa femme.
-  Er hat Familienforschung über die Familie seiner Frau betrieben.
+  La *recherche* scientifique nécessite beaucoup de patience.
+  Wissenschaftliche *Forschung* erfordert viel Geduld.
 
-  Il est à la recherche du bonheur, qu'il croit trouver dans la richesse.
-  Er strebt nach dem Glück, das er in Reichtum zu finden glaubt.
+  Elle s'habille toujours avec *recherche*.
+  Sie kleidet sich stets mit erlesener *Eleganz*.
 
-  Le directeur de l'entreprise est à la recherche du pouvoir, car il veut tout contrôler.
-  Der Chef des Unternehmens strebt nach Macht, denn er will alles kontrollieren.
+  Le service de *recherche* et développement travaille sur un nouveau produit.
+  Die *Forschungs*- und Entwicklungsabteilung arbeitet an einem neuen Produkt.
 
-  La recherche aérospatiale est un domaine complexe et fascinant.
-  Die Weltraumforschung ist ein komplexes und faszinierendes Gebiet.
+  Les *recherches* sur les origines de l'univers continuent.
+  Die *Forschungen* über den Ursprung des Universums gehen weiter.
 
-  Elle met beaucoup de recherche dans sa toilette, elle est toujours impeccablement habillée.
-  Sie ist immer mit ausgesuchter Eleganz gekleidet, sie achtet sehr auf ihr Äußeres.
+  La *recherche* de la vérité est une quête sans fin.
+  Die *Suche* nach der Wahrheit ist eine endlose Quest.
 
-  La recherche opérationnelle est un outil précieux pour les entreprises.
-  Die Unternehmensforschung ist ein wertvolles Werkzeug für Unternehmen.
+  Nous avons dû abandonner les *recherches* après trois jours.
+  Wir mussten die *Fahndung* nach drei Tagen einstellen.
 
-  Il est à la recherche d'un appartement dans le centre-ville.
-  Er ist auf der Suche nach einer Wohnung in der Innenstadt.
+  Le moteur de *recherche* a trouvé plus de mille résultats.
+  Die *Such*maschine hat über tausend Ergebnisse gefunden.
 
-  Elle est à la recherche d'un homme qui l'aimera pour ce qu'elle est.
-  Sie ist auf der Suche nach einem Mann, der sie liebt, wie sie ist.
+  La *recherche* fondamentale est essentielle au progrès scientifique.
+  Die Grundlagen*forschung* ist wesentlich für den wissenschaftlichen Fortschritt.
 
-  Une recherche du cholestérol est recommandée pour les personnes à risque.
-  Eine Cholesterin-Untersuchung wird für Menschen mit erhöhtem Risiko empfohlen.
+  Cette université est reconnue pour sa *recherche* en géologie.
+  Diese Universität ist bekannt für ihre geologische *Forschung*.
 
-  La police a lancé une recherche de personnes pour retrouver le suspect.
-  Die Polizei hat eine Personenfahndung gestartet, um den Verdächtigen zu finden.
+  Les frais de *recherche* sont couverts par une subvention.
+  Die *Forschungs*kosten werden durch einen Zuschuss gedeckt.
 
-  Les recherches ciblées ont permis de retrouver l'objet perdu.
-  Die Zielfahndung hat es ermöglicht, den verlorenen Gegenstand wiederzufinden.
+  La *recherche* automatique des chaînes prend quelques minutes.
+  Der Sender*such*lauf dauert einige Minuten.
+
+  Il mène des *recherches* approfondies sur l'histoire médiévale.
+  Er betreibt gründliche *Forschungen* über die mittelalterliche Geschichte.
+
+  La *recherche* du bonheur guide ses actions.
+  Das *Streben* nach Glück leitet seine Handlungen.
+
+  Elle fait des *recherches* sur ses ancêtres.
+  Sie stellt *Nachforschungen* über ihre Vorfahren an.
+
+  Les *recherches* ciblées ont permis d'arrêter le fugitif.
+  Die Ziel*fahndung* führte zur Festnahme des Flüchtigen.
+
+  La *recherche* opérationnelle aide à optimiser les processus.
+  Die Unternehmens*forschung* hilft bei der Prozessoptimierung.
+
+  Le système de *recherche* automatique facilite l'utilisation.
+  Das automatische *Such*system erleichtert die Bedienung.
+
+  La *recherche* aérospatiale fait des progrès considérables.
+  Die Weltraum*forschung* macht beachtliche Fortschritte.
+
+  Son style d'écriture montre beaucoup de *recherche*.
+  Sein Schreibstil zeigt viel *Raffinement*.
+
+  La *recherche* des causes de l'accident est en cours.
+  Die *Suche* nach den Unfallursachen läuft noch.
+
+  Un avis de *recherche* a été publié dans le journal.
+  Eine *Fahndungs*anzeige wurde in der Zeitung veröffentlicht.
+
+  Elle est à la *recherche* d'un nouveau défi professionnel.
+  Sie ist auf der *Suche* nach einer neuen beruflichen Herausforderung.
+
+  La *recherche* sur la paix contribue à la stabilité mondiale.
+  Die Konflikt*forschung* trägt zur weltweiten Stabilität bei.
+
+  Les *recherches* sur le cancer progressent chaque année.
+  Die Krebs*forschung* macht jedes Jahr Fortschritte.
+
+  Le budget de la *recherche* a été augmenté cette année.
+  Das *Forschungs*budget wurde dieses Jahr erhöht.
+
+  La *recherche* de nouvelles énergies est prioritaire.
+  Die *Forschung* nach neuen Energien hat Priorität.
+
+  Il s'exprime toujours avec *recherche*.
+  Er drückt sich stets sehr gewählt aus.
+
+  La *recherche* de personnes disparues mobilise toute l'équipe.
+  Die Personen*fahndung* beschäftigt das gesamte Team.
+
+  Les *recherches* historiques révèlent de nouveaux détails.
+  Die historischen *Forschungen* enthüllen neue Details.
+
+  La *recherche* du cholestérol fait partie du bilan sanguin.
+  Die Cholesterin*untersuchung* ist Teil der Blutuntersuchung.
+
+  Le centre de *recherche* embauche de nouveaux scientifiques.
+  Das *Forschungs*zentrum stellt neue Wissenschaftler ein.
+
+  La *recherche* d'un livre rare peut prendre des années.
+  Die *Suche* nach einem seltenen Buch kann Jahre dauern.
+
+  Cette découverte est le fruit de longues *recherches*.
+  Diese Entdeckung ist das Ergebnis langer *Forschungen*.
+
+  La *recherche* de solutions innovantes est notre priorité.
+  Die *Suche* nach innovativen Lösungen ist unsere Priorität.
+
+  Les *recherches* en laboratoire ont confirmé l'hypothèse.
+  Die Labor*forschungen* haben die Hypothese bestätigt.
+
+  La *recherche* de financement occupe une grande partie de son temps.
+  Die *Suche* nach Finanzierung nimmt einen Großteil seiner Zeit in Anspruch.
+
+  Elle participe à des *recherches* sur le climat.
+  Sie beteiligt sich an Klima*forschungen*.
+
+  Les *recherches* généalogiques sont devenues sa passion.
+  Die genealogischen *Forschungen* sind zu ihrer Leidenschaft geworden.
+
+  Le département de *recherche* travaille jour et nuit.
+  Die *Forschungs*abteilung arbeitet Tag und Nacht.
+
+  La *recherche* d'indices sur la scène de crime est minutieuse.
+  Die *Suche* nach Spuren am Tatort ist sorgfältig.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

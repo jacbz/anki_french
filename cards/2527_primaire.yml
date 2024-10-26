@@ -13,41 +13,131 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Un hôpital et une école primaire ont été détruits.
-  Ein Krankenhaus und eine Grundschule wurden zerstört.
+  Un hôpital et une école *primaire* ont été détruits.
+  Ein Krankenhaus und eine *Grund*schule wurden zerstört.
 
-  Mon fils va à l’école primaire.
-  Mein Sohn geht in die Grundschule.
+  Les couleurs *primaires* sont le rouge, le bleu et le jaune.
+  Die *Grund*farben sind Rot, Blau und Gelb.
 
-  Le rouge est une couleur primaire.
-  Rot ist eine Grundfarbe.
+  Ma fille entre à l'école *primaire* en septembre.
+  Meine Tochter kommt im September in die *Grund*schule.
 
-  Mon fils est en primaire.
-  Mein Sohn ist in der Grundschule.
+  Le secteur *primaire* emploie de moins en moins de personnes.
+  Der *Primär*sektor beschäftigt immer weniger Menschen.
 
-  L'ère primaire a duré environ 540 millions d'années.
-  Das Paläozoikum dauerte etwa 540 Millionen Jahre.
+  Les élections *primaires* auront lieu le mois prochain.
+  Die *Vor*wahlen finden nächsten Monat statt.
 
-  L'assemblée primaire a voté pour le nouveau président.
-  Die Urwählerversammlung hat für den neuen Präsidenten gestimmt.
+  L'enseignement *primaire* est obligatoire dans la plupart des pays.
+  Die *Grund*schulbildung ist in den meisten Ländern verpflichtend.
 
-  La réaction primaire du corps à la douleur est le retrait.
-  Die Primitivreaktion des Körpers auf Schmerz ist das Zurückziehen.
+  La Caisse *primaire* d'assurance maladie a rejeté sa demande.
+  Die gesetzliche *Primär*krankenkasse hat seinen Antrag abgelehnt.
 
-  J'ai fait mes études primaires dans une petite école de village.
-  Ich habe meine Grundschulzeit in einer kleinen Dorfschule verbracht.
+  Cette roche *primaire* date de millions d'années.
+  Dieses *Primär*gestein ist Millionen Jahre alt.
 
-  L'enseignement primaire est obligatoire en France.
-  Die Grundschulbildung ist in Frankreich obligatorisch.
+  Les dinosaures sont apparus à la fin de l'ère *primaire*.
+  Die Dinosaurier erschienen am Ende des *Primär*zeitalters.
 
-  Le granite est une roche primaire.
-  Granit ist ein Primärgestein.
+  Le miroir *primaire* du télescope mesure huit mètres de diamètre.
+  Der *Primär*spiegel des Teleskops hat einen Durchmesser von acht Metern.
 
-  Les élections primaires des deux partis sont en cours.
-  Die innerparteilichen Vorwahlen der beiden Parteien laufen.
+  L'hémostase *primaire* joue un rôle crucial dans la coagulation.
+  Die *primäre* Hämostase spielt eine entscheidende Rolle bei der Gerinnung.
 
-  La fonction primaire du cœur est de pomper le sang.
-  Die Primärfunktion des Herzens ist das Pumpen von Blut.
+  Les réactions *primaires* sont souvent instinctives.
+  *Primäre* Reaktionen sind oft instinktiv.
+
+  Cette fonction *primaire* est essentielle pour la survie.
+  Diese *primäre* Funktion ist überlebenswichtig.
+
+  Le marché *primaire* des actions est très dynamique cette année.
+  Der *Primär*markt für Aktien ist dieses Jahr sehr dynamisch.
+
+  L'énergie *primaire* doit être transformée avant utilisation.
+  Die *Primär*energie muss vor der Nutzung umgewandelt werden.
+
+  Il a passé cinq ans dans le *primaire* avant d'entrer au collège.
+  Er war fünf Jahre in der *Grund*schule, bevor er aufs Gymnasium kam.
+
+  L'assemblée *primaire* se réunira la semaine prochaine.
+  Die *Ur*wählerversammlung wird sich nächste Woche treffen.
+
+  Le bois *primaire* se forme durant la première année de croissance.
+  Das *Primär*holz bildet sich im ersten Wachstumsjahr.
+
+  Cette amine *primaire* est un composé organique simple.
+  Dieses *primäre* Amin ist eine einfache organische Verbindung.
+
+  Les symptômes *primaires* sont apparus il y a trois jours.
+  Die *primären* Symptome traten vor drei Tagen auf.
+
+  L'inspecteur *primaire* visitera notre école demain.
+  Der *Schul*rat wird morgen unsere Schule besuchen.
+
+  Mon fils est maintenant en CE2 dans le *primaire*.
+  Mein Sohn ist jetzt in der dritten Klasse der *Grund*schule.
+
+  La formation *primaire* des enseignants dure plusieurs années.
+  Die *grund*legende Ausbildung der Lehrer dauert mehrere Jahre.
+
+  C'est un alcool *primaire* très utilisé en industrie.
+  Das ist ein in der Industrie häufig verwendeter *primärer* Alkohol.
+
+  L'atome de carbone *primaire* porte deux hydrogènes.
+  Das *primäre* Kohlenstoffatom trägt zwei Wasserstoffatome.
+
+  Le *primaire* géologique a duré plus de 290 millions d'années.
+  Das geologische *Paläo*zoikum dauerte mehr als 290 Millionen Jahre.
+
+  Les *primaires* du parti ont lieu dans trois États aujourd'hui.
+  Die *Vor*wahlen der Partei finden heute in drei Bundesstaaten statt.
+
+  L'anticommunisme *primaire* ne mène à rien de constructif.
+  Der *primitive* Antikommunismus führt zu nichts Konstruktivem.
+
+  Sa réaction *primaire* a surpris tout le monde.
+  Seine *primitive* Reaktion hat alle überrascht.
+
+  Le liber *primaire* se développe dès la première année.
+  Das *Primär*phloem entwickelt sich bereits im ersten Jahr.
+
+  L'amide *primaire* est un composé chimique important.
+  Das *primäre* Amid ist eine wichtige chemische Verbindung.
+
+  Les caractères *primaires* définissent souvent la personnalité.
+  Die *primären* Charakterzüge definieren oft die Persönlichkeit.
+
+  Un raisonnement *primaire* l'a conduit à cette conclusion.
+  Eine *primitive* Denkweise hat ihn zu diesem Schluss geführt.
+
+  La maladie s'est manifestée dans sa forme *primaire*.
+  Die Krankheit zeigte sich in ihrer *primären* Form.
+
+  Cette explication *primaire* ne satisfait personne.
+  Diese *simple* Erklärung stellt niemanden zufrieden.
+
+  Le caractérologue a identifié un type *primaire*.
+  Der Charakterkundler hat einen *primären* Typ identifiziert.
+
+  Les instituteurs du *primaire* sont en grève aujourd'hui.
+  Die *Grund*schullehrer streiken heute.
+
+  Sa vision *primaire* des choses irrite ses collègues.
+  Seine *primitive* Sichtweise der Dinge irritiert seine Kollegen.
+
+  Cette réflexion *primaire* a gâché la discussion.
+  Diese *oberflächliche* Überlegung hat die Diskussion ruiniert.
+
+  Les candidats aux *primaires* font campagne dans tout le pays.
+  Die Kandidaten der *Vor*wahlen führen im ganzen Land Wahlkampf.
+
+  Son anticléricalisme *primaire* le rend parfois ridicule.
+  Sein *oberflächlicher* Antiklerikalismus macht ihn manchmal lächerlich.
+
+  L'école *primaire* du village a cent cinquante ans.
+  Die *Grund*schule des Dorfes ist hundertfünfzig Jahre alt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

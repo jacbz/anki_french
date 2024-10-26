@@ -13,20 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je peux calculer vos chances de survie.
-  Ich kann Ihre Überlebenschancen berechnen.
+  Je peux calculer vos chances de *survie*.
+  Ich kann Ihre *Überlebens*chancen berechnen.
 
-  La survie en milieu hostile est difficile.
-  Das Überleben in feindlicher Umgebung ist schwierig.
+  La pollution des océans met en danger la *survie* de nombreuses espèces marines.
+  Die Verschmutzung der Ozeane gefährdet das *Überleben* vieler Meeresarten.
 
-  C’est une question de survie.
-  Es ist eine Frage des Überlebens.
+  L'eau et la nourriture sont des questions de *survie*.
+  Wasser und Nahrung sind *Überlebens*fragen.
 
-  La question de survie se pose de plus en plus souvent dans notre monde actuel.
-  Die Überlebensfrage stellt sich in unserer heutigen Welt immer häufiger.
+  Cette petite entreprise lutte pour sa *survie*.
+  Dieses kleine Unternehmen kämpft um sein *Überleben*.
 
-  Il faut trouver des solutions pour assurer la survie de l'espèce humaine.
-  Man muss Lösungen finden, um das Überleben der Menschheit zu sichern.
+  Les scientifiques étudient la *survie* des cellules dans des conditions extrêmes.
+  Die Wissenschaftler untersuchen das *Überleben* der Zellen unter extremen Bedingungen.
+
+  Son instinct de *survie* lui a permis de tenir bon.
+  Sein *Überlebens*instinkt hat ihm geholfen durchzuhalten.
+
+  La *survie* du patient après l'opération reste incertaine.
+  Das *Überleben* des Patienten nach der Operation bleibt ungewiss.
+
+  Il faut assurer la *survie* de ces traditions ancestrales.
+  Der *Fortbestand* dieser alten Traditionen muss gesichert werden.
+
+  Certaines religions croient en la *survie* de l'âme après la mort.
+  Manche Religionen glauben an ein *Weiterleben* der Seele nach dem Tod.
+
+  Cette couverture de *survie* peut sauver des vies en montagne.
+  Diese *Überlebens*decke kann in den Bergen Leben retten.
+
+  La *survie* de cette civilisation ancienne nous fascine encore aujourd'hui.
+  Der *Fortbestand* dieser alten Zivilisation fasziniert uns noch heute.
+
+  Les équipements de *survie* sont obligatoires sur les bateaux.
+  *Überlebens*ausrüstung ist auf Schiffen vorgeschrieben.
+
+  La *survie* de Mozart à travers ses œuvres est remarquable.
+  Mozarts *Fortleben* durch seine Werke ist bemerkenswert.
+
+  Ces rations de *survie* peuvent nourrir une personne pendant une semaine.
+  Diese *Überlebens*rationen können eine Person eine Woche lang ernähren.
+
+  La *survie* de ce petit village dépend du tourisme.
+  Das *Überleben* dieses kleinen Dorfes hängt vom Tourismus ab.
+
+  Les chercheurs ont augmenté le taux de *survie* des patients.
+  Die Forscher haben die *Überlebens*rate der Patienten erhöht.
+
+  Dans ce climat hostile, chaque jour est une lutte pour la *survie*.
+  In diesem feindlichen Klima ist jeder Tag ein Kampf ums *Überleben*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

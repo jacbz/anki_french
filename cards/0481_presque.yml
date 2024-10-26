@@ -13,44 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il y a presque 10 millions de lignes téléphoniques.
-  Es gibt fast 10 Millionen Telefonleitungen.
+  Il y a *presque* 10 millions de lignes téléphoniques.
+  Es gibt *fast* 10 Millionen Telefonleitungen.
 
-  J’ai presque fini.
-  Ich bin fast fertig.
+  Le projet est *presque* terminé, nous pourrons bientôt le présenter.
+  Das Projekt ist *fast* fertig, wir können es bald präsentieren.
 
-  Mon travail est presque fini.
-  Meine Arbeit ist fast fertig.
+  *Presque* tous les élèves ont réussi l'examen.
+  *Fast* alle Schüler haben die Prüfung bestanden.
 
-  Il est presque toujours chez lui.
-  Er ist fast immer zu Hause.
+  Je ne dors *presque* pas depuis trois jours.
+  Ich schlafe seit drei Tagen *kaum*.
 
-  Cela fait presque trois ans que je suis ici.
-  Ich bin jetzt seit fast drei Jahren hier.
+  Il fait *presque* nuit, nous devrions rentrer.
+  Es wird *beinahe* dunkel, wir sollten nach Hause gehen.
 
-  Tout le monde, ou presque, était présent à la fête.
-  Alle, oder fast alle, waren auf der Feier anwesend.
+  J'ai une *presque* certitude qu'il viendra demain.
+  Ich bin mir *fast* sicher, dass er morgen kommen wird.
 
-  J'ai la presque certitude que tu te trompes sur le nombre de participants.
-  Ich bin mir fast sicher, dass du dich mit der Zahl der Teilnehmer irrst.
+  Dans la *presque* obscurité, je pouvais à peine voir le chemin.
+  In der *fast* vollkommenen Dunkelheit konnte ich den Weg kaum erkennen.
 
-  C'est presque sûr que le train arrivera à l'heure.
-  Das ist so gut wie sicher, dass der Zug pünktlich ankommt.
+  La *presque* totalité des habitants a voté pour ce projet.
+  *Fast* alle Einwohner haben für dieses Projekt gestimmt.
 
-  Je ne l'ai presque pas entendu, il chuchotait si bas.
-  Ich habe ihn kaum gehört, er flüsterte so leise.
+  Il vient *presque* tous les jours nous voir.
+  Er kommt uns *fast* jeden Tag besuchen.
 
-  Je ne connais presque personne dans cette ville, je suis nouveau ici.
-  Ich kenne fast niemanden in dieser Stadt, ich bin neu hier.
+  Je ne connais *presque* personne dans cette ville.
+  Ich kenne in dieser Stadt *kaum* jemanden.
 
-  Il pleurait presque, tellement il était déçu.
-  Er war dem Weinen nahe, so enttäuscht war er.
+  C'était il y a deux ans, *presque* trois maintenant.
+  Das war vor zwei Jahren, *fast* drei sind es jetzt.
 
-  Dans la presque obscurité, il était difficile de distinguer les formes.
-  In fast völliger Dunkelheit war es schwierig, die Formen zu erkennen.
+  Les deux trains sont arrivés *presque* en même temps.
+  Die beiden Züge kamen *fast* gleichzeitig an.
 
-  La presque totalité des électeurs a voté pour le candidat.
-  Fast alle Wähler haben für den Kandidaten gestimmt.
+  Il ne sort jamais, ou *presque*.
+  Er geht nie aus, oder *fast* nie.
+
+  Cette voiture est neuve, ou *presque*.
+  Dieses Auto ist neu, oder *fast* neu.
+
+  Elle pleurait *presque* en entendant la nouvelle.
+  Sie war beim Hören der Nachricht dem Weinen *nahe*.
+
+  "Tu as fini tes devoirs ?" - "*Presque*."
+  "Hast du deine Hausaufgaben fertig?" - "*Fast*."
+
+  La décision a été prise à la *presque* unanimité.
+  Die Entscheidung wurde mit *fast* einstimmiger Mehrheit getroffen.
+
+  On trouve des fautes à *presque* toutes les pages.
+  Man findet auf *fast* jeder Seite Fehler.
+
+  Il réussirait *presque* à me convaincre.
+  Er würde es *beinahe* schaffen, mich zu überzeugen.
+
+  Tout le monde est là, ou *presque*.
+  Alle sind da, oder *fast* alle.
+
+  Je n'ai *presque* rien mangé aujourd'hui.
+  Ich habe heute *kaum* etwas gegessen.
+
+  Il s'en est fallu de *presque* rien qu'elle gagne la course.
+  Es hätte *fast* nichts gefehlt und sie hätte das Rennen gewonnen.
+
+  J'aurais *presque* envie de partir en vacances maintenant.
+  Ich hätte *fast* Lust, jetzt in den Urlaub zu fahren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

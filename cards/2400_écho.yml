@@ -13,23 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’entendis l’écho d’un souvenir détesté.
-  Ich hörte das Echo einer verhassten Erinnerung.
+  J'entendis l'*écho* d'un souvenir détesté.
+  Ich hörte das *Echo* einer verhassten Erinnerung.
 
-  L’écho de sa voix résonnait dans la vallée.
-  Der Widerhall seiner Stimme hallte im Tal wider.
+  Dans cette vallée, l'*écho* résonne pendant plusieurs secondes.
+  In diesem Tal hallt das *Echo* mehrere Sekunden lang nach.
 
-  Le bruit de la chute de l'arbre a fait écho dans la forêt.
-  Der Lärm vom Fall des Baumes hallte durch den Wald wider.
+  Les enfants s'amusaient à crier pour entendre l'*écho* dans les montagnes.
+  Die Kinder hatten Spaß daran zu rufen, um das *Echo* in den Bergen zu hören.
 
-  J'ai eu des échos de la fête qui a eu lieu chez mon voisin.
-  Ich habe von der Party bei meinem Nachbarn gehört.
+  Notre protestation est restée sans *écho* auprès de la direction.
+  Unser Protest fand bei der Geschäftsleitung keine *Resonanz*.
 
-  Son discours n'a pas trouvé d'écho auprès des étudiants.
-  Seine Rede fand bei den Studenten keine Resonanz.
+  Les *échos* du journal local rapportent les événements du weekend.
+  Die *Klatschspalte* der Lokalzeitung berichtet über die Ereignisse des Wochenendes.
 
-  J'en ai eu quelques échos, mais je n'ai pas tous les détails.
-  Das ist mir schon zu Ohren gekommen, aber ich habe nicht alle Einzelheiten.
+  Je me suis fait l'*écho* de leurs préoccupations lors de la réunion.
+  Ich habe während der Besprechung ihren Bedenken *Ausdruck* verliehen.
+
+  Cette grotte fait beaucoup d'*écho*.
+  In dieser Höhle *hallt* es sehr stark.
+
+  As-tu eu des *échos* de leur conversation ?
+  Hast du etwas über ihr Gespräch *gehört*?
+
+  Son discours a trouvé un grand *écho* dans la presse.
+  Seine Rede fand in der Presse großen *Widerhall*.
+
+  L'*écho* de ses pas résonnait dans le couloir vide.
+  Das *Echo* seiner Schritte hallte durch den leeren Flur.
+
+  Cette salle de concert produit un *écho* désagréable.
+  Dieser Konzertsaal erzeugt ein unangenehmes *Echo*.
+
+  Les *échos* de la fusillade ont réveillé tout le quartier.
+  Der *Widerhall* der Schüsse weckte das ganze Viertel auf.
+
+  Son roman fait *écho* aux événements de son enfance.
+  Sein Roman *spiegelt* die Ereignisse seiner Kindheit wider.
+
+  Il y a trop d'*écho* dans cette pièce pour enregistrer.
+  Es gibt zu viel *Hall* in diesem Raum zum Aufnehmen.
+
+  Les *échos* de la dispute ont atteint les oreilles du directeur.
+  Die *Gerüchte* über den Streit sind bis zum Direktor vorgedrungen.
+
+  Cette nouvelle est restée sans *écho* dans les médias.
+  Diese Nachricht blieb in den Medien ohne *Echo*.
+
+  L'*écho* du tonnerre grondait au loin.
+  Das *Echo* des Donners grollte in der Ferne.
+
+  Sa musique trouve un grand *écho* auprès des jeunes.
+  Seine Musik findet bei den Jugendlichen großen *Anklang*.
+
+  Les *échos* de la fête résonnaient dans toute la ville.
+  Der *Widerhall* des Festes war in der ganzen Stadt zu hören.
+
+  On perçoit dans ce film l'*écho* des années soixante.
+  Man spürt in diesem Film den *Nachklang* der sechziger Jahre.
+
+  L'orgue possède un clavier d'*écho* pour les sons plus doux.
+  Die Orgel besitzt ein *Echo*-Manual für sanftere Töne.
+
+  Cette décision a eu un fort *écho* dans l'opinion publique.
+  Diese Entscheidung hatte in der Öffentlichkeit ein starkes *Echo*.
+
+  Les *échos* de leurs rires rebondissaient sur les murs.
+  Das *Echo* ihres Lachens prallte von den Wänden zurück.
+
+  L'*écho* radar a détecté un obstacle devant le navire.
+  Das Radar*echo* hat ein Hindernis vor dem Schiff erkannt.
+
+  Sa voix portait jusqu'aux *échos* les plus lointains.
+  Seine Stimme trug bis zum entferntesten *Widerhall*.
+
+  La manifestation a trouvé un grand *écho* dans la population.
+  Die Demonstration fand in der Bevölkerung großen *Widerhall*.
+
+  Les *échos* de la guerre résonnent encore dans la mémoire collective.
+  Die *Nachwirkungen* des Krieges hallen noch im kollektiven Gedächtnis nach.
+
+  Cette proposition n'a trouvé aucun *écho* favorable.
+  Dieser Vorschlag fand keinerlei positive *Resonanz*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

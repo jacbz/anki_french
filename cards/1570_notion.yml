@@ -13,26 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Par contre, je n’ai aucune notion de médecine.
-  Andererseits habe ich keine Ahnung von Medizin.
+  Par contre, je n'ai aucune *notion* de médecine.
+  Allerdings habe ich keinerlei *Grundkenntnisse* in Medizin.
 
-  Il a une bonne notion de la musique.
-  Er hat ein gutes Verständnis von Musik.
+  Elle a des *notions* d'espagnol suffisantes pour voyager.
+  Sie hat ausreichende *Grundkenntnisse* in Spanisch, um zu reisen.
 
-  Elle a des notions d'anglais, ce qui lui permet de se débrouiller dans des situations simples.
-  Sie hat Grundkenntnisse in Englisch, die es ihr ermöglichen, sich in einfachen Situationen zurechtzufinden.
+  La *notion* de justice varie selon les cultures.
+  Der *Begriff* der Gerechtigkeit unterscheidet sich je nach Kultur.
 
-  La notion de l'heure est importante pour comprendre le rythme de la vie.
-  Das Zeitgefühl ist wichtig, um den Rhythmus des Lebens zu verstehen.
+  Dans le noir complet, j'ai perdu toute *notion* du lieu.
+  In der völligen Dunkelheit verlor ich jeglichen *Orientierungssinn*.
 
-  La notion de sécurité est essentielle pour se sentir à l'aise dans un environnement inconnu.
-  Das Konzept der Sicherheit ist entscheidend, um sich in einer unbekannten Umgebung wohlzufühlen.
+  Les philosophes débattent encore de la *notion* de vérité.
+  Die Philosophen diskutieren noch immer über den *Begriff* der Wahrheit.
 
-  La notion du lieu est indispensable pour s'orienter dans un espace inconnu.
-  Der Orientierungssinn ist unerlässlich, um sich in einem unbekannten Raum zurechtzufinden.
+  Ces *notions* de base en informatique te seront très utiles.
+  Diese *Grundkenntnisse* in Informatik werden dir sehr nützlich sein.
 
-  La notion de liberté est un concept important pour la plupart des gens.
-  Der Begriff Freiheit ist ein wichtiges Konzept für die meisten Menschen.
+  Après trois jours sans dormir, il avait perdu la *notion* du temps.
+  Nach drei Tagen ohne Schlaf hatte er das *Zeitgefühl* verloren.
+
+  La *notion* de beauté est très subjective.
+  Der *Begriff* der Schönheit ist sehr subjektiv.
+
+  Il faut avoir quelques *notions* de cuisine pour préparer ce plat.
+  Man braucht einige *Grundkenntnisse* im Kochen, um dieses Gericht zuzubereiten.
+
+  Cette *notion* de liberté était nouvelle à l'époque.
+  Dieser *Begriff* der Freiheit war damals neu.
+
+  Les enfants développent progressivement la *notion* du bien et du mal.
+  Kinder entwickeln nach und nach ein *Gefühl* für Gut und Böse.
+
+  Ses *notions* de mathématiques sont très limitées.
+  Seine *Grundkenntnisse* in Mathematik sind sehr begrenzt.
+
+  La *notion* de respect est fondamentale dans l'éducation.
+  Der *Begriff* des Respekts ist grundlegend in der Erziehung.
+
+  Cette *notion* abstraite est difficile à expliquer aux débutants.
+  Dieses abstrakte *Konzept* ist schwer, Anfängern zu erklären.
+
+  J'ai acquis quelques *notions* de jardinage en regardant ma grand-mère.
+  Ich habe einige *Grundkenntnisse* im Gärtnern durch das Zusehen bei meiner Großmutter erworben.
+
+  La *notion* de propriété existe dans toutes les sociétés.
+  Der *Begriff* des Eigentums existiert in allen Gesellschaften.
+
+  Sans *notion* du danger, il a sauté dans l'eau glacée.
+  Ohne *Gefühl* für die Gefahr sprang er ins eiskalte Wasser.
+
+  Ces *notions* élémentaires de physique sont au programme.
+  Diese elementaren *Grundkenntnisse* der Physik stehen im Lehrplan.
+
+  La *notion* d'amour a évolué au fil des siècles.
+  Der *Begriff* der Liebe hat sich im Laufe der Jahrhunderte entwickelt.
+
+  Il faudrait avoir au moins quelques *notions* de premiers secours.
+  Man sollte zumindest einige *Grundkenntnisse* in Erster Hilfe haben.
+
+  Dans le brouillard, on perd vite la *notion* des distances.
+  Im Nebel verliert man schnell das *Gefühl* für Entfernungen.
+
+  La *notion* de démocratie est née dans la Grèce antique.
+  Der *Begriff* der Demokratie entstand im antiken Griechenland.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

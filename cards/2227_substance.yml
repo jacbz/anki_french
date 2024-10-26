@@ -13,23 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Telle est son essence et sa substance.
-  Dies ist sein Wesen und seine Substanz.
+  Telle est son essence et sa *substance*.
+  Das ist sein Wesen und seine *Substanz*.
 
-  Cette plante contient une substance toxique.
-  Diese Pflanze enthält eine giftige Substanz.
+  La *substance* grise est responsable du traitement des informations dans notre cerveau.
+  Die graue *Substanz* ist für die Informationsverarbeitung in unserem Gehirn verantwortlich.
 
-  Le plastique utilisé dans les jouets pour enfants doit être exempt de substances nocives.
-  Das Plastik, das in Kinderspielzeug verwendet wird, muss schadstoffgeprüft sein.
+  Voici en *substance* ce que le directeur nous a expliqué hier.
+  Das ist im *Wesentlichen*, was uns der Direktor gestern erklärt hat.
 
-  Le rapport a conclu que l'accord était, en substance, un bon accord.
-  Der Bericht kam zu dem Schluss, dass das Abkommen im Wesentlichen ein gutes Abkommen war.
+  Cette *substance* liquide s'évapore très rapidement à température ambiante.
+  Diese flüssige *Substanz* verdunstet sehr schnell bei Raumtemperatur.
 
-  La substance sèche du produit est de 90%.
-  Die Trockensubstanz des Produkts beträgt 90%.
+  Les chercheurs ont découvert une nouvelle *substance* qui pourrait guérir cette maladie.
+  Die Forscher haben eine neue *Substanz* entdeckt, die diese Krankheit heilen könnte.
 
-  Les laboratoires analysent la substance des groupes sanguins pour déterminer le type de sang.
-  Die Labore analysieren die Blutgruppensubstanz, um die Blutgruppe zu bestimmen.
+  La *substance* de son discours était très convaincante.
+  Der *wesentliche Inhalt* seiner Rede war sehr überzeugend.
+
+  Cette plante contient des *substances* toxiques.
+  Diese Pflanze enthält giftige *Substanzen*.
+
+  Le pain perd sa *substance* quand il devient rassis.
+  Das Brot verliert seine *Substanz*, wenn es altbacken wird.
+
+  J'ai lu son livre et je peux t'en donner la *substance*.
+  Ich habe sein Buch gelesen und kann dir den *wesentlichen Inhalt* wiedergeben.
+
+  Les *substances* inflammables doivent être stockées avec précaution.
+  Brennbare *Substanzen* müssen vorsichtig gelagert werden.
+
+  Cette *substance* naturelle est extraite des feuilles d'olivier.
+  Diese natürliche *Substanz* wird aus Olivenblättern gewonnen.
+
+  La *substance* blanche joue un rôle crucial dans la transmission des signaux nerveux.
+  Die weiße *Substanz* spielt eine wichtige Rolle bei der Übertragung von Nervensignalen.
+
+  Cette loi a été vidée de sa *substance* par les amendements.
+  Dieses Gesetz wurde durch die Änderungen seines *wesentlichen Inhalts* beraubt.
+
+  Les médecins utilisent une *substance* de contraste pour l'IRM.
+  Die Ärzte verwenden ein Kontrast*mittel* für das MRT.
+
+  Il faut mesurer la teneur en *substance* sèche de cet aliment.
+  Man muss den *Trockensubstanz*gehalt dieses Lebensmittels messen.
+
+  Cette *substance* corrosive peut endommager la peau.
+  Diese ätzende *Substanz* kann die Haut schädigen.
+
+  La *substance* P joue un rôle important dans la perception de la douleur.
+  Die *Substanz* P spielt eine wichtige Rolle bei der Schmerzwahrnehmung.
+
+  Ces champignons contiennent des *substances* hallucinogènes.
+  Diese Pilze enthalten halluzinogene *Substanzen*.
+
+  La *substance* éburnée protège l'intérieur de nos dents.
+  Das Zahn*bein* schützt das Innere unserer Zähne.
+
+  Les *substances* cancérigènes sont strictement réglementées.
+  Krebserregende *Substanzen* sind streng reguliert.
+
+  Cette exposition manque de *substance*.
+  Dieser Vortrag hat wenig *Gehalt*.
+
+  La *substance* noire est affectée dans la maladie de Parkinson.
+  Die schwarze *Substanz* ist bei der Parkinson-Krankheit betroffen.
+
+  Cette *substance* organique se décompose naturellement.
+  Diese organische *Substanz* zersetzt sich auf natürliche Weise.
+
+  Les *substances* médicamenteuses doivent être conservées au frais.
+  Arznei*stoffe* müssen kühl gelagert werden.
+
+  Certaines *substances* nocives peuvent traverser la barrière placentaire.
+  Bestimmte Schad*stoffe* können die Plazentaschranke durchdringen.
+
+  Cette huile essentielle contient des *substances* végétales pures.
+  Dieses ätherische Öl enthält reine pflanzliche *Substanzen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,20 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Celle-ci sera un centre d’excellence.
-  Diese wird ein Exzellenzzentrum sein.
+  Celle-ci sera un centre d'*excellence*.
+  Dies wird ein Zentrum der *Exzellenz* sein.
 
-  Notre entreprise vise l’excellence dans tous les domaines.
-  Unser Unternehmen strebt in allen Bereichen nach Spitzenleistungen.
+  L'*excellence* de ce vin rouge ne fait aucun doute.
+  Die *Vortrefflichkeit* dieses Rotweins steht außer Zweifel.
 
-  La cuisine de ce restaurant est réputée pour l'excellence de son goût.
-  Die Küche dieses Restaurants ist für ihren ausgezeichneten Geschmack bekannt.
+  Marie a reçu le prix d'*excellence* pour ses résultats exceptionnels.
+  Marie hat für ihre außergewöhnlichen Leistungen den *Exzellenz*preis erhalten.
 
-  Le château de Chambord est, par excellence, un exemple de l'architecture de la Renaissance.
-  Das Schloss Chambord ist par excellence ein Beispiel der Renaissance-Architektur.
+  Paris est la ville romantique par *excellence*.
+  Paris ist die romantische Stadt *schlechthin*.
 
-  L'âne est, par excellence, la bête de somme, capable de transporter des charges lourdes sur de longues distances.
-  Der Esel ist das klassische Lasttier, das schwere Lasten über lange Strecken transportieren kann.
+  Son *Excellence* l'ambassadeur de France prendra la parole.
+  Seine *Exzellenz*, der französische Botschafter, wird das Wort ergreifen.
+
+  Ce restaurant vise l'*excellence* dans chaque plat.
+  Dieses Restaurant strebt in jedem Gericht nach *Spitzenqualität*.
+
+  L'*excellence* de son caractère la rend très appréciée.
+  Ihre *hervorragende* Persönlichkeit macht sie sehr beliebt.
+
+  Je suis impressionné par l'*excellence* de son interprétation au piano.
+  Ich bin von der *Erstklassigkeit* ihrer Klavierinterpretation beeindruckt.
+
+  Mozart est le compositeur classique par *excellence*.
+  Mozart ist der klassische Komponist *schlechthin*.
+
+  "S'il plaît à Votre *Excellence*", dit le secrétaire en s'inclinant.
+  "Wenn es Eurer *Exzellenz* beliebt", sagte der Sekretär mit einer Verbeugung.
+
+  L'université poursuit sa tradition d'*excellence*.
+  Die Universität führt ihre Tradition der *Exzellenz* fort.
+
+  Cette école est reconnue pour son *excellence* académique.
+  Diese Schule ist für ihre akademische *Spitzenleistung* bekannt.
+
+  L'*excellence* de sa technique le distingue des autres athlètes.
+  Die *Vortrefflichkeit* seiner Technik hebt ihn von den anderen Athleten ab.
+
+  Le jury a souligné l'*excellence* de sa présentation.
+  Die Jury betonte die *herausragende Qualität* seines Vortrags.
+
+  Notre entreprise s'engage à maintenir l'*excellence* du service.
+  Unser Unternehmen verpflichtet sich zur Aufrechterhaltung *erstklassiger* Dienstleistungen.
+
+  Il a été prix d'*excellence* trois années de suite.
+  Er war drei Jahre in Folge *Jahrgangsbester*.
+
+  L'*excellence* de ses arguments a convaincu tout le monde.
+  Die *Vortrefflichkeit* seiner Argumente hat alle überzeugt.
+
+  Cette région est le terroir viticole par *excellence*.
+  Diese Region ist das Weinanbaugebiet *schlechthin*.
+
+  Son *Excellence* Monseigneur l'évêque assistera à la cérémonie.
+  Seine *Exzellenz* der Bischof wird der Zeremonie beiwohnen.
+
+  Cette méthode est reconnue pour son *excellence*.
+  Diese Methode ist für ihre *Überlegenheit* bekannt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

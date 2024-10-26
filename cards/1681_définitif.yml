@@ -13,17 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je n’ai pas pris de décision définitive à ce sujet.
-  Ich habe diesbezüglich noch keine endgültige Entscheidung getroffen.
+  Je n'ai pas pris de décision *définitive* à ce sujet.
+  Ich habe in dieser Sache noch keine *endgültige* Entscheidung getroffen.
 
-  C’est une décision définitive.
-  Das ist eine endgültige Entscheidung.
+  Le juge a rendu un jugement *définitif* dans cette affaire.
+  Der Richter hat in diesem Fall ein *rechtskräftiges* Urteil gefällt.
 
-  C'est du définitif, il n'y a plus de place pour le doute.
-  Das ist was Endgültiges, es gibt keinen Raum mehr für Zweifel.
+  Après trois mois d'essai, mon contrat est devenu *définitif*.
+  Nach drei Monaten Probezeit wurde mein Vertrag *fest*.
 
-  En définitive, il a choisi de rester.
-  Schließlich hat er sich entschieden zu bleiben.
+  "C'est du *définitif* entre nous maintenant !"
+  "Das ist jetzt was *Festes* zwischen uns!"
+
+  La rupture entre les deux pays semble *définitive*.
+  Der Bruch zwischen den beiden Ländern scheint *endgültig* zu sein.
+
+  En *définitive*, nous avons décidé de ne pas déménager.
+  *Letztendlich* haben wir beschlossen, nicht umzuziehen.
+
+  Cette victoire *définitive* a changé le cours de la guerre.
+  Dieser *entscheidende* Sieg hat den Verlauf des Krieges verändert.
+
+  Son argument était tellement *définitif* que personne n'a pu le contredire.
+  Sein Argument war so *überzeugend*, dass niemand ihm widersprechen konnte.
+
+  Les résultats *définitifs* seront publiés demain matin.
+  Die *endgültigen* Ergebnisse werden morgen früh veröffentlicht.
+
+  Voici la version *définitive* du document.
+  Hier ist die *finale* Version des Dokuments.
+
+  En *définitive*, qu'est-ce que tu en penses ?
+  Was denkst du nun *letztlich* darüber?
+
+  La solution *définitive* à ce problème n'existe pas encore.
+  Die *endgültige* Lösung für dieses Problem gibt es noch nicht.
+
+  Son refus *définitif* m'a vraiment surpris.
+  Seine *definitive* Absage hat mich wirklich überrascht.
+
+  Cette séparation est *définitive*, il n'y a plus d'espoir de réconciliation.
+  Diese Trennung ist *endgültig*, es gibt keine Hoffnung mehr auf Versöhnung.
+
+  C'est l'ouvrage *définitif* sur l'histoire de la Révolution française.
+  Das ist das *maßgebliche* Werk über die Geschichte der Französischen Revolution.
+
+  En passant du provisoire au *définitif*, nous avons gagné en efficacité.
+  Beim Übergang vom Vorläufigen zum *Endgültigen* haben wir an Effizienz gewonnen.
+
+  L'accord *définitif* sera signé la semaine prochaine.
+  Das *endgültige* Abkommen wird nächste Woche unterzeichnet.
+
+  Cette résolution *définitive* a été adoptée à l'unanimité.
+  Diese *endgültige* Resolution wurde einstimmig angenommen.
+
+  Son départ semble *définitif* cette fois-ci.
+  Sein Weggang scheint diesmal *endgültig* zu sein.
+
+  En *définitive*, nous devons accepter la situation telle qu'elle est.
+  *Letztlich* müssen wir die Situation so akzeptieren, wie sie ist.
+
+  Cette preuve *définitive* a convaincu même les plus sceptiques.
+  Dieser *schlüssige* Beweis hat selbst die größten Skeptiker überzeugt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

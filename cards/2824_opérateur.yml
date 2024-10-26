@@ -13,14 +13,68 @@ Register: ↘Fiktion ↗Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous ne pouvions même pas appeler une opératrice.
-  Wir konnten nicht einmal eine Telefonistin anrufen.
+  Nous ne pouvions même pas appeler une *opératrice*.
+  Wir konnten nicht einmal eine *Telefonistin* anrufen.
 
-  L’opérateur de la centrale nucléaire a détecté une anomalie.
-  Der Betreiber des Atomkraftwerks hat eine Anomalie festgestellt.
+  L'*opérateur* de la caméra a filmé une scène magnifique au coucher du soleil.
+  Der *Kameramann* hat eine wunderschöne Szene beim Sonnenuntergang gefilmt.
 
-  Un opérateur de téléphonie numérique mobile est une personne qui travaille pour un opérateur de téléphonie mobile.
-  Ein Mobilfunkanbieter ist ein Unternehmen, das Mobilfunkdienste anbietet.
+  Notre *opérateur* radio nous a informés d'une tempête qui approchait.
+  Unser *Funker* hat uns über einen aufziehenden Sturm informiert.
+
+  L'*opérateur* système a dû redémarrer tous les serveurs.
+  Der System*operator* musste alle Server neu starten.
+
+  Les *opérateurs* boursiers ont eu une journée très stressante aujourd'hui.
+  Die Börsen*makler* hatten heute einen sehr stressigen Tag.
+
+  En mathématiques, le signe plus est un *opérateur* d'addition.
+  In der Mathematik ist das Pluszeichen ein Additions*operator*.
+
+  Notre *opérateur* téléphonique propose de nouveaux forfaits ce mois-ci.
+  Unser Telefon*anbieter* bietet diesen Monat neue Tarife an.
+
+  L'*opérateur* de saisie travaille tard pour finir d'entrer toutes les données.
+  Der Daten*typist* arbeitet spät, um alle Daten einzugeben.
+
+  Le chef *opérateur* a reçu un prix pour son travail sur ce film.
+  Der Chef*kameramann* hat für seine Arbeit an diesem Film einen Preis erhalten.
+
+  Plusieurs *opérateurs* mobiles se disputent le marché français.
+  Mehrere Mobilfunk*anbieter* kämpfen um den französischen Markt.
+
+  Notre *opérateur* technique a rapidement résolu le problème.
+  Unser *Techniker* hat das Problem schnell gelöst.
+
+  L'*opérateur* a parfaitement cadré cette séquence difficile.
+  Der *Kameramann* hat diese schwierige Sequenz perfekt gefilmt.
+
+  Demain, un nouvel *opérateur* commencera sa formation.
+  Morgen beginnt ein neuer *Techniker* seine Ausbildung.
+
+  C'est un *opérateur* minier qui exploite ce gisement d'or.
+  Es ist ein Bergbau*betreiber*, der diese Goldlagerstätte abbaut.
+
+  Les *opérateurs* de télécommunications investissent dans la 5G.
+  Die Telekommunikations*betreiber* investieren in 5G.
+
+  L'*opérateur* a vérifié tous les paramètres de la machine.
+  Der *Techniker* hat alle Maschinenparameter überprüft.
+
+  Cet *opérateur* financier gère des millions d'euros.
+  Dieser Finanz*makler* verwaltet Millionen von Euro.
+
+  L'ancien *opérateur* a pris sa retraite après trente ans de service.
+  Der alte *Techniker* ist nach dreißig Dienstjahren in den Ruhestand gegangen.
+
+  Notre *opérateur* de maintenance inspecte l'équipement chaque matin.
+  Unser Wartungs*techniker* überprüft jeden Morgen die Ausrüstung.
+
+  L'*opérateur* radio a capté un signal de détresse.
+  Der *Funker* hat ein Notsignal empfangen.
+
+  Une nouvelle *opératrice* rejoint notre équipe lundi prochain.
+  Eine neue *Technikerin* kommt nächsten Montag in unser Team.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

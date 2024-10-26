@@ -13,11 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le ciel est complètement couvert.
-  Der Himmel ist völlig bedeckt.
+  Le ciel est *complètement* couvert.
+  Der Himmel ist *völlig* bedeckt.
 
-  Je suis complètement épuisé.
-  Ich bin völlig erschöpft.
+  Il a *complètement* oublié notre rendez-vous.
+  Er hat unser Treffen *vollständig* vergessen.
+
+  La batterie de mon téléphone est *complètement* vide.
+  Der Akku meines Handys ist *komplett* leer.
+
+  Elle a *complètement* changé depuis son voyage.
+  Sie hat sich seit ihrer Reise *vollkommen* verändert.
+
+  "Tu es *complètement* fou de sortir par ce temps !"
+  "Du bist ja *völlig* verrückt, bei diesem Wetter rauszugehen!"
+
+  J'ai lu ce livre *complètement* en une journée.
+  Ich habe dieses Buch an einem Tag *ganz* durchgelesen.
+
+  Le nouveau système a *complètement* transformé notre façon de travailler.
+  Das neue System hat unsere Arbeitsweise *komplett* verändert.
+
+  Cette méthode a *complètement* échoué.
+  Diese Methode ist *vollständig* gescheitert.
+
+  Je suis *complètement* d'accord avec toi.
+  Ich stimme dir *völlig* zu.
+
+  La ville a été *complètement* reconstruite après la guerre.
+  Die Stadt wurde nach dem Krieg *vollständig* wiederaufgebaut.
+
+  Il fait *complètement* confiance à son équipe.
+  Er vertraut seinem Team *vollkommen*.
+
+  La situation est *complètement* différente maintenant.
+  Die Situation ist jetzt *ganz* anders.
+
+  Je me sens *complètement* épuisé après cette journée.
+  Ich fühle mich nach diesem Tag *völlig* erschöpft.
+
+  Elle maîtrise *complètement* le sujet.
+  Sie beherrscht das Thema *vollständig*.
+
+  Le problème est *complètement* résolu.
+  Das Problem ist *komplett* gelöst.
+
+  Cette idée est *complètement* absurde.
+  Diese Idee ist *völlig* absurd.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

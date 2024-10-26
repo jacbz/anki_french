@@ -13,26 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il parcourut son courrier.
-  Er ging seine Post durch.
+  Il *parcourut* son courrier.
+  Er *überflog* seine Post.
 
-  Nous avons parcouru la ville à pied.
-  Wir sind zu Fuß durch die Stadt gelaufen.
+  Nous avons *parcouru* plus de 300 kilomètres aujourd'hui.
+  Wir haben heute über 300 Kilometer *zurückgelegt*.
 
-  La distance parcourue pendant le voyage était de 500 kilomètres.
-  Die zurückgelegte Entfernung während der Reise betrug 500 Kilometer.
+  Les touristes *parcourent* le centre historique de Paris.
+  Die Touristen *durchlaufen* das historische Zentrum von Paris.
 
-  Ils ont parcouru la région pendant plusieurs jours, visitant des villages et des sites historiques.
-  Sie haben die Region über mehrere Tage hinweg bereist und dabei Dörfer und historische Stätten besucht.
+  Marie *parcourt* rapidement l'article avant de refermer le journal.
+  Marie *überfliegt* den Artikel, bevor sie die Zeitung schließt.
 
-  Leur regard parcourut l'étendue du désert, fascinés par son immensité.
-  Ihr Blick schweifte über die Weite der Wüste, fasziniert von ihrer Unendlichkeit.
+  Un frisson glacé *parcourut* son corps.
+  Ein eisiger Schauer *durchlief* seinen Körper.
 
-  Un frisson parcourut son échine alors qu'il entendit le bruit étrange dans la forêt.
-  Ein Schauer lief ihm über den Rücken, als er das seltsame Geräusch im Wald hörte.
+  Elle *parcourt* la banque de données à la recherche d'informations.
+  Sie *durchsucht* die Datenbank nach Informationen.
 
-  Il parcourut l'île du nord au sud, s'arrêtant dans chaque village pour parler aux habitants.
-  Er wanderte die Insel von Norden nach Süden entlang und hielt in jedem Dorf an, um mit den Bewohnern zu sprechen.
+  Le petit ruisseau *parcourt* paisiblement la vallée.
+  Der kleine Bach *fließt* friedlich durch das Tal.
+
+  Les randonneurs ont *parcouru* toute l'île à pied.
+  Die Wanderer haben die ganze Insel *erwandert*.
+
+  Ses yeux *parcouraient* la foule à la recherche de son ami.
+  Seine Augen *schweiften* über die Menge auf der Suche nach seinem Freund.
+
+  Le navire a *parcouru* toutes les mers du globe.
+  Das Schiff ist über alle Meere der Welt *gekreuzt*.
+
+  J'ai *parcouru* la ville en long et en large pour te trouver.
+  Ich bin *kreuz und quer* durch die Stadt gelaufen, um dich zu finden.
+
+  Le vétérinaire *parcourt* la région pour soigner les animaux.
+  Der Tierarzt *bereist* die Region, um die Tiere zu behandeln.
+
+  Elle *parcourut* rapidement ses notes avant l'examen.
+  Sie *überflog* ihre Notizen vor der Prüfung.
+
+  Une vive douleur *parcourut* son bras.
+  Ein scharfer Schmerz *durchfuhr* seinen Arm.
+
+  Nous devons encore *parcourir* vingt kilomètres avant d'arriver.
+  Wir müssen noch zwanzig Kilometer *zurücklegen*, bevor wir ankommen.
+
+  Son regard *parcourut* l'horizon à la recherche d'un abri.
+  Sein Blick *schweifte* über den Horizont auf der Suche nach einem Unterschlupf.
+
+  Les scientifiques *parcourent* la forêt pour étudier les espèces rares.
+  Die Wissenschaftler *durchstreifen* den Wald, um seltene Arten zu studieren.
+
+  Il a *parcouru* mentalement toutes les possibilités.
+  Er hat alle Möglichkeiten im Geiste *durchgegangen*.
+
+  L'avion *parcourt* le ciel nocturne.
+  Das Flugzeug *durchfliegt* den Nachthimmel.
+
+  Je *parcours* ce livre depuis ce matin.
+  Ich *überfliege* dieses Buch seit heute Morgen.
+
+  Les marcheurs ont *parcouru* tout le sentier en une journée.
+  Die Wanderer haben den ganzen Pfad an einem Tag *zurückgelegt*.
+
+  Un murmure *parcourut* l'assemblée.
+  Ein Raunen *ging durch* die Versammlung.
+
+  Nous avons *parcouru* l'Europe en train.
+  Wir haben Europa mit dem Zug *bereist*.
+
+  Elle *parcourt* du regard la lettre une dernière fois.
+  Sie lässt ihren Blick ein letztes Mal über den Brief *schweifen*.
+
+  Le guide nous fait *parcourir* les ruelles anciennes.
+  Der Führer lässt uns durch die alten Gassen *laufen*.
+
+  L'explorateur a *parcouru* le désert pendant des mois.
+  Der Entdecker ist monatelang durch die Wüste *gereist*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

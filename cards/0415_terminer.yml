@@ -13,62 +13,149 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Va terminer ton petit déjeuner.
-  Geh und beende dein Frühstück.
+  Va *terminer* ton petit déjeuner.
+  *Iss* dein Frühstück *auf*.
 
-  Je vais terminer mon travail demain.
-  Ich werde meine Arbeit morgen beenden.
+  Je dois *terminer* mon devoir de mathématiques avant ce soir.
+  Ich muss meine Matheaufgaben vor heute Abend *beenden*.
 
-  Nous sommes ici pour terminer le travail.
-  Wir sind hier, um die Arbeit zu beenden.
+  Laisse-moi *terminer* ma phrase, s'il te plaît.
+  Lass mich bitte meinen Satz *beenden*.
 
-  Il est de ton devoir de terminer ce boulot.
-  Es ist deine Pflicht, diesen Job zu beenden.
+  Le concert s'est *terminé* dans le calme.
+  Das Konzert ist ruhig *ausgeklungen*.
 
-  J'ai terminé la vaisselle, je peux enfin me détendre.
-  Ich bin mit dem Spülen fertig, jetzt kann ich endlich entspannen.
+  Cette histoire se *termine* mal.
+  Diese Geschichte geht schlecht *aus*.
 
-  Il a terminé le ménage et a rangé tout ce qui traînait.
-  Er hat mit dem Saubermachen fertig und alles weggeräumt, was herumlag.
+  Pour *terminer* la soirée, nous avons bu un dernier verre.
+  Zum *Abschluss* des Abends haben wir noch einen letzten Drink genommen.
 
-  Elle a terminé de lire le journal et s'est levée pour aller faire un tour.
-  Sie hat die Zeitung zu Ende gelesen und ist aufgestanden, um einen Spaziergang zu machen.
+  Il faut *terminer* cette bouteille de vin.
+  Wir müssen diese Weinflasche *austrinken*.
 
-  La réunion s'est terminée tard dans la nuit, après de longues discussions.
-  Die Sitzung endete spät in der Nacht, nach langen Diskussionen.
+  As-tu *terminé* de lire le journal ?
+  Bist du *fertig* mit dem Zeitunglesen?
 
-  Le spectacle s'est terminé dans la confusion, avec des cris et des applaudissements.
-  Die Show endete im Chaos, mit Schreien und Applaus.
+  La réunion s'est *terminée* plus tôt que prévu.
+  Die Besprechung hat früher *geendet* als geplant.
 
-  Le concert s'est terminé par des chansons entraînantes qui ont fait danser tout le monde.
-  Das Konzert endete mit mitreißenden Liedern, die alle zum Tanzen brachten.
+  J'ai presque *terminé* mon assiette.
+  Ich habe meinen Teller fast *leer gegessen*.
 
-  On a terminé la soirée chez un ami, où nous avons joué aux cartes et ri jusqu'à tard.
-  Zum Abschluss des Abends sind wir zu einem Freund gegangen, wo wir Karten gespielt und bis spät in die Nacht gelacht haben.
+  Elle a *terminé* ses études l'année dernière.
+  Sie hat ihr Studium letztes Jahr *abgeschlossen*.
 
-  On a terminé la soirée par des chansons, chacun a chanté son morceau préféré.
-  Zum Abschluss des Abends haben wir gesungen, jeder hat sein Lieblingslied gesungen.
+  Le chemin se *termine* au bord du lac.
+  Der Weg *endet* am Seeufer.
 
-  Laissez-moi terminer mon histoire, elle est presque finie.
-  Lasst mich meine Geschichte zu Ende erzählen, sie ist fast fertig.
+  As-tu *terminé* avec l'ordinateur ?
+  Bist du mit dem Computer *fertig*?
 
-  Mes devoirs sont terminés, je peux enfin aller jouer.
-  Ich bin mit meinen Hausaufgaben fertig, jetzt kann ich endlich spielen gehen.
+  La fête s'est *terminée* par un feu d'artifice.
+  Das Fest hat mit einem Feuerwerk *geendet*.
 
-  J'ai terminé de faire l'exercice, je me sens maintenant beaucoup mieux.
-  Ich bin mit der Übung fertig, jetzt fühle ich mich viel besser.
+  Nous avons *terminé* la journée chez des amis.
+  Wir haben den Tag bei Freunden *beendet*.
 
-  Il a décidé d'en terminer avec ce sujet, il en a assez.
-  Er hat beschlossen, dieses Thema zu beenden, er hat genug davon.
+  Je viens de *terminer* mon rapport.
+  Ich bin gerade mit meinem Bericht *fertig* geworden.
 
-  Elle a terminé avec cette tâche, elle peut maintenant passer à la suivante.
-  Sie ist mit dieser Aufgabe fertig, jetzt kann sie zur nächsten übergehen.
+  Le mot "heureux" se *termine* par un x.
+  Das Wort "heureux" *endet* mit einem x.
 
-  J'ai terminé avec ce livre, il est temps de passer à un autre.
-  Ich bin mit diesem Buch fertig, es ist Zeit, zu einem anderen zu greifen.
+  Elle *termine* toujours ce qu'elle commence.
+  Sie *beendet* immer, was sie anfängt.
 
-  Pour terminer, je voudrais remercier tous ceux qui ont participé à ce projet.
-  Zum Abschluss möchte ich mich bei allen bedanken, die an diesem Projekt mitgewirkt haben.
+  La tour se *termine* en pointe.
+  Der Turm *läuft* in einer Spitze *zu*.
+
+  Cette histoire se *termine* en queue de poisson.
+  Diese Geschichte *endet* im Sande.
+
+  J'ai enfin *terminé* le ménage !
+  Ich bin endlich mit dem Putzen *fertig*!
+
+  Le stage se *termine* la semaine prochaine.
+  Das Praktikum *geht* nächste Woche *zu Ende*.
+
+  Il faut *terminer* ce projet avant vendredi.
+  Wir müssen dieses Projekt vor Freitag *abschließen*.
+
+  As-tu *terminé* de ranger ta chambre ?
+  Bist du mit dem Aufräumen deines Zimmers *fertig*?
+
+  La saison théâtrale se *termine* en juin.
+  Die Theatersaison *geht* im Juni *zu Ende*.
+
+  Je *termine* mon contrat le mois prochain.
+  Ich *beende* meinen Vertrag nächsten Monat.
+
+  Les vacances se sont *terminées* trop vite.
+  Die Ferien sind zu schnell *zu Ende gegangen*.
+
+  Il faut *terminer* cette discussion maintenant.
+  Wir müssen diese Diskussion jetzt *beenden*.
+
+  Nous avons *terminé* la soirée en chantant.
+  Wir haben den Abend mit Singen *beendet*.
+
+  L'artiste a enfin *terminé* son tableau.
+  Der Künstler hat sein Gemälde endlich *fertiggestellt*.
+
+  Ça va mal se *terminer* si tu continues ainsi.
+  Das wird böse *enden*, wenn du so weitermachst.
+
+  Je *termine* dans cinq minutes.
+  Ich bin in fünf Minuten *fertig*.
+
+  La route se *termine* brusquement.
+  Die Straße *endet* abrupt.
+
+  Les ouvriers ont *terminé* plus tôt aujourd'hui.
+  Die Arbeiter haben heute früher *Feierabend gemacht*.
+
+  Pour *terminer*, j'aimerais remercier tout le monde.
+  Zum *Abschluss* möchte ich allen danken.
+
+  Il a *terminé* son verre d'un trait.
+  Er hat sein Glas in einem Zug *ausgetrunken*.
+
+  Le prisonnier *termine* sa peine demain.
+  Der Gefangene *beendet* morgen seine Strafe.
+
+  L'exposition se *termine* dimanche.
+  Die Ausstellung *endet* am Sonntag.
+
+  As-tu *terminé* ta salade ?
+  Hast du deinen Salat *aufgegessen*?
+
+  Cette série se *termine* par un index.
+  Diese Reihe *schließt* mit einem Index *ab*.
+
+  Je *terminerai* ce livre ce soir.
+  Ich werde dieses Buch heute Abend *zu Ende lesen*.
+
+  Nous avons *terminé* la réunion à midi.
+  Wir haben die Besprechung um zwölf *beendet*.
+
+  La conférence s'est *terminée* dans la confusion.
+  Die Konferenz *endete* im Chaos.
+
+  Elle *termine* toujours ses phrases par un sourire.
+  Sie *beendet* ihre Sätze immer mit einem Lächeln.
+
+  J'en ai *terminé* avec ce chapitre.
+  Ich bin mit diesem Kapitel *fertig*.
+
+  Le spectacle s'est *terminé* tard dans la nuit.
+  Die Show hat spät in der Nacht *geendet*.
+
+  Quand *termines*-tu ton travail aujourd'hui ?
+  Wann *machst* du heute *Feierabend*?
+
+  Les travaux se *termineront* au printemps.
+  Die Bauarbeiten werden im Frühling *abgeschlossen* sein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

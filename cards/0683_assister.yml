@@ -13,29 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il assista à la dernière répétition.
-  Er nahm an der letzten Probe teil.
+  Il *assista* à la dernière répétition.
+  Er war bei der letzten Probe *anwesend*.
 
-  Je vais assister à la réunion.
-  Ich werde an der Sitzung teilnehmen.
+  Plus de 200 personnes ont *assisté* au concert de jazz hier soir.
+  Über 200 Menschen haben gestern Abend dem Jazz-Konzert *beigewohnt*.
 
-  Jean a assisté à un concert de musique classique, qui lui a beaucoup plu.
-  Jean hat an einem Konzert mit klassischer Musik teilgenommen, das ihm sehr gefallen hat.
+  "Je ne peux pas *assister* au mariage, je travaille ce jour-là."
+  "Ich kann bei der Hochzeit nicht *dabei sein*, ich arbeite an dem Tag."
 
-  Marie a assisté son père dans ses travaux de jardinage.
-  Marie hat ihrem Vater bei seinen Gartenarbeiten assistiert.
+  Les médias *assistent* impuissants à la montée des tensions.
+  Die Medien *erleben* hilflos die steigende Spannung *mit*.
 
-  Le médecin a assisté un mourant dans ses derniers moments.
-  Der Arzt hat einem Sterbenden in seinen letzten Momenten beigestanden.
+  Le professeur *assistera* les étudiants dans leurs recherches.
+  Der Professor wird die Studenten bei ihrer Forschung *unterstützen*.
 
-  L'avocat a assisté le suspect d'office, car celui-ci n'avait pas les moyens de se payer un avocat.
-  Der Anwalt hat die Pflichtverteidigung des Verdächtigen übernommen, da dieser sich keinen Anwalt leisten konnte.
+  L'infirmière *assiste* le chirurgien pendant l'opération.
+  Die Krankenschwester *assistiert* dem Chirurgen während der Operation.
 
-  La scène a eu lieu en présence de plusieurs témoins, assistés de policiers.
-  Die Szene hat sich im Beisein von mehreren Zeugen ereignet, die von Polizisten begleitet wurden.
+  Le prêtre *assistait* le mourant dans ses derniers moments.
+  Der Priester *stand* dem Sterbenden in seinen letzten Momenten *bei*.
 
-  Le patient a été opéré avec succès, assisté par une équipe médicale expérimentée.
-  Der Patient wurde erfolgreich operiert, wobei er von einem erfahrenen Ärzteteam unterstützt wurde.
+  Elle *assiste* régulièrement aux réunions du conseil municipal.
+  Sie *nimmt* regelmäßig an den Gemeinderatssitzungen *teil*.
+
+  J'ai dû *assister* à une longue présentation ce matin.
+  Ich musste mir heute Morgen eine lange Präsentation *ansehen*.
+
+  Marie *assistait* sa grand-mère dans les tâches ménagères.
+  Marie *half* ihrer Großmutter bei den Hausarbeiten.
+
+  Les secouristes *assistent* les victimes de l'inondation.
+  Die Rettungskräfte *helfen* den Opfern der Überschwemmung.
+
+  Nous avons *assisté* à un magnifique coucher de soleil.
+  Wir haben einen wunderschönen Sonnenuntergang *miterlebt*.
+
+  L'avocat *assiste* son client pendant l'interrogatoire.
+  Der Anwalt *steht* seinem Mandanten während des Verhörs *bei*.
+
+  Les étudiants doivent *assister* à tous les cours.
+  Die Studenten müssen an allen Vorlesungen *teilnehmen*.
+
+  Le public *assistait* fasciné au spectacle de magie.
+  Das Publikum *sah* sich fasziniert die Zaubershow *an*.
+
+  Paul *assiste* sa femme dans la gestion de l'entreprise.
+  Paul *unterstützt* seine Frau bei der Unternehmensführung.
+
+  Nous *assistons* à une révolution technologique.
+  Wir *erleben* eine technologische Revolution *mit*.
+
+  Les bénévoles *assistent* les personnes âgées.
+  Die Freiwilligen *helfen* den älteren Menschen.
+
+  Elle *assiste* aux répétitions de l'orchestre chaque semaine.
+  Sie *wohnt* jede Woche den Orchesterproben *bei*.
+
+  Le stagiaire *assiste* le chef cuisinier dans la préparation des plats.
+  Der Praktikant *assistiert* dem Küchenchef bei der Zubereitung der Gerichte.
+
+  Les pompiers ont *assisté* les habitants pendant l'évacuation.
+  Die Feuerwehrleute haben die Bewohner während der Evakuierung *unterstützt*.
+
+  J'ai *assisté* à un débat passionnant hier soir.
+  Ich habe gestern Abend einer spannenden Debatte *beigewohnt*.
+
+  Le médecin *assistera* à la conférence médicale.
+  Der Arzt wird an der medizinischen Konferenz *teilnehmen*.
+
+  Les journalistes ont *assisté* à la conférence de presse.
+  Die Journalisten haben der Pressekonferenz *beigewohnt*.
+
+  Les parents *assistent* leurs enfants dans leurs devoirs.
+  Die Eltern *helfen* ihren Kindern bei den Hausaufgaben.
+
+  Le psychologue *assiste* les familles en difficulté.
+  Der Psychologe *unterstützt* Familien in Schwierigkeiten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

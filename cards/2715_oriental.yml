@@ -13,11 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il portait de somptueux vêtements orientaux.
-  Er trug prächtige orientalische Kleidung.
+  Il portait de somptueux vêtements *orientaux*.
+  Er trug prächtige *orientalische* Kleidung.
 
-  La cuisine orientale est très épicée.
-  Die orientalische Küche ist sehr würzig.
+  La partie *orientale* du pays est plus montagneuse que l'ouest.
+  Der *östliche* Teil des Landes ist bergiger als der Westen.
+
+  Le restaurant sert une cuisine *orientale* authentique.
+  Das Restaurant serviert authentische *orientalische* Küche.
+
+  Les étudiants apprennent plusieurs langues *orientales* à l'université.
+  Die Studenten lernen an der Universität verschiedene *orientalische* Sprachen.
+
+  La côte *orientale* de l'île attire beaucoup de touristes.
+  Die *Ost*küste der Insel zieht viele Touristen an.
+
+  Ces tapis *orientaux* sont faits à la main.
+  Diese *orientalischen* Teppiche sind handgefertigt.
+
+  Le versant *oriental* des Alpes reçoit plus de neige.
+  Der *östliche* Hang der Alpen bekommt mehr Schnee.
+
+  Elle décore sa maison dans un style *oriental*.
+  Sie dekoriert ihr Haus in *orientalischem* Stil.
+
+  La frontière *orientale* sera fermée pendant une semaine.
+  Die *Ost*grenze wird eine Woche lang geschlossen sein.
+
+  Cette musique *orientale* me rappelle mes vacances.
+  Diese *orientalische* Musik erinnert mich an meinen Urlaub.
+
+  Le bassin *oriental* de la Méditerranée est plus profond.
+  Das *östliche* Becken des Mittelmeers ist tiefer.
+
+  Les contes *orientaux* ont toujours fasciné les enfants.
+  *Orientalische* Märchen haben Kinder schon immer fasziniert.
+
+  Un parfum aux notes *orientales* embaumait la pièce.
+  Ein Parfüm mit *orientalischen* Noten durchströmte den Raum.
+
+  La rive *orientale* du fleuve est moins peuplée.
+  Das *östliche* Flussufer ist weniger besiedelt.
+
+  Les marchands *orientaux* vendaient des épices rares.
+  Die *orientalischen* Händler verkauften seltene Gewürze.
+
+  Le temple se trouve sur la colline *orientale*.
+  Der Tempel befindet sich auf dem *östlichen* Hügel.
+
+  Cette danse *orientale* demande beaucoup de pratique.
+  Dieser *orientalische* Tanz erfordert viel Übung.
+
+  Les peuples *orientaux* ont développé leur propre calendrier.
+  Die *orientalischen* Völker haben ihren eigenen Kalender entwickelt.
+
+  Le luxe *oriental* du palais impressionnait les visiteurs.
+  Der *orientalische* Luxus des Palastes beeindruckte die Besucher.
+
+  La philosophie *orientale* influence de plus en plus l'Occident.
+  Die *orientalische* Philosophie beeinflusst den Westen immer mehr.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

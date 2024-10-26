@@ -13,23 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cela incitera les compagnies à poursuivre leurs recherches.
-  Dies wird die Unternehmen dazu anregen, ihre Forschung fortzusetzen.
+  Cela *incitera* les compagnies à poursuivre leurs recherches.
+  Das wird die Unternehmen zur Fortsetzung ihrer Forschung *anregen*.
 
-  Il faut inciter les gens à voter.
-  Die Leute müssen ermutigt werden, zu wählen.
+  Cette publicité *incite* les clients à acheter plus qu'ils ne le souhaitent.
+  Diese Werbung *verführt* die Kunden dazu, mehr zu kaufen als sie möchten.
 
-  Le discours du maire a incité les citoyens à l'action pour lutter contre la pollution.
-  Die Rede des Bürgermeisters hat die Bürger zum Handeln ermuntert, um gegen die Umweltverschmutzung zu kämpfen.
+  Sa réponse évasive m'*incite* à la méfiance.
+  Seine ausweichende Antwort *flößt* mir Misstrauen *ein*.
 
-  Le nouveau modèle de voiture a incité beaucoup de gens à l'achat.
-  Das neue Automodell hat viele Leute zum Kaufen verführt.
+  Le gouvernement *incite* les citoyens à économiser l'énergie.
+  Die Regierung *ermuntert* die Bürger zum Energiesparen.
 
-  Les nouvelles mesures fiscales incitent à l'investissement dans les énergies renouvelables.
-  Die neuen Steuermaßnahmen schaffen Investitionsanreize für erneuerbare Energien.
+  Les bonnes notes *incitent* Marie à travailler encore plus dur.
+  Die guten Noten *spornen* Marie dazu an, noch härter zu arbeiten.
 
-  Le comportement suspect du voisin a incité Marie à la méfiance.
-  Das verdächtige Verhalten des Nachbarn hat Marie Misstrauen eingeflößt.
+  Son comportement étrange m'*incite* à penser qu'il cache quelque chose.
+  Sein seltsames Verhalten *bringt* mich auf den Gedanken, dass er etwas verheimlicht.
+
+  Les parents devraient *inciter* leurs enfants à la prudence sur internet.
+  Eltern sollten ihre Kinder zu vorsichtigem Verhalten im Internet *animieren*.
+
+  La première page de ce roman m'*incite* à continuer la lecture.
+  Die erste Seite dieses Romans *regt* mich dazu an, weiterzulesen.
+
+  Ces nouvelles mesures *incitent* à l'investissement dans les énergies renouvelables.
+  Diese neuen Maßnahmen schaffen *Anreize* für Investitionen in erneuerbare Energien.
+
+  Son exemple positif *incite* les autres à bien faire.
+  Sein positives Beispiel *motiviert* andere dazu, es ihm gleichzutun.
+
+  Le professeur *incite* ses élèves à la réflexion critique.
+  Der Lehrer *regt* seine Schüler zum kritischen Denken *an*.
+
+  Cette ambiance chaleureuse *incite* à la conversation.
+  Diese warme Atmosphäre *lädt* zum Gespräch *ein*.
+
+  Les résultats prometteurs nous *incitent* à poursuivre le projet.
+  Die vielversprechenden Ergebnisse *bewegen* uns dazu, das Projekt fortzusetzen.
+
+  Ce succès initial devrait vous *inciter* à persévérer.
+  Dieser erste Erfolg sollte Sie zum Weitermachen *ermutigen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

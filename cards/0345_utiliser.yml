@@ -13,23 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il utilisait une sorte de rasoir.
-  Er benutzte eine Art Rasiermesser.
+  Il *utilisait* une sorte de rasoir.
+  Er *benutzte* eine Art Rasierer.
 
-  Je vais utiliser ce couteau pour couper la viande.
-  Ich werde dieses Messer benutzen, um das Fleisch zu schneiden.
+  Pour faire ce gâteau, il faut *utiliser* du beurre et des œufs frais.
+  Für diesen Kuchen muss man frische Butter und Eier *verwenden*.
 
-  Je sais comment utiliser ça.
-  Ich weiß, wie man das benutzt.
+  Comment *utilises*-tu ton nouveau smartphone ?
+  Wie *benutzt* du dein neues Smartphone?
 
-  Puis-je utiliser votre voiture pour un petit moment?
-  Kann ich Ihr Auto für eine kurze Zeit benutzen?
+  Nous *utiliserons* les transports en commun pour aller au travail.
+  Wir werden öffentliche Verkehrsmittel *nutzen*, um zur Arbeit zu kommen.
 
-  J'utilise du beurre pour faire cuire mes gâteaux, car il donne un meilleur goût.
-  Ich verwende Butter zum Backen meiner Kuchen, weil sie ihnen einen besseren Geschmack verleiht.
+  Elle *utilise* ses talents artistiques pour gagner sa vie.
+  Sie *setzt* ihre künstlerischen Fähigkeiten ein, um ihren Lebensunterhalt zu verdienen.
 
-  Jean utilise son droit de vote pour exprimer ses opinions politiques.
-  Jean macht von seinem Wahlrecht Gebrauch, um seine politischen Ansichten zu äußern.
+  Les étudiants doivent *utiliser* un dictionnaire pendant l'examen.
+  Die Studenten müssen während der Prüfung ein Wörterbuch *benutzen*.
+
+  J'ai décidé d'*utiliser* mon droit de vote cette année.
+  Ich habe beschlossen, dieses Jahr von meinem Wahlrecht *Gebrauch* zu machen.
+
+  Pierre *utilise* toujours les bonnes expressions en français.
+  Pierre *gebraucht* immer die richtigen Ausdrücke auf Französisch.
+
+  Je préfère *utiliser* l'huile d'olive pour la cuisine méditerranéenne.
+  Ich *verwende* für mediterrane Gerichte lieber Olivenöl.
+
+  Marie *utilise* ses relations pour trouver un meilleur emploi.
+  Marie *nutzt* ihre Beziehungen, um einen besseren Job zu finden.
+
+  Nous devons *utiliser* nos ressources avec précaution.
+  Wir müssen mit unseren Ressourcen vorsichtig *umgehen*.
+
+  Il *utilise* l'avion pour ses déplacements professionnels.
+  Er *nutzt* das Flugzeug für seine Geschäftsreisen.
+
+  Cette entreprise *utilise* des méthodes modernes de production.
+  Dieses Unternehmen *verwendet* moderne Produktionsmethoden.
+
+  Comment peut-on *utiliser* les restes du repas d'hier ?
+  Wie können wir die Reste vom gestrigen Essen *verwerten*?
+
+  Les scientifiques *utilisent* des microscopes très puissants.
+  Die Wissenschaftler *benutzen* sehr leistungsstarke Mikroskope.
+
+  Nous *utilisons* l'eau de pluie pour arroser le jardin.
+  Wir *nutzen* Regenwasser zum Gießen des Gartens.
+
+  Le professeur nous a appris à *utiliser* cette formule mathématique.
+  Der Lehrer hat uns beigebracht, diese mathematische Formel *anzuwenden*.
+
+  Elle *utilise* son temps libre pour apprendre le piano.
+  Sie *nutzt* ihre Freizeit, um Klavier zu lernen.
+
+  Les enfants ont *utilisé* toute la peinture pour leur projet d'art.
+  Die Kinder haben die ganze Farbe für ihr Kunstprojekt *verbraucht*.
+
+  Mon grand-père *utilise* encore son ancien appareil photo.
+  Mein Großvater *benutzt* noch seine alte Kamera.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

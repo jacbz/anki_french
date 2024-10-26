@@ -13,26 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La station spatiale internationale n’a aucun rôle militaire.
-  Die Internationale Raumstation hat keine militärische Funktion.
+  La *spatiale* internationale n'a aucun rôle militaire.
+  Die internationale *Raum*station hat keine militärische Rolle.
 
-  La perception spatiale est importante pour les pilotes.
-  Räumliches Verständnis ist wichtig für Piloten.
+  L'étude de l'orientation *spatiale* est cruciale en psychologie cognitive.
+  Die Erforschung der *räumlichen* Orientierung ist zentral in der kognitiven Psychologie.
 
-  Les catégories temporelles et spatiales sont des concepts fondamentaux de la pensée humaine.
-  Die Kategorien Zeit und Raum sind grundlegende Konzepte des menschlichen Denkens.
+  Les astronautes doivent s'adapter aux conditions *spatiales* extrêmes.
+  Die Astronauten müssen sich an die extremen *Raum*bedingungen anpassen.
 
-  Un engin spatial est un véhicule conçu pour voyager dans l'espace.
-  Ein Raumflugkörper ist ein Fahrzeug, das für Reisen im Weltraum konzipiert ist.
+  La mission *spatiale* vers Mars durera environ sept mois.
+  Die *Raum*mission zum Mars wird ungefähr sieben Monate dauern.
 
-  La médecine spatiale est une branche de la médecine qui traite des effets de l'espace sur le corps humain.
-  Die Raumflugmedizin ist ein Zweig der Medizin, der sich mit den Auswirkungen des Weltraums auf den menschlichen Körper befasst.
+  Cette nouvelle technologie améliore notre perception *spatiale*.
+  Diese neue Technologie verbessert unsere *räumliche* Wahrnehmung.
 
-  Un vol spatial est une mission qui implique un voyage dans l'espace.
-  Ein Raumfahrtunternehmen ist eine Mission, die eine Reise ins All beinhaltet.
+  La sonde *spatiale* Voyager a quitté notre système solaire.
+  Die *Raum*sonde Voyager hat unser Sonnensystem verlassen.
 
-  Un voyage spatial est une exploration de l'espace.
-  Raumfahrt ist eine Erkundung des Weltraums.
+  Les dimensions *spatiales* et temporelles sont étroitement liées.
+  Die *räumlichen* und zeitlichen Dimensionen sind eng miteinander verbunden.
+
+  Le centre de recherche *spatiale* recrute de nouveaux ingénieurs.
+  Das *Raum*forschungszentrum stellt neue Ingenieure ein.
+
+  La navette *spatiale* transportera six astronautes.
+  Das *Raum*shuttle wird sechs Astronauten transportieren.
+
+  L'agence *spatiale* européenne a lancé un nouveau satellite.
+  Die europäische *Raum*fahrtbehörde hat einen neuen Satelliten gestartet.
+
+  Les débris *spatiaux* représentent un danger croissant.
+  *Raum*schrott stellt eine wachsende Gefahr dar.
+
+  Cette capsule *spatiale* a été récupérée dans l'océan Pacifique.
+  Diese *Raum*kapsel wurde im Pazifischen Ozean geborgen.
+
+  La répartition *spatiale* des espèces varie selon le climat.
+  Die *räumliche* Verteilung der Arten variiert je nach Klima.
+
+  Le vaisseau *spatial* a atteint son orbite prévue.
+  Das *Raum*schiff hat seine geplante Umlaufbahn erreicht.
+
+  La conquête *spatiale* a commencé avec Spoutnik en 1957.
+  Die *Raum*fahrt begann 1957 mit Sputnik.
+
+  Les coordonnées *spatiales* définissent la position exacte d'un objet.
+  Die *räumlichen* Koordinaten bestimmen die genaue Position eines Objekts.
+
+  L'industrie *spatiale* crée de nombreux emplois qualifiés.
+  Die *Raum*fahrtindustrie schafft viele qualifizierte Arbeitsplätze.
+
+  La course *spatiale* entre les superpuissances s'est intensifiée.
+  Der *Raum*fahrtwettlauf zwischen den Supermächten verschärfte sich.
+
+  Le télescope *spatial* Hubble nous envoie des images fascinantes.
+  Das *Raum*teleskop Hubble sendet uns faszinierende Bilder.
+
+  Les communications *spatiales* nécessitent des technologies sophistiquées.
+  *Raum*kommunikation erfordert hochentwickelte Technologien.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

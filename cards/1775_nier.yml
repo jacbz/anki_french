@@ -13,20 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous ne pouvez pas le nier et les autres non plus.
-  Das können Sie nicht leugnen und andere auch nicht.
+  Vous ne pouvez pas le *nier* et les autres non plus.
+  Sie können es nicht *leugnen* und die anderen auch nicht.
 
-  Il a nié toute implication dans l’affaire.
-  Er hat jede Beteiligung an der Angelegenheit bestritten.
+  L'accusé a *nié* tous les faits devant le tribunal.
+  Der Angeklagte hat vor Gericht alle Tatsachen *geleugnet*.
 
-  Elle nie avoir volé l'argent, même si les preuves sont accablantes.
-  Sie leugnet, das Geld gestohlen zu haben, obwohl die Beweise erdrückend sind.
+  Comment peut-on *nier* l'évidence quand elle est si claire ?
+  Wie kann man die offensichtlichen Tatsachen *leugnen*, wenn sie so klar sind?
 
-  Il nie qu'il mente, mais son langage corporel trahit ses paroles.
-  Er bestreitet, dass er lügt, aber sein Körpersprache verrät ihn.
+  Elle *nie* avoir participé à cette conversation.
+  Sie *bestreitet*, an diesem Gespräch teilgenommen zu haben.
 
-  Le suspect nie être l'auteur de l'infraction, mais les enquêteurs n'ont pas le choix que de le croire.
-  Der Verdächtige leugnet die Täterschaft, aber die Ermittler haben keine andere Wahl, als ihm zu glauben.
+  Je ne *nie* pas qu'il ait du talent, mais il manque de discipline.
+  Ich *bestreite* nicht, dass er Talent hat, aber ihm fehlt die Disziplin.
+
+  Les preuves sont là, pourtant il continue à *nier*.
+  Die Beweise liegen vor, trotzdem *leugnet* er weiter.
+
+  Sans *nier* les difficultés, nous devons rester optimistes.
+  Ohne die Schwierigkeiten zu *leugnen*, müssen wir optimistisch bleiben.
+
+  Il *niait* fermement être impliqué dans cette affaire.
+  Er *bestritt* vehement, in diese Sache verwickelt zu sein.
+
+  Tu peux *nier* autant que tu veux, les faits sont là.
+  Du kannst so viel *leugnen* wie du willst, die Fakten liegen auf dem Tisch.
+
+  Elle a *nié* sa signature sur le document.
+  Sie hat ihre Unterschrift auf dem Dokument *verleugnet*.
+
+  Pourquoi *nier* la réalité quand elle est si évidente ?
+  Warum die Realität *leugnen*, wenn sie so offensichtlich ist?
+
+  Il ne *nie* pas que le problème soit complexe.
+  Er *bestreitet* nicht, dass das Problem komplex ist.
+
+  Les témoins ont *nié* l'avoir vu ce soir-là.
+  Die Zeugen haben *bestritten*, ihn an diesem Abend gesehen zu haben.
+
+  Personne ne peut *nier* l'importance de l'éducation.
+  Niemand kann die Bedeutung der Bildung *leugnen*.
+
+  Elle a toujours *nié* sa responsabilité dans l'accident.
+  Sie hat ihre Verantwortung für den Unfall stets *geleugnet*.
+
+  Je ne peux pas *nier* que j'ai fait des erreurs.
+  Ich kann nicht *abstreiten*, dass ich Fehler gemacht habe.
+
+  Il *niait* obstinément malgré les preuves accablantes.
+  Er *leugnete* hartnäckig trotz der erdrückenden Beweise.
+
+  Comment peux-tu *nier* que tu étais présent ?
+  Wie kannst du *abstreiten*, dass du anwesend warst?
+
+  Elle a *nié* jusqu'au bout avoir reçu l'argent.
+  Sie hat bis zum Schluss *bestritten*, das Geld erhalten zu haben.
+
+  On ne peut pas *nier* l'influence du climat sur notre vie.
+  Man kann den Einfluss des Klimas auf unser Leben nicht *leugnen*.
+
+  Il ne sert à rien de *nier* l'évidence des faits.
+  Es hat keinen Sinn, die offensichtlichen Tatsachen zu *leugnen*.
+
+  Elle *niait* catégoriquement avoir dit cela.
+  Sie *bestritt* kategorisch, das gesagt zu haben.
+
+  Je ne *nie* pas mes origines, je les assume.
+  Ich *verleugne* meine Herkunft nicht, ich stehe dazu.
+
+  Pourquoi *nier* ce que tout le monde a vu ?
+  Warum *leugnen*, was alle gesehen haben?
+
+  Les suspects ont *nié* toute implication dans l'incident.
+  Die Verdächtigen haben jegliche Beteiligung an dem Vorfall *bestritten*.
+
+  Il a *nié* cette dette pendant des années.
+  Er hat diese Schuld jahrelang *geleugnet*.
+
+  Marc *nie* qu'il soit arrivé en retard hier.
+  Marc *bestreitet*, dass er gestern zu spät gekommen ist.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
