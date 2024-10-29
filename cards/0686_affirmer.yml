@@ -13,26 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce témoin a affirmé avoir vu trois hommes.
-  Dieser Zeuge gab an, drei Männer gesehen zu haben.
+  Ce témoin a *affirmé* avoir vu trois hommes.
+  Dieser Zeuge hat *ausgesagt*, drei Männer gesehen zu haben.
 
-  Il a affirmé qu’il était innocent.
-  Er hat behauptet, dass er unschuldig ist.
+  Il *affirme* que mon chat est entré dans son jardin.
+  Er *behauptet*, dass meine Katze in seinen Garten gelaufen ist.
 
-  J'affirme que c'est vrai, même si personne ne me croit.
-  Ich behaupte, dass es wahr ist, auch wenn mir niemand glaubt.
+  Je peux vous *affirmer* que le train arrivera à l'heure.
+  Ich kann Ihnen *versichern*, dass der Zug pünktlich ankommen wird.
 
-  Il a une personnalité affirmée, ce qui lui permet de s'imposer dans n'importe quelle situation.
-  Er hat eine starke Persönlichkeit, die es ihm ermöglicht, sich in jeder Situation durchzusetzen.
+  Le professeur *affirme* que les examens auront lieu la semaine prochaine.
+  Der Lehrer *beteuert*, dass die Prüfungen nächste Woche stattfinden werden.
 
-  Je peux affirmer sur l'honneur que je n'ai rien vu.
-  Ich kann bei meiner Ehre schwören, dass ich nichts gesehen habe.
+  Marie *affirmait* ne rien savoir de cette affaire.
+  Marie *behauptete*, nichts von dieser Angelegenheit zu wissen.
 
-  Pouvez-vous l'affirmer, ou est-ce juste une supposition ?
-  Sind Sie sich Ihrer Sache sicher, oder ist das nur eine Vermutung?
+  Pouvez-vous *affirmer* que vous étiez chez vous ce soir-là ?
+  Können Sie *beschwören*, dass Sie an jenem Abend zu Hause waren?
 
-  On ne peut rien affirmer de sûr avant d'avoir toutes les informations.
-  Wir können noch nichts Genaues sagen, bevor wir alle Informationen haben.
+  Son talent s'est *affirmé* dès son plus jeune âge.
+  Sein Talent hat sich schon in jungen Jahren *herauskristallisiert*.
+
+  La nouvelle direction a *affirmé* sa volonté de changement.
+  Die neue Führung hat ihren Willen zur Veränderung *bekräftigt*.
+
+  Il faut *affirmer* ses opinions avec conviction.
+  Man muss seine Meinungen mit Überzeugung *vertreten*.
+
+  Le candidat *affirme* être le meilleur choix pour ce poste.
+  Der Kandidat *beteuert*, die beste Wahl für diese Position zu sein.
+
+  Pierre s'est *affirmé* comme un excellent cuisinier.
+  Pierre hat sich als ausgezeichneter Koch *etabliert*.
+
+  Elle *affirmait* toujours avoir raison, même quand elle avait tort.
+  Sie *behauptete* immer Recht zu haben, selbst wenn sie falsch lag.
+
+  Le gouvernement a *affirmé* son soutien aux petites entreprises.
+  Die Regierung hat ihre Unterstützung für kleine Unternehmen *bekräftigt*.
+
+  Sa personnalité s'est *affirmée* au fil des années.
+  Seine Persönlichkeit hat sich im Laufe der Jahre *gefestigt*.
+
+  Les scientifiques *affirment* que le changement climatique s'accélère.
+  Die Wissenschaftler *stellen fest*, dass sich der Klimawandel beschleunigt.
+
+  Il n'osait pas *affirmer* ses préférences devant sa famille.
+  Er wagte es nicht, seine Vorlieben vor seiner Familie zu *bekunden*.
+
+  Le journal *affirme* que les négociations ont échoué.
+  Die Zeitung *berichtet*, dass die Verhandlungen gescheitert sind.
+
+  Sophie s'est *affirmée* comme une leader naturelle dans l'équipe.
+  Sophie hat sich als natürliche Führungspersönlichkeit im Team *behauptet*.
+
+  Je ne peux rien *affirmer* sans avoir vu les preuves.
+  Ich kann nichts *bestätigen*, ohne die Beweise gesehen zu haben.
+
+  L'entreprise *affirme* avoir trouvé une solution innovante.
+  Das Unternehmen *gibt an*, eine innovative Lösung gefunden zu haben.
+
+  Les experts *affirment* que la situation va s'améliorer.
+  Die Experten *versichern*, dass sich die Situation verbessern wird.
+
+  Il s'est finalement *affirmé* face à ses concurrents.
+  Er hat sich schließlich gegenüber seinen Konkurrenten *durchgesetzt*.
+
+  Elle *affirme* sur l'honneur n'avoir jamais reçu cet argent.
+  Sie *schwört* bei ihrer Ehre, dieses Geld nie erhalten zu haben.
+
+  Le groupe a *affirmé* son style unique dans son dernier album.
+  Die Band hat ihren einzigartigen Stil in ihrem letzten Album *unter Beweis gestellt*.
+
+  La majorité s'est clairement *affirmée* lors du vote.
+  Die Mehrheit hat sich bei der Abstimmung klar *herauskristallisiert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

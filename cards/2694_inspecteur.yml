@@ -13,26 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tu seras un excellent inspecteur.
-  Du wirst ein ausgezeichneter Inspektor sein.
+  Tu seras un excellent *inspecteur*.
+  Du wirst ein ausgezeichneter *Inspektor* sein.
 
-  L’inspecteur a enquêté sur le crime.
-  Der Inspektor hat den Fall untersucht.
+  Le nouvel *inspecteur* est arrivé ce matin pour évaluer notre restaurant.
+  Der neue *Testesser* ist heute Morgen gekommen, um unser Restaurant zu bewerten.
 
-  Madame Durand est inspectrice des écoles maternelles.
-  Frau Durand ist Schulrätin.
+  L'*inspecteur* des écoles maternelles a félicité notre équipe pédagogique.
+  Der *Schulrat* hat unser pädagogisches Team gelobt.
 
-  Cet homme est un inspecteur des travaux finis.
-  Dieser Mann ist ein Drückeberger.
+  L'*inspectrice* générale visitera toutes les classes de mathématiques cette année.
+  Die *Regierungsschulrätin* wird dieses Jahr alle Mathematikklassen besuchen.
 
-  L'inspecteur général a visité notre université la semaine dernière.
-  Der Regierungsschulrat hat letzte Woche unsere Universität besucht.
+  Notre *inspectrice* pédagogique régionale organise une réunion importante jeudi.
+  Unsere *Oberschulrätin* organisiert am Donnerstag eine wichtige Versammlung.
 
-  L'inspectrice pédagogique régionale a présenté un nouveau programme d'études.
-  Die Oberschulrätin hat einen neuen Lehrplan vorgestellt.
+  L'*inspectrice* primaire a observé attentivement les méthodes d'enseignement.
+  Die *Schulrätin* hat die Unterrichtsmethoden aufmerksam beobachtet.
 
-  L'inspecteur primaire est attendu à dix heures.
-  Der Schulrat wird um zehn Uhr erwartet.
+  L'*inspecteur* du travail a découvert plusieurs infractions lors de sa visite.
+  Der *Arbeitsinspektor* hat bei seinem Besuch mehrere Verstöße festgestellt.
+
+  En tant qu'*inspectrice* d'académie, elle supervise l'enseignement de toute la région.
+  Als *Akademierätin* beaufsichtigt sie den Unterricht in der ganzen Region.
+
+  L'*inspecteur* des Finances doit examiner tous les comptes de l'entreprise.
+  Der *Finanzprüfer* muss alle Unternehmenskonten prüfen.
+
+  L'*inspecteur* de police a interrogé tous les témoins de l'accident.
+  Der Polizei*inspektor* hat alle Unfallzeugen befragt.
+
+  "Ah, voilà notre *inspecteur* des travaux finis qui arrive maintenant !"
+  "Ah, da kommt unser *Besserwisser*, jetzt wo alles fertig ist!"
+
+  L'*inspectrice* de la compagnie d'assurances évalue les dégâts causés par l'incendie.
+  Die Versicherungs*inspektorin* begutachtet die Brandschäden.
+
+  L'*inspecteur* des douanes a confisqué les marchandises suspectes.
+  Der Zoll*inspektor* hat die verdächtigen Waren beschlagnahmt.
+
+  L'*inspecteur* des impôts a demandé des documents supplémentaires.
+  Der Steuer*prüfer* hat zusätzliche Unterlagen angefordert.
+
+  L'*inspecteur* du Trésor a fixé un rendez-vous pour la semaine prochaine.
+  Der Finanz*amtmann* hat einen Termin für nächste Woche festgelegt.
+
+  L'*inspectrice* générale de l'armée de terre effectue son inspection annuelle.
+  Die General*inspektorin* des Heeres führt ihre jährliche Inspektion durch.
+
+  Le médecin général *inspecteur* a visité l'hôpital militaire hier.
+  Der General*stabsarzt* hat gestern das Militärkrankenhaus besucht.
+
+  L'*inspecteur* général de l'administration rédige son rapport final.
+  Der General*inspektor* der Verwaltung verfasst seinen Abschlussbericht.
+
+  L'*inspectrice* générale de la police nationale supervise l'enquête.
+  Die General*inspektorin* der Nationalpolizei überwacht die Ermittlung.
+
+  L'*inspecteur* général de l'Éducation nationale assistera à la réunion.
+  Der General*schulrat* wird an der Sitzung teilnehmen.
+
+  Cette *inspectrice* des affaires sociales enquête sur les conditions de travail.
+  Diese Sozial*inspektorin* untersucht die Arbeitsbedingungen.
+
+  Mon frère est devenu *inspecteur* général des finances après vingt ans de carrière.
+  Mein Bruder ist nach zwanzig Jahren Karriere General*finanzprüfer* geworden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

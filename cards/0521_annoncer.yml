@@ -13,35 +13,101 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’année 1993 s’annonce donc difficile.
-  Das Jahr 1993 wird daher schwierig werden.
+  L'année 1993 *s'annonce* donc difficile.
+  Das Jahr 1993 *zeichnet sich* also als schwierig *ab*.
 
-  Je vais annoncer la nouvelle à mes parents.
-  Ich werde die Neuigkeit meinen Eltern verkünden.
+  Hier au soir, j'ai *annoncé* à mes parents que j'allais déménager.
+  Gestern Abend habe ich meinen Eltern *mitgeteilt*, dass ich umziehen werde.
 
-  Le policier a annoncé le voleur à la police.
-  Der Polizist hat den Dieb bei der Polizei gemeldet.
+  Les experts *annoncent* des températures record pour cet été.
+  Die Experten *sagen* für diesen Sommer Rekordtemperaturen *voraus*.
 
-  On annonce du soleil pour demain, alors on peut sortir pique-niquer.
-  Für morgen ist Sonne vorhergesagt, also können wir zum Picknick gehen.
+  La secrétaire *annonce* les visiteurs au fur et à mesure qu'ils arrivent.
+  Die Sekretärin *meldet* die Besucher, sobald sie ankommen.
 
-  Ce nuage sombre et menaçant n'annonce rien de bon.
-  Dieser dunkle, bedrohliche Wolkenhimmel verheißt nichts Gutes.
+  Son sourire radieux *annonçait* déjà la bonne nouvelle.
+  Ihr strahlendes Lächeln *verkündete* bereits die gute Nachricht.
 
-  La mission ne s'annonce pas facile, mais nous devons l'accomplir.
-  Das scheint nicht einfach zu werden, aber wir müssen es schaffen.
+  La météo *annonce* de la pluie pour ce week-end.
+  Der Wetterbericht *sagt* für dieses Wochenende Regen *voraus*.
 
-  L'ambiance qui annonce Noël réchauffe le cœur et invite à la joie.
-  Die vorweihnachtliche Stimmung wärmt das Herz und lädt zur Freude ein.
+  Le directeur va *annoncer* les résultats demain matin.
+  Der Direktor wird morgen früh die Ergebnisse *bekanntgeben*.
 
-  Le concert s'est bien annoncé avec un public enthousiaste.
-  Das Konzert begann gut mit einem begeisterten Publikum.
+  Les premiers bourgeons *annoncent* le printemps.
+  Die ersten Knospen sind *Vorboten* des Frühlings.
 
-  La journée s'annonce mal avec ce ciel gris.
-  Der Tag fängt schlecht an mit diesem grauen Himmel.
+  Je dois *m'annoncer* au bureau des inscriptions avant midi.
+  Ich muss mich vor mittags im Anmeldebüro *melden*.
 
-  Ça s'annonce bien pour l'avenir de notre entreprise.
-  Es sieht gut aus für die Zukunft unseres Unternehmens.
+  La situation *s'annonce* prometteuse pour notre entreprise.
+  Die Situation *zeichnet sich* für unser Unternehmen vielversprechend *ab*.
+
+  Le haut-parleur *annonçait* l'arrivée du prochain train.
+  Die Lautsprecheranlage *kündigte* die Ankunft des nächsten Zuges *an*.
+
+  Ces nuages sombres *annoncent* un orage.
+  Diese dunklen Wolken *kündigen* ein Gewitter *an*.
+
+  Marie *s'annonce* pour dîner ce soir.
+  Marie *kündigt sich* für heute Abend zum Essen *an*.
+
+  Le joueur *annonce* trois cœurs à son partenaire.
+  Der Spieler *sagt* seinem Partner drei Herz *an*.
+
+  Les journaux *ont annoncé* sa démission ce matin.
+  Die Zeitungen haben heute Morgen seinen Rücktritt *gemeldet*.
+
+  Cette découverte *annonce* une nouvelle ère en médecine.
+  Diese Entdeckung *kündigt* eine neue Ära in der Medizin *an*.
+
+  Le président *a annoncé* sa décision lors d'une conférence de presse.
+  Der Präsident hat seine Entscheidung auf einer Pressekonferenz *bekanntgegeben*.
+
+  Les scientifiques *annoncent* une éclipse solaire pour juillet.
+  Die Wissenschaftler *kündigen* für Juli eine Sonnenfinsternis *an*.
+
+  La radio *a annoncé* un accident sur l'autoroute.
+  Das Radio hat einen Unfall auf der Autobahn *gemeldet*.
+
+  Son visage pâle *annonçait* qu'il était malade.
+  Sein blasses Gesicht *verriet*, dass er krank war.
+
+  Les sondages *annoncent* un résultat serré pour les élections.
+  Die Umfragen *sagen* ein knappes Wahlergebnis *voraus*.
+
+  Le projet *s'annonce* plus complexe que prévu.
+  Das Projekt *erweist sich* als komplexer als erwartet.
+
+  Je dois *annoncer* une nouvelle importante à l'équipe.
+  Ich muss dem Team eine wichtige Nachricht *mitteilen*.
+
+  Les premières feuilles qui tombent *annoncent* l'automne.
+  Die ersten fallenden Blätter *kündigen* den Herbst *an*.
+
+  La réunion *s'annonce* longue et difficile.
+  Die Besprechung *verspricht* lang und schwierig zu werden.
+
+  Le patron nous *a annoncé* une augmentation de salaire.
+  Der Chef hat uns eine Gehaltserhöhung *angekündigt*.
+
+  Les météorologues *annoncent* un été caniculaire.
+  Die Meteorologen *sagen* einen Hitzesommer *voraus*.
+
+  La sonnette *annonça* l'arrivée des premiers invités.
+  Die Klingel *kündigte* die Ankunft der ersten Gäste *an*.
+
+  Cette méthode *s'annonce* très efficace.
+  Diese Methode *verspricht* sehr effektiv zu sein.
+
+  Le maire *a annoncé* la construction d'une nouvelle école.
+  Der Bürgermeister hat den Bau einer neuen Schule *angekündigt*.
+
+  Les experts *annoncent* une reprise économique.
+  Die Experten *sagen* einen wirtschaftlichen Aufschwung *voraus*.
+
+  Le ciel rouge *annonçait* une belle journée pour demain.
+  Der rote Himmel *verhieß* einen schönen Tag für morgen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

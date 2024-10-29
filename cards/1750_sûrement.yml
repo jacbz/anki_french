@@ -13,20 +13,53 @@ Register: ↘Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Quelqu’un a sûrement besoin d’aide.
-  Wahrscheinlich braucht jemand Hilfe.
+  Quelqu'un a *sûrement* besoin d'aide.
+  Jemand braucht *bestimmt* Hilfe.
 
-  Il viendra sûrement demain.
-  Er wird morgen sicherlich kommen.
+  Il va *sûrement* pleuvoir ce soir.
+  Es wird heute Abend *sicher* regnen.
 
-  Elle viendra sûrement à la fête.
-  Sie kommt bestimmt zu der Party.
+  Je ne peux pas venir maintenant, mais je viendrai demain, *sûrement*.
+  Ich kann jetzt nicht kommen, aber ich komme morgen *sicherlich*.
 
-  Nous sommes sûrement sur la bonne voie pour atteindre notre objectif.
-  Wir sind sicherlich auf dem richtigen Weg, um unser Ziel zu erreichen.
+  As-tu fait tes devoirs ? – *Sûrement* pas !
+  Hast du deine Hausaufgaben gemacht? – *Sicher* nicht!
 
-  Il a sûrement besoin d’aide pour porter ces lourdes boîtes.
-  Wahrscheinlich braucht er Hilfe, um die schweren Kisten zu tragen.
+  Pour réussir son examen, il faut avancer lentement mais *sûrement*.
+  Um die Prüfung zu bestehen, muss man langsam aber *sicher* vorankommen.
+
+  Le guide nous a conduits *sûrement* à travers les montagnes.
+  Der Führer hat uns *sicher* durch die Berge geführt.
+
+  *Sûrement*, il y a une explication logique à tout cela.
+  *Bestimmt* gibt es dafür eine logische Erklärung.
+
+  Tu veux venir avec nous ? – Oui, *sûrement* !
+  Willst du mit uns kommen? – Ja, *sicherlich*!
+
+  La voiture roule *sûrement* sur l'autoroute.
+  Das Auto fährt *sicher* auf der Autobahn.
+
+  Elle est *sûrement* en retard à cause des embouteillages.
+  Sie kommt *bestimmt* wegen des Staus zu spät.
+
+  L'argent sera *sûrement* investi dans ce projet.
+  Das Geld wird *sicher* in dieses Projekt investiert werden.
+
+  Cette histoire s'est *sûrement* passée comme elle l'a racontée.
+  Diese Geschichte hat sich *sicherlich* so zugetragen, wie sie sie erzählt hat.
+
+  Les enfants sont *sûrement* déjà rentrés de l'école.
+  Die Kinder sind *bestimmt* schon aus der Schule zurück.
+
+  Il a *sûrement* oublié notre rendez-vous.
+  Er hat unser Treffen *sicher* vergessen.
+
+  Le médecin pourra *sûrement* vous recevoir demain matin.
+  Der Arzt kann Sie morgen früh *sicherlich* empfangen.
+
+  Marie va *sûrement* nous aider avec ce problème.
+  Marie wird uns bei diesem Problem *bestimmt* helfen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

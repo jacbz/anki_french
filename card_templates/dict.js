@@ -2,7 +2,7 @@
  * Dictionary
  */
 try {
-  fetch(`${getAnkiPrefix()}/_FR5000_dict_${rank}.xml`).then(
+  fetch(`${getAnkiPrefix()}/_FR5000_dict_${word}.xml`).then(
     async (response) => {
       if (response.ok) {
         const xml = await response.text();

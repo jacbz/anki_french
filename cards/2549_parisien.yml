@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils vivent en france, banlieue parisienne.
-  Sie leben in Frankreich, einem Vorort von Paris.
+  Ils vivent en France, banlieue *parisienne*.
+  Sie leben in Frankreich, in der *Pariser* Vorstadt.
 
-  Je suis parisien.
-  Ich bin Pariser.
+  Les transports *parisiens* sont toujours bondés le matin.
+  Die *Pariser* Verkehrsmittel sind morgens immer überfüllt.
 
-  La vie parisienne est pleine de charme et de surprises.
-  Das Pariser Leben ist voller Charme und Überraschungen.
+  Le Bassin *parisien* est une vaste région géologique.
+  Das *Pariser* Becken ist eine weitläufige geologische Region.
 
-  La vie parisienne est un rêve pour beaucoup de gens.
-  Das Pariser Leben ist für viele Menschen ein Traum.
+  "Les *Parisiens* ne connaissent même pas leurs voisins !"
+  "Die *Pariser* kennen nicht einmal ihre Nachbarn!"
+
+  La vie *parisienne* est très différente de la vie en province.
+  Das *Pariser* Leben unterscheidet sich sehr vom Leben in der Provinz.
+
+  Ce boulanger fait du pain *parisien* tous les matins.
+  Dieser Bäcker macht jeden Morgen *Pariser* Brot.
+
+  Les restaurants *parisiens* attirent des touristes du monde entier.
+  Die *Pariser* Restaurants ziehen Touristen aus der ganzen Welt an.
+
+  Marie est une vraie *Parisienne* : elle adore les terrasses de café.
+  Marie ist eine echte *Pariserin*: Sie liebt Café-Terrassen.
+
+  C'était une fête bien *parisienne*, avec du champagne et des petits fours.
+  Es war eine typisch *Pariser* Feier mit Champagner und kleinen Häppchen.
+
+  L'esprit *parisien* se caractérise par son élégance et son ironie.
+  Der *Pariser* Geist zeichnet sich durch Eleganz und Ironie aus.
+
+  La mode *parisienne* influence les tendances mondiales.
+  Die *Pariser* Mode beeinflusst die weltweiten Trends.
+
+  Les embouteillages sont un cauchemar *parisien* quotidien.
+  Der *Pariser* Verkehrsstau ist ein täglicher Albtraum.
+
+  Je suis *parisien* depuis ma naissance, mais j'aime voyager.
+  Ich bin von Geburt an *Pariser*, aber ich reise gerne.
+
+  La région *parisienne* compte plus de 12 millions d'habitants.
+  Die *Pariser* Region hat mehr als 12 Millionen Einwohner.
+
+  Le style de vie *parisien* est souvent critiqué en province.
+  Der *Pariser* Lebensstil wird in der Provinz oft kritisiert.
+
+  Cette boutique propose l'élégance *parisienne* à prix abordables.
+  Dieser Laden bietet *Pariser* Eleganz zu erschwinglichen Preisen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Toute cette affaire est un vrai cauchemar.
-  Die ganze Angelegenheit ist ein Albtraum.
+  Toute cette affaire est un vrai *cauchemar*.
+  Diese ganze Angelegenheit ist ein echter *Albtraum*.
 
-  Je fais souvent des cauchemars la nuit.
-  Ich habe oft Albträume in der Nacht.
+  Je fais souvent des *cauchemars* à cause du stress au travail.
+  Ich habe wegen des Stresses bei der Arbeit oft *Albträume*.
 
-  Peut-être que c’était juste un cauchemar.
-  Vielleicht war es nur ein Albtraum.
+  Les enfants se réveillent parfois en pleurant après un *cauchemar*.
+  Kinder wachen manchmal weinend nach einem *Albtraum* auf.
 
-  Le jeune garçon a fait un cauchemar et s'est réveillé en sursaut.
-  Der kleine Junge hat einen Albtraum gehabt und ist erschrocken aufgewacht.
+  Cette nuit, j'ai fait un horrible *cauchemar* où je tombais dans le vide.
+  Letzte Nacht hatte ich einen schrecklichen *Albtraum*, in dem ich in die Tiefe fiel.
+
+  Le professeur de mathématiques était le *cauchemar* de tous les élèves.
+  Der Mathematiklehrer war der *Albtraum* aller Schüler.
+
+  Le déménagement s'est transformé en véritable *cauchemar*.
+  Der Umzug wurde zu einem regelrechten *Albtraum*.
+
+  Les examens sont devenus son pire *cauchemar*.
+  Die Prüfungen sind zu seinem schlimmsten *Albtraum* geworden.
+
+  Elle s'est réveillée en sursaut de son *cauchemar*.
+  Sie ist erschrocken aus ihrem *Albtraum* aufgewacht.
+
+  Mon petit frère est sujet aux *cauchemars* depuis son plus jeune âge.
+  Mein kleiner Bruder neigt seit frühester Kindheit zu *Albträumen*.
+
+  La préparation du mariage tourne au *cauchemar*.
+  Die Hochzeitsvorbereitungen werden zum *Albtraum*.
+
+  Sa vie est devenue un véritable *cauchemar* depuis l'accident.
+  Sein Leben ist seit dem Unfall zu einem regelrechten *Albtraum* geworden.
+
+  Les *cauchemars* ont cessé quand elle a commencé la thérapie.
+  Die *Albträume* hörten auf, als sie mit der Therapie begann.
+
+  Ce projet est le *cauchemar* de toute l'équipe.
+  Dieses Projekt ist der *Albtraum* des ganzen Teams.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

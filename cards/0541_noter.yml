@@ -13,32 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tu as tout noté?
-  Hast du alles aufgeschrieben?
+  Tu as tout *noté* ?
+  Hast du dir alles *notiert*?
 
-  Je vais noter cette information.
-  Ich werde diese Information notieren.
+  Elle a *noté* mon adresse dans son carnet.
+  Sie hat meine Adresse in ihrem Notizbuch *notiert*.
 
-  Le professeur a noté Pierre 12 sur 20 pour son devoir.
-  Der Lehrer hat Pierre für seine Hausaufgabe 12 von 20 Punkten gegeben.
+  Les élèves ont été *notés* très sévèrement pendant l'examen.
+  Die Schüler wurden in der Prüfung sehr streng *benotet*.
 
-  Le professeur a noté la bonne réponse d'une croix.
-  Der Lehrer hat die richtige Antwort angekreuzt.
+  J'ai *noté* quelques erreurs dans votre texte.
+  Ich habe einige Fehler in Ihrem Text *festgestellt*.
 
-  La mère a noté que son fils avait mangé tous ses légumes.
-  Die Mutter hat festgestellt, dass ihr Sohn all sein Gemüse gegessen hat.
+  *Notez* que le bureau sera fermé lundi prochain.
+  Bitte *beachten* Sie, dass das Büro nächsten Montag geschlossen sein wird.
 
-  Note bien que j'ai fini à temps pour le rendez-vous.
-  Beachte, dass ich rechtzeitig zum Termin fertig bin.
+  Le professeur *note* les devoirs sur vingt points.
+  Der Lehrer *benotet* die Hausaufgaben mit zwanzig Punkten.
 
-  Veuillez noter que je ferai un exposé sur ce sujet la semaine prochaine.
-  Bitte nehmen Sie zur Kenntnis, dass ich nächste Woche einen Vortrag zu diesem Thema halten werde.
+  Je dois *noter* ce rendez-vous important.
+  Ich muss mir diesen wichtigen Termin *aufschreiben*.
 
-  La rapidité de son travail est à noter.
-  Man darf die Schnelligkeit seiner Arbeit nicht außer Acht lassen.
+  *Notez* bien cette date : le 15 mars.
+  *Merken* Sie sich dieses Datum gut: den 15. März.
 
-  Le premier exercice sera noté sur cinq, et le deuxième sur dix.
-  Für die erste Aufgabe gibt es fünf Punkte, und für die zweite zehn.
+  Il faut *noter* que la situation s'est améliorée.
+  Man muss *feststellen*, dass sich die Situation verbessert hat.
+
+  Le compositeur a *noté* la mélodie sur une partition.
+  Der Komponist hat die Melodie auf einem Notenblatt *notiert*.
+
+  J'ai *noté* les passages importants d'une croix.
+  Ich habe die wichtigen Stellen mit einem Kreuz *markiert*.
+
+  Le directeur a *noté* mes progrès.
+  Der Direktor hat meine Fortschritte *bewertet*.
+
+  *Notez* bien mon numéro de téléphone.
+  *Schreiben* Sie sich meine Telefonnummer gut *auf*.
+
+  Il est à *noter* que personne n'est venu à la réunion.
+  Es ist *anzumerken*, dass niemand zum Treffen gekommen ist.
+
+  As-tu *noté* ce qu'il a dit pendant la conférence ?
+  Hast du dir *aufgeschrieben*, was er während der Konferenz gesagt hat?
+
+  Le jury *notera* les candidats selon plusieurs critères.
+  Die Jury wird die Kandidaten nach mehreren Kriterien *bewerten*.
+
+  Marie a *noté* tous les ingrédients de la recette.
+  Marie hat sich alle Zutaten des Rezepts *aufgeschrieben*.
+
+  *Notez* bien que le délai expire demain.
+  *Beachten* Sie bitte, dass die Frist morgen abläuft.
+
+  J'ai *noté* un changement dans son comportement.
+  Ich habe eine Veränderung in seinem Verhalten *bemerkt*.
+
+  Le premier exercice sera *noté* sur dix points.
+  Die erste Aufgabe wird mit zehn Punkten *bewertet*.
+
+  *Notez* vos observations dans ce carnet.
+  *Tragen* Sie Ihre Beobachtungen in dieses Notizbuch *ein*.
+
+  L'inspecteur a mal *noté* cet employé.
+  Der Inspektor hat diesen Mitarbeiter schlecht *beurteilt*.
+
+  *Notons* qu'il est arrivé à l'heure aujourd'hui.
+  *Stellen* wir *fest*, dass er heute pünktlich gekommen ist.
+
+  Elle a *noté* tous les détails de l'incident.
+  Sie hat sich alle Details des Vorfalls *notiert*.
+
+  Je vais *noter* ces informations pour ne pas les oublier.
+  Ich werde mir diese Informationen *aufschreiben*, damit ich sie nicht vergesse.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

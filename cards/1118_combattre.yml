@@ -13,26 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous avons combattu pour chaque détail.
-  Wir haben um jedes Detail gekämpft.
+  Nous avons *combattu* pour chaque détail.
+  Wir haben um jedes Detail *gekämpft*.
 
-  Il faut combattre pour ses convictions.
-  Man muss für seine Überzeugungen kämpfen.
+  Les pompiers *combattent* l'incendie depuis des heures.
+  Die Feuerwehrleute *bekämpfen* den Brand seit Stunden.
 
-  Je veux combattre.
-  Ich will kämpfen.
+  Le nouveau médicament *combat* efficacement le virus.
+  Das neue Medikament *bekämpft* das Virus wirksam.
 
-  Les soldats ont combattu contre l'ennemi pendant des heures.
-  Die Soldaten kämpften stundenlang gegen den Feind.
+  Des milliers de volontaires *combattent* la faim dans le monde.
+  Tausende Freiwillige *kämpfen* gegen den Hunger in der Welt.
 
-  Les militants ont combattu contre la discrimination pendant des années.
-  Die Aktivisten kämpften jahrelang gegen Diskriminierung.
+  Marie *combat* ses peurs depuis son enfance.
+  Marie *kämpft* seit ihrer Kindheit gegen ihre Ängste.
 
-  Les athlètes se sont battus contre la fatigue pour atteindre la ligne d'arrivée.
-  Die Athleten kämpften gegen die Müdigkeit, um die Ziellinie zu erreichen.
+  Le professeur a *combattu* cette théorie pendant des années.
+  Der Professor hat diese Theorie jahrelang *angefochten*.
 
-  Il est important de combattre contre les préjugés et la haine.
-  Es ist wichtig, gegen Vorurteile und Hass anzukämpfen.
+  Les deux nations ont *combattu* côte à côte pendant la guerre.
+  Die beiden Nationen haben im Krieg Seite an Seite *gekämpft*.
+
+  Il faut *combattre* les préjugés par l'éducation.
+  Vorurteile muss man durch Bildung *bekämpfen*.
+
+  Cette crème *combat* efficacement les rides.
+  Diese Creme *bekämpft* Falten effektiv.
+
+  Les scientifiques *combattent* le changement climatique.
+  Die Wissenschaftler *kämpfen* gegen den Klimawandel.
+
+  L'opposition *combat* ce projet de loi controversé.
+  Die Opposition *bekämpft* diesen umstrittenen Gesetzentwurf.
+
+  Nous devons *combattre* l'analphabétisme dans notre société.
+  Wir müssen den Analphabetismus in unserer Gesellschaft *bekämpfen*.
+
+  Les deux équipes ont *combattu* à armes égales.
+  Die beiden Teams haben mit gleichen Mitteln *gekämpft*.
+
+  Ces agriculteurs *combattent* pour leur survie économique.
+  Diese Bauern *kämpfen* um ihr wirtschaftliches Überleben.
+
+  Elle *combat* sa timidité en prenant des cours de théâtre.
+  Sie *kämpft* gegen ihre Schüchternheit an, indem sie Schauspielunterricht nimmt.
+
+  Notre association *combat* la pollution des océans.
+  Unser Verein *kämpft* gegen die Verschmutzung der Ozeane.
+
+  Les médecins *combattent* cette maladie depuis des décennies.
+  Die Ärzte *bekämpfen* diese Krankheit seit Jahrzehnten.
+
+  Thomas *combat* ses mauvaises habitudes avec détermination.
+  Thomas *kämpft* entschlossen gegen seine schlechten Gewohnheiten.
+
+  L'armée *combat* le terrorisme dans la région.
+  Die Armee *bekämpft* den Terrorismus in der Region.
+
+  Nous devons *combattre* l'ignorance par l'éducation.
+  Wir müssen die Unwissenheit durch Bildung *bekämpfen*.
+
+  Les manifestants *combattent* pour leurs droits.
+  Die Demonstranten *kämpfen* für ihre Rechte.
+
+  Cette organisation *combat* la corruption depuis des années.
+  Diese Organisation *bekämpft* seit Jahren die Korruption.
+
+  Les athlètes *combattent* pour la médaille d'or.
+  Die Athleten *kämpfen* um die Goldmedaille.
+
+  Ces chercheurs *combattent* les maladies tropicales.
+  Diese Forscher *bekämpfen* Tropenkrankheiten.
+
+  Le nouveau spray *combat* les mauvaises odeurs.
+  Das neue Spray *bekämpft* unangenehme Gerüche.
+
+  Les enseignants *combattent* le décrochage scolaire.
+  Die Lehrer *kämpfen* gegen Schulabbrüche.
+
+  Cette entreprise *combat* le gaspillage alimentaire.
+  Dieses Unternehmen *bekämpft* die Lebensmittelverschwendung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

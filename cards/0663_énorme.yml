@@ -9,15 +9,75 @@ Femininum / Plural: ''
 IPA: \e.nɔʁm\
 Definition: riesig
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Je pense que c’est un énorme effort.\nIch finde, das ist eine enorme\
-  \ Anstrengung.\n\nC’est un problème énorme.\nDas ist ein riesiges Problem.\n\nC’est\
-  \ énorme.\nDas ist riesig.\n\nLe déficit du pays est énorme. \nDas Riesendefizit\
-  \ des Landes ist besorgniserregend.\n\nIl est énorme! \nEr ist enorm dick!\n\nC'est\
-  \ un mensonge énorme! \nDas ist eine faustdicke Lüge!\n\nC'est une énorme idiotie.\n\
-  Das ist Erzdummheit!\n\nSon dernier film a connu un énorme succès.\nSein letzter\
-  \ Film war ein Riesenerfolg.\n\nJ'ai mangé un énorme morceau de gâteau. \nIch habe\
-  \ ein extragroßes Stück Torte gegessen.\n\nCela m'a fait un bien énorme de te revoir.\n\
-  Das hat mir unheimlich gutgetan, dich wiederzusehen."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Je pense que c'est un *énorme* effort.
+  Ich denke, das ist eine *riesige* Anstrengung.
+
+  Une *énorme* erreur s'est glissée dans le document.
+  Ein *krasser* Fehler hat sich in das Dokument eingeschlichen.
+
+  Il y a une différence *énorme* entre ces deux approches.
+  Zwischen diesen beiden Ansätzen liegt ein *himmelweiter* Unterschied.
+
+  L'entreprise affiche un déficit *énorme* cette année.
+  Das Unternehmen weist dieses Jahr ein *Riesen*defizit auf.
+
+  Cette décision était une *énorme* idiotie.
+  Diese Entscheidung war eine *Erz*dummheit.
+
+  Son nouveau livre est un *énorme* succès.
+  Sein neues Buch ist ein *Riesen*erfolg.
+
+  Tu as pris un *énorme* morceau de gâteau !
+  Du hast dir ein *extragroßes* Stück Kuchen genommen!
+
+  Le bâtiment est vraiment *énorme*.
+  Das Gebäude ist wirklich *riesig*.
+
+  "Il est devenu *énorme* depuis qu'il a arrêté le sport."
+  "Er ist *enorm* dick geworden, seit er mit dem Sport aufgehört hat."
+
+  C'était un mensonge tellement *énorme* que personne ne l'a cru.
+  Das war eine so *faustdicke* Lüge, dass sie niemand geglaubt hat.
+
+  Ce massage m'a fait un bien *énorme*.
+  Diese Massage hat mir *unheimlich* gut getan.
+
+  Un bloc de granit *énorme* bloque l'entrée de la grotte.
+  Ein *riesiger* Granitblock versperrt den Höhleneingang.
+
+  Une foule *énorme* s'est rassemblée devant le stade.
+  Eine *riesige* Menschenmenge hat sich vor dem Stadion versammelt.
+
+  Il a gagné une somme d'argent *énorme* à la loterie.
+  Er hat eine *gewaltige* Geldsumme im Lotto gewonnen.
+
+  Elle a commis une faute *énorme* pendant l'examen.
+  Sie hat während der Prüfung einen *schwerwiegenden* Fehler gemacht.
+
+  "C'est *énorme* ce que tu me racontes là !"
+  "Das ist ja *unglaublich*, was du mir da erzählst!"
+
+  Une *énorme* quantité de documents doit être traitée avant demain.
+  Eine *riesige* Menge an Dokumenten muss bis morgen bearbeitet werden.
+
+  Il y avait une *énorme* différence de prix entre les deux voitures.
+  Es gab einen *gewaltigen* Preisunterschied zwischen den beiden Autos.
+
+  Les scientifiques ont découvert un trou noir *énorme*.
+  Die Wissenschaftler haben ein *gigantisches* schwarzes Loch entdeckt.
+
+  "Cette blague est vraiment *énorme* !"
+  "Dieser Witz ist echt *unglaublich*!"
+
+  L'équipe a remporté une victoire *énorme*.
+  Das Team hat einen *überwältigenden* Sieg errungen.
+
+  Le projet a rencontré des difficultés *énormes*.
+  Das Projekt ist auf *gewaltige* Schwierigkeiten gestoßen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

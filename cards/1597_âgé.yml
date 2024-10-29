@@ -13,20 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ces hommes sont tous très âgés maintenant.
-  Diese Männer sind jetzt alle sehr alt.
+  Ces hommes sont tous très *âgés* maintenant.
+  Diese Männer sind jetzt alle sehr *alt*.
 
-  Mon grand-père est très âgé.
-  Mein Großvater ist sehr alt.
+  Ma grand-mère est une personne *âgée* qui vit seule.
+  Meine Großmutter ist eine *alte* Person, die allein lebt.
 
-  Les personnes âgées sont souvent considérées comme sages et expérimentées.
-  Die alten Menschen werden oft als weise und erfahren betrachtet.
+  Il est *âgé* de quinze ans et fait déjà du piano depuis dix ans.
+  Er ist *alt* genug für fünfzehn Jahre und spielt schon seit zehn Jahren Klavier.
 
-  Il est âgé de dix ans, ce qui fait de lui un enfant.
-  Er ist zehn Jahre alt, das macht ihn zu einem Kind.
+  Le chien est *âgé* de douze ans, mais il est toujours très énergique.
+  Der Hund ist zwölf Jahre *alt*, aber er ist immer noch sehr energisch.
 
-  Sophie a trois enfants âgés de dix, sept et deux ans : une fille et deux garçons.
-  Sophie hat drei Kinder im Alter von zehn, sieben und zwei Jahren: ein Mädchen und zwei Jungen.
+  Marie est la plus *âgée* de mes sœurs.
+  Marie ist die *älteste* meiner Schwestern.
+
+  Les médecins recommandent aux personnes *âgées* de faire de l'exercice régulièrement.
+  Die Ärzte empfehlen *älteren* Menschen, regelmäßig Sport zu treiben.
+
+  Cette tortue est *âgée* de plus de cent ans.
+  Diese Schildkröte ist über hundert Jahre *alt*.
+
+  Mon frère est plus *âgé* que moi de cinq ans.
+  Mein Bruder ist fünf Jahre *älter* als ich.
+
+  Les enfants sont *âgés* de trois, sept et douze ans.
+  Die Kinder sind drei, sieben und zwölf Jahre *alt*.
+
+  Ce bâtiment historique est *âgé* de plusieurs siècles.
+  Dieses historische Gebäude ist mehrere Jahrhunderte *alt*.
+
+  La dame *âgée* fait encore son jardin elle-même.
+  Die *alte* Dame pflegt ihren Garten noch selbst.
+
+  Mon voisin est *âgé* mais il court tous les matins.
+  Mein Nachbar ist zwar schon *alt*, aber er joggt jeden Morgen.
+
+  Les personnes *âgées* ont besoin de plus d'attention médicale.
+  *Ältere* Menschen brauchen mehr medizinische Aufmerksamkeit.
+
+  Cette femme *âgée* vit toujours dans sa maison d'enfance.
+  Diese *alte* Frau lebt noch immer in ihrem Elternhaus.
+
+  Le chat est *âgé* de huit ans maintenant.
+  Die Katze ist jetzt acht Jahre *alt*.
+
+  Le plus *âgé* des élèves a redoublé deux fois.
+  Der *älteste* Schüler hat zweimal eine Klasse wiederholt.
+
+  Ce chêne est *âgé* d'environ deux cents ans.
+  Diese Eiche ist ungefähr zweihundert Jahre *alt*.
+
+  Paul est *âgé* de vingt ans aujourd'hui.
+  Paul ist heute zwanzig Jahre *alt*.
+
+  Mon grand-père est décédé très *âgé*.
+  Mein Großvater ist sehr *alt* gestorben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,26 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  De ma fenêtre, on voyait la forêt.
-  Von meinem Fenster aus konnte man den Wald sehen.
+  De ma fenêtre, on voyait la *forêt*.
+  Von meinem Fenster aus sah man den *Wald*.
 
-  Nous avons fait une randonnée dans la forêt.
-  Wir haben eine Wanderung im Wald gemacht.
+  La *forêt* de Fontainebleau est l'une des plus belles de France.
+  Der *Wald* von Fontainebleau ist einer der schönsten in Frankreich.
 
-  Nous nous sommes promenés dans une forêt de châtaigniers, où les arbres étaient imposants et imposants.
-  Wir sind in einem Kastanienwald spazieren gegangen, wo die Bäume hoch und imposant waren.
+  Une dense *forêt* de châtaigniers couvre toute la colline.
+  Ein dichter Kastanien*wald* bedeckt den ganzen Hügel.
 
-  Le chantier naval était entouré d'une forêt de mâts, qui s'étendait à perte de vue.
-  Die Werft war umgeben von einem Wald von Masten, der sich bis zum Horizont erstreckte.
+  Cette *forêt* de conifères est parfaite pour une randonnée hivernale.
+  Dieser Nadel*wald* ist perfekt für eine Winterwanderung.
 
-  La forêt de conifères était sombre et silencieuse, tandis que la forêt de feuillus était vibrante et bruyante.
-  Der Nadelwald war dunkel und still, während der Laubwald lebendig und laut war.
+  Les champignons poussent dans cette *forêt* de feuillus.
+  Die Pilze wachsen in diesem Laub*wald*.
 
-  La forêt domaniale était un lieu de paix et de tranquillité, où la nature régnait en maître.
-  Der Staatsforst war ein Ort der Ruhe und Gelassenheit, wo die Natur die Herrschaft hatte.
+  La *forêt* domaniale est gérée par l'État.
+  Der Staats*forst* wird von der Regierung verwaltet.
 
-  La forêt sèche était un lieu aride et désertique, où la vie était difficile.
-  Der Trockenwald war ein trockener und wüstenhafter Ort, wo das Leben schwer war.
+  Une jeune *forêt* a repoussé après l'incendie.
+  Ein Jung*wald* ist nach dem Brand nachgewachsen.
+
+  Cette *forêt* sèche abrite des espèces uniques.
+  Dieser Trocken*wald* beherbergt einzigartige Arten.
+
+  La *forêt* vierge disparaît à un rythme alarmant.
+  Der Ur*wald* verschwindet in alarmierendem Tempo.
+
+  Une *forêt* de mâts se balançait dans le port.
+  Ein *Wald* von Masten schwankte im Hafen.
+
+  La *forêt* amazonienne est le poumon de notre planète.
+  Der Amazonas*wald* ist die Lunge unseres Planeten.
+
+  Nous avons construit notre cabane à la lisière de la *forêt*.
+  Wir haben unsere Hütte am Rand des *Waldes* gebaut.
+
+  Cette *forêt* dense et impénétrable cache de nombreux secrets.
+  Dieser dichte, undurchdringliche *Wald* verbirgt viele Geheimnisse.
+
+  Les clairières de la *forêt* offrent des espaces de repos aux randonneurs.
+  Die Lichtungen des *Waldes* bieten den Wanderern Rastplätze.
+
+  Une *forêt* de bras levés a accueilli le chanteur sur scène.
+  Ein *Wald* von erhobenen Armen begrüßte den Sänger auf der Bühne.
+
+  La *forêt* privée est interdite aux promeneurs.
+  Der Privat*wald* ist für Spaziergänger verboten.
+
+  Il faut traverser la *forêt* pour arriver au village.
+  Man muss den *Wald* durchqueren, um zum Dorf zu gelangen.
+
+  Les enfants adorent explorer la *forêt* en automne.
+  Die Kinder lieben es, den *Wald* im Herbst zu erkunden.
+
+  Une *forêt* de symboles compliquait la lecture du texte.
+  Ein *Wald* von Symbolen erschwerte das Lesen des Textes.
+
+  Les agents surveillent la *forêt* jour et nuit.
+  Die Förster überwachen den *Wald* Tag und Nacht.
+
+  Le brouillard rendait la *forêt* mystérieuse ce matin-là.
+  Der Nebel machte den *Wald* an diesem Morgen geheimnisvoll.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

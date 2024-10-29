@@ -13,41 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je cherche des renseignements sur la femme qui a été tuée.
-  Ich suche nach Informationen über die Frau, die getötet wurde.
+  Je cherche des *renseignements* sur la femme qui a été tuée.
+  Ich suche *Informationen* über die Frau, die getötet wurde.
 
-  Je cherche des renseignements sur ce sujet.
-  Ich suche Informationen zu diesem Thema.
+  Pour de plus amples *renseignements*, veuillez consulter notre site web.
+  Für nähere *Informationen* besuchen Sie bitte unsere Website.
 
-  Je vous écris à titre de renseignement.
-  Ich schreibe Ihnen interessehalber.
+  Le bureau des *renseignements* se trouve au rez-de-chaussée.
+  Die *Auskunft* befindet sich im Erdgeschoss.
 
-  J'ai besoin de renseignements.
-  Ich benötige Auskunft.
+  Les services de *renseignement* ont détecté une menace potentielle.
+  Der *Geheimdienst* hat eine potenzielle Bedrohung erkannt.
 
-  J'ai besoin de renseignements administratifs.
-  Ich brauche amtliche Auskunft.
+  Je vais aller aux *renseignements* pour savoir quand part le prochain train.
+  Ich gehe zur *Information*, um zu erfahren, wann der nächste Zug fährt.
 
-  J'ai besoin de plus amples renseignements.
-  Ich brauche nähere Informationen.
+  "C'est une vraie mine de *renseignements*, ce type !"
+  "Der Typ ist eine echte *Informations*quelle!"
 
-  Je vais aller aux renseignements.
-  Ich gehe zur Information.
+  Il a fourni des *renseignements* confidentiels à la police.
+  Er hat der Polizei vertrauliche *Informationen* gegeben.
 
-  J'ai pris mes renseignements.
-  Ich habe Erkundigungen eingezogen.
+  La banque m'a donné un *renseignement* sur ma situation financière.
+  Die Bank hat mir eine *Auskunft* über meine finanzielle Situation erteilt.
 
-  Renseignements pris, nous avons décidé de ne pas investir.
-  Nach eingehenden Erkundigungen haben wir beschlossen, nicht zu investieren.
+  Un agent des *renseignements généraux* a interrogé les témoins.
+  Ein *Verfassungsschützer* hat die Zeugen befragt.
 
-  Sophie est une agente des renseignements généraux.
-  Sophie ist eine Verfassungsschützerin.
+  À titre de *renseignement*, combien coûte ce service ?
+  *Interessehalber*, wie viel kostet dieser Service?
 
-  Les enquêtes des services de renseignement ont révélé une fraude.
-  Die nachrichtendienstlichen Ermittlungen haben eine Betrugsmasche aufgedeckt.
+  Nous avons besoin d'un *renseignement* sur la solvabilité de notre client.
+  Wir brauchen eine *Bonitätsauskunft* über unseren Kunden.
 
-  Le gouvernement a fait effectuer une enquête par les services de renseignement.
-  Die Regierung hat nachrichtendienstlich ermitteln lassen.
+  Les *renseignements* administratifs sont disponibles en ligne.
+  Die amtlichen *Auskünfte* sind online verfügbar.
+
+  J'ai composé le numéro des *renseignements* pour obtenir son adresse.
+  Ich habe die *Auskunft* angerufen, um seine Adresse zu erhalten.
+
+  Le service de *renseignement* militaire surveille la situation.
+  Der militärische *Nachrichtendienst* überwacht die Situation.
+
+  Elle a pris des *renseignements* sur son futur employeur.
+  Sie hat *Erkundigungen* über ihren zukünftigen Arbeitgeber eingezogen.
+
+  *Renseignements* pris, cette entreprise n'est pas fiable.
+  Nach eingeholten *Erkundigungen* ist diese Firma nicht vertrauenswürdig.
+
+  La mission de *renseignement* aérien a été un succès.
+  Die *Aufklärungs*mission aus der Luft war erfolgreich.
+
+  Le guichet de *renseignements* ferme dans une heure.
+  Der *Informations*schalter schließt in einer Stunde.
+
+  De qui tenez-vous ce *renseignement* ?
+  Von wem haben Sie diese *Information*?
+
+  Les *renseignements* sur les horaires sont affichés à l'entrée.
+  Die *Informationen* zu den Öffnungszeiten hängen am Eingang aus.
+
+  Un officier de *renseignement* a infiltré le réseau criminel.
+  Ein *Geheimdienstler* hat das kriminelle Netzwerk infiltriert.
+
+  Le *renseignement* économique est devenu crucial pour les entreprises.
+  Die wirtschaftliche *Aufklärung* ist für Unternehmen unverzichtbar geworden.
+
+  Nous attendons des *renseignements* complémentaires de notre partenaire.
+  Wir warten auf weitere *Informationen* von unserem Partner.
+
+  Cette personne a été entendue à titre de *renseignement*.
+  Diese Person wurde zur *Auskunft* angehört.
+
+  Le *renseignement* par satellite a révélé de nouvelles installations.
+  Die *Aufklärung* per Satellit hat neue Anlagen enthüllt.
+
+  Les banques ont une obligation de *renseignement* envers leurs clients.
+  Banken haben eine *Auskunfts*pflicht gegenüber ihren Kunden.
+
+  Demandez un *renseignement* bancaire avant de leur faire confiance.
+  Holen Sie eine *Bank*auskunft ein, bevor Sie ihnen vertrauen.
+
+  Le service de *renseignement* russe a recruté un nouvel agent.
+  Der russische *Geheimdienst* hat einen neuen Agenten rekrutiert.
+
+  Elle travaille pour les *renseignements* depuis vingt ans.
+  Sie arbeitet seit zwanzig Jahren beim *Geheimdienst*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

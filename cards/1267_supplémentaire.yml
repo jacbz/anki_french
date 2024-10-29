@@ -13,20 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Voilà un exemple supplémentaire.
-  Hier ist ein weiteres Beispiel.
+  Voilà un exemple *supplémentaire*.
+  Hier ist ein *zusätzliches* Beispiel.
 
-  Nous avons besoin d’un budget supplémentaire.
-  Wir brauchen ein zusätzliches Budget.
+  Pour les fêtes, la SNCF met en service des trains *supplémentaires*.
+  Für die Feiertage setzt die französische Bahn *zusätzliche* Züge ein.
 
-  Le service supplémentaire est un service que l'entreprise offre en plus de ses services habituels.
-  Die Extraleistung ist eine Leistung, die das Unternehmen zusätzlich zu seinen üblichen Leistungen anbietet.
+  Mon patron me demande souvent de faire des heures *supplémentaires*.
+  Mein Chef verlangt oft von mir, *Überstunden* zu machen.
 
-  Un angle supplémentaire est un angle qui est formé lorsque deux angles sont ajoutés ensemble.
-  Ein Ergänzungswinkel ist ein Winkel, der gebildet wird, wenn zwei Winkel zusammengefügt werden.
+  L'entreprise va recruter du personnel *supplémentaire* pour l'été.
+  Die Firma wird *zusätzliches* Personal für den Sommer einstellen.
 
-  L'heure supplémentaire est le temps travaillé au-delà des heures normales de travail.
-  Überstunden sind die Zeit, die über die normale Arbeitszeit hinaus gearbeitet wird.
+  Les travaux vont engendrer des frais *supplémentaires*.
+  Die Arbeiten werden *zusätzliche* Kosten verursachen.
+
+  Nous avons besoin d'un délai *supplémentaire* pour finir le projet.
+  Wir brauchen eine *zusätzliche* Frist, um das Projekt abzuschließen.
+
+  Cette tâche représente une fatigue *supplémentaire* pour les employés.
+  Diese Aufgabe bedeutet eine *zusätzliche* Belastung für die Mitarbeiter.
+
+  Le restaurant propose un service *supplémentaire* de livraison à domicile.
+  Das Restaurant bietet einen *Extra*service mit Lieferung nach Hause an.
+
+  Les élèves doivent payer une cotisation *supplémentaire* pour les activités sportives.
+  Die Schüler müssen einen *zusätzlichen* Beitrag für die Sportaktivitäten zahlen.
+
+  Pour ce prix, vous bénéficiez d'une prestation *supplémentaire*.
+  Für diesen Preis erhalten Sie eine *Extra*leistung.
+
+  J'ai commandé une ration *supplémentaire* pour notre invité surprise.
+  Ich habe eine *zusätzliche* Portion für unseren überraschenden Gast bestellt.
+
+  En géométrie, deux angles sont *supplémentaires* si leur somme vaut 180 degrés.
+  In der Geometrie sind zwei Winkel *Ergänzungswinkel*, wenn ihre Summe 180 Grad beträgt.
+
+  Le musicien a ajouté une ligne *supplémentaire* à la partition.
+  Der Musiker hat eine *zusätzliche* Linie zur Partitur hinzugefügt.
+
+  "Tu vas me payer mes heures *supplémentaires* ?"
+  "Wirst du mir meine *Überstunden* bezahlen?"
+
+  La compagnie aérienne propose des vols *supplémentaires* pendant les vacances.
+  Die Fluggesellschaft bietet während der Ferien *zusätzliche* Flüge an.
+
+  Nous aurons besoin d'ouvriers *supplémentaires* pour terminer le chantier à temps.
+  Wir werden *zusätzliche* Arbeiter brauchen, um die Baustelle rechtzeitig fertigzustellen.
+
+  L'édition *supplémentaire* du journal sera disponible ce soir.
+  Die *Sonder*ausgabe der Zeitung wird heute Abend erhältlich sein.
+
+  Le professeur a préparé des exercices *supplémentaires* pour les élèves avancés.
+  Der Lehrer hat *zusätzliche* Übungen für die fortgeschrittenen Schüler vorbereitet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

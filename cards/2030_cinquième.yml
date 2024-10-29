@@ -13,41 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il s’agissait de la cinquième médaille olympique de sa carrière.
-  Es war die fünfte olympische Medaille in ihrer Karriere.
+  Il s'agissait de la *cinquième* médaille olympique de sa carrière.
+  Es war die *fünfte* olympische Medaille seiner Karriere.
 
-  Il est arrivé cinquième à la course.
-  Er ist bei dem Rennen Fünfter geworden.
+  La *cinquième* page avant la fin est déchirée.
+  Die *fünft*letzte Seite ist eingerissen.
 
-  La cinquième page avant la fin du livre était la plus intéressante.
-  Die fünftletzte Seite des Buches war die interessanteste.
+  Marie est arrivée *cinquième* à la compétition de natation.
+  Marie ist beim Schwimmwettbewerb *Fünfte* geworden.
 
-  Le cinquième jour du mois, il y a un marché dans le village.
-  Am fünften Tag des Monats gibt es einen Markt im Dorf.
+  L'invention de l'imprimerie au *cinquième* siècle a révolutionné la communication.
+  Die Erfindung des Buchdrucks im *fünften* Jahrhundert revolutionierte die Kommunikation.
 
-  Les trois cinquièmes du gâteau ont été mangés par les enfants.
-  Drei Fünftel des Kuchens haben die Kinder gegessen.
+  Au *cinquième* coup de sonnette, elle a finalement ouvert la porte.
+  Beim *fünften* Klingeln hat sie endlich die Tür geöffnet.
 
-  Il faut passer en cinquième pour monter cette côte.
-  Man muss in den fünften Gang schalten, um diesen Berg hinaufzufahren.
+  Nous célébrons le *cinquième* centenaire de notre université.
+  Wir feiern das *fünfhundert*jährige Jubiläum unserer Universität.
 
-  Il habite au cinquième étage, tout au bout du couloir.
-  Er wohnt im fünften Stock, ganz am Ende des Ganges.
+  Thomas est le *cinquième* de la classe en mathématiques.
+  Thomas ist der *Fünfte* der Klasse in Mathematik.
 
-  Elle habite dans le cinquième arrondissement, à côté du jardin du Luxembourg.
-  Sie wohnt im fünften Arrondissement, neben dem Jardin du Luxembourg.
+  Elle était la *cinquième* à demander un autographe.
+  Sie war die *Fünfte*, die um ein Autogramm bat.
 
-  Elle est élève de cinquième, elle a 11 ans.
-  Sie ist in der siebten Klasse, sie ist 11 Jahre alt.
+  Les trois *cinquièmes* des électeurs ont voté pour ce candidat.
+  Drei *Fünftel* der Wähler haben für diesen Kandidaten gestimmt.
 
-  Il est arrivé cinquième à la course, mais il était content de sa performance.
-  Er wurde Fünfter im Rennen, aber er war mit seiner Leistung zufrieden.
+  Ils habitent au *cinquième* depuis dix ans.
+  Sie wohnen seit zehn Jahren im *fünften* Stock.
 
-  Au cinquième siècle avant Jésus-Christ, la Grèce antique était à son apogée.
-  Im fünften Jahrhundert vor Christus erlebte das antike Griechenland seine Blütezeit.
+  Mon restaurant préféré se trouve dans le *cinquième*.
+  Mein Lieblingsrestaurant befindet sich im *fünften* Arrondissement.
 
-  Au cinquième coup de sonnette, il se leva et ouvrit la porte.
-  Als es zum fünften Mal läutete, stand er auf und öffnete die Tür.
+  La *cinquième* syllabe de cette charade est "tor".
+  Die *fünfte* Silbe dieses Worträtsels ist "tor".
+
+  Il a passé en *cinquième* pour dépasser le camion.
+  Er hat in den *fünften* Gang geschaltet, um den Lastwagen zu überholen.
+
+  Mon fils entre en *cinquième* cette année.
+  Mein Sohn kommt dieses Jahr in die *siebte* Klasse.
+
+  La Ve (*cinquième*) République française existe depuis 1958.
+  Die *fünfte* französische Republik existiert seit 1958.
+
+  Je consacre un *cinquième* de mon salaire aux loisirs.
+  Ich widme ein *Fünftel* meines Gehalts der Freizeit.
+
+  Pierre est *cinquième* sur la liste d'attente.
+  Pierre steht an *fünfter* Stelle auf der Warteliste.
+
+  La *cinquième* partie de la classe est partie en voyage scolaire.
+  Ein *Fünftel* der Klasse ist auf Klassenfahrt gegangen.
+
+  Le médecin a diagnostiqué la *cinquième* maladie chez l'enfant.
+  Der Arzt hat bei dem Kind die *Fünfte* Krankheit diagnostiziert.
+
+  Le *cinquième* bataillon partira demain matin.
+  Das *fünfte* Bataillon wird morgen früh aufbrechen.
+
+  C'est déjà la *cinquième* fois que je te le dis !
+  Das ist schon das *fünfte* Mal, dass ich dir das sage!
+
+  La *cinquième* année est souvent décisive pour les étudiants.
+  Das *fünfte* Jahr ist oft entscheidend für die Studenten.
+
+  Elle pratique la danse classique en *cinquième* position.
+  Sie übt den klassischen Tanz in der *fünften* Position.
+
+  Le *cinquième* chapitre traite des énergies renouvelables.
+  Das *fünfte* Kapitel behandelt erneuerbare Energien.
+
+  Les deux *cinquièmes* de la forêt ont été touchés par l'incendie.
+  Zwei *Fünftel* des Waldes wurden von dem Feuer betroffen.
+
+  Notre professeur de *cinquième* organise une sortie au musée.
+  Unser Lehrer der *siebten* Klasse organisiert einen Museumsbesuch.
+
+  Il hérite d'un *cinquième* de la propriété familiale.
+  Er erbt ein *Fünftel* des Familienbesitzes.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

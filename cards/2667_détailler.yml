@@ -13,14 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai reçu une lettre détaillée.
-  Ich habe einen ausführlichen Brief erhalten.
+  J'ai reçu une lettre *détaillée*.
+  Ich habe einen *ausführlichen* Brief erhalten.
 
-  Je vais vous détailler le plan.
-  Ich werde Ihnen den Plan detailliert erklären.
+  Le boucher *détaille* la viande en petits morceaux.
+  Der Metzger *zerteilt* das Fleisch in kleine Stücke.
 
-  Elle le détailla de la tête au pied, sans rien manquer.
-  Sie musterte ihn von Kopf bis Fuß, ohne irgendetwas zu übersehen.
+  Elle *détaillait* tous ses défauts sans pitié.
+  Sie *zählte* schonungslos all seine Fehler *auf*.
+
+  Le vendeur ne *détaille* pas ce produit, il le vend uniquement en gros.
+  Der Verkäufer verkauft dieses Produkt nicht im *Einzelverkauf*, sondern nur im Großhandel.
+
+  Il m'a *détaillé* son plan pour les vacances.
+  Er hat mir seinen Urlaubsplan *ausführlich erläutert*.
+
+  Pour la recette, *détaillez* les légumes en petits dés.
+  Für das Rezept *schneiden* Sie das Gemüse in kleine Würfel.
+
+  Le rapport *détaillé* de la réunion sera envoyé demain.
+  Der *detaillierte* Bericht über die Sitzung wird morgen verschickt.
+
+  Le professeur nous a *détaillé* les raisons de sa décision.
+  Der Lehrer hat uns die Gründe für seine Entscheidung *im Detail erklärt*.
+
+  Elle s'est arrêtée pour me *détailler* de la tête aux pieds.
+  Sie blieb stehen, um mich von Kopf bis Fuß zu *mustern*.
+
+  Le peintre *détaille* chaque élément du paysage avec précision.
+  Der Maler *arbeitet* jedes Element der Landschaft präzise *aus*.
+
+  Le commerçant *détaille* ses marchandises depuis vingt ans.
+  Der Händler verkauft seine Waren seit zwanzig Jahren im *Einzelhandel*.
+
+  L'expert *détaillera* les défauts techniques du bâtiment.
+  Der Experte wird die technischen Mängel des Gebäudes *einzeln aufführen*.
+
+  Je vais vous *détailler* les étapes à suivre.
+  Ich werde Ihnen die zu befolgenden Schritte *im Detail erklären*.
+
+  L'actrice *détaillait* son texte avec une grande précision.
+  Die Schauspielerin *artikulierte* ihren Text mit großer Präzision.
+
+  Le chef nous a demandé de *détailler* les coûts du projet.
+  Der Chef hat uns gebeten, die Projektkosten *aufzuschlüsseln*.
+
+  La facture *détaillée* arrivera la semaine prochaine.
+  Die *aufgeschlüsselte* Rechnung kommt nächste Woche.
+
+  Le journaliste a *détaillé* les événements de la journée.
+  Der Journalist hat die Ereignisse des Tages *ausführlich geschildert*.
+
+  Il faut *détailler* les carottes en rondelles fines.
+  Die Karotten müssen in dünne Scheiben *geschnitten* werden.
+
+  L'architecte a *détaillé* chaque aspect de la construction.
+  Der Architekt hat jeden Aspekt des Baus *im Detail beschrieben*.
+
+  Le devis très *détaillé* nous a permis de prendre une décision.
+  Der sehr *detaillierte* Kostenvoranschlag hat uns ermöglicht, eine Entscheidung zu treffen.
+
+  Le guide *détaillait* l'histoire de chaque monument.
+  Der Führer *erläuterte* die Geschichte jedes Denkmals *ausführlich*.
+
+  Le boucher *détaille* le bœuf pour ses clients.
+  Der Metzger *zerlegt* das Rindfleisch für seine Kunden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

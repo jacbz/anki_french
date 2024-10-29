@@ -13,20 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je constate de ce fait.
-  Ich stelle diese Tatsache fest.
+  Je *constate* de ce fait.
+  Ich *stelle* dies fest.
 
-  Je dois constater que tu as raison.
-  Ich muss feststellen, dass du recht hast.
+  On a *constaté* une hausse significative des températures depuis dix ans.
+  Man hat seit zehn Jahren einen signifikanten Temperaturanstieg *festgestellt*.
 
-  Pierre a constaté que Marie avait raison en ce qui concernait la stratégie de l'entreprise.
-  Pierre hat festgestellt, dass Marie mit ihrer Strategie für die Firma Recht hatte.
+  Le médecin a *constaté* le décès à 3 heures du matin.
+  Der Arzt hat den Tod um 3 Uhr morgens *bescheinigt*.
 
-  Il a fait constater son identité par un policier, car il n'avait pas ses papiers sur lui.
-  Er hat sich seine Identität von einem Polizisten bescheinigen lassen, weil er seine Papiere nicht dabei hatte.
+  En rentrant, elle a *constaté* que sa voiture avait disparu.
+  Als sie nach Hause kam, *stellte* sie fest, dass ihr Auto verschwunden war.
 
-  Les experts ont constaté l'identité du criminel grâce aux empreintes digitales.
-  Die Experten haben die Nämlichkeit des Verbrechers anhand der Fingerabdrücke festgestellt.
+  L'huissier a *constaté* les dommages causés par la tempête.
+  Der Gerichtsvollzieher hat die durch den Sturm verursachten Schäden *dokumentiert*.
+
+  Je dois malheureusement *constater* que vous avez tort.
+  Ich muss leider *feststellen*, dass Sie Unrecht haben.
+
+  Les scientifiques ont *constaté* la présence de nouveaux polluants dans l'eau.
+  Die Wissenschaftler haben das Vorhandensein neuer Schadstoffe im Wasser *nachgewiesen*.
+
+  Il a fait *constater* son accident par la police.
+  Er ließ seinen Unfall von der Polizei *aufnehmen*.
+
+  Nous *constatons* avec plaisir vos progrès en français.
+  Wir *stellen* mit Freude Ihre Fortschritte in Französisch *fest*.
+
+  Les chercheurs ont *constaté* une augmentation du niveau des océans.
+  Die Forscher haben einen Anstieg des Meeresspiegels *beobachtet*.
+
+  Elle a *constaté* son erreur trop tard.
+  Sie hat ihren Fehler zu spät *bemerkt*.
+
+  Le rapport *constate* une amélioration de la situation.
+  Der Bericht *stellt* eine Verbesserung der Situation *fest*.
+
+  Tu *constates* que j'avais raison depuis le début ?
+  *Stellst* du fest, dass ich von Anfang an Recht hatte?
+
+  Les experts ont *constaté* l'authenticité du tableau.
+  Die Experten haben die Echtheit des Gemäldes *bestätigt*.
+
+  Je *constate* avec regret votre absence à la réunion.
+  Ich *stelle* mit Bedauern Ihre Abwesenheit bei der Sitzung *fest*.
+
+  Nous avons dû *constater* l'échec de notre projet.
+  Wir mussten das Scheitern unseres Projekts *feststellen*.
+
+  Le jury a *constaté* plusieurs irrégularités pendant le concours.
+  Die Jury hat während des Wettbewerbs mehrere Unregelmäßigkeiten *festgestellt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

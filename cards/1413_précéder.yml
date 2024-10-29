@@ -13,38 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La métaphysique ne doit pas précéder la physique, elle doit la suivre.
-  Die Metaphysik darf der Physik nicht vorausgehen, sondern muss ihr folgen.
+  La métaphysique ne doit pas *précéder* la physique, elle doit la suivre.
+  Die Metaphysik darf der Physik nicht *vorausgehen*, sie muss ihr folgen.
 
-  Le numéro 2 précède le numéro 3.
-  Die Nummer 2 geht der Nummer 3 voraus.
+  Les symptômes qui *précèdent* la maladie sont souvent difficiles à identifier.
+  Die Symptome, die der Krankheit *vorausgehen*, sind oft schwer zu erkennen.
 
-  Le chemin était très dangereux et ils ont dû précéder la voiture avec une lampe torche pour éclairer la route.
-  Sie befanden sich vor einer sehr gefährlichen Strecke und mussten mit einer Taschenlampe vor dem Auto hergehen, um den Weg zu beleuchten.
+  Un long silence a *précédé* sa réponse.
+  Seiner Antwort ging ein langes Schweigen *voraus*.
 
-  Les jours qui précédaient son départ, elle avait passé des nuits blanches à préparer ses valises.
-  An den Tagen zuvor hatte sie schlaflose Nächte verbracht, um ihre Koffer zu packen.
+  La préposition *précède* toujours le nom dans cette construction.
+  Die Präposition steht in dieser Konstruktion immer *vor* dem Nomen.
 
-  Le jeune homme a précédé la vieille dame pour lui ouvrir la porte.
-  Der junge Mann ist vor der alten Dame gegangen, um ihr die Tür aufzumachen.
+  Je vais vous *précéder* pour vous montrer le chemin.
+  Ich werde *vorangehen*, um Ihnen den Weg zu zeigen.
 
-  Le jour qui précédait leur départ, ils ont fait leurs adieux à leurs amis.
-  Am Tag vor ihrer Abreise haben sie sich von ihren Freunden verabschiedet.
+  Sa mauvaise réputation l'avait *précédé* dans cette ville.
+  Sein schlechter Ruf war ihm in dieser Stadt *vorausgeeilt*.
 
-  L'article précède le nom dans la plupart des langues.
-  Der Artikel steht vor dem Nomen in den meisten Sprachen.
+  Une chaleur lourde *précède* généralement l'orage.
+  Dem Gewitter *geht* normalerweise eine drückende Hitze *voraus*.
 
-  Je vais vous précéder pour vous montrer le chemin.
-  Ich werde vorangehen, um dir den Weg zu zeigen.
+  Le guide *précédait* le groupe dans la montagne.
+  Der Führer ging der Gruppe in den Bergen *voran*.
 
-  Elle m'a précédé de quelques minutes et a pris la meilleure place.
-  Sie war wenige Minuten vor mir da und hat sich den besten Platz gesichert.
+  La fanfare *précédait* le défilé dans les rues.
+  Die Blaskapelle *ging* dem Umzug in den Straßen *voraus*.
 
-  J'allais vous téléphoner, mais vous m'avez précédé.
-  Ich wollte Sie eben anrufen, aber Sie sind mir zuvorgekommen.
+  Elle m'a *précédé* de quelques minutes au rendez-vous.
+  Sie war einige Minuten vor mir beim Treffen.
 
-  Dans le chapitre qui précède, nous avons appris les bases de la grammaire.
-  Im vorangehenden Kapitel haben wir die Grundlagen der Grammatik kennengelernt.
+  Dans le chapitre qui *précède*, nous avons vu les bases.
+  Im *vorausgehenden* Kapitel haben wir die Grundlagen gesehen.
+
+  L'avant-propos qui *précède* cet ouvrage explique tout.
+  Das *vorangestellte* Vorwort erklärt alles.
+
+  Le portail est *précédé* d'une belle allée d'arbres.
+  Vor dem Portal *liegt* eine schöne Baumallee.
+
+  Veuillez faire *précéder* votre signature de la date.
+  Bitte setzen Sie das Datum *vor* Ihre Unterschrift.
+
+  Ceux qui nous ont *précédés* ont construit les fondations.
+  Diejenigen, die uns *vorausgingen*, haben die Grundlagen geschaffen.
+
+  L'avant-garde *précédait* l'armée principale.
+  Die Vorhut *ging* der Hauptarmee *voraus*.
+
+  J'allais t'appeler, mais tu m'as *précédé*.
+  Ich wollte dich anrufen, aber du bist mir *zuvorgekommen*.
+
+  Le jour qui *précédait* leur mariage était plein d'excitation.
+  Der Tag vor ihrer Hochzeit war voller Aufregung.
+
+  Une période de tension *précède* souvent les examens.
+  Den Prüfungen *geht* oft eine Zeit der Anspannung *voraus*.
+
+  Les éclairs *précèdent* toujours le tonnerre.
+  Die Blitze *gehen* dem Donner immer *voraus*.
+
+  Le directeur qui m'a *précédé* avait une approche différente.
+  Der Direktor, der mir *vorausging*, hatte einen anderen Ansatz.
+
+  La théorie doit être *précédée* par la pratique.
+  Der Theorie muss die Praxis *vorausgehen*.
+
+  L'introduction *précède* le développement dans une dissertation.
+  Die Einleitung steht in einem Aufsatz *vor* der Ausarbeitung.
+
+  Un moment de silence *précède* toujours son discours.
+  Seiner Rede *geht* immer ein Moment der Stille *voraus*.
+
+  Dans l'alphabet, la lettre M *précède* la lettre N.
+  Im Alphabet steht der Buchstabe M *vor* dem Buchstaben N.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,41 @@ Register: ↘Fiktion ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les honorables sénateurs ont été si généreux.
-  Die ehrenwerten Senatoren waren so großzügig.
+  Les honorables *sénateurs* ont été si généreux.
+  Die ehrenwerten *Senatoren* waren so großzügig.
 
-  Le sénateur a présenté un projet de loi.
-  Der Senator hat einen Gesetzesentwurf vorgelegt.
+  La *sénatrice* du Nord a présenté un nouveau projet de loi.
+  Die *Senatorin* aus dem Département Nord hat einen neuen Gesetzentwurf vorgestellt.
+
+  Les *sénateurs* romains portaient une toge bordée de pourpre.
+  Die römischen *Senatoren* trugen eine purpurgesäumte Toga.
+
+  Le *sénateur* américain a prononcé un discours passionné sur le changement climatique.
+  Der amerikanische *Senator* hielt eine leidenschaftliche Rede über den Klimawandel.
+
+  Il marche d'un *train de sénateur* dans les couloirs du Palais.
+  Er schreitet *würdevoll wie ein Senator* durch die Flure des Palasts.
+
+  Notre *sénatrice* défend activement les droits des femmes.
+  Unsere *Senatorin* setzt sich aktiv für Frauenrechte ein.
+
+  Les *sénateurs* se réunissent au Palais du Luxembourg.
+  Die *Senatoren* versammeln sich im Palais du Luxembourg.
+
+  Le *sénateur-maire* de notre ville travaille jour et nuit.
+  Der *Senator* und Bürgermeister unserer Stadt arbeitet Tag und Nacht.
+
+  Marie Dupont sera la première *sénatrice* de notre région.
+  Marie Dupont wird die erste *Senatorin* unserer Region sein.
+
+  Les *sénateurs* représentent les intérêts des collectivités territoriales.
+  Die *Senatoren* vertreten die Interessen der Gebietskörperschaften.
+
+  Le jeune *sénateur* a surpris tout le monde par son éloquence.
+  Der junge *Senator* hat alle mit seiner Redegewandtheit überrascht.
+
+  La *sénatrice* Smith présidera la commission d'enquête.
+  *Senatorin* Smith wird den Untersuchungsausschuss leiten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

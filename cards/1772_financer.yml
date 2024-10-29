@@ -13,17 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il a déjà financé des films en europe.
-  Er hat bereits Filme in europa finanziert.
+  Il a déjà *financé* des films en Europe.
+  Er hat schon Filme in Europa *finanziert*.
 
-  Nous devons trouver un moyen de financer ce projet.
-  Wir müssen eine Möglichkeit finden, dieses Projekt zu finanzieren.
+  "C'est toujours moi qui dois *financer*, c'est pas juste !"
+  "Immer muss ich *blechen*, das ist nicht fair!"
 
-  Le projet a été financé par le budget de la ville.
-  Das Projekt wurde aus dem städtischen Haushalt finanziert.
+  La banque a refusé de *financer* l'achat de leur maison.
+  Die Bank hat sich geweigert, den Hauskauf zu *finanzieren*.
 
-  Le programme est financé par le budget fédéral.
-  Das Programm wird vom Bundeshaushalt finanziert.
+  Ces travaux seront entièrement *financés* par la ville.
+  Diese Bauarbeiten werden vollständig von der Stadt *finanziert*.
+
+  Comment vas-tu *financer* tes études ?
+  Wie willst du dein Studium *finanzieren*?
+
+  Le projet est *financé* par des fonds privés.
+  Das Projekt wird durch private Gelder *finanziert*.
+
+  Un riche mécène a accepté de *financer* leur exposition d'art.
+  Ein reicher Mäzen hat eingewilligt, ihre Kunstausstellung zu *finanzieren*.
+
+  L'État *finance* la construction du nouveau pont.
+  Der Staat *finanziert* den Bau der neuen Brücke.
+
+  Ce programme est *financé* par le budget européen.
+  Dieses Programm wird aus dem EU-Haushalt *finanziert*.
+
+  Ma grand-mère m'a aidé à *financer* mes études à l'étranger.
+  Meine Großmutter hat mir geholfen, mein Auslandsstudium zu *finanzieren*.
+
+  L'entreprise cherche des investisseurs pour *financer* son expansion.
+  Das Unternehmen sucht Investoren, um seine Expansion zu *finanzieren*.
+
+  "Si tu veux participer, il faudra *financer* ta part !"
+  "Wenn du mitmachen willst, musst du deinen Anteil *blechen*!"
+
+  Les parents ont dû *financer* les réparations de la voiture.
+  Die Eltern mussten die Autoreparaturen *finanzieren*.
+
+  Plusieurs donateurs se sont proposés pour *financer* la recherche médicale.
+  Mehrere Spender haben angeboten, die medizinische Forschung zu *finanzieren*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

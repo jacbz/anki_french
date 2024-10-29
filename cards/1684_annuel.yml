@@ -13,20 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’inflation annuelle a augmenté à 4.1 %.
-  Die jährliche Inflation stieg auf 4,1 %.
+  L'inflation *annuelle* a augmenté à 4.1 %.
+  Die *jährliche* Inflation ist auf 4,1 % gestiegen.
 
-  Le rapport annuel est prêt.
-  Der Jahresbericht ist bereit.
+  Le rapport *annuel* de l'entreprise sera publié la semaine prochaine.
+  Der *Jahres*bericht des Unternehmens wird nächste Woche veröffentlicht.
 
-  Le directeur a annoncé que les employés auront droit à un congé annuel de trois semaines.
-  Der Geschäftsführer hat bekannt gegeben, dass die Angestellten Anspruch auf drei Wochen Jahresurlaub haben.
+  Notre club organise une fête *annuelle* pour tous les membres.
+  Unser Verein organisiert eine *jährliche* Feier für alle Mitglieder.
 
-  Les retraités reçoivent une rente annuelle de 1 500 euros.
-  Die Rentner erhalten eine Jahresrente von 1 500 Euro.
+  Les tournesols sont des plantes *annuelles* qui fleurissent en été.
+  Sonnenblumen sind *einjährige* Pflanzen, die im Sommer blühen.
 
-  Il est important de faire une visite annuelle chez le dentiste pour prévenir les problèmes dentaires.
-  Es ist wichtig, einen jährlichen Zahnarztbesuch zu machen, um Zahnproblemen vorzubeugen.
+  La révolution *annuelle* de la Terre autour du Soleil détermine nos saisons.
+  Der *jährliche* Umlauf der Erde um die Sonne bestimmt unsere Jahreszeiten.
+
+  Mon *annuel* chez le dentiste est prévu pour demain matin.
+  Meine *jährliche* Zahnarztkontrolle ist für morgen Morgen geplant.
+
+  Les employés ont droit à cinq semaines de congés *annuels*.
+  Die Angestellten haben Anspruch auf fünf Wochen *Jahres*urlaub.
+
+  Sa rente *annuelle* lui permet de vivre confortablement.
+  Seine *Jahres*rente ermöglicht ihm ein komfortables Leben.
+
+  Le budget *annuel* de la ville sera voté jeudi prochain.
+  Der *Jahres*haushalt der Stadt wird nächsten Donnerstag verabschiedet.
+
+  Cette redevance *annuelle* doit être payée avant le 31 décembre.
+  Diese *jährliche* Gebühr muss vor dem 31. Dezember bezahlt werden.
+
+  Les dépenses *annuelles* du ménage ont considérablement augmenté.
+  Die *Jahres*ausgaben des Haushalts sind erheblich gestiegen.
+
+  La température moyenne *annuelle* dans cette région est de 15 degrés.
+  Die *jährliche* Durchschnittstemperatur in dieser Region beträgt 15 Grad.
+
+  L'abonnement *annuel* au journal coûte moins cher que douze mensualités.
+  Das *Jahres*abonnement der Zeitung ist günstiger als zwölf Monatsraten.
+
+  Notre assemblée *annuelle* aura lieu le mois prochain.
+  Unsere *jährliche* Versammlung findet nächsten Monat statt.
+
+  Les pâquerettes sont des plantes *annuelles* très faciles à cultiver.
+  Gänseblümchen sind sehr pflegeleichte *einjährige* Pflanzen.
+
+  Le bilan *annuel* montre une amélioration significative des résultats.
+  Die *Jahres*bilanz zeigt eine deutliche Verbesserung der Ergebnisse.
+
+  La visite médicale *annuelle* est obligatoire pour les sportifs professionnels.
+  Die *jährliche* ärztliche Untersuchung ist für Profisportler verpflichtend.
+
+  Cette révision *annuelle* de la voiture est indispensable pour la sécurité.
+  Diese *jährliche* Fahrzeuginspektion ist für die Sicherheit unerlässlich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

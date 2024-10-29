@@ -13,41 +13,134 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  S’il promet quelque chose, il tient parole.
-  Wenn er etwas verspricht, hält er sein Wort.
+  S'il *promet* quelque chose, il tient parole.
+  Wenn er etwas *verspricht*, hält er sein Wort.
 
-  Je te promets que je serai là demain.
-  Ich verspreche dir, dass ich morgen da sein werde.
+  Elle m'a *promis* son aide pour déménager.
+  Sie hat mir ihre Hilfe beim Umzug *zugesagt*.
 
-  Je promets de faire de mon mieux.
-  Ich verspreche, dass ich mein Bestes geben werde.
+  Je ne peux pas vous *promettre* le succès, mais je ferai de mon mieux.
+  Ich kann Ihnen den Erfolg nicht *versichern*, aber ich werde mein Bestes geben.
 
-  Je vous promets que je ne le ferai plus.
-  Ich verspreche Ihnen, dass ich das nicht mehr tun werde.
+  La météo *promet* du soleil pour ce week-end.
+  Der Wetterbericht *sagt* für dieses Wochenende Sonne *voraus*.
 
-  J'ai promis le secret à Marie, car je sais qu'elle est digne de confiance.
-  Ich habe Marie versprochen, nichts zu verraten, weil ich weiß, dass sie vertrauenswürdig ist.
+  Ce jeune artiste *promet* beaucoup.
+  Dieser junge Künstler *verspricht* viel.
 
-  Elle s'est promise de faire de l'exercice tous les jours pour améliorer sa santé.
-  Sie hat sich fest vorgenommen, jeden Tag Sport zu treiben, um ihre Gesundheit zu verbessern.
+  Je me suis *promis* de ne plus fumer.
+  Ich habe mir fest *vorgenommen*, nicht mehr zu rauchen.
 
-  "Je ne te parlerai pas de ça, c'est promis juré !" a-t-il affirmé.
-  "Ich werde dir nichts davon erzählen, das ist hoch und heilig versprochen!", hat er versichert.
+  "C'est *promis juré*!"
+  "Das ist *hoch und heilig versprochen*!"
 
-  Il faut pas lui en promettre, il ne se contente pas de paroles.
-  Er begnügt sich nicht mit Versprechungen, man sollte ihm keine machen.
+  Les nuages noirs ne *promettent* rien de bon.
+  Die schwarzen Wolken *verheißen* nichts Gutes.
 
-  "Ne t'inquiète pas, ça je te le promets !" a-t-elle dit avec un sourire.
-  "Keine Sorge, das schwöre ich dir!", sagte sie mit einem Lächeln.
+  Il m'a *promis* le secret.
+  Er hat mir *versprochen*, nichts zu verraten.
 
-  Les nuages noirs ne promettent rien de bon pour la randonnée de demain.
-  Die dunklen Wolken versprechen nichts Gutes für die Wanderung von morgen.
+  Je te *promets* que tu ne le regretteras pas.
+  Ich *schwöre* dir, dass du es nicht bereuen wirst.
 
-  Il s'est promis des ennuis en s'immisçant dans cette affaire.
-  Er hat sich mit Ärger eingehandelt, indem er sich in diese Angelegenheit eingemischt hat.
+  Elle s'est *promis* beaucoup de plaisir de ces vacances.
+  Sie hat sich von diesem Urlaub viel Freude *versprochen*.
 
-  Nous nous promettons du plaisir d'un voyage en Italie cet été.
-  Wir versprechen uns von einer Reise nach Italien in diesem Sommer viel Vergnügen.
+  "*Ça promet*!" dit-il en voyant le désordre.
+  "Das kann ja heiter werden!" sagte er beim Anblick des Chaos.
+
+  Ils se sont *promis* de rester amis.
+  Sie haben sich *versprochen*, Freunde zu bleiben.
+
+  Les parents m'ont *promis* une récompense si je réussis mes examens.
+  Die Eltern haben mir eine Belohnung *versprochen*, wenn ich meine Prüfungen bestehe.
+
+  Il *promet* toujours monts et merveilles.
+  Er *verspricht* immer das Blaue vom Himmel.
+
+  Cette réunion *promet* d'être longue.
+  Diese Sitzung *verspricht* lang zu werden.
+
+  Ses talents le *promettent* à une brillante carrière.
+  Seine Talente *verheißen* ihm eine glänzende Karriere.
+
+  Je *promets* d'être à l'heure demain.
+  Ich *verspreche*, morgen pünktlich zu sein.
+
+  La soirée *promettait* d'être agréable.
+  Der Abend *versprach* angenehm zu werden.
+
+  "Je te *promets* que ce n'est pas ce que tu crois !"
+  "Ich *versichere* dir, dass es nicht das ist, was du denkst!"
+
+  Les premiers résultats *promettent* une belle récolte.
+  Die ersten Ergebnisse *versprechen* eine gute Ernte.
+
+  Il ne faut pas *promettre* plus qu'on ne peut tenir.
+  Man soll nicht mehr *versprechen*, als man halten kann.
+
+  Je me *promets* une belle récompense après ce travail.
+  Ich *verspreche* mir eine schöne Belohnung nach dieser Arbeit.
+
+  Cette startup *promet* beaucoup.
+  Dieses Startup *verspricht* viel.
+
+  Les enfants se sont *promis* de garder le secret.
+  Die Kinder haben sich *versprochen*, das Geheimnis zu bewahren.
+
+  Il m'a *promis* sa visite pour dimanche.
+  Er hat mir seinen Besuch für Sonntag *zugesagt*.
+
+  Le ciel *promet* de la pluie.
+  Der Himmel *prophezeit* Regen.
+
+  Tu m'avais *promis* ton soutien !
+  Du hattest mir deine Unterstützung *versprochen*!
+
+  Cette technologie *promet* de révolutionner notre quotidien.
+  Diese Technologie *verspricht* unseren Alltag zu revolutionieren.
+
+  Je me suis *promis* de ne plus faire cette erreur.
+  Ich habe mir fest *vorgenommen*, diesen Fehler nicht mehr zu machen.
+
+  Le début du film *promet* beaucoup.
+  Der Anfang des Films *verspricht* viel.
+
+  Les experts *promettent* une reprise économique.
+  Die Experten *prophezeien* einen wirtschaftlichen Aufschwung.
+
+  "*Il ne faut pas lui en promettre*", dit Marie en riant.
+  "Er begnügt sich nicht mit *Versprechungen*", sagte Marie lachend.
+
+  Cette terre *promise* est restée un rêve pour beaucoup.
+  Dieses *gelobte* Land blieb für viele ein Traum.
+
+  Je vous *promets* une réponse rapide.
+  Ich *sichere* Ihnen eine schnelle Antwort *zu*.
+
+  Nous nous sommes *promis* fidélité.
+  Wir haben uns Treue *geschworen*.
+
+  Le médecin *promet* une guérison rapide.
+  Der Arzt *verspricht* eine schnelle Heilung.
+
+  Les nouvelles ne *promettent* rien de bon.
+  Die Nachrichten *verheißen* nichts Gutes.
+
+  Elle s'était *promis* de réussir.
+  Sie hatte sich *vorgenommen* zu gewinnen.
+
+  "*Ça promet* pour la suite !" dit-il ironiquement.
+  "Das *verspricht* ja was für die Zukunft!" sagte er ironisch.
+
+  Ce projet *promet* des résultats intéressants.
+  Dieses Projekt *verspricht* interessante Ergebnisse.
+
+  Les événements récents ne *promettent* rien de bon.
+  Die jüngsten Ereignisse *verheißen* nichts Gutes.
+
+  Je te *promets* que tu ne le regretteras pas.
+  Ich *verspreche* dir, dass du es nicht bereuen wirst.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

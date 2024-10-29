@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il s’agit de vivre, c’est-à-dire d’avancer.
-  Es geht darum, zu leben, d. h. weiterzumachen.
+  Il s'agit de vivre, *c'est-à-dire* d'avancer.
+  Es geht darum zu leben, *das heißt* voranzukommen.
 
-  Je suis un polyglotte, c’est-à-dire que je parle plusieurs langues.
-  Ich bin ein Polyglott, das heißt, ich spreche mehrere Sprachen.
+  Le train arrive à 14h30, *c'est-à-dire* dans une demi-heure.
+  Der Zug kommt um 14:30 Uhr an, *das heißt* in einer halben Stunde.
 
-  Viendras-tu dimanche ? – C'est-à-dire que je suis déjà invité chez Marie.
-  Kommst du am Sonntag? – Eigentlich bin ich schon eingeladen bei Marie.
+  Mon frère est végétarien, *c'est-à-dire* qu'il ne mange pas de viande.
+  Mein Bruder ist Vegetarier, *das bedeutet*, dass er kein Fleisch isst.
 
-  J'ai égaré mes clés – C'est-à-dire que tu les as oubliées au bureau, sur le comptoir.
-  Ich habe meine Schlüssel verlegt – das heißt, du hast sie im Büro vergessen, auf dem Tresen.
+  Tu viendras à la fête ? - *C'est-à-dire* que j'ai déjà d'autres plans.
+  Kommst du zur Party? - *Die Sache ist die, dass* ich schon andere Pläne habe.
+
+  Elle parle trois langues, *c'est-à-dire* l'anglais, le français et l'espagnol.
+  Sie spricht drei Sprachen, *und zwar* Englisch, Französisch und Spanisch.
+
+  J'ai perdu mon portable - *C'est-à-dire* que tu l'as encore oublié au restaurant.
+  Ich habe mein Handy verloren - *Das heißt wohl*, du hast es wieder im Restaurant vergessen.
+
+  Il est insomniaque, *c'est-à-dire* qu'il a du mal à dormir la nuit.
+  Er leidet unter Schlaflosigkeit, *das bedeutet*, dass er nachts schlecht schlafen kann.
+
+  Nous partons bientôt, *c'est-à-dire* dans environ dix minutes.
+  Wir fahren bald los, *genauer gesagt* in ungefähr zehn Minuten.
+
+  Elle est philologue, *c'est-à-dire* qu'elle étudie les langues anciennes.
+  Sie ist Philologin, *das heißt*, sie erforscht alte Sprachen.
+
+  Tu as fini le projet ? - *C'est-à-dire* que j'ai encore quelques détails à régler.
+  Bist du mit dem Projekt fertig? - *Also eigentlich* muss ich noch ein paar Details klären.
+
+  Cette machine est automatique, *c'est-à-dire* qu'elle fonctionne toute seule.
+  Diese Maschine ist automatisch, *das bedeutet*, sie funktioniert von alleine.
+
+  Il habite en banlieue, *c'est-à-dire* à vingt minutes du centre-ville.
+  Er wohnt in der Vorstadt, *das heißt* zwanzig Minuten vom Stadtzentrum entfernt.
+
+  Je suis fatigué, *c'est-à-dire* que je n'ai dormi que quatre heures.
+  Ich bin müde, *das liegt daran, dass* ich nur vier Stunden geschlafen habe.
+
+  Elle est polyglotte, *c'est-à-dire* qu'elle parle plusieurs langues.
+  Sie ist polyglott, *das heißt*, sie spricht mehrere Sprachen.
+
+  Tu prendras le train de midi ? - *C'est-à-dire* que je préfère celui de 14h.
+  Nimmst du den Zug um zwölf? - *Also eigentlich* nehme ich lieber den um 14 Uhr.
+
+  J'ai fait une erreur, *c'est-à-dire* que j'ai mal calculé le temps nécessaire.
+  Ich habe einen Fehler gemacht, *und zwar* habe ich die benötigte Zeit falsch berechnet.
+
+  Il est parti tôt, *c'est-à-dire* vers huit heures ce matin.
+  Er ist früh gegangen, *genauer gesagt* gegen acht Uhr heute Morgen.
+
+  L'héliotropisme, *c'est-à-dire* l'orientation des plantes vers le soleil, est fascinant.
+  Der Heliotropismus, *also* die Ausrichtung der Pflanzen zur Sonne, ist faszinierend.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

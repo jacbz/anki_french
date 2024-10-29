@@ -13,41 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je commence à avoir faim.
-  Ich bekomme Hunger.
+  Je commence à avoir *faim*.
+  Ich bekomme *Hunger*.
 
-  J’ai faim.
-  Ich habe Hunger.
+  Une odeur délicieuse me donne *faim*.
+  Ein köstlicher Duft macht mich *hungrig*.
 
-  J'avais très faim après ma longue randonnée.
-  Ich hatte großen Hunger nach meiner langen Wanderung.
+  "Je crève de *faim*, allons manger quelque chose !"
+  "Ich habe einen *Mordshunger*, lass uns was essen!"
 
-  La faim est mauvaise conseillère, ne prends pas de décisions importantes quand tu as faim.
-  Der Hunger ist ein schlechter Ratgeber, triff keine wichtigen Entscheidungen, wenn du Hunger hast.
+  Cette randonnée m'a donné une *faim* de loup.
+  Diese Wanderung hat mir einen *Bärenhunger* bereitet.
 
-  La faim fait sortir le loup du bois.
-  In der Not frisst der Teufel Fliegen.
+  La *faim* dans le monde reste un problème majeur.
+  Der *Hunger* in der Welt bleibt ein großes Problem.
 
-  Le concert a été génial, mais il a laissé Marie sur sa faim, elle aurait aimé un rappel.
-  Das Konzert war großartig, aber Marie blieb auf ihren Erwartungen sitzen, sie hätte sich eine Zugabe gewünscht.
+  Les enfants ont mangé à leur *faim*.
+  Die Kinder haben sich satt gegessen.
 
-  Après le petit déjeuner, j'étais toujours resté sur ma faim et j'ai mangé un deuxième croissant.
-  Nach dem Frühstück war ich immer noch nicht satt und habe ein zweites Croissant gegessen.
+  Pendant la *faim* de 1845, beaucoup d'Irlandais ont émigré.
+  Während der *Hungers*not von 1845 sind viele Iren ausgewandert.
 
-  J'ai trompé ma faim avec une pomme jusqu'à ce que le dîner soit prêt.
-  Ich habe meinen Hunger erst einmal mit einem Apfel gestillt, bis das Abendessen fertig war.
+  Elle a une *faim* dévorante de connaissances.
+  Sie hat einen unstillbaren *Hunger* nach Wissen.
 
-  J'ai faim de chocolat, je dois aller au supermarché.
-  Ich habe Verlangen nach Schokolade, ich muss in den Supermarkt gehen.
+  Il a entamé une grève de la *faim* pour protester.
+  Er ist in den *Hunger*streik getreten, um zu protestieren.
 
-  Il est important d'aider les personnes qui meurent de faim dans le monde.
-  Es ist wichtig, den Menschen zu helfen, die in der Welt vor Hunger sterben.
+  Les manifestants ont une *faim* de justice.
+  Die Demonstranten haben einen *Hunger* nach Gerechtigkeit.
 
-  Ne lui donne pas faim, il est trop jeune pour sauter des repas.
-  Mache ihn nicht hungrig, er ist zu jung, um Mahlzeiten auszulassen.
+  Cette soupe ne calme pas ma *faim*.
+  Diese Suppe stillt meinen *Hunger* nicht.
 
-  Il ne mange pas à sa faim, il devrait manger davantage.
-  Er isst nicht satt, er sollte mehr essen.
+  "Je meurs de *faim* depuis ce matin !"
+  "Ich komme seit heute Morgen vor *Hunger* um!"
+
+  La *faim* fait sortir le loup du bois.
+  Der *Hunger* treibt den Wolf aus dem Wald.
+
+  Après trois heures de sport, j'ai très *faim*.
+  Nach drei Stunden Sport habe ich großen *Hunger*.
+
+  Les réfugiés souffrent de la *faim*.
+  Die Flüchtlinge leiden *Hunger*.
+
+  Cette exposition m'a laissé sur ma *faim*.
+  Diese Ausstellung hat mich unbefriedigt gelassen.
+
+  Son *faim* insatiable de pouvoir l'a détruit.
+  Sein unstillbarer *Hunger* nach Macht hat ihn zerstört.
+
+  Il faut satisfaire sa *faim* avec modération.
+  Man sollte seinen *Hunger* mit Maß stillen.
+
+  Dans ce pays, personne ne devrait avoir *faim*.
+  In diesem Land sollte niemand *Hunger* leiden.
+
+  La *faim* les a contraints à se rendre.
+  Der *Hunger* zwang sie zur Aufgabe.
+
+  Elle trompe sa *faim* en buvant beaucoup d'eau.
+  Sie täuscht ihren *Hunger* durch viel Wassertrinken.
+
+  Les pauvres ne mangent pas à leur *faim*.
+  Die Armen können sich nicht satt essen.
+
+  Cette *faim* dévorante me rend fou.
+  Dieser verzehrende *Hunger* macht mich verrückt.
+
+  Ta *faim* intellectuelle est impressionnante.
+  Dein intellektueller *Hunger* ist beeindruckend.
+
+  Nous luttons contre la *faim* dans cette région.
+  Wir kämpfen gegen den *Hunger* in dieser Region.
+
+  Cette activité m'a donné *faim*.
+  Diese Aktivität hat mich *hungrig* gemacht.
+
+  Le bébé pleure de *faim*.
+  Das Baby weint vor *Hunger*.
+
+  Ils ont dû apaiser leur *faim* avec peu de nourriture.
+  Sie mussten ihren *Hunger* mit wenig Nahrung stillen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

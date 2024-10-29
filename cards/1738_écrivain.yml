@@ -13,11 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ma chérie, devenir écrivain est tout aussi dur.
-  Meine Liebe, Schriftstellerin zu werden ist genauso schwer.
+  Ma chérie, devenir *écrivain* est tout aussi dur.
+  Liebling, *Schriftsteller* zu werden ist genauso schwer.
 
-  Cet écrivain a remporté de nombreux prix littéraires.
-  Dieser Schriftsteller hat viele Literaturpreise gewonnen.
+  C'est un *écrivain* de premier plan qui a remporté plusieurs prix littéraires.
+  Er ist ein *Schriftsteller* von höchstem Rang, der mehrere Literaturpreise gewonnen hat.
+
+  L'*écrivain public* a aidé les immigrants à rédiger leurs documents officiels.
+  Der öffentliche *Schreiber* half den Einwanderern beim Verfassen ihrer offiziellen Dokumente.
+
+  Elle est une *écrivaine* talentueuse qui inspire la nouvelle génération.
+  Sie ist eine talentierte *Schriftstellerin*, die die neue Generation inspiriert.
+
+  Cet *écrivain fantôme* a rédigé les mémoires de plusieurs célébrités.
+  Dieser *Ghostwriter* hat die Memoiren mehrerer Prominenter verfasst.
+
+  En tant qu'*écrivain* scientifique, il vulgarise des concepts complexes.
+  Als wissenschaftlicher *Autor* macht er komplexe Konzepte verständlich.
+
+  Un mauvais *écrivain* peut gâcher même la meilleure histoire.
+  Ein schlechter *Schriftsteller* kann selbst die beste Geschichte ruinieren.
+
+  Les jeunes *écrivains* se réunissent chaque mois dans ce café littéraire.
+  Die jungen *Schriftsteller* treffen sich jeden Monat in diesem Literaturcafé.
+
+  Mon père était *écrivain* du dimanche - il écrivait pour le plaisir.
+  Mein Vater war *Hobby-Schriftsteller* - er schrieb zum Vergnügen.
+
+  L'*écrivaine* a signé son nouveau roman lors du salon du livre.
+  Die *Schriftstellerin* hat ihren neuen Roman auf der Buchmesse signiert.
+
+  Le métier d'*écrivain* demande beaucoup de discipline et de patience.
+  Der Beruf des *Schriftstellers* erfordert viel Disziplin und Geduld.
+
+  Cet *écrivain* de second ordre n'a jamais connu le succès espéré.
+  Dieser zweitrangige *Schriftsteller* hatte nie den erhofften Erfolg.
+
+  Les *écrivains* politiques jouent un rôle crucial dans notre société.
+  Politische *Schriftsteller* spielen eine wichtige Rolle in unserer Gesellschaft.
+
+  Cette femme *écrivain* a révolutionné la littérature moderne.
+  Diese *Schriftstellerin* hat die moderne Literatur revolutioniert.
+
+  L'*écrivain* travaille sur son nouveau manuscrit depuis trois ans.
+  Der *Schriftsteller* arbeitet seit drei Jahren an seinem neuen Manuskript.
+
+  Je rêve de devenir un grand *écrivain* comme Victor Hugo.
+  Ich träume davon, ein großer *Schriftsteller* wie Victor Hugo zu werden.
+
+  Les *écrivains publics* sont encore nécessaires dans certains quartiers.
+  Öffentliche *Schreiber* werden in manchen Stadtvierteln noch gebraucht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

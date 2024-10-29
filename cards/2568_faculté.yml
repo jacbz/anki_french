@@ -13,35 +13,101 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Sa faculté de travail est énorme.
-  Seine Arbeitsfähigkeit ist enorm.
+  Sa *faculté* de travail est énorme.
+  Seine Arbeits*fähigkeit* ist enorm.
 
-  Elle travaille à la faculté de médecine.
-  Sie arbeitet an der medizinischen Fakultät.
+  La *faculté* d'adaptation est essentielle pour survivre dans notre monde moderne.
+  Die Anpassungs*fähigkeit* ist überlebenswichtig in unserer modernen Welt.
 
-  J'ai étudié à la faculté de droit avant de devenir avocat.
-  Ich habe an der juristischen Fakultät studiert, bevor ich Anwalt wurde.
+  Les *facultés* intellectuelles se développent tout au long de la vie.
+  Die geistigen *Fähigkeiten* entwickeln sich ein Leben lang.
 
-  Il a terminé ses études à la faculté des lettres.
-  Er hat sein Studium an der philosophischen Fakultät abgeschlossen.
+  Pierre étudie à la *faculté* de droit de la Sorbonne.
+  Pierre studiert an der juristischen *Fakultät* der Sorbonne.
 
-  Il a une faculté d'adaptation impressionnante.
-  Er hat eine beeindruckende Anpassungsfähigkeit.
+  Ma grand-mère est toujours en possession de toutes ses *facultés*.
+  Meine Großmutter ist noch im Vollbesitz ihrer geistigen *Fähigkeiten*.
 
-  Elle a perdu toutes ses facultés après l'accident.
-  Sie hat nach dem Unfall ihren Verstand verloren.
+  La *faculté* de médecine organise une journée portes ouvertes.
+  Die medizinische *Fakultät* veranstaltet einen Tag der offenen Tür.
 
-  La nouvelle loi donne la faculté aux parents de choisir l'école de leurs enfants.
-  Das neue Gesetz gibt den Eltern die Möglichkeit, die Schule ihrer Kinder zu wählen.
+  Cette entreprise offre la *faculté* de travailler à distance.
+  Diese Firma bietet die *Möglichkeit* zum Homeoffice.
 
-  J'ai décidé d'aller à la faculté de médecine.
-  Ich habe mich entschieden, Medizin zu studieren.
+  J'admire sa *faculté* de concentration même dans le bruit.
+  Ich bewundere seine Konzentrations*fähigkeit* selbst bei Lärm.
 
-  La faculté des arts de l'université est très réputée.
-  Die philosophische Fakultät der Universität ist sehr renommiert.
+  Les étudiants de la *faculté* des lettres ont organisé un débat passionnant.
+  Die Studenten der philosophischen *Fakultät* haben eine spannende Debatte organisiert.
 
-  Il a la faculté de se concentrer pendant des heures.
-  Er hat die Fähigkeit, sich stundenlang zu konzentrieren.
+  Elle possède une remarquable *faculté* d'écoute.
+  Sie besitzt eine bemerkenswerte *Fähigkeit* zuzuhören.
+
+  La *Faculté* lui a délivré son diplôme avec mention.
+  Die medizinische *Fakultät* hat ihr das Diplom mit Auszeichnung verliehen.
+
+  Mes *facultés* de compréhension sont limitées en fin de journée.
+  Meine Auffassungs*fähigkeit* ist am Ende des Tages eingeschränkt.
+
+  La *faculté* des sciences se trouve dans le nouveau bâtiment.
+  Die naturwissenschaftliche *Fakultät* befindet sich im neuen Gebäude.
+
+  Il a perdu ses *facultés* motrices après l'accident.
+  Er hat seine motorischen *Fähigkeiten* nach dem Unfall verloren.
+
+  Les professeurs de la *faculté* sont en grève.
+  Die Professoren der *Fakultät* streiken.
+
+  Cette mutation a donné aux bactéries la *faculté* de résister aux antibiotiques.
+  Diese Mutation hat den Bakterien die *Fähigkeit* gegeben, Antibiotika zu widerstehen.
+
+  La *faculté* de parole nous distingue des autres espèces.
+  Die *Fähigkeit* zu sprechen unterscheidet uns von anderen Arten.
+
+  Il enseigne à la *faculté* depuis vingt ans.
+  Er unterrichtet seit zwanzig Jahren an der *Fakultät*.
+
+  Les *facultés* humaines sont extraordinaires.
+  Die menschlichen *Fähigkeiten* sind außergewöhnlich.
+
+  La *faculté* de droit compte plus de mille étudiants.
+  Die juristische *Fakultät* hat mehr als tausend Studenten.
+
+  Sa *faculté* d'apprentissage est impressionnante.
+  Seine Lern*fähigkeit* ist beeindruckend.
+
+  Les chats ont la *faculté* de voir dans l'obscurité.
+  Katzen haben die *Fähigkeit*, im Dunkeln zu sehen.
+
+  Le doyen de la *faculté* a prononcé un discours inspirant.
+  Der Dekan der *Fakultät* hat eine inspirierende Rede gehalten.
+
+  Cette formation développe nos *facultés* créatives.
+  Diese Ausbildung entwickelt unsere kreativen *Fähigkeiten*.
+
+  La *faculté* des arts propose un nouveau programme d'études.
+  Die künstlerische *Fakultät* bietet einen neuen Studiengang an.
+
+  L'âge n'a pas diminué ses *facultés* mentales.
+  Das Alter hat seine geistigen *Fähigkeiten* nicht vermindert.
+
+  La bibliothèque de la *faculté* est ouverte jour et nuit.
+  Die Bibliothek der *Fakultät* ist Tag und Nacht geöffnet.
+
+  Ses *facultés* d'observation sont remarquables.
+  Seine Beobachtungs*fähigkeiten* sind bemerkenswert.
+
+  La *faculté* de médecine forme les futurs médecins.
+  Die medizinische *Fakultät* bildet die zukünftigen Ärzte aus.
+
+  Le stress peut affecter nos *facultés* de jugement.
+  Stress kann unsere Urteils*fähigkeit* beeinträchtigen.
+
+  Les examens de la *faculté* commencent la semaine prochaine.
+  Die Prüfungen der *Fakultät* beginnen nächste Woche.
+
+  Cette expérience a renforcé ma *faculté* d'analyse.
+  Diese Erfahrung hat meine Analyse*fähigkeit* gestärkt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

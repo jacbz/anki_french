@@ -13,26 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils ont trouvé un logement et fait venir leur famille.
-  Sie haben eine Unterkunft gefunden und ihre Familie nachkommen lassen.
+  Ils ont trouvé un *logement* et fait venir leur famille.
+  Sie haben eine *Wohnung* gefunden und ihre Familie nachgeholt.
 
-  Je cherche un logement à Paris.
-  Ich suche eine Unterkunft in Paris.
+  J'ai visité un *logement* de deux pièces hier après-midi.
+  Ich habe gestern Nachmittag eine Zwei*zimmer**wohnung* besichtigt.
 
-  Il cherche un logement de deux pièces dans le centre-ville.
-  Er sucht eine Zweizimmerwohnung im Stadtzentrum.
+  Le directeur a droit à un *logement* de fonction dans l'école.
+  Der Direktor hat Anspruch auf eine Dienst*wohnung* in der Schule.
 
-  La crise du logement touche de nombreuses villes européennes.
-  Die Wohnungskrise betrifft viele europäische Städte.
+  Après l'incendie, on leur a fourni un *logement* provisoire.
+  Nach dem Brand hat man ihnen eine Not*unterkunft* zur Verfügung gestellt.
 
-  Le maire a été logé dans un logement de fonction.
-  Der Bürgermeister hat eine Dienstwohnung bekommen.
+  La ville doit assurer le *logement* des réfugiés.
+  Die Stadt muss die *Unterbringung* der Flüchtlinge sicherstellen.
 
-  Les réfugiés ont été hébergés dans un logement provisoire.
-  Die Flüchtlinge wurden in einer Behelfsunterkunft untergebracht.
+  Les soldats ont reçu leur billet de *logement* pour la nuit.
+  Die Soldaten haben ihre *Einquartierungs*scheine für die Nacht erhalten.
 
-  La politique en matière de logement est un sujet important pour les citoyens.
-  Die Wohnungspolitik ist ein wichtiges Thema für die Bürger.
+  La *crise du logement* touche surtout les jeunes.
+  Die *Wohnungs*krise trifft vor allem junge Menschen.
+
+  Le gouvernement a annoncé une nouvelle politique du *logement*.
+  Die Regierung hat eine neue *Wohnungs*politik angekündigt.
+
+  Le *logement* du pêne de cette serrure est usé.
+  Das *Gehäuse* des Riegels dieses Schlosses ist abgenutzt.
+
+  Il faut remplacer le *logement* des billes du vélo.
+  Das Kugel*lager* des Fahrrads muss ersetzt werden.
+
+  Ce *logement* social est réservé aux familles nombreuses.
+  Diese Sozial*wohnung* ist für kinderreiche Familien reserviert.
+
+  Les prix des *logements* ont doublé en dix ans.
+  Die *Wohnungs*preise haben sich in zehn Jahren verdoppelt.
+
+  Notre *logement* est situé au dernier étage.
+  Unsere *Wohnung* befindet sich im obersten Stock.
+
+  Le marché du *logement* est très tendu dans cette ville.
+  Der *Wohnungs*markt ist in dieser Stadt sehr angespannt.
+
+  Ils cherchent un *logement* plus spacieux pour l'année prochaine.
+  Sie suchen für nächstes Jahr eine geräumigere *Wohnung*.
+
+  L'indemnité de *logement* couvre à peine le loyer.
+  Das *Wohnungs*geld deckt kaum die Miete.
+
+  Le *logement* étudiant devient de plus en plus cher.
+  Studenten*wohnungen* werden immer teurer.
+
+  L'association aide les sans-abri à trouver un *logement*.
+  Der Verein hilft Obdachlosen, eine *Unterkunft* zu finden.
+
+  Ce *logement* insalubre doit être rénové.
+  Diese baufällige *Wohnung* muss renoviert werden.
+
+  Il a aménagé un petit *logement* sous les combles.
+  Er hat eine kleine *Wohnung* unter dem Dach eingerichtet.
+
+  Le *logement* du ressort est endommagé.
+  Das Feder*lager* ist beschädigt.
+
+  La carte graphique occupe deux *logements* sur la carte mère.
+  Die Grafikkarte belegt zwei *Steckplätze* auf dem Motherboard.
+
+  Le ministère du *Logement* a présenté son nouveau plan.
+  Das *Wohnungs*ministerium hat seinen neuen Plan vorgestellt.
+
+  Nous devons améliorer les conditions de *logement* des étudiants.
+  Wir müssen die *Wohn*verhältnisse der Studenten verbessern.
+
+  Mon *logement* dispose d'une belle vue sur le parc.
+  Meine *Wohnung* hat einen schönen Blick auf den Park.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

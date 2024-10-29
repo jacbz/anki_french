@@ -13,29 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je voudrais suggérer de changer les horaires de travail.
-  Ich möchte vorschlagen, die Arbeitszeiten zu ändern.
+  Je voudrais *suggérer* de changer les horaires de travail.
+  Ich möchte *vorschlagen*, die Arbeitszeiten zu ändern.
 
-  Je lui ai suggéré de prendre des vacances.
-  Ich habe ihm vorgeschlagen, Urlaub zu machen.
+  Le guide nous a *suggéré* de faire une excursion en montagne.
+  Der Reiseleiter hat uns einen Ausflug in die Berge *vorgeschlagen*.
 
-  Je te suggère de me dire la vérité.
-  Ich schlage vor, dass du mir die Wahrheit sagst.
+  Sa remarque *suggère* qu'il n'est pas d'accord avec nous.
+  Seine Bemerkung lässt *durchblicken*, dass er nicht mit uns einverstanden ist.
 
-  J'ai suggéré un voyage à Paris à mon ami, car je sais qu'il adore cette ville.
-  Ich habe meinem Freund eine Reise nach Paris vorgeschlagen, weil ich weiß, dass er diese Stadt liebt.
+  Cette musique me *suggère* des souvenirs d'enfance.
+  Diese Musik lässt bei mir Kindheitserinnerungen *wachrufen*.
 
-  Le médecin a suggéré une solution à son patient pour soulager sa douleur.
-  Der Arzt hat seinem Patienten eine Lösung vorgeschlagen, um seine Schmerzen zu lindern.
+  L'hypnothérapeute lui a *suggéré* d'arrêter de fumer.
+  Der Hypnosetherapeut hat ihm *suggeriert*, mit dem Rauchen aufzuhören.
 
-  La musique douce du piano suggérait le passé à Marie, lui rappelant son enfance.
-  Die sanfte Musik des Klaviers ließ Marie an die Vergangenheit denken und erinnerte sie an ihre Kindheit.
+  Je te *suggère* fortement de réfléchir avant d'agir.
+  Ich *rate* dir dringend, vor dem Handeln nachzudenken.
 
-  Le succès de l'entreprise a été suggéré par le lancement de son nouveau produit.
-  Der Erfolg des Unternehmens wurde durch die Einführung seines neuen Produkts angedeutet.
+  La jalousie lui a *suggéré* des paroles qu'il regrette maintenant.
+  Die Eifersucht hat ihm Worte *eingegeben*, die er jetzt bereut.
 
-  L'idée d'un voyage en Italie était suggérée dans son discours.
-  Die Idee einer Reise nach Italien wurde in seiner Rede angedeutet.
+  Les circonstances m'ont *suggéré* une autre solution.
+  Die Umstände haben mir eine andere Lösung *nahegelegt*.
+
+  Son silence *suggérait* une profonde désapprobation.
+  Sein Schweigen ließ tiefe Missbilligung *erahnen*.
+
+  L'artiste *suggère* la profondeur par des jeux d'ombre.
+  Der Künstler lässt die Tiefe durch Schattenspiele *andeuten*.
+
+  Cette odeur *suggère* la présence d'une fuite de gaz.
+  Dieser Geruch lässt das Vorhandensein eines Gaslecks *vermuten*.
+
+  Permettez-moi de vous *suggérer* un excellent restaurant.
+  Lassen Sie mich Ihnen ein ausgezeichnetes Restaurant *empfehlen*.
+
+  Le professeur m'a *suggéré* de reprendre mon devoir.
+  Der Lehrer hat mir *nahegelegt*, meine Hausaufgaben zu überarbeiten.
+
+  Son comportement *suggère* qu'il cache quelque chose.
+  Sein Verhalten lässt *darauf schließen*, dass er etwas verbirgt.
+
+  Cette phrase *suggère* plusieurs interprétations possibles.
+  Dieser Satz lässt mehrere mögliche Interpretationen *anklingen*.
+
+  Je vous *suggère* d'agir immédiatement.
+  Ich *rate* Ihnen, sofort zu handeln.
+
+  Ce tableau *suggère* plus qu'il ne montre.
+  Dieses Gemälde *deutet* mehr an, als es zeigt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,14 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La dame blanche entreprend de monter l’escalier.
-  Die weiße Dame macht sich daran, die Treppe hinaufzugehen.
+  La dame blanche *entreprend* de monter l'escalier.
+  Die weiße Dame *unternimmt* es, die Treppe hochzugehen.
 
-  Il a décidé d’entreprendre un voyage autour du monde.
-  Er hat beschlossen, eine Reise um die Welt zu unternehmen.
+  Il a *entrepris* de me raconter toute l'histoire.
+  Er *unternahm* es, mir die ganze Geschichte zu erzählen.
 
-  Le jeune homme a entrepris de faire un voyage en Amérique du Sud.
-  Der junge Mann hat es unternommen, eine Reise nach Südamerika zu machen.
+  Nous avons *entrepris* un grand projet de rénovation.
+  Wir haben ein großes Renovierungsprojekt in *Angriff genommen*.
+
+  J'*entreprendrai* mes études de médecine en septembre.
+  Im September werde ich mein Medizinstudium *beginnen*.
+
+  Elle *entreprend* la construction d'une nouvelle maison.
+  Sie *nimmt* den Bau eines neuen Hauses *in Angriff*.
+
+  "Il m'a *entrepris* pendant une heure sur ses problèmes."
+  "Er hat eine Stunde lang auf mich *eingeredet* wegen seiner Probleme."
+
+  Le jeune homme *entreprend* de séduire la fille du boulanger.
+  Der junge Mann *unternimmt* es, die Bäckerstochter zu verführen.
+
+  Marie *entreprendra* son voyage autour du monde demain.
+  Marie wird morgen ihre Weltreise *antreten*.
+
+  L'architecte a *entrepris* la rénovation pour 50.000 euros.
+  Der Architekt hat die Renovierung für 50.000 Euro *übernommen*.
+
+  "Il *entreprend* toujours de nouvelles conquêtes amoureuses."
+  "Er *macht* sich immer an neue Eroberungen *heran*."
+
+  Nous avons *entrepris* des recherches approfondies.
+  Wir haben gründliche Nachforschungen *aufgenommen*.
+
+  L'équipe *entreprendra* bientôt la traduction du livre.
+  Das Team wird bald mit der Übersetzung des Buches *beginnen*.
+
+  Mon frère *entreprend* de créer sa propre entreprise.
+  Mein Bruder *unternimmt* es, sein eigenes Unternehmen zu gründen.
+
+  "Elle m'a *entrepris* sur mes projets d'avenir."
+  "Sie hat mich über meine Zukunftspläne *ausgefragt*."
+
+  Les ouvriers *entreprendront* les travaux lundi prochain.
+  Die Arbeiter werden nächsten Montag mit den Arbeiten *beginnen*.
+
+  Il a *entrepris* un procès contre son ancien employeur.
+  Er hat einen Prozess gegen seinen ehemaligen Arbeitgeber *angestrengt*.
+
+  La société *entreprend* de moderniser ses installations.
+  Die Firma *nimmt* die Modernisierung ihrer Anlagen *in Angriff*.
+
+  Nous *entreprendrons* cette randonnée difficile demain matin.
+  Wir werden diese schwierige Wanderung morgen früh *in Angriff nehmen*.
+
+  "Il m'a *entrepris* pour me convaincre de voter pour lui."
+  "Er hat versucht, mich zu *bearbeiten*, damit ich für ihn stimme."
+
+  Elle *entreprend* de ranger toute la maison.
+  Sie *macht* sich daran, das ganze Haus aufzuräumen.
+
+  Le gouvernement *entreprend* des réformes importantes.
+  Die Regierung *leitet* wichtige Reformen *ein*.
+
+  L'association *entreprendra* une campagne de sensibilisation.
+  Der Verein wird eine Aufklärungskampagne *starten*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

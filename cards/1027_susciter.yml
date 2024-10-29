@@ -13,11 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Une femme qui a étudié la théologie suscite toujours quelque méfiance.
-  Eine Frau, die Theologie studiert hat, erweckt immer ein gewisses Misstrauen.
+  Une femme qui a étudié la théologie *suscite* toujours quelque méfiance.
+  Eine Frau, die Theologie studiert hat, *ruft* immer ein gewisses Misstrauen *hervor*.
 
-  Cette décision a suscité beaucoup de critiques.
-  Diese Entscheidung hat viele Kritiken hervorgerufen.
+  Son comportement arrogant *suscite* la colère de ses collègues.
+  Sein arrogantes Verhalten *erregt* den Zorn seiner Kollegen.
+
+  Cette décision politique a *suscité* de vives protestations dans tout le pays.
+  Diese politische Entscheidung hat im ganzen Land heftige Proteste *hervorgerufen*.
+
+  Le nouveau roman de cet auteur *suscite* beaucoup d'intérêt chez les jeunes lecteurs.
+  Der neue Roman dieses Autors *weckt* bei jungen Lesern großes Interesse.
+
+  Ces mesures d'austérité ont *suscité* un mouvement de grève.
+  Diese Sparmaßnahmen haben eine Streikbewegung *ausgelöst*.
+
+  La présence de ce candidat *suscite* l'enthousiasme de la foule.
+  Die Anwesenheit dieses Kandidaten *ruft* die Begeisterung der Menge *hervor*.
+
+  Son succès *suscite* la jalousie de ses anciens amis.
+  Sein Erfolg *erregt* den Neid seiner alten Freunde.
+
+  Cette exposition *suscite* l'admiration des visiteurs.
+  Diese Ausstellung *erweckt* die Bewunderung der Besucher.
+
+  Les réseaux sociaux *suscitent* souvent des débats houleux.
+  Soziale Netzwerke *verursachen* oft heftige Debatten.
+
+  Cette nouvelle loi *suscite* beaucoup d'inquiétudes chez les parents.
+  Dieses neue Gesetz *ruft* bei den Eltern große Besorgnis *hervor*.
+
+  Son discours a *suscité* de nombreuses questions dans l'assemblée.
+  Seine Rede hat in der Versammlung viele Fragen *aufgeworfen*.
+
+  Ce professeur *suscite* l'intérêt des étudiants pour les sciences.
+  Dieser Professor *weckt* das Interesse der Studenten für die Wissenschaften.
+
+  Les changements climatiques *suscitent* de plus en plus d'anxiété.
+  Der Klimawandel *ruft* zunehmend Ängste *hervor*.
+
+  Cette innovation technologique *suscite* l'espoir d'un meilleur avenir.
+  Diese technologische Innovation *weckt* die Hoffnung auf eine bessere Zukunft.
+
+  Sa musique *suscite* des émotions profondes chez ses auditeurs.
+  Seine Musik *ruft* bei seinen Zuhörern tiefe Emotionen *hervor*.
+
+  Cette affaire *suscite* la curiosité des médias depuis des semaines.
+  Diese Angelegenheit *erregt* seit Wochen die Neugier der Medien.
+
+  Le nouveau projet *suscite* des obstacles administratifs imprévus.
+  Das neue Projekt *stößt* auf unerwartete administrative Hindernisse.
+
+  Son talent extraordinaire *suscite* l'admiration de ses pairs.
+  Sein außergewöhnliches Talent *erweckt* die Bewunderung seiner Kollegen.
+
+  Cette crise économique *suscite* des troubles sociaux importants.
+  Diese Wirtschaftskrise *stiftet* erhebliche soziale Unruhen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

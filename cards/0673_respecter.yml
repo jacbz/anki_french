@@ -13,38 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’avais le pouvoir. J’étais respecté.
-  Ich hatte Macht. Ich wurde respektiert.
+  J'avais le pouvoir. J'étais *respecté*.
+  Ich hatte die Macht. Ich wurde *geachtet*.
 
-  Il faut respecter les règles.
-  Man muss die Regeln respektieren.
+  Ils ne *respectent* pas les traditions de notre village.
+  Sie *wahren* nicht die Traditionen unseres Dorfes.
 
-  Je vous respecte plus que quiconque.
-  Ich respektiere Sie mehr als alle anderen.
+  "Un bon Parisien qui se *respecte* ne mange jamais seul."
+  "Ein *anständiger* Pariser isst niemals allein."
 
-  Il est important d'être respecté par ses pairs.
-  Es ist wichtig, von seinen Kollegen geachtet zu werden.
+  Il faut *respecter* les priorités : d'abord la santé.
+  Man muss die Prioritäten *beachten*: zuerst die Gesundheit.
 
-  Un homme qui se respecte ne se laissera pas insulter.
-  Ein Mann, der etwas auf sich hält, lässt sich nicht beleidigen.
+  Elle *respecte* profondément ses parents malgré leurs différends.
+  Sie *achtet* ihre Eltern trotz ihrer Meinungsverschiedenheiten sehr.
 
-  Il a promis de respecter l'accord, mais il a changé d'avis.
-  Er hat versprochen, die Verabredung einzuhalten, aber er hat seine Meinung geändert.
+  L'architecte n'a pas *respecté* les proportions du bâtiment original.
+  Der Architekt hat die Proportionen des ursprünglichen Gebäudes nicht *eingehalten*.
 
-  Il faut se faire respecter pour obtenir ce qu'on veut.
-  Man muss sich Respekt verschaffen, um zu bekommen, was man will.
+  Un artiste qui se *respecte* ne copie jamais le travail des autres.
+  Ein Künstler, der etwas auf sich *hält*, kopiert nie die Arbeit anderer.
 
-  Il est important de respecter les conventions sociales.
-  Es ist wichtig, sich an die sozialen Normen zu halten.
+  Je *respecte* vos convictions, même si je ne les partage pas.
+  Ich *achte* Ihre Überzeugungen, auch wenn ich sie nicht teile.
 
-  Il a pris un engagement envers sa famille et il y tient.
-  Er hat ein Versprechen gegenüber seiner Familie gegeben und hält es.
+  La police fait *respecter* la loi dans notre quartier.
+  Die Polizei sorgt dafür, dass das Gesetz in unserem Viertel *befolgt* wird.
 
-  La police est chargée de faire respecter la loi.
-  Die Polizei ist dafür zuständig, dass das Gesetz befolgt wird.
+  Elle a toujours su se faire *respecter* au bureau.
+  Sie hat es im Büro immer verstanden, sich *Respekt* zu verschaffen.
 
-  Il est important de vivre en respectant les lois du pays.
-  Es ist wichtig, gesetzestreu zu leben.
+  *Respectez* le silence dans la bibliothèque !
+  *Wahren* Sie die Stille in der Bibliothek!
+
+  Mon grand-père était très *respecté* dans son village.
+  Mein Großvater wurde in seinem Dorf sehr *geachtet*.
+
+  Les étudiants doivent *respecter* le règlement de l'université.
+  Die Studenten müssen die Universitätsordnung *einhalten*.
+
+  Elle ne s'est pas *respectée* en acceptant ce travail mal payé.
+  Sie hat ihre *Selbstachtung* verloren, indem sie diese schlecht bezahlte Arbeit annahm.
+
+  Nous devons *respecter* l'environnement pour les générations futures.
+  Wir müssen die Umwelt für zukünftige Generationen *achten*.
+
+  Il faut *respecter* les délais de livraison convenus.
+  Man muss die vereinbarten Lieferfristen *einhalten*.
+
+  Le temps a *respecté* ces vieux monuments.
+  Die Zeit hat diese alten Denkmäler *verschont*.
+
+  Comme tout médecin qui se *respecte*, elle garde le secret professionnel.
+  Als *anständige* Ärztin wahrt sie die Schweigepflicht.
+
+  Les deux équipes se sont mutuellement *respectées* pendant le match.
+  Die beiden Teams haben sich während des Spiels gegenseitig *respektiert*.
+
+  Il faut *respecter* le sommeil des autres.
+  Man muss den Schlaf anderer *achten*.
+
+  Elle *respecte* toujours sa signature.
+  Sie *hält* immer ihr Wort.
+
+  Les employés doivent *respecter* les normes de sécurité.
+  Die Mitarbeiter müssen die Sicherheitsvorschriften *einhalten*.
+
+  Un nom *respecté* dans le monde des affaires.
+  Ein *geachteter* Name in der Geschäftswelt.
+
+  Il ne *respecte* même pas ses propres engagements.
+  Er *hält* nicht einmal seine eigenen Zusagen.
+
+  Les randonneurs doivent *respecter* la nature.
+  Die Wanderer müssen die Natur *achten*.
+
+  Elle *respecte* scrupuleusement l'ordre alphabétique.
+  Sie *beachtet* gewissenhaft die alphabetische Reihenfolge.
+
+  Un journaliste qui se *respecte* vérifie toujours ses sources.
+  Ein Journalist, der etwas auf sich *hält*, überprüft immer seine Quellen.
+
+  Nous devons *respecter* les volontés du défunt.
+  Wir müssen den Willen des Verstorbenen *achten*.
+
+  Les musiciens *respectent* fidèlement la partition.
+  Die Musiker *halten* sich treu an die Partitur.
+
+  Il faut *respecter* la vie privée des autres.
+  Man muss die Privatsphäre anderer *achten*.
+
+  Cette entreprise ne *respecte* pas ses obligations contractuelles.
+  Dieses Unternehmen *hält* seine vertraglichen Verpflichtungen nicht ein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

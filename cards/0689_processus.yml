@@ -13,29 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai été renseigné à chaque étape du processus.
-  Ich wurde in jeder Phase des Prozesses informiert.
+  J'ai été renseigné à chaque étape du *processus*.
+  Ich wurde in jeder Phase des *Prozesses* informiert.
 
-  Le processus de production est en cours.
-  Der Produktionsprozess läuft.
+  Le *processus* de paix au Moyen-Orient avance lentement mais sûrement.
+  Der Friedens*prozess* im Nahen Osten kommt langsam aber sicher voran.
 
-  Le processus est en cours.
-  Der Prozess ist im Gange.
+  Un *processus* inflammatoire s'est développé après l'opération.
+  Nach der Operation entwickelte sich ein entzündlicher *Verlauf*.
 
-  Le processus économique est complexe et souvent difficile à comprendre.
-  Der Wirtschaftsprozess ist komplex und oft schwer zu verstehen.
+  Le *processus* de guérison prend du temps et de la patience.
+  Der Heilungs*prozess* braucht Zeit und Geduld.
 
-  Le processus éducatif est fondamental pour le développement de l'enfant.
-  Der Erziehungsprozess ist fundamental für die Entwicklung des Kindes.
+  Le réchauffement climatique accélère le *processus* de désertification.
+  Die Klimaerwärmung beschleunigt den Wüstenbildungs*prozess*.
 
-  Le processus inflammatoire peut être très douloureux.
-  Der entzündliche Verlauf kann sehr schmerzhaft sein.
+  Comment optimiser le *processus* de fabrication ?
+  Wie kann man den Fertigungs*prozess* optimieren?
 
-  Le processus morbide peut entraîner des complications graves.
-  Der krankhafte Verlauf kann zu schweren Komplikationen führen.
+  Les scientifiques étudient ce *processus* biologique depuis des années.
+  Die Wissenschaftler untersuchen diesen biologischen *Prozess* seit Jahren.
 
-  Le processus de guérison peut être long et difficile.
-  Der Genesungsprozess kann langwierig und schwierig sein.
+  Le *processus* d'apprentissage est différent pour chaque élève.
+  Der Lern*prozess* ist für jeden Schüler anders.
+
+  Un *processus* cancéreux a été détecté à un stade précoce.
+  Ein Krebs*verlauf* wurde im Frühstadium erkannt.
+
+  Nous devons revoir notre *processus* de recrutement.
+  Wir müssen unseren Einstellungs*prozess* überarbeiten.
+
+  Le *processus* inflationniste inquiète les économistes.
+  Der Inflations*prozess* beunruhigt die Ökonomen.
+
+  Ce *processus* chimique nécessite une température constante.
+  Dieser chemische *Prozess* erfordert eine konstante Temperatur.
+
+  Le *processus* de vieillissement affecte chaque organisme vivant.
+  Der Alterungs*prozess* betrifft jeden lebenden Organismus.
+
+  Un nouveau *processus* d'assemblage a été mis en place.
+  Ein neuer Montage*ablauf* wurde eingeführt.
+
+  Le *processus* électoral se déroulera sur trois jours.
+  Der Wahl*prozess* wird sich über drei Tage erstrecken.
+
+  Les entreprises doivent simplifier leurs *processus* administratifs.
+  Die Unternehmen müssen ihre Verwaltungs*abläufe* vereinfachen.
+
+  Le *processus* de deuil peut durer plusieurs mois.
+  Der Trauer*prozess* kann mehrere Monate dauern.
+
+  Un *processus* infectieux s'est déclaré suite à la blessure.
+  Nach der Verletzung setzte ein Infektions*verlauf* ein.
+
+  Le *processus* de démocratisation continue dans plusieurs pays.
+  Der Demokratisierungs*prozess* geht in mehreren Ländern weiter.
+
+  Ce *processus* naturel ne peut pas être accéléré artificiellement.
+  Dieser natürliche *Prozess* kann nicht künstlich beschleunigt werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

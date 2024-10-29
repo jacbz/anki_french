@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Notre corps bouge constamment.
-  Unser Körper ist ständig in Bewegung.
+  Notre corps bouge *constamment*.
+  Unser Körper bewegt sich *ständig*.
 
-  Il travaille constamment.
-  Er arbeitet ständig.
+  Il pleut *constamment* depuis une semaine.
+  Es regnet seit einer Woche *ununterbrochen*.
+
+  Les prix ne cessent d'augmenter *constamment*.
+  Die Preise steigen *immer wieder*.
+
+  Elle est *constamment* en retard au travail.
+  Sie kommt *ständig* zu spät zur Arbeit.
+
+  Le bébé demande *constamment* de l'attention.
+  Das Baby braucht *ununterbrochen* Aufmerksamkeit.
+
+  Mon voisin écoute *constamment* de la musique forte.
+  Mein Nachbar hört *ständig* laute Musik.
+
+  Les réseaux sociaux évoluent *constamment*.
+  Soziale Medien entwickeln sich *ständig* weiter.
+
+  Il vérifie *constamment* son téléphone pendant notre conversation.
+  Er überprüft während unseres Gesprächs *immer wieder* sein Handy.
+
+  La technologie change *constamment* notre façon de vivre.
+  Die Technologie verändert *ständig* unsere Lebensweise.
+
+  Marie pense *constamment* à son examen.
+  Marie denkt *ununterbrochen* an ihre Prüfung.
+
+  Le chien aboie *constamment* quand il est seul.
+  Der Hund bellt *ständig*, wenn er allein ist.
+
+  Les enfants grandissent *constamment*, il faut toujours leur acheter de nouveaux vêtements.
+  Kinder wachsen *ununterbrochen*, man muss ihnen immer neue Kleidung kaufen.
+
+  Il se dévoue *constamment* aux autres.
+  Er widmet sich *ständig* anderen Menschen.
+
+  Le climat de cette région change *constamment*.
+  Das Klima dieser Region ändert sich *immer wieder*.
+
+  Les scientifiques découvrent *constamment* de nouvelles espèces.
+  Wissenschaftler entdecken *ständig* neue Arten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

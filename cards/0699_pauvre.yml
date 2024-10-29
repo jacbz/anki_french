@@ -13,38 +13,188 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous êtes idiote, ma pauvre femme, comme toujours.
-  Sie sind dumm, meine arme Frau, wie immer.
+  "Vous êtes idiote, ma *pauvre* femme, comme toujours."
+  "Sie sind eine Idiotin, meine *arme* Frau, wie immer."
 
-  Il est pauvre et ne peut pas se permettre de voyager.
-  Er ist arm und kann sich keine Reisen leisten.
+  Les *pauvres* ont souvent du mal à accéder aux soins médicaux.
+  Die *Armen* haben oft Schwierigkeiten, medizinische Versorgung zu erhalten.
 
-  Le mendiant est un pauvre homme qui demande de l’argent dans la rue.
-  Der Bettler ist ein armer Mann, der auf der Straße um Geld bittet.
+  Son excuse était vraiment *pauvre* : il avait simplement oublié le rendez-vous.
+  Seine Ausrede war wirklich *fadenscheinig*: Er hatte den Termin einfach vergessen.
 
-  La famille n’a pas assez d’argent pour acheter de la nourriture et vit dans une situation pauvre.
-  Die Familie hat nicht genug Geld, um Lebensmittel zu kaufen, und lebt in ärmlichen Verhältnissen.
+  Le sol est trop *pauvre* pour cultiver des légumes.
+  Der Boden ist zu *arm* für den Gemüseanbau.
 
-  Le chien abandonné était en pauvre état avant d’être secouru par un refuge pour animaux.
-  Der ausgesetzte Hund war in einem schlechten Zustand, bevor er von einem Tierheim gerettet wurde.
+  Cette région est *pauvre* en ressources naturelles.
+  Diese Region ist *arm* an natürlichen Ressourcen.
 
-  Ce régime est pauvre en graisse, ce qui le rend plus sain.
-  Dieser Ernährungsplan ist fettarm, was ihn gesünder macht.
+  Ma *pauvre* chérie, tu as encore de la fièvre !
+  Meine *arme* Kleine, du hast immer noch Fieber!
 
-  Ce lac est pauvre en oxygène, ce qui rend la vie aquatique difficile.
-  Dieser See ist sauerstoffarm, was das Leben im Wasser erschwert.
+  Les *pauvres* bêtes ont dû passer la nuit dehors sous la pluie.
+  Die *armen* Tiere mussten die Nacht draußen im Regen verbringen.
 
-  Mon pauvre ami, si tu savais ce que j'ai vécu, tu comprendrais.
-  Mein Lieber, wenn du wüsstest, was ich durchgemacht habe, würdest du verstehen.
+  C'est un régime *pauvre* en calories, parfait pour perdre du poids.
+  Das ist eine kalorien*arme* Diät, perfekt zum Abnehmen.
 
-  Le pays est pauvre en devises et a du mal à importer des produits essentiels.
-  Das Land ist devisenschwach und hat Mühe, wichtige Güter zu importieren.
+  Son vocabulaire est très *pauvre*, il ne lit jamais.
+  Sein Wortschatz ist sehr *arm*, er liest nie.
 
-  Ce pays est pauvre en matières premières, il dépend donc des importations.
-  Dieses Land ist rohstoffarm, daher ist es von Importen abhängig.
+  Cette terre est *pauvre* en oxygène à cause de la pollution.
+  Dieser Boden ist sauerstoff*arm* wegen der Verschmutzung.
 
-  Pauvre France ! Elle est en proie à une crise économique.
-  Armes Frankreich! Es befindet sich inmitten einer Wirtschaftskrise.
+  La décoration de son appartement est très *pauvre*.
+  Die Einrichtung seiner Wohnung ist sehr *ärmlich*.
+
+  "*Pauvre* de moi !" s'écria-t-elle quand elle vit les dégâts.
+  "Ich *Arme*!" rief sie aus, als sie den Schaden sah.
+
+  C'est une ville *pauvre* en distractions culturelles.
+  Das ist eine an kultureller Unterhaltung *arme* Stadt.
+
+  Son argumentation était particulièrement *pauvre*.
+  Seine Argumentation war besonders *schwach*.
+
+  Les nouveaux *pauvres* sont souvent d'anciens cadres au chômage.
+  Die neuen *Armen* sind oft ehemalige arbeitslose Führungskräfte.
+
+  Elle porte une *pauvre* petite robe déchirée.
+  Sie trägt ein *armseliges* kleines zerrissenes Kleid.
+
+  Ce mélange est trop *pauvre* en graisse pour être savoureux.
+  Diese Mischung ist zu fett*arm*, um schmackhaft zu sein.
+
+  Mon *pauvre* ami, si tu savais ce qui t'attend !
+  Mein *armer* Freund, wenn du wüsstest, was dich erwartet!
+
+  La végétation est très *pauvre* dans cette zone désertique.
+  Die Vegetation ist sehr *spärlich* in dieser Wüstenregion.
+
+  "C'est un *pauvre* type", murmura-t-elle avec mépris.
+  "Er ist ein *armseliger* Kerl", murmelte sie verächtlich.
+
+  Les pays *pauvres* ont besoin d'aide internationale.
+  Die *armen* Länder brauchen internationale Hilfe.
+
+  Son sourire *pauvre* trahissait sa tristesse.
+  Sein *schwaches* Lächeln verriet seine Traurigkeit.
+
+  Ce quartier est devenu très *pauvre* ces dernières années.
+  Dieses Viertel ist in den letzten Jahren sehr *arm* geworden.
+
+  Le commentaire du professeur était plutôt *pauvre*.
+  Der Kommentar des Lehrers war ziemlich *schwach*.
+
+  Cette région est *pauvre* en emplois.
+  Diese Region ist *arm* an Arbeitsplätzen.
+
+  La *pauvre* bête souffrait terriblement de sa blessure.
+  Das *arme* Tier litt schrecklich unter seiner Verletzung.
+
+  Ses parents étaient trop *pauvres* pour payer ses études.
+  Seine Eltern waren zu *arm*, um sein Studium zu bezahlen.
+
+  Il vit dans une *pauvre* maison au bord de la route.
+  Er lebt in einem *ärmlichen* Haus am Straßenrand.
+
+  Le salaire est vraiment *pauvre* pour tant d'heures de travail.
+  Der Lohn ist wirklich *kümmerlich* für so viele Arbeitsstunden.
+
+  Cette zone est *pauvre* en précipitations.
+  Diese Region ist *arm* an Niederschlägen.
+
+  La mobilisation pour aider les *pauvres* a été impressionnante.
+  Die Mobilisierung zur Unterstützung der *Armen* war beeindruckend.
+
+  Son style d'écriture est plutôt *pauvre*.
+  Sein Schreibstil ist ziemlich *farblos*.
+
+  Cette terre est *pauvre* en minéraux.
+  Dieser Boden ist mineral*arm*.
+
+  Le *pauvre* homme a perdu tout ce qu'il possédait dans l'incendie.
+  Der *arme* Mann hat alles, was er besaß, im Feuer verloren.
+
+  Les *pauvres* gens dormaient sous les ponts.
+  Die *armen* Leute schliefen unter den Brücken.
+
+  Son exposé était particulièrement *pauvre* en contenu.
+  Sein Vortrag war besonders *arm* an Inhalt.
+
+  Cette nourriture est *pauvre* en vitamines.
+  Diese Nahrung ist vitamin*arm*.
+
+  "*Pauvre* fou !" cria-t-elle en claquant la porte.
+  "*Armer* Narr!" schrie sie und knallte die Tür zu.
+
+  Les *pauvres* vieillards n'avaient personne pour s'occuper d'eux.
+  Die *armen* alten Leute hatten niemanden, der sich um sie kümmerte.
+
+  Son argumentation était *pauvre* en exemples concrets.
+  Seine Argumentation war *arm* an konkreten Beispielen.
+
+  La *pauvre* petite pleurait toutes les larmes de son corps.
+  Die *arme* Kleine weinte bitterlich.
+
+  Cette région est particulièrement *pauvre* en infrastructures.
+  Diese Region ist besonders *arm* an Infrastruktur.
+
+  Le sol est *pauvre* en nutriments essentiels.
+  Der Boden ist *arm* an essentiellen Nährstoffen.
+
+  Les conditions de vie sont très *pauvres* dans ce quartier.
+  Die Lebensbedingungen sind sehr *ärmlich* in diesem Viertel.
+
+  Son discours était *pauvre* en idées nouvelles.
+  Seine Rede war *arm* an neuen Ideen.
+
+  La *pauvre* fille n'avait même pas de quoi manger.
+  Das *arme* Mädchen hatte nicht einmal etwas zu essen.
+
+  Cette zone est *pauvre* en biodiversité.
+  Diese Zone ist *arm* an Biodiversität.
+
+  Le mobilier était vraiment *pauvre* dans cette pièce.
+  Die Möblierung war wirklich *ärmlich* in diesem Raum.
+
+  Les *pauvres* enfants n'avaient pas de jouets.
+  Die *armen* Kinder hatten kein Spielzeug.
+
+  Cette région est *pauvre* en eau potable.
+  Diese Region ist *arm* an Trinkwasser.
+
+  Son imagination est plutôt *pauvre*.
+  Seine Fantasie ist ziemlich *arm*.
+
+  La *pauvre* femme ne savait plus quoi faire.
+  Die *arme* Frau wusste nicht mehr weiter.
+
+  Cette sauce est *pauvre* en épices.
+  Diese Soße ist gewürz*arm*.
+
+  Les conditions sont vraiment *pauvres* dans cet hôpital.
+  Die Bedingungen sind wirklich *ärmlich* in diesem Krankenhaus.
+
+  Le terrain est *pauvre* en matière organique.
+  Der Boden ist *arm* an organischem Material.
+
+  Sa stratégie était particulièrement *pauvre*.
+  Seine Strategie war besonders *schwach*.
+
+  Les *pauvres* victimes ont tout perdu dans l'inondation.
+  Die *armen* Opfer haben alles in der Überschwemmung verloren.
+
+  Cette zone est *pauvre* en oxygène.
+  Diese Zone ist sauerstoff*arm*.
+
+  Le budget est vraiment *pauvre* cette année.
+  Das Budget ist dieses Jahr wirklich *kümmerlich*.
+
+  La présentation était *pauvre* en illustrations.
+  Die Präsentation war *arm* an Illustrationen.
+
+  Son jeu d'acteur était particulièrement *pauvre*.
+  Sein Schauspiel war besonders *schwach*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

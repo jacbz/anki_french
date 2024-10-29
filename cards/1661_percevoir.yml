@@ -13,23 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il était perçu comme agressif, arrogant et généralement hostile.
-  Er wurde als aggressiv, arrogant und allgemein feindselig wahrgenommen.
+  Il était *perçu* comme agressif, arrogant et généralement hostile.
+  Er wurde als aggressiv, arrogant und generell feindselig *wahrgenommen*.
 
-  Je perçois une odeur étrange.
-  Ich nehme einen seltsamen Geruch wahr.
+  J'ai *perçu* un bruit étrange dans la cuisine hier soir.
+  Ich habe gestern Abend ein seltsames Geräusch in der Küche *wahrgenommen*.
 
-  Paul a été mal perçu par ses collègues, qui l'ont pris pour un rival.
-  Paul wurde von seinen Kollegen falsch verstanden, die ihn für einen Rivalen hielten.
+  Les chiens *perçoivent* des sons que nous ne pouvons pas entendre.
+  Hunde *nehmen* Töne *wahr*, die wir nicht hören können.
 
-  Le gouvernement français perçoit des taxes sur les produits importés.
-  Die französische Regierung zieht Gebühren auf importierte Produkte ein.
+  Dans l'obscurité, on *percevait* à peine les contours des meubles.
+  In der Dunkelheit *erkannte* man kaum die Umrisse der Möbel.
 
-  Les États-Unis perçoivent un impôt sur le revenu.
-  Die Vereinigten Staaten erheben eine Einkommensteuer.
+  Je *perçois* bien la différence entre ces deux versions du texte.
+  Ich *erkenne* den Unterschied zwischen diesen beiden Textversionen gut.
 
-  Le nouveau professeur était perçu par certains élèves comme un perturbateur.
-  Der neue Lehrer wurde von einigen Schülern als Störenfried angesehen.
+  Marie *percevait* clairement le malaise de son ami pendant la conversation.
+  Marie *spürte* das Unbehagen ihres Freundes während des Gesprächs deutlich.
+
+  Les employés *perçoivent* leur salaire le dernier jour du mois.
+  Die Angestellten *bekommen* ihr Gehalt am letzten Tag des Monats.
+
+  L'État *perçoit* des taxes sur les produits de luxe.
+  Der Staat *erhebt* Steuern auf Luxusprodukte.
+
+  Je n'ai pas encore *perçu* mes indemnités de déplacement.
+  Ich habe meine Reisekostenentschädigung noch nicht *erhalten*.
+
+  Les propriétaires *perçoivent* le loyer au début de chaque mois.
+  Die Vermieter *nehmen* die Miete zu Beginn jedes Monats *ein*.
+
+  Dans le brouillard, nous *percevions* à peine la route devant nous.
+  Im Nebel *nahmen* wir die Straße vor uns kaum *wahr*.
+
+  Comment as-tu *perçu* sa réaction à la nouvelle ?
+  Wie hast du seine Reaktion auf die Nachricht *wahrgenommen*?
+
+  L'administration fiscale *perçoit* les impôts sur le revenu.
+  Die Steuerbehörde *zieht* die Einkommensteuer *ein*.
+
+  Les participants ont mal *perçu* le changement de programme.
+  Die Teilnehmer haben die Programmänderung falsch *verstanden*.
+
+  On *percevait* une légère odeur de brûlé dans l'appartement.
+  Man *nahm* einen leichten Brandgeruch in der Wohnung *wahr*.
+
+  Elle *perçoit* une pension depuis sa retraite.
+  Sie *erhält* seit ihrer Pensionierung eine Rente.
+
+  Les artistes *perçoivent* des droits d'auteur pour leurs œuvres.
+  Die Künstler *bekommen* Tantiemen für ihre Werke.
+
+  Je *perçois* une certaine tristesse dans sa voix.
+  Ich *höre* eine gewisse Traurigkeit in ihrer Stimme.
+
+  La municipalité *perçoit* des droits de stationnement.
+  Die Stadtverwaltung *kassiert* Parkgebühren.
+
+  Les changements climatiques sont de plus en plus *perçus* comme une menace.
+  Klimaveränderungen werden zunehmend als Bedrohung *wahrgenommen*.
+
+  Il *perçoit* des intérêts sur son compte d'épargne.
+  Er *bekommt* Zinsen auf sein Sparkonto.
+
+  Comment les électeurs ont-ils *perçu* ce discours politique ?
+  Wie haben die Wähler diese politische Rede *aufgenommen*?
+
+  Tu *perçois* toujours les choses de manière négative !
+  Du *siehst* die Dinge immer negativ!
+
+  Les étudiants *perçoivent* une bourse d'études mensuelle.
+  Die Studenten *erhalten* ein monatliches Stipendium.
+
+  On *percevait* déjà les premiers signes du printemps.
+  Man *nahm* bereits die ersten Anzeichen des Frühlings *wahr*.
+
+  Cette mesure a été mal *perçue* par l'opinion publique.
+  Diese Maßnahme wurde von der Öffentlichkeit schlecht *aufgenommen*.
+
+  L'entreprise *perçoit* une commission sur chaque vente.
+  Das Unternehmen *kassiert* eine Provision für jeden Verkauf.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,29 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils ont menacé de l’incarcérer et de le torturer.
-  Sie drohten, ihn zu inhaftieren und zu foltern.
+  Ils ont *menacé* de l'incarcérer et de le torturer.
+  Sie haben *gedroht*, ihn einzusperren und zu foltern.
 
-  Il a menacé de partir.
-  Er hat damit gedroht, zu gehen.
+  Le voleur m'a *menacé* avec un couteau.
+  Der Dieb hat mich mit einem Messer *bedroht*.
 
-  Le gangster a menacé le caissier d'une arme, en lui ordonnant de lui donner tout l'argent.
-  Der Gangster drohte dem Kassierer mit einer Waffe und befahl ihm, ihm das gesamte Geld auszuhändigen.
+  Si tu ne fais pas tes devoirs, je te *menace* de te confisquer ton téléphone.
+  Wenn du deine Hausaufgaben nicht machst, *drohe* ich dir damit, dir dein Handy wegzunehmen.
 
-  Le professeur a menacé de faire échouer les élèves s'ils ne se calment pas.
-  Der Professor drohte, die Schüler durchfallen zu lassen, wenn sie sich nicht beruhigen würden.
+  Un danger imminent *menace* notre planète.
+  Eine unmittelbare Gefahr *bedroht* unseren Planeten.
 
-  L'homme a menacé sa femme de mort si elle quittait la maison.
-  Der Mann drohte seiner Frau mit dem Tod, falls sie das Haus verlassen würde.
+  La pluie *menace* de gâcher notre pique-nique.
+  Der Regen *droht* unser Picknick zu verderben.
 
-  Le conducteur a menacé de poursuivre le cycliste pour avoir roulé sur sa pelouse.
-  Der Autofahrer drohte, den Radfahrer anzuzeigen, weil er über seinen Rasen gefahren war.
+  Le bâtiment *menace* ruine depuis des années.
+  Das Gebäude *droht* seit Jahren einzustürzen.
 
-  Le prisonnier est menacé de prison à vie pour ses crimes.
-  Dem Gefangenen droht eine lebenslange Haftstrafe wegen seiner Verbrechen.
+  Son patron l'a *menacé* de le licencier s'il arrive encore en retard.
+  Sein Chef hat ihm mit Kündigung *gedroht*, wenn er noch einmal zu spät kommt.
 
-  La pluie menace de tomber, il faut vite se mettre à l'abri.
-  Der Regen kann jeden Moment losbrechen, man muss schnell Schutz suchen.
+  Cette maladie *menace* sa vie depuis longtemps.
+  Diese Krankheit *gefährdet* seit langem sein Leben.
+
+  Les deux pays se sont *menacés* de représailles.
+  Die beiden Länder haben sich gegenseitig mit Vergeltung *gedroht*.
+
+  L'épidémie *menace* de se propager dans toute la région.
+  Die Epidemie *droht* sich in der ganzen Region auszubreiten.
+
+  Le vieux pont *menace* de s'effondrer à tout moment.
+  Die alte Brücke *droht* jeden Moment einzustürzen.
+
+  Il m'a *menacé* du poing quand je l'ai dépassé en voiture.
+  Er hat mir mit der Faust *gedroht*, als ich ihn mit dem Auto überholt habe.
+
+  Les nuages sombres *menacent* d'apporter un violent orage.
+  Die dunklen Wolken *drohen* ein heftiges Gewitter zu bringen.
+
+  La sécheresse *menace* les récoltes cette année.
+  Die Dürre *bedroht* dieses Jahr die Ernte.
+
+  Elle a *menacé* de partir si rien ne change.
+  Sie hat *gedroht* zu gehen, wenn sich nichts ändert.
+
+  Son discours *menace* d'être interminable.
+  Seine Rede *droht* endlos zu werden.
+
+  Les loups *menacent* nos troupeaux depuis plusieurs semaines.
+  Die Wölfe *bedrohen* seit mehreren Wochen unsere Herden.
+
+  La fonte des glaciers *menace* l'équilibre écologique.
+  Das Schmelzen der Gletscher *gefährdet* das ökologische Gleichgewicht.
+
+  Le concurrent l'a *menacé* de poursuites judiciaires.
+  Der Konkurrent hat ihm mit rechtlichen Schritten *gedroht*.
+
+  Un scandale *menace* d'éclater dans l'entreprise.
+  Ein Skandal *droht* in der Firma auszubrechen.
+
+  La neige *menace* de bloquer les routes de montagne.
+  Der Schnee *droht* die Bergstraßen zu blockieren.
+
+  Cette espèce rare est *menacée* d'extinction.
+  Diese seltene Art ist vom Aussterben *bedroht*.
+
+  Je me sens *menacé* par ses remarques hostiles.
+  Ich fühle mich von seinen feindseligen Bemerkungen *bedroht*.
+
+  L'entreprise *menace* de délocaliser la production.
+  Die Firma *droht* damit, die Produktion zu verlagern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

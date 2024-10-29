@@ -13,32 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous sommes les gardiens de cette planète.
-  Wir sind die Hüter dieses Planeten.
+  Nous sommes les *gardiens* de cette planète.
+  Wir sind die *Hüter* dieses Planeten.
 
-  Le gardien de la prison a ouvert la porte.
-  Der Wächter des Gefängnisses hat die Tür geöffnet.
+  Le *gardien* a fermé la grille du zoo à vingt heures.
+  Der *Wärter* hat das Zootor um zwanzig Uhr geschlossen.
 
-  Sophie est gardienne d'animaux dans un zoo, elle s'occupe des éléphants.
-  Sophie ist Tierpflegerin in einem Zoo, sie kümmert sich um die Elefanten.
+  Marie travaille comme *gardienne* d'animaux depuis cinq ans.
+  Marie arbeitet seit fünf Jahren als *Tierpflegerin*.
 
-  Le ministre des Finances est le gardien de la monnaie.
-  Der Finanzminister ist der Währungshüter.
+  Le *gardien* de parking m'a aidé à trouver une place libre.
+  Der *Parkplatzwächter* hat mir geholfen, einen freien Platz zu finden.
 
-  La gardienne de parking était très gentille et m'a aidé à trouver une place.
-  Die Parkplatzwächterin war sehr nett und hat mir geholfen einen Parkplatz zu finden.
+  La *gardienne* du musée surveille attentivement les visiteurs.
+  Die *Museumswärterin* beobachtet aufmerksam die Besucher.
 
-  Le gardien de phare avait une vue imprenable sur l'océan.
-  Der Leuchtturmwärter hatte einen atemberaubenden Blick auf den Ozean.
+  Les *gardiens* de prison ont découvert un téléphone portable dans une cellule.
+  Die *Gefängniswärter* haben ein Handy in einer Zelle gefunden.
 
-  Les gardiens de prison surveillent les détenus.
-  Die Gefängniswärterinnen beaufsichtigen die Gefangenen.
+  Son *ange gardien* l'a protégé pendant l'accident.
+  Sein *Schutzengel* hat ihn während des Unfalls beschützt.
 
-  Ne fais pas cette tête de gardien de prison! Tu me fais peur!
-  Mach kein so finsteres Gesicht! Du machst mir Angst!
+  Le *gardien* de but a arrêté le penalty.
+  Der *Torwart* hat den Elfmeter gehalten.
 
-  Les gardiens de l'ordre public sont chargés de faire respecter la loi.
-  Die Ordnungshüter sind dafür zuständig, die Gesetze durchzusetzen.
+  La *gardienne* de l'immeuble répare souvent les petites pannes.
+  Die *Hausmeisterin* repariert oft die kleinen Pannen.
+
+  Les *gardiens* de la paix patrouillent dans les rues.
+  Die Polizisten (*Ordnungshüter*) patrouillieren in den Straßen.
+
+  Le vieux *gardien* du phare vit seul sur son île.
+  Der alte *Leuchtturmwärter* lebt allein auf seiner Insel.
+
+  La *gardienne* de nuit fait ses rondes toutes les heures.
+  Die *Nachtwächterin* macht stündlich ihre Runden.
+
+  Cette bibliothèque est la *gardienne* de notre patrimoine culturel.
+  Diese Bibliothek ist die *Hüterin* unseres kulturellen Erbes.
+
+  Le nouveau *gardien* du centre commercial commence lundi.
+  Der neue *Wächter* des Einkaufszentrums fängt am Montag an.
+
+  La *gardienne* surveille les enfants dans la cour de récréation.
+  Die *Aufseherin* überwacht die Kinder auf dem Pausenhof.
+
+  Le *gardien* du temple veille sur les anciennes traditions.
+  Der *Tempelwächter* wacht über die alten Traditionen.
+
+  Les *gardiens* de l'ordre public ont dispersé la manifestation.
+  Die *Ordnungshüter* haben die Demonstration aufgelöst.
+
+  La *gardienne* du château organise des visites guidées.
+  Die *Schlosswärterin* organisiert Führungen.
+
+  Le *gardien* de l'entrepôt vérifie tous les colis.
+  Der *Aufseher* des Lagers überprüft alle Pakete.
+
+  Cette institution est la *gardienne* de la langue française.
+  Diese Institution ist die *Hüterin* der französischen Sprache.
+
+  Le *gardien* de but s'entraîne tous les matins.
+  Der *Torwart* trainiert jeden Morgen.
+
+  La *gardienne* d'immeuble distribue le courrier aux habitants.
+  Die *Hausmeisterin* verteilt die Post an die Bewohner.
+
+  Les *gardiens* du zoo nourrissent les animaux trois fois par jour.
+  Die *Tierwärter* füttern die Tiere dreimal am Tag.
+
+  Le *gardien* du parking souterrain contrôle les tickets.
+  Der *Parkplatzwächter* kontrolliert die Tickets.
+
+  La nouvelle *gardienne* du musée connaît l'histoire de chaque tableau.
+  Die neue *Museumswärterin* kennt die Geschichte jedes Gemäldes.
+
+  Le *gardien* de la monnaie surveille les taux de change.
+  Der *Währungshüter* überwacht die Wechselkurse.
+
+  La *gardienne* de prison accompagne les visiteurs.
+  Die *Gefängniswärterin* begleitet die Besucher.
+
+  Le *gardien* de nuit a entendu un bruit suspect.
+  Der *Nachtwächter* hat ein verdächtiges Geräusch gehört.
+
+  Les *gardiens* de la tradition refusent tout changement.
+  Die *Hüter* der Tradition lehnen jede Veränderung ab.
+
+  La *gardienne* du square veille à la propreté des lieux.
+  Die *Parkwärterin* achtet auf die Sauberkeit des Platzes.
+
+  Le *gardien* des scellés est responsable des biens sous séquestre.
+  Der *Wächter* der Siegel ist für die beschlagnahmten Güter verantwortlich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

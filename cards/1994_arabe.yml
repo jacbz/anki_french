@@ -13,20 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le monde arabe devient bipolaire.
-  Die arabische Welt wird bipolar.
+  Le monde *arabe* devient bipolaire.
+  Die *arabische* Welt wird bipolar.
 
-  Je parle arabe.
-  Ich spreche Arabisch.
+  L'*arabe* est une langue fascinante à apprendre.
+  *Arabisch* ist eine faszinierende Sprache zum Lernen.
 
-  Le nombre 7 est un chiffre arabe.
-  Die Zahl 7 ist eine arabische Ziffer.
+  Elle préfère utiliser les chiffres *arabes* plutôt que romains.
+  Sie verwendet lieber *arabische* Zahlen als römische.
 
-  J'ai appris à écrire les chiffres arabes à l'école.
-  Ich habe in der Schule gelernt, arabische Ziffern zu schreiben.
+  Les chevaux *arabes* sont connus pour leur endurance exceptionnelle.
+  *Arabische* Pferde sind für ihre außergewöhnliche Ausdauer bekannt.
 
-  Les chiffres romains sont plus anciens que les chiffres arabes.
-  Römische Zahlen sind älter als arabische Ziffern.
+  La calligraphie *arabe* est un art complexe et raffiné.
+  Die *arabische* Kalligraphie ist eine komplexe und raffinierte Kunst.
+
+  J'étudie l'*arabe* classique à l'université.
+  Ich studiere klassisches *Arabisch* an der Universität.
+
+  Cette broderie *arabe* est magnifiquement colorée.
+  Diese *arabische* Stickerei ist wunderschön bunt.
+
+  L'architecture *arabe* de Grenade est impressionnante.
+  Die *arabische* Architektur in Granada ist beeindruckend.
+
+  La musique *arabe* traditionnelle utilise des quarts de ton.
+  Die traditionelle *arabische* Musik verwendet Vierteltöne.
+
+  Mon professeur d'*arabe* vient du Caire.
+  Mein *Arabisch*lehrer kommt aus Kairo.
+
+  Elle parle l'*arabe* égyptien couramment.
+  Sie spricht fließend ägyptisches *Arabisch*.
+
+  Cette dentelle *arabe* a été faite à la main.
+  Diese *arabische* Spitze wurde von Hand gefertigt.
+
+  La philosophie *arabe* a influencé la pensée européenne.
+  Die *arabische* Philosophie hat das europäische Denken beeinflusst.
+
+  L'*arabe* littéraire diffère des dialectes parlés.
+  Das literarische *Arabisch* unterscheidet sich von den gesprochenen Dialekten.
+
+  Les manuscrits *arabes* sont conservés dans ce musée.
+  Die *arabischen* Handschriften werden in diesem Museum aufbewahrt.
+
+  Il traduit des textes de l'*arabe* vers le français.
+  Er übersetzt Texte aus dem *Arabischen* ins Französische.
+
+  La civilisation *arabe* a contribué aux mathématiques.
+  Die *arabische* Zivilisation hat zur Mathematik beigetragen.
+
+  L'*arabe* dialectal varie selon les régions.
+  Das dialektale *Arabisch* variiert je nach Region.
+
+  Les contes *arabes* fascinent les enfants.
+  *Arabische* Märchen faszinieren die Kinder.
+
+  Elle enseigne l'*arabe* coranique dans une école.
+  Sie unterrichtet koranisches *Arabisch* in einer Schule.
+
+  Cette poésie *arabe* date du Moyen Âge.
+  Diese *arabische* Poesie stammt aus dem Mittelalter.
+
+  Les motifs *arabes* décorent les murs du palais.
+  *Arabische* Motive schmücken die Palastwände.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

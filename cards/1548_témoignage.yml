@@ -13,32 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les contrôleurs aériens étudient les témoignages oculaires.
-  Die Fluglotsen untersuchen Augenzeugenberichte.
+  Les contrôleurs aériens étudient les *témoignages* oculaires.
+  Die Fluglotsen untersuchen die Augenzeugen*aussagen*.
 
-  Le témoignage de l’accusé a été crucial.
-  Die Aussage des Angeklagten war entscheidend.
+  Le juge a demandé un nouveau *témoignage* de sa part.
+  Der Richter hat eine neue *Aussage* von ihm verlangt.
 
-  Le témoin a fait un faux témoignage, ce qui a conduit à une condamnation injuste.
-  Der Zeuge hat eine Falschaussage gemacht, was zu einer falschen Verurteilung geführt hat.
+  Son *témoignage* devant le tribunal était très convaincant.
+  Seine *Zeugenaussage* vor Gericht war sehr überzeugend.
 
-  Son comportement est un témoignage de confiance et d'amitié envers ses proches.
-  Sein Verhalten ist ein Beweis für sein Vertrauen und seine Freundschaft gegenüber seinen Lieben.
+  Il risque d'être poursuivi pour faux *témoignage*.
+  Ihm droht eine Anklage wegen *Falschaussage*.
 
-  Les photos portent témoignage de la beauté de la nature.
-  Die Fotos bezeugen die Schönheit der Natur.
+  Les journalistes ont recueilli plusieurs *témoignages* de survivants.
+  Die Journalisten haben mehrere *Aussagen* von Überlebenden gesammelt.
 
-  L'historien a rendu témoignage de la vie de l'empereur.
-  Der Historiker hat ein Zeugnis über das Leben des Kaisers abgelegt.
+  Je dois porter *témoignage* de ce que j'ai vu ce soir-là.
+  Ich muss *bezeugen*, was ich an jenem Abend gesehen habe.
 
-  Les enfants ont rendu témoignage à la victime de l'accident, racontant ce qu'ils avaient vu.
-  Die Kinder haben dem Opfer des Unfalls ihr Mitgefühl bekundet, indem sie erzählten, was sie gesehen hatten.
+  Elle a rendu *témoignage* de son innocence.
+  Sie hat seine Unschuld *bezeugt*.
 
-  Le délit de faux témoignage est un crime grave qui peut avoir des conséquences importantes.
-  Das Aussagedelikt ist ein schweres Verbrechen, das schwerwiegende Folgen haben kann.
+  Ce cadeau est un *témoignage* de mon amitié.
+  Dieses Geschenk ist ein *Beweis* meiner Freundschaft.
 
-  Je vous offre ce cadeau en témoignage de ma reconnaissance pour votre aide.
-  Ich schenke Ihnen dieses Geschenk als Zeichen meiner Dankbarkeit für Ihre Hilfe.
+  Acceptez ce livre en *témoignage* de ma gratitude.
+  Nehmen Sie dieses Buch als *Zeichen* meiner Dankbarkeit an.
+
+  Son roman est un précieux *témoignage* sur la vie pendant la guerre.
+  Sein Roman ist ein wertvolles *Zeugnis* über das Leben während des Krieges.
+
+  Le professeur m'a donné un *témoignage* de satisfaction.
+  Der Lehrer hat mir ein *Zeugnis* der Zufriedenheit ausgestellt.
+
+  Ces photos sont un *témoignage* important de cette époque.
+  Diese Fotos sind ein wichtiges *Zeugnis* dieser Zeit.
+
+  Les *témoignages* concordants des voisins ont aidé la police.
+  Die übereinstimmenden *Aussagen* der Nachbarn haben der Polizei geholfen.
+
+  Nous avons reçu de nombreux *témoignages* de soutien.
+  Wir haben viele *Beweise* der Unterstützung erhalten.
+
+  Son silence est un *témoignage* de culpabilité.
+  Sein Schweigen ist ein *Beweis* für seine Schuld.
+
+  Le documentaire rassemble des *témoignages* poignants.
+  Die Dokumentation sammelt erschütternde *Aussagen*.
+
+  Je peux invoquer son *témoignage* pour prouver mon alibi.
+  Ich kann seine *Aussage* anführen, um mein Alibi zu beweisen.
+
+  Les *témoignages* des experts sont parfois contradictoires.
+  Die *Aussagen* der Experten sind manchmal widersprüchlich.
+
+  Son *témoignage* a permis d'identifier le coupable.
+  Seine *Aussage* hat es ermöglicht, den Täter zu identifizieren.
+
+  Ce livre est un *témoignage* bouleversant sur la pauvreté.
+  Dieses Buch ist ein erschütterndes *Zeugnis* über die Armut.
+
+  Les *témoignages* d'affection se multiplient depuis sa disparition.
+  Die *Beweise* der Zuneigung häufen sich seit seinem Verschwinden.
+
+  Nous avons besoin de votre *témoignage* écrit.
+  Wir brauchen Ihre schriftliche *Aussage*.
+
+  Son journal intime est un *témoignage* unique sur cette période.
+  Sein Tagebuch ist ein einzigartiges *Zeugnis* dieser Zeit.
+
+  Le juge a rejeté ce *témoignage* peu fiable.
+  Der Richter hat diese unzuverlässige *Aussage* zurückgewiesen.
+
+  Ces lettres sont un *témoignage* touchant de leur amour.
+  Diese Briefe sind ein bewegendes *Zeugnis* ihrer Liebe.
+
+  Les victimes ont porté *témoignage* contre leur agresseur.
+  Die Opfer haben gegen ihren Angreifer *ausgesagt*.
+
+  Ces ruines sont le dernier *témoignage* d'une civilisation disparue.
+  Diese Ruinen sind das letzte *Zeugnis* einer untergegangenen Zivilisation.
+
+  Ce geste est un *témoignage* de sa générosité.
+  Diese Geste ist ein *Beweis* seiner Großzügigkeit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

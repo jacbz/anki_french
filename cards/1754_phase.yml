@@ -13,32 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Toute maladie est une phase de guérison.
-  Jede Krankheit ist eine Phase der Heilung.
+  Toute maladie est une *phase* de guérison.
+  Jede Krankheit ist eine *Phase* der Heilung.
 
-  Nous entrons dans la phase finale du projet.
-  Wir treten in die Endphase des Projekts ein.
+  La Lune entre dans sa dernière *phase* ce soir.
+  Der Mond tritt heute Abend in seine letzte *Phase* ein.
 
-  La première phase du projet a été consacrée à la planification.
-  Die Anfangsphase des Projekts wurde der Planung gewidmet.
+  Les scientifiques ont observé les différentes *phases* de Vénus.
+  Die Wissenschaftler haben die verschiedenen *Phasen* der Venus beobachtet.
 
-  Je suis en phase avec toi sur ce point.
-  Ich bin mit dir auf einer Wellenlänge, was das betrifft.
+  L'eau peut exister sous trois *phases* : solide, liquide et gazeuse.
+  Wasser kann in drei *Phasen* existieren: fest, flüssig und gasförmig.
 
-  Le patient est en phase terminale de sa maladie.
-  Der Patient befindet sich im Endstadium seiner Krankheit.
+  Le patient est actuellement dans la *phase* aiguë de sa maladie.
+  Der Patient befindet sich derzeit in der akuten *Phase* seiner Krankheit.
 
-  La phase de la Lune est actuellement décroissante.
-  Die Mondphase ist zurzeit abnehmend.
+  Notre entreprise traverse une *phase* difficile.
+  Unser Unternehmen durchläuft eine schwierige *Phase*.
 
-  La phase du cycle économique actuelle est favorable aux investissements.
-  Die aktuelle Konjunkturphase ist günstig für Investitionen.
+  "Je ne suis pas vraiment *en phase* avec toi sur cette question."
+  "Ich bin mit dir in dieser Frage nicht wirklich *auf einer Wellenlänge*."
 
-  La phase anale est une étape importante du développement psychosexuel de l'enfant.
-  Die Analphase ist eine wichtige Phase in der psychosexuellen Entwicklung des Kindes.
+  Les adolescents passent par une *phase* de rebellion.
+  Jugendliche durchlaufen eine *Phase* der Rebellion.
 
-  Les deux signaux sont en opposition de phase.
-  Die beiden Signale sind phasenverschoben.
+  La *phase* de test du nouveau logiciel commence demain.
+  Die Test*phase* der neuen Software beginnt morgen.
+
+  Les deux ondes sont *en phase*.
+  Die beiden Wellen sind *phasengleich*.
+
+  Le projet entre dans sa *phase* finale.
+  Das Projekt geht in seine End*phase*.
+
+  Les *phases* du sommeil se succèdent naturellement.
+  Die Schlaf*phasen* folgen natürlich aufeinander.
+
+  Cette *phase* de croissance économique ne durera pas éternellement.
+  Diese Wirtschaftswachstums*phase* wird nicht ewig andauern.
+
+  La première *phase* des travaux sera terminée lundi.
+  Die erste Bau*phase* wird am Montag abgeschlossen sein.
+
+  Nous devons synchroniser les *phases* du circuit électrique.
+  Wir müssen die *Phasen* des Stromkreises synchronisieren.
+
+  L'économie entre dans une nouvelle *phase* de récession.
+  Die Wirtschaft tritt in eine neue Rezessions*phase* ein.
+
+  La *phase* d'incubation du virus dure environ trois jours.
+  Die Inkubations*phase* des Virus dauert ungefähr drei Tage.
+
+  Les deux équipes ne sont pas *en phase* dans leur stratégie.
+  Die beiden Teams sind in ihrer Strategie nicht *synchron*.
+
+  Chaque *phase* du projet nécessite une approche différente.
+  Jede Projekt*phase* erfordert einen anderen Ansatz.
+
+  La *phase* terminale de la maladie nécessite des soins palliatifs.
+  Die Terminal*phase* der Krankheit erfordert palliative Pflege.
+
+  Il alterne entre des *phases* d'euphorie et de dépression.
+  Er wechselt zwischen *Phasen* der Euphorie und Depression.
+
+  Les ingénieurs ont analysé les différentes *phases* du décollage.
+  Die Ingenieure haben die verschiedenen Start*phasen* analysiert.
+
+  Une nouvelle *phase* de négociations commence aujourd'hui.
+  Eine neue Verhandlungs*phase* beginnt heute.
+
+  La *phase* d'apprentissage est cruciale pour la réussite.
+  Die Lern*phase* ist entscheidend für den Erfolg.
+
+  Le microscope à contraste de *phase* permet d'observer les cellules vivantes.
+  Das *Phasen*kontrastmikroskop ermöglicht die Beobachtung lebender Zellen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

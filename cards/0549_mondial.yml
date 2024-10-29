@@ -13,11 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous vivons dans une économie mondiale qui évolue très rapidement.
-  Wir leben in einer globalen Wirtschaft, die sich sehr schnell verändert.
+  Nous vivons dans une économie *mondiale* qui évolue très rapidement.
+  Wir leben in einer sich schnell entwickelnden *Welt*wirtschaft.
 
-  La Coupe du monde est un événement mondial.
-  Die Weltmeisterschaft ist ein globales Ereignis.
+  La population *mondiale* a dépassé les huit milliards d'habitants en 2022.
+  Die *Welt*bevölkerung hat 2022 die Acht-Milliarden-Marke überschritten.
+
+  Le réchauffement climatique est un défi *mondial* qui nous concerne tous.
+  Die globale Erwärmung ist eine *weltweite* Herausforderung, die uns alle betrifft.
+
+  La Seconde Guerre *mondiale* a profondément marqué l'histoire de l'humanité.
+  Der Zweite *Welt*krieg hat die Geschichte der Menschheit tief geprägt.
+
+  Cette entreprise est devenue un leader *mondial* dans son secteur.
+  Dieses Unternehmen ist zu einem *weltweiten* Marktführer in seiner Branche geworden.
+
+  L'équipe brésilienne espère remporter le *Mondial* de football cette année.
+  Die brasilianische Mannschaft hofft, die *Welt*meisterschaft im Fußball dieses Jahr zu gewinnen.
+
+  La crise sanitaire de 2020 a eu un impact *mondial* sans précédent.
+  Die Gesundheitskrise von 2020 hatte beispiellose *weltweite* Auswirkungen.
+
+  Cette chanteuse connaît un succès *mondial* depuis son dernier album.
+  Diese Sängerin feiert seit ihrem letzten Album *weltweiten* Erfolg.
+
+  L'UNESCO protège le patrimoine *mondial* de l'humanité.
+  Die UNESCO schützt das *Welt*kulturerbe der Menschheit.
+
+  La production *mondiale* de blé a diminué cette année à cause de la sécheresse.
+  Die *Welt*produktion von Weizen ist dieses Jahr aufgrund der Dürre zurückgegangen.
+
+  Cette athlète vient de battre le record *mondial* du 100 mètres.
+  Diese Athletin hat gerade den *Welt*rekord über 100 Meter gebrochen.
+
+  Les médias suivent de près l'actualité *mondiale*.
+  Die Medien verfolgen aufmerksam das *Welt*geschehen.
+
+  La récession *mondiale* a touché de nombreux secteurs économiques.
+  Die *weltweite* Rezession hat viele Wirtschaftssektoren getroffen.
+
+  Internet est devenu un réseau de communication *mondial*.
+  Das Internet ist zu einem *weltweiten* Kommunikationsnetzwerk geworden.
+
+  L'Organisation *Mondiale* de la Santé surveille les épidémies.
+  Die *Welt*gesundheitsorganisation überwacht Epidemien.
+
+  Le commerce *mondial* continue de croître malgré les tensions internationales.
+  Der *Welt*handel wächst trotz internationaler Spannungen weiter.
+
+  Cette découverte scientifique aura une portée *mondiale*.
+  Diese wissenschaftliche Entdeckung wird *weltweite* Bedeutung haben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

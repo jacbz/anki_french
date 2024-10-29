@@ -9,17 +9,75 @@ Femininum / Plural: ''
 IPA: \ma.ʁi.tim\
 Definition: See-, Küsten-
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Je viens d’une ville maritime.\nIch komme aus einer Stadt am Meer.\n\
-  \nLa Bretagne est connue pour son climat maritime.\nDie Bretagne ist für ihr maritimes\
-  \ Klima bekannt.\n\nLe commerce maritime était très important pour la Grèce antique.\n\
-  Der Seehandel war sehr wichtig für das antike Griechenland.\n\nLe transport maritime\
-  \ est essentiel pour le commerce international.\nDer Transport zur See ist essenziell\
-  \ für den internationalen Handel.\n\nLa compagnie maritime a annoncé l'ajout d'une\
-  \ nouvelle ligne de ferry.\nDie Schifffahrtsgesellschaft hat die Aufnahme einer\
-  \ neuen Fährlinie angekündigt.\n\nLa catastrophe maritime a coûté la vie à des centaines\
-  \ de passagers.\nDie Schiffskatastrophe kostete Hunderte Passagiere das Leben. \n\
-  \nLe nom du navire était inscrit au registre maritime.\nDer Name des Schiffs war\
-  \ im Schiffsregister eingetragen."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Je viens d'une ville *maritime*.
+  Ich komme aus einer *See*stadt.
+
+  La Bretagne est une région *maritime* par excellence.
+  Die Bretagne ist eine typische *Küsten*region.
+
+  Le climat *maritime* de cette région est très agréable.
+  Das *See*klima dieser Region ist sehr angenehm.
+
+  Cette compagnie *maritime* propose des croisières en Méditerranée.
+  Diese *Schifffahrts*gesellschaft bietet Kreuzfahrten im Mittelmeer an.
+
+  Le transport *maritime* est crucial pour le commerce international.
+  Der *See*transport ist entscheidend für den internationalen Handel.
+
+  La radio *maritime* a émis un signal de détresse.
+  Der *See*funk hat ein Notsignal gesendet.
+
+  Une catastrophe *maritime* a eu lieu au large des côtes.
+  Eine *Schiffs*katastrophe hat sich vor der Küste ereignet.
+
+  Le registre *maritime* contient tous les navires commerciaux.
+  Das *Schiffs*register enthält alle Handelsschiffe.
+
+  Les ports *maritimes* sont essentiels pour l'économie du pays.
+  Die *See*häfen sind wichtig für die Wirtschaft des Landes.
+
+  La navigation *maritime* exige beaucoup d'expérience.
+  Die *See*fahrt erfordert viel Erfahrung.
+
+  Le commerce *maritime* représente 90% des échanges mondiaux.
+  Der *See*handel macht 90% des weltweiten Handels aus.
+
+  Cette route *maritime* est très fréquentée en été.
+  Diese *See*route wird im Sommer stark befahren.
+
+  Le pin *maritime* pousse bien dans cette région côtière.
+  Die *See*kiefer wächst gut in dieser Küstenregion.
+
+  La gare *maritime* accueille des milliers de voyageurs.
+  Der *See*bahnhof empfängt tausende Reisende.
+
+  Les signaux *maritimes* guident les bateaux la nuit.
+  Die *See*zeichen leiten die Boote in der Nacht.
+
+  Le droit *maritime* est une branche complexe du droit international.
+  Das *See*recht ist ein komplexer Zweig des internationalen Rechts.
+
+  L'agent *maritime* a organisé le déchargement du navire.
+  Der *Schifffahrts*agent hat das Entladen des Schiffs organisiert.
+
+  La préfecture *maritime* coordonne les opérations de sauvetage.
+  Die *See*präfektur koordiniert die Rettungsaktionen.
+
+  Cette nation *maritime* possède une grande flotte commerciale.
+  Diese *See*nation besitzt eine große Handelsflotte.
+
+  Le Portugal était une puissance *maritime* importante.
+  Portugal war eine bedeutende *See*macht.
+
+  Les peuples *maritimes* ont développé des techniques de navigation avancées.
+  Die *See*völker haben fortschrittliche Navigationstechniken entwickelt.
+
+  Le département des Alpes-*Maritimes* attire beaucoup de touristes.
+  Das Département Alpes-*Maritimes* zieht viele Touristen an.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

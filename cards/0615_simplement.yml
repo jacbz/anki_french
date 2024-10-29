@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est tout simplement inacceptable.
-  Das ist schlichtweg inakzeptabel.
+  C'est tout *simplement* inacceptable.
+  Das ist *schlicht* inakzeptabel.
 
-  Je veux simplement te dire merci.
-  Ich möchte dir einfach nur Danke sagen.
+  Elle s'habille toujours très *simplement*, mais avec goût.
+  Sie kleidet sich immer sehr *schlicht*, aber geschmackvoll.
 
-  Ce sont simplement des hommes qui font de leur mieux.
-  Das sind nur Menschen, die ihr Bestes geben.
+  Je te demande *simplement* de m'écouter pendant cinq minutes.
+  Ich bitte dich *lediglich* darum, mir fünf Minuten zuzuhören.
 
-  Ils sont fatigués, tout simplement.
-  Sie sind einfach nur müde.
+  Il faut expliquer les choses *simplement* aux enfants.
+  Man muss Kindern die Dinge *einfach* erklären.
+
+  La recette est *simplement* délicieuse.
+  Das Rezept ist *einfach* köstlich.
+
+  Je voulais *simplement* te dire merci pour ton aide.
+  Ich wollte dir *nur* danke für deine Hilfe sagen.
+
+  Marie a *simplement* hoché la tête sans rien dire.
+  Marie hat *bloß* mit dem Kopf genickt, ohne etwas zu sagen.
+
+  Ils vivent très *simplement* dans une petite maison à la campagne.
+  Sie leben sehr *bescheiden* in einem kleinen Haus auf dem Land.
+
+  *Simplement*, je ne comprends pas pourquoi tu as fait ça.
+  Ich verstehe *einfach* nicht, warum du das getan hast.
+
+  Il s'agit *simplement* d'un malentendu entre nous.
+  Es handelt sich *lediglich* um ein Missverständnis zwischen uns.
+
+  Paul raconte toujours les histoires très *simplement*.
+  Paul erzählt Geschichten immer sehr *schlicht*.
+
+  *Simplement*, nous n'avons plus le temps.
+  Wir haben *einfach* keine Zeit mehr.
+
+  Elle m'a répondu tout *simplement* : "Non."
+  Sie hat mir *ganz einfach* mit "Nein" geantwortet.
+
+  Le problème peut être résolu *simplement*.
+  Das Problem lässt sich *einfach* lösen.
+
+  Je suis *simplement* venu pour te voir.
+  Ich bin *nur* gekommen, um dich zu sehen.
+
+  Il faut *simplement* suivre les instructions.
+  Man muss *einfach* den Anweisungen folgen.
+
+  La vérité est *simplement* que personne ne sait.
+  Die Wahrheit ist *schlicht*, dass niemand es weiß.
+
+  Elle parle toujours *simplement* et directement.
+  Sie spricht immer *ungezwungen* und direkt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,23 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle bouscule sérieusement les droits des nations.
-  Sie rüttelt ernsthaft an den Rechten der Nationen.
+  Elle bouscule sérieusement les droits des *nations*.
+  Sie erschüttert ernsthaft die Rechte der *Nationen*.
 
-  La France est une grande nation.
-  Frankreich ist eine große Nation.
+  La *nation* française a une longue histoire de révolutions.
+  Die französische *Nation* hat eine lange Geschichte von Revolutionen.
 
-  Pierre est très attaché à sa nation et en est fier.
-  Pierre ist sehr nationalbewusst und stolz darauf.
+  En tant que première *nation* industrielle, la Grande-Bretagne a influencé le monde entier.
+  Als erste Industrie*nation* hat Großbritannien die ganze Welt beeinflusst.
 
-  La France est une nation culturelle riche et diversifiée.
-  Frankreich ist eine Kulturnation, die reich und vielfältig ist.
+  L'Organisation des *Nations* unies siège à New York.
+  Die Vereinten *Nationen* haben ihren Sitz in New York.
 
-  L'Europe des Nations est un concept politique qui prône la coopération entre les États membres.
-  Das Europa der Nationen ist ein politisches Konzept, das die Zusammenarbeit zwischen den Mitgliedstaaten befürwortet.
+  Notre *nation* doit faire face à de nombreux défis économiques.
+  Unsere *Nation* muss sich vielen wirtschaftlichen Herausforderungen stellen.
 
-  Les Nations unies sont une organisation internationale qui œuvre pour la paix et le développement.
-  Die Vereinten Nationen sind eine internationale Organisation, die sich für Frieden und Entwicklung einsetzt.
+  Les *nations* européennes coopèrent étroitement dans de nombreux domaines.
+  Die europäischen *Nationen* arbeiten in vielen Bereichen eng zusammen.
+
+  Chaque *nation* a ses propres traditions culinaires.
+  Jede *Nation* hat ihre eigenen kulinarischen Traditionen.
+
+  La *nation* toute entière était en deuil après la catastrophe.
+  Die ganze *Nation* trauerte nach der Katastrophe.
+
+  Les premières *nations* du Canada luttent pour leurs droits.
+  Die ersten *Nationen* Kanadas kämpfen für ihre Rechte.
+
+  Cette jeune *nation* se développe rapidement.
+  Diese junge *Nation* entwickelt sich schnell.
+
+  Le président s'est adressé à la *nation* hier soir.
+  Der Präsident hat sich gestern Abend an die *Nation* gewandt.
+
+  La *nation* s'est unie face à la menace.
+  Die *Nation* hat sich angesichts der Bedrohung vereint.
+
+  Les différentes *nations* doivent apprendre à vivre ensemble.
+  Die verschiedenen *Nationen* müssen lernen, zusammenzuleben.
+
+  Une *nation* pacifique qui privilégie le dialogue.
+  Eine friedliche *Nation*, die den Dialog bevorzugt.
+
+  Cette *nation* est connue pour sa cuisine exceptionnelle.
+  Diese *Nation* ist für ihre außergewöhnliche Küche bekannt.
+
+  La Société des *Nations* a précédé l'ONU.
+  Der Völkerbund [*Nationen*bund] war der Vorläufer der UNO.
+
+  Il est fier d'appartenir à sa *nation*.
+  Er ist stolz darauf, zu seiner *Nation* zu gehören.
+
+  La *nation* entière célèbre cette victoire historique.
+  Die ganze *Nation* feiert diesen historischen Sieg.
+
+  Une *nation* de navigateurs et d'explorateurs.
+  Eine *Nation* von Seefahrern und Entdeckern.
+
+  Les droits de chaque *nation* doivent être respectés.
+  Die Rechte jeder *Nation* müssen respektiert werden.
+
+  La *nation* allemande n'existait pas encore comme État unifié.
+  Die deutsche *Nation* existierte noch nicht als einheitlicher Staat.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils ont continué de grimper de manière pratiquement ininterrompue.
-  Sie stiegen praktisch ununterbrochen weiter.
+  Ils ont continué de grimper de manière *pratiquement* ininterrompue.
+  Sie kletterten *praktisch* ununterbrochen weiter.
 
-  Je suis pratiquement sûr que c’est la bonne réponse.
-  Ich bin praktisch sicher, dass dies die richtige Antwort ist.
+  *Pratiquement*, il nous faudra trois semaines pour finir ce projet.
+  *Praktisch gesehen* werden wir drei Wochen brauchen, um dieses Projekt abzuschließen.
+
+  "Cette voiture est *pratiquement* neuve !"
+  "Dieses Auto ist *so gut wie* neu!"
+
+  La ville est *pratiquement* déserte pendant les vacances d'été.
+  Die Stadt ist im Sommer *praktisch* leer.
+
+  *Pratiquement*, comment allons-nous résoudre ce problème ?
+  Wie lösen wir dieses Problem *praktisch gesehen*?
+
+  Le patient est *pratiquement* rétabli après son opération.
+  Der Patient ist nach seiner Operation *so gut wie* wiederhergestellt.
+
+  *Pratiquement*, je ne vois pas comment on peut y arriver.
+  *Praktisch gesehen* sehe ich keine Möglichkeit, wie wir das schaffen können.
+
+  Les réserves d'eau sont *pratiquement* épuisées.
+  Die Wasservorräte sind *praktisch* erschöpft.
+
+  Le nouveau système est *pratiquement* identique à l'ancien.
+  Das neue System ist *praktisch* identisch mit dem alten.
+
+  *Pratiquement*, tous les étudiants ont réussi l'examen.
+  *Praktisch* alle Studenten haben die Prüfung bestanden.
+
+  Cette méthode est excellente théoriquement, mais *pratiquement* impossible à réaliser.
+  Diese Methode ist theoretisch hervorragend, aber *praktisch* nicht durchführbar.
+
+  Le dossier est *pratiquement* complet, il ne manque que ta signature.
+  Die Akte ist *so gut wie* vollständig, es fehlt nur noch deine Unterschrift.
+
+  *Pratiquement*, nous devrons commencer par la cave.
+  *Praktisch gesehen* müssen wir im Keller anfangen.
+
+  Les travaux sont *pratiquement* terminés.
+  Die Arbeiten sind *praktisch* abgeschlossen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

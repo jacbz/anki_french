@@ -13,44 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous allons prendre une pause pour le déjeuner.
-  Wir machen eine Mittagspause.
+  Nous allons prendre une *pause* pour le déjeuner.
+  Wir werden eine *Pause* zum Mittagessen machen.
 
-  Je prends une pause.
-  Ich mache eine Pause.
+  La *pause* publicitaire durera environ trois minutes.
+  Die Werbe*pause* wird ungefähr drei Minuten dauern.
 
-  Tu as besoin de faire une pause.
-  Du brauchst eine Pause.
+  Pendant la *pause*, les enfants jouent dans la cour de récréation.
+  Während der *Pause* spielen die Kinder auf dem Schulhof.
 
-  Pour le moment, ils font une pause.
-  Im Moment machen sie eine Pause.
+  Le chef d'orchestre a marqué une *pause* avant le dernier mouvement.
+  Der Dirigent machte eine *Pause* vor dem letzten Satz.
 
-  Le professeur a proposé de faire une pause après deux heures de cours.
-  Der Lehrer schlug vor, nach zwei Stunden Unterricht eine Pause zu machen.
+  Les joueurs sont retournés aux vestiaires pour la *pause*.
+  Die Spieler sind in die Kabine zur *Halbzeit* gegangen.
 
-  Les employés ont profité de la pause cigarette pour discuter de leurs projets.
-  Die Angestellten nutzten die Zigarettenpause, um ihre Pläne zu besprechen.
+  "Je dois faire une *pause*-café, je n'en peux plus."
+  "Ich muss eine Kaffee*pause* machen, ich kann nicht mehr."
 
-  Le médecin a imposé une pause forcée à son patient après l'opération.
-  Der Arzt verordnete seinem Patienten nach der Operation eine Zwangspause.
+  Elle a mis sa carrière en *pause* pour élever ses enfants.
+  Sie hat ihre Karriere auf *Pause* gesetzt, um ihre Kinder großzuziehen.
 
-  Après trois heures de travail acharné, il a décidé de faire une pause forcée.
-  Nach drei Stunden harter Arbeit beschloss er, eine Zwangspause einzulegen.
+  J'ai dû faire une *pause* forcée à cause de ma blessure.
+  Ich musste wegen meiner Verletzung eine Zwangs*pause* einlegen.
 
-  Il y a une pause intermédiaire toutes les heures dans ce cours.
-  In diesem Kurs gibt es alle Stunden eine Zwischenpause.
+  L'équipe reprendra l'entraînement après la *pause* d'hiver.
+  Das Team wird nach der Winter*pause* wieder mit dem Training beginnen.
 
-  La publicité est interrompue par une pause publicitaire toutes les cinq minutes.
-  Die Werbung wird alle fünf Minuten durch eine Werbepause unterbrochen.
+  Une courte *pause* s'impose entre ces deux réunions.
+  Zwischen diesen beiden Meetings ist eine kurze *Pause* nötig.
 
-  Je déjeune tous les jours à la cantine pendant la pause de midi.
-  Ich esse jeden Tag in der Kantine zu Mittag während der Mittagspause.
+  Le gouvernement a annoncé une *pause* dans les réformes sociales.
+  Die Regierung hat eine *Pause* bei den Sozialreformen angekündigt.
 
-  Je n'ai qu'une demi-heure de pause à midi pour manger et me détendre.
-  Ich habe nur eine halbe Stunde Mittagspause zum Essen und Entspannen.
+  Appuyez sur le bouton *pause* pour arrêter la vidéo.
+  Drücken Sie die *Pause*-Taste, um das Video anzuhalten.
 
-  Les clubs de football font une pause d'hiver pendant les mois les plus froids.
-  Die Fussballclubs legen in den kältesten Monaten eine Winterpause ein.
+  Cette *pause* musicale vaut exactement quatre temps.
+  Diese musikalische *Pause* entspricht genau vier Schlägen.
+
+  Les ouvriers font une *pause* de quinze minutes toutes les deux heures.
+  Die Arbeiter machen alle zwei Stunden eine fünfzehnminütige *Pause*.
+
+  L'orateur fit une *pause* dramatique avant de continuer.
+  Der Redner machte eine dramatische *Pause*, bevor er fortfuhr.
+
+  La *pause* de midi est raccourcie pendant le ramadan.
+  Die Mittags*pause* ist während des Ramadan verkürzt.
+
+  Je n'ai que trente minutes de *pause* pour déjeuner.
+  Ich habe nur dreißig Minuten *Pause* zum Mittagessen.
+
+  Les étudiants profitent de la *pause* pour réviser leurs notes.
+  Die Studenten nutzen die *Pause*, um ihre Notizen durchzugehen.
+
+  Une courte *pause* s'est glissée entre les deux mouvements de la symphonie.
+  Eine kurze *Pause* schob sich zwischen die beiden Sätze der Symphonie.
+
+  Après chaque *pause*, il est plus difficile de se remettre au travail.
+  Nach jeder *Pause* fällt es schwerer, wieder mit der Arbeit anzufangen.
+
+  Cette longue *pause* dans la conversation était gênante.
+  Diese lange *Pause* im Gespräch war unangenehm.
+
+  La *pause* cigarette n'est plus autorisée dans les locaux.
+  Die Zigaretten*pause* ist in den Räumlichkeiten nicht mehr erlaubt.
+
+  Faisons une petite *pause*, je suis épuisé.
+  Lass uns eine kleine *Pause* machen, ich bin erschöpft.
+
+  Le match reprendra après une *pause* de quinze minutes.
+  Das Spiel wird nach einer *Pause* von fünfzehn Minuten fortgesetzt.
+
+  Il a fait une *pause* entre chaque mot pour plus d'effet dramatique.
+  Er machte zwischen jedem Wort eine *Pause* für mehr dramatische Wirkung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

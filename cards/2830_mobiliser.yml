@@ -13,17 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il espère mobiliser le peuple.
-  Er hofft, das Volk mobilisieren zu können.
+  Il espère *mobiliser* le peuple.
+  Er hofft, das Volk zu *mobilisieren*.
 
-  Nous devons mobiliser toutes nos forces.
-  Wir müssen alle unsere Kräfte mobilisieren.
+  La France a *mobilisé* cent mille hommes pendant la guerre.
+  Frankreich hat während des Krieges hunderttausend Männer *mobilisiert*.
 
-  Toute la famille était mobilisée pour le déménagement.
-  Die ganze Familie wurde für den Umzug mobil gemacht.
+  Les manifestants se sont *mobilisés* pour défendre leurs droits.
+  Die Demonstranten sind *aktiv geworden*, um ihre Rechte zu verteidigen.
 
-  Les ONG se mobilisent pour la défense des droits de l'homme dans le monde entier.
-  Sich für die Verteidigung der Menschenrechte starkmachen, das tun die Nichtregierungsorganisationen auf der ganzen Welt.
+  Notre équipe *mobilise* toute son énergie pour finir ce projet.
+  Unser Team *setzt* seine ganze Energie für dieses Projekt *frei*.
+
+  Le médecin m'a aidé à *mobiliser* mon genou après l'opération.
+  Der Arzt half mir, mein Knie nach der Operation zu *bewegen*.
+
+  La banque va *mobiliser* des capitaux pour financer ce projet.
+  Die Bank wird Kapital für dieses Projekt *freisetzen*.
+
+  Les syndicats ont réussi à *mobiliser* des milliers de travailleurs.
+  Den Gewerkschaften ist es gelungen, tausende Arbeiter zu *mobilisieren*.
+
+  Cette cause humanitaire a *mobilisé* beaucoup de bénévoles.
+  Diese humanitäre Sache hat viele Freiwillige *aktiviert*.
+
+  Le gouvernement *mobilise* des ressources pour lutter contre la pauvreté.
+  Die Regierung *mobilisiert* Ressourcen für den Kampf gegen die Armut.
+
+  Toute la ville s'est *mobilisée* pour organiser ce festival.
+  Die ganze Stadt ist *aktiv geworden*, um dieses Festival zu organisieren.
+
+  Les pompiers ont été *mobilisés* toute la nuit.
+  Die Feuerwehrleute wurden die ganze Nacht *eingesetzt*.
+
+  Cette crise a *mobilisé* l'attention de tous les médias.
+  Diese Krise hat die Aufmerksamkeit aller Medien *geweckt*.
+
+  L'association *mobilise* ses membres pour une collecte de fonds.
+  Der Verein *aktiviert* seine Mitglieder für eine Spendensammlung.
+
+  Les réservistes seront *mobilisés* en cas d'urgence.
+  Die Reservisten werden im Notfall *einberufen*.
+
+  Cette décision a *mobilisé* contre elle toute l'opposition.
+  Diese Entscheidung hat die gesamte Opposition gegen sich *mobilisiert*.
+
+  Le coach doit *mobiliser* ses joueurs avant le match important.
+  Der Trainer muss seine Spieler vor dem wichtigen Spiel *motivieren*.
+
+  Les scientifiques se sont *mobilisés* contre le changement climatique.
+  Die Wissenschaftler sind gegen den Klimawandel *aktiv geworden*.
+
+  L'entreprise a *mobilisé* tous ses employés pour ce nouveau défi.
+  Das Unternehmen hat alle seine Mitarbeiter für diese neue Herausforderung *mobilisiert*.
+
+  Cette catastrophe naturelle a *mobilisé* des secours du monde entier.
+  Diese Naturkatastrophe hat Rettungskräfte aus der ganzen Welt *mobilisiert*.
+
+  Les parents se sont *mobilisés* pour sauver l'école du quartier.
+  Die Eltern haben sich *eingesetzt*, um die Schule im Viertel zu retten.
+
+  La start-up cherche à *mobiliser* des investisseurs.
+  Das Start-up versucht, Investoren zu *mobilisieren*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

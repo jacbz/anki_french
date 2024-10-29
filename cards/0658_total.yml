@@ -13,38 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ming, c’est l’anarchiste total.
-  Ming ist der totale Anarchist.
+  Ming, c'est l'anarchiste *total*.
+  Ming ist ein *totaler* Anarchist.
 
-  C’est un échec total.
-  Das ist ein totaler Misserfolg.
+  La *totale* confiance entre nous a été brisée.
+  Das *völlige* Vertrauen zwischen uns wurde zerstört.
 
-  Le total de l'addition s'élève à 35,75 euros.
-  Die Gesamtsumme der Rechnung beträgt 35,75 Euro.
+  L'entreprise a subi une destruction *totale* pendant l'incendie.
+  Das Unternehmen wurde während des Brandes *vollständig* zerstört.
 
-  Les charges totales du projet s'élèvent à 1,5 million d'euros.
-  Die Gesamtlast des Projekts beläuft sich auf 1,5 Millionen Euro.
+  Le *total* des dépenses s'élève à mille euros.
+  Die *Gesamt*ausgaben belaufen sich auf tausend Euro.
 
-  Le gouvernement doit faire le total de ses actions pour lutter contre le chômage.
-  Die Regierung muss die Bilanz ihrer Maßnahmen ziehen, um den Kampf gegen die Arbeitslosigkeit zu gewinnen.
+  "*Total*, on n'a pas pu voir le film."
+  "*Schlussendlich* konnten wir den Film nicht sehen."
 
-  Le total des dépenses de l'État a augmenté de 5% cette année.
-  Die Gesamtausgaben des Staates sind in diesem Jahr um 5% gestiegen.
+  La ville était plongée dans une obscurité *totale*.
+  Die Stadt war in *völlige* Dunkelheit getaucht.
 
-  Le total de la population de la ville est estimé à 100 000 habitants.
-  Die Gesamtbevölkerung der Stadt wird auf 100 000 Einwohner geschätzt.
+  Au *total*, cette journée s'est bien passée.
+  *Alles in allem* war dieser Tag gelungen.
 
-  Le total de l'actif de l'entreprise est de 10 millions d'euros.
-  Die Gesamtaktiva des Unternehmens betragen 10 Millionen Euro.
+  Elle a une maîtrise *totale* de la situation.
+  Sie hat die Situation *vollkommen* unter Kontrolle.
 
-  Le total global de l'actif de la société est de 50 millions d'euros.
-  Die Gesamtsumme der Aktiva des Unternehmens beträgt 50 Millionen Euro.
+  Le blocage *total* des routes a duré trois jours.
+  Die *vollständige* Blockade der Straßen dauerte drei Tage.
 
-  Le total global du passif de la société est de 20 millions d'euros.
-  Die Gesamtsumme der Passiva des Unternehmens beträgt 20 Millionen Euro.
+  Le *total* de la population a augmenté de 5% cette année.
+  Die *Gesamt*bevölkerung ist dieses Jahr um 5% gestiegen.
 
-  Le total des capitaux propres de la société est de 30 millions d'euros.
-  Die Gesamtsumme des Eigenkapitals des Unternehmens beträgt 30 Millionen Euro.
+  Nous vivons dans un désespoir *total*.
+  Wir leben in *völliger* Verzweiflung.
+
+  La hauteur *totale* du bâtiment est de 50 mètres.
+  Die *Gesamt*höhe des Gebäudes beträgt 50 Meter.
+
+  Le spectacle *total* combine danse, musique et théâtre.
+  Die *totale* Show verbindet Tanz, Musik und Theater.
+
+  Une éclipse *totale* aura lieu demain matin.
+  Morgen früh wird eine *totale* Sonnenfinsternis stattfinden.
+
+  Les charges *totales* dépassent nos attentes.
+  Die *Gesamt*last übertrifft unsere Erwartungen.
+
+  "C'est la *totale* ! J'ai perdu mes clés et mon portefeuille !"
+  "Das ist der *absolute* Wahnsinn! Ich habe meine Schlüssel und meine Brieftasche verloren!"
+
+  Le *total* de l'addition, s'il vous plaît !
+  Die *Gesamt*summe bitte!
+
+  Sa ruine *totale* était inévitable.
+  Sein *völliger* Ruin war unvermeidlich.
+
+  "*Total*, je ne comprends pas pourquoi il a fait ça."
+  "*Letztendlich* verstehe ich nicht, warum er das getan hat."
+
+  Nous avons calculé la somme *totale* des investissements.
+  Wir haben die *Gesamt*summe der Investitionen berechnet.
+
+  Le *total* des recettes a dépassé nos objectifs.
+  Die *Gesamt*einnahmen haben unsere Ziele übertroffen.
+
+  Cette expérience m'a donné une liberté *totale*.
+  Diese Erfahrung hat mir *völlige* Freiheit gegeben.
+
+  Faites le *total* des points et divisez par deux.
+  Rechnen Sie die *Gesamt*punktzahl zusammen und teilen Sie sie durch zwei.
+
+  Au *total*, nous étions vingt personnes à la fête.
+  *Insgesamt* waren wir zwanzig Personen auf der Party.
+
+  La *totale* disparition des abeilles serait catastrophique.
+  Das *vollständige* Verschwinden der Bienen wäre katastrophal.
+
+  Le *total* des capitaux s'élève à trois millions.
+  Das *Gesamt*kapital beläuft sich auf drei Millionen.
+
+  Elle a une *totale* incompréhension de la situation.
+  Sie zeigt ein *völliges* Unverständnis der Situation.
+
+  Le système a subi un effondrement *total*.
+  Das System ist *vollständig* zusammengebrochen.
+
+  "*Total*, on ferait mieux de rentrer maintenant."
+  "*Alles in allem* sollten wir jetzt besser nach Hause gehen."
+
+  Les dégâts *totaux* sont estimés à plusieurs millions.
+  Die *Gesamt*schäden werden auf mehrere Millionen geschätzt.
+
+  Le *total* global de l'actif est impressionnant.
+  Die *Gesamt*summe der Aktiva ist beeindruckend.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

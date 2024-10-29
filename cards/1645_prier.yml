@@ -9,30 +9,135 @@ Femininum / Plural: ''
 IPA: \pʁi.je\
 Definition: beten
 Register: ↘Sachtext
-Beispielsätze: "Je vais prier pour que Dieu vous bénisse.\nIch werde beten, dass Gott\
-  \ Sie segnet.\n\nJe prie tous les soirs.\nIch bete jeden Abend.\n\nLes fidèles prient\
-  \ Dieu à l'église tous les dimanches.\nDie Gläubigen beten jeden Sonntag in der\
-  \ Kirche zu Gott.\n\nAvant un examen important, beaucoup d'étudiants prient les\
-  \ saints pour réussir.\nVor einer wichtigen Prüfung beten viele Studenten zu den\
-  \ Heiligen, um erfolgreich zu sein.\n\nMes parents prient pour moi chaque soir avant\
-  \ de dormir.\nMeine Eltern beten jeden Abend vor dem Schlafengehen für mich.\n\n\
-  Le fermier prie pour une récolte abondante chaque année.\nDer Bauer betet jedes\
-  \ Jahr für eine reiche Ernte.\n\nJe vous prie d'agréer mes sincères salutations.\n\
-  Mit freundlichen Grüßen\n\nJe vous prie de m'excuser pour ce retard, j'ai eu un\
-  \ problème de transport. \nEntschuldigen Sie bitte die Verspätung, ich hatte ein\
-  \ Problem mit den Verkehrsmitteln.\n\nJe te prie ! Laisse-moi tranquille avec tes\
-  \ questions indiscrètes.\nWenn ich bitten darf! Lass mich mit deinen indiskreten\
-  \ Fragen in Ruhe.\n\nLe directeur a prié ses employés de bien vouloir arriver à\
-  \ l'heure.\nDer Direktor hat seine Angestellten gebeten, pünktlich zu erscheinen.\n\
-  \nAdopte un autre ton, je te prie! Le respect est essentiel.\nGewöhne dir gefälligst\
-  \ einen anderen Ton an! Respekt ist unerlässlich.\n\nJe prie Dieu que mon fils retrouve\
-  \ rapidement la santé.\nIch bete zu Gott, dass mein Sohn schnell wieder gesund wird.\n\
-  \nLe majordome a ouvert la porte et a prié les invités de bien vouloir entrer.\n\
-  Der Butler öffnete die Tür und bat die Gäste herein.\n\nJ'ai prié le livreur de\
-  \ bien vouloir monter les courses au troisième étage.\nIch habe den Lieferanten\
-  \ gebeten, die Einkäufe in den dritten Stock zu bringen.\n\nIl ne faut pas se faire\
-  \ prier pour aider ses amis, n'est-ce pas ?\nMan sollte sich nicht bitten lassen,\
-  \ seinen Freunden zu helfen, oder?"
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Je vais *prier* pour que Dieu vous bénisse.
+  Ich werde *beten*, dass Gott Sie segnet.
+
+  Chaque dimanche, elle *prie* avec ferveur à l'église.
+  Jeden Sonntag *betet* sie inbrünstig in der Kirche.
+
+  Les fidèles *prient* pour la paix dans le monde.
+  Die Gläubigen *beten* für den Frieden in der Welt.
+
+  Je *prie* le ciel que mes enfants soient en sécurité.
+  Ich *bete* zum Himmel, dass meine Kinder in Sicherheit sind.
+
+  Elle *prie* tous les soirs avant de dormir.
+  Sie *betet* jeden Abend vor dem Einschlafen.
+
+  La grand-mère *priait* toujours les saints pour sa famille.
+  Die Großmutter *betete* immer zu den Heiligen für ihre Familie.
+
+  Je vous *prie* de bien vouloir entrer dans mon bureau.
+  Ich *bitte* Sie, in mein Büro zu kommen.
+
+  Il m'a *prié* de l'accompagner à la gare.
+  Er hat mich *gebeten*, ihn zum Bahnhof zu begleiten.
+
+  Marie s'est fait *prier* pour chanter devant tout le monde.
+  Marie ließ sich lange *bitten*, vor allen zu singen.
+
+  Sans se faire *prier*, il a accepté notre invitation.
+  Ohne sich *bitten* zu lassen, nahm er unsere Einladung an.
+
+  Je vous *prie* de bien vouloir m'excuser pour mon retard.
+  Ich *bitte* Sie, meine Verspätung zu entschuldigen.
+
+  Les invités sont *priés* de se présenter à l'accueil.
+  Die Gäste werden *gebeten*, sich am Empfang zu melden.
+
+  "*Je vous en prie*, entrez !" dit-elle poliment.
+  "*Bitte sehr*, kommen Sie herein!" sagte sie höflich.
+
+  "*Je t'en prie*, ce n'est vraiment pas grave", répondit-il après mes excuses.
+  "*Macht doch nichts*", antwortete er nach meiner Entschuldigung.
+
+  Elle ne s'est pas fait *prier* pour accepter le poste.
+  Sie ließ sich nicht lange *bitten*, die Stelle anzunehmen.
+
+  Je *prie* pour que la situation s'améliore bientôt.
+  Ich *bete*, dass sich die Situation bald verbessert.
+
+  Les parents *prient* pour la guérison de leur enfant.
+  Die Eltern *beten* für die Genesung ihres Kindes.
+
+  "*Je vous prie* de croire que je dis la vérité !"
+  "Ich *bitte* Sie zu glauben, dass ich die Wahrheit sage!"
+
+  Je vous *prie* d'agréer mes sincères salutations.
+  Mit freundlichen Grüßen.
+
+  Les passagers sont *priés* d'attacher leur ceinture.
+  Die Passagiere werden *gebeten*, sich anzuschnallen.
+
+  Il *prie* avec ferveur depuis sa plus tendre enfance.
+  Er *betet* inbrünstig seit seiner frühen Kindheit.
+
+  "*Je t'en prie*, arrête de faire tant d'histoires !"
+  "*Bitte*, hör auf, so einen Aufstand zu machen!"
+
+  Les visiteurs sont *priés* de respecter le silence.
+  Die Besucher werden *gebeten*, Ruhe zu bewahren.
+
+  Je *prierai* pour votre réussite.
+  Ich werde für Ihren Erfolg *beten*.
+
+  Elle s'est fait *prier* pendant des heures avant d'accepter.
+  Sie ließ sich stundenlang *bitten*, bevor sie zustimmte.
+
+  "*Je vous en prie*", dit-elle après mes remerciements.
+  "*Gern geschehen*", sagte sie nach meinem Dank.
+
+  Les enfants *prient* pour avoir de la neige à Noël.
+  Die Kinder *beten* für Schnee an Weihnachten.
+
+  Je vous *prie* de ne pas fumer ici.
+  Ich *bitte* Sie, hier nicht zu rauchen.
+
+  "*Je te prie* de parler plus doucement !"
+  "Ich *bitte* dich, leiser zu sprechen!"
+
+  Nous *prions* pour un avenir meilleur.
+  Wir *beten* für eine bessere Zukunft.
+
+  Les participants sont *priés* de s'inscrire à l'avance.
+  Die Teilnehmer werden *gebeten*, sich im Voraus anzumelden.
+
+  "*Je vous en prie*, après vous", dit-il en tenant la porte.
+  "*Bitte sehr*, nach Ihnen", sagte er, während er die Tür aufhielt.
+
+  Il *prie* chaque jour pour la santé de ses proches.
+  Er *betet* jeden Tag für die Gesundheit seiner Angehörigen.
+
+  Je vous *prie* de bien vouloir patienter un instant.
+  Ich *bitte* Sie, einen Moment zu warten.
+
+  Les spectateurs sont *priés* d'éteindre leurs téléphones.
+  Die Zuschauer werden *gebeten*, ihre Handys auszuschalten.
+
+  "*Je t'en prie*, ne fais pas ça !" supplia-t-elle.
+  "*Bitte*, tu das nicht!" flehte sie.
+
+  Elle *prie* pour retrouver son chat perdu.
+  Sie *betet* dafür, ihre vermisste Katze wiederzufinden.
+
+  Je vous *prie* de transmettre mes amitiés à votre famille.
+  Ich *bitte* Sie, Ihrer Familie meine Grüße zu übermitteln.
+
+  Les clients sont *priés* de payer à la caisse.
+  Die Kunden werden *gebeten*, an der Kasse zu bezahlen.
+
+  "*Je vous en prie*, prenez votre temps", dit le serveur.
+  "*Bitte sehr*, lassen Sie sich Zeit", sagte der Kellner.
+
+  Nous *prions* pour la paix dans le monde entier.
+  Wir *beten* für den Frieden in der ganzen Welt.
+
+  Les conducteurs sont *priés* de respecter la limitation de vitesse.
+  Die Fahrer werden *gebeten*, die Geschwindigkeitsbegrenzung einzuhalten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

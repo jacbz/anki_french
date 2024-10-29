@@ -13,26 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Oh! Ce que vous pouvez être susceptible mon ami.
-  Oh, wie empfindlich Sie sein können, mein Freund.
+  "Oh ! Ce que vous pouvez être *susceptible* mon ami."
+  "Ach! Was können Sie nur so *überempfindlich* sein, mein Freund."
 
-  Il est très susceptible.
-  Er ist sehr empfindlich.
+  Elle est très *susceptible* quand on parle de son âge.
+  Sie ist sehr *empfindlich*, wenn man über ihr Alter spricht.
 
-  Ce projet est susceptible de faire évoluer le secteur de la santé.
-  Dieses Projekt ist geeignet, den Gesundheitssektor zu revolutionieren.
+  Le vaccin est *susceptible* de provoquer quelques effets secondaires mineurs.
+  Der Impfstoff kann möglicherweise leichte Nebenwirkungen *hervorrufen*.
 
-  Ce candidat est susceptible de gagner la course.
-  Dieser Kandidat ist medaillenverdächtig.
+  Cette nouvelle technologie est *susceptible* de révolutionner l'industrie automobile.
+  Diese neue Technologie ist durchaus *geeignet*, die Automobilindustrie zu revolutionieren.
 
-  Ce système est susceptible d'amélioration.
-  Dieses System ist verbesserungsfähig.
+  "Ne critique pas son travail, tu sais qu'il est *susceptible*."
+  "Kritisiere nicht seine Arbeit, du weißt doch, wie *dünnhäutig* er ist."
 
-  Cette décision est susceptible d'être pourvue en cassation.
-  Diese Entscheidung ist reversibel.
+  Le projet est *susceptible* d'être modifié selon vos besoins.
+  Das Projekt ist *verbesserungsfähig* entsprechend Ihren Bedürfnissen.
 
-  Ces bijoux sont susceptibles de faire l'objet d'un prêt sur titres.
-  Dieser Schmuck ist lombardfähig.
+  Son comportement est *susceptible* de créer des tensions dans l'équipe.
+  Sein Verhalten könnte möglicherweise Spannungen im Team *erzeugen*.
+
+  Cette méthode est *susceptible* d'améliorer vos résultats scolaires.
+  Diese Methode ist *imstande*, Ihre schulischen Leistungen zu verbessern.
+
+  Les jeunes talents sont *susceptibles* de progresser rapidement.
+  Die jungen Talente sind *fähig*, schnelle Fortschritte zu machen.
+
+  Ce roman est *susceptible* de différentes interprétations.
+  Dieser Roman lässt verschiedene Interpretationen *zu*.
+
+  La situation est *susceptible* d'évoluer dans les prochains jours.
+  Die Situation könnte sich in den nächsten Tagen *verändern*.
+
+  "Ma sœur est tellement *susceptible* qu'on ne peut plus rien lui dire."
+  "Meine Schwester ist so *empfindlich*, dass man ihr gar nichts mehr sagen kann."
+
+  Ces mesures sont *susceptibles* d'affecter l'économie locale.
+  Diese Maßnahmen könnten die lokale Wirtschaft *beeinflussen*.
+
+  Le candidat est *susceptible* de remporter les élections.
+  Der Kandidat ist durchaus *in der Lage*, die Wahlen zu gewinnen.
+
+  Cette maladie est *susceptible* de toucher les personnes âgées.
+  Diese Krankheit kann ältere Menschen *befallen*.
+
+  Notre équipe est *susceptible* de gagner le championnat cette année.
+  Unser Team ist *fähig*, die Meisterschaft dieses Jahr zu gewinnen.
+
+  Le temps est *susceptible* de changer brusquement en montagne.
+  Das Wetter kann sich in den Bergen plötzlich *ändern*.
+
+  Cette offre est *susceptible* de vous intéresser.
+  Dieses Angebot könnte für Sie von *Interesse* sein.
+
+  "Ne sois pas si *susceptible*, c'était juste une blague !"
+  "Sei nicht so *überempfindlich*, das war nur ein Scherz!"
+
+  Les prix sont *susceptibles* d'augmenter dans les mois à venir.
+  Die Preise könnten in den kommenden Monaten *steigen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

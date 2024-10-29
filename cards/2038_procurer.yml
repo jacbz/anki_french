@@ -13,17 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ignore comment vous vous êtes procuré cette carte.
-  Ich weiß nicht, wie Sie an diese Karte gekommen sind.
+  J'ignore comment vous vous êtes *procuré* cette carte.
+  Ich weiß nicht, wie Sie sich diese Karte *beschafft* haben.
 
-  Je vais me procurer un livre.
-  Ich werde mir ein Buch besorgen.
+  Elle m'a *procuré* un excellent poste dans son entreprise.
+  Sie hat mir eine ausgezeichnete Stelle in ihrer Firma *verschafft*.
 
-  Son père a essayé de lui procurer un travail dans sa propre entreprise.
-  Sein Vater hat versucht, ihm einen Job in seinem eigenen Unternehmen zu verschaffen.
+  Cette nouvelle activité nous *procure* beaucoup de satisfaction.
+  Diese neue Tätigkeit *bereitet* uns viel Freude.
 
-  La famille s'est réunie pour se procurer de l'argent pour les vacances.
-  Die Familie hat sich zusammengetan, um sich Geld für die Ferien zu beschaffen.
+  Comment puis-je me *procurer* un visa pour ce pays ?
+  Wie kann ich mir ein Visum für dieses Land *beschaffen*?
+
+  Mon oncle m'a *procuré* des billets pour le concert.
+  Mein Onkel hat mir Karten für das Konzert *besorgt*.
+
+  Les exercices réguliers *procurent* de nombreux bienfaits pour la santé.
+  Regelmäßige Übungen *bringen* viele gesundheitliche Vorteile.
+
+  Il faut se *procurer* les documents nécessaires avant lundi.
+  Man muss sich die erforderlichen Dokumente vor Montag *besorgen*.
+
+  Cette rencontre lui a *procuré* beaucoup d'ennuis.
+  Diese Begegnung hat ihr viele Schwierigkeiten *eingebracht*.
+
+  Le libraire pourra vous *procurer* ce livre rare.
+  Der Buchhändler kann Ihnen dieses seltene Buch *beschaffen*.
+
+  Je me suis *procuré* ces informations par mes propres moyens.
+  Ich habe mir diese Informationen aus eigener Kraft *verschafft*.
+
+  Cette méthode nous *procure* d'excellents résultats.
+  Diese Methode *bringt* uns ausgezeichnete Ergebnisse.
+
+  Marie s'est *procuré* un nouveau téléphone à prix réduit.
+  Marie hat sich ein neues Handy zum reduzierten Preis *besorgt*.
+
+  Son ami lui a *procuré* un logement temporaire.
+  Sein Freund hat ihm eine vorübergehende Unterkunft *verschafft*.
+
+  Cette victoire nous *procure* une grande joie.
+  Dieser Sieg *bereitet* uns große Freude.
+
+  Je dois me *procurer* les ingrédients pour la recette.
+  Ich muss mir die Zutaten für das Rezept *beschaffen*.
+
+  L'association *procure* de l'aide aux personnes démunies.
+  Der Verein *verschafft* bedürftigen Menschen Hilfe.
+
+  Ce nouveau système nous *procure* plus d'efficacité.
+  Dieses neue System *verschafft* uns mehr Effizienz.
+
+  Elle s'est *procuré* un exemplaire rare de ce vinyle.
+  Sie hat sich eine seltene Ausgabe dieser Schallplatte *beschafft*.
+
+  Son intervention m'a *procuré* un grand soulagement.
+  Sein Eingreifen hat mir große Erleichterung *verschafft*.
+
+  Le sport *procure* un bien-être physique et mental.
+  Sport *verschafft* körperliches und geistiges Wohlbefinden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

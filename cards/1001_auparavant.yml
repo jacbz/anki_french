@@ -13,17 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je n’ai jamais vu cela auparavant.
-  Ich habe das noch nie zuvor gesehen.
+  Je n'ai jamais vu cela *auparavant*.
+  Ich habe das noch nie *zuvor* gesehen.
 
-  Nous avons mangé auparavant.
-  Wir haben vorher gegessen.
+  Une semaine *auparavant*, elle m'avait annoncé son départ.
+  Eine Woche *zuvor* hatte sie mir ihre Abreise angekündigt.
 
-  Il est arrivé une heure auparavant.
-  Er ist eine Stunde vorher angekommen.
+  Si vous voulez une réponse, envoyez-moi *auparavant* votre demande par écrit.
+  Wenn Sie eine Antwort möchten, schicken Sie mir *vorher* Ihre Anfrage schriftlich.
 
-  Elle a déménagé un mois auparavant.
-  Sie ist einen Monat vorher umgezogen.
+  Je te raconterai tout, mais assieds-toi *auparavant*.
+  Ich werde dir alles erzählen, aber setz dich *vorher* hin.
+
+  La ville était bien différente dix ans *auparavant*.
+  Die Stadt war zehn Jahre *zuvor* ganz anders.
+
+  Il faut réserver *auparavant* pour avoir une table dans ce restaurant.
+  Man muss *vorher* reservieren, um in diesem Restaurant einen Tisch zu bekommen.
+
+  Comme *auparavant*, nous irons à la plage dimanche.
+  Wie *zuvor* werden wir am Sonntag an den Strand gehen.
+
+  Trois heures *auparavant*, nous étions encore au bureau.
+  Drei Stunden *vorher* waren wir noch im Büro.
+
+  Les billets coûtent plus cher qu'*auparavant*.
+  Die Tickets kosten mehr als *zuvor*.
+
+  Il faut nettoyer la surface *auparavant*.
+  Man muss die Oberfläche *vorher* reinigen.
+
+  J'aurais dû y penser *auparavant*.
+  Ich hätte *vorher* daran denken sollen.
+
+  Elle est arrivée deux minutes *auparavant*.
+  Sie ist zwei Minuten *zuvor* angekommen.
+
+  Longtemps *auparavant*, il m'avait prévenu de ce risque.
+  Lange *zuvor* hatte er mich vor diesem Risiko gewarnt.
+
+  Comme *auparavant*, nous prendrons le petit-déjeuner ensemble.
+  Wie *zuvor* werden wir zusammen frühstücken.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

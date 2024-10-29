@@ -13,20 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mon fils aîné a onze ans.
-  Mein ältester Sohn ist elf Jahre alt.
+  Mon fils *aîné* a onze ans.
+  Mein *ältester* Sohn ist elf Jahre alt.
 
-  Mon frère aîné est médecin.
-  Mein älterer Bruder ist Arzt.
+  Sa fille *aînée* étudie la médecine à Paris.
+  Ihre *älteste* Tochter studiert Medizin in Paris.
 
-  Elle est mon aînée de trois ans.
-  Sie ist drei Jahre älter als ich.
+  Il est mon *aîné* de trois ans.
+  Er ist drei Jahre *älter* als ich.
 
-  Son aîné est un homme charmant.
-  Sein Ältester ist ein charmanter Mann.
+  C'est une résidence pour *aînés* avec un beau jardin.
+  Es ist ein Seniorenheim mit einem schönen Garten für *Senioren*.
 
-  Il est mon aîné, mais il est parfois plus naïf que moi.
-  Er ist der Ältere von uns beiden, aber er ist manchmal naiver als ich.
+  Marie est l'*aînée* de quatre enfants.
+  Marie ist die *Älteste* von vier Kindern.
+
+  "Mon frère *aîné* m'a toujours protégé quand j'étais petit."
+  "Mein *älterer* Bruder hat mich immer beschützt, als ich klein war."
+
+  Les traditions transmises par nos *aînés* sont importantes.
+  Die von unseren *Vorfahren* überlieferten Traditionen sind wichtig.
+
+  Ma sœur *aînée* va se marier le mois prochain.
+  Meine *ältere* Schwester wird nächsten Monat heiraten.
+
+  L'*aîné* des garçons aide souvent à la ferme.
+  Der *älteste* der Jungen hilft oft auf dem Bauernhof.
+
+  Elle est l'*aînée*, donc elle aura la responsabilité de l'entreprise familiale.
+  Sie ist die *Älteste*, also wird sie die Verantwortung für das Familienunternehmen übernehmen.
+
+  Les *aînés* du village se réunissent chaque dimanche.
+  Die *älteren Leute* des Dorfes treffen sich jeden Sonntag.
+
+  Je suis votre *aîné* dans ce métier de dix ans.
+  Ich bin in diesem Beruf zehn Jahre *dienstälter* als Sie.
+
+  Les deux frères *aînés* travaillent ensemble dans le garage.
+  Die beiden *älteren* Brüder arbeiten zusammen in der Werkstatt.
+
+  L'*aînée* des filles ressemble beaucoup à sa mère.
+  Die *älteste* der Töchter ähnelt ihrer Mutter sehr.
+
+  Ces jeunes soldats respectent l'expérience de leurs *aînés*.
+  Diese jungen Soldaten respektieren die Erfahrung ihrer *Vorgänger*.
+
+  Thomas est mon *aîné*, je suis le benjamin de la famille.
+  Thomas ist der *Ältere* von uns, ich bin das Nesthäkchen der Familie.
+
+  La sœur *aînée* s'occupe souvent des plus petits.
+  Die *ältere* Schwester kümmert sich oft um die Kleinen.
+
+  Leur fils *aîné* vient d'avoir son baccalauréat.
+  Ihr *ältester* Sohn hat gerade sein Abitur gemacht.
+
+  Les *aînés* ont besoin d'aide pour faire leurs courses.
+  Die *älteren Menschen* brauchen Hilfe beim Einkaufen.
+
+  Elle est mon *aînée* de cinq ans au moins.
+  Sie ist mindestens fünf Jahre *älter* als ich.
+
+  L'*aînée* de la famille a toujours été très responsable.
+  Die *Älteste* der Familie war schon immer sehr verantwortungsvoll.
+
+  Les activités sont adaptées aux besoins des *aînés*.
+  Die Aktivitäten sind an die Bedürfnisse der *Senioren* angepasst.
+
+  Pierre est l'*aîné*, Paul est le cadet.
+  Pierre ist der *Ältere*, Paul ist der Jüngere.
+
+  La fille *aînée* aide sa mère à la maison.
+  Die *älteste* Tochter hilft ihrer Mutter im Haushalt.
+
+  Mon frère *aîné* m'a appris à faire du vélo.
+  Mein *älterer* Bruder hat mir das Fahrradfahren beigebracht.
+
+  Nous devons écouter la sagesse de nos *aînés*.
+  Wir müssen auf die Weisheit unserer *Älteren* hören.
+
+  Elle est l'*aînée* et sera donc la première à hériter.
+  Sie ist die *Älteste* und wird daher als Erste erben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

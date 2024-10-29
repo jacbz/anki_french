@@ -13,32 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cela ne signifiait rien pour moi.
-  Das bedeutete mir nichts.
+  Cela ne *signifiait* rien pour moi.
+  Das hat für mich nichts *bedeutet*.
 
-  Que veut dire ce mot?
-  Was bedeutet dieses Wort?
+  Qu'est-ce que *signifie* ce mot en français ?
+  Was *bedeutet* dieses Wort auf Französisch?
 
-  Qu'est-ce que cela signifie ?
-  Was hat das zu bedeuten?
+  Le mot « bed » *signifie* « lit » en français.
+  Das Wort "bed" *bedeutet* "Bett" auf Französisch.
 
-  Qu'est-ce que ça signifie ?
-  Was soll denn das?
+  Il m'a clairement *signifié* ses intentions.
+  Er hat mir seine Absichten deutlich zu *verstehen* gegeben.
 
-  Le geste de Pierre signifiait une intention claire à Marie : il voulait lui proposer de l'épouser.
-  Pierre hat Marie mit seinen Gesten eine klare Absicht zu verstehen gegeben: Er wollte ihr einen Heiratsantrag machen.
+  Le vent d'est *signifie* qu'il fera beau demain.
+  Der Ostwind *bedeutet*, dass es morgen schön wird.
 
-  La lettre signifiait une assignation à Paul, qui devait se présenter au tribunal.
-  Der Brief enthielt eine Ladung für Paul, der sich vor Gericht verantworten musste.
+  Je ne comprends pas ce que *signifie* son comportement.
+  Ich verstehe nicht, was sein Verhalten zu *bedeuten* hat.
 
-  Le directeur a signifié son congé à Marie, car l'entreprise était en difficulté.
-  Der Direktor hat Marie gekündigt, weil das Unternehmen in Schwierigkeiten war.
+  Elle lui a *signifié* son refus par écrit.
+  Sie hat ihm ihre Ablehnung schriftlich *mitgeteilt*.
 
-  La cour a signifié une décision à l'accusé, qui le condamnait à une peine de prison.
-  Das Gericht hat dem Angeklagten eine Entscheidung zugestellt, die ihn zu einer Gefängnisstrafe verurteilte.
+  Son regard *signifiait* qu'il était d'accord.
+  Sein Blick *bedeutete*, dass er einverstanden war.
 
-  Le procureur a signifié l'inculpation à l'homme, accusé de vol à main armée.
-  Der Staatsanwalt hat den Mann von der Anklage in Kenntnis gesetzt, der wegen bewaffneten Raubüberfalls angeklagt wurde.
+  Je vais lui *signifier* mon mécontentement.
+  Ich werde ihm mein Missfallen *zeigen*.
+
+  La fumée *signifie* qu'il y a un incendie.
+  Der Rauch *bedeutet*, dass es ein Feuer gibt.
+
+  Le suffixe « -phile » *signifie* « qui aime ».
+  Die Endung "-phil" *bedeutet* "der/die/das ... liebt".
+
+  Elle m'a *signifié* de partir immédiatement.
+  Sie hat mir *bedeutet*, sofort zu gehen.
+
+  Son absence *signifie* qu'il est malade.
+  Seine Abwesenheit *bedeutet*, dass er krank ist.
+
+  Je lui ai *signifié* son congé hier.
+  Ich habe ihm gestern *gekündigt*.
+
+  Cette promotion *signifie* plus de responsabilités.
+  Diese Beförderung *bedeutet* mehr Verantwortung.
+
+  "Que *signifie* cet accoutrement ?" demanda la mère.
+  "Was soll diese Aufmachung *bedeuten*?" fragte die Mutter.
+
+  Le symbole ∞ *signifie* l'infini en mathématiques.
+  Das Symbol ∞ *bedeutet* unendlich in der Mathematik.
+
+  Son silence ne *signifiait* pas grand-chose.
+  Sein Schweigen hatte nicht viel zu *bedeuten*.
+
+  Il a fait une grimace pour *signifier* son désaccord.
+  Er hat eine Grimasse geschnitten, um sein Missfallen zu *zeigen*.
+
+  Nouveauté ne *signifie* pas toujours progrès.
+  Neu *bedeutet* nicht immer besser.
+
+  Je dois lui *signifier* ma décision avant demain.
+  Ich muss ihm meine Entscheidung bis morgen *mitteilen*.
+
+  L'adjectif « pulcher » *signifie* « beau ».
+  Das Adjektiv "pulcher" *bedeutet* "schön".
+
+  Que peut bien *signifier* ce changement soudain ?
+  Was mag diese plötzliche Veränderung wohl *bedeuten*?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

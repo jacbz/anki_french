@@ -13,50 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On retrouve le mec à la gare.
-  Wir treffen den Mann am Bahnhof.
+  On retrouve le mec à la *gare*.
+  Wir treffen den Typen am *Bahnhof*.
 
-  Je vais à la gare prendre le train.
-  Ich gehe zum Bahnhof, um den Zug zu nehmen.
+  Le train entre en *gare* dans cinq minutes.
+  Der Zug fährt in fünf Minuten in den *Bahnhof* ein.
 
-  Où se trouve la gare ?
-  Wo befindet sich der Bahnhof?
+  La *gare* centrale de Berlin est immense.
+  Der Berliner Haupt*bahnhof* ist riesig.
 
-  Leur maison est loin de la gare.
-  Ihr Haus liegt weit vom Bahnhof entfernt.
+  "*Gare* à toi si tu arrives encore en retard !"
+  "*Pass bloß auf*, wenn du noch mal zu spät kommst!"
 
-  Je pris un taxi pour la gare.
-  Ich nahm ein Taxi zum Bahnhof.
+  Les enfants attendent leur grand-mère sur les quais de la *gare*.
+  Die Kinder warten auf ihre Großmutter auf den *Bahnhofs*gleisen.
 
-  Nous sommes arrivés à la gare centrale, où nous avons pris le train pour Lyon.
-  Wir sind am Hauptbahnhof angekommen, wo wir den Zug nach Lyon genommen haben.
+  La nouvelle *gare* routière sera construite près du centre-ville.
+  Der neue *Bus*bahnhof wird in der Nähe des Stadtzentrums gebaut.
 
-  Le train est arrivé sans crier gare, ce qui nous a surpris.
-  Der Zug kam ohne Vorwarnung, was uns überrascht hat.
+  "*Gare* à la marche en descendant du train !"
+  "*Vorsicht* beim Aussteigen aus dem Zug!"
 
-  Gare à toi! La voiture arrive à toute vitesse!
-  Pass bloß auf! Das Auto kommt mit Vollgas!
+  Le chef de *gare* a donné le signal de départ.
+  Der *Bahnhofs*vorsteher hat das Abfahrtssignal gegeben.
 
-  La gare frontalière était bondée de touristes.
-  Der Grenzübergang war voller Touristen.
+  Cette *gare* frontière relie la France et l'Allemagne.
+  Dieser Grenz*bahnhof* verbindet Frankreich und Deutschland.
 
-  Le bateau a accosté à son gare fluviale.
-  Das Boot hat an seinem Liegeplatz angelegt.
+  Il est parti sans crier *gare*.
+  Er ist ohne Vorwarnung verschwunden.
 
-  Le train est entré en gare avec un grand bruit.
-  Der Zug fuhr mit großem Lärm ein.
+  La *gare* maritime accueille des milliers de passagers chaque jour.
+  Der *Hafen*terminal empfängt täglich tausende Passagiere.
 
-  Le train est enfin en gare, après un voyage fatigant.
-  Der Zug ist endlich eingefahren, nach einer anstrengenden Reise.
+  "*Gare* aux pickpockets dans le hall !"
+  "*Achtung* vor Taschendieben in der Halle!"
 
-  Gare à ta tête! Les branches de cet arbre sont basses.
-  Pass auf deinen Kopf auf! Die Äste dieses Baums hängen tief.
+  Les deux bateaux se sont croisés dans la *gare* fluviale.
+  Die beiden Boote kreuzten sich am *Liegeplatz*.
 
-  Gare aux conséquences! Tu as fait une grave erreur.
-  Du wirst schon sehen! Du hast einen großen Fehler gemacht.
+  J'achète toujours mes magazines à la *gare*.
+  Ich kaufe meine Zeitschriften immer am *Bahnhof*.
 
-  Gare à tes fesses! La chaise est instable.
-  Vorsicht, sonst setzt's was! Der Stuhl ist instabil.
+  La *gare* de fret traite des centaines de colis par jour.
+  Der Fracht*terminal* bearbeitet hunderte Pakete pro Tag.
+
+  "*Gare* aux conséquences si tu ne fais pas tes devoirs !"
+  "Du wirst schon sehen, was passiert, wenn du deine Hausaufgaben nicht machst!"
+
+  Le buffet de la *gare* est ouvert 24 heures sur 24.
+  Die *Bahnhofs*gaststätte hat rund um die Uhr geöffnet.
+
+  La *gare* Saint-Lazare est l'une des plus fréquentées de Paris.
+  Der *Bahnhof* Saint-Lazare ist einer der meistbesuchten in Paris.
+
+  Les trains de marchandises passent par la *gare* de triage.
+  Die Güterzüge fahren durch den Rangier*bahnhof*.
+
+  "*Gare* à ta tête, le plafond est bas !"
+  "*Pass auf* deinen Kopf auf, die Decke ist niedrig!"
+
+  La petite *gare* de campagne a été rénovée.
+  Der kleine Land*bahnhof* wurde renoviert.
+
+  Les horloges de la *gare* sont toutes synchronisées.
+  Die *Bahnhofs*uhren sind alle synchronisiert.
+
+  La *gare* routière accueille les bus internationaux.
+  Der *Bus*bahnhof empfängt die internationalen Busse.
+
+  Elle attend son ami dans la salle d'attente de la *gare*.
+  Sie wartet in der *Bahnhofs*wartehalle auf ihren Freund.
+
+  "*Gare* au chien !" criait le propriétaire.
+  "*Vorsicht* vor dem Hund!" rief der Besitzer.
+
+  La nouvelle *gare* sera inaugurée le mois prochain.
+  Der neue *Bahnhof* wird nächsten Monat eingeweiht.
+
+  Les taxis attendent devant la *gare*.
+  Die Taxis warten vor dem *Bahnhof*.
+
+  Une ancienne *gare* a été transformée en musée.
+  Ein alter *Bahnhof* wurde in ein Museum umgewandelt.
+
+  La *gare* d'évitement permet aux trains de se croiser.
+  Der Ausweich*bahnhof* ermöglicht es den Zügen, sich zu kreuzen.
+
+  Les guichets de la *gare* ferment à 22 heures.
+  Die *Bahnhofs*schalter schließen um 22 Uhr.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

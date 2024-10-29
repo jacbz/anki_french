@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le travailleur désire une élévation de salaire monétaire.
-  Der Arbeitnehmer wünscht sich eine monetäre Lohnerhöhung.
+  Le travailleur désire une élévation de salaire *monétaire*.
+  Der Arbeiter wünscht sich eine *Geld*lohnerhöhung.
 
-  La politique monétaire de la BCE.
-  Die Geldpolitik der EZB.
+  La banque centrale contrôle la masse *monétaire* pour lutter contre l'inflation.
+  Die Zentralbank kontrolliert die *Geld*menge, um die Inflation zu bekämpfen.
+
+  L'euro est l'unité *monétaire* de la plupart des pays européens.
+  Der Euro ist die *Währungs*einheit der meisten europäischen Länder.
+
+  Le système *monétaire* international a beaucoup changé depuis les années 70.
+  Das internationale *Währungs*system hat sich seit den 70er Jahren stark verändert.
+
+  La stabilité *monétaire* est importante pour l'économie d'un pays.
+  Die *Geld*stabilität ist wichtig für die Wirtschaft eines Landes.
+
+  La politique *monétaire* restrictive freine la croissance économique.
+  Die restriktive *Geld*politik bremst das Wirtschaftswachstum.
+
+  Le marché *monétaire* est très sensible aux changements politiques.
+  Der *Geld*markt reagiert sehr empfindlich auf politische Veränderungen.
+
+  Une crise *monétaire* peut affecter plusieurs pays en même temps.
+  Eine *Währungs*krise kann mehrere Länder gleichzeitig betreffen.
+
+  La zone *monétaire* européenne comprend 20 pays.
+  Die europäische *Währungs*zone umfasst 20 Länder.
+
+  Les réserves *monétaires* du pays ont diminué cette année.
+  Die *Währungs*reserven des Landes sind dieses Jahr gesunken.
+
+  L'union *monétaire* facilite les échanges commerciaux.
+  Die *Währungs*union erleichtert den Handelsaustausch.
+
+  La circulation *monétaire* augmente pendant les fêtes.
+  Der *Geld*umlauf steigt während der Feiertage.
+
+  Le stock *monétaire* doit être contrôlé régulièrement.
+  Der *Währungs*bestand muss regelmäßig kontrolliert werden.
+
+  Les autorités *monétaires* ont décidé de baisser les taux d'intérêt.
+  Die *Währungs*behörden haben beschlossen, die Zinssätze zu senken.
+
+  La dépréciation *monétaire* inquiète les investisseurs.
+  Die *Währungs*abwertung beunruhigt die Investoren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

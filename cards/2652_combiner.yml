@@ -13,23 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous avez réussi à combiner écologie et rentabilité.
-  Sie haben es geschafft, Ökologie und Wirtschaftlichkeit miteinander zu verbinden.
+  Vous avez réussi à *combiner* écologie et rentabilité.
+  Sie haben es geschafft, Ökologie und Rentabilität zu *verbinden*.
 
-  Je vais combiner les deux idées.
-  Ich werde die beiden Ideen verbinden.
+  Elle *combine* parfaitement le rose et le violet dans ses créations.
+  Sie *kombiniert* in ihren Kreationen perfekt Rosa und Violett.
 
-  On peut combiner le rouge et le bleu pour obtenir du violet.
-  Man kann Rot und Blau miteinander verbinden, um Violett zu erhalten.
+  L'hydrogène se *combine* facilement avec l'oxygène pour former de l'eau.
+  Wasserstoff *verbindet* sich leicht mit Sauerstoff zu Wasser.
 
-  Le rouge et le vert ne se combinent pas bien.
-  Rot und Grün lassen sich schlecht miteinander kombinieren.
+  Les deux départements ont *combiné* leurs efforts pour résoudre ce problème.
+  Die beiden Abteilungen haben ihre Bemühungen *kombiniert*, um dieses Problem zu lösen.
 
-  Ce vin se combine bien avec les fromages.
-  Dieser Wein lässt sich gut mit Käse vereinbaren.
+  Comment vas-tu *combiner* ton travail et tes études ?
+  Wie willst du Arbeit und Studium *vereinbaren*?
 
-  L'équipe s'est combinée avec les autres pour gagner le match.
-  Die Mannschaft hat sich mit den anderen zusammengetan, um das Spiel zu gewinnen.
+  Ces deux styles architecturaux se *combinent* étonnamment bien.
+  Diese beiden Architekturstile lassen sich erstaunlich gut *kombinieren*.
+
+  Le chef a *combiné* des saveurs traditionnelles et modernes dans ce plat.
+  Der Koch hat traditionelle und moderne Geschmäcker in diesem Gericht *verbunden*.
+
+  Nous devons *combiner* nos ressources pour maximiser notre impact.
+  Wir müssen unsere Ressourcen *bündeln*, um unsere Wirkung zu maximieren.
+
+  Cette machine *combine* les fonctions d'un mixeur et d'un robot de cuisine.
+  Diese Maschine *verbindet* die Funktionen eines Mixers und einer Küchenmaschine.
+
+  Les horaires se *combinent* mal avec mes obligations familiales.
+  Die Arbeitszeiten lassen sich schlecht mit meinen familiären Verpflichtungen *vereinbaren*.
+
+  L'artiste a *combiné* différentes techniques pour créer cette œuvre unique.
+  Der Künstler hat verschiedene Techniken *kombiniert*, um dieses einzigartige Werk zu schaffen.
+
+  Son roman *combine* habilement humour et drame.
+  Sein Roman *verbindet* geschickt Humor und Drama.
+
+  Les danseurs ont *combiné* plusieurs mouvements complexes dans leur chorégraphie.
+  Die Tänzer haben mehrere komplexe Bewegungen in ihrer Choreographie *kombiniert*.
+
+  Marc a *combiné* ses vacances avec un voyage d'affaires à Paris.
+  Marc hat seinen Urlaub mit einer Geschäftsreise nach Paris *verbunden*.
+
+  Le professeur a *combiné* théorie et pratique dans son cours.
+  Der Lehrer hat Theorie und Praxis in seinem Unterricht *verbunden*.
+
+  Cette application *combine* simplicité et efficacité.
+  Diese Anwendung *vereint* Einfachheit und Effizienz.
+
+  Les scientifiques ont *combiné* différentes approches pour résoudre ce mystère.
+  Die Wissenschaftler haben verschiedene Ansätze *kombiniert*, um dieses Rätsel zu lösen.
+
+  L'équipe a *combiné* ses forces pour gagner le match.
+  Das Team hat seine Kräfte *gebündelt*, um das Spiel zu gewinnen.
+
+  Comment as-tu *combiné* tous ces ingrédients pour faire cette sauce ?
+  Wie hast du all diese Zutaten *kombiniert*, um diese Soße zu machen?
+
+  Le peintre *combine* des couleurs chaudes et froides dans son tableau.
+  Der Maler *verbindet* warme und kalte Farben in seinem Gemälde.
+
+  Ces deux médicaments ne doivent pas se *combiner*.
+  Diese beiden Medikamente dürfen nicht *kombiniert* werden.
+
+  L'architecte a *combiné* verre et acier dans sa conception.
+  Der Architekt hat Glas und Stahl in seinem Entwurf *kombiniert*.
+
+  Notre entreprise *combine* innovation et tradition.
+  Unser Unternehmen *verbindet* Innovation und Tradition.
+
+  Ces molécules se *combinent* pour former un nouveau composé.
+  Diese Moleküle *verbinden* sich zu einer neuen Verbindung.
+
+  Le musicien a *combiné* des éléments de jazz et de rock.
+  Der Musiker hat Elemente aus Jazz und Rock *kombiniert*.
+
+  Cette formation *combine* apprentissage en ligne et cours en présentiel.
+  Diese Ausbildung *verbindet* Online-Lernen und Präsenzunterricht.
+
+  Le designer a *combiné* fonctionnalité et esthétique dans ce meuble.
+  Der Designer hat Funktionalität und Ästhetik in diesem Möbelstück *vereint*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

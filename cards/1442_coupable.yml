@@ -13,35 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Aujourd’hui, tout le monde est coupable.
-  Heute ist jeder schuldig.
+  Aujourd'hui, tout le monde est *coupable*.
+  Heute ist jeder *schuldig*.
 
-  Le juge a déclaré le coupable.
-  Der Richter hat den Schuldigen erklärt.
+  L'accusé a plaidé *coupable* devant le tribunal.
+  Der Angeklagte hat sich vor Gericht *schuldig* bekannt.
 
-  Le tueur en série a été reconnu coupable de meurtre, après un procès long et éprouvant.
-  Der Serienmörder wurde eines Mordes schuldig befunden, nach einem langen und anstrengenden Prozess.
+  Elle s'est avouée *coupable* du vol.
+  Sie hat sich des Diebstahls *schuldig* bekannt.
 
-  Le policier a trouvé un suspect qui semblait être le coupable désigné, mais les preuves n'étaient pas suffisantes pour l'inculper.
-  Der Polizist fand einen Verdächtigen, der wie der ideale Sündenbock aussah, aber die Beweise reichten nicht aus, um ihn anzuklagen.
+  Le jury l'a reconnu *coupable* de tous les chefs d'accusation.
+  Die Jury hat ihn in allen Anklagepunkten *schuldig* gesprochen.
 
-  La mère était d'une indulgence coupable envers ses enfants, ce qui leur a permis de se comporter comme ils le voulaient.
-  Die Mutter war viel zu nachsichtig mit ihren Kindern, was ihnen erlaubte, sich so zu verhalten, wie sie wollten.
+  Il a été déclaré *coupable* d'homicide involontaire.
+  Er wurde des fahrlässigen Totschlags *schuldig* gesprochen.
 
-  Le jeune homme, coupable d'avoir tué sa petite amie, a passé le reste de ses jours en prison.
-  Der junge Mann, schuldig, seine Freundin getötet zu haben, verbrachte den Rest seiner Tage im Gefängnis.
+  Ces pensées *coupables* le tourmentaient jour et nuit.
+  Diese *verwerflichen* Gedanken quälten ihn Tag und Nacht.
 
-  Après avoir longtemps hésité, l'accusé s'est avoué coupable du crime.
-  Nach langem Zögern bekannte sich der Angeklagte schuldig der Tat.
+  La police n'a pas encore retrouvé le *coupable*.
+  Die Polizei hat den *Täter* noch nicht gefunden.
 
-  Le jury a déclaré l'accusé coupable de vol à main armée.
-  Die Jury sprach den Angeklagten schuldig des bewaffneten Raubes.
+  Les *coupables* seront sévèrement punis.
+  Die *Schuldigen* werden streng bestraft.
 
-  L'accusé a été reconnu coupable de fraude fiscale.
-  Der Angeklagte wurde wegen Steuerbetrugs für schuldig befunden.
+  Je me sens *coupable* d'avoir oublié son anniversaire.
+  Ich fühle mich *schuldig*, weil ich seinen Geburtstag vergessen habe.
 
-  L'avocat a conseillé à son client de plaider coupable afin de réduire sa peine.
-  Der Anwalt riet seinem Klienten, sich schuldig zu bekennen, um seine Strafe zu reduzieren.
+  Cette négligence *coupable* a eu des conséquences graves.
+  Diese *verwerfliche* Nachlässigkeit hatte schwerwiegende Folgen.
+
+  Les parents se sentaient *coupables* de ne pas avoir vu les signes plus tôt.
+  Die Eltern fühlten sich *schuldig*, die Anzeichen nicht früher erkannt zu haben.
+
+  Le suspect a été reconnu *coupable* en première instance.
+  Der Verdächtige wurde in erster Instanz *schuldig* gesprochen.
+
+  Son silence *coupable* en disait long.
+  Sein *verräterisches* Schweigen sagte alles.
+
+  Pierre était *coupable* d'avoir menti à ses parents.
+  Pierre war *schuldig*, seine Eltern angelogen zu haben.
+
+  La *coupable* a avoué spontanément.
+  Die *Täterin* hat von sich aus gestanden.
+
+  Cette faiblesse *coupable* lui a coûté cher.
+  Diese *tadelnswerte* Schwäche kam ihn teuer zu stehen.
+
+  Marie s'est rendue *coupable* d'une grave erreur.
+  Marie hat sich eines schweren Fehlers *schuldig* gemacht.
+
+  Le juge a déclaré tous les accusés *coupables*.
+  Der Richter hat alle Angeklagten *schuldig* gesprochen.
+
+  Ils ont fait preuve d'une indulgence *coupable* envers leur fils.
+  Sie haben ihrem Sohn gegenüber eine *verwerfliche* Nachsicht gezeigt.
+
+  Cette passion *coupable* a détruit leur mariage.
+  Diese *verwerfliche* Leidenschaft hat ihre Ehe zerstört.
+
+  Le *coupable* a laissé des traces sur la scène du crime.
+  Der *Täter* hat Spuren am Tatort hinterlassen.
+
+  La presse a désigné un *coupable* idéal.
+  Die Presse hat einen idealen *Sündenbock* gefunden.
+
+  Ces désirs *coupables* le rongeaient depuis longtemps.
+  Diese *sündhaften* Begierden nagten schon lange an ihm.
+
+  Le tribunal l'a jugée *coupable* de fraude.
+  Das Gericht hat sie des Betrugs *schuldig* gesprochen.
+
+  On a enfin démasqué les *coupables* de cette conspiration.
+  Man hat endlich die *Schuldigen* dieser Verschwörung entlarvt.
+
+  Cette audace *coupable* lui a valu de sérieux problèmes.
+  Diese *verwerfliche* Kühnheit hat ihm ernsthafte Probleme eingebracht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,35 +13,107 @@ Register: ↗Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le contrôleur indique qu’il est prêt.
-  Der Kontroller zeigt an, dass er bereit ist.
+  Le contrôleur *indique* qu'il est prêt.
+  Der Kontrolleur *zeigt* an, dass er bereit ist.
 
-  Pouvez-vous m’indiquer le chemin?
-  Können Sie mir den Weg anzeigen?
+  Les traces dans la neige *indiquaient* qu'un animal était passé par là.
+  Die Spuren im Schnee *deuteten* darauf hin, dass ein Tier dort vorbeigekommen war.
 
-  Le policier a indiqué le suspect de la main.
-  Der Polizist deutete mit dem Finger auf den Verdächtigen.
+  Elle m'*indique* le chemin de la main.
+  Sie *zeigt* mir den Weg mit der Hand.
 
-  La vendeuse a indiqué à la cliente comment aller au rayon des fruits.
-  Die Verkäuferin hat der Kundin gesagt, wie sie zum Obstregal kommt.
+  Cette flèche *indique* la sortie.
+  Dieser Pfeil *zeigt* den Ausgang an.
 
-  Le professeur a indiqué à ses élèves ce que représente ce symbole.
-  Der Professor hat seinen Schülern erklärt, was dieses Symbol darstellt.
+  L'homme *indiqua* du doigt la personne suspecte.
+  Der Mann *deutete* mit dem Finger auf die verdächtige Person.
 
-  La fumée indique que le feu est encore actif.
-  Der Rauch zeigt an, dass das Feuer noch aktiv ist.
+  La réceptionniste nous *indique* nos chambres.
+  Die Rezeptionistin *zeigt* uns unsere Zimmer.
 
-  Le son de la cloche a indiqué que la classe était terminée.
-  Der Klang der Glocke hat angezeigt, dass der Unterricht vorbei war.
+  Le thermomètre *indique* 38 degrés.
+  Das Thermometer *zeigt* 38 Grad an.
 
-  Le panneau indique qu'il est interdit de fumer.
-  Das Schild zeigt an, dass Rauchen verboten ist.
+  Pourriez-vous m'*indiquer* un bon restaurant ?
+  Können Sie mir ein gutes Restaurant *nennen*?
 
-  Rien n'indique qu'il est parti en vacances.
-  Nichts deutet darauf hin, dass er in Urlaub gefahren ist.
+  Je vais vous *indiquer* comment y arriver.
+  Ich werde Ihnen *erklären*, wie Sie dorthin kommen.
 
-  Tout indique qu'il n'est plus là, il a disparu.
-  Alles deutet darauf hin, dass er nicht mehr da ist, er ist verschwunden.
+  Son comportement *indique* qu'il cache quelque chose.
+  Sein Verhalten *weist* darauf hin, dass er etwas verbirgt.
+
+  Rien n'*indique* qu'il soit malade.
+  Nichts *deutet* darauf hin, dass er krank ist.
+
+  Le panneau *indique* la direction de la plage.
+  Das Schild *zeigt* die Richtung zum Strand an.
+
+  Sa façon de parler *indique* qu'il vient du Sud.
+  Seine Sprechweise *zeigt*, dass er aus dem Süden kommt.
+
+  Le médecin m'a *indiqué* le traitement à suivre.
+  Der Arzt hat mir die zu befolgende Behandlung *genannt*.
+
+  La pendule *indique* midi pile.
+  Die Uhr *zeigt* genau zwölf Uhr an.
+
+  Elle m'*indiqua* du regard la porte de sortie.
+  Sie *zeigte* mir mit einem Blick die Ausgangstür.
+
+  Le guide nous *indique* les monuments à visiter.
+  Der Führer *nennt* uns die Sehenswürdigkeiten, die wir besuchen sollen.
+
+  Les nuages sombres *indiquent* qu'il va pleuvoir.
+  Die dunklen Wolken *zeigen* an, dass es regnen wird.
+
+  Veuillez m'*indiquer* vos disponibilités.
+  Bitte *geben* Sie mir Ihre Verfügbarkeiten an.
+
+  L'application vous *indiquera* le trajet le plus court.
+  Die App wird Ihnen den kürzesten Weg *anzeigen*.
+
+  Son silence *indiquait* sa désapprobation.
+  Sein Schweigen *deutete* auf seine Missbilligung hin.
+
+  La fumée *indique* qu'il y a un incendie.
+  Der Rauch *zeigt* an, dass es ein Feuer gibt.
+
+  Je vous *indiquerai* le moment exact du rendez-vous.
+  Ich werde Ihnen den genauen Zeitpunkt des Treffens *mitteilen*.
+
+  Le vendeur nous *indique* le prix des articles.
+  Der Verkäufer *nennt* uns die Preise der Artikel.
+
+  Les symptômes *indiquent* une grippe.
+  Die Symptome *weisen* auf eine Grippe hin.
+
+  Le professeur *indique* les erreurs en rouge.
+  Der Lehrer *kennzeichnet* die Fehler in Rot.
+
+  Ces résultats *indiquent* une nette amélioration.
+  Diese Ergebnisse *zeigen* eine deutliche Verbesserung an.
+
+  Je vais vous *indiquer* l'itinéraire sur la carte.
+  Ich werde Ihnen die Route auf der Karte *zeigen*.
+
+  Son regard *indiquait* sa tristesse.
+  Sein Blick *verriet* seine Traurigkeit.
+
+  Pouvez-vous m'*indiquer* l'heure du prochain train ?
+  Können Sie mir die Abfahrtszeit des nächsten Zuges *sagen*?
+
+  Le compteur *indique* la vitesse du véhicule.
+  Der Tacho *zeigt* die Geschwindigkeit des Fahrzeugs an.
+
+  L'artiste *indique* les contours du paysage.
+  Der Künstler *skizziert* die Konturen der Landschaft.
+
+  Cette étude *indique* une tendance positive.
+  Diese Studie *weist* auf einen positiven Trend hin.
+
+  Le GPS m'*indiquera* le chemin à suivre.
+  Das GPS wird mir den zu folgenden Weg *anzeigen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous êtes dotée d’un superbe vocabulaire.
-  Sie verfügen über einen großartigen Wortschatz.
+  Vous êtes *dotée* d'un superbe vocabulaire.
+  Sie sind mit einem hervorragenden Wortschatz *ausgestattet*.
 
-  Elle est dotée d’un grand talent.
-  Sie ist mit großem Talent ausgestattet.
+  Le père a *doté* sa fille d'une belle somme d'argent pour son mariage.
+  Der Vater hat seiner Tochter zur Hochzeit eine schöne *Mitgift* gegeben.
 
-  Le gouvernement a décidé de se doter de nouveaux avions de combat.
-  Die Regierung hat beschlossen, sich neue Kampfflugzeuge zuzulegen.
+  L'université s'est *dotée* d'un nouveau laboratoire de recherche.
+  Die Universität hat sich ein neues Forschungslabor *zugelegt*.
 
-  La ville a doté le musée d'un million d'euros pour l'aider à financer sa rénovation.
-  Die Stadt hat dem Museum eine Million Euro zur Verfügung gestellt, um die Renovierung zu finanzieren.
+  La nature l'a *dotée* d'une voix magnifique.
+  Die Natur hat sie mit einer wunderschönen Stimme *ausgestattet*.
+
+  Cette fondation est *dotée* d'un budget annuel de 5 millions d'euros.
+  Diese Stiftung ist mit einem Jahresbudget von 5 Millionen Euro *ausgestattet*.
+
+  Le concours est *doté* de nombreux prix.
+  Der Wettbewerb ist mit vielen Preisen *dotiert*.
+
+  Notre école s'est *dotée* d'équipements sportifs modernes.
+  Unsere Schule hat sich moderne Sportgeräte *zugelegt*.
+
+  Chaque classe sera *dotée* d'un tableau numérique interactif.
+  Jede Klasse wird mit einer interaktiven digitalen Tafel *ausgestattet*.
+
+  Les parents ont généreusement *doté* leurs trois filles.
+  Die Eltern haben ihre drei Töchter großzügig mit einer *Aussteuer* versehen.
+
+  L'hôpital sera *doté* de nouveaux scanners l'année prochaine.
+  Das Krankenhaus wird nächstes Jahr mit neuen Scannern *ausgestattet*.
+
+  Cette région est *dotée* d'un climat exceptionnel.
+  Diese Region ist mit einem außergewöhnlichen Klima *ausgestattet*.
+
+  Le projet est *doté* d'un financement de 2 millions d'euros.
+  Das Projekt ist mit einer Finanzierung von 2 Millionen Euro *ausgestattet*.
+
+  Les pompiers se sont *dotés* d'un nouveau camion.
+  Die Feuerwehr hat sich einen neuen Wagen *zugelegt*.
+
+  Cette entreprise est bien *dotée* en ressources humaines.
+  Dieses Unternehmen ist gut mit Personal *ausgestattet*.
+
+  La ville a *doté* la bibliothèque d'une nouvelle collection de livres.
+  Die Stadt hat die Bibliothek mit einer neuen Buchsammlung *ausgestattet*.
+
+  Il est *doté* d'une intelligence remarquable.
+  Er ist mit einer bemerkenswerten Intelligenz *ausgestattet*.
+
+  Le gouvernement a *doté* les écoles de nouveaux ordinateurs.
+  Die Regierung hat die Schulen mit neuen Computern *ausgestattet*.
+
+  Cette association s'est *dotée* d'une nouvelle structure.
+  Dieser Verein hat sich eine neue Struktur *zugelegt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

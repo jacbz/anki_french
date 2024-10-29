@@ -13,47 +13,185 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est moi qui paie votre salaire.
-  Ich bezahle Ihr Gehalt.
+  C'est moi qui *paie* votre salaire.
+  Ich bin derjenige, der Ihr Gehalt *bezahlt*.
 
-  Je vais payer l’addition.
-  Ich werde die Rechnung bezahlen.
+  Elle a *payé* le loyer en avance.
+  Sie hat die Miete im Voraus *bezahlt*.
 
-  Tu vas payer pour ça.
-  Du wirst dafür bezahlen.
+  "Je te *paie* un verre après le travail ?"
+  "Ich *gebe* dir nach der Arbeit einen aus?"
 
-  Qui va payer pour tout ceci ?
-  Wer wird für all das bezahlen?
+  Il faut toujours *payer* ses dettes à temps.
+  Man muss seine Schulden immer pünktlich *begleichen*.
 
-  J'aimerais payer par chèque, si cela vous convient.
-  Ich möchte mit Scheck zahlen, wenn das für Sie in Ordnung ist.
+  Les clients peuvent *payer* par carte ou en espèces.
+  Die Kunden können mit Karte oder bar *bezahlen*.
 
-  C'est moi qui paie le repas ce soir.
-  Ich zahle das Essen heute Abend.
+  Je suis *payé* à l'heure pour ce travail.
+  Ich werde für diese Arbeit nach Stunden *bezahlt*.
 
-  Je ne peux pas me payer ce voyage, c'est trop cher.
-  Ich kann mir diese Reise nicht leisten, es ist zu teuer.
+  L'entreprise *paie* ses employés le premier du mois.
+  Die Firma *bezahlt* ihre Angestellten am Ersten des Monats.
 
-  Il a appris à ses dépens à ne pas fumer.
-  Er ist durch Schaden klug geworden, dass er nicht rauchen soll.
+  Tu peux *payer* en trois versements si tu veux.
+  Du kannst in drei Raten *zahlen*, wenn du möchtest.
 
-  Il se paie de mots, mais il ne fait rien de concret.
-  Er ist im Reden groß, aber er macht nichts Konkretes.
+  Ces erreurs, il va les *payer* cher.
+  Diese Fehler wird er teuer *bezahlen* müssen.
 
-  Elle se paie la tête de son petit frère, il est toujours la victime de ses plaisanteries.
-  Sie veräppelt ihren kleinen Bruder, er ist immer das Opfer ihrer Witze.
+  Le crime ne *paie* pas.
+  Verbrechen *lohnt* sich nicht.
 
-  Les employés sont payés à l'heure, ce qui leur permet de choisir leurs horaires.
-  Die Angestellten werden stundenweise bezahlt, was ihnen ermöglicht, ihre Arbeitszeiten selbst zu bestimmen.
+  "Il s'est *payé* ma tête pendant toute la soirée !"
+  "Er hat mich den ganzen Abend *veräppelt*!"
 
-  Le plombier m'a fait payer 500 euros pour la réparation de la fuite.
-  Der Klempner hat mir 500 Euro für die Reparatur des Lecks berechnet.
+  Nous avons *payé* l'appartement beaucoup trop cher.
+  Wir haben für die Wohnung viel zu viel *bezahlt*.
 
-  Je vais te payer de ta peine avec une bonne pizza.
-  Ich werde dich für deine Mühe mit einer guten Pizza belohnen.
+  Cette formation va *payer* sur le long terme.
+  Diese Ausbildung wird sich langfristig *auszahlen*.
 
-  Il a payé un livre à sa fille, pour l'encourager à lire.
-  Er hat seiner Tochter ein Buch bezahlt, um sie zum Lesen zu ermutigen.
+  Je me suis *payé* un nouveau vélo pour mon anniversaire.
+  Ich habe mir zum Geburtstag ein neues Fahrrad *geleistet*.
+
+  Les impôts se *paient* avant la fin du mois.
+  Die Steuern müssen vor Monatsende *bezahlt* werden.
+
+  Il a *payé* son succès de sa santé.
+  Er hat seinen Erfolg mit seiner Gesundheit *bezahlt*.
+
+  La commande doit être *payée* à la livraison.
+  Die Bestellung muss bei Lieferung *bezahlt* werden.
+
+  Nous *payons* nos fournisseurs tous les trente jours.
+  Wir *bezahlen* unsere Lieferanten alle dreißig Tage.
+
+  Il s'est *payé* un voyage autour du monde.
+  Er hat sich eine Weltreise *geleistet*.
+
+  Je suis bien *payé* pour savoir qu'on ne peut pas lui faire confiance.
+  Ich bin durch Schaden klug geworden und weiß, dass man ihm nicht vertrauen kann.
+
+  Elle *paie* toujours ses factures par virement bancaire.
+  Sie *bezahlt* ihre Rechnungen immer per Überweisung.
+
+  Je lui ai *payé* un café pour le remercier.
+  Ich habe ihm zum Dank einen Kaffee *spendiert*.
+
+  Cette entreprise *paie* mal ses employés.
+  Diese Firma *bezahlt* ihre Mitarbeiter schlecht.
+
+  Il a *payé* l'addition pour tout le groupe.
+  Er hat die Rechnung für die ganze Gruppe *bezahlt*.
+
+  "Il ne se *paie* pas de mots, il veut des actes."
+  "Er gibt sich nicht mit leeren Worten zufrieden, er will Taten sehen."
+
+  Les frais de transport seront *payés* par l'entreprise.
+  Die Fahrtkosten werden von der Firma *bezahlt*.
+
+  Son dévouement n'a pas été *payé* de retour.
+  Seine Hingabe wurde nicht entsprechend *vergolten*.
+
+  Nous *payons* nos employés quinze euros de l'heure.
+  Wir *bezahlen* unseren Mitarbeitern fünfzehn Euro pro Stunde.
+
+  Elle s'est *payé* une nouvelle voiture avec ses économies.
+  Sie hat sich von ihren Ersparnissen ein neues Auto *geleistet*.
+
+  Qui *paie* ses dettes s'enrichit.
+  Wer seine Schulden *bezahlt*, wird reich.
+
+  Il faut *payer* l'amende dans les trente jours.
+  Das Bußgeld muss innerhalb von dreißig Tagen *bezahlt* werden.
+
+  Les congés sont *payés* double pendant les jours fériés.
+  Die Urlaubstage werden an Feiertagen doppelt *bezahlt*.
+
+  Cette formation a été entièrement *payée* par mon employeur.
+  Diese Fortbildung wurde vollständig von meinem Arbeitgeber *bezahlt*.
+
+  Il a *payé* de sa personne pendant toute la crise.
+  Er hat sich während der ganzen Krise persönlich eingesetzt.
+
+  Tu me le *paieras* !
+  Das wirst du mir *büßen*!
+
+  Je vais *payer* comptant pour éviter les frais.
+  Ich werde bar *bezahlen*, um Gebühren zu vermeiden.
+
+  Elle *paie* toujours rubis sur l'ongle.
+  Sie *bezahlt* immer auf Heller und Pfennig.
+
+  Cette négligence, nous allons la *payer* cher.
+  Diese Nachlässigkeit werden wir teuer *bezahlen* müssen.
+
+  C'est un travail bien *payé*.
+  Das ist eine gut *bezahlte* Arbeit.
+
+  Il ne faut pas se *payer* de mots.
+  Man darf sich nicht mit leeren Worten abspeisen lassen.
+
+  Les heures supplémentaires sont *payées* double.
+  Überstunden werden doppelt *bezahlt*.
+
+  Je dois *payer* mes impôts avant la fin de la semaine.
+  Ich muss meine Steuern vor Ende der Woche *bezahlen*.
+
+  Cette stratégie va *payer* à long terme.
+  Diese Strategie wird sich langfristig *auszahlen*.
+
+  Elle a *payé* sa réussite au prix fort.
+  Sie hat ihren Erfolg teuer *bezahlt*.
+
+  Nous *payons* tous les mois pour l'assurance.
+  Wir *zahlen* jeden Monat für die Versicherung.
+
+  Il s'est *payé* un ordinateur dernier cri.
+  Er hat sich einen hochmodernen Computer *geleistet*.
+
+  C'est lui qui *paie* pour les erreurs des autres.
+  Er *büßt* für die Fehler der anderen.
+
+  Les factures doivent être *payées* avant la fin du mois.
+  Die Rechnungen müssen vor Monatsende *bezahlt* werden.
+
+  Elle *paie* toujours cash ses achats.
+  Sie *bezahlt* ihre Einkäufe immer bar.
+
+  Cette expérience, je l'ai *payée* cher.
+  Diese Erfahrung habe ich teuer *bezahlt*.
+
+  Il faut *payer* pour entrer dans ce musée.
+  Man muss Eintritt *zahlen*, um in dieses Museum zu kommen.
+
+  Nous avons *payé* le prix fort pour cette maison.
+  Wir haben einen hohen Preis für dieses Haus *bezahlt*.
+
+  Ces félicitations me *paient* de mes efforts.
+  Diese Glückwünsche *entschädigen* mich für meine Bemühungen.
+
+  Elle s'est *payé* un week-end de luxe à Paris.
+  Sie hat sich ein Luxuswochenende in Paris *geleistet*.
+
+  Je vais *payer* par carte bancaire.
+  Ich werde mit Kreditkarte *bezahlen*.
+
+  Tout travail mérite d'être *payé*.
+  Jede Arbeit verdient es, *bezahlt* zu werden.
+
+  Il a *payé* de sa vie son engagement.
+  Er hat sein Engagement mit seinem Leben *bezahlt*.
+
+  Les clients peuvent *payer* en plusieurs fois sans frais.
+  Die Kunden können ohne Aufpreis in mehreren Raten *zahlen*.
+
+  Cette formation va *payer* rapidement.
+  Diese Ausbildung wird sich schnell *auszahlen*.
+
+  Elle *paie* toujours ses dettes à temps.
+  Sie *begleicht* ihre Schulden immer pünktlich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

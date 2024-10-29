@@ -13,50 +13,197 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis père célibataire.
-  Ich bin alleinerziehender Vater.
+  Je suis *père* célibataire.
+  Ich bin alleinerziehender *Vater*.
 
-  Mon père est très gentil.
-  Mein Vater ist sehr nett.
+  Mon *père* travaille comme architecte depuis vingt ans.
+  Mein *Vater* arbeitet seit zwanzig Jahren als Architekt.
 
-  Tu es mon père.
-  Du bist mein Vater.
+  Il est devenu *père* pour la première fois hier soir.
+  Er ist gestern Abend zum ersten Mal *Vater* geworden.
 
-  Qui est votre père?
-  Wer ist Ihr Vater?
+  Le *père* biologique de l'enfant vit à l'étranger.
+  Der biologische *Vater* des Kindes lebt im Ausland.
 
-  Pierre est devenu père il y a quelques mois.
-  Pierre ist vor ein paar Monaten Vater geworden.
+  "*Tel père*, tel fils" - Marc ressemble vraiment à son papa.
+  "Wie der *Vater*, so der Sohn" - Marc ähnelt wirklich seinem Papa.
 
-  Il est père de deux enfants, une fille et un garçon.
-  Er ist Vater von zwei Kindern, einem Mädchen und einem Jungen.
+  Mon ami va bientôt devenir *père* de jumeaux.
+  Mein Freund wird bald *Vater* von Zwillingen.
 
-  Tel père, tel fils, on dit souvent.
-  Wie der Vater, so der Sohn, sagt man oft.
+  En tant que *père* de famille nombreuse, il reçoit des réductions spéciales.
+  Als *Vater* einer kinderreichen Familie erhält er besondere Ermäßigungen.
 
-  Jean est un père tranquille et aimant.
-  Jean ist ein ruhiger und liebender Vater.
+  Einstein est considéré comme le *père* de la théorie de la relativité.
+  Einstein gilt als *Vater* der Relativitätstheorie.
 
-  Le père Dupont est un homme bien, mais un peu trop strict.
-  Der alte Dupont ist ein guter Mensch, aber ein bisschen zu streng.
+  Le *Père* Martin célèbre la messe tous les dimanches.
+  *Pater* Martin feiert jeden Sonntag die Messe.
 
-  Les Pères Blancs ont travaillé pendant des années en Afrique.
-  Die Weißen Väter haben viele Jahre in Afrika gearbeitet.
+  Les *pères* fondateurs ont établi cette constitution il y a 200 ans.
+  Die Gründungs*väter* haben diese Verfassung vor 200 Jahren festgelegt.
 
-  Nos pères nous ont appris beaucoup de choses.
-  Unsere Väter haben uns viel beigebracht.
+  Comme son *père* avant lui, il est devenu boulanger.
+  Wie sein *Vater* vor ihm ist er Bäcker geworden.
 
-  Il est père depuis hier, et il est déjà très fatigué.
-  Er ist gestern Vater geworden, und er ist schon sehr müde.
+  Le *père* de Sophie l'accompagne à l'école chaque matin.
+  Sophies *Vater* begleitet sie jeden Morgen zur Schule.
 
-  Il est père de l'enfant, mais il n'a aucun contact avec lui.
-  Er ist der Vater des Kindes, aber er hat keinen Kontakt zu ihm.
+  On dit qu'il a été comme un *père* pour tous les orphelins du quartier.
+  Man sagt, er sei für alle Waisenkinder im Viertel wie ein *Vater* gewesen.
 
-  Le grand-père est le père spirituel de son petit-fils.
-  Der Großvater ist das geistige Vorbild seines Enkels.
+  Le *Père* Noël apporte des cadeaux aux enfants sages.
+  Der Weihnachts*mann* bringt artigen Kindern Geschenke.
 
-  La tradition se transmet de père en fils dans cette famille.
-  Die Tradition wird in dieser Familie von Generation zu Generation weitergegeben.
+  Notre entreprise familiale se transmet de *père* en fils depuis 1850.
+  Unser Familienunternehmen wird seit 1850 von *Vater* zu Sohn weitergegeben.
+
+  "Le *père* Dupont" jardine toujours dans son potager.
+  "Der alte *Vater* Dupont" arbeitet immer noch in seinem Gemüsegarten.
+
+  Les *Pères* Blancs ont fondé plusieurs écoles en Afrique.
+  Die Weißen *Väter* haben mehrere Schulen in Afrika gegründet.
+
+  Mon grand-*père* récite le Notre *Père* chaque soir avant de dormir.
+  Mein Groß*vater* betet jeden Abend vor dem Schlafengehen das *Vater*unser.
+
+  Cette tradition nous vient de nos *pères*.
+  Diese Tradition stammt von unseren *Vätern*.
+
+  Le *père* adoptif de Marie lui a donné tout son amour.
+  Maries Adoptiv*vater* hat ihr seine ganze Liebe gegeben.
+
+  Elle gère son entreprise en bon *père* de famille.
+  Sie führt ihr Unternehmen wie ein guter *Hausvater*.
+
+  Le *père* légal a tous les droits et devoirs envers l'enfant.
+  Der gesetzliche *Vater* hat alle Rechte und Pflichten gegenüber dem Kind.
+
+  Victor Hugo est le *père* du romantisme français.
+  Victor Hugo ist der *Vater* der französischen Romantik.
+
+  Ce cheval est le *père* de nombreux champions.
+  Dieser Hengst ist der *Vater* vieler Champions.
+
+  Le *père* spirituel du mouvement était un philosophe grec.
+  Der geistige *Vater* der Bewegung war ein griechischer Philosoph.
+
+  Mon *père* m'a appris à faire du vélo quand j'avais six ans.
+  Mein *Vater* hat mir das Fahrradfahren beigebracht, als ich sechs war.
+
+  Dumas *père* a écrit "Les Trois Mousquetaires".
+  Dumas *Senior* schrieb "Die drei Musketiere".
+
+  Le Saint-*Père* a prononcé son discours de Noël.
+  Der Heilige *Vater* hat seine Weihnachtsansprache gehalten.
+
+  Les *Pères* de l'Église ont grandement influencé la théologie chrétienne.
+  Die Kirchen*väter* haben die christliche Theologie stark beeinflusst.
+
+  Ce *père* célibataire élève seul ses trois enfants.
+  Dieser alleinerziehende *Vater* zieht seine drei Kinder alleine groß.
+
+  "Mon petit *père*", dit la grand-mère à son petit-fils.
+  "Mein kleiner *Junge*", sagte die Großmutter zu ihrem Enkel.
+
+  Il a été un *père* formidable pour ses beaux-enfants.
+  Er war ein toller *Vater* für seine Stiefkinder.
+
+  Les responsabilités d'un *père* sont nombreuses.
+  Die Verantwortungen eines *Vaters* sind vielfältig.
+
+  Le *père* du marié a fait un discours émouvant.
+  Der *Vater* des Bräutigams hielt eine bewegende Rede.
+
+  C'est un projet qu'il gère en *père* de famille prudent.
+  Es ist ein Projekt, das er wie ein vorsichtiger *Familienvater* verwaltet.
+
+  Ce "gros *père*" passe ses journées dans son fauteuil.
+  Dieser "gemütliche alte *Herr*" verbringt seine Tage in seinem Sessel.
+
+  Mon *père* m'a toujours encouragé à poursuivre mes rêves.
+  Mein *Vater* hat mich immer ermutigt, meine Träume zu verfolgen.
+
+  Le *père* ministre dirige cette communauté religieuse.
+  Der *Pater* Minister leitet diese religiöse Gemeinschaft.
+
+  Les *pères* conciliaires se sont réunis au Vatican.
+  Die Konzils*väter* haben sich im Vatikan versammelt.
+
+  Le *père* de ce chiot est un berger allemand.
+  Der *Vater* dieses Welpen ist ein deutscher Schäferhund.
+
+  Notre *père* nous a transmis l'amour de la musique.
+  Unser *Vater* hat uns die Liebe zur Musik vermittelt.
+
+  Le *père* de mon ami est médecin à l'hôpital.
+  Der *Vater* meines Freundes ist Arzt im Krankenhaus.
+
+  "*Père* Jacques" est très apprécié dans sa paroisse.
+  "*Pater* Jakob" ist in seiner Gemeinde sehr beliebt.
+
+  Ce *père* de quatre enfants travaille jour et nuit.
+  Dieser *Vater* von vier Kindern arbeitet Tag und Nacht.
+
+  Mon *père* m'a appris à respecter les autres.
+  Mein *Vater* hat mir beigebracht, andere zu respektieren.
+
+  Les conseils de mon *père* m'ont beaucoup aidé dans la vie.
+  Die Ratschläge meines *Vaters* haben mir im Leben sehr geholfen.
+
+  Le *père* de Caroline l'accompagne au piano.
+  Carolines *Vater* begleitet sie am Klavier.
+
+  Ce jeune *père* apprend à changer les couches.
+  Dieser junge *Vater* lernt, Windeln zu wechseln.
+
+  Mon *père* m'a transmis sa passion pour la lecture.
+  Mein *Vater* hat mir seine Leidenschaft fürs Lesen weitergegeben.
+
+  Le *père* de Thomas lui a appris à nager.
+  Thomas' *Vater* hat ihm das Schwimmen beigebracht.
+
+  Chaque *père* a sa façon d'éduquer ses enfants.
+  Jeder *Vater* hat seine eigene Art, seine Kinder zu erziehen.
+
+  Le *père* de Julie travaille dans l'informatique.
+  Julies *Vater* arbeitet in der IT-Branche.
+
+  Mon *père* fait du jogging tous les matins.
+  Mein *Vater* joggt jeden Morgen.
+
+  Le *père* de Pierre est parti à la retraite.
+  Pierres *Vater* ist in den Ruhestand gegangen.
+
+  Son *père* lui a appris à faire du bricolage.
+  Sein *Vater* hat ihm beigebracht, handwerklich zu arbeiten.
+
+  Le *père* de Marie cultive des légumes bio.
+  Maries *Vater* baut Bio-Gemüse an.
+
+  Le *père* de mon amie est professeur d'université.
+  Der *Vater* meiner Freundin ist Universitätsprofessor.
+
+  Ce *père* dévoué aide ses enfants à faire leurs devoirs.
+  Dieser engagierte *Vater* hilft seinen Kindern bei den Hausaufgaben.
+
+  Le *père* de Lucas est pompier volontaire.
+  Lucas' *Vater* ist freiwilliger Feuerwehrmann.
+
+  Mon *père* aime faire la cuisine le weekend.
+  Mein *Vater* kocht gerne am Wochenende.
+
+  Le *père* d'Antoine collectionne les timbres.
+  Antoines *Vater* sammelt Briefmarken.
+
+  Ce *père* célibataire jongle entre travail et famille.
+  Dieser alleinerziehende *Vater* jongliert zwischen Arbeit und Familie.
+
+  Le *père* de Sarah travaille à l'étranger.
+  Sarahs *Vater* arbeitet im Ausland.
+
+  Mon *père* m'a appris à faire du vélo sans roulettes.
+  Mein *Vater* hat mir beigebracht, ohne Stützräder Fahrrad zu fahren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

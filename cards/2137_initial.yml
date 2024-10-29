@@ -13,20 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Au succès initial a succédé une stabilisation.
-  Auf den anfänglichen Erfolg folgte eine Stabilisierung.
+  Au succès *initial* a succédé une stabilisation.
+  Auf den *anfänglichen* Erfolg folgte eine Stabilisierung.
 
-  Les initiales de son nom sont J. P.
-  Die Anfangsbuchstaben seines Namens sind J. P.
+  L'erreur *initiale* s'est propagée dans tout le calcul.
+  Der *ursprüngliche* Fehler hat sich durch die ganze Rechnung gezogen.
 
-  Quelle est la lettre initiale de ton prénom ?
-  Was ist der Anfangsbuchstabe deines Vornamens?
+  Pour commencer ce mot, il faut une *initiale* en majuscule.
+  Dieses Wort muss mit einem großen *Anfangsbuchstaben* beginnen.
 
-  Revenez à votre position initiale, s'il vous plaît.
-  Bitte kehren Sie zu Ihrer Ausgangsposition zurück.
+  La position *initiale* du joueur est très importante pour le saut.
+  Die *Ausgangs*position des Spielers ist sehr wichtig für den Sprung.
 
-  Avant de commencer, il est important de bien comprendre la situation initiale.
-  Bevor wir beginnen, ist es wichtig, die Ausgangslage gut zu verstehen.
+  J'ai analysé la situation *initiale* avant de prendre ma décision.
+  Ich habe die *Ausgangs*lage analysiert, bevor ich meine Entscheidung getroffen habe.
+
+  La vitesse *initiale* de la balle était trop faible.
+  Die *Anfangs*geschwindigkeit des Balls war zu niedrig.
+
+  Elle a brodé ses *initiales* sur son mouchoir.
+  Sie hat ihre *Initialen* auf ihr Taschentuch gestickt.
+
+  Le malentendu *initial* entre nous n'a jamais été résolu.
+  Das *ursprüngliche* Missverständnis zwischen uns wurde nie geklärt.
+
+  Dans ce manuscrit médiéval, chaque chapitre commence par une *initiale* ornée.
+  In dieser mittelalterlichen Handschrift beginnt jedes Kapitel mit einem verzierten *Anfangsbuchstaben*.
+
+  Les conditions *initiales* de l'expérience doivent être précises.
+  Die *Ausgangs*bedingungen des Experiments müssen präzise sein.
+
+  L'état *initial* du patient s'est considérablement amélioré.
+  Der *anfängliche* Zustand des Patienten hat sich erheblich verbessert.
+
+  Il faut toujours revenir à la version *initiale* du texte.
+  Man muss immer zur *ursprünglichen* Version des Textes zurückkehren.
+
+  La phase *initiale* du projet durera trois mois.
+  Die *Anfangs*phase des Projekts wird drei Monate dauern.
+
+  Les données *initiales* du problème étaient incorrectes.
+  Die *ursprünglichen* Daten des Problems waren falsch.
+
+  L'impulsion *initiale* a déclenché toute une série d'événements.
+  Der *anfängliche* Impuls löste eine ganze Reihe von Ereignissen aus.
+
+  J'ai signé le document de mes *initiales*.
+  Ich habe das Dokument mit meinen *Initialen* unterschrieben.
+
+  La syllabe *initiale* de ce mot est accentuée.
+  Die *erste* Silbe dieses Wortes ist betont.
+
+  Son enthousiasme *initial* s'est vite estompé.
+  Seine *anfängliche* Begeisterung ließ schnell nach.
+
+  L'hypothèse *initiale* s'est révélée fausse.
+  Die *ursprüngliche* Hypothese erwies sich als falsch.
+
+  Les cellules *initiales* se multiplient rapidement.
+  Die *ursprünglichen* Zellen vermehren sich schnell.
+
+  Leurs *initiales* entrelacées decorent l'invitation.
+  Ihre verschlungenen *Initialen* schmücken die Einladung.
+
+  Le choc *initial* a été très violent.
+  Der *erste* Aufprall war sehr heftig.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,29 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  N’hésitez pas à les appeler.
-  Zögern Sie nicht, sie anzurufen.
+  N'*hésitez* pas à les appeler.
+  *Zögern* Sie nicht, sie anzurufen.
 
-  J'ai accepté sa proposition sans hésiter.
-  Ich habe seinen Vorschlag ohne zu zögern angenommen.
+  Il a répondu sans *hésiter* à ma question.
+  Er hat meine Frage ohne zu *zögern* beantwortet.
 
-  Il hésite entre plusieurs possibilités de carrière.
-  Er schwankt zwischen mehreren Karrieremöglichkeiten.
+  Elle *hésite* entre le rouge et le bleu pour sa nouvelle voiture.
+  Sie *schwankt* zwischen Rot und Blau für ihr neues Auto.
 
-  J'hésite sur la meilleure façon de procéder.
-  Ich bin mir unschlüssig über die beste Vorgehensweise.
+  Je *hésite* encore sur le choix du restaurant.
+  Ich bin mir über die Wahl des Restaurants noch *unschlüssig*.
 
-  Elle hésite à lui demander une augmentation.
-  Sie kann sich nicht entschließen, ihn um eine Gehaltserhöhung zu bitten.
+  Il *hésitait* à lui dire la vérité.
+  Er *zögerte*, ihr die Wahrheit zu sagen.
 
-  Si vous continuez, je n'hésiterai pas à appeler la police!
-  Wenn Sie so weitermachen, werde ich ohne Bedenken die Polizei anrufen!
+  S'il te plaît, n'*hésite* pas à me dire ce que tu penses.
+  Bitte *scheue* dich nicht, mir zu sagen, was du denkst.
 
-  N'hésitez pas à dire toute la vérité au juge.
-  Sagen Sie ruhig die ganze Wahrheit dem Richter.
+  Le cheval *hésita* devant l'obstacle, puis le franchit.
+  Das Pferd *zögerte* vor dem Hindernis, dann übersprang es dieses.
 
-  Est-ce que tu veux venir au cinéma avec nous ? Je ne sais pas... j'hésite.
-  Willst du mit uns ins Kino kommen? Ich weiß nicht ... ich bin mir noch nicht sicher.
+  En récitant son poème, il *hésitait* sur certains mots.
+  Beim Aufsagen seines Gedichts *stockte* er bei manchen Wörtern.
+
+  J'ai longtemps *hésité* avant d'accepter ce nouveau poste.
+  Ich habe lange *gezaudert*, bevor ich die neue Stelle annahm.
+
+  "Je ne sais pas... j'*hésite* encore."
+  "Ich weiß nicht... ich bin mir noch *unsicher*."
+
+  Il *hésite* toujours quand il parle en public.
+  Er *stockt* immer, wenn er in der Öffentlichkeit spricht.
+
+  N'*hésite* pas à demander de l'aide si tu en as besoin.
+  *Zögere* nicht, um Hilfe zu bitten, wenn du welche brauchst.
+
+  Elle *hésitait* sur la marche à suivre.
+  Sie war sich über das weitere Vorgehen *unschlüssig*.
+
+  Je n'*hésiterai* pas à appeler la police si nécessaire.
+  Ich werde nicht *zögern*, die Polizei zu rufen, wenn es nötig ist.
+
+  Les invités *hésitaient* entre le poisson et la viande.
+  Die Gäste *schwankten* zwischen Fisch und Fleisch.
+
+  La voiture *hésita* un instant avant de redémarrer.
+  Das Auto *stockte* einen Moment, bevor es wieder ansprang.
+
+  Il *hésite* encore à lui avouer ses sentiments.
+  Er *zögert* noch, ihr seine Gefühle zu gestehen.
+
+  Sans *hésiter* une seconde, elle a sauté dans l'eau.
+  Ohne eine Sekunde zu *zögern*, sprang sie ins Wasser.
+
+  Elle *hésite* à s'engager dans cette relation.
+  Sie *zaudert*, sich auf diese Beziehung einzulassen.
+
+  J'*hésite* entre partir en vacances ou économiser l'argent.
+  Ich *schwanke* zwischen Urlaub machen und Geld sparen.
+
+  Le guide *hésita* sur le chemin à prendre.
+  Der Führer war sich über den einzuschlagenden Weg *unschlüssig*.
+
+  N'*hésitez* pas à poser des questions pendant le cours.
+  *Scheuen* Sie sich nicht, während des Unterrichts Fragen zu stellen.
+
+  L'enfant *hésitait* devant le plongeoir.
+  Das Kind *zögerte* vor dem Sprungbrett.
+
+  Je n'*hésite* jamais à dire ce que je pense.
+  Ich *zögere* nie, zu sagen, was ich denke.
+
+  L'acteur *hésita* un moment avant de continuer son texte.
+  Der Schauspieler *stockte* einen Moment, bevor er seinen Text fortsetzte.
+
+  Elle *hésite* encore à déménager dans une autre ville.
+  Sie *zaudert* noch, in eine andere Stadt zu ziehen.
+
+  Il a *hésité* longtemps avant de prendre sa décision.
+  Er hat lange *gezögert*, bevor er seine Entscheidung traf.
+
+  Le client *hésitait* entre plusieurs modèles.
+  Der Kunde *schwankte* zwischen mehreren Modellen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

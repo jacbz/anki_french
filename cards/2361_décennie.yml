@@ -13,11 +13,35 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cet objectif sera atteint en quelques décennies.
-  Dieses Ziel wird innerhalb weniger Jahrzehnte erreicht.
+  Cet objectif sera atteint en quelques *décennies*.
+  Dieses Ziel wird in einigen *Jahrzehnten* erreicht werden.
 
-  Les années 90 ont été une décennie de changements importants.
-  Die 90er Jahre waren ein Jahrzehnt großer Veränderungen.
+  La *décennie* 2010-2020 a vu l'essor des réseaux sociaux.
+  Das *Jahrzehnt* 2010-2020 erlebte den Aufstieg der sozialen Medien.
+
+  Au cours de la dernière *décennie*, le climat a beaucoup changé.
+  Im Laufe des letzten *Jahrzehnts* hat sich das Klima stark verändert.
+
+  Les nouvelles technologies évoluent rapidement d'une *décennie* à l'autre.
+  Neue Technologien entwickeln sich von *Jahrzehnt* zu *Jahrzehnt* rasant weiter.
+
+  Voilà maintenant une *décennie* que nous habitons dans cette ville.
+  Wir wohnen jetzt seit einem *Jahrzehnt* in dieser Stadt.
+
+  Cette entreprise existe depuis plus de trois *décennies*.
+  Dieses Unternehmen besteht seit mehr als drei *Jahrzehnten*.
+
+  La prochaine *décennie* sera cruciale pour l'environnement.
+  Das nächste *Jahrzehnt* wird entscheidend für die Umwelt sein.
+
+  Les chercheurs ont étudié ce phénomène pendant deux *décennies*.
+  Die Forscher haben dieses Phänomen zwei *Jahrzehnte* lang untersucht.
+
+  Une *décennie* s'est écoulée depuis notre dernière rencontre.
+  Ein *Jahrzehnt* ist seit unserem letzten Treffen vergangen.
+
+  Durant cette *décennie*, les habitudes de consommation ont radicalement changé.
+  In diesem *Jahrzehnt* haben sich die Konsumgewohnheiten grundlegend verändert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

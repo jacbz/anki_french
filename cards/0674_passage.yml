@@ -13,41 +13,200 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je lirai seulement un petit passage.
-  Ich lese nur eine kurze Passage.
+  Je lirai seulement un petit *passage*.
+  Ich werde nur eine kleine *Stelle* lesen.
 
-  Le passage est étroit.
-  Der Durchgang ist eng.
+  Le *passage* des oiseaux migrateurs annonce l'arrivée du printemps.
+  Das *Vorüberziehen* der Zugvögel kündigt den Frühling an.
 
-  Le passage interdit était bien visible, mais le conducteur l’a ignoré et a continué sa route.
-  Durchfahrt verboten stand deutlich zu lesen, aber der Fahrer ignorierte das Schild und fuhr einfach weiter.
+  "Il y a beaucoup de *passage* dans cette rue commerçante."
+  "In dieser Einkaufsstraße ist viel *Verkehr*."
 
-  Il a cédé le passage à la voiture qui arrivait en face.
-  Er hat der entgegenkommenden Autos die Vorfahrt gelassen.
+  Le petit *passage* souterrain mène directement à la gare.
+  Die kleine *Unterführung* führt direkt zum Bahnhof.
 
-  Le passage de la frontière s’est fait sans encombre.
-  Das Überschreiten der Grenze verlief problemlos.
+  Les enfants attendent le *passage* du Père Noël avec impatience.
+  Die Kinder warten ungeduldig darauf, dass der Weihnachtsmann *vorbeikommt*.
 
-  Lors de son dernier passage chez sa grand-mère, il lui a rapporté des fleurs.
-  Als er das letzte Mal bei seiner Großmutter war, hat er ihr Blumen mitgebracht.
+  Son *passage* à la télévision a été un grand succès.
+  Sein *Fernsehauftritt* war ein großer Erfolg.
 
-  Son passage à la télévision a été un grand succès.
-  Sein Fernsehauftritt war ein großer Erfolg.
+  Le *passage* de l'enfance à l'âge adulte peut être difficile.
+  Der *Übergang* von der Kindheit zum Erwachsenenalter kann schwierig sein.
 
-  Le passage d’un élève en sixième est une étape importante dans sa scolarité.
-  Die Versetzung eines Schülers in die 6. Klasse ist ein wichtiger Schritt in seiner Schullaufbahn.
+  Je profite de mon *passage* à Paris pour visiter le Louvre.
+  Ich nutze meinen *Aufenthalt* in Paris, um den Louvre zu besuchen.
 
-  Le passage de l’enfance à l’adolescence est une période de grands changements.
-  Der Übergang von der Kindheit zum Jugendalter ist eine Zeit großer Veränderungen.
+  Le *passage* en sixième est une étape importante.
+  Die *Versetzung* in die sechste Klasse ist ein wichtiger Schritt.
 
-  Le passage clouté était bien éclairé et facile à repérer.
-  Der Fußgängerüberweg war gut beleuchtet und leicht zu erkennen.
+  Ce *passage* de la Bible est souvent mal interprété.
+  Diese *Stelle* in der Bibel wird oft falsch interpretiert.
 
-  Le passage souterrain permettait de traverser la rue en toute sécurité.
-  Die Straßenunterführung ermöglichte es, die Straße sicher zu überqueren.
+  Le *passage* à niveau est fermé, il faut attendre le train.
+  Der *Bahnübergang* ist geschlossen, wir müssen auf den Zug warten.
 
-  La passage commerçante était animée et pleine de boutiques.
-  Die Ladenpassage war lebhaft und voller Geschäfte.
+  Je suis juste de *passage* dans cette ville.
+  Ich bin nur auf der *Durchreise* in dieser Stadt.
+
+  Le *passage* clouté est situé devant l'école.
+  Der *Fußgängerüberweg* befindet sich vor der Schule.
+
+  Ce *passage* commerçant est très animé le weekend.
+  Diese *Ladenpassage* ist am Wochenende sehr belebt.
+
+  J'ai noté ce *passage* du livre qui m'a particulièrement touchée.
+  Ich habe mir diese *Stelle* des Buches notiert, die mich besonders berührt hat.
+
+  Le *passage* de la frontière s'est fait sans problème.
+  Das *Überschreiten* der Grenze verlief problemlos.
+
+  Au *passage* de l'avion, tout le monde a levé la tête.
+  Als das Flugzeug *vorbeiflog*, haben alle aufgeschaut.
+
+  Le *passage* à l'euro a été une étape importante.
+  Der *Übergang* zum Euro war ein wichtiger Schritt.
+
+  Les valises bloquent le *passage* dans le couloir.
+  Die Koffer versperren den *Durchgang* im Flur.
+
+  Ce pianiste exécute parfaitement ce *passage* difficile.
+  Dieser Pianist führt diese schwierige *Passage* perfekt aus.
+
+  La voiture a un problème au niveau du *passage* de roue.
+  Das Auto hat ein Problem am *Radkasten*.
+
+  Le *passage* du programme prend quelques minutes.
+  Der *Ablauf* des Programms dauert einige Minuten.
+
+  Le *passage* en première classe a été validé par le conseil.
+  Die *Versetzung* in die erste Klasse wurde vom Rat bestätigt.
+
+  Il a fait un *passage* remarqué sur scène hier soir.
+  Er hatte gestern Abend einen bemerkenswerten *Auftritt* auf der Bühne.
+
+  Le *passage* de témoin s'est fait en douceur.
+  Die *Übergabe* verlief reibungslos.
+
+  Ce *passage* protégé est très fréquenté aux heures de pointe.
+  Dieser *Fußgängerüberweg* wird zu den Stoßzeiten stark genutzt.
+
+  Le *passage* à vide de l'équipe a duré trois matchs.
+  Das *Formtief* der Mannschaft dauerte drei Spiele.
+
+  La tempête a rendu le *passage* impossible.
+  Der Sturm machte die *Durchfahrt* unmöglich.
+
+  Le *passage* de Vénus devant le Soleil est un événement rare.
+  Der *Durchgang* der Venus vor der Sonne ist ein seltenes Ereignis.
+
+  Un *passage* secret relie les deux bâtiments.
+  Ein geheimer *Durchgang* verbindet die beiden Gebäude.
+
+  Le *passage* à l'heure d'été se fera ce weekend.
+  Die *Umstellung* auf die Sommerzeit findet dieses Wochenende statt.
+
+  Cette boutique est située dans un *passage* couvert.
+  Dieser Laden befindet sich in einer überdachten *Passage*.
+
+  Le *passage* des camions est interdit dans cette rue.
+  Die *Durchfahrt* von Lastwagen ist in dieser Straße verboten.
+
+  Son *passage* dans notre entreprise a été bref mais marquant.
+  Sein *Aufenthalt* in unserem Unternehmen war kurz, aber eindrucksvoll.
+
+  Le *passage* des années n'a pas altéré leur amitié.
+  Der *Lauf* der Jahre hat ihre Freundschaft nicht beeinträchtigt.
+
+  Ce *passage* pour piétons est mal éclairé.
+  Dieser *Fußgängerüberweg* ist schlecht beleuchtet.
+
+  Le *passage* du témoin en athlétisme doit être précis.
+  Die *Übergabe* des Staffelstabs in der Leichtathletik muss präzise sein.
+
+  J'ai relu ce *passage* plusieurs fois pour le comprendre.
+  Ich habe diese *Stelle* mehrmals gelesen, um sie zu verstehen.
+
+  Le *passage* souterrain est fermé pour travaux.
+  Die *Unterführung* ist wegen Bauarbeiten gesperrt.
+
+  Il a marqué son *passage* en laissant un petit mot.
+  Er hat seinen *Besuch* mit einer kleinen Notiz markiert.
+
+  Le *passage* à l'acte a surpris tout le monde.
+  Die *Umsetzung* hat alle überrascht.
+
+  Ce *passage* musical est particulièrement difficile à jouer.
+  Diese musikalische *Passage* ist besonders schwer zu spielen.
+
+  Le *passage* des saisons rythme notre vie.
+  Der *Wechsel* der Jahreszeiten bestimmt unseren Lebensrhythmus.
+
+  Un *passage* à faune a été construit sous l'autoroute.
+  Eine *Wildbrücke* wurde unter der Autobahn gebaut.
+
+  Le *passage* de relais s'est mal passé pendant la course.
+  Die Staffel*übergabe* während des Rennens ist schiefgegangen.
+
+  Ce *passage* obligé fait partie de la formation.
+  Dieser *Pflichtabschnitt* gehört zur Ausbildung.
+
+  Le *passage* des marchandises à la douane prend du temps.
+  Die *Abfertigung* der Waren beim Zoll dauert lange.
+
+  Un *passage* piéton sera bientôt aménagé ici.
+  Hier wird bald ein *Fußgängerüberweg* eingerichtet.
+
+  Le *passage* à la retraite peut être difficile pour certains.
+  Der *Übergang* in den Ruhestand kann für manche schwierig sein.
+
+  Ce *passage* du film est devenu culte.
+  Diese *Stelle* des Films ist Kult geworden.
+
+  J'ai repéré un *passage* intéressant dans cet article.
+  Ich habe eine interessante *Stelle* in diesem Artikel entdeckt.
+
+  Le *passage* de la lumière à travers le vitrail est magnifique.
+  Der *Durchgang* des Lichts durch das Kirchenfenster ist wunderschön.
+
+  Le *passage* d'essai du logiciel s'est bien déroulé.
+  Der *Testlauf* der Software verlief gut.
+
+  Ce petit *passage* entre les maisons mène au parc.
+  Dieser kleine *Durchgang* zwischen den Häusern führt zum Park.
+
+  Sur son *passage*, les gens applaudissaient.
+  Auf seinem *Weg* klatschten die Leute.
+
+  Le *passage* de 1999 à 2000 a causé beaucoup d'inquiétudes.
+  Der *Übergang* von 1999 zu 2000 hat viele Sorgen bereitet.
+
+  Le *passage* du Tour de France attire toujours la foule.
+  Die *Durchfahrt* der Tour de France zieht immer viele Menschen an.
+
+  Ce *passage* commercial est très fréquenté.
+  Diese *Ladenpassage* wird stark frequentiert.
+
+  Notre *passage* en mer a été mouvementé.
+  Unsere *Überfahrt* war turbulent.
+
+  Un *passage* dérobé permettait de fuir le château.
+  Ein verborgener *Durchgang* ermöglichte die Flucht aus dem Schloss.
+
+  Le *passage* du col est dangereux en hiver.
+  Die *Überquerung* des Passes ist im Winter gefährlich.
+
+  Ce *passage* à niveau est particulièrement dangereux.
+  Dieser *Bahnübergang* ist besonders gefährlich.
+
+  Le *passage* de la comète sera visible ce soir.
+  Der *Durchgang* des Kometen wird heute Abend sichtbar sein.
+
+  Il faut prévoir un *passage* pour les câbles.
+  Man muss einen *Durchgang* für die Kabel vorsehen.
+
+  Le *passage* des troupes a marqué l'histoire de la ville.
+  Der *Durchzug* der Truppen hat die Geschichte der Stadt geprägt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

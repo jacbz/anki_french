@@ -13,23 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai aussi travaillé dans le monde financier.
-  Ich habe auch in der Finanzwelt gearbeitet.
+  J'ai aussi travaillé dans le monde *financier*.
+  Ich habe auch in der *Finanz*welt gearbeitet.
 
-  Il travaille dans le secteur financier.
-  Er arbeitet im Finanzsektor.
+  Les *financiers* et les banquiers se réunissent chaque année à Davos.
+  Die *Finanziers* und Banker treffen sich jedes Jahr in Davos.
 
-  Le grand financier a fait fortune grâce à des investissements judicieux.
-  Der Finanzjongleur hat durch kluge Investitionen ein Vermögen gemacht.
+  La situation *financière* de l'entreprise s'est améliorée depuis l'année dernière.
+  Die *finanzielle* Lage des Unternehmens hat sich seit letztem Jahr verbessert.
 
-  L'établissement financier a accordé un prêt à l'entreprise.
-  Das Geldinstitut hat der Firma einen Kredit gewährt.
+  Le directeur *financier* a présenté le nouveau budget ce matin.
+  Der *Finanz*direktor hat heute Morgen das neue Budget vorgestellt.
 
-  L'entreprise a connu des difficultés financières après la crise économique.
-  Die Firma hatte nach der Wirtschaftskrise Geldschwierigkeiten.
+  La crise *financière* de 2008 a eu des répercussions mondiales.
+  Die *Finanz*krise von 2008 hatte weltweite Auswirkungen.
 
-  Les soucis financiers l'ont poussé à prendre un deuxième emploi.
-  Die Geldsorgen haben ihn dazu gebracht, einen zweiten Job anzunehmen.
+  Ma mère travaille comme analyste *financière* dans une grande banque.
+  Meine Mutter arbeitet als *Finanz*analystin in einer großen Bank.
+
+  Le groupe *financier* a acquis plusieurs petites entreprises cette année.
+  Die *Finanz*gruppe hat dieses Jahr mehrere kleine Unternehmen aufgekauft.
+
+  As-tu des difficultés *financières* en ce moment ?
+  Hast du zurzeit *finanzielle* Schwierigkeiten?
+
+  Notre conseiller *financier* nous a donné d'excellents conseils pour notre retraite.
+  Unser *Finanz*berater hat uns ausgezeichnete Ratschläge für unsere Rente gegeben.
+
+  Le scandale *financier* a fait la une de tous les journaux.
+  Der *Finanz*skandal war auf allen Titelseiten zu lesen.
+
+  Les marchés *financiers* sont très volatils cette semaine.
+  Die *Finanz*märkte sind diese Woche sehr unbeständig.
+
+  Il est devenu un grand *financier* grâce à ses investissements intelligents.
+  Er ist durch seine klugen Investitionen zu einem großen *Finanzier* geworden.
+
+  La réforme *financière* sera mise en place dès janvier prochain.
+  Die *Finanz*reform wird ab nächstem Januar umgesetzt.
+
+  Mon fils adore les *financiers* aux amandes de cette pâtisserie.
+  Mein Sohn liebt die Mandel*financiers* aus dieser Konditorei.
+
+  L'équilibre *financier* du pays est menacé par l'inflation.
+  Das *finanzielle* Gleichgewicht des Landes ist durch die Inflation bedroht.
+
+  Le poulet à la *financière* est une spécialité de ce restaurant.
+  Das Huhn nach *Finanziers*art ist eine Spezialität dieses Restaurants.
+
+  Les opérations *financières* seront suspendues pendant les fêtes.
+  Die *Finanz*geschäfte werden während der Feiertage ausgesetzt.
+
+  Cette place *financière* est l'une des plus importantes d'Europe.
+  Dieser *Finanz*platz ist einer der wichtigsten in Europa.
+
+  Le journal publie une chronique *financière* chaque dimanche.
+  Die Zeitung veröffentlicht jeden Sonntag eine *Finanz*kolumne.
+
+  L'établissement *financier* a ouvert une nouvelle succursale.
+  Das *Finanz*institut hat eine neue Filiale eröffnet.
+
+  Ses soucis *financiers* l'empêchent de dormir la nuit.
+  Seine *Geld*sorgen halten ihn nachts wach.
+
+  Notre situation *financière* nous permet d'acheter une maison.
+  Unsere *finanzielle* Situation erlaubt uns, ein Haus zu kaufen.
+
+  Le secteur *financier* emploie des milliers de personnes.
+  Der *Finanz*sektor beschäftigt tausende Menschen.
+
+  L'oligarchie *financière* contrôle une grande partie de l'économie.
+  Die *Finanz*oligarchie kontrolliert einen großen Teil der Wirtschaft.
+
+  La législation *financière* a été considérablement modifiée.
+  Die *Finanz*gesetzgebung wurde erheblich geändert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

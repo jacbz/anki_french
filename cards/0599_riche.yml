@@ -13,53 +13,161 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle est jolie, riche, mince… et amoureuse de mon mari.
-  Sie ist hübsch, reich, schlank ... Und in meinen Mann verliebt.
+  Elle est jolie, *riche*, mince… et amoureuse de mon mari.
+  Sie ist hübsch, *reich*, schlank... und in meinen Mann verliebt.
 
-  Il est très riche.
-  Er ist sehr reich.
+  "C'est une *riche* idée que tu as eue là !"
+  "Das ist eine *großartige* Idee, die du da hattest!"
 
-  Tu es très riche.
-  Du bist sehr reich.
+  Mon oncle est devenu *riche* grâce à ses investissements immobiliers.
+  Mein Onkel ist durch seine Immobilieninvestitionen *reich* geworden.
 
-  Je sais que vous êtes riche.
-  Ich weiß, dass Sie reich sind.
+  Les sols de cette région sont particulièrement *riches*.
+  Die Böden dieser Region sind besonders *fruchtbar*.
 
-  Je sais que tu veux être riche.
-  Ich weiß, dass du reich sein willst.
+  Cette sauce est trop *riche* pour mon goût.
+  Diese Soße ist zu *gehaltvoll* für meinen Geschmack.
 
-  Il est riche, mais il n’est pas heureux.
-  Er ist reich, aber nicht glücklich.
+  Le musée possède une *riche* collection d'art moderne.
+  Das Museum besitzt eine *reichhaltige* Sammlung moderner Kunst.
 
-  Cette salade est riche en calories, mais aussi en vitamines.
-  Diese Salat ist kalorienreich, aber auch vitaminreich.
+  Ce roman est *riche* en rebondissements.
+  Dieser Roman ist *reich* an Wendungen.
 
-  Le nouveau riche a acheté une voiture de sport rouge et une villa sur la côte.
-  Der Neureiche hat sich einen roten Sportwagen und eine Villa an der Küste gekauft.
+  Les yaourts entiers sont plus *riches* en calories que les yaourts allégés.
+  Vollfette Joghurts sind *kalorien*reicher als fettarme Joghurts.
 
-  Il a fait riche avec ses investissements dans les nouvelles technologies.
-  Er hat durch seine Investitionen in neue Technologien viel Geld gemacht.
+  Il est *riche* comme Crésus !
+  Er ist *reich* wie Krösus!
 
-  Le discours du président était riche de contradictions.
-  Die Rede des Präsidenten war voller Widersprüche.
+  Cette région est *riche* en minerais.
+  Diese Region ist *reich* an Bodenschätzen.
 
-  Ce yaourt est riche en substances nutritives, ce qui en fait un aliment sain.
-  Dieser Joghurt ist nährstoffreich, was ihn zu einem gesunden Lebensmittel macht.
+  Les *riches* ont parfois du mal à comprendre les problèmes des pauvres.
+  Die *Reichen* haben manchmal Schwierigkeiten, die Probleme der Armen zu verstehen.
 
-  L'Afrique est un continent riche en minerai.
-  Afrika ist ein Kontinent, der reich an Erz ist.
+  Le gâteau au chocolat est très *riche* en sucre.
+  Der Schokoladenkuchen ist sehr *reich* an Zucker.
 
-  Le Brésil est un pays riche en matières premières.
-  Brasilien ist ein rohstoffreiches Land.
+  Cette expérience a été *riche* d'enseignements.
+  Diese Erfahrung war sehr *lehrreich*.
 
-  Ce livre est riche d'enseignements sur l'histoire de la France.
-  Dieses Buch ist lehrreich über die Geschichte Frankreichs.
+  Les épinards sont *riches* en fer.
+  Spinat ist *reich* an Eisen.
 
-  L'apprentissage d'une nouvelle langue est riche en erreurs possibles.
-  Das Erlernen einer neuen Sprache ist fehlerträchtig.
+  "Ce nouveau sac *fait riche*, tu ne trouves pas ?"
+  "Diese neue Tasche *sieht teuer aus*, findest du nicht?"
 
-  Un voyage en Afrique est un voyage riche en aventures.
-  Eine Reise nach Afrika ist eine erlebnisreiche Reise.
+  La langue française est très *riche* en expressions idiomatiques.
+  Die französische Sprache ist sehr *wortreich* an idiomatischen Ausdrücken.
+
+  Cette terre est *riche* et fertile.
+  Dieser Boden ist *fruchtbar* und ertragreich.
+
+  Elle porte une robe en *riche* velours.
+  Sie trägt ein Kleid aus *kostbarem* Samt.
+
+  Les pays *riches* doivent aider les pays en développement.
+  Die *reichen* Länder müssen den Entwicklungsländern helfen.
+
+  Ce nouveau *riche* s'est acheté un yacht.
+  Dieser *Neureiche* hat sich eine Yacht gekauft.
+
+  La végétation est très *riche* dans cette forêt tropicale.
+  Die Vegetation ist sehr *üppig* in diesem Regenwald.
+
+  Cette sauce est *riche* en crème fraîche.
+  Diese Sauce ist *reich* an Sahne.
+
+  Le texte est *riche* de contradictions.
+  Der Text steckt *voller* Widersprüche.
+
+  Son voyage a été *riche* en aventures.
+  Seine Reise war *erlebnis*reich.
+
+  Ces fruits de mer sont *riches* en protéines.
+  Diese Meeresfrüchte sind *reich* an Proteinen.
+
+  La documentation sur ce sujet est très *riche*.
+  Die Dokumentation zu diesem Thema ist sehr *umfangreich*.
+
+  Elle a fait un *riche* mariage l'année dernière.
+  Sie hat letztes Jahr eine *reiche* Heirat gemacht.
+
+  Cette région est *riche* en traditions.
+  Diese Region ist *reich* an Traditionen.
+
+  Le miel est *riche* en antioxydants.
+  Honig ist *reich* an Antioxidantien.
+
+  "Ce *gosse de riche* ne connaît pas la valeur de l'argent."
+  "Dieses verwöhnte Kind *reicher* Eltern kennt den Wert des Geldes nicht."
+
+  Ces couleurs sont très *riches*.
+  Diese Farben sind sehr *kräftig*.
+
+  Cette moisson a été particulièrement *riche* cette année.
+  Die Ernte war dieses Jahr besonders *reich*.
+
+  Le quinoa est *riche* en protéines végétales.
+  Quinoa ist *reich* an pflanzlichen Proteinen.
+
+  Le spectacle était *riche* en émotions.
+  Die Show war *reich* an Emotionen.
+
+  Cette méthode est *riche* en erreurs possibles.
+  Diese Methode ist *fehler*trächtig.
+
+  Le lait maternel est *riche* en anticorps.
+  Muttermilch ist *reich* an Antikörpern.
+
+  Ce pays est *riche* en ressources naturelles.
+  Dieses Land ist *reich* an natürlichen Ressourcen.
+
+  Cette histoire est *riche* en rebondissements.
+  Diese Geschichte ist *reich* an Wendungen.
+
+  Les noix sont *riches* en oméga-3.
+  Nüsse sind *reich* an Omega-3.
+
+  Cette bibliothèque est très *riche* en ouvrages anciens.
+  Diese Bibliothek ist sehr *reich* an alten Werken.
+
+  Les agrumes sont *riches* en vitamine C.
+  Zitrusfrüchte sind *reich* an Vitamin C.
+
+  Cette région est *riche* en sites historiques.
+  Diese Region ist *reich* an historischen Stätten.
+
+  Son vocabulaire est très *riche*.
+  Sein Wortschatz ist sehr *reich*haltig.
+
+  Cette terre est *riche* en nutriments.
+  Dieser Boden ist *nährstoff*reich.
+
+  Le safran est une épice *riche* en saveurs.
+  Safran ist ein *gehalt*volles Gewürz.
+
+  Les légumineuses sont *riches* en fibres.
+  Hülsenfrüchte sind *reich* an Ballaststoffen.
+
+  Cette période a été *riche* en découvertes.
+  Diese Zeit war *reich* an Entdeckungen.
+
+  Cette sauce est trop *riche* pour un régime.
+  Diese Soße ist zu *gehaltvoll* für eine Diät.
+
+  L'avocat est un fruit *riche* en graisses saines.
+  Die Avocado ist eine Frucht *reich* an gesunden Fetten.
+
+  Cette exposition est *riche* en œuvres rares.
+  Diese Ausstellung ist *reich* an seltenen Werken.
+
+  Les *riches* héritiers habitent dans ce quartier.
+  Die *reichen* Erben wohnen in diesem Viertel.
+
+  Cette ville est *riche* en monuments historiques.
+  Diese Stadt ist *reich* an historischen Denkmälern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,41 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Préférez-vous que j’appelle la police?
-  Soll ich lieber die Polizei rufen?
+  *Préférez*-vous que j'appelle la police ?
+  *Möchten* Sie lieber, dass ich die Polizei rufe?
 
-  Je préfère le thé au café.
-  Ich ziehe Tee Kaffee vor.
+  Cette rose *préfère* les sols sablonneux.
+  Diese Rose *gedeiht* besonders gut in sandigen Böden.
 
-  Marie préfère son mari à son beau-frère.
-  Marie mag ihren Mann lieber als ihren Schwager.
+  Je *préfère* le thé au café le matin.
+  Ich *bevorzuge* morgens Tee statt Kaffee.
 
-  Les palmiers préfèrent un climat humide.
-  Palmen gedeihen besonders gut in feuchtem Klima.
+  Les enfants *préfèrent* jouer dehors qu'à l'intérieur.
+  Die Kinder *spielen* lieber draußen als drinnen.
 
-  Je préfère le vin rouge au vin blanc.
-  Ich bevorzuge Rotwein gegenüber Weißwein.
+  Elle *préfère* que nous venions dimanche.
+  Ihr ist es *lieber*, wenn wir am Sonntag kommen.
 
-  Mon grand-père préfère le champagne.
-  Mein Großvater bevorzugt Champagner.
+  Marie *préfère* Pierre à Jean.
+  Marie *mag* Pierre lieber als Jean.
 
-  J'aimerais beaucoup vivre en ville, mais je préfère vivre à la campagne.
-  Ich würde sehr gerne in der Stadt leben, aber ich bevorzuge es, auf dem Land zu leben.
+  Je me *préfère* avec les cheveux courts maintenant.
+  Ich *gefalle* mir jetzt besser mit kurzen Haaren.
 
-  Préférez-vous du thé ou du café?
-  Trinken Sie lieber Tee oder Kaffee?
+  Si vous *préférez*, nous pouvons reporter la réunion.
+  Wenn Sie es *vorziehen*, können wir das Meeting verschieben.
 
-  Je préfère aller me promener que d'aller au cinéma.
-  Ich gehe lieber spazieren als ins Kino.
+  L'orchidée *préfère* un climat humide.
+  Die Orchidee *gedeiht* besonders gut in feuchtem Klima.
 
-  Je préfère que tu le fasses.
-  Mir ist es lieber, wenn du das machst.
+  *Préférerais*-tu partir maintenant ou plus tard ?
+  Würdest du *lieber* jetzt oder später gehen?
 
-  Je te préfère avec les cheveux courts.
-  Mir gefällst du mit kurzen Haaren besser.
+  Les clients *préfèrent* payer par carte bancaire.
+  Die Kunden *zahlen* lieber mit Kreditkarte.
 
-  Si tu préfères, on peut prendre un taxi.
-  Wenn es dir lieber ist, können wir ein Taxi nehmen.
+  Je *préfère* de beaucoup la campagne à la ville.
+  Ich *ziehe* das Land der Stadt bei weitem vor.
+
+  Cette année, ils ont *préféré* partir en train.
+  Dieses Jahr sind sie *lieber* mit dem Zug gefahren.
+
+  Les pandas *préfèrent* les forêts de bambous.
+  Pandas *leben* lieber in Bambuswäldern.
+
+  Je *préfère* que tu me dises la vérité.
+  Mir ist es *lieber*, wenn du mir die Wahrheit sagst.
+
+  Elle *préfère* lire plutôt que regarder la télévision.
+  Sie *liest* lieber, als fernzusehen.
+
+  Le chef *préfère* les ingrédients locaux.
+  Der Koch *bevorzugt* lokale Zutaten.
+
+  Je *préférerais* qu'on se voie demain.
+  Ich hätte es *lieber*, wenn wir uns morgen sehen würden.
+
+  Les experts *préfèrent* cette méthode à l'ancienne.
+  Die Experten *ziehen* diese Methode der alten vor.
+
+  Il s'est vu *préférer* un candidat moins expérimenté.
+  Man hat ihm einen weniger erfahrenen Kandidaten *vorgezogen*.
+
+  Je *préfère* travailler tôt le matin.
+  Ich *arbeite* lieber früh am Morgen.
+
+  Cette plante *préfère* l'ombre au soleil direct.
+  Diese Pflanze *gedeiht* besser im Schatten als in direkter Sonne.
+
+  Les adolescents *préfèrent* les réseaux sociaux aux e-mails.
+  Jugendliche *mögen* soziale Medien lieber als E-Mails.
+
+  Tu *préfères* qu'on mange ici ou au restaurant ?
+  *Ist* es dir lieber, wenn wir hier oder im Restaurant essen?
+
+  Elle *préfère* écouter les autres plutôt que parler.
+  Sie *hört* lieber zu, als selbst zu sprechen.
+
+  Les chats *préfèrent* dormir dans des endroits chauds.
+  Katzen *schlafen* lieber an warmen Orten.
+
+  Nous *préférons* voyager hors saison.
+  Wir *reisen* lieber außerhalb der Saison.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

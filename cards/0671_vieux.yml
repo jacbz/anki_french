@@ -13,41 +13,188 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ça fait trop longtemps, mon vieil ami.
-  Es ist zu lange her, mein alter Freund.
+  Ça fait trop longtemps, mon *vieil* ami.
+  Es ist zu lange her, mein *alter* Freund.
 
-  Mon grand-père est très vieux.
-  Mein Großvater ist sehr alt.
+  Cette *vieille* voiture me rappelle ma jeunesse.
+  Dieses *alte* Auto erinnert mich an meine Jugend.
 
-  La tradition exige un grand respect des vieux, c'est un devoir de la jeune génération.
-  Die Tradition verlangt eine große Achtung vor dem Alter, das ist eine Pflicht der jungen Generation.
+  Le respect des *vieux* est une valeur importante dans notre société.
+  Der Respekt vor den *Alten* ist ein wichtiger Wert in unserer Gesellschaft.
 
-  La maladie peut faire vieux très vite.
-  Krankheit kann einen sehr schnell alt machen.
+  "Comment va ton *vieux* ?"
+  "Wie geht's deinem *Alten*?"
 
-  Un couple de vieilles personnes s'est rencontré dans un café et a partagé de bons souvenirs.
-  Ein altes Ehepaar hat sich in einem Café getroffen und schöne Erinnerungen ausgetauscht.
+  Ces *vieux* meubles ont beaucoup de charme.
+  Diese *alten* Möbel haben viel Charme.
 
-  Il a pris un coup de vieux après avoir perdu son travail.
-  Er ist plötzlich alt geworden, nachdem er seinen Job verloren hat.
+  Il est *vieux* comme Mathusalem.
+  Er ist *alt* wie Methusalem.
 
-  Le directeur est un vieux de la vieille, il connaît l'entreprise depuis ses débuts.
-  Der Chef ist einer von der alten Garde, er kennt die Firma seit ihren Anfängen.
+  La *vieille* ville de Prague est magnifique.
+  Die *Alt*stadt von Prag ist wunderschön.
 
-  Il se fait vieux, mais il reste actif et plein d'énergie.
-  Er wird alt, aber er bleibt aktiv und voller Energie.
+  "Salut, ma *vieille* !" dit-il en souriant.
+  "Hallo, mein *Alter*!" sagte er lächelnd.
 
-  Vivre vieux, c'est une chance que tout le monde ne peut pas avoir.
-  Alt zu werden, ist ein Glück, das nicht jeder haben kann.
+  Ce vin *vieux* a un goût exquis.
+  Dieser *alte* Wein hat einen exquisiten Geschmack.
 
-  Il faut savoir faire du neuf avec du vieux, pour pouvoir progresser.
-  Aus Alt mach Neu, das muss man können, um voranzukommen.
+  Les *vieux* du village se réunissent chaque dimanche.
+  Die *Alten* des Dorfes treffen sich jeden Sonntag.
 
-  Le bébé est vieux d'un mois, il a déjà beaucoup grandi.
-  Das Baby ist einen Monat alt, es ist schon viel gewachsen.
+  Elle est plus *vieille* que moi de quatre ans.
+  Sie ist vier Jahre *älter* als ich.
 
-  Le Vieux et le Nouveau Monde se sont longtemps confrontés dans l'histoire.
-  Die Alte und die Neue Welt haben sich in der Geschichte lange Zeit gegenüber gestanden.
+  "*Mon vieux*, tu ne devineras jamais ce qui m'est arrivé !"
+  "*Mensch*, du wirst nie erraten, was mir passiert ist!"
+
+  Ce *vieil* arbre a vu passer des générations.
+  Dieser *alte* Baum hat Generationen kommen und gehen sehen.
+
+  Il a pris un coup de *vieux* après son divorce.
+  Er ist nach seiner Scheidung plötzlich *alt* geworden.
+
+  C'est un *vieux* de la *vieille*.
+  Er ist einer von der *alten* Garde.
+
+  Ces *vieilles* habitudes sont difficiles à perdre.
+  Diese *alten* Gewohnheiten sind schwer loszuwerden.
+
+  Le bon *vieux* temps me manque parfois.
+  Die gute *alte* Zeit fehlt mir manchmal.
+
+  Notre chat devient *vieux*.
+  Unsere Katze wird *alt*.
+
+  Ce pull *vieux* et usé reste mon préféré.
+  Dieser *alte* und abgetragene Pullover bleibt mein Lieblingsstück.
+
+  Les *vieux* journaux s'entassent dans le garage.
+  Die *alten* Zeitungen stapeln sich in der Garage.
+
+  Elle s'habille *vieux* pour son âge.
+  Sie kleidet sich für ihr Alter zu *alt*.
+
+  Un *petit vieux* marchait lentement dans le parc.
+  Ein *alter* Opa ging langsam durch den Park.
+
+  Cette histoire est *vieille* de vingt ans.
+  Diese Geschichte ist zwanzig Jahre *alt*.
+
+  Ce *vieil* homme a tant de sagesse à partager.
+  Dieser *alte* Mann hat so viel Weisheit zu teilen.
+
+  Sur ses *vieux* jours, il s'est mis à peindre.
+  In seinen *alten* Tagen hat er angefangen zu malen.
+
+  Ces meubles font *vieux* dans l'appartement moderne.
+  Diese Möbel wirken *alt* in der modernen Wohnung.
+
+  C'est un *vieux* garçon qui vit seul.
+  Er ist ein *alter* Junggeselle, der allein lebt.
+
+  Le *Vieux* Monde a tant d'histoire.
+  Die *Alte* Welt hat so viel Geschichte.
+
+  Cette *vieille* demeure a été magnifiquement restaurée.
+  Dieses *alte* Anwesen wurde wunderschön restauriert.
+
+  Les couleurs *vieux* rose dominent dans la pièce.
+  Die Farben *Alt*rosa dominieren den Raum.
+
+  "Mes *vieux* m'attendent pour Noël."
+  "Meine *Alten* erwarten mich zu Weihnachten."
+
+  Cette *vieille* coutume perdure encore aujourd'hui.
+  Dieser *alte* Brauch besteht noch heute fort.
+
+  Ce chien est déjà très *vieux*.
+  Dieser Hund ist schon sehr *alt*.
+
+  Les idées *vieux* jeu ne sont plus d'actualité.
+  *Alt*modische Ideen sind nicht mehr zeitgemäß.
+
+  Ces *vieilles* pierres racontent notre histoire.
+  Diese *alten* Steine erzählen unsere Geschichte.
+
+  Elle est devenue *vieille* avant l'âge.
+  Sie ist vor der Zeit *alt* geworden.
+
+  Il collectionne les *vieux* timbres.
+  Er sammelt *alte* Briefmarken.
+
+  Ce *vieil* ordinateur fonctionne encore parfaitement.
+  Dieser *alte* Computer funktioniert noch einwandfrei.
+
+  Les *vieilles* photos jaunies me font sourire.
+  Die vergilbten *alten* Fotos bringen mich zum Lächeln.
+
+  Cette *vieille* machine à écrire est un souvenir de famille.
+  Diese *alte* Schreibmaschine ist ein Familienandenken.
+
+  Un couple de *vieilles* personnes se promenait main dans la main.
+  Ein *altes* Ehepaar ging Hand in Hand spazieren.
+
+  Cette *vieille* maison a besoin de réparations.
+  Dieses *alte* Haus braucht Reparaturen.
+
+  Le *vieux* chêne a été foudroyé.
+  Die *alte* Eiche wurde vom Blitz getroffen.
+
+  Ce *vieil* ami m'a beaucoup aidé.
+  Dieser *alte* Freund hat mir sehr geholfen.
+
+  Cette *vieille* pendule ne marche plus.
+  Diese *alte* Wanduhr geht nicht mehr.
+
+  Il a retrouvé ses *vieilles* lettres d'amour.
+  Er hat seine *alten* Liebesbriefe wiedergefunden.
+
+  Cette *vieille* blessure le fait encore souffrir.
+  Diese *alte* Verletzung schmerzt ihn noch immer.
+
+  Ce *vieux* pull me tient bien chaud.
+  Dieser *alte* Pullover hält mich schön warm.
+
+  Les *vieux* livres ont une odeur particulière.
+  *Alte* Bücher haben einen besonderen Geruch.
+
+  Cette *vieille* histoire me fait encore rire.
+  Diese *alte* Geschichte bringt mich noch immer zum Lachen.
+
+  Ce *vieil* appareil photo ne marche plus.
+  Dieser *alte* Fotoapparat funktioniert nicht mehr.
+
+  Les *vieux* amis sont les meilleurs.
+  *Alte* Freunde sind die besten.
+
+  Cette *vieille* chanson me rappelle mon enfance.
+  Dieses *alte* Lied erinnert mich an meine Kindheit.
+
+  Le *vieux* chat dort au soleil.
+  Die *alte* Katze schläft in der Sonne.
+
+  Cette *vieille* recette vient de ma grand-mère.
+  Dieses *alte* Rezept stammt von meiner Großmutter.
+
+  Ces *vieux* jouets ont une valeur sentimentale.
+  Diese *alten* Spielzeuge haben einen sentimentalen Wert.
+
+  La *vieille* horloge sonne encore les heures.
+  Die *alte* Uhr schlägt noch die Stunden.
+
+  Ce *vieil* escalier grince terriblement.
+  Diese *alte* Treppe knarrt schrecklich.
+
+  Les *vieilles* traditions se perdent peu à peu.
+  Die *alten* Traditionen gehen nach und nach verloren.
+
+  Ces *vieux* outils appartenaient à mon père.
+  Diese *alten* Werkzeuge gehörten meinem Vater.
+
+  Cette *vieille* table a vu grandir trois générations.
+  Dieser *alte* Tisch hat drei Generationen aufwachsen sehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

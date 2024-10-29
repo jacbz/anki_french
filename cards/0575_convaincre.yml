@@ -13,32 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est bon, tu m’as convaincue.
-  Schon gut, du hast mich überzeugt.
+  C'est bon, tu m'as *convaincue*.
+  Okay, du hast mich *überzeugt*.
 
-  Il a réussi à me convaincre.
-  Er hat es geschafft, mich zu überzeugen.
+  Les arguments du professeur ont fini par *convaincre* tous les élèves.
+  Die Argumente des Lehrers haben am Ende alle Schüler *überzeugt*.
 
-  C’est mon travail de vous convaincre.
-  Es ist meine Aufgabe, Sie zu überzeugen.
+  Je ne suis pas encore *convaincu* que c'est la meilleure solution.
+  Ich bin noch nicht davon *überzeugt*, dass das die beste Lösung ist.
 
-  Il a réussi à convaincre sa sœur de lui prêter sa voiture pour le week-end.
-  Er hat es geschafft, seine Schwester davon zu überzeugen, ihm ihr Auto für das Wochenende zu leihen.
+  Il faut *convaincre* les gens de l'importance du recyclage.
+  Man muss die Menschen von der Wichtigkeit des Recyclings *überzeugen*.
 
-  Le vendeur a essayé de me convaincre de l'acheter, mais je n'étais pas convaincu.
-  Der Verkäufer hat versucht, mich zum Kauf zu überzeugen, aber ich war nicht überzeugt.
+  Elle s'est *convaincue* que son mari lui mentait.
+  Sie hat sich davon *überzeugt*, dass ihr Mann sie anlog.
 
-  Les policiers ont convaincu le suspect de son crime grâce aux preuves.
-  Die Polizisten haben den Verdächtigen aufgrund der Beweise seines Verbrechens überführt.
+  Le suspect a été *convaincu* de vol à main armée.
+  Der Verdächtige wurde des bewaffneten Raubüberfalls *überführt*.
 
-  Le professeur a tenté de convaincre ses élèves de l'importance de l'étude.
-  Der Professor hat versucht, seine Schüler von der Wichtigkeit des Studiums zu überzeugen.
+  Les preuves ont *convaincu* le jury de sa culpabilité.
+  Die Beweise haben die Jury von seiner Schuld *überzeugt*.
 
-  Elle s'est convaincue que le changement était nécessaire.
-  Sie hat sich von der Notwendigkeit des Wandels überzeugt.
+  Je vais te *convaincre* de venir à la fête samedi.
+  Ich werde dich *überreden*, am Samstag zur Party zu kommen.
 
-  Il s'est laissé convaincre par les arguments de son ami.
-  Er hat sich von den Argumenten seines Freundes überzeugen lassen.
+  Les scientifiques ont *convaincu* le public des dangers du changement climatique.
+  Die Wissenschaftler haben die Öffentlichkeit von den Gefahren des Klimawandels *überzeugt*.
+
+  Il s'est laissé *convaincre* par ses amis d'essayer le parachutisme.
+  Er hat sich von seinen Freunden *überzeugen* lassen, Fallschirmspringen auszuprobieren.
+
+  Les images satellite ont *convaincu* les experts de l'existence d'anciennes rivières sur Mars.
+  Die Satellitenbilder haben die Experten von der Existenz ehemaliger Flüsse auf dem Mars *überzeugt*.
+
+  Cette preuve l'a définitivement *convaincu* de trahison.
+  Dieser Beweis hat ihn endgültig des Verrats *überführt*.
+
+  J'essaie de me *convaincre* que tout ira bien.
+  Ich versuche mich davon zu *überzeugen*, dass alles gut wird.
+
+  Son sourire sincère m'a *convaincu* de lui faire confiance.
+  Sein ehrliches Lächeln hat mich *überzeugt*, ihm zu vertrauen.
+
+  Les médecins l'ont *convaincue* d'arrêter de fumer.
+  Die Ärzte haben sie *überredet*, mit dem Rauchen aufzuhören.
+
+  Il a été *convaincu* d'avoir menti sous serment.
+  Er wurde des Meineids *überführt*.
+
+  Elle a *convaincu* son patron de lui accorder une augmentation.
+  Sie hat ihren Chef *überzeugt*, ihr eine Gehaltserhöhung zu geben.
+
+  Nous devons *convaincre* les jeunes de l'importance de l'éducation.
+  Wir müssen die Jugendlichen von der Wichtigkeit der Bildung *überzeugen*.
+
+  L'avocat a réussi à *convaincre* le juge de l'innocence de son client.
+  Dem Anwalt ist es gelungen, den Richter von der Unschuld seines Mandanten zu *überzeugen*.
+
+  Je ne peux pas me *convaincre* que c'est la fin.
+  Ich kann mich nicht davon *überzeugen*, dass es das Ende ist.
+
+  Les sondages n'ont pas réussi à me *convaincre* du résultat.
+  Die Umfragen haben es nicht geschafft, mich vom Ergebnis zu *überzeugen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

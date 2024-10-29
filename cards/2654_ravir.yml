@@ -13,20 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis ravi de vous voir.
-  Ich freue mich, Sie zu sehen.
+  Je suis *ravi* de vous voir.
+  Ich bin *begeistert*, Sie zu sehen.
 
-  Cette musique me ravit.
-  Diese Musik entzückt mich.
+  Cette nouvelle me *ravit* !
+  Diese Nachricht *begeistert* mich!
 
-  Ta visite me ravit.
-  Ich freue mich sehr über deinen Besuch.
+  La musique classique *ravit* toujours mon âme.
+  Klassische Musik *verzückt* stets meine Seele.
 
-  La mort nous a ravi notre enfant, et nous sommes inconsolables.
-  Der Tod hat uns unser Kind entrissen, und wir sind untröstlich.
+  Le spectacle a *ravi* tous les spectateurs.
+  Die Show hat alle Zuschauer *begeistert*.
 
-  Ces vacances me ravissent, car le soleil brille et la mer est bleue.
-  Ich bin von diesen Ferien ganz begeistert, denn die Sonne scheint und das Meer ist blau.
+  Des bandits ont *ravi* les bijoux du musée.
+  Banditen haben die Juwelen aus dem Museum ge*raubt*.
+
+  La maladie lui a *ravi* sa jeunesse.
+  Die Krankheit hat ihm seine Jugend *entrissen*.
+
+  Elle danse *à ravir*.
+  Sie tanzt *wunderbar*.
+
+  Les terroristes ont *ravi* trois otages.
+  Die Terroristen haben drei Geiseln *entführt*.
+
+  Cette réponse m'a *ravi*.
+  Diese Antwort hat mich *begeistert*.
+
+  Les pirates ont *ravi* le navire marchand.
+  Die Piraten haben das Handelsschiff ge*raubt*.
+
+  Son sourire *ravit* tous ceux qui le voient.
+  Sein Lächeln *verzückt* alle, die es sehen.
+
+  Elle était *ravie* du cadeau.
+  Sie war von dem Geschenk *begeistert*.
+
+  Cette robe te va *à ravir*.
+  Dieses Kleid steht dir *wunderbar*.
+
+  Les voleurs ont *ravi* toutes nos économies.
+  Die Diebe haben all unsere Ersparnisse ge*raubt*.
+
+  Je suis *ravi* d'avoir pu vous aider.
+  Ich bin *erfreut*, dass ich Ihnen helfen konnte.
+
+  Son talent *ravit* le public depuis des années.
+  Ihr Talent *begeistert* das Publikum seit Jahren.
+
+  Cette découverte *ravit* les scientifiques.
+  Diese Entdeckung *begeistert* die Wissenschaftler.
+
+  La mort nous a *ravi* notre grand-père.
+  Der Tod hat uns unseren Großvater *entrissen*.
+
+  Le concert nous a tous *ravis*.
+  Das Konzert hat uns alle *begeistert*.
+
+  Elle chante *à ravir*.
+  Sie singt *wunderbar*.
+
+  Cette nouvelle recette *ravit* mes papilles.
+  Dieses neue Rezept *verzückt* meinen Gaumen.
+
+  Les critiques ont été *ravis* par ce film.
+  Die Kritiker waren von diesem Film *begeistert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

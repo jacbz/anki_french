@@ -11,48 +11,91 @@ Definition: |-
   <span class="disamb">le: </span>Stelle, Posten<br>
   <span class="disamb">la: </span>Post
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-
-# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
-# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
-Beispielsätze: |-
-  Le chef de poste haussa les épaules.
-  Der Stationsleiter zuckte mit den Schultern.
-
-  Je vais à la poste pour envoyer une lettre.
-  Ich gehe zur Post, um einen Brief zu schicken.
-
-  Je dois me rendre au poste de police.
-  Ich muss zur Polizeistation gehen.
-
-  Pierre aspire à un poste de diplomate, car il rêve de voyager et de représenter son pays à l'étranger.
-  Pierre strebt einen Diplomatenposten an, denn er träumt davon, zu reisen und sein Land im Ausland zu vertreten.
-
-  La lettre importante a été mise à la poste ce matin.
-  Der wichtige Brief wurde heute Morgen zur Post gebracht.
-
-  Monsieur Dupont est un employé fidèle au poste, il travaille dans l'entreprise depuis 25 ans.
-  Herr Dupont ist ein langjähriger Mitarbeiter, er arbeitet seit 25 Jahren im Unternehmen.
-
-  Le poste téléphonique a été débranché par erreur.
-  Der Telefonanschluss wurde versehentlich abgeklemmt.
-
-  Le poste d'aiguillage est situé à côté de la gare.
-  Das Stellwerk befindet sich neben dem Bahnhof.
-
-  Le poste de combat a été attaqué par l'ennemi.
-  Der Gefechtsstand wurde vom Feind angegriffen.
-
-  Le poste négatif a diminué de 10% au cours du dernier trimestre.
-  Der Minusposten ist im letzten Quartal um 10% gesunken.
-
-  Le poste de direction exige beaucoup de responsabilités.
-  Die Leitungsaufgabe erfordert viel Verantwortung.
-
-  Caroline a obtenu un poste de professeur dans un lycée.
-  Caroline hat eine Lehrerstelle an einem Gymnasium bekommen.
-
-  Il a un poste de professeur d'histoire dans un collège.
-  Er arbeitet als Geschichtslehrer an einer Realschule.
+Beispielsätze: "Le chef de *poste* haussa les épaules.\nDer *Stations*leiter zuckte\
+  \ mit den Schultern.\n\nElle a obtenu un *poste* de directrice dans une grande entreprise.\
+  \  \nSie hat eine Leitungs*position* in einem großen Unternehmen bekommen.\n\nMon\
+  \ père travaille à un *poste* de contrôle à la frontière.  \nMein Vater arbeitet\
+  \ an einer Kontroll*stelle* an der Grenze.\n\nIl a une *poste* de professeur à l'université\
+  \ de Lyon.  \nEr hat eine Lehrer*stelle* an der Universität von Lyon.\n\nJe dois\
+  \ mettre cette lettre à la *poste* avant 17 heures.  \nIch muss diesen Brief vor\
+  \ 17 Uhr zur *Post* bringen.\n\nLe soldat est resté à son *poste* pendant toute\
+  \ la nuit.  \nDer Soldat blieb die ganze Nacht auf seinem *Posten*.\n\nElle a trouvé\
+  \ un *poste* à temps complet dans une école privée.  \nSie hat eine Vollzeit*stelle*\
+  \ an einer Privatschule gefunden.\n\nLe *poste* de télévision ne fonctionne plus,\
+  \ il faut le réparer.  \nDer *Fernsehapparat* funktioniert nicht mehr, er muss repariert\
+  \ werden.\n\nIl a été muté à un nouveau *poste* au ministère des Finances.  \nEr\
+  \ wurde auf eine neue *Stelle* im Finanzministerium versetzt.\n\nNous avons besoin\
+  \ de plus de personnel pour ce *poste* de secours.  \nWir brauchen mehr Personal\
+  \ für diesen Rettungs*posten*.\n\nLe *poste* de pilotage d’un avion est un endroit\
+  \ fascinant.  \nDas *Cockpit* eines Flugzeugs ist ein faszinierender Ort.\n\nElle\
+  \ a été relevée de son *poste* de commandement après l'incident.  \nSie wurde nach\
+  \ dem Vorfall von ihrem Gefechts*stand* abgelöst.\n\nIl a toujours rêvé d'occuper\
+  \ un *poste* de diplomate à l'étranger.  \nEr hat immer davon geträumt, einen Diplomaten*posten*\
+  \ im Ausland zu besetzen.\n\nLe *poste* de police est juste à côté de la mairie.\
+  \  \nDie Polizei*wache* ist gleich neben dem Rathaus.\n\nIl a ajouté un nouveau\
+  \ *poste* au budget annuel.  \nEr hat einen neuen *Posten* zum Jahresbudget hinzugefügt.\n\
+  \nLe *poste* de douane est très fréquenté en été.  \nDie Zoll*station* ist im Sommer\
+  \ sehr stark frequentiert.\n\nElle a envoyé le colis par la *poste* ce matin.  \n\
+  Sie hat das Paket heute Morgen mit der *Post* verschickt.\n\nIl a été promu à un\
+  \ *poste* de direction après cinq ans de service.  \nEr wurde nach fünf Jahren Dienst\
+  \ in eine Führungs*position* befördert.\n\nLe technicien a réparé le *poste* de\
+  \ radio en quelques minutes.  \nDer Techniker hat den Radio*apparat* in wenigen\
+  \ Minuten repariert.\n\nElle a un *poste* d'observation idéal pour surveiller la\
+  \ faune.  \nSie hat einen perfekten Beobachtungs*posten*, um die Tierwelt zu beobachten.\n\
+  \nLe *poste* d'essence le plus proche est à dix kilomètres.  \nDie nächste Tank*stelle*\
+  \ ist zehn Kilometer entfernt.\n\nElle a été absente de son *poste* pendant plusieurs\
+  \ jours à cause de sa maladie.  \nSie war wegen ihrer Krankheit mehrere Tage von\
+  \ ihrem Arbeits*platz* abwesend.\n\nLe *poste* de commandement est situé à l'arrière\
+  \ de la base.  \nDer Gefechts*stand* befindet sich im hinteren Teil der Basis.\n\
+  \nIl a été affecté à un *poste* avancé près de la ligne de front.  \nEr wurde an\
+  \ einen vorgeschobenen *Posten* in der Nähe der Frontlinie versetzt.\n\nElle a reçu\
+  \ une lettre importante par la *poste* aujourd'hui.  \nSie hat heute einen wichtigen\
+  \ Brief per *Post* erhalten.\n\nL'équipe travaille sur un *poste* de huit heures.\
+  \  \nDas Team arbeitet in einem achtstündigen Schicht*system*.\n\nIl a été débité\
+  \ d'un *poste* supplémentaire sur son compte.  \nEin zusätzlicher *Posten* wurde\
+  \ von seinem Konto abgebucht.\n\nNous avons installé un nouveau *poste* téléphonique\
+  \ dans le bureau.  \nWir haben einen neuen Telefon*anschluss* im Büro installiert.\n\
+  \nElle a été promue à un *poste* de professeur titulaire.  \nSie wurde zur festen\
+  \ Lehrer*kraft* befördert.\n\nLe *poste* de secours est ouvert 24 heures sur 24.\
+  \  \nDie Rettungs*station* ist rund um die Uhr geöffnet.\n\nIl a quitté son *poste*\
+  \ à la fin de son contrat.  \nEr hat seine *Stelle* nach Ablauf seines Vertrags\
+  \ verlassen.\n\nLe *poste* d'écoute a capté des signaux suspects.  \nDer Lausch*posten*\
+  \ hat verdächtige Signale aufgefangen.\n\nElle a envoyé un colis en *poste* aérienne\
+  \ pour plus de rapidité.  \nSie hat ein Paket per Luft*post* verschickt, um es schneller\
+  \ zu machen.\n\nLe *poste* de pilotage du bateau est situé à l'avant.  \nDas Steuer*haus*\
+  \ des Bootes befindet sich vorne.\n\nIl a été nommé à un *poste* de responsabilité\
+  \ dans la nouvelle entreprise.  \nEr wurde in der neuen Firma auf eine verantwortungsvolle\
+  \ *Stelle* berufen.\n\nÀ vos *postes* ! L'ennemi approche !  \nAuf eure *Posten*!\
+  \ Der Feind nähert sich!\n\nLe *poste* de douane a été renforcé après l'incident.\
+  \  \nDie Zoll*stelle* wurde nach dem Vorfall verstärkt.\n\nElle a été transférée\
+  \ à un autre *poste* au sein de l'entreprise.  \nSie wurde auf eine andere *Stelle*\
+  \ innerhalb des Unternehmens versetzt.\n\nLe *poste* de commandement est en alerte\
+  \ maximale.  \nDer Gefechts*stand* ist in höchster Alarmbereitschaft.\n\nIl a obtenu\
+  \ un *poste* de stagiaire dans une grande société.  \nEr hat eine Praktikanten*stelle*\
+  \ in einem großen Unternehmen bekommen.\n\nLe *poste* frontière entre les deux pays\
+  \ est bien gardé.  \nDer Grenz*übergang* zwischen den beiden Ländern ist gut bewacht.\n\
+  \nElle a été relevée de son *poste* après une longue journée de travail.  \nSie\
+  \ wurde nach einem langen Arbeitstag von ihrem *Posten* abgelöst.\n\nLe *poste*\
+  \ d'incendie a été activé en cas d'urgence.  \nDie Feuerlösch*anlage* wurde im Notfall\
+  \ aktiviert.\n\nIl a été promu à un *poste* de chef d'équipe.  \nEr wurde in eine\
+  \ Teamleiter*position* befördert.\n\nLe *poste* de commandement des opérations de\
+  \ sauvetage est en place.  \nDie Rettungs*leitstelle* ist eingerichtet.\n\nElle\
+  \ a envoyé un chèque par la *poste* pour régler la facture.  \nSie hat einen Scheck\
+  \ per *Post* geschickt, um die Rechnung zu begleichen.\n\nLe *poste* de garde est\
+  \ situé à l'entrée principale.  \nDer Wach*posten* befindet sich am Haupteingang.\n\
+  \nIl a été nommé à un *poste* de direction après des années de service.  \nEr wurde\
+  \ nach vielen Dienstjahren auf eine Führungs*position* berufen.\n\nLe *poste* de\
+  \ secours est équipé pour les urgences médicales.  \nDie Rettungs*stelle* ist für\
+  \ medizinische Notfälle ausgerüstet.\n\nElle a déposé une réclamation au *poste*\
+  \ de police.  \nSie hat eine Beschwerde bei der Polizei*wache* eingereicht.\n\n\
+  Le *poste* de combat est prêt pour toute éventualité.  \nDer Gefechts*stand* ist\
+  \ für alle Eventualitäten bereit.\n\nElle a trouvé un *poste* dans une autre ville\
+  \ après avoir déménagé.  \nSie hat nach ihrem Umzug eine *Stelle* in einer anderen\
+  \ Stadt gefunden.\n\nLe *poste* de radio diffuse de la musique classique.  \nDer\
+  \ Radio*apparat* spielt klassische Musik.\n\nIl a été assigné à un *poste* de garde\
+  \ pour la nuit.  \nEr wurde für die Nacht auf einen Wach*posten* eingeteilt.\n\n\
+  Le *poste* de police local est toujours ouvert.  \nDie örtliche Polizei*wache* ist\
+  \ immer geöffnet."
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

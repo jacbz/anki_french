@@ -13,23 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il devient donc impératif de pouvoir bénéficier de plus d’argent.
-  Es wird daher zwingend notwendig, mehr Geld zur Verfügung zu haben.
+  Il devient donc impératif de pouvoir *bénéficier* de plus d'argent.
+  Es wird also zwingend notwendig, mehr Geld *nutzen* zu können.
 
-  Nous allons bénéficier d’une réduction.
-  Wir werden von einer Ermäßigung profitieren.
+  Cette entreprise *bénéficie* d'une excellente réputation sur le marché.
+  Dieses Unternehmen *profitiert* von einem ausgezeichneten Ruf auf dem Markt.
 
-  Les étudiants étrangers peuvent bénéficier de bourses d'études.
-  Ausländische Studenten können von Stipendien profitieren.
+  Les étudiants étrangers peuvent *bénéficier* d'une bourse d'études.
+  Ausländische Studierende können ein Stipendium *bekommen*.
 
-  La société a bénéficié d'un avantage fiscal pour la construction d'un nouveau bâtiment.
-  Das Unternehmen hat in den Genuss einer Steuervergünstigung für den Bau eines neuen Gebäudes gekommen.
+  Grâce à son expérience, elle a *bénéficié* d'une promotion rapide.
+  Dank ihrer Erfahrung hat sie von einer schnellen Beförderung *profitiert*.
 
-  Le juge a estimé que les circonstances atténuantes étaient suffisantes pour réduire la peine du condamné.
-  Der Richter befand, dass die mildernden Umstände ausreichend waren, um die Strafe des Verurteilten zu verringern.
+  L'accusé a *bénéficié* de circonstances atténuantes.
+  Der Angeklagte hat mildernde Umstände *zugesprochen bekommen*.
 
-  Le suspect a bénéficié d'un non-lieu après une longue enquête.
-  Das Verfahren gegen den Verdächtigen wurde nach einer langen Untersuchung eingestellt.
+  Les retraités *bénéficient* d'une réduction sur les transports publics.
+  Rentner *genießen* eine Ermäßigung für öffentliche Verkehrsmittel.
+
+  Ces nouvelles mesures *bénéficieront* à toute la population.
+  Diese neuen Maßnahmen werden der ganzen Bevölkerung *zugutekommen*.
+
+  Mon grand-père *bénéficie* d'une excellente santé pour son âge.
+  Mein Großvater *erfreut* sich für sein Alter einer ausgezeichneten Gesundheit.
+
+  Les petites entreprises peuvent *bénéficier* d'une aide financière de l'État.
+  Kleine Unternehmen können finanzielle Unterstützung vom Staat *erhalten*.
+
+  Notre équipe a *bénéficié* des conseils d'un expert.
+  Unser Team hat von den Ratschlägen eines Experten *profitiert*.
+
+  Elle *bénéficie* d'une formation continue dans son entreprise.
+  Sie *profitiert* von einer Weiterbildung in ihrem Unternehmen.
+
+  Les familles nombreuses *bénéficient* de réductions spéciales.
+  Große Familien *kommen* in den Genuss besonderer Ermäßigungen.
+
+  Le suspect a *bénéficié* d'un non-lieu faute de preuves.
+  Das Verfahren gegen den Verdächtigen wurde mangels Beweisen eingestellt.
+
+  Les régions côtières *bénéficient* d'un climat plus doux.
+  Die Küstenregionen *profitieren* von einem milderen Klima.
+
+  Nous avons *bénéficié* d'excellentes conditions météorologiques pendant nos vacances.
+  Wir haben während unseres Urlaubs von ausgezeichnetem Wetter *profitiert*.
+
+  Les employés *bénéficient* d'avantages en nature.
+  Die Mitarbeiter *erhalten* Sachleistungen.
+
+  Cette ville a *bénéficié* d'importants investissements ces dernières années.
+  Diese Stadt hat in den letzten Jahren von wichtigen Investitionen *profitiert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

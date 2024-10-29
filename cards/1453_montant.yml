@@ -13,41 +13,128 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On ignore le montant de ce contrat.
-  Die Höhe des Vertrags ist unbekannt.
+  On ignore le *montant* de ce contrat.
+  Man kennt den *Betrag* dieses Vertrags nicht.
 
-  Le montant de la facture est élevé.
-  Der Betrag der Rechnung ist hoch.
+  Le *montant* brut de mon salaire est de 3000 euros.
+  Der Brutto*betrag* meines Gehalts beträgt 3000 Euro.
 
-  Le salaire brut est le montant total que vous gagnez avant les impôts et les autres déductions.
-  Der Bruttolohn ist der Gesamtbetrag, den Sie vor Steuern und anderen Abzügen verdienen.
+  Il faut vérifier le *montant* bloqué sur votre compte.
+  Sie müssen den Sperr*betrag* auf Ihrem Konto überprüfen.
 
-  Le col montant est un type de col qui est haut et rigide.
-  Ein Stehkragen ist eine Art Kragen, der hoch und steif ist.
+  Un *montant* ferme a été fixé pour les travaux.
+  Ein Fest*betrag* wurde für die Arbeiten festgelegt.
 
-  Le montant bloqué est l'argent que vous ne pouvez pas retirer de votre compte bancaire.
-  Der Sperrbetrag ist das Geld, das Sie nicht von Ihrem Bankkonto abheben können.
+  La banque propose un *montant* garanti de 50 000 euros.
+  Die Bank bietet einen Garantie*betrag* von 50.000 Euro an.
 
-  Le montant ferme est le prix qui ne changera pas.
-  Der Festbetrag ist der Preis, der sich nicht ändern wird.
+  Le *montant* minimum du virement est de 100 euros.
+  Die Mindest*höhe* der Überweisung beträgt 100 Euro.
 
-  Le montant garanti est le montant que vous êtes sûr de recevoir.
-  Der Garantiebetrag ist der Betrag, den Sie sicher erhalten werden.
+  Le *montant* total des dégâts s'élève à 5000 euros.
+  Der Gesamt*schaden* beläuft sich auf 5000 Euro.
 
-  Le montant maximal est le montant le plus élevé que vous pouvez payer.
-  Der Spitzenbetrag ist der höchste Betrag, den Sie bezahlen können.
+  J'ai reçu le *montant* en espèces hier.
+  Ich habe den Bar*betrag* gestern erhalten.
 
-  Le montant maximum garanti est le montant maximum que la compagnie d'assurance paiera en cas de sinistre.
-  Die Haftungsobergrenze ist der Höchstbetrag, den die Versicherungsgesellschaft im Schadensfall zahlen wird.
+  Le *montant* de la porte est cassé.
+  Der Tür*pfosten* ist kaputt.
 
-  Le montant minimum est le montant le plus bas que vous pouvez payer.
-  Die Mindesthöhe ist der niedrigste Betrag, den Sie bezahlen können.
+  Les pompiers montent à l'échelle en tenant les *montants*.
+  Die Feuerwehrleute klettern die Leiter hoch und halten sich an den *Holmen* fest.
 
-  Le montant nominal est le montant qui est imprimé sur un billet de banque ou une obligation.
-  Der Nennbetrag ist der Betrag, der auf einem Geldschein oder einer Anleihe gedruckt ist.
+  Le ballon a frappé le *montant* gauche du but.
+  Der Ball hat den linken *Pfosten* des Tors getroffen.
 
-  Le montant total est le montant total de tous les coûts.
-  Die Gesamthöhe ist die Summe aller Kosten.
+  Le chemin *montant* mène au sommet de la colline.
+  Der *ansteigende* Weg führt zum Gipfel des Hügels.
+
+  Une colonne d'air *montant* traverse le bâtiment.
+  Eine *aufsteigende* Luftsäule durchzieht das Gebäude.
+
+  La marée *montante* commence à recouvrir la plage.
+  Die *Flut* beginnt den Strand zu bedecken.
+
+  La génération *montante* apporte de nouvelles idées.
+  Die *junge* Generation bringt neue Ideen ein.
+
+  Elle porte une robe *montante* en soie noire.
+  Sie trägt ein *hochgeschlossenes* Kleid aus schwarzer Seide.
+
+  Ces bottes *montantes* sont parfaites pour l'hiver.
+  Diese *hohen* Stiefel sind perfekt für den Winter.
+
+  Il portait une chemise à col *montant*.
+  Er trug ein Hemd mit *Steh*kragen.
+
+  La mélodie *montante* exprime la joie.
+  Die *aufsteigende* Melodie drückt Freude aus.
+
+  Le *montant* nominal de l'obligation est de 1000 euros.
+  Der Nominal*betrag* der Anleihe beträgt 1000 Euro.
+
+  La garde *montante* arrive à huit heures précises.
+  Die *dienstantretende* Wache kommt um Punkt acht Uhr.
+
+  Les *montants* de la fenêtre sont en chêne massif.
+  Die Fenster*pfosten* sind aus massiver Eiche.
+
+  Le *montant* total de la production a doublé.
+  Das Produktions*aufkommen* hat sich verdoppelt.
+
+  Un mouvement *montant* caractérise ce passage musical.
+  Eine *Aufwärts*bewegung kennzeichnet diese Musikpassage.
+
+  Le *montant* net sera versé demain.
+  Der Netto*betrag* wird morgen überwiesen.
+
+  Ce vin a beaucoup de *montant*.
+  Dieser Wein hat viel *Kraft*.
+
+  La technocratie *montante* influence les décisions politiques.
+  Die *jungen* Technokraten beeinflussen die politischen Entscheidungen.
+
+  Le *montant* total des pensions augmente chaque année.
+  Der Renten*bestand* steigt jedes Jahr.
+
+  Les *montants* du but ont été repeints en blanc.
+  Die Tor*pfosten* wurden weiß neu gestrichen.
+
+  Le *montant* maximum garanti est fixé par la loi.
+  Die *Haftungs*obergrenze ist gesetzlich festgelegt.
+
+  L'aérage *montant* assure la sécurité des mineurs.
+  Die *aufsteigende* Belüftung gewährleistet die Sicherheit der Bergleute.
+
+  Le *montant* du prêt sera versé en trois fois.
+  Der Darlehens*betrag* wird in drei Raten ausgezahlt.
+
+  La tranche *montante* est presque épuisée.
+  Die *aufsteigende* Abbauschicht ist fast erschöpft.
+
+  Il ajuste les *montants* du harnais de son cheval.
+  Er stellt die *Pfosten* des Zaumzeugs seines Pferdes ein.
+
+  Les *montants* soutiennent le toit de la galerie.
+  Die *Pfosten* stützen das Dach des Stollens.
+
+  Le *montant* de la comptabilité nationale est publié chaque trimestre.
+  Der Gesamtrechnungs*betrag* wird vierteljährlich veröffentlicht.
+
+  Ce bâtiment *montant* navigue vers l'écluse.
+  Dieses *aufwärts* fahrende Schiff steuert auf die Schleuse zu.
+
+  La taille *montante* permet une meilleure extraction du minerai.
+  Der *aufsteigende* Abbau ermöglicht eine bessere Erzgewinnung.
+
+  Le *montant* total de la garantie couvre tous les risques.
+  Die *Deckungs*summe deckt alle Risiken ab.
+
+  Les *montants* compensatoires sont calculés mensuellement.
+  Die Ausgleichs*beträge* werden monatlich berechnet.
+
+  Le *montant* des frais sera remboursé.
+  Die *Höhe* der Kosten wird erstattet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

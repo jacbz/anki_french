@@ -13,32 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai besoin d’accéder à ces données.
-  Ich muss auf diese Daten zugreifen.
+  J'ai besoin d'*accéder* à ces données.
+  Ich muss auf diese Daten *zugreifen*.
 
-  Je n’arrive pas à accéder à mon compte.
-  Ich kann nicht auf mein Konto zugreifen.
+  Par ce chemin, vous pouvez *accéder* facilement au château.
+  Auf diesem Weg können Sie leicht zum Schloss *gelangen*.
 
-  Jean a accédé à un poste de direction après plusieurs années de travail acharné.
-  Jean hat nach mehreren Jahren harter Arbeit eine Führungsposition erlangt.
+  Un long couloir permet d'*accéder* aux chambres.
+  Ein langer Flur *führt* zu den Zimmern.
 
-  L'escalier mène à la ville, mais il est interdit aux piétons.
-  Die Treppe führt in die Stadt, aber Fußgänger dürfen sie nicht benutzen.
+  On *accède* au grenier par une échelle en bois.
+  Man *gelangt* über eine Holzleiter zum Dachboden.
 
-  Après des années de travail acharné, elle a finalement accédé à son désir d'ouvrir un restaurant.
-  Nach jahrelanger harter Arbeit hat sie endlich ihren Wunsch erfüllt, ein Restaurant zu eröffnen.
+  Grâce à ses efforts, elle a *accédé* à un poste important.
+  Dank ihrer Anstrengungen hat sie eine wichtige Stelle *erlangt*.
 
-  Par ce chemin, on accède à la forêt, mais il est interdit aux véhicules motorisés.
-  Auf diesem Weg gelangt man zum Wald, aber er ist für Kraftfahrzeuge gesperrt.
+  La nouvelle route *accède* directement au centre-ville.
+  Die neue Straße *führt* direkt ins Stadtzentrum.
 
-  Pierre a accédé à la tête d'une entreprise en rachetant les parts des anciens actionnaires.
-  Pierre ist an die Unternehmensspitze gelangt, indem er die Anteile der ehemaligen Aktionäre aufgekauft hat.
+  Le jeune couple espère *accéder* à la propriété l'année prochaine.
+  Das junge Paar hofft, nächstes Jahr Wohnungseigentümer zu werden.
 
-  L'équipe a accédé en finale après avoir remporté tous ses matchs de poule.
-  Die Mannschaft ist ins Finale gekommen, nachdem sie alle Gruppenspiele gewonnen hat.
+  Après vingt ans de travail, il a finalement *accédé* à la direction.
+  Nach zwanzig Jahren Arbeit ist er endlich in die Führungsposition *aufgestiegen*.
 
-  Après des années de location, ils ont enfin accédé à la propriété.
-  Nach Jahren der Miete sind sie endlich Wohnungseigentümer geworden.
+  L'équipe nationale a *accédé* en finale du championnat.
+  Die Nationalmannschaft ist ins Finale der Meisterschaft *gekommen*.
+
+  Les parents ont *accédé* au désir de leur fille d'étudier à l'étranger.
+  Die Eltern haben dem Wunsch ihrer Tochter *zugestimmt*, im Ausland zu studieren.
+
+  Une rampe permet aux personnes handicapées d'*accéder* au bâtiment.
+  Eine Rampe ermöglicht es Menschen mit Behinderung, das Gebäude zu *betreten*.
+
+  Internet permet d'*accéder* à une multitude d'informations.
+  Das Internet ermöglicht es, auf eine Vielzahl von Informationen zu*zugreifen*.
+
+  Comment peut-on *accéder* à la terrasse ?
+  Wie kann man zur Terrasse *gelangen*?
+
+  Plusieurs pays africains ont *accédé* à l'indépendance dans les années 60.
+  Mehrere afrikanische Länder haben in den 60er Jahren die Unabhängigkeit *erlangt*.
+
+  Les étudiants peuvent *accéder* à la bibliothèque avec leur carte.
+  Die Studenten können mit ihrer Karte die Bibliothek *betreten*.
+
+  Le nouveau système permet d'*accéder* aux fichiers plus rapidement.
+  Das neue System ermöglicht es, schneller auf die Dateien zu*zugreifen*.
+
+  Elle a enfin *accédé* à son rêve de devenir médecin.
+  Sie hat sich ihren Traum endlich *erfüllt*, Ärztin zu werden.
+
+  Les chercheurs ont *accédé* à des documents historiques importants.
+  Die Forscher haben *Zugang* zu wichtigen historischen Dokumenten erhalten.
+
+  Pour *accéder* au sommet, il faut marcher pendant trois heures.
+  Um den Gipfel zu *erreichen*, muss man drei Stunden wandern.
+
+  Le gouvernement a *accédé* aux demandes des manifestants.
+  Die Regierung ist den Forderungen der Demonstranten *nachgekommen*.
+
+  Seuls les employés autorisés peuvent *accéder* à cette zone.
+  Nur befugte Mitarbeiter dürfen diesen Bereich *betreten*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,35 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis comme le capitaine d’un navire.
-  Ich bin wie der Kapitän eines Schiffes.
+  Je suis comme le capitaine d'un *navire*.
+  Ich bin wie der Kapitän eines *Schiffs*.
 
-  Le navire a quitté le port.
-  Das Schiff hat den Hafen verlassen.
+  Le *navire* à vapeur traverse lentement le port.
+  Das Dampf*schiff* durchquert langsam den Hafen.
 
-  Le capitaine contrôle tout le navire.
-  Der Kapitän hat die Kontrolle über das gesamte Schiff.
+  Un *navire* de commerce transporte des marchandises vers l'Asie.
+  Ein Handels*schiff* transportiert Waren nach Asien.
 
-  Le navire à vapeur, autrefois très utilisé, a été remplacé par des navires plus modernes.
-  Das Dampfschiff, das früher sehr verbreitet war, wurde durch modernere Schiffe ersetzt.
+  Le grand *navire* à moteur diesel consomme beaucoup de carburant.
+  Das große *Schiff* mit Dieselmotor verbraucht viel Treibstoff.
 
-  Le navire à rames était un moyen de transport important dans l'Antiquité.
-  Das Ruderschiff war in der Antike ein wichtiges Transportmittel.
+  L'équipage du vieux *navire* baleinier a dû être secouru hier soir.
+  Die Besatzung des alten Walfang*schiffs* musste gestern Abend gerettet werden.
 
-  Le navire à moteur diesel est plus économique que le navire à vapeur.
-  Das Schiff mit Dieselmotor ist wirtschaftlicher als das Dampfschiff.
+  Ce *navire* pétrolier peut transporter jusqu'à 300.000 tonnes de pétrole brut.
+  Dieser *Tanker* kann bis zu 300.000 Tonnen Rohöl transportieren.
 
-  Le navire de commerce transporte des marchandises du monde entier.
-  Das Handelsschiff transportiert Waren aus aller Welt.
+  Le *navire* bananier arrivera au port demain matin.
+  Das Bananen*schiff* wird morgen früh im Hafen ankommen.
 
-  Le navire baleinier était autrefois utilisé pour la chasse à la baleine.
-  Das Walfangschiff wurde früher für den Walfang eingesetzt.
+  Les passagers ont été évacués du *navire* en avarie.
+  Die Passagiere wurden von dem havarierten *Schiff* evakuiert.
 
-  Le navire bananier est un type de navire spécialisé dans le transport des bananes.
-  Der Bananendampfer ist eine Schiffstyp, der sich auf den Transport von Bananen spezialisiert hat.
+  Notre *navire* à rames a gagné la course traditionnelle.
+  Unser Ruder*schiff* hat das traditionelle Rennen gewonnen.
 
-  Le navire en avarie a été remorqué au port pour des réparations.
-  Das havarierte Schiff wurde zur Reparatur in den Hafen geschleppt.
+  Un *navire* de cinq cents tonneaux s'est échoué près de la côte.
+  Ein *Schiff* von fünfhundert Tonnen ist in der Nähe der Küste auf Grund gelaufen.
+
+  Le *navire*-école accueille vingt nouveaux apprentis marins.
+  Das Schul*schiff* nimmt zwanzig neue Lehrlinge auf.
+
+  Le *navire*-hôpital apporte une aide médicale aux régions isolées.
+  Das Krankenhaus*schiff* bringt medizinische Hilfe in abgelegene Regionen.
+
+  Le *navire* est resté à l'ancre pendant toute la tempête.
+  Das *Schiff* blieb während des ganzen Sturms vor Anker liegen.
+
+  Les ouvriers travaillent dur pour mâter ce nouveau *navire*.
+  Die Arbeiter arbeiten hart daran, dieses neue *Schiff* zu bemasten.
+
+  Ils ont fini d'équiper le *navire* juste avant le départ.
+  Sie haben das *Schiff* gerade noch vor der Abfahrt fertig ausgerüstet.
+
+  Le propriétaire a décidé de fréter son *navire* pour six mois.
+  Der Eigentümer hat beschlossen, sein *Schiff* für sechs Monate zu verchartern.
+
+  Les enfants chantaient "Il était un petit *navire*" sur la plage.
+  Die Kinder sangen "Es war ein kleines *Schiff*" am Strand.
+
+  Ce *navire* marchand transporte des conteneurs vers l'Amérique du Sud.
+  Dieses Handels*schiff* transportiert Container nach Südamerika.
+
+  Le capitaine a réussi à sauver son *navire* malgré la tempête.
+  Der Kapitän hat es geschafft, sein *Schiff* trotz des Sturms zu retten.
+
+  Les techniciens réparent le moteur du *navire* depuis ce matin.
+  Die Techniker reparieren seit heute Morgen den Motor des *Schiffs*.
+
+  Un nouveau *navire* charbonnier vient d'entrer dans le port.
+  Ein neues Kohle*schiff* ist gerade in den Hafen eingelaufen.
+
+  Le *navire* de charge peut transporter jusqu'à 5000 conteneurs.
+  Das Fracht*schiff* kann bis zu 5000 Container transportieren.
+
+  Nous avons observé un grand *navire* qui passait à l'horizon.
+  Wir haben ein großes *Schiff* beobachtet, das am Horizont vorbeifuhr.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

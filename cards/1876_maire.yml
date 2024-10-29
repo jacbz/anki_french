@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il a fait 3 mandats comme maire.
-  Er hat drei Amtszeiten als Bürgermeister absolviert.
+  Il a fait 3 mandats comme *maire*.
+  Er hat 3 Amtszeiten als *Bürgermeister* absolviert.
 
-  Le maire de la ville est très populaire.
-  Der Bürgermeister der Stadt ist sehr beliebt.
+  Notre *maire* a inauguré le nouveau centre culturel hier soir.
+  Unser *Bürgermeister* hat gestern Abend das neue Kulturzentrum eingeweiht.
 
-  Il connaît le maire.
-  Er kennt den Bürgermeister.
+  Le conseil municipal a élu une femme comme *maire* de la ville.
+  Der Gemeinderat hat eine Frau zur *Bürgermeisterin* der Stadt gewählt.
 
-  Êtes-vous le maire ?
-  Sind Sie der Bürgermeister?
+  Les *maires* des communes voisines se réunissent chaque mois.
+  Die *Bürgermeister* der Nachbargemeinden treffen sich jeden Monat.
+
+  Le *maire* et ses adjoints travaillent sur le nouveau budget.
+  Der *Bürgermeister* und seine Stellvertreter arbeiten am neuen Haushalt.
+
+  "On va passer devant le *maire* samedi prochain !"
+  "Wir werden nächsten Samstag zum *Standesamt* gehen!"
+
+  Madame la *maire* tiendra une permanence ce jeudi.
+  Frau *Bürgermeisterin* hat am Donnerstag Sprechstunde.
+
+  L'ancien *maire* du palais, Pépin le Bref, devint roi des Francs.
+  Der ehemalige *Hausmeier* Pippin der Kurze wurde König der Franken.
+
+  Le *maire* d'arrondissement organise une fête de quartier.
+  Der *Bezirksbürgermeister* organisiert ein Stadtteilfest.
+
+  Les administrés peuvent rencontrer leur *maire* sur rendez-vous.
+  Die Bürger können ihren *Bürgermeister* nach Terminvereinbarung treffen.
+
+  Comment s'appelle le nouveau *maire* de votre commune ?
+  Wie heißt der neue *Bürgermeister* Ihrer Gemeinde?
+
+  L'*Oberbürgermeister* de Munich sera présent à la cérémonie.
+  Der *Oberbürgermeister* von München wird bei der Zeremonie anwesend sein.
+
+  Le *maire* porte son écharpe tricolore lors des cérémonies officielles.
+  Der *Bürgermeister* trägt bei offiziellen Zeremonien seine dreifarbige Schärpe.
+
+  Ce député-*maire* cumule deux fonctions importantes.
+  Dieser *Bürgermeister* ist gleichzeitig Abgeordneter und übt damit zwei wichtige Ämter aus.
+
+  Les *maires* de France se réunissent chaque année à Paris.
+  Die *Bürgermeister* Frankreichs treffen sich jedes Jahr in Paris.
+
+  Notre *maire* a reçu la légion d'honneur pour ses services.
+  Unser *Bürgermeister* hat für seine Verdienste den Orden der Ehrenlegion erhalten.
+
+  Le nouveau *maire* prendra ses fonctions lundi prochain.
+  Der neue *Bürgermeister* wird nächsten Montag sein Amt antreten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

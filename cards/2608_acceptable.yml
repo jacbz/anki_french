@@ -13,17 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Une personne doit avoir un revenu acceptable.
-  Eine Person muss ein akzeptables Einkommen haben.
+  Une personne doit avoir un revenu *acceptable*.
+  Eine Person muss ein *annehmbares* Einkommen haben.
 
-  Cette solution est acceptable.
-  Diese Lösung ist akzeptabel.
+  Cette proposition n'est pas du tout *acceptable*.
+  Dieser Vorschlag ist überhaupt nicht *akzeptabel*.
 
-  Serait-ce acceptable?
-  Ist das akzeptabel?
+  Les notes de mon fils sont tout juste *acceptables* ce semestre.
+  Die Noten meines Sohnes sind dieses Semester gerade noch *akzeptabel*.
 
-  Aucune n’est acceptable.
-  Keine davon ist akzeptabel.
+  Je cherche une solution *acceptable* pour tout le monde.
+  Ich suche nach einer für alle *annehmbaren* Lösung.
+
+  La qualité de ce produit reste *acceptable* pour son prix.
+  Die Qualität dieses Produkts ist für den Preis noch *annehmbar*.
+
+  Les conditions de travail doivent être *acceptables*.
+  Die Arbeitsbedingungen müssen *akzeptabel* sein.
+
+  Cette phrase n'est pas *acceptable* en français standard.
+  Dieser Satz ist im Standardfranzösischen nicht *akzeptabel*.
+
+  Le délai proposé me semble *acceptable*.
+  Die vorgeschlagene Frist erscheint mir *annehmbar*.
+
+  Trouvez-vous ce compromis *acceptable* ?
+  Finden Sie diesen Kompromiss *akzeptabel*?
+
+  Son comportement n'était pas *acceptable* lors de la réunion.
+  Sein Verhalten während der Besprechung war nicht *akzeptabel*.
+
+  Le niveau sonore doit rester dans une limite *acceptable*.
+  Der Geräuschpegel muss in einem *annehmbaren* Rahmen bleiben.
+
+  Cette excuse n'est plus *acceptable* maintenant.
+  Diese Entschuldigung ist jetzt nicht mehr *akzeptabel*.
+
+  Les résultats du test sont à peine *acceptables*.
+  Die Testergebnisse sind kaum *annehmbar*.
+
+  Il faut trouver un prix *acceptable* pour les deux parties.
+  Man muss einen für beide Seiten *akzeptablen* Preis finden.
+
+  La performance de l'équipe était tout juste *acceptable*.
+  Die Leistung der Mannschaft war gerade noch *akzeptabel*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,47 +13,176 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai rompu le contrat. Je l’ai trompé.
-  Ich habe den Vertrag gebrochen. Ich habe ihn betrogen.
+  J'ai rompu le *contrat*. Je l'ai trompé.
+  Ich habe den *Vertrag* gebrochen. Ich habe ihn betrogen.
 
-  Nous avons signé un contrat avec eux.
-  Wir haben einen Vertrag mit ihnen unterschrieben.
+  Nous allons signer un *contrat* de location pour notre nouvel appartement.
+  Wir werden einen Miet*vertrag* für unsere neue Wohnung unterschreiben.
 
-  Nous avons un contrat.
-  Wir haben einen Vertrag.
+  Elle est *sous contrat* avec une maison d'édition depuis trois ans.
+  Sie ist seit drei Jahren vertraglich bei einem Verlag angestellt.
 
-  Cela faisait, pour ainsi dire, partie du contrat.
-  Dies war sozusagen Teil des Vertrags.
+  D'après le *contrat*, le loyer doit être payé avant le 5 du mois.
+  Laut *Vertrag* muss die Miete vor dem 5. des Monats bezahlt werden.
 
-  Pierre et Paul ont passé un contrat pour collaborer sur ce projet.
-  Pierre und Paul haben eine Abmachung getroffen, um bei diesem Projekt zusammenzuarbeiten.
+  La *durée du contrat* est fixée à deux ans.
+  Die *Vertragsdauer* beträgt zwei Jahre.
 
-  Ils ont passé un contrat écrit, qui précise leurs obligations respectives.
-  Sie haben einen schriftlichen Vertrag abgeschlossen, der ihre jeweiligen Pflichten genau festlegt.
+  Mon *contrat à durée déterminée* se termine le mois prochain.
+  Mein *befristeter Vertrag* läuft nächsten Monat aus.
 
-  Paul remplit son contrat en respectant les délais et les exigences du projet.
-  Paul hält seine Versprechungen ein, indem er die Fristen und Anforderungen des Projekts einhält.
+  L'entreprise lui a proposé un *contrat à durée indéterminée*.
+  Die Firma hat ihr einen *unbefristeten Vertrag* angeboten.
 
-  L'équipe de football est sous contrat avec un sponsor pour les trois prochaines saisons.
-  Das Fußballteam ist vertraglich an einen Sponsor gebunden für die nächsten drei Saisons.
+  Les deux parties ont signé un *contrat à engagement bilatéral*.
+  Beide Parteien haben einen *gegenseitig verpflichtenden Vertrag* unterschrieben.
 
-  Par contrat, le vendeur est tenu de livrer les marchandises dans les 15 jours suivant la commande.
-  Vertraglich ist der Verkäufer verpflichtet, die Ware innerhalb von 15 Tagen nach der Bestellung zu liefern.
+  Le *contrat d'approvisionnement* garantit la livraison mensuelle.
+  Der *Versorgungsvertrag* garantiert die monatliche Lieferung.
 
-  D'après le contrat, le loyer est payable le premier de chaque mois.
-  Laut Vertrag ist die Miete am ersten eines jeden Monats fällig.
+  Tu dois remplir ton *contrat* et finir ce projet avant vendredi.
+  Du musst deinen *Vertrag* erfüllen und dieses Projekt bis Freitag beenden.
 
-  La durée du contrat de location est de trois ans.
-  Die Dauer des Mietvertrags beträgt drei Jahre.
+  Ils ont négocié un *contrat exclusif* pour la distribution.
+  Sie haben einen *Exklusivvertrag* für den Vertrieb ausgehandelt.
 
-  La durée du contrat d'assurance de sa voiture est de deux ans.
-  Die Versicherungslaufzeit für sein Auto beträgt zwei Jahre.
+  Le *contrat* stipule que les heures supplémentaires seront payées double.
+  Der *Vertrag* legt fest, dass Überstunden doppelt bezahlt werden.
 
-  Un point du contrat stipule que les employés doivent porter une tenue de travail.
-  Ein Vertragspunkt besagt, dass die Mitarbeiter eine Arbeitskleidung tragen müssen.
+  *Par contrat*, nous sommes tenus de livrer avant la fin du mois.
+  *Vertraglich* sind wir verpflichtet, vor Ende des Monats zu liefern.
 
-  Il a signé un contrat individuel avec son employeur, qui définit ses conditions de travail.
-  Er hat einen Einzelvertrag mit seinem Arbeitgeber unterzeichnet, der seine Arbeitsbedingungen festlegt.
+  Les termes du *contrat* sont clairs et non négociables.
+  Die Bedingungen des *Vertrags* sind klar und nicht verhandelbar.
+
+  Il a signé un *contrat secret* avec une équipe étrangère.
+  Er hat einen *Geheimvertrag* mit einem ausländischen Team unterschrieben.
+
+  Le *contrat* précise les modalités de paiement.
+  Der *Vertrag* legt die Zahlungsbedingungen fest.
+
+  Nous devons examiner chaque point du *contrat* attentivement.
+  Wir müssen jeden *Vertrags*punkt sorgfältig prüfen.
+
+  Son *contrat* expire à la fin de l'année.
+  Sein *Vertrag* läuft am Ende des Jahres aus.
+
+  Le *contrat complémentaire* inclut de nouveaux avantages.
+  Der *Zusatzvertrag* beinhaltet neue Vorteile.
+
+  Les conditions du *contrat* sont très avantageuses.
+  Die *Vertrags*bedingungen sind sehr vorteilhaft.
+
+  Ils ont rompu le *contrat* avant son terme.
+  Sie haben den *Vertrag* vor seinem Ablauf gekündigt.
+
+  Le *contrat* a été rédigé par notre avocat.
+  Der *Vertrag* wurde von unserem Anwalt aufgesetzt.
+
+  Nous avons signé un *contrat* avec un nouveau fournisseur.
+  Wir haben einen *Vertrag* mit einem neuen Lieferanten unterschrieben.
+
+  Le *contrat* prévoit une période d'essai de trois mois.
+  Der *Vertrag* sieht eine Probezeit von drei Monaten vor.
+
+  La résiliation du *contrat* doit être notifiée par écrit.
+  Die Kündigung des *Vertrags* muss schriftlich erfolgen.
+
+  Nous devons agir conformément au *contrat*.
+  Wir müssen uns *vertragsgemäß* verhalten.
+
+  Le *contrat individuel* sera adapté à vos besoins.
+  Der *Einzelvertrag* wird an Ihre Bedürfnisse angepasst.
+
+  Elle a obtenu un *contrat* dans une grande entreprise.
+  Sie hat einen *Vertrag* bei einem großen Unternehmen bekommen.
+
+  Le *contrat* initial a été modifié plusieurs fois.
+  Der ursprüngliche *Vertrag* wurde mehrmals geändert.
+
+  Nous respectons tous les termes du *contrat*.
+  Wir halten alle *Vertrags*bedingungen ein.
+
+  Le *contrat* doit être renouvelé chaque année.
+  Der *Vertrag* muss jährlich erneuert werden.
+
+  Les clauses du *contrat* sont très strictes.
+  Die *Vertrags*klauseln sind sehr streng.
+
+  Il a refusé de signer le *contrat*.
+  Er hat sich geweigert, den *Vertrag* zu unterschreiben.
+
+  Le *contrat* précise les droits et obligations de chaque partie.
+  Der *Vertrag* legt die Rechte und Pflichten jeder Partei fest.
+
+  Nous avons besoin d'un avocat pour examiner le *contrat*.
+  Wir brauchen einen Anwalt, um den *Vertrag* zu prüfen.
+
+  Le *contrat* a été établi en deux exemplaires.
+  Der *Vertrag* wurde in zweifacher Ausfertigung erstellt.
+
+  Les termes du *contrat* sont négociables.
+  Die *Vertrags*bedingungen sind verhandelbar.
+
+  Le *contrat* sera signé la semaine prochaine.
+  Der *Vertrag* wird nächste Woche unterschrieben.
+
+  Elle n'a pas lu le *contrat* avant de le signer.
+  Sie hat den *Vertrag* nicht gelesen, bevor sie ihn unterschrieben hat.
+
+  Le *contrat* stipule une clause de confidentialité.
+  Der *Vertrag* enthält eine Vertraulichkeitsklausel.
+
+  Nous devons respecter les délais fixés par le *contrat*.
+  Wir müssen die im *Vertrag* festgelegten Fristen einhalten.
+
+  Le *contrat* peut être résilié avec un préavis de trois mois.
+  Der *Vertrag* kann mit einer Frist von drei Monaten gekündigt werden.
+
+  Les conditions du *contrat* sont trop restrictives.
+  Die *Vertrags*bedingungen sind zu restriktiv.
+
+  Le *contrat* a été traduit en plusieurs langues.
+  Der *Vertrag* wurde in mehrere Sprachen übersetzt.
+
+  Nous avons négocié un nouveau *contrat*.
+  Wir haben einen neuen *Vertrag* ausgehandelt.
+
+  Le *contrat* prend effet immédiatement.
+  Der *Vertrag* tritt sofort in Kraft.
+
+  Les deux parties ont approuvé le *contrat*.
+  Beide Parteien haben den *Vertrag* genehmigt.
+
+  Le *contrat* définit clairement les responsabilités.
+  Der *Vertrag* legt die Verantwortlichkeiten klar fest.
+
+  Nous devons prolonger le *contrat* avant son expiration.
+  Wir müssen den *Vertrag* vor seinem Ablauf verlängern.
+
+  Le *contrat* a été signé en présence de témoins.
+  Der *Vertrag* wurde in Anwesenheit von Zeugen unterschrieben.
+
+  Les termes du *contrat* sont assez flexibles.
+  Die *Vertrags*bedingungen sind ziemlich flexibel.
+
+  Le *contrat* inclut une clause de non-concurrence.
+  Der *Vertrag* enthält eine Wettbewerbsklausel.
+
+  Nous devons renégocier les termes du *contrat*.
+  Wir müssen die *Vertrags*bedingungen neu verhandeln.
+
+  Le *contrat* expire à la fin du mois.
+  Der *Vertrag* läuft am Ende des Monats aus.
+
+  Il faut lire attentivement le *contrat* avant de signer.
+  Man muss den *Vertrag* vor der Unterschrift sorgfältig lesen.
+
+  Les modifications du *contrat* doivent être approuvées par écrit.
+  Änderungen des *Vertrags* müssen schriftlich genehmigt werden.
+
+  Le *contrat* garantit une qualité de service minimale.
+  Der *Vertrag* garantiert eine minimale Servicequalität.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

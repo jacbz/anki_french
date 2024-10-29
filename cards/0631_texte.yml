@@ -13,17 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je donne un texte et l’artiste intervient comme il veut.
-  Ich gebe einen Text vor und der Künstler greift ein, wie er will.
+  Je donne un *texte* et l'artiste intervient comme il veut.
+  Ich gebe einen *Text* vor und der Künstler interpretiert ihn, wie er möchte.
 
-  J’ai écrit un texte sur l’histoire de la France.
-  Ich habe einen Text über die Geschichte Frankreichs geschrieben.
+  Le *texte* est imprimé en caractères trop petits pour être lu facilement.
+  Der *Text* ist in zu kleinen Buchstaben gedruckt, um leicht lesbar zu sein.
 
-  Le type de texte "lire Platon dans le texte" est un essai qui analyse les œuvres de Platon en se basant sur le texte original.
-  Die Textsorte "Platon im Original lesen" bezeichnet einen Essay, der die Werke Platons anhand des Originaltextes analysiert.
+  Pour bien comprendre Voltaire, il faut le lire dans le *texte*.
+  Um Voltaire richtig zu verstehen, muss man ihn im Original*text* lesen.
 
-  Le professeur a cité dans le texte un passage célèbre de "La République" de Platon.
-  Der Professor hat aus dem Original einen berühmten Abschnitt aus "Der Staat" von Platon zitiert.
+  J'ai utilisé un logiciel de traitement de *texte* pour rédiger mon rapport.
+  Ich habe eine *Text*verarbeitung benutzt, um meinen Bericht zu schreiben.
+
+  Le *texte* de la chanson parle d'amour et d'espoir.
+  Der *Text* des Liedes handelt von Liebe und Hoffnung.
+
+  L'acteur a oublié son *texte* pendant la représentation.
+  Der Schauspieler hat seinen *Text* während der Aufführung vergessen.
+
+  Les illustrations complètent parfaitement le *texte*.
+  Die Illustrationen ergänzen den *Text* perfekt.
+
+  Le professeur nous a donné un *texte* à analyser pour demain.
+  Der Lehrer hat uns einen *Text* zur Analyse für morgen aufgegeben.
+
+  Le *texte* original a été traduit en cinq langues.
+  Der Original*text* wurde in fünf Sprachen übersetzt.
+
+  Ce *texte* législatif entrera en vigueur le mois prochain.
+  Dieser Gesetzes*text* tritt nächsten Monat in Kraft.
+
+  Il y a trop de *texte* sur cette page, il faudrait plus d'espace blanc.
+  Auf dieser Seite ist zu viel *Text*, es bräuchte mehr Weißraum.
+
+  As-tu bien compris le *texte* de la dissertation ?
+  Hast du den Aufsatz*text* gut verstanden?
+
+  Je préfère lire les *textes* manuscrits plutôt qu'imprimés.
+  Ich lese lieber handgeschriebene *Texte* als gedruckte.
+
+  Le *texte* et la musique se complètent parfaitement dans cet opéra.
+  *Text* und Musik ergänzen sich perfekt in dieser Oper.
+
+  Nous étudions différents types de *textes* en classe de français.
+  Wir studieren verschiedene *Text*sorten im Französischunterricht.
+
+  Le *texte* de ce testament est très clair.
+  Der *Text* dieses Testaments ist sehr klar.
+
+  Ces *textes* choisis représentent bien l'époque romantique.
+  Diese ausgewählten *Texte* repräsentieren die romantische Epoche gut.
+
+  J'ai dû respecter scrupuleusement le *texte* source pour ma traduction.
+  Ich musste mich bei meiner Übersetzung genau an den Quellen*text* halten.
+
+  Le *texte* d'introduction résume bien l'ensemble du livre.
+  Der Einleitungs*text* fasst das gesamte Buch gut zusammen.
+
+  Elle cite toujours les *textes* originaux dans ses articles.
+  Sie zitiert in ihren Artikeln immer die Original*texte*.
+
+  Ce court *texte* publicitaire est très efficace.
+  Dieser kurze Werbe*text* ist sehr effektiv.
+
+  Les *textes* juridiques peuvent être difficiles à comprendre.
+  Juristische *Texte* können schwer zu verstehen sein.
+
+  Le *texte* de cette loi a été modifié plusieurs fois.
+  Der *Text* dieses Gesetzes wurde mehrmals geändert.
+
+  J'ai perdu mon *texte* juste avant la présentation.
+  Ich habe meinen *Text* kurz vor der Präsentation verloren.
+
+  Le professeur nous a distribué un nouveau *texte* à étudier.
+  Der Lehrer hat uns einen neuen *Text* zum Lernen ausgeteilt.
+
+  Les étudiants doivent analyser ce *texte* littéraire pour l'examen.
+  Die Studenten müssen diesen literarischen *Text* für die Prüfung analysieren.
+
+  Le *texte* de ce message est trop long pour un télégramme.
+  Der *Text* dieser Nachricht ist zu lang für ein Telegramm.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

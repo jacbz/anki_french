@@ -13,20 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Un héros lui aurait sauvé la vie.
-  Ein Held hätte ihm das Leben gerettet.
+  Un *héros* lui aurait sauvé la vie.
+  Ein *Held* soll ihm das Leben gerettet haben.
 
-  Elle adore ce film et voit en son actrice principale une véritable héroïne de cinéma.
-  Sie liebt diesen Film und sieht in seiner Hauptdarstellerin eine wahre Kinoheldin.
+  Le *héros* de ce roman est un personnage fascinant.
+  Der *Held* dieses Romans ist eine faszinierende Figur.
 
-  Jeanne d'Arc est considérée comme une héroïne nationale en France.
-  Jeanne d'Arc wird in Frankreich als Nationalheldin verehrt.
+  Les *héros* de la mythologie grecque ont accompli des exploits extraordinaires.
+  Die *Heroen* der griechischen Mythologie haben außergewöhnliche Taten vollbracht.
 
-  Le personnage principal de ce roman est une héroïne de roman classique.
-  Die Hauptfigur dieses Romans ist eine klassische Romanheldin.
+  L'*héroïne* de ce film d'action est très courageuse.
+  Die *Heldin* dieses Actionfilms ist sehr mutig.
 
-  Grâce à son courage, elle est devenue l'héroïne du jour.
-  Dank ihres Mutes wurde sie zur Heldin des Tages.
+  Ma grand-mère était une *héroïne* de la Résistance.
+  Meine Großmutter war eine *Heldin* des Widerstands.
+
+  Il est devenu le *héros* du jour après avoir sauvé trois enfants d'un incendie.
+  Er wurde zum *Helden* des Tages, nachdem er drei Kinder aus einem Feuer gerettet hatte.
+
+  Cette jeune sportive est devenue une *héroïne* nationale.
+  Diese junge Sportlerin ist zu einer National*heldin* geworden.
+
+  Les *héros* anonymes de cette catastrophe naturelle méritent notre respect.
+  Die anonymen *Helden* dieser Naturkatastrophe verdienen unseren Respekt.
+
+  Achille était le plus grand *héros* de la guerre de Troie.
+  Achilles war der größte *Held* des Trojanischen Krieges.
+
+  Mon petit frère considère les pompiers comme des *héros*.
+  Mein kleiner Bruder sieht Feuerwehrleute als *Helden* an.
+
+  L'*héroïne* principale de cette série est très attachante.
+  Die *Haupt*person dieser Serie ist sehr liebenswert.
+
+  Les *héros* de la science ont changé notre monde.
+  Die *Helden* der Wissenschaft haben unsere Welt verändert.
+
+  Cette *héroïne* de roman a inspiré des générations de lectrices.
+  Diese Roman*heldin* hat Generationen von Leserinnen inspiriert.
+
+  Il est mort en *héros* en protégeant ses camarades.
+  Er starb als *Held*, als er seine Kameraden beschützte.
+
+  Les *héros* de guerre oubliés reposent dans ce cimetière.
+  Die vergessenen Kriegs*helden* ruhen auf diesem Friedhof.
+
+  L'*héroïne* du feuilleton judiciaire a finalement été acquittée.
+  Die *Haupt*person des Gerichtskrimis wurde schließlich freigesprochen.
+
+  Marie Curie est une véritable *héroïne* de la science.
+  Marie Curie ist eine wahre Wissenschafts*heldin*.
+
+  Le petit garçon rêve de devenir un *héros* comme Superman.
+  Der kleine Junge träumt davon, ein *Held* wie Superman zu werden.
+
+  Cette infirmière est devenue l'*héroïne* de la pandémie.
+  Diese Krankenschwester wurde zur *Heldin* der Pandemie.
+
+  Guillaume Tell est considéré comme un *héros* national suisse.
+  Wilhelm Tell gilt als Schweizer National*held*.
+
+  L'*héroïne* de cette pièce de théâtre est très complexe.
+  Die *Haupt*figur dieses Theaterstücks ist sehr vielschichtig.
+
+  Les *héros* de la foi ont souvent sacrifié leur vie pour leurs convictions.
+  Die Glaubens*helden* haben oft ihr Leben für ihre Überzeugungen geopfert.
+
+  Notre fils est fan des *héros* de cinéma d'action.
+  Unser Sohn ist ein Fan von Action*helden*.
+
+  L'*héroïne* du moment fait la une des journaux.
+  Die *Heldin* der Stunde macht Schlagzeilen.
+
+  Les *héros* de Balzac représentent la société de leur époque.
+  Die *Haupt*figuren Balzacs repräsentieren die Gesellschaft ihrer Zeit.
+
+  Les vrais *héros* ne cherchent pas la gloire.
+  Wahre *Helden* suchen keinen Ruhm.
+
+  Cette femme courageuse est l'*héroïne* de la fête d'aujourd'hui.
+  Diese mutige Frau ist die *Heldin* der heutigen Feier.
+
+  Les *héros* de cette légende ont des pouvoirs magiques.
+  Die *Helden* dieser Legende haben magische Kräfte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

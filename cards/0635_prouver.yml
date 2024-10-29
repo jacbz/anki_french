@@ -13,35 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je n’ai rien besoin de prouver à qui que ce soit.
-  Ich muss niemandem etwas beweisen.
+  Je n'ai rien besoin de *prouver* à qui que ce soit.
+  Ich muss niemandem etwas *beweisen*.
 
-  Il doit prouver son innocence.
-  Er muss seine Unschuld beweisen.
+  L'analyse ADN a *prouvé* son innocence.
+  Die DNA-Analyse hat seine Unschuld *bewiesen*.
 
-  Comment le prouver ?
-  Wie kann man das beweisen?
+  Il n'est pas encore *prouvé* que ce médicament soit efficace.
+  Es ist noch nicht *erwiesen*, dass dieses Medikament wirksam ist.
 
-  Tu ne peux rien prouver.
-  Du kannst nichts beweisen.
+  Son sourire *prouve* qu'elle est heureuse.
+  Ihr Lächeln *beweist*, dass sie glücklich ist.
 
-  Je veux prouver que je peux le faire.
-  Ich möchte beweisen, dass ich das kann.
+  Comment puis-je vous *prouver* ma reconnaissance ?
+  Wie kann ich Ihnen meine Dankbarkeit *erweisen*?
 
-  Il est prouvé que c'est vrai, même si certains restent sceptiques.
-  Es ist erwiesen, dass es stimmt, auch wenn einige skeptisch bleiben.
+  Les scientifiques ont *prouvé* que le réchauffement climatique s'accélère.
+  Die Wissenschaftler haben *bewiesen*, dass sich die Erderwärmung beschleunigt.
 
-  La police a réussi à prouver à Jean que c'est exact, et il a avoué son crime.
-  Die Polizei hat es geschafft, Jean zu beweisen, dass es richtig ist, und er hat sein Verbrechen gestanden.
+  Il veut se *prouver* qu'il peut réussir tout seul.
+  Er will sich selbst *beweisen*, dass er es alleine schaffen kann.
 
-  Il n'est pas prouvé que ce soit vrai, même si de nombreux témoignages le soutiennent.
-  Es gibt keinen Beweis dafür, dass es stimmt, obwohl es viele Zeugenaussagen dafür gibt.
+  Cette théorie reste encore à *prouver*.
+  Diese Theorie bleibt noch zu *beweisen*.
 
-  La théorie de la relativité d'Einstein était à prouver à l'époque, mais elle est désormais considérée comme un fait scientifique.
-  Die Relativitätstheorie von Einstein war zu seiner Zeit noch zu beweisen, aber sie gilt heute als wissenschaftliche Tatsache.
+  Son comportement *prouve* sa mauvaise foi.
+  Sein Verhalten *beweist* seine Unaufrichtigkeit.
 
-  La qualité du travail de ce chef cuisinier ne plus être à prouver: il a déjà remporté de nombreuses récompenses.
-  Die Qualität der Arbeit dieses Küchenchefs bedarf keiner weiteren Beweise: Er hat bereits viele Auszeichnungen gewonnen.
+  L'expérience a *prouvé* que cette méthode fonctionne.
+  Das Experiment hat *bewiesen*, dass diese Methode funktioniert.
+
+  Il m'a *prouvé* point par point que j'avais tort.
+  Er hat mir Punkt für Punkt *bewiesen*, dass ich Unrecht hatte.
+
+  Sa réaction *prouve* qu'il ne savait rien.
+  Seine Reaktion *beweist*, dass er nichts wusste.
+
+  Elle n'a plus rien à *prouver* dans sa carrière.
+  Sie muss in ihrer Karriere nichts mehr *beweisen*.
+
+  Les faits *prouvent* le contraire de ce qu'il affirme.
+  Die Fakten *beweisen* das Gegenteil von dem, was er behauptet.
+
+  Cette découverte *prouve* l'existence d'anciennes civilisations.
+  Diese Entdeckung *beweist* die Existenz alter Zivilisationen.
+
+  Je vais te *prouver* que tu peux me faire confiance.
+  Ich werde dir *beweisen*, dass du mir vertrauen kannst.
+
+  Les témoins ont *prouvé* qu'il était ailleurs ce soir-là.
+  Die Zeugen haben *bewiesen*, dass er an jenem Abend woanders war.
+
+  Cette lettre *prouve* sa participation au projet.
+  Dieser Brief *beweist* seine Teilnahme am Projekt.
+
+  L'histoire nous a *prouvé* que la paix est fragile.
+  Die Geschichte hat uns *bewiesen*, dass der Frieden zerbrechlich ist.
+
+  La police doit *prouver* la culpabilité du suspect.
+  Die Polizei muss die Schuld des Verdächtigen *beweisen*.
+
+  Ces résultats *prouvent* l'efficacité du traitement.
+  Diese Ergebnisse *beweisen* die Wirksamkeit der Behandlung.
+
+  Il s'est *prouvé* qu'il pouvait surmonter sa peur.
+  Er hat sich *bewiesen*, dass er seine Angst überwinden kann.
+
+  Qui veut trop *prouver* ne prouve rien.
+  Wer zu viel *beweisen* will, beweist gar nichts.
+
+  Les études ont *prouvé* les bienfaits de l'exercice physique.
+  Studien haben den Nutzen körperlicher Bewegung *bewiesen*.
+
+  Cette erreur *prouve* son manque d'attention.
+  Dieser Fehler *beweist* seinen Mangel an Aufmerksamkeit.
+
+  L'authenticité du tableau reste à *prouver*.
+  Die Echtheit des Gemäldes bleibt noch zu *beweisen*.
+
+  Son succès *prouve* que le travail paie toujours.
+  Sein Erfolg *beweist*, dass sich Arbeit immer auszahlt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,32 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Son nom apparaissait dans une autre liste.
-  Sein Name tauchte in einer anderen Liste auf.
+  Son nom *apparaissait* dans une autre liste.
+  Sein Name *erschien* auf einer anderen Liste.
 
-  Il est apparu soudainement.
-  Er ist plötzlich aufgetaucht.
+  Un fantôme lui est *apparu* dans le couloir sombre.
+  Ein Geist ist ihr im dunklen Flur *erschienen*.
 
-  La vérité sur les événements de cette nuit-là a commencé à lui apparaître au fur et à mesure qu'il se souvenait des détails.
-  Die Wahrheit über die Ereignisse dieser Nacht wurde ihm nach und nach bewusst, als er sich an die Einzelheiten erinnerte.
+  La vérité finira par *apparaître* au grand jour.
+  Die Wahrheit wird ans *Licht* kommen.
 
-  Le monstre a soudainement apparu dans la forêt, effrayant tous les habitants du village.
-  Der Monster tauchte plötzlich im Wald auf und erschreckte alle Bewohner des Dorfes.
+  De nouveaux symptômes sont *apparus* ce matin.
+  Neue Symptome sind heute Morgen *aufgetreten*.
 
-  Le problème semblait grand à Pierre, mais il a décidé de l'affronter avec courage.
-  Das Problem schien Pierre groß, aber er entschied sich, es mutig anzugehen.
+  Il m'*apparaît* que vous avez fait une erreur.
+  Es *zeigt* sich, dass Sie einen Fehler gemacht haben.
 
-  La nouvelle de sa réussite a fait apparaître un sourire radieux sur le visage de sa mère.
-  Die Nachricht von seinem Erfolg ließ ein strahlendes Lächeln auf dem Gesicht seiner Mutter erscheinen.
+  Une silhouette mystérieuse *apparut* derrière la fenêtre.
+  Eine mysteriöse Gestalt *tauchte* hinter dem Fenster auf.
 
-  Il apparaît comme un ami sincère à tous ceux qui le connaissent.
-  Er erscheint allen, die ihn kennen, wie ein aufrichtiger Freund.
+  Les premiers signes de fatigue commencent à *apparaître*.
+  Die ersten Anzeichen von Müdigkeit beginnen *aufzutreten*.
 
-  Il apparaît que Sophie a menti à ses amis sur ses projets de voyage.
-  Es zeigt sich, dass Sophie ihre Freunde über ihre Reisepläne belogen hat.
+  Les mammifères sont *apparus* il y a des millions d'années.
+  Die Säugetiere sind vor Millionen Jahren *erschienen*.
 
-  Il a laissé apparaître une pointe de tristesse dans sa voix lorsqu'il a parlé de son départ.
-  Er ließ eine Spur von Traurigkeit in seiner Stimme durchklingen, als er von seinem Abschied sprach.
+  Cette tâche m'*apparaît* très difficile.
+  Diese Aufgabe *scheint* mir sehr schwierig.
+
+  Un sourire *apparut* sur son visage.
+  Ein Lächeln *erschien* auf ihrem Gesicht.
+
+  La solution m'est soudainement *apparue*.
+  Die Lösung ist mir plötzlich *bewusst* geworden.
+
+  Les montagnes *apparaissent* à travers la brume.
+  Die Berge *tauchen* durch den Nebel auf.
+
+  Le soleil *apparaît* entre les nuages.
+  Die Sonne *erscheint* zwischen den Wolken.
+
+  Des fissures commencent à *apparaître* sur le mur.
+  Risse beginnen an der Wand *aufzutreten*.
+
+  Son talent *apparaît* clairement dans cette œuvre.
+  Sein Talent *tritt* in diesem Werk deutlich zutage.
+
+  La comète *apparaîtra* dans le ciel ce soir.
+  Der Komet wird heute Abend am Himmel *erscheinen*.
+
+  Les résultats *apparaîtront* à l'écran dans quelques secondes.
+  Die Ergebnisse werden in wenigen Sekunden auf dem Bildschirm *erscheinen*.
+
+  Cette explication m'*apparaît* trop simpliste.
+  Diese Erklärung *erscheint* mir zu vereinfacht.
+
+  Une oasis *apparut* soudainement dans le désert.
+  Eine Oase *tauchte* plötzlich in der Wüste auf.
+
+  Les premiers bourgeons *apparaissent* au printemps.
+  Die ersten Knospen *erscheinen* im Frühling.
+
+  Des problèmes techniques sont *apparus* pendant le concert.
+  Technische Probleme sind während des Konzerts *aufgetreten*.
+
+  L'artiste *apparaîtra* sur scène dans un instant.
+  Der Künstler wird gleich auf der Bühne *auftreten*.
+
+  Son innocence *apparaît* maintenant évidente.
+  Seine Unschuld *tritt* nun zutage.
+
+  Une nouvelle étoile est *apparue* dans le ciel.
+  Ein neuer Stern ist am Himmel *erschienen*.
+
+  Les conséquences commencent à *apparaître*.
+  Die Folgen beginnen sich *abzuzeichnen*.
+
+  Le suspect *apparaît* sur la vidéo de surveillance.
+  Der Verdächtige *taucht* im Überwachungsvideo auf.
+
+  L'arc-en-ciel *apparut* après la pluie.
+  Der Regenbogen *erschien* nach dem Regen.
+
+  Cette décision m'*apparaît* comme la meilleure option.
+  Diese Entscheidung *erscheint* mir als die beste Option.
+
+  Les premiers dinosaures sont *apparus* il y a 245 millions d'années.
+  Die ersten Dinosaurier sind vor 245 Millionen Jahren *erschienen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

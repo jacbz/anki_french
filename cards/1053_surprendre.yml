@@ -13,29 +13,104 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mon garçon, parfois tu me surprends.
-  Junge, manchmal überraschst du mich.
+  Mon garçon, parfois tu me *surprends*.
+  Mein Junge, manchmal *überraschst* du mich.
 
-  Je veux le surprendre avec un cadeau.
-  Ich möchte ihn mit einem Geschenk überraschen.
+  Ils ont *surpris* un voleur dans leur maison hier soir.
+  Sie haben gestern Abend einen Dieb in ihrem Haus *ertappt*.
 
-  Pierre était surpris de la nouvelle, qu'il n'avait pas attendue.
-  Pierre war über die Nachricht überrascht, die er nicht erwartet hatte.
+  La nouvelle de son mariage m'a beaucoup *surprise*.
+  Die Nachricht von seiner Hochzeit hat mich sehr *überrascht*.
 
-  Il s'est surpris à chanter sous la douche.
-  Er hat sich dabei ertappt, wie er unter der Dusche sang.
+  Je me suis *surprise* à rêver de mon enfance.
+  Ich habe mich dabei *ertappt*, wie ich von meiner Kindheit träumte.
 
-  Le policier a surpris le voleur en train de cambrioler la maison.
-  Der Polizist hat den Dieb beim Einbruch in das Haus überrascht.
+  L'orage nous a *surpris* pendant notre randonnée.
+  Das Gewitter hat uns während unserer Wanderung *überrascht*.
 
-  Elle a surpris son mari dans son bureau, en train de parler au téléphone.
-  Sie hat ihren Mann in seinem Büro überrascht, als er am Telefon sprach.
+  Il a *surpris* une conversation entre ses parents.
+  Er hat ein Gespräch zwischen seinen Eltern *mitgehört*.
 
-  La pluie nous a surpris en pleine randonnée.
-  Der Regen hat uns mitten auf der Wanderung überrascht.
+  Marie s'est *surprise* à sourire en pensant à lui.
+  Marie hat sich dabei *ertappt*, wie sie beim Gedanken an ihn lächelte.
 
-  Il était surpris que Marie accepte de l'épouser.
-  Er war überrascht, dass Marie ihn heiraten wollte.
+  La mort l'a *surpris* dans son sommeil.
+  Der Tod hat ihn im Schlaf *überrascht*.
+
+  Je suis *surpris* que tu ne m'aies pas appelé plus tôt.
+  Ich bin *überrascht*, dass du mich nicht früher angerufen hast.
+
+  Les enfants ont essayé de *surprendre* le secret du cadeau de Noël.
+  Die Kinder haben versucht, das Geheimnis des Weihnachtsgeschenks *aufzudecken*.
+
+  Il s'est *surpris* à parler tout seul dans la rue.
+  Er hat sich dabei *ertappt*, wie er auf der Straße mit sich selbst sprach.
+
+  La police a *surpris* les criminels en flagrant délit.
+  Die Polizei hat die Verbrecher auf frischer Tat *ertappt*.
+
+  Son comportement étrange a *surpris* tous ses amis.
+  Sein seltsames Verhalten hat alle seine Freunde *überrascht*.
+
+  Nous l'avons *surprise* en train de lire notre journal intime.
+  Wir haben sie dabei *überrascht*, wie sie unser Tagebuch las.
+
+  Elle a *surpris* un sourire malicieux sur son visage.
+  Sie hat ein verschmitztes Lächeln in seinem Gesicht *herausgelesen*.
+
+  Le chat a *surpris* la souris dans la cuisine.
+  Die Katze hat die Maus in der Küche *überrascht*.
+
+  Je me suis *surpris* à aimer ce film que je pensais détester.
+  Ich habe mich dabei *ertappt*, wie ich diesen Film mochte, den ich zu hassen glaubte.
+
+  La pluie nous a *surpris* sans parapluie.
+  Der Regen hat uns ohne Regenschirm *überrascht*.
+
+  Il a été *surpris* de voir sa photo dans le journal.
+  Er war *überrascht*, sein Foto in der Zeitung zu sehen.
+
+  Les cambrioleurs ont été *surpris* par l'alarme.
+  Die Einbrecher wurden vom Alarm *überrascht*.
+
+  Elle s'est *surprise* à chanter sous la douche.
+  Sie hat sich dabei *ertappt*, wie sie unter der Dusche sang.
+
+  Nous avons *surpris* un renard dans notre jardin.
+  Wir haben einen Fuchs in unserem Garten *überrascht*.
+
+  Le professeur l'a *surpris* en train de tricher pendant l'examen.
+  Der Lehrer hat ihn beim Schummeln während der Prüfung *erwischt*.
+
+  Sa réaction m'a beaucoup *surprise*.
+  Seine Reaktion hat mich sehr *überrascht*.
+
+  Les soldats ont *surpris* l'ennemi pendant la nuit.
+  Die Soldaten haben den Feind in der Nacht *überrascht*.
+
+  Je me suis *surpris* à penser à mon ancien travail.
+  Ich habe mich dabei *ertappt*, wie ich an meinen alten Job dachte.
+
+  La nouvelle a *surpris* tout le monde dans l'entreprise.
+  Die Nachricht hat alle in der Firma *überrascht*.
+
+  Les journalistes ont *surpris* le couple dans un restaurant.
+  Die Journalisten haben das Paar in einem Restaurant *überrascht*.
+
+  Elle s'est *surprise* à pleurer devant ce film triste.
+  Sie hat sich dabei *ertappt*, wie sie bei diesem traurigen Film weinte.
+
+  Nous avons été *surpris* par la beauté du paysage.
+  Wir waren von der Schönheit der Landschaft *überrascht*.
+
+  Le bruit soudain l'a *surprise* dans son travail.
+  Das plötzliche Geräusch hat sie bei ihrer Arbeit *überrascht*.
+
+  Je suis *surpris* de te voir ici si tôt.
+  Ich bin *überrascht*, dich so früh hier zu sehen.
+
+  Les parents ont *surpris* les enfants en train de manger des bonbons.
+  Die Eltern haben die Kinder beim Naschen von Süßigkeiten *erwischt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

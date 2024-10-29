@@ -13,47 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je ne suis pas capable de répondre à votre question.
-  Ich bin nicht in der Lage, Ihre Frage zu beantworten.
+  Je ne suis pas *capable* de répondre à votre question.
+  Ich bin nicht *fähig*, Ihre Frage zu beantworten.
 
-  Je suis capable de le faire.
-  Ich bin fähig, es zu tun.
+  Elle est *capable* de réussir tous ses examens.
+  Sie ist *fähig*, alle ihre Prüfungen zu bestehen.
 
-  Tu ne seras jamais capable de garder un secret.
-  Du wirst nie in der Lage sein, ein Geheimnis zu bewahren.
+  Un bon manager doit être *capable* de prendre des décisions difficiles.
+  Ein guter Manager muss *fähig* sein, schwierige Entscheidungen zu treffen.
 
-  Le jeune garçon est capable de faire des additions et des soustractions.
-  Der junge Junge ist fähig, Additionen und Subtraktionen zu machen.
+  Cette salle est *capable* d'accueillir deux cents personnes.
+  Dieser Saal kann zweihundert Personen *aufnehmen*.
 
-  Une personne physique est juridiquement capable d'agir en justice.
-  Eine natürliche Person ist rechtsfähig, vor Gericht zu agieren.
+  "Il est bien *capable* d'avoir oublié notre rendez-vous !"
+  "Dem ist es durchaus *zuzutrauen*, dass er unseren Termin vergessen hat!"
 
-  Une personne âgée peut être déclarée incapable de juger par un médecin.
-  Eine ältere Person kann von einem Arzt für urteilsunfähig erklärt werden.
+  Nous cherchons une personne *capable* pour ce poste important.
+  Wir suchen eine *fähige* Person für diese wichtige Position.
 
-  Elle était incapable de voyager seule après son accident.
-  Sie war nach ihrem Unfall nicht in der Lage, alleine zu reisen.
+  Cette nouvelle technologie est *capable* de révolutionner l'industrie.
+  Diese neue Technologie ist *imstande*, die Industrie zu revolutionieren.
 
-  Il est capable de générosité et d'aide envers les autres.
-  Er ist zu Großzügigkeit und Hilfe gegenüber anderen fähig.
+  Je ne le croyais pas *capable* d'une telle générosité.
+  Ich hätte ihm eine solche Großzügigkeit nicht *zugetraut*.
 
-  Un grand artiste est capable de tout, il peut créer de l'art à partir de n'importe quoi.
-  Ein großer Künstler ist zu allem fähig, er kann Kunst aus allem kreieren.
+  Son amour est *capable* de déplacer des montagnes.
+  Seine Liebe kann Berge *versetzen*.
 
-  Le marché français est capable d'absorber une grande quantité de produits importés.
-  Der französische Markt ist in der Lage, eine große Menge an importierten Produkten zu absorbieren.
+  Il n'est pas encore *capable* de vivre seul.
+  Er ist noch nicht *fähig*, alleine zu leben.
 
-  Les citoyens français sont capables d'exercer une fonction publique, s'ils remplissent les conditions.
-  Französische Bürger sind in der Lage, eine öffentliche Funktion auszuüben, wenn sie die Voraussetzungen erfüllen.
+  Cette application est *capable* de traduire vingt langues.
+  Diese Anwendung ist *in der Lage*, zwanzig Sprachen zu übersetzen.
 
-  Un enfant n'est pas capable de commettre un délit avant un certain âge.
-  Ein Kind ist nicht in der Lage, ein Delikt zu begehen, bevor es ein bestimmtes Alter erreicht hat.
+  Es-tu *capable* de garder un secret ?
+  Bist du *fähig*, ein Geheimnis für dich zu behalten?
 
-  Toute personne physique est capable de contracter, sauf si elle est déclarée incapable.
-  Jede natürliche Person ist geschäftsfähig, es sei denn, sie ist für geschäftsunfähig erklärt worden.
+  Son fils est maintenant légalement *capable* de voter.
+  Ihr Sohn ist jetzt gesetzlich *berechtigt* zu wählen.
 
-  Un compte bancaire est capable de déposer de l'argent.
-  Ein Bankkonto ist in der Lage, Geld einzuzahlen.
+  Ce petit robot est *capable* d'apprendre de ses erreurs.
+  Dieser kleine Roboter ist *fähig*, aus seinen Fehlern zu lernen.
+
+  Notre équipe est *capable* de relever tous les défis.
+  Unser Team ist *fähig*, alle Herausforderungen zu meistern.
+
+  Il est devenu *capable* de courir un marathon.
+  Er ist *in der Lage* geworden, einen Marathon zu laufen.
+
+  Cette batterie est *capable* de durer toute la journée.
+  Diese Batterie ist *fähig*, den ganzen Tag zu halten.
+
+  Êtes-vous *capable* de résoudre ce problème ?
+  Sind Sie *in der Lage*, dieses Problem zu lösen?
+
+  Je la crois *capable* du meilleur comme du pire.
+  Ich halte sie für *fähig* zum Besten wie zum Schlimmsten.
+
+  Ce détail est *capable* de passer inaperçu.
+  Dieses Detail kann leicht *übersehen* werden.
+
+  Son programme est *capable* de plaire à tout le monde.
+  Sein Programm ist *geeignet*, allen zu gefallen.
+
+  C'est un garçon très *capable* qui ira loin.
+  Er ist ein sehr *fähiger* Junge, der es weit bringen wird.
+
+  Le nouveau moteur est *capable* d'atteindre 200 km/h.
+  Der neue Motor ist *in der Lage*, 200 km/h zu erreichen.
+
+  Cette femme est *capable* de diriger l'entreprise.
+  Diese Frau ist *fähig*, das Unternehmen zu leiten.
+
+  L'enfant n'est pas encore *capable* de lire.
+  Das Kind ist noch nicht *fähig* zu lesen.
+
+  Elle s'est montrée *capable* d'une grande patience.
+  Sie hat sich als sehr *geduldig* erwiesen.
+
+  Un esprit *capable* de réflexion critique est essentiel.
+  Ein zu kritischem Denken *fähiger* Geist ist wesentlich.
+
+  Les jeunes sont *capables* de changer le monde.
+  Die Jugendlichen sind *fähig*, die Welt zu verändern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

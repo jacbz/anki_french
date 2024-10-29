@@ -13,38 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Plus tôt on partira, mieux ce sera.
-  Je früher wir gehen, desto besser.
+  Plus *tôt* on partira, mieux ce sera.
+  Je *früher* wir aufbrechen, desto besser.
 
-  Je me lève tôt le matin.
-  Ich stehe früh am Morgen auf.
+  Je me lève *tôt* tous les matins pour faire du sport.
+  Ich stehe jeden Morgen *früh* auf, um Sport zu machen.
 
-  Désolé de vous appeler si tôt.
-  Tut mir leid, dass ich so früh anrufe.
+  Le bus part très *tôt* le matin.
+  Der Bus fährt am Morgen sehr *früh* ab.
 
-  Je ne pensais pas être là si tôt.
-  Ich hatte nicht erwartet, so früh hier zu sein.
+  Il est arrivé plus *tôt* que prévu.
+  Er ist *früher* angekommen als erwartet.
 
-  Quelques années plus tôt, ils s'étaient rencontrés à Paris.
-  Einige Jahre zuvor hatten sie sich in Paris getroffen.
+  Je vous verrai au plus *tôt* demain matin.
+  Ich sehe Sie *frühestens* morgen früh.
 
-  Le plus tôt sera le mieux, car il nous faut encore faire beaucoup de choses avant le départ.
-  Je früher, desto besser, denn wir müssen noch viel tun, bevor wir losfahren.
+  *Tôt ou tard*, la vérité finit toujours par éclater.
+  *Früher oder später* kommt die Wahrheit immer ans Licht.
 
-  Tôt ou tard, il faudra bien qu'il se décide.
-  Früher oder später wird er sich entscheiden müssen.
+  Les oiseaux chantent *tôt* au printemps.
+  Die Vögel singen im Frühling *früh*.
 
-  Le train arrive au plus tôt à 10h00.
-  Der Zug kommt frühestens um 10:00 Uhr an.
+  Il a eu *tôt* fait de terminer ses devoirs.
+  Er war mit seinen Hausaufgaben schnell *fertig*.
 
-  Pas plus tôt avait-il quitté la maison que la pluie s'est mise à tomber.
-  Kaum hatte er das Haus verlassen, da fing es an zu regnen.
+  C'était *tôt* dans la soirée quand elle est partie.
+  Es war noch *früh* am Abend, als sie ging.
 
-  Pas de si tôt, car il ne s'est pas encore remis de son opération.
-  Nicht so bald, denn er hat sich noch nicht von seiner Operation erholt.
+  Le magasin ferme *tôt* aujourd'hui.
+  Der Laden schließt heute *früh*.
 
-  Il faut arriver le plus tôt possible à l'aéroport.
-  Man sollte so bald wie möglich am Flughafen sein.
+  Il n'est jamais trop *tôt* pour commencer à épargner.
+  Es ist nie zu *früh*, mit dem Sparen anzufangen.
+
+  Les enfants se sont couchés *tôt* hier soir.
+  Die Kinder sind gestern Abend *früh* ins Bett gegangen.
+
+  Elle ne reviendra pas de si *tôt*.
+  Sie wird nicht so *bald* wiederkommen.
+
+  Les fleurs ont fleuri *tôt* cette année.
+  Die Blumen sind dieses Jahr *früh* erblüht.
+
+  Il est arrivé *tôt* au bureau ce matin.
+  Er ist heute Morgen *früh* im Büro angekommen.
+
+  Nous étions à peine arrivés que Sophie est repartie *tôt*.
+  Wir waren kaum angekommen, als Sophie schon *früh* wieder ging.
+
+  Mon fils a appris à marcher très *tôt*.
+  Mein Sohn hat sehr *früh* laufen gelernt.
+
+  Il faudra se lever *tôt* pour attraper le premier train.
+  Wir müssen *früh* aufstehen, um den ersten Zug zu erwischen.
+
+  Le plus *tôt* vous commencerez, le mieux ce sera.
+  Je *früher* Sie anfangen, desto besser.
+
+  Quelques années plus *tôt*, j'habitais encore à Paris.
+  Einige Jahre *zuvor* wohnte ich noch in Paris.
+
+  Marie arrive toujours *tôt* aux rendez-vous.
+  Marie kommt immer *früh* zu Verabredungen.
+
+  C'est trop *tôt* pour juger les résultats.
+  Es ist zu *früh*, um die Ergebnisse zu beurteilen.
+
+  Je préfère arriver *tôt* que d'être en retard.
+  Ich komme lieber *früh* als zu spät.
+
+  Il s'est levé *tôt* pour préparer le petit-déjeuner.
+  Er ist *früh* aufgestanden, um das Frühstück vorzubereiten.
+
+  Nous partons *tôt* en vacances cette année.
+  Wir fahren dieses Jahr *früh* in den Urlaub.
+
+  Le restaurant ouvre très *tôt* le matin.
+  Das Restaurant öffnet am Morgen sehr *früh*.
+
+  Elle a *tôt* fait de comprendre la situation.
+  Sie hat die Situation schnell *begriffen*.
+
+  Au plus *tôt*, je serai là dans une heure.
+  *Frühestens* in einer Stunde bin ich da.
+
+  Je rentre *tôt* ce soir pour voir mes enfants.
+  Ich komme heute Abend *früh* nach Hause, um meine Kinder zu sehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

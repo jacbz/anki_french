@@ -13,20 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Chacun de vos projets a été approuvé.
-  Jedes Ihrer Projekte wurde genehmigt.
+  Chacun de vos projets a été *approuvé*.
+  Jedes Ihrer Projekte wurde *genehmigt*.
 
-  Je n’approuve pas cette décision.
-  Ich billige diese Entscheidung nicht.
+  Les parents ont *approuvé* le choix de carrière de leur fille.
+  Die Eltern haben die Berufswahl ihrer Tochter *gutgeheißen*.
 
-  Le conseil municipal a approuvé la construction d'une nouvelle école.
-  Der Gemeinderat hat den Bau einer neuen Schule gutgeheißen.
+  Je vous *approuve* d'avoir pris cette décision difficile.
+  Ich *stimme* Ihnen in dieser schwierigen Entscheidung *zu*.
 
-  Son père a approuvé son choix de carrière.
-  Sein Vater hat seine Berufswahl gebilligt.
+  Le conseil municipal a *approuvé* le nouveau budget à l'unanimité.
+  Der Gemeinderat hat den neuen Haushalt einstimmig *angenommen*.
 
-  La directrice a approuvé que ses employés travaillent à domicile.
-  Die Geschäftsführerin hat es begrüßt, dass ihre Mitarbeiter von zu Hause aus arbeiten.
+  Marie hochait la tête pour *approuver* les paroles de son ami.
+  Marie nickte, um den Worten ihres Freundes *zuzustimmen*.
+
+  Je n'*approuve* pas du tout ton comportement envers elle.
+  Ich *heiße* dein Verhalten ihr gegenüber überhaupt nicht *gut*.
+
+  Le médicament a été *approuvé* par les autorités sanitaires.
+  Das Medikament wurde von den Gesundheitsbehörden *genehmigt*.
+
+  Paul *approuve* que tu prennes des initiatives.
+  Paul *begrüßt* es, dass du Initiative zeigst.
+
+  La proposition a été lue et *approuvée* par tous les membres.
+  Der Vorschlag wurde von allen Mitgliedern gelesen und *bestätigt*.
+
+  Je t'*approuve* entièrement sur ce point.
+  Ich *stimme* dir in diesem Punkt vollkommen *zu*.
+
+  Les actionnaires ont *approuvé* la vente de l'entreprise.
+  Die Aktionäre haben den Verkauf des Unternehmens *genehmigt*.
+
+  Elle *approuvait* du regard tout ce que disait son fils.
+  Sie *stimmte* allem, was ihr Sohn sagte, mit ihrem Blick *zu*.
+
+  Le comité a *approuvé* la nomination du nouveau directeur.
+  Das Komitee hat die Ernennung des neuen Direktors *bestätigt*.
+
+  J'*approuve* ton style mais pas tes méthodes.
+  Ich *heiße* deinen Stil *gut*, aber nicht deine Methoden.
+
+  Tous les participants ont *approuvé* l'ordre du jour.
+  Alle Teilnehmer haben die Tagesordnung *genehmigt*.
+
+  Le jury a *approuvé* sa décision à l'unanimité.
+  Die Jury hat ihre Entscheidung einstimmig *bestätigt*.
+
+  Je ne peux pas *approuver* une telle attitude.
+  Ich kann ein solches Verhalten nicht *gutheißen*.
+
+  La commission a *approuvé* le projet de construction.
+  Die Kommission hat das Bauprojekt *genehmigt*.
+
+  Les experts ont *approuvé* cette nouvelle méthode.
+  Die Experten haben diese neue Methode *bestätigt*.
+
+  Le document a été lu et *approuvé* par toutes les parties.
+  Das Dokument wurde von allen Parteien gelesen und *genehmigt*.
+
+  Le président a *approuvé* la nouvelle loi hier soir.
+  Der Präsident hat das neue Gesetz gestern Abend *unterzeichnet*.
+
+  Nous *approuvons* votre décision de partir à l'étranger.
+  Wir *heißen* Ihre Entscheidung, ins Ausland zu gehen, *gut*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

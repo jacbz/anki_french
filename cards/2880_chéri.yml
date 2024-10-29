@@ -13,17 +13,53 @@ Register: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Bonjour, chéri. Comment s’est passée ta journée?
-  Hallo, Schatz. Wie war dein Tag?
+  Bonjour, *chéri*. Comment s'est passée ta journée ?
+  Hallo, mein *Schatz*. Wie war dein Tag?
 
-  Je t’aime, mon chéri.
-  Ich liebe dich, mein Schatz.
+  "Mon *chéri*, tu as oublié tes clés sur la table !"
+  "Mein *Liebling*, du hast deine Schlüssel auf dem Tisch vergessen!"
 
-  Le petit garçon était l'enfant chéri de sa grand-mère.
-  Der kleine Junge war der Liebling seiner Großmutter.
+  Elle embrassa tendrement son enfant *chéri*.
+  Sie küsste zärtlich ihr *geliebtes* Kind.
 
-  Il est le chéri de sa femme et elle est la chérie de son mari.
-  Er ist der Liebling seiner Frau und sie ist der Liebling ihres Mannes.
+  Le petit Thomas est le *chéri* de sa grand-mère.
+  Der kleine Thomas ist der *Liebling* seiner Großmutter.
+
+  Ma *chérie*, veux-tu m'épouser ?
+  Meine *Liebste*, willst du mich heiraten?
+
+  Paul est devenu le héros *chéri* du public après sa victoire.
+  Paul wurde nach seinem Sieg zum *gefeierten* Helden des Publikums.
+
+  Ces souvenirs *chéris* me donnent envie de pleurer.
+  Diese *geliebten* Erinnerungen bringen mich zum Weinen.
+
+  "*Chérie*, peux-tu me passer le sel ?"
+  "*Schatz*, kannst du mir das Salz reichen?"
+
+  La petite Marie est la *chérie* de toute la famille.
+  Die kleine Marie ist der *Liebling* der ganzen Familie.
+
+  Il a retrouvé ses parents *chéris* après dix ans d'absence.
+  Er hat seine *geliebten* Eltern nach zehn Jahren Abwesenheit wiedergefunden.
+
+  Avant de partir, elle a embrassé son mari *chéri*.
+  Bevor sie ging, küsste sie ihren *geliebten* Mann.
+
+  "Au revoir, ma *chérie*, à ce soir !"
+  "Auf Wiedersehen, mein *Schatz*, bis heute Abend!"
+
+  C'est son petit frère *chéri* qui a eu le cadeau.
+  Sein *geliebter* kleiner Bruder hat das Geschenk bekommen.
+
+  "*Chéri*, tu as pensé à acheter du pain ?"
+  "*Liebling*, hast du daran gedacht, Brot zu kaufen?"
+
+  Emma est la *chérie* de son professeur de piano.
+  Emma ist der *Liebling* ihres Klavierlehrers.
+
+  Il garde précieusement la photo de sa femme *chérie*.
+  Er bewahrt sorgsam das Foto seiner *geliebten* Frau auf.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

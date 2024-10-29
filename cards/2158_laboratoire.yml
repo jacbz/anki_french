@@ -13,38 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les gros laboratoires n’ont pas toujours cette éthique-là.
-  Große Laboratorien haben nicht immer diese Ethik.
+  Les gros *laboratoires* n'ont pas toujours cette éthique-là.
+  Die großen *Labore* haben nicht immer diese Ethik.
 
-  Je travaille dans un laboratoire de recherche.
-  Ich arbeite in einem Forschungslabor.
+  Dans ce *laboratoire* de physique, nous étudions les particules élémentaires.
+  In diesem Physik*labor* erforschen wir die Elementarteilchen.
 
-  Le professeur a amené les élèves au laboratoire de chimie pour leur montrer des expériences.
-  Der Professor hat die Schüler ins Chemielabor geführt, um ihnen Experimente zu zeigen.
+  Le *laboratoire* secret a été découvert dans une ancienne mine.
+  Das Geheim*labor* wurde in einer alten Mine entdeckt.
 
-  Le laboratoire de physique est équipé de matériel sophistiqué.
-  Das Physiklabor ist mit hochmoderner Ausrüstung ausgestattet.
+  Le *laboratoire* spatial effectue des expériences en apesanteur.
+  Das Raum*labor* führt Experimente in der Schwerelosigkeit durch.
 
-  Le laboratoire de langues est utilisé pour apprendre les langues étrangères.
-  Das Sprachlabor dient zum Lernen von Fremdsprachen.
+  As-tu déjà travaillé dans un *laboratoire* de langues ?
+  Hast du schon mal in einem Sprach*labor* gearbeitet?
 
-  Les policiers ont découvert un laboratoire de fabrication de drogues dans un entrepôt.
-  Die Polizisten haben in einem Lager ein Drogenlabor entdeckt.
+  Notre *laboratoire* de recherche compte plus de cinquante chercheurs.
+  Unser Forschungs*labor* hat mehr als fünfzig Wissenschaftler.
 
-  Le laboratoire d'essais a été construit pour tester la sécurité des nouveaux produits.
-  Das Versuchslabor wurde gebaut, um die Sicherheit neuer Produkte zu testen.
+  Le *laboratoire* d'analyses médicales est fermé le dimanche.
+  Das medizinische *Labor* ist sonntags geschlossen.
 
-  Le gouvernement a révélé l'existence d'un laboratoire secret où des armes biologiques étaient développées.
-  Die Regierung hat die Existenz eines Geheimlabors enthüllt, in dem biologische Waffen entwickelt wurden.
+  Les résultats du *laboratoire* confirment le diagnostic du médecin.
+  Die *Labor*befunde bestätigen die Diagnose des Arztes.
 
-  La station spatiale internationale abrite un laboratoire spatial où les astronautes mènent des recherches scientifiques.
-  Die Internationale Raumstation beherbergt ein Raumlabor, in dem Astronauten wissenschaftliche Forschungen betreiben.
+  Elle passe ses journées au *laboratoire* à analyser des échantillons.
+  Sie verbringt ihre Tage im *Labor* damit, Proben zu analysieren.
 
-  Le produit de laboratoire est utilisé dans l'industrie pharmaceutique.
-  Das Laborprodukt wird in der Pharmaindustrie verwendet.
+  J'ai envoyé mes photos au *laboratoire* pour les faire développer.
+  Ich habe meine Fotos ins *Labor* geschickt, um sie entwickeln zu lassen.
 
-  Les animaux de laboratoire sont utilisés pour la recherche médicale.
-  Versuchstiere werden für medizinische Forschung eingesetzt.
+  Le *laboratoire* pharmaceutique a mis au point un nouveau médicament.
+  Das Pharma*labor* hat ein neues Medikament entwickelt.
+
+  Ce *laboratoire* d'idées réunit des experts du monde entier.
+  Diese Denkfabrik versammelt Experten aus der ganzen Welt.
+
+  Le nouveau *laboratoire* dispose d'équipements très modernes.
+  Das neue *Labor* verfügt über sehr moderne Ausrüstung.
+
+  Les étudiants font leurs expériences en *laboratoire*.
+  Die Studenten machen ihre Experimente im *Labor*.
+
+  Notre *laboratoire* de fabrication numérique propose des formations.
+  Unser digitales *Labor* bietet Schulungen an.
+
+  Le *laboratoire* de chimie a besoin de nouveaux microscopes.
+  Das Chemie*labor* braucht neue Mikroskope.
+
+  Un assistant de *laboratoire* m'a montré comment utiliser l'équipement.
+  Ein *Labor*assistent hat mir gezeigt, wie man die Geräte benutzt.
+
+  Ce *laboratoire* de contrôle vérifie la qualité des produits.
+  Dieses Test*labor* überprüft die Qualität der Produkte.
+
+  La ferme-*laboratoire* teste de nouvelles méthodes d'agriculture.
+  Der *Labor*-Bauernhof testet neue landwirtschaftliche Methoden.
+
+  Les *laboratoires* doivent respecter des normes de sécurité strictes.
+  Die *Labore* müssen strenge Sicherheitsvorschriften einhalten.
+
+  Le chef du *laboratoire* présente les résultats de recherche.
+  Der *Labor*leiter präsentiert die Forschungsergebnisse.
+
+  Cette ville est devenue un véritable *laboratoire* de création artistique.
+  Diese Stadt ist zu einem wahren *Labor* für künstlerisches Schaffen geworden.
+
+  Les nouveaux *laboratoires* seront construits près de l'université.
+  Die neuen *Labore* werden in der Nähe der Universität gebaut werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

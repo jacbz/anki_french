@@ -13,17 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je voudrais faciliter votre décision.
-  Ich möchte Ihnen die Entscheidung erleichtern.
+  Je voudrais *faciliter* votre décision.
+  Ich möchte Ihnen die Entscheidung *erleichtern*.
 
-  Je vais vous faciliter la tâche.
-  Ich werde Ihnen die Aufgabe erleichtern.
+  Les nouvelles technologies *facilitent* grandement la communication entre les équipes.
+  Die neuen Technologien *erleichtern* die Kommunikation zwischen den Teams erheblich.
 
-  Elle a décidé de se faciliter la vie en déménageant dans un appartement plus petit.
-  Sie hat beschlossen, sich das Leben leichter zu machen, indem sie in eine kleinere Wohnung umzieht.
+  Cette application va *faciliter* les démarches administratives.
+  Diese App wird die Verwaltungsvorgänge *vereinfachen*.
 
-  Ce médicament qui facilite la digestion est très efficace.
-  Dieses verdauungsfördernde Mittel ist sehr effektiv.
+  Son obstination ne *facilite* pas les négociations.
+  Seine Sturheit macht die Verhandlungen nicht *leichter*.
+
+  Le nouveau système *facilitera* l'accès aux documents.
+  Das neue System wird den Zugang zu den Dokumenten *erleichtern*.
+
+  Ces exercices *facilitent* l'apprentissage des langues étrangères.
+  Diese Übungen *erleichtern* das Erlernen von Fremdsprachen.
+
+  Le professeur a *facilité* la compréhension du texte.
+  Der Lehrer hat das Textverständnis *erleichtert*.
+
+  Cette tisane *facilite* la digestion après les repas.
+  Dieser Tee *fördert* die Verdauung nach den Mahlzeiten.
+
+  Elle essaie toujours de se *faciliter* la vie.
+  Sie versucht immer, sich das Leben *leichter* zu machen.
+
+  L'argent *facilitera* certainement les choses.
+  Das Geld wird die Sachen bestimmt *vereinfachen*.
+
+  Le beau temps a *facilité* notre voyage.
+  Das schöne Wetter hat unsere Reise *erleichtert*.
+
+  Je ne fais rien pour me *faciliter* la tâche.
+  Ich tue nichts, um mir die Aufgabe zu *erleichtern*.
+
+  Cette formation *facilitera* votre intégration dans l'entreprise.
+  Diese Schulung wird Ihre Integration ins Unternehmen *erleichtern*.
+
+  Les ponts *facilitent* le passage des rivières.
+  Brücken *erleichtern* die Überquerung von Flüssen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

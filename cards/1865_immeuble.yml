@@ -9,13 +9,66 @@ Femininum / Plural: ''
 IPA: \i.mœbl\
 Definition: Gebäude, Wohnhaus
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "J’habite dans cet immeuble.\nIch wohne in diesem Gebäude.\n\nJe vis\
-  \ dans un immeuble de six étages.\nIch lebe in einem sechsstöckigen Gebäude.\n\n\
-  Le bâtiment sert à un fonds de commerce.\nDas Gebäude dient einem Gewerbebetrieb.\
-  \ \n\nL'immeuble abrite un fonds de commerce.\nDas Gebäude beherbergt einen Gewerbebetrieb.\
-  \ \n\nL'immeuble sert à l'exercice d'un fonds de commerce.\nDas Gebäude dient der\
-  \ Ausübung eines Gewerbebetriebs. \n\nLe fonds de commerce est installé dans l'immeuble.\n\
-  Der Gewerbebetrieb ist im Gebäude untergebracht."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  J'habite dans cet *immeuble*.
+  Ich wohne in diesem *Haus*.
+
+  L'*immeuble* a été construit il y a cent ans.
+  Das *Gebäude* wurde vor hundert Jahren gebaut.
+
+  Les fenêtres de notre *immeuble* donnent sur un parc.
+  Die Fenster unseres *Wohnhauses* gehen zu einem Park hinaus.
+
+  Ils ont acheté un *immeuble* de bureaux au centre-ville.
+  Sie haben ein Büro*gebäude* im Stadtzentrum gekauft.
+
+  Le gardien de l'*immeuble* vérifie les boîtes aux lettres chaque matin.
+  Der *Haus*meister kontrolliert jeden Morgen die Briefkästen.
+
+  Un nouvel *immeuble* de quarante étages sera construit l'année prochaine.
+  Ein neues *Hochhaus* mit vierzig Stockwerken wird nächstes Jahr gebaut.
+
+  L'ascenseur de l'*immeuble* est en panne depuis trois jours.
+  Der Aufzug des *Wohnhauses* ist seit drei Tagen kaputt.
+
+  Tous les biens meubles et *immeubles* doivent être déclarés aux impôts.
+  Alle beweglichen und *unbeweglichen* Güter müssen beim Finanzamt angegeben werden.
+
+  La valeur des biens *immeubles* a considérablement augmenté dans ce quartier.
+  Der Wert der *Immobilien* ist in diesem Viertel erheblich gestiegen.
+
+  Notre *immeuble* est géré par une société de copropriété.
+  Unser *Mehrfamilienhaus* wird von einer Hausverwaltung betreut.
+
+  Les travaux de rénovation de l'*immeuble* commenceront au printemps.
+  Die Renovierungsarbeiten des *Gebäudes* beginnen im Frühling.
+
+  Cet *immeuble* en copropriété compte vingt appartements.
+  Dieses *Mehrparteienhaus* hat zwanzig Wohnungen.
+
+  Le propriétaire a vendu tous ses *immeubles* dans la région.
+  Der Besitzer hat alle seine *Liegenschaften* in der Region verkauft.
+
+  Un *immeuble* de rapport doit être bien entretenu pour garder sa valeur.
+  Ein Miet*haus* muss gut instand gehalten werden, um seinen Wert zu behalten.
+
+  Les charges de l'*immeuble* sont réparties entre tous les locataires.
+  Die *Haus*kosten werden unter allen Mietern aufgeteilt.
+
+  L'*immeuble* dispose d'un parking souterrain pour les résidents.
+  Das *Wohnhaus* verfügt über eine Tiefgarage für die Bewohner.
+
+  La façade de l'*immeuble* sera repeinte cet été.
+  Die Fassade des *Hauses* wird diesen Sommer neu gestrichen.
+
+  Les pompiers ont évacué tout l'*immeuble* à cause d'une fuite de gaz.
+  Die Feuerwehr hat das ganze *Haus* wegen eines Gaslecks evakuiert.
+
+  Ces biens *immeubles* font partie de l'héritage familial.
+  Diese *Immobilien* gehören zum Familienerbe.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

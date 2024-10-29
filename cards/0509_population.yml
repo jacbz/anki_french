@@ -13,32 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Une partie de la population s’enfonce dans la précarité.
-  Ein Teil der Bevölkerung rutscht in prekäre Verhältnisse ab.
+  Une partie de la *population* s'enfonce dans la précarité.
+  Ein Teil der *Bevölkerung* rutscht in die Armut ab.
 
-  La population de cette ville a augmenté.
-  Die Bevölkerung dieser Stadt ist gestiegen.
+  La *population* mondiale ne cesse d'augmenter.
+  Die Welt*bevölkerung* wächst weiter.
 
-  La population totale de la France est d'environ 67 millions d'habitants.
-  Die Gesamtbevölkerung Frankreichs beträgt etwa 67 Millionen Einwohner.
+  La *population* active a augmenté de 2% cette année.
+  Die Zahl der *Erwerbspersonen* ist dieses Jahr um 2% gestiegen.
 
-  La population active représente environ 30 millions de personnes en France.
-  Die Erwerbspersonen in Frankreich machen etwa 30 Millionen Menschen aus.
+  Les conditions de vie de la *population* urbaine se sont améliorées.
+  Die Lebensbedingungen der Stadt*bevölkerung* haben sich verbessert.
 
-  La population du globe est en constante augmentation, avec plus de 8 milliards d'habitants.
-  Die Weltbevölkerung wächst stetig und umfasst mehr als 8 Milliarden Menschen.
+  La *population* totale de notre ville approche les 100 000 habitants.
+  Die Gesamt*bevölkerung* unserer Stadt nähert sich 100.000 Einwohnern.
 
-  La population côtière est particulièrement vulnérable aux changements climatiques.
-  Die Küstenbevölkerung ist besonders anfällig für den Klimawandel.
+  La *population* côtière doit faire face aux risques d'inondation.
+  Die Küsten*bevölkerung* muss sich mit Überschwemmungsrisiken auseinandersetzen.
 
-  La population agricole représente une part importante de la population dans certains pays en développement.
-  Die Landbevölkerung macht in einigen Entwicklungsländern einen großen Teil der Bevölkerung aus.
+  Cette région a une faible densité de *population*.
+  Diese Region hat eine geringe *Bevölkerungs*dichte.
 
-  La population citadine est en constante croissance dans le monde entier.
-  Die Stadtbevölkerung wächst weltweit stetig an.
+  Les chercheurs étudient une *population* de loups dans les Alpes.
+  Die Forscher untersuchen eine *Population* von Wölfen in den Alpen.
 
-  La population ouvrière a joué un rôle crucial dans le développement économique de nombreux pays.
-  Das Arbeitervolk hat eine entscheidende Rolle für die wirtschaftliche Entwicklung vieler Länder gespielt.
+  La *population* scolaire a diminué dans cette école.
+  Die *Schüler*zahl ist an dieser Schule zurückgegangen.
+
+  Le vieillissement de la *population* pose de nouveaux défis.
+  Die alternde *Bevölkerung* stellt uns vor neue Herausforderungen.
+
+  Un avis à la *population* a été affiché devant la mairie.
+  Eine Mitteilung an die *Bevölkerung* wurde vor dem Rathaus ausgehängt.
+
+  La *population* ouvrière s'est mobilisée contre cette réforme.
+  Die *Arbeiter*schaft hat sich gegen diese Reform mobilisiert.
+
+  Le recensement de la *population* aura lieu l'année prochaine.
+  Die *Bevölkerungs*zählung findet nächstes Jahr statt.
+
+  Les *populations* nomades se déplacent selon les saisons.
+  Die nomadischen *Bevölkerungs*gruppen ziehen mit den Jahreszeiten um.
+
+  Cette étude porte sur une *population* de 1000 personnes.
+  Diese Studie basiert auf einer *Population* von 1000 Personen.
+
+  La *population* agricole ne représente plus que 2% des actifs.
+  Die Land*bevölkerung* macht nur noch 2% der Erwerbstätigen aus.
+
+  Les *populations* à risque doivent être particulièrement vigilantes.
+  Die Risiko*bevölkerung* muss besonders vorsichtig sein.
+
+  La *population* civile a dû être évacuée rapidement.
+  Die Zivil*bevölkerung* musste schnell evakuiert werden.
+
+  Une importante *population* d'oiseaux niche dans ce parc.
+  Eine große *Population* von Vögeln nistet in diesem Park.
+
+  La *population* française continue d'augmenter légèrement.
+  Die französische *Bevölkerung* wächst weiterhin leicht an.
+
+  Les *populations* autochtones maintiennent leurs traditions.
+  Die ein*heimische* Bevölkerung bewahrt ihre Traditionen.
+
+  La *population* rurale diminue au profit des villes.
+  Die Land*bevölkerung* nimmt zugunsten der Städte ab.
+
+  Cette *population* de bactéries résiste aux antibiotiques.
+  Diese Bakterien*population* ist resistent gegen Antibiotika.
+
+  La *population* citadine dépend des transports en commun.
+  Die Stadt*bevölkerung* ist auf öffentliche Verkehrsmittel angewiesen.
+
+  Les *populations* francophones sont présentes sur tous les continents.
+  Die französischsprachige *Bevölkerung* ist auf allen Kontinenten vertreten.
+
+  La *population* d'abeilles de cette ruche est en bonne santé.
+  Die Bienen*population* dieses Stocks ist gesund.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

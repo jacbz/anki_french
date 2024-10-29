@@ -13,14 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Surveille les signes vitaux.
-  Überwacht die Lebenszeichen.
+  Surveille les signes *vitaux*.
+  Überwache die *Vital*zeichen.
 
-  L’exercice physique est vital pour la santé.
-  Körperliche Bewegung ist lebenswichtig für die Gesundheit.
+  Les médecins ont constaté que ses organes *vitaux* fonctionnaient normalement.
+  Die Ärzte stellten fest, dass seine *lebenswichtigen* Organe normal funktionierten.
 
-  La présence de sa famille est vitale pour lui.
-  Die Anwesenheit seiner Familie ist für ihn lebensnotwendig.
+  La respiration est une fonction *vitale* de l'organisme.
+  Die Atmung ist eine *lebenswichtige* Funktion des Organismus.
+
+  L'eau est un élément *vital* pour notre survie.
+  Wasser ist ein *lebenswichtiges* Element für unser Überleben.
+
+  Son pronostic *vital* n'est plus engagé.
+  Seine *Vital*prognose ist nicht mehr kritisch.
+
+  La force *vitale* nous pousse à aller de l'avant.
+  Die *Lebens*kraft treibt uns voran.
+
+  Cette découverte est d'une importance *vitale* pour la recherche médicale.
+  Diese Entdeckung ist von *existenzieller* Bedeutung für die medizinische Forschung.
+
+  L'exercice physique maintient notre énergie *vitale*.
+  Bewegung erhält unsere *Lebens*energie.
+
+  C'est un point *vital* de notre stratégie.
+  Das ist ein *wesentlicher* Punkt unserer Strategie.
+
+  La biodiversité est *vitale* pour l'équilibre de notre planète.
+  Die Biodiversität ist *lebenswichtig* für das Gleichgewicht unseres Planeten.
+
+  L'accès à l'éducation est *vital* pour le développement d'un pays.
+  Der Zugang zu Bildung ist *vital* für die Entwicklung eines Landes.
+
+  Il est *vital* de protéger nos ressources naturelles.
+  Es ist *lebensnotwendig*, unsere natürlichen Ressourcen zu schützen.
+
+  Ces vitamines sont *vitales* pour notre santé.
+  Diese Vitamine sind *lebenswichtig* für unsere Gesundheit.
+
+  La créativité est *vitale* pour son bien-être.
+  Kreativität ist für sein Wohlbefinden *lebensnotwendig*.
+
+  Ces investissements sont *vitaux* pour l'avenir de l'entreprise.
+  Diese Investitionen sind für die Zukunft des Unternehmens *existenziell*.
+
+  Le sommeil joue un rôle *vital* dans notre récupération.
+  Schlaf spielt eine *lebenswichtige* Rolle bei unserer Erholung.
+
+  La confiance est *vitale* dans une relation.
+  Vertrauen ist in einer Beziehung *existenziell*.
+
+  Les abeilles sont *vitales* pour notre écosystème.
+  Bienen sind für unser Ökosystem *lebenswichtig*.
+
+  Cette réforme est d'une importance *vitale*.
+  Diese Reform ist von *vitaler* Bedeutung.
+
+  L'innovation est *vitale* pour la survie d'une entreprise.
+  Innovation ist für das Überleben eines Unternehmens *lebensnotwendig*.
+
+  La communication est *vitale* dans le travail d'équipe.
+  Kommunikation ist für die Teamarbeit *vital*.
+
+  Maintenir un minimum *vital* est une priorité sociale.
+  Ein *Existenz*minimum zu gewährleisten ist eine soziale Priorität.
+
+  Les jeunes ont besoin d'un espace *vital* pour se développer.
+  Junge Menschen brauchen einen *Lebens*raum, um sich zu entwickeln.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les gens ont peur du gouvernement actuel.
-  Die Menschen haben Angst vor der derzeitigen Regierung.
+  Les gens ont peur du gouvernement *actuel*.
+  Die Menschen haben Angst vor der *derzeitigen* Regierung.
 
-  Le président actuel est Emmanuel Macron.
-  Der aktuelle Präsident ist Emmanuel Macron.
+  Dans les circonstances *actuelles*, nous devons être prudents.
+  Unter den *gegenwärtigen* Umständen müssen wir vorsichtig sein.
+
+  Le cours *actuel* de l'euro est très favorable.
+  Der *aktuelle* Eurokurs ist sehr günstig.
+
+  À l'heure *actuelle*, je ne peux pas répondre à cette question.
+  Zum *jetzigen* Zeitpunkt kann ich diese Frage nicht beantworten.
+
+  L'*actuelle* directrice est beaucoup plus stricte que la précédente.
+  Die *derzeitige* Direktorin ist viel strenger als die vorherige.
+
+  Ce film des années 60 reste très *actuel*.
+  Dieser Film aus den 60er Jahren ist immer noch sehr *aktuell*.
+
+  Le monde *actuel* est dominé par la technologie.
+  Die Welt von *heute* wird von der Technologie beherrscht.
+
+  L'état *actuel* des négociations est prometteur.
+  Der *gegenwärtige* Stand der Verhandlungen ist vielversprechend.
+
+  Mon père travaille pour l'*actuel* Premier ministre.
+  Mein Vater arbeitet für den *derzeitigen* Premierminister.
+
+  Cette question est très *actuelle*.
+  Diese Frage ist sehr *aktuell*.
+
+  Le régime *actuel* a promis des réformes importantes.
+  Das *herrschende* Regime hat wichtige Reformen versprochen.
+
+  La situation *actuelle* exige des mesures immédiates.
+  Die *gegenwärtige* Situation erfordert sofortige Maßnahmen.
+
+  Les problèmes *actuels* ne sont pas faciles à résoudre.
+  Die *aktuellen* Probleme sind nicht leicht zu lösen.
+
+  L'*actuelle* version du logiciel contient plusieurs bugs.
+  Die *aktuelle* Version der Software enthält mehrere Fehler.
+
+  Dans le contexte *actuel*, cette décision semble raisonnable.
+  Im *gegenwärtigen* Kontext scheint diese Entscheidung vernünftig.
+
+  Le système *actuel* d'éducation doit être réformé.
+  Das *derzeitige* Bildungssystem muss reformiert werden.
+
+  Les jeunes sont mécontents de la politique *actuelle*.
+  Die Jugendlichen sind mit der *gegenwärtigen* Politik unzufrieden.
+
+  Son *actuel* emploi lui plaît beaucoup.
+  Ihre *jetzige* Arbeit gefällt ihr sehr.
+
+  Le niveau *actuel* des prix est très élevé.
+  Das *aktuelle* Preisniveau ist sehr hoch.
+
+  La mode *actuelle* favorise les couleurs vives.
+  Die *aktuelle* Mode bevorzugt leuchtende Farben.
+
+  Les débats *actuels* sur le climat sont très importants.
+  Die *aktuellen* Klimadebatten sind sehr wichtig.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

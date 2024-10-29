@@ -13,14 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Deux pays ont signé en juin un accord.
-  Zwei Länder haben im Juni ein Abkommen unterzeichnet.
+  Deux pays ont signé en *juin* un accord.
+  Zwei Länder haben im *Juni* ein Abkommen unterzeichnet.
 
-  Mon anniversaire est en juin.
-  Mein Geburtstag ist im Juni.
+  Les fleurs s'épanouissent magnifiquement en *juin*.
+  Die Blumen blühen im *Juni* wunderschön.
 
-  Ma fille va se marier en juin.
-  Meine Tochter wird im Juni heiraten.
+  La température moyenne en *juin* était plus élevée que d'habitude.
+  Die Durchschnittstemperatur im *Juni* war höher als gewöhnlich.
+
+  Le soleil se couche plus tard en *juin* qu'en mai.
+  Die Sonne geht im *Juni* später unter als im Mai.
+
+  Mon fils est né à la mi-*juin*.
+  Mein Sohn wurde Mitte *Juni* geboren.
+
+  L'été commence avec le solstice de *juin*.
+  Der Sommer beginnt mit der *Juni*-Sonnenwende.
+
+  En *juin*, nous partirons en vacances à la mer.
+  Im *Juni* fahren wir ans Meer in den Urlaub.
+
+  Le festival aura lieu du 1er au 15 *juin*.
+  Das Festival findet vom 1. bis zum 15. *Juni* statt.
+
+  Je me marierai en *juin* prochain.
+  Ich werde nächsten *Juni* heiraten.
+
+  Nous avons eu beaucoup de pluie en *juin* dernier.
+  Wir hatten letzten *Juni* viel Regen.
+
+  Le jardin est particulièrement beau en *juin*.
+  Der Garten ist im *Juni* besonders schön.
+
+  Les examens finaux auront lieu fin *juin*.
+  Die Abschlussprüfungen finden Ende *Juni* statt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

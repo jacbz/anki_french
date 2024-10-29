@@ -13,29 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est l’heure de fermeture. La piscine est fermée.
-  Es ist Feierabend. Das Schwimmbad ist geschlossen.
+  C'est l'heure de *fermeture*. La piscine est fermée.
+  Es ist *Schluss*zeit. Das Schwimmbad ist geschlossen.
 
-  La fermeture de la porte est cassée.
-  Der Verschluss der Tür ist kaputt.
+  La *fermeture* de cette valise est cassée.
+  Der *Verschluss* dieses Koffers ist kaputt.
 
-  La porte est équipée d'une fermeture automatique.
-  Die Tür ist mit einem automatischen Türschließer ausgestattet.
+  Cette robe a une *fermeture* à glissière dans le dos.
+  Dieses Kleid hat einen Reiß*verschluss* im Rücken.
 
-  La fermeture d'entreprise a eu un impact important sur les employés.
-  Die Betriebsstilllegung hatte einen großen Einfluss auf die Angestellten.
+  La *fermeture* automatique des portes garantit la sécurité.
+  Der automatische Tür*schließer* garantiert die Sicherheit.
 
-  Cette valise est équipée d'une fermeture à clé.
-  Dieser Koffer ist abschließbar.
+  Il faut vérifier la *fermeture* correcte des fenêtres avant de partir.
+  Man muss das richtige *Schließen* der Fenster überprüfen, bevor man geht.
 
-  Beaucoup de personnes ont perdu leur emploi à cause de ces fermetures d'entreprises.
-  Viele Menschen haben aufgrund dieser Firmenschließungen ihren Arbeitsplatz verloren.
+  Le gouvernement a annoncé la *fermeture* temporaire des frontières.
+  Die Regierung hat die vorübergehende *Schließung* der Grenzen angekündigt.
 
-  Le magasin est en fermeture annuelle pendant le mois d'août.
-  Das Geschäft hat im August Betriebsferien.
+  La *fermeture* de l'usine a touché plus de 500 employés.
+  Die *Schließung* der Fabrik betraf mehr als 500 Mitarbeiter.
 
-  Le musée est fermé au public après la fermeture des bureaux.
-  Das Museum ist nach Büroschluss für die Öffentlichkeit geschlossen.
+  Nous procédons à la *fermeture* du compte bancaire demain.
+  Wir nehmen morgen die *Schließung* des Bankkontos vor.
+
+  La *fermeture* à clé de l'armoire est importante pour la sécurité.
+  Das ab*schließbare* Fach im Schrank ist wichtig für die Sicherheit.
+
+  En raison de travaux, la *fermeture* du tunnel durera trois jours.
+  Wegen Bauarbeiten wird die *Sperrung* des Tunnels drei Tage dauern.
+
+  Les commerçants protestent contre la *fermeture* dominicale obligatoire.
+  Die Händler protestieren gegen die verpflichtende Sonntags*schließung*.
+
+  La *fermeture* annuelle du restaurant aura lieu en août.
+  Die *Betriebsferien* des Restaurants finden im August statt.
+
+  Cette boutique affiche ses horaires de *fermeture* sur la vitrine.
+  Dieser Laden zeigt seine *Schluss*zeiten im Schaufenster an.
+
+  La *fermeture* de la chasse est fixée au 31 janvier.
+  Das Ende der Jagdsaison (*Schließung*) ist auf den 31. Januar festgelegt.
+
+  Après la *fermeture* des bureaux, l'alarme s'active automatiquement.
+  Nach *Dienst*schluss wird die Alarmanlage automatisch aktiviert.
+
+  Le sac a une *fermeture* magnétique très pratique.
+  Die Tasche hat einen praktischen Magnet*verschluss*.
+
+  La *fermeture* éclair de mon manteau s'est coincée.
+  Der Reiß*verschluss* meines Mantels hat sich verklemmt.
+
+  Suite à la *fermeture* de l'aéroport, tous les vols sont annulés.
+  Aufgrund der *Stilllegung* des Flughafens sind alle Flüge gestrichen.
+
+  La *fermeture* des vannes doit être effectuée lentement.
+  Das *Schließen* der Ventile muss langsam erfolgen.
+
+  Le chirurgien a procédé à la *fermeture* de la plaie.
+  Der Chirurg hat die Wunde *verschlossen*.
+
+  La *fermeture* du magasin est prévue pour 20 heures.
+  Der *Laden*schluss ist für 20 Uhr vorgesehen.
+
+  Le musée annonce une *fermeture* exceptionnelle ce weekend.
+  Das Museum kündigt eine außerplanmäßige *Schließung* dieses Wochenende an.
+
+  Cette entreprise risque la *fermeture* définitive.
+  Diesem Unternehmen droht die endgültige *Schließung*.
+
+  La *fermeture* progressive des petits commerces inquiète les habitants.
+  Die fortschreitende *Schließung* der kleinen Geschäfte beunruhigt die Einwohner.
+
+  Les étudiants protestent contre la *fermeture* de leur bibliothèque.
+  Die Studenten protestieren gegen die *Schließung* ihrer Bibliothek.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

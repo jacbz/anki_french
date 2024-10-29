@@ -9,17 +9,75 @@ Femininum / Plural: ''
 IPA: \u.ti\
 Definition: Werkzeug
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Ça m’a donné les outils pour atteindre mes buts.\nEs hat mir die Werkzeuge\
-  \ gegeben, um meine Ziele zu erreichen.\n\nJ’ai besoin d’un outil pour réparer la\
-  \ voiture.\nIch brauche ein Werkzeug, um das Auto zu reparieren.\n\nCe tracteur\
-  \ est un outil agricole très puissant.\nDieser Traktor ist ein sehr leistungsstarkes\
-  \ landwirtschaftliches Gerät.\n\nLes outils de gestion de fichiers sont essentiels\
-  \ pour organiser son ordinateur.\nDateiverwaltungstools sind essenziell, um seinen\
-  \ Computer zu organisieren.\n\nLe questionnaire est un outil de sélection efficace\
-  \ pour les candidats. \nDer Fragebogen ist ein effektives Instrument zur Auswahl\
-  \ der Kandidaten.\n\nLa clepsydre est un outil de mesure du temps très ancien.\n\
-  Die Wasseruhr ist ein sehr altes Zeitmessgerät. \n\nLe marteau est l'outil de travail\
-  \ du menuisier.\nDer Hammer ist das Werkzeug des Schreiners."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Ça m'a donné les *outils* pour atteindre mes buts.
+  Das hat mir die *Werkzeuge* gegeben, um meine Ziele zu erreichen.
+
+  J'ai besoin d'*outils* de jardinage pour entretenir mon potager.
+  Ich brauche Garten*werkzeuge*, um meinen Gemüsegarten zu pflegen.
+
+  Le marteau est l'*outil* le plus simple mais le plus utile.
+  Der Hammer ist das einfachste, aber nützlichste *Werkzeug*.
+
+  Ces statistiques sont un *outil* indispensable pour la prise de décision.
+  Diese Statistiken sind ein unverzichtbares *Hilfsmittel* für die Entscheidungsfindung.
+
+  As-tu rangé tous les *outils* dans la boîte ?
+  Hast du alle *Werkzeuge* in den Kasten geräumt?
+
+  L'entreprise a investi dans de nouveaux *outils* de production.
+  Das Unternehmen hat in neue Produktions*anlagen* investiert.
+
+  La nouvelle barre d'*outils* facilite la navigation sur le site.
+  Die neue *Tool*leiste macht die Navigation auf der Website einfacher.
+
+  Ce logiciel propose des *outils* de gestion très pratiques.
+  Diese Software bietet sehr praktische Verwaltungs*tools* an.
+
+  Mon père m'a appris à utiliser tous les *outils* du menuisier.
+  Mein Vater hat mir beigebracht, alle *Werkzeuge* des Tischlers zu benutzen.
+
+  "Un mauvais ouvrier n'a jamais de bons *outils*."
+  "Ein schlechter Handwerker hat nie gute *Werkzeuge*."
+
+  L'ordinateur portable est devenu son principal *outil* de travail.
+  Der Laptop ist zu seinem wichtigsten Arbeits*gerät* geworden.
+
+  Nous avons besoin d'*outils* de mesure plus précis.
+  Wir brauchen präzisere Mess*instrumente*.
+
+  Les agriculteurs ont modernisé leurs *outils* agricoles.
+  Die Landwirte haben ihre landwirtschaftlichen *Geräte* modernisiert.
+
+  La communication est un *outil* essentiel dans l'enseignement.
+  Kommunikation ist ein wesentliches *Instrument* im Unterricht.
+
+  Elle utilise des *outils* numériques pour créer ses dessins.
+  Sie verwendet digitale *Werkzeuge*, um ihre Zeichnungen zu erstellen.
+
+  Ce manuel est un excellent *outil* pédagogique.
+  Dieses Handbuch ist ein ausgezeichnetes pädagogisches *Hilfsmittel*.
+
+  Les nouveaux *outils* de développement accélèrent le travail.
+  Die neuen Entwicklungs*tools* beschleunigen die Arbeit.
+
+  L'internet est devenu un *outil* indispensable dans notre société.
+  Das Internet ist zu einem unverzichtbaren *Werkzeug* in unserer Gesellschaft geworden.
+
+  Ils ont créé des *outils* de sélection innovants.
+  Sie haben innovative Auswahl*instrumente* entwickelt.
+
+  Le langage est notre *outil* de communication le plus important.
+  Sprache ist unser wichtigstes Kommunikations*werkzeug*.
+
+  Les syndicats défendent l'*outil* de travail des employés.
+  Die Gewerkschaften verteidigen die Arbeits*mittel* der Angestellten.
+
+  Cet *outil* de navigation permet de se repérer facilement en mer.
+  Dieses Navigations*instrument* ermöglicht eine einfache Orientierung auf See.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

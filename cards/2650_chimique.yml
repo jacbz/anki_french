@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Aujourd’hui ce qui est chimique est ressenti comme dangereux.
-  Heutzutage wird alles, was chemisch ist, als gefährlich empfunden.
+  Aujourd'hui ce qui est *chimique* est ressenti comme dangereux.
+  Heutzutage wird alles *Chemische* als gefährlich empfunden.
 
-  Cette réaction est d’origine chimique.
-  Diese Reaktion ist chemischer Natur.
+  Les *produits chimiques* doivent être stockés dans un endroit sûr.
+  Die *Chemikalien* müssen an einem sicheren Ort gelagert werden.
 
-  Le gouvernement a interdit l'utilisation de produits chimiques dans l'agriculture.
-  Die Regierung hat den Einsatz von Chemikalien in der Landwirtschaft verboten.
+  La convention interdit l'usage des armes *chimiques* dans les conflits.
+  Die Konvention verbietet den Einsatz *chemischer* Waffen in Konflikten.
 
-  La guerre chimique est une arme terrible.
-  Der chemische Krieg ist eine schreckliche Waffe.
+  L'industrie *chimique* emploie des milliers de personnes dans notre région.
+  Die *chemische* Industrie beschäftigt Tausende Menschen in unserer Region.
+
+  Le professeur nous a expliqué la formule *chimique* de l'eau.
+  Der Lehrer hat uns die *chemische* Formel von Wasser erklärt.
+
+  Cette réaction *chimique* produit une lumière bleue fascinante.
+  Diese *chemische* Reaktion erzeugt ein faszinierendes blaues Licht.
+
+  Les médecins ont dû provoquer un sommeil *chimique* pour le traitement.
+  Die Ärzte mussten einen *chemischen* Schlaf für die Behandlung einleiten.
+
+  Elle étudie les propriétés *chimiques* des nouveaux matériaux.
+  Sie untersucht die *chemischen* Eigenschaften der neuen Materialien.
+
+  Le symbole *chimique* du fer est Fe.
+  Das *chemische* Symbol für Eisen ist Fe.
+
+  L'analyse *chimique* a révélé la présence de polluants dans l'eau.
+  Die *chemische* Analyse hat das Vorhandensein von Schadstoffen im Wasser aufgedeckt.
+
+  Les engrais *chimiques* peuvent endommager les sols à long terme.
+  *Chemische* Düngemittel können den Boden langfristig schädigen.
+
+  Le processus *chimique* de la photosynthèse fascine les scientifiques.
+  Der *chemische* Prozess der Photosynthese fasziniert die Wissenschaftler.
+
+  Notre laboratoire *chimique* dispose d'équipements modernes.
+  Unser *chemisches* Labor verfügt über moderne Ausrüstung.
+
+  La composition *chimique* de l'atmosphère change progressivement.
+  Die *chemische* Zusammensetzung der Atmosphäre verändert sich allmählich.
+
+  Les étudiants apprennent à manipuler les substances *chimiques* en toute sécurité.
+  Die Studenten lernen den sicheren Umgang mit *chemischen* Substanzen.
+
+  Le nettoyage *chimique* n'est pas recommandé pour ce tissu délicat.
+  Die *chemische* Reinigung wird für diesen empfindlichen Stoff nicht empfohlen.
+
+  Les transformations *chimiques* se produisent constamment dans notre corps.
+  *Chemische* Umwandlungen finden ständig in unserem Körper statt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
