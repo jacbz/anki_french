@@ -87,7 +87,7 @@ formatDefinition();
 /**
  * Sentences
  */
-const sentencesInner = document.getElementById("sentences_inner");
+const sentencesInner = document.getElementById("sentences-inner");
 const sentencesData = sentencesInner.innerHTML;
 const sentencesPairs = sentencesData.split("\n\n");
 shuffleArray(sentencesPairs, false);

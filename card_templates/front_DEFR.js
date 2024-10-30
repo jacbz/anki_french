@@ -1,12 +1,12 @@
 formatDefinition();
 
-const sentencesInner = document.getElementById("sentences_inner");
+const sentencesInner = document.getElementById("sentences-inner");
 const sentencesData = sentencesInner.innerHTML;
 const sentencesPairs = sentencesData.split("\n\n");
 shuffleArray(sentencesPairs);
 const sentencePair = sentencesPairs[0].split("\n");
-const fr = processText(sentencePair[0], true);
 const de = processText(sentencePair[1], false);
+const fr = processText(sentencePair[0], true, false);
 sentencesInner.innerHTML = `<div class="de">${de}</div>`;
 
 (async () => {
@@ -15,14 +15,7 @@ sentencesInner.innerHTML = `<div class="de">${de}</div>`;
   }
 })();
 
-if (fr.includes("word-highlight")) {
-  const hintButton = document.getElementById("hint_button");
-  hintButton.style.display = "flex";
-  const sentenceHint = document.getElementById("sentence_hint");
-  sentenceHint.innerHTML = `<div class="fr">${fr}</div>`;
+___CLOZE_GAME___;
 
-  hintButton.onclick = function () {
-    sentenceHint.style.display = "block";
-    this.style.display = "none";
-  };
-}
+const gameContainer = document.getElementById("cloze-game");
+initClozeGame(fr, gameContainer);

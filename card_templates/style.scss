@@ -89,6 +89,17 @@ $section-within-section-title-background: hsla(201, 100%, 14%, 0.07);
   user-select: none;
   -webkit-user-select: none;
   font-weight: normal;
+  transition: background-color 0.2s, border-color 0.2s, opacity 0.2s;
+
+  &.disabled {
+    opacity: 0.25;
+    pointer-events: none;
+  }
+
+  &.error {
+    border-color: rgb(240, 57, 57) !important;
+    background: rgba(240, 57, 57, 0.2) !important;
+  }
 }
 
 .svg-button {
@@ -169,6 +180,8 @@ $section-within-section-title-background: hsla(201, 100%, 14%, 0.07);
   text-align: center;
   background-color: white;
   width: 96%;
+  padding-left: 0.2em;
+  padding-right: 0.2em;
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
@@ -338,7 +351,7 @@ span.no-break {
 }
 
 .spoiler {
-  transition: all 0.2s;
+  transition: color 0.2s, background-color 0.2s;
   -webkit-tap-highlight-color: transparent;
   cursor: pointer;
   border-radius: 0.2em;
@@ -357,7 +370,7 @@ span.no-break {
 
 .night_mode .spoiler:not(.clicked) {
   color: transparent;
-  background: #333;
+  background: #383838;
   > * {
     opacity: 0;
   }
@@ -417,6 +430,72 @@ hr {
 }
 
 /**
+  Cloze game
+  -----------------------------------------------
+**/
+#cloze-game {
+  margin-top: 1.5em;
+  background: #ddd;
+  padding: 1em;
+  border-radius: 0.5em;
+  transition: background-color 0.2s, color 0.2s;
+
+  &.finished {
+    background: rgba($tip-color, 0.15) !important;
+
+    hr, #word-buttons {
+      display: none;
+    }
+
+    .cloze {
+      margin: 0;
+    }
+  }
+
+  #sentence-cloze {
+  }
+
+  hr {
+    opacity: 0.2;
+    margin: 1.25em 0;
+  }
+
+  .cloze {
+    display: inline-block;
+    margin-bottom: 0.15em;
+    transition: margin-bottom 0.2s;
+  }
+
+  .spoiler {
+    padding: 0;
+    text-decoration: none !important;
+  }
+
+  .spoiler + .spoiler.no-space {
+    margin-left: -0.5em;
+    padding-left: 0.5em;
+  }
+
+  .button-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5em;
+    margin-top: 1rem;
+  }
+
+  .word-button {
+    height: 1.6em;
+    min-width: 1.5em;
+    padding: 0 0.4em;
+  }
+}
+
+.night_mode #cloze-game {
+  background: #222;
+}
+
+/**
   Box
   -----------------------------------------------
 **/
@@ -439,7 +518,7 @@ hr {
   margin-bottom: 3em;
 }
 
-.box_float {
+.box-float {
   position: absolute;
   top: 0;
   right: 0;
@@ -461,29 +540,12 @@ hr {
   font-size: 50%;
 }
 
-#single_sentence {
+#front-sentence {
   margin-top: 2em;
-  font-size: 50%;
-  display: flex;
-  flex-direction: column;
-  gap: 1.5em;
-  align-items: center;
+  font-size: 55%;
 
   .fr {
     font-weight: normal;
-  }
-}
-
-#sentence_hint {
-  .word-highlight {
-    display: inline-block;
-    white-space: nowrap;
-    height: 1em;
-    width: 4em;
-    text-decoration: none;
-    color: transparent;
-    opacity: 0.65;
-    border-bottom: 0.1em solid var(--highlight-color);
   }
 }
 
@@ -517,11 +579,12 @@ u {
     margin: 0;
   }
 
-  ul, ol {
+  ul,
+  ol {
     margin: 0;
     padding-inline-start: 1.5em;
   }
-  
+
   li {
     list-style-type: square;
   }
@@ -539,7 +602,8 @@ u {
       margin-bottom: 0.75em;
     }
 
-    .fr:not(:first-child), p:not(:first-child) {
+    .fr:not(:first-child),
+    p:not(:first-child) {
       margin-top: 0.5em;
     }
   }
