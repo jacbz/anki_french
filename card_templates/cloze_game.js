@@ -1,14 +1,15 @@
-function initClozeGame(sentence, gameContainer, italicSentence = false) {
+function initClozeGame(sentence, gameContainer, italicSentence = false, showOverlay = true) {
   gameContainer.classList.add("tappable");
 
-  const overlay = document.createElement("div");
-  overlay.id = "overlay";
-  overlay.classList.add("button");
-  overlay.textContent = "Anzeigen";
-  overlay.onclick = () => {
-    overlay.classList.add("hidden");
-  };
-  gameContainer.appendChild(overlay);
+  if (showOverlay) {
+    const overlay = document.createElement("div");
+    overlay.id = "overlay";
+    overlay.textContent = "Show";
+    overlay.onclick = () => {
+      overlay.classList.add("hidden");
+    };
+    gameContainer.appendChild(overlay);
+  }
 
   const wordRegex = /([\p{L}0-9-]+[’']?|\*.+?\*)/gu;
   let words = Array.from(sentence.matchAll(wordRegex), (match) => match[0]);
@@ -134,17 +135,5 @@ function initClozeGame(sentence, gameContainer, italicSentence = false) {
   function finish() {
     gameContainer.classList.add("finished");
     gameContainer.classList.remove("tappable");
-
-    if (typeof pycmd !== "undefined") {
-      pycmd("ans");
-    } else if (typeof study !== "undefined") {
-      study.drawAnswer();
-    } else if (typeof AnkiDroidJS !== "undefined") {
-      showAnswer();
-    } else if (window.anki && window.sendMessage2) {
-      window.sendMessage2("ankitap", "midCenter");
-    } else {
-      sentenceContainer.click();
-    }
   }
 }

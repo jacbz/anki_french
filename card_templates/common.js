@@ -192,3 +192,5 @@ function b64ToBlob(b64Data, contentType, sliceSize = 512) {
   }
   return new Blob(byteArrays, { type: contentType });
 }
+
+___CLOZE_GAME___;

@@ -93,7 +93,8 @@ const sentencesPairs = sentencesData.split("\n\n");
 shuffleArray(sentencesPairs, false);
 
 let currentSentence = 0;
-const sentenceCounter = document.getElementById("sentence_counter");
+let showClozeGame = false;
+const sentenceCounter = document.getElementById("sentence-counter");
 
 const audioButton = function (text, customFileName = "") {
   return `<div class="button svg-button small play-sentence" data-text="${encodeURIComponent(
@@ -105,12 +106,36 @@ const audioButton = function (text, customFileName = "") {
   </div>`;
 };
 
+const gameContainer = document.getElementById("cloze-game");
 function refreshExampleSentences() {
   const fr = sentencesPairs[currentSentence].split("\n")[0];
   const de = sentencesPairs[currentSentence].split("\n")[1];
-  sentencesInner.innerHTML = frenchFirst
-    ? `<div class="fr">${fr}</div><span class="de spoiler">${de}</span>`
-    : `<div class="de">${de}</div><span class="fr spoiler">${fr}</span>`;
+
+  if (showClozeGame) {
+    sentencesInner.innerHTML = frenchFirst
+      ? `<div class="fr">${fr}</div>`
+      : `<div class="de">${de}</div>`;
+
+    gameContainer.style.display = null;
+
+    gameContainer.innerHTML = "";
+    gameContainer.className = "";
+    initClozeGame(
+      frenchFirst
+        ? processText(de, false, false)
+        : processText(fr, true, false),
+      gameContainer,
+      frenchFirst,
+      false
+    );
+  } else {
+    sentencesInner.innerHTML = frenchFirst
+      ? `<div class="fr">${fr}</div><span class="de spoiler">${de}</span>`
+      : `<div class="de">${de}</div><span class="fr spoiler">${fr}</span>`;
+
+    gameContainer.style.display = "none";
+  }
+
   sentenceCounter.textContent = `${currentSentence + 1}/${
     sentencesPairs.length
   }`;
@@ -150,7 +175,7 @@ function formatSentences(within = document) {
     el.innerHTML = processText(el.innerHTML, false);
   });
 
-  within.querySelectorAll(".spoiler").forEach(function (el) {
+  within.querySelectorAll(".spoiler:not(.cloze)").forEach(function (el) {
     if (!options.hideSpoilers) {
       el.classList.add("clicked");
     } else {
@@ -191,7 +216,8 @@ formatSentences();
 // do not show spoiler for first sentence
 document.querySelector(".spoiler").classList.add("clicked");
 
-const nextSentenceButton = document.getElementById("next_sentence");
+const nextSentenceButton = document.getElementById("next-sentence");
+const clozeGameButton = document.getElementById("cloze-game-button");
 nextSentenceButton.onclick = nextSentenceHandler;
 sentencesInner.ondblclick = nextSentenceHandler;
 
@@ -202,6 +228,12 @@ function nextSentenceHandler(event) {
   currentSentence = (currentSentence + 1) % sentencesPairs.length;
   refreshExampleSentences();
 }
+
+clozeGameButton.onclick = function (e) {
+  e.stopPropagation();
+  showClozeGame = !showClozeGame;
+  refreshExampleSentences();
+};
 
 /**
  * Conjugations

@@ -22,12 +22,10 @@ function render() {
     }
   })();
   
-  ___CLOZE_GAME___;
-  
   const gameContainer = document.getElementById("cloze-game");
   gameContainer.innerHTML = "";
   gameContainer.className = "";
-  initClozeGame(fr, gameContainer);
+  initClozeGame(de, gameContainer);
 }
 
 render();

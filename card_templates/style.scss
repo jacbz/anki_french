@@ -436,11 +436,10 @@ hr {
   -----------------------------------------------
 **/
 #cloze-game {
-  margin-top: 1.5em;
   background: #ddd;
   padding: 1em;
   border-radius: 0.5em;
-  transition: background-color 0.2s, color 0.2s;
+  transition: background-color 0.2s, color 0.2s, padding 0.2s;
   overflow: hidden;
   position: relative;
 
@@ -450,25 +449,24 @@ hr {
     hr, #word-buttons {
       display: none;
     }
-
-    .cloze {
-      margin: 0;
-    }
   }
 
   #overlay {
-    border: none !important;
     width: 100%;
     height: 100%;
     position: absolute;
     top: 0;
     left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     backdrop-filter: blur(5px);
     -webkit-backdrop-filter: blur(5px);
     z-index: 500;
     transition: opacity 0.2s, background-color 0.2s;
     font-size: 75%;
     color: var(--secondary-text);
+    cursor: pointer;
 
     &.hidden {
       opacity: 0;
@@ -486,8 +484,6 @@ hr {
 
   .cloze {
     display: inline-block;
-    margin-bottom: 0.15em;
-    transition: margin-bottom 0.2s, background-color 0.2s, color 0.2s;
   }
 
   .spoiler {
@@ -562,6 +558,15 @@ hr {
   border-width: 3px;
   padding: 12px;
   font-size: 50%;
+
+  #cloze-game {
+    background: transparent !important;
+    padding: 0.5em !important;
+
+    &.finished {
+      padding: 0 !important;
+    }
+  }
 }
 
 #front-sentence {
@@ -570,6 +575,10 @@ hr {
 
   .fr {
     font-weight: normal;
+  }
+
+  #sentences-inner {
+    margin-bottom: 1.5em;
   }
 }
 
