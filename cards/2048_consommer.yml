@@ -13,23 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous consommons des aliments génétiquement modifiés.
-  Wir nehmen gentechnisch veränderte Lebensmittel zu uns.
+  Nous *consommons* des aliments génétiquement modifiés.
+  Wir *konsumieren* gentechnisch veränderte Lebensmittel.
 
-  Nous devons consommer moins d’énergie.
-  Wir müssen weniger Energie verbrauchen.
+  Cette boisson se *consomme* de préférence glacée.
+  Dieses Getränk wird vorzugsweise eiskalt *getrunken*.
 
-  Le mariage est consommé, ce qui signifie que le couple a eu des relations sexuelles.
-  Die Ehe wird vollzogen, das heißt, das Paar hat Geschlechtsverkehr gehabt.
+  La voiture électrique *consomme* moins d'énergie qu'une voiture à essence.
+  Das Elektroauto *verbraucht* weniger Energie als ein Benziner.
 
-  Ce plat se consomme chaud, il est donc préférable de le servir dès sa sortie du four.
-  Das Gericht wird warm gegessen, daher ist es am besten, es direkt aus dem Ofen zu servieren.
+  As-tu *consommé* quelque chose au bar ?
+  Hast du im Bar etwas *getrunken*?
 
-  Ce poisson se consomme cru, c'est un plat typique de la cuisine japonaise.
-  Dieser Fisch wird roh gegessen, es ist ein typisches Gericht der japanischen Küche.
+  Le mariage n'a pas été *consommé*.
+  Die Ehe wurde nicht *vollzogen*.
 
-  Ce fromage est à consommer avant le 15 octobre, il est donc important de le manger rapidement.
-  Dieser Käse ist mindestens haltbar bis zum 15. Oktober, daher ist es wichtig, ihn schnell zu essen.
+  Cette entreprise *consomme* beaucoup d'électricité.
+  Dieses Unternehmen *verbraucht* viel Strom.
+
+  Les Français *consomment* moins de viande qu'avant.
+  Die Franzosen *konsumieren* weniger Fleisch als früher.
+
+  Le forfait a été *consommé* hier soir.
+  Das Verbrechen wurde gestern Abend *begangen*.
+
+  Cette soupe se *consomme* chaude.
+  Diese Suppe wird heiß *gegessen*.
+
+  Mon nouveau radiateur *consomme* trop de gaz.
+  Meine neue Heizung *verbraucht* zu viel Gas.
+
+  Il faut *consommer* ce plat dans les 24 heures.
+  Man muss dieses Gericht innerhalb von 24 Stunden *verzehren*.
+
+  Marie *consomme* trois romans par semaine.
+  Marie *konsumiert* drei Romane pro Woche.
+
+  Cette machine *consomme* deux fois plus d'essence que la mienne.
+  Diese Maschine *verbraucht* doppelt so viel Benzin wie meine.
+
+  Les jeunes *consomment* de plus en plus de contenus en ligne.
+  Junge Menschen *konsumieren* immer mehr Online-Inhalte.
+
+  Le poisson se *consomme* cru dans certains pays.
+  Der Fisch wird in manchen Ländern roh *verzehrt*.
+
+  À *consommer* avant fin 2024.
+  Zu *verzehren* vor Ende 2024.
+
+  Nous avons *consommé* notre pique-nique dans le parc.
+  Wir haben unser Picknick im Park *verzehrt*.
+
+  Cette région *consomme* beaucoup de charbon pour se chauffer.
+  Diese Region *verbraucht* viel Kohle zum Heizen.
+
+  La ruine de l'entreprise fut *consommée* en quelques mois.
+  Der Untergang des Unternehmens war nach wenigen Monaten *vollzogen*.
+
+  Pierre *consomme* régulièrement dans ce café.
+  Pierre *bestellt* regelmäßig etwas in diesem Café.
+
+  Les Allemands *consomment* plus de pain que les Français.
+  Die Deutschen *verzehren* mehr Brot als die Franzosen.
+
+  Mon ordinateur portable *consomme* moins d'énergie que l'ancien.
+  Mein Laptop *verbraucht* weniger Energie als der alte.
+
+  Le sacrifice fut *consommé* à l'aube.
+  Das Opfer wurde im Morgengrauen *vollbracht*.
+
+  Ces légumes peuvent se *consommer* cuits ou crus.
+  Dieses Gemüse kann gekocht oder roh *verzehrt* werden.
+
+  Les touristes *consomment* beaucoup d'eau en été.
+  Die Touristen *verbrauchen* im Sommer viel Wasser.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

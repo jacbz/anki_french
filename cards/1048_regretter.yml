@@ -13,35 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tous étaient violents. Peu regrettaient leurs actes.
-  Alle waren gewalttätig. Nur wenige bereuten ihre Taten.
+  Tous étaient violents. Peu *regrettaient* leurs actes.
+  Alle waren gewalttätig. Wenige *bereuten* ihre Taten.
 
-  Je regrette d’avoir mangé trop de gâteau.
-  Ich bedauere, zu viel Kuchen gegessen zu haben.
+  Je ne *regrette* pas d'avoir déménagé à Paris.
+  Ich *bereue* es nicht, nach Paris gezogen zu sein.
 
-  Je vais le regretter.
-  Ich werde es bereuen.
+  Il *regrettera* sa décision plus tard.
+  Er wird seine Entscheidung später *bereuen*.
 
-  Il va le regretter.
-  Er wird es bereuen.
+  *Regrettez*-vous d'avoir quitté votre emploi ?
+  *Bereuen* Sie es, Ihren Job gekündigt zu haben?
 
-  Il regrette son intransigeance, car il a perdu de précieux amis à cause de son comportement.
-  Er bereut seine Unnachgiebigkeit, denn er hat durch sein Verhalten wertvolle Freunde verloren.
+  Elle *regrette* amèrement son comportement d'hier soir.
+  Sie *bereut* ihr Verhalten von gestern Abend zutiefst.
 
-  Je regrette de ne pas avoir pu venir à ton anniversaire.
-  Ich bedaure, dass ich nicht zu deinem Geburtstag kommen konnte.
+  Je *regrette* sincèrement de vous avoir fait attendre.
+  Es tut mir aufrichtig *leid*, Sie haben warten lassen zu müssen.
 
-  Pierre regrette sa jeunesse, car il n'a pas profité de toutes les opportunités qu'elle lui offrait.
-  Pierre trauert seiner Jugend nach, da er nicht alle Chancen genutzt hat, die sie ihm bot.
+  Nous *regrettons* tous le départ de Marie.
+  Wir *vermissen* alle Marie, seit sie weg ist.
 
-  Après avoir vécu à l'étranger pendant plusieurs années, il regrette le pays natal et ses traditions.
-  Nachdem er mehrere Jahre im Ausland gelebt hat, sehnt er sich nach seiner Heimat und deren Traditionen.
+  Je *regrette* ma jeunesse insouciante.
+  Ich *sehne* mich nach meiner sorglosen Jugend.
 
-  Marie regrette son mari, qui est décédé il y a quelques mois.
-  Marie fehlt ihr Mann, der vor einigen Monaten verstorben ist.
+  Si tu refuses cette offre, tu vas le *regretter*.
+  Wenn du dieses Angebot ablehnst, wirst du es *bereuen*.
 
-  Nous avons organisé un repas en l'honneur de notre regretté collègue, qui nous a quittés trop tôt.
-  Wir haben ein Essen zu Ehren unseres geschätzten Kollegen organisiert, der uns viel zu früh verlassen hat.
+  Notre *regretté* professeur nous manque beaucoup.
+  Wir *vermissen* unseren geschätzten Professor sehr.
+
+  Je *regrette* de ne pas avoir étudié plus dur à l'école.
+  Ich *bereue*, dass ich in der Schule nicht härter gelernt habe.
+
+  Elle *regrette* que son fils soit parti si loin.
+  Sie *bedauert*, dass ihr Sohn so weit weggezogen ist.
+
+  Je *regrette* chaque minute passée avec lui.
+  Ich *bereue* jede Minute, die ich mit ihm verbracht habe.
+
+  "Je *regrette*, mais c'est impossible."
+  "Es tut mir *leid*, aber das ist unmöglich."
+
+  Tu vas *regretter* tes paroles !
+  Du wirst deine Worte *bereuen*!
+
+  Je ne *regrette* rien de ce que j'ai fait.
+  Ich *bereue* nichts von dem, was ich getan habe.
+
+  Nous *regrettons* de vous informer que votre candidature n'a pas été retenue.
+  Wir *bedauern*, Ihnen mitteilen zu müssen, dass Ihre Bewerbung nicht erfolgreich war.
+
+  Il *regrette* son pays natal chaque jour.
+  Er *sehnt* sich jeden Tag nach seiner Heimat.
+
+  Je *regrette* mon intransigeance envers mes enfants.
+  Ich *bereue* meine Unnachgiebigkeit gegenüber meinen Kindern.
+
+  Les employés *regrettent* leur ancien patron.
+  Die Mitarbeiter *vermissen* ihren ehemaligen Chef.
+
+  Je *regrette* d'avoir vendu ma vieille voiture.
+  Ich *bereue* es, mein altes Auto verkauft zu haben.
+
+  Elle *regrette* son geste impulsif.
+  Sie *bereut* ihre impulsive Handlung.
+
+  Vous allez *regretter* votre insolence !
+  Sie werden Ihre Unverschämtheit *bereuen*!
+
+  Je *regrette* l'époque où nous vivions ensemble.
+  Ich *vermisse* die Zeit, als wir zusammen lebten.
+
+  *Regrettez*-vous votre décision ?
+  *Bereuen* Sie Ihre Entscheidung?
+
+  Il *regrette* profondément d'avoir menti.
+  Er *bereut* es zutiefst, gelogen zu haben.
+
+  Nous *regrettons* les splendeurs du passé.
+  Wir *trauern* der Pracht der Vergangenheit nach.
+
+  Je *regrette* que nous n'ayons pas pu nous voir.
+  Ich *bedaure*, dass wir uns nicht sehen konnten.
+
+  Personne ne *regrettera* son départ.
+  Niemand wird seinen Weggang *bedauern*.
+
+  Elle ne *regrette* pas d'avoir pris ce risque.
+  Sie *bereut* es nicht, dieses Risiko eingegangen zu sein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

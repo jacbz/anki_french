@@ -13,41 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tout ceci a causé une certaine frustration.
-  All dies führte zu einer gewissen Frustration.
+  Tout ceci a *causé* une certaine frustration.
+  All das hat eine gewisse Frustration *verursacht*.
 
-  La nouvelle de son succès a causé de la joie à toute la famille.
-  Die Nachricht von seinem Erfolg hat die ganze Familie sehr gefreut.
+  La tempête a *causé* beaucoup de dégâts dans la région.
+  Der Sturm hat in der Region großen Schaden *verursacht*.
 
-  Le comportement de l'enfant a causé de la peine à ses parents.
-  Das Verhalten des Kindes hat seinen Eltern Kummer bereitet.
+  Cette nouvelle a *causé* une grande joie à mes parents.
+  Diese Nachricht hat meinen Eltern große Freude *bereitet*.
 
-  J'ai causé avec le professeur de mon fils de ses difficultés en mathématiques.
-  Ich habe mit dem Lehrer meines Sohnes über seine Schwierigkeiten in Mathe gesprochen.
+  "Je *cause* avec Marie depuis une heure."
+  "Ich *plaudere* seit einer Stunde mit Marie."
 
-  Il ne faut pas causer sur les autres derrière leur dos.
-  Man sollte nicht über andere hinter deren Rücken reden.
+  L'accident a *causé* trois blessés graves.
+  Der Unfall hat drei Schwerverletzte *verursacht*.
 
-  La tempête a causé des dégâts à la maison.
-  Der Sturm hat der Wohnung Schaden zugefügt.
+  Les fortes pluies ont *causé* des inondations.
+  Die starken Regenfälle haben Überschwemmungen *verursacht*.
 
-  Les paroles du directeur ont causé un préjudice moral à l'employé.
-  Die Worte des Direktors haben den Mitarbeiter immateriell geschädigt.
+  "On *cause* un peu trop sur son compte ces derniers temps."
+  "Man *redet* in letzter Zeit ein bisschen zu viel über sie."
 
-  Assez causé ! Je n'en peux plus de tes plaintes.
-  Genug geredet! Ich kann deine Klagen nicht mehr ertragen.
+  Cette décision va *causer* beaucoup de problèmes.
+  Diese Entscheidung wird viele Probleme *verursachen*.
 
-  Je te cause ! Tu dois m'écouter attentivement.
-  Ich rede mit dir! Du musst mir aufmerksam zuhören.
+  "*Cause* toujours, tu m'intéresses!"
+  "*Red* nur weiter, das interessiert mich!"
 
-  Cause toujours ! Je t'écoute avec plaisir.
-  Red' du nur! Ich höre dir gerne zu.
+  Le bruit constant *cause* des maux de tête.
+  Der ständige Lärm *verursacht* Kopfschmerzen.
 
-  Son attitude fait causer.
-  Sein Verhalten sorgt für Gerede.
+  Ils *causent* de la pluie et du beau temps.
+  Sie *unterhalten* sich über dies und das.
 
-  On commence à causer sur le nouveau voisin.
-  Es wird schon getratscht über den neuen Nachbarn.
+  Son départ a *causé* beaucoup de chagrin.
+  Sein Weggang hat viel Kummer *verursacht*.
+
+  "Tu veux *causer* un peu avec moi?"
+  "Willst du ein bisschen mit mir *plaudern*?"
+
+  Les émissions de CO2 *causent* le réchauffement climatique.
+  CO2-Emissionen *verursachen* die Erderwärmung.
+
+  "Assez *causé*, passons aux choses sérieuses!"
+  "Genug *geredet*, kommen wir zu den wichtigen Dingen!"
+
+  Cette erreur nous a *causé* une grande perte d'argent.
+  Dieser Fehler hat uns einen großen finanziellen Verlust *verursacht*.
+
+  Je vais *causer* avec ton professeur de tes notes.
+  Ich werde mit deinem Lehrer über deine Noten *sprechen*.
+
+  Le virus a *causé* une épidémie mondiale.
+  Das Virus hat eine weltweite Epidemie *verursacht*.
+
+  "Il aime bien *causer* politique avec ses amis."
+  "Er *redet* gerne mit seinen Freunden über Politik."
+
+  Son comportement *cause* beaucoup d'inquiétude à ses parents.
+  Sein Verhalten *bereitet* seinen Eltern große Sorgen.
+
+  "On *causera* de tout ça demain, d'accord?"
+  "Wir *reden* morgen über all das, okay?"
+
+  Le stress *cause* souvent des problèmes de sommeil.
+  Stress *verursacht* oft Schlafprobleme.
+
+  Cette histoire *cause* beaucoup de bruit dans le quartier.
+  Diese Geschichte *sorgt* für viel Gerede in der Nachbarschaft.
+
+  "Je *cause* rarement avec mes voisins."
+  "Ich *rede* selten mit meinen Nachbarn."
+
+  Son retard a *causé* l'annulation de la réunion.
+  Seine Verspätung hat die Absage des Meetings *verursacht*.
+
+  Les rumeurs ont *causé* la rupture de leur amitié.
+  Die Gerüchte haben zum Bruch ihrer Freundschaft *geführt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

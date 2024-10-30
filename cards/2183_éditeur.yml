@@ -13,20 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai mis un mot chez l’éditeur.
-  Ich habe eine Notiz beim Verlag hinterlegt.
+  J'ai mis un mot chez l'*éditeur*.
+  Ich habe eine Nachricht beim *Verleger* hinterlassen.
 
-  L’éditeur a publié un nouveau livre.
-  Der Verleger hat ein neues Buch veröffentlicht.
+  L'*éditeur* de presse a publié un article très controversé.
+  Der Zeitungs*verleger* hat einen sehr kontroversen Artikel veröffentlicht.
 
-  Jean-Pierre est un éditeur de presse reconnu dans le milieu.
-  Jean-Pierre ist ein bekannter Zeitungsverleger in der Branche.
+  Cette maison d'édition cherche un nouvel *éditeur* pour son département jeunesse.
+  Dieser Verlag sucht einen neuen *Verleger* für seine Jugendabteilung.
 
-  Marie est l'éditrice du programme de l'émission de radio.
-  Marie ist die Programmeditorin der Radiosendung.
+  Mon frère travaille comme *éditeur* de logiciels depuis dix ans.
+  Mein Bruder arbeitet seit zehn Jahren als Software*editor*.
 
-  Le logiciel comprend un éditeur de textes simple et efficace.
-  Die Software enthält einen einfachen und effizienten Texteditor.
+  La société *éditrice* de films a remporté plusieurs prix.
+  Die Film*verleiherin* hat mehrere Preise gewonnen.
+
+  L'*éditeur* de textes que j'utilise n'est pas très performant.
+  Der Text*editor*, den ich benutze, ist nicht sehr leistungsfähig.
+
+  Pierre est devenu *éditeur* de musique après ses études au conservatoire.
+  Pierre ist nach seinem Studium am Konservatorium Musik*verleger* geworden.
+
+  L'*éditeur* scientifique a passé des années à analyser ces manuscrits anciens.
+  Der wissenschaftliche *Herausgeber* hat Jahre damit verbracht, diese alten Manuskripte zu analysieren.
+
+  Cet *éditeur* de liens facilite grandement le travail des programmeurs.
+  Dieser *Binder* erleichtert die Arbeit der Programmierer erheblich.
+
+  Marie est *éditrice* d'objets design dans une entreprise innovante.
+  Marie ist Design*verlegerin* in einem innovativen Unternehmen.
+
+  L'*éditeur* du programme a planté pendant la mise à jour.
+  Der Programm*editor* ist während des Updates abgestürzt.
+
+  Notre *éditeur* responsable vérifie chaque article avant publication.
+  Unser verantwortlicher *Herausgeber* prüft jeden Artikel vor der Veröffentlichung.
+
+  Ce petit *éditeur* publie des livres de poésie très originaux.
+  Dieser kleine *Verleger* veröffentlicht sehr originelle Gedichtbände.
+
+  L'*éditrice* a décidé de publier le manuscrit après l'avoir lu.
+  Die *Verlegerin* hat beschlossen, das Manuskript nach der Lektüre zu veröffentlichen.
+
+  Sophie est *éditrice* de littérature contemporaine depuis vingt ans.
+  Sophie ist seit zwanzig Jahren *Verlegerin* für zeitgenössische Literatur.
+
+  Cet *éditeur* de disques a lancé de nombreux artistes célèbres.
+  Dieser Platten*verleger* hat viele bekannte Künstler entdeckt.
+
+  La société *éditrice* a décidé d'arrêter la publication du magazine.
+  Die *Verlags*gesellschaft hat beschlossen, die Veröffentlichung der Zeitschrift einzustellen.
+
+  L'*éditeur* de jeux vidéo a annoncé une nouvelle sortie pour l'été.
+  Der Videospiel*verleger* hat eine neue Veröffentlichung für den Sommer angekündigt.
+
+  Mon ancien *éditeur* m'a proposé un nouveau contrat hier.
+  Mein ehemaliger *Verleger* hat mir gestern einen neuen Vertrag angeboten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

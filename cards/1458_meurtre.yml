@@ -13,17 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous êtes accusé de meurtre!
-  Sie werden des Mordes angeklagt!
+  Vous êtes accusé de *meurtre* !
+  Sie sind des *Mordes* angeklagt!
 
-  Le meurtre est un crime grave.
-  Mord ist ein schweres Verbrechen.
+  Le *meurtre* de son père l'a profondément marqué.
+  Der *Mord* an seinem Vater hat ihn tief geprägt.
 
-  Le tueur a été reconnu coupable de meurtre avec préméditation.
-  Der Mörder wurde wegen vorsätzlicher Tötung verurteilt.
+  La tentative de *meurtre* a échoué grâce à l'intervention rapide de la police.
+  Der *Mord*versuch scheiterte dank des schnellen Eingreifens der Polizei.
 
-  Il a été accusé du meurtre de sa femme, mais il a toujours clamé son innocence.
-  Er wurde des Mordes an seiner Ehefrau angeklagt, aber er hat immer seine Unschuld beteuert.
+  "*Meurtre* !" cria-t-elle en voyant le prix exorbitant.
+  "*Mord* und Totschlag!" rief sie, als sie den überteuerten Preis sah.
+
+  Le *meurtre* avec préméditation est puni plus sévèrement.
+  Der vorsätzliche *Mord* wird härter bestraft.
+
+  Les voisins ont entendu des cris avant le *meurtre*.
+  Die Nachbarn hörten vor dem *Mord* Schreie.
+
+  L'enquête sur le *meurtre* progresse lentement.
+  Die Ermittlungen im *Mord*fall kommen nur langsam voran.
+
+  Elle a été condamnée pour *meurtre* en première instance.
+  Sie wurde in erster Instanz wegen *Mordes* verurteilt.
+
+  Le mobile du *meurtre* reste mystérieux.
+  Das Motiv für den *Mord* bleibt rätselhaft.
+
+  Un nouveau témoin dans l'affaire de *meurtre* s'est manifesté.
+  Im *Mord*fall hat sich ein neuer Zeuge gemeldet.
+
+  L'incitation au *meurtre* est un délit grave.
+  Die Anstiftung zum *Mord* ist eine schwere Straftat.
+
+  La série traite d'un *meurtre* non résolu depuis vingt ans.
+  Die Serie handelt von einem ungelösten *Mord* vor zwanzig Jahren.
+
+  Le suspect nie toute implication dans ce *meurtre*.
+  Der Verdächtige bestreitet jede Beteiligung an diesem *Mord*.
+
+  Les indices suggèrent un *meurtre* passionnel.
+  Die Indizien deuten auf einen *Mord* aus Leidenschaft hin.
+
+  Un *meurtre* a été commis hier soir dans le quartier.
+  Gestern Abend wurde in dem Viertel ein *Mord* begangen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,47 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai besoin d’un médecin.
-  Ich brauche einen Arzt.
+  J'ai besoin d'un *médecin*.
+  Ich brauche einen *Arzt*.
 
-  Je dois aller chez le médecin demain.
-  Ich muss morgen zum Arzt gehen.
+  Le *médecin* traitant lui a prescrit des antibiotiques.
+  Der behandelnde *Arzt* hat ihr Antibiotika verschrieben.
 
-  Je veux un médecin.
-  Ich möchte einen Arzt.
+  Elle est *médecin* de campagne depuis vingt ans.
+  Sie ist seit zwanzig Jahren Land*ärztin*.
 
-  Il me faut un médecin.
-  Ich brauche einen Arzt.
+  Un *médecin* généraliste examine plus de patients qu'un spécialiste.
+  Ein *Haus**arzt* untersucht mehr Patienten als ein Facharzt.
 
-  Le médecin sera là dans une minute.
-  Der Arzt ist in einer Minute da.
+  Le *médecin* du sport a autorisé l'athlète à reprendre l'entraînement.
+  Der Sport*mediziner* hat dem Athleten erlaubt, das Training wieder aufzunehmen.
 
-  Le médecin d'hôpital était un homme bienveillant, toujours prêt à aider ses patients.
-  Der Krankenhausarzt war ein gütiger Mann, der seinen Patienten immer gerne half.
+  Notre *médecin* de famille prend sa retraite le mois prochain.
+  Unser Familien*arzt* geht nächsten Monat in Rente.
 
-  Le médecin d'entreprise a constaté que la pollution sonore était un problème majeur dans l'usine.
-  Der Betriebsarzt hat festgestellt, dass die Lärmbelastung ein großes Problem in der Fabrik ist.
+  Les *médecins* hospitaliers font souvent des gardes de nuit.
+  Die Krankenhaus*ärzte* haben oft Nachtdienst.
 
-  Le médecin du sport a conseillé à Marie de renforcer ses muscles abdominaux.
-  Die Sportmedizinerin hat Marie geraten, ihre Bauchmuskeln zu stärken.
+  Le *médecin* légiste a déterminé l'heure du décès.
+  Der Gerichts*mediziner* hat die Todeszeit festgestellt.
 
-  Le médecin du travail a demandé à Paul de porter des lunettes de protection au travail.
-  Der Werkarzt hat Paul aufgefordert, im Betrieb eine Schutzbrille zu tragen.
+  Mon frère étudie pour devenir *médecin*.
+  Mein Bruder studiert, um *Arzt* zu werden.
 
-  L'examen pratiqué par le médecin du travail est obligatoire pour tous les employés.
-  Die werkärztliche Untersuchung ist für alle Mitarbeiter obligatorisch.
+  As-tu déjà pris rendez-vous chez le *médecin* ?
+  Hast du schon einen Termin beim *Arzt* gemacht?
 
-  Tous les employés doivent se faire examiner par le médecin du travail avant de commencer à travailler.
-  Alle Angestellten müssen sich vor Arbeitsbeginn werkärztlich untersuchen lassen.
+  Le *médecin* du travail m'a déclaré apte à reprendre mon poste.
+  Der Betriebs*arzt* hat mich als arbeitsfähig eingestuft.
 
-  Le médecin légiste a confirmé que la victime était décédée d'un arrêt cardiaque.
-  Der Gerichtsarzt hat bestätigt, dass das Opfer an einem Herzstillstand gestorben ist.
+  Cette femme *médecin* est très appréciée par ses patients.
+  Diese *Ärztin* wird von ihren Patienten sehr geschätzt.
 
-  La police a fait examiner la victime par un médecin légiste pour déterminer la cause du décès.
-  Die Polizei hat die Leiche gerichtsärztlich untersuchen lassen, um die Todesursache zu ermitteln.
+  Le *médecin*-chef dirige le service de cardiologie.
+  Der Chef*arzt* leitet die kardiologische Abteilung.
 
-  Les médecins se sont réunis pour discuter des dernières découvertes en matière de médecine.
-  Die Ärzteschaft kam zusammen, um über die neuesten medizinischen Erkenntnisse zu diskutieren.
+  Les *médecins* militaires sont partis en mission humanitaire.
+  Die Militär*ärzte* sind zu einem humanitären Einsatz aufgebrochen.
+
+  Un bon prêtre est aussi *médecin* de l'âme.
+  Ein guter Priester ist auch ein Seelen*arzt*.
+
+  Le *médecin*-conseil a validé mon arrêt de travail.
+  Der beratende *Arzt* hat meine Krankschreibung bestätigt.
+
+  La pénurie de *médecins* touche surtout les zones rurales.
+  Der *Ärzte*mangel betrifft vor allem ländliche Gebiete.
+
+  Notre nouveau *médecin* de ville parle trois langues.
+  Unser neuer Stadt*arzt* spricht drei Sprachen.
+
+  Les *médecins* spécialistes ont des délais d'attente plus longs.
+  Die Fach*ärzte* haben längere Wartezeiten.
+
+  Le *médecin* biologiste analyse les résultats de laboratoire.
+  Der Labor*arzt* analysiert die Laborergebnisse.
+
+  Je dois consulter un *médecin* expert pour mon dossier d'invalidité.
+  Ich muss einen Gutachter*arzt* für meinen Invaliditätsantrag aufsuchen.
+
+  Les *médecins* des hôpitaux sont en grève aujourd'hui.
+  Die Krankenhaus*ärzte* streiken heute.
+
+  Tous les *médecins* doivent suivre une formation continue.
+  Alle *Ärzte* müssen sich regelmäßig fortbilden.
+
+  Par ordre du *médecin*, elle doit rester au lit pendant une semaine.
+  Auf Anordnung des *Arztes* muss sie eine Woche im Bett bleiben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

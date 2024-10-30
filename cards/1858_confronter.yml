@@ -13,23 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle est confrontée à des défis plus nombreux.
-  Sie sieht sich mit mehr Herausforderungen konfrontiert.
+  Elle est *confrontée* à des défis plus nombreux.
+  Sie ist mit größeren Herausforderungen *konfrontiert*.
 
-  Je vais confronter les deux versions de l’histoire.
-  Ich werde die beiden Versionen der Geschichte gegenüberstellen.
+  La police a *confronté* le suspect avec le témoin principal.
+  Die Polizei hat den Verdächtigen dem Hauptzeugen *gegenübergestellt*.
 
-  Le professeur a confronté l'élève avec le reste de la classe pour qu'il puisse expliquer son point de vue.
-  Der Lehrer hat den Schüler dem Rest der Klasse gegenübergestellt, damit er seinen Standpunkt erläutern konnte.
+  Les chercheurs ont *confronté* leurs résultats pour trouver des similitudes.
+  Die Forscher haben ihre Ergebnisse *verglichen*, um Ähnlichkeiten zu finden.
 
-  Les deux politiciens se sont confrontés sur les questions économiques du pays.
-  Die beiden Politiker führten ein Streitgespräch über die wirtschaftlichen Probleme des Landes.
+  Les étudiants doivent *confronter* différentes théories philosophiques.
+  Die Studenten müssen verschiedene philosophische Theorien *gegenüberstellen*.
 
-  Le jeune artiste se confronte à la critique acerbe des médias.
-  Der junge Künstler steht der scharfen Kritik der Medien gegenüber.
+  Je me suis *confronté* à la réalité du marché du travail.
+  Ich musste mich der Realität des Arbeitsmarktes *stellen*.
 
-  Il faut se confronter à la réalité et accepter que les choses ne sont pas toujours faciles.
-  Man muss sich der Wirklichkeit stellen und akzeptieren, dass die Dinge nicht immer leicht sind.
+  Le juge a décidé de *confronter* l'accusé avec sa victime.
+  Der Richter beschloss, den Angeklagten dem Opfer *gegenüberzustellen*.
+
+  Nous devons *confronter* nos opinions sur ce sujet délicat.
+  Wir müssen unsere Meinungen zu diesem heiklen Thema *vergleichen*.
+
+  Les experts se sont *confrontés* sur la question du changement climatique.
+  Die Experten haben über die Frage des Klimawandels *kontrovers diskutiert*.
+
+  Il est *confronté* à un choix difficile.
+  Er steht vor einer schwierigen Entscheidung.
+
+  Le professeur a *confronté* les deux versions de l'histoire.
+  Der Lehrer hat die beiden Versionen der Geschichte *gegenübergestellt*.
+
+  Les pays se sont *confrontés* sur la question des frontières.
+  Die Länder haben über die Grenzfrage *gestritten*.
+
+  L'entreprise est *confrontée* à des difficultés financières.
+  Das Unternehmen ist mit finanziellen Schwierigkeiten *konfrontiert*.
+
+  Le détective a *confronté* les déclarations des témoins.
+  Der Detektiv hat die Aussagen der Zeugen *verglichen*.
+
+  Les scientifiques ont *confronté* leurs hypothèses aux données réelles.
+  Die Wissenschaftler haben ihre Hypothesen mit den realen Daten *abgeglichen*.
+
+  Nous devons nous *confronter* à nos peurs pour les surmonter.
+  Wir müssen uns unseren Ängsten *stellen*, um sie zu überwinden.
+
+  Le jury a *confronté* les deux candidats lors du débat final.
+  Die Jury hat die beiden Kandidaten in der Abschlussdebatte *gegenübergestellt*.
+
+  Les journalistes ont *confronté* les programmes des partis politiques.
+  Die Journalisten haben die Programme der politischen Parteien *verglichen*.
+
+  L'avocat a demandé à *confronter* les versions contradictoires.
+  Der Anwalt verlangte, die widersprüchlichen Versionen *gegenüberzustellen*.
+
+  Les médecins se sont *confrontés* à une nouvelle maladie inconnue.
+  Die Ärzte sahen sich mit einer neuen unbekannten Krankheit *konfrontiert*.
+
+  Elle doit *confronter* son passé pour avancer.
+  Sie muss sich ihrer Vergangenheit *stellen*, um voranzukommen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

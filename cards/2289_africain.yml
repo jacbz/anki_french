@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il se sent avant tout africain.
-  Er fühlt sich vor allem als Afrikaner.
+  Il se sent avant tout *africain*.
+  Er fühlt sich in erster Linie *afrikanisch*.
 
-  Mon ami est africain.
-  Mein Freund ist Afrikaner.
+  Les plus grandes réserves naturelles se trouvent sur le continent *africain*.
+  Die größten Naturreservate befinden sich auf dem *afrikanischen* Kontinent.
+
+  De nombreuses langues *africaines* sont menacées de disparition.
+  Viele *afrikanische* Sprachen sind vom Aussterben bedroht.
+
+  Ma collègue est une *Africaine* qui vient du Sénégal.
+  Meine Kollegin ist eine *Afrikanerin* aus dem Senegal.
+
+  L'art *africain* contemporain gagne en popularité dans le monde entier.
+  Zeitgenössische *afrikanische* Kunst wird weltweit immer beliebter.
+
+  Les traditions *africaines* se transmettent de génération en génération.
+  *Afrikanische* Traditionen werden von Generation zu Generation weitergegeben.
+
+  La cuisine *africaine* est connue pour ses épices variées.
+  Die *afrikanische* Küche ist für ihre vielfältigen Gewürze bekannt.
+
+  Ces motifs *africains* décorent les murs de son appartement.
+  Diese *afrikanischen* Muster schmücken die Wände seiner Wohnung.
+
+  Les *Africains* ont une riche tradition de musique et de danse.
+  Die *Afrikaner* haben eine reiche Musik- und Tanztradition.
+
+  La littérature *africaine* moderne reflète les changements sociaux.
+  Die moderne *afrikanische* Literatur spiegelt die gesellschaftlichen Veränderungen wider.
+
+  Les pays *africains* développent rapidement leurs infrastructures.
+  Die *afrikanischen* Länder entwickeln ihre Infrastruktur rasch.
+
+  Cette association soutient des artistes *africains* émergents.
+  Dieser Verein unterstützt aufstrebende *afrikanische* Künstler.
+
+  Les contes *africains* fascinent les enfants du monde entier.
+  *Afrikanische* Märchen faszinieren Kinder auf der ganzen Welt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

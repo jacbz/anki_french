@@ -13,41 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les coûts de production seront réduits.
-  Die Produktionskosten werden gesenkt.
+  Les *coûts* de production seront réduits.
+  Die Produktions*kosten* werden gesenkt.
 
-  Le coût de la vie augmente chaque année.
-  Die Lebenshaltungskosten steigen jedes Jahr.
+  Le *coût* du logement devient un problème majeur dans les grandes villes.
+  Die Wohn*kosten* werden in den Großstädten zu einem großen Problem.
 
-  Le coût de l'habitat à Paris est exorbitant.
-  Die Wohnkosten in Paris sind exorbitant.
+  Les *coûts* fixes de l'entreprise s'élèvent à 50.000 euros par mois.
+  Die Fix*kosten* des Unternehmens belaufen sich auf 50.000 Euro pro Monat.
 
-  Les coûts budgétés pour ce projet sont de 10 000 euros.
-  Die Plankosten für dieses Projekt belaufen sich auf 10.000 Euro.
+  Les *coûts* directs comprennent les matériaux et la main-d'œuvre.
+  Die direkten *Kosten* umfassen Material und Arbeitskraft.
 
-  Le coût de la réparation de la voiture est trop élevé.
-  Die Kosten für die Reparatur des Autos sind zu hoch.
+  Le *coût* moyen par unité diminue quand la production augmente.
+  Die Durchschnitts*kosten* pro Einheit sinken bei steigender Produktion.
 
-  Les coûts directs de production comprennent le salaire des ouvriers et le prix des matières premières.
-  Die direkten Kosten der Produktion beinhalten die Löhne der Arbeiter und den Preis der Rohstoffe.
+  Les *coûts* publicitaires ont doublé cette année.
+  Der Werbe*aufwand* hat sich dieses Jahr verdoppelt.
 
-  Les coûts fixes de l'entreprise comprennent le loyer et les salaires des employés permanents.
-  Die fixen Kosten des Unternehmens umfassen die Miete und die Gehälter der Festangestellten.
+  Le *coût* total du projet dépassera le budget prévu.
+  Die Gesamt*kosten* des Projekts werden das geplante Budget übersteigen.
 
-  Les coûts initiaux de l'investissement sont importants, mais ils seront rentabilisés à long terme.
-  Die Anfangskosten der Investition sind hoch, aber sie werden sich langfristig rentieren.
+  Les *coûts* du déménagement étaient plus élevés que prévu.
+  Die Umzugs*kosten* waren höher als erwartet.
 
-  Les coûts juridiques liés au divorce sont très élevés.
-  Die Rechtskosten, die mit der Scheidung verbunden sind, sind sehr hoch.
+  Le *coût* de la vie ne cesse d'augmenter chaque année.
+  Die Lebenshaltungs*kosten* steigen jedes Jahr weiter.
 
-  Le coût marginal est le coût de production d'une unité supplémentaire.
-  Die Grenzkosten sind die Kosten für die Produktion einer zusätzlichen Einheit.
+  Cette imprudence au volant lui a *coûté* très cher.
+  Diese Unvorsichtigkeit am Steuer kam ihn teuer zu stehen.
 
-  Les coûts normatifs sont des coûts qui sont définis par la loi.
-  Normativkosten sind Kosten, die gesetzlich festgelegt sind.
+  Les *coûts* initiaux de ce projet sont considérables.
+  Die Anfangs*kosten* dieses Projekts sind beträchtlich.
 
-  Les coûts préétablis pour le projet doivent être respectés.
-  Die Kostenvorgabe für das Projekt muss eingehalten werden.
+  Les *coûts* juridiques seront pris en charge par l'entreprise.
+  Die Rechts*kosten* werden von der Firma übernommen.
+
+  Le *coût* unitaire baisse avec la quantité commandée.
+  Die Stück*kosten* sinken mit der bestellten Menge.
+
+  Les *coûts* supplémentaires doivent être justifiés.
+  Der *Kosten*zuschlag muss begründet werden.
+
+  Le *coût* de revient inclut toutes les dépenses de fabrication.
+  Die Selbst*kosten* beinhalten alle Herstellungsausgaben.
+
+  Le *coût* de cette assurance dépend de plusieurs facteurs.
+  Die *Kosten* dieser Versicherung hängen von mehreren Faktoren ab.
+
+  Les *coûts* liés à la qualité sont un investissement nécessaire.
+  Die Qualitäts*kosten* sind eine notwendige Investition.
+
+  Le *coût* d'un service peut varier selon la région.
+  Der *Preis* einer Dienstleistung kann je nach Region variieren.
+
+  Les *coûts* du contrat seront partagés entre les parties.
+  Die Vertrags*kosten* werden zwischen den Parteien aufgeteilt.
+
+  Le calcul des *coûts* doit être précis et détaillé.
+  Die *Kosten*rechnung muss präzise und detailliert sein.
+
+  Cette négligence a eu un *coût* humain considérable.
+  Diese Nachlässigkeit hatte erhebliche menschliche Folgen.
+
+  Le *coût* de cette offensive militaire fut dramatique.
+  Die *Kosten* dieser Militäroffensive waren dramatisch.
+
+  Les *coûts* réels ont dépassé les estimations initiales.
+  Die Real*kosten* haben die ursprünglichen Schätzungen überschritten.
+
+  Le *coût* de cette marchandise inclut la livraison.
+  Der *Preis* dieser Ware schließt die Lieferung ein.
+
+  Les *coûts* d'extraction du minerai sont très élevés.
+  Die Förder*kosten* des Erzes sind sehr hoch.
+
+  Cette erreur aura un *coût* politique important.
+  Dieser Fehler wird einen hohen politischen Preis haben.
+
+  Le *coût* de fabrication varie selon les matériaux utilisés.
+  Die Herstellungs*kosten* variieren je nach verwendeten Materialien.
+
+  Il faut évaluer le *coût* environnemental de ce projet.
+  Die Umwelt*kosten* dieses Projekts müssen bewertet werden.
+
+  Les *coûts* indirects sont difficiles à calculer précisément.
+  Die indirekten *Kosten* sind schwer genau zu berechnen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

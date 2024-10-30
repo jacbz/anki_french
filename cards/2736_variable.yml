@@ -13,32 +13,113 @@ Register: ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est très variable, ça dépend.
-  Das ist sehr unterschiedlich, es kommt darauf an.
+  C'est très *variable*, ça dépend.
+  Das ist sehr *unterschiedlich*, das kommt darauf an.
 
-  La température est une variable importante.
-  Die Temperatur ist eine wichtige Variable.
+  Le temps est *variable* aujourd'hui, il peut pleuvoir à tout moment.
+  Das Wetter ist heute *veränderlich*, es kann jederzeit regnen.
 
-  Aux États-Unis, il y a des lois variables selon les États, ce qui peut rendre la navigation juridique complexe.
-  In den USA gibt es je nach Staat unterschiedliche Gesetze, was die juristische Navigation komplex machen kann.
+  Les horaires de travail sont *variables* selon les départements.
+  Die Arbeitszeiten sind je nach Abteilung *variabel*.
 
-  La variable aléatoire est un concept important en statistique.
-  Eine Zufallsvariable ist ein wichtiges Konzept in der Statistik.
+  Mes revenus sont *variables* d'un mois à l'autre.
+  Mein Einkommen ist von Monat zu Monat *unterschiedlich*.
 
-  Le vent variable peut rendre la navigation difficile.
-  Wind aus unterschiedlichen Richtungen kann die Navigation erschweren.
+  La qualité de son travail est très *variable*.
+  Die Qualität seiner Arbeit ist sehr *unterschiedlich*.
 
-  L'avion à géométrie variable est capable de s'adapter à différentes conditions de vol.
-  Das Flugzeug mit veränderbarer Geometrie kann sich an unterschiedliche Flugbedingungen anpassen.
+  En mathématiques, x est une *variable* qui peut prendre différentes valeurs.
+  In der Mathematik ist x eine *Variable*, die verschiedene Werte annehmen kann.
 
-  Le mot "ami" est variable en genre.
-  Das Wort "Freund" ist im Geschlecht veränderlich.
+  Le vent est *variable* ce soir, parfois fort, parfois faible.
+  Der Wind ist heute Abend *veränderlich*, mal stark, mal schwach.
 
-  La lampe à foyer variable permet de concentrer ou de diffuser la lumière.
-  Die Lampe mit unterschiedlicher Brennweite ermöglicht es, das Licht zu fokussieren oder zu streuen.
+  Cette année, la récolte a été très *variable* selon les régions.
+  Die Ernte war dieses Jahr je nach Region sehr *unterschiedlich*.
 
-  Le moteur à vitesse variable offre une plus grande flexibilité.
-  Der Motor mit mehreren Geschwindigkeitsstufen bietet größere Flexibilität.
+  Le baromètre indique un temps *variable* pour demain.
+  Das Barometer zeigt für morgen *veränderliches* Wetter an.
+
+  Ce microscope dispose d'un zoom à focale *variable*.
+  Dieses Mikroskop hat einen Zoom mit *variabler* Brennweite.
+
+  L'adjectif est *variable* en genre et en nombre.
+  Das Adjektiv ist in Geschlecht und Zahl *veränderlich*.
+
+  Dans ce programme, j'ai défini plusieurs *variables* globales.
+  In diesem Programm habe ich mehrere globale *Variablen* definiert.
+
+  La température est *variable* tout au long de la journée.
+  Die Temperatur ist den ganzen Tag über *veränderlich*.
+
+  Cette lampe a une intensité *variable*.
+  Diese Lampe hat eine *variable* Lichtstärke.
+
+  Les résultats sont très *variables* d'un élève à l'autre.
+  Die Ergebnisse sind von Schüler zu Schüler sehr *unterschiedlich*.
+
+  Le succès d'un film est une *variable* difficile à prévoir.
+  Der Erfolg eines Films ist eine schwer vorhersehbare *Variable*.
+
+  Ce robot dispose d'une vitesse *variable*.
+  Dieser Roboter hat eine *variable* Geschwindigkeit.
+
+  Les prix sont *variables* selon la saison.
+  Die Preise sind je nach Saison *unterschiedlich*.
+
+  C'est une *variable* aléatoire qui suit une distribution normale.
+  Das ist eine Zufalls*variable*, die einer Normalverteilung folgt.
+
+  L'humeur de Pierre est très *variable* ces derniers temps.
+  Peters Stimmung ist in letzter Zeit sehr *veränderlich*.
+
+  La performance de l'équipe reste *variable*.
+  Die Leistung der Mannschaft bleibt *unterschiedlich*.
+
+  Les conditions météorologiques sont *variables* en montagne.
+  Die Wetterbedingungen in den Bergen sind *veränderlich*.
+
+  Le niveau de difficulté est *variable* selon les exercices.
+  Der Schwierigkeitsgrad ist je nach Übung *unterschiedlich*.
+
+  Cette lentille a une distance focale *variable*.
+  Diese Linse hat eine *variable* Brennweite.
+
+  La durée de la batterie est *variable* selon l'utilisation.
+  Die Akkulaufzeit ist je nach Nutzung *unterschiedlich*.
+
+  Le nombre de visiteurs est *variable* selon les jours.
+  Die Besucherzahl ist je nach Tag *unterschiedlich*.
+
+  La luminosité de l'écran est *variable*.
+  Die Bildschirmhelligkeit ist *variabel*.
+
+  Les coûts de production sont *variables* selon les pays.
+  Die Produktionskosten sind je nach Land *unterschiedlich*.
+
+  La qualité du réseau est *variable* dans cette région.
+  Die Netzqualität ist in dieser Region *unterschiedlich*.
+
+  Le débit de la rivière est *variable* selon les saisons.
+  Die Wassermenge des Flusses ist je nach Jahreszeit *veränderlich*.
+
+  La densité du trafic est *variable* au cours de la journée.
+  Die Verkehrsdichte ist im Laufe des Tages *unterschiedlich*.
+
+  Cette étoile est *variable*, son éclat change périodiquement.
+  Dieser Stern ist *veränderlich*, seine Helligkeit ändert sich periodisch.
+
+  Le taux d'intérêt est *variable* sur ce compte.
+  Der Zinssatz ist auf diesem Konto *variabel*.
+
+  Les horaires d'ouverture sont *variables* selon les magasins.
+  Die Öffnungszeiten sind je nach Geschäft *unterschiedlich*.
+
+  Les performances sportives sont *variables* d'un jour à l'autre.
+  Die sportlichen Leistungen sind von Tag zu Tag *unterschiedlich*.
+
+  La prononciation est *variable* selon les régions.
+  Die Aussprache ist je nach Region *unterschiedlich*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

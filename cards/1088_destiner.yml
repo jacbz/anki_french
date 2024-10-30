@@ -13,41 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce programme n’est pas destiné aux informaticiens.
-  Dieses Programm ist nicht für Informatiker gedacht.
+  Ce programme n'est pas *destiné* aux informaticiens.
+  Dieses Programm ist nicht für Informatiker *bestimmt*.
 
-  Je destine cette lettre à ma grand-mère.
-  Ich bestimme diesen Brief für meine Großmutter.
+  Cette lettre vous est *destinée*.
+  Dieser Brief ist für Sie *bestimmt*.
 
-  Le directeur a décidé de destiner un poste à Marie au sein du département marketing.
-  Der Direktor hat entschieden, eine Stelle für Marie im Marketing-Department vorzusehen.
+  Je *destine* cet argent à l'achat d'une voiture.
+  Ich *sehe* dieses Geld für den Kauf eines Autos *vor*.
 
-  Après des années de militantisme, Pierre s'est décidé à se destiner à la politique.
-  Nach Jahren des Aktivismus hat sich Pierre entschieden, sich der Politik zu verschreiben.
+  Son père le *destinait* à devenir avocat.
+  Sein Vater *sah* ihn als Anwalt *vor*.
 
-  La mairie a décidé de destiner un local à la bibliothèque municipale.
-  Die Stadtverwaltung hat beschlossen, ein Lokal für die Stadtbücherei zu bestimmen.
+  Elle se *destine* à la diplomatie depuis son enfance.
+  Sie will seit ihrer Kindheit in die Diplomatie *gehen*.
 
-  Le conseil d'administration a décidé de destiner Jean à la fonction de directeur général.
-  Der Verwaltungsrat hat beschlossen, Jean für die Funktion des Geschäftsführers vorzusehen.
+  Je *destine* ce cadeau à ma sœur.
+  Ich *bestimme* dieses Geschenk für meine Schwester.
 
-  Ce cadeau est destiné à ma mère, elle va adorer !
-  Dieses Geschenk ist für meine Mutter bestimmt, sie wird es lieben!
+  Le local est *destiné* à devenir une bibliothèque.
+  Das Gebäude soll eine Bibliothek werden.
 
-  Ce livre est destiné à un public de professionnels.
-  Dieses Buch ist für ein Publikum von Fachleuten bestimmt.
+  Ces remarques ne vous étaient pas *destinées*.
+  Diese Bemerkungen waren nicht an Sie *gerichtet*.
 
-  Ce programme est destiné à aider les étudiants en difficulté.
-  Dieses Programm ist dazu bestimmt, Studenten in Not zu helfen.
+  Nul ne sait ce que le sort nous *destine*.
+  Niemand weiß, was das Schicksal für uns *vorsieht*.
 
-  Ce terrain est destiné à être construit, un grand immeuble va y être érigé.
-  Das Gelände soll bebaut werden, ein großes Gebäude wird dort errichtet werden.
+  La salle est *destinée* aux conférences.
+  Der Saal ist für Konferenzen *vorgesehen*.
 
-  Le père de Paul a décidé de le destiner à être avocat comme lui.
-  Pauls Vater hat entschieden, ihn dazu ausersehen, Anwalt wie er zu werden.
+  Je me *destine* à l'enseignement des langues.
+  Ich will Sprachlehrer werden.
 
-  Sophie est destinée à devenir médecin, elle suit déjà des études de médecine.
-  Sophie ist dazu vorgesehen, Ärztin zu werden, sie studiert bereits Medizin.
+  Ils étaient *destinés* l'un à l'autre.
+  Sie waren füreinander *bestimmt*.
+
+  Ces produits sont *destinés* à l'exportation.
+  Diese Produkte sind für den Export *bestimmt*.
+
+  Le poste vous était *destiné* depuis longtemps.
+  Die Stelle war schon lange für Sie *vorgesehen*.
+
+  Je *destine* mon fils à reprendre l'entreprise familiale.
+  Ich *sehe* meinen Sohn für die Übernahme des Familienunternehmens *vor*.
+
+  Cette somme est *destinée* aux réparations.
+  Diese Summe ist für Reparaturen *bestimmt*.
+
+  Elle s'est *destinée* à la médecine très tôt.
+  Sie hat sich früh für den Arztberuf entschieden.
+
+  Le ciel nous *destinait* à nous rencontrer.
+  Der Himmel hat es *vorgesehen*, dass wir uns treffen.
+
+  Je *destine* ce meuble à ma fille.
+  Ich *bestimme* dieses Möbelstück für meine Tochter.
+
+  L'entreprise était *destinée* à l'échec.
+  Das Unternehmen war zum Scheitern *bestimmt*.
+
+  Cette remarque était *destinée* à Pierre.
+  Diese Bemerkung war für Pierre *gedacht*.
+
+  Le bâtiment est *destiné* aux services administratifs.
+  Das Gebäude ist für die Verwaltung *vorgesehen*.
+
+  Il se *destine* à une carrière artistique.
+  Er will eine künstlerische Laufbahn einschlagen.
+
+  Rien ne le *destinait* à devenir président.
+  Nichts *bestimmte* ihn dazu, Präsident zu werden.
+
+  Ces livres sont *destinés* aux débutants.
+  Diese Bücher sind für Anfänger *gedacht*.
+
+  Le terrain est *destiné* à la construction d'une école.
+  Das Grundstück ist für den Bau einer Schule *vorgesehen*.
+
+  Je *destine* cette bague à ma future épouse.
+  Ich *bestimme* diesen Ring für meine zukünftige Ehefrau.
+
+  Cette pièce est *destinée* au rangement.
+  Dieser Raum ist zur Aufbewahrung *bestimmt*.
+
+  Les fonds sont *destinés* à la recherche.
+  Die Gelder sind für die Forschung *bestimmt*.
+
+  Elle *destine* sa collection d'art au musée.
+  Sie *vermacht* ihre Kunstsammlung dem Museum.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

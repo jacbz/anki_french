@@ -13,29 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suppose qu’ils ont peur.
-  Ich nehme an, sie haben Angst.
+  Je *suppose* qu'ils ont peur.
+  Ich *nehme an*, dass sie Angst haben.
 
-  Je suppose que tu as raison.
-  Ich nehme an, dass du Recht hast.
+  *Supposons* que nous allons gagner le match.
+  Wir *nehmen an*, dass wir das Spiel gewinnen werden.
 
-  Je suppose qu'il va revenir, mais je ne suis pas sûr.
-  Ich nehme an, dass er zurückkommen wird, aber ich bin mir nicht sicher.
+  Le train est *supposé* arriver dans une heure.
+  Der Zug soll eigentlich in einer Stunde *ankommen*.
 
-  Supposer que le temps change, que ferions-nous ?
-  Wenn wir annehmen würden, dass sich das Wetter ändert, was würden wir dann tun?
+  À *supposer* que Marie vienne à la fête, nous aurons assez de gâteau.
+  *Vorausgesetzt*, Marie kommt zur Party, haben wir genug Kuchen.
 
-  Supposons qu'il revienne, que lui diriez-vous ?
-  Nehmen wir an, er käme zurück, was würden Sie ihm dann sagen?
+  Je *suppose* que tu as déjà mangé.
+  Ich *vermute*, dass du schon gegessen hast.
 
-  Le problème est supposé résolu, mais il persiste.
-  Das Problem wird als gelöst betrachtet, aber es besteht weiterhin.
+  La réussite *suppose* beaucoup de travail.
+  Erfolg *setzt* viel Arbeit *voraus*.
 
-  Le train est supposé arriver à l'heure, mais il a déjà 10 minutes de retard.
-  Der Zug soll eigentlich pünktlich da sein, aber er hat bereits 10 Minuten Verspätung.
+  *Supposons* le problème résolu et continuons.
+  Lasst uns *annehmen*, das Problem sei gelöst, und weitermachen.
 
-  À supposer qu'elle vienne, elle sera la bienvenue.
-  Vorausgesetzt, sie kommt, wird sie herzlich willkommen sein.
+  Tout laisse *supposer* qu'il pleuvra demain.
+  Alles lässt *vermuten*, dass es morgen regnen wird.
+
+  La température est *supposée* rester constante pendant l'expérience.
+  Die Temperatur soll während des Experiments konstant *bleiben*.
+
+  Je *suppose* que vous connaissez déjà la réponse.
+  Ich *gehe davon aus*, dass Sie die Antwort bereits kennen.
+
+  Cette théorie *suppose* l'existence d'autres univers.
+  Diese Theorie *setzt* die Existenz anderer Universen *voraus*.
+
+  *Supposons* un instant que vous ayez raison.
+  *Nehmen* wir einen Moment *an*, dass Sie Recht haben.
+
+  En *supposant* que le temps soit beau, nous irons à la plage.
+  *Angenommen*, das Wetter ist schön, gehen wir an den Strand.
+
+  Je *suppose* que c'était une erreur.
+  Ich *vermute*, dass es ein Fehler war.
+
+  La confiance *suppose* le respect mutuel.
+  Vertrauen *setzt* gegenseitigen Respekt *voraus*.
+
+  On *suppose* que le virus se propage rapidement.
+  Man *vermutet*, dass sich das Virus schnell ausbreitet.
+
+  *Supposons* deux cercles qui se croisent.
+  *Nehmen* wir zwei sich schneidende Kreise *an*.
+
+  L'apprentissage d'une langue *suppose* de la patience.
+  Das Erlernen einer Sprache *setzt* Geduld *voraus*.
+
+  Je *suppose* que tu viendras avec nous.
+  Ich *nehme an*, dass du mit uns kommst.
+
+  Cette décision *suppose* une réflexion approfondie.
+  Diese Entscheidung *setzt* gründliches Nachdenken *voraus*.
+
+  On vous *supposait* parti depuis longtemps.
+  Man *nahm an*, Sie seien schon lange weg.
+
+  *Supposons* que nous ayons assez d'argent.
+  *Nehmen* wir *an*, wir hätten genug Geld.
+
+  Je *suppose* qu'il est trop tard maintenant.
+  Ich *vermute*, dass es jetzt zu spät ist.
+
+  Cette méthode *suppose* une bonne organisation.
+  Diese Methode *setzt* eine gute Organisation *voraus*.
+
+  Il est *supposé* être un expert dans ce domaine.
+  Er soll ein Experte auf diesem Gebiet *sein*.
+
+  *Supposons* que la situation s'améliore.
+  *Nehmen* wir *an*, die Situation verbessert sich.
+
+  Son silence me laisse *supposer* qu'il est d'accord.
+  Sein Schweigen lässt mich *vermuten*, dass er einverstanden ist.
+
+  Je *suppose* que nous nous reverrons bientôt.
+  Ich *nehme an*, dass wir uns bald wiedersehen.
+
+  Cette tâche *suppose* des compétences spécifiques.
+  Diese Aufgabe *setzt* spezifische Kompetenzen *voraus*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,41 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Leur comportement agressif et violent ne change pas.
-  Ihr aggressives und gewalttätiges Verhalten bleibt unverändert.
+  Leur *comportement* agressif et violent ne change pas.
+  Ihr aggressives und gewalttätiges *Verhalten* ändert sich nicht.
 
-  Son comportement est inacceptable.
-  Sein Verhalten ist inakzeptabel.
+  Son *comportement* envers moi s'est beaucoup amélioré depuis notre discussion.
+  Sein *Verhalten* mir gegenüber hat sich seit unserem Gespräch sehr verbessert.
 
-  Son comportement envers moi est vraiment étrange.
-  Sein Verhalten mir gegenüber ist wirklich merkwürdig.
+  Le professeur a remarqué un *comportement* étrange chez certains élèves.
+  Der Lehrer bemerkte bei einigen Schülern ein seltsames *Verhalten*.
 
-  Le comportement du marché est incertain en ce moment.
-  Das Marktverhalten ist im Moment ungewiss.
+  L'étude analyse le *comportement* des acheteurs pendant les soldes.
+  Die Studie analysiert das *Kaufverhalten* während des Schlussverkaufs.
 
-  Il a un comportement étrange, j'espère qu'il ne va pas faire de bêtises.
-  Er benimmt sich merkwürdig, ich hoffe, er wird keine Dummheiten machen.
+  Son *comportement* au volant devient de plus en plus dangereux.
+  Sein *Fahrverhalten* wird immer gefährlicher.
 
-  Le comportement des acheteurs est influencé par la publicité.
-  Das Käuferverhalten wird von der Werbung beeinflusst.
+  Les troubles du *comportement* alimentaire touchent de nombreux adolescents.
+  *Ess*störungen betreffen viele Jugendliche.
 
-  Son comportement au volant est dangereux, il ne respecte pas les limitations de vitesse.
-  Sein Fahrverhalten ist gefährlich, er hält sich nicht an die Geschwindigkeitsbegrenzungen.
+  Le *comportement* routier de cette voiture est excellent sur les routes sinueuses.
+  Das *Fahrverhalten* dieses Autos ist auf kurvigen Straßen ausgezeichnet.
 
-  Le comportement alimentaire est un facteur important de la santé.
-  Das Essverhalten ist ein wichtiger Faktor für die Gesundheit.
+  Le *comportement* en vol de ce nouveau drone est remarquablement stable.
+  Die *Flugeigenschaften* dieser neuen Drohne sind bemerkenswert stabil.
 
-  Le comportement routier est un problème majeur dans les grandes villes.
-  Das Fahrverhalten ist ein großes Problem in den Großstädten.
+  Le *comportement* propre du véhicule dans les virages sera testé demain.
+  Das *Eigenlenkverhalten* des Fahrzeugs wird morgen in den Kurven getestet.
 
-  Le comportement sur route de cette voiture est excellent, elle est très stable.
-  Die Fahreigenschaften dieses Autos sind ausgezeichnet, es ist sehr stabil.
+  Les experts surveillent le *comportement* du marché depuis la crise.
+  Die Experten überwachen das *Marktverhalten* seit der Krise.
 
-  Le comportement en vol de l'avion était perturbé par les turbulences.
-  Die Flugeigenschaften des Flugzeugs wurden durch die Turbulenzen beeinträchtigt.
+  Les chercheurs étudient le *comportement* des abeilles dans leur environnement naturel.
+  Die Forscher untersuchen das *Verhalten* der Bienen in ihrer natürlichen Umgebung.
 
-  Le comportement propre d'un véhicule est déterminé par son système de direction.
-  Das Eigenlenkverhalten eines Fahrzeugs wird durch sein Lenksystem bestimmt.
+  Il faudra modifier votre *comportement* si vous voulez réussir dans cette entreprise.
+  Sie müssen Ihr *Verhalten* ändern, wenn Sie in diesem Unternehmen erfolgreich sein wollen.
+
+  Le psychologue analyse le *comportement* des patients pendant la thérapie.
+  Der Psychologe analysiert das *Verhalten* der Patienten während der Therapie.
+
+  Les parents s'inquiètent du *comportement* de leur fils à l'école.
+  Die Eltern sind besorgt über das *Verhalten* ihres Sohnes in der Schule.
+
+  Le *comportement* social des dauphins fascine les scientifiques.
+  Das soziale *Verhalten* der Delfine fasziniert die Wissenschaftler.
+
+  Son *comportement* impoli a choqué tous les invités.
+  Sein unhöfliches *Benehmen* hat alle Gäste schockiert.
+
+  Le *comportement* sexuel des pandas en captivité reste mystérieux.
+  Das Sexual*verhalten* der Pandas in Gefangenschaft bleibt rätselhaft.
+
+  Les changements de *comportement* peuvent indiquer un problème de santé.
+  *Verhaltens*änderungen können auf ein gesundheitliches Problem hinweisen.
+
+  Le *comportement* culturel varie considérablement selon les pays.
+  Das kulturelle *Verhalten* unterscheidet sich erheblich von Land zu Land.
+
+  Les scientifiques observent le *comportement* des électrons dans le nouveau réacteur.
+  Die Wissenschaftler beobachten das *Verhalten* der Elektronen im neuen Reaktor.
+
+  Ce *comportement* suspect a immédiatement attiré l'attention de la police.
+  Dieses verdächtige *Verhalten* erregte sofort die Aufmerksamkeit der Polizei.
+
+  On ne peut jamais prédire son *comportement* dans des situations stressantes.
+  Man kann nie ihr *Verhalten* in Stresssituationen vorhersagen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

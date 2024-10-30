@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Quel est votre regard sur les récents déboires?
-  Wie sehen Sie die jüngsten Rückschläge?
+  Quel est votre regard sur les *récents* déboires ?
+  Was halten Sie von den *jüngsten* Misserfolgen?
 
-  J’ai acheté un téléphone récent.
-  Ich habe ein neues Handy gekauft.
+  Les données *récentes* montrent une amélioration significative.
+  Die *neuesten* Daten zeigen eine deutliche Verbesserung.
 
-  As-tu des nouvelles récentes de ton fils ?
-  Hast du in letzter Zeit von deinem Sohn gehört?
+  Il faut tenir compte des statistiques les plus *récentes*.
+  Man muss die *aktuellsten* Statistiken berücksichtigen.
 
-  J'ai des nouvelles de mon fils, il est en bonne santé.
-  Ich habe Neuigkeiten von meinem Sohn, es geht ihm gut.
+  Cet immeuble *récent* dispose d'un ascenseur moderne.
+  Dieses *neue* Gebäude verfügt über einen modernen Aufzug.
+
+  As-tu des nouvelles *récentes* de Marie ?
+  Hast du in der *letzten* Zeit von Marie gehört?
+
+  Sa démission est encore toute *récente*.
+  Sein Rücktritt ist noch ganz *frisch*.
+
+  Les chercheurs utilisent une thérapeutique *récente*.
+  Die Forscher verwenden eine *junge* Therapie.
+
+  "Je suis encore un propriétaire *récent*."
+  "Ich bin noch ein *frisch gebackener* Besitzer."
+
+  J'ai lu un article sur leurs *récents* exploits sportifs.
+  Ich habe einen Artikel über ihre *jüngsten* sportlichen Erfolge gelesen.
+
+  Cette découverte *récente* pourrait tout changer.
+  Diese *neue* Entdeckung könnte alles ändern.
+
+  Dans un passé *récent*, nous avons constaté plusieurs changements.
+  In der *jüngsten* Vergangenheit haben wir mehrere Veränderungen festgestellt.
+
+  Elle m'a raconté sa *récente* mésaventure.
+  Sie hat mir von ihrem *kürzlichen* Missgeschick erzählt.
+
+  Les événements *récents* nous obligent à repenser notre stratégie.
+  Die *jüngsten* Ereignisse zwingen uns, unsere Strategie zu überdenken.
+
+  Cette technologie est très *récente*.
+  Diese Technologie ist sehr *neu*.
+
+  Les *récentes* modifications du règlement sont entrées en vigueur.
+  Die *neuesten* Änderungen der Vorschriften sind in Kraft getreten.
+
+  Il s'agit d'une étude *récente* sur le changement climatique.
+  Es handelt sich um eine *neue* Studie zum Klimawandel.
+
+  Voici une nouvelle toute *récente* : ils vont se marier !
+  Hier ist eine ganz *frische* Neuigkeit: Sie werden heiraten!
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

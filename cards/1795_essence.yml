@@ -13,41 +13,104 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ta moto n’a plus d’essence.
-  Dein Motorrad hat kein Benzin mehr.
+  Ta moto n'a plus d'*essence*.
+  Dein Motorrad hat kein *Benzin* mehr.
 
-  Je dois faire le plein d’essence.
-  Ich muss den Tank mit Benzin füllen.
+  Cette voiture fonctionne à l'*essence* ordinaire.
+  Dieses Auto fährt mit Normal*benzin*.
 
-  Le moteur de la voiture a besoin d'essence avec plomb.
-  Der Motor des Autos braucht Bleibenzin.
+  Le prix de l'*essence* augmente chaque semaine.
+  Der *Benzin*preis steigt jede Woche.
 
-  L'essence du livre réside dans l'histoire d'amour des deux protagonistes.
-  Der Kern des Buches liegt in der Liebesgeschichte der beiden Protagonisten.
+  La nouvelle station-service propose de l'*essence* sans plomb.
+  Die neue Tankstelle bietet bleifreies *Benzin* an.
 
-  Les essences à feuilles, comme les chênes et les érables, offrent des couleurs magnifiques en automne.
-  Laubbäume, wie Eichen und Ahornbäume, bieten im Herbst wunderschöne Farben.
+  J'utilise une tondeuse à *essence* pour mon grand jardin.
+  Ich benutze einen *Benzin*rasenmäher für meinen großen Garten.
 
-  L'essence de bouleau est un breuvage rafraîchissant et savoureux.
-  Birkenwasser ist ein erfrischendes und wohlschmeckendes Getränk.
+  Il faut faire attention en manipulant l'*essence* de térébenthine.
+  Man muss vorsichtig mit *Terpentin*öl umgehen.
 
-  L'essence non raffinée est un produit brut qui n'a pas encore subi de traitement.
-  Rohbenzin ist ein Rohprodukt, das noch keine Verarbeitung erfahren hat.
+  Cette *essence* de lavande sent vraiment bon.
+  Dieses Lavendel*öl* duftet wirklich gut.
 
-  L'essence ordinaire est le type de carburant le plus répandu.
-  Normalbenzin ist die gängigste Art von Kraftstoff.
+  L'*essence* de citron donne un goût agréable au gâteau.
+  Das Zitronen*öl* gibt dem Kuchen einen angenehmen Geschmack.
 
-  L'essence verte est un carburant plus respectueux de l'environnement.
-  Biokraftstoff ist ein umweltfreundlicherer Kraftstoff.
+  Cette *essence* de café est très concentrée.
+  Dieses Kaffee*aroma* ist sehr konzentriert.
 
-  La tondeuse à essence est un outil puissant pour tondre l'herbe.
-  Der Motorrasenmäher ist ein leistungsstarkes Werkzeug zum Rasenmähen.
+  La forêt contient diverses *essences* d'arbres.
+  Der Wald enthält verschiedene Baum*arten*.
 
-  Il se croit d'une essence supérieure à tous les autres.
-  Er hält sich für etwas Besseres als alle anderen.
+  Les *essences* résineuses dominent dans cette région.
+  Die Nadel*hölzer* dominieren in dieser Region.
 
-  Par essence, le chat est un animal indépendant et solitaire.
-  Wesensgemäß ist die Katze ein unabhängiges und solitäres Tier.
+  Les *essences* à feuilles perdent leurs feuilles en automne.
+  Die Laub*bäume* verlieren ihre Blätter im Herbst.
+
+  L'*essence* même de son art réside dans la simplicité.
+  Die *Essenz* seiner Kunst liegt in der Einfachheit.
+
+  Cette phrase capture l'*essence* du problème.
+  Dieser Satz erfasst den *Kern* des Problems.
+
+  Par *essence*, l'être humain est un animal social.
+  Der Mensch ist seinem *Wesen* nach ein soziales Wesen.
+
+  L'*essence* de sa pensée se retrouve dans ses écrits.
+  Die *Essenz* seines Denkens findet sich in seinen Schriften.
+
+  Il a su capturer l'*essence* de la ville dans ses photos.
+  Er hat das *Wesentliche* der Stadt in seinen Fotos eingefangen.
+
+  Cette théorie touche à l'*essence* même de la démocratie.
+  Diese Theorie berührt die *Essenz* der Demokratie.
+
+  L'*essence* de sa philosophie est facile à comprendre.
+  Der *Kern* seiner Philosophie ist leicht zu verstehen.
+
+  Je dois m'arrêter pour prendre de l'*essence*.
+  Ich muss anhalten, um zu *tanken*.
+
+  La pompe à *essence* est en panne.
+  Die *Benzin*pumpe ist kaputt.
+
+  Il y a une fuite d'*essence* sous la voiture.
+  Es gibt ein *Benzin*leck unter dem Auto.
+
+  Cette *essence* synthétique est meilleure pour l'environnement.
+  Dieses synthetische *Benzin* ist besser für die Umwelt.
+
+  L'*essence* verte devient de plus en plus populaire.
+  *Bio*kraftstoff wird immer beliebter.
+
+  On utilise l'*essence* de bergamote dans ce parfum.
+  In diesem Parfüm wird Bergamott*öl* verwendet.
+
+  L'*essence* de néroli est extraite des fleurs d'oranger.
+  Orangenblüten*öl* wird aus Orangenblüten gewonnen.
+
+  Cette *essence* de bouleau a des propriétés curatives.
+  Dieses Birken*wasser* hat heilende Eigenschaften.
+
+  Par son *essence*, l'art est une forme d'expression.
+  Die Kunst ist ihrem *Wesen* nach eine Form des Ausdrucks.
+
+  L'*essence* de sa méthode est très innovante.
+  Der *Kern* seiner Methode ist sehr innovativ.
+
+  Le réservoir d'*essence* est presque vide.
+  Der *Benzin*tank ist fast leer.
+
+  Cette région est riche en *essences* rares.
+  Diese Region ist reich an seltenen Baum*arten*.
+
+  Le moteur à *essence* fait beaucoup de bruit.
+  Der *Benzin*motor macht viel Lärm.
+
+  L'indice d'octane de cette *essence* est très élevé.
+  Die Oktanzahl dieses *Benzins* ist sehr hoch.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

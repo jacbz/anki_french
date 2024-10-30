@@ -13,56 +13,191 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le sang a séché, le rouge est devenu brun.
-  Das Blut trocknete, das Rot wurde zu Braun.
+  Le sang a séché, le *rouge* est devenu brun.
+  Das Blut ist getrocknet, das *Rot* ist braun geworden.
 
-  Elle porte une robe rouge.
-  Sie trägt ein rotes Kleid.
+  Ma sœur a mis sa robe *rouge* préférée pour aller au restaurant.
+  Meine Schwester hat ihr liebstes *rotes* Kleid fürs Restaurant angezogen.
 
-  Le téléphone est rouge.
-  Das Telefon ist rot.
+  "Un petit verre de *rouge*, s'il vous plaît !"
+  "Ein Glas *Rotwein*, bitte!"
 
-  Le rouge est mieux.
-  Rot ist besser.
+  Le fer chauffé devient *rouge* avant de fondre.
+  Das erhitzte Eisen wird *rot*, bevor es schmilzt.
 
-  Ton visage est rouge.
-  Dein Gesicht ist rot.
+  Elle est devenue *rouge* de honte quand il a révélé son secret.
+  Sie wurde *rot* vor Scham, als er ihr Geheimnis verriet.
 
-  Ma nouvelle voiture est rouge.
-  Mein neues Auto ist rot.
+  Cette variété de pommes est d'un *rouge* éclatant.
+  Diese Apfelsorte hat ein leuchtendes *Rot*.
 
-  Tu es passé au feu rouge.
-  Du bist über eine rote Ampel gegangen.
+  Les feuilles des arbres deviennent *rouges* en automne.
+  Die Blätter der Bäume werden im Herbst *rot*.
 
-  Le feu est au rouge, il faut donc s'arrêter.
-  Die Ampel ist rot, man muss also anhalten.
+  Le soleil couchant colore le ciel en *rouge*.
+  Die untergehende Sonne färbt den Himmel *rot*.
 
-  Pierre s'est fâché tout rouge quand il a entendu la nouvelle.
-  Pierre wurde rot vor Zorn, als er die Nachricht hörte.
+  "*Rouge* comme une tomate, Pierre a avoué son mensonge."
+  "*Rot* wie eine Tomate hat Pierre seine Lüge gestanden."
 
-  Le bébé a la fièvre, il est rouge de fièvre.
-  Das Baby hat Fieber, es ist fieberglühend.
+  J'ai peint ma cuisine en *rouge* vif.
+  Ich habe meine Küche in leuchtendem *Rot* gestrichen.
 
-  La braise est encore rouge, on peut encore faire griller des marshmallows.
-  Die Glut glimmt noch, man kann noch Marshmallows grillen.
+  Elle s'est mis du *rouge* à lèvres avant de sortir.
+  Sie hat sich vor dem Ausgehen die Lippen *rot* geschminkt.
 
-  Aujourd'hui, la journée est classée rouge pour le trafic routier, il faudra prévoir plus de temps pour ses déplacements.
-  Heute ist ein Tag mit hohem Verkehrsaufkommen, man muss mehr Zeit für seine Fahrten einplanen.
+  Le signal est passé au *rouge*.
+  Die Ampel ist auf *Rot* gesprungen.
 
-  Son visage était rouge de la colère, il était furieux.
-  Sein Gesicht war vor Zorn gerötet, er war wütend.
+  Notre compte bancaire est dans le *rouge*.
+  Unser Bankkonto ist im *roten* Bereich.
 
-  J'ai bu un verre de rouge avec mon repas, c'était délicieux.
-  Ich habe ein Glas Rotwein zu meinem Essen getrunken, es war köstlich.
+  Cette sauce au piment est d'un *rouge* intense.
+  Diese Chilisauce hat ein intensives *Rot*.
 
-  Elle s'est mise du rouge sur les lèvres pour le bal de fin d'année.
-  Sie hat sich für den Abschlussball roten Lippenstift aufgetragen.
+  Un tapis *rouge* a été déroulé pour les invités.
+  Ein *roter* Teppich wurde für die Gäste ausgerollt.
 
-  La robe de la mariée était rouge carmin, elle était magnifique.
-  Das Kleid der Braut war karminrot, es war wunderschön.
+  "*Rouge* comme un coq, il a quitté la pièce."
+  "*Rot* wie ein Truthahn hat er den Raum verlassen."
 
-  Les coquelicots sont rouge incarnat, ils sont magnifiques dans les champs.
-  Die Klatschmohnblumen sind leuchtend rot, sie sind wunderschön auf den Feldern.
+  Le *rouge* lui monte aux joues quand il la voit.
+  Die *Röte* steigt ihm in die Wangen, wenn er sie sieht.
+
+  En voyant l'accident, il a *vu rouge*.
+  Als er den Unfall sah, hat er *rot gesehen*.
+
+  La braise est encore *rouge* dans la cheminée.
+  Die Glut im Kamin ist noch *rot*.
+
+  Les cerises sont devenues *rouges*, on peut les cueillir.
+  Die Kirschen sind *rot* geworden, wir können sie pflücken.
+
+  Un grand drapeau *rouge* flottait au vent.
+  Eine große *rote* Fahne wehte im Wind.
+
+  Il s'est *fâché tout rouge* quand on l'a contredit.
+  Er ist *rot vor Zorn geworden*, als man ihm widersprach.
+
+  Le *rouge* carmin de ses ongles attire l'attention.
+  Das Karmin*rot* ihrer Nägel zieht die Aufmerksamkeit auf sich.
+
+  Cette journée est classée *rouge* sur les routes.
+  Dieser Tag ist als Tag mit hohem Verkehrsaufkommen (*rot*) eingestuft.
+
+  Le petit chaperon *rouge* est un conte célèbre.
+  Rot*käppchen* ist ein berühmtes Märchen.
+
+  "Un bon *gros rouge* qui tache, voilà ce qu'il nous faut !"
+  "Ein kräftiger einfacher *Rotwein*, das ist genau das Richtige!"
+
+  Ces fraises sont d'un beau *rouge* écarlate.
+  Diese Erdbeeren haben ein schönes Scharlach*rot*.
+
+  Le *rouge* à joues donne bonne mine.
+  Das Wangen*rot* lässt einen gesund aussehen.
+
+  La coccinelle *rouge* porte bonheur.
+  Der *rote* Marienkäfer bringt Glück.
+
+  Les yeux *rouges* témoignent de sa fatigue.
+  Die *roten* Augen zeugen von seiner Müdigkeit.
+
+  Son nez est devenu *rouge* à cause du froid.
+  Seine Nase wurde von der Kälte *rot*.
+
+  Ce bordeaux *rouge* est excellent.
+  Dieser *Rot*bordeaux ist ausgezeichnet.
+
+  Les tulipes *rouges* fleurissent au printemps.
+  Die *roten* Tulpen blühen im Frühling.
+
+  La lanterne *rouge* éclaire faiblement la rue.
+  Die *rote* Laterne beleuchtet schwach die Straße.
+
+  "*Rouge* de fièvre, l'enfant s'est endormi."
+  Das Kind schlief ein, *rot* vor Fieber.
+
+  Le *rouge* pourpre de sa robe est magnifique.
+  Das Purpur*rot* ihres Kleides ist wunderschön.
+
+  Les coquelicots *rouges* parsèment le champ.
+  Die *roten* Mohnblumen überziehen das Feld.
+
+  Les papiers importants sont marqués en *rouge*.
+  Die wichtigen Papiere sind *rot* markiert.
+
+  Le homard devient *rouge* à la cuisson.
+  Der Hummer wird beim Kochen *rot*.
+
+  Un ruban *rouge* décore le cadeau.
+  Ein *rotes* Band schmückt das Geschenk.
+
+  Les poivrons *rouges* sont plus sucrés que les verts.
+  *Rote* Paprika sind süßer als grüne.
+
+  Le coucher de soleil teinte les nuages de *rouge*.
+  Der Sonnenuntergang färbt die Wolken *rot*.
+
+  Les joues *rouges* de l'enfant montrent sa joie.
+  Die *roten* Wangen des Kindes zeigen seine Freude.
+
+  La lumière *rouge* indique que l'appareil est en charge.
+  Das *rote* Licht zeigt an, dass das Gerät lädt.
+
+  Un fil *rouge* marque la page du livre.
+  Ein *roter* Faden markiert die Buchseite.
+
+  Le *rouge* sombre de ses lèvres contraste avec sa peau pâle.
+  Das dunkle *Rot* ihrer Lippen kontrastiert mit ihrer blassen Haut.
+
+  Les roses *rouges* symbolisent l'amour.
+  *Rote* Rosen symbolisieren die Liebe.
+
+  La voiture *rouge* est garée devant la maison.
+  Das *rote* Auto parkt vor dem Haus.
+
+  Les points *rouges* sur la carte indiquent les dangers.
+  Die *roten* Punkte auf der Karte zeigen die Gefahren an.
+
+  Son chat a un collier *rouge*.
+  Seine Katze hat ein *rotes* Halsband.
+
+  Le crayon *rouge* sert à corriger les erreurs.
+  Der *rote* Stift dient zum Korrigieren der Fehler.
+
+  La bouteille de *rouge* est presque vide.
+  Die Flasche *Rotwein* ist fast leer.
+
+  Les lupins *rouges* bordent le jardin.
+  Die *roten* Lupinen säumen den Garten.
+
+  Un néon *rouge* clignote dans la nuit.
+  Eine *rote* Neonleuchte blinkt in der Nacht.
+
+  Le poisson *rouge* nage dans son bocal.
+  Der Gold*fisch* schwimmt in seinem Glas.
+
+  Les briques *rouges* forment un beau mur.
+  Die *roten* Ziegel bilden eine schöne Mauer.
+
+  Les lettres *rouges* du panneau attirent l'attention.
+  Die *roten* Buchstaben des Schildes ziehen die Aufmerksamkeit auf sich.
+
+  La perdrix *rouge* s'est envolée.
+  Das *Rot*huhn ist weggeflogen.
+
+  Les pétales *rouges* tombent du rosier.
+  Die *roten* Blütenblätter fallen von der Rose.
+
+  Cette sauce *rouge* est faite avec des tomates fraîches.
+  Diese *rote* Sauce ist aus frischen Tomaten gemacht.
+
+  Le *rouge* incarnat de l'aurore annonce une belle journée.
+  Das leuchtende *Rot* der Morgenröte kündigt einen schönen Tag an.
+
+  Un petit point *rouge* indique la présence d'une piqûre.
+  Ein kleiner *roter* Punkt zeigt den Stich an.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

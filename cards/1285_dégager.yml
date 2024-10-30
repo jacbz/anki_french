@@ -13,41 +13,185 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La route est dégagée … mais il faut mettre vos chaînes.
-  Die Straße ist frei… Aber Sie müssen Ihre Ketten anlegen.
+  La route est *dégagée* … mais il faut mettre vos chaînes.
+  Die Straße ist *frei* ... aber Sie müssen Ihre Schneeketten aufziehen.
 
-  Il faut dégager la route.
-  Die Straße muss freigemacht werden.
+  Les pompiers ont *dégagé* trois personnes des décombres.
+  Die Feuerwehr hat drei Menschen aus den Trümmern *geborgen*.
 
-  Elle a dégagé sa main de la poche de son manteau.
-  Sie hat ihre Hand aus der Manteltasche gezogen.
+  "*Dégage* de ma chambre !"
+  "*Verschwinde* aus meinem Zimmer!"
 
-  Dégagez, s'il vous plaît! Je ne peux pas passer.
-  Gehen Sie bitte weiter! Ich komme nicht vorbei.
+  Une forte odeur se *dégageait* de la cuisine.
+  Ein starker Geruch *strömte* aus der Küche.
 
-  Le vent a dégagé le ciel de ses nuages, et le soleil a brillé.
-  Der Wind hat die Wolken am Himmel vertrieben, und die Sonne schien.
+  Le ciel s'est *dégagé* juste avant le coucher du soleil.
+  Der Himmel hat sich vor dem Sonnenuntergang *aufgehellt*.
 
-  Le directeur a dégagé sa parole, malgré les pressions qu'il subissait.
-  Der Direktor hat sein Versprechen zurückgenommen, obwohl er unter Druck stand.
+  Elle a *dégagé* ses cheveux de son visage d'un geste gracieux.
+  Mit einer anmutigen Bewegung hat sie ihre Haare aus dem Gesicht *gestrichen*.
 
-  Les enfants ont dégagé des jouets de la table avant de manger.
-  Die Kinder haben Spielzeug vom Tisch weggeräumt, bevor sie gegessen haben.
+  Le défenseur a *dégagé* le ballon en touche.
+  Der Verteidiger hat den Ball ins Aus *geklärt*.
 
-  L'entreprise a dégagé un excédent de 10 millions d'euros cette année.
-  Das Unternehmen hat dieses Jahr einen Überschuss von 10 Millionen Euro erzielt.
+  Cette entreprise *dégage* des bénéfices importants.
+  Dieses Unternehmen *erwirtschaftet* beträchtliche Gewinne.
 
-  Le défenseur a dégagé le ballon en touche pour éviter un but.
-  Der Abwehrspieler hat den Ball ins Aus geklärt, um einen Gegentreffer zu verhindern.
+  Il faut *dégager* une conclusion de cette réunion.
+  Wir müssen aus diesem Meeting eine Schlussfolgerung *ziehen*.
 
-  Il a dégagé une idée de son sujet de thèse en quelques minutes.
-  Er hat in wenigen Minuten einen Gedanken zu seinem Dissertationsthema herausgearbeitet.
+  Marie s'est *dégagée* de l'étreinte de Paul.
+  Marie hat sich aus Pauls Umarmung *befreit*.
 
-  Cette robe dégage bien sa taille et met en valeur sa silhouette.
-  Dieses Kleid lässt ihre Taille gut zur Geltung kommen und betont ihre Figur.
+  Le sirop va *dégager* vos bronches rapidement.
+  Der Sirup wird Ihre Bronchien schnell *frei machen*.
 
-  Il a réussi à se dégager de ses obligations professionnelles pour partir en vacances.
-  Er hat es geschafft, sich aus seinen beruflichen Verpflichtungen zu lösen, um in den Urlaub zu fahren.
+  Un parfum délicat se *dégage* de ces fleurs.
+  Von diesen Blumen *geht* ein zarter Duft *aus*.
+
+  La vérité commence à se *dégager* de cette enquête.
+  Die Wahrheit beginnt sich in dieser Untersuchung *abzuzeichnen*.
+
+  Je voudrais me *dégager* de mes obligations pour ce soir.
+  Ich möchte mich für heute Abend von meinen Verpflichtungen *freimachen*.
+
+  Cette coupe de cheveux *dégage* bien ses oreilles.
+  Dieser Haarschnitt lässt ihre Ohren gut zur Geltung *kommen*.
+
+  Les pompiers ont *dégagé* la voie d'accès.
+  Die Feuerwehr hat den Zugang *freigeräumt*.
+
+  Le gouvernement a *dégagé* des crédits pour la recherche.
+  Die Regierung hat Kredite für die Forschung *bereitgestellt*.
+
+  Une impression de calme se *dégage* de ce tableau.
+  Von diesem Gemälde *geht* ein ruhiger Eindruck *aus*.
+
+  La banque a *dégagé* des fonds pour le projet.
+  Die Bank hat Gelder für das Projekt *freigemacht*.
+
+  Le gardien *dégage* le ballon jusqu'au milieu du terrain.
+  Der Torwart *schießt* den Ball bis zur Spielfeldmitte *zurück*.
+
+  Ces arbres *dégagent* beaucoup d'oxygène.
+  Diese Bäume *setzen* viel Sauerstoff *frei*.
+
+  Il faut *dégager* les idées principales du texte.
+  Die Hauptideen müssen aus dem Text *herausgearbeitet* werden.
+
+  Je me suis *dégagé* un moment pour vous voir.
+  Ich habe mir einen Moment *freigenommen*, um Sie zu sehen.
+
+  Les nuages se sont *dégagés* pendant la nuit.
+  Die Wolken haben sich in der Nacht *verzogen*.
+
+  Cette robe *dégage* bien sa silhouette.
+  Dieses Kleid bringt ihre Figur gut zur *Geltung*.
+
+  L'entreprise *dégage* un excédent cette année.
+  Das Unternehmen *wirft* dieses Jahr einen Überschuss *ab*.
+
+  Il a *dégagé* sa main de la mienne.
+  Er hat seine Hand aus meiner *gezogen*.
+
+  Un mystère étrange se *dégage* de cette maison.
+  Von diesem Haus *geht* ein seltsames Geheimnis *aus*.
+
+  "*Dégagez* le passage, s'il vous plaît !"
+  "*Machen* Sie bitte den Durchgang *frei*!"
+
+  Le joueur a *dégagé* la balle de la tête.
+  Der Spieler hat den Ball mit dem Kopf *geklärt*.
+
+  Cette usine *dégage* des vapeurs toxiques.
+  Diese Fabrik *setzt* giftige Dämpfe *frei*.
+
+  Il s'est *dégagé* de ses promesses.
+  Er hat sich von seinen Versprechen *gelöst*.
+
+  Les secouristes ont *dégagé* les blessés de la voiture.
+  Die Rettungskräfte haben die Verletzten aus dem Auto *geborgen*.
+
+  Le brouillard s'est *dégagé* en fin de matinée.
+  Der Nebel hat sich am späten Vormittag *gelichtet*.
+
+  Cette analyse *dégage* trois tendances principales.
+  Diese Analyse *arbeitet* drei Haupttrends *heraus*.
+
+  Il faut *dégager* la table pour le dîner.
+  Wir müssen den Tisch fürs Abendessen *freiräumen*.
+
+  La fumée se *dégage* par la cheminée.
+  Der Rauch *steigt* durch den Schornstein *auf*.
+
+  Le coureur s'est *dégagé* du peloton.
+  Der Läufer hat sich vom Hauptfeld *gelöst*.
+
+  Cette opération *dégage* une plus-value importante.
+  Diese Operation *bringt* einen bedeutenden Mehrwert.
+
+  Il a *dégagé* sa responsabilité dans cette affaire.
+  Er hat seine Verantwortung in dieser Sache *abgelehnt*.
+
+  Une odeur de pain se *dégage* de la boulangerie.
+  Ein Brotduft *strömt* aus der Bäckerei.
+
+  Le soleil a *dégagé* les nuages.
+  Die Sonne hat die Wolken *vertrieben*.
+
+  Cette allée *dégagée* mène au château.
+  Dieser *freie* Weg führt zum Schloss.
+
+  Les sauveteurs ont *dégagé* les victimes de l'avalanche.
+  Die Retter haben die Opfer aus der Lawine *befreit*.
+
+  Le clocher se *dégage* dans le lointain.
+  Der Kirchturm *zeichnet* sich in der Ferne *ab*.
+
+  Je l'ai *dégagé* de son engagement.
+  Ich habe ihn von seiner Verpflichtung *entbunden*.
+
+  Elle s'est *dégagée* doucement de ses bras.
+  Sie hat sich sanft aus seiner Umarmung *gelöst*.
+
+  Cette société *dégage* du profit chaque année.
+  Diese Firma *arbeitet* jedes Jahr mit Gewinn.
+
+  "*Dégagez*-vous de là immédiatement !"
+  "*Machen* Sie sich sofort von dort *weg*!"
+
+  Une leçon importante se *dégage* de cette expérience.
+  Aus dieser Erfahrung lässt sich eine wichtige Lehre *ziehen*.
+
+  Le vent a *dégagé* le ciel.
+  Der Wind hat den Himmel *aufgeklärt*.
+
+  La circulation s'est *dégagée* après l'accident.
+  Der Verkehr ist nach dem Unfall wieder *frei* geworden.
+
+  Cette réunion *dégage* des perspectives intéressantes.
+  Dieses Meeting *bringt* interessante Perspektiven *hervor*.
+
+  Il faut *dégager* les voies respiratoires.
+  Man muss die Atemwege *freilegen*.
+
+  Le parfum qui se *dégage* de ces fleurs est exquis.
+  Der Duft, der von diesen Blumen *ausströmt*, ist köstlich.
+
+  La police a *dégagé* la rue des manifestants.
+  Die Polizei hat die Straße von den Demonstranten *geräumt*.
+
+  Une atmosphère paisible se *dégage* de ce jardin.
+  Von diesem Garten *geht* eine friedliche Atmosphäre *aus*.
+
+  Cette remarque *dégage* bien le problème.
+  Diese Bemerkung *arbeitet* das Problem gut *heraus*.
+
+  L'horizon s'est *dégagé* après la tempête.
+  Der Horizont hat sich nach dem Sturm *aufgeklärt*.
+
+  L'équipe a *dégagé* un rendement exceptionnel.
+  Das Team hat eine außergewöhnliche *Rendite* erzielt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

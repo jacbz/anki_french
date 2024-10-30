@@ -13,44 +13,143 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  T’as bien installé son micro?
-  Hast du das Mikrofon richtig eingestellt?
+  "T'as bien *installé* son micro ?"
+  "Hast du sein Mikrofon gut *installiert*?"
 
-  Je vais installer le nouveau logiciel sur mon ordinateur.
-  Ich werde die neue Software auf meinem Computer installieren.
+  Elle *installe* sa nouvelle imprimante sur son bureau.
+  Sie *installiert* ihren neuen Drucker auf ihrem Schreibtisch.
 
-  Ils ont décidé d'installer l'eau courante à la maison de campagne, pour plus de confort.
-  Sie haben beschlossen, sich in ihrem Landhaus einen Wasseranschluss legen zu lassen, um es komfortabler zu machen.
+  Le plombier va *installer* un nouveau chauffe-eau demain.
+  Der Klempner wird morgen einen neuen Warmwasserbereiter *einbauen*.
 
-  Les ouvriers ont installé l'électricité dans le nouvel atelier de Marie.
-  Die Arbeiter haben in der neuen Werkstatt von Marie einen Stromanschluss gelegt.
+  Nous devons *installer* les invités dans le salon.
+  Wir müssen die Gäste im Wohnzimmer *unterbringen*.
 
-  Le vieux pêcheur s'est installé dans le port pendant l'hiver.
-  Der alte Fischer hat sich für den Winter im Hafen niedergelassen.
+  La société a *installé* sa nouvelle usine près de l'autoroute.
+  Die Firma hat ihre neue Fabrik an der Autobahn *angesiedelt*.
 
-  Ils ont décidé d'installer la pièce en séjour, car elle est la plus grande.
-  Sie haben beschlossen, den Raum als Wohnraum einzurichten, da er der größte ist.
+  Marie s'est confortablement *installée* dans le fauteuil.
+  Marie hat es sich im Sessel bequem *eingerichtet*.
 
-  La grand-mère a installé son petit-fils dans un fauteuil, pour qu'il puisse lire son livre.
-  Die Großmutter hat ihren Enkel in einen Sessel gesetzt, damit er sein Buch lesen konnte.
+  Les techniciens *installent* la fibre optique dans tout le quartier.
+  Die Techniker *verlegen* das Glasfaserkabel im ganzen Viertel.
 
-  Le médecin a installé le patient dans un lit, après l'opération.
-  Der Arzt hat den Patienten nach der Operation in ein Bett gelegt.
+  Je vais *installer* des étagères dans le garage.
+  Ich werde Regale in der Garage *anbringen*.
 
-  Ils sont installés en Bretagne depuis plusieurs années, et ils aiment la vie à la campagne.
-  Sie haben sich seit einigen Jahren in der Bretagne niedergelassen und genießen das Landleben.
+  Les enfants se sont déjà *installés* devant la télé.
+  Die Kinder haben sich schon vor dem Fernseher *hingesetzt*.
 
-  J'ai dû m'installer chez ma sœur, après le cambriolage de mon appartement.
-  Ich musste bei meiner Schwester unterkommen, nachdem meine Wohnung ausgeraubt worden war.
+  Le nouveau médecin s'est *installé* dans notre ville.
+  Der neue Arzt hat sich in unserer Stadt *niedergelassen*.
 
-  Après des années passées en ville, ils ont décidé de s'installer à la campagne.
-  Nach Jahren in der Stadt haben sie beschlossen, aufs Land zu ziehen.
+  Papa *installe* le sapin de Noël dans le salon.
+  Papa *stellt* den Weihnachtsbaum im Wohnzimmer *auf*.
 
-  Il a décidé de partir s'installer en Allemagne, pour trouver du travail.
-  Er hat sich entschlossen, nach Deutschland rüberzumachen, um Arbeit zu finden.
+  Les campeurs ont *installé* leur tente près du lac.
+  Die Camper haben ihr Zelt am See *aufgeschlagen*.
 
-  Il s'est installé dans le mensonge, et il est difficile de connaître la vérité.
-  Er hat sich in einem Lügengespinst verstrickt, und es ist schwer, die Wahrheit herauszufinden.
+  Il faut *installer* une rampe pour les personnes handicapées.
+  Man muss eine Rampe für Menschen mit Behinderung *einbauen*.
+
+  Le doute s'est *installé* dans son esprit.
+  Der Zweifel hat sich in seinem Geist *festgesetzt*.
+
+  Nous allons *installer* des panneaux solaires sur le toit.
+  Wir werden Solarpanele auf dem Dach *installieren*.
+
+  Le froid s'est *installé* pour plusieurs semaines.
+  Die Kälte hat sich für mehrere Wochen *eingenistet*.
+
+  L'électricien va *installer* de nouvelles prises.
+  Der Elektriker wird neue Steckdosen *einbauen*.
+
+  Sophie s'est *installée* à Berlin pour ses études.
+  Sophie hat sich für ihr Studium in Berlin *niedergelassen*.
+
+  Nous devons *installer* les rideaux avant ce soir.
+  Wir müssen die Vorhänge vor heute Abend *aufhängen*.
+
+  Le restaurant s'est *installé* dans l'ancien moulin.
+  Das Restaurant hat sich in der alten Mühle *eingerichtet*.
+
+  Les ouvriers *installent* un ascenseur dans l'immeuble.
+  Die Arbeiter *bauen* einen Aufzug im Gebäude *ein*.
+
+  Je vais *installer* ce nouveau logiciel sur mon ordinateur.
+  Ich werde diese neue Software auf meinem Computer *installieren*.
+
+  La routine s'est *installée* dans leur relation.
+  Die Routine hat sich in ihrer Beziehung *eingeschlichen*.
+
+  Il faut *installer* le patient confortablement.
+  Man muss den Patienten bequem *hinlegen*.
+
+  Le cirque s'est *installé* sur la place du village.
+  Der Zirkus hat seine Zelte auf dem Dorfplatz *aufgeschlagen*.
+
+  Nous allons *installer* une alarme dans la maison.
+  Wir werden eine Alarmanlage im Haus *installieren*.
+
+  Le calme s'est enfin *installé* dans la classe.
+  Die Ruhe hat sich endlich in der Klasse *eingestellt*.
+
+  Les déménageurs vont *installer* les meubles demain.
+  Die Umzugshelfer werden morgen die Möbel *aufstellen*.
+
+  Le nouveau directeur sera *installé* lundi prochain.
+  Der neue Direktor wird nächsten Montag *eingesetzt*.
+
+  Nous devons *installer* une climatisation avant l'été.
+  Wir müssen vor dem Sommer eine Klimaanlage *einbauen*.
+
+  La pluie s'est *installée* pour toute la semaine.
+  Der Regen hat sich für die ganze Woche *festgesetzt*.
+
+  Il faut *installer* des détecteurs de fumée.
+  Man muss Rauchmelder *installieren*.
+
+  Les voisins se sont bien *installés* dans leur nouvelle maison.
+  Die Nachbarn haben sich gut in ihrem neuen Haus *eingerichtet*.
+
+  Nous allons *installer* un petit potager dans le jardin.
+  Wir werden einen kleinen Gemüsegarten im Garten *anlegen*.
+
+  Le peintre a *installé* son chevalet près de la fenêtre.
+  Der Maler hat seine Staffelei am Fenster *aufgestellt*.
+
+  La peur s'est *installée* dans le quartier.
+  Die Angst hat sich im Viertel *breitgemacht*.
+
+  Les parents ont *installé* un parc pour le bébé.
+  Die Eltern haben ein Laufgitter für das Baby *aufgestellt*.
+
+  Le photographe *installe* son studio dans le garage.
+  Der Fotograf *richtet* sein Studio in der Garage *ein*.
+
+  Nous devons *installer* une barrière autour de la piscine.
+  Wir müssen einen Zaun um den Pool *aufstellen*.
+
+  La confusion s'est *installée* dans les esprits.
+  Die Verwirrung hat sich in den Köpfen *festgesetzt*.
+
+  Le jardinier va *installer* un système d'arrosage automatique.
+  Der Gärtner wird eine automatische Bewässerungsanlage *installieren*.
+
+  Les nouveaux voisins se sont *installés* hier.
+  Die neuen Nachbarn haben sich gestern *eingerichtet*.
+
+  Nous allons *installer* des nichoirs pour les oiseaux.
+  Wir werden Nistkästen für die Vögel *anbringen*.
+
+  Marc s'est *installé* à son compte comme consultant.
+  Marc hat sich als Berater selbstständig *gemacht*.
+
+  La tension s'est *installée* entre les deux pays.
+  Die Spannung hat sich zwischen den beiden Ländern *aufgebaut*.
+
+  Le silence s'est *installé* dans la salle.
+  Die Stille hat sich im Saal *ausgebreitet*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

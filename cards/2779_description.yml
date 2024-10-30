@@ -13,32 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous commençons par une brève description de mon père.
-  Wir beginnen mit einer kurzen Beschreibung meines Vaters.
+  Nous commençons par une brève *description* de mon père.
+  Wir beginnen mit einer kurzen *Beschreibung* meines Vaters.
 
-  La description de la maison était très détaillée.
-  Die Beschreibung des Hauses war sehr detailliert.
+  La *description* du jardin botanique occupe trois pages dans son carnet.
+  Die *Beschreibung* des botanischen Gartens nimmt drei Seiten in seinem Notizbuch ein.
 
-  Le paysage était magnifique, avec des collines verdoyantes, un lac bleu azur et une forêt dense.
-  Die Landschaft war wunderschön, mit grünen Hügeln, einem azurblauen See und einem dichten Wald.
+  L'auteur excelle dans la *description* des paysages montagneux.
+  Der Autor ist ein Meister in der *Schilderung* von Berglandschaften.
 
-  Le voyage en train était long mais agréable, avec des vues imprenables sur les montagnes et les plaines.
-  Die Zugreise war lang, aber angenehm, mit atemberaubenden Ausblicken auf die Berge und die Ebenen.
+  Sa *description* de la tempête était si vivante qu'on pouvait presque entendre le tonnerre.
+  Seine *Schilderung* des Sturms war so lebendig, dass man den Donner fast hören konnte.
 
-  Le poste de travail est spacieux et lumineux, avec un grand bureau, une chaise ergonomique et un ordinateur performant.
-  Der Arbeitsplatz ist geräumig und hell, mit einem großen Schreibtisch, einem ergonomischen Stuhl und einem leistungsstarken Computer.
+  Il nous a fait une *description* détaillée de son voyage en Asie.
+  Er hat uns eine ausführliche *Reiseschilderung* von seiner Asienreise gegeben.
 
-  Le programme est simple à utiliser, avec une interface intuitive et une grande variété de fonctionnalités.
-  Das Programm ist einfach zu bedienen, mit einer intuitiven Oberfläche und einer großen Auswahl an Funktionen.
+  La *description* du poste exige cinq ans d'expérience minimum.
+  Die *Stellenbeschreibung* verlangt mindestens fünf Jahre Erfahrung.
 
-  L'invention est un nouveau type de moteur qui est plus efficace et plus respectueux de l'environnement.
-  Die Erfindung ist ein neuer Motortyp, der effizienter und umweltfreundlicher ist.
+  Le manuel contient une *description* complète du nouveau système d'exploitation.
+  Das Handbuch enthält eine vollständige *Beschreibung* des neuen Betriebssystems.
 
-  La description provisoire du projet sera présentée lors de la prochaine réunion.
-  Die vorläufige Projektbeschreibung wird in der nächsten Sitzung vorgestellt.
+  Voici la *description* provisoire de notre invention.
+  Hier ist die vorläufige *Beschreibung* unserer Erfindung.
 
-  La description fonctionnelle du produit sera disponible à la fin de la semaine.
-  Die Leistungsbeschreibung des Produkts wird Ende der Woche verfügbar sein.
+  Cette *description* fonctionnelle ne correspond pas à la réalité du terrain.
+  Diese *Leistungsbeschreibung* entspricht nicht der Realität vor Ort.
+
+  La *description* de ses états d'âme occupe tout son journal intime.
+  Die *Schilderung* ihrer Gefühlswelt füllt ihr ganzes Tagebuch.
+
+  J'ai donné aux policiers une *description* précise du voleur.
+  Ich habe der Polizei eine genaue *Beschreibung* des Diebes gegeben.
+
+  La *description* exhaustive des symptômes aidera le médecin.
+  Die ausführliche *Beschreibung* der Symptome wird dem Arzt helfen.
+
+  Cette *description* imagée m'a fait voyager sans bouger de mon fauteuil.
+  Diese bildhafte *Schilderung* ließ mich reisen, ohne mich von meinem Sessel zu bewegen.
+
+  La *description* du mobilier doit être faite avant le déménagement.
+  Die *Beschreibung* der Möbel muss vor dem Umzug gemacht werden.
+
+  Sa *description* de la machine est trop technique pour moi.
+  Seine *Beschreibung* der Maschine ist zu technisch für mich.
+
+  Les biologistes travaillent sur la *description* d'une nouvelle espèce.
+  Die Biologen arbeiten an der *Beschreibung* einer neuen Art.
+
+  Cette *description* sommaire ne suffit pas pour comprendre le phénomène.
+  Diese knappe *Beschreibung* reicht nicht aus, um das Phänomen zu verstehen.
+
+  La *description* des personnages est un point fort de ce roman.
+  Die *Beschreibung* der Charaktere ist eine Stärke dieses Romans.
+
+  Je cherche une *description* plus détaillée de ce programme informatique.
+  Ich suche eine ausführlichere *Beschreibung* dieses Computerprogramms.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

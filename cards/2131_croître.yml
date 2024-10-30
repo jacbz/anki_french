@@ -13,11 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les bureaucraties ont tendance à croître et à s’étendre.
-  Bürokratien neigen dazu, zu wachsen und sich auszudehnen.
+  Les bureaucraties ont tendance à *croître* et à s'étendre.
+  Bürokratien neigen dazu zu *wachsen* und sich auszudehnen.
 
-  Les plantes croissent rapidement en été.
-  Die Pflanzen wachsen im Sommer schnell.
+  Les blés *croissent* dans les champs dorés.
+  Der Weizen *wächst* auf den goldenen Feldern.
+
+  Sa popularité ne fait que *croître* depuis son dernier film.
+  Seine Beliebtheit *wächst* seit seinem letzten Film stetig.
+
+  L'inquiétude *croissait* dans son esprit jour après jour.
+  Die Besorgnis *wuchs* in seinem Geist von Tag zu Tag.
+
+  Le chômage a *crû* de manière significative cette année.
+  Die Arbeitslosigkeit ist dieses Jahr deutlich *angestiegen*.
+
+  Les jeunes arbres *croissent* rapidement au printemps.
+  Die jungen Bäume *wachsen* im Frühling schnell.
+
+  Son influence *croît* de jour en jour.
+  Sein Einfluss *wächst* von Tag zu Tag.
+
+  La production industrielle a *crû* de 5% au dernier trimestre.
+  Die Industrieproduktion ist im letzten Quartal um 5% *angestiegen*.
+
+  Cette petite fille ne fait que *croître* et embellir.
+  Dieses kleine Mädchen wird immer größer und schöner.
+
+  Les prix ne cessent de *croître* depuis le début de l'année.
+  Die Preise *steigen* seit Jahresbeginn ständig.
+
+  Le niveau d'eau *croît* rapidement pendant la saison des pluies.
+  Der Wasserstand *steigt* während der Regenzeit schnell an.
+
+  Les bambous peuvent *croître* de plusieurs centimètres par jour.
+  Bambus kann mehrere Zentimeter pro Tag *wachsen*.
+
+  La tension *croissait* entre les deux pays.
+  Die Spannung *wuchs* zwischen den beiden Ländern.
+
+  Ces fleurs sauvages *croissent* naturellement dans la région.
+  Diese Wildblumen *wachsen* natürlich in der Region.
+
+  L'enthousiasme de la foule *croissait* à chaque minute.
+  Die Begeisterung der Menge *wuchs* mit jeder Minute.
+
+  La lune *croît* pendant la première moitié du mois.
+  Der Mond *nimmt* in der ersten Monatshälfte *zu*.
+
+  Son talent ne fait que *croître* avec les années.
+  Sein Talent *wächst* mit den Jahren stetig.
+
+  Les vignes *croissent* particulièrement bien sur ce coteau.
+  Die Weinreben *wachsen* besonders gut an diesem Hang.
+
+  La chaleur *croissait* au fil de la journée.
+  Die Hitze *nahm* im Laufe des Tages *zu*.
+
+  Le bruit de la ville *va croissant* chaque année.
+  Der Stadtlärm *nimmt* jedes Jahr *zu*.
+
+  Les difficultés *croissent* à mesure que le projet avance.
+  Die Schwierigkeiten *nehmen* zu, je weiter das Projekt fortschreitet.
+
+  L'herbe *croît* plus vite après la pluie.
+  Das Gras *wächst* nach dem Regen schneller.
+
+  Sa réputation *croît* dans le monde entier.
+  Sein Ruf *wächst* weltweit.
+
+  Le nombre de participants *croît* chaque année.
+  Die Anzahl der Teilnehmer *steigt* jedes Jahr.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

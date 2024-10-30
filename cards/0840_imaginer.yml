@@ -13,32 +13,113 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’imagine qu’elle a des documents.
-  Ich nehme an, dass sie Dokumente hat.
+  J'*imagine* qu'elle a des documents.
+  Ich *vermute*, dass sie Dokumente hat.
 
-  Je n’arrive pas à imaginer ce que tu ressens.
-  Ich kann mir nicht vorstellen, was du fühlst.
+  Elle *s'imagine* que tout le monde l'admire.
+  Sie *bildet* sich *ein*, dass alle sie bewundern.
 
-  Il ne pouvait pas s'imaginer que son ami puisse refuser de l'aider.
-  Er konnte sich nicht vorstellen, dass sein Freund sich weigern könnte, ihm zu helfen.
+  Je ne peux pas *imaginer* ma vie sans musique.
+  Ich kann mir mein Leben ohne Musik nicht *vorstellen*.
 
-  Elle s'imaginait son mari autrement, plus patient et plus compréhensif.
-  Sie stellte sich ihren Mann anders vor, geduldiger und verständnisvoller.
+  Il a *imaginé* une nouvelle recette de gâteau.
+  Er hat sich ein neues Kuchenrezept *ausgedacht*.
 
-  Je m'imagine que tu as déjà fini tes devoirs.
-  Ich vermute, dass du deine Hausaufgaben schon erledigt hast.
+  *Imaginez* cette maison repeinte en rouge !
+  *Stellen* Sie sich dieses Haus rot angestrichen *vor*!
 
-  Il imagine de changer de travail pour avoir plus de temps libre.
-  Er zieht in Erwägung, den Job zu wechseln, um mehr Freizeit zu haben.
+  Comment as-tu *imaginé* de faire ça ?
+  Wie bist du auf die Idee gekommen, das zu tun?
 
-  Je m'imagine à la plage, allongé sur le sable, en train de lire un bon livre.
-  Ich sehe mich am Strand liegen, auf dem Sand, ein gutes Buch lesend.
+  Je me suis *imaginé* sur une plage déserte.
+  Ich habe mich [in Gedanken] an einem einsamen Strand *gesehen*.
 
-  Il s'imaginait qu'il était un grand artiste, alors qu'il ne savait même pas tenir un pinceau.
-  Er bildete sich ein, ein großer Künstler zu sein, obwohl er nicht einmal einen Pinsel halten konnte.
+  Il ne faut pas *s'imaginer* que c'est facile.
+  Man darf sich nicht *einbilden*, dass es einfach ist.
 
-  Elle s'imagine faire un voyage en Italie, et elle voit déjà les magnifiques paysages et les ruines antiques.
-  Sie bildet sich ein, eine Reise nach Italien zu machen, und sie sieht schon die wunderschönen Landschaften und antiken Ruinen.
+  Les enfants *imaginent* toutes sortes d'histoires.
+  Die Kinder *denken* sich alle möglichen Geschichten *aus*.
+
+  Je ne peux pas *imaginer* qu'il ait fait ça intentionnellement.
+  Ich kann mir nicht *vorstellen*, dass er das absichtlich getan hat.
+
+  Elle *s'imaginait* déjà millionnaire.
+  Sie *sah* sich schon als Millionärin.
+
+  Il *imagine* toujours le pire.
+  Er *stellt* sich immer das Schlimmste *vor*.
+
+  Tu ne peux pas *imaginer* comme c'était beau !
+  Du kannst dir nicht *vorstellen*, wie schön es war!
+
+  Ils ont *imaginé* un nouveau système de sécurité.
+  Sie haben sich ein neues Sicherheitssystem *ausgedacht*.
+
+  Je me *l'imaginais* plus grand.
+  Ich hatte *ihn* mir größer *vorgestellt*.
+
+  *Imagine* un peu les conséquences !
+  *Stell* dir mal die Folgen *vor*!
+
+  Elle *s'imagine* que je ne sais rien.
+  Sie *bildet* sich *ein*, dass ich nichts weiß.
+
+  Il a *imaginé* cette histoire de toutes pièces.
+  Er hat sich diese Geschichte komplett *ausgedacht*.
+
+  Je ne peux pas *m'imaginer* vivre ailleurs.
+  Ich kann mir nicht *vorstellen*, woanders zu leben.
+
+  Qui aurait pu *imaginer* une telle situation ?
+  Wer hätte sich eine solche Situation *vorstellen* können?
+
+  Il *s'imagine* être un grand artiste.
+  Er *bildet* sich *ein*, ein großer Künstler zu sein.
+
+  *Imaginez* ma surprise quand je l'ai vu !
+  *Stellen* Sie sich meine Überraschung *vor*, als ich ihn sah!
+
+  Elle *imagine* déjà leur vie ensemble.
+  Sie *malt* sich schon ihr gemeinsames Leben *aus*.
+
+  Je ne peux pas *m'imaginer* qu'il ait refusé.
+  Ich kann mir nicht *vorstellen*, dass er abgelehnt hat.
+
+  Il *s'imaginait* dans vingt ans.
+  Er *sah* sich [in Gedanken] in zwanzig Jahren.
+
+  *Imagine* que tu gagnes au loto !
+  *Stell* dir *vor*, du gewinnst im Lotto!
+
+  Elle *s'imagine* que tout lui est permis.
+  Sie *bildet* sich *ein*, dass ihr alles erlaubt ist.
+
+  Les scientifiques ont *imaginé* une nouvelle solution.
+  Die Wissenschaftler haben sich eine neue Lösung *ausgedacht*.
+
+  Je ne *m'imaginais* pas que ce serait si difficile.
+  Ich hatte mir nicht *vorgestellt*, dass es so schwierig sein würde.
+
+  Il *imagine* toujours des excuses.
+  Er *denkt* sich immer Ausreden *aus*.
+
+  Elle *s'imaginait* déjà en robe de mariée.
+  Sie *sah* sich schon im Brautkleid.
+
+  Tu *imagines* bien que je ne suis pas d'accord.
+  Du kannst dir ja *denken*, dass ich nicht einverstanden bin.
+
+  Il a *imaginé* de nouvelles façons d'enseigner.
+  Er hat sich neue Lehrmethoden *ausgedacht*.
+
+  Je ne peux pas *m'imaginer* la vie sans internet.
+  Ich kann mir das Leben ohne Internet nicht *vorstellen*.
+
+  *Imagine-toi* dans ma situation !
+  *Stell* dir *vor*, du wärst in meiner Situation!
+
+  Elle *s'imagine* que personne ne la comprend.
+  Sie *bildet* sich *ein*, dass niemand sie versteht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

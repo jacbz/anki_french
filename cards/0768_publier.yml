@@ -13,17 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai publié un livre.
-  Ich habe ein Buch veröffentlicht.
+  J'ai *publié* un livre.
+  Ich habe ein Buch *veröffentlicht*.
 
-  Je vais publier un livre.
-  Ich werde ein Buch veröffentlichen.
+  Le journal a *publié* un article controversé sur ce sujet.
+  Die Zeitung hat einen kontroversen Artikel darüber *veröffentlicht*.
 
-  Le maire a publié les bans du mariage de Marie et Jean.
-  Der Bürgermeister hat das Aufgebot für die Hochzeit von Marie und Jean bestellt.
+  La maison d'édition *publie* principalement des romans policiers.
+  Der Verlag *gibt* hauptsächlich Kriminalromane *heraus*.
 
-  Pierre a publié son activité artisanale de cordonnier.
-  Pierre hat ein Gewerbe als Schuhmacher angemeldet.
+  Les résultats seront *publiés* demain matin.
+  Die Ergebnisse werden morgen früh *bekanntgegeben*.
+
+  Le ministère vient de *publier* un nouveau décret.
+  Das Ministerium hat gerade eine neue Verordnung *veröffentlicht*.
+
+  L'entreprise doit *publier* ses chiffres trimestriels.
+  Das Unternehmen muss seine Quartalszahlen *offenlegen*.
+
+  Nous allons *publier* les bans de notre mariage la semaine prochaine.
+  Wir werden nächste Woche unser Aufgebot *bestellen*.
+
+  Ce chercheur a *publié* plus de cinquante articles scientifiques.
+  Dieser Forscher hat über fünfzig wissenschaftliche Artikel *veröffentlicht*.
+
+  As-tu déjà *publié* quelque chose ?
+  Hast du schon mal etwas *veröffentlicht*?
+
+  Son premier roman sera *publié* au printemps.
+  Ihr erster Roman wird im Frühling *herausgegeben*.
+
+  Gallimard *publie* les œuvres complètes de cet auteur.
+  Gallimard *gibt* die gesammelten Werke dieses Autors *heraus*.
+
+  Le gouvernement a *publié* un communiqué de presse urgent.
+  Die Regierung hat eine dringende Pressemitteilung *herausgegeben*.
+
+  La revue scientifique *publie* six numéros par an.
+  Die wissenschaftliche Zeitschrift *veröffentlicht* sechs Ausgaben pro Jahr.
+
+  Elle *publie* régulièrement des photos sur les réseaux sociaux.
+  Sie *veröffentlicht* regelmäßig Fotos in den sozialen Medien.
+
+  L'université va *publier* les résultats des examens ce soir.
+  Die Universität wird heute Abend die Prüfungsergebnisse *bekanntgeben*.
+
+  Ces données seront *publiées* en ligne.
+  Diese Daten werden online *veröffentlicht*.
+
+  Le poète a *publié* ses œuvres à compte d'auteur.
+  Der Dichter hat seine Werke im Selbstverlag *veröffentlicht*.
+
+  La mairie doit *publier* les dates des prochaines élections.
+  Das Rathaus muss die Termine der nächsten Wahlen *bekanntgeben*.
+
+  Cette start-up n'a pas encore *publié* son bilan financier.
+  Dieses Start-up hat seine Finanzbilanz noch nicht *offengelegt*.
+
+  Le magazine *publie* un numéro spécial chaque été.
+  Das Magazin *veröffentlicht* jeden Sommer eine Sonderausgabe.
+
+  Les actes du colloque seront *publiés* l'année prochaine.
+  Die Konferenzakten werden nächstes Jahr *veröffentlicht*.
+
+  Ses mémoires ont été *publiés* à titre posthume.
+  Seine Memoiren wurden posthum *veröffentlicht*.
+
+  Ce blog *publie* du contenu trois fois par semaine.
+  Dieser Blog *veröffentlicht* dreimal pro Woche Inhalte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

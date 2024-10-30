@@ -13,26 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mon équipe est compacte et efficace.
-  Mein Team ist kompakt und effizient.
+  Mon équipe est compacte et *efficace*.
+  Mein Team ist kompakt und *effizient*.
 
-  Ce médicament est très efficace.
-  Dieses Medikament ist sehr wirksam.
+  Ce nouveau médicament est très *efficace* contre le rhume.
+  Dieses neue Medikament ist sehr *wirksam* gegen Erkältungen.
 
-  C’était efficace.
-  Es war effektiv.
+  La campagne publicitaire s'est révélée particulièrement *efficace*.
+  Die Werbekampagne hat sich als besonders *schlagkräftig* erwiesen.
 
-  Cet ordinateur est puissant, efficace et simple à utiliser.
-  Dieser Computer ist leistungsstark, effizient und einfach zu bedienen.
+  Julie est une collaboratrice très *efficace* qui termine toujours ses tâches à temps.
+  Julie ist eine sehr *kompetente* Mitarbeiterin, die ihre Aufgaben immer pünktlich erledigt.
 
-  Ce nouveau médicament est efficace en profondeur et combat les symptômes à la source.
-  Dieses neue Medikament ist tiefenwirksam und bekämpft die Symptome an der Quelle.
+  Cette crème hydratante est *efficace* en profondeur.
+  Diese Feuchtigkeitscreme ist *tiefenwirksam*.
 
-  Ce produit est très efficace pour lutter contre les allergies.
-  Dieses Produkt ist hochwirksam gegen Allergien.
+  Le traitement s'est montré extrêmement *efficace* contre la douleur.
+  Die Behandlung hat sich als äußerst *wirksam* gegen die Schmerzen erwiesen.
 
-  Ce médicament extrêmement efficace a permis de guérir rapidement la maladie.
-  Dieses hochwirksame Medikament hat eine schnelle Heilung der Krankheit ermöglicht.
+  Nous recherchons des solutions *efficaces* pour réduire notre consommation d'énergie.
+  Wir suchen nach *effizienten* Lösungen, um unseren Energieverbrauch zu reduzieren.
+
+  Cette méthode d'apprentissage des langues est très *efficace*.
+  Diese Sprachlernmethode ist sehr *effektiv*.
+
+  Les nouveaux antibiotiques sont plus *efficaces* que les anciens.
+  Die neuen Antibiotika sind *wirksamer* als die alten.
+
+  Son aide a été vraiment *efficace* pendant le déménagement.
+  Seine Hilfe war beim Umzug wirklich *effektiv*.
+
+  Notre équipe technique propose des solutions rapides et *efficaces*.
+  Unser technisches Team bietet schnelle und *effiziente* Lösungen an.
+
+  Cette stratégie s'est révélée très *efficace* pour augmenter les ventes.
+  Diese Strategie hat sich als sehr *wirksam* erwiesen, um die Verkäufe zu steigern.
+
+  Le nouveau système de filtration est particulièrement *efficace*.
+  Das neue Filtersystem ist besonders *leistungsfähig*.
+
+  Ces exercices sont vraiment *efficaces* pour renforcer les muscles.
+  Diese Übungen sind wirklich *wirksam* zur Stärkung der Muskeln.
+
+  Il nous faut des mesures *efficaces* contre le changement climatique.
+  Wir brauchen *wirksame* Maßnahmen gegen den Klimawandel.
+
+  La nouvelle application est simple mais *efficace*.
+  Die neue App ist einfach, aber *effektiv*.
+
+  Ces techniques de relaxation sont très *efficaces* contre le stress.
+  Diese Entspannungstechniken sind sehr *wirksam* gegen Stress.
+
+  Le nouveau pesticide est hautement *efficace* contre les insectes nuisibles.
+  Das neue Pestizid ist hoch*wirksam* gegen Schädlinge.
+
+  Cette organisation caritative est particulièrement *efficace* dans ses actions.
+  Diese Wohltätigkeitsorganisation ist besonders *effizient* in ihren Aktionen.
+
+  Notre nouveau gestionnaire est remarquablement *efficace* dans son travail.
+  Unser neuer Manager ist bemerkenswert *kompetent* in seiner Arbeit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

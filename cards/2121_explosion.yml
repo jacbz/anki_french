@@ -13,35 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Une autre explosion a eu lieu presque au même moment.
-  Fast zur gleichen Zeit ereignete sich eine weitere Explosion.
+  Une autre *explosion* a eu lieu presque au même moment.
+  Eine weitere *Explosion* geschah fast zur selben Zeit.
 
-  L’explosion a été entendue à des kilomètres de distance.
-  Die Explosion war kilometerweit zu hören.
+  Les pompiers ont été appelés suite à une *explosion* de gaz dans un immeuble.
+  Die Feuerwehr wurde wegen einer Gas*explosion* in einem Gebäude gerufen.
 
-  Un accident dans l'usine a provoqué une explosion de gaz, qui a détruit plusieurs bâtiments.
-  Ein Unfall in der Fabrik führte zu einer Gasexplosion, die mehrere Gebäude zerstörte.
+  L'*explosion* de la voiture piégée a causé des dégâts considérables.
+  Die *Explosion* des Autobomben hat erhebliche Schäden verursacht.
 
-  L'annonce de son mariage a provoqué une explosion de joie chez ses amis.
-  Die Ankündigung seiner Hochzeit löste bei seinen Freunden einen Freudensturm aus.
+  On a entendu une *explosion* suivie de cris dans la rue.
+  Man hörte eine *Explosion* gefolgt von Schreien auf der Straße.
 
-  Le refus de son père a provoqué une explosion de colère chez elle.
-  Die Weigerung ihres Vaters löste bei ihr einen Wutanfall aus.
+  Les scientifiques étudient encore les conséquences de l'*explosion* nucléaire.
+  Die Wissenschaftler untersuchen noch die Folgen der Atom*explosion*.
 
-  La croissance rapide de la population dans les pays en développement provoque une explosion démographique.
-  Das schnelle Bevölkerungswachstum in den Entwicklungsländern führt zu einer Bevölkerungsexplosion.
+  Une *explosion* de rires a éclaté dans la salle de classe.
+  Ein Lach*ausbruch* brach im Klassenzimmer aus.
 
-  La bombe atomique a provoqué une explosion atomique, qui a dévasté la ville.
-  Die Atombombe verursachte eine Atomexplosion, die die Stadt verwüstete.
+  La récente *explosion* sociale a provoqué des changements politiques majeurs.
+  Der jüngste Volks*aufstand* hat große politische Veränderungen bewirkt.
 
-  Le tonnerre a produit un bruit comme une explosion.
-  Der Donner hat ein knallartiges Geräusch erzeugt.
+  L'*explosion* démographique pose de nouveaux défis pour notre ville.
+  Die Bevölkerungs*explosion* stellt unsere Stadt vor neue Herausforderungen.
 
-  La révolution a provoqué une explosion sociale, qui a renversé le gouvernement.
-  Die Revolution führte zu einem Volksaufstand, der die Regierung stürzte.
+  L'*explosion* des cours du pétrole inquiète les économistes.
+  Die Kurs*explosion* bei Öl beunruhigt die Ökonomen.
 
-  La bourse a connu une explosion des cours après l'annonce des résultats positifs.
-  Die Börse erlebte eine Kursexplosion nach der Verkündung der positiven Ergebnisse.
+  Un bruit semblable à une *explosion* m'a réveillé cette nuit.
+  Ein *explosions*artiges Geräusch hat mich heute Nacht geweckt.
+
+  Cette *explosion* de colère a surpris tous ses collègues.
+  Dieser Wut*ausbruch* hat alle seine Kollegen überrascht.
+
+  La chaudière a fait *explosion* à cause d'une surcharge de pression.
+  Der Kessel ist wegen Überdrucks *explodiert*.
+
+  Une violente *explosion* a secoué le quartier hier soir.
+  Eine heftige *Explosion* erschütterte gestern Abend das Viertel.
+
+  L'*explosion* de joie des supporters était impressionnante.
+  Der Freuden*ausbruch* der Fans war beeindruckend.
+
+  Les experts analysent la cause de l'*explosion* du laboratoire.
+  Die Experten analysieren die Ursache der Labor*explosion*.
+
+  Une *explosion* volcanique a forcé l'évacuation de l'île.
+  Ein vulkanischer *Ausbruch* erzwang die Evakuierung der Insel.
+
+  L'*explosion* de créativité des années 60 a marqué l'histoire de l'art.
+  Die Kreativitäts*explosion* der 60er Jahre prägte die Kunstgeschichte.
+
+  Cette *explosion* de violence a choqué tout le pays.
+  Dieser Gewalt*ausbruch* hat das ganze Land schockiert.
+
+  L'*explosion* d'une conduite d'eau a inondé la rue principale.
+  Die *Explosion* einer Wasserleitung hat die Hauptstraße überflutet.
+
+  Les témoins ont décrit l'*explosion* comme assourdissante.
+  Die Zeugen beschrieben die *Explosion* als ohrenbetäubend.
+
+  L'*explosion* des prix du logement inquiète les jeunes couples.
+  Die Preis*explosion* bei Wohnungen beunruhigt junge Paare.
+
+  L'*explosion* de la bulle immobilière a eu des conséquences désastreuses.
+  Die *Explosion* der Immobilienblase hatte katastrophale Folgen.
+
+  Une *explosion* de couleurs caractérise ses derniers tableaux.
+  Eine Farb*explosion* kennzeichnet seine neuesten Gemälde.
+
+  L'*explosion* épidémique a submergé les hôpitaux locaux.
+  Die epidemische *Explosion* hat die örtlichen Krankenhäuser überfordert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

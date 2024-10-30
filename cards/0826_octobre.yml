@@ -13,20 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il sortira en français au mois d’octobre.
-  Es wird im Oktober auf Französisch erscheinen.
+  Il sortira en français au mois d'*octobre*.
+  Es erscheint auf Französisch im *Oktober*.
 
-  Mon anniversaire est en octobre.
-  Mein Geburtstag ist im Oktober.
+  Le premier *octobre* est le jour de son anniversaire.
+  Am ersten *Oktober* hat sie Geburtstag.
 
-  C’est arrivé en octobre.
-  Es geschah im Oktober.
+  Il fait encore beau en *octobre* cette année.
+  Es ist dieses Jahr im *Oktober* noch schön.
 
-  Je n’étais pas là en octobre.
-  Ich war im Oktober nicht da.
+  J'ai réservé mes vacances pour la mi-*octobre*.
+  Ich habe meinen Urlaub für Mitte *Oktober* gebucht.
 
-  Je te suggère de faire ça en octobre.
-  Ich schlage vor, dass du das im Oktober machst.
+  *Octobre* a toujours été son mois préféré.
+  Der *Oktober* war schon immer sein Lieblingsmonat.
+
+  La conférence aura lieu du 15 au 20 *octobre*.
+  Die Konferenz findet vom 15. bis 20. *Oktober* statt.
+
+  Les feuilles commencent à tomber début *octobre*.
+  Die Blätter beginnen Anfang *Oktober* zu fallen.
+
+  Nous nous sommes mariés un dimanche d'*octobre*.
+  Wir haben an einem Sonntag im *Oktober* geheiratet.
+
+  En *octobre*, les jours raccourcissent rapidement.
+  Im *Oktober* werden die Tage schnell kürzer.
+
+  La température en *octobre* est plutôt douce.
+  Die Temperatur im *Oktober* ist eher mild.
+
+  Le festival se déroule chaque année en *octobre*.
+  Das Festival findet jedes Jahr im *Oktober* statt.
+
+  Les vendanges se terminent fin *octobre*.
+  Die Weinlese endet Ende *Oktober*.
+
+  C'est en *octobre* que les couleurs sont les plus belles.
+  Im *Oktober* sind die Farben am schönsten.
+
+  Il a plu pendant tout le mois d'*octobre*.
+  Es hat den ganzen *Oktober* geregnet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,26 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je me concentre plus sur ma condition physique.
-  Ich konzentriere mich mehr auf meine körperliche Verfassung.
+  Je me *concentre* plus sur ma condition physique.
+  Ich *konzentriere* mich mehr auf meine körperliche Verfassung.
 
-  Il faut se concentrer pour réussir.
-  Man muss sich konzentrieren, um Erfolg zu haben.
+  Les scientifiques ont *concentré* les rayons du soleil avec une lentille.
+  Die Wissenschaftler haben die Sonnenstrahlen mit einer Linse *gebündelt*.
 
-  Tu dois te concentrer.
-  Du musst dich konzentrieren.
+  Il faut *concentrer* nos efforts sur ce projet urgent.
+  Wir müssen unsere Kräfte auf dieses dringende Projekt *konzentrieren*.
 
-  Je me concentre sur mes études et je ne pense à rien d'autre.
-  Ich konzentriere mich auf mein Studium und denke an nichts anderes.
+  L'armée a *concentré* ses troupes près de la frontière.
+  Die Armee hat ihre Truppen an der Grenze *zusammengezogen*.
 
-  Il se concentre dans ses pensées et ne répond pas à mes questions.
-  Er ist in seinen Gedanken versunken und antwortet nicht auf meine Fragen.
+  Le chef *concentre* tout le pouvoir entre ses mains.
+  Der Chef *konzentriert* die gesamte Macht in seinen Händen.
 
-  La plupart des habitants de ce pays se concentrent dans la région côtière.
-  Die meisten Einwohner dieses Landes befinden sich besonders in der Küstenregion.
+  Les manifestants se sont *concentrés* sur la place principale.
+  Die Demonstranten haben sich auf dem Hauptplatz *versammelt*.
 
-  Il se concentre sur son travail et ne regarde pas les autres.
-  Er konzentriert sich auf seine Arbeit und schaut die anderen nicht an.
+  Je ne peux pas me *concentrer* avec tout ce bruit.
+  Ich kann mich bei diesem Lärm nicht *konzentrieren*.
+
+  Elle a *concentré* toute son affection sur son chat.
+  Sie hat ihre ganze Zuneigung auf ihre Katze *konzentriert*.
+
+  Le cuisinier *concentre* la sauce en la faisant réduire.
+  Der Koch lässt die Sauce einkochen, um sie zu *konzentrieren*.
+
+  La population se *concentre* de plus en plus dans les grandes villes.
+  Die Bevölkerung *konzentriert* sich immer mehr in den großen Städten.
+
+  Les élèves doivent se *concentrer* pendant l'examen.
+  Die Schüler müssen sich während der Prüfung *konzentrieren*.
+
+  L'industrie s'est *concentrée* dans cette région.
+  Die Industrie hat sich in dieser Region *konzentriert*.
+
+  Il *concentre* son attention sur la lecture.
+  Er *konzentriert* seine Aufmerksamkeit auf das Lesen.
+
+  Les rayons lumineux se *concentrent* au centre de la lentille.
+  Die Lichtstrahlen *bündeln* sich im Zentrum der Linse.
+
+  L'entreprise *concentre* ses activités sur trois sites.
+  Das Unternehmen *konzentriert* seine Aktivitäten auf drei Standorte.
+
+  Marie se *concentre* sur ses études de médecine.
+  Marie *konzentriert* sich auf ihr Medizinstudium.
+
+  Le laboratoire *concentre* la solution d'acide.
+  Das Labor *konzentriert* die Säurelösung.
+
+  Les spectateurs se sont *concentrés* devant la scène.
+  Die Zuschauer haben sich vor der Bühne *versammelt*.
+
+  Il faut *concentrer* nos ressources sur les priorités.
+  Wir müssen unsere Ressourcen auf die Prioritäten *konzentrieren*.
+
+  L'artillerie a *concentré* son tir sur la cible.
+  Die Artillerie hat ihr Feuer auf das Ziel *konzentriert*.
+
+  Les joueurs se *concentrent* avant le match.
+  Die Spieler *konzentrieren* sich vor dem Spiel.
+
+  L'usine *concentre* le jus d'orange.
+  Die Fabrik *konzentriert* den Orangensaft.
+
+  Il a du mal à se *concentrer* sur son travail.
+  Er hat Schwierigkeiten, sich auf seine Arbeit zu *konzentrieren*.
+
+  L'entreprise *concentre* ses investissements dans la recherche.
+  Das Unternehmen *konzentriert* seine Investitionen auf die Forschung.
+
+  Les participants se sont *concentrés* dans la salle de conférence.
+  Die Teilnehmer haben sich im Konferenzraum *versammelt*.
+
+  Le parfum *concentré* remplit toute la pièce.
+  Der *konzentrierte* Duft erfüllt den ganzen Raum.
+
+  Elle *concentre* ses efforts sur l'apprentissage du piano.
+  Sie *konzentriert* ihre Bemühungen auf das Klavierlernen.
+
+  Les chercheurs *concentrent* leurs études sur ce phénomène.
+  Die Forscher *konzentrieren* ihre Studien auf dieses Phänomen.
+
+  Le processus industriel *concentre* le minerai.
+  Der industrielle Prozess *konzentriert* das Erz.
+
+  La chaleur se *concentre* sous le toit.
+  Die Hitze *staut* sich unter dem Dach.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

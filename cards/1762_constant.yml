@@ -13,20 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous travailliez tous de façon constante.
-  Sie alle arbeiteten beständig.
+  Vous travailliez tous de façon *constante*.
+  Ihr habt alle *konstant* gearbeitet.
 
-  Il est important d’être constant dans ses efforts.
-  Es ist wichtig, konstant in seinen Bemühungen zu sein.
+  Les cours boursiers montrent un *constant* redressement depuis plusieurs mois.
+  Die Börsenkurse zeigen seit Monaten eine *anhaltende* Erholung.
 
-  La bourse a connu un constant redressement des cours après la période de baisse.
-  Die Börse erlebte eine anhaltende Kurserholung nach der Baissephase.
+  Le *constant* bruit de la circulation m'empêche de dormir.
+  Der *ständige* Verkehrslärm hindert mich am Schlafen.
 
-  Il est constant dans ses efforts pour réussir son examen.
-  Er bemüht sich unentwegt, um seine Prüfung zu bestehen.
+  Elle est restée *constante* dans la poursuite de ses objectifs.
+  Sie ist bei der Verfolgung ihrer Ziele *beharrlich* geblieben.
 
-  La poursuite du but de la paix est une tâche ardue et exigeante.
-  Das beharrliche Verfolgen des Ziels des Friedens ist eine schwierige und anspruchsvolle Aufgabe.
+  Marie manifeste un intérêt *constant* pour la musique classique.
+  Marie zeigt ein *anhaltendes* Interesse für klassische Musik.
+
+  Cette entreprise maintient une qualité *constante* de ses produits.
+  Dieses Unternehmen hält eine *gleichbleibende* Qualität seiner Produkte.
+
+  Il s'est montré *constant* dans ses amitiés depuis l'école.
+  Er hat sich in seinen Freundschaften seit der Schule als *beständig* erwiesen.
+
+  Leur bonheur *constant* fait plaisir à voir.
+  Ihr *anhaltendes* Glück ist schön anzusehen.
+
+  Cette *constante* biologique peut indiquer un problème de santé.
+  Dieser biologische *Messwert* kann auf ein gesundheitliches Problem hinweisen.
+
+  Les *constantes* d'une politique étrangère évoluent rarement.
+  Die *Grundlinien* einer Außenpolitik ändern sich selten.
+
+  La température corporelle est une *constante* physiologique importante.
+  Die Körpertemperatur ist ein wichtiger physiologischer *Messwert*.
+
+  Son humeur *constante* facilite le travail en équipe.
+  Seine *gleichbleibende* Stimmung macht die Teamarbeit leichter.
+
+  Les vents *constants* soufflent toujours dans la même direction.
+  Die *konstanten* Winde wehen immer in dieselbe Richtung.
+
+  Cette équation contient plusieurs *constantes* mathématiques.
+  Diese Gleichung enthält mehrere mathematische *Konstanten*.
+
+  La *constante* de Planck est fondamentale en physique quantique.
+  Die Planck'sche *Konstante* ist grundlegend in der Quantenphysik.
+
+  Son soutien *constant* m'a beaucoup aidé pendant cette période difficile.
+  Seine *stetige* Unterstützung hat mir in dieser schwierigen Zeit sehr geholfen.
+
+  Les prix sont calculés en monnaie *constante* pour éliminer l'effet de l'inflation.
+  Die Preise werden in *konstanter* Währung berechnet, um den Inflationseffekt zu eliminieren.
+
+  La fonction f(x) = 5 est une fonction *constante*.
+  Die Funktion f(x) = 5 ist eine *konstante* Funktion.
+
+  Un effort *constant* est nécessaire pour apprendre une langue.
+  Eine *beständige* Anstrengung ist notwendig, um eine Sprache zu lernen.
+
+  Cette *constante* astronomique aide à calculer la position des étoiles.
+  Diese astronomische *Konstante* hilft bei der Berechnung der Sternenposition.
+
+  La pression artérielle est une *constante* vitale à surveiller.
+  Der Blutdruck ist ein zu überwachender vitaler *Messwert*.
+
+  Son attitude *constante* face aux défis force le respect.
+  Seine *beständige* Haltung gegenüber Herausforderungen nötigt Respekt ab.
+
+  La *constante* solaire mesure l'énergie reçue du Soleil.
+  Die Solar*konstante* misst die von der Sonne empfangene Energie.
+
+  Il fait preuve d'une vigilance *constante* dans son travail.
+  Er zeigt *anhaltende* Wachsamkeit bei seiner Arbeit.
+
+  Les chercheurs ont identifié plusieurs *constantes* dans le comportement animal.
+  Die Forscher haben mehrere *Konstanten* im Tierverhalten identifiziert.
+
+  Une surveillance *constante* est nécessaire pour ce patient.
+  Eine *ständige* Überwachung ist für diesen Patienten erforderlich.
+
+  La gentillesse *constante* de ma grand-mère me manque beaucoup.
+  Die *beständige* Freundlichkeit meiner Großmutter fehlt mir sehr.
+
+  Ces changements de température nécessitent une attention *constante*.
+  Diese Temperaturschwankungen erfordern *ständige* Aufmerksamkeit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Votre métier est essentiellement une fonction de médiation.
-  Ihr Beruf ist im Wesentlichen eine Vermittlungsfunktion.
+  Votre métier est *essentiellement* une fonction de médiation.
+  Ihr Beruf ist *im Wesentlichen* eine Vermittlungsfunktion.
 
-  Ce livre est essentiellement basé sur des faits réels.
-  Dieses Buch basiert hauptsächlich auf realen Fakten.
+  Ces deux théories sont *essentiellement* différentes.
+  Diese beiden Theorien sind *wesensmäßig* verschieden.
+
+  La musique classique est *essentiellement* basée sur l'harmonie.
+  Klassische Musik basiert *im Wesentlichen* auf Harmonie.
+
+  Notre clientèle est *essentiellement* composée de jeunes.
+  Unsere Kundschaft besteht *in erster Linie* aus jungen Menschen.
+
+  Cette philosophie est *essentiellement* matérialiste.
+  Diese Philosophie ist *wesensmäßig* materialistisch.
+
+  Les mesures prises sont *essentiellement* préventives.
+  Die getroffenen Maßnahmen sind *in erster Linie* vorbeugend.
+
+  Son travail consiste *essentiellement* à coordonner les équipes.
+  Seine Arbeit besteht *im Wesentlichen* darin, die Teams zu koordinieren.
+
+  Le problème est *essentiellement* d'ordre technique.
+  Das Problem ist *im Wesentlichen* technischer Natur.
+
+  Les revenus proviennent *essentiellement* des exportations.
+  Die Einnahmen stammen *in erster Linie* aus Exporten.
+
+  Cette région vit *essentiellement* du tourisme.
+  Diese Region lebt *im Wesentlichen* vom Tourismus.
+
+  Le projet vise *essentiellement* à améliorer la qualité de vie.
+  Das Projekt zielt *in erster Linie* darauf ab, die Lebensqualität zu verbessern.
+
+  Les changements sont *essentiellement* cosmétiques.
+  Die Änderungen sind *im Wesentlichen* kosmetischer Art.
+
+  L'être humain est *essentiellement* social.
+  Der Mensch ist *wesensmäßig* ein soziales Wesen.
+
+  Cette méthode est *essentiellement* basée sur l'expérience.
+  Diese Methode basiert *im Wesentlichen* auf Erfahrung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

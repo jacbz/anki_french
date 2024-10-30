@@ -13,41 +13,185 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis très ouvert à cette suggestion.
-  Ich bin sehr offen für diesen Vorschlag.
+  Je suis très *ouvert* à cette suggestion.
+  Ich bin sehr *aufgeschlossen* für diesen Vorschlag.
 
-  Le magasin est ouvert jusqu’à 20 heures.
-  Das Geschäft ist bis 20 Uhr geöffnet.
+  La porte de son bureau est *ouverte*.
+  Die Tür seines Büros ist *offen*.
 
-  Ce lieu est ouvert à tous.
-  Dieser Ort ist für alle offen.
+  Les magasins seront *ouverts* dimanche prochain.
+  Die Geschäfte werden nächsten Sonntag *geöffnet* sein.
 
-  Le magasin est ouvert tous les jours, sauf le dimanche.
-  Der Laden hat jeden Tag geöffnet, außer am Sonntag.
+  Marie dort toujours la bouche *ouverte*.
+  Marie schläft immer mit *offenem* Mund.
 
-  Le marchand de légumes est ouvert tous les matins.
-  Der Gemüsehändler hat jeden Morgen geöffnet.
+  Le nouveau musée est *ouvert* à tous les visiteurs.
+  Das neue Museum ist für alle Besucher *geöffnet*.
 
-  La discussion ouverte a permis à tous de s'exprimer librement.
-  Die Open-End-Diskussion hat es allen ermöglicht, sich frei zu äußern.
+  La blessure est encore *ouverte*.
+  Die Wunde ist noch *offen*.
 
-  Il est ouvert à toutes les nouvelles idées.
-  Er ist offen für alle neuen Ideen.
+  Elle a accueilli ses invités à bras *ouverts*.
+  Sie hat ihre Gäste mit *offenen* Armen empfangen.
 
-  Un port ouvert permet de faire le commerce international.
-  Ein offener Seehafen ermöglicht den internationalen Handel.
+  Le débat reste *ouvert*.
+  Die Debatte bleibt *offen*.
 
-  La porte est grande ouverte, entrez!
-  Die Tür ist weit offen, kommen Sie rein!
+  Cette fleur est complètement *ouverte*.
+  Diese Blume ist völlig *aufgeblüht*.
 
-  Ses yeux étaient grands ouverts, il était terrifié.
-  Seine Augen waren weit aufgerissen, er war verängstigt.
+  La bibliothèque est *ouverte* jusqu'à 20 heures.
+  Die Bibliothek ist bis 20 Uhr *geöffnet*.
 
-  Le centre commercial est ouvert tous les jours de 9h à 21h.
-  Das Einkaufszentrum ist jeden Tag von 9 bis 21 Uhr geöffnet.
+  Il a un visage *ouvert* et sympathique.
+  Er hat ein *offenes* und sympathisches Gesicht.
 
-  Le maire a déclaré le nouveau musée ouvert au public.
-  Der Bürgermeister hat das neue Museum für die Öffentlichkeit eröffnet.
+  La fenêtre est grande *ouverte*.
+  Das Fenster steht weit *offen*.
+
+  Le robinet est resté *ouvert* toute la nuit.
+  Der Wasserhahn blieb die ganze Nacht *aufgedreht*.
+
+  Ses yeux sont restés grands *ouverts* pendant toute l'opération.
+  Seine Augen blieben während der ganzen Operation weit *geöffnet*.
+
+  La chasse sera *ouverte* demain.
+  Die Jagd wird morgen *eröffnet*.
+
+  Le conflit est maintenant *ouvert*.
+  Der Konflikt ist jetzt *offen* ausgebrochen.
+
+  Cette ville est très *ouverte* sur le monde.
+  Diese Stadt ist sehr *weltoffen*.
+
+  Elle a un esprit très *ouvert*.
+  Sie hat einen sehr *aufgeschlossenen* Geist.
+
+  Le championnat est encore *ouvert*.
+  Die Meisterschaft ist noch *offen*.
+
+  La compétition est *ouverte* à tous les participants.
+  Der Wettbewerb ist für alle Teilnehmer *offen*.
+
+  Cette lettre est restée *ouverte* sur son bureau.
+  Dieser Brief blieb *geöffnet* auf seinem Schreibtisch liegen.
+
+  Le port est *ouvert* aux navires étrangers.
+  Der Hafen ist für ausländische Schiffe *geöffnet*.
+
+  La valise était grande *ouverte* sur le lit.
+  Der Koffer stand weit *geöffnet* auf dem Bett.
+
+  L'enquête est *ouverte* depuis trois mois.
+  Die Ermittlung ist seit drei Monaten *eröffnet*.
+
+  "Le restaurant est encore *ouvert* ?"
+  "Ist das Restaurant noch *geöffnet*?"
+
+  Il a parlé à cœur *ouvert*.
+  Er hat *offen* von der Leber weg gesprochen.
+
+  Les données sont *ouvertes* au public.
+  Die Daten sind öffentlich *zugänglich*.
+
+  La plaie est encore *ouverte*.
+  Die Wunde klafft noch *offen*.
+
+  Cette syllabe se prononce avec un 'o' *ouvert*.
+  Diese Silbe wird mit einem *offenen* 'o' ausgesprochen.
+
+  Le centre commercial reste *ouvert* le dimanche.
+  Das Einkaufszentrum bleibt sonntags *geöffnet*.
+
+  La porte n'était pas complètement *ouverte*.
+  Die Tür war nicht ganz *geöffnet*.
+
+  Il a une personnalité très *ouverte*.
+  Er hat eine sehr *offene* Persönlichkeit.
+
+  Le coffre de la voiture est resté *ouvert*.
+  Der Kofferraum des Autos blieb *offen*.
+
+  La discussion est *ouverte* à tous.
+  Die Diskussion ist für alle *offen*.
+
+  Elle lit à livre *ouvert*.
+  Sie liest fließend vom Blatt.
+
+  L'angle est *ouvert* à 120 degrés.
+  Der Winkel ist auf 120 Grad *geöffnet*.
+
+  Le canal est *ouvert* à la navigation.
+  Der Kanal ist für die Schifffahrt *freigegeben*.
+
+  La blessure s'est *ouverte* à nouveau.
+  Die Wunde ist wieder *aufgegangen*.
+
+  Les paris sont *ouverts*.
+  Die Wetten sind *eröffnet*.
+
+  Le jardin est *ouvert* au public.
+  Der Garten ist für die Öffentlichkeit *zugänglich*.
+
+  La route est *ouverte* à la circulation.
+  Die Straße ist für den Verkehr *freigegeben*.
+
+  Le nouveau théâtre sera *ouvert* ce soir.
+  Das neue Theater wird heute Abend *eröffnet*.
+
+  Les yeux grands *ouverts*, elle fixait le plafond.
+  Mit weit *geöffneten* Augen starrte sie an die Decke.
+
+  Le débat est *ouvert* à tous les points de vue.
+  Die Debatte ist für alle Standpunkte *offen*.
+
+  La boîte est restée *ouverte*.
+  Die Box blieb *geöffnet*.
+
+  Cette entreprise est très *ouverte* aux nouvelles idées.
+  Dieses Unternehmen ist sehr *aufgeschlossen* gegenüber neuen Ideen.
+
+  La saison de ski est *ouverte*.
+  Die Skisaison ist *eröffnet*.
+
+  Le musée est *ouvert* gratuitement aujourd'hui.
+  Das Museum ist heute kostenlos *geöffnet*.
+
+  La fenêtre s'est *ouverte* avec le vent.
+  Das Fenster ist durch den Wind *aufgegangen*.
+
+  Le marché est *ouvert* tous les matins.
+  Der Markt ist jeden Morgen *geöffnet*.
+
+  La porte est restée *ouverte* toute la nuit.
+  Die Tür blieb die ganze Nacht *offen*.
+
+  Il a une attitude très *ouverte*.
+  Er hat eine sehr *offene* Einstellung.
+
+  La bibliothèque est *ouverte* 24 heures sur 24.
+  Die Bibliothek ist rund um die Uhr *geöffnet*.
+
+  Le magasin est *ouvert* jusqu'à minuit.
+  Der Laden ist bis Mitternacht *geöffnet*.
+
+  La blessure s'est *ouverte* pendant l'entraînement.
+  Die Wunde ist während des Trainings *aufgegangen*.
+
+  Les inscriptions sont *ouvertes* jusqu'à vendredi.
+  Die Anmeldungen sind bis Freitag *offen*.
+
+  La piscine est *ouverte* en été.
+  Das Schwimmbad ist im Sommer *geöffnet*.
+
+  Le salon est *ouvert* aux professionnels.
+  Die Messe ist für Fachbesucher *geöffnet*.
+
+  Le livre est resté *ouvert* sur la table.
+  Das Buch blieb *aufgeschlagen* auf dem Tisch liegen.
+
+  La frontière est *ouverte* jour et nuit.
+  Die Grenze ist Tag und Nacht *geöffnet*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

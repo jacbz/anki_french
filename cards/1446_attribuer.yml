@@ -13,41 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Son mari attribuait cette apathie à sa naissance.
-  Ihr Mann führte die Apathie auf ihre Geburt zurück.
+  Son mari *attribuait* cette apathie à sa naissance.
+  Ihr Mann *führte* diese Apathie auf ihre Geburt *zurück*.
 
-  Le prix sera attribué demain.
-  Der Preis wird morgen verliehen.
+  Le jury a *attribué* le premier prix à Marie pour sa performance exceptionnelle.
+  Die Jury hat Marie für ihre außergewöhnliche Leistung den ersten Preis *verliehen*.
 
-  Le jury a attribué un prix à Sophie pour son roman.
-  Die Jury hat Sophie für ihren Roman einen Preis verliehen.
+  L'université lui a *attribué* une bourse d'études complète.
+  Die Universität hat ihm ein vollständiges Stipendium *gewährt*.
 
-  Il s'est attribué le succès de son entreprise.
-  Er hat sich den Erfolg seines Unternehmens zugeschrieben.
+  Le service du logement nous a *attribué* un appartement dans le centre-ville.
+  Die Wohnungsbehörde hat uns eine Wohnung im Stadtzentrum *zugewiesen*.
 
-  On attribue l'œuvre à un artiste inconnu.
-  Man schreibt das Werk einem unbekannten Künstler zu.
+  Les experts *attribuent* ce tableau à un peintre inconnu du XVIe siècle.
+  Die Experten *schreiben* dieses Gemälde einem unbekannten Maler des 16. Jahrhunderts *zu*.
 
-  Le professeur a attribué une bourse d'études à Jean pour ses excellents résultats.
-  Der Professor hat Jean aufgrund seiner hervorragenden Leistungen ein Stipendium gegeben.
+  Je ne lui *attribue* pas la capacité de gérer ce projet complexe.
+  Ich *traue* ihm nicht *zu*, dieses komplexe Projekt zu managen.
 
-  La mairie a attribué un logement à la famille nouvellement arrivée.
-  Die Stadtverwaltung hat der neu angekommenen Familie eine Wohnung zugewiesen.
+  Pierre *attribuait* toujours des intentions cachées à ses collègues.
+  Pierre *unterstellte* seinen Kollegen stets versteckte Absichten.
 
-  On lui attribue une grande faculté d'adaptation.
-  Man traut ihm eine große Anpassungsfähigkeit zu.
+  Les médias ont *attribué* la responsabilité de l'accident au conducteur.
+  Die Medien haben dem Fahrer die Schuld an dem Unfall *zugeschoben*.
 
-  J'ai toujours attribué des arrière-pensées à son attitude.
-  Ich habe seiner Haltung immer Hintergedanken unterstellt.
+  Le comité *attribue* une grande importance à cette découverte scientifique.
+  Das Komitee *misst* dieser wissenschaftlichen Entdeckung große Bedeutung *bei*.
 
-  Le tribunal a attribué la culpabilité à l'accusé.
-  Das Gericht hat dem Angeklagten die Schuld zugeschoben.
+  Les chercheurs *attribuent* la disparition des abeilles aux pesticides.
+  Die Forscher *führen* das Bienensterben auf Pestizide *zurück*.
 
-  Il faut attribuer de l'importance à la sécurité routière.
-  Man muss der Verkehrssicherheit Bedeutung beimessen.
+  Il s'est injustement *attribué* mon idée pendant la réunion.
+  Er hat sich meine Idee während der Beissprechung zu Unrecht *zugeschrieben*.
 
-  Il a attribué son échec à un manque de préparation.
-  Er hat seinen Misserfolg auf mangelnde Vorbereitung zurückgeführt.
+  La ville *attribuera* de nouveaux locaux aux associations culturelles.
+  Die Stadt wird den Kulturvereinen neue Räumlichkeiten *zuteilen*.
+
+  Les critiques *attribuent* ce roman à un auteur anonyme.
+  Die Kritiker *schreiben* diesen Roman einem anonymen Autor *zu*.
+
+  Le directeur lui a *attribué* le rôle principal dans la pièce.
+  Der Regisseur hat ihr die Hauptrolle im Stück *zugeteilt*.
+
+  Les météorologues *attribuent* ces tempêtes au changement climatique.
+  Die Meteorologen *führen* diese Stürme auf den Klimawandel *zurück*.
+
+  Elle s'est *attribué* tout le mérite du projet réussi.
+  Sie hat sich das ganze Verdienst für das erfolgreiche Projekt *zugeschrieben*.
+
+  Le ministère *attribuera* des fonds supplémentaires à l'éducation.
+  Das Ministerium wird dem Bildungswesen zusätzliche Mittel *zuweisen*.
+
+  Les historiens *attribuent* cette découverte à un explorateur portugais.
+  Die Historiker *schreiben* diese Entdeckung einem portugiesischen Forscher *zu*.
+
+  Le comité lui a *attribué* une mention spéciale pour son travail.
+  Das Komitee hat ihm für seine Arbeit eine besondere Auszeichnung *verliehen*.
+
+  Les scientifiques *attribuent* ce phénomène à des causes naturelles.
+  Die Wissenschaftler *führen* dieses Phänomen auf natürliche Ursachen *zurück*.
+
+  L'entreprise *attribue* ses succès à ses employés dévoués.
+  Das Unternehmen *schreibt* seine Erfolge seinen engagierten Mitarbeitern *zu*.
+
+  Le jury a *attribué* la médaille d'or à l'équipe nationale.
+  Die Jury hat dem Nationalteam die Goldmedaille *verliehen*.
+
+  Les experts *attribuent* cette sculpture à un artiste de la Renaissance.
+  Die Experten *schreiben* diese Skulptur einem Künstler der Renaissance *zu*.
+
+  L'organisation s'est *attribué* le droit de parler au nom des victimes.
+  Die Organisation hat sich das Recht *zugeschrieben*, im Namen der Opfer zu sprechen.
+
+  Le gouvernement *attribuera* des logements sociaux aux familles défavorisées.
+  Die Regierung wird benachteiligten Familien Sozialwohnungen *zuweisen*.
+
+  Les archéologues *attribuent* ces vestiges à une civilisation ancienne.
+  Die Archäologen *ordnen* diese Überreste einer antiken Zivilisation *zu*.
+
+  Le conseil municipal a *attribué* un terrain à l'association sportive.
+  Der Gemeinderat hat dem Sportverein ein Grundstück *zugewiesen*.
+
+  Les spécialistes *attribuent* ce succès à une nouvelle stratégie marketing.
+  Die Fachleute *führen* diesen Erfolg auf eine neue Marketingstrategie *zurück*.
+
+  Le jury lui a *attribué* une mention honorable pour son projet innovant.
+  Die Jury hat ihm für sein innovatives Projekt eine ehrende Erwähnung *verliehen*.
+
+  L'université *attribue* chaque année des bourses aux étudiants méritants.
+  Die Universität *vergibt* jedes Jahr Stipendien an verdiente Studenten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

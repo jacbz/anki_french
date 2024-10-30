@@ -13,32 +13,107 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Chez cet auteur schizophrène cohabitent deux personnages.
-  Bei diesem schizophrenen Autor leben zwei Personen zusammen.
+  Chez cet *auteur* schizophrène cohabitent deux personnages.
+  In diesem schizophrenen *Autor* leben zwei Persönlichkeiten.
 
-  L’auteur de ce livre est très connu.
-  Der Autor dieses Buches ist sehr bekannt.
+  Les droits d'*auteur* pour son dernier roman s'élèvent à 10.000 euros.
+  Die *Autoren*honorare für seinen letzten Roman belaufen sich auf 10.000 Euro.
 
-  Sarah est une auteur dramatique réputée pour ses pièces engagées.
-  Sarah ist eine renommierte Theaterautorin, die für ihre engagierten Stücke bekannt ist.
+  L'*auteur* du tableau reste inconnu jusqu'à aujourd'hui.
+  Der *Urheber* des Gemäldes ist bis heute unbekannt.
 
-  Marie Curie est l'auteur de la découverte du radium.
-  Marie Curie ist die Entdeckerin des Radiums.
+  Marie est devenue une *auteure* à succès grâce à ses romans policiers.
+  Marie ist durch ihre Kriminalromane zu einer erfolgreichen *Autorin* geworden.
 
-  Qui est l'auteur de cette blague, qui a fait rire toute la salle ?
-  Wer hat sich diesen Scherz ausgedacht, der die ganze Halle zum Lachen gebracht hat?
+  Les *auteurs* classiques sont toujours au programme scolaire.
+  Die klassischen *Autoren* stehen immer noch auf dem Lehrplan.
 
-  L'auteur de l'attentat, qui était un homme de 25 ans, a été arrêté par la police.
-  Die Attentäterin, ein 25-jähriger Mann, wurde von der Polizei festgenommen.
+  L'*auteur* de cette découverte scientifique a reçu le prix Nobel.
+  Der *Urheber* dieser wissenschaftlichen Entdeckung erhielt den Nobelpreis.
 
-  L'auteur des faits ayant agi seul, a été retrouvé dans un appartement de la ville.
-  Die Alleintäterin wurde in einer Wohnung in der Stadt gefunden.
+  La police recherche l'*auteur* de l'attaque depuis trois jours.
+  Die Polizei sucht seit drei Tagen nach dem *Täter* des Angriffs.
 
-  Les auteurs ont pu s'enfuir sans être identifiés, laissant derrière eux un sentiment de peur et d'incertitude.
-  Die Täter konnten unerkannt entkommen und hinterließen ein Gefühl von Angst und Unsicherheit.
+  Cette jeune *auteure* québécoise écrit des poèmes magnifiques.
+  Diese junge kanadische *Autorin* schreibt wunderschöne Gedichte.
 
-  Il a nié être l'auteur de l'infraction, mais les preuves contre lui étaient accablantes.
-  Er leugnete die Täterschaft, aber die Beweise gegen ihn waren erdrückend.
+  L'*auteur* de cette blague de mauvais goût devra s'excuser.
+  Der *Urheber* dieses geschmacklosen Scherzes wird sich entschuldigen müssen.
+
+  Pierre est l'*auteur* des paroles de cette chanson populaire.
+  Pierre ist der *Textautor* dieses populären Liedes.
+
+  Les *auteurs* dramatiques se réunissent chaque année à ce festival.
+  Die Theater*autoren* treffen sich jedes Jahr bei diesem Festival.
+
+  Qui est l'*auteur* de ce désordre dans ma chambre ?
+  Wer ist der *Verursacher* dieses Durcheinanders in meinem Zimmer?
+
+  L'*auteur* du vol a été arrêté ce matin.
+  Der *Täter* des Diebstahls wurde heute Morgen verhaftet.
+
+  Cette *auteure* publie sous un pseudonyme masculin.
+  Diese *Autorin* veröffentlicht unter einem männlichen Pseudonym.
+
+  Je dois citer cet *auteur* dans ma thèse.
+  Ich muss diesen *Autor* in meiner Dissertation zitieren.
+
+  L'*auteur* de la lettre anonyme n'a jamais été identifié.
+  Der *Verfasser* des anonymen Briefes wurde nie identifiziert.
+
+  Les *auteurs* du projet ont présenté leur travail hier.
+  Die *Urheber* des Projekts haben ihre Arbeit gestern vorgestellt.
+
+  Cette *auteure* engagée écrit sur les problèmes sociaux.
+  Diese engagierte *Autorin* schreibt über soziale Probleme.
+
+  L'*auteur* du crime a laissé des traces sur la scène.
+  Der *Täter* des Verbrechens hat Spuren am Tatort hinterlassen.
+
+  Nous étudierons les *auteurs* du XVIIIe siècle ce semestre.
+  Wir werden die *Autoren* des 18. Jahrhunderts in diesem Semester studieren.
+
+  L'*auteur* de cette invention révolutionnaire reste modeste.
+  Der *Erfinder* dieser revolutionären Erfindung bleibt bescheiden.
+
+  Sophie est l'*auteure* principale de cette recherche innovante.
+  Sophie ist die Haupt*autorin* dieser innovativen Forschung.
+
+  Les *auteurs* de la manifestation ont été identifiés.
+  Die *Urheber* der Demonstration wurden identifiziert.
+
+  Cet *auteur* prolifique écrit deux romans par an.
+  Dieser produktive *Autor* schreibt zwei Romane pro Jahr.
+
+  L'*auteur* du message n'a pas signé son texte.
+  Der *Verfasser* der Nachricht hat seinen Text nicht unterschrieben.
+
+  Les jeunes *auteurs* ont du mal à se faire publier.
+  Junge *Autoren* haben es schwer, veröffentlicht zu werden.
+
+  L'*auteure* de ce blog culinaire partage ses recettes gratuitement.
+  Die *Autorin* dieses Kochblogs teilt ihre Rezepte kostenlos.
+
+  Les *auteurs* du vandalisme seront punis sévèrement.
+  Die *Täter* des Vandalismus werden streng bestraft werden.
+
+  Cet *auteur* contemporain explore des thèmes universels.
+  Dieser zeitgenössische *Autor* erkundet universelle Themen.
+
+  L'*auteur* du commentaire a supprimé son message.
+  Der *Verfasser* des Kommentars hat seine Nachricht gelöscht.
+
+  Elle est l'*auteure* de plusieurs best-sellers internationaux.
+  Sie ist die *Autorin* mehrerer internationaler Bestseller.
+
+  L'*auteur* de cette confusion devra s'expliquer.
+  Der *Verursacher* dieser Verwirrung wird sich erklären müssen.
+
+  Les *auteurs* du rapport ont fait un travail remarquable.
+  Die *Verfasser* des Berichts haben bemerkenswerte Arbeit geleistet.
+
+  Cet *auteur* débutant montre beaucoup de talent.
+  Dieser beginnende *Autor* zeigt viel Talent.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

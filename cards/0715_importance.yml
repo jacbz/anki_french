@@ -13,35 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cela n’a pas d’importance.
-  Das spielt keine Rolle.
+  Cela n'a pas d'*importance*.
+  Das hat keine *Bedeutung*.
 
-  L’importance de ce sujet est indéniable.
-  Die Bedeutung dieses Themas ist unbestreitbar.
+  L'*importance* des effectifs ne cesse d'augmenter chaque année.
+  Die *Stärke* der Belegschaft steigt von Jahr zu Jahr.
 
-  La sécurité de l'enfant est de la dernière importance.
-  Die Sicherheit des Kindes ist höchst wichtig.
+  Cette agglomération d'*importance* moyenne compte environ 50 000 habitants.
+  Diese Stadt mittlerer *Größe* hat ungefähr 50.000 Einwohner.
 
-  Il accorde de l'importance à la qualité du travail.
-  Er misst der Qualität der Arbeit eine große Bedeutung bei.
+  Il faut mesurer l'*importance* de cet événement historique.
+  Man muss die *Bedeutung* dieses historischen Ereignisses ermessen.
 
-  Il se donne de l'importance, mais personne ne le prend au sérieux.
-  Er macht sich wichtig, aber niemand nimmt ihn ernst.
+  L'*importance* des dégâts après l'orage était considérable.
+  Das *Ausmaß* der Schäden nach dem Gewitter war beträchtlich.
 
-  La protection de l'environnement est d'importance.
-  Der Schutz der Umwelt ist von Bedeutung.
+  Elle est très consciente de son *importance* au sein de l'entreprise.
+  Sie ist sich ihres *Einflusses* im Unternehmen sehr bewusst.
 
-  Il minimise l'importance de la crise climatique.
-  Er spielt die Bedeutung der Klimakrise herunter.
+  La découverte est de première *importance* pour la recherche médicale.
+  Die Entdeckung ist von höchster *Bedeutung* für die medizinische Forschung.
 
-  L'apprentissage des langues prend de l'importance dans le monde globalisé.
-  Das Erlernen von Sprachen gewinnt in der globalisierten Welt an Bedeutung.
+  "Il se donne de l'*importance* depuis sa promotion."
+  "Er *spielt* sich seit seiner Beförderung *auf*."
 
-  Ces détails sont sans importance.
-  Diese Details sind unwichtig.
+  Cette question est d'*importance* capitale pour notre avenir.
+  Diese Frage ist von überlebens*wichtiger* *Bedeutung* für unsere Zukunft.
 
-  La question d'une alimentation saine est d'importance capitale.
-  Die Frage einer gesunden Ernährung ist überlebenswichtig.
+  J'attache beaucoup d'*importance* à l'éducation de mes enfants.
+  Ich messe der Erziehung meiner Kinder große *Bedeutung* bei.
+
+  L'*importance* de la production a doublé depuis l'année dernière.
+  Die *Menge* der Produktion hat sich seit letztem Jahr verdoppelt.
+
+  Ne minimisez pas l'*importance* de cette décision.
+  Spielen Sie die *Bedeutung* dieser Entscheidung nicht herunter.
+
+  C'est une affaire de la plus haute *importance*.
+  Das ist eine Angelegenheit von höchster *Wichtigkeit*.
+
+  Son poste a pris de l'*importance* ces derniers mois.
+  Seine Position hat in den letzten Monaten an *Bedeutung* gewonnen.
+
+  Les détails sont sans *importance* dans ce contexte.
+  Die Details sind in diesem Zusammenhang *bedeutungslos*.
+
+  L'*importance* de la somme m'a fait hésiter.
+  Die *Höhe* des Betrags hat mich zögern lassen.
+
+  Il faut souligner l'*importance* de ce passage dans le texte.
+  Man muss die *Bedeutung* dieser Textstelle hervorheben.
+
+  Elle n'accorde aucune *importance* aux rumeurs.
+  Sie misst den Gerüchten keine *Bedeutung* bei.
+
+  Son *importance* dans le groupe est indiscutable.
+  Sein *Ansehen* in der Gruppe ist unbestritten.
+
+  Les experts évaluent l'*importance* du sinistre.
+  Die Experten schätzen den *Umfang* des Schadens ein.
+
+  "Il est tellement bouffi d'*importance* qu'il ne parle plus à personne."
+  "Er ist so von seiner *Wichtigkeit* aufgeblasen, dass er mit niemandem mehr spricht."
+
+  Cette information est d'une *importance* cruciale.
+  Diese Information ist von entscheidender *Bedeutung*.
+
+  L'*importance* de sa fonction lui confère beaucoup de responsabilités.
+  Die *Bedeutung* seiner Position bringt viel Verantwortung mit sich.
+
+  Je ne comprends pas l'*importance* qu'il accorde à ces détails.
+  Ich verstehe nicht die *Bedeutung*, die er diesen Details beimisst.
+
+  L'*importance* de la population varie selon les saisons.
+  Die *Größe* der Bevölkerung schwankt je nach Jahreszeit.
+
+  C'est un fait d'une *importance* secondaire.
+  Das ist eine Tatsache von untergeordneter *Bedeutung*.
+
+  Il exagère l'*importance* de cet incident.
+  Er übertreibt die *Bedeutung* dieses Vorfalls.
+
+  L'*importance* de son travail a été reconnue par ses collègues.
+  Die *Wichtigkeit* seiner Arbeit wurde von seinen Kollegen anerkannt.
+
+  C'est une personne sans *importance* dans cette affaire.
+  Er ist eine Person ohne *Bedeutung* in dieser Angelegenheit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,44 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai besoin d’une autorisation.
-  Ich benötige eine Genehmigung.
+  J'ai besoin d'une *autorisation*.
+  Ich brauche eine *Erlaubnis*.
 
-  Il faut demander une autorisation pour entrer.
-  Man muss eine Erlaubnis beantragen, um einzutreten.
+  Il a publié cette photo sans mon *autorisation*.
+  Er hat dieses Foto ohne meine *Erlaubnis* veröffentlicht.
 
-  Il a fait cela avec une autorisation du maire.
-  Er hat das mit der Erlaubnis des Bürgermeisters getan.
+  Les enfants doivent avoir l'*autorisation* de leurs parents pour participer à l'excursion.
+  Die Kinder brauchen die *Genehmigung* ihrer Eltern, um am Ausflug teilzunehmen.
 
-  Il a demandé une autorisation pour construire une maison.
-  Er hat eine Baugenehmigung beantragt.
+  Le maire a accordé l'*autorisation* de construire la nouvelle école.
+  Der Bürgermeister hat die *Genehmigung* für den Bau der neuen Schule erteilt.
 
-  Il a sollicité une autorisation pour participer au concours.
-  Er hat eine Teilnahmeberechtigung beantragt.
+  Mon père m'a donné son *autorisation* pour sortir ce soir.
+  Mein Vater hat mir die *Erlaubnis* gegeben, heute Abend auszugehen.
 
-  Il a reçu une autorisation de pêcher dans ce lac.
-  Er hat eine Fischereierlaubnis für diesen See erhalten.
+  Vous devez présenter votre *autorisation* à l'entrée du bâtiment.
+  Sie müssen Ihre *Genehmigung* am Eingang des Gebäudes vorzeigen.
 
-  Il a reçu une autorisation supplémentaire pour rester plus longtemps.
-  Er hat eine Nachgenehmigung bekommen, um länger zu bleiben.
+  La tour de contrôle a donné l'*autorisation* d'atterrir.
+  Der Kontrollturm hat die *Erlaubnis* zur Landung gegeben.
 
-  Il a fait cela sans autorisation, ce qui était interdit.
-  Er hat das ohne Erlaubnis getan, was verboten war.
+  Julie attend toujours son *autorisation* de travail.
+  Julie wartet noch auf ihre Arbeits*erlaubnis*.
 
-  Il a fait cela sans autorisation, ce qui était illégal.
-  Er hat das ohne Genehmigung getan, was illegal war.
+  Il faut une *autorisation* spéciale pour entrer dans cette zone.
+  Man braucht eine spezielle *Genehmigung*, um diesen Bereich zu betreten.
 
-  Il a reçu une autorisation de chasser dans cette forêt.
-  Er hat eine Jagderlaubnis für diesen Wald erhalten.
+  L'*autorisation* de chasser n'est valable que pendant la saison.
+  Die Jagd*erlaubnis* ist nur während der Saison gültig.
 
-  Il a reçu une autorisation de participation pour le festival.
-  Er hat eine Teilnahmeberechtigung für das Festival erhalten.
+  As-tu demandé l'*autorisation* à ton professeur ?
+  Hast du den Lehrer um *Erlaubnis* gefragt?
 
-  Il a reçu une autorisation en blanc pour utiliser son ordinateur.
-  Er hat eine Blankoeinwilligung bekommen, seinen Computer zu benutzen.
+  Voici l'*autorisation* signée par le directeur.
+  Hier ist die vom Direktor unterschriebene *Genehmigung*.
 
-  Il a reçu une autorisation collective pour visiter le musée.
-  Er hat eine Sammelgenehmigung bekommen, das Museum zu besuchen.
+  Les mineurs ont besoin d'une *autorisation* de sortie du territoire.
+  Minderjährige brauchen eine Ausreise*genehmigung*.
+
+  Cette entreprise n'a pas l'*autorisation* d'exercer.
+  Dieses Unternehmen hat keine Gewerbe*erlaubnis*.
+
+  Marc a reçu son *autorisation* de séjour hier.
+  Marc hat gestern seine Aufenthalts*erlaubnis* bekommen.
+
+  L'*autorisation* parentale doit être signée avant demain.
+  Die *Einwilligung* der Eltern muss bis morgen unterschrieben sein.
+
+  Sans *autorisation* préalable, vous ne pouvez pas modifier le contrat.
+  Ohne vorherige *Genehmigung* können Sie den Vertrag nicht ändern.
+
+  Elle a obtenu une *autorisation* exceptionnelle pour partir plus tôt.
+  Sie hat eine Ausnahme*genehmigung* bekommen, früher zu gehen.
+
+  Nous attendons l'*autorisation* du ministère.
+  Wir warten auf die *Genehmigung* des Ministeriums.
+
+  L'*autorisation* de pêcher est obligatoire dans cette rivière.
+  Die Fischerei*erlaubnis* ist für diesen Fluss vorgeschrieben.
+
+  Le comité a donné son *autorisation* pour le projet.
+  Das Komitee hat seine *Zustimmung* für das Projekt gegeben.
+
+  Cette *autorisation* n'est valable que pour trois mois.
+  Diese *Genehmigung* ist nur drei Monate gültig.
+
+  Avez-vous une *autorisation* écrite ?
+  Haben Sie eine schriftliche *Genehmigung*?
+
+  Je dois renouveler mon *autorisation* de stationnement.
+  Ich muss meine Park*erlaubnis* erneuern.
+
+  L'*autorisation* peut être révoquée à tout moment.
+  Die *Genehmigung* kann jederzeit widerrufen werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

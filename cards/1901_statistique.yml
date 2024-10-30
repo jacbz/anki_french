@@ -13,14 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis tombé sur une statistique très intéressante.
-  Ich bin auf eine sehr interessante Statistik gestoßen.
+  Je suis tombé sur une *statistique* très intéressante.
+  Ich bin auf eine interessante *Statistik* gestoßen.
 
-  Les statistiques montrent une augmentation des ventes.
-  Die Statistiken zeigen einen Anstieg der Verkäufe.
+  Les *statistiques* montrent une augmentation du nombre de lecteurs.
+  Die *Statistiken* zeigen einen Anstieg der Leserzahlen.
 
-  Elle a fait des statistiques sur les ventes de la boutique.
-  Sie hat Statistiken über die Verkäufe im Laden erstellt.
+  L'analyse *statistique* des données prend beaucoup de temps.
+  Die *statistische* Datenanalyse nimmt viel Zeit in Anspruch.
+
+  Elle travaille à l'Institut national de la *statistique*.
+  Sie arbeitet beim nationalen *Statistik*-Institut.
+
+  Le professeur nous a appris les méthodes *statistiques* de base.
+  Der Professor hat uns die grundlegenden *statistischen* Methoden beigebracht.
+
+  Les *statistiques* de chômage ont baissé ce mois-ci.
+  Die Arbeitslosen*statistiken* sind diesen Monat gesunken.
+
+  Il faut interpréter ces *statistiques* avec prudence.
+  Diese *Statistiken* müssen mit Vorsicht interpretiert werden.
+
+  La *statistique* lexicale aide à comprendre l'évolution de la langue.
+  Die Wort*statistik* hilft, die Entwicklung der Sprache zu verstehen.
+
+  Les étudiants devront faire une étude *statistique* sur ce phénomène.
+  Die Studenten werden eine *statistische* Studie zu diesem Phänomen durchführen müssen.
+
+  "On peut manipuler les *statistiques* comme on veut !"
+  "Man kann *Statistiken* so drehen, wie man will!"
+
+  Selon les *statistiques*, la population mondiale continue d'augmenter.
+  Laut *Statistiken* wächst die Weltbevölkerung weiter.
+
+  La *statistique* est devenue un outil indispensable en recherche.
+  Die *Statistik* ist zu einem unverzichtbaren Forschungswerkzeug geworden.
+
+  Ces résultats ne sont pas *statistiquement* significatifs.
+  Diese Ergebnisse sind nicht *statistisch* signifikant.
+
+  Les *statistiques* de vente du dernier trimestre sont encourageantes.
+  Die Verkaufs*statistiken* des letzten Quartals sind ermutigend.
+
+  Notre équipe compile des *statistiques* sur les habitudes alimentaires.
+  Unser Team erstellt *Statistiken* über Ernährungsgewohnheiten.
+
+  La mécanique *statistique* est une branche fascinante de la physique.
+  Die *statistische* Mechanik ist ein faszinierender Zweig der Physik.
+
+  Les *statistiques* démographiques révèlent des changements sociaux importants.
+  Die demografischen *Statistiken* zeigen wichtige gesellschaftliche Veränderungen.
+
+  Il a utilisé des méthodes *statistiques* avancées pour son analyse.
+  Er hat fortgeschrittene *statistische* Methoden für seine Analyse verwendet.
+
+  Nous devons présenter ces *statistiques* lors de la prochaine réunion.
+  Wir müssen diese *Statistiken* bei der nächsten Sitzung vorstellen.
+
+  La *statistique* peut nous aider à prendre de meilleures décisions.
+  Die *Statistik* kann uns helfen, bessere Entscheidungen zu treffen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

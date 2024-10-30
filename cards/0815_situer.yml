@@ -13,38 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je me situe quelque part entre les deux.
-  Ich befinde mich irgendwo dazwischen.
+  Je me *situe* quelque part entre les deux.
+  Ich *befinde* mich irgendwo dazwischen.
 
-  Je ne sais pas situer cette ville sur la carte.
-  Ich weiß nicht, wo ich diese Stadt auf der Karte einordnen soll.
+  L'action de ce film se *situe* dans les années 1920.
+  Die Handlung dieses Films *spielt* in den 1920er Jahren.
 
-  Le réalisateur a décidé de situer son film à Paris, car il adore la ville et son ambiance.
-  Der Regisseur hat sich entschieden, seinen Film in Paris spielen zu lassen, da er die Stadt und ihre Atmosphäre sehr schätzt.
+  Notre maison est *située* près de la gare.
+  Unser Haus *liegt* in der Nähe des Bahnhofs.
 
-  L'action de ce roman se situe à Paris, mais les personnages se rendent souvent dans les collines pour se ressourcer.
-  Dieser Roman spielt in Paris, aber die Figuren gehen oft in die Hügel, um sich zu erholen.
+  Il n'a pas su *situer* le magasin sur le plan.
+  Er konnte den Laden auf dem Plan nicht *lokalisieren*.
 
-  Le roman est situé en l'an 1900, une époque charnière pour la société française.
-  Dieser Roman ist im Jahr 1900 angesiedelt, einer Zeit des Umbruchs für die französische Gesellschaft.
+  Les prix se *situent* entre 50 et 100 euros.
+  Die Preise *liegen* zwischen 50 und 100 Euro.
 
-  Les événements de l'histoire se situent en l'an 1944, pendant la libération de Paris.
-  Die Ereignisse der Geschichte finden im Jahr 1944 statt, während der Befreiung von Paris.
+  L'auteur a *situé* son roman dans un village imaginaire.
+  Der Autor hat seinen Roman in einem imaginären Dorf *spielen* lassen.
 
-  Le prix du pétrole se situe entre vingt et trente pour cent plus élevé qu'il y a un an.
-  Der Ölpreis liegt zwischen zwanzig und dreißig Prozent höher als vor einem Jahr.
+  "Je ne *situe* pas vraiment cette personne dans ma famille."
+  "Ich kann diese Person in meiner Familie nicht richtig *einordnen*."
 
-  Je ne situe pas très bien ce lieu, pourriez-vous me donner des indications ?
-  Ich weiß nicht genau, wo dieser Ort liegt, könnten Sie mir ein paar Hinweise geben?
+  Le radar permet de *situer* précisément l'avion.
+  Das Radar ermöglicht es, das Flugzeug genau zu *orten*.
 
-  Pouvez-vous situer l'endroit précis où se déroule cette scène du film ?
-  Wissen Sie, wo genau diese Szene des Films spielt?
+  Les scientifiques *situent* cet événement au Moyen Âge.
+  Die Wissenschaftler *datieren* dieses Ereignis auf das Mittelalter.
 
-  Cet événement se situe avant la dernière guerre, mais ses conséquences se font encore sentir aujourd'hui.
-  Dieses Ereignis fällt in die Zeit vor dem letzten Krieg, aber seine Folgen sind noch heute zu spüren.
+  Comment *situer* cette constellation dans le ciel ?
+  Wie kann man dieses Sternbild am Himmel *verorten*?
 
-  Le niveau de vie en France se situe bien au-dessous du pair en comparaison avec les autres pays européens.
-  Das Lebensniveau in Frankreich ist im Vergleich zu anderen europäischen Ländern weit unter pari.
+  Le restaurant se *situe* au dernier étage.
+  Das Restaurant *befindet* sich im obersten Stock.
+
+  Politiquement, elle se *situe* à gauche.
+  Politisch *steht* sie links.
+
+  Il faut *situer* le contexte historique de ce document.
+  Man muss den historischen Kontext dieses Dokuments *einordnen*.
+
+  La température se *situe* en dessous de zéro.
+  Die Temperatur *liegt* unter null.
+
+  Les experts *situent* l'origine du virus en Asie.
+  Die Experten *verorten* den Ursprung des Virus in Asien.
+
+  Son bureau est *situé* au rez-de-chaussée.
+  Sein Büro *befindet* sich im Erdgeschoss.
+
+  Cette ville est mal *située* pour le tourisme.
+  Diese Stadt ist für den Tourismus ungünstig *gelegen*.
+
+  Je dois *situer* ce point sur la carte.
+  Ich muss diesen Punkt auf der Karte *markieren*.
+
+  L'entrée principale se *situe* côté sud.
+  Der Haupteingang *liegt* auf der Südseite.
+
+  Les archéologues *situent* ces ruines à l'époque romaine.
+  Die Archäologen *datieren* diese Ruinen auf die römische Zeit.
+
+  Le nouveau centre commercial est bien *situé*.
+  Das neue Einkaufszentrum ist gut *gelegen*.
+
+  Cette scène se *situe* au début du film.
+  Diese Szene *spielt* am Anfang des Films.
+
+  Comment vous *situez*-vous par rapport à ce projet ?
+  Wie *positionieren* Sie sich zu diesem Projekt?
+
+  L'université est *située* en centre-ville.
+  Die Universität *liegt* im Stadtzentrum.
+
+  Les spécialistes *situent* ce tableau dans sa période bleue.
+  Die Experten *ordnen* dieses Gemälde seiner blauen Periode zu.
+
+  Le village se *situe* à 500 mètres d'altitude.
+  Das Dorf *liegt* auf 500 Metern Höhe.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

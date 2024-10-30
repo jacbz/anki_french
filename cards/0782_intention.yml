@@ -13,44 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je l’ai fait avec les meilleures intentions.
-  Ich habe es mit den besten Absichten getan.
+  Je l'ai fait avec les meilleures *intentions*.
+  Ich habe es in bester *Absicht* getan.
 
-  J’ai l’intention de partir demain.
-  Ich habe die Absicht, morgen zu gehen.
+  J'ai l'*intention* de partir en vacances le mois prochain.
+  Ich habe die *Absicht*, nächsten Monat in den Urlaub zu fahren.
 
-  C’était exactement son intention.
-  Das war genau seine Absicht.
+  Cette fête est organisée à l'*intention* des nouveaux employés.
+  Diese Feier wird zu *Ehren* der neuen Mitarbeiter organisiert.
 
-  L'intention dolosive est un élément important pour établir la responsabilité pénale.
-  Täuschungsabsicht ist ein wichtiges Element, um strafrechtliche Verantwortlichkeit zu begründen.
+  Il n'a pas l'*intention* de démissionner de son poste.
+  Er hat nicht die *Absicht*, von seinem Posten zurückzutreten.
 
-  On dit souvent que "c'est l'intention qui compte", mais ce n'est pas toujours le cas en droit.
-  Man sagt oft, dass "der gute Wille zählt", aber das ist nicht immer der Fall im Recht.
+  Mon *intention* première était simplement de l'aider.
+  Meine ursprüngliche *Absicht* war es einfach, ihm zu helfen.
 
-  Il a commis cette erreur sans intention de nuire.
-  Er hat diesen Fehler unabsichtlich begangen.
+  Elle a agi dans l'*intention* de protéger ses enfants.
+  Sie handelte in der *Absicht*, ihre Kinder zu schützen.
 
-  Il a fait cela à cette intention de se venger.
-  Er hat das zu diesem Zweck getan, um sich zu rächen.
+  Il a de mauvaises *intentions* à l'égard de Marie.
+  Er *führt* etwas gegen Marie *im Schilde*.
 
-  La plupart des histoires partent d'une bonne intention, mais parfois les choses tournent mal.
-  Einer Geschichte liegt eine gute Absicht zugrunde, aber manchmal geht es schief.
+  Ces réformes ont été faites dans l'*intention* d'améliorer le système.
+  Diese Reformen wurden mit der *Absicht* durchgeführt, das System zu verbessern.
 
-  Il agissait dans une bonne intention, mais il a fait une erreur.
-  Er hat in guter Absicht gehandelt, aber er hat einen Fehler gemacht.
+  Quelle est ton *intention* exactement ?
+  Was ist deine genaue *Absicht*?
 
-  Elle a de bonnes intentions à l'égard de son fils, même si elle ne sait pas toujours comment l'aider.
-  Sie meint es gut mit ihrem Sohn, auch wenn sie nicht immer weiß, wie sie ihm helfen kann.
+  "L'enfer est pavé de bonnes *intentions*."
+  "Der Weg zur Hölle ist mit guten *Absichten* gepflastert."
 
-  Il a agi avec les meilleures intentions du monde, mais il a quand même blessé ses amis.
-  Er hat in der allerbesten Absicht gehandelt, aber er hat seine Freunde trotzdem verletzt.
+  Il n'entre pas dans mes *intentions* de vous offenser.
+  Es liegt nicht in meiner *Absicht*, Sie zu beleidigen.
 
-  Elle a l'intention de voyager en Asie l'année prochaine.
-  Sie hat vor, nächstes Jahr nach Asien zu reisen.
+  Ses *intentions* étaient pures, mais le résultat fut catastrophique.
+  Seine *Absichten* waren rein, aber das Ergebnis war katastrophal.
 
-  Il n'a pas l'intention de se marier avant quelques années.
-  Er hat nicht die Absicht, in den nächsten Jahren zu heiraten.
+  L'*intention* dolosive a été prouvée devant le tribunal.
+  Die *Täuschungsabsicht* wurde vor Gericht bewiesen.
+
+  À quelle *intention* as-tu fait cela ?
+  Mit welcher *Absicht* hast du das getan?
+
+  Je n'ai nullement l'*intention* de changer d'avis.
+  Ich habe überhaupt nicht die *Absicht*, meine Meinung zu ändern.
+
+  Cette histoire part d'une bonne *intention*.
+  Dieser Geschichte liegt eine gute *Absicht* zugrunde.
+
+  Il a agi avec l'*intention* d'extorquer de l'argent.
+  Er handelte in erpresserischer *Absicht*.
+
+  Nous avons l'*intention* de nous marier l'année prochaine.
+  Wir haben die *Absicht*, nächstes Jahr zu heiraten.
+
+  Les *intentions* du gouvernement restent floues.
+  Die *Absichten* der Regierung bleiben unklar.
+
+  Elle a clairement exprimé ses *intentions*.
+  Sie hat ihre *Absichten* klar zum Ausdruck gebracht.
+
+  Cette lettre est écrite à l'*intention* du directeur.
+  Dieser Brief ist an den Direktor ge*richtet*.
+
+  Je ne doute pas de tes bonnes *intentions*.
+  Ich zweifle nicht an deinen guten *Absichten*.
+
+  As-tu vraiment l'*intention* de partir si tôt ?
+  Hast du wirklich die *Absicht*, so früh zu gehen?
+
+  Son *intention* de nuire était évidente.
+  Seine *Absicht* zu schaden war offensichtlich.
+
+  Elle n'a pas l'*intention* de participer à la réunion.
+  Sie hat nicht die *Absicht*, an der Besprechung teilzunehmen.
+
+  Dans quelle *intention* m'as-tu appelé ?
+  Mit welcher *Absicht* hast du mich angerufen?
+
+  J'ai fait ce cadeau à l'*intention* de ta sœur.
+  Ich habe dieses Geschenk für deine Schwester be*stimmt*.
+
+  Ses *intentions* à mon égard sont douteuses.
+  Seine *Absichten* mir gegenüber sind zweifelhaft.
+
+  Il cache ses véritables *intentions*.
+  Er verbirgt seine wahren *Absichten*.
+
+  Cette remarque n'avait aucune mauvaise *intention*.
+  Diese Bemerkung hatte keine böse *Absicht*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

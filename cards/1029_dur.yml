@@ -13,44 +13,185 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il va traverser des moments très durs.
-  Er wird eine sehr schwere Zeit durchmachen.
+  Il va traverser des moments très *durs*.
+  Er wird sehr *harte* Zeiten durchmachen.
 
-  C’est dur à croire.
-  Das ist schwer zu glauben.
+  La serrure est *dure*, il faut la huiler.
+  Das Schloss ist *schwergängig*, es muss geölt werden.
 
-  Ça doit être dur à faire.
-  Es muss schwer sein, das zu tun.
+  Je dois travailler *dur* pour réussir mes examens.
+  Ich muss *hart* arbeiten, um meine Prüfungen zu bestehen.
 
-  Les durs du parti ont refusé tout compromis.
-  Die Betonköpfe in der Partei haben jeden Kompromiss abgelehnt.
+  "C'est un *dur à cuire*, celui-là !"
+  "Der ist eine *harte Nuss*!"
 
-  Il a soufflé dur sur la braise pour rallumer le feu.
-  Er hat heftig auf die Glut geblasen, um das Feuer wieder anzuzünden.
+  Le soleil tape *dur* aujourd'hui.
+  Die Sonne *brennt* heute *heftig*.
 
-  Ce problème est un dur à cuire, mais on va le résoudre.
-  Dieses Problem ist eine harte Nuss, aber wir werden es lösen.
+  Mon petit frère a la tête *dure*, il n'écoute jamais les conseils.
+  Mein kleiner Bruder hat einen *harten* Kopf, er hört nie auf Ratschläge.
 
-  C'est un dur de dur, il ne se laisse pas intimider par personne.
-  Das ist ein knallharter Bursche, er lässt sich von niemandem einschüchtern.
+  Cette viande est trop *dure*, je n'arrive pas à la couper.
+  Dieses Fleisch ist zu *zäh*, ich kann es nicht schneiden.
 
-  Il a essayé de jouer les durs, mais il a vite craqué.
-  Er hat versucht, den starken Mann zu markieren, aber er ist schnell eingeknickt.
+  Le vent souffle *dur* ce matin.
+  Der Wind *bläst* heute Morgen *heftig*.
 
-  Le bâtiment en dur est beaucoup plus résistant que les constructions en bois.
-  Der Massivbau ist viel widerstandsfähiger als Holzbauten.
+  Les préjugés ont la vie *dure*.
+  Vorurteile sind sehr *hartnäckig*.
 
-  Le plus dur est passé, maintenant on peut se détendre.
-  Das Schlimmste ist überstanden, jetzt können wir uns entspannen.
+  "*Tu joues les durs*, mais au fond tu as peur."
+  "Du *markierst den starken Mann*, aber im Grunde hast du Angst."
 
-  Il est dur avec ses enfants, mais c'est pour leur bien.
-  Er ist hart zu seinen Kindern, aber es ist für ihr Wohl.
+  Elle est *dure* à la tâche et ne se plaint jamais.
+  Sie ist *unermüdlich* bei der Arbeit und beschwert sich nie.
 
-  Il est dur au mal et ne se laisse pas abattre facilement.
-  Er ist unerschütterlich und lässt sich nicht so leicht unterkriegen.
+  Les *durs* du parti ont refusé tout compromis.
+  Die *Betonköpfe* in der Partei haben jeden Kompromiss abgelehnt.
 
-  La piste en dur est beaucoup plus confortable que les chemins de terre.
-  Die befestigte Straße ist viel bequemer als die Feldwege.
+  Mon grand-père est *dur* d'oreille, il faut parler fort.
+  Mein Großvater ist *schwerhörig*, man muss laut sprechen.
+
+  Cette critique est trop *dure* et injuste.
+  Diese Kritik ist zu *hart* und ungerecht.
+
+  J'aime mon café avec un œuf *dur*.
+  Ich mag meinen Kaffee mit einem *hart* gekochten Ei.
+
+  Le diamant est *dur* comme du verre.
+  Der Diamant ist *glashart*.
+
+  La route en *dur* mène jusqu'au village.
+  Die *befestigte* Straße führt bis zum Dorf.
+
+  Les sciences *dures* demandent beaucoup de précision.
+  Die *exakten* Wissenschaften erfordern viel Präzision.
+
+  "*Dur*, *dur* la vie d'artiste !"
+  "*Hart*, *hart* ist das Künstlerleben!"
+
+  Cette brosse est trop *dure* pour mes cheveux.
+  Diese Bürste ist zu *hart* für meine Haare.
+
+  Les conditions de travail sont de plus en plus *dures*.
+  Die Arbeitsbedingungen werden immer *härter*.
+
+  Il a le sommeil *dur*, même l'orage ne le réveille pas.
+  Er hat einen *festen* Schlaf, nicht mal das Gewitter weckt ihn auf.
+
+  Sa voix *dure* fait peur aux enfants.
+  Seine *harte* Stimme macht den Kindern Angst.
+
+  Elle croit *dur* comme fer à ses convictions.
+  Sie glaubt *felsenfest* an ihre Überzeugungen.
+
+  Le granit est une roche très *dure*.
+  Granit ist ein sehr *hartes* Gestein.
+
+  Ces temps sont vraiment *durs* pour les petites entreprises.
+  Das sind wirklich *harte* Zeiten für kleine Unternehmen.
+
+  Il est *dur* en affaires, personne n'aime négocier avec lui.
+  Er ist *hart* in Geschäftssachen, niemand verhandelt gerne mit ihm.
+
+  "C'est un *dur de dur*, ne le cherche pas !"
+  "Das ist ein *knallharter Bursche*, leg dich nicht mit ihm an!"
+
+  Le lit est trop *dur* pour mon dos.
+  Das Bett ist zu *hart* für meinen Rücken.
+
+  Cette côte est vraiment *dure* à monter.
+  Diese Steigung ist wirklich *schwer* zu bewältigen.
+
+  Le climat est particulièrement *dur* dans cette région.
+  Das Klima ist in dieser Region besonders *extrem*.
+
+  Cette lumière est trop *dure* pour faire des photos.
+  Dieses Licht ist zu *hart* zum Fotografieren.
+
+  Il a un regard *dur* qui intimide tout le monde.
+  Er hat einen *strengen* Blick, der allen Angst macht.
+
+  Le bois de chêne est plus *dur* que le pin.
+  Eichenholz ist *härter* als Kiefernholz.
+
+  Notre nouveau professeur est très *dur* avec nous.
+  Unser neuer Lehrer ist sehr *streng* mit uns.
+
+  Ce problème est trop *dur* pour moi.
+  Dieses Problem ist zu *schwer* für mich.
+
+  Les drogues *dures* sont très dangereuses.
+  *Harte* Drogen sind sehr gefährlich.
+
+  Son père est *dur* au mal, il ne se plaint jamais.
+  Sein Vater ist *unerschütterlich*, er beklagt sich nie.
+
+  Ils habitent dans un bâtiment en *dur*.
+  Sie wohnen in einem *massiven* Gebäude.
+
+  Le pain est devenu *dur*, il faut en acheter du frais.
+  Das Brot ist *hart* geworden, wir müssen frisches kaufen.
+
+  Ce crayon est trop *dur* pour dessiner.
+  Dieser Bleistift ist zu *hart* zum Zeichnen.
+
+  Elle a les traits du visage *durs*.
+  Sie hat *harte* Gesichtszüge.
+
+  Cette affront est *dur* à digérer.
+  Diese Beleidigung ist schwer zu *verdauen*.
+
+  Le vin est un peu *dur*, il faut le laisser respirer.
+  Der Wein ist etwas *herb*, er muss noch atmen.
+
+  "On en a vu de *dures* pendant la crise."
+  "Wir haben während der Krise *Schweres* durchgemacht."
+
+  Cette pierre *dure* est parfaite pour la sculpture.
+  Dieser *harte* Stein ist perfekt zum Bildhauern.
+
+  Cette eau est très *dure*, elle laisse du calcaire.
+  Dieses Wasser ist sehr *hart*, es hinterlässt Kalk.
+
+  Mon petit frère est vraiment *dur* en ce moment.
+  Mein kleiner Bruder ist momentan wirklich *schwierig*.
+
+  Il a le cœur *dur*, il ne pardonne jamais.
+  Er ist *hartherzig*, er vergibt nie.
+
+  Elle frappe *dur* dans le ballon.
+  Sie schlägt *hart* gegen den Ball.
+
+  Elle est *dure* à la douleur depuis son accident.
+  Sie ist seit ihrem Unfall *schmerzunempfindlich*.
+
+  Les matières *dures* résistent mieux à l'usure.
+  *Harte* Materialien sind verschleißfester.
+
+  Ce col *dur* me fait mal au cou.
+  Dieser *steife* Kragen tut mir am Hals weh.
+
+  Ce rayon X est très *dur* et dangereux.
+  Diese Röntgenstrahlung ist sehr *energiereich* und gefährlich.
+
+  Il nous fait voir de *dures* tous les jours au travail.
+  Er macht uns bei der Arbeit das Leben *schwer*.
+
+  Elle dort sur la *dure* depuis une semaine.
+  Sie schläft seit einer Woche auf dem *harten* Boden.
+
+  Cette pâte *dure* résiste bien à la chaleur.
+  Diese *harte* Keramikmasse ist sehr hitzebeständig.
+
+  C'est un enfant *dur*, il n'obéit jamais.
+  Es ist ein *schwieriges* Kind, es gehorcht nie.
+
+  Les consonnes *dures* sont difficiles à prononcer.
+  Die *harten* Konsonanten sind schwer auszusprechen.
+
+  Le plus *dur* est passé, maintenant ça ira mieux.
+  Das *Schlimmste* ist überstanden, jetzt wird es besser.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

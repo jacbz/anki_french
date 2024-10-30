@@ -13,41 +13,104 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ignore si ce chiffre est exact.
-  Ich weiß nicht, ob diese Zahl korrekt ist.
+  J'ignore si ce *chiffre* est exact.
+  Ich weiß nicht, ob diese *Zahl* stimmt.
 
-  Le chiffre d’affaires a augmenté.
-  Der Umsatz hat zugenommen.
+  Le professeur a écrit un *chiffre* arabe au tableau.
+  Der Lehrer hat eine arabische *Ziffer* an die Tafel geschrieben.
 
-  Le nombre 17 s'écrit XVII en chiffre romain.
-  Die Zahl 17 wird in römischen Ziffern als XVII geschrieben.
+  Ce nombre à trois *chiffres* correspond à mon code postal.
+  Diese dreistellige *Zahl* ist meine Postleitzahl.
 
-  Le prix brut du produit est de 100 euros, le prix net est de 80 euros.
-  Der Bruttopreis des Produkts beträgt 100 Euro, der Nettopreis 80 Euro.
+  Il y avait des colonnes de *chiffres* sur la feuille d'exercices.
+  Auf dem Übungsblatt waren *Zahlen*kolonnen.
 
-  Le nombre de visiteurs du musée a atteint un chiffre record cette année.
-  Die Besucherzahl des Museums hat in diesem Jahr einen Rekord erreicht.
+  Veuillez écrire la date en *chiffres*, s'il vous plaît.
+  Bitte geben Sie das Datum in *Ziffern* an.
 
-  On peut dire que le nombre de participants est de 1000 en chiffres ronds.
-  Man kann sagen, dass die Teilnehmerzahl in runden Zahlen bei 1000 liegt.
+  Le *chiffre* net des ventes a dépassé nos attentes.
+  Der Netto*betrag* der Verkäufe hat unsere Erwartungen übertroffen.
 
-  L'entreprise essaie de faire du chiffre en lançant de nouvelles campagnes publicitaires.
-  Das Unternehmen versucht, den Umsatz nach oben zu treiben, indem es neue Werbekampagnen startet.
+  Le *chiffre* des naissances a augmenté cette année.
+  Die Geburten*zahl* ist dieses Jahr gestiegen.
 
-  Le code postal de notre ville est à trois chiffres.
-  Die Postleitzahl unserer Stadt ist dreistellig.
+  Le musée a atteint un *chiffre* record de visiteurs.
+  Das Museum erreichte eine Rekord*zahl* an Besuchern.
 
-  Les colonnes de chiffres sur le tableau de bord sont difficiles à comprendre.
-  Die Zahlenkolonnen auf dem Armaturenbrett sind schwer zu verstehen.
+  En *chiffres* ronds, combien coûte cette voiture ?
+  Wie viel kostet dieses Auto in runden *Zahlen*?
 
-  Donnez la date de votre naissance en chiffres, s'il vous plaît.
-  Bitte geben Sie Ihr Geburtsdatum numerisch an.
+  Les *chiffres* du chômage sont inquiétants.
+  Die Arbeitslosen*zahlen* sind beunruhigend.
 
-  Les chiffres du chômage sont en baisse depuis quelques mois.
-  Die Arbeitslosenzahlen sind seit einigen Monaten rückläufig.
+  J'ai oublié le *chiffre* de mon coffre-fort.
+  Ich habe die *Zahlen*kombination meines Tresors vergessen.
 
-  Les chiffres budgétés sont souvent plus optimistes que les chiffres réels.
-  Die Soll-Zahlen sind oft optimistischer als die Ist-Zahlen.
+  Le message a été envoyé en *chiffre* pour plus de sécurité.
+  Die Nachricht wurde zur Sicherheit in *Geheim*schrift gesendet.
+
+  Elle travaille au service du *Chiffre* du ministère.
+  Sie arbeitet in der *Chiffrier*abteilung des Ministeriums.
+
+  Son *chiffre* est brodé sur ses serviettes.
+  Sein *Monogramm* ist auf seine Servietten gestickt.
+
+  Le *chiffre* d'affaires de l'entreprise a doublé.
+  Der *Umsatz* des Unternehmens hat sich verdoppelt.
+
+  As-tu appris à lire les *chiffres* romains ?
+  Hast du gelernt, römische *Ziffern* zu lesen?
+
+  Les *chiffres* de fréquentation sont très encourageants.
+  Die Besucher*zahlen* sind sehr ermutigend.
+
+  Le *chiffre* de la population mondiale ne cesse d'augmenter.
+  Die Welt*bevölkerungs*zahl steigt weiter an.
+
+  Il a fait graver son *chiffre* sur sa chevalière.
+  Er ließ sein *Monogramm* in seinen Siegelring gravieren.
+
+  La combinaison du cadenas comporte quatre *chiffres*.
+  Die Zahlenkombination des Schlosses besteht aus vier *Ziffern*.
+
+  Les *chiffres* budgétés sont supérieurs aux *chiffres* réels.
+  Die Soll*zahlen* liegen über den Ist*zahlen*.
+
+  Le *chiffre* brut des exportations a baissé.
+  Der Brutto*betrag* der Exporte ist gesunken.
+
+  Les services secrets utilisent un nouveau *chiffre*.
+  Die Geheimdienste verwenden einen neuen *Code*.
+
+  Cette entreprise ne fait que du *chiffre*.
+  Diese Firma treibt nur den *Umsatz* nach oben.
+
+  Les *chiffres* et les lettres sont bien alignés sur ce document.
+  Die *Ziffern* und Buchstaben sind auf diesem Dokument gut ausgerichtet.
+
+  Le *chiffre* de production mensuelle est stable.
+  Die monatliche Produktions*zahl* ist stabil.
+
+  Les *chiffres* de cette étude sont très révélateurs.
+  Die *Zahlen* dieser Studie sind sehr aufschlussreich.
+
+  Ce *chiffre* représente le montant total des dépenses.
+  Diese *Summe* stellt den Gesamtbetrag der Ausgaben dar.
+
+  La clé du *chiffre* a été compromise.
+  Der Schlüssel zur *Geheim*schrift wurde kompromittiert.
+
+  Les musiciens doivent bien connaître les *chiffres* pour la mesure.
+  Die Musiker müssen die Takt*ziffern* gut kennen.
+
+  Le *chiffre* des exportations a atteint un nouveau record.
+  Die Export*zahlen* haben einen neuen Rekord erreicht.
+
+  Elle écrit toujours les dates en *chiffres*.
+  Sie schreibt Daten immer in *Ziffern*.
+
+  Les *chiffres* de ce graphique sont difficiles à lire.
+  Die *Zahlen* in dieser Grafik sind schwer zu lesen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

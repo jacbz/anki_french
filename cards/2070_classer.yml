@@ -13,26 +13,101 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous devenez plus difficile à classer.
-  Sie werden immer schwerer einzuordnen.
+  Vous devenez plus difficile à *classer*.
+  Sie werden schwieriger *einzuordnen*.
 
-  Je dois classer ces documents.
-  Ich muss diese Dokumente ordnen.
+  J'ai *classé* tous mes documents dans le bon dossier.
+  Ich habe alle meine Dokumente in den richtigen Ordner *einsortiert*.
 
-  J'ai classé toutes mes dépenses dans un tableau pour mieux suivre mon budget.
-  Ich habe alle meine Ausgaben tabellarisch angeordnet, um meinen Haushalt besser im Blick zu behalten.
+  Il faut *classer* ces photos par date.
+  Diese Fotos müssen nach Datum *geordnet* werden.
 
-  L'équipe de France s'est classée première au classement mondial.
-  Die französische Mannschaft hat sich auf Platz 1 der Weltrangliste platziert.
+  La bibliothécaire *classait* les livres par ordre alphabétique.
+  Die Bibliothekarin *sortierte* die Bücher alphabetisch.
 
-  Ce joueur est classé parmi les meilleurs au monde.
-  Dieser Spieler zählt zu den besten der Welt.
+  Le biologiste a *classé* les espèces selon leur habitat.
+  Der Biologe hat die Arten nach ihrem Lebensraum *eingeteilt*.
 
-  Le directeur a décidé de classer Marie dans un échelon tarifaire supérieur.
-  Der Direktor hat beschlossen, Marie in eine höhere Tarifgruppe einzustufen.
+  Elle s'est *classée* première au concours de piano.
+  Sie hat sich beim Klavierwettbewerb als *Erste platziert*.
 
-  La bibliothécaire a classé les livres par ordre de grandeur sur les étagères.
-  Die Bibliothekarin hat die Bücher nach Größe in den Regalen angeordnet.
+  Les scientifiques *classent* ce poisson parmi les mammifères.
+  Die Wissenschaftler *zählen* diesen Fisch zu den Säugetieren.
+
+  La police a *classé* l'affaire faute de preuves.
+  Die Polizei hat den Fall mangels Beweisen *ad acta gelegt*.
+
+  Le ministère a *classé* ce château monument historique.
+  Das Ministerium hat dieses Schloss unter *Denkmalschutz gestellt*.
+
+  Les timbres sont *classés* par pays d'origine.
+  Die Briefmarken sind nach Herkunftsland *sortiert*.
+
+  Notre équipe s'est *classée* troisième du championnat.
+  Unser Team hat sich in der Meisterschaft als *Dritter platziert*.
+
+  Le professeur *classe* les copies du meilleur au pire.
+  Der Lehrer *ordnet* die Klausuren von der besten zur schlechtesten.
+
+  Ils ont *classé* leurs factures dans un tableau Excel.
+  Sie haben ihre Rechnungen in einer Excel-Tabelle *angeordnet*.
+
+  Comment *classer* tous ces emails efficacement ?
+  Wie kann man all diese E-Mails effizient *ordnen*?
+
+  L'hôtel est *classé* quatre étoiles.
+  Das Hotel ist als Vier-Sterne-Hotel *eingestuft*.
+
+  Le jury a *classé* les candidats selon leurs compétences.
+  Die Jury hat die Kandidaten nach ihren Fähigkeiten *eingestuft*.
+
+  Cette région a été *classée* zone protégée.
+  Diese Region wurde zum *geschützten* Gebiet erklärt.
+
+  Il faut *classer* ses idées avant de commencer à écrire.
+  Man muss seine Gedanken *ordnen*, bevor man anfängt zu schreiben.
+
+  Les dossiers sont mal *classés* dans cette armoire.
+  Die Akten sind in diesem Schrank falsch *einsortiert*.
+
+  Le musée a *classé* les œuvres par période artistique.
+  Das Museum hat die Werke nach Kunstepochen *geordnet*.
+
+  Les athlètes se sont *classés* selon leur temps de course.
+  Die Athleten haben sich nach ihrer Laufzeit *platziert*.
+
+  Cette entreprise est *classée* parmi les plus innovantes.
+  Dieses Unternehmen wird zu den innovativsten *gezählt*.
+
+  Nous devons *classer* ces documents avant la réunion.
+  Wir müssen diese Unterlagen vor der Besprechung *sortieren*.
+
+  Le site naturel a été *classé* patrimoine mondial.
+  Das Naturgebiet wurde unter *Schutz* gestellt.
+
+  Les élèves ont *classé* les mots par catégories grammaticales.
+  Die Schüler haben die Wörter nach Wortarten *eingeteilt*.
+
+  L'affaire est *classée*, n'en parlons plus.
+  Die Sache ist *abgeschlossen*, sprechen wir nicht mehr darüber.
+
+  Cette collection de timbres est parfaitement *classée*.
+  Diese Briefmarkensammlung ist perfekt *geordnet*.
+
+  Le comité a *classé* les projets par ordre de priorité.
+  Das Komitee hat die Projekte nach Priorität *geordnet*.
+
+  Les chercheurs *classent* les données dans une base.
+  Die Forscher *ordnen* die Daten in einer Datenbank.
+
+  Comment as-tu *classé* tes fichiers sur ton ordinateur ?
+  Wie hast du deine Dateien auf deinem Computer *geordnet*?
+
+  Cette zone humide est *classée* site protégé.
+  Dieses Feuchtgebiet ist als *geschütztes* Gebiet eingestuft.
+
+  Après cet incident, il était définitivement *classé*.
+  Nach diesem Vorfall war er endgültig *abgestempelt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

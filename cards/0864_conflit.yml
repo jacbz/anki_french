@@ -13,41 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils se préparent à un éventuel conflit.
-  Sie bereiten sich auf einen möglichen Konflikt vor.
+  Ils se préparent à un éventuel *conflit*.
+  Sie bereiten sich auf einen möglichen *Konflikt* vor.
 
-  Il y a un conflit entre les deux pays.
-  Es gibt einen Konflikt zwischen den beiden Ländern.
+  Le *conflit* armé a duré plus de trois ans.
+  Der bewaffnete *Konflikt* hat mehr als drei Jahre gedauert.
 
-  Le conflit armé en Syrie dure depuis de nombreuses années.
-  Der bewaffnete Konflikt in Syrien dauert seit vielen Jahren an.
+  Les *conflits* sociaux se sont intensifiés ces derniers mois.
+  Die sozialen *Spannungen* haben sich in den letzten Monaten verschärft.
 
-  Il y a eu un conflit de compétence entre les deux départements.
-  Es gab einen Kompetenzkonflikt zwischen den beiden Abteilungen.
+  Le *conflit* Est-Ouest a marqué toute la deuxième moitié du XXe siècle.
+  Der Ost-West-*Konflikt* prägte die gesamte zweite Hälfte des 20. Jahrhunderts.
 
-  Les conflits sociaux se multiplient dans le pays.
-  Die sozialen Spannungen im Land nehmen zu.
+  Le *conflit* Nord-Sud reste un défi majeur pour la communauté internationale.
+  Der Nord-Süd-*Konflikt* bleibt eine große Herausforderung für die internationale Gemeinschaft.
 
-  Le conflit Est–Ouest a marqué la guerre froide.
-  Der Ost-West-Konflikt prägte den Kalten Krieg.
+  Le *conflit* des générations n'est pas un phénomène nouveau.
+  Der Generationen*konflikt* ist kein neues Phänomen.
 
-  Le conflit Nord–Sud se traduit par des inégalités économiques.
-  Der Nord-Süd-Konflikt zeigt sich in wirtschaftlichen Ungleichheiten.
+  Un *conflit* de pêche a éclaté entre les deux pays voisins.
+  Zwischen den beiden Nachbarländern ist ein Fischerei*streit* ausgebrochen.
 
-  Le conflit des classes est un phénomène récurrent dans l'histoire.
-  Der Klassenkonflikt ist ein wiederkehrendes Phänomen in der Geschichte.
+  Ce *conflit* du travail pourrait se transformer en grève.
+  Dieser Arbeits*konflikt* könnte sich in einen Streik verwandeln.
 
-  Le conflit de pêche entre les deux pays est une source de tension.
-  Der Fischereistreit zwischen den beiden Ländern ist eine Quelle der Spannung.
+  Pierre est entré en *conflit* avec son patron.
+  Pierre ist mit seinem Chef in *Konflikt* geraten.
 
-  Le conflit du travail a paralysé l'entreprise.
-  Der Arbeitskonflikt hat das Unternehmen lahmgelegt.
+  Marie évite toujours les *conflits* avec ses collègues.
+  Marie ist im Umgang mit ihren Kollegen *konflikt*scheu.
 
-  Elle est entrée en conflit avec son patron à cause de ses idées.
-  Sie geriet mit ihrem Chef wegen ihrer Ideen in Konflikt.
+  Un *conflit* mondial a éclaté en 1939.
+  1939 brach ein Welt*konflikt* aus.
 
-  Il est connu pour éviter les conflits et privilégier le dialogue.
-  Er ist bekannt dafür, Konflikte zu vermeiden und den Dialog zu bevorzugen.
+  Ces *conflits* familiaux ont détruit leurs relations.
+  Diese Familien*konflikte* haben ihre Beziehungen zerstört.
+
+  Le *conflit* entre héritiers a duré plusieurs années.
+  Der Erb*streit* dauerte mehrere Jahre.
+
+  Nous devons régler ce *conflit* à l'amiable.
+  Wir müssen diesen *Konflikt* gütlich beilegen.
+
+  Ce *conflit* sanglant a fait des milliers de victimes.
+  Dieser blutige *Konflikt* hat tausende Opfer gefordert.
+
+  Son *conflit* intérieur l'empêche de prendre une décision.
+  Sein innerer *Konflikt* hindert ihn daran, eine Entscheidung zu treffen.
+
+  Un grave *conflit* d'intérêts a été révélé hier.
+  Gestern wurde ein schwerer Interessen*konflikt* aufgedeckt.
+
+  Les *conflits* de classe persistent dans notre société.
+  Die Klassen*konflikte* bestehen in unserer Gesellschaft fort.
+
+  Ce *conflit* des lois complique la situation juridique.
+  Dieser Gesetzes*konflikt* verkompliziert die rechtliche Situation.
+
+  Un *conflit* de compétence a ralenti la procédure.
+  Ein Kompetenz*streit* hat das Verfahren verzögert.
+
+  Les *conflits* d'obligations sont fréquents dans cette profession.
+  Pflichten*kollisionen* sind in diesem Beruf häufig.
+
+  Le *conflit* entre l'Église et l'État a marqué cette époque.
+  Der *Konflikt* zwischen Kirche und Staat prägte diese Epoche.
+
+  Les deux pays cherchent à éviter un *conflit* diplomatique.
+  Die beiden Länder versuchen, einen diplomatischen *Konflikt* zu vermeiden.
+
+  Ce *conflit* de tendances divise le parti politique.
+  Dieser Richtungs*konflikt* spaltet die politische Partei.
+
+  Les *conflits* psychologiques peuvent avoir des conséquences physiques.
+  Psychische *Konflikte* können körperliche Folgen haben.
+
+  Le médiateur tente de résoudre le *conflit*.
+  Der Vermittler versucht, den *Konflikt* zu lösen.
+
+  Son *conflit* de loyauté l'a mise dans une situation difficile.
+  Ihr Loyalitäts*konflikt* hat sie in eine schwierige Situation gebracht.
+
+  Les *conflits* internationaux menacent la paix mondiale.
+  Internationale *Konflikte* bedrohen den Weltfrieden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

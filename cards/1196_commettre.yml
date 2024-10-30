@@ -13,23 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous avez commis presque tous les crimes informatiques.
-  Sie haben fast alle Computerverbrechen begangen.
+  Vous avez *commis* presque tous les crimes informatiques.
+  Sie haben fast alle Computer*verbrechen* *begangen*.
 
-  Il a commis une erreur.
-  Er hat einen Fehler begangen.
+  Il a *commis* un délit dans l'exercice de sa fonction.
+  Er hat im Dienst ein Amtsdelikt *begangen*.
 
-  Le policier a commis un délit dans l'exercice de sa fonction en acceptant un pot-de-vin.
-  Der Polizist hat ein Amtsdelikt begangen, indem er Bestechungsgeld angenommen hat.
+  Elle s'est *commise* avec des personnes louches.
+  Sie hat sich mit zweifelhaften Personen *eingelassen*.
 
-  Il s'est commis avec une femme mariée, ce qui a provoqué un scandale.
-  Er hat sich mit einer verheirateten Frau eingelassen, was einen Skandal auslöste.
+  "Il a encore *commis* un roman médiocre !"
+  "Er hat schon wieder einen mittelmäßigen Roman *verbrochen*!"
 
-  Le juge a commis le juré à l'écoute du procès.
-  Der Richter hat den Geschworenen zur Anhörung des Prozesses bestellt.
+  Les agressions se *commettent* surtout la nuit.
+  Die Übergriffe werden vor allem nachts *begangen*.
 
-  En ne dénonçant pas le crime, il s'est commis une faute de complicité.
-  Indem er das Verbrechen nicht angezeigt hat, hat er sich der Beihilfe schuldig gemacht.
+  Le juge l'a *commis* d'office pour défendre l'accusé.
+  Der Richter hat ihn als Pflichtverteidiger für den Angeklagten *bestellt*.
+
+  Ne vous *commettez* pas avec ces gens méprisables.
+  *Lassen* Sie sich nicht mit diesen verachtenswerten Menschen *ein*.
+
+  Les voleurs ont *commis* plusieurs cambriolages cette semaine.
+  Die Diebe haben diese Woche mehrere Einbrüche *verübt*.
+
+  J'ai *commis* une grave erreur en lui faisant confiance.
+  Ich habe einen schweren Fehler *begangen*, als ich ihm vertraute.
+
+  Il s'est *commis* beaucoup d'atrocités pendant la guerre.
+  Während des Krieges wurden viele Gräueltaten *verübt*.
+
+  L'huissier a été *commis* pour procéder à la saisie.
+  Der Gerichtsvollzieher wurde mit der Pfändung *beauftragt*.
+
+  Ces fautes se *commettent* souvent par étourderie.
+  Diese Fehler werden oft aus Unachtsamkeit *begangen*.
+
+  "Il a *commis* une terrible tragédie en vers !"
+  "Er hat eine schreckliche Tragödie in Versen *verbrochen*!"
+
+  Je vous ai *commis* à la surveillance des locaux.
+  Ich habe Sie mit der Überwachung der Räume *beauftragt*.
+
+  En agissant ainsi, vous *commettez* votre réputation.
+  Durch dieses Handeln *gefährden* Sie Ihren Ruf.
+
+  Le terroriste a *commis* un attentat à la gare.
+  Der Terrorist hat am Bahnhof einen Anschlag *verübt*.
+
+  Elle s'est *commise* de la complicité dans cette affaire.
+  Sie hat sich in dieser Sache der Beihilfe *schuldig gemacht*.
+
+  Les enfants *commettent* parfois des bêtises.
+  Kinder *begehen* manchmal Dummheiten.
+
+  Le banquier a *commis* une fraude massive.
+  Der Banker hat einen massiven Betrug *begangen*.
+
+  Un expert sera *commis* pour évaluer les dégâts.
+  Ein Gutachter wird zur Bewertung der Schäden *bestellt*.
+
+  J'ai *commis* cela à vos soins.
+  Ich habe das Ihrer Obhut *anvertraut*.
+
+  Ils ont *commis* une imprudence en sortant sans parapluie.
+  Sie haben eine Unvorsichtigkeit *begangen*, als sie ohne Regenschirm hinausgingen.
+
+  L'accusé a *commis* un péché impardonnable.
+  Der Angeklagte hat eine unverzeihliche Sünde *begangen*.
+
+  Le gouvernement a *commis* une injustice envers les citoyens.
+  Die Regierung hat den Bürgern gegenüber ein Unrecht *begangen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

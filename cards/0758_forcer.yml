@@ -13,35 +13,188 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On peut me forcer à venir, pas à parler.
-  Man kann mich zwingen zu kommen, nicht zu reden.
+  On peut me *forcer* à venir, pas à parler.
+  Man kann mich *zwingen* zu kommen, aber nicht zu sprechen.
 
-  Il a essayé de forcer la serrure.
-  Er versuchte, das Schloss zu knacken.
+  Le cambrioleur a *forcé* la serrure avec un passe-partout.
+  Der Einbrecher hat das Schloss *aufgebrochen* mit einem Dietrich.
 
-  Le contrôleur aérien a été obligé de forcer le pilote à atterrir en raison du mauvais temps.
-  Der Fluglotse musste den Piloten zwingen, zu landen, weil das Wetter so schlecht war.
+  Son courage a *forcé* l'admiration de tous ses collègues.
+  Sein Mut hat allen Kollegen *Bewunderung abgenötigt*.
 
-  Il a forcé la porte pour entrer dans la maison.
-  Er hat die Tür aufgebrochen, um in das Haus zu gelangen.
+  "Il ne faut pas trop *forcer* sur le sel !"
+  "Du sollst es mit dem Salz nicht *übertreiben*!"
 
-  Il s'est forcé à sourire, même s'il était triste.
-  Er hat sich gezwungen, zu lächeln, obwohl er traurig war.
+  Je me suis *forcée* à sourire malgré ma tristesse.
+  Ich habe mich trotz meiner Traurigkeit zum Lächeln *gezwungen*.
 
-  Il a forcé sur la pédale d'accélérateur pour dépasser la voiture devant lui.
-  Er hat das Gaspedal durchgedrückt, um das Auto vor ihm zu überholen.
+  Les manifestants ont *forcé* le barrage de police.
+  Die Demonstranten haben die Polizeisperre *durchbrochen*.
 
-  Il force sur la patience de sa femme en étant toujours en retard.
-  Er strapaziert die Geduld seiner Frau, weil er immer zu spät ist.
+  Le moteur *force* trop, il faut le faire réparer.
+  Der Motor wird zu stark *beansprucht*, er muss repariert werden.
 
-  Il force sur les pâtisseries, il n'y a plus rien dans la boîte !
-  Er hat es mit dem Gebäck übertrieben, es ist nichts mehr in der Schachtel!
+  Il a *forcé* sa voix pour se faire entendre dans le stade.
+  Er hat seine Stimme *gehoben*, um im Stadion gehört zu werden.
 
-  Il s'est forcé à faire ses devoirs, même s'il n'en avait pas envie.
-  Er hat sich gezwungen, seine Hausaufgaben zu machen, obwohl er keine Lust dazu hatte.
+  Les voleurs ont *forcé* l'entrée du magasin pendant la nuit.
+  Die Diebe haben sich nachts *gewaltsam* Zugang zum Laden verschafft.
 
-  Il ne s'est pas forcé pour faire le ménage, il a juste fait le minimum.
-  Er hat sich nicht darum gerissen, die Wohnung zu putzen, er hat nur das Nötigste getan.
+  La situation m'a *forcé* à prendre une décision difficile.
+  Die Situation hat mich *gezwungen*, eine schwierige Entscheidung zu treffen.
+
+  Ne *forcez* pas trop le cheval par cette chaleur.
+  *Treiben* Sie das Pferd bei dieser Hitze nicht zu sehr *an*.
+
+  Elle s'est *forcée* à manger malgré son manque d'appétit.
+  Sie hat sich trotz ihres mangelnden Appetits zum Essen *gezwungen*.
+
+  "Tu *forces* un peu sur le maquillage, non ?"
+  "Du *übertreibst* es ein bisschen mit dem Make-up, oder?"
+
+  Les circonstances nous ont *forcés* à reporter le mariage.
+  Die Umstände haben uns *gezwungen*, die Hochzeit zu verschieben.
+
+  Il ne faut pas *forcer* le destin.
+  Man soll das Schicksal nicht *herausfordern*.
+
+  Le vent a *forcé* pendant la nuit.
+  Der Wind hat in der Nacht an Stärke *zugenommen*.
+
+  Les journalistes ont *forcé* sa porte pour obtenir une interview.
+  Die Journalisten haben seine Tür *aufgebrochen*, um ein Interview zu bekommen.
+
+  Ne te *force* pas à faire des choses que tu n'aimes pas.
+  *Zwing* dich nicht zu Dingen, die du nicht magst.
+
+  Son attitude *force* le respect de tous.
+  Seine Haltung *flößt* allen Respekt *ein*.
+
+  Le jardinier *force* les tulipes pour qu'elles fleurissent plus tôt.
+  Der Gärtner *bringt* die Tulpen früher zum Treiben.
+
+  Les chasseurs ont *forcé* le sanglier jusqu'à l'épuisement.
+  Die Jäger haben den Wildschwein so lange *getrieben*, bis er erschöpft war.
+
+  Il ne faut pas *forcer* sur l'alcool.
+  Man sollte es mit dem Alkohol nicht *übertreiben*.
+
+  La police a dû *forcer* le passage pour atteindre les victimes.
+  Die Polizei musste sich den Weg *freikämpfen*, um zu den Opfern zu gelangen.
+
+  Elle a *forcé* la main à ses parents pour avoir une voiture.
+  Sie hat ihre Eltern *gezwungen*, ihr ein Auto zu kaufen.
+
+  Le mécanicien a *forcé* la vis et elle s'est cassée.
+  Der Mechaniker hat die Schraube *verbogen* und sie ist gebrochen.
+
+  "Ne *force* pas sur ma patience !"
+  "*Strapazier* meine Geduld nicht übermäßig!"
+
+  Les cambrioleurs ont *forcé* le coffre-fort.
+  Die Einbrecher haben den Safe *aufgebrochen*.
+
+  Cette décision nous a été *forcée*.
+  Diese Entscheidung wurde uns *aufgezwungen*.
+
+  Il s'est *forcé* à continuer malgré la fatigue.
+  Er hat sich trotz der Müdigkeit zum Weitermachen *gezwungen*.
+
+  "Tu *forces* un peu sur les épices, non ?"
+  "Du *übertreibst* es ein bisschen mit den Gewürzen, oder?"
+
+  Sa gentillesse *force* la sympathie.
+  Seine Freundlichkeit *weckt* Sympathie.
+
+  Le magicien a *forcé* la carte avec habileté.
+  Der Zauberer hat die Karte geschickt *manipuliert*.
+
+  Les soldats ont *forcé* l'ennemi à se rendre.
+  Die Soldaten haben den Feind zur Aufgabe *gezwungen*.
+
+  Ne *forcez* pas trop sur l'accélérateur !
+  *Treten* Sie nicht zu stark aufs Gaspedal!
+
+  La tempête a *forcé* les bateaux à rentrer au port.
+  Der Sturm hat die Boote *gezwungen*, in den Hafen zurückzukehren.
+
+  Il ne faut pas *forcer* le talent.
+  Man soll sein Talent nicht *überstrapazieren*.
+
+  Les manifestants ont *forcé* l'entrée du bâtiment.
+  Die Demonstranten haben sich *gewaltsam* Zugang zum Gebäude verschafft.
+
+  Le cheval *force* sur la main du cavalier.
+  Das Pferd *widersetzt* sich der Hand des Reiters.
+
+  Cette entreprise se modernise à marche *forcée*.
+  Dieses Unternehmen modernisiert sich im *Eiltempo*.
+
+  Il s'est *forcé* à rire à ses blagues.
+  Er hat sich *gezwungen*, über ihre Witze zu lachen.
+
+  Ne *forcez* pas votre corps, écoutez ses limites.
+  *Überfordern* Sie Ihren Körper nicht, hören Sie auf seine Grenzen.
+
+  La situation nous *force* à des économies.
+  Die Situation *zwingt* uns zu Einsparungen.
+
+  Son sourire *forcé* trahissait son malaise.
+  Sein *gezwungenes* Lächeln verriet sein Unbehagen.
+
+  Les pompiers ont dû *forcer* la porte pour sauver l'enfant.
+  Die Feuerwehr musste die Tür *aufbrechen*, um das Kind zu retten.
+
+  "Tu ne devrais pas *forcer* sur les sucreries."
+  "Du solltest es mit den Süßigkeiten nicht *übertreiben*."
+
+  Cette situation *force* à la réflexion.
+  Diese Situation *zwingt* zum Nachdenken.
+
+  Le moteur *force* trop dans les montées.
+  Der Motor wird in den Steigungen zu stark *beansprucht*.
+
+  Les circonstances m'ont *forcé* la main.
+  Die Umstände haben mir die Hand *gezwungen*.
+
+  C'est un succès *forcé*.
+  Das ist ein *erzwungener* Erfolg.
+
+  Il s'est *forcé* à être aimable avec elle.
+  Er hat sich *gezwungen*, freundlich zu ihr zu sein.
+
+  La police a *forcé* les manifestants à se disperser.
+  Die Polizei hat die Demonstranten *gezwungen*, sich zu zerstreuen.
+
+  Le gouvernement *force* la décision sur ce projet.
+  Die Regierung *erzwingt* die Entscheidung zu diesem Projekt.
+
+  Elle s'est *forcée* à finir son assiette.
+  Sie hat sich *gezwungen*, ihren Teller leer zu essen.
+
+  Ne *forcez* pas la note, restez naturel.
+  *Übertreiben* Sie es nicht, bleiben Sie natürlich.
+
+  Cette évolution était *forcée*.
+  Diese Entwicklung war *unausweichlich*.
+
+  La pluie a *forcé* l'annulation du match.
+  Der Regen hat die Absage des Spiels *erzwungen*.
+
+  Les voleurs ont *forcé* trois appartements dans l'immeuble.
+  Die Diebe haben drei Wohnungen im Gebäude *aufgebrochen*.
+
+  Il ne faut pas *forcer* le sens des mots.
+  Man soll die Bedeutung der Wörter nicht *verdrehen*.
+
+  Cette conclusion semble un peu *forcée*.
+  Diese Schlussfolgerung erscheint etwas *überzogen*.
+
+  La situation *force* au changement.
+  Die Situation *erzwingt* Veränderung.
+
+  Le temps nous *force* à partir plus tôt.
+  Das Wetter *zwingt* uns, früher aufzubrechen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

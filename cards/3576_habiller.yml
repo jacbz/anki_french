@@ -9,23 +9,150 @@ Femininum / Plural: ''
 IPA: \a.bi.je\
 Definition: ankleiden, anziehen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Il s’habille comme un vampire.\nEr kleidet sich wie ein Vampir.\n\n\
-  Je vais m’habiller.\nIch werde mich anziehen.\n\nLa mère a habillé son fils en bleu\
-  \ pour l'anniversaire de son ami.\nDie Mutter hat ihren Sohn in blaue Kleidung gesteckt\
-  \ zum Geburtstag seines Freundes. \n\nLe père a habillé son fils en clown pour l'anniversaire\
-  \ de sa fille.\nDer Vater hat seinen Sohn als Clown verkleidet zum Geburtstag seiner\
-  \ Tochter.\n\nJe me fais habiller par une couturière pour le mariage de mon frère.\n\
-  Ich lasse mich von einer Schneiderin anziehen für die Hochzeit meines Bruders.\n\
-  \nLes enfants se sont habillés en pirates pour la fête d'Halloween.\nDie Kinder\
-  \ haben sich als Piraten verkleidet für die Halloween-Party.\n\nJe m'habille chez\
-  \ une boutique de vêtements très chic.\nIch kleide mich in einem sehr schicken Bekleidungsgeschäft\
-  \ ein.\n\nIl s'habille à la mode, il suit les dernières tendances.\nEr kleidet sich\
-  \ modisch, er folgt den neuesten Trends.\n\nElle s'habille court en été, mais long\
-  \ en hiver.\nSie trägt im Sommer kurze Kleidung, aber im Winter lange.\n\nIl s'habille\
-  \ de noir, il a un style sombre.\nEr trägt schwarze Kleidung, er hat einen dunklen\
-  \ Stil.\n\nIl ne sait pas s'habiller, il ne se met jamais en valeur.\nEr hat keinen\
-  \ Schick, er bringt sich nie zur Geltung.\n\nIls se sont habillés de neuf pour la\
-  \ cérémonie.\nSie haben sich neu eingekleidet für die Zeremonie."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Il s'*habille* comme un vampire.
+  Er *verkleidet* sich als Vampir.
+
+  La petite fille *habille* sa poupée en rose.
+  Das kleine Mädchen *zieht* ihrer Puppe rosa Kleidung *an*.
+
+  Elle *s'habille* toujours avec élégance.
+  Sie *kleidet* sich immer elegant.
+
+  "Tu ne sais vraiment pas t'*habiller*!"
+  "Du hast wirklich keinen *Stil*!"
+
+  Il faut *s'habiller* chaudement pour aller skier.
+  Man muss sich warm *anziehen*, um Ski fahren zu gehen.
+
+  Le tailleur *habille* toute la famille depuis des années.
+  Der Schneider *kleidet* die ganze Familie seit Jahren *ein*.
+
+  Les parents *habillent* leurs enfants de neuf pour la rentrée.
+  Die Eltern *kleiden* ihre Kinder zum Schulanfang neu *ein*.
+
+  Cette robe t'*habille* merveilleusement bien.
+  Dieses Kleid *steht* dir wunderbar.
+
+  Nous allons *habiller* les murs de papier peint.
+  Wir werden die Wände mit Tapeten *verkleiden*.
+
+  Il *s'habille* toujours en noir.
+  Er trägt immer schwarze *Kleidung*.
+
+  Pour le gala, il faut *s'habiller* élégamment.
+  Für die Gala muss man sich elegant *anziehen*.
+
+  Les enfants se sont *habillés* en super-héros pour la fête.
+  Die Kinder haben sich für die Party als Superhelden *verkleidet*.
+
+  Elle *s'habille* chez les plus grands couturiers.
+  Sie *kauft* ihre Kleider bei den größten Modeschöpfern.
+
+  Le petit garçon apprend à *s'habiller* tout seul.
+  Der kleine Junge lernt, sich selbst *anzuziehen*.
+
+  Cette association *habille* les sans-abri pour l'hiver.
+  Dieser Verein *versorgt* die Obdachlosen mit Winterkleidung.
+
+  "Un rien l'*habille*."
+  "Ihr *steht* einfach alles."
+
+  Nous devons *habiller* le fauteuil de nouveau tissu.
+  Wir müssen den Sessel neu *beziehen*.
+
+  Elle *s'habille* toujours sur mesure.
+  Sie lässt ihre Kleidung immer nach Maß *schneidern*.
+
+  Les recrues se font *habiller* à la caserne.
+  Die Rekruten werden in der Kaserne *eingekleidet*.
+
+  Il *s'habille* comme un prince.
+  Er *kleidet* sich wie ein Prinz.
+
+  Les parents *habillent* leurs jumeaux de la même façon.
+  Die Eltern *ziehen* ihre Zwillinge gleich *an*.
+
+  Je dois *m'habiller* pour le mariage.
+  Ich muss mich für die Hochzeit *zurechtmachen*.
+
+  Elle *habille* sa fille en bleu.
+  Sie *zieht* ihrer Tochter blaue Sachen *an*.
+
+  "Il l'a bien *habillé* pour l'hiver !"
+  "Er hat ihn schön *schlecht gemacht*!"
+
+  Le styliste *habille* les stars pour le tapis rouge.
+  Der Stylist *kleidet* die Stars für den roten Teppich *ein*.
+
+  Tu devrais *t'habiller* plus chaudement.
+  Du solltest dich wärmer *anziehen*.
+
+  Les enfants *s'habillent* en cowboys pour le carnaval.
+  Die Kinder *verkleiden* sich für Karneval als Cowboys.
+
+  Cette couleur vous *habille* très bien.
+  Diese Farbe *steht* Ihnen sehr gut.
+
+  Elle *habille* son lit de draps en soie.
+  Sie *bezieht* ihr Bett mit Seidenlaken.
+
+  Il faut *s'habiller* correctement pour l'entretien.
+  Man muss sich für das Vorstellungsgespräch angemessen *anziehen*.
+
+  Marie *s'habille* toujours à la dernière mode.
+  Marie *kleidet* sich immer nach der neuesten Mode.
+
+  Les acteurs se font *habiller* dans les coulisses.
+  Die Schauspieler werden hinter der Bühne *eingekleidet*.
+
+  Elle *habille* ses fenêtres de nouveaux rideaux.
+  Sie *schmückt* ihre Fenster mit neuen Vorhängen.
+
+  Papa *habille* le petit pour l'école.
+  Papa *zieht* dem Kleinen die Schulsachen *an*.
+
+  Il *s'habille* comme un sac.
+  Er *kleidet* sich wie ein Schlampersack.
+
+  Les mannequins *s'habillent* en haute couture.
+  Die Models tragen Haute *Couture*.
+
+  La neige *habille* les montagnes d'un manteau blanc.
+  Der Schnee *bedeckt* die Berge mit einem weißen Mantel.
+
+  Elle *habille* son refus d'excuses polies.
+  Sie *verpackt* ihre Absage in höfliche Entschuldigungen.
+
+  Il faut *s'habiller* pour le dîner.
+  Man muss sich für das Dinner *zurechtmachen*.
+
+  La mère *habille* ses triplés de la même façon.
+  Die Mutter *zieht* ihren Drillingen die gleichen Sachen *an*.
+
+  Les enfants *s'habillent* seuls maintenant.
+  Die Kinder *ziehen* sich jetzt selbst *an*.
+
+  Je dois *m'habiller* plus élégamment pour le bureau.
+  Ich muss mich für das Büro eleganter *kleiden*.
+
+  Cette veste t'*habille* parfaitement.
+  Diese Jacke *steht* dir perfekt.
+
+  Il *s'habille* toujours de façon décontractée.
+  Er *kleidet* sich immer lässig.
+
+  Le couturier *habille* la mariée pour son grand jour.
+  Der Schneider *kleidet* die Braut für ihren großen Tag *ein*.
+
+  Nous devons *habiller* la table pour le dîner.
+  Wir müssen den Tisch für das Dinner *decken*.
+
+  Elle *s'habille* comme une princesse.
+  Sie *kleidet* sich wie eine Prinzessin.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

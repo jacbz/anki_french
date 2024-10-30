@@ -13,20 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai deux points à souligner.
-  Ich habe zwei Punkte, die ich hervorheben möchte.
+  J'ai deux points à *souligner*.
+  Ich habe zwei Punkte zu *betonen*.
 
-  Je voudrais souligner l’importance de ce projet.
-  Ich möchte die Bedeutung dieses Projekts betonen.
+  Le professeur a *souligné* les fautes d'orthographe en rouge.
+  Der Lehrer hat die Rechtschreibfehler rot *unterstrichen*.
 
-  Le mot "important" était souligné de deux traits dans le document.
-  Das Wort "wichtig" war im Dokument doppelt unterstrichen.
+  Cette robe noire *souligne* parfaitement sa silhouette.
+  Dieses schwarze Kleid *betont* perfekt ihre Silhouette.
 
-  Ce nom est souligné de bleu sur la liste.
-  Dieser Name ist auf der Liste durch einen blauen Lidstrich betont.
+  Elle *soulignait* toujours ses yeux d'un trait de crayon noir.
+  Sie *betonte* ihre Augen stets mit einem schwarzen Kajalstrich.
 
-  Cette robe souligne les formes de manière élégante.
-  Dieses Kleid ist figurbetont und wirkt elegant.
+  Je dois *souligner* l'importance de cette décision.
+  Ich muss die Wichtigkeit dieser Entscheidung *unterstreichen*.
+
+  Les élèves ont *souligné* tous les verbes du texte.
+  Die Schüler haben alle Verben im Text *unterstrichen*.
+
+  Son sourire ironique *soulignait* le sarcasme de ses paroles.
+  Sein ironisches Lächeln *unterstrich* den Sarkasmus seiner Worte.
+
+  Il faut *souligner* ce passage en bleu.
+  Diese Stelle muss blau *unterstrichen* werden.
+
+  La lumière douce *soulignait* les contours de son visage.
+  Das sanfte Licht *betonte* ihre Gesichtskonturen.
+
+  Les journalistes ont *souligné* les contradictions dans son discours.
+  Die Journalisten haben die Widersprüche in seiner Rede *hervorgehoben*.
+
+  Elle *souligna* sa remarque d'un clin d'œil complice.
+  Sie *unterstrich* ihre Bemerkung mit einem verschwörerischen Augenzwinkern.
+
+  Le maquilleur a *souligné* ses paupières d'un trait bleu.
+  Der Visagist hat ihre Augenlider mit einem blauen Strich *betont*.
+
+  Veuillez *souligner* les mots-clés dans le document.
+  Bitte *unterstreichen* Sie die Schlüsselwörter im Dokument.
+
+  Cette ceinture *souligne* bien ta taille.
+  Dieser Gürtel *betont* deine Taille sehr gut.
+
+  L'architecte a *souligné* les fenêtres d'un cadre noir.
+  Der Architekt hat die Fenster mit einem schwarzen Rahmen *betont*.
+
+  Le jury a *souligné* la qualité exceptionnelle de sa performance.
+  Die Jury hat die außergewöhnliche Qualität ihrer Leistung *hervorgehoben*.
+
+  Il a *souligné* deux fois les phrases importantes.
+  Er hat die wichtigen Sätze doppelt *unterstrichen*.
+
+  La musique *soulignait* parfaitement l'ambiance de la scène.
+  Die Musik *unterstrich* perfekt die Stimmung der Szene.
+
+  Cette expérience *souligne* l'importance de la recherche scientifique.
+  Dieses Experiment *unterstreicht* die Bedeutung der wissenschaftlichen Forschung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

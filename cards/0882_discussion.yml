@@ -13,47 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai eu une discussion avec elle.
-  Ich hatte eine Diskussion mit ihr.
+  J'ai eu une *discussion* avec elle.
+  Ich hatte eine *Diskussion* mit ihr.
 
-  Nous avons eu une longue discussion sur ce sujet.
-  Wir hatten eine lange Diskussion über dieses Thema.
+  Après une longue *discussion*, nous sommes arrivés à un accord.
+  Nach einer langen *Besprechung* sind wir zu einer Einigung gekommen.
 
-  Ils ont eu une discussion.
-  Sie führten eine Diskussion.
+  La *discussion* du budget aura lieu demain matin.
+  Die Haushalts*beratung* findet morgen früh statt.
 
-  Le temps de la discussion est passé.
-  Die Zeit für Diskussionen ist vorbei.
+  Une violente *discussion* a éclaté entre les deux voisins.
+  Ein heftiger *Streit* ist zwischen den beiden Nachbarn ausgebrochen.
 
-  Nous avons pris part à la discussion.
-  Wir haben uns an der Diskussion beteiligt.
+  Le projet fait l'objet d'une *discussion* approfondie.
+  Das Projekt wird einer gründlichen *Diskussion* unterzogen.
 
-  Une discussion entre tous les partis s'est tenue pour trouver une solution au problème de l'environnement.
-  Ein Allparteiengespräch wurde abgehalten, um eine Lösung für das Umweltproblem zu finden.
+  Cette solution est sans *discussion* la meilleure.
+  Diese Lösung ist ohne *Widerrede* die beste.
 
-  La discussion sur la réforme des retraites a duré plusieurs heures.
-  Die Diskussion über die Rentenreform dauerte mehrere Stunden.
+  La *discussion* s'est engagée sur le thème de l'environnement.
+  Die *Diskussion* begann zum Thema Umwelt.
 
-  Une discussion s'est élevée entre les deux frères à propos de l'héritage.
-  Ein Streit ist zwischen den beiden Brüdern um das Erbe ausgebrochen.
+  Il a rejoint notre forum de *discussion* en ligne.
+  Er ist unserem Online-*Diskussions*forum beigetreten.
 
-  Il a accepté la proposition sans discussion.
-  Er hat die Offerte ohne Widerrede angenommen.
+  Les *discussions* entre syndicats et direction se poursuivent.
+  Die *Gespräche* zwischen Gewerkschaften und Führung gehen weiter.
 
-  La discussion budgétaire a été houleuse, avec des points de vue très différents.
-  Die Haushaltsdebatte war heftig, mit sehr unterschiedlichen Standpunkten.
+  De la *discussion* jaillit la lumière.
+  Aus der *Diskussion* entspringt die Erkenntnis.
 
-  La discussion est impossible avec lui, car il ne veut jamais écouter les arguments des autres.
-  Mit ihm kann man nicht diskutieren, weil er nie die Argumente anderer hören will.
+  La *discussion* a tourné à l'aigre.
+  Die *Diskussion* wurde bitter.
 
-  Le projet de loi est en discussion au Parlement.
-  Das Gesetzesvorhaben wird im Parlament diskutiert.
+  Nous avons eu une *discussion* très constructive.
+  Wir hatten ein sehr konstruktives *Gespräch*.
 
-  La discussion tarifaire entre les syndicats et la direction de l'entreprise a échoué.
-  Die Tarifauseinandersetzung zwischen den Gewerkschaften und der Unternehmensleitung ist gescheitert.
+  Il a clos la *discussion* d'un geste.
+  Er beendete die *Diskussion* mit einer Handbewegung.
 
-  Pas de discussion! J'ai décidé, et c'est comme ça.
-  Keine Widerrede! Ich habe entschieden, und so ist es.
+  Une *discussion* animée s'est développée pendant le dîner.
+  Während des Essens entwickelte sich eine lebhafte *Diskussion*.
+
+  Les *discussions* de paix commenceront la semaine prochaine.
+  Die Friedens*gespräche* beginnen nächste Woche.
+
+  Elle a dirigé la *discussion* avec beaucoup d'habileté.
+  Sie hat die *Diskussion* sehr geschickt geleitet.
+
+  Cette décision n'est pas sujette à *discussion*.
+  Diese Entscheidung steht nicht zur *Diskussion*.
+
+  La *discussion* du projet de loi durera trois jours.
+  Die *Beratung* des Gesetzentwurfs wird drei Tage dauern.
+
+  Ces points méritent une *discussion* plus approfondie.
+  Diese Punkte verdienen eine eingehendere *Erörterung*.
+
+  Les *discussions* se sont prolongées tard dans la nuit.
+  Die *Gespräche* zogen sich bis spät in die Nacht hin.
+
+  Notre *discussion* a été interrompue par un appel téléphonique.
+  Unser *Gespräch* wurde durch einen Anruf unterbrochen.
+
+  La *discussion* s'est échauffée rapidement.
+  Die *Diskussion* wurde schnell hitzig.
+
+  Il faut ouvrir la *discussion* sur ce sujet délicat.
+  Wir müssen die *Diskussion* zu diesem heiklen Thema eröffnen.
+
+  Ils sont perpétuellement en *discussion*.
+  Sie liegen ständig im *Streit*.
+
+  Une *discussion* franche vaut mieux que des non-dits.
+  Ein offenes *Gespräch* ist besser als Unausgesprochenes.
+
+  Exécutez mes ordres sans *discussion* !
+  Führen Sie meine Befehle ohne *Widerrede* aus!
+
+  Je ne participerai plus à cette *discussion* stérile.
+  Ich werde mich nicht weiter an dieser fruchtlosen *Diskussion* beteiligen.
+
+  La *discussion* budgétaire s'annonce difficile.
+  Die Haushalts*debatte* verspricht schwierig zu werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

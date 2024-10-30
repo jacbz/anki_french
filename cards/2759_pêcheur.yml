@@ -13,26 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les pêcheurs sont les hommes de la liberté.
-  Fischer sind die Menschen der Freiheit.
+  Les *pêcheurs* sont les hommes de la liberté.
+  Die *Fischer* sind die Menschen der Freiheit.
 
-  Le pêcheur a attrapé un gros poisson.
-  Der Fischer hat einen großen Fisch gefangen.
+  Le *pêcheur* part tôt le matin pour attraper les meilleurs poissons.
+  Der *Fischer* fährt früh am Morgen los, um die besten Fische zu fangen.
 
-  La pêcheuse de corail a trouvé un trésor dans ses filets.
-  Die Korallenfischerin hat einen Schatz in ihren Netzen gefunden.
+  Une *pêcheuse* de perles a trouvé un trésor rare dans les profondeurs.
+  Eine Perlen*fischerin* hat in der Tiefe einen seltenen Schatz gefunden.
 
-  La pêcheuse d'huîtres a récolté une belle quantité d'huîtres aujourd'hui.
-  Die Austernfischerin hat heute eine schöne Menge Austern geerntet.
+  Les *pêcheurs* de baleines norvégiens suivent des règles très strictes.
+  Die norwegischen Wal*fänger* folgen sehr strengen Regeln.
 
-  La pêcheuse en mer a attrapé un gros poisson.
-  Die Meeresanglerin hat einen großen Fisch gefangen.
+  La vie d'un *pêcheur* en mer n'est pas toujours facile.
+  Das Leben eines See*fischers* ist nicht immer einfach.
 
-  La pêcheuse de baleines est partie en mer pour observer les baleines.
-  Die Walfängerin ist aufs Meer gefahren, um die Wale zu beobachten.
+  "Regarde ce petit *pêcheur* en herbe avec sa canne à pêche !"
+  "Schau dir den kleinen *Petrijünger* mit seiner Angel an!"
 
-  La pêcheuse en herbe a appris à pêcher avec son grand-père.
-  Die Petrijüngerin hat vom Großvater Angeln gelernt.
+  Le village breton compte plus de cent *pêcheurs* professionnels.
+  Das bretonische Dorf zählt über hundert professionelle *Fischer*.
+
+  Cette *pêcheuse* d'huîtres travaille depuis vingt ans dans la baie.
+  Diese Austern*fischerin* arbeitet seit zwanzig Jahren in der Bucht.
+
+  Mon grand-père était un passionné *pêcheur* à la ligne.
+  Mein Großvater war ein leidenschaftlicher *Angler*.
+
+  Les *pêcheurs* de Terre-Neuve racontent souvent leurs aventures en mer.
+  Die Neufundland-*Fischer* erzählen oft von ihren Abenteuern auf See.
+
+  Un groupe de *pêcheurs* de corail explore les récifs méditerranéens.
+  Eine Gruppe von Korallen*fischern* erforscht die Mittelmeerriffe.
+
+  Marie est devenue *pêcheuse* professionnelle comme son père.
+  Marie ist wie ihr Vater professionelle *Fischerin* geworden.
+
+  Le vieux *pêcheur* répare ses filets sur le port.
+  Der alte *Fischer* repariert seine Netze am Hafen.
+
+  Cette famille de *pêcheurs* habite près de l'océan depuis des générations.
+  Diese *Fischer*familie lebt seit Generationen in der Nähe des Ozeans.
+
+  La jeune *pêcheuse* en mer participe à son premier concours.
+  Die junge Meeres*anglerin* nimmt an ihrem ersten Wettbewerb teil.
+
+  Les *pêcheurs* bretons manifestent contre les nouvelles restrictions.
+  Die bretonischen *Fischer* protestieren gegen die neuen Einschränkungen.
+
+  Un *pêcheur* d'épaves a découvert une ancienne amphore.
+  Ein Wrack*taucher* hat eine antike Amphore entdeckt.
+
+  "Ce *pêcheur* de lunes ne fait que rêvasser toute la journée."
+  "Dieser *Tagträumer* tut den ganzen Tag nichts anderes als zu träumen."
+
+  Le bateau *pêcheur* rentre au port avec une belle prise.
+  Das *Fischer*boot kehrt mit einem guten Fang in den Hafen zurück.
+
+  Les *pêcheurs* d'hommes ont répandu leur message à travers le monde.
+  Die Menschen*fischer* haben ihre Botschaft in der ganzen Welt verbreitet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

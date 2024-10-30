@@ -13,41 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis ici pour te protéger, pas les cookies.
-  Ich bin hier, um dich zu schützen, nicht die Kekse.
+  Je suis ici pour te *protéger*, pas les cookies.
+  Ich bin hier, um dich zu *beschützen*, nicht die Kekse.
 
-  Il faut protéger l’environnement.
-  Die Umwelt muss geschützt werden.
+  Les parents doivent *protéger* leurs enfants des dangers d'Internet.
+  Eltern müssen ihre Kinder vor den Gefahren des Internets *schützen*.
 
-  On va te protéger.
-  Wir werden dich beschützen.
+  Cette crème solaire *protège* efficacement contre les rayons UV.
+  Diese Sonnencreme *schützt* effektiv vor UV-Strahlen.
 
-  Il nous faut nous protéger.
-  Wir müssen uns selbst schützen.
+  Le vaccin nous a *protégés* contre le virus.
+  Die Impfung hat uns vor dem Virus *geschützt*.
 
-  Je suis là pour te protéger.
-  Ich bin hier, um dich zu beschützen.
+  Que Dieu vous *protège* !
+  Möge Gott Sie *behüten*!
 
-  Nous sommes là pour te protéger.
-  Wir sind hier, um dich zu schützen.
+  Il faut *protéger* la nature pour les générations futures.
+  Wir müssen die Natur für zukünftige Generationen *schützen*.
 
-  La mère a décidé de protéger son enfant contre le voisin, qui était connu pour son comportement étrange.
-  Die Mutter hat beschlossen, ihr Kind vor dem Nachbarn zu schützen, der für sein seltsames Verhalten bekannt war.
+  La Constitution *protège* les droits fondamentaux des citoyens.
+  Die Verfassung *schützt* die Grundrechte der Bürger.
 
-  Il faut se protéger contre les attaques de pirates informatiques.
-  Man muss sich vor Angriffen von Hackern schützen.
+  Ces arbres nous *protègent* du vent.
+  Diese Bäume *schützen* uns vor dem Wind.
 
-  Les soldats ont protégé les civils d'un bombardement ennemi.
-  Die Soldaten haben die Zivilisten vor einem feindlichen Bombardement geschützt.
+  L'État doit *protéger* les plus vulnérables de la société.
+  Der Staat muss die Schwächsten der Gesellschaft *schützen*.
 
-  Il a protégé son visage du soleil avec un chapeau et des lunettes de soleil.
-  Er hat sein Gesicht mit einem Hut und einer Sonnenbrille vor der Sonne geschützt.
+  Comment *se protéger* du froid en hiver ?
+  Wie kann man sich im Winter vor der Kälte *schützen*?
 
-  Il faut protéger les documents importants contre l'humidité.
-  Man muss wichtige Dokumente vor Feuchtigkeit schützen.
+  Le casque *protège* la tête en cas d'accident.
+  Der Helm *schützt* den Kopf bei Unfällen.
 
-  Il a protégé le fichier en écriture pour éviter toute modification accidentelle.
-  Er hat die Datei schreibgeschützt, um versehentliche Änderungen zu vermeiden.
+  Les barrières *protègent* la sortie de l'école.
+  Die Absperrungen *sichern* den Schulausgang.
+
+  Il faut *protéger* son mot de passe des pirates informatiques.
+  Man muss sein Passwort vor Hackern *schützen*.
+
+  Cette entreprise *protège* ses données avec un système sophistiqué.
+  Dieses Unternehmen *schützt* seine Daten mit einem ausgeklügelten System.
+
+  Le parapluie nous *protège* de la pluie.
+  Der Regenschirm *schützt* uns vor dem Regen.
+
+  Les lunettes de soleil *protègent* les yeux des rayons UV.
+  Die Sonnenbrille *schützt* die Augen vor UV-Strahlen.
+
+  Ce roi a beaucoup *protégé* les arts pendant son règne.
+  Dieser König hat die Künste während seiner Herrschaft stark *gefördert*.
+
+  Il faut *se protéger* avant chaque rapport sexuel.
+  Man muss sich vor jedem Geschlechtsverkehr *schützen*.
+
+  Les pompiers *protègent* la population des incendies.
+  Die Feuerwehr *schützt* die Bevölkerung vor Bränden.
+
+  Cette association *protège* les espèces menacées.
+  Dieser Verein *schützt* bedrohte Arten.
+
+  Le gouvernement *protège* l'industrie nationale par des taxes.
+  Die Regierung *schützt* die heimische Industrie durch Zölle.
+
+  Les policiers *protègent* les manifestants pacifiques.
+  Die Polizisten *schützen* die friedlichen Demonstranten.
+
+  Cette bâche *protège* les meubles de la poussière.
+  Diese Plane *schützt* die Möbel vor Staub.
+
+  Les parents doivent *protéger* leurs enfants des contenus inappropriés.
+  Eltern müssen ihre Kinder vor unangemessenen Inhalten *schützen*.
+
+  Cette assurance *protège* contre les accidents domestiques.
+  Diese Versicherung *schützt* vor Haushaltsunfällen.
+
+  Le plastique *protège* le livre de l'humidité.
+  Der Plastikumschlag *schützt* das Buch vor Feuchtigkeit.
+
+  Les chevaliers devaient *protéger* la veuve et l'orphelin.
+  Die Ritter mussten Witwen und Waisen *beschützen*.
+
+  Cette entreprise *protège* ses brevets avec des avocats spécialisés.
+  Dieses Unternehmen *schützt* seine Patente mit spezialisierten Anwälten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

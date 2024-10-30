@@ -13,23 +13,107 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous avons dû construire une digue.
-  Wir mussten einen Damm bauen.
+  Nous avons dû *construire* une digue.
+  Wir mussten einen Damm *bauen*.
 
-  Nous allons construire une maison.
-  Wir werden ein Haus bauen.
+  Mon père *construit* notre maison lui-même.
+  Mein Vater *baut* unser Haus selbst.
 
-  Les enfants ont construit une cabane à leur père dans le jardin.
-  Die Kinder haben ihrem Vater eine Hütte im Garten gebaut.
+  Les ouvriers *construisent* un nouveau pont sur la rivière.
+  Die Arbeiter *bauen* eine neue Brücke über den Fluss.
 
-  La maison s'est construite en quelques mois seulement.
-  Das Haus wurde innerhalb weniger Monate gebaut.
+  Cette entreprise *construit* des voitures électriques depuis dix ans.
+  Dieses Unternehmen *stellt* seit zehn Jahren Elektroautos *her*.
 
-  Ce verbe se construit avec le datif.
-  Dieser Verb verlangt den Dativ.
+  L'architecte a *construit* ce bâtiment en pierre de taille.
+  Der Architekt hat dieses Gebäude aus Werkstein *gebaut*.
 
-  On dit que ce verbe se construit avec l'indicatif.
-  Man sagt, dass nach diesem Verb der Indikativ steht.
+  Comment *construire* une carrière réussie dans ce domaine ?
+  Wie kann man in diesem Bereich eine erfolgreiche Karriere *aufbauen*?
+
+  Elle *construit* sa thèse sur des arguments solides.
+  Sie *baut* ihre These auf soliden Argumenten *auf*.
+
+  Les enfants *construisent* un château de sable sur la plage.
+  Die Kinder *bauen* eine Sandburg am Strand.
+
+  Le professeur nous a appris à *construire* des phrases complexes.
+  Der Lehrer hat uns beigebracht, komplexe Sätze zu *bilden*.
+
+  Il faut *construire* un triangle équilatéral avec un compas.
+  Man muss ein gleichseitiges Dreieck mit einem Zirkel *konstruieren*.
+
+  Un nouveau quartier se *construit* à l'est de la ville.
+  Ein neues Viertel wird im Osten der Stadt *gebaut*.
+
+  Ce verbe se *construit* avec la préposition "à".
+  Dieses Verb wird mit der Präposition "à" *konstruiert*.
+
+  L'auteur a bien *construit* son intrigue.
+  Der Autor hat seine Handlung gut *aufgebaut*.
+
+  Ils *construisent* leur avenir ensemble.
+  Sie *bauen* ihre Zukunft gemeinsam *auf*.
+
+  L'usine a été *construite* au XIXe siècle.
+  Die Fabrik wurde im 19. Jahrhundert *gebaut*.
+
+  Les ingénieurs *construisent* un nouveau sous-marin.
+  Die Ingenieure *bauen* ein neues U-Boot.
+
+  Cette théorie se *construit* sur des observations précises.
+  Diese Theorie *baut* auf genauen Beobachtungen *auf*.
+
+  Le poète *construit* son vers avec soin.
+  Der Dichter *verfasst* seinen Vers mit Sorgfalt.
+
+  Ils vont *construire* une autoroute entre ces deux villes.
+  Sie werden eine Autobahn zwischen diesen beiden Städten *bauen*.
+
+  Tu dois *construire* ton argumentation logiquement.
+  Du musst deine Argumentation logisch *aufbauen*.
+
+  On a beaucoup *construit* dans ce quartier récemment.
+  In diesem Viertel wurde in letzter Zeit viel *gebaut*.
+
+  L'Europe s'est *construite* progressivement après la guerre.
+  Europa hat sich nach dem Krieg schrittweise *aufgebaut*.
+
+  Cette phrase se *construit* avec le subjonctif.
+  Dieser Satz wird mit dem Konjunktiv *gebildet*.
+
+  Les Romains ont *construit* cet aqueduc il y a 2000 ans.
+  Die Römer haben diese Wasserleitung vor 2000 Jahren *gebaut*.
+
+  Il ne faut pas *construire* sur du sable.
+  Man soll nicht auf Sand *bauen*.
+
+  Cette entreprise *construit* des machines agricoles.
+  Dieses Unternehmen *stellt* landwirtschaftliche Maschinen *her*.
+
+  Le philosophe *construit* un nouveau concept.
+  Der Philosoph *entwickelt* ein neues Konzept.
+
+  Nous devons *construire* un monde meilleur pour nos enfants.
+  Wir müssen eine bessere Welt für unsere Kinder *aufbauen*.
+
+  L'architecte *construit* en respectant l'environnement.
+  Der Architekt *baut* umweltgerecht.
+
+  Cette ville s'est *construite* autour d'une source d'eau.
+  Diese Stadt hat sich um eine Wasserquelle herum *aufgebaut*.
+
+  Marc fait *construire* une maison à la campagne.
+  Marc lässt ein Haus auf dem Land *bauen*.
+
+  Le géomètre *construit* une parabole sur le tableau.
+  Der Geometer *zeichnet* eine Parabel an die Tafel.
+
+  Cette civilisation a *construit* des monuments impressionnants.
+  Diese Zivilisation hat beeindruckende Monumente *errichtet*.
+
+  Elle a *construit* sa fortune petit à petit.
+  Sie hat ihr Vermögen nach und nach *aufgebaut*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

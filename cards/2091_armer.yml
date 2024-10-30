@@ -13,26 +13,107 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’Iran est en train de s’armer.
-  Der Iran rüstet auf.
+  L'Iran est en train de s'*armer*.
+  Der Iran ist dabei, *aufzurüsten*.
 
-  Il faut armer les soldats.
-  Die Soldaten müssen bewaffnet werden.
+  Il faut *armer* les soldats pour la bataille.
+  Man muss die Soldaten für die Schlacht *bewaffnen*.
 
-  Le médecin a armé la petite fille contre la maladie en lui prescrivant des antibiotiques.
-  Der Arzt hat die Kleine gegen die Krankheit gewappnet, indem er ihr Antibiotika verschrieben hat.
+  La police a dû s'*armer* de patience face aux manifestants.
+  Die Polizei musste sich gegenüber den Demonstranten mit *Geduld wappnen*.
 
-  Les soldats s'armaient contre l'ennemi avant de partir au combat.
-  Die Soldaten bewaffneten sich gegen den Feind, bevor sie in den Kampf zogen.
+  Les parents essaient d'*armer* leurs enfants contre les dangers d'Internet.
+  Die Eltern versuchen, ihre Kinder gegen die Gefahren des Internets zu *wappnen*.
 
-  Elle s'arma d'un dictionnaire pour traduire le texte.
-  Sie bewaffnete sich mit einem Wörterbuch, um den Text zu übersetzen.
+  Le chasseur *arme* son fusil avant de partir.
+  Der Jäger *lädt* sein Gewehr, bevor er losgeht.
 
-  Il s'arma de patience pour supporter les caprices de son enfant.
-  Er wappnete sich mit Geduld, um die Launen seines Kindes zu ertragen.
+  Le photographe *arme* son appareil pour le moment décisif.
+  Der Fotograf *spannt* seinen Apparat für den entscheidenden Moment.
 
-  Elle s'est armée contre le froid en enfilant un manteau épais et une écharpe.
-  Sie rüstet sich gegen das kalte Wetter, indem sie einen dicken Mantel und einen Schal anzieht.
+  L'ingénieur a bien *armé* le béton pour supporter la charge.
+  Der Ingenieur hat den Beton gut *armiert*, um die Last zu tragen.
+
+  Les rebelles se sont *armés* de courage pour affronter le dictateur.
+  Die Rebellen haben sich mit *Mut gewappnet*, um dem Diktator entgegenzutreten.
+
+  Le pays s'est *armé* contre une possible invasion.
+  Das Land hat sich gegen eine mögliche Invasion *bewaffnet*.
+
+  L'étudiant s'*arme* d'un dictionnaire pour son examen.
+  Der Student *rüstet* sich mit einem Wörterbuch für seine Prüfung *aus*.
+
+  Nous devons nous *armer* contre le froid de l'hiver.
+  Wir müssen uns gegen die Winterkälte *wappnen*.
+
+  L'équipage *arme* le navire pour son long voyage.
+  Die Besatzung *rüstet* das Schiff für seine lange Reise *aus*.
+
+  La forteresse était bien *armée* de canons.
+  Die Festung war gut mit Kanonen *bestückt*.
+
+  Le gardien est *armé* d'une matraque.
+  Der Wächter ist mit einem Schlagstock *bewaffnet*.
+
+  Les manifestants se sont *armés* de pancartes.
+  Die Demonstranten haben sich mit Schildern *ausgerüstet*.
+
+  Il faut *armer* les jeunes de connaissances.
+  Man muss die Jugendlichen mit Wissen *ausrüsten*.
+
+  Le capitaine a *armé* son navire de nouveaux canons.
+  Der Kapitän hat sein Schiff mit neuen Kanonen *bestückt*.
+
+  Les recrues seront *armées* demain matin.
+  Die Rekruten werden morgen früh *bewaffnet*.
+
+  Le gouvernement *arme* secrètement les rebelles.
+  Die Regierung *bewaffnet* heimlich die Rebellen.
+
+  La citadelle était *armée* jusqu'aux dents.
+  Die Zitadelle war bis an die Zähne *bewaffnet*.
+
+  Le sergent *arme* son pistolet avant l'intervention.
+  Der Sergeant *lädt* seine Pistole vor dem Einsatz.
+
+  Les parents doivent *armer* leurs enfants de confiance en soi.
+  Die Eltern müssen ihre Kinder mit Selbstvertrauen *wappnen*.
+
+  Le pays s'est *armé* jusqu'aux dents.
+  Das Land hat sich bis an die Zähne *bewaffnet*.
+
+  Les soldats se sont *armés* de bazookas.
+  Die Soldaten haben sich mit Bazookas *bewaffnet*.
+
+  Il faut s'*armer* de courage pour affronter cette situation.
+  Man muss sich mit Mut *wappnen*, um dieser Situation zu begegnen.
+
+  Le navire est *armé* pour une longue expédition.
+  Das Schiff ist für eine lange Expedition *ausgerüstet*.
+
+  Les gardes sont *armés* de tasers.
+  Die Wachen sind mit Tasern *bewaffnet*.
+
+  La police s'*arme* de nouvelles technologies.
+  Die Polizei *rüstet* sich mit neuen Technologien *aus*.
+
+  Les manifestants se sont *armés* de parapluies.
+  Die Demonstranten haben sich mit Regenschirmen *bewaffnet*.
+
+  Le technicien *arme* la caméra avant le tournage.
+  Der Techniker *spannt* die Kamera vor dem Dreh.
+
+  Il faut *armer* les étudiants de compétences pratiques.
+  Man muss die Studenten mit praktischen Fähigkeiten *ausrüsten*.
+
+  Je m'*arme* de patience pour cette longue attente.
+  Ich *wappne* mich mit Geduld für diese lange Wartezeit.
+
+  L'agent de sécurité est *armé* d'une torche.
+  Der Sicherheitsbeamte ist mit einer Taschenlampe *ausgerüstet*.
+
+  Le château fort était bien *armé* contre les assaillants.
+  Die Burg war gut gegen die Angreifer *bewaffnet*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

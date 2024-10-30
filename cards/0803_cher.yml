@@ -13,41 +13,158 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai payé cher pour le savoir.
-  Ich habe viel Geld bezahlt, um das zu erfahren.
+  J'ai payé *cher* pour le savoir.
+  Ich habe *teuer* dafür bezahlt, das zu erfahren.
 
-  Ce restaurant est cher.
-  Dieses Restaurant ist teuer.
+  Cette voiture est trop *chère* pour ce qu'elle est.
+  Dieses Auto ist seinen Preis nicht *wert*.
 
-  Les fruits et légumes sont moins chers ici, dans ce marché.
-  Hier ist es billiger, auf diesem Markt, die Früchte und das Gemüse zu kaufen.
+  "Je l'ai eu pour pas *cher* !"
+  "Ich habe es *billig* bekommen!"
 
-  Mon cher Paul, j'espère que tu vas bien.
-  Mein Lieber Paul, ich hoffe, es geht dir gut.
+  Mon *cher* Paul, comment vas-tu ?
+  Mein *Lieber* Paul, wie geht es dir?
 
-  J'ai acheté ce livre trop cher, je ne l'aurais pas fait si j'avais su.
-  Ich habe dieses Buch zu teuer gekauft, ich hätte es nicht getan, wenn ich es gewusst hätte.
+  Les souvenirs de mon enfance me sont très *chers*.
+  Die Erinnerungen an meine Kindheit sind mir sehr *teuer*.
 
-  On ne donne pas cher de ses chances à l'équipe, qui est en grande difficulté.
-  Man gibt der Mannschaft, die in großen Schwierigkeiten ist, keine großen Chancen.
+  La vie devient de plus en plus *chère* à Paris.
+  Das Leben in Paris wird immer *teurer*.
 
-  Il lui a fait payer cher son erreur, en le renvoyant.
-  Er hat ihn seine Fehler teuer bezahlen lassen, indem er ihn entlassen hat.
+  Je ne donne pas *cher* de ses chances de réussite.
+  Ich gebe seinen Erfolgsaussichten keine großen *Chancen*.
 
-  Ce tableau ne vaut pas cher, il n'est pas de grand peintre.
-  Dieses Bild ist nicht viel wert, es ist nicht von einem großen Maler.
+  Ces bijoux valent *cher*.
+  Dieser Schmuck ist viel *wert*.
 
-  C'est mon plus cher désir de pouvoir voyager autour du monde.
-  Das ist mein innigster Wunsch, einmal um die Welt reisen zu können.
+  *Chère* Marie, j'espère que tu vas bien.
+  *Liebe* Marie, ich hoffe, es geht dir gut.
 
-  Chère Élodie, cher Gérard, j'espère que vous allez bien.
-  Liebe Élodie, lieber Gérard, ich hoffe, es geht euch gut.
+  Cette erreur lui a coûté *cher*.
+  Dieser Fehler ist ihm *teuer* zu stehen gekommen.
 
-  Ce voyage coûte cher à Marie, mais elle en vaut la peine.
-  Diese Reise kommt Marie teuer zu stehen, aber es lohnt sich.
+  Ma *chère* amie m'a toujours soutenu.
+  Meine *liebe* Freundin hat mich immer unterstützt.
 
-  Ce restaurant est trop cher pour ce que c'est, la nourriture n'est pas exceptionnelle.
-  Dieses Restaurant ist seinen Preis nicht wert, das Essen ist nicht außergewöhnlich.
+  Les fruits exotiques sont *chers* en hiver.
+  Exotische Früchte sind im Winter *teuer*.
+
+  *Chers* parents, merci pour votre soutien.
+  *Liebe* Eltern, danke für eure Unterstützung.
+
+  C'est son plus *cher* désir depuis l'enfance.
+  Das ist sein *sehnlichster* Wunsch seit der Kindheit.
+
+  Ce restaurant est trop *cher* pour nous.
+  Dieses Restaurant ist zu *teuer* für uns.
+
+  *Chers* tous, je vous souhaite de bonnes vacances.
+  *Liebe* alle, ich wünsche euch schöne Ferien.
+
+  Cette formation va me coûter *cher*.
+  Diese Ausbildung wird mich *teuer* zu stehen kommen.
+
+  Ma *chère*, tu me manques beaucoup.
+  Meine *Liebe*, ich vermisse dich sehr.
+
+  Ces moments *chers* à mon cœur ne s'oublieront jamais.
+  Diese meinem Herzen *teuren* Momente werde ich nie vergessen.
+
+  Le loyer est moins *cher* dans cette ville.
+  Die Miete ist in dieser Stadt *günstiger*.
+
+  Il a payé *cher* son imprudence.
+  Er hat für seine Unvorsichtigkeit *teuer* bezahlt.
+
+  Cette boutique est *chère* mais la qualité est excellente.
+  Dieser Laden ist *teuer*, aber die Qualität ist ausgezeichnet.
+
+  Son souvenir m'est *cher*.
+  Seine Erinnerung ist mir *teuer*.
+
+  Ces vacances nous ont coûté *cher*.
+  Dieser Urlaub ist uns *teuer* gekommen.
+
+  Ma *chère* cousine vient nous rendre visite.
+  Meine *liebe* Cousine kommt uns besuchen.
+
+  Le chauffage devient *cher* en hiver.
+  Das Heizen wird im Winter *teuer*.
+
+  Ces traditions lui sont *chères*.
+  Diese Traditionen sind ihm *wichtig*.
+
+  Les légumes bio sont plus *chers*.
+  Biogemüse ist *teurer*.
+
+  *Cher* client, nous vous remercions de votre fidélité.
+  *Sehr geehrter* Kunde, wir danken Ihnen für Ihre Treue.
+
+  Cette liberté, il l'a payée *cher*.
+  Diese Freiheit hat er *teuer* erkauft.
+
+  Ce petit café n'est pas *cher* du tout.
+  Dieses kleine Café ist überhaupt nicht *teuer*.
+
+  Mon *cher* ami de toujours.
+  Mein *lieber* Freund von jeher.
+
+  Cette victoire leur a coûté *cher*.
+  Dieser Sieg ist ihnen *teuer* zu stehen gekommen.
+
+  Les places de concert sont *chères* cette année.
+  Die Konzertkarten sind dieses Jahr *teuer*.
+
+  Cette région est *chère* à mon cœur.
+  Diese Region liegt mir sehr am *Herzen*.
+
+  Je donnerais *cher* pour connaître la vérité.
+  Ich würde viel dafür geben, die Wahrheit zu kennen.
+
+  Sa santé lui est *chère*.
+  Seine Gesundheit ist ihm *wichtig*.
+
+  Le carburant devient de plus en plus *cher*.
+  Der Kraftstoff wird immer *teurer*.
+
+  Ce souvenir m'est particulièrement *cher*.
+  Diese Erinnerung ist mir besonders *teuer*.
+
+  Les réparations coûtent *cher*.
+  Die Reparaturen sind *teuer*.
+
+  Ma *chère* grand-mère me manque beaucoup.
+  Meine *liebe* Großmutter fehlt mir sehr.
+
+  L'électricité est plus *chère* cette année.
+  Der Strom ist dieses Jahr *teurer*.
+
+  Cette décision va leur coûter *cher*.
+  Diese Entscheidung wird sie *teuer* zu stehen kommen.
+
+  Ces moments *chers* resteront gravés dans ma mémoire.
+  Diese *kostbaren* Momente werden in meiner Erinnerung bleiben.
+
+  Le temps lui est *cher*.
+  Seine Zeit ist ihm *kostbar*.
+
+  Ton amitié m'est *chère*.
+  Deine Freundschaft ist mir *teuer*.
+
+  Les appartements sont *chers* dans ce quartier.
+  Die Wohnungen sind in diesem Viertel *teuer*.
+
+  Cette maison m'a coûté *cher*, mais elle en vaut la peine.
+  Dieses Haus war *teuer*, aber es ist es wert.
+
+  *Chers* collègues, je vous souhaite une bonne année.
+  *Liebe* Kollegen, ich wünsche euch ein gutes neues Jahr.
+
+  Cette expérience lui a coûté *cher*.
+  Diese Erfahrung ist ihm *teuer* zu stehen gekommen.
+
+  Ce marché n'est pas *cher* du tout.
+  Dieser Markt ist überhaupt nicht *teuer*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

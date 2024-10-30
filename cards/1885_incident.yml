@@ -13,26 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Fort heureusement, l’incident n’a pas fait de victime.
-  Glücklicherweise gab es bei dem Vorfall keine Verletzten.
+  Fort heureusement, l'*incident* n'a pas fait de victime.
+  Glücklicherweise hat der *Zwischenfall* keine Opfer gefordert.
 
-  Il y a eu un incident à l’aéroport.
-  Es gab einen Vorfall am Flughafen.
+  Le vol s'est déroulé sans *incident* jusqu'à l'atterrissage.
+  Der Flug verlief bis zur Landung *störungsfrei*.
 
-  Le déménagement s'est déroulé sans incident.
-  Der Umzug verlief reibungslos.
+  Un *incident* technique a provoqué l'arrêt du métro pendant deux heures.
+  Eine technische *Störung* hat die U-Bahn für zwei Stunden lahmgelegt.
 
-  La direction a déposé une demande incidente pour le remboursement des frais.
-  Die Geschäftsführung hat eine Zwischenklage für die Rückerstattung der Kosten eingereicht.
+  Des *incidents* graves ont éclaté lors de la manifestation.
+  Während der Demonstration kam es zu schweren *Zwischenfällen*.
 
-  L'incident est clos, le coupable a été identifié.
-  Der Fall ist erledigt, der Täter wurde identifiziert.
+  L'*incident* diplomatique a tendu les relations entre les deux pays.
+  Der diplomatische *Zwischenfall* hat die Beziehungen zwischen den beiden Ländern belastet.
 
-  Un incident technique a interrompu le service pendant quelques minutes.
-  Eine Betriebsstörung hat den Dienst für ein paar Minuten unterbrochen.
+  Notre sortie en mer s'est terminée par un *incident* mécanique.
+  Unser Ausflug aufs Meer endete mit einer technischen *Störung*.
 
-  L'utilisation du logiciel se fait sans incident depuis son installation.
-  Die Benutzung der Software erfolgt seit der Installation störungsfrei.
+  "Ce n'était qu'un petit *incident*, ne t'inquiète pas."
+  "Das war nur ein kleiner *Zwischenfall*, mach dir keine Sorgen."
+
+  L'utilisation *sans incident* du nouveau logiciel nous a rassurés.
+  Die *störungsfreie* Nutzung der neuen Software hat uns beruhigt.
+
+  Suite à l'*incident*, le concert a dû être reporté.
+  Aufgrund des *Vorfalls* musste das Konzert verschoben werden.
+
+  Un *incident* de frontière a mobilisé les forces de l'ordre.
+  Ein Grenz*zwischenfall* hat die Ordnungskräfte mobilisiert.
+
+  Les pompiers sont intervenus rapidement après l'*incident*.
+  Die Feuerwehr war nach dem *Vorfall* schnell vor Ort.
+
+  Cette proposition *incidente* clarifie le sens de la phrase.
+  Dieser *Zwischen*satz verdeutlicht den Sinn des Satzes.
+
+  Le rayon *incident* se réfléchit sur la surface du miroir.
+  Der *einfallende* Strahl wird von der Spiegeloberfläche reflektiert.
+
+  L'*incident* de parcours n'a pas compromis le projet.
+  Die *Störung* im Ablauf hat das Projekt nicht gefährdet.
+
+  Une demande *incidente* a été déposée par l'avocat.
+  Eine *Zwischen*klage wurde vom Anwalt eingereicht.
+
+  L'*incident* est clos, passons à autre chose.
+  Der *Zwischenfall* ist erledigt, lasst uns weitermachen.
+
+  La réunion s'est déroulée sans *incident* notable.
+  Die Versammlung verlief ohne nennenswerte *Zwischenfälle*.
+
+  Une remarque *incidente* a changé le cours de la discussion.
+  Eine *beiläufige* Bemerkung hat den Verlauf der Diskussion verändert.
+
+  Un *incident* nucléaire mineur a été signalé à la centrale.
+  Ein kleiner Nuklear*zwischenfall* wurde im Kraftwerk gemeldet.
+
+  Cette question *incidente* mérite notre attention.
+  Diese *Neben*frage verdient unsere Aufmerksamkeit.
+
+  Les médias ont exagéré l'importance de l'*incident*.
+  Die Medien haben die Bedeutung des *Vorfalls* übertrieben.
+
+  Un *incident* technique perturbe la diffusion du match.
+  Eine technische *Störung* beeinträchtigt die Übertragung des Spiels.
+
+  L'avocat a soulevé un *incident* de procédure.
+  Der Anwalt hat einen Verfahrens*zwischenfall* aufgeworfen.
+
+  Des *incidents* mineurs ont émaillé la cérémonie.
+  Kleine *Zwischenfälle* überschatteten die Zeremonie.
+
+  L'*incident* au laboratoire a nécessité une évacuation.
+  Der *Zwischenfall* im Labor machte eine Evakuierung erforderlich.
+
+  Un faisceau *incident* traverse le prisme de verre.
+  Ein *einfallendes* Strahlenbündel durchquert das Glasprisma.
+
+  L'*incident* a été rapidement maîtrisé par le personnel.
+  Der *Zwischenfall* wurde vom Personal schnell unter Kontrolle gebracht.
+
+  Une observation *incidente* a révélé une nouvelle piste.
+  Eine *beiläufige* Beobachtung hat eine neue Spur aufgedeckt.
+
+  Le spectacle s'est terminé sans *incident*.
+  Die Vorstellung endete *störungsfrei*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce sont là des problèmes particulièrement délicats.
-  Dies sind besonders heikle Probleme.
+  Ce sont là des problèmes *particulièrement* délicats.
+  Das sind *besonders* heikle Probleme.
 
-  Je l’aime particulièrement.
-  Ich mag ihn besonders.
+  Elle a chanté *particulièrement* juste lors du concert.
+  Sie hat beim Konzert *besonders* rein gesungen.
 
-  Je n'y tiens pas particulièrement, car je préfère me concentrer sur d'autres projets.
-  Darauf lege ich keinen besonderen Wert, da ich mich lieber auf andere Projekte konzentriere.
+  Je ne tiens pas *particulièrement* à sortir ce soir.
+  Ich lege keinen *besonderen* Wert darauf, heute Abend auszugehen.
 
-  Je n'y tiens pas particulièrement, mais je suis prêt à l'accepter si c'est nécessaire.
-  Darauf lege ich keinen besonderen Wert, aber ich bin bereit, es zu akzeptieren, wenn es notwendig ist.
+  Il aime tous les sports, et *particulièrement* le tennis.
+  Er mag alle Sportarten, und ganz *besonders* Tennis.
+
+  Cette région est *particulièrement* belle en automne.
+  Diese Region ist im Herbst *besonders* schön.
+
+  Le professeur a *particulièrement* insisté sur ce chapitre.
+  Der Lehrer hat auf dieses Kapitel *besonders* viel Wert gelegt.
+
+  Les conditions météorologiques sont *particulièrement* mauvaises aujourd'hui.
+  Die Wetterbedingungen sind heute *besonders* schlecht.
+
+  Son fils a *particulièrement* bien travaillé ce semestre.
+  Ihr Sohn hat dieses Semester *besonders* gut gearbeitet.
+
+  J'attire *particulièrement* votre attention sur ce détail important.
+  Ich lenke Ihre Aufmerksamkeit *besonders* auf dieses wichtige Detail.
+
+  Elle aime les animaux, *particulièrement* les chats.
+  Sie mag Tiere, *besonders* Katzen.
+
+  Je connais *particulièrement* bien cette partie de la ville.
+  Ich kenne diesen Teil der Stadt *besonders* gut.
+
+  Cette recette est *particulièrement* appréciée par mes invités.
+  Dieses Rezept wird von meinen Gästen *besonders* geschätzt.
+
+  Le matin est *particulièrement* calme dans ce quartier.
+  Der Morgen ist in diesem Viertel *besonders* ruhig.
+
+  Cette nouvelle l'a *particulièrement* réjoui.
+  Diese Nachricht hat ihn *besonders* erfreut.
+
+  Je vous expliquerai cela plus *particulièrement* demain.
+  Ich werde Ihnen das morgen noch *genauer* erklären.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

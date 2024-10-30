@@ -13,20 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  En quoi consiste ton travail?
-  Wie sieht deine Arbeit aus?
+  En quoi *consiste* ton travail ?
+  Worin *besteht* deine Arbeit?
 
-  Leur travail consiste à aider les gens.
-  Ihre Arbeit besteht darin, den Menschen zu helfen.
+  Son bonheur *consiste* à rendre les autres heureux.
+  Sein Glück *besteht* darin, andere glücklich zu machen.
 
-  Le menu du restaurant consiste en plusieurs plats traditionnels de la région.
-  Die Speisekarte des Restaurants besteht aus verschiedenen traditionellen Gerichten der Region.
+  Notre maison de campagne *consiste* en trois chambres et un grand jardin.
+  Unser Landhaus *besteht* aus drei Zimmern und einem großen Garten.
 
-  Le succès de cette entreprise consiste dans sa capacité à s'adapter aux besoins du marché.
-  Der Erfolg dieses Unternehmens liegt in seiner Fähigkeit, sich an die Bedürfnisse des Marktes anzupassen.
+  L'erreur principale *consiste* dans une mauvaise interprétation des données.
+  Der Hauptfehler *liegt* in einer falschen Interpretation der Daten.
 
-  L'objectif de ce programme consiste à aider les personnes en difficulté à trouver un emploi.
-  Das Ziel dieses Programms besteht darin, Menschen in Not bei der Jobsuche zu helfen.
+  Le défi *consiste* à trouver l'équilibre entre travail et vie privée.
+  Die Herausforderung *besteht* darin, die Balance zwischen Arbeit und Privatleben zu finden.
+
+  Cette méthode *consiste* en quatre étapes simples.
+  Diese Methode *besteht* aus vier einfachen Schritten.
+
+  La solution *consiste* à prendre son temps et réfléchir calmement.
+  Die Lösung *besteht* darin, sich Zeit zu nehmen und ruhig nachzudenken.
+
+  Mon régime alimentaire *consiste* principalement en fruits et légumes.
+  Meine Ernährung *besteht* hauptsächlich aus Obst und Gemüse.
+
+  Le problème ne *consiste* pas dans le manque d'argent, mais dans sa gestion.
+  Das Problem *liegt* nicht im Geldmangel, sondern in dessen Verwaltung.
+
+  L'art *consiste* à transformer les difficultés en opportunités.
+  Die Kunst *besteht* darin, Schwierigkeiten in Chancen zu verwandeln.
+
+  Son emploi du temps *consiste* en trois réunions par jour.
+  Sein Zeitplan *besteht* aus drei Besprechungen pro Tag.
+
+  La différence *consiste* dans l'approche adoptée.
+  Der Unterschied *liegt* in der gewählten Herangehensweise.
+
+  Le secret du succès *consiste* à ne jamais abandonner.
+  Das Erfolgsgeheimnis *besteht* darin, niemals aufzugeben.
+
+  Cette formation *consistera* en deux modules intensifs.
+  Diese Ausbildung wird aus zwei Intensivmodulen *bestehen*.
+
+  Le repas *consiste* en une entrée, un plat principal et un dessert.
+  Die Mahlzeit *besteht* aus einer Vorspeise, einem Hauptgericht und einem Dessert.
+
+  La difficulté *consiste* à maintenir la motivation sur le long terme.
+  Die Schwierigkeit *besteht* darin, die Motivation langfristig aufrechtzuerhalten.
+
+  Son travail *consiste* à coordonner les différentes équipes.
+  Seine Arbeit *besteht* darin, die verschiedenen Teams zu koordinieren.
+
+  Le projet *consistait* en une série d'ateliers hebdomadaires.
+  Das Projekt *bestand* aus einer Reihe wöchentlicher Workshops.
+
+  La clé du bonheur *consiste* dans l'acceptation de soi.
+  Der Schlüssel zum Glück *liegt* in der Selbstakzeptanz.
+
+  Le véritable défi *consiste* à adapter nos habitudes aux changements climatiques.
+  Die wahre Herausforderung *besteht* darin, unsere Gewohnheiten an den Klimawandel anzupassen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

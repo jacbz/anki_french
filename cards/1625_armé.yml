@@ -13,26 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils ont croisé un homme armé.
-  Sie trafen auf einen bewaffneten Mann.
+  Ils ont croisé un homme *armé*.
+  Sie sind einem *bewaffneten* Mann begegnet.
 
-  Le criminel était armé.
-  Der Verbrecher war bewaffnet.
+  Le voleur était *armé* d'un couteau.
+  Der Dieb war mit einem Messer *bewaffnet*.
 
-  Le jeune homme, armé d'un couteau, s'est dirigé vers la banque.
-  Der junge Mann, mit einem Messer bewaffnet, ging auf die Bank zu.
+  L'étudiant est *armé* d'un dictionnaire et prêt pour l'examen.
+  Der Student ist mit einem Wörterbuch *ausgerüstet* und bereit für die Prüfung.
 
-  Le policier, armé d'un revolver, a arrêté le suspect.
-  Der Polizist, mit einem Revolver bewaffnet, hat den Verdächtigen festgenommen.
+  Nous sommes bien *armés* contre le froid.
+  Wir sind gut gegen die Kälte *gewappnet*.
 
-  Le professeur, armé d'un dictionnaire, a corrigé les erreurs des élèves.
-  Der Professor, mit einem Wörterbuch ausgerüstet, hat die Fehler der Schüler korrigiert.
+  Le cambrioleur était *armé* jusqu'aux dents.
+  Der Einbrecher war bis an die Zähne *bewaffnet*.
 
-  Le candidat, armé de ses arguments, était bien préparé pour le débat.
-  Der Kandidat, mit seinen Argumenten bewaffnet, war gut vorbereitet auf die Debatte.
+  Une attaque à main *armée* a eu lieu à la banque.
+  Ein *bewaffneter* Überfall wurde auf die Bank verübt.
 
-  L'équipe de football, bien armée pour le match, avait de bonnes chances de gagner.
-  Die Fußballmannschaft, gut gewappnet für das Spiel, hatte gute Chancen zu gewinnen.
+  Un conflit *armé* a éclaté dans la région.
+  In der Region ist ein *bewaffneter* Konflikt ausgebrochen.
+
+  Cette rose est *armée* de piquants.
+  Diese Rose ist mit Dornen *bewehrt*.
+
+  Elle est bien *armée* pour réussir dans la vie.
+  Sie ist gut fürs Leben *gewappnet*.
+
+  Le pont est construit en béton *armé*.
+  Die Brücke ist aus Stahl*beton* gebaut.
+
+  La grenade était en position *armée*.
+  Die Granate war *scharf*.
+
+  Le câble *armé* protège contre les interférences.
+  Das *armierte* Kabel schützt vor Störungen.
+
+  Le verre *armé* résiste mieux aux chocs.
+  *Draht*glas ist stoßfester.
+
+  "Je suis *armé* de patience", dit-il en souriant.
+  "Ich bin mit Geduld *gewappnet*", sagte er lächelnd.
+
+  Les manifestants n'étaient pas *armés*.
+  Die Demonstranten waren nicht *bewaffnet*.
+
+  La police a arrêté trois hommes *armés*.
+  Die Polizei hat drei *bewaffnete* Männer verhaftet.
+
+  Le gardien était *armé* d'une matraque.
+  Der Wächter war mit einem Schlagstock *bewaffnet*.
+
+  Le plastique *armé* est plus résistant.
+  *Verstärkter* Kunststoff ist widerstandsfähiger.
+
+  Elle s'est sentie *armée* de courage.
+  Sie fühlte sich mit Mut *gewappnet*.
+
+  Les forces *armées* patrouillent dans les rues.
+  Die *bewaffneten* Streitkräfte patrouillieren in den Straßen.
+
+  Le bitume *armé* est utilisé pour l'étanchéité.
+  *Verstärktes* Bitumen wird zur Abdichtung verwendet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

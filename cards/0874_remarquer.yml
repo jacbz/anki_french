@@ -13,38 +13,110 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils ont fait remarquer que ces jeunes avaient été pris.
-  Sie wiesen darauf hin, dass diese Jugendlichen erwischt worden waren.
+  Ils ont fait *remarquer* que ces jeunes avaient été pris.
+  Sie haben *bemerkt*, dass diese Jugendlichen festgenommen wurden.
 
-  Je n’ai pas remarqué qu’il était parti.
-  Ich habe nicht bemerkt, dass er gegangen ist.
+  J'ai *remarqué* quelque chose de bizarre dans son comportement.
+  Mir ist etwas Seltsames an seinem Verhalten *aufgefallen*.
 
-  Elle a été la première à le remarquer.
-  Sie war die Erste, die dies bemerkte.
+  Elle s'est fait *remarquer* par ses excellents résultats.
+  Sie ist durch ihre ausgezeichneten Ergebnisse *aufgefallen*.
 
-  J'ai remarqué le jeune homme par sa chemise rouge.
-  Auf den jungen Mann bin ich wegen seines roten Hemdes aufmerksam geworden.
+  *Remarquez* bien que je ne suis pas d'accord avec cette décision.
+  *Wohlgemerkt*, ich bin mit dieser Entscheidung nicht einverstanden.
 
-  Je vais te faire remarquer que tu as oublié ton sac.
-  Ich will dich darauf aufmerksam machen, dass du deine Tasche vergessen hast.
+  Je n'ai pas *remarqué* ton nouveau sac.
+  Ich habe deine neue Tasche nicht *bemerkt*.
 
-  Le joueur a été remarqué par les recruteurs du club.
-  Der Spieler ist von den Scouts des Vereins beachtet worden.
+  Son absence a été *remarquée* par tout le monde.
+  Seine Abwesenheit wurde von allen *bemerkt*.
 
-  Il se fait remarquer par son comportement excentrique.
-  Er benimmt sich auffällig, durch sein exzentrisches Verhalten.
+  Elle cherche toujours à se faire *remarquer*.
+  Sie versucht immer, *aufzufallen*.
 
-  Ils sont entrés dans la pièce sans se faire remarquer.
-  Sie sind unauffällig in den Raum gegangen.
+  *Remarque*, il aurait pu faire pire.
+  *Nebenbei bemerkt* hätte er Schlimmeres tun können.
 
-  Remarque, j'en suis ravi!
-  Eins kann ich dir sagen, ich bin begeistert!
+  Les critiques ont *remarqué* la qualité exceptionnelle de son jeu d'acteur.
+  Die Kritiker haben die außergewöhnliche Qualität seines Schauspiels *bemerkt*.
 
-  Remarque, je m'en fiche!
-  Nebenbei bemerkt ist es mir egal!
+  Je dois vous faire *remarquer* que vous êtes en retard.
+  Ich muss Sie darauf *hinweisen*, dass Sie zu spät sind.
 
-  Remarque, il a essayé!
-  Er hat es immerhin versucht!
+  Il est entré sans se faire *remarquer*.
+  Er kam herein, ohne *aufzufallen*.
+
+  As-tu *remarqué* les nouvelles fleurs dans le jardin ?
+  Hast du die neuen Blumen im Garten *bemerkt*?
+
+  Elle s'est fait *remarquer* par sa robe rouge vif.
+  Sie ist durch ihr knallrotes Kleid *aufgefallen*.
+
+  Je *remarque* que tu as changé de coiffure.
+  Ich *bemerke*, dass du eine neue Frisur hast.
+
+  *Remarquez*, je ne dis pas que c'est impossible.
+  *Wohlgemerkt*, ich sage nicht, dass es unmöglich ist.
+
+  Sa fatigue se *remarque* de plus en plus.
+  Seine Müdigkeit *fällt* immer mehr *auf*.
+
+  Il a été *remarqué* pour son talent exceptionnel.
+  Er wurde wegen seines außergewöhnlichen Talents *bemerkt*.
+
+  Les experts ont *remarqué* plusieurs erreurs dans le document.
+  Die Experten haben mehrere Fehler im Dokument *bemerkt*.
+
+  Je n'ai rien *remarqué* d'anormal pendant la nuit.
+  Ich habe während der Nacht nichts Ungewöhnliches *bemerkt*.
+
+  L'artiste s'est fait *remarquer* par son style unique.
+  Der Künstler ist durch seinen einzigartigen Stil *aufgefallen*.
+
+  *Remarquez* la beauté de ce paysage au coucher du soleil.
+  *Beachten* Sie die Schönheit dieser Landschaft bei Sonnenuntergang.
+
+  Les changements se *remarquent* à peine.
+  Die Veränderungen *fallen* kaum *auf*.
+
+  Il s'est fait *remarquer* par son comportement inapproprié.
+  Er ist durch sein unangemessenes Verhalten *aufgefallen*.
+
+  J'ai *remarqué* qu'il boitait légèrement.
+  Ich habe *bemerkt*, dass er leicht hinkte.
+
+  Elle ne cherche jamais à se faire *remarquer*.
+  Sie versucht nie *aufzufallen*.
+
+  *Remarque*, tu n'es pas obligé d'y aller.
+  *Nebenbei bemerkt* musst du nicht hingehen.
+
+  As-tu *remarqué* son nouveau tatouage ?
+  Ist dir sein neues Tattoo *aufgefallen*?
+
+  Je lui ai fait *remarquer* son erreur poliment.
+  Ich habe ihn höflich auf seinen Fehler *hingewiesen*.
+
+  Son intervention a été très *remarquée*.
+  Sein Beitrag wurde stark *beachtet*.
+
+  J'ai *remarqué* une tache sur ta chemise.
+  Ich habe einen Fleck auf deinem Hemd *bemerkt*.
+
+  Elle m'a fait *remarquer* que j'avais oublié mes clés.
+  Sie hat mich darauf *aufmerksam gemacht*, dass ich meine Schlüssel vergessen hatte.
+
+  Il a été *remarqué* dès son premier jour au bureau.
+  Er wurde gleich an seinem ersten Tag im Büro *bemerkt*.
+
+  Je *remarque* que tu as l'air fatigué aujourd'hui.
+  Ich *bemerke*, dass du heute müde aussiehst.
+
+  "Tu t'es fait *remarquer* encore une fois !"
+  "Du bist schon wieder *aufgefallen*!"
+
+  Les détails se *remarquent* seulement de près.
+  Die Details *fallen* nur aus der Nähe *auf*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

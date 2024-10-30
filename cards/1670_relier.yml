@@ -9,23 +9,87 @@ Femininum / Plural: ''
 IPA: \ʁə.lje\
 Definition: verbinden
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Toutes les choses sont reliées. Nous le savons.\nAlle Dinge sind miteinander\
-  \ verbunden. Das wissen wir.\n\nJe dois relier ces deux points sur la carte.\nIch\
-  \ muss diese beiden Punkte auf der Karte verbinden.\n\nLa police cherche à relier\
-  \ des faits qui se sont produits à plusieurs endroits de la ville.\nDie Polizei\
-  \ versucht einen Zusammenhang zwischen Vorfällen herzustellen, die sich an verschiedenen\
-  \ Orten der Stadt ereignet haben.\n\nIl faut relier cette subordonnée à la proposition\
-  \ principale en utilisant une conjonction de subordination.\nMan muss diesen Nebensatz\
-  \ mit dem Hauptsatz verbinden, indem man eine Konjunktion benutzt. \n\nC'est une\
-  \ édition reliée cuir, très rare et précieuse.\nEs handelt sich um eine in Leder\
-  \ gebundene Ausgabe, sehr selten und wertvoll.\n\nIl est facile de relier deux sites\
-  \ Web à l'aide d'un hyperlien.\nEs ist einfach, zwei Websites mithilfe eines Hyperlinks\
-  \ miteinander zu verlinken.\n\nCe pont relie la vieille ville à la nouvelle.\nDiese\
-  \ Brücke verbindet die Altstadt mit der Neustadt.\n\nPour utiliser le casque, il\
-  \ faut le relier au téléphone.\nUm den Kopfhörer zu benutzen, muss man ihn an das\
-  \ Telefon anschließen.\n\nInternet relie entre elles des millions de personnes dans\
-  \ le monde entier.\nDas Internet verbindet Millionen Menschen auf der ganzen Welt\
-  \ miteinander."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Toutes les choses sont *reliées*. Nous le savons.
+  Alle Dinge sind miteinander *verbunden*. Das wissen wir.
+
+  Cette route *relie* Paris à Marseille.
+  Diese Straße *verbindet* Paris mit Marseille.
+
+  J'ai fait *relier* ce livre en cuir.
+  Ich habe dieses Buch in Leder *binden* lassen.
+
+  Les chercheurs ont *relié* la pollution à l'augmentation des maladies respiratoires.
+  Die Forscher haben die Luftverschmutzung mit der Zunahme von Atemwegserkrankungen in *Verbindung gebracht*.
+
+  Le pont nouvellement construit *relie* les deux rives du fleuve.
+  Die neu gebaute Brücke *verbindet* die beiden Flussufer.
+
+  Le technicien a *relié* mon ordinateur à l'imprimante.
+  Der Techniker hat meinen Computer mit dem Drucker *verbunden*.
+
+  Ces deux paragraphes doivent être *reliés* par une transition.
+  Diese beiden Absätze müssen durch einen Übergang *verbunden* werden.
+
+  Il faut *relier* tous les points pour former une étoile.
+  Man muss alle Punkte *verbinden*, um einen Stern zu bilden.
+
+  Le câble USB *relie* la souris à l'ordinateur.
+  Das USB-Kabel *verbindet* die Maus mit dem Computer.
+
+  Les sociologues ont *relié* ce phénomène au changement climatique.
+  Die Soziologen haben dieses Phänomen mit dem Klimawandel in *Verbindung gebracht*.
+
+  Le métro *relie* maintenant le centre-ville à l'aéroport.
+  Die U-Bahn *verbindet* jetzt das Stadtzentrum mit dem Flughafen.
+
+  Les deux mots sont *reliés* par une conjonction.
+  Die beiden Wörter sind durch eine Konjunktion *verbunden*.
+
+  J'ai fait *relier* tous mes vieux journaux.
+  Ich habe alle meine alten Zeitungen *binden* lassen.
+
+  Cette pièce mécanique *relie* le moteur à la roue.
+  Dieses mechanische Teil *verbindet* den Motor mit dem Rad.
+
+  Le nouveau site web est maintenant *relié* à notre base de données.
+  Die neue Website ist jetzt mit unserer Datenbank *verlinkt*.
+
+  Les scientifiques ont *relié* ces deux découvertes.
+  Die Wissenschaftler haben diese beiden Entdeckungen miteinander in *Verbindung gebracht*.
+
+  Le tunnel sous la Manche *relie* la France à l'Angleterre.
+  Der Kanaltunnel *verbindet* Frankreich mit England.
+
+  Ces câbles électriques *relient* la maison au réseau.
+  Diese Stromkabel *verbinden* das Haus mit dem Netz.
+
+  Le bibliothécaire a fait *relier* les manuscrits anciens.
+  Der Bibliothekar hat die alten Handschriften *binden* lassen.
+
+  La fibre optique *relie* désormais tous les villages de la région.
+  Das Glasfaserkabel *verbindet* nun alle Dörfer der Region.
+
+  Cette théorie *relie* plusieurs phénomènes apparemment distincts.
+  Diese Theorie *verbindet* mehrere scheinbar unterschiedliche Phänomene.
+
+  Le nouveau pont *reliera* bientôt les deux îles.
+  Die neue Brücke wird bald die beiden Inseln *verbinden*.
+
+  Les archéologues ont *relié* ces artéfacts à la civilisation maya.
+  Die Archäologen haben diese Artefakte mit der Maya-Zivilisation in *Verbindung gebracht*.
+
+  Un passage couvert *relie* les deux bâtiments.
+  Ein überdachter Gang *verbindet* die beiden Gebäude.
+
+  L'histoire *relie* le présent au passé.
+  Die Geschichte *verbindet* die Gegenwart mit der Vergangenheit.
+
+  Le cordon *relie* le combiné au téléphone.
+  Das Kabel *verbindet* den Hörer mit dem Telefon.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

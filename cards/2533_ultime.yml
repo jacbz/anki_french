@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cette station est à présent l’ultime puissance de l’univers.
-  Diese Station ist nun die ultimative Macht im Universum.
+  Cette station est à présent l'*ultime* puissance de l'univers.
+  Diese Station ist jetzt die *letzte* Macht des Universums.
 
-  C’est notre ultime chance.
-  Das ist unsere letzte Chance.
+  C'était l'*ultime* fois que je l'ai vue avant son départ.
+  Das war das *letzte* Mal, dass ich sie vor ihrer Abreise sah.
+
+  Il nous a donné son *ultime* conseil avant de partir à la retraite.
+  Er gab uns seinen *letzten* Rat, bevor er in den Ruhestand ging.
+
+  L'*ultime* course de sa carrière aura lieu demain.
+  Das *letzte* Rennen seiner Karriere findet morgen statt.
+
+  Voici l'*ultime* chance de réussir l'examen.
+  Dies ist die *allerletzte* Chance, die Prüfung zu bestehen.
+
+  L'*ultime* version du logiciel contient plusieurs améliorations.
+  Die *neueste* Version der Software enthält mehrere Verbesserungen.
+
+  As-tu pris ton *ultime* décision concernant le déménagement ?
+  Hast du deine *endgültige* Entscheidung bezüglich des Umzugs getroffen?
+
+  C'est l'*ultime* étape avant d'atteindre le sommet.
+  Das ist die *letzte* Etappe vor dem Gipfel.
+
+  Cette méthode est considérée comme l'*ultime* solution contre le stress.
+  Diese Methode gilt als die *höchste* Lösung gegen Stress.
+
+  L'*ultime* chapitre du livre révèle enfin le mystère.
+  Das *letzte* Kapitel des Buches enthüllt endlich das Geheimnis.
+
+  Les chercheurs ont fait une *ultime* tentative pour sauver l'espèce.
+  Die Forscher unternahmen einen *letzten* Versuch, die Art zu retten.
+
+  Il a prononcé ses *ultimes* mots avant de s'endormir.
+  Er sprach seine *letzten* Worte, bevor er einschlief.
+
+  L'*ultime* délai pour soumettre votre candidature est ce soir.
+  Die *äußerste* Frist für Ihre Bewerbung ist heute Abend.
+
+  C'était son *ultime* performance sur scène avant sa retraite.
+  Es war sein *letzter* Auftritt auf der Bühne vor seinem Ruhestand.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

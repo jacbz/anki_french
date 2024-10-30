@@ -13,17 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La balle provient d’un revolver britannique.
-  Die Kugel stammte aus einem britischen Revolver.
+  La balle *provient* d'un revolver britannique.
+  Die Kugel *stammt* von einem britischen Revolver.
 
-  Cette plante provient d’Amérique du Sud.
-  Diese Pflanze stammt aus Südamerika.
+  D'où *provient* cette lettre mystérieuse ?
+  Woher *stammt* dieser mysteriöse Brief?
 
-  Le vin rouge provient de la région de Bordeaux.
-  Der Rotwein kommt aus der Region Bordeaux.
+  Ces marchandises *proviennent* principalement de Chine.
+  Diese Waren *kommen* hauptsächlich aus China.
 
-  Les informations proviennent d'une source fiable.
-  Die Informationen kommen aus einer zuverlässigen Quelle.
+  Le plastique *provient* du pétrole brut.
+  Plastik *stammt* aus Rohöl.
+
+  Cet excellent vin rouge *provient* d'Italie.
+  Dieser ausgezeichnete Rotwein *kommt* aus Italien.
+
+  L'argent *provenait* de l'héritage de sa grand-mère.
+  Das Geld *stammte* aus dem Erbe ihrer Großmutter.
+
+  Les pierres du château *proviennent* d'une carrière locale.
+  Die Steine des Schlosses *stammen* aus einem lokalen Steinbruch.
+
+  Le mot « fenêtre » *provient* du latin « fenestra ».
+  Das Wort "Fenster" *stammt* aus dem lateinischen "fenestra".
+
+  Ces magnifiques tableaux *proviennent* d'une collection privée.
+  Diese wunderschönen Gemälde *stammen* aus einer privaten Sammlung.
+
+  Son mal de dos *provient* d'une mauvaise posture.
+  Seine Rückenschmerzen *rühren* von einer schlechten Haltung her.
+
+  La plupart de nos problèmes *proviennent* d'un manque de communication.
+  Die meisten unserer Probleme *stammen* von mangelnder Kommunikation.
+
+  L'humus *provient* de la décomposition des feuilles mortes.
+  Humus *entsteht* aus der Zersetzung toter Blätter.
+
+  Les habitudes des enfants *proviennent* souvent de leurs parents.
+  Die Gewohnheiten der Kinder *stammen* oft von ihren Eltern.
+
+  Ses idées créatives *proviennent* de son imagination débordante.
+  Seine kreativen Ideen *entspringen* seiner überbordenden Fantasie.
+
+  Le malentendu *provenait* d'une simple erreur de traduction.
+  Das Missverständnis *kam* von einem einfachen Übersetzungsfehler.
+
+  Ces échantillons *proviennent* du laboratoire central.
+  Diese Proben *stammen* aus dem Zentrallabor.
+
+  La lumière *provient* d'une source naturelle.
+  Das Licht *kommt* aus einer natürlichen Quelle.
+
+  Les fruits de ce marché *proviennent* directement des producteurs locaux.
+  Das Obst auf diesem Markt *kommt* direkt von lokalen Erzeugern.
+
+  Notre succès *provient* de nos efforts constants.
+  Unser Erfolg *resultiert* aus unseren konstanten Bemühungen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

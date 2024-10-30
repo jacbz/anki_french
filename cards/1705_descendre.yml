@@ -13,41 +13,185 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Personne n’entre, personne ne descend du train.
-  Niemand betritt den Zug, niemand steigt aus.
+  Personne n'entre, personne ne *descend* du train.
+  Niemand steigt ein, niemand *steigt* aus dem Zug *aus*.
 
-  Je descends les escaliers.
-  Ich gehe die Treppe hinunter.
+  L'avion *descend* lentement vers la piste d'atterrissage.
+  Das Flugzeug *sinkt* langsam Richtung Landebahn.
 
-  Je descends à la cave pour chercher du vin.
-  Ich gehe in den Keller hinunter, um Wein zu holen.
+  Les enfants *descendent* l'escalier en courant.
+  Die Kinder *laufen* die Treppe *hinunter*.
 
-  Elle a descendu l'escalier tout doucement pour ne pas réveiller les enfants.
-  Sie ist ganz leise die Treppe hinuntergeschlichen, um die Kinder nicht zu wecken.
+  Je vais *descendre* à la prochaine station de métro.
+  Ich werde an der nächsten U-Bahn-Station *aussteigen*.
 
-  Il est descendu dans la rue pour acheter du pain.
-  Er ist auf die Straße gegangen, um Brot zu kaufen.
+  Elle *descend* de son cheval avec élégance.
+  Sie *steigt* elegant vom Pferd *ab*.
 
-  Une bonne marche après le repas fait descendre.
-  Ein Spaziergang nach dem Essen hilft verdauen.
+  Le soleil *descend* doucement à l'horizon.
+  Die Sonne *sinkt* sanft am Horizont.
 
-  Je n'ai pas faim, ça ne descend pas.
-  Ich habe keinen Hunger, ich kriege keinen Bissen runter.
+  "Peux-tu *descendre* la poubelle ?"
+  "Kannst du den Müll *runtertragen*?"
 
-  Ils sont descendus en voiture jusqu'à la plage.
-  Sie sind mit dem Auto zur Küste hinuntergefahren.
+  Les manifestants sont *descendus dans la rue* pour protester.
+  Die Demonstranten sind *auf die Straße gegangen*, um zu protestieren.
 
-  Le petit singe a descendu de l'arbre et a couru vers sa mère.
-  Der kleine Affe ist vom Baum heruntergeklettert und ist zu seiner Mutter gerannt.
+  La température va *descendre* jusqu'à zéro degré cette nuit.
+  Die Temperatur wird heute Nacht bis auf null Grad *sinken*.
 
-  Les passagers ont descendu du bateau et ont pris un taxi pour l'hôtel.
-  Die Passagiere sind von Bord gegangen und haben ein Taxi zum Hotel genommen.
+  La rivière *descend* de la montagne vers la vallée.
+  Der Fluss *fließt* vom Berg ins Tal *hinunter*.
 
-  L'avion est descendu des nuages pour se poser sur la piste.
-  Das Flugzeug ist aus den Wolken auf das Flugfeld heruntersinken.
+  Les prix du pétrole *descendent* depuis deux semaines.
+  Die Ölpreise *sinken* seit zwei Wochen.
 
-  On a décidé de descendre en ville pour profiter des lumières de Noël.
-  Wir haben uns entschlossen, in die Stadt zu gehen, um das Weihnachtslicht zu genießen.
+  Notre famille *descend* d'une longue lignée de musiciens.
+  Unsere Familie *stammt* von einer langen Reihe von Musikern *ab*.
+
+  Il faut *descendre* trois étages pour arriver au parking.
+  Man muss drei Stockwerke *hinuntergehen*, um zum Parkplatz zu kommen.
+
+  "*Descends* de là immédiatement, c'est dangereux !"
+  "Komm da sofort *runter*, das ist gefährlich!"
+
+  Les stores *descendent* automatiquement quand il fait nuit.
+  Die Rollläden *fahren* automatisch *herunter*, wenn es dunkel wird.
+
+  La police est *descendue* dans le bar hier soir.
+  Die Polizei hat gestern Abend eine Razzia in der Bar durchgeführt.
+
+  Nous allons *descendre* chez mes parents pour les vacances.
+  Wir werden während der Ferien bei meinen Eltern *absteigen*.
+
+  L'hélicoptère *descend* pour secourir les randonneurs.
+  Der Hubschrauber *geht runter*, um die Wanderer zu retten.
+
+  Sa robe *descend* jusqu'aux chevilles.
+  Ihr Kleid *reicht* bis zu den Knöcheln.
+
+  "Je *descends* chercher du pain, je reviens dans cinq minutes."
+  "Ich *gehe runter*, um Brot zu holen, bin in fünf Minuten wieder da."
+
+  Le brouillard *descend* sur la ville.
+  Der Nebel *senkt* sich über die Stadt.
+
+  Les oiseaux *descendent* en picorant sur la pelouse.
+  Die Vögel *fliegen* pickend auf den Rasen *herunter*.
+
+  La marée *descend* rapidement ce soir.
+  Die Flut *geht* heute Abend schnell *zurück*.
+
+  "*Ça ne descend pas*, je n'ai plus faim."
+  "Ich kriege keinen Bissen *runter*, ich habe keinen Hunger mehr."
+
+  Nous *descendons* vers le sud pour les vacances.
+  Wir *fahren* für den Urlaub in den Süden.
+
+  Le parachutiste *descend* en spirale.
+  Der Fallschirmspringer *schwebt* in Spiralen *herunter*.
+
+  Elle *descend* de sa chambre pour le petit déjeuner.
+  Sie *kommt* von ihrem Zimmer zum Frühstück *herunter*.
+
+  Le chemin *descend* en pente douce vers le lac.
+  Der Weg *führt* in sanfter Neigung zum See *hinunter*.
+
+  Je peux vous *descendre* à la gare si vous voulez.
+  Ich kann Sie zum Bahnhof *fahren* lassen, wenn Sie möchten.
+
+  Les critiques ont *descendu* son dernier film.
+  Die Kritiker haben seinen letzten Film *verrissen*.
+
+  Le chat refuse de *descendre* de l'arbre.
+  Die Katze weigert sich, vom Baum *herunterzukommen*.
+
+  La nuit *descend* sur la ville endormie.
+  Die Nacht *bricht* über der schlafenden Stadt *an*.
+
+  "*Descends* un peu le tableau, il est trop haut."
+  "Häng das Bild etwas *tiefer*, es hängt zu hoch."
+
+  Les valeurs boursières *descendent* depuis ce matin.
+  Die Börsenkurse *fallen* seit heute Morgen.
+
+  "Tu peux m'aider à *descendre* ces cartons à la cave ?"
+  "Kannst du mir helfen, diese Kartons in den Keller *hinunterzutragen*?"
+
+  L'avion a été *descendu* par un missile.
+  Das Flugzeug wurde von einer Rakete *abgeschossen*.
+
+  La chanteuse *descend* facilement jusqu'aux notes graves.
+  Die Sängerin *geht* mühelos bis zu den tiefen Tönen *herunter*.
+
+  Elle *descend* toujours à cet hôtel quand elle est à Paris.
+  Sie *steigt* immer in diesem Hotel *ab*, wenn sie in Paris ist.
+
+  Le niveau de l'eau *descend* progressivement.
+  Der Wasserstand *sinkt* allmählich.
+
+  "*Descendez* au prochain arrêt, s'il vous plaît."
+  "Bitte *steigen* Sie an der nächsten Haltestelle *aus*."
+
+  Les bagages *descendent* sur le tapis roulant.
+  Das Gepäck *kommt* auf dem Förderband *herunter*.
+
+  La pluie *descend* en rideau sur la ville.
+  Der Regen *fällt* wie ein Vorhang auf die Stadt.
+
+  Les journalistes l'ont *descendu en flammes*.
+  Die Journalisten haben ihn heftig *kritisiert*.
+
+  Le tunnel *descend* à 400 mètres sous terre.
+  Der Tunnel *geht* 400 Meter unter die Erde *hinunter*.
+
+  Je *descends* du bus deux arrêts avant le terminus.
+  Ich *steige* zwei Haltestellen vor der Endstation aus dem Bus *aus*.
+
+  L'avalanche *descend* à toute vitesse.
+  Die Lawine *geht* mit hoher Geschwindigkeit *nieder*.
+
+  Les vignobles *descendent* jusqu'à la rivière.
+  Die Weinberge *fallen* bis zum Fluss *ab*.
+
+  L'ascenseur *descend* directement au parking.
+  Der Aufzug *fährt* direkt zum Parkplatz *hinunter*.
+
+  La fumée *descend* par la cheminée.
+  Der Rauch *kommt* durch den Schornstein *herunter*.
+
+  Le ballon *descend* lentement vers le sol.
+  Der Ball *rollt* langsam zum Boden *hinunter*.
+
+  "Je *descends* travailler en ville tous les jours."
+  "Ich *fahre* jeden Tag in die Stadt zur Arbeit."
+
+  Elle *descend* jusqu'aux moindres détails dans son analyse.
+  Sie *geht* in ihrer Analyse bis ins kleinste Detail.
+
+  Les feuilles mortes *descendent* en tourbillonnant.
+  Die toten Blätter *schweben* wirbelnd *herunter*.
+
+  Le thermomètre *descend* en dessous de zéro.
+  Das Thermometer *fällt* unter null.
+
+  "Je *descends* à 14 heures aujourd'hui."
+  "Ich *höre* heute um 14 Uhr mit der Arbeit *auf*."
+
+  La voiture *descend* la côte en première.
+  Das Auto *fährt* den Hang im ersten Gang *hinunter*.
+
+  Le drapeau *descend* lentement le long du mât.
+  Die Flagge wird langsam am Mast *heruntergelassen*.
+
+  Le sous-marin *descend* à 300 mètres de profondeur.
+  Das U-Boot *taucht* auf 300 Meter Tiefe *hinab*.
+
+  Elle *descend* ses poubelles tous les matins.
+  Sie *bringt* jeden Morgen ihren Müll *hinunter*.
+
+  Le capitaine doit *descendre* les voiles avant la tempête.
+  Der Kapitän muss vor dem Sturm die Segel *herunterholen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

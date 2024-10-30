@@ -13,32 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ça m’apprendra à voyager en classe éco.
-  Das wird mir eine Lehre sein, in der Touristenklasse zu reisen.
+  Ça m'apprendra à *voyager* en classe éco.
+  Das wird mich lehren, in der Economy Class zu *reisen*.
 
-  Je vais voyager en Europe cet été.
-  Ich werde diesen Sommer nach Europa reisen.
+  Elle adore *voyager* à l'étranger pendant ses vacances.
+  Sie liebt es, während ihrer Ferien ins Ausland zu *reisen*.
 
-  J’adore voyager.
-  Ich liebe es zu reisen.
+  Ces fruits ne peuvent pas *voyager* longtemps sans réfrigération.
+  Diese Früchte können nicht lange ohne Kühlung *transportiert* werden.
 
-  J’aime voyager.
-  Ich reise gerne.
+  Mon grand-père a beaucoup *voyagé* dans sa jeunesse.
+  Mein Großvater ist in seiner Jugend viel *herumgekommen*.
 
-  C’est marrant de voyager.
-  Reisen macht Spaß.
+  Il *voyage* pour une entreprise de cosmétiques.
+  Er ist *Handelsreisender* für eine Kosmetikfirma.
 
-  Je préfère voyager en train que de voler.
-  Ich reise lieber mit dem Zug als zu fliegen.
+  Nous préférons *voyager* en train plutôt qu'en avion.
+  Wir *reisen* lieber mit dem Zug als mit dem Flugzeug.
 
-  Il aime beaucoup voyager et découvrir de nouvelles cultures.
-  Er liebt es, viel herumzukommen und neue Kulturen kennenzulernen.
+  Ces marchandises *voyagent* mal en été.
+  Diese Waren lassen sich im Sommer schlecht *transportieren*.
 
-  Il voyage pour une entreprise et parcourt le monde entier.
-  Er ist Handelsreisender eines Unternehmens und reist um die ganze Welt.
+  La maladie ne l'empêche pas de *voyager*.
+  Die Krankheit hält sie nicht vom *Reisen* ab.
 
-  J'ai envie de voyager, de partir à l'aventure.
-  Mich packt die Reiselust, ich möchte ins Abenteuer starten.
+  Je rêve de *voyager* autour du monde un jour.
+  Ich träume davon, eines Tages um die Welt zu *reisen*.
+
+  Les légumes frais doivent *voyager* dans des conditions optimales.
+  Frisches Gemüse muss unter optimalen Bedingungen *befördert* werden.
+
+  Elle *voyage* toujours en première classe.
+  Sie *reist* immer erster Klasse.
+
+  L'envie de *voyager* ne m'a jamais quitté.
+  Die *Reiselust* hat mich nie verlassen.
+
+  Ces bouteilles de vin peuvent *voyager* sans risque.
+  Diese Weinflaschen können ohne Risiko *transportiert* werden.
+
+  Ils ont *voyagé* pendant trois mois en Asie.
+  Sie sind drei Monate durch Asien *gereist*.
+
+  Pierre *voyage* beaucoup pour son travail.
+  Pierre muss für seine Arbeit viel *reisen*.
+
+  Les spécialités locales ne *voyagent* pas toujours bien.
+  Lokale Spezialitäten lassen sich nicht immer gut *transportieren*.
+
+  Ma sœur *voyage* régulièrement en Europe pour ses études.
+  Meine Schwester *reist* regelmäßig für ihr Studium durch Europa.
+
+  J'aimerais *voyager* plus souvent si j'en avais les moyens.
+  Ich würde gerne öfter *reisen*, wenn ich die Mittel dazu hätte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

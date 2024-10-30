@@ -13,14 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Excusez-moi, je vois que le commissaire vient d’arriver.
-  Entschuldigen Sie, ich sehe, dass der Kommissar gerade angekommen ist.
+  Excusez-moi, je vois que le *commissaire* vient d'arriver.
+  Entschuldigung, ich sehe, dass der *Kommissar* gerade gekommen ist.
 
-  Le commissaire enquête sur l’affaire.
-  Der Kommissar ermittelt in der Angelegenheit.
+  Le *commissaire* divisionnaire a ordonné une enquête approfondie.
+  Der leitende *Kommissar* hat eine gründliche Untersuchung angeordnet.
 
-  Le commissaire principal a dirigé l'enquête avec fermeté.
-  Die Hauptkommissarin leitete die Ermittlungen mit Entschlossenheit.
+  La *commissaire* aux comptes a découvert plusieurs irrégularités dans les documents.
+  Die *Prüferin* hat mehrere Unregelmäßigkeiten in den Unterlagen entdeckt.
+
+  Les *commissaires* de course ont disqualifié trois coureurs pour non-respect des règles.
+  Die *Rennleiter* haben drei Läufer wegen Regelverstößen disqualifiziert.
+
+  Notre nouveau *commissaire* européen défend activement les intérêts environnementaux.
+  Unser neuer EU-*Kommissar* setzt sich aktiv für Umweltbelange ein.
+
+  Le *commissaire* de bord nous a aidés à retrouver nos bagages perdus.
+  Der *Zahlmeister* hat uns geholfen, unser verlorenes Gepäck wiederzufinden.
+
+  La *commissaire* principale mène personnellement l'interrogatoire du suspect.
+  Die *Hauptkommissarin* führt das Verhör mit dem Verdächtigen persönlich durch.
+
+  Les *commissaires* d'exposition ont choisi des œuvres vraiment remarquables.
+  Die Ausstellungs*kuratoren* haben wirklich bemerkenswerte Werke ausgewählt.
+
+  Le *commissaire* du gouvernement a présenté son rapport au Parlement.
+  Der Regierungs*kommissar* hat seinen Bericht dem Parlament vorgelegt.
+
+  La *commissaire* de police a fait évacuer le bâtiment pour des raisons de sécurité.
+  Die Polizei*kommissarin* hat das Gebäude aus Sicherheitsgründen räumen lassen.
+
+  Le *commissaire* central coordonne toutes les opérations dans la ville.
+  Der Zentral*kommissar* koordiniert alle Einsätze in der Stadt.
+
+  La *commissaire* européenne participe à une conférence sur le changement climatique.
+  Die EU-*Kommissarin* nimmt an einer Konferenz zum Klimawandel teil.
+
+  Le *commissaire* de l'exposition a dû reporter l'ouverture d'une semaine.
+  Der *Kurator* der Ausstellung musste die Eröffnung um eine Woche verschieben.
+
+  Les *commissaires* sportifs ont validé les résultats de la compétition.
+  Die Sport*kommissare* haben die Wettkampfergebnisse bestätigt.
+
+  La *commissaire* aux comptes vérifiera les bilans financiers demain.
+  Die Wirtschafts*prüferin* wird morgen die Finanzbilanzen überprüfen.
+
+  Le *commissaire* du quartier organise une réunion avec les habitants.
+  Der Bezirks*kommissar* organisiert ein Treffen mit den Anwohnern.
+
+  La *commissaire* divisionnaire a été promue après vingt ans de service.
+  Die *Polizeidirektorin* wurde nach zwanzig Dienstjahren befördert.
+
+  Le haut-*commissaire* au Plan présente sa stratégie économique.
+  Der Planungs*kommissar* stellt seine Wirtschaftsstrategie vor.
+
+  La *commissaire* de police a reçu une médaille pour son courage exceptionnel.
+  Die Polizei*kommissarin* hat für ihren außergewöhnlichen Mut eine Medaille erhalten.
+
+  Le *commissaire* de bord nous a informés d'un léger retard.
+  Der Bord*zahlmeister* hat uns über eine kleine Verspätung informiert.
+
+  Les *commissaires* européens se réunissent chaque semaine à Bruxelles.
+  Die EU-*Kommissare* treffen sich jede Woche in Brüssel.
+
+  La *commissaire* principale dirige maintenant trois commissariats.
+  Die *Hauptkommissarin* leitet jetzt drei Polizeiwachen.
+
+  Le *commissaire* du gouvernement a supervisé le bon déroulement des élections.
+  Der Regierungs*kommissar* hat den ordnungsgemäßen Ablauf der Wahlen überwacht.
+
+  La *commissaire* aux comptes refuse de certifier les comptes de l'entreprise.
+  Die Wirtschafts*prüferin* weigert sich, den Jahresabschluss des Unternehmens zu bestätigen.
+
+  Le *commissaire* de l'exposition guide les visiteurs à travers les salles.
+  Der *Kurator* führt die Besucher durch die Ausstellungsräume.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

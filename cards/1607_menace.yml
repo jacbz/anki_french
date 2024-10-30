@@ -13,41 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La menace terroriste est bien réelle.
-  Die Bedrohung durch den Terrorismus ist sehr real.
+  La *menace* terroriste est bien réelle.
+  Die Terror*bedrohung* ist sehr real.
 
-  Il a reçu une menace de mort.
-  Er hat eine Todesdrohung erhalten.
+  Les *menaces* d'orage ont forcé l'annulation du festival.
+  Die *drohenden* Gewitter haben zur Absage des Festivals geführt.
 
-  Le gouvernement a fait face à une menace de démission de plusieurs ministres.
-  Der Regierung drohte der Rücktritt mehrerer Minister.
+  Il a reçu une lettre de *menaces* de mort.
+  Er hat einen Brief mit Mord*drohungen* erhalten.
 
-  La tension entre les deux pays a atteint un point critique, avec une menace de guerre imminente.
-  Die Spannung zwischen den beiden Ländern hat einen kritischen Punkt erreicht, mit einer drohenden Kriegsgefahr.
+  Sous la *menace* d'une arme, elle a dû ouvrir le coffre-fort.
+  Unter der *Bedrohung* durch eine Waffe musste sie den Safe öffnen.
 
-  Il a fait part de sa menace de suicide à ses proches.
-  Er hat seinen Angehörigen von seiner Selbstmorddrohung berichtet.
+  La déforestation représente une *menace* pour l'environnement.
+  Die Abholzung stellt eine *Bedrohung* für die Umwelt dar.
 
-  Les victimes ont reçu des menaces de mort anonymes.
-  Die Opfer haben anonyme Morddrohungen erhalten.
+  Cette *menace* de démission n'était pas à prendre au sérieux.
+  Diese Rücktritts*drohung* war nicht ernst zu nehmen.
 
-  L'enfant a été puni sous la menace de son père.
-  Das Kind wurde unter dem Zwang seines Vaters bestraft.
+  Les *menaces* de suicide doivent toujours être prises au sérieux.
+  Selbstmord*drohungen* müssen immer ernst genommen werden.
 
-  Le comportement de l'homme était menaçant, avec des menaces de violence envers les autres.
-  Das Verhalten des Mannes war bedrohlich, mit Gewaltandrohungen gegenüber anderen.
+  Cette usine constitue une *menace* pour la santé publique.
+  Diese Fabrik stellt eine *Bedrohung* für die öffentliche Gesundheit dar.
 
-  Les négociations se sont déroulées sous la menace de sanctions économiques.
-  Die Verhandlungen fanden unter dem Zwang wirtschaftlicher Sanktionen statt.
+  "Ces *menaces* en l'air ne m'impressionnent pas du tout."
+  "Diese leeren *Drohungen* beeindrucken mich überhaupt nicht."
 
-  La région est menacée par un tremblement de terre imminent.
-  Die Region ist durch ein drohendes Erdbeben gefährdet.
+  La *menace* d'inflation inquiète les économistes.
+  Die *drohende* Inflation beunruhigt die Ökonomen.
 
-  Des menaces d'orage ont forcé les campeurs à rentrer à l'abri.
-  Ein drohendes Gewitter zwang die Camper, in Deckung zu gehen.
+  Il a proféré des *menaces* contre son ancien patron.
+  Er hat *Drohungen* gegen seinen ehemaligen Chef ausgestoßen.
 
-  La pollution atmosphérique représente une menace pour l'environnement.
-  Die Luftverschmutzung stellt eine Umweltgefährdung dar.
+  Une *menace* d'épidémie plane sur la région.
+  Eine *drohende* Epidemie schwebt über der Region.
+
+  Les *menaces* de violence ne résoudront rien.
+  Gewalt*androhungen* werden nichts lösen.
+
+  La *menace* de guerre s'intensifie dans la région.
+  Die Kriegs*bedrohung* in der Region verschärft sich.
+
+  Elle a cédé à la *menace* et signé le document.
+  Sie gab der *Drohung* nach und unterschrieb das Dokument.
+
+  Ses gestes de *menace* ont effrayé les enfants.
+  Seine *drohenden* Gesten haben die Kinder erschreckt.
+
+  La *menace* d'un tremblement de terre reste constante.
+  Die *Gefahr* eines Erdbebens bleibt bestehen.
+
+  Les *menaces* sont restées sans suite.
+  Die *Drohungen* blieben ohne Folgen.
+
+  Cette *menace* de punition n'a pas eu d'effet sur lui.
+  Diese Straf*androhung* hatte keine Wirkung auf ihn.
+
+  Ils ont mis leurs *menaces* à exécution.
+  Sie haben ihre *Drohungen* wahrgemacht.
+
+  L'entreprise a obtenu le contrat par la *menace*.
+  Das Unternehmen hat den Vertrag durch *Drohungen* erhalten.
+
+  Une nouvelle *menace* pèse sur notre existence.
+  Eine neue *Bedrohung* lastet auf unserer Existenz.
+
+  Il a écrit sa lettre sous la *menace*.
+  Er schrieb seinen Brief unter *Zwang*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

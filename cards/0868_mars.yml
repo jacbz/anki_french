@@ -13,11 +13,41 @@ Register: ↗Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La date est fixée au 1er mars 2004.
-  Das Datum wurde auf den 1. März 2004 festgelegt.
+  La date est fixée au 1er *mars* 2004.
+  Das Datum ist auf den 1. *März* 2004 festgelegt.
 
-  Mon anniversaire est en mars.
-  Mein Geburtstag ist im März.
+  Les tulipes fleurissent toujours début *mars* dans notre jardin.
+  Die Tulpen blühen in unserem Garten immer Anfang *März*.
+
+  À la mi-*mars*, nous organiserons une grande fête.
+  Mitte *März* werden wir eine große Party organisieren.
+
+  Les giboulées de *mars* ont inondé les rues du village.
+  Die *März*schauer haben die Dorfstraßen überflutet.
+
+  Le printemps commence officiellement le 21 *mars*.
+  Der Frühling beginnt offiziell am 21. *März*.
+
+  En *mars*, les températures deviennent plus douces.
+  Im *März* werden die Temperaturen milder.
+
+  Mon fils est né un matin de *mars*.
+  Mein Sohn wurde an einem *März*morgen geboren.
+
+  Les agriculteurs sèment leur blé de *mars*.
+  Die Bauern säen ihre *März*saat aus.
+
+  Cette année, *mars* a été particulièrement froid.
+  Dieses Jahr war der *März* besonders kalt.
+
+  Nous partirons en vacances fin *mars*.
+  Wir fahren Ende *März* in den Urlaub.
+
+  Le salon du livre se tiendra en *mars* prochain.
+  Die Buchmesse findet nächsten *März* statt.
+
+  Les événements de *mars* ont changé notre vie.
+  Die Ereignisse im *März* haben unser Leben verändert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

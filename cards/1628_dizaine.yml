@@ -13,26 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il y a des dizaines de milliers de jeunes dans ce pays.
-  Es gibt Zehntausende Jugendliche in diesem Land.
+  Il y a des *dizaines* de milliers de jeunes dans ce pays.
+  Es gibt *Zehntausende* von jungen Menschen in diesem Land.
 
-  Il y a une dizaine de personnes dans la salle.
-  Es sind etwa zehn Personen im Raum.
+  Une *dizaine* de personnes attendaient devant la porte du magasin.
+  Etwa *zehn* Personen warteten vor dem Geschäft.
 
-  Il y avait une dizaine de personnes à la réunion.
-  Etwa zehn Personen waren auf der Versammlung.
+  Mon petit frère va bientôt avoir la *dizaine*.
+  Mein kleiner Bruder wird bald *zehn* Jahre alt.
 
-  Elle a la dizaine, mais elle a l'air plus jeune.
-  Sie ist ungefähr zehn, aber sie sieht jünger aus.
+  Pour comprendre les mathématiques, il faut savoir compter par *dizaines*.
+  Um Mathematik zu verstehen, muss man in *Zehner*schritten zählen können.
 
-  Quelques dizaines de personnes ont manifesté devant le bâtiment.
-  Ein paar Dutzend Personen haben vor dem Gebäude demonstriert.
+  J'ai lu une *dizaine* de pages avant de m'endormir.
+  Ich habe ungefähr *zehn* Seiten gelesen, bevor ich eingeschlafen bin.
 
-  L'enfant approche de la dizaine, il grandit vite.
-  Das Kind geht auf die Zehn zu, es wächst schnell.
+  Dans le nombre 356, le chiffre des *dizaines* est 5.
+  In der Zahl 356 ist die *Zehner*stelle 5.
 
-  Le nombre de participants a largement dépassé la dizaine.
-  Die Anzahl der Teilnehmer hat die Zehn weit übertroffen.
+  Elle reviendra dans une *dizaine* de jours.
+  Sie wird in etwa *zehn* Tagen zurückkommen.
+
+  Plusieurs *dizaines* d'oiseaux se sont posés sur le toit.
+  Mehrere *Dutzend* Vögel haben sich auf dem Dach niedergelassen.
+
+  Les enfants ont déjà largement dépassé la *dizaine*.
+  Die Kinder sind schon weit über *zehn* Jahre alt.
+
+  Ma grand-mère dit toujours une *dizaine* de chapelet avant de dormir.
+  Meine Großmutter betet immer einen *Zehner* des Rosenkranzes vor dem Schlafen.
+
+  Cette recette nécessite une *dizaine* d'ingrédients différents.
+  Dieses Rezept benötigt ungefähr *zehn* verschiedene Zutaten.
+
+  Il nous reste une *dizaine* de minutes avant le début du film.
+  Wir haben noch ungefähr *zehn* Minuten bis zum Filmbeginn.
+
+  Le serveur a emballé les bouteilles par *dizaines*.
+  Der Kellner hat die Flaschen zu *Zehner*paketen verpackt.
+
+  Ma fille approche de la *dizaine*.
+  Meine Tochter geht auf die *Zehn* zu.
+
+  Une *dizaine* de pas nous séparent de la plage.
+  Ungefähr *zehn* Schritte trennen uns vom Strand.
+
+  Dix *dizaines* font une centaine.
+  Zehn *Zehner* ergeben eine Hundert.
+
+  Nous étions une bonne *dizaine* à la fête d'anniversaire.
+  Wir waren gut und gerne *zehn* Leute auf der Geburtstagsfeier.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

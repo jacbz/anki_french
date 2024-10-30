@@ -13,17 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La main-d’œuvre spécialisée vieillit.
-  Die Fachkräfte werden immer älter.
+  La main-d'œuvre *spécialisée* vieillit.
+  Die *Fach*kräfte werden älter.
 
-  Je veux me spécialiser en informatique.
-  Ich möchte mich auf Informatik spezialisieren.
+  Cette université *spécialise* ses étudiants dans la gestion d'entreprise.
+  Diese Universität *spezialisiert* ihre Studenten auf Unternehmensführung.
 
-  Le directeur a décidé de spécialiser Pierre dans le domaine de la sécurité informatique.
-  Der Direktor hat beschlossen, Peter im Bereich der IT-Sicherheit einzusetzen.
+  Elle s'est *spécialisée* en littérature médiévale après son master.
+  Nach ihrem Master hat sie sich auf mittelalterliche Literatur *spezialisiert*.
 
-  Le professeur s'est spécialisé dans l'étude des langues anciennes.
-  Der Professor hat sich auf die Erforschung alter Sprachen spezialisiert.
+  Le centre de formation *spécialise* les apprentis dans la maintenance informatique.
+  Das Ausbildungszentrum *spezialisiert* die Auszubildenden auf IT-Wartung.
+
+  Mon frère s'est *spécialisé* dans la chirurgie cardiaque.
+  Mein Bruder hat sich auf Herzchirurgie *spezialisiert*.
+
+  L'entreprise *spécialise* ses activités dans la production de batteries électriques.
+  Das Unternehmen *spezialisiert* seine Aktivitäten auf die Produktion von elektrischen Batterien.
+
+  Cette école ne veut pas *spécialiser* les élèves trop tôt.
+  Diese Schule möchte die Schüler nicht zu früh *spezialisieren*.
+
+  Les chercheurs se sont *spécialisés* en biochimie moléculaire.
+  Die Forscher haben sich auf molekulare Biochemie *spezialisiert*.
+
+  Notre laboratoire s'est *spécialisé* dans les médicaments génériques.
+  Unser Labor hat sich auf Generika *spezialisiert*.
+
+  L'usine a *spécialisé* ses ouvriers dans l'assemblage de précision.
+  Die Fabrik hat ihre Arbeiter auf Präzisionsmontage *spezialisiert*.
+
+  Je voudrais me *spécialiser* en pédiatrie après mes études.
+  Nach meinem Studium möchte ich mich auf Kinderheilkunde *spezialisieren*.
+
+  Les domaines scientifiques se *spécialisent* de plus en plus.
+  Die wissenschaftlichen Bereiche *spezialisieren* sich immer mehr.
+
+  Cette formation *spécialise* les participants dans la vente en ligne.
+  Diese Ausbildung *spezialisiert* die Teilnehmer auf Online-Verkauf.
+
+  Il s'est *spécialisé* dans la restauration de tableaux anciens.
+  Er hat sich auf die Restaurierung alter Gemälde *spezialisiert*.
+
+  La région a *spécialisé* ses industries dans l'aéronautique.
+  Die Region hat ihre Industrien auf die Luftfahrt *spezialisiert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

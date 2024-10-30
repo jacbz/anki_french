@@ -13,26 +13,104 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai participé à un programme de distribution de petits déjeuners.
-  Ich habe an einem Programm zur Verteilung von Frühstück teilgenommen.
+  J'ai participé à un programme de *distribution* de petits déjeuners.
+  Ich habe an einem Programm zur *Verteilung* von Frühstück teilgenommen.
 
-  La distribution des flyers a commencé ce matin.
-  Die Verteilung der Flyer hat heute Morgen begonnen.
+  La *distribution* des tâches a été faite par le chef d'équipe.
+  Die *Zuteilung* der Aufgaben wurde vom Teamleiter vorgenommen.
 
-  Le facteur est responsable de la distribution du courrier dans le quartier.
-  Der Postbote ist für die Zustellung der Post im Viertel zuständig.
+  Le facteur est responsable de la *distribution* du courrier dans notre quartier.
+  Der Briefträger ist für die *Zustellung* der Post in unserem Viertel verantwortlich.
 
-  L'entreprise a annoncé une nouvelle distribution d'actions pour ses employés.
-  Die Firma hat eine neue Ausgabe von Aktien für ihre Mitarbeiter angekündigt.
+  Le conseil d'administration a approuvé la *distribution* des dividendes.
+  Der Vorstand hat die *Ausschüttung* der Dividenden genehmigt.
 
-  La grande distribution est en plein essor dans les grandes villes.
-  Der Großvertrieb boomt in den Großstädten.
+  Cette entreprise est spécialisée dans la *distribution* de produits biologiques.
+  Dieses Unternehmen ist auf den *Vertrieb* von Bio-Produkten spezialisiert.
 
-  Le film a une distribution idéale, avec des acteurs de renommée mondiale.
-  Der Film hat eine Idealbesetzung, mit weltbekannten Schauspielern.
+  La *distribution* d'électricité sera interrompue pendant deux heures.
+  Die Strom*versorgung* wird für zwei Stunden unterbrochen.
 
-  La ville a investi dans une nouvelle distribution d'eau potable pour ses habitants.
-  Die Stadt hat in eine neue Wasserversorgung für ihre Einwohner investiert.
+  La *distribution* du nouveau film comprend plusieurs acteurs célèbres.
+  Die *Besetzung* des neuen Films umfasst mehrere bekannte Schauspieler.
+
+  La *distribution* des meubles dans cette pièce est très harmonieuse.
+  Die *Anordnung* der Möbel in diesem Raum ist sehr harmonisch.
+
+  Les joueurs ont changé leur *distribution* sur le terrain après la mi-temps.
+  Die Spieler haben ihre *Aufstellung* auf dem Feld nach der Halbzeit geändert.
+
+  La société a annoncé une *distribution* gratuite d'actions à ses employés.
+  Die Firma hat eine kostenlose *Ausgabe* von Aktien an ihre Mitarbeiter angekündigt.
+
+  Cette *distribution* de tracts devant le métro a attiré beaucoup d'attention.
+  Diese *Verteilung* von Flugblättern vor der U-Bahn hat viel Aufmerksamkeit erregt.
+
+  La *distribution* des secours aux sinistrés a commencé immédiatement.
+  Die *Verteilung* der Hilfsgüter an die Opfer begann sofort.
+
+  La grande *distribution* propose de plus en plus de produits locaux.
+  Der *Großvertrieb* bietet immer mehr lokale Produkte an.
+
+  La *distribution* d'eau potable est assurée 24 heures sur 24.
+  Die Trinkwasser*versorgung* ist rund um die Uhr gewährleistet.
+
+  Cette *distribution* prestigieuse garantit le succès de la pièce.
+  Diese Star*besetzung* garantiert den Erfolg des Theaterstücks.
+
+  La *distribution* des richesses reste très inégale dans notre société.
+  Die *Verteilung* des Wohlstands bleibt in unserer Gesellschaft sehr ungleich.
+
+  Le système de *distribution* du gaz naturel couvre toute la ville.
+  Das Erdgas*verteilungs*system deckt die ganze Stadt ab.
+
+  La *distribution* des rôles a été annoncée hier soir.
+  Die Rollen*besetzung* wurde gestern Abend bekannt gegeben.
+
+  Cette *distribution* des prix récompense les meilleurs élèves.
+  Diese Preis*verteilung* zeichnet die besten Schüler aus.
+
+  Les canaux de *distribution* varient selon les pays.
+  Die *Vertriebs*wege unterscheiden sich je nach Land.
+
+  La *distribution* des cartes se fait dans le sens des aiguilles d'une montre.
+  Das *Ausgeben* der Karten erfolgt im Uhrzeigersinn.
+
+  La société de *distribution* cinématographique a signé un nouveau contrat.
+  Die Film*verleihs*firma hat einen neuen Vertrag unterschrieben.
+
+  La *distribution* spatiale des plantes reflète les conditions climatiques.
+  Die räumliche *Verteilung* der Pflanzen spiegelt die klimatischen Bedingungen wider.
+
+  La *distribution* du budget doit être approuvée par le conseil.
+  Die *Verteilung* des Budgets muss vom Rat genehmigt werden.
+
+  Une mauvaise *distribution* des appartements peut réduire leur valeur.
+  Eine schlechte *Aufteilung* der Wohnungen kann ihren Wert mindern.
+
+  Le réseau de *distribution* s'étend sur trois continents.
+  Das *Vertriebs*netz erstreckt sich über drei Kontinente.
+
+  La *distribution* des vaccins est une priorité nationale.
+  Die *Verteilung* der Impfstoffe ist eine nationale Priorität.
+
+  Cette *distribution* des tâches optimise notre efficacité.
+  Diese *Verteilung* der Aufgaben optimiert unsere Effizienz.
+
+  La *distribution* des documents sera effectuée demain matin.
+  Die *Verteilung* der Dokumente erfolgt morgen früh.
+
+  La *distribution* des salles de classe facilite la circulation des élèves.
+  Die *Anordnung* der Klassenzimmer erleichtert den Schülerverkehr.
+
+  Le système de *distribution* automatique est en panne.
+  Das automatische *Verteilungs*system ist außer Betrieb.
+
+  La *distribution* équitable des ressources est essentielle.
+  Die gerechte *Verteilung* der Ressourcen ist wesentlich.
+
+  Le plan de *distribution* des marchandises a été modifié.
+  Der *Verteilungs*plan für die Waren wurde geändert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

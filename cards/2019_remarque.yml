@@ -13,26 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Par cette remarque je n’accuse personne.
-  Mit dieser Bemerkung beschuldige ich niemanden.
+  Par cette *remarque* je n'accuse personne.
+  Mit dieser *Bemerkung* beschuldige ich niemanden.
 
-  J’ai fait une remarque sur son comportement.
-  Ich habe eine Bemerkung zu seinem Verhalten gemacht.
+  Le professeur a fait une *remarque* pertinente sur mon travail.
+  Der Lehrer hat eine treffende *Anmerkung* zu meiner Arbeit gemacht.
 
-  J'ai adressé une remarque à mon frère sur son comportement.
-  Ich habe meinem Bruder etwas zu seinem Verhalten gesagt.
+  Elle n'a pas apprécié ma *remarque* sur sa nouvelle coiffure.
+  Sie hat meine *Bemerkung* über ihre neue Frisur nicht geschätzt.
 
-  Le professeur a fait une remarque à Marie sur son travail.
-  Die Lehrerin hat gegenüber Marie eine Bemerkung wegen ihrer Arbeit gemacht.
+  J'ai ajouté quelques *remarques* critiques dans la marge du document.
+  Ich habe einige kritische *Anmerkungen* am Rand des Dokuments hinzugefügt.
 
-  J'ai fait des remarques à mon voisin sur le bruit qu'il faisait.
-  Ich habe meinem Nachbarn wegen des Lärms, den er machte, ein paar Bemerkungen gemacht.
+  La *remarque* de Paul était vraiment judicieuse.
+  Pauls *Bemerkung* war wirklich klug.
 
-  La réceptionniste m'a fait la remarque que j'avais oublié mon téléphone.
-  Die Rezeptionistin hat mich darauf hingewiesen, dass ich mein Handy vergessen hatte.
+  Je dois vous adresser une *remarque* concernant votre comportement.
+  Ich muss Ihnen eine *Bemerkung* zu Ihrem Verhalten machen.
 
-  Je m'en suis fait la remarque après avoir quitté le magasin.
-  Das habe ich mir auch gesagt, nachdem ich den Laden verlassen hatte.
+  Les *remarques* désobligeantes ne sont pas les bienvenues ici.
+  Unfreundliche *Bemerkungen* sind hier nicht willkommen.
+
+  Sa *remarque* m'a fait réfléchir pendant des jours.
+  Seine *Bemerkung* hat mich tagelang zum Nachdenken gebracht.
+
+  Le texte est accompagné de nombreuses *remarques* historiques.
+  Der Text wird von zahlreichen historischen *Anmerkungen* begleitet.
+
+  As-tu une *remarque* à faire sur ce sujet ?
+  Hast du eine *Anmerkung* zu diesem Thema?
+
+  Il m'a fait une *remarque* sur mon retard ce matin.
+  Er hat mir heute Morgen eine *Bemerkung* über meine Verspätung gemacht.
+
+  Cette *remarque* préliminaire est importante pour comprendre la suite.
+  Diese einleitende *Bemerkung* ist wichtig für das Verständnis des Folgenden.
+
+  Les étudiants ont noté toutes les *remarques* du professeur.
+  Die Studenten haben alle *Anmerkungen* des Professors notiert.
+
+  Je me suis fait la *remarque* qu'il était temps de partir.
+  Ich habe mir selbst gesagt, dass es Zeit war zu gehen.
+
+  Cette gravure ancienne comporte une *remarque* dans sa marge.
+  Dieser alte Stich hat eine *Remarque* am Rand.
+
+  Elle lui en a fait la *remarque* hier soir.
+  Sie hat ihn gestern Abend darauf *hingewiesen*.
+
+  Épargnez-moi vos *remarques* sur ma façon de travailler.
+  Ersparen Sie mir Ihre *Bemerkungen* über meine Arbeitsweise.
+
+  Ses *remarques* sur la conduite des autres sont toujours négatives.
+  Seine *Bemerkungen* über das Verhalten anderer sind immer negativ.
+
+  Cette œuvre est digne de *remarque* pour son originalité.
+  Dieses Werk ist wegen seiner Originalität *bemerkenswert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,44 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le client contrôle toujours la destination de la marchandise.
-  Der Kunde kontrolliert immer den Bestimmungsort der Ware.
+  Le *client* contrôle toujours la destination de la marchandise.
+  Der *Kunde* kontrolliert immer den Bestimmungsort der Ware.
 
-  Le client est roi.
-  Der Kunde ist König.
+  Notre cabinet médical accueille de nouveaux *clients* tous les jours.
+  Unsere Arztpraxis nimmt jeden Tag neue *Patienten* auf.
 
-  Vous êtes un bon client.
-  Sie sind ein guter Kunde.
+  La *cliente* a demandé un rendez-vous avec son avocat pour lundi.
+  Die *Klientin* hat einen Termin mit ihrem Anwalt für Montag vereinbart.
 
-  Je vais m’occuper de ce client.
-  Ich kümmere mich um diesen Kunden.
+  Les *clients* du restaurant ont commandé trois bouteilles de vin.
+  Die *Gäste* des Restaurants haben drei Flaschen Wein bestellt.
 
-  Le premier client de l'entreprise a été un grand succès.
-  Der Erstkunde des Unternehmens war ein voller Erfolg.
+  Cette banque propose des services personnalisés à chaque *client*.
+  Diese Bank bietet jedem *Kunden* personalisierte Dienstleistungen an.
 
-  Le client est roi, dit-on, mais il n'est pas toujours facile de le satisfaire.
-  Der Kunde ist König, sagt man, aber es ist nicht immer einfach, ihn zufriedenzustellen.
+  Le service *client* sera fermé pendant les jours fériés.
+  Der *Kunden*service wird während der Feiertage geschlossen sein.
 
-  Il est important d'être un bon client de la banque pour obtenir un prêt facilement.
-  Es ist wichtig, ein guter Bankkunde zu sein, um leicht einen Kredit zu erhalten.
+  Notre entreprise est devenue le premier *client* de ce fournisseur local.
+  Unser Unternehmen ist zum wichtigsten *Abnehmer* dieses lokalen Lieferanten geworden.
 
-  Le client débiteur doit rembourser sa dette le plus rapidement possible.
-  Der Debitor muss seine Schulden so schnell wie möglich zurückzahlen.
+  La *cliente* privée a investi une somme importante dans son compte.
+  Die Privat*kundin* hat eine beträchtliche Summe auf ihr Konto eingezahlt.
 
-  Le client privé est plus sensible aux prix que le client professionnel.
-  Der Privatkunde ist preissensitiver als der Geschäftskunde.
+  Les *clients* du réseau Internet peuvent accéder au site 24/7.
+  Die Internet-*User* können rund um die Uhr auf die Website zugreifen.
 
-  Un contrat favorable aux clients est un atout pour toute entreprise.
-  Ein kundenfreundlicher Vertrag ist ein Gewinn für jedes Unternehmen.
+  "C'est un drôle de *client*, celui-là !"
+  "Das ist ja ein seltsamer *Kunde*!"
 
-  Le client de la poste peut effectuer de nombreuses opérations postales en ligne.
-  Der Postkunde kann viele Postgeschäfte online erledigen.
+  Le *client* débiteur doit régler sa facture avant la fin du mois.
+  Der *Debitor* muss seine Rechnung vor Ende des Monats begleichen.
 
-  Le client de la maison de ventes par correspondance peut commander des produits en ligne ou par téléphone.
-  Der Versandhauskunde kann Produkte online oder telefonisch bestellen.
+  La nouvelle *cliente* de la poste envoie beaucoup de colis.
+  Die neue Post*kundin* verschickt viele Pakete.
 
-  Le client du réseau Internet est de plus en plus nombreux.
-  Die Zahl der Internet-Userinnen steigt stetig.
+  Ce taxi n'a pas eu un seul *client* de toute la matinée.
+  Dieses Taxi hatte den ganzen Morgen keinen einzigen *Fahrgast*.
+
+  Notre *client* le plus fidèle vient dans ce magasin depuis vingt ans.
+  Unser treuester *Kunde* kommt seit zwanzig Jahren in diesen Laden.
+
+  La *cliente* de la maison de vente par correspondance a retourné sa commande.
+  Die Versandhaus*kundin* hat ihre Bestellung zurückgeschickt.
+
+  Le dentiste reçoit son dernier *client* à 18 heures.
+  Der Zahnarzt empfängt seinen letzten *Patienten* um 18 Uhr.
+
+  Ce contrat favorable aux *clients* garantit un excellent service.
+  Dieser *kunden*freundliche Vertrag garantiert einen ausgezeichneten Service.
+
+  La première *cliente* du jour était très satisfaite du service.
+  Die erste *Kundin* des Tages war mit dem Service sehr zufrieden.
+
+  Nous devons protéger les données de nos *clients* sur Internet.
+  Wir müssen die Daten unserer *Kunden* im Internet schützen.
+
+  Le programme *client* se connecte automatiquement au serveur.
+  Das *Client*-Programm verbindet sich automatisch mit dem Server.
+
+  Le notaire a beaucoup de nouveaux *clients* depuis son déménagement.
+  Der Notar hat seit seinem Umzug viele neue *Klienten*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

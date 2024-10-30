@@ -9,26 +9,114 @@ Femininum / Plural: ''
 IPA: \ʁɛs.pɛ\
 Definition: Respekt
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Il salua avec beaucoup de respect.\nEr grüßte mit großem Respekt.\n\
-  \nIl faut avoir du respect pour les autres.\nMan muss Respekt vor anderen haben.\n\
-  \nLe respect de ses parents est essentiel pour un enfant.\nRespekt vor seinen Eltern\
-  \ ist für ein Kind unerlässlich.\n\nJ'ai présenté mes respects à Monsieur Dubois,\
-  \ le nouveau directeur.\nIch habe Herrn Dubois, dem neuen Direktor, meinen Gruß\
-  \ entboten. \n\nLe policier a tenu le suspect en respect en pointant son arme.\n\
-  Der Polizist hat den Verdächtigen in Schach gehalten, indem er seine Waffe auf ihn\
-  \ richtete. \n\nSauf votre respect, je ne suis pas d'accord avec votre opinion.\n\
-  Mit Verlaub, ich bin nicht mit Ihrer Meinung einverstanden.\n\nMes respects! J'ai\
-  \ beaucoup apprécié votre conférence.\nMeine Verehrung! Ich habe Ihre Konferenz\
-  \ sehr geschätzt.\n\nAvec respect, je vous prie de bien vouloir me répondre à mon\
-  \ courrier.\nEhrerbietig bitte ich Sie, mir auf mein Schreiben zu antworten.\n\n\
-  On doit le respect aux personnes âgées.\nMan schuldet älteren Menschen Respekt.\n\
-  \nSon charisme et son intelligence imposent le respect à tous ceux qui la rencontrent.\n\
-  Ihr Charisma und ihre Intelligenz flößen allen, die sie treffen, Respekt ein.\n\n\
-  Manquer de respect à ses professeurs est un comportement inacceptable.\nSich gegenüber\
-  \ seinen Lehrern respektlos zu benehmen, ist ein inakzeptables Verhalten.\n\nPar\
-  \ respect pour la mémoire de son père, elle a décidé de ne pas vendre la maison.\n\
-  Aus Achtung vor dem Andenken ihres Vaters hat sie beschlossen, das Haus nicht zu\
-  \ verkaufen."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Il salua avec beaucoup de *respect*.
+  Er grüßte sehr *respektvoll*.
+
+  Les enfants n'ont plus de *respect* pour leurs aînés.
+  Die Kinder haben keinen *Respekt* mehr vor den Älteren.
+
+  Son attitude nous impose le *respect*.
+  Seine Haltung flößt uns *Respekt* ein.
+
+  "Sauf votre *respect*, je ne suis pas d'accord."
+  "Bei allem *Respekt*, ich bin nicht einverstanden."
+
+  Le *respect* des droits de l'homme est fondamental.
+  Die *Einhaltung* der Menschenrechte ist grundlegend.
+
+  Il faut montrer du *respect* envers les cultures différentes.
+  Man muss *Respekt* gegenüber anderen Kulturen zeigen.
+
+  Je vous présente mes *respects*, Madame la Directrice.
+  Ich überbringe Ihnen meine *Ehrerbietung*, Frau Direktorin.
+
+  Le *respect* de la parole donnée est essentiel.
+  Das *Einhalten* des gegebenen Wortes ist wesentlich.
+
+  Elle traite ses employés avec *respect*.
+  Sie behandelt ihre Angestellten mit *Respekt*.
+
+  Le *respect* des traditions est important dans sa famille.
+  Die *Wahrung* der Traditionen ist in ihrer Familie wichtig.
+
+  Le policier tenait le suspect en *respect*.
+  Der Polizist hielt den Verdächtigen in *Schach*.
+
+  Cette performance force le *respect*.
+  Diese Leistung nötigt *Respekt* ab.
+
+  Le *respect* de l'environnement devient crucial.
+  Der *respektvolle* Umgang mit der Umwelt wird immer wichtiger.
+
+  Il a manqué de *respect* envers son professeur.
+  Er hat sich seinem Lehrer gegenüber *respektlos* verhalten.
+
+  Par *respect* pour ses voisins, il baisse le volume.
+  Aus *Rücksicht* auf seine Nachbarn dreht er die Lautstärke herunter.
+
+  Le *respect* des horaires est primordial dans cette entreprise.
+  Die *Einhaltung* der Arbeitszeiten ist in diesem Unternehmen von größter Bedeutung.
+
+  Cette œuvre d'art mérite notre *respect*.
+  Dieses Kunstwerk verdient unseren *Respekt*.
+
+  Les élèves doivent le *respect* à leurs professeurs.
+  Die Schüler schulden ihren Lehrern *Respekt*.
+
+  Le *respect* mutuel est la base de toute relation.
+  Gegenseitiger *Respekt* ist die Grundlage jeder Beziehung.
+
+  Son travail inspire le *respect*.
+  Seine Arbeit flößt *Respekt* ein.
+
+  Le *respect* des règles est obligatoire.
+  Die *Einhaltung* der Regeln ist verpflichtend.
+
+  Elle a gagné le *respect* de ses collègues.
+  Sie hat den *Respekt* ihrer Kollegen gewonnen.
+
+  Le *respect* de soi est important pour le bien-être.
+  *Selbstachtung* ist wichtig für das Wohlbefinden.
+
+  Par *respect* pour les morts, ils gardaient le silence.
+  Aus *Respekt* vor den Toten bewahrten sie Stillschweigen.
+
+  Le *respect* du protocole est essentiel lors des cérémonies.
+  Die *Einhaltung* des Protokolls ist bei Zeremonien unerlässlich.
+
+  Nous devons gagner le *respect* des autres par nos actions.
+  Wir müssen uns den *Respekt* der anderen durch unsere Taten verdienen.
+
+  Le *respect* des délais est crucial dans ce projet.
+  Die *Einhaltung* der Fristen ist in diesem Projekt entscheidend.
+
+  Elle mérite notre *respect* pour son courage.
+  Sie verdient unseren *Respekt* für ihren Mut.
+
+  Le *respect* des lois n'est pas négociable.
+  Die *Einhaltung* der Gesetze ist nicht verhandelbar.
+
+  Cette décision montre un manque de *respect*.
+  Diese Entscheidung zeugt von mangelndem *Respekt*.
+
+  Le *respect* de la vie privée est un droit fondamental.
+  Die *Wahrung* der Privatsphäre ist ein Grundrecht.
+
+  Cette performance mérite le *respect*.
+  Diese Leistung verdient *Respekt*.
+
+  Le *respect* des engagements est primordial.
+  Die *Einhaltung* der Verpflichtungen ist von höchster Bedeutung.
+
+  Son *respect* pour la nature est admirable.
+  Sein *Respekt* vor der Natur ist bewundernswert.
+
+  Elle a perdu tout *respect* pour lui après cet incident.
+  Sie hat nach diesem Vorfall jeden *Respekt* vor ihm verloren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

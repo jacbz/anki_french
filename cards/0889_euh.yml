@@ -13,11 +13,41 @@ Register: ↘Fiktion ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il faut euh avoir euh une intention particulière.
-  Man muss äh eine äh bestimmte Absicht haben.
+  Il faut *euh* avoir *euh* une intention particulière.
+  Man braucht *äh* eine *äh* bestimmte Absicht.
 
-  Euh, je ne sais pas quoi dire.
-  Äh, ich weiß nicht, was ich sagen soll.
+  "*Euh*, je ne sais pas comment dire ça..."
+  "*Ähm*, ich weiß nicht, wie ich das sagen soll..."
+
+  "*Euh*, vous êtes sûr de vouloir faire ça ?"
+  "*Hm*, sind Sie sicher, dass Sie das tun wollen?"
+
+  Le professeur a demandé : "*Euh*, qui peut répondre à cette question ?"
+  Der Lehrer fragte: "*Äh*, wer kann diese Frage beantworten?"
+
+  "*Euh*... en fait, j'ai complètement oublié ce que je voulais dire."
+  "*Ähm*... eigentlich habe ich völlig vergessen, was ich sagen wollte."
+
+  "Comment s'appelle-t-il déjà ? *Euh*... Jean, je crois."
+  "Wie heißt er noch mal? *Äh*... Jean, glaube ich."
+
+  "*Euh*, non, ce n'est pas exactement ce que je voulais dire."
+  "*Ach*, nein, das ist nicht genau das, was ich sagen wollte."
+
+  "Est-ce qu'il est compétent ? – *Euh*..."
+  "Ist er kompetent? – *Hm*..."
+
+  "*Euh*, attendez, laissez-moi réfléchir une minute."
+  "*Äh*, warten Sie, lassen Sie mich kurz nachdenken."
+
+  "*Euh*, c'est-à-dire que... la situation est compliquée."
+  "*Nun ja*, also... die Situation ist kompliziert."
+
+  "Je voudrais *euh*... trois croissants, s'il vous plaît."
+  "Ich hätte gerne *äh*... drei Croissants, bitte."
+
+  "*Euh*, bon... Comment dire ? Ce n'est pas si simple."
+  "*Tja*, also... Wie soll ich sagen? Es ist nicht so einfach."
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

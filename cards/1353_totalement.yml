@@ -13,14 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les tribunaux russes sont totalement engorgés.
-  Die russischen Gerichte sind völlig überlastet.
+  Les tribunaux russes sont *totalement* engorgés.
+  Die russischen Gerichte sind *völlig* überlastet.
 
-  Je suis totalement d’accord avec toi.
-  Ich stimme dir vollständig zu.
+  La maison a été *totalement* détruite par l'incendie.
+  Das Haus wurde durch den Brand *vollständig* zerstört.
 
-  Le mien est totalement différent.
-  Meiner ist völlig anders.
+  Je suis *totalement* d'accord avec votre proposition.
+  Ich stimme Ihrem Vorschlag *vollkommen* zu.
+
+  Cette solution m'a *totalement* convaincu.
+  Diese Lösung hat mich *völlig* überzeugt.
+
+  Son comportement est *totalement* inacceptable.
+  Sein Verhalten ist *vollkommen* inakzeptabel.
+
+  Le projet a été *totalement* abandonné.
+  Das Projekt wurde *vollständig* aufgegeben.
+
+  Elle s'est *totalement* remise de sa maladie.
+  Sie hat sich von ihrer Krankheit *völlig* erholt.
+
+  Je suis *totalement* épuisé après cette longue journée.
+  Ich bin nach diesem langen Tag *vollkommen* erschöpft.
+
+  L'entreprise est *totalement* ruinée.
+  Das Unternehmen ist *völlig* ruiniert.
+
+  Cette méthode est *totalement* inefficace.
+  Diese Methode ist *vollkommen* unwirksam.
+
+  Il a *totalement* oublié notre rendez-vous.
+  Er hat unseren Termin *völlig* vergessen.
+
+  Le paysage était *totalement* différent il y a dix ans.
+  Die Landschaft war vor zehn Jahren *vollkommen* anders.
+
+  Le système a été *totalement* remanié.
+  Das System wurde *vollständig* überarbeitet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

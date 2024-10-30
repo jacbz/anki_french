@@ -13,32 +13,101 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les femmes ne dépendent plus autant des hommes.
-  Frauen sind nicht mehr so stark von Männern abhängig.
+  Les femmes ne *dépendent* plus autant des hommes.
+  Frauen sind nicht mehr so stark von Männern *abhängig*.
 
-  Tout dépend de toi.
-  Alles hängt von dir ab.
+  Tout *dépend* des circonstances économiques.
+  Alles *hängt* von den wirtschaftlichen Umständen *ab*.
 
-  L'équipe de football dépend de son entraîneur pour les stratégies de jeu.
-  Die Fussballmannschaft untersteht ihrem Trainer, was die Spielstrategien angeht.
+  "Ça *dépend*, je te dirai demain."
+  "Das *kommt drauf an*, ich sage es dir morgen."
 
-  Les îles des Caraïbes dépendent du tourisme pour leur économie.
-  Die karibischen Inseln gehören vom Standpunkt ihrer Wirtschaft aus zum Tourismus.
+  Le succès *dépend* de ton engagement personnel.
+  Der Erfolg *hängt* von deinem persönlichen Einsatz *ab*.
 
-  L'organisation de la fête dépend des circonstances, surtout du temps.
-  Die Organisation der Party hängt von den Umständen ab, vor allem vom Wetter.
+  Notre jardin *dépend* officiellement de la propriété voisine.
+  Unser Garten *gehört* offiziell zum Nachbargrundstück.
 
-  Il dépend de l'artiste de choisir les couleurs pour son tableau.
-  Es ist Sache des Künstlers, die Farben für sein Bild auszuwählen.
+  Il faut *dépendre* ce vieux tableau pour le restaurer.
+  Man muss dieses alte Gemälde *abnehmen*, um es zu restaurieren.
 
-  Il dépend de toi de réussir ton examen.
-  Es liegt an dir, ob du deine Prüfung bestehst.
+  Cette région *dépendait* autrefois de l'Espagne.
+  Diese Region *unterstand* früher Spanien.
 
-  Ça dépend ce que tu veux faire ce soir.
-  Es hängt davon ab, was du heute Abend machen willst.
+  Le résultat final *dépendra* de plusieurs facteurs.
+  Das Endergebnis wird von mehreren Faktoren *abhängen*.
 
-  Ça dépend du temps, si on va à la plage ou au musée.
-  Das hängt vom Wetter ab, ob wir an den Strand oder ins Museum gehen.
+  Notre équipe *dépend* directement du nouveau directeur.
+  Unser Team *untersteht* direkt dem neuen Direktor.
+
+  Il *dépend* de toi d'accepter ou de refuser cette offre.
+  Es *liegt* an dir, dieses Angebot anzunehmen oder abzulehnen.
+
+  Les étudiants *dépendent* souvent de leurs parents financièrement.
+  Studenten sind finanziell oft von ihren Eltern *abhängig*.
+
+  "Tu viens à la fête?" - "Ça *dépend* qui sera là."
+  "Kommst du zur Party?" - "Das *hängt davon ab*, wer da sein wird."
+
+  Notre départ *dépend* de la météo demain.
+  Unsere Abreise *hängt* vom Wetter morgen *ab*.
+
+  Ces petites entreprises *dépendent* des subventions de l'État.
+  Diese kleinen Unternehmen sind von staatlichen Zuschüssen *abhängig*.
+
+  La qualité du vin *dépend* beaucoup du climat.
+  Die Weinqualität *hängt* stark vom Klima *ab*.
+
+  Cette décision ne *dépend* pas de moi.
+  Diese Entscheidung *liegt* nicht bei mir.
+
+  Le bureau *dépend* du ministère des Finances.
+  Das Büro *untersteht* dem Finanzministerium.
+
+  La réussite ne *dépend* pas uniquement de la chance.
+  Der Erfolg *hängt* nicht nur vom Glück *ab*.
+
+  Il faut *dépendre* l'enseigne avant la tempête.
+  Man muss das Schild vor dem Sturm *abnehmen*.
+
+  Ces villages *dépendent* de l'agriculture locale.
+  Diese Dörfer sind von der lokalen Landwirtschaft *abhängig*.
+
+  Notre bonheur *dépend* souvent de petites choses.
+  Unser Glück *hängt* oft von kleinen Dingen *ab*.
+
+  Ce service *dépend* entièrement des bénévoles.
+  Dieser Service ist vollständig von Freiwilligen *abhängig*.
+
+  La date de livraison *dépendra* du fournisseur.
+  Das Lieferdatum wird vom Lieferanten *abhängen*.
+
+  Marie ne veut plus *dépendre* de ses parents.
+  Marie will nicht mehr von ihren Eltern *abhängig* sein.
+
+  Le prix final *dépendra* de la quantité commandée.
+  Der Endpreis wird von der bestellten Menge *abhängen*.
+
+  Cette décision *dépend* du conseil d'administration.
+  Diese Entscheidung *liegt* beim Vorstand.
+
+  "On fait un pique-nique?" - "Ça *dépend* du temps."
+  "Machen wir ein Picknick?" - "Das *hängt* vom Wetter *ab*."
+
+  Notre avenir *dépend* des choix que nous faisons aujourd'hui.
+  Unsere Zukunft *hängt* von den Entscheidungen ab, die wir heute treffen.
+
+  Ces territoires *dépendent* encore de la couronne.
+  Diese Gebiete *unterstehen* noch der Krone.
+
+  Je ne veux plus *dépendre* de personne.
+  Ich will von niemandem mehr *abhängig* sein.
+
+  L'horaire du vol *dépend* des conditions météorologiques.
+  Die Flugzeit *hängt* von den Wetterbedingungen *ab*.
+
+  Pierre *dépend* trop de son téléphone portable.
+  Pierre ist zu stark von seinem Handy *abhängig*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

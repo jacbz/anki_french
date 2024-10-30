@@ -13,35 +13,101 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ces bourses s’adressent à des étudiants.
-  Diese Stipendien richten sich an Studierende.
+  Ces bourses *s'adressent* à des étudiants.
+  Diese Stipendien *richten sich* an Studierende.
 
-  Je vais adresser une lettre à mon ami.
-  Ich werde meinem Freund einen Brief schicken.
+  Je vous *adresse* mes meilleurs vœux pour la nouvelle année.
+  Ich *sende* Ihnen meine besten Wünsche zum neuen Jahr.
 
-  Elle a adressé une lettre à son ami, qui était en voyage d'affaires.
-  Sie hat ihrem Freund, der auf Geschäftsreise war, einen Brief geschickt.
+  Mon médecin m'a *adressé* à un cardiologue.
+  Mein Arzt hat mich an einen Kardiologen *überwiesen*.
 
-  Ce compliment s'adresse à toi, car tu as fait un excellent travail.
-  Dieses Kompliment gilt dir, weil du eine ausgezeichnete Arbeit geleistet hast.
+  Elle n'a pas osé lui *adresser* la parole.
+  Sie hat nicht gewagt, ihn *anzusprechen*.
 
-  Elle a adressé un reproche à son fils, qui était arrivé en retard.
-  Sie hat ihrem Sohn, der zu spät gekommen war, einen Vorwurf gemacht.
+  Pierre m'a *adressé* un sourire chaleureux.
+  Pierre hat mir herzlich *zugelächelt*.
 
-  Le médecin a adressé le patient à un spécialiste pour un deuxième avis.
-  Der Arzt hat den Patienten zu einem Spezialisten geschickt, um eine zweite Meinung einzuholen.
+  Il faut *s'adresser* à l'accueil pour plus d'informations.
+  Man muss sich für weitere Informationen an den Empfang *wenden*.
 
-  Elle lui a adressé un regard plein de tendresse.
-  Sie warf ihm einen Blick voller Zärtlichkeit zu.
+  Je vous *adresse* ce colis en port dû.
+  Ich *schicke* Ihnen dieses Paket unfrei.
 
-  Elle a adressé un sourire timide à son interlocuteur.
-  Sie lächelte ihren Gesprächspartner schüchtern an.
+  Cette remarque ne *s'adressait* pas à toi.
+  Diese Bemerkung war nicht für dich *bestimmt*.
 
-  Il a adressé la parole à la foule, pour les remercier de leur soutien.
-  Er richtete das Wort an die Menge, um ihr für ihre Unterstützung zu danken.
+  Marie lui a *adressé* un regard noir.
+  Marie hat ihm einen bösen Blick *zugeworfen*.
 
-  Elle a adressé une remarque à son collègue, qui travaillait trop vite.
-  Sie machte ihrem Kollegen gegenüber eine Bemerkung, weil er zu schnell arbeitete.
+  Le directeur a *adressé* une circulaire à tous les employés.
+  Der Direktor hat ein Rundschreiben an alle Mitarbeiter *geschickt*.
+
+  Veuillez *s'adresser* au service clientèle.
+  Bitte *wenden* Sie sich an den Kundenservice.
+
+  Il m'a *adressé* des reproches injustifiés.
+  Er hat mir ungerechtfertigte Vorwürfe *gemacht*.
+
+  *S'adressez*-vous directement au responsable.
+  *Wenden* Sie sich direkt an den Verantwortlichen.
+
+  Elle *s'adresse* toujours poliment à ses professeurs.
+  Sie *spricht* ihre Lehrer immer höflich *an*.
+
+  Je vous *adresse* mes sincères condoléances.
+  Ich *spreche* Ihnen mein aufrichtiges Beileid *aus*.
+
+  Cette publicité *s'adresse* aux jeunes.
+  Diese Werbung *richtet sich* an junge Leute.
+
+  Il n'a pas *adressé* un mot à sa sœur de toute la soirée.
+  Er hat den ganzen Abend kein Wort an seine Schwester *gerichtet*.
+
+  Le patron m'a *adressé* ses félicitations.
+  Der Chef hat mir seine Glückwünsche *ausgesprochen*.
+
+  Je vais *adresser* ma lettre de démission aujourd'hui.
+  Ich werde heute mein Kündigungsschreiben *abschicken*.
+
+  *S'adressons* à sa conscience pour le convaincre.
+  Lasst uns an sein Gewissen *appellieren*.
+
+  Elle m'a *adressé* un petit signe de la main.
+  Sie hat mir kurz *zugewinkt*.
+
+  Le professeur *adresse* ses commentaires à toute la classe.
+  Der Lehrer *richtet* seine Kommentare an die ganze Klasse.
+
+  Je dois *adresser* ce formulaire avant vendredi.
+  Ich muss dieses Formular bis Freitag *einreichen*.
+
+  Il *s'adresse* toujours au bon Dieu dans ses prières.
+  Er *wendet* sich in seinen Gebeten immer an Gott.
+
+  Cette formation *s'adresse* aux débutants.
+  Diese Schulung *richtet sich* an Anfänger.
+
+  Le médecin m'a *adressé* à un spécialiste pour des examens complémentaires.
+  Der Arzt hat mich für weitere Untersuchungen an einen Spezialisten *überwiesen*.
+
+  Elle lui a *adressé* un compliment sur sa nouvelle coupe de cheveux.
+  Sie hat ihm ein Kompliment über seinen neuen Haarschnitt *gemacht*.
+
+  Je vais *adresser* ma demande au service des ressources humaines.
+  Ich werde meinen Antrag an die Personalabteilung *schicken*.
+
+  Il m'a *adressé* ses excuses par mail.
+  Er hat mir seine Entschuldigung per E-Mail *geschickt*.
+
+  Le président a *adressé* un discours à la nation.
+  Der Präsident hat eine Rede an die Nation *gerichtet*.
+
+  *Adressez*-vous à la mairie pour obtenir ce document.
+  *Wenden* Sie sich für dieses Dokument an das Rathaus.
+
+  Cette chanson *s'adresse* à tous les amoureux.
+  Dieses Lied ist für alle Verliebten *bestimmt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

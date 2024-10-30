@@ -13,29 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’arrivais dans un club qui avait gagné deux championnats.
-  Ich kam zu einem Verein, der zwei Meisterschaften gewonnen hatte.
+  J'arrivais dans un *club* qui avait gagné deux championnats.
+  Ich kam zu einem *Verein*, der zwei Meisterschaften gewonnen hatte.
 
-  Je suis membre d’un club de sport.
-  Ich bin Mitglied in einem Sportverein.
+  Le *club* de tennis cherche de nouveaux membres pour la saison à venir.
+  Der Tennis*klub* sucht neue Mitglieder für die kommende Saison.
 
-  J'ai rejoint le club de tennis de table de mon quartier.
-  Ich bin dem Tischtennisklub in meiner Nachbarschaft beigetreten.
+  Elle s'est inscrite dans un *club* de voile pour apprendre à naviguer.
+  Sie ist einem Segel*klub* beigetreten, um segeln zu lernen.
 
-  Le club de vacances était situé dans une petite ville côtière.
-  Der Ferienklub lag in einem kleinen Küstenort.
+  Mon père est membre d'un *club* réservé aux hommes depuis vingt ans.
+  Mein Vater ist seit zwanzig Jahren Mitglied in einem Herren*klub*.
 
-  Mon père était membre du club de voile.
-  Mein Vater war Mitglied des Segelklubs.
+  Les seniors se réunissent chaque mardi au *club* du troisième âge.
+  Die Senioren treffen sich jeden Dienstag im Senioren*klub*.
 
-  Le club réservé aux hommes n'acceptait pas les femmes.
-  Der Herrenklub nahm keine Frauen auf.
+  La salle du *club* peut accueillir jusqu'à cent personnes.
+  Der *Klub*raum bietet Platz für bis zu hundert Personen.
 
-  Le club du troisième âge organisait des excursions et des jeux.
-  Der Seniorenbund organisierte Ausflüge und Spiele.
+  Son appartenance au *club* lui donne accès à toutes les installations sportives.
+  Seine *Vereins*mitgliedschaft gibt ihm Zugang zu allen Sportanlagen.
 
-  L'appartenance à un club permet de rencontrer de nouvelles personnes.
-  Die Vereinsmitgliedschaft ermöglicht es, neue Leute kennenzulernen.
+  Le caddie porte les *clubs* de golf du joueur professionnel.
+  Der Caddie trägt die Golf*schläger* des Profispielers.
+
+  Nous avons acheté un nouveau fauteuil *club* pour le salon.
+  Wir haben einen neuen *Club*sessel fürs Wohnzimmer gekauft.
+
+  Le *club* des Jacobins a joué un rôle important pendant la Révolution française.
+  Der Jakobiner*klub* spielte während der Französischen Revolution eine wichtige Rolle.
+
+  Notre *club* de lecture se réunit une fois par mois pour discuter d'un livre.
+  Unser Lese*klub* trifft sich einmal im Monat, um über ein Buch zu diskutieren.
+
+  Je choisis soigneusement mon *club* avant chaque coup au golf.
+  Ich wähle meinen *Schläger* vor jedem Schlag beim Golf sorgfältig aus.
+
+  L'hôtel *club* propose des activités pour toute la famille.
+  Das *Club*hotel bietet Aktivitäten für die ganze Familie.
+
+  Le *club* bouliste organise un grand tournoi ce weekend.
+  Der Boule*klub* organisiert dieses Wochenende ein großes Turnier.
+
+  Le président du *club* a annoncé sa démission hier soir.
+  Der *Klub*präsident hat gestern Abend seinen Rücktritt angekommen.
+
+  Il porte fièrement la cravate de son *club* aux réunions importantes.
+  Er trägt bei wichtigen Treffen stolz seine *Klub*krawatte.
+
+  Notre *club* d'échecs participera au championnat régional.
+  Unser Schach*klub* wird an der regionalen Meisterschaft teilnehmen.
+
+  Le *club* de natation s'entraîne tous les matins à six heures.
+  Der Schwimm*verein* trainiert jeden Morgen um sechs Uhr.
+
+  Ce *club* du livre propose une sélection mensuelle de nouveautés.
+  Dieser Buch*klub* bietet monatlich eine Auswahl an Neuerscheinungen.
+
+  Les membres du *club* d'investissement se réunissent chaque trimestre.
+  Die Mitglieder des Investment*clubs* treffen sich vierteljährlich.
+
+  Je déjeune souvent au *club* avec mes collègues.
+  Ich esse oft mit meinen Kollegen im *Club*.
+
+  Le *club* de table tennis organise des cours pour débutants.
+  Der Tischtennis*klub* organisiert Kurse für Anfänger.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

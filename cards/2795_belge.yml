@@ -13,11 +13,38 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous voudrions féliciter la présidence belge pour l’initiative.
-  Wir möchten die belgische Präsidentschaft zu dieser Initiative beglückwünschen.
+  Nous voudrions féliciter la présidence *belge* pour l'initiative.
+  Wir möchten der *belgischen* Präsidentschaft zu dieser Initiative gratulieren.
 
-  Je suis belge.
-  Ich bin Belgierin.
+  Le chocolat *belge* est réputé dans le monde entier.
+  Die *belgische* Schokolade ist weltweit bekannt.
+
+  Les *Belges* ont voté massivement aux élections européennes.
+  Die *Belgier* haben bei der Europawahl zahlreich abgestimmt.
+
+  Cette *Belge* a remporté trois médailles aux Jeux olympiques.
+  Diese *Belgierin* hat bei den Olympischen Spielen drei Medaillen gewonnen.
+
+  L'équipe nationale *belge* a bien joué pendant le match.
+  Die *belgische* Nationalmannschaft hat während des Spiels gut gespielt.
+
+  Mon collègue *belge* m'a invité à visiter Bruxelles.
+  Mein *belgischer* Kollege hat mich nach Brüssel eingeladen.
+
+  La bière *belge* est excellente, surtout la trappiste.
+  Das *belgische* Bier ist ausgezeichnet, besonders das Trappistenbier.
+
+  Les entreprises *belges* investissent beaucoup dans l'innovation.
+  *Belgische* Unternehmen investieren viel in Innovation.
+
+  La littérature *belge* francophone est très riche.
+  Die französischsprachige *belgische* Literatur ist sehr reichhaltig.
+
+  Un artiste *belge* exposera ses œuvres dans notre galerie.
+  Ein *belgischer* Künstler wird seine Werke in unserer Galerie ausstellen.
+
+  Les BD *belges* comme Tintin sont célèbres dans le monde entier.
+  *Belgische* Comics wie Tim und Struppi sind weltweit berühmt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle avait effectué trois jours de prison.
-  Sie hatte drei Tage im Gefängnis abgesessen.
+  Elle avait *effectué* trois jours de prison.
+  Sie hatte drei Tage Gefängnis *abgesessen*.
 
-  Nous devons effectuer une enquête.
-  Wir müssen eine Untersuchung durchführen.
+  L'entreprise *effectue* un investissement de 500 000 euros.
+  Das Unternehmen *tätigt* eine Investition von 500.000 Euro.
+
+  Le client doit *effectuer* le paiement avant la fin du mois.
+  Der Kunde muss die Zahlung vor Monatsende *leisten*.
+
+  Notre avion *effectuera* un parcours de 8000 kilomètres.
+  Unser Flugzeug wird eine Strecke von 8000 Kilometern *zurücklegen*.
+
+  Le gouvernement *effectue* des réformes importantes dans l'éducation.
+  Die Regierung *führt* wichtige Reformen im Bildungswesen *durch*.
+
+  La livraison s'*effectuera* dans les trois jours ouvrables.
+  Die Lieferung wird innerhalb von drei Werktagen *erfolgen*.
+
+  Cette transaction s'*effectue* uniquement en ligne.
+  Diese Transaktion wird ausschließlich online *abgewickelt*.
+
+  Le mouvement s'*effectue* lentement mais sûrement.
+  Die Bewegung wird langsam aber sicher *ausgeführt*.
+
+  La police *effectue* une enquête approfondie sur l'incident.
+  Die Polizei *führt* eine gründliche Untersuchung des Vorfalls *durch*.
+
+  Il a *effectué* toutes ses promesses de campagne.
+  Er hat alle seine Wahlversprechen *eingehalten*.
+
+  Le chirurgien *effectue* une opération délicate.
+  Der Chirurg *führt* eine heikle Operation *durch*.
+
+  La rentrée scolaire s'est *effectuée* sans problèmes.
+  Der Schulbeginn ist reibungslos *verlaufen*.
+
+  Les étudiants *effectuent* des calculs complexes.
+  Die Studenten *führen* komplexe Berechnungen *aus*.
+
+  Le conducteur *effectue* une manœuvre dangereuse.
+  Der Fahrer *führt* ein gefährliches Manöver *aus*.
+
+  La mise à jour du système s'*effectue* automatiquement.
+  Die Systemaktualisierung *erfolgt* automatisch.
+
+  L'équipe *effectue* des tests rigoureux sur le nouveau produit.
+  Das Team *führt* gründliche Tests am neuen Produkt *durch*.
+
+  Le transfert d'argent s'*effectuera* instantanément.
+  Die Geldüberweisung wird sofort *erfolgen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

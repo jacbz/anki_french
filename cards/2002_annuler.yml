@@ -13,17 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il a dû annuler un voyage.
-  Er musste eine Reise absagen.
+  Il a dû *annuler* un voyage.
+  Er musste eine Reise *absagen*.
 
-  J’ai dû annuler ma réservation.
-  Ich musste meine Reservierung stornieren.
+  J'ai *annulé* ma commande car le produit était trop cher.
+  Ich habe meine Bestellung *storniert*, weil das Produkt zu teuer war.
 
-  Jean a décidé d'annuler le contrat avec la société de construction.
-  Jean hat beschlossen, den Vertrag mit der Baufirma rückgängig zu machen.
+  Le médecin a *annulé* tous ses rendez-vous de l'après-midi.
+  Der Arzt hat alle seine Termine am Nachmittag *abgesagt*.
 
-  Le concert a été annulé en raison de la météo.
-  Das Konzert wurde aufgrund des Wetters abgebrochen.
+  La compagnie aérienne a *annulé* notre vol en raison du mauvais temps.
+  Die Fluggesellschaft hat unseren Flug wegen des schlechten Wetters *gecancelt*.
+
+  Le tribunal a *annulé* le mariage pour vice de forme.
+  Das Gericht hat die Ehe wegen eines Formfehlers *annulliert*.
+
+  Les deux équipes ont convenu d'*annuler* le match à cause de la pluie.
+  Die beiden Teams haben vereinbart, das Spiel wegen des Regens *abzusagen*.
+
+  Veuillez *annuler* ma réservation pour ce soir.
+  Bitte *stornieren* Sie meine Reservierung für heute Abend.
+
+  La banque a *annulé* ma dette après plusieurs années de remboursement.
+  Die Bank hat meine Schulden nach mehreren Jahren der Rückzahlung *bereinigt*.
+
+  Le système a automatiquement *annulé* l'impression du document.
+  Das System hat den Druckauftrag automatisch *abgebrochen*.
+
+  La connexion internet s'est *annulée* de façon inattendue.
+  Die Internetverbindung wurde unerwartet *abgebrochen*.
+
+  Ces deux forces opposées s'*annulent* parfaitement.
+  Diese beiden entgegengesetzten Kräfte *heben* sich gegenseitig *auf*.
+
+  La cour d'appel a *annulé* le jugement précédent.
+  Das Berufungsgericht hat das vorherige Urteil *aufgehoben*.
+
+  Je dois *annuler* le contrat car les conditions ont changé.
+  Ich muss den Vertrag *rückgängig machen*, weil sich die Bedingungen geändert haben.
+
+  Comment puis-je *annuler* cette tâche d'impression ?
+  Wie kann ich diesen Druckauftrag *löschen*?
+
+  L'université a dû *annuler* tous les cours en présentiel.
+  Die Universität musste allen Präsenzunterricht *absagen*.
+
+  Le restaurant nous a *annulé* la facture suite à l'erreur du serveur.
+  Das Restaurant hat die Rechnung wegen des Kellnerfehlers *storniert*.
+
+  Les élections ont été *annulées* en raison d'irrégularités.
+  Die Wahlen wurden wegen Unregelmäßigkeiten *annulliert*.
+
+  Le notaire a *annulé* le testament pour vice de forme.
+  Der Notar hat das Testament wegen eines Formfehlers *aufgehoben*.
+
+  Nous devons *annuler* la fête à cause du mauvais temps.
+  Wir müssen die Party wegen des schlechten Wetters *absagen*.
+
+  La société a *annulé* ma commande sans m'en informer.
+  Die Firma hat meine Bestellung ohne Information an mich *storniert*.
+
+  Le directeur a *annulé* la réunion à la dernière minute.
+  Der Direktor hat die Besprechung in letzter Minute *abgesagt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

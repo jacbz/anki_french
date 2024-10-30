@@ -13,11 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis officiellement une étudiante en première année.
-  Ich bin offiziell eine Studentin im ersten Studienjahr.
+  Je suis *officiellement* une étudiante en première année.
+  Ich bin *offiziell* eine Studentin im ersten Jahr.
 
-  Le résultat sera annoncé officiellement demain.
-  Das Ergebnis wird offiziell morgen bekannt gegeben.
+  La réunion commencera *officiellement* à 14 heures.
+  Die Sitzung beginnt *offiziell* um 14 Uhr.
+
+  Le nouveau président a été *officiellement* investi hier soir.
+  Der neue Präsident wurde gestern Abend *offiziell* vereidigt.
+
+  Elle n'a pas encore *officiellement* accepté le poste.
+  Sie hat die Stelle noch nicht *offiziell* angenommen.
+
+  Le musée sera *officiellement* ouvert au public demain matin.
+  Das Museum wird morgen früh *offiziell* für die Öffentlichkeit eröffnet.
+
+  J'ai été *officiellement* nommée directrice de l'école.
+  Ich wurde *offiziell* zur Schulleiterin ernannt.
+
+  Le gouvernement a *officiellement* démenti ces rumeurs.
+  Die Regierung hat diese Gerüchte *offiziell* dementiert.
+
+  L'entreprise a *officiellement* déclaré faillite ce matin.
+  Das Unternehmen hat heute Morgen *offiziell* Insolvenz angemeldet.
+
+  Ils ne sont pas encore *officiellement* mariés.
+  Sie sind noch nicht *offiziell* verheiratet.
+
+  La construction du nouveau stade est *officiellement* terminée.
+  Der Bau des neuen Stadions ist *offiziell* abgeschlossen.
+
+  Le pays a *officiellement* protesté contre cette décision.
+  Das Land hat gegen diese Entscheidung *offiziell* protestiert.
+
+  Notre équipe a été *officiellement* qualifiée pour la finale.
+  Unser Team hat sich *offiziell* für das Finale qualifiziert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

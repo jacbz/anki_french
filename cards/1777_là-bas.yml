@@ -13,11 +13,50 @@ Register: ↘Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il y a deux mecs là-bas qui vous cherchent.
-  Dort sind zwei Typen, die nach Ihnen suchen.
+  Il y a deux mecs *là-bas* qui vous cherchent.
+  *Dort drüben* sind zwei Typen, die nach Ihnen suchen.
 
-  Je vais là-bas demain.
-  Ich gehe morgen dorthin.
+  Je vais *là-bas* pour mes vacances d'été.
+  Ich fahre im Sommer *dorthin* in den Urlaub.
+
+  Regarde *là-bas*, tu vois cette belle maison rouge ?
+  Schau mal *da drüben*, siehst du das schöne rote Haus?
+
+  *Là-bas*, dans la vallée, on aperçoit un petit village.
+  *Dort unten* im Tal kann man ein kleines Dorf erkennen.
+
+  Ne va pas *là-bas*, c'est dangereux !
+  Geh nicht *dorthin*, es ist gefährlich!
+
+  Ma grand-mère habite *là-bas* depuis vingt ans.
+  Meine Großmutter wohnt seit zwanzig Jahren *dort*.
+
+  C'est *là-bas* que j'ai rencontré mon mari.
+  *Dort* habe ich meinen Mann kennengelernt.
+
+  Les enfants jouent *là-bas* dans le parc.
+  Die Kinder spielen *dort drüben* im Park.
+
+  Tu vois la montagne *là-bas* ? On va y aller demain.
+  Siehst du den Berg *da hinten*? Morgen gehen wir dort hin.
+
+  Pose ça *là-bas*, sur l'étagère.
+  Leg das *dort drüben* auf das Regal.
+
+  *Là-bas*, au bout de la rue, il y a une boulangerie.
+  *Dort hinten* am Ende der Straße ist eine Bäckerei.
+
+  J'aimerais bien vivre *là-bas* un jour.
+  Ich würde gerne eines Tages *dort* leben.
+
+  On ne peut pas aller *là-bas* en voiture.
+  Man kann nicht mit dem Auto *dorthin* fahren.
+
+  *Là-bas*, derrière les arbres, j'ai vu quelque chose bouger.
+  *Dort hinten* hinter den Bäumen habe ich etwas sich bewegen sehen.
+
+  Les oiseaux migrent *là-bas* chaque hiver.
+  Die Vögel ziehen jeden Winter *dorthin*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

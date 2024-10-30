@@ -13,26 +13,68 @@ Register: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tu nous as manqué, hier soir.
-  Wir haben dich gestern Abend vermisst.
+  Tu nous as manqué, *hier* soir.
+  Du hast uns *gestern* Abend gefehlt.
 
-  Je suis allé au cinéma hier.
-  Ich bin gestern ins Kino gegangen.
+  J'ai reçu votre message *hier* matin.
+  Ich habe Ihre Nachricht *gestern* Morgen erhalten.
 
-  Nous avons fait ça hier.
-  Wir haben das gestern gemacht.
+  La réunion d'*hier* s'est très bien passée.
+  Die *gestrige* Versammlung ist sehr gut gelaufen.
 
-  Hier soir, j'ai rencontré un ami que je ne connaissais que d'hier.
-  Gestern Abend habe ich einen Freund getroffen, den ich erst seit kurzem kenne.
+  *Hier* fut un jour mémorable dans l'histoire de notre ville.
+  *Gestern* war ein denkwürdiger Tag in der Geschichte unserer Stadt.
 
-  Hier matin, j'ai passé la matinée d'hier à la plage.
-  Gestern Morgen habe ich den gestrigen Vormittag am Strand verbracht.
+  Il a passé tout *hier* à préparer son examen.
+  Er hat den ganzen Tag *gestern* damit verbracht, sich auf seine Prüfung vorzubereiten.
 
-  La réunion d'hier a été très productive.
-  Die Versammlung von gestern war sehr produktiv.
+  La journée d'*hier* était vraiment épuisante.
+  Der *gestrige* Tag war wirklich anstrengend.
 
-  Ce roman ne date pas d'hier.
-  Dieser Roman ist nicht neu.
+  Je me souviens de cette conversation comme si c'était *hier*.
+  Ich erinnere mich an dieses Gespräch, als wäre es *gestern* gewesen.
+
+  "Cette histoire ne date pas d'*hier*!"
+  "Diese Geschichte ist nicht von *gestern*!"
+
+  Les enfants sont rentrés *hier* au soir complètement trempés.
+  Die Kinder kamen *gestern* Abend völlig durchnässt nach Hause.
+
+  La matinée d'*hier* a été très productive.
+  Der *gestrige* Vormittag war sehr produktiv.
+
+  Le journal d'*hier* est encore sur la table.
+  Die *gestrige* Zeitung liegt noch auf dem Tisch.
+
+  "Je ne suis pas né d'*hier*, tu sais!"
+  "Ich bin nicht von *gestern*, weißt du!"
+
+  Ces technologies, *hier* encore inconnues, font maintenant partie de notre quotidien.
+  Diese bis *gestern* noch unbekannten Technologien gehören jetzt zu unserem Alltag.
+
+  Nous nous sommes rencontrés *hier* pour la première fois.
+  Wir haben uns *gestern* zum ersten Mal getroffen.
+
+  Marie et Thomas ne se connaissent que d'*hier*.
+  Marie und Thomas kennen sich erst seit *gestern*.
+
+  *Hier* matin, j'ai fait une longue promenade dans le parc.
+  *Gestern* Morgen habe ich einen langen Spaziergang im Park gemacht.
+
+  Il est parti *hier* sans dire au revoir.
+  Er ist *gestern* gegangen, ohne sich zu verabschieden.
+
+  J'ai commencé ce nouveau livre *hier* soir.
+  Ich habe *gestern* Abend mit diesem neuen Buch angefangen.
+
+  *Hier*, à la même heure, nous étions encore en vacances.
+  *Gestern* um die gleiche Zeit waren wir noch im Urlaub.
+
+  Le temps était bien meilleur *hier*.
+  Das Wetter war *gestern* viel besser.
+
+  As-tu vu les photos que j'ai prises *hier*?
+  Hast du die Fotos gesehen, die ich *gestern* gemacht habe?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

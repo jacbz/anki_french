@@ -13,23 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le terrorisme n’est jamais inévitable.
-  Terrorismus ist nie unvermeidbar.
+  Le terrorisme n'est jamais *inévitable*.
+  Terrorismus ist niemals *unvermeidlich*.
 
-  La mort est l’inévitable.
-  Der Tod ist unvermeidlich.
+  La rencontre avec son ancienne amie était *inévitable* lors de la réunion.
+  Das Treffen mit ihrer alten Freundin war bei der Versammlung *unvermeidlich*.
 
-  Le retard était inévitable.
-  Die Verzögerung war unvermeidlich.
+  Face à cette situation, certaines conséquences sont *inévitables*.
+  Angesichts dieser Situation sind bestimmte Folgen *unabwendbar*.
 
-  Le caractère inévitable des événements nous rappelle que certains choses sont hors de notre contrôle.
-  Die Zwangsläufigkeit der Ereignisse erinnert uns daran, dass manche Dinge außerhalb unserer Kontrolle liegen.
+  Avec ce temps glacial, les embouteillages étaient *inévitables*.
+  Bei diesem eisigen Wetter waren die Staus *vorprogrammiert*.
 
-  La mort est l'inévitable.
-  Der Tod ist das Unvermeidliche.
+  L'augmentation des prix semble *inévitable* dans les mois à venir.
+  Die Preiserhöhung scheint in den kommenden Monaten *unvermeidbar*.
 
-  Il est inévitable que cela se produise, car les conditions sont réunies.
-  Es ist nicht zu vermeiden, dass das vorkommt, denn die Voraussetzungen sind gegeben.
+  Cette opération chirurgicale est devenue *inévitable*.
+  Diese Operation ist *unumgänglich* geworden.
+
+  Jean a accepté *l'inévitable* avec beaucoup de courage.
+  Jean hat das *Unvermeidliche* sehr tapfer akzeptiert.
+
+  Une collision était *inévitable* vu la vitesse des deux voitures.
+  Ein Zusammenstoß war bei der Geschwindigkeit der beiden Autos *unausweichlich*.
+
+  Les changements climatiques auront des conséquences *inévitables*.
+  Der Klimawandel wird *zwangsläufige* Folgen haben.
+
+  Marie était accompagnée de son *inévitable* chat siamois.
+  Marie wurde von ihrer wie immer *unvermeidlichen* Siamkatze begleitet.
+
+  L'échec du projet était *inévitable* dès le début.
+  Das Scheitern des Projekts war von Anfang an *vorprogrammiert*.
+
+  Il faut accepter les retards *inévitables* dans les transports en commun.
+  Man muss die *unvermeidlichen* Verspätungen im öffentlichen Verkehr akzeptieren.
+
+  Les erreurs sont *inévitables* quand on apprend une nouvelle langue.
+  Fehler sind beim Lernen einer neuen Sprache *unvermeidbar*.
+
+  La défaite de l'équipe était *inévitable* vu leur mauvaise préparation.
+  Die Niederlage der Mannschaft war aufgrund ihrer schlechten Vorbereitung *unausweichlich*.
+
+  Ce conflit entre les deux pays semblait *inévitable*.
+  Dieser Konflikt zwischen den beiden Ländern schien *unvermeidlich*.
+
+  Les questions difficiles sont *inévitables* pendant l'examen.
+  Schwierige Fragen sind in der Prüfung *unumgänglich*.
+
+  *L'inévitable* s'est produit : il a perdu son emploi.
+  Das *Unvermeidliche* ist eingetreten: Er hat seinen Job verloren.
+
+  Le bruit est *inévitable* pendant les travaux de construction.
+  Der Lärm ist während der Bauarbeiten *unvermeidbar*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

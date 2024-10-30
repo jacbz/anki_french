@@ -13,38 +13,104 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle a le don de communiquer avec la musique.
-  Sie hat die Gabe, mit Musik zu kommunizieren.
+  Elle a le *don* de communiquer avec la musique.
+  Sie hat die *Gabe*, durch Musik zu kommunizieren.
 
-  Il a fait un don à une association caritative.
-  Er hat eine Spende an eine Wohltätigkeitsorganisation gemacht.
+  Nous avons fait un *don* à l'association caritative.
+  Wir haben der Wohltätigkeitsorganisation eine *Spende* zukommen lassen.
 
-  La musique est un don de Dieu.
-  Musik ist ein Geschenk Gottes.
+  Le professeur a fait *don* de ses livres à la bibliothèque.
+  Der Lehrer hat der Bibliothek seine Bücher *geschenkt*.
 
-  Pierre a le don de faire rire tout le monde.
-  Pierre hat die Gabe, jeden zum Lachen zu bringen.
+  Marc a le *don* pour les langues étrangères.
+  Marc ist für Fremdsprachen *begabt*.
 
-  J'ai fait un don à la Croix-Rouge pour aider les victimes du tremblement de terre.
-  Ich habe der Roten Kreuz eine Spende zukommen lassen, um den Opfern des Erdbebens zu helfen.
+  Elle a fait un *don* anonyme de 500 euros.
+  Sie hat anonym 500 Euro *gespendet*.
 
-  Elle a fait don de ses vieux vêtements à une association caritative.
-  Sie hat ihre alten Kleider einer Wohltätigkeitsorganisation geschenkt.
+  Il a le *don* de la parole et sait convaincre son auditoire.
+  Er ist *rhetorisch begabt* und kann sein Publikum überzeugen.
 
-  Le scientifique a fait don de son corps à la science pour la recherche médicale.
-  Der Wissenschaftler hat seinen Körper der Wissenschaft für die medizinische Forschung zur Verfügung gestellt.
+  Ces talents extraordinaires sont des *dons* du ciel.
+  Diese außergewöhnlichen Talente sind *Gaben* des Himmels.
 
-  Le don en argent est une pratique courante lors des mariages.
-  Das Geldgeschenk ist bei Hochzeiten eine gängige Praxis.
+  La fondation a reçu de nombreux *dons* cette année.
+  Die Stiftung hat dieses Jahr viele *Spenden* erhalten.
 
-  La personne chargée de collecter les dons a récolté plus de 1000 euros.
-  Die Spendensammlerin hat über 1000 Euro gesammelt.
+  "Tu as vraiment le *don* de m'énerver !"
+  "Du hast echt die *Gabe*, mich auf die Palme zu bringen!"
 
-  Julie a un don pour la peinture, ses œuvres sont magnifiques.
-  Julie ist begabt im Malen, ihre Werke sind wunderschön.
+  Les *dons* du public ont permis de sauver le théâtre.
+  Die *Spenden* der Öffentlichkeit haben das Theater gerettet.
 
-  Le chef d'État a le don de la parole, il sait captiver son audience.
-  Der Staatschef ist rhetorisch begabt, er weiß, wie man sein Publikum fesselt.
+  Elle fait *don* de son temps aux personnes âgées.
+  Sie *schenkt* älteren Menschen ihre Zeit.
+
+  Cet artiste a un *don* exceptionnel pour la peinture.
+  Dieser Künstler hat eine außergewöhnliche *Begabung* für die Malerei.
+
+  Les *dons* en nature sont également acceptés.
+  *Sachspenden* werden ebenfalls angenommen.
+
+  J'admire son *don* de soi pour cette cause.
+  Ich bewundere ihre *Aufopferung* für diese Sache.
+
+  Le musée a reçu un généreux *don* d'œuvres d'art.
+  Das Museum hat eine großzügige Kunst*spende* erhalten.
+
+  Il possède le *don* rare de faire rire tout le monde.
+  Er besitzt die seltene *Gabe*, alle zum Lachen zu bringen.
+
+  Les *dons* de sang sauvent des vies chaque jour.
+  Blut*spenden* retten jeden Tag Leben.
+
+  Cette région est bénie par les *dons* de la nature.
+  Diese Region ist mit den *Gaben* der Natur gesegnet.
+
+  Nous collectons des *dons* pour les victimes de l'incendie.
+  Wir sammeln *Spenden* für die Brandopfer.
+
+  Son *don* pour les mathématiques s'est révélé très tôt.
+  Seine *Begabung* für Mathematik zeigte sich sehr früh.
+
+  Elle a fait *don* de ses organes après sa mort.
+  Sie hat ihre Organe nach ihrem Tod *gespendet*.
+
+  Les *dons* en espèces sont déductibles des impôts.
+  *Geldspenden* sind von der Steuer absetzbar.
+
+  Son *don* d'observation est remarquable.
+  Seine *Gabe* der Beobachtung ist bemerkenswert.
+
+  Notre organisation vit uniquement de *dons*.
+  Unsere Organisation lebt ausschließlich von *Spenden*.
+
+  Il a le *don* de simplifier les choses complexes.
+  Er hat die *Gabe*, komplizierte Dinge zu vereinfachen.
+
+  Les petits *dons* sont aussi importants que les grands.
+  Kleine *Spenden* sind genauso wichtig wie große.
+
+  La fée lui a fait *don* d'une voix magnifique.
+  Die Fee hat ihr die *Gabe* einer wunderschönen Stimme geschenkt.
+
+  Ce *don* généreux nous permettra de continuer notre mission.
+  Diese großzügige *Spende* wird es uns ermöglichen, unsere Mission fortzusetzen.
+
+  Elle a le *don* de voir le bon côté des choses.
+  Sie hat die *Gabe*, die positive Seite der Dinge zu sehen.
+
+  Nous acceptons les *dons* de vêtements usagés.
+  Wir nehmen *Spenden* gebrauchter Kleidung an.
+
+  Son *don* d'empathie fait d'elle une excellente thérapeute.
+  Ihre *Begabung* für Empathie macht sie zu einer ausgezeichneten Therapeutin.
+
+  Chaque *don* compte, même le plus petit.
+  Jede *Spende* zählt, auch die kleinste.
+
+  Le *don* de cette collection enrichira notre patrimoine culturel.
+  Die *Schenkung* dieser Sammlung wird unser Kulturerbe bereichern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

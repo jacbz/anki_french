@@ -13,29 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Et ça, ça m’inquiète un petit peu.
-  Und das macht mir ein bisschen Sorgen.
+  Et ça, ça m'*inquiète* un petit peu.
+  Und das *beunruhigt* mich ein bisschen.
 
-  Je ne veux pas t’inquiéter.
-  Ich möchte dich nicht beunruhigen.
+  Sa santé m'*inquiète* de plus en plus.
+  Seine Gesundheit *beunruhigt* mich immer mehr.
 
-  Vous aviez raison de vous inquiéter.
-  Ihre Sorge war berechtigt.
+  Les bruits mystérieux dans le grenier *inquiètent* ma petite sœur.
+  Die mysteriösen Geräusche auf dem Dachboden machen meiner kleinen Schwester *Sorgen*.
 
-  La nouvelle de l'accident a inquiété Marie.
-  Die Nachricht von dem Unfall hat Marie beunruhigt.
+  La police ne l'a jamais *inquiété* pour ce délit mineur.
+  Die Polizei hat ihn wegen dieses kleinen Vergehens nie *behelligt*.
 
-  Jean s'inquiète de plus en plus pour sa fille.
-  Jean macht sich immer mehr Sorgen um seine Tochter.
+  Cette équipe commence à sérieusement *inquiéter* le champion en titre.
+  Diese Mannschaft bringt den amtierenden Champion ernsthaft in *Bedrängnis*.
 
-  Les voisins se sont inquiétés en entendant les cris.
-  Die Nachbarn wurden beunruhigt, als sie die Schreie hörten.
+  Ne t'*inquiète* pas, je serai là à l'heure.
+  *Mach* dir keine *Sorgen*, ich werde pünktlich da sein.
 
-  Elle s'inquiète de savoir si son fils est arrivé à l'aéroport.
-  Sie macht sich Gedanken darüber, ob ihr Sohn am Flughafen angekommen ist.
+  Elle s'*inquiète* toujours pour ses enfants quand ils voyagent.
+  Sie *macht* sich immer *Sorgen* um ihre Kinder, wenn sie verreisen.
 
-  Il s'inquiète de voir une ambulance arriver chez lui.
-  Er ist beunruhigt darüber, einen Krankenwagen vor seinem Haus zu sehen.
+  Je me suis *inquiété* de votre absence à la réunion.
+  Ich habe mich nach Ihrem Fehlen bei der Besprechung *erkundigt*.
+
+  Il s'est *inquiété* de savoir qui viendrait à la fête.
+  Er hat sich *Gedanken* darüber gemacht, wer zur Party kommen würde.
+
+  Ces nouvelles *inquiètent* beaucoup les marchés financiers.
+  Diese Nachrichten *beunruhigen* die Finanzmärkte sehr.
+
+  Les parents s'*inquiètent* de ne pas avoir de nouvelles depuis trois jours.
+  Die Eltern sind *beunruhigt*, weil sie seit drei Tagen nichts gehört haben.
+
+  Le bruit des manifestations *inquiétait* les riverains.
+  Der Lärm der Demonstrationen *beunruhigte* die Anwohner.
+
+  Je m'*inquiète* au sujet de son comportement étrange.
+  Ich *mache* mir *Sorgen* wegen seines seltsamen Verhaltens.
+
+  Il a été *inquiété* par les autorités fiscales.
+  Er wurde von den Steuerbehörden *behelligt*.
+
+  Cette absence prolongée commence à nous *inquiéter*.
+  Diese lange Abwesenheit beginnt uns zu *beunruhigen*.
+
+  Personne ne devrait être *inquiété* pour ses opinions.
+  Niemand sollte wegen seiner Meinung *behelligt* werden.
+
+  Il est parti sans être *inquiété*.
+  Er ist gegangen, ohne *behelligt* zu werden.
+
+  La situation politique *inquiète* de plus en plus les citoyens.
+  Die politische Situation *beunruhigt* die Bürger zunehmend.
+
+  Je me suis *inquiété* de l'heure de ton arrivée.
+  Ich habe mich nach deiner Ankunftszeit *erkundigt*.
+
+  Elle s'*inquiète* de voir son fils malade.
+  Sie ist *beunruhigt* darüber, dass ihr Sohn krank ist.
+
+  Les changements climatiques *inquiètent* les scientifiques.
+  Die Klimaveränderungen *beunruhigen* die Wissenschaftler.
+
+  Un rien l'*inquiète*, c'est sa nature.
+  Alles *beunruhigt* ihn, das liegt in seiner Natur.
+
+  Il agit sans s'*inquiéter* des conséquences.
+  Er handelt, ohne sich um die Folgen zu *sorgen*.
+
+  Cette rumeur commence à *inquiéter* tout le village.
+  Dieses Gerücht beginnt das ganze Dorf zu *beunruhigen*.
+
+  Les résultats scolaires de Paul *inquiètent* ses professeurs.
+  Pauls Schulnoten *beunruhigen* seine Lehrer.
+
+  Je me suis *inquiété* de sa santé pendant son voyage.
+  Ich habe mich während seiner Reise um seine Gesundheit *gesorgt*.
+
+  Elle a réussi ses examens sans trop s'*inquiéter*.
+  Sie hat ihre Prüfungen bestanden, ohne sich zu viele *Sorgen* zu machen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

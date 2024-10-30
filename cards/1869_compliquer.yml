@@ -13,17 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le système actuel s’avère-t-il compliqué.
-  Erweist sich das derzeitige System als kompliziert.
+  Le système actuel s'avère-t-il *compliqué* ?
+  Ist das aktuelle System *kompliziert*?
 
-  Il ne faut pas compliquer les choses.
-  Man sollte die Dinge nicht komplizierter machen, als sie sind.
+  "Ça se *complique* ! Je ne suis pas sûr de pouvoir y arriver."
+  "*Jetzt wird's schwierig*! Ich bin mir nicht sicher, ob ich das schaffe."
 
-  Il s'est compliqué la vie en prenant ce travail qui lui demande beaucoup d'heures supplémentaires.
-  Er hat sich das Leben schwer gemacht, indem er diesen Job angenommen hat, der ihm viele Überstunden abverlangt.
+  Les choses se sont *compliquées* après son départ.
+  Die Dinge sind nach seinem Weggang *komplizierter* geworden.
 
-  La situation se complique de plus en plus.
-  Jetzt wird's immer schwieriger.
+  Tu *compliques* toujours tout avec tes questions !
+  Du *erschwerst* alles mit deinen Fragen!
+
+  Sa bronchite s'est *compliquée* d'une pneumonie.
+  Seine Bronchitis hat sich durch eine Lungenentzündung *verschlimmert*.
+
+  Ne vous *compliquez* pas la vie avec ces détails inutiles.
+  Machen Sie sich das Leben nicht unnötig *schwer* mit diesen unwichtigen Details.
+
+  La situation politique s'est *compliquée* ces derniers mois.
+  Die politische Situation hat sich in den letzten Monaten *zugespitzt*.
+
+  Son rhume s'est *compliqué* d'une otite.
+  Seine Erkältung hat sich durch eine Ohrenentzündung *verschlimmert*.
+
+  Pourquoi *compliquer* les choses quand on peut les simplifier ?
+  Warum die Dinge *verkomplizieren*, wenn man sie vereinfachen kann?
+
+  La procédure administrative s'est beaucoup *compliquée* depuis la réforme.
+  Das Verwaltungsverfahren ist seit der Reform viel *komplizierter* geworden.
+
+  Cette nouvelle règle va *compliquer* notre travail quotidien.
+  Diese neue Regel wird unsere tägliche Arbeit *erschweren*.
+
+  Les relations entre les deux pays se sont *compliquées* après l'incident.
+  Die Beziehungen zwischen den beiden Ländern sind nach dem Vorfall *komplizierter* geworden.
+
+  Il ne faut pas *compliquer* les explications pour les débutants.
+  Man sollte die Erklärungen für Anfänger nicht *verkomplizieren*.
+
+  Sa grippe s'est *compliquée* d'une infection.
+  Seine Grippe hat sich durch eine Infektion *verschlimmert*.
+
+  Ces nouvelles directives vont *compliquer* la gestion du projet.
+  Diese neuen Richtlinien werden die Projektleitung *erschweren*.
+
+  La situation s'est encore *compliquée* hier soir.
+  Die Situation ist gestern Abend noch *schwieriger* geworden.
+
+  Ses problèmes de santé se sont *compliqués* au fil des années.
+  Seine gesundheitlichen Probleme haben sich im Laufe der Jahre *verschlimmert*.
+
+  Tu te *compliques* trop la vie avec cette histoire.
+  Du machst dir das Leben mit dieser Geschichte zu *schwer*.
+
+  Le malentendu a *compliqué* les négociations.
+  Das Missverständnis hat die Verhandlungen *erschwert*.
+
+  L'absence de documents va *compliquer* la procédure.
+  Das Fehlen der Unterlagen wird das Verfahren *erschweren*.
+
+  Cette intervention inutile ne fait que *compliquer* les choses.
+  Dieser unnötige Eingriff *verkompliziert* nur die Sache.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

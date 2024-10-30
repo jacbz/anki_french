@@ -13,14 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Que fais-tu, ce week-end?
-  Was machst du am Wochenende?
+  Que fais-tu, ce *week-end* ?
+  Was machst du dieses *Wochenende*?
 
-  Je vais passer le week-end à la campagne.
-  Ich werde das Wochenende auf dem Land verbringen.
+  Je pars en *week-end* à la montagne avec des amis.
+  Ich fahre mit Freunden übers *Wochenende* in die Berge.
 
-  Je vous souhaite un bon week-end, plein de détente et de plaisir.
-  Ich wünsche Ihnen ein schönes Wochenende, voller Entspannung und Vergnügen.
+  Le *week-end* dernier, nous sommes allés à la plage.
+  Letztes *Wochenende* sind wir an den Strand gefahren.
+
+  Bon *week-end* à tous !
+  Schönes *Wochenende* euch allen!
+
+  Elle travaille tous les *week-ends* pour gagner plus d'argent.
+  Sie arbeitet jedes *Wochenende*, um mehr Geld zu verdienen.
+
+  Le *week-end* commence vendredi après-midi pour moi.
+  Das *Wochenende* beginnt für mich am Freitagnachmittag.
+
+  As-tu déjà des projets pour le *week-end* prochain ?
+  Hast du schon Pläne für nächstes *Wochenende*?
+
+  Pendant les *week-ends*, je fais la grasse matinée.
+  An den *Wochenenden* schlafe ich lange aus.
+
+  Notre maison de *week-end* se trouve au bord d'un lac.
+  Unser *Wochenend*haus liegt an einem See.
+
+  C'était un *week-end* très reposant.
+  Es war ein sehr erholsames *Wochenende*.
+
+  Les *week-ends* sont toujours trop courts.
+  Die *Wochenenden* sind immer zu kurz.
+
+  Il préfère passer ses *week-ends* à la maison.
+  Er verbringt seine *Wochenenden* lieber zu Hause.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

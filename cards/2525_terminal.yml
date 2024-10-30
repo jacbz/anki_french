@@ -13,26 +13,68 @@ Register: ↘Fiktion ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il demande une nouvelle retransmission au terminal sémaphore distant.
-  Er fordert eine erneute Übertragung vom entfernten Semaphore-Terminal an.
+  Il demande une nouvelle retransmission au *terminal* sémaphore distant.
+  Er fordert eine neue Übertragung an das entfernte Signal*terminal* an.
 
-  Je dois récupérer mes bagages au terminal 2.
-  Ich muss mein Gepäck am Terminal 2 abholen.
+  Le *terminal* 2 de l'aéroport sera fermé pour rénovation pendant trois mois.
+  Das *Terminal* 2 des Flughafens wird für drei Monate wegen Renovierung geschlossen sein.
 
-  Le pétrole arrive par bateaux au terminal pétrolier de Fos-sur-Mer.
-  Das Erdöl kommt mit Schiffen an der Umschlaganlage von Fos-sur-Mer an.
+  Les voyageurs doivent se rendre au *terminal* des bus avant 23 heures.
+  Die Reisenden müssen sich vor 23 Uhr zum Bus*terminal* begeben.
 
-  Le chapitre terminal du roman nous laisse sur un suspense insoutenable.
-  Das Schlusskapitel des Romans lässt uns mit unerträglicher Spannung zurück.
+  Le plus grand *terminal* pétrolier du pays peut accueillir dix navires simultanément.
+  Das größte Öl*terminal* des Landes kann gleichzeitig zehn Schiffe aufnehmen.
 
-  Il tapa quelques commandes sur le terminal informatique avant de lancer le programme.
-  Er tippte einige Befehle in das Computerterminal, bevor er das Programm startete.
+  L'ancien *terminal* informatique a été remplacé par des tablettes modernes.
+  Das alte Computer*terminal* wurde durch moderne Tablets ersetzt.
 
-  Après simplification, on obtient la formule terminale suivante.
-  Nach der Vereinfachung erhalten wir die folgende Schlussformel.
+  Ce *terminal* de paiement n'accepte que les cartes sans contact.
+  Dieses Zahlungs*terminal* akzeptiert nur kontaktlose Karten.
 
-  La partie terminale de l'ouvrage est consacrée aux applications pratiques.
-  Der letzte Teil des Werks ist den praktischen Anwendungen gewidmet.
+  La maladie est entrée dans sa phase *terminale*.
+  Die Krankheit ist in ihre End*phase* eingetreten.
+
+  Le chapitre *terminal* du livre révèle enfin la vérité.
+  Das *Schluss*kapitel des Buches enthüllt endlich die Wahrheit.
+
+  Les élèves en classe *terminale* préparent leur baccalauréat.
+  Die Schüler der *Abschluss*klasse bereiten sich auf ihr Abitur vor.
+
+  Le bourgeon *terminal* de cette plante a été endommagé par le gel.
+  Die *End*knospe dieser Pflanze wurde durch den Frost beschädigt.
+
+  Les *terminaux* portuaires fonctionnent vingt-quatre heures sur vingt-quatre.
+  Die Hafen*terminals* sind rund um die Uhr in Betrieb.
+
+  La partie *terminale* du projet sera achevée la semaine prochaine.
+  Das *End*stück des Projekts wird nächste Woche fertiggestellt.
+
+  Une navette gratuite relie la ville au *terminal* de l'aéroport.
+  Ein kostenloser Shuttle verbindet die Stadt mit dem Flughafen*terminal*.
+
+  Les *terminaux* de données sont installés dans chaque bureau.
+  Die Daten*endgeräte* sind in jedem Büro installiert.
+
+  La formule *terminale* de sa lettre était particulièrement chaleureuse.
+  Die *Schluss*formel seines Briefes war besonders herzlich.
+
+  Le nouveau *terminal* méthanier augmentera la capacité d'importation.
+  Das neue Gas*terminal* wird die Importkapazität erhöhen.
+
+  Les *terminaux* de ce réseau informatique doivent être mis à jour.
+  Die *Terminals* dieses Computernetzwerks müssen aktualisiert werden.
+
+  Ma fille est en *terminale* scientifique cette année.
+  Meine Tochter ist dieses Jahr in der naturwissenschaftlichen *Abschluss*klasse.
+
+  Les négociations sont dans leur phase *terminale*.
+  Die Verhandlungen befinden sich in ihrer *End*phase.
+
+  Le *terminal* de l'aéroport sera agrandi d'ici 2025.
+  Das Flughafen*terminal* wird bis 2025 erweitert werden.
+
+  Tous les *terminaux* de paiement ont été remplacés par des modèles plus récents.
+  Alle Zahlungs*terminals* wurden durch neuere Modelle ersetzt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

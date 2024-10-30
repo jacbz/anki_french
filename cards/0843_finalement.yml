@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Finalement, la porte s’ouvrit.
-  Schließlich öffnete sich die Tür.
+  *Finalement*, la porte s'ouvrit.
+  *Schließlich* öffnete sich die Tür.
 
-  Finalement, j’ai décidé de partir.
-  Schließlich habe ich beschlossen zu gehen.
+  *Finalement*, après trois heures d'attente, le train est arrivé.
+  *Letztendlich* kam der Zug nach drei Stunden Wartezeit an.
+
+  Elle a *finalement* accepté notre proposition hier soir.
+  Sie hat gestern Abend *schließlich* unserem Vorschlag zugestimmt.
+
+  *Finalement*, je ne regrette pas d'avoir fait ce choix.
+  *Letzten Endes* bereue ich diese Entscheidung nicht.
+
+  J'ai *finalement* trouvé les clés sous le tapis.
+  Ich habe die Schlüssel *endlich* unter der Fußmatte gefunden.
+
+  *Finalement*, qu'est-ce que tu en penses ?
+  Was denkst du *letztlich* darüber?
+
+  Cette solution s'est *finalement* révélée être la meilleure.
+  Diese Lösung hat sich *schlussendlich* als die beste erwiesen.
+
+  Les enfants se sont *finalement* endormis vers minuit.
+  Die Kinder sind *schließlich* gegen Mitternacht eingeschlafen.
+
+  *Finalement*, nous avons dû annuler nos vacances.
+  Wir mussten unseren Urlaub *letztendlich* absagen.
+
+  Il a *finalement* réussi son examen de conduite à la troisième tentative.
+  Er hat seine Führerscheinprüfung beim dritten Versuch *endlich* bestanden.
+
+  *Finalement*, ce n'était pas si difficile que ça.
+  Es war *letzten Endes* gar nicht so schwierig.
+
+  Vas-tu *finalement* nous dire la vérité ?
+  Wirst du uns *endlich* die Wahrheit sagen?
+
+  Elle est *finalement* rentrée à la maison après une longue journée.
+  Sie ist nach einem langen Tag *schließlich* nach Hause gekommen.
+
+  *Finalement*, tout s'est bien passé.
+  *Letztlich* ist alles gut gegangen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

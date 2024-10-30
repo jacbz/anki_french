@@ -13,53 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai un cadeau d’anniversaire pour toi.
-  Ich habe ein Geburtstagsgeschenk für dich.
+  J'ai un cadeau d'*anniversaire* pour toi.
+  Ich habe ein *Geburtstags*geschenk für dich.
 
-  C’est mon anniversaire aujourd’hui.
-  Heute ist mein Geburtstag.
+  La cérémonie *anniversaire* de l'entreprise aura lieu samedi prochain.
+  Die *Jubiläums*feier der Firma findet nächsten Samstag statt.
 
-  Demain est mon anniversaire.
-  Morgen ist mein Geburtstag.
+  Je lui ai envoyé une carte d'*anniversaire* par la poste.
+  Ich habe ihm eine *Geburtstags*karte per Post geschickt.
 
-  Mon anniversaire était la semaine dernière.
-  Mein Geburtstag war letzte Woche.
+  "Joyeux *anniversaire*, ma chérie !"
+  "Alles Gute zum *Geburtstag*, mein Schatz!"
 
-  Que veux-tu pour ton anniversaire ?
-  Was wünschst du dir zu deinem Geburtstag?
+  Le couple a célébré leur 25e *anniversaire* de mariage hier.
+  Das Paar hat gestern seinen 25. *Hochzeits*tag gefeiert.
 
-  C'est le jour anniversaire de leur mariage.
-  Das ist ihr Hochzeitstag.
+  L'*anniversaire* de sa mort nous rappelle combien il nous manque.
+  Sein *Todes*tag erinnert uns daran, wie sehr wir ihn vermissen.
 
-  Il a reçu un beau cadeau pour son anniversaire.
-  Er hat ein schönes Geburtstagsgeschenk bekommen.
+  Cette exposition *anniversaire* retrace l'histoire du musée.
+  Diese *Jubiläums*ausstellung zeichnet die Geschichte des Museums nach.
 
-  On organise une fête d'anniversaire pour son fils.
-  Man organisiert eine Geburtstagsfeier für seinen Sohn.
+  Le jour *anniversaire* de la libération sera commémoré demain.
+  Der *Jahres*tag der Befreiung wird morgen begangen.
 
-  C'est l'anniversaire de la mort de son père.
-  Das ist der Todestag seines Vaters.
+  Pour son *anniversaire*, nous lui avons préparé une surprise.
+  Zu seinem *Geburtstag* haben wir ihm eine Überraschung vorbereitet.
 
-  La cérémonie anniversaire était magnifique.
-  Die Gedenkfeier war wunderschön.
+  L'édition spéciale *anniversaire* du magazine est déjà épuisée.
+  Die *Jubiläums*ausgabe der Zeitschrift ist bereits vergriffen.
 
-  Les invités à la fête anniversaire ont beaucoup apprécié.
-  Die Jubiläumsgäste haben sich sehr gut amüsiert.
+  La fête d'*anniversaire* de Marie aura lieu dans le jardin.
+  Maries *Geburtstags*feier wird im Garten stattfinden.
 
-  Le jour anniversaire de leurs 50 ans de mariage a été célébré en famille.
-  Ihr fünfzigster Hochzeitstag wurde im Familienkreis gefeiert.
+  Les invités de la fête *anniversaire* sont tous arrivés.
+  Die *Jubiläums*gäste sind alle eingetroffen.
 
-  La cérémonie anniversaire de l'armistice a eu lieu à l'Arc de Triomphe.
-  Die Feier zum Jahrestag des Waffenstillstands fand am Triumphbogen statt.
+  C'est aujourd'hui l'*anniversaire* de notre première rencontre.
+  Heute ist der *Jahres*tag unserer ersten Begegnung.
 
-  Bon anniversaire!
-  Alles Gute zum Geburtstag!
+  Le président assistera à la cérémonie *anniversaire* de l'armistice.
+  Der Präsident wird an der *Gedenk*feier zum Waffenstillstand teilnehmen.
 
-  L'entreprise fête son anniversaire cette année.
-  Das Unternehmen feiert dieses Jahr sein Geschäftsjubiläum.
+  Cette année marque l'*anniversaire* des 100 ans de l'association.
+  Dieses Jahr markiert das hundertjährige *Jubiläum* des Vereins.
 
-  Une édition spéciale anniversaire a été publiée pour l'occasion.
-  Zu diesem Anlass wurde eine spezielle Jubiläumsausgabe herausgegeben.
+  La date *anniversaire* approche rapidement.
+  Der *Jahres*tag rückt schnell näher.
+
+  Pierre fêtera son *anniversaire* avec ses amis samedi.
+  Pierre wird seinen *Geburtstag* am Samstag mit seinen Freunden feiern.
+
+  L'école organise une grande fête *anniversaire* pour ses 50 ans.
+  Die Schule organisiert eine große *Jubiläums*feier zu ihrem 50-jährigen Bestehen.
+
+  Nous célébrerons l'*anniversaire* de la fondation de l'entreprise.
+  Wir werden das *Jubiläum* der Firmengründung feiern.
+
+  Le jour *anniversaire* de leurs 50 ans de mariage tombe un dimanche.
+  Ihr fünfzigster *Hochzeits*tag fällt auf einen Sonntag.
+
+  Un service *anniversaire* sera célébré à la mémoire du défunt.
+  Ein *Gedenk*gottesdienst wird zum Andenken an den Verstorbenen gefeiert.
+
+  La cérémonie *anniversaire* rassemblera tous les anciens employés.
+  Die *Jubiläums*feier wird alle ehemaligen Mitarbeiter zusammenbringen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

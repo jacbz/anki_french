@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les enfants, partez immédiatement.
-  Kinder, geht sofort weg.
+  Les enfants, partez *immédiatement*.
+  Kinder, geht *sofort*.
 
-  Je dois partir immédiatement.
-  Ich muss sofort los.
+  Le directeur m'a demandé de venir le voir *immédiatement*.
+  Der Direktor hat mich gebeten, *sofort* zu ihm zu kommen.
 
-  Viens immédiatement !
-  Komm sofort!
+  Vous devriez *immédiatement* arrêter de fumer.
+  Sie sollten das Rauchen *umgehend* aufgeben.
 
-  Je veux te voir immédiatement dans mon bureau.
-  Ich möchte dich sofort in meinem Büro sehen.
+  *Immédiatement* après son arrivée, elle s'est mise au travail.
+  *Unmittelbar* nach ihrer Ankunft hat sie mit der Arbeit begonnen.
+
+  Le chef de service dépend *immédiatement* du directeur général.
+  Der Abteilungsleiter ist *direkt* dem Generaldirektor unterstellt.
+
+  Nous avons répondu *immédiatement* à leur message.
+  Wir haben *sofort* auf ihre Nachricht geantwortet.
+
+  Le supermarché se trouve *immédiatement* après le feu rouge.
+  Der Supermarkt befindet sich *direkt* nach der Ampel.
+
+  L'équipe de secours est arrivée *immédiatement* sur les lieux.
+  Das Rettungsteam traf *unverzüglich* am Unfallort ein.
+
+  Notre maison est située *immédiatement* à côté de l'école.
+  Unser Haus liegt *unmittelbar* neben der Schule.
+
+  Si vous voyez quelque chose de suspect, prévenez-moi *immédiatement*.
+  Wenn Sie etwas Verdächtiges sehen, benachrichtigen Sie mich *sofort*.
+
+  Elle a *immédiatement* compris son erreur.
+  Sie hat ihren Fehler *sofort* eingesehen.
+
+  La période médiévale a suivi *immédiatement* l'Antiquité.
+  Das Mittelalter folgte *unmittelbar* auf die Antike.
+
+  Je veux que tu viennes *immédiatement* dans mon bureau.
+  Ich will, dass du *sofort* in mein Büro kommst.
+
+  Les pompiers sont intervenus *immédiatement* après l'explosion.
+  Die Feuerwehr griff *unmittelbar* nach der Explosion ein.
+
+  Le président communique *immédiatement* avec ses ministres.
+  Der Präsident kommuniziert *direkt* mit seinen Ministern.
+
+  Veuillez quitter *immédiatement* les lieux.
+  Verlassen Sie *unverzüglich* das Gelände.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

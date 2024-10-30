@@ -13,23 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Son action s’exerce directement ou par intermédiaire.
-  Ihre Tätigkeit erfolgt direkt oder über Vermittler.
+  Son action s'exerce *directement* ou par intermédiaire.
+  Seine Wirkung erfolgt *direkt* oder über einen Vermittler.
 
-  Je vais directement chez moi.
-  Ich gehe direkt nach Hause.
+  Il est allé *directement* à l'essentiel dans son discours.
+  Er kam in seiner Rede *direkt* auf den Punkt.
 
-  Je suis allé directement au lit.
-  Ich ging direkt ins Bett.
+  Elle m'a *directement* posé la question qui la tracassait.
+  Sie hat mir *geradeheraus* die Frage gestellt, die sie beschäftigte.
 
-  Il a bu directement à la bouteille.
-  Er trank direkt aus der Flasche.
+  Cette fenêtre donne *directement* sur la mer.
+  Dieses Fenster geht *direkt* zum Meer hinaus.
 
-  Tu signes ça, et ils t'envoient directement un chèque.
-  Du unterschreibst und kriegst sofort einen Scheck.
+  Ces légumes viennent *directement* du jardin.
+  Dieses Gemüse kommt *direkt* aus dem Garten.
 
-  Par conséquent, cela ne doit pas être directement interprété comme une interdiction.
-  Darum sollte es nicht sofort als Verbot interpretiert werden.
+  Je vais te répondre *directement* : ce n'est pas possible.
+  Ich werde dir *direkt* antworten: Das ist nicht möglich.
+
+  La boutique se trouve *directement* en face de la mairie.
+  Der Laden befindet sich *direkt* gegenüber dem Rathaus.
+
+  Cette affaire me touche *directement*.
+  Diese Angelegenheit betrifft mich *direkt*.
+
+  Il descend *directement* des rois de France.
+  Er stammt in *direkter* Linie von den französischen Königen ab.
+
+  Après le travail, je rentre *directement* chez moi.
+  Nach der Arbeit gehe ich *direkt* nach Hause.
+
+  Les deux routes sont *directement* opposées.
+  Die beiden Straßen verlaufen *direkt* entgegengesetzt.
+
+  Il a abordé *directement* le sujet qui fâche.
+  Er sprach das heikle Thema *direkt* an.
+
+  Je préfère acheter mes produits *directement* chez le producteur.
+  Ich kaufe meine Produkte lieber *direkt* beim Erzeuger.
+
+  Cette décision vous concerne *directement*.
+  Diese Entscheidung betrifft Sie *persönlich*.
+
+  Son comportement est *directement* contraire au règlement.
+  Sein Verhalten widerspricht *direkt* der Vorschrift.
+
+  Nous communiquons *directement* avec nos clients.
+  Wir kommunizieren *direkt* mit unseren Kunden.
+
+  Le train va *directement* à Paris, sans arrêt.
+  Der Zug fährt *direkt* nach Paris, ohne Halt.
+
+  Elle m'a *directement* dit ce qu'elle pensait.
+  Sie hat mir *freiheraus* gesagt, was sie dachte.
+
+  Cette question a trait *directement* à notre sujet.
+  Diese Frage steht in *direktem* Zusammenhang mit unserem Thema.
+
+  L'escalier mène *directement* au toit.
+  Die Treppe führt *direkt* zum Dach.
+
+  Je préfère négocier *directement* avec le patron.
+  Ich verhandle lieber *direkt* mit dem Chef.
+
+  Il faut attaquer le problème *directement*.
+  Man muss das Problem *direkt* angehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -15,26 +15,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tout ceci est votre création.
-  All dies ist Ihre Schöpfung.
+  Tout *ceci* est votre création.
+  All *dies* ist Ihre Kreation.
 
-  Ceci est un livre.
-  Dies ist ein Buch.
+  *Ceci* est un exemple parfait de ce que je voulais dire.
+  *Dies* ist ein perfektes Beispiel für das, was ich sagen wollte.
 
-  Ceci est pour mon ami.
-  Dies ist für meinen Freund.
+  Notez bien *ceci* : la réunion commence à huit heures précises.
+  Merken Sie sich *dies* gut: Die Besprechung beginnt um Punkt acht Uhr.
 
-  Je dois te parler de ceci.
-  Ich muss mit dir über Folgendes sprechen.
+  *Ceci* compense largement *cela*.
+  Das *eine* gleicht das andere bei weitem aus.
 
-  Vous êtes très bon à ceci.
-  Sie sind hierin sehr gut.
+  Il a *ceci* de particulier qu'il parle cinq langues couramment.
+  Das Besondere an ihm ist *das*, dass er fließend fünf Sprachen spricht.
 
-  Tu es bien trop jeune pour faire ceci.
-  Du bist viel zu jung, um dies zu tun.
+  À *ceci* près que nous manquons de temps, tout est parfait.
+  Abgesehen *davon*, dass uns die Zeit fehlt, ist alles perfekt.
 
-  La soirée était agréable à ceci près qu'il y avait trop de monde.
-  Abgesehen davon, dass es zu viele Leute gab, war der Abend angenehm.
+  *Ceci* ne regarde que moi, je vous prie de ne pas intervenir.
+  *Das* geht nur mich etwas an, bitte mischen Sie sich nicht ein.
+
+  Que signifie *ceci* exactement ?
+  Was bedeutet *dies* genau?
+
+  *Ceci* m'appartient, pas à vous.
+  *Dies* gehört mir, nicht Ihnen.
+
+  Dites *ceci* à votre frère de ma part : je ne peux pas venir ce soir.
+  Sagen Sie *das* Ihrem Bruder von mir: Ich kann heute Abend nicht kommen.
+
+  Retenez bien *ceci* : on ne peut pas tout avoir dans la vie.
+  Merken Sie sich *dies* gut: Man kann nicht alles im Leben haben.
+
+  *Ceci* est un cadeau, *cela* est un prêt.
+  *Dies* ist ein Geschenk, *das* ist eine Leihgabe.
+
+  *Ceci* est beau, *cela* est ordinaire.
+  *Dies* ist schön, *das* ist gewöhnlich.
+
+  Je préfère *ceci* à *cela*.
+  Ich ziehe *dies* *jenem* vor.
+
+  "C'était *ceci*, c'était *cela*, il trouvait toujours une excuse."
+  "Es war *dies*, es war *das*, er fand immer eine Ausrede."
+
+  Leur discussion portait sur *ceci* et sur *cela*.
+  Ihre Diskussion drehte sich um *dies* und *das*.
+
+  *Ceci* représente notre meilleure offre.
+  *Dies* stellt unser bestes Angebot dar.
+
+  Sachez *ceci* : je ne reviendrai plus jamais.
+  Wissen Sie *dies*: Ich werde nie wieder zurückkommen.
+
+  Regardez *ceci* : c'est exactement ce dont je parlais.
+  Schauen Sie *dies* an: Das ist genau das, wovon ich sprach.
+
+  Tout *ceci* n'est qu'un malentendu.
+  All *dies* ist nur ein Missverständnis.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

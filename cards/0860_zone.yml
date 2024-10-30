@@ -13,44 +13,191 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous pouvez venir, j’ai sécurisé la zone.
-  Sie können kommen, ich habe den Bereich gesichert.
+  Vous pouvez venir, j'ai sécurisé la *zone*.
+  Sie können kommen, ich habe das *Gebiet* gesichert.
 
-  Cette zone est interdite au public.
-  Dieses Gebiet ist für die Öffentlichkeit gesperrt.
+  Cette ville a la plus grande *zone* piétonne d'Europe.
+  Diese Stadt hat die größte Fußgänger*zone* Europas.
 
-  Cette zone était calme.
-  In diesem Bereich war es ruhig.
+  Je ne peux pas garer ma voiture dans la *zone* bleue pendant plus d'une heure.
+  Ich kann mein Auto nicht länger als eine Stunde in der Kurzpark*zone* abstellen.
 
-  La zone érogène est un endroit du corps qui procure du plaisir sexuel.
-  Erogene Zonen sind Stellen am Körper, die sexuelle Erregung auslösen.
+  Les téléphones portables sont interdits dans cette *zone* de l'hôpital.
+  In diesem *Bereich* des Krankenhauses sind Handys verboten.
 
-  La zone climatique est une région du globe qui partage des caractéristiques climatiques similaires.
-  Eine Klimazone ist ein Gebiet der Erde, das durch ähnliche klimatische Bedingungen gekennzeichnet ist.
+  La nouvelle *zone* commerciale attire beaucoup de clients.
+  Der neue Supermarkt*komplex* zieht viele Kunden an.
 
-  La zone douanière est une région géographique où les marchandises sont soumises à des contrôles douaniers.
-  Ein Zollgebiet ist ein geographischer Bereich, in dem Waren zollrechtlichen Kontrollen unterliegen.
+  Cette *zone* industrielle emploie plus de mille personnes.
+  In diesem Industrie*gebiet* arbeiten über tausend Menschen.
 
-  La zone de recherche est une zone définie pour la recherche d'un objet perdu ou d'informations.
-  Der Suchbereich ist ein festgelegter Bereich, in dem nach einem verlorenen Gegenstand oder Informationen gesucht wird.
+  Les chercheurs ont identifié une nouvelle *zone* érogène.
+  Die Forscher haben eine neue erogene *Zone* identifiziert.
 
-  La zone interdite aux portables est une zone où l'utilisation des téléphones portables est interdite.
-  Eine handyfreie Zone ist ein Bereich, in dem die Nutzung von Handys verboten ist.
+  Ma *zone* T devient très grasse en été.
+  Meine T-*Zone* wird im Sommer sehr fettig.
 
-  La zone commerciale est une zone regroupant plusieurs magasins et boutiques.
-  Ein Supermarktkomplex ist ein Bereich, in dem sich mehrere Geschäfte und Boutiquen befinden.
+  Les pingouins vivent dans la *zone* antarctique.
+  Die Pinguine leben in der antarktischen *Zone*.
 
-  La zone industrielle est une zone où se trouvent des usines et des industries.
-  Ein Industriegebiet ist ein Gebiet, in dem sich Fabriken und Industrien befinden.
+  La *zone* côtière est menacée par la montée des eaux.
+  Das Küsten*gebiet* ist durch den steigenden Meeresspiegel bedroht.
 
-  La zone d'aménagement mixte est une zone où se trouvent des bâtiments résidentiels, commerciaux et industriels.
-  Ein Gebiet mit Mischnutzung ist ein Bereich, in dem sich Wohn-, Gewerbe- und Industriegebäude befinden.
+  On a découvert une nouvelle *zone* pétrolière au large des côtes.
+  Man hat vor der Küste eine neue Erdöl*zone* entdeckt.
 
-  La zone côtière est une zone qui se trouve à proximité du littoral.
-  Ein Küstengebiet ist ein Gebiet, das sich in der Nähe der Küste befindet.
+  L'accès à cette *zone* est strictement interdit au public.
+  Der Zugang zu diesem Sperr*gebiet* ist für die Öffentlichkeit streng verboten.
 
-  La zone pétrolière est une zone où se trouvent des gisements de pétrole.
-  Eine Erdölzone ist ein Gebiet, in dem sich Erdölvorkommen befinden.
+  Les pays nordiques forment une *zone* dénucléarisée.
+  Die nordischen Länder bilden eine atomwaffenfreie *Zone*.
+
+  La *zone* protégée abrite des espèces rares.
+  Das Schutz*gebiet* beherbergt seltene Arten.
+
+  Cette *zone* douanière couvre plusieurs pays.
+  Dieses Zoll*gebiet* umfasst mehrere Länder.
+
+  Le port possède une *zone* franche très active.
+  Der Hafen hat eine sehr aktive Frei*zone*.
+
+  La *zone* euro s'est élargie depuis sa création.
+  Die Euro*zone* hat sich seit ihrer Gründung erweitert.
+
+  Les températures varient selon la *zone* climatique.
+  Die Temperaturen variieren je nach Klima*zone*.
+
+  Les touristes évitent cette *zone* sismique.
+  Die Touristen meiden dieses Erdbeben*gebiet*.
+
+  La *zone* urbaine s'étend sur plusieurs kilomètres.
+  Das Stadt*gebiet* erstreckt sich über mehrere Kilometer.
+
+  Cette *zone* résidentielle est très calme.
+  Dieses Wohn*gebiet* ist sehr ruhig.
+
+  Il y a des *zones* sombres dans son passé.
+  Es gibt dunkle *Bereiche* in seiner Vergangenheit.
+
+  La *zone* désertique commence au sud de la ville.
+  Die Wüsten*zone* beginnt südlich der Stadt.
+
+  Cette *zone* de recherche n'a pas encore été explorée.
+  Dieser Such*bereich* wurde noch nicht erforscht.
+
+  La *zone* équatoriale connaît un climat très humide.
+  Die Äquatorial*zone* hat ein sehr feuchtes Klima.
+
+  La *zone* médiane du cerveau contrôle plusieurs fonctions.
+  Der mittlere *Bereich* des Gehirns steuert mehrere Funktionen.
+
+  Nous quittons la *zone* de confort de nos habitudes.
+  Wir verlassen die Komfort*zone* unserer Gewohnheiten.
+
+  Cette *zone* blanche n'a pas de couverture mobile.
+  Diese weiße *Zone* hat keine Mobilfunkabdeckung.
+
+  La *zone* morte s'étend sur plusieurs kilomètres carrés.
+  Die tote *Zone* erstreckt sich über mehrere Quadratkilometer.
+
+  Cette *zone* d'influence s'étend sur trois continents.
+  Diese Einfluss*zone* erstreckt sich über drei Kontinente.
+
+  La *zone* de combat terrestre a été délimitée.
+  Die Boden*kampfzone* wurde abgegrenzt.
+
+  La *zone* de déploiement des troupes est sécurisée.
+  Die Aufmarsch*zone* der Truppen ist gesichert.
+
+  La *zone* de défense est sous haute surveillance.
+  Die Verteidigungs*zone* steht unter strenger Überwachung.
+
+  Cette *zone* frontière est très surveillée.
+  Diese Grenz*zone* wird streng überwacht.
+
+  La *zone* de convergence intertropicale se déplace.
+  Die intertropische Konvergenz*zone* verschiebt sich.
+
+  Cette *zone* d'action est sous notre contrôle.
+  Dieser Einsatz*bereich* steht unter unserer Kontrolle.
+
+  La *zone* de desserte inclut cinq gares.
+  Der Einzugs*bereich* umfasst fünf Bahnhöfe.
+
+  Cette *zone* de mémoire est corrompue.
+  Dieser Speicher*bereich* ist beschädigt.
+
+  La *zone* monétaire commune facilite les échanges.
+  Die gemeinsame Währungs*zone* erleichtert den Handel.
+
+  J'évite de traverser cette *zone* la nuit.
+  Ich vermeide es, dieses *Gebiet* nachts zu durchqueren.
+
+  Les *zones* grises de la loi posent problème.
+  Die Grau*zonen* des Gesetzes sind problematisch.
+
+  Cette *zone* de libre-échange favorise le commerce.
+  Diese Freihandels*zone* fördert den Handel.
+
+  La *zone* bâtie continue s'arrête ici.
+  Die durchgehend bebaute *Zone* endet hier.
+
+  Cette *zone* contiguë appartient à notre pays.
+  Diese angrenzende *Zone* gehört zu unserem Land.
+
+  La *zone* d'extension urbaine est en construction.
+  Das Stadt*erweiterungsgebiet* ist im Bau.
+
+  Cette *zone* non altius tollendi protège la vue.
+  Diese Höhenbeschränkungs*zone* schützt die Aussicht.
+
+  Cette *zone* franche urbaine crée des emplois.
+  Diese städtische Frei*zone* schafft Arbeitsplätze.
+
+  La *zone* à faibles émissions limite la pollution.
+  Die Niedrigemissions*zone* begrenzt die Umweltverschmutzung.
+
+  Cette *zone* de sécurité prioritaire est surveillée.
+  Dieses prioritäre Sicherheits*gebiet* wird überwacht.
+
+  La *zone* urbaine sensible reçoit des aides.
+  Das sensible Stadt*gebiet* erhält Unterstützung.
+
+  Cette *zone* d'aménagement concerté se développe.
+  Dieses koordinierte Entwicklungs*gebiet* wächst.
+
+  La *zone* économique maritime est protégée.
+  Die maritime Wirtschafts*zone* wird geschützt.
+
+  Cette *zone* d'intervention foncière est stratégique.
+  Dieses Grundstücksinterventions*gebiet* ist strategisch.
+
+  La *zone* d'éducation prioritaire manque de moyens.
+  Das Bildungsprioritäts*gebiet* hat zu wenig Mittel.
+
+  Cette *zone* industrielle crée beaucoup d'emplois.
+  Dieses Industrie*gebiet* schafft viele Arbeitsplätze.
+
+  La *zone* de fluctuation des prix est limitée.
+  Die Preis*schwankungszone* ist begrenzt.
+
+  Cette *zone* d'aménagement mixte combine habitations et commerces.
+  Dieses *Gebiet* mit Mischnutzung verbindet Wohnungen und Geschäfte.
+
+  La nouvelle *zone* commerciale ouvre la semaine prochaine.
+  Der neue Supermarkt*komplex* öffnet nächste Woche.
+
+  Les enfants évitent cette *zone* dangereuse.
+  Die Kinder meiden dieses gefährliche *Gebiet*.
+
+  Notre entreprise se trouve dans la *zone* artisanale.
+  Unser Unternehmen befindet sich im Gewerbe*gebiet*.
+
+  La *zone* tropicale connaît deux saisons.
+  Die Tropen*zone* hat zwei Jahreszeiten.
+
+  Cette *zone* est réservée aux piétons.
+  Diese *Zone* ist Fußgängern vorbehalten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

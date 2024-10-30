@@ -13,26 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tu es une belle plante. Tu es la fleur de ma passion.
-  Du bist eine schöne Pflanze. Du bist die Blume meiner Leidenschaft.
+  "Tu es une belle *plante*. Tu es la fleur de ma passion."
+  "Du bist eine schöne *Pflanze*. Du bist die Blüte meiner Leidenschaft."
 
-  J’aime avoir des plantes dans ma maison.
-  Ich mag es, Pflanzen in meinem Haus zu haben.
+  Cette *plante* grimpante a complètement recouvert le mur du jardin.
+  Diese Kletter*pflanze* hat die Gartenmauer völlig überwuchert.
 
-  Ce ficus est une belle plante d'appartement.
-  Dieser Ficus ist eine flotte Zimmerpflanze.
+  Les *plantes* carnivores fascinent toujours les enfants au jardin botanique.
+  Die Fleisch*pflanzen* faszinieren die Kinder im botanischen Garten immer wieder.
 
-  Le cyclamen est une plante d'hiver qui fleurit en décembre.
-  Der Alpenveilchen ist ein Winterblüher, der im Dezember blüht.
+  La *plante* de mes pieds me fait mal après cette longue randonnée.
+  Meine Fuß*sohle* schmerzt nach dieser langen Wanderung.
 
-  Cette jeune plante a besoin de beaucoup de lumière.
-  Diese Jungpflanze braucht viel Licht.
+  Les *plantes* médicinales peuvent avoir des effets secondaires dangereux.
+  Heil*pflanzen* können gefährliche Nebenwirkungen haben.
 
-  Le lierre est une plante grimpante qui peut atteindre plusieurs mètres de hauteur.
-  Der Efeu ist eine Kletterpflanze, die mehrere Meter hoch wachsen kann.
+  Ma nouvelle *plante* d'appartement a besoin de beaucoup de lumière.
+  Meine neue Zimmer*pflanze* braucht viel Licht.
 
-  La bananière est une plante tropicale qui a besoin de chaleur et d'humidité.
-  Die Bananenpflanze ist eine Tropenpflanze, die Wärme und Feuchtigkeit braucht.
+  Ces *plantes* aromatiques donnent un goût délicieux à la sauce.
+  Diese Gewürz*pflanzen* geben der Soße einen köstlichen Geschmack.
+
+  L'ours marche sur la *plante* des pieds comme les humains.
+  Der Bär läuft wie Menschen auf der *Sohle* seiner Füße.
+
+  Cette *plante* d'hiver fleurit même sous la neige.
+  Diese Winter*pflanze* blüht sogar unter dem Schnee.
+
+  Les *plantes* vertes purifient l'air de notre bureau.
+  Die Grün*pflanzen* reinigen die Luft in unserem Büro.
+
+  J'ai acheté une jeune *plante* qui deviendra un grand arbuste.
+  Ich habe eine Jung*pflanze* gekauft, die zu einem großen Strauch heranwachsen wird.
+
+  La *plante* tropicale ne survit pas aux températures inférieures à 15 degrés.
+  Die Tropen*pflanze* überlebt keine Temperaturen unter 15 Grad.
+
+  Les *plantes* grasses n'ont pas besoin d'être arrosées souvent.
+  Fett*pflanzen* müssen nicht oft gegossen werden.
+
+  Le chat aime jouer avec les feuilles de ma *plante* verte.
+  Die Katze spielt gerne mit den Blättern meiner Grün*pflanze*.
+
+  Cette *plante* rampante couvre parfaitement le sol du jardin.
+  Diese Kriech*pflanze* bedeckt den Gartenboden perfekt.
+
+  Les animaux et les *plantes* forment un écosystème complexe.
+  Tiere und *Pflanzen* bilden ein komplexes Ökosystem.
+
+  La *plante* transgénique résiste mieux aux parasites.
+  Die Gen*pflanze* ist widerstandsfähiger gegen Schädlinge.
+
+  Ma *plante* de serre a besoin d'une humidité constante.
+  Meine Gewächshaus*pflanze* braucht konstante Feuchtigkeit.
+
+  Le trèfle est une *plante* de couverture très efficace.
+  Der Klee ist eine sehr effektive Deck*pflanze*.
+
+  Cette *plante* aquatique flotte à la surface de l'étang.
+  Diese Wasser*pflanze* schwimmt auf der Teichoberfläche.
+
+  Le gui utilise le pommier comme *plante* hôte.
+  Die Mistel nutzt den Apfelbaum als Wirts*pflanze*.
+
+  Nous étudions l'anatomie des *plantes* en classe de biologie.
+  Wir studieren die Anatomie der *Pflanzen* im Biologieunterricht.
+
+  La carotte est une *plante* sarclée qui demande beaucoup d'entretien.
+  Die Karotte ist eine Hack*pflanze*, die viel Pflege benötigt.
+
+  Les *plantes* potagères de mon jardin poussent bien cette année.
+  Die Gemüse*pflanzen* in meinem Garten wachsen dieses Jahr gut.
+
+  Le masseur a appuyé doucement sur la *plante* de mes pieds.
+  Der Masseur hat sanft auf meine Fuß*sohlen* gedrückt.
+
+  Cette *plante* à bulbe fleurira au printemps prochain.
+  Diese Zwiebel*pflanze* wird im nächsten Frühling blühen.
+
+  Les *plantes* fourragères nourrissent notre bétail.
+  Die Futter*pflanzen* ernähren unser Vieh.
+
+  Cette *plante* d'ombre prospère dans les coins sombres du jardin.
+  Diese Schatten*pflanze* gedeiht in den dunklen Ecken des Gartens.
+
+  Le Jardin des *Plantes* de Paris est un lieu historique.
+  Der Pariser *Pflanzen*garten ist ein historischer Ort.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

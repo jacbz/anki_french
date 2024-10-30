@@ -13,23 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il y a des spécialistes pour ça.
-  Dafür gibt es Spezialisten.
+  Il y a des *spécialistes* pour ça.
+  Dafür gibt es *Fachleute*.
 
-  Je vais consulter un spécialiste.
-  Ich werde einen Spezialisten aufsuchen.
+  Le *spécialiste* en cardiologie m'a prescrit de nouveaux médicaments.
+  Der *Facharzt* für Kardiologie hat mir neue Medikamente verschrieben.
 
-  Vous devriez parler à un spécialiste.
-  Sie sollten mit einem Spezialisten sprechen.
+  Cette *spécialiste* de l'art moderne donne des conférences passionnantes.
+  Diese *Spezialistin* für moderne Kunst hält faszinierende Vorträge.
 
-  Marie est spécialiste de l'art moderne, elle enseigne l'histoire de l'art au collège.
-  Marie ist Spezialistin für moderne Kunst, sie unterrichtet Kunstgeschichte am Gymnasium.
+  "Il est devenu le *spécialiste* des retards au bureau."
+  "Er ist zum *Meister* des Zuspätkommens im Büro geworden."
 
-  C'est le spécialiste du mensonge, il parvient toujours à se sortir de toutes les situations.
-  Er ist ein Meister im Lügen, er schafft es immer, aus allen Situationen herauszukommen.
+  Notre équipe compte plusieurs *spécialistes* en intelligence artificielle.
+  Unser Team hat mehrere *Fachleute* für künstliche Intelligenz.
 
-  Elle est spécialiste de la branche, elle connaît tous les secrets du métier.
-  Sie ist Branchenkennerin, sie kennt alle Geheimnisse des Berufs.
+  La *spécialiste* en biologie moléculaire a fait une découverte importante.
+  Die *Spezialistin* für Molekularbiologie hat eine wichtige Entdeckung gemacht.
+
+  J'ai rendez-vous avec une *spécialiste* demain matin.
+  Ich habe morgen früh einen Termin bei einer *Fachärztin*.
+
+  Le musée a engagé un *spécialiste* de la restauration des tableaux anciens.
+  Das Museum hat einen *Spezialisten* für die Restaurierung alter Gemälde eingestellt.
+
+  "C'est un vrai *spécialiste* des excuses bidons !"
+  "Der ist ein echter *Meister* im Erfinden von Ausreden!"
+
+  Les *spécialistes* recommandent de boire beaucoup d'eau pendant la canicule.
+  Die *Experten* empfehlen, während der Hitzewelle viel Wasser zu trinken.
+
+  Marie est devenue *spécialiste* des maladies tropicales après ses études.
+  Marie ist nach ihrem Studium *Fachärztin* für Tropenkrankheiten geworden.
+
+  Cette entreprise recrute des *spécialistes* de la cybersécurité.
+  Diese Firma stellt *Fachkräfte* für Cybersicherheit ein.
+
+  Le *spécialiste* du marketing digital a analysé nos données.
+  Der *Experte* für digitales Marketing hat unsere Daten analysiert.
+
+  Nous avons consulté une *spécialiste* en développement durable.
+  Wir haben eine *Expertin* für nachhaltige Entwicklung konsultiert.
+
+  Les *spécialistes* du climat prévoient un été très chaud.
+  Die Klima*experten* sagen einen sehr heißen Sommer voraus.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

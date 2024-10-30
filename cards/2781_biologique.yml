@@ -13,23 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les études sur les effets biologiques des radiations sont restées rares.
-  Studien über die biologischen Auswirkungen von Strahlung sind selten geblieben.
+  Les études sur les effets *biologiques* des radiations sont restées rares.
+  Die Studien über die *biologischen* Auswirkungen der Strahlung sind selten geblieben.
 
-  Les aliments biologiques sont plus chers.
-  Bio-Lebensmittel sind teurer.
+  La ferme *biologique* de mon oncle produit des légumes délicieux.
+  Der *Bio*bauernhof meines Onkels produziert köstliches Gemüse.
 
-  Le gouvernement a décidé d'interdire la production et l'utilisation d'armes biologiques.
-  Die Regierung hat beschlossen, die Produktion und den Einsatz von biologischen Waffen zu verbieten.
+  Elle est devenue paysanne *biologique* il y a cinq ans.
+  Sie ist vor fünf Jahren *Bio*bäuerin geworden.
 
-  La ferme biologique de Jean produit des légumes de qualité supérieure.
-  Auf dem Biobauernhof von Jean werden hochwertige Gemüsesorten produziert.
+  Le rythme *biologique* de chaque personne est différent.
+  Der *biologische* Rhythmus jedes Menschen ist unterschiedlich.
 
-  Le paysan biologique cultive ses légumes sans pesticides ni herbicides.
-  Der Biobauer baut sein Gemüse ohne Pestizide und Herbizide an.
+  Les processus *biologiques* du corps humain sont fascinants.
+  Die *biologischen* Prozesse des menschlichen Körpers sind faszinierend.
 
-  Le terrorisme biologique est une menace sérieuse pour la sécurité mondiale.
-  Bioterrorismus ist eine ernstzunehmende Bedrohung für die weltweite Sicherheit.
+  Les aliments *biologiques* coûtent souvent plus cher que les autres.
+  *Bio*lebensmittel sind oft teurer als andere.
+
+  Cette loi *biologique* s'applique à tous les mammifères.
+  Dieses *biologische* Gesetz gilt für alle Säugetiere.
+
+  L'agriculture *biologique* gagne en popularité chaque année.
+  Die *biologische* Landwirtschaft gewinnt jedes Jahr an Beliebtheit.
+
+  Les sciences *biologiques* m'ont toujours passionné.
+  Die *biologischen* Wissenschaften haben mich schon immer fasziniert.
+
+  Les chercheurs ont fait une découverte *biologique* importante.
+  Die Forscher haben eine wichtige *biologische* Entdeckung gemacht.
+
+  Son jardin est entièrement *biologique*, sans pesticides.
+  Sein Garten ist komplett *biologisch*, ohne Pestizide.
+
+  Cette université est réputée pour ses recherches *biologiques*.
+  Diese Universität ist bekannt für ihre *biologischen* Forschungen.
+
+  Les produits *biologiques* sont meilleurs pour l'environnement.
+  *Bio*produkte sind besser für die Umwelt.
+
+  Le développement *biologique* des plantes dépend de nombreux facteurs.
+  Die *biologische* Entwicklung von Pflanzen hängt von vielen Faktoren ab.
+
+  J'achète mes fruits dans un magasin *biologique*.
+  Ich kaufe mein Obst in einem *Bio*laden.
+
+  Les armes *biologiques* sont interdites par les conventions internationales.
+  *Biologische* Waffen sind durch internationale Abkommen verboten.
+
+  Le terrorisme *biologique* représente une menace sérieuse.
+  *Bio*terrorismus stellt eine ernsthafte Bedrohung dar.
+
+  Cette méthode *biologique* de culture est très efficace.
+  Diese *biologische* Anbaumethode ist sehr effektiv.
+
+  Les phénomènes *biologiques* sont souvent complexes à étudier.
+  *Biologische* Phänomene sind oft schwierig zu erforschen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

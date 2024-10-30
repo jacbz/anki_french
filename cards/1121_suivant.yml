@@ -13,20 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les 20 jours suivants, ils meurent de faim.
-  In den nächsten 20 Tagen verhungern sie.
+  Les 20 jours *suivants*, ils meurent de faim.
+  Die *nächsten* 20 Tage verhungern sie.
 
-  Le livre suivant est encore meilleur.
-  Das nächste Buch ist noch besser.
+  La page *suivante* explique les détails du processus.
+  Die *nächste* Seite erklärt die Details des Prozesses.
 
-  Je lui ai dit de venir le jour suivant.
-  Ich sagte ihm, er solle am nächsten Tag kommen.
+  Le bus s'est arrêté à l'arrêt *suivant*.
+  Der Bus hielt an der *nächsten* Haltestelle.
 
-  La façon dont on perçoit le monde change suivant qu'on est jeune ou vieux.
-  Die Art und Weise, wie wir die Welt wahrnehmen, verändert sich je nachdem, ob man jung oder alt ist.
+  "*Au suivant* !" cria le coiffeur.
+  "Der *Nächste*!" rief der Friseur.
 
-  Au suivant ! C'est ton tour de choisir.
-  Der Nächste! Du bist jetzt an der Reihe zu wählen.
+  *Suivant* les circonstances, nous devrons adapter notre stratégie.
+  *Je nach* den Umständen müssen wir unsere Strategie anpassen.
+
+  La réunion est reportée à la semaine *suivante*.
+  Die Besprechung wird auf die *nächste* Woche verschoben.
+
+  *Suivant* ses conseils, j'ai changé mon alimentation.
+  *Gemäß* seinen Ratschlägen habe ich meine Ernährung umgestellt.
+
+  Découpez le papier *suivant* les pointillés.
+  Schneiden Sie das Papier *entlang* der gestrichelten Linie.
+
+  Je vous présente l'exemple *suivant*.
+  Ich präsentiere Ihnen das *folgende* Beispiel.
+
+  *Suivant* qu'il pleuve ou non, nous irons au parc.
+  *Je nachdem*, ob es regnet oder nicht, gehen wir in den Park.
+
+  Les événements *suivants* ont changé sa vie pour toujours.
+  Die *folgenden* Ereignisse veränderten sein Leben für immer.
+
+  L'ordre du jour est le *suivant* : présentation, pause, discussion.
+  Die Tagesordnung ist die *folgende*: Präsentation, Pause, Diskussion.
+
+  Le patient *suivant* peut entrer.
+  Der *nächste* Patient kann hereinkommen.
+
+  *Suivant* la tradition, nous mangeons du poisson le vendredi.
+  Der *Tradition gemäß* essen wir freitags Fisch.
+
+  La fois *suivante*, je ferai plus attention.
+  Das *nächste* Mal werde ich besser aufpassen.
+
+  *Suivant* son habitude, il arrive en retard.
+  Seiner *Gewohnheit entsprechend* kommt er zu spät.
+
+  Le chapitre *suivant* traite des verbes irréguliers.
+  Das *nächste* Kapitel behandelt die unregelmäßigen Verben.
+
+  *Suivant* les experts, la situation va s'améliorer.
+  Den *Experten zufolge* wird sich die Situation verbessern.
+
+  L'exercice *suivant* est plus difficile.
+  Die *nächste* Übung ist schwieriger.
+
+  *Suivant* la météo, nous prendrons la voiture ou le vélo.
+  *Je nach* Wetter nehmen wir das Auto oder das Fahrrad.
+
+  Veuillez passer à la diapositive *suivante*.
+  Bitte gehen Sie zur *nächsten* Folie.
+
+  *Suivant* les règles du jeu, on ne peut pas reculer.
+  Den Spielregeln *entsprechend* kann man nicht zurückgehen.
+
+  Le train *suivant* part dans une heure.
+  Der *nächste* Zug fährt in einer Stunde.
+
+  La cliente *suivante* s'est plainte du service.
+  Die *nächste* Kundin beschwerte sich über den Service.
+
+  *Suivant* les saisons, les prix varient considérablement.
+  *Je nach* Jahreszeit schwanken die Preise erheblich.
+
+  Le candidat *suivant* peut entrer dans la salle d'examen.
+  Der *nächste* Kandidat kann den Prüfungsraum betreten.
+
+  La température varie *suivant* l'altitude.
+  Die Temperatur variiert *je nach* Höhe.
+
+  Le mois *suivant*, elle a démissionné.
+  Im *folgenden* Monat kündigte sie.
+
+  *Suivant* vos instructions, j'ai rempli le formulaire.
+  *Gemäß* Ihren Anweisungen habe ich das Formular ausgefüllt.
+
+  Le concert *suivant* aura lieu en plein air.
+  Das *nächste* Konzert findet unter freiem Himmel statt.
+
+  *Suivant* la recette, il faut ajouter du sel.
+  *Nach* dem Rezept muss man Salz hinzufügen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

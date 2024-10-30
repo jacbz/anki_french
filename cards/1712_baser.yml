@@ -13,23 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cette loi se base sur trois principes.
-  Dieses Gesetz basiert auf drei Grundsätzen.
+  Cette loi se *base* sur trois principes.
+  Dieses Gesetz *basiert* auf drei Prinzipien.
 
-  Ce film est basé sur une histoire vraie.
-  Dieser Film basiert auf einer wahren Geschichte.
+  Son raisonnement est *basé* sur des faits scientifiques.
+  Seine Argumentation *basiert* auf wissenschaftlichen Fakten.
 
-  Il a basé sa décision sur les informations qu'il avait reçues.
-  Er hat seine Entscheidung auf die Informationen gestützt, die er erhalten hatte.
+  La théorie de Darwin se *base* sur des observations minutieuses.
+  Darwins Theorie *stützt* sich auf sorgfältige Beobachtungen.
 
-  Je me base sur mon expérience pour te donner ce conseil.
-  Ich stütze mich auf meine Erfahrung, um dir diesen Rat zu geben.
+  Sur quoi vous *basez*-vous pour faire cette affirmation ?
+  Worauf *stützen* Sie sich bei dieser Behauptung?
 
-  L'entreprise est basée à Strasbourg, mais elle a des filiales dans toute l'Europe.
-  Das Unternehmen ist in Straßburg stationiert, aber es hat Niederlassungen in ganz Europa.
+  Le succès de l'entreprise se *base* sur l'innovation constante.
+  Der Erfolg des Unternehmens *beruht* auf ständiger Innovation.
 
-  Le film est basé sur un roman de Stephen King.
-  Der Film basiert auf einem Roman von Stephen King.
+  L'escadron est *basé* à Toulouse depuis trois ans.
+  Die Staffel ist seit drei Jahren in Toulouse *stationiert*.
+
+  Notre équipe de recherche est *basée* à l'université de Lyon.
+  Unser Forschungsteam ist an der Universität Lyon *stationiert*.
+
+  Il a *basé* toute sa carrière sur cette découverte.
+  Er hat seine ganze Karriere auf diese Entdeckung *gestützt*.
+
+  Le film est *basé* sur une histoire vraie.
+  Der Film *basiert* auf einer wahren Geschichte.
+
+  Les troupes sont *basées* près de la frontière.
+  Die Truppen sind nahe der Grenze *stationiert*.
+
+  Je me *base* sur mon expérience personnelle.
+  Ich *stütze* mich auf meine persönliche Erfahrung.
+
+  Cette décision est *basée* sur des critères objectifs.
+  Diese Entscheidung ist auf objektive Kriterien *gestützt*.
+
+  La flotte américaine est *basée* dans le Pacifique.
+  Die amerikanische Flotte ist im Pazifik *stationiert*.
+
+  L'entreprise a *basé* sa stratégie sur l'analyse du marché.
+  Das Unternehmen hat seine Strategie auf die Marktanalyse *gestützt*.
+
+  Il *base* ses espoirs sur le changement climatique.
+  Er *stützt* seine Hoffnungen auf den Klimawandel.
+
+  Le professeur se *base* sur des arguments solides.
+  Der Professor *stützt* sich auf stichhaltige Argumente.
+
+  Les conclusions se *basent* sur des études approfondies.
+  Die Schlussfolgerungen *beruhen* auf gründlichen Studien.
+
+  La start-up est *basée* à Berlin depuis sa création.
+  Das Start-up ist seit seiner Gründung in Berlin *ansässig*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

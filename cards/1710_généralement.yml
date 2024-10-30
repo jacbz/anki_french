@@ -13,14 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les conditions sont généralement favorables.
-  Die Bedingungen sind im Allgemeinen günstig.
+  Les conditions sont *généralement* favorables.
+  Die Bedingungen sind *im Allgemeinen* günstig.
 
-  Généralement, je me lève tôt.
-  Generell stehe ich früh auf.
+  Cette hypothèse est *généralement* acceptée par les scientifiques.
+  Diese Hypothese wird von Wissenschaftlern *allgemein* akzeptiert.
 
-  Généralement parlant, le climat est plus doux en bord de mer.
-  Allgemein gesprochen ist das Klima am Meer milder.
+  *Généralement* parlant, cette solution me semble la meilleure.
+  *Allgemein* gesprochen scheint mir diese Lösung die beste zu sein.
+
+  Le petit-déjeuner est *généralement* servi entre 7h et 10h.
+  Das Frühstück wird *normalerweise* zwischen 7 und 10 Uhr serviert.
+
+  Les chats sont *généralement* plus indépendants que les chiens.
+  Katzen sind *im Allgemeinen* unabhängiger als Hunde.
+
+  Il fait *généralement* chaud en été dans cette région.
+  In dieser Region ist es im Sommer *gewöhnlich* warm.
+
+  Cette pratique est *généralement* répandue dans tout le pays.
+  Diese Praxis ist im ganzen Land *allgemein* verbreitet.
+
+  Les magasins sont *généralement* fermés le dimanche.
+  Die Geschäfte sind *normalerweise* sonntags geschlossen.
+
+  Ces règles sont *généralement* respectées par tous les élèves.
+  Diese Regeln werden von allen Schülern *im Allgemeinen* eingehalten.
+
+  La situation est *généralement* calme le soir.
+  Die Situation ist abends *normalerweise* ruhig.
+
+  Le professeur arrive *généralement* à l'heure.
+  Der Lehrer kommt *gewöhnlich* pünktlich.
+
+  Les touristes sont *généralement* satisfaits de leur séjour.
+  Die Touristen sind mit ihrem Aufenthalt *im Allgemeinen* zufrieden.
+
+  Les résultats sont *généralement* meilleurs au printemps.
+  Die Ergebnisse sind im Frühling *üblicherweise* besser.
+
+  On considère *généralement* que l'exercice est bon pour la santé.
+  Man ist *allgemein* der Ansicht, dass Bewegung gut für die Gesundheit ist.
+
+  *Généralement*, les enfants aiment jouer dehors.
+  *Im Allgemeinen* spielen Kinder gerne draußen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

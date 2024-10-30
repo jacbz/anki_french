@@ -13,26 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Aucun fait n’autorise cette accusation de jalousie.
-  Es gibt keine Tatsachen, die diesen Vorwurf der Eifersucht rechtfertigen.
+  Aucun fait n'*autorise* cette accusation de jalousie.
+  Keine Tatsache *rechtfertigt* diesen Vorwurf der Eifersucht.
 
-  Je vous autorise à partir plus tôt aujourd’hui.
-  Ich erlaube Ihnen, heute früher zu gehen.
+  Le directeur m'a *autorisé* à partir plus tôt aujourd'hui.
+  Der Direktor hat mir *erlaubt*, heute früher zu gehen.
 
-  Je t’autorise à y aller.
-  Ich erlaube dir, dorthin zu gehen.
+  Les parents ne l'ont pas *autorisée* à aller à la fête.
+  Die Eltern haben ihr nicht *gestattet*, zur Party zu gehen.
 
-  Le gouvernement a autorisé Pierre à fonder une entreprise.
-  Die Regierung hat Pierre gestattet, ein Unternehmen zu gründen.
+  Je vous *autorise* à utiliser mon nom comme référence.
+  Ich *ermächtige* Sie, meinen Namen als Referenz zu verwenden.
 
-  L'entreprise a autorisé son directeur à contracter des prêts.
-  Das Unternehmen hat seinen Geschäftsführer ermächtigt, Verträge zu schließen.
+  La nouvelle loi *autorise* la vente d'alcool le dimanche.
+  Das neue Gesetz *erlaubt* den Verkauf von Alkohol am Sonntag.
 
-  Tout nous autorise à penser que le projet sera un succès.
-  Wir haben allen Anlass anzunehmen, dass das Projekt ein Erfolg wird.
+  Les résultats positifs nous *autorisent* à être optimistes.
+  Die positiven Ergebnisse geben uns *Anlass* zum Optimismus.
 
-  Les employés sont autorisés à entrer dans le bâtiment avec leur badge.
-  Die Angestellten dürfen mit ihrem Ausweis in das Gebäude hineingehen.
+  Elle s'est *autorisé* une courte pause après trois heures de travail.
+  Sie hat sich nach drei Stunden Arbeit eine kurze Pause *gegönnt*.
+
+  La mairie a *autorisé* la manifestation pacifique.
+  Das Rathaus hat die friedliche Demonstration *genehmigt*.
+
+  Les médecins l'ont *autorisé* à reprendre le sport.
+  Die Ärzte haben ihm *erlaubt*, wieder Sport zu treiben.
+
+  Seuls les véhicules *autorisés* peuvent se garer ici.
+  Nur *zugelassene* Fahrzeuge dürfen hier parken.
+
+  Il s'*autorise* de votre silence pour continuer ses actions.
+  Er nimmt Ihr Schweigen als *Berechtigung*, seine Handlungen fortzusetzen.
+
+  Le gouvernement n'*autorisera* pas cette fusion d'entreprises.
+  Die Regierung wird diese Unternehmensfusion nicht *genehmigen*.
+
+  Les conditions météorologiques n'*autorisent* pas le décollage.
+  Die Wetterbedingungen *lassen* den Start nicht *zu*.
+
+  La carte d'accès vous *autorise* à utiliser toutes les installations.
+  Die Zugangskarte *berechtigt* Sie zur Nutzung aller Einrichtungen.
+
+  Ces documents *autorisés* font référence dans le domaine.
+  Diese *maßgeblichen* Dokumente sind in diesem Bereich richtungsweisend.
+
+  Le règlement *autorise* exceptionnellement les chiens dans le parc.
+  Die Verordnung *lässt* ausnahmsweise Hunde im Park *zu*.
+
+  Qui vous a *autorisé* à modifier le projet sans me consulter?
+  Wer hat Ihnen *gestattet*, das Projekt ohne meine Rücksprache zu ändern?
+
+  Le juge *autorise* la publication du livre controversé.
+  Der Richter *genehmigt* die Veröffentlichung des umstrittenen Buches.
+
+  Cette situation n'*autorise* pas de tels comportements.
+  Diese Situation *rechtfertigt* solche Verhaltensweisen nicht.
+
+  Le conseil d'administration *autorise* l'augmentation du capital.
+  Der Verwaltungsrat *genehmigt* die Kapitalerhöhung.
+
+  Je ne m'*autorise* jamais à juger les autres.
+  Ich *erlaube* mir nie, über andere zu urteilen.
+
+  Les nouveaux règlements *autorisent* plus de flexibilité.
+  Die neuen Vorschriften *lassen* mehr Flexibilität *zu*.
+
+  Son expérience l'*autorise* à donner son avis sur ce sujet.
+  Seine Erfahrung *berechtigt* ihn dazu, seine Meinung zu diesem Thema zu äußern.
+
+  La banque vous a *autorisé* un découvert de mille euros.
+  Die Bank hat Ihnen ein Überziehungskonto von tausend Euro *genehmigt*.
+
+  Le patron s'*autorise* quelques remarques sur notre travail.
+  Der Chef *erlaubt* sich einige Bemerkungen zu unserer Arbeit.
+
+  Êtes-vous *autorisé* à divulguer ces informations?
+  Sind Sie *befugt*, diese Informationen weiterzugeben?
+
+  Le comité n'*autorisera* jamais une telle dépense.
+  Der Ausschuss wird eine solche Ausgabe niemals *bewilligen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,23 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils font leur routine habituelle.
-  Sie gehen ihrer üblichen Routine nach.
+  Ils font leur routine *habituelle*.
+  Sie machen ihre *gewohnte* Routine.
 
-  C’est notre lieu de rendez-vous habituel.
-  Das ist unser gewöhnlicher Treffpunkt.
+  À mon *habituelle* question sur sa santé, elle n'a pas répondu.
+  Auf meine *übliche* Frage nach ihrer Gesundheit hat sie nicht geantwortet.
 
-  Le train est arrivé à l'heure habituelle, ce qui a permis à Marie de prendre son rendez-vous à temps.
-  Der Zug kam zur gewohnten Zeit an, was es Marie ermöglichte, ihren Termin rechtzeitig wahrzunehmen.
+  Je ne le trouve pas dans son état *habituel* aujourd'hui.
+  Ich finde ihn heute nicht so, wie er *sonst* ist.
 
-  Il est habituel de manger une soupe le soir dans cette famille.
-  Es ist allgemein üblich, in dieser Familie abends Suppe zu essen.
+  La chaleur *habituelle* du mois d'août rend le travail difficile.
+  Die *gewohnte* Augusthitze macht das Arbeiten schwer.
 
-  Il n'était pas dans son état habituel, il semblait fatigué et déprimé.
-  Er war nicht so wie sonst, er wirkte müde und deprimiert.
+  Le restaurant est plein de nos clients *habituels*.
+  Das Restaurant ist voll mit unseren *Stamm*kunden.
 
-  Le caractère habituel de son comportement a fini par lui nuire, car personne ne lui a jamais dit qu'il était mal élevé.
-  Die Gewohnheitsmäßigkeit seines Verhaltens hat ihm letztendlich geschadet, weil ihm niemand je gesagt hat, dass er schlecht erzogen ist.
+  Marie a préparé le repas avec son excellence *habituelle*.
+  Marie hat das Essen mit ihrer *gewohnten* Exzellenz zubereitet.
+
+  Il est *habituel* de se serrer la main en se saluant.
+  Es ist *üblich*, sich zur Begrüßung die Hand zu geben.
+
+  Le parc est devenu notre lieu de rendez-vous *habituel*.
+  Der Park ist zu unserem *gewohnten* Treffpunkt geworden.
+
+  As-tu remarqué son agressivité *habituelle* envers les nouveaux employés ?
+  Ist dir seine *übliche* Aggressivität gegenüber neuen Mitarbeitern aufgefallen?
+
+  Les membres du conseil se réunissent à l'heure *habituelle*.
+  Die Vorstandsmitglieder treffen sich zur *gewohnten* Zeit.
+
+  Cette réaction est tout à fait *habituelle* chez les enfants de cet âge.
+  Diese Reaktion ist bei Kindern in diesem Alter völlig *normal*.
+
+  Pierre n'a pas utilisé ses formules de politesse *habituelles*.
+  Pierre hat seine *üblichen* Höflichkeitsfloskeln nicht verwendet.
+
+  Le phénomène est devenu tellement *habituel* qu'on ne le remarque même plus.
+  Das Phänomen ist so *alltäglich* geworden, dass man es gar nicht mehr bemerkt.
+
+  Contrairement à son comportement *habituel*, il est resté calme.
+  Entgegen seinem *üblichen* Verhalten blieb er ruhig.
+
+  Au sens *habituel* du terme, cela signifie autre chose.
+  Im *gewöhnlichen* Sinne des Wortes bedeutet das etwas anderes.
+
+  Les fournisseurs *habituels* n'ont pas pu livrer cette semaine.
+  Die *üblichen* Lieferanten konnten diese Woche nicht liefern.
+
+  La séance commence avec son retard *habituel* de dix minutes.
+  Die Sitzung beginnt mit ihrer *gewohnten* Verspätung von zehn Minuten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

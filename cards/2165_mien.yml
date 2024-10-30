@@ -13,26 +13,92 @@ Register: ↗Fiktion ↘Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le mien avait fonctionné sur 20 ans.
-  Meiner hatte 20 Jahre lang funktioniert.
+  Le *mien* avait fonctionné sur 20 ans.
+  Der *meine* hatte 20 Jahre lang funktioniert.
 
-  Ce livre est le mien.
-  Dieses Buch ist meins.
+  Cette voiture n'est pas à toi, c'est la *mienne*.
+  Dieses Auto gehört nicht dir, das ist das *meine*.
 
-  C'est le mien.
-  Das ist meins.
+  Un *mien* cousin habite à Paris depuis longtemps.
+  Ein *Vetter* von mir wohnt seit langem in Paris.
 
-  La maison bleue est la mienne.
-  Das blaue Haus ist meines.
+  J'ai fait *miennes* ses idées sur l'environnement.
+  Ich habe mir seine Ideen über die Umwelt zu *eigen* gemacht.
 
-  Cette valise est la mienne.
-  Dieser Koffer ist meiner.
+  Cette maison est la *mienne* depuis trois générations.
+  Dieses Haus ist seit drei Generationen das *meine*.
 
-  J'ai mis du mien pour réussir ce projet.
-  Ich habe mein Bestes getan, um dieses Projekt zu schaffen.
+  Les enfants des voisins jouent avec les *miens*.
+  Die Kinder der Nachbarn spielen mit *meinen*.
 
-  J'ai fait miens les principes de ma grand-mère.
-  Ich habe mir die Prinzipien meiner Großmutter zu eigen gemacht.
+  Je dois m'occuper des *miens* avant tout.
+  Ich muss mich vor allem um die *Meinen* kümmern.
+
+  "*À la mienne*!" s'est-il exclamé en levant son verre.
+  "Auf *mein* Wohl!" rief er und hob sein Glas.
+
+  Cette décision était la *mienne*, pas la sienne.
+  Diese Entscheidung war die *meine*, nicht seine.
+
+  J'y ai mis du *mien* pour résoudre ce conflit.
+  Ich habe *meinen* Teil dazu beigetragen, diesen Konflikt zu lösen.
+
+  Ton jardin est plus grand que le *mien*.
+  Dein Garten ist größer als der *meine*.
+
+  Les *miens* m'ont toujours soutenu dans mes projets.
+  Die *Meinen* haben mich bei meinen Projekten immer unterstützt.
+
+  Cette responsabilité est désormais *mienne*.
+  Diese Verantwortung ist nun die *meine*.
+
+  Votre chat est noir, le *mien* est blanc.
+  Ihre Katze ist schwarz, die *meine* ist weiß.
+
+  Je ferai *mienne* cette noble cause.
+  Ich werde mir diese edle Sache zu *eigen* machen.
+
+  Son ordinateur est plus récent que le *mien*.
+  Sein Computer ist neuer als der *meine*.
+
+  Les *miens* viendront dîner demain soir.
+  Die *Meinen* werden morgen Abend zum Essen kommen.
+
+  Vos problèmes sont devenus *miens*.
+  Ihre Probleme sind zu den *meinen* geworden.
+
+  Un *mien* ami m'a raconté cette histoire.
+  Ein *Freund* von mir hat mir diese Geschichte erzählt.
+
+  Cette victoire n'est pas que la *mienne*.
+  Dieser Sieg ist nicht nur der *meine*.
+
+  Je dois protéger les *miens* avant tout.
+  Ich muss vor allem die *Meinen* beschützen.
+
+  Ton point de vue sera le *mien*.
+  Dein Standpunkt wird der *meine* sein.
+
+  Cette découverte est *mienne*.
+  Diese Entdeckung ist die *meine*.
+
+  Ses amis sont devenus les *miens*.
+  Seine Freunde sind zu den *meinen* geworden.
+
+  Les *miens* m'attendent à la maison.
+  Die *Meinen* warten zu Hause auf mich.
+
+  Ta chambre est plus lumineuse que la *mienne*.
+  Dein Zimmer ist heller als das *meine*.
+
+  Ces principes sont désormais *miens*.
+  Diese Prinzipien sind nun die *meinen*.
+
+  Ton chien et le *mien* s'entendent bien.
+  Dein Hund und der *meine* verstehen sich gut.
+
+  Cette réussite est aussi *mienne* que la tienne.
+  Dieser Erfolg ist ebenso der *meine* wie deiner.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

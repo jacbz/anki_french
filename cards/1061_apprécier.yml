@@ -13,29 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils n’apprécient pas le spectacle.
-  Sie genießen das Schauspiel nicht.
+  Ils n'*apprécient* pas le spectacle.
+  Sie *schätzen* die Aufführung nicht.
 
-  J’apprécie ton aide.
-  Ich schätze deine Hilfe.
+  L'expert doit *apprécier* la valeur de ce tableau ancien.
+  Der Experte muss den Wert dieses alten Gemäldes *einschätzen*.
 
-  Il sait apprécier un bon repas, préparé avec des ingrédients frais.
-  Er weiß ein gutes Essen zu schätzen, das mit frischen Zutaten zubereitet ist.
+  Je n'ai pas *apprécié* ta remarque désobligeante.
+  Ich habe deine unhöfliche Bemerkung nicht *geschätzt*.
 
-  Il n'a pas apprécié! Le film était trop long et ennuyant.
-  Das hat ihm gar nicht gefallen! Der Film war zu lang und langweilig.
+  Le pilote doit *apprécier* la vitesse et la distance en quelques secondes.
+  Der Pilot muss Geschwindigkeit und Entfernung in wenigen Sekunden *abschätzen*.
 
-  Laissez le chef apprécier la qualité de votre vin.
-  Lassen Sie den Koch die Qualität Ihres Weins beurteilen.
+  "Il n'a vraiment pas *apprécié* quand je suis arrivé en retard !"
+  "Er hat es gar nicht *gemocht*, als ich zu spät kam!"
 
-  Je n'apprécie pas que tu me parles sur ce ton.
-  Es nicht sehr schätzen, dass du mit mir in diesem Ton sprichst.
+  Ces deux collègues s'*apprécient* beaucoup.
+  Diese beiden Kollegen *schätzen* sich sehr.
 
-  Je vous laisse apprécier le paysage magnifique qui s'offre à vous.
-  Ich lasse Sie selbst urteilen über die wunderschöne Landschaft, die sich Ihnen bietet.
+  L'euro s'est *apprécié* par rapport au dollar cette semaine.
+  Der Euro hat diese Woche gegenüber dem Dollar an Wert *gewonnen*.
 
-  Il a essayé de se faire apprécier de ses collègues, mais il n'y est pas parvenu.
-  Er hat versucht, sich bei seinen Kollegen durchzusetzen, aber er hat es nicht geschafft.
+  Comment *apprécier* les dégâts causés par l'incendie ?
+  Wie soll man den durch das Feuer verursachten Schaden *einschätzen*?
+
+  Marie sait vraiment *apprécier* un bon verre de vin.
+  Marie weiß einen guten Wein wirklich zu *schätzen*.
+
+  Les experts ont *apprécié* les bijoux à cent mille euros.
+  Die Experten haben den Schmuck auf hunderttausend Euro *geschätzt*.
+
+  Le jury va *apprécier* les performances des candidats.
+  Die Jury wird die Leistungen der Kandidaten *bewerten*.
+
+  Il faut savoir *apprécier* les petits moments de bonheur.
+  Man muss die kleinen Glücksmomente zu *schätzen* wissen.
+
+  Le médecin doit *apprécier* la gravité de la situation.
+  Der Arzt muss den Ernst der Lage *einschätzen*.
+
+  Les étudiants *apprécient* particulièrement ce professeur.
+  Die Studenten *schätzen* diesen Professor besonders.
+
+  Comment *apprécier* la distance entre ces deux points ?
+  Wie kann man die Entfernung zwischen diesen beiden Punkten *abschätzen*?
+
+  Je vous laisse *apprécier* la situation par vous-même.
+  Ich lasse Sie die Situation selbst *beurteilen*.
+
+  Il s'est rapidement fait *apprécier* de ses nouveaux voisins.
+  Er hat sich bei seinen neuen Nachbarn schnell *beliebt* gemacht.
+
+  Les critiques ont beaucoup *apprécié* son dernier film.
+  Die Kritiker haben seinen letzten Film sehr *geschätzt*.
+
+  Elle *apprécie* particulièrement la cuisine italienne.
+  Sie *schätzt* besonders die italienische Küche.
+
+  Je n'*apprécie* pas du tout qu'il arrive toujours en retard.
+  Ich *schätze* es überhaupt nicht, dass er immer zu spät kommt.
+
+  Le chef *apprécie* son travail minutieux.
+  Der Chef *schätzt* seine sorgfältige Arbeit.
+
+  Il faut *apprécier* chaque instant de la vie.
+  Man muss jeden Augenblick des Lebens *schätzen*.
+
+  Les experts doivent *apprécier* l'authenticité de ce document.
+  Die Experten müssen die Echtheit dieses Dokuments *beurteilen*.
+
+  Il n'a pas *apprécié* la plaisanterie.
+  Er hat den Scherz nicht *gemocht*.
+
+  Nous devons *apprécier* les risques avant de prendre une décision.
+  Wir müssen die Risiken *einschätzen*, bevor wir eine Entscheidung treffen.
+
+  Le public a beaucoup *apprécié* son nouveau spectacle.
+  Das Publikum hat seine neue Show sehr *geschätzt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

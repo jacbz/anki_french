@@ -13,17 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis désolé de t’avoir impliqué.
-  Es tut mir leid, dass ich dich da hineingezogen habe.
+  Je suis désolé de t'avoir *impliqué*.
+  Es tut mir leid, dass ich dich *verwickelt* habe.
 
-  Cette décision implique des risques.
-  Diese Entscheidung birgt Risiken.
+  La réussite *implique* beaucoup de travail.
+  Erfolg *setzt* viel Arbeit *voraus*.
 
-  Le policier a impliqué le suspect dans le cambriolage.
-  Der Polizist hat den Verdächtigen in den Einbruch verwickelt.
+  Il s'est *impliqué* dans son nouveau projet avec passion.
+  Er hat sich mit Leidenschaft für sein neues Projekt *eingesetzt*.
 
-  S'impliquer dans la vie associative est un bon moyen de rencontrer des gens.
-  Sich für das Vereinsleben zu engagieren, ist eine gute Möglichkeit, Leute kennenzulernen.
+  Cette théorie *implique* que l'univers est infini.
+  Diese Theorie *bedeutet*, dass das Universum unendlich ist.
+
+  Son geste maladroit l'a *impliqué* dans le scandale.
+  Seine unbeholfene Geste hat ihn in den Skandal *verwickelt*.
+
+  Les nouvelles technologies *impliquent* des changements dans notre façon de vivre.
+  Neue Technologien *erfordern* Veränderungen in unserer Lebensweise.
+
+  Je ne veux pas être *impliqué* dans vos problèmes.
+  Ich will nicht in eure Probleme *verwickelt* werden.
+
+  Cette solution *implique* des coûts supplémentaires.
+  Diese Lösung *bedeutet* zusätzliche Kosten.
+
+  Les parents doivent s'*impliquer* dans l'éducation de leurs enfants.
+  Eltern müssen sich für die Erziehung ihrer Kinder *einsetzen*.
+
+  Le directeur a été *impliqué* dans une affaire de corruption.
+  Der Direktor wurde in eine Korruptionsaffäre *verwickelt*.
+
+  La présence d'eau *implique* la possibilité de vie.
+  Das Vorhandensein von Wasser *impliziert* die Möglichkeit von Leben.
+
+  Elle s'*implique* toujours dans les causes humanitaires.
+  Sie *setzt* sich immer für humanitäre Zwecke *ein*.
+
+  Cette définition *implique* une contradiction logique.
+  Diese Definition *impliziert* einen logischen Widerspruch.
+
+  Le silence de Pierre *implique* qu'il est d'accord.
+  Pierres Schweigen *bedeutet*, dass er einverstanden ist.
+
+  Les témoins ont été *impliqués* malgré eux.
+  Die Zeugen wurden gegen ihren Willen *verwickelt*.
+
+  La démocratie *implique* la participation des citoyens.
+  Demokratie *setzt* die Beteiligung der Bürger *voraus*.
+
+  Je m'*implique* beaucoup dans mon travail.
+  Ich *setze* mich sehr für meine Arbeit *ein*.
+
+  Cette décision *implique* un changement de stratégie.
+  Diese Entscheidung *erfordert* eine Änderung der Strategie.
+
+  Les scientifiques se sont *impliqués* dans le débat.
+  Die Wissenschaftler haben sich in die Debatte *eingebracht*.
+
+  Être humain *implique* être mortel.
+  Menschsein *impliziert* Sterblichkeit.
+
+  Marie ne veut pas s'*impliquer* dans cette dispute.
+  Marie will sich nicht in diesen Streit *einmischen*.
+
+  Son comportement *implique* qu'il cache quelque chose.
+  Sein Verhalten *deutet* darauf hin, dass er etwas verbirgt.
+
+  Le projet *implique* la collaboration de plusieurs équipes.
+  Das Projekt *erfordert* die Zusammenarbeit mehrerer Teams.
+
+  Nous nous sommes trop *impliqués* émotionnellement.
+  Wir haben uns emotional zu sehr *engagiert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

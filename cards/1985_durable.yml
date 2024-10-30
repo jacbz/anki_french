@@ -9,13 +9,60 @@ Femininum / Plural: ''
 IPA: \dy.ʁabl\
 Definition: dauerhaft, nachhaltig
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "La transgenèse promeut une agriculture durable.\nTransgenese fördert\
-  \ eine nachhaltige Landwirtschaft.\n\nNous devons trouver des solutions durables\
-  \ pour protéger l’environnement.\nWir müssen nachhaltige Lösungen finden, um die\
-  \ Umwelt zu schützen.\n\nCe projet est non durable, il ne résistera pas à l'épreuve\
-  \ du temps.\nDieses Projekt ist kurzlebig, es wird der Zeit nicht standhalten. \n\
-  \nLa mode actuelle est non durable, les tendances changent trop vite.\nDie aktuelle\
-  \ Mode ist kurzlebig, die Trends ändern sich zu schnell."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  La transgenèse promeut une agriculture *durable*.
+  Die Transgenese fördert eine *nachhaltige* Landwirtschaft.
+
+  Les matériaux utilisés dans cette construction sont très *durables*.
+  Die in diesem Bau verwendeten Materialien sind sehr *solide*.
+
+  Un tel bonheur ne peut pas être *durable*.
+  Ein solches Glück kann nicht *dauerhaft* sein.
+
+  Cette impression a laissé des traces *durables* dans ma mémoire.
+  Dieser Eindruck hat *bleibende* Spuren in meiner Erinnerung hinterlassen.
+
+  Les énergies *durables* sont essentielles pour notre avenir.
+  *Nachhaltige* Energien sind entscheidend für unsere Zukunft.
+
+  Son influence sur la politique est restée *durable*.
+  Sein Einfluss auf die Politik blieb *dauerhaft*.
+
+  Cette paix semblait enfin *durable*.
+  Dieser Frieden schien endlich *dauerhaft* zu sein.
+
+  Le développement *durable* est un défi mondial.
+  Die *nachhaltige* Entwicklung ist eine globale Herausforderung.
+
+  Ces meubles ne sont pas très *durables*.
+  Diese Möbel sind nicht sehr *solide*.
+
+  Nous cherchons des solutions *durables* à ce problème.
+  Wir suchen *dauerhafte* Lösungen für dieses Problem.
+
+  Cette expérience a eu un effet *durable* sur sa personnalité.
+  Diese Erfahrung hatte eine *bleibende* Wirkung auf seine Persönlichkeit.
+
+  Ces produits ne sont pas *durables*, il faut les remplacer souvent.
+  Diese Produkte sind *kurzlebig*, man muss sie oft ersetzen.
+
+  Elle a créé une œuvre *durable* qui résiste au temps.
+  Sie hat ein *dauerhaftes* Werk geschaffen, das der Zeit trotzt.
+
+  Notre amitié s'est révélée *durable* malgré la distance.
+  Unsere Freundschaft hat sich trotz der Entfernung als *dauerhaft* erwiesen.
+
+  Cet édifice *durable* a survécu à plusieurs tremblements de terre.
+  Dieses *solide* Gebäude hat mehrere Erdbeben überstanden.
+
+  Les résultats de cette méthode sont vraiment *durables*.
+  Die Ergebnisse dieser Methode sind wirklich *nachhaltig*.
+
+  Nous voulons établir une relation *durable* avec nos clients.
+  Wir möchten eine *dauerhafte* Beziehung zu unseren Kunden aufbauen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

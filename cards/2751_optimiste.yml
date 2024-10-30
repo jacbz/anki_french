@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Êtes-vous optimiste quant à l’avenir des jeunes?
-  Wie optimistisch sind Sie in Bezug auf die Zukunft der Jugendlichen?
+  Êtes-vous *optimiste* quant à l'avenir des jeunes ?
+  Sind Sie *optimistisch* in Bezug auf die Zukunft der Jugend?
 
-  Je suis optimiste quant à l’avenir.
-  Ich bin optimistisch in Bezug auf die Zukunft.
+  Je suis une *optimiste* de nature, je vois toujours le bon côté des choses.
+  Ich bin von Natur aus eine *Optimistin*, ich sehe immer die gute Seite der Dinge.
+
+  Les médecins sont *optimistes* concernant son rétablissement.
+  Die Ärzte sind *optimistisch* bezüglich seiner Genesung.
+
+  Malgré les difficultés, il reste résolument *optimiste*.
+  Trotz der Schwierigkeiten bleibt er entschieden *optimistisch*.
+
+  Son attitude *optimiste* m'inspire beaucoup.
+  Seine *optimistische* Haltung inspiriert mich sehr.
+
+  Elle a une vision très *optimiste* de la situation économique.
+  Sie hat eine sehr *optimistische* Sicht auf die wirtschaftliche Lage.
+
+  Les prévisions *optimistes* se sont finalement réalisées.
+  Die *optimistischen* Vorhersagen haben sich schließlich bewahrheitet.
+
+  Je ne suis pas aussi *optimiste* que toi sur ce projet.
+  Ich bin nicht so *optimistisch* wie du bei diesem Projekt.
+
+  Les *optimistes* voient des opportunités là où d'autres voient des problèmes.
+  *Optimisten* sehen Chancen, wo andere Probleme sehen.
+
+  Cette nouvelle m'a rendu plus *optimiste*.
+  Diese Nachricht hat mich *optimistischer* gemacht.
+
+  En tant qu'*optimiste*, elle croit toujours en un meilleur lendemain.
+  Als *Optimistin* glaubt sie immer an eine bessere Zukunft.
+
+  Son caractère *optimiste* l'aide à surmonter les obstacles.
+  Sein *optimistischer* Charakter hilft ihm, Hindernisse zu überwinden.
+
+  Les analystes restent *optimistes* pour le second semestre.
+  Die Analysten bleiben für das zweite Halbjahr *optimistisch*.
+
+  Paul est un *optimiste* invétéré, rien ne peut le décourager.
+  Paul ist ein unverbesserlicher *Optimist*, nichts kann ihn entmutigen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

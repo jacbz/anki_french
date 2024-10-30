@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Sans aide médicale, je vais mourir.
-  Ohne medizinische Hilfe werde ich sterben.
+  Sans aide *médicale*, je vais mourir.
+  Ohne *ärztliche* Hilfe werde ich sterben.
 
-  Je dois passer un examen médical.
-  Ich muss eine medizinische Untersuchung machen.
+  Les soins *médicaux* dans cet hôpital sont excellents.
+  Die *medizinische* Versorgung in diesem Krankenhaus ist ausgezeichnet.
 
-  Ses succès médicaux ont fait de lui un chirurgien renommé.
-  Seine Erfolge als Arzt haben ihn zu einem renommierten Chirurgen gemacht.
+  Elle a passé une visite *médicale* pour son nouveau travail.
+  Sie hat für ihre neue Arbeit eine *ärztliche* Untersuchung gemacht.
 
-  Le jargon médical est parfois difficile à comprendre pour les patients.
-  Medizinerjargon ist für Patienten manchmal schwer zu verstehen.
+  Le secret *médical* est une obligation pour tous les médecins.
+  Die *ärztliche* Schweigepflicht ist eine Verpflichtung für alle Ärzte.
+
+  Mes études *médicales* ont duré six ans.
+  Mein *Medizin*studium hat sechs Jahre gedauert.
+
+  Mon frère travaille dans un cabinet *médical* au centre-ville.
+  Mein Bruder arbeitet in einer *Arzt*praxis im Stadtzentrum.
+
+  Le corps *médical* a protesté contre les nouvelles réformes.
+  Die *Ärzte*schaft hat gegen die neuen Reformen protestiert.
+
+  Il faut un certificat *médical* pour justifier ton absence.
+  Du brauchst ein *ärztliches* Attest, um dein Fehlen zu rechtfertigen.
+
+  Le délégué *médical* nous a présenté de nouveaux médicaments.
+  Der *Pharma*referent hat uns neue Medikamente vorgestellt.
+
+  La recherche *médicale* a fait d'énormes progrès ces dernières années.
+  Die *medizinische* Forschung hat in den letzten Jahren enorme Fortschritte gemacht.
+
+  Son traitement *médical* dure depuis trois mois.
+  Seine *medizinische* Behandlung dauert seit drei Monaten.
+
+  Ses succès *médicaux* sont remarquables pour son âge.
+  Seine *ärztlichen* Erfolge sind bemerkenswert für sein Alter.
+
+  Je ne comprends pas ce jargon *médical*.
+  Ich verstehe diesen *Mediziner*jargon nicht.
+
+  Les professions *médicales* sont très respectées dans notre société.
+  *Medizinische* Berufe werden in unserer Gesellschaft sehr respektiert.
+
+  L'équipement *médical* de cette clinique est ultramoderne.
+  Die *medizinische* Ausstattung dieser Klinik ist hochmodern.
+
+  Un dossier *médical* a été créé pour chaque patient.
+  Für jeden Patienten wurde eine *medizinische* Akte angelegt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

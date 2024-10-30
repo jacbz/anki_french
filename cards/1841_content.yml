@@ -13,50 +13,95 @@ Register: ↘Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elles étaient très contentes d’y aller.
-  Sie waren sehr froh, dass sie dort waren.
+  Elles étaient très *contentes* d'y aller.
+  Sie waren sehr *erfreut*, dorthin zu gehen.
 
-  Je suis content de te voir.
-  Ich bin froh, dich zu sehen.
+  Je suis *content* de vous annoncer que nous avons gagné le prix.
+  Ich bin *erfreut*, Ihnen mitzuteilen, dass wir den Preis gewonnen haben.
 
-  Je sais que tu es content.
-  Ich weiß, dass du dich freust.
+  "Tu as l'air *content* aujourd'hui !"
+  "Du siehst heute so *glücklich* aus!"
 
-  Je suis content de te voir ici.
-  Ich freue mich, dich hier zu sehen.
+  Après avoir dormi son *content*, il se sentait beaucoup mieux.
+  Nachdem er *ausreichend* geschlafen hatte, fühlte er sich viel besser.
 
-  Ils ont tout ce qu'il faut, ils ont leur content.
-  Sie haben alles, was sie brauchen, sie haben ihr content.
+  Elle n'était pas *contente* de la qualité du service.
+  Sie war mit der Qualität des Service nicht *zufrieden*.
 
-  Je suis très content de te voir.
-  Ich bin sehr glücklich, dich zu sehen.
+  Non *content* d'être en retard, il n'a même pas appelé.
+  Als wäre es nicht genug, dass er zu spät war, hat er nicht einmal angerufen.
 
-  Non content d'avoir perdu son travail, il a aussi perdu sa maison.
-  Nicht genug, dass er seinen Job verloren hat, er hat auch noch seine Wohnung verloren.
+  J'ai eu mon *content* de problèmes pour aujourd'hui.
+  Ich habe für heute *genug* Probleme gehabt.
 
-  Je suis content de mon nouveau travail.
-  Ich bin zufrieden mit meinem neuen Job.
+  Les enfants sont *contents* que leurs grands-parents viennent les voir.
+  Die Kinder *freuen* sich, dass ihre Großeltern sie besuchen kommen.
 
-  Je pense que tu as eu assez de pain, tu as ton content.
-  Ich denke, du hast genug Brot gehabt, du hast dein content.
+  Il affichait un visage *content* pendant toute la fête.
+  Er zeigte während der ganzen Feier ein *zufriedenes* Gesicht.
 
-  Tu as dormi son content, tu peux te lever maintenant.
-  Du hast genug geschlafen, du kannst jetzt aufstehen.
+  Elle est trop *contente* de sa petite personne.
+  Sie ist viel zu *selbstgefällig*.
 
-  Je suis content de la nouvelle voiture de mon père.
-  Ich bin erfreut über das neue Auto meines Vaters.
+  Les clients ont l'air *contents* de leur nouvelle voiture.
+  Die Kunden scheinen mit ihrem neuen Auto *zufrieden* zu sein.
 
-  Je suis content pour toi, tu as réussi ton examen.
-  Ich freue mich für dich, du hast deine Prüfung bestanden.
+  Je suis vraiment *content* pour toi, tu le mérites !
+  Ich *freue* mich wirklich für dich, du hast es verdient!
 
-  Je suis content de faire du vélo, c'est une activité que j'aime beaucoup.
-  Ich freue mich, Fahrrad zu fahren, das ist eine Aktivität, die ich sehr mag.
+  Non *contente* de l'avoir critiqué, elle l'a aussi insulté.
+  Sie hat ihn nicht nur kritisiert, sondern auch noch beleidigt.
 
-  Je suis content de savoir que tu as raison.
-  Ich freue mich, dass du Recht hast.
+  Le professeur était *content* des progrès de ses élèves.
+  Der Lehrer war mit den Fortschritten seiner Schüler *zufrieden*.
 
-  Il est content de sa personne, il ne voit pas ses erreurs.
-  Er ist selbstzufrieden, er sieht seine Fehler nicht.
+  "J'ai mangé mon *content* au restaurant hier soir."
+  "Ich habe gestern Abend im Restaurant *reichlich* gegessen."
+
+  Elle avait l'air *contente* d'elle-même après sa présentation.
+  Sie wirkte nach ihrer Präsentation sehr *selbstzufrieden*.
+
+  Les spectateurs sont repartis *contents* du spectacle.
+  Die Zuschauer gingen *zufrieden* von der Vorstellung nach Hause.
+
+  Tu peux être *content* de toi, c'était un excellent travail.
+  Du kannst auf dich *stolz* sein, das war eine ausgezeichnete Arbeit.
+
+  Je suis *content* que tu aies pensé à m'appeler.
+  Ich bin *froh*, dass du daran gedacht hast, mich anzurufen.
+
+  Il n'était pas *content* du tout quand il a appris la nouvelle.
+  Er war überhaupt nicht *erfreut*, als er von der Nachricht erfuhr.
+
+  Elle vivait *contente* avec peu de choses.
+  Sie lebte *zufrieden* mit wenigen Dingen.
+
+  Nous sommes *contents* de notre décision.
+  Wir sind mit unserer Entscheidung *zufrieden*.
+
+  Le chat avait l'air *content* de dormir au soleil.
+  Die Katze schien *zufrieden* in der Sonne zu schlafen.
+
+  Il n'aura pas son *content* tant qu'il n'aura pas tout essayé.
+  Er wird nicht *genug* haben, bis er nicht alles versucht hat.
+
+  Je suis *content* d'avoir pu vous aider.
+  Ich bin *froh*, dass ich Ihnen helfen konnte.
+
+  Elle était *contente* que le printemps soit enfin arrivé.
+  Sie war *froh*, dass der Frühling endlich gekommen war.
+
+  Marc n'était pas *content* de la façon dont on l'avait traité.
+  Marc war nicht *zufrieden* damit, wie man ihn behandelt hatte.
+
+  "Il a toujours l'air *content* de vivre !"
+  "Er sieht immer so *lebensfroh* aus!"
+
+  Nous avons eu notre *content* d'émotions pour aujourd'hui.
+  Wir haben für heute *genug* Aufregung gehabt.
+
+  Les parents étaient *contents* des résultats scolaires de leur fille.
+  Die Eltern waren mit den Schulnoten ihrer Tochter *zufrieden*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

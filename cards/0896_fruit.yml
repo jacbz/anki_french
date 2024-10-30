@@ -13,44 +13,164 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Allez manger des fruits.
-  Gehen Sie Obst essen.
+  Allez manger des *fruits*.
+  Geht *Obst* essen.
 
-  Je mange un fruit chaque matin.
-  Ich esse jeden Morgen eine Frucht.
+  Pour ce dessert, il nous faut des *fruits* frais.
+  Für diesen Nachtisch brauchen wir frisches *Obst*.
 
-  Je mange des fruits.
-  Ich esse Obst.
+  La tarte aux *fruits* qu'elle a préparée est délicieuse.
+  Der *Obst*kuchen, den sie gebacken hat, ist köstlich.
 
-  J'ai préparé une délicieuse tarte aux fruits pour le dessert.
-  Ich habe einen leckeren Obstkuchen zum Nachtisch gebacken.
+  Je préfère le jus de *fruit* naturel aux sodas.
+  Ich bevorzuge *Frucht*saft gegenüber Limonade.
 
-  C'est au fruit qu'on connaît l'arbre, dit le proverbe, et cela est souvent vrai pour les gens aussi.
-  An den Früchten sollt ihr sie erkennen, sagt das Sprichwort, und das trifft oft auch auf Menschen zu.
+  Les *fruits* rouges sont excellents pour la santé.
+  Rote *Früchte* sind sehr gesund.
 
-  La pomme d'Adam est un fruit défendu, selon la légende biblique.
-  Der Apfel, den Adam gegessen hat, ist eine verbotene Frucht, so die biblische Legende.
+  Ces *fruits* à pépins viennent de notre jardin.
+  Dieses *Kern*obst kommt aus unserem Garten.
 
-  Ce succès était le fruit du hasard, personne ne s'y attendait.
-  Dieser Erfolg war reiner Zufall, niemand hat damit gerechnet.
+  J'aime beaucoup les *fruits* à noyau en été.
+  Ich mag *Stein*obst im Sommer sehr gerne.
 
-  Je préfère boire du jus de fruit plutôt que de l'eau sucrée.
-  Ich trinke lieber Fruchtsaft als zuckerhaltiges Wasser.
+  Les *fruits* au sirop sont pratiques en hiver.
+  *Dosen*obst ist praktisch im Winter.
 
-  Les fruits rouges, comme les fraises et les framboises, sont très populaires en été.
-  Rote Früchte, wie Erdbeeren und Himbeeren, sind im Sommer sehr beliebt.
+  Ma grand-mère adore les *fruits* confits.
+  Meine Großmutter liebt kandierte *Früchte*.
 
-  Les fruits à noyau, comme les pêches et les abricots, sont délicieux en été.
-  Steinobst, wie Pfirsiche und Aprikosen, schmeckt im Sommer besonders gut.
+  Les *fruits* secs sont parfaits pour une collation.
+  *Trocken*früchte sind perfekt als Zwischenmahlzeit.
 
-  Les fruits au sirop sont souvent utilisés dans les pâtisseries et les desserts.
-  Eingemachtes Obst wird oft in Gebäck und Desserts verwendet.
+  Le jardinier cultive des *fruits* nains dans sa serre.
+  Der Gärtner züchtet *Zwerg*obst in seinem Gewächshaus.
 
-  Les fruits confits, comme les cerises et les citrons, sont utilisés pour décorer les gâteaux.
-  Kandierte Früchte, wie Kirschen und Zitronen, werden verwendet, um Torten zu verzieren.
+  Ce *fruit* est toxique pour les humains.
+  Diese *Frucht* ist giftig für Menschen.
 
-  Les fruits nains, comme les pommes et les poires, sont très faciles à cultiver.
-  Zwergobst, wie Äpfel und Birnen, ist sehr einfach anzubauen.
+  La fraise est un faux *fruit*.
+  Die Erdbeere ist eine *Schein*frucht.
+
+  Ce *fruit* oléagineux est riche en protéines.
+  Diese *Öl*frucht ist reich an Proteinen.
+
+  Leur amour a porté ses *fruits*.
+  Ihre Liebe hat *Früchte* getragen.
+
+  Ce projet est le *fruit* d'une longue réflexion.
+  Dieses Projekt ist das *Ergebnis* einer langen Überlegung.
+
+  Son succès est le *fruit* de son travail acharné.
+  Sein Erfolg ist die *Frucht* seiner harten Arbeit.
+
+  Cette théorie est le *fruit* de son imagination.
+  Diese Theorie ist das *Produkt* seiner Fantasie.
+
+  Cette rencontre n'était pas le *fruit* du hasard.
+  Diese Begegnung war kein Zufall.
+
+  Ses efforts ont finalement porté leurs *fruits*.
+  Seine Bemühungen haben endlich ge*fruchtet*.
+
+  Le plateau de *fruits* de mer était impressionnant.
+  Die Platte mit Meeresfrüchten war beeindruckend.
+
+  J'ai planté un arbre à *fruits* dans mon jardin.
+  Ich habe einen *Obst*baum in meinem Garten gepflanzt.
+
+  Ce *fruit* vert n'est pas encore mûr.
+  Diese unreife *Frucht* ist noch nicht reif.
+
+  Elle prépare une salade de *fruits* frais.
+  Sie bereitet einen frischen *Obst*salat zu.
+
+  Le *fruit* de la Passion est son préféré.
+  Die Passions*frucht* ist seine Lieblingssfrucht.
+
+  C'est vraiment un *fruit* rare dans notre région.
+  Das ist wirklich eine seltene *Frucht* in unserer Region.
+
+  Il est devenu un *fruit* sec après avoir quitté l'université.
+  Er ist gescheitert, nachdem er die Universität verlassen hat.
+
+  Les *fruits* de la terre sont abondants cette année.
+  Die *Früchte* der Erde sind dieses Jahr reichlich.
+
+  Cette formation a porté ses *fruits*.
+  Diese Ausbildung hat *Früchte* getragen.
+
+  Le *fruit* défendu est toujours le plus tentant.
+  Die verbotene *Frucht* ist immer am verlockendsten.
+
+  Les *fruits* rafraîchis sont servis au dessert.
+  Die gekühlten *Früchte* werden zum Nachtisch serviert.
+
+  Ce *fruit* exotique a un goût unique.
+  Diese exotische *Frucht* hat einen einzigartigen Geschmack.
+
+  Les *fruits* de saison sont les meilleurs.
+  Saisonales *Obst* ist am besten.
+
+  Elle mange cinq *fruits* par jour.
+  Sie isst fünf Stück *Obst* am Tag.
+
+  Le panier de *fruits* était magnifique.
+  Der *Obst*korb war wunderschön.
+
+  Ces *fruits* sont cultivés sans pesticides.
+  Dieses *Obst* wird ohne Pestizide angebaut.
+
+  La récolte des *fruits* commence demain.
+  Die *Obst*ernte beginnt morgen.
+
+  Le prix des *fruits* a augmenté cette année.
+  Die *Obst*preise sind dieses Jahr gestiegen.
+
+  Il faut laver les *fruits* avant de les manger.
+  Man muss *Obst* waschen, bevor man es isst.
+
+  Les *fruits* locaux sont plus écologiques.
+  Regionales *Obst* ist umweltfreundlicher.
+
+  Ce smoothie contient trois *fruits* différents.
+  Dieser Smoothie enthält drei verschiedene *Früchte*.
+
+  Les *fruits* tropicaux sont délicieux.
+  Tropische *Früchte* sind köstlich.
+
+  La production de *fruits* bio augmente.
+  Die Bio-*Obst*-Produktion steigt.
+
+  Les vitamines des *fruits* sont essentielles.
+  Die Vitamine in *Obst* sind essentiell.
+
+  Le marché aux *fruits* ouvre tôt le matin.
+  Der *Obst*markt öffnet früh am Morgen.
+
+  Ces *fruits* sont parfaits pour la confiture.
+  Diese *Früchte* sind perfekt für Marmelade.
+
+  Le vendeur de *fruits* connaît bien ses produits.
+  Der *Obst*händler kennt seine Produkte gut.
+
+  La variété des *fruits* est impressionnante.
+  Die Vielfalt an *Obst* ist beeindruckend.
+
+  Les *fruits* du verger sont délicieux.
+  Das *Obst* aus dem Obstgarten ist köstlich.
+
+  Les *fruits* sont riches en fibres.
+  *Obst* ist reich an Ballaststoffen.
+
+  La conservation des *fruits* est importante.
+  Die Lagerung von *Obst* ist wichtig.
+
+  Le compote de *fruits* est facile à préparer.
+  *Obst*mus ist einfach zuzubereiten.
+
+  Ces *fruits* sont parfaits pour le gâteau.
+  Diese *Früchte* sind perfekt für den Kuchen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Normalement, je suis un chien très gentil.
-  Normalerweise bin ich ein sehr freundlicher Hund.
+  *Normalement*, je suis un chien très gentil.
+  *Normalerweise* bin ich ein sehr freundlicher Hund.
 
-  Je vais normalement au travail en voiture.
-  Normalerweise fahre ich mit dem Auto zur Arbeit.
+  *Normalement*, nous devons arriver à trois heures, mais le train a du retard.
+  *Eigentlich* müssen wir um drei Uhr ankommen, aber der Zug hat Verspätung.
 
-  Tout passe normalement, malgré les récents événements.
-  Alles läuft normal, trotz der jüngsten Ereignisse.
+  Son cœur bat *normalement* après l'opération.
+  Sein Herz schlägt nach der Operation *normal*.
 
-  Normalement, nous devons arriver à trois heures, mais nous sommes un peu en retard.
-  Eigentlich müssten wir um drei Uhr ankommen, aber wir sind etwas im Verzug.
+  Les élections se sont déroulées *normalement*.
+  Die Wahlen sind *normal* verlaufen.
+
+  *Normalement*, je prends mon petit-déjeuner à huit heures.
+  *Normalerweise* frühstücke ich um acht Uhr.
+
+  Tout s'est passé *normalement* pendant l'examen.
+  Während der Prüfung ist alles *normal* gelaufen.
+
+  *Normalement*, les magasins ferment à 20 heures.
+  *Normalerweise* schließen die Geschäfte um 20 Uhr.
+
+  Un enfant *normalement* constitué apprend à marcher vers un an.
+  Ein *normal* entwickeltes Kind lernt mit etwa einem Jahr das Laufen.
+
+  *Normalement*, je devrais finir mon travail avant midi.
+  *Eigentlich* sollte ich meine Arbeit vor dem Mittag beenden.
+
+  La grossesse se développe *normalement*.
+  Die Schwangerschaft verläuft *normal*.
+
+  *Normalement*, on ne peut pas entrer sans badge.
+  *Normalerweise* kann man ohne Ausweis nicht hineingehen.
+
+  La machine fonctionne *normalement* maintenant.
+  Die Maschine läuft jetzt *normal*.
+
+  *Normalement*, il fait plus chaud en été.
+  *Normalerweise* ist es im Sommer wärmer.
+
+  Les plantes poussent *normalement* dans ce sol.
+  Die Pflanzen wachsen in diesem Boden *normal*.
+
+  *Normalement*, je ne bois pas de café le soir.
+  *Normalerweise* trinke ich abends keinen Kaffee.
+
+  La blessure guérit *normalement*, selon le médecin.
+  Die Wunde heilt laut dem Arzt *normal*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

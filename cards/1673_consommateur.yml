@@ -13,32 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les consommateurs en ressentent directement les avantages.
-  Die Verbraucherinnen und Verbraucher spüren die Vorteile direkt.
+  Les *consommateurs* en ressentent directement les avantages.
+  Die *Verbraucher* spüren die Vorteile direkt.
 
-  Les consommateurs ont le droit de savoir ce qu’ils achètent.
-  Verbraucher haben das Recht zu wissen, was sie kaufen.
+  Cette méthode de production est très *consommatrice* d'énergie.
+  Diese Produktionsmethode ist sehr *energieintensiv*.
 
-  Le chauffage électrique est un grand consommateur d'énergie.
-  Elektroheizungen sind energieintensiv.
+  Les *consommateurs* intermédiaires jouent un rôle crucial dans la chaîne de production.
+  Die Zwischen*verbraucher* spielen eine wichtige Rolle in der Produktionskette.
 
-  La France est un gros consommateur de vin.
-  Frankreich ist ein Großverbraucher von Wein.
+  L'association des *consommateurs* a lancé une campagne contre la publicité mensongère.
+  Der *Verbraucher*verband hat eine Kampagne gegen irreführende Werbung gestartet.
 
-  Un petit consommateur peut économiser de l'énergie en éteignant les lumières lorsqu'il quitte une pièce.
-  Ein Kleinverbraucher kann Energie sparen, indem er die Lichter ausschaltet, wenn er einen Raum verlässt.
+  Du producteur au *consommateur*, les prix augmentent considérablement.
+  Vom Produzenten zum *Verbraucher* steigen die Preise erheblich.
 
-  Les restaurants sont des consommateurs intermédiaires d'électricité.
-  Restaurants sind Zwischenverbraucher von Strom.
+  Cette entreprise est une grande *consommatrice* de matières premières.
+  Dieses Unternehmen ist ein Groß*verbraucher* von Rohstoffen.
 
-  L'information des consommateurs est essentielle pour faire des choix éclairés.
-  Verbraucherinformation ist essenziell, um fundierte Entscheidungen zu treffen.
+  Les petits *consommateurs* bénéficient d'un tarif préférentiel.
+  Klein*verbraucher* profitieren von einem Vorzugstarif.
 
-  L'UFC-Que Choisir est un organisme de défense des consommateurs.
-  Die Stiftung Warentest ist ein Verbraucherverband.
+  Le serveur s'occupait des *consommateurs* installés en terrasse.
+  Der Kellner kümmerte sich um die *Gäste* auf der Terrasse.
 
-  Elle est une grosse consommatrice de chocolat.
-  Sie konsumiert viel Schokolade.
+  Les Français sont de grands *consommateurs* de fromage.
+  Die Franzosen sind große *Konsumenten* von Käse.
+
+  Les droits des *consommateurs* sont protégés par la loi.
+  Die *Verbraucher*rechte sind gesetzlich geschützt.
+
+  Les pays *consommateurs* de pétrole dépendent des pays producteurs.
+  Die Erdöl *verbrauchenden* Länder sind von den Produzentenländern abhängig.
+
+  Ce nouveau radiateur est peu *consommateur* d'électricité.
+  Diese neue Heizung ist sparsam im Strom*verbrauch*.
+
+  La *consommatrice* a porté plainte contre le fabricant.
+  Die *Verbraucherin* hat Klage gegen den Hersteller eingereicht.
+
+  Les *consommateurs* sont de plus en plus sensibles aux questions environnementales.
+  Die *Verbraucher* achten zunehmend auf Umweltaspekte.
+
+  Dans la chaîne alimentaire, le lion est un *consommateur* carnivore.
+  In der Nahrungskette ist der Löwe ein fleischfressender *Konsument*.
+
+  Un guide pratique informe les *consommateurs* sur leurs droits.
+  Ein praktischer Ratgeber informiert die *Verbraucher* über ihre Rechte.
+
+  Les *consommateurs* exigent plus de transparence sur l'origine des produits.
+  Die *Verbraucher* fordern mehr Transparenz über die Herkunft der Produkte.
+
+  La vente directe du producteur au *consommateur* devient plus populaire.
+  Der Direktverkauf vom Erzeuger zum *Verbraucher* wird immer beliebter.
+
+  Les grandes surfaces ciblent les *consommateurs* à faible revenu.
+  Die Supermärkte zielen auf *Verbraucher* mit niedrigem Einkommen ab.
+
+  Cette application permet aux *consommateurs* de comparer les prix facilement.
+  Diese App ermöglicht es *Verbrauchern*, Preise einfach zu vergleichen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,35 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis favorable aux interventions extérieures.
-  Ich befürworte Interventionen von außen.
+  Je suis favorable aux *interventions* extérieures.
+  Ich bin für *Eingriffe* von außen.
 
-  L’intervention de la police a permis d’arrêter le voleur.
-  Durch das Eingreifen der Polizei konnte der Dieb festgenommen werden.
+  L'*intervention* chirurgicale s'est bien passée.
+  Die *Operation* ist gut verlaufen.
 
-  Le gouvernement a décidé d'une intervention restrictive pour lutter contre la propagation du virus.
-  Die Regierung hat sich für einen restriktiven Eingriff entschieden, um die Verbreitung des Virus zu bekämpfen.
+  Les pompiers ont fait une *intervention* rapide sur les lieux de l'accident.
+  Die Feuerwehr hat am Unfallort schnell *eingegriffen*.
 
-  L'intervention armée a été critiquée par de nombreux pays.
-  Die bewaffnete Intervention wurde von vielen Ländern kritisiert.
+  Cette *intervention* restrictive de l'État a été critiquée.
+  Dieser restriktive staatliche *Eingriff* wurde kritisiert.
 
-  Une intervention chirurgicale au niveau du larynx est nécessaire pour corriger son problème de voix.
-  Eine Kehlkopfoperation ist notwendig, um sein Sprachproblem zu beheben.
+  Son *intervention* à la radio a convaincu beaucoup d'auditeurs.
+  Sein *Redebeitrag* im Radio hat viele Hörer überzeugt.
 
-  L'intervention forcée de la police a provoqué une réaction négative de la part de la population.
-  Die Beiladung der Polizei löste eine negative Reaktion bei der Bevölkerung aus.
+  L'*intervention* militaire a duré trois semaines.
+  Die militärische *Intervention* dauerte drei Wochen.
 
-  Les interventions dirigistes du gouvernement ont été mal accueillies par le marché.
-  Die dirigistischen Eingriffe der Regierung wurden vom Markt schlecht aufgenommen.
+  Sans l'*intervention* du professeur, la dispute aurait continué.
+  Ohne das *Eingreifen* des Lehrers hätte der Streit angedauert.
 
-  La guerre d'intervention a été lancée sous prétexte de défendre les droits de l'homme.
-  Der Interventionskrieg wurde unter dem Vorwand der Verteidigung der Menschenrechte gestartet.
+  Le patient nécessite une *intervention* au niveau du genou.
+  Der Patient benötigt einen chirurgischen *Eingriff* am Knie.
 
-  Le village a été détruit par l'intervention militaire de l'ennemi.
-  Das Dorf wurde durch Feindeinwirkung zerstört.
+  L'*intervention* télévisée du président aura lieu ce soir.
+  Die *Fernsehansprache* des Präsidenten findet heute Abend statt.
 
-  Le bâtiment a été détruit par l'intervention militaire de l'ennemi.
-  Das Gebäude wurde durch Feindeinwirkung zerstört.
+  Cette *intervention* dirigiste nuit à l'économie.
+  Dieser dirigistische *Eingriff* schadet der Wirtschaft.
+
+  Les forces d'*intervention* sont prêtes à agir.
+  Die *Eingreif*truppen sind einsatzbereit.
+
+  Grâce à son *intervention*, j'ai obtenu le poste.
+  Dank seiner *Vermittlung* habe ich die Stelle bekommen.
+
+  L'*intervention* armée a été autorisée par l'ONU.
+  Die bewaffnete *Intervention* wurde von der UNO genehmigt.
+
+  Une *intervention* chirurgicale est prévue pour demain matin.
+  Für morgen früh ist eine *Operation* geplant.
+
+  Cette *intervention* parlementaire a fait beaucoup de bruit.
+  Dieser parlamentarische *Beitrag* hat viel Aufsehen erregt.
+
+  L'*intervention* des banques centrales a stabilisé les marchés.
+  Das *Eingreifen* der Zentralbanken hat die Märkte stabilisiert.
+
+  Son *intervention* en ma faveur a été décisive.
+  Sein *Einsatz* für mich war entscheidend.
+
+  Une *intervention* divine a changé le cours des événements.
+  Ein göttliches *Eingreifen* hat den Lauf der Ereignisse verändert.
+
+  L'*intervention* du médiateur a permis de résoudre le conflit.
+  Die *Vermittlung* des Mediators hat geholfen, den Konflikt zu lösen.
+
+  Cette *intervention* policière était nécessaire.
+  Dieses polizeiliche *Einschreiten* war notwendig.
+
+  L'avocat a demandé une *intervention* forcée dans l'affaire.
+  Der Anwalt hat eine *Beiladung* in der Sache beantragt.
+
+  Les *interventions* humanitaires sont parfois controversées.
+  Humanitäre *Interventionen* sind manchmal umstritten.
+
+  Une *intervention* rapide a évité la catastrophe.
+  Schnelles *Eingreifen* hat die Katastrophe verhindert.
+
+  L'*intervention* du facteur temps est cruciale dans cette expérience.
+  Das *Einwirken* des Zeitfaktors ist in diesem Experiment entscheidend.
+
+  Cette *intervention* au Sénat a marqué sa carrière politique.
+  Dieser *Redebeitrag* im Senat prägte seine politische Karriere.
+
+  Les *interventions* répétées de l'État inquiètent les investisseurs.
+  Die wiederholten staatlichen *Eingriffe* beunruhigen die Investoren.
+
+  L'*intervention* chirurgicale au niveau du larynx s'est bien déroulée.
+  Die Kehlkopf*operation* ist gut verlaufen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

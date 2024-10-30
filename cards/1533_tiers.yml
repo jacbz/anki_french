@@ -13,41 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle est musulmane du tiers monde.
-  Sie ist eine Muslimin aus der Dritten Welt.
+  Elle est musulmane du *tiers* monde.
+  Sie ist eine Muslimin aus der *Dritten* Welt.
 
-  Deux tiers des étudiants sont français.
-  Zwei Drittel der Studenten sind Franzosen.
+  Le *tiers* des étudiants a échoué à l'examen.
+  Ein *Drittel* der Studenten ist durch die Prüfung gefallen.
 
-  Le tiers de l'héritage a été attribué à la fille du défunt.
-  Der dritte Teil der Erbschaft wurde der Tochter des Verstorbenen zugesprochen.
+  Les deux *tiers* des participants sont déjà arrivés.
+  Zwei *Drittel* der Teilnehmer sind bereits eingetroffen.
 
-  Une tierce personne a témoigné au procès.
-  Ein Dritter hat beim Prozess ausgesagt.
+  Une *tierce* personne nous a interrompus pendant la conversation.
+  Ein *Dritter* hat uns während des Gesprächs unterbrochen.
 
-  Il se moque du tiers comme du quart, il n'en a rien à faire.
-  Ihm ist alles schnurzpiepegal, er kümmert sich nicht darum.
+  Je ne veux pas que des *tiers* entendent notre discussion.
+  Ich möchte nicht, dass *Außenstehende* unser Gespräch mithören.
 
-  Le contrat au profit d'un tiers permet à un tiers de bénéficier des obligations contractuelles.
-  Der Vertrag zugunsten eines Dritten ermöglicht es einem Dritten, von den vertraglichen Verpflichtungen zu profitieren.
+  Mon voisin est assuré au *tiers* pour sa voiture.
+  Mein Nachbar ist für sein Auto *haftpflicht*versichert.
 
-  La prestation pour un tiers est une prestation effectuée par une personne au profit d'une autre.
-  Die Leistung an Dritte ist eine Leistung, die von einer Person zugunsten einer anderen erbracht wird.
+  Cette affaire ne concerne pas les *tiers*.
+  Diese Angelegenheit geht *Dritte* nichts an.
 
-  L'effet direct à l'égard des tiers est un effet qui s'applique directement aux tiers.
-  Die unmittelbare Drittwirkung ist eine Wirkung, die sich unmittelbar auf Dritte auswirkt.
+  J'ai appris la nouvelle par un *tiers*.
+  Ich habe die Neuigkeit von einem *Dritten* erfahren.
 
-  La tierce bénéficiaire est la personne qui bénéficie d'un contrat au profit d'un tiers.
-  Die Drittbegünstigte ist die Person, die von einem Vertrag zugunsten eines Dritten profitiert.
+  Le contrat a été signé en présence d'une *tierce* personne.
+  Der Vertrag wurde in Anwesenheit eines *Dritten* unterzeichnet.
 
-  Le tiers débiteur est la personne qui est redevable envers un tiers.
-  Der Drittschuldner ist die Person, die gegenüber einem Dritten eine Schuld hat.
+  Un *tiers* des revenus est consacré au loyer.
+  Ein *Drittel* des Einkommens wird für die Miete aufgewendet.
 
-  Le tiers payant est un organisme qui prend en charge une partie des frais de santé.
-  Der Selbstkostenanteil ist ein Organismus, der einen Teil der Gesundheitskosten übernimmt.
+  Cette information provient d'un *tiers* fiable.
+  Diese Information stammt von einem vertrauenswürdigen *Dritten*.
 
-  Le tiers provisionnel est un paiement anticipé d'impôts.
-  Die Steuervorauszahlung ist eine Vorauszahlung von Steuern.
+  Le *tiers* payant est appliqué dans cette pharmacie.
+  In dieser Apotheke wird die *Eigenbeteiligung* angewendet.
+
+  Nous avons mangé les deux *tiers* du gâteau.
+  Wir haben zwei *Drittel* des Kuchens gegessen.
+
+  Une *tierce* partie devra valider l'accord.
+  Eine *dritte* Partei muss das Abkommen bestätigen.
+
+  Le *tiers* de la population vit en ville.
+  Ein *Drittel* der Bevölkerung lebt in der Stadt.
+
+  Cette décision affecte les droits des *tiers*.
+  Diese Entscheidung betrifft die Rechte *Dritter*.
+
+  Un *tiers* des places est réservé aux étudiants.
+  Ein *Drittel* der Plätze ist für Studenten reserviert.
+
+  La présence d'une *tierce* personne est obligatoire.
+  Die Anwesenheit eines *Dritten* ist verpflichtend.
+
+  Le *tiers* des votants s'est abstenu.
+  Ein *Drittel* der Wähler hat sich enthalten.
+
+  Les droits des *tiers* doivent être respectés.
+  Die Rechte *Dritter* müssen respektiert werden.
+
+  Un *tiers* des employés travaille à distance.
+  Ein *Drittel* der Angestellten arbeitet von zu Hause aus.
+
+  Cette règle s'applique aux *tiers*.
+  Diese Regel gilt für *Dritte*.
+
+  Les deux *tiers* du temps sont consacrés à la pratique.
+  Zwei *Drittel* der Zeit werden für die Praxis verwendet.
+
+  Une *tierce* personne pourrait mal interpréter ces paroles.
+  Ein *Dritter* könnte diese Worte falsch interpretieren.
+
+  Le *tiers* du budget est alloué à la recherche.
+  Ein *Drittel* des Budgets ist für die Forschung vorgesehen.
+
+  Les *tiers* ne sont pas autorisés à entrer.
+  *Dritte* haben keinen Zutritt.
+
+  Un *tiers* des membres a voté contre.
+  Ein *Drittel* der Mitglieder hat dagegen gestimmt.
+
+  Cette information ne doit pas être divulguée à des *tiers*.
+  Diese Information darf nicht an *Dritte* weitergegeben werden.
+
+  Le *tiers* du trajet reste à parcourir.
+  Ein *Drittel* der Strecke liegt noch vor uns.
+
+  Les *tiers* bénéficiaires seront informés demain.
+  Die *Drittbegünstigten* werden morgen informiert.
+
+  Une *tierce* personne a été témoin de l'accident.
+  Ein *Dritter* war Zeuge des Unfalls.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

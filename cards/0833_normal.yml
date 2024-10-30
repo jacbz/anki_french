@@ -13,29 +13,107 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai une vie plutôt normale, avec un mari, des enfants.
-  Ich führe ein ziemlich normales Leben mit einem Ehemann und Kindern.
+  J'ai une vie plutôt *normale*, avec un mari, des enfants.
+  Ich habe ein ziemlich *normales* Leben mit Mann und Kindern.
 
-  C’est normal.
-  Das ist normal.
+  Peu à peu, la situation est redevenue *normale* après la crise.
+  Nach der Krise hat sich die Situation wieder *normalisiert*.
 
-  Tout est normal.
-  Alles ist normal.
+  Il n'est pas *normal* que tu rentres si tard sans prévenir.
+  Es ist nicht *normal*, dass du so spät nach Hause kommst, ohne Bescheid zu sagen.
 
-  Je ne suis pas normal.
-  Ich bin nicht normal.
+  Son rythme cardiaque est parfaitement *normal*.
+  Sein Herzschlag ist völlig *normal*.
 
-  Après la tempête, la vie a fini par redevenir normale.
-  Nach dem Sturm normalisierte sich das Leben allmählich wieder.
+  La température est inférieure aux *normales* saisonnières.
+  Die Temperatur liegt unter dem saisonalen *Normal*wert.
 
-  Il n'est pas normal que Paul fasse autant de bruit.
-  Es ist nicht normal, dass Paul so viel Lärm macht.
+  Pour un adolescent, c'est un comportement tout à fait *normal*.
+  Für einen Teenager ist das ein völlig *normales* Verhalten.
 
-  Il est normal de se sentir fatigué après une longue journée de travail.
-  Es ist normal, sich nach einem langen Arbeitstag müde zu fühlen.
+  Le développement de l'enfant suit un cours *normal*.
+  Die Entwicklung des Kindes verläuft *normal*.
 
-  L'état normal du cœur est de battre régulièrement.
-  Der Normalzustand des Herzens ist ein regelmäßiger Schlag.
+  En temps *normal*, je me lève à sept heures.
+  *Normal*erweise stehe ich um sieben Uhr auf.
+
+  Tout est revenu à la *normale* après les travaux.
+  Nach den Bauarbeiten ist alles wieder zur *Norm* zurückgekehrt.
+
+  Les résultats de ses analyses sont *normaux*.
+  Die Ergebnisse ihrer Untersuchungen sind *normal*.
+
+  C'est le prix *normal* pour un produit de cette qualité.
+  Das ist der *normale* Preis für ein Produkt dieser Qualität.
+
+  Sa réaction n'était pas du tout *normale*.
+  Ihre Reaktion war überhaupt nicht *normal*.
+
+  Les fonctions *normales* du foie sont perturbées.
+  Die *normalen* Leberfunktionen sind gestört.
+
+  Elle porte une taille *normale* en vêtements.
+  Sie trägt *normale* Konfektionsgrößen.
+
+  Dans des circonstances *normales*, je vous aurais aidé.
+  Unter *normalen* Umständen hätte ich Ihnen geholfen.
+
+  Son intelligence est au-dessus de la *normale*.
+  Seine Intelligenz liegt über dem *Normal*maß.
+
+  Le *normal* serait de s'excuser après une telle erreur.
+  Das *Normale* wäre, sich nach so einem Fehler zu entschuldigen.
+
+  Tout semble *normal* dans son comportement.
+  Alles erscheint *normal* in seinem Verhalten.
+
+  Ces phénomènes sont parfaitement *normaux* en hiver.
+  Diese Phänomene sind im Winter völlig *normal*.
+
+  Il n'est pas dans son état *normal* aujourd'hui.
+  Er ist heute nicht in seinem *normalen* Zustand.
+
+  Le déroulement *normal* de la cérémonie a été interrompu.
+  Der *normale* Ablauf der Zeremonie wurde unterbrochen.
+
+  C'est *normal* que vous soyez fatigué après tant d'effort.
+  Es ist *normal*, dass Sie nach so viel Anstrengung müde sind.
+
+  Ne me remerciez pas, c'est tout à fait *normal*.
+  Danken Sie mir nicht, das ist völlig *normal*.
+
+  Les conditions de travail sont redevenues *normales*.
+  Die Arbeitsbedingungen sind wieder *normal* geworden.
+
+  Tu n'as pas l'air *normal* aujourd'hui, es-tu malade ?
+  Du siehst heute nicht *normal* aus, bist du krank?
+
+  La pression artérielle est revenue à la *normale*.
+  Der Blutdruck ist wieder zum *Normal*wert zurückgekehrt.
+
+  Un développement *normal* prend du temps.
+  Eine *normale* Entwicklung braucht Zeit.
+
+  Elle mène une existence parfaitement *normale*.
+  Sie führt ein völlig *normales* Dasein.
+
+  C'est un phénomène tout à fait *normal* à cet âge.
+  Das ist ein völlig *normales* Phänomen in diesem Alter.
+
+  La croissance de l'entreprise suit un rythme *normal*.
+  Das Unternehmenswachstum folgt einem *normalen* Rhythmus.
+
+  Les services ont repris leur fonctionnement *normal*.
+  Die Dienste haben ihren *normalen* Betrieb wieder aufgenommen.
+
+  Cette réaction est tout à fait *normale* vu les circonstances.
+  Diese Reaktion ist unter den Umständen völlig *normal*.
+
+  Le niveau d'eau est revenu à la *normale*.
+  Der Wasserstand ist zum *Normal*pegel zurückgekehrt.
+
+  Ses signes vitaux sont *normaux*.
+  Seine Vitalzeichen sind *normal*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,47 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Même la mauvaise publicité peut être bonne.
-  Auch schlechte Werbung kann gut sein.
+  Même la mauvaise *publicité* peut être bonne.
+  Auch schlechte *Werbung* kann gut sein.
 
-  La publicité est partout.
-  Werbung ist überall.
+  La *publicité* mensongère est interdite par la loi.
+  Irreführende *Werbung* ist gesetzlich verboten.
 
-  Il travaille pour une agence de publicité.
-  Er arbeitet für eine Werbeagentur.
+  Les enfants sont très sensibles à la *publicité* pour les jouets.
+  Kinder sind sehr empfänglich für Spielzeug*werbung*.
 
-  Cette page de publicité est destinée à promouvoir les nouveaux produits de la marque.
-  Diese Seite Werbung soll für die neuen Produkte der Marke werben.
+  Notre émission reprendra après une page de *publicité*.
+  Unsere Sendung geht nach dem *Werbe*block weiter.
 
-  Il est important de faire de la publicité pour son entreprise.
-  Es ist wichtig, Werbung für sein Unternehmen zu machen.
+  "Cette *publicité* me tape sur les nerfs !"
+  "Diese *Werbung* geht mir auf die Nerven!"
 
-  Notre journal sera suivi d'une page de publicité pour une nouvelle marque de voitures.
-  Im Anschluss an die Nachrichten senden wir Werbung für eine neue Automarke.
+  La *publicité* des débats parlementaires est garantie par la Constitution.
+  Die *Öffentlichkeit* der Parlamentsdebatten ist verfassungsrechtlich garantiert.
 
-  La publicité comparative est parfois jugée agressive.
-  Vergleichende Werbung wird manchmal als aggressiv empfunden.
+  Cette agence de *publicité* a remporté plusieurs prix.
+  Diese *Werbe*agentur hat mehrere Preise gewonnen.
 
-  Il est illégal de diffuser une publicité mensongère.
-  Es ist illegal, irreführende Werbung zu verbreiten.
+  Il faut éviter de donner trop de *publicité* à cette affaire.
+  Man sollte dieser Angelegenheit nicht zu viel *Publicity* verschaffen.
 
-  La publicité directe est plus efficace pour atteindre un public ciblé.
-  Direkte Werbung ist effektiver, um ein Zielpublikum zu erreichen.
+  La *publicité* comparative doit être fondée sur des faits réels.
+  Vergleichende *Werbung* muss auf wahren Tatsachen basieren.
 
-  La publicité déguisée est une pratique illégale dans certains pays.
-  Schleichwerbung ist in einigen Ländern eine illegale Praxis.
+  Cette marque fait beaucoup de *publicité* à la radio.
+  Diese Marke macht viel Radio*werbung*.
 
-  La publicité extérieure est un moyen efficace pour toucher un large public.
-  Außenwerbung ist ein effektives Mittel, um ein breites Publikum zu erreichen.
+  Je zappe toujours pendant la *publicité*.
+  Ich schalte während der *Werbung* immer um.
 
-  La publicité illicite peut entraîner des sanctions.
-  Unerlaubte Werbung kann zu Strafen führen.
+  La *publicité* déguisée dans les films devient de plus en plus courante.
+  *Schleichwerbung* in Filmen wird immer häufiger.
 
-  La publicité mensongère peut nuire à la réputation d'une entreprise.
-  Irreführende Werbung kann der Reputation eines Unternehmens schaden.
+  As-tu vu la nouvelle *publicité* pour cette voiture ?
+  Hast du den neuen *Werbe*spot für dieses Auto gesehen?
 
-  La publicité radiophonique est un moyen efficace pour toucher un large public.
-  Radiowerbung ist ein effektives Mittel, um ein breites Publikum zu erreichen.
+  Cette *publicité* extérieure gâche le paysage urbain.
+  Diese Außen*werbung* verschandelt das Stadtbild.
+
+  La *publicité* par téléphone est très mal vue.
+  Telefon*werbung* ist sehr unbeliebt.
+
+  Cette *publicité* diffusée au cinéma est vraiment créative.
+  Diese Kino*werbung* ist wirklich kreativ.
+
+  L'entreprise fait de la *publicité* pour recruter de nouveaux employés.
+  Das Unternehmen schaltet *Anzeigen*, um neue Mitarbeiter zu rekrutieren.
+
+  La *publicité* sur internet devient de plus en plus ciblée.
+  Online-*Werbung* wird immer zielgerichteter.
+
+  Il travaille comme chef de *publicité* dans une grande agence.
+  Er arbeitet als *Werbe*leiter in einer großen Agentur.
+
+  Cette campagne de *publicité* a coûté des millions.
+  Diese *Werbe*kampagne hat Millionen gekostet.
+
+  La *publicité* sur les réseaux sociaux est très efficace.
+  *Werbung* in sozialen Medien ist sehr effektiv.
+
+  Il faut faire de la *publicité* pour attirer les clients.
+  Man muss *Werbung* machen, um Kunden anzulocken.
+
+  La *publicité* indirecte peut être plus subtile et efficace.
+  Indirekte *Werbung* kann subtiler und effektiver sein.
+
+  Le budget *publicité* a été réduit cette année.
+  Das *Werbe*budget wurde dieses Jahr gekürzt.
+
+  Cette *publicité* télévisée passe aux heures de grande écoute.
+  Dieser Fernseh*werbe*spot läuft zur Hauptsendezeit.
+
+  Le scandale a reçu beaucoup de *publicité* dans la presse.
+  Der Skandal hat in der Presse viel *Publicity* bekommen.
+
+  La *publicité* dans la presse écrite diminue chaque année.
+  Print*werbung* nimmt jedes Jahr ab.
+
+  Les nouvelles technologies changent le monde de la *publicité*.
+  Neue Technologien verändern die *Werbe*welt.
+
+  Cette *publicité* lumineuse attire tous les regards.
+  Diese Leucht*reklame* zieht alle Blicke auf sich.
+
+  La *publicité* illicite sera sanctionnée.
+  Unerlaubte *Werbung* wird bestraft.
+
+  Le Journal officiel assure la *publicité* des lois.
+  Das Amtsblatt gewährleistet die *Öffentlichkeit* der Gesetze.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

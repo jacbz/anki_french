@@ -13,11 +13,47 @@ Register: ↘Fiktion ↗Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Un vieil homme serbe a été tué par balle.
-  Ein alter serbischer Mann wurde erschossen.
+  Un vieil homme *serbe* a été tué par balle.
+  Ein alter *serbischer* Mann wurde erschossen.
 
-  Mon voisin est un Serbe.
-  Mein Nachbar ist ein Serbe.
+  La cuisine *serbe* est réputée pour ses grillades.
+  Die *serbische* Küche ist für ihre Grillgerichte bekannt.
+
+  Le *serbe* est une langue slave méridionale.
+  Das *Serbische* ist eine südslawische Sprache.
+
+  Mon voisin apprend le *serbe* depuis deux ans.
+  Mein Nachbar lernt seit zwei Jahren *Serbisch*.
+
+  Les traditions *serbes* sont très riches en musique folklorique.
+  Die *serbischen* Traditionen sind reich an Volksmusik.
+
+  Une famille *serbe* s'est installée dans notre quartier.
+  Eine *serbische* Familie ist in unser Viertel gezogen.
+
+  Le gouvernement *serbe* a annoncé de nouvelles mesures économiques.
+  Die *serbische* Regierung hat neue wirtschaftliche Maßnahmen angekündigt.
+
+  La communauté *serbe* organise un festival culturel ce weekend.
+  Die *serbische* Gemeinschaft organisiert dieses Wochenende ein Kulturfestival.
+
+  Les *Serbes* célèbrent leur fête nationale le 15 février.
+  Die *Serben* feiern ihren Nationalfeiertag am 15. Februar.
+
+  Le *serbe* utilise l'alphabet cyrillique.
+  Das *Serbische* verwendet das kyrillische Alphabet.
+
+  La littérature *serbe* moderne gagne en popularité.
+  Die moderne *serbische* Literatur gewinnt an Beliebtheit.
+
+  Une équipe de football *serbe* participe au tournoi.
+  Eine *serbische* Fußballmannschaft nimmt am Turnier teil.
+
+  Les jeunes *Serbes* étudient souvent à l'étranger.
+  Viele junge *Serben* studieren oft im Ausland.
+
+  Le *serbe* est une des langues officielles de la Bosnie-Herzégovine.
+  *Serbisch* ist eine der Amtssprachen in Bosnien und Herzegowina.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

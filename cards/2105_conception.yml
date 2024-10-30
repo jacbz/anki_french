@@ -13,29 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est notre conception de la politesse.
-  Das ist unsere Auffassung von Höflichkeit.
+  C'est notre *conception* de la politesse.
+  Das ist unsere *Auffassung* von Höflichkeit.
 
-  Il a une conception très personnelle de l’art.
-  Er hat eine sehr persönliche Vorstellung von Kunst.
+  La *conception* de ce projet prendra environ six mois.
+  Die *Entwicklung* dieses Projekts wird ungefähr sechs Monate dauern.
 
-  Nous travaillons actuellement sur la conception d'un contrat de partenariat.
-  Wir arbeiten derzeit an der Vertragskonzeption für eine Partnerschaft.
+  Les médecins lui ont confirmé la *conception* de son enfant.
+  Die Ärzte haben ihr die *Empfängnis* ihres Kindes bestätigt.
 
-  La fête de l'Immaculée Conception est célébrée le 8 décembre.
-  Der Festtag der Unbefleckten Empfängnis wird am 8. Dezember gefeiert.
+  La *conception* assistée par ordinateur a révolutionné l'industrie automobile.
+  Das computerunterstützte *Entwerfen* hat die Automobilindustrie revolutioniert.
 
-  La conception juridique du contrat est complexe.
-  Die Rechtsvorstellung des Vertrages ist komplex.
+  Sa *conception* de la justice est très différente de la mienne.
+  Seine *Vorstellung* von Gerechtigkeit unterscheidet sich sehr von meiner.
 
-  La conception globale du projet est ambitieuse.
-  Die Gesamtkonzeption des Projekts ist ehrgeizig.
+  La *conception* du nouveau contrat était plus complexe que prévu.
+  Die *Konzeption* des neuen Vertrags war komplexer als erwartet.
 
-  La conception assistée par ordinateur permet de gagner du temps et de l'efficacité.
-  Computerunterstütztes Entwerfen ermöglicht Zeit- und Effizienzgewinne.
+  Nous devons revoir la *conception* globale de cette stratégie.
+  Wir müssen die *Gesamtkonzeption* dieser Strategie überarbeiten.
 
-  La conception de la morale est un sujet de débat permanent.
-  Der Moralbegriff ist ein ständiges Diskussionsthema.
+  Cette *conception* juridique est largement acceptée en Europe.
+  Diese *Rechtsvorstellung* ist in Europa weitgehend akzeptiert.
+
+  La pilule permet d'éviter la *conception*.
+  Die Pille verhindert die *Empfängnis*.
+
+  La *conception* de ce bâtiment date des années 80.
+  Der *Entwurf* dieses Gebäudes stammt aus den 80er Jahren.
+
+  Elle a une *conception* très personnelle du mariage.
+  Sie hat eine sehr persönliche *Auffassung* von der Ehe.
+
+  La *conception* du nouveau smartphone sera terminée au printemps.
+  Die *Entwicklung* des neuen Smartphones wird im Frühling abgeschlossen sein.
+
+  Cette *conception* morale influence fortement ses décisions.
+  Diese moralische *Auffassung* beeinflusst stark seine Entscheidungen.
+
+  La *conception* de ce logiciel a nécessité deux ans de travail.
+  Die *Entwicklung* dieser Software hat zwei Jahre Arbeit erfordert.
+
+  L'église célébrera demain l'Immaculée *Conception*.
+  Die Kirche wird morgen die Unbefleckte *Empfängnis* feiern.
+
+  Sa *conception* de l'art est très avant-gardiste.
+  Seine *Auffassung* von Kunst ist sehr avantgardistisch.
+
+  Les défauts de *conception* ont causé plusieurs problèmes.
+  Die *Konstruktions*mängel haben mehrere Probleme verursacht.
+
+  Cette *conception* architecturale est vraiment innovante.
+  Dieser architektonische *Entwurf* ist wirklich innovativ.
+
+  La *conception* d'une théorie scientifique demande beaucoup de rigueur.
+  Die *Entwicklung* einer wissenschaftlichen Theorie erfordert viel Genauigkeit.
+
+  Leur *conception* du monde est plutôt optimiste.
+  Ihre *Vorstellung* von der Welt ist eher optimistisch.
+
+  La *conception* de ce médicament a pris des années.
+  Die *Entwicklung* dieses Medikaments hat Jahre gedauert.
+
+  Cette *conception* politique est dépassée.
+  Diese politische *Auffassung* ist überholt.
+
+  La *conception* assistée par ordinateur permet d'économiser du temps.
+  Das computerunterstützte *Entwerfen* spart Zeit.
+
+  Sa *conception* de l'éducation est très moderne.
+  Seine *Auffassung* von Bildung ist sehr modern.
+
+  La *conception* du nouveau pont a été confiée à une entreprise française.
+  Die *Planung* der neuen Brücke wurde einem französischen Unternehmen anvertraut.
+
+  Il faut réviser la *conception* initiale du projet.
+  Die ursprüngliche *Konzeption* des Projekts muss überarbeitet werden.
+
+  Cette *conception* philosophique a influencé plusieurs générations.
+  Diese philosophische *Auffassung* hat mehrere Generationen beeinflusst.
+
+  La *conception* de ce film était vraiment originale.
+  Die *Konzeption* dieses Films war wirklich originell.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

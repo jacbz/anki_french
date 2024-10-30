@@ -13,11 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La réunion s’ouvrit le 17 juillet.
-  Das Treffen wurde am 17. Juli eröffnet.
+  La réunion s'ouvrit le 17 *juillet*.
+  Die Sitzung wurde am 17. *Juli* eröffnet.
 
-  Mon anniversaire est en juillet.
-  Mein Geburtstag ist im Juli.
+  En *juillet*, il fait souvent trop chaud pour travailler.
+  Im *Juli* ist es oft zu heiß zum Arbeiten.
+
+  Nous partirons en vacances à la mi-*juillet*.
+  Wir fahren Mitte *Juli* in den Urlaub.
+
+  Le 14 *juillet*, tous les Français célèbrent la fête nationale.
+  Am 14. *Juli* feiern alle Franzosen den Nationalfeiertag.
+
+  Elle est née un beau jour de *juillet* 1995.
+  Sie wurde an einem schönen Tag im *Juli* 1995 geboren.
+
+  Les températures en *juillet* ont battu tous les records.
+  Die Temperaturen im *Juli* haben alle Rekorde gebrochen.
+
+  Au mois de *juillet*, les jardins sont pleins de tournesols.
+  Im Monat *Juli* sind die Gärten voller Sonnenblumen.
+
+  Le festival aura lieu du 1er au 31 *juillet*.
+  Das Festival findet vom 1. bis zum 31. *Juli* statt.
+
+  Pendant la révolution de *juillet*, le peuple s'est soulevé contre Charles X.
+  Während der *Juli*revolution erhob sich das Volk gegen Charles X.
+
+  Les orages de *juillet* ont endommagé plusieurs maisons.
+  Die *Juli*gewitter haben mehrere Häuser beschädigt.
+
+  L'entreprise fermera ses portes tout le mois de *juillet*.
+  Die Firma wird den ganzen Monat *Juli* geschlossen sein.
+
+  C'est en *juillet* que les lavandes sont les plus belles en Provence.
+  Im *Juli* sind die Lavendelfelder in der Provence am schönsten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

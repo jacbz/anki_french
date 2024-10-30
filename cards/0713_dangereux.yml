@@ -13,41 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce type est dangereux.
-  Dieser Typ ist gefährlich.
+  Ce type est *dangereux*.
+  Dieser Typ ist *gefährlich*.
 
-  C’est un quartier dangereux.
-  Das ist ein gefährliches Viertel.
+  Cette maladie est très *dangereuse*.
+  Diese Krankheit ist sehr *gefährlich*.
 
-  Le monde est dangereux.
-  Die Welt ist gefährlich.
+  Les substances *dangereuses* doivent être stockées dans un endroit sécurisé.
+  *Gefährliche* Stoffe müssen an einem sicheren Ort gelagert werden.
 
-  Je pense que ce que tu fais est dangereux.
-  Ich denke, dass das, was du tust, gefährlich ist.
+  Le lion est un animal *dangereux*.
+  Der Löwe ist ein *gefährliches* Tier.
 
-  Je me demande s’il serait dangereux de faire ça.
-  Ich frage mich, ob es gefährlich wäre, dies zu tun.
+  Cette route devient *dangereuse* en hiver.
+  Diese Straße wird im Winter *gefährlich*.
 
-  Le groupe terroriste, qui planifiait des attentats, était considéré comme dangereux pour l'État.
-  Der Terroristengruppe, die Anschläge plante, wurde vorgeworfen, staatsgefährdend zu sein.
+  Le carrefour est particulièrement *dangereux* aux heures de pointe.
+  Die Kreuzung ist besonders *unfallträchtig* zu den Hauptverkehrszeiten.
 
-  Un véhicule qui roule à vive allure sur une route verglacée peut être dangereux pour la sécurité routière.
-  Ein Fahrzeug, das mit hoher Geschwindigkeit auf einer eisigen Straße fährt, kann unfallträchtig sein.
+  Son comportement *dangereux* sur la route met en danger les autres.
+  Sein *verkehrsgefährdendes* Verhalten gefährdet andere.
 
-  Le tueur en série était un fou dangereux qui a terrorisé toute la ville.
-  Der Serienmörder war ein gemeingefährlicher Verrückter, der die ganze Stadt in Angst und Schrecken versetzte.
+  Ces lectures sont *dangereuses* pour les adolescents.
+  Diese Lektüren sind für Jugendliche *schädlich*.
 
-  La zone de guerre était une zone dangereuse où les civils étaient constamment menacés.
-  Die Kriegszone war eine Gefahrenzone, in der die Zivilbevölkerung ständig bedroht war.
+  Cette blessure peut devenir *dangereuse* si elle n'est pas soignée.
+  Diese Wunde kann *gefährlich* werden, wenn sie nicht behandelt wird.
 
-  Les animaux domestiques, lorsqu'ils sont bien dressés, ne sont pas dangereux pour les enfants.
-  Haustiere sind, wenn sie gut erzogen sind, ungefährlich für Kinder.
+  L'escalade sans équipement est très *dangereuse*.
+  Klettern ohne Ausrüstung ist sehr *riskant*.
 
-  La télé est dangereuse pour les enfants, car elle peut les rendre passifs et dépendants.
-  Fernsehen ist für Kinder schädlich, da es sie passiv und abhängig machen kann.
+  Il est considéré comme un escroc *dangereux*.
+  Er gilt als *gefährlicher* Betrüger.
 
-  Il est dangereux de se pencher au dehors du train en marche.
-  Das Hinauslehnen aus dem fahrenden Zug ist gefährlich.
+  Cette doctrine *dangereuse* influence négativement la jeunesse.
+  Diese *schädliche* Doktrin beeinflusst die Jugend negativ.
+
+  La vipère est une espèce très *dangereuse*.
+  Die Viper ist eine sehr *gefährliche* Art.
+
+  Les écueils rendent la navigation *dangereuse* près de la côte.
+  Die Klippen machen die Navigation in Küstennähe *gefährlich*.
+
+  Nous entrons dans une zone *dangereuse*.
+  Wir betreten eine *Gefahren*zone.
+
+  Ce criminel *dangereux* s'est échappé de prison.
+  Dieser *gefährliche* Verbrecher ist aus dem Gefängnis ausgebrochen.
+
+  L'abus de ce médicament est *dangereux*.
+  Der Missbrauch dieses Medikaments ist *schädlich*.
+
+  Ces idées sont *dangereuses* pour la démocratie.
+  Diese Ideen sind für die Demokratie *gefährlich*.
+
+  Cette entreprise est trop *dangereuse* pour être tentée.
+  Dieses Unterfangen ist zu *riskant*, um es zu versuchen.
+
+  Ce virage est particulièrement *dangereux*.
+  Diese Kurve ist besonders *gefährlich*.
+
+  Le renard enragé est extrêmement *dangereux*.
+  Der tollwütige Fuchs ist äußerst *gefährlich*.
+
+  Ses activités sont *dangereuses* pour l'État.
+  Seine Aktivitäten sind *staatsgefährdend*.
+
+  Cette expédition n'est pas *dangereuse*.
+  Diese Expedition ist nicht *gefährlich*.
+
+  Il s'est engagé sur un terrain *dangereux*.
+  Er hat sich auf *gefährliches* Terrain begeben.
+
+  Les jeux d'argent peuvent devenir *dangereux*.
+  Glücksspiele können *riskant* werden.
+
+  Un concurrent *dangereux* est entré sur le marché.
+  Ein *gefährlicher* Konkurrent ist in den Markt eingetreten.
+
+  Ce politicien est devenu *dangereux* pour la stabilité du pays.
+  Dieser Politiker ist für die Stabilität des Landes *gefährlich* geworden.
+
+  Le trop long temps passé devant la télé est *dangereux* pour les enfants.
+  Zu lange Fernsehzeit ist für Kinder *schädlich*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

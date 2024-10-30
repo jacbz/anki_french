@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis très seul actuellement.
-  Ich bin derzeit sehr einsam.
+  Je suis très seul *actuellement*.
+  Ich bin *momentan* sehr einsam.
 
-  Actuellement, je travaille beaucoup.
-  Zurzeit arbeite ich viel.
+  Il n'est pas *actuellement* en état de travailler à cause de sa blessure.
+  Er ist *zurzeit* wegen seiner Verletzung nicht arbeitsfähig.
+
+  *Actuellement*, nous avons plus de 200 employés dans notre entreprise.
+  *Gegenwärtig* haben wir über 200 Mitarbeiter in unserem Unternehmen.
+
+  Les travaux sont *actuellement* en cours dans le centre-ville.
+  Die Bauarbeiten sind *derzeit* in der Innenstadt im Gange.
+
+  *Actuellement*, il fait ses études à l'université de Paris.
+  *Momentan* studiert er an der Universität Paris.
+
+  Le musée est *actuellement* fermé pour rénovation.
+  Das Museum ist *zurzeit* wegen Renovierung geschlossen.
+
+  *Actuellement*, nous ne prenons plus de réservations pour ce soir.
+  *Im Moment* nehmen wir keine weiteren Reservierungen für heute Abend an.
+
+  La situation économique est *actuellement* très difficile.
+  Die wirtschaftliche Situation ist *gegenwärtig* sehr schwierig.
+
+  *Actuellement*, nous ne pouvons pas vous donner de réponse définitive.
+  *Derzeit* können wir Ihnen keine endgültige Antwort geben.
+
+  Elle habite *actuellement* chez ses parents.
+  Sie wohnt *momentan* bei ihren Eltern.
+
+  Les prix du pétrole sont *actuellement* très bas.
+  Die Ölpreise sind *zurzeit* sehr niedrig.
+
+  *Actuellement*, nous recherchons un nouveau responsable marketing.
+  *Gegenwärtig* suchen wir einen neuen Marketingleiter.
+
+  Le dossier est *actuellement* en cours d'examen.
+  Die Akte wird *momentan* geprüft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

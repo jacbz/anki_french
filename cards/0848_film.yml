@@ -13,44 +13,107 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai vu tous les films d’action.
-  Ich habe alle Actionfilme gesehen.
+  J'ai vu tous les *films* d'action.
+  Ich habe alle Action*filme* gesehen.
 
-  J’aime regarder des films français.
-  Ich schaue gerne französische Filme.
+  Ce *film* en noir et blanc date des années 1920.
+  Dieser Schwarz-Weiß-*Film* stammt aus den 1920er Jahren.
 
-  Tu aurais dû regarder le film.
-  Du hättest den Film sehen sollen.
+  Mon appareil photo n'a plus de *film*.
+  Mein Fotoapparat hat keinen *Film* mehr.
 
-  Je veux regarder le film à nouveau.
-  Ich möchte den Film noch einmal sehen.
+  Il faut mettre du *film* alimentaire sur le plat avant de le mettre au frigo.
+  Man muss Frischhalte*folie* über den Teller legen, bevor man ihn in den Kühlschrank stellt.
 
-  Je crois que nous avons déjà vu ce film.
-  Ich glaube, wir haben den Film bereits gesehen.
+  Le *film* protecteur de la crème solaire est très efficace.
+  Der Schutz*film* der Sonnencreme ist sehr wirksam.
 
-  Le film plastique est utilisé pour emballer les aliments et les protéger.
-  Kunststofffolie wird zum Verpacken und Schützen von Lebensmitteln verwendet.
+  As-tu déjà tourné un *film* ?
+  Hast du schon mal einen *Film* gedreht?
 
-  Le film d'amour "Titanic" a connu un grand succès.
-  Der Liebesfilm "Titanic" war ein großer Erfolg.
+  Le *film* de ma vie défile devant mes yeux.
+  Der *Ablauf* meines Lebens zieht an meinen Augen vorbei.
 
-  Le film d'action "Mission Impossible" est plein de cascades impressionnantes.
-  Der Actionfilm "Mission Impossible" ist voll von beeindruckenden Stunts.
+  Ce *film* de science-fiction a gagné trois Oscars.
+  Dieser Science-Fiction-*Film* hat drei Oscars gewonnen.
 
-  Le film de science-fiction "Star Wars" est une saga incontournable.
-  Der Sciencefiction-Film "Star Wars" ist eine unverzichtbare Saga.
+  Le *film* plastique protège bien les aliments.
+  Die Plastik*folie* schützt die Lebensmittel gut.
 
-  Le film historique à grand spectacle "Gladiator" est une fresque épique.
-  Der Historienschinken "Gladiator" ist eine epische Freske.
+  Elle a joué dans plusieurs *films* d'amour.
+  Sie hat in mehreren Liebes*filmen* mitgespielt.
 
-  Le titre du film "Le Seigneur des anneaux" est très connu.
-  Der Filmtitel "Der Herr der Ringe" ist sehr bekannt.
+  Le *film* animalier montre la vie des pingouins en Antarctique.
+  Der Tier*film* zeigt das Leben der Pinguine in der Antarktis.
 
-  Le film alimentaire protège les aliments de la poussière et de l'humidité.
-  Frischhaltefolie schützt Lebensmittel vor Staub und Feuchtigkeit.
+  Ce *film* historique à grand spectacle est vraiment exagéré.
+  Dieser historische *Film* ist wirklich übertrieben.
 
-  Le film protecteur protège les écrans des téléphones et des ordinateurs.
-  Schutzfolie schützt die Bildschirme von Handys und Computern.
+  Le *film* radiographique montre une fracture.
+  Der Röntgen*film* zeigt einen Bruch.
+
+  Voici le *film* des événements d'hier soir.
+  Hier ist die *Chronik* der gestrigen Ereignisse.
+
+  Le *film* muet fait encore rire aujourd'hui.
+  Der Stumm*film* bringt uns auch heute noch zum Lachen.
+
+  Ce *film* couleur capture parfaitement les tons chauds.
+  Dieser Farb*film* fängt die warmen Töne perfekt ein.
+
+  Un mince *film* d'huile recouvre la surface de l'eau.
+  Ein dünner Öl*film* bedeckt die Wasseroberfläche.
+
+  Le titre du *film* sera annoncé demain.
+  Der *Film*titel wird morgen bekannt gegeben.
+
+  Nous allons voir un *film* en version originale.
+  Wir werden uns einen *Film* in Originalfassung ansehen.
+
+  Le festival du *film* fantastique commence lundi.
+  Das Fantasy*film*festival beginnt am Montag.
+
+  Le *film* d'animation a enchanté les enfants.
+  Der Animations*film* hat die Kinder verzaubert.
+
+  Le scénario de ce *film* est vraiment original.
+  Das Drehbuch dieses *Films* ist wirklich originell.
+
+  Cette bobine de *film* fait 35 millimètres.
+  Diese *Film*rolle ist 35 Millimeter breit.
+
+  Le *film* publicitaire passera pendant le match.
+  Der Werbe*film* wird während des Spiels laufen.
+
+  As-tu vu son dernier *film* ?
+  Hast du seinen neuesten *Film* gesehen?
+
+  Le *film* de guerre sera projeté ce soir.
+  Der Kriegs*film* wird heute Abend gezeigt.
+
+  Le montage du *film* a pris six mois.
+  Der *Film*schnitt hat sechs Monate gedauert.
+
+  Ce *film* vidéo a été tourné avec un smartphone.
+  Dieser Video*film* wurde mit einem Smartphone gedreht.
+
+  La musique de ce *film* est magnifique.
+  Die *Film*musik ist wunderschön.
+
+  Le réalisateur tourne son nouveau *film* à Paris.
+  Der Regisseur dreht seinen neuen *Film* in Paris.
+
+  "C'est un mauvais *film*" - "Oui, un vrai navet !"
+  "Das ist ein schlechter *Film*" - "Ja, ein echter Schmarren!"
+
+  Le synopsis du *film* m'a beaucoup intrigué.
+  Die *Film*handlung hat mich sehr neugierig gemacht.
+
+  Ce *film* pédagogique explique bien les mathématiques.
+  Dieser Lehr*film* erklärt Mathematik gut.
+
+  Le producteur cherche des financements pour son prochain *film*.
+  Der Produzent sucht Finanzierung für seinen nächsten *Film*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

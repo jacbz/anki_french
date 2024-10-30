@@ -9,25 +9,132 @@ Femininum / Plural: ''
 IPA: \vɔ.lym\
 Definition: Volumen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Gardez le moral haut et le volume bas.\nHalten Sie die Moral hoch\
-  \ und die Lautstärke niedrig.\n\nLe volume de ce livre est impressionnant.\nDer\
-  \ Umfang dieses Buches ist beeindruckend.\n\nBaissez le volume.\nSenken Sie die\
-  \ Lautstärke.\n\nLe volume de production a augmenté de 5% ce trimestre.\nDer Produktionsausstoß\
-  \ ist in diesem Quartal um 5 % gestiegen.\n\nPouvez-vous baisser le volume sonore,\
-  \ s'il vous plaît ?\nKönnen Sie bitte die Lautstärke leiser stellen?\n\nIl a lu\
-  \ l'œuvre en plusieurs volumes de Victor Hugo en un an.\nEr hat das mehrbändige\
-  \ Werk von Victor Hugo in einem Jahr gelesen.\n\nLe volume pulmonaire est important\
-  \ pour les sportifs.\nDas Lungenvolumen ist wichtig für Sportler.\n\nLe volume du\
-  \ fichier est trop important pour être envoyé par email.\nDas Dateivolumen ist zu\
-  \ groß, um es per E-Mail zu versenden. \n\nLe volume des ventes a explosé après\
-  \ la campagne publicitaire.\nDas Verkaufsvolumen ist nach der Werbekampagne explodiert.\n\
-  \nLe volume de ventes minimum n'a pas été atteint, le produit va être retiré du\
-  \ marché.\nDer Mindestabsatz wurde nicht erreicht, das Produkt wird vom Markt genommen.\n\
-  \nLe volume final de la récolte a dépassé les espérances.\nDas Endaufkommen der\
-  \ Ernte hat die Erwartungen übertroffen.\n\nLe volume total des investissements\
-  \ a atteint un niveau record.\nDas Gesamtvolumen der Investitionen hat einen Rekordwert\
-  \ erreicht.\n\nLe volume global des taxes a augmenté de 2% par rapport à l'année\
-  \ dernière.\nDas Gebührenaufkommen ist im Vergleich zum Vorjahr um 2% gestiegen."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Gardez le moral haut et le *volume* bas.
+  Behaltet die Stimmung hoch und die *Lautstärke* niedrig.
+
+  Ils ont enfin fini leur projet en trois *volumes*.
+  Sie haben endlich ihr Werk in drei *Bänden* fertiggestellt.
+
+  Le *volume* du coffre de cette voiture est impressionnant.
+  Der *Lade*raum dieses Autos ist beeindruckend.
+
+  J'ai dû augmenter le *volume* pour entendre les informations.
+  Ich musste die *Lautstärke* erhöhen, um die Nachrichten zu hören.
+
+  Il faut réduire le *volume* total des déchets.
+  Der *Gesamt*umfang des Mülls muss reduziert werden.
+
+  Ce *volume* de données est trop important pour ma clé USB.
+  Diese Datei*größe* ist zu groß für meinen USB-Stick.
+
+  Le *volume* des ventes a doublé ce mois-ci.
+  Das Verkaufs*volumen* hat sich diesen Monat verdoppelt.
+
+  Son nouveau shampooing donne plus de *volume* à ses cheveux.
+  Ihr neues Shampoo gibt ihrem Haar mehr *Volumen*.
+
+  Nous devons mesurer le *volume* exact du récipient.
+  Wir müssen die genaue *Füllmenge* des Behälters messen.
+
+  Le *volume* sonore de la fête dérangeait les voisins.
+  Die *Lautstärke* der Party störte die Nachbarn.
+
+  Cette bibliothèque contient plus de mille *volumes*.
+  Diese Bibliothek enthält über tausend *Bände*.
+
+  Le *volume* pulmonaire diminue avec l'âge.
+  Das Lungen*volumen* nimmt mit dem Alter ab.
+
+  Il faut baisser le *volume* de la télévision.
+  Die *Lautstärke* des Fernsehers muss leiser gestellt werden.
+
+  Le *volume* de production a atteint un nouveau record.
+  Der Produktions*ausstoß* hat einen neuen Rekord erreicht.
+
+  Cette sculpture joue avec les *volumes* et les espaces.
+  Diese Skulptur spielt mit *Körpern* und Räumen.
+
+  Le *volume* global des investissements reste stable.
+  Der *Gesamt*umfang der Investitionen bleibt stabil.
+
+  J'ai acheté l'encyclopédie en douze *volumes*.
+  Ich habe die Enzyklopädie in zwölf *Bänden* gekauft.
+
+  Le *volume* des exportations a chuté cette année.
+  Der *Umfang* der Exporte ist dieses Jahr gesunken.
+
+  Ce logiciel permet de contrôler le *volume* automatiquement.
+  Diese Software ermöglicht es, die *Lautstärke* automatisch zu regeln.
+
+  Le *volume* du fichier est trop grand pour l'envoyer par e-mail.
+  Die *Größe* der Datei ist zu groß, um sie per E-Mail zu verschicken.
+
+  Les architectes ont créé d'intéressants jeux de *volumes*.
+  Die Architekten haben interessante Spiele mit *Körpern* geschaffen.
+
+  Le *volume* minimum de ventes n'a pas été atteint.
+  Der Mindest*absatz* wurde nicht erreicht.
+
+  Cette eau oxygénée est à vingt *volumes*.
+  Dieses Wasserstoffperoxid hat zwanzig *Volumen*.
+
+  Le *volume* total des taxes a augmenté.
+  Das Gebühren*aufkommen* ist gestiegen.
+
+  Sa voix manque de *volume* sur scène.
+  Ihrer Stimme fehlt es auf der Bühne an *Volumen*.
+
+  Le *volume* de la production diminue en hiver.
+  Das Produktions*volumen* sinkt im Winter.
+
+  Ce vêtement donne du *volume* à sa silhouette.
+  Dieses Kleidungsstück gibt ihrer Silhouette mehr *Volumen*.
+
+  Le *volume* des précipitations est en baisse.
+  Die *Menge* der Niederschläge ist rückläufig.
+
+  Nous devons calculer le *volume* exact du cube.
+  Wir müssen das exakte *Volumen* des Würfels berechnen.
+
+  Le *volume* des transactions a explosé.
+  Der *Umfang* der Transaktionen ist explodiert.
+
+  Cette étagère peut contenir beaucoup de *volumes*.
+  Dieses Regal kann viele *Bände* aufnehmen.
+
+  Le *volume* de la musique était assourdissant.
+  Die *Lautstärke* der Musik war ohrenbetäubend.
+
+  Le *volume* des importations a doublé.
+  Der *Umfang* der Importe hat sich verdoppelt.
+
+  Il faut réduire le *volume* de l'emballage.
+  Das *Volumen* der Verpackung muss reduziert werden.
+
+  Le *volume* de travail augmente chaque année.
+  Der *Umfang* der Arbeit steigt jedes Jahr.
+
+  Les nuages donnent du *volume* au paysage.
+  Die Wolken geben der Landschaft *Volumen*.
+
+  Le *volume* des commandes dépasse nos attentes.
+  Der *Umfang* der Bestellungen übertrifft unsere Erwartungen.
+
+  Ce roman sera publié en deux *volumes*.
+  Dieser Roman wird in zwei *Bänden* veröffentlicht.
+
+  Le *volume* des bagages est limité en avion.
+  Das *Volumen* des Gepäcks ist im Flugzeug begrenzt.
+
+  Elle a augmenté le *volume* de sa voix pour se faire entendre.
+  Sie hat die *Lautstärke* ihrer Stimme erhöht, um gehört zu werden.
+
+  Le *volume* d'eau du barrage est au plus bas.
+  Die *Füllmenge* des Staudamms ist auf dem niedrigsten Stand.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

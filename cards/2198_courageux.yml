@@ -13,20 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Une femme moderne, courageuse, sensible.
-  Eine moderne, mutige und sensible Frau.
+  Une femme moderne, *courageuse*, sensible.
+  Eine moderne, *mutige*, sensible Frau.
 
-  Il a été très courageux pendant la guerre.
-  Er war während des Krieges sehr mutig.
+  Les soldats *courageux* ont défendu leur position jusqu'au bout.
+  Die *tapferen* Soldaten haben ihre Position bis zum Ende verteidigt.
 
-  Il est très courageux.
-  Er ist sehr mutig.
+  Il a adopté une attitude *courageuse* face aux critiques.
+  Er hat eine *mutige* Haltung gegenüber der Kritik eingenommen.
 
-  Il faut être courageux, mais pas téméraire !
-  Man muss ja nicht gleich Kopf und Kragen riskieren!
+  Malgré la douleur, elle est restée *courageuse* pendant toute l'opération.
+  Trotz der Schmerzen blieb sie während der ganzen Operation *tapfer*.
 
-  On peut être courageux sans être téméraire.
-  Man kann mutig sein, ohne leichtsinnig zu sein.
+  Sa réponse *courageuse* a impressionné tout le monde.
+  Seine *kühne* Antwort hat alle beeindruckt.
+
+  Cette jeune entrepreneure *courageuse* travaille jour et nuit pour réussir.
+  Diese *tatkräftige* junge Unternehmerin arbeitet Tag und Nacht für ihren Erfolg.
+
+  C'est un homme *courageux* qui n'hésite pas à retrousser ses manches.
+  Er ist ein *zupackender* Mann, der nicht zögert, die Ärmel hochzukrempeln.
+
+  Les pompiers *courageux* ont sauvé trois enfants de l'incendie.
+  Die *mutigen* Feuerwehrleute haben drei Kinder aus dem Brand gerettet.
+
+  Son intervention *courageuse* a permis d'éviter un accident.
+  Sein *mutiger* Eingriff hat einen Unfall verhindert.
+
+  Elle s'est montrée particulièrement *courageuse* pendant cette période difficile.
+  Sie hat sich in dieser schwierigen Zeit besonders *tapfer* gezeigt.
+
+  C'était *courageux* de sa part d'avouer son erreur devant tout le monde.
+  Es war *mutig* von ihm, seinen Fehler vor allen einzugestehen.
+
+  Le petit garçon *courageux* n'a pas pleuré chez le dentiste.
+  Der *tapfere* kleine Junge hat beim Zahnarzt nicht geweint.
+
+  Les décisions *courageuses* sont rarement les plus faciles à prendre.
+  *Mutige* Entscheidungen sind selten die einfachsten.
+
+  Cette infirmière *courageuse* a travaillé sans relâche pendant la pandémie.
+  Diese *tapfere* Krankenschwester hat während der Pandemie unermüdlich gearbeitet.
+
+  Un geste *courageux* peut parfois changer toute une vie.
+  Eine *mutige* Geste kann manchmal ein ganzes Leben verändern.
+
+  Je trouve vraiment *courageux* qu'il ait osé poursuivre ses rêves.
+  Ich finde es wirklich *mutig*, dass er es gewagt hat, seine Träume zu verfolgen.
+
+  Les alpinistes *courageux* ont continué malgré le mauvais temps.
+  Die *tapferen* Bergsteiger machten trotz des schlechten Wetters weiter.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

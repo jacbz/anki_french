@@ -13,20 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le trafic était dense mais relativement fluide.
-  Der Verkehr war dicht, aber relativ flüssig.
+  Le trafic était dense mais *relativement* fluide.
+  Der Verkehr war dicht, aber *relativ* flüssig.
 
-  Il est relativement facile de comprendre.
-  Es ist vergleichsweise einfach zu verstehen.
+  Ce problème mathématique est *relativement* simple à résoudre.
+  Diese Mathematikaufgabe ist *verhältnismäßig* einfach zu lösen.
 
-  Elle est relativement jolie.
-  Sie ist relativ hübsch.
+  Les prix des légumes sont *relativement* élevés cette année.
+  Die Gemüsepreise sind dieses Jahr *vergleichsweise* hoch.
 
-  Le prix de ce produit est relativement élevé par rapport à sa qualité.
-  Der Preis dieses Produkts ist im Verhältnis zu seiner Qualität relativ hoch.
+  Le musée se trouve dans un quartier *relativement* calme.
+  Das Museum befindet sich in einem *relativ* ruhigen Viertel.
 
-  La taille de ce pays est relativement petite par rapport à ses voisins.
-  Die Größe dieses Landes ist im Verhältnis zu seinen Nachbarn relativ klein.
+  Cette solution est *relativement* efficace contre le mal de tête.
+  Diese Lösung ist *ziemlich* wirksam gegen Kopfschmerzen.
+
+  La circulation était *relativement* fluide pour un vendredi soir.
+  Der Verkehr war für einen Freitagabend *vergleichsweise* flüssig.
+
+  Il habite dans un appartement *relativement* spacieux.
+  Er wohnt in einer *relativ* geräumigen Wohnung.
+
+  Le restaurant propose des plats *relativement* bon marché.
+  Das Restaurant bietet *verhältnismäßig* günstige Gerichte an.
+
+  Les températures restent *relativement* douces pour la saison.
+  Die Temperaturen bleiben für die Jahreszeit *relativ* mild.
+
+  *Relativement* à sa taille, son poids est normal.
+  Im *Verhältnis* zu ihrer Größe ist ihr Gewicht normal.
+
+  Je voudrais vous parler *relativement* à votre demande.
+  Ich möchte mit Ihnen *bezüglich* Ihres Antrags sprechen.
+
+  Les résultats sont *relativement* satisfaisants cette année.
+  Die Ergebnisse sind dieses Jahr *verhältnismäßig* zufriedenstellend.
+
+  Cette région est *relativement* peu peuplée.
+  Diese Region ist *relativ* dünn besiedelt.
+
+  Le nouveau stagiaire s'est *relativement* bien intégré dans l'équipe.
+  Der neue Praktikant hat sich *vergleichsweise* gut ins Team integriert.
+
+  La situation est *relativement* stable pour le moment.
+  Die Situation ist im Moment *relativ* stabil.
+
+  Les exercices sont *relativement* faciles à comprendre.
+  Die Übungen sind *verhältnismäßig* leicht zu verstehen.
+
+  Il m'a contacté *relativement* à notre dernier rendez-vous.
+  Er hat mich *bezüglich* unseres letzten Termins kontaktiert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

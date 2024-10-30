@@ -13,11 +13,38 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’était un samedi après-midi de décembre.
-  Es war ein Samstagnachmittag im Dezember.
+  C'était un samedi après-midi de *décembre*.
+  Es war ein *Dezember*nachmittag an einem Samstag.
 
-  Mon anniversaire est en décembre.
-  Mein Geburtstag ist im Dezember.
+  En *décembre*, les jours sont les plus courts de l'année.
+  Im *Dezember* sind die Tage am kürzesten.
+
+  Le 21 *décembre* marque le début de l'hiver.
+  Am 21. *Dezember* beginnt der Winter.
+
+  Nous nous sommes mariés le 8 *décembre* 2019.
+  Wir haben am 8. *Dezember* 2019 geheiratet.
+
+  Le marché de Noël ouvre ses portes début *décembre*.
+  Der Weihnachtsmarkt öffnet Anfang *Dezember*.
+
+  Il neige souvent en *décembre* dans cette région.
+  In dieser Region schneit es oft im *Dezember*.
+
+  Le loyer doit être payé avant le 5 *décembre*.
+  Die Miete muss vor dem 5. *Dezember* bezahlt werden.
+
+  Mon contrat se termine fin *décembre*.
+  Mein Vertrag endet Ende *Dezember*.
+
+  Les examens auront lieu mi-*décembre*.
+  Die Prüfungen finden Mitte *Dezember* statt.
+
+  En *décembre* dernier, j'ai voyagé au Canada.
+  Im letzten *Dezember* bin ich nach Kanada gereist.
+
+  Le 25 *décembre* est un jour férié en France.
+  Der 25. *Dezember* ist in Frankreich ein Feiertag.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
