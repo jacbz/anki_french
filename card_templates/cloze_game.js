@@ -1,8 +1,16 @@
 function initClozeGame(sentence, gameContainer, italicSentence = false) {
   gameContainer.classList.add("tappable");
 
-  const wordRegex = /([\p{L}0-9]+-?[\p{L}0-9]*[’']?|\*[\p{L}0-9]+-?[\p{L}0-9]*[’']?\*)/gu;
+  const overlay = document.createElement("div");
+  overlay.id = "overlay";
+  overlay.classList.add("button");
+  overlay.textContent = "Anzeigen";
+  overlay.onclick = () => {
+    overlay.classList.add("hidden");
+  };
+  gameContainer.appendChild(overlay);
 
+  const wordRegex = /([\p{L}0-9-]+[’']?|\*.+?\*)/gu;
   let words = Array.from(sentence.matchAll(wordRegex), (match) => match[0]);
 
   const sentenceContainer = document.createElement("div");
@@ -63,10 +71,16 @@ function initClozeGame(sentence, gameContainer, italicSentence = false) {
       .replace("*", "")
       .localeCompare(b.replace("*", ""), "de", { sensitivity: "base" })
   );
+
+  const starButtons = [];
   sortedWords.forEach((word) => {
     const wordButton = document.createElement("div");
     if (word.includes("*")) {
       wordButton.innerText = "★";
+      if (starButtons.length > 0) {
+        wordButton.style.display = "none";
+      }
+      starButtons.push(wordButton);
     } else {
       wordButton.innerText = word;
     }
@@ -98,6 +112,14 @@ function initClozeGame(sentence, gameContainer, italicSentence = false) {
       if (clozeSpanIndex === 0 && clozeSpans.length === 1) {
         finish();
       }
+
+      if (button.innerText === "★") {
+        starButtons.forEach((starButton) => {
+          if (starButton !== button) {
+            checkWord(starButton, starButton.dataset.word, true);
+          }
+        });
+      }
     } else {
       button.classList.add("error");
     }
@@ -111,6 +133,7 @@ function initClozeGame(sentence, gameContainer, italicSentence = false) {
 
   function finish() {
     gameContainer.classList.add("finished");
+    gameContainer.classList.remove("tappable");
 
     if (typeof pycmd !== "undefined") {
       pycmd("ans");
