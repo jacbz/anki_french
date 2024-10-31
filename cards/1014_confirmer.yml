@@ -13,17 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cette information n’a pas été confirmée.
-  Diese Information wurde nicht bestätigt.
+  Cette information n'a pas été *confirmée*.
+  Diese Information wurde nicht *bestätigt*.
 
-  Je vais confirmer ma présence à la fête.
-  Ich werde meine Anwesenheit auf der Party bestätigen.
+  Le médecin a *confirmé* le diagnostic initial.
+  Der Arzt hat die erste Diagnose *bestätigt*.
 
-  Je peux le confirmer.
-  Ich kann das bestätigen.
+  La tendance à la hausse se *confirme* depuis plusieurs mois.
+  Der Aufwärtstrend *hält* seit mehreren Monaten *an*.
 
-  Le débat a confirmé Jean dans ses opinions sur l'écologie.
-  Die Debatte hat Jean in seinen Ansichten zur Ökologie bestärkt.
+  Son témoignage *confirme* notre version des faits.
+  Seine Aussage *bestätigt* unsere Version der Ereignisse.
+
+  Je vous *confirme* notre rendez-vous pour demain à 15h.
+  Ich *bestätige* Ihnen unseren Termin für morgen um 15 Uhr.
+
+  L'évêque *confirmera* les enfants dimanche prochain.
+  Der Bischof wird die Kinder am nächsten Sonntag *firmen*.
+
+  Les résultats de l'analyse *confirment* nos soupçons.
+  Die Analyseergebnisse *bestätigen* unseren Verdacht.
+
+  L'exception *confirme* la règle.
+  Die Ausnahme *bestätigt* die Regel.
+
+  Ses actions n'ont fait que me *confirmer* dans mon opinion.
+  Seine Handlungen haben mich nur in meiner Meinung *bestätigt*.
+
+  La cour d'appel a *confirmé* le jugement initial.
+  Das Berufungsgericht hat das ursprüngliche Urteil *bestätigt*.
+
+  Les rumeurs sur son départ se sont *confirmées*.
+  Die Gerüchte über seinen Weggang haben sich *bewahrheitet*.
+
+  Cette expérience l'a *confirmé* dans sa résolution.
+  Diese Erfahrung hat ihn in seinem Entschluss *bestärkt*.
+
+  Nous recherchons un ingénieur *confirmé* pour ce poste.
+  Wir suchen einen *erfahrenen* Ingenieur für diese Stelle.
+
+  Pouvez-vous *confirmer* votre présence à la réunion ?
+  Können Sie Ihre Teilnahme an der Sitzung *bestätigen*?
+
+  Les nouvelles découvertes *confirment* cette théorie.
+  Die neuen Entdeckungen *bestätigen* diese Theorie.
+
+  Il a été *confirmé* dans ses fonctions de directeur.
+  Er wurde in seiner Position als Direktor *bestätigt*.
+
+  Tout *confirme* que nous avons pris la bonne décision.
+  Alles *bestätigt*, dass wir die richtige Entscheidung getroffen haben.
+
+  Les faits ont *confirmé* mes prédictions.
+  Die Tatsachen haben meine Vorhersagen *bestätigt*.
+
+  Je dois encore *confirmer* ma réservation d'hôtel.
+  Ich muss meine Hotelbuchung noch *bestätigen*.
+
+  Ma fille sera *confirmée* au printemps prochain.
+  Meine Tochter wird im nächsten Frühling *konfirmiert*.
+
+  L'enquête policière a *confirmé* les soupçons initiaux.
+  Die polizeiliche Untersuchung hat den anfänglichen Verdacht *bestätigt*.
+
+  Ses paroles m'ont *confirmé* dans mes craintes.
+  Seine Worte haben mich in meinen Befürchtungen *bestätigt*.
+
+  Il se *confirme* que le patient est hors de danger.
+  Es *bestätigt* sich, dass der Patient außer Gefahr ist.
+
+  Je vous *confirme* par écrit notre accord d'hier.
+  Ich *bestätige* Ihnen schriftlich unsere gestrige Vereinbarung.
+
+  Cette découverte *confirme* nos hypothèses de recherche.
+  Diese Entdeckung *bestätigt* unsere Forschungshypothesen.
+
+  Les sondages se sont *confirmés* le jour de l'élection.
+  Die Umfragen haben sich am Wahltag *bestätigt*.
+
+  Les preuves *confirment* sa version des événements.
+  Die Beweise *bestätigen* seine Version der Ereignisse.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

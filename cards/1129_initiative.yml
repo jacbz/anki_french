@@ -13,26 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nombreuses furent les critiques contre ces initiatives.
-  Viele kritisierten diese Initiativen.
+  Nombreuses furent les critiques contre ces *initiatives*.
+  Es gab viel Kritik gegen diese *Initiativen*.
 
-  Marie a eu l'initiative de proposer un nouveau projet à son équipe.
-  Marie hatte die Idee, ihrem Team ein neues Projekt vorzuschlagen.
+  C'est sur l'*initiative* du maire que le nouveau parc a été construit.
+  Auf *Initiative* des Bürgermeisters wurde der neue Park gebaut.
 
-  Thomas a toujours eu de l'initiative, il n'attend pas qu'on lui dise ce qu'il faut faire.
-  Thomas besitzt immer Initiative, er wartet nicht darauf, dass man ihm sagt, was zu tun ist.
+  L'*initiative* privée joue un rôle important dans l'économie locale.
+  Die Privat*initiative* spielt eine wichtige Rolle in der lokalen Wirtschaft.
 
-  La construction de ce nouveau centre culturel a été réalisée grâce à une initiative privée.
-  Der Bau dieses neuen Kulturzentrums wurde durch eine Privatinitiative realisiert.
+  Il a pris l'*initiative* d'organiser une fête surprise pour son anniversaire.
+  Er hatte die *Idee*, eine Überraschungsparty für ihren Geburtstag zu organisieren.
 
-  Les enfants ont décidé de participer à ce projet de leur propre initiative.
-  Die Kinder haben sich aus eigenem Antrieb dazu entschlossen, an diesem Projekt teilzunehmen.
+  De sa propre *initiative*, elle a commencé à apprendre le japonais.
+  Aus eigenem *Antrieb* hat sie angefangen, Japanisch zu lernen.
 
-  Il est important de prendre des initiatives pour améliorer la situation.
-  Es ist wichtig, die Initiative zu ergreifen, um die Situation zu verbessern.
+  Cette jeune entreprise a lancé plusieurs *initiatives* innovantes.
+  Dieses junge Unternehmen hat mehrere innovative *Initiativen* gestartet.
 
-  Ce projet a été mis en place à l'initiative du maire.
-  Dieses Projekt wurde auf Initiative des Bürgermeisters ins Leben gerufen.
+  Le syndicat d'*initiative* propose des visites guidées de la ville.
+  Das Fremdenverkehrs*büro* bietet Stadtführungen an.
+
+  Les citoyens ont le droit d'*initiative* populaire dans ce pays.
+  Die Bürger haben in diesem Land das Recht auf Volks*initiativen*.
+
+  Marie fait toujours preuve d'*initiative* dans son travail.
+  Marie zeigt bei ihrer Arbeit immer *Eigeninitiative*.
+
+  L'*initiative* de ce projet revient à mon collègue Thomas.
+  Die *Initiative* für dieses Projekt kam von meinem Kollegen Thomas.
+
+  Son manque d'*initiative* l'empêche de progresser dans sa carrière.
+  Sein mangelnder *Unternehmungsgeist* hindert ihn daran, in seiner Karriere voranzukommen.
+
+  Les élèves sont encouragés à prendre des *initiatives* en classe.
+  Die Schüler werden ermutigt, im Unterricht *Initiative* zu ergreifen.
+
+  Cette *initiative* écologique a été saluée par toute la communauté.
+  Diese Umwelt*initiative* wurde von der ganzen Gemeinschaft begrüßt.
+
+  L'équipe a repris l'*initiative* du jeu en seconde mi-temps.
+  Die Mannschaft hat in der zweiten Halbzeit die *Initiative* zurückgewonnen.
+
+  Son *initiative* courageuse a sauvé l'entreprise de la faillite.
+  Seine mutige *Initiative* hat das Unternehmen vor dem Bankrott gerettet.
+
+  Les députés ont exercé leur droit d'*initiative* parlementaire.
+  Die Abgeordneten haben ihr parlamentarisches *Initiativ*recht ausgeübt.
+
+  Cette *initiative* malheureuse a causé beaucoup de problèmes.
+  Diese unglückliche *Initiative* hat viele Probleme verursacht.
+
+  Sur l'*initiative* des parents, une nouvelle aire de jeux a été construite.
+  Auf *Initiative* der Eltern wurde ein neuer Spielplatz gebaut.
+
+  Elle déborde d'*initiative* dans tout ce qu'elle entreprend.
+  Sie strotzt vor *Unternehmungsgeist* bei allem, was sie anpackt.
+
+  L'*initiative* de cette réforme vient du gouvernement.
+  Die *Initiative* für diese Reform kommt von der Regierung.
+
+  Grâce à son esprit d'*initiative*, il a rapidement été promu.
+  Dank seines *Unternehmungsgeistes* wurde er schnell befördert.
+
+  Cette *initiative* hardie a complètement transformé le quartier.
+  Diese gewagte *Initiative* hat das Viertel völlig verändert.
+
+  Je m'en remets à votre *initiative* pour organiser la réunion.
+  Ich überlasse es Ihrer *Initiative*, das Treffen zu organisieren.
+
+  L'*initiative* de ce voyage d'études leur revient entièrement.
+  Die *Initiative* für diese Studienreise geht ganz auf sie zurück.
+
+  Les nouvelles *initiatives* culturelles ont dynamisé la ville.
+  Die neuen Kultur*initiativen* haben der Stadt neuen Schwung gegeben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

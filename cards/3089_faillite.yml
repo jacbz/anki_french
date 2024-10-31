@@ -13,29 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Beaucoup d’entre eux devront déclarer faillite.
-  Viele von ihnen werden Konkurs anmelden müssen.
+  Beaucoup d'entre eux devront déclarer *faillite*.
+  Viele von ihnen werden *Konkurs* anmelden müssen.
 
-  L’entreprise est en faillite.
-  Das Unternehmen ist bankrott.
+  Cette entreprise est au bord de la *faillite* depuis des mois.
+  Diese Firma steht seit Monaten kurz vor dem *Bankrott*.
 
-  Le gouvernement a annoncé la faillite de l'État, ce qui a provoqué un grand choc chez la population.
-  Der Staatsbankrott wurde von der Regierung verkündet, was bei der Bevölkerung für großen Schock sorgte.
+  "Si ça continue comme ça, on va faire *faillite* !"
+  "Wenn das so weitergeht, gehen wir *pleite*!"
 
-  La décision de Jean de partir à l'étranger a été la faillite de mes espérances.
-  Die Entscheidung von Jean, ins Ausland zu gehen, hat alle meine Hoffnungen zunichtegemacht.
+  La *faillite* de cette banque a eu des conséquences désastreuses.
+  Der *Bankrott* dieser Bank hatte katastrophale Folgen.
 
-  L'entreprise est en cause de faillite en raison de la crise économique.
-  Das Unternehmen ist konkursverdächtig aufgrund der Wirtschaftskrise.
+  Leur entreprise familiale est en *faillite* depuis l'année dernière.
+  Ihr Familienunternehmen ist seit letztem Jahr *bankrott*.
 
-  L'entreprise familiale est au bord de la faillite après avoir perdu son principal client.
-  Die Familienfirma steht vor dem Konkurs, nachdem sie ihren wichtigsten Kunden verloren hat.
+  La *faillite* de mes espérances m'a profondément affecté.
+  Das *Scheitern* meiner Hoffnungen hat mich tief getroffen.
 
-  Après avoir perdu tout son argent au casino, Paul a fait faillite.
-  Nachdem er sein ganzes Geld im Casino verloren hatte, hat Paul Konkurs gemacht.
+  Le tribunal a prononcé la *faillite* de l'entreprise hier.
+  Das Gericht hat gestern den *Konkurs* des Unternehmens festgestellt.
 
-  Le petit magasin est en faillite depuis plusieurs mois et n'a pas encore trouvé de repreneur.
-  Der kleine Laden ist seit mehreren Monaten bankrott und hat noch keinen neuen Besitzer gefunden.
+  Cette *faillite* frauduleuse a fait la une des journaux.
+  Dieser betrügerische *Bankrott* war in allen Schlagzeilen.
+
+  La *faillite* du système éducatif devient de plus en plus évidente.
+  Das *Scheitern* des Bildungssystems wird immer offensichtlicher.
+
+  Son père a fait *faillite* pendant la crise économique.
+  Sein Vater ist während der Wirtschaftskrise *pleite* gegangen.
+
+  La *faillite* de cette théorie scientifique était prévisible.
+  Das *Scheitern* dieser wissenschaftlichen Theorie war vorhersehbar.
+
+  Le risque de *faillite* de l'État inquiète les économistes.
+  Die Gefahr eines *Staatsbankrotts* beunruhigt die Ökonomen.
+
+  Cette *faillite* a mis des centaines de personnes au chômage.
+  Diese *Pleite* hat Hunderte von Menschen arbeitslos gemacht.
+
+  La *faillite* de sa vie sentimentale l'a beaucoup marqué.
+  Das *Scheitern* seines Liebeslebens hat ihn stark geprägt.
+
+  Les créanciers ont demandé la mise en *faillite* de la société.
+  Die Gläubiger haben die *Insolvenz* der Firma beantragt.
+
+  Après sa *faillite*, il a dû tout recommencer à zéro.
+  Nach seinem *Bankrott* musste er ganz von vorne anfangen.
+
+  Cette petite boutique risque la *faillite* à cause des travaux.
+  Dieser kleine Laden ist wegen der Bauarbeiten *konkurs*gefährdet.
+
+  La *faillite* morale de cette institution est complète.
+  Das moralische *Scheitern* dieser Institution ist vollständig.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

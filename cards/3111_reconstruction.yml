@@ -13,11 +13,38 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Après notre victoire, la reconstruction sera très rapide.
-  Nach unserem Sieg wird der Wiederaufbau sehr schnell vorangehen.
+  Après notre victoire, la *reconstruction* sera très rapide.
+  Nach unserem Sieg wird der *Wiederaufbau* sehr schnell sein.
 
-  La reconstruction de la ville a pris plusieurs années.
-  Der Wiederaufbau der Stadt hat mehrere Jahre gedauert.
+  La *reconstruction* de la cathédrale a duré plus de dix ans.
+  Der *Wiederaufbau* der Kathedrale hat mehr als zehn Jahre gedauert.
+
+  Les habitants participent activement à la *reconstruction* de leur quartier.
+  Die Bewohner beteiligen sich aktiv am *Wiederaufbau* ihres Viertels.
+
+  La *reconstruction* de l'économie nécessite beaucoup d'efforts collectifs.
+  Der *Wiederaufbau* der Wirtschaft erfordert viele gemeinsame Anstrengungen.
+
+  Les fonds pour la *reconstruction* des zones sinistrées ont été débloqués.
+  Die Mittel für den *Wiederaufbau* der Katastrophengebiete wurden freigegeben.
+
+  Cette *reconstruction* historique nous permet de mieux comprendre la vie au Moyen Âge.
+  Diese historische *Rekonstruktion* ermöglicht uns, das Leben im Mittelalter besser zu verstehen.
+
+  La *reconstruction* du vieux pont commence au printemps prochain.
+  Der *Wiederaufbau* der alten Brücke beginnt nächstes Frühjahr.
+
+  Les archéologues travaillent sur la *reconstruction* d'un ancien temple grec.
+  Die Archäologen arbeiten an der *Rekonstruktion* eines antiken griechischen Tempels.
+
+  Les linguistes proposent une *reconstruction* de la langue parlée il y a 5000 ans.
+  Die Linguisten schlagen eine *Rekonstruktion* der vor 5000 Jahren gesprochenen Sprache vor.
+
+  Cette *reconstruction* mentale l'a beaucoup aidé après son accident.
+  Diese mentale *Wiederherstellung* hat ihm nach seinem Unfall sehr geholfen.
+
+  Le plan de *reconstruction* prévoit la création de nouveaux espaces verts.
+  Der *Wiederaufbau*plan sieht die Schaffung neuer Grünflächen vor.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

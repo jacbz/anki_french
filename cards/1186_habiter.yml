@@ -13,59 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai habité dix ans la France.
-  Ich habe zehn Jahre lang in Frankreich gelebt.
+  J'ai *habité* dix ans la France.
+  Ich habe zehn Jahre in Frankreich *gewohnt*.
 
-  J’habite à Paris.
-  Ich wohne in Paris.
+  Marie *habite* toute seule depuis son divorce.
+  Marie *wohnt* seit ihrer Scheidung allein.
 
-  Pierre habite à la campagne, loin du bruit de la ville.
-  Pierre wohnt auf dem Land, weit weg vom Lärm der Stadt.
+  Les pandas géants *habitent* principalement les forêts de bambous.
+  Die Großen Pandas *leben* hauptsächlich in Bambuwäldern.
 
-  Ils habitent en ville, dans un petit appartement au troisième étage.
-  Sie wohnen in der Stadt, in einer kleinen Wohnung im dritten Stock.
+  Nous *habitons* dans un petit appartement au centre-ville.
+  Wir *wohnen* in einer kleinen Wohnung im Stadtzentrum.
 
-  Jean habite à Rennes, une ville dynamique et animée.
-  Jean wohnt in Rennes, einer dynamischen und belebten Stadt.
+  Cette maison n'est plus *habitée* depuis des années.
+  Dieses Haus ist seit Jahren nicht mehr *bewohnt*.
 
-  Ils habitent une maison spacieuse avec un grand jardin.
-  Sie wohnen in einem geräumigen Haus mit einem großen Garten.
+  Un sentiment de culpabilité *habite* son esprit jour et nuit.
+  Ein Schuldgefühl *wohnt* Tag und Nacht in seinem Geist.
 
-  Elle habite la banlieue, à proximité de la ville.
-  Sie wohnt in der Vorstadt, in der Nähe der Stadt.
+  Pierre *habite* chez ses parents jusqu'à la fin de ses études.
+  Pierre *wohnt* bis zum Ende seines Studiums bei seinen Eltern.
 
-  Les animaux sauvages habitent la campagne.
-  Die Wildtiere leben auf dem Land.
+  La tristesse qui *habite* son regard me brise le cœur.
+  Die Traurigkeit, die in seinem Blick *wohnt*, bricht mir das Herz.
 
-  Ils habitent dans le même immeuble.
-  Sie wohnen im selben Haus.
+  Est-ce que tu voudrais *habiter* avec moi ?
+  Möchtest du mit mir zusammen*wohnen*?
 
-  Ils habitent au numéro 17, rue du Commerce.
-  Sie wohnen in der Rue du Commerce, Nummer 17.
+  Mes grands-parents ont *habité* cette ferme pendant cinquante ans.
+  Meine Großeltern haben fünfzig Jahre lang auf diesem Bauernhof *gewohnt*.
 
-  Il habite seul depuis le départ de sa femme.
-  Er wohnt seit dem Auszug seiner Frau allein.
+  Les colibris *habitent* exclusivement les Amériques.
+  Kolibris *leben* ausschließlich in Nord- und Südamerika.
 
-  Elle habite avec ses parents dans une grande maison.
-  Sie wohnt mit ihren Eltern in einem großen Haus.
+  Elle *habitera* au quatrième étage sans ascenseur.
+  Sie wird im vierten Stock ohne Aufzug *wohnen*.
 
-  Il habite chez son frère depuis quelques semaines.
-  Er wohnt seit einigen Wochen bei seinem Bruder.
+  Tu *habites* toujours au numéro 23 ?
+  *Wohnst* du noch in Nummer 23?
 
-  Ils habitent dans un appartement moderne avec une terrasse.
-  Sie wohnen in einer modernen Wohnung mit einer Terrasse.
+  Cette région est peu *habitée* en hiver.
+  Diese Region ist im Winter kaum *bewohnt*.
 
-  Ils habitent une maison ancienne en pierre.
-  Sie wohnen in einem alten Steinhaus.
+  La passion de la musique *habite* ce jeune violoniste.
+  Die Leidenschaft für Musik *wohnt* in diesem jungen Geiger.
 
-  Ils habitent le 17, rue Leblanc, près du parc.
-  Sie wohnen in der Rue Leblanc, Nummer 17, in der Nähe des Parks.
+  Nos voisins *habitent* la maison d'en face.
+  Unsere Nachbarn *bewohnen* das Haus gegenüber.
 
-  La maison est habitée par une famille de cinq personnes.
-  Das Haus wird von einer fünfköpfigen Familie bewohnt.
+  Je préfère *habiter* en ville plutôt qu'à la campagne.
+  Ich *wohne* lieber in der Stadt als auf dem Land.
 
-  La maison n'a pas l'air habitée, les fenêtres sont fermées.
-  Das Haus sieht nicht bewohnt aus, die Fenster sind geschlossen.
+  Ces oiseaux migrateurs *habitent* nos régions en été.
+  Diese Zugvögel *leben* im Sommer in unseren Regionen.
+
+  Les étudiants *habitent* souvent en colocation.
+  Studenten *wohnen* oft in Wohngemeinschaften.
+
+  La grâce divine *habite* en vous.
+  Die göttliche Gnade *wohnt* in euch.
+
+  Nous avons *habité* ensemble pendant trois ans.
+  Wir haben drei Jahre zusammen*gewohnt*.
+
+  Cette planète pourrait être *habitée* par des microorganismes.
+  Dieser Planet könnte von Mikroorganismen *bewohnt* sein.
+
+  Mon frère *habite* dans un quartier tranquille.
+  Mein Bruder *wohnt* in einem ruhigen Viertel.
+
+  Les loups *habitaient* autrefois toute l'Europe.
+  Früher *lebten* Wölfe in ganz Europa.
+
+  Une force mystérieuse semblait *habiter* ce lieu.
+  Eine mysteriöse Kraft schien diesen Ort zu *bewohnen*.
+
+  Elle *habite* à deux pas de son travail.
+  Sie *wohnt* nur einen Katzensprung von ihrer Arbeit entfernt.
+
+  Thomas *habite* au 17, rue des Lilas.
+  Thomas *wohnt* in der Rue des Lilas Nummer 17.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

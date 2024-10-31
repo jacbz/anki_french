@@ -13,17 +13,47 @@ Register: ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je ne peux pas spécifier l’année.
-  Ich kann das Jahr nicht angeben.
+  Je ne peux pas *spécifier* l'année.
+  Ich kann das Jahr nicht *angeben*.
 
-  Pouvez-vous spécifier vos exigences?
-  Können Sie Ihre Anforderungen präzisieren?
+  Le règlement *spécifie* clairement les règles à suivre.
+  Die Vorschrift *legt* die Regeln klar *fest*.
 
-  Le règlement spécifie qu'il est interdit de fumer dans les lieux publics.
-  Die Verordnung verbietet ausdrücklich das Rauchen an öffentlichen Orten.
+  La loi *spécifie* qu'il est interdit de fumer dans les lieux publics.
+  Das Gesetz *verbietet* ausdrücklich das Rauchen in öffentlichen Räumen.
 
-  L'enseignant a spécifié qu'il est interdit de parler pendant l'examen.
-  Der Lehrer hat ausdrücklich verboten, während der Prüfung zu sprechen.
+  L'enseignante a *spécifié* les critères d'évaluation aux élèves.
+  Die Lehrerin hat den Schülern die Bewertungskriterien genau *angegeben*.
+
+  Le contrat *spécifie* les conditions de paiement.
+  Der Vertrag *legt* die Zahlungsbedingungen genau *fest*.
+
+  L'entreprise doit *spécifier* les exigences techniques du projet.
+  Das Unternehmen muss die technischen Anforderungen des Projekts *spezifizieren*.
+
+  Veuillez *spécifier* votre préférence lors de la réservation.
+  Bitte *geben* Sie Ihre Präferenz bei der Buchung *an*.
+
+  Le médecin a *spécifié* la posologie du médicament.
+  Der Arzt hat die Dosierung des Medikaments genau *angegeben*.
+
+  Il faut *spécifier* la date et l'heure de la réunion.
+  Man muss Datum und Uhrzeit des Treffens genau *festlegen*.
+
+  Le professeur a *spécifié* les chapitres à réviser pour l'examen.
+  Der Professor hat die Kapitel für die Prüfung genau *angegeben*.
+
+  Les instructions *spécifient* comment assembler le meuble.
+  Die Anleitung *legt* genau *fest*, wie das Möbelstück zusammenzubauen ist.
+
+  L'architecte doit *spécifier* les dimensions exactes du bâtiment.
+  Der Architekt muss die genauen Maße des Gebäudes *angeben*.
+
+  Le guide *spécifie* les consignes de sécurité à suivre.
+  Der Führer *legt* die zu befolgenden Sicherheitsanweisungen genau *fest*.
+
+  L'analyse grammaticale *spécifie* la fonction des mots dans la phrase.
+  Die grammatikalische Analyse *legt* die Funktion der Wörter im Satz *fest*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

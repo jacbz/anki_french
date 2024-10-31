@@ -13,20 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je crois que c’est la sixième saison de cette émission.
-  Ich glaube, es ist die sechste Staffel dieser Sendung.
+  Je crois que c'est la *sixième* saison de cette émission.
+  Ich glaube, das ist die *sechste* Staffel dieser Sendung.
 
-  Il est en sixième année.
-  Er ist in der sechsten Klasse.
+  Juin est le *sixième* mois de l'année.
+  Juni ist der *sechste* Monat des Jahres.
 
-  Il est arrivé sixième à la course.
-  Er ist im Rennen Sechster geworden.
+  Il habite au *sixième*.
+  Er wohnt im *sechsten* Stock.
 
-  C'est la sixième fois que je vais à Paris.
-  Das ist das sechste Mal, dass ich nach Paris fahre.
+  "Ma fille entre en *sixième* en septembre."
+  "Meine Tochter kommt im September in die *fünfte* Klasse."
 
-  La sixième heure de travail est la plus difficile.
-  Die sechste Arbeitsstunde ist die schwierigste.
+  Les *sixièmes* ont leur premier cours d'anglais aujourd'hui.
+  Die *Fünftklässler* haben heute ihre erste Englischstunde.
+
+  Un *sixième* de la population vit en dessous du seuil de pauvreté.
+  Ein *Sechstel* der Bevölkerung lebt unter der Armutsgrenze.
+
+  Cette voiture n'avance pas bien en *sixième*.
+  Dieses Auto läuft nicht gut im *sechsten* Gang.
+
+  Le restaurant se trouve dans le *sixième* arrondissement.
+  Das Restaurant befindet sich im *sechsten* Arrondissement.
+
+  Il est arrivé *sixième* de la course.
+  Er ist als *Sechster* ins Ziel gekommen.
+
+  La *sixième* symphonie de Beethoven est ma préférée.
+  Die *sechste* Symphonie von Beethoven ist meine Lieblingssymphonie.
+
+  Elle a joué une *sixième* majeure au piquet.
+  Sie hat beim Piquet eine große *Sechser*-Sequenz gespielt.
+
+  Thomas est le *sixième* enfant de la famille.
+  Thomas ist das *sechste* Kind der Familie.
+
+  Les élèves sont assis au *sixième* rang.
+  Die Schüler sitzen in der *sechsten* Reihe.
+
+  La *sixième* partie du livre est passionnante.
+  Der *sechste* Teil des Buches ist spannend.
+
+  Marie obtiendra un *sixième* de l'héritage.
+  Marie wird ein *Sechstel* des Erbes bekommen.
+
+  C'est déjà ma *sixième* tasse de café aujourd'hui.
+  Das ist heute schon meine *sechste* Tasse Kaffee.
+
+  Le *sixième* sens des chats est remarquable.
+  Der *sechste* Sinn der Katzen ist bemerkenswert.
+
+  La *sixième* lettre de l'alphabet est 'f'.
+  Der *sechste* Buchstabe des Alphabets ist 'f'.
+
+  Nous fêtons notre *sixième* anniversaire de mariage.
+  Wir feiern unseren *sechsten* Hochzeitstag.
+
+  Le *sixième* chapitre explique tout en détail.
+  Das *sechste* Kapitel erklärt alles im Detail.
+
+  C'est la *sixième* fois que je te le répète !
+  Das ist das *sechste* Mal, dass ich dir das sage!
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

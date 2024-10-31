@@ -13,26 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous vivons à l’ère de la mondialisation.
-  Wir leben im Zeitalter der Globalisierung.
+  Nous vivons à l'*ère* de la mondialisation.
+  Wir leben im *Zeitalter* der Globalisierung.
 
-  Nous sommes dans l’ère du numérique.
-  Wir sind im Zeitalter der Digitalisierung.
+  Les dinosaures ont vécu à l'*ère* secondaire.
+  Die Dinosaurier lebten in der *Ära* des Mesozoikums.
 
-  La révolution industrielle a marqué le début de l'ère industrielle.
-  Die industrielle Revolution markierte den Beginn des Industriezeitalters.
+  La découverte de l'électricité a marqué le début d'une nouvelle *ère*.
+  Die Entdeckung der Elektrizität markierte den Beginn einer neuen *Ära*.
 
-  L'Égypte antique existait avant notre ère.
-  Das alte Ägypten existierte vor unserer Zeitrechnung.
+  L'*ère* des Poissons s'étend jusqu'à nos jours selon l'astrologie.
+  Das *Zeitalter* der Fische reicht laut Astrologie bis in unsere Zeit.
 
-  Les dinosaures ont vécu à l'ère tertiaire.
-  Die Dinosaurier lebten im Tertiär.
+  Cet événement s'est produit en l'an 753 avant notre *ère*.
+  Dieses Ereignis fand im Jahr 753 vor unserer *Zeitrechnung* statt.
 
-  L'homme a marché sur la Lune à l'ère spatiale.
-  Der Mensch betrat im Raumfahrtzeitalter den Mond.
+  L'*ère* industrielle a profondément transformé nos sociétés.
+  Das Industrie*zeitalter* hat unsere Gesellschaften tiefgreifend verändert.
 
-  L'ère numérique marque une ère nouvelle dans l'histoire de l'humanité.
-  Das digitale Zeitalter markiert eine neue Ära in der Geschichte der Menschheit.
+  Nous entrons dans l'*ère* du numérique.
+  Wir treten in das Digital*zeitalter* ein.
+
+  L'*ère* spatiale a commencé avec le lancement de Spoutnik.
+  Das Raumfahrt*zeitalter* begann mit dem Start von Sputnik.
+
+  Cette découverte date de l'*ère* quaternaire.
+  Diese Entdeckung stammt aus dem *Zeitalter* des Quartärs.
+
+  L'*ère* de l'internet a révolutionné notre façon de communiquer.
+  Das Internet*zeitalter* hat unsere Art zu kommunizieren revolutioniert.
+
+  Une nouvelle *ère* s'ouvre pour notre entreprise.
+  Eine neue *Ära* beginnt für unser Unternehmen.
+
+  Ces fossiles datent de l'*ère* primaire.
+  Diese Fossilien stammen aus dem *Zeitalter* des Paläozoikums.
+
+  L'*ère* musulmane commence avec l'hégire en 622.
+  Die muslimische *Zeitrechnung* beginnt mit der Hidschra im Jahr 622.
+
+  Nous sommes entrés dans l'*ère* de l'intelligence artificielle.
+  Wir sind in das *Zeitalter* der künstlichen Intelligenz eingetreten.
+
+  L'*ère* tertiaire a vu l'apparition des premiers primates.
+  Im Tertiär*zeitalter* erschienen die ersten Primaten.
+
+  Cette civilisation a connu une *ère* de prospérité sans précédent.
+  Diese Zivilisation erlebte eine *Ära* des beispiellosen Wohlstands.
+
+  L'*ère* chrétienne commence avec la naissance présumée du Christ.
+  Die christliche *Zeitrechnung* beginnt mit der vermuteten Geburt Christi.
+
+  Une nouvelle *ère* de paix s'annonçait après la guerre.
+  Nach dem Krieg kündigte sich eine neue Friedens*ära* an.
+
+  Ces changements marquent le début d'une *ère* nouvelle.
+  Diese Veränderungen markieren den Beginn einer neuen *Ära*.
+
+  L'*ère* républicaine française a débuté en 1792.
+  Die französische republikanische *Ära* begann 1792.
+
+  Les mammifères se sont développés pendant l'*ère* mésozoïque.
+  Die Säugetiere entwickelten sich während der mesozoischen *Ära*.
+
+  Cette découverte inaugure une nouvelle *ère* dans la médecine.
+  Diese Entdeckung leitet eine neue *Ära* in der Medizin ein.
+
+  Ce fut une *ère* de grands changements sociaux.
+  Es war eine *Ära* großer sozialer Veränderungen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

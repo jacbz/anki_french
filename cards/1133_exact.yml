@@ -13,17 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’histoire est une science exacte.
-  Die Geschichte ist eine exakte Wissenschaft.
+  L'histoire est une science *exacte*.
+  Geschichte ist eine *exakte* Wissenschaft.
 
-  C’est exactement ce que je voulais!
-  Das ist genau das, was ich wollte!
+  Il est *exact* qu'il pleut depuis ce matin.
+  Es *stimmt*, dass es seit heute Morgen regnet.
 
-  C'est exact que Marie chante dans une chorale.
-  Das stimmt, dass Marie in einem Chor singt.
+  Cette traduction est la reproduction *exacte* du texte original.
+  Diese Übersetzung ist die *genaue* Wiedergabe des Originaltexts.
 
-  Il est exact à un rendez-vous, car il est très ponctuel.
-  Er kommt pünktlich zu einer Verabredung, denn er ist sehr pünktlich.
+  Elle est toujours très *exacte* dans son travail.
+  Sie ist bei ihrer Arbeit immer sehr *gewissenhaft*.
+
+  Les dimensions *exactes* de la pièce sont de 4 mètres sur 5.
+  Die *exakten* Maße des Raums betragen 4 mal 5 Meter.
+
+  Mon frère n'est jamais *exact* aux rendez-vous.
+  Mein Bruder ist bei Verabredungen nie *pünktlich*.
+
+  La police cherche à déterminer les circonstances *exactes* de l'accident.
+  Die Polizei versucht, die *genauen* Umstände des Unfalls zu ermitteln.
+
+  Le mot que vous avez choisi n'est pas *exact*.
+  Das Wort, das Sie gewählt haben, ist nicht *treffend*.
+
+  Cette addition n'est pas *exacte*.
+  Diese Addition ist nicht *korrekt*.
+
+  Sa description des événements était parfaitement *exacte*.
+  Seine Beschreibung der Ereignisse war vollkommen *präzise*.
+
+  Je voudrais connaître l'heure *exacte*.
+  Ich möchte die *genaue* Uhrzeit wissen.
+
+  Il est difficile de se faire une idée *exacte* de la situation.
+  Es ist schwierig, sich eine *genaue* Vorstellung von der Situation zu machen.
+
+  Cette statue est la réplique *exacte* de l'original.
+  Diese Statue ist die *exakte* Nachbildung des Originals.
+
+  Le résultat de votre calcul est *exact*.
+  Das Ergebnis Ihrer Berechnung ist *korrekt*.
+
+  Marie est toujours *exacte* dans ses paiements.
+  Marie ist bei ihren Zahlungen immer *pünktlich*.
+
+  Il faut être *exact* dans ses déclarations.
+  Man muss in seinen Aussagen *präzise* sein.
+
+  Est-il *exact* que vous partez demain ?
+  *Stimmt* es, dass Sie morgen abreisen?
+
+  La psychologie n'est pas une science *exacte*.
+  Die Psychologie ist keine *exakte* Wissenschaft.
+
+  Au sens *exact* du terme, ce n'est pas un mammifère.
+  Im *strengen* Sinne des Wortes ist es kein Säugetier.
+
+  Son témoignage était *exact* dans les moindres détails.
+  Seine Aussage war bis ins kleinste Detail *genau*.
+
+  Je vous donnerai le nombre *exact* de participants.
+  Ich werde Ihnen die *exakte* Teilnehmerzahl nennen.
+
+  Cette copie est l'*exacte* reproduction du tableau.
+  Diese Kopie ist die *genaue* Wiedergabe des Gemäldes.
+
+  La valeur *exacte* de pi ne peut pas être calculée.
+  Der *exakte* Wert von Pi kann nicht berechnet werden.
+
+  Votre réponse est parfaitement *exacte*.
+  Ihre Antwort ist vollkommen *korrekt*.
+
+  Il n'est pas *exact* de dire que tout le monde était d'accord.
+  Es ist nicht *richtig* zu sagen, dass alle einverstanden waren.
+
+  Cette définition n'est pas *exacte*.
+  Diese Definition ist nicht *präzise*.
+
+  Le vendeur nous a donné les dimensions *exactes* du terrain.
+  Der Verkäufer hat uns die *genauen* Maße des Grundstücks genannt.
+
+  Soyez *exact* au rendez-vous demain matin.
+  Seien Sie morgen früh *pünktlich* zum Treffen.
+
+  C'est l'*exacte* vérité.
+  Das ist die *reine* Wahrheit.
+
+  Les mathématiques sont considérées comme une science *exacte*.
+  Mathematik gilt als *exakte* Wissenschaft.
+
+  Il faut employer le terme *exact*.
+  Man muss den *richtigen* Begriff verwenden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

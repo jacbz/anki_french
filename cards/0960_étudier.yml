@@ -13,32 +13,140 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai étudié la situation avant de venir ici.
-  Ich habe die Situation studiert, bevor ich hierhergekommen bin.
+  J'ai *étudié* la situation avant de venir ici.
+  Ich habe die Situation *studiert*, bevor ich hierher kam.
 
-  Je dois étudier pour mon examen demain.
-  Ich muss für meine Prüfung morgen studieren.
+  Il *étudie* la médecine à l'université de Paris.
+  Er *studiert* Medizin an der Pariser Universität.
 
-  Nous devons étudier la question.
-  Wir müssen diese Frage untersuchen.
+  Mon fils *étudie* le piano depuis deux ans.
+  Mein Sohn *lernt* seit zwei Jahren Klavier.
 
-  Je suis venu ici pour étudier.
-  Ich bin zum Lernen hierhergekommen.
+  Les scientifiques *étudient* le comportement des dauphins.
+  Die Wissenschaftler *erforschen* das Verhalten der Delfine.
 
-  Tu dois étudier pendant toute ta vie.
-  Du musst dein ganzes Leben lang lernen.
+  Je dois *étudier* cette proposition en détail.
+  Ich muss diesen Vorschlag genau *prüfen*.
 
-  Tu as eu toute la semaine pour étudier.
-  Du hattest die ganze Woche Zeit zum Lernen.
+  Elle *étudie* son texte pour la pièce de théâtre.
+  Sie *studiert* ihren Text für das Theaterstück.
 
-  Il veut étudier la musique et la danse.
-  Er möchte Musik und Tanz studieren.
+  Les chercheurs *étudient* l'impact du changement climatique.
+  Die Forscher *untersuchen* die Auswirkungen des Klimawandels.
 
-  Paul a décidé d'étudier le piano pour pouvoir accompagner sa sœur au chant.
-  Paul hat beschlossen, Klavier spielen zu lernen, um seine Schwester beim Singen begleiten zu können.
+  Il faut *étudier* le dossier avant la réunion.
+  Die Akte muss vor der Besprechung *bearbeitet* werden.
 
-  Il faut bien étudier cette idée avant de la mettre en pratique.
-  Man muss diese Idee gut ventilieren, bevor man sie in die Tat umsetzt.
+  Marie *étudie* son reflet dans le miroir.
+  Marie *beobachtet* ihr Spiegelbild.
+
+  Les étudiants *étudient* pour leurs examens.
+  Die Studenten *lernen* für ihre Prüfungen.
+
+  Nous devons *étudier* toutes les possibilités.
+  Wir müssen alle Möglichkeiten *prüfen*.
+
+  Il *étudie* le violon depuis son enfance.
+  Er *lernt* seit seiner Kindheit Geige.
+
+  Les biologistes *étudient* une nouvelle espèce.
+  Die Biologen *untersuchen* eine neue Art.
+
+  J'ai *étudié* l'allemand pendant cinq ans.
+  Ich habe fünf Jahre lang Deutsch *gelernt*.
+
+  Elle *étudie* le comportement des clients.
+  Sie *beobachtet* das Verhalten der Kunden.
+
+  Nous *étudions* actuellement votre demande.
+  Wir *prüfen* derzeit Ihren Antrag.
+
+  Les experts *étudient* les causes de l'accident.
+  Die Experten *untersuchen* die Unfallursachen.
+
+  Il faut *étudier* le terrain avant de construire.
+  Man muss das Gelände *erkunden*, bevor man baut.
+
+  Les deux équipes se sont *étudiées* pendant le match.
+  Die beiden Teams haben sich während des Spiels gegenseitig *beobachtet*.
+
+  Elle *étudie* sa leçon pour demain.
+  Sie *lernt* ihre Lektion für morgen.
+
+  Les architectes *étudient* les plans du bâtiment.
+  Die Architekten *prüfen* die Baupläne.
+
+  Nous *étudions* les œuvres de Molière cette année.
+  Wir *beschäftigen* uns dieses Jahr mit den Werken von Molière.
+
+  Le comité *étudie* la faisabilité du projet.
+  Das Komitee *prüft* die Durchführbarkeit des Projekts.
+
+  Les astronomes *étudient* les étoiles.
+  Die Astronomen *beobachten* die Sterne.
+
+  Il *étudie* la guitare au conservatoire.
+  Er *lernt* Gitarre am Konservatorium.
+
+  Elle *étudie* son rôle pour le film.
+  Sie *studiert* ihre Rolle für den Film.
+
+  Les psychologues *étudient* le développement des enfants.
+  Die Psychologen *untersuchen* die Entwicklung von Kindern.
+
+  Nous devons *étudier* cette question plus en profondeur.
+  Wir müssen uns mit dieser Frage eingehender *beschäftigen*.
+
+  Les anthropologues *étudient* les cultures anciennes.
+  Die Anthropologen *erforschen* alte Kulturen.
+
+  Il *étudie* le droit à distance.
+  Er *studiert* Jura im Fernstudium.
+
+  Elle *étudie* ses gestes devant le miroir.
+  Sie *studiert* ihre Bewegungen vor dem Spiegel.
+
+  Les ingénieurs *étudient* un nouveau modèle de voiture.
+  Die Ingenieure *entwickeln* ein neues Automodell.
+
+  Il faut *étudier* le marché avant de lancer un produit.
+  Man muss den Markt *analysieren*, bevor man ein Produkt einführt.
+
+  Les géologues *étudient* la formation des montagnes.
+  Die Geologen *erforschen* die Entstehung der Berge.
+
+  Elle *étudie* la philosophie en master.
+  Sie *studiert* Philosophie im Masterstudiengang.
+
+  Je dois *étudier* cette formule mathématique.
+  Ich muss diese mathematische Formel *lernen*.
+
+  Les sociologues *étudient* les comportements sociaux.
+  Die Soziologen *untersuchen* soziales Verhalten.
+
+  Les élèves *étudient* l'histoire de France.
+  Die Schüler *lernen* die französische Geschichte.
+
+  Il *étudie* la partition avant le concert.
+  Er *studiert* die Partitur vor dem Konzert.
+
+  Les économistes *étudient* les tendances du marché.
+  Die Ökonomen *analysieren* die Markttrends.
+
+  Nous *étudions* différentes solutions au problème.
+  Wir *prüfen* verschiedene Lösungen für das Problem.
+
+  Elle s'*étudie* dans la glace avant de sortir.
+  Sie *beobachtet* sich im Spiegel, bevor sie ausgeht.
+
+  Les chercheurs *étudient* l'efficacité du vaccin.
+  Die Forscher *untersuchen* die Wirksamkeit des Impfstoffs.
+
+  Pierre *étudie* à la bibliothèque tous les soirs.
+  Pierre *lernt* jeden Abend in der Bibliothek.
+
+  Les linguistes *étudient* l'évolution de la langue.
+  Die Linguisten *erforschen* die Entwicklung der Sprache.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

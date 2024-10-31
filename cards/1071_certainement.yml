@@ -13,11 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce n’est certainement pas nous qui ferons cela.
-  Das werden sicherlich nicht wir tun.
+  Ce n'est *certainement* pas nous qui ferons cela.
+  Das werden *bestimmt* nicht wir sein, die das tun werden.
 
-  Il viendra certainement demain.
-  Er wird bestimmt morgen kommen.
+  Il viendra *certainement* à la fête demain soir.
+  Er kommt morgen Abend *sicher* zur Party.
+
+  As-tu bien dormi ? - *Certainement* !
+  Hast du gut geschlafen? - Aber *sicher*!
+
+  Elle est *certainement* la meilleure joueuse de l'équipe.
+  Sie ist *zweifelsohne* die beste Spielerin der Mannschaft.
+
+  Je ne peux pas vous dire *certainement* quand il rentrera.
+  Ich kann Ihnen nicht mit *Sicherheit* sagen, wann er zurückkommt.
+
+  *Certainement* pas avant midi, il dort toujours très tard.
+  *Bestimmt* nicht vor zwölf Uhr, er schläft immer sehr lange.
+
+  Cette robe coûte *certainement* plus de cent euros.
+  Dieses Kleid kostet *sicherlich* mehr als hundert Euro.
+
+  Le train aura *certainement* du retard avec ce temps.
+  Der Zug wird bei diesem Wetter *bestimmt* Verspätung haben.
+
+  Voulez-vous encore du café ? - *Certainement* !
+  Möchten Sie noch Kaffee? - Aber *sicher*!
+
+  Il a *certainement* oublié notre rendez-vous.
+  Er hat unser Treffen *bestimmt* vergessen.
+
+  Cette solution résoudra *certainement* le problème.
+  Diese Lösung wird das Problem *sicher* lösen.
+
+  C'est *certainement* la décision la plus difficile de ma vie.
+  Das ist *zweifellos* die schwierigste Entscheidung meines Lebens.
+
+  Le médecin viendra *certainement* dans l'après-midi.
+  Der Arzt kommt *sicherlich* am Nachmittag.
+
+  Tu as *certainement* raison de te méfier.
+  Du hast *bestimmt* Recht damit, misstrauisch zu sein.
+
+  Ces fruits sont *certainement* trop mûrs.
+  Diese Früchte sind *ganz sicher* überreif.
+
+  Elle a *certainement* déjà lu ce livre trois fois.
+  Sie hat dieses Buch *sicherlich* schon dreimal gelesen.
+
+  *Certainement*, nous devrons reporter la réunion.
+  *Zweifellos* werden wir die Besprechung verschieben müssen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

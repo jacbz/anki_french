@@ -13,17 +13,44 @@ Register: ↘Fiktion ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il quitte l’hôpital ce lundi.
-  Er verlässt das Krankenhaus am Montag.
+  Il quitte l'hôpital ce *lundi*.
+  Er verlässt das Krankenhaus diesen *Montag*.
 
-  Je suis libre lundi.
-  Ich bin am Montag frei.
+  Le restaurant est fermé tous les *lundis*.
+  Das Restaurant ist jeden *Montag* geschlossen.
 
-  Je dois venir le lundi.
-  Ich muss am Montag kommen.
+  Je serai en réunion *lundi* prochain à Paris.
+  Nächsten *Montag* bin ich in einer Besprechung in Paris.
 
-  Je serai là-bas lundi soir.
-  Ich werde am Montagabend dort sein.
+  Nous nous verrons *lundi* en huit pour discuter du projet.
+  Wir sehen uns am *Montag* in einer Woche, um über das Projekt zu sprechen.
+
+  Le magasin ouvre exceptionnellement ce *lundi* de Pâques.
+  Das Geschäft öffnet ausnahmsweise am *Montag* nach Ostern.
+
+  Le cours de français commence *lundi* matin à 9 heures.
+  Der Französischkurs beginnt am *Montag*morgen um 9 Uhr.
+
+  *Lundi* dernier, il a plu toute la journée.
+  Letzten *Montag* hat es den ganzen Tag geregnet.
+
+  Les enfants n'aiment pas les *lundis* matins.
+  Kinder mögen *Montag*morgende nicht.
+
+  Il y aura une célébration spéciale le *Lundi* saint.
+  Am Kar*montag* wird es eine besondere Feier geben.
+
+  La banque sera fermée le *lundi* de Pentecôte.
+  Die Bank wird am Pfingst*montag* geschlossen sein.
+
+  Le *lundi*, c'est son jour de repos hebdomadaire.
+  Der *Montag* ist sein wöchentlicher Ruhetag.
+
+  Marie commence son nouveau travail *lundi*.
+  Marie fängt am *Montag* ihre neue Arbeit an.
+
+  Tous les *lundis*, nous faisons une réunion d'équipe.
+  Jeden *Montag* haben wir ein Teammeeting.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

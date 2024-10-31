@@ -13,23 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est la volonté du propriétaire de contrôler ce qui se passe chez lui.
-  Es ist der Wunsch des Hausbesitzers, zu kontrollieren, was in seinem Haus passiert.
+  C'est la volonté du propriétaire de *contrôler* ce qui se passe chez lui.
+  Es ist der Wille des Besitzers zu *kontrollieren*, was bei ihm passiert.
 
-  Je dois contrôler mes emails.
-  Ich muss meine E-Mails überprüfen.
+  Les agents de sécurité *contrôlent* les billets à l'entrée du stade.
+  Die Sicherheitsbeamten *kontrollieren* die Tickets am Eingang des Stadions.
 
-  Le professeur a contrôlé que l'élève avait raison en lui posant des questions supplémentaires.
-  Der Lehrer hat geprüft, ob der Schüler Recht hatte, indem er ihm weitere Fragen stellte.
+  Le médecin m'a conseillé de *contrôler* ma tension artérielle chaque jour.
+  Der Arzt hat mir geraten, meinen Blutdruck täglich zu *überprüfen*.
 
-  Il ne s'est plus contrôlé et a crié à son ami.
-  Er konnte sich nicht mehr beherrschen und schrie seinen Freund an.
+  Elle ne pouvait plus se *contrôler* quand elle a appris la nouvelle.
+  Sie konnte sich nicht mehr *beherrschen*, als sie die Nachricht erfuhr.
 
-  Le joueur a contrôlé le ballon pendant plusieurs minutes.
-  Der Spieler war im Ballbesitz für mehrere Minuten.
+  Le joueur a parfaitement *contrôlé* le ballon avant de marquer le but.
+  Der Spieler hatte den Ball perfekt unter *Kontrolle*, bevor er das Tor schoss.
 
-  Le général a réussi à contrôler la situation malgré l'attaque surprise de l'ennemi.
-  Der General hat es geschafft, die Lage zu kontrollieren, trotz des Überraschungsangriffs des Feindes.
+  Les experts *contrôlent* la qualité de l'eau du robinet tous les mois.
+  Die Experten *prüfen* jeden Monat die Qualität des Leitungswassers.
+
+  Notre équipe doit *contrôler* que tous les documents sont complets.
+  Unser Team muss *überprüfen*, ob alle Dokumente vollständig sind.
+
+  L'État *contrôle* strictement les prix de l'électricité.
+  Der Staat *überwacht* streng die Strompreise.
+
+  Le pilote doit *contrôler* sa vitesse dans les virages dangereux.
+  Der Fahrer muss seine Geschwindigkeit in gefährlichen Kurven unter *Kontrolle* haben.
+
+  Les parents *contrôlent* le temps que leurs enfants passent devant l'écran.
+  Die Eltern *überwachen* die Zeit, die ihre Kinder vor dem Bildschirm verbringen.
+
+  L'entreprise *contrôle* désormais tout le marché local.
+  Das Unternehmen *beherrscht* nun den gesamten lokalen Markt.
+
+  Il faut *contrôler* la température du four pendant la cuisson.
+  Man muss die Temperatur des Ofens während des Backens *kontrollieren*.
+
+  Le professeur *contrôle* les devoirs des élèves chaque semaine.
+  Der Lehrer *kontrolliert* wöchentlich die Hausaufgaben der Schüler.
+
+  Les douaniers *contrôlent* tous les bagages à la frontière.
+  Die Zollbeamten *kontrollieren* das gesamte Gepäck an der Grenze.
+
+  Je dois apprendre à mieux *contrôler* mes émotions.
+  Ich muss lernen, meine Gefühle besser zu *kontrollieren*.
+
+  L'armée *contrôle* maintenant toute la zone stratégique.
+  Die Armee *kontrolliert* jetzt das gesamte strategische Gebiet.
+
+  Le comptable va *contrôler* les factures de ce mois.
+  Der Buchhalter wird die Rechnungen dieses Monats *prüfen*.
+
+  Les techniciens *contrôlent* le bon fonctionnement des ascenseurs.
+  Die Techniker *überprüfen* die Funktionsfähigkeit der Aufzüge.
+
+  Il est important de *contrôler* sa respiration pendant la méditation.
+  Es ist wichtig, die Atmung während der Meditation zu *kontrollieren*.
+
+  La police *contrôle* régulièrement les papiers des conducteurs.
+  Die Polizei *kontrolliert* regelmäßig die Papiere der Fahrer.
+
+  Le système automatique *contrôle* la température de la pièce.
+  Das automatische System *steuert* die Raumtemperatur.
+
+  Les médecins *contrôlent* l'évolution de la maladie.
+  Die Ärzte *überwachen* den Verlauf der Krankheit.
+
+  Marie essaie de *contrôler* son stress avant l'examen.
+  Marie versucht, ihren Stress vor der Prüfung zu *kontrollieren*.
+
+  Le chef d'orchestre *contrôle* parfaitement le tempo.
+  Der Dirigent hat das Tempo perfekt unter *Kontrolle*.
+
+  L'inspecteur doit *contrôler* l'authenticité de ce tableau.
+  Der Inspektor muss die Echtheit dieses Gemäldes *überprüfen*.
+
+  Le gouvernement *contrôle* les exportations d'armes.
+  Die Regierung *kontrolliert* die Waffenexporte.
+
+  Le mécanicien va *contrôler* les freins de votre voiture.
+  Der Mechaniker wird die Bremsen Ihres Autos *überprüfen*.
+
+  Le capitaine doit *contrôler* la navigation par mauvais temps.
+  Der Kapitän muss die Navigation bei schlechtem Wetter *kontrollieren*.
+
+  Nous devons *contrôler* nos dépenses ce mois-ci.
+  Wir müssen unsere Ausgaben diesen Monat *kontrollieren*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

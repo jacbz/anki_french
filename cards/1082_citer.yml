@@ -13,26 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’aimerais citer quatre paragraphes.
-  Ich möchte vier Absätze zitieren.
+  J'aimerais *citer* quatre paragraphes.
+  Ich möchte vier Absätze *zitieren*.
 
-  Je vais citer un exemple.
-  Ich werde ein Beispiel anführen.
+  Elle a *cité* un vers de Victor Hugo pour illustrer son propos.
+  Sie hat einen Vers von Victor Hugo *zitiert*, um ihre Aussage zu verdeutlichen.
 
-  L'article cité ci-dessus est un excellent exemple de la façon dont les médias peuvent influencer l'opinion publique.
-  Der oben genannte Artikel ist ein ausgezeichnetes Beispiel dafür, wie die Medien die öffentliche Meinung beeinflussen können.
+  Le professeur nous a demandé de *citer* nos sources.
+  Der Professor hat uns aufgefordert, unsere Quellen zu *nennen*.
 
-  Le nom souvent cité de Martin Luther King Jr. est synonyme de la lutte pour les droits civiques aux États-Unis.
-  Der viel genannte Name Martin Luther King Jr. steht in den Vereinigten Staaten für den Kampf für Bürgerrechte.
+  Peux-tu *citer* trois exemples de ton expérience professionnelle ?
+  Kannst du drei Beispiele aus deiner Berufserfahrung *nennen*?
 
-  Citons en exemple l'histoire de Marie Curie, qui a révolutionné le domaine de la physique nucléaire.
-  Nehmen wir als Beispiel die Geschichte von Marie Curie, die das Gebiet der Kernphysik revolutioniert hat.
+  L'article *cité* ci-dessus contient des informations importantes.
+  Der oben *genannte* Artikel enthält wichtige Informationen.
 
-  L'ouvrage très cité de Victor Hugo, "Les Misérables", est un classique de la littérature française.
-  Das viel zitierte Werk von Victor Hugo, "Les Misérables", ist ein Klassiker der französischen Literatur.
+  Le témoin a été *cité* à comparaître devant le tribunal.
+  Der Zeuge wurde vor Gericht *vorgeladen*.
 
-  Le juge a cité un précédent jurisprudentiel pour justifier sa décision.
-  Der Richter hat einen Präzedenzfall angeführt, um seine Entscheidung zu begründen.
+  Dans son discours, il a *cité* les paroles exactes du président.
+  In seiner Rede hat er die genauen Worte des Präsidenten *zitiert*.
+
+  Son nom est souvent *cité* dans les médias.
+  Sein Name wird in den Medien häufig *genannt*.
+
+  Je vais *citer* un passage de ce livre dans ma thèse.
+  Ich werde eine Stelle aus diesem Buch in meiner Dissertation *zitieren*.
+
+  Les étudiants doivent *citer* leurs références bibliographiques.
+  Die Studenten müssen ihre bibliographischen Referenzen *angeben*.
+
+  Elle a été *citée* en exemple pour son excellent travail.
+  Sie wurde für ihre hervorragende Arbeit *lobend erwähnt*.
+
+  Le soldat a été *cité* à l'ordre de la division pour sa bravoure.
+  Der Soldat wurde für seine Tapferkeit im Tagesbefehl der Division *erwähnt*.
+
+  Pourrais-tu *citer* les capitales européennes par ordre alphabétique ?
+  Könntest du die europäischen Hauptstädte alphabetisch *aufzählen*?
+
+  L'auteur est beaucoup *cité* dans les revues scientifiques.
+  Der Autor wird in wissenschaftlichen Zeitschriften viel *zitiert*.
+
+  Il a *cité* la Bible pour appuyer son argument.
+  Er hat die Bibel *zitiert*, um sein Argument zu untermauern.
+
+  Le philosophe est *cité* parmi les plus influents de son époque.
+  Der Philosoph wird zu den einflussreichsten seiner Zeit *gezählt*.
+
+  Nous avons *cité* plusieurs témoins à la barre.
+  Wir haben mehrere Zeugen in den Zeugenstand *geladen*.
+
+  Cette phrase est souvent mal *citée*.
+  Dieser Satz wird oft falsch *zitiert*.
+
+  L'article *cite* trois experts différents sur ce sujet.
+  Der Artikel *zitiert* drei verschiedene Experten zu diesem Thema.
+
+  Je dois *citer* mes sources dans les notes de bas de page.
+  Ich muss meine Quellen in den Fußnoten *angeben*.
+
+  Le journaliste a *cité* les chiffres officiels du ministère.
+  Der Journalist hat die offiziellen Zahlen des Ministeriums *zitiert*.
+
+  Son roman est rarement *cité* dans les anthologies.
+  Sein Roman wird in den Anthologien selten *erwähnt*.
+
+  Elle n'a pas *cité* son collègue dans ses remerciements.
+  Sie hat ihren Kollegen in ihrer Danksagung nicht *erwähnt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

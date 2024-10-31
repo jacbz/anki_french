@@ -13,44 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Voilà nos petits soldats qui sont venus nous aider.
-  Da sind unsere kleinen Soldaten, die uns helfen wollen.
+  Voilà nos petits *soldats* qui sont venus nous aider.
+  Da sind ja unsere kleinen *Soldaten*, die uns helfen gekommen sind.
 
-  Les soldats ont combattu vaillamment.
-  Die Soldaten haben tapfer gekämpft.
+  Mon frère est devenu *soldat* de métier l'année dernière.
+  Mein Bruder ist letztes Jahr *Berufs*soldat geworden.
 
-  Cet homme est soldat.
-  Der Mann ist Soldat.
+  Les *soldats* sont en permission pour le week-end.
+  Die *Soldaten* haben am Wochenende Ausgang.
 
-  Pierre est soldat de première classe dans l'armée française.
-  Pierre ist Gefreiter in der französischen Armee.
+  Les *soldats* de l'ONU maintiennent la paix dans cette région.
+  Die UN-*Soldaten* sichern den Frieden in dieser Region.
 
-  Au cimetière de l'Arc de Triomphe repose le Soldat inconnu.
-  Am Grabmal am Arc de Triomphe ruht der Unbekannte Soldat.
+  Le jeune *soldat* de première classe a reçu une médaille.
+  Der junge *Gefreite* hat eine Medaille erhalten.
 
-  Il aime jouer au petit soldat avec son petit frère.
-  Er spielt gerne den wilden Mann mit seinem kleinen Bruder.
+  Les *soldats* du feu ont sauvé trois personnes de l'incendie.
+  Die Feuerwehr*leute* haben drei Menschen aus dem Brand gerettet.
 
-  Dans son enfance, il jouait beaucoup avec des soldats de plomb.
-  In seiner Kindheit spielte er viel mit Zinnfiguren.
+  Pierre collectionne les *soldats* de plomb depuis son enfance.
+  Pierre sammelt seit seiner Kindheit *Zinn*soldaten.
 
-  Il se voit comme un soldat du droit, qui se bat pour la justice.
-  Er sieht sich als Kämpfer für das Recht, der für Gerechtigkeit kämpft.
+  Mon petit frère aime jouer aux petits *soldats* dans le jardin.
+  Mein kleiner Bruder spielt gerne mit *Spielzeug*soldaten im Garten.
 
-  Son grand-père était soldat de marine et a fait le tour du monde.
-  Sein Großvater war Marinesoldat und hat die Welt bereist.
+  Ce *soldat* de la liberté a lutté toute sa vie contre l'oppression.
+  Dieser Freiheits*kämpfer* hat sein ganzes Leben gegen Unterdrückung gekämpft.
 
-  L'ONU déploie des soldats de l'O.N.U. dans des zones de conflit.
-  Die UNO schickt UN-Soldaten in Konfliktgebiete.
+  Une minute de silence devant la tombe du *Soldat* inconnu.
+  Eine Schweigeminute am Grab des unbekannten *Soldaten*.
 
-  Après avoir terminé ses études, il a décidé de se faire soldat.
-  Nachdem er seine Ausbildung abgeschlossen hatte, entschied er sich, Berufssoldat zu werden.
+  Les *soldats* en service actif patrouillent dans les rues.
+  Die aktiven *Soldaten* patrouillieren in den Straßen.
 
-  Ils passaient des heures à jouer aux petits soldats dans le jardin.
-  Sie verbrachten Stunden damit, im Garten mit Soldaten zu spielen.
+  Marie est une femme *soldat* très respectée dans son unité.
+  Marie ist eine respektierte *Soldatin* in ihrer Einheit.
 
-  Les soldats de la liberté se sont battus pour la liberté de leur pays.
-  Die Freiheitskämpfer haben für die Freiheit ihres Landes gekämpft.
+  Les *soldats* du Christ prêchaient partout dans le monde.
+  Die *Soldaten* Christi predigten überall auf der Welt.
+
+  Les *soldats* du contingent rentrent chez eux après six mois de service.
+  Die Wehr*dienstleistenden* kehren nach sechs Monaten Dienst nach Hause zurück.
+
+  Les *soldats* réguliers ont repoussé l'attaque des rebelles.
+  Die regulären *Soldaten* haben den Angriff der Rebellen zurückgeschlagen.
+
+  Comme simple *soldat*, il doit encore faire ses preuves.
+  Als einfacher *Soldat* muss er sich noch bewähren.
+
+  Ce grand *soldat* a mené de nombreuses batailles victorieuses.
+  Dieser große *Soldat* hat viele siegreiche Schlachten geführt.
+
+  Les *soldats* de marine participent à des exercices en mer.
+  Die Marine*soldaten* nehmen an Übungen auf See teil.
+
+  Chez les termites, les *soldats* protègent la colonie.
+  Bei den Termiten beschützen die *Soldaten* die Kolonie.
+
+  Les *soldats* en campagne dorment souvent à la belle étoile.
+  Die *Soldaten* im Feld schlafen oft unter freiem Himmel.
+
+  Ce *soldat* du droit défend les plus démunis.
+  Dieser *Kämpfer* für das Recht verteidigt die Ärmsten.
+
+  Il est mort en *soldat*, au service de son pays.
+  Er starb als *Soldat* im Dienst für sein Land.
+
+  Les *soldats* de deuxième classe font leur formation de base.
+  Die *Soldaten* zweiter Klasse absolvieren ihre Grundausbildung.
+
+  Les *soldats* de réserve s'entraînent une fois par mois.
+  Die Reserve*soldaten* trainieren einmal im Monat.
+
+  La fourmi *soldat* garde l'entrée de la fourmilière.
+  Die *Soldaten*ameise bewacht den Eingang zum Ameisenbau.
+
+  Ces *soldats* détachés protègent l'ambassade.
+  Diese abkommandierten *Soldaten* bewachen die Botschaft.
+
+  "Ce gamin joue au petit *soldat* depuis qu'il a vu ce film de guerre."
+  "Dieser Bengel spielt sich als *Soldat* auf, seit er diesen Kriegsfilm gesehen hat."
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

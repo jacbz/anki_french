@@ -13,11 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai dormi dans les gares, etc.
-  Ich habe in Bahnhöfen geschlafen usw.
+  J'ai dormi dans les gares, *etc.*
+  Ich habe in Bahnhöfen geschlafen *und so weiter*.
 
-  J’ai acheté des fruits, des légumes, etc.
-  Ich habe Obst, Gemüse, usw. gekauft.
+  Le temps passe si vite : on naît, on grandit, on vieillit, *etc.*
+  Die Zeit vergeht so schnell: man wird geboren, wächst auf, wird alt *und so weiter*.
+
+  Il faut acheter du pain, du lait, des œufs, *etc.*
+  Wir müssen Brot, Milch, Eier *und so fort* kaufen.
+
+  Pour faire ce gâteau, il te faut de la farine, du sucre, des œufs, *etc., etc.*
+  Für diesen Kuchen brauchst du Mehl, Zucker, Eier *und so weiter und so fort*.
+
+  Les symptômes incluent : fièvre, maux de tête, fatigue, *etc.*
+  Zu den Symptomen gehören: Fieber, Kopfschmerzen, Müdigkeit *usw.*
+
+  Dans son sac, elle avait des livres, des stylos, *etc.*
+  In ihrer Tasche hatte sie Bücher, Stifte *und dergleichen*.
+
+  Le professeur a parlé de Voltaire, Rousseau, *etc.*
+  Der Professor sprach über Voltaire, Rousseau *und andere*.
+
+  Nous devons nettoyer la maison, faire les courses, *etc.*
+  Wir müssen das Haus putzen, einkaufen gehen *und so weiter*.
+
+  Les grands classiques comme Molière, Racine, *etc.* sont toujours d'actualité.
+  Die großen Klassiker wie Molière, Racine *und andere* sind immer noch aktuell.
+
+  Cette entreprise vend des ordinateurs, des téléphones, *etc.*
+  Diese Firma verkauft Computer, Telefone *und Ähnliches*.
+
+  Il y a plusieurs options : train, bus, voiture, *etc.*
+  Es gibt mehrere Möglichkeiten: Zug, Bus, Auto *usw.*
+
+  Les causes peuvent être multiples : stress, fatigue, *etc.*
+  Die Ursachen können vielfältig sein: Stress, Müdigkeit *und so weiter*.
+
+  On peut y trouver des romans, des BD, *etc.*
+  Man findet dort Romane, Comics *und dergleichen*.
+
+  L'histoire commence ainsi : « Il était une fois... », *etc.*
+  Die Geschichte beginnt so: „Es war einmal..." *und so weiter*.
+
+  Nous avons besoin de bénévoles pour accueillir, servir, *etc.*
+  Wir brauchen Freiwillige zum Empfangen, Bedienen *und so weiter*.
+
+  Le document énumère les règles : pas de bruit, pas de nourriture, *etc.*
+  Das Dokument listet die Regeln auf: kein Lärm, kein Essen *usw.*
+
+  Elle aime la danse, le chant, *etc.*
+  Sie mag Tanzen, Singen *und so weiter*.
+
+  Ces produits sont faits avec des fruits, des légumes, *etc.*
+  Diese Produkte werden aus Obst, Gemüse *und dergleichen* hergestellt.
+
+  Au menu : entrées, plats principaux, desserts, *etc.*
+  Auf der Speisekarte: Vorspeisen, Hauptgerichte, Desserts *und so weiter*.
+
+  Dans son CV, il a listé ses compétences : Word, Excel, *etc.*
+  In seinem Lebenslauf hat er seine Kenntnisse aufgelistet: Word, Excel *usw.*
+
+  Le parc propose diverses activités : randonnée, vélo, *etc.*
+  Der Park bietet verschiedene Aktivitäten an: Wandern, Radfahren *und so weiter*.
+
+  Les fournitures scolaires incluent : cahiers, crayons, *etc.*
+  Zu den Schulmaterialien gehören: Hefte, Bleistifte *usw.*
+
+  La bibliothèque offre des livres, des DVD, *etc.*
+  Die Bibliothek bietet Bücher, DVDs *und dergleichen* an.
+
+  Nous acceptons les paiements par carte, espèces, *etc.*
+  Wir akzeptieren Zahlungen per Karte, Bargeld *und so weiter*.
+
+  Le festival propose des concerts, des spectacles, *etc.*
+  Das Festival bietet Konzerte, Shows *und Ähnliches* an.
+
+  Les tâches ménagères comprennent : cuisine, ménage, *etc.*
+  Zu den Hausarbeiten gehören: Kochen, Putzen *und so weiter*.
+
+  Ses hobbies sont la lecture, le sport, *etc.*
+  Seine Hobbys sind Lesen, Sport *und dergleichen*.
+
+  Le magasin vend des vêtements, des chaussures, *etc.*
+  Der Laden verkauft Kleidung, Schuhe *usw.*
+
+  Les ingrédients principaux sont : tomates, oignons, *etc.*
+  Die Hauptzutaten sind: Tomaten, Zwiebeln *und so weiter*.
+
+  Cette région est connue pour ses vins, ses fromages, *etc.*
+  Diese Region ist bekannt für ihre Weine, Käsesorten *und dergleichen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

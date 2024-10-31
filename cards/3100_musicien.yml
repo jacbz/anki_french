@@ -13,20 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ça prend de vrai musiciens pour jouer du blues.
-  Es braucht echte Musiker, um Blues zu spielen.
+  Ça prend de vrais *musiciens* pour jouer du blues.
+  Es braucht echte *Musiker*, um Blues zu spielen.
 
-  Mon frère est un musicien talentueux.
-  Mein Bruder ist ein talentierter Musiker.
+  Les *musiciens* de l'orchestre répètent tous les jours.
+  Die *Musiker* des Orchesters proben jeden Tag.
 
-  Elle a épousé un musicien.
-  Sie hat einen Musiker geheiratet.
+  Sophie est très *musicienne*, elle a une oreille absolue.
+  Sophie ist sehr *musikalisch*, sie hat ein absolutes Gehör.
 
-  La violoniste était une musicienne soliste de renommée mondiale.
-  Die Violinistin war eine weltberühmte Instrumentalsolistin.
+  Voici Pierre, un *musicien* ambulant qui joue dans les rues de Paris.
+  Das ist Pierre, ein Straßen*musiker*, der in den Straßen von Paris spielt.
 
-  Le pianiste, un musicien soliste de talent, a interprété un morceau complexe avec brio.
-  Der Pianist, ein talentierter Instrumentalsolist, spielte ein komplexes Stück mit Bravour.
+  Le jeune *musicien* soliste a interprété le concerto avec brio.
+  Der junge Solo*musiker* hat das Konzert brillant interpretiert.
+
+  Ma sœur est devenue *musicienne* professionnelle après ses études au conservatoire.
+  Meine Schwester ist nach ihrem Studium am Konservatorium Berufs*musikerin* geworden.
+
+  Sur cette fresque, des anges *musiciens* jouent de la harpe.
+  Auf diesem Fresko spielen *musizierende* Engel Harfe.
+
+  Bach était un *musicien* de génie qui a révolutionné la musique baroque.
+  Bach war ein genialer *Musiker*, der die Barockmusik revolutioniert hat.
+
+  Les *musiciens* de jazz improvisent sur scène.
+  Die Jazz*musiker* improvisieren auf der Bühne.
+
+  Cette *musicienne* classique joue aussi dans un groupe de rock.
+  Diese klassische *Musikerin* spielt auch in einer Rockband.
+
+  Notre fils est très *musicien*, il apprend facilement les mélodies.
+  Unser Sohn ist sehr *musikalisch*, er lernt Melodien leicht.
+
+  Les *musiciens* militaires défilent pendant la parade.
+  Die Militär*musiker* marschieren während der Parade.
+
+  Cette *musicienne* de talent compose ses propres œuvres.
+  Diese talentierte *Musikerin* komponiert ihre eigenen Werke.
+
+  Les *musiciens* qui accompagnent la chanteuse sont excellents.
+  Die *Musiker*, die die Sängerin begleiten, sind ausgezeichnet.
+
+  Julie n'est pas *musicienne* professionnelle, mais elle joue très bien du piano.
+  Julie ist keine Berufs*musikerin*, aber sie spielt sehr gut Klavier.
+
+  Les *musiciens* de la chapelle royale portaient des costumes d'époque.
+  Die *Musiker* der königlichen Kapelle trugen historische Kostüme.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

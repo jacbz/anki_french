@@ -13,17 +13,41 @@ Register: ↗Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’irai en californie en janvier prochain.
-  Ich werde im nächsten Januar nach Kalifornien reisen.
+  J'irai en californie en *janvier* prochain.
+  Ich werde nächsten *Januar* nach Kalifornien fahren.
 
-  Mon anniversaire est en janvier.
-  Mein Geburtstag ist im Januar.
+  Le premier *janvier* est toujours férié en France.
+  Der erste *Januar* ist in Frankreich immer ein Feiertag.
 
-  Je passe un examen en janvier.
-  Ich schreibe im Januar eine Prüfung.
+  Il fait souvent très froid en *janvier* à Montréal.
+  In Montreal ist es im *Januar* oft sehr kalt.
 
-  Chez nous, il neige en janvier.
-  Bei uns schneit es im Januar.
+  Les soldes d'hiver commencent en *janvier*.
+  Der Winterschlussverkauf beginnt im *Januar*.
+
+  C'est en *janvier* que j'ai commencé mon nouveau travail.
+  Im *Januar* habe ich meine neue Arbeit angefangen.
+
+  Nous nous sommes mariés le 15 *janvier* 2020.
+  Wir haben am 15. *Januar* 2020 geheiratet.
+
+  As-tu des projets pour le mois de *janvier* ?
+  Hast du Pläne für den *Januar*?
+
+  Les températures en *janvier* ont été exceptionnellement douces cette année.
+  Die Temperaturen waren dieses Jahr im *Januar* außergewöhnlich mild.
+
+  Elle est née un matin de *janvier*, pendant une tempête de neige.
+  Sie wurde an einem *Januar*morgen während eines Schneesturms geboren.
+
+  Le loyer est à payer avant le 5 *janvier*.
+  Die Miete muss vor dem 5. *Januar* bezahlt werden.
+
+  Mon contrat se termine fin *janvier*.
+  Mein Vertrag läuft Ende *Januar* aus.
+
+  Les examens auront lieu mi-*janvier*.
+  Die Prüfungen finden Mitte *Januar* statt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

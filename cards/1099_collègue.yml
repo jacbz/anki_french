@@ -13,14 +13,44 @@ Register: ↘Fiktion ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je remercie mon collègue pour sa contribution d’hier.
-  Ich danke meinem Kollegen für seinen gestrigen Beitrag.
+  Je remercie mon *collègue* pour sa contribution d'hier.
+  Ich danke meinem *Kollegen* für seinen gestrigen Beitrag.
 
-  Mon collègue de travail est très sympa.
-  Mein Arbeitskollege ist sehr nett.
+  "Salut *collègue* ! On se voit au déjeuner ?"
+  "Hallo *Kollege*! Sehen wir uns beim Mittagessen?"
 
-  Il est mon collègue.
-  Er ist mein Kollege.
+  Ma *collègue* de bureau part à la retraite le mois prochain.
+  Meine *Kollegin* aus dem Büro geht nächsten Monat in Rente.
+
+  Tous mes *collègues* ont signé la carte d'anniversaire pour le chef.
+  Alle meine *Kollegen* haben die Geburtstagskarte für den Chef unterschrieben.
+
+  Les nouveaux *collègues* reçoivent une formation de deux semaines.
+  Die neuen *Kollegen* erhalten eine zweiwöchige Schulung.
+
+  J'ai présenté le projet à mes *collègues* lors de la réunion.
+  Ich habe das Projekt meinen *Kollegen* in der Besprechung vorgestellt.
+
+  Notre *collègue* Julie a obtenu une promotion bien méritée.
+  Unsere *Kollegin* Julie hat eine wohlverdiente Beförderung bekommen.
+
+  Les *collègues* du service marketing ont organisé un pot de départ.
+  Die *Kollegen* aus der Marketingabteilung haben eine Abschiedsfeier organisiert.
+
+  Je remplace ma *collègue* pendant son congé maternité.
+  Ich vertrete meine *Kollegin* während ihrer Elternzeit.
+
+  Son ancien *collègue* lui a proposé un nouveau poste.
+  Sein ehemaliger *Kollege* hat ihm eine neue Stelle angeboten.
+
+  Une *collègue* m'a aidé à résoudre ce problème technique.
+  Eine *Kollegin* hat mir geholfen, dieses technische Problem zu lösen.
+
+  Mes *collègues* et moi allons fêter la fin du projet vendredi.
+  Meine *Kollegen* und ich werden am Freitag den Projektabschluss feiern.
+
+  Pierre est devenu un *collègue* très apprécié dans l'équipe.
+  Pierre ist zu einem sehr geschätzten *Kollegen* im Team geworden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

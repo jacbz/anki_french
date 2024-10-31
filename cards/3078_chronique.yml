@@ -13,29 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est un mal chronique auquel il va falloir s’attaquer.
-  Es handelt sich um ein chronisches Übel, das wir angehen müssen.
+  C'est un mal *chronique* auquel il va falloir s'attaquer.
+  Es ist ein *chronisches* Übel, das wir angehen müssen.
 
-  Je lis les chroniques du journal tous les jours.
-  Ich lese jeden Tag die Berichte in der Zeitung.
+  Le médecin lui a diagnostiqué une bronchite *chronique*.
+  Der Arzt hat bei ihm eine *chronische* Bronchitis diagnostiziert.
 
-  Le chômage chronique est un problème majeur dans notre société.
-  Dauerarbeitslosigkeit ist ein großes Problem in unserer Gesellschaft.
+  Sa migraine *chronique* l'empêche souvent de dormir.
+  Seine *chronische* Migräne hindert ihn oft am Schlafen.
 
-  La chronique scandaleuse de la ville est pleine de potins et de ragots.
-  Der lokale Tratsch ist voller Klatsch und Tratsch.
+  Le pays souffre d'une inflation *chronique* depuis des années.
+  Das Land leidet seit Jahren unter *chronischer* Inflation.
 
-  Son comportement extravagant a défrayé la chronique.
-  Sein extravagantes Verhalten hat von sich reden gemacht.
+  Cette région est touchée par un chômage *chronique*.
+  Diese Region ist von *andauernder* Arbeitslosigkeit betroffen.
 
-  J'ai lu une chronique artistique sur les dernières expositions.
-  Ich habe einen Feuilleton über die neuesten Ausstellungen gelesen.
+  Les retards *chroniques* des trains exaspèrent les voyageurs.
+  Die *ständigen* Zugverspätungen bringen die Reisenden zur Verzweiflung.
 
-  Ils ont des difficultés financières chroniques depuis des années.
-  Sie leiden seit Jahren an chronischem Geldmangel.
+  Elle a des problèmes financiers *chroniques* depuis son divorce.
+  Sie hat seit ihrer Scheidung *chronische* Geldprobleme.
 
-  La chronique financière a annoncé une hausse des taux d'intérêt.
-  Der Börsenbericht hat eine Erhöhung der Zinssätze angekündigt.
+  La *chronique* littéraire du journal est toujours passionnante.
+  Die Literatur*kolumne* der Zeitung ist immer spannend.
+
+  Pierre écrit la *chronique* sportive du dimanche.
+  Pierre schreibt die Sport*kolumne* am Sonntag.
+
+  Cette émission présente une *chronique* politique hebdomadaire.
+  Diese Sendung hat einen wöchentlichen Politik*kommentar*.
+
+  Marie tient une *chronique* théâtrale dans ce magazine.
+  Marie führt eine Theater*kolumne* in diesem Magazin.
+
+  Je lis toujours sa *chronique* sur la gastronomie locale.
+  Ich lese immer seine *Kolumne* über die lokale Gastronomie.
+
+  Cette ancienne *chronique* raconte l'histoire de notre ville.
+  Diese alte *Chronik* erzählt die Geschichte unserer Stadt.
+
+  J'ai lu une fascinante *chronique* du Moyen Âge.
+  Ich habe eine faszinierende *Chronik* des Mittelalters gelesen.
+
+  Il écrit la *chronique* de sa famille depuis trois générations.
+  Er schreibt die *Chronik* seiner Familie seit drei Generationen.
+
+  Son dernier scandale a défrayé la *chronique*.
+  Sein letzter Skandal hat *von sich reden gemacht*.
+
+  Leur histoire d'amour a défrayé la *chronique* pendant des mois.
+  Ihre Liebesgeschichte hat monatelang *für Schlagzeilen gesorgt*.
+
+  La *chronique* mondaine s'est emparée de leur divorce.
+  Der Gesellschafts*klatsch* hat sich ihrer Scheidung bemächtigt.
+
+  Cette affaire alimente la *chronique* locale depuis des semaines.
+  Diese Angelegenheit beschäftigt den lokalen *Klatsch* seit Wochen.
+
+  Les journalistes de la *chronique* judiciaire suivent le procès.
+  Die Gerichts*berichterstatter* verfolgen den Prozess.
+
+  Elle présente la *chronique* culturelle à la radio.
+  Sie präsentiert den Kultur*bericht* im Radio.
+
+  Sa fatigue *chronique* l'empêche de travailler à plein temps.
+  Seine *chronische* Müdigkeit hindert ihn daran, Vollzeit zu arbeiten.
+
+  Le manque *chronique* de personnel pose de sérieux problèmes.
+  Der *chronische* Personalmangel verursacht ernsthafte Probleme.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

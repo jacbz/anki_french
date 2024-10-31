@@ -13,35 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Rien ne semble effrayer le fabricant français.
-  Nichts scheint den französischen Hersteller zu schrecken.
+  Rien ne semble effrayer le *fabricant* français.
+  Nichts scheint den französischen *Hersteller* zu erschrecken.
 
-  Le fabricant de voitures a annoncé une nouvelle gamme.
-  Der Autohersteller hat eine neue Modellreihe angekündigt.
+  Ce *fabricant* de jouets a développé un nouveau concept innovant.
+  Dieser Spielzeug*hersteller* hat ein innovatives neues Konzept entwickelt.
 
-  Elle est fabricante de tissus.
-  Sie ist Textilfabrikantin.
+  Notre *fabricante* de meubles travaille uniquement avec du bois local.
+  Unsere Möbel*herstellerin* arbeitet ausschließlich mit lokalem Holz.
 
-  Il est fabricant de lampes.
-  Er ist Lampenhersteller.
+  Les *fabricants* de chaussures italiens sont réputés dans le monde entier.
+  Die italienischen Schuh*hersteller* sind weltweit bekannt.
 
-  Elle est fabricante de chaussures.
-  Sie ist Schuhfabrikantin.
+  La petite *fabricante* de bijoux vend ses créations en ligne.
+  Die kleine Schmuck*herstellerin* verkauft ihre Kreationen online.
 
-  Elle est fabricante d'articles de bonneterie.
-  Sie ist Strumpfwarenfabrikantin.
+  Le plus grand *fabricant* de tissus de la région a fermé ses portes.
+  Der größte Textil*hersteller* der Region hat seine Türen geschlossen.
 
-  Elle est fabricante de peinture et de laque.
-  Sie ist Fabrikantin von Farben und Lacken.
+  Cette entreprise est devenue le principal *fabricant* d'ordinateurs en Europe.
+  Dieses Unternehmen ist zum führenden Computer*hersteller* in Europa geworden.
 
-  Elle est fabricante dans le domaine de la restauration rapide.
-  Sie ist Fastfoodherstellerin.
+  La *fabricante* de parapluies a modernisé son atelier l'année dernière.
+  Die Regenschirm*herstellerin* hat ihre Werkstatt letztes Jahr modernisiert.
 
-  Elle est fabricante finale.
-  Sie ist Endherstellerin.
+  Ce *fabricant* de peinture utilise uniquement des produits écologiques.
+  Dieser Farben*hersteller* verwendet nur umweltfreundliche Produkte.
 
-  Elle est fabricante de l'ouvrage.
-  Sie ist Werkunternehmerin.
+  Les petits *fabricants* de lingerie résistent face aux grandes marques.
+  Die kleinen Wäsche*hersteller* behaupten sich gegen die großen Marken.
+
+  Notre *fabricante* finale vérifie chaque produit individuellement.
+  Unsere End*herstellerin* überprüft jedes Produkt einzeln.
+
+  Le nouveau *fabricant* de machines a créé cent emplois dans la région.
+  Der neue Maschinen*hersteller* hat hundert Arbeitsplätze in der Region geschaffen.
+
+  Cette *fabricante* de chapeaux perpétue un savoir-faire traditionnel.
+  Diese Hut*herstellerin* führt traditionelles Handwerk fort.
+
+  Les *fabricants* dans le domaine de la restauration rapide doivent s'adapter aux nouvelles tendances.
+  Die Fastfood*hersteller* müssen sich an neue Trends anpassen.
+
+  La *fabricante* de soieries a reçu un prix pour l'excellence de son travail.
+  Die Seiden*herstellerin* hat einen Preis für ihre hervorragende Arbeit erhalten.
+
+  Ce *fabricant* de lampes propose des modèles très originaux.
+  Dieser Lampen*hersteller* bietet sehr originelle Modelle an.
+
+  Les *fabricants* d'articles de bonneterie ont vu leurs ventes augmenter cet hiver.
+  Die Strumpfwaren*hersteller* haben diesen Winter steigende Verkaufszahlen verzeichnet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,41 +13,140 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous acceptez d’être soumis au traitement.
-  Sie erklären sich mit der Behandlung einverstanden.
+  Vous acceptez d'être soumis au *traitement*.
+  Sie stimmen der *Behandlung* zu.
 
-  Le traitement médical a été efficace.
-  Die medizinische Behandlung war erfolgreich.
+  Je suis en *traitement* pour une bronchite depuis trois semaines.
+  Ich bin seit drei Wochen wegen einer Bronchitis in *Behandlung*.
 
-  Pierre est en traitement pour une grave maladie.
-  Pierre ist wegen einer schweren Krankheit in Behandlung.
+  Marie doit suivre un *traitement* strict contre l'hypertension.
+  Marie muss strenge *Behandlungs*maßnahmen gegen Bluthochdruck befolgen.
 
-  Le traitement d'une commande peut prendre quelques jours.
-  Die Abwicklung eines Auftrags kann einige Tage dauern.
+  Le *traitement* par ultrasons a soulagé mes douleurs musculaires.
+  Die Ultraschall*behandlung* hat meine Muskelschmerzen gelindert.
 
-  Le traitement de sa sœur a toujours été très froid.
-  Die Art, wie er mit seiner Schwester umgegangen ist, war immer sehr kalt.
+  Elle a réservé un *traitement* du visage dans ce salon de beauté.
+  Sie hat eine Gesichts*behandlung* in diesem Schönheitssalon gebucht.
 
-  Le traitement du bois est un métier ancestral.
-  Holzveredlung ist ein altes Handwerk.
+  Le médecin lui a prescrit un *traitement* aux rayons ultraviolets.
+  Der Arzt hat ihr eine UV-*Bestrahlung* verschrieben.
 
-  Le traitement automatique de la langue est une technologie en pleine expansion.
-  Maschinelle Sprachverarbeitung ist eine Technologie, die sich stark entwickelt.
+  Le *traitement* hospitalier a duré deux semaines.
+  Die Krankenhaus*behandlung* dauerte zwei Wochen.
 
-  Le traitement annuel est un montant qui est versé chaque année.
-  Der Jahresbezug ist ein Betrag, der jährlich ausgezahlt wird.
+  Le *traitement* de cette commande prendra environ trois jours.
+  Die *Abwicklung* dieser Bestellung wird ungefähr drei Tage dauern.
 
-  Il doit suivre un traitement contre le cancer.
-  Er wird wegen Krebs behandelt.
+  Son *traitement* des employés est toujours très respectueux.
+  Seine *Art*, mit den Angestellten umzugehen, ist immer sehr respektvoll.
 
-  Elle doit suivre un traitement strict après son opération.
-  Sie muss nach ihrer Operation strenge Behandlungsmaßnahmen befolgen.
+  Les *mauvais traitements* envers les animaux sont punis par la loi.
+  *Misshandlungen* von Tieren werden gesetzlich bestraft.
 
-  Le traitement d'un état de choc consiste à calmer la victime et à lui apporter les premiers soins.
-  Bei einer Schockbehandlung geht es darum, das Opfer zu beruhigen und erste Hilfe zu leisten.
+  Elle bénéficie d'un *traitement* de faveur grâce à son expérience.
+  Sie erhält aufgrund ihrer Erfahrung eine *Vorzugsbehandlung*.
 
-  Le traitement par ultrasons est une technique utilisée pour diagnostiquer et soigner certaines pathologies.
-  Die Ultraschallbehandlung ist eine Technik, die zur Diagnose und Behandlung bestimmter Krankheiten eingesetzt wird.
+  Le *traitement* thermique renforce la résistance de l'acier.
+  Die Wärme*behandlung* verstärkt die Widerstandsfähigkeit des Stahls.
+
+  Le *traitement* du bois protège contre les parasites.
+  Die Holz*behandlung* schützt vor Schädlingen.
+
+  Le *traitement* automatique des données facilite notre travail.
+  Die automatische Daten*verarbeitung* erleichtert unsere Arbeit.
+
+  J'utilise un logiciel de *traitement* de texte pour écrire mes rapports.
+  Ich benutze ein Text*verarbeitungs*programm zum Schreiben meiner Berichte.
+
+  Son *traitement* annuel s'élève à 45 000 euros.
+  Seine Jahres*bezüge* belaufen sich auf 45.000 Euro.
+
+  Le *traitement* de l'eau est essentiel pour notre santé.
+  Die Wasser*aufbereitung* ist wesentlich für unsere Gesundheit.
+
+  Le *traitement* en ligne des données est instantané.
+  Die Online-*Verarbeitung* der Daten erfolgt sofort.
+
+  Le nouveau *traitement* contre le cancer montre des résultats prometteurs.
+  Die neue *Behandlung* gegen Krebs zeigt vielversprechende Ergebnisse.
+
+  Le *traitement* cosmétique a transformé son apparence.
+  Die kosmetische *Behandlung* hat ihr Aussehen verändert.
+
+  Les patients en *traitement* doivent suivre un régime strict.
+  Patienten in *Behandlung* müssen eine strenge Diät einhalten.
+
+  Le *traitement* de choc a été efficace pour stabiliser son état.
+  Die Schock*behandlung* war erfolgreich, um seinen Zustand zu stabilisieren.
+
+  Le *traitement* à la lumière aide contre la dépression saisonnière.
+  Die Licht*behandlung* hilft gegen saisonale Depression.
+
+  Le *traitement* des déchets radioactifs nécessite des précautions particulières.
+  Die *Aufbereitung* radioaktiver Abfälle erfordert besondere Vorsichtsmaßnahmen.
+
+  Le *traitement* vidéo permet d'améliorer la qualité des images.
+  Die Video*bearbeitung* ermöglicht es, die Bildqualität zu verbessern.
+
+  Son *traitement* budgétaire a été augmenté cette année.
+  Seine Dienst*bezüge* wurden dieses Jahr erhöht.
+
+  Le *traitement* multitâche permet d'exécuter plusieurs programmes simultanément.
+  Das *Multitasking* ermöglicht es, mehrere Programme gleichzeitig auszuführen.
+
+  Le *traitement* du minerai s'effectue à haute température.
+  Die Erz*verhüttung* erfolgt bei hoher Temperatur.
+
+  Un nouveau *traitement* expérimental sera testé le mois prochain.
+  Eine neue experimentelle *Behandlung* wird nächsten Monat getestet.
+
+  Le *traitement* des tissus requiert des procédés spéciaux.
+  Die Stoff*verarbeitung* erfordert spezielle Verfahren.
+
+  Le *traitement* social du chômage est une priorité politique.
+  Die soziale *Behandlung* der Arbeitslosigkeit ist eine politische Priorität.
+
+  Le *traitement* de cette question nécessite du temps.
+  Die *Behandlung* dieser Frage benötigt Zeit.
+
+  Elle suit un *traitement* à base de plantes médicinales.
+  Sie macht eine *Behandlung* auf Basis von Heilpflanzen.
+
+  Le *traitement* particulier de ce patient exige beaucoup d'attention.
+  Die Sonder*behandlung* dieses Patienten erfordert viel Aufmerksamkeit.
+
+  Le *traitement* aux infrarouges soulage les douleurs articulaires.
+  Die Infrarot*behandlung* lindert Gelenkschmerzen.
+
+  Le *traitement* en arrière-plan s'effectue automatiquement.
+  Die Hintergrund*verarbeitung* erfolgt automatisch.
+
+  Son *traitement* odieux des stagiaires a été signalé.
+  Seine abscheuliche *Behandlung* der Praktikanten wurde gemeldet.
+
+  Le nouveau *traitement* contre la migraine est très efficace.
+  Die neue *Behandlung* gegen Migräne ist sehr wirksam.
+
+  Le *traitement* de l'information est instantané avec ce logiciel.
+  Die Informations*verarbeitung* ist mit dieser Software unverzüglich.
+
+  Un *traitement* préventif a été mis en place.
+  Eine vorbeugende *Behandlung* wurde eingeführt.
+
+  Le *traitement* de la commande sera effectué dans les plus brefs délais.
+  Die *Abwicklung* der Bestellung wird schnellstmöglich durchgeführt.
+
+  Le *traitement* des cultures protège contre les parasites.
+  Die *Behandlung* der Kulturen schützt vor Schädlingen.
+
+  Le *traitement* antidouleur a considérablement amélioré sa qualité de vie.
+  Die Schmerz*behandlung* hat seine Lebensqualität erheblich verbessert.
+
+  Les effets secondaires du *traitement* sont minimes.
+  Die Nebenwirkungen der *Behandlung* sind minimal.
+
+  Le *traitement* des photos numériques est devenu très simple.
+  Die *Bearbeitung* digitaler Fotos ist sehr einfach geworden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

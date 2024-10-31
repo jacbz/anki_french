@@ -13,23 +13,101 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les sociétés industrielles de ce temps mobilisent.
-  Die Industriegesellschaften dieser Zeit mobilisieren.
+  Les sociétés *industrielles* de ce temps mobilisent.
+  Die *Industrie*gesellschaften dieser Zeit mobilisieren.
 
-  Le secteur industriel est en croissance.
-  Der industrielle Sektor wächst.
+  Le développement *industriel* de la région crée de nombreux emplois.
+  Die *industrielle* Entwicklung der Region schafft viele Arbeitsplätze.
 
-  L'entreprise industrielle est située dans la banlieue de la ville.
-  Der Industriebetrieb befindet sich am Stadtrand.
+  Cette boulangerie *industrielle* produit 10 000 baguettes par jour.
+  Diese *Industrie*bäckerei produziert 10.000 Baguettes pro Tag.
 
-  Le grand industriel a fait fortune grâce à son innovation.
-  Die Großindustrielle hat durch ihre Innovation ein Vermögen gemacht.
+  Marie travaille dans une zone *industrielle* à la périphérie de la ville.
+  Marie arbeitet in einem *Industrie*gebiet am Stadtrand.
 
-  Le pain industriel est souvent critiqué pour son manque de goût.
-  Industriell hergestelltes Brot wird oft für seinen Mangel an Geschmack kritisiert.
+  La première révolution *industrielle* a commencé en Angleterre.
+  Die erste *industrielle* Revolution begann in England.
 
-  Le véhicule industriel a été conçu pour transporter de lourdes charges.
-  Das Nutzfahrzeug wurde für den Transport schwerer Lasten entwickelt.
+  Les *industriels* du textile se réunissent demain pour discuter des nouvelles normes.
+  Die *Industriellen* der Textilbranche treffen sich morgen, um die neuen Standards zu besprechen.
+
+  "Il y avait des moustiques en quantité *industrielle* pendant nos vacances !"
+  "Es gab *massenhaft* Mücken während unseres Urlaubs!"
+
+  Cette usine utilise des procédés de fabrication *industrielle* modernes.
+  Diese Fabrik verwendet moderne *industrielle* Fertigungsmethoden.
+
+  Le secteur *industriel* représente 30% de notre économie.
+  Der *Industrie*sektor macht 30% unserer Wirtschaft aus.
+
+  Les déchets *industriels* doivent être traités avec précaution.
+  *Industrie*abfälle müssen mit Vorsicht behandelt werden.
+
+  Mon père était un grand *industriel* dans les années 80.
+  Mein Vater war in den 80er Jahren ein großer *Industrieller*.
+
+  Cette entreprise *industrielle* emploie plus de mille personnes.
+  Dieser *Industrie*betrieb beschäftigt über tausend Menschen.
+
+  Le pain *industriel* se conserve plus longtemps que le pain artisanal.
+  *Industriell* hergestelltes Brot hält länger als handwerklich hergestelltes.
+
+  La pêche *industrielle* menace les petits pêcheurs traditionnels.
+  Die *industrielle* Fischerei bedroht die traditionellen kleinen Fischer.
+
+  Les accidents *industriels* peuvent avoir des conséquences graves.
+  *Industrie*unfälle können schwerwiegende Folgen haben.
+
+  Ce grand *industriel* a fait fortune dans la sidérurgie.
+  Dieser große *Industrielle* hat sein Vermögen in der Stahlindustrie gemacht.
+
+  L'agriculture *industrielle* utilise beaucoup de machines.
+  Die *industrielle* Landwirtschaft verwendet viele Maschinen.
+
+  La production *industrielle* a augmenté de 5% cette année.
+  Die *industrielle* Produktion ist dieses Jahr um 5% gestiegen.
+
+  Les véhicules *industriels* doivent respecter des normes strictes.
+  *Nutz*fahrzeuge müssen strenge Normen einhalten.
+
+  Cette friche *industrielle* sera transformée en parc public.
+  Diese *Industrie*brache wird in einen öffentlichen Park umgewandelt.
+
+  L'effort *industriel* du pays est remarquable.
+  Die *industrielle* Anstrengung des Landes ist bemerkenswert.
+
+  Le dessin *industriel* requiert beaucoup de précision.
+  Technisches *Industrie*zeichnen erfordert viel Präzision.
+
+  Les travailleurs *industriels* font grève pour de meilleures conditions.
+  Die *Industrie*arbeiter streiken für bessere Bedingungen.
+
+  La psychologie *industrielle* étudie le comportement au travail.
+  Die *Industrie*psychologie untersucht das Verhalten am Arbeitsplatz.
+
+  Cette région *industrielle* souffre de la pollution.
+  Diese *Industrie*region leidet unter der Verschmutzung.
+
+  L'économie *industrielle* fait l'objet de nombreuses études.
+  Die *Industrie*wirtschaft ist Gegenstand zahlreicher Studien.
+
+  Les arts *industriels* ont révolutionné la décoration au XIXe siècle.
+  Die *Industrie*künste revolutionierten die Dekoration im 19. Jahrhundert.
+
+  Cette école *industrielle* forme les techniciens de demain.
+  Diese *Industrie*schule bildet die Techniker von morgen.
+
+  Les richesses *industrielles* du pays attirent les investisseurs.
+  Der *industrielle* Reichtum des Landes zieht Investoren an.
+
+  Le bassin *industriel* emploie des milliers de personnes.
+  Das *Industrie*gebiet beschäftigt tausende Menschen.
+
+  Les faubourgs *industriels* se transforment peu à peu en quartiers résidentiels.
+  Die *Industrie*vororte verwandeln sich nach und nach in Wohngebiete.
+
+  Les cultures *industrielles* occupent la majorité des terres agricoles.
+  Die *Industrie*kulturen nehmen den Großteil der landwirtschaftlichen Flächen ein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,47 +13,149 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ton père est malade, il aimerait te voir.
-  Dein Vater ist krank und würde dich gerne sehen.
+  Ton père est *malade*, il aimerait te voir.
+  Dein Vater ist *krank*, er möchte dich sehen.
 
-  Le malade a besoin de repos.
-  Der Kranke braucht Ruhe.
+  Elle est tombée *malade* pendant ses vacances.
+  Sie ist während ihres Urlaubs *krank* geworden.
 
-  Elle est malade.
-  Sie ist krank.
+  "Il travaille comme un *malade* depuis des mois."
+  "Er arbeitet seit Monaten *wie verrückt*."
 
-  Mon ami est resté à la maison parce qu’il est malade.
-  Mein Freund ist zu Hause geblieben, weil er krank ist.
+  Mon chat a l'air *malade* aujourd'hui.
+  Meine Katze sieht heute *krank* aus.
 
-  Le petit garçon avait l'air malade, il toussait et avait le nez qui coulait.
-  Der kleine Junge sah krank aus, er hustete und hatte eine laufende Nase.
+  La petite *malade* garde le lit depuis trois jours.
+  Die kleine *Kranke* liegt seit drei Tagen im Bett.
 
-  Sa grand-mère était malade cardiaque et devait prendre des médicaments tous les jours.
-  Seine Großmutter war herzkrank und musste täglich Medikamente einnehmen.
+  Le secteur automobile est *malade* depuis la crise.
+  Der Automobilsektor ist seit der Krise *angeschlagen*.
 
-  Il a couru dans la rue comme un malade, sans se soucier des voitures.
-  Er rannte wie ein Verrückter die Straße entlang, ohne auf die Autos zu achten.
+  "Tu es complètement *malade* de sauter de si haut !"
+  "Du bist völlig *verrückt*, von so hoch zu springen!"
 
-  Elle était malade de jalousie quand elle a vu son ex-mari avec une autre femme.
-  Sie war krank vor Eifersucht, als sie ihren Ex-Mann mit einer anderen Frau sah.
+  Cette *malade* mentale a besoin d'un traitement spécialisé.
+  Diese *Geisteskranke* braucht eine spezielle Behandlung.
 
-  Le médecin a dit qu'elle devait suivre une dialyse trois fois par semaine parce qu'elle était malade des reins.
-  Der Arzt sagte, dass sie dreimal pro Woche eine Dialyse machen müsse, weil sie ein Rückenleiden habe.
+  Je suis *malade* comme un chien depuis hier soir.
+  Ich bin seit gestern Abend *todkrank*.
 
-  Il est tombé malade pendant son voyage en Asie et a dû consulter un médecin.
-  Er wurde während seiner Reise nach Asien krank und musste einen Arzt aufsuchen.
+  Le *malade* imaginaire pense toujours avoir quelque chose.
+  Der eingebildete *Kranke* denkt immer, er hätte etwas.
 
-  Il était malade du sida et se battait pour sa vie.
-  Er war aids-krank und kämpfte ums Überleben.
+  Les *malades* cardiaques doivent faire attention à leur alimentation.
+  *Herzkranke* müssen auf ihre Ernährung achten.
 
-  Elle était malade du cœur et devait subir une opération à cœur ouvert.
-  Sie war herzkrank und musste sich einer Herzoperation unterziehen.
+  "Il conduit comme un *malade* sur l'autoroute."
+  "Er fährt *wie verrückt* auf der Autobahn."
 
-  J'en ai été malade de voir comment ils traitaient les animaux.
-  Das hat mich ganz krank gemacht, zu sehen, wie sie mit den Tieren umgegangen sind.
+  Je me sens *malade* en voiture.
+  Mir ist im Auto *schlecht*.
 
-  Il était un grand malade et passait la plupart de son temps à l'hôpital.
-  Er war schwer krank und verbrachte die meiste Zeit im Krankenhaus.
+  Cette économie *malade* a besoin de réformes urgentes.
+  Diese *angeschlagene* Wirtschaft braucht dringend Reformen.
+
+  La vigne est *malade* cette année à cause du gel.
+  Der Weinstock ist dieses Jahr wegen des Frosts *krank*.
+
+  Ce vieil ordinateur est vraiment *malade*.
+  Dieser alte Computer ist echt *kaputt*.
+
+  Les *malades* incurables reçoivent des soins palliatifs.
+  Die unheilbar *Kranken* erhalten eine Palliativbehandlung.
+
+  Je suis *malade* d'inquiétude pour mon fils.
+  Ich bin *krank* vor Sorge um meinen Sohn.
+
+  Le grand *malade* a été transféré aux soins intensifs.
+  Der Schwer*kranke* wurde auf die Intensivstation verlegt.
+
+  Cette dent *malade* doit être soignée rapidement.
+  Dieser *kranke* Zahn muss schnell behandelt werden.
+
+  "Il s'est fait porter *malade* pour éviter la réunion."
+  "Er hat sich *krankschreiben* lassen, um das Meeting zu vermeiden."
+
+  Son esprit *malade* lui joue des tours.
+  Sein *kranker* Geist spielt ihm Streiche.
+
+  Les *malades* dialysés viennent trois fois par semaine.
+  Die Dialyse*patienten* kommen dreimal pro Woche.
+
+  "Ce sont des *malades* du golf, ils y jouent tous les jours."
+  "Sie sind *verrückt* nach Golf, sie spielen jeden Tag."
+
+  La *malade* des nerfs suit une thérapie.
+  Die *Nervenkranke* macht eine Therapie.
+
+  Je suis *malade* de jalousie quand je le vois avec elle.
+  Ich bin *krank* vor Eifersucht, wenn ich ihn mit ihr sehe.
+
+  Un cheval *malade* nécessite des soins vétérinaires.
+  Ein *krankes* Pferd braucht tierärztliche Behandlung.
+
+  "J'en ai été *malade* pendant des jours."
+  "Das hat mich tagelang *krank* gemacht."
+
+  Ce livre est vraiment *malade*, il faut le faire relier.
+  Dieses Buch ist echt *kaputt*, es muss neu gebunden werden.
+
+  Les *malades* d'amour écrivent souvent des poèmes.
+  *Liebeskranke* schreiben oft Gedichte.
+
+  Un arbre *malade* peut contaminer tout le verger.
+  Ein *kranker* Baum kann den ganzen Obstgarten anstecken.
+
+  "Tu n'es pas *malade* de crier comme ça ?"
+  "Bist du nicht *verrückt*, so zu schreien?"
+
+  Cette entreprise *malade* risque la faillite.
+  Dieses *angeschlagene* Unternehmen droht pleite zu gehen.
+
+  Le *malade* mental a besoin d'un suivi régulier.
+  Der *Geisteskranke* braucht regelmäßige Betreuung.
+
+  Je suis *malade* du cœur depuis ma naissance.
+  Ich bin seit meiner Geburt *herzkrank*.
+
+  Il est gravement *malade* depuis des mois.
+  Er ist seit Monaten schwer *krank*.
+
+  La petite est un peu *malade* aujourd'hui.
+  Die Kleine ist heute etwas *krank*.
+
+  J'étais *malade* de le voir dans cet état.
+  Ich war *krank* davon, ihn in diesem Zustand zu sehen.
+
+  Les *malades* des reins doivent limiter le sel.
+  *Nierenkranke* müssen Salz einschränken.
+
+  "Il court comme un *malade* tous les matins."
+  "Er rennt jeden Morgen *wie verrückt*."
+
+  La France *malade* de l'inflation cherche des solutions.
+  Das von der Inflation *geschwächte* Frankreich sucht nach Lösungen.
+
+  Elle s'est rendue *malade* à force de stress.
+  Sie hat sich durch den Stress *krank* gemacht.
+
+  Mon ordinateur est *malade*, il plante sans arrêt.
+  Mein Computer ist *kaputt*, er stürzt dauernd ab.
+
+  Je suis *malade* du sida depuis dix ans.
+  Ich bin seit zehn Jahren *aids-krank*.
+
+  Le patient *malade* attend dans la salle d'examen.
+  Der *kranke* Patient wartet im Untersuchungszimmer.
+
+  Les *malades* mentaux ont droit à notre respect.
+  *Geisteskranke* haben ein Recht auf unseren Respekt.
+
+  J'ai le cœur *malade* depuis l'opération.
+  Ich habe seit der Operation ein *krankes* Herz.
+
+  Elle est *malade* à crever depuis une semaine.
+  Sie ist seit einer Woche *todkrank*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

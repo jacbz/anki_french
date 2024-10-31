@@ -13,17 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La grève se généralise dans les universités.
-  Der Streik breitet sich an den Universitäten aus.
+  La grève se généralise dans les *universités*.
+  Der Streik breitet sich an den *Universitäten* aus.
 
-  Je vais à l’université.
-  Ich gehe zur Universität.
+  L'*université* de Paris est l'une des plus anciennes d'Europe.
+  Die *Universität* von Paris ist eine der ältesten in Europa.
 
-  Il a décidé de s'inscrire dans une université privée, car il voulait bénéficier d'un enseignement plus personnalisé.
-  Er hat sich für eine Privatuniversität entschieden, weil er einen individuelleren Unterricht genießen wollte.
+  Les frais d'inscription à l'*université* privée sont très élevés.
+  Die Studiengebühren an der privaten *Universität* sind sehr hoch.
 
-  L'université privée est réputée pour son excellence académique.
-  Die Privatuniversität ist bekannt für ihre akademische Exzellenz.
+  Paul travaille comme professeur à l'*université* depuis vingt ans.
+  Paul arbeitet seit zwanzig Jahren als Professor an der *Universität*.
+
+  L'*université* d'été sur le changement climatique commence lundi prochain.
+  Die Sommer*universität* zum Klimawandel beginnt nächsten Montag.
+
+  Le nouveau bâtiment de l'*université* sera inauguré en septembre.
+  Das neue Gebäude der *Universität* wird im September eingeweiht.
+
+  Marie a choisi cette *université* pour sa réputation en recherche.
+  Marie hat diese *Universität* wegen ihres Forschungsrufs gewählt.
+
+  L'*université* propose désormais des cours en ligne.
+  Die *Universität* bietet jetzt Online-Kurse an.
+
+  Le personnel de l'*université* manifeste pour de meilleures conditions de travail.
+  Das Personal der *Universität* demonstriert für bessere Arbeitsbedingungen.
+
+  Les étudiants de l'*université* organisent un festival culturel.
+  Die Studierenden der *Universität* organisieren ein Kulturfestival.
+
+  L'*université* a signé un accord d'échange avec plusieurs pays.
+  Die *Universität* hat ein Austauchabkommen mit mehreren Ländern unterzeichnet.
+
+  Le recteur dirige l'*université* depuis trois ans.
+  Der Rektor leitet die *Universität* seit drei Jahren.
+
+  Cette *université* est réputée pour sa faculté de médecine.
+  Diese *Universität* ist bekannt für ihre medizinische Fakultät.
+
+  Les bibliothèques de l'*université* sont ouvertes 24 heures sur 24.
+  Die Bibliotheken der *Universität* sind rund um die Uhr geöffnet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

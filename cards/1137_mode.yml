@@ -10,41 +10,195 @@ IPA: \mɔd\
 Definition: <span class="disamb">le:</span> Methode<br><span class="disamb">la:</span>
   Mode
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "On a souvent critiqué le mode de recrutement des juges.\nDie Art und\
-  \ Weise, wie Richter eingestellt werden, wurde oft kritisiert.\n\nLa mode est un\
-  \ éternel recommencement.\nMode ist ein ewiges Wiederholen.\n\nJ'adore les vêtements\
-  \ à la mode.\nIch liebe modische Kleidung.\n\nLe nouvel album est sorti en mode\
-  \ digital.\nDas neue Album wurde digital veröffentlicht.\n\nIl faut régler la machine\
-  \ en mode silencieux.\nSie müssen die Maschine auf lautlos stellen.\n\nElle est\
-  \ toujours en mode détente, même au travail.\nSie ist immer im Entspannungsmodus,\
-  \ auch bei der Arbeit.\n\nLe professeur explique les différents modes de conjugaison\
-  \ des verbes.\nDer Lehrer erklärt die verschiedenen Konjugationsarten der Verben.\n\
-  \nLe chant grégorien est un chant liturgique de l'Église catholique romaine, qui\
-  \ se caractérise par son utilisation des huit modes musicaux, appelés aussi \"tonalités\
-  \ grégoriennes\". \nDie Gregorianik ist ein liturgischer Gesang der römisch-katholischen\
-  \ Kirche, der sich durch seine Verwendung der acht musikalischen Modi, auch \"gregorianische\
-  \ Tonarten\" genannt, auszeichnet.\n\nLa mode pour enfants propose des vêtements\
-  \ adaptés aux besoins et aux goûts des enfants. \nKindermode bietet Kleidung, die\
-  \ auf die Bedürfnisse und den Geschmack von Kindern zugeschnitten ist. \n\nCes vêtements\
-  \ sont très mode, ils sont à la pointe de la tendance actuelle. \nDiese Kleidungsstücke\
-  \ sind topmodisch, sie sind auf dem neuesten Stand der aktuellen Mode.\n\nUn cousin\
-  \ à la mode de Bretagne est un cousin éloigné, qui n'est pas très proche. \nEin\
-  \ weit entfernter Verwandter ist ein Cousin, der nicht sehr nah verwandt ist. \n\
-  \nLe mode assistant est un mode d'utilisation d'un appareil qui permet d'obtenir\
-  \ de l'aide. \nDer Hilfemodus ist ein Betriebsmodus eines Geräts, der es ermöglicht,\
-  \ Hilfe zu erhalten.\n\nCe tableau est peint à la mode de Picasso, avec des formes\
-  \ géométriques et des couleurs vives.\nDieses Bild ist nach Art von Picasso gemalt,\
-  \ mit geometrischen Formen und leuchtenden Farben.\n\nLe mode connecté permet d'accéder\
-  \ à internet et de partager des informations en temps réel. \nDer Online-Betrieb\
-  \ ermöglicht es, auf das Internet zuzugreifen und Informationen in Echtzeit auszutauschen.\
-  \ \n\nTravailler en mode déconnecté permet de se concentrer sur les tâches sans\
-  \ être interrompu par les notifications. \nIm Offline-Modus zu arbeiten ermöglicht\
-  \ es, sich auf die Aufgaben zu konzentrieren, ohne durch Benachrichtigungen unterbrochen\
-  \ zu werden. \n\nLe mode direct permet d'accéder directement aux données sans passer\
-  \ par un intermédiaire. \nDer Direktmodus ermöglicht es, direkt auf Daten zuzugreifen,\
-  \ ohne einen Vermittler einzuschalten. \n\nLe mode étendu permet d'utiliser davantage\
-  \ de fonctionnalités et de paramètres. \nDer erweiterte Modus ermöglicht es, mehr\
-  \ Funktionen und Einstellungen zu verwenden."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  On a souvent critiqué le *mode* de recrutement des juges.
+  Man hat oft die *Art und Weise* der Richterrekrutierung kritisiert.
+
+  Le *mode* de vie moderne est souvent trop stressant.
+  Die moderne Lebens*weise* ist oft zu stressant.
+
+  La nouvelle application propose un *mode* graphique très intuitif.
+  Die neue Anwendung bietet einen intuitiven Grafik*modus*.
+
+  "Ton pull n'est plus du tout *mode*!"
+  "Dein Pullover ist überhaupt nicht mehr *modisch*!"
+
+  La *mode* des années 80 fait son grand retour.
+  Die *Mode* der 80er Jahre feiert ihr großes Comeback.
+
+  Les verbes au subjonctif sont conjugués selon un *mode* spécifique.
+  Die Verben im Konjunktiv werden nach einem bestimmten *Modus* konjugiert.
+
+  Il faut lire attentivement le *mode* d'emploi avant d'utiliser l'appareil.
+  Man muss die Gebrauchs*anweisung* vor der Benutzung des Geräts aufmerksam lesen.
+
+  Cette chanson grégorienne est composée dans un *mode* lydien.
+  Dieser gregorianische Gesang ist in der lydischen *Tonart* komponiert.
+
+  L'ordinateur fonctionne en *mode* veille pour économiser l'énergie.
+  Der Computer läuft im *Standby-Modus*, um Energie zu sparen.
+
+  La *mode* pour enfants devient de plus en plus créative.
+  Die Kinder*mode* wird immer kreativer.
+
+  Je préfère travailler en *mode* déconnecté dans l'avion.
+  Ich arbeite im Flugzeug lieber im *Offline-Modus*.
+
+  Elle suit toujours la dernière *mode*.
+  Sie folgt immer der neuesten *Mode*.
+
+  Le *mode* majeur donne une impression de gaieté à la musique.
+  Die Dur*tonart* gibt der Musik einen fröhlichen Eindruck.
+
+  Ce restaurant propose des tripes à la *mode* de Caen.
+  Dieses Restaurant bietet Kutteln nach Caener *Art*.
+
+  Son *mode* de transport préféré est le vélo.
+  Seine bevorzugte Transport*art* ist das Fahrrad.
+
+  Pierre est mon cousin à la *mode* de Bretagne.
+  Pierre ist mein *weit entfernter* Cousin.
+
+  La *mode* des cheveux colorés ne durera pas longtemps.
+  Die *Mode* der bunten Haare wird nicht lange anhalten.
+
+  Le téléphone est passé en *mode* avion pendant le vol.
+  Das Telefon wurde während des Flugs in den Flug*modus* geschaltet.
+
+  Cette robe *mode* fait sensation sur les réseaux sociaux.
+  Dieses *modische* Kleid sorgt in den sozialen Medien für Aufsehen.
+
+  Le *mode* de paiement par carte devient la norme.
+  Die Zahlungs*weise* per Karte wird zum Standard.
+
+  Les mini-jupes sont revenues à la *mode*.
+  Die Miniröcke sind wieder in *Mode* gekommen.
+
+  Le *mode* de scrutin a changé pour les élections.
+  Der Wahl*modus* hat sich für die Wahlen geändert.
+
+  Elle travaille dans la *mode* depuis vingt ans.
+  Sie arbeitet seit zwanzig Jahren in der *Mode*branche.
+
+  Le *mode* de fonctionnement de cette machine est simple.
+  Die Funktions*weise* dieser Maschine ist einfach.
+
+  Nous avons préparé un bœuf *mode* pour le dîner.
+  Wir haben für das Abendessen Rinderschmorbraten mit Karotten und Zwiebeln zubereitet.
+
+  Cette application propose un nouveau *mode* assistant très pratique.
+  Diese Anwendung bietet einen praktischen neuen Hilfe*modus*.
+
+  La *mode* des années 20 inspire encore les créateurs.
+  Die *Mode* der 20er Jahre inspiriert die Designer noch immer.
+
+  Le *mode* de calcul des impôts a été simplifié.
+  Die Berechnungs*methode* der Steuern wurde vereinfacht.
+
+  Cette boutique vend des vêtements très *mode*.
+  Dieser Laden verkauft sehr *modische* Kleidung.
+
+  Le *mode* de transmission du virus reste mystérieux.
+  Die Übertragungs*art* des Virus bleibt mysteriös.
+
+  La *mode* des selfies est devenue un phénomène mondial.
+  Die Selfie-*Mode* ist zu einem weltweiten Phänomen geworden.
+
+  Le *mode* séquentiel permet un traitement plus précis.
+  Der Sequenz*modus* ermöglicht eine präzisere Verarbeitung.
+
+  Cette veste n'est plus à la *mode* depuis longtemps.
+  Diese Jacke ist schon lange nicht mehr *in Mode*.
+
+  Le *mode* de garde alternée devient plus courant.
+  Die alternierende Betreuungs*form* wird immer häufiger.
+
+  Les magazines de *mode* influencent les tendances.
+  *Mode*magazine beeinflussen die Trends.
+
+  L'imprimante est passée en *mode* économique.
+  Der Drucker ist in den Spar*modus* gewechselt.
+
+  La *mode* rétro fait fureur cette saison.
+  Die Retro-*Mode* ist diese Saison der große Renner.
+
+  Le *mode* de conservation des aliments a évolué.
+  Die Konservierungs*methode* für Lebensmittel hat sich weiterentwickelt.
+
+  Ces chaussures sont complètement passées de *mode*.
+  Diese Schuhe sind völlig aus der *Mode* gekommen.
+
+  Le *mode* de gestion de l'entreprise doit changer.
+  Die Verwaltungs*weise* des Unternehmens muss sich ändern.
+
+  La *mode* des pantalons larges revient en force.
+  Die *Mode* der weiten Hosen kommt mit Macht zurück.
+
+  L'appareil photo dispose d'un *mode* manuel.
+  Die Kamera verfügt über einen Manual*modus*.
+
+  Cette coiffure était à la *mode* l'été dernier.
+  Diese Frisur war letzten Sommer *in Mode*.
+
+  Le *mode* de production respecte l'environnement.
+  Die Produktions*weise* ist umweltfreundlich.
+
+  La *mode* des tatouages ne cesse de progresser.
+  Die Tattoo-*Mode* breitet sich weiter aus.
+
+  L'écran est passé en *mode* veille automatiquement.
+  Der Bildschirm ist automatisch in den Standby-*Modus* gegangen.
+
+  Cette tendance n'est qu'un phénomène de *mode*.
+  Dieser Trend ist nur eine Zeit*erscheinung*.
+
+  Le *mode* de préparation varie selon les régions.
+  Die Zubereitungs*art* variiert je nach Region.
+
+  La *mode* masculine évolue plus lentement.
+  Die Herren*mode* entwickelt sich langsamer.
+
+  Ce logiciel propose un *mode* correction d'erreurs.
+  Diese Software bietet einen Fehlerkorrektur*modus*.
+
+  La *mode* des chapeaux fait son grand retour.
+  Die Hut*mode* feiert ihr großes Comeback.
+
+  Le *mode* de distribution traditionnel disparaît peu à peu.
+  Die traditionelle Verteilungs*form* verschwindet nach und nach.
+
+  Cette jupe est très *mode* cette saison.
+  Dieser Rock ist diese Saison sehr *modisch*.
+
+  Le *mode* de scrutin proportionnel favorise les petits partis.
+  Das Verhältniswahl*system* begünstigt kleine Parteien.
+
+  La *mode* des années 90 inspire les jeunes créateurs.
+  Die *Mode* der 90er Jahre inspiriert junge Designer.
+
+  Le *mode* de livraison express coûte plus cher.
+  Die Express-Liefer*art* kostet mehr.
+
+  Cette robe était à la *mode* il y a cent ans.
+  Dieses Kleid war vor hundert Jahren *in Mode*.
+
+  Le *mode* de cuisson influence le goût final.
+  Die Koch*methode* beeinflusst den endgültigen Geschmack.
+
+  La *mode* des baskets de sport en ville continue.
+  Die *Mode* der Sportschuhe in der Stadt hält an.
+
+  Le *mode* texte suffit pour ce document simple.
+  Der Text*modus* reicht für dieses einfache Dokument.
+
+  La *mode* du vintage attire les jeunes.
+  Die Vintage-*Mode* zieht junge Leute an.
+
+  Le *mode* de communication a changé avec internet.
+  Die Kommunikations*weise* hat sich durch das Internet verändert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

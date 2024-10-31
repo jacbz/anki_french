@@ -13,41 +13,119 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il avait éteint le moteur.
-  Er hatte den Motor ausgeschaltet.
+  Il avait éteint le *moteur*.
+  Er hatte den *Motor* ausgeschaltet.
 
-  Le moteur de la voiture est en panne.
-  Der Motor des Autos ist kaputt.
+  Le *moteur* à essence consomme trop de carburant.
+  Der Benzin*motor* verbraucht zu viel Kraftstoff.
 
-  La voiture possède un moteur essence performant.
-  Das Auto hat einen leistungsstarken Benzinmotor.
+  Nous avons acheté une voiture avec un *moteur* diesel.
+  Wir haben ein Auto mit *Motor* gekauft.
 
-  Il a utilisé le frein moteur pour ralentir la voiture.
-  Er hat die Motorbremse genutzt, um das Auto zu verlangsamen.
+  Le *moteur* à gaz est plus écologique.
+  Der Gas*motor* ist umweltfreundlicher.
 
-  Le tourisme est un moteur de l'activité économique.
-  Der Tourismus ist ein Konjunkturmotor.
+  Le *moteur* à carburateur fait un bruit étrange.
+  Der Vergaser*motor* macht ein seltsames Geräusch.
 
-  Les poids lourds sont équipés de moteurs diesel.
-  Lastwagen sind mit Dieselmotoren ausgestattet.
+  Son nouveau *moteur* à injection est très performant.
+  Sein neuer Einspritz*motor* ist sehr leistungsstark.
 
-  Les voitures anciennes avaient souvent des moteurs à carburateur.
-  Ältere Autos hatten oft Vergasermotoren.
+  Ce *moteur* quatre-temps tourne parfaitement.
+  Dieser Viertakt*motor* läuft einwandfrei.
 
-  Les voitures modernes sont équipées de moteurs à injection.
-  Moderne Autos sind mit Einspritzmotoren ausgestattet.
+  La voiture est équipée d'un *moteur* quatre cylindres.
+  Das Auto ist mit einem Vierzylinder*motor* ausgestattet.
 
-  Le moteur quatre-temps est le plus courant.
-  Der Viertaktmotor ist der gängigste.
+  Le *moteur* en ligne chauffe moins qu'un moteur en V.
+  Der Reihen*motor* wird weniger warm als ein V-Motor.
 
-  Le moteur quatre cylindres est souvent utilisé dans les voitures compactes.
-  Der Vierzylindermotor wird oft in Kompaktwagen verwendet.
+  L'avion a perdu un *moteur* à réaction pendant le vol.
+  Das Flugzeug hat während des Flugs ein *Triebwerk* verloren.
 
-  Le moteur en ligne est le plus simple à construire.
-  Der Reihenmotor ist am einfachsten zu bauen.
+  Le *moteur* en V produit plus de puissance.
+  Der V-*Motor* erzeugt mehr Leistung.
 
-  L'avion est propulsé par un moteur à réaction.
-  Das Flugzeug wird von einem Triebwerk angetrieben.
+  Ce *moteur* aspiré est idéal pour les débutants.
+  Dieser Saug*motor* ist ideal für Anfänger.
+
+  Le *moteur* universel fonctionne sur tous les types de courant.
+  Der Universal*motor* funktioniert mit allen Stromarten.
+
+  La consommation est le *moteur* de l'activité économique.
+  Der Konsum ist der Konjunktur*motor*.
+
+  L'innovation est le *moteur* de la croissance.
+  Innovation ist der Wachstums*motor*.
+
+  Marie est le *moteur* de notre équipe.
+  Marie ist die *treibende Kraft* in unserem Team.
+
+  Le frein *moteur* aide dans les descentes.
+  Die *Motor*bremse hilft beim Bergabfahren.
+
+  Les nerfs *moteurs* contrôlent les mouvements du corps.
+  Die *motorischen* Nerven steuern die Körperbewegungen.
+
+  La roue *motrice* avant est bloquée.
+  Das vordere *Antriebs*rad ist blockiert.
+
+  Les muscles *moteurs* des yeux sont très sensibles.
+  Die *motorischen* Augenmuskeln sind sehr empfindlich.
+
+  Cette voiture a quatre roues *motrices*.
+  Dieses Auto hat *Antrieb* auf allen vier Rädern.
+
+  Google est le plus grand *moteur* de recherche au monde.
+  Google ist die größte Such*maschine* der Welt.
+
+  Le *moteur* électrique ne fait presque pas de bruit.
+  Der Elektro*motor* macht fast keine Geräusche.
+
+  Ce *moteur* de 750 cm³ est parfait pour les débutants.
+  Dieser *Motor* mit 750 Kubik ist perfekt für Anfänger.
+
+  Les troubles *moteurs* peuvent affecter la qualité de vie.
+  *Motorische* Störungen können die Lebensqualität beeinträchtigen.
+
+  Pierre est l'élément *moteur* du projet.
+  Pierre ist die *treibende Kraft* des Projekts.
+
+  Le *moteur* à combustion interne doit être révisé.
+  Der Verbrennungs*motor* muss überholt werden.
+
+  Les neurones *moteurs* transmettent les signaux aux muscles.
+  Die *motorischen* Neuronen übertragen die Signale an die Muskeln.
+
+  Le *moteur* principal de l'avion est tombé en panne.
+  Der Haupt*motor* des Flugzeugs ist ausgefallen.
+
+  La force *motrice* de cette machine est impressionnante.
+  Die *Antriebs*kraft dieser Maschine ist beeindruckend.
+
+  Thomas est le *moteur* de l'entreprise depuis vingt ans.
+  Thomas ist seit zwanzig Jahren die *treibende Kraft* des Unternehmens.
+
+  Le désir de réussir était son *moteur*.
+  Der Wunsch nach Erfolg war sein *Antrieb*.
+
+  Le *moteur* deux-temps pollue plus que le quatre-temps.
+  Der Zweitakt*motor* verschmutzt mehr als der Viertaktmotor.
+
+  Les progrès techniques sont le *moteur* du développement.
+  Der technische Fortschritt ist der *Motor* der Entwicklung.
+
+  Le système *moteur* du robot est défectueux.
+  Das *Antriebs*system des Roboters ist defekt.
+
+  Le bloc-*moteur* doit être remplacé.
+  Der *Motor*block muss ersetzt werden.
+
+  L'ambition est le *moteur* de sa réussite.
+  Ehrgeiz ist der *Motor* seines Erfolgs.
+
+  La curiosité est le *moteur* de la science.
+  Neugier ist der *Motor* der Wissenschaft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,29 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle peut être traduite dans un langage mathématique précis.
-  Sie kann in eine bestimmte mathematische Sprache übersetzt werden.
+  Elle peut être *traduite* dans un langage mathématique précis.
+  Sie kann in eine präzise mathematische Sprache *übersetzt* werden.
 
-  Je dois traduire ce texte en allemand.
-  Ich muss diesen Text ins Deutsche übersetzen.
+  Je suis en train de *traduire* un article de l'anglais vers le français.
+  Ich *übersetze* gerade einen Artikel vom Englischen ins Französische.
 
-  On peut traduire Goethe de l'allemand en français.
-  Man kann Goethe vom Deutschen ins Französische übersetzen.
+  Son dernier roman a été *traduit* en quinze langues.
+  Sein letzter Roman wurde in fünfzehn Sprachen *übersetzt*.
 
-  Ce proverbe se traduit en une image.
-  Dieser Spruch lässt sich in ein Bild übersetzen.
+  La colère se *traduisait* sur son visage par une rougeur intense.
+  Die Wut *drückte* sich durch eine intensive Röte auf seinem Gesicht *aus*.
 
-  L'œuvre de Proust se traduit par une exploration de la mémoire.
-  Prousts Werk drückt sich in einer Erkundung der Erinnerung aus.
+  Cette décision politique s'est *traduite* par une augmentation du chômage.
+  Diese politische Entscheidung hat sich in einem Anstieg der Arbeitslosigkeit *ausgewirkt*.
 
-  Sa colère se traduisit par des insultes.
-  Sein Zorn drückte sich in Beschimpfungen aus.
+  Le suspect sera *traduit* en justice dès demain matin.
+  Der Verdächtige wird morgen früh vor Gericht *gebracht*.
 
-  La violation des droits de l'homme peut être traduite en justice.
-  Die Verletzung der Menschenrechte ist belangbar.
+  Comment *traduire* ces sentiments complexes en mots simples ?
+  Wie soll man diese komplexen Gefühle in einfache Worte *übersetzen*?
 
-  Les promesses du gouvernement doivent se traduire par des mesures concrètes.
-  Die Versprechen der Regierung müssen in konkrete Maßnahmen umgesetzt werden.
+  Les œuvres de Shakespeare ont été *traduites* dans presque toutes les langues.
+  Shakespeares Werke wurden in fast alle Sprachen *übersetzt*.
+
+  Son silence *traduisait* parfaitement son désaccord.
+  Sein Schweigen *brachte* seine Ablehnung perfekt zum *Ausdruck*.
+
+  Marie *traduit* des livres pour enfants du japonais vers le français.
+  Marie *übersetzt* Kinderbücher vom Japanischen ins Französische.
+
+  Cette baisse des ventes va se *traduire* par des licenciements.
+  Dieser Umsatzrückgang wird sich in Entlassungen *niederschlagen*.
+
+  L'artiste a réussi à *traduire* l'ambiance de la ville dans ses tableaux.
+  Dem Künstler ist es gelungen, die Atmosphäre der Stadt in seinen Bildern *wiederzugeben*.
+
+  Le mécontentement populaire s'est *traduit* dans les urnes.
+  Die Unzufriedenheit des Volkes hat sich an den Wahlurnen *niedergeschlagen*.
+
+  Il faut *traduire* ce document avant la fin de la semaine.
+  Dieses Dokument muss bis zum Ende der Woche *übersetzt* werden.
+
+  Son sourire *traduisait* sa joie immense.
+  Ihr Lächeln *drückte* ihre große Freude *aus*.
+
+  Les criminels seront *traduits* devant les tribunaux.
+  Die Verbrecher werden vor Gericht *gestellt*.
+
+  Comment vas-tu *traduire* cette expression idiomatique ?
+  Wie wirst du diese Redewendung *übersetzen*?
+
+  La crise financière s'est *traduite* par une perte d'emplois.
+  Die Finanzkrise hat sich in Arbeitsplatzverlusten *niedergeschlagen*.
+
+  Je dois *traduire* ce texte mot à mot.
+  Ich muss diesen Text Wort für Wort *übersetzen*.
+
+  Ses gestes *traduisaient* sa nervosité.
+  Seine Gesten *verrieten* seine Nervosität.
+
+  Cette mesure va se *traduire* par des économies importantes.
+  Diese Maßnahme wird zu erheblichen Einsparungen *führen*.
+
+  L'interprète *traduit* la conversation en temps réel.
+  Der Dolmetscher *übersetzt* das Gespräch in Echtzeit.
+
+  Les poèmes sont difficiles à *traduire*.
+  Gedichte sind schwer zu *übersetzen*.
+
+  Son regard *traduisait* une profonde tristesse.
+  Sein Blick *verriet* eine tiefe Traurigkeit.
+
+  Cette amélioration se *traduira* par une hausse des salaires.
+  Diese Verbesserung wird sich in einer Lohnerhöhung *niederschlagen*.
+
+  Il a été *traduit* devant le juge pour ses actes.
+  Er wurde wegen seiner Taten vor den Richter *gebracht*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

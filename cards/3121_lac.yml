@@ -13,44 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je vais vous faire courir autour du lac.
-  Ich werde Sie um den See laufen lassen.
+  Je vais vous faire courir autour du *lac*.
+  Ich werde euch um den *See* herum laufen lassen.
 
-  Nous avons fait une promenade autour du lac.
-  Wir haben einen Spaziergang um den See gemacht.
+  Le *lac* de Constance est situé entre l'Allemagne, l'Autriche et la Suisse.
+  Der Boden*see* liegt zwischen Deutschland, Österreich und der Schweiz.
 
-  Le lac est grand.
-  Der See ist groß.
+  Les eaux du *lac* Léman sont particulièrement claires aujourd'hui.
+  Die Gewässer des Genfer *Sees* sind heute besonders klar.
 
-  Enfin, nous sommes arrivés au lac.
-  Schließlich erreichten wir den See.
+  Nous avons passé nos vacances au bord du *lac* de Neuchâtel.
+  Wir haben unseren Urlaub am Neuenburger *See* verbracht.
 
-  Cet hôtel est très proche du lac.
-  Das Hotel liegt sehr nah am See.
+  Le *lac* des Quatre-Cantons est entouré de montagnes majestueuses.
+  Der Vierwaldstätter *See* ist von majestätischen Bergen umgeben.
 
-  Le lac de montagne est un endroit magnifique où l'on peut se détendre et profiter de la nature.
-  Ein Gebirgssee ist ein wunderschöner Ort, an dem man sich entspannen und die Natur genießen kann.
+  Ce petit *lac* de montagne est accessible uniquement à pied.
+  Dieser kleine Gebirgs*see* ist nur zu Fuß erreichbar.
 
-  Je suis tombé dans le lac, mais je me suis immédiatement relevé.
-  Ich bin ins Wasser gefallen, aber ich habe mich sofort wieder hochgezogen.
+  "Il n'y a pas le feu au *lac*, prenons notre temps !"
+  "Es eilt nicht, lass uns Zeit lassen!"
 
-  Le lac Majeur est l'un des plus grands lacs d'Italie.
-  Der Lago Maggiore ist einer der größten Seen Italiens.
+  Un magnifique *lac* artificiel a été créé pour produire de l'électricité.
+  Ein wunderschöner künstlicher *See* wurde zur Stromerzeugung angelegt.
 
-  Le lac Supérieur est le plus grand des Grands Lacs d'Amérique du Nord.
-  Der Obere See ist der größte der Großen Seen in Nordamerika.
+  Les poissons nagent tranquillement dans le *lac* aux eaux limpides.
+  Die Fische schwimmen ruhig im kristallklaren *See*.
 
-  Le lac de Constance est un lac partagé entre l'Allemagne, l'Autriche et la Suisse.
-  Der Bodensee ist ein See, der zwischen Deutschland, Österreich und der Schweiz liegt.
+  Le niveau du *lac* a considérablement baissé pendant la sécheresse.
+  Der Wasserstand des *Sees* ist während der Trockenheit erheblich gesunken.
 
-  Le lac Léman est le plus grand lac d'Europe occidentale.
-  Der Genfer See ist der größte See Westeuropas.
+  Un petit bateau navigue au milieu du *lac*.
+  Ein kleines Boot fährt mitten auf dem *See*.
 
-  Le lac de Neuchâtel est un lac de Suisse.
-  Der Neuenburger See ist ein See in der Schweiz.
+  Les enfants ont fait le tour du *lac* à vélo.
+  Die Kinder sind mit dem Fahrrad um den *See* gefahren.
 
-  Le lac des Quatre-Cantons est un lac de Suisse centrale.
-  Der Vierwaldstätter See ist ein See in der Zentralschweiz.
+  De nombreux oiseaux migrateurs se posent sur ce *lac* en automne.
+  Viele Zugvögel lassen sich im Herbst auf diesem *See* nieder.
+
+  Le *lac* glaciaire s'est formé il y a des milliers d'années.
+  Der Gletscher*see* hat sich vor tausenden von Jahren gebildet.
+
+  Le barrage a créé un nouveau *lac* de retenue dans la vallée.
+  Der Staudamm hat einen neuen Stau*see* im Tal geschaffen.
+
+  "Leur projet est tombé dans le *lac*."
+  "Ihr Projekt ist ins Wasser gefallen."
+
+  Un *lac* de boue s'est formé après les fortes pluies.
+  Nach dem starken Regen hat sich ein Schlamm*see* gebildet.
+
+  Les touristes admirent la vue sur le *lac* Majeur depuis la terrasse.
+  Die Touristen bewundern die Aussicht auf den Lago Maggiore von der Terrasse aus.
+
+  Le *lac* Supérieur est le plus grand des Grands Lacs d'Amérique du Nord.
+  Der Obere *See* ist der größte der nordamerikanischen Großen Seen.
+
+  Les autorités ont décidé d'assécher ce *lac* pour des raisons écologiques.
+  Die Behörden haben beschlossen, diesen *See* aus ökologischen Gründen trockenzulegen.
+
+  La légende raconte qu'un monstre vit dans ce *lac* profond.
+  Der Legende nach lebt ein Monster in diesem tiefen *See*.
+
+  Les amoureux se promènent au bord du *lac* au clair de lune.
+  Die Verliebten spazieren im Mondschein am *See* entlang.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

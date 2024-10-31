@@ -13,20 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La situation semblait s’améliorer.
-  Die Situation schien sich zu verbessern.
+  La situation semblait *s'améliorer*.
+  Die Situation schien sich zu *bessern*.
 
-  Nous devons améliorer notre performance.
-  Wir müssen unsere Leistung verbessern.
+  Nous devons *améliorer* la qualité de nos produits.
+  Wir müssen die Qualität unserer Produkte *verbessern*.
 
-  Jean a décidé d'améliorer son immeuble en y installant le chauffage central.
-  Jean hat beschlossen, sein Haus durch den Einbau einer Zentralheizung aufzuwerten.
+  Le vin *s'améliore* avec l'âge.
+  Der Wein *verbessert* sich mit dem Alter.
 
-  Tu ne t'améliores pas! Tu fais toujours les mêmes erreurs.
-  Du wirst auch nicht besser! Du machst immer die gleichen Fehler.
+  "Tu ne *t'améliores* pas du tout !"
+  "Du *besserst* dich überhaupt nicht!"
 
-  La maison, qui est vieille et délabrée, mérite d'être améliorée.
-  Das Haus, das alt und heruntergekommen ist, ist ausbauwürdig.
+  Les agriculteurs ont *amélioré* la fertilité du sol.
+  Die Landwirte haben die Fruchtbarkeit des Bodens *verbessert*.
+
+  Il faut *améliorer* le confort de cet appartement.
+  Der Komfort dieser Wohnung muss *gesteigert* werden.
+
+  Sa santé *s'est améliorée* depuis qu'il fait du sport.
+  Seine Gesundheit hat sich *gebessert*, seit er Sport treibt.
+
+  Les ingénieurs continuent d'*améliorer* le prototype.
+  Die Ingenieure *verbessern* den Prototyp weiter.
+
+  Nous avons *amélioré* notre maison en installant le chauffage central.
+  Wir haben unser Haus durch den Einbau einer Zentralheizung *aufgewertet*.
+
+  Le temps devrait *s'améliorer* dans les prochains jours.
+  Das Wetter soll sich in den nächsten Tagen *bessern*.
+
+  Cette vieille maison mérite d'être *améliorée*.
+  Dieses alte Haus ist es wert, *ausgebaut* zu werden.
+
+  Les conditions de travail se sont considérablement *améliorées*.
+  Die Arbeitsbedingungen haben sich erheblich *verbessert*.
+
+  Il faut *améliorer* notre budget pour l'année prochaine.
+  Wir müssen unser Budget für nächstes Jahr *aufbessern*.
+
+  Son caractère *s'est amélioré* depuis qu'il médite.
+  Sein Charakter hat sich *gebessert*, seit er meditiert.
+
+  Les relations entre nos pays se sont *améliorées*.
+  Die Beziehungen zwischen unseren Ländern haben sich *verbessert*.
+
+  Nous devons *améliorer* le rendement de cette machine.
+  Wir müssen die Leistung dieser Maschine *steigern*.
+
+  Elle a beaucoup *amélioré* son français.
+  Sie hat ihr Französisch stark *verbessert*.
+
+  L'entreprise a *amélioré* sa production de 20%.
+  Das Unternehmen hat seine Produktion um 20% *gesteigert*.
+
+  Le cadre de vie s'est *amélioré* dans ce quartier.
+  Die Lebensqualität hat sich in diesem Viertel *verbessert*.
+
+  Les médecins ont réussi à *améliorer* son état de santé.
+  Die Ärzte konnten seinen Gesundheitszustand *verbessern*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,41 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis un document vivant!
-  Ich bin ein lebendes Dokument!
+  Je suis un *document* vivant !
+  Ich bin ein lebendiges *Dokument*!
 
-  Je dois imprimer ce document.
-  Ich muss dieses Dokument ausdrucken.
+  Pour votre sécurité, gardez ce *document* dans un endroit sûr.
+  Bewahren Sie dieses *Dokument* zu Ihrer Sicherheit an einem sicheren Ort auf.
 
-  Je vous ai dit de signer le document.
-  Ich habe Ihnen gesagt, dass Sie das Dokument unterschreiben sollen.
+  Les *documents* historiques prouvent que cette ville existait déjà au Moyen Âge.
+  Die historischen *Quellen* beweisen, dass diese Stadt bereits im Mittelalter existierte.
 
-  Il va me falloir plus de trois heures pour lire le document.
-  Ich werde mehr als drei Stunden brauchen, um das Dokument zu lesen.
+  J'ai besoin de ce *document* comptable pour ma déclaration d'impôts.
+  Ich brauche diesen *Beleg* für meine Steuererklärung.
 
-  Le document d'expédition a été égaré par le transporteur.
-  Das Versanddokument wurde vom Spediteur verloren.
+  Le service des archives numérise tous les vieux *documents*.
+  Das Archiv digitalisiert alle alten *Dokumente*.
 
-  Les documents comptables doivent être tenus à jour.
-  Die Buchhaltungsunterlagen müssen auf dem neuesten Stand gehalten werden.
+  N'oubliez pas d'apporter tous vos *documents* d'assurance.
+  Vergessen Sie nicht, alle *Versicherungs*unterlagen mitzubringen.
 
-  Le document probatoire présenté par le témoin est crucial pour l'enquête.
-  Die von dem Zeugen vorgelegte Beweisurkunde ist für die Untersuchung entscheidend.
+  As-tu vérifié les *documents* d'expédition ?
+  Hast du die *Versand*papiere überprüft?
 
-  Il faut réunir les documents nécessaires pour le voyage avant de partir.
-  Man muss vor der Reise die notwendigen Reiseunterlagen zusammenstellen.
+  Ces *documents* d'accompagnement doivent être signés par le directeur.
+  Diese *Begleit*papiere müssen vom Direktor unterschrieben werden.
 
-  Les documents d'accompagnement doivent être joints à la lettre de candidature.
-  Die Begleitpapiere müssen der Bewerbung beigefügt werden.
+  La police a trouvé un *document* qui prouve son innocence.
+  Die Polizei hat ein *Beweisstück* gefunden, das seine Unschuld beweist.
 
-  Les documents d'assurance doivent être remis à l'agent d'assurance.
-  Die Versicherungsunterlagen müssen dem Versicherungsagenten übergeben werden.
+  Le système a automatiquement sauvegardé le *document* source.
+  Das System hat das *Original*dokument automatisch gespeichert.
 
-  Les documents d'embarquement doivent être imprimés avant d'aller à l'aéroport.
-  Die Verschiffungspapiere müssen ausgedruckt werden, bevor man zum Flughafen geht.
+  Tous les *documents* comptables doivent être conservés pendant dix ans.
+  Alle *Buchhaltungs*unterlagen müssen zehn Jahre lang aufbewahrt werden.
 
-  Le document source a été détruit lors de l'incendie.
-  Das Originaldokument wurde beim Brand zerstört.
+  Avez-vous tous vos *documents* de voyage ?
+  Haben Sie alle *Reise*unterlagen dabei?
+
+  Ce *document* sonore date des années cinquante.
+  Diese *Ton*aufnahme stammt aus den fünfziger Jahren.
+
+  Il faut archiver ce *document* important immédiatement.
+  Dieses wichtige *Dokument* muss sofort archiviert werden.
+
+  Le musée expose des *documents* photographiques rares.
+  Das Museum stellt seltene fotografische *Dokumente* aus.
+
+  As-tu imprimé le *document* pour la réunion ?
+  Hast du den *Ausdruck* für die Besprechung gemacht?
+
+  Les *documents* d'embarquement doivent être présentés au port.
+  Die *Verschiffungs*papiere müssen im Hafen vorgelegt werden.
+
+  Ce *document* administratif doit être signé en trois exemplaires.
+  Dieses Verwaltungs*dokument* muss in dreifacher Ausfertigung unterschrieben werden.
+
+  J'ai rangé tous les *documents* dans le classeur bleu.
+  Ich habe alle *Unterlagen* in den blauen Ordner eingeordnet.
+
+  Le *document* original est conservé aux archives nationales.
+  Das Original*dokument* wird im Nationalarchiv aufbewahrt.
+
+  Ces *documents* accablants ont été présentés au tribunal.
+  Diese belastenden *Beweisstücke* wurden dem Gericht vorgelegt.
+
+  Les chercheurs ont découvert un *document* inédit du XVIIIe siècle.
+  Die Forscher haben eine unveröffentlichte *Quelle* aus dem 18. Jahrhundert entdeckt.
+
+  Je dois rassembler tous les *documents* nécessaires pour ma demande de visa.
+  Ich muss alle erforderlichen *Unterlagen* für meinen Visumantrag zusammenstellen.
+
+  Ce *document* officiel porte le sceau de la République.
+  Dieses offizielle *Dokument* trägt das Siegel der Republik.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

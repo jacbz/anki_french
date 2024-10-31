@@ -13,14 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Rappelez-vous où vous étiez le 1er novembre?
-  Erinnern Sie sich, wo Sie am 1. November waren?
+  Rappelez-vous où vous étiez le 1er *novembre* ?
+  Erinnern Sie sich, wo Sie am 1. *November* waren?
 
-  Mon anniversaire est en novembre.
-  Mein Geburtstag ist im November.
+  En *novembre*, le ciel est souvent gris et nuageux.
+  Im *November* ist der Himmel oft grau und bewölkt.
 
-  En France, le 11 novembre est férié, car c'est la Journée de l'Armistice.
-  Der 11. November ist in Frankreich ein Feiertag, denn es ist der Tag des Waffenstillstands.
+  Le 11 *novembre* est un jour férié en France.
+  Der 11. *November* ist in Frankreich ein Feiertag.
+
+  Nous fêterons la Toussaint le premier *novembre*.
+  Wir werden am ersten *November* Allerheiligen feiern.
+
+  Les températures en *novembre* sont plus basses que d'habitude cette année.
+  Die Temperaturen im *November* sind dieses Jahr niedriger als gewöhnlich.
+
+  L'armistice a été signé le 11 *novembre* 1918.
+  Der Waffenstillstand wurde am 11. *November* 1918 unterzeichnet.
+
+  Les brumes de *novembre* enveloppent le paysage.
+  Die *November*nebel hüllen die Landschaft ein.
+
+  Mon fils est né un matin de *novembre*.
+  Mein Sohn wurde an einem *November*morgen geboren.
+
+  Le 11 *novembre* 1942, les Allemands ont occupé toute la France.
+  Am 11. *November* 1942 besetzten die Deutschen ganz Frankreich.
+
+  Fin *novembre*, nous commencerons les préparatifs de Noël.
+  Ende *November* werden wir mit den Weihnachtsvorbereitungen beginnen.
+
+  Le marché de Noël ouvre ses portes mi-*novembre*.
+  Der Weihnachtsmarkt öffnet Mitte *November* seine Tore.
+
+  Les élections auront lieu en *novembre* prochain.
+  Die Wahlen werden im nächsten *November* stattfinden.
+
+  Cette année, *novembre* a été particulièrement doux.
+  Dieses Jahr war der *November* besonders mild.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,50 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je serais professeur dans un lycée.
-  Ich würde Lehrer an einem Gymnasium werden.
+  Je serais *professeur* dans un lycée.
+  Ich wäre *Lehrer* an einem Gymnasium.
 
-  Le professeur enseigne les mathématiques.
-  Der Lehrer unterrichtet Mathematik.
+  Le *professeur* d'allemand nous a donné beaucoup de devoirs aujourd'hui.
+  Der Deutsch*lehrer* hat uns heute viele Hausaufgaben gegeben.
 
-  Je suis professeur.
-  Ich bin Lehrerin.
+  Notre *professeure* de mathématiques explique très clairement les équations.
+  Unsere Mathematik*lehrerin* erklärt die Gleichungen sehr klar.
 
-  Vous êtes le professeur de mon enfant.
-  Sie sind die Lehrerin meines Kindes.
+  As-tu déjà rencontré le nouveau *professeur* de sciences naturelles ?
+  Hast du den neuen *Lehrer* für Naturwissenschaften schon kennengelernt?
 
-  Il parle comme s’il était un professeur.
-  Er spricht, als wäre er ein Lehrer.
+  Ma *professeure* de piano m'encourage toujours à participer aux concours.
+  Meine Klavier*lehrerin* ermutigt mich immer, an Wettbewerben teilzunehmen.
 
-  Madame Dupont est professeur d'anglais au lycée.
-  Frau Dupont ist Englischlehrerin am Gymnasium.
+  Le *professeur* particulier aide mon fils à progresser en anglais.
+  Der Privat*lehrer* hilft meinem Sohn, sich in Englisch zu verbessern.
 
-  Son mari est professeur de droit à l'université.
-  Ihr Mann ist Professor für Recht an der Universität.
+  Marie est *professeure* principale de la classe de 4èmeB.
+  Marie ist die Klassen*lehrerin* der 8B.
 
-  Leur fille, Anne, veut devenir professeur de mathématiques.
-  Ihre Tochter Anne möchte Mathematiklehrerin werden.
+  En raison du manque de *professeurs*, certains cours ont été annulés.
+  Wegen des *Lehrer*mangels sind einige Kurse ausgefallen.
 
-  Pendant son temps libre, Anne donne des cours de piano à des enfants.
-  In ihrer Freizeit gibt Anne Klavierunterricht für Kinder.
+  Le *professeur* de droit a publié un nouveau livre sur le droit constitutionnel.
+  Der *Professor* für Recht hat ein neues Buch über Verfassungsrecht veröffentlicht.
 
-  Elle est professeur auxiliaire dans une école primaire.
-  Sie ist Hilfslehrerin in einer Grundschule.
+  Cette *professeure* émérite continue à donner des conférences.
+  Diese emeritierte *Professorin* hält weiterhin Vorträge.
 
-  Son frère, Paul, est un jeune professeur de sciences naturelles.
-  Ihr Bruder Paul ist ein junger Lehrer für Naturwissenschaften.
+  La salle des *professeurs* est au premier étage.
+  Das *Lehrer*zimmer ist im ersten Stock.
 
-  Il rêve de devenir professeur de théâtre un jour.
-  Er träumt davon, eines Tages Schauspiellehrer zu werden.
+  Le conseil des *professeurs* se réunira mardi prochain.
+  Die *Lehrer*konferenz findet nächsten Dienstag statt.
 
-  Leur mère est professeur de langue à la retraite.
-  Ihre Mutter ist Sprachlehrerin im Ruhestand.
+  Mon frère est devenu *professeur* des écoles l'année dernière.
+  Mein Bruder ist letztes Jahr Grund*schul*lehrer geworden.
 
-  Elle donne maintenant des cours particuliers de français à des adultes.
-  Sie gibt jetzt Französisch-Privatunterricht für Erwachsene.
+  Cette *professeure* de théâtre nous apprend à mieux nous exprimer.
+  Diese Theater*lehrerin* bringt uns bei, uns besser auszudrücken.
 
-  Le père d'Anne et Paul est professeur de dessin dans une école d'art.
-  Der Vater von Anne und Paul ist Zeichenlehrer an einer Kunstschule.
+  Le *professeur* de chant a annulé le cours d'aujourd'hui.
+  Der Gesangs*lehrer* hat den heutigen Unterricht abgesagt.
+
+  La jeune *professeure* organise souvent des sorties scolaires.
+  Die Jung*lehrerin* organisiert oft Schulausflüge.
+
+  Notre *professeure* de danse exige beaucoup de discipline.
+  Unsere Tanz*lehrerin* verlangt viel Disziplin.
+
+  Le *professeur* auxiliaire remplace Madame Martin pendant son congé.
+  Der Hilfs*lehrer* vertritt Frau Martin während ihrer Abwesenheit.
+
+  Les *professeurs* en sureffectif seront affectés à d'autres établissements.
+  Die überzähligen *Lehrer* werden anderen Schulen zugewiesen.
+
+  Ce *professeur* de médecine dirige le service de cardiologie.
+  Dieser *Professor* für Medizin leitet die kardiologische Abteilung.
+
+  La formation des *professeurs* dure plusieurs années.
+  Die *Lehrer*ausbildung dauert mehrere Jahre.
+
+  Le *professeur* de latin nous fait découvrir la culture antique.
+  Der Latein*lehrer* bringt uns die antike Kultur näher.
+
+  Un bon *professeur* sait adapter son enseignement aux élèves.
+  Ein guter *Lehrer* kann seinen Unterricht an die Schüler anpassen.
+
+  La nouvelle *professeure* de dessin encourage la créativité.
+  Die neue Zeichen*lehrerin* fördert die Kreativität.
+
+  Le *professeur* agrégé a obtenu son poste au concours.
+  Der *Lehrer* hat seine Stelle durch die Agrégation erhalten.
+
+  Cette *professeure* associée vient du monde de l'entreprise.
+  Diese assoziierte *Professorin* kommt aus der Wirtschaft.
+
+  Un *professeur* doit savoir maintenir l'ordre dans sa classe.
+  Ein *Lehrer* muss Ordnung in seiner Klasse halten können.
+
+  Les *professeurs* participent à la réunion parents-professeurs ce soir.
+  Die *Lehrer* nehmen heute Abend am Elternsprech*tag* teil.
+
+  Le *professeur* de langue nous fait beaucoup parler en classe.
+  Der Sprach*lehrer* lässt uns im Unterricht viel sprechen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

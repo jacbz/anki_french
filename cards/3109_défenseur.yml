@@ -13,20 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mon fusil et moi sommes les défenseurs de ma patrie.
-  Mein Gewehr und ich sind die Verteidiger meines Heimatlandes.
+  Mon fusil et moi sommes les *défenseurs* de ma patrie.
+  Mein Gewehr und ich sind die *Verteidiger* unseres Vaterlandes.
 
-  Le défenseur a arrêté le ballon.
-  Der Verteidiger hat den Ball gestoppt.
+  Les *défenseurs* de la citadelle ont résisté pendant trois mois au siège.
+  Die *Verteidiger* der Zitadelle haben der Belagerung drei Monate lang standgehalten.
 
-  Le défenseur des droits de l'Homme a consacré sa vie à la lutte contre l'injustice.
-  Der Verteidiger der Menschenrechte hat sein Leben der Bekämpfung der Ungerechtigkeit gewidmet.
+  Notre équipe a besoin d'un nouveau *défenseur* depuis la blessure de Pierre.
+  Unser Team braucht seit Pierres Verletzung einen neuen *Verteidiger*.
 
-  Le défenseur de l'environnement a alerté sur les dangers du réchauffement climatique.
-  Der Umweltschützer hat vor den Gefahren der globalen Erwärmung gewarnt.
+  Le *défenseur* a marqué un but spectaculaire à la dernière minute.
+  Der *Verteidiger* hat in der letzten Minute ein spektakuläres Tor geschossen.
 
-  Le défenseur de la paix a plaidé pour le dialogue et la compréhension mutuelle entre les peuples.
-  Der Verfechter des Friedens hat für Dialog und gegenseitiges Verständnis zwischen den Völkern geworben.
+  Marie est une *défenseure* passionnée des droits des enfants.
+  Marie ist eine leidenschaftliche *Verfechterin* der Kinderrechte.
+
+  Le tribunal a désigné un *défenseur* d'office pour l'accusé.
+  Das Gericht hat dem Angeklagten einen *Verteidiger* zugewiesen.
+
+  Cette association est un *défenseur* acharné de l'environnement.
+  Dieser Verein ist ein unermüdlicher *Verfechter* des Umweltschutzes.
+
+  La *défenseure* des droits a condamné ces pratiques discriminatoires.
+  Die *Verteidigerin* der Rechte hat diese diskriminierenden Praktiken verurteilt.
+
+  Le jeune *défenseur* a fait ses preuves dès son premier match.
+  Der junge *Verteidiger* hat sich gleich in seinem ersten Spiel bewährt.
+
+  Il est connu comme *défenseur* des causes perdues.
+  Er ist als *Verfechter* aussichtsloser Fälle bekannt.
+
+  Cette avocate est une redoutable *défenseure* au tribunal.
+  Diese Anwältin ist eine furchteinflößende *Verteidigerin* vor Gericht.
+
+  Les *défenseurs* de la paix se sont réunis pour manifester.
+  Die *Verfechter* des Friedens haben sich zu einer Demonstration versammelt.
+
+  Le *défenseur* central a réussi à bloquer l'attaque adverse.
+  Der *Abwehr*spieler in der Mitte konnte den gegnerischen Angriff blocken.
+
+  Je suis fier d'être un *défenseur* des traditions locales.
+  Ich bin stolz darauf, ein *Verfechter* der lokalen Traditionen zu sein.
+
+  Cette ONG est un *défenseur* reconnu des droits humains.
+  Diese NGO ist ein anerkannter *Verfechter* der Menschenrechte.
+
+  Le *défenseur* a plaidé brillamment pour son client.
+  Der *Verteidiger* hat brillant für seinen Mandanten plädiert.
+
+  Les *défenseurs* des opprimés ne peuvent pas rester silencieux.
+  Die *Verteidiger* der Unterdrückten können nicht schweigen.
+
+  Les *défenseurs* du projet ont convaincu le conseil municipal.
+  Die *Befürworter* des Projekts haben den Gemeinderat überzeugt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -9,14 +9,99 @@ Femininum / Plural: ''
 IPA: \de.fi.niʁ\
 Definition: definieren, bestimmen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Tout dépend de la manière dont on définit le concept.\nEs kommt darauf\
-  \ an, wie man das Konzept definiert.\n\nJe vais définir les termes de notre accord.\n\
-  Ich werde die Bedingungen unserer Vereinbarung bestimmen.\n\nApprenez à définir\
-  \ vos objectifs.\nLernen Sie, Ihre Ziele zu definieren.\n\nPierre se définit comme\
-  \ un homme de terrain, pragmatique et réaliste. \nPierre beschreibt sich selbst\
-  \ als einen Mann der Praxis, pragmatisch und realistisch. \n\nIl se définit comme\
-  \ un centriste, ni à gauche, ni à droite.\nEr beschreibt sich selbst als einen Politiker\
-  \ der Mitte, weder links noch rechts."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Tout dépend de la manière dont on *définit* le concept.
+  Alles hängt davon ab, wie man das Konzept *definiert*.
+
+  Le professeur nous a demandé de *définir* le mot "démocratie".
+  Der Lehrer hat uns gebeten, das Wort "Demokratie" zu *definieren*.
+
+  Il est difficile de *définir* exactement ce que je ressens.
+  Es ist schwer genau zu *beschreiben*, was ich fühle.
+
+  Les critères qui *définissent* ce poste sont très stricts.
+  Die Kriterien, die diese Stelle *charakterisieren*, sind sehr streng.
+
+  Le gouvernement doit *définir* sa position sur cette question.
+  Die Regierung muss ihre Position zu dieser Frage *festlegen*.
+
+  Comment te *définirais*-tu en tant qu'artiste ?
+  Wie würdest du dich als Künstler *beschreiben*?
+
+  La loi *définit* clairement les droits des citoyens.
+  Das Gesetz *legt* die Rechte der Bürger klar *fest*.
+
+  Nous devons *définir* nos objectifs avant de commencer.
+  Wir müssen unsere Ziele *bestimmen*, bevor wir anfangen.
+
+  Les scientifiques ont *défini* une nouvelle méthode de recherche.
+  Die Wissenschaftler haben eine neue Forschungsmethode *definiert*.
+
+  Cette expérience m'a *défini* en tant que personne.
+  Diese Erfahrung hat mich als Person *geprägt*.
+
+  Il faut *définir* les modalités du contrat.
+  Die Modalitäten des Vertrags müssen *festgelegt* werden.
+
+  Comment *définiriez*-vous le succès ?
+  Wie würden Sie Erfolg *definieren*?
+
+  Le comité doit *définir* les règles du concours.
+  Das Komitee muss die Regeln des Wettbewerbs *festlegen*.
+
+  Cette émotion est difficile à *définir*.
+  Diese Emotion ist schwer zu *beschreiben*.
+
+  Les experts vont *définir* les normes de sécurité.
+  Die Experten werden die Sicherheitsnormen *festlegen*.
+
+  Il s'est toujours *défini* comme un optimiste.
+  Er hat sich immer als Optimist *beschrieben*.
+
+  Ce style architectural est difficile à *définir*.
+  Dieser architektonische Stil ist schwer zu *charakterisieren*.
+
+  Nous devons *définir* les limites du projet.
+  Wir müssen die Grenzen des Projekts *bestimmen*.
+
+  L'entreprise doit *définir* sa stratégie marketing.
+  Das Unternehmen muss seine Marketingstrategie *festlegen*.
+
+  Les chercheurs ont *défini* un nouveau protocole.
+  Die Forscher haben ein neues Protokoll *definiert*.
+
+  Comment *définiriez*-vous votre relation ?
+  Wie würden Sie Ihre Beziehung *beschreiben*?
+
+  Le dictionnaire *définit* ce mot de façon précise.
+  Das Wörterbuch *definiert* dieses Wort präzise.
+
+  Il est important de bien *définir* les termes du débat.
+  Es ist wichtig, die Begriffe der Debatte klar zu *definieren*.
+
+  Cette découverte va *définir* notre époque.
+  Diese Entdeckung wird unsere Zeit *prägen*.
+
+  Les experts doivent *définir* les critères d'évaluation.
+  Die Experten müssen die Bewertungskriterien *festlegen*.
+
+  Cette qualité *définit* vraiment son caractère.
+  Diese Eigenschaft *charakterisiert* wirklich seinen Charakter.
+
+  Nous devons *définir* nos priorités.
+  Wir müssen unsere Prioritäten *festlegen*.
+
+  Comment vous *définissez*-vous professionnellement ?
+  Wie *beschreiben* Sie sich beruflich?
+
+  L'équipe doit *définir* ses objectifs annuels.
+  Das Team muss seine Jahresziele *festlegen*.
+
+  Le philosophe a *défini* ce concept de manière originale.
+  Der Philosoph hat dieses Konzept auf originelle Weise *definiert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

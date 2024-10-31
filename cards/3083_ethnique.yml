@@ -13,11 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les luttes politiques entre divers groupes ethniques.
-  Politische Kämpfe zwischen verschiedenen ethnischen Gruppen.
+  Les luttes politiques entre divers groupes *ethniques*.
+  Die politischen Kämpfe zwischen verschiedenen *ethnischen* Gruppen.
 
-  Les tensions ethniques sont fréquentes dans cette région.
-  Ethnische Spannungen sind in dieser Region häufig.
+  La diversité *ethnique* est une richesse pour notre société.
+  Die *ethnische* Vielfalt ist ein Reichtum für unsere Gesellschaft.
+
+  Les caractères *ethniques* se reflètent dans la culture traditionnelle.
+  Die *ethnischen* Merkmale spiegeln sich in der traditionellen Kultur wider.
+
+  Ces bijoux *ethniques* sont fabriqués à la main par des artisans locaux.
+  Dieser *ethnische* Schmuck wird von lokalen Handwerkern handgefertigt.
+
+  L'origine *ethnique* ne devrait jamais être un critère d'embauche.
+  Die *ethnische* Herkunft sollte niemals ein Einstellungskriterium sein.
+
+  Le terme « Parisien » est un nom *ethnique* dérivé de Paris.
+  Der Begriff "Pariser" ist ein von Paris abgeleitetes *ethnisches* Substantiv.
+
+  Ces différences *ethniques* se manifestent dans la langue et les coutumes.
+  Diese *ethnischen* Unterschiede zeigen sich in Sprache und Bräuchen.
+
+  L'adjectif *ethnique* « allemand » vient du nom « Allemagne ».
+  Das *ethnische* Adjektiv "deutsch" kommt von dem Namen "Deutschland".
+
+  La musique *ethnique* fait partie du patrimoine culturel mondial.
+  *Ethnische* Musik ist Teil des weltweiten Kulturerbes.
+
+  Les tensions *ethniques* ont augmenté dans cette région.
+  Die *ethnischen* Spannungen haben in dieser Region zugenommen.
+
+  Cette exposition présente l'art *ethnique* de plusieurs continents.
+  Diese Ausstellung zeigt *ethnische* Kunst aus mehreren Kontinenten.
+
+  Les frontières ne correspondent pas toujours aux divisions *ethniques*.
+  Die Grenzen stimmen nicht immer mit den *ethnischen* Grenzen überein.
+
+  La composition *ethnique* de la population a évolué au fil des siècles.
+  Die *ethnische* Zusammensetzung der Bevölkerung hat sich im Laufe der Jahrhunderte verändert.
+
+  Les chercheurs étudient l'histoire *ethnique* de cette région.
+  Die Forscher untersuchen die *ethnische* Geschichte dieser Region.
+
+  Le festival célèbre la diversité *ethnique* à travers la danse et la musique.
+  Das Festival feiert *ethnische* Vielfalt durch Tanz und Musik.
+
+  Cette région abrite plusieurs minorités *ethniques*.
+  Diese Region beherbergt mehrere *ethnische* Minderheiten.
+
+  L'identité *ethnique* joue un rôle important dans leur culture.
+  Die *ethnische* Identität spielt eine wichtige Rolle in ihrer Kultur.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

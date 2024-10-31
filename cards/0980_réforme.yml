@@ -13,38 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les réformes continuent, et ces pays progressent.
-  Die Reformen werden fortgesetzt, und diese Länder machen Fortschritte.
+  Les *réformes* continuent, et ces pays progressent.
+  Die *Reformen* gehen weiter, und diese Länder machen Fortschritte.
 
-  Le gouvernement a annoncé une réforme du système de santé.
-  Die Regierung hat eine Reform des Gesundheitssystems angekündigt.
+  La récente *réforme* de l'orthographe a suscité beaucoup de débats.
+  Die neue Rechtschreib*reform* hat viele Diskussionen ausgelöst.
 
-  La nouvelle réforme économique vise à stimuler la croissance du pays.
-  Die neue Wirtschaftsreform zielt darauf ab, das Wirtschaftswachstum des Landes anzukurbeln.
+  Le gouvernement a présenté une *réforme* structurelle ambitieuse.
+  Die Regierung hat eine ehrgeizige Struktur*reform* vorgestellt.
 
-  La réforme fiscale des impôts sur les sociétés a pour objectif de rendre les entreprises plus compétitives.
-  Die Körperschaftssteuerreform hat zum Ziel, Unternehmen wettbewerbsfähiger zu machen.
+  Cette *réforme* économique vise à stimuler la croissance.
+  Diese Wirtschafts*reform* zielt darauf ab, das Wachstum anzukurbeln.
 
-  Les réformes sociales ont un impact direct sur la vie quotidienne des citoyens.
-  Soziale Reformen haben einen direkten Einfluss auf das tägliche Leben der Bürger.
+  Le parlement débattra demain d'une nouvelle *réforme* fiscale.
+  Das Parlament wird morgen über eine neue Steuer*reform* debattieren.
 
-  La réforme structurelle du système éducatif est en cours de discussion.
-  Die Strukturreform des Bildungssystems wird derzeit diskutiert.
+  Les *réformes* sociales ont amélioré les conditions de travail.
+  Die sozialen *Reformen* haben die Arbeitsbedingungen verbessert.
 
-  La réforme du droit pénal a pour but de mieux protéger les victimes de crimes.
-  Die Strafrechtsreform zielt darauf ab, die Opfer von Straftaten besser zu schützen.
+  La *réforme* du système judiciaire prendra plusieurs années.
+  Die Justiz*reform* wird mehrere Jahre in Anspruch nehmen.
 
-  La réforme de la Justice est nécessaire pour garantir l'accès à la justice pour tous.
-  Die Justizreform ist notwendig, um den Zugang zur Gerechtigkeit für alle zu gewährleisten.
+  Les opposants à la *réforme* ont manifesté dans les rues.
+  Die *Reform*gegner haben auf den Straßen demonstriert.
 
-  La réforme du Parlement est une question qui divise les opinions.
-  Die Parlamentsreform ist ein Thema, das die Meinungen spaltet.
+  La *réforme* du Parlement a modernisé les procédures de vote.
+  Die Parlaments*reform* hat die Abstimmungsverfahren modernisiert.
 
-  La réforme de l'orthographe a été adoptée en 1990.
-  Die Rechtschreibreform wurde 1990 eingeführt.
+  Le ministre propose une *réforme* de l'enseignement supérieur.
+  Der Minister schlägt eine Hochschul*reform* vor.
 
-  Marie est une adversaire de la réforme du système de santé.
-  Marie ist eine Gegnerin der Reform des Gesundheitssystems.
+  La commission de *réforme* a examiné son dossier médical.
+  Die Musterungs*kommission* hat seine medizinische Akte geprüft.
+
+  Cette *réforme* pénale vise à réduire la récidive.
+  Diese Strafrechts*reform* zielt darauf ab, Rückfälle zu reduzieren.
+
+  Les historiens étudient l'impact de la *Réforme* sur la société.
+  Die Historiker untersuchen die Auswirkungen der *Reformation* auf die Gesellschaft.
+
+  La *réforme* temporaire l'a dispensé du service militaire.
+  Die vorübergehende *Ausmusterung* hat ihn vom Militärdienst befreit.
+
+  Cette *réforme* progressive évite les bouleversements sociaux.
+  Diese schrittweise *Reform* vermeidet gesellschaftliche Umwälzungen.
+
+  Le conseil de *réforme* a déclaré Paul inapte au service.
+  Der Musterungs*ausschuss* hat Paul für dienstuntauglich erklärt.
+
+  Les *réformes* visent à moderniser l'administration publique.
+  Die *Reformen* zielen darauf ab, die öffentliche Verwaltung zu modernisieren.
+
+  La *réforme* du droit pénal entrera en vigueur l'année prochaine.
+  Die Strafrechts*reform* tritt nächstes Jahr in Kraft.
+
+  Cette *réforme* structurelle transformera l'économie du pays.
+  Diese Struktur*reform* wird die Wirtschaft des Landes verändern.
+
+  La *réforme* des impôts sur les sociétés stimule l'investissement.
+  Die Körperschaftssteuer*reform* fördert Investitionen.
+
+  Les syndicats soutiennent cette *réforme* sociale.
+  Die Gewerkschaften unterstützen diese soziale *Reform*.
+
+  La *réforme* de l'orthographe simplifie certains mots.
+  Die Rechtschreib*reform* vereinfacht einige Wörter.
+
+  Cette *réforme* judiciaire renforce l'indépendance des tribunaux.
+  Diese Justiz*reform* stärkt die Unabhängigkeit der Gerichte.
+
+  La *réforme* du Parlement améliore la représentation démocratique.
+  Die Parlaments*reform* verbessert die demokratische Vertretung.
+
+  Les partis politiques débattent de la *réforme* électorale.
+  Die politischen Parteien diskutieren über die Wahl*reform*.
+
+  Marie est une farouche opposante à la *réforme*.
+  Marie ist eine leidenschaftliche *Reform*gegnerin.
+
+  La *réforme* des retraites suscite des controverses.
+  Die Renten*reform* sorgt für Kontroversen.
+
+  Cette *réforme* économique favorise les petites entreprises.
+  Diese Wirtschafts*reform* begünstigt kleine Unternehmen.
+
+  Le médecin militaire a signé sa *réforme* définitive.
+  Der Militärarzt hat seine endgültige *Ausmusterung* unterschrieben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

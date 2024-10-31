@@ -13,14 +13,128 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’environnement a été entièrement détruit.
-  Die Umwelt wurde vollständig zerstört.
+  L'environnement a été entièrement *détruit*.
+  Die Umwelt wurde vollständig *zerstört*.
 
-  Le feu a détruit la maison.
-  Das Feuer hat das Haus zerstört.
+  Le tremblement de terre a *détruit* la moitié de la ville.
+  Das Erdbeben hat die Hälfte der Stadt *zerstört*.
 
-  Le château, autrefois majestueux, est détruit par le temps et les intempéries.
-  Die Burg, einst majestätisch, ist durch Zeit und Unwetter zerstört.
+  Il faut *détruire* ce vieux mur pour construire la nouvelle route.
+  Diese alte Mauer muss für den neuen Straßenbau *niedergerissen* werden.
+
+  Le virus informatique a *détruit* toutes mes données.
+  Der Computervirus hat alle meine Daten *vernichtet*.
+
+  Les documents confidentiels doivent être *détruits* immédiatement.
+  Die vertraulichen Dokumente müssen sofort *vernichtet* werden.
+
+  La nouvelle machine à laver s'est *détruite* après seulement deux mois.
+  Die neue Waschmaschine ist nach nur zwei Monaten *kaputtgegangen*.
+
+  Ce pesticide *détruit* efficacement les parasites du jardin.
+  Dieses Pestizid *vernichtet* die Gartenschädlinge effektiv.
+
+  Les mauvaises herbes ont été complètement *détruites*.
+  Das Unkraut wurde vollständig *vertilgt*.
+
+  Le traitement *détruit* les cellules cancéreuses.
+  Die Behandlung *zerstört* die Krebszellen.
+
+  Ce nouveau désinfectant *détruit* 99,9% des microbes.
+  Dieses neue Desinfektionsmittel *tötet* 99,9% der Mikroben *ab*.
+
+  La guerre a *détruit* des vies innocentes.
+  Der Krieg hat unschuldige Leben *zerstört*.
+
+  "Cette rupture m'a complètement *détruit*."
+  "Diese Trennung hat mich völlig *kaputtgemacht*."
+
+  Les rumeurs ont *détruit* sa réputation.
+  Die Gerüchte haben seinen Ruf *ruiniert*.
+
+  Ses paroles cruelles ont *détruit* tous mes espoirs.
+  Seine grausamen Worte haben alle meine Hoffnungen *zunichtegemacht*.
+
+  La révolution a *détruit* l'ancien régime.
+  Die Revolution hat das alte Regime *abgeschafft*.
+
+  Sa vie a été *détruite* par la drogue.
+  Sein Leben wurde durch die Drogen *zerrüttet*.
+
+  Les deux arguments se *détruisent* mutuellement.
+  Die beiden Argumente *heben* sich gegenseitig *auf*.
+
+  Il se *détruit* petit à petit avec l'alcool.
+  Er *richtet* sich mit dem Alkohol nach und nach *zugrunde*.
+
+  Le bombardement a *détruit* tous les édifices historiques.
+  Die Bombardierung hat alle historischen Gebäude *zerstört*.
+
+  L'incendie a *détruit* la bibliothèque nationale.
+  Der Brand hat die Nationalbibliothek *zerstört*.
+
+  La tempête a *détruit* toutes les récoltes.
+  Der Sturm hat die gesamte Ernte *vernichtet*.
+
+  Les déchets toxiques doivent être *détruits* de manière sécurisée.
+  Die giftigen Abfälle müssen sicher *entsorgt* werden.
+
+  L'explosion a *détruit* le laboratoire.
+  Die Explosion hat das Labor *zerstört*.
+
+  Cette maladie *détruit* progressivement le système immunitaire.
+  Diese Krankheit *zerstört* nach und nach das Immunsystem.
+
+  Le feu a *détruit* tous les documents importants.
+  Das Feuer hat alle wichtigen Dokumente *vernichtet*.
+
+  L'ouragan a complètement *détruit* le village côtier.
+  Der Hurrikan hat das Küstendorf völlig *zerstört*.
+
+  La sécheresse a *détruit* toutes les cultures.
+  Die Dürre hat alle Feldfrüchte *vernichtet*.
+
+  Le tsunami a *détruit* toute l'infrastructure côtière.
+  Der Tsunami hat die gesamte Küsteninfrastruktur *zerstört*.
+
+  Cette critique acerbe a *détruit* sa confiance en lui.
+  Diese scharfe Kritik hat sein Selbstvertrauen *zerstört*.
+
+  Le temps *détruit* lentement les monuments anciens.
+  Die Zeit *zerstört* langsam die alten Denkmäler.
+
+  Les termites ont *détruit* toute la charpente.
+  Die Termiten haben das gesamte Gebälk *zerstört*.
+
+  Le gel a *détruit* tous les bourgeons.
+  Der Frost hat alle Knospen *zerstört*.
+
+  La pollution *détruit* progressivement la couche d'ozone.
+  Die Verschmutzung *zerstört* allmählich die Ozonschicht.
+
+  Le vandalisme a *détruit* l'œuvre d'art.
+  Der Vandalismus hat das Kunstwerk *zerstört*.
+
+  Les bombes ont *détruit* le pont stratégique.
+  Die Bomben haben die strategische Brücke *zerstört*.
+
+  L'acide a complètement *détruit* le tissu.
+  Die Säure hat den Stoff vollständig *zerstört*.
+
+  Cette expérience traumatisante a *détruit* son innocence.
+  Diese traumatische Erfahrung hat seine Unschuld *zerstört*.
+
+  La corrosion a lentement *détruit* la structure métallique.
+  Die Korrosion hat die Metallstruktur langsam *zerstört*.
+
+  Le nouveau virus a *détruit* toutes les récoltes de blé.
+  Das neue Virus hat die gesamte Weizenernte *vernichtet*.
+
+  L'avalanche a *détruit* le refuge de montagne.
+  Die Lawine hat die Berghütte *zerstört*.
+
+  Le cyclone a *détruit* toutes les installations portuaires.
+  Der Zyklon hat alle Hafenanlagen *zerstört*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

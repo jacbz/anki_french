@@ -9,23 +9,141 @@ Femininum / Plural: ''
 IPA: \te.mwɛ̃\
 Definition: Zeuge
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "J’ai des témoins. Ma femme a été enlevée.\nIch habe Zeugen. Meine\
-  \ Frau wurde entführt.\n\nLe témoin adverse a été appelé à la barre par l'avocat\
-  \ de la défense.\nDer Gegenzeuge wurde vom Anwalt der Verteidigung in den Zeugenstand\
-  \ gerufen.\n\nLa lampe témoin du moteur s'est allumée sur le tableau de bord.\n\
-  Die Kontrollleuchte des Motors leuchtete auf dem Armaturenbrett auf.\n\nElle a été\
-  \ témoin d'un accident de voiture sur le chemin du travail.\nSie wurde auf dem Weg\
-  \ zur Arbeit Zeugin eines Autounfalls. \n\nLe passage du témoin entre les deux coureurs\
-  \ s'est mal passé.\nDie Stabübergabe zwischen den beiden Läufern ging schief.\n\n\
-  La témoin de charge indique que la batterie est complètement chargée.\nDie Ladestromkontrollleuchte\
-  \ zeigt an, dass die Batterie vollständig geladen ist.\n\nLe témoignage du témoin\
-  \ capital a été déterminant dans l'affaire.\nDie Aussage des Kronzeugen war ausschlaggebend\
-  \ in dem Fall.\n\nLe faux témoin a fini par avouer avoir menti à la police.\nDer\
-  \ falsche Zeuge gab schließlich zu, die Polizei belogen zu haben.\n\nLe témoin oculaire\
-  \ a pu décrire le suspect avec précision.\nDer Augenzeuge konnte den Verdächtigen\
-  \ genau beschreiben.\n\nLe témoin principal a été appelé à la barre des témoins.\n\
-  Der Hauptzeuge wurde in den Zeugenstand gerufen.\n\nL'expert témoin a présenté son\
-  \ rapport au tribunal.\nDer Sachverständige legte dem Gericht seinen Bericht vor."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  J'ai des *témoins*. Ma femme a été enlevée.
+  Ich habe *Zeugen*. Meine Frau wurde entführt.
+
+  La police a interrogé le *témoin* principal pendant trois heures.
+  Die Polizei hat den Haupt*zeugen* drei Stunden lang befragt.
+
+  As-tu été *témoin* de l'accident hier soir ?
+  Warst du *Zeuge* des Unfalls gestern Abend?
+
+  Le *témoin* oculaire a décrit la scène en détail.
+  Der Augen*zeuge* hat die Szene detailliert beschrieben.
+
+  Marie sera mon *témoin* de mariage.
+  Marie wird meine Trau*zeugin* sein.
+
+  Ces ruines sont les derniers *témoins* d'une civilisation ancienne.
+  Diese Ruinen sind die letzten *Zeugen* einer alten Zivilisation.
+
+  Le coureur a fait tomber le *témoin* pendant la course de relais.
+  Der Läufer hat den *Staffelstab* während des Rennens fallen lassen.
+
+  La *lampe témoin* du lave-vaisselle est allumée.
+  Die *Kontrolllampe* der Spülmaschine leuchtet.
+
+  L'*appartement témoin* est ouvert tous les week-ends.
+  Die *Muster*wohnung ist jedes Wochenende geöffnet.
+
+  Nous cherchons un *témoin* à décharge pour le procès.
+  Wir suchen einen Entlastungs*zeugen* für den Prozess.
+
+  Je vous prends tous à *témoin* : je n'ai rien fait !
+  Ich nehme euch alle als *Zeugen*: Ich habe nichts getan!
+
+  Le *témoin* de charge a confirmé l'alibi du suspect.
+  Der Belastungs*zeuge* hat das Alibi des Verdächtigen bestätigt.
+
+  La déposition d'un faux *témoin* est punie par la loi.
+  Die Aussage eines falschen *Zeugen* wird gesetzlich bestraft.
+
+  Le *témoin* assisté a demandé la protection de la police.
+  Der verteidigte *Zeuge* hat um Polizeischutz gebeten.
+
+  Le programme de protection des *témoins* a sauvé sa vie.
+  Das *Zeugen*schutzprogramm hat sein Leben gerettet.
+
+  Cette photo est le seul *témoin* de notre voyage.
+  Dieses Foto ist der einzige *Zeuge* unserer Reise.
+
+  Le *témoin* de charge de ma voiture clignote.
+  Die Ladestrom*kontrollleuchte* meines Autos blinkt.
+
+  L'expert *témoin* a présenté son rapport au tribunal.
+  Der sachverständige *Zeuge* hat seinen Bericht vor Gericht vorgelegt.
+
+  Les *témoins* ont signé le contrat de vente.
+  Die *Zeugen* haben den Kaufvertrag unterschrieben.
+
+  J'ai été *témoin* de leur première rencontre.
+  Ich war *Zeuge* ihrer ersten Begegnung.
+
+  La transaction doit se faire devant *témoin*.
+  Die Transaktion muss vor *Zeugen* stattfinden.
+
+  Le *témoin* adverse a contredit sa version des faits.
+  Der Gegen*zeuge* hat seine Version der Ereignisse widerlegt.
+
+  Ce *témoin* géologique prouve l'existence d'un ancien lac.
+  Dieser *Zeugen*berg beweist die Existenz eines früheren Sees.
+
+  Le passage du *témoin* a été parfaitement exécuté.
+  Die *Stab*übergabe wurde perfekt ausgeführt.
+
+  Cette *réalisation témoin* montre notre savoir-faire.
+  Dieses *Vorzeige*objekt zeigt unser Know-how.
+
+  Nous avons besoin d'un deuxième *témoin* pour le mariage.
+  Wir brauchen einen zweiten Trau*zeugen* für die Hochzeit.
+
+  Le *témoin* capital a changé sa déclaration.
+  Der Kron*zeuge* hat seine Aussage geändert.
+
+  Les *témoins* ont été formels : il était sur les lieux.
+  Die *Zeugen* waren sich sicher: Er war am Tatort.
+
+  Cette sculpture est *témoin* de son talent.
+  Diese Skulptur ist *Zeuge* seines Talents.
+
+  Le *témoin* de batterie s'est allumé pendant le trajet.
+  Die Batterie*kontrollleuchte* ging während der Fahrt an.
+
+  Les *témoins* gênants ont disparu mystérieusement.
+  Die störenden *Zeugen* sind auf mysteriöse Weise verschwunden.
+
+  La comparution des *témoins* aura lieu demain.
+  Die *Zeugen*vernehmung findet morgen statt.
+
+  Cet écrivain est le *témoin* de son époque.
+  Dieser Schriftsteller ist *Zeuge* seiner Zeit.
+
+  Le *témoin* de la défense a été très convaincant.
+  Der *Zeuge* der Verteidigung war sehr überzeugend.
+
+  Un *témoin* anonyme a appelé la police.
+  Ein anonymer *Zeuge* hat die Polizei angerufen.
+
+  Ce bâtiment est le dernier *témoin* de l'architecture gothique.
+  Dieses Gebäude ist der letzte *Zeuge* der gotischen Architektur.
+
+  La *lampe témoin* du four indique qu'il est chaud.
+  Die *Kontroll*lampe des Ofens zeigt an, dass er heiß ist.
+
+  Le *témoin* de niveau d'huile est au rouge.
+  Die Öl*kontrollleuchte* leuchtet rot.
+
+  Les *témoins* du cambriolage ont été interrogés.
+  Die *Zeugen* des Einbruchs wurden verhört.
+
+  Un seul *témoin* a vu l'accident.
+  Nur ein *Zeuge* hat den Unfall gesehen.
+
+  Le *témoin* de l'accusation a fait une révélation surprenante.
+  Der *Zeuge* der Anklage machte eine überraschende Enthüllung.
+
+  Cette pierre est *témoin* de notre engagement.
+  Dieser Stein ist *Zeuge* unserer Verpflichtung.
+
+  Le *témoin* de température est défectueux.
+  Die Temperatur*kontrollleuchte* ist defekt.
+
+  Les *témoins* ont décrit le suspect à la police.
+  Die *Zeugen* haben der Polizei den Verdächtigen beschrieben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

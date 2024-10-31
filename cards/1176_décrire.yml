@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je n’aurais qu’à décrire ce que je voyais.
-  Ich müsste nur beschreiben, was ich sah.
+  Je n'aurais qu'à *décrire* ce que je voyais.
+  Ich musste nur *beschreiben*, was ich sah.
 
-  Je vais décrire la scène.
-  Ich werde die Szene beschreiben.
+  Pourrais-tu *décrire* les symptômes au médecin ?
+  Könntest du dem Arzt die Symptome *beschreiben*?
 
-  La route décrivait une courbe sinueuse à travers la campagne.
-  Die Straße schlängelte sich in einer Kurve durch die Landschaft.
+  La rivière *décrit* une courbe gracieuse autour du village.
+  Der Fluss macht eine anmutige *Kurve* um das Dorf.
 
-  Les oiseaux décrivaient des cercles au-dessus de la forêt, à la recherche de nourriture.
-  Die Vögel kreisten über dem Wald und suchten nach Nahrung.
+  L'aigle *décrivait* des cercles au-dessus de sa proie.
+  Der Adler *kreiste* über seiner Beute.
+
+  Les mots ne peuvent pas *décrire* la beauté de ce paysage.
+  Worte können die Schönheit dieser Landschaft nicht *beschreiben*.
+
+  Dans son roman, elle *décrit* la vie quotidienne en Provence.
+  In ihrem Roman *schildert* sie das Alltagsleben in der Provence.
+
+  La comète *décrit* une orbite elliptique autour du soleil.
+  Der Komet *beschreibt* eine elliptische Bahn um die Sonne.
+
+  Comment *décrire* l'odeur d'une rose à quelqu'un qui n'en a jamais senti ?
+  Wie soll man jemandem den Duft einer Rose *beschreiben*, der noch nie eine gerochen hat?
+
+  Le professeur nous a demandé de *décrire* notre week-end en français.
+  Der Lehrer hat uns gebeten, unser Wochenende auf Französisch zu *beschreiben*.
+
+  L'avion *décrivit* un large cercle avant d'atterrir.
+  Das Flugzeug *zog* vor der Landung einen weiten Kreis.
+
+  Marie m'a *décrit* son nouvel appartement en détail.
+  Marie hat mir ihre neue Wohnung detailliert *beschrieben*.
+
+  Les scientifiques ont *décrit* une nouvelle espèce de papillon.
+  Die Wissenschaftler haben eine neue Schmetterlingsart *beschrieben*.
+
+  Le guide touristique *décrivait* l'histoire du château avec passion.
+  Der Fremdenführer *schilderte* leidenschaftlich die Geschichte des Schlosses.
+
+  La danseuse *décrivait* des cercles gracieux sur la scène.
+  Die Tänzerin *zog* anmutige Kreise auf der Bühne.
+
+  Il est difficile de *décrire* ce que l'on ressent dans ces moments-là.
+  Es ist schwer zu *beschreiben*, was man in solchen Momenten empfindet.
+
+  Le témoin a *décrit* précisément ce qu'il avait vu ce soir-là.
+  Der Zeuge hat genau *geschildert*, was er an jenem Abend gesehen hatte.
+
+  La route *décrit* des virages dangereux dans la montagne.
+  Die Straße macht gefährliche *Kurven* im Gebirge.
+
+  Dans son journal, elle *décrivait* ses impressions de voyage.
+  In ihrem Tagebuch *beschrieb* sie ihre Reiseeindrücke.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

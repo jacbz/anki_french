@@ -13,38 +13,143 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’inscrivis mon nom sur la fiche.
-  Ich schrieb meinen Namen auf die Karteikarte.
+  J'*inscrivis* mon nom sur la fiche.
+  Ich *schrieb* meinen Namen auf den Zettel.
 
-  Je vais m’inscrire à la bibliothèque.
-  Ich werde mich in der Bibliothek anmelden.
+  Elle *inscrit* son adresse sur l'enveloppe bleue.
+  Sie *schreibt* ihre Adresse auf den blauen Umschlag.
 
-  J'ai inscrit mon numéro de téléphone dans mon carnet.
-  Ich habe meine Telefonnummer in mein Heft aufgeschrieben.
+  Les dates importantes sont *inscrites* dans mon agenda.
+  Die wichtigen Termine sind in meinem Kalender *notiert*.
 
-  Je vais m'inscrire à l'école de musique.
-  Ich werde mich an der Musikschule anmelden.
+  Cette question sera *inscrite* à l'ordre du jour de la réunion.
+  Diese Frage wird auf die Tagesordnung der Sitzung *gesetzt*.
 
-  Mes parents m'ont inscrit à l'école de danse.
-  Meine Eltern haben mich an der Tanzschule angemeldet.
+  Le souvenir de cette journée reste *inscrit* dans ma mémoire.
+  Die Erinnerung an diesen Tag hat sich mir fest *eingeprägt*.
 
-  Ce voyage s'inscrit dans le cadre de notre programme d'échange culturel.
-  Diese Reise geschieht im Rahmen unseres Programms für kulturellen Austausch.
+  La tristesse était *inscrite* sur son visage.
+  Die Traurigkeit stand auf ihrem Gesicht *geschrieben*.
 
-  Le nom de ce village est inscrit sur la carte.
-  Der Name dieses Dorfes steht auf der Karte.
+  Mon fils est *inscrit* dans une école privée.
+  Mein Sohn ist an einer Privatschule *angemeldet*.
 
-  Son nom s'inscrit en lettres rouges sur l'écran.
-  Sein Name erscheint in roten Buchstaben auf dem Bildschirm.
+  Je me suis *inscrit* à la bibliothèque municipale.
+  Ich habe mich in der Stadtbibliothek *angemeldet*.
 
-  J'ai inscrit son adresse sur l'enveloppe.
-  Ich habe seine Adresse auf den Briefumschlag geschrieben.
+  Pierre s'est *inscrit* à la faculté de médecine.
+  Pierre hat sich an der medizinischen Fakultät *eingeschrieben*.
 
-  J'ai inscrit la question à l'ordre du jour.
-  Ich habe die Frage auf die Tagesordnung gesetzt.
+  Elle était *inscrite* sur la liste d'attente depuis trois mois.
+  Sie war seit drei Monaten auf der Warteliste *eingetragen*.
 
-  Nous avons inscrit l'achat d'un nouveau véhicule au budget.
-  Wir haben den Kauf eines neuen Fahrzeugs als Posten im Budget verbucht.
+  Marie s'est *inscrite* au cours de yoga hier.
+  Marie hat sich gestern zum Yogakurs *angemeldet*.
+
+  L'équipe a *inscrit* trois buts en première mi-temps.
+  Die Mannschaft hat in der ersten Halbzeit drei Tore *erzielt*.
+
+  Le professeur *inscrit* les notes des élèves dans son carnet.
+  Der Lehrer *trägt* die Noten der Schüler in sein Heft *ein*.
+
+  Nous nous sommes *inscrits* au club de tennis pour l'été.
+  Wir haben uns für den Sommer beim Tennisclub *angemeldet*.
+
+  Cette décision s'*inscrit* dans une stratégie plus large.
+  Diese Entscheidung *erfolgt* im Rahmen einer größeren Strategie.
+
+  Le message s'*inscrit* en lettres rouges sur l'écran.
+  Die Nachricht *erscheint* in roten Buchstaben auf dem Bildschirm.
+
+  Il a *inscrit* ses initiales sur l'arbre.
+  Er hat seine Initialen in den Baum *eingeritzt*.
+
+  Les parents doivent *inscrire* leurs enfants avant la rentrée.
+  Die Eltern müssen ihre Kinder vor Schulbeginn *anmelden*.
+
+  Je me suis *inscrit* aux cours du soir d'allemand.
+  Ich habe mich zum Deutsch-Abendkurs *angemeldet*.
+
+  L'âge s'*inscrit* peu à peu sur son visage.
+  Das Alter *zeichnet* sich nach und nach in seinem Gesicht *ab*.
+
+  Le géomètre a *inscrit* un triangle dans le cercle.
+  Der Geometer hat ein Dreieck in den Kreis *einbeschrieben*.
+
+  Il faut *inscrire* ce projet dans un contexte plus global.
+  Dieses Projekt muss in einen globalen Kontext *eingeordnet* werden.
+
+  Les dépenses sont *inscrites* au budget de l'année prochaine.
+  Die Ausgaben sind im Budget des nächsten Jahres *verbucht*.
+
+  Je dois m'*inscrire* sur la liste des participants.
+  Ich muss mich in die Teilnehmerliste *eintragen*.
+
+  Elle s'est *inscrite* au parti écologiste.
+  Sie ist der Umweltpartei *beigetreten*.
+
+  Le numéro est *inscrit* sur la façade de la maison.
+  Die Nummer *steht* auf der Hausfassade.
+
+  Les nouveaux élèves se sont *inscrits* ce matin.
+  Die neuen Schüler haben sich heute Morgen *angemeldet*.
+
+  Tous les électeurs doivent s'*inscrire* sur les listes électorales.
+  Alle Wähler müssen sich in die Wählerlisten *eintragen*.
+
+  Le score s'*inscrit* en direct sur le tableau d'affichage.
+  Der Spielstand *erscheint* live auf der Anzeigetafel.
+
+  Cette réforme s'*inscrit* dans la continuité.
+  Diese Reform *fügt* sich in die Kontinuität *ein*.
+
+  Le médecin m'a *inscrit* sur sa liste de patients.
+  Der Arzt hat mich in seine Patientenliste *eingetragen*.
+
+  Les horaires sont *inscrits* sur la porte d'entrée.
+  Die Öffnungszeiten *stehen* auf der Eingangstür.
+
+  Le joueur a *inscrit* le point de la victoire.
+  Der Spieler hat den Siegpunkt *erzielt*.
+
+  Il faut *inscrire* cette dépense dans les comptes.
+  Diese Ausgabe muss in der Buchhaltung *verbucht* werden.
+
+  La date limite est *inscrite* en rouge.
+  Der Stichtag ist rot *markiert*.
+
+  Les coordonnées sont *inscrites* au dos de la photo.
+  Die Kontaktdaten sind auf der Rückseite des Fotos *notiert*.
+
+  Je me suis *inscrit* à la salle de sport.
+  Ich habe mich im Fitnessstudio *angemeldet*.
+
+  Cette mesure s'*inscrit* dans la lutte contre le chômage.
+  Diese Maßnahme *erfolgt* im Rahmen der Bekämpfung der Arbeitslosigkeit.
+
+  Le nom du gagnant sera *inscrit* sur le trophée.
+  Der Name des Gewinners wird auf der Trophäe *eingraviert*.
+
+  Les étudiants peuvent s'*inscrire* en ligne.
+  Die Studenten können sich online *einschreiben*.
+
+  Il s'est *inscrit* aux leçons de conduite.
+  Er hat *Fahrstunden* genommen.
+
+  Cette tradition est *inscrite* dans notre culture.
+  Diese Tradition ist in unserer Kultur fest *verwurzelt*.
+
+  L'équipe n'a pas *inscrit* de but aujourd'hui.
+  Die Mannschaft hat heute kein Tor *erzielt*.
+
+  Les détails sont *inscrits* dans le contrat.
+  Die Details sind im Vertrag *festgehalten*.
+
+  Le prix est *inscrit* en chiffres et en lettres.
+  Der Preis ist in Ziffern und Buchstaben *aufgeführt*.
+
+  Son nom s'*inscrit* en lettres d'or sur le monument.
+  Sein Name *prangt* in goldenen Buchstaben auf dem Denkmal.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,41 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai procédé à l’arrestation.
-  Ich habe die Verhaftung vorgenommen.
+  J'ai *procédé* à l'arrestation.
+  Ich habe die Verhaftung *vorgenommen*.
 
-  Nous allons procéder étape par étape.
-  Wir werden Schritt für Schritt vorgehen.
+  Nous devons *procéder* avec méthode dans cette enquête.
+  Wir müssen bei dieser Untersuchung methodisch *vorgehen*.
 
-  Nous devons procéder par ordre pour terminer le projet à temps.
-  Wir müssen der Reihe nach vorgehen, um das Projekt rechtzeitig zu beenden.
+  Les chercheurs vont *procéder* à une expérience importante demain.
+  Die Forscher werden morgen einen wichtigen Versuch *durchführen*.
 
-  Les chercheurs ont procédé à une étude approfondie sur les effets du changement climatique.
-  Die Forscher haben eine umfassende Studie über die Auswirkungen des Klimawandels durchgeführt.
+  La commission va *procéder* au dépouillement des votes ce soir.
+  Die Kommission wird heute Abend mit der Stimmauszählung *beginnen*.
 
-  Cette théorie procède de l'hypothèse que l'univers est infini.
-  Diese Theorie geht von der Hypothese aus, dass das Universum unendlich ist.
+  Il faut *procéder* à l'inspection des marchandises avant leur expédition.
+  Die Waren müssen vor dem Versand *überprüft* werden.
 
-  Les juges ont procédé au dépouillement des votes après la fermeture des bureaux de vote.
-  Die Richter haben nach der Schließung der Wahllokale mit der Auszählung der Stimmen begonnen.
+  Le conseil municipal va *procéder* au vote dans quelques minutes.
+  Der Gemeinderat wird in wenigen Minuten zur Abstimmung *schreiten*.
 
-  Le pays est sur le point de procéder à une élection présidentielle.
-  Das Land steht kurz vor einer Präsidentschaftswahl.
+  Les experts viennent de *procéder* à l'analyse des échantillons.
+  Die Experten haben gerade die Analyse der Proben *durchgeführt*.
 
-  Avant d'accepter la livraison, le client a procédé à l'inspection de la marchandise.
-  Bevor der Kunde die Lieferung akzeptierte, nahm er eine Beschau der Waren vor.
+  La police a fait *procéder* à une enquête approfondie.
+  Die Polizei hat eine gründliche Untersuchung *veranlasst*.
 
-  Après le débat, le parlement a procédé au vote.
-  Nach der Debatte kam das Parlament zur Abstimmung.
+  Cette théorie *procède* directement des découvertes de Marie Curie.
+  Diese Theorie *geht* direkt auf die Entdeckungen von Marie Curie *zurück*.
 
-  On vient de procéder à l'élection du nouveau président, qui prendra ses fonctions la semaine prochaine.
-  Gerade wurde der neue Präsident gewählt, der nächste Woche sein Amt antreten wird.
+  Le comité *procède* toujours par ordre alphabétique.
+  Das Komitee *geht* immer alphabetisch *vor*.
 
-  La police a fait procéder à une enquête sur le vol de la bijouterie.
-  Die Polizei hat eine Untersuchung zum Juwelendiebstahl veranlasst.
+  Comment dois-je *procéder* pour obtenir ce document ?
+  Wie muss ich *vorgehen*, um dieses Dokument zu bekommen?
 
-  Le Saint-Esprit procède du Père et du Fils, selon la doctrine chrétienne.
-  Der Heilige Geist geht aus dem Vater und dem Sohn hervor, so die christliche Lehre.
+  Les médecins ont *procédé* avec beaucoup de précaution.
+  Die Ärzte sind sehr vorsichtig *vorgegangen*.
+
+  La mairie va *procéder* au recensement de la population.
+  Die Stadtverwaltung wird eine Volkszählung *durchführen*.
+
+  Cette idée *procède* d'une réflexion approfondie.
+  Diese Idee *entspringt* einer tiefgehenden Überlegung.
+
+  Le juge a *procédé* à l'audition des témoins.
+  Der Richter hat die Zeugenvernehmung *durchgeführt*.
+
+  Les organisateurs vont *procéder* au tirage au sort.
+  Die Organisatoren werden die Auslosung *vornehmen*.
+
+  Le chirurgien a *procédé* à l'opération ce matin.
+  Der Chirurg hat die Operation heute Morgen *durchgeführt*.
+
+  Il faut *procéder* étape par étape.
+  Man muss Schritt für Schritt *vorgehen*.
+
+  La science *procède* par hypothèses successives.
+  Die Wissenschaft *geht* durch aufeinanderfolgende Hypothesen *vor*.
+
+  Le tribunal va *procéder* au jugement la semaine prochaine.
+  Das Gericht wird nächste Woche das Urteil *fällen*.
+
+  Cette erreur *procède* d'un malentendu initial.
+  Dieser Fehler *resultiert* aus einem anfänglichen Missverständnis.
+
+  Nous devons *procéder* au nettoyage du site immédiatement.
+  Wir müssen sofort mit der Reinigung des Geländes *beginnen*.
+
+  L'équipe va *procéder* aux tests nécessaires.
+  Das Team wird die erforderlichen Tests *durchführen*.
+
+  Les pompiers ont *procédé* à l'évacuation du bâtiment.
+  Die Feuerwehr hat die Evakuierung des Gebäudes *vorgenommen*.
+
+  La banque va *procéder* au remboursement des clients affectés.
+  Die Bank wird die Rückzahlung an die betroffenen Kunden *vornehmen*.
+
+  Le comité doit *procéder* à l'élection d'un nouveau président.
+  Das Komitee muss einen neuen Vorsitzenden *wählen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

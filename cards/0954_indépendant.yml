@@ -13,20 +13,110 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il est indépendant financièrement, cultivé et cinglé.
-  Er ist finanziell unabhängig, kultiviert und verrückt.
+  Il est *indépendant* financièrement, cultivé et cinglé.
+  Er ist finanziell *unabhängig*, gebildet und verrückt.
 
-  Je suis indépendant de mes parents.
-  Ich bin unabhängig von meinen Eltern.
+  À 18 ans, Marie est devenue *indépendante* de ses parents.
+  Mit 18 Jahren wurde Marie von ihren Eltern *unabhängig*.
 
-  Les Indépendants sont un groupe de personnes qui travaillent à leur compte et ne dépendent pas d'un employeur.
-  Die Unabhängigen sind eine Gruppe von Menschen, die selbstständig arbeiten und nicht von einem Arbeitgeber abhängig sind.
+  Les roues avant *indépendantes* améliorent la stabilité de la voiture.
+  Die *einzeln aufgehängten* Vorderräder verbessern die Stabilität des Autos.
 
-  Le choix du lieu de vacances est indépendant de la météo.
-  Die Wahl des Urlaubsortes ist unabhängig vom Wetter.
+  Cette chambre *indépendante* dispose d'une entrée séparée.
+  Dieses *separate* Zimmer hat einen eigenen Eingang.
 
-  L'annulation du concert est due à des raisons indépendantes de notre volonté, comme la maladie du chanteur.
-  Die Absage des Konzerts ist aus Gründen erfolgt, die außerhalb unserer Kontrolle liegen, wie zum Beispiel die Krankheit des Sängers.
+  Le jury doit rester *indépendant* dans sa décision.
+  Die Jury muss in ihrer Entscheidung *unabhängig* bleiben.
+
+  Les *Indépendants* ont remporté plusieurs sièges au Parlement.
+  Die *Unabhängigen* haben mehrere Sitze im Parlament gewonnen.
+
+  Pour des raisons *indépendantes* de notre volonté, le concert est annulé.
+  Aus Gründen, die außerhalb unserer Kontrolle liegen, wird das Konzert abgesagt.
+
+  Elle travaille comme photographe *indépendante* depuis cinq ans.
+  Sie arbeitet seit fünf Jahren als *freischaffende* Fotografin.
+
+  Mon frère est très *indépendant* : il n'écoute jamais les conseils des autres.
+  Mein Bruder ist sehr *eigenwillig*: Er hört nie auf den Rat anderer.
+
+  Le Québec n'est pas un État *indépendant*.
+  Quebec ist kein *unabhängiger* Staat.
+
+  Ces deux systèmes sont *indépendants* l'un de l'autre.
+  Diese beiden Systeme sind voneinander *unabhängig*.
+
+  Pierre est devenu journaliste *indépendant* après avoir quitté le journal.
+  Pierre wurde *freier* Journalist, nachdem er die Zeitung verlassen hatte.
+
+  La température est *indépendante* de la pression dans ce cas.
+  Die Temperatur ist in diesem Fall vom Druck *unabhängig*.
+
+  Cette jeune fille *indépendante* vit seule depuis ses études.
+  Dieses *selbstständige* Mädchen lebt seit ihrem Studium allein.
+
+  Son esprit *indépendant* la pousse toujours à innover.
+  Ihr *unabhängiger* Geist treibt sie stets dazu an, Neues zu schaffen.
+
+  Ce réalisateur *indépendant* refuse les compromis artistiques.
+  Dieser *unabhängige* Regisseur lehnt künstlerische Kompromisse ab.
+
+  L'architecte *indépendant* a conçu plusieurs maisons remarquables.
+  Der *freischaffende* Architekt hat mehrere bemerkenswerte Häuser entworfen.
+
+  La proposition "il pleut" est une proposition *indépendante*.
+  Der Satz "es regnet" ist ein *unabhängiger* Hauptsatz.
+
+  Ces variables sont statistiquement *indépendantes*.
+  Diese Variablen sind statistisch *unabhängig*.
+
+  Le candidat *indépendant* a surpris tout le monde en gagnant l'élection.
+  Der *unabhängige* Kandidat hat alle überrascht, indem er die Wahl gewann.
+
+  Cette librairie *indépendante* propose des livres rares.
+  Diese *unabhängige* Buchhandlung bietet seltene Bücher an.
+
+  Les enfants deviennent de plus en plus *indépendants* en grandissant.
+  Kinder werden beim Aufwachsen immer *selbstständiger*.
+
+  Elle est une artiste *indépendante* qui expose dans le monde entier.
+  Sie ist eine *freischaffende* Künstlerin, die weltweit ausstellt.
+
+  Ce petit pays est devenu *indépendant* en 1960.
+  Dieses kleine Land wurde 1960 *unabhängig*.
+
+  Les chats sont des animaux naturellement *indépendants*.
+  Katzen sind von Natur aus *unabhängige* Tiere.
+
+  Notre groupe de musique est resté *indépendant* des grandes maisons de disques.
+  Unsere Band ist von den großen Plattenfirmen *unabhängig* geblieben.
+
+  Chaque appartement dispose d'une entrée *indépendante*.
+  Jede Wohnung hat einen *separaten* Eingang.
+
+  Cette décision est *indépendante* de nos préférences personnelles.
+  Diese Entscheidung ist von unseren persönlichen Vorlieben *unabhängig*.
+
+  Ma sœur est devenue *indépendante* financièrement à 25 ans.
+  Meine Schwester wurde mit 25 Jahren finanziell *unabhängig*.
+
+  Le cinéma *indépendant* gagne en popularité.
+  Das *unabhängige* Kino gewinnt an Beliebtheit.
+
+  Les deux événements sont *indépendants* en probabilité.
+  Die beiden Ereignisse sind wahrscheinlichkeitstheoretisch *unabhängig*.
+
+  Cette start-up est restée *indépendante* malgré les offres de rachat.
+  Dieses Start-up ist trotz der Übernahmeangebote *unabhängig* geblieben.
+
+  Un esprit *indépendant* ne se laisse pas influencer facilement.
+  Ein *unabhängiger* Geist lässt sich nicht leicht beeinflussen.
+
+  Elle préfère travailler comme consultante *indépendante*.
+  Sie arbeitet lieber als *freie* Beraterin.
+
+  Ces vecteurs sont linéairement *indépendants*.
+  Diese Vektoren sind linear *unabhängig*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

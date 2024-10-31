@@ -13,23 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils ont été mes élèves.
-  Sie waren meine Schüler.
+  Ils ont été mes *élèves*.
+  Sie waren meine *Schüler*.
 
-  L’élève a bien réussi son examen.
-  Der Schüler hat seine Prüfung gut bestanden.
+  Notre *élève* favori a eu une excellente note à l'examen.
+  Unser *Lieblingsschüler* hat eine ausgezeichnete Note in der Prüfung bekommen.
 
-  Vous êtes un bon élève, mais vous avez encore beaucoup à apprendre.
-  Sie sind ein guter Schüler, aber Sie müssen noch viel lernen.
+  Les parents ont rencontré l'*élève* de cours élémentaire pour la première fois.
+  Die Eltern haben den *Zweitklässler* zum ersten Mal getroffen.
 
-  Le professeur a toujours eu une affection particulière pour sa préférée élève, Marie.
-  Der Lehrer hatte immer eine besondere Zuneigung zu seiner Lieblingsschülerin Marie.
+  Chaque *élève* de l'enseignement secondaire doit porter un uniforme.
+  Jeder *Oberschüler* muss eine Uniform tragen.
 
-  Sophie, une élève de cours élémentaire première année, a appris à lire cette année.
-  Sophie, eine ≈ Zweitklässlerin, hat dieses Jahr Lesen gelernt.
+  Ce magnifique tableau a été peint par un *élève* de Rembrandt.
+  Dieses wunderschöne Gemälde wurde von einem *Schüler* Rembrandts gemalt.
 
-  Sarah, une élève de l'enseignement secondaire, a passé son baccalauréat avec succès.
-  Sarah, eine Oberschülerin, hat ihr Abitur erfolgreich bestanden.
+  Le mauvais *élève* n'a pas fait ses devoirs depuis trois semaines.
+  Der schlechte *Schüler* hat seit drei Wochen keine Hausaufgaben gemacht.
+
+  L'association des anciens *élèves* organise une réunion annuelle.
+  Der *Ehemaligen*verein organisiert ein jährliches Treffen.
+
+  L'*élève* officier commence sa formation militaire demain.
+  Der *Offiziersanwärter* beginnt morgen seine militärische Ausbildung.
+
+  Les *élèves* de Titien ont développé leur propre style artistique.
+  Die *Schüler* Tizians entwickelten ihren eigenen künstlerischen Stil.
+
+  Comment motivez-vous vos *élèves* à apprendre le français ?
+  Wie motivieren Sie Ihre *Schüler* zum Französischlernen?
+
+  Cette jeune *élève* deviendra certainement une grande danseuse.
+  Diese junge *Schülerin* wird bestimmt eine große Tänzerin.
+
+  Les *élèves* du Conservatoire préparent un spectacle de fin d'année.
+  Die *Schüler* des Konservatoriums bereiten eine Jahresabschlussaufführung vor.
+
+  La nouvelle *élève* s'est très bien intégrée dans la classe.
+  Die neue *Schülerin* hat sich sehr gut in die Klasse integriert.
+
+  Mon frère est *élève* de première au lycée Victor Hugo.
+  Mein Bruder ist *Schüler* der elften Klasse am Victor-Hugo-Gymnasium.
+
+  Les *élèves* de l'école de ballet s'entraînent tous les jours.
+  Die *Schüler* der Ballettschule trainieren jeden Tag.
+
+  L'*élève* officier de réserve suit une formation intensive.
+  Der Reserve-*Offiziersanwärter* absolviert eine intensive Ausbildung.
+
+  Notre meilleur *élève* participera au concours national.
+  Unser bester *Schüler* wird am nationalen Wettbewerb teilnehmen.
+
+  Tous les *élèves* doivent respecter le règlement de l'école.
+  Alle *Schüler* müssen die Schulordnung einhalten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

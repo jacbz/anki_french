@@ -13,11 +13,41 @@ Register: ↗Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous devons maintenant attendre jusqu’en février.
-  Wir müssen nun bis Februar warten.
+  Nous devons maintenant attendre jusqu'en *février*.
+  Wir müssen jetzt bis *Februar* warten.
 
-  Mon anniversaire est en février.
-  Mein Geburtstag ist im Februar.
+  Le 2 *février*, nous fêterons la Chandeleur avec des crêpes.
+  Am 2. *Februar* feiern wir Mariä Lichtmess mit Crêpes.
+
+  En *février*, il fait encore très froid à Paris.
+  Im *Februar* ist es in Paris noch sehr kalt.
+
+  Cette année, *février* aura vingt-neuf jours.
+  Dieses Jahr hat der *Februar* neunundzwanzig Tage.
+
+  La révolution de *février* 1848 a marqué l'histoire de France.
+  Die *Februar*revolution von 1848 hat die französische Geschichte geprägt.
+
+  Mon frère est né un 14 *février*.
+  Mein Bruder ist am 14. *Februar* geboren.
+
+  Les journées de *février* ont bouleversé la monarchie française.
+  Die *Februar*tage haben die französische Monarchie erschüttert.
+
+  Le mois de *février* est le plus court de l'année.
+  Der Monat *Februar* ist der kürzeste im Jahr.
+
+  Les vacances d'hiver commencent mi-*février*.
+  Die Winterferien beginnen Mitte *Februar*.
+
+  Fin *février*, les premiers bourgeons apparaissent.
+  Ende *Februar* erscheinen die ersten Knospen.
+
+  Le 29 *février*, c'est mon anniversaire.
+  Am 29. *Februar* habe ich Geburtstag.
+
+  En *février* prochain, nous déménagerons à Lyon.
+  Im nächsten *Februar* ziehen wir nach Lyon um.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

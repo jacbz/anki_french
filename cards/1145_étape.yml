@@ -13,35 +13,107 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je vais procéder étape par étape.
-  Ich werde Schritt für Schritt vorgehen.
+  Je vais procéder *étape* par *étape*.
+  Ich werde *Schritt* für *Schritt* vorgehen.
 
-  Nous avons encore une étape à franchir.
-  Wir haben noch eine Etappe zu bewältigen.
+  Nous avons fait une *étape* dans ce petit village pittoresque.
+  Wir haben in diesem malerischen Dörfchen *Station* gemacht.
 
-  Nous avons fait étape à Lyon pendant notre voyage en voiture.
-  Wir haben auf unserer Autoreise in Lyon eine Pause gemacht.
+  L'*étape* d'aujourd'hui du Tour de France fait 200 kilomètres.
+  Die heutige *Etappe* der Tour de France ist 200 Kilometer lang.
 
-  La première étape du plan est de trouver un financement.
-  Der erste Planabschnitt ist die Suche nach einer Finanzierung.
+  Le mariage est une *étape* importante dans la vie d'un couple.
+  Die Hochzeit ist ein wichtiger *Abschnitt* im Leben eines Paares.
 
-  Nous avons fait le trajet en une seule étape, car nous étions pressés.
-  Wir haben die Strecke ohne Pause zurückgelegt, da wir es eilig hatten.
+  La construction de la maison se fait par *étapes*.
+  Der Hausbau erfolgt in *Etappen*.
 
-  La rédaction d'un rapport est une étape de travail complexe.
-  Das Schreiben eines Berichts ist eine komplexe Arbeitsfolge.
+  Cette ville était une *étape* essentielle sur la route de la soie.
+  Diese Stadt war ein wichtiger *Haltepunkt* auf der Seidenstraße.
 
-  L'enfance est une étape de la vie qui marque profondément les personnes.
-  Die Kindheit ist ein Lebensabschnitt, der die Menschen tief prägt.
+  Nous allons faire *étape* à Lyon ce soir.
+  Wir werden heute Abend in Lyon *Halt* machen.
 
-  D'étape en étape, nous nous rapprochons de notre objectif.
-  Schritt für Schritt nähern wir uns unserem Ziel.
+  C'est une *étape* cruciale dans le développement de l'enfant.
+  Das ist eine entscheidende *Phase* in der Entwicklung des Kindes.
 
-  Il faut apprendre à parler anglais par étapes.
-  Man sollte Englischlernen schrittweise angehen.
+  Les voyageurs ont brûlé l'*étape* prévue pour arriver plus tôt.
+  Die Reisenden haben den geplanten *Halt* übersprungen, um früher anzukommen.
 
-  Il ne faut pas brûler les étapes, sinon on risque de faire des erreurs.
-  Man soll nichts überstürzen, sonst riskiert man Fehler zu machen.
+  La première *étape* du projet est maintenant terminée.
+  Der erste *Abschnitt* des Projekts ist jetzt abgeschlossen.
+
+  Cette découverte marque une nouvelle *étape* dans la recherche médicale.
+  Diese Entdeckung markiert eine neue *Phase* in der medizinischen Forschung.
+
+  Le coureur a remporté trois *étapes* consécutives.
+  Der Fahrer hat drei *Etappen* hintereinander gewonnen.
+
+  Nous préférons voyager par petites *étapes*.
+  Wir reisen lieber in kleinen *Etappen*.
+
+  L'*étape* contre la montre aura lieu demain.
+  Die Zeit*fahrt* findet morgen statt.
+
+  C'est la dernière *étape* avant l'examen final.
+  Das ist der letzte *Schritt* vor der Abschlussprüfung.
+
+  Cette ville servait d'*étape* aux pèlerins.
+  Diese Stadt diente den Pilgern als *Rastplatz*.
+
+  Ne brûlons pas les *étapes* dans ce projet délicat.
+  Wir sollten bei diesem heiklen Projekt keine *Schritte* überspringen.
+
+  L'adolescence est une *étape* difficile.
+  Die Jugend ist ein schwieriger *Lebensabschnitt*.
+
+  Chaque *étape* du processus doit être documentée.
+  Jeder *Schritt* des Prozesses muss dokumentiert werden.
+
+  L'*étape* d'hier était particulièrement fatigante.
+  Die gestrige *Etappe* war besonders ermüdend.
+
+  Cette réforme sera mise en place en plusieurs *étapes*.
+  Diese Reform wird in mehreren *Schritten* umgesetzt.
+
+  La prochaine *étape* sera l'installation du toit.
+  Der nächste *Schritt* wird die Installation des Daches sein.
+
+  Ils ont parcouru toute l'*étape* sous la pluie.
+  Sie sind die ganze *Etappe* im Regen gefahren.
+
+  Cette *étape* de montagne est redoutable.
+  Diese Berg*etappe* ist gefürchtet.
+
+  L'*étape* suivante consiste à vérifier les résultats.
+  Der nächste *Schritt* besteht darin, die Ergebnisse zu überprüfen.
+
+  Notre première *étape* sera à Bordeaux.
+  Unser erster *Halt* wird in Bordeaux sein.
+
+  Franchir cette *étape* représente un grand progrès.
+  Diese *Phase* zu überwinden bedeutet einen großen Fortschritt.
+
+  C'est une *étape* clé dans l'histoire de l'humanité.
+  Das ist ein wichtiger *Abschnitt* in der Geschichte der Menschheit.
+
+  Il faut respecter les *étapes* de la procédure.
+  Man muss die *Schritte* des Verfahrens einhalten.
+
+  Les cyclistes se reposent entre les *étapes*.
+  Die Radfahrer ruhen sich zwischen den *Etappen* aus.
+
+  Nous ferons le voyage en une seule *étape*.
+  Wir werden die Reise in einer *Etappe* durchfahren.
+
+  La retraite marque une nouvelle *étape* de la vie.
+  Der Ruhestand markiert einen neuen *Lebensabschnitt*.
+
+  C'est la première *étape* vers la guérison.
+  Das ist der erste *Schritt* zur Heilung.
+
+  Le développement se fait *étape* par *étape*.
+  Die Entwicklung erfolgt *Schritt* für *Schritt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

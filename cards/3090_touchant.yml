@@ -13,17 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est un personnage très touchant.
-  Sie ist ein sehr berührender Charakter.
+  C'est un personnage très *touchant*.
+  Er ist eine sehr *rührende* Figur.
 
-  C’est un film très touchant.
-  Das ist ein sehr rührender Film.
+  Cette lettre d'adieu était vraiment *touchante*.
+  Dieser Abschiedsbrief war wirklich *ergreifend*.
 
-  Touchant ce problème, j'aimerais vous proposer une solution alternative.
-  Dieses Problem betreffend, möchte ich Ihnen eine alternative Lösung vorschlagen.
+  Elle a raconté une histoire *touchante* de son enfance.
+  Sie erzählte eine *rührende* Geschichte aus ihrer Kindheit.
 
-  Son attitude, touchante de gentillesse, m'a beaucoup touché.
-  Seine Haltung, rührend vor Liebenswürdigkeit, hat mich sehr berührt.
+  *Touchant* ce dossier, je dois vous informer de quelques changements.
+  Was diese Akte *betrifft*, muss ich Sie über einige Änderungen informieren.
+
+  La petite fille était *touchante* de naïveté.
+  Das kleine Mädchen war *rührend* in seiner Naivität.
+
+  Cette cérémonie d'hommage était particulièrement *touchante*.
+  Diese Gedenkfeier war besonders *bewegend*.
+
+  Il a prononcé un discours *touchant* lors du mariage.
+  Er hielt eine *ergreifende* Rede auf der Hochzeit.
+
+  *Touchant* votre demande, nous devons malheureusement refuser.
+  Was Ihren Antrag *betrifft*, müssen wir leider ablehnen.
+
+  Le geste de solidarité des voisins était vraiment *touchant*.
+  Die Geste der Solidarität der Nachbarn war wirklich *rührend*.
+
+  Cette scène de retrouvailles était très *touchante*.
+  Diese Wiedersehenszene war sehr *bewegend*.
+
+  *Touchant* cette question, les experts restent divisés.
+  *Bezüglich* dieser Frage bleiben die Experten gespalten.
+
+  Le film raconte une histoire *touchante* d'amitié.
+  Der Film erzählt eine *bewegende* Geschichte über Freundschaft.
+
+  Son message de remerciement était *touchant* de sincérité.
+  Seine Dankesbotschaft war *rührend* aufrichtig.
+
+  La réaction spontanée des enfants était *touchante*.
+  Die spontane Reaktion der Kinder war *herzergreifend*.
+
+  *Touchant* ces rumeurs, je préfère ne pas me prononcer.
+  Was diese Gerüchte *angeht*, möchte ich mich nicht äußern.
+
+  Les efforts du vieil homme étaient *touchants* de persévérance.
+  Die Bemühungen des alten Mannes waren *rührend* in ihrer Beharrlichkeit.
+
+  Cette preuve d'amour était vraiment *touchante*.
+  Dieser Liebesbeweis war wirklich *bewegend*.
+
+  Je n'ai rien à dire *touchant* cette affaire.
+  Ich habe nichts zu dieser Angelegenheit zu *sagen*.
+
+  Son dévouement envers sa famille était *touchant*.
+  Seine Hingabe für seine Familie war *rührend*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

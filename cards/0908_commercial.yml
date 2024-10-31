@@ -13,41 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La Chine est un partenaire commercial important.
-  China ist ein wichtiger Handelspartner.
+  La Chine est un partenaire *commercial* important.
+  China ist ein wichtiger *Handels*partner.
 
-  Le commercial est venu nous présenter ses produits.
-  Der Handelsvertreter kam, um uns seine Produkte vorzustellen.
+  Le *commercial* a présenté le nouveau produit aux clients potentiels.
+  Der *Außendienstmitarbeiter* hat das neue Produkt den potenziellen Kunden vorgestellt.
 
-  Il travaille dans le domaine de l'édition, en tant que commercial.
-  Er arbeitet im Verlagswesen als Verlagskaufmann.
+  Notre *commercial* dans l'édition a quitté l'entreprise après dix ans.
+  Unser *Verlagskaufmann* hat die Firma nach zehn Jahren verlassen.
 
-  La relation commerciale entre les deux entreprises est solide.
-  Die Handelsbeziehung zwischen den beiden Unternehmen ist solide.
+  Cette ville a un grand centre *commercial* avec plus de cent magasins.
+  Diese Stadt hat ein großes *Einkaufs*zentrum mit über hundert Geschäften.
 
-  Son activité de commercial l'amène à voyager souvent.
-  Seine Außendiensttätigkeit führt ihn oft auf Reisen.
+  Les deux pays ont signé un accord *commercial* hier.
+  Die beiden Länder haben gestern ein *Handels*abkommen unterzeichnet.
 
-  L'entreprise commerciale est en plein essor.
-  Der Gewerbebetrieb befindet sich im Aufschwung.
+  Son activité de *commercial* l'oblige à voyager beaucoup.
+  Seine *Außendienst*tätigkeit zwingt ihn zu vielen Reisen.
 
-  L'activité commerciale de la ville est en pleine expansion.
-  Die Handelstätigkeit der Stadt boomt.
+  La vie *commerciale* du quartier est très animée.
+  Das *Geschäfts*leben im Viertel ist sehr lebendig.
 
-  Le centre commercial attire des milliers de visiteurs chaque jour.
-  Das Einkaufszentrum zieht täglich Tausende von Besuchern an.
+  Leurs méthodes *commerciales* sont vraiment innovantes.
+  Ihre *Geschäfts*methoden sind wirklich innovativ.
 
-  La vie commerciale de la ville est animée.
-  Das Geschäftsleben der Stadt ist lebhaft.
+  Ce film a connu un grand succès *commercial*.
+  Dieser Film war ein großer *Verkaufs*hit.
 
-  Les méthodes commerciales de l'entreprise sont innovantes.
-  Die Geschäftsmethoden des Unternehmens sind innovativ.
+  Un nouvel avion *commercial* a été mis en service sur cette ligne.
+  Eine neue *Verkehrs*maschine wurde auf dieser Strecke in Betrieb genommen.
 
-  Le succès commercial du produit est incontestable.
-  Der Verkaufserfolg des Produkts ist unbestreitbar.
+  Notre entreprise *commerciale* emploie plus de cent personnes.
+  Unser *Gewerbe*betrieb beschäftigt über hundert Personen.
 
-  L'avion commercial a décollé avec quelques minutes de retard.
-  Das Verkehrsflugzeug ist mit ein paar Minuten Verspätung abgehoben.
+  Le directeur *commercial* a annoncé de nouveaux objectifs.
+  Der *Handels*direktor hat neue Ziele angekündigt.
+
+  L'anglais *commercial* devient de plus en plus important.
+  *Handels*englisch wird immer wichtiger.
+
+  Le service *commercial* travaille sur une nouvelle stratégie.
+  Die *Handels*abteilung arbeitet an einer neuen Strategie.
+
+  Les relations *commerciales* entre les deux pays se sont améliorées.
+  Die *Handels*beziehungen zwischen den beiden Ländern haben sich verbessert.
+
+  Elle suit des cours *commerciaux* à l'université.
+  Sie besucht *handels*bezogene Kurse an der Universität.
+
+  L'attaché *commercial* de l'ambassade a organisé une réunion.
+  Der *Handels*attaché der Botschaft hat ein Treffen organisiert.
+
+  Le conseiller *commercial* a négocié un nouveau contrat.
+  Der *Handels*berater hat einen neuen Vertrag ausgehandelt.
+
+  Les activités *commerciales* de l'entreprise se développent rapidement.
+  Die *Handels*aktivitäten des Unternehmens entwickeln sich schnell.
+
+  La valeur *commerciale* du produit a augmenté.
+  Der *Handels*wert des Produkts ist gestiegen.
+
+  L'institut *commercial* propose une nouvelle formation.
+  Das *Handels*institut bietet eine neue Ausbildung an.
+
+  Un ingénieur *commercial* a rejoint notre équipe.
+  Ein *Vertriebs*ingenieur ist unserem Team beigetreten.
+
+  Les statuts *commerciaux* ont été modifiés.
+  Die *Handels*statuten wurden geändert.
+
+  La convention *commerciale* sera signée demain.
+  Das *Handels*abkommen wird morgen unterzeichnet.
+
+  "Ce n'est qu'un film *commercial*," a dit le critique avec dédain.
+  "Das ist nur ein auf *Kommerz* ausgerichteter Film", sagte der Kritiker verächtlich.
+
+  Les baux *commerciaux* doivent être renouvelés tous les neuf ans.
+  Die *Gewerbe*mietverträge müssen alle neun Jahre erneuert werden.
+
+  Elle conduit une *commerciale* pour son travail de livraison.
+  Sie fährt einen *Lieferwagen* für ihre Zustellarbeit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

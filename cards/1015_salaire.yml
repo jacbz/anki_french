@@ -13,44 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Beaucoup de travailleurs gagnent le salaire minimum.
-  Viele Arbeitnehmerinnen und Arbeitnehmer verdienen den Mindestlohn.
+  Beaucoup de travailleurs gagnent le *salaire* minimum.
+  Viele Arbeitnehmer verdienen den Mindest*lohn*.
 
-  Je suis content de mon salaire.
-  Ich bin mit meinem Gehalt zufrieden.
+  Le *salaire* brut est indiqué en haut de la fiche de paie.
+  Der Brutto*lohn* steht oben auf der Gehaltsabrechnung.
 
-  Il gagne deux fois mon salaire.
-  Er verdient das Doppelte meines Gehalts.
+  Son *salaire* net s'élève à 2500 euros par mois.
+  Sein Netto*gehalt* beträgt 2500 Euro im Monat.
 
-  Le salaire annuel de l'entreprise a augmenté de 5%.
-  Das Jahresgehalt der Firma ist um 5% gestiegen.
+  Marie a reçu une augmentation de *salaire* de 5%.
+  Marie hat eine *Gehalts*erhöhung von 5% bekommen.
 
-  Les petits salaires sont les plus touchés par l'inflation.
-  Die Kleinverdiener sind am stärksten von der Inflation betroffen.
+  Les employés toucheront leur *salaire* la semaine prochaine.
+  Die Angestellten werden nächste Woche ihr *Gehalt* bekommen.
 
-  Le salaire brut est le salaire avant les impôts et les cotisations sociales.
-  Der Bruttoverdienst ist das Gehalt vor Steuern und Sozialabgaben.
+  Je préfère avoir un *salaire* fixe plutôt que des commissions.
+  Ich habe lieber ein festes *Gehalt* als Provisionen.
 
-  Le salaire conventionnel est le salaire minimum légal pour un certain métier.
-  Der Tariflohn ist der gesetzliche Mindestlohn für einen bestimmten Beruf.
+  Les *salaires* réels ont diminué à cause de l'inflation.
+  Die Effektiv*löhne* sind wegen der Inflation gesunken.
 
-  Le salaire réel est le salaire net après déduction des impôts et des cotisations sociales.
-  Der Effektivlohn ist das Nettogehalt nach Abzug von Steuern und Sozialabgaben.
+  Il faut regarder ton bulletin de *salaire* attentivement.
+  Du musst deine *Gehalts*abrechnung sorgfältig prüfen.
 
-  Un salaire fixe est un salaire qui ne varie pas en fonction des résultats de l'entreprise.
-  Ein festes Gehalt ist ein Gehalt, das sich nicht nach den Ergebnissen des Unternehmens richtet.
+  Les petits *salaires* sont les plus touchés par la crise.
+  Die Klein*verdiener* sind am stärksten von der Krise betroffen.
 
-  Un salaire indexé est un salaire qui est ajusté en fonction de l'inflation.
-  Ein Indexlohn ist ein Gehalt, das an die Inflation angepasst wird.
+  Son *salaire* annuel dépasse les 50.000 euros.
+  Sein Jahres*gehalt* übersteigt 50.000 Euro.
 
-  Le salaire minimum horaire est le salaire minimum légal que les employeurs doivent payer à leurs employés.
-  Der Mindeststundenlohn ist der gesetzliche Mindestlohn, den Arbeitgeber ihren Angestellten zahlen müssen.
+  L'entreprise verse les *salaires* le 5 du mois.
+  Die Firma zahlt die *Gehälter* am 5. des Monats.
 
-  Le salaire minimum interprofessionnel est le salaire minimum légal pour tous les employés, quel que soit leur métier.
-  Der berufsunabhängige Mindestlohn ist der gesetzliche Mindestlohn für alle Arbeitnehmer, unabhängig von ihrem Beruf.
+  "Ce n'est qu'un *salaire* de misère !"
+  "Das ist ja nur ein *Hunger*lohn!"
 
-  Le salaire minimum interprofessionnel de croissance est un salaire minimum qui est automatiquement augmenté chaque année en fonction de l'inflation et de la croissance économique.
-  Der gesetzlich garantierte dynamische Mindestlohn ist ein Mindestlohn, der jährlich automatisch an die Inflation und das Wirtschaftswachstum angepasst wird.
+  Toute peine mérite *salaire*.
+  Jede Mühe verdient ihren *Lohn*.
+
+  Le *salaire* conventionnel varie selon les branches.
+  Der Tarif*lohn* unterscheidet sich je nach Branche.
+
+  Elle a demandé une avance sur *salaire*.
+  Sie hat einen *Gehalts*vorschuss beantragt.
+
+  C'est le juste *salaire* de sa trahison.
+  Das ist der gerechte *Lohn* für seinen Verrat.
+
+  Les *salaires* sont versés par virement bancaire.
+  Die *Gehälter* werden per Überweisung ausgezahlt.
+
+  Un *salaire* élevé n'est pas tout dans la vie.
+  Ein hohes *Gehalt* ist nicht alles im Leben.
+
+  Les négociations sur les *salaires* continuent.
+  Die *Lohn*verhandlungen gehen weiter.
+
+  Le *salaire* horaire minimum augmentera en janvier.
+  Der Mindest*stunden*lohn wird im Januar steigen.
+
+  Ils reçoivent un treizième mois de *salaire*.
+  Sie bekommen ein dreizehntes Monats*gehalt*.
+
+  La grille des *salaires* a été révisée.
+  Die *Gehalts*tabelle wurde überarbeitet.
+
+  Son *salaire* lui permet à peine de vivre.
+  Sein *Lohn* reicht kaum zum Leben.
+
+  Le nouveau *salaire* minimum est entré en vigueur.
+  Der neue Mindest*lohn* ist in Kraft getreten.
+
+  Les *salaires* nominaux ont augmenté de 3%.
+  Die Nominal*löhne* sind um 3% gestiegen.
+
+  Je dois vérifier mon bulletin de *salaire*.
+  Ich muss meine *Gehalts*abrechnung überprüfen.
+
+  La différence entre *salaire* brut et net est importante.
+  Der Unterschied zwischen Brutto- und Netto*gehalt* ist groß.
+
+  Son *salaire* comprend des avantages en nature.
+  Sein *Gehalt* beinhaltet Sachleistungen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,32 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le texte du rapport figure à l’annexe.
-  Der Text des Berichts befindet sich im Anhang.
+  Le texte du rapport figure à l'*annexe*.
+  Der Text des Berichts befindet sich im *Anhang*.
 
-  L’annexe de ce document contient des informations supplémentaires.
-  Der Anhang dieses Dokuments enthält zusätzliche Informationen.
+  Les pièces *annexes* du dossier comprennent des photos et des plans.
+  Die *beigefügten* Unterlagen der Akte enthalten Fotos und Pläne.
 
-  Les frais annexes sont importants à prendre en compte lors du calcul du budget.
-  Nebenkosten sind bei der Budgetberechnung wichtig zu berücksichtigen.
+  J'ai envoyé le document principal et ses *annexes* par e-mail.
+  Ich habe das Hauptdokument und seine *Anlagen* per E-Mail geschickt.
 
-  L'annexe d'un contrat précise les détails du contrat principal.
-  Der Zusatz zu einem Vertrag präzisiert die Details des Hauptvertrags.
+  Cette chambre se trouve dans l'*annexe* de l'hôtel.
+  Dieses Zimmer befindet sich im *Nebengebäude* des Hotels.
 
-  Le bâtiment annexe abrite des bureaux supplémentaires.
-  Das Nebengebäude beherbergt zusätzliche Büros.
+  La bibliographie est placée en *annexe* du mémoire.
+  Die Bibliographie ist als *Anhang* zur Abschlussarbeit beigefügt.
 
-  La pièce annexe d'un dossier contient des documents supplémentaires.
-  Die Anlage eines Dossiers enthält zusätzliche Dokumente.
+  Les frais *annexes* ne sont pas inclus dans le prix.
+  Die *Neben*kosten sind nicht im Preis enthalten.
 
-  Ils habitent dans un logement annexe appartenant à la maison principale.
-  Sie wohnen in einer Wohnung nebenan, die zum Haupthaus gehört.
+  Un petit local *annexe* sert de débarras.
+  Ein kleiner *Neben*raum dient als Abstellkammer.
 
-  Le fichier annexe contient des informations complémentaires.
-  Der Dateianhang enthält zusätzliche Informationen.
+  L'*annexe* du lycée accueille les classes préparatoires.
+  Das *Nebengebäude* des Gymnasiums beherbergt die Vorbereitungsklassen.
 
-  Nous joignons en annexe de la présente une liste de nos produits.
-  Als Anlage fügen wir eine Liste unserer Produkte bei.
+  Cette remarque *annexe* n'a pas grande importance.
+  Diese *beiläufige* Bemerkung ist nicht von großer Bedeutung.
+
+  Veuillez trouver ci-joint l'*annexe* au contrat.
+  Anbei finden Sie den *Anhang* zum Vertrag.
+
+  Les considérations *annexes* peuvent attendre.
+  Die *zweitrangigen* Überlegungen können warten.
+
+  Il travaille dans une mairie *annexe* du 15e arrondissement.
+  Er arbeitet in einem *Neben*standort des Rathauses im 15. Bezirk.
+
+  L'*annexe* de la bibliothèque est fermée pour travaux.
+  Das *Nebengebäude* der Bibliothek ist wegen Bauarbeiten geschlossen.
+
+  Cette question *annexe* mérite aussi notre attention.
+  Diese *nebensächliche* Frage verdient auch unsere Aufmerksamkeit.
+
+  Les dépenses *annexes* ont dépassé nos prévisions.
+  Die *Neben*ausgaben haben unsere Erwartungen überschritten.
+
+  Nous avons construit une petite *annexe* dans le jardin.
+  Wir haben ein kleines *Nebengebäude* im Garten gebaut.
+
+  Le fichier *annexe* est trop volumineux pour être envoyé.
+  Der *Anhang* der Datei ist zu groß zum Versenden.
+
+  Les documents *annexes* doivent être signés également.
+  Die *beigefügten* Dokumente müssen ebenfalls unterschrieben werden.
+
+  Une salle de sport *annexe* a été aménagée au sous-sol.
+  Ein *zusätzlicher* Fitnessraum wurde im Untergeschoss eingerichtet.
+
+  L'*annexe* du musée expose les œuvres contemporaines.
+  Das *Nebengebäude* des Museums stellt zeitgenössische Werke aus.
+
+  Cette *annexe* au traité définit les conditions techniques.
+  Dieser *Anhang* zum Vertrag legt die technischen Bedingungen fest.
+
+  Les bureaux *annexes* seront rénovés l'année prochaine.
+  Die *Neben*büros werden nächstes Jahr renoviert.
+
+  L'entreprise a ouvert une *annexe* dans le centre-ville.
+  Die Firma hat eine *Zweigstelle* in der Innenstadt eröffnet.
+
+  Tous les détails sont expliqués dans l'*annexe* du rapport.
+  Alle Details werden im *Anhang* des Berichts erläutert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

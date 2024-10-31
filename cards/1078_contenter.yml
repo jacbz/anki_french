@@ -13,20 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tu te contenteras d’être le chauffeur.
-  Du begnügst dich damit, der Fahrer zu sein.
+  Tu te *contenteras* d'être le chauffeur.
+  Du wirst dich damit *begnügen* müssen, der Fahrer zu sein.
 
-  Je suis contenté de mon travail.
-  Ich bin mit meiner Arbeit zufrieden.
+  Pour *contenter* sa curiosité, Marie a ouvert la lettre en cachette.
+  Um ihre Neugier zu *befriedigen*, öffnete Marie heimlich den Brief.
 
-  On ne peut pas toujours contenter tout le monde, c'est une vérité universelle.
-  Man kann es nicht immer allen recht machen, das ist eine universelle Wahrheit.
+  Les enfants se sont *contentés* de jouer dans le jardin toute l'après-midi.
+  Die Kinder haben sich damit *begnügt*, den ganzen Nachmittag im Garten zu spielen.
 
-  Elle s'est contentée de quelques gâteaux, bien qu'il y en ait eu beaucoup.
-  Sie hat sich mit ein paar Kuchen zufriedengegeben, obwohl es viele gab.
+  Cette augmentation de salaire devrait *contenter* les employés.
+  Diese Gehaltserhöhung sollte die Mitarbeiter *zufriedenstellen*.
 
-  Il se contente de faire des petits boulots, pour le moment.
-  Er begnügt sich im Moment damit, kleine Jobs zu machen.
+  Il s'est *contenté* de hausser les épaules au lieu de répondre.
+  Er hat sich damit *begnügt*, mit den Schultern zu zucken, anstatt zu antworten.
+
+  Je ne peux pas *contenter* tous mes clients en même temps.
+  Ich kann nicht alle meine Kunden gleichzeitig *zufriedenstellen*.
+
+  Elle se *contente* d'un petit appartement en centre-ville.
+  Sie gibt sich mit einer kleinen Wohnung in der Innenstadt *zufrieden*.
+
+  Pour *contenter* son appétit, il a mangé deux assiettes de pâtes.
+  Um seinen Hunger zu *stillen*, hat er zwei Teller Nudeln gegessen.
+
+  Ces explications ne me *contentent* pas du tout.
+  Diese Erklärungen *befriedigen* mich überhaupt nicht.
+
+  L'entreprise n'a pas réussi à *contenter* les exigences des investisseurs.
+  Das Unternehmen konnte die Anforderungen der Investoren nicht *erfüllen*.
+
+  Je me suis *contenté* d'un café pour le petit-déjeuner.
+  Ich habe mich zum Frühstück mit einem Kaffee *begnügt*.
+
+  Cette solution simple devrait *contenter* tout le monde.
+  Diese einfache Lösung sollte alle *zufriedenstellen*.
+
+  Il faudra vous *contenter* de ce que nous avons pour l'instant.
+  Sie werden sich vorläufig mit dem *begnügen* müssen, was wir haben.
+
+  Les parents sont difficiles à *contenter* quand il s'agit de l'éducation.
+  Die Eltern sind schwer *zufriedenzustellen*, wenn es um die Erziehung geht.
+
+  Elle s'est *contentée* d'observer la scène sans intervenir.
+  Sie hat sich damit *begnügt*, die Szene zu beobachten, ohne einzugreifen.
+
+  Cette réponse vague ne *contentera* pas le jury.
+  Diese vage Antwort wird die Jury nicht *zufriedenstellen*.
+
+  Pour *contenter* son besoin d'aventure, il voyage chaque été.
+  Um sein Bedürfnis nach Abenteuer zu *befriedigen*, reist er jeden Sommer.
+
+  Le petit garçon se *contente* de peu pour être heureux.
+  Der kleine Junge gibt sich mit wenig *zufrieden*, um glücklich zu sein.
+
+  Nous devons *contenter* les attentes de nos supérieurs.
+  Wir müssen die Erwartungen unserer Vorgesetzten *erfüllen*.
+
+  Paul s'est *contenté* d'un sandwich pour le déjeuner.
+  Paul hat sich für das Mittagessen mit einem Sandwich *begnügt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

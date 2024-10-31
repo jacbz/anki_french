@@ -13,35 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les rues me semblaient hostiles.
-  Die Straßen erschienen mir feindselig.
+  Les rues me semblaient *hostiles*.
+  Die Straßen erschienen mir *feindselig*.
 
-  Il a un comportement hostile envers moi.
-  Er verhält sich feindlich mir gegenüber.
+  Une foule *hostile* s'est rassemblée devant le bâtiment.
+  Eine *feindselige* Menge versammelte sich vor dem Gebäude.
 
-  Le gouvernement est hostile à ce projet de loi controversé.
-  Die Regierung steht diesem umstrittenen Gesetzesvorhaben ablehnend gegenüber.
+  Cette région désertique est un milieu particulièrement *hostile* à la vie.
+  Diese Wüstenregion ist ein besonders *lebensfeindliches* Gebiet.
 
-  C'est un homme austère et hostile au plaisir.
-  Er ist ein strenger, lustfeindlicher Mensch.
+  Le chien m'a lancé un regard *hostile*.
+  Der Hund warf mir einen *feindseligen* Blick zu.
 
-  Le syndicat dénonce une politique hostile aux intérêts des ouvriers.
-  Die Gewerkschaft prangert eine arbeiterfeindliche Politik an.
+  Marie s'est toujours montrée *hostile* à l'idée du mariage.
+  Marie stand der Idee der Ehe immer *ablehnend* gegenüber.
 
-  Les associations écologistes luttent contre cette installation hostile à la protection de l'environnement.
-  Die Umweltverbände kämpfen gegen diese umweltfeindliche Anlage.
+  Cette usine *hostile* à l'environnement doit être modernisée.
+  Diese *umweltfeindliche* Anlage muss modernisiert werden.
 
-  Le directeur est hostile à son nouveau collaborateur.
-  Der Direktor ist seinem neuen Mitarbeiter nicht wohlgesinnt.
+  Les forces *hostiles* ont envahi le territoire pendant la nuit.
+  Die *feindlichen* Streitkräfte sind in der Nacht in das Gebiet eingedrungen.
 
-  Elle a fait une remarque hostile aux hommes, ce qui a choqué l'assemblée.
-  Sie machte eine männerfeindliche Bemerkung, was die Versammlung schockierte.
+  Le silence *hostile* qui suivit son discours en disait long.
+  Das *feindselige* Schweigen nach seiner Rede sagte viel aus.
 
-  De nombreuses féministes radicales sont accusées d'être hostiles aux hommes.
-  Viele radikale Feministinnen werden beschuldigt, männerfeindlich eingestellt zu sein.
+  Les habitants sont devenus *hostiles* aux touristes depuis l'incident.
+  Die Einwohner sind seit dem Vorfall *touristenfeindlich* geworden.
 
-  Les habitants de l'île sont devenus hostiles aux touristes à cause du tourisme de masse.
-  Die Inselbewohner sind durch den Massentourismus den Touristen gegenüber feindlich gesinnt geworden.
+  Le journal se montre particulièrement *hostile* au gouvernement actuel.
+  Die Zeitung zeigt sich der aktuellen Regierung gegenüber besonders *feindlich*.
+
+  Paul est connu pour être *hostile* aux nouvelles technologies.
+  Paul ist dafür bekannt, dass er *feindlich* gegenüber neuen Technologien eingestellt ist.
+
+  Cette politique *hostile* aux travailleurs a provoqué des manifestations.
+  Diese *arbeiterfeindliche* Politik hat Demonstrationen ausgelöst.
+
+  La nature peut se montrer très *hostile* dans ces montagnes.
+  Die Natur kann sich in diesen Bergen sehr *feindlich* zeigen.
+
+  Son attitude *hostile* a créé des tensions dans l'équipe.
+  Seine *feindselige* Haltung hat Spannungen im Team verursacht.
+
+  L'assemblée s'est montrée *hostile* à cette proposition.
+  Die Versammlung zeigte sich diesem Vorschlag gegenüber *ablehnend*.
+
+  Ces remarques *hostiles* aux femmes n'ont pas leur place ici.
+  Diese *frauenfeindlichen* Bemerkungen haben hier keinen Platz.
+
+  Le climat *hostile* de cette planète rend toute vie impossible.
+  Das *lebensfeindliche* Klima dieses Planeten macht jedes Leben unmöglich.
+
+  Les conditions *hostiles* en haute mer ont forcé le bateau à faire demi-tour.
+  Die *feindlichen* Bedingungen auf hoher See zwangen das Boot zur Umkehr.
+
+  Son regard *hostile* m'a fait comprendre que je n'étais pas le bienvenu.
+  Sein *feindseliger* Blick ließ mich verstehen, dass ich nicht willkommen war.
+
+  Cette région est connue pour sa végétation *hostile*.
+  Diese Region ist für ihre *feindliche* Vegetation bekannt.
+
+  Le vote *hostile* du conseil a surpris tout le monde.
+  Die *ablehnende* Abstimmung des Rates hat alle überrascht.
+
+  Les voisins se sont montrés *hostiles* à la construction du nouveau centre commercial.
+  Die Nachbarn zeigten sich dem Bau des neuen Einkaufszentrums gegenüber *feindlich*.
+
+  L'environnement *hostile* des fonds marins nécessite un équipement spécial.
+  Die *lebensfeindliche* Umgebung der Meerestiefen erfordert eine spezielle Ausrüstung.
+
+  Elle a toujours été *hostile* à l'idée de déménager.
+  Sie war der Idee umzuziehen gegenüber immer *ablehnend* eingestellt.
+
+  Les manifestants ont accueilli le ministre dans une ambiance *hostile*.
+  Die Demonstranten empfingen den Minister in einer *feindseligen* Atmosphäre.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

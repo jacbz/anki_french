@@ -13,26 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On doit vous interroger sur ces événements.
-  Wir müssen Sie zu diesen Ereignissen befragen.
+  On doit vous *interroger* sur ces événements.
+  Man muss Sie zu diesen Ereignissen *befragen*.
 
-  Le policier va interroger le suspect.
-  Der Polizist wird den Verdächtigen verhören.
+  Le professeur *interrogera* Marie sur l'histoire de France demain.
+  Der Lehrer wird Marie morgen über die französische Geschichte *abfragen*.
 
-  Le professeur a interrogé les élèves sur le chapitre précédent.
-  Der Lehrer hat die Schüler zum vorherigen Kapitel befragt.
+  Les policiers ont *interrogé* tous les témoins de l'accident.
+  Die Polizisten haben alle Zeugen des Unfalls *vernommen*.
 
-  Je m'interroge sur les motivations de son départ.
-  Ich stelle mir Fragen über seine Beweggründe für den Abschied.
+  Je m'*interroge* sur ses vraies motivations.
+  Ich *frage* mich nach seinen wahren Beweggründen.
 
-  Elle l'interrogea du regard, cherchant une réponse dans ses yeux.
-  Sie sah ihn fragend an, suchte in seinen Augen eine Antwort.
+  Le météorologue *interroge* le ciel pour prévoir la pluie.
+  Der Meteorologe *untersucht* den Himmel, um den Regen vorherzusagen.
 
-  Le policier a interrogé le suspect sur son alibi.
-  Der Polizist hat den Verdächtigen zu seinem Alibi befragt.
+  Elle *interrogeait* régulièrement sa base de données clients.
+  Sie *fragte* regelmäßig ihre Kundendatenbank *ab*.
 
-  Dix pour cent des personnes interrogées étaient d'accord avec la proposition.
-  Zehn Prozent der Befragten waren mit dem Vorschlag einverstanden.
+  Les journalistes ont *interrogé* le maire sur les nouveaux projets.
+  Die Journalisten haben den Bürgermeister zu den neuen Projekten *befragt*.
+
+  Il faut *interroger* sa conscience avant de prendre une décision.
+  Man muss sein Gewissen *befragen*, bevor man eine Entscheidung trifft.
+
+  L'historien *interroge* le passé pour comprendre le présent.
+  Der Historiker *erforscht* die Vergangenheit, um die Gegenwart zu verstehen.
+
+  Je dois *interroger* mon répondeur téléphonique.
+  Ich muss meinen Anrufbeantworter *abhören*.
+
+  Elle m'a *interrogé* du regard, sans dire un mot.
+  Sie hat mich *fragend angeschaut*, ohne ein Wort zu sagen.
+
+  Les chercheurs *interrogent* les faits avec rigueur.
+  Die Forscher *analysieren* die Fakten mit Sorgfalt.
+
+  Le jury a *interrogé* chaque candidat pendant une heure.
+  Die Jury hat jeden Kandidaten eine Stunde lang *geprüft*.
+
+  Paul s'*interroge* encore sur son choix de carrière.
+  Paul *zweifelt* noch an seiner Berufswahl.
+
+  J'ai dû *interroger* ma mémoire pour retrouver son nom.
+  Ich musste mein Gedächtnis *durchforsten*, um mich an seinen Namen zu erinnern.
+
+  Le capitaine *interroge* l'horizon avec ses jumelles.
+  Der Kapitän *sucht* den Horizont mit seinem Fernglas *ab*.
+
+  Les sociologues ont *interrogé* cent personnes pour leur étude.
+  Die Soziologen haben hundert Personen für ihre Studie *befragt*.
+
+  Le médecin *interroge* le patient sur ses symptômes.
+  Der Arzt *befragt* den Patienten zu seinen Symptomen.
+
+  Nous nous *interrogeons* sur l'avenir de notre entreprise.
+  Wir *fragen* uns nach der Zukunft unseres Unternehmens.
+
+  L'inspecteur *interrogeait* le suspect depuis deux heures.
+  Der Inspektor *verhörte* den Verdächtigen seit zwei Stunden.
+
+  Les parents *interrogent* leur fille sur ses mauvaises notes.
+  Die Eltern *befragen* ihre Tochter zu ihren schlechten Noten.
+
+  Sophie *interroge* son cœur avant de répondre.
+  Sophie *horcht* in ihr Herz, bevor sie antwortet.
+
+  Le sondeur *interroge* les passants dans la rue.
+  Der Meinungsforscher *befragt* die Passanten auf der Straße.
+
+  L'examinateur *interrogera* les étudiants à l'oral.
+  Der Prüfer wird die Studenten mündlich *prüfen*.
+
+  Je m'*interroge* sur le sens de la vie.
+  Ich *stelle* mir Fragen über den Sinn des Lebens.
+
+  L'archéologue *interroge* les vestiges du passé.
+  Der Archäologe *untersucht* die Überreste der Vergangenheit.
+
+  Les experts *interrogent* la base de données satellite.
+  Die Experten *rufen* die Satellitendatenbank *ab*.
+
+  Elle s'*interrogeait* sur ses sentiments envers lui.
+  Sie *fragte* sich nach ihren Gefühlen für ihn.
+
+  Le détective *interroge* les voisins sur ce qu'ils ont vu.
+  Der Detektiv *befragt* die Nachbarn dazu, was sie gesehen haben.
+
+  Les scientifiques *interrogent* la nature pour comprendre ses secrets.
+  Die Wissenschaftler *erforschen* die Natur, um ihre Geheimnisse zu verstehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

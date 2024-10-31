@@ -13,38 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Voici le résultat de l’essai.
-  Hier ist das Ergebnis des Tests.
+  *Voici* le résultat de l'essai.
+  *Hier ist* das Ergebnis des Versuchs.
 
-  Voici mon livre.
-  Hier ist mein Buch.
+  *Voici* mon frère Thomas, il vient d'arriver de Paris.
+  *Hier ist* mein Bruder Thomas, er ist gerade aus Paris angekommen.
 
-  Voici mon ami, Marc.
-  Das ist mein Freund Marc.
+  *Voici* ce que je pense de cette situation délicate.
+  *Hier ist*, was ich von dieser heiklen Situation halte.
 
-  Voici la nouvelle voiture que j’ai achetée.
-  Dies ist das neue Auto, das ich gekauft habe.
+  *Voici* trois mois que je travaille sur ce projet.
+  Ich arbeite *seit* drei Monaten an diesem Projekt.
 
-  Voici une photo de moi et de ma famille.
-  Hier ist ein Foto von mir und meiner Familie.
+  *Voici* comment procéder pour installer le logiciel.
+  *Hier ist*, wie man die Software installiert.
 
-  Voici comment résoudre ce problème facilement.
-  Hier erfahren Sie, wie Sie dieses Problem ganz einfach lösen können.
+  Les *voici* enfin réunis après tant d'années.
+  *Da sind* sie endlich nach so vielen Jahren wieder vereint.
 
-  Voici la raison pour laquelle j’ai pris cette décision importante.
-  Hier ist der Grund, warum ich diese wichtige Entscheidung getroffen habe.
+  *Voici* la raison pour laquelle j'ai refusé leur offre.
+  *Hier ist* der Grund, warum ich ihr Angebot abgelehnt habe.
 
-  Voici mon père et voilà ma mère.
-  Hier mein Vater und da meine Mutter.
+  *Voici* venir le printemps avec ses belles journées.
+  Der Frühling *naht* mit seinen schönen Tagen.
 
-  Voici dix ans que j'ai quitté la France.
-  Vor zehn Jahren habe ich Frankreich verlassen.
+  *Voici* ma carte d'identité, Monsieur l'agent.
+  *Hier ist* mein Personalausweis, Herr Polizist.
 
-  Voici près d'une heure que j'attends le bus.
-  Etwa eine Stunde warte ich jetzt auf den Bus.
+  Me *voici* prêt à commencer l'entretien.
+  *Hier bin* ich bereit, mit dem Gespräch zu beginnen.
 
-  Voici bien des jours que j'attends ce moment.
-  Ich warte schon einige Tage auf diesen Moment.
+  Nous *voici* arrivés à destination.
+  *Hier sind* wir am Ziel angekommen.
+
+  *Voici* l'été qui arrive avec ses longues soirées.
+  Der Sommer *kommt* mit seinen langen Abenden.
+
+  *Voici* une semaine que j'attends sa réponse.
+  Ich warte *seit* einer Woche auf seine Antwort.
+
+  *Voici* pourquoi je ne viendrai pas à la fête.
+  *Hier ist*, warum ich nicht zur Party kommen werde.
+
+  *Voici* mes clés et voilà les tiennes.
+  *Hier sind* meine Schlüssel und dort sind deine.
+
+  *Voici* venir le moment que nous attendions tous.
+  *Jetzt kommt* der Moment, auf den wir alle gewartet haben.
+
+  *Voici* l'explication de son comportement étrange.
+  *Hier ist* die Erklärung für sein seltsames Verhalten.
+
+  *Voici* ma contribution au projet collectif.
+  *Hier ist* mein Beitrag zum Gemeinschaftsprojekt.
+
+  Te *voici* enfin rentré de ton long voyage !
+  *Da bist* du endlich von deiner langen Reise zurück!
+
+  *Voici* deux heures que j'essaie de te joindre.
+  Ich versuche *seit* zwei Stunden, dich zu erreichen.
+
+  *Voici* les documents que vous m'avez demandés.
+  *Hier sind* die Unterlagen, die Sie von mir angefordert haben.
+
+  *Voici* ce dont nous avons discuté hier.
+  *Hier ist*, worüber wir gestern gesprochen haben.
+
+  *Voici* ma proposition pour résoudre ce problème.
+  *Hier ist* mein Vorschlag zur Lösung dieses Problems.
+
+  Nous *voici* au début d'une nouvelle aventure.
+  *Hier sind* wir am Beginn eines neuen Abenteuers.
+
+  *Voici* vos billets de train, bon voyage !
+  *Hier sind* Ihre Zugtickets, gute Reise!
+
+  Les *voici* qui arrivent pour la réunion.
+  *Da kommen* sie zur Besprechung.
+
+  *Voici* un exemple concret de ce que je veux dire.
+  *Hier ist* ein konkretes Beispiel für das, was ich meine.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

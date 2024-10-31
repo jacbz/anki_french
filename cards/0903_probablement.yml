@@ -13,23 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il est probablement mort à ce moment-là.
-  Er ist wahrscheinlich zu diesem Zeitpunkt gestorben.
+  Il est *probablement* mort à ce moment-là.
+  Er war zu diesem Zeitpunkt *wahrscheinlich* tot.
 
-  Probablement, il va pleuvoir demain.
-  Wahrscheinlich wird es morgen regnen.
+  Le train arrivera *probablement* en retard aujourd'hui.
+  Der Zug wird heute *wahrscheinlich* zu spät kommen.
 
-  Tu savais probablement déjà ça.
-  Das wusstest du wahrscheinlich schon.
+  *Probablement* qu'elle dira non à cette proposition.
+  Sie wird diesem Vorschlag *wahrscheinlich* nicht zustimmen.
 
-  Il est probablement toujours en vie.
-  Er ist wahrscheinlich noch am Leben.
+  Ces documents datent *probablement* du XVIIIe siècle.
+  Diese Dokumente stammen *wahrscheinlich* aus dem 18. Jahrhundert.
 
-  Il est probable qu'il dira oui, car il semble vraiment intéressé par le projet.
-  Wahrscheinlich wird er ja sagen, da er sich für das Projekt wirklich zu interessieren scheint.
+  Il réussira *probablement* son examen s'il continue à travailler ainsi.
+  Er wird seine Prüfung *wahrscheinlich* bestehen, wenn er so weitermacht.
 
-  Je suis probablement amoureux de toi.
-  Ich muss mich wohl in dich verliebt haben.
+  "Tu viendras à la fête ? – *Probablement* pas."
+  "Kommst du zur Party? – *Wahrscheinlich* nicht."
+
+  Cette recette est *probablement* originaire d'Italie.
+  Dieses Rezept stammt *wahrscheinlich* aus Italien.
+
+  Les premiers humains sont *probablement* apparus en Afrique.
+  Die ersten Menschen sind *wahrscheinlich* in Afrika aufgetaucht.
+
+  *Probablement* que nous devrons reporter la réunion.
+  Wir werden das Treffen *wahrscheinlich* verschieben müssen.
+
+  Ce tableau a *probablement* été peint au printemps.
+  Dieses Gemälde wurde *wahrscheinlich* im Frühling gemalt.
+
+  Les dinosaures ont *probablement* disparu à cause d'une météorite.
+  Die Dinosaurier sind *wahrscheinlich* wegen eines Meteoriten ausgestorben.
+
+  Il ne viendra *probablement* jamais nous voir ici.
+  Er wird uns hier *wahrscheinlich* nie besuchen kommen.
+
+  *Probablement* qu'il pleuvra demain matin.
+  Morgen früh wird es *wahrscheinlich* regnen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

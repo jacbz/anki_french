@@ -13,44 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les dames serviront à boire aux étudiants.
-  Die Damen servieren den Schülerinnen und Schülern Getränke.
+  Les dames serviront à boire aux *étudiants*.
+  Die Damen werden den *Studenten* Getränke servieren.
 
-  Je suis étudiant à l’université.
-  Ich bin Student an der Universität.
+  Marie est *étudiante* en architecture depuis trois ans.
+  Marie ist seit drei Jahren *Architekturstudentin*.
 
-  C’est un étudiant.
-  Er ist ein Schüler.
+  Le mouvement syndical *étudiant* a organisé une manifestation hier.
+  Die *studentische* Gewerkschaftsbewegung hat gestern eine Demonstration organisiert.
 
-  Tu n’es pas un étudiant.
-  Du bist kein Schüler.
+  Paul est un *étudiant* brillant en sciences naturelles.
+  Paul ist ein brillanter *Student* der Naturwissenschaften.
 
-  Un étudiant veut te voir.
-  Ein Schüler möchte dich sehen.
+  La vie *étudiante* à Paris est très animée.
+  Das *Studenten*leben in Paris ist sehr lebendig.
 
-  Je suis un étudiant de cette école.
-  Ich bin ein Schüler dieser Schule.
+  Cette *étudiante* en médecine fait son stage à l'hôpital.
+  Diese *Medizinstudentin* macht ihr Praktikum im Krankenhaus.
 
-  Il est de loin le meilleur des étudiants.
-  Er ist mit Abstand der beste Schüler.
+  Les revendications *étudiantes* ont été entendues par le doyen.
+  Die *studentischen* Forderungen wurden vom Dekan gehört.
 
-  Marie est étudiante en architecture.
-  Marie ist Architekturstudentin.
+  Mon frère est *étudiant* en droit à la Sorbonne.
+  Mein Bruder ist *Jura**student* an der Sorbonne.
 
-  Sophie est étudiante en art.
-  Sophie ist Kunststudentin.
+  La résidence *étudiante* sera rénovée cet été.
+  Das *Studenten*wohnheim wird diesen Sommer renoviert.
 
-  Paul est étudiant en médecine.
-  Paul ist Medizinstudent.
+  Les nouveaux *étudiants* commenceront leurs cours lundi prochain.
+  Die neuen *Studienanfänger* werden nächsten Montag mit ihren Kursen beginnen.
 
-  Laura est étudiante en sciences.
-  Laura ist Studentin der Naturwissenschaften.
+  Cette université accueille plus de mille *étudiants* en arts.
+  Diese Universität nimmt über tausend *Kunst**studenten* auf.
 
-  Marie est une nouvelle étudiante.
-  Marie ist Studienanfängerin.
+  Le monde *étudiant* se mobilise pour le climat.
+  Die *Studenten*schaft mobilisiert sich für das Klima.
 
-  Jean est un faux étudiant.
-  Jean ist ein Scheinstudent.
+  Les *faux étudiants* risquent l'expulsion de l'université.
+  Die *Schein**studenten* riskieren den Verweis von der Universität.
+
+  Cette association aide les *étudiants* à trouver un logement.
+  Dieser Verein hilft *Studenten* bei der Wohnungssuche.
+
+  Les *étudiantes* en lettres organisent un club de lecture.
+  Die *Literatur**studentinnen* organisieren einen Leseclub.
+
+  La révolte *étudiante* s'est propagée dans tout le pays.
+  Der *studentische* Aufstand hat sich im ganzen Land ausgebreitet.
+
+  Le conseil des *étudiants* se réunit chaque mois.
+  Der *Studenten*rat trifft sich jeden Monat.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,26 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La compagnie d’assurance me remboursera de toute manière.
-  Die Versicherungsgesellschaft wird mir die Kosten auf jeden Fall erstatten.
+  La compagnie d'assurance me *remboursera* de toute manière.
+  Die Versicherung wird mir auf jeden Fall das Geld *zurückerstatten*.
 
-  Je vais te rembourser demain.
-  Ich werde dir morgen das Geld zurückzahlen.
+  Je dois *rembourser* ma dette avant la fin du mois.
+  Ich muss meine Schulden bis Ende des Monats *zurückzahlen*.
 
-  Pierre a remboursé sa dette à Marie, comme il l'avait promis.
-  Pierre hat Marie seine Schulden zurückgezahlt, wie er es versprochen hatte.
+  La sécurité sociale a *remboursé* tous mes frais médicaux.
+  Die Krankenkasse hat alle meine Arztkosten *erstattet*.
 
-  Ce médicament n'est pas remboursé par la sécurité sociale, ce qui est une véritable injustice pour les patients.
-  Die Kosten für dieses Medikament werden nicht von der Krankenkasse übernommen, was für die Patienten eine echte Ungerechtigkeit darstellt.
+  "*Remboursez* !" ont crié les spectateurs mécontents.
+  "*Gebt uns unser Geld zurück*!" riefen die unzufriedenen Zuschauer.
 
-  Le prix du billet d'avion était si élevé que ça remboursait à peine les frais de fonctionnement de l'agence de voyage.
-  Der Flugticketpreis war so hoch, dass das kaum die Betriebskosten des Reisebüros deckte.
+  Marc m'a enfin *remboursé* les 50 euros qu'il me devait.
+  Marc hat mir endlich die 50 Euro *zurückgezahlt*, die er mir schuldete.
 
-  Je te rembourserai demain ! J'ai oublié mon portefeuille ce matin.
-  Ich gebe dir das Geld morgen zurück! Ich habe meinen Geldbeutel heute Morgen vergessen.
+  Ce médicament n'est pas *remboursé* par la mutuelle.
+  Dieses Medikament wird von der Zusatzversicherung nicht *erstattet*.
 
-  Remboursez ! Remboursez ! Nous avons été victimes d'une escroquerie et nous exigeons notre argent !
-  Wir wollen unser Geld zurück! Wir sind Opfer eines Betrugs geworden und fordern unser Geld zurück!
+  Tu pourras te *rembourser* sur la caisse commune.
+  Du kannst dich aus der gemeinsamen Kasse *entschädigen*.
+
+  La banque *remboursera* le capital et les intérêts sur dix ans.
+  Die Bank wird das Kapital und die Zinsen über zehn Jahre *tilgen*.
+
+  Je te *rembourserai* dès que je reçois mon salaire.
+  Ich werde dir das Geld *zurückgeben*, sobald ich mein Gehalt bekomme.
+
+  Les bénéfices ont à peine *remboursé* les frais de production.
+  Die Einnahmen haben kaum die Produktionskosten *gedeckt*.
+
+  L'entreprise a *remboursé* tous les frais de déplacement.
+  Das Unternehmen hat alle Reisekosten *erstattet*.
+
+  Sophie s'est fait *rembourser* son billet d'avion annulé.
+  Sophie hat sich ihr storniertes Flugticket *erstatten* lassen.
+
+  Je dois *rembourser* mon prêt étudiant pendant vingt ans.
+  Ich muss meinen Studienkredit zwanzig Jahre lang *abbezahlen*.
+
+  La ville *remboursera* intégralement les dégâts causés par l'inondation.
+  Die Stadt wird die durch die Überschwemmung verursachten Schäden vollständig *ersetzen*.
+
+  Mon assurance ne *rembourse* que 70% des frais dentaires.
+  Meine Versicherung *erstattet* nur 70% der Zahnarztkosten.
+
+  Elle m'a promis de me *rembourser* avant vendredi.
+  Sie hat mir versprochen, mir das Geld bis Freitag *zurückzuzahlen*.
+
+  Le magasin a *remboursé* tous les clients mécontents.
+  Das Geschäft hat allen unzufriedenen Kunden ihr Geld *zurückerstattet*.
+
+  Paul doit me *rembourser* les courses que j'ai faites pour lui.
+  Paul muss mir die Einkäufe *erstatten*, die ich für ihn gemacht habe.
+
+  L'État *remboursera* les obligations à leur échéance.
+  Der Staat wird die Anleihen bei Fälligkeit *tilgen*.
+
+  Nous nous sommes fait *rembourser* les billets du concert annulé.
+  Wir haben uns die Karten für das abgesagte Konzert *zurückerstatten* lassen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

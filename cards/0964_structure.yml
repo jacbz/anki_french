@@ -13,41 +13,107 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Une structure bien déterminée est choisie.
-  Eine ganz bestimmte Struktur wird gewählt.
+  Une *structure* bien déterminée est choisie.
+  Eine bestimmte *Struktur* wird ausgewählt.
 
-  La structure de cette phrase est incorrecte.
-  Der Aufbau dieses Satzes ist falsch.
+  La *structure* de ce roman est très complexe.
+  Der *Aufbau* dieses Romans ist sehr komplex.
 
-  La structure tarifaire de la compagnie aérienne est très complexe.
-  Das Tarifgefüge der Fluggesellschaft ist sehr komplex.
+  Les chercheurs étudient la *structure* de l'ADN.
+  Die Forscher untersuchen die *Struktur* der DNA.
 
-  La structure gonflable sera utilisée pour les événements sportifs.
-  Die Traglufthalle wird für Sportveranstaltungen genutzt.
+  Cette *structure* métallique supporte tout le poids du bâtiment.
+  Diese Metall*konstruktion* trägt das gesamte Gewicht des Gebäudes.
 
-  La structure d'accueil propose des services aux personnes en difficulté.
-  Die soziale Einrichtung bietet Dienstleistungen für Menschen in Not an.
+  La nouvelle *structure* d'accueil peut héberger cinquante personnes.
+  Die neue soziale *Einrichtung* kann fünfzig Personen aufnehmen.
 
-  La structure d'échange de données est utilisée pour le transfert de fichiers entre les systèmes.
-  Das Datenaustauschformat wird für den Datentransfer zwischen den Systemen verwendet.
+  La *structure* tarifaire sera modifiée l'année prochaine.
+  Das Tarif*gefüge* wird nächstes Jahr geändert werden.
 
-  La structure superficielle du matériau est très fragile.
-  Die Oberflächenstruktur des Materials ist sehr empfindlich.
+  Il faut repenser la *structure* du programme informatique.
+  Die Programm*struktur* muss neu durchdacht werden.
 
-  La réforme de structure du gouvernement a été controversée.
-  Die Strukturreform der Regierung war umstritten.
+  Cette entreprise a une *structure* très hiérarchisée.
+  Dieses Unternehmen hat einen sehr hierarchischen *Aufbau*.
 
-  La structure nucléaire de l'atome est complexe.
-  Der Kernaufbau des Atoms ist komplex.
+  Les *structures* administratives doivent être simplifiées.
+  Die Verwaltungs*strukturen* müssen vereinfacht werden.
 
-  La structure de l'instruction est simple à comprendre.
-  Das Befehlsformat ist leicht verständlich.
+  La *structure* superficielle de la phrase ne révèle pas sa complexité.
+  Die Oberflächen*struktur* des Satzes zeigt nicht seine Komplexität.
 
-  La structure du paragraphe est importante pour la clarté du texte.
-  Das Absatzformat ist wichtig für die Klarheit des Textes.
+  Cette *structure* gonflable servira de salle de sport temporaire.
+  Diese *Traglufthalle* wird als temporäre Sporthalle dienen.
 
-  La structure du programme est bien conçue et efficace.
-  Die Programmstruktur ist gut konzipiert und effizient.
+  La *structure* de l'atome fascine les physiciens.
+  Der *Aufbau* des Atoms fasziniert die Physiker.
+
+  On peut observer la *structure* des cristaux au microscope.
+  Man kann die *Struktur* der Kristalle unter dem Mikroskop beobachten.
+
+  Une importante réforme de *structure* a été mise en place.
+  Eine wichtige *Struktur*reform wurde eingeführt.
+
+  La *structure* du paragraphe doit être claire.
+  Das Absatz*format* muss klar sein.
+
+  Cette *structure* d'échange de données est obsolète.
+  Dieses Datenausstausch*format* ist veraltet.
+
+  Chaque société a sa propre *structure* sociale.
+  Jede Gesellschaft hat ihre eigene Sozial*struktur*.
+
+  La *structure* de cette chaise est très solide.
+  Der *Aufbau* dieses Stuhls ist sehr stabil.
+
+  Les *structures* logiques sont fondamentales en mathématiques.
+  Logische *Strukturen* sind in der Mathematik fundamental.
+
+  La *structure* de l'entreprise a été réorganisée.
+  Die *Struktur* des Unternehmens wurde neu organisiert.
+
+  Cette *structure* nucléaire est unique.
+  Dieser Kern*aufbau* ist einzigartig.
+
+  La *structure* moléculaire détermine les propriétés chimiques.
+  Die Molekular*struktur* bestimmt die chemischen Eigenschaften.
+
+  Les géologues étudient la *structure* des roches.
+  Die Geologen untersuchen die *Struktur* der Gesteine.
+
+  La *structure* du sol influence la croissance des plantes.
+  Die Boden*struktur* beeinflusst das Pflanzenwachstum.
+
+  Cette *structure* métallique rouille rapidement.
+  Diese Metall*struktur* rostet schnell.
+
+  La *structure* économique du pays se transforme.
+  Die Wirtschafts*struktur* des Landes verändert sich.
+
+  La *structure* de son discours était parfaitement organisée.
+  Der *Aufbau* seiner Rede war perfekt organisiert.
+
+  Les nouvelles *structures* éducatives seront inaugurées demain.
+  Die neuen Bildungs*einrichtungen* werden morgen eingeweiht.
+
+  Cette *structure* d'accueil propose des activités variées.
+  Diese soziale *Einrichtung* bietet verschiedene Aktivitäten an.
+
+  La *structure* grammaticale varie selon les langues.
+  Der grammatische *Aufbau* unterscheidet sich je nach Sprache.
+
+  Nous devons renforcer la *structure* de base.
+  Wir müssen die Grund*struktur* verstärken.
+
+  La *structure* de l'instruction doit être respectée.
+  Das Befehls*format* muss eingehalten werden.
+
+  Cette *structure* architecturale est remarquable.
+  Diese architektonische *Struktur* ist bemerkenswert.
+
+  Les biologistes analysent la *structure* des cellules.
+  Die Biologen analysieren die *Struktur* der Zellen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

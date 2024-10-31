@@ -13,17 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je ne veux pas provoquer de révolte.
-  Ich möchte keine Revolte auslösen.
+  Je ne veux pas *provoquer* de révolte.
+  Ich will keinen Aufstand *auslösen*.
 
-  Il a provoqué son adversaire.
-  Er hat seinen Gegner herausgefordert.
+  Un virus peut *provoquer* une maladie grave.
+  Ein Virus kann eine schwere Krankheit *verursachen*.
 
-  Le meneur a provoqué les ouvriers à la révolte en leur promettant de meilleurs salaires.
-  Der Anführer hetzte die Arbeiter zur Revolte auf, indem er ihnen bessere Löhne versprach.
+  La pluie a *provoqué* des inondations dans toute la ville.
+  Der Regen hat in der ganzen Stadt Überschwemmungen *ausgelöst*.
 
-  L'ambiance festive a provoqué Jean à boire un peu plus que d'habitude.
-  Die ausgelassene Stimmung hat Jean dazu verleitet, etwas mehr als gewöhnlich zu trinken.
+  Les stress peut *provoquer* des maux de tête.
+  Stress kann Kopfschmerzen *hervorrufen*.
+
+  Michel aime *provoquer* ses professeurs avec ses remarques.
+  Michel mag es, seine Lehrer mit seinen Bemerkungen zu *provozieren*.
+
+  Cette remarque a *provoqué* un grand éclat de rire.
+  Diese Bemerkung hat schallendes Gelächter *hervorgerufen*.
+
+  Les enfants se sont *provoqués* toute la journée.
+  Die Kinder haben sich den ganzen Tag *provoziert*.
+
+  Sa présence *provoquait* toujours des discussions animées.
+  Seine Anwesenheit *löste* immer lebhafte Diskussionen *aus*.
+
+  L'alcool a *provoqué* l'accident de voiture.
+  Der Alkohol hat den Autounfall *verursacht*.
+
+  Il m'a *provoqué* en duel.
+  Er hat mich zum Duell *herausgefordert*.
+
+  Le froid intense a *provoqué* le gel des canalisations.
+  Die starke Kälte hat das Einfrieren der Rohre *verursacht*.
+
+  Cette décision va *provoquer* beaucoup de changements.
+  Diese Entscheidung wird viele Veränderungen *herbeiführen*.
+
+  Les médecins ont dû *provoquer* l'accouchement.
+  Die Ärzte mussten die Geburt *einleiten*.
+
+  Son comportement *provoque* la colère de ses parents.
+  Sein Verhalten *erregt* den Zorn seiner Eltern.
+
+  Le gouvernement a *provoqué* des élections anticipées.
+  Die Regierung hat vorgezogene Wahlen *herbeigeführt*.
+
+  Cette chaleur pourrait *provoquer* des orages.
+  Diese Hitze könnte Gewitter *auslösen*.
+
+  Les manifestants ont *provoqué* les forces de l'ordre.
+  Die Demonstranten haben die Ordnungskräfte *provoziert*.
+
+  Son attitude *provocante* a causé des tensions.
+  Seine *provozierende* Haltung hat Spannungen verursacht.
+
+  Cette expérience a *provoqué* des résultats inattendus.
+  Dieses Experiment hat unerwartete Ergebnisse *hervorgebracht*.
+
+  Le joueur a *provoqué* une faute de son adversaire.
+  Der Spieler hat ein Foul seines Gegners *provoziert*.
+
+  Cette nouvelle loi va *provoquer* des manifestations.
+  Dieses neue Gesetz wird Demonstrationen *auslösen*.
+
+  La fumée a *provoqué* l'alarme incendie.
+  Der Rauch hat den Feueralarm *ausgelöst*.
+
+  Ses paroles ont *provoqué* un scandale.
+  Seine Worte haben einen Skandal *ausgelöst*.
+
+  Il ne faut pas *provoquer* les gens plus forts que soi.
+  Man sollte Stärkere nicht *herausfordern*.
+
+  Cette pièce de théâtre a *provoqué* l'admiration du public.
+  Dieses Theaterstück hat die Bewunderung des Publikums *hervorgerufen*.
+
+  Le changement climatique *provoque* la fonte des glaciers.
+  Der Klimawandel *verursacht* das Schmelzen der Gletscher.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

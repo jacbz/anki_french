@@ -13,23 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils doivent fournir une réponse honnête et officielle.
-  Sie müssen eine ehrliche und offizielle Antwort geben.
+  Ils doivent fournir une réponse honnête et *officielle*.
+  Sie müssen eine ehrliche und *amtliche* Antwort geben.
 
-  C’est un événement officiel.
-  Das ist eine offizielle Veranstaltung.
+  Le Journal *officiel* a publié la nouvelle loi hier.
+  Das *Amts*blatt hat gestern das neue Gesetz veröffentlicht.
 
-  Le président français a effectué une visite officielle en Chine.
-  Der französische Präsident hat einen Staatsbesuch in China unternommen.
+  Le français est la langue *officielle* dans plusieurs pays africains.
+  Französisch ist die *offizielle* Sprache in mehreren afrikanischen Ländern.
 
-  Selon des sources officielles, la situation est sous contrôle.
-  Von amtlicher Seite heißt es, die Situation sei unter Kontrolle.
+  La cérémonie *officielle* commencera à midi précise.
+  Die *offizielle* Zeremonie beginnt punkt zwölf Uhr.
 
-  La cérémonie d'ouverture des Jeux olympiques était très officielle.
-  Die Eröffnungsfeier der Olympischen Spiele war eine hochoffizielle Feier.
+  Le premier ministre a effectué une visite *officielle* en Allemagne.
+  Der Premierminister hat einen *Staats*besuch in Deutschland absolviert.
 
-  Le roi a reçu le président de manière très officielle.
-  Der König hat den Präsidenten hochoffiziell empfangen.
+  De source *officielle*, les négociations sont en cours.
+  Von *amtlicher* Seite heißt es, die Verhandlungen laufen.
+
+  Les chiffres *officiels* du chômage seront publiés demain.
+  Die *offiziellen* Arbeitslosenzahlen werden morgen veröffentlicht.
+
+  Le porte-parole *officiel* du gouvernement a démenti ces rumeurs.
+  Der *offizielle* Regierungssprecher hat diese Gerüchte dementiert.
+
+  Les *officiels* se sont réunis dans la tribune d'honneur.
+  Die *Funktionäre* haben sich auf der Ehrentribüne versammelt.
+
+  La voiture *officielle* du maire est garée devant la mairie.
+  Der *Dienst*wagen des Bürgermeisters steht vor dem Rathaus.
+
+  Cette explication *officielle* ne convainc personne.
+  Diese *offizielle* Erklärung überzeugt niemanden.
+
+  Le document doit porter un cachet *officiel*.
+  Das Dokument muss einen *amtlichen* Stempel tragen.
+
+  Leurs fiançailles sont devenues *officielles* lors d'une petite fête.
+  Ihre Verlobung wurde bei einer kleinen Feier *offiziell* bekanntgegeben.
+
+  L'ambassadeur a été reçu de manière très *officielle*.
+  Der Botschafter wurde sehr *offiziell* empfangen.
+
+  La version *officielle* des événements diffère des témoignages.
+  Die *offizielle* Version der Ereignisse weicht von den Zeugenaussagen ab.
+
+  Les résultats *officiels* seront annoncés ce soir.
+  Die *offiziellen* Ergebnisse werden heute Abend bekannt gegeben.
+
+  Il est devenu l'arbitre *officiel* de la fédération.
+  Er ist zum *offiziellen* Schiedsrichter des Verbands ernannt worden.
+
+  Un communiqué *officiel* sera publié dans la journée.
+  Eine *regierungsamtliche* Mitteilung wird im Laufe des Tages veröffentlicht.
+
+  Les *officiels* du tournoi se sont réunis pour délibérer.
+  Die *Funktionäre* des Turniers haben sich zur Beratung getroffen.
+
+  La traduction *officielle* du document sera disponible lundi.
+  Die *amtliche* Übersetzung des Dokuments wird am Montag verfügbar sein.
+
+  Le candidat *officiel* du parti a perdu les élections.
+  Der *offizielle* Kandidat der Partei hat die Wahl verloren.
+
+  La délégation *officielle* compte quinze personnes.
+  Die *offizielle* Delegation besteht aus fünfzehn Personen.
+
+  Cette déclaration *officielle* met fin aux spéculations.
+  Diese *offizielle* Erklärung beendet die Spekulationen.
+
+  Le sceau *officiel* manque sur ce document.
+  Der *Amts*stempel fehlt auf diesem Dokument.
+
+  Une cérémonie très *officielle* marquera l'inauguration du monument.
+  Eine hoch*offizielle* Feier wird die Einweihung des Denkmals markieren.
+
+  L'invitation *officielle* arrivera par courrier diplomatique.
+  Die *offizielle* Einladung wird per diplomatischer Post eintreffen.
+
+  Les photographes *officiels* ont immortalisé l'événement.
+  Die *offiziellen* Fotografen haben das Ereignis festgehalten.
+
+  Le programme *officiel* prévoit trois jours de festivités.
+  Das *offizielle* Programm sieht drei Tage Festlichkeiten vor.
+
+  La reconnaissance *officielle* du nouveau gouvernement est imminente.
+  Die *offizielle* Anerkennung der neuen Regierung steht kurz bevor.
+
+  Les statistiques *officielles* montrent une amélioration de la situation.
+  Die *amtlichen* Statistiken zeigen eine Verbesserung der Situation.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

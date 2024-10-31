@@ -13,17 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Quelque chose émane de lui, non?
-  Etwas geht von ihm aus, nicht wahr?
+  Quelque chose *émane* de lui, non ?
+  Irgendetwas *geht* von ihm *aus*, oder?
 
-  La lumière émane de la lampe.
-  Das Licht geht von der Lampe aus.
+  Une énergie positive *émane* de ce lieu sacré.
+  Von diesem heiligen Ort *geht* eine positive Energie *aus*.
 
-  La joie émanait de ses yeux.
-  Die Freude ging von ihren Augen aus.
+  Les parfums qui *émanent* des roses sont délicieux.
+  Die Düfte, die von den Rosen *ausgehen*, sind köstlich.
 
-  Une forte odeur de fumée émanait du foyer.
-  Ein starker Rauchgeruch ging vom Herd aus.
+  Un grand charme *émanait* d'elle quand elle souriait.
+  Von ihr *ging* ein großer Charme *aus*, wenn sie lächelte.
+
+  La chaleur qui *émane* du feu nous réchauffe tous.
+  Die Wärme, die vom Feuer *ausgeht*, wärmt uns alle.
+
+  Cette demande *émane* directement du directeur.
+  Diese Anfrage *kommt* direkt vom Direktor.
+
+  La lumière *émane* du soleil et traverse l'atmosphère.
+  Das Licht *wird* von der Sonne *ausgestrahlt* und durchdringt die Atmosphäre.
+
+  Dans une démocratie, le pouvoir *émane* du peuple.
+  In einer Demokratie *geht* die Macht vom Volk *aus*.
+
+  Une douce mélancolie *émane* de cette vieille photo.
+  Von diesem alten Foto *geht* eine sanfte Melancholie *aus*.
+
+  Les ordres *émanant* du chef doivent être suivis.
+  Die vom Chef *ausgehenden* Befehle müssen befolgt werden.
+
+  Un nouveau décret *émane* du gouvernement.
+  Ein neuer Erlass *geht* von der Regierung *aus*.
+
+  Une odeur désagréable *émane* des poubelles.
+  Von den Mülltonnen *geht* ein unangenehmer Geruch *aus*.
+
+  Des rayons nocifs *émanent* de ce matériau radioactif.
+  Von diesem radioaktiven Material *gehen* schädliche Strahlen *aus*.
+
+  La confiance qui *émane* de son regard est impressionnante.
+  Das Vertrauen, das von seinem Blick *ausgeht*, ist beeindruckend.
+
+  Une atmosphère mystérieuse *émane* de ce château ancien.
+  Von diesem alten Schloss *geht* eine geheimnisvolle Atmosphäre *aus*.
+
+  La décision *émane* du conseil d'administration.
+  Die Entscheidung *kommt* vom Vorstand.
+
+  Une forte autorité *émane* naturellement de sa personne.
+  Von seiner Person *geht* natürlicherweise eine starke Autorität *aus*.
+
+  Des vapeurs toxiques *émanent* de ce produit chimique.
+  Von dieser Chemikalie *dringen* giftige Dämpfe *heraus*.
+
+  La sérénité qui *émane* de ce jardin zen est apaisante.
+  Die Gelassenheit, die von diesem Zen-Garten *ausgeht*, ist beruhigend.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

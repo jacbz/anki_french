@@ -13,44 +13,161 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je jure sur la tombe de ma grand-mère.
-  Ich schwöre auf das Grab meiner Großmutter.
+  Je *jure* sur la tombe de ma grand-mère.
+  Ich *schwöre* auf dem Grab meiner Großmutter.
 
-  Je jure que je dis la vérité.
-  Ich schwöre, dass ich die Wahrheit sage.
+  Les enfants ont *juré* à leurs parents de rentrer avant minuit.
+  Die Kinder haben ihren Eltern *geschworen*, vor Mitternacht nach Hause zu kommen.
 
-  Je jure devant Dieu que cela est vrai.
-  Ich schwöre bei Gott, dass dies wahr ist.
+  Marie *jure* que c'est la vérité, mais personne ne la croit.
+  Marie *schwört*, dass es die Wahrheit ist, aber niemand glaubt ihr.
 
-  Il a juré à ses parents de ne jamais recommencer.
-  Er hat seinen Eltern geschworen, das nie wieder zu tun.
+  J'ai fait *jurer* à mon frère de garder mon secret.
+  Ich habe meinen Bruder *schwören* lassen, mein Geheimnis zu bewahren.
 
-  J'ai juré contre la pluie et le mauvais temps.
-  Ich habe über das Regenwetter geflucht.
+  Pouvez-vous *jurer* avoir vu l'accident ?
+  Können Sie *beschwören*, dass Sie den Unfall gesehen haben?
 
-  Elle s'est juré de ne jamais plus le revoir.
-  Sie hat sich geschworen, ihn nie wieder zu sehen.
+  "Je te *jure* que je n'ai rien dit !"
+  "Ich *schwöre* dir, dass ich nichts gesagt habe!"
 
-  Je te jure, c'est la vérité !
-  Also ehrlich fam, das ist die Wahrheit!
+  Il a *juré* la perte de son concurrent.
+  Er hat *geschworen*, seinen Konkurrenten zu ruinieren.
 
-  Pouvez-vous me jurer les avoir vus au cinéma hier soir ?
-  Können Sie beschwören, dass Sie sie gestern Abend im Kino gesehen haben?
+  Les amoureux se sont *juré* fidélité éternelle.
+  Die Verliebten haben sich ewige Treue *geschworen*.
 
-  Le prince jurerait la mort de tous ceux qui se sont opposés à son règne.
-  Der Prinz schwor, alle zu töten, die sich seinem Herrscher entgegensetzten.
+  On *jurerait* que c'est sa sœur jumelle.
+  Man könnte *schwören*, dass es ihre Zwillingsschwester ist.
 
-  On jurerait que c'est un magicien, tellement il est doué !
-  Man möchte schwören, er wäre ein Zauberer, so begabt ist er!
+  Il ne *jure* que par la cuisine italienne.
+  Er *schwört* nur auf die italienische Küche.
 
-  Ses paroles juraient avec son comportement.
-  Seine Worte passten nicht zu seinem Verhalten.
+  "*Je te jure*, c'est vraiment n'importe quoi !"
+  "*Also ehrlich*, das ist wirklich Unsinn!"
 
-  Il jura de tout faire pour la protéger.
-  Er beteuerte, alles zu tun, um sie zu schützen.
+  Le vieil homme *jurait* après les enfants qui faisaient du bruit.
+  Der alte Mann *fluchte* über die Kinder, die Lärm machten.
 
-  Elle en jurerait, elle l'a vu de ses propres yeux!
-  Sie könnte darauf schwören, sie hat es mit eigenen Augen gesehen!
+  Cette cravate rouge *jure* avec ton costume bleu.
+  Diese rote Krawatte *beißt* sich mit deinem blauen Anzug.
+
+  Il *jure* de son innocence depuis des années.
+  Er *beteuert* seit Jahren seine Unschuld.
+
+  Elle en *jurerait* sur sa vie.
+  Sie würde darauf ihr Leben *schwören*.
+
+  Je n'en *jurerais* pas, mais je crois l'avoir déjà vu.
+  Ich würde nicht darauf *schwören*, aber ich glaube, ich habe ihn schon mal gesehen.
+
+  Ils se sont *juré* de ne jamais se trahir.
+  Sie haben sich *geschworen*, einander nie zu verraten.
+
+  Elle s'est *juré* de réussir son examen.
+  Sie hat sich fest *vorgenommen*, ihre Prüfung zu bestehen.
+
+  Le témoin a *juré* sur la Bible de dire la vérité.
+  Der Zeuge hat auf der Bibel *geschworen*, die Wahrheit zu sagen.
+
+  Il *jure* comme un charretier quand il est énervé.
+  Er *flucht* wie ein Bierkutscher, wenn er genervt ist.
+
+  Cette musique moderne *jure* avec l'ambiance du vieux café.
+  Diese moderne Musik *passt* nicht zur Atmosphäre des alten Cafés.
+
+  Les nouveaux rideaux *jurent* terriblement avec le papier peint.
+  Die neuen Vorhänge *beißen* sich schrecklich mit der Tapete.
+
+  "*Je vous jure*, Monsieur le Juge, je suis innocent !"
+  "Ich *schwöre* Ihnen, Herr Richter, ich bin unschuldig!"
+
+  Il *jure* fidélité à ses principes depuis toujours.
+  Er *schwört* seit jeher Treue zu seinen Prinzipien.
+
+  Les soldats ont *juré* obéissance à leur commandant.
+  Die Soldaten haben ihrem Kommandanten Gehorsam *geschworen*.
+
+  Tu peux me *jurer* que tu n'as rien dit à personne ?
+  Kannst du mir *schwören*, dass du niemandem etwas gesagt hast?
+
+  Elle *jure* de ne plus jamais lui parler.
+  Sie *schwört*, nie wieder mit ihm zu sprechen.
+
+  Je *jure* sur la tête de mes enfants que je dis la vérité.
+  Ich *schwöre* auf den Kopf meiner Kinder, dass ich die Wahrheit sage.
+
+  "*Je te jure*, cette fois c'est la dernière !"
+  "*Ich schwör's* dir, diesmal ist es das letzte Mal!"
+
+  Le nouveau stagiaire *jure* avec l'équipe expérimentée.
+  Der neue Praktikant *passt* nicht zum erfahrenen Team.
+
+  Paul *jurait* après sa voiture qui ne voulait pas démarrer.
+  Paul *fluchte* über sein Auto, das nicht starten wollte.
+
+  Les époux se sont *juré* amour et fidélité.
+  Die Eheleute haben sich Liebe und Treue *geschworen*.
+
+  On ne *jure* que par lui dans l'entreprise.
+  Man *schwört* in der Firma nur auf ihn.
+
+  Je me suis *juré* de ne plus jamais fumer.
+  Ich habe mir *geschworen*, nie wieder zu rauchen.
+
+  Le suspect *jure* qu'il était chez lui ce soir-là.
+  Der Verdächtige *schwört*, dass er an diesem Abend zu Hause war.
+
+  Ces deux couleurs *jurent* ensemble.
+  Diese beiden Farben *beißen* sich.
+
+  "*Je te jure*, si tu recommences, tu auras des problèmes !"
+  "Ich *schwöre* dir, wenn du das noch mal machst, kriegst du Ärger!"
+
+  Il s'est *juré* vengeance après cette trahison.
+  Er hat nach diesem Verrat *Rache geschworen*.
+
+  Les deux amies se sont *juré* de rester en contact.
+  Die beiden Freundinnen haben sich *geschworen*, in Kontakt zu bleiben.
+
+  On *jurerait* que c'est un original.
+  Man könnte *schwören*, dass es ein Original ist.
+
+  Il ne faut *jurer* de rien dans la vie.
+  Man soll im Leben nie etwas *beschwören*.
+
+  Elle *jurait* contre la pluie qui gâchait son mariage.
+  Sie *fluchte* über den Regen, der ihre Hochzeit verdarb.
+
+  Le nouveau bâtiment *jure* dans le paysage historique.
+  Das neue Gebäude *passt* nicht in die historische Landschaft.
+
+  Les jeunes mariés se sont *juré* fidélité devant l'autel.
+  Die frisch Vermählten haben sich vor dem Altar die Treue *geschworen*.
+
+  Je *jure* de dire la vérité, toute la vérité.
+  Ich *schwöre*, die Wahrheit zu sagen, die ganze Wahrheit.
+
+  "*Je vous jure*, ce n'était pas mon intention !"
+  "Ich *schwöre* Ihnen, das war nicht meine Absicht!"
+
+  Il s'est *juré* de ne plus jamais faire confiance à personne.
+  Er hat sich *geschworen*, nie wieder jemandem zu vertrauen.
+
+  Cette décoration moderne *jure* dans cette pièce classique.
+  Diese moderne Dekoration *passt* nicht in diesen klassischen Raum.
+
+  Les députés ont *juré* fidélité à la Constitution.
+  Die Abgeordneten haben der Verfassung die Treue *geschworen*.
+
+  On *jurerait* l'avoir déjà vu quelque part.
+  Man könnte *schwören*, ihn schon irgendwo gesehen zu haben.
+
+  Je me suis *juré* de ne plus jamais mentir.
+  Ich habe mir *geschworen*, nie wieder zu lügen.
+
+  Il *jurait* ses grands dieux que c'était vrai.
+  Er *schwor* Stein und Bein, dass es wahr sei.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

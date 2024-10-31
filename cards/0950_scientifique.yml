@@ -13,11 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le nom scientifique de ma maladie ne l’intéressait pas.
-  Der wissenschaftliche Name meiner Krankheit interessierte ihn nicht.
+  Le nom *scientifique* de ma maladie ne l'intéressait pas.
+  Der *wissenschaftliche* Name meiner Krankheit interessierte ihn nicht.
 
-  Cette théorie est basée sur des preuves scientifiques.
-  Diese Theorie basiert auf wissenschaftlichen Beweisen.
+  L'expédition *scientifique* a fait des découvertes remarquables en Antarctique.
+  Die *wissenschaftliche* Expedition machte bemerkenswerte Entdeckungen in der Antarktis.
+
+  Cette méthode n'est pas très *scientifique*.
+  Diese Methode ist nicht sehr *wissenschaftlich*.
+
+  Les *scientifiques* travaillent jour et nuit pour trouver un vaccin.
+  Die *Wissenschaftler* arbeiten Tag und Nacht an einem Impfstoff.
+
+  Ma sœur préfère les matières *scientifiques* aux matières littéraires.
+  Meine Schwester bevorzugt *naturwissenschaftliche* Fächer gegenüber geisteswissenschaftlichen.
+
+  Les revues *scientifiques* ont publié ses résultats.
+  Die *wissenschaftlichen* Zeitschriften haben ihre Ergebnisse veröffentlicht.
+
+  Cette jeune *scientifique* a reçu un prix pour ses recherches.
+  Diese junge *Wissenschaftlerin* erhielt einen Preis für ihre Forschung.
+
+  Il faut une approche *scientifique* pour résoudre ce problème.
+  Man braucht einen *wissenschaftlichen* Ansatz, um dieses Problem zu lösen.
+
+  Le colloque *scientifique* aura lieu la semaine prochaine.
+  Die *wissenschaftliche* Konferenz findet nächste Woche statt.
+
+  As-tu lu le dernier article *scientifique* sur le changement climatique ?
+  Hast du den neuesten *wissenschaftlichen* Artikel über den Klimawandel gelesen?
+
+  Elle est devenue *scientifique* comme ses parents.
+  Sie ist *Wissenschaftlerin* geworden wie ihre Eltern.
+
+  La communauté *scientifique* s'inquiète de ces résultats.
+  Die *wissenschaftliche* Gemeinschaft ist besorgt über diese Ergebnisse.
+
+  Les données *scientifiques* confirment notre hypothèse.
+  Die *wissenschaftlichen* Daten bestätigen unsere Hypothese.
+
+  Un esprit *scientifique* est nécessaire dans ce domaine.
+  Ein *wissenschaftlicher* Geist ist in diesem Bereich notwendig.
+
+  La recherche *scientifique* nécessite beaucoup de patience.
+  Die *wissenschaftliche* Forschung erfordert viel Geduld.
+
+  Les preuves *scientifiques* sont irréfutables.
+  Die *wissenschaftlichen* Beweise sind unwiderlegbar.
+
+  Cette collection *scientifique* est unique au monde.
+  Diese *wissenschaftliche* Sammlung ist einzigartig auf der Welt.
+
+  Avez-vous une formation *scientifique* ?
+  Haben Sie eine *naturwissenschaftliche* Ausbildung?
+
+  Les mesures *scientifiques* doivent être précises.
+  *Wissenschaftliche* Messungen müssen präzise sein.
+
+  La police *scientifique* a analysé les indices.
+  Die *Kriminal*technik hat die Spuren analysiert.
+
+  Cette découverte *scientifique* va changer nos vies.
+  Diese *wissenschaftliche* Entdeckung wird unser Leben verändern.
+
+  L'éditeur *scientifique* a relu attentivement le manuscrit.
+  Der *wissenschaftliche* Lektor hat das Manuskript sorgfältig überprüft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,41 +13,164 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il est temps d’attaquer le mal à la racine.
-  Es ist an der Zeit, das Übel an der Wurzel zu packen.
+  Il est temps d'*attaquer* le mal à la racine.
+  Es ist Zeit, das Übel an der Wurzel *anzupacken*.
 
-  Les soldats vont attaquer l’ennemi.
-  Die Soldaten werden den Feind angreifen.
+  Les soldats ont *attaqué* la ville au lever du soleil.
+  Die Soldaten haben die Stadt bei Sonnenaufgang *angegriffen*.
 
-  Le professeur a attaqué Thomas sur sa mauvaise note en mathématiques.
-  Der Lehrer hat Thomas wegen seiner schlechten Note in Mathematik angegriffen.
+  "Si on *attaquait* la tarte aux pommes ?"
+  "Sollen wir über den Apfelkuchen *herfallen*?"
 
-  Le lion s'est attaqué à la gazelle.
-  Der Löwe hat die Gazelle angegriffen.
+  La rouille *attaque* rapidement ce métal.
+  Der Rost *greift* dieses Metall schnell *an*.
 
-  Le groupe de défense des animaux s'est attaqué au gouvernement pour sa politique sur les fermes d'élevage.
-  Die Tierschutzorganisation hat den Staat wegen seiner Politik zur Tierhaltung angegriffen.
+  Le pianiste *attaque* la sonate avec passion.
+  Der Pianist *beginnt* die Sonate mit Leidenschaft.
 
-  L'épidémie de choléra a attaqué toute la ville, faisant des milliers de victimes.
-  Die ganze Stadt ist von der Choleraepidemie befallen worden, die Tausende von Opfern gefordert hat.
+  Marie *attaque* son nouveau projet avec enthousiasme.
+  Marie *nimmt* ihr neues Projekt mit Begeisterung *in Angriff*.
 
-  Le pianiste a attaqué le morceau avec énergie.
-  Der Pianist hat das Stück mit Energie begonnen.
+  Trois hommes masqués ont *attaqué* la banque hier soir.
+  Drei maskierte Männer haben die Bank gestern Abend *überfallen*.
 
-  Les enfants se sont attaqués au plat de lasagne avec appétit.
-  Die Kinder sind mit Appetit über die Lasagne hergefallen.
+  Notre équipe *attaque* dans les dernières minutes du match.
+  Unsere Mannschaft *greift* in den letzten Minuten des Spiels *an*.
 
-  Pour lutter contre la pauvreté, il faut attaquer le mal à sa racine.
-  Um die Armut zu bekämpfen, muss man das Übel an der Wurzel packen.
+  Le journal *attaque* violemment la politique du gouvernement.
+  Die Zeitung *greift* die Politik der Regierung heftig *an*.
 
-  Le gouvernement s'est attaqué à la difficulté du chômage en lançant un nouveau programme de formation professionnelle.
-  Die Regierung ist das Problem der Arbeitslosigkeit angegangen, indem sie ein neues Programm zur beruflichen Weiterbildung gestartet hat.
+  L'avocat a décidé d'*attaquer* le jugement en appel.
+  Der Anwalt hat beschlossen, das Urteil *anzufechten*.
 
-  Les ouvriers se sont attaqués à la construction du pont avec détermination.
-  Die Arbeiter haben sich mit Entschlossenheit an den Bau der Brücke gemacht.
+  Les vagues *attaquent* peu à peu la falaise.
+  Die Wellen *waschen* nach und nach die Klippe *aus*.
 
-  Le groupe de citoyens s'est attaqué à la nouvelle loi sur l'environnement, la qualifiant d'injuste.
-  Die Bürgerinitiative hat sich gegen das neue Umweltgesetz gewendet und es als ungerecht bezeichnet.
+  Il faut *attaquer* ce problème dès maintenant.
+  Wir müssen dieses Problem jetzt *anpacken*.
+
+  L'opposition s'est *attaquée* au nouveau projet de loi.
+  Die Opposition hat das neue Gesetz *angegriffen*.
+
+  Les critiques ont *attaqué* son dernier film.
+  Die Kritiker haben seinen letzten Film *angegriffen*.
+
+  Le virus *attaque* principalement les poumons.
+  Das Virus *greift* hauptsächlich die Lungen *an*.
+
+  L'équipe adverse *attaquera* dans la première mi-temps.
+  Die gegnerische Mannschaft wird in der ersten Halbzeit *angreifen*.
+
+  Elle a été *attaquée* en rentrant chez elle.
+  Sie wurde auf dem Heimweg *überfallen*.
+
+  Les manifestants se sont *attaqués* aux symboles du pouvoir.
+  Die Demonstranten haben die Machtsymbole *angegriffen*.
+
+  Le groupe *attaque* sa nouvelle tournée demain.
+  Die Band *beginnt* morgen ihre neue Tournee.
+
+  Les chercheurs s'*attaquent* à cette maladie rare.
+  Die Forscher *packen* diese seltene Krankheit *an*.
+
+  Pierre a *attaqué* Thomas sur sa gestion du projet.
+  Pierre hat Thomas wegen seiner Projektführung *angegriffen*.
+
+  La pluie acide *attaque* lentement la pierre.
+  Der saure Regen *greift* langsam den Stein *an*.
+
+  Les lions *attaquent* généralement au crépuscule.
+  Löwen *greifen* gewöhnlich in der Dämmerung *an*.
+
+  "*Attaquons* le dessert !"
+  "Lass uns über den Nachtisch *herfallen*!"
+
+  Le tribunal a refusé d'*attaquer* la décision précédente.
+  Das Gericht hat sich geweigert, die vorherige Entscheidung *anzufechten*.
+
+  Les concurrents *attaquent* dans la dernière ligne droite.
+  Die Konkurrenten *greifen* auf der Zielgeraden *an*.
+
+  L'acide *attaque* rapidement la surface métallique.
+  Die Säure *greift* die Metalloberfläche schnell *an*.
+
+  Le violoniste *attaque* la première note avec précision.
+  Der Geiger *beginnt* die erste Note mit Präzision.
+
+  Les pirates ont *attaqué* le navire marchand.
+  Die Piraten haben das Handelsschiff *angegriffen*.
+
+  Elle s'*attaque* toujours aux projets les plus difficiles.
+  Sie *nimmt* sich immer die schwierigsten Projekte *vor*.
+
+  Le journaliste *attaque* le ministre sur sa politique.
+  Der Journalist *greift* den Minister wegen seiner Politik *an*.
+
+  Les bactéries *attaquent* les cellules saines.
+  Die Bakterien *greifen* die gesunden Zellen *an*.
+
+  Il faut *attaquer* la montagne par le versant nord.
+  Man muss den Berg von der Nordseite *angehen*.
+
+  Les avocats ont décidé d'*attaquer* l'entreprise en justice.
+  Die Anwälte haben beschlossen, das Unternehmen zu *verklagen*.
+
+  Le cycliste *attaque* dans la montée.
+  Der Radfahrer *greift* am Berg *an*.
+
+  La moisissure *attaque* le bois humide.
+  Der Schimmel *greift* das feuchte Holz *an*.
+
+  L'orchestre *attaque* la symphonie avec brio.
+  Das Orchester *beginnt* die Symphonie mit Bravour.
+
+  Les voleurs ont *attaqué* le transport de fonds.
+  Die Diebe haben den Geldtransport *überfallen*.
+
+  Les supporters s'*attaquent* à l'arbitre.
+  Die Fans *greifen* den Schiedsrichter *an*.
+
+  L'eau de mer *attaque* les structures métalliques.
+  Das Meerwasser *greift* die Metallstrukturen *an*.
+
+  Le comité *attaque* la réforme proposée.
+  Das Komitee *greift* die vorgeschlagene Reform *an*.
+
+  "*Attaquons* le plat principal !"
+  "Lass uns über den Hauptgang *herfallen*!"
+
+  Les agresseurs ont *attaqué* sans prévenir.
+  Die Angreifer haben ohne Vorwarnung *angegriffen*.
+
+  Le peintre *attaque* sa nouvelle toile avec enthousiasme.
+  Der Maler *beginnt* sein neues Gemälde mit Begeisterung.
+
+  L'opposition s'*attaque* aux dépenses du gouvernement.
+  Die Opposition *greift* die Ausgaben der Regierung *an*.
+
+  Les insectes *attaquent* les cultures.
+  Die Insekten *befallen* die Kulturen.
+
+  Le skieur *attaque* la pente avec confiance.
+  Der Skifahrer *geht* den Hang selbstbewusst *an*.
+
+  La mer *attaque* les digues pendant la tempête.
+  Das Meer *greift* die Deiche während des Sturms *an*.
+
+  Les défenseurs des droits humains *attaquent* cette loi discriminatoire.
+  Die Menschenrechtsverteidiger *fechten* dieses diskriminierende Gesetz *an*.
+
+  Le boxeur *attaque* dès le premier round.
+  Der Boxer *greift* gleich in der ersten Runde *an*.
+
+  L'économiste s'*attaque* aux causes de l'inflation.
+  Der Ökonom *geht* die Ursachen der Inflation *an*.
+
+  Les vandales ont *attaqué* la statue historique.
+  Die Vandalen haben die historische Statue *angegriffen*.
+
+  Le grimpeur *attaque* la paroi la plus difficile.
+  Der Kletterer *nimmt* die schwierigste Wand *in Angriff*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

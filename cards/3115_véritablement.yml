@@ -13,14 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle me démolit, véritablement. Elle vous démolit?
-  Sie macht mich fertig, wirklich. Sie macht Sie fertig?
+  Elle me démolit, *véritablement*. Elle vous démolit ?
+  Sie macht mich *wirklich* fertig. Macht sie Sie auch fertig?
 
-  Je suis véritablement désolé.
-  Ich bin wirklich entschuldigt.
+  Je suis *véritablement* fatigué après cette longue journée de travail.
+  Ich bin nach diesem langen Arbeitstag *wirklich* müde.
 
-  Il était véritablement fatigué après une longue journée de travail.
-  Er war wirklich müde nach einem langen Arbeitstag.
+  Es-tu *véritablement* sûr de vouloir partir maintenant ?
+  Bist du dir *ehrlich* sicher, dass du jetzt gehen willst?
+
+  C'est une performance *véritablement* exceptionnelle qu'il nous a montrée hier soir.
+  Er hat uns gestern Abend eine *wirklich* außergewöhnliche Leistung gezeigt.
+
+  Je ne peux pas dire que je sois *véritablement* satisfait du résultat.
+  Ich kann nicht sagen, dass ich mit dem Ergebnis *eigentlich* zufrieden bin.
+
+  Cette solution n'est pas *véritablement* adaptée à nos besoins.
+  Diese Lösung ist für unsere Bedürfnisse nicht *wirklich* geeignet.
+
+  Il était *véritablement* affligé par la nouvelle de son départ.
+  Er war von der Nachricht ihrer Abreise *wirklich* betrübt.
+
+  Je commence *véritablement* à comprendre le français.
+  Ich fange an, Französisch *wirklich* zu verstehen.
+
+  Marie est *véritablement* douée pour la musique.
+  Marie ist *ehrlich* begabt für Musik.
+
+  Cette exposition est *véritablement* géniale !
+  Diese Ausstellung ist *wirklich* genial!
+
+  As-tu *véritablement* besoin de trois téléphones portables ?
+  Brauchst du *eigentlich* drei Handys?
+
+  Le projet a *véritablement* démarré quand Pierre est arrivé.
+  Das Projekt hat *wirklich* Fahrt aufgenommen, als Pierre dazukam.
+
+  Je ne savais pas qu'il était *véritablement* parti sans dire au revoir.
+  Ich wusste nicht, dass er *tatsächlich* ohne Abschied gegangen war.
+
+  Les choses commencent *véritablement* à s'améliorer maintenant.
+  Die Dinge beginnen sich jetzt *wirklich* zu bessern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

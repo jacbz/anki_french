@@ -13,23 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Des représentants de divers ministères y ont pris part.
-  Vertreter verschiedener Ministerien nahmen daran teil.
+  Des représentants de divers *ministères* y ont pris part.
+  Vertreter verschiedener *Ministerien* haben daran teilgenommen.
 
-  Elle travaille pour le ministère de la santé.
-  Sie arbeitet für das Gesundheitsministerium.
+  Elle travaille au *ministère* des Affaires étrangères depuis dix ans.
+  Sie arbeitet seit zehn Jahren im Außen*ministerium*.
 
-  Sous le ministère de Charles de Gaulle, la France a connu une période de grande transformation.
-  Während der Amtszeit von Charles de Gaulle erlebte Frankreich eine Zeit großer Umwälzungen.
+  Le *ministère* de l'Éducation a annoncé de nouvelles réformes scolaires.
+  Das Bildungs*ministerium* hat neue Schulreformen angekündigt.
 
-  Le ministère du prêtre est un appel à la vie spirituelle.
-  Das Priesteramt ist ein Ruf zum spirituellen Leben.
+  Le nouveau *ministère* sera formé la semaine prochaine.
+  Das neue *Kabinett* wird nächste Woche gebildet.
 
-  Le dossier a été remis au tribunal par ministère d'avocat.
-  Der Fall wurde durch einen Anwalt dem Gericht übergeben.
+  Le *ministère* de la Justice se trouve dans un bâtiment historique.
+  Das Justiz*ministerium* befindet sich in einem historischen Gebäude.
 
-  Le ministère public a requis une peine de prison.
-  Die Staatsanwaltschaft hat eine Freiheitsstrafe gefordert.
+  Son père a exercé le *ministère* sacerdotal pendant quarante ans.
+  Sein Vater übte vierzig Jahre lang das Priester*amt* aus.
+
+  Le *ministère* public a requis une peine de prison ferme.
+  Die *Staatsanwaltschaft* hat eine Gefängnisstrafe ohne Bewährung gefordert.
+
+  Sous le *ministère* de Dupont, l'économie s'est considérablement améliorée.
+  Während der *Amtszeit* von Dupont hat sich die Wirtschaft deutlich verbessert.
+
+  Les agents du *ministère* ont organisé une grève.
+  Die Angestellten des *Ministeriums* haben einen Streik organisiert.
+
+  Le *ministère* de la Culture subventionne ce festival de théâtre.
+  Das Kultur*ministerium* fördert dieses Theaterfestival.
+
+  L'affaire a été réglée par *ministère* d'huissier.
+  Die Angelegenheit wurde durch einen Gerichtsvollzieher geregelt.
+
+  Un nouveau bâtiment pour le *ministère* de l'Environnement sera construit.
+  Ein neues Gebäude für das Umwelt*ministerium* wird gebaut werden.
+
+  Le *ministère* de la Défense a renforcé ses mesures de sécurité.
+  Das Verteidigungs*ministerium* hat seine Sicherheitsmaßnahmen verstärkt.
+
+  Les fonctionnaires du *ministère* travaillent tard ce soir.
+  Die Beamten des *Ministeriums* arbeiten heute Abend lange.
+
+  Le *ministère* est tombé après un vote de défiance.
+  Das *Kabinett* ist nach einem Misstrauensvotum gestürzt.
+
+  Elle a reçu son premier poste au *ministère* des Finances.
+  Sie hat ihre erste Stelle im Finanz*ministerium* bekommen.
+
+  Le *ministère* de l'Intérieur surveille la situation de près.
+  Das Innen*ministerium* beobachtet die Situation genau.
+
+  Le prêtre accomplit son *ministère* avec dévouement.
+  Der Priester übt sein geistliches *Amt* mit Hingabe aus.
+
+  Le *ministère* public a fait appel de la décision.
+  Die *Staatsanwaltschaft* hat gegen die Entscheidung Berufung eingelegt.
+
+  Un remaniement du *ministère* aura lieu demain.
+  Morgen wird es eine *Kabinetts*umbildung geben.
+
+  Les archives du *ministère* contiennent des documents importants.
+  Die Archive des *Ministeriums* enthalten wichtige Dokumente.
+
+  Le *ministère* de la Santé recommande la vaccination.
+  Das Gesundheits*ministerium* empfiehlt die Impfung.
+
+  Tous les *ministères* doivent réduire leurs dépenses.
+  Alle *Ministerien* müssen ihre Ausgaben reduzieren.
+
+  Le *ministère* a publié un communiqué de presse.
+  Das *Ministerium* hat eine Pressemitteilung veröffentlicht.
+
+  Le budget du *ministère* sera augmenté l'année prochaine.
+  Der Etat des *Ministeriums* wird nächstes Jahr erhöht.
+
+  Les syndicats ont manifesté devant le *ministère*.
+  Die Gewerkschaften haben vor dem *Ministerium* demonstriert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

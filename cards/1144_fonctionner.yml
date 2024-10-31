@@ -13,23 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le processus fonctionne, et fonctionne bien.
-  Der Prozess funktioniert und funktioniert gut.
+  Le processus *fonctionne*, et *fonctionne* bien.
+  Der Prozess *funktioniert*, und *funktioniert* gut.
 
-  La machine fonctionne bien.
-  Die Maschine läuft gut.
+  Mon nouvel ordinateur *fonctionne* parfaitement depuis son installation.
+  Mein neuer Computer *funktioniert* seit der Installation einwandfrei.
 
-  Dans notre maison, le chauffage fonctionne au gaz, ce qui est très économique.
-  In unserem Haus ist die Heizung gasbetrieben, das ist sehr wirtschaftlich.
+  La climatisation ne *fonctionne* plus depuis ce matin.
+  Die Klimaanlage *funktioniert* seit heute Morgen nicht mehr.
 
-  Ce groupe de personnes fonctionne en équipe depuis plusieurs années.
-  Diese Gruppe von Menschen arbeitet seit mehreren Jahren im Team.
+  Cette théorie *fonctionne* très bien en pratique.
+  Diese Theorie *funktioniert* sehr gut in der Praxis.
 
-  Ce moteur fonctionne à l'électricité et est très performant.
-  Dieser Motor ist elektrisch betrieben und sehr leistungsstark.
+  Notre équipe *fonctionne* mieux depuis la réorganisation.
+  Unser Team *arbeitet* seit der Umstrukturierung besser.
 
-  Ce matin, j'ai du mal à fonctionner sans mon café.
-  Heute Morgen komme ich ohne meinen Kaffee nicht in Gang.
+  "Je ne peux pas *fonctionner* sans mon café du matin."
+  "Ich kann ohne meinen Morgenkaffee nicht *funktionieren*."
+
+  Comment ce nouveau système *fonctionne*-t-il exactement ?
+  Wie genau *funktioniert* dieses neue System?
+
+  Le chauffage central *fonctionne* au gaz naturel.
+  Die Zentralheizung wird mit Erdgas *betrieben*.
+
+  Cette vieille radio *fonctionne* encore parfaitement.
+  Dieses alte Radio *funktioniert* noch einwandfrei.
+
+  Son cerveau *fonctionne* à plein régime pendant les examens.
+  Sein Gehirn *arbeitet* während der Prüfungen auf Hochtouren.
+
+  La banque ne *fonctionne* pas le dimanche.
+  Die Bank *arbeitet* sonntags nicht.
+
+  Cette entreprise *fonctionne* 24 heures sur 24.
+  Dieses Unternehmen *arbeitet* rund um die Uhr.
+
+  Les reins du patient ne *fonctionnent* plus correctement.
+  Die Nieren des Patienten *funktionieren* nicht mehr richtig.
+
+  La machine *fonctionne* au ralenti depuis la panne.
+  Die Maschine *läuft* seit der Störung nur noch langsam.
+
+  L'imprimante *fonctionne* uniquement avec des cartouches d'origine.
+  Der Drucker *funktioniert* nur mit Originalpatronen.
+
+  Notre imagination *fonctionne* mieux quand nous sommes détendus.
+  Unsere Fantasie *arbeitet* besser, wenn wir entspannt sind.
+
+  Le nouveau moteur *fonctionne* à l'électricité.
+  Der neue Motor wird elektrisch *betrieben*.
+
+  L'administration *fonctionne* très lentement aujourd'hui.
+  Die Verwaltung *arbeitet* heute sehr langsam.
+
+  Cette nouvelle application *fonctionne* sur tous les smartphones.
+  Diese neue App *funktioniert* auf allen Smartphones.
+
+  "Je ne comprends pas comment son cerveau *fonctionne*."
+  "Ich verstehe nicht, wie sein Gehirn *funktioniert*."
+
+  Le lave-vaisselle *fonctionne* à vide depuis une heure.
+  Die Spülmaschine *läuft* seit einer Stunde leer.
+
+  Cette vieille montre *fonctionne* encore comme au premier jour.
+  Diese alte Uhr *funktioniert* noch wie am ersten Tag.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

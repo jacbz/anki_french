@@ -13,20 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous devons réformer ces institutions.
-  Wir müssen diese Institutionen reformieren.
+  Nous devons réformer ces *institutions*.
+  Wir müssen diese *Institutionen* reformieren.
 
-  Cette institution est très importante pour la société.
-  Diese Institution ist sehr wichtig für die Gesellschaft.
+  L'*institution* financière a publié son rapport annuel.
+  Die Finanz*institution* hat ihren Jahresbericht veröffentlicht.
 
-  La musique est une institution d'origine apostolique, elle est née de la foi et de l'amour.
-  Musik ist eine Institution apostolischen Ursprungs, sie entstand aus Glauben und Liebe.
+  Cette *institution* internationale lutte contre la pauvreté.
+  Diese internationale *Institution* kämpft gegen die Armut.
 
-  La désignation d'un bénéficiaire pour la fondation a été une tâche difficile.
-  Die Einsetzung eines Begünstigten für die Stiftung war eine schwierige Aufgabe.
+  L'*institution* des jeux Olympiques remonte à l'Antiquité.
+  Die *Einführung* der Olympischen Spiele geht auf die Antike zurück.
 
-  La famille royale est une institution qui a survécu aux siècles.
-  Die königliche Familie ist eine Institution, die die Jahrhunderte überdauert hat.
+  Mon fils fréquente une *institution* privée.
+  Mein Sohn besucht ein privates *Institut*.
+
+  Cette *institution* religieuse accueille des élèves depuis cent ans.
+  Dieses religiöse *Institut* nimmt seit hundert Jahren Schüler auf.
+
+  "La sieste est devenue une véritable *institution* dans notre bureau !"
+  "Die Mittagspause ist in unserem Büro zu einer regelrechten *Institution* geworden!"
+
+  L'*institution* du mariage a beaucoup évolué au fil des siècles.
+  Die *Einrichtung* der Ehe hat sich im Laufe der Jahrhunderte stark verändert.
+
+  Les *institutions* démocratiques doivent être protégées.
+  Die demokratischen *Institutionen* müssen geschützt werden.
+
+  L'*institution* d'un nouveau directeur aura lieu demain.
+  Die *Einsetzung* eines neuen Direktors findet morgen statt.
+
+  Cette *institution* culturelle organise des expositions remarquables.
+  Diese kulturelle *Einrichtung* organisiert bemerkenswerte Ausstellungen.
+
+  L'*institution* canonique du nouveau prêtre fut célébrée hier.
+  Die kanonische *Einsetzung* des neuen Priesters wurde gestern gefeiert.
+
+  Les *institutions* sociales jouent un rôle crucial dans notre société.
+  Die sozialen *Einrichtungen* spielen eine entscheidende Rolle in unserer Gesellschaft.
+
+  L'*institution* d'un nouveau système de notation est prévue pour septembre.
+  Die *Einführung* eines neuen Bewertungssystems ist für September geplant.
+
+  Cette vieille *institution* a formé des générations d'étudiants.
+  Dieses alte *Institut* hat Generationen von Studenten ausgebildet.
+
+  L'*institution* du bénéficiaire sera effective dès lundi.
+  Die *Einsetzung* des Begünstigten wird ab Montag wirksam.
+
+  Les *institutions* européennes siègent à Bruxelles.
+  Die europäischen *Institutionen* haben ihren Sitz in Brüssel.
+
+  Notre *institution* bancaire propose de nouveaux services.
+  Unsere Bank*institution* bietet neue Dienstleistungen an.
+
+  "Le café du matin est devenu une *institution* dans notre famille."
+  "Der Morgenkaffee ist in unserer Familie zu einer *Institution* geworden."
+
+  L'*institution* des cours d'appel date du XIXe siècle.
+  Die *Gründung* der Berufungsgerichte stammt aus dem 19. Jahrhundert.
+
+  Cette *institution* charitable aide les plus démunis.
+  Diese wohltätige *Einrichtung* hilft den Bedürftigsten.
+
+  Les *institutions* universitaires doivent s'adapter aux changements.
+  Die universitären *Institutionen* müssen sich an Veränderungen anpassen.
+
+  L'*institution* d'un nouveau congé férié a été votée.
+  Die *Einführung* eines neuen Feiertags wurde beschlossen.
+
+  L'*institution* de la République repose sur des principes fondamentaux.
+  Die *Institution* der Republik basiert auf grundlegenden Prinzipien.
+
+  Cette *institution* médicale est reconnue mondialement.
+  Diese medizinische *Institution* ist weltweit anerkannt.
+
+  L'*institution* des droits de l'homme est universelle.
+  Die *Einrichtung* der Menschenrechte ist universell.
+
+  Les *institutions* militaires doivent respecter la constitution.
+  Die militärischen *Institutionen* müssen die Verfassung respektieren.
+
+  L'*institution* d'une commission d'enquête est nécessaire.
+  Die *Einsetzung* einer Untersuchungskommission ist notwendig.
+
+  L'*institution* scolaire accueille des élèves de tous horizons.
+  Das Schul*institut* nimmt Schüler aus allen Gesellschaftsschichten auf.
+
+  Cette *institution* scientifique mène des recherches importantes.
+  Diese wissenschaftliche *Institution* führt wichtige Forschungen durch.
+
+  L'ONU est une *institution* respectée dans le monde entier.
+  Die UNO ist eine weltweit respektierte *Institution*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

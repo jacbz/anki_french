@@ -13,56 +13,188 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La bouteille est là sur la table.
-  Die Flasche steht dort auf dem Tisch.
+  La bouteille est là sur la *table*.
+  Die Flasche steht dort auf dem *Tisch*.
 
-  Nous mangeons à la table.
-  Wir essen am Tisch.
+  Qu'est-ce qui se passe à la *table* voisine ?
+  Was passiert am Nachbar*tisch*?
 
-  Mets le livre sur la table.
-  Lege das Buch auf den Tisch.
+  Les enfants, il est l'heure de mettre la *table* !
+  Kinder, es ist Zeit, den *Tisch* zu decken!
 
-  Le chien est sous la table.
-  Der Hund ist unter dem Tisch.
+  "Tu te tiens très mal à *table*, mon petit !"
+  "Du hast überhaupt keine *Tisch*manieren, mein Kleiner!"
 
-  Laissez vos mains au-dessus de la table.
-  Lassen Sie Ihre Hände über dem Tisch.
+  Toute la *table* a ri de sa blague.
+  Die ganze *Tisch*gesellschaft hat über seinen Witz gelacht.
 
-  Puis-je vous faire une place à table ?
-  Darf ich Ihnen einen Platz am Tisch anbieten?
+  Elle apprécie beaucoup les plaisirs de la *table*.
+  Sie genießt die *Tafel*freuden sehr.
 
-  Il y a un livre sur la table.
-  Auf dem Tisch liegt ein Buch.
+  La *table* généalogique montre nos ancêtres jusqu'au XVIIe siècle.
+  Die Stamm*tafel* zeigt unsere Vorfahren bis ins 17. Jahrhundert.
 
-  Le groupe s'est installé à la table voisine, pour ne pas nous déranger.
-  Die Gruppe hat sich am Nachbartisch platziert, um uns nicht zu stören.
+  Notre nouvelle *table* de cuisson en vitrocéramique est très pratique.
+  Unser neues Glaskeramik*koch*feld ist sehr praktisch.
 
-  Ils se sont assis à la même table pour discuter de leurs projets.
-  Sie haben sich am runden Tisch zusammengesetzt, um über ihre Pläne zu sprechen.
+  J'ai laissé mes livres sur la *table* de travail.
+  Ich habe meine Bücher auf dem Arbeits*tisch* liegen lassen.
 
-  Sa maison est un lieu où l'on est toujours bien accueilli, elle tient table ouverte à tous.
-  Sie hat ein offenes Haus, bei ihr ist man immer willkommen, sie hat ein offenes Haus für alle.
+  La *table* à repasser est dans la buanderie.
+  Der Bügel*tisch* ist in der Waschküche.
 
-  Il a fait table rase de ses idées d'antan.
-  Er hat Tabula rasa mit seinen alten Ideen gemacht.
+  "*Table* numéro 7, votre commande est prête !"
+  "*Tisch* Nummer 7, Ihre Bestellung ist fertig!"
 
-  La table ronde a permis à tous les participants de s'exprimer.
-  Die Tafelrunde hat allen Teilnehmern ermöglicht, sich zu äußern.
+  Les invités sont déjà à *table*.
+  Die Gäste sitzen schon bei *Tisch*.
 
-  La table tournante permet d'admirer toutes les sculptures exposées.
-  Der Tischrücken ermöglicht es, alle ausgestellten Skulpturen zu bewundern.
+  Il faut jouer cartes sur *table* dans cette affaire.
+  In dieser Sache müssen wir mit offenen Karten spielen.
 
-  Nous nous sommes mis à table, le repas était délicieux.
-  Wir haben uns zu Tisch gesetzt, das Essen war köstlich.
+  La *table* ronde sur le climat commence à 14 heures.
+  Die *Tisch*runde zum Thema Klima beginnt um 14 Uhr.
 
-  La cuisine est un art qui se savoure, les plaisirs de la table ne manquent pas.
-  Die Küche ist eine Kunst, die man genießen kann, es mangelt nicht an Tafelfreuden.
+  Cette *table* basse est parfaite pour le salon.
+  Dieser niedrige *Tisch* ist perfekt fürs Wohnzimmer.
 
-  La table mortuaire mentionnait le nom du défunt et les dates importantes de sa vie.
-  Die Grabtafel enthielt den Namen des Verstorbenen und die wichtigen Daten seines Lebens.
+  Ma *table* de nuit est encombrée de livres.
+  Mein Nacht*tisch* ist voller Bücher.
 
-  Dans le dictionnaire, les mots sont classés par ordre alphabétique, c'est une table alphabétique.
-  Im Wörterbuch sind die Wörter alphabetisch geordnet, es ist eine alphabetisch geordnete Liste.
+  La *table* d'orientation nous aide à identifier les sommets.
+  Die Orientierungs*tafel* hilft uns, die Gipfel zu identifizieren.
+
+  Les élèves doivent apprendre la *table* de multiplication.
+  Die Schüler müssen die *Multiplikations*tabelle lernen.
+
+  Cette *table* de massage est très confortable.
+  Diese Massage*liege* ist sehr bequem.
+
+  La *table* des matières se trouve à la fin du livre.
+  Das Inhaltsverzeichnis befindet sich am Ende des Buches.
+
+  Nous avons une belle *table* en chêne massif.
+  Wir haben einen schönen *Tisch* aus massiver Eiche.
+
+  C'est une des meilleures *tables* de la ville.
+  Das ist eines der besten *Restaurants* der Stadt.
+
+  Il faut faire un tour de *table* pour les présentations.
+  Wir sollten eine Vorstellungsrunde machen.
+
+  La *table* roulante facilite le service.
+  Der Roll*tisch* erleichtert das Servieren.
+
+  Cette *table* pliante est très pratique pour le camping.
+  Dieser Klapp*tisch* ist sehr praktisch zum Camping.
+
+  Veuillez consulter la *table* des logarithmes.
+  Bitte schauen Sie in der Logarithmen*tafel* nach.
+
+  Le restaurant propose une *table* d'hôte à midi.
+  Das Restaurant bietet mittags ein *Menü* an.
+
+  La *table* de ping-pong est installée dans le jardin.
+  Die Pingpong*platte* ist im Garten aufgestellt.
+
+  Le serveur débarrasse la *table*.
+  Der Kellner räumt den *Tisch* ab.
+
+  Cette *table* à langer est à la bonne hauteur.
+  Dieser Wickel*tisch* hat die richtige Höhe.
+
+  Les invités quittent la *table* après le dessert.
+  Die Gäste verlassen den *Tisch* nach dem Dessert.
+
+  Nous avons réservé une *table* pour quatre personnes.
+  Wir haben einen *Tisch* für vier Personen reserviert.
+
+  La *table* d'harmonie de ce violon est fissurée.
+  Die Resonanz*platte* dieser Violine hat einen Riss.
+
+  Il faut faire *table* rase du passé.
+  Man muss mit der Vergangenheit *abrechnen*.
+
+  Les *tables* de la Loi sont conservées dans l'Arche.
+  Die Gesetzes*tafeln* werden in der Bundeslade aufbewahrt.
+
+  Cette *table* calcaire forme un plateau naturel.
+  Diese Kalk*platte* bildet ein natürliches Plateau.
+
+  La *table* alphabétique facilite la recherche.
+  Das alphabetische *Register* erleichtert die Suche.
+
+  Le serveur a renversé du vin sur la *table*.
+  Der Kellner hat Wein auf den *Tisch* verschüttet.
+
+  "À *table* !" cria ma mère depuis la cuisine.
+  "Zu *Tisch*!" rief meine Mutter aus der Küche.
+
+  Cette *table* de jardin résiste bien aux intempéries.
+  Dieser Garten*tisch* ist sehr wetterbeständig.
+
+  La *table* de billard doit être parfaitement horizontale.
+  Der Billard*tisch* muss perfekt waagerecht sein.
+
+  Nous avons installé une *table* de pique-nique dans le parc.
+  Wir haben einen Picknick*tisch* im Park aufgestellt.
+
+  Le chat dort sous la *table*.
+  Die Katze schläft unter dem *Tisch*.
+
+  Cette *table* d'architecte est réglable en hauteur.
+  Dieser Architekten*tisch* ist höhenverstellbar.
+
+  La *table* ronde permet une meilleure conversation.
+  Der runde *Tisch* ermöglicht bessere Gespräche.
+
+  Il y a des miettes sur la *table*.
+  Es sind Krümel auf dem *Tisch*.
+
+  Cette *table* de chevet est trop haute pour mon lit.
+  Dieser Nacht*tisch* ist zu hoch für mein Bett.
+
+  La *table* du petit déjeuner est déjà dressée.
+  Der Frühstücks*tisch* ist schon gedeckt.
+
+  Les enfants dessinent sur la *table* d'activités.
+  Die Kinder zeichnen am Aktivitäts*tisch*.
+
+  Cette *table* de mixage est très performante.
+  Dieses Misch*pult* ist sehr leistungsfähig.
+
+  La *table* de consultation est équipée d'un coussin.
+  Die Untersuchungs*liege* ist mit einem Kissen ausgestattet.
+
+  Cette *table* guéridon est parfaite pour le café.
+  Dieser Bistro*tisch* ist perfekt für den Kaffee.
+
+  Les documents sont éparpillés sur la *table*.
+  Die Dokumente liegen auf dem *Tisch* verstreut.
+
+  La *table* de bridge est recouverte de feutre vert.
+  Der Bridge*tisch* ist mit grünem Filz bezogen.
+
+  Nous avons une grande *table* de réunion au bureau.
+  Wir haben einen großen Konferenz*tisch* im Büro.
+
+  Cette *table* à rallonges peut accueillir douze personnes.
+  Dieser Auszieh*tisch* hat Platz für zwölf Personen.
+
+  La *table* de tri est encombrée de courrier.
+  Der Sortier*tisch* ist voller Post.
+
+  Nous avons restauré cette vieille *table* en noyer.
+  Wir haben diesen alten Nussbaum*tisch* restauriert.
+
+  La *table* d'examen est équipée d'un marchepied.
+  Die Untersuchungs*liege* ist mit einer Fußstütze ausgestattet.
+
+  Cette *table* de conférence est équipée de prises électriques.
+  Dieser Konferenz*tisch* ist mit Steckdosen ausgestattet.
+
+  Les convives sont répartis sur trois *tables*.
+  Die Gäste sind auf drei *Tische* verteilt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

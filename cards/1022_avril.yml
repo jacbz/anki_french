@@ -13,23 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis né le 10 avril.
-  Ich wurde am 10. April geboren.
+  Je suis né le 10 *avril*.
+  Ich bin am 10. *April* geboren.
 
-  Mon anniversaire est en avril.
-  Mein Geburtstag ist im April.
+  Cette année, Pâques tombe en *avril*.
+  Dieses Jahr fällt Ostern in den *April*.
 
-  Mai vient après avril.
-  Mai kommt nach April.
+  Nous avons eu un *avril* bien pluvieux.
+  Wir hatten einen sehr regnerischen *April*.
 
-  En avril, ne te découvre pas d'un fil, car le temps est encore capricieux, mais en mai, fais ce qu'il te plaît, car le printemps est bien installé.
-  Im April sollte man sich nicht zu leicht anziehen, denn das Wetter ist noch unbeständig, aber im Mai kann man machen, was man will, denn der Frühling ist nun endgültig da.
+  "Je vais te faire un *poisson d'avril*!"
+  "Ich werde dir einen *Aprilscherz* machen!"
 
-  C'est un poisson d'avril !
-  Das ist ein Aprilscherz!
+  Les cerisiers fleurissent toujours en *avril*.
+  Die Kirschbäume blühen immer im *April*.
 
-  Poisson d'avril !
-  April, April!
+  En *avril*, ne te découvre pas d'un fil.
+  Im *April* sollst du dich nicht zu leicht kleiden.
+
+  Il a commencé son nouveau travail début *avril*.
+  Er hat seine neue Arbeit Anfang *April* begonnen.
+
+  Les examens auront lieu fin *avril*.
+  Die Prüfungen finden Ende *April* statt.
+
+  Le premier *avril*, tout le monde se méfie des blagues.
+  Am ersten *April* ist jeder misstrauisch gegenüber Scherzen.
+
+  En *avril*, la nature se réveille doucement.
+  Im *April* erwacht die Natur langsam.
+
+  C'était un beau jour d'*avril*, le soleil brillait.
+  Es war ein schöner Tag im *April*, die Sonne schien.
+
+  Le magazine d'*avril* vient de sortir.
+  Die *April*-Ausgabe ist gerade erschienen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,38 +13,113 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  De quoi nous accusez-vous?
-  Was werfen Sie uns vor?
+  De quoi nous *accusez*-vous ?
+  Was *werfen* Sie uns *vor*?
 
-  On l'a accusé d'avoir violé la jeune femme.
-  Man hat ihn beschuldigt, die junge Frau vergewaltigt zu haben.
+  Les voisins l'ont *accusé* d'avoir volé leur chat.
+  Die Nachbarn haben ihn *beschuldigt*, ihre Katze gestohlen zu haben.
 
-  Il s'est accusé de l'échec du projet.
-  Er gab sich die Schuld am Scheitern des Projekts.
+  Marie *s'accuse* d'avoir cassé le vase de sa mère.
+  Marie gibt sich die *Schuld*, die Vase ihrer Mutter zerbrochen zu haben.
 
-  Quand elle a appris la nouvelle, elle n'a rien dit, mais son visage a accusé le coup.
-  Als sie die Nachricht erfuhr, sagte sie nichts, aber man sah ihr an, dass es sie getroffen hatte.
+  Les statistiques *accusent* une baisse significative des ventes.
+  Die Statistiken *zeigen* einen deutlichen Rückgang der Verkäufe.
 
-  Veuillez accuser réception de la facture ci-jointe.
-  Bitte bestätigen Sie den Empfang der beigefügten Rechnung.
+  Son visage *accuse* la fatigue de ces derniers jours.
+  Seinem Gesicht sieht man die Müdigkeit der letzten Tage *an*.
 
-  Ne te justifie pas ainsi, qui s'excuse s'accuse.
-  Rede dich nicht so heraus, wer sich verteidigt, klagt sich an.
+  Il a dû *accuser* réception du recommandé hier.
+  Er musste den Empfang des Einschreibens gestern *bestätigen*.
 
-  On a accusé le conducteur du bus d'être à l'origine de l'accident.
-  Man gab dem Busfahrer die Schuld an dem Unfall.
+  "*Qui s'excuse s'accuse*", a dit ma grand-mère en souriant.
+  "*Wer sich entschuldigt, klagt sich an*", sagte meine Großmutter lächelnd.
 
-  Son visage accuse un âge avancé, mais il a gardé un regard vif et malicieux.
-  Sein Gesicht lässt sein vorgeschrittenes Alter erkennen, aber er hat einen wachen und verschmitzten Blick behalten.
+  Le président *accuse* ses adversaires d'être malhonnêtes.
+  Der Präsident *bezichtigt* seine Gegner der Unehrlichkeit.
 
-  La police l'a accusé du vol du célèbre tableau.
-  Die Polizei beschuldigte ihn des Diebstahls des berühmten Gemäldes.
+  La lumière *accusait* les rides sur son visage.
+  Das Licht *betonte* die Falten in seinem Gesicht.
 
-  Il ne répond à aucune de mes questions, son silence l'accuse.
-  Er beantwortet keine meiner Fragen, sein Schweigen klagt ihn an.
+  Pierre n'a pas *accusé* le coup quand il a perdu son travail.
+  Pierre hat sich die Kündigung nicht *anmerken* lassen.
 
-  Elle accuse la fatigue des jours passés, mais elle garde le sourire.
-  Man sieht ihr die Anstrengung der vergangenen Tage an, aber sie lächelt immer noch.
+  Les journaux *accusent* le ministre d'avoir menti au public.
+  Die Zeitungen *beschuldigen* den Minister, die Öffentlichkeit belogen zu haben.
+
+  Cette entreprise *accuse* des pertes importantes.
+  Dieses Unternehmen *erleidet* schwere Verluste.
+
+  Son silence *l'accusait* plus que des mots.
+  Sein Schweigen *klagte* ihn mehr *an* als Worte.
+
+  Les traits *accusés* de son visage lui donnaient un air sévère.
+  Die *markanten* Gesichtszüge gaben ihr einen strengen Ausdruck.
+
+  Je dois *accuser* réception de votre lettre de démission.
+  Ich muss den Empfang Ihres Kündigungsschreibens *bestätigen*.
+
+  Il *s'accuse* toujours quand quelque chose va mal.
+  Er gibt sich immer selbst die *Schuld*, wenn etwas schiefgeht.
+
+  Les experts *accusent* le changement climatique d'être responsable des inondations.
+  Die Experten *machen* den Klimawandel für die Überschwemmungen verantwortlich.
+
+  Sa robe noire *accusait* sa silhouette élégante.
+  Ihr schwarzes Kleid *betonte* ihre elegante Silhouette.
+
+  Le thermomètre *accuse* moins dix degrés ce matin.
+  Das Thermometer *zeigt* heute Morgen minus zehn Grad.
+
+  Thomas a été injustement *accusé* du vol.
+  Thomas wurde zu Unrecht des Diebstahls *beschuldigt*.
+
+  Elle n'a pas voulu *s'accuser* d'un crime qu'elle n'avait pas commis.
+  Sie wollte sich nicht eines Verbrechens *bezichtigen*, das sie nicht begangen hatte.
+
+  La société *accuse* une hausse du chiffre d'affaires.
+  Die Firma *verzeichnet* einen Umsatzanstieg.
+
+  Le costume *accusait* sa carrure athlétique.
+  Der Anzug *betonte* seine athletische Statur.
+
+  Les syndicats *accusent* la direction de négligence.
+  Die Gewerkschaften *bezichtigen* die Führung der Fahrlässigkeit.
+
+  Elle a dû *accuser* le coup après cette terrible nouvelle.
+  Sie musste den Schlag nach dieser schrecklichen Nachricht erst *verkraften*.
+
+  Paul *s'accuse* d'avoir oublié son anniversaire.
+  Paul macht sich *Vorwürfe*, ihren Geburtstag vergessen zu haben.
+
+  Le miroir *accusait* impitoyablement les effets du temps.
+  Der Spiegel *zeigte* unbarmherzig die Spuren der Zeit.
+
+  Les chiffres *accusent* un déficit important.
+  Die Zahlen *weisen* ein erhebliches Defizit auf.
+
+  Nous devons *accuser* réception de votre plainte.
+  Wir müssen den Empfang Ihrer Beschwerde *bestätigen*.
+
+  Il *accuse* sa malchance pour ses échecs.
+  Er gibt seinem Pech die *Schuld* für seine Misserfolge.
+
+  L'ombre *accusait* davantage ses traits fatigués.
+  Der Schatten *betonte* seine müden Gesichtszüge noch mehr.
+
+  Le rapport *accuse* une augmentation des accidents.
+  Der Bericht *verzeichnet* einen Anstieg der Unfälle.
+
+  Sophie *s'est accusée* d'avoir mal géré le projet.
+  Sophie hat sich *beschuldigt*, das Projekt schlecht geführt zu haben.
+
+  Les médias *accusent* le gouvernement d'incompétence.
+  Die Medien *beschuldigen* die Regierung der Inkompetenz.
+
+  Cette photo *accuse* cruellement son âge.
+  Dieses Foto *zeigt* ihr Alter schonungslos.
+
+  Le bilan *accuse* un léger retard dans les livraisons.
+  Die Bilanz *weist* eine leichte Verzögerung bei den Lieferungen auf.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

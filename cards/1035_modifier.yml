@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous pouvons modifier nos paramètres.
-  Wir können unsere Einstellungen ändern.
+  Nous pouvons *modifier* nos paramètres.
+  Wir können unsere Einstellungen *ändern*.
 
-  Je dois modifier mon plan.
-  Ich muss meinen Plan ändern.
+  Le gouvernement veut *modifier* la loi sur l'éducation.
+  Die Regierung will das Bildungsgesetz *ändern*.
 
-  La réforme, qui modifie en profondeur les structures de l'éducation, a suscité de vives réactions.
-  Die strukturverändernde Reform des Bildungswesens hat heftige Reaktionen hervorgerufen.
+  Cette expérience a *modifié* ma façon de penser.
+  Diese Erfahrung hat meine Denkweise *verändert*.
 
-  La réforme, qui modifie les structures de l'entreprise, a pour but d'accroître sa compétitivité.
-  Die strukturverändernde Reform des Unternehmens soll dessen Wettbewerbsfähigkeit steigern.
+  L'adverbe "très" *modifie* l'adjectif "grand".
+  Das Adverb "sehr" *bestimmt* das Adjektiv "groß" näher.
+
+  Les travaux vont *modifier* l'aspect du quartier.
+  Die Bauarbeiten werden das Erscheinungsbild des Viertels *verändern*.
+
+  Le climat s'est *modifié* au cours des dernières années.
+  Das Klima hat sich in den letzten Jahren *gewandelt*.
+
+  L'architecte a *modifié* les plans de la maison.
+  Der Architekt hat die Hauspläne *geändert*.
+
+  Son comportement s'est *modifié* depuis qu'il a un nouveau travail.
+  Sein Verhalten hat sich *verändert*, seit er eine neue Arbeit hat.
+
+  L'érosion a *modifié* le paysage au fil du temps.
+  Die Erosion hat die Landschaft im Laufe der Zeit *verändert*.
+
+  Je dois *modifier* mon emploi du temps pour la semaine prochaine.
+  Ich muss meinen Zeitplan für nächste Woche *ändern*.
+
+  Les conditions météorologiques se sont *modifiées* brusquement.
+  Die Wetterbedingungen haben sich plötzlich *geändert*.
+
+  Il faut *modifier* le texte avant de l'envoyer.
+  Der Text muss *geändert* werden, bevor wir ihn verschicken.
+
+  L'éducation peut *modifier* profondément une personne.
+  Bildung kann einen Menschen grundlegend *verändern*.
+
+  Le programmeur a *modifié* le code source du logiciel.
+  Der Programmierer hat den Quellcode der Software *modifiziert*.
+
+  La disposition des meubles s'est *modifiée* plusieurs fois.
+  Die Anordnung der Möbel wurde mehrmals *geändert*.
+
+  Ces événements ont *modifié* le cours de l'histoire.
+  Diese Ereignisse haben den Lauf der Geschichte *verändert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

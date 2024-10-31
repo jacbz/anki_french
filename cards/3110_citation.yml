@@ -13,17 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’aimerai mentionner quelques citations.
-  Ich möchte einige Zitate erwähnen.
+  J'aimerais mentionner quelques *citations*.
+  Ich möchte einige *Zitate* erwähnen.
 
-  Il a commencé son discours par une citation célèbre.
-  Er begann seine Rede mit einem berühmten Zitat.
+  Le professeur a utilisé une *citation* de Victor Hugo pour commencer son cours.
+  Der Lehrer begann seinen Unterricht mit einem *Zitat* von Victor Hugo.
 
-  Le discours du politicien était truffé de citations de grands auteurs.
-  Der Politiker spickte seine Rede mit Zitaten von großen Autoren.
+  Son discours était truffé de *citations* philosophiques.
+  Seine Rede war mit philosophischen *Zitaten* gespickt.
 
-  Le tribunal a refusé la citation en conciliation.
-  Das Gericht hat den Güteantrag abgelehnt.
+  Il faut toujours indiquer la source d'une *citation*.
+  Man muss immer die Quelle eines *Zitats* angeben.
+
+  La *citation* à comparaître est arrivée ce matin par courrier recommandé.
+  Die *Vorladung* kam heute Morgen per Einschreiben.
+
+  Le sergent a reçu une *citation* pour acte de bravoure.
+  Der Sergeant erhielt eine *ehrenvolle Erwähnung* für seine Tapferkeit.
+
+  Cette *citation* est devenue la devise de notre école.
+  Dieses *Zitat* wurde zum Motto unserer Schule.
+
+  J'ai reçu une *citation* en justice pour témoigner dans cette affaire.
+  Ich habe eine *Vorladung* erhalten, um in diesem Fall auszusagen.
+
+  Le colonel lui a remis une *citation* à l'ordre du régiment.
+  Der Oberst überreichte ihm eine militärische *Belobigung*.
+
+  Elle collectionne les *citations* inspirantes dans un petit carnet.
+  Sie sammelt inspirierende *Zitate* in einem kleinen Notizbuch.
+
+  Le film contenait plusieurs *citations* musicales d'œuvres classiques.
+  Der Film enthielt mehrere musikalische *Zitate* aus klassischen Werken.
+
+  Une *citation* directe doit toujours être mise entre guillemets.
+  Ein direktes *Zitat* muss immer in Anführungszeichen gesetzt werden.
+
+  La *citation* à l'ordre de la Nation est une distinction prestigieuse.
+  Die *Belobigung* durch die Nation ist eine prestigeträchtige Auszeichnung.
+
+  Le juge a émis une *citation* à comparaître pour le témoin principal.
+  Der Richter hat für den Hauptzeugen eine *Vorladung* ausgestellt.
+
+  Sa thèse contient trop de *citations* et pas assez d'idées originales.
+  Seine Dissertation enthält zu viele *Zitate* und zu wenig eigene Ideen.
+
+  Les étudiants doivent apprendre à bien référencer leurs *citations*.
+  Die Studenten müssen lernen, ihre *Zitate* richtig zu belegen.
+
+  Le ministre a terminé son discours par une *citation* de Gandhi.
+  Der Minister beendete seine Rede mit einem *Zitat* von Gandhi.
+
+  La *citation* en conciliation vise à résoudre le conflit à l'amiable.
+  Die *Vorladung* zum Schlichtungsverfahren zielt darauf ab, den Konflikt gütlich beizulegen.
+
+  Cette *citation* latine est gravée sur la façade du bâtiment.
+  Dieses lateinische *Zitat* ist in die Fassade des Gebäudes eingemeißelt.
+
+  "Fin de *citation*", a-t-il dit en fermant le livre.
+  "Ende des *Zitats*", sagte er und schloss das Buch.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,35 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous avez entendu les deux versions de l’incident.
-  Sie haben beide Versionen des Vorfalls gehört.
+  Vous avez entendu les deux *versions* de l'incident.
+  Sie haben beide *Versionen* des Vorfalls gehört.
 
-  Quelle est la dernière version de ce logiciel?
-  Was ist die neueste Version dieser Software?
+  Le film est sorti en *version* originale sous-titrée en allemand.
+  Der Film kam in Original*fassung* mit deutschen Untertiteln heraus.
 
-  La nouvelle version du logiciel est plus stable que la version originale.
-  Die neue Software-Version ist stabiler als die Urversion.
+  La *version* de Marie est complètement différente de celle de Pierre.
+  Maries *Version* unterscheidet sich völlig von Pierres.
 
-  C'est ma version de ce qui s'est passé, et je ne suis pas sûr qu'elle soit exacte.
-  Das ist meine Version der Ereignisse, und ich bin mir nicht sicher, ob sie stimmt.
+  J'ai acheté la *version* cinq portes de cette voiture.
+  Ich habe die fünftürige *Version* dieses Autos gekauft.
 
-  Le film est disponible en version originale sous-titrée.
-  Der Film ist in Originalfassung mit Untertiteln verfügbar.
+  La nouvelle *version* de ce logiciel inclut de nombreuses améliorations.
+  Die neue *Version* dieser Software enthält viele Verbesserungen.
 
-  La version réduite du livre est plus courte, mais elle contient les points clés.
-  Die Sparversion des Buches ist kürzer, enthält aber die wichtigsten Punkte.
+  Les élèves ont fait une *version* latine aujourd'hui.
+  Die Schüler haben heute eine *Übersetzung* aus dem Lateinischen gemacht.
 
-  La version standard du jeu est la plus populaire.
-  Die Normalversion des Spiels ist die beliebteste.
+  Nous avons regardé le film en *version* française.
+  Wir haben uns den Film in der französischen *Fassung* angesehen.
 
-  La version suivante du logiciel sera disponible en mai.
-  Die Nachfolgeversion der Software wird im Mai verfügbar sein.
+  Il existe plusieurs *versions* de cette légende.
+  Es gibt mehrere *Versionen* dieser Legende.
 
-  La version cinq portes de la voiture est plus pratique pour les familles.
-  Die fünftürige Version des Autos ist praktischer für Familien.
+  La *version* standard du modèle coûte moins cher.
+  Die Standard*version* des Modells ist günstiger.
 
-  La plus récente version du logiciel corrige certains bugs.
-  Die neueste Software-Version behebt einige Fehler.
+  J'ai préféré sa *version* de la chanson à l'originale.
+  Seine *Version* des Liedes gefiel mir besser als das Original.
+
+  La *version* bêta du jeu sera disponible la semaine prochaine.
+  Die Beta*version* des Spiels wird nächste Woche verfügbar sein.
+
+  Quelle est votre *version* des faits ?
+  Was ist Ihre *Version* der Tatsachen?
+
+  Je travaille sur la *version* réduite du projet.
+  Ich arbeite an der Spar*version* des Projekts.
+
+  La *version* originale du texte a été écrite en grec.
+  Die Original*version* des Textes wurde auf Griechisch geschrieben.
+
+  Cette *version* du système d'exploitation n'est plus supportée.
+  Diese *Version* des Betriebssystems wird nicht mehr unterstützt.
+
+  Les deux *versions* de l'histoire ne correspondent pas.
+  Die beiden *Versionen* der Geschichte stimmen nicht überein.
+
+  La *version* suivante corrigera ces bugs.
+  Die Nachfolge*version* wird diese Fehler beheben.
+
+  J'ai téléchargé la dernière *version* de l'application.
+  Ich habe die neueste *Version* der App heruntergeladen.
+
+  La *version* numérique du livre est gratuite.
+  Die Digital*version* des Buches ist kostenlos.
+
+  Cette *version* de Windows est plus stable.
+  Diese *Version* von Windows ist stabiler.
+
+  Nous préférons voir les films en *version* originale.
+  Wir sehen Filme lieber in Original*fassung*.
+
+  La nouvelle *version* du spectacle dure deux heures.
+  Die neue *Fassung* der Show dauert zwei Stunden.
+
+  Cette *version* du conte est moins connue.
+  Diese *Version* des Märchens ist weniger bekannt.
+
+  Ils ont sorti une *version* actualisée du manuel.
+  Sie haben eine aktualisierte *Version* des Handbuchs herausgebracht.
+
+  La *version* définitive sera publiée demain.
+  Die endgültige *Fassung* wird morgen veröffentlicht.
+
+  C'est une *version* simplifiée pour les débutants.
+  Das ist eine vereinfachte *Version* für Anfänger.
+
+  Il faut installer la dernière *version* du programme.
+  Man muss die neueste *Version* des Programms installieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

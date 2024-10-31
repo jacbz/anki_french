@@ -9,12 +9,54 @@ Femininum / Plural: ''
 IPA: \sɛp.tɑ̃bʁ\
 Definition: September
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Elle est née un 22 septembre.\nSie wurde an einem 22. September geboren.\n\
-  \nMon anniversaire est en septembre.\nMein Geburtstag ist im September.\n\nLe 11\
-  \ septembre 2001, les États-Unis ont été victimes d'un attentat terroriste qui a\
-  \ profondément marqué l'histoire. \nDer 11. September 2001 war ein Tag, an dem die\
-  \ Vereinigten Staaten Opfer eines Terroranschlags wurden, der die Geschichte tiefgreifend\
-  \ veränderte."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Elle est née un 22 *septembre*.
+  Sie wurde am 22. *September* geboren.
+
+  L'automne commence le 23 *septembre* cette année.
+  Der Herbst beginnt dieses Jahr am 23. *September*.
+
+  Je prendrai mes vacances à la mi-*septembre*.
+  Ich werde Mitte *September* Urlaub nehmen.
+
+  Les enfants retourneront à l'école le 4 *septembre*.
+  Die Kinder gehen am 4. *September* wieder zur Schule.
+
+  La température en *septembre* est encore agréable pour se baigner.
+  Die Temperatur im *September* ist noch angenehm zum Baden.
+
+  Nous avons prévu notre mariage pour début *septembre*.
+  Wir haben unsere Hochzeit für Anfang *September* geplant.
+
+  Le festival de musique se déroulera du 15 au 20 *septembre*.
+  Das Musikfestival findet vom 15. bis 20. *September* statt.
+
+  En *septembre*, les feuilles commencent à jaunir.
+  Im *September* beginnen die Blätter gelb zu werden.
+
+  La récolte du raisin commence fin *septembre*.
+  Die Weinernte beginnt Ende *September*.
+
+  Les attentats du 11 *septembre* ont changé le monde.
+  Die Anschläge vom 11. *September* haben die Welt verändert.
+
+  Cette exposition d'art sera ouverte jusqu'en *septembre*.
+  Diese Kunstausstellung wird bis *September* geöffnet sein.
+
+  Le loyer est à payer avant le premier *septembre*.
+  Die Miete muss vor dem ersten *September* bezahlt werden.
+
+  Mon contrat se termine en *septembre* prochain.
+  Mein Vertrag endet nächsten *September*.
+
+  Les prix des hôtels baissent en *septembre*.
+  Die Hotelpreise sinken im *September*.
+
+  Il fait souvent beau en *septembre* dans cette région.
+  Es ist oft schön im *September* in dieser Region.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

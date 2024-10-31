@@ -13,11 +13,41 @@ Register: ↘Fiktion ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je ne serai payée que mercredi.
-  Ich werde erst am Mittwoch bezahlt.
+  Je ne serai payée que *mercredi*.
+  Ich werde erst am *Mittwoch* bezahlt.
 
-  Nous avons rendez-vous mercredi.
-  Wir haben am Mittwoch eine Verabredung.
+  Nous avons cours de français tous les *mercredis* matin.
+  Wir haben jeden *Mittwoch* morgens Französischunterricht.
+
+  Le *mercredi*, c'est toujours la journée la plus chargée.
+  Der *Mittwoch* ist immer der stressigste Tag.
+
+  À partir de *mercredi* prochain, je commence mon nouveau travail.
+  Ab nächsten *Mittwoch* fange ich meine neue Arbeit an.
+
+  *Mercredi* dernier, il a plu toute la journée.
+  Letzten *Mittwoch* hat es den ganzen Tag geregnet.
+
+  On se voit *mercredi* soir au restaurant ?
+  Sehen wir uns am *Mittwoch*abend im Restaurant?
+
+  Le *mercredi* des Cendres marque le début du Carême.
+  Am Ascher*mittwoch* beginnt die Fastenzeit.
+
+  La réunion a été reportée à *mercredi*.
+  Die Besprechung wurde auf *Mittwoch* verschoben.
+
+  C'est *mercredi* aujourd'hui, donc les enfants n'ont pas école.
+  Heute ist *Mittwoch*, also haben die Kinder keine Schule.
+
+  Chaque *mercredi*, ma grand-mère vient nous rendre visite.
+  Jeden *Mittwoch* kommt uns meine Großmutter besuchen.
+
+  On se retrouve *mercredi* à 15h devant la bibliothèque.
+  Wir treffen uns am *Mittwoch* um 15 Uhr vor der Bibliothek.
+
+  Le magasin est fermé tous les *mercredis* après-midi.
+  Das Geschäft ist jeden *Mittwoch*nachmittag geschlossen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

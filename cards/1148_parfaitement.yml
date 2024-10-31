@@ -13,14 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Votre baladeur fonctionne parfaitement.
-  Ihr Player funktioniert einwandfrei.
+  Votre baladeur fonctionne *parfaitement*.
+  Ihr MP3-Player funktioniert *einwandfrei*.
 
-  Je parle parfaitement français.
-  Ich spreche perfekt Französisch.
+  Elle parle *parfaitement* l'allemand depuis son séjour à Berlin.
+  Sie spricht seit ihrem Berlin-Aufenthalt *perfekt* Deutsch.
 
-  Pierre est parfaitement au courant de la situation.
-  Pierre ist bestens über die Situation informiert.
+  "*Parfaitement* !" s'écria-t-il quand je lui ai demandé s'il viendrait.
+  "*Natürlich*!" rief er, als ich ihn fragte, ob er kommen würde.
+
+  Cette robe te va *parfaitement*.
+  Dieses Kleid passt dir *perfekt*.
+
+  Je suis *parfaitement* au courant de la situation.
+  Ich bin über die Situation *bestens* informiert.
+
+  Le nouveau stagiaire s'est *parfaitement* intégré dans l'équipe.
+  Der neue Praktikant hat sich *perfekt* ins Team eingefügt.
+
+  Paul joue *parfaitement* du piano depuis qu'il est petit.
+  Paul spielt seit seiner Kindheit *perfekt* Klavier.
+
+  Vous savez *parfaitement* que c'est faux !
+  Sie wissen *genau*, dass das falsch ist!
+
+  Son comportement était *parfaitement* ridicule lors de la fête.
+  Sein Verhalten auf der Party war *ausgesprochen* lächerlich.
+
+  Je comprends *parfaitement* vos inquiétudes.
+  Ich verstehe Ihre Sorgen *vollkommen*.
+
+  Marc et Sophie s'entendent *parfaitement* depuis des années.
+  Marc und Sophie verstehen sich seit Jahren *perfekt*.
+
+  Cette solution me convient *parfaitement*.
+  Diese Lösung passt mir *perfekt*.
+
+  "*Parfaitement*, c'est exactement ce que je voulais dire !"
+  "*Aber sicher*, genau das wollte ich damit sagen!"
+
+  Son explication était *parfaitement* claire.
+  Seine Erklärung war *völlig* klar.
+
+  Elle s'acquitte *parfaitement* de ses responsabilités.
+  Sie kommt ihren Verantwortungen *perfekt* nach.
+
+  Tu as *parfaitement* le droit d'être en colère.
+  Du hast *völlig* das Recht, wütend zu sein.
+
+  Les deux versions correspondent *parfaitement*.
+  Die beiden Versionen stimmen *perfekt* überein.
+
+  Ce raisonnement est *parfaitement* absurde.
+  Diese Argumentation ist *vollkommen* absurd.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La consommation de drogues illicites contribue à la criminalité.
-  Der Konsum illegaler Drogen trägt zur Kriminalität bei.
+  La consommation de drogues illicites *contribue* à la criminalité.
+  Der Konsum illegaler Drogen *trägt* zur Kriminalität *bei*.
 
-  Chacun peut contribuer à la protection de l’environnement.
-  Jeder kann zum Schutz der Umwelt beitragen.
+  Nous avons tous *contribué* à l'achat d'un cadeau pour son anniversaire.
+  Wir haben alle zum Kauf eines Geburtstagsgeschenks für sie *beigetragen*.
 
-  Sophie a contribué à la réussite du projet.
-  Sophie hat dazu beigetragen, dass das Projekt ein Erfolg wurde.
+  La forêt amazonienne *contribue* à la régulation du climat mondial.
+  Der Amazonas-Regenwald *trägt* zur globalen Klimaregulierung *bei*.
 
-  Les bénévoles ont contribué à la construction de l'école.
-  Die Freiwilligen haben zum Bau der Schule beigetragen.
+  Les bénévoles ont grandement *contribué* au succès du festival.
+  Die Freiwilligen haben maßgeblich zum Erfolg des Festivals *beigetragen*.
+
+  Ses recherches ont *contribué* aux progrès de la médecine.
+  Seine Forschungen haben zum Fortschritt der Medizin *beigetragen*.
+
+  Chaque employé doit *contribuer* aux frais de bureau.
+  Jeder Mitarbeiter muss zu den Bürokosten *beisteuern*.
+
+  Cette expérience a *contribué* à mon développement personnel.
+  Diese Erfahrung hat zu meiner persönlichen Entwicklung *beigetragen*.
+
+  Les nouvelles technologies *contribuent* à transformer notre société.
+  Neue Technologien *tragen* zur Umgestaltung unserer Gesellschaft *bei*.
+
+  Elle a *contribué* à hauteur de 50% au financement du projet.
+  Sie hat 50% zur Finanzierung des Projekts *beigesteuert*.
+
+  Le sport *contribue* à maintenir une bonne santé.
+  Sport *trägt* zur Erhaltung der Gesundheit *bei*.
+
+  Ces témoignages ont *contribué* à faire éclater la vérité.
+  Diese Zeugenaussagen haben dazu *beigetragen*, die Wahrheit ans Licht zu bringen.
+
+  Son attitude positive *contribue* à créer une atmosphère agréable.
+  Seine positive Einstellung *trägt* zu einer angenehmen Atmosphäre *bei*.
+
+  Les parents doivent *contribuer* à l'éducation de leurs enfants.
+  Eltern müssen zur Erziehung ihrer Kinder *beitragen*.
+
+  Cette région *contribue* largement à l'économie du pays.
+  Diese Region *trägt* erheblich zur Wirtschaft des Landes *bei*.
+
+  Tous les citoyens *contribuent* aux charges publiques par leurs impôts.
+  Alle Bürger *tragen* durch ihre Steuern zu den öffentlichen Ausgaben *bei*.
+
+  Le bruit constant *contribue* au stress quotidien.
+  Der ständige Lärm *trägt* zum täglichen Stress *bei*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,32 +13,101 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le singe aussi est un animal familier.
-  Auch der Affe ist ein vertrautes Tier.
+  Le singe aussi est un *animal* familier.
+  Auch der Affe ist ein vertrautes *Tier*.
 
-  Le chat est un animal domestique.
-  Die Katze ist ein Haustier.
+  Les chats sont des *animaux* parfaits pour les appartements.
+  Katzen sind perfekte *Haus**tiere* für Wohnungen.
 
-  Je connais le nom de cet animal.
-  Ich kenne den Namen dieses Tieres.
+  La baleine est un *animal* marin fascinant.
+  Der Wal ist ein faszinierendes *Meeres**tier*.
 
-  Le règne animal est très vaste et diversifié.
-  Das Tierreich ist sehr umfangreich und vielfältig.
+  Les *animaux* sauvages ne devraient pas être gardés comme animaux de compagnie.
+  Wilde *Tiere* sollten nicht als Haustiere gehalten werden.
 
-  L'homme est un animal sociable, il a besoin de vivre en communauté.
-  Der Mensch ist ein soziales Wesen, er braucht es, in einer Gemeinschaft zu leben.
+  La nouvelle loi sur la protection des *animaux* est très stricte.
+  Das neue *Tier*schutzgesetz ist sehr streng.
 
-  La baleine est un animal marin qui peut atteindre des tailles impressionnantes.
-  Der Wal ist ein Meerestier, das eine beeindruckende Größe erreichen kann.
+  L'être humain est un *animal* social par nature.
+  Der Mensch ist von Natur aus ein soziales *Wesen*.
 
-  Les animaux sauvages sont souvent victimes de la destruction de leur habitat.
-  Wilde Tiere sind oft Opfer der Zerstörung ihres Lebensraums.
+  Elle étudie le comportement *animal* depuis vingt ans.
+  Sie erforscht seit zwanzig Jahren *tierisches* Verhalten.
 
-  La loi sur la protection des animaux vise à garantir le bien-être des animaux.
-  Das Tierschutzgesetz soll das Wohlergehen von Tieren sicherstellen.
+  Le parc national protège plusieurs espèces *animales* menacées.
+  Der Nationalpark schützt mehrere bedrohte *Tier*arten.
 
-  Emma est une militante de la cause animale, elle se bat pour la protection des animaux.
-  Emma ist eine Tierschützerin, sie kämpft für den Schutz der Tiere.
+  Elle est devenue militante de la cause *animale* après avoir visité un refuge.
+  Sie wurde *Tier*schützerin, nachdem sie ein Tierheim besucht hatte.
+
+  Son instinct *animal* l'a averti du danger.
+  Sein *tierischer* Instinkt hat ihn vor der Gefahr gewarnt.
+
+  Les scientifiques étudient la chaleur *animale* des mammifères.
+  Die Wissenschaftler untersuchen die *tierische* Körperwärme von Säugetieren.
+
+  "Quel *animal*!" s'est-elle exclamée en voyant son comportement stupide.
+  "So ein *Rindvieh*!" rief sie, als sie sein dummes Verhalten sah.
+
+  Le lion est considéré comme le roi des *animaux*.
+  Der Löwe gilt als der König der *Tiere*.
+
+  Les *animaux* de compagnie apportent beaucoup de joie à leurs propriétaires.
+  *Haus**tiere* bringen ihren Besitzern viel Freude.
+
+  Les dauphins sont des *animaux* très intelligents.
+  Delfine sind sehr intelligente *Tiere*.
+
+  La ferme pédagogique présente différents *animaux* domestiques aux enfants.
+  Der Bauernhof zeigt den Kindern verschiedene *Haus**tiere*.
+
+  Les *animaux* à sang froid doivent réguler leur température différemment.
+  Kalt*blüter* müssen ihre Temperatur anders regulieren.
+
+  Le règne *animal* comprend une grande diversité d'espèces.
+  Das *Tier*reich umfasst eine große Artenvielfalt.
+
+  Les *animaux* herbivores ne mangent que des plantes.
+  Pflanzen fressende *Tiere* ernähren sich nur von Pflanzen.
+
+  Ces *animaux* de trait travaillent encore dans les champs.
+  Diese Zug*tiere* arbeiten noch immer auf den Feldern.
+
+  La beauté *animale* du tigre est impressionnante.
+  Die *tierische* Schönheit des Tigers ist beeindruckend.
+
+  Les *animaux* de cirque ont besoin d'un traitement spécial.
+  Zirkus*tiere* brauchen eine besondere Behandlung.
+
+  Les *animaux* de boucherie doivent être traités avec respect.
+  Schlacht*tiere* müssen mit Respekt behandelt werden.
+
+  La psychologie *animale* est un domaine fascinant.
+  *Tier*psychologie ist ein faszinierendes Gebiet.
+
+  Les *animaux* amphibies peuvent vivre sur terre et dans l'eau.
+  Amphibische *Tiere* können an Land und im Wasser leben.
+
+  Les *animaux* omnivores mangent de tout.
+  All*fresser* ernähren sich von allem.
+
+  La S.P.A. aide les *animaux* abandonnés.
+  Die *Tier*schutzorganisation hilft ausgesetzten Tieren.
+
+  Les *animaux* unicellulaires sont invisibles à l'œil nu.
+  Einzellige *Tiere* sind mit bloßem Auge unsichtbar.
+
+  Les *animaux* carnivores sont au sommet de la chaîne alimentaire.
+  Fleisch fressende *Tiere* stehen an der Spitze der Nahrungskette.
+
+  La vie *animale* sur Terre est très diverse.
+  Das *tier*ische Leben auf der Erde ist sehr vielfältig.
+
+  Les *animaux* ovipares pondent des œufs.
+  Eierlegende *Tiere* legen Eier.
+
+  Les *animaux* aquatiques respirent sous l'eau.
+  Wasser*tiere* atmen unter Wasser.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
