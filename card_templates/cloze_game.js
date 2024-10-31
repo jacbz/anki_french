@@ -1,4 +1,9 @@
-function initClozeGame(sentence, gameContainer, italicSentence = false, showOverlay = true) {
+function initClozeGame(
+  sentence,
+  gameContainer,
+  italicSentence = false,
+  showOverlay = true
+) {
   gameContainer.classList.add("tappable");
 
   if (showOverlay) {
@@ -11,7 +16,7 @@ function initClozeGame(sentence, gameContainer, italicSentence = false, showOver
     gameContainer.appendChild(overlay);
   }
 
-  const wordRegex = /([\p{L}0-9-]+[’']?|\*.+?\*)/gu;
+  const wordRegex = /([\p{L}0-9-()/]+[’']?|\*.+?\*)/gu;
   let words = Array.from(sentence.matchAll(wordRegex), (match) => match[0]);
 
   const sentenceContainer = document.createElement("div");
@@ -36,19 +41,21 @@ function initClozeGame(sentence, gameContainer, italicSentence = false, showOver
       const span = document.createElement("span");
       span.classList.add("cloze");
       span.classList.add("spoiler");
-      span.dataset.word = part;      
       if (part.includes("*")) {
         span.classList.add("word-highlight");
         span.innerText = part.replaceAll("*", "");
+        span.dataset.word = "*";
       } else {
         span.innerText = part;
+        span.dataset.word = part;
       }
       sentenceContainer.appendChild(span);
 
       span.onclick = () => {
         checkWord(
-          wordButtonsContainer.querySelector(`.button[data-word="${part}"]:not(.disabled)`),
-          part,
+          wordButtonsContainer.querySelector(
+            `.button[data-word="${part}"]:not(.disabled)`
+          ),
           true
         );
         span.onclick = null;
@@ -73,26 +80,28 @@ function initClozeGame(sentence, gameContainer, italicSentence = false, showOver
       .localeCompare(b.replace("*", ""), "de", { sensitivity: "base" })
   );
 
-  const starButtons = [];
+  let hasStarButton = false;
   sortedWords.forEach((word) => {
     const wordButton = document.createElement("div");
     if (word.includes("*")) {
-      wordButton.innerText = "★";
-      if (starButtons.length > 0) {
-        wordButton.style.display = "none";
+      if (hasStarButton) {
+        return;
       }
-      starButtons.push(wordButton);
+      hasStarButton = true;
+      wordButton.innerText = "★";
+      wordButton.dataset.word = "*";
     } else {
       wordButton.innerText = word;
+      wordButton.dataset.word = word;
     }
     wordButton.classList.add("button");
     wordButton.classList.add("word-button");
-    wordButton.dataset.word = word;
-    wordButton.onclick = () => checkWord(wordButton, word);
+    wordButton.onclick = () => checkWord(wordButton);
     wordButtonsContainer.appendChild(wordButton);
   });
 
-  function checkWord(button, word, force = false) {
+  function checkWord(button, force = false) {
+    const word = button.dataset.word;
     const clozeSpans = document.querySelectorAll(".cloze.spoiler");
     const clozeSpanIndex = Array.from(clozeSpans).findIndex(
       (span) => span.dataset.word === word
@@ -110,16 +119,16 @@ function initClozeGame(sentence, gameContainer, italicSentence = false, showOver
 
       clearErrorOutlines();
 
-      if (clozeSpanIndex === 0 && clozeSpans.length === 1) {
-        finish();
+      if (word === "*") {
+        document
+          .querySelectorAll(".cloze.spoiler[data-word='*']")
+          .forEach((cloze) => {
+            cloze.classList.remove("spoiler");
+          });
       }
 
-      if (button.innerText === "★") {
-        starButtons.forEach((starButton) => {
-          if (starButton !== button) {
-            checkWord(starButton, starButton.dataset.word, true);
-          }
-        });
+      if (document.querySelectorAll(".cloze.spoiler").length === 0) {
+        finish();
       }
     } else {
       button.classList.add("error");

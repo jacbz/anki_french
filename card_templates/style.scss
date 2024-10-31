@@ -362,7 +362,7 @@ span.no-break {
 
   &:not(.clicked) {
     color: transparent;
-    background: #eee;
+    background: #e3e3e3;
     > * {
       opacity: 0;
       transition: all 0.2s;
@@ -436,7 +436,7 @@ hr {
   -----------------------------------------------
 **/
 #cloze-game {
-  background: #ddd;
+  background: #f5f5f5;
   padding: 1em;
   border-radius: 0.5em;
   transition: background-color 0.2s, color 0.2s, padding 0.2s;
@@ -444,7 +444,7 @@ hr {
   position: relative;
 
   &.finished {
-    background: rgba($tip-color, 0.15) !important;
+    background: rgba($tip-color, 0.5) !important;
 
     hr, #word-buttons {
       display: none;
