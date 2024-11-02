@@ -120,14 +120,14 @@ function refreshExampleSentences() {
 
     gameContainer.innerHTML = "";
     gameContainer.className = "";
-    initClozeGame(
-      frenchFirst
+    initClozeGame({
+      sentence: frenchFirst
         ? processText(de, false, false)
         : processText(fr, true, false),
       gameContainer,
-      frenchFirst,
-      false
-    );
+      isGerman: frenchFirst,
+      showOverlay: false
+    });
   } else {
     sentencesInner.innerHTML = frenchFirst
       ? `<div class="fr">${fr}</div><span class="de spoiler">${de}</span>`
@@ -195,16 +195,16 @@ async function initAudioButtons(within = document) {
       const text = this.dataset.text;
       const customFileName = this.dataset.fileName;
 
-      playAudio(text, customFileName);
+      playAudio({text, customFileName});
     };
   });
 
   if (within == document && options.autoPlaySentence) {
     setTimeout(() => {
       if (options.autoPlaySentenceInGerman) {
-        playAudio(sentencesPairs[0].split("\n")[1], undefined, "de-DE");
+        playAudio({text: sentencesPairs[0].split("\n")[1], lang: "de-DE"});
       } else {
-        playAudio(sentencesPairs[0].split("\n")[0]);
+        playAudio({text: sentencesPairs[0].split("\n")[0]});
       }
     }, options.autoPlaySentenceDelay ?? 1000);
   }

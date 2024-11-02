@@ -1,9 +1,10 @@
-function initClozeGame(
+function initClozeGame({
   sentence,
+  sentenceToRead = sentence,
   gameContainer,
-  italicSentence = false,
+  isGerman = false,
   showOverlay = true
-) {
+}) {
   gameContainer.classList.add("tappable");
 
   if (showOverlay) {
@@ -21,7 +22,7 @@ function initClozeGame(
 
   const sentenceContainer = document.createElement("div");
   sentenceContainer.id = "sentence-cloze";
-  if (italicSentence) {
+  if (isGerman) {
     sentenceContainer.style.fontStyle = "italic";
   }
   gameContainer.appendChild(sentenceContainer);
@@ -44,11 +45,11 @@ function initClozeGame(
       if (part.includes("*")) {
         span.classList.add("word-highlight");
         span.innerText = part.replaceAll("*", "");
-        span.dataset.word = "*";
+        part = "*";
       } else {
         span.innerText = part;
-        span.dataset.word = part;
       }
+      span.dataset.word = part;
       sentenceContainer.appendChild(span);
 
       span.onclick = () => {
@@ -100,6 +101,9 @@ function initClozeGame(
     wordButtonsContainer.appendChild(wordButton);
   });
 
+  let preloadAudio = true;
+  let preloadCountdown = 2; // preload audio after 2 words
+
   function checkWord(button, force = false) {
     const word = button.dataset.word;
     const clozeSpans = document.querySelectorAll(".cloze.spoiler");
@@ -116,6 +120,12 @@ function initClozeGame(
       clozeSpan.classList.remove("spoiler");
       button.classList.add("disabled");
       button.disabled = true;
+      preloadCountdown--;
+
+      if (options.autoPlaySentenceOnClozeFinish && preloadAudio && preloadCountdown <= 0) {
+        preloadAudio = false;
+        fetchAudio({ text: sentenceToRead });
+      }
 
       clearErrorOutlines();
 
@@ -144,5 +154,8 @@ function initClozeGame(
   function finish() {
     gameContainer.classList.add("finished");
     gameContainer.classList.remove("tappable");
+    if (options.autoPlaySentenceOnClozeFinish) {
+      playAudio({text: sentenceToRead});
+    }
   }
 }

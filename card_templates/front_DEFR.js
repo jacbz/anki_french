@@ -20,14 +20,14 @@ function render() {
   
   (async () => {
     if (options.autoPlaySentence) {
-      playAudio(de, undefined, "de-DE");
+      playAudio({text: de, lang: "de-DE"});
     }
   })();
   
   const gameContainer = document.getElementById("cloze-game");
   gameContainer.innerHTML = "";
   gameContainer.className = "";
-  initClozeGame(fr, gameContainer);
+  initClozeGame({sentence: fr, gameContainer});
 }
 
 render();

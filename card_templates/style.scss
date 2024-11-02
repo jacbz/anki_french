@@ -484,6 +484,7 @@ hr {
 
   .cloze {
     display: inline-block;
+    transition: background-color 0.2s, color 0.2s;
   }
 
   .spoiler {
@@ -506,6 +507,7 @@ hr {
 
   .word-button {
     height: 1.6em;
+    line-height: 1.6em;
     min-width: 1.5em;
     padding: 0 0.4em;
   }
@@ -558,6 +560,7 @@ hr {
   border-width: 3px;
   padding: 12px;
   font-size: 50%;
+  margin-top: 1em;
 
   #cloze-game {
     background: transparent !important;

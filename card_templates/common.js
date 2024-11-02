@@ -93,13 +93,18 @@ function shuffleArray(arr, persist = true) {
   return arr;
 }
 
-async function playAudio(text, customFileName = undefined, lang = "fr-FR") {
+async function fetchAudio({text, customFileName = undefined, lang = "fr-FR"}) {
   const url = customFileName
     ? getAnkiPrefix() + "/" + customFileName
     : await getTTSUrl(text, false, lang);
 
   const audioCurrent = document.querySelector("audio");
   audioCurrent.src = url;
+}
+
+async function playAudio({text, customFileName = undefined, lang = "fr-FR"}) {
+  await fetchAudio({text, customFileName, lang});
+  const audioCurrent = document.querySelector("audio");
 
   try {
     await audioCurrent.play();
@@ -111,8 +116,8 @@ async function playAudio(text, customFileName = undefined, lang = "fr-FR") {
 
 const memoizedTTSUrls = {};
 
-async function getTTSUrl(text, forceGoogleTranslate = false, lang = "fr-FR") {
-  text = text.replaceAll("*", "");
+async function getTTSUrl(textToRead, forceGoogleTranslate = false, lang = "fr-FR") {
+  const text = textToRead.replaceAll("*", "");
   
   // if no API key is set, fallback to use the free Google Translate TTS
   if (!options.googleTTSApiKey || forceGoogleTranslate) {
