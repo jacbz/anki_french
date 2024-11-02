@@ -13,29 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous serions encore à voter ce soir.
-  Wir würden heute Abend noch abstimmen.
+  Nous serions encore à *voter* ce soir.
+  Wir würden heute Abend noch *abstimmen*.
 
-  Je vais voter pour le candidat de gauche.
-  Ich werde für den linken Kandidaten stimmen.
+  Le Parlement a *voté* la nouvelle loi sur l'immigration.
+  Das Parlament hat das neue Einwanderungsgesetz *verabschiedet*.
 
-  C’est votre devoir de voter.
-  Es ist Ihre Pflicht, wählen zu gehen.
+  Dans cette ville, on *vote* traditionnellement à gauche.
+  In dieser Stadt *wählt* man traditionell links.
 
-  Les étudiants ont voté contre la proposition de la direction.
-  Die Studenten haben gegen den Vorschlag der Leitung gestimmt.
+  Les députés ont *voté* les crédits pour la recherche scientifique.
+  Die Abgeordneten haben die Mittel für die wissenschaftliche Forschung *bewilligt*.
 
-  Il a voté pour le candidat qui lui promettait des changements.
-  Er hat für den Kandidaten gestimmt, der ihm Veränderungen versprochen hatte.
+  Je *voterai* pour Marie aux élections du conseil de classe.
+  Ich werde bei der Klassensprecherwahl für Marie *stimmen*.
 
-  Le conseil municipal a voté sur le nouveau plan d'aménagement urbain.
-  Der Gemeinderat hat über den neuen Stadtentwicklungsplan abgestimmt.
+  L'assemblée a décidé de *voter* à main levée.
+  Die Versammlung hat beschlossen, per Hand*abstimmung* zu entscheiden.
 
-  Le président a demandé un vote à main levée.
-  Der Präsident hat eine Abstimmung durch Handzeichen gefordert.
+  Elle a choisi de *voter* blanc aux dernières élections.
+  Sie hat sich entschieden, bei den letzten Wahlen einen leeren Stimmzettel *abzugeben*.
 
-  Quelques personnes ont voté blanc, car elles n'étaient pas satisfaites des candidats.
-  Einige Personen haben einen leeren Stimmzettel abgegeben, weil sie mit den Kandidaten nicht zufrieden waren.
+  Les citoyens peuvent *voter* par correspondance cette année.
+  Die Bürger können dieses Jahr per Brief *wählen*.
+
+  Le conseil municipal va *voter* sur le nouveau projet de bibliothèque.
+  Der Gemeinderat wird über das neue Bibliotheksprojekt *abstimmen*.
+
+  Beaucoup de jeunes ont décidé de *voter* vert cette fois-ci.
+  Viele junge Leute haben sich entschieden, diesmal *grün* zu *wählen*.
+
+  Les Français de l'étranger peuvent *voter* dans leur ambassade.
+  Franzosen im Ausland können in ihrer Botschaft *wählen*.
+
+  Le comité a *voté* contre la proposition du directeur.
+  Das Komitee hat gegen den Vorschlag des Direktors *gestimmt*.
+
+  La machine à *voter* est tombée en panne pendant l'élection.
+  Die *Wahl*maschine ist während der Wahl ausgefallen.
+
+  Les étudiants vont *voter* pour élire leurs représentants.
+  Die Studenten werden ihre Vertreter *wählen*.
+
+  Le Sénat doit encore *voter* le budget de l'année prochaine.
+  Der Senat muss den Haushalt für das nächste Jahr noch *verabschieden*.
+
+  Tout le monde peut *voter* à partir de 18 ans.
+  Jeder darf ab 18 Jahren *wählen*.
+
+  Les électeurs ont massivement *voté* contre ce référendum.
+  Die Wähler haben bei diesem Referendum mehrheitlich dagegen *gestimmt*.
+
+  Mon grand-père n'a jamais manqué de *voter* depuis cinquante ans.
+  Mein Großvater hat seit fünfzig Jahren keine *Wahl* versäumt.
+
+  Le syndicat a appelé ses membres à *voter* pour la grève.
+  Die Gewerkschaft hat ihre Mitglieder aufgerufen, für den Streik zu *stimmen*.
+
+  Les députés vont *voter* sur l'amendement demain matin.
+  Die Abgeordneten werden morgen früh über den Änderungsantrag *abstimmen*.
+
+  Le conseil d'administration doit *voter* le nouveau règlement.
+  Der Vorstand muss die neue Satzung *verabschieden*.
+
+  Plusieurs personnes ont *voté* nul par protestation.
+  Mehrere Personen haben aus Protest ungültige Stimmzettel *abgegeben*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

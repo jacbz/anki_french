@@ -13,17 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous allons visiter la maison.
-  Wir werden das Haus besichtigen.
+  Nous allons *visiter* la maison.
+  Wir werden das Haus *besichtigen*.
 
-  Je vais rendre visite à ma grand-mère demain.
-  Ich werde morgen meine Großmutter besuchen.
+  Les touristes *visitent* les pyramides d'Égypte avec un guide.
+  Die Touristen *besichtigen* die Pyramiden von Ägypten mit einem Führer.
 
-  La guide a fait visiter le musée à un groupe d'écoliers.
-  Die Führerin hat eine Schulklasse durch das Museum geführt.
+  Je *visite* régulièrement mes grands-parents à la maison de retraite.
+  Ich *besuche* regelmäßtig meine Großeltern im Altersheim.
 
-  Il y a une interdiction de visiter la zone militaire.
-  Es besteht ein Besichtigungsverbot für das militärische Gebiet.
+  Notre classe a *visité* le musée d'art moderne hier.
+  Unsere Klasse hat gestern das Museum für moderne Kunst *besichtigt*.
+
+  "Des cambrioleurs ont *visité* l'appartement pendant nos vacances."
+  "Einbrecher haben während unseres Urlaubs die Wohnung *durchsucht*."
+
+  Le médecin *visite* ses patients tous les matins à l'hôpital.
+  Der Arzt macht jeden Morgen bei seinen Patienten im Krankenhaus *Besuche*.
+
+  As-tu déjà *visité* le nouveau site web de l'entreprise ?
+  Hast du dir die neue Webseite der Firma schon *angesehen*?
+
+  Le château se *visite* uniquement en été.
+  Das Schloss ist nur im Sommer zu *besichtigen*.
+
+  Les douaniers ont *visité* minutieusement tous les bagages.
+  Die Zöllner haben das gesamte Gepäck gründlich *durchsucht*.
+
+  Paul *visite* trois appartements par jour dans sa recherche de logement.
+  Paul *besichtigt* bei seiner Wohnungssuche drei Wohnungen pro Tag.
+
+  Le prêtre *visite* les malades chaque dimanche.
+  Der Priester *besucht* jeden Sonntag die Kranken.
+
+  Nous avons *visité* Londres pendant une semaine.
+  Wir haben London eine Woche lang *besichtigt*.
+
+  Le guide nous fait *visiter* les jardins du château.
+  Der Führer *führt* uns durch die Schlossgärten.
+
+  Marie *visitera* sa sœur à l'hôpital demain.
+  Marie wird ihre Schwester morgen im Krankenhaus *besuchen*.
+
+  Les bénévoles *visitent* régulièrement les prisonniers.
+  Die Ehrenamtlichen *besuchen* regelmäßig die Gefangenen.
+
+  Elle a *visité* tous les stands du marché de Noël.
+  Sie hat alle Stände auf dem Weihnachtsmarkt *besucht*.
+
+  Le technicien doit *visiter* les installations électriques.
+  Der Techniker muss die elektrischen Anlagen *überprüfen*.
+
+  Les agents immobiliers font *visiter* dix maisons par jour.
+  Die Immobilienmakler *führen* täglich durch zehn Häuser.
+
+  J'ai *visité* trois pays différents pendant mes vacances.
+  Ich habe während meines Urlaubs drei verschiedene Länder *bereist*.
+
+  Le conservateur *visite* chaque salle du musée tous les soirs.
+  Der Kurator *kontrolliert* jeden Abend jeden Raum des Museums.
+
+  Nous avons *visité* la cathédrale pendant les heures d'ouverture.
+  Wir haben die Kathedrale während der Öffnungszeiten *besichtigt*.
+
+  Les étudiants vont *visiter* une usine la semaine prochaine.
+  Die Studenten werden nächste Woche eine Fabrik *besichtigen*.
+
+  L'inspecteur *visite* toutes les écoles de la région.
+  Der Inspektor *besucht* alle Schulen der Region.
+
+  Le représentant *visite* ses clients deux fois par mois.
+  Der Vertreter *besucht* seine Kunden zweimal im Monat.
+
+  On peut *visiter* ce monument gratuitement le premier dimanche du mois.
+  Man kann dieses Denkmal am ersten Sonntag des Monats kostenlos *besichtigen*.
+
+  L'évêque *visite* les paroisses de son diocèse.
+  Der Bischof *besucht* die Gemeinden seiner Diözese.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

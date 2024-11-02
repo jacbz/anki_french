@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est un génie particulier aux italiens.
-  Das ist ein besonderes Genie der Italiener.
+  C'est un génie particulier aux *Italiens*.
+  Das ist eine besondere Begabung der *Italiener*.
 
-  Je parle italien couramment.
-  Ich spreche fließend Italienisch.
+  Elle fait ses études d'*italien* à l'université de Milan.
+  Sie studiert *Italienisch* an der Universität von Mailand.
 
-  Son italien est excellent, il a de solides connaissances en italien.
-  Sein Italienisch ist exzellent, er hat solide Italienischkenntnisse.
+  J'ai assisté à une répétition à l'*italienne* hier soir au théâtre.
+  Ich habe gestern Abend im Theater einer *italienischen* Leseprobe beigewohnt.
 
-  Il a acquis des connaissances en italien pendant ses études.
-  Er hat während seines Studiums Italienischkenntnisse erworben.
+  La cuisine *italienne* est connue pour ses pâtes fraîches.
+  Die *italienische* Küche ist bekannt für ihre frischen Nudeln.
+
+  Les *Italiens* ont inventé le cappuccino au XVIIe siècle.
+  Die *Italiener* haben den Cappuccino im 17. Jahrhundert erfunden.
+
+  Mes connaissances en *italien* sont encore limitées.
+  Meine *Italienisch*kenntnisse sind noch begrenzt.
+
+  L'*italien* moderne est largement influencé par le dialecte toscan.
+  Das moderne *Italienisch* ist stark vom toskanischen Dialekt beeinflusst.
+
+  La Renaissance *italienne* a profondément marqué l'art européen.
+  Die *italienische* Renaissance hat die europäische Kunst stark geprägt.
+
+  Le théâtre à l'*italienne* permet une meilleure visibilité pour tous les spectateurs.
+  Das *italienische* Theater ermöglicht allen Zuschauern eine bessere Sicht.
+
+  Mon grand-père est un *Italien* qui vit en France depuis quarante ans.
+  Mein Großvater ist ein *Italiener*, der seit vierzig Jahren in Frankreich lebt.
+
+  L'opéra *italien* est célèbre dans le monde entier.
+  Die *italienische* Oper ist weltberühmt.
+
+  La péninsule *italienne* a la forme d'une botte.
+  Die *italienische* Halbinsel hat die Form eines Stiefels.
+
+  Cette salle à l'*italienne* date du XVIIIe siècle.
+  Dieser *italienische* Theatersaal stammt aus dem 18. Jahrhundert.
+
+  Le boulevard des *Italiens* est l'une des artères les plus animées de Paris.
+  Der Boulevard des *Italiens* ist eine der belebtesten Straßen von Paris.
+
+  L'*italien* est une langue très musicale.
+  *Italienisch* ist eine sehr musikalische Sprache.
+
+  La musique *italienne* baroque est réputée pour sa virtuosité.
+  Die *italienische* Barockmusik ist für ihre Virtuosität bekannt.
+
+  Cette chambre à l'*italienne* offre une vue magnifique sur le jardin.
+  Dieses Zimmer im *italienischen* Stil bietet einen herrlichen Blick auf den Garten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

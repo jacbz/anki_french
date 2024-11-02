@@ -13,44 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce que l’on désire, c’est éviter une surpollution.
-  Was wir uns wünschen, ist die Vermeidung einer übermäßigen Verschmutzung.
+  Ce que l'on *désire*, c'est éviter une surpollution.
+  Was wir uns *wünschen*, ist eine Umweltverschmutzung zu vermeiden.
 
-  Je désire un café.
-  Ich wünsche mir einen Kaffee.
+  Je *désire* une tasse de café bien chaud.
+  Ich *möchte* eine Tasse heißen Kaffee.
 
-  Je désire une chaise.
-  Ich wünsche mir einen Stuhl.
+  "Monsieur *désire* ?"
+  "Was *wünschen* Sie?"
 
-  Je désire voir mon père.
-  Ich möchte meinen Vater sehen.
+  L'exposé du nouveau stagiaire *laisse à désirer*.
+  Der Vortrag des neuen Praktikanten lässt zu *wünschen* übrig.
 
-  Je désire aller en Angleterre.
-  Ich möchte nach England reisen.
+  Il *désire* voyager à travers le monde après ses études.
+  Er *wünscht* sich, nach dem Studium durch die Welt zu reisen.
 
-  Vous pouvez rester ici aussi longtemps que vous le désirez.
-  Sie können hier so lange bleiben, wie Sie möchten.
+  Je *désire* sincèrement que tu réussisses ton examen.
+  Ich *wünsche* aufrichtig, dass du deine Prüfung bestehst.
 
-  Je désire un café, s'il vous plaît.
-  Ich möchte einen Kaffee, bitte.
+  Nous *désirons* vous informer de notre décision.
+  Wir *möchten* Sie über unsere Entscheidung informieren.
 
-  Le café se fait désirer, mais il arrive bientôt.
-  Der Kaffee lässt auf sich warten, aber er kommt bald.
+  Son comportement *laisse beaucoup à désirer*.
+  Sein Verhalten lässt sehr zu *wünschen* übrig.
 
-  Le service laisse à désirer, mais la nourriture est excellente.
-  Der Service lässt zu wünschen übrig, aber das Essen ist ausgezeichnet.
+  Emma *désire* ardemment devenir médecin.
+  Emma *begehrt* es sehr, Ärztin zu werden.
 
-  Elle désire faire un voyage en Italie.
-  Sie wünscht sich eine Reise nach Italien.
+  "Il se fait *désirer* aujourd'hui !"
+  "Er lässt sich heute aber *ersehnen*!"
 
-  Il désire vous parler au sujet du projet.
-  Er wünscht Sie zum Thema des Projekts zu sprechen.
+  Que *désirez*-vous manger ce soir ?
+  Was *möchten* Sie heute Abend essen?
 
-  Il désire que vous soyez là à temps.
-  Er wünscht, dass Sie pünktlich da sind.
+  Les enfants *désirent* un chiot depuis longtemps.
+  Die Kinder *wünschen* sich schon lange einen Welpen.
 
-  Les billets pour le concert sont très désirés.
-  Die Tickets für das Konzert sind sehr begehrt.
+  Je *désire* m'entretenir avec vous de ce projet.
+  Ich *möchte* mit Ihnen über dieses Projekt sprechen.
+
+  Son travail ne *laisse rien à désirer*.
+  Seine Arbeit lässt nichts zu *wünschen* übrig.
+
+  Nous *désirons* que vous participiez à la réunion.
+  Wir *wünschen*, dass Sie an der Besprechung teilnehmen.
+
+  Il *désire* plus que tout retrouver la santé.
+  Er *sehnt* sich mehr als alles andere nach Gesundheit.
+
+  *Désirez*-vous encore du dessert ?
+  *Möchten* Sie noch Nachtisch?
+
+  Elle ne *désire* qu'une chose : la paix.
+  Sie *begehrt* nur eines: Frieden.
+
+  Nous *désirons* vous remercier pour votre aide.
+  Wir *möchten* uns bei Ihnen für Ihre Hilfe bedanken.
+
+  Sa présentation *laisse encore à désirer*.
+  Seine Präsentation lässt noch zu *wünschen* übrig.
+
+  Je *désire* vivement réussir dans la vie.
+  Ich *möchte* unbedingt im Leben erfolgreich sein.
+
+  Il *désire* que nous finissions le projet avant vendredi.
+  Er *wünscht*, dass wir das Projekt vor Freitag beenden.
+
+  Marie *désire* apprendre le japonais depuis des années.
+  Marie *wünscht* sich seit Jahren, Japanisch zu lernen.
+
+  La qualité de ce produit *laisse à désirer*.
+  Die Qualität dieses Produkts lässt zu *wünschen* übrig.
+
+  *Désirez*-vous prendre rendez-vous ?
+  *Möchten* Sie einen Termin vereinbaren?
+
+  Nous *désirons* acheter une maison l'année prochaine.
+  Wir *möchten* nächstes Jahr ein Haus kaufen.
+
+  Il *désire* avant tout le bonheur de ses enfants.
+  Er *wünscht* sich vor allem das Glück seiner Kinder.
+
+  Paul *désire* changer de carrière.
+  Paul *möchte* seinen Beruf wechseln.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il analyse aussi les échecs de la politique.
-  Er analysiert auch die Misserfolge der Politik.
+  Il *analyse* aussi les échecs de la politique.
+  Er *analysiert* auch die politischen Misserfolge.
 
-  Il faut analyser les données.
-  Die Daten müssen analysiert werden.
+  Les scientifiques *analysent* des échantillons d'eau pour détecter la pollution.
+  Die Wissenschaftler *untersuchen* Wasserproben auf Verschmutzung.
 
-  Le médecin a conseillé à Paul de se faire analyser pour détecter d'éventuelles allergies.
-  Der Arzt hat Paul geraten, eine Analyse zu machen, um eventuelle Allergien zu finden.
+  Le médecin a fait *analyser* mon sang hier.
+  Der Arzt hat gestern mein Blut *analysieren* lassen.
 
-  Le professeur a demandé à ses étudiants de se faire analyser sur les points forts et les points faibles de leur projet.
-  Der Professor hat seine Studenten gebeten, eine Analyse ihrer Projektstärken und -schwächen zu machen.
+  Les étudiants doivent *analyser* ce poème pour demain.
+  Die Studenten müssen dieses Gedicht bis morgen *analysieren*.
+
+  Le psychologue m'aide à *analyser* mes émotions.
+  Der Psychologe hilft mir, meine Gefühle zu *analysieren*.
+
+  Marie s'est fait *analyser* pendant deux ans.
+  Marie hat sich zwei Jahre lang *analysieren* lassen.
+
+  L'ordinateur *analyse* rapidement les données collectées.
+  Der Computer *wertet* die gesammelten Daten schnell *aus*.
+
+  Le professeur nous apprend à *analyser* les phrases en grammaire.
+  Der Lehrer bringt uns bei, Sätze grammatikalisch zu *bestimmen*.
+
+  Il passe des heures à s'*analyser* au lieu d'agir.
+  Er verbringt Stunden damit, sich selbst zu *analysieren*, anstatt zu handeln.
+
+  Les experts ont *analysé* les causes de l'accident.
+  Die Experten haben die Unfallursachen *analysiert*.
+
+  Nous devons *analyser* cette situation sous tous les angles.
+  Wir müssen diese Situation von allen Seiten *analysieren*.
+
+  Le laboratoire va *analyser* ces échantillons de tissus.
+  Das Labor wird diese Gewebeproben *untersuchen*.
+
+  Les sociologues *analysent* les changements dans la société.
+  Die Soziologen *analysieren* die Veränderungen in der Gesellschaft.
+
+  Il faut *analyser* ce problème en profondeur.
+  Wir müssen dieses Problem gründlich *analysieren*.
+
+  L'équipe *analyse* les résultats de l'enquête.
+  Das Team *wertet* die Umfrageergebnisse *aus*.
+
+  Les chercheurs *analysent* l'impact du changement climatique.
+  Die Forscher *analysieren* die Auswirkungen des Klimawandels.
+
+  Cette musique ne s'*analyse* pas, elle se ressent.
+  Diese Musik lässt sich nicht *analysieren*, man muss sie fühlen.
+
+  Le chimiste *analyse* la composition du nouveau matériau.
+  Der Chemiker *analysiert* die Zusammensetzung des neuen Materials.
+
+  Les élèves apprennent à *analyser* des textes littéraires.
+  Die Schüler lernen, literarische Texte zu *analysieren*.
+
+  Il faut *analyser* les statistiques avec précaution.
+  Man muss die Statistiken vorsichtig *auswerten*.
+
+  L'ordinateur *analyse* les données en temps réel.
+  Der Computer *wertet* die Daten in Echtzeit *aus*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

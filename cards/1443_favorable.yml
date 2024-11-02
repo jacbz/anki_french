@@ -13,41 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’évolution a été particulièrement favorable.
-  Die Entwicklung war besonders günstig.
+  L'évolution a été particulièrement *favorable*.
+  Die Entwicklung war besonders *günstig*.
 
-  Les conditions sont favorables.
-  Die Bedingungen sind günstig.
+  Le moment est *favorable* pour parler de notre projet.
+  Der Zeitpunkt ist *günstig*, um über unser Projekt zu sprechen.
 
-  L'entreprise jouit d'un préjugé favorable auprès des investisseurs.
-  Die Firma genießt bei den Investoren Vorteile.
+  Ces circonstances sont *favorables* à la négociation.
+  Diese Umstände sind für die Verhandlung *günstig*.
 
-  Le comité a donné un avis favorable à la proposition.
-  Der Ausschuss hat sich positiv zu dem Vorschlag geäußert.
+  Le directeur s'est montré *favorable* à ma demande.
+  Der Direktor zeigte sich meinem Antrag gegenüber *wohlgesinnt*.
 
-  Je suis favorable à Marie, elle est une amie très précieuse.
-  Ich bin Marie wohlgesonnen, sie ist eine sehr wertvolle Freundin.
+  Son chef lui est très *favorable*.
+  Sein Chef ist ihm sehr *wohlgesinnt*.
 
-  Le climat économique est favorable à l'investissement.
-  Das Wirtschaftsklima ist investitionsfreudig.
+  La météo sera *favorable* pour notre randonnée demain.
+  Das Wetter wird für unsere Wanderung morgen *günstig* sein.
 
-  La nouvelle loi est favorable au salarié.
-  Das neue Gesetz ist arbeitnehmerfreundlich.
+  Le jury a rendu un avis *favorable*.
+  Die Jury hat sich *positiv* geäußert.
 
-  Je suis favorable à la construction de nouvelles écoles.
-  Ich befürworte den Bau neuer Schulen.
+  Le terrain est particulièrement *favorable* pour construire une maison.
+  Das Gelände ist besonders *geeignet*, um ein Haus zu bauen.
 
-  Le gouvernement est favorable à ce que les citoyens participent davantage à la vie politique.
-  Die Regierung ist dafür, dass die Bürger sich stärker am politischen Leben beteiligen.
+  Les syndicats sont *favorables* à cette réforme.
+  Die Gewerkschaften *befürworten* diese Reform.
 
-  Il est favorable pour faire des randonnées en montagne en été.
-  Es ist günstig, im Sommer Wanderungen in den Bergen zu machen.
+  Le public lui est *favorable*.
+  Das Publikum *unterstützt* ihn.
 
-  Le gouvernement a mis en place une mesure favorable aux affaires, ce qui a stimulé l'économie.
-  Die Regierung hat eine geschäftsfördernde Maßnahme ergriffen, was die Wirtschaft angekurbelt hat.
+  Je suis *favorable* à ce que tu partes en vacances maintenant.
+  Ich bin *dafür*, dass du jetzt in den Urlaub fährst.
 
-  La nouvelle réglementation fiscale agit de façon favorable aux affaires.
-  Die neue Steuerregelung wirkt sich geschäftsfördernd aus.
+  Cette mesure est *favorable* aux petites entreprises.
+  Diese Maßnahme ist für kleine Unternehmen *günstig*.
+
+  Le sol est *favorable* à la culture des tomates.
+  Der Boden ist für den Tomatenanbau *geeignet*.
+
+  Elle a reçu une réponse *favorable* à sa candidature.
+  Sie hat eine *positive* Antwort auf ihre Bewerbung erhalten.
+
+  La presse lui est *favorable*.
+  Die Presse ist ihm *wohlgesinnt*.
+
+  Le vent nous était *favorable* pendant toute la traversée.
+  Der Wind war uns während der ganzen Überfahrt *günstig*.
+
+  Cette région offre un climat *favorable* aux vignes.
+  Diese Region bietet ein für Weinreben *günstiges* Klima.
+
+  Il a prêté une oreille *favorable* à mes suggestions.
+  Er hat meine Vorschläge *wohlwollend* aufgenommen.
+
+  Les conditions sont *favorables* pour commencer les travaux.
+  Die Bedingungen sind *günstig*, um mit der Arbeit zu beginnen.
+
+  Dans l'hypothèse la plus *favorable*, nous finirons dans une semaine.
+  Im *günstigsten* Fall werden wir in einer Woche fertig sein.
+
+  Son patron a une opinion très *favorable* de lui.
+  Sein Chef hat eine sehr *positive* Meinung von ihm.
+
+  Nous attendons le moment *favorable* pour lancer le produit.
+  Wir warten auf den *günstigen* Moment, um das Produkt einzuführen.
+
+  Cette nouvelle loi est *favorable* aux consommateurs.
+  Dieses neue Gesetz ist *vorteilhaft* für die Verbraucher.
+
+  La situation économique est *favorable* aux investissements.
+  Die wirtschaftliche Situation ist für Investitionen *günstig*.
+
+  Elle m'a parlé de vous en termes très *favorables*.
+  Sie hat in sehr *positiven* Worten von Ihnen gesprochen.
+
+  Les prévisions sont *favorables* pour le secteur touristique.
+  Die Prognosen sind für den Tourismussektor *erfreulich*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

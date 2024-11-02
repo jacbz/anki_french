@@ -13,35 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il est incapable de rentrer dans des détails concrets.
-  Er ist nicht in der Lage, auf konkrete Details einzugehen.
+  Il est *incapable* de rentrer dans des détails concrets.
+  Er ist *unfähig*, auf konkrete Details einzugehen.
 
-  Il est incapable de résoudre ce problème.
-  Er ist unfähig, dieses Problem zu lösen.
+  Elle est *incapable* de rester concentrée plus de cinq minutes.
+  Sie ist *unfähig*, länger als fünf Minuten konzentriert zu bleiben.
 
-  C'est un homme tout à fait incapable de se gérer lui-même.
-  Er ist völlig unfähig, sich selbst zu verwalten.
+  Cette vieille voiture est *incapable* de démarrer par temps froid.
+  Dieses alte Auto ist bei kaltem Wetter nicht *fähig* zu starten.
 
-  Le jeune homme, à cause de son âge, est incapable juridiquement.
-  Der junge Mann ist aufgrund seines Alters rechtsunfähig.
+  Mon petit frère est *incapable* de dormir sans sa peluche préférée.
+  Mein kleiner Bruder ist *unfähig*, ohne sein Lieblingskuscheltier zu schlafen.
 
-  Il est incapable de se souvenir de ce qu'il a fait hier.
-  Er ist nicht fähig, sich daran zu erinnern, was er gestern getan hat.
+  Pierre s'est montré *incapable* de tenir sa promesse.
+  Pierre hat sich als *unfähig* erwiesen, sein Versprechen zu halten.
 
-  Elle est incapable de faire un gâteau sans brûler le four.
-  Sie ist nicht fähig, einen Kuchen zu backen, ohne den Ofen zu verbrennen.
+  Le nouveau stagiaire est totalement *incapable*.
+  Der neue Praktikant ist völlig *unfähig*.
 
-  Le tribunal a déclaré la femme incapable juridiquement après qu'elle a été victime d'un accident.
-  Das Gericht hat die Frau nach einem Unfall für rechtsunfähig erklärt.
+  Je suis *incapable* de comprendre son comportement.
+  Ich bin *außerstande*, sein Verhalten zu verstehen.
 
-  Il est incapable de contracter, car il est mineur.
-  Er ist vertragsunfähig, weil er minderjährig ist.
+  Cette imprimante est *incapable* de produire des documents en couleur.
+  Dieser Drucker ist nicht *imstande*, farbige Dokumente zu drucken.
 
-  Elle est devenue incapable de contracter à cause de sa maladie.
-  Sie ist aufgrund ihrer Krankheit geschäftsunfähig geworden.
+  Les experts l'ont déclaré *incapable* de gérer ses propres affaires.
+  Die Experten haben ihn für geschäfts*unfähig* erklärt.
 
-  Le malade est incapable d'ester en justice, car il est incapable de se défendre.
-  Der Kranke ist prozessunfähig, weil er sich nicht verteidigen kann.
+  Son anxiété la rend *incapable* de parler en public.
+  Ihre Angst macht sie *unfähig*, öffentlich zu sprechen.
+
+  Cet ordinateur est *incapable* de faire tourner les nouveaux jeux.
+  Dieser Computer ist nicht *fähig*, die neuen Spiele laufen zu lassen.
+
+  Marie est *incapable* de mentir à ses parents.
+  Marie ist *unfähig*, ihre Eltern anzulügen.
+
+  Le robot est *incapable* de reconnaître les visages humains.
+  Der Roboter ist nicht *fähig*, menschliche Gesichter zu erkennen.
+
+  Cette terre aride est *incapable* de nourrir les cultures.
+  Dieser trockene Boden ist *unfähig*, die Pflanzen zu ernähren.
+
+  L'équipe s'est révélée *incapable* d'atteindre ses objectifs.
+  Das Team hat sich als *unfähig* erwiesen, seine Ziele zu erreichen.
+
+  Après l'accident, il était *incapable* de marcher.
+  Nach dem Unfall war er *unfähig* zu gehen.
+
+  Son fils est *incapable* de rester assis tranquillement.
+  Ihr Sohn ist *unfähig*, ruhig sitzen zu bleiben.
+
+  Le patient est temporairement *incapable* de travailler.
+  Der Patient ist vorübergehend arbeits*unfähig*.
+
+  Je me sens *incapable* de prendre une décision maintenant.
+  Ich fühle mich *unfähig*, jetzt eine Entscheidung zu treffen.
+
+  Cette machine est *incapable* de fonctionner correctement.
+  Diese Maschine ist nicht *fähig*, richtig zu funktionieren.
+
+  Le chien est *incapable* de suivre des ordres simples.
+  Der Hund ist *unfähig*, einfache Befehle zu befolgen.
+
+  Les juges l'ont déclaré *incapable* d'exercer ses droits civiques.
+  Die Richter haben ihn für *unfähig* erklärt, seine Bürgerrechte auszuüben.
+
+  Mon collègue est *incapable* d'accepter les critiques.
+  Mein Kollege ist *unfähig*, Kritik anzunehmen.
+
+  Cette batterie est *incapable* de tenir plus de deux heures.
+  Diese Batterie ist nicht *fähig*, länger als zwei Stunden zu halten.
+
+  Le nouveau directeur s'est montré *incapable* de gérer la crise.
+  Der neue Direktor hat sich als *unfähig* erwiesen, die Krise zu bewältigen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

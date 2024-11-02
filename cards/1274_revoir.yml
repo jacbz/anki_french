@@ -13,17 +13,116 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je disparaîtrai. Tu ne me reverras jamais.
-  Ich werde verschwinden. Du wirst mich nie wieder sehen.
+  Je disparaîtrai. Tu ne me *reverras* jamais.
+  Ich werde verschwinden. Du wirst mich nie wieder*sehen*.
 
-  Je suis content de te revoir.
-  Ich freue mich, dich wiederzusehen.
+  On ne l'a jamais *revu* depuis ce jour-là.
+  Man hat ihn seit diesem Tag nie wieder*gesehen*.
 
-  Ce livre est une édition revue et corrigée de l'original.
-  Dies ist eine durchgesehene und verbesserte Auflage des Originals.
+  "*Au revoir*, mes chers amis !" a dit le professeur.
+  "*Auf Wiedersehen*, meine lieben Freunde!" sagte der Lehrer.
 
-  Le prix a été revu à la hausse.
-  Der Preis wurde nach oben korrigiert.
+  Ce n'est qu'un *au revoir*, nous nous retrouverons bientôt.
+  Dies ist nur ein *Wiedersehen*, wir werden uns bald wiedertreffen.
+
+  Il *reverra* son village natal après vingt ans d'absence.
+  Er wird sein Heimatdorf nach zwanzig Jahren Abwesenheit wieder*sehen*.
+
+  J'aimerais *revoir* ce film avec toi.
+  Ich würde mir diesen Film gerne noch einmal mit dir *ansehen*.
+
+  Elle se *revoit* encore petite fille dans le jardin.
+  Sie *sieht* sich noch als kleines Mädchen im Garten *vor sich*.
+
+  Il faut *revoir* ce texte avant de le publier.
+  Dieser Text muss vor der Veröffentlichung *überarbeitet* werden.
+
+  Les prix ont été *revus* à la hausse.
+  Die Preise wurden nach oben *korrigiert*.
+
+  Cette édition a été *revue* et corrigée par l'auteur.
+  Diese Ausgabe wurde vom Autor *überarbeitet* und korrigiert.
+
+  Nous nous sommes *revus* la semaine dernière.
+  Wir haben uns letzte Woche wieder*gesehen*.
+
+  Je dois *revoir* mes cours d'histoire pour l'examen.
+  Ich muss meinen Geschichtsstoff für die Prüfung *wiederholen*.
+
+  Marc et Julie se *reverront* demain au café.
+  Marc und Julie werden sich morgen im Café wieder*sehen*.
+
+  Elle *revoit* souvent ce souvenir dans ses rêves.
+  Sie *sieht* diese Erinnerung oft in ihren Träumen *vor sich*.
+
+  Ce projet est à *revoir* complètement.
+  Dieses Projekt muss komplett *überarbeitet* werden.
+
+  Je ne veux plus jamais *revoir* cet endroit.
+  Ich will diesen Ort nie wieder*sehen*.
+
+  Est-ce qu'on se *reverra* un jour ?
+  Werden wir uns eines Tages wieder*sehen*?
+
+  Il faut *revoir* votre stratégie marketing.
+  Sie müssen Ihre Marketingstrategie *überdenken*.
+
+  Je me *revois* encore dans ma première voiture.
+  Ich *sehe* mich noch in meinem ersten Auto *vor mir*.
+
+  Quand *reverras*-tu tes parents ?
+  Wann wirst du deine Eltern wieder*sehen*?
+
+  Les étudiants doivent *revoir* leurs notes avant l'examen.
+  Die Studenten müssen ihre Notizen vor der Prüfung *durchgehen*.
+
+  Je voudrais *revoir* mes amis d'enfance.
+  Ich würde meine Kindheitsfreunde gerne wieder*sehen*.
+
+  Cette décision doit être *revue* immédiatement.
+  Diese Entscheidung muss sofort *überdacht* werden.
+
+  Thomas *reverra* son frère à Noël.
+  Thomas wird seinen Bruder zu Weihnachten wieder*sehen*.
+
+  J'ai dû *revoir* mon opinion sur lui.
+  Ich musste meine Meinung über ihn *überdenken*.
+
+  Nous nous sommes *revus* par hasard au supermarché.
+  Wir haben uns zufällig im Supermarkt wieder*getroffen*.
+
+  Elle *revoit* régulièrement ses anciennes copies.
+  Sie *geht* ihre alten Arbeiten regelmäßig *durch*.
+
+  Je dois *revoir* ma présentation une dernière fois.
+  Ich muss meinen Vortrag ein letztes Mal *durchgehen*.
+
+  Les estimations ont été *revues* à la baisse.
+  Die Schätzungen wurden nach unten *korrigiert*.
+
+  Ils se sont *revus* après des années de séparation.
+  Sie haben sich nach Jahren der Trennung wieder*gesehen*.
+
+  Il faut *revoir* les bases avant d'avancer.
+  Man muss die Grundlagen *wiederholen*, bevor man weitermacht.
+
+  Je me *revois* encore à cette fête.
+  Ich *sehe* mich noch auf dieser Party *vor mir*.
+
+  La commission va *revoir* le dossier la semaine prochaine.
+  Die Kommission wird die Akte nächste Woche *überprüfen*.
+
+  Elle *revoit* toujours ses devoirs avant de les rendre.
+  Sie *sieht* ihre Hausaufgaben immer *durch*, bevor sie sie abgibt.
+
+  Nous nous *reverrons* bientôt, je te le promets.
+  Wir werden uns bald wieder*sehen*, das verspreche ich dir.
+
+  Je veux *revoir* cette émission, elle était passionnante.
+  Ich möchte mir diese Sendung noch einmal *ansehen*, sie war spannend.
+
+  Pierre *reverra* son manuscrit pendant les vacances.
+  Pierre wird sein Manuskript während der Ferien *überarbeiten*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

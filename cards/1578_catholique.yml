@@ -13,23 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ma sœur était une fervente catholique.
-  Meine Schwester war eine gläubige Katholikin.
+  Ma sœur était une fervente *catholique*.
+  Meine Schwester war eine überzeugte *Katholikin*.
 
-  Il est de confession catholique.
-  Er ist katholisch.
+  Dans mon quartier, il y a une école *catholique* privée.
+  In meiner Nachbarschaft gibt es eine private *katholische* Schule.
 
-  La ville de Rome est une ville très catholique.
-  Die Stadt Rom ist eine erzkatholische Stadt.
+  L'Église *catholique* a une longue histoire en France.
+  Die *katholische* Kirche hat eine lange Geschichte in Frankreich.
 
-  La famille Dupont est une famille de catholiques purs et durs.
-  Die Familie Dupont ist eine stockkatholische Familie.
+  "Son comportement n'est pas très *catholique*."
+  "Sein Verhalten ist nicht ganz *sauber*."
 
-  Ne pas être catholique, c'est un peu comme ne pas être de la famille.
-  Etwas zwielichtig sein, ist ein bisschen so, als wäre man nicht zur Familie gehörig.
+  La ville de Rome est le centre du monde *catholique*.
+  Rom ist das Zentrum der *katholischen* Welt.
 
-  Ma tante est une catholique pure et dure, elle ne jure que par l'église.
-  Meine Tante ist stockkatholisch, sie schwört nur auf die Kirche.
+  Les *catholiques* et les protestants vivent en harmonie dans notre village.
+  Die *Katholiken* und die Protestanten leben in unserem Dorf in Harmonie.
+
+  "Cette affaire n'a pas l'air très *catholique*."
+  "Diese Sache sieht ziemlich *zwielichtig* aus."
+
+  La foi *catholique* est très importante pour mes grands-parents.
+  Der *katholische* Glaube ist für meine Großeltern sehr wichtig.
+
+  Cette région est traditionnellement très *catholique*.
+  Diese Region ist traditionell stark *katholisch* geprägt.
+
+  "C'est une famille de *catholiques* purs et durs."
+  "Das ist eine *stockkatholische* Familie."
+
+  Le dogme *catholique* fait partie de son éducation.
+  Das *katholische* Dogma ist Teil seiner Erziehung.
+
+  Les valeurs *catholiques* influencent encore la société.
+  Die *katholischen* Werte beeinflussen die Gesellschaft noch immer.
+
+  Je suis né dans une famille *catholique* pratiquante.
+  Ich wurde in einer praktizierenden *katholischen* Familie geboren.
+
+  La morale *catholique* guide ses décisions quotidiennes.
+  Die *katholische* Moral leitet seine täglichen Entscheidungen.
+
+  "Il est devenu un *catholique* fervent après son mariage."
+  "Er ist nach seiner Heirat ein eifriger *Katholik* geworden."
+
+  Les traditions *catholiques* sont encore vivantes dans ce village.
+  Die *katholischen* Traditionen sind in diesem Dorf noch lebendig.
+
+  La communauté *catholique* organise une fête ce weekend.
+  Die *katholische* Gemeinde organisiert dieses Wochenende ein Fest.
+
+  "Ma tante est une *catholique* pure et dure."
+  "Meine Tante ist *stockkatholisch*."
+
+  Les écrivains *catholiques* ont influencé la littérature française.
+  Die *katholischen* Schriftsteller haben die französische Literatur beeinflusst.
+
+  Le peuple reste profondément *catholique* dans cette région.
+  Das Volk ist in dieser Region tief *katholisch*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

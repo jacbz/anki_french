@@ -13,11 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La police fédérale indienne va enquêter.
-  Die indische Bundespolizei wird den Fall untersuchen.
+  La police fédérale *indienne* va enquêter.
+  Die *indische* Bundespolizei wird ermitteln.
 
-  Mon ami est indien.
-  Mein Freund ist Inder.
+  Les épices *indiennes* donnent un goût unique à ce plat.
+  Die *indischen* Gewürze geben diesem Gericht einen einzigartigen Geschmack.
+
+  Le sous-continent *indien* compte plus d'un milliard d'habitants.
+  Der *indische* Subkontinent hat über eine Milliarde Einwohner.
+
+  Ma grand-mère porte une robe en *indienne* à motifs floraux.
+  Meine Großmutter trägt ein *Indiennekleid* mit Blumenmuster.
+
+  Les tribus *indiennes* d'Amazonie luttent pour préserver leur mode de vie.
+  Die *indianischen* Stämme im Amazonasgebiet kämpfen um den Erhalt ihrer Lebensweise.
+
+  L'océan *Indien* est le troisième plus grand océan du monde.
+  Der *Indische* Ozean ist der drittgrößte Ozean der Welt.
+
+  Les *Indiens* mohicans vivaient principalement dans le nord-est des États-Unis.
+  Die Mohikan-*Indianer* lebten hauptsächlich im Nordosten der USA.
+
+  Cette *Indienne* travaille comme programmeuse à Bangalore.
+  Diese *Inderin* arbeitet als Programmiererin in Bangalore.
+
+  Les réserves *indiennes* au Canada couvrent de vastes territoires.
+  Die *indianischen* Reservate in Kanada umfassen weite Gebiete.
+
+  Le chanvre *indien* est strictement réglementé dans de nombreux pays.
+  Der *indische* Hanf ist in vielen Ländern streng reguliert.
+
+  Les civilisations *indiennes* précolombiennes ont construit des pyramides impressionnantes.
+  Die präkolumbianischen *indianischen* Zivilisationen haben beeindruckende Pyramiden gebaut.
+
+  Les guerres *indiennes* ont profondément marqué l'histoire des États-Unis.
+  Die *Indianer*kriege haben die Geschichte der USA stark geprägt.
+
+  La médecine traditionnelle *indienne* utilise beaucoup de plantes.
+  Die traditionelle *indische* Medizin verwendet viele Pflanzen.
+
+  Les *Indiens* pratiquent de nombreuses religions différentes.
+  Die *Inder* praktizieren viele verschiedene Religionen.
+
+  Les langues *indiennes* appartiennent à plusieurs familles linguistiques.
+  Die *indischen* Sprachen gehören zu verschiedenen Sprachfamilien.
+
+  Cette université propose des études *indiennes* très réputées.
+  Diese Universität bietet sehr angesehene *Indien*studien an.
+
+  Les *Indiens* d'Amazonie utilisent des sarbacanes pour chasser.
+  Die Amazonas-*Indianer* benutzen Blasrohre zur Jagd.
+
+  La cuisine *indienne* est connue pour ses currys épicés.
+  Die *indische* Küche ist für ihre würzigen Currys bekannt.
+
+  Cette table est décorée d'un peigne à l'*indienne* sculpté.
+  Dieser Tisch ist mit einem geschnitzten *indischen* Kamm verziert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

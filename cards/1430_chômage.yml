@@ -13,41 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le chômage chez les jeunes est devenu un grave problème.
-  Die Jugendarbeitslosigkeit ist zu einem ernsten Problem geworden.
+  Le *chômage* chez les jeunes est devenu un grave problème.
+  Die *Arbeitslosigkeit* unter jungen Menschen ist zu einem ernsten Problem geworden.
 
-  Le chômage est un problème majeur en France.
-  Arbeitslosigkeit ist ein großes Problem in Frankreich.
+  Le taux de *chômage* a augmenté de deux pour cent depuis janvier.
+  Die *Arbeitslosen*quote ist seit Januar um zwei Prozent gestiegen.
 
-  Le chômage est élevé.
-  Die Arbeitslosigkeit ist hoch.
+  Après la fermeture de l'usine, beaucoup de personnes se sont inscrites au *chômage*.
+  Nach der Schließung der Fabrik haben sich viele *arbeitslos* gemeldet.
 
-  J'ai récemment terminé mes études et je suis maintenant au chômage.
-  Ich habe vor kurzem mein Studium abgeschlossen und bin nun arbeitslos.
+  En raison de la crise, l'entreprise a dû mettre ses employés en *chômage* technique.
+  Aufgrund der Krise musste das Unternehmen seine Mitarbeiter in *Kurzarbeit* schicken.
 
-  Le chômage flottant est un phénomène récent qui touche de plus en plus de travailleurs.
-  Fluktuationsarbeitslosigkeit ist ein relativ neues Phänomen, das immer mehr Arbeitnehmer betrifft.
+  "Je *touche le chômage* depuis trois mois."
+  "Ich kriege seit drei Monaten *Arbeitslosengeld*."
 
-  Le chômage partiel est une mesure mise en place pour éviter des licenciements en période de crise.
-  Kurzarbeit ist eine Maßnahme, die in Krisenzeiten eingeführt wird, um Entlassungen zu vermeiden.
+  Le *chômage* saisonnier est très fréquent dans le secteur touristique.
+  Die saisonale *Arbeitslosigkeit* ist in der Tourismusbranche sehr häufig.
 
-  Le chômage technique est une situation temporaire qui touche les salariés en cas de difficultés économiques de l'entreprise.
-  Betriebsbedingte Kurzarbeit ist eine vorübergehende Situation, die Arbeitnehmer betrifft, wenn das Unternehmen wirtschaftliche Schwierigkeiten hat.
+  Cette restructuration va réduire cent personnes au *chômage*.
+  Diese Umstrukturierung wird hundert Menschen *arbeitslos* machen.
 
-  Le chômage saisonnier est un phénomène qui touche certains secteurs d'activité, comme le tourisme.
-  Saisonale Arbeitslosigkeit ist ein Phänomen, das bestimmte Branchen betrifft, wie zum Beispiel den Tourismus.
+  Marie est au *chômage* depuis la faillite de son entreprise.
+  Marie ist seit dem Konkurs ihrer Firma *arbeitslos*.
 
-  Pierre est au chômage depuis six mois, il cherche activement un nouvel emploi.
-  Pierre ist seit sechs Monaten arbeitslos, er sucht aktiv nach einem neuen Arbeitsplatz.
+  Le gouvernement a augmenté les indemnités de *chômage*.
+  Die Regierung hat das *Arbeitslosen*geld erhöht.
 
-  Marie s'est inscrite au chômage après avoir perdu son emploi.
-  Marie hat sich arbeitslos gemeldet, nachdem sie ihren Job verloren hatte.
+  La mise en *chômage* partiel a permis d'éviter des licenciements.
+  Die *Kurzarbeit* hat es ermöglicht, Entlassungen zu vermeiden.
 
-  La fermeture de l'usine a réduit des centaines d'ouvriers au chômage.
-  Die Schließung der Fabrik hat Hunderte von Arbeitern arbeitslos gemacht.
+  Le *chômage* de longue durée peut avoir des conséquences psychologiques graves.
+  Lang andauernde *Arbeitslosigkeit* kann schwerwiegende psychologische Folgen haben.
 
-  Jean touche le chômage depuis un an, il est en train de se reconvertir.
-  Jean bekommt seit einem Jahr Arbeitslosengeld, er ist dabei, sich beruflich neu zu orientieren.
+  Les statistiques du *chômage* sont publiées chaque mois.
+  Die *Arbeitslosen*statistiken werden jeden Monat veröffentlicht.
+
+  Le *chômage* flottant touche principalement les emplois temporaires.
+  Die *Fluktuationsarbeitslosigkeit* betrifft hauptsächlich temporäre Arbeitsplätze.
+
+  L'allocation de *chômage* lui permet à peine de joindre les deux bouts.
+  Das *Arbeitslosen*geld reicht ihm kaum zum Überleben.
+
+  La période de *chômage* du canal durera deux semaines pour les réparations.
+  Die *Stilllegungs*zeit des Kanals wird wegen der Reparaturen zwei Wochen dauern.
+
+  Son *chômage* a pris fin quand il a trouvé un nouvel emploi.
+  Seine *Arbeitslosigkeit* endete, als er eine neue Stelle fand.
+
+  Le *chômage* du lundi de Pâques est obligatoire pour tous les commerces.
+  Die *Schließung* am Ostermontag ist für alle Geschäfte verpflichtend.
+
+  La lutte contre le *chômage* est une priorité nationale.
+  Die Bekämpfung der *Arbeitslosigkeit* ist eine nationale Priorität.
+
+  Le risque de *chômage* économique inquiète les salariés.
+  Die Gefahr der wirtschaftsbedingten *Arbeitslosigkeit* beunruhigt die Angestellten.
+
+  L'assurance *chômage* est obligatoire pour tous les employeurs.
+  Die *Arbeitslosen*versicherung ist für alle Arbeitgeber verpflichtend.
+
+  Les manifestants protestent contre la réforme du système de *chômage*.
+  Die Demonstranten protestieren gegen die Reform des *Arbeitslosen*systems.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

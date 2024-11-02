@@ -13,17 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Pouvez-vous identifier cet homme?
-  Können Sie den Mann identifizieren?
+  Pouvez-vous *identifier* cet homme ?
+  Können Sie diesen Mann *identifizieren*?
 
-  La police a pu identifier le suspect grâce aux images de vidéosurveillance.
-  Die Polizei konnte den Verdächtigen anhand der Bilder der Videoüberwachung identifizieren.
+  La police a réussi à *identifier* le voleur grâce aux caméras de sécurité.
+  Die Polizei konnte den Dieb dank der Sicherheitskameras *identifizieren*.
 
-  Adolescente, elle s'identifiait aux héroïnes de romans.
-  Als Jugendliche identifizierte sie sich mit den Heldinnen aus Romanen.
+  Les experts ont rapidement *identifié* la cause de la panne.
+  Die Experten haben die Ursache der Störung schnell *identifiziert*.
 
-  On peut identifier ce courant pictural au mouvement impressionniste.
-  Man kann diesen Malstil der impressionistischen Bewegung zuordnen.
+  Veuillez vous *identifier* pour accéder à votre compte bancaire en ligne.
+  Bitte *identifizieren* Sie sich, um auf Ihr Online-Bankkonto zuzugreifen.
+
+  Le biologiste a *identifié* une nouvelle espèce de papillon.
+  Der Biologe hat eine neue Schmetterlingsart *bestimmt*.
+
+  Les secouristes ont dû *identifier* les victimes de l'accident.
+  Die Rettungskräfte mussten die Opfer des Unfalls *identifizieren*.
+
+  J'ai tout de suite *identifié* sa voix au téléphone.
+  Ich habe seine Stimme am Telefon sofort *erkannt*.
+
+  Les témoins n'ont pas pu *identifier* le véhicule qui s'est enfui.
+  Die Zeugen konnten das geflüchtete Fahrzeug nicht *identifizieren*.
+
+  Le professeur aide les étudiants à *identifier* les formes verbales dans le texte.
+  Der Lehrer hilft den Schülern, die Verbformen im Text zu *bestimmen*.
+
+  Un objet volant non *identifié* a été aperçu dans le ciel.
+  Ein nicht *identifiziertes* Flugobjekt wurde am Himmel gesichtet.
+
+  Les adolescents s'*identifient* souvent à leurs idoles.
+  Jugendliche *identifizieren* sich oft mit ihren Idolen.
+
+  Le détective a réussi à *identifier* les empreintes digitales sur l'arme.
+  Der Detektiv konnte die Fingerabdrücke auf der Waffe *identifizieren*.
+
+  Il est important d'*identifier* les signes avant-coureurs d'une maladie.
+  Es ist wichtig, die Vorzeichen einer Krankheit zu *erkennen*.
+
+  Le botaniste a *identifié* toutes les plantes de la région.
+  Der Botaniker hat alle Pflanzen der Region *bestimmt*.
+
+  Les chercheurs ont *identifié* un nouveau virus.
+  Die Forscher haben einen neuen Virus *identifiziert*.
+
+  Je ne peux pas m'*identifier* à ce personnage de roman.
+  Ich kann mich mit dieser Romanfigur nicht *identifizieren*.
+
+  Les archéologues ont *identifié* l'origine de ces vestiges.
+  Die Archäologen haben die Herkunft dieser Überreste *bestimmt*.
+
+  Comment avez-vous *identifié* la source du problème ?
+  Wie haben Sie die Quelle des Problems *identifiziert*?
+
+  Les experts ont *identifié* plusieurs facteurs de risque.
+  Die Experten haben mehrere Risikofaktoren *identifiziert*.
+
+  Le système n'arrive pas à *identifier* votre mot de passe.
+  Das System kann Ihr Passwort nicht *verifizieren*.
+
+  L'enfant s'*identifie* beaucoup à son grand frère.
+  Das Kind *identifiziert* sich stark mit seinem großen Bruder.
+
+  Les ornithologues ont *identifié* cette espèce d'oiseau rare.
+  Die Ornithologen haben diese seltene Vogelart *bestimmt*.
+
+  Il faut d'abord *identifier* les besoins des clients.
+  Man muss zunächst die Bedürfnisse der Kunden *ermitteln*.
+
+  Les médecins ont rapidement *identifié* les symptômes.
+  Die Ärzte haben die Symptome schnell *erkannt*.
+
+  Elle s'est complètement *identifiée* à son rôle.
+  Sie hat sich völlig mit ihrer Rolle *identifiziert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

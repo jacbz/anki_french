@@ -13,32 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les producteurs sont souvent aussi les consommateurs.
-  Die Produzenten sind oft auch die Konsumenten.
+  Les *producteurs* sont souvent aussi les consommateurs.
+  Die *Erzeuger* sind oft auch die Verbraucher.
 
-  Le producteur de ce film est très connu.
-  Der Produzent dieses Films ist sehr bekannt.
+  Cette société est le plus grand *producteur* d'énergie hydroélectrique en France.
+  Dieses Unternehmen ist der größte *Erzeuger* von Wasserkraft in Frankreich.
 
-  La France est un pays producteur de vin.
-  Frankreich ist ein Wein anbauendes Land.
+  Marie est devenue une *productrice* de champagne reconnue dans toute la région.
+  Marie ist eine in der ganzen Region anerkannte Champagner-*Produzentin* geworden.
 
-  L'Allemagne est un pays producteur de voitures.
-  Deutschland ist ein Land, das Autos produziert.
+  Le *producteur* du film a choisi des lieux de tournage magnifiques.
+  Der *Produzent* des Films hat wunderschöne Drehorte ausgewählt.
 
-  Le Canada est un producteur en autosuffisance de blé.
-  Kanada ist ein Land, das sich selbst mit Getreide versorgen kann.
+  La *productrice* de l'émission a reçu un prix pour son travail innovant.
+  Die *Produzentin* der Sendung hat einen Preis für ihre innovative Arbeit erhalten.
 
-  L'Arabie Saoudite est un producteur de pétrole.
-  Saudi-Arabien ist ein Erdöl förderndes Land.
+  Les pays *producteurs* de pétrole ont décidé de réduire leur production.
+  Die Erdöl *produzierenden* Länder haben beschlossen, ihre Förderung zu reduzieren.
 
-  La Pologne est un producteur de charbon.
-  Polen ist ein Land, das Kohle fördert.
+  Ce petit *producteur* de fruits et légumes vend directement sur le marché.
+  Dieser kleine Obst- und Gemüse-*Erzeuger* verkauft direkt auf dem Markt.
 
-  Les États-Unis sont un producteur de gaz naturel.
-  Die Vereinigten Staaten sind ein Erdgas förderndes Land.
+  La *productrice* de concerts a réussi à faire venir des artistes internationaux.
+  Die Konzert-*Produzentin* hat es geschafft, internationale Künstler zu engagieren.
 
-  Les pays producteurs de pétrole se réunissent pour discuter des prix.
-  Die Erdöl produzierenden Länder treffen sich, um über die Preise zu sprechen.
+  Les *producteurs* de blé s'inquiètent des conditions météorologiques.
+  Die Getreide-*Erzeuger* machen sich Sorgen wegen der Wetterbedingungen.
+
+  Cette région est une importante *productrice* de gaz naturel.
+  Diese Region ist eine wichtige Erdgas-*Produzentin*.
+
+  Le *producteur* exécutif a constitué une équipe très compétente.
+  Der ausführende *Produzent* hat ein sehr kompetentes Team zusammengestellt.
+
+  La thyroïde est une glande *productrice* d'hormones essentielles.
+  Die Schilddrüse ist eine lebenswichtige Hormon*produzierende* Drüse.
+
+  Les grands *producteurs* industriels dominent le marché.
+  Die großen Industrie-*Produzenten* beherrschen den Markt.
+
+  Cette réaction chimique est *productrice* de chaleur importante.
+  Diese chemische Reaktion ist stark wärme*produzierend*.
+
+  Le *producteur* délégué travaille en étroite collaboration avec les réalisateurs.
+  Der leitende *Produzent* arbeitet eng mit den Regisseuren zusammen.
+
+  Cette maison de disques cherche de nouveaux *producteurs* créatifs.
+  Diese Plattenfirma sucht neue kreative *Produzenten*.
+
+  Les petits *producteurs* en autosuffisance sont de plus en plus nombreux.
+  Die Zahl der kleinen Selbst*erzeuger* nimmt immer mehr zu.
+
+  Cette société *productrice* de films a vendu ses droits à l'étranger.
+  Diese Film*produktions*firma hat ihre Rechte ins Ausland verkauft.
+
+  Les *producteurs* indépendants ont plus de liberté créative.
+  Unabhängige *Produzenten* haben mehr kreative Freiheit.
+
+  Le *producteur* de cette émission de radio en est aussi l'animateur.
+  Der *Produzent* dieser Radiosendung ist auch ihr Moderator.
+
+  Les pays *producteurs* de charbon doivent diversifier leur économie.
+  Die Kohle *fördernden* Länder müssen ihre Wirtschaft diversifizieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,38 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les exportations ont légèrement baissé.
-  Die Ausfuhren gingen leicht zurück.
+  Les *exportations* ont légèrement baissé.
+  Die *Ausfuhren* sind leicht zurückgegangen.
 
-  Les exportations ont augmenté de 10% cette année.
-  Die Exporte sind in diesem Jahr um 10% gestiegen.
+  Notre entreprise se spécialise dans l'*exportation* directe vers l'Asie.
+  Unser Unternehmen ist auf die Direkt*ausfuhr* nach Asien spezialisiert.
 
-  La France a un fort volume d'exportations vers l'Allemagne.
-  Frankreich hat ein großes Exportvolumen nach Deutschland.
+  L'*exportation* de pétrole représente 60% de leur économie.
+  Der Öl*export* macht 60% ihrer Wirtschaft aus.
 
-  L'exportation de données personnelles soulève des questions de confidentialité.
-  Der Datenexport von persönlichen Daten wirft Datenschutzfragen auf.
+  L'*exportation* de blé vers l'Afrique a doublé cette année.
+  Der Weizen*export* nach Afrika hat sich dieses Jahr verdoppelt.
 
-  L'exportation de blé vers l'Afrique du Nord est en hausse.
-  Der Weizenexport nach Nordafrika steigt.
+  Cette réglementation facilite l'*exportation* de marchandises.
+  Diese Regelung erleichtert die Waren*ausfuhr*.
 
-  L'exportation de marchandises vers les États-Unis a augmenté ces dernières années.
-  Die Warenausfuhr in die USA ist in den letzten Jahren gestiegen.
+  L'*exportation* de viande doit respecter des normes strictes.
+  Der Fleisch*export* muss strenge Standards einhalten.
 
-  L'exportation de riz est un secteur important pour l'économie du Vietnam.
-  Der Reisexport ist ein wichtiger Wirtschaftszweig für Vietnam.
+  Ces articles d'*exportation* génèrent beaucoup de profit.
+  Diese *Export*artikel generieren viel Gewinn.
 
-  Les articles d'exportation les plus importants de la Chine sont les produits électroniques.
-  Die wichtigsten Exportartikel Chinas sind elektronische Produkte.
+  Cette marchandise d'*exportation* est très demandée à l'étranger.
+  Diese *Export*ware ist im Ausland sehr gefragt.
 
-  La marchandise d'exportation la plus populaire de l'Italie est le vin.
-  Das beliebteste Exportgut Italiens ist Wein.
+  Ce modèle destiné à l'*exportation* inclut des fonctions spéciales.
+  Dieses *Export*modell enthält spezielle Funktionen.
 
-  Le modèle destiné à l'exportation est légèrement différent de la version locale.
-  Das Exportmodell unterscheidet sich leicht von der lokalen Version.
+  Le gouvernement a stoppé les *exportations* de pétrole vers ce pays.
+  Die Regierung hat dem Land den Öl*export* gesperrt.
 
-  Le gouvernement a décidé de stopper les exportations de pétrole à la Russie.
-  Die Regierung hat beschlossen, Russland den Ölhahn zuzudrehen.
+  Le volume des *exportations* a atteint un niveau record.
+  Das *Export*volumen hat einen Rekordstand erreicht.
+
+  Les *exportations* en valeur réelle ont augmenté de 5%.
+  Die reale *Export*leistung ist um 5% gestiegen.
+
+  L'*exportation* des données doit être sécurisée.
+  Der Daten*export* muss gesichert sein.
+
+  Cette maison d'*exportation* existe depuis cinquante ans.
+  Dieses *Export*haus besteht seit fünfzig Jahren.
+
+  La chute des *exportations* inquiète les économistes.
+  Der Rückgang der *Ausfuhren* beunruhigt die Ökonomen.
+
+  Le développement des *exportations* stimule la croissance économique.
+  Die Entwicklung der *Ausfuhren* stimuliert das Wirtschaftswachstum.
+
+  Notre licence d'*exportation* vient d'être renouvelée.
+  Unsere *Export*lizenz wurde gerade erneuert.
+
+  L'*exportation* de capitaux vers l'étranger est strictement contrôlée.
+  Der Kapital*export* ins Ausland wird streng kontrolliert.
+
+  Le montant des *exportations* dépasse nos attentes.
+  Die Höhe der *Ausfuhren* übertrifft unsere Erwartungen.
+
+  La valeur des *exportations* a triplé en dix ans.
+  Der Wert der *Ausfuhren* hat sich in zehn Jahren verdreifacht.
+
+  Cette *exportation* de mode française influence le style mondial.
+  Dieser *Export* französischer Mode beeinflusst den weltweiten Stil.
+
+  L'*exportation* de produits agricoles soutient l'économie locale.
+  Der *Export* von Agrarprodukten stützt die lokale Wirtschaft.
+
+  L'excédent des *exportations* renforce notre balance commerciale.
+  Der *Export*überschuss stärkt unsere Handelsbilanz.
+
+  Le déficit des *exportations* pose un problème économique majeur.
+  Das *Export*defizit stellt ein großes wirtschaftliches Problem dar.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,41 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Combien de sites internet avez-vous?
-  Wie viele Websites haben Sie?
+  Combien de *sites* internet avez-vous?
+  Wie viele Internet*seiten* haben Sie?
 
-  Je vais visiter le site web de l’entreprise.
-  Ich werde die Website des Unternehmens besuchen.
+  Le *site* archéologique a révélé des vestiges de l'époque romaine.
+  Die Ausgrabungs*stätte* hat Überreste aus der römischen Zeit zu Tage gebracht.
 
-  Le site est classé paysage protégé.
-  Das Gebiet ist als Landschaftsschutzgebiet ausgewiesen.
+  Le *site* industriel emploie plus de mille personnes.
+  Der Industrie*standort* beschäftigt über tausend Mitarbeiter.
 
-  Le site est un site archéologique important.
-  Der Ort ist eine bedeutende Ausgrabungsstätte.
+  Notre université dispose d'un nouveau *site* universitaire moderne.
+  Unsere Universität verfügt über ein modernes Universitäts*gelände*.
 
-  Le site est un site historique remarquable.
-  Der Ort ist eine bemerkenswerte historische Stätte.
+  Ce *site* naturel attire des milliers de visiteurs chaque année.
+  Diese Natur*stätte* zieht jedes Jahr tausende Besucher an.
 
-  Le site est un site naturel d'une beauté exceptionnelle.
-  Der Ort ist eine Naturschönheit von außergewöhnlicher Schönheit.
+  Les compétitions se dérouleront sur trois *sites* olympiques différents.
+  Die Wettkämpfe finden an drei verschiedenen olympischen Austragung*orten* statt.
 
-  Le site est un site sauvage et préservé.
-  Der Ort ist ein Stück unberührte Natur.
+  Le *site* Web de l'entreprise sera mis à jour ce soir.
+  Die Web*seite* der Firma wird heute Abend aktualisiert.
 
-  Le site est un site touristique très populaire.
-  Der Ort ist eine sehr beliebte Sehenswürdigkeit.
+  J'admire ce *site* sauvage dans les montagnes.
+  Ich bewundere dieses unberührte Stück *Natur* in den Bergen.
 
-  Le site est un site olympique qui a accueilli les Jeux Olympiques.
-  Der Ort ist ein olympischer Austragungsort, der die Olympischen Spiele ausgetragen hat.
+  La ville a un *site* exceptionnel entre mer et montagne.
+  Die Stadt hat eine außergewöhnliche *Lage* zwischen Meer und Bergen.
 
-  Le site est un site industriel important.
-  Der Ort ist ein wichtiger Industriestandort.
+  Ce *site* touristique accueille des visiteurs du monde entier.
+  Diese Sehens*würdigkeit* empfängt Besucher aus der ganzen Welt.
 
-  Le site est le site principal de l'entreprise.
-  Der Ort ist das Hauptwerk des Unternehmens.
+  Le *site* principal de l'entreprise se trouve à Lyon.
+  Das Haupt*werk* der Firma befindet sich in Lyon.
 
-  Le site est un site universitaire avec plusieurs bâtiments universitaires.
-  Der Ort ist ein Universitätsareal mit mehreren Universitätsgebäuden.
+  Les étudiants ont créé leur propre *site* sur Internet.
+  Die Studenten haben ihre eigene Internet*seite* eingerichtet.
+
+  Ce magnifique *site* est maintenant classé et protégé.
+  Diese wunderbare *Landschaft* steht jetzt unter Schutz.
+
+  La formation aura lieu sur le *site* la semaine prochaine.
+  Die Schulung findet nächste Woche vor *Ort* statt.
+
+  Le *site* historique témoigne d'un riche passé médiéval.
+  Die historische *Stätte* zeugt von einer reichen mittelalterlichen Vergangenheit.
+
+  Les archéologues ont découvert un nouveau *site* près du village.
+  Die Archäologen haben eine neue Ausgrabungs*stätte* nahe dem Dorf entdeckt.
+
+  Ce *site* grandiose offre une vue panoramique sur la vallée.
+  Diese großartige *Landschaft* bietet einen Panoramablick über das Tal.
+
+  Le *site* de lancement sera inauguré le mois prochain.
+  Die Start*anlage* wird nächsten Monat eingeweiht.
+
+  Les travaux sur le *site* industriel commenceront demain.
+  Die Arbeiten am Industrie*gelände* beginnen morgen.
+
+  Ce *site* urbain sera complètement réaménagé.
+  Dieses Stadt*gebiet* wird komplett umgestaltet.
+
+  Le *site* balnéaire attire de nombreux touristes en été.
+  Der Bade*ort* zieht im Sommer viele Touristen an.
+
+  Je visite régulièrement ce *site* d'information.
+  Ich besuche regelmäßig diese Nachrichten*seite*.
+
+  Le château occupe un *site* défensif naturel.
+  Die Burg liegt auf einem natürlichen Verteidigungs*standort*.
+
+  Le nouveau *site* commercial ouvrira ses portes en octobre.
+  Der neue Geschäfts*standort* wird im Oktober eröffnet.
+
+  Les bus circulent en *site* propre dans le centre-ville.
+  Die Busse fahren auf einer eigenen *Spur* im Stadtzentrum.
+
+  Le *site* thermal est connu depuis l'Antiquité.
+  Der Thermal*ort* ist seit der Antike bekannt.
+
+  Ils ont choisi un *site* idéal pour construire leur maison.
+  Sie haben einen idealen *Standort* für ihr Haus gewählt.
+
+  Le *site* de production sera modernisé l'année prochaine.
+  Die Produktions*stätte* wird nächstes Jahr modernisiert.
+
+  Notre guide connaît tous les *sites* remarquables de la région.
+  Unser Führer kennt alle bemerkenswerten *Orte* der Region.
+
+  J'ai ajouté ce *site* à mes favoris.
+  Ich habe diese *Seite* zu meinen Favoriten hinzugefügt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

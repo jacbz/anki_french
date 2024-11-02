@@ -13,11 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je me souviens de la séance finale.
-  Ich erinnere mich an die letzte Sitzung.
+  Je me souviens de la séance *finale*.
+  Ich erinnere mich an die *letzte* Sitzung.
 
-  Le final de la compétition approche.
-  Das Finale des Wettbewerbs rückt näher.
+  La décision *finale* sera prise demain.
+  Die *End*entscheidung wird morgen getroffen.
+
+  Dans la scène *finale*, tous les personnages se réunissent sur scène.
+  In der *letzten* Szene versammeln sich alle Figuren auf der Bühne.
+
+  Le *final* de cette symphonie est magnifique.
+  Das *Finale* dieser Symphonie ist wunderschön.
+
+  L'équipe s'est qualifiée pour la *finale* du championnat.
+  Die Mannschaft hat sich für das *Finale* der Meisterschaft qualifiziert.
+
+  Le jury a rendu son verdict *final*.
+  Die Jury hat ihr *endgültiges* Urteil gefällt.
+
+  Les accords *finals* de la chanson résonnent encore dans ma tête.
+  Die *letzten* Akkorde des Lieds klingen noch in meinem Kopf nach.
+
+  Le résultat *final* du match était inattendu.
+  Das *End*ergebnis des Spiels war unerwartet.
+
+  La voyelle *finale* de ce mot ne se prononce pas.
+  Der *End*vokal dieses Wortes wird nicht ausgesprochen.
+
+  J'ai mis un point *final* à cette relation toxique.
+  Ich habe dieser toxischen Beziehung ein *endgültiges* Ende gesetzt.
+
+  Le compte *final* montre un déficit important.
+  Die *End*abrechnung zeigt ein erhebliches Defizit.
+
+  La proposition *finale* explique le but de l'action.
+  Der *Final*satz erklärt den Zweck der Handlung.
+
+  Le *final* de l'opéra a reçu une standing ovation.
+  Das *Finale* der Oper erhielt stehende Ovationen.
+
+  Nous attendons avec impatience la version *finale* du document.
+  Wir warten gespannt auf die *End*version des Dokuments.
+
+  Le combat *final* approche rapidement.
+  Der *letzte* Kampf rückt schnell näher.
+
+  Les préparatifs *finals* sont en cours.
+  Die *letzten* Vorbereitungen laufen.
+
+  La phase *finale* du projet commence lundi.
+  Die *End*phase des Projekts beginnt am Montag.
+
+  Le jury délibère avant sa conclusion *finale*.
+  Die Jury berät vor ihrer *endgültigen* Entscheidung.
+
+  Le *final* du concert était spectaculaire.
+  Das *Finale* des Konzerts war spektakulär.
+
+  La répétition *finale* aura lieu demain matin.
+  Die *letzte* Probe findet morgen früh statt.
+
+  L'examen *final* se déroulera dans l'amphithéâtre.
+  Die *End*prüfung findet im Hörsaal statt.
+
+  Le décompte *final* commence maintenant.
+  Der *End*countdown beginnt jetzt.
+
+  Les touches *finales* ont été ajoutées au tableau.
+  Die *letzten* Pinselstriche wurden dem Gemälde hinzugefügt.
+
+  Le rapport *final* sera publié la semaine prochaine.
+  Der *End*bericht wird nächste Woche veröffentlicht.
+
+  La correction *finale* du texte prendra encore une heure.
+  Die *letzte* Korrektur des Textes wird noch eine Stunde dauern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

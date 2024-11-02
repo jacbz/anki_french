@@ -13,26 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le projet de loi exclut ce type de mode de vie.
-  Der Gesetzentwurf schließt diese Art der Lebensweise aus.
+  Le projet de loi *exclut* ce type de mode de vie.
+  Der Gesetzentwurf *schließt* diese Art von Lebensstil aus.
 
-  Il a été exclu de l’équipe.
-  Er wurde aus dem Team ausgeschlossen.
+  L'arbitre a *exclu* Thomas du match après un carton rouge.
+  Der Schiedsrichter hat Thomas nach der roten Karte vom Spiel *ausgeschlossen*.
 
-  Le comité a décidé d'exclure Jean du parti pour ses opinions divergentes.
-  Der Vorstand hat beschlossen, Jean wegen seiner abweichenden Meinungen aus der Partei auszuschließen.
+  Marie a été *exclue* du lycée pour une semaine.
+  Marie wurde für eine Woche von der Schule *ausgeschlossen*.
 
-  Le contrat exclut les conséquences juridiques en cas de dommages.
-  Der Vertrag schließt die Rechtsfolgen im Falle von Schäden aus.
+  Le règlement *exclut* toute possibilité de remboursement.
+  Die Vorschrift *schließt* jede Möglichkeit einer Rückerstattung aus.
 
-  Depuis qu'elle a décidé d'exclure le sucre de son régime, elle se sent beaucoup mieux.
-  Seitdem sie sich entschlossen hat, bei ihrer Ernährung auf Zucker zu verzichten, fühlt sie sich viel besser.
+  Il faut *exclure* le sucre de ton alimentation.
+  Du musst auf Zucker in deiner Ernährung *verzichten*.
 
-  L'élève a été exclu de la salle pour son comportement irrespectueux.
-  Der Schüler wurde wegen seines respektlosen Verhaltens aus dem Saal verwiesen.
+  Ces deux théories s'*excluent* mutuellement.
+  Diese beiden Theorien *schließen* sich gegenseitig aus.
 
-  Marie a été exclue du lycée pour huit jours pour avoir triché à un examen.
-  Marie wurde für acht Tage vom Unterricht ausgeschlossen, weil sie bei einer Prüfung geschummelt hat.
+  Le comité a décidé d'*exclure* Pierre du parti.
+  Das Komitee hat beschlossen, Pierre aus der Partei *auszuschließen*.
+
+  On ne peut pas *exclure* l'hypothèse d'un accident.
+  Man kann die Hypothese eines Unfalls nicht *ausschließen*.
+
+  La nouvelle directrice *exclut* les retards répétés.
+  Die neue Direktorin *duldet* keine wiederholten Verspätungen.
+
+  Les experts *excluent* cette piste de l'enquête.
+  Die Experten *schließen* diese Spur der Untersuchung aus.
+
+  L'entraîneur a *exclu* trois joueurs de l'équipe.
+  Der Trainer hat drei Spieler aus der Mannschaft *ausgeschlossen*.
+
+  Le médecin m'a conseillé d'*exclure* les produits laitiers.
+  Der Arzt hat mir geraten, Milchprodukte *wegzulassen*.
+
+  "*C'est exclu* que je travaille le dimanche !"
+  "Es ist *ausgeschlossen*, dass ich sonntags arbeite!"
+
+  Il s'est *exclu* lui-même par son comportement.
+  Er hat sich durch sein Verhalten selbst *ausgegrenzt*.
+
+  Cette défaite *exclut* toute chance de qualification.
+  Diese Niederlage *schließt* jede Chance auf eine Qualifikation aus.
+
+  Les conditions météorologiques *excluent* tout départ aujourd'hui.
+  Die Wetterbedingungen *schließen* jeden Start heute aus.
+
+  Son handicap l'a longtemps *exclu* du marché du travail.
+  Seine Behinderung hat ihn lange vom Arbeitsmarkt *ausgeschlossen*.
+
+  "*Il n'est pas exclu* que nous partions en vacances."
+  "Es ist nicht *ausgeschlossen*, dass wir in den Urlaub fahren."
+
+  La peur et le courage s'*excluent* rarement.
+  Angst und Mut *schließen* sich selten aus.
+
+  Le nouveau système *exclut* les erreurs humaines.
+  Das neue System *schließt* menschliche Fehler aus.
+
+  La formation *exclut* les candidats sans expérience.
+  Die Ausbildung *schließt* Bewerber ohne Erfahrung aus.
+
+  Sarah s'est sentie *exclue* du groupe d'amis.
+  Sarah fühlte sich von der Freundesgruppe *ausgeschlossen*.
+
+  Le contrat *exclut* toute responsabilité en cas d'accident.
+  Der Vertrag *schließt* jede Haftung bei Unfällen aus.
+
+  Les parents ont *exclu* la télévision pendant les examens.
+  Die Eltern haben während der Prüfungen Fernsehen *verboten*.
+
+  Le professeur a dû *exclure* deux élèves de la classe.
+  Der Lehrer musste zwei Schüler aus dem Unterricht *verweisen*.
+
+  Cette décision *exclut* toute négociation future.
+  Diese Entscheidung *schließt* jede zukünftige Verhandlung aus.
+
+  Le jury a *exclu* trois candidats du concours.
+  Die Jury hat drei Kandidaten vom Wettbewerb *ausgeschlossen*.
+
+  L'assurance *exclut* les dommages causés par négligence.
+  Die Versicherung *schließt* Schäden durch Fahrlässigkeit aus.
+
+  La loi *exclut* ce type de discrimination.
+  Das Gesetz *verbietet* diese Art von Diskriminierung.
+
+  "*Exclus* de ton esprit ces pensées négatives !"
+  "*Verbanne* diese negativen Gedanken aus deinem Kopf!"
+
+  Le règlement *exclut* les chiens du parc.
+  Die Vorschrift *verbietet* Hunde im Park.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

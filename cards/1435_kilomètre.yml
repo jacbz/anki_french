@@ -13,32 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai un jardin à vingt-cinq kilomètres de paris.
-  Ich habe einen Garten, der fünfundzwanzig Kilometer von Paris entfernt ist.
+  J'ai un jardin à vingt-cinq *kilomètres* de Paris.
+  Ich habe einen Garten fünfundzwanzig *Kilometer* von Paris entfernt.
 
-  Il reste encore 5 kilomètres à parcourir.
-  Es sind noch 5 Kilometer zu fahren.
+  La voiture roule à cent trente *kilomètres* à l'heure sur l'autoroute.
+  Das Auto fährt mit hundertdreißig Stunden*kilometern* auf der Autobahn.
 
-  La voiture roulait à cent kilomètres à l'heure sur l'autoroute.
-  Das Auto fuhr mit hundert Stundenkilometern auf der Autobahn.
+  Notre pays a une densité de population de 230 habitants par *kilomètre* carré.
+  Unser Land hat eine Bevölkerungsdichte von 230 Einwohnern pro Quadrat*kilometer*.
 
-  Les camionneurs aiment bouffer du kilomètre pour gagner leur vie.
-  Die LKW-Fahrer lieben es, Kilometer zu fressen, um ihren Lebensunterhalt zu verdienen.
+  Le volume d'eau du lac est de deux *kilomètres* cubes.
+  Das Wasservolumen des Sees beträgt zwei Kubik*kilometer*.
 
-  Le compteur de la voiture indique le nombre de kilomètres parcourus.
-  Der Kilometerzähler im Auto zeigt die Anzahl der gefahrenen Kilometer an.
+  "Cette voiture bouffe des *kilomètres* !"
+  "Dieses Auto *frisst* richtig *Kilometer*!"
 
-  La superficie de la ville est d'environ 100 kilomètres carrés.
-  Die Fläche der Stadt beträgt etwa 100 Quadratkilometer.
+  Au *kilomètre* 45,2 de la voie ferrée se trouve une petite gare.
+  Am Bahn*kilometer* 45,2 befindet sich ein kleiner Bahnhof.
 
-  Le bateau a parcouru 100 kilomètres de rivière en une journée.
-  Das Boot hat an einem Tag 100 Flusskilometer zurückgelegt.
+  Les randonneurs ont parcouru quinze *kilomètres* à pied aujourd'hui.
+  Die Wanderer sind heute fünfzehn *Kilometer* zu Fuß gelaufen.
 
-  Le vol Paris-New York a couvert 5 000 kilomètres en vol.
-  Der Flug von Paris nach New York hat 5.000 Flugkilometer zurückgelegt.
+  La limitation de vitesse est de cinquante *kilomètres*-heure en ville.
+  Die Geschwindigkeitsbegrenzung in der Stadt beträgt fünfzig *Kilometer* pro Stunde.
 
-  L'accident s'est produit au kilomètre 120,7 de la voie ferrée.
-  Der Unfall ereignete sich beim Bahnkilometer 120,7.
+  Pendant mes vacances, j'ai fait des *kilomètres* et des *kilomètres* à vélo.
+  In meinem Urlaub bin ich *kilometerweit* mit dem Fahrrad gefahren.
+
+  Le parc national s'étend sur 400 *kilomètres* carrés.
+  Der Nationalpark erstreckt sich über 400 Quadrat*kilometer*.
+
+  "Il raconte des histoires au *kilomètre*."
+  "Er erzählt Geschichten am laufenden Band."
+
+  Les *kilomètres* parcourus en avion sont comptabilisés pour le programme de fidélité.
+  Die geflogenen *Kilometer* werden für das Treueprogramm gezählt.
+
+  Le marathon fait exactement 42,195 *kilomètres*.
+  Der Marathon ist genau 42,195 *Kilometer* lang.
+
+  Les bouchons s'étendent sur plusieurs *kilomètres* ce matin.
+  Der Stau erstreckt sich heute Morgen über mehrere *Kilometer*.
+
+  À deux *kilomètres* d'ici se trouve un supermarché.
+  Zwei *Kilometer* von hier entfernt ist ein Supermarkt.
+
+  Le compteur de ma voiture affiche 150.000 *kilomètres*.
+  Der Tacho meines Autos zeigt 150.000 *Kilometer* an.
+
+  Sur ce tronçon de rivière, nous avons parcouru vingt *kilomètres* en canoë.
+  Auf diesem Flussabschnitt sind wir zwanzig *Kilometer* mit dem Kanu gefahren.
+
+  Le satellite orbite à 400 *kilomètres* au-dessus de la Terre.
+  Der Satellit kreist 400 *Kilometer* über der Erde.
+
+  La tempête a touché une zone de cent *kilomètres* de diamètre.
+  Der Sturm hat ein Gebiet mit einem Durchmesser von hundert *Kilometern* getroffen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

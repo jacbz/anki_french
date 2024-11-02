@@ -13,44 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les tribunaux jouent un rôle essentiel.
-  Die Gerichte spielen dabei eine entscheidende Rolle.
+  Les *tribunaux* jouent un rôle essentiel.
+  Die *Gerichte* spielen eine wichtige Rolle.
 
-  Le tribunal a rendu son verdict.
-  Das Gericht hat sein Urteil gefällt.
+  Le *tribunal* de commerce traitera cette affaire la semaine prochaine.
+  Das Handels*gericht* wird diesen Fall nächste Woche behandeln.
 
-  On se verra au tribunal.
-  Wir sehen uns vor Gericht.
+  Sophie va porter l'affaire devant les *tribunaux*.
+  Sophie wird mit der Sache vor *Gericht* gehen.
 
-  Ils ont décidé de porter l'affaire devant le tribunal pour obtenir justice.
-  Sie haben beschlossen, mit der Sache vor Gericht zu gehen, um Gerechtigkeit zu erlangen.
+  Le *tribunal* administratif a rejeté sa demande.
+  Das Verwaltungs*gericht* hat seinen Antrag abgelehnt.
 
-  Le tribunal de l'histoire jugera les actions de tous les dirigeants.
-  Das Urteil der Geschichte wird über die Handlungen aller Herrscher richten.
+  Le *tribunal* correctionnel a condamné l'accusé à trois ans de prison.
+  Das Straf*gericht* hat den Angeklagten zu drei Jahren Gefängnis verurteilt.
 
-  Le tribunal suprême est la plus haute instance judiciaire du pays.
-  Das höchste Gericht ist die höchste Instanz der Justiz im Land.
+  Le *tribunal* compétent se trouve à Marseille.
+  Das zuständige *Gericht* befindet sich in Marseille.
 
-  Le tribunal administratif est compétent pour les litiges relatifs à l'administration publique.
-  Das Verwaltungsgericht ist zuständig für Streitigkeiten im Bereich der öffentlichen Verwaltung.
+  Le *tribunal* fédéral suisse a rendu son jugement hier.
+  Das Schweizer Bundes*gericht* hat gestern sein Urteil gefällt.
 
-  Le tribunal correctionnel est compétent pour les crimes et délits.
-  Das Strafgericht ist zuständig für Verbrechen und Vergehen.
+  Le *tribunal* révolutionnaire a condamné des milliers de personnes.
+  Das Revolutions*gericht* hat tausende Menschen verurteilt.
 
-  Le tribunal compétent pour cette affaire est le tribunal de commerce.
-  Das zuständige Gericht für diese Angelegenheit ist das Handelsgericht.
+  Ce *tribunal* de première instance traite principalement des affaires civiles.
+  Dieses *Gericht* erster Instanz behandelt hauptsächlich Zivilsachen.
 
-  Le tribunal compétent pour les règlements judiciaires est spécialisé dans la résolution des conflits entre parties.
-  Das Vergleichsgericht ist spezialisiert auf die Beilegung von Streitigkeiten zwischen Parteien.
+  Le *tribunal* pour les crimes de guerre siège à La Haye.
+  Das Kriegsverbrecher*tribunal* tagt in Den Haag.
 
-  Le tribunal compétent au lieu d'exécution est celui où l'obligation doit être exécutée.
-  Der Gerichtsstand am Erfüllungsort ist der Ort, an dem die Verpflichtung zu erfüllen ist.
+  Les horaires du *tribunal* sont affichés sur le panneau d'entrée.
+  Die Öffnungszeiten des *Gerichts* sind am Eingang angeschlagen.
 
-  Le tribunal compétent du patrimoine est celui qui est compétent pour les litiges relatifs à l'héritage.
-  Der Gerichtsstand des Vermögens ist zuständig für Streitigkeiten im Zusammenhang mit dem Erbe.
+  Le nouveau *tribunal* sera inauguré le mois prochain.
+  Das neue *Gerichts*gebäude wird nächsten Monat eingeweiht.
 
-  Le tribunal de Rouen est seul compétent pour les litiges concernant les contrats de location dans cette région.
-  Gerichtsstand ist Rouen für Streitigkeiten über Mietverträge in dieser Region.
+  Le *tribunal* de l'histoire jugera ses actions.
+  Das Urteil der Geschichte wird über seine Taten richten.
+
+  Le *tribunal* suprême rendra justice à tous.
+  Das höchste *Gericht* wird allen Gerechtigkeit widerfahren lassen.
+
+  Les *tribunaux* administratifs sont surchargés de travail.
+  Die Verwaltungs*gerichte* sind mit Arbeit überlastet.
+
+  Le *tribunal* de dernière instance a confirmé la sentence.
+  Das *Gericht* letzter Instanz hat das Urteil bestätigt.
+
+  Marie travaille au *tribunal* depuis vingt ans.
+  Marie arbeitet seit zwanzig Jahren am *Gericht*.
+
+  Les *tribunaux* judiciaires examinent les preuves avec soin.
+  Die *Gerichte* prüfen die Beweise sorgfältig.
+
+  Le *tribunal* compétent au lieu d'exécution traitera cette affaire.
+  Das *Gericht* am Erfüllungsort wird diesen Fall behandeln.
+
+  Le *tribunal* de Rouen a été saisi de l'affaire.
+  Das *Gericht* in Rouen wurde mit dem Fall befasst.
+
+  Les audiences du *tribunal* sont publiques.
+  Die Verhandlungen des *Gerichts* sind öffentlich.
+
+  Le *tribunal* chargé de la tenue d'un registre a validé l'inscription.
+  Das Register*gericht* hat den Eintrag bestätigt.
+
+  Le *tribunal* compétent du patrimoine tranchera ce litige.
+  Das *Gericht* des Vermögens wird diesen Streit entscheiden.
+
+  Les *tribunaux* sont fermés pendant les jours fériés.
+  Die *Gerichte* sind an Feiertagen geschlossen.
+
+  L'avocat se rend au *tribunal* tous les jours.
+  Der Anwalt geht jeden Tag zum *Gericht*.
+
+  Le *tribunal* a acquitté l'accusé faute de preuves.
+  Das *Gericht* hat den Angeklagten aus Mangel an Beweisen freigesprochen.
+
+  Les décisions des *tribunaux* font jurisprudence.
+  Die Entscheidungen der *Gerichte* schaffen Präzedenzfälle.
+
+  Le *tribunal* siège dans un bâtiment historique.
+  Das *Gericht* tagt in einem historischen Gebäude.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

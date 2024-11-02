@@ -13,32 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La clinique a beaucoup de patients, mais je peux vous aider.
-  Die Klinik hat viele Patienten, aber ich kann Ihnen helfen.
+  La clinique a beaucoup de *patients*, mais je peux vous aider.
+  Die Klinik hat viele *Patienten*, aber ich kann Ihnen helfen.
 
-  Le patient a été très coopératif pendant l’examen.
-  Der Patient war während der Untersuchung sehr kooperativ.
+  Les *patients* doivent attendre dans la salle d'attente.
+  Die *Patienten* müssen im Wartezimmer warten.
 
-  Je suis un patient.
-  Ich bin ein Patient.
+  Le médecin examine chaque *patient* avec attention.
+  Der Arzt untersucht jeden *Patienten* sorgfältig.
 
-  Tu dois être patient.
-  Du musst geduldig sein.
+  Ma grand-mère est une *patiente* très courageuse.
+  Meine Großmutter ist eine sehr tapfere *Patientin*.
 
-  Il a appris à être patient.
-  Er hat gelernt, geduldig zu sein.
+  Il est important d'être *patient* avec les enfants qui apprennent à lire.
+  Es ist wichtig, *geduldig* mit Kindern zu sein, die lesen lernen.
 
-  Le patient est hors de danger à présent.
-  Der Patient ist jetzt außer Gefahr.
+  Le *patient* a besoin d'une intervention chirurgicale urgente.
+  Der *Patient* braucht einen dringenden chirurgischen Eingriff.
 
-  La mère de Marie doit être patiente avec son fils, qui est un enfant turbulent.
-  Die Mutter von Marie muss Geduld mit ihrem Sohn haben, der ein temperamentvolles Kind ist.
+  Sophie est une enseignante très *patiente*.
+  Sophie ist eine sehr *geduldige* Lehrerin.
 
-  Elle est une patiente à risque, car elle souffre de plusieurs maladies chroniques.
-  Sie ist eine Risikopatientin, da sie an mehreren chronischen Krankheiten leidet.
+  Le *patient zéro* a été identifié dans cette épidémie.
+  Der *Patient null* wurde in dieser Epidemie identifiziert.
 
-  C'est un esprit patient qui sait attendre le moment opportun.
-  Er ist ein geduldiger Mensch, der weiß, wann der richtige Moment gekommen ist.
+  Un chercheur doit être *patient* pour obtenir des résultats.
+  Ein Forscher muss *geduldig* sein, um Ergebnisse zu erzielen.
+
+  Cette infirmière s'occupe bien de ses *patients*.
+  Diese Krankenschwester kümmert sich gut um ihre *Patienten*.
+
+  Soyez *patient*, les résultats arriveront bientôt.
+  Seien Sie *geduldig*, die Ergebnisse kommen bald.
+
+  Le docteur Martin reçoit ses *patients* tous les matins.
+  Dr. Martin empfängt seine *Patienten* jeden Morgen.
+
+  Un travail *patient* finit toujours par porter ses fruits.
+  *Geduldige* Arbeit trägt immer Früchte.
+
+  Les *patients* à risque doivent être particulièrement surveillés.
+  *Risikopatienten* müssen besonders überwacht werden.
+
+  La *patiente* se remet peu à peu de son opération.
+  Die *Patientin* erholt sich allmählich von ihrer Operation.
+
+  Il faut être *patient* pour apprendre une langue étrangère.
+  Man muss *geduldig* sein, um eine Fremdsprache zu lernen.
+
+  Ce *patient* nécessite des soins intensifs.
+  Dieser *Patient* benötigt intensivmedizinische Betreuung.
+
+  Une observation *patiente* des étoiles révèle leurs secrets.
+  Eine *geduldige* Beobachtung der Sterne offenbart ihre Geheimnisse.
+
+  La *patiente* a quitté l'hôpital ce matin.
+  Die *Patientin* hat das Krankenhaus heute Morgen verlassen.
+
+  Son esprit *patient* lui permet de résoudre des énigmes complexes.
+  Sein *geduldiger* Geist ermöglicht es ihm, komplexe Rätsel zu lösen.
+
+  Les *patients* chroniques doivent suivre leur traitement régulièrement.
+  *Chronische Patienten* müssen ihre Behandlung regelmäßig fortsetzen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

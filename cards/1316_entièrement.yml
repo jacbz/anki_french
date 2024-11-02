@@ -13,20 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis entièrement d’accord avec vous.
-  Ich stimme Ihnen voll und ganz zu.
+  Je suis *entièrement* d'accord avec vous.
+  Ich bin *völlig* einverstanden mit Ihnen.
 
-  Je suis entièrement d’accord avec toi.
-  Ich bin vollständig deiner Meinung.
+  Il faut *entièrement* recommencer le projet.
+  Wir müssen das Projekt *ganz* von vorn beginnen.
 
-  Nous l’avons entièrement fait.
-  Wir haben es vollständig getan.
+  La bouteille est *entièrement* vide maintenant.
+  Die Flasche ist jetzt *völlig* leer.
 
-  C’est entièrement de ta faute.
-  Das ist ganz allein deine Schuld.
+  Elle s'est *entièrement* consacrée à ses études.
+  Sie hat sich *ganz* ihrem Studium gewidmet.
 
-  Ils ont décidé de recommencer entièrement leur projet.
-  Sie haben beschlossen, ihr Projekt ganz von vorn zu beginnen.
+  Paul n'est jamais *entièrement* concentré sur son travail.
+  Paul ist nie *ganz* bei der Arbeit.
+
+  La famille est *entièrement* ruinée après cette catastrophe.
+  Die Familie ist nach dieser Katastrophe *völlig* ruiniert.
+
+  Tu n'as pas *entièrement* tort dans cette situation.
+  Du hast in dieser Situation nicht *ganz* unrecht.
+
+  Le musée sera *entièrement* rénové l'année prochaine.
+  Das Museum wird nächstes Jahr *vollständig* renoviert.
+
+  J'ai *entièrement* confiance en toi.
+  Ich vertraue dir *völlig*.
+
+  La ville a été *entièrement* reconstruite après la guerre.
+  Die Stadt wurde nach dem Krieg *vollständig* wiederaufgebaut.
+
+  Marie s'est *entièrement* remise de sa maladie.
+  Marie hat sich von ihrer Krankheit *völlig* erholt.
+
+  Le problème est *entièrement* résolu maintenant.
+  Das Problem ist jetzt *vollständig* gelöst.
+
+  Cette décision dépend *entièrement* de toi.
+  Diese Entscheidung liegt *ganz* bei dir.
+
+  Le document a été *entièrement* traduit en trois langues.
+  Das Dokument wurde *vollständig* in drei Sprachen übersetzt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

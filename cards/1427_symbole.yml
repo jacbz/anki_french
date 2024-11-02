@@ -13,11 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je peux déchiffrer les symboles.
-  Ich kann die Symbole entziffern.
+  Je peux déchiffrer les *symboles*.
+  Ich kann die *Symbole* entziffern.
 
-  Le drapeau est un symbole national.
-  Die Flagge ist ein nationales Symbol.
+  La colombe est un *symbole* de paix et d'espoir.
+  Die Taube ist ein *Symbol* des Friedens und der Hoffnung.
+
+  Les élèves récitent le *symbole* des apôtres chaque matin.
+  Die Schüler sprechen jeden Morgen das apostolische *Glaubensbekenntnis*.
+
+  Le drapeau national est le *symbole* de notre unité.
+  Die Nationalfahne ist das *Symbol* unserer Einheit.
+
+  Cette alliance est le *symbole* de notre amour.
+  Dieser Ring ist das *Symbol* unserer Liebe.
+
+  Nelson Mandela est devenu un *symbole* de la lutte contre l'apartheid.
+  Nelson Mandela wurde zu einem *Symbol* des Kampfes gegen die Apartheid.
+
+  Le "H" est le *symbole* chimique de l'hydrogène.
+  "H" ist das chemische *Symbol* für Wasserstoff.
+
+  Les pyramides sont le *symbole* de l'Égypte ancienne.
+  Die Pyramiden sind das *Symbol* des alten Ägyptens.
+
+  Le lion est un *symbole* de force et de courage.
+  Der Löwe ist ein *Symbol* der Stärke und des Muts.
+
+  Les mathématiciens utilisent différents *symboles* pour écrire leurs formules.
+  Mathematiker verwenden verschiedene *Symbole*, um ihre Formeln zu schreiben.
+
+  Cette manifestation est devenue le *symbole* de la résistance populaire.
+  Diese Demonstration wurde zum *Symbol* des Volkswiderstands.
+
+  Dans la mythologie, le serpent est un *symbole* de sagesse.
+  In der Mythologie ist die Schlange ein *Symbol* der Weisheit.
+
+  Les panneaux routiers sont des *symboles* que tous les conducteurs doivent connaître.
+  Verkehrsschilder sind *Symbole*, die alle Fahrer kennen müssen.
+
+  Le phénix est un *symbole* de renaissance dans de nombreuses cultures.
+  Der Phönix ist in vielen Kulturen ein *Symbol* der Wiedergeburt.
+
+  Les *symboles* sur cette carte indiquent l'emplacement des monuments.
+  Die *Symbole* auf dieser Karte zeigen die Lage der Denkmäler an.
+
+  Cette entreprise est devenue le *symbole* de l'innovation technologique.
+  Dieses Unternehmen ist zum *Symbol* für technologische Innovation geworden.
+
+  Les tatouages peuvent être des *symboles* personnels très significatifs.
+  Tattoos können sehr bedeutungsvolle persönliche *Symbole* sein.
+
+  Le "€" est le *symbole* de la monnaie européenne.
+  Das "€" ist das *Symbol* der europäischen Währung.
+
+  La balance est un *symbole* de justice.
+  Die Waage ist ein *Symbol* der Gerechtigkeit.
+
+  Les *symboles* religieux sont interdits dans certains lieux publics.
+  *Symbole* religiöser Art sind an manchen öffentlichen Orten verboten.
+
+  L'infini "∞" est un *symbole* mathématique universel.
+  Das Unendlichzeichen "∞" ist ein universelles mathematisches *Symbol*.
+
+  Chaque culture a ses propres *symboles* de deuil.
+  Jede Kultur hat ihre eigenen Trauer*symbole*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

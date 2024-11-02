@@ -9,17 +9,75 @@ Femininum / Plural: ''
 IPA: \de.fi.ni.sjɔ̃\
 Definition: Definition
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Je voudrais savoir quelle est sa définition d’égalité.\nIch möchte\
-  \ wissen, wie sie Gleichheit definiert.\n\nJe ne comprends pas la définition de\
-  \ ce mot.\nIch verstehe die Definition dieses Wortes nicht.\n\nUne définition d'un\
-  \ mot est une explication de son sens. \nEine Begriffsbestimmung ist eine Erklärung\
-  \ der Bedeutung eines Begriffs.\n\nLe professeur a donné une définition de l'évolution.\n\
-  Der Professor hat die Evolution beschrieben.\n\nPar définition, un triangle a trois\
-  \ côtés. \nDefinitionsgemäß hat ein Dreieck drei Seiten.\n\nLa définition légale\
-  \ du vol est l'appropriation illégale d'un bien appartenant à autrui. \nDie Legaldefinition\
-  \ von Diebstahl ist die widerrechtliche Aneignung fremder Sachen.\n\nCet appareil\
-  \ photo prend des photos en haute définition. \nDiese Kamera macht Fotos mit hoher\
-  \ Bildauflösung."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Je voudrais savoir quelle est sa *définition* d'égalité.
+  Ich möchte wissen, was seine *Definition* von Gleichheit ist.
+
+  La *définition* de ce concept est compliquée à établir.
+  Die *Definition* dieses Konzepts ist schwierig festzulegen.
+
+  Les élèves doivent apprendre la *définition* du cercle par cœur.
+  Die Schüler müssen die *Definition* des Kreises auswendig lernen.
+
+  La télévision en haute *définition* offre une meilleure qualité d'image.
+  Das Fernsehen in hoher *Auflösung* bietet eine bessere Bildqualität.
+
+  Le professeur nous a donné une *définition* claire et précise du mot.
+  Der Lehrer hat uns eine klare und präzise *Definition* des Wortes gegeben.
+
+  Cette proposition est vraie par *définition*.
+  Diese Aussage ist *definitions*gemäß wahr.
+
+  La *définition* de notre public cible est essentielle pour la campagne.
+  Die *Beschreibung* unserer Zielgruppe ist wesentlich für die Kampagne.
+
+  J'ai du mal à résoudre les *définitions* de ces mots croisés.
+  Ich tue mich schwer damit, die *Definitionen* dieses Kreuzworträtsels zu lösen.
+
+  La *définition* légale du terme a été modifiée l'année dernière.
+  Die gesetzliche *Definition* des Begriffs wurde letztes Jahr geändert.
+
+  L'appareil photo permet des photos en haute *définition*.
+  Die Kamera ermöglicht Fotos in hoher *Auflösung*.
+
+  Cette *définition* du dictionnaire n'est pas très utile.
+  Diese *Definition* im Wörterbuch ist nicht sehr hilfreich.
+
+  Par *définition*, un triangle a trois côtés.
+  Ein Dreieck hat *definitions*gemäß drei Seiten.
+
+  La *définition* de cette fonction mathématique est complexe.
+  Die *Definition* dieser mathematischen Funktion ist komplex.
+
+  Quelle est votre *définition* du bonheur ?
+  Was ist Ihre *Definition* von Glück?
+
+  La *définition* d'un produit innovant demande beaucoup de réflexion.
+  Die *Charakterisierung* eines innovativen Produkts erfordert viel Nachdenken.
+
+  L'écran affiche une image en haute *définition*.
+  Der Bildschirm zeigt ein Bild in hoher *Auflösung*.
+
+  Cette *définition* nominale explique l'origine du mot.
+  Diese nominale *Definition* erklärt die Herkunft des Wortes.
+
+  Le domaine de *définition* de cette fonction est l'ensemble des réels.
+  Der *Definitions*bereich dieser Funktion ist die Menge der reellen Zahlen.
+
+  La *définition* de ce mot a évolué au fil du temps.
+  Die *Definition* dieses Wortes hat sich im Laufe der Zeit entwickelt.
+
+  Je cherche une *définition* simple pour expliquer ce concept aux enfants.
+  Ich suche eine einfache *Definition*, um dieses Konzept den Kindern zu erklären.
+
+  Une bonne *définition* doit être précise et concise.
+  Eine gute *Definition* muss präzise und knapp sein.
+
+  L'image manque de *définition*, elle est floue.
+  Dem Bild fehlt es an *Auflösung*, es ist verschwommen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

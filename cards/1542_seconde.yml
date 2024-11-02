@@ -13,38 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Au bout de quelques secondes tout reprend.
-  Nach einigen Sekunden geht alles wieder weiter.
+  Au bout de quelques *secondes* tout reprend.
+  Nach einigen *Sekunden* geht alles weiter.
 
-  Il y a soixante secondes dans une minute.
-  Es gibt sechzig Sekunden in einer Minute.
+  "Attendez une *seconde*, je cherche mon sac !"
+  "Eine *Sekunde*, ich suche meine Tasche!"
 
-  Donne-moi une seconde !
-  Gib mir eine Sekunde!
+  Le train de première classe était complet, donc j'ai pris un billet en *seconde*.
+  Der Erste-Klasse-Zug war voll, also habe ich eine Fahrkarte für die *zweite Klasse* gekauft.
 
-  Puis-je vous voir une seconde ?
-  Kann ich Sie kurz sprechen?
+  Paul passera en *seconde* l'année prochaine.
+  Paul kommt nächstes Jahr in die *zehnte Klasse*.
 
-  Je suis à vous dans une seconde.
-  Ich bin in einer Sekunde bei Ihnen.
+  La voiture ne démarre pas en *seconde*.
+  Das Auto springt im *zweiten Gang* nicht an.
 
-  Il sera de retour dans une seconde.
-  Er wird in einer Sekunde wieder da sein.
+  En une *seconde*, tout a basculé.
+  In einer *Sekunde* hat sich alles verändert.
 
-  Patiente deux secondes, je finis juste d'écrire ce mot.
-  Sich einen Moment gedulden, ich schreibe nur noch schnell diesen Satz zu Ende.
+  Une *seconde* mère l'a élevé après le décès de ses parents.
+  Eine *zweite* Mutter hat ihn nach dem Tod seiner Eltern großgezogen.
 
-  Le train est arrivé à une seconde près, comme prévu.
-  Der Zug ist auf die Sekunde genau angekommen, wie erwartet.
+  Le chronomètre s'est arrêté à quinze *secondes*.
+  Die Stoppuhr blieb bei fünfzehn *Sekunden* stehen.
 
-  J'ai voyagé en billet de seconde pour économiser de l'argent.
-  Ich bin mit einem Ticket zweiter Klasse gereist, um Geld zu sparen.
+  Marie joue du violon *second* dans l'orchestre.
+  Marie spielt die *zweite* Geige im Orchester.
 
-  Une seconde, j'arrive!
-  Sekunde, ich komme!
+  Il est arrivé à la dernière *seconde*.
+  Er kam in der letzten *Sekunde*.
 
-  J'ai raté le bus à quelques secondes près, c'est rageant!
-  Ich habe den Bus um ein paar Sekunden verpasst, das ist ärgerlich!
+  La trotteuse indique les *secondes* sur ma montre.
+  Der Sekundenzeiger zeigt die *Sekunden* auf meiner Uhr an.
+
+  Elle n'a pas une *seconde* à elle avec ses trois enfants.
+  Sie hat mit ihren drei Kindern keine *Sekunde* für sich.
+
+  Je ne te crois pas une *seconde*.
+  Ich glaube dir keine *Sekunde*.
+
+  La *seconde* partie du film était meilleure que la première.
+  Der *zweite* Teil des Films war besser als der erste.
+
+  Les astronomes mesurent la position des étoiles en *secondes* d'arc.
+  Die Astronomen messen die Position der Sterne in Bogen*sekunden*.
+
+  D'une *seconde* à l'autre, le téléphone va sonner.
+  Von einer *Sekunde* zur anderen wird das Telefon klingeln.
+
+  Il court à sept mètres par *seconde*.
+  Er läuft sieben Meter pro *Sekunde*.
+
+  À la *seconde* où elle est entrée, tout le monde s'est tu.
+  In der *Sekunde*, als sie eintrat, verstummten alle.
+
+  "Je reviens dans une *seconde*!"
+  "Ich bin in einer *Sekunde* zurück!"
+
+  Son temps de réaction est de deux *secondes*.
+  Seine Reaktionszeit beträgt zwei *Sekunden*.
+
+  Elle a terminé *seconde* de sa promotion.
+  Sie wurde *Zweite* in ihrem Jahrgang.
+
+  L'espace d'une *seconde*, j'ai cru le reconnaître.
+  Für eine *Sekunde* dachte ich, ich würde ihn erkennen.
+
+  Il n'y a pas une *seconde* à perdre !
+  Es ist keine *Sekunde* zu verlieren!
+
+  Dans la *seconde*, il a réagi.
+  Er hat *sofort* reagiert.
+
+  Le *second* volume sera publié au printemps.
+  Der *zweite* Band wird im Frühling veröffentlicht.
+
+  Montez au *second* étage, c'est la porte à droite.
+  Gehen Sie in den *zweiten* Stock, es ist die Tür rechts.
+
+  Elle réfléchit une fraction de *seconde* avant de répondre.
+  Sie überlegte den Bruchteil einer *Sekunde*, bevor sie antwortete.
+
+  Le *second* du navire a pris le commandement.
+  Der *Zweite* des Schiffes übernahm das Kommando.
+
+  Vous n'êtes pas à la *seconde* près !
+  Sie müssen nicht auf die *Sekunde* genau sein!
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

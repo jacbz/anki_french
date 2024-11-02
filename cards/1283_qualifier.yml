@@ -13,32 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On doit se qualifier pour le tournoi.
-  Wir müssen uns für das Turnier qualifizieren.
+  On doit se *qualifier* pour le tournoi.
+  Man muss sich für das Turnier *qualifizieren*.
 
-  Paul qualifie cet acte de vol.
-  Paul bezeichnet diese Tat als Diebstahl.
+  Marie ne trouve pas de mots pour *qualifier* son comportement.
+  Marie findet keine Worte, um sein Verhalten zu *bezeichnen*.
 
-  L'équipe de France s'est qualifiée pour la finale de la Coupe du Monde.
-  Die französische Mannschaft hat sich für das Finale der Weltmeisterschaft qualifiziert.
+  "Tu n'es pas *qualifié* pour me donner des conseils !"
+  "Du bist nicht *befähigt*, mir Ratschläge zu geben!"
 
-  Ne le qualifiez pas de menteur, il ne fait que répéter ce qu'il a entendu.
-  Nennen Sie ihn nicht Lügner, er gibt nur wieder, was er gehört hat.
+  Son diplôme la *qualifie* pour enseigner à l'université.
+  Ihr Diplom *berechtigt* sie dazu, an der Universität zu unterrichten.
 
-  Ce stage intensif la qualifiera pour le poste d'ingénieure.
-  Dieses Intensivpraktikum wird sie für die Stelle als Ingenieurin qualifizieren.
+  L'équipe s'est *qualifiée* pour la finale de la Coupe du monde.
+  Die Mannschaft hat sich für das WM-Finale *qualifiziert*.
 
-  Son diplôme d'avocat le qualifie pour plaider devant toutes les juridictions.
-  Sein Jurastudium berechtigt ihn dazu, vor allen Gerichten aufzutreten.
+  Dans cette phrase, l'adjectif 'grand' *qualifie* le nom 'maison'.
+  In diesem Satz *bestimmt* das Adjektiv 'groß' das Substantiv 'Haus' näher.
 
-  Son expérience et son talent la qualifient pour ce poste à responsabilité.
-  Ihre Erfahrung und ihr Talent qualifizieren sie für diese verantwortungsvolle Position.
+  Je ne saurais *qualifier* une telle attitude.
+  Ich kann ein solches Verhalten nicht *einordnen*.
 
-  Voilà une conduite qu'on ne saurait qualifier : c'est inadmissible !
-  Dieses Benehmen ist einfach unbeschreiblich: Das ist inakzeptabel!
+  Le tribunal a *qualifié* ces propos de diffamatoires.
+  Das Gericht hat diese Äußerungen als verleumderisch *eingestuft*.
 
-  Nous sommes qualifiés pour la finale, nous allons tout donner !
-  Wir haben uns für das Finale qualifiziert, jetzt geben wir alles!
+  Son expérience le *qualifie* parfaitement pour ce poste.
+  Seine Erfahrung *befähigt* ihn perfekt für diese Stelle.
+
+  Elle m'a *qualifié* d'incompétent devant tout le monde.
+  Sie hat mich vor allen als inkompetent *bezeichnet*.
+
+  Le temps qu'elle a réalisé la *qualifie* pour les championnats.
+  Mit ihrer erreichten Zeit hat sie sich für die Meisterschaften *qualifiziert*.
+
+  Nous cherchons du personnel *qualifié*.
+  Wir suchen *qualifiziertes* Personal.
+
+  Comment *qualifier* un tel acte de courage ?
+  Wie soll man einen solchen Mut *bezeichnen*?
+
+  Les médias ont *qualifié* cette décision de scandaleuse.
+  Die Medien haben diese Entscheidung als skandalös *bezeichnet*.
+
+  La formation *qualifie* les étudiants pour le marché du travail.
+  Die Ausbildung *befähigt* die Studenten für den Arbeitsmarkt.
+
+  Ces athlètes se sont *qualifiés* pour les Jeux olympiques.
+  Diese Athleten haben sich für die Olympischen Spiele *qualifiziert*.
+
+  Je refuse de *qualifier* sa conduite de normale.
+  Ich weigere mich, sein Verhalten als normal zu *bezeichnen*.
+
+  Son master la *qualifie* pour diriger le projet.
+  Ihr Master *befähigt* sie dazu, das Projekt zu leiten.
+
+  Les juges ont *qualifié* l'incident d'accident.
+  Die Richter haben den Vorfall als Unfall *eingestuft*.
+
+  Trois équipes se sont *qualifiées* pour la phase finale.
+  Drei Mannschaften haben sich für die Finalrunde *qualifiziert*.
+
+  L'adjectif 'rouge' *qualifie* le nom 'voiture'.
+  Das Adjektiv 'rot' *bestimmt* das Nomen 'Auto' näher.
+
+  Cette expérience me *qualifie* pour le poste.
+  Diese Erfahrung *befähigt* mich für die Stelle.
+
+  Les critiques ont *qualifié* ce film de chef-d'œuvre.
+  Die Kritiker haben diesen Film als Meisterwerk *bezeichnet*.
+
+  Le jury a *qualifié* ces preuves d'insuffisantes.
+  Die Jury hat diese Beweise als unzureichend *eingestuft*.
+
+  Elle s'est *qualifiée* pour la demi-finale.
+  Sie hat sich für das Halbfinale *qualifiziert*.
+
+  Cette formation vous *qualifiera* pour ce métier.
+  Diese Ausbildung wird Sie für diesen Beruf *qualifizieren*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,41 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’éteins mon émetteur radio.
-  Ich schalte meinen Radiosender aus.
+  J'éteins mon émetteur *radio*.
+  Ich schalte meinen *Funk*sender aus.
 
-  J’écoute la radio tous les matins.
-  Ich höre jeden Morgen Radio.
+  Je passe mon temps à écouter la *radio*.
+  Ich verbringe meine Zeit damit, *Radio* zu hören.
 
-  Il est à la radio.
-  Er ist im Radio.
+  Le médecin m'a conseillé de faire une *radio* du genou.
+  Der Arzt hat mir geraten, eine *Röntgenaufnahme* vom Knie machen zu lassen.
 
-  Il sait comment faire une radio.
-  Er weiß, wie man ein Röntgenbild macht.
+  Le pilote attend les instructions par *radio*.
+  Der Pilot wartet auf Anweisungen über *Funk*.
 
-  Avez-vous entendu la nouvelle à la radio ce matin?
-  Haben Sie die Nachricht heute Morgen im Radio gehört?
+  Cette nouvelle chanson passe souvent à la *radio*.
+  Dieses neue Lied kommt oft im *Radio*.
 
-  Je vais passer à la radio pour annoncer mon concert.
-  Ich werde im Radio meine Konzertankündigung machen.
+  Le *radio* du navire a envoyé un signal de détresse.
+  Der *Funker* des Schiffes hat ein Notsignal gesendet.
 
-  Le médecin m'a conseillé de passer à la radio pour vérifier mon poignet.
-  Der Arzt hat mir geraten, eine Röntgenaufnahme meines Handgelenks machen zu lassen.
+  La *radio* locale diffuse les informations météorologiques.
+  Der Regional*sender* überträgt die Wettervorhersage.
 
-  J'écoute la radio locale tous les matins pour les informations locales.
-  Ich höre jeden Morgen das Regionalradio, um die lokalen Nachrichten zu hören.
+  Les communications *radio* ont été interrompues pendant l'orage.
+  Der *Funk*verkehr wurde während des Gewitters unterbrochen.
 
-  J'ai allumé la radio pour écouter de la musique.
-  Ich habe das Radio eingeschaltet, um Musik zu hören.
+  Cette petite *radio* fonctionne avec des piles.
+  Dieses kleine *Radio* läuft mit Batterien.
 
-  J'ai éteint la radio avant de dormir.
-  Ich habe das Radio ausgeschaltet, bevor ich schlafen gegangen bin.
+  La *radio* libre diffuse de la musique alternative.
+  Das freie *Radio* sendet alternative Musik.
 
-  La radio libre offre une alternative aux stations commerciales.
-  Freies Radio bietet eine Alternative zu kommerziellen Sendern.
+  Le message *radio* n'était pas très clair.
+  Der *Funk*spruch war nicht sehr deutlich.
 
-  Les communications radio en vol sont essentielles pour la sécurité des passagers.
-  Der Flugfunkverkehr ist für die Sicherheit der Passagiere unerlässlich.
+  Ma grand-mère allume toujours sa *radio* le matin.
+  Meine Großmutter schaltet morgens immer ihr *Radio* an.
+
+  Les ondes *radio* permettent la transmission du son.
+  *Funk*wellen ermöglichen die Übertragung von Ton.
+
+  La *radio* numérique offre une meilleure qualité sonore.
+  Das Digital*radio* bietet eine bessere Tonqualität.
+
+  Le dentiste examine la *radio* de mes dents.
+  Der Zahnarzt untersucht die *Röntgenaufnahme* meiner Zähne.
+
+  La voiture *radio* de la police patrouille dans les rues.
+  Der *Funk*wagen der Polizei patrouilliert durch die Straßen.
+
+  Cette *radio* privée emploie dix journalistes.
+  Dieser private *Sender* beschäftigt zehn Journalisten.
+
+  Le *radio* de l'avion vérifie la météo.
+  Der *Funker* des Flugzeugs überprüft das Wetter.
+
+  Les liaisons *radio* sont essentielles en mer.
+  *Funk*verbindungen sind auf See unverzichtbar.
+
+  Cette émission de *radio* est diffusée en direct.
+  Diese *Radio*sendung wird live übertragen.
+
+  La station de *radio* organise un concours.
+  Der *Radio*sender veranstaltet ein Gewinnspiel.
+
+  L'hôpital a un service de *radio*.
+  Das Krankenhaus hat eine *Röntgen*abteilung.
+
+  La *radio* du taxi grésille constamment.
+  Das *Funkgerät* des Taxis rauscht ständig.
+
+  Les soldats maintiennent un silence *radio* total.
+  Die Soldaten halten absolutes *Funk*schweigen.
+
+  Une nouvelle *radio* locale s'est installée dans notre ville.
+  Ein neuer lokaler *Radio*sender hat sich in unserer Stadt niedergelassen.
+
+  Mon téléphone peut capter la *radio*.
+  Mein Handy kann *Radio* empfangen.
+
+  Les pompiers communiquent par *radio*.
+  Die Feuerwehrleute kommunizieren über *Funk*.
+
+  Le bruit de la *radio* m'empêche de dormir.
+  Der Lärm des *Radios* hält mich vom Schlafen ab.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

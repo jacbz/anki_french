@@ -13,20 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Un lancement d’opération demande la réalisation d’une action.
-  Eine Operationsfreigabe verlangt die Durchführung einer Aktion.
+  Un lancement d'opération demande la *réalisation* d'une action.
+  Ein Operationsstart erfordert die *Durchführung* einer Aktion.
 
-  La réalisation de ce projet est très importante.
-  Die Umsetzung dieses Projekts ist sehr wichtig.
+  La *réalisation* de ce projet prendra environ deux ans.
+  Die *Verwirklichung* dieses Projekts wird ungefähr zwei Jahre dauern.
 
-  La réalisation d'une nouvelle ligne de métro est prévue pour l'année prochaine.
-  Die Baurealisierung einer neuen Metro-Linie ist für das nächste Jahr geplant.
+  Cette maison représente la plus belle *réalisation* de l'architecte.
+  Dieses Haus ist das schönste *Werk* des Architekten.
 
-  Les réalisations économiques de la France sont notables ces dernières années.
-  Auf wirtschaftlichem Gebiet sind in den letzten Jahren in Frankreich beachtliche Ergebnisse erzielt worden.
+  La *réalisation* du film a coûté plus de 100 millions d'euros.
+  Die *Regie* des Films hat mehr als 100 Millionen Euro gekostet.
 
-  La réalisation juridique du droit est un processus complexe.
-  Die Rechtsdurchsetzung ist ein komplexer Prozess.
+  Il a supervisé la *réalisation* de nombreuses émissions de télévision.
+  Er hat die *Regie* bei vielen Fernsehsendungen geführt.
+
+  Les *réalisations* médicales des dernières années sont impressionnantes.
+  Die medizinischen *Errungenschaften* der letzten Jahre sind beeindruckend.
+
+  Nous avons procédé à la *réalisation* des actifs de l'entreprise.
+  Wir haben die *Liquidierung* der Firmenaktiva vorgenommen.
+
+  La *réalisation* de ce rêve semblait impossible.
+  Die *Verwirklichung* dieses Traums schien unmöglich.
+
+  Cette exposition présente les meilleures *réalisations* des étudiants.
+  Diese Ausstellung zeigt die besten *Werke* der Studenten.
+
+  La *réalisation* de cette expérience nécessite beaucoup de précision.
+  Die *Durchführung* dieses Experiments erfordert große Präzision.
+
+  Le compositeur a travaillé sur la *réalisation* de la basse continue.
+  Der Komponist hat an der *Ausarbeitung* des Generalbasses gearbeitet.
+
+  La *réalisation* du contrat a été retardée de plusieurs mois.
+  Der *Abschluss* des Vertrags hat sich um mehrere Monate verzögert.
+
+  Cette invention attend encore sa *réalisation* concrète.
+  Diese Erfindung wartet noch auf ihre konkrete *Ausführung*.
+
+  La *réalisation* du pont a nécessité des techniques innovantes.
+  Die *Realisierung* der Brücke erforderte innovative Techniken.
+
+  Les travaux de *réalisation* du métro avancent rapidement.
+  Die *Bauarbeiten* der U-Bahn schreiten schnell voran.
+
+  La *réalisation* de ce court métrage lui a valu un prix.
+  Die *Regie* dieses Kurzfilms brachte ihm einen Preis ein.
+
+  Cette *réalisation* technique représente une avancée majeure.
+  Diese technische *Errungenschaft* stellt einen großen Fortschritt dar.
+
+  La *réalisation* de ces objectifs demandera beaucoup d'efforts.
+  Die *Verwirklichung* dieser Ziele wird viel Anstrengung erfordern.
+
+  Les *réalisations* de cette équipe sont remarquables.
+  Die *Leistungen* dieses Teams sind bemerkenswert.
+
+  La *réalisation* de ce documentaire a duré trois ans.
+  Die *Regie* dieser Dokumentation dauerte drei Jahre.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

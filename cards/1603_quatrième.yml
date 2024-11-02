@@ -13,20 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est mon quatrième séjour en france.
-  Dies ist mein vierter Aufenthalt in Frankreich.
+  C'est mon *quatrième* séjour en France.
+  Das ist mein *vierter* Aufenthalt in Frankreich.
 
-  Il est en quatrième année de médecine.
-  Er ist im vierten Jahr seines Medizinstudiums.
+  Elle habite au *quatrième* étage d'un immeuble sans ascenseur.
+  Sie wohnt im *vierten* Stock eines Hauses ohne Aufzug.
 
-  Ils ont un appartement au quatrième étage.
-  Sie haben eine Wohnung im vierten Stock.
+  Mon fils est en *quatrième* au collège.
+  Mein Sohn ist in der *achten* Klasse.
 
-  Le quatrième étage est réservé aux employés.
-  Der vierte Stock ist den Angestellten vorbehalten.
+  Il a passé la *quatrième* et a accéléré sur l'autoroute.
+  Er hat in den *vierten* Gang geschaltet und auf der Autobahn beschleunigt.
 
-  C'est la quatrième fois que je te le dis.
-  Das ist das vierte Mal, dass ich es dir sage.
+  "Il est parti en *quatrième* vitesse quand il a vu son ex."
+  "Er ist *in Windeseile* verschwunden, als er seine Ex gesehen hat."
+
+  La *quatrième* symphonie de Mozart est moins connue que sa quarantième.
+  Die *vierte* Symphonie von Mozart ist weniger bekannt als seine vierzigste.
+
+  Nous vivons dans le *quatrième* arrondissement de Paris.
+  Wir leben im *vierten* Arrondissement von Paris.
+
+  Le temps est considéré comme la *quatrième* dimension.
+  Die Zeit wird als die *vierte* Dimension betrachtet.
+
+  La *quatrième* de couverture résume bien l'histoire du livre.
+  Der *Klappentext* auf der Rückseite fasst die Geschichte des Buches gut zusammen.
+
+  Julie est arrivée *quatrième* à la compétition de natation.
+  Julie ist bei dem Schwimmwettbewerb als *Vierte* angekommen.
+
+  Nous avons besoin d'un *quatrième* joueur pour le bridge.
+  Wir brauchen einen *vierten* Spieler für Bridge.
+
+  La *quatrième* partie du gâteau est pour toi.
+  Das *vierte* Stück vom Kuchen ist für dich.
+
+  Il ne nous reste qu'un *quatrième* du budget initial.
+  Uns bleibt nur noch ein *Viertel* des ursprünglichen Budgets.
+
+  Les personnes du *quatrième* âge ont besoin d'une attention particulière.
+  Menschen im hohen *Alter* brauchen besondere Aufmerksamkeit.
+
+  C'est notre *quatrième* rendez-vous, et je suis toujours aussi nerveux.
+  Das ist unser *viertes* Date, und ich bin immer noch so nervös.
+
+  La danseuse a exécuté une *quatrième* position parfaite.
+  Die Tänzerin hat eine perfekte *vierte* Position ausgeführt.
+
+  Avril est le *quatrième* mois de l'année.
+  April ist der *vierte* Monat des Jahres.
+
+  Cette équation du *quatrième* degré est particulièrement complexe.
+  Diese Gleichung *vierten* Grades ist besonders komplex.
+
+  J'ai une *quatrième* majeure à cœur.
+  Ich habe eine *Quarte* in Herz.
+
+  Ma sœur est la *quatrième* d'une famille de sept enfants.
+  Meine Schwester ist die *Vierte* von sieben Kindern.
+
+  Les élèves de *quatrième* préparent leur voyage scolaire.
+  Die *Achtklässler* bereiten ihre Klassenfahrt vor.
+
+  Paul a fait ses bagages en *quatrième* vitesse pour ne pas rater son train.
+  Paul hat in *Windeseile* seine Koffer gepackt, um seinen Zug nicht zu verpassen.
+
+  Le *quatrième* exemplaire du livre est gratuit.
+  Das *vierte* Exemplar des Buches ist kostenlos.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

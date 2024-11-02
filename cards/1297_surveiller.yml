@@ -13,23 +13,104 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je vais te surveiller, je sais où tu habites.
-  Ich werde dich beobachten, ich weiß, wo du wohnst.
+  Je vais te *surveiller*, je sais où tu habites.
+  Ich werde dich *beobachten*, ich weiß, wo du wohnst.
 
-  Je dois surveiller mon enfant.
-  Ich muss mein Kind beaufsichtigen.
+  Les parents doivent *surveiller* leurs enfants dans la piscine.
+  Die Eltern müssen ihre Kinder im Schwimmbad *beaufsichtigen*.
 
-  Pouvez-vous rester et surveiller les enfants ?
-  Können Sie bleiben und die Kinder beaufsichtigen?
+  Il faut bien *surveiller* le gâteau au four pour qu'il ne brûle pas.
+  Man muss den Kuchen im Ofen gut *beobachten*, damit er nicht verbrennt.
 
-  Tu devrais surveiller les enfants de temps en temps.
-  Du solltest ab und zu auf die Kinder aufpassen.
+  Les caméras *surveillent* chaque coin de la banque.
+  Die Kameras *überwachen* jede Ecke der Bank.
 
-  La sœur de Marie a passé la nuit à surveiller un malade à l'hôpital.
-  Die Schwester von Marie hat die Nacht damit verbracht, bei einem Kranken im Krankenhaus Wache zu halten.
+  "Je dois me *surveiller* car j'ai pris du poids."
+  "Ich muss *auf mich achten*, weil ich zugenommen habe."
 
-  Le professeur surveillait attentivement les élèves pendant l'examen.
-  Der Professor hat während der Prüfung die Aufsicht über die Schüler geführt.
+  Le professeur *surveille* l'examen avec attention.
+  Der Lehrer *führt* bei der Prüfung *Aufsicht*.
+
+  Les médecins *surveillent* son état de santé après l'opération.
+  Die Ärzte *überwachen* seinen Gesundheitszustand nach der Operation.
+
+  Le berger *surveille* son troupeau dans les montagnes.
+  Der Schäfer *bewacht* seine Herde in den Bergen.
+
+  Elle *surveille* attentivement sa tension artérielle.
+  Sie *überwacht* sorgfältig ihren Blutdruck.
+
+  Le chat *surveillait* la souris du coin de l'œil.
+  Die Katze *behielt* die Maus aus dem Augenwinkel *im Auge*.
+
+  Les policiers *surveillent* les faits et gestes du suspect.
+  Die Polizisten *beobachten* das Verhalten des Verdächtigen.
+
+  L'infirmière *surveille* le malade pendant la nuit.
+  Die Krankenschwester *wacht* während der Nacht bei dem Kranken.
+
+  Je dois *surveiller* mes dépenses ce mois-ci.
+  Ich muss diesen Monat auf meine Ausgaben *achten*.
+
+  Le maître-nageur *surveille* la baignade.
+  Der Bademeister *beaufsichtigt* das Baden.
+
+  Il faut *surveiller* le niveau d'huile de la voiture.
+  Man muss den Ölstand des Autos *prüfen*.
+
+  Les parents *surveillent* les devoirs de leurs enfants.
+  Die Eltern *überwachen* die Hausaufgaben ihrer Kinder.
+
+  Le gardien *surveille* l'entrée du bâtiment.
+  Der Wächter *bewacht* den Eingang des Gebäudes.
+
+  "Tu devrais te *surveiller* un peu plus quand tu parles !"
+  "Du solltest mehr *auf dich achten*, wenn du sprichst!"
+
+  L'architecte *surveille* l'avancement des travaux.
+  Der Architekt *überwacht* den Fortschritt der Arbeiten.
+
+  Les oiseaux *surveillent* leur nid contre les prédateurs.
+  Die Vögel *bewachen* ihr Nest vor Raubtieren.
+
+  Le coach *surveille* les performances de ses athlètes.
+  Der Trainer *beobachtet* die Leistungen seiner Athleten.
+
+  La mère *surveille* son bébé qui dort.
+  Die Mutter *wacht* über ihr schlafendes Baby.
+
+  Le chef *surveille* la cuisson des plats.
+  Der Koch *überwacht* das Garen der Gerichte.
+
+  Les gardes-côtes *surveillent* la mer jour et nuit.
+  Die Küstenwache *überwacht* das Meer Tag und Nacht.
+
+  Dans ce milieu, il faut constamment se *surveiller*.
+  In diesem Umfeld muss man ständig *auf der Hut sein*.
+
+  L'enseignant *surveille* la récréation dans la cour.
+  Der Lehrer *beaufsichtigt* die Pause auf dem Schulhof.
+
+  Le jardinier *surveille* la croissance des plantes.
+  Der Gärtner *beobachtet* das Wachstum der Pflanzen.
+
+  Les agents de sécurité *surveillent* les bagages abandonnés.
+  Die Sicherheitsbeamten *bewachen* herrenlose Gepäckstücke.
+
+  Le médecin lui a dit de *surveiller* son alimentation.
+  Der Arzt hat ihr gesagt, sie solle auf ihre Ernährung *achten*.
+
+  Le chasseur *surveille* sa proie depuis des heures.
+  Der Jäger *beobachtet* seine Beute seit Stunden.
+
+  Les parents *surveillent* l'utilisation d'Internet de leurs enfants.
+  Die Eltern *überwachen* die Internetnutzung ihrer Kinder.
+
+  Le détective *surveille* les mouvements du suspect.
+  Der Detektiv *observiert* die Bewegungen des Verdächtigen.
+
+  Marie *surveille* son petit frère pendant que leur mère fait les courses.
+  Marie *passt* auf ihren kleinen Bruder *auf*, während ihre Mutter einkauft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

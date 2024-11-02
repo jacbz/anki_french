@@ -13,29 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce journaliste a la double nationalité française et américaine.
-  Der Journalist besitzt die doppelte Staatsbürgerschaft Frankreichs und der USA.
+  Ce *journaliste* a la double nationalité française et américaine.
+  Dieser *Journalist* hat die französische und amerikanische Staatsbürgerschaft.
 
-  Le journaliste a interviewé le président.
-  Der Journalist hat den Präsidenten interviewt.
+  Les *journalistes* de la presse écrite doivent s'adapter à l'ère numérique.
+  Die Zeitungs*journalisten* müssen sich an das digitale Zeitalter anpassen.
 
-  Elle est journaliste de presse écrite et elle couvre les événements locaux.
-  Sie ist Zeitungsjournalistin und berichtet über lokale Ereignisse.
+  La *journaliste* à la radio interviewe souvent des personnalités politiques.
+  Die Rundfunk*journalistin* interviewt oft Politiker.
 
-  Elle est journaliste à la radio et elle anime une émission sur les arts.
-  Sie ist Rundfunkjournalistin und moderiert eine Sendung über Kunst.
+  En tant que *journaliste* de télévision, elle présente le journal de 20 heures.
+  Als Fernseh*journalistin* moderiert sie die 20-Uhr-Nachrichten.
 
-  Elle est journaliste de télévision et elle présente un journal télévisé du soir.
-  Sie ist Fernsehjournalistin und präsentiert eine abendliche Nachrichtensendung.
+  Le *journaliste* sportif commente le match en direct depuis le stade.
+  Der Sport*journalist* kommentiert das Spiel live aus dem Stadion.
 
-  Elle est journaliste spécialiste en économie et elle écrit des articles sur les marchés financiers.
-  Sie ist Wirtschaftsjournalistin und schreibt Artikel über die Finanzmärkte.
+  Cette *journaliste* spécialiste en économie analyse les tendances du marché.
+  Diese Wirtschafts*journalistin* analysiert die Markttrends.
 
-  Elle est journaliste sportif et elle commente les matchs de football.
-  Sie ist Sportjournalistin und kommentiert Fußballspiele.
+  Le *journaliste* parlementaire suit tous les débats à l'Assemblée nationale.
+  Der parlamentarische *Journalist* verfolgt alle Debatten in der Nationalversammlung.
 
-  Elle est journaliste parlementaire et elle suit les débats à l'Assemblée nationale.
-  Sie ist parlamentarische Berichterstatterin und verfolgt die Debatten in der Nationalversammlung.
+  La *journaliste* d'agence couvre les événements internationaux.
+  Die Agentur*journalistin* berichtet über internationale Ereignisse.
+
+  Les *journalistes* ont protesté contre les menaces à la liberté de la presse.
+  Die *Journalisten* haben gegen die Bedrohungen der Pressefreiheit protestiert.
+
+  Le *journaliste* littéraire a écrit une critique du dernier best-seller.
+  Der Literatur*journalist* hat eine Rezension des letzten Bestsellers geschrieben.
+
+  Notre *journaliste* envoyée spéciale rapporte directement de la zone de conflit.
+  Unsere *Journalistin* berichtet als Sonderkorrespondentin direkt aus dem Konfliktgebiet.
+
+  La *journaliste* politique a obtenu une interview exclusive avec le Premier ministre.
+  Die Politik*journalistin* hat ein exklusives Interview mit dem Premierminister bekommen.
+
+  Les *journalistes* de radio et de télévision collaborent sur ce reportage.
+  Die Rundfunk- und Fernseh*journalisten* arbeiten bei dieser Reportage zusammen.
+
+  Un jeune *journaliste* stagiaire accompagne l'équipe sur le terrain.
+  Ein junger *Journalist* begleitet als Praktikant das Team vor Ort.
+
+  La *journaliste* rédactrice en chef supervise toute l'équipe éditoriale.
+  Die Chef*journalistin* beaufsichtigt das gesamte Redaktionsteam.
+
+  Le syndicat des *journalistes* négocie de meilleures conditions de travail.
+  Die Gewerkschaft der *Journalisten* verhandelt über bessere Arbeitsbedingungen.
+
+  Cette *journaliste* critique culturelle est connue pour ses analyses pertinentes.
+  Diese Kultur*journalistin* ist für ihre treffenden Analysen bekannt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

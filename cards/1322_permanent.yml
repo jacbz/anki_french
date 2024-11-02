@@ -13,35 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils vivent dans le climat permanent de la violence.
-  Sie leben in einem ständigen Klima der Gewalt.
+  Ils vivent dans le climat *permanent* de la violence.
+  Sie leben in einem *ständigen* Klima der Gewalt.
 
-  Il a un contrat de travail permanent.
-  Er hat einen unbefristeten Arbeitsvertrag.
+  Le musée présente une exposition *permanente* sur l'histoire locale.
+  Das Museum zeigt eine *Dauer*ausstellung zur lokalen Geschichte.
 
-  Le musée possède une exposition permanente sur l'histoire de la ville.
-  Das Museum hat eine Dauerausstellung über die Geschichte der Stadt.
+  Les habitants subissent une tension *permanente* à cause des conflits.
+  Die Bewohner leiden unter *anhaltender* Spannung wegen der Konflikte.
 
-  Le personnel permanent du restaurant est très accueillant.
-  Das Stammpersonal des Restaurants ist sehr freundlich.
+  Marie est une employée *permanente* de l'entreprise depuis dix ans.
+  Marie ist seit zehn Jahren eine *feste* Mitarbeiterin des Unternehmens.
 
-  La bibliothèque offre une carte permanente pour les habitants de la ville.
-  Die Bibliothek bietet einen Dauerausweis für die Einwohner der Stadt an.
+  Ce *permanent* syndical défend activement les droits des travailleurs.
+  Dieser Gewerkschafts*funktionär* setzt sich aktiv für die Rechte der Arbeitnehmer ein.
 
-  La formation permanente est essentielle pour rester à jour dans son métier.
-  Fortbildung ist unerlässlich, um in seinem Beruf auf dem neuesten Stand zu bleiben.
+  La nouvelle technologie offre une solution *permanente* au problème.
+  Die neue Technologie bietet eine *dauerhafte* Lösung für das Problem.
 
-  Le cinéma permanent diffuse des films 24 heures sur 24.
-  Das Nonstopkino zeigt rund um die Uhr Filme.
+  Le cinéma *permanent* projette des films toute la journée.
+  Das *Nonstop*kino zeigt den ganzen Tag Filme.
 
-  Dans ce parc d'attractions, ici le spectacle est permanent.
-  In diesem Vergnügungspark ist immer was los.
+  Notre représentant *permanent* à l'ONU participe à toutes les réunions.
+  Unser *ständiger* Vertreter bei der UNO nimmt an allen Sitzungen teil.
 
-  Le magasin est ouvert en permanence de 9h à 19h.
-  Der Laden ist durchgehend von 9 bis 19 Uhr geöffnet.
+  Cette carte *permanente* vous donne accès au club sportif.
+  Dieser *Dauer*ausweis gibt Ihnen Zugang zum Sportclub.
 
-  La France possède une armée permanente forte et bien équipée.
-  Frankreich hat ein stehendes Heer, das stark und gut ausgerüstet ist.
+  La formation *permanente* est essentielle dans ce métier.
+  Die *Fort*bildung ist in diesem Beruf unerlässlich.
+
+  Le personnel *permanent* reçoit des avantages supplémentaires.
+  Das *Stamm*personal erhält zusätzliche Vorteile.
+
+  L'armée *permanente* compte plus de 200 000 soldats.
+  Das *stehende* Heer zählt mehr als 200.000 Soldaten.
+
+  Ces fichiers *permanents* sont sauvegardés automatiquement.
+  Diese *dauerhaften* Dateien werden automatisch gespeichert.
+
+  Un état de guerre *permanent* règne dans cette région.
+  In dieser Region herrscht ein *ständiger* Kriegszustand.
+
+  La collaboration *permanente* entre les deux pays s'est renforcée.
+  Die *ständige* Zusammenarbeit zwischen den beiden Ländern hat sich verstärkt.
+
+  Les *permanents* du parti préparent la campagne électorale.
+  Die *Funktionäre* der Partei bereiten den Wahlkampf vor.
+
+  Un contrôle *permanent* de la qualité est effectué.
+  Eine *ständige* Qualitätskontrolle wird durchgeführt.
+
+  Cette source d'énergie garantit un approvisionnement *permanent*.
+  Diese Energiequelle garantiert eine *beständige* Versorgung.
+
+  Le danger *permanent* d'avalanche impose la fermeture des pistes.
+  Die *ständige* Lawinengefahr erzwingt die Schließung der Pisten.
+
+  L'association recrute un *permanent* pour gérer ses activités.
+  Der Verein stellt einen *festen Mitarbeiter* ein, um seine Aktivitäten zu verwalten.
+
+  Le bruit *permanent* de la circulation perturbe les habitants.
+  Der *ständige* Verkehrslärm stört die Anwohner.
+
+  Un souci *permanent* de perfection caractérise son travail.
+  Ein *fortwährendes* Streben nach Perfektion kennzeichnet seine Arbeit.
+
+  Cette liaison *permanente* assure une communication continue.
+  Diese *ständige* Verbindung gewährleistet eine kontinuierliche Kommunikation.
+
+  Des troubles *permanents* affectent le système digestif.
+  *Anhaltende* Beschwerden beeinträchtigen das Verdauungssystem.
+
+  La nature *permanente* du changement climatique inquiète les scientifiques.
+  Die *unveränderliche* Natur des Klimawandels beunruhigt die Wissenschaftler.
+
+  Un sentiment *permanent* d'insécurité règne dans le quartier.
+  Ein *ständiges* Gefühl der Unsicherheit herrscht in der Nachbarschaft.
+
+  Cet aimant *permanent* ne perd jamais sa force magnétique.
+  Dieser *Dauer*magnet verliert nie seine magnetische Kraft.
+
+  Les capitaux *permanents* de l'entreprise augmentent chaque année.
+  Das *ständige* Kapital des Unternehmens wächst jedes Jahr.
+
+  L'établissement propose un service *permanent* jour et nuit.
+  Die Einrichtung bietet einen *durchgehenden* Service Tag und Nacht.
+
+  Le comité *permanent* se réunit chaque semaine.
+  Der *ständige* Ausschuss trifft sich jede Woche.
+
+  La beauté *permanente* des montagnes attire les touristes.
+  Die *beständige* Schönheit der Berge zieht Touristen an.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,32 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La zone cible fait seulement 2 mètres de large.
-  Das Zielgebiet ist nur 2 m breit.
+  La zone cible fait seulement 2 *mètres* de large.
+  Der Zielbereich ist nur 2 *Meter* breit.
 
-  La longueur de cette pièce est de six mètres.
-  Die Länge dieses Raumes beträgt sechs Meter.
+  Mon père fait 1,85 *mètres*.
+  Mein Vater ist 1,85 *Meter* groß.
 
-  Le bureau mesure cinq mètres de long et trois mètres de large, soit quinze mètres carrés au total.
-  Das Büro ist fünf Meter lang und drei Meter breit, macht also insgesamt fünfzehn Quadratmeter.
+  Le salon fait 20 *mètres* carrés.
+  Das Wohnzimmer ist 20 Quadrat*meter* groß.
 
-  J'ai acheté un mètre pliant pour mesurer la longueur du mur.
-  Ich habe mir einen Zollstock gekauft, um die Länge der Wand zu messen.
+  J'ai acheté un *mètre* pliant pour bricoler.
+  Ich habe mir einen *Zollstock* zum Basteln gekauft.
 
-  Le coureur a couru le 100 mètres en dix secondes, battant son propre record.
-  Der Läufer ist die 100 Meter in zehn Sekunden gelaufen und hat damit seinen eigenen Rekord gebrochen.
+  La couturière utilise son *mètre* ruban pour prendre mes mesures.
+  Die Schneiderin nimmt mit ihrem *Maßband* meine Maße.
 
-  Le plongeur a exploré l'épave du navire à cent mètres de fond.
-  Der Taucher hat das Wrack des Schiffes in hundert Metern Tiefe erkundet.
+  Le plongeur a trouvé une épave à 50 *mètres* de fond.
+  Der Taucher hat in 50 *Metern* Tiefe ein Wrack gefunden.
 
-  L'accident s'est produit à cinquante mètres d'ici, sur la route principale.
-  Der Unfall ereignete sich in fünfzig Metern Entfernung, auf der Hauptstraße.
+  Usain Bolt a couru le 100 *mètres* en moins de 10 secondes.
+  Usain Bolt ist die 100 *Meter* in unter 10 Sekunden gelaufen.
 
-  L'équipe a gagné le 4 fois 100 mètres, grâce à une course remarquable du dernier relayeur.
-  Die Mannschaft hat die 4 x 100-m-Staffel gewonnen, dank eines tollen Laufes des Schlussläufers.
+  L'appartement se trouve à cent *mètres* de la gare.
+  Die Wohnung liegt hundert *Meter* vom Bahnhof entfernt.
 
-  Dans la dernière ligne droite, il a piqué un cent mètres pour gagner la course.
-  In der letzten Geraden hat er einen Spurt eingelegt, um das Rennen zu gewinnen.
+  Le conteneur a un volume de 2 *mètres* cubes.
+  Der Container hat ein Volumen von 2 Kubik*metern*.
+
+  "J'ai dû *piquer un cent mètres* pour attraper le bus !"
+  "Ich musste einen *Sprint* einlegen, um den Bus zu erwischen!"
+
+  La vitesse est mesurée en *mètres* par seconde.
+  Die Geschwindigkeit wird in *Metern* pro Sekunde gemessen.
+
+  Les athlètes s'entraînent pour le 110 *mètres* haies.
+  Die Athleten trainieren für die 110 *Meter* Hürden.
+
+  L'équipe a remporté le 4 fois 100 *mètres*.
+  Die Mannschaft hat die 4 mal 100 *Meter* gewonnen.
+
+  Il me faut trois *mètres* de tissu pour la robe.
+  Ich brauche drei *Meter* Stoff für das Kleid.
+
+  Nous vivons à 1500 *mètres* d'altitude.
+  Wir leben auf 1500 *Metern* Höhe.
+
+  Le *mètre* est l'unité de base de longueur.
+  Der *Meter* ist die Grundeinheit der Länge.
+
+  Le sommet se trouve à 3000 *mètres* au-dessus du niveau de la mer.
+  Der Gipfel liegt 3000 *Meter* über dem Meeresspiegel.
+
+  J'ai laissé tomber mon *mètre* ruban dans l'eau.
+  Ich habe mein *Maßband* ins Wasser fallen lassen.
+
+  Le poète préfère le *mètre* alexandrin.
+  Der Dichter bevorzugt das alexandrinische *Versmaß*.
+
+  La piscine olympique mesure 50 *mètres* de long.
+  Das Olympiabecken ist 50 *Meter* lang.
+
+  Les enfants courent le 800 *mètres* à l'école.
+  Die Kinder laufen in der Schule die 800 *Meter*.
+
+  Ce *mètre* en bois date du siècle dernier.
+  Dieses hölzerne *Metermaß* stammt aus dem letzten Jahrhundert.
+
+  Le prix du loyer est calculé au *mètre* carré.
+  Die Miete wird pro Quadrat*meter* berechnet.
+
+  La voiture roule à 20 *mètres* par seconde.
+  Das Auto fährt 20 *Meter* pro Sekunde.
+
+  Dans ce poème, le *mètre* change à chaque strophe.
+  In diesem Gedicht wechselt das *Metrum* in jeder Strophe.
+
+  Le jardin fait 500 *mètres* carrés.
+  Der Garten ist 500 Quadrat*meter* groß.
+
+  Elle a utilisé son vieux *mètre* de couturière.
+  Sie hat ihr altes Schneider*maßband* benutzt.
+
+  Le record du saut en hauteur dépasse les 2 *mètres*.
+  Der Hochsprungrekord liegt über 2 *Meter*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

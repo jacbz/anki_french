@@ -13,20 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les grandes sociétés opèrent à l’échelle mondiale.
-  Große Unternehmen sind weltweit tätig.
+  Les grandes sociétés *opèrent* à l'échelle mondiale.
+  Die großen Unternehmen *arbeiten* auf globaler Ebene.
 
-  Le médecin va opérer demain.
-  Der Arzt wird morgen operieren.
+  Le chirurgien va m'*opérer* de l'appendicite demain matin.
+  Der Chirurg wird mich morgen früh am Blinddarm *operieren*.
 
-  Le chirurgien a opéré la patiente de son appendice.
-  Der Chirurg hat die Patientin an ihrem Blinddarm operiert.
+  La magie a *opéré* : tout le monde est tombé sous son charme.
+  Der Zauber hat *gewirkt*: Alle waren von ihm verzaubert.
 
-  Il a décidé de se faire opérer de son genou.
-  Er hat sich entschieden, sich an seinem Knie operieren zu lassen.
+  Un changement radical s'est *opéré* dans sa personnalité.
+  In seiner Persönlichkeit hat sich eine radikale Veränderung *vollzogen*.
 
-  Il s'est fait opérer de l'estomac pour perdre du poids.
-  Er hat sich einer Magenoperation unterzogen, um abzunehmen.
+  Pour résoudre ce problème, il faut *opérer* méthodiquement.
+  Um dieses Problem zu lösen, muss man methodisch *vorgehen*.
+
+  Elle s'est fait *opérer* des yeux il y a deux mois.
+  Sie hat sich vor zwei Monaten an den Augen *operieren* lassen.
+
+  Cette nouvelle méthode d'enseignement *opère* des miracles.
+  Diese neue Lehrmethode *bewirkt* Wunder.
+
+  Le médecin a dû *opérer* en urgence cette nuit.
+  Der Arzt musste heute Nacht notfall*operieren*.
+
+  Une transformation profonde s'*opère* dans la société.
+  In der Gesellschaft *vollzieht* sich ein tiefgreifender Wandel.
+
+  Les antibiotiques commencent à *opérer* après quelques heures.
+  Die Antibiotika beginnen nach einigen Stunden zu *wirken*.
+
+  Marie doit *opérer* un choix entre ces deux universités.
+  Marie muss eine *Entscheidung* zwischen diesen beiden Universitäten treffen.
+
+  Le patient sera *opéré* à cœur ouvert lundi prochain.
+  Der Patient wird nächsten Montag am offenen Herzen *operiert*.
+
+  Cette entreprise *opère* un redressement spectaculaire.
+  Dieses Unternehmen *vollzieht* eine spektakuläre Wende.
+
+  La sélection des candidats s'est *opérée* naturellement.
+  Die Auswahl der Kandidaten hat sich auf natürliche Weise *vollzogen*.
+
+  Le chirurgien *opère* toujours avec une grande précision.
+  Der Chirurg *operiert* stets mit großer Präzision.
+
+  Les médicaments ont rapidement *opéré* sur sa douleur.
+  Die Medikamente haben bei seinen Schmerzen schnell *gewirkt*.
+
+  Il faut *opérer* ces calculs avec attention.
+  Man muss diese Berechnungen sorgfältig *durchführen*.
+
+  Les deux armées ont *opéré* leur jonction hier soir.
+  Die beiden Armeen haben gestern Abend ihre Vereinigung *vollzogen*.
+
+  La nature *opère* parfois des miracles inexplicables.
+  Die Natur *vollbringt* manchmal unerklärliche Wunder.
+
+  Le docteur Martin *opère* dans trois hôpitaux différents.
+  Doktor Martin *operiert* in drei verschiedenen Krankenhäusern.
+
+  Un changement significatif s'est *opéré* dans son attitude.
+  In seiner Haltung hat sich eine bedeutende Veränderung *vollzogen*.
+
+  Cette compagnie aérienne *opère* principalement en Europe.
+  Diese Fluggesellschaft *operiert* hauptsächlich in Europa.
+
+  Les vacances ont *opéré* sur lui un effet bénéfique.
+  Der Urlaub hat auf ihn eine positive *Wirkung* gehabt.
+
+  Le professeur *opère* une distinction entre ces deux concepts.
+  Der Professor *trifft* eine Unterscheidung zwischen diesen beiden Konzepten.
+
+  La transformation s'est *opérée* progressivement.
+  Die Veränderung hat sich allmählich *vollzogen*.
+
+  Le chirurgien *opère* la tumeur ce matin.
+  Der Chirurg *operiert* heute Morgen den Tumor.
+
+  Cette réforme *opère* des changements importants.
+  Diese Reform *bewirkt* wichtige Veränderungen.
+
+  Un miracle s'est *opéré* sous nos yeux.
+  Vor unseren Augen hat sich ein Wunder *vollzogen*.
+
+  Les changements climatiques *opèrent* déjà leurs effets.
+  Die Klimaveränderungen *zeigen* bereits ihre Wirkung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,20 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’utilise des outils disponibles sans restriction.
-  Ich verwende uneingeschränkt verfügbare Werkzeuge.
+  J'utilise des outils *disponibles* sans restriction.
+  Ich benutze uneingeschränkt *verfügbare* Werkzeuge.
 
-  Je ne suis pas disponible ce soir.
-  Ich bin heute Abend nicht verfügbar.
+  Il n'y a plus de places *disponibles* pour le concert de ce soir.
+  Es gibt keine *freien* Plätze mehr für das Konzert heute Abend.
 
-  Je suis disponible pour un café demain matin.
-  Ich habe morgen Vormittag Zeit für einen Kaffee.
+  Les fonds *disponibles* sur mon compte sont insuffisants.
+  Die *verfügbaren* Mittel auf meinem Konto sind unzureichend.
 
-  Je ne suis pas disponible aujourd'hui, je travaille.
-  Heute habe ich keine Zeit, ich arbeite.
+  Je ne serai *disponible* qu'à partir de 15 heures.
+  Ich habe erst ab 15 Uhr *Zeit*.
 
-  Après une bonne nuit de sommeil, j'ai l'esprit disponible pour de nouveaux projets.
-  Nach einer erholsamen Nacht habe ich einen freien Kopf für neue Projekte.
+  Malheureusement, ce modèle n'est plus *disponible* en magasin.
+  Leider ist dieses Modell im Geschäft nicht mehr *vorrätig*.
+
+  L'appartement sera *disponible* dès le mois prochain.
+  Die Wohnung wird ab nächstem Monat *frei*.
+
+  As-tu vérifié les stocks *disponibles* avant de commander ?
+  Hast du die *verfügbaren* Bestände vor der Bestellung überprüft?
+
+  "Tu n'es jamais *disponible* quand on a besoin de toi !"
+  "Du hast nie *Zeit*, wenn man dich braucht!"
+
+  La marchandise *disponible* peut être livrée immédiatement.
+  Die *verfügbare* Ware kann sofort geliefert werden.
+
+  Marie n'a pas l'esprit *disponible* aujourd'hui, elle est trop stressée.
+  Marie hat heute keinen *freien* Kopf, sie ist zu gestresst.
+
+  Tous les taxis étaient *disponibles* ce matin-là.
+  Alle Taxis waren an diesem Morgen *frei*.
+
+  Le vocabulaire *disponible* d'un enfant s'enrichit chaque jour.
+  Der *verfügbare* Wortschatz eines Kindes wächst täglich.
+
+  Cette somme *disponible* nous permettra d'investir.
+  Diese *verfügbare* Summe wird uns erlauben zu investieren.
+
+  Les valeurs *disponibles* doivent être déclarées aux impôts.
+  Die *verfügbaren* Werte müssen beim Finanzamt angegeben werden.
+
+  Es-tu *disponible* pour déjeuner ensemble demain ?
+  Hast du morgen *Zeit* zum gemeinsamen Mittagessen?
+
+  Le nombre de chambres *disponibles* varie selon la saison.
+  Die Anzahl der *freien* Zimmer variiert je nach Jahreszeit.
+
+  Le professeur est toujours *disponible* pour ses étudiants.
+  Der Lehrer hat für seine Studenten immer *Zeit*.
+
+  Nous avons un budget *disponible* de mille euros.
+  Wir haben ein *verfügbares* Budget von tausend Euro.
+
+  Le logiciel sera *disponible* en téléchargement gratuit.
+  Die Software wird als kostenloser Download *verfügbar* sein.
+
+  Il reste trois places *disponibles* dans la voiture.
+  Es sind noch drei *freie* Plätze im Auto.
+
+  Cette édition limitée n'est plus *disponible* en librairie.
+  Diese limitierte Auflage ist in der Buchhandlung nicht mehr *vorrätig*.
+
+  Le médecin n'est *disponible* que sur rendez-vous.
+  Der Arzt hat nur nach Terminvereinbarung *Zeit*.
+
+  Les ressources *disponibles* sont limitées.
+  Die *verfügbaren* Ressourcen sind begrenzt.
+
+  La salle de réunion sera *disponible* dans une heure.
+  Der Konferenzraum wird in einer Stunde *frei* sein.
+
+  Le nouveau vaccin est maintenant *disponible* en pharmacie.
+  Der neue Impfstoff ist jetzt in der Apotheke *verfügbar*.
+
+  Je serai *disponible* pour répondre à vos questions.
+  Ich werde *Zeit* haben, Ihre Fragen zu beantworten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

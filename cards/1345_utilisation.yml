@@ -13,41 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je ne veux pas que l’utilisation des phtalates soit bannie.
-  Ich möchte nicht, dass die Verwendung von Phthalaten verboten wird.
+  Je ne veux pas que l'*utilisation* des phtalates soit bannie.
+  Ich möchte nicht, dass die *Verwendung* von Phthalaten verboten wird.
 
-  L’utilisation de ce produit est très simple.
-  Die Verwendung dieses Produkts ist sehr einfach.
+  L'*utilisation* de ce nouveau logiciel est vraiment simple.
+  Die *Benutzung* dieser neuen Software ist wirklich einfach.
 
-  Le recours aux machines
-  Die Nutzung von Maschinen
+  Les statistiques montrent une *utilisation* accrue des transports en commun.
+  Die Statistiken zeigen eine erhöhte *Nutzung* der öffentlichen Verkehrsmittel.
 
-  L'utilisation des restes
-  Die Resteverwertung
+  L'*utilisation* abusive de son téléphone portable lui a coûté cher.
+  Die *missbräuchliche Verwendung* seines Handys ist ihm teuer zu stehen gekommen.
 
-  L'utilisation multimédia
-  Die Multimedia-Anwendung
+  L'*utilisation* des machines est optimale aujourd'hui.
+  Die *Auslastung* der Maschinen ist heute optimal.
 
-  L'utilisation des machines à plein rendement
-  Die volle Maschinenauslastung
+  Cette voiture est réservée à l'*utilisation* personnelle du directeur.
+  Dieses Auto ist für den *Privatgebrauch* des Direktors reserviert.
 
-  L'utilisation de biogaz
-  Die Biogasnutzung
+  Avant toute *utilisation*, lisez attentivement la notice.
+  Lesen Sie vor der *Benutzung* die Anleitung sorgfältig durch.
 
-  L'utilisation de rayons infrarouges
-  Die Infrarotbestrahlung
+  L'*utilisation* incorrecte de cet outil peut être dangereuse.
+  Die *unsachgemäße Verwendung* dieses Werkzeugs kann gefährlich sein.
 
-  L'utilisation de la voie de droit
-  Die Nutzung des Rechtsweges
+  L'*utilisation* des restes du repas permet d'éviter le gaspillage.
+  Die *Verwertung* der Essensreste hilft, Verschwendung zu vermeiden.
 
-  L'utilisation de la capacité
-  Die Kapazitätsauslastung
+  L'*utilisation* à plein rendement de nos ressources est primordiale.
+  Die *volle Auslastung* unserer Ressourcen ist von größter Bedeutung.
 
-  L'utilisation personnelle
-  Die private Nutzung
+  L'*utilisation* multimédia devient de plus en plus importante dans l'éducation.
+  Die *Multimediaanwendung* wird in der Bildung immer wichtiger.
 
-  L'utilisation maximale de la capacité
-  Die volle Kapazitätsauslastung
+  L'*utilisation* de l'énergie solaire augmente chaque année.
+  Die *Nutzung* von Solarenergie nimmt jedes Jahr zu.
+
+  Une mauvaise *utilisation* du mot peut créer des malentendus.
+  Eine falsche *Verwendung* des Wortes kann Missverständnisse erzeugen.
+
+  L'*utilisation* du biogaz contribue à la protection de l'environnement.
+  Die *Verwertung* von Biogas trägt zum Umweltschutz bei.
+
+  La première *utilisation* de cette machine nécessite une formation.
+  Die erste *Benutzung* dieser Maschine erfordert eine Schulung.
+
+  L'*utilisation* maximale de la capacité n'est pas toujours rentable.
+  Die *volle Kapazitätsauslastung* ist nicht immer wirtschaftlich.
+
+  Marie explique l'*utilisation* de l'ordinateur aux personnes âgées.
+  Marie erklärt Senioren die *Bedienung* des Computers.
+
+  L'*utilisation* des rayons infrarouges soulage mes douleurs musculaires.
+  Die Infrarot*behandlung* lindert meine Muskelschmerzen.
+
+  L'*utilisation* de cette somme d'argent doit être justifiée.
+  Die *Verwendung* dieser Geldsumme muss begründet werden.
+
+  L'*utilisation* des machines à plein rendement nécessite plus de personnel.
+  Die *volle Maschinenauslastung* erfordert mehr Personal.
+
+  Une *utilisation* rationnelle de l'eau devient indispensable.
+  Ein rationeller *Umgang* mit Wasser wird unerlässlich.
+
+  L'*utilisation* de la voie de droit n'est pas toujours nécessaire.
+  Die *Ausnutzung* des Rechtsweges ist nicht immer notwendig.
+
+  Thomas a écrit un guide d'*utilisation* pour le nouveau système.
+  Thomas hat eine *Bedienungs*anleitung für das neue System geschrieben.
+
+  L'*utilisation* de matières premières locales réduit les coûts de transport.
+  Die *Verwendung* lokaler Rohstoffe reduziert die Transportkosten.
+
+  La mauvaise *utilisation* des antibiotiques pose un problème de santé publique.
+  Der falsche *Einsatz* von Antibiotika stellt ein Problem für die öffentliche Gesundheit dar.
+
+  L'*utilisation* de la capacité de l'usine atteint 95%.
+  Die *Kapazitätsauslastung* der Fabrik erreicht 95%.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

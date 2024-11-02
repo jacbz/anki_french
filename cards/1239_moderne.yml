@@ -13,26 +13,104 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On va utiliser un système plus moderne.
-  Wir werden ein moderneres System verwenden.
+  On va utiliser un système plus *moderne*.
+  Wir werden ein *moderneres* System benutzen.
 
-  Cette maison est très moderne.
-  Dieses Haus ist sehr modern.
+  Cette ville est très *moderne* et dynamique.
+  Diese Stadt ist sehr *fortschrittlich* und dynamisch.
 
-  Nous vivons dans les temps modernes, où la technologie avance à un rythme effréné.
-  Wir leben in der Neuzeit, in der die Technologie rasant voranschreitet.
+  Les *modernes* ont beaucoup critiqué l'art classique.
+  Die *modernen* Künstler haben die klassische Kunst stark kritisiert.
 
-  Son appartement est meublé en moderne, avec des lignes épurées et des couleurs vives.
-  Seine Wohnung ist modern eingerichtet, mit klaren Linien und leuchtenden Farben.
+  Il faut adapter nos méthodes d'enseignement à l'époque *moderne*.
+  Wir müssen unsere Lehrmethoden an die *moderne* Zeit anpassen.
 
-  L'histoire moderne a été marquée par de nombreux événements importants, tels que les guerres mondiales.
-  Die Neuere Geschichte wurde von vielen wichtigen Ereignissen geprägt, wie den Weltkriegen.
+  L'appartement est meublé très *moderne*.
+  Die Wohnung ist sehr *modern* eingerichtet.
 
-  L'apprentissage des langues modernes est devenu essentiel dans le monde globalisé d'aujourd'hui.
-  Das Erlernen moderner Fremdsprachen ist in der heutigen globalisierten Welt unerlässlich geworden.
+  Elle étudie la littérature *moderne* à l'université.
+  Sie studiert *moderne* Literatur an der Universität.
 
-  Les lettres modernes explorent les thèmes contemporains et les préoccupations de notre époque.
-  Die moderne Literatur befasst sich mit zeitgenössischen Themen und den Sorgen unserer Zeit.
+  Les temps *modernes* ont commencé après le Moyen Âge.
+  Die *Neu*zeit begann nach dem Mittelalter.
+
+  Cette exposition présente l'art *moderne* du XXe siècle.
+  Diese Ausstellung zeigt *moderne* Kunst des 20. Jahrhunderts.
+
+  Notre société *moderne* dépend beaucoup de la technologie.
+  Unsere *moderne* Gesellschaft ist sehr von Technologie abhängig.
+
+  Elle a des idées très *modernes* sur l'éducation des enfants.
+  Sie hat sehr *moderne* Vorstellungen von Kindererziehung.
+
+  L'histoire *moderne* est une période fascinante.
+  Die *Neuere* Geschichte ist eine faszinierende Epoche.
+
+  Ces techniques *modernes* permettent d'économiser beaucoup d'énergie.
+  Diese *modernen* Techniken ermöglichen große Energieeinsparungen.
+
+  Le grec *moderne* est différent du grec ancien.
+  Das *Neu*griechische unterscheidet sich vom Altgriechischen.
+
+  Le musée expose des peintures *modernes*.
+  Das Museum stellt *moderne* Gemälde aus.
+
+  Elle enseigne les langues *modernes* au lycée.
+  Sie unterrichtet *moderne* Fremdsprachen am Gymnasium.
+
+  Cet équipement *moderne* facilite notre travail.
+  Diese *moderne* Ausrüstung erleichtert unsere Arbeit.
+
+  Les *modernes* s'opposaient aux partisans des Anciens.
+  Die *Modernen* standen im Gegensatz zu den Anhängern der Alten.
+
+  Cette entreprise utilise des moyens de communication *modernes*.
+  Dieses Unternehmen nutzt *moderne* Kommunikationsmittel.
+
+  L'architecture *moderne* privilégie la fonctionnalité.
+  Die *moderne* Architektur betont die Funktionalität.
+
+  Cette femme *moderne* dirige une grande entreprise.
+  Diese *moderne* Frau leitet ein großes Unternehmen.
+
+  Le confort *moderne* nous fait parfois oublier la nature.
+  Der *moderne* Komfort lässt uns manchmal die Natur vergessen.
+
+  La physique *moderne* a révolutionné notre vision du monde.
+  Die *moderne* Physik hat unser Weltbild revolutioniert.
+
+  Son style de vie est très *moderne*.
+  Ihr Lebensstil ist sehr *modern*.
+
+  La Rome *moderne* conserve des traces de l'Antiquité.
+  Das *moderne* Rom bewahrt Spuren der Antike.
+
+  Il s'intéresse à la science *moderne*.
+  Er interessiert sich für *moderne* Wissenschaft.
+
+  Cette *moderne* Cassandre avait prédit la crise.
+  Diese *moderne* Kassandra hatte die Krise vorhergesagt.
+
+  Le français *moderne* a évolué depuis le Moyen Âge.
+  Das *moderne* Französisch hat sich seit dem Mittelalter entwickelt.
+
+  Cette banque propose des services très *modernes*.
+  Diese Bank bietet sehr *moderne* Dienstleistungen an.
+
+  Les poètes *modernes* explorent de nouvelles formes d'expression.
+  Die *modernen* Dichter erforschen neue Ausdrucksformen.
+
+  La vie *moderne* est parfois trop stressante.
+  Das *moderne* Leben ist manchmal zu stressig.
+
+  La danse *moderne* s'est développée au XXe siècle.
+  Der *moderne* Tanz entwickelte sich im 20. Jahrhundert.
+
+  Cette *moderne* Babylone ne dort jamais.
+  Dieses *moderne* Babylon schläft nie.
+
+  Son mobilier *moderne* contraste avec l'architecture ancienne.
+  Seine *moderne* Einrichtung steht im Kontrast zur alten Architektur.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

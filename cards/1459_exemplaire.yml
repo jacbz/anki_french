@@ -13,23 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’en ai déjà vendu 100.000 exemplaires.
-  Ich habe bereits 100.000 Exemplare verkauft.
+  J'en ai déjà vendu 100.000 *exemplaires*.
+  Ich habe davon schon 100.000 *Exemplare* verkauft.
 
-  Je voudrais emprunter un exemplaire de ce livre.
-  Ich möchte ein Exemplar dieses Buches ausleihen.
+  La sévérité du jugement doit être *exemplaire*.
+  Die Strenge des Urteils muss *abschreckend* sein.
 
-  C’est un exemplaire très rare.
-  Dies ist ein sehr seltenes Exemplar.
+  Sa conduite *exemplaire* lui a valu une promotion.
+  Sein *vorbildliches* Verhalten hat ihm eine Beförderung eingebracht.
 
-  J'ai reçu un exemplaire gratuit du nouveau livre de mon auteur préféré.
-  Ich habe ein Gratisexemplar des neuen Buches meines Lieblingsautors erhalten.
+  Le musée possède un rare *exemplaire* de cette horloge ancienne.
+  Das Museum besitzt ein seltenes *Exemplar* dieser alten Uhr.
 
-  Le tribunal a demandé un exemplaire du dossier pour examiner l'affaire.
-  Das Gericht hat ein Aktenexemplar angefordert, um den Fall zu prüfen.
+  Veuillez signer les documents en trois *exemplaires*.
+  Bitte unterschreiben Sie die Dokumente in drei *Ausfertigungen*.
 
-  Veuillez me fournir ce document en deux exemplaires.
-  Bitte stellen Sie mir dieses Dokument in zweifacher Ausfertigung zur Verfügung.
+  Marie est une élève *exemplaire* qui ne manque jamais un cours.
+  Marie ist eine *beispielhafte* Schülerin, die nie eine Stunde versäumt.
+
+  Le zoo a acquis un nouvel *exemplaire* de cette espèce menacée.
+  Der Zoo hat ein neues *Exemplar* dieser bedrohten Art erworben.
+
+  Chaque participant recevra un *exemplaire* gratuit du livre.
+  Jeder Teilnehmer erhält ein *Gratis*exemplar des Buches.
+
+  Cette femme d'affaires mène une vie *exemplaire*.
+  Diese Geschäftsfrau führt ein *vorbildliches* Leben.
+
+  Le botaniste a découvert un magnifique *exemplaire* de cette fleur rare.
+  Der Botaniker hat ein prächtiges *Exemplar* dieser seltenen Blume entdeckt.
+
+  Nous avons imprimé ce catalogue en 5000 *exemplaires*.
+  Wir haben diesen Katalog in 5000 *Exemplaren* gedruckt.
+
+  Son dévouement *exemplaire* inspire tous ses collègues.
+  Seine *vorbildliche* Hingabe inspiriert alle seine Kollegen.
+
+  J'ai trouvé un *exemplaire* original de cette édition limitée.
+  Ich habe ein Original*exemplar* dieser limitierten Auflage gefunden.
+
+  La punition sera *exemplaire* pour décourager ce type de comportement.
+  Die Strafe wird *exemplarisch* sein, um solches Verhalten zu verhindern.
+
+  Voici un *exemplaire* parfaitement conservé de ce papillon tropical.
+  Hier ist ein perfekt erhaltenes *Exemplar* dieses tropischen Schmetterlings.
+
+  Le jury a souligné son parcours *exemplaire*.
+  Die Jury hat seinen *vorbildlichen* Werdegang hervorgehoben.
+
+  Gardez un *exemplaire* du contrat pour vos archives.
+  Bewahren Sie ein *Exemplar* des Vertrags für Ihre Unterlagen auf.
+
+  Cette mère de famille est d'une patience *exemplaire*.
+  Diese Mutter hat eine *beispielhafte* Geduld.
+
+  Le collectionneur possède un *exemplaire* unique de ce timbre.
+  Der Sammler besitzt ein einzigartiges *Exemplar* dieser Briefmarke.
+
+  La bibliothèque conserve le dernier *exemplaire* connu de ce manuscrit.
+  Die Bibliothek bewahrt das letzte bekannte *Exemplar* dieses Manuskripts auf.
+
+  Son honnêteté *exemplaire* lui a valu le respect de tous.
+  Seine *vorbildliche* Ehrlichkeit hat ihm den Respekt aller eingebracht.
+
+  Chaque département recevra un *exemplaire* du nouveau règlement.
+  Jede Abteilung erhält ein *Exemplar* der neuen Vorschrift.
+
+  Le musée expose un magnifique *exemplaire* de cette espèce disparue.
+  Das Museum stellt ein prächtiges *Exemplar* dieser ausgestorbenen Art aus.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

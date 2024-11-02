@@ -13,23 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ta vie m’est aussi précieuse que celle de ma femme.
-  Dein Leben ist mir genauso kostbar wie das meiner Frau.
+  Ta vie m'est aussi *précieuse* que celle de ma femme.
+  Dein Leben ist mir genauso *kostbar* wie das meiner Frau.
 
-  Ce collier est très précieux pour moi.
-  Diese Kette ist sehr wertvoll für mich.
+  Elle porte des bijoux *précieux* pour le mariage de sa sœur.
+  Sie trägt *wertvolle* Schmuckstücke für die Hochzeit ihrer Schwester.
 
-  C’est très précieux.
-  Das ist sehr wertvoll.
+  Ce document historique est *précieux* pour notre recherche.
+  Dieses historische Dokument ist für unsere Forschung *wertvoll*.
 
-  Il est précieux pour nous.
-  Er ist für uns wertvoll.
+  Ne perdons pas de temps *précieux* avec ces détails.
+  Lasst uns keine *kostbare* Zeit mit diesen Details verschwenden.
 
-  L'or est un métal précieux, utilisé depuis des siècles pour fabriquer des bijoux.
-  Gold ist ein Edelmetall, das seit Jahrhunderten für die Herstellung von Schmuck verwendet wird.
+  Il a une collection de métaux *précieux* dans son coffre-fort.
+  Er hat eine Sammlung von *Edel*metallen in seinem Safe.
 
-  Le collier de diamants est un objet précieux qu'elle a hérité de sa grand-mère.
-  Die Diamantenkette ist ein Wertgegenstand, den sie von ihrer Großmutter geerbt hat.
+  Ces informations sont *précieuses* pour résoudre l'énigme.
+  Diese Informationen sind *wertvoll* für die Lösung des Rätsels.
+
+  Marie est une collaboratrice *précieuse* pour notre équipe.
+  Marie ist eine *wertvolle* Mitarbeiterin für unser Team.
+
+  Il garde ce souvenir *précieux* de son grand-père.
+  Er bewahrt diese *kostbare* Erinnerung an seinen Großvater.
+
+  "Elle a des manières tellement *précieuses* que personne ne la supporte."
+  "Sie hat so *gezierte* Manieren, dass niemand sie ertragen kann."
+
+  Le prêtre élève le *précieux* sang pendant la messe.
+  Der Priester erhebt das *kostbare* Blut während der Messe.
+
+  Ces pierres *précieuses* viennent d'Afrique du Sud.
+  Diese *Edel*steine kommen aus Südafrika.
+
+  La santé est le bien le plus *précieux* que nous ayons.
+  Gesundheit ist das *wertvollste* Gut, das wir haben.
+
+  Son style *précieux* ne correspond plus au goût moderne.
+  Sein *gekünstelter* Stil entspricht nicht mehr dem modernen Geschmack.
+
+  Elle conserve ce livre *précieux* dans une vitrine.
+  Sie bewahrt dieses *wertvolle* Buch in einer Vitrine auf.
+
+  Ton aide m'a été très *précieuse* dans cette situation.
+  Deine Hilfe war mir in dieser Situation sehr *wertvoll*.
+
+  Ces meubles *précieux* datent du XVIIIe siècle.
+  Diese *wertvollen* Möbel stammen aus dem 18. Jahrhundert.
+
+  L'amitié est un trésor *précieux* qu'il faut cultiver.
+  Freundschaft ist ein *kostbarer* Schatz, den man pflegen muss.
+
+  Ce bois *précieux* vient d'Amazonie.
+  Dieses *Edel*holz kommt aus dem Amazonasgebiet.
+
+  Ses conseils sont toujours *précieux*.
+  Seine Ratschläge sind stets *wertvoll*.
+
+  Cette expérience fut *précieuse* pour ma carrière.
+  Diese Erfahrung war *wertvoll* für meine Karriere.
+
+  Il collectionne des objets *précieux* depuis son enfance.
+  Er sammelt *Wert*gegenstände seit seiner Kindheit.
+
+  Son langage *précieux* fait sourire ses amis.
+  Seine *gezierte* Ausdrucksweise bringt seine Freunde zum Schmunzeln.
+
+  Cette bibliothèque contient des manuscrits *précieux*.
+  Diese Bibliothek enthält *wertvolle* Manuskripte.
+
+  Son soutien m'est *précieux* dans ces moments difficiles.
+  Seine Unterstützung ist mir in diesen schwierigen Zeiten *wertvoll*.
+
+  Ces données sont *précieuses* pour notre analyse.
+  Diese Daten sind für unsere Analyse *wertvoll*.
+
+  Les minutes sont *précieuses* avant le départ du train.
+  Die Minuten sind *kostbar* vor der Abfahrt des Zuges.
+
+  Ce tableau est une pièce *précieuse* de sa collection.
+  Dieses Gemälde ist ein *wertvolles* Stück seiner Sammlung.
+
+  Son témoignage fut *précieux* pour l'enquête.
+  Seine Aussage war für die Untersuchung *wertvoll*.
+
+  Cette grammaire est un outil *précieux* pour les étudiants.
+  Diese Grammatik ist ein *wertvolles* Hilfsmittel für die Studenten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,32 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Des dirigeants africains recherchent un solution à la crise.
-  Afrikanische Staatsoberhäupter suchen nach einer Lösung für die Krise.
+  Des dirigeants africains *recherchent* une solution à la crise.
+  Afrikanische Führungskräfte *suchen* eine Lösung für die Krise.
 
-  Je dois rechercher mes clés.
-  Ich muss meine Schlüssel suchen.
+  La police *recherche* le suspect depuis trois jours.
+  Die Polizei *fahndet* seit drei Tagen nach dem Verdächtigen.
 
-  Je recherche le nom de cet acteur que j'ai vu hier au cinéma.
-  Ich suche den Namen von dem Schauspieler, den ich gestern im Kino gesehen habe.
+  Les scientifiques *recherchent* l'origine de cette maladie rare.
+  Die Wissenschaftler *erforschen* den Ursprung dieser seltenen Krankheit.
 
-  Depuis toujours, il recherche la perfection dans tout ce qu'il entreprend.
-  Seit jeher strebt er in allem, was er tut, nach Perfektion.
+  "Je vais te *rechercher* à la gare demain soir."
+  "Ich werde dich morgen Abend vom Bahnhof *abholen*."
 
-  Tu peux aller rechercher les enfants à l'école, s'il te plaît ?
-  Kannst du bitte die Kinder von der Schule abholen?
+  Les tableaux de cet artiste sont très *recherchés*.
+  Die Gemälde dieses Künstlers sind sehr *gesucht*.
 
-  La police recherche activement le terroriste qui a posé la bombe.
-  Die Polizei fahndet aktiv nach dem Terroristen, der die Bombe gelegt hat.
+  Marie *recherche* un appartement dans le centre-ville.
+  Marie *sucht* eine Wohnung in der Innenstadt.
 
-  Le médecin lui a conseillé de rechercher l'albumine dans ses urines.
-  Der Arzt hat ihm geraten, seinen Urin auf Eiweiß untersuchen zu lassen.
+  Le laboratoire *recherche* des traces d'ADN dans les échantillons.
+  Das Labor *untersucht* die Proben auf DNA-Spuren.
 
-  Les enquêteurs travaillent sans relâche pour rechercher où l'accident a eu lieu.
-  Die Ermittler arbeiten unermüdlich daran, herauszufinden, wo sich der Unfall ereignet hat.
+  Il *recherche* activement un nouveau travail depuis sa démission.
+  Er *sucht* seit seiner Kündigung aktiv nach einer neuen Arbeit.
 
-  Il est activement recherché par la police pour le meurtre de sa femme.
-  Er wird wegen des Mordes an seiner Frau aktiv von der Polizei gesucht.
+  Cette entreprise *recherche* un traducteur expérimenté.
+  Dieses Unternehmen *sucht* einen erfahrenen Übersetzer.
+
+  Les historiens *recherchent* encore la vérité sur cet événement.
+  Die Historiker *forschen* noch nach der Wahrheit über dieses Ereignis.
+
+  Je dois *rechercher* mes clés, je les ai perdues ce matin.
+  Ich muss meine Schlüssel *suchen*, ich habe sie heute Morgen verloren.
+
+  Les archéologues *recherchent* des vestiges de civilisations anciennes.
+  Die Archäologen *suchen* nach Überresten alter Zivilisationen.
+
+  Paul *recherche* toujours la perfection dans son travail.
+  Paul *strebt* in seiner Arbeit stets nach Perfektion.
+
+  "Je viendrai vous *rechercher* après le spectacle."
+  "Ich werde Sie nach der Vorstellung *abholen*."
+
+  Cette association *recherche* des bénévoles pour l'été.
+  Dieser Verein *sucht* Freiwillige für den Sommer.
+
+  Les détectives *recherchent* des indices sur la scène du crime.
+  Die Detektive *suchen* am Tatort nach Hinweisen.
+
+  Il est *recherché* pour vol dans trois pays.
+  Er wird in drei Ländern wegen Diebstahls *gesucht*.
+
+  Les étudiants *recherchent* des informations pour leur thèse.
+  Die Studenten *recherchieren* Informationen für ihre Abschlussarbeit.
+
+  Elle *recherche* la compagnie des artistes.
+  Sie *sucht* die Gesellschaft von Künstlern.
+
+  Nous devons *rechercher* la cause de cette panne.
+  Wir müssen die Ursache für diesen Defekt *ergründen*.
+
+  Le médecin *recherche* d'éventuels symptômes de la maladie.
+  Der Arzt *untersucht* mögliche Symptome der Krankheit.
+
+  Ces vins rares sont très *recherchés* par les collectionneurs.
+  Diese seltenen Weine sind bei Sammlern sehr *begehrt*.
+
+  L'équipe *recherche* une nouvelle stratégie pour gagner.
+  Das Team *sucht* nach einer neuen Strategie zum Gewinnen.
+
+  Il faut aller *rechercher* du bois pour le feu.
+  Wir müssen Holz für das Feuer *holen* gehen.
+
+  Les investisseurs *recherchent* des opportunités prometteuses.
+  Die Investoren *suchen* nach vielversprechenden Gelegenheiten.
+
+  Je *recherche* encore mon style en tant qu'écrivain.
+  Ich *suche* als Schriftsteller noch nach meinem Stil.
+
+  La start-up *recherche* des financements pour son projet.
+  Das Start-up *sucht* nach Finanzierung für sein Projekt.
+
+  Les journalistes *recherchent* la vérité derrière le scandale.
+  Die Journalisten *ergründen* die Wahrheit hinter dem Skandal.
+
+  Son style *recherché* impressionne tous ses lecteurs.
+  Sein *ausgefeilter* Stil beeindruckt alle seine Leser.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

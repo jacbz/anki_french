@@ -13,26 +13,104 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’incendie peut être d’origine criminelle.
-  Der Brand kann auch durch Brandstiftung verursacht worden sein.
+  L'incendie peut être d'origine *criminelle*.
+  Der Brand könnte *kriminellen* Ursprungs sein.
 
-  Le criminel a été arrêté par la police.
-  Der Verbrecher wurde von der Polizei verhaftet.
+  La police a arrêté un dangereux *criminel* hier soir.
+  Die Polizei hat gestern Abend einen gefährlichen *Verbrecher* festgenommen.
 
-  Jean, un criminel invétéré, a été arrêté par la police.
-  Jean, ein Erzverbrecher, wurde von der Polizei verhaftet.
+  Les enquêteurs de la brigade *criminelle* sont arrivés sur les lieux.
+  Die Ermittler der *Kriminal*polizei sind am Tatort eingetroffen.
 
-  C'est criminel de faire cela, car tu mets des vies en danger.
-  Es ist kriminell das zu tun, denn du bringst Menschenleben in Gefahr.
+  Cette *criminelle* n'a montré aucun remords pendant son procès.
+  Diese *Verbrecherin* zeigte während ihres Prozesses keine Reue.
 
-  La police a décidé de poursuivre Marie au criminel pour vol.
-  Die Polizei hat entschieden, Marie wegen Diebstahls strafrechtlich zu verfolgen.
+  "C'est *criminel* de gaspiller autant de nourriture !"
+  "Es ist *kriminell*, so viel Essen zu verschwenden!"
 
-  Le droit criminel est un domaine complexe qui nécessite une expertise particulière.
-  Das Strafrecht ist ein komplexes Gebiet, das besondere Expertise erfordert.
+  Le *criminel* de guerre a été jugé par un tribunal international.
+  Der Kriegs*verbrecher* wurde von einem internationalen Gericht verurteilt.
 
-  La brigade criminelle a mené une enquête approfondie sur l'affaire.
-  Die Kriminalpolizei hat die Angelegenheit eingehend untersucht.
+  Cette organisation *criminelle* opère dans plusieurs pays.
+  Diese *kriminelle* Organisation ist in mehreren Ländern aktiv.
+
+  Son silence *criminel* a coûté la vie à trois personnes.
+  Sein *verbrecherisches* Schweigen kostete drei Menschen das Leben.
+
+  Le tribunal siège aujourd'hui au *criminel*.
+  Das Gericht tagt heute als *Straf*gericht.
+
+  Les *criminels* et leurs complices ont été condamnés à de lourdes peines.
+  Die *Verbrecher* und ihre Komplizen wurden zu hohen Strafen verurteilt.
+
+  Une main *criminelle* a mis le feu à la grange.
+  Eine *verbrecherische* Hand hat die Scheune in Brand gesteckt.
+
+  Cette passion *criminelle* l'a conduit à sa perte.
+  Diese *verbrecherische* Leidenschaft führte zu seinem Untergang.
+
+  Le juge va poursuivre le suspect au *criminel*.
+  Der Richter wird den Verdächtigen *strafrechtlich* verfolgen.
+
+  Ce *criminel* invétéré a déjà passé vingt ans en prison.
+  Dieser *Erz*verbrecher hat bereits zwanzig Jahre im Gefängnis verbracht.
+
+  Une affaire *criminelle* a secoué notre petite ville.
+  Ein *Kriminal*fall hat unsere Kleinstadt erschüttert.
+
+  La *criminelle* a avoué son crime après des heures d'interrogatoire.
+  Die *Mörderin* gestand ihre Tat nach stundenlanger Befragung.
+
+  Le droit *criminel* est une matière passionnante.
+  Das *Straf*recht ist ein faszinierendes Fach.
+
+  Cette âme *criminelle* ne connaît pas le remords.
+  Diese *verbrecherische* Seele kennt keine Reue.
+
+  Le procureur a requis une action *criminelle*.
+  Der Staatsanwalt hat *Straf*klage erhoben.
+
+  Son attachement *criminel* à l'argent l'a perdu.
+  Seine *verbrecherische* Geldgier hat ihn zugrunde gerichtet.
+
+  Marie s'est rendue *criminelle* en cachant la vérité.
+  Marie machte sich *strafbar*, indem sie die Wahrheit verschwieg.
+
+  Un dessein *criminel* se cachait derrière son sourire.
+  Eine *verbrecherische* Absicht verbarg sich hinter seinem Lächeln.
+
+  Les pensées *criminelles* l'ont tourmenté toute la nuit.
+  *Verbrecherische* Gedanken quälten ihn die ganze Nacht.
+
+  "La *Criminelle* enquête sur cette mystérieuse disparition."
+  "Die *Kripo* ermittelt in diesem mysteriösen Vermisstenfall."
+
+  Ce *criminel* de droit commun a été transféré dans une autre prison.
+  Dieser gewöhnliche *Verbrecher* wurde in ein anderes Gefängnis verlegt.
+
+  Son comportement *criminel* a choqué tout le quartier.
+  Sein *kriminelles* Verhalten hat die ganze Nachbarschaft schockiert.
+
+  Les désirs *criminels* ont obscurci son jugement.
+  *Verbrecherische* Begierden haben sein Urteilsvermögen getrübt.
+
+  Ce groupe *criminel* contrôle tout le trafic de drogue.
+  Diese *kriminelle* Gruppe kontrolliert den gesamten Drogenhandel.
+
+  L'intention *criminelle* a été prouvée par le procureur.
+  Die *kriminelle* Absicht wurde vom Staatsanwalt nachgewiesen.
+
+  Le complot *criminel* a été déjoué à temps.
+  Die *kriminelle* Verschwörung wurde rechtzeitig vereitelt.
+
+  Cette négligence *criminelle* aurait pu causer une catastrophe.
+  Diese *kriminelle* Fahrlässigkeit hätte eine Katastrophe verursachen können.
+
+  Un acte *criminel* a été commis hier dans notre rue.
+  Eine *Straftat* wurde gestern in unserer Straße begangen.
+
+  Les activités *criminelles* de ce gang ont enfin cessé.
+  Die *kriminellen* Aktivitäten dieser Bande haben endlich aufgehört.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

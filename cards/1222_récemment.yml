@@ -13,14 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai reçu récemment une lettre.
-  Ich habe vor kurzem einen Brief erhalten.
+  J'ai reçu *récemment* une lettre.
+  Ich habe *kürzlich* einen Brief erhalten.
 
-  J’ai récemment visité Paris.
-  Ich habe Paris vor kurzem besucht.
+  Cette chanteuse *récemment* découverte fait beaucoup parler d'elle.
+  Diese *kürzlich* entdeckte Sängerin macht viel von sich reden.
 
-  Une chanteuse découverte récemment a déjà un public nombreux et enthousiaste.
-  Eine neu entdeckte Sängerin hat bereits ein großes und begeistertes Publikum.
+  *Récemment*, le musée a ouvert une nouvelle exposition sur l'art moderne.
+  *Vor Kurzem* hat das Museum eine neue Ausstellung über moderne Kunst eröffnet.
+
+  Les roses sont *récemment* écloses dans notre jardin.
+  Die Rosen sind in unserem Garten *erst vor Kurzem* erblüht.
+
+  Avez-vous visité *récemment* vos grands-parents ?
+  Habt ihr *in letzter Zeit* eure Großeltern besucht?
+
+  Tout *récemment*, j'ai commencé à apprendre le japonais.
+  *Erst kürzlich* habe ich angefangen, Japanisch zu lernen.
+
+  *Récemment*, ils ont déménagé dans un nouvel appartement.
+  Sie sind *vor Kurzem* in eine neue Wohnung umgezogen.
+
+  Cette technologie a été *récemment* développée par nos chercheurs.
+  Diese Technologie wurde von unseren Forschern *erst kürzlich* entwickelt.
+
+  As-tu *récemment* entendu parler de Marie ?
+  Hast du *in letzter Zeit* etwas von Marie gehört?
+
+  Les changements *récemment* effectués ont amélioré le système.
+  Die *kürzlich* vorgenommenen Änderungen haben das System verbessert.
+
+  *Récemment*, nous avons adopté un chaton abandonné.
+  Wir haben *vor Kurzem* ein ausgesetztes Kätzchen adoptiert.
+
+  Le parc a été *récemment* rénové pour accueillir plus de visiteurs.
+  Der Park wurde *kürzlich* renoviert, um mehr Besucher aufnehmen zu können.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

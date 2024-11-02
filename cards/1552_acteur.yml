@@ -13,26 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tu es le plus grand acteur au monde.
-  Du bist der größte Schauspieler der Welt.
+  Tu es le plus grand *acteur* au monde.
+  Du bist der größte *Schauspieler* der Welt.
 
-  Le film a été réalisé par un célèbre acteur français.
-  Der Film wurde von einem berühmten französischen Schauspieler gedreht.
+  Cette *actrice* dramatique a joué dans plus de cinquante films.
+  Diese dramatische *Schauspielerin* hat in über fünfzig Filmen mitgespielt.
 
-  C’est un acteur.
-  Er ist ein Schauspieler.
+  Les *acteurs* amateurs répètent tous les lundis soir dans la salle communale.
+  Die Amateur*schauspieler* proben jeden Montagabend im Gemeindesaal.
 
-  Mon père était un acteur.
-  Mein Vater war Schauspieler.
+  Sophie, une *actrice* non professionnelle, a réussi à émouvoir tout le public.
+  Sophie, eine Laien*schauspielerin*, hat es geschafft, das ganze Publikum zu rühren.
 
-  Tu es un bon acteur.
-  Du bist ein guter Schauspieler.
+  L'*acteur* principal n'est pas venu aux répétitions aujourd'hui.
+  Der Haupt*schauspieler* ist heute nicht zu den Proben gekommen.
 
-  La jeune femme était une actrice non professionnelle, mais elle a joué son rôle avec conviction.
-  Die junge Frau war eine Laienspielerin, aber sie spielte ihre Rolle mit Überzeugung.
+  Cette jeune *actrice* deviendra certainement une star du cinéma.
+  Diese junge *Schauspielerin* wird sicherlich ein Filmstar werden.
 
-  Le garçon, qui n'avait jamais joué au théâtre auparavant, a été choisi pour jouer un rôle dans la pièce de théâtre. Il était un acteur non professionnel.
-  Der Junge, der noch nie zuvor Theater gespielt hatte, wurde für eine Rolle in dem Theaterstück ausgewählt. Er war ein Laienspieler.
+  Les *acteurs* sociaux doivent travailler ensemble pour résoudre ce problème.
+  Die sozialen *Akteure* müssen zusammenarbeiten, um dieses Problem zu lösen.
+
+  Pierre est devenu l'*acteur* principal de cette affaire malgré lui.
+  Pierre wurde gegen seinen Willen zum Haupt*akteur* in dieser Angelegenheit.
+
+  Cette *actrice* de complément n'apparaît que dans deux scènes.
+  Diese Neben*darstellerin* taucht nur in zwei Szenen auf.
+
+  Les *acteurs* du changement climatique ne sont pas que les grandes entreprises.
+  Die *Akteure* des Klimawandels sind nicht nur die großen Unternehmen.
+
+  Marie est une excellente *actrice* comique qui fait rire tout le monde.
+  Marie ist eine ausgezeichnete Comedy-*Schauspielerin*, die alle zum Lachen bringt.
+
+  L'*acteur* de second rang a volé la vedette au protagoniste.
+  Der Neben*darsteller* hat dem Hauptdarsteller die Show gestohlen.
+
+  Tous les *acteurs* du projet se réuniront demain pour discuter des prochaines étapes.
+  Alle *Akteure* des Projekts werden sich morgen treffen, um die nächsten Schritte zu besprechen.
+
+  Cette *actrice* tragique a reçu de nombreux prix pour son interprétation.
+  Diese tragische *Schauspielerin* hat für ihre Darstellung zahlreiche Preise erhalten.
+
+  Les *acteurs* du village ont participé au tournage du documentaire.
+  Die *Darsteller* aus dem Dorf haben an den Dreharbeiten zur Dokumentation teilgenommen.
+
+  Jean est passé d'*acteur* à réalisateur après vingt ans de carrière.
+  Jean wurde nach zwanzig Jahren Karriere vom *Schauspieler* zum Regisseur.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,41 +13,134 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  En voiture, en avion, j’aime le mouvement.
-  Ob im Auto oder im Flugzeug, ich liebe die Bewegung.
+  En voiture, en *avion*, j'aime le mouvement.
+  Mit dem Auto, mit dem *Flugzeug*, ich liebe die Bewegung.
 
-  Je voyage en avion.
-  Ich reise mit dem Flugzeug.
+  Pour son anniversaire, il a reçu un modèle réduit d'*avion* antique.
+  Zu seinem Geburtstag bekam er ein Modell eines antiken *Flugzeugs*.
 
-  Ils ont raté l'avion du soir et ont dû prendre le train.
-  Sie haben die Abendmaschine verpasst und mussten den Zug nehmen.
+  Le pilote a fait décoller l'*avion* à l'heure prévue.
+  Der Pilot ließ das *Flugzeug* pünktlich starten.
 
-  Un avion civil a atterri en toute sécurité à l'aéroport.
-  Ein Zivilflugzeug landete sicher am Flughafen.
+  L'*avion* du soir a été annulé à cause du mauvais temps.
+  Die Abend*maschine* wurde wegen des schlechten Wetters gestrichen.
 
-  L'avion commercial a été retardé en raison d'un problème technique.
-  Das Verkehrsflugzeug wurde aufgrund eines technischen Problems verzögert.
+  Cet *avion* civil transporte jusqu'à 150 passagers.
+  Dieses Zivil*flugzeug* transportiert bis zu 150 Passagiere.
 
-  L'avion militaire a effectué un vol d'entraînement au-dessus de la base.
-  Das Militärflugzeug hat einen Trainingsflug über der Basis absolviert.
+  L'*avion* commercial effectue trois vols par jour.
+  Das Verkehrs*flugzeug* führt täglich drei Flüge durch.
 
-  L'avion furtif est capable de se rendre invisible aux radars.
-  Der Tarnkappenbomber kann für Radarsysteme unsichtbar gemacht werden.
+  Un *avion* militaire survole la zone d'exercice.
+  Ein Militär*flugzeug* überfliegt das Übungsgebiet.
 
-  Le petit avion a décollé de l'aérodrome local.
-  Das Kleinflugzeug startete vom örtlichen Flugplatz.
+  L'*avion* furtif est indétectable par les radars conventionnels.
+  Der Tarnkappen*bomber* ist für konventionelle Radare nicht zu erkennen.
 
-  L'avion postal a transporté des colis dans plusieurs villes.
-  Das Postflugzeug transportierte Pakete in mehrere Städte.
+  Ce petit *avion* ne peut transporter que quatre personnes.
+  Dieses Klein*flugzeug* kann nur vier Personen befördern.
 
-  L'avion privé est arrivé à l'aéroport privé.
-  Das Privatflugzeug landete am Privatflughafen.
+  L'*avion* postal arrive chaque matin à six heures.
+  Das Post*flugzeug* kommt jeden Morgen um sechs Uhr an.
 
-  L'avion renifleur a été utilisé pour surveiller les activités suspectes.
-  Das Aufklärungsflugzeug wurde eingesetzt, um verdächtige Aktivitäten zu überwachen.
+  Elle possède un *avion* privé pour ses déplacements professionnels.
+  Sie besitzt ein Privat*flugzeug* für ihre geschäftlichen Reisen.
 
-  L'avion sanitaire a transporté un patient gravement blessé vers l'hôpital.
-  Das Lazarettflugzeug transportierte einen schwerverletzten Patienten ins Krankenhaus.
+  L'*avion* renifleur détecte les substances dangereuses.
+  Das Aufklärungs*flugzeug* spürt gefährliche Substanzen auf.
+
+  L'*avion* sanitaire a évacué les blessés vers l'hôpital.
+  Das Lazarett*flugzeug* hat die Verletzten ins Krankenhaus evakuiert.
+
+  Un *avion* spécial a été affrété pour l'équipe nationale.
+  Eine Sonder*maschine* wurde für die Nationalmannschaft gechartert.
+
+  L'*avion* supersonique traverse l'Atlantique en trois heures.
+  Das Überschall*flugzeug* überquert den Atlantik in drei Stunden.
+
+  L'*avion* ravitailleur permet aux chasseurs de voler plus longtemps.
+  Das Versorgungs*flugzeug* ermöglicht den Jagdflugzeugen, länger zu fliegen.
+
+  Nous préférons voyager en *avion* plutôt qu'en train.
+  Wir reisen lieber mit dem *Flugzeug* als mit dem Zug.
+
+  L'*avion* survole majestueusement les Alpes.
+  Das *Flugzeug* fliegt majestätisch über die Alpen.
+
+  Mon frère est toujours malade en *avion*.
+  Mein Bruder wird im *Flugzeug* immer krank.
+
+  J'envoie cette lettre par *avion* pour qu'elle arrive plus vite.
+  Ich schicke diesen Brief per *Luftpost*, damit er schneller ankommt.
+
+  Les *avions* à hélices sont plus bruyants que les jets.
+  *Flugzeuge* mit Propellern sind lauter als Jets.
+
+  Cet *avion* à réaction peut atteindre Mach 2.
+  Dieses Düsen*flugzeug* kann Mach 2 erreichen.
+
+  Les *avions* de chasse patrouillent dans le ciel.
+  Die Jagd*flugzeuge* patrouillieren am Himmel.
+
+  Les *avions*-cargos transportent des marchandises lourdes.
+  Die Fracht*flugzeuge* transportieren schwere Waren.
+
+  Les pilotes s'entraînent sur des *avions*-école.
+  Die Piloten trainieren auf Schul*flugzeugen*.
+
+  Les *avions*-radars surveillent l'espace aérien.
+  Die Radar*flugzeuge* überwachen den Luftraum.
+
+  Les *avions*-taxis offrent des vols à la demande.
+  Die Taxi*flugzeuge* bieten Flüge auf Abruf an.
+
+  Je dois prendre l'*avion* demain matin à six heures.
+  Ich muss morgen früh um sechs Uhr das *Flugzeug* nehmen.
+
+  La carlingue de l'*avion* a été endommagée par la grêle.
+  Der Rumpf des *Flugzeugs* wurde durch Hagel beschädigt.
+
+  Cet *avion* de ligne relie Paris à New York.
+  Diese Linien*maschine* verbindet Paris mit New York.
+
+  L'*avion* de tourisme s'est posé sur le petit aérodrome.
+  Das Touristen*flugzeug* ist auf dem kleinen Flugplatz gelandet.
+
+  Nous avons affrété un *avion* pour transporter l'équipe.
+  Wir haben ein *Flugzeug* gechartert, um die Mannschaft zu transportieren.
+
+  L'*avion* long courrier fait escale à Dubai.
+  Das Langstrecken*flugzeug* macht einen Zwischenstopp in Dubai.
+
+  Les ailes de l'*avion* brillent au soleil.
+  Die Flügel des *Flugzeugs* glänzen in der Sonne.
+
+  Notre *avion* vole à neuf mille mètres d'altitude.
+  Unser *Flugzeug* fliegt in neuntausend Metern Höhe.
+
+  Ils ont développé un nouvel *avion* d'assaut.
+  Sie haben ein neues Kampf*flugzeug* entwickelt.
+
+  L'*avion* d'appui tactique soutient les troupes au sol.
+  Das taktische Unterstützungs*flugzeug* unterstützt die Bodentruppen.
+
+  Le décollage de l'*avion* a été parfait.
+  Der Start des *Flugzeugs* war perfekt.
+
+  L'atterrissage de l'*avion* s'est fait en douceur.
+  Die Landung des *Flugzeugs* verlief sanft.
+
+  Le vol de l'*avion* a duré trois heures.
+  Der Flug des *Flugzeugs* dauerte drei Stunden.
+
+  Le pilote de l'*avion* a signalé des turbulences.
+  Der Pilot des *Flugzeugs* meldete Turbulenzen.
+
+  L'*avion* prit rapidement de l'altitude.
+  Das *Flugzeug* gewann schnell an Höhe.
+
+  Les moteurs de l'*avion* ronronnent doucement.
+  Die Motoren des *Flugzeugs* brummen leise.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

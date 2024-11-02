@@ -13,41 +13,101 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle se souvient d’une séance particulièrement pénible.
-  Sie erinnert sich an eine besonders schmerzhafte Sitzung.
+  Elle se souvient d'une *séance* particulièrement pénible.
+  Sie erinnert sich an eine besonders schmerzhafte *Sitzung*.
 
-  La séance commence à 14 heures.
-  Die Sitzung beginnt um 14 Uhr.
+  La *séance* de 20h est complète.
+  Die *Vorstellung* um 20 Uhr ist ausverkauft.
 
-  J'ai réservé des billets pour la séance de cinéma du soir.
-  Ich habe Karten für die Kinovorstellung am Abend reserviert.
+  Le conseil municipal tiendra une *séance* extraordinaire ce soir.
+  Der Gemeinderat wird heute Abend eine Sonder*sitzung* abhalten.
 
-  La police est intervenue séance tenante.
-  Die Polizei ist unverzüglich eingetroffen.
+  Marie a réservé une *séance* de massage pour demain.
+  Marie hat für morgen einen Massage*termin* gebucht.
 
-  Avant d'acheter la voiture, j'ai fait une séance d'essais.
-  Bevor ich das Auto gekauft habe, habe ich eine Probefahrt gemacht.
+  Après trois heures de débat, le président lève la *séance*.
+  Nach drei Stunden Debatte hebt der Präsident die *Sitzung* auf.
 
-  Le film a été présenté en séance privée.
-  Der Film wurde in einer Privatvorführung gezeigt.
+  La première *séance* du film commence à midi.
+  Die erste *Vorstellung* des Films beginnt um zwölf Uhr.
 
-  La séance de gymnastique est très intense.
-  Die Turnstunde ist sehr anstrengend.
+  "Cette *séance* photo va durer au moins deux heures."
+  "Dieses Foto*shooting* wird mindestens zwei Stunden dauern."
 
-  Le photographe a demandé à la jeune femme de faire une séance de pose.
-  Der Fotograf bat die junge Frau, eine Pose einzunehmen.
+  Les députés sont encore en *séance*.
+  Die Abgeordneten *tagen* noch.
 
-  Les soldats ont participé à une séance de tir.
-  Die Soldaten haben an einer Schießübung teilgenommen.
+  J'ai manqué la dernière *séance* de yoga.
+  Ich habe die letzte Yoga*stunde* verpasst.
 
-  Le président a décidé de lever la séance.
-  Der Präsident hat beschlossen, die Sitzung aufzuheben.
+  La *séance* d'entraînement commence dans dix minutes.
+  Die Trainings*einheit* beginnt in zehn Minuten.
 
-  Le conseil d'administration a convoqué une séance extraordinaire.
-  Der Vorstand hat eine Sondersitzung einberufen.
+  Le médecin propose une nouvelle *séance* de kinésithérapie.
+  Der Arzt schlägt einen weiteren Physiotherapie*termin* vor.
 
-  La séance du comité de direction a duré trois heures.
-  Die Vorstandssitzung dauerte drei Stunden.
+  Nous organisons une *séance* privée pour les investisseurs.
+  Wir organisieren eine Privat*vorführung* für die Investoren.
+
+  La *séance* de dédicaces aura lieu dans la librairie.
+  Die Autogramm*stunde* findet in der Buchhandlung statt.
+
+  Les enfants attendent avec impatience la prochaine *séance*.
+  Die Kinder warten ungeduldig auf die nächste *Vorstellung*.
+
+  La *séance* plénière commence à neuf heures précises.
+  Die Plenar*sitzung* beginnt pünktlich um neun Uhr.
+
+  Il faut réserver sa *séance* à l'avance.
+  Man muss seinen *Termin* im Voraus buchen.
+
+  Le photographe a programmé une *séance* de pose.
+  Der Fotograf hat ein *Modellsitzen* angesetzt.
+
+  Une *séance* supplémentaire sera ajoutée dimanche.
+  Am Sonntag wird eine zusätzliche *Vorstellung* angeboten.
+
+  La *séance* d'essayage a duré plus longtemps que prévu.
+  Die Anprobe*sitzung* hat länger gedauert als erwartet.
+
+  Les membres du comité ont décidé, *séance* tenante, d'accepter la proposition.
+  Die Ausschussmitglieder haben noch während der *Sitzung* beschlossen, den Vorschlag anzunehmen.
+
+  Cette *séance* de tir lui a permis de s'améliorer.
+  Diese Schieß*übung* hat ihm geholfen, sich zu verbessern.
+
+  La *séance* d'ouverture du congrès aura lieu demain.
+  Die Eröffnungs*sitzung* des Kongresses findet morgen statt.
+
+  Le conducteur a effectué une *séance* d'essais sur le circuit.
+  Der Fahrer hat eine Probe*fahrt* auf der Rennstrecke gemacht.
+
+  La *séance* de lecture publique commence à 18 heures.
+  Die Lese*stunde* beginnt um 18 Uhr.
+
+  Le conseil d'administration tient sa *séance* mensuelle.
+  Der Vorstand hält seine monatliche *Sitzung* ab.
+
+  La *séance* de rattrapage est prévue pour vendredi.
+  Die Nachholungs*stunde* ist für Freitag geplant.
+
+  La dernière *séance* s'est terminée très tard.
+  Die letzte *Vorstellung* endete sehr spät.
+
+  Le président a suspendu la *séance* pour une heure.
+  Der Präsident hat die *Sitzung* für eine Stunde unterbrochen.
+
+  Les étudiants participent à une *séance* de révision.
+  Die Studenten nehmen an einer Wiederholungs*stunde* teil.
+
+  Pierre anime une *séance* d'information pour les nouveaux employés.
+  Pierre leitet eine Informations*sitzung* für die neuen Mitarbeiter.
+
+  La *séance* de dégustation a lieu dans la cave.
+  Die Verkostungs*probe* findet im Weinkeller statt.
+
+  Le psychologue propose une nouvelle *séance* la semaine prochaine.
+  Der Psychologe schlägt für nächste Woche einen neuen *Termin* vor.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

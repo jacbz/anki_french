@@ -13,41 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Un seul bateau de pêche a survécu à la tourmente.
-  Nur ein Fischerboot überlebte den Sturm.
+  Un seul *bateau* de pêche a survécu à la tourmente.
+  Nur ein Fisch*boot* hat den Sturm überlebt.
 
-  Le bateau est arrivé au port.
-  Das Schiff ist im Hafen angekommen.
+  Nous avons fait une belle promenade en *bateau* sur le lac.
+  Wir haben eine schöne *Boot*sfahrt auf dem See gemacht.
 
-  Mon bateau est petit.
-  Mein Boot ist klein.
+  Le petit *bateau* gonflable nous a servi pendant toutes les vacances.
+  Das kleine Schlauch*boot* hat uns den ganzen Urlaub über gedient.
 
-  Ils avaient un bateau.
-  Sie hatten ein Boot.
+  "Je te préviens, ne me mène pas en *bateau* !"
+  "Ich warne dich, nimm mich nicht auf den *Arm*!"
 
-  Tu peux y aller en bateau.
-  Du kannst mit dem Boot dorthin fahren.
+  Pour livrer le pétrole, ils utilisent un *bateau*-citerne.
+  Um das Öl zu liefern, benutzen sie einen Tank*er*.
 
-  Je suis le capitaine de ce bateau.
-  Ich bin der Kapitän dieses Schiffes.
+  Les *bateaux* à aubes sont typiques du Mississippi.
+  Die Schaufelrad*boote* sind typisch für den Mississippi.
 
-  Vous et moi sommes dans le même bateau.
-  Sie und ich sitzen im selben Boot.
+  Notre équipe est très soudée : "*On est tous dans le même bateau*".
+  Unser Team hält zusammen: "*Wir sitzen alle in einem Boot*".
 
-  Le bateau côtier était petit mais confortable.
-  Das Küstenschiff war klein, aber gemütlich.
+  Les touristes adorent faire un tour en *bateau*-mouche sur la Seine.
+  Die Touristen lieben eine Fahrt mit dem Ausflugs*boot* auf der Seine.
 
-  On est tous dans le même bateau, face à cette crise.
-  Wir sitzen alle in einem Boot, angesichts dieser Krise.
+  "Il m'a raconté un *bateau* que je n'ai pas cru une seconde."
+  "Er hat mir eine *abgedroschene* Geschichte erzählt, die ich keine Sekunde geglaubt habe."
 
-  Il a essayé de mener sa sœur en bateau, mais elle a tout compris.
-  Er hat versucht, seine Schwester auf den Arm zu nehmen, aber sie hat alles durchschaut.
+  Le *bateau* de sauvetage est intervenu rapidement malgré la tempête.
+  Das Rettungs*boot* kam trotz des Sturms schnell zum Einsatz.
 
-  Ils ont embarqué dans un bateau gonflable pour explorer la côte.
-  Sie sind mit einem Schlauchboot losgefahren, um die Küste zu erkunden.
+  La marchandise sera transportée par *bateau* jusqu'au port de Marseille.
+  Die Ware wird per *Schiff* bis zum Hafen von Marseille transportiert.
 
-  Nous avons décidé de prendre le bateau pour aller sur l'île voisine.
-  Wir haben beschlossen, mit dem Schiff zur Nachbarinsel zu fahren.
+  Ce *bateau* à voiles peut atteindre des vitesses impressionnantes.
+  Dieses Segel*boot* kann beeindruckende Geschwindigkeiten erreichen.
+
+  Les enfants jouent avec un petit *bateau* en papier dans la fontaine.
+  Die Kinder spielen mit einem kleinen Papier*boot* im Brunnen.
+
+  Le *bateau* côtier navigue le long des plages tous les jours.
+  Das Küsten*schiff* fährt jeden Tag an den Stränden entlang.
+
+  "Tu me montes un *bateau* ou c'est la vérité ?"
+  "Nimmst du mich auf den *Arm* oder ist das die Wahrheit?"
+
+  Sa robe avec un décolleté *bateau* était très élégante.
+  Ihr Kleid mit *Boot*sausschnitt war sehr elegant.
+
+  Un *bateau* de charbon vient d'arriver au port.
+  Ein Kohle*frachter* ist gerade im Hafen eingetroffen.
+
+  Les *bateaux* de plaisance doivent respecter la limitation de vitesse.
+  Die Freizeit*boote* müssen die Geschwindigkeitsbegrenzung einhalten.
+
+  Le garage dispose d'un *bateau* pour faciliter l'accès des voitures.
+  Die Garage hat eine *Ausfahrt*, um die Zufahrt für Autos zu erleichtern.
+
+  C'est un sujet de dissertation vraiment *bateau*.
+  Das ist ein wirklich *abgedroschenes* Aufsatzthema.
+
+  Le pont de *bateaux* permet aux soldats de traverser la rivière.
+  Die *Schiffs*brücke ermöglicht es den Soldaten, den Fluss zu überqueren.
+
+  Notre *bateau* à moteur est tombé en panne au milieu du lac.
+  Unser Motor*boot* ist mitten auf dem See liegengeblieben.
+
+  Le vieux lit *bateau* appartenait à ma grand-mère.
+  Das alte *Boot*sbett gehörte meiner Großmutter.
+
+  Les *bateaux* de guerre patrouillent dans les eaux territoriales.
+  Die Kriegs*schiffe* patrouillieren in den Hoheitsgewässern.
+
+  Il adore faire du *bateau* pendant ses vacances.
+  Er liebt es, während seines Urlaubs *Boot* zu fahren.
+
+  Le petit *bateau* à fond plat est parfait pour la pêche en rivière.
+  Das kleine Flach*boot* ist perfekt zum Angeln auf dem Fluss.
+
+  Ces arguments *bateau* ne convaincront personne.
+  Diese *abgedroschenen* Argumente werden niemanden überzeugen.
+
+  Un *bateau* de blé attend son tour pour être déchargé.
+  Ein Getreide*frachter* wartet darauf, entladen zu werden.
+
+  "Il est arrivé par le dernier *bateau*, il ne connaît pas nos habitudes."
+  "Er ist völlig ahnungslos, er kennt unsere Gewohnheiten nicht."
+
+  Nous avons réservé une croisière sur un grand *bateau* de luxe.
+  Wir haben eine Kreuzfahrt auf einem großen Luxus*schiff* gebucht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

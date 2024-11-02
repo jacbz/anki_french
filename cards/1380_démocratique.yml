@@ -13,11 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il ne respecte pas le processus démocratique.
-  Er respektiert den demokratischen Prozess nicht.
+  Il ne respecte pas le processus *démocratique*.
+  Er respektiert nicht den *demokratischen* Prozess.
 
-  La France est une république démocratique.
-  Frankreich ist eine demokratische Republik.
+  L'entreprise est gérée de façon *démocratique* par ses employés.
+  Das Unternehmen wird von seinen Mitarbeitern *demokratisch* geführt.
+
+  Les valeurs *démocratiques* sont au cœur de notre société.
+  Die *demokratischen* Werte stehen im Mittelpunkt unserer Gesellschaft.
+
+  Notre association prend ses décisions de manière *démocratique*.
+  Unser Verein trifft seine Entscheidungen auf *demokratische* Weise.
+
+  Le débat s'est déroulé dans un esprit *démocratique*.
+  Die Debatte verlief in einem *demokratischen* Geist.
+
+  Les citoyens ont élu un gouvernement *démocratique*.
+  Die Bürger haben eine *demokratische* Regierung gewählt.
+
+  Les institutions *démocratiques* doivent être protégées.
+  Die *demokratischen* Institutionen müssen geschützt werden.
+
+  Cette réforme *démocratique* donnera plus de droits aux citoyens.
+  Diese *demokratische* Reform wird den Bürgern mehr Rechte geben.
+
+  Le vote *démocratique* est un droit fondamental.
+  Die *demokratische* Wahl ist ein Grundrecht.
+
+  Les partis *démocratiques* ont formé une coalition.
+  Die *demokratischen* Parteien haben eine Koalition gebildet.
+
+  Cette mesure *démocratique* vise à réduire les inégalités.
+  Diese *demokratische* Maßnahme zielt darauf ab, Ungleichheiten zu verringern.
+
+  Le système éducatif doit être plus *démocratique*.
+  Das Bildungssystem muss *demokratischer* werden.
+
+  La transition vers un régime *démocratique* prendra du temps.
+  Der Übergang zu einem *demokratischen* System wird Zeit brauchen.
+
+  Les principes *démocratiques* sont inscrits dans la constitution.
+  Die *demokratischen* Prinzipien sind in der Verfassung verankert.
+
+  Cette fête *démocratique* est ouverte à tous les habitants du quartier.
+  Dieses *demokratische* Fest steht allen Bewohnern des Viertels offen.
+
+  Il défend un style de vie simple et *démocratique*.
+  Er verteidigt einen einfachen und *demokratischen* Lebensstil.
+
+  Les mœurs *démocratiques* se sont développées progressivement.
+  Die *demokratischen* Sitten haben sich nach und nach entwickelt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

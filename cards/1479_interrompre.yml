@@ -13,20 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je n’aime pas qu’on m’interrompe.
-  Ich mag es nicht, wenn man mich unterbricht.
+  Je n'aime pas qu'on m'*interrompe*.
+  Ich mag es nicht, wenn man mich *unterbricht*.
 
-  Je ne veux pas vous interrompre, mais j’ai une question.
-  Ich möchte Sie nicht unterbrechen, aber ich habe eine Frage.
+  Le professeur a été *interrompu* plusieurs fois pendant son cours.
+  Der Lehrer wurde während seines Unterrichts mehrmals *unterbrochen*.
 
-  Le président a été interrompu plusieurs fois pendant son discours.
-  Der Präsident wurde bei seiner Rede mehrmals unterbrochen.
+  Les travaux ont *interrompu* la circulation dans le centre-ville.
+  Die Bauarbeiten haben den Verkehr in der Innenstadt *unterbrochen*.
 
-  Ne vous interrompez pas pour moi, je peux bien attendre un peu.
-  Lassen Sie sich von mir nicht stören, ich kann ruhig etwas warten.
+  La sonnerie du téléphone l'a *interrompu* dans sa lecture.
+  Das Klingeln des Telefons hat ihn beim Lesen *unterbrochen*.
 
-  Le projet est interrompu en raison du manque de financement.
-  Das Projekt liegt wegen fehlender Finanzierung brach.
+  Le film s'est *interrompu* au moment le plus excitant.
+  Der Film wurde im spannendsten Moment *unterbrochen*.
+
+  Marie s'est *interrompue* au milieu de sa phrase.
+  Marie hat mitten im Satz *innegehalten*.
+
+  La pluie s'est enfin *interrompue* après trois jours.
+  Der Regen hat nach drei Tagen endlich *aufgehört*.
+
+  Il a dû *interrompre* ses études pour des raisons financières.
+  Er musste sein Studium aus finanziellen Gründen *abbrechen*.
+
+  La distribution d'électricité sera *interrompue* pendant deux heures.
+  Die Stromversorgung wird für zwei Stunden *unterbrochen*.
+
+  Thomas s'est *interrompu* brusquement en la voyant entrer.
+  Thomas *verstummte* plötzlich, als er sie hereinkommen sah.
+
+  Le silence fut *interrompu* par un cri strident.
+  Die Stille wurde von einem schrillen Schrei *durchbrochen*.
+
+  La séance a été *interrompue* par une urgence.
+  Die Sitzung wurde durch einen Notfall *unterbrochen*.
+
+  Elle s'est *interrompue* pour reprendre son souffle.
+  Sie hat *innegehalten*, um Luft zu holen.
+
+  Les négociations ont été *interrompues* sans explication.
+  Die Verhandlungen wurden ohne Erklärung *abgebrochen*.
+
+  Le chemin s'*interrompt* brutalement au bord de la falaise.
+  Der Weg *endet* abrupt am Rand der Klippe.
+
+  Paul *interrompit* la conversation pour répondre au téléphone.
+  Paul *unterbrach* das Gespräch, um ans Telefon zu gehen.
+
+  Les manifestants ont *interrompu* le discours du ministre.
+  Die Demonstranten haben die Rede des Ministers *unterbrochen*.
+
+  Le service sera *interrompu* entre minuit et quatre heures du matin.
+  Der Dienst wird zwischen Mitternacht und vier Uhr morgens *unterbrochen*.
+
+  La construction du pont a été *interrompue* par manque de fonds.
+  Der Brückenbau wurde wegen Geldmangels *unterbrochen*.
+
+  Sophie s'est *interrompue* au milieu de son récit.
+  Sophie hat mitten in ihrer Erzählung *innegehalten*.
+
+  Les applaudissements ont *interrompu* son discours plusieurs fois.
+  Der Applaus hat seine Rede mehrmals *unterbrochen*.
+
+  Le match a été *interrompu* à cause de la pluie.
+  Das Spiel wurde wegen des Regens *unterbrochen*.
+
+  La connexion internet s'est *interrompue* pendant la réunion.
+  Die Internetverbindung wurde während der Besprechung *unterbrochen*.
+
+  Elle a dû *interrompre* sa grossesse pour des raisons médicales.
+  Sie musste ihre Schwangerschaft aus medizinischen Gründen *abbrechen*.
+
+  Les traditions ne se sont jamais *interrompues* dans ce village.
+  Die Traditionen wurden in diesem Dorf nie *unterbrochen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

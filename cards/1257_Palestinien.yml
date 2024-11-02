@@ -13,11 +13,41 @@ Register: ↘Fiktion ↗Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les mères palestiniennes veulent que leurs enfants grandissent dans la paix.
-  Palästinensische Mütter wollen, dass ihre Kinder in Frieden aufwachsen.
+  Les mères *palestiniennes* veulent que leurs enfants grandissent dans la paix.
+  Die *palästinensischen* Mütter wollen, dass ihre Kinder in Frieden aufwachsen.
 
-  Les Palestiniens luttent pour leur indépendance.
-  Die Palästinenser kämpfen für ihre Unabhängigkeit.
+  La cuisine *palestinienne* est connue pour ses délicieuses recettes traditionnelles.
+  Die *palästinensische* Küche ist für ihre köstlichen traditionellen Rezepte bekannt.
+
+  Les oliviers sont un symbole important de la culture *palestinienne*.
+  Olivenbäume sind ein wichtiges Symbol der *palästinensischen* Kultur.
+
+  De nombreux *Palestiniens* vivent aujourd'hui à l'étranger.
+  Viele *Palästinenser* leben heute im Ausland.
+
+  La musique *palestinienne* mélange des influences orientales et modernes.
+  Die *palästinensische* Musik vermischt orientalische und moderne Einflüsse.
+
+  Cette *Palestinienne* enseigne l'arabe à l'université.
+  Diese *Palästinenserin* unterrichtet Arabisch an der Universität.
+
+  L'artisanat *palestinien* se transmet de génération en génération.
+  Das *palästinensische* Handwerk wird von Generation zu Generation weitergegeben.
+
+  Les traditions *palestiniennes* font partie du patrimoine culturel du Moyen-Orient.
+  Die *palästinensischen* Traditionen sind Teil des kulturellen Erbes des Nahen Ostens.
+
+  La broderie *palestinienne* est célèbre dans le monde entier.
+  Die *palästinensische* Stickerei ist weltberühmt.
+
+  Le thé à la menthe est une boisson typique de la culture *palestinienne*.
+  Minztee ist ein typisches Getränk der *palästinensischen* Kultur.
+
+  Cette région était historiquement une zone *palestinienne*.
+  Diese Region war historisch ein *palästinensisches* Gebiet.
+
+  Les danses *palestiniennes* sont souvent présentées lors des festivals culturels.
+  Die *palästinensischen* Tänze werden oft bei Kulturfestivals aufgeführt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

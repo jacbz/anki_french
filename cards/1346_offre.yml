@@ -13,44 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il n’y avait aucune offre d’emploi.
-  Es gab keine Stellenangebote.
+  Il n'y avait aucune *offre* d'emploi.
+  Es gab kein Stellen*angebot*.
 
-  Cette offre est valable jusqu’à la fin du mois.
-  Dieses Angebot ist bis zum Ende des Monats gültig.
+  L'*offre* et la demande déterminent les prix sur le marché.
+  *Angebot* und Nachfrage bestimmen die Preise auf dem Markt.
 
-  Fais une offre.
-  Mach ein Angebot.
+  Cette *offre* exceptionnelle est valable jusqu'à demain soir.
+  Dieses Top*angebot* gilt noch bis morgen Abend.
 
-  L'offre et la demande régulent les prix sur le marché.
-  Angebot und Nachfrage regulieren die Preise auf dem Markt.
+  L'entreprise a fait une *offre* ferme de 500 euros.
+  Die Firma hat ein bindendes *Angebot* von 500 Euro gemacht.
 
-  La société a lancé un appel d'offres pour la construction du nouveau stade.
-  Die Gesellschaft hat eine Ausschreibung für den Bau des neuen Stadions gestartet.
+  "Je ne peux pas refuser une telle *offre*!"
+  "So ein *Angebot* kann ich nicht ablehnen!"
 
-  Le tribunal a accepté l'offre concordataire, ce qui a permis de sauver l'entreprise.
-  Das Gericht hat den Vergleichsvorschlag angenommen, wodurch das Unternehmen gerettet werden konnte.
+  Son *offre* de service a été immédiatement acceptée.
+  Sein Dienst*angebot* wurde sofort angenommen.
 
-  L'offre concurrentielle de la société était la plus avantageuse.
-  Das Konkurrenzangebot der Gesellschaft war das günstigste.
+  La société a lancé une *offre* publique d'achat.
+  Die Gesellschaft hat ein öffentliches Übernahme*angebot* gestartet.
 
-  Le client a reçu une deuxième offre, plus avantageuse que la première.
-  Der Kunde hat ein Alternativangebot erhalten, das günstiger war als das erste.
+  Cette *offre* forfaitaire comprend le vol et l'hôtel.
+  Dieses Pauschal*angebot* enthält Flug und Hotel.
 
-  L'offre excédentaire a entraîné une baisse des prix.
-  Der Angebotsüberschuss hat zu einem Preisverfall geführt.
+  Nous avons reçu trois *offres* concurrentielles pour ce projet.
+  Wir haben drei Konkurrenz*angebote* für dieses Projekt erhalten.
 
-  L'offre exceptionnelle de l'entreprise a séduit les investisseurs.
-  Das Topangebot der Firma hat die Investoren begeistert.
+  L'*offre* excédentaire a fait chuter les prix.
+  Der *Angebots*überschuss hat die Preise fallen lassen.
 
-  L'offre ferme était valable pour une semaine.
-  Das bindende Angebot galt für eine Woche.
+  Je vous fais une *offre* au comptant de 1000 euros.
+  Ich mache Ihnen ein Bar*angebot* von 1000 Euro.
 
-  L'offre forfaitaire couvrait tous les frais.
-  Das Pauschalangebot umfasste alle Kosten.
+  Quelle est votre meilleure *offre*?
+  Was ist Ihr Spitzen*angebot*?
 
-  La meilleure offre a été retenue par le comité.
-  Das Spitzenangebot wurde vom Ausschuss ausgewählt.
+  L'*offre* minimum pour cette maison est de 200.000 euros.
+  Das Mindest*angebot* für dieses Haus beträgt 200.000 Euro.
+
+  Cette *offre* sans engagement est valable une semaine.
+  Dieses unverbindliche *Angebot* gilt eine Woche.
+
+  Nous avons une vaste *offre* de produits bio.
+  Wir haben ein reichliches *Angebot* an Bio-Produkten.
+
+  L'*offre* d'emplois dans ce secteur est en baisse.
+  Das *Angebot* an Arbeitsplätzen in diesem Sektor ist rückläufig.
+
+  Les candidats doivent répondre à l'appel d'*offres* avant vendredi.
+  Die Kandidaten müssen auf die Aus*schreibung* bis Freitag antworten.
+
+  Une deuxième *offre* sera présentée la semaine prochaine.
+  Ein Alternativ*angebot* wird nächste Woche vorgelegt.
+
+  J'ai reçu une *offre* très avantageuse hier.
+  Ich habe gestern ein sehr vorteilhaftes *Angebot* erhalten.
+
+  La banque a rejeté notre *offre*.
+  Die Bank hat unser *Angebot* abgelehnt.
+
+  Ils ont fait une *offre* d'échange intéressante.
+  Sie haben ein interessantes Tausch*angebot* gemacht.
+
+  L'*offre* de logements dépasse largement la demande.
+  Das Wohnungs*angebot* übersteigt die Nachfrage bei weitem.
+
+  Cette *offre* est valable dans la limite des stocks disponibles.
+  Dieses *Angebot* gilt nur, solange der Vorrat reicht.
+
+  As-tu vu la nouvelle *offre* promotionnelle?
+  Hast du das neue Werbe*angebot* gesehen?
+
+  Marc a accepté l'*offre* d'achat pour sa voiture.
+  Marc hat das Kauf*angebot* für sein Auto akzeptiert.
+
+  Nous examinerons votre *offre* avec attention.
+  Wir werden Ihr *Angebot* sorgfältig prüfen.
+
+  Cette *offre* spéciale est réservée à nos clients fidèles.
+  Dieses Spezial*angebot* ist unseren treuen Kunden vorbehalten.
+
+  L'*offre* culturelle de cette ville est impressionnante.
+  Das Kultur*angebot* dieser Stadt ist beeindruckend.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

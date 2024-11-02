@@ -13,53 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les téléphones ne marchent pas.
-  Die Telefone funktionieren nicht.
+  Les *téléphones* ne marchent pas.
+  Die *Telefone* funktionieren nicht.
 
-  Je vais répondre au téléphone.
-  Ich werde ans Telefon gehen.
+  J'ai oublié mon *téléphone* portable à la maison.
+  Ich habe mein *Handy* zu Hause vergessen.
 
-  Passe-moi ce téléphone.
-  Geben Sie mir das Telefon.
+  Elle passe des heures au *téléphone* avec sa meilleure amie.
+  Sie verbringt stundenlang am *Telefon* mit ihrer besten Freundin.
 
-  Je suis au téléphone.
-  Ich bin am Telefon.
+  Le *téléphone* sans fil ne capte plus le signal.
+  Das schnurlose *Telefon* empfängt kein Signal mehr.
 
-  Où est mon téléphone ?
-  Wo ist mein Handy?
+  "Par le *téléphone* arabe, les nouvelles se répandent très vite dans le bureau."
+  "Über die *Buschtrommel* verbreiten sich die Neuigkeiten sehr schnell im Büro."
 
-  Je dois passer un coup de téléphone.
-  Ich muss einen Anruf tätigen.
+  Mon nouveau *téléphone* satellite fonctionne même dans le désert.
+  Mein neues *Satellitentelefon* funktioniert sogar in der Wüste.
 
-  Je crois que nous avons parlé au téléphone.
-  Ich glaube, wir haben telefoniert.
+  As-tu noté son numéro de *téléphone* ?
+  Hast du seine *Telefon*nummer aufgeschrieben?
 
-  C'est un téléphone sans fil, ce qui est pratique pour se déplacer dans la maison.
-  Das ist ein schnurloses Telefon, das ist praktisch, um sich im Haus zu bewegen.
+  Les frais de *téléphone* ont considérablement augmenté ce mois-ci.
+  Die *Telefon*kosten sind diesen Monat erheblich gestiegen.
 
-  La musique des tambours était utilisée comme un téléphone arabe dans les villages africains.
-  Die Musik der Trommeln wurde als eine Art Buschtrommel in afrikanischen Dörfern genutzt.
+  Il y a une cabine *téléphone* au coin de la rue.
+  An der Straßenecke ist eine *Telefon*zelle.
 
-  J'ai un téléphone mobile à cartes, il me permet de téléphoner à bas prix.
-  Ich habe ein Kartentelefon, es ermöglicht mir, günstig zu telefonieren.
+  Le *téléphone* visuel facilite la communication avec les personnes sourdes.
+  Das Bild*telefon* erleichtert die Kommunikation mit gehörlosen Menschen.
 
-  J'ai trouvé un téléphone public dans la rue, j'ai pu appeler mon ami.
-  Ich habe in der Straße eine Telefonzelle gefunden, ich konnte meinen Freund anrufen.
+  Tu peux me donner un coup de *téléphone* quand tu arrives ?
+  Kannst du mich *an**rufen*, wenn du ankommst?
 
-  Le téléphone satellite permet de communiquer même dans les zones reculées.
-  Das Satellitentelefon ermöglicht die Kommunikation auch in abgelegenen Gebieten.
+  Sophie est au *téléphone* depuis une heure.
+  Sophie *telefoniert* seit einer Stunde.
 
-  Le téléphone visuel permet de voir la personne avec qui on parle.
-  Das Bildtelefon ermöglicht es, die Person zu sehen, mit der man spricht.
+  J'ai perdu mon *téléphone* mobile à cartes hier soir.
+  Ich habe gestern Abend mein Karten*telefon* verloren.
 
-  J'ai appelé mon père au téléphone pour lui souhaiter un joyeux anniversaire.
-  Ich habe meinen Vater angerufen, um ihm zum Geburtstag zu gratulieren.
+  Le *téléphone* sonne depuis ce matin.
+  Das *Telefon* klingelt seit heute Morgen.
 
-  Elle est au téléphone depuis une heure, je ne peux pas la déranger.
-  Sie telefoniert seit einer Stunde, ich kann sie nicht stören.
+  Marc n'a pas encore payé sa facture de *téléphone*.
+  Marc hat seine *Telefon*rechnung noch nicht bezahlt.
 
-  Les frais de téléphone sont très élevés, il faut faire attention.
-  Die Telefonkosten sind sehr hoch, man muss aufpassen.
+  Je ne peux pas vivre sans mon *téléphone* portable.
+  Ich kann ohne mein *Handy* nicht leben.
+
+  Le vieux *téléphone* noir appartenait à mes grands-parents.
+  Das alte schwarze *Telefon* gehörte meinen Großeltern.
+
+  Paul cherche son *téléphone* partout dans l'appartement.
+  Paul sucht überall in der Wohnung nach seinem *Handy*.
+
+  Le *téléphone* public ne prend plus les pièces.
+  Die öffentliche *Telefon*zelle nimmt keine Münzen mehr an.
+
+  Elle a changé son numéro de *téléphone* la semaine dernière.
+  Sie hat letzte Woche ihre *Telefon*nummer geändert.
+
+  Je n'ai plus de batterie sur mon *téléphone* mobile.
+  Mein *Handy* hat keinen Akku mehr.
+
+  Le *téléphone* n'arrête pas de sonner aujourd'hui.
+  Das *Telefon* hört heute nicht auf zu klingeln.
+
+  Il faut que je recharge mon *téléphone* portable.
+  Ich muss mein *Handy* aufladen.
+
+  Mon *téléphone* est tombé dans l'eau.
+  Mein *Telefon* ist ins Wasser gefallen.
+
+  L'invention du *téléphone* a révolutionné la communication.
+  Die Erfindung des *Telefons* hat die Kommunikation revolutioniert.
+
+  Marie ne répond jamais au *téléphone* quand elle travaille.
+  Marie geht nie ans *Telefon*, wenn sie arbeitet.
+
+  Le réseau *téléphone* est en panne dans tout le quartier.
+  Das *Telefon*netz ist im ganzen Viertel ausgefallen.
+
+  Je dois acheter un nouveau *téléphone* portable.
+  Ich muss mir ein neues *Handy* kaufen.
+
+  Tu as son *téléphone* mobile ?
+  Hast du seine *Handy*nummer?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

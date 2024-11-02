@@ -13,29 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous sommes aussi parvenus à éliminer le déficit.
-  Es ist uns auch gelungen, das Defizit zu beseitigen.
+  Nous sommes aussi parvenus à *éliminer* le déficit.
+  Wir konnten auch das Defizit *beseitigen*.
 
-  Nous devons éliminer les mauvaises herbes.
-  Wir müssen das Unkraut ausscheiden.
+  Ces plantes *éliminent* naturellement les toxines du sol.
+  Diese Pflanzen *scheiden* auf natürliche Weise Giftstoffe aus dem Boden *aus*.
 
-  Le corps humain peut parfois mal éliminer les toxines, ce qui peut entraîner des problèmes de santé.
-  Der menschliche Körper kann Giftstoffe manchmal nur unvollständig ausscheiden, was zu gesundheitlichen Problemen führen kann.
+  Le comité a *éliminé* trois candidats lors du premier tour.
+  Das Komitee hat drei Kandidaten in der ersten Runde *ausgeschlossen*.
 
-  Il a été éliminé à l'oral, car il n'a pas pu répondre correctement aux questions du jury.
-  Er ist im Mündlichen durchgefallen, da er die Fragen der Jury nicht richtig beantworten konnte.
+  Le nouveau détergent *élimine* facilement les taches de vin rouge.
+  Das neue Waschmittel *entfernt* Rotweinflecken mühelos.
 
-  Les pesticides utilisés dans l'agriculture sont difficiles à éliminer du sol.
-  Die Pestizide, die in der Landwirtschaft verwendet werden, lassen sich nur schwer aus dem Boden entfernen.
+  Cette équipe a été *éliminée* en quarts de finale.
+  Diese Mannschaft ist im Viertelfinale *ausgeschieden*.
 
-  Le candidat a été éliminé de la course à la présidence après un scandale.
-  Der Kandidat wurde nach einem Skandal aus dem Rennen um die Präsidentschaft geworfen.
+  Les reins *éliminent* les déchets de l'organisme.
+  Die Nieren *scheiden* die Abfallstoffe des Körpers *aus*.
 
-  L'équipe a été éliminée de la compétition après avoir perdu son dernier match.
-  Die Mannschaft wurde nach der Niederlage im letzten Spiel vom Wettkampf ausgeschlossen.
+  Le professeur a dû *éliminer* plusieurs questions trop difficiles du test.
+  Der Lehrer musste mehrere zu schwierige Fragen aus dem Test *streichen*.
 
-  Le coureur a été éliminé de la course après une chute.
-  Der Läufer ist nach einem Sturz aus dem Rennen ausgeschieden.
+  Il faut *éliminer* toutes les erreurs avant de publier le document.
+  Vor der Veröffentlichung des Dokuments müssen alle Fehler *beseitigt* werden.
+
+  Cette méthode permet d'*éliminer* rapidement les parasites.
+  Diese Methode *vernichtet* die Parasiten schnell.
+
+  Les grandes entreprises ont progressivement *éliminé* leurs concurrents plus petits.
+  Die großen Unternehmen haben ihre kleineren Konkurrenten nach und nach *verdrängt*.
+
+  Le sportif a été *éliminé* de la compétition pour dopage.
+  Der Sportler wurde wegen Dopings vom Wettkampf *ausgeschlossen*.
+
+  Ce médicament aide à mieux *éliminer* les toxines.
+  Dieses Medikament hilft dabei, Giftstoffe besser *auszuscheiden*.
+
+  La nouvelle loi va *éliminer* de nombreux obstacles administratifs.
+  Das neue Gesetz wird viele administrative Hindernisse *aus dem Weg räumen*.
+
+  Les juges ont *éliminé* tous les candidats qui sont arrivés en retard.
+  Die Jury hat alle Kandidaten *ausgeschlossen*, die zu spät gekommen sind.
+
+  L'usine doit *éliminer* ses déchets de manière écologique.
+  Die Fabrik muss ihre Abfälle umweltgerecht *entsorgen*.
+
+  Cette solution permet d'*éliminer* une inconnue dans l'équation.
+  Diese Lösung ermöglicht es, eine Unbekannte in der Gleichung zu *eliminieren*.
+
+  Le nouveau système *élimine* automatiquement les fichiers en double.
+  Das neue System *entfernt* doppelte Dateien automatisch.
+
+  Les services techniques ont *éliminé* tous les bugs du logiciel.
+  Die technische Abteilung hat alle Fehler in der Software *beseitigt*.
+
+  Son corps n'arrive pas à bien *éliminer* l'alcool.
+  Sein Körper kann Alkohol nicht gut *abbauen*.
+
+  Le filtre *élimine* 99% des impuretés de l'eau.
+  Der Filter *entfernt* 99% der Verunreinigungen aus dem Wasser.
+
+  Cette crème dentaire *élimine* efficacement le tartre.
+  Diese Zahnpasta *entfernt* Zahnstein wirksam.
+
+  Le comité de sélection a *éliminé* sa candidature.
+  Der Auswahlausschuss hat seine Bewerbung *abgelehnt*.
+
+  Les nouvelles règles vont *éliminer* de nombreuses possibilités de fraude.
+  Die neuen Regeln werden viele Betrugsmöglichkeiten *ausschließen*.
+
+  Il faut *éliminer* les mots inutiles pour améliorer le style.
+  Man muss überflüssige Wörter *streichen*, um den Stil zu verbessern.
+
+  La chaleur aide à *éliminer* l'excès d'eau du corps.
+  Die Hitze hilft dabei, überschüssiges Wasser aus dem Körper *auszuscheiden*.
+
+  Le nouveau pesticide *élimine* efficacement les mauvaises herbes.
+  Das neue Pestizid *vernichtet* Unkraut effektiv.
+
+  Cette équipe a *éliminé* tous ses adversaires en phase de groupes.
+  Diese Mannschaft hat alle ihre Gegner in der Gruppenphase *ausgeschaltet*.
+
+  Le jury a *éliminé* la moitié des participants dès le premier jour.
+  Die Jury hat die Hälfte der Teilnehmer gleich am ersten Tag *aussortiert*.
+
+  Ces exercices aident à *éliminer* la graisse du ventre.
+  Diese Übungen helfen dabei, Bauchfett *abzubauen*.
+
+  La nouvelle technologie va *éliminer* de nombreux emplois traditionnels.
+  Die neue Technologie wird viele traditionelle Arbeitsplätze *verdrängen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

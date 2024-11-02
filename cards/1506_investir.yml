@@ -13,44 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il veut y investir encore plus d’argent.
-  Er will dort noch mehr Geld investieren.
+  Il veut y *investir* encore plus d'argent.
+  Er will noch mehr Geld dort *investieren*.
 
-  Il a décidé d’investir dans l’immobilier.
-  Er hat beschlossen, in Immobilien zu investieren.
+  Les banques ont *investi* des millions dans ce projet immobilier.
+  Die Banken haben Millionen in dieses Immobilienprojekt *investiert*.
 
-  Le gouvernement devrait investir davantage dans l’industrie.
-  Die Regierung sollte mehr in die Industrie investieren.
+  Marie a *investi* beaucoup de temps dans ses études.
+  Marie hat viel Zeit in ihr Studium *investiert*.
 
-  Jean a décidé d'investir son argent dans des actions.
-  Jean hat beschlossen, sein Geld in Aktien anzulegen.
+  L'armée a *investi* la ville pendant la nuit.
+  Die Armee hat die Stadt in der Nacht *belagert*.
 
-  L'entreprise a investi dans de nouvelles machines pour améliorer sa production.
-  Das Unternehmen hat sein Geld in neue Maschinen angelegt, um die Produktion zu verbessern.
+  La police a *investi* tout le bâtiment à la recherche des suspects.
+  Die Polizei hat das ganze Gebäude *besetzt*.
 
-  Marie s'investit beaucoup dans son travail bénévole.
-  Marie engagiert sich stark in ihrer ehrenamtlichen Arbeit.
+  Les manifestants ont *investi* la place centrale.
+  Die Demonstranten haben sich auf dem zentralen Platz *ausgebreitet*.
 
-  Il a investi beaucoup de temps et d'énergie dans la réalisation de ce projet.
-  Er hat viel Zeit und Arbeit in die Realisierung dieses Projekts investiert.
+  Le conseil d'administration l'a *investi* de nouveaux pouvoirs.
+  Der Vorstand hat ihn mit neuen Befugnissen *betraut*.
 
-  Le directeur a investi son assistant de la responsabilité de la gestion des stocks.
-  Der Chef hat seinen Assistenten mit der Verantwortung für die Lagerverwaltung betraut.
+  Elle a été *investie* de la responsabilité de diriger l'équipe.
+  Sie wurde mit der Verantwortung *betraut*, das Team zu leiten.
 
-  Les parents investissent beaucoup dans leur enfant et son éducation.
-  Die Eltern investieren viel Kraft in ihr Kind und seine Ausbildung.
+  Les parents *investissent* beaucoup dans l'éducation de leurs enfants.
+  Die Eltern *investieren* viel in die Bildung ihrer Kinder.
 
-  Le nouveau ministre a été investi de pouvoirs supplémentaires pour faire face à la crise.
-  Der neue Minister wurde mit zusätzlichen Befugnissen ausgestattet, um die Krise zu bewältigen.
+  Pierre *s'investit* énormément dans son travail bénévole.
+  Pierre *engagiert* sich sehr in seiner ehrenamtlichen Arbeit.
 
-  Le professeur a investi ses étudiants de sa confiance en leur donnant une tâche importante.
-  Der Professor hat seinen Studenten sein volles Vertrauen geschenkt, indem er ihnen eine wichtige Aufgabe gegeben hat.
+  "Il faut *s'investir* à fond pour réussir!"
+  "Man muss sich voll *reinhängen*, um erfolgreich zu sein!"
 
-  Le roi était investi du pouvoir absolu.
-  Der König verfügte über die absolute Macht.
+  Le nouveau président a été *investi* de ses fonctions hier.
+  Der neue Präsident wurde gestern in sein Amt *eingesetzt*.
 
-  Le candidat s'est investi énormément dans sa campagne électorale.
-  Der Kandidat hat sich in seinen Wahlkampf reingehängt.
+  Les chars ont rapidement *investi* la zone.
+  Die Panzer haben das Gebiet schnell *eingekreist*.
+
+  Sophie *investit* chaque mois dans des actions.
+  Sophie *legt* jeden Monat Geld in Aktien *an*.
+
+  Il *s'investit* corps et âme dans cette relation.
+  Er *engagiert* sich mit Leib und Seele in dieser Beziehung.
+
+  L'entreprise a *investi* dans des technologies vertes.
+  Das Unternehmen hat in grüne Technologien *investiert*.
+
+  Les forces spéciales ont *investi* le repaire des criminels.
+  Die Spezialeinheiten haben das Versteck der Verbrecher *umzingelt*.
+
+  Le comité l'a *investi* de sa confiance pour ce projet.
+  Das Komitee hat ihm für dieses Projekt sein Vertrauen *geschenkt*.
+
+  Les touristes ont complètement *investi* la petite ville côtière.
+  Die Touristen haben sich in der kleinen Küstenstadt völlig *ausgebreitet*.
+
+  Elle *investit* toute son énergie dans sa passion pour la musique.
+  Sie *investiert* ihre ganze Energie in ihre Leidenschaft für Musik.
+
+  Thomas a *investi* ses économies dans une start-up prometteuse.
+  Thomas hat seine Ersparnisse in ein vielversprechendes Start-up *investiert*.
+
+  Le jury l'a *investie* du titre de meilleure artiste de l'année.
+  Die Jury hat sie mit dem Titel der besten Künstlerin des Jahres *betraut*.
+
+  Les journalistes ont *investi* les couloirs du Parlement.
+  Die Journalisten haben sich in den Gängen des Parlaments *ausgebreitet*.
+
+  Julie *s'investit* pleinement dans son rôle de déléguée de classe.
+  Julie *engagiert* sich voll und ganz in ihrer Rolle als Klassensprecherin.
+
+  Le général a *investi* la forteresse avec ses troupes.
+  Der General hat die Festung mit seinen Truppen *belagert*.
+
+  Les agents de sécurité ont *investi* les lieux en quelques minutes.
+  Die Sicherheitsleute haben das Gelände in wenigen Minuten *besetzt*.
+
+  Notre équipe *s'investit* dans chaque projet avec passion.
+  Unser Team *engagiert* sich mit Leidenschaft in jedem Projekt.
+
+  Le patron a *investi* sa secrétaire de nouvelles responsabilités.
+  Der Chef hat seine Sekretärin mit neuen Verantwortlichkeiten *betraut*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

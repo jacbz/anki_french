@@ -13,17 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce processus a été extrêmement lent.
-  Dieser Prozess war äußerst langsam.
+  Ce processus a été *extrêmement* lent.
+  Dieser Prozess war *äußerst* langsam.
 
-  Il est extrêmement fatigué.
-  Er ist extrem müde.
+  Elle s'est montrée *extrêmement* jalouse de sa nouvelle relation.
+  Sie zeigte sich *maßlos* eifersüchtig auf seine neue Beziehung.
 
-  C’était extrêmement amusant.
-  Es hat extrem viel Spaß gemacht.
+  Cette robe de mariée est *extrêmement* belle.
+  Dieses Hochzeitskleid ist *bildschön*.
 
-  Le paysage était extrêmement beau, avec ses montagnes imposantes et ses lacs bleu azur.
-  Der Anblick war bildschön, mit seinen majestätischen Bergen und den azurblauen Seen.
+  L'été dernier a été *extrêmement* pluvieux.
+  Der letzte Sommer war *außerordentlich* regnerisch.
+
+  La situation politique est devenue *extrêmement* complexe.
+  Die politische Situation ist *äußerst* komplex geworden.
+
+  Le médecin a diagnostiqué une maladie *extrêmement* grave.
+  Der Arzt diagnostizierte eine *äußerst* schwere Krankheit.
+
+  Il écrit *extrêmement* vite sur son ordinateur.
+  Er schreibt *außergewöhnlich* schnell auf seinem Computer.
+
+  Cette collection d'art est *extrêmement* précieuse.
+  Diese Kunstsammlung ist *äußerst* wertvoll.
+
+  Le concert était *extrêmement* bruyant.
+  Das Konzert war *extrem* laut.
+
+  Je suis *extrêmement* déçu par les résultats.
+  Ich bin *äußerst* enttäuscht von den Ergebnissen.
+
+  Cette technique s'est révélée *extrêmement* efficace.
+  Diese Technik hat sich als *überaus* effektiv erwiesen.
+
+  Les températures sont *extrêmement* basses aujourd'hui.
+  Die Temperaturen sind heute *außerordentlich* niedrig.
+
+  Il est *extrêmement* difficile de trouver un appartement dans ce quartier.
+  Es ist *äußerst* schwierig, eine Wohnung in diesem Viertel zu finden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,26 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mon métier consiste à fabriquer des livres.
-  Mein Beruf ist die Herstellung von Büchern.
+  Mon métier consiste à *fabriquer* des livres.
+  Mein Beruf besteht darin, Bücher zu *produzieren*.
 
-  Nous avons fabriqué cette table nous-mêmes.
-  Wir haben diesen Tisch selbst hergestellt.
+  "Qu'est-ce que tu *fabriques* là-haut depuis une heure ?"
+  "Was *treibst* du da oben seit einer Stunde?"
 
-  L'entreprise fabrique des jouets en série pour les enfants.
-  Die Firma konfektioniert Spielzeug für Kinder.
+  Elle *fabrique* elle-même ses vêtements.
+  Sie *stellt* ihre Kleidung selbst *her*.
 
-  Il s'est fabriqué une excuse pour ne pas aller au travail.
-  Er hat sich eine Ausrede ausgedacht, um nicht zur Arbeit zu gehen.
+  Cette entreprise *fabrique* des jouets en bois.
+  Diese Firma *fertigt* Holzspielzeug *an*.
 
-  Mais qu'est-ce que tu fabriques avec ces outils?
-  Was machst du denn da mit diesen Werkzeugen?
+  Il s'est *fabriqué* un alibi pour la soirée d'hier.
+  Er hat sich ein Alibi für den gestrigen Abend *zurechtgelegt*.
 
-  Elle s'est fabriqué une table avec des palettes en bois récupérées.
-  Sie hat sich aus alten Holzpaletten einen Tisch gebaut.
+  Les enfants *fabriquent* une cabane dans le jardin.
+  Die Kinder *bauen* eine Hütte im Garten.
 
-  Le suspect a essayé de se fabriquer un alibi, mais la police a rapidement déjoué son plan.
-  Der Verdächtige hat versucht, sich ein Alibi zurechtlegen, aber die Polizei hat seinen Plan schnell durchkreuzt.
+  Cette usine *fabrique* des voitures en série.
+  Diese Fabrik *produziert* Autos in Serie.
+
+  Je me suis *fabriqué* un bureau avec des planches.
+  Ich habe mir aus Brettern einen Schreibtisch *gebaut*.
+
+  "Mais qu'est-ce que vous *fabriquez* encore ?"
+  "Was *treiben* Sie denn schon wieder?"
+
+  Les artisans *fabriquent* des bijoux à la main.
+  Die Handwerker *fertigen* Schmuck von Hand *an*.
+
+  Cette histoire a été *fabriquée* de toutes pièces.
+  Diese Geschichte wurde völlig *erfunden*.
+
+  Il *fabrique* des gâteaux délicieux avec peu d'ingrédients.
+  Er *macht* köstliche Kuchen aus wenigen Zutaten.
+
+  Ces machines ne se *fabriquent* plus depuis longtemps.
+  Diese Maschinen werden schon lange nicht mehr *hergestellt*.
+
+  Le thé que tu nous as *fabriqué* est immonde.
+  Der Tee, den du uns *gebraut* hast, ist scheußlich.
+
+  Ces meubles sont *fabriqués* en France.
+  Diese Möbel werden in Frankreich *hergestellt*.
+
+  La police a découvert qu'il *fabriquait* de la fausse monnaie.
+  Die Polizei hat entdeckt, dass er Falschgeld *herstellte*.
+
+  Elle s'est *fabriqué* une nouvelle personnalité.
+  Sie hat sich eine neue Persönlichkeit *zurechtgelegt*.
+
+  Notre entreprise *fabrique* des outils de jardinage.
+  Unser Unternehmen *stellt* Gartengeräte *her*.
+
+  Les rumeurs ont été *fabriquées* par ses ennemis.
+  Die Gerüchte wurden von seinen Feinden *erfunden*.
+
+  "Qu'est-ce que tu *fabriques* dans la vie ?"
+  "Was *machst* du beruflich?"
+
+  Ces chocolats sont *fabriqués* artisanalement.
+  Diese Pralinen werden handwerklich *hergestellt*.
+
+  Il *fabrique* des mensonges à longueur de journée.
+  Er *erfindet* den ganzen Tag Lügen.
+
+  L'usine *fabrique* des téléphones portables.
+  Die Fabrik *produziert* Handys.
+
+  Cette boulangerie *fabrique* son pain sur place.
+  Diese Bäckerei *stellt* ihr Brot vor Ort *her*.
+
+  Les élèves ont *fabriqué* des décorations pour Noël.
+  Die Schüler haben Weihnachtsdekorationen *gebastelt*.
+
+  Ces meubles se *fabriquent* en kit.
+  Diese Möbel werden als Bausatz *hergestellt*.
+
+  On *fabrique* encore ces montres comme autrefois.
+  Man *fertigt* diese Uhren noch wie früher *an*.
+
+  L'artiste *fabrique* ses propres pinceaux.
+  Der Künstler *stellt* seine Pinsel selbst *her*.
+
+  Cette entreprise *fabrique* des composants électroniques.
+  Dieser Betrieb *fertigt* elektronische Bauteile *an*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

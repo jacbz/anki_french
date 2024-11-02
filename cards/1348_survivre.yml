@@ -13,32 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il ne sait que faire pour survivre.
-  Er weiß nicht, was er tun soll, um zu überleben.
+  Il ne sait que faire pour *survivre*.
+  Er weiß nicht, wie er *überleben* soll.
 
-  Il a survécu à l’accident.
-  Er hat den Unfall überlebt.
+  Le virus ne peut pas *survivre* plus de deux heures à l'air libre.
+  Das Virus kann an der frischen Luft nicht länger als zwei Stunden *überleben*.
 
-  Je peux survivre à ça.
-  Ich kann das überleben.
+  Cette entreprise n'a pas *survécu* à la crise économique.
+  Dieses Unternehmen hat die Wirtschaftskrise nicht *überlebt*.
 
-  Je me suis toujours battu pour survivre.
-  Ich habe immer um mein Überleben gekämpft.
+  Les traditions ancestrales *survivent* encore dans ce village.
+  Die alten Traditionen *leben* in diesem Dorf noch *weiter*.
 
-  C’est un miracle que tu aies pu survivre.
-  Es ist ein Wunder, dass du überlebt hast.
+  Seuls trois passagers ont *survécu* à l'accident d'avion.
+  Nur drei Passagiere haben den Flugzeugabsturz *überlebt*.
 
-  Le chat a survécu à l'accident.
-  Die Katze hat den Unfall überlebt.
+  Marie a *survécu* cinq ans à son mari.
+  Marie hat ihren Mann um fünf Jahre *überlebt*.
 
-  Après la mort de son mari, elle a trouvé un moyen de se survivre dans son travail.
-  Nach dem Tod ihres Mannes fand sie einen Weg, in ihrer Arbeit weiterzuleben.
+  La langue latine *survit* dans de nombreux mots français.
+  Die lateinische Sprache *lebt* in vielen französischen Wörtern *weiter*.
 
-  L'entreprise a survécu à la crise économique.
-  Das Unternehmen hat die Wirtschaftskrise überlebt.
+  Comment *survivre* dans le désert sans eau ?
+  Wie kann man in der Wüste ohne Wasser *überleben*?
 
-  Se survivre à son passé est un défi pour beaucoup de personnes.
-  Sich über seinen eigenen Lebensweg hinwegzusetzen ist für viele Menschen eine Herausforderung.
+  L'artiste *se survit* dans ses œuvres.
+  Der Künstler *lebt* in seinen Werken *weiter*.
+
+  Les dinosaures n'ont pas *survécu* à l'extinction massive.
+  Die Dinosaurier haben das Massenaussterben nicht *überlebt*.
+
+  Peu d'espèces marines peuvent *survivre* dans ces eaux polluées.
+  Nur wenige Meeresarten können in diesem verschmutzten Wasser *überleben*.
+
+  Son courage lui a permis de *survivre* à cette terrible épreuve.
+  Ihr Mut hat ihr geholfen, diese schreckliche Prüfung zu *überleben*.
+
+  Cette petite librairie *survit* grâce à ses clients fidèles.
+  Diese kleine Buchhandlung *überlebt* dank ihrer treuen Kunden.
+
+  L'amour peut-il *survivre* à la distance ?
+  Kann die Liebe die Entfernung *überleben*?
+
+  Sa mémoire *survit* dans le cœur de ses proches.
+  Seine Erinnerung *lebt* in den Herzen seiner Angehörigen *weiter*.
+
+  Les pyramides ont *survécu* à des millénaires.
+  Die Pyramiden haben Jahrtausende *überdauert*.
+
+  Comment *survivre* à la perte d'un être cher ?
+  Wie kann man den Verlust eines geliebten Menschen *überleben*?
+
+  Cette vieille coutume *survit* uniquement dans les villages.
+  Dieser alte Brauch *überlebt* nur noch in den Dörfern.
+
+  Son influence *survit* à sa mort.
+  Sein Einfluss *überlebt* seinen Tod.
+
+  Les plantes peuvent-elles *survivre* sans lumière ?
+  Können Pflanzen ohne Licht *überleben*?
+
+  Certains arbres ont *survécu* à l'incendie de forêt.
+  Einige Bäume haben den Waldbrand *überlebt*.
+
+  L'esprit de résistance *survit* en temps de crise.
+  Der Widerstandsgeist *überlebt* in Krisenzeiten.
+
+  Cette légende *survit* depuis des générations.
+  Diese Legende *überlebt* seit Generationen.
+
+  Il a miraculeusement *survécu* à ses blessures.
+  Er hat seine Verletzungen wie durch ein Wunder *überlebt*.
+
+  Le poète *se survit* à travers ses vers.
+  Der Dichter *lebt* durch seine Verse *weiter*.
+
+  Les valeurs familiales *survivent* malgré les changements sociaux.
+  Die Familienwerte *überleben* trotz des sozialen Wandels.
+
+  Son œuvre *survivra* au temps.
+  Sein Werk wird die Zeit *überdauern*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,35 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La pétition est signée par plusieurs centaines de résidents.
-  Die Petition wurde von hunderten Anwohnern unterzeichnet.
+  La pétition est signée par plusieurs *centaines* de résidents.
+  Die Petition ist von mehreren *Hundert* Anwohnern unterschrieben worden.
 
-  Il y a une centaine de personnes ici.
-  Es sind ungefähr hundert Personen hier.
+  Une *centaine* d'étudiants ont participé à la conférence hier soir.
+  Etwa *hundert* Studierende haben gestern Abend an der Konferenz teilgenommen.
 
-  Il y avait une centaine de personnes présentes à la réunion.
-  Es waren etwa hundert Personen bei der Sitzung anwesend.
+  Dans le numéro 742, le 7 représente les *centaines*.
+  In der Zahl 742 steht die 7 für die *Hunderter*.
 
-  Le livre contient une centaine de pages.
-  Das Buch umfasst etwa hundert Seiten.
+  Ces bonbons se vendent à la *centaine*.
+  Diese Süßigkeiten werden im *Hundert*erpack verkauft.
 
-  Dans 648, 6 est le chiffre des centaines.
-  In 648 steht 6 für die Hunderter.
+  Les manifestants sont venus par *centaines* pour protester.
+  Die Demonstranten kamen zu *Hunderten*, um zu protestieren.
 
-  Le prix est arrondi à la centaine.
-  Der Preis wird auf die Hundert gerundet.
+  "J'ai dû te le dire des *centaines* de fois !"
+  "Das habe ich dir bestimmt schon *hunderte* Male gesagt!"
 
-  Des centaines de personnes ont manifesté contre la nouvelle loi.
-  Hunderte von Menschen demonstrierten gegen das neue Gesetz.
+  Sa grand-mère approche de la *centaine*.
+  Seine Großmutter nähert sich dem *hundertsten* Lebensjahr.
 
-  Des centaines de pages ont été écrites sur ce sujet.
-  Hunderte von Seiten wurden über dieses Thema geschrieben.
+  Des *centaines* de milliers de touristes visitent Paris chaque année.
+  *Hunderttausende* von Touristen besuchen jedes Jahr Paris.
 
-  Les centaines de milliers d'Allemands ont voté pour ce candidat.
-  Hunderttausend Deutsche stimmten für diesen Kandidaten.
+  Une *centaine* de mètres nous séparent de la plage.
+  Ungefähr *hundert* Meter trennen uns vom Strand.
 
-  Les soldats ont avancé par centaines.
-  Die Soldaten rückten zu Hunderten vor.
+  Il y a eu des *centaines* de candidatures pour ce poste.
+  Es gab *Hunderte* von Bewerbungen für diese Stelle.
+
+  Dans cette opération, j'ai fait une erreur à la colonne des *centaines*.
+  Bei dieser Rechnung habe ich einen Fehler in der *Hunderter*stelle gemacht.
+
+  La réparation coûtera une *centaine* d'euros.
+  Die Reparatur wird ungefähr *hundert* Euro kosten.
+
+  Des *centaines* d'oiseaux migrateurs survolent notre région.
+  *Hunderte* von Zugvögeln fliegen über unsere Region.
+
+  Nous avons vendu une *centaine* de tickets pour le concert.
+  Wir haben etwa *hundert* Karten für das Konzert verkauft.
+
+  Il y a de cela plusieurs *centaines* d'années.
+  Das ist *hunderte* Jahre her.
+
+  Une *centaine* de bénévoles ont aidé à organiser le festival.
+  Etwa *hundert* Freiwillige haben bei der Organisation des Festivals geholfen.
+
+  Les spectateurs arrivaient par *centaines* au stade.
+  Die Zuschauer kamen zu *Hunderten* ins Stadion.
+
+  "Il y avait des *centaines* et des *centaines* de personnes à la fête !"
+  "Es waren *zighundert* Leute auf der Party!"
+
+  Dans ce nombre, le 5 est le chiffre des *centaines*.
+  In dieser Zahl steht die 5 an der *Hunderter*stelle.
+
+  Une *centaine* de pages suffiront pour raconter cette histoire.
+  Ungefähr *hundert* Seiten werden reichen, um diese Geschichte zu erzählen.
+
+  Les pompiers ont sauvé des *centaines* de vies pendant l'incendie.
+  Die Feuerwehrleute haben *Hunderte* von Leben während des Brandes gerettet.
+
+  Mille contient dix *centaines*.
+  Tausend enthält zehn *Hundert*er.
+
+  Des *centaines* de personnes se sont inscrites au marathon.
+  *Hunderte* von Menschen haben sich für den Marathon angemeldet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

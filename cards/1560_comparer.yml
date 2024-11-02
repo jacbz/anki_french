@@ -13,20 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il est important de ne pas se comparer aux autres.
-  Es ist wichtig, sich nicht mit anderen zu vergleichen.
+  Il est important de ne pas *se comparer* aux autres.
+  Es ist wichtig, sich nicht mit anderen zu *vergleichen*.
 
-  Je vais comparer les prix.
-  Ich werde die Preise vergleichen.
+  Elle *compare* toujours ses résultats avec ceux de sa sœur.
+  Sie *vergleicht* ihre Ergebnisse immer mit denen ihrer Schwester.
 
-  La qualité de ce vin se compare à celle d'un grand cru.
-  Die Qualität dieses Weins ist mit der eines großen Weins vergleichbar.
+  *Comparé* à son frère aîné, Thomas est beaucoup plus sportif.
+  Im *Vergleich* zu seinem älteren Bruder ist Thomas viel sportlicher.
 
-  Il se compare sans cesse à son frère aîné, ce qui le rend malheureux.
-  Er vergleicht sich ständig mit seinem älteren Bruder, was ihn unglücklich macht.
+  Les experts ont *comparé* les différentes versions du manuscrit.
+  Die Experten haben die verschiedenen Versionen des Manuskripts *verglichen*.
 
-  Le plaisir de faire du vélo à la montagne ne se compare même pas à celui de faire du vélo en ville!
-  Der Spaß beim Mountainbiken ist mit dem beim Radfahren in der Stadt überhaupt nicht vergleichbar!
+  Avant d'acheter une voiture, il faut *comparer* les prix.
+  Bevor man ein Auto kauft, muss man die Preise *vergleichen*.
+
+  On ne peut pas *comparer* ces deux situations.
+  Man kann diese beiden Situationen nicht *vergleichen*.
+
+  Le professeur *compare* la vie à un long voyage.
+  Der Lehrer *vergleicht* das Leben mit einer langen Reise.
+
+  Les critiques littéraires *comparent* souvent cet auteur à Shakespeare.
+  Die Literaturkritiker *vergleichen* diesen Autor oft mit Shakespeare.
+
+  J'aimerais *comparer* la traduction avec le texte original.
+  Ich möchte die Übersetzung mit dem Originaltext *vergleichen*.
+
+  Les scientifiques ont *comparé* les résultats de plusieurs expériences.
+  Die Wissenschaftler haben die Ergebnisse mehrerer Experimente *verglichen*.
+
+  Comment peut-on *comparer* ces deux talents si différents ?
+  Wie kann man diese beiden so unterschiedlichen Talente *vergleichen*?
+
+  Les économistes *comparent* l'évolution des marchés financiers.
+  Die Ökonomen *vergleichen* die Entwicklung der Finanzmärkte.
+
+  Pierre *compare* toujours les prix avant de faire ses courses.
+  Pierre *vergleicht* immer die Preise, bevor er einkaufen geht.
+
+  Le poète *compare* la jeunesse à un printemps éternel.
+  Der Dichter *vergleicht* die Jugend mit einem ewigen Frühling.
+
+  On ne peut pas *comparer* le climat d'aujourd'hui à celui d'il y a cent ans.
+  Man kann das heutige Klima nicht mit dem vor hundert Jahren *vergleichen*.
+
+  Les journalistes ont *comparé* les programmes des deux candidats.
+  Die Journalisten haben die Programme der beiden Kandidaten *verglichen*.
+
+  Marie a *comparé* plusieurs offres d'emploi avant de faire son choix.
+  Marie hat mehrere Stellenangebote *verglichen*, bevor sie sich entschieden hat.
+
+  Il est difficile de *comparer* ces deux films car ils sont très différents.
+  Es ist schwierig, diese beiden Filme zu *vergleichen*, da sie sehr unterschiedlich sind.
+
+  Les élèves doivent *comparer* leurs réponses avec celles du livre.
+  Die Schüler müssen ihre Antworten mit denen im Buch *vergleichen*.
+
+  Le guide nous a fait *comparer* les différents styles d'architecture.
+  Der Führer ließ uns die verschiedenen Architekturstile *vergleichen*.
+
+  On ne peut rien *comparer* à la joie d'être parent.
+  Nichts lässt sich mit der Freude *vergleichen*, Eltern zu sein.
+
+  Les chercheurs *comparent* les habitudes alimentaires de différentes cultures.
+  Die Forscher *vergleichen* die Essgewohnheiten verschiedener Kulturen.
+
+  Sophie aime *comparer* les critiques avant de choisir un restaurant.
+  Sophie *vergleicht* gerne die Bewertungen, bevor sie ein Restaurant auswählt.
+
+  En *comparant* les deux méthodes, nous avons trouvé la meilleure solution.
+  Durch den *Vergleich* der beiden Methoden haben wir die beste Lösung gefunden.
+
+  Les statisticiens ont *comparé* les données des dernières années.
+  Die Statistiker haben die Daten der letzten Jahre *verglichen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

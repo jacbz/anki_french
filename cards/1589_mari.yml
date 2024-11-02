@@ -13,17 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis un collègue de votre mari.
-  Ich bin ein Kollege Ihres Mannes.
+  Je suis un collègue de votre *mari*.
+  Ich bin ein Kollege Ihres *Mannes*.
 
-  Mon mari est très gentil.
-  Mein Ehemann ist sehr nett.
+  Mon *mari* et moi avons décidé d'adopter un enfant.
+  Mein *Mann* und ich haben beschlossen, ein Kind zu adoptieren.
 
-  Mon mari est au travail.
-  Mein Mann ist bei der Arbeit.
+  Elle cherche toujours un *mari* qui partage ses valeurs.
+  Sie sucht immer noch einen *Ehemann*, der ihre Werte teilt.
 
-  Il sera un très bon mari pour elle.
-  Er wird ein sehr guter Ehemann für sie sein.
+  Son *mari* lui a offert un bijou pour leur anniversaire de mariage.
+  Ihr *Mann* hat ihr zum Hochzeitstag ein Schmuckstück geschenkt.
+
+  Le *mari* de ma sœur est médecin depuis vingt ans.
+  Der *Mann* meiner Schwester ist seit zwanzig Jahren Arzt.
+
+  C'est difficile d'être une bonne épouse et un bon *mari* en même temps.
+  Es ist schwierig, gleichzeitig eine gute Ehefrau und ein guter *Ehemann* zu sein.
+
+  Ton ex-*mari* a appelé pendant que tu n'étais pas là.
+  Dein Ex-*Mann* hat angerufen, während du nicht da warst.
+
+  Elle a épousé son *mari* il y a trois mois à Paris.
+  Sie hat ihren *Mann* vor drei Monaten in Paris geheiratet.
+
+  Mon *mari* rentre tard ce soir, il travaille.
+  Mein *Mann* kommt heute Abend spät nach Hause, er arbeitet.
+
+  Comment va votre *mari* depuis son opération ?
+  Wie geht es Ihrem *Mann* seit seiner Operation?
+
+  Son *mari* l'accompagne toujours quand elle voyage.
+  Ihr *Mann* begleitet sie immer, wenn sie reist.
+
+  Julie et son futur *mari* préparent leur mariage depuis des mois.
+  Julie und ihr zukünftiger *Ehemann* planen seit Monaten ihre Hochzeit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

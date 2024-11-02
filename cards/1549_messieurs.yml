@@ -13,11 +13,35 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je vous remercie, messieurs, madame.
-  Ich danke Ihnen, meine Herren und Damen.
+  Je vous remercie, *messieurs*, madame.
+  Ich danke Ihnen, meine *Herren*, gnädige Frau.
 
-  Messieurs, je vous présente mon collègue.
-  Herren, ich stelle Ihnen meinen Kollegen vor.
+  Bonjour *messieurs*, que puis-je faire pour vous ?
+  Guten Tag, meine *Herren*, was kann ich für Sie tun?
+
+  Les *messieurs* du conseil d'administration se réuniront demain.
+  Die *Herren* des Vorstands werden sich morgen treffen.
+
+  "Ces *messieurs* sont vraiment élégants ce soir."
+  "Diese *Herren* sind heute Abend wirklich elegant."
+
+  À l'attention de *MM.* Dubois et Martin.
+  An die *Herren* Dubois und Martin.
+
+  Tous les *messieurs* présents portaient un smoking.
+  Alle anwesenden *Herren* trugen einen Smoking.
+
+  *Messieurs*, veuillez prendre place pour le début de la conférence.
+  Meine *Herren*, bitte nehmen Sie Platz für den Beginn der Konferenz.
+
+  Les *messieurs* du jury ont délibéré pendant trois heures.
+  Die *Herren* der Jury haben drei Stunden lang beraten.
+
+  Ces *messieurs* ont commandé du vin rouge avec leur repas.
+  Die *Herren* haben Rotwein zu ihrer Mahlzeit bestellt.
+
+  "*Messieurs*, l'heure est grave", a déclaré le directeur.
+  "Meine *Herren*, die Lage ist ernst", erklärte der Direktor.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

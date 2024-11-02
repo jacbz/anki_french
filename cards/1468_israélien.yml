@@ -13,11 +13,41 @@ Register: ↘Fiktion ↗Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le camp de la paix israélien se divise en deux.
-  Das israelische Friedenslager spaltet sich in zwei Teile.
+  Le camp de la paix *israélien* se divise en deux.
+  Das *israelische* Friedenslager teilt sich in zwei Gruppen.
 
-  Je connais un Israélien qui parle arabe couramment.
-  Ich kenne einen Israeli, der fließend Arabisch spricht.
+  Les fruits et légumes *israéliens* sont exportés dans le monde entier.
+  *Israelisches* Obst und Gemüse wird in die ganze Welt exportiert.
+
+  Une *Israélienne* m'a montré les meilleurs restaurants de Tel Aviv.
+  Eine *Israelin* hat mir die besten Restaurants in Tel Aviv gezeigt.
+
+  Les scientifiques *israéliens* ont fait une découverte importante.
+  *Israelische* Wissenschaftler haben eine wichtige Entdeckung gemacht.
+
+  La politique *israélienne* est complexe et difficile à comprendre.
+  Die *israelische* Politik ist komplex und schwer zu verstehen.
+
+  Les *Israéliens* célèbrent leur fête nationale en avril.
+  Die *Israelis* feiern ihren Nationalfeiertag im April.
+
+  L'université *israélienne* propose des cours en trois langues.
+  Die *israelische* Universität bietet Kurse in drei Sprachen an.
+
+  Une entreprise *israélienne* a développé cette technologie innovante.
+  Ein *israelisches* Unternehmen hat diese innovative Technologie entwickelt.
+
+  Les jeunes *Israéliens* adorent voyager après leur service militaire.
+  Junge *Israelis* reisen gerne nach ihrem Militärdienst.
+
+  La littérature *israélienne* contemporaine est très diverse.
+  Die zeitgenössische *israelische* Literatur ist sehr vielfältig.
+
+  Un musicien *israélien* donnera un concert demain soir.
+  Ein *israelischer* Musiker wird morgen Abend ein Konzert geben.
+
+  Les traditions culinaires *israéliennes* sont influencées par plusieurs cultures.
+  Die *israelischen* Kochtraditionen sind von verschiedenen Kulturen beeinflusst.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

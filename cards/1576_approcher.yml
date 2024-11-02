@@ -13,41 +13,143 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le gros monsieur s’approche de nous.
-  Der dicke Mann kommt auf uns zu.
+  Le gros monsieur *s'approche* de nous.
+  Der dicke Herr *nähert* sich uns.
 
-  Je vais approcher de la scène.
-  Ich werde mich der Bühne nähern.
+  La date limite *approche* rapidement.
+  Der Stichtag *rückt* schnell näher.
 
-  Le policier a laissé le suspect approcher.
-  Der Polizist ließ den Verdächtigen näher treten.
+  L'hiver *approche* à grands pas.
+  Der Winter *naht* mit großen Schritten.
 
-  Le serveur a approché la carafe de vin à Marie.
-  Der Kellner hat die Weinflasche an Marie herangeschoben.
+  La nuit *approche*, il faut rentrer.
+  Die Nacht *bricht herein*, wir müssen nach Hause.
 
-  Le train s'approche de la gare.
-  Der Zug nähert sich dem Bahnhof.
+  L'orage *approche* de la ville.
+  Das Gewitter *zieht* über der Stadt *auf*.
 
-  Marie s'approche de Jean.
-  Marie nähert sich Jean.
+  Ne laissez personne *approcher* du bébé avec un rhume.
+  Lassen Sie niemanden mit einer Erkältung an das Baby *herantreten*.
 
-  Le projet s'approche de son but final.
-  Das Projekt nähert sich seinem Ziel.
+  Le train *approche* de la gare principale.
+  Der Zug *nähert* sich dem Hauptbahnhof.
 
-  Jean approche de la soixantaine.
-  Jean geht auf die sechzig zu.
+  Mon père *approche* de la soixantaine.
+  Mein Vater *geht* auf die Sechzig *zu*.
 
-  Il approche le moment où il devra prendre une décision.
-  Er steuert auf den Augenblick zu, wo er eine Entscheidung treffen muss.
+  On *approche* du moment où tout va changer.
+  Wir *steuern* auf den Moment *zu*, wo sich alles ändern wird.
 
-  Il approche le verre de ses lèvres pour prendre une gorgée.
-  Er führt das Glas an die Lippen, um einen Schluck zu nehmen.
+  Marie *approche* sa chaise de la table.
+  Marie *rückt* ihren Stuhl an den Tisch *heran*.
 
-  Elle approche son visage du sien pour lui murmurer un mot.
-  Sie nähert ihr Gesicht dem seinen, um ihm ein Wort zuzuflüstern.
+  Il *approche* doucement le micro de sa bouche.
+  Er *führt* das Mikrofon langsam an seinen Mund *heran*.
 
-  Ne m'approche pas! Je suis en colère.
-  Komm mir nicht zu nahe! Ich bin wütend.
+  Elle *approche* son visage du miroir.
+  Sie *bringt* ihr Gesicht näher an den Spiegel *heran*.
+
+  Le chat *approche* silencieusement sa proie.
+  Die Katze *nähert* sich leise ihrer Beute.
+
+  "Ne m'*approche* pas avec tes mains sales !"
+  "*Komm* mir nicht mit deinen schmutzigen Händen zu *nahe*!"
+
+  Les enfants *s'approchent* du sapin de Noël.
+  Die Kinder *nähern* sich dem Weihnachtsbaum.
+
+  Le serpent *s'approche* en rampant de sa proie.
+  Die Schlange *kriecht* an ihre Beute *heran*.
+
+  Le soldat *s'approche* à plat ventre de l'ennemi.
+  Der Soldat *robbt* auf den Feind *zu*.
+
+  Le voleur *s'approche* furtivement du coffre-fort.
+  Der Dieb *schleicht* sich an den Safe *heran*.
+
+  Les enfants n'osent pas *s'approcher* du chien.
+  Die Kinder *trauen* sich nicht an den Hund *heran*.
+
+  Vous pouvez *vous approcher* des œuvres d'art.
+  Sie dürfen näher an die Kunstwerke *herantreten*.
+
+  Il ne faut pas *approcher* la cage des lions.
+  Man darf nicht an den Löwenkäfig *herantreten*.
+
+  "*Approche* un peu, je ne t'entends pas bien !"
+  "*Komm* mal näher *ran*, ich höre dich nicht gut!"
+
+  Pierre *approche* son fauteuil du feu.
+  Pierre *rückt* seinen Sessel näher ans Feuer.
+
+  Personne ne peut *approcher* le président aujourd'hui.
+  Heute darf niemand an den Präsidenten *herantreten*.
+
+  Elle a été *approchée* par plusieurs universités.
+  Sie wurde von mehreren Universitäten *angesprochen*.
+
+  N'*approche* pas de la falaise !
+  *Komm* nicht zu nah an die Klippe *heran*!
+
+  Nous *approchons* du but final.
+  Wir *nähern* uns dem Endziel.
+
+  Il *approche* de la retraite.
+  Er *geht* auf die Rente *zu*.
+
+  Notre équipe *approche* de la victoire.
+  Unser Team *nähert* sich dem Sieg.
+
+  L'été *approche*, il fait de plus en plus chaud.
+  Der Sommer *naht*, es wird immer wärmer.
+
+  *Approchez*, je vais vous raconter une histoire.
+  *Kommen* Sie näher *heran*, ich werde Ihnen eine Geschichte erzählen.
+
+  Le bateau *s'approche* lentement du port.
+  Das Schiff *nähert* sich langsam dem Hafen.
+
+  Sa théorie *s'approche* de la vérité.
+  Seine Theorie *kommt* der Wahrheit nahe.
+
+  Les examens *approchent* à grands pas.
+  Die Prüfungen *rücken* mit großen Schritten näher.
+
+  Son travail *approche* de la perfection.
+  Seine Arbeit *nähert* sich der Perfektion.
+
+  Il a été *approché* par un chasseur de têtes.
+  Er wurde von einem Headhunter *angesprochen*.
+
+  L'avion *s'approche* de la piste d'atterrissage.
+  Das Flugzeug *nähert* sich der Landebahn.
+
+  Le loup *s'approche* doucement du troupeau.
+  Der Wolf *nähert* sich langsam der Herde.
+
+  La fusée *s'approche* de la station spatiale.
+  Die Rakete *nähert* sich der Raumstation.
+
+  Le festival *approche* de sa fin.
+  Das Festival *nähert* sich seinem Ende.
+
+  Les nuages noirs *s'approchent* de la ville.
+  Die schwarzen Wolken *ziehen* auf die Stadt *zu*.
+
+  Les danseurs *s'approchent* l'un de l'autre.
+  Die Tänzer *nähern* sich einander.
+
+  La température *approche* du point de congélation.
+  Die Temperatur *nähert* sich dem Gefrierpunkt.
+
+  Le chien *s'approche* en remuant la queue.
+  Der Hund *kommt* schwanzwedelnd näher *heran*.
+
+  Marc *approche* sa main de la flamme.
+  Marc *führt* seine Hand an die Flamme *heran*.
+
+  Les secouristes *s'approchent* des blessés.
+  Die Rettungskräfte *nähern* sich den Verletzten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,32 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’israël veut dicter et non pas négocier.
-  Israel will diktieren und nicht verhandeln.
+  L'israël veut dicter et non pas *négocier*.
+  Israel will diktieren und nicht *verhandeln*.
 
-  Je dois négocier un contrat avec eux.
-  Ich muss mit ihnen einen Vertrag aushandeln.
+  Les syndicats sont disposés à *négocier* avec la direction.
+  Die Gewerkschaften sind bereit, mit der Geschäftsführung zu *verhandeln*.
 
-  Le chef de l'entreprise a négocié avec son partenaire pour une nouvelle collaboration.
-  Der Chef des Unternehmens hat mit seinem Partner über eine neue Zusammenarbeit verhandelt.
+  Les deux pays ont *négocié* un accord commercial important.
+  Die beiden Länder haben ein wichtiges Handelsabkommen *ausgehandelt*.
 
-  Les généraux ont négocié la capitulation avec les rebelles.
-  Die Generäle haben mit den Rebellen über die Kapitulation verhandelt.
+  Marie *négocie* son salaire avec son nouveau patron.
+  Marie *handelt* ihr Gehalt mit ihrem neuen Chef *aus*.
 
-  L'accord entre les deux pays se négocie depuis des mois.
-  Über eine Einigung zwischen den beiden Ländern wird seit Monaten verhandelt.
+  Il faut savoir *négocier* les virages dangereux avec prudence.
+  Man muss gefährliche Kurven vorsichtig *nehmen*.
 
-  Le gouvernement a négocié des conditions très strictes pour l'octroi des prêts.
-  Die Regierung hat sehr strenge Bedingungen für die Gewährung von Krediten ausgehandelt.
+  Le diplomate *négocie* depuis trois mois avec les rebelles.
+  Der Diplomat *verhandelt* seit drei Monaten mit den Rebellen.
 
-  Le parti politique est disposé à négocier avec ses opposants.
-  Die politische Partei ist verhandlungswillig mit ihren Gegnern.
+  La banque a *négocié* les titres en bourse.
+  Die Bank hat die Wertpapiere an der Börse *begeben*.
 
-  Les deux pays ont négocié un traité de paix après des années de guerre.
-  Die beiden Länder haben nach jahrelangem Krieg einen Friedensvertrag ausgehandelt.
+  Les conditions de travail se *négocient* actuellement.
+  Über die Arbeitsbedingungen wird derzeit *verhandelt*.
 
-  Dans le monde des affaires, tout se négocie.
-  In der Geschäftswelt kann man über alles verhandeln.
+  Paul *négocie* habilement ce virage serré à grande vitesse.
+  Paul *nimmt* diese enge Kurve geschickt mit hoher Geschwindigkeit.
+
+  Les entreprises ont *négocié* une fusion importante.
+  Die Unternehmen haben eine wichtige Fusion *ausgehandelt*.
+
+  Nous devons *négocier* la paix plutôt que de continuer la guerre.
+  Wir müssen den Frieden *aushandeln*, anstatt den Krieg fortzusetzen.
+
+  Le contrat se *négocie* encore entre les deux parties.
+  Der Vertrag wird noch zwischen den beiden Parteien *verhandelt*.
+
+  La ville a *négocié* sa reddition avec l'armée ennemie.
+  Die Stadt hat ihre Kapitulation mit der feindlichen Armee *ausgehandelt*.
+
+  Le courtier *négocie* des actions pour ses clients.
+  Der Makler *handelt* Aktien für seine Kunden.
+
+  Les ministres vont *négocier* un nouveau traité environnemental.
+  Die Minister werden einen neuen Umweltvertrag *aushandeln*.
+
+  Le pilote a mal *négocié* le dernier virage et a perdu la course.
+  Der Fahrer hat die letzte Kurve schlecht *genommen* und das Rennen verloren.
+
+  On dit qu'il se *négocie* quelque chose d'important au sommet.
+  Man sagt, dass auf dem Gipfel etwas Wichtiges *verhandelt* wird.
+
+  Les employés *négocient* leurs horaires de travail.
+  Die Mitarbeiter *handeln* ihre Arbeitszeiten *aus*.
+
+  Le gouvernement refuse de *négocier* avec les terroristes.
+  Die Regierung weigert sich, mit den Terroristen zu *verhandeln*.
+
+  L'agent immobilier *négocie* le prix de la maison.
+  Der Immobilienmakler *handelt* den Preis des Hauses *aus*.
+
+  La paix *négociée* est toujours préférable à une paix imposée.
+  Ein *ausgehandelter* Frieden ist immer besser als ein aufgezwungener Frieden.
+
+  Cette entreprise *négocie* toujours ses contrats avec précaution.
+  Dieses Unternehmen *handelt* seine Verträge immer mit Vorsicht *aus*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

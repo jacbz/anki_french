@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il faut maintenir des cultures traditionnelles.
-  Traditionelle Kulturen müssen aufrechterhalten werden.
+  Il faut maintenir des cultures *traditionnelles*.
+  Man muss *traditionelle* Kulturen bewahren.
 
-  C’est un plat traditionnel français.
-  Das ist ein traditionelles französisches Gericht.
+  Cette grammaire *traditionnelle* n'est plus enseignée dans les écoles modernes.
+  Diese *herkömmliche* Grammatik wird in modernen Schulen nicht mehr unterrichtet.
 
-  Il porte un costume traditionnel, une veste brodée et un pantalon en velours.
-  Er trägt einen Trachtenanzug, eine bestickte Jacke und eine Samt-Hose.
+  Le mariage se déroulera selon les coutumes *traditionnelles* de sa famille.
+  Die Hochzeit wird nach den *traditionellen* Bräuchen ihrer Familie ablaufen.
 
-  On essaye de rester traditionnel dans nos pratiques, mais on est ouverts aux nouvelles idées.
-  Wir versuchen, im Rahmen des Üblichen zu bleiben in unseren Praktiken, sind aber offen für neue Ideen.
+  Elle portait un costume *traditionnel* de sa région.
+  Sie trug einen *Trachten*anzug aus ihrer Region.
+
+  La fête *traditionnelle* du village aura lieu ce week-end.
+  Das *althergebrachte* Dorffest findet dieses Wochenende statt.
+
+  Ces méthodes *traditionnelles* de fabrication sont encore utilisées aujourd'hui.
+  Diese *traditionellen* Herstellungsmethoden werden auch heute noch verwendet.
+
+  Le restaurant propose une cuisine *traditionnelle* française.
+  Das Restaurant bietet *traditionelle* französische Küche an.
+
+  Les valeurs *traditionnelles* sont importantes pour mes grands-parents.
+  *Traditionelle* Werte sind meinen Großeltern wichtig.
+
+  Cette entreprise utilise des méthodes très *traditionnelles*.
+  Dieses Unternehmen arbeitet sehr *konventionell*.
+
+  La *traditionnelle* réunion de famille aura lieu dimanche prochain.
+  Das *übliche* Familientreffen findet nächsten Sonntag statt.
+
+  Ces croyances *traditionnelles* se transmettent de génération en génération.
+  Diese *traditionellen* Glaubensvorstellungen werden von Generation zu Generation weitergegeben.
+
+  L'artisan fabrique ses meubles de manière *traditionnelle*.
+  Der Handwerker stellt seine Möbel auf *herkömmliche* Weise her.
+
+  La médecine *traditionnelle* peut compléter la médecine moderne.
+  Die *traditionelle* Medizin kann die moderne Medizin ergänzen.
+
+  Cette société reste très *traditionnelle* dans son approche.
+  Diese Gesellschaft bleibt in ihrer Herangehensweise sehr *konventionell*.
+
+  Les danses *traditionnelles* font partie de notre patrimoine culturel.
+  *Traditionelle* Tänze sind Teil unseres kulturellen Erbes.
+
+  La *traditionnelle* cérémonie du thé japonaise demande beaucoup de pratique.
+  Die *traditionelle* japanische Teezeremonie erfordert viel Übung.
+
+  Cette école suit une approche *traditionnelle* de l'enseignement.
+  Diese Schule verfolgt einen *herkömmlichen* Ansatz beim Unterricht.
+
+  Le festival célèbre la musique *traditionnelle* de notre région.
+  Das Festival feiert die *traditionelle* Musik unserer Region.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

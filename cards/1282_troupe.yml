@@ -13,44 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il faut remonter le moral des troupes.
-  Die Moral muss angehoben werden.
+  Il faut remonter le moral des *troupes*.
+  Man muss die Moral der *Truppen* heben.
 
-  La troupe de théâtre est en train de répéter.
-  Die Theatertruppe probt gerade.
+  Une *troupe* de touristes visite le château de Versailles.
+  Eine *Gruppe* Touristen besichtigt das Schloss von Versailles.
 
-  Il a décidé de quitter la troupe.
-  Er beschloss, die Truppe zu verlassen.
+  La *troupe* théâtrale répète tous les lundis soir.
+  Die Theater*truppe* probt jeden Montagabend.
 
-  La troupe de chanteurs était connue pour ses interprétations vibrantes.
-  Die Gesangsruppe war bekannt für ihre lebendigen Interpretationen.
+  Les enfants marchaient en *troupe* vers l'école.
+  Die Kinder gingen als *Gruppe* zur Schule.
 
-  La troupe de danseurs s'est produite devant un public enthousiaste.
-  Die Tanzgruppe trat vor einem begeisterten Publikum auf.
+  Une *troupe* de singes a envahi le village.
+  Eine *Horde* Affen ist ins Dorf eingedrungen.
 
-  La troupe d'assaut a mené l'attaque avec courage.
-  Der Sturmtrupp führte den Angriff mit Mut an.
+  La *troupe* de danseurs s'entraîne pour le spectacle.
+  Die Tanz*gruppe* trainiert für die Aufführung.
 
-  La troupe de choc a été déployée pour sécuriser la zone.
-  Der Stoßtrupp wurde eingesetzt, um das Gebiet zu sichern.
+  Cette *troupe* de ballet est reconnue mondialement.
+  Diese Ballett*truppe* ist weltweit bekannt.
 
-  La troupe d'opéra a présenté une performance impressionnante de "La Traviata".
-  Das Opernensemble präsentierte eine beeindruckende Aufführung von "La Traviata".
+  Les *troupes* françaises ont participé à la mission de paix.
+  Die französischen *Truppen* haben an der Friedensmission teilgenommen.
 
-  La troupe théâtrale a mis en scène une pièce classique de Molière.
-  Das Theaterensemble inszenierte ein klassisches Stück von Molière.
+  La *troupe* de l'opéra recrute de nouveaux talents.
+  Das Opern*ensemble* sucht nach neuen Talenten.
 
-  La troupe de ballet a exécuté des mouvements gracieux et précis.
-  Die Balletttruppe führte elegante und präzise Bewegungen aus.
+  Une *troupe* d'éléphants traverse la savane.
+  Eine *Herde* Elefanten durchquert die Savanne.
 
-  Le gouvernement a décidé d'engager une troupe de protection internationale pour stabiliser la région.
-  Die Regierung beschloss, eine internationale Schutztruppe einzusetzen, um die Region zu stabilisieren.
+  La *troupe* de protection internationale surveille la frontière.
+  Die internationale Schutz*truppe* überwacht die Grenze.
 
-  La troupe de réserve était prête à intervenir en cas de besoin.
-  Die Reservetruppe war bereit, bei Bedarf einzugreifen.
+  Cette *troupe* de chanteurs fait une tournée mondiale.
+  Diese Gesangs*gruppe* macht eine Welttournee.
 
-  La troupe coloniale a été déployée pour protéger les intérêts de la métropole.
-  Die Schutztruppe wurde eingesetzt, um die Interessen der Metropole zu schützen.
+  Les scouts partent en excursion en *troupe*.
+  Die Pfadfinder gehen als *Gruppe* auf Exkursion.
+
+  La *troupe* d'assaut se prépare à l'intervention.
+  Der Sturm*trupp* bereitet sich auf den Einsatz vor.
+
+  Une *troupe* d'amis organise une fête surprise.
+  Eine *Gruppe* Freunde organisiert eine Überraschungsparty.
+
+  La *troupe* de réserve peut être mobilisée à tout moment.
+  Die Reserve*truppe* kann jederzeit mobilisiert werden.
+
+  Cette *troupe* de comédiens joue depuis vingt ans ensemble.
+  Diese Schauspiel*truppe* spielt seit zwanzig Jahren zusammen.
+
+  Une *troupe* de militants manifeste devant le parlement.
+  Eine *Gruppe* Aktivisten demonstriert vor dem Parlament.
+
+  La *troupe* dut intervenir pour maintenir l'ordre.
+  Die *Truppe* musste einschreiten, um die Ordnung aufrechtzuerhalten.
+
+  Cette *troupe* de choc est spécialement entraînée.
+  Dieser Stoß*trupp* ist speziell ausgebildet.
+
+  La *troupe* des Folies-Bergère prépare un nouveau spectacle.
+  Die *Truppe* der Folies-Bergère bereitet eine neue Show vor.
+
+  Pierre a servi dans la *troupe* pendant deux ans.
+  Pierre hat zwei Jahre in der *Truppe* gedient.
+
+  La *troupe* de l'opéra répète pour la première.
+  Das Opern*ensemble* probt für die Premiere.
+
+  Une *troupe* d'oiseaux migrateurs traverse le ciel.
+  Ein *Schwarm* Zugvögel durchquert den Himmel.
+
+  La *troupe* théâtrale part en tournée la semaine prochaine.
+  Die Theater*truppe* geht nächste Woche auf Tournee.
+
+  Les *troupes* ennemies se sont retirées pendant la nuit.
+  Die feindlichen *Truppen* haben sich während der Nacht zurückgezogen.
+
+  La *troupe* de protection escorte le convoi humanitaire.
+  Die Schutz*truppe* eskortiert den humanitären Konvoi.
+
+  Cette *troupe* d'artistes voyage dans tout le pays.
+  Diese Künstler*truppe* reist durch das ganze Land.
+
+  Une *troupe* de loups a été aperçue dans la forêt.
+  Ein *Rudel* Wölfe wurde im Wald gesichtet.
+
+  La *troupe* de danse contemporaine présente sa nouvelle création.
+  Die zeitgenössische Tanz*gruppe* präsentiert ihre neue Kreation.
+
+  Le gros de la *troupe* arrive demain matin.
+  Die Haupt*truppe* kommt morgen früh an.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

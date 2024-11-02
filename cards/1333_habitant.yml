@@ -13,23 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les 200.000 habitants ont fui.
-  Die 200 000 Einwohner sind geflohen.
+  Les 200.000 *habitants* ont fui.
+  Die 200.000 *Einwohner* sind geflohen.
 
-  Les habitants de cette ville sont très accueillants.
-  Die Bewohner dieser Stadt sind sehr gastfreundlich.
+  La densité est de 50 *habitants* par kilomètre carré.
+  Die Dichte beträgt 50 *Einwohner* pro Quadratkilometer.
 
-  Les habitants de la maison ont organisé une fête pour célébrer le départ de leur ami.
-  Die Hausbewohner haben eine Feier organisiert, um den Abschied ihres Freundes zu feiern.
+  Les *habitants* de cet immeuble se réunissent chaque mois.
+  Die *Bewohner* dieses Gebäudes treffen sich jeden Monat.
 
-  J'ai trouvé un logement chez l'habitant dans une petite ville charmante.
-  Ich habe eine Privatunterkunft in einer kleinen, charmanten Stadt gefunden.
+  Cette petite île compte moins de cent *habitants*.
+  Diese kleine Insel hat weniger als hundert *Einwohner*.
 
-  Athéna, habitante de l'Olympe, était connue pour sa sagesse et son intelligence.
-  Athéna, Bewohnerin des Olymp, war bekannt für ihre Weisheit und Intelligenz.
+  Les *habitants* du quartier ont organisé une fête de rue.
+  Die *Bewohner* des Viertels haben ein Straßenfest organisiert.
 
-  La jeune femme, habitante du Nord, était habituée au froid et à la neige.
-  Die junge Frau, Nordländerin, war an Kälte und Schnee gewöhnt.
+  Marie est la dernière *habitante* de ce village abandonné.
+  Marie ist die letzte *Einwohnerin* dieses verlassenen Dorfes.
+
+  Les soldats vont loger chez l'*habitant* pendant leur mission.
+  Die Soldaten werden während ihrer Mission bei *Einwohnern* untergebracht.
+
+  Les *habitants* des campagnes cultivent leurs propres légumes.
+  Die *Bewohner* der ländlichen Gebiete bauen ihr eigenes Gemüse an.
+
+  Cette maison n'a plus aucun *habitant* depuis des années.
+  Dieses Haus hat seit Jahren keinen *Bewohner* mehr.
+
+  Les *habitants* du Nord s'adaptent au climat froid.
+  Die *Bewohner* des Nordens passen sich dem kalten Klima an.
+
+  La nouvelle *habitante* de l'appartement est très sympathique.
+  Die neue *Bewohnerin* der Wohnung ist sehr sympathisch.
+
+  Les *habitants* des bois se cachent pendant la journée.
+  Die *Bewohner* des Waldes verstecken sich tagsüber.
+
+  Tous les *habitants* de la rue ont signé la pétition.
+  Alle *Bewohner* der Straße haben die Petition unterschrieben.
+
+  Notre ville accueille de nouveaux *habitants* chaque année.
+  Unsere Stadt empfängt jedes Jahr neue *Einwohner*.
+
+  Les anciens *habitants* reviennent visiter leur quartier.
+  Die ehemaligen *Bewohner* kommen zurück, um ihr Viertel zu besuchen.
+
+  Les *habitants* des cavernes vivaient différemment de nous.
+  Die *Bewohner* der Höhlen lebten anders als wir.
+
+  Cette région compte plus d'un million d'*habitants*.
+  Diese Region hat mehr als eine Million *Einwohner*.
+
+  Pierre est un *habitant* respecté de notre commune.
+  Pierre ist ein angesehener *Einwohner* unserer Gemeinde.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

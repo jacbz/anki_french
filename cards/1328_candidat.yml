@@ -13,29 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous avons un candidat que nous soutenons.
-  Wir haben einen Kandidaten, den wir unterstützen.
+  Nous avons un *candidat* que nous soutenons.
+  Wir haben einen *Kandidaten*, den wir unterstützen.
 
-  Le candidat a fait un discours convaincant.
-  Der Kandidat hielt eine überzeugende Rede.
+  Marie est *candidate* au poste de directrice des ressources humaines.
+  Marie *bewirbt* sich um die Stelle als Personalleiterin.
 
-  Marie est candidate à une inscription à l'université de Paris.
-  Marie ist Studienbewerberin an der Universität Paris.
+  Tous les *candidats* au baccalauréat doivent arriver une heure avant l'examen.
+  Alle *Abiturienten* müssen eine Stunde vor der Prüfung da sein.
 
-  Pierre est candidat à la députation dans sa région.
-  Pierre ist Kandidat bei der Parlamentswahl in seiner Region.
+  Je serai *candidat* aux élections municipales l'année prochaine.
+  Ich werde nächstes Jahr bei der Kommunalwahl *kandidieren*.
 
-  Il s'est porté candidat à un poste de professeur de français.
-  Er hat sich um eine Stelle als Französischlehrer beworben.
+  La *candidate* idéale devrait avoir au moins cinq ans d'expérience.
+  Die *Traumkandidatin* sollte mindestens fünf Jahre Erfahrung haben.
 
-  Elle était candidate au suicide, mais heureusement, elle a changé d'avis.
-  Sie war Selbstmordkandidatin, aber zum Glück hat sie sich anders entschieden.
+  Dans l'émission, trois *candidats* se disputent le grand prix.
+  In der Sendung kämpfen drei *Kandidaten* um den Hauptpreis.
 
-  Ils se sont portés candidats à des élections municipales.
-  Sie haben bei einer Kommunalwahl kandidiert.
+  "Ce gars est un *candidat* au suicide s'il continue comme ça."
+  "Der Typ ist ein *Selbstmordkandidat*, wenn er so weitermacht."
 
-  Elle est la candidate idéale pour ce poste.
-  Sie ist die Traumkandidatin für diese Stelle.
+  Le nombre de *candidats* à une inscription à l'université a augmenté de 20%.
+  Die Zahl der *Studienbewerber* ist um 20% gestiegen.
+
+  Pierre s'est porté *candidat* à la députation hier soir.
+  Pierre ist gestern Abend als *Kandidat* für die Parlamentswahl angetreten.
+
+  Les *candidats* au voyage spatial devront passer des tests rigoureux.
+  Die *Kandidaten* für die Weltraumreise müssen strenge Tests bestehen.
+
+  Notre *candidat* a remporté la majorité des voix.
+  Unser *Kandidat* hat die Mehrheit der Stimmen gewonnen.
+
+  La *candidate* a brillamment réussi son entretien d'embauche.
+  Die *Bewerberin* hat ihr Vorstellungsgespräch brillant gemeistert.
+
+  Plusieurs *candidats* ont déjà postulé pour ce poste vacant.
+  Mehrere *Bewerber* haben sich bereits auf diese freie Stelle beworben.
+
+  Les *candidats* à l'agrégation préparent leur concours depuis des mois.
+  Die *Kandidaten* für die Lehramtsprüfung bereiten sich seit Monaten vor.
+
+  La *candidate* a retiré sa candidature au dernier moment.
+  Die *Kandidatin* hat ihre Bewerbung im letzten Moment zurückgezogen.
+
+  Le jury a interrogé chaque *candidat* pendant une demi-heure.
+  Die Jury hat jeden *Kandidaten* eine halbe Stunde lang befragt.
+
+  Les *candidats* à la présidence débattront ce soir à la télévision.
+  Die Präsidentschafts*kandidaten* werden heute Abend im Fernsehen debattieren.
+
+  Ce *candidat* à l'Académie française est un écrivain renommé.
+  Dieser *Kandidat* für die Académie française ist ein renommierter Schriftsteller.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

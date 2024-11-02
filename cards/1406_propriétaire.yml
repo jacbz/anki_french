@@ -13,41 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous êtes le propriétaire des lieux?
-  Sie sind der Eigentümer des Grundstücks?
+  Vous êtes le *propriétaire* des lieux ?
+  Sind Sie der *Besitzer* dieses Anwesens?
 
-  Le propriétaire de la maison est venu nous rendre visite.
-  Der Eigentümer des Hauses hat uns besucht.
+  La *propriétaire* du magasin a embauché trois nouveaux vendeurs.
+  Die *Inhaberin* des Ladens hat drei neue Verkäufer eingestellt.
 
-  Marie est la propriétaire du bistro "Le Petit Coin".
-  Marie ist die Kneipenbesitzerin des "Le Petit Coin".
+  Il faut prévenir le *propriétaire* du chien qu'il doit le tenir en laisse.
+  Der *Halter* des Hundes muss darauf hingewiesen werden, dass er ihn an der Leine führen muss.
 
-  Mme Dubois est propriétaire exclusive de cette maison.
-  Frau Dubois ist die Alleineigentümerin dieses Hauses.
+  Les *propriétaires* terriens se sont réunis pour discuter de l'irrigation.
+  Die Grund*besitzer* haben sich getroffen, um über die Bewässerung zu sprechen.
 
-  Catherine est propriétaire du magasin de chaussures "Chaussures Chic".
-  Catherine ist die Ladeninhaberin des Schuhladens "Chaussures Chic".
+  La nouvelle *propriétaire* du bistrot a complètement rénové l'intérieur.
+  Die neue *Besitzerin* der Kneipe hat das Innere komplett renoviert.
 
-  Sophie est propriétaire d'un chat et d'un chien.
-  Sophie ist Kleintierhalterin, sie hat eine Katze und einen Hund.
+  Ce bateau appartient à plusieurs *propriétaires*.
+  Dieses Schiff gehört mehreren *Eigentümern*.
 
-  Monsieur Martin est propriétaire immobilier dans le centre-ville.
-  Herr Martin ist Haus- und Grundbesitzer im Stadtzentrum.
+  En tant que *propriétaire* exclusif, il peut décider seul de la vente.
+  Als Allein*eigentümer* kann er allein über den Verkauf entscheiden.
 
-  La famille Dupont est propriétaire foncier d'une grande parcelle de terre.
-  Die Familie Dupont ist Grundstücksbesitzerin einer großen Parzelle.
+  Notre *propriétaire* a encore augmenté le loyer.
+  Unser *Vermieter* hat die Miete schon wieder erhöht.
 
-  Le propriétaire voisin a planté un grand arbre qui bloque la vue sur la mer.
-  Die Grundstücksnachbarin hat einen großen Baum gepflanzt, der die Sicht auf das Meer versperrt.
+  Les *propriétaires* de l'usine ont décidé de moderniser la production.
+  Die Fabriks*besitzer* haben beschlossen, die Produktion zu modernisieren.
 
-  Le yacht appartient à un propriétaire de bateau américain.
-  Die Yacht gehört einem amerikanischen Schiffseigentümer.
+  Les *propriétaires* voisins se sont mis d'accord sur l'emplacement de la clôture.
+  Die benachbarten Grundstücks*besitzer* haben sich auf den Standort des Zauns geeinigt.
 
-  L'usine appartient à une famille de propriétaires d'usines.
-  Die Fabrik gehört einer Familie von Fabrikbesitzern.
+  Aujourd'hui, je vais faire le tour du *propriétaire* avec les acheteurs potentiels.
+  Heute werde ich den Kaufinteressenten einen *Besichtigungs*rundgang geben.
 
-  L'appartement est en propriété indivis avec son frère.
-  Die Wohnung ist in Bruchteilseigentum mit seinem Bruder.
+  La *propriétaire* des chevaux les entraîne tous les matins.
+  Die *Besitzerin* der Pferde trainiert sie jeden Morgen.
+
+  Les réparations sont toujours à la charge du *propriétaire*.
+  Die Reparaturen gehen immer zu Lasten des *Vermieters*.
+
+  En tant que *propriétaire* de deuxième main, il a tous les documents d'origine.
+  Als Zweit*besitzer* hat er alle Originaldokumente.
+
+  Le *propriétaire* du portefeuille n'a pas encore été retrouvé.
+  Der *Eigentümer* der Brieftasche wurde noch nicht gefunden.
+
+  Cette application utilise un format *propriétaire* qui n'est pas compatible avec d'autres logiciels.
+  Diese Anwendung verwendet ein *firmeneigenes* Format, das nicht mit anderer Software kompatibel ist.
+
+  Les petits *propriétaires* exploitants ont du mal à survivre.
+  Die kleinen *Eigentümer*, die selbst wirtschaften, haben es schwer zu überleben.
+
+  En tant que *propriétaire* solidaire, elle partage les responsabilités avec les autres.
+  Als Gesamt*eigentümerin* teilt sie die Verantwortung mit den anderen.
+
+  La *propriétaire* de l'animal de compagnie doit présenter son carnet de vaccination.
+  Die *Halterin* des Haustieres muss seinen Impfpass vorlegen.
+
+  Les grands *propriétaires* fonciers ont beaucoup d'influence dans la région.
+  Die großen Grund*besitzer* haben viel Einfluss in der Region.
+
+  Le *propriétaire* et l'usufruitier doivent se mettre d'accord sur l'entretien.
+  Der *Eigentümer* und der Nießbraucher müssen sich über die Instandhaltung einigen.
+
+  Le nouveau *propriétaire* immobilier a contracté un prêt important.
+  Der neue Haus*besitzer* hat einen großen Kredit aufgenommen.
+
+  La *propriétaire* et la locataire ont signé l'état des lieux ensemble.
+  Die *Vermieterin* und die Mieterin haben das Übergabeprotokoll zusammen unterschrieben.
+
+  Il montre une vraie âme de *propriétaire* depuis qu'il cherche à acheter une maison.
+  Er zeigt einen echten *Besitzer*instinkt, seit er ein Haus kaufen möchte.
+
+  Le *propriétaire* subséquent devra respecter les servitudes existantes.
+  Der nachfolgende *Besitzer* muss die bestehenden Grunddienstbarkeiten respektieren.
+
+  Les *propriétaires* indivis doivent prendre les décisions à l'unanimité.
+  Die Bruchteils*eigentümer* müssen Entscheidungen einstimmig treffen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
