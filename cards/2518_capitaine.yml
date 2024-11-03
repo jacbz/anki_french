@@ -13,26 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il est mort. Le capitaine est mort.
-  Er ist tot. Der Hauptmann ist tot.
+  Il est mort. Le *capitaine* est mort.
+  Er ist tot. Der *Hauptmann* ist tot.
 
-  Le capitaine du navire a une grande responsabilité.
-  Der Kapitän des Schiffes hat eine große Verantwortung.
+  Notre *capitaine* de l'équipe nationale a marqué le but décisif.
+  Unser *Kapitän* der Nationalmannschaft hat das entscheidende Tor geschossen.
 
-  Je suis le capitaine.
-  Ich bin der Hauptmann.
+  Le *capitaine* du port a donné l'autorisation d'accoster.
+  Der *Hafenmeister* hat die Genehmigung zum Anlegen erteilt.
 
-  Le capitaine du bateau était un homme expérimenté.
-  Der Schiffskapitän war ein erfahrener Mann.
+  "Mon *capitaine*, les recrues sont prêtes pour l'inspection."
+  "Herr *Hauptmann*, die Rekruten sind bereit für die Inspektion."
 
-  Le capitaine de gendarmerie a arrêté le suspect.
-  Der Hauptmann der Gendarmerie hat den Verdächtigen festgenommen.
+  Le *capitaine* au long cours navigue depuis vingt ans sur les océans.
+  Der *Kapitän* auf großer Fahrt fährt seit zwanzig Jahren über die Weltmeere.
 
-  Le capitaine au long cours a navigué sur tous les océans.
-  Der Kapitän auf großer Fahrt ist auf allen Ozeanen gesegelt.
+  Alexandre fut un grand *capitaine* qui conquit de vastes territoires.
+  Alexander war ein großer *Feldherr*, der weite Gebiete eroberte.
 
-  La capitaine de port a accueilli les navires qui arrivaient au port.
-  Die Hafenmeisterin hat die Schiffe begrüßt, die im Hafen ankamen.
+  Le *capitaine* de gendarmerie a organisé une patrouille nocturne.
+  Der *Hauptmann* der Gendarmerie hat eine nächtliche Streife organisiert.
+
+  Notre *capitaine* d'industrie a créé des milliers d'emplois.
+  Unser *Industriemagnat* hat tausende Arbeitsplätze geschaffen.
+
+  Le *capitaine* de frégate a pris le commandement du navire.
+  Der *Fregattenkapitän* hat das Kommando über das Schiff übernommen.
+
+  Le *capitaine* des pompiers dirige les opérations de sauvetage.
+  Der *Feuerwehrhauptmann* leitet die Rettungsaktionen.
+
+  Cette femme *capitaine* commande un cargo depuis cinq ans.
+  Diese *Kapitänin* führt seit fünf Jahren ein Frachtschiff.
+
+  Le second *capitaine* remplace temporairement le commandant.
+  Der zweite *Kapitän* ersetzt vorübergehend den Kommandanten.
+
+  Le *capitaine* de corvette participe aux manœuvres navales.
+  Der *Korvettenkapitän* nimmt an den Marinemanövern teil.
+
+  La *capitaine* de l'équipe féminine a soulevé le trophée.
+  Die *Kapitänin* der Frauenmannschaft hat die Trophäe hochgehoben.
+
+  Le *capitaine* d'armes inspecte l'équipage chaque matin.
+  Der *Waffenmeister* inspiziert jeden Morgen die Mannschaft.
+
+  Le *capitaine* de pavillon coordonne les activités avec l'amiral.
+  Der *Flaggkapitän* koordiniert die Aktivitäten mit dem Admiral.
+
+  Notre *capitaine* de vaisseau commande une flottille entière.
+  Unser *Kapitän zur See* befehligt eine ganze Flottille.
+
+  Le *capitaine* instructeur forme les nouveaux pilotes.
+  Der *Ausbildungshauptmann* schult die neuen Piloten.
+
+  Le médecin-*capitaine* soigne les blessés sur le front.
+  Der *Hauptmann*arzt behandelt die Verwundeten an der Front.
+
+  Le *capitaine* de la marine marchande traverse l'Atlantique.
+  Der *Kapitän* der Handelsmarine überquert den Atlantik.
+
+  Le *capitaine* côtier connaît tous les ports de la région.
+  Der Küsten*kapitän* kennt alle Häfen der Region.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

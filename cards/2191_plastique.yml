@@ -13,29 +13,107 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On devait jouer avec un poulet en plastique.
-  Wir sollten mit einem Plastikhuhn spielen.
+  On devait jouer avec un poulet en *plastique*.
+  Wir mussten mit einem *Plastik*huhn spielen.
 
-  Cette bouteille est en plastique.
-  Diese Flasche ist aus Kunststoff.
+  Les arts *plastiques* constituent une partie importante de l'éducation.
+  Die bildenden *Künste* sind ein wichtiger Teil der Bildung.
 
-  Cette chaise est en plastique.
-  Dieser Stuhl ist aus Kunststoff.
+  Elle a subi une chirurgie *plastique* après son accident.
+  Sie hat nach ihrem Unfall eine *plastische* Operation gehabt.
 
-  Il est passionné par les arts plastiques, notamment la sculpture.
-  Er ist begeistert von der Bildhauerkunst, vor allem von der Skulptur.
+  L'argile est une matière très *plastique* et facile à travailler.
+  Der Ton ist ein sehr *formbares* Material und leicht zu bearbeiten.
 
-  Les fruits et légumes sont souvent vendus sous plastique pour les conserver plus longtemps.
-  Obst und Gemüse werden oft in Plastik verpackt, um sie länger haltbar zu machen.
+  Les gestes *plastiques* du danseur ont impressionné le public.
+  Die *ausdrucksstarken* Bewegungen des Tänzers haben das Publikum beeindruckt.
 
-  Il a jeté le sac plastique dans la poubelle jaune.
-  Er hat den Plastiksack in den gelben Abfall geworfen.
+  J'ai acheté des bouteilles en *plastique* pour le pique-nique.
+  Ich habe *Plastik*flaschen für das Picknick gekauft.
 
-  La bouteille en plastique est recyclable.
-  Die Plastikflasche ist recyclebar.
+  La *plastique* de cette statue grecque est remarquable.
+  Die *Gestalt* dieser griechischen Statue ist bemerkenswert.
 
-  Il a déballé l'emballage plastique et a mis le cadeau sur la table.
-  Er hat die Plastikverpackung abgepackt und das Geschenk auf den Tisch gelegt.
+  Les sacs *plastique* sont interdits dans de nombreux magasins.
+  *Plastik*tüten sind in vielen Geschäften verboten.
+
+  La beauté *plastique* de cette œuvre est extraordinaire.
+  Die *plastische* Schönheit dieses Kunstwerks ist außergewöhnlich.
+
+  Ils ont emballé tous les meubles sous *plastique*.
+  Sie haben alle Möbel in *Plastik* verpackt.
+
+  Cette pâte reste *plastique* pendant plusieurs heures.
+  Diese Masse bleibt mehrere Stunden lang *formbar*.
+
+  La pollution par le *plastique* menace nos océans.
+  Die *Plastik*verschmutzung bedroht unsere Ozeane.
+
+  Les aliments *plastiques* sont essentiels pour la croissance.
+  *Aufbauende* Nährstoffe sind wichtig für das Wachstum.
+
+  Le professeur d'arts *plastiques* nous a montré différentes techniques.
+  Der *Kunst*lehrer hat uns verschiedene Techniken gezeigt.
+
+  Cette danseuse a une *plastique* parfaite.
+  Diese Tänzerin hat eine perfekte *Figur*.
+
+  Le *plastique* recyclé peut être utilisé pour fabriquer de nouveaux objets.
+  Recyceltes *Plastik* kann zur Herstellung neuer Gegenstände verwendet werden.
+
+  L'emballage *plastique* protège les aliments de l'humidité.
+  Die *Plastik*verpackung schützt die Lebensmittel vor Feuchtigkeit.
+
+  Les qualités *plastiques* de ce matériau sont remarquables.
+  Die *plastischen* Eigenschaften dieses Materials sind bemerkenswert.
+
+  Cette intervention *plastique* a transformé son visage.
+  Dieser *plastische* Eingriff hat ihr Gesicht verändert.
+
+  La *plastique* romane se caractérise par sa simplicité.
+  Die romanische *Bildhauerkunst* zeichnet sich durch ihre Schlichtheit aus.
+
+  Les substances *plastiques* jouent un rôle crucial dans notre corps.
+  *Formbare* Substanzen spielen eine wichtige Rolle in unserem Körper.
+
+  Ce vase *plastique* représente une tête de lion.
+  Diese *plastische* Vase stellt einen Löwenkopf dar.
+
+  L'industrie du *plastique* emploie des millions de personnes.
+  Die *Kunststoff*industrie beschäftigt Millionen Menschen.
+
+  Les propriétés *plastiques* de ce nouveau matériau sont impressionnantes.
+  Die *formbaren* Eigenschaften dieses neuen Materials sind beeindruckend.
+
+  Cette chaise en *plastique* est étonnamment confortable.
+  Dieser *Plastik*stuhl ist überraschend bequem.
+
+  Le génie *plastique* de cet artiste est indéniable.
+  Das *bildhauerische* Genie dieses Künstlers ist unbestreitbar.
+
+  La *plastique* pure se concentre sur la forme elle-même.
+  Die reine *Plastik* konzentriert sich auf die Form an sich.
+
+  Cette terre est suffisamment *plastique* pour être modelée.
+  Diese Erde ist ausreichend *formbar*, um modelliert zu werden.
+
+  J'ai besoin d'une fourchette en *plastique*.
+  Ich brauche eine *Plastik*gabel.
+
+  Les règles de la *plastique* sont essentielles en sculpture.
+  Die Regeln der *Plastik* sind in der Bildhauerei wesentlich.
+
+  La beauté *plastique* du mouvement était saisissante.
+  Die *plastische* Schönheit der Bewegung war fesselnd.
+
+  Cette feuille de *plastique* protège la table.
+  Diese *Plastik*folie schützt den Tisch.
+
+  L'image *plastique* révèle tous les détails de la scène.
+  Das *plastische* Bild zeigt alle Details der Szene.
+
+  Cette bouteille *plastique* est réutilisable.
+  Diese *Plastik*flasche ist wiederverwendbar.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

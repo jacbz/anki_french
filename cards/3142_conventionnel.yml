@@ -13,11 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ces missiles étaient équipés de têtes conventionnelles.
-  Diese Raketen waren mit konventionellen Sprengköpfen bestückt.
+  Ces missiles étaient équipés de têtes *conventionnelles*.
+  Diese Raketen waren mit *konventionellen* Sprengköpfen ausgestattet.
 
-  Il a un travail conventionnel.
-  Er hat einen konventionellen Job.
+  L'agriculture *conventionnelle* utilise beaucoup de pesticides.
+  Die *konventionelle* Landwirtschaft verwendet viele Pestizide.
+
+  Les personnages de ce film sont trop *conventionnels*.
+  Die Charaktere in diesem Film sind zu *konventionell*.
+
+  Marie n'aime pas les formules *conventionnelles* dans les lettres.
+  Marie mag keine *konventionellen* Grußformeln in Briefen.
+
+  Le prix *conventionnel* du blé a été fixé lors de la réunion.
+  Der *vereinbarte* Weizenpreis wurde während des Treffens festgelegt.
+
+  Sur cette carte, les points rouges sont des signes *conventionnels* pour les hôpitaux.
+  Auf dieser Karte sind rote Punkte *vereinbarte* Zeichen für Krankenhäuser.
+
+  Cette famille est très *conventionnelle* dans ses habitudes.
+  Diese Familie ist sehr *konventionell* in ihren Gewohnheiten.
+
+  Les gisements de pétrole *conventionnel* sont de plus en plus rares.
+  Die Vorkommen von *konventionellem* Erdöl werden immer seltener.
+
+  Son style vestimentaire n'est pas du tout *conventionnel*.
+  Sein Kleidungsstil ist überhaupt nicht *konventionell*.
+
+  La valeur *conventionnelle* du dollar varie selon les accords internationaux.
+  Der *vereinbarte* Wert des Dollars variiert je nach internationalen Abkommen.
+
+  Les méthodes d'extraction *conventionnelles* ne suffisent plus.
+  Die *herkömmlichen* Fördermethoden reichen nicht mehr aus.
+
+  Elle trouve ses parents trop *conventionnels* dans leur façon de penser.
+  Sie findet ihre Eltern zu *konventionell* in ihrer Denkweise.
+
+  Les forces armées *conventionnelles* ont été déployées à la frontière.
+  Die *konventionellen* Streitkräfte wurden an der Grenze stationiert.
+
+  Le bail *conventionnel* expire à la fin du mois.
+  Der *vereinbarte* Mietvertrag läuft Ende des Monats aus.
+
+  Cette décoration d'intérieur sort des schémas *conventionnels*.
+  Diese Inneneinrichtung weicht von *konventionellen* Mustern ab.
+
+  La politique *conventionnelle* de l'entreprise protège les employés.
+  Die *tarifliche* Politik des Unternehmens schützt die Mitarbeiter.
+
+  Son roman brise tous les codes *conventionnels* du genre.
+  Sein Roman bricht mit allen *konventionellen* Regeln des Genres.
+
+  Les symboles *conventionnels* sur cette carte sont expliqués dans la légende.
+  Die *vereinbarten* Symbole auf dieser Karte werden in der Legende erklärt.
+
+  Cette startup refuse les approches *conventionnelles* du management.
+  Dieses Startup lehnt *konventionelle* Managementansätze ab.
+
+  Les sentiments exprimés dans sa lettre semblaient très *conventionnels*.
+  Die in seinem Brief ausgedrückten Gefühle wirkten sehr *konventionell*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,14 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous sommes maintenant en train de multiplier le danger nucléaire.
-  Wir sind nun dabei, die nukleare Gefahr zu vervielfachen.
+  Nous sommes maintenant en train de *multiplier* le danger nucléaire.
+  Wir sind dabei, die nukleare Gefahr zu *vervielfachen*.
 
-  Je dois multiplier 5 par 3.
-  Ich muss 5 mit 3 multiplizieren.
+  Sept *multiplié* par trois fait vingt-et-un.
+  Sieben mal drei *ergibt* einundzwanzig.
 
-  Si on multiplie sept par trois, on obtient vingt et un.
-  Wenn man sieben mit drei multipliziert, erhält man einundzwanzig.
+  Les bactéries se *multiplient* rapidement dans un environnement chaud et humide.
+  Bakterien *vermehren* sich schnell in einer warmen und feuchten Umgebung.
+
+  Pierre a dû *multiplier* les démarches pour obtenir son visa.
+  Pierre musste seine Bemühungen *verstärken*, um sein Visum zu bekommen.
+
+  Il faut *multiplier* les efforts si nous voulons réussir.
+  Wir müssen unsere Anstrengungen *vervielfachen*, wenn wir erfolgreich sein wollen.
+
+  Le jardinier *multiplie* ses rosiers par bouture.
+  Der Gärtner *vermehrt* seine Rosenstöcke durch Stecklinge.
+
+  Anne se *multiplie* pour organiser la fête d'anniversaire de sa fille.
+  Anne ist bei der Organisation der Geburtstagsfeier ihrer Tochter *überall zugleich*.
+
+  Les incidents se *multiplient* dans ce quartier depuis quelques mois.
+  Die Vorfälle *häufen* sich seit einigen Monaten in diesem Viertel.
+
+  Pour résoudre ce problème, nous devons *multiplier* douze par quatre.
+  Um diese Aufgabe zu lösen, müssen wir zwölf mit vier *multiplizieren*.
+
+  Les restaurants se sont *multipliés* dans notre rue.
+  Die Restaurants haben sich in unserer Straße *vermehrt*.
+
+  Marie *multiplie* les visites chez le médecin ces derniers temps.
+  Marie *häuft* in letzter Zeit die Arztbesuche.
+
+  Cette espèce de papillons se *multiplie* de façon inquiétante.
+  Diese Schmetterlingsart *vermehrt* sich besorgniserregend.
+
+  Le professeur nous a demandé de *multiplier* vingt-cinq par trois.
+  Der Lehrer hat uns aufgefordert, fünfundzwanzig mit drei zu *multiplizieren*.
+
+  Les erreurs se *multiplient* dans son travail depuis quelque temps.
+  Die Fehler *häufen* sich seit einiger Zeit in seiner Arbeit.
+
+  Il faut *multiplier* ce nombre par un facteur de deux.
+  Man muss diese Zahl mit dem Faktor zwei *multiplizieren*.
+
+  Ces mauvaises herbes se *multiplient* très vite dans mon jardin.
+  Dieses Unkraut *vermehrt* sich sehr schnell in meinem Garten.
+
+  Le patron se *multiplie* pour satisfaire tous ses clients.
+  Der Chef ist *überall zugleich*, um alle seine Kunden zufriedenzustellen.
+
+  L'entreprise a *multiplié* ses profits par trois en un an.
+  Das Unternehmen hat seine Gewinne in einem Jahr *verdreifacht*.
+
+  Les obstacles semblent se *multiplier* sur notre chemin.
+  Die Hindernisse scheinen sich auf unserem Weg zu *häufen*.
+
+  Nous devons *multiplier* nos sources d'énergie renouvelable.
+  Wir müssen unsere erneuerbaren Energiequellen *vervielfachen*.
+
+  Paul *multiplie* les avertissements, mais personne ne l'écoute.
+  Paul *wiederholt* seine Warnungen, aber niemand hört auf ihn.
+
+  Les exemples se *multiplient* dans son exposé.
+  Die Beispiele *häufen* sich in seinem Vortrag.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,20 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il n’y a pas d’heure spécifique.
-  Es gibt keine bestimmte Uhrzeit.
+  Il n'y a pas d'heure *spécifique*.
+  Es gibt keine *spezifische* Zeit.
 
-  Il a des compétences spécifiques.
-  Er hat spezifische Fähigkeiten.
+  Les chiens de cette race ont une odeur *spécifique*.
+  Hunde dieser Rasse haben einen *spezifischen* Geruch.
 
-  Ce sont des problèmes spécifiques du marché de l'automobile.
-  Das sind marktspezifische Probleme im Bereich der Automobilindustrie.
+  Cette réaction chimique produit un type de molécule *spécifique*.
+  Diese chemische Reaktion erzeugt einen *spezifischen* Molekültyp.
 
-  Le prix est spécifique à la marchandise.
-  Der Preis ist warenspezifisch.
+  L'entreprise propose une formation *spécifique* pour les nouveaux employés.
+  Das Unternehmen bietet eine *spezifische* Schulung für neue Mitarbeiter an.
 
-  Ce problème est spécifique à la branche de la finance.
-  Das ist ein branchenspezifisches Problem im Finanzwesen.
+  Chaque région a ses plantes *spécifiques*.
+  Jede Region hat ihre *spezifischen* Pflanzen.
+
+  Ce médicament est *spécifique* au traitement de la migraine.
+  Dieses Medikament ist *spezifisch* für die Behandlung von Migräne.
+
+  Les anticorps *spécifiques* combattent efficacement le virus.
+  Die *spezifischen* Antikörper bekämpfen das Virus effektiv.
+
+  Nous devons répondre aux besoins *spécifiques* de chaque client.
+  Wir müssen auf die *spezifischen* Bedürfnisse jedes Kunden eingehen.
+
+  Le poids *spécifique* de l'or est plus élevé que celui de l'argent.
+  Das *spezifische* Gewicht von Gold ist höher als das von Silber.
+
+  Cette subvention est destinée à une population *spécifique*.
+  Diese Förderung ist für eine *spezifische* Bevölkerungsgruppe bestimmt.
+
+  Les chercheurs ont identifié un gène *spécifique* responsable de la maladie.
+  Die Forscher haben ein *spezifisches* Gen identifiziert, das für die Krankheit verantwortlich ist.
+
+  Il faut utiliser un vocabulaire *spécifique* dans ce domaine.
+  Man muss in diesem Bereich ein *spezifisches* Vokabular verwenden.
+
+  La chaleur *spécifique* de l'eau est différente de celle de l'huile.
+  Die *spezifische* Wärme von Wasser unterscheidet sich von der von Öl.
+
+  L'équipe a développé une méthode *spécifique* pour résoudre ce problème.
+  Das Team hat eine *spezifische* Methode entwickelt, um dieses Problem zu lösen.
+
+  Ces oiseaux sont *spécifiques* à cette île.
+  Diese Vögel sind *spezifisch* für diese Insel.
+
+  Le traitement doit être *spécifique* à chaque patient.
+  Die Behandlung muss für jeden Patienten *spezifisch* sein.
+
+  Cette technologie répond à un besoin *spécifique* du marché.
+  Diese Technologie erfüllt einen *spezifischen* Marktbedarf.
+
+  Chaque sport nécessite des équipements *spécifiques*.
+  Jeder Sport erfordert *spezifische* Ausrüstung.
+
+  Les récepteurs *spécifiques* de l'adrénaline se trouvent dans plusieurs organes.
+  Die *spezifischen* Adrenalinrezeptoren befinden sich in mehreren Organen.
+
+  La quinine était considérée comme un remède *spécifique* contre le paludisme.
+  Chinin galt als *spezifisches* Heilmittel gegen Malaria.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

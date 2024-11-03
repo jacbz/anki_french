@@ -13,11 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les chercheurs pourront vérifier l’efficacité du traitement.
-  Die Forscher können die Wirksamkeit der Behandlung überprüfen.
+  Les chercheurs pourront vérifier l'*efficacité* du traitement.
+  Die Forscher werden die *Wirksamkeit* der Behandlung überprüfen können.
 
-  L’efficacité de ce médicament est prouvée.
-  Die Wirksamkeit dieses Medikaments ist bewiesen.
+  L'*efficacité* de cette nouvelle machine dépasse toutes nos attentes.
+  Die *Leistungsfähigkeit* dieser neuen Maschine übertrifft alle unsere Erwartungen.
+
+  Notre équipe travaille toujours avec une grande *efficacité*.
+  Unser Team arbeitet immer mit hoher *Effizienz*.
+
+  Sa réputation d'*efficacité* n'est plus à démontrer.
+  Seine *Tüchtigkeit* muss nicht mehr unter Beweis gestellt werden.
+
+  La campagne publicitaire a montré une *efficacité* remarquable.
+  Die Werbekampagne zeigte eine bemerkenswerte *Schlagkraft*.
+
+  L'*efficacité* de ces antibiotiques diminue progressivement.
+  Die *Wirkung* dieser Antibiotika lässt allmählich nach.
+
+  Nous devons améliorer l'*efficacité* de notre système de production.
+  Wir müssen die *Effizienz* unseres Produktionssystems verbessern.
+
+  L'*efficacité* énergétique est une priorité pour notre entreprise.
+  Die Energie*effizienz* ist eine Priorität für unser Unternehmen.
+
+  Le nouveau directeur a prouvé son *efficacité* dès le premier mois.
+  Der neue Direktor hat seine *Tüchtigkeit* bereits im ersten Monat bewiesen.
+
+  L'*efficacité* du vaccin a été confirmée par plusieurs études.
+  Die *Wirksamkeit* des Impfstoffs wurde durch mehrere Studien bestätigt.
+
+  Je suis impressionné par l'*efficacité* de cette méthode d'apprentissage.
+  Ich bin von der *Wirksamkeit* dieser Lernmethode beeindruckt.
+
+  Nous avons des doutes concernant l'*efficacité* de ces mesures.
+  Wir haben Zweifel an der *Wirkung* dieser Maßnahmen.
+
+  L'*efficacité* de notre équipe commerciale s'améliore chaque année.
+  Die *Leistungsfähigkeit* unseres Verkaufsteams verbessert sich jedes Jahr.
+
+  Cette solution manque d'*efficacité* à long terme.
+  Dieser Lösung fehlt es an langfristiger *Wirksamkeit*.
+
+  Son *efficacité* au travail lui a valu une promotion.
+  Seine *Tüchtigkeit* bei der Arbeit hat ihm eine Beförderung eingebracht.
+
+  Nous recherchons constamment à optimiser l'*efficacité* de nos processus.
+  Wir streben ständig danach, die *Effizienz* unserer Prozesse zu optimieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

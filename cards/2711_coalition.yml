@@ -13,20 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Un soldat de la coalition a été blessé dans l’opération.
-  Ein Koalitionssoldat wurde bei der Operation verletzt.
+  Un soldat de la *coalition* a été blessé dans l'opération.
+  Ein Soldat der *Koalition* wurde bei dem Einsatz verletzt.
 
-  La coalition gouvernementale a remporté les élections.
-  Die Regierungskoalition hat die Wahlen gewonnen.
+  Les négociations pour former une *coalition* gouvernementale sont en cours.
+  Die Verhandlungen zur Bildung einer Regierungs*koalition* laufen.
 
-  La coalition réunissant tous les partis a été formée après des semaines de négociations difficiles.
-  Die Allparteienkoalition wurde nach wochenlangen schwierigen Verhandlungen gebildet.
+  La *coalition* au pouvoir a perdu sa majorité au Parlement.
+  Die regierende *Koalition* hat ihre Mehrheit im Parlament verloren.
 
-  La constitution de la coalition a été un processus long et complexe.
-  Die Koalitionsbildung war ein langwieriger und komplexer Prozess.
+  Une *coalition* d'associations environnementales s'est formée contre le projet.
+  Ein *Bündnis* von Umweltverbänden hat sich gegen das Projekt gebildet.
 
-  Le droit de coalition est un principe fondamental de la démocratie.
-  Das Vereinigungsrecht ist ein Grundprinzip der Demokratie.
+  Le droit de *coalition* est garanti par la constitution.
+  Das *Vereinigungs*recht wird von der Verfassung garantiert.
+
+  Cette *coalition* réunit tous les partis démocratiques.
+  Diese *Koalition* vereint alle demokratischen Parteien.
+
+  Les membres de la *coalition* ne sont pas d'accord sur cette question.
+  Die Mitglieder des *Bündnisses* sind sich in dieser Frage nicht einig.
+
+  Une nouvelle *coalition* militaire a été créée pour maintenir la paix.
+  Eine neue militärische *Koalition* wurde zur Friedenssicherung gegründet.
+
+  La *coalition* des syndicats organise une manifestation demain.
+  Das Gewerkschafts*bündnis* organisiert morgen eine Demonstration.
+
+  Cette *coalition* d'intérêts menace notre projet.
+  Dieses Interessens*bündnis* bedroht unser Projekt.
+
+  La *coalition* au pouvoir propose une nouvelle réforme fiscale.
+  Die regierende *Koalition* schlägt eine neue Steuerreform vor.
+
+  Une large *coalition* s'est formée pour soutenir les réfugiés.
+  Ein breites *Bündnis* hat sich zur Unterstützung der Flüchtlinge gebildet.
+
+  La *coalition* des pays européens a condamné cette violation du droit international.
+  Die *Koalition* der europäischen Länder hat diesen Völkerrechtsverstoß verurteilt.
+
+  Les petits partis ont formé une *coalition* électorale.
+  Die kleinen Parteien haben ein Wahl*bündnis* gebildet.
+
+  Cette *coalition* inattendue a changé la dynamique politique.
+  Dieses unerwartete *Bündnis* hat die politische Dynamik verändert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

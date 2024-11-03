@@ -13,32 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je n’avais pas gagné un match depuis deux mois.
-  Ich hatte seit zwei Monaten kein Spiel mehr gewonnen.
+  Je n'avais pas gagné un *match* depuis deux mois.
+  Ich hatte seit zwei Monaten kein *Spiel* mehr gewonnen.
 
-  Nous allons regarder un match de football ce soir.
-  Wir werden heute Abend ein Fußballspiel anschauen.
+  Le *match* de hockey contre l'équipe canadienne commence dans une heure.
+  Das Hockey*spiel* gegen das kanadische Team beginnt in einer Stunde.
 
-  On a gagné le match.
-  Wir haben das Spiel gewonnen.
+  Paul et Marie disputeront leur *match* de tennis cet après-midi.
+  Paul und Marie werden heute Nachmittag ihr Tennis*match* austragen.
 
-  Le match de hockey a été très disputé, mais les Canadiens ont fini par gagner.
-  Das Hockeyspiel war sehr umkämpft, aber die Kanadier haben am Ende gewonnen.
+  Les spectateurs sont venus nombreux pour voir ce *match* de boxe.
+  Die Zuschauer kamen zahlreich, um diesen Box*kampf* zu sehen.
 
-  Le match de tennis de table a été très serré, mais Pierre a finalement remporté la victoire.
-  Das Tischtennismatch war sehr knapp, aber Pierre hat am Ende gewonnen.
+  Le *match* nul d'hier soir n'a satisfait aucune des deux équipes.
+  Das *Unentschieden* gestern Abend hat keine der beiden Mannschaften zufriedengestellt.
 
-  Le match local était très important pour les deux équipes, car la rivalité entre les deux villes est très forte.
-  Das Lokalderby war für beide Mannschaften sehr wichtig, da die Rivalität zwischen den beiden Städten sehr stark ist.
+  Ce *match* local attire toujours beaucoup de supporters.
+  Dieses *Lokalderby* zieht immer viele Fans an.
 
-  Le match d'ouverture de la saison était très attendu par les fans, car l'équipe était considérée comme une candidate au titre.
-  Das Eröffnungsspiel der Saison wurde von den Fans mit Spannung erwartet, da die Mannschaft als Titelkandidat galt.
+  Notre équipe doit gagner le *match* aller pour se qualifier.
+  Unsere Mannschaft muss das *Hinspiel* gewinnen, um sich zu qualifizieren.
 
-  Le match à rejouer était nécessaire, car le résultat du premier match était contesté.
-  Das Wiederholungsspiel war notwendig, da das Ergebnis des ersten Spiels umstritten war.
+  Le *match* d'ouverture de la coupe du monde sera diffusé en direct.
+  Das *Eröffnungsspiel* der Weltmeisterschaft wird live übertragen.
 
-  Le match vedette de la soirée était très attendu, car il mettait en scène deux des meilleurs joueurs du monde.
-  Das Schlagerspiel des Abends war sehr erwartet, da es zwei der besten Spieler der Welt gegeneinander antreten ließ.
+  À cause de la pluie, le *match* à rejouer aura lieu la semaine prochaine.
+  Wegen des Regens findet das *Wiederholungsspiel* nächste Woche statt.
+
+  C'est un *match* de très haut niveau entre les deux meilleures équipes.
+  Es ist ein *Spitzenspiel* zwischen den beiden besten Mannschaften.
+
+  Le *match* vedette de la soirée opposera les équipes rivales.
+  Das *Schlagerspiel* des Abends wird die Rivalen gegeneinander antreten lassen.
+
+  Les enfants ont regardé tous les *matchs* de la coupe du monde.
+  Die Kinder haben alle *Spiele* der Weltmeisterschaft gesehen.
+
+  Elle a perdu son dernier *match* de tennis de table.
+  Sie hat ihr letztes Tischtennis*match* verloren.
+
+  Les deux équipes ont fait *match* nul trois fois cette saison.
+  Die beiden Mannschaften spielten diese Saison dreimal *unentschieden*.
+
+  C'est la balle de *match* pour le champion en titre.
+  Das ist der *Match*ball für den amtierenden Champion.
+
+  Le *match* de rugby a duré plus longtemps que prévu.
+  Das Rugby*spiel* dauerte länger als erwartet.
+
+  Nous avons disputé cinq *matchs* cette semaine.
+  Wir haben diese Woche fünf *Spiele* bestritten.
+
+  Le *match* de barrage déterminera qui reste en première division.
+  Das Relegations*spiel* wird entscheiden, wer in der ersten Liga bleibt.
+
+  Ce *match* de consolation n'intéresse pas vraiment les joueurs.
+  Dieses Trost*spiel* interessiert die Spieler nicht wirklich.
+
+  Les journalistes commentent chaque *match* en direct.
+  Die Journalisten kommentieren jedes *Spiel* live.
+
+  Le *match* entre ces deux géants économiques dure depuis des années.
+  Der *Wettkampf* zwischen diesen beiden Wirtschaftsgiganten dauert schon seit Jahren.
+
+  Les supporters attendent avec impatience le prochain *match*.
+  Die Fans warten ungeduldig auf das nächste *Spiel*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

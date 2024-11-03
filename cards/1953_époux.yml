@@ -13,17 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis fier de l’avoir choisi comme époux.
-  Ich bin stolz darauf, ihn als meinen Ehemann gewählt zu haben.
+  Je suis fier de l'avoir choisi comme *époux*.
+  Ich bin stolz darauf, ihn als *Gatten* gewählt zu haben.
 
-  Les époux sont mariés depuis 20 ans.
-  Das Ehepaar ist seit 20 Jahren verheiratet.
+  Les *époux* se sont embrassés devant l'autel.
+  Die *Eheleute* küssten sich vor dem Altar.
 
-  Les jeunes époux ont célébré leur mariage dans un petit village pittoresque.
-  Das junge Paar hat seine Hochzeit in einem malerischen kleinen Dorf gefeiert.
+  Les jeunes *époux* ont dansé toute la nuit.
+  Das jungvermählte *Paar* tanzte die ganze Nacht.
 
-  Mme Dumas, épouse Meier, a organisé une réception magnifique pour ses invités.
-  Frau Meier, geborene Dumas, hat für ihre Gäste einen wunderschönen Empfang organisiert.
+  Marie Dubois, *épouse* Martin, a signé le contrat.
+  Marie Martin, geborene Dubois, hat den Vertrag unterschrieben.
+
+  Elle a accepté de le prendre pour *époux* lors d'une cérémonie intime.
+  Sie hat eingewilligt, ihn bei einer intimen Zeremonie zum *Gemahl* zu nehmen.
+
+  L'*épouse* légitime a découvert sa double vie.
+  Die rechtmäßige *Gattin* hat sein Doppelleben entdeckt.
+
+  Les *époux* se doivent fidélité et assistance.
+  Die *Ehepartner* schulden einander Treue und Beistand.
+
+  L'*époux* survivant héritera de la maison.
+  Der überlebende *Ehegatte* wird das Haus erben.
+
+  Sophie nous a présenté son *époux* lors du dîner.
+  Sophie hat uns ihren *Gatten* beim Abendessen vorgestellt.
+
+  C'est une *épouse* aimante et dévouée.
+  Sie ist eine liebevolle und aufopfernde *Gattin*.
+
+  Il s'est révélé être un *époux* volage.
+  Er erwies sich als untreuer *Ehemann*.
+
+  La future *épouse* portait une robe magnifique.
+  Die künftige *Braut* trug ein wunderschönes Kleid.
+
+  Les *époux* ont célébré leurs noces d'or.
+  Die *Eheleute* haben ihre goldene Hochzeit gefeiert.
+
+  "Mon *époux* bien-aimé me manque terriblement."
+  "Ich vermisse meinen geliebten *Gatten* schrecklich."
+
+  L'*épouse* du président assistera à la cérémonie.
+  Die *Gattin* des Präsidenten wird an der Zeremonie teilnehmen.
+
+  Les jeunes *époux* ont emménagé dans leur premier appartement.
+  Das frisch vermählte *Paar* ist in ihre erste gemeinsame Wohnung eingezogen.
+
+  Son *épouse* lui est restée fidèle pendant toutes ces années.
+  Seine *Gattin* ist ihm all die Jahre treu geblieben.
+
+  Les *époux* Dupont ont adopté trois enfants.
+  Die *Eheleute* Dupont haben drei Kinder adoptiert.
+
+  Il cherche une *épouse* qui partage ses valeurs.
+  Er sucht eine *Gattin*, die seine Werte teilt.
+
+  C'est un *époux* attentionné et un père formidable.
+  Er ist ein fürsorglicher *Ehemann* und ein großartiger Vater.
+
+  L'*épouse* du défunt a prononcé un discours émouvant.
+  Die *Gattin* des Verstorbenen hielt eine bewegende Rede.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,26 +13,104 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils ont affiché ma photo dans tous les bâtiments.
-  Sie haben mein Foto in allen Gebäuden aufgehängt.
+  Ils ont *affiché* ma photo dans tous les bâtiments.
+  Sie haben mein Foto in allen Gebäuden *ausgehängt*.
 
-  Il faut afficher les horaires d’ouverture.
-  Die Öffnungszeiten müssen angezeigt werden.
+  Les résultats du concours seront *affichés* demain matin.
+  Die Wettbewerbsergebnisse werden morgen früh *ausgehängt*.
 
-  Le document était affiché sur le tableau d'affichage.
-  Das Dokument hing am schwarzen Brett aus.
+  Le théâtre municipal *affiche* une nouvelle pièce ce soir.
+  Das Stadttheater *führt* heute Abend ein neues Stück *auf*.
 
-  La liste des participants à la réunion est affichée électroniquement sur le site web.
-  Die Liste der Teilnehmer an der Sitzung wird auf der Website angezeigt.
+  L'écran *affiche* une erreur depuis ce matin.
+  Der Bildschirm *zeigt* seit heute Morgen einen Fehler *an*.
 
-  Défense d'afficher des affiches sur les murs du bâtiment !
-  Plakate ankleben an den Wänden des Gebäudes verboten!
+  Elle *affiche* ouvertement ses opinions politiques.
+  Sie *gibt* ihre politischen Ansichten offen *bekannt*.
 
-  Le titre du film était affiché sur l'écran.
-  Der Titel des Films wurde auf dem Bildschirm angezeigt.
+  L'entreprise *affiche* un bénéfice record cette année.
+  Das Unternehmen *weist* dieses Jahr einen Rekordgewinn *aus*.
 
-  Elle s'est affichée avec son nouveau petit ami au bal de l'école.
-  Sie hat sich mit ihrem neuen Freund auf dem Schulfest in aller Öffentlichkeit gezeigt.
+  "Il s'*affiche* partout avec sa nouvelle petite amie."
+  "Er *zeigt* sich überall mit seiner neuen Freundin in der Öffentlichkeit."
+
+  Le panneau lumineux *affiche* la température extérieure.
+  Die Leuchtanzeige *zeigt* die Außentemperatur *an*.
+
+  Défense d'*afficher* sur ce mur !
+  Plakate *ankleben* an dieser Wand verboten!
+
+  La boutique *affiche* ses prix en vitrine.
+  Der Laden *hängt* seine Preise im Schaufenster *aus*.
+
+  Le cinéma *affiche* complet pour la première.
+  Das Kino ist für die Premiere *ausverkauft*.
+
+  Les données s'*affichent* automatiquement toutes les minutes.
+  Die Daten werden automatisch jede Minute *angezeigt*.
+
+  Il *affiche* un sourire confiant malgré ses problèmes.
+  Er *zeigt* trotz seiner Probleme ein selbstsicheres Lächeln.
+
+  Le professeur a *affiché* les notes sur le tableau.
+  Der Lehrer hat die Noten an der Tafel *ausgehängt*.
+
+  La mairie *affichera* les résultats des élections ce soir.
+  Das Rathaus wird heute Abend die Wahlergebnisse *aushängen*.
+
+  "Le prof l'a *affiché* devant toute la classe."
+  "Der Lehrer hat ihn vor der ganzen Klasse *bloßgestellt*."
+
+  Elle *affiche* une parfaite indifférence à ses critiques.
+  Sie *zeigt* völlige Gleichgültigkeit gegenüber seiner Kritik.
+
+  Le système *affiche* une mise à jour disponible.
+  Das System *zeigt* ein verfügbares Update *an*.
+
+  Les horaires sont *affichés* à l'entrée du magasin.
+  Die Öffnungszeiten sind am Eingang des Geschäfts *angebracht*.
+
+  Il s'*affiche* dans tous les salons politiques.
+  Er *präsentiert* sich auf allen politischen Empfängen.
+
+  L'horloge numérique *affiche* midi pile.
+  Die Digitaluhr *zeigt* genau zwölf Uhr *an*.
+
+  Le tableau électronique *affiche* les départs des trains.
+  Die elektronische Tafel *zeigt* die Zugabfahrten *an*.
+
+  Il *affiche* son mépris pour l'argent.
+  Er *zeigt* seine Verachtung für Geld.
+
+  La station-service *affiche* les prix des carburants.
+  Die Tankstelle *zeigt* die Kraftstoffpreise *an*.
+
+  L'écran du smartphone *affiche* un message d'erreur.
+  Das Smartphone-Display *zeigt* eine Fehlermeldung *an*.
+
+  Le site web *affiche* une page de maintenance.
+  Die Website *zeigt* eine Wartungsseite *an*.
+
+  Ils ont *affiché* l'avis de recherche dans toute la ville.
+  Sie haben den Suchaufruf in der ganzen Stadt *ausgehängt*.
+
+  Le compteur *affiche* zéro kilomètre.
+  Der Zähler *zeigt* null Kilometer *an*.
+
+  Le festival *affiche* une programmation exceptionnelle.
+  Das Festival *präsentiert* ein außergewöhnliches Programm.
+
+  La banque *affiche* ses taux d'intérêt à l'entrée.
+  Die Bank *hängt* ihre Zinssätze am Eingang *aus*.
+
+  Les nouvelles règles seront *affichées* lundi prochain.
+  Die neuen Regeln werden nächsten Montag *ausgehängt*.
+
+  Le musée *affiche* les horaires des visites guidées.
+  Das Museum *hängt* die Zeiten für Führungen *aus*.
+
+  Le thermomètre *affiche* trente degrés à l'ombre.
+  Das Thermometer *zeigt* dreißig Grad im Schatten *an*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

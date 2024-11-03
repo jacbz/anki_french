@@ -13,11 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je veux formuler un commentaire général.
-  Ich möchte einen allgemeinen Kommentar abgeben.
+  Je veux *formuler* un commentaire général.
+  Ich möchte eine allgemeine Anmerkung *formulieren*.
 
-  Je ne sais pas comment formuler ma demande.
-  Ich weiß nicht, wie ich meine Anfrage formulieren soll.
+  Comment pourrait-on *formuler* cette invitation de manière plus élégante ?
+  Wie könnte man diese Einladung eleganter *formulieren*?
+
+  Le médecin a *formulé* un diagnostic précis après l'examen.
+  Der Arzt hat nach der Untersuchung eine präzise Diagnose *formuliert*.
+
+  Les employés ont *formulé* leurs revendications lors de la réunion.
+  Die Mitarbeiter haben in der Sitzung ihre Forderungen *formuliert*.
+
+  Il n'arrive pas à *formuler* clairement sa pensée.
+  Er schafft es nicht, seine Gedanken klar in *Worte zu fassen*.
+
+  Les scientifiques ont *formulé* une nouvelle théorie sur l'origine de l'univers.
+  Die Wissenschaftler haben eine neue Theorie über den Ursprung des Universums *formuliert*.
+
+  Elle hésite encore à *formuler* ses réserves concernant ce projet.
+  Sie zögert noch, ihre Bedenken bezüglich dieses Projekts zu *formulieren*.
+
+  Le professeur a *formulé* le problème d'une manière différente.
+  Der Professor hat die Aufgabe anders *formuliert*.
+
+  J'aimerais *formuler* un souhait pour ton anniversaire.
+  Ich möchte einen Wunsch für deinen Geburtstag *formulieren*.
+
+  Sophie a *formulé* sa demande poliment.
+  Sophie hat ihr Anliegen höflich *formuliert*.
+
+  Ce théorème ne peut pas se *formuler* plus simplement.
+  Dieser Lehrsatz lässt sich nicht einfacher *formulieren*.
+
+  Marie doit *formuler* sa réclamation par écrit.
+  Marie muss ihre Beschwerde schriftlich *formulieren*.
+
+  Les experts ont *formulé* leurs conclusions dans un rapport détaillé.
+  Die Experten haben ihre Schlussfolgerungen in einem ausführlichen Bericht *formuliert*.
+
+  Il faut *formuler* cette règle plus précisément.
+  Diese Regel muss präziser *formuliert* werden.
+
+  Le comité va *formuler* des recommandations la semaine prochaine.
+  Das Komitee wird nächste Woche Empfehlungen *formulieren*.
+
+  Comment *formuler* mes excuses sans paraître maladroit ?
+  Wie soll ich meine Entschuldigung *formulieren*, ohne unbeholfen zu wirken?
+
+  Les citoyens peuvent *formuler* leurs opinions lors de la consultation publique.
+  Die Bürger können ihre Meinungen bei der öffentlichen Anhörung *formulieren*.
+
+  Le philosophe a *formulé* sa pensée en termes simples.
+  Der Philosoph hat seinen Gedanken in einfachen Worten *formuliert*.
+
+  Les chercheurs ont *formulé* une hypothèse intéressante.
+  Die Forscher haben eine interessante Hypothese *formuliert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

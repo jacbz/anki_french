@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle n’a pas besoin de fonds additionnels.
-  Sie benötigt keine zusätzlichen Mittel.
+  Elle n'a pas besoin de fonds *additionnels*.
+  Sie braucht keine *zusätzlichen* Gelder.
 
-  Nous avons besoin de personnel additionnel.
-  Wir brauchen zusätzliches Personal.
+  Les frais *additionnels* ne sont pas inclus dans le prix initial.
+  Die *zusätzlichen* Kosten sind nicht im Anfangspreis enthalten.
+
+  Notre équipe a besoin d'un délai *additionnel* pour terminer le projet.
+  Unser Team braucht eine *zusätzliche* Frist, um das Projekt abzuschließen.
+
+  Le professeur a donné des exercices *additionnels* aux élèves avancés.
+  Der Lehrer gab den fortgeschrittenen Schülern *zusätzliche* Übungen.
+
+  Une charge de travail *additionnelle* nous attend cette semaine.
+  Diese Woche erwartet uns eine *zusätzliche* Arbeitslast.
+
+  Voulez-vous une portion *additionnelle* de dessert ?
+  Möchten Sie eine *zusätzliche* Portion Dessert?
+
+  Le Parlement a voté un article *additionnel* à la loi sur l'environnement.
+  Das Parlament hat einen *Zusatz*artikel zum Umweltgesetz verabschiedet.
+
+  Une clause *additionnelle* a été ajoutée au contrat de location.
+  Eine *zusätzliche* Klausel wurde dem Mietvertrag hinzugefügt.
+
+  Pour participer, il faut payer une taxe *additionnelle* de 5 euros.
+  Für die Teilnahme muss eine *zusätzliche* Gebühr von 5 Euro gezahlt werden.
+
+  L'installation d'une rampe *additionnelle* facilitera l'accès au bâtiment.
+  Der Einbau einer *zusätzlichen* Rampe wird den Zugang zum Gebäude erleichtern.
+
+  As-tu besoin d'informations *additionnelles* pour prendre ta décision ?
+  Brauchst du *zusätzliche* Informationen für deine Entscheidung?
+
+  Des mesures *additionnelles* de sécurité seront mises en place demain.
+  Morgen werden *zusätzliche* Sicherheitsmaßnahmen eingeführt.
+
+  Le client demande une garantie *additionnelle* pour ce produit.
+  Der Kunde verlangt eine *zusätzliche* Garantie für dieses Produkt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

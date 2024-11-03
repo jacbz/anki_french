@@ -13,26 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’alimentais ma peur en mangeant.
-  Ich nährte meine Angst durch Essen.
+  J'*alimentais* ma peur en mangeant.
+  Ich *nährte* meine Angst durch das Essen.
 
-  Les parents doivent alimenter leurs enfants.
-  Eltern müssen ihre Kinder ernähren.
+  Le médecin a dû *alimenter* le patient de force.
+  Der Arzt musste den Patienten *zwangsernähren*.
 
-  Les infirmières ont dû alimenter le patient de force, car il refusait de manger.
-  Die Krankenschwestern mussten den Patienten zwangsernähren, weil er sich weigerte zu essen.
+  Cette centrale *alimente* toute la région en électricité.
+  Dieses Kraftwerk *versorgt* die ganze Region mit Strom.
 
-  Le barrage alimente la ville en eau potable.
-  Der Staudamm versorgt die Stadt mit Trinkwasser.
+  Mon grand-père *alimente* les oiseaux dans son jardin chaque matin.
+  Mein Großvater *füttert* jeden Morgen die Vögel in seinem Garten.
 
-  La propagande alimente la haine de la population envers l'ennemi.
-  Die Propaganda gibt dem Hass der Bevölkerung gegenüber dem Feind Nahrung.
+  Les agriculteurs locaux *alimentent* les marchés en légumes frais.
+  Die lokalen Bauern *versorgen* die Märkte mit frischem Gemüse.
 
-  On alimente le moteur en essence pour qu'il puisse fonctionner.
-  Man versorgt den Motor mit Benzin, damit er laufen kann.
+  Ces rumeurs ont *alimenté* sa méfiance envers moi.
+  Diese Gerüchte haben sein Misstrauen mir gegenüber *genährt*.
 
-  Des questions pertinentes peuvent alimenter la conversation.
-  Relevante Fragen können das Gespräch in Gang halten.
+  Marie ne s'*alimente* plus depuis trois jours.
+  Marie *nimmt* seit drei Tagen keine Nahrung mehr *zu sich*.
+
+  Le technicien *alimente* la chaudière en mazout.
+  Der Techniker *versorgt* den Heizkessel mit Heizöl.
+
+  Les médias sociaux *alimentent* constamment les débats.
+  Die sozialen Medien *halten* die Debatten ständig *am Leben*.
+
+  Comment cette ville s'*alimente*-t-elle en eau potable ?
+  Wie *versorgt* sich diese Stadt mit Trinkwasser?
+
+  Le scandale continue à *alimenter* les conversations.
+  Der Skandal *sorgt* weiterhin für Gesprächsstoff.
+
+  Il faut *alimenter* le feu régulièrement pour maintenir la chaleur.
+  Man muss das Feuer regelmäßig *am Brennen halten*, um die Wärme zu bewahren.
+
+  Ces évènements ont *alimenté* la colère des manifestants.
+  Diese Ereignisse haben die Wut der Demonstranten *geschürt*.
+
+  Le bébé ne s'*alimente* que de lait maternel.
+  Das Baby *ernährt* sich nur von Muttermilch.
+
+  Cette source *alimente* plusieurs villages en eau.
+  Diese Quelle *versorgt* mehrere Dörfer mit Wasser.
+
+  Les ragots *alimentent* sa jalousie depuis des années.
+  Der Klatsch *nährt* seit Jahren ihre Eifersucht.
+
+  Il faut *alimenter* le distributeur en pièces de monnaie.
+  Man muss den Automaten mit Münzen *bestücken*.
+
+  L'infirmière *alimente* le patient par perfusion.
+  Die Krankenschwester *ernährt* den Patienten über eine Infusion.
+
+  Cette région *alimente* le pays en céréales.
+  Diese Region *versorgt* das Land mit Getreide.
+
+  Le conducteur a oublié d'*alimenter* sa voiture en essence.
+  Der Fahrer hat vergessen, sein Auto mit Benzin zu *versorgen*.
+
+  Ces souvenirs *alimentent* sa nostalgie.
+  Diese Erinnerungen *nähren* seine Nostalgie.
+
+  La nappe phréatique *alimente* plusieurs puits.
+  Das Grundwasser *speist* mehrere Brunnen.
+
+  Les plaisanteries d'Antoine *alimentaient* la bonne humeur.
+  Antoines Witze *hielten* die gute Stimmung *aufrecht*.
+
+  Cette usine s'*alimente* en électricité grâce aux panneaux solaires.
+  Diese Fabrik *versorgt* sich durch Solarpanele mit Strom.
+
+  Il ne s'*alimente* que de fruits et légumes.
+  Er *ernährt* sich nur von Obst und Gemüse.
+
+  Les nouvelles technologies *alimentent* notre curiosité.
+  Die neuen Technologien *nähren* unsere Neugier.
+
+  Cette histoire *alimente* son inspiration artistique.
+  Diese Geschichte *speist* seine künstlerische Inspiration.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

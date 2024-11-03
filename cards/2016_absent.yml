@@ -13,41 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il a été absent trois heures.
-  Er war drei Stunden lang abwesend.
+  Il a été *absent* trois heures.
+  Er war drei Stunden *abwesend*.
 
-  Il est absent aujourd’hui.
-  Er ist heute abwesend.
+  Il y avait beaucoup d'*absents* en raison de la pluie.
+  Wegen des Regens gab es viele *Fehlende*.
 
-  Mon père est absent à cause de son travail.
-  Mein Vater ist wegen seiner Arbeit nicht anwesend.
+  Le professeur note les élèves *absents* dans son carnet.
+  Der Lehrer notiert die *fehlenden* Schüler in sein Heft.
 
-  Les élèves absents ont reçu un devoir à faire pour la prochaine fois.
-  Die fehlenden Schüler haben Hausaufgaben für das nächste Mal bekommen.
+  Marie était *absente* de Paris pendant tout l'été.
+  Marie war den ganzen Sommer nicht in Paris *anwesend*.
 
-  Il y a des absents aujourd'hui, on est seulement dix.
-  Es fehlt jemand heute, wir sind nur zehn.
+  La ponctuation est complètement *absente* de ce texte.
+  In diesem Text *fehlt* die Zeichensetzung völlig.
 
-  Les absents ont toujours tort, dit le proverbe.
-  Die Abwesenden haben immer Unrecht, sagt das Sprichwort.
+  D'un air *absent*, il regardait par la fenêtre.
+  Mit *geistesabwesendem* Blick schaute er aus dem Fenster.
 
-  Elle était absente de son bureau toute la journée.
-  Sie war den ganzen Tag nicht in ihrem Büro.
+  "*Les absents ont toujours tort*", dit-elle en souriant.
+  "*Die Abwesenden haben immer Unrecht*", sagte sie lächelnd.
 
-  Il est absent depuis une heure, on ne sait pas où il est.
-  Er ist seit einer Stunde weg, man weiß nicht, wo er ist.
+  Je serai *absent* du bureau jusqu'à midi.
+  Ich werde bis Mittag nicht im Büro *anwesend* sein.
 
-  Il était absent à la réunion, il n'était pas au courant des décisions prises.
-  Er war bei der Besprechung nicht dabei, er kannte die getroffenen Entscheidungen nicht.
+  Emma était *absente* lors de la réunion importante.
+  Emma hat bei der wichtigen Besprechung *gefehlt*.
 
-  Il était absent à son cours de français, il était malade.
-  Er fehlte in seinem Französischkurs, er war krank.
+  L'humour n'est pas *absent* de son dernier roman.
+  Der Humor *fehlt* nicht in seinem letzten Roman.
 
-  Il est absent de Paris pour quelques jours, il est en voyage d'affaires.
-  Er ist für ein paar Tage nicht in Paris, er ist auf Geschäftsreise.
+  Il reste souvent *absent* pendant les discussions.
+  Er ist während der Diskussionen oft *geistesabwesend*.
 
-  Il était absent de chez lui, il était en voyage.
-  Er war nicht zu Hause, er war auf Reisen.
+  La secrétaire va pointer les *absents* ce matin.
+  Die Sekretärin wird heute Morgen die *Abwesenden* erfassen.
+
+  Sophie sera *absente* pour congé la semaine prochaine.
+  Sophie wird nächste Woche wegen Urlaub *fehlen*.
+
+  L'enthousiasme n'était pas *absent* de sa voix.
+  Die Begeisterung *fehlte* nicht in seiner Stimme.
+
+  Pierre a été porté *absent* ce matin.
+  Pierre wurde heute Morgen als *abwesend* gemeldet.
+
+  Mon père était *absent* lors de ma naissance.
+  Mein Vater war bei meiner Geburt nicht *anwesend*.
+
+  Elle est restée *absente* de chez elle pendant deux jours.
+  Sie war zwei Tage von zu Hause *abwesend*.
+
+  Son regard *absent* trahissait sa fatigue.
+  Sein *geistesabwesender* Blick verriet seine Müdigkeit.
+
+  Plusieurs élèves sont *absents* à cause de la grippe.
+  Mehrere Schüler *fehlen* wegen der Grippe.
+
+  La joie n'est jamais *absente* de ses yeux.
+  Die Freude *fehlt* nie in ihren Augen.
+
+  Le directeur est *absent* pour maladie aujourd'hui.
+  Der Direktor *fehlt* heute krankheitsbedingt.
+
+  Il y a trois *absents* dans notre équipe ce soir.
+  In unserem Team *fehlen* heute Abend drei Leute.
+
+  Jean semblait *absent* pendant tout le cours.
+  Jean wirkte während des ganzen Unterrichts *geistesabwesend*.
+
+  La passion n'est pas *absente* de son travail.
+  Die Leidenschaft *fehlt* nicht in seiner Arbeit.
+
+  Lucas était *absent* de son bureau toute la matinée.
+  Lucas war den ganzen Vormittag nicht im Büro *anwesend*.
+
+  Elle avait l'air complètement *absente* pendant la présentation.
+  Sie wirkte während der Präsentation völlig *geistesabwesend*.
+
+  Le sel est totalement *absent* de ce plat.
+  Das Salz *fehlt* in diesem Gericht völlig.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

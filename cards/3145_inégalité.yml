@@ -13,17 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il protesta avec véhémence contre cette inégalité.
-  Er protestierte vehement gegen diese Ungleichheit.
+  Il protesta avec véhémence contre cette *inégalité*.
+  Er protestierte heftig gegen diese *Ungleichheit*.
 
-  Les inégalités sociales sont un problème important.
-  Soziale Ungleichheit ist ein wichtiges Problem.
+  Les *inégalités* sociales continuent de se creuser dans notre société.
+  Die sozialen *Ungleichheiten* in unserer Gesellschaft werden immer größer.
 
-  L'inégalité des chances est un problème majeur dans notre société.
-  Chancenungleichheit ist ein großes Problem in unserer Gesellschaft.
+  Cette *inégalité* des forces rend le combat déloyal.
+  Dieses *Missverhältnis* der Kräfte macht den Kampf unfair.
 
-  Il y a une grande inégalité entre l'offre et la demande sur le marché du travail.
-  Es gibt eine große Diskrepanz zwischen Angebot und Nachfrage auf dem Arbeitsmarkt.
+  L'*inégalité* des chances empêche de nombreux jeunes d'accéder à l'université.
+  Die Chancen*ungleichheit* hindert viele junge Menschen am Zugang zur Universität.
+
+  Une *inégalité* flagrante existe entre l'offre et la demande de logements.
+  Es besteht eine deutliche *Diskrepanz* zwischen Angebot und Nachfrage bei Wohnungen.
+
+  Les *inégalités* du terrain rendent la construction difficile.
+  Die *Unebenheiten* des Geländes erschweren den Bau.
+
+  Son *inégalité* d'humeur fatigue tous ses collègues.
+  Seine *Wechselhaftigkeit* der Stimmung ermüdet alle seine Kollegen.
+
+  Le roman présente des *inégalités* de style assez marquées.
+  Der Roman weist ziemlich deutliche stilistische *Unausgeglichenheiten* auf.
+
+  Le professeur écrit une *inégalité* au tableau : x > 5.
+  Der Lehrer schreibt eine *Ungleichung* an die Tafel: x > 5.
+
+  L'*inégalité* entre ces deux quantités est évidente.
+  Die *Ungleichheit* zwischen diesen beiden Mengen ist offensichtlich.
+
+  Les *inégalités* de salaires persistent entre les hommes et les femmes.
+  Die Lohn*ungleichheiten* zwischen Männern und Frauen bestehen weiterhin.
+
+  Les *inégalités* du débit du fleuve posent des problèmes écologiques.
+  Die *Unregelmäßigkeiten* des Flusslaufs verursachen ökologische Probleme.
+
+  Des *inégalités* dans le sol ont causé plusieurs accidents.
+  *Unebenheiten* im Boden haben mehrere Unfälle verursacht.
+
+  Cette *inégalité* de traitement est inacceptable.
+  Diese *Ungleichbehandlung* ist inakzeptabel.
+
+  Les *inégalités* fiscales sont au centre du débat politique.
+  Die steuerlichen *Ungleichheiten* stehen im Mittelpunkt der politischen Debatte.
+
+  Les deux membres de l'*inégalité* doivent être comparés attentivement.
+  Die beiden Seiten der *Ungleichung* müssen sorgfältig verglichen werden.
+
+  L'*inégalité* du plancher rend la marche dangereuse.
+  Die *Unebenheit* des Fußbodens macht das Gehen gefährlich.
+
+  L'*inégalité* de la température affecte la qualité du produit.
+  Die *Unregelmäßigkeit* der Temperatur beeinträchtigt die Produktqualität.
+
+  Son *inégalité* de caractère rend la collaboration difficile.
+  Seine *Wechselhaftigkeit* im Charakter macht die Zusammenarbeit schwierig.
+
+  Les *inégalités* dans le partage ont créé des tensions familiales.
+  Die *Ungleichheiten* bei der Aufteilung haben zu familiären Spannungen geführt.
+
+  Cette *inégalité* d'âge n'a jamais posé de problème dans leur relation.
+  Dieser *Altersunterschied* hat in ihrer Beziehung nie ein Problem dargestellt.
+
+  Les *inégalités* de mérite doivent être prises en compte.
+  Die *Unterschiede* in der Leistung müssen berücksichtigt werden.
+
+  L'*inégalité* du rythme cardiaque inquiète le médecin.
+  Die *Unregelmäßigkeit* des Herzrhythmus beunruhigt den Arzt.
+
+  Les *inégalités* du mur nécessitent des réparations.
+  Die *Unebenheiten* der Mauer erfordern Reparaturen.
+
+  Rousseau a écrit sur l'origine des *inégalités* parmi les hommes.
+  Rousseau schrieb über den Ursprung der *Ungleichheit* unter den Menschen.
+
+  Cette grande *inégalité* dans le mouvement des planètes fascine les astronomes.
+  Diese große *Unregelmäßigkeit* in der Planetenbewegung fasziniert die Astronomen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

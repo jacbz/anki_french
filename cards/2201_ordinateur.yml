@@ -13,47 +13,86 @@ Register: ↘Fiktion
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’ordinateur est un outil tellement merveilleux.
-  Der Computer ist ein so wunderbares Werkzeug.
+  L'*ordinateur* est un outil tellement merveilleux.
+  Der *Computer* ist ein so wunderbares Werkzeug.
 
-  Je travaille sur mon ordinateur.
-  Ich arbeite an meinem Computer.
+  J'ai oublié d'éteindre mon *ordinateur* hier soir.
+  Ich habe gestern Abend vergessen, meinen *Computer* auszuschalten.
 
-  Il me faut un ordinateur.
-  Ich brauche einen Computer.
+  Le centre commercial utilise un *ordinateur* de réservation pour gérer les places de parking.
+  Das Einkaufszentrum benutzt einen *Buchungscomputer* für die Parkplatzverwaltung.
 
-  Je vais peut-être acheter un ordinateur tout neuf.
-  Vielleicht kaufe ich einen nagelneuen Computer.
+  Dans les années 60, l'*ordinateur* central occupait toute une pièce.
+  In den 60er Jahren nahm der *Hauptrechner* einen ganzen Raum ein.
 
-  On utilise un ordinateur de réservation pour réserver des billets d'avion, des chambres d'hôtel ou des voitures de location.
-  Man verwendet einen Buchungscomputer, um Flugtickets, Hotelzimmer oder Mietwagen zu buchen.
+  Mon nouvel *ordinateur* portable ne pèse que 1,2 kilos.
+  Mein neuer *Laptop* wiegt nur 1,2 Kilo.
 
-  Un ordinateur analogique utilise des grandeurs physiques continues pour représenter des données.
-  Ein Analogrechner verwendet physikalische Größen, die sich kontinuierlich verändern, um Daten darzustellen.
+  "Mon vieil *ordi* ne fonctionne plus depuis ce matin."
+  "Mein alter *Computer* funktioniert seit heute Morgen nicht mehr."
 
-  L'ordinateur central est le cœur du système informatique d'une entreprise.
-  Der Hauptrechner ist das Herzstück des Computersystems eines Unternehmens.
+  Les ingénieurs travaillent sur un *ordinateur* spécialisé pour la modélisation 3D.
+  Die Ingenieure arbeiten an einem *Spezialrechner* für 3D-Modellierung.
 
-  Un ordinateur parallèle peut exécuter plusieurs tâches simultanément.
-  Ein Parallelrechner kann mehrere Aufgaben gleichzeitig ausführen.
+  As-tu mis l'*ordinateur* sous tension avant de partir ?
+  Hast du den *Computer* eingeschaltet, bevor du gegangen bist?
 
-  J'aime utiliser mon ordinateur portable pour travailler en déplacement.
-  Ich arbeite gerne mit meinem Laptop, wenn ich unterwegs bin.
+  Marie passe ses journées à travailler sur *ordinateur*.
+  Marie verbringt ihre Tage damit, am *Computer* zu arbeiten.
 
-  Un ordinateur spécialisé est conçu pour une tâche spécifique.
-  Ein Spezialrechner ist für eine bestimmte Aufgabe konzipiert.
+  La conception assistée par *ordinateur* a révolutionné l'industrie automobile.
+  Das *computer*gestützte Design hat die Autoindustrie revolutioniert.
 
-  Un ordinateur universel peut être utilisé pour une grande variété de tâches.
-  Ein Universalrechner kann für eine Vielzahl von Aufgaben verwendet werden.
+  Le clavier de mon *ordinateur* est en panne.
+  Die Tastatur meines *Computers* ist kaputt.
 
-  J'ai oublié de mettre l'ordinateur sous tension ce matin.
-  Ich habe vergessen, den Computer heute Morgen einzuschalten.
+  Les programmes de cet *ordinateur* sont obsolètes.
+  Die Programme dieses *Computers* sind veraltet.
 
-  N'oubliez pas d'éteindre l'ordinateur avant de partir.
-  Vergiss nicht, den Computer auszuschalten, bevor du gehst.
+  Le système d'exploitation de mon *ordinateur* doit être mis à jour.
+  Das Betriebssystem meines *Computers* muss aktualisiert werden.
 
-  J'aime travailler sur ordinateur, mais je prends aussi des pauses régulières.
-  Ich arbeite gerne am Computer, aber ich mache auch regelmäßige Pausen.
+  Chaque employé dispose d'un *ordinateur* individuel.
+  Jeder Mitarbeiter hat einen eigenen *Computer*.
+
+  La souris de l'*ordinateur* ne répond plus.
+  Die Maus des *Computers* reagiert nicht mehr.
+
+  L'écran de mon *ordinateur* clignote sans arrêt.
+  Der Bildschirm meines *Computers* blinkt ständig.
+
+  Les terminaux de l'*ordinateur* sont tous occupés.
+  Die Terminals des *Computers* sind alle belegt.
+
+  La mémoire de l'*ordinateur* est presque pleine.
+  Der Speicher des *Computers* ist fast voll.
+
+  Nous avons mis en réseau tous les *ordinateurs* de bureau.
+  Wir haben alle Büro*computer* vernetzt.
+
+  Mon *ordinateur* de poche me permet de travailler n'importe où.
+  Mein Hand*computer* ermöglicht es mir, überall zu arbeiten.
+
+  Les *ordinateurs* du centre de calcul tournent jour et nuit.
+  Die *Rechner* im Rechenzentrum laufen Tag und Nacht.
+
+  Cet *ordinateur* analogique simule le comportement des circuits électriques.
+  Dieser *Analogrechner* simuliert das Verhalten von elektrischen Schaltkreisen.
+
+  L'*ordinateur* parallèle permet de traiter plusieurs calculs simultanément.
+  Der *Parallelrechner* ermöglicht es, mehrere Berechnungen gleichzeitig durchzuführen.
+
+  Cet *ordinateur* universel peut gérer toutes sortes de tâches.
+  Dieser *Universalrechner* kann alle Arten von Aufgaben bewältigen.
+
+  La publication assistée par *ordinateur* a simplifié la mise en page.
+  Das *computer*gestützte Publizieren hat das Layout vereinfacht.
+
+  Je dois racheter un *ordinateur* personnel car le mien est trop vieux.
+  Ich muss mir einen neuen *PC* kaufen, weil meiner zu alt ist.
+
+  Le langage de cet *ordinateur* est très complexe.
+  Die Sprache dieses *Computers* ist sehr komplex.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

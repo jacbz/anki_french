@@ -13,11 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’équipement individuel est extrêmement coûteux.
-  Die individuelle Ausrüstung ist extrem teuer.
+  L'équipement individuel est extrêmement *coûteux*.
+  Die individuelle Ausrüstung ist extrem *teuer*.
 
-  Ce restaurant est très coûteux.
-  Dieses Restaurant ist sehr kostspielig.
+  Les réparations de la voiture sont *coûteuses*.
+  Die Reparaturen des Autos sind *kostspielig*.
+
+  Cette victoire a été très *coûteuse* pour notre équipe.
+  Dieser Sieg war für unser Team sehr *mühsam*.
+
+  Le projet de rénovation s'est avéré plus *coûteux* que prévu.
+  Das Renovierungsprojekt erwies sich als *kostspieliger* als erwartet.
+
+  Cette entreprise est trop *coûteuse* en énergie.
+  Dieses Unternehmen verbraucht zu viel *teure* Energie.
+
+  La production de ce médicament est très *coûteuse*.
+  Die Produktion dieses Medikaments ist sehr *kostenaufwändig*.
+
+  La réforme du système de santé sera *coûteuse*.
+  Die Reform des Gesundheitssystems wird *kostenträchtig* sein.
+
+  Le dîner n'était pas très *coûteux*.
+  Das Abendessen war nicht sehr *teuer*.
+
+  Son erreur lui a été très *coûteuse*.
+  Sein Fehler war für ihn sehr *kostspielig*.
+
+  Les voyages à l'étranger sont devenus plus *coûteux*.
+  Auslandsreisen sind *teurer* geworden.
+
+  Cette solution est moins *coûteuse* que l'autre.
+  Diese Lösung ist weniger *kostspielig* als die andere.
+
+  La gloire peut être *coûteuse*.
+  Ruhm kann *mühsam* sein.
+
+  L'opération chirurgicale sera très *coûteuse*.
+  Die Operation wird sehr *teuer* sein.
+
+  Cette décision a été *coûteuse* en temps et en argent.
+  Diese Entscheidung war zeit- und *kostenaufwändig*.
+
+  Le développement de nouvelles technologies est *coûteux*.
+  Die Entwicklung neuer Technologien ist *kostspielig*.
+
+  Les erreurs stratégiques peuvent être très *coûteuses*.
+  Strategische Fehler können sehr *teuer* zu stehen kommen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

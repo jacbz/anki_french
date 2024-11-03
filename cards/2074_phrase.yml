@@ -13,41 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je vomissais les phrases dans un très grand désordre.
-  Ich erbrach die Sätze in einem sehr großen Durcheinander.
+  Je vomissais les *phrases* dans un très grand désordre.
+  Ich spuckte die *Sätze* in völligem Durcheinander aus.
 
-  Cette phrase est très longue.
-  Dieser Satz ist sehr lang.
+  Pour le contrôle, il faut écrire une *phrase* affirmative et une phrase négative.
+  Für die Prüfung muss man einen positiven *Satz* und einen negativen Satz schreiben.
 
-  La phrase est affirmative.
-  Der Satz ist bejahend.
+  Cette *phrase* complexe contient plusieurs propositions.
+  Dieser zusammengesetzte *Satz* enthält mehrere Teilsätze.
 
-  C'est une phrase toute faite.
-  Das ist eine Redewendung.
+  Sa dernière *phrase* exclamative a surpris tout le monde.
+  Sein letzter Ausrufe*satz* hat alle überrascht.
 
-  Il ne fait que des phrases.
-  Er drescht nur Phrasen.
+  La *phrase* finale de son discours était particulièrement émouvante.
+  Der Schluss*satz* seiner Rede war besonders bewegend.
 
-  Dis-le sans phrases.
-  Sag es ohne Umschweife.
+  Une *phrase* simple suffit pour exprimer cette idée.
+  Ein einfacher *Satz* reicht aus, um diese Idee auszudrücken.
 
-  C'est une phrase complexe.
-  Das ist ein Satzgefüge.
+  Cette *phrase* à rallonges est difficile à comprendre.
+  Dieser Schachtel*satz* ist schwer zu verstehen.
 
-  C'est une phrase déclarative.
-  Das ist ein Aussagesatz.
+  "Cette *phrase* qui n'en finit pas me donne mal à la tête !"
+  "Dieser Bandwurm*satz* gibt mir Kopfschmerzen!"
 
-  C'est une phrase finale.
-  Das ist ein Schlusssatz.
+  Le pianiste a joué cette *phrase* musicale avec beaucoup d'émotion.
+  Der Pianist spielte diese musikalische *Phrase* mit viel Gefühl.
 
-  C'est une phrase nominale.
-  Das ist eine Nominalphrase.
+  Je ne peux pas aligner deux *phrases* de suite quand je suis nerveux.
+  Ich kann keine zwei *Sätze* hintereinander bilden, wenn ich nervös bin.
 
-  C'est une phrase simple.
-  Das ist ein einfacher Satz.
+  La construction de cette *phrase* est grammaticalement incorrecte.
+  Der Aufbau dieses *Satzes* ist grammatikalisch falsch.
 
-  C'est une phrase à rallonge.
-  Das ist ein Schachtelsatz.
+  "Il fait toujours des grandes *phrases* pour impressionner les autres."
+  "Er macht immer große *Sätze*, um andere zu beeindrucken."
+
+  Parlons *sans phrases* : je ne suis pas d'accord avec toi.
+  Sprechen wir *ohne Umschweife*: Ich bin nicht einverstanden mit dir.
+
+  Cette *phrase* toute faite n'a plus aucun sens à force d'être répétée.
+  Diese *Floskel* hat durch ständige Wiederholung ihren Sinn verloren.
+
+  Le professeur nous a demandé d'analyser la modalité de chaque *phrase*.
+  Der Lehrer bat uns, die Modalität jedes *Satzes* zu analysieren.
+
+  La *phrase* nominale est très courante dans les titres de journaux.
+  Der Nominal*satz* ist in Zeitungsüberschriften sehr häufig.
+
+  Les journalistes adorent citer les petites *phrases* des politiciens.
+  Journalisten zitieren gerne die markanten *Sätze* von Politikern.
+
+  Cette *phrase* à double sens a fait rire toute l'assemblée.
+  Dieser doppeldeutige *Satz* brachte die ganze Versammlung zum Lachen.
+
+  J'admire la clarté des *phrases* de cet écrivain.
+  Ich bewundere die Klarheit der *Sätze* dieses Schriftstellers.
+
+  La *phrase* interrogative commence souvent par un pronom interrogatif.
+  Der Frage*satz* beginnt oft mit einem Fragepronomen.
+
+  Le rythme de ses *phrases* rend son texte très agréable à lire.
+  Der Rhythmus seiner *Sätze* macht seinen Text sehr angenehm zu lesen.
+
+  Dans ce poème, chaque *phrase* est un petit chef-d'œuvre.
+  In diesem Gedicht ist jeder *Satz* ein kleines Meisterwerk.
+
+  Il faut ponctuer correctement la fin de chaque *phrase*.
+  Man muss das Ende jedes *Satzes* richtig zeichensetzen.
+
+  La *phrase* de base contient au minimum un sujet et un verbe.
+  Der Kern*satz* enthält mindestens ein Subjekt und ein Verb.
+
+  "Je ne me paie pas de *phrases*, je veux des actes !"
+  "Ich gebe mich nicht mit leeren *Worten* zufrieden, ich will Taten sehen!"
+
+  Cette *phrase* maladroite ne reflète pas bien sa pensée.
+  Dieser unbeholfene *Satz* spiegelt seinen Gedanken nicht gut wider.
+
+  Les élèves doivent souligner l'adverbe de *phrase*.
+  Die Schüler müssen das *Satz*adverb unterstreichen.
+
+  La cadence de cette *phrase* mélodique est parfaite.
+  Die Kadenz dieser melodischen *Phrase* ist perfekt.
+
+  L'enseignant nous a demandé d'identifier la *phrase* verbale.
+  Der Lehrer bat uns, den Verbal*satz* zu identifizieren.
+
+  Le mot "oui" peut constituer une *phrase* à lui seul.
+  Das Wort "ja" kann allein einen *Satz* bilden.
+
+  Il a terminé son discours par une *phrase* mémorable.
+  Er beendete seine Rede mit einem denkwürdigen *Satz*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

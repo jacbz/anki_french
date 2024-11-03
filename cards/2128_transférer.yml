@@ -13,29 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le trafic est transféré d’un ou de plusieurs canaux sémaphores.
-  Der Verkehr wird von einem oder mehreren Semaphorkanälen weitergeleitet.
+  Le trafic est *transféré* d'un ou de plusieurs canaux sémaphores.
+  Der Verkehr wird von einem oder mehreren Signalkanälen *übertragen*.
 
-  Je vais transférer l’argent sur ton compte.
-  Ich werde das Geld auf dein Konto übertragen.
+  L'entreprise a *transféré* ses bureaux dans un nouveau quartier.
+  Die Firma hat ihre Büros in ein neues Viertel *verlegt*.
 
-  Le médecin a décidé de transférer le malade à l'hôpital.
-  Der Arzt hat entschieden, den Kranken ins Krankenhaus zu transportieren.
+  On va *transférer* le patient dans un hôpital spécialisé.
+  Wir werden den Patienten in ein Spezialkrankenhaus *überführen*.
 
-  Elle a transféré tous ses biens à son fils unique.
-  Sie hat ihr gesamtes Vermögen auf ihren einzigen Sohn übertragen.
+  Les données sont *transférées* automatiquement vers le cloud.
+  Die Daten werden automatisch in die Cloud *überspielt*.
 
-  J'ai transféré la somme sur votre compte bancaire.
-  Ich habe den Betrag auf Ihr Bankkonto überwiesen.
+  La banque a *transféré* 5000 euros sur mon compte.
+  Die Bank hat 5000 Euro auf mein Konto *überwiesen*.
 
-  Elle a transféré sa joie sur ses enfants.
-  Sie hat ihre Freude auf ihre Kinder übertragen.
+  Les enfants ont *transféré* leur amour pour leur chat sur le nouveau chiot.
+  Die Kinder haben ihre Liebe für ihre Katze auf den neuen Welpen *übertragen*.
 
-  Il a fait transférer les données du serveur principal vers un serveur de secours.
-  Er hat die Daten vom Hauptserver auf einen Backup-Server umleiten lassen.
+  Marie a été *transférée* dans une autre école.
+  Marie wurde an eine andere Schule *versetzt*.
 
-  Nos bureaux ont été transférés dans un nouveau bâtiment.
-  Wir sind in ein neues Gebäude umgezogen.
+  Le gouvernement sera *transféré* dans la nouvelle capitale.
+  Die Regierung wird in die neue Hauptstadt *verlegt*.
+
+  Il faut *transférer* les documents dans le nouveau système.
+  Die Dokumente müssen in das neue System *umgelagert* werden.
+
+  Les cendres seront *transférées* dans le caveau familial.
+  Die Asche wird in die Familiengruft *überführt*.
+
+  Le juge a *transféré* la garde des enfants au père.
+  Der Richter hat das Sorgerecht für die Kinder auf den Vater *übertragen*.
+
+  Pierre *transfère* son stress sur ses collègues.
+  Pierre *überträgt* seinen Stress auf seine Kollegen.
+
+  J'ai *transféré* tous mes mails sur mon nouveau téléphone.
+  Ich habe alle meine E-Mails auf mein neues Handy *überspielt*.
+
+  Le prisonnier sera *transféré* dans une prison de haute sécurité.
+  Der Häftling wird in ein Hochsicherheitsgefängnis *verlegt*.
+
+  Elle a *transféré* ses pouvoirs à son assistante pendant ses vacances.
+  Sie hat ihre Befugnisse während ihres Urlaubs an ihre Assistentin *übertragen*.
+
+  Le service client sera *transféré* à l'étranger.
+  Der Kundenservice wird ins Ausland *verlagert*.
+
+  Nous devons *transférer* ces fichiers sur une clé USB.
+  Wir müssen diese Dateien auf einen USB-Stick *überspielen*.
+
+  L'hôpital a *transféré* trois patients aux soins intensifs.
+  Das Krankenhaus hat drei Patienten auf die Intensivstation *verlegt*.
+
+  Le propriétaire a *transféré* ses droits à son fils.
+  Der Eigentümer hat seine Rechte auf seinen Sohn *übertragen*.
+
+  La société va *transférer* sa production en Asie.
+  Die Firma wird ihre Produktion nach Asien *verlagern*.
+
+  Le système *transfère* automatiquement l'appel vers votre mobile.
+  Das System *leitet* den Anruf automatisch auf Ihr Handy *um*.
+
+  Les médecins ont décidé de *transférer* le patient dans un autre service.
+  Die Ärzte haben beschlossen, den Patienten auf eine andere Station zu *verlegen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

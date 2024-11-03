@@ -13,26 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai entendu des arguments peu convaincants.
-  Ich habe einige wenig überzeugende Argumente gehört.
+  J'ai entendu des *arguments* peu convaincants.
+  Ich habe wenig überzeugende *Argumente* gehört.
 
-  Il a présenté un argument convaincant.
-  Er hat ein überzeugendes Argument vorgebracht.
+  Pour défendre sa thèse, elle a présenté des *arguments* solides.
+  Um ihre These zu verteidigen, hat sie fundierte *Argumente* vorgebracht.
 
-  Elle a un argument.
-  Sie hat ein Argument.
+  Son dernier *argument* était irréfutable.
+  Sein letztes *Argument* war unwiderlegbar.
 
-  Son argument était logique.
-  Sein Argument war logisch.
+  L'*argument* principal de son discours portait sur le changement climatique.
+  Das Haupt*argument* seiner Rede betraf den Klimawandel.
 
-  Tu tiens là un argument.
-  Das ist ein Argument.
+  "Je suis complètement à court d'*arguments*!"
+  "Mir sind die *Argumente* völlig ausgegangen!"
 
-  Un argument a priori est un argument qui ne dépend pas de l'expérience.
-  Ein A-priori-Argument ist ein Argument, das nicht von der Erfahrung abhängt.
+  Elle a utilisé cet *argument* à double tranchant contre lui-même.
+  Sie hat dieses zweischneidige *Argument* gegen ihn selbst verwendet.
 
-  Un argument a posteriori est un argument qui dépend de l'expérience.
-  Ein A-posteriori-Argument ist ein Argument, das von der Erfahrung abhängt.
+  L'enseignant développe ses *arguments* de manière systématique.
+  Der Lehrer entwickelt seine *Argumente* systematisch.
+
+  Voici l'*argument* du film en quelques phrases.
+  Hier ist die *Handlung* des Films in wenigen Sätzen.
+
+  Les *arguments* de vente de ce produit sont sa durabilité et son prix.
+  Die Verkaufs*argumente* für dieses Produkt sind seine Haltbarkeit und sein Preis.
+
+  Il n'a pas d'autres *arguments* que la force.
+  Er kennt keine anderen *Argumente* als Gewalt.
+
+  Marie et Pierre ont échangé des *arguments* pendant des heures.
+  Marie und Pierre haben stundenlang *Argumente* ausgetauscht.
+
+  L'*argument* a posteriori se base sur l'expérience directe.
+  Das A-posteriori-*Argument* basiert auf direkter Erfahrung.
+
+  Cet *argument* ad hominem n'a pas sa place dans un débat scientifique.
+  Dieses persönliche *Argument* hat in einer wissenschaftlichen Debatte nichts zu suchen.
+
+  Les *arguments* pour et contre ont été soigneusement examinés.
+  Die *Argumente* dafür und dagegen wurden sorgfältig geprüft.
+
+  Il a multiplié les *arguments* pour la convaincre.
+  Er hat die *Argumente* vervielfacht, um sie zu überzeugen.
+
+  L'*argument* du ballet est assez simple à comprendre.
+  Die *Handlung* des Balletts ist recht einfach zu verstehen.
+
+  Elle a tiré *argument* de ce fait pour justifier sa décision.
+  Sie hat diesen Umstand als *Argument* benutzt, um ihre Entscheidung zu rechtfertigen.
+
+  Ses larmes furent son dernier *argument*.
+  Ihre Tränen waren ihr letztes *Argument*.
+
+  L'*argument* de la partie adverse semblait faible.
+  Das *Argument* der Gegenseite schien schwach.
+
+  Les *arguments* mathématiques sont parfois difficiles à comprendre.
+  Mathematische *Argumente* sind manchmal schwer zu verstehen.
+
+  L'*argument* principal du roman se déroule au XIXe siècle.
+  Die Haupt*handlung* des Romans spielt im 19. Jahrhundert.
+
+  La qualité est notre meilleur *argument* de vente.
+  Die Qualität ist unser bestes Verkaufs*argument*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

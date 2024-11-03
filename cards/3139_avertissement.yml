@@ -13,35 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tu m’avais déjà donné un avertissement.
-  Du hattest mich bereits gewarnt.
+  Tu m'avais déjà donné un *avertissement*.
+  Du hattest mir schon eine *Warnung* gegeben.
 
-  Il y avait un avertissement sur la porte.
-  An der Tür gab es eine Warnung.
+  L'arbitre lui a donné un *avertissement* pour comportement antisportif.
+  Der Schiedsrichter gab ihm eine *Verwarnung* wegen unsportlichen Verhaltens.
 
-  Il s'agit d'un avertissement d'une action en justice.
-  Das ist eine Klageandrohung.
+  Le professeur a noté un *avertissement* dans son carnet scolaire.
+  Der Lehrer hat eine *Verwarnung* in sein Schulheft eingetragen.
 
-  Il s'agit d'un avertissement sans frais.
-  Das ist eine gut gemeinte Warnung.
+  L'*avertissement* au lecteur explique le but de ce livre.
+  Das *Vorwort* erklärt dem Leser den Zweck dieses Buches.
 
-  Au deuxième avertissement, il sera renvoyé.
-  Bei der zweiten Verwarnung wird er entlassen.
+  Je n'ai reçu aucun *avertissement* avant la date limite de paiement.
+  Ich habe vor der Zahlungsfrist keine *Mahnung* erhalten.
 
-  Avertissement au lecteur : ce livre est une œuvre de fiction.
-  Hinweis für den Leser: Dieses Buch ist eine fiktive Geschichte.
+  Les feux clignotants servent d'*avertissement* aux automobilistes.
+  Die blinkenden Lichter dienen den Autofahrern als *Warnsignal*.
 
-  L'avertissement est taxable.
-  Die Verwarnung ist gebührenpflichtig.
+  La direction lui a donné un dernier *avertissement* avant le licenciement.
+  Die Geschäftsleitung gab ihm eine letzte *Mahnung* vor der Kündigung.
 
-  Le juge a prononcé un avertissement.
-  Der Richter hat eine Verwarnung ausgesprochen.
+  Après deux *avertissements*, il sera exclu du match.
+  Nach zwei *Verwarnungen* wird er vom Spiel ausgeschlossen.
 
-  Au bout de deux avertissements, il a été renvoyé.
-  Nach zwei Verwarnungen wurde er entlassen.
+  Sans *avertissement* préalable, il a quitté son poste.
+  Ohne vorherige *Warnung* hat er seinen Posten verlassen.
 
-  Dernier avertissement avant suspension.
-  Letzte Mahnung vor Suspendierung.
+  L'*avertissement* taxable doit être payé dans les 30 jours.
+  Die gebührenpflichtige *Verwarnung* muss innerhalb von 30 Tagen bezahlt werden.
+
+  Le système envoie un *avertissement* automatique en cas de surchauffe.
+  Das System sendet bei Überhitzung eine automatische *Warnung*.
+
+  Malgré notre *avertissement*, elle a continué dans cette direction.
+  Trotz unserer *Warnung* ist sie in diese Richtung weitergegangen.
+
+  Le juge a prononcé un *avertissement* au lieu d'une amende.
+  Der Richter sprach eine *Verwarnung* statt einer Geldstrafe aus.
+
+  Cet incident devrait servir d'*avertissement* pour l'avenir.
+  Dieser Vorfall sollte als *Warnung* für die Zukunft dienen.
+
+  L'*avertissement* du médecin était clair : arrêtez de fumer.
+  Die *Warnung* des Arztes war eindeutig: Hören Sie auf zu rauchen.
+
+  Son *avertissement* charitable m'a permis d'éviter une erreur.
+  Seine wohlgemeinte *Warnung* hat mir geholfen, einen Fehler zu vermeiden.
+
+  Un *avertissement* avec inscription au dossier a été émis.
+  Eine *Verwarnung* mit Aktenvermerk wurde ausgestellt.
+
+  Les parents ont reçu un *avertissement* concernant le comportement de leur fils.
+  Die Eltern erhielten eine *Verwarnung* bezüglich des Verhaltens ihres Sohnes.
+
+  L'entreprise a envoyé un *avertissement* sans frais avant les poursuites.
+  Die Firma schickte eine kostenlose *Mahnung* vor der Klageerhebung.
+
+  Le train a émis un *avertissement* sonore avant le passage à niveau.
+  Der Zug gab vor dem Bahnübergang ein akustisches *Warnsignal*.
+
+  Elle considère cette panne comme un *avertissement* du ciel.
+  Sie betrachtet diesen Ausfall als *Warnung* des Himmels.
+
+  Les *avertissements* répétés n'ont eu aucun effet sur son comportement.
+  Die wiederholten *Warnungen* hatten keine Auswirkung auf sein Verhalten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,23 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il faut une certaine précision dans la loi.
-  Es bedarf einer gewissen Genauigkeit im Gesetz.
+  Il faut une certaine *précision* dans la loi.
+  Das Gesetz erfordert eine gewisse *Genauigkeit*.
 
-  Il faut de la précision pour faire ce travail.
-  Für diese Arbeit braucht man Präzision.
+  La *précision* de ses mouvements est remarquable.
+  Die *Präzision* seiner Bewegungen ist bemerkenswert.
 
-  Il y a une précision intéressante dans le rapport.
-  Es gibt ein interessantes Detail im Bericht.
+  Le chirurgien opère avec une grande *précision*.
+  Der Chirurg operiert mit großer *Präzision*.
 
-  La balance de précision est un outil indispensable pour les scientifiques.
-  Die Präzisionswaage ist ein unverzichtbares Werkzeug für Wissenschaftler.
+  Cette montre suisse est réglée avec une *précision* absolue.
+  Diese Schweizer Uhr ist mit absoluter *Genauigkeit* eingestellt.
 
-  Les résultats de l'enquête ne sont pas d'une grande précision.
-  Die Ergebnisse der Umfrage sind nicht sehr genau.
+  Les contours manquent de *précision*.
+  Die Konturen fehlen *Deutlichkeit*.
 
-  Un instrument de précision est nécessaire pour mesurer ces dimensions.
-  Ein Feinmessgerät ist notwendig, um diese Abmessungen zu messen.
+  Pouvez-vous me donner plus de *précisions* sur votre projet ?
+  Können Sie mir nähere *Angaben* zu Ihrem Projekt machen?
+
+  Cette *précision* est très importante pour comprendre l'histoire.
+  Dieses *Detail* ist sehr wichtig, um die Geschichte zu verstehen.
+
+  La *précision* de ses réponses m'a impressionné.
+  Die *Genauigkeit* seiner Antworten hat mich beeindruckt.
+
+  Notre nouvelle *balance de précision* peut mesurer au milligramme près.
+  Unsere neue *Präzisions*waage kann bis auf das Milligramm genau messen.
+
+  Les *instruments de précision* doivent être manipulés avec soin.
+  Die *Fein*messgeräte müssen sorgfältig behandelt werden.
+
+  Ces renseignements sont d'une grande *précision*.
+  Diese Informationen sind von großer *Genauigkeit*.
+
+  Il effectue ses calculs avec une *précision* mathématique.
+  Er führt seine Berechnungen mit mathematischer *Präzision* durch.
+
+  La *précision* du tir a été exceptionnelle.
+  Die *Genauigkeit* des Schusses war außergewöhnlich.
+
+  Cette *mécanique de précision* nécessite beaucoup d'expérience.
+  Diese *Fein*mechanik erfordert viel Erfahrung.
+
+  J'aurais besoin de quelques *précisions* sur ce point.
+  Ich bräuchte einige genauere *Angaben* zu diesem Punkt.
+
+  Elle a dessiné la carte avec une excellente *précision*.
+  Sie hat die Karte mit ausgezeichneter *Genauigkeit* gezeichnet.
+
+  Je voudrais ajouter une petite *précision*.
+  Ich möchte eine kleine *Angabe* hinzufügen.
+
+  La *précision* de cet instrument est remarquable.
+  Die *Präzision* dieses Instruments ist bemerkenswert.
+
+  Cette brodeuse travaille avec une extrême *précision*.
+  Diese Stickerin arbeitet mit äußerster *Genauigkeit*.
+
+  La *précision* de la mise en scène était impressionnante.
+  Die *Präzision* der Inszenierung war beeindruckend.
+
+  Cette *précision* est de l'ordre du micromètre.
+  Diese *Genauigkeit* liegt im Bereich von Mikrometern.
+
+  Il a préparé son itinéraire avec *précision*.
+  Er hat seine Route mit *Genauigkeit* vorbereitet.
+
+  Sa traduction manque de *précision*.
+  Seiner Übersetzung fehlt es an *Genauigkeit*.
+
+  Il nous faut des *précisions* supplémentaires.
+  Wir brauchen zusätzliche *Angaben*.
+
+  Elle a conclu son rapport sans autre *précision*.
+  Sie hat ihren Bericht ohne weitere *Angaben* abgeschlossen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

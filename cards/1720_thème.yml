@@ -13,23 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous pouvez choisir un thème.
-  Sie können ein Thema wählen.
+  Vous pouvez choisir un *thème*.
+  Sie können ein *Thema* auswählen.
 
-  Le thème de la soirée est la musique.
-  Das Thema des Abends ist Musik.
+  La conférence aura pour *thème* principal l'intelligence artificielle.
+  Die Konferenz hat künstliche Intelligenz als Haupt*thema*.
 
-  La conférence aura pour thème les nouvelles technologies et leur impact sur l'éducation.
-  Thema der Konferenz sind die neuen Technologien und deren Einfluss auf die Bildung.
+  Les élèves doivent faire un *thème* allemand pour demain.
+  Die Schüler müssen bis morgen eine *Übersetzung* ins Deutsche machen.
 
-  Le thème astral de Marie indique un grand voyage à venir.
-  Maries Horoskop zeigt eine große Reise an, die sie unternehmen wird.
+  Le *thème* principal de cette symphonie est très mélancolique.
+  Das Haupt*thema* dieser Symphonie ist sehr melancholisch.
 
-  Le thème de la soirée est les années 70.
-  Das Motto unserer Tanzveranstaltung sind die 70er.
+  L'astrologue a fait le *thème* astral de Marie.
+  Der Astrologe hat Marie das *Horoskop* gestellt.
 
-  Mais je pense que le thème parisien, c'est du réchauffé.
-  Aber ich finde das Motto Paris ziemlich ausgelutscht.
+  Le peintre développe le même *thème* dans toutes ses œuvres.
+  Der Maler entwickelt in allen seinen Werken das gleiche *Motiv*.
+
+  J'ai choisi ce roman pour son *thème* universel de l'amour.
+  Ich habe diesen Roman wegen seines universellen *Themas* der Liebe ausgewählt.
+
+  Les *thèmes* abordés lors du débat étaient très variés.
+  Die beim Debattieren behandelten *Themen* waren sehr vielfältig.
+
+  Cette agence propose des voyages à *thème*.
+  Diese Agentur bietet *Themen*reisen an.
+
+  "C'est un fort en *thème*, mais il manque de créativité."
+  "Er ist ein *Streber*, aber ihm fehlt es an Kreativität."
+
+  Le professeur nous fait pratiquer le *thème* et la version chaque semaine.
+  Der Lehrer lässt uns jede Woche *Hin*- und Herübersetzungen üben.
+
+  Le compositeur a écrit plusieurs variations sur ce *thème*.
+  Der Komponist hat mehrere Variationen zu diesem *Thema* geschrieben.
+
+  Quel est le *thème* central de votre dissertation ?
+  Was ist das zentrale *Thema* Ihrer Hausarbeit?
+
+  Les *thèmes* de ses tableaux sont inspirés de la mythologie.
+  Die *Motive* seiner Gemälde sind von der Mythologie inspiriert.
+
+  Le *thème* verbal permet de conjuguer le verbe correctement.
+  Der Verbal*stamm* ermöglicht die korrekte Konjugation des Verbs.
+
+  Son *thème* astral indique une personnalité complexe.
+  Ihr *Geburtshoroskop* deutet auf eine komplexe Persönlichkeit hin.
+
+  Ces *thèmes* de recherche sont très prometteurs.
+  Diese Forschungs*themen* sind sehr vielversprechend.
+
+  Le *thème* nominal en latin peut être difficile à identifier.
+  Der Nominal*stamm* im Lateinischen kann schwer zu erkennen sein.
+
+  Les étudiants excellent en *thème* mais pas en version.
+  Die Studenten sind gut in der *Hinübersetzung*, aber nicht in der Herübersetzung.
+
+  Ce *thème* musical revient tout au long de l'opéra.
+  Dieses musikalische *Thema* kehrt während der ganzen Oper wieder.
+
+  L'écrivain explore plusieurs *thèmes* dans son nouveau roman.
+  Der Schriftsteller erforscht mehrere *Themen* in seinem neuen Roman.
+
+  Le *thème* de la liberté est omniprésent dans son œuvre.
+  Das *Thema* der Freiheit ist in seinem Werk allgegenwärtig.
+
+  Nous devons choisir un *thème* pour notre exposé.
+  Wir müssen ein *Thema* für unser Referat wählen.
+
+  Cette soirée dansante avait pour *thème* les années 80.
+  Diese Tanzparty hatte die 80er Jahre als *Thema*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

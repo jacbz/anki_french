@@ -13,20 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le docteur ne nous laissa aucun espoir.
-  Der Arzt ließ uns keine Hoffnung.
+  Le *docteur* ne nous laissa aucun espoir.
+  Der *Arzt* ließ uns keine Hoffnung.
 
-  Je dois aller chez le docteur demain.
-  Ich muss morgen zum Arzt gehen.
+  "Je vais appeler le *docteur*, tu as l'air vraiment malade."
+  "Ich werde den *Arzt* rufen, du siehst wirklich krank aus."
 
-  J'ai appelé le docteur, car je ne me sentais pas bien.
-  Ich habe den Arzt gerufen, weil ich mich nicht wohlgefühlt habe.
+  Bonjour, *docteur* Dubois, comment allez-vous aujourd'hui ?
+  Guten Tag, Herr *Doktor* Dubois, wie geht es Ihnen heute?
 
-  Bonjour, docteur, merci de me recevoir si rapidement.
-  Guten Tag, Herr Doktor, vielen Dank, dass Sie mich so schnell empfangen.
+  Le *docteur* Martin m'a prescrit des antibiotiques.
+  *Doktor* Martin hat mir Antibiotika verschrieben.
 
-  Le docteur Isabelle Dupond est très compétente, je te la recommande.
-  Doktor Isabelle Dupond ist sehr kompetent, ich kann sie dir nur empfehlen.
+  Ma sœur est *docteur* en physique à l'université.
+  Meine Schwester ist *Doktorin* der Physik an der Universität.
+
+  Les *docteurs* de l'Église ont grandement influencé la théologie chrétienne.
+  Die *Doktoren* der Kirche haben die christliche Theologie stark beeinflusst.
+
+  Le cabinet du *docteur* se trouve au deuxième étage.
+  Die Praxis des *Arztes* befindet sich im zweiten Stock.
+
+  *Docteur* Amélie Petit a reçu un prix pour ses recherches.
+  *Doktorin* Amélie Petit hat einen Preis für ihre Forschung erhalten.
+
+  Je dois passer chez le *docteur* demain matin.
+  Ich muss morgen früh zum *Arzt*.
+
+  Son rêve a toujours été de devenir *docteur*.
+  Sein Traum war es schon immer, *Arzt* zu werden.
+
+  Les anciens *docteurs* de la Loi étudiaient les textes sacrés.
+  Die alten *Gelehrten* des Gesetzes studierten die heiligen Texte.
+
+  Le nouveau *docteur* en droit a commencé son stage.
+  Der neue *Doktor* der Rechtswissenschaften hat sein Praktikum begonnen.
+
+  As-tu déjà consulté un *docteur* pour ce problème ?
+  Warst du wegen dieses Problems schon bei einem *Arzt*?
+
+  Notre *docteur* de famille prend sa retraite le mois prochain.
+  Unser Haus*arzt* geht nächsten Monat in Rente.
+
+  Elle est devenue *docteur* ès lettres à l'âge de 28 ans.
+  Sie wurde mit 28 Jahren *Doktorin* der Geisteswissenschaften.
+
+  Le *docteur* m'a conseillé de faire plus d'exercice.
+  Der *Arzt* hat mir geraten, mehr Sport zu treiben.
+
+  Madame *docteur* Rousseau travaille à l'hôpital central.
+  Frau *Doktor* Rousseau arbeitet im Zentralkrankenhaus.
+
+  Le *docteur* Thomas a été nommé chef du service de cardiologie.
+  *Doktor* Thomas wurde zum Leiter der kardiologischen Abteilung ernannt.
+
+  C'est un excellent *docteur* qui a sauvé de nombreuses vies.
+  Er ist ein ausgezeichneter *Arzt*, der viele Leben gerettet hat.
+
+  Le *docteur* Dupont reçoit uniquement sur rendez-vous.
+  *Doktor* Dupont empfängt nur nach Terminvereinbarung.
+
+  Saint Thomas d'Aquin était connu comme le *docteur* angélique.
+  Thomas von Aquin war als der engelgleiche *Lehrer* bekannt.
+
+  L'université a décerné le titre de *docteur* honoris causa à cette scientifique.
+  Die Universität hat dieser Wissenschaftlerin den Titel *Doktor* honoris causa verliehen.
+
+  Le *docteur* a diagnostiqué une simple grippe.
+  Der *Arzt* diagnostizierte eine einfache Grippe.
+
+  Cette université forme chaque année de nouveaux *docteurs*.
+  Diese Universität bildet jedes Jahr neue *Doktoren* aus.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

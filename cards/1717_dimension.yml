@@ -13,38 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous connaissions un univers à trois dimensions.
-  Wir kannten ein dreidimensionales Universum.
+  Nous connaissions un univers à trois *dimensions*.
+  Wir kannten ein Universum mit drei *Dimensionen*.
 
-  Les dimensions de la pièce sont de 4 mètres sur 5.
-  Die Dimensionen des Raumes sind 4 Meter mal 5 Meter.
+  La table a une *dimension* impressionnante.
+  Der Tisch hat eine beeindruckende *Größe*.
 
-  La table est de grande dimension.
-  Der Tisch ist groß.
+  Les *dimensions* de cette armoire sont parfaites pour notre chambre.
+  Die *Maße* dieses Schranks sind perfekt für unser Zimmer.
 
-  La salle de bain est de petite dimension.
-  Das Badezimmer ist klein.
+  Il faut prendre les *dimensions* exactes avant d'acheter des rideaux.
+  Man muss die genauen *Maße* nehmen, bevor man Vorhänge kauft.
 
-  Avant de commander la table, il faut prendre les dimensions de la pièce.
-  Vor der Bestellung des Tisches muss man den Raum ausmessen.
+  Cette crise a pris une *dimension* internationale inquiétante.
+  Diese Krise hat ein besorgniserregendes internationales *Ausmaß* angenommen.
 
-  Il faut prendre la dimension de la phrase pour comprendre son message profond.
-  Man muss die Bedeutung des Satzes erfassen, um seine tiefere Botschaft zu verstehen.
+  Le problème a une *dimension* économique et sociale.
+  Das Problem hat eine wirtschaftliche und soziale *Dimension*.
 
-  Un cube est à trois dimensions, tandis qu'un carré est à deux dimensions.
-  Ein Würfel ist dreidimensional, während ein Quadrat zweidimensional ist.
+  Les mathématiciens explorent des espaces à quatre *dimensions*.
+  Die Mathematiker erforschen Räume mit vier *Dimensionen*.
 
-  Les deux pièces ont la même dimension, ce qui permet de les meubler de la même façon.
-  Die beiden Räume haben die gleiche Größe, sodass man sie auf die gleiche Weise einrichten kann.
+  La *dimension* du paquet ne permet pas de l'envoyer par la poste.
+  Die *Größe* des Pakets erlaubt es nicht, es per Post zu verschicken.
 
-  Les dimensions extérieures du bâtiment sont impressionnantes.
-  Die Außenabmessungen des Gebäudes sind beeindruckend.
+  L'architecte a noté toutes les *dimensions* du bâtiment.
+  Der Architekt hat alle *Abmessungen* des Gebäudes notiert.
 
-  Je vais faire une chaise aux dimensions du modèle, pour qu'elle soit parfaitement adaptée.
-  Ich werde einen Stuhl nach den Maßen des Modells anfertigen, damit er perfekt passt.
+  Ce livre apporte une nouvelle *dimension* à l'histoire.
+  Dieses Buch verleiht der Geschichte eine neue *Bedeutung*.
 
-  Le discours doit être à la dimension des enjeux.
-  Die Rede muss der Bedeutung der Themen angemessen sein.
+  Les *dimensions* extérieures du véhicule sont standards.
+  Die *Außenmaße* des Fahrzeugs sind Standard.
+
+  Cet artiste travaille sur des toiles de petite *dimension*.
+  Dieser Künstler arbeitet auf Leinwänden von kleiner *Größe*.
+
+  Le jeu vidéo se déroule dans un monde à deux *dimensions*.
+  Das Videospiel spielt in einer zweidimensionalen Welt.
+
+  Cette découverte donne une autre *dimension* à nos recherches.
+  Diese Entdeckung gibt unserer Forschung eine andere *Dimension*.
+
+  Les *dimensions* de la fenêtre correspondent au modèle.
+  Die *Maße* des Fensters entsprechen dem Modell.
+
+  Le projet a pris une *dimension* inattendue.
+  Das Projekt hat eine unerwartete *Tragweite* angenommen.
+
+  Cette entreprise est de moyenne *dimension*.
+  Dieses Unternehmen ist von mittlerer *Größe*.
+
+  La *dimension* politique du débat ne peut pas être ignorée.
+  Die politische *Dimension* der Debatte kann nicht ignoriert werden.
+
+  Il faut noter les *dimensions* précises de la pièce.
+  Man muss die genauen *Maße* des Raums notieren.
+
+  Les objets de grande *dimension* sont difficiles à transporter.
+  Gegenstände von großer *Größe* sind schwer zu transportieren.
+
+  Cette théorie ajoute une cinquième *dimension* à l'espace-temps.
+  Diese Theorie fügt der Raumzeit eine fünfte *Dimension* hinzu.
+
+  La *dimension* historique de l'événement est significative.
+  Die historische *Dimension* des Ereignisses ist bedeutsam.
+
+  Le meuble doit avoir la même *dimension* que l'original.
+  Das Möbelstück muss die gleiche *Größe* wie das Original haben.
+
+  Cette exposition a une *dimension* culturelle importante.
+  Diese Ausstellung hat eine wichtige kulturelle *Dimension*.
+
+  Le scientifique étudie les *dimensions* de l'atome.
+  Der Wissenschaftler untersucht die *Dimensionen* des Atoms.
+
+  La *dimension* éducative du projet est primordiale.
+  Die erzieherische *Dimension* des Projekts ist von grundlegender Bedeutung.
+
+  Cette salle a des *dimensions* idéales pour notre réunion.
+  Dieser Saal hat ideale *Abmessungen* für unser Treffen.
+
+  Les *dimensions* du terrain permettent la construction prévue.
+  Die *Maße* des Grundstücks erlauben den geplanten Bau.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

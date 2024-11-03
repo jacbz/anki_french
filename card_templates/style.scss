@@ -273,6 +273,9 @@ $section-within-section-title-background: hsla(201, 100%, 14%, 0.07);
   margin: 0.3em;
 }
 
+.pos-definition {
+}
+
 .pos {
   font-size: 50%;
   font-weight: bold;
@@ -507,7 +510,6 @@ hr {
 
   .word-button {
     height: 1.6em;
-    line-height: 1.6em;
     min-width: 1.5em;
     padding: 0 0.4em;
   }
@@ -560,7 +562,7 @@ hr {
   border-width: 3px;
   padding: 12px;
   font-size: 50%;
-  margin-top: 1em;
+  margin-top: 2.5em;
 
   #cloze-game {
     background: transparent !important;

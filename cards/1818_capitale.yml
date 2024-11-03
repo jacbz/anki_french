@@ -13,29 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous ne sommes pas la capitale de l’État, mais nous grandissons.
-  Wir sind nicht die Hauptstadt des Staates, aber wir wachsen.
+  Nous ne sommes pas la *capitale* de l'État, mais nous grandissons.
+  Wir sind nicht die *Hauptstadt* des Staates, aber wir wachsen.
 
-  Paris est la capitale de la France.
-  Paris ist die Hauptstadt von Frankreich.
+  Paris n'est pas seulement la *capitale* administrative, mais aussi le cœur culturel du pays.
+  Paris ist nicht nur die administrative *Hauptstadt*, sondern auch das kulturelle Herz des Landes.
 
-  Paris est la capitale administrative et économique de la France.
-  Paris ist die politische und wirtschaftliche Hauptstadt Frankreichs.
+  Milan reste la *capitale* de la mode en Europe.
+  Mailand bleibt das Mode*zentrum* Europäns.
 
-  Le mot "DANGER" est écrit en capitales d'imprimerie.
-  Das Wort "GEFAHR" ist in großen Druckbuchstaben geschrieben.
+  Veuillez écrire votre nom en *capitales* sur le formulaire.
+  Schreiben Sie Ihren Namen in *Großbuchstaben* auf das Formular.
 
-  Berlin est considérée comme la capitale culturelle de l'Allemagne.
-  Berlin gilt als die Kulturhauptstadt Deutschlands.
+  Lyon est devenue la *capitale* de la gastronomie française.
+  Lyon ist zur *Hauptstadt* der französischen Gastronomie geworden.
 
-  En 2023, la ville de Timișoara en Roumanie est capitale culturelle d'Europe.
-  Im Jahr 2023 ist die rumänische Stadt Temeswar europäische Kulturhauptstadt.
+  La *capitale* fédérale australienne est Canberra.
+  Die australische Bundes*hauptstadt* ist Canberra.
 
-  Lyon est la capitale régionale de la région Auvergne-Rhône-Alpes.
-  Lyon ist die Landeshauptstadt der Region Auvergne-Rhône-Alpes.
+  Les titres des chapitres sont imprimés en *capitales*.
+  Die Kapitelüberschriften sind in *Großbuchstaben* gedruckt.
 
-  Milan est une capitale de la mode, réputée pour ses défilés.
-  Mailand ist ein Modezentrum, berühmt für seine Modenschauen.
+  Cette ville est la *capitale* économique du pays.
+  Diese Stadt ist die Wirtschafts*hauptstadt* des Landes.
+
+  Demain, je visiterai la *capitale* régionale.
+  Morgen werde ich die Landes*hauptstadt* besuchen.
+
+  Prague a été choisie comme *capitale* culturelle d'Europe.
+  Prag wurde zur europäischen Kultur*hauptstadt* gewählt.
+
+  Les enfants apprennent à écrire en *capitales* d'imprimerie.
+  Die Kinder lernen, in *Großbuchstaben* zu schreiben.
+
+  Cette année, notre ville sera la *capitale* européenne de la culture.
+  Dieses Jahr wird unsere Stadt die europäische Kultur*hauptstadt* sein.
+
+  Tokyo est devenue la *capitale* du Japon en 1868.
+  Tokio wurde 1868 zur *Hauptstadt* Japans.
+
+  Le maire rêve de faire de sa ville la *capitale* de l'innovation.
+  Der Bürgermeister träumt davon, seine Stadt zur *Hauptstadt* der Innovation zu machen.
+
+  Les *capitales* romaines sont utilisées pour les inscriptions sur les monuments.
+  Die römischen *Großbuchstaben* werden für Inschriften auf Denkmälern verwendet.
+
+  Bruxelles est une *capitale* internationale importante.
+  Brüssel ist eine wichtige internationale *Hauptstadt*.
+
+  La *capitale* administrative n'est pas toujours la plus grande ville.
+  Die Verwaltungs*hauptstadt* ist nicht immer die größte Stadt.
+
+  Il a écrit son adresse en *capitales* pour éviter toute confusion.
+  Er hat seine Adresse in *Großbuchstaben* geschrieben, um Verwechslungen zu vermeiden.
+
+  Strasbourg est devenue une *capitale* européenne.
+  Straßburg ist zu einer europäischen *Hauptstadt* geworden.
+
+  Les touristes affluent vers la *capitale* pendant l'été.
+  Die Touristen strömen im Sommer in die *Hauptstadt*.
+
+  Cette région n'avait pas de *capitale* fixe avant le 19e siècle.
+  Diese Region hatte vor dem 19. Jahrhundert keine feste *Hauptstadt*.
+
+  Écrivez votre signature sous les lettres en *capitales*.
+  Unterschreiben Sie unter den *Großbuchstaben*.
+
+  Wellington est la *capitale* de la Nouvelle-Zélande depuis 1865.
+  Wellington ist seit 1865 die *Hauptstadt* von Neuseeland.
+
+  La *capitale* politique ne correspond pas toujours à la capitale économique.
+  Die politische *Hauptstadt* ist nicht immer die Wirtschaftshauptstadt.
+
+  Les petites *capitales* sont souvent utilisées dans la typographie moderne.
+  Die kleinen *Großbuchstaben* werden oft in der modernen Typografie verwendet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

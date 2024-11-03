@@ -13,35 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Limitez votre consommation d’alcool et de sucre.
-  Schränken Sie Ihren Alkohol- und Zuckerkonsum ein.
+  Limitez votre consommation d'*alcool* et de sucre.
+  Beschränken Sie Ihren *Alkohol*- und Zuckerkonsum.
 
-  Il ne faut pas boire trop d’alcool.
-  Man sollte nicht zu viel Alkohol trinken.
+  Pour désinfecter la plaie, j'utilise de l'*alcool* à 90 degrés.
+  Zur Desinfektion der Wunde verwende ich 90-prozentigen *Alkohol*.
 
-  Cet alcool à 90° est réservé à un usage médical.
-  Dieser 90-prozentige Alkohol ist nur für medizinische Zwecke bestimmt.
+  La teneur en *alcool* de cette bière est de 5,2%.
+  Der *Alkohol*gehalt dieses Bieres beträgt 5,2%.
 
-  L'alcool fort peut causer des problèmes de santé.
-  Hochprozentige Getränke können gesundheitliche Probleme verursachen.
+  Cet *alcool* de poire est fait maison.
+  Dieser Birnen*geist* ist hausgemacht.
 
-  La teneur en alcool de cette bière est de 5%.
-  Der Alkoholgehalt dieses Bieres beträgt 5%.
+  Elle préfère les *alcools* forts aux cocktails sucrés.
+  Sie bevorzugt hochprozentige *Spirituosen* gegenüber süßen Cocktails.
 
-  L'alcool de poire est un alcool blanc très populaire en France.
-  Birnengeist ist ein in Frankreich sehr beliebter Weißgeist.
+  Mon grand-père ne supporte plus l'*alcool* depuis son opération.
+  Mein Großvater verträgt seit seiner Operation keinen *Alkohol* mehr.
 
-  Il est important de ne pas boire d'alcool au volant.
-  Es ist wichtig, beim Autofahren keinen Alkohol zu trinken.
+  Je vous offre un petit *alcool* pour digérer ?
+  Darf ich Ihnen einen *Schnaps* zum Verdauen anbieten?
 
-  J'offre un alcool à mes invités pour fêter l'événement.
-  Ich biete meinen Gästen einen Schnaps an, um den Anlass zu feiern.
+  Pierre tient bien l'*alcool*, contrairement à son frère.
+  Pierre ist *trinkfest*, im Gegensatz zu seinem Bruder.
 
-  Pierre supporte très bien l'alcool, il peut boire beaucoup sans être ivre.
-  Pierre ist sehr trinkfest, er kann viel trinken, ohne betrunken zu werden.
+  L'*alcool* à brûler est toxique et non potable.
+  Der Brenn*alkohol* ist giftig und nicht trinkbar.
 
-  Marie ne supporte pas l'alcool, elle devient malade après une seule gorgée.
-  Marie verträgt keinen Alkohol, sie wird schon nach einem Schluck krank.
+  Ce réchaud à *alcool* est parfait pour le camping.
+  Dieser *Alkohol*kocher ist perfekt zum Campen.
+
+  Les *alcools* de fruit ont souvent un goût plus doux.
+  Frucht*schnäpse* haben oft einen milderen Geschmack.
+
+  L'*alcool* méthylique peut causer la cécité.
+  Methyl*alkohol* kann Blindheit verursachen.
+
+  L'*alcool* dénaturé est utilisé comme désinfectant.
+  Vergällter *Alkohol* wird als Desinfektionsmittel verwendet.
+
+  Nous servons aussi des boissons sans *alcool*.
+  Wir servieren auch Getränke ohne *Alkohol*.
+
+  En laboratoire, nous utilisons de l'*alcool* éthylique pur.
+  Im Labor verwenden wir reinen Ethyl*alkohol*.
+
+  Les médecins déconseillent l'*alcool* pendant la grossesse.
+  Ärzte raten während der Schwangerschaft von *Alkohol* ab.
+
+  Cet *alcool* blanc est typique de la région.
+  Dieser weiße *Schnaps* ist typisch für die Region.
+
+  L'*alcool* de framboise a un parfum délicat.
+  Der Himber*geist* hat ein feines Aroma.
+
+  Le restaurant propose une large sélection d'*alcools*.
+  Das Restaurant bietet eine große Auswahl an *Spirituosen*.
+
+  Les effets de l'*alcool* varient selon les personnes.
+  Die Wirkung von *Alkohol* ist von Person zu Person unterschiedlich.
+
+  L'*alcool* officinal est utilisé en pharmacie.
+  Der offizinelle *Alkohol* wird in Apotheken verwendet.
+
+  Ce cocktail contient très peu d'*alcool*.
+  Dieser Cocktail enthält sehr wenig *Alkohol*.
+
+  L'industrie utilise différents types d'*alcools*.
+  Die Industrie verwendet verschiedene Arten von *Alkohol*.
+
+  La production d'*alcool* est strictement réglementée.
+  Die *Alkohol*produktion ist streng reguliert.
+
+  Certains parfums contiennent de l'*alcool* comme base.
+  Manche Parfüms enthalten *Alkohol* als Grundlage.
+
+  Il vaut mieux éviter de mélanger les *alcools*.
+  Man sollte verschiedene *Spirituosen* nicht mischen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

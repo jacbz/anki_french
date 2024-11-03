@@ -13,20 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’aimerais bien acheter un appartement.
-  Ich würde gerne eine Wohnung kaufen.
+  J'aimerais bien acheter un *appartement*.
+  Ich würde gerne eine *Wohnung* kaufen.
 
-  Je cherche un nouvel appartement.
-  Ich suche eine neue Wohnung.
+  Mon *appartement* se trouve au dernier étage.
+  Meine *Wohnung* liegt im obersten Stock.
 
-  Voici la clé de mon appartement.
-  Hier ist der Schlüssel zu meiner Wohnung.
+  Ils cherchent un *appartement* meublé à louer.
+  Sie suchen eine möblierte *Wohnung* zur Miete.
 
-  Il me dit de le rencontrer à son appartement.
-  Er sagt mir, ich solle mich mit ihm in seiner Wohnung treffen.
+  Les plantes d'*appartement* ont besoin de beaucoup de lumière.
+  *Zimmer*pflanzen brauchen viel Licht.
 
-  Il habite dans un appartement dans une résidence pour personnes âgées, où il se sent bien entouré.
-  Er wohnt in einer Seniorenwohnung, in der er sich gut aufgehoben fühlt.
+  Marie habite dans un petit *appartement* sur jardin.
+  Marie wohnt in einer kleinen *Wohnung* mit Gartenblick.
+
+  Le roi s'est retiré dans ses *appartements* privés.
+  Der König zog sich in seine privaten *Gemächer* zurück.
+
+  Les touristes ont réservé un *appartement* de luxe à l'hôtel.
+  Die Touristen haben eine *Suite* im Hotel gebucht.
+
+  "Je vais visiter un nouvel *appart*" dit-elle.
+  "Ich werde mir eine neue *Wohnung* ansehen", sagte sie.
+
+  Mes grands-parents ont déménagé dans un *appartement* dans une résidence pour personnes âgées.
+  Meine Großeltern sind in eine *Senioren*wohnung gezogen.
+
+  L'*appartement* est situé au premier étage d'un immeuble ancien.
+  Die *Wohnung* befindet sich im ersten Stock eines alten Gebäudes.
+
+  Les *appartements* de Versailles sont magnifiquement décorés.
+  Die *Gemächer* von Versailles sind wunderschön dekoriert.
+
+  Nous avons trouvé un bel *appartement* avec vue sur mer.
+  Wir haben eine schöne *Wohnung* mit Meerblick gefunden.
+
+  L'*appartement* dispose de trois pièces et d'un balcon.
+  Die *Wohnung* hat drei Zimmer und einen Balkon.
+
+  Le loyer de cet *appartement* est vraiment trop élevé.
+  Die Miete für diese *Wohnung* ist wirklich zu hoch.
+
+  Les grands *appartements* du château sont ouverts aux visiteurs.
+  Die großen *Gemächer* des Schlosses sind für Besucher geöffnet.
+
+  Notre *appartement* a besoin d'être rénové.
+  Unsere *Wohnung* muss renoviert werden.
+
+  Il y a une fuite d'eau dans mon *appartement*.
+  Es gibt einen Wasserschaden in meiner *Wohnung*.
+
+  Les visiteurs peuvent admirer les petits *appartements* de Trianon.
+  Die Besucher können die kleinen *Gemächer* von Trianon bewundern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

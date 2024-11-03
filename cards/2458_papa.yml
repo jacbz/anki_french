@@ -13,23 +13,59 @@ Register: ↘Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je t’aime aussi papa.
-  Ich liebe dich auch, Papa.
+  Je t'aime aussi *papa*.
+  Ich habe dich auch lieb, *Papa*.
 
-  Mon papa est très gentil.
-  Mein Papa ist sehr nett.
+  "*Papa*, tu peux m'aider avec mes devoirs ?"
+  "*Papa*, kannst du mir bei den Hausaufgaben helfen?"
 
-  Papa est à la maison.
-  Papa ist zu Hause.
+  Mon *papa* travaille comme médecin à l'hôpital.
+  Mein *Papa* arbeitet als Arzt im Krankenhaus.
 
-  Comment va ton papa ?
-  Wie geht es deinem Papa?
+  Le petit garçon court vers son *papa* les bras ouverts.
+  Der kleine Junge läuft mit offenen Armen zu seinem *Papa*.
 
-  Pierre est un papa gâteau, il adore gâter ses enfants.
-  Pierre ist ein richtiger Papa-Liebling, er verwöhnt seine Kinder sehr.
+  C'est un vrai *papa* poule avec ses enfants.
+  Er ist ein richtiger *Glucken-Papa* mit seinen Kindern.
 
-  La cuisine de papa est simple et traditionnelle, avec des plats comme le bœuf bourguignon et la tarte aux pommes.
-  Die Küche aus Großvaters Zeiten ist einfach und traditionell, mit Gerichten wie Rindfleisch Burgunder Art und Apfelkuchen.
+  Julie a toujours été la fille à *papa*.
+  Julie war schon immer *Papas* Liebling.
+
+  *Papa* et maman sont allés au cinéma ce soir.
+  *Papa* und Mama sind heute Abend ins Kino gegangen.
+
+  Grand-*papa* nous raconte souvent des histoires de son enfance.
+  Groß*papa* erzählt uns oft Geschichten aus seiner Kindheit.
+
+  "Il conduit toujours *à la papa*."
+  "Er fährt immer schön *gemütlich*."
+
+  Cette façon de diriger *à la papa* n'est plus adaptée.
+  Diese *altmodische* Art zu führen ist nicht mehr zeitgemäß.
+
+  C'est du cinéma de *papa*, personne ne regarde plus ça.
+  Das ist *altbackenes* Kino, das schaut sich keiner mehr an.
+
+  Bon-*papa* vient nous rendre visite dimanche.
+  *Opa* kommt uns am Sonntag besuchen.
+
+  Tu ressembles beaucoup à ton *papa*.
+  Du siehst deinem *Papa* sehr ähnlich.
+
+  Mon *papa* m'a appris à faire du vélo.
+  Mein *Papa* hat mir das Fahrradfahren beigebracht.
+
+  "*Papa*, quand est-ce qu'on arrive ?"
+  "*Papa*, wann sind wir da?"
+
+  Les enfants ont préparé un cadeau pour la fête des *papas*.
+  Die Kinder haben ein Geschenk zum *Vatertag* vorbereitet.
+
+  C'est un *papa* gâteau qui ne sait rien refuser à ses enfants.
+  Er ist ein *verwöhnender Papa*, der seinen Kindern nichts abschlagen kann.
+
+  Tu veux une barbe à *papa* ?
+  Willst du *Zucker*watte?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,14 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On parle d’une adresse anonyme sur l’internet.
-  Man spricht von einer anonymen Adresse im Internet.
+  On parle d'une adresse *anonyme* sur l'internet.
+  Man spricht von einer *anonymen* Adresse im Internet.
 
-  Je veux rester anonyme.
-  Ich möchte anonym bleiben.
+  Le donateur a souhaité rester *anonyme*.
+  Der Spender wollte *anonym* bleiben.
 
-  Son mobilier est plutôt anonyme, il ne reflète pas vraiment sa personnalité.
-  Seine Einrichtung hat keine persönliche Note, sie spiegelt nicht wirklich seine Persönlichkeit wider.
+  "J'ai reçu une lettre *anonyme* ce matin", dit Paul.
+  "Ich habe heute Morgen einen *anonymen* Brief bekommen", sagt Paul.
+
+  Cette *anonyme* du XIe siècle a écrit un magnifique poème.
+  Diese *Unbekannte* aus dem 11. Jahrhundert hat ein wunderschönes Gedicht geschrieben.
+
+  Les appels *anonymes* sont interdits dans notre entreprise.
+  *Anonyme* Anrufe sind in unserem Unternehmen verboten.
+
+  Son appartement est tellement *anonyme* qu'on dirait un hôtel.
+  Seine Wohnung ist so *unpersönlich*, dass sie wie ein Hotel wirkt.
+
+  La foule *anonyme* défilait dans les rues.
+  Die *namenlose* Menge zog durch die Straßen.
+
+  Cette petite rivière *anonyme* coule depuis des siècles.
+  Dieser kleine *namenlose* Bach fließt seit Jahrhunderten.
+
+  Ces banlieues grises et *anonymes* me dépriment.
+  Diese grauen und *gesichtslosen* Vororte deprimieren mich.
+
+  Son visage *anonyme* se perdait dans la masse.
+  Sein *ausdrucksloses* Gesicht ging in der Masse unter.
+
+  Les meubles *anonymes* de sa chambre manquent de personnalité.
+  Die *charakterlosen* Möbel in seinem Zimmer haben keine persönliche Note.
+
+  Il préfère rester *anonyme* pour le moment.
+  Er möchte vorerst *anonym* bleiben.
+
+  Cette œuvre *anonyme* date du Moyen Âge.
+  Dieses *anonyme* Werk stammt aus dem Mittelalter.
+
+  Un dénonciateur *anonyme* a contacté la police.
+  Ein *anonymer* Hinweisgeber hat die Polizei kontaktiert.
+
+  Le style *anonyme* de ce bâtiment ne retient pas l'attention.
+  Der *gesichtslose* Stil dieses Gebäudes erregt keine Aufmerksamkeit.
+
+  Les pamphlets *anonymes* circulaient dans toute la ville.
+  *Anonyme* Schmähschriften kursierten in der ganzen Stadt.
+
+  Cette femme *anonyme* est devenue une héroïne.
+  Diese *namenlose* Frau wurde zu einer Heldin.
+
+  L'auteur *anonyme* de ce livre a créé un chef-d'œuvre.
+  Der *anonyme* Autor dieses Buches hat ein Meisterwerk geschaffen.
+
+  Je ne suis qu'un *anonyme* parmi tant d'autres.
+  Ich bin nur ein *Namenloser* unter vielen.
+
+  Ces tableaux *anonymes* ont une grande valeur historique.
+  Diese *anonymen* Gemälde haben einen großen historischen Wert.
+
+  Marie travaille dans une société *anonyme* depuis dix ans.
+  Marie arbeitet seit zehn Jahren in einer Aktiengesellschaft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

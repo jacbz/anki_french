@@ -13,20 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous avons encore un département de relation publique.
-  Wir haben noch eine Abteilung für Öffentlichkeitsarbeit.
+  Nous avons encore un *département* de relation publique.
+  Wir haben noch eine *Abteilung* für Öffentlichkeitsarbeit.
 
-  J’habite dans le département de la Seine-Saint-Denis.
-  Ich wohne im Departement Seine-Saint-Denis.
+  Le *département* des sciences humaines organise une conférence la semaine prochaine.
+  Der *Fachbereich* Geisteswissenschaften organisiert nächste Woche eine Konferenz.
 
-  Il est le chef du département de vente.
-  Er ist der Leiter der Verkaufsabteilung.
+  Elle travaille au *département* des antiquités égyptiennes du Louvre depuis vingt ans.
+  Sie arbeitet seit zwanzig Jahren in der *Abteilung* für ägyptische Altertümer im Louvre.
 
-  La Guadeloupe est un département d'outre-mer français.
-  Guadeloupe ist ein französisches Überseedepartement.
+  Le *département* de la Seine-Maritime est connu pour ses falaises.
+  Das *Departement* Seine-Maritime ist für seine Klippen bekannt.
 
-  Le département du commerce extérieur est responsable des négociations commerciales internationales.
-  Die Außenhandelsabteilung ist für die internationalen Handelsverhandlungen zuständig.
+  Le *département* des ressources humaines a envoyé un nouveau mémo ce matin.
+  Die Personal*abteilung* hat heute Morgen ein neues Memo verschickt.
+
+  Le préfet du *département* a déclaré l'état d'urgence à cause des inondations.
+  Der Präfekt des *Departements* hat wegen der Überschwemmungen den Notstand ausgerufen.
+
+  Les étudiants du *département* d'informatique travaillent sur un projet innovant.
+  Die Studierenden des *Fachbereichs* Informatik arbeiten an einem innovativen Projekt.
+
+  La Réunion est un *département* d'outre-mer situé dans l'océan Indien.
+  Réunion ist ein Übersee*departement* im Indischen Ozean.
+
+  Le *département* du marketing prépare une nouvelle campagne publicitaire.
+  Die Marketing*abteilung* bereitet eine neue Werbekampagne vor.
+
+  Le *département* des Alpes-Maritimes attire beaucoup de touristes en été.
+  Das *Departement* Alpes-Maritimes zieht im Sommer viele Touristen an.
+
+  Le *département* juridique doit examiner tous les contrats avant signature.
+  Die Rechts*abteilung* muss alle Verträge vor der Unterzeichnung prüfen.
+
+  Le conseil général du *département* a voté le budget pour l'année prochaine.
+  Der Generalrat des *Departements* hat den Haushalt für das nächste Jahr verabschiedet.
+
+  Notre *département* de recherche développe de nouvelles technologies.
+  Unsere Forschungs*abteilung* entwickelt neue Technologien.
+
+  Le *département* de la Vendée est réputé pour ses plages.
+  Das *Departement* Vendée ist für seine Strände bekannt.
+
+  Le *département* des archives recherche un nouveau conservateur.
+  Die Archiv*abteilung* sucht einen neuen Kurator.
+
+  Les vignerons du *département* du Var protestent contre la nouvelle réglementation.
+  Die Winzer des *Departements* Var protestieren gegen die neue Regelung.
+
+  Le *département* de maintenance a signalé plusieurs problèmes techniques.
+  Die Wartungs*abteilung* hat mehrere technische Probleme gemeldet.
+
+  Le *département* des Pyrénées-Atlantiques se trouve à la frontière espagnole.
+  Das *Departement* Pyrénées-Atlantiques liegt an der spanischen Grenze.
+
+  Le *département* financier prévoit une augmentation du budget.
+  Die Finanz*abteilung* plant eine Erhöhung des Budgets.
+
+  Les habitants du *département* ont élu leurs nouveaux conseillers.
+  Die Bewohner des *Departements* haben ihre neuen Räte gewählt.
+
+  Le *département* des ventes a dépassé ses objectifs ce trimestre.
+  Die Verkaufs*abteilung* hat ihre Ziele in diesem Quartal übertroffen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

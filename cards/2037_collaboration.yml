@@ -13,20 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est cette collaboration qui a mené aux progrès.
-  Diese Zusammenarbeit hat zum Fortschritt geführt.
+  C'est cette *collaboration* qui a mené aux progrès.
+  Diese *Zusammenarbeit* hat zum Fortschritt geführt.
 
-  La collaboration entre les équipes est essentielle.
-  Die Zusammenarbeit zwischen den Teams ist entscheidend.
+  La *collaboration* entre les deux équipes de recherche a abouti à une découverte majeure.
+  Die *Zusammenarbeit* zwischen den beiden Forschungsteams führte zu einer wichtigen Entdeckung.
 
-  Les élèves ont participé à la collaboration à un projet de recherche sur l'environnement.
-  Die Schüler haben an einem Forschungsprojekt zum Thema Umwelt mitgearbeitet.
+  Marie apporte sa *collaboration* au projet depuis trois mois.
+  Marie *arbeitet* seit drei Monaten am Projekt *mit*.
 
-  Le professeur a apporté sa collaboration à la rédaction de l'article scientifique.
-  Der Professor hat an der Erstellung des wissenschaftlichen Artikels mitgewirkt.
+  Ce livre a été écrit en *collaboration* avec un journaliste expérimenté.
+  Dieses Buch wurde in *Zusammenarbeit* mit einem erfahrenen Journalisten geschrieben.
 
-  Ce livre a été écrit en collaboration avec plusieurs auteurs.
-  Dieses Buch wurde in Zusammenarbeit mit mehreren Autoren geschrieben.
+  Notre *collaboration* a été très fructueuse cette année.
+  Unsere *Zusammenarbeit* war dieses Jahr sehr erfolgreich.
+
+  Je souhaite vous proposer ma *collaboration* pour ce nouveau projet.
+  Ich möchte Ihnen meine *Mitarbeit* für dieses neue Projekt anbieten.
+
+  Les étudiants ont développé l'application en *collaboration* avec leurs professeurs.
+  Die Studenten haben die App in *Zusammenarbeit* mit ihren Professoren entwickelt.
+
+  Une *collaboration* étroite entre parents et enseignants est essentielle.
+  Eine enge *Zusammenarbeit* zwischen Eltern und Lehrern ist wesentlich.
+
+  La *collaboration* internationale est cruciale pour résoudre ce problème.
+  Die internationale *Zusammenarbeit* ist entscheidend für die Lösung dieses Problems.
+
+  Nous recherchons une *collaboration* à long terme avec nos partenaires.
+  Wir suchen eine langfristige *Zusammenarbeit* mit unseren Partnern.
+
+  Sa *collaboration* au journal a duré plus de vingt ans.
+  Seine *Mitarbeit* bei der Zeitung dauerte mehr als zwanzig Jahre.
+
+  Cette exposition est le résultat d'une *collaboration* entre plusieurs musées.
+  Diese Ausstellung ist das Ergebnis einer *Zusammenarbeit* zwischen mehreren Museen.
+
+  La *collaboration* entre le compositeur et le parolier a créé des chansons magnifiques.
+  Die *Zusammenarbeit* zwischen dem Komponisten und dem Texter hat wunderbare Lieder hervorgebracht.
+
+  Grâce à notre *collaboration*, nous avons pu terminer le projet plus tôt que prévu.
+  Dank unserer *Zusammenarbeit* konnten wir das Projekt früher als geplant abschließen.
+
+  Une *collaboration* efficace nécessite une communication claire.
+  Eine effektive *Zusammenarbeit* erfordert klare Kommunikation.
+
+  Ils ont refusé toute *collaboration* avec l'entreprise concurrente.
+  Sie haben jede *Zusammenarbeit* mit dem Konkurrenzunternehmen abgelehnt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

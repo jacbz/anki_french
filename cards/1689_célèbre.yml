@@ -13,29 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle était une musicienne célèbre dans notre pays.
-  Sie war eine berühmte Musikerin in unserem Land.
+  Elle était une musicienne *célèbre* dans notre pays.
+  Sie war eine *berühmte* Musikerin in unserem Land.
 
-  Elle est une actrice célèbre.
-  Sie ist eine berühmte Schauspielerin.
+  Cette famille s'est rendue *célèbre* par ses actions humanitaires.
+  Diese Familie wurde durch ihre humanitäre Arbeit *berühmt*.
 
-  Ce type est célèbre.
-  Dieser Mann ist berühmt.
+  Le tableau est devenu *célèbre* grâce aux réseaux sociaux.
+  Das Gemälde wurde durch soziale Medien *berühmt*.
 
-  Cette maison est célèbre.
-  Dieses Haus ist berühmt.
+  Mon grand-père cite souvent cette phrase *célèbre* de Voltaire.
+  Mein Großvater zitiert oft diesen *berühmten* Ausspruch von Voltaire.
 
-  Ma sœur est célèbre.
-  Meine Schwester ist berühmt.
+  Ce petit restaurant est *célèbre* pour ses desserts extraordinaires.
+  Dieses kleine Restaurant ist *berühmt* für seine außergewöhnlichen Desserts.
 
-  Le groupe de musique est célèbre dans le monde entier.
-  Die Musikgruppe ist weltberühmt.
+  La tour Eiffel est un monument *célèbre* dans le monde entier.
+  Der Eiffelturm ist ein *weltberühmtes* Monument.
 
-  L'émission de télé a rendu Paul très célèbre.
-  Die Fernsehsendung hat Paul zu großer Publizität verholfen.
+  Ses vidéos sur internet l'ont rapidement rendu *célèbre*.
+  Seine Videos im Internet machten ihn schnell *berühmt*.
 
-  Marie s'est rendue célèbre par ses exploits sportifs.
-  Marie wurde durch ihre sportlichen Leistungen berühmt.
+  Le *célèbre* parc d'attractions accueille des millions de visiteurs chaque année.
+  Der *berühmte* Freizeitpark empfängt jedes Jahr Millionen Besucher.
+
+  Cette actrice est *célèbre* pour son talent naturel.
+  Diese Schauspielerin ist *berühmt* für ihr natürliches Talent.
+
+  Les excentricités de Thomas l'ont rendu *célèbre* dans tout le quartier.
+  Thomas' Schrullen machten ihn in der ganzen Nachbarschaft *berühmt*.
+
+  Marie deviendra sûrement une danseuse *célèbre* un jour.
+  Marie wird eines Tages bestimmt eine *berühmte* Tänzerin.
+
+  Ce vin *célèbre* provient d'une petite région en France.
+  Dieser *berühmte* Wein kommt aus einer kleinen Region in Frankreich.
+
+  La bataille *célèbre* a changé le cours de l'histoire.
+  Die *berühmte* Schlacht veränderte den Lauf der Geschichte.
+
+  Votre *célèbre* grand-père était un excellent peintre.
+  Ihr *berühmter* Großvater war ein ausgezeichneter Maler.
+
+  Le 14 juillet est une date *célèbre* en France.
+  Der 14. Juli ist ein *berühmtes* Datum in Frankreich.
+
+  Les touristes visitent souvent ce lieu *célèbre*.
+  Die Touristen besuchen oft diesen *berühmten* Ort.
+
+  L'écrivain est devenu *célèbre* après la publication de son premier roman.
+  Der Schriftsteller wurde nach der Veröffentlichung seines ersten Romans *berühmt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

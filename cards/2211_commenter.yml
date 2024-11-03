@@ -13,11 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Laissez moi une chance de commenter ce que vous avez dit.
-  Geben Sie mir eine Chance, das zu kommentieren, was Sie gesagt haben.
+  Laissez moi une chance de *commenter* ce que vous avez dit.
+  Lassen Sie mich die Gelegenheit, das zu *kommentieren*, was Sie gesagt haben.
 
-  Je vais commenter cette photo.
-  Ich werde dieses Foto kommentieren.
+  Le professeur nous a demandé de *commenter* ce poème de Baudelaire.
+  Der Lehrer hat uns gebeten, dieses Gedicht von Baudelaire zu *interpretieren*.
+
+  Les experts vont *commenter* en direct le match de football.
+  Die Experten werden das Fußballspiel live *kommentieren*.
+
+  Marie *commentait* toujours les choix vestimentaires de ses collègues.
+  Marie *kommentierte* immer die Kleiderwahl ihrer Kollegen.
+
+  Les journalistes ont longuement *commenté* la démission du ministre.
+  Die Journalisten haben den Rücktritt des Ministers ausführlich *kommentiert*.
+
+  Les critiques littéraires adorent *commenter* les œuvres de Victor Hugo.
+  Die Literaturkritiker lieben es, die Werke von Victor Hugo zu *interpretieren*.
+
+  Je refuse de *commenter* ces rumeurs sans fondement.
+  Ich weigere mich, diese grundlosen Gerüchte zu *kommentieren*.
+
+  Notre professeur *commente* toujours nos dissertations de façon constructive.
+  Unsere Lehrerin *kommentiert* unsere Aufsätze immer konstruktiv.
+
+  Les réseaux sociaux nous permettent de *commenter* l'actualité instantanément.
+  Soziale Medien erlauben es uns, aktuelle Ereignisse sofort zu *kommentieren*.
+
+  Il est important de *commenter* ses sources dans un travail académique.
+  Es ist wichtig, seine Quellen in einer akademischen Arbeit zu *kommentieren*.
+
+  Le président a refusé de *commenter* cette affaire sensible.
+  Der Präsident hat es abgelehnt, diese heikle Angelegenheit zu *kommentieren*.
+
+  Les étudiants doivent *commenter* ce passage de la Bible pour l'examen.
+  Die Studenten müssen diese Bibelstelle für die Prüfung *interpretieren*.
+
+  Sophie *commente* toujours les films pendant qu'on les regarde.
+  Sophie *kommentiert* die Filme immer, während wir sie anschauen.
+
+  L'historien va *commenter* les événements majeurs du XXe siècle.
+  Der Historiker wird die wichtigsten Ereignisse des 20. Jahrhunderts *interpretieren*.
+
+  Le philosophe a passé sa vie à *commenter* les textes d'Aristote.
+  Der Philosoph hat sein Leben damit verbracht, die Texte von Aristoteles zu *interpretieren*.
+
+  Les spectateurs peuvent *commenter* le spectacle sur notre site web.
+  Die Zuschauer können die Show auf unserer Website *kommentieren*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

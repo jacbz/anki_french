@@ -13,20 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai fait un rêve étrange.
-  Ich hatte einen seltsamen Traum.
+  J'ai fait un rêve *étrange*.
+  Ich hatte einen *seltsamen* Traum.
 
-  C’est une histoire étrange.
-  Das ist eine seltsame Geschichte.
+  Il y a quelque chose d'*étrange* dans l'atmosphère ce soir.
+  Heute Abend liegt etwas *Merkwürdiges* in der Luft.
 
-  Quel homme étrange !
-  Was für ein seltsamer Mann!
+  Des bruits *étranges* venaient de la cave.
+  *Seltsame* Geräusche kamen aus dem Keller.
 
-  Quelle étrange histoire !
-  Was für eine seltsame Geschichte!
+  Je trouve *étrange* que personne ne soit venu à la fête.
+  Ich finde es *komisch*, dass niemand zur Party gekommen ist.
 
-  La vie est si étrange.
-  Das Leben ist so seltsam.
+  Cette maison dégage une aura *étrange*.
+  Dieses Haus strahlt eine *merkwürdige* Aura aus.
+
+  Mon chat a un comportement *étrange* depuis ce matin.
+  Meine Katze verhält sich seit heute Morgen *seltsam*.
+
+  L'*étrange* est qu'il ne m'a jamais rappelé.
+  Das *Merkwürdige* ist, dass er mich nie zurückgerufen hat.
+
+  Ce nouveau collègue est vraiment *étrange*.
+  Dieser neue Kollege ist wirklich *seltsam*.
+
+  Une coïncidence *étrange* nous a réunis.
+  Ein *merkwürdiger* Zufall hat uns zusammengeführt.
+
+  Elle m'a lancé un regard *étrange*.
+  Sie warf mir einen *seltsamen* Blick zu.
+
+  Les phénomènes *étranges* fascinent les scientifiques.
+  *Merkwürdige* Phänomene faszinieren die Wissenschaftler.
+
+  Son sourire *étrange* m'a mis mal à l'aise.
+  Sein *seltsames* Lächeln hat mich verunsichert.
+
+  Cette *étrange* aventure a changé ma vie.
+  Dieses *merkwürdige* Abenteuer hat mein Leben verändert.
+
+  Il a développé un goût pour l'*étrange*.
+  Er hat einen Geschmack für das *Seltsame* entwickelt.
+
+  Une lumière *étrange* brillait dans le ciel.
+  Ein *merkwürdiges* Licht leuchtete am Himmel.
+
+  Sa façon de marcher est *étrange*.
+  Seine Art zu gehen ist *seltsam*.
+
+  Cette histoire devient de plus en plus *étrange*.
+  Diese Geschichte wird immer *merkwürdiger*.
+
+  Un silence *étrange* régnait dans la ville.
+  Eine *seltsame* Stille lag über der Stadt.
+
+  Les romans mêlant l'*étrange* et le fantastique me passionnent.
+  Romane, die das *Unheimliche* mit dem Fantastischen verbinden, begeistern mich.
+
+  Ce tableau dégage une atmosphère *étrange*.
+  Dieses Gemälde strahlt eine *merkwürdige* Atmosphäre aus.
+
+  Une sensation *étrange* m'envahit soudainement.
+  Ein *seltsames* Gefühl überkam mich plötzlich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

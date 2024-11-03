@@ -63,13 +63,12 @@ var options = {
 <div class="audio">{{Audio}}</div>
 {{/Audio}}
 
-<div>
+<div class="pos-definition">
   <span class="pos">{{Wortart}}</span>
   <span class="definition">{{Definition}}</span>
 </div>
 
 {{#Register}}<span class="register">{{Register}}</span>{{/Register}}
-{{#Beispielsätze}}
 <div class="card-box tappable" id="sentences">
   <div class="box-float" id="next-sentence">
     <div class="box-float_label" id="sentence-counter"></div>
@@ -88,7 +87,7 @@ var options = {
   <div id="sentences-inner">{{Beispielsätze}}</div>
   <div id="cloze-game"></div>
 </div>
-{{/Beispielsätze}} {{#Notiz}}
+{{#Notiz}}
 <div class="card-box tappable note">{{Notiz}}</div>
 {{/Notiz}} {{#Konjugation}}
 <div class="card-box tappable conjugation">

@@ -13,62 +13,155 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je crois qu’un chat a dormi sur ma tête hier.
-  Ich glaube, eine Katze hat gestern auf meinem Kopf geschlafen.
+  Je crois qu'un *chat* a dormi sur ma tête hier.
+  Ich glaube, eine *Katze* hat gestern auf meinem Kopf geschlafen.
 
-  J’ai un chat noir.
-  Ich habe eine schwarze Katze.
+  Le *chat* siamois de ma voisine a encore attrapé un oiseau.
+  Die Siam*katze* meiner Nachbarin hat schon wieder einen Vogel gefangen.
 
-  Peut-être que c’était un chat.
-  Vielleicht war es eine Katze.
+  "Viens ici, mon petit *chat*!"
+  "Komm her, mein kleiner *Spatz*!"
 
-  Que veut le chat ?
-  Was will die Katze?
+  La *chatte* angora blanche attendait patiemment ses chatons.
+  Die weiße Angora*katze* wartete geduldig auf ihre Kätzchen.
 
-  Le chat est dans la maison.
-  Die Katze ist im Haus.
+  Un *chat* sauvage a traversé notre jardin cette nuit.
+  Eine Wild*katze* ist heute Nacht durch unseren Garten gelaufen.
 
-  Son vieux chat est encore en vie.
-  Seine alte Katze ist noch am Leben.
+  Le *Chat* botté est mon personnage préféré des contes de fées.
+  Der gestiefelte *Kater* ist meine Lieblingsfigur aus den Märchen.
 
-  Il y avait un chat sur la table.
-  Auf dem Tisch lag eine Katze.
+  "Ma petite *chatte*, tu as bien dormi ?"
+  "Meine kleine *Maus*, hast du gut geschlafen?"
 
-  J'ai un chat angora, un magnifique animal à la fourrure blanche et soyeuse.
-  Ich habe eine Angorakatze, ein wunderschönes Tier mit weißem, seidenweichem Fell.
+  Hier soir, j'ai participé à un *chat* en ligne avec mes amis.
+  Gestern Abend habe ich mit meinen Freunden an einem *Chat* teilgenommen.
 
-  Le chat siamois est connu pour ses yeux bleus et sa robe bicolore.
-  Die Siamkatze ist bekannt für ihre blauen Augen und ihr zweifarbiges Fell.
+  Elle a une démarche *chatte* quand elle se promène.
+  Sie hat einen *koketten* Gang, wenn sie spazieren geht.
 
-  Le chat sauvage est un animal solitaire qui vit dans les forêts.
-  Die Wildkatze ist ein Einzelgänger, der in Wäldern lebt.
+  Le *chat* miaule parce qu'il a faim.
+  Die *Katze* miaut, weil sie Hunger hat.
 
-  Le chat échaudé craint l'eau froide, dit le proverbe.
-  Ein gebranntes Kind scheut das Feuer, sagt das Sprichwort.
+  La nuit, tous les *chats* sont gris.
+  Bei Nacht sind alle *Katzen* grau.
 
-  J'ai un chat dans la gorge, je n'arrive pas à parler.
-  Ich habe einen Frosch im Hals, ich kann nicht sprechen.
+  Quand le *chat* n'est pas là, les souris dansent.
+  Wenn die *Katze* aus dem Haus ist, tanzen die Mäuse auf dem Tisch.
 
-  Il est retombé comme un chat sur ses pattes après sa chute.
-  Er ist nach seinem Sturz wie ein Kätzchen wieder auf die Füße gefallen.
+  *Chat* échaudé craint l'eau froide.
+  Ein gebranntes Kind scheut das Feuer.
 
-  Les enfants jouaient au chat et à la souris dans le jardin.
-  Die Kinder spielten im Garten Katz und Maus.
+  À bon *chat*, bon rat.
+  Wie du mir, so ich dir.
 
-  Quand le chat n'est pas là, les souris dansent, dit le proverbe.
-  Wenn die Katze aus dem Haus ist, tanzen die Mäuse, sagt das Sprichwort.
+  Il *écrit comme un chat*.
+  Er hat eine *Sauklaue*.
 
-  J'ai d'autres chats à fouetter, je n'ai pas le temps de t'aider.
-  Ich habe andere Sorgen, ich habe keine Zeit, dir zu helfen.
+  Il faut *appeler un chat un chat*.
+  Man muss die Dinge beim Namen nennen.
 
-  Il n'y a pas un chat dans la rue, c'est étrange.
-  Es ist keine Menschenseele auf der Straße, das ist seltsam.
+  J'ai *un chat dans la gorge* ce matin.
+  Ich bin heute Morgen *heiser*.
 
-  Il faut appeler un chat un chat, même si c'est difficile.
-  Man muss das Kind beim Namen nennen, auch wenn es schwerfällt.
+  Il n'y a *pas un chat* dans la rue.
+  Es ist keine *Menschenseele* auf der Straße.
 
-  Il n'y a pas de quoi fouetter un chat, c'est vraiment rien.
-  Da ist doch nichts dabei, es ist wirklich nichts.
+  J'ai *d'autres chats à fouetter*.
+  Ich habe *Wichtigeres zu tun*.
+
+  Je *donne ma langue au chat*.
+  Ich *gebe auf*.
+
+  Marie est très *chatte* avec son nouveau copain.
+  Marie ist sehr *verschmust* mit ihrem neuen Freund.
+
+  "Mon *chat*, tu veux bien m'aider ?"
+  "Mein *Schatz*, kannst du mir helfen?"
+
+  Les enfants jouent à *chat* perché dans la cour.
+  Die Kinder spielen *Fangen* auf dem Hof.
+
+  Ce *chat* de gouttière est plus affectueux qu'un chat de race.
+  Diese Straßen*katze* ist anhänglicher als eine Rassekatze.
+
+  Le *chat* ronronne sur mes genoux.
+  Die *Katze* schnurrt auf meinem Schoß.
+
+  Elle a des yeux de *chat* qui brillent dans l'obscurité.
+  Sie hat *Katzen*augen, die im Dunkeln leuchten.
+
+  Ces deux-là *jouent au chat et à la souris* depuis des semaines.
+  Die beiden *spielen seit Wochen Katz und Maus* miteinander.
+
+  Il fait juste une *toilette de chat* le matin.
+  Er macht morgens nur eine *Katzenwäsche*.
+
+  La danseuse exécute un *pas de chat* parfait.
+  Die Tänzerin führt einen perfekten *Katzensprung* aus.
+
+  Mon *chat* tigré dort toute la journée.
+  Mein Tiger*kater* schläft den ganzen Tag.
+
+  Cette *chatte* a déjà eu trois portées cette année.
+  Diese *Katze* hatte dieses Jahr schon drei Würfe.
+
+  Le petit *chat* noir s'est coincé dans l'arbre.
+  Die kleine schwarze *Katze* steckt im Baum fest.
+
+  Mon *chat* ne supporte pas les croquettes bon marché.
+  Mein *Kater* verträgt das billige Trockenfutter nicht.
+
+  La *chatte* protège farouchement ses petits.
+  Die *Katze* beschützt ihre Jungen wild entschlossen.
+
+  Les *chats* persans sont connus pour leur long pelage.
+  Perser*katzen* sind für ihr langes Fell bekannt.
+
+  Le *chat* s'est faufilé par la fenêtre entrouverte.
+  Die *Katze* ist durch das gekippte Fenster geschlüpft.
+
+  Notre vieux *chat* ne chasse plus les souris.
+  Unser alter *Kater* jagt keine Mäuse mehr.
+
+  La *chatte* lèche délicatement ses pattes.
+  Die *Katze* leckt sich vorsichtig die Pfoten.
+
+  Ce *chat* a vraiment mauvais caractère.
+  Diese *Katze* hat wirklich einen schlechten Charakter.
+
+  Le *chat* dort en boule sur le radiateur.
+  Die *Katze* schläft zusammengerollt auf der Heizung.
+
+  Les *chats* retombent toujours sur leurs pattes.
+  *Katzen* landen immer auf ihren Pfoten.
+
+  Un *chat* errant cherchait de la nourriture.
+  Eine streunende *Katze* suchte nach Futter.
+
+  Son *chat* porte un collier anti-puces.
+  Seine *Katze* trägt ein Flohhalsband.
+
+  Ce *chat* n'aime pas qu'on le caresse.
+  Diese *Katze* mag es nicht, gestreichelt zu werden.
+
+  Notre *chatte* est stérilisée depuis l'année dernière.
+  Unsere *Katze* ist seit letztem Jahr sterilisiert.
+
+  "Ton *chat* a encore fait pipi sur mon paillasson !"
+  "Deine *Katze* hat schon wieder auf meine Fußmatte gepinkelt!"
+
+  Le vétérinaire examine le *chat* blessé.
+  Der Tierarzt untersucht die verletzte *Katze*.
+
+  Les *chats* sont des animaux très indépendants.
+  *Katzen* sind sehr unabhängige Tiere.
+
+  Le *chat* dort dans son panier près du radiateur.
+  Die *Katze* schläft in ihrem Korb neben der Heizung.
+
+  Cette *chatte* a adopté un chaton orphelin.
+  Diese *Katze* hat ein Waisenkätzchen adoptiert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

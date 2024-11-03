@@ -13,56 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’avais pensé l’emmener au restaurant.
-  Ich hatte daran gedacht, mit ihr in ein Restaurant zu gehen.
+  J'avais pensé l'emmener au *restaurant*.
+  Ich hatte vor, sie zum *Restaurant* mitzunehmen.
 
-  Nous allons au restaurant ce soir.
-  Wir gehen heute Abend ins Restaurant.
+  Je travaille dans un *restaurant* chinois depuis deux ans.
+  Ich arbeite seit zwei Jahren in einem China*restaurant*.
 
-  Il y a ici un restaurant.
-  Hier befindet sich ein Restaurant.
+  "On va manger au *resto* ce soir ?"
+  "Gehen wir heute Abend ins *Restaurant*?"
 
-  Vous venez souvent dans ce restaurant ?
-  Wie oft besuchen Sie dieses Restaurant?
+  Le *restaurant* universitaire est fermé pendant les vacances.
+  Die *Mensa* ist während der Ferien geschlossen.
 
-  Je vais au restaurant tous les deux jours.
-  Ich gehe jeden zweiten Tag ins Restaurant.
+  Ce *restaurant* gastronomique a obtenu deux étoiles Michelin.
+  Dieses Gourmet*restaurant* hat zwei Michelin-Sterne erhalten.
 
-  Il me dit de le rencontrer au restaurant.
-  Er sagt mir, dass ich mich mit ihm im Restaurant treffen soll.
+  Les employés mangent au *restaurant* d'entreprise à midi.
+  Die Angestellten essen mittags in der *Kantine*.
 
-  Je suis allé en ville pour y chercher un bon restaurant.
-  Ich ging in die Stadt, um nach einem guten Restaurant zu suchen.
+  Il y a un nouveau *restaurant* libre-service près de mon bureau.
+  Es gibt ein neues *Selbstbedienungsrestaurant* in der Nähe meines Büros.
 
-  Nous avons décidé d'aller au restaurant ce soir.
-  Wir haben beschlossen, heute Abend essen zu gehen.
+  Le *restaurant* de la gare sert des repas 24 heures sur 24.
+  Das Bahnhofs*restaurant* serviert rund um die Uhr Mahlzeiten.
 
-  Le restaurant était connu pour sa cuisine raffinée et son ambiance élégante.
-  Das Restaurant war bekannt für seine exquisite Küche und seine elegante Atmosphäre.
+  Les *Restaurants* du Cœur aident les plus démunis.
+  Die *Suppenküche* hilft den Bedürftigsten.
 
-  Ce restaurant chic est fréquenté par les célébrités et les personnes aisées.
-  Dieses Nobelrestaurant wird von Prominenten und wohlhabenden Menschen besucht.
+  Ce *restaurant* à service rapide propose des options végétariennes.
+  Dieses Fast-Food-*Restaurant* bietet vegetarische Optionen an.
 
-  Ce restaurant chinois propose une grande variété de plats délicieux.
-  Dieses Chinarestaurant bietet eine große Auswahl an köstlichen Gerichten.
+  Le *restaurant* drive-in est pratique quand il pleut.
+  Das Drive-in-*Restaurant* ist praktisch, wenn es regnet.
 
-  Le restaurant gastronomique propose un menu dégustation élaboré par le chef.
-  Das Gourmetrestaurant bietet ein Degustationsmenü, das vom Chefkoch zusammengestellt wurde.
+  Pierre a réservé une table dans un *restaurant* chic pour notre anniversaire.
+  Pierre hat für unseren Jahrestag einen Tisch in einem Nobel*restaurant* reserviert.
 
-  Pour un déjeuner rapide, il y a un restaurant à service rapide à côté du bureau.
-  Für ein schnelles Mittagessen gibt es neben dem Büro ein Fast-Food-Restaurant.
+  La carte de ce *restaurant* de spécialités change selon les saisons.
+  Die Speisekarte dieses Spezialitäten*restaurants* wechselt je nach Jahreszeit.
 
-  On peut commander des hamburgers et des frites au restaurant drive-in.
-  Im Drive-in-Restaurant kann man Burger und Pommes bestellen.
+  Les clients peuvent payer avec des tickets-*restaurant*.
+  Die Kunden können mit *Restaurant*schecks bezahlen.
 
-  Le restaurant self-service propose un choix de plats à des prix abordables.
-  Das Selbstbedienungsrestaurant bietet eine Auswahl an Gerichten zu erschwinglichen Preisen.
+  Le *restaurant* de l'aéroport propose des plats internationaux.
+  Das Flughafen*restaurant* bietet internationale Gerichte an.
 
-  Le restaurant de l'aéroport propose une sélection de plats internationaux.
-  Das Flughafenrestaurant bietet eine Auswahl an internationalen Gerichten.
+  Marie gère un petit *restaurant* familial dans le quartier.
+  Marie führt ein kleines *Restaurant* im Viertel.
 
-  Ce restaurant de spécialités propose des plats régionaux et traditionnels.
-  Dieses Spezialitätenrestaurant bietet regionale und traditionelle Gerichte.
+  Notre hôtel-*restaurant* accueille beaucoup de touristes en été.
+  Unser Hotel-*Restaurant* empfängt im Sommer viele Touristen.
+
+  Le *restaurant* de la maison de retraite propose des menus adaptés.
+  Das *Restaurant* des Altersheims bietet angepasste Menüs an.
+
+  La voiture-*restaurant* du train était complète.
+  Der Speise*wagen* des Zugs war voll besetzt.
+
+  "Allons dans ce *resto* italien, j'ai envie de pâtes."
+  "Lass uns in das italienische *Restaurant* gehen, ich habe Lust auf Pasta."
+
+  Le menu de ce *restaurant* change tous les jours.
+  Die Speisekarte dieses *Restaurants* ändert sich täglich.
+
+  Ce café-*restaurant* est idéal pour le brunch du dimanche.
+  Dieses Café-*Restaurant* ist ideal für den Sonntagsbrunch.
+
+  Les critiques gastronomiques ont donné d'excellentes notes à ce *restaurant*.
+  Die Restaurantkritiker haben diesem *Restaurant* hervorragende Noten gegeben.
+
+  Dans ce *restaurant*, il faut réserver une semaine à l'avance.
+  In diesem *Restaurant* muss man eine Woche im Voraus reservieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

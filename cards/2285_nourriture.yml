@@ -13,35 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Leur nourriture, c’est l’herbe.
-  Ihre Nahrung ist Gras.
+  Leur *nourriture*, c'est l'herbe.
+  Ihre *Nahrung* ist das Gras.
 
-  La nourriture est importante pour la santé.
-  Nahrung ist wichtig für die Gesundheit.
+  La *nourriture* des pandas est principalement le bambou.
+  Die *Nahrung* der Pandas besteht hauptsächlich aus Bambus.
 
-  Merci pour la nourriture.
-  Danke für das Essen.
+  Il faut absolument changer la *nourriture* du chat, elle est trop grasse.
+  Das Katzen*futter* muss unbedingt gewechselt werden, es ist zu fettig.
 
-  La nourriture est sur la table.
-  Das Essen steht auf dem Tisch.
+  Cette *nourriture* pour nourrissons est enrichie en vitamines.
+  Diese Säuglings*nahrung* ist mit Vitaminen angereichert.
 
-  Il y avait beaucoup de nourriture dans la maison.
-  Im Haus gab es viele Lebensmittel.
+  La *nourriture* de la cantine n'est vraiment pas terrible aujourd'hui.
+  Das Kantinen*essen* ist heute wirklich nicht besonders gut.
 
-  Le riz est la nourriture principale de beaucoup de populations asiatiques.
-  Reis ist die Hauptnahrung vieler asiatischer Bevölkerungen.
+  Les oiseaux cherchent leur *nourriture* dans le jardin.
+  Die Vögel suchen ihre *Nahrung* im Garten.
 
-  La nourriture des animaux doit être équilibrée et adaptée à leurs besoins.
-  Die Fütterung der Tiere muss ausgewogen sein und auf deren Bedürfnisse abgestimmt sein.
+  Le berger s'occupe de la *nourriture* du bétail tous les matins.
+  Der Hirte kümmert sich jeden Morgen um die *Fütterung* der Rinder.
 
-  La musique est une nourriture pour l'esprit.
-  Musik ist geistige Nahrung.
+  Une bonne lecture est une excellente *nourriture* pour l'esprit.
+  Ein gutes Buch ist eine ausgezeichnete *Nahrung* für den Geist.
 
-  La nourriture pour le nourrisson doit être stérilisée et adaptée à son âge.
-  Säuglingsnahrung muss sterilisiert und an das Alter des Säuglings angepasst sein.
+  Il n'a pas pris de *nourriture* depuis deux jours.
+  Er hat seit zwei Tagen keine *Nahrung* zu sich genommen.
 
-  Les chiens ont besoin d'une nourriture pour animaux spécialement conçue pour leurs besoins.
-  Hunde brauchen ein Futter für Tiere, das speziell auf ihre Bedürfnisse abgestimmt ist.
+  La *nourriture* saine est essentielle pour notre santé.
+  Gesunde *Nahrung* ist wesentlich für unsere Gesundheit.
+
+  Je dois acheter de la *nourriture* pour poissons.
+  Ich muss Fisch*futter* kaufen.
+
+  Les médecins recommandent une *nourriture* équilibrée.
+  Die Ärzte empfehlen eine ausgewogene *Ernährung*.
+
+  Cette *nourriture* principale ne convient pas aux végétariens.
+  Diese Haupt*nahrung* ist nicht für Vegetarier geeignet.
+
+  Les voyageurs ont épuisé leur réserve de *nourriture*.
+  Die Reisenden haben ihren *Nahrungs*vorrat aufgebraucht.
+
+  La *nourriture* du restaurant est vraiment raffinée.
+  Das *Essen* im Restaurant ist wirklich raffiniert.
+
+  Le lion se jette sur sa *nourriture*.
+  Der Löwe stürzt sich auf seine *Beute*.
+
+  Il refuse toute *nourriture* depuis sa maladie.
+  Er verweigert seit seiner Krankheit jegliche *Nahrung*.
+
+  La musique est une *nourriture* pour l'âme.
+  Musik ist *Nahrung* für die Seele.
+
+  Par son nouveau travail, il peut assurer la *nourriture* de sa famille.
+  Durch seine neue Arbeit kann er die *Ernährung* seiner Familie sicherstellen.
+
+  Le zoo dépense beaucoup d'argent pour la *nourriture* des animaux.
+  Der Zoo gibt viel Geld für die Tier*fütterung* aus.
+
+  Les experts conseillent d'éviter la *nourriture* trop salée.
+  Die Experten raten von zu salziger *Nahrung* ab.
+
+  L'art est une *nourriture* intellectuelle indispensable.
+  Kunst ist eine unverzichtbare geistige *Nahrung*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

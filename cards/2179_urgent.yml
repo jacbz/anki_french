@@ -13,26 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il est urgent de remettre l’église au milieu du village.
-  Es ist dringend notwendig, die Kirche wieder in die Mitte des Dorfes zu stellen.
+  Il est *urgent* de remettre l'église au milieu du village.
+  Es ist *dringend* nötig, die Dinge wieder in Ordnung zu bringen.
 
-  C’est urgent, il faut agir vite.
-  Es ist dringend, wir müssen schnell handeln.
+  Cette affaire est très *urgente*, nous devons agir maintenant.
+  Diese Angelegenheit ist sehr *dringend*, wir müssen jetzt handeln.
 
-  Est-ce si urgent ?
-  Ist es so dringend?
+  Le médecin a une consultation *urgente* ce matin.
+  Der Arzt hat heute Morgen eine *dringende* Sprechstunde.
 
-  Il y a un message urgent pour vous.
-  Es gibt eine dringende Nachricht für Sie.
+  Il est *urgent* qu'elle prenne une décision.
+  Es wird *dringend* Zeit, dass sie eine Entscheidung trifft.
 
-  C'est urgent, j'ai besoin de ton aide immédiatement.
-  Es ist dringend, ich brauche deine Hilfe sofort.
+  Nous avons reçu une commande *urgente* de notre client principal.
+  Wir haben eine *eilige* Bestellung von unserem Hauptkunden erhalten.
 
-  Il est urgent de faire le ménage avant l'arrivée des invités.
-  Der Haushalt muss dringend gemacht werden, bevor die Gäste kommen.
+  La réparation du toit est devenue *urgente* après la tempête.
+  Die Reparatur des Daches ist nach dem Sturm *dringend* geworden.
 
-  Il est urgent qu'il appelle le médecin, il ne se sent pas bien.
-  Es wird Zeit, dass er den Arzt ruft, er fühlt sich nicht wohl.
+  Ces documents *urgents* doivent être signés aujourd'hui.
+  Diese *dringenden* Dokumente müssen heute unterschrieben werden.
+
+  Le patient a un besoin *urgent* de soins médicaux.
+  Der Patient hat einen *dringenden* Bedarf an medizinischer Versorgung.
+
+  La secrétaire traitera en priorité les dossiers *urgents*.
+  Die Sekretärin wird die *dringlichen* Akten vorrangig bearbeiten.
+
+  *Urgent* : appelez-moi dès que possible !
+  *Dringend*: Rufen Sie mich sobald wie möglich an!
+
+  Cette tâche *urgente* ne peut pas attendre jusqu'à demain.
+  Diese *vordringliche* Aufgabe kann nicht bis morgen warten.
+
+  J'ai une réunion *urgente* avec le directeur cet après-midi.
+  Ich habe heute Nachmittag eine *dringende* Besprechung mit dem Direktor.
+
+  Les pompiers ont reçu un appel *urgent*.
+  Die Feuerwehr hat einen *dringenden* Notruf erhalten.
+
+  Il faut distinguer l'*urgent* de l'important.
+  Man muss das *Dringende* vom Wichtigen unterscheiden.
+
+  Elle a dû partir pour une affaire *urgente*.
+  Sie musste wegen einer *dringlichen* Angelegenheit gehen.
+
+  Le maire a convoqué une session *urgente* du conseil municipal.
+  Der Bürgermeister hat eine *dringende* Gemeinderatssitzung einberufen.
+
+  Une lettre *urgente* vous attend à la réception.
+  Ein *dringender* Brief wartet an der Rezeption auf Sie.
+
+  La situation est devenue *urgente* : nous n'avons plus beaucoup de temps.
+  Die Situation ist *dringend* geworden: Wir haben nicht mehr viel Zeit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

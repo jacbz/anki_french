@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis originaire d’europe de l’est.
-  Ich komme ursprünglich aus Osteuropa.
+  Je suis *originaire* d'Europe de l'Est.
+  Ich *stamme* aus Osteuropa.
 
-  Je suis originaire de Paris.
-  Ich komme ursprünglich aus Paris.
+  Marie est *originaire* de Nancy, où elle a passé toute son enfance.
+  Marie ist in Nancy *geboren*, wo sie ihre ganze Kindheit verbracht hat.
 
-  Elle est originaire de Marseille.
-  Sie kommt aus Marseille.
+  Cette plante est *originaire* d'Asie et ne pousse pas naturellement en Europe.
+  Diese Pflanze *stammt* aus Asien und wächst nicht natürlich in Europa.
 
-  Il est originaire de Nancy.
-  Er kommt aus Nancy.
+  Les touristes ont goûté un plat *originaire* de la région.
+  Die Touristen haben ein Gericht probiert, das aus der Region *stammt*.
+
+  Cette coutume est *originaire* du sud de la France.
+  Dieser Brauch *stammt* aus Südfrankreich.
+
+  Ma grand-mère est *originaire* de Marseille, mais elle vit à Paris depuis quarante ans.
+  Meine Großmutter *kommt* aus Marseille, lebt aber seit vierzig Jahren in Paris.
+
+  Le café est *originaire* d'Éthiopie, mais il est maintenant cultivé dans de nombreux pays.
+  Der Kaffee *stammt* ursprünglich aus Äthiopien, wird aber jetzt in vielen Ländern angebaut.
+
+  Les chercheurs étudient une espèce *originaire* des Andes.
+  Die Forscher untersuchen eine Art, die aus den Anden *stammt*.
+
+  Beaucoup de nos voisins sont *originaires* du même village.
+  Viele unserer Nachbarn *stammen* aus demselben Dorf.
+
+  Cette danse traditionnelle est *originaire* du Brésil.
+  Dieser traditionelle Tanz *stammt* aus Brasilien.
+
+  Le maïs est une céréale *originaire* d'Amérique centrale.
+  Mais ist ein Getreide, das aus Zentralamerika *stammt*.
+
+  Les *originaires* de la Martinique ont organisé une fête traditionnelle.
+  Die *Einheimischen* von Martinique haben ein traditionelles Fest organisiert.
+
+  Sa famille est *originaire* du Languedoc depuis des générations.
+  Seine Familie *stammt* seit Generationen aus dem Languedoc.
+
+  Cette méthode de cuisine est *originaire* du Japon.
+  Diese Kochmethode *stammt* aus Japan.
+
+  Le tabac est une plante *originaire* d'Amérique du Sud.
+  Der Tabak ist eine Pflanze, die aus Südamerika *stammt*.
+
+  Les premiers colons *originaires* d'Europe sont arrivés au 17e siècle.
+  Die ersten aus Europa *stammenden* Siedler kamen im 17. Jahrhundert an.
+
+  Pierre n'est pas *originaire* de la ville, mais il s'y est bien intégré.
+  Pierre *stammt* nicht aus der Stadt, hat sich aber gut eingelebt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

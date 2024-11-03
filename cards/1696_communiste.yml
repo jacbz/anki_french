@@ -13,14 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les communistes ont toujours une certaine influence.
-  Die Kommunisten haben immer noch einen gewissen Einfluss.
+  Les *communistes* ont toujours une certaine influence.
+  Die *Kommunisten* haben immer noch einen gewissen Einfluss.
 
-  Mon grand-père était un communiste convaincu.
-  Mein Großvater war ein überzeugter Kommunist.
+  Le Parti *communiste* français a perdu beaucoup d'électeurs depuis les années 1980.
+  Die französische *kommunistische* Partei hat seit den 1980er Jahren viele Wähler verloren.
 
-  Elle était une communiste pur et dur, convaincue de la justesse de sa cause.
-  Sie war eine Betonkommunistin, überzeugt von der Richtigkeit ihrer Sache.
+  Elle est devenue militante *communiste* à l'âge de vingt ans.
+  Sie wurde mit zwanzig Jahren *kommunistische* Aktivistin.
+
+  Les idées *communistes* se sont répandues rapidement dans le pays.
+  Die *kommunistischen* Ideen verbreiteten sich schnell im Land.
+
+  Mon grand-père était un *communiste* convaincu toute sa vie.
+  Mein Großvater war sein ganzes Leben lang überzeugter *Kommunist*.
+
+  La presse *communiste* a beaucoup critiqué cette décision.
+  Die *kommunistische* Presse hat diese Entscheidung stark kritisiert.
+
+  L'ancien régime *communiste* s'est effondré en 1989.
+  Das alte *kommunistische* Regime brach 1989 zusammen.
+
+  Marie défend toujours les théories *communistes* avec passion.
+  Marie verteidigt die *kommunistischen* Theorien immer mit Leidenschaft.
+
+  La littérature *communiste* était interdite sous la dictature.
+  *Kommunistische* Literatur war unter der Diktatur verboten.
+
+  "C'est un vieux *communiste* pur et dur qui ne changera jamais d'avis."
+  "Das ist ein alter *Betonkommunist*, der seine Meinung nie ändern wird."
+
+  L'Internationale *communiste* a été fondée en 1919.
+  Die *kommunistische* Internationale wurde 1919 gegründet.
+
+  Les doctrines *communistes* ont influencé de nombreux mouvements sociaux.
+  Die *kommunistischen* Lehren haben viele soziale Bewegungen beeinflusst.
+
+  Pierre reste fidèle à ses convictions *communistes*.
+  Pierre bleibt seinen *kommunistischen* Überzeugungen treu.
+
+  L'électorat *communiste* a beaucoup changé depuis les années 1950.
+  Die *kommunistische* Wählerschaft hat sich seit den 1950er Jahren stark verändert.
+
+  Les manifestants *communistes* ont défilé dans les rues.
+  Die *kommunistischen* Demonstranten sind durch die Straßen gezogen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,23 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je crois me souvenir de tes théories.
-  Ich glaube, ich erinnere mich an deine Theorien.
+  Je crois me souvenir de tes *théories*.
+  Ich glaube, ich erinnere mich an deine *Theorien*.
 
-  Cette théorie est très intéressante.
-  Diese Theorie ist sehr interessant.
+  La *théorie* de la relativité d'Einstein a révolutionné la physique.
+  Einsteins Relativitäts*theorie* hat die Physik revolutioniert.
 
-  Nous avons une théorie.
-  Wir haben eine Theorie.
+  En *théorie*, ce projet devrait être terminé la semaine prochaine.
+  *Theoretisch* sollte dieses Projekt nächste Woche fertig sein.
 
-  Il s'agit d'une théorie économique qui explique comment les prix sont déterminés par les forces de l'offre et de la demande.
-  Das ist eine Wirtschaftstheorie, die erklärt, wie Preise durch Angebot und Nachfrage bestimmt werden.
+  Sa *théorie* sur l'origine de l'univers est très controversée.
+  Seine *Theorie* über den Ursprung des Universums ist sehr umstritten.
 
-  La théorie musicale explique comment les sons sont organisés en musique.
-  Die Musiktheorie erklärt, wie Töne in der Musik organisiert sind.
+  Les étudiants apprennent la *théorie* musicale au conservatoire.
+  Die Studenten lernen am Konservatorium Musik*theorie*.
 
-  La théorie de la causalité adéquate est une théorie juridique qui établit les conditions nécessaires pour qu'une personne soit tenue responsable d'un dommage.
-  Die Adäquanztheorie ist eine Rechtstheorie, die die notwendigen Bedingungen festlegt, damit jemand für einen Schaden haftbar gemacht werden kann.
+  Il y a souvent un grand écart entre la *théorie* et la pratique.
+  Zwischen *Theorie* und Praxis klafft oft eine große Lücke.
+
+  Les physiciens développent une nouvelle *théorie* des quanta.
+  Die Physiker entwickeln eine neue Quanten*theorie*.
+
+  Cette *théorie* littéraire m'a beaucoup aidé à comprendre le roman.
+  Diese Literatur*theorie* hat mir sehr geholfen, den Roman zu verstehen.
+
+  Ma sœur étudie les *théories* économiques à l'université.
+  Meine Schwester studiert Wirtschafts*theorien* an der Universität.
+
+  Nous devons tester cette *théorie* par des expériences.
+  Wir müssen diese *Theorie* durch Experimente testen.
+
+  Les chercheurs ont élaboré une nouvelle *théorie* sur le climat.
+  Die Forscher haben eine neue *Theorie* zum Klima entwickelt.
+
+  Sa *théorie* du complot ne repose sur aucune preuve.
+  Seine Verschwörungs*theorie* basiert auf keinerlei Beweisen.
+
+  J'ai du mal à comprendre cette *théorie* mathématique.
+  Ich habe Schwierigkeiten, diese mathematische *Theorie* zu verstehen.
+
+  Les professeurs enseignent d'abord la *théorie*, puis la pratique.
+  Die Lehrer unterrichten zuerst die *Theorie*, dann die Praxis.
+
+  La *théorie* de l'évolution explique la diversité des espèces.
+  Die Evolutions*theorie* erklärt die Artenvielfalt.
+
+  En *théorie*, ton plan pourrait fonctionner.
+  *Theoretisch* könnte dein Plan funktionieren.
+
+  Cette *théorie* scientifique n'a jamais été prouvée.
+  Diese wissenschaftliche *Theorie* wurde nie bewiesen.
+
+  Les étudiants doivent maîtriser plusieurs *théories* philosophiques.
+  Die Studenten müssen mehrere philosophische *Theorien* beherrschen.
+
+  Sa *théorie* sur ce qui s'est passé semble plausible.
+  Seine *Theorie* über das, was passiert ist, scheint plausibel.
+
+  Cette *théorie* psychologique est largement acceptée aujourd'hui.
+  Diese psychologische *Theorie* ist heute weitgehend akzeptiert.
+
+  Les anciennes *théories* ont été remplacées par de nouvelles.
+  Die alten *Theorien* wurden durch neue ersetzt.
+
+  La *théorie* des jeux est utilisée en économie.
+  Die Spiel*theorie* wird in der Wirtschaft verwendet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
