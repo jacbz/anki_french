@@ -13,14 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les pompiers restaient pessimistes.
-  Die Feuerwehrleute blieben pessimistisch.
+  Les *pompiers* restaient pessimistes.
+  Die *Feuerwehrleute* blieben pessimistisch.
 
-  Les pompiers sont arrivés rapidement sur les lieux de l’incendie.
-  Die Feuerwehrmänner kamen schnell zum Brandort.
+  Le *pompier* volontaire a sauvé trois personnes du feu.
+  Der freiwillige *Feuerwehrmann* hat drei Menschen aus dem Feuer gerettet.
 
-  Pierre fume comme un pompier depuis qu'il est adolescent.
-  Pierre raucht wie ein Schlot, seit er ein Teenager ist.
+  Une *pompière* professionnelle doit s'entraîner régulièrement.
+  Eine professionelle *Feuerwehrfrau* muss regelmäßig trainieren.
+
+  À Paris, les *pompiers* sont des militaires.
+  In Paris sind die *Feuerwehrleute* Soldaten.
+
+  Le *pompier* de service surveille attentivement la salle de concert.
+  Der diensthabende *Feuerwehrmann* überwacht aufmerksam den Konzertsaal.
+
+  "Il *fume comme un pompier*, ce garçon !"
+  "Dieser Junge *qualmt wie ein Schlot*!"
+
+  Ce *pompier pyromane* a été condamné à dix ans de prison.
+  Dieser *Feuerwehrmann*, der selbst Brände legte, wurde zu zehn Jahren Gefängnis verurteilt.
+
+  La grande échelle des *pompiers* atteint le dixième étage.
+  Die große Leiter der *Feuerwehr* reicht bis in den zehnten Stock.
+
+  Le bal des *pompiers* attire toujours beaucoup de monde le 14 juillet.
+  Der Ball der *Feuerwehr* zieht am 14. Juli immer viele Menschen an.
+
+  Les *pompiers* ont réussi à maîtriser l'incendie en deux heures.
+  Die *Feuerwehrleute* haben es geschafft, den Brand in zwei Stunden unter Kontrolle zu bringen.
+
+  Marc est notre *pompier* de service quand il y a des problèmes à résoudre.
+  Marc ist unser *Retter in der Not*, wenn es Probleme zu lösen gibt.
+
+  Les sirènes des voitures de *pompiers* résonnent dans toute la ville.
+  Die Sirenen der *Feuerwehr*wagen hallen durch die ganze Stadt.
+
+  Cette *pompière* travaille dans une caserne à Marseille.
+  Diese *Feuerwehrfrau* arbeitet in einer Wache in Marseille.
+
+  Les *pompiers* ont évacué tout l'immeuble par précaution.
+  Die *Feuerwehrleute* haben das ganze Gebäude vorsorglich evakuiert.
+
+  La *pompière* a reçu une médaille pour son courage exceptionnel.
+  Die *Feuerwehrfrau* hat für ihren außergewöhnlichen Mut eine Medaille erhalten.
+
+  Les critiques ont qualifié son style de *pompier*.
+  Die Kritiker haben seinen Stil als *gestelzt* bezeichnet.
+
+  Cet artiste *pompier* ne fait que des tableaux conventionnels.
+  Dieser *konventionelle* Künstler malt nur akademische Bilder.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

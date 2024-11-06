@@ -13,14 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je te fais un passe prioritaire.
-  Ich gebe dir einen Prioritätspass.
+  Je te fais un passe *prioritaire*.
+  Ich gebe dir einen *bevorzugten* Eintritt.
 
-  Les personnes âgées ont un accès prioritaire aux vaccins.
-  Ältere Menschen haben einen vorrangigen Zugang zu Impfstoffen.
+  Les femmes enceintes sont *prioritaires* dans la file d'attente.
+  Schwangere Frauen sind in der Warteschlange *vorrangig* zu behandeln.
 
-  Ce chantier est prioritaire, les travaux doivent être terminés avant la fin du mois.
-  Dieser Bau ist vorrangig, die Arbeiten müssen bis Ende des Monats abgeschlossen sein.
+  L'ambulance est un véhicule *prioritaire*.
+  Der Krankenwagen ist ein *vorfahrtsberechtigtes* Fahrzeug.
+
+  La réduction de la pauvreté est un objectif *prioritaire*.
+  Die Armutsbekämpfung ist ein *vorrangiges* Ziel.
+
+  Les services d'urgence sont *prioritaires* sur cette route.
+  Die Rettungsdienste haben auf dieser Straße *Vorfahrt*.
+
+  En tant que *prioritaire*, il peut entrer directement dans le bâtiment.
+  Als *Bevorrechtigter* kann er das Gebäude direkt betreten.
+
+  Ces investissements sont *prioritaires* pour le développement du pays.
+  Diese Investitionen sind für die Entwicklung des Landes *vorrangig*.
+
+  La sécurité reste notre préoccupation *prioritaire*.
+  Die Sicherheit bleibt unser *vordringliches* Anliegen.
+
+  Le camion des pompiers est *prioritaire* à ce carrefour.
+  Das Feuerwehrauto hat an dieser Kreuzung *Vorfahrt*.
+
+  L'éducation est un secteur *prioritaire* du gouvernement.
+  Bildung ist ein *vorrangiger* Sektor der Regierung.
+
+  Les *prioritaires* seront servis en premier.
+  Die *Bevorzugten* werden zuerst bedient.
+
+  Cette route *prioritaire* mène directement au centre-ville.
+  Diese *vorfahrtsberechtigte* Straße führt direkt ins Stadtzentrum.
+
+  La santé publique est devenue *prioritaire* pendant la pandémie.
+  Die öffentliche Gesundheit wurde während der Pandemie *vorrangig*.
+
+  Les personnes handicapées sont *prioritaires* aux caisses.
+  Menschen mit Behinderung sind an den Kassen *vorrangig*.
+
+  Le courrier *prioritaire* arrive plus rapidement.
+  Die *bevorzugte* Post kommt schneller an.
+
+  Ces besoins *prioritaires* doivent être satisfaits immédiatement.
+  Diese *vordringlichen* Bedürfnisse müssen sofort erfüllt werden.
+
+  La protection de l'environnement est une mission *prioritaire*.
+  Der Umweltschutz ist eine *vorrangige* Aufgabe.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

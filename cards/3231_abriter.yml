@@ -13,23 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je sais où ce monstre s’abrite.
-  Ich weiß, wo dieses Monster Unterschlupf findet.
+  Je sais où ce monstre *s'abrite*.
+  Ich weiß, wo sich dieses Monster *versteckt*.
 
-  Le toit abrite la maison.
-  Das Dach schützt das Haus.
+  Ce grand arbre nous *abrite* du soleil.
+  Dieser große Baum *schützt* uns vor der Sonne.
 
-  Cette maison abrite le consulat de France.
-  In diesem Gebäude ist das französische Konsulat untergebracht.
+  La grotte *abrite* de nombreuses espèces de chauves-souris.
+  Die Höhle *beherbergt* zahlreiche Fledermausarten.
 
-  Le petit garçon s'est abrité derrière sa mère quand il a vu le chien.
-  Der kleine Junge hat sich hinter seiner Mutter versteckt, als er den Hund sah.
+  Les manifestants se sont *abrités* sous les arcades.
+  Die Demonstranten haben sich unter den Arkaden *untergestellt*.
 
-  Les passants se sont abrités de la pluie sous les arcades.
-  Die Passanten haben sich vor dem Regen unter den Arkaden geschützt.
+  Cet immeuble *abrite* plus de cinquante familles.
+  Dieses Gebäude *beherbergt* mehr als fünfzig Familien.
 
-  Ils se sont abrités sous un arbre pour se protéger du soleil brûlant.
-  Sie haben sich unter einen Baum gestellt, um sich vor der sengenden Sonne zu schützen.
+  Elle *s'abrite* derrière son manque d'expérience pour refuser le poste.
+  Sie *versteckt* sich hinter ihrer mangelnden Erfahrung, um die Stelle abzulehnen.
+
+  Le hangar *abrite* tous nos outils de jardinage.
+  Der Schuppen *bietet* all unseren Gartengeräten *Schutz*.
+
+  Nous devons *nous abriter* immédiatement, l'orage arrive !
+  Wir müssen uns sofort in *Sicherheit bringen*, das Gewitter kommt!
+
+  Cette petite cabane *abrite* les randonneurs depuis des décennies.
+  Diese kleine Hütte *bietet* Wanderern seit Jahrzehnten *Unterschlupf*.
+
+  Les enfants se sont *abrités* sous mon parapluie.
+  Die Kinder haben sich unter meinem Regenschirm *untergestellt*.
+
+  Le nouveau bâtiment *abritera* bientôt la bibliothèque municipale.
+  Das neue Gebäude wird bald die Stadtbibliothek *beherbergen*.
+
+  Il *s'abrite* toujours derrière le règlement pour éviter les problèmes.
+  Er *versteckt* sich immer hinter den Vorschriften, um Probleme zu vermeiden.
+
+  Cette vallée est bien *abritée* des vents du nord.
+  Dieses Tal ist gut vor den Nordwinden *geschützt*.
+
+  Le vieux château *abrite* maintenant un musée d'art moderne.
+  Das alte Schloss *beherbergt* jetzt ein Museum für moderne Kunst.
+
+  Les oiseaux se sont *abrités* dans les branches pendant la tempête.
+  Die Vögel haben während des Sturms in den Zweigen *Schutz gesucht*.
+
+  Cette ancienne usine *abrite* désormais des start-ups innovantes.
+  Diese ehemalige Fabrik *beherbergt* jetzt innovative Start-ups.
+
+  Nous nous sommes *abrités* derrière un mur pendant la fusillade.
+  Wir haben uns während der Schießerei hinter einer Mauer in *Deckung gebracht*.
+
+  Le port est bien *abrité* des vagues.
+  Der Hafen ist gut vor den Wellen *geschützt*.
+
+  Marie *s'abrite* toujours derrière ses collègues quand il y a des décisions difficiles.
+  Marie *versteckt* sich immer hinter ihren Kollegen, wenn es schwierige Entscheidungen gibt.
+
+  Cette petite île *abrite* des espèces uniques au monde.
+  Diese kleine Insel *beherbergt* weltweit einzigartige Arten.
+
+  La cave *abrite* une collection impressionnante de vins.
+  Der Keller *beherbergt* eine beeindruckende Weinsammlung.
+
+  Les soldats se sont *abrités* derrière les ruines.
+  Die Soldaten haben sich hinter den Ruinen *verschanzt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

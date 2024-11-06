@@ -13,14 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On n’a trouvé que 2 survivants pour l’instant.
-  Bisher wurden nur zwei Überlebende gefunden.
+  On n'a trouvé que 2 *survivants* pour l'instant.
+  Bisher wurden nur 2 *Überlebende* gefunden.
 
-  Il était le seul survivant de l’accident.
-  Er war der einzige Überlebende des Unfalls.
+  Les *survivants* du crash d'avion ont été transportés à l'hôpital.
+  Die *Überlebenden* des Flugzeugabsturzes wurden ins Krankenhaus gebracht.
 
-  Tu es un survivant.
-  Du bist ein Überlebender.
+  La *survivante* âgée de 92 ans raconte ses souvenirs de la guerre.
+  Die 92-jährige *Überlebende* erzählt von ihren Kriegserinnerungen.
+
+  Le conjoint *survivant* hérite de tous les biens.
+  Der *überlebende* Ehepartner erbt das gesamte Vermögen.
+
+  Les *survivants* se sont réunis pour commémorer la catastrophe.
+  Die *Überlebenden* trafen sich zum Gedenken an die Katastrophe.
+
+  L'époux *survivant* a le droit de rester dans la maison familiale.
+  Der *hinterbliebene* Ehemann hat das Recht, im Familienhaus zu bleiben.
+
+  Jacques est le dernier *survivant* de sa promotion.
+  Jacques ist der letzte *Überlebende* seines Jahrgangs.
+
+  Parmi les espèces *survivantes*, certaines sont menacées d'extinction.
+  Unter den *überlebenden* Arten sind einige vom Aussterben bedroht.
+
+  Les *survivants* du naufrage ont dérivé pendant trois jours.
+  Die *Überlebenden* des Schiffbruchs trieben drei Tage lang auf dem Meer.
+
+  La famille *survivante* a été relogée temporairement.
+  Die *überlebende* Familie wurde vorübergehend neu untergebracht.
+
+  Pierre est le seul *survivant* de l'accident de montagne.
+  Pierre ist der einzige *Überlebende* des Bergunfalls.
+
+  Les *survivants* ont été immédiatement secourus par hélicoptère.
+  Die *Überlebenden* wurden sofort per Hubschrauber gerettet.
+
+  La *survivante* témoigne de son expérience devant les journalistes.
+  Die *Überlebende* berichtet den Journalisten von ihren Erfahrungen.
+
+  Les pompiers recherchent d'éventuels *survivants* dans les décombres.
+  Die Feuerwehr sucht in den Trümmern nach möglichen *Überlebenden*.
+
+  Marie est une *survivante* du cancer qui aide maintenant les autres malades.
+  Marie ist eine Krebs*überlebende*, die jetzt anderen Kranken hilft.
+
+  Le dernier *survivant* de l'expédition a écrit ses mémoires.
+  Der letzte *Überlebende* der Expedition hat seine Memoiren geschrieben.
+
+  Les *survivants* de la catastrophe naturelle ont reçu une aide d'urgence.
+  Die *Überlebenden* der Naturkatastrophe erhielten Soforthilfe.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

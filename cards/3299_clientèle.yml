@@ -13,17 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On a une clientèle d’habitués qui viennent et reviennent.
-  Wir haben eine Stammkundschaft, die kommt und geht.
+  On a une *clientèle* d'habitués qui viennent et reviennent.
+  Wir haben eine treue *Kundschaft*, die immer wieder kommt.
 
-  Notre clientèle est très fidèle.
-  Unsere Kundschaft ist sehr treu.
+  La *clientèle* de ce restaurant est plutôt jeune et branchée.
+  Die *Gäste* dieses Restaurants sind eher jung und trendy.
 
-  La clientèle principale de l'entreprise est composée de jeunes adultes.
-  Die Hauptkundengruppe des Unternehmens sind junge Erwachsene.
+  Notre *clientèle* principale se compose de petites entreprises.
+  Unsere Haupt*kundengruppe* besteht aus kleinen Unternehmen.
 
-  Son comportement orienté vers les intérêts de la clientèle lui a valu une bonne réputation.
-  Sein kundenorientiertes Verhalten hat ihm einen guten Ruf eingebracht.
+  Le médecin a une *clientèle* nombreuse dans ce quartier.
+  Der Arzt hat viele *Patienten* in diesem Viertel.
+
+  Ce parti politique cherche à élargir sa *clientèle* électorale.
+  Diese politische Partei versucht, ihre *Wählerschaft* zu vergrößern.
+
+  L'avocat a perdu une grande partie de sa *clientèle*.
+  Der Anwalt hat einen großen Teil seiner *Klientel* verloren.
+
+  La banque adopte un comportement orienté vers les intérêts de la *clientèle*.
+  Die Bank zeigt ein *kunden*orientiertes Verhalten.
+
+  Cette boutique de luxe vise une *clientèle* internationale.
+  Diese Luxusboutique zielt auf internationale *Kundschaft* ab.
+
+  La *clientèle* de cet hôtel est essentiellement composée d'hommes d'affaires.
+  Die *Gäste* dieses Hotels sind hauptsächlich Geschäftsleute.
+
+  Chaque pays représente une *clientèle* potentielle pour nos produits.
+  Jedes Land stellt potenzielle *Abnehmer* für unsere Produkte dar.
+
+  Notre nouvelle stratégie marketing nous a permis d'attirer une nouvelle *clientèle*.
+  Unsere neue Marketingstrategie hat uns geholfen, neue *Kunden* zu gewinnen.
+
+  La *clientèle* de ce salon de coiffure est très fidèle.
+  Die *Kundschaft* dieses Friseursalons ist sehr treu.
+
+  Ce magasin a perdu beaucoup de *clientèle* depuis la crise.
+  Dieser Laden hat seit der Krise viel *Kundschaft* verloren.
+
+  La *clientèle* du cabinet dentaire augmente chaque année.
+  Die *Patientenzahl* der Zahnarztpraxis steigt jedes Jahr.
+
+  Le café attire une *clientèle* diverse et cosmopolite.
+  Das Café zieht eine vielfältige und weltoffene *Kundschaft* an.
+
+  Ce projet immobilier cible une *clientèle* haut de gamme.
+  Dieses Immobilienprojekt richtet sich an gehobene *Kundschaft*.
+
+  Notre *clientèle* étrangère représente 30% de notre chiffre d'affaires.
+  Unsere ausländische *Kundschaft* macht 30% unseres Umsatzes aus.
+
+  Je vous retire ma *clientèle* après ce mauvais service.
+  Nach diesem schlechten Service entziehe ich Ihnen meine *Kundschaft*.
+
+  L'entreprise a obtenu la *clientèle* de plusieurs pays asiatiques.
+  Das Unternehmen hat *Abnehmer* in mehreren asiatischen Ländern gewonnen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

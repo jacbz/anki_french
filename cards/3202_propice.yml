@@ -13,20 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La situation n’était pas très propice.
-  Die Situation war nicht sehr günstig.
+  La situation n'était pas très *propice*.
+  Die Situation war nicht sehr *günstig*.
 
-  Les conditions sont propices à la réussite.
-  Die Bedingungen sind günstig für den Erfolg.
+  Le moment est *propice* pour commencer notre projet.
+  Der Zeitpunkt ist *günstig*, um mit unserem Projekt zu beginnen.
 
-  Les conditions actuelles offrent un terrain propice pour le développement économique.
-  Die aktuellen Bedingungen bieten einen günstigen Nährboden für die wirtschaftliche Entwicklung.
+  Cette terre est *propice* à la culture des tomates.
+  Dieser Boden ist für den Tomatenanbau *günstig*.
 
-  La pauvreté et le chômage créent un milieu propice à la violence.
-  Die Armut und die Arbeitslosigkeit schaffen ein Milieu, das die Gewalt begünstigt.
+  Que les dieux nous soient *propices* !
+  Mögen uns die Götter *gewogen* sein!
 
-  Si les dieux nous sont propices, nous allons réussir.
-  So die Götter wollen, werden wir erfolgreich sein.
+  Le climat de la région est particulièrement *propice* à la viticulture.
+  Das Klima der Region ist für den Weinbau besonders *günstig*.
+
+  L'atmosphère calme était *propice* à la méditation.
+  Die ruhige Atmosphäre war zum Meditieren *günstig*.
+
+  Marie a choisi l'instant *propice* pour annoncer la nouvelle.
+  Marie hat den *günstigen* Moment gewählt, um die Neuigkeit zu verkünden.
+
+  Ce quartier n'est pas *propice* au développement des petits commerces.
+  Dieses Viertel ist für die Entwicklung kleiner Geschäfte nicht *günstig*.
+
+  Le destin nous a été *propice* pendant ce voyage.
+  Das Schicksal war uns während dieser Reise *hold*.
+
+  Cette ambiance est *propice* à la créativité.
+  Diese Atmosphäre *begünstigt* die Kreativität.
+
+  Un vent *propice* nous poussa vers le port.
+  Ein *günstiger* Wind trieb uns zum Hafen.
+
+  L'environnement familial n'était pas *propice* à son épanouissement.
+  Das familiäre Umfeld war für seine Entwicklung nicht *förderlich*.
+
+  Le temps était *propice* pour une promenade dans la nature.
+  Das Wetter war für einen Spaziergang in der Natur *günstig*.
+
+  Ces conditions sont *propices* à la propagation des maladies.
+  Diese Bedingungen sind für die Ausbreitung von Krankheiten *günstig*.
+
+  Pierre attendait le moment *propice* pour poser sa question.
+  Pierre wartete auf den *günstigen* Moment, um seine Frage zu stellen.
+
+  La fortune nous fut *propice* ce jour-là.
+  Das Glück war uns an diesem Tag *hold*.
+
+  Cette salle est particulièrement *propice* aux concerts de musique classique.
+  Dieser Saal ist für klassische Konzerte besonders *geeignet*.
+
+  Les circonstances n'étaient pas *propices* à une reconciliation.
+  Die Umstände waren für eine Versöhnung nicht *günstig*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

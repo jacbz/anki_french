@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous croyons fermement en ce principe.
-  Wir glauben fest an dieses Prinzip.
+  Nous croyons *fermement* en ce principe.
+  Wir glauben *fest* an dieses Prinzip.
 
-  Je crois fermement en toi.
-  Ich glaube fest an dich.
+  Elle tenait *fermement* la main de sa fille dans la foule.
+  Sie hielt die Hand ihrer Tochter *fest* in der Menge.
+
+  Le président a *fermement* condamné ces actes de violence.
+  Der Präsident hat diese Gewalttaten *entschieden* verurteilt.
+
+  Je suis *fermement* décidé à finir mes études cette année.
+  Ich bin *fest* entschlossen, mein Studium dieses Jahr abzuschließen.
+
+  Il faut appuyer *fermement* sur le bouton pour que ça marche.
+  Man muss *fest* auf den Knopf drücken, damit es funktioniert.
+
+  Les policiers ont *fermement* maintenu l'ordre pendant la manifestation.
+  Die Polizisten haben während der Demonstration die Ordnung *resolut* aufrechterhalten.
+
+  Le chirurgien a saisi *fermement* ses instruments.
+  Der Chirurg ergriff seine Instrumente *fest*.
+
+  Elle s'est prononcée *fermement* contre cette proposition.
+  Sie hat sich *entschieden* gegen diesen Vorschlag ausgesprochen.
+
+  Je reste *fermement* convaincu de son innocence.
+  Ich bleibe *fest* von seiner Unschuld überzeugt.
+
+  Il a *fermement* attaché la corde au poteau.
+  Er hat das Seil *fest* am Pfosten befestigt.
+
+  Les parents doivent *fermement* établir des limites.
+  Eltern müssen Grenzen *konsequent* setzen.
+
+  Le gouvernement s'oppose *fermement* à cette réforme.
+  Die Regierung widersetzt sich dieser Reform *entschieden*.
+
+  Elle espère *fermement* obtenir ce poste.
+  Sie hofft *fest* darauf, diese Stelle zu bekommen.
+
+  Les deux pays sont *fermement* engagés dans ce processus de paix.
+  Die beiden Länder sind *fest* in diesen Friedensprozess eingebunden.
+
+  Il a *fermement* rejeté toutes les accusations.
+  Er hat alle Anschuldigungen *entschieden* zurückgewiesen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

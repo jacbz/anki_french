@@ -13,20 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils essaient de créer la panique.
-  Sie versuchen, eine Panik zu erzeugen.
+  Ils essaient de créer la *panique*.
+  Sie versuchen *Panik* zu verursachen.
 
-  Il y avait de la panique dans la foule.
-  Es herrschte Panik in der Menge.
+  Une vague de *panique* s'est emparée de la foule.
+  Eine Welle der *Panik* erfasste die Menge.
 
-  Il a été pris de panique quand il a vu l'accident.
-  Er wurde von Panik ergriffen, als er den Unfall sah.
+  "*Pas de panique* ! On va trouver une solution."
+  "Nur keine *Panik*! Wir werden eine Lösung finden."
 
-  Elle a fait ses bagages en toute panique, car l'avion allait partir.
-  Sie packte panikartig ihre Sachen, denn das Flugzeug sollte gleich abheben.
+  La *panique* s'est répandue comme une traînée de poudre.
+  Die *Panik* breitete sich wie ein Lauffeuer aus.
 
-  Pas de panique ! Tout va bien se passer.
-  Keine Panik! Alles wird gut gehen.
+  Elle a été prise de *panique* quand elle a vu le feu.
+  Sie wurde von *Panik* ergriffen, als sie das Feuer sah.
+
+  Les investisseurs ont vendu leurs actions dans une fuite *panique*.
+  Die Anleger verkauften ihre Aktien in *panischer* Flucht.
+
+  Une peur *panique* s'est emparée des enfants pendant l'orage.
+  Eine *panische* Angst ergriff die Kinder während des Gewitters.
+
+  "C'est la *panique* ! Je ne trouve plus mes clés !"
+  "Das ist die *Panik*! Ich finde meine Schlüssel nicht mehr!"
+
+  Il a fait ses valises en toute *panique*.
+  Er hat seine Koffer *panikartig* gepackt.
+
+  Un vent de *panique* a soufflé sur la ville.
+  Ein Wind der *Panik* wehte durch die Stadt.
+
+  Les gens ont réagi de manière *panique* à la nouvelle.
+  Die Leute haben *panisch* auf die Nachricht reagiert.
+
+  La *panique* s'est installée quand les lumières se sont éteintes.
+  *Panik* brach aus, als die Lichter ausgingen.
+
+  Son visage exprimait une terreur *panique*.
+  Sein Gesicht drückte *panischen* Schrecken aus.
+
+  Les rumeurs ont semé la *panique* parmi les habitants.
+  Die Gerüchte säten *Panik* unter den Einwohnern.
+
+  Marie est entrée dans une crise de *panique*.
+  Marie geriet in einen *Panik*anfall.
+
+  La foule s'est dispersée dans une confusion *panique*.
+  Die Menge zerstreute sich in *panischer* Verwirrung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

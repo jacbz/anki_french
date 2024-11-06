@@ -13,20 +13,53 @@ Register: ↘Fiktion ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’usager modifie les paramètres de renvoi d’appel.
-  Der Nutzer ändert die Einstellungen für die Anrufweiterleitung.
+  L'*usager* modifie les paramètres de renvoi d'appel.
+  Der *Benutzer* ändert die Einstellungen für die Rufweiterleitung.
 
-  Les usagers des transports en commun.
-  Die Benutzer des öffentlichen Verkehrs.
+  Les *usagers* du métro parisien font la grève des tickets.
+  Die *Benutzer* der Pariser Metro streiken gegen die Fahrscheine.
 
-  Marie est une usager de l'électricité, elle paye ses factures à temps.
-  Marie ist eine Stromverbraucherin, sie bezahlt ihre Rechnungen pünktlich.
+  En tant qu'*usagère* de cette bibliothèque depuis vingt ans, je connais bien le système de prêt.
+  Als langjährige *Benutzerin* dieser Bibliothek kenne ich das Ausleihsystem gut.
 
-  Paul est un usager des chemins de fer, il voyage souvent en train.
-  Paul ist ein Bahnkunde, er reist oft mit dem Zug.
+  Les *usagers* de la route doivent respecter le code de la route.
+  Die *Verkehrsteilnehmer* müssen die Straßenverkehrsordnung beachten.
 
-  Sophie est une usager de la route, elle conduit prudemment.
-  Sophie ist eine Verkehrsteilnehmerin, sie fährt vorsichtig.
+  Notre entreprise compte plus de mille *usagers* d'électricité.
+  Unser Unternehmen hat über tausend *Stromkunden*.
+
+  Les *usagers* des chemins de fer demandent plus de trains le weekend.
+  Die *Bahnkunden* fordern mehr Züge am Wochenende.
+
+  L'*usagère* a signalé un problème technique sur le site web.
+  Die *Benutzerin* hat ein technisches Problem auf der Website gemeldet.
+
+  Les droits des *usagers* sont protégés par la loi.
+  Die Rechte der *Benutzer* sind gesetzlich geschützt.
+
+  Les *usagers* du français au Canada ont leur propre accent.
+  Die französischen *Sprecher* in Kanada haben ihren eigenen Akzent.
+
+  En tant qu'*usager* régulier, vous bénéficiez d'une réduction.
+  Als regelmäßiger *Benutzer* erhalten Sie einen Rabais.
+
+  Les *usagers* des transports en commun protestent contre la hausse des tarifs.
+  Die *Nutzer* des öffentlichen Nahverkehrs protestieren gegen die Tariferhöhung.
+
+  L'*usager* et le propriétaire doivent signer le contrat.
+  Der *Nutzer* und der Eigentümer müssen den Vertrag unterschreiben.
+
+  Cette application permet aux *usagers* de personnaliser leur interface.
+  Diese Anwendung ermöglicht es den *Benutzern*, ihre Benutzeroberfläche anzupassen.
+
+  Les *usagers* de la piscine municipale doivent respecter le règlement intérieur.
+  Die *Benutzer* des städtischen Schwimmbads müssen die Hausordnung einhalten.
+
+  L'association des *usagers* des transports défend nos intérêts.
+  Der *Fahrgast*verband vertritt unsere Interessen.
+
+  La satisfaction des *usagers* est notre priorité absolue.
+  Die Zufriedenheit der *Benutzer* hat für uns oberste Priorität.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

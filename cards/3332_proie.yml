@@ -13,26 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils sont régulièrement la proie des nombreuses prostituées.
-  Sie fallen regelmäßig den zahlreichen Prostituierten zum Opfer.
+  Ils sont régulièrement la *proie* des nombreuses prostituées.
+  Sie werden regelmäßig zum *Opfer* der zahlreichen Prostituierten.
 
-  L'aigle est un oiseau de proie.
-  Der Adler ist ein Raubvogel.
+  Le faucon a rapidement repéré sa *proie* dans les hautes herbes.
+  Der Falke hat seine *Beute* schnell im hohen Gras entdeckt.
 
-  Ne lâchez pas la proie pour l'ombre !
-  Jage keinen Schimären nach!
+  Les petits poissons sont souvent la *proie* des plus gros.
+  Die kleinen Fische werden oft zur *Beute* der größeren.
 
-  Elle est en proie à la maladie.
-  Sie ist der Krankheit ausgeliefert.
+  "Tu ne devrais pas lâcher la *proie* pour l'ombre !"
+  "Du solltest nicht das Sichere für das Ungewisse *aufgeben*!"
 
-  Il a été la proie d'une bande de voleurs.
-  Er ist einer Bande von Dieben zum Opfer gefallen.
+  L'aigle royal est un magnifique oiseau de *proie*.
+  Der Steinadler ist ein prächtiger Raub*vogel*.
 
-  La mante religieuse est un insecte de proie.
-  Die Gottesanbeterin ist ein Fleisch fressendes Insekt.
+  Le village était en *proie* à une terrible épidémie de grippe.
+  Das Dorf war einer schrecklichen Grippeepidemie *ausgeliefert*.
 
-  Depuis son départ, elle est en proie au doute.
-  Seit seiner Abreise wird sie von Zweifeln gequält.
+  Ces jeunes entrepreneurs sont la *proie* d'escrocs sans scrupules.
+  Diese jungen Unternehmer fallen skrupellosen Betrügern zum *Opfer*.
+
+  Le bâtiment historique fut la *proie* des flammes pendant la nuit.
+  Das historische Gebäude fiel in der Nacht den Flammen zum *Opfer*.
+
+  Les antilopes sont la *proie* favorite des guépards.
+  Antilopen sind die bevorzugte *Beute* von Geparden.
+
+  Cette femme âgée est en *proie* à une profonde dépression.
+  Diese ältere Frau ist einer tiefen Depression *ausgeliefert*.
+
+  Le chat jouait avec sa *proie* avant de la manger.
+  Die Katze spielte mit ihrer *Beute*, bevor sie sie fraß.
+
+  Elle était en *proie* au doute concernant sa décision.
+  Sie war von Zweifeln bezüglich ihrer Entscheidung *geplagt*.
+
+  Les insectes de *proie* sont fascinants à observer.
+  Raub*insekten* sind faszinierend zu beobachten.
+
+  Cette région est en *proie* à de violents conflits.
+  Diese Region ist heftigen Konflikten *ausgeliefert*.
+
+  La souris est devenue la *proie* du serpent.
+  Die Maus wurde zur *Beute* der Schlange.
+
+  Le pays tout entier était en *proie* à la panique.
+  Das ganze Land war von Panik *ergriffen*.
+
+  La mante religieuse est un redoutable insecte de *proie*.
+  Die Gottesanbeterin ist ein gefürchtetes Raub*insekt*.
+
+  Les personnes vulnérables sont une *proie* facile pour les arnaqueurs.
+  Verletzliche Menschen sind eine leichte *Beute* für Betrüger.
+
+  Son esprit était en *proie* à de sombres pensées.
+  Sein Geist war düsteren Gedanken *ausgeliefert*.
+
+  Le requin a repéré sa *proie* à plusieurs kilomètres.
+  Der Hai hat seine *Beute* über mehrere Kilometer hinweg geortet.
+
+  La ville est en *proie* à des manifestations violentes.
+  Die Stadt ist von gewaltsamen Demonstrationen *heimgesucht*.
+
+  La chouette est un oiseau de *proie* nocturne.
+  Die Eule ist ein nachtaktiver Raub*vogel*.
+
+  Les lions se disputaient leur *proie* dans la savane.
+  Die Löwen stritten sich um ihre *Beute* in der Savanne.
+
+  Le hibou fond silencieusement sur sa *proie*.
+  Die Eule stürzt sich lautlos auf ihre *Beute*.
+
+  La forêt était en *proie* aux flammes depuis trois jours.
+  Der Wald war seit drei Tagen den Flammen *ausgeliefert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

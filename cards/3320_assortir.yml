@@ -13,29 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’essaye d’assortir votre visage avec vos cheveux.
-  Ich versuche, Ihr Gesicht mit Ihrem Haar in Einklang zu bringen.
+  J'essaye d'*assortir* votre visage avec vos cheveux.
+  Ich versuche, Ihr Gesicht mit Ihren Haaren *abzustimmen*.
 
-  Je vais assortir ma cravate avec ma chemise.
-  Ich werde meine Krawatte auf mein Hemd abstimmen.
+  Elle *assortit* soigneusement les couleurs de la décoration.
+  Sie *stimmte* die Farben der Dekoration sorgfältig *aufeinander ab*.
 
-  Il faut assortir les rideaux au tapis.
-  Man muss die Vorhänge auf den Teppich abstimmen.
+  Les tons bleus et verts ne s'*assortissent* pas bien ensemble.
+  Die blauen und grünen Töne *passen* nicht gut *zusammen*.
 
-  Il a eu raison d'assortir son exposé d'anecdotes, cela l'a rendu plus vivant.
-  Er hat recht daran getan, seinen Bericht mit Anekdoten anzureichern, das hat ihn lebendiger gemacht.
+  Il a *assorti* sa cravate à sa chemise pour l'entretien.
+  Er hat seine Krawatte für das Gespräch auf sein Hemd *abgestimmt*.
 
-  Ils ont décidé d'assortir leur magasin d'articles variés pour attirer une clientèle plus large.
-  Sie haben beschlossen, ihr Geschäft mit verschiedenen Waren auszustatten, um eine größere Kundschaft anzuziehen.
+  Le vendeur *assortit* le magasin de nouveaux produits.
+  Der Verkäufer *stattete* den Laden mit neuen Produkten *aus*.
 
-  Le manuscrit s'assortit d'enluminures d'une finesse remarquable.
-  Die Handschrift ist mit Buchminiaturen von bemerkenswerter Finesse versehen.
+  La robe s'*assortit* d'accessoires élégants.
+  Das Kleid wurde mit eleganten Accessoires *versehen*.
 
-  Ce placement est assorti d'une prime de bienvenue très intéressante.
-  Diese Anlage ist mit einer sehr interessanten Willkommensprämie verbunden.
+  Marie *assortit* les invités selon leurs centres d'intérêt.
+  Marie *brachte* die Gäste nach ihren Interessen *zusammen*.
 
-  Son discours s'est assorti d'allusions à l'actualité, ce qui l'a rendu plus percutant.
-  Seine Rede enthielt Anspielungen auf das Tagesgeschehen, was sie schlagkräftiger machte.
+  Le roman s'*assortit* de belles illustrations.
+  Der Roman wurde mit schönen Illustrationen *versehen*.
+
+  Le professeur *assortit* son cours d'exemples pratiques.
+  Der Lehrer *ergänzte* seinen Unterricht mit praktischen Beispielen.
+
+  Ces deux personnes sont mal *assorties*.
+  Diese beiden Personen *passen* nicht *zusammen*.
+
+  Elle *assortit* les fleurs du bouquet avec goût.
+  Sie *stellte* die Blumen des Straußes geschmackvoll *zusammen*.
+
+  Le restaurant propose des desserts *assortis*.
+  Das Restaurant bietet eine *zusammengestellte* Dessertauswahl an.
+
+  La bibliothèque est bien *assortie* en livres d'histoire.
+  Die Bibliothek ist gut mit Geschichtsbüchern *ausgestattet*.
+
+  Le contrat s'*assortit* d'une clause particulière.
+  Der Vertrag wurde mit einer besonderen Klausel *versehen*.
+
+  Cette boutique s'*assortit* régulièrement de nouvelles collections.
+  Diese Boutique *stattet* sich regelmäßig mit neuen Kollektionen *aus*.
+
+  Les rideaux s'*assortissent* parfaitement au canapé.
+  Die Vorhänge *passen* perfekt zum Sofa.
+
+  Le musicien a *assorti* sa mélodie d'une belle harmonie.
+  Der Musiker hat seine Melodie mit einer schönen Harmonie *ergänzt*.
+
+  Les deux tableaux ne s'*assortissent* pas bien dans cette pièce.
+  Die beiden Gemälde *passen* in diesem Raum nicht gut *zusammen*.
+
+  Le pâtissier *assortit* les chocolats dans la boîte.
+  Der Konditor *stellte* die Pralinen in der Schachtel *zusammen*.
+
+  Elle *assortit* son discours de citations pertinentes.
+  Sie *ergänzte* ihre Rede mit passenden Zitaten.
+
+  Ces deux caractères s'*assortissent* à merveille.
+  Diese beiden Charaktere *passen* wunderbar *zusammen*.
+
+  Le chef a *assorti* les vins aux plats du menu.
+  Der Koch hat die Weine auf die Gerichte der Speisekarte *abgestimmt*.
+
+  La présentation s'*assortit* de graphiques explicatifs.
+  Die Präsentation wurde mit erklärenden Grafiken *versehen*.
+
+  Le styliste *assortit* les différentes pièces de la collection.
+  Der Designer *stimmte* die verschiedenen Teile der Kollektion *aufeinander ab*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

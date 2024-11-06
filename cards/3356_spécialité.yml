@@ -13,20 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La santé n’est pas ma spécialité.
-  Gesundheit ist nicht mein Fachgebiet.
+  La santé n'est pas ma *spécialité*.
+  Gesundheit ist nicht mein *Fachgebiet*.
 
-  La spécialité de la maison est le foie gras.
-  Die Spezialität des Hauses ist Gänseleberpastete.
+  Les universités proposent de nombreuses *spécialités* en informatique.
+  Die Universitäten bieten viele *Fachgebiete* in der Informatik an.
 
-  C’est ma spécialité.
-  Das ist meine Spezialität.
+  La chirurgie esthétique est devenue sa *spécialité* après dix ans d'études.
+  Die ästhetische Chirurgie wurde nach zehn Jahren Studium zu seinem *Spezialgebiet*.
 
-  Le plat est une spécialité gastronomique de la région.
-  Das Gericht ist eine Spezialität der Region.
+  Le cassoulet est une *spécialité* de Toulouse.
+  Cassoulet ist eine *Spezialität* aus Toulouse.
 
-  La spécialité gastronomique de ce restaurant est le canard à l'orange.
-  Die Spezialität dieses Restaurants ist das Entenbraten mit Orangen.
+  Cette nouvelle *spécialité* pharmaceutique sera bientôt disponible en pharmacie.
+  Dieses neue *Pharmazeutikum* wird bald in Apotheken erhältlich sein.
+
+  "La procrastination, c'est sa *spécialité*!"
+  "*Spezialität* ist bei ihm das Aufschieben!"
+
+  Ma grand-mère nous a préparé une de ses *spécialités*.
+  Meine Großmutter hat uns eine ihrer *Spezialitäten* zubereitet.
+
+  Chaque région française a ses *spécialités* gastronomiques.
+  Jede französische Region hat ihre kulinarischen *Spezialitäten*.
+
+  Il s'est fait une *spécialité* de raconter des histoires drôles.
+  Er hat es zu seiner *Spezialität* gemacht, lustige Geschichten zu erzählen.
+
+  Cette *spécialité* médicale nécessite cinq ans de formation supplémentaire.
+  Dieses medizinische *Fachgebiet* erfordert fünf Jahre zusätzliche Ausbildung.
+
+  Le laboratoire a développé une nouvelle *spécialité* contre l'arthrose.
+  Das Labor hat ein neues *Pharmazeutikum* gegen Arthrose entwickelt.
+
+  "Arriver en retard est devenu sa *spécialité*."
+  "Zu spät kommen ist seine *Spezialität* geworden."
+
+  La cardiologie est une *spécialité* très demandée.
+  Kardiologie ist ein sehr gefragtes *Fachgebiet*.
+
+  Ce restaurant est connu pour ses *spécialités* italiennes.
+  Dieses Restaurant ist bekannt für seine italienischen *Spezialitäten*.
+
+  Quelle est votre *spécialité* en tant que chercheur ?
+  Was ist Ihr *Fachgebiet* als Forscher?
+
+  Les *spécialités* maison attirent beaucoup de clients dans ce café.
+  Die Haus*spezialitäten* ziehen viele Kunden in dieses Café.
+
+  Cette boulangerie propose plusieurs *spécialités* régionales.
+  Diese Bäckerei bietet verschiedene regionale *Spezialitäten* an.
+
+  "Critiquer les autres, c'est sa grande *spécialité*."
+  "Andere zu kritisieren ist seine große *Spezialität*."
+
+  La neurologie était sa *spécialité* avant sa retraite.
+  Neurologie war sein *Fachgebiet* vor der Pensionierung.
+
+  Le chef nous a fait goûter sa *spécialité* du jour.
+  Der Koch hat uns seine Tages*spezialität* probieren lassen.
+
+  Cette *spécialité* pharmaceutique n'est disponible que sur ordonnance.
+  Dieses *Pharmazeutikum* ist nur auf Rezept erhältlich.
+
+  Les étudiants doivent choisir leur *spécialité* en deuxième année.
+  Die Studenten müssen im zweiten Jahr ihr *Fachgebiet* wählen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

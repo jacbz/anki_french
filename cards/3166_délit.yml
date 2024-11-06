@@ -13,38 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tous avaient été surpris en flagrant délit.
-  Alle waren auf frischer Tat ertappt worden.
+  Tous avaient été surpris en flagrant *délit*.
+  Alle waren auf frischer *Tat* ertappt worden.
 
-  Il a été condamné pour délit.
-  Er wurde wegen einer Straftat verurteilt.
+  Le *délit* de chasse est puni par la loi.
+  Der Jagd*frevel* wird vom Gesetz bestraft.
 
-  La fraude fiscale est un exemple de délit économique.
-  Steuerbetrug ist ein Beispiel für ein Wirtschaftsverbrechen.
+  La police enquête sur un *délit* informatique majeur.
+  Die Polizei ermittelt wegen schweren *Datenmissbrauchs*.
 
-  Le piratage informatique est un type de délit informatique.
-  Cyberkriminalität ist eine Form von Datenmissbrauch.
+  Ce *délit* mineur ne mérite pas une longue peine.
+  Dieses Bagatell*delikt* verdient keine lange Strafe.
 
-  Le vol à l'étalage est un délit mineur.
-  Ladendiebstahl ist ein Bagatelldelikt.
+  Les *délits* en matière économique sont en hausse dans notre région.
+  Die Wirtschafts*kriminalität* nimmt in unserer Region zu.
 
-  La contrefaçon de monnaie est un délit monétaire.
-  Geld- oder Währungsfälschung ist ein Währungsdelikt.
+  Le juge a qualifié cet acte de *délit* civil.
+  Der Richter hat diese Handlung als ziviles *Delikt* eingestuft.
 
-  La subversion est un délit politique.
-  Subversion ist eine politische Straftat.
+  Elle a commis un *délit* électoral en votant deux fois.
+  Sie beging ein Wahl*delikt*, indem sie zweimal abstimmte.
 
-  La vente de produits contrefaits est un délit frauduleux.
-  Der Verkauf von gefälschten Produkten ist ein Betrugsdelikt.
+  Un grave *délit* de presse a été commis par ce journal.
+  Diese Zeitung hat ein schweres Presse*delikt* begangen.
 
-  Le braconnage est un délit de chasse.
-  Wilderei ist Jagdfrevel.
+  Le *délit* de fuite est sévèrement puni.
+  Die Fahrer*flucht* wird streng bestraft.
 
-  Le braconnier est l'auteur du délit de chasse.
-  Der Wilderer ist die Jagdfrevlerin.
+  On l'a pris en flagrant *délit* de mensonge.
+  Man hat ihn beim *Lügen* auf frischer Tat ertappt.
 
-  La corruption est un délit dans l'exercice d'une fonction publique.
-  Korruption ist ein Amtsdelikt.
+  Ce *délit* frauduleux lui coûtera cher.
+  Dieses Betrugs*delikt* wird ihn teuer zu stehen kommen.
+
+  Le *délit* monétaire a été découvert par hasard.
+  Das Währungs*delikt* wurde zufällig entdeckt.
+
+  Le corps du *délit* a été retrouvé dans son bureau.
+  Der Beweis für das *Delikt* wurde in seinem Büro gefunden.
+
+  Les *délits* politiques sont traités différemment.
+  Politische *Straftaten* werden anders behandelt.
+
+  Tout *délit* exige une réparation appropriée.
+  Jedes *Delikt* erfordert eine angemessene Wiedergutmachung.
+
+  Ce *délit* doit faire l'objet d'une dénonciation immédiate.
+  Dieses *Vergehen* muss sofort angezeigt werden.
+
+  Le *délit* dans l'exercice de sa fonction était évident.
+  Das Amts*delikt* war offensichtlich.
+
+  Les *délits* en matière de bilan sont complexes à prouver.
+  Bilanz*delikte* sind schwer nachzuweisen.
+
+  Un *délit* similaire s'est produit la semaine dernière.
+  Eine deliktsähnliche *Tat* ereignete sich letzte Woche.
+
+  Ce *délit* poursuivi d'office inquiète la population.
+  Dieses Offizial*delikt* beunruhigt die Bevölkerung.
+
+  Pierre a été surpris en flagrant *délit de vol*.
+  Pierre wurde beim *Diebstahl* auf frischer Tat ertappt.
+
+  Le *délit* de pêche a été signalé aux autorités.
+  Der Fischerei*frevel* wurde den Behörden gemeldet.
+
+  Un nouveau type de *délit* économique est apparu.
+  Eine neue Art von Wirtschafts*straftat* ist aufgetaucht.
+
+  Ce quasi-*délit* résulte d'une négligence grave.
+  Dieses *Fahrlässigkeitsdelikt* resultiert aus grober Nachlässigkeit.
+
+  L'historien a été pris en flagrant *délit* de partialité.
+  Der Historiker wurde bei offensichtlicher *Voreingenommenheit* ertappt.
+
+  Le *délit* correctionnel sera jugé le mois prochain.
+  Das *Vergehen* wird nächsten Monat vor Gericht verhandelt.
+
+  La preuve du *délit* était irréfutable.
+  Der Beweis für die *Straftat* war unwiderlegbar.
+
+  Les *délits* mineurs représentent 60% des infractions.
+  Bagatell*delikte* machen 60% aller Verstöße aus.
+
+  Son *délit* lui vaudra une peine de prison.
+  Sein *Vergehen* wird ihm eine Gefängnisstrafe einbringen.
+
+  Ce *délit* est plus grave qu'une simple contravention.
+  Dieses *Vergehen* ist schwerwiegender als eine simple Ordnungswidrigkeit.
+
+  Les conséquences de ce *délit* sont considérables.
+  Die Folgen dieser *Straftat* sind erheblich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

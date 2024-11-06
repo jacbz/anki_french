@@ -13,23 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ma candidature ne pouvait pas être considérée.
-  Meine Bewerbung konnte nicht berücksichtigt werden.
+  Ma *candidature* ne pouvait pas être considérée.
+  Meine *Bewerbung* konnte nicht berücksichtigt werden.
 
-  J’ai envoyé ma candidature pour le poste.
-  Ich habe meine Bewerbung für die Stelle geschickt.
+  Elle a retiré sa *candidature* à la présidence hier soir.
+  Sie hat gestern Abend ihre *Kandidatur* für das Präsidentenamt zurückgezogen.
 
-  Pierre a annoncé sa candidature aux prochaines élections pour le poste de maire.
-  Pierre hat seine Kandidatur für die kommenden Wahlen für das Amt des Bürgermeisters angemeldet.
+  Je vais envoyer une *candidature* spontanée à cette entreprise.
+  Ich werde bei dieser Firma eine *Blind*bewerbung einreichen.
 
-  Il a envoyé une candidature spontanée à l'entreprise, car il était très intéressé par le poste.
-  Er hat eine Blindbewerbung an die Firma geschickt, da er sehr an der Stelle interessiert war.
+  Le maire sortant a officiellement annoncé sa *candidature* pour un second mandat.
+  Der amtierende Bürgermeister hat offiziell seine *Kandidatur* für eine zweite Amtszeit angekündigt.
 
-  Elle a décidé de poser sa candidature aux élections législatives.
-  Sie hat beschlossen, bei den Parlamentswahlen zu kandidieren.
+  Sophie vient de déposer sa *candidature* pour le poste d'assistante.
+  Sophie hat gerade ihre *Bewerbung* für die Stelle als Assistentin eingereicht.
 
-  Il a posé sa candidature à un poste d'ingénieur dans une grande entreprise.
-  Er hat sich um eine Stelle als Ingenieur in einem großen Unternehmen beworben.
+  Plusieurs personnes ont renoncé à leur *candidature* après le scandale.
+  Mehrere Personen haben nach dem Skandal ihre *Kandidatur* zurückgezogen.
+
+  Le comité va examiner votre *candidature* dans les prochains jours.
+  Der Ausschuss wird Ihre *Bewerbung* in den nächsten Tagen prüfen.
+
+  La *candidature* de Thomas a été rejetée faute d'expérience.
+  Die *Bewerbung* von Thomas wurde wegen mangelnder Erfahrung abgelehnt.
+
+  Le parti a validé sa *candidature* pour les élections régionales.
+  Die Partei hat seine *Kandidatur* für die Regionalwahlen bestätigt.
+
+  Il faut renouveler sa *candidature* chaque année pour ce programme.
+  Man muss seine *Bewerbung* für dieses Programm jährlich erneuern.
+
+  Comment puis-je préparer ma *candidature* pour augmenter mes chances ?
+  Wie kann ich meine *Bewerbung* vorbereiten, um meine Chancen zu erhöhen?
+
+  Marie hésite encore à soumettre sa *candidature* pour ce poste.
+  Marie zögert noch, ihre *Bewerbung* für diese Stelle einzureichen.
+
+  Cette *candidature* surprise a bouleversé tous les pronostics.
+  Diese überraschende *Kandidatur* hat alle Prognosen durcheinandergebracht.
+
+  Le délai pour déposer votre *candidature* expire demain.
+  Die Frist für das Einreichen Ihrer *Bewerbung* läuft morgen ab.
+
+  Les électeurs n'ont pas pris sa *candidature* au sérieux.
+  Die Wähler haben seine *Kandidatur* nicht ernst genommen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

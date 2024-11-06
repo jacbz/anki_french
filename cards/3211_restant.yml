@@ -13,23 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle sera toujours là, pour le restant de mes jours.
-  Sie wird immer da sein, für den Rest meines Lebens.
+  Elle sera toujours là, pour le *restant* de mes jours.
+  Sie wird immer da sein, für den *Rest* meiner Tage.
 
-  Il ne reste que le restant.
-  Es bleibt nur noch der Rest übrig.
+  Le *restant* des provisions se trouve dans le frigo.
+  Der *Rest* der Vorräte befindet sich im Kühlschrank.
 
-  Il ne reste plus beaucoup de provisions dans le garde-manger, il faut aller faire des courses.
-  Die restlichen Vorräte im Vorratsraum sind nicht mehr viele, man muss einkaufen gehen.
+  Nous avons partagé la somme *restante* entre nous trois.
+  Wir haben den *verbleibenden* Betrag unter uns dreien aufgeteilt.
 
-  La grand-mère est le seul membre restant de la famille.
-  Die Großmutter ist das einzig verbleibende Familienmitglied.
+  J'ai utilisé le *restant* du tissu pour faire des masques.
+  Ich habe den *Rest* des Stoffes benutzt, um Masken zu machen.
 
-  Le restant de la journée sera consacré au travail, j'ai beaucoup à faire.
-  Der restliche Tag wird dem Arbeiten gewidmet sein, ich habe viel zu tun.
+  Marie est la seule personne *restante* de notre équipe initiale.
+  Marie ist die einzige *verbliebene* Person aus unserem ursprünglichen Team.
 
-  J'ai utilisé le restant de poulet pour faire une délicieuse soupe.
-  Ich habe den Hühnchenrest für eine köstliche Suppe verwendet.
+  Il faut ranger les exemplaires *restants* dans la bibliothèque.
+  Die *übrigen* Exemplare müssen in die Bibliothek eingeordnet werden.
+
+  Le *restant* de lumière suffisait à peine pour lire.
+  Das *restliche* Licht reichte kaum zum Lesen.
+
+  Les cent euros *restants* serviront à payer les factures.
+  Die *übrigen* hundert Euro werden für die Rechnungen verwendet.
+
+  Tu peux récupérer ton colis en poste *restante*.
+  Du kannst dein Paket *postlagernd* abholen.
+
+  Le seul membre *restant* de la famille habite à l'étranger.
+  Das einzig *verbleibende* Familienmitglied wohnt im Ausland.
+
+  Je garde le *restant* du poulet pour demain midi.
+  Ich hebe den *Rest* vom Hähnchen für morgen Mittag auf.
+
+  Nous profiterons du *restant* de la journée pour visiter la ville.
+  Wir werden den *Rest* des Tages nutzen, um die Stadt zu besichtigen.
+
+  Pierre a dépensé le *restant* de sa fortune en quelques mois.
+  Pierre hat den *Rest* seines Vermögens in wenigen Monaten ausgegeben.
+
+  Les trois places *restantes* seront vendues à moitié prix.
+  Die drei *übrigen* Plätze werden zum halben Preis verkauft.
+
+  Le courrier sera envoyé en poste *restante* à Nice.
+  Der Brief wird *postlagernd* nach Nizza geschickt.
+
+  J'ai remboursé le *restant* de mes dettes hier.
+  Ich habe gestern den *Rest* meiner Schulden zurückgezahlt.
+
+  Les cinq candidats *restants* passeront un dernier entretien.
+  Die fünf *verbleibenden* Kandidaten werden ein letztes Gespräch führen.
+
+  Le *restant* du gâteau est dans la cuisine.
+  Der *Rest* des Kuchens ist in der Küche.
+
+  Nous devons encore trier les papiers *restants*.
+  Wir müssen noch die *übrigen* Papiere sortieren.
+
+  Le seul héritier *restant* a tout vendu.
+  Der einzige *verbliebene* Erbe hat alles verkauft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,41 +13,107 @@ Register: ↘Fiktion ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ouvrez simplement un nouveau fichier.
-  Öffnen Sie einfach eine neue Datei.
+  Ouvrez simplement un nouveau *fichier*.
+  Öffnen Sie einfach eine neue *Datei*.
 
-  J’ai enregistré le document dans un fichier.
-  Ich habe das Dokument in einer Datei gespeichert.
+  J'ai perdu mon *fichier* de musique préféré.
+  Ich habe meine liebste Musik*datei* verloren.
 
-  Notre fichier de clients comporte plus de 10 000 entrées.
-  Unsere Kundenkartei umfasst mehr als 10 000 Einträge.
+  Le *fichier* graphique est trop volumineux pour être envoyé par e-mail.
+  Die Grafik*datei* ist zu groß, um per E-Mail verschickt zu werden.
 
-  Indiquez le nom du fichier que vous souhaitez ouvrir.
-  Geben Sie den Dateinamen der Datei ein, die Sie öffnen möchten.
+  La bibliothèque municipale a mis à jour son *fichier* des lecteurs.
+  Die Stadtbibliothek hat ihre Leser*kartei* aktualisiert.
 
-  Le fichier de prêt de la bibliothèque est informatisé.
-  Die Benutzerkartei der Bibliothek ist computergestützt.
+  Le *fichier* audio ne se joue plus correctement.
+  Die Audio*datei* wird nicht mehr richtig abgespielt.
 
-  Le fichier personnel de cet employé est confidentiel.
-  Die Personalkartei dieses Angestellten ist vertraulich.
+  N'oubliez pas de sauvegarder vos *fichiers* importants.
+  Vergessen Sie nicht, Ihre wichtigen *Dateien* zu sichern.
 
-  La police a consulté son fichier pour vérifier ses antécédents.
-  Die Polizei hat seine Akte eingesehen, um seine Vorstrafen zu überprüfen.
+  Le nom du *fichier* ne doit pas contenir de caractères spéciaux.
+  Der *Datei*name darf keine Sonderzeichen enthalten.
 
-  Ce logiciel permet de créer des fichiers graphiques de haute qualité.
-  Mit dieser Software lassen sich hochwertige Grafikdateien erstellen.
+  Le *fichier* système a été endommagé lors de la mise à jour.
+  Die System*datei* wurde beim Update beschädigt.
 
-  Le fichier primaire a été modifié par erreur.
-  Die Ursprungsdatei wurde versehentlich geändert.
+  Marie gère le *fichier* du personnel depuis dix ans.
+  Marie verwaltet seit zehn Jahren die Personal*kartei*.
 
-  Heureusement, j'avais sauvegardé le fichier avant le plantage de l'ordinateur.
-  Zum Glück hatte ich die Datei vor dem Absturz des Computers gesichert.
+  Le *fichier* vidéo est en cours de téléchargement.
+  Die Video*datei* wird gerade heruntergeladen.
 
-  Le fichier d'adresses contient les coordonnées de tous mes contacts.
-  Die Adressdatei enthält die Kontaktdaten all meiner Kontakte.
+  Nous devons mettre à jour le *fichier* des fournisseurs.
+  Wir müssen die Lieferanten*kartei* aktualisieren.
 
-  Consultez le fichier d'aide si vous rencontrez des difficultés.
-  Sehen Sie in der Hilfedatei nach, wenn Sie auf Schwierigkeiten stoßen.
+  Le *fichier* d'aide explique toutes les fonctionnalités.
+  Die Hilfe*datei* erklärt alle Funktionen.
+
+  As-tu sauvegardé le *fichier* avant de fermer l'ordinateur ?
+  Hast du die *Datei* gespeichert, bevor du den Computer ausgeschaltet hast?
+
+  Le *fichier* multimédia ne s'ouvre pas sur mon appareil.
+  Die Multimedia*datei* lässt sich auf meinem Gerät nicht öffnen.
+
+  Comment puis-je supprimer ce *fichier* ?
+  Wie kann ich diese *Datei* löschen?
+
+  Le *fichier* des clients est strictement confidentiel.
+  Die Kunden*kartei* ist streng vertraulich.
+
+  Tous les *fichiers* ont été transférés sur le nouveau serveur.
+  Alle *Dateien* wurden auf den neuen Server übertragen.
+
+  Le *fichier* son est corrompu après le transfert.
+  Die Sound*datei* ist nach der Übertragung beschädigt.
+
+  La police consulte régulièrement son *fichier* des suspects.
+  Die Polizei konsultiert regelmäßig ihre Verdächtigen*kartei*.
+
+  Le *fichier* de sauvegarde est créé automatiquement.
+  Die Sicherungs*datei* wird automatisch erstellt.
+
+  Pourriez-vous me passer le *fichier* Excel ?
+  Könnten Sie mir die Excel-*Datei* schicken?
+
+  Le *fichier* d'adresses doit être mis à jour chaque mois.
+  Die Adress*datei* muss jeden Monat aktualisiert werden.
+
+  J'ai retrouvé l'ancien *fichier* dans la corbeille.
+  Ich habe die alte *Datei* im Papierkorb wiedergefunden.
+
+  Le *fichier* des emprunts est consulté quotidiennement.
+  Die Ausleih*kartei* wird täglich eingesehen.
+
+  Ce *fichier* est protégé en lecture seule.
+  Diese *Datei* ist schreibgeschützt.
+
+  Le *fichier* objet est généré après la compilation.
+  Die Objekt*datei* wird nach der Kompilierung erstellt.
+
+  Nous avons perdu tout le *fichier* client suite à la panne.
+  Wir haben die gesamte Kunden*kartei* nach dem Ausfall verloren.
+
+  Le *fichier* bibliothèque contient toutes les références.
+  Die Bibliotheks*datei* enthält alle Referenzen.
+
+  Comment organiser ce *fichier* métallique ?
+  Wie soll ich diesen Metall*karteikasten* ordnen?
+
+  Le *fichier* central contient des milliers d'entrées.
+  Die Zentral*kartei* enthält tausende Einträge.
+
+  Le *fichier* primaire sert de base pour toutes les copies.
+  Die Ursprungs*datei* dient als Grundlage für alle Kopien.
+
+  Pierre a accidentellement effacé le *fichier* principal.
+  Pierre hat versehentlich die Haupt*datei* gelöscht.
+
+  Avez-vous vérifié le *fichier* des présences ?
+  Haben Sie die Anwesenheits*kartei* überprüft?
+
+  Le *fichier* informatique est accessible à distance.
+  Die Computer*datei* ist aus der Ferne zugänglich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

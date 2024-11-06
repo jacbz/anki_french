@@ -13,11 +13,38 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La russie n’est un pays ni asiatique ni européen.
-  Russland ist weder ein asiatisches noch ein europäisches Land.
+  La russie n'est un pays ni *asiatique* ni européen.
+  Russland ist weder ein *asiatisches* noch ein europäisches Land.
 
-  Mon ami est asiatique.
-  Mein Freund ist Asiate.
+  J'adore la cuisine *asiatique*, surtout les sushis et les nouilles.
+  Ich liebe *asiatisches* Essen, besonders Sushi und Nudeln.
+
+  Cette *Asiatique* a vécu en France pendant vingt ans.
+  Diese *Asiatin* hat zwanzig Jahre in Frankreich gelebt.
+
+  Le commerce avec les pays *asiatiques* ne cesse d'augmenter.
+  Der Handel mit *asiatischen* Ländern nimmt stetig zu.
+
+  Les tigres sont des félins d'origine *asiatique*.
+  Tiger sind Raubkatzen *asiatischer* Herkunft.
+
+  Un *Asiatique* m'a appris à faire des rouleaux de printemps.
+  Ein *Asiate* hat mir beigebracht, wie man Frühlingsrollen macht.
+
+  Le continent *asiatique* est le plus grand du monde.
+  Der *asiatische* Kontinent ist der größte der Welt.
+
+  La médecine traditionnelle *asiatique* utilise beaucoup de plantes.
+  Die traditionelle *asiatische* Medizin verwendet viele Pflanzen.
+
+  Les langues *asiatiques* sont très différentes des langues européennes.
+  Die *asiatischen* Sprachen unterscheiden sich stark von den europäischen.
+
+  Plusieurs pays *asiatiques* ont connu une croissance économique rapide.
+  Mehrere *asiatische* Länder haben ein schnelles Wirtschaftswachstum erlebt.
+
+  Les traditions *asiatiques* sont souvent mal comprises en Occident.
+  Die *asiatischen* Traditionen werden im Westen oft missverstanden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

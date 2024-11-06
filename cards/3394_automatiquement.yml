@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les résultats seront automatiquement enregistrés.
-  Die Ergebnisse werden automatisch gespeichert.
+  Les résultats seront *automatiquement* enregistrés.
+  Die Ergebnisse werden *automatisch* gespeichert.
 
-  Le système se met à jour automatiquement.
-  Das System aktualisiert sich automatisch.
+  Le système met *automatiquement* à jour les données toutes les heures.
+  Das System aktualisiert die Daten stündlich *automatisch*.
+
+  La porte s'est fermée *automatiquement* derrière moi.
+  Die Tür schloss sich *automatisch* hinter mir.
+
+  "Si tu refuses son invitation, *automatiquement*, elle ne t'invitera plus."
+  "Wenn du ihre Einladung ablehnst, wird sie dich *unweigerlich* nicht mehr einladen."
+
+  Le nouveau logiciel corrige *automatiquement* les fautes d'orthographe.
+  Die neue Software korrigiert Rechtschreibfehler *automatisch*.
+
+  "*Automatiquement*, il se met en colère quand on le contredit."
+  "*Automatisch* wird er wütend, wenn man ihm widerspricht."
+
+  Les lumières s'allument *automatiquement* dès qu'il fait sombre.
+  Die Lichter gehen *automatisch* an, sobald es dunkel wird.
+
+  Le thermostat régule *automatiquement* la température.
+  Der Thermostat regelt die Temperatur *automatisch*.
+
+  "*Automatiquement*, tu penses toujours au pire."
+  "Du denkst *automatisch* immer gleich ans Schlimmste."
+
+  Après cinq ans de service, elle a été promue *automatiquement*.
+  Nach fünf Dienstjahren wurde sie *automatisch* befördert.
+
+  Les factures sont *automatiquement* générées à la fin du mois.
+  Die Rechnungen werden am Monatsende *automatisch* erstellt.
+
+  Le programme sauvegarde *automatiquement* vos modifications.
+  Das Programm speichert Ihre Änderungen *automatisch*.
+
+  Les cookies sont *automatiquement* acceptés si vous continuez à naviguer.
+  Die Cookies werden *automatisch* akzeptiert, wenn Sie weitersurfen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

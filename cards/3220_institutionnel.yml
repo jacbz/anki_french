@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Là, plus aucun lieu institutionnel ne les protège.
-  Dort gibt es keinen institutionellen Ort mehr, der sie schützt.
+  Là, plus aucun lieu *institutionnel* ne les protège.
+  Hier schützt sie kein *institutioneller* Ort mehr.
 
-  Le cadre institutionnel de l’Union européenne.
-  Der institutionelle Rahmen der Europäischen Union.
+  La réforme *institutionnelle* a été adoptée à une large majorité.
+  Die *institutionelle* Reform wurde mit großer Mehrheit angenommen.
+
+  Les changements *institutionnels* doivent être mieux communiqués aux citoyens.
+  Die *institutionellen* Veränderungen müssen den Bürgern besser vermittelt werden.
+
+  Notre école pratique la pédagogie *institutionnelle* depuis plusieurs années.
+  Unsere Schule praktiziert seit mehreren Jahren *institutionelle* Pädagogik.
+
+  Les investisseurs *institutionnels* ont retiré leurs capitaux du marché.
+  Die *institutionellen* Anleger haben ihr Kapital vom Markt abgezogen.
+
+  La psychothérapie *institutionnelle* peut améliorer les relations dans le groupe.
+  Die *institutionelle* Psychotherapie kann die Beziehungen in der Gruppe verbessern.
+
+  L'analyse *institutionnelle* a révélé plusieurs dysfonctionnements dans l'organisation.
+  Die *institutionelle* Analyse hat mehrere Funktionsstörungen in der Organisation aufgedeckt.
+
+  Le cadre *institutionnel* fixe les règles de base pour tous les participants.
+  Der *institutionelle* Rahmen legt die Grundregeln für alle Teilnehmer fest.
+
+  Les *institutionnels* ont massivement investi dans les énergies renouvelables.
+  Die *institutionellen* Investoren haben massiv in erneuerbare Energien investiert.
+
+  Cette approche *institutionnelle* permet de mieux comprendre les dynamiques de groupe.
+  Dieser *institutionelle* Ansatz ermöglicht es, Gruppendynamiken besser zu verstehen.
+
+  Le développement *institutionnel* de l'Union européenne continue d'évoluer.
+  Die *institutionelle* Entwicklung der Europäischen Union schreitet weiter voran.
+
+  Les structures *institutionnelles* doivent s'adapter aux nouveaux défis.
+  Die *institutionellen* Strukturen müssen sich an neue Herausforderungen anpassen.
+
+  Le soutien *institutionnel* est essentiel pour la réussite du projet.
+  Die *institutionelle* Unterstützung ist wesentlich für den Erfolg des Projekts.
+
+  La stabilité *institutionnelle* contribue à la confiance des investisseurs.
+  Die *institutionelle* Stabilität trägt zum Vertrauen der Investoren bei.
+
+  Le système *institutionnel* doit être modernisé pour répondre aux attentes actuelles.
+  Das *institutionelle* System muss modernisiert werden, um den aktuellen Erwartungen zu entsprechen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

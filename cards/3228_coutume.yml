@@ -13,38 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La coutume est une seconde nature.
-  Gewohnheit ist eine zweite Natur.
+  La *coutume* est une seconde nature.
+  Die *Gewohnheit* ist eine zweite Natur.
 
-  Selon la coutume, on offre des cadeaux à Noël.
-  Nach Brauch und Sitte werden zu Weihnachten Geschenke gegeben.
+  Il a *coutume* de prendre son café sur la terrasse.
+  Er hat die *Gewohnheit*, seinen Kaffee auf der Terrasse zu trinken.
 
-  La coutume nationale est de manger des crêpes le jour de la Chandeleur.
-  Landesbrauch ist es, am Tag der Kerzenmesse Crêpes zu essen.
+  Cette *coutume* ancestrale est célébrée depuis des siècles.
+  Dieser alte *Brauch* wird seit Jahrhunderten gefeiert.
 
-  Les coutumes d'un peuple sont souvent liées à sa religion et à son histoire.
-  Die Sitten eines Volkes sind oft mit seiner Religion und seiner Geschichte verbunden.
+  "Une fois n'est pas *coutume*," dit-elle en commandant un dessert.
+  "Einmal ist keine *Gewohnheit*," sagte sie, als sie einen Nachtisch bestellte.
 
-  La coutume de carnaval est de se déguiser et de faire la fête dans les rues.
-  Karnevalsbrauch ist es, sich zu verkleiden und auf der Straße zu feiern.
+  Les *coutumes* de carnaval varient selon les régions.
+  Die Karnevals*bräuche* unterscheiden sich je nach Region.
 
-  C'est la coutume de dire "bonjour" quand on rencontre quelqu'un.
-  Das ist so üblich, dass man „Guten Tag“ sagt, wenn man jemanden trifft.
+  Comme de *coutume*, elle arrive dix minutes en avance.
+  Wie es ihre *Gewohnheit* ist, kommt sie zehn Minuten zu früh.
 
-  La coutume veut que les invités fassent un cadeau aux mariés, même si ce n'est pas obligatoire.
-  Es ist üblich, dass die Gäste dem Hochzeitspaar ein Geschenk machen, auch wenn es nicht Pflicht ist.
+  Cette *coutume* nationale remonte au Moyen Âge.
+  Dieser Landes*brauch* geht auf das Mittelalter zurück.
 
-  J'ai coutume de boire une tasse de café tous les matins.
-  Ich bin es gewohnt, jeden Morgen eine Tasse Kaffee zu trinken.
+  La préservation des *coutumes* est importante pour notre identité.
+  Die Pflege der *Bräuche* ist wichtig für unsere Identität.
 
-  Comme de coutume, la réunion a commencé par un discours du président.
-  Wie üblich, begann die Sitzung mit einer Rede des Präsidenten.
+  Les *coutumes* locales fascinent toujours les touristes.
+  Die örtlichen *Bräuche* faszinieren die Touristen immer wieder.
 
-  Il y a eu plus de participants que de coutume à la conférence cette année.
-  Es waren dieses Jahr mehr Teilnehmer als üblich an der Konferenz.
+  Il travaille plus que de *coutume* cette semaine.
+  Er arbeitet diese Woche mehr als *gewöhnlich*.
 
-  La préservation des coutumes est importante pour la transmission du patrimoine culturel.
-  Die Brauchtumspflege ist wichtig für die Übertragung des kulturellen Erbes.
+  La *coutume* veut qu'on retire ses chaussures en entrant.
+  Es ist *Sitte*, dass man beim Eintreten die Schuhe auszieht.
+
+  Les jeunes s'éloignent des anciennes *coutumes*.
+  Die Jugendlichen entfernen sich von den alten *Bräuchen*.
+
+  Cette *coutume* s'est perdue au fil du temps.
+  Diese *Sitte* ist im Laufe der Zeit verloren gegangen.
+
+  J'ai *coutume* de me lever tôt le dimanche.
+  Ich habe die *Gewohnheit*, sonntags früh aufzustehen.
+
+  La *coutume* de se serrer la main disparaît peu à peu.
+  Der *Brauch* des Händeschüttelns verschwindet nach und nach.
+
+  Chaque pays a ses propres *coutumes*.
+  Jedes Land hat seine eigenen *Sitten*.
+
+  Cette *coutume* est fort répandue en Europe.
+  Dieser *Brauch* ist in Europa weit verbreitet.
+
+  Les *coutumes* du mariage diffèrent selon les cultures.
+  Die Hochzeits*bräuche* unterscheiden sich je nach Kultur.
+
+  Il est moins bavard que de *coutume* aujourd'hui.
+  Er ist heute weniger gesprächig als *gewöhnlich*.
+
+  La *coutume* d'échanger des cadeaux à Noël persiste.
+  Der *Brauch*, zu Weihnachten Geschenke auszutauschen, besteht fort.
+
+  Les *coutumes* alimentaires varient d'un pays à l'autre.
+  Die Ess*sitten* unterscheiden sich von Land zu Land.
+
+  Cette *coutume* désuète a presque disparu.
+  Dieser veraltete *Brauch* ist fast verschwunden.
+
+  Nous respectons toujours cette vieille *coutume* familiale.
+  Wir respektieren immer noch diesen alten Familien*brauch*.
+
+  Selon la *coutume*, les invités apportent un petit cadeau.
+  Der *Sitte* entsprechend bringen die Gäste ein kleines Geschenk mit.
+
+  Elle suit les *coutumes* locales avec respect.
+  Sie befolgt die örtlichen *Bräuche* respektvoll.
+
+  Cette *coutume* barbare a été interdite.
+  Dieser barbarische *Brauch* wurde verboten.
+
+  La nouvelle génération crée ses propres *coutumes*.
+  Die neue Generation schafft ihre eigenen *Bräuche*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

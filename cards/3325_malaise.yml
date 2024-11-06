@@ -13,20 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les malaises sont souvent soulagés par le rire.
-  Unwohlsein wird oft durch Lachen gelindert.
+  Les *malaises* sont souvent soulagés par le rire.
+  Das *Unwohlsein* wird oft durch Lachen gelindert.
 
-  Il ressent un malaise depuis ce matin.
-  Er fühlt sich seit heute Morgen unwohl.
+  Pendant son exposé, elle a eu un *malaise* et s'est effondrée.
+  Während ihres Vortrags hatte sie einen *Schwächeanfall* und brach zusammen.
 
-  Il a eu un malaise et s'est écroulé sur le sol.
-  Er ist ohnmächtig geworden und ist auf den Boden gefallen.
+  Le *malaise* social s'est aggravé après l'annonce des nouvelles mesures.
+  Die soziale *Unzufriedenheit* hat sich nach der Ankündigung der neuen Maßnahmen verschärft.
 
-  Le malaise politique est un sujet de discussion constant dans les médias.
-  Die politischen Missstände sind ein ständiges Thema in den Medien.
+  Un léger *malaise* m'a forcé à m'asseoir quelques minutes.
+  Ein leichtes *Unwohlsein* zwang mich, mich für einige Minuten zu setzen.
 
-  Le malaise étudiant est palpable, de nombreux étudiants se sentent délaissés par le gouvernement.
-  Die Unzufriedenheit der Studenten ist spürbar, viele Studenten fühlen sich vom Staat vernachlässigt.
+  Le *malaise* des enseignants se manifeste par des grèves régulières.
+  Die *Unzufriedenheit* der Lehrer äußert sich in regelmäßigen Streiks.
+
+  Ces révélations ont provoqué un profond *malaise* dans l'assistance.
+  Diese Enthüllungen lösten tiefes *Unbehagen* im Publikum aus.
+
+  Un *malaise* cardiaque l'a surpris en pleine réunion.
+  Ein *Herzanfall* überraschte ihn mitten in der Besprechung.
+
+  Le *malaise* entre les deux collègues était palpable.
+  Das *Unbehagen* zwischen den beiden Kollegen war spürbar.
+
+  Son *malaise* passager n'a duré que quelques secondes.
+  Sein vorübergehendes *Unwohlsein* dauerte nur wenige Sekunden.
+
+  Le *malaise* paysan s'est intensifié ces dernières années.
+  Die *Unzufriedenheit* der Bauern hat sich in den letzten Jahren verstärkt.
+
+  Un sentiment de *malaise* l'envahit en entrant dans la pièce sombre.
+  Ein Gefühl von *Unbehagen* überkam sie beim Betreten des dunklen Raums.
+
+  Les pompiers sont intervenus suite à un *malaise* dans le métro.
+  Die Feuerwehr wurde wegen eines *Schwächeanfalls* in der U-Bahn gerufen.
+
+  Ce *malaise* politique persiste depuis plusieurs mois.
+  Diese politische *Krise* hält seit mehreren Monaten an.
+
+  Elle a ressenti un léger *malaise* à cause de la chaleur.
+  Sie verspürte ein leichtes *Unwohlsein* wegen der Hitze.
+
+  Le *malaise* général s'est dissipé après les explications du directeur.
+  Das allgemeine *Unbehagen* verflüchtigte sich nach den Erklärungen des Direktors.
+
+  Un *malaise* subit l'a forcée à quitter la salle.
+  Ein plötzlicher *Schwächeanfall* zwang sie, den Saal zu verlassen.
+
+  Le *malaise* des jeunes face à leur avenir inquiète les experts.
+  Die *Verunsicherung* der Jugendlichen bezüglich ihrer Zukunft beunruhigt die Experten.
+
+  Ces symptômes peuvent annoncer un *malaise* vagal.
+  Diese Symptome können einen *Kreislaufkollaps* ankündigen.
+
+  Le *malaise* étudiant s'exprime à travers des manifestations.
+  Die studentische *Unzufriedenheit* äußert sich in Demonstrationen.
+
+  Un profond *malaise* règne dans l'entreprise depuis la restructuration.
+  Seit der Umstrukturierung herrscht tiefes *Unbehagen* im Unternehmen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

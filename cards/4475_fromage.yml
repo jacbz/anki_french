@@ -13,65 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je n’ai jamais vraiment aimé les fromages.
-  Ich habe Käse nie wirklich gemocht.
+  Je n'ai jamais vraiment aimé les *fromages*.
+  Ich habe *Käse* noch nie wirklich gemocht.
 
-  Je voudrais acheter du fromage.
-  Ich möchte Käse kaufen.
+  Le *fromage* blanc est excellent pour faire des gâteaux.
+  *Quark* ist hervorragend zum Kuchenbacken.
 
-  Je voudrais un morceau de fromage.
-  Ich möchte ein Stück Käse.
+  Marie adore le *fromage* de chèvre sur sa salade.
+  Marie liebt Ziegen*käse* auf ihrem Salat.
 
-  Le fromage est fait avec du lait.
-  Käse wird aus Milch hergestellt.
+  Ce *fromage* est tellement fait qu'il sent très fort.
+  Dieser *Käse* ist so reif, dass er sehr stark riecht.
 
-  Ils ont fait un fromage de la visite du président.
-  Sie haben aus dem Besuch des Präsidenten eine Staatsaktion gemacht.
+  Le *fromage* frais se conserve moins longtemps que le *fromage* fermenté.
+  Frisch*käse* hält sich nicht so lange wie Sauermilch*käse*.
 
-  Il a trouvé un bon fromage dans une petite ville.
-  Er hat einen ruhigen Posten in einer kleinen Stadt gefunden.
+  As-tu vu mon couteau à *fromage* ? Je ne le trouve plus.
+  Hast du mein *Käse*messer gesehen? Ich finde es nicht mehr.
 
-  J'aime le fromage blanc à la crème avec du miel.
-  Ich mag Sahnequark mit Honig.
+  Pour l'apéritif, j'ai préparé du gâteau au *fromage*.
+  Für den Aperitif habe ich *Käse*kuchen vorbereitet.
 
-  Ce fromage fait est parfait pour la fondue.
-  Dieser reife Käse ist perfekt für die Fondue.
+  "Il a fait tout un *fromage* de cette petite erreur !"
+  "Er hat aus diesem kleinen Fehler einen *Elefanten* gemacht!"
 
-  Le fromage fermenté est délicieux sur des craquelins.
-  Sauermilchkäse schmeckt köstlich auf Crackern.
+  La France produit plus de mille variétés de *fromages*.
+  Frankreich produziert über tausend *Käse*sorten.
 
-  J'aime le fromage fondu avec des pommes de terre.
-  Ich mag Schmelzkäse mit Kartoffeln.
+  Le *fromage* fondu est parfait pour la raclette.
+  Schmelz*käse* ist perfekt für Raclette.
 
-  Le fromage gras est parfait pour les pizzas.
-  Vollfettkäse ist perfekt für Pizzen.
+  Nous avons dégusté un excellent *fromage* de brebis des Pyrénées.
+  Wir haben einen ausgezeichneten Schafs*käse* aus den Pyrenäen probiert.
 
-  Le fromage maigre est plus sain que le fromage gras.
-  Magerkäse ist gesünder als Vollfettkäse.
+  Cette cloche à *fromage* protège parfaitement contre les odeurs.
+  Diese *Käse*glocke schützt perfekt vor Gerüchen.
 
-  J'aime le fromage à pâte dure avec du vin rouge.
-  Ich mag Hartkäse mit Rotwein.
+  C'est entre la poire et le *fromage* qu'il nous a annoncé la nouvelle.
+  Er hat uns die Neuigkeit beim gemütlichen Teil des Essens mitgeteilt.
 
-  Le fromage à pâte molle est parfait pour les sandwiches.
-  Weichkäse ist perfekt für Sandwiches.
+  Le *fromage* à pâte molle coule déjà à température ambiante.
+  Weich*käse* wird schon bei Zimmertemperatur flüssig.
 
-  Le fromage à tartiner est délicieux sur du pain.
-  Streichkäse schmeckt köstlich auf Brot.
+  "Il s'est trouvé un bon *fromage* dans cette entreprise."
+  "Er hat sich einen *gemütlichen Posten* in dieser Firma ergattert."
 
-  Le fromage de brebis est un fromage traditionnel français.
-  Schafkäse ist ein traditioneller französischer Käse.
+  Le plateau de *fromages* arrive toujours après le plat principal.
+  Die *Käse*platte kommt immer nach dem Hauptgang.
 
-  Le fromage de chèvre est un fromage crémeux et délicieux.
-  Ziegenkäse ist ein cremiger und köstlicher Käse.
+  Ce *fromage* maigre contient très peu de matières grasses.
+  Dieser Mager*käse* enthält sehr wenig Fett.
 
-  J'utilise un couteau à fromage pour couper le fromage.
-  Ich benutze ein Käsemesser, um Käse zu schneiden.
+  Je préfère le *fromage* à tartiner sur mon pain le matin.
+  Ich mag Streich*käse* lieber auf meinem Brot am Morgen.
 
-  Le biscuit au fromage est un dessert classique.
-  Käsegebäck ist ein klassisches Dessert.
+  La fabrication du *fromage* est un art millénaire.
+  Die *Käse*herstellung ist eine jahrtausendealte Kunst.
 
-  Le gâteau au fromage est un dessert délicieux et populaire.
-  Käsekuchen ist ein köstliches und beliebtes Dessert.
+  Le *fromage* demi-sel est parfait pour les régimes pauvres en sel.
+  Halb gesalzener *Käse* ist perfekt für salzarme Diäten.
+
+  L'affinage du *fromage* peut durer plusieurs mois.
+  Die *Käse*reifung kann mehrere Monate dauern.
+
+  Le *fromage* blanc à la crème est plus onctueux que le normal.
+  Sahne*quark* ist cremiger als normaler Quark.
+
+  Un bon *fromage* de tête doit être bien assaisonné.
+  Ein guter Schweinskopf*sülz* muss gut gewürzt sein.
+
+  "Cette administration est un vrai *fromage* pour les employés."
+  "Diese Verwaltung ist eine richtige *Goldgrube* für die Angestellten."
+
+  Le *fromage* à pâte persillée est reconnaissable à ses moisissures bleues.
+  Blau*käse* erkennt man an seinem blauen Schimmel.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

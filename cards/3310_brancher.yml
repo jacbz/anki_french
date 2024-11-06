@@ -13,32 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils n’étaient pas branchés sur le réseau.
-  Sie waren nicht an das Netzwerk angeschlossen.
+  Ils n'étaient pas *branchés* sur le réseau.
+  Sie waren nicht ans Netz *angeschlossen*.
 
-  Je vais brancher la télé.
-  Ich werde den Fernseher anschließen.
+  N'oublie pas de *brancher* le four avant de commencer à cuisiner.
+  Vergiss nicht, den Ofen *anzuschließen*, bevor du mit dem Kochen anfängst.
 
-  Il faut brancher la fiche dans la prise pour allumer la lampe.
-  Man muss den Stecker in die Steckdose stecken, um die Lampe einzuschalten.
+  Je dois *brancher* mon ordinateur portable, la batterie est presque vide.
+  Ich muss meinen Laptop *einstecken*, der Akku ist fast leer.
 
-  Je me suis branché sur la nouvelle que j'avais lue dans le journal.
-  Ich habe mich auf die Neuigkeit eingelassen, die ich im Zeitungsartikel gelesen habe.
+  "Cette nouvelle série me *branche* vraiment !"
+  "Diese neue Serie *macht* mich echt *an*!"
 
-  Après avoir parlé de la météo, nous avons branché la conversation sur un autre sujet.
-  Nachdem wir über das Wetter gesprochen hatten, haben wir die Unterhaltung auf ein anderes Thema gebracht.
+  Marie a *branché* la conversation sur ses vacances.
+  Marie hat das Gespräch auf ihre Ferien *gelenkt*.
 
-  Le projet de faire un voyage en Italie me branche vraiment.
-  Die Idee, eine Reise nach Italien zu machen, finde ich super.
+  Le technicien va *brancher* le lave-vaisselle demain matin.
+  Der Techniker wird morgen früh die Spülmaschine *anschließen*.
 
-  Il faut brancher le téléphone sur le réseau pour pouvoir téléphoner.
-  Man muss das Telefon an das Netz anschließen, um telefonieren zu können.
+  "Il m'a *branché* à la soirée hier."
+  "Er hat mich gestern auf der Party *angesprochen*."
 
-  La télé n'est pas branchée, c'est pourquoi il n'y a pas d'image.
-  Der Fernseher ist nicht angeschlossen, deshalb ist kein Bild zu sehen.
+  Cette musique ne me *branche* pas du tout.
+  Diese Musik *gefällt* mir überhaupt nicht.
 
-  Ta proposition me branche, j'ai envie de participer au projet.
-  Deinen Vorschlag finde ich super, ich möchte an dem Projekt teilnehmen.
+  Il faut *brancher* la prise USB dans le bon sens.
+  Man muss den USB-Stecker richtig herum *einstecken*.
+
+  "Tu es *branché* sur quoi en ce moment ?"
+  "Wofür *interessierst* du dich zurzeit?"
+
+  Le plombier doit *brancher* la machine à laver.
+  Der Klempner muss die Waschmaschine *anschließen*.
+
+  Les étudiants sont tous *branchés* sur leurs portables pendant le cours.
+  Die Studenten sind während des Unterrichts alle an ihre Handys *angeschlossen*.
+
+  "Ça te *branche* d'aller au cinéma ce soir ?"
+  "*Hast* du *Lust*, heute Abend ins Kino zu gehen?"
+
+  Paul a *branché* son ami sur un nouveau projet.
+  Paul hat seinen Freund für ein neuses Projekt *begeistert*.
+
+  Je ne peux pas utiliser mon téléphone, il n'est pas *branché*.
+  Ich kann mein Telefon nicht benutzen, es ist nicht *eingesteckt*.
+
+  "Cette fille, elle me *branche* pas du tout."
+  "Dieses Mädchen *interessiert* mich überhaupt nicht."
+
+  N'oubliez pas de *brancher* le micro avant la présentation.
+  Vergessen Sie nicht, das Mikrofon vor der Präsentation *anzuschließen*.
+
+  Il s'est *branché* sur une nouvelle chaîne de podcast.
+  Er hat sich einen neuen Podcast-Kanal *eingeschaltet*.
+
+  "Je suis complètement *branché* sur la cuisine japonaise en ce moment."
+  "Ich bin momentan total auf japanisches Essen *fixiert*."
+
+  Le climatiseur doit être *branché* sur une prise spéciale.
+  Die Klimaanlage muss an eine spezielle Steckdose *angeschlossen* werden.
+
+  "Comment *brancher* la conversation sur ce sujet délicat ?"
+  "Wie kann ich das Gespräch auf dieses heikle Thema *lenken*?"
+
+  Lucas a *branché* tous ses amis sur ce nouveau jeu vidéo.
+  Lucas hat alle seine Freunde für dieses neue Videospiel *begeistert*.
+
+  Elle a *branché* sa tablette sur le projecteur.
+  Sie hat ihr Tablet an den Projektor *angeschlossen*.
+
+  "Cette proposition ne me *branche* pas vraiment."
+  "Dieser Vorschlag *spricht* mich nicht wirklich *an*."
+
+  Peux-tu *brancher* l'imprimante au réseau wifi ?
+  Kannst du den Drucker ans WLAN *anschließen*?
+
+  L'électricien va *brancher* les nouveaux câbles demain.
+  Der Elektriker wird morgen die neuen Kabel *anschließen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

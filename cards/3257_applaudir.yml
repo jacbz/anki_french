@@ -13,20 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il voudrait que nous applaudissions son discours.
-  Er möchte, dass wir seiner Rede applaudieren.
+  Il voudrait que nous *applaudissions* son discours.
+  Er möchte, dass wir seiner Rede *applaudieren*.
 
-  Le public a applaudi à la fin du spectacle.
-  Das Publikum hat am Ende der Vorstellung applaudiert.
+  Le public a *applaudi* pendant dix minutes.
+  Das Publikum hat zehn Minuten lang *geklatscht*.
 
-  Les spectateurs ont applaudi à tout rompre après le concert.
-  Die Zuschauer haben tosenden Beifall gespendet nach dem Konzert.
+  Les spectateurs *applaudissaient* à tout rompre après le concert.
+  Die Zuschauer *spendeten* nach dem Konzert *tosenden Beifall*.
 
-  Le public a applaudi l'artiste pour sa performance exceptionnelle.
-  Das Publikum hat dem Künstler für seine außergewöhnliche Leistung applaudiert.
+  Marie s'est *applaudie* d'avoir pris cette décision.
+  Marie hat sich zu ihrer Entscheidung *beglückwünscht*.
 
-  La foule a applaudi l'idée du maire.
-  Die Menge hat der Idee des Bürgermeisters Beifall gespendet.
+  Tout le monde *applaudit* la chanteuse quand elle monte sur scène.
+  Alle *applaudieren* der Sängerin, wenn sie die Bühne betritt.
+
+  Je m'*applaudis* de t'avoir écouté.
+  Ich *beglückwünsche* mich dazu, auf dich gehört zu haben.
+
+  Les critiques ont beaucoup *applaudi* ce nouveau film.
+  Die Kritiker haben den neuen Film sehr *bejubelt*.
+
+  Les enfants *applaudissent* des deux mains quand le clown apparaît.
+  Die Kinder *klatschen* begeistert, als der Clown erscheint.
+
+  Nous *applaudissons* à votre initiative.
+  Wir *begrüßen* Ihre Initiative.
+
+  La foule *applaudissait* pendant que l'équipe faisait son tour d'honneur.
+  Die Menge *klatschte*, während die Mannschaft ihre Ehrenrunde drehte.
+
+  Son dernier roman a été très *applaudi* par la critique.
+  Sein letzter Roman wurde von den Kritikern sehr *gefeiert*.
+
+  Les employés *applaudissent* la décision de leur patron.
+  Die Mitarbeiter *begrüßen* die Entscheidung ihres Chefs.
+
+  Personne n'a *applaudi* à la fin du spectacle.
+  Niemand hat am Ende der Vorstellung *geklatscht*.
+
+  Je ne peux pas *applaudir* à cette proposition absurde.
+  Ich kann diesem absurden Vorschlag nicht *zustimmen*.
+
+  Les députés ont *applaudi* le Premier ministre pendant son discours.
+  Die Abgeordneten haben dem Premierminister während seiner Rede *applaudiert*.
+
+  Elle s'*applaudit* d'avoir eu la patience d'attendre.
+  Sie *beglückwünscht* sich dazu, die Geduld zum Warten gehabt zu haben.
+
+  Les journalistes ont *applaudi* sa réponse courageuse.
+  Die Journalisten haben seine mutige Antwort *bejubelt*.
+
+  Tout le monde *applaudira* quand tu recevras ton diplôme.
+  Alle werden *klatschen*, wenn du dein Diplom erhältst.
+
+  Les supporters *applaudissent* chaque but de leur équipe.
+  Die Fans *bejubeln* jedes Tor ihrer Mannschaft.
+
+  Le jury a *applaudi* sa performance exceptionnelle.
+  Die Jury hat seine außergewöhnliche Leistung mit *Beifall* bedacht.
+
+  Nous nous *applaudissons* de ce résultat inattendu.
+  Wir *beglückwünschen* uns zu diesem unerwarteten Ergebnis.
+
+  Les spectateurs *applaudissaient* debout à la fin de la pièce.
+  Die Zuschauer *spendeten* am Ende des Stücks stehend *Beifall*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

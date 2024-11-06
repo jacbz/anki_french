@@ -13,26 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous traversez maintenant une frontière invisible.
-  Sie überqueren nun eine unsichtbare Grenze.
+  Vous traversez maintenant une frontière *invisible*.
+  Sie überqueren jetzt eine *unsichtbare* Grenze.
 
-  L’homme invisible est un personnage de fiction.
-  Der Unsichtbare ist eine fiktive Figur.
+  Cette bactérie est *invisible* à l'œil nu.
+  Dieses Bakterium ist mit bloßem Auge *unsichtbar*.
 
-  L’air est invisible.
-  Luft ist unsichtbar.
+  Les nuages épais ont rendu la lune *invisible* cette nuit.
+  Die dicken Wolken haben den Mond heute Nacht *unsichtbar* gemacht.
 
-  Le virus, invisible à l'œil nu, est à l'origine de la pandémie.
-  Das Virus, mit dem bloßen Auge nicht erkennbar, ist die Ursache für die Pandemie.
+  Comment protéger les enfants contre les dangers *invisibles* d'Internet ?
+  Wie können wir Kinder vor den *nicht erkennbaren* Gefahren des Internets schützen?
 
-  L'invisible est parfois plus puissant que le visible.
-  Das Unsichtbare ist manchmal mächtiger als das Sichtbare.
+  Une force *invisible* nous attire l'un vers l'autre.
+  Eine *unsichtbare* Kraft zieht uns zueinander.
 
-  Le député invisible ne répond jamais aux questions des journalistes.
-  Der Abgeordnete, der nie anzutreffen ist, antwortet nie auf Fragen der Journalisten.
+  Le directeur est *invisible* depuis trois jours.
+  Der Direktor lässt sich seit drei Tagen *nicht mehr blicken*.
 
-  Il est devenu invisible après le scandale.
-  Er hat sich nicht mehr blicken lassen, nachdem der Skandal ausbrach.
+  La pollution de l'air est *invisible* mais très dangereuse.
+  Die Luftverschmutzung ist *unsichtbar*, aber sehr gefährlich.
+
+  Notre collègue Thomas est devenu *invisible* depuis sa promotion.
+  Unser Kollege Thomas ist seit seiner Beförderung *nicht mehr anzutreffen*.
+
+  L'*invisible* nous fascine depuis toujours.
+  Das *Unsichtbare* fasziniert uns seit jeher.
+
+  La côte était complètement *invisible* dans le brouillard.
+  Die Küste war im Nebel völlig *unsichtbar*.
+
+  Ces particules sont *invisibles*, mais elles affectent notre santé.
+  Diese Teilchen sind *unsichtbar*, beeinflussen aber unsere Gesundheit.
+
+  Une menace *invisible* pèse sur notre entreprise.
+  Eine *nicht erkennbare* Bedrohung lastet auf unserem Unternehmen.
+
+  Marie se sent *invisible* dans son nouveau travail.
+  Marie fühlt sich an ihrem neuen Arbeitsplatz *unsichtbar*.
+
+  Le WiFi est *invisible* mais présent partout.
+  WLAN ist *unsichtbar*, aber überall vorhanden.
+
+  Cette étoile est *invisible* depuis l'hémisphère nord.
+  Dieser Stern ist von der Nordhalbkugel aus *unsichtbar*.
+
+  Notre député est devenu *invisible* depuis les élections.
+  Unser Abgeordneter ist seit der Wahl *nicht mehr anzutreffen*.
+
+  Les ondes radio sont *invisibles* mais transportent nos messages.
+  Radiowellen sind *unsichtbar*, tragen aber unsere Nachrichten.
+
+  Le stress cause des dommages *invisibles* à notre corps.
+  Stress verursacht *unsichtbare* Schäden in unserem Körper.
+
+  Les vraies intentions de Pierre restaient *invisibles*.
+  Pierres wahre Absichten blieben *nicht erkennbar*.
+
+  La face cachée de la Lune reste *invisible* depuis la Terre.
+  Die dunkle Seite des Mondes bleibt von der Erde aus *unsichtbar*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

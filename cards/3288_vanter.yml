@@ -13,23 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis con et je m’en vante.
-  Ich bin dumm und gebe damit an.
+  "Je suis con et je m'en *vante*."
+  "Ich bin ein Idiot und *prahle* auch noch damit."
 
-  Il aime se vanter de ses réussites.
-  Er mag es, sich über seine Erfolge zu rühmen.
+  Elle *vante* toujours les mérites de sa nouvelle voiture.
+  Sie *preist* ständig die Vorzüge ihres neuen Autos *an*.
 
-  La grand-mère de Pierre a toujours recours à un remède dont les mérites sont très vantés pour soigner le rhume.
-  Die Großmutter von Peter greift bei Erkältungen immer auf ein viel gepriesenes Heilmittel zurück.
+  Je ne veux pas me *vanter*, mais j'ai gagné tous les matchs.
+  Ohne *prahlen* zu wollen, aber ich habe alle Spiele gewonnen.
 
-  Le jeune homme se vantait de ses talents de musicien.
-  Der junge Mann rühmte sich seiner musikalischen Fähigkeiten.
+  Le vendeur *vantait* les qualités exceptionnelles de ce produit.
+  Der Verkäufer *pries* die außergewöhnlichen Eigenschaften dieses Produkts *an*.
 
-  Sans vouloir me vanter, j'ai réussi à résoudre le problème en quelques minutes.
-  Ohne mich rühmen zu wollen, habe ich das Problem in wenigen Minuten gelöst.
+  "Il se *vante* tout le temps de ses exploits sportifs."
+  "Er *prahlt* ständig mit seinen sportlichen Leistungen."
 
-  Il n'y a pas de quoi se vanter, tu as simplement eu de la chance.
-  Das ist wirklich kein Grund, stolz zu sein, du hattest einfach Glück.
+  Cette publicité *vante* les bienfaits des produits bio.
+  Diese Werbung *preist* die Vorteile von Bio-Produkten *an*.
+
+  Sans me *vanter*, je suis plutôt doué en mathématiques.
+  Ohne mich *rühmen* zu wollen, ich bin ziemlich gut in Mathe.
+
+  Les critiques ont beaucoup *vanté* ce nouveau film.
+  Die Kritiker haben diesen neuen Film sehr *gelobt*.
+
+  Il n'y a vraiment pas de quoi se *vanter* !
+  Das ist wirklich kein Grund zu *prahlen*!
+
+  Marie *vante* toujours les talents culinaires de sa grand-mère.
+  Marie *lobt* immer die Kochkünste ihrer Großmutter in den höchsten Tönen.
+
+  Le guide touristique *vantait* les beautés de la région.
+  Der Reiseführer *pries* die Schönheiten der Region.
+
+  Il s'est *vanté* d'avoir résolu le problème tout seul.
+  Er hat damit *geprahlt*, das Problem alleine gelöst zu haben.
+
+  La brochure *vante* les avantages de cette destination.
+  Die Broschüre *preist* die Vorzüge dieses Reiseziels *an*.
+
+  Tout le monde *vante* ses qualités de leader.
+  Alle *loben* seine Führungsqualitäten in den höchsten Tönen.
+
+  "Tu te *vantes* toujours de tes bonnes notes !"
+  "Du *prahlst* immer mit deinen guten Noten!"
+
+  Les médecins ont *vanté* l'efficacité de ce traitement.
+  Die Ärzte haben die Wirksamkeit dieser Behandlung *gepriesen*.
+
+  Elle ne s'est jamais *vantée* de sa réussite.
+  Sie hat nie mit ihrem Erfolg *geprahlt*.
+
+  Cette entreprise *vante* la qualité de ses services.
+  Dieses Unternehmen *preist* die Qualität seiner Dienstleistungen *an*.
+
+  Pierre se *vante* de pouvoir parler cinq langues.
+  Pierre *rühmt* sich damit, fünf Sprachen sprechen zu können.
+
+  Les journaux ont *vanté* ses talents d'artiste.
+  Die Zeitungen haben ihre künstlerischen Fähigkeiten *gepriesen*.
+
+  Ce restaurant très *vanté* ne m'a pas vraiment impressionné.
+  Dieses viel *gepriesene* Restaurant hat mich nicht wirklich beeindruckt.
+
+  Il aime se *vanter* de ses voyages exotiques.
+  Er *prahlt* gerne mit seinen exotischen Reisen.
+
+  La presse *vante* les mérites de cette nouvelle technologie.
+  Die Presse *preist* die Vorzüge dieser neuen Technologie.
+
+  Nos concurrents se *vantent* d'être les meilleurs du marché.
+  Unsere Konkurrenten *rühmen* sich damit, die Besten auf dem Markt zu sein.
+
+  Le poète *vante* la beauté de la nature dans ses vers.
+  Der Dichter *preist* die Schönheit der Natur in seinen Versen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

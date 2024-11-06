@@ -13,17 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On devrait les mettre en cage et faire payer l’entrée.
-  Man sollte sie in Käfige sperren und Eintritt verlangen.
+  On devrait les mettre en *cage* et faire payer l'entrée.
+  Man sollte sie in einen *Käfig* sperren und Eintritt verlangen.
 
-  Le perroquet est dans sa cage.
-  Der Papagei ist in seinem Käfig.
+  Les enfants ont acheté une *cage* pour leur nouveau hamster.
+  Die Kinder haben einen *Käfig* für ihren neuen Hamster gekauft.
 
-  Les lions rugissaient dans leur cage aux fauves.
-  Die Löwen brüllten in ihrem Raubtierkäfig.
+  Le gardien de but a plongé pour défendre sa *cage*.
+  Der Torwart ist gesprungen, um sein *Tor* zu verteidigen.
 
-  Le médecin a examiné la cage thoracique du patient.
-  Der Arzt untersuchte den Brustkorb des Patienten.
+  La *cage* thoracique protège les organes vitaux comme le cœur et les poumons.
+  Der *Brust*korb schützt lebenswichtige Organe wie Herz und Lunge.
+
+  Le perroquet refuse de retourner dans sa *cage*.
+  Der Papagei weigert sich, in seinen *Käfig* zurückzugehen.
+
+  "Cette *cage* à lapins est vraiment trop petite pour nous quatre !"
+  "Dieser *Kaninchenkäfig* ist wirklich zu klein für uns vier!"
+
+  Mon chat fixe la *cage* des perruches avec beaucoup d'intérêt.
+  Meine Katze starrt den *Käfig* der Wellensittiche sehr interessiert an.
+
+  Les techniciens réparent la *cage* d'ascenseur depuis ce matin.
+  Die Techniker reparieren den Aufzugs*schacht* seit heute Morgen.
+
+  Elle vit dans une *cage* dorée : tout ce luxe, mais aucune liberté.
+  Sie lebt in einem goldenen *Käfig*: der ganze Luxus, aber keine Freiheit.
+
+  Le lion tourne dans sa *cage* comme un fou.
+  Der Löwe läuft wie verrückt in seinem *Käfig* herum.
+
+  La *cage* de Faraday nous protège des interférences électromagnétiques.
+  Der Faraday'sche *Käfig* schützt uns vor elektromagnetischen Störungen.
+
+  Les poissons grandissent dans une *cage* sous-marine.
+  Die Fische wachsen in einem Unterwasser*käfig* heran.
+
+  La balle a touché le poteau de la *cage*.
+  Der Ball hat den *Tor*pfosten getroffen.
+
+  Les oiseaux chantent dans leur *cage* en osier.
+  Die Vögel singen in ihrem Weiden*käfig*.
+
+  Marie nettoie la *cage* des souris tous les jours.
+  Marie reinigt den Mäuse*käfig* jeden Tag.
+
+  La *cage* d'escalier résonne de leurs pas.
+  Das Treppen*haus* hallt von ihren Schritten wider.
+
+  Le dompteur entre dans la *cage* aux lions sans peur.
+  Der Dompteur betritt furchtlos den Löwen*käfig*.
+
+  Cette vieille prison ressemble à une immense *cage* de pierre.
+  Dieses alte Gefängnis gleicht einem riesigen steinernen *Käfig*.
+
+  Les enfants jouent au football devant la *cage*.
+  Die Kinder spielen Fußball vor dem *Tor*.
+
+  La *cage* à oiseaux est suspendue près de la fenêtre.
+  Der Vogel*käfig* hängt neben dem Fenster.
+
+  Les mineurs descendent dans le puits par la *cage* d'extraction.
+  Die Bergleute fahren durch den Förder*korb* in den Schacht ein.
+
+  Les barreaux de la *cage* sont trop espacés pour ce petit animal.
+  Die Stäbe des *Käfigs* sind zu weit auseinander für dieses kleine Tier.
+
+  Le tigre s'est échappé de sa *cage* au zoo.
+  Der Tiger ist aus seinem *Käfig* im Zoo ausgebrochen.
+
+  Il se sent comme un ours en *cage* dans ce petit appartement.
+  Er fühlt sich wie ein *eingesperrter* Bär in dieser kleinen Wohnung.
+
+  Les poules picorent autour de leur *cage*.
+  Die Hühner picken um ihren *Käfig* herum.
+
+  La *cage* de verre permet d'observer les abeilles en toute sécurité.
+  Der Glas*käfig* ermöglicht es, die Bienen sicher zu beobachten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

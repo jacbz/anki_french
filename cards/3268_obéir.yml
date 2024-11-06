@@ -13,44 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il n’obéit à aucune loi.
-  Er gehorcht keinem Gesetz.
+  Il n'*obéit* à aucune loi.
+  Er *gehorcht* keinem Gesetz.
 
-  Il faut obéir aux règles.
-  Man muss den Regeln gehorchen.
+  Le chien *obéit* parfaitement aux ordres de son maître.
+  Der Hund *gehorcht* den Befehlen seines Herrchens perfekt.
 
-  Je dois obéir.
-  Ich muss gehorchen.
+  Mon fils refuse d'*obéir* à mes règles.
+  Mein Sohn weigert sich, meinen Regeln zu *gehorchen*.
 
-  Tu dois obéir à tes parents.
-  Du musst deinen Eltern gehorchen.
+  La voiture n'*obéissait* plus aux commandes.
+  Das Auto *reagierte* nicht mehr auf die Steuerung.
 
-  Les citoyens doivent obéir à la loi pour vivre en paix.
-  Die Bürger müssen das Gesetz befolgen, um in Frieden leben zu können.
+  Les planètes *obéissent* aux lois de la gravitation.
+  Die Planeten *folgen* den Gesetzen der Gravitation.
 
-  Les politiciens doivent obéir à des principes moraux et éthiques.
-  Politiker müssen sich an moralische und ethische Grundsätze halten.
+  J'ai toujours *obéi* à ma conscience.
+  Ich bin immer meinem Gewissen *gefolgt*.
 
-  Le cheval obéit à l'éperon et accélère le pas.
-  Das Pferd reagiert auf die Sporen und beschleunigt den Schritt.
+  "*Obéis* au doigt et à l'œil !" ordonna-t-elle.
+  "*Gehorche* aufs Wort!" befahl sie.
 
-  Le chef d'entreprise a du mal à se faire obéir de ses employés.
-  Der Chef hat Mühe, sich bei seinen Angestellten durchzusetzen.
+  Les élèves doivent *obéir* au règlement scolaire.
+  Die Schüler müssen die Schulordnung *befolgen*.
 
-  Le roi est obéi par son peuple.
-  Dem König gehorcht sein Volk.
+  Marie *obéit* à ses instincts plutôt qu'à sa raison.
+  Marie *folgt* eher ihren Instinkten als ihrer Vernunft.
 
-  Les prix des actions obéissent à un schéma complexe de fluctuations du marché.
-  Die Aktienkurse folgen einem komplexen Schema von Marktschwankungen.
+  Le gouvernail n'*obéit* plus.
+  Das Steuer *reagiert* nicht mehr.
 
-  Elle a décidé d'obéir à sa conscience et de démissionner.
-  Sie hat sich entschieden, ihrem Gewissen zu folgen und zu kündigen.
+  Les soldats *obéissent* aux ordres sans hésiter.
+  Die Soldaten *befolgen* die Befehle ohne zu zögern.
 
-  Il a obéi à son instinct et a couru se cacher.
-  Er hat seinem Instinkt gefolgt und ist weggerannt, um sich zu verstecken.
+  Mes jambes ne veulent plus *obéir*.
+  Meine Beine wollen nicht mehr *gehorchen*.
 
-  Les jeunes filles obéissent à la mode et s'habillent de manière extravagante.
-  Junge Mädchen gehen mit der Mode und kleiden sich extravagant.
+  Elle sait se faire *obéir* de ses enfants.
+  Sie weiß sich bei ihren Kindern *durchzusetzen*.
+
+  Les prix *obéissent* aux fluctuations du marché.
+  Die Preise *folgen* den Marktschwankungen.
+
+  Pour bien commander, il faut avoir *obéi*.
+  Um gut zu führen, muss man *gehorchen* gelernt haben.
+
+  Le cheval *obéit* parfaitement aux aides du cavalier.
+  Das Pferd *reagiert* perfekt auf die Hilfen des Reiters.
+
+  Elle n'*obéit* qu'à sa mère.
+  Sie *gehorcht* nur ihrer Mutter.
+
+  Les citoyens doivent *obéir* à la loi.
+  Die Bürger müssen dem Gesetz *gehorchen*.
+
+  Je vous promets que je vais *obéir*.
+  Ich verspreche Ihnen, dass ich *gehorchen* werde.
+
+  L'artiste *obéit* à son inspiration.
+  Der Künstler lässt sich von seiner Inspiration *leiten*.
+
+  Les freins n'*obéissent* plus correctement.
+  Die Bremsen *funktionieren* nicht mehr richtig.
+
+  Il faut *obéir* de gré ou de force.
+  Man muss freiwillig oder gezwungenermaßen *gehorchen*.
+
+  Le robot *obéit* à sa programmation.
+  Der Roboter *folgt* seiner Programmierung.
+
+  Paul veut être *obéi* sur-le-champ.
+  Paul will, dass man ihm sofort *gehorcht*.
+
+  La nature *obéit* à des cycles précis.
+  Die Natur *folgt* präzisen Zyklen.
+
+  Les employés *obéissent* aux directives.
+  Die Mitarbeiter *befolgen* die Anweisungen.
+
+  L'avion n'*obéissait* plus aux commandes du pilote.
+  Das Flugzeug *reagierte* nicht mehr auf die Steuerung des Piloten.
+
+  Le chat refuse d'*obéir* à mes appels.
+  Die Katze weigert sich, auf meine Rufe zu *hören*.
+
+  La matière *obéit* aux lois de la physique.
+  Die Materie *gehorcht* den Gesetzen der Physik.
+
+  J'*obéis* toujours à mes parents.
+  Ich *gehorche* immer meinen Eltern.
+
+  Les enfants doivent apprendre à *obéir*.
+  Kinder müssen lernen zu *gehorchen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

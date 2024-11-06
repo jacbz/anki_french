@@ -13,20 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je ne suis pas un voleur.
-  Ich bin kein Dieb.
+  Je ne suis pas un *voleur*.
+  Ich bin kein *Dieb*.
 
-  Le voleur a volé mon portefeuille.
-  Der Dieb hat meine Brieftasche gestohlen.
+  "*Au voleur* !" a crié la vieille dame quand on lui a volé son sac.
+  "*Haltet den Dieb*!" rief die alte Dame, als man ihr die Tasche stahl.
 
-  Je sais qui est le voleur.
-  Ich weiß, wer der Dieb ist.
+  La police recherche les *voleurs* qui ont cambriolé la banque hier soir.
+  Die Polizei sucht nach den *Dieben*, die gestern Abend die Bank ausgeraubt haben.
 
-  La voleuse d'enfants s'est enfuie, laissant derrière elle une mère en détresse.
-  Die Kindesentführerin ist geflohen und hat eine verzweifelte Mutter zurückgelassen.
+  Ce chat *voleur* a encore pris du poisson dans la cuisine !
+  Diese *diebische* Katze hat schon wieder Fisch aus der Kücher geklaut!
 
-  Il est parti comme un voleur dans la nuit, sans un mot d'adieu.
-  Er ist wie ein Dieb in der Nacht gegangen, ohne ein Lebewohl.
+  Il est parti *comme un voleur* après la réunion.
+  Er hat sich nach dem Meeting *wie ein Dieb davongeschlichen*.
+
+  Les *voleurs* se sont organisés en bande pour dévaliser le musée.
+  Die *Diebe* haben sich zu einer Bande zusammengeschlossen, um das Museum auszurauben.
+
+  La *voleuse* a été arrêtée en flagrant délit.
+  Die *Diebin* wurde auf frischer Tat ertappt.
+
+  Les enfants adorent jouer au gendarme et au *voleur* dans la cour.
+  Die Kinder spielen gerne Räuber und Gendarm auf dem Hof.
+
+  Ce commerçant est un *voleur*, il vend tout deux fois plus cher !
+  Dieser Händler ist ein *Betrüger*, er verkauft alles doppelt so teuer!
+
+  Les *voleurs d'enfants* ont été condamnés à vingt ans de prison.
+  Die *Kindesentführer* wurden zu zwanzig Jahren Gefängnis verurteilt.
+
+  La police a arrêté un *voleur* à la tire dans le métro.
+  Die Polizei hat einen Taschen*dieb* in der U-Bahn festgenommen.
+
+  Mon petit frère est un vrai *voleur* de bonbons !
+  Mein kleiner Bruder ist ein richtiger Bonbon*dieb*!
+
+  Cette *voleuse* professionnelle n'a jamais été attrapée.
+  Diese professionelle *Diebin* wurde nie gefasst.
+
+  Les *voleurs* ont pénétré par effraction dans la maison.
+  Die *Einbrecher* sind gewaltsam in das Haus eingedrungen.
+
+  Ce restaurant est géré par des *voleurs*.
+  Dieses Restaurant wird von *Betrügern* geführt.
+
+  Paul est parti *comme un voleur* sans dire au revoir.
+  Paul hat sich *heimlich davongemacht*, ohne sich zu verabschieden.
+
+  Notre chien est devenu un petit *voleur* de chaussures.
+  Unser Hund ist zu einem kleinen Schuh*dieb* geworden.
+
+  Les *voleurs de grand chemin* attendaient les voyageurs dans la forêt.
+  Die Straßen*räuber* lauerten den Reisenden im Wald auf.
+
+  "*Au voleur* !" ont crié les témoins en le voyant s'enfuir.
+  "*Haltet den Dieb*!" riefen die Zeugen, als sie ihn fliehen sahen.
+
+  Cette *voleuse* a réussi à s'échapper par la fenêtre.
+  Diese *Diebin* konnte durch das Fenster entkommen.
+
+  Les *voleurs* ont emporté tous nos bijoux.
+  Die *Diebe* haben all unseren Schmuck mitgenommen.
+
+  Marc est parti *comme un voleur* après avoir cassé le vase.
+  Marc hat sich *davongeschlichen*, nachdem er die Vase zerbrochen hatte.
+
+  Cette pie *voleuse* collectionne des objets brillants.
+  Diese *diebische* Elster sammelt glänzende Gegenstände.
+
+  On a retrouvé le *voleur* grâce aux caméras de surveillance.
+  Man hat den *Dieb* dank der Überwachungskameras gefunden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,41 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il faut enlever vos chaussures.
-  Sie müssen die Schuhe ausziehen.
+  Il faut enlever vos *chaussures*.
+  Sie müssen Ihre *Schuhe* ausziehen.
 
-  Je dois acheter de nouvelles chaussures.
-  Ich muss neue Schuhe kaufen.
+  J'aime les *chaussures* en cuir marron.
+  Ich mag braune Leder*schuhe*.
 
-  J'ai acheté une paire de chaussures en cuir pour l'occasion.
-  Ich habe mir zu diesem Anlass ein Paar Lederschuhe gekauft.
+  Mes *chaussures* de toile sont parfaites pour l'été.
+  Meine Stoff*schuhe* sind perfekt für den Sommer.
 
-  Il a enfin trouvé chaussure à son pied, après de longues années de recherche.
-  Er hat endlich den Richtigen gefunden, nach langen Jahren der Suche.
+  "Regarde mes nouvelles *chaussures* à plateforme !"
+  "Schau mal meine neuen Plateau*schuhe* an!"
 
-  Elle porte souvent des chaussures de toile en été.
-  Im Sommer trägt sie oft Stoffschuhe.
+  Les *chaussures* montantes protègent mieux les chevilles.
+  Die halbhohen *Schuhe* schützen die Knöchel besser.
 
-  Il préfère les chaussures basses pour plus de confort.
-  Er bevorzugt Halbschuhe, weil sie bequemer sind.
+  Marie a acheté des *chaussures* à bride pour le mariage.
+  Marie hat Spangen*schuhe* für die Hochzeit gekauft.
 
-  Les chaussures basses pour hommes sont très populaires ces derniers temps.
-  Herrenhalbschuhe sind in letzter Zeit sehr beliebt.
+  Ces *chaussures* de golf sont très confortables.
+  Diese Golf*schuhe* sind sehr bequem.
 
-  Elle adore les chaussures montantes et les porte avec tout.
-  Sie liebt halbhohe Schuhe und trägt sie zu allem.
+  Les joueurs portent des *chaussures* à crampons sur le terrain mouillé.
+  Die Spieler tragen *Spikes* auf dem nassen Platz.
 
-  Il a acheté une paire de chaussures à bride pour son mariage.
-  Er hat sich für seine Hochzeit ein Paar Spangenschuhe gekauft.
+  Il a mis ses vieilles *chaussures* de travail pour repeindre la cuisine.
+  Er hat seine alten Arbeits*schuhe* angezogen, um die Küche neu zu streichen.
 
-  Les chaussures à plateforme sont un retour en force des années 70.
-  Plateauschuhe erleben ein Comeback aus den 70er Jahren.
+  Les premières *chaussures* pour bébé sont toujours spéciales.
+  Die ersten Baby*schuhe* sind immer etwas Besonderes.
 
-  Les chaussures à talons sont toujours à la mode.
-  Schuhe mit hohen Absätzen sind immer in Mode.
+  Elle collectionne les *chaussures* à talons.
+  Sie sammelt *Schuhe* mit hohen Absätzen.
 
-  Il faut des chaussures à pointes pour courir un marathon.
-  Man braucht Rennschuhe, um einen Marathon zu laufen.
+  J'ai besoin de nouvelles *chaussures* de marche pour la randonnée.
+  Ich brauche neue Wander*schuhe* für die Wanderung.
+
+  Ces *chaussures* fourrées me tiendront chaud en hiver.
+  Diese Fell*schuhe* werden mich im Winter warm halten.
+
+  La *chaussure* italienne est réputée dans le monde entier.
+  Italienische *Schuh*produktion ist weltweit bekannt.
+
+  Je dois faire réparer mes *chaussures* de ville.
+  Ich muss meine Straßen*schuhe* reparieren lassen.
+
+  Les *chaussures* à lacets sont plus ajustables que celles à scratch.
+  Schnür*schuhe* sind besser verstellbar als Klett*schuhe*.
+
+  Après vingt ans dans la *chaussure*, il connaît bien le métier.
+  Nach zwanzig Jahren im *Schuh*handel kennt er das Geschäft gut.
+
+  Il travaille dans l'industrie de la *chaussure* depuis dix ans.
+  Er arbeitet seit zehn Jahren in der *Schuh*fabrikation.
+
+  Pierre a enfin trouvé *chaussure à son pied* avec Marie.
+  Pierre hat mit Marie endlich die *richtige Partnerin* gefunden.
+
+  Les *chaussures* de ski doivent être bien ajustées.
+  Die Ski*schuhe* müssen gut angepasst sein.
+
+  Ces *chaussures* basses sont parfaites pour le bureau.
+  Diese Halb*schuhe* sind perfekt fürs Büro.
+
+  Elle a une grande collection de *chaussures* de sport.
+  Sie hat eine große Sammlung von Sport*schuhen*.
+
+  Il faut cirer régulièrement ses *chaussures* en cuir.
+  Man muss Leder*schuhe* regelmäßig putzen.
+
+  Les *chaussures* à pointes sont essentielles pour la course.
+  Renn*schuhe* sind für den Lauf unerlässlich.
+
+  La qualité des *chaussures* de dame s'est beaucoup améliorée.
+  Die Qualität der Damen*schuhe* hat sich stark verbessert.
+
+  Ces *chaussures* à semelles de crêpe sont très confortables.
+  Diese *Schuhe* mit Kreppsohlen sind sehr bequem.
+
+  Je dois nettoyer mes *chaussures* après cette randonnée boueuse.
+  Ich muss meine *Schuhe* nach dieser schlammigen Wanderung putzen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

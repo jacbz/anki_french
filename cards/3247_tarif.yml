@@ -13,41 +13,107 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le contenu du message dépendra du tarif.
-  Der Inhalt der Nachricht hängt vom Tarif ab.
+  Le contenu du message dépendra du *tarif*.
+  Der Inhalt der Nachricht hängt vom *Tarif* ab.
 
-  Le tarif des billets de train a augmenté.
-  Die Preisliste für Zugtickets ist gestiegen.
+  Les *tarifs postaux* vont augmenter le mois prochain.
+  Die Post*tarife* werden nächsten Monat steigen.
 
-  Les tarifs postaux ont augmenté.
-  Die Postgebühren sind gestiegen.
+  J'ai envoyé le colis en choisissant le *tarif* pour le courrier par avion.
+  Ich habe das Paket mit dem Luftpost*tarif* verschickt.
 
-  À ce tarif-là, je ne peux pas me le permettre.
-  Wenn das so ist, kann ich es mir nicht leisten.
+  Les *tarifs* des chemins de fer sont plus avantageux en groupe.
+  Die Bahn*tarife* sind für Gruppen günstiger.
 
-  Le tarif tout compris est de 100 euros.
-  Der Gesamtpreis beträgt 100 Euro.
+  Un nouveau *tarif douanier* sera appliqué dès janvier.
+  Ab Januar wird ein neuer Zoll*tarif* angewendet.
 
-  Le tarif pour le courrier par avion est plus cher.
-  Der Luftposttarif ist teurer.
+  Le *tarif minimal* pour ce service est de 50 euros.
+  Der Minimal*satz* für diese Dienstleistung beträgt 50 Euro.
 
-  Les tarifs des chemins de fer ont été réduits.
-  Die Bahntarife wurden reduziert.
+  Ils ont introduit un *tarif progressif* basé sur la consommation.
+  Sie haben einen gestaffelten *Tarif* basierend auf dem Verbrauch eingeführt.
 
-  Le tarif douanier est très élevé.
-  Der Zolltarif ist sehr hoch.
+  Profitez de notre *tarif spécial* pour les étudiants !
+  Nutzen Sie unseren Sonder*tarif* für Studenten!
 
-  Le tarif minimal est de 5 euros.
-  Der Minimalsatz beträgt 5 Euro.
+  Le *tarif téléphonique* est plus avantageux le soir.
+  Der Telefon*tarif* ist abends günstiger.
 
-  Le tarif progressif est basé sur le poids.
-  Der gestaffelte Tarif basiert auf dem Gewicht.
+  Nous proposons un *tarif week-end* attractif.
+  Wir bieten einen attraktiven Wochenend*tarif* an.
 
-  Le tarif spécial est valable pour les étudiants.
-  Der Sondertarif gilt für Studenten.
+  Le *tarif en vigueur* peut être consulté sur notre site web.
+  Der geltende *Tarif* kann auf unserer Website eingesehen werden.
 
-  Le tarif téléphonique est très cher.
-  Der Telefontarif ist sehr teuer.
+  Le *tarif d'affranchissement* des lettres a doublé.
+  Die Brief*gebühr* hat sich verdoppelt.
+
+  Le *tarif fret* varie selon la destination.
+  Der Beförderungs*tarif* variiert je nach Zielort.
+
+  Le *tarif de nuit* permet d'économiser sur votre facture d'électricité.
+  Der Nachtstrom*tarif* hilft Ihnen, bei Ihrer Stromrechnung zu sparen.
+
+  Nous appliquons un *tarif de transport unitaire* pour toute la région.
+  Wir wenden einen Einheits*tarif* für die gesamte Region an.
+
+  Les *tarifs obligatoires* sont fixés par la loi.
+  Die verbindlichen *Tarife* sind gesetzlich festgelegt.
+
+  Ce *tarif tout compris* inclut les repas et les activités.
+  Dieser Inclusiv*preis* beinhaltet Mahlzeiten und Aktivitäten.
+
+  J'ai acheté un billet plein *tarif* pour le concert.
+  Ich habe eine Konzertkarte zum vollen *Preis* gekauft.
+
+  La compagnie propose un *tarif préférentiel* aux familles nombreuses.
+  Das Unternehmen bietet kinderreichen Familien einen Vorzugs*tarif* an.
+
+  Les seniors voyagent à *tarif* réduit.
+  Senioren reisen zum ermäßigten *Tarif*.
+
+  L'augmentation du *tarif* sera effective dès demain.
+  Die *Tarif*erhöhung tritt ab morgen in Kraft.
+
+  Consultez notre *tarif* avant de commander.
+  Schauen Sie vor der Bestellung in unsere *Preis*liste.
+
+  "C'est le *tarif* pour avoir triché à l'examen !"
+  "Das ist die *Strafe* fürs Schummeln in der Prüfung!"
+
+  Les nouveaux *tarifs* seront publiés la semaine prochaine.
+  Die neuen *Tarife* werden nächste Woche veröffentlicht.
+
+  Le *tarif* varie selon l'heure de la journée.
+  Der *Tarif* variiert je nach Tageszeit.
+
+  Nous devons réviser nos *tarifs* à cause de l'inflation.
+  Wir müssen unsere *Tarife* wegen der Inflation anpassen.
+
+  Le *tarif* horaire dépend de votre expérience.
+  Der Stunden*tarif* hängt von Ihrer Erfahrung ab.
+
+  As-tu vérifié le *tarif* avant de réserver ?
+  Hast du den *Preis* vor der Buchung überprüft?
+
+  Le nouveau *tarif* entrera en vigueur lundi prochain.
+  Der neue *Tarif* tritt nächsten Montag in Kraft.
+
+  Notre *tarif* comprend tous les frais annexes.
+  Unser *Tarif* enthält alle Nebenkosten.
+
+  Les *tarifs* sont affichés à l'entrée du parking.
+  Die Park*gebühren* sind am Eingang ausgeschildert.
+
+  Ce *tarif* est valable jusqu'à la fin du mois.
+  Dieser *Tarif* gilt bis zum Ende des Monats.
+
+  Les *tarifs* sont négociables pour les grands groupes.
+  Die *Tarife* sind für große Gruppen verhandelbar.
+
+  "Trois points sur le permis, c'est le *tarif* habituel."
+  "Drei Punkte in Flensburg, das ist die übliche *Strafe*."
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

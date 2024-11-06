@@ -13,20 +13,116 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On pouvait être homme sans être savant.
-  Man konnte ein Mensch sein, ohne ein Gelehrter zu sein.
+  On pouvait être homme sans être *savant*.
+  Man konnte Mensch sein, ohne *gelehrt* zu sein.
 
-  Le savant a publié de nombreux articles.
-  Der Gelehrte hat viele Artikel veröffentlicht.
+  Elle est très *savante* en histoire médiévale.
+  Sie ist in mittelalterlicher Geschichte sehr *bewandert*.
 
-  Pierre est un savant en histoire, il peut vous parler des guerres napoléoniennes pendant des heures.
-  Pierre ist in Geschichte sehr bewandert, er kann Ihnen stundenlang über die Napoleonischen Kriege erzählen.
+  "C'est trop *savant* pour moi, je ne comprends rien !"
+  "Das ist mir zu *hochgestochen*, ich verstehe gar nichts!"
 
-  Le cuisinier a trouvé un savant dosage pour son nouveau plat.
-  Das ist wohl dosiert, der Koch hat für sein neues Gericht die perfekte Mischung gefunden.
+  Son discours *savant* n'a impressionné personne.
+  Seine *hochgestochene* Rede hat niemanden beeindruckt.
 
-  Ce film est trop savant pour moi, j'ai du mal à suivre l'intrigue.
-  Das ist mir zu hochgestochen, ich verstehe den Film nicht so ganz.
+  Le calcul *savant* des impôts m'a donné mal à la tête.
+  Die *komplizierte* Steuerberechnung hat mir Kopfschmerzen bereitet.
+
+  La cheffe a créé un *savant* mélange d'épices.
+  Die Köchin hat eine *geschickte* Gewürzmischung kreiert.
+
+  Ce singe *savant* peut résoudre des problèmes mathématiques simples.
+  Dieser *dressierte* Affe kann einfache mathematische Aufgaben lösen.
+
+  Le *savant* travaille jour et nuit dans son laboratoire.
+  Der *Wissenschaftler* arbeitet Tag und Nacht in seinem Labor.
+
+  Marie est une *savante* reconnue dans le domaine de la physique.
+  Marie ist eine anerkannte *Wissenschaftlerin* im Bereich der Physik.
+
+  Pierre est un puits de science, il est très *savant*.
+  Pierre ist ein wandelndes Lexikon, er ist sehr *gelehrt*.
+
+  Les Femmes *savantes* ont beaucoup amusé le public hier soir.
+  "Die *gelehrten* Frauen" haben das Publikum gestern Abend sehr amüsiert.
+
+  La conversation *savante* des professeurs m'a fasciné.
+  Das *gelehrte* Gespräch der Professoren hat mich fasziniert.
+
+  Cette édition *savante* contient de nombreuses annotations.
+  Diese *wissenschaftliche* Ausgabe enthält zahlreiche Anmerkungen.
+
+  La musique *savante* n'est pas toujours facile à comprendre.
+  *Kunstmusik* ist nicht immer leicht zu verstehen.
+
+  Ce *savant* cuisinier crée des plats extraordinaires.
+  Dieser *geschickte* Koch kreiert außergewöhnliche Gerichte.
+
+  Le chien *savant* a fait son numéro devant les enfants.
+  Der *dressierte* Hund hat seine Nummer vor den Kindern vorgeführt.
+
+  Elle a fait un arrangement *savant* des fleurs.
+  Sie hat eine *geschickte* Anordnung der Blumen gemacht.
+
+  Il a pris de *savantes* précautions avant l'expérience.
+  Er hat *geschickte* Vorsichtsmaßnahmen vor dem Experiment getroffen.
+
+  Ce jeune *savant* a fait une découverte importante.
+  Dieser junge *Wissenschaftler* hat eine wichtige Entdeckung gemacht.
+
+  La *savante* a présenté ses recherches à la conférence.
+  Die *Wissenschaftlerin* hat ihre Forschung auf der Konferenz vorgestellt.
+
+  Thomas est particulièrement *savant* en mathématiques.
+  Thomas ist in Mathematik besonders *bewandert*.
+
+  Son exposé *savant* a duré deux heures.
+  Sein *gelehrter* Vortrag dauerte zwei Stunden.
+
+  Cette revue *savante* publie des articles de qualité.
+  Diese *wissenschaftliche* Zeitschrift veröffentlicht qualitativ hochwertige Artikel.
+
+  Sa *savante* manœuvre a permis d'éviter l'accident.
+  Sein *geschicktes* Manöver hat den Unfall verhindert.
+
+  La société *savante* se réunit chaque mois.
+  Die *wissenschaftliche* Gesellschaft trifft sich jeden Monat.
+
+  Einstein était un grand *savant*.
+  Einstein war ein großer *Wissenschaftler*.
+
+  Le perroquet *savant* répète des phrases complètes.
+  Der *dressierte* Papagei wiederholt vollständige Sätze.
+
+  Cette *savante* analyse m'a ouvert les yeux.
+  Diese *gelehrte* Analyse hat mir die Augen geöffnet.
+
+  Le mélange *savant* des couleurs crée une ambiance unique.
+  Die *geschickte* Farbmischung schafft eine einzigartige Atmosphäre.
+
+  Les *savants* du monde entier collaborent sur ce projet.
+  *Wissenschaftler* aus der ganzen Welt arbeiten an diesem Projekt zusammen.
+
+  Son style *savant* peut parfois décourager les lecteurs.
+  Sein *hochgestochener* Stil kann die Leser manchmal abschrecken.
+
+  Cette *savante* disposition des meubles optimise l'espace.
+  Diese *geschickte* Möbelanordnung optimiert den Raum.
+
+  Le chat *savant* exécute des tours impressionnants.
+  Die *dressierte* Katze führt beeindruckende Kunststücke vor.
+
+  La *savante* utilisation des épices rend ce plat unique.
+  Die *geschickte* Verwendung der Gewürze macht dieses Gericht einzigartig.
+
+  Il est devenu un *savant* respecté dans son domaine.
+  Er ist ein respektierter *Wissenschaftler* in seinem Fachgebiet geworden.
+
+  Cette *savante* démonstration a convaincu tout le monde.
+  Diese *gelehrte* Demonstration hat alle überzeugt.
+
+  Sa *savante* stratégie lui a permis de gagner la partie.
+  Seine *geschickte* Strategie hat ihm ermöglicht, das Spiel zu gewinnen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

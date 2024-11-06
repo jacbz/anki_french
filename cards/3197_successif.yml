@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les déplacés sont arrivés par vagues successives.
-  Die Vertriebenen kamen in mehreren Wellen an.
+  Les déplacés sont arrivés par vagues *successives*.
+  Die Vertriebenen kamen in *aufeinanderfolgenden* Wellen an.
 
-  Les événements sont successifs.
-  Die Ereignisse sind aufeinanderfolgend.
+  Après trois échecs *successifs*, elle a finalement réussi l'examen.
+  Nach drei *aufeinanderfolgenden* Misserfolgen hat sie die Prüfung endlich bestanden.
+
+  Le passage *successif* de plusieurs cyclones a détruit la région.
+  Der *aufeinanderfolgende* Durchzug mehrerer Zyklone hat die Region zerstört.
+
+  Les générations *successives* ont transmis cette tradition.
+  Die *aufeinanderfolgenden* Generationen haben diese Tradition weitergegeben.
+
+  La naissance *successive* de quatre garçons a surpris leurs parents.
+  Die *aufeinanderfolgende* Geburt von vier Jungen hat ihre Eltern überrascht.
+
+  Les tâches *successives* s'accumulent sur mon bureau.
+  Die *stets neu anfallenden* Aufgaben häufen sich auf meinem Schreibtisch.
+
+  L'escalade se fait par paliers *successifs* jusqu'au sommet.
+  Der Aufstieg erfolgt in *aufeinanderfolgenden* Stufen bis zum Gipfel.
+
+  Les transformations *successives* de la ville ont changé son caractère.
+  Die *aufeinanderfolgenden* Umgestaltungen der Stadt haben ihren Charakter verändert.
+
+  Les gouvernements *successifs* n'ont pas résolu ce problème.
+  Die *aufeinanderfolgenden* Regierungen haben dieses Problem nicht gelöst.
+
+  L'alternance *successive* du jour et de la nuit rythme notre vie.
+  Der *aufeinanderfolgende* Wechsel von Tag und Nacht bestimmt unseren Rhythmus.
+
+  Les découvertes *successives* ont révolutionné la médecine.
+  Die *aufeinanderfolgenden* Entdeckungen haben die Medizin revolutioniert.
+
+  Elle a gravi les échelons *successifs* de l'entreprise.
+  Sie hat die *aufeinanderfolgenden* Stufen im Unternehmen erklommen.
+
+  Les refus *successifs* l'ont finalement découragée.
+  Die *aufeinanderfolgenden* Ablehnungen haben sie schließlich entmutigt.
+
+  Les promotions *successives* ont attiré beaucoup de clients.
+  Die *aufeinanderfolgenden* Sonderangebote haben viele Kunden angezogen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

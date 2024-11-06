@@ -13,23 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Simone était une femme exigeante.
-  Simone war eine anspruchsvolle Frau.
+  Simone était une femme *exigeante*.
+  Simone war eine *anspruchsvolle* Frau.
 
-  Mon professeur est très exigeant.
-  Mein Lehrer ist sehr anspruchsvoll.
+  Les enfants *exigeants* nous épuisent beaucoup.
+  Die *anstrengenden* Kinder erschöpfen uns sehr.
 
-  C'est un travail exigeant qui demande beaucoup de concentration.
-  Das ist eine Arbeit, die hohe Anforderungen stellt und viel Konzentration erfordert.
+  Le critique d'art s'est montré particulièrement *exigeant* envers les jeunes artistes.
+  Der Kunstkritiker zeigte sich besonders *streng* gegenüber den jungen Künstlern.
 
-  Le professeur est exigeant à l'égard de ses élèves, mais il est juste.
-  Der Professor verlangt viel von seinen Schülern, aber er ist gerecht.
+  Cette position demande un travail très *exigeant*.
+  Diese Position erfordert eine sehr *anspruchsvolle* Arbeit.
 
-  Il est exigeant sur la qualité des produits qu'il vend.
-  Er legt viel Wert auf die Qualität der Produkte, die er verkauft.
+  Elle est très *exigeante* à l'égard de ses employés.
+  Sie *stellt hohe Ansprüche* an ihre Angestellten.
 
-  Ces informations sont exigeantes de conserver le secret.
-  Diese Informationen sind geheimhaltungsbedürftig.
+  Mon père est toujours *exigeant* sur le chapitre de la propreté.
+  Mein Vater *legt viel Wert* auf Sauberkeit.
+
+  Notre nouveau patron est vraiment *exigeant*.
+  Unser neuer Chef ist wirklich *anspruchsvoll*.
+
+  Son caractère *exigeant* lui cause souvent des problèmes.
+  Sein *schwieriger* Charakter bereitet ihm oft Probleme.
+
+  La danse classique est une profession très *exigeante*.
+  Klassischer Tanz ist ein sehr *fordernder* Beruf.
+
+  Notre professeur de mathématiques était très *exigeant*.
+  Unser Mathematiklehrer war sehr *streng*.
+
+  Ce malade est particulièrement *exigeant* aujourd'hui.
+  Dieser Patient ist heute besonders *anspruchsvoll*.
+
+  Le métier d'avocat est devenu encore plus *exigeant*.
+  Der Anwaltsberuf ist noch *fordernder* geworden.
+
+  Le chef de service est connu pour être *exigeant*.
+  Der Abteilungsleiter ist dafür bekannt, *anspruchsvoll* zu sein.
+
+  Il n'est pas assez *exigeant* envers lui-même.
+  Er ist nicht *streng* genug mit sich selbst.
+
+  Cette passion *exigeante* ne lui laisse aucun répit.
+  Diese *fordernde* Leidenschaft lässt ihm keine Ruhe.
+
+  Sa méthode d'enseignement est très *exigeante*.
+  Seine Lehrmethode ist sehr *anspruchsvoll*.
+
+  Le poste demande une personne *exigeante* et précise.
+  Die Stelle erfordert eine *gründliche* und präzise Person.
+
+  Cette formation est particulièrement *exigeante*.
+  Diese Ausbildung ist besonders *anspruchsvoll*.
+
+  Les sports de haut niveau sont très *exigeants*.
+  Leistungssport ist sehr *fordernd*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

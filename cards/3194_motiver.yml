@@ -13,20 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Qu’est-ce qui vous a motivé à écrire ce livre?
-  Was hat Sie dazu motiviert, dieses Buch zu schreiben?
+  Qu'est-ce qui vous a *motivé* à écrire ce livre ?
+  Was hat Sie dazu *motiviert*, dieses Buch zu schreiben?
 
-  Il faut motiver les employés.
-  Die Mitarbeiter müssen motiviert werden.
+  Sa réussite l'a *motivé* à poursuivre ses études.
+  Sein Erfolg hat ihn *motiviert*, sein Studium fortzusetzen.
 
-  L'avocat a motivé la prétention de son client en présentant des preuves solides.
-  Der Anwalt hat den Klageanspruch seines Mandanten mit der Vorlage stichhaltiger Beweise begründet.
+  Elle devra *motiver* sa demande de congé auprès de son employeur.
+  Sie muss ihren Urlaubsantrag beim Arbeitgeber *begründen*.
 
-  Le professeur a su motiver ses élèves à faire des recherches plus approfondies.
-  Dem Lehrer ist es gelungen, seine Schüler zu gründlicheren Recherchen zu motivieren.
+  Les parents doivent *motiver* leurs enfants à faire du sport.
+  Die Eltern müssen ihre Kinder zum Sport *motivieren*.
 
-  Elle est motivée par son désir de changer le monde.
-  Sie ist durch ihren Wunsch motiviert, die Welt zu verändern.
+  La crise économique a *motivé* cette décision difficile.
+  Die Wirtschaftskrise war die *Ursache* für diese schwierige Entscheidung.
+
+  Les professeurs cherchent à *motiver* leurs élèves par des jeux.
+  Die Lehrer versuchen, ihre Schüler durch Spiele zu *motivieren*.
+
+  Son absence n'était pas bien *motivée*.
+  Seine Abwesenheit war nicht gut *begründet*.
+
+  C'est la peur qui a *motivé* son comportement étrange.
+  Die Angst war der *Grund* für sein seltsames Verhalten.
+
+  Le jury a *motivé* son choix de façon détaillée.
+  Die Jury hat ihre Entscheidung ausführlich *begründet*.
+
+  Je suis très *motivé* à apprendre le français.
+  Ich bin sehr *motiviert*, Französisch zu lernen.
+
+  Les mauvaises conditions de travail ont *motivé* la grève.
+  Die schlechten Arbeitsbedingungen haben den Streik *begründet*.
+
+  Comment *motiver* une équipe à distance ?
+  Wie kann man ein Team aus der Ferne *motivieren*?
+
+  Le juge doit *motiver* sa décision.
+  Der Richter muss seine Entscheidung *begründen*.
+
+  Cette augmentation des prix n'est pas *motivée*.
+  Diese Preiserhöhung ist nicht *begründet*.
+
+  La curiosité *motive* ses recherches constantes.
+  Neugier *motiviert* seine ständige Forschung.
+
+  Les retards répétés ont *motivé* son licenciement.
+  Die wiederholten Verspätungen haben seine Entlassung *begründet*.
+
+  Ces nouveaux défis m'ont vraiment *motivé*.
+  Diese neuen Herausforderungen haben mich richtig *motiviert*.
+
+  Le directeur a dû *motiver* le refus de sa proposition.
+  Der Direktor musste die Ablehnung seines Vorschlags *begründen*.
+
+  L'entreprise cherche des candidats *motivés*.
+  Das Unternehmen sucht *motivierte* Bewerber.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le tyrannosaure obéit à aucune schéma de groupe.
-  Der Tyrannosaurus gehorcht keinem Gruppenschema.
+  Le tyrannosaure obéit à aucun *schéma* de groupe.
+  Der Tyrannosaurus folgt keinem Gruppen*schema*.
 
-  Voici le schéma de l’installation.
-  Hier ist das Schema der Installation.
+  Le cours commence par un *schéma* détaillé du système solaire.
+  Der Unterricht beginnt mit einer detaillierten *Skizze* des Sonnensystems.
 
-  Le schéma comptable est un outil important pour la gestion financière d'une entreprise.
-  Ein Kontenschema ist ein wichtiges Instrument für die Finanzverwaltung eines Unternehmens.
+  Pour comprendre le fonctionnement, regardez le *schéma* du moteur.
+  Um die Funktionsweise zu verstehen, schauen Sie sich die *Zeichnung* des Motors an.
 
-  Le schéma de montage indique comment assembler les différentes pièces d'un produit.
-  Ein Montageplan zeigt, wie die verschiedenen Teile eines Produkts zusammengefügt werden.
+  Le *schéma* directeur prévoit la construction d'un nouveau quartier.
+  Der *Entwicklungs*plan sieht den Bau eines neuen Stadtviertels vor.
+
+  J'ai besoin du *schéma* de montage pour assembler ce meuble.
+  Ich brauche den *Montage*plan, um dieses Möbelstück zusammenzubauen.
+
+  Le professeur dessine un *schéma* simple au tableau.
+  Der Lehrer zeichnet eine einfache *Skizze* an die Tafel.
+
+  Le *schéma* comptable a été mis à jour cette année.
+  Das *Konten*schema wurde dieses Jahr aktualisiert.
+
+  Les étudiants doivent mémoriser le *schéma* de l'appareil digestif.
+  Die Studenten müssen sich die *Skizze* des Verdauungsapparats einprägen.
+
+  Suivez le *schéma* pour installer correctement l'appareil.
+  Folgen Sie dem *Plan* für die korrekte Installation des Geräts.
+
+  Le *schéma* narratif de ce roman est très complexe.
+  Das narrative *Schema* dieses Romans ist sehr komplex.
+
+  Marie simplifie toujours les *schémas* pour ses présentations.
+  Marie vereinfacht die *Darstellungen* für ihre Präsentationen immer.
+
+  Le *schéma* électrique indique un court-circuit possible.
+  Der *Schalt*plan deutet auf einen möglichen Kurzschluss hin.
+
+  Les urbanistes ont modifié le *schéma* d'aménagement.
+  Die Stadtplaner haben den Bebauungs*plan* geändert.
+
+  Ce *schéma* permet de comprendre le cycle de l'eau.
+  Diese *Darstellung* hilft, den Wasserkreislauf zu verstehen.
+
+  Le *schéma* du bâtiment montre toutes les issues de secours.
+  Die *Skizze* des Gebäudes zeigt alle Notausgänge.
+
+  Pierre suit toujours le même *schéma* dans ses relations.
+  Pierre folgt in seinen Beziehungen immer dem gleichen *Muster*.
+
+  Les chercheurs ont établi un nouveau *schéma* théorique.
+  Die Forscher haben ein neues theoretisches *Schema* entwickelt.
+
+  La légende complète le *schéma* anatomique.
+  Die Legende vervollständigt die anatomische *Zeichnung*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

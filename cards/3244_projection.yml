@@ -13,11 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il y avait des projections sur un écran.
-  Es gab Projektionen auf einer Leinwand.
+  Il y avait des *projections* sur un écran.
+  Es gab *Projektionen* auf einer Leinwand.
 
-  La projection de ce film commence à 20h.
-  Die Vorstellung dieses Films beginnt um 20 Uhr.
+  La *projection* du film commence à vingt heures.
+  Die *Vorführung* des Films beginnt um zwanzig Uhr.
+
+  Le volcan en éruption produit des *projections* de lave.
+  Der ausbrechende Vulkan *stößt* Lava *aus*.
+
+  La *projection* orthogonale permet de représenter un objet en 3D sur un plan.
+  Die orthogonale *Projektion* ermöglicht es, ein 3D-Objekt auf einer Ebene darzustellen.
+
+  Les *projections* démographiques montrent une augmentation de la population.
+  Die demographischen *Projektionen* zeigen einen Bevölkerungsanstieg.
+
+  Le psychologue a expliqué le mécanisme de *projection* à son patient.
+  Der Psychologe hat seinem Patienten den *Übertragungs*mechanismus erklärt.
+
+  La salle de *projection* était pleine.
+  Der *Vorführ*raum war voll.
+
+  Les *projections* de boue ont sali sa voiture.
+  Die *geschleuderten* Schlammspritzer haben sein Auto verschmutzt.
+
+  Cette *projection* cartographique déforme les continents.
+  Diese kartographische *Projektion* verzerrt die Kontinente.
+
+  La *projection* de ses peurs sur les autres l'empêche d'avancer.
+  Die *Übertragung* seiner Ängste auf andere hindert ihn daran, voranzukommen.
+
+  Les *projections* économiques pour l'année prochaine sont optimistes.
+  Die wirtschaftlichen *Projektionen* für das nächste Jahr sind optimistisch.
+
+  Le maçon utilise la technique de *projection* pour appliquer l'enduit.
+  Der Maurer verwendet die *Spritz*technik zum Auftragen des Putzes.
+
+  La *projection* de diapositives illustrait parfaitement son propos.
+  Die *Projektion* der Dias unterstrich perfekt seine Aussage.
+
+  En judo, cette *projection* de hanche est très efficace.
+  Beim Judo ist dieser Hüft*wurf* sehr effektiv.
+
+  Les *projections* d'étincelles ont provoqué un incendie.
+  Die *herumsprühenden* Funken haben ein Feuer verursacht.
+
+  La *projection* de gaz toxiques a nécessité l'évacuation du bâtiment.
+  Das *Ausströmen* von giftigen Gasen machte die Evakuierung des Gebäudes erforderlich.
+
+  Cette *projection* conique est utilisée en cartographie marine.
+  Diese konische *Projektion* wird in der Seekartographie verwendet.
+
+  Il organise une *projection* privée pour ses amis.
+  Er organisiert eine private *Vorführung* für seine Freunde.
+
+  Les *projections* de vapeur indiquaient une fuite dans le tuyau.
+  Die *austretenden* Dampfwolken deuteten auf ein Leck im Rohr hin.
+
+  Les *projections* à long terme sont difficiles à établir.
+  Langfristige *Projektionen* sind schwer zu erstellen.
+
+  La *projection* du cercle sur le plan forme une ellipse.
+  Die *Projektion* des Kreises auf die Ebene ergibt eine Ellipse.
+
+  Cette *projection* psychologique est un mécanisme de défense classique.
+  Diese psychologische *Projektion* ist ein klassischer Abwehrmechanismus.
+
+  La *projection* de peinture sur le mur créait un effet intéressant.
+  Das *Spritzen* der Farbe an die Wand erzeugte einen interessanten Effekt.
+
+  Les *projections* de Mercator sont encore utilisées aujourd'hui.
+  Die Mercator-*Projektionen* werden auch heute noch verwendet.
+
+  Le cinéma propose trois *projections* par jour.
+  Das Kino bietet drei *Vorführungen* pro Tag an.
+
+  Cette *projection* de ses désirs sur sa fille est problématique.
+  Diese *Übertragung* ihrer Wünsche auf ihre Tochter ist problematisch.
+
+  L'appareil de *projection* est tombé en panne pendant la présentation.
+  Der *Projektor* ist während der Präsentation ausgefallen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

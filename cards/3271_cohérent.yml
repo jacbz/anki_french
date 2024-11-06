@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Votre récit paraît cohérent et logique.
-  Ihre Erzählung erscheint kohärent und logisch.
+  Votre récit paraît *cohérent* et logique.
+  Ihre Geschichte erscheint *schlüssig* und logisch.
 
-  Son argumentation est cohérente.
-  Seine Argumentation ist schlüssig.
+  Son argumentation était parfaitement *cohérente*.
+  Seine Argumentation war völlig *stimmig*.
+
+  Cette équipe n'est pas assez *cohérente* pour gagner le championnat.
+  Diese Mannschaft ist nicht gut genug *eingespielt*, um die Meisterschaft zu gewinnen.
+
+  Le nouveau professeur présente ses idées de manière *cohérente*.
+  Der neue Lehrer präsentiert seine Ideen *zusammenhängend*.
+
+  Les chercheurs ont découvert une source de lumière *cohérente*.
+  Die Forscher haben eine *kohärente* Lichtquelle entdeckt.
+
+  Le texte n'est pas très *cohérent*, il faut le retravailler.
+  Der Text ist nicht sehr *schlüssig*, er muss überarbeitet werden.
+
+  Pour réussir, nous devons former une équipe *cohérente*.
+  Um erfolgreich zu sein, müssen wir ein gut *eingespieltes* Team bilden.
+
+  Sa conduite n'est pas *cohérente* avec ses principes.
+  Sein Verhalten ist nicht *konsequent* mit seinen Prinzipien.
+
+  Le laser produit un rayon *cohérent* et précis.
+  Der Laser erzeugt einen *kohärenten* und präzisen Strahl.
+
+  Il faut rester *cohérent* dans ses décisions.
+  Man muss in seinen Entscheidungen *konsequent* bleiben.
+
+  Les chapitres de ce livre forment un ensemble *cohérent*.
+  Die Kapitel dieses Buches bilden ein *zusammenhängendes* Ganzes.
+
+  Cette théorie scientifique est parfaitement *cohérente*.
+  Diese wissenschaftliche Theorie ist vollkommen *schlüssig*.
+
+  Elle a toujours été *cohérente* avec elle-même.
+  Sie ist sich selbst immer treu und *konsequent* geblieben.
+
+  Les membres du groupe sont devenus plus *cohérents* avec le temps.
+  Die Gruppenmitglieder sind mit der Zeit besser *eingespielt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,32 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il tapait du poing sur la grille.
-  Er schlug mit der Faust auf das Gitter.
+  Il tapait du poing sur la *grille*.
+  Er schlug mit der Faust gegen das *Gitter*.
 
-  La grille de la fenêtre est cassée.
-  Das Gitter des Fensters ist kaputt.
+  La *grille* du jardin public était fermée à clé.
+  Das *Tor* des öffentlichen Parks war abgeschlossen.
 
-  Voici la grille d'horaires des cours pour le semestre prochain.
-  Hier ist der Stundenplan für das nächste Semester.
+  Une haute *grille* en fer forgé entourait la propriété.
+  Ein hoher schmiedeeiserner *Zaun* umgab das Anwesen.
 
-  J'ai acheté une grille de loto, en espérant gagner le gros lot.
-  Ich habe einen Lottoschein gekauft, in der Hoffnung den Jackpot zu gewinnen.
+  Les détenus regardaient à travers la *grille* du parloir.
+  Die Häftlinge schauten durch das *Gitter* des Besucherraums.
 
-  Le ballon a traversé la grille quadrillée et est tombé dans le jardin du voisin.
-  Der Ball flog durch das Gitternetz und landete im Garten des Nachbarn.
+  La *grille* du confessionnal séparait le prêtre des fidèles.
+  Das *Gitter* des Beichtstuhls trennte den Priester von den Gläubigen.
 
-  La grille des rémunérations de l'entreprise est confidentielle.
-  Die Gehaltstabelle der Firma ist vertraulich.
+  Il faut changer la *grille* du barbecue.
+  Der *Rost* des Grills muss ausgetauscht werden.
 
-  Pouvez-vous me montrer la grille des tarifs pour les envois postaux internationaux ?
-  Können Sie mir die Tariftabelle für internationale Postsendungen zeigen?
+  La *grille* du four était recouverte de graisse.
+  Der Back*rost* war mit Fett bedeckt.
 
-  J'ai consulté la grille des programmes de télévision pour voir ce qu'il y avait ce soir.
-  Ich habe im Fernsehprogramm nachgeschaut, was heute Abend läuft.
+  La *grille* du radiateur de sa voiture était cabossée.
+  Der *Kühlergrill* seines Autos war verbeult.
 
-  Je fais une grille de mots croisés chaque matin pour faire travailler mon cerveau.
-  Ich löse jeden Morgen ein Kreuzworträtsel, um mein Gehirn in Schwung zu bringen.
+  Une *grille* filtrante empêche les feuilles de boucher le tuyau.
+  Ein *Sieb* verhindert, dass Blätter das Rohr verstopfen.
+
+  La nouvelle *grille* des horaires sera affichée demain.
+  Der neue *Stundenplan* wird morgen ausgehängt.
+
+  J'ai consulté la *grille* des programmes télé pour ce soir.
+  Ich habe im Fernseh*programm* für heute Abend nachgeschaut.
+
+  Selon la *grille* des salaires, il devrait gagner plus.
+  Laut *Gehalts*tabelle müsste er mehr verdienen.
+
+  La *grille* des tarifs a été mise à jour.
+  Die *Preis*liste wurde aktualisiert.
+
+  Il a rempli sa *grille* de loto pour la semaine.
+  Er hat seinen *Lotto*schein für die Woche ausgefüllt.
+
+  Cette *grille* de mots croisés est vraiment difficile.
+  Dieses *Kreuzworträtsel* ist wirklich schwierig.
+
+  Les scientifiques utilisent une *grille* d'analyse précise.
+  Die Wissenschaftler verwenden ein präzises *Analyse*raster.
+
+  La *grille* quadrillée permet de dessiner à l'échelle.
+  Das *Gitter*netz ermöglicht maßstabsgetreues Zeichnen.
+
+  La *grille* du château fort s'abaissa lentement.
+  Das Fall*gitter* der Burg senkte sich langsam.
+
+  Une *grille* protège le pied des arbres dans l'avenue.
+  Ein *Gitter* schützt die Baumstämme in der Allee.
+
+  La *grille* du métro n'était pas encore ouverte.
+  Das *Gitter* der U-Bahn-Station war noch nicht geöffnet.
+
+  Les moines ont installé une nouvelle *grille* dans le chœur.
+  Die Mönche haben ein neues *Gitter* im Chorraum installiert.
+
+  La *grille* du foyer était couverte de cendres.
+  Der *Rost* der Feuerstelle war mit Asche bedeckt.
+
+  Une *grille* de lecture structuraliste révèle de nouveaux aspects.
+  Ein strukturalistisches *Interpretations*schema offenbart neue Aspekte.
+
+  J'ai vérifié la *grille* des horaires des trains.
+  Ich habe im Zug*fahrplan* nachgesehen.
+
+  La *grille* de ventilation était complètement bouchée.
+  Der Lüftungs*schlitz* war völlig verstopft.
+
+  Les barreaux de la *grille* étaient rouillés.
+  Die Stäbe des *Gitters* waren verrostet.
+
+  Une petite *grille* protégeait la fenêtre du sous-sol.
+  Ein kleines *Gitter* schützte das Kellerfenster.
+
+  La *grille* de protection empêche l'accès au chantier.
+  Der Schutz*zaun* verhindert den Zugang zur Baustelle.
+
+  Les enfants secouaient la *grille* du zoo.
+  Die Kinder rüttelten am *Gitter* des Zoos.
+
+  La vieille *grille* en fer grinçait quand on l'ouvrait.
+  Das alte eiserne *Tor* quietschte beim Öffnen.
+
+  Le message secret fut décodé grâce à une *grille* spéciale.
+  Die Geheimbotschaft wurde mithilfe eines speziellen *Entschlüsselungs*schemas decodiert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

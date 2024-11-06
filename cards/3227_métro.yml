@@ -13,23 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Toutes les lignes de métro fonctionnaient.
-  Alle U-Bahn-Linien waren in Betrieb.
+  Toutes les lignes de *métro* fonctionnaient.
+  Alle *U-Bahn*-Linien waren in Betrieb.
 
-  Je prends le métro pour aller au travail.
-  Ich nehme die U-Bahn zur Arbeit.
+  Le *métro* est le moyen de transport le plus rapide aux heures de pointe.
+  Die *U-Bahn* ist das schnellste Verkehrsmittel in den Hauptverkehrszeiten.
 
-  Sa maison est proche du métro.
-  Sein Haus liegt in der Nähe der U-Bahn.
+  J'ai raté le dernier *métro* et j'ai dû prendre un taxi.
+  Ich habe die letzte *U-Bahn* verpasst und musste ein Taxi nehmen.
 
-  J'attends le métro régional à la station de métro.
-  Ich warte an der U-Bahn-Haltestelle auf die Nahverkehrsbahn.
+  La nouvelle station de *métro* sera inaugurée le mois prochain.
+  Die neue *U-Bahn*-Station wird nächsten Monat eröffnet.
 
-  La ville possède un métro express qui relie le centre-ville à la banlieue.
-  Die Stadt verfügt über eine Schnellbahn, die die Innenstadt mit der Vorstadt verbindet.
+  Le *métro* aérien traverse la Seine sur un magnifique viaduc.
+  Die *Hochbahn* überquert die Seine auf einem prächtigen Viadukt.
 
-  Wuppertal est célèbre pour son métro suspendu.
-  Wuppertal ist berühmt für seine Schwebebahn.
+  Nous nous retrouverons devant la bouche de *métro* Opéra.
+  Wir treffen uns vor dem *U-Bahn*-Eingang der Station Opéra.
+
+  "Je prends toujours le *métro* pour aller au travail."
+  "Ich fahre immer mit der *U-Bahn* zur Arbeit."
+
+  Les couloirs du *métro* sont décorés dans le style Art nouveau.
+  Die Gänge der *U-Bahn* sind im Jugendstil dekoriert.
+
+  Le *métro* express relie la banlieue au centre-ville en quinze minutes.
+  Die *Schnellbahn* verbindet die Vororte mit dem Stadtzentrum in fünfzehn Minuten.
+
+  La rame de *métro* était bondée ce matin.
+  Der *U-Bahn*-Zug war heute Morgen überfüllt.
+
+  As-tu déjà vu le *métro* suspendu de Wuppertal?
+  Hast du die *Schwebebahn* von Wuppertal schon gesehen?
+
+  Il y a une correspondance avec trois lignes de *métro* à cette station.
+  An dieser Station gibt es Anschluss an drei *U-Bahn*-Linien.
+
+  Le *métro* de Moscou est connu pour ses stations somptueuses.
+  Die Moskauer *Metro* ist für ihre prächtigen Stationen bekannt.
+
+  Les travaux du nouveau *métro* régional avancent rapidement.
+  Die Arbeiten an der neuen *Nahverkehrsbahn* gehen schnell voran.
+
+  Une nouvelle ligne de *métro* desservira l'aéroport.
+  Eine neue *U-Bahn*-Linie wird den Flughafen anbinden.
+
+  La climatisation du *métro* est tombée en panne pendant la canicule.
+  Die Klimaanlage der *U-Bahn* fiel während der Hitzewelle aus.
+
+  Pierre habite à deux minutes de la station de *métro*.
+  Pierre wohnt zwei Minuten von der *U-Bahn*-Station entfernt.
+
+  Le *métro* londonien est le plus ancien du monde.
+  Die Londoner *U-Bahn* ist die älteste der Welt.
+
+  La décoration du *métro* parisien reflète l'histoire de la ville.
+  Die Gestaltung der Pariser *Metro* spiegelt die Geschichte der Stadt wider.
+
+  Le premier *métro* part à cinq heures du matin.
+  Die erste *U-Bahn* fährt um fünf Uhr morgens.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

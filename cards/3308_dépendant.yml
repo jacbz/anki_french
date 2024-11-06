@@ -13,26 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  En amour, vous serez dépendant, heureux ou malheureux.
-  In der Liebe werden Sie abhängig, glücklich oder unglücklich sein.
+  En amour, vous serez *dépendant*, heureux ou malheureux.
+  In der Liebe werden Sie *abhängig* sein, glücklich oder unglücklich.
 
-  Il est complètement dépendant de ses parents.
-  Er ist vollständig von seinen Eltern abhängig.
+  Elle n'est plus *dépendante* de ses parents depuis qu'elle a un travail.
+  Sie ist nicht mehr von ihren Eltern *abhängig*, seit sie eine Arbeit hat.
 
-  Pierre est dépendant de la drogue depuis plusieurs années et il a du mal à s'en sortir.
-  Pierre ist seit mehreren Jahren drogenabhängig und hat große Schwierigkeiten, von der Droge loszukommen.
+  Les résultats sont directement *dépendants* de vos efforts.
+  Die Ergebnisse sind direkt von Ihren Bemühungen *abhängig*.
 
-  Le pays est dépendant des exportations de pétrole, ce qui le rend vulnérable aux fluctuations des prix.
-  Der Staat ist stark von den Ölexporten abhängig, was ihn anfällig für Preisschwankungen macht.
+  Notre économie est devenue trop *dépendante* des importations chinoises.
+  Unsere Wirtschaft ist zu stark von chinesischen Importen *abhängig* geworden.
 
-  L'économie du pays est trop dépendante des importations, ce qui la rend fragile.
-  Die Wirtschaft des Landes ist zu stark von den Importen abhängig, was sie anfällig macht.
+  Cette personne âgée est devenue *dépendante* et a besoin d'aide au quotidien.
+  Diese ältere Person ist *pflegebedürftig* geworden und braucht täglich Hilfe.
 
-  L'entreprise est dépendante d'un point de vue financier de son principal client.
-  Das Unternehmen ist wirtschaftlich unselbstständig und abhängig von seinem Hauptkunden.
+  Mon grand-père est maintenant *dépendant* pour les tâches quotidiennes.
+  Mein Großvater ist jetzt bei den täglichen Aufgaben *unselbstständig*.
 
-  La valeur du bien est dépendante de la loi relative à l'évaluation unitaire des biens composant le patrimoine.
-  Der Wert des Gutes ist abhängig vom Bewertungsgesetz.
+  Paul est malheureusement devenu *dépendant* du jeu.
+  Paul ist leider spiel*süchtig* geworden.
+
+  Ces deux phénomènes sont étroitement *dépendants* l'un de l'autre.
+  Diese beiden Phänomene sind eng voneinander *abhängig*.
+
+  L'entreprise cherche des travailleurs *dépendants* pour ses nouvelles filiales.
+  Das Unternehmen sucht *angestellte* Mitarbeiter für seine neuen Filialen.
+
+  Sa fille est restée très *dépendante* de lui après le divorce.
+  Seine Tochter blieb nach der Scheidung sehr von ihm *abhängig*.
+
+  Notre succès est *dépendant* de la qualité de notre service.
+  Unser Erfolg ist von der Qualität unseres Service *abhängig*.
+
+  Le patient est devenu *dépendant* des médicaments contre la douleur.
+  Der Patient ist von den Schmerzmitteln *abhängig* geworden.
+
+  Les petits pays sont souvent *dépendants* des grandes puissances.
+  Kleine Länder sind oft von den Großmächten *abhängig*.
+
+  Marie est financièrement *dépendante* de son mari.
+  Marie ist finanziell von ihrem Mann *abhängig*.
+
+  Son humeur est très *dépendante* de la météo.
+  Ihre Stimmung ist sehr vom Wetter *abhängig*.
+
+  Le niveau de vie est *dépendant* du salaire minimum.
+  Der Lebensstandard ist vom Mindestlohn *abhängig*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,14 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je crois qu’on devrait fêter ça.
-  Ich finde, wir sollten das feiern.
+  Je crois qu'on devrait *fêter* ça.
+  Ich denke, das sollten wir *feiern*.
 
-  Nous allons fêter ton anniversaire ce soir.
-  Wir werden heute Abend deinen Geburtstag feiern.
+  Nous allons *fêter* notre anniversaire de mariage au restaurant.
+  Wir werden unseren Hochzeitstag im Restaurant *feiern*.
 
-  Merci de m’aider à fêter mon anniversaire.
-  Danke, dass Sie mir helfen, meinen Geburtstag zu feiern.
+  La victoire de l'équipe a été *fêtée* dans toute la ville.
+  Der Sieg der Mannschaft wurde in der ganzen Stadt ge*feiert*.
+
+  Les enfants ont *fêté* leur père avec un gâteau fait maison.
+  Die Kinder haben ihren Vater mit einem selbstgebackenen Kuchen *feierlich empfangen*.
+
+  La paroisse *fête* son saint patron chaque année en mai.
+  Die Gemeinde *feiert* ihren Schutzpatron jedes Jahr im Mai.
+
+  Marie a réussi son examen, nous allons *fêter* ça ce soir !
+  Marie hat ihre Prüfung bestanden, das werden wir heute Abend *feiern*!
+
+  Toute la famille s'est réunie pour *fêter* Noël ensemble.
+  Die ganze Familie hat sich versammelt, um gemeinsam Weihnachten zu *feiern*.
+
+  Comment allez-vous *fêter* le Nouvel An cette année ?
+  Wie werdet ihr dieses Jahr Silvester *feiern*?
+
+  Les amis de Pierre l'ont *fêté* à son retour de voyage.
+  Pierres Freunde haben ihn bei seiner Rückkehr von der Reise *feierlich empfangen*.
+
+  L'Assomption se *fête* le quinze août.
+  Mariä Himmelfahrt wird am fünfzehnten August ge*feiert*.
+
+  Nous avons *fêté* notre diplôme dans un bar.
+  Wir haben unseren Abschluss in einer Bar ge*feiert*.
+
+  Les grands-parents ont été chaleureusement *fêtés* pour leurs noces d'or.
+  Die Großeltern wurden zur goldenen Hochzeit herzlich ge*feiert*.
+
+  Ce soir, on va *fêter* ta promotion !
+  Heute Abend werden wir deine Beförderung *feiern*!
+
+  Le lauréat a été *fêté* par tous ses collègues.
+  Der Preisträger wurde von allen Kollegen ge*feiert*.
+
+  Comment as-tu *fêté* ton anniversaire ?
+  Wie hast du deinen Geburtstag ge*feiert*?
+
+  Ils ont *fêté* leurs retrouvailles autour d'un bon repas.
+  Sie haben ihr Wiedersehen bei einem guten Essen ge*feiert*.
+
+  À son arrivée, tout le monde l'a *fêté*.
+  Bei seiner Ankunft haben ihn alle *feierlich empfangen*.
+
+  L'équipe nationale a été *fêtée* par des milliers de supporters.
+  Die Nationalmannschaft wurde von tausenden Fans ge*feiert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

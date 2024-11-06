@@ -13,59 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Qui mange du gâteau d’anniversaire?
-  Wer isst Geburtstagskuchen?
+  Qui mange du *gâteau* d'anniversaire ?
+  Wer isst von der Geburtstags*torte*?
 
-  J’ai fait un gâteau au chocolat.
-  Ich habe einen Schokoladenkuchen gemacht.
+  Le *gâteau* au chocolat que j'ai fait hier était délicieux.
+  Die Schokoladen*torte*, die ich gestern gemacht habe, war köstlich.
 
-  Vous pouvez vous servir du gâteau.
-  Sie können sich an dem Kuchen bedienen.
+  "C'est du *gâteau* !" dit-elle en résolvant le problème de mathématiques.
+  "Das ist ein *Kinderspiel*!" sagte sie, als sie die Matheaufgabe löste.
 
-  Il m’a appris à faire un gâteau.
-  Er hat mir beigebracht, wie man einen Kuchen backt.
+  Les abeilles construisent leurs *gâteaux* de miel avec une précision remarquable.
+  Die Bienen bauen ihre Honig*waben* mit bemerkenswerter Präzision.
 
-  Ne veux-tu pas prendre de gâteau ?
-  Möchtest du keinen Kuchen essen?
+  Marie adore préparer des petits *gâteaux* pour Noël.
+  Marie liebt es, *Plätzchen* für Weihnachten zu backen.
 
-  Ma mère fait un gâteau pour mon père.
-  Meine Mutter backt einen Kuchen für meinen Vater.
+  "Ce n'est pas du *gâteau* de trouver un appartement à Paris !"
+  "Es ist kein *Zuckerschlecken*, eine Wohnung in Paris zu finden!"
 
-  Prends ma part de gâteau si tu veux.
-  Nimm mein Stück Kuchen, wenn du willst.
+  Ma grand-mère *gâteau* m'offre toujours des bonbons en secret.
+  Meine *verwöhnende* Oma gibt mir immer heimlich Süßigkeiten.
 
-  Puis-je manger une autre part de gâteau ?
-  Darf ich noch ein Stück Kuchen essen?
+  Les invités ont adoré le *gâteau* aux fruits que tu as préparé.
+  Die Gäste liebten die Obst*torte*, die du zubereitet hast.
 
-  Le petit gâteau était délicieux, comme un vrai gâteau d'anniversaire.
-  Die Plätzchen waren köstlich, wie eine echte Geburtstagstorte.
+  Chacun veut sa part du *gâteau* dans cette affaire.
+  Jeder will seinen *Anteil* vom Kuchen in dieser Sache.
 
-  Tonton, qui était un grand-père gâteau, racontait des histoires aux enfants.
-  Bilderbuchonkel, der so ein Bilderbuch-Opa war, erzählte den Kindern Geschichten.
+  As-tu goûté le *gâteau* de riz avec de la cannelle ?
+  Hast du den Reis*pudding* mit Zimt probiert?
 
-  Ce projet est vraiment du gâteau !
-  Das Projekt ist das reinste Kinderspiel!
+  Les enfants préfèrent les *gâteaux* secs au chocolat.
+  Die Kinder mögen die Schoko*kekse* am liebsten.
 
-  Réparer la voiture, ce n'est pas du gâteau !
-  Die Reparatur des Autos ist kein Zuckerschlecken.
+  Mon oncle *gâteau* m'emmène toujours au parc d'attractions.
+  Mein *nachgiebiger* Onkel nimmt mich immer mit in den Freizeitpark.
 
-  Ce soir, on mange du gâteau de riz.
-  Heute Abend essen wir Reispudding.
+  Le *gâteau* de semoule est son dessert préféré.
+  Der Grieß*pudding* ist sein Lieblingsdessert.
 
-  J'ai envie de gâteau à la crème.
-  Ich habe Lust auf eine Cremetorte.
+  Elle a commandé un magnifique *gâteau* d'anniversaire pour les jumeaux.
+  Sie hat eine wunderschöne Geburtstags*torte* für die Zwillinge bestellt.
 
-  C'était un gâteau garni de crème au beurre.
-  Es war eine Buttercremetorte.
+  J'ai appris à faire des *gâteaux* feuilletés en cours de pâtisserie.
+  Ich habe gelernt, Blätter*gebäck* im Backkurs herzustellen.
 
-  On a mangé un gâteau aux fruits pour le dessert.
-  Zum Nachtisch gab es eine Obsttorte.
+  Le *gâteau* à la crème était si frais qu'il fondait dans la bouche.
+  Die Sahne*torte* war so frisch, dass sie auf der Zunge zerging.
 
-  On a préparé un gâteau d'anniversaire pour la petite Marie.
-  Wir haben eine Geburtstagstorte für die kleine Marie gebacken.
+  Cette maman *gâteau* cède à tous les caprices de sa fille.
+  Diese *verhätschelnde* Mutter gibt allen Launen ihrer Tochter nach.
 
-  J'aime faire des gâteaux.
-  Ich backe gerne Torten.
+  Les *gâteaux* de Savoie sont très légers et aérés.
+  Die Savoyischen *Biskuit*kuchen sind sehr leicht und luftig.
+
+  Le *gâteau* garni de crème au beurre était trop sucré pour moi.
+  Die Buttercreme*torte* war mir zu süß.
+
+  Nous partagerons le *gâteau* après le repas.
+  Wir werden die *Torte* nach dem Essen teilen.
+
+  Je préfère les *gâteaux* faits maison aux *gâteaux* industriels.
+  Ich mag hausgemachte *Kuchen* lieber als industriell hergestellte *Backwaren*.
+
+  Les *gâteaux* secs se conservent plus longtemps que les *gâteaux* à la crème.
+  *Kekse* halten sich länger als Sahne*torten*.
+
+  Papa est devenu un vrai papa *gâteau* depuis la naissance du bébé.
+  Papa ist seit der Geburt des Babys ein richtiger *Verwöhn*papa geworden.
+
+  Les abeilles stockent le miel dans les *gâteaux* de cire.
+  Die Bienen lagern den Honig in den Wachs*waben*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

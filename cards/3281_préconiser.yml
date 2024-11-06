@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je préconise la souplesse plutôt que la ligne dure.
-  Ich plädiere für Flexibilität statt für eine harte Linie.
+  Je *préconise* la souplesse plutôt que la ligne dure.
+  Ich *befürworte* Flexibilität statt einer harten Linie.
 
-  Je préconise une alimentation saine.
-  Ich empfehle eine gesunde Ernährung.
+  Les médecins *préconisent* une alimentation équilibrée pour prévenir les maladies cardiaques.
+  Die Ärzte *empfehlen* eine ausgewogene Ernährung zur Vorbeugung von Herzkrankheiten.
+
+  Le rapport *préconise* des changements radicaux dans le système éducatif.
+  Der Bericht *befürwortet* radikale Änderungen im Bildungssystem.
+
+  L'expert *préconise* l'utilisation d'énergies renouvelables pour lutter contre le changement climatique.
+  Der Experte *empfiehlt* die Nutzung erneuerbarer Energien im Kampf gegen den Klimawandel.
+
+  Les chercheurs *préconisent* une approche plus prudente dans cette expérience.
+  Die Forscher *empfehlen* einen vorsichtigeren Ansatz bei diesem Experiment.
+
+  Elle a *préconisé* une réduction du temps de travail pour améliorer la productivité.
+  Sie hat eine Reduzierung der Arbeitszeit zur Verbesserung der Produktivität *befürwortet*.
+
+  Le psychologue *préconise* de faire plus d'exercice pour réduire le stress.
+  Der Psychologe *empfiehlt*, mehr Sport zu treiben, um Stress abzubauen.
+
+  Nous *préconisons* l'adoption de nouvelles mesures de sécurité.
+  Wir *befürworten* die Einführung neuer Sicherheitsmaßnahmen.
+
+  Le comité *préconise* la construction d'un nouveau pont pour désengorger la circulation.
+  Das Komitee *empfiehlt* den Bau einer neuen Brücke zur Entlastung des Verkehrs.
+
+  Les spécialistes *préconisent* huit heures de sommeil par nuit.
+  Die Experten *empfehlen* acht Stunden Schlaf pro Nacht.
+
+  Le gouvernement *préconise* le port du masque dans les transports en commun.
+  Die Regierung *empfiehlt* das Tragen einer Maske in öffentlichen Verkehrsmitteln.
+
+  Mon médecin m'a *préconisé* du repos pendant une semaine.
+  Mein Arzt hat mir eine Woche Ruhe *empfohlen*.
+
+  Cette étude *préconise* une réforme complète du système de santé.
+  Diese Studie *befürwortet* eine vollständige Reform des Gesundheitssystems.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

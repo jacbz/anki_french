@@ -13,38 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il y a du poulet dans le frigo.
-  Im Kühlschrank ist Hühnchen.
+  Il y a du *poulet* dans le frigo.
+  Es gibt *Hähnchen* im Kühlschrank.
 
-  Je vais faire cuire du poulet pour le dîner.
-  Ich werde Hähnchen zum Abendessen kochen.
+  Le *poulet* rôti est très croustillant aujourd'hui.
+  Das *Brathähnchen* ist heute sehr knusprig.
 
-  C’est du poulet.
-  Das ist Huhn.
+  Je ne veux pas acheter de *poulet* aux hormones.
+  Ich möchte kein mit Hormonen behandeltes *Huhn* kaufen.
 
-  Le poulet était super.
-  Das Huhn war super.
+  Les *poulets* élevés en plein air ont une meilleure qualité de vie.
+  Die Freiland*hühner* haben eine bessere Lebensqualität.
 
-  Elle a acheté un poulet.
-  Sie hat ein Huhn gekauft.
+  "Arrête-toi, c'est les *poulets* !" cria-t-il en voyant la voiture de police.
+  "Halt an, das sind die *Bullen*!" rief er, als er den Polizeiwagen sah.
 
-  Avez-vous essayé le poulet ?
-  Haben Sie schon einmal Huhn probiert?
+  Un *poulet* qui piaule s'est échappé de la basse-cour.
+  Ein piepsendes *Huhn* ist aus dem Hühnerhof entkommen.
 
-  J'ai préparé un délicieux poulet rôti pour le dîner.
-  Ich habe ein leckeres Brathähnchen zum Abendessen zubereitet.
+  Elle prépare un *poulet* chasseur avec des champignons frais.
+  Sie bereitet ein *Hähnchen* mit frischen Pilzen in Jägersauce zu.
 
-  Mon poulet! Viens ici!
-  Mein Häschen! Komm her!
+  Les *poulets* de grain sont nourris exclusivement aux céréales.
+  Die Korn*hühner* werden ausschließlich mit Getreide gefüttert.
 
-  Ce poulet aux hormones est vraiment mauvais pour la santé.
-  Dieses mit Hormonen gefütterte Huhn ist wirklich ungesund.
+  "Viens ici, mon petit *poulet*," dit la grand-mère à son petit-fils.
+  "Komm her, mein kleiner *Schatz*," sagte die Großmutter zu ihrem Enkel.
 
-  Le poulet d'élevage est généralement moins cher, mais de qualité inférieure.
-  Batteriehühner sind in der Regel günstiger, aber von geringerer Qualität.
+  Le *poulet* à la basquaise est une spécialité du Pays basque.
+  Das baskische *Hähnchen* ist eine Spezialität des Baskenlandes.
 
-  Le poulet élevé en plein air a un goût plus fin et est plus sain.
-  Freilandhühner schmecken feiner und sind gesünder.
+  Les *poulets* de la ferme grandissent plus lentement que ceux d'élevage industriel.
+  Die Bauernhof*hühner* wachsen langsamer als die aus der industriellen Zucht.
+
+  Ce restaurant ne sert que du *poulet* fermier bio.
+  Dieses Restaurant serviert nur biologisches Bauernhof*hähnchen*.
+
+  "Les *poulets* nous suivent depuis dix minutes," chuchota-t-elle.
+  "Die *Bullen* folgen uns seit zehn Minuten," flüsterte sie.
+
+  Le *poulet* en croûte de sel est une recette très savoureuse.
+  Das *Hähnchen* in Salzkruste ist ein sehr schmackhaftes Rezept.
+
+  Comment désosser un *poulet* sans abîmer la chair ?
+  Wie kann man ein *Hähnchen* entbeinen, ohne das Fleisch zu beschädigen?
+
+  Ce *poulet* d'élevage a grandi trop vite.
+  Dieses Batterie*huhn* ist zu schnell gewachsen.
+
+  Le chef va flamber le *poulet* devant les clients.
+  Der Koch wird das *Hähnchen* vor den Gästen flambieren.
+
+  Thomas a levé une aile de *poulet* avec élégance.
+  Thomas hat elegant einen *Hähnchen*flügel abgetrennt.
+
+  Le *poulet* à l'estragon est son plat préféré.
+  *Hähnchen* mit Estragon ist sein Lieblingsessen.
+
+  Les *poulets* de Bresse sont réputés dans le monde entier.
+  Die Bresse-*Hühner* sind weltweit bekannt.
+
+  Marie ajoute toujours de l'ail quand elle fait du *poulet* rôti.
+  Marie gibt immer Knoblauch dazu, wenn sie *Brathähnchen* macht.
+
+  Un bon *poulet* marengo doit mijoter pendant au moins une heure.
+  Ein gutes *Hähnchen* Marengo muss mindestens eine Stunde schmoren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

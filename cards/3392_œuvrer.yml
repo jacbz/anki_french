@@ -13,14 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous n’avons cessé d’œuvrer pour la promotion des femmes.
-  Wir haben uns unermüdlich für die Förderung von Frauen eingesetzt.
+  Nous n'avons cessé d'*œuvrer* pour la promotion des femmes.
+  Wir haben unermüdlich für die Förderung von Frauen *gearbeitet*.
 
-  Il œuvre pour une association caritative.
-  Er arbeitet für eine Wohltätigkeitsorganisation.
+  Les associations caritatives *œuvrent* pour réduire la pauvreté dans le monde.
+  Die Hilfsorganisationen *arbeiten* daran, die Armut in der Welt zu reduzieren.
 
-  Le gouvernement a œuvré pour la paix dans la région.
-  Die Regierung hat sich um Frieden in der Region bemüht.
+  Cette équipe *œuvre* dans l'ombre depuis des années.
+  Dieses Team *wirkt* seit Jahren im Verborgenen.
+
+  Nous devons *œuvrer* ensemble pour protéger l'environnement.
+  Wir müssen gemeinsam daran *arbeiten*, die Umwelt zu schützen.
+
+  Le gouvernement *œuvre* au rétablissement économique du pays.
+  Die Regierung *arbeitet* an der wirtschaftlichen Erholung des Landes.
+
+  Les chercheurs *œuvrent* pour trouver un remède contre cette maladie.
+  Die Forscher *bemühen* sich darum, ein Heilmittel gegen diese Krankheit zu finden.
+
+  Elle a toujours *œuvré* pour le bien-être des enfants défavorisés.
+  Sie hat sich immer für das Wohl benachteiligter Kinder *eingesetzt*.
+
+  Les diplomates *œuvrent* sans relâche pour maintenir la paix.
+  Die Diplomaten *arbeiten* unermüdlich daran, den Frieden zu bewahren.
+
+  Notre organisation *œuvre* à la protection des droits humains.
+  Unsere Organisation *setzt* sich für den Schutz der Menschenrechte *ein*.
+
+  Il *œuvre* depuis longtemps pour améliorer les conditions de travail.
+  Er *arbeitet* seit langem daran, die Arbeitsbedingungen zu verbessern.
+
+  Les bénévoles *œuvrent* jour et nuit pour aider les victimes.
+  Die Freiwilligen *arbeiten* Tag und Nacht daran, den Opfern zu helfen.
+
+  Nous *œuvrons* pour assurer un avenir meilleur aux générations futures.
+  Wir *setzen* uns für eine bessere Zukunft der kommenden Generationen *ein*.
+
+  Des milliers de personnes *œuvrent* à la reconstruction de la ville.
+  Tausende Menschen *arbeiten* am Wiederaufbau der Stadt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cet objectif est conforme au mandat.
-  Dieses Ziel steht im Einklang mit dem Mandat.
+  Cet objectif est *conforme* au mandat.
+  Dieses Ziel ist mit dem Mandat *konform*.
 
-  Il faut se conformer aux règles.
-  Man muss sich an die Regeln anpassen.
+  Ils doivent *conformer* leur conduite aux nouvelles règles.
+  Sie müssen ihr Verhalten an die neuen Regeln *anpassen*.
 
-  J'ai dû conformer mon discours à la durée imposée.
-  Ich musste meinen Vortrag an die vorgegebene Länge anpassen.
+  Je me suis toujours *conformé* aux traditions familiales.
+  Ich habe mich immer an die Familientraditionen *gehalten*.
 
-  Il faut se conformer aux règles de sécurité.
-  Man muss sich an die Sicherheitsbestimmungen halten.
+  L'architecte a *conformé* les plans aux souhaits du client.
+  Der Architekt hat die Pläne an die Wünsche des Kunden *angepasst*.
+
+  Tous les employés devront se *conformer* aux mesures de sécurité.
+  Alle Mitarbeiter müssen sich an die Sicherheitsmaßnahmen *halten*.
+
+  Elle a *conformé* sa vie à ses idéaux.
+  Sie hat ihr Leben nach ihren Idealen *ausgerichtet*.
+
+  Le bébé est parfaitement *conformé*.
+  Das Baby ist perfekt *gebaut*.
+
+  Nous devons nous *conformer* au délai fixé.
+  Wir müssen uns an die festgelegte Frist *halten*.
+
+  Il faut *conformer* notre stratégie aux réalités du marché.
+  Wir müssen unsere Strategie an die Marktgegebenheiten *anpassen*.
+
+  Marie s'est *conformée* aux conseils du médecin.
+  Marie hat sich an die Anweisungen des Arztes *gehalten*.
+
+  L'entreprise doit *conformer* ses produits aux normes européennes.
+  Das Unternehmen muss seine Produkte an die europäischen Normen *anpassen*.
+
+  Pierre n'a jamais su se *conformer* aux circonstances.
+  Pierre hat sich nie an die Umstände *anpassen* können.
+
+  Les élèves doivent se *conformer* au règlement de l'école.
+  Die Schüler müssen sich an die Schulordnung *halten*.
+
+  Il a *conformé* son comportement aux attentes de ses parents.
+  Er hat sein Verhalten an die Erwartungen seiner Eltern *angepasst*.
+
+  Nous nous *conformerons* à l'esprit de la loi.
+  Wir werden uns an den Geist des Gesetzes *halten*.
+
+  Le chapelier *conforme* soigneusement chaque chapeau.
+  Der Hutmacher *formt* jeden Hut sorgfältig.
+
+  Malheureusement, ses jambes sont mal *conformées*.
+  Leider sind ihre Beine schlecht *ausgebildet*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

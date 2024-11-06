@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Pour éviter la panique et le chaos, le public ne doit rien savoir.
-  Um Panik und Chaos zu vermeiden, darf die Öffentlichkeit nichts erfahren.
+  Pour éviter la panique et le *chaos*, le public ne doit rien savoir.
+  Um Panik und *Chaos* zu vermeiden, darf die Öffentlichkeit nichts erfahren.
 
-  Le pays est plongé dans le chaos.
-  Das Land versinkt im Chaos.
+  Sa chambre est dans un *chaos* total depuis trois jours.
+  Sein Zimmer ist seit drei Tagen im totalen *Chaos*.
+
+  Le *chaos* qui règne dans la circulation ce matin est insupportable.
+  Das *Chaos*, das heute Morgen im Verkehr herrscht, ist unerträglich.
+
+  Les scientifiques étudient le *chaos* originel de l'univers.
+  Die Wissenschaftler erforschen das ursprüngliche *Chaos* des Universums.
+
+  Le *chaos* des rochers témoigne de l'ancien éboulement.
+  Das *Chaos* der Felsen zeugt vom früheren Erdrutsch.
+
+  Cette décision politique a plongé l'économie dans le *chaos*.
+  Diese politische Entscheidung hat die Wirtschaft ins *Chaos* gestürzt.
+
+  Après le tremblement de terre, la ville était un véritable *chaos*.
+  Nach dem Erdbeben war die Stadt ein wahres *Chaos*.
+
+  Le déménagement a mis tous mes papiers dans le *chaos*.
+  Der Umzug hat alle meine Unterlagen ins *Chaos* gebracht.
+
+  Le *chaos* règne dans la salle de classe quand le professeur est absent.
+  Das *Chaos* herrscht im Klassenzimmer, wenn der Lehrer nicht da ist.
+
+  Les manifestations ont semé le *chaos* dans le centre-ville.
+  Die Demonstrationen haben im Stadtzentrum *Chaos* verursacht.
+
+  Son bureau reflète le *chaos* de ses pensées.
+  Sein Schreibtisch spiegelt das *Chaos* seiner Gedanken wider.
+
+  Les grèves des transports ont créé un *chaos* sans précédent.
+  Die Verkehrsstreiks haben ein beispielloses *Chaos* verursacht.
+
+  Le festival s'est terminé dans un joyeux *chaos*.
+  Das Festival endete in einem fröhlichen *Chaos*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

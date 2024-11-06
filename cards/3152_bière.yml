@@ -13,20 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je veux prendre deux bouteilles de bière avant de partir.
-  Ich möchte zwei Flaschen Bier trinken, bevor ich gehe.
+  Je veux prendre deux bouteilles de *bière* avant de partir.
+  Ich möchte zwei Flaschen *Bier* mitnehmen, bevor ich gehe.
 
-  Je voudrais une bière, s’il vous plaît.
-  Ich hätte gerne ein Bier, bitte.
+  La *bière* brune est servie dans un verre spécial.
+  Das dunkle *Bier* wird in einem speziellen Glas serviert.
 
-  Je vais te payer une bière.
-  Ich gebe dir ein Bier aus.
+  As-tu déjà goûté cette *bière* forte allemande ?
+  Hast du dieses starke deutsche *Bier* schon probiert?
 
-  J'ai commandé une bière blonde, s'il vous plaît.
-  Ich habe mir ein helles Bier bestellt.
+  "Cette *bière* sans alcool n'est vraiment pas mauvaise !"
+  "Dieses alkoholfreie *Bier* schmeckt wirklich nicht schlecht!"
 
-  Il a été mis en bière après une longue maladie.
-  Er wurde nach langer Krankheit in den Sarg gelegt.
+  Il préfère la *bière* à la pression plutôt qu'en bouteille.
+  Er mag *Bier* vom Fass lieber als aus der Flasche.
+
+  Dans ce bar, ils servent une excellente *bière* de garde.
+  In dieser Bar servieren sie ein ausgezeichnetes Lager*bier*.
+
+  La *bière* blonde est plus populaire que la brune dans ce pays.
+  Hell*bier* ist in diesem Land beliebter als Dunkel*bier*.
+
+  Le processus de mise en *bière* aura lieu demain matin.
+  Die Aufbahrung im *Sarg* wird morgen früh stattfinden.
+
+  Cette *bière* de riz est une spécialité asiatique.
+  Dieses Reis*bier* ist eine asiatische Spezialität.
+
+  La famille a choisi une *bière* en chêne massif.
+  Die Familie hat einen massiven Eichen*sarg* ausgewählt.
+
+  La levure de *bière* est excellente pour la santé.
+  *Bier*hefe ist sehr gesund.
+
+  Tu peux me commander un demi de *bière*, s'il te plaît ?
+  Kannst du mir bitte ein halbes *Bier* bestellen?
+
+  Cette *bière* artisanale est brassée localement.
+  Dieses handwerklich gebraute *Bier* wird vor Ort hergestellt.
+
+  La *bière* de mars est traditionnellement plus forte.
+  März*bier* ist traditionell stärker.
+
+  "Ce projet n'est pas de la petite *bière* !"
+  "Dieses Projekt ist keine *Kleinigkeit*!"
+
+  Les moines brassent leur propre *bière* depuis des siècles.
+  Die Mönche brauen seit Jahrhunderten ihr eigenes *Bier*.
+
+  La *bière* de banane est une boisson traditionnelle africaine.
+  Bananen*bier* ist ein traditionelles afrikanisches Getränk.
+
+  Cette chope à *bière* appartenait à mon grand-père.
+  Dieser *Bier*krug gehörte meinem Großvater.
+
+  On descendra la *bière* dans la crypte après la cérémonie.
+  Der *Sarg* wird nach der Zeremonie in die Krypta hinabgelassen.
+
+  La *bière* pasteurisée se conserve plus longtemps.
+  Pasteurisiertes *Bier* hält länger.
+
+  Les *bières* basses fermentent à une température plus froide.
+  Untergäriges *Bier* gärt bei einer niedrigeren Temperatur.
+
+  Cette canette de *bière* est déjà périmée depuis une semaine.
+  Diese *Bier*dose ist schon seit einer Woche abgelaufen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,41 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  De terreur, ses cheveux sont devenus blancs.
-  Vor Schreck wurde sein Haar weiß.
+  De *terreur*, ses cheveux sont devenus blancs.
+  Vor *Schreck* sind seine Haare weiß geworden.
 
-  La terreur a régné pendant la Révolution française.
-  Während der Französischen Revolution herrschte Schrecken.
+  Il était glacé de *terreur* en voyant l'ours s'approcher.
+  Er war vor *Entsetzen* wie erstarrt, als sich der Bär näherte.
 
-  Le visage de Pierre s'est glacé de terreur lorsqu'il a vu l'accident.
-  Pierres Gesicht erstarrte vor Schreck, als er den Unfall sah.
+  La *terreur* se lisait dans ses yeux quand elle a vu l'accident.
+  Das *Entsetzen* stand ihr in den Augen, als sie den Unfall sah.
 
-  Les terreurs nocturnes de Marie sont fréquentes depuis qu'elle a déménagé.
-  Maries Angstträume kommen häufig vor, seit sie umgezogen ist.
+  Les enfants vivent dans la *terreur* des monstres sous leur lit.
+  Die Kinder leben in *Angst* vor den Monstern unter ihrem Bett.
 
-  Le gouvernement a instauré une politique de terreur pour faire taire ses opposants.
-  Die Regierung hat eine Terrorpolitik eingeführt, um ihre Gegner zum Schweigen zu bringen.
+  Elle vivait dans la *terreur* que son secret soit découvert.
+  Sie lebte in panischer *Angst*, dass ihr Geheimnis entdeckt würde.
 
-  Le dictateur était une terreur pour son peuple.
-  Der Diktator war ein Tyrann für sein Volk.
+  Une *terreur* indescriptible s'est emparée de la foule.
+  Ein unbeschreiblicher *Schrecken* erfasste die Menge.
 
-  Pendant la guerre, les habitants vivaient dans la terreur.
-  Während des Krieges lebten die Bewohner in Angst und Schrecken.
+  Le dictateur maintenait son pouvoir par la *terreur*.
+  Der Diktator hielt seine Macht durch *Terror* aufrecht.
 
-  Le voleur vivait dans la terreur d'être découvert.
-  Der Dieb lebte in panischer Angst, entdeckt zu werden.
+  La période de la *Terreur* a marqué l'histoire de France.
+  Die Zeit der *Schreckensherrschaft* hat die französische Geschichte geprägt.
 
-  Le roi régnait par la terreur et tenait son peuple sous son emprise.
-  Der König übte eine Schreckensherrschaft aus und hielt sein Volk in seiner Gewalt.
+  Le régime a instauré une politique de *terreur*.
+  Das Regime führte eine *Terror*politik ein.
 
-  Le directeur était la terreur de tous les élèves, personne n'osait lui parler.
-  Der Direktor war der Schrecken aller Schüler, niemand wagte es, mit ihm zu sprechen.
+  "Ce prof est une vraie *terreur*!"
+  "Dieser Lehrer ist ein richtiger *Tyrann*!"
 
-  Le petit garçon jouait les terreurs en brandissant un bâton.
-  Der kleine Junge markierte den starken Mann, indem er einen Stock schwang.
+  Sophie est la *terreur* de la maternelle.
+  Sophie ist der *Schrecken* des Kindergartens.
 
-  Jean, la terreur de la cour de récréation, était connu pour ses farces cruelles.
-  Jean, der Schulhofschreck, war bekannt für seine grausamen Streiche.
+  "Il a toujours aimé jouer les *terreurs*."
+  "Er hat schon immer gern *den starken Mann markiert*."
+
+  Les *terreurs* nocturnes empêchent le petit de dormir.
+  Die nächtlichen *Schrecken* halten den Kleinen vom Schlafen ab.
+
+  Une *terreur* panique s'est emparée des passagers.
+  Eine panische *Angst* ergriff die Passagiere.
+
+  Ce chien est devenu la *terreur* du quartier.
+  Dieser Hund ist zum *Schrecken* der Nachbarschaft geworden.
+
+  La *terreur* se répandait comme une traînée de poudre.
+  Der *Schrecken* verbreitete sich wie ein Lauffeuer.
+
+  Son cri de *terreur* a résonné dans toute la maison.
+  Ihr *Angst*schrei hallte durch das ganze Haus.
+
+  La *terreur* règne dans les rues la nuit.
+  Nachts herrscht *Schrecken* in den Straßen.
+
+  Les habitants vivaient sous un régime de *terreur*.
+  Die Bewohner lebten unter einer *Schreckens*herrschaft.
+
+  Une *terreur* sourde s'est installée dans le village.
+  Ein dumpfer *Schrecken* machte sich im Dorf breit.
+
+  La *terreur* paralysait ses membres.
+  Das *Entsetzen* lähmte seine Glieder.
+
+  Le film a semé la *terreur* parmi les spectateurs.
+  Der Film verbreitete *Schrecken* unter den Zuschauern.
+
+  Cette nouvelle a provoqué la *terreur* générale.
+  Diese Nachricht löste allgemeines *Entsetzen* aus.
+
+  Leurs yeux reflétaient une *terreur* pure.
+  In ihren Augen spiegelte sich blankes *Entsetzen*.
+
+  "Cette petite est une vraie *terreur* quand elle n'a pas dormi."
+  "Diese Kleine ist ein richtiges *Ungeheuer*, wenn sie nicht geschlafen hat."
+
+  Un frisson de *terreur* parcourut son corps.
+  Ein *Angst*schauer durchlief seinen Körper.
+
+  Le tremblement de terre a semé la *terreur* dans la région.
+  Das Erdbeben verbreitete *Schrecken* in der Region.
+
+  Les victimes vivaient dans une atmosphère de *terreur*.
+  Die Opfer lebten in einer Atmosphäre des *Terrors*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

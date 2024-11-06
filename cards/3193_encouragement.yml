@@ -13,23 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je crois qu’il apprécie les encouragements.
-  Ich glaube, er weiß die Ermutigung zu schätzen.
+  Je crois qu'il apprécie les *encouragements*.
+  Ich glaube, er schätzt die *Ermutigungen*.
 
-  Il a besoin d’encouragement pour réussir.
-  Er braucht Ermutigung, um erfolgreich zu sein.
+  La foule pousse des cris d'*encouragement* pour soutenir les coureurs.
+  Die Menge ruft *aufmunternde* Worte, um die Läufer zu unterstützen.
 
-  La nouvelle loi sur l'éducation est un encouragement à l'apprentissage tout au long de la vie.
-  Die neue Bildungsgesetzgebung ist eine Ermunterung zum lebenslangen Lernen.
+  Cette bourse d'*encouragement* m'aidera à poursuivre mes études.
+  Dieses *Förderungs*stipendium wird mir helfen, mein Studium fortzusetzen.
 
-  Ce discours était d'encouragement pour les étudiants.
-  Diese Rede war ermutigend für die Studenten.
+  Le conseil de classe lui a donné les *encouragements* pour ce trimestre.
+  Der Klassenrat hat ihr für dieses Trimester eine *Belobigung* ausgesprochen.
 
-  Le gouvernement a mis en place une série de mesures d'encouragement pour les entreprises innovantes.
-  Die Regierung hat eine Reihe von Förderungsmaßnahmen für innovative Unternehmen ins Leben gerufen.
+  Les mesures d'*encouragement* visent à soutenir les jeunes entrepreneurs.
+  Die *Förderungs*maßnahmen zielen darauf ab, junge Unternehmer zu unterstützen.
 
-  L'encouragement de la jeune génération est crucial pour l'avenir du pays.
-  Die Nachwuchsförderung ist für die Zukunft des Landes entscheidend.
+  L'*encouragement* à la lecture est important dès le plus jeune âge.
+  Die *Ermutigung* zum Lesen ist von klein auf wichtig.
+
+  Marie a reçu peu d'*encouragements* de la part de sa famille.
+  Marie hat wenig *Unterstützung* von ihrer Familie erhalten.
+
+  Cette victoire est un bel *encouragement* pour continuer.
+  Dieser Sieg ist eine schöne *Ermutigung* weiterzumachen.
+
+  L'*encouragement* de la nouvelle génération est une priorité pour notre école.
+  Die *Nachwuchsförderung* ist eine Priorität für unsere Schule.
+
+  Un mot d'*encouragement* peut faire toute la différence.
+  Ein *aufmunterndes* Wort kann den entscheidenden Unterschied machen.
+
+  La société d'*encouragement* organise un concours pour les jeunes artistes.
+  Die *Förderungs*gesellschaft organisiert einen Wettbewerb für junge Künstler.
+
+  Ces résultats constituent un *encouragement* à poursuivre nos recherches.
+  Diese Ergebnisse sind eine *Ermutigung*, unsere Forschung fortzusetzen.
+
+  Il m'a adressé quelques paroles d'*encouragement* avant l'examen.
+  Er hat mir vor der Prüfung einige *aufmunternde* Worte zugesprochen.
+
+  L'*encouragement* au sport commence dès l'école primaire.
+  Die *Förderung* des Sports beginnt bereits in der Grundschule.
+
+  Sans *encouragement*, beaucoup d'élèves perdent leur motivation.
+  Ohne *Ermutigung* verlieren viele Schüler ihre Motivation.
+
+  Les *encouragements* du public ont poussé l'équipe vers la victoire.
+  Die *Aufmunterung* des Publikums hat das Team zum Sieg getrieben.
+
+  Cette subvention est un *encouragement* au développement durable.
+  Diese Subvention ist eine *Förderung* der nachhaltigen Entwicklung.
+
+  J'ai besoin de vos *encouragements* pour surmonter cette épreuve.
+  Ich brauche eure *Ermutigung*, um diese Prüfung zu bestehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

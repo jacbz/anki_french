@@ -13,32 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il a été acquitté de l’accusation.
-  Er wurde von der Anklage freigesprochen.
+  Il a été *acquitté* de l'accusation.
+  Er wurde von der Anklage *freigesprochen*.
 
-  Le tribunal l’a acquitté.
-  Das Gericht hat ihn freigesprochen.
+  Le jury a *acquitté* l'accusé à l'unanimité.
+  Die Jury hat den Angeklagten einstimmig *freigesprochen*.
 
-  Chaque année, les employés doivent acquitter les cotisations sociales pour bénéficier des services de la Sécurité Sociale.
-  Jedes Jahr müssen die Angestellten die Beiträge an die Sozialversicherung entrichten, um die Leistungen der Sozialversicherung in Anspruch nehmen zu können.
+  Je dois *acquitter* ma facture d'électricité avant la fin du mois.
+  Ich muss meine Stromrechnung vor Ende des Monats *bezahlen*.
 
-  Pierre a enfin réussi à s'acquitter de sa dette envers sa sœur.
-  Pierre hat es endlich geschafft, seine Schuld bei seiner Schwester zu begleichen.
+  Marie s'est *acquittée* de sa dette envers Paul.
+  Marie hat ihre Schuld bei Paul *beglichen*.
 
-  L'importateur a dû acquitter des droits de douane sur la marchandise importée de Chine.
-  Der Importeur musste Zoll auf die aus China importierten Waren entrichten.
+  Nous devons *acquitter* les droits de douane sur ces marchandises.
+  Wir müssen für diese Waren den Zoll *entrichten*.
 
-  S'acquitter d'une dette morale envers ses proches est une valeur importante.
-  Eine moralische Verpflichtung gegenüber seinen Angehörigen zu erfüllen, ist ein wichtiger Wert.
+  Le comptable s'est bien *acquitté* de ses fonctions.
+  Der Buchhalter hat seine Aufgaben gut *ausgeübt*.
 
-  Marie a tenu parole et s'est acquittée de sa promesse de venir nous voir.
-  Marie hat Wort gehalten und ihr Versprechen, uns zu besuchen, gehalten.
+  Il faut *acquitter* les impôts avant la date limite.
+  Man muss die Steuern vor der Frist *bezahlen*.
 
-  Les parents ont l'obligation de s'acquitter de leurs obligations envers leurs enfants.
-  Die Eltern haben die Pflicht, ihren Verpflichtungen gegenüber ihren Kindern nachzukommen.
+  Elle s'est parfaitement *acquittée* de sa mission.
+  Sie hat ihre Mission perfekt *erfüllt*.
 
-  Le maire s'acquitte de sa fonction avec dévouement depuis de nombreuses années.
-  Der Bürgermeister übt seine Funktion seit vielen Jahren mit Hingabe aus.
+  Le chauffeur a *acquitté* le bon de livraison.
+  Der Fahrer hat den Lieferschein *quittiert*.
+
+  Je m'*acquitterai* de ma promesse, je te le jure.
+  Ich werde mein Versprechen *halten*, das schwöre ich dir.
+
+  Ils se sont *acquittés* des cotisations sociales.
+  Sie haben die Sozialversicherungsbeiträge *entrichtet*.
+
+  Le témoin s'est *acquitté* de son devoir civique.
+  Der Zeuge ist seiner Bürgerpflicht *nachgekommen*.
+
+  Le restaurant n'accepte pas les chèques non *acquittés*.
+  Das Restaurant akzeptiert keine nicht *quittierten* Schecks.
+
+  Elle s'*acquitte* toujours de ses obligations professionnelles.
+  Sie *kommt* ihren beruflichen Verpflichtungen stets *nach*.
+
+  Les parents doivent s'*acquitter* des frais de scolarité.
+  Die Eltern müssen die Schulgebühren *bezahlen*.
+
+  Le tribunal a *acquitté* tous les prévenus.
+  Das Gericht hat alle Angeklagten *freigesprochen*.
+
+  Je dois m'*acquitter* de cette corvée avant ce soir.
+  Ich muss diese lästige Aufgabe bis heute Abend *erledigen*.
+
+  L'entreprise a *acquitté* toutes ses dettes.
+  Das Unternehmen hat all seine Schulden *beglichen*.
+
+  Il s'est *acquitté* de sa tâche avec brio.
+  Er hat seine Aufgabe mit Bravour *erfüllt*.
+
+  Nous devons *acquitter* les droits d'entrée au musée.
+  Wir müssen den Museumseintritt *bezahlen*.
+
+  Pierre s'*acquittera* de cette dette morale envers vous.
+  Pierre wird diese moralische Schuld bei Ihnen *begleichen*.
+
+  Le client a *acquitté* sa note d'hôtel.
+  Der Gast hat seine Hotelrechnung *bezahlt*.
+
+  Elle s'est *acquittée* de ses responsabilités avec sérieux.
+  Sie ist ihren Verantwortungen mit Ernst *nachgekommen*.
+
+  Vous devez *acquitter* les frais de port.
+  Sie müssen die Versandkosten *bezahlen*.
+
+  Le juge *acquittera* probablement l'accusé faute de preuves.
+  Der Richter wird den Angeklagten mangels Beweisen wahrscheinlich *freisprechen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

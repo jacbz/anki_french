@@ -13,14 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Messieurs, je voudrais intervenir très brièvement.
-  Meine Herren, ich möchte mich ganz kurz zu Wort melden.
+  Messieurs, je voudrais intervenir très *brièvement*.
+  Meine Herren, ich möchte nur ganz *kurz* das Wort ergreifen.
 
-  Je vais vous expliquer brièvement.
-  Ich werde es Ihnen kurz erklären.
+  Le directeur a *brièvement* résumé la situation avant de partir.
+  Der Direktor hat die Situation *kurz* zusammengefasst, bevor er ging.
 
-  Une courte introduction où vous décrivez brièvement ce que vous avez à offrir.
-  Eine kurze Einführung, in der Sie knapp beschreiben, was Sie zu bieten haben.
+  Elle s'est arrêtée *brièvement* devant la vitrine pour admirer les bijoux.
+  Sie blieb *kurz* vor dem Schaufenster stehen, um den Schmuck zu bewundern.
+
+  Pouvez-vous expliquer *brièvement* votre point de vue ?
+  Können Sie Ihren Standpunkt *kurz und bündig* erklären?
+
+  Il m'a salué *brièvement* avant de disparaître dans la foule.
+  Er grüßte mich *kurz*, bevor er in der Menge verschwand.
+
+  J'aimerais vous présenter *brièvement* notre nouveau projet.
+  Ich möchte Ihnen unser neues Projekt *kurz* vorstellen.
+
+  La pluie s'est *brièvement* arrêtée, puis a repris de plus belle.
+  Der Regen hörte *kurz* auf und setzte dann noch stärker wieder ein.
+
+  *Brièvement* dit, nous ne sommes pas d'accord avec cette proposition.
+  *Kurz gesagt*, wir sind mit diesem Vorschlag nicht einverstanden.
+
+  Elle a mentionné *brièvement* son voyage en Italie pendant le dîner.
+  Sie erwähnte während des Essens *kurz* ihre Italienreise.
+
+  Le soleil est apparu *brièvement* entre les nuages cet après-midi.
+  Die Sonne kam heute Nachmittag *kurz* zwischen den Wolken hervor.
+
+  Je vais vous expliquer *brièvement* comment utiliser cette machine.
+  Ich werde Ihnen *kurz und bündig* erklären, wie man diese Maschine benutzt.
+
+  Nous nous sommes *brièvement* rencontrés à la conférence la semaine dernière.
+  Wir haben uns letzte Woche auf der Konferenz *kurz* getroffen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

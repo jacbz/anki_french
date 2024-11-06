@@ -13,41 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’étais seul dans un petit atelier.
-  Ich war allein in einem kleinen Atelier.
+  J'étais seul dans un petit *atelier*.
+  Ich war allein in einer kleinen *Werkstatt*.
 
-  Je travaille dans un atelier de couture.
-  Ich arbeite in einer Schneiderei.
+  Le célèbre peintre a passé des heures dans son *atelier* à créer son chef-d'œuvre.
+  Der berühmte Maler verbrachte Stunden in seinem *Atelier*, um sein Meisterwerk zu erschaffen.
 
-  L'atelier de carrosserie est un endroit où l'on répare les voitures endommagées.
-  Die Karosseriewerkstatt ist ein Ort, an dem man beschädigte Autos repariert.
+  Marie travaille dans un *atelier* de couture depuis vingt ans.
+  Marie arbeitet seit zwanzig Jahren in einer Schneider*werkstatt*.
 
-  L'atelier de fabrication produit des biens pour la consommation ou l'industrie.
-  Die Produktionsstätte produziert Güter für den Konsum oder die Industrie.
+  L'*atelier* de montage produit cent voitures par jour.
+  Die Montage*halle* fertigt hundert Autos pro Tag.
 
-  L'atelier de théâtre est un lieu où les acteurs se préparent à leurs rôles.
-  Die Theaterwerkstatt ist ein Ort, an dem Schauspieler sich auf ihre Rollen vorbereiten.
+  Les étudiants participent à un *atelier* d'écriture créative.
+  Die Studenten nehmen an einer *Arbeitsgruppe* für kreatives Schreiben teil.
 
-  L'atelier de cordonnier est un endroit où l'on répare les chaussures.
-  Die Schuhmacherwerkstatt ist ein Ort, an dem man Schuhe repariert.
+  Tout l'*atelier* s'est mis en grève pour protester contre les conditions de travail.
+  Die ganze *Belegschaft* ist in den Streik getreten, um gegen die Arbeitsbedingungen zu protestieren.
 
-  L'atelier de couture est un endroit où l'on fabrique des vêtements.
-  Die Schneiderwerkstatt ist ein Ort, an dem man Kleidung herstellt.
+  Mon grand-père possédait un petit *atelier* d'horlogerie dans le centre-ville.
+  Mein Großvater besaß eine kleine Uhrmacher*werkstatt* in der Innenstadt.
 
-  L'atelier d'horlogerie est un endroit où l'on répare les montres.
-  Die Uhrmacherei ist ein Ort, an dem man Uhren repariert.
+  Le sculpteur a transformé ce garage abandonné en *atelier*.
+  Der Bildhauer hat diese verlassene Garage in ein *Atelier* umgewandelt.
 
-  L'atelier de sculpteur est un endroit où l'on crée des sculptures.
-  Das Bildhaueratelier ist ein Ort, an dem man Skulpturen schafft.
+  Les enfants ont adoré participer à l'*atelier* de théâtre pendant les vacances.
+  Die Kinder liebten es, während der Ferien an der Theater*werkstatt* teilzunehmen.
 
-  L'atelier de serrurerie est un endroit où l'on fabrique et répare des serrures.
-  Die Schlosserwerkstatt ist ein Ort, an dem man Schlösser herstellt und repariert.
+  L'*atelier* de carrosserie était fermé pendant le week-end.
+  Die Karosserie*werkstatt* war am Wochenende geschlossen.
 
-  L'atelier de montage est un endroit où l'on assemble des produits.
-  Die Montagehalle ist ein Ort, an dem man Produkte zusammenbaut.
+  Le nouveau chef d'*atelier* a réorganisé toute la production.
+  Der neue *Werkstatt*leiter hat die gesamte Produktion neu organisiert.
 
-  L'atelier d'entretien des voies est un endroit où l'on maintient les voies ferrées en bon état.
-  Die Bahnmeisterei ist ein Ort, an dem man die Bahngleise in gutem Zustand hält.
+  Cette peinture provient de l'*atelier* de Rembrandt.
+  Dieses Gemälde stammt aus Rembrandts *Atelier*.
+
+  Dans cet *atelier* de fabrication, on produit des pièces électroniques.
+  In dieser *Produktionsstätte* werden elektronische Teile hergestellt.
+
+  L'*atelier* de serrurerie cherche un nouvel apprenti.
+  Die Schlosser*werkstatt* sucht einen neuen Lehrling.
+
+  Les participants ont été divisés en plusieurs *ateliers* de réflexion.
+  Die Teilnehmer wurden in mehrere *Arbeitsgruppen* aufgeteilt.
+
+  Une grande verrière illuminait l'*atelier* du peintre.
+  Eine große Glasdecke erleuchtete das *Atelier* des Malers.
+
+  L'*atelier* de cordonnerie répare des chaussures depuis trois générations.
+  Die Schuhmacher*werkstatt* repariert seit drei Generationen Schuhe.
+
+  Pendant la conférence, nous avons travaillé en *ateliers*.
+  Während der Konferenz haben wir in *Arbeitsgruppen* gearbeitet.
+
+  Son *atelier* de sculpture est ouvert au public le dimanche.
+  Sein Bildhauer*atelier* ist sonntags für die Öffentlichkeit geöffnet.
+
+  L'*atelier* d'entretien des voies est situé près de la gare.
+  Die *Bahnmeisterei* befindet sich in der Nähe des Bahnhofs.
+
+  Ces meubles ont été fabriqués dans notre *atelier*.
+  Diese Möbel wurden in unserer *Werkstatt* hergestellt.
+
+  Les étudiants en art passent beaucoup de temps dans leur *atelier*.
+  Die Kunststudenten verbringen viel Zeit in ihrem *Atelier*.
+
+  L'*atelier* de couture a reçu une commande importante pour le théâtre.
+  Die Schneider*werkstatt* hat einen wichtigen Auftrag für das Theater erhalten.
+
+  La lumière naturelle est essentielle dans un *atelier* d'artiste.
+  Natürliches Licht ist in einem Künstler*atelier* unerlässlich.
+
+  Les ouvriers de l'*atelier* de montage travaillent en trois équipes.
+  Die Arbeiter in der Montage*halle* arbeiten in drei Schichten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

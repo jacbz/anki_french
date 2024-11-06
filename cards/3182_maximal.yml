@@ -13,14 +13,44 @@ Register: ↘Fiktion
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le seuil de pollution maximale avait été atteint.
-  Der Grenzwert für die maximale Verschmutzung war erreicht worden.
+  Le seuil de pollution *maximale* avait été atteint.
+  Der *Höchst*wert der Verschmutzung war erreicht worden.
 
-  La vitesse maximale est de 130 km/h.
-  Die maximale Geschwindigkeit beträgt 130 km/h.
+  La température *maximale* prévue pour aujourd'hui est de 35 degrés.
+  Die *Höchst*temperatur für heute beträgt 35 Grad.
 
-  En l'espèce, la peine d'emprisonnement maximale est de deux ans, ce qui signifie que le juge ne peut pas condamner le coupable à plus de deux années de prison.
-  Das Höchstmaß der Freiheitsstrafe beträgt in diesem Fall zwei Jahre, was bedeutet, dass der Richter den Täter nicht zu mehr als zwei Jahren Gefängnis verurteilen kann.
+  La vitesse *maximale* autorisée sur cette route est de 90 km/h.
+  Die zulässige *Höchst*geschwindigkeit auf dieser Straße beträgt 90 km/h.
+
+  Le prix *maximal* de ce produit est fixé par la loi.
+  Der gesetzliche *Höchst*preis für dieses Produkt ist festgelegt.
+
+  La durée *maximale* du film ne doit pas dépasser deux heures.
+  Die *maximale* Länge des Films darf zwei Stunden nicht überschreiten.
+
+  L'appareil fonctionne à sa puissance *maximale*.
+  Das Gerät läuft mit *maximaler* Leistung.
+
+  La capacité *maximale* de la salle est de 200 personnes.
+  Die *maximale* Kapazität des Saals beträgt 200 Personen.
+
+  Le niveau *maximal* du réservoir a été atteint après les fortes pluies.
+  Der *Höchst*stand des Stausees wurde nach dem starken Regen erreicht.
+
+  La pression *maximale* de ces pneus est indiquée sur le côté.
+  Der *Höchst*druck dieser Reifen ist auf der Seite angegeben.
+
+  L'altitude *maximale* de vol pour cet avion est de 12000 mètres.
+  Die *maximale* Flughöhe für dieses Flugzeug liegt bei 12000 Metern.
+
+  La charge *maximale* de l'ascenseur ne doit pas être dépassée.
+  Die *maximale* Zuladung des Aufzugs darf nicht überschritten werden.
+
+  Les efforts *maximaux* des athlètes ont été récompensés.
+  Die *maximalen* Anstrengungen der Athleten wurden belohnt.
+
+  Le temps *maximal* accordé pour l'examen est de trois heures.
+  Die *maximale* Zeit für die Prüfung beträgt drei Stunden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

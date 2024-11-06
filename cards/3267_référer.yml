@@ -13,23 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je vous réfère à notre défense.
-  Ich beziehe mich auf unsere Verteidigung.
+  Je vous *réfère* à notre défense.
+  Ich *verweise* Sie auf unsere Verteidigung.
 
-  Je me réfère à notre conversation précédente.
-  Ich beziehe mich auf unser vorheriges Gespräch.
+  Il faudra en *référer* au conseil d'administration avant de prendre une décision.
+  Wir müssen die Angelegenheit dem Vorstand *vorlegen*, bevor wir eine Entscheidung treffen.
 
-  Avant de prendre une décision finale, il a décidé d'en référer à son supérieur.
-  Bevor er eine endgültige Entscheidung traf, beschloss er, die Sache seinem Vorgesetzten vorzulegen.
+  L'avocat s'est *référé* à plusieurs témoignages pour défendre son client.
+  Der Anwalt hat sich auf mehrere Zeugenaussagen *berufen*, um seinen Mandanten zu verteidigen.
 
-  Dans son rapport, il se réfère à des sources fiables.
-  In seinem Bericht bezieht er sich auf zuverlässige Quellen.
+  Cette théorie se *réfère* aux découvertes de Marie Curie.
+  Diese Theorie *bezieht* sich auf die Entdeckungen von Marie Curie.
 
-  Pour les détails techniques, s'en référer à l'annexe.
-  Für technische Details siehe Anhang.
+  Je dois en *référer* à mon chef avant d'accepter votre proposition.
+  Ich muss Ihren Vorschlag erst meinem Chef *unterbreiten*.
 
-  En cas de litige, les parties s'en réfèrent au tribunal.
-  Im Streitfall wenden sich die Parteien an das Gericht.
+  Les notes en bas de page se *réfèrent* au chapitre précédent.
+  Die Fußnoten *beziehen* sich auf das vorherige Kapitel.
+
+  Pour plus d'informations, veuillez vous *référer* au mode d'emploi.
+  Für weitere Informationen *schauen* Sie bitte in der Bedienungsanleitung *nach*.
+
+  Le professeur s'est *référé* aux travaux d'Einstein dans son cours.
+  Der Professor hat sich in seiner Vorlesung auf Einsteins Arbeiten *bezogen*.
+
+  Je m'en *réfère* à votre jugement dans cette affaire.
+  Ich *verlasse* mich in dieser Angelegenheit auf Ihr Urteil.
+
+  Ces commentaires se *réfèrent* à la version précédente du document.
+  Diese Kommentare *beziehen* sich auf die vorherige Version des Dokuments.
+
+  Le juge devra en *référer* à la Cour suprême.
+  Der Richter muss die Sache dem Obersten Gerichtshof *vorlegen*.
+
+  Son article se *réfère* aux événements de la semaine dernière.
+  Sein Artikel *nimmt* auf die Ereignisse der letzten Woche *Bezug*.
+
+  Les étudiants doivent se *référer* au syllabus pour connaître les dates d'examen.
+  Die Studenten müssen im Lehrplan *nachschauen*, um die Prüfungstermine zu erfahren.
+
+  Elle s'est *référée* à son expérience personnelle pour expliquer sa décision.
+  Sie hat sich bei ihrer Entscheidungserklärung auf ihre persönlichen Erfahrungen *berufen*.
+
+  Je vais en *référer* immédiatement à la direction.
+  Ich werde die Sache sofort der Geschäftsleitung *vorlegen*.
+
+  Cette loi se *réfère* aux droits fondamentaux des citoyens.
+  Dieses Gesetz *bezieht* sich auf die Grundrechte der Bürger.
+
+  Pour toute question technique, veuillez vous *référer* au manuel.
+  Bei technischen Fragen *schauen* Sie bitte im Handbuch *nach*.
+
+  Le paragraphe trois se *réfère* directement à votre situation.
+  Der dritte Absatz *bezieht* sich direkt auf Ihre Situation.
+
+  Elle doit en *référer* à ses collègues avant de prendre une décision.
+  Sie muss die Sache ihren Kollegen *vorlegen*, bevor sie eine Entscheidung trifft.
+
+  Cette citation se *réfère* à un poème de Baudelaire.
+  Dieses Zitat *bezieht* sich auf ein Gedicht von Baudelaire.
+
+  Le chercheur s'est *référé* aux études précédentes dans sa publication.
+  Der Forscher hat sich in seiner Publikation auf frühere Studien *bezogen*.
+
+  Dans ce contexte, le mot se *réfère* à un concept philosophique.
+  In diesem Zusammenhang *bezieht* sich das Wort auf ein philosophisches Konzept.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

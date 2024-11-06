@@ -13,11 +13,38 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle a manifestement bénéficié d’un large soutien.
-  Sie fand offensichtlich breite Unterstützung.
+  Elle a *manifestement* bénéficié d'un large soutien.
+  Sie hat *offensichtlich* breite Unterstützung erhalten.
 
-  Il est manifestement en colère.
-  Er ist offensichtlich wütend.
+  Cette personne est *manifestement* malade depuis plusieurs jours.
+  Diese Person ist seit mehreren Tagen *ganz offensichtlich* krank.
+
+  Le projet va *manifestement* échouer si nous ne changeons rien.
+  Das Projekt wird *offenbar* scheitern, wenn wir nichts ändern.
+
+  Il était *manifestement* sous l'influence de l'alcool.
+  Er stand *ganz offensichtlich* unter Alkoholeinfluss.
+
+  Cette information est *manifestement* fausse.
+  Diese Information ist *offenkundig* falsch.
+
+  Le suspect est *manifestement* coupable du crime.
+  Der Verdächtige ist *ganz offensichtlich* schuldig.
+
+  Les enfants sont *manifestement* fatigués après cette longue journée.
+  Die Kinder sind nach diesem langen Tag *offensichtlich* müde.
+
+  Il s'agit *manifestement* d'une erreur de communication.
+  Es handelt sich *ganz offensichtlich* um einen Kommunikationsfehler.
+
+  La situation s'est *manifestement* améliorée depuis l'année dernière.
+  Die Situation hat sich seit dem letzten Jahr *offenkundig* verbessert.
+
+  Ces résultats sont *manifestement* meilleurs que prévu.
+  Diese Ergebnisse sind *ganz offensichtlich* besser als erwartet.
+
+  Le témoin a *manifestement* menti pendant l'interrogatoire.
+  Der Zeuge hat während der Befragung *offensichtlich* gelogen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

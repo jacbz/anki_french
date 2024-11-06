@@ -13,17 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Plusieurs techniques sont sans doute applicables.
-  Wahrscheinlich sind mehrere Techniken anwendbar.
+  Plusieurs techniques sont sans doute *applicables*.
+  Mehrere Techniken sind zweifellos *anwendbar*.
 
-  Cette loi est applicable à tous.
-  Dieses Gesetz ist auf alle anwendbar.
+  Cette théorie est *applicable* à de nombreux cas.
+  Diese Theorie ist auf viele Fälle *anwendbar*.
 
-  Ce traitement est applicable à toutes les personnes souffrant de cette maladie.
-  Diese Behandlung ist anwendbar auf alle Personen, die an dieser Krankheit leiden.
+  La nouvelle loi sera *applicable* à partir de demain.
+  Das neue Gesetz wird ab morgen *anwendbar* sein.
 
-  Cette théorie est applicable à de nombreux domaines de la science.
-  Diese Theorie ist anwendbar auf viele Bereiche der Wissenschaft.
+  Cette méthode n'est pas *applicable* dans la pratique.
+  Diese Methode ist in der Praxis nicht *anwendbar*.
+
+  La colle n'est *applicable* que sur des surfaces propres.
+  Der Kleber lässt sich nur auf saubere Oberflächen *auftragen*.
+
+  Ces découvertes sont *applicables* à la recherche médicale.
+  Diese Entdeckungen sind in der medizinischen Forschung *brauchbar*.
+
+  Les règles sont *applicables* à tous les participants.
+  Die Regeln sind für alle Teilnehmer *anwendbar*.
+
+  Le traitement est *applicable* aux enfants comme aux adultes.
+  Die Behandlung ist sowohl bei Kindern als auch bei Erwachsenen *anwendbar*.
+
+  Cette solution n'est pas *applicable* à votre problème.
+  Diese Lösung ist auf Ihr Problem nicht *anwendbar*.
+
+  Le nouveau tarif sera *applicable* dès la semaine prochaine.
+  Der neue Tarif wird ab nächster Woche *gültig* sein.
+
+  Cette peinture est facilement *applicable* au pinceau.
+  Diese Farbe lässt sich leicht mit dem Pinsel *auftragen*.
+
+  Les mêmes principes sont *applicables* dans les deux cas.
+  Die gleichen Prinzipien sind in beiden Fällen *anwendbar*.
+
+  Ces triangles sont *applicables* l'un sur l'autre.
+  Diese Dreiecke sind aufeinander *deckungsgleich*.
+
+  Les sanctions seront *applicables* immédiatement.
+  Die Sanktionen werden sofort *wirksam*.
+
+  Les conseils du professeur sont parfaitement *applicables*.
+  Die Ratschläge des Lehrers sind perfekt *umsetzbar*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

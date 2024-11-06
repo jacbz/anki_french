@@ -13,32 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le marché du sucre se présentait comme une gourmandise.
-  Der Zuckermarkt präsentierte sich wie eine Delikatesse.
+  Le marché du *sucre* se présentait comme une gourmandise.
+  Der *Zucker*markt präsentierte sich wie eine Nascherei.
 
-  Je ne mets pas de sucre dans mon café.
-  Ich gebe keinen Zucker in meinen Kaffee.
+  "Je vais casser du *sucre* sur ton dos si tu continues comme ça !"
+  "Ich werde schlecht über dich reden, wenn du so weitermachst!"
 
-  Il aime le café sans sucre.
-  Er mag Kaffee ohne Zucker.
+  Elle est tout *sucre* tout miel devant le patron.
+  Sie gibt sich vor dem Chef *zuckersüß*.
 
-  Veux-tu du sucre dans ton café?
-  Möchtest du Zucker in deinem Kaffee?
+  Mon café a besoin de deux *sucres*.
+  Mein Kaffee braucht zwei *Zucker*würfel.
 
-  Le sucre candi est un plaisir pour les yeux et le palais.
-  Kandis ist ein Genuss für Auge und Gaumen.
+  Les enfants adorent les bonshommes en *sucre* à la fête foraine.
+  Die Kinder lieben die *Zucker*figuren auf dem Jahrmarkt.
 
-  Il a cassé du sucre sur le dos de son rival pour le discréditer.
-  Er hat seinen Rivalen durch den Dreck gezogen, um ihn zu diskreditieren.
+  Le *sucre* brun est plus savoureux que le blanc.
+  Brauner *Zucker* ist geschmackvoller als weißer.
 
-  Elle était tout sucre tout miel avec lui, mais elle était pleine de ressentiment.
-  Sie war zuckersüß zu ihm, aber sie war voller Groll.
+  La production de *sucre* de betterave a augmenté cette année.
+  Die *Zucker*rübenproduktion ist dieses Jahr gestiegen.
 
-  Le sucre en morceaux est idéal pour le thé ou le café.
-  Würfelzucker ist ideal für Tee oder Kaffee.
+  Nous utilisons du *sucre* glace pour décorer le gâteau.
+  Wir verwenden *Puder*zucker, um den Kuchen zu verzieren.
 
-  Le sucre en poudre est plus facile à dissoudre que le sucre en morceaux.
-  Feiner Kristallzucker löst sich leichter auf als Würfelzucker.
+  Le *sucre* d'orge est un bonbon traditionnel de Noël.
+  Die *Zucker*stange ist ein traditionelles Weihnachtsbonbon.
+
+  Elle ajoute toujours du *sucre* vanillé dans ses cookies.
+  Sie gibt immer *Vanille*zucker in ihre Kekse.
+
+  Le *sucre* candi aide à soulager les maux de gorge.
+  *Kandis*zucker hilft bei Halsweh.
+
+  Mon grand-père préfère le *sucre* en poudre dans son thé.
+  Mein Großvater bevorzugt *Kristall*zucker in seinem Tee.
+
+  Cette recette nécessite du *sucre* cristallisé.
+  Dieses Rezept erfordert *Kristall*zucker.
+
+  N'oublie pas de saupoudrer les crêpes de *sucre*.
+  Vergiss nicht, die Crêpes mit *Zucker* zu bestreuen.
+
+  Les cerises sont conservées dans un sirop de *sucre*.
+  Die Kirschen werden in *Zucker*sirup eingelegt.
+
+  Cette montagne ressemble à un pain de *sucre*.
+  Dieser Berg sieht aus wie ein *Zucker*hut.
+
+  "Tu n'es pas en *sucre*, tu peux sortir sous la pluie !"
+  "Du bist nicht aus *Zucker*, du kannst ruhig in den Regen gehen!"
+
+  Le taux de *sucre* dans son sang est trop élevé.
+  Ihr *Zucker*wert im Blut ist zu hoch.
+
+  Le *sucre* perlé décore parfaitement les brioches.
+  *Perl*zucker schmückt die Brioche perfekt.
+
+  Le *sucre* inverti est utilisé en pâtisserie professionnelle.
+  *Invert*zucker wird in der professionellen Konditorei verwendet.
+
+  Les nutritionnistes parlent souvent des *sucres* rapides.
+  Ernährungsberater sprechen oft von schnellen *Zuckern*.
+
+  Le *sucre* roux donne un goût spécial au café.
+  Brauner *Zucker* gibt dem Kaffee einen besonderen Geschmack.
+
+  Le *sucre* complexe se trouve dans les pâtes.
+  Komplexer *Zucker* findet sich in Nudeln.
+
+  La pince à *sucre* est en argent.
+  Die *Zucker*zange ist aus Silber.
+
+  Le *sucre* fondu devient du caramel.
+  Geschmolzener *Zucker* wird zu Karamell.
+
+  Les *sucres* du raisin se transforment en alcool.
+  Die *Zucker* der Weintrauben verwandeln sich in Alkohol.
+
+  Le lactose est le *sucre* naturel du lait.
+  Laktose ist der natürliche *Zucker* in der Milch.
+
+  La betterave sucrière produit du *sucre* blanc.
+  Die Zuckerrübe produziert weißen *Zucker*.
+
+  Le processus de raffinage du *sucre* est complexe.
+  Der *Zucker*raffinationsprozess ist komplex.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

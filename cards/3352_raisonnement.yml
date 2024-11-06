@@ -13,17 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le livre explique en détail ce raisonnement assez simple.
-  Das Buch erklärt diese recht einfache Argumentation ausführlich.
+  Le livre explique en détail ce *raisonnement* assez simple.
+  Das Buch erklärt diesen ziemlich einfachen *Gedankengang* ausführlich.
 
-  Son raisonnement était logique.
-  Seine Argumentation war logisch.
+  Son *raisonnement* est fondé sur l'expérience plutôt que sur l'intuition.
+  Seine *Denkweise* basiert eher auf Erfahrung als auf Intuition.
 
-  Le raisonnement analogique est un processus qui consiste à établir une relation de ressemblance entre deux situations ou objets différents.
-  Der Analogieschluss ist ein Verfahren, bei dem man eine Beziehung zwischen zwei verschiedenen Situationen oder Objekten herstellt, die einander ähneln.
+  Les mathématiques exigent un *raisonnement* rigoureux.
+  Die Mathematik erfordert *logisches Denken*.
 
-  Le raisonnement déductif est une forme de logique qui consiste à tirer des conclusions à partir de prémisses générales.
-  Der deduktive Schluss ist eine Form der Logik, bei der man aus allgemeinen Aussagen Schlussfolgerungen zieht.
+  Suivez bien mon *raisonnement* : si A égale B, et B égale C, alors A égale C.
+  Folgen Sie meiner *Schlussfolgerung*: Wenn A gleich B ist und B gleich C ist, dann ist A gleich C.
+
+  Il a présenté un *raisonnement* analogique pour expliquer ce phénomène complexe.
+  Er hat einen Analogie*schluss* vorgestellt, um dieses komplexe Phänomen zu erklären.
+
+  La faiblesse de son *raisonnement* était évidente pour tout le monde.
+  Die Schwäche seiner *Argumentation* war für alle offensichtlich.
+
+  Les enfants développent leur capacité de *raisonnement* progressivement.
+  Kinder entwickeln ihr *Denkvermögen* schrittweise.
+
+  Le professeur nous a montré un exemple de *raisonnement* déductif.
+  Der Lehrer hat uns ein Beispiel für einen deduktiven *Schluss* gezeigt.
+
+  Arrêtez vos *raisonnements* et passons à l'action !
+  Hört auf mit euren endlosen *Diskussionen* und lasst uns handeln!
+
+  Son *raisonnement* était juste, même si la conclusion était fausse.
+  Ihre *Gedankengänge* waren richtig, auch wenn die Schlussfolgerung falsch war.
+
+  La logique est l'étude des règles du *raisonnement*.
+  Die Logik ist die Lehre von den Regeln des *Denkens*.
+
+  Il a démontré sa théorie par un *raisonnement* par l'absurde.
+  Er hat seine Theorie durch einen *Beweis* durch Widerspruch belegt.
+
+  Cette découverte est le fruit d'un long *raisonnement*.
+  Diese Entdeckung ist das Ergebnis einer langen *Gedankenführung*.
+
+  J'admire la clarté de son *raisonnement*.
+  Ich bewundere die Klarheit ihrer *Denkweise*.
+
+  Les prémisses de ce *raisonnement* sont incorrectes.
+  Die Prämissen dieser *Schlussfolgerung* sind falsch.
+
+  Elle a un *raisonnement* très intuitif.
+  Sie hat eine sehr intuitive *Denkweise*.
+
+  Les *raisonnements* spécieux peuvent sembler logiques au premier abord.
+  Irreführende *Argumentationen* können zunächst logisch erscheinen.
+
+  Son *raisonnement* mathématique est impressionnant.
+  Seine mathematische *Denkweise* ist beeindruckend.
+
+  Le philosophe a construit son *raisonnement* étape par étape.
+  Der Philosoph hat seine *Gedankengänge* Schritt für Schritt aufgebaut.
+
+  L'enfant commence à développer son *raisonnement* logique.
+  Das Kind beginnt, sein logisches *Denken* zu entwickeln.
+
+  Cette méthode de *raisonnement* est utilisée en philosophie depuis l'Antiquité.
+  Diese *Denk*methode wird in der Philosophie seit der Antike verwendet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

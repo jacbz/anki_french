@@ -13,32 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle est mince et jolie et elle ment.
-  Sie ist schlank und hübsch und lügt.
+  Elle est *mince* et jolie et elle ment.
+  Sie ist *schlank* und hübsch und sie lügt.
 
-  Elle est très mince.
-  Sie ist sehr dünn.
+  Cette robe te fait paraître plus *mince*.
+  Dieses Kleid lässt dich *schlanker* aussehen.
 
-  Ses lèvres minces laissaient entrevoir un sourire discret.
-  Seine schmalen Lippen ließen ein dezentes Lächeln erkennen.
+  "*Mince* alors ! J'ai oublié mes clés à la maison."
+  "*Verflixt* noch mal! Ich habe meine Schlüssel zu Hause vergessen."
 
-  Il peint avec des couleurs minces et délicates.
-  Er trägt die Farbe dünn und zart auf.
+  Il faut couper la viande en tranches *minces*.
+  Man muss das Fleisch in *dünne* Scheiben schneiden.
 
-  Mince alors ! J'ai oublié mon téléphone !
-  Scheibenkleister! Ich habe mein Telefon vergessen!
+  Un *mince* filet d'eau coulait encore du robinet.
+  Ein *dünner* Wasserstrahl floss noch aus dem Hahn.
 
-  Gérer une entreprise n'est pas une mince affaire.
-  Eine Firma zu leiten, ist keine Kleinigkeit.
+  La cloison *mince* laissait passer tous les bruits.
+  Die *dünne* Wand ließ alle Geräusche durch.
 
-  Le personnage principal du film est un homme aux lèvres minces, qui semble froid et distant.
-  Die Hauptfigur des Films ist ein dünnlippiger Mann, der kalt und distanziert wirkt.
+  Marie a des lèvres très *minces*.
+  Marie hat sehr *schmale* Lippen.
 
-  Elle a les lèvres minces et un regard perçant.
-  Sie hat dünne Lippen und einen durchdringenden Blick.
+  Une *mince* couche de neige recouvrait le sol.
+  Eine *dünne* Schicht Schnee bedeckte den Boden.
 
-  L'intérêt de ce livre est bien mince, il ne m'a pas captivé.
-  Dieses Buch ist von ziemlich geringem Interesse, es hat mich nicht gefesselt.
+  Les résultats sont bien *minces* pour tant d'efforts.
+  Die Ergebnisse sind sehr *dürftig* für so viel Aufwand.
+
+  "*Mince* ! Je me suis encore trompé de chemin."
+  "*Mann*! Ich habe mich schon wieder verlaufen."
+
+  Cette feuille de carton est trop *mince* pour l'emballage.
+  Dieser Karton ist zu *dünn* für die Verpackung.
+
+  Le peintre applique une couche *mince* de couleur.
+  Der Maler trägt eine *dünne* Farbschicht auf.
+
+  Son argumentation est vraiment *mince*.
+  Seine Argumentation ist wirklich *dürftig*.
+
+  Thomas est *mince* comme un fil.
+  Thomas ist *dünn* wie ein Strich.
+
+  Ce n'est pas une *mince* affaire de déménager tout seul.
+  Es ist keine *Kleinigkeit*, ganz alleine umzuziehen.
+
+  La jeune fille reste *mince* malgré les sucreries.
+  Das Mädchen bleibt *schlank* trotz der Süßigkeiten.
+
+  "*Mince* alors, quelle belle voiture !"
+  "*Mensch*, was für ein tolles Auto!"
+
+  L'intérêt pour ce livre est bien *mince*.
+  Das Interesse an diesem Buch ist sehr *gering*.
+
+  C'est un personnage bien *mince* dans cette histoire.
+  Er ist eine ziemlich *unbedeutende* Person in dieser Geschichte.
+
+  Il n'a écrit qu'une *mince* brochure sur le sujet.
+  Er hat nur eine *dünne* Broschüre über das Thema geschrieben.
+
+  Son crédit à la banque est *mince*.
+  Sein Kredit bei der Bank ist *gering*.
+
+  Pierre a hérité d'une *mince* fortune de son oncle.
+  Pierre hat ein *bescheidenes* Vermögen von seinem Onkel geerbt.
+
+  Les preuves sont trop *minces* pour une condamnation.
+  Die Beweise sind zu *dürftig* für eine Verurteilung.
+
+  Cette étoffe est tellement *mince* qu'elle se déchire facilement.
+  Dieser Stoff ist so *dünn*, dass er leicht reißt.
+
+  La différence entre les deux versions est *mince*.
+  Der Unterschied zwischen den beiden Versionen ist *gering*.
+
+  Le profit de cette année était vraiment *mince*.
+  Der Gewinn dieses Jahres war wirklich *gering*.
+
+  Son savoir en mathématiques est plutôt *mince*.
+  Seine Mathematikkenntnisse sind ziemlich *dürftig*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les divergences persistent entre les grandes puissances.
-  Die Differenzen zwischen den Großmächten bestehen fort.
+  Les *divergences* persistent entre les grandes puissances.
+  Die *Meinungsverschiedenheiten* zwischen den Großmächten bestehen weiter.
 
-  Il y a une divergence d’opinions.
-  Es gibt eine Meinungsverschiedenheit.
+  La *divergence* d'intérêts entre les deux partenaires a conduit à la rupture du contrat.
+  Die *Divergenz* der Interessen zwischen den beiden Partnern führte zur Vertragsauflösung.
 
-  La divergence d'opinions a conduit à un débat houleux entre les deux parties.
-  Die Meinungsverschiedenheit führte zu einer hitzigen Debatte zwischen den beiden Parteien.
+  Les *divergences* d'opinions au sein du groupe ont enrichi le débat.
+  Die *Meinungsunterschiede* in der Gruppe haben die Debatte bereichert.
 
-  La divergence d'intérêts entre les deux pays a compliqué les négociations.
-  Die unterschiedlichen Interessen der beiden Länder haben die Verhandlungen kompliziert.
+  Malgré leurs *divergences* de goûts musicaux, ils s'entendent très bien.
+  Trotz ihrer unterschiedlichen *Musikvorlieben* verstehen sie sich sehr gut.
+
+  La *divergence* des deux lignes se produit à partir de ce point.
+  Die *Divergenz* der beiden Linien beginnt ab diesem Punkt.
+
+  Le physicien a mesuré la *divergence* des rayons lumineux.
+  Der Physiker hat die *Divergenz* der Lichtstrahlen gemessen.
+
+  La *divergence* des voies ferrées nécessite un nouveau système de signalisation.
+  Das *Auseinanderlaufen* der Gleise erfordert ein neues Signalsystem.
+
+  La *divergence* oculaire de l'enfant a été corrigée par des exercices spécifiques.
+  Das *Schielen* des Kindes wurde durch spezielle Übungen korrigiert.
+
+  Cette lentille a une *divergence* de -2 dioptries.
+  Diese Linse hat eine *Divergenz* von -2 Dioptrien.
+
+  Les *divergences* politiques n'ont pas empêché la formation d'une coalition.
+  Die politischen *Differenzen* haben die Bildung einer Koalition nicht verhindert.
+
+  Les météorologues ont observé une *divergence* des courants marins dans cette région.
+  Die Meteorologen haben eine *Divergenz* der Meeresströmungen in dieser Region beobachtet.
+
+  Le mathématicien a démontré la *divergence* de cette série.
+  Der Mathematiker hat die *Divergenz* dieser Reihe bewiesen.
+
+  La *divergence* du réacteur nucléaire est strictement contrôlée.
+  Die *Divergenz* des Kernreaktors wird streng überwacht.
+
+  Nos *divergences* de vues sur ce projet sont irréconciliables.
+  Unsere *Auffassungsunterschiede* zu diesem Projekt sind unüberbrückbar.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

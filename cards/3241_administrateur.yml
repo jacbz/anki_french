@@ -13,26 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Voyez comme on est de très bons administrateurs.
-  Sehen Sie, was für gute Verwalter wir sind.
+  Voyez comme on est de très bons *administrateurs*.
+  Seht nur, was für gute *Verwalter* wir sind.
 
-  L’administrateur est responsable de la gestion de l’entreprise.
-  Der Administrator ist für die Verwaltung des Unternehmens verantwortlich.
+  L'*administratrice* du site web a bloqué plusieurs comptes suspects.
+  Die Website-*Verwalterin* hat mehrere verdächtige Konten gesperrt.
 
-  La nouvelle administratrice légale est une jeune femme dynamique.
-  Die neue Nachlassverwalterin ist eine junge, dynamische Frau.
+  Notre *administrateur* judiciaire nous aidera à restructurer l'entreprise.
+  Unser *Insolvenzverwalter* wird uns bei der Umstrukturierung des Unternehmens helfen.
 
-  La grand-mère a nommé sa fille administratrice des biens de la succession.
-  Die Großmutter hat ihre Tochter zur Erbschaftsverwalterin ernannt.
+  Marie est devenue *administratrice* du théâtre national l'année dernière.
+  Marie wurde letztes Jahr *Intendantin* des Nationaltheaters.
 
-  L'administrateur fiduciaire a été choisi par les deux parties.
-  Die Vertragstreuhänderin wurde von beiden Parteien ausgewählt.
+  L'*administrateur* légal doit agir dans l'intérêt de l'enfant.
+  Der *Nachlassverwalter* muss im Interesse des Kindes handeln.
 
-  L'administrateur judiciaire a été nommé par le tribunal.
-  Die Konkursverwalterin wurde vom Gericht ernannt.
+  Les *administrateurs* ont voté contre la fusion des deux entreprises.
+  Die *Verwaltungsratsmitglieder* haben gegen die Fusion der beiden Unternehmen gestimmt.
 
-  L'administrateur de l'insolvabilité a été chargé de gérer les actifs de la société.
-  Die Insolvenzverwalterin wurde mit der Verwaltung des Firmenvermögens betraut.
+  Mon frère est un excellent *administrateur* - il gère parfaitement son patrimoine.
+  Mein Bruder ist ein ausgezeichneter *Geschäftsführer* - er verwaltet sein Vermögen perfekt.
+
+  L'*administratrice* fiduciaire veille au respect du contrat.
+  Die *Treuhänderin* achtet auf die Einhaltung des Vertrags.
+
+  Pierre a l'esprit d'un *administrateur* : il est méthodique et rigoureux.
+  Pierre hat den Geist eines *Verwalters*: er ist methodisch und gründlich.
+
+  En tant qu'*administratrice* civile, elle supervise plusieurs ministères.
+  Als *Verwaltungsbeamtin* beaufsichtigt sie mehrere Ministerien.
+
+  L'*administrateur* diocésain dirigera le diocèse jusqu'à la nomination du nouvel évêque.
+  Der *Verwalter* wird die Diözese bis zur Ernennung des neuen Bischofs leiten.
+
+  Les *administrateurs* de l'insolvabilité ont présenté leur rapport final.
+  Die *Insolvenzverwalter* haben ihren Abschlussbericht vorgelegt.
+
+  Notre *administratrice* des biens de la succession a tout organisé parfaitement.
+  Unsere *Erbschaftsverwalterin* hat alles perfekt organisiert.
+
+  Le conseil a nommé trois nouveaux *administrateurs* hier.
+  Der Rat hat gestern drei neue *Verwaltungsratsmitglieder* ernannt.
+
+  L'*administrateur* du réseau informatique travaille jour et nuit.
+  Der Netzwerk-*Administrator* arbeitet Tag und Nacht.
+
+  Cette *administratrice* prudente a évité plusieurs crises financières.
+  Diese vorsichtige *Geschäftsführerin* hat mehrere Finanzkrisen verhindert.
+
+  Les *administrateurs* de la société se réunissent chaque mois.
+  Die *Geschäftsführer* der Gesellschaft treffen sich jeden Monat.
+
+  C'est une *administratrice* compétente qui sait gérer les situations difficiles.
+  Sie ist eine kompetente *Verwalterin*, die schwierige Situationen zu meistern weiß.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

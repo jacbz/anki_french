@@ -13,41 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous demeurons les bénéficiaires des sacrifices.
-  Wir bleiben die Nutznießer der Opfer.
+  Nous demeurons les *bénéficiaires* des sacrifices.
+  Wir bleiben die *Nutznießer* der Opfer.
 
-  Le bénéficiaire de cette assurance est ma mère.
-  Der Begünstigte dieser Versicherung ist meine Mutter.
+  Cette entreprise est *bénéficiaire* depuis trois ans.
+  Dieses Unternehmen arbeitet seit drei Jahren *mit Gewinn*.
 
-  La marge bénéficiaire de l'entreprise a augmenté de 10% cette année.
-  Die Gewinnspanne des Unternehmens ist in diesem Jahr um 10% gestiegen.
+  La *marge bénéficiaire* de ce produit est très faible.
+  Die *Gewinn*spanne dieses Produkts ist sehr gering.
 
-  Marie est bénéficiaire de l'allocation logement depuis plusieurs années.
-  Marie ist seit mehreren Jahren Wohngeldempfängerin.
+  Les étudiants *bénéficiaires* d'une bourse doivent s'inscrire avant vendredi.
+  Die *berechtigten* Studenten müssen sich bis Freitag für das Stipendium anmelden.
 
-  Les étudiants bénéficiaires d'une bourse ont un accès privilégié aux ressources universitaires.
-  Die Studierenden, die eine Studienbeihilfe beziehen, haben einen privilegierten Zugang zu den universitären Ressourcen.
+  Marie est la *bénéficiaire* de l'allocation logement depuis janvier.
+  Marie ist seit Januar die Wohngeld*empfängerin*.
 
-  Elle est bénéficiaire d'un effet de 10 000 euros.
-  Sie ist Wechselnehmerin eines Schecks über 10 000 Euro.
+  Le *bénéficiaire* du chèque doit présenter une pièce d'identité.
+  Der Scheck*empfänger* muss einen Ausweis vorlegen.
 
-  Jean est le bénéficiaire d'un legs important de la part de son grand-père.
-  Jean ist Nutznießer eines bedeutenden Erbes seines Großvaters.
+  Mon grand-père est *bénéficiaire* d'une pension de retraite.
+  Mein Großvater ist Renten*empfänger*.
 
-  L'entreprise est bénéficiaire depuis plusieurs années, ce qui est un signe de bonne santé financière.
-  Das Unternehmen arbeitet seit mehreren Jahren mit Gewinn, was ein Zeichen für seine finanzielle Gesundheit ist.
+  Elle est devenue la principale *bénéficiaire* de l'héritage de sa tante.
+  Sie wurde zur Haupt*begünstigten* des Erbes ihrer Tante.
 
-  Les actionnaires sont bénéficiaires de dividendes, qui sont distribués chaque année.
-  Die Aktionäre sind dividendenberechtigt, die jedes Jahr ausgeschüttet werden.
+  Les petites entreprises sont les *bénéficiaires* de cette réforme fiscale.
+  Die kleinen Unternehmen sind die *Nutznießer* dieser Steuerreform.
 
-  Il est bénéficiaire de la retraite à partir de l'âge de 65 ans.
-  Er ist pensionsfähig ab dem Alter von 65 Jahren.
+  Tous les *bénéficiaires* de l'aide sociale recevront un courrier.
+  Alle Sozialleistungs*empfänger* werden ein Schreiben erhalten.
 
-  Les entreprises qui investissent dans les énergies renouvelables peuvent être bénéficiaires d'un allégement fiscal.
-  Unternehmen, die in erneuerbare Energien investieren, können steuerbegünstigt sein.
+  Notre service client contactera le *bénéficiaire* du paiement.
+  Unser Kundenservice wird den Zahlungs*empfänger* kontaktieren.
 
-  Sophie est bénéficiaire d'une bourse d'études à l'étranger.
-  Sophie ist Bezieherin einer Studienbeihilfe für ein Studium im Ausland.
+  Ce secteur reste *bénéficiaire* malgré la crise.
+  Dieser Sektor arbeitet trotz der Krise weiterhin *mit Gewinn*.
+
+  Les *bénéficiaires* de dividendes doivent déclarer leurs revenus.
+  Die Dividenden*empfänger* müssen ihre Einkünfte angeben.
+
+  Paul est le seul *bénéficiaire* de cette garantie.
+  Paul ist der einzige Garantie*empfänger*.
+
+  Les *bénéficiaires* de l'amnistie peuvent rentrer dans leur pays.
+  Die *Begünstigten* der Amnestie können in ihr Land zurückkehren.
+
+  Cette opération s'est révélée très *bénéficiaire*.
+  Diese Operation hat sich als sehr *einträglich* erwiesen.
+
+  Le nombre de *bénéficiaires* des allocations familiales a augmenté.
+  Die Zahl der Kindergeld*empfänger* ist gestiegen.
+
+  Les *bénéficiaires* de cette offre recevront un cadeau.
+  Die *Empfänger* dieses Angebots erhalten ein Geschenk.
+
+  Cette start-up est devenue *bénéficiaire* dès sa deuxième année.
+  Dieses Start-up arbeitete bereits im zweiten Jahr *mit Gewinn*.
+
+  Les *bénéficiaires* de la nouvelle loi seront informés par courrier.
+  Die *Begünstigten* des neuen Gesetzes werden per Post informiert.
+
+  Nous distribuons des parts *bénéficiaires* aux employés.
+  Wir geben *gewinnbringende* Anteile an die Mitarbeiter aus.
+
+  Elle est *bénéficiaire* d'un allègement fiscal cette année.
+  Sie ist dieses Jahr *steuerbegünstigt*.
+
+  Comme *bénéficiaire* de cette bourse, tu dois maintenir de bonnes notes.
+  Als Stipendien*empfänger* musst du gute Noten halten.
+
+  Les *bénéficiaires* de l'indemnité seront payés la semaine prochaine.
+  Die Entschädigungs*empfänger* werden nächste Woche bezahlt.
+
+  Jean est le *bénéficiaire* direct de ces changements.
+  Jean ist der direkte *Nutznießer* dieser Veränderungen.
+
+  Les personnes *bénéficiaires* du RSA peuvent demander une aide au logement.
+  Die Sozialhilfe*empfänger* können Wohngeld beantragen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

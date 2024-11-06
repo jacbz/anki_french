@@ -13,14 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les radiations vont littéralement cuire la planète.
-  Die Strahlung wird den Planeten buchstäblich kochen.
+  Les radiations vont *littéralement* cuire la planète.
+  Die Strahlung wird den Planeten *buchstäblich* kochen.
 
-  Je suis littéralement épuisé.
-  Ich bin buchstäblich erschöpft.
+  Il était *littéralement* épuisé après avoir couru le marathon.
+  Er war nach dem Marathon im *wahrsten Sinne des Wortes* erschöpft.
 
-  Après une journée de travail intense, j'étais littéralement épuisé.
-  Nach einem anstrengenden Arbeitstag war ich im wahrsten Sinn erschöpft.
+  J'ai traduit ce poème *littéralement* du japonais.
+  Ich habe dieses Gedicht *wörtlich* aus dem Japanischen übersetzt.
+
+  Le nouveau directeur a *littéralement* transformé l'entreprise.
+  Der neue Direktor hat das Unternehmen *regelrecht* umgekrempelt.
+
+  Cette nouvelle l'a *littéralement* bouleversé.
+  Diese Nachricht hat ihn *buchstäblich* erschüttert.
+
+  Il faut copier ce texte *littéralement*, sans changer un seul mot.
+  Dieser Text muss *wortgetreu* kopiert werden, ohne ein einziges Wort zu ändern.
+
+  La salle était *littéralement* pleine à craquer.
+  Der Saal war *buchstäblich* zum Bersten voll.
+
+  Cette expression ne peut pas être traduite *littéralement* en allemand.
+  Dieser Ausdruck kann nicht *wörtlich* ins Deutsche übersetzt werden.
+
+  Marie était *littéralement* folle de joie quand elle a reçu son diplôme.
+  Marie war *regelrecht* außer sich vor Freude, als sie ihr Diplom erhielt.
+
+  Le pauvre chat était *littéralement* gelé quand nous l'avons trouvé.
+  Die arme Katze war *buchstäblich* erfroren, als wir sie gefunden haben.
+
+  J'ai *littéralement* passé des heures à chercher mes clés.
+  Ich habe *wortwörtlich* stundenlang nach meinen Schlüsseln gesucht.
+
+  Il faut prendre ce conseil *littéralement* : ne jamais mentir.
+  Dieser Rat muss *wörtlich* genommen werden: niemals lügen.
+
+  Cette tempête a *littéralement* dévasté la ville.
+  Dieser Sturm hat die Stadt *regelrecht* verwüstet.
+
+  Tu as *littéralement* sauvé ma vie en m'appelant ce soir-là.
+  Du hast mir an jenem Abend *buchstäblich* das Leben gerettet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

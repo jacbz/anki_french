@@ -13,17 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je regagnais la rive gauche, et mon domicile.
-  Ich kehrte zum linken Ufer und zu meiner Wohnung zurück.
+  Je regagnais la *rive* gauche, et mon domicile.
+  Ich kehrte ans linke *Ufer* und zu meiner Wohnung zurück.
 
-  Les enfants jouent sur la rive du fleuve.
-  Die Kinder spielen am Ufer des Flusses.
+  Les enfants jouaient sur la *rive* du canal.
+  Die Kinder spielten am Kanal*ufer*.
 
-  Nous avons pique-niqué sur la rive d'un canal, où l'eau était calme et claire.
-  Wir haben am Kanalufer gepicknickt, wo das Wasser ruhig und klar war.
+  La ville s'étend sur les deux *rives* de la Loire.
+  Die Stadt erstreckt sich über beide *Ufer* der Loire.
 
-  La rive droite du canal est plus fréquentée que la rive gauche.
-  Das rechte Ufer des Kanals ist belebter als das linke.
+  Une promenade longe la *rive* est du lac.
+  Ein Spazierweg verläuft entlang des Ost*ufers* des Sees.
+
+  Les pêcheurs se sont installés sur la *rive* escarpée.
+  Die Angler haben sich am steilen *Ufer* niedergelassen.
+
+  Un petit café se trouve sur la *rive* droite de la Seine.
+  Ein kleines Café befindet sich am rechten *Ufer* der Seine.
+
+  Nous avons traversé le pont pour atteindre l'autre *rive*.
+  Wir haben die Brücke überquert, um ans andere *Ufer* zu gelangen.
+
+  La *rive* concave du méandre s'érode progressivement.
+  Das konkave *Ufer* der Flussschleife erodiert nach und nach.
+
+  Les artistes préfèrent habiter *rive* gauche à Paris.
+  Die Künstler wohnen lieber am linken *Ufer* in Paris.
+
+  Les bateaux sont amarrés le long de la *rive*.
+  Die Boote sind entlang des *Ufers* festgemacht.
+
+  Un nouveau parc sera aménagé sur la *rive* du fleuve.
+  Ein neuer Park wird am Fluss*ufer* angelegt werden.
+
+  Les saules pleureurs bordent les *rives* de l'étang.
+  Trauerweilen säumen die *Ufer* des Teichs.
+
+  Le courant est plus fort près de la *rive* droite.
+  Die Strömung ist nahe dem rechten *Ufer* stärker.
+
+  Des oiseaux nichent dans les buissons sur la *rive*.
+  Vögel nisten in den Büschen am *Ufer*.
+
+  La *rive* convexe accumule des sédiments au fil du temps.
+  Am konvexen *Ufer* lagern sich mit der Zeit Sedimente ab.
+
+  Les touristes se promènent sur les *rives* du lac d'Annecy.
+  Die Touristen spazieren an den *Ufern* des Lac d'Annecy.
+
+  Un sentier pittoresque suit la *rive* de l'estuaire.
+  Ein malerischer Pfad folgt dem *Ufer* der Flussmündung.
+
+  Les pique-niqueurs se sont installés sur la *rive*.
+  Die Picknicker haben sich am *Ufer* niedergelassen.
+
+  Les enfants lancent des cailloux depuis la *rive*.
+  Die Kinder werfen vom *Ufer* aus Kieselsteine.
+
+  De beaux jardins ornent la *rive* du canal.
+  Schöne Gärten schmücken das Kanal*ufer*.
+
+  Des roseaux poussent le long des *rives* marécageuses.
+  Schilf wächst entlang der sumpfigen *Ufer*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,26 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je vais essayer de m’ajuster.
-  Ich werde versuchen, mich anzupassen.
+  Je vais essayer de m'*ajuster*.
+  Ich werde versuchen, mich *anzupassen*.
 
-  Il faut ajuster la taille de la robe.
-  Wir müssen die Größe des Kleides anpassen.
+  Il faut *ajuster* cette robe à ta taille.
+  Man muss dieses Kleid deiner Größe *anpassen*.
 
-  Le costume est ajusté, il a été fait sur mesure.
-  Der Anzug ist auf Taille gearbeitet, er wurde maßgeschneidert.
+  Le mécanicien doit *ajuster* les freins de la voiture.
+  Der Mechaniker muss die Bremsen des Autos *einstellen*.
 
-  La ceinture s'ajuste sur la robe.
-  Der Gürtel passt auf das Kleid.
+  Cette jupe est bien *ajustée* à sa taille.
+  Dieser Rock ist gut auf ihre Taille *gearbeitet*.
 
-  Ce travail s'ajuste à ses compétences.
-  Diese Arbeit passt zu seinen Fähigkeiten.
+  Le chasseur *ajuste* sa cible avant de tirer.
+  Der Jäger *nimmt* sein Ziel *aufs Korn*, bevor er schießt.
 
-  Les pièces du puzzle s'ajustent entre elles, on peut ainsi reconstituer l'image.
-  Die Teile des Puzzles passen zusammen, man kann so das Bild wieder zusammensetzen.
+  Les entreprises doivent *ajuster* les salaires chaque année.
+  Die Unternehmen müssen die Gehälter jedes Jahr *angleichen*.
 
-  La robe ne s'ajuste pas à sa taille, elle est trop grande.
-  Das Kleid passt nicht in der Taille, es ist zu groß.
+  Le couvercle s'*ajuste* parfaitement à la boîte.
+  Der Deckel *passt* perfekt auf die Box.
+
+  Toutes les pièces du puzzle s'*ajustent* bien.
+  Alle Puzzleteile *passen* gut zusammen.
+
+  Le costume ne s'*ajuste* pas à sa carrure.
+  Der Anzug *passt* nicht zu seinem Körperbau.
+
+  Marie *ajuste* sa cravate dans le miroir.
+  Marie *richtet* ihre Krawatte im Spiegel.
+
+  Le plombier va *ajuster* le robinet qui fuit.
+  Der Klempner wird den tropfenden Wasserhahn *einstellen*.
+
+  Il faut *ajuster* le volume de la musique.
+  Man muss die Lautstärke der Musik *anpassen*.
+
+  Le coach m'aide à *ajuster* ma position.
+  Der Trainer hilft mir, meine Haltung *anzupassen*.
+
+  La couturière *ajuste* le pantalon aux mesures du client.
+  Die Schneiderin *passt* die Hose den Maßen des Kunden *an*.
+
+  Il faut *ajuster* la théorie aux faits observés.
+  Man muss die Theorie an die beobachteten Fakten *anpassen*.
+
+  Le cavalier *ajuste* les étriers avant de monter.
+  Der Reiter *stellt* die Steigbügel *ein*, bevor er aufsteigt.
+
+  La machine s'*ajuste* automatiquement à la température.
+  Die Maschine *passt* sich automatisch der Temperatur *an*.
+
+  Le tireur *ajuste* son tir avec précision.
+  Der Schütze *richtet* seinen Schuss präzise *aus*.
+
+  Elle *ajuste* sa coiffure avant la photo.
+  Sie *richtet* ihre Frisur vor dem Foto.
+
+  Paul *ajuste* le rétroviseur de sa voiture.
+  Paul *stellt* den Rückspiegel seines Autos *ein*.
+
+  Le tailleur *ajuste* la veste à mes épaules.
+  Der Schneider *passt* die Jacke meinen Schultern *an*.
+
+  Les économistes doivent *ajuster* leurs prévisions.
+  Die Ökonomen müssen ihre Prognosen *anpassen*.
+
+  Le menuisier *ajuste* le châssis à la fenêtre.
+  Der Tischler *passt* den Rahmen ans Fenster *an*.
+
+  Il faut *ajuster* la ceinture de sécurité.
+  Man muss den Sicherheitsgurt *einstellen*.
+
+  La secrétaire *ajuste* les paramètres de l'imprimante.
+  Die Sekretärin *stellt* die Druckereinstellungen *ein*.
+
+  Le technicien *ajuste* la balance avec précision.
+  Der Techniker *justiert* die Waage mit Präzision.
+
+  Le musicien *ajuste* son instrument avant le concert.
+  Der Musiker *stimmt* sein Instrument vor dem Konzert.
+
+  Cette robe *ajustée* met en valeur sa silhouette.
+  Dieses *taillierte* Kleid betont ihre Silhouette.
+
+  Le pilote *ajuste* sa trajectoire en permanence.
+  Der Pilot *passt* seinen Kurs ständig *an*.
+
+  Sophie *ajuste* ses dépenses à son budget.
+  Sophie *passt* ihre Ausgaben ihrem Budget *an*.
+
+  Le photographe *ajuste* la mise au point de l'appareil.
+  Der Fotograf *stellt* die Schärfe der Kamera *ein*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

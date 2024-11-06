@@ -13,23 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’était là un inconvénient que je ne pouvais éviter.
-  Das war ein Nachteil, den ich nicht vermeiden konnte.
+  C'était là un *inconvénient* que je ne pouvais éviter.
+  Das war ein *Nachteil*, den ich nicht vermeiden konnte.
 
-  Le seul inconvénient est le prix.
-  Der einzige Nachteil ist der Preis.
+  Cette méthode présente de nombreux *inconvénients* pour notre projet.
+  Diese Methode hat viele *Nachteile* für unser Projekt.
 
-  L'inconvénient, c'est que c'est cher, mais la qualité est excellente.
-  Das Problem ist, dass es teuer ist, aber die Qualität ist hervorragend.
+  Si vous n'y voyez pas d'*inconvénient*, je prendrai mes vacances en août.
+  Wenn Sie nichts dagegen haben, nehme ich meinen Urlaub im August.
 
-  Il n'y a pas d'inconvénient à faire un voyage en train, au contraire, c'est très relaxant.
-  Es spricht nichts dagegen, eine Zugreise zu machen, im Gegenteil, es ist sehr entspannend.
+  Le principal *inconvénient* du télétravail est l'isolement social.
+  Der größte *Nachteil* der Heimarbeit ist die soziale Isolation.
 
-  Je ne vois pas d'inconvénient à ce que tu partes en vacances.
-  Ich habe nichts dagegen, dass du in Urlaub fährst.
+  Les *inconvénients* de cette solution dépassent largement ses avantages.
+  Die *Nachteile* dieser Lösung überwiegen bei weitem ihre Vorteile.
 
-  Tu peux utiliser mon ordinateur sans inconvénient.
-  Du kannst meinen Computer ohne weiteres benutzen.
+  L'*inconvénient*, c'est que nous devons tout recommencer.
+  Das *Problem* ist, dass wir von vorn anfangen müssen.
+
+  Je ne vois aucun *inconvénient* à ce que tu viennes plus tard.
+  Ich habe nichts dagegen, wenn du später kommst.
+
+  Nous devons peser les avantages et les *inconvénients* de chaque option.
+  Wir müssen die Vor- und *Nachteile* jeder Option abwägen.
+
+  Cet appartement a quelques *inconvénients*, mais le prix est raisonnable.
+  Diese Wohnung hat einige *Nachteile*, aber der Preis ist vernünftig.
+
+  Le seul *inconvénient* de ce restaurant est son emplacement.
+  Der einzige *Nachteil* dieses Restaurants ist seine Lage.
+
+  Ces changements peuvent être effectués sans *inconvénient* majeur.
+  Diese Änderungen können ohne größere *negative Begleiterscheinungen* durchgeführt werden.
+
+  L'*inconvénient* principal de cette voiture est sa consommation élevée.
+  Der Haupt*nachteil* dieses Autos ist sein hoher Verbrauch.
+
+  Elle m'a expliqué tous les *inconvénients* possibles de ce traitement.
+  Sie hat mir alle möglichen *unangenehmen Folgen* dieser Behandlung erklärt.
+
+  Les *inconvénients* de vivre en ville sont compensés par ses avantages.
+  Die *Nachteile* des Stadtlebens werden durch seine Vorteile ausgeglichen.
+
+  Il faut accepter certains *inconvénients* pour obtenir ce qu'on veut.
+  Man muss gewisse *Nachteile* in Kauf nehmen, um das zu bekommen, was man will.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

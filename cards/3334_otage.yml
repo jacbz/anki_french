@@ -13,17 +13,50 @@ Register: ↘Fiktion ↗Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il a pris un flic en otage.
-  Er hat einen Polizisten als Geisel genommen.
+  Il a pris un flic en *otage*.
+  Er hat einen Polizisten als *Geisel* genommen.
 
-  Les terroristes ont pris des otages.
-  Die Terroristen haben Geiseln genommen.
+  Les terroristes ont retenu cinquante personnes en *otages* pendant trois jours.
+  Die Terroristen hielten fünfzig Personen drei Tage lang als *Geiseln* fest.
 
-  Le train est l'otage d'une grève des cheminots.
-  Der Zug ist die Geisel eines Streiks der Bahnmitarbeiter.
+  Une *otage* a été libérée hier soir après de longues négociations.
+  Eine *Geisel* wurde gestern Abend nach langen Verhandlungen freigelassen.
 
-  Les terroristes ont pris le ministre en otage.
-  Die Terroristen haben den Minister als Geisel genommen.
+  Durant la guerre, les envahisseurs ont fusillé dix *otages* pour intimider la population.
+  Während des Krieges erschossen die Invasoren zehn *Geiseln*, um die Bevölkerung einzuschüchtern.
+
+  Les voyageurs sont devenus des *otages* de la grève des trains.
+  Die Reisenden wurden zu *Geiseln* des Streiks der Eisenbahner.
+
+  Marie ne veut plus être l'*otage* de son travail qui l'empêche de voir ses enfants.
+  Marie will nicht länger die *Geisel* ihrer Arbeit sein, die sie daran hindert, ihre Kinder zu sehen.
+
+  La prise d'*otages* s'est terminée sans faire de victimes.
+  Die *Geisel*nahme endete ohne Opfer.
+
+  Les négociateurs ont réussi à faire libérer tous les *otages*.
+  Den Verhandlungsführern gelang es, alle *Geiseln* zu befreien.
+
+  L'ambassadeur a servi d'*otage* pour garantir l'accord de paix.
+  Der Botschafter diente als *Geisel* zur Garantie des Friedensabkommens.
+
+  Les citoyens sont devenus les *otages* de cette crise politique.
+  Die Bürger wurden zu *Geiseln* dieser politischen Krise.
+
+  Le ravisseur demande une rançon pour libérer l'*otage*.
+  Der Entführer verlangt Lösegeld für die Freilassung der *Geisel*.
+
+  Les *otages* ont réussi à s'échapper pendant la nuit.
+  Die *Geiseln* konnten in der Nacht entkommen.
+
+  La police a encerclé le bâtiment où sont retenus les *otages*.
+  Die Polizei hat das Gebäude umstellt, in dem die *Geiseln* festgehalten werden.
+
+  Les familles des *otages* attendent des nouvelles depuis trois jours.
+  Die Familien der *Geiseln* warten seit drei Tagen auf Nachrichten.
+
+  Cette entreprise est devenue l'*otage* de ses créanciers.
+  Dieses Unternehmen ist zur *Geisel* seiner Gläubiger geworden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

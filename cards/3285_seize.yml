@@ -13,35 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle y chante depuis l’âge de seize ans.
-  Dort singt sie seit ihrem sechzehnten Lebensjahr.
+  Elle y chante depuis l'âge de *seize* ans.
+  Sie singt dort seit dem Alter von *sechzehn* Jahren.
 
-  Il a seize ans.
-  Er ist sechzehn Jahre alt.
+  Mon fils aura bientôt *seize* ans.
+  Mein Sohn wird bald *sechzehn* Jahre alt.
 
-  Pierre aura bientôt seize ans.
-  Pierre wird bald sechzehn.
+  Dans votre classe, il y a *seize* élèves.
+  In eurer Klasse sind *sechzehn* Schüler.
 
-  Il est seize heures et il fait déjà nuit.
-  Es ist sechzehn Uhr und es ist schon dunkel.
+  Le train part à *seize* heures précises.
+  Der Zug fährt um *sechzehn* Uhr genau ab.
 
-  Le seize mars, on fête l'anniversaire de Marie.
-  Am sechzehnten März feiert man Maries Geburtstag.
+  Je vous attends le *seize* mars.
+  Ich erwarte Sie am *sechzehnten* März.
 
-  Le coureur est arrivé seize ou dix-septième.
-  Der Läufer kam als Sechzehnter oder Siebzehnter ins Ziel.
+  Il est arrivé *seize* au marathon.
+  Er ist als *Sechzehnter* beim Marathon angekommen.
 
-  Louis seize, roi de France, a été décapité en 1793.
-  Ludwig der Sechzehnte, König von Frankreich, wurde 1793 enthauptet.
+  *Louis seize* était le dernier roi de l'Ancien Régime.
+  *Ludwig der Sechzehnte* war der letzte König des Ancien Régime.
 
-  Elle a eu seize à son test de français.
-  Sie hat eine Eins in ihrem Französischtest bekommen.
+  Pour gagner, il faut obtenir le chiffre *seize*.
+  Um zu gewinnen, muss man die Zahl *sechzehn* erreichen.
 
-  La personne de seize ans n'a pas encore le droit de vote.
-  Sechzehnjährige haben noch kein Wahlrecht.
+  Prenez le bus numéro *seize* pour aller au centre-ville.
+  Nehmen Sie die Buslinie *sechzehn* um in die Innenstadt zu fahren.
 
-  La période de seize ans a été marquée par de grands changements.
-  Der Zeitraum von sechzehn Jahren war von großen Veränderungen geprägt.
+  J'ai eu *seize* sur vingt à l'examen de mathématiques.
+  Ich habe eine *Eins* in der Matheprüfung bekommen.
+
+  La salle *seize* est au bout du couloir.
+  Raum *sechzehn* ist am Ende des Flurs.
+
+  Nous avons réservé une table pour *seize* personnes.
+  Wir haben einen Tisch für *sechzehn* Personen reserviert.
+
+  Le document fait *seize* pages.
+  Das Dokument ist *sechzehn* Seiten lang.
+
+  Cette corde mesure *seize* mètres.
+  Dieses Seil ist *sechzehn* Meter lang.
+
+  Il a gagné *seize* mille euros à la loterie.
+  Er hat *sechzehn*tausend Euro im Lotto gewonnen.
+
+  Aux échecs, chaque joueur a *seize* pièces.
+  Beim Schach hat jeder Spieler *sechzehn* Figuren.
+
+  Ce film est interdit aux moins de *seize* ans.
+  Dieser Film ist für Jugendliche unter *sechzehn* Jahren verboten.
+
+  Ils ont tourné ce film en *seize* millimètres.
+  Sie haben diesen Film in *Sechzehn*-Millimeter gedreht.
+
+  Rendez-vous page *seize* du manuel.
+  Schauen Sie auf Seite *sechzehn* im Handbuch.
+
+  L'article *seize* de la loi définit les sanctions.
+  Artikel *sechzehn* des Gesetzes definiert die Strafen.
+
+  Il habite au *seize* de la rue Victor Hugo.
+  Er wohnt in der Victor-Hugo-Straße Nummer *sechzehn*.
+
+  Le médecin consulte jusqu'à *seize* heures.
+  Der Arzt hat Sprechstunde bis *sechzehn* Uhr.
+
+  *Seize* pour cent des votants ont choisi cette option.
+  *Sechzehn* Prozent der Wähler haben diese Option gewählt.
+
+  Ce fusil est de calibre *seize*.
+  Dieses Gewehr hat Kaliber *sechzehn*.
+
+  Huit plus huit font *seize*.
+  Acht plus acht ergibt *sechzehn*.
+
+  *Seize* est le carré de quatre.
+  *Sechzehn* ist die Quadratzahl von vier.
+
+  Le *seize* du mois, nous partons en vacances.
+  Am *Sechzehnten* des Monats fahren wir in den Urlaub.
+
+  Je déménage le *seize*.
+  Ich ziehe am *Sechzehnten* um.
+
+  Cette télévision a un écran *seize* neuvième.
+  Dieser Fernseher hat einen *Sechzehn*-Neun-Bildschirm.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

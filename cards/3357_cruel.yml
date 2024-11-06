@@ -13,26 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce type est aussi intelligent que cruel.
-  Dieser Mann ist ebenso intelligent wie grausam.
+  Ce type est aussi intelligent que *cruel*.
+  Dieser Typ ist so intelligent wie *grausam*.
 
-  Il est cruel envers les animaux.
-  Er ist grausam zu Tieren.
+  Il était connu pour être *cruel* avec ses animaux domestiques.
+  Er war dafür bekannt, *grausam* zu seinen Haustieren zu sein.
 
-  Cesse d’être cruel.
-  Hör auf, grausam zu sein.
+  La perte de ma mère a été *cruelle* à surmonter.
+  Der Verlust meiner Mutter war *bitter* zu verkraften.
 
-  Il a été cruel envers son ami en lui racontant des mensonges.
-  Er war grausam zu seinem Freund, indem er ihm Lügen erzählte.
+  Le dictateur a donné des ordres *cruels* à ses soldats.
+  Der Diktator gab seinen Soldaten *grausame* Befehle.
 
-  Il se trouvait dans un cruel embarras lorsqu'il a oublié le nom de sa voisine.
-  Er war furchtbar verlegen, als er den Namen seiner Nachbarin vergessen hatte.
+  Les enfants peuvent parfois être *cruels* entre eux.
+  Kinder können manchmal *grausam* zueinander sein.
 
-  Elle était dans une cruelle incertitude quant à l'avenir de son entreprise.
-  Sie war zutiefst verunsichert, was die Zukunft ihres Unternehmens betraf.
+  Cette *cruelle* incertitude me ronge depuis des semaines.
+  Diese *quälende* Ungewissheit nagt seit Wochen an mir.
 
-  Il était dans la cruelle nécessité de mentir pour protéger sa famille.
-  Er sah sich leider gezwungen zu lügen, um seine Familie zu schützen.
+  Le destin s'est montré particulièrement *cruel* envers cette famille.
+  Das Schicksal hat sich gegenüber dieser Familie besonders *grausam* gezeigt.
+
+  Elle se trouve dans la *cruelle* nécessité de vendre sa maison.
+  Sie sieht sich leider *gezwungen*, ihr Haus zu verkaufen.
+
+  Son ironie *cruelle* blesse tous ceux qui l'entourent.
+  Seine *grausame* Ironie verletzt alle um ihn herum.
+
+  Cette guerre *cruelle* a fait des milliers de victimes.
+  Dieser *grausame* Krieg hat tausende Opfer gefordert.
+
+  Je me souviens de ce moment *cruel* où j'ai appris la nouvelle.
+  Ich erinnere mich an diesen *bitteren* Moment, als ich die Nachricht erfuhr.
+
+  Le froid *cruel* de l'hiver a causé beaucoup de souffrances.
+  Die *bittere* Winterkälte hat viel Leid verursacht.
+
+  Cette plaisanterie était vraiment trop *cruelle*.
+  Dieser Scherz war wirklich zu *grausam*.
+
+  Les remords *cruels* l'empêchaient de dormir.
+  Die *bitteren* Gewissensbisse ließen ihn nicht schlafen.
+
+  Sa beauté *cruelle* fait souffrir tous ses admirateurs.
+  Ihre *kalte* Schönheit lässt alle ihre Verehrer leiden.
+
+  Il a subi un affront particulièrement *cruel*.
+  Er hat eine besonders *bittere* Kränkung erlitten.
+
+  Cette séparation *cruelle* m'a brisé le cœur.
+  Diese *schmerzhafte* Trennung hat mir das Herz gebrochen.
+
+  Le doute *cruel* s'est installé dans son esprit.
+  Der *furchtbare* Zweifel hat sich in seinem Kopf festgesetzt.
+
+  Cette épreuve *cruelle* nous a tous marqués.
+  Diese *schwere* Prüfung hat uns alle geprägt.
+
+  Son maître s'est montré *cruel* envers lui.
+  Sein Herr hat sich ihm gegenüber *grausam* gezeigt.
+
+  Les reproches *cruels* de ses parents l'ont profondément blessée.
+  Die *harten* Vorwürfe ihrer Eltern haben sie tief verletzt.
+
+  Cette décision *cruelle* était pourtant nécessaire.
+  Diese *schwere* Entscheidung war dennoch notwendig.
+
+  Le sort s'est révélé *cruel* avec notre équipe.
+  Das Schicksal hat sich gegenüber unserem Team als *grausam* erwiesen.
+
+  Une joie *cruelle* brillait dans ses yeux.
+  Eine *grausame* Freude leuchtete in seinen Augen.
+
+  Le régime *cruel* a fait régner la terreur pendant des années.
+  Das *grausame* Regime hat jahrelang Terror verbreitet.
+
+  Ce souvenir *cruel* la hantera toujours.
+  Diese *bittere* Erinnerung wird sie immer verfolgen.
+
+  Il se trouve dans un *cruel* embarras.
+  Er befindet sich in einer *furchtbar* peinlichen Lage.
+
+  Son âme *cruelle* ne connaissait pas la pitié.
+  Seine *grausame* Seele kannte kein Mitleid.
+
+  Elle a dû affronter un destin particulièrement *cruel*.
+  Sie musste sich einem besonders *grausamen* Schicksal stellen.
+
+  Le tigre est connu pour être un prédateur *cruel*.
+  Der Tiger ist als *grausamer* Jäger bekannt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

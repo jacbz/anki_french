@@ -13,20 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vos photographies m’ont fait passer des heures inoubliables.
-  Ihre Fotografien haben mir unvergessliche Stunden beschert.
+  Vos *photographies* m'ont fait passer des heures inoubliables.
+  Ihre *Fotografien* haben mir unvergessliche Stunden bereitet.
 
-  J’aime beaucoup la photographie en noir et blanc.
-  Ich mag Schwarz-Weiß-Fotografie sehr.
+  La *photographie* numérique a révolutionné notre façon de capturer les moments.
+  Die digitale *Fotografie* hat unsere Art, Momente festzuhalten, revolutioniert.
 
-  La police a dressé une photographie de la situation juste après l'accident.
-  Die Polizei hat sich ein getreues Bild der Situation direkt nach dem Unfall gemacht.
+  Ce rapport présente une *photographie* précise de la situation économique actuelle.
+  Dieser Bericht gibt ein getreues *Abbild* der aktuellen Wirtschaftslage.
 
-  Le film donne une photographie de la réalité des quartiers défavorisés.
-  Der Film zeigt ein Abbild der Realität der benachteiligten Viertel.
+  Il faut trois *photographies* d'identité pour renouveler ton passeport.
+  Du brauchst drei *Passfotos* für die Erneuerung deines Reisepasses.
 
-  Le rapport donne une photographie de la situation économique du pays.
-  Der Bericht gibt genau Aufschluss über die wirtschaftliche Lage des Landes.
+  La *photographie* en noir et blanc donne une atmosphère particulière à ce portrait.
+  Die Schwarz-Weiß-*Fotografie* verleiht diesem Portrait eine besondere Atmosphäre.
+
+  Le musée expose une collection unique de *photographies* anciennes.
+  Das Museum stellt eine einzigartige Sammlung alter *Fotografien* aus.
+
+  Les sondages offrent une *photographie* instantanée de l'opinion publique.
+  Die Umfragen bieten eine Moment*aufnahme* der öffentlichen Meinung.
+
+  Sarah étudie la *photographie* à l'école des beaux-arts.
+  Sarah studiert *Fotografie* an der Kunsthochschule.
+
+  Cette *photographie* floue ne permet pas d'identifier le suspect.
+  Diese unscharfe *Fotografie* ermöglicht es nicht, den Verdächtigen zu identifizieren.
+
+  Les *photographies* aériennes révèlent l'étendue des dégâts.
+  Die Luft*aufnahmen* zeigen das Ausmaß der Schäden.
+
+  La *photographie* sous-marine exige un équipement spécial.
+  Unterwasser*fotografie* erfordert eine spezielle Ausrüstung.
+
+  Mon grand-père a toujours cette vieille *photographie* de famille sur sa table de chevet.
+  Mein Großvater hat immer noch diese alte Familien*fotografie* auf seinem Nachttisch.
+
+  Les experts ont analysé la *photographie* aux rayons X du tableau.
+  Die Experten haben die Röntgen*aufnahme* des Gemäldes analysiert.
+
+  Elle a installé son studio de *photographie* dans une ancienne usine.
+  Sie hat ihr *Fotografie*-Studio in einer alten Fabrik eingerichtet.
+
+  La *photographie* est devenue sa passion depuis qu'il a reçu son premier appareil.
+  Die *Fotografie* ist seine Leidenschaft geworden, seit er seine erste Kamera bekommen hat.
+
+  Cette *photographie* surexposée ne peut pas être utilisée pour l'article.
+  Diese überbelichtete *Fotografie* kann nicht für den Artikel verwendet werden.
+
+  Les *photographies* anthropométriques font partie de la procédure d'arrestation.
+  Die erkennungsdienstlichen *Fotografien* sind Teil des Verhaftungsverfahrens.
+
+  Je dois retoucher cette *photographie* avant de l'imprimer.
+  Ich muss diese *Fotografie* bearbeiten, bevor ich sie ausdrucke.
+
+  La galerie présente une exposition de *photographie* contemporaine.
+  Die Galerie zeigt eine Ausstellung zeitgenössischer *Fotografie*.
+
+  L'invention de la *photographie* a changé notre rapport à la mémoire.
+  Die Erfindung der *Fotografie* hat unsere Beziehung zur Erinnerung verändert.
+
+  Cette *photographie* de la réalité sociale ne plaît pas à tout le monde.
+  Dieses *Abbild* der sozialen Realität gefällt nicht jedem.
+
+  Le grain de cette *photographie* lui donne un charme particulier.
+  Die Körnung dieser *Fotografie* verleiht ihr einen besonderen Charme.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

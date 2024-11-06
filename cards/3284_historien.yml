@@ -13,14 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les historiens en débattront pendant longtemps.
-  Historiker werden noch lange darüber diskutieren.
+  Les *historiens* en débattront pendant longtemps.
+  Die *Historiker* werden noch lange darüber diskutieren.
 
-  L’historien a étudié l’histoire de la Révolution française.
-  Der Historiker hat die Geschichte der Französischen Revolution studiert.
+  Mon frère est *historien* de l'art à l'université de Lyon.
+  Mein Bruder ist Kunst*historiker* an der Universität Lyon.
 
-  Elle est historienne du droit, spécialisée dans le droit romain.
-  Sie ist Rechtshistorikerin und auf Römisches Recht spezialisiert.
+  Cette *historienne* a écrit plusieurs livres sur la paysannerie française au Moyen Âge.
+  Diese *Historikerin* hat mehrere Bücher über das französische Bauerntum im Mittelalter geschrieben.
+
+  Sophie est devenue *historienne* du droit après ses études de jurisprudence.
+  Sophie wurde Rechts*historikerin* nach ihrem Jurastudium.
+
+  L'*historien* a passé des années à étudier les documents d'archives.
+  Der *Historiker* hat Jahre damit verbracht, Archivdokumente zu studieren.
+
+  Julie est *historienne* de l'économie et spécialiste de la révolution industrielle.
+  Julie ist Wirtschafts*historikerin* und Spezialistin für die industrielle Revolution.
+
+  "Tu es *historien* ou *historienne* ?" - "Je suis encore étudiant en première année."
+  "Bist du *Historiker* oder *Historikerin*?" - "Ich bin noch im ersten Studienjahr."
+
+  Les *historiens* grecs nous ont transmis de précieux témoignages sur l'Antiquité.
+  Die griechischen *Historiker* haben uns wertvolle Zeugnisse über die Antike überliefert.
+
+  Cette *historienne* consciencieuse vérifie toujours ses sources.
+  Diese gewissenhafte *Historikerin* überprüft immer ihre Quellen.
+
+  Marc s'est fait l'*historien* de la libération de sa ville natale.
+  Marc wurde zum *Chronisten* der Befreiung seiner Heimatstadt.
+
+  Les jeunes *historiens* utilisent de plus en plus les outils numériques.
+  Die jungen *Historiker* nutzen zunehmend digitale Werkzeuge.
+
+  Dans ce documentaire, plusieurs *historiennes* partagent leur point de vue.
+  In dieser Dokumentation teilen mehrere *Historikerinnen* ihre Sichtweise mit.
+
+  L'*historienne* impartiale présente les différents aspects du conflit.
+  Die unparteiische *Historikerin* stellt die verschiedenen Aspekte des Konflikts dar.
+
+  En tant qu'*historien*, il ne prend jamais parti dans ses ouvrages.
+  Als *Historiker* ergreift er in seinen Werken nie Partei.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

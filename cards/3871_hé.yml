@@ -13,17 +13,59 @@ Register: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Hé, les gars, regardez par ici.
-  Hey, Leute, schaut mal her.
+  "*Hé*, les gars, regardez par ici."
+  "*He*, Leute, schaut mal her."
 
-  Hé, comment ça va?
-  Hallo, wie geht’s?
+  "*Hé* ! Monsieur, vous avez fait tomber votre portefeuille !"
+  "*He* ! Mein Herr, Sie haben Ihre Brieftasche fallen lassen!"
 
-  Hé bien! En voilà des manières, je n'ai jamais vu ça.
-  Na, so was! Das sind ja schöne Manieren, so etwas habe ich noch nie erlebt.
+  "*Hé, hé* ! C'est une excellente idée !"
+  "*Donnerwetter* ! Das ist eine ausgezeichnete Idee!"
 
-  Hé bien! En voilà des manières! Vous êtes vraiment impoli!
-  Na, so was! Das sind ja schöne Manieren! Sie sind ja richtig unhöflich!
+  "*Hé* là-bas ! Pouvez-vous m'aider ?"
+  "*He* Sie da! Können Sie mir helfen?"
+
+  "*Hé oui* ! C'est exactement comme je l'avais prédit."
+  "*Jawohl* ! Es ist genau so gekommen, wie ich es vorhergesagt hatte."
+
+  "*Hé* ! Pierre ! Tu vas être en retard !"
+  "*He* ! Pierre! Du wirst zu spät kommen!"
+
+  "*Hé, hé* ! Je savais que tu allais dire ça !"
+  "*Haha* ! Ich wusste, dass du das sagen würdest!"
+
+  "*Hé* ! Attendez-moi, je viens avec vous !"
+  "*He* ! Wartet auf mich, ich komme mit!"
+
+  "*Hé* ! Qu'est-ce que tu fais sur mon ordinateur ?"
+  "*He* ! Was machst du an meinem Computer?"
+
+  "*Hé* ! Marie ! On se voit ce soir ?"
+  "*He* ! Marie! Sehen wir uns heute Abend?"
+
+  "*Hé, hé* ! Pas mal du tout, ce gâteau !"
+  "*Alle Achtung* ! Dieser Kuchen ist gar nicht übel!"
+
+  "*Hé oui* ! Les vacances sont déjà finies."
+  "*Tja* ! Die Ferien sind schon vorbei."
+
+  "*Hé* ! Doucement avec mes affaires !"
+  "*He* ! Vorsichtig mit meinen Sachen!"
+
+  "*Hé, hé* ! Ce n'est pas si simple que ça !"
+  "*Ha ha* ! So einfach ist das nicht!"
+
+  "*Hé* ! Tu as vu le nouveau film ?"
+  "*He* ! Hast du den neuen Film gesehen?"
+
+  "*Hé* ! L'ami ! Vous ne pouvez pas stationner ici !"
+  "*He* ! Freundchen! Hier können Sie nicht parken!"
+
+  "*Hé, hé* ! Regardez qui voilà !"
+  "*Na sowas* ! Schaut mal, wer da ist!"
+
+  "*Hé* ! Faites attention où vous marchez !"
+  "*He* ! Passen Sie auf, wo Sie hintreten!"
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

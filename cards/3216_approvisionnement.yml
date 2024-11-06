@@ -13,41 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les approvisionnements ont été réduits de 25 %.
-  Die Lieferungen wurden um 25% reduziert.
+  Les *approvisionnements* ont été réduits de 25 %.
+  Die *Vorräte* wurden um 25 % reduziert.
 
-  L’approvisionnement en eau potable est essentiel.
-  Die Versorgung mit Trinkwasser ist wesentlich.
+  L'*approvisionnement* en eau potable est crucial pour la ville.
+  Die Trinkwasser*versorgung* ist entscheidend für die Stadt.
 
-  La France est dépendante de l'approvisionnement en pétrole de l'étranger.
-  Frankreich ist von der Ölversorgung aus dem Ausland abhängig.
+  Le service d'*approvisionnement* a commandé de nouveaux fournitures de bureau.
+  Die *Beschaffungs*abteilung hat neue Büromaterialien bestellt.
 
-  L'approvisionnement en électricité de la ville est assuré par une centrale nucléaire.
-  Die Stromversorgung der Stadt wird durch ein Atomkraftwerk sichergestellt.
+  Notre *approvisionnement* en pétrole dépend largement des importations.
+  Unsere Öl*versorgung* hängt stark von Importen ab.
 
-  Le magasin a un bon approvisionnement en produits frais.
-  Der Laden hat einen guten Vorrat an frischen Produkten.
+  L'*approvisionnement* du supermarché se fait deux fois par semaine.
+  Die *Belieferung* des Supermarkts erfolgt zweimal pro Woche.
 
-  L'approvisionnement en gaz naturel de la région a été interrompu par un accident.
-  Die Versorgung der Region mit Erdgas wurde durch einen Unfall unterbrochen.
+  Les problèmes d'*approvisionnement* en gaz naturel inquiètent les habitants.
+  Die Probleme mit der Erdgas*versorgung* beunruhigen die Einwohner.
 
-  L'approvisionnement en marchandises est essentiel pour le bon fonctionnement de l'entreprise.
-  Die Warenbeschaffung ist für das reibungslose Funktionieren des Unternehmens unerlässlich.
+  L'*approvisionnement* en matières premières devient de plus en plus difficile.
+  Die Rohstoff*versorgung* wird zunehmend schwieriger.
 
-  L'approvisionnement en matières premières est un facteur crucial pour l'industrie.
-  Die Rohstoffversorgung ist ein entscheidender Faktor für die Industrie.
+  Marie vérifie l'*approvisionnement* en médicaments de la pharmacie.
+  Marie überprüft die Medikamenten*vorräte* der Apotheke.
 
-  L'approvisionnement du marché en fruits et légumes est saisonnier.
-  Die Marktbeschickung mit Obst und Gemüse ist saisonabhängig.
+  L'*approvisionnement* régulier du marché contribue à la stabilité des prix.
+  Die regelmäßige Markt*beschickung* trägt zur Preisstabilität bei.
 
-  L'approvisionnement abondant du marché en poissons frais a fait baisser les prix.
-  Die großzügige Marktbeschickung mit frischem Fisch hat die Preise gesenkt.
+  L'entreprise a amélioré son système d'*approvisionnement*.
+  Das Unternehmen hat sein *Beschaffungs*system verbessert.
 
-  Les autorités ont pris des mesures pour assurer l'approvisionnement de base de la population en nourriture pendant la crise.
-  Die Behörden haben Maßnahmen ergriffen, um die Grundversorgung der Bevölkerung mit Lebensmitteln während der Krise sicherzustellen.
+  L'*approvisionnement* en électricité sera interrompu pendant les travaux.
+  Die Strom*versorgung* wird während der Arbeiten unterbrochen.
 
-  Le gouvernement a annoncé un programme pour assurer l'approvisionnement en médicaments de la population.
-  Die Regierung hat ein Programm zur Sicherstellung der Versorgung der Bevölkerung mit Medikamenten angekündigt.
+  L'officier d'*approvisionnement* distribue les rations aux soldats.
+  Der *Versorgungs*offizier verteilt die Rationen an die Soldaten.
+
+  L'*approvisionnement* du restaurant nécessite une planification minutieuse.
+  Die *Beschaffung* für das Restaurant erfordert eine sorgfältige Planung.
+
+  Les agriculteurs garantissent l'*approvisionnement* en produits frais.
+  Die Landwirte gewährleisten die *Versorgung* mit frischen Produkten.
+
+  L'*approvisionnement* en pièces détachées pose des problèmes.
+  Die Ersatzteil*versorgung* bereitet Probleme.
+
+  Un bon *approvisionnement* en bois est essentiel pour notre usine.
+  Eine gute *Versorgung* mit Holz ist für unsere Fabrik unerlässlich.
+
+  L'*approvisionnement* du chantier en matériaux est assuré quotidiennement.
+  Die Material*versorgung* der Baustelle ist täglich gesichert.
+
+  Les chaînes d'*approvisionnement* ont été perturbées par la crise.
+  Die *Liefer*ketten wurden durch die Krise gestört.
+
+  L'hôpital surveille son *approvisionnement* en oxygène.
+  Das Krankenhaus überwacht seine Sauerstoff*vorräte*.
+
+  L'*approvisionnement* en nourriture est suffisant pour trois semaines.
+  Der Nahrungs*vorrat* reicht für drei Wochen.
+
+  Notre *approvisionnement* en eau dépend des précipitations annuelles.
+  Unsere Wasser*versorgung* hängt von den jährlichen Niederschlägen ab.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

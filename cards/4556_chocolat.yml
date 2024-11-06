@@ -13,44 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je t’ai apporté des chocolats.
-  Ich habe dir Schokolade mitgebracht.
+  Je t'ai apporté des *chocolats*.
+  Ich habe dir *Pralinen* mitgebracht.
 
-  Je ne peux pas résister au chocolat.
-  Ich kann Schokolade nicht widerstehen.
+  Cette tablette de *chocolat* noir est délicieuse.
+  Diese dunkle *Schokoladen*tafel ist köstlich.
 
-  Voulez-vous du chocolat chaud?
-  Möchten Sie eine heiße Schokolade?
+  "Je suis resté *chocolat* après avoir manqué le train."
+  "Ich war ganz *belämmert*, als ich den Zug verpasst habe."
 
-  Elle aime aussi le chocolat.
-  Sie mag auch Schokolade.
+  Elle prépare un gâteau au *chocolat* pour son anniversaire.
+  Sie macht einen *Schokoladen*kuchen für ihren Geburtstag.
 
-  Je veux un morceau de gâteau au chocolat.
-  Ich möchte ein Stück Schokoladenkuchen.
+  Les enfants adorent les œufs en *chocolat* à Pâques.
+  Die Kinder lieben *Schokoladen*eier zu Ostern.
 
-  Je préfère le chocolat noir au chocolat blanc.
-  Ich bevorzuge dunkle Schokolade gegenüber weißer Schokolade.
+  Un *chocolat* chaud me réchauffera par ce temps froid.
+  Eine heiße *Schokolade* wird mich bei diesem kalten Wetter aufwärmen.
 
-  Après avoir bu autant de vin, j'étais chocolat.
-  Nachdem ich so viel Wein getrunken hatte, war ich belämmert.
+  Marie collectionne les boîtes de *chocolats* anciennes.
+  Marie sammelt alte *Pralinen*schachteln.
 
-  Il a commandé un chocolat liégeois, un classique des cafés.
-  Er bestellte eine Eisschokolade, einen Klassiker der Cafés.
+  J'ai commandé un *chocolat* liégeois avec de la chantilly.
+  Ich habe eine *Eis*schokolade mit Sahne bestellt.
 
-  Un chocolat chaud est parfait pour une soirée froide.
-  Heiße Schokolade ist perfekt für einen kalten Abend.
+  Elle porte une robe *chocolat* qui lui va à merveille.
+  Sie trägt ein *schokoladen*braunes Kleid, das ihr wunderbar steht.
 
-  Ce chocolat praliné a un goût délicieux.
-  Dieser Nougatpraline schmeckt köstlich.
+  Mon fils préfère le *chocolat* au lait aux autres variétés.
+  Mein Sohn mag *Milchschokolade* lieber als andere Sorten.
 
-  J'ai mangé une barre de chocolat après le dîner.
-  Ich habe nach dem Abendessen einen Schokoladenriegel gegessen.
+  Ces *chocolats* au cognac sont réservés aux adultes.
+  Diese *Kognak*bohnen sind nur für Erwachsene.
 
-  Les enfants ont trouvé un œuf en chocolat dans le jardin.
-  Die Kinder haben im Garten ein Schokoladenei gefunden.
+  Le *chocolat* blanc n'est pas vraiment du chocolat.
+  Weiße *Schokolade* ist eigentlich gar keine Schokolade.
 
-  Le chocolat au cognac est un dessert raffiné.
-  Kognakbohne ist ein raffiniertes Dessert.
+  Nous servons le *chocolat* chaud avec des marshmallows.
+  Wir servieren die heiße *Schokolade* mit Marshmallows.
+
+  Cette barre de *chocolat* me donnera de l'énergie.
+  Dieser *Schokoladen*riegel wird mir Energie geben.
+
+  "Il est resté *chocolat* quand elle a refusé son invitation."
+  "Er war ganz *perplex*, als sie seine Einladung ablehnte."
+
+  Le *chocolat* praliné est sa spécialité.
+  *Nougat*pralinen sind ihre Spezialität.
+
+  Les murs de la cuisine sont peints en *chocolat*.
+  Die Küchenwände sind *schokoladen*braun gestrichen.
+
+  Pierre boit un *chocolat* tous les matins.
+  Pierre trinkt jeden Morgen einen *Kakao*.
+
+  Ces *chocolats* aux noisettes sont faits maison.
+  Diese *Pralinen* mit Haselnüssen sind hausgemacht.
+
+  La fontaine de *chocolat* était le clou de la soirée.
+  Der *Schokoladen*brunnen war der Höhepunkt des Abends.
+
+  J'ai renversé mon *chocolat* sur le tapis.
+  Ich habe meinen *Kakao* auf den Teppich verschüttet.
+
+  Les fauteuils en cuir *chocolat* sont très élégants.
+  Die *schokoladen*braunen Ledersessel sind sehr elegant.
+
+  Une pastille de *chocolat* fond sur ma langue.
+  Ein *Schokoladen*plättchen schmilzt auf meiner Zunge.
+
+  Le petit pain au *chocolat* est encore chaud.
+  Die *Schokoladen*brötchen sind noch warm.
+
+  Cette crème au *chocolat* est trop sucrée.
+  Diese *Schokoladen*creme ist zu süß.
+
+  Le *chocolat* à croquer est idéal pour la pâtisserie.
+  Die Koch*schokolade* ist ideal zum Backen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

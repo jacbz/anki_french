@@ -13,38 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On n’a même pas fait mention du problème.
-  Das Problem wurde nicht einmal erwähnt.
+  On n'a même pas fait *mention* du problème.
+  Man hat das Problem nicht einmal *erwähnt*.
 
-  Il a reçu une mention spéciale pour son travail.
-  Er hat eine besondere Erwähnung für seine Arbeit erhalten.
+  Il n'y a aucune *mention* de cet incident dans le rapport.
+  Es gibt keine *Erwähnung* dieses Vorfalls im Bericht.
 
-  La performance de l'orchestre était digne de mention.
-  Die Leistung des Orchesters war erwähnenswert.
+  Ce livre mérite une *mention* spéciale pour son originalité.
+  Dieses Buch muss für seine Originalität besonders *erwähnt* werden.
 
-  Le contrat comporte une mention confirmative, garantissant le paiement à temps.
-  Der Vertrag enthält einen Bestätigungsvermerk, der die rechtzeitige Zahlung sicherstellt.
+  La lettre est revenue avec la *mention* "Destinataire inconnu".
+  Der Brief kam mit dem *Vermerk* "Empfänger unbekannt" zurück.
 
-  Elle a obtenu son diplôme avec mention bien.
-  Sie hat ihren Abschluss mit „gut“ bekommen.
+  Elle a obtenu son diplôme avec *mention* très bien.
+  Sie hat ihr Diplom mit der *Auszeichnung* "sehr gut" bestanden.
 
-  La mention marginale dans le livret de famille précise le lieu de naissance.
-  Die Beischreibung im Familienbuch gibt den Geburtsort an.
+  Le jury a accordé une *mention* honorable à sa thèse.
+  Die Jury hat ihrer Dissertation ein "*magna cum laude*" verliehen.
 
-  Je voudrais faire mention de son incroyable talent.
-  Ich möchte seinen unglaublichen Talent erwähnen.
+  N'oubliez pas de rayer les *mentions* inutiles sur le formulaire.
+  Vergessen Sie nicht, die nicht zutreffenden *Angaben* im Formular zu streichen.
 
-  Son travail acharné mérite une mention spéciale.
-  Seine harte Arbeit muss besonders erwähnt werden.
+  Cette découverte est digne de *mention*.
+  Diese Entdeckung ist *erwähnenswert*.
 
-  Le document porte la mention franco.
-  Das Dokument trägt den Frankovermerk.
+  Le greffier a ajouté une *mention* marginale dans le registre.
+  Der Gerichtsschreiber hat einen *Vermerk* am Rand des Registers hinzugefügt.
 
-  Rayer les mentions inutiles sur le formulaire de demande.
-  Unzutreffendes bitte auf dem Antragsformular streichen.
+  Paul a fait *mention* de son expérience lors de l'entretien.
+  Paul hat seine Erfahrung beim Gespräch *erwähnt*.
 
-  Il a obtenu son doctorat avec mention honorable.
-  Er hat seinen Doktortitel mit „magna cum laude“ erhalten.
+  La *mention* "Fragile" doit être visible sur le colis.
+  Der *Vermerk* "Zerbrechlich" muss auf dem Paket sichtbar sein.
+
+  Les journaux n'ont fait aucune *mention* de cette affaire.
+  Die Zeitungen haben diese Angelegenheit mit keinem Wort *erwähnt*.
+
+  Elle cherche la *mention* de sa naissance dans les archives.
+  Sie sucht den *Eintrag* ihrer Geburt in den Archiven.
+
+  J'ai reçu mon baccalauréat avec *mention*.
+  Ich habe mein Abitur mit *Auszeichnung* bestanden.
+
+  Le document porte la *mention* "Confidentiel" en haut de la page.
+  Das Dokument trägt den *Vermerk* "Vertraulich" oben auf der Seite.
+
+  Cette performance est particulièrement digne de *mention*.
+  Diese Leistung ist besonders *erwähnenswert*.
+
+  Le contrat fait *mention* des conditions de paiement.
+  Der Vertrag *erwähnt* die Zahlungsbedingungen.
+
+  Sa thèse a reçu la *mention* très honorable à l'unanimité.
+  Seine Dissertation erhielt einstimmig die *Auszeichnung* "summa cum laude".
+
+  Veuillez ajouter la *mention* "Urgent" sur l'enveloppe.
+  Bitte fügen Sie den *Vermerk* "Dringend" auf dem Umschlag hinzu.
+
+  Le jury lui a décerné une *mention* spéciale pour son travail remarquable.
+  Die Jury hat ihm für seine bemerkenswerte Arbeit eine besondere *Auszeichnung* verliehen.
+
+  Aucune *mention* de cet auteur n'apparaît dans la bibliographie.
+  Dieser Autor wird in der Bibliografie nicht *erwähnt*.
+
+  Le livre d'or contient une *mention* élogieuse de votre service.
+  Das Gästebuch enthält eine lobende *Erwähnung* Ihres Services.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

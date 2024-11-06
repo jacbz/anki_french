@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je peux véhiculer ça sans aucun problème.
-  Ich kann das problemlos transportieren.
+  Je peux *véhiculer* ça sans aucun problème.
+  Ich kann das ohne Probleme *transportieren*.
 
-  Ce camion peut véhiculer jusqu’à 5 tonnes de marchandises.
-  Dieser LKW kann bis zu 5 Tonnen Waren transportieren.
+  Ces camions *véhiculent* des marchandises vers le sud du pays.
+  Diese Lastwagen *befördern* Waren in den Süden des Landes.
 
-  Le langage est un outil essentiel pour exprimer nos pensées et idées.
-  Die Sprache ist ein wichtiges Werkzeug, um unsere Gedanken und Ideen auszudrücken.
+  Marie *véhicule* ses enfants à l'école tous les matins.
+  Marie *fährt* ihre Kinder jeden Morgen zur Schule.
 
-  Le langage véhicule la pensée, mais il peut aussi la modeler.
-  Die Sprache übermittelt die Gedanken, kann sie aber auch formen.
+  Les moustiques peuvent *véhiculer* des maladies dangereuses.
+  Mücken können gefährliche Krankheiten *übertragen*.
+
+  Cette publicité *véhicule* des stéréotypes dépassés.
+  Diese Werbung *vermittelt* überholte Stereotype.
+
+  Le langage *véhicule* nos émotions et nos pensées.
+  Die Sprache *übermittelt* unsere Gefühle und Gedanken.
+
+  Paul m'a gentiment *véhiculé* jusqu'à la gare hier soir.
+  Paul hat mich gestern Abend netterweise zum Bahnhof *gefahren*.
+
+  Les médias sociaux *véhiculent* beaucoup de fausses informations.
+  Soziale Medien *vermitteln* viele Falschinformationen.
+
+  Ce film *véhicule* un message d'espoir pour la jeunesse.
+  Dieser Film *vermittelt* eine hoffnungsvolle Botschaft für die Jugend.
+
+  L'eau *véhicule* la chaleur dans tout le système de chauffage.
+  Das Wasser *überträgt* die Wärme im ganzen Heizsystem.
+
+  Les parents *véhiculent* leurs valeurs à leurs enfants.
+  Die Eltern *vermitteln* ihren Kindern ihre Werte.
+
+  Ces livres *véhiculent* un savoir précieux aux nouvelles générations.
+  Diese Bücher *übermitteln* den neuen Generationen wertvolles Wissen.
+
+  La tradition orale a *véhiculé* ces histoires pendant des siècles.
+  Die mündliche Überlieferung hat diese Geschichten jahrhundertelang *übermittelt*.
+
+  Le sang *véhicule* l'oxygène dans tout le corps.
+  Das Blut *transportiert* den Sauerstoff durch den ganzen Körper.
+
+  Cette musique *véhicule* parfaitement l'ambiance des années 80.
+  Diese Musik *vermittelt* perfekt die Atmosphäre der 80er Jahre.
+
+  Les journaux *véhiculent* l'information au grand public.
+  Die Zeitungen *übermitteln* die Information an die breite Öffentlichkeit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

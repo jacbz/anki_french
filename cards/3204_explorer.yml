@@ -13,11 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il faudrait explorer le coin.
-  Die Gegend sollte erkundet werden.
+  Il faudrait *explorer* le coin.
+  Man müsste die Gegend *erforschen*.
 
-  Nous allons explorer la forêt.
-  Wir werden den Wald erkunden.
+  Les archéologues *explorent* les ruines d'une ancienne civilisation.
+  Die Archäologen *erforschen* die Ruinen einer alten Zivilisation.
+
+  Marie adore *explorer* de nouvelles villes à vélo.
+  Marie liebt es, neue Städte mit dem Fahrrad zu *erkunden*.
+
+  Nous devons *explorer* toutes les possibilités avant de prendre une décision.
+  Wir müssen alle Möglichkeiten *prüfen*, bevor wir eine Entscheidung treffen.
+
+  Le médecin va *explorer* la cavité nasale avec un endoscope.
+  Der Arzt wird die Nasenhöhle mit einem Endoskop *untersuchen*.
+
+  Les scientifiques *explorent* les profondeurs de l'océan depuis des années.
+  Die Wissenschaftler *erforschen* seit Jahren die Tiefen des Ozeans.
+
+  J'aime *explorer* les petites rues cachées du quartier historique.
+  Ich liebe es, die versteckten Gassen des historischen Viertels zu *erkunden*.
+
+  Cette thèse *explore* un aspect fascinant de la psychologie humaine.
+  Diese Dissertation *erforscht* einen faszinierenden Aspekt der menschlichen Psychologie.
+
+  Les chercheurs *explorent* de nouvelles pistes pour guérir le cancer.
+  Die Forscher *erforschen* neue Wege zur Heilung von Krebs.
+
+  Les enfants adorent *explorer* leur environnement.
+  Kinder lieben es, ihre Umgebung zu *erkunden*.
+
+  Notre équipe va *explorer* le marché asiatique l'année prochaine.
+  Unser Team wird nächstes Jahr den asiatischen Markt *sondieren*.
+
+  Le robot *explore* la surface de Mars depuis trois ans.
+  Der Roboter *erforscht* seit drei Jahren die Marsoberfläche.
+
+  Les spéléologues ont *exploré* une nouvelle grotte hier.
+  Die Höhlenforscher haben gestern eine neue Höhle *erkundet*.
+
+  Il faut *explorer* cette question plus en détail.
+  Diese Frage muss genauer *untersucht* werden.
+
+  Le détective va *explorer* toutes les pistes possibles.
+  Der Detektiv wird allen möglichen Spuren *nachgehen*.
+
+  Les étudiants doivent *explorer* différentes sources pour leur recherche.
+  Die Studenten müssen für ihre Recherche verschiedene Quellen *durchforsten*.
+
+  Nous allons *explorer* les conséquences de cette décision.
+  Wir werden die Folgen dieser Entscheidung *prüfen*.
+
+  Le philosophe *explore* les limites de la conscience humaine.
+  Der Philosoph *erforscht* die Grenzen des menschlichen Bewusstseins.
+
+  L'artiste aime *explorer* de nouvelles techniques de peinture.
+  Der Künstler liebt es, neue Maltechniken zu *erkunden*.
+
+  Les astronomes continuent d'*explorer* l'univers.
+  Die Astronomen *erforschen* weiterhin das Universum.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

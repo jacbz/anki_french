@@ -13,20 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous voyez la situation est très compliquée.
-  Sie sehen, die Situation ist sehr kompliziert.
+  Vous voyez, la situation est très *compliquée*.
+  Wie Sie sehen, ist die Situation sehr *kompliziert*.
 
-  C’est une situation très compliquée.
-  Das ist eine sehr komplizierte Situation.
+  La recette peut sembler *compliquée*, mais elle est en fait assez simple.
+  Das Rezept mag *kompliziert* aussehen, aber es ist eigentlich ziemlich einfach.
 
-  Le chef avait l'esprit compliqué et changeait d'avis toutes les cinq minutes.
-  Der Chef war umständlich und änderte alle fünf Minuten seine Meinung.
+  Le mécanisme de cette horloge ancienne est vraiment *compliqué*.
+  Der Mechanismus dieser alten Uhr ist wirklich *kompliziert*.
 
-  La situation est déjà assez compliquée comme ça, sans que tu rajoutes des complications inutiles.
-  Es ist so schon kompliziert genug, ohne dass du unnötige Komplikationen hinzufügst.
+  "C'est pas *compliqué*, tu prends le bus numéro 7 !"
+  "Das ist doch nicht *kompliziert*, du nimmst einfach Bus Nummer 7!"
 
-  C'est pas compliqué, elle m'énerve, elle ne fait jamais rien de ce que je lui demande.
-  Sie geht mir einfach auf den Wecker, sie macht nie das, was ich ihr sage.
+  Paul a toujours été quelqu'un de *compliqué* dans ses relations.
+  Paul war in seinen Beziehungen schon immer ein *komplizierter* Mensch.
+
+  L'installation du nouveau logiciel s'est avérée plus *compliquée* que prévu.
+  Die Installation der neuen Software erwies sich als *komplizierter* als erwartet.
+
+  Cette équation mathématique est trop *compliquée* pour des débutants.
+  Diese mathematische Gleichung ist für Anfänger zu *schwierig*.
+
+  Marie mène une vie très *compliquée* depuis son divorce.
+  Marie führt seit ihrer Scheidung ein sehr *kompliziertes* Leben.
+
+  Le trajet pour arriver chez eux est vraiment *compliqué*.
+  Der Weg zu ihnen nach Hause ist wirklich *kompliziert*.
+
+  Son cas de grippe est devenu *compliqué* à cause d'une infection.
+  Sein Grippefall wurde durch eine Infektion *kompliziert*.
+
+  "Tu es vraiment *compliquée*, ma chérie !"
+  "Du bist wirklich *kompliziert*, meine Liebe!"
+
+  Le processus de demande de visa est devenu plus *compliqué*.
+  Der Prozess der Visumsbeantragung ist *komplizierter* geworden.
+
+  Cette histoire d'amour est tellement *compliquée* que personne ne la comprend.
+  Diese Liebesgeschichte ist so *kompliziert*, dass sie niemand versteht.
+
+  Le nouveau règlement est beaucoup trop *compliqué*.
+  Die neue Regelung ist viel zu *kompliziert*.
+
+  Cette machine à café est inutilement *compliquée* à utiliser.
+  Diese Kaffeemaschine ist unnötig *kompliziert* zu bedienen.
+
+  Je trouve que tu rends les choses plus *compliquées* qu'elles ne le sont.
+  Ich finde, du machst die Dinge *komplizierter* als sie sind.
+
+  La situation politique est devenue très *compliquée* ces derniers temps.
+  Die politische Lage ist in letzter Zeit sehr *kompliziert* geworden.
+
+  Son esprit *compliqué* l'empêche souvent de prendre des décisions simples.
+  Sein *komplizierter* Geist hindert ihn oft daran, einfache Entscheidungen zu treffen.
+
+  Les instructions de montage sont vraiment *compliquées*.
+  Die Montageanleitung ist wirklich *kompliziert*.
+
+  Le fonctionnement de ce nouveau système est trop *compliqué*.
+  Die Funktionsweise dieses neuen Systems ist zu *kompliziert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

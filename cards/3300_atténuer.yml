@@ -13,14 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous voulons atténuer la pauvreté.
-  Wir wollen die Armut lindern.
+  Nous voulons *atténuer* la pauvreté.
+  Wir wollen die Armut *lindern*.
 
-  Il essaie d’atténuer les conséquences de ses actes.
-  Er versucht, die Auswirkungen seiner Handlungen abzuschwächen.
+  Le médicament va *atténuer* vos douleurs.
+  Das Medikament wird Ihre Schmerzen *lindern*.
 
-  Dans certaines situations, la responsabilité de l'accusé peut être atténuée en raison de circonstances particulières.
-  In bestimmten Situationen kann die Verantwortung des Angeklagten aufgrund besonderer Umstände gemindert werden.
+  Cette musique douce *atténue* mon stress quotidien.
+  Diese sanfte Musik *dämpft* meinen Alltagsstress.
+
+  Les rideaux épais *atténuent* le bruit de la rue.
+  Die dicken Vorhänge *dämpfen* den Straßenlärm.
+
+  Le temps a *atténué* l'amertume de sa défaite.
+  Die Zeit hat die Bitterkeit seiner Niederlage *abgeschwächt*.
+
+  Le diplomate a *atténué* les termes de sa déclaration.
+  Der Diplomat hat die Formulierung seiner Erklärung *abgeschwächt*.
+
+  Cette peinture va *atténuer* les couleurs trop vives.
+  Diese Farbe wird die zu grellen Farben *abschwächen*.
+
+  Il essaie d'*atténuer* sa faute en donnant des excuses.
+  Er versucht seinen Fehler mit Ausreden zu *verharmlosen*.
+
+  La tension entre les deux pays s'est *atténuée*.
+  Die Spannung zwischen den beiden Ländern hat sich *gemildert*.
+
+  Les tremblements de terre se sont *atténués*.
+  Die Erdbeben sind *schwächer geworden*.
+
+  Le parfum s'*atténue* au fil des heures.
+  Der Duft *lässt* im Laufe der Stunden *nach*.
+
+  Sa colère s'est *atténuée* avec le temps.
+  Sein Zorn hat sich mit der Zeit *abgeschwächt*.
+
+  Les différences culturelles se sont *atténuées* au fil des générations.
+  Die kulturellen Unterschiede haben sich über die Generationen hinweg *abgeschwächt*.
+
+  Le feuillage dense *atténue* l'ardeur du soleil.
+  Das dichte Blattwerk *dämpft* die Kraft der Sonne.
+
+  La crème va *atténuer* les rougeurs de votre peau.
+  Die Creme wird die Rötungen Ihrer Haut *lindern*.
+
+  Le temps finira par *atténuer* sa peine.
+  Die Zeit wird seinen Kummer letztendlich *lindern*.
+
+  Les excuses ont *atténué* la gravité de la situation.
+  Die Entschuldigungen haben die Schwere der Situation *abgeschwächt*.
+
+  Le brouillard *atténue* les contours des montagnes.
+  Der Nebel *dämpft* die Konturen der Berge.
+
+  La distance *atténue* le son des vagues.
+  Die Entfernung *dämpft* das Geräusch der Wellen.
+
+  Son sourire a *atténué* la tension dans la pièce.
+  Sein Lächeln hat die Spannung im Raum *gemildert*.
+
+  Les symptômes se sont progressivement *atténués*.
+  Die Symptome haben allmählich *nachgelassen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

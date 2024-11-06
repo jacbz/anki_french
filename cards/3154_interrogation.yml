@@ -13,26 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je laisse toutes ces interrogations à votre réflexion.
-  Ich überlasse all diese Fragen Ihren Überlegungen.
+  Je laisse toutes ces *interrogations* à votre réflexion.
+  Ich überlasse all diese *Fragen* Ihrem Nachdenken.
 
-  Il y a une interrogation sur l’identité du suspect.
-  Es gibt eine Frage zur Identität des Verdächtigen.
+  L'élève devra répondre à une *interrogation* écrite de mathématiques demain.
+  Der Schüler muss morgen eine Mathematik*prüfung* schreiben.
 
-  Est-ce que tu as une question directe ou indirecte ?
-  Hast du eine direkte oder indirekte Frage?
+  Les *interrogations* sur la nature de l'univers fascinent les philosophes.
+  Die *Fragen* nach dem Wesen des Universums faszinieren die Philosophen.
 
-  Il m'a posé une question directe sur mon travail.
-  Er hat mich direkt nach meiner Arbeit gefragt.
+  Son regard était plein d'*interrogation*.
+  Sein Blick war voller *Fragen*.
 
-  L'interrogation d'un fichier est une opération courante en informatique.
-  Die Abfrage einer Datei ist ein üblicher Vorgang in der Informatik.
+  L'*interrogation* des fichiers clients prend du temps.
+  Die *Abfrage* der Kundendateien dauert lange.
 
-  L'interrogation écrite de mathématiques était difficile.
-  Die Mathematikarbeit war schwierig.
+  Pendant l'*interrogation* orale d'anglais, elle a très bien répondu.
+  Während der mündlichen Englisch*prüfung* hat sie sehr gut geantwortet.
 
-  L'interrogation orale est une épreuve qui peut être stressante pour certains élèves.
-  Die mündliche Prüfung ist eine Prüfung, die für manche Schüler stressig sein kann.
+  Cette *interrogation* directe exige l'inversion du sujet.
+  Diese direkte *Frage* erfordert die Umstellung von Subjekt und Verb.
+
+  N'oublie pas de mettre un point d'*interrogation* à la fin de ta question.
+  Vergiss nicht, am Ende deiner Frage ein *Fragezeichen* zu setzen.
+
+  Les policiers ont procédé à l'*interrogation* des témoins.
+  Die Polizisten haben die *Befragung* der Zeugen durchgeführt.
+
+  Cette *interrogation* métaphysique le tourmente depuis des années.
+  Diese metaphysische *Frage* quält ihn seit Jahren.
+
+  Marie a eu une excellente note à son *interrogation* de géographie.
+  Marie hat in ihrer Geographie*prüfung* eine ausgezeichnete Note bekommen.
+
+  L'*interrogation* des bases de données est instantanée.
+  Die *Abfrage* der Datenbanken erfolgt sofort.
+
+  Ses *interrogations* sur l'avenir restent sans réponse.
+  Seine *Fragen* über die Zukunft bleiben unbeantwortet.
+
+  L'*interrogation* partielle porte sur un élément précis de la phrase.
+  Die Teil*frage* bezieht sich auf ein bestimmtes Element des Satzes.
+
+  Le système permet l'*interrogation* rapide des stocks.
+  Das System ermöglicht eine schnelle *Abfrage* der Lagerbestände.
+
+  Les *interrogations* continuelles des enfants nous amusent.
+  Die ständigen *Fragen* der Kinder amüsieren uns.
+
+  Cette *interrogation* surprise a stressé toute la classe.
+  Diese überraschende *Prüfung* hat die ganze Klasse gestresst.
+
+  L'*interrogation* indirecte commence souvent par "si".
+  Die indirekte *Frage* beginnt oft mit "ob".
+
+  Une muette *interrogation* se lisait dans ses yeux.
+  Eine stumme *Frage* lag in ihren Augen.
+
+  Le professeur a prévu une *interrogation* écrite pour la semaine prochaine.
+  Der Lehrer hat für nächste Woche eine schriftliche *Prüfung* geplant.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

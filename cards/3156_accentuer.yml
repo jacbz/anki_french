@@ -13,11 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La méfiance entre salariés et employeurs s’accentue.
-  Das Misstrauen zwischen Arbeitnehmern und Arbeitgebern nimmt zu.
+  La méfiance entre salariés et employeurs *s'accentue*.
+  Das Misstrauen zwischen Arbeitnehmern und Arbeitgebern *verstärkt* sich.
 
-  Il faut accentuer l’importance de l’éducation.
-  Die Bedeutung von Bildung muss betont werden.
+  Tu as oublié d'*accentuer* le "e" dans le mot "élève".
+  Du hast vergessen, einen *Akzent* auf das "e" im Wort "élève" zu setzen.
+
+  Les inégalités sociales se sont *accentuées* pendant la crise.
+  Die sozialen Ungleichheiten haben sich während der Krise *verschärft*.
+
+  Son maquillage *accentue* la beauté de ses yeux.
+  Ihr Make-up *betont* die Schönheit ihrer Augen.
+
+  Le professeur nous a demandé d'*accentuer* la dernière syllabe.
+  Der Lehrer bat uns, die letzte Silbe zu *betonen*.
+
+  La chaleur *s'accentue* de plus en plus.
+  Die Hitze *verstärkt* sich immer mehr.
+
+  Cette coupe de cheveux *accentue* ses traits fins.
+  Dieser Haarschnitt *unterstreicht* ihre feinen Gesichtszüge.
+
+  Le changement climatique va *accentuer* les risques d'inondation.
+  Der Klimawandel wird die Überschwemmungsrisiken *erhöhen*.
+
+  Il faut *accentuer* nos efforts pour réussir.
+  Wir müssen unsere Bemühungen *verstärken*, um erfolgreich zu sein.
+
+  Les tensions entre les deux pays se sont *accentuées*.
+  Die Spannungen zwischen den beiden Ländern haben sich *verschärft*.
+
+  Le pianiste doit *accentuer* cette note pour créer plus d'émotion.
+  Der Pianist muss diese Note *betonen*, um mehr Emotion zu erzeugen.
+
+  Marie *accentue* toujours correctement les mots en français.
+  Marie *akzentuiert* die französischen Wörter immer richtig.
+
+  Le froid *s'accentue* depuis ce matin.
+  Die Kälte *verschärft* sich seit heute Morgen.
+
+  Cette politique va *accentuer* les différences régionales.
+  Diese Politik wird die regionalen Unterschiede *verstärken*.
+
+  Le vent *s'accentue* à l'approche de l'orage.
+  Der Wind *verstärkt* sich, wenn das Gewitter näher kommt.
+
+  L'artiste a *accentué* les contrastes dans son tableau.
+  Der Künstler hat die Kontraste in seinem Gemälde *betont*.
+
+  Son accent du Sud *s'accentue* quand elle est fatiguée.
+  Ihr südlicher Akzent *verstärkt* sich, wenn sie müde ist.
+
+  Il faut *accentuer* le "a" dans le mot "château".
+  Man muss einen *Akzent* auf das "a" im Wort "château" setzen.
+
+  Le stress *s'accentue* à l'approche des examens.
+  Der Stress *verstärkt* sich, wenn die Prüfungen näher rücken.
+
+  Cette lumière *accentue* les rides sur son visage.
+  Dieses Licht *betont* die Falten in seinem Gesicht.
+
+  La sécheresse va *s'accentuer* dans les prochains jours.
+  Die Trockenheit wird sich in den nächsten Tagen *verschärfen*.
+
+  Le candidat a *accentué* ses promesses de changement.
+  Der Kandidat hat seine Versprechen auf Veränderung *verstärkt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

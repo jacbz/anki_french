@@ -13,11 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils préfèrent donner des interviews téléphoniques.
-  Sie geben lieber Telefoninterviews.
+  Ils préfèrent donner des *interviews* téléphoniques.
+  Sie geben lieber telefonische *Interviews*.
 
-  L’intervieweur a posé des questions difficiles.
-  Der Interviewer stellte schwierige Fragen.
+  Le journal a publié une *interview* exclusive avec le président.
+  Die Zeitung hat ein exklusives *Interview* mit dem Präsidenten veröffentlicht.
+
+  Cette *interview* radiophonique a été diffusée en direct.
+  Dieses Radio*interview* wurde live ausgestrahlt.
+
+  J'ai lu une *interview* passionnante dans le magazine d'hier.
+  Ich habe ein spannendes *Interview* in der gestrigen Zeitschrift gelesen.
+
+  Le journaliste a sollicité une *interview* avec l'artiste.
+  Der Journalist hat um ein *Interview* mit dem Künstler gebeten.
+
+  Elle n'accorde jamais d'*interviews* aux médias locaux.
+  Sie gibt den lokalen Medien nie *Interviews*.
+
+  Les chercheurs ont mené une série d'*interviews* pour leur étude sociologique.
+  Die Forscher haben für ihre soziologische Studie eine Reihe von *Interviews* durchgeführt.
+
+  Notre équipe réalise des *interviews* en ligne depuis la pandémie.
+  Unser Team führt seit der Pandemie Online-*Interviews* durch.
+
+  L'*interview* sera diffusée demain soir à 20 heures.
+  Das *Interview* wird morgen Abend um 20 Uhr ausgestrahlt.
+
+  As-tu déjà regardé l'*interview* que j'ai partagée ?
+  Hast du dir das *Interview* schon angesehen, das ich geteilt habe?
+
+  Cette *interview* a complètement changé mon opinion sur lui.
+  Dieses *Interview* hat meine Meinung über ihn völlig verändert.
+
+  Le candidat s'est bien préparé pour son *interview* d'embauche.
+  Der Kandidat hat sich gut auf sein Bewerbungs*interview* vorbereitet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

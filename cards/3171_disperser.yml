@@ -13,20 +13,101 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’armée va disperser la foule.
-  Die Armee treibt die Menge auseinander.
+  L'armée va *disperser* la foule.
+  Die Armee wird die Menge *auseinandertreiben*.
 
-  Les manifestants ont été dispersés par la police.
-  Die Demonstranten wurden von der Polizei zerstreut.
+  Le vent a *dispersé* les feuilles mortes partout dans le jardin.
+  Der Wind hat die toten Blätter überall im Garten *verstreut*.
 
-  Les livres étaient dispersés sur le sol, après le passage de l'ouragan.
-  Die Bücher lagen verstreut auf dem Boden, nachdem der Hurrikan vorbeigezogen war.
+  Les papiers se sont *dispersés* quand la fenêtre s'est ouverte.
+  Die Papiere haben sich *zerstreut*, als das Fenster aufging.
 
-  Il dispersait ses efforts sur trop de projets à la fois, ce qui l'empêchait de réussir.
-  Er verzettelte sich in seinen Bemühungen, weil er zu viele Projekte gleichzeitig verfolgte, was ihn daran hinderte, erfolgreich zu sein.
+  La police a dû *disperser* les manifestants avec des gaz lacrymogènes.
+  Die Polizei musste die Demonstranten mit Tränengas *auseinandertreiben*.
 
-  Le bruit de la rue dispersait l'attention de Marie, qui essayait de lire.
-  Der Lärm der Straße lenkte Marie ab, die versuchte zu lesen.
+  Le commissaire a *dispersé* ses agents aux quatre coins de la ville.
+  Der Kommissar hat seine Beamten in alle Ecken der Stadt *verteilt*.
+
+  "Tu devrais moins te *disperser* dans tes études."
+  "Du solltest dich in deinem Studium weniger *verzetteln*."
+
+  Les cendres de grand-père ont été *dispersées* dans la mer.
+  Die Asche des Großvaters wurde im Meer *verstreut*.
+
+  Les jouets *dispersés* dans sa chambre créent un vrai désordre.
+  Das im Zimmer *verstreute* Spielzeug macht ein echtes Durcheinander.
+
+  La brume matinale se *disperse* lentement au soleil.
+  Der Morgennebel *löst* sich langsam in der Sonne *auf*.
+
+  Cette équipe *disperse* trop ses efforts au lieu de se concentrer.
+  Dieses Team *verzettelt* seine Anstrengungen, anstatt sich zu konzentrieren.
+
+  Les oiseaux se sont *dispersés* quand j'ai frappé dans mes mains.
+  Die Vögel sind *auseinandergestoben*, als ich in die Hände klatschte.
+
+  Le bruit constant *disperse* mon attention pendant que je travaille.
+  Der konstante Lärm *lenkt* meine Aufmerksamkeit während der Arbeit *ab*.
+
+  Les soldats se sont *dispersés* dans la forêt pour éviter l'ennemi.
+  Die Soldaten haben sich im Wald *zerstreut*, um dem Feind auszuweichen.
+
+  Le vent violent a *dispersé* tous nos documents sur la terrasse.
+  Der starke Wind hat alle unsere Dokumente auf der Terrasse *verstreut*.
+
+  Les participants se sont *dispersés* après la réunion.
+  Die Teilnehmer haben sich nach der Sitzung *zerstreut*.
+
+  Marie *disperse* toujours son énergie dans trop de projets différents.
+  Marie *verzettelt* ihre Energie immer in zu vielen verschiedenen Projekten.
+
+  La collection du musée a été *dispersée* aux enchères.
+  Die Sammlung des Museums wurde in der Auktion *aufgeteilt*.
+
+  Les nuages d'orage se sont rapidement *dispersés*.
+  Die Gewitterwolken haben sich schnell *aufgelöst*.
+
+  Les hameaux sont *dispersés* dans toute la vallée.
+  Die Weiler sind über das ganze Tal *verstreut*.
+
+  La tempête a *dispersé* les débris du navire sur la plage.
+  Der Sturm hat die Schiffstrümmer am Strand *verstreut*.
+
+  Les étudiants se sont *dispersés* dans différentes universités après le bac.
+  Die Schüler haben sich nach dem Abitur auf verschiedene Universitäten *verteilt*.
+
+  Le groupe terroriste a été *dispersé* par les forces spéciales.
+  Die Terroristengruppe wurde von den Spezialkräften *zersprengt*.
+
+  Ces petites entreprises *dispersent* leurs ressources au lieu de les centraliser.
+  Diese kleinen Unternehmen *verzetteln* ihre Ressourcen, anstatt sie zu zentralisieren.
+
+  La diaspora juive s'est *dispersée* aux quatre coins du monde.
+  Die jüdische Diaspora hat sich in alle Ecken der Welt *verstreut*.
+
+  Les manifestants ont agi en ordre *dispersé*.
+  Die Demonstranten sind *verstreut* vorgegangen.
+
+  Le professeur nous a dit de ne pas nous *disperser* pendant l'examen.
+  Der Lehrer sagte uns, uns während der Prüfung nicht zu *verzetteln*.
+
+  La fumée s'est lentement *dispersée* dans l'air.
+  Der Rauch hat sich langsam in der Luft *verflüchtigt*.
+
+  Les troupes ennemies se sont *dispersées* après leur défaite.
+  Die feindlichen Truppen haben sich nach ihrer Niederlage *zerstreut*.
+
+  Le jardinier a *dispersé* les graines sur toute la pelouse.
+  Der Gärtner hat die Samen über den ganzen Rasen *verstreut*.
+
+  Son esprit *dispersé* l'empêche de se concentrer sur ses devoirs.
+  Sein *zerstreuter* Geist hindert ihn daran, sich auf seine Hausaufgaben zu konzentrieren.
+
+  La police a *dispersé* l'attroupement devant le stade.
+  Die Polizei hat die Menschenansammlung vor dem Stadion *aufgelöst*.
+
+  Les rebelles se sont *dispersés* dans les montagnes.
+  Die Rebellen haben sich in den Bergen *zerstreut*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

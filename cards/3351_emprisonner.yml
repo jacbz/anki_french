@@ -13,23 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous avez été harcelé et emprisonné pour vos opinions.
-  Sie wurden wegen Ihrer Ansichten schikaniert und inhaftiert.
+  Vous avez été harcelé et *emprisonné* pour vos opinions.
+  Sie wurden wegen Ihrer Meinung schikaniert und *inhaftiert*.
 
-  Il a été emprisonné pour vol.
-  Er wurde wegen Diebstahls eingesperrt.
+  Le tribunal a décidé d'*emprisonner* le voleur pendant trois ans.
+  Das Gericht beschloss, den Dieb für drei Jahre zu *inhaftieren*.
 
-  Le gardien a emprisonné le lion dans une cage.
-  Der Wärter hat den Löwen in einen Käfig eingesperrt.
+  Elle a refusé d'*emprisonner* son chat dans une cage de transport.
+  Sie weigerte sich, ihre Katze in einen Transportkäfig zu *sperren*.
 
-  J'ai emprisonné mes souvenirs dans un carnet.
-  Ich habe meine Erinnerungen in ein Notizbuch gezwängt.
+  La neige a *emprisonné* notre voiture pendant deux jours.
+  Der Schnee hat unser Auto zwei Tage lang *eingeschlossen*.
 
-  La ville était emprisonnée par le brouillard.
-  Die Stadt war durch den Nebel eingeengt.
+  L'enfant *emprisonnait* le petit oiseau blessé dans ses mains.
+  Das Kind *umklammerte* den verletzten kleinen Vogel mit seinen Händen.
 
-  Le malade était emprisonné dans son lit.
-  Der Kranke war der Gefangene seines Bettes.
+  Ces vêtements trop serrés *emprisonnent* mes mouvements.
+  Diese zu enge Kleidung *schränkt* meine Bewegungen *ein*.
+
+  Les autorités ont *emprisonné* tous les manifestants.
+  Die Behörden haben alle Demonstranten *eingesperrt*.
+
+  La glace a *emprisonné* le bateau dans la baie.
+  Das Eis hat das Boot in der Bucht *eingeschlossen*.
+
+  Son père l'a *emprisonnée* dans ses traditions familiales.
+  Ihr Vater hat sie in seinen Familientraditionen *gefangen* gehalten.
+
+  Les chercheurs ont *emprisonné* les bactéries dans une boîte de Petri.
+  Die Forscher haben die Bakterien in einer Petrischale *eingeschlossen*.
+
+  Marie *emprisonnait* son ami dans une étreinte affectueuse.
+  Marie *umklammerte* ihren Freund in einer liebevollen Umarmung.
+
+  Le brouillard *emprisonnait* toute la ville ce matin-là.
+  Der Nebel hielt an diesem Morgen die ganze Stadt *gefangen*.
+
+  Les policiers ont dû *emprisonner* le suspect pendant l'enquête.
+  Die Polizisten mussten den Verdächtigen während der Ermittlungen *inhaftieren*.
+
+  Cette robe trop étroite *emprisonnait* sa taille.
+  Dieses zu enge Kleid *zwängte* ihre Taille *ein*.
+
+  Le zoo a temporairement *emprisonné* les lions dans leurs cages intérieures.
+  Der Zoo hat die Löwen vorübergehend in ihren Innenkäfigen *eingesperrt*.
+
+  Ses préjugés l'ont *emprisonné* dans une vision étroite du monde.
+  Seine Vorurteile haben ihn in einer engstirnigen Weltsicht *gefangen* gehalten.
+
+  Le bandage *emprisonnait* son bras blessé.
+  Der Verband *umschloss* seinen verletzten Arm.
+
+  La société l'avait *emprisonnée* dans des rôles traditionnels.
+  Die Gesellschaft hatte sie in traditionellen Rollen *gefangen* gehalten.
+
+  Les barreaux de la fenêtre *emprisonnaient* la vue sur l'océan.
+  Die Gitterstäbe vor dem Fenster *versperrten* die Sicht auf den Ozean.
+
+  Le gardien a dû *emprisonner* le chien agressif pour la sécurité des visiteurs.
+  Der Wärter musste den aggressiven Hund zur Sicherheit der Besucher *einsperren*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,44 @@ Register: ↘Fiktion ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La puissance iranienne est inquiétante.
-  Die Macht des Irans ist besorgniserregend.
+  La puissance *iranienne* est inquiétante.
+  Die *iranische* Macht ist beunruhigend.
 
-  Je suis d’origine iranienne.
-  Ich bin iranischer Herkunft.
+  Le gouvernement *iranien* a annoncé de nouvelles mesures économiques.
+  Die *iranische* Regierung hat neue wirtschaftliche Maßnahmen angekündigt.
+
+  Les *Iraniens* célèbrent le Nouvel An en mars.
+  Die *Iraner* feiern Neujahr im März.
+
+  Cette *Iranienne* vit à Paris depuis vingt ans.
+  Diese *Iranerin* lebt seit zwanzig Jahren in Paris.
+
+  Le plateau *iranien* est une vaste région géographique.
+  Die *iranische* Hochebene ist eine weitläufige geografische Region.
+
+  La cuisine *iranienne* est réputée pour ses délicieux desserts.
+  Die *iranische* Küche ist für ihre köstlichen Desserts bekannt.
+
+  Les chercheurs étudient l'ancienne civilisation *iranienne*.
+  Die Forscher untersuchen die alte *iranische* Zivilisation.
+
+  Le kurde fait partie des langues *iraniennes*.
+  Kurdisch gehört zu den *iranischen* Sprachen.
+
+  Mon collègue *iranien* m'a appris quelques mots en persan.
+  Mein *iranischer* Kollege hat mir ein paar Wörter auf Persisch beigebracht.
+
+  L'art *iranien* moderne mélange tradition et innovation.
+  Die moderne *iranische* Kunst vermischt Tradition und Innovation.
+
+  Les tapis *iraniens* sont connus dans le monde entier.
+  *Iranische* Teppiche sind weltweit bekannt.
+
+  La littérature *iranienne* contemporaine gagne en popularité.
+  Die zeitgenössische *iranische* Literatur gewinnt an Beliebtheit.
+
+  L'ancien *iranien* était parlé il y a plus de 2500 ans.
+  Das Alt*iranische* wurde vor mehr als 2500 Jahren gesprochen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

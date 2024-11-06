@@ -13,41 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je dois faire une inspection sur place très minutieuse.
-  Ich muss eine sehr gründliche Inspektion vor Ort durchführen.
+  Je dois faire une *inspection* sur place très minutieuse.
+  Ich muss eine sehr gründliche *Kontrolle* vor Ort durchführen.
 
-  L’inspection de l’école a révélé des problèmes.
-  Die Inspektion der Schule hat Probleme aufgedeckt.
+  L'*inspection* des bagages à l'aéroport prend beaucoup de temps.
+  Die Gepäck*kontrolle* am Flughafen dauert sehr lange.
 
-  Les agents de sécurité ont effectué une inspection des bagages à l'aéroport.
-  Die Sicherheitsbeamten haben am Flughafen eine Gepäckkontrolle durchgeführt.
+  Le directeur a effectué une *inspection* en règle de tous les documents.
+  Der Direktor hat eine gründliche *Kontrolle* aller Dokumente durchgeführt.
 
-  L'inspection des Finances a publié un rapport sur l'état de l'économie.
-  Die Finanzaufsichtsbehörde hat einen Bericht über den Zustand der Wirtschaft veröffentlicht.
+  Les agents ont procédé à l'*inspection* du véhicule suspect.
+  Die Beamten haben das verdächtige Fahrzeug *kontrolliert*.
 
-  L'inspection judiciaire a permis de constater les dégâts causés par l'incendie.
-  Die Besichtigung durch das Gericht hat die Schäden durch den Brand festgestellt.
+  Le professeur principal est venu faire une *inspection* dans notre classe.
+  Der Schulrat kam zu einem *Unterrichtsbesuch* in unsere Klasse.
 
-  L'inspection en règle du bâtiment a révélé des anomalies dans les installations électriques.
-  Die gründliche Kontrolle des Gebäudes hat Unregelmäßigkeiten in der elektrischen Anlage aufgedeckt.
+  L'*inspection* des Finances a découvert plusieurs irrégularités.
+  Die Finanz*aufsicht* hat mehrere Unregelmäßigkeiten aufgedeckt.
 
-  Le technicien a fait l'inspection de la machine pour s'assurer qu'elle fonctionnait correctement.
-  Der Techniker hat die Maschine kontrolliert, um sicherzustellen, dass sie einwandfrei funktioniert.
+  L'*inspection* du Travail a fermé l'usine pour des raisons de sécurité.
+  Das Gewerbe*aufsichts*amt hat die Fabrik aus Sicherheitsgründen geschlossen.
 
-  L'inspection du Travail a effectué un contrôle de sécurité dans l'usine.
-  Das Gewerbeaufsichtsamt hat eine Sicherheitskontrolle in der Fabrik durchgeführt.
+  L'*inspection* des monuments historiques a classé ce bâtiment.
+  Das Denkmal*amt* hat dieses Gebäude unter Schutz gestellt.
 
-  L'inspection des monuments historiques a classé le château comme monument national.
-  Das Denkmalamt hat das Schloss als nationales Denkmal eingestuft.
+  L'*inspection* académique a envoyé une nouvelle directive aux écoles.
+  Das Oberschul*amt* hat eine neue Richtlinie an die Schulen verschickt.
 
-  L'inspection académique a décidé de fermer l'école en raison d'un manque de ressources.
-  Das ≈ Oberschulamt hat entschieden, die Schule aufgrund von Ressourcenmangels zu schließen.
+  L'*inspection* judiciaire des lieux a révélé de nouvelles preuves.
+  Die gerichtliche *Besichtigung* des Tatorts hat neue Beweise ans Licht gebracht.
 
-  L'inspection régionale a organisé une formation pour les enseignants du collège.
-  Das ≈ Schulamt hat eine Weiterbildung für die Lehrer des Gymnasiums organisiert.
+  L'expert doit faire l'*inspection* des dommages causés par l'incendie.
+  Der Gutachter muss eine *Besichtigung* der Brandschäden vornehmen.
 
-  L'inspection des dommages a estimé le coût des réparations à plusieurs milliers d'euros.
-  Die Schadensbesichtigung hat die Reparaturkosten auf mehrere tausend Euro geschätzt.
+  Le général effectue sa tournée d'*inspection* annuelle demain.
+  Der General macht morgen seinen jährlichen *Kontroll*rundgang.
+
+  Après une *inspection* rapide, le médecin a trouvé la cause du problème.
+  Nach einer schnellen *Untersuchung* hat der Arzt die Ursache des Problems gefunden.
+
+  Marie s'est portée candidate à une *inspection* dans l'éducation nationale.
+  Marie hat sich für eine *Inspektoren*stelle im Bildungswesen beworben.
+
+  Son *inspection* s'étend maintenant sur trois régions différentes.
+  Sein *Aufsichts*bereich erstreckt sich jetzt über drei verschiedene Regionen.
+
+  Les ouvriers attendent l'*inspection* du chantier par l'ingénieur.
+  Die Arbeiter warten auf die *Kontrolle* der Baustelle durch den Ingenieur.
+
+  Une *inspection* surprise a eu lieu dans tous les restaurants du quartier.
+  Eine überraschende *Kontrolle* fand in allen Restaurants des Viertels statt.
+
+  L'*inspection* des installations électriques est obligatoire chaque année.
+  Die *Überprüfung* der elektrischen Anlagen ist jedes Jahr Pflicht.
+
+  L'*inspection* détaillée du pont a révélé des fissures inquiétantes.
+  Die genaue *Untersuchung* der Brücke hat besorgniserregende Risse aufgedeckt.
+
+  Après l'*inspection* du matériel, nous pouvons commencer l'exercice.
+  Nach der *Kontrolle* der Ausrüstung können wir mit der Übung beginnen.
+
+  Une *inspection* de pure forme ne suffit pas dans ce cas grave.
+  Eine reine Formal*kontrolle* reicht in diesem schweren Fall nicht aus.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

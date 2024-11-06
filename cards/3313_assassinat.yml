@@ -13,11 +13,47 @@ Register: ↗Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Quiconque meurt de faim meurt d’un assassinat.
-  Jeder, der an Hunger stirbt, stirbt an einem Mord.
+  Quiconque meurt de faim meurt d'un *assassinat*.
+  Wer an Hunger stirbt, ist Opfer eines *Mordes*.
 
-  L’assassinat a été commis dans la nuit.
-  Der Mord wurde in der Nacht begangen.
+  L'*assassinat* du président a bouleversé toute la nation.
+  Die *Ermordung* des Präsidenten hat die ganze Nation erschüttert.
+
+  La police enquête sur une tentative d'*assassinat* contre le ministre.
+  Die Polizei ermittelt wegen eines versuchten *Mordanschlags* auf den Minister.
+
+  Elle a été arrêtée pour complicité d'*assassinat*.
+  Sie wurde wegen Beihilfe zum *Mord* verhaftet.
+
+  Cet *assassinat* politique a changé le cours de l'histoire.
+  Dieser politische *Mord* hat den Lauf der Geschichte verändert.
+
+  L'*assassinat* des libertés démocratiques inquiète les citoyens.
+  Die *Vernichtung* der demokratischen Freiheiten beunruhigt die Bürger.
+
+  Le jury l'a déclaré non coupable de l'*assassinat*.
+  Die Jury hat ihn vom *Mordvorwurf* freigesprochen.
+
+  L'*assassinat* de la langue française par les réseaux sociaux est préoccupant.
+  Die *Zerstörung* der französischen Sprache durch soziale Medien ist besorgniserregend.
+
+  Les preuves de l'*assassinat* ont été détruites.
+  Die Beweise für den *Mord* wurden vernichtet.
+
+  Cet *assassinat* brutal a choqué toute la ville.
+  Dieser brutale *Mord* hat die ganze Stadt schockiert.
+
+  L'*assassinat* de notre culture par la mondialisation continue.
+  Die *Vernichtung* unserer Kultur durch die Globalisierung geht weiter.
+
+  Le témoin de l'*assassinat* a disparu mystérieusement.
+  Der Zeuge des *Mordes* ist auf mysteriöse Weise verschwunden.
+
+  Un nouvel *assassinat* a été commis dans le quartier.
+  Im Viertel wurde ein neuer *Mord* begangen.
+
+  Les détails de l'*assassinat* n'ont jamais été révélés.
+  Die Details des *Mordes* wurden nie aufgedeckt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,23 +13,68 @@ Register: ↘Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’avais trouvé une phrase amusante.
-  Ich hatte einen lustigen Satz gefunden.
+  J'avais trouvé une phrase *amusante*.
+  Ich hatte einen *lustigen* Satz gefunden.
 
-  Ce film est très amusant.
-  Dieser Film ist sehr unterhaltsam.
+  Cette comédie est vraiment très *amusante*.
+  Diese Komödie ist wirklich sehr *unterhaltsam*.
 
-  L'amusant, c'est que personne ne s'attendait à ce résultat.
-  Das Amüsante ist, dass niemand mit diesem Ergebnis gerechnet hat.
+  L'*amusant*, c'est qu'il ne s'en est même pas aperçu.
+  Das *Witzige* ist, dass er es nicht einmal bemerkt hat.
 
-  L'amusant, c'est de faire du vélo dans la forêt.
-  Der Spaß besteht darin, mit dem Fahrrad durch den Wald zu fahren.
+  "Ce n'est pas très *amusant* comme jeu !"
+  "Das ist nicht sehr *lustig* als Spiel!"
 
-  Ce jeu n'a rien d'amusant, il est trop compliqué.
-  Das Spiel ist alles andere als lustig, es ist zu kompliziert.
+  Elle portait une robe *amusante* avec des motifs colorés.
+  Sie trug ein *witziges* Kleid mit bunten Mustern.
 
-  Il n'est pas très amusant, il ne raconte jamais de blagues.
-  Er ist nicht besonders lustig, er erzählt nie Witze.
+  L'*amusant* de cette situation, c'est de voir leurs réactions.
+  Der *Spaß* an dieser Situation besteht darin, ihre Reaktionen zu beobachten.
+
+  Pierre est un convive très *amusant*.
+  Pierre ist ein sehr *unterhaltsamer* Tischgast.
+
+  Mon nouveau travail est vraiment *amusant*.
+  Meine neue Arbeit ist wirklich *abwechslungsreich*.
+
+  Tiens, c'est *amusant*, je viens de croiser ton frère.
+  Das ist ja *witzig*, ich bin gerade deinem Bruder begegnet.
+
+  Cette petite boutique propose des bibelots *amusants*.
+  Dieser kleine Laden bietet *originelle* Nippsachen an.
+
+  Son babil est vraiment *amusant* à écouter.
+  Ihr Geplapper ist wirklich *lustig* anzuhören.
+
+  Ces vacances ont été particulièrement *amusantes*.
+  Dieser Urlaub war besonders *abwechslungsreich*.
+
+  Cela n'a vraiment rien d'*amusant*.
+  Das ist wirklich alles andere als *lustig*.
+
+  Les enfants ont trouvé ce jeu très *amusant*.
+  Die Kinder fanden dieses Spiel sehr *unterhaltsam*.
+
+  Il a un esprit *amusant* et fait toujours rire tout le monde.
+  Er hat einen *witzigen* Geist und bringt alle zum Lachen.
+
+  Cette mode des années 80 était plutôt *amusante*.
+  Diese Mode der 80er Jahre war ziemlich *witzig*.
+
+  Tu ne connais pas encore la partie la plus *amusante* de l'histoire.
+  Du kennst noch nicht den *lustigsten* Teil der Geschichte.
+
+  Cette plaisanterie n'était pas très *amusante*.
+  Dieser Scherz war nicht sehr *witzig*.
+
+  Qu'y a-t-il d'*amusant* dans cette situation ?
+  Was ist an dieser Situation *lustig*?
+
+  C'est *amusant* à regarder mais pas très intelligent.
+  Es ist *unterhaltsam* anzuschauen, aber nicht sehr intelligent.
+
+  Son nouveau spectacle est vraiment *amusant*.
+  Seine neue Show ist wirklich *amüsant*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

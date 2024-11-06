@@ -13,11 +13,38 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ça fait une demi-heure que je vous attends.
-  Ich warte schon seit einer halben Stunde auf Sie.
+  Ça fait une *demi-heure* que je vous attends.
+  Ich warte schon seit einer *halben Stunde* auf Sie.
 
-  Je serai là dans une demi-heure.
-  Ich werde in einer halben Stunde da sein.
+  Le train part dans une *demi-heure*.
+  Der Zug fährt in einer *halben Stunde* ab.
+
+  Elle a mis une *demi-heure* pour faire ses devoirs.
+  Sie hat eine *halbe Stunde* gebraucht, um ihre Hausaufgaben zu machen.
+
+  Les bus passent toutes les *demi-heures*.
+  Die Busse fahren alle *halbe Stunde*.
+
+  J'ai besoin d'une *demi-heure* de plus pour finir ce travail.
+  Ich brauche noch eine *halbe Stunde*, um diese Arbeit zu beenden.
+
+  Dans une *demi-heure*, nous serons arrivés à destination.
+  In einer *halben Stunde* werden wir am Ziel sein.
+
+  La pause déjeuner dure une *demi-heure*.
+  Die Mittagspause dauert eine *halbe Stunde*.
+
+  Il ne reste qu'une *demi-heure* avant la fermeture du magasin.
+  Es ist nur noch eine *halbe Stunde* bis zur Ladenschließung.
+
+  La séance de yoga commence dans une *demi-heure*.
+  Die Yogastunde beginnt in einer *halben Stunde*.
+
+  Les visites guidées partent toutes les *demi-heures*.
+  Die Führungen starten alle *halbe Stunde*.
+
+  Je te rappelle dans une *demi-heure*.
+  Ich rufe dich in einer *halben Stunde* zurück.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

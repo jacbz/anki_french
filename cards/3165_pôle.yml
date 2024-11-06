@@ -13,29 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il sera parti au pôle nord.
-  Er wird zum Nordpol gegangen sein.
+  Il sera parti au *pôle* nord.
+  Er wird zum Nord*pol* aufgebrochen sein.
 
-  Les ours polaires vivent près du pôle Nord.
-  Eisbären leben in der Nähe des Nordpols.
+  Les scientifiques étudient les effets du réchauffement climatique au *pôle* Sud.
+  Die Wissenschaftler untersuchen die Auswirkungen der Klimaerwärmung am Süd*pol*.
 
-  Le pôle Nord est situé au sommet du globe terrestre.
-  Der Nordpol befindet sich am oberen Ende der Erdkugel.
+  La Terre est légèrement aplatie aux deux *pôles*.
+  Die Erde ist an beiden *Polen* leicht abgeflacht.
 
-  Le pôle Sud est le point le plus au sud de la Terre.
-  Der Südpol ist der südlichste Punkt der Erde.
+  Les méridiens convergent aux *pôles*.
+  Die Meridiane treffen sich an den *Polen*.
 
-  Le pôle négatif d'une batterie est relié au fil noir.
-  Der Minuspol einer Batterie ist mit dem schwarzen Kabel verbunden.
+  Le *pôle* magnétique terrestre ne correspond pas exactement au *pôle* géographique.
+  Der magnetische Erd*pol* entspricht nicht genau dem geografischen *Pol*.
 
-  Le pôle positif d'une batterie est relié au fil rouge.
-  Der Pluspol einer Batterie ist mit dem roten Kabel verbunden.
+  L'aiguille de la boussole s'oriente vers le *pôle* magnétique.
+  Die Kompassnadel richtet sich nach dem magnetischen *Pol* aus.
 
-  Les deux pôles sont de pôle opposé.
-  Die beiden Pole sind gegenpolig.
+  La banquise fond rapidement aux *pôles*.
+  Das Packeis an den *Polen* schmilzt schnell.
 
-  Ce centre de recherche est un pôle de compétitivité majeur dans le domaine de la biotechnologie.
-  Dieses Forschungszentrum ist ein wichtiges Technologie- und Wissenschaftszentrum im Bereich der Biotechnologie.
+  Le chercheur a installé une station météorologique près du *pôle*.
+  Der Forscher hat eine Wetterstation in der Nähe des *Pols* aufgestellt.
+
+  Les *pôles* positif et négatif de la pile sont marqués par des symboles plus et moins.
+  Der Plus- und Minus*pol* der Batterie sind mit Plus- und Minuszeichen markiert.
+
+  Le *pôle* négatif de cet aimant repousse celui de l'autre.
+  Der negative *Pol* dieses Magneten stößt den des anderen ab.
+
+  La joie et la tristesse représentent deux *pôles* opposés des émotions humaines.
+  Freude und Traurigkeit stellen zwei entgegengesetzte *Pole* menschlicher Emotionen dar.
+
+  Ces deux théories forment les *pôles* extrêmes du débat philosophique.
+  Diese beiden Theorien bilden die extremen *Pole* der philosophischen Debatte.
+
+  Paris est devenu un important *pôle* technologique en Europe.
+  Paris ist zu einem wichtigen Technologie*zentrum* in Europa geworden.
+
+  Lyon s'est transformée en *pôle* universitaire majeur.
+  Lyon hat sich zu einem bedeutenden Universitäts*zentrum* entwickelt.
+
+  Ce nouveau *pôle* hospitalier regroupe trois cliniques différentes.
+  Dieses neue Krankenhaus*zentrum* vereint drei verschiedene Kliniken.
+
+  La région développe un *pôle* de compétitivité dans le domaine numérique.
+  Die Region entwickelt ein Kompetenz*zentrum* im digitalen Bereich.
+
+  Le *pôle* frontal de l'encéphale contrôle les fonctions motrices.
+  Der frontale *Pol* des Gehirns steuert die motorischen Funktionen.
+
+  Les astronomes observent le mouvement des *pôles* célestes.
+  Die Astronomen beobachten die Bewegung der Himmels*pole*.
+
+  Le *pôle* céleste nord est actuellement proche de l'étoile polaire.
+  Der nördliche Himmels*pol* liegt derzeit nahe dem Polarstern.
+
+  Les coordonnées du point sont définies par rapport au *pôle* et à l'axe.
+  Die Koordinaten des Punktes werden in Bezug auf den *Pol* und die Achse definiert.
+
+  Ce *pôle* de développement a créé de nombreux emplois dans la région.
+  Dieses Entwicklungs*zentrum* hat viele Arbeitsplätze in der Region geschaffen.
+
+  Le gouvernement investit dans ce *pôle* de conversion industrielle.
+  Die Regierung investiert in dieses Industrie*zentrum*.
+
+  La ville est devenue un *pôle* d'attraction pour les entreprises innovantes.
+  Die Stadt ist zu einem Anziehungs*zentrum* für innovative Unternehmen geworden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,32 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il faudra écrire un manuel d’utilisation.
-  Sie müssen ein Benutzerhandbuch schreiben.
+  Il faudra écrire un *manuel* d'utilisation.
+  Man muss ein *Hand*buch schreiben.
 
-  J’ai besoin du manuel pour réparer la machine.
-  Ich brauche das Handbuch, um die Maschine zu reparieren.
+  Le professeur a recommandé ce *manuel* de mathématiques.
+  Der Lehrer hat dieses Mathematik*lehr*buch empfohlen.
 
-  Ce manuel scolaire est très utile pour les élèves.
-  Dieses Schulbuch ist sehr nützlich für die Schüler.
+  As-tu déjà lu le *manuel* de physique ?
+  Hast du das Physik*lehr*buch schon gelesen?
 
-  Le boulanger est un travailleur manuel.
-  Der Bäcker ist ein Handwerker.
+  Julie préfère les activités *manuelles* aux travaux intellectuels.
+  Julie bevorzugt *handwerkliche* Tätigkeiten gegenüber geistiger Arbeit.
 
-  La pompe à fonctionnement manuel est plus écologique que la pompe électrique.
-  Die handbetriebene Pumpe ist umweltfreundlicher als die elektrische Pumpe.
+  Le nouveau *manuel* scolaire sera disponible en septembre.
+  Das neue Schul*buch* wird im September verfügbar sein.
 
-  J'ai besoin du manuel de mathématiques pour résoudre ce problème.
-  Ich brauche das Mathematikbuch, um dieses Problem zu lösen.
+  Mon frère est très doué pour les travaux *manuels*.
+  Mein Bruder ist sehr geschickt bei *Hand*arbeiten.
 
-  Le manuel d'instruction religieuse est utilisé dans les écoles catholiques.
-  Das Religionsbuch wird in katholischen Schulen verwendet.
+  La pompe à fonctionnement *manuel* est plus fiable en cas de panne électrique.
+  Die *hand*betriebene Pumpe ist bei Stromausfall zuverlässiger.
 
-  Le manuel de bricolage m'a aidé à réparer ma chaise.
-  Das Heimwerkerbuch hat mir geholfen, meinen Stuhl zu reparieren.
+  Pierre est un excellent *manuel*, il sait tout réparer.
+  Pierre ist ein ausgezeichneter *Hand*werker, er kann alles reparieren.
 
-  L'habileté manuelle est importante pour un menuisier.
-  Handfertigkeit ist wichtig für einen Tischler.
+  Son *habileté manuelle* lui permet de créer de magnifiques sculptures.
+  Seine *Hand*fertigkeit ermöglicht es ihm, wunderschöne Skulpturen zu erschaffen.
+
+  Ce *manuel* de bricolage m'a beaucoup aidé pour mes rénovations.
+  Dieses *Hand*werkerbuch hat mir bei meinen Renovierungen sehr geholfen.
+
+  La commande *manuelle* permet un contrôle plus précis.
+  Die *manuelle* Steuerung ermöglicht eine präzisere Kontrolle.
+
+  "C'est un *manuel*, il n'aime pas trop les études théoriques."
+  "Er ist ein *Hand*arbeiter, er mag theoretische Studien nicht besonders."
+
+  J'ai trouvé un vieux *manuel* d'instruction religieuse dans le grenier.
+  Ich habe ein altes Religions*buch* auf dem Dachboden gefunden.
+
+  L'ostéopathe pratique une médecine *manuelle* très efficace.
+  Der Osteopath praktiziert eine sehr wirksame *Hand*heilkunde.
+
+  La version *manuelle* de cette voiture est moins chère que l'automatique.
+  Die *Hand*schaltversion dieses Autos ist günstiger als die automatische.
+
+  Les métiers *manuels* sont de plus en plus recherchés.
+  *Handwerks*berufe sind zunehmend gefragt.
+
+  Notre bibliothèque possède tous les *manuels* d'histoire depuis 1950.
+  Unsere Bibliothek besitzt alle Geschichte*lehr*bücher seit 1950.
+
+  Le pilote a dû passer en mode *manuel* pendant l'atterrissage.
+  Der Pilot musste während der Landung auf *Hand*steuerung umschalten.
+
+  Cette usine recherche des travailleurs *manuels* qualifiés.
+  Diese Fabrik sucht qualifizierte *Hand*arbeiter.
+
+  Le *manuel* de littérature contient de nombreux extraits de poèmes.
+  Das Literatur*lehr*buch enthält zahlreiche Gedichtauszüge.
+
+  L'intervention *manuelle* est parfois nécessaire dans le processus.
+  Der *manuelle* Eingriff ist manchmal im Prozess erforderlich.
+
+  Les exercices dans ce *manuel* sont très bien expliqués.
+  Die Übungen in diesem *Lehr*buch sind sehr gut erklärt.
+
+  Elle possède une grande dextérité *manuelle*.
+  Sie besitzt eine große *Hand*geschicklichkeit.
+
+  La transmission *manuelle* reste populaire chez les passionnés d'automobiles.
+  Das *Hand*getriebe bleibt bei Autoliebhabern beliebt.
+
+  Le nouveau *manuel* de chimie sera bientôt disponible en ligne.
+  Das neue Chemie*lehr*buch wird bald online verfügbar sein.
+
+  Les tâches *manuelles* répétitives seront bientôt automatisées.
+  *Manuelle* Routineaufgaben werden bald automatisiert sein.
+
+  Ce *manuel* d'utilisation est traduit en dix langues.
+  Dieses *Hand*buch ist in zehn Sprachen übersetzt.
+
+  Les étudiants devront acheter le *manuel* de grammaire.
+  Die Studenten müssen das Grammatik*lehr*buch kaufen.
+
+  La production *manuelle* garantit une meilleure qualité.
+  Die *Hand*fertigung garantiert eine bessere Qualität.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

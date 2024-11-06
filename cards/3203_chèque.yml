@@ -13,38 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous réglerons par chèque en fin de mois de livraison.
-  Wir werden am Ende des Liefermonats per Scheck bezahlen.
+  Nous réglerons par *chèque* en fin de mois de livraison.
+  Wir werden am Ende des Liefermonats per *Scheck* bezahlen.
 
-  Je vais payer par chèque.
-  Ich werde mit einem Scheck bezahlen.
+  J'ai déposé le *chèque* à la banque ce matin.
+  Ich habe den *Scheck* heute Morgen bei der Bank eingereicht.
 
-  Je préfère payer par chèque, car je n'ai pas assez de liquide sur moi.
-  Ich bezahle lieber mit Scheck, weil ich nicht genug Bargeld bei mir habe.
+  Le *chèque* a été retourné faute de provision suffisante.
+  Der *Scheck* wurde wegen mangelnder Deckung zurückgeschickt.
 
-  J'ai fait un chèque de mille euros à mon logeur, comme convenu.
-  Ich habe meinem Vermieter einen Scheck über tausend Euro ausgestellt, wie vereinbart.
+  Pierre a reçu un *chèque-cadeau* pour son anniversaire.
+  Pierre hat einen Geschenk*gutschein* zum Geburtstag bekommen.
 
-  J'ai reçu un chèque bancaire de ma grand-mère pour mon anniversaire.
-  Ich habe von meiner Großmutter einen Bankcheck zu meinem Geburtstag bekommen.
+  Elle a soigneusement rempli son carnet de *chèques*.
+  Sie hat ihr *Scheck*heft sorgfältig ausgefüllt.
 
-  Le chèque de mon client a été retourné par la banque, car il n'avait pas assez d'argent sur son compte.
-  Der Scheck meines Kunden wurde von der Bank zurückgegeben, da er nicht genügend Guthaben auf seinem Konto hatte.
+  "Tu peux me faire un *chèque* de 500 euros ?"
+  "Kannst du mir einen *Scheck* über 500 Euro ausstellen?"
 
-  Le chèque que j'ai reçu était un chèque sans provision, il était donc inutile.
-  Der Scheck, den ich erhalten habe, war ein ungedeckter Scheck, er war also wertlos.
+  Les *chèques* doivent être signés au dos avant d'être déposés.
+  Die *Schecks* müssen vor der Einreichung auf der Rückseite unterschrieben werden.
 
-  J'ai endossé le chèque au nom de mon ami, car je ne pouvais pas l'encaisser moi-même.
-  Ich habe den Scheck auf den Namen meines Freundes giriert, da ich ihn nicht selbst einlösen konnte.
+  Mon *chèque* de salaire arrive toujours le 5 du mois.
+  Mein Gehalts*scheck* kommt immer am 5. des Monats.
 
-  Le chèque a été frappé d'opposition par la banque, car il avait été volé.
-  Der Scheck wurde von der Bank gesperrt, da er gestohlen worden war.
+  Elle préfère payer par carte plutôt que par *chèque*.
+  Sie zahlt lieber mit Karte als mit *Scheck*.
 
-  Le chèque hors place a été envoyé à la banque du tiré, située à Paris.
-  Der Distanzscheck wurde an die Bank des Ausstellers geschickt, die in Paris liegt.
+  Le restaurant accepte les *chèques-restaurant*.
+  Das Restaurant akzeptiert Essens*gutscheine*.
 
-  Les opérations par chèques sont de plus en plus rares, car les paiements par carte bancaire sont plus pratiques.
-  Der Scheckverkehr wird immer seltener, da Kartenzahlungen praktischer sind.
+  Nous n'acceptons plus les *chèques* étrangers.
+  Wir akzeptieren keine ausländischen *Schecks* mehr.
+
+  Marie a endossé le *chèque* avant de le donner à Paul.
+  Marie hat den *Scheck* indossiert, bevor sie ihn Paul gab.
+
+  Les *chèques* de voyage sont pratiques pour les vacances à l'étranger.
+  Reise*schecks* sind praktisch für den Urlaub im Ausland.
+
+  Le magasin refuse les *chèques* sans pièce d'identité.
+  Das Geschäft lehnt *Schecks* ohne Ausweisdokument ab.
+
+  J'ai reçu un *chèque* barré de la compagnie d'assurance.
+  Ich habe einen gekreuzten *Scheck* von der Versicherung erhalten.
+
+  Les *chèques* postaux sont traités différemment des *chèques* bancaires.
+  Post*schecks* werden anders bearbeitet als Bank*schecks*.
+
+  Son *chèque* a été refusé par la banque.
+  Sein *Scheck* wurde von der Bank abgelehnt.
+
+  Elle m'a fait un *chèque* en blanc - quelle confiance !
+  Sie hat mir einen Blanko*scheck* ausgestellt - welch ein Vertrauen!
+
+  Le *chèque* est libellé à l'ordre de Martin Dupont.
+  Der *Scheck* ist auf Martin Dupont ausgestellt.
+
+  Tous les employés reçoivent des *chèques*-cadeau pour Noël.
+  Alle Mitarbeiter erhalten zu Weihnachten Geschenk*gutscheine*.
+
+  La banque a mis en opposition ce *chèque* volé.
+  Die Bank hat diesen gestohlenen *Scheck* gesperrt.
+
+  Je dois encore encaisser ce *chèque* avant la fin du mois.
+  Ich muss diesen *Scheck* noch vor Monatsende einlösen.
+
+  Elle paie sa femme de ménage avec des *chèques* emploi service.
+  Sie bezahlt ihre Haushaltshilfe mit Haushalts*schecks*.
+
+  Les commerçants préfèrent les *chèques* certifiés.
+  Händler bevorzugen bestätigte *Schecks*.
+
+  Tu peux libeller le *chèque* à mon nom.
+  Du kannst den *Scheck* auf meinen Namen ausstellen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

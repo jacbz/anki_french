@@ -13,38 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tous aspiraient à avoir un diplôme de la sorbonne.
-  Alle strebten einen Abschluss an der Sorbonne an.
+  Tous aspiraient à avoir un *diplôme* de la Sorbonne.
+  Alle strebten nach einem *Abschluss* von der Sorbonne.
 
-  J’ai obtenu mon diplôme en psychologie.
-  Ich habe mein Diplom in Psychologie erhalten.
+  Elle a obtenu son *diplôme* d'infirmière avec mention.
+  Sie hat ihren *Abschluss* als Krankenschwester mit Auszeichnung gemacht.
 
-  Pierre a reçu son diplôme de fin d'études secondaires et est maintenant prêt à commencer l'université.
-  Pierre hat sein Abitur gemacht und kann nun mit dem Studium beginnen.
+  La cérémonie de remise des *diplômes* aura lieu vendredi prochain.
+  Die *Zeugnis*verleihung findet nächsten Freitag statt.
 
-  Le diplôme de fin d'études de premier cycle est un diplôme qui prépare les étudiants à entrer dans le monde du travail.
-  Der Realschulabschluss ist ein Abschluss, der die Schüler auf das Berufsleben vorbereitet.
+  Mon frère n'a pas encore de *diplôme* universitaire.
+  Mein Bruder hat noch keinen Universitäts*abschluss*.
 
-  Le diplôme de fin d'études secondaires est un diplôme qui permet aux étudiants de poursuivre des études supérieures.
-  Der Gymnasialabschluss ist ein Abschluss, der es den Schülern ermöglicht, ein Studium zu absolvieren.
+  Le *diplôme* d'ingénieur est très valorisé sur le marché du travail.
+  Das Ingenieur*diplom* ist auf dem Arbeitsmarkt sehr geschätzt.
 
-  Malgré l'absence de diplôme, elle a réussi à trouver un emploi.
-  Obwohl sie keinen Schulabschluss hat, ist es ihr gelungen, eine Arbeit zu finden.
+  Marie prépare un *diplôme* d'agronomie à l'université.
+  Marie macht eine *Ausbildung* in Agronomie an der Universität.
 
-  Il a obtenu un diplôme universitaire en médecine, après de longues années d'études.
-  Er hat nach jahrelangem Studium seinen Universitätsabschluss in Medizin erworben.
+  Sans *diplôme*, il est difficile de trouver un bon emploi.
+  Ohne *Abschluss* ist es schwierig, eine gute Arbeit zu finden.
 
-  Le diplôme d'ingénieur est très recherché sur le marché du travail.
-  Das Ingenieursdiplom ist auf dem Arbeitsmarkt sehr gefragt.
+  J'ai encadré mon *diplôme* de fin d'études secondaires.
+  Ich habe mein *Abschluss*zeugnis vom Gymnasium eingerahmt.
 
-  Marie a obtenu son diplôme d'infirmière et travaille maintenant dans un hôpital.
-  Marie hat ihren Abschluss als Krankenschwester gemacht und arbeitet nun in einem Krankenhaus.
+  Le directeur lui a remis son *diplôme* de bachelier hier.
+  Der Direktor hat ihm gestern sein Abitur*zeugnis* überreicht.
 
-  Elle a obtenu son diplôme avec succès, après des années de dur labeur.
-  Sie hat ihr Diplom nach jahrelanger harter Arbeit erfolgreich erworben.
+  Il faut faire une copie certifiée de ton *diplôme*.
+  Du musst eine beglaubigte Kopie deines *Zeugnisses* machen.
 
-  Il prépare actuellement un diplôme d'agronomie afin de devenir un expert en agriculture.
-  Derzeit macht er eine Ausbildung in Agronomie, um ein Experte in der Landwirtschaft zu werden.
+  Pierre s'est inscrit pour passer son *diplôme* de secouriste.
+  Pierre hat sich für die *Prüfung* zum Ersthelfer angemeldet.
+
+  Son *diplôme* de docteur ès lettres lui a ouvert beaucoup de portes.
+  Sein *Doktortitel* in Geisteswissenschaften hat ihm viele Türen geöffnet.
+
+  Elle est titulaire d'un *diplôme* de pharmacienne.
+  Sie ist Inhaberin eines *Abschlusses* als Apothekerin.
+
+  Le *diplôme* national de guide de montagne est très exigeant.
+  Die staatliche *Prüfung* zum Bergführer ist sehr anspruchsvoll.
+
+  Les étudiants recevront leurs *diplômes* lors de la cérémonie.
+  Die Studenten werden ihre *Abschlüsse* bei der Zeremonie erhalten.
+
+  Je dois présenter mon *diplôme* original pour cette candidature.
+  Ich muss mein Original*zeugnis* für diese Bewerbung vorlegen.
+
+  Il a décroché son *diplôme* avec les félicitations du jury.
+  Er hat seinen *Abschluss* mit Auszeichnung der Jury erreicht.
+
+  Le ministère délivre ce *diplôme* après trois ans d'études.
+  Das Ministerium verleiht diesen *Abschluss* nach drei Jahren Studium.
+
+  Thomas prépare son *diplôme* de sage-femme depuis deux ans.
+  Thomas macht seit zwei Jahren seine *Ausbildung* zum Geburtshelfer.
+
+  Les entreprises exigent souvent un *diplôme* d'études supérieures.
+  Die Unternehmen verlangen oft einen Hochschul*abschluss*.
+
+  Son *diplôme* de la Légion d'honneur est accroché dans son bureau.
+  Seine *Auszeichnung* der Ehrenlegion hängt in seinem Büro.
+
+  Elle a reçu son *diplôme* de fin d'études de premier cycle hier.
+  Sie hat gestern ihr *Zeugnis* der mittleren Reife erhalten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Leur insatiabilité les rend parfois difficilement supportables.
-  Ihre Unersättlichkeit macht sie manchmal schwer erträglich.
+  Leur insatiabilité les rend parfois *difficilement* supportables.
+  Ihre Unersättlichkeit macht sie manchmal *kaum* erträglich.
 
-  Il a difficilement réussi son examen.
-  Er hat sein Examen schwer bestanden.
+  Cette écriture est *difficilement* lisible à cause de sa petite taille.
+  Diese Schrift ist wegen ihrer kleinen Größe *schwer* lesbar.
+
+  Il s'exprime *difficilement* en français, mais il fait des progrès.
+  Er drückt sich im Französischen *mit Schwierigkeiten* aus, aber er macht Fortschritte.
+
+  On peut *difficilement* lui refuser cette faveur après tout ce qu'il a fait.
+  Man kann ihm diese Gefälligkeit *kaum* verweigern nach allem, was er getan hat.
+
+  Ma grand-mère marche *difficilement* depuis sa chute.
+  Meine Großmutter geht seit ihrem Sturz nur *mit großer Mühe*.
+
+  Les enfants acceptent *difficilement* le divorce de leurs parents.
+  Kinder akzeptieren die Scheidung ihrer Eltern nur *schwer*.
+
+  Elle entend *difficilement* depuis son infection à l'oreille.
+  Sie hört seit ihrer Ohreninfektion nur *mit Mühe*.
+
+  Ces nouvelles règles sont *difficilement* applicables dans la pratique.
+  Diese neuen Regeln sind in der Praxis *schwer* anwendbar.
+
+  Le petit Thomas mange *difficilement* ses légumes.
+  Der kleine Thomas isst sein Gemüse nur *mit Mühe*.
+
+  On trouve *difficilement* un parking en centre-ville le samedi.
+  Man findet am Samstag in der Innenstadt *kaum* einen Parkplatz.
+
+  Ces conditions sont *difficilement* négociables.
+  Diese Bedingungen sind *schwer* verhandelbar.
+
+  Le train avançait *difficilement* dans la tempête de neige.
+  Der Zug kam im Schneesturm nur *mühsam* voran.
+
+  Je peux *difficilement* imaginer ma vie sans musique.
+  Ich kann mir mein Leben *kaum* ohne Musik vorstellen.
+
+  Cette solution est *difficilement* envisageable pour notre budget.
+  Diese Lösung ist für unser Budget *schwer* vorstellbar.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

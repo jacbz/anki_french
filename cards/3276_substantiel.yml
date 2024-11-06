@@ -13,11 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On a fait une progression substantielle.
-  Wir haben einen wesentlichen Fortschritt gemacht.
+  On a fait une progression *substantielle*.
+  Wir haben *beträchtliche* Fortschritte gemacht.
 
-  Il y a une différence substantielle entre les deux versions.
-  Es gibt einen wesentlichen Unterschied zwischen den beiden Versionen.
+  Les pommes de terre sont un aliment *substantiel* qui rassasie longtemps.
+  Kartoffeln sind ein *nahrhaftes* Lebensmittel, das lange sättigt.
+
+  Cette augmentation *substantielle* du budget nous permettra de réaliser de nouveaux projets.
+  Diese *beträchtliche* Erhöhung des Budgets wird uns erlauben, neue Projekte zu verwirklichen.
+
+  Son exposé *substantiel* a impressionné tout l'auditoire.
+  Sein *gehaltvoller* Vortrag hat das ganze Publikum beeindruckt.
+
+  Le patron lui a accordé une prime *substantielle* pour son excellent travail.
+  Der Chef hat ihm für seine hervorragende Arbeit eine *beträchtliche* Prämie gewährt.
+
+  Cette soupe *substantielle* est parfaite pour l'hiver.
+  Diese *nahrhafte* Suppe ist perfekt für den Winter.
+
+  Les modifications *substantielles* du projet doivent être approuvées par le comité.
+  Die *wesentlichen* Änderungen am Projekt müssen vom Komitee genehmigt werden.
+
+  Il a apporté une contribution *substantielle* à la recherche scientifique.
+  Er hat einen *bedeutenden* Beitrag zur wissenschaftlichen Forschung geleistet.
+
+  Le restaurant sert des repas *substantiels* à des prix raisonnables.
+  Das Restaurant serviert *nahrhafte* Mahlzeiten zu vernünftigen Preisen.
+
+  Ces changements *substantiels* ont transformé notre façon de travailler.
+  Diese *wesentlichen* Veränderungen haben unsere Arbeitsweise verändert.
+
+  Son article contient des arguments *substantiels* qui méritent d'être discutés.
+  Sein Artikel enthält *gewichtige* Argumente, die es wert sind, diskutiert zu werden.
+
+  La différence *substantielle* entre les deux versions du texte est évidente.
+  Der *wesentliche* Unterschied zwischen den beiden Textversionen ist offensichtlich.
+
+  Les étudiants ont reçu un déjeuner *substantiel* avant l'examen.
+  Die Studenten haben vor der Prüfung ein *nahrhaftes* Mittagessen bekommen.
+
+  Il a obtenu des avantages *substantiels* grâce à son nouveau contrat.
+  Er hat durch seinen neuen Vertrag *beträchtliche* Vorteile erhalten.
+
+  Cette donation *substantielle* permettra de financer le projet.
+  Diese *bedeutende* Spende wird die Finanzierung des Projekts ermöglichen.
+
+  Le texte contenait des informations *substantielles* sur le sujet.
+  Der Text enthielt *wesentliche* Informationen zum Thema.
+
+  Les améliorations *substantielles* du produit ont augmenté les ventes.
+  Die *beträchtlichen* Verbesserungen des Produkts haben die Verkäufe gesteigert.
+
+  Un petit-déjeuner *substantiel* est important pour bien commencer la journée.
+  Ein *nahrhaftes* Frühstück ist wichtig, um gut in den Tag zu starten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

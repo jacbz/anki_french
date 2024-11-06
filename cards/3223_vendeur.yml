@@ -13,35 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ça, c’est un vendeur. Il a fait une promesse.
-  Das ist ein Verkäufer. Er hat ein Versprechen abgegeben.
+  "Ça, c'est un *vendeur*. Il a fait une promesse."
+  "Das ist ein typischer *Verkäufer*. Er hat ein Versprechen gemacht."
 
-  Le vendeur m’a aidé à trouver ce que je cherchais.
-  Der Verkäufer hat mir geholfen, das zu finden, wonach ich gesucht habe.
+  Notre *vendeuse* habituelle n'est pas là aujourd'hui.
+  Unsere übliche *Verkäuferin* ist heute nicht da.
 
-  Il est aussi un vendeur.
-  Er ist auch ein Verkäufer.
+  La *vendeuse* de légumes du marché connaît tous ses clients réguliers.
+  Die Gemüse*händlerin* auf dem Markt kennt alle ihre Stammkunden.
 
-  La marchande de légumes avait un stand plein de produits frais et appétissants.
-  Die Gemüsehandlung hatte einen Stand voller frischer und appetitlicher Produkte.
+  Le *vendeur* de voitures d'occasion m'a proposé un bon prix.
+  Der Gebrauchtwagen*händler* hat mir einen guten Preis angeboten.
 
-  L'argument vendeur le plus convaincant était la garantie à vie.
-  Das überzeugendste Verkaufsargument war die lebenslange Garantie.
+  Les *vendeurs* de journaux commencent leur travail très tôt le matin.
+  Die Zeitungs*verkäufer* beginnen ihre Arbeit sehr früh am Morgen.
 
-  Les pays vendeurs de pétrole bénéficient d'une économie florissante.
-  Die Erdöl exportierenden Länder profitieren von einer florierenden Wirtschaft.
+  En tant que *vendeur* dans l'entreprise, il voyage beaucoup.
+  Als *Vertriebsreferent* in der Firma reist er viel.
 
-  La vendeuse de voitures d'occasion a réussi à vendre sa voiture en quelques jours.
-  Die Gebrauchtwagenhändlerin hat es geschafft, ihr Auto innerhalb weniger Tage zu verkaufen.
+  Notre *vendeuse* a reçu une formation professionnelle complète.
+  Unsere *Vertriebsfachfrau* hat eine vollständige Berufsausbildung absolviert.
 
-  La vendeuse de journaux a un sourire chaleureux et une voix agréable.
-  Die Zeitungshändlerin hat ein herzliches Lächeln und eine angenehme Stimme.
+  Le *vendeur* doit signer le contrat avant la fin de la semaine.
+  Der *Verkäufer* muss den Vertrag bis Ende der Woche unterschreiben.
 
-  La publicité vendeuse a attiré l'attention de nombreux clients potentiels.
-  Die verkaufsfördernde Werbung hat die Aufmerksamkeit vieler potenzieller Kunden erregt.
+  C'est un argument très *vendeur* pour convaincre les clients.
+  Das ist ein sehr *verkaufsförderndes* Argument, um die Kunden zu überzeugen.
 
-  Je ne suis pas vendeur, je suis ingénieur.
-  Ich verkaufe nicht, ich bin Ingenieur.
+  Cette publicité *vendeuse* a beaucoup augmenté nos ventes.
+  Diese *verkaufsfördernde* Werbung hat unsere Verkäufe stark gesteigert.
+
+  Ces pays *vendeurs* de pétrole ont une grande influence économique.
+  Diese Erdöl *exportierenden* Länder haben einen großen wirtschaftlichen Einfluss.
+
+  "Désolé, je ne suis pas *vendeur* à ce prix-là."
+  "Tut mir leid, zu diesem Preis bin ich kein *Verkäufer*."
+
+  Le *vendeur* ambulant propose ses marchandises dans différents quartiers.
+  Der fliegende *Händler* bietet seine Waren in verschiedenen Stadtvierteln an.
+
+  Cette *vendeuse* de grand magasin connaît parfaitement son rayon.
+  Diese Kaufhaus*verkäuferin* kennt ihre Abteilung perfekt.
+
+  Notre directeur commercial est un excellent *vendeur*.
+  Unser Vertriebsleiter ist ein ausgezeichneter *Verkäufer*.
+
+  La *vendeuse* de fruits propose toujours des produits de saison.
+  Die Obst*händlerin* bietet immer saisonale Produkte an.
+
+  Le *vendeur* de poissons ouvre son étal très tôt le matin.
+  Der Fisch*händler* öffnet seinen Stand sehr früh am Morgen.
+
+  La *vendeuse* m'a conseillé sur le choix de la taille.
+  Die *Verkäuferin* hat mich bei der Größenwahl beraten.
+
+  Les *vendeurs* ont reçu leur commission mensuelle hier.
+  Die *Verkäufer* haben gestern ihre monatliche Provision erhalten.
+
+  Notre meilleure *vendeuse* a été promue chef de rayon.
+  Unsere beste *Verkäuferin* wurde zur Abteilungsleiterin befördert.
+
+  Le *vendeur* nous a montré plusieurs appartements hier.
+  Der *Verkäufer* hat uns gestern mehrere Wohnungen gezeigt.
+
+  La *vendeuse* m'a expliqué le fonctionnement de l'appareil.
+  Die *Verkäuferin* hat mir die Funktionsweise des Geräts erklärt.
+
+  Ce jeune *vendeur* a déjà battu tous les records de vente.
+  Dieser junge *Verkäufer* hat bereits alle Verkaufsrekorde gebrochen.
+
+  La *vendeuse* a emballé mon cadeau gratuitement.
+  Die *Verkäuferin* hat mein Geschenk kostenlos eingepackt.
+
+  Le *vendeur* nous a fait une démonstration du produit.
+  Der *Verkäufer* hat uns das Produkt vorgeführt.
+
+  Cette *vendeuse* travaille dans la boutique depuis vingt ans.
+  Diese *Verkäuferin* arbeitet seit zwanzig Jahren in dem Geschäft.
+
+  Les *vendeurs* reçoivent une formation sur les nouveaux produits.
+  Die *Verkäufer* erhalten eine Schulung über die neuen Produkte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

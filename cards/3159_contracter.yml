@@ -13,23 +13,116 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elles ont contracté la maladie.
-  Sie haben sich mit der Krankheit angesteckt.
+  Elles ont *contracté* la maladie.
+  Sie haben sich die Krankheit *zugezogen*.
 
-  Il a contracté une dette importante.
-  Er hat eine hohe Schuldenlast auf sich genommen.
+  Le froid *contractait* ses doigts engourdis.
+  Die Kälte ließ seine tauben Finger *verkrampfen*.
 
-  Le froid contracte les métaux.
-  Bei Kälte ziehen sich Metalle zusammen.
+  Les muscles de son visage se sont *contractés* sous l'effet de la douleur.
+  Seine Gesichtsmuskeln *verkrampften* sich vor Schmerz.
 
-  Ils ont contracté mariage il y a un an.
-  Sie haben vor einem Jahr geheiratet.
+  Marie a *contracté* un prêt pour acheter sa voiture.
+  Marie hat für den Autokauf einen Kredit *aufgenommen*.
 
-  La peur lui contractait la gorge, il n'arrivait pas à respirer.
-  Die Angst schnürte ihm die Kehle zu, er konnte nicht atmen.
+  Le cœur se *contracte* et se détend rythmiquement.
+  Das Herz *zieht* sich rhythmisch *zusammen* und entspannt sich.
 
-  Ils ont contracté des engagements financiers importants pour acheter leur maison.
-  Sie sind wichtige finanzielle Verpflichtungen eingegangen, um ihr Haus zu kaufen.
+  La peur *contractait* sa gorge, l'empêchant de parler.
+  Die Angst *schnürte* ihm die Kehle zu, sodass er nicht sprechen konnte.
+
+  Ils ont *contracté* une assurance habitation hier.
+  Sie haben gestern eine Hausratversicherung *abgeschlossen*.
+
+  En grandissant, il a *contracté* de mauvaises habitudes.
+  Beim Aufwachsen hat er schlechte Gewohnheiten *angenommen*.
+
+  Son visage s'est *contracté* quand il a entendu la nouvelle.
+  Sein Gesicht *verzerrte* sich, als er die Nachricht hörte.
+
+  Elle a *contracté* le virus pendant ses vacances.
+  Sie hat sich im Urlaub mit dem Virus *angesteckt*.
+
+  Les deux familles ont *contracté* une alliance.
+  Die beiden Familien sind eine Verbindung *eingegangen*.
+
+  Le métal se *contracte* à basse température.
+  Das Metall *zieht* sich bei niedrigen Temperaturen *zusammen*.
+
+  "Il ne faut pas trop *contracter* les muscles pendant l'exercice."
+  "Man darf die Muskeln während der Übung nicht zu sehr *anspannen*."
+
+  Pierre et Marie ont *contracté* mariage à la mairie.
+  Pierre und Marie haben die Ehe *geschlossen*.
+
+  L'entreprise a *contracté* des dettes importantes.
+  Das Unternehmen hat hohe Schulden *gemacht*.
+
+  Au fil des années, il a *contracté* cette manie de parler seul.
+  Im Laufe der Jahre hat er diese Angewohnheit des Selbstgesprächs *entwickelt*.
+
+  Ses traits se sont *contractés* de colère.
+  Seine Gesichtszüge *verzerrten* sich vor Wut.
+
+  Le gaz se *contracte* sous la pression.
+  Das Gas *verdichtet* sich unter Druck.
+
+  Elle *contracte* involontairement ses épaules quand elle est stressée.
+  Sie *spannt* unwillkürlich ihre Schultern an, wenn sie gestresst ist.
+
+  J'ai dû *contracter* un emprunt pour financer mes études.
+  Ich musste zur Finanzierung meines Studiums einen Kredit *aufnehmen*.
+
+  Les fibres musculaires se *contractent* pendant l'effort.
+  Die Muskelfasern *ziehen* sich während der Anstrengung *zusammen*.
+
+  Il a *contracté* une grippe sévère cet hiver.
+  Er hat sich diesen Winter eine schwere Grippe *zugezogen*.
+
+  Sa gorge s'est *contractée* d'émotion.
+  Ihre Kehle *schnürte* sich vor Rührung zu.
+
+  Le gouvernement a *contracté* de nouveaux engagements.
+  Die Regierung ist neue Verpflichtungen *eingegangen*.
+
+  L'économie s'est *contractée* pendant la crise.
+  Die Wirtschaft hat sich während der Krise *zusammengezogen*.
+
+  Les élèves ont *contracté* de bonnes habitudes de travail.
+  Die Schüler haben sich gute Arbeitsgewohnheiten *angeeignet*.
+
+  L'anxiété *contractait* tous ses muscles.
+  Die Angst ließ alle ihre Muskeln *verkrampfen*.
+
+  La masse monétaire s'est *contractée* ce trimestre.
+  Die Geldmenge hat sich in diesem Quartal *zusammengezogen*.
+
+  Il a *contracté* plusieurs assurances différentes.
+  Er hat verschiedene Versicherungen *abgeschlossen*.
+
+  Ses mâchoires se sont *contractées* de stress.
+  Seine Kiefer *verkrampften* sich vor Stress.
+
+  Le froid *contracte* les vaisseaux sanguins.
+  Die Kälte lässt die Blutgefäße *zusammenziehen*.
+
+  Sa voix *contractée* trahissait son inquiétude.
+  Seine *verkrampfte* Stimme verriet seine Unruhe.
+
+  Le gymnaste doit *contracter* ses abdominaux.
+  Der Turner muss seine Bauchmuskeln *anspannen*.
+
+  Elle a *contracté* un rhume en sortant sans manteau.
+  Sie hat sich eine Erkältung *zugezogen*, weil sie ohne Mantel rausging.
+
+  Les deux entreprises ont *contracté* un partenariat.
+  Die beiden Unternehmen sind eine Partnerschaft *eingegangen*.
+
+  Le sphincter se *contracte* et se relâche automatiquement.
+  Der Schließmuskel *zieht* sich automatisch *zusammen* und entspannt sich.
+
+  La peur *contractait* son estomac.
+  Die Angst *schnürte* ihren Magen zusammen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

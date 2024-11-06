@@ -13,17 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle réalisait son rêve. Elle était chanteuse.
-  Sie erfüllte sich ihren Traum. Sie war Sängerin.
+  Elle réalisait son rêve. Elle était *chanteuse*.
+  Sie verwirklichte ihren Traum. Sie war *Sängerin*.
 
-  Le chanteur a une voix incroyable.
-  Der Sänger hat eine unglaubliche Stimme.
+  Notre *chanteur* de charme préféré donnera un concert la semaine prochaine.
+  Unser liebster Schlager*sänger* wird nächste Woche ein Konzert geben.
 
-  Son ami est un chanteur.
-  Sein Freund ist ein Sänger.
+  La *chanteuse* d'opéra s'entraîne six heures par jour.
+  Die Opern*sängerin* übt sechs Stunden am Tag.
 
-  La chanteuse contestataire a été arrêtée pour ses paroles provocatrices.
-  Die Protestsängerin wurde wegen ihrer provokanten Texte verhaftet.
+  Le rossignol est un oiseau *chanteur* qui égaye nos soirées d'été.
+  Die Nachtigall ist ein *Sing*vogel, der unsere Sommerabende verschönert.
+
+  Ce jeune *chanteur* contestataire dénonce les injustices sociales dans ses textes.
+  Dieser junge Protest*sänger* prangert in seinen Texten soziale Ungerechtigkeiten an.
+
+  La *chanteuse* légère a impressionné le public avec ses vocalises.
+  Die Koloratur*sängerin* hat das Publikum mit ihren Koloraturen beeindruckt.
+
+  Les *chanteurs* amateurs de notre chorale se réunissent tous les mercredis.
+  Die Amateur*sänger* unseres Chors treffen sich jeden Mittwoch.
+
+  Cette *chanteuse* réaliste raconte la vie des gens ordinaires dans ses chansons.
+  Diese Chanson*sängerin* erzählt in ihren Liedern vom Leben gewöhnlicher Menschen.
+
+  Le *chanteur* des rues a égayé toute la place du marché.
+  Der Straßen*sänger* hat den ganzen Marktplatz aufgeheitert.
+
+  Notre voisin est un *chanteur* de variétés très populaire à la télévision.
+  Unser Nachbar ist ein Schlager*sänger*, der im Fernsehen sehr beliebt ist.
+
+  Les *chanteuses* de l'Opéra répètent la nouvelle production de Carmen.
+  Die *Sängerinnen* der Oper proben die neue Carmen-Produktion.
+
+  Mon cousin est devenu *chanteur* professionnel après des années de formation.
+  Mein Cousin ist nach jahrelanger Ausbildung Professional*sänger* geworden.
+
+  Marie est la meilleure *chanteuse* de notre groupe de rock.
+  Marie ist die beste *Sängerin* unserer Rockband.
+
+  Ces oiseaux *chanteurs* animent notre jardin chaque matin.
+  Diese *Sing*vögel beleben jeden Morgen unseren Garten.
+
+  La *chanteuse* populaire a vendu des millions d'albums cette année.
+  Die Pop*sängerin* hat dieses Jahr Millionen Alben verkauft.
+
+  Le *chanteur* d'opérette a une voix extraordinaire.
+  Der Operetten*sänger* hat eine außergewöhnliche Stimme.
+
+  Les jeunes *chanteurs* du conservatoire préparent leur premier récital.
+  Die jungen *Sänger* des Konservatoriums bereiten ihr erstes Recital vor.
+
+  Cette *chanteuse* de charme fait rêver son public depuis vingt ans.
+  Diese Schlager*sängerin* verzaubert ihr Publikum seit zwanzig Jahren.
+
+  Tous les *chanteurs* et *chanteuses* se sont réunis pour un concert caritatif.
+  Alle *Sänger* und *Sängerinnen* haben sich für ein Wohltätigkeitskonzert zusammengetan.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

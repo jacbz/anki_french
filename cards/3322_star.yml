@@ -13,23 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  T’es devenu une grande star de cinéma.
-  Du bist ein großer Filmstar geworden.
+  T'es devenu une grande *star* de cinéma.
+  Du bist ein großer Film*star* geworden.
 
-  Cette chanteuse est une star internationale.
-  Diese Sängerin ist ein internationaler Star.
+  Les *stars* d'Hollywood gagnent des millions de dollars.
+  Die Hollywood-*Stars* verdienen Millionen Dollar.
 
-  Alain Delon est une star de cinéma célèbre dans le monde entier.
-  Alain Delon ist ein weltweit berühmter Filmstar.
+  Cette chanteuse était une *star* du rock dans les années 80.
+  Diese Sängerin war in den 80er Jahren ein Rock*star*.
 
-  Marion Cotillard est une star de cinéma qui a remporté un Oscar.
-  Marion Cotillard ist ein Oscar-prämierter Filmstar.
+  Mon fils rêve de devenir une *star* de télévision.
+  Mein Sohn träumt davon, ein TV-*Star* zu werden.
 
-  Le jeune acteur est devenu une star de télévision grâce à son rôle dans la série.
-  Der junge Schauspieler wurde durch seine Rolle in der Serie zum Fernsehstar.
+  La nouvelle *star* du théâtre joue ce soir.
+  Der neue Theater-*Star* spielt heute Abend.
 
-  Le présentateur est une star de télévision populaire.
-  Der Moderator ist ein beliebter Fernsehstar.
+  Les *stars* du cinéma muet devaient tout exprimer sans paroles.
+  Die Stumm*stars* mussten alles ohne Worte ausdrücken.
+
+  Il a commencé comme enfant *star* dans des publicités.
+  Er begann als Kinder-*Star* in der Werbung.
+
+  Cet athlète s'est rapidement transformé en *star* internationale.
+  Dieser Athlet wurde schnell zu einem internationalen *Star*.
+
+  Les *stars* de la politique ont leurs propres chaînes YouTube.
+  Die Politik-*Stars* haben ihre eigenen YouTube-Kanäle.
+
+  La nouvelle *star* du tennis a remporté son premier grand tournoi.
+  Der neue Tennis-*Star* hat sein erstes großes Turnier gewonnen.
+
+  Toutes les *stars* seront présentes à la cérémonie des Oscars.
+  Alle *Stars* werden bei der Oscar-Verleihung anwesend sein.
+
+  Elle n'était pas préparée à devenir une *star* du jour au lendemain.
+  Sie war nicht darauf vorbereitet, über Nacht zum *Star* zu werden.
+
+  Les anciennes *stars* du cinéma français sont toujours très respectées.
+  Die ehemaligen französischen Film*stars* werden immer noch sehr respektiert.
+
+  La jeune *star* de la série a reçu de nombreux prix.
+  Der junge Serien-*Star* hat viele Preise gewonnen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

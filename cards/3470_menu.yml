@@ -13,41 +13,155 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il y a du poulet au menu.
-  Auf der Speisekarte steht Huhn.
+  Il y a du poulet au *menu*.
+  Es gibt Hähnchen auf der *Speisekarte*.
 
-  Je vais demander le menu.
-  Ich werde nach der Speisekarte fragen.
+  Le *menu* du jour comprend une salade, un plat principal et un dessert.
+  Das Tages*menü* besteht aus einem Salat, einem Hauptgericht und einem Dessert.
 
-  Le restaurant propose un menu gastronomique qui plaira aux fins gourmets.
-  Das Restaurant bietet ein Feinschmeckermenü an, das Gourmets begeistern wird.
+  Le restaurant propose un *menu* gastronomique à 85 euros.
+  Das Restaurant bietet ein Feinschmecker*menü* für 85 Euro an.
 
-  Le voyageur se rend à destination à pas menus.
-  Der Reisende begibt sich mit kleinen Schritten zu seinem Ziel.
+  Le chef aime varier ses *menus* pour satisfaire ses clients.
+  Der Koch kocht gerne *abwechslungsreich*, um seine Gäste zufrieden zu stellen.
 
-  Le chef a haché finement les légumes pour la soupe.
-  Der Koch hat die Gemüse für die Suppe fein gehackt.
+  Qu'y a-t-il au *menu* ce soir ?
+  Was steht heute Abend auf der *Speisekarte*?
 
-  Le menu contextuel offre une variété d'options.
-  Das Kontextmenü bietet eine Vielzahl von Optionen.
+  Pour accéder aux paramètres, cliquez sur le *menu* système.
+  Um zu den Einstellungen zu gelangen, klicken Sie auf das System*menü*.
 
-  Qu'est-ce qu'il y a au menu de la soirée ? Une pièce de théâtre et un dîner ?
-  Was steht für den Abend auf dem Programm? Ein Theaterstück und ein Abendessen?
+  Le *menu* contextuel s'ouvre avec un clic droit.
+  Das Kontext*menü* öffnet sich mit einem Rechtsklick.
 
-  Il est important de varier ses menus pour une alimentation saine.
-  Es ist wichtig, abwechslungsreich zu kochen, um sich gesund zu ernähren.
+  Utilisez le *menu* déroulant pour sélectionner votre pays.
+  Benutzen Sie das Pulldown-*Menü*, um Ihr Land auszuwählen.
 
-  Quel est le menu aujourd'hui ? J'ai vraiment faim !
-  Was gibt es heute zu essen? Ich habe wirklich Hunger!
+  Quel est le *menu* au programme pour la réunion ?
+  Was steht für die Besprechung auf dem *Programm*?
 
-  Le menu démarrer vous permet d'accéder à toutes les applications.
-  Das Startmenü ermöglicht Ihnen den Zugriff auf alle Anwendungen.
+  Elle est si *menue* qu'elle flotte dans ses vêtements.
+  Sie ist so *zierlich*, dass ihre Kleidung an ihr schlackert.
 
-  Le menu déroulant contient une liste d'options.
-  Das Pulldown-Menü enthält eine Liste von Optionen.
+  Ces *menus* détails n'ont pas d'importance.
+  Diese *unwichtigen* Details spielen keine Rolle.
 
-  Le menu pop-up apparaît lorsque vous cliquez sur un bouton.
-  Das Pop-up-Menü erscheint, wenn Sie auf einen Knopf klicken.
+  Il marche à pas *menus* dans la neige.
+  Er geht mit *kleinen* Schritten durch den Schnee.
+
+  Les oignons sont hachés *menu* pour la sauce.
+  Die Zwiebeln sind für die Sauce *fein* gehackt.
+
+  Le *menu* démarrer contient tous les programmes installés.
+  Das Start*menü* enthält alle installierten Programme.
+
+  La serveuse nous tend les *menus* avec un sourire.
+  Die Kellnerin reicht uns mit einem Lächeln die *Speisekarten*.
+
+  J'ai consulté le *menu* de la cantine pour la semaine.
+  Ich habe den *Speiseplan* der Kantine für die Woche angeschaut.
+
+  Cette application utilise un *menu* en structure arborescente.
+  Diese Anwendung verwendet ein Baumstruktur-*Menü*.
+
+  Un *menu* pop-up est apparu sur mon écran.
+  Ein Pop-up-*Menü* erschien auf meinem Bildschirm.
+
+  Elle a des bras *menus* comme des allumettes.
+  Sie hat *dünne* Arme wie Streichhölzer.
+
+  Ces *menus* frais ne vont pas nous ruiner.
+  Diese *geringen* Kosten werden uns nicht ruinieren.
+
+  Le boucher a coupé la viande en *menus* morceaux.
+  Der Metzger hat das Fleisch in *kleine* Stücke geschnitten.
+
+  Le restaurant propose un *menu* touristique à prix réduit.
+  Das Restaurant bietet ein *Menü* im Angebot zu einem reduzierten Preis an.
+
+  Sa taille *menue* est mise en valeur par cette robe.
+  Ihre *schmale* Taille wird durch dieses Kleid betont.
+
+  Nous avons choisi le *menu* végétarien.
+  Wir haben das vegetarische *Menü* gewählt.
+
+  Le *menu* objet permet de modifier les propriétés.
+  Das Objekt*menü* ermöglicht es, die Eigenschaften zu ändern.
+
+  Les jambes *menues* de la danseuse sont très gracieuses.
+  Die *dünnen* Beine der Tänzerin sind sehr anmutig.
+
+  Ces bruits *menus* ne me dérangent pas.
+  Diese *schwachen* Geräusche stören mich nicht.
+
+  Le chef nous a préparé un *menu* de fête.
+  Der Koch hat uns ein Fest*menü* zubereitet.
+
+  J'ai raconté mon voyage par le *menu*.
+  Ich habe meine Reise bis ins kleinste *Detail* erzählt.
+
+  Le *menu* enfant coûte la moitié du prix.
+  Das Kinder*menü* kostet die Hälfte.
+
+  Regardez le *menu* affiché à l'entrée du restaurant.
+  Schauen Sie sich die *Speisekarte* am Eingang des Restaurants an.
+
+  Les légumes sont coupés *menu* pour la soupe.
+  Das Gemüse ist für die Suppe *klein* geschnitten.
+
+  Le nouveau *menu* sera disponible la semaine prochaine.
+  Die neue *Speisekarte* wird nächste Woche verfügbar sein.
+
+  Cette jeune fille *menue* a une force surprenante.
+  Dieses *zierliche* Mädchen hat eine überraschende Kraft.
+
+  Le *menu* du midi change tous les jours.
+  Das Mittags*menü* ändert sich jeden Tag.
+
+  Nous proposons trois *menus* différents pour le banquet.
+  Wir bieten drei verschiedene *Menüs* für das Bankett an.
+
+  Le *menu* de ce soir promet d'être délicieux.
+  Das heutige Abend*menü* verspricht köstlich zu werden.
+
+  Son corps *menu* ne reflète pas sa personnalité forte.
+  Ihr *zierlicher* Körper spiegelt ihre starke Persönlichkeit nicht wider.
+
+  As-tu regardé le *menu* avant de commander ?
+  Hast du dir die *Speisekarte* angesehen, bevor du bestellt hast?
+
+  Le *menu* spécial Saint-Valentin inclut une coupe de champagne.
+  Das Valentinstags*menü* enthält ein Glas Champagner.
+
+  Ces souliers *menus* lui font mal aux pieds.
+  Diese *zierlichen* Schuhe tun ihren Füßen weh.
+
+  Le chef a créé un nouveau *menu* dégustation.
+  Der Koch hat ein neues Verkostungs*menü* kreiert.
+
+  Nous avons des *menus* végétariens et sans gluten.
+  Wir haben vegetarische und glutenfreie *Menüs*.
+
+  Le *menu* du réveillon est déjà complet.
+  Das Silvester*menü* ist bereits ausgebucht.
+
+  Elle note ses *menus* de la semaine le dimanche.
+  Sie plant ihre *Menüs* für die Woche am Sonntag.
+
+  Le restaurant propose un *menu* à volonté le midi.
+  Das Restaurant bietet mittags ein All-you-can-eat-*Menü* an.
+
+  Les *menus* soucis du quotidien l'empêchent de dormir.
+  Die *geringen* Alltagssorgen halten sie vom Schlafen ab.
+
+  Le *menu* de Noël sera servi le 24 décembre.
+  Das Weihnachts*menü* wird am 24. Dezember serviert.
+
+  Nous avons opté pour le *menu* avec accord mets-vins.
+  Wir haben uns für das *Menü* mit Weinbegleitung entschieden.
+
+  La taille *menue* de sa montre la rend très élégante.
+  Die *schmale* Form ihrer Uhr macht sie sehr elegant.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
