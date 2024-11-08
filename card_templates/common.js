@@ -130,6 +130,7 @@ async function getTTSUrl(textToRead, forceGoogleTranslate = false, lang = "fr-FR
 
   try {
     let textInput = decodeURIComponent(text);
+    textInput = textInput.replaceAll("*", "").replaceAll("→", ";");
     let useSsml = false;
     if (textInput.includes("\n")) {
       useSsml = true;
