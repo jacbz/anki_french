@@ -13,17 +13,44 @@ Register: ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ces deux types de manœuvres se déroulent respectivement depuis 1976 et 1973.
-  Diese beiden Arten von Manövern werden seit 1976 bzw. 1973 durchgeführt.
+  Ces deux types de manœuvres se déroulent *respectivement* depuis 1976 et 1973.
+  Diese beiden Arten von Manövern finden seit *beziehungsweise* 1976 und 1973 statt.
 
-  Alice et Bob ont 20 et 25 ans, respectivement.
-  Alice und Bob sind 20 bzw. 25 Jahre alt.
+  Les élèves de première et de terminale ont *respectivement* obtenu 85% et 92% de réussite aux examens.
+  Die Schüler der elften und zwölften Klasse haben *jeweils* eine Erfolgsquote von 85% und 92% in den Prüfungen erreicht.
 
-  Les enfants ont respectivement présenté leur travail à la classe.
-  Jedes Kind hat seine Arbeit der Klasse vorgestellt.
+  Marie et Pierre ont *respectivement* cinq et sept ans.
+  Marie und Pierre sind *beziehungsweise* fünf und sieben Jahre alt.
 
-  Les enfants ont respectivement cinq et dix ans, ce qui fait une différence de cinq ans.
-  Meine Kinder sind fünf beziehungsweise zehn Jahre alt, das heißt ein Altersunterschied von fünf Jahren.
+  Les prix d'entrée sont *respectivement* de 8€ et 12€ pour les enfants et les adultes.
+  Die Eintrittspreise betragen für Kinder und Erwachsene *jeweils* 8€ und 12€.
+
+  Dans ce diagramme, les points sont *respectivement* marqués par A, B et C.
+  In diesem Diagramm sind die Punkte *jeweils* mit A, B und C gekennzeichnet.
+
+  Sophie et Lucas termineront leurs études *respectivement* en juin et en septembre.
+  Sophie und Lucas werden ihr Studium *jeweils* im Juni und im September abschließen.
+
+  Les deux équipes ont *respectivement* gagné trois et quatre matches cette saison.
+  Die beiden Mannschaften haben in dieser Saison *jeweils* drei und vier Spiele gewonnen.
+
+  Thomas et Julie habitent *respectivement* à Paris et à Lyon.
+  Thomas und Julie wohnen *jeweils* in Paris und Lyon.
+
+  Les deux candidats ont obtenu *respectivement* 45% et 55% des voix.
+  Die beiden Kandidaten erhielten *jeweils* 45% und 55% der Stimmen.
+
+  Ces trois romans ont été publiés *respectivement* en 2018, 2020 et 2022.
+  Diese drei Romane wurden *jeweils* 2018, 2020 und 2022 veröffentlicht.
+
+  Les salles 101 et 102 peuvent accueillir *respectivement* 30 et 50 personnes.
+  Die Räume 101 und 102 haben ein Fassungsvermögen von *jeweils* 30 und 50 Personen.
+
+  Les groupes A et B commenceront *respectivement* à 9h et à 10h.
+  Die Gruppen A und B beginnen *jeweils* um 9 und um 10 Uhr.
+
+  Antoine et Léa parlent *respectivement* allemand et espagnol couramment.
+  Antoine und Léa sprechen *jeweils* fließend Deutsch und Spanisch.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

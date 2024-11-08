@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai déjà fait des interviews via internet.
-  Ich habe bereits Interviews über das Internet geführt.
+  J'ai déjà fait des interviews *via* internet.
+  Ich habe schon Interviews *über* das Internet geführt.
 
-  Je suis allé à Paris via Bruxelles.
-  Ich bin über Brüssel nach Paris gefahren.
+  Le train pour Madrid passe *via* Barcelone.
+  Der Zug nach Madrid fährt *über* Barcelona.
+
+  Nous avons reçu les documents *via* votre secrétaire.
+  Wir haben die Dokumente *über* Ihre Sekretärin erhalten.
+
+  Les voyageurs pourront se rendre à Tokyo *via* Dubai.
+  Die Reisenden können *via* Dubai nach Tokyo gelangen.
+
+  Le message a été transmis *via* les réseaux sociaux.
+  Die Nachricht wurde *über* die sozialen Medien übermittelt.
+
+  Je vous enverrai les photos *via* WeTransfer.
+  Ich werde Ihnen die Fotos *via* WeTransfer schicken.
+
+  L'avion fait escale à Londres *via* Amsterdam.
+  Das Flugzeug macht einen Zwischenstopp in London *über* Amsterdam.
+
+  Il m'a contacté *via* mon ancien professeur.
+  Er hat mich *über* meinen ehemaligen Lehrer kontaktiert.
+
+  Nous communiquons uniquement *via* email.
+  Wir kommunizieren nur *über* E-Mail.
+
+  Le colis sera livré *via* DHL.
+  Das Paket wird *via* DHL geliefert.
+
+  Les informations sont transmises *via* satellite.
+  Die Informationen werden *über* Satellit übertragen.
+
+  Tu peux réserver ton billet *via* notre application.
+  Du kannst dein Ticket *über* unsere App buchen.
+
+  Le virus se propage principalement *via* les gouttelettes.
+  Das Virus verbreitet sich hauptsächlich *über* Tröpfchen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

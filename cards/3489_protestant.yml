@@ -13,14 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai commencé à fréquenter une église protestante.
-  Ich begann, eine protestantische Kirche zu besuchen.
+  J'ai commencé à fréquenter une église *protestante*.
+  Ich habe begonnen, eine *protestantische* Kirche zu besuchen.
 
-  Il est protestant depuis sa naissance.
-  Er ist seit seiner Geburt Protestant.
+  Le pasteur *protestant* a organisé une rencontre interreligieuse.
+  Der *protestantische* Pfarrer hat ein interreligiöses Treffen organisiert.
 
-  Genève est une ville très protestante.
-  Genève ist eine erzprotestantische Stadt.
+  Ma grand-mère était une *protestante* très pieuse.
+  Meine Großmutter war eine sehr fromme *Protestantin*.
+
+  La majorité des habitants de cette ville sont *protestants*.
+  Die Mehrheit der Einwohner dieser Stadt sind *Protestanten*.
+
+  Les *protestants* célèbrent leur culte dans un temple.
+  Die *Protestanten* feiern ihren Gottesdienst in einem Gemeindehaus.
+
+  Le temple *protestant* se trouve au centre-ville.
+  Die *protestantische* Kirche befindet sich im Stadtzentrum.
+
+  Les pays scandinaves sont traditionnellement *protestants*.
+  Die skandinavischen Länder sind traditionell *protestantisch*.
+
+  Cette traduction de la Bible vient d'une maison d'édition *protestante*.
+  Diese Bibelübersetzung stammt aus einem *protestantischen* Verlag.
+
+  Les *protestants* français ont dû fuir les persécutions au XVIIe siècle.
+  Die französischen *Protestanten* mussten im 17. Jahrhundert vor Verfolgungen fliehen.
+
+  Elle est devenue pasteure dans une communauté *protestante*.
+  Sie ist Pfarrerin in einer *protestantischen* Gemeinde geworden.
+
+  Les cantons *protestants* de la Suisse ont une longue histoire.
+  Die *protestantischen* Kantone der Schweiz haben eine lange Geschichte.
+
+  Cette région était autrefois très *protestante*.
+  Diese Region war früher sehr stark *protestantisch* geprägt.
+
+  Les *protestants* et les catholiques collaborent aujourd'hui étroitement.
+  *Protestanten* und Katholiken arbeiten heute eng zusammen.
+
+  La Fédération *protestante* organise des événements œcuméniques.
+  Der *protestantische* Bund organisiert ökumenische Veranstaltungen.
+
+  Une chorale *protestante* donnera un concert de Noël.
+  Ein *protestantischer* Chor wird ein Weihnachtskonzert geben.
+
+  Les archives *protestantes* conservent des documents historiques précieux.
+  Das *protestantische* Archiv bewahrt wertvolle historische Dokumente auf.
+
+  Cette université a été fondée par des *protestants*.
+  Diese Universität wurde von *Protestanten* gegründet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

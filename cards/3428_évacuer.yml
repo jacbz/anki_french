@@ -13,23 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous avez cinq minutes pour évacuer les lieux.
-  Sie haben fünf Minuten Zeit, um die Räumlichkeiten zu verlassen.
+  Vous avez cinq minutes pour *évacuer* les lieux.
+  Sie haben fünf Minuten, um den Ort zu *räumen*.
 
-  Il faut évacuer la zone.
-  Die Zone muss evakuiert werden.
+  Les pompiers ont dû *évacuer* la population du village à cause des inondations.
+  Die Feuerwehr musste die Dorfbevölkerung wegen der Überschwemmungen *evakuieren*.
 
-  Nous devons évacuer le bâtiment.
-  Wir müssen das Gebäude evakuieren.
+  Le corps doit *évacuer* les toxines naturellement.
+  Der Körper muss die Giftstoffe auf natürliche Weise *ausscheiden*.
 
-  La police a évacué une maison par la force, car les occupants étaient soupçonnés d'activités illégales.
-  Die Polizei hat ein Haus zwangsgeräumt, da die Bewohner im Verdacht standen, illegale Aktivitäten zu betreiben.
+  L'armée a *évacué* ses troupes pendant la nuit.
+  Das Militär hat seine Truppen in der Nacht *abgezogen*.
 
-  Les pompiers ont évacué les victimes de force, car le bâtiment était instable.
-  Die Feuerwehr hat die Opfer zwangsevakuiert, da das Gebäude instabil war.
+  Cette canalisation *évacue* les eaux usées de tout l'immeuble.
+  Diese Leitung *leitet* das Abwasser des ganzen Gebäudes *ab*.
 
-  Les sauveteurs ont évacué les sinistrés des décombres de leurs maisons, après le tremblement de terre.
-  Die Rettungskräfte haben die Opfer aus den Trümmern ihrer Häuser heraustragen, nach dem Erdbeben.
+  Les manifestants ont *évacué* la place après l'intervention de la police.
+  Die Demonstranten haben den Platz nach dem Eingreifen der Polizei *geräumt*.
+
+  La police a *évacué* le squat de force.
+  Die Polizei hat das besetzte Haus gewaltsam *geräumt*.
+
+  Les secouristes ont *évacué* les blessés en hélicoptère.
+  Die Rettungskräfte haben die Verletzten per Hubschrauber *abtransportiert*.
+
+  Il faut *évacuer* l'air chaud du tunnel routier.
+  Die heiße Luft muss aus dem Straßentunnel *abgeleitet* werden.
+
+  Le médecin a dû *évacuer* le pus de l'abcès.
+  Der Arzt musste den Eiter aus dem Abszess *entfernen*.
+
+  Les habitants ont été *évacués* vers des zones plus sûres.
+  Die Bewohner wurden in sicherere Gebiete *evakuiert*.
+
+  La valve permet d'*évacuer* l'excès de pression.
+  Das Ventil ermöglicht es, den Überdruck *abzulassen*.
+
+  Le navire a dû *évacuer* tous ses passagers.
+  Das Schiff musste alle Passagiere *evakuieren*.
+
+  Les forces de l'ordre ont *évacué* les badauds pour laisser passer les ambulances.
+  Die Ordnungskräfte haben die Schaulustigen *weggeschickt*, um die Krankenwagen durchzulassen.
+
+  Le bataillon a *évacué* sa position stratégique.
+  Das Bataillon hat seine strategische Position *geräumt*.
+
+  Cette question délicate ne peut pas être *évacuée* si facilement.
+  Diese heikle Frage lässt sich nicht so einfach *beiseiteschieben*.
+
+  Les *évacués* ont trouvé refuge dans un gymnase.
+  Die *Evakuierten* haben in einer Turnhalle Zuflucht gefunden.
+
+  Il faut *évacuer* régulièrement le réservoir d'eau.
+  Der Wassertank muss regelmäßig *geleert* werden.
+
+  Les spectateurs ont dû *évacuer* la salle en urgence.
+  Die Zuschauer mussten den Saal dringend *verlassen*.
+
+  Le système *évacue* automatiquement les gaz d'échappement.
+  Das System *leitet* die Abgase automatisch *ab*.
+
+  Les soldats ont *évacué* le territoire conformément au traité.
+  Die Soldaten haben das Gebiet gemäß dem Vertrag *geräumt*.
+
+  Le juge a fait *évacuer* la salle d'audience.
+  Der Richter ließ den Gerichtssaal *räumen*.
+
+  La ville a été *évacuée* à cause de l'ouragan.
+  Die Stadt wurde wegen des Hurrikans *evakuiert*.
+
+  Les pompiers ont *évacué* les sinistrés par le toit.
+  Die Feuerwehr hat die Opfer über das Dach *evakuiert*.
+
+  Cette pompe *évacue* l'eau du sous-sol inondé.
+  Diese Pumpe *pumpt* das Wasser aus dem überfluteten Keller *ab*.
+
+  Les autorités ont *évacué* la zone à risque.
+  Die Behörden haben das Gefahrengebiet *evakuiert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

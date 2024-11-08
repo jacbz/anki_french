@@ -13,14 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous m’aidez à cerner mes problèmes.
-  Sie helfen mir, meine Probleme einzukreisen.
+  Vous m'aidez à *cerner* mes problèmes.
+  Sie helfen mir, meine Probleme zu *erfassen*.
 
-  Les policiers ont réussi à cerner le voleur.
-  Die Polizisten haben es geschafft, den Dieb zu umzingeln.
+  La police a *cerné* le bâtiment pendant plusieurs heures.
+  Die Polizei hat das Gebäude stundenlang *umstellt*.
 
-  Les soucis le cernent de toutes parts, et il ne sait plus où donner de la tête.
-  Die Sorgen wachsen ihm über den Kopf, und er weiß nicht mehr, wo er anfangen soll.
+  Des arbres majestueux *cernent* la place du village.
+  Majestätische Bäume *umgeben* den Dorfplatz.
+
+  L'artiste a *cerné* les contours du visage d'un trait noir.
+  Der Künstler hat die Gesichtskonturen mit einem schwarzen Strich *umrissen*.
+
+  Les difficultés *cernent* Marie de tous côtés.
+  Die Schwierigkeiten *brechen* von allen Seiten über Marie *herein*.
+
+  Il faut d'abord *cerner* la situation avant d'agir.
+  Man muss die Situation erst *einschätzen*, bevor man handelt.
+
+  Les forces spéciales ont *cerné* les terroristes dans leur cachette.
+  Die Spezialeinheiten haben die Terroristen in ihrem Versteck *eingekreist*.
+
+  Un large fossé *cerne* le château médiéval.
+  Ein breiter Graben *umschließt* die mittelalterliche Burg.
+
+  Les chercheurs essaient de *cerner* les causes du réchauffement climatique.
+  Die Forscher versuchen, die Ursachen der Klimaerwärmung zu *erfassen*.
+
+  Le maquilleur a *cerné* ses yeux de khôl noir.
+  Der Visagist hat ihre Augen mit schwarzem Kajal *umrandet*.
+
+  Les soldats ont *cerné* la ville pendant la nuit.
+  Die Soldaten haben die Stadt in der Nacht *umstellt*.
+
+  La fatigue se voit sur son visage *cerné*.
+  Die Müdigkeit zeigt sich an ihren *umschatteten* Augen.
+
+  Le jardinier a *cerné* le vieux chêne pour l'enlever.
+  Der Gärtner hat die alte Eiche *umgraben*, um sie zu entfernen.
+
+  Les journalistes tentent de *cerner* la personnalité du nouveau président.
+  Die Journalisten versuchen, die Persönlichkeit des neuen Präsidenten *einzuschätzen*.
+
+  Des montagnes *cernent* la vallée de tous côtés.
+  Berge *umschließen* das Tal von allen Seiten.
+
+  L'équipe de recherche a bien *cerné* les enjeux du projet.
+  Das Forschungsteam hat die Herausforderungen des Projekts gut *erfasst*.
+
+  Un brouillard épais *cernait* le village ce matin-là.
+  Ein dichter Nebel *umgab* das Dorf an diesem Morgen.
+
+  Les manifestants se sont retrouvés *cernés* par les forces de l'ordre.
+  Die Demonstranten wurden von den Ordnungskräften *eingekreist*.
+
+  Le philosophe a parfaitement *cerné* la question de l'existence.
+  Der Philosoph hat die Frage der Existenz perfekt *umrissen*.
+
+  Les soucis qui me *cernent* m'empêchent de dormir.
+  Die Sorgen, die über mich *hereinbrechen*, halten mich vom Schlafen ab.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

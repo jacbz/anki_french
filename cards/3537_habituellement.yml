@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les groupes sont habituellement composés de huit élèves.
-  Die Gruppen bestehen normalerweise aus acht Schülerinnen und Schülern.
+  Les groupes sont *habituellement* composés de huit élèves.
+  Die Gruppen bestehen *normalerweise* aus acht Schülern.
 
-  Je mange habituellement à midi.
-  Ich esse gewöhnlich um 12 Uhr.
+  Le Conseil des ministres se réunit *habituellement* le mercredi.
+  Der Ministerrat tritt *gewöhnlich* mittwochs zusammen.
+
+  Ce quartier *habituellement* calme était en effervescence ce soir-là.
+  Das *normalerweise* ruhige Viertel war an diesem Abend in Aufruhr.
+
+  Dans cette région, il fait *habituellement* très beau en septembre.
+  In dieser Region ist es im September *gewöhnlich* sehr schön.
+
+  Ce verbe s'emploie *habituellement* à la forme pronominale.
+  Dieses Verb wird *für gewöhnlich* in der reflexiven Form verwendet.
+
+  Marie arrive *habituellement* en avance au bureau.
+  Marie kommt *normalerweise* früh ins Büro.
+
+  *Habituellement*, je prends mon café sans sucre.
+  *Gewöhnlich* trinke ich meinen Kaffee ohne Zucker.
+
+  Comment réagissez-vous *habituellement* dans ce genre de situation ?
+  Wie reagieren Sie *normalerweise* in solchen Situationen?
+
+  Les magasins ferment *habituellement* à 20 heures.
+  Die Geschäfte schließen *in der Regel* um 20 Uhr.
+
+  Je ne suis pas *habituellement* aussi distrait.
+  Ich bin *normalerweise* nicht so zerstreut.
+
+  La cérémonie se déroule *habituellement* dans la grande salle.
+  Die Zeremonie findet *gewohnheitsgemäß* im großen Saal statt.
+
+  *Habituellement*, les enfants font la sieste l'après-midi.
+  *Üblicherweise* machen die Kinder nachmittags einen Mittagsschlaf.
+
+  Il ne neige pas *habituellement* dans cette ville.
+  In dieser Stadt schneit es *normalerweise* nicht.
+
+  Les restaurants sont *habituellement* plus calmes le lundi soir.
+  Die Restaurants sind am Montagabend *gewöhnlich* ruhiger.
+
+  *Habituellement*, nous passons nos vacances à la mer.
+  *Normalerweise* verbringen wir unseren Urlaub am Meer.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

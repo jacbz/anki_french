@@ -13,23 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les étudiants diplômés peinent à trouver du travail.
-  Hochschulabsolventen haben Schwierigkeiten, einen Arbeitsplatz zu finden.
+  Les étudiants diplômés *peinent* à trouver du travail.
+  Die Hochschulabsolventen haben *Mühe*, Arbeit zu finden.
 
-  Je peine à comprendre.
-  Ich habe Schwierigkeiten zu verstehen.
+  Le moteur de sa vieille voiture *peine* dans les montées.
+  Der Motor seines alten Autos hat in den Steigungen *Schwierigkeiten*.
 
-  Il peinait à faire ses devoirs, car il ne comprenait pas la leçon.
-  Er hatte Mühe, seine Hausaufgaben zu machen, weil er den Unterricht nicht verstand.
+  Cette décision m'a beaucoup *peiné*.
+  Diese Entscheidung hat mich sehr *verletzt*.
 
-  Il peinait sur cette tâche depuis des heures, mais il ne trouvait toujours pas la solution.
-  Er plagte sich schon seit Stunden mit dieser Aufgabe herum, aber er fand immer noch keine Lösung.
+  Elle a *peiné* toute sa vie pour offrir une bonne éducation à ses enfants.
+  Sie hat sich ihr ganzes Leben lang *abgemüht*, um ihren Kindern eine gute Ausbildung zu ermöglichen.
 
-  Il était peiné par la disparition de son ami.
-  Er war traurig über den Tod seines Freundes.
+  Je suis *peiné* que tu ne m'aies pas fait confiance.
+  Ich bin *traurig*, dass du mir nicht vertraut hast.
 
-  Il était peiné que son frère ait menti à sa mère.
-  Er war traurig, dass sein Bruder seine Mutter angelogen hatte.
+  Les ouvriers *peinent* sous le soleil brûlant.
+  Die Arbeiter *plagen sich* unter der brennenden Sonne.
+
+  Mon fils *peine* à s'adapter à sa nouvelle école.
+  Mein Sohn hat *Mühe*, sich an seine neue Schule zu gewöhnen.
+
+  Cette nouvelle nous a profondément *peinés*.
+  Diese Nachricht hat uns zutiefst *betrübt*.
+
+  Il *peine* à trouver ses mots quand il est nerveux.
+  Er hat *Mühe*, seine Worte zu finden, wenn er nervös ist.
+
+  La petite *peine* sur ses devoirs de mathématiques.
+  Die Kleine *plagt sich* mit ihren Mathematikhausaufgaben.
+
+  Je suis *peinée* de voir tant de pauvreté dans le monde.
+  Ich bin *traurig* darüber, so viel Armut in der Welt zu sehen.
+
+  Le bateau *peine* contre les vagues.
+  Das Boot *kämpft* gegen die Wellen.
+
+  Son regard *peiné* m'a fait mal au cœur.
+  Sein *trauriger* Blick tat mir im Herzen weh.
+
+  L'équipe *peine* à maintenir son avance.
+  Die Mannschaft hat *Mühe*, ihren Vorsprung zu halten.
+
+  Marie *peine* sur sa traduction depuis ce matin.
+  Marie *quält sich* seit heute Morgen mit ihrer Übersetzung.
+
+  Nous sommes *peinés* par votre départ.
+  Wir sind *traurig* über Ihren Weggang.
+
+  Le vieux cheval *peine* à tirer la charrette.
+  Das alte Pferd hat *Mühe*, den Karren zu ziehen.
+
+  Son refus m'a profondément *peiné*.
+  Seine Absage hat mich zutiefst *gekränkt*.
+
+  Les randonneurs *peinent* à atteindre le sommet.
+  Die Wanderer *mühen sich ab*, den Gipfel zu erreichen.
+
+  Je suis *peinée* d'apprendre la nouvelle de son divorce.
+  Ich bin *traurig*, von ihrer Scheidung zu erfahren.
+
+  L'ordinateur *peine* à démarrer ce matin.
+  Der Computer hat heute Morgen *Schwierigkeiten* beim Starten.
+
+  Thomas *peine* à comprendre les explications du professeur.
+  Thomas hat *Mühe*, die Erklärungen des Lehrers zu verstehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

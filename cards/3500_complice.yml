@@ -13,17 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je restai longtemps leur complice.
-  Ich blieb lange Zeit ihr Komplize.
+  Je restai longtemps leur *complice*.
+  Ich blieb lange ihr *Komplize*.
 
-  Il a été arrêté avec son complice.
-  Er wurde mit seinem Mittäter verhaftet.
+  Le policier a arrêté le voleur et sa *complice*.
+  Der Polizist hat den Dieb und seine *Komplizin* festgenommen.
 
-  Pierre a été arrêté pour être complice d'un vol de bijoux.
-  Pierre wurde festgenommen, weil er bei einem Juwelendiebstahl als Komplize beteiligt war.
+  "Tu es devenu son *complice*, maintenant ?"
+  "Bist du jetzt sein *Komplize* geworden?"
 
-  On ne sait pas si elle était complice de son mari dans cette affaire.
-  Es ist nicht bekannt, ob sie in dieser Angelegenheit mit ihrem Mann gemeinsame Sache gemacht hat.
+  La nuit était *complice* de leur évasion.
+  Die Nacht *begünstigte* ihre Flucht.
+
+  Un regard *complice* a été échangé entre les deux amis.
+  Ein *verschwörerischer* Blick wurde zwischen den beiden Freunden ausgetauscht.
+
+  Les enfants échangèrent un sourire *complice*.
+  Die Kinder tauschten ein *verschmitztes* Lächeln aus.
+
+  Le silence *complice* de ses collègues l'encourageait à continuer.
+  Das *stillschweigende Einverständnis* seiner Kollegen ermutigte ihn weiterzumachen.
+
+  Marie et Pierre sont *complices* dans toutes leurs bêtises.
+  Marie und Pierre *stecken* bei all ihren Dummheiten *unter einer Decke*.
+
+  Elle a reconnu être *complice* du cambriolage.
+  Sie hat gestanden, *Komplizin* bei dem Einbruch gewesen zu sein.
+
+  Un clin d'œil *complice* suffisait pour qu'ils se comprennent.
+  Ein *einvernehmliches* Zwinkern genügte, damit sie sich verstanden.
+
+  Les deux sœurs sont devenues *complices* de cette farce.
+  Die beiden Schwestern wurden zu *Mittäterinnen* bei diesem Streich.
+
+  Sarah et moi partageons des regards *complices*.
+  Sarah und ich tauschen *verschwörerische* Blicke aus.
+
+  L'obscurité était *complice* du crime.
+  Die Dunkelheit war *Komplizin* des Verbrechens.
+
+  Il nie être *complice* de cette fraude.
+  Er bestreitet, *Mittäter* bei diesem Betrug zu sein.
+
+  La police recherche activement les *complices* du braquage.
+  Die Polizei sucht aktiv nach den *Komplizen* des Überfalls.
+
+  Marc et Julie échangèrent un sourire *complice* pendant la réunion.
+  Marc und Julie tauschten während der Besprechung ein *eingeweihtes* Lächeln aus.
+
+  Les deux amis sont devenus *complices* de cette petite aventure.
+  Die beiden Freunde wurden zu *Verbündeten* bei diesem kleinen Abenteuer.
+
+  Son silence *complice* m'a déçu profondément.
+  Sein *einverständiges* Schweigen hat mich zutiefst enttäuscht.
+
+  "Vous êtes tous *complices* de cette situation !"
+  "Ihr seid alle *mitschuldig* an dieser Situation!"
+
+  Elle cherchait un regard *complice* dans l'assemblée.
+  Sie suchte nach einem *einvernehmlichen* Blick in der Versammlung.
+
+  Les jurés l'ont déclaré *complice* du crime.
+  Die Geschworenen haben ihn zum *Komplizen* des Verbrechens erklärt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

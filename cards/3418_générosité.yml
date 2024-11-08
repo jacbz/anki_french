@@ -13,14 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je vous remercie beaucoup de votre générosité.
-  Ich danke Ihnen vielmals für Ihre Großzügigkeit.
+  Je vous remercie beaucoup de votre *générosité*.
+  Ich danke Ihnen sehr für Ihre *Großzügigkeit*.
 
-  Sa générosité n’a pas de limites.
-  Seine Großzügigkeit kennt keine Grenzen.
+  Sa *générosité* l'a conduit à la faillite.
+  Seine *Freigiebigkeit* hat ihn in den Bankrott geführt.
 
-  Dans un élan de générosité, elle a décidé de faire un don à l'association caritative.
-  In einem Anflug von Großzügigkeit beschloss sie, eine Spende an den Wohltätigkeitsverein zu machen.
+  Dans un élan de *générosité*, elle a donné tout son héritage aux pauvres.
+  In einem Anflug von *Großzügigkeit* hat sie ihr ganzes Erbe an die Armen verschenkt.
+
+  Les associations caritatives comptent sur la *générosité* des donateurs.
+  Die Hilfsorganisationen zählen auf die *Spendenbereitschaft* der Geber.
+
+  La *générosité* de son cœur ne connaît pas de limites.
+  Seine *Hochherzigkeit* kennt keine Grenzen.
+
+  Ses *générosités* ont permis de construire un nouvel hôpital.
+  Seine *großzügigen Gaben* haben den Bau eines neuen Krankenhauses ermöglicht.
+
+  Marie fait preuve d'une grande *générosité* envers ses élèves.
+  Marie zeigt große *Nachsicht* gegenüber ihren Schülern.
+
+  Il a eu la *générosité* de pardonner à son frère.
+  Er hatte die *Güte*, seinem Bruder zu verzeihen.
+
+  Cette famille nous a comblés de *générosités* pendant notre séjour.
+  Diese Familie hat uns während unseres Aufenthalts mit *großzügigen Geschenken* überhäuft.
+
+  Pierre a toujours fait preuve de *générosité* envers ses adversaires.
+  Pierre hat seinen Gegnern gegenüber stets *Großmut* bewiesen.
+
+  La *générosité* de ce vin rouge ravit les connaisseurs.
+  Die *Fülle* dieses Rotweins begeistert die Kenner.
+
+  Les enfants ont été touchés par la *générosité* du Père Noël.
+  Die Kinder waren von der *Großzügigkeit* des Weihnachtsmanns gerührt.
+
+  Il combat avec *générosité* pour défendre ses idéaux.
+  Er kämpft mit *edler Gesinnung* für seine Ideale.
+
+  La *générosité* de son geste a ému tout le monde.
+  Die *Selbstlosigkeit* seiner Geste hat alle bewegt.
+
+  Nous avons été surpris par la *générosité* de leur accueil.
+  Wir waren von der *Herzlichkeit* ihrer Aufnahme überrascht.
+
+  Sa *générosité* naturelle le pousse toujours à aider les autres.
+  Seine natürliche *Großzügigkeit* treibt ihn stets dazu an, anderen zu helfen.
+
+  Les *générosités* du roi ont enrichi de nombreux artistes.
+  Die *großzügigen Zuwendungen* des Königs haben viele Künstler reich gemacht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,38 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les chèvres marocaines ont quasiment tout mangé.
-  Die marokkanischen Ziegen haben fast alles gefressen.
+  Les chèvres *marocaines* ont quasiment tout mangé.
+  Die *marokkanischen* Ziegen haben fast alles aufgefressen.
 
-  Je suis d’origine marocaine.
-  Ich bin marokkanischer Herkunft.
+  La culture *marocaine* est riche en traditions millénaires.
+  Die *marokkanische* Kultur ist reich an jahrtausendealten Traditionen.
+
+  Mon voisin est un *Marocain* qui habite ici depuis vingt ans.
+  Mein Nachbar ist ein *Marokkaner*, der seit zwanzig Jahren hier wohnt.
+
+  As-tu déjà goûté le thé à la menthe *marocain* ?
+  Hast du schon mal *marokkanischen* Minztee probiert?
+
+  Elle voyage souvent dans les montagnes *marocaines*.
+  Sie reist oft in die *marokkanischen* Berge.
+
+  Les *Marocains* sont connus pour leur hospitalité chaleureuse.
+  Die *Marokkaner* sind für ihre herzliche Gastfreundschaft bekannt.
+
+  Le tapis *marocain* que j'ai acheté est fait à la main.
+  Der *marokkanische* Teppich, den ich gekauft habe, ist handgefertigt.
+
+  La musique *marocaine* résonnait dans toute la rue.
+  Die *marokkanische* Musik hallte durch die ganze Straße.
+
+  Cette *Marocaine* a remporté une médaille d'or aux Jeux olympiques.
+  Diese *Marokkanerin* hat bei den Olympischen Spielen eine Goldmedaille gewonnen.
+
+  L'artisanat *marocain* se vend bien sur le marché international.
+  Das *marokkanische* Kunsthandwerk verkauft sich gut auf dem internationalen Markt.
+
+  Le couscous *marocain* est différent du couscous tunisien.
+  Der *marokkanische* Couscous unterscheidet sich vom tunesischen Couscous.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

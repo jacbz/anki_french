@@ -13,23 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On leur administre souvent des médicaments.
-  Häufig werden ihnen Medikamente verabreicht.
+  On leur *administre* souvent des médicaments.
+  Man *verabreicht* ihnen häufig Medikamente.
 
-  Il a été nommé pour administrer l’entreprise.
-  Er wurde zum Leiten des Unternehmens ernannt.
+  Le directeur *administre* efficacement cette entreprise depuis des années.
+  Der Direktor *leitet* diese Firma seit Jahren effizient.
 
-  Le tribunal a décidé de mettre l'entreprise sous administration judiciaire.
-  Das Gericht hat beschlossen, das Unternehmen zwangszuverwalten.
+  "Je vais t'*administrer* une correction que tu n'oublieras pas !"
+  "Ich werde dir eine *Tracht* Prügel verpassen, die du nicht vergessen wirst!"
 
-  Le prêtre a administré le sacrement du baptême à l'enfant.
-  Der Priester hat dem Kind das Sakrament der Taufe erteilt.
+  Le prêtre *administrera* le baptême dimanche prochain.
+  Der Priester wird am nächsten Sonntag die Taufe *erteilen*.
 
-  Le garçon a administré une gifle à son frère.
-  Der Junge hat seinem Bruder eine Ohrfeige verpasst.
+  Cette preuve qu'il nous a *administrée* est irréfutable.
+  Dieser Beweis, den er uns *erbracht* hat, ist unwiderlegbar.
 
-  Le boxeur a administré un coup à son adversaire.
-  Der Boxer hat seinem Gegner einen Schlag versetzt.
+  Le nouveau gouverneur *administre* la province avec sagesse.
+  Der neue Gouverneur *regiert* die Provinz mit Weisheit.
+
+  Marie *administre* les biens de son fils mineur.
+  Marie *verwaltet* das Vermögen ihres minderjährigen Sohnes.
+
+  L'infirmière lui *administre* une injection tous les matins.
+  Die Krankenschwester *verabreicht* ihm jeden Morgen eine Spritze.
+
+  Le juge *administre* la justice avec impartialité.
+  Der Richter *spricht* unparteiisch Recht.
+
+  Cette ville est mal *administrée*.
+  Diese Stadt wird schlecht *verwaltet*.
+
+  Le conseil municipal *administre* le budget avec prudence.
+  Der Gemeinderat *führt* den Haushalt mit Bedacht.
+
+  Paul lui a *administré* une gifle monumentale.
+  Paul hat ihm eine gewaltige Ohrfeige *verpasst*.
+
+  L'entreprise est *administrée* judiciairement depuis sa faillite.
+  Die Firma wird seit ihrem Konkurs *zwangsverwaltet*.
+
+  Le médecin *administre* le nouveau traitement avec précaution.
+  Der Arzt *verabreicht* die neue Behandlung mit Vorsicht.
+
+  La société s'*administre* elle-même depuis le départ du directeur.
+  Die Firma *verwaltet* sich seit dem Weggang des Direktors selbst.
+
+  L'évêque *administrera* les sacrements pendant la cérémonie.
+  Der Bischof wird während der Zeremonie die Sakramente *spenden*.
+
+  Le gérant *administre* mal les finances de l'entreprise.
+  Der Manager *führt* die Finanzen der Firma schlecht.
+
+  Cette potion doit être *administrée* trois fois par jour.
+  Dieser Trank muss dreimal täglich *verabreicht* werden.
+
+  Les parents *administrent* les économies de leurs enfants.
+  Die Eltern *verwalten* die Ersparnisse ihrer Kinder.
+
+  Le maire *administre* la commune depuis vingt ans.
+  Der Bürgermeister *leitet* die Gemeinde seit zwanzig Jahren.
+
+  On lui a *administré* les derniers sacrements hier soir.
+  Man hat ihm gestern Abend die letzten Sakramente *gespendet*.
+
+  Pierre *administre* sa fortune avec intelligence.
+  Pierre *verwaltet* sein Vermögen mit Geschick.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

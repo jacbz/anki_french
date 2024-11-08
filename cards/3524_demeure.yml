@@ -13,26 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils retrouvent leurs demeures pillées, brûlées, leurs champs dévastés.
-  Sie finden ihre Häuser geplündert, verbrannt und ihre Felder verwüstet vor.
+  Ils retrouvent leurs *demeures* pillées, brûlées, leurs champs dévastés.
+  Sie finden ihre geplünderten, verbrannten *Häuser* und ihre verwüsteten Felder vor.
 
-  Sa demeure est située dans le centre-ville.
-  Sein Wohnsitz befindet sich im Stadtzentrum.
+  Cette *demeure* seigneuriale date du XVIIe siècle.
+  Dieses herrschaftliche *Anwesen* stammt aus dem 17. Jahrhundert.
 
-  Ma demeure est la vôtre.
-  Mein Zuhause ist Ihr Zuhause.
+  La banque l'a mis en *demeure* de rembourser ses dettes.
+  Die Bank hat ihn *aufgefordert*, seine Schulden zurückzuzahlen.
 
-  Nous avons visité une belle demeure du siècle dernier, pleine de charme et d'histoire.
-  Wir haben ein schönes Haus aus dem letzten Jahrhundert besucht, voller Charme und Geschichte.
+  "Il y a péril en la *demeure*, nous devons agir maintenant !"
+  "Es ist *Gefahr* im Verzug, wir müssen jetzt handeln!"
 
-  Le prêtre a conduit le défunt à sa dernière demeure, entouré de ses proches.
-  Der Priester hat den Verstorbenen zu seiner letzten Ruhestätte geleitet, umgeben von seinen Angehörigen.
+  Les invités l'ont accompagné jusqu'à sa dernière *demeure*.
+  Die Gäste haben ihn zu seiner letzten *Ruhestätte* begleitet.
 
-  Le propriétaire a mis son locataire en demeure de payer son loyer en retard.
-  Der Vermieter hat seinen Mieter aufgefordert, seinen überfälligen Mietzins zu bezahlen.
+  Cette vieille *demeure* a besoin de rénovations urgentes.
+  Dieses alte *Haus* braucht dringend Renovierungen.
 
-  Le juge a mis la partie adverse en demeure d'agir dans les plus brefs délais.
-  Der Richter hat die Gegenpartei in Verzug gesetzt, um schnellstmöglich zu handeln.
+  Il s'est installé à *demeure* dans ce petit village des Alpes.
+  Er hat sich dauerhaft in diesem kleinen Alpendorf nieder*gelassen*.
+
+  Marie a fait de ce château sa *demeure* principale.
+  Marie hat dieses Schloss zu ihrem Haupt*wohnsitz* gemacht.
+
+  Nous avons visité une magnifique *demeure* du siècle dernier.
+  Wir haben ein prächtiges *Haus* aus dem letzten Jahrhundert besichtigt.
+
+  Le juge l'a mis en *demeure* de quitter les lieux.
+  Der Richter hat ihn *aufgefordert*, den Ort zu verlassen.
+
+  "Il n'y a pas péril en la *demeure*, prenons notre temps."
+  "Es besteht keine *Eile*, lassen Sie uns Zeit nehmen."
+
+  Ces rosiers sont plantés à *demeure* dans le jardin.
+  Diese Rosen sind dauerhaft im Garten an*gepflanzt*.
+
+  Cette élégante *demeure* bourgeoise attire tous les regards.
+  Dieses elegante bürgerliche *Haus* zieht alle Blicke auf sich.
+
+  Le propriétaire a mis le locataire en *demeure* de payer son loyer.
+  Der Vermieter hat den Mieter *gemahnt*, seine Miete zu zahlen.
+
+  Les miroirs de cette *demeure* sont fixés à perpétuelle *demeure*.
+  Die Spiegel dieses *Hauses* sind fest ver*ankert*.
+
+  Le fantôme hante cette *demeure* depuis des siècles.
+  Der Geist spukt seit Jahrhunderten in diesem *Anwesen*.
+
+  Ils cherchent une *demeure* spacieuse pour leur grande famille.
+  Sie suchen ein geräumiges *Haus* für ihre große Familie.
+
+  Je l'ai mis en *demeure* de respecter notre accord.
+  Ich habe ihn *aufgefordert*, unsere Vereinbarung einzuhalten.
+
+  Cette ancienne *demeure* a été transformée en musée.
+  Dieses alte *Herrenhaus* wurde in ein Museum umgewandelt.
+
+  Les volets de cette *demeure* sont fixés à *demeure*.
+  Die Fensterläden dieses *Hauses* sind fest montiert.
+
+  Le cortège funèbre l'accompagne vers sa dernière *demeure*.
+  Der Trauerzug begleitet ihn zu seiner letzten *Ruhestätte*.
+
+  Cette modeste *demeure* cache des trésors inestimables.
+  Dieses bescheidene *Haus* verbirgt unschätzbare Schätze.
+
+  Paul s'est établi à *demeure* dans le sud de la France.
+  Paul hat sich dauerhaft im Süden Frankreichs nieder*gelassen*.
+
+  Les nouveaux propriétaires ont rénové cette belle *demeure* du XVIIIe siècle.
+  Die neuen Besitzer haben dieses schöne *Herrenhaus* aus dem 18. Jahrhundert renoviert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

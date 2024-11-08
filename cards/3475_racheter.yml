@@ -13,23 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai apporté de l’argent pour racheter mon fils.
-  Ich habe Geld mitgebracht, um meinen Sohn freizukaufen.
+  J'ai apporté de l'argent pour *racheter* mon fils.
+  Ich habe Geld mitgebracht, um meinen Sohn *freizukaufen*.
 
-  Je vais racheter ma voiture à la fin du contrat de location.
-  Ich werde mein Auto am Ende des Leasingvertrags zurückkaufen.
+  Il faut *racheter* du pain car il n'y en a plus.
+  Wir müssen Brot *nachkaufen*, weil keins mehr da ist.
 
-  Marie a décidé de racheter une table à son voisin, qui déménage.
-  Marie hat beschlossen, ihrem Nachbarn, der umzieht, einen Tisch abzukaufen.
+  Je voudrais *racheter* la table que je t'ai vendue l'année dernière.
+  Ich möchte den Tisch *zurückkaufen*, den ich dir letztes Jahr verkauft habe.
 
-  Après avoir commis une grosse erreur, il a essayé de se racheter en s'excusant sincèrement.
-  Nachdem er einen großen Fehler begangen hatte, versuchte er, ihn wieder gutzumachen, indem er sich aufrichtig entschuldigte.
+  Marie doit *racheter* ses points de retraite pour partir plus tôt.
+  Marie muss ihre Rentenpunkte *ablösen*, um früher in Rente zu gehen.
 
-  Le professeur a décidé de racheter le candidat, qui avait échoué de peu.
-  Der Professor entschied sich, den Prüfling durchkommen zu lassen, der knapp durchgefallen war.
+  Le directeur a décidé de *racheter* toutes les actions de l'entreprise.
+  Der Geschäftsführer hat beschlossen, alle Aktien der Firma *zurückzukaufen*.
 
-  Jean a racheté les parts de son associé dans l'entreprise pour devenir l'unique propriétaire.
-  Jean hat seinen Geschäftspartner ausbezahlt, um alleiniger Inhaber der Firma zu werden.
+  Sa gentillesse *rachète* son manque d'expérience.
+  Seine Freundlichkeit *macht* seine mangelnde Erfahrung *wett*.
+
+  Le Christ est mort pour *racheter* nos péchés.
+  Christus ist gestorben, um unsere Sünden zu *büßen*.
+
+  Paul veut *racheter* la voiture de son frère.
+  Paul will seinem Bruder das Auto *abkaufen*.
+
+  Il essaie de *se racheter* après avoir menti à ses parents.
+  Er versucht, seine Lüge an die Eltern wieder *gutzumachen*.
+
+  Le jury a décidé de *racheter* cet étudiant malgré ses mauvaises notes.
+  Die Jury hat beschlossen, diesen Studenten trotz seiner schlechten Noten *durchkommen zu lassen*.
+
+  Je dois *racheter* des chaussettes, les miennes sont trouées.
+  Ich muss Socken *nachkaufen*, meine haben Löcher.
+
+  L'entreprise a *racheté* son concurrent principal.
+  Die Firma hat ihren Hauptkonkurrenten *aufgekauft*.
+
+  Elle veut *racheter* sa part de l'héritage à sa sœur.
+  Sie will ihrer Schwester ihren Erbteil *abkaufen*.
+
+  Son courage a *racheté* sa maladresse.
+  Sein Mut hat seine Ungeschicklichkeit *ausgeglichen*.
+
+  Nous devons *racheter* notre dette avant la fin de l'année.
+  Wir müssen unsere Schulden bis zum Jahresende *tilgen*.
+
+  Il faut *racheter* des cartouches d'encre pour l'imprimante.
+  Wir müssen Tintenpatronen für den Drucker *nachkaufen*.
+
+  L'architecte a *racheté* la différence de niveau par une pente douce.
+  Der Architekt hat den Höhenunterschied durch eine sanfte Steigung *ausgeglichen*.
+
+  Pierre a *racheté* tous les livres qu'il avait perdus.
+  Pierre hat alle Bücher *neu gekauft*, die er verloren hatte.
+
+  Elle essaie de *racheter* ses erreurs par des bonnes actions.
+  Sie versucht, ihre Fehler durch gute Taten *wiedergutzumachen*.
+
+  La société a *racheté* les parts de tous les actionnaires minoritaires.
+  Die Gesellschaft hat die Anteile aller Minderheitsaktionäre *aufgekauft*.
+
+  "Il faut *racheter* du café, on n'en a presque plus."
+  "Wir müssen Kaffee *nachkaufen*, wir haben fast keinen mehr."
+
+  Les pirates ont proposé de *racheter* les otages contre une rançon.
+  Die Piraten haben angeboten, die Geiseln gegen Lösegeld *freizukaufen*.
+
+  Son dévouement *rachète* largement ses défauts.
+  Seine Hingabe *macht* seine Fehler bei weitem *wett*.
+
+  L'entreprise a *racheté* toutes ses dettes auprès de la banque.
+  Die Firma hat alle ihre Schulden bei der Bank *zurückgezahlt*.
+
+  Je veux *racheter* ma vieille maison familiale.
+  Ich möchte mein altes Familienhaus *zurückkaufen*.
+
+  Il a *racheté* son honneur par des années de service.
+  Er hat seine Ehre durch jahrelangen Dienst *reingewaschen*.
+
+  La nouvelle direction veut *racheter* tous les contrats d'assurance.
+  Die neue Führung will alle Versicherungsverträge *ablösen*.
+
+  Thomas doit *racheter* des lunettes, il a cassé les siennes.
+  Thomas muss sich eine neue Brille *kaufen*, er hat seine kaputt gemacht.
+
+  Il faut *racheter* du bois pour l'hiver.
+  Wir müssen Holz für den Winter *nachkaufen*.
+
+  Ces deux frères sont aussi méchants l'un que l'autre, il n'y en a pas un pour *racheter* l'autre.
+  Diese beiden Brüder sind einer so böse wie der andere, keiner ist besser als der andere.
+
+  Elle veut *se racheter* après avoir trahi la confiance de son ami.
+  Sie will sich *rehabilitieren*, nachdem sie das Vertrauen ihres Freundes missbraucht hat.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

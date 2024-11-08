@@ -13,50 +13,158 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Lavez-vous les mains avant de manger.
-  Waschen Sie sich vor dem Essen die Hände.
+  *Lavez*-vous les mains avant de manger.
+  *Wascht* euch die Hände vor dem Essen.
 
-  Je dois laver mes vêtements.
-  Ich muss meine Kleidung waschen.
+  Il faut *laver* ce t-shirt à la main.
+  Dieses T-Shirt muss von Hand ge*waschen* werden.
 
-  Voulez-vous le faire laver ?
-  Möchten Sie es waschen lassen?
+  Elle *lavait* la vaisselle en écoutant la radio.
+  Sie *spülte* das Geschirr beim Radiohören ab.
 
-  Tu dois te laver les mains.
-  Du musst dir die Hände waschen.
+  J'ai dû *laver* le sol trois fois pour enlever cette tache.
+  Ich musste den Boden dreimal *wischen*, um diesen Fleck zu entfernen.
 
-  Je suis venu me laver les mains.
-  Ich bin gekommen, um mir die Hände zu waschen.
+  Le médecin a soigneusement *lavé* la plaie.
+  Der Arzt hat die Wunde sorgfältig *gereinigt*.
 
-  J'ai essayé de faire partir la tache en la lavant à l'eau froide, mais elle est toujours là.
-  Ich habe versucht, den Fleck wegzuwaschen, indem ich ihn mit kaltem Wasser gewaschen habe, aber er ist immer noch da.
+  "Je vais te *laver* la tête si tu continues comme ça !"
+  "Ich werde dir den *Kopf waschen*, wenn du so weitermachst!"
 
-  Le juge a lavé le suspect d'un soupçon, car il a trouvé de nouvelles preuves.
-  Der Richter hat den Verdächtigen von einem Verdacht entlastet, da er neue Beweise gefunden hat.
+  Cette chemise se *lave* à 30 degrés.
+  Dieses Hemd lässt sich bei 30 Grad *waschen*.
 
-  Ce tissu peut se laver à 90°, même s'il est délicat.
-  Dieser Stoff kann sich bis 90° waschen lassen, obwohl er empfindlich ist.
+  La pluie a *lavé* les rues de la ville.
+  Der Regen hat die Straßen der Stadt *reingewaschen*.
 
-  Le politicien s'est lavé de toute implication dans l'affaire.
-  Der Politiker hat sich von jeder Beteiligung an der Angelegenheit reingewaschen.
+  Les témoignages l'ont *lavé* de tout soupçon.
+  Die Zeugenaussagen haben ihn von jedem Verdacht *reingewaschen*.
 
-  Je préfère laver les vêtements délicats à la main.
-  Ich wasche empfindliche Kleidung lieber von Hand.
+  Je dois *laver* mes cheveux ce soir.
+  Ich muss mir heute Abend die Haare *waschen*.
 
-  Je lave habituellement mes vêtements à la machine, mais je préfère laver mes draps à la main.
-  Ich wasche meine Kleidung normalerweise in der Maschine, aber ich wasche meine Bettwäsche lieber von Hand.
+  Marie *lave* toujours ses vêtements à la machine.
+  Marie *wäscht* ihre Kleidung immer in der Maschine.
 
-  On lave les assiettes et les couverts au lave-vaisselle.
-  Man spült Teller und Besteck in der Spülmaschine.
+  Il faut *laver* la voiture, elle est très sale.
+  Das Auto muss ge*waschen* werden, es ist sehr schmutzig.
 
-  J'ai lavé le comptoir à l'éponge.
-  Ich habe die Arbeitsplatte mit dem Schwamm gereinigt.
+  Les enfants se sont *lavés* avant d'aller au lit.
+  Die Kinder haben sich vor dem Schlafengehen ge*waschen*.
 
-  On lave les sols à la serpillière.
-  Man wischt die Böden mit dem Scheuerlappen.
+  Cette tache ne se *lave* pas facilement.
+  Dieser Fleck lässt sich nicht leicht *weg*waschen.
 
-  Le jardinier a lavé la voiture au jet d'eau.
-  Der Gärtner hat das Auto mit dem Wasserstrahl abgespritzt.
+  "Il faut *laver* son linge sale en famille."
+  "Schmutzige Wäsche *wäscht* man zu Hause."
+
+  Je me *lave* les dents trois fois par jour.
+  Ich *putze* mir dreimal am Tag die Zähne.
+
+  Elle s'est *lavé* le visage à l'eau froide.
+  Sie hat sich das Gesicht mit kaltem Wasser ge*waschen*.
+
+  Paul *lave* sa voiture au jet d'eau.
+  Paul *spritzt* sein Auto mit dem Wasserstrahl ab.
+
+  Les assiettes se *lavent* au lave-vaisselle.
+  Die Teller werden in der Spülmaschine ge*spült*.
+
+  Je dois *laver* les vitres ce weekend.
+  Ich muss am Wochenende die Fenster *putzen*.
+
+  "Je me *lave* les mains de cette affaire."
+  "Ich *wasche* meine Hände in Unschuld."
+
+  Le chat s'est *lavé* les pattes après être rentré.
+  Die Katze hat sich nach dem Heimkommen die Pfoten ge*waschen*.
+
+  Cette veste ne se *lave* qu'à sec.
+  Diese Jacke kann nur chemisch ge*reinigt* werden.
+
+  Les médecins ont dû lui *laver* l'estomac.
+  Die Ärzte mussten ihm den Magen aus*pumpen*.
+
+  Nous *lavons* toujours les fruits avant de les manger.
+  Wir *waschen* das Obst immer, bevor wir es essen.
+
+  Pierre *lave* la vaisselle pendant que Marie cuisine.
+  Pierre *spült* das Geschirr, während Marie kocht.
+
+  Il faut *laver* le pinceau après chaque utilisation.
+  Der Pinsel muss nach jeder Benutzung *gereinigt* werden.
+
+  Les taches de vin ne se *lavent* pas facilement.
+  Weinflecken lassen sich nicht leicht *auswaschen*.
+
+  Sophie *lave* les légumes sous l'eau courante.
+  Sophie *wäscht* das Gemüse unter fließendem Wasser.
+
+  Le nouveau détergent *lave* très bien.
+  Das neue Waschmittel *reinigt* sehr gut.
+
+  Cette robe se *lave* uniquement à la main.
+  Dieses Kleid kann nur von Hand ge*waschen* werden.
+
+  Les infirmières ont *lavé* le patient avec précaution.
+  Die Krankenschwestern haben den Patienten vorsichtig ge*waschen*.
+
+  Il faut *laver* le sol à la serpillière.
+  Der Boden muss mit dem Wischlappen ge*wischt* werden.
+
+  "Je vais te *laver* la tête pour ton comportement !"
+  "Ich werde dir wegen deines Benehmens den *Kopf waschen*!"
+
+  Cette teinture se *lave* en trois shampoings.
+  Diese Färbung *wäscht* sich nach drei Haarwäschen aus.
+
+  Les pompiers ont *lavé* la route après l'accident.
+  Die Feuerwehr hat die Straße nach dem Unfall *gereinigt*.
+
+  La femme de ménage *lave* les escaliers tous les lundis.
+  Die Putzfrau *wischt* jeden Montag die Treppen.
+
+  Ces gants se *lavent* en machine.
+  Diese Handschuhe können in der Maschine ge*waschen* werden.
+
+  L'orage a *lavé* l'air de la ville.
+  Das Gewitter hat die Stadtluft *gereinigt*.
+
+  Les preuves l'ont *lavé* de cette accusation.
+  Die Beweise haben ihn von dieser Anklage *reingewaschen*.
+
+  Il faut *laver* cette plaie tous les jours.
+  Diese Wunde muss täglich *gereinigt* werden.
+
+  Le temps *lavera* ces mauvais souvenirs.
+  Die Zeit wird diese schlechten Erinnerungen *reinwaschen*.
+
+  Marc *lave* sa voiture tous les dimanches.
+  Marc *wäscht* sein Auto jeden Sonntag.
+
+  Elle s'est *lavé* les cheveux ce matin.
+  Sie hat sich heute Morgen die Haare ge*waschen*.
+
+  Ce tissu se *lave* facilement.
+  Dieser Stoff lässt sich leicht *waschen*.
+
+  Je dois *laver* mes pinceaux après avoir peint.
+  Ich muss meine Pinsel nach dem Malen *reinigen*.
+
+  Les enfants se sont *lavés* à grande eau.
+  Die Kinder haben sich gründlich ge*waschen*.
+
+  On doit *laver* régulièrement les draps.
+  Man muss die Bettwäsche regelmäßig *waschen*.
+
+  Cette peinture se *lave* à l'eau.
+  Diese Farbe lässt sich mit Wasser ab*waschen*.
+
+  Je me *lave* toujours les mains avant de cuisiner.
+  Ich *wasche* mir immer die Hände vor dem Kochen.
+
+  La pluie a *lavé* les fleurs de leur pollen.
+  Der Regen hat den Blütenstaub von den Blumen *abgewaschen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,23 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous savez, moi-même je suis veuf.
-  Wissen Sie, ich selbst bin Witwer.
+  Vous savez, moi-même je suis *veuf*.
+  Wissen Sie, ich selbst bin *Witwer*.
 
-  Elle est veuve depuis cinq ans.
-  Sie ist seit fünf Jahren Witwe.
+  La petite maison appartenait à une *veuve* qui vivait seule depuis des années.
+  Das kleine Haus gehörte einer *Witwe*, die seit Jahren allein lebte.
 
-  Ce soir, je suis veuve, car mon mari est parti en voyage d'affaires.
-  Heute Abend bin ich Strohwitwe, weil mein Mann auf Geschäftsreise ist.
+  "Ma femme est en voyage d'affaires, donc je suis *veuf* pour une semaine."
+  "Meine Frau ist auf Geschäftsreise, also bin ich diese Woche *Strohwitwer*."
 
-  Marie est veuve de guerre, son mari est mort au combat.
-  Marie ist Kriegerwitwe, ihr Mann ist im Krieg gefallen.
+  Elle est devenue *veuve* très jeune, à l'âge de vingt-huit ans.
+  Sie wurde sehr jung *Witwe*, mit achtundzwanzig Jahren.
 
-  Ce héros a défendu la veuve et l'orphelin contre les bandits.
-  Dieser Held hat den barmherzigen Samariter gespielt und die Witwe und das Waisenkind vor den Banditen beschützt.
+  Madame Dupont reçoit une pension de *veuve* depuis la mort de son mari.
+  Frau Dupont erhält seit dem Tod ihres Mannes *Witwen*geld.
 
-  Elle vit de la pension de veuve depuis la mort de son mari.
-  Sie lebt seit dem Tod ihres Mannes von der Witwenrente.
+  L'avocat passait son temps à *défendre la veuve et l'orphelin*.
+  Der Anwalt verbrachte seine Zeit damit, den *barmherzigen Samariter zu spielen*.
+
+  La *veuve noire* est l'une des araignées les plus dangereuses au monde.
+  Die *schwarze Witwe* ist eine der gefährlichsten Spinnen der Welt.
+
+  Étant *veuve* de guerre, elle a dû élever seule ses trois enfants.
+  Als *Kriegswitwe* musste sie ihre drei Kinder alleine großziehen.
+
+  Pierre est *veuf* depuis cinq ans et n'a jamais voulu se remarier.
+  Pierre ist seit fünf Jahren *Witwer* und wollte nie wieder heiraten.
+
+  "Je me sens comme une *veuve* quand mon mari part en mission pendant des mois."
+  "Ich fühle mich wie eine *Strohwitwe*, wenn mein Mann monatelang auf Mission ist."
+
+  Les *veuves* du village se réunissent chaque mercredi pour prendre le thé.
+  Die *Witwen* aus dem Dorf treffen sich jeden Mittwoch zum Tee.
+
+  Mon grand-père est resté *veuf* pendant vingt ans avant de décéder.
+  Mein Großvater blieb zwanzig Jahre lang *Witwer*, bevor er verstarb.
+
+  La *veuve* africaine est un oiseau noir et blanc très apprécié des collectionneurs.
+  Die afrikanische *Witwe* ist ein schwarz-weißer Vogel, der bei Sammlern sehr beliebt ist.
+
+  Marie est *veuve* depuis deux ans et commence tout juste à sortir à nouveau.
+  Marie ist seit zwei Jahren *Witwe* und fängt gerade erst an, wieder auszugehen.
+
+  Un homme *veuf* avec trois enfants cherche une nouvelle nounou.
+  Ein *verwitweter* Mann mit drei Kindern sucht eine neue Kinderfrau.
+
+  Les *veuves* de guerre ont manifesté devant le ministère pour leurs droits.
+  Die *Kriegswitwen* demonstrierten vor dem Ministerium für ihre Rechte.
+
+  Dans ce petit village, il y a plus de femmes *veuves* que d'hommes *veufs*.
+  In diesem kleinen Dorf gibt es mehr *verwitwete* Frauen als *verwitwete* Männer.
+
+  Être *veuf* à trente ans n'est pas une situation facile à vivre.
+  Mit dreißig Jahren *Witwer* zu sein ist keine leichte Situation.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

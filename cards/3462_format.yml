@@ -13,38 +13,107 @@ Register: ↗Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’aime beaucoup le format court.
-  Ich mag das Kurzformat sehr.
+  J'aime beaucoup le *format* court.
+  Ich mag das kurze *Format* sehr.
 
-  Le format de ce fichier n’est pas compatible.
-  Das Format dieser Datei ist nicht kompatibel.
+  Il faut convertir ce fichier dans un autre *format*.
+  Diese Datei muss in ein anderes *Format* konvertiert werden.
 
-  Je vous envoie une carte postale depuis la plage.
-  Ich schreibe dir eine Postkarte vom Strand.
+  Le livre est disponible en *format* de poche.
+  Das Buch ist im Taschen*format* erhältlich.
 
-  J'ai reçu un document au format PDF.
-  Ich habe ein Dokument im PDF-Format erhalten.
+  Cette photo est en *format* paysage.
+  Dieses Foto ist im Quer*format*.
 
-  Ce film est disponible en format grand écran.
-  Dieser Film ist im Breitwandformat verfügbar.
+  Je préfère les magazines de petit *format*.
+  Ich bevorzuge Magazine im Klein*format*.
 
-  J'ai imprimé le document sur du papier format A4.
-  Ich habe das Dokument auf DIN-A4-Blatt gedruckt.
+  Nous avons imprimé l'image en *format* A3.
+  Wir haben das Bild im *Format* A3 ausgedruckt.
 
-  Ce livre est édité en format in-folio.
-  Dieses Buch ist im Folioformat herausgegeben.
+  Le *format* numérique permet d'économiser du papier.
+  Das Digital*format* spart Papier.
 
-  Ce journal est imprimé en format in-quarto.
-  Diese Zeitung ist im Quartformat gedruckt.
+  Ce document est dans un *format* incompatible.
+  Dieses Dokument ist in einem inkompatiblen *Format*.
 
-  Le format raisin est utilisé pour les affiches.
-  Das Format 74 x 105 cm wird für Poster verwendet.
+  Le cinéma projette les films en *format* grand écran.
+  Das Kino zeigt die Filme im Breitwand*format*.
 
-  Les photos de mon appareil photo sont en format 24 x 36.
-  Die Fotos meiner Kamera sind im Kleinbildformat.
+  Les images sont sauvegardées dans différents *formats*.
+  Die Bilder werden in verschiedenen *Formaten* gespeichert.
 
-  J'ai vu une annonce de petit format dans le journal.
-  Ich habe eine kleinformatige Anzeige in der Zeitung gesehen.
+  Cette carte postale a un *format* standard.
+  Diese Postkarte hat ein Standard*format*.
+
+  Le journal existe maintenant en *format* numérique.
+  Die Zeitung gibt es jetzt im Digital*format*.
+
+  Quel *format* préférez-vous pour les photos ?
+  Welches *Format* bevorzugen Sie für die Fotos?
+
+  Le *format* du fichier n'est pas reconnu.
+  Das Datei*format* wird nicht erkannt.
+
+  Les notes sont imprimées au *format* A4.
+  Die Notizen sind im *Format* A4 gedruckt.
+
+  Ce livre ancien est au *format* in-folio.
+  Dieses alte Buch ist im Folio*format*.
+
+  Le *format* de cette présentation est trop large.
+  Das *Format* dieser Präsentation ist zu breit.
+
+  Changeons le *format* de l'image.
+  Ändern wir das *Format* des Bildes.
+
+  Le nouveau *format* est plus pratique.
+  Das neue *Format* ist praktischer.
+
+  Cette vidéo est disponible en plusieurs *formats*.
+  Dieses Video ist in mehreren *Formaten* verfügbar.
+
+  Le *format* portrait convient mieux ici.
+  Das Hoch*format* passt hier besser.
+
+  Les dimensions du *format* raisin sont 50 x 65 cm.
+  Die Maße des *Formats* Raisin sind 50 x 65 cm.
+
+  Ce *format* de fichier est obsolète.
+  Dieses Datei*format* ist veraltet.
+
+  Le *format* de cette enveloppe est inhabituel.
+  Das *Format* dieses Umschlags ist ungewöhnlich.
+
+  J'ai besoin d'une feuille au *format* A5.
+  Ich brauche ein Blatt im *Format* A5.
+
+  Le *format* d'origine a été modifié.
+  Das Original*format* wurde geändert.
+
+  Les photos sont toutes au même *format*.
+  Die Fotos sind alle im gleichen *Format*.
+
+  Ce *format* de données est sécurisé.
+  Dieses Daten*format* ist sicher.
+
+  Le *format* du document doit être adapté.
+  Das *Format* des Dokuments muss angepasst werden.
+
+  L'appareil photo utilise le *format* 24 x 36.
+  Die Kamera verwendet das Kleinbild*format*.
+
+  Ce logiciel supporte plusieurs *formats* graphiques.
+  Diese Software unterstützt verschiedene Grafik*formate*.
+
+  Le *format* à l'italienne est préférable pour ce document.
+  Das Quer*format* ist für dieses Dokument vorzuziehen.
+
+  Il faut réduire le *format* de l'image.
+  Das *Format* des Bildes muss verkleinert werden.
+
+  Cette revue a changé son *format*.
+  Diese Zeitschrift hat ihr *Format* geändert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

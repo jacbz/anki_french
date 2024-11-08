@@ -13,32 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je viens prendre possession de son château.
-  Ich bin gekommen, um sein Schloss in Besitz zu nehmen.
+  Je viens prendre possession de son *château*.
+  Ich komme, um sein *Schloss* in Besitz zu nehmen.
 
-  Nous avons visité le château de Versailles.
-  Wir haben das Schloss von Versailles besucht.
+  Le *château* médiéval domine la vallée depuis huit siècles.
+  Die mittelalterliche *Burg* thront seit acht Jahrhunderten über dem Tal.
 
-  Ma sœur et moi sommes allés au château.
-  Meine Schwester und ich sind zum Schloss gegangen.
+  Les enfants adorent construire des *châteaux* de sable sur la plage.
+  Die Kinder lieben es, *Sand*burgen am Strand zu bauen.
 
-  Il y a un château dans ma ville.
-  In meiner Stadt gibt es ein Schloss.
+  Le *château* de Chenonceau est construit au-dessus de la rivière.
+  Das *Schloss* Chenonceau ist über dem Fluss erbaut.
 
-  Le château de Chambord est un magnifique exemple de château Renaissance.
-  Das Schloss Chambord ist ein prächtiges Beispiel für ein Renaissanceschloss.
+  Marie habite dans un petit *château* entouré d'un magnifique jardin.
+  Marie wohnt in einem kleinen *Schlösschen* umgeben von einem prächtigen Garten.
 
-  J'aime bien bâtir des châteaux en Espagne quand je suis fatiguée.
-  Ich baue gerne Luftschlösser, wenn ich müde bin.
+  "Ce n'est pas vraiment un hôtel, c'est un *château*!"
+  "Das ist kein gewöhnliches Hotel, das ist eine *Luxusherberge*!"
 
-  Le château de Versailles est un des monuments les plus visités de France.
-  Das Schloss von Versailles ist eines der meistbesuchten Bauwerke in Frankreich.
+  Le *château* d'eau alimente tout le village.
+  Der Wasser*turm* versorgt das ganze Dorf.
 
-  Les châteaux de la Loire sont très populaires auprès des touristes.
-  Die Loireschlösser sind bei Touristen sehr beliebt.
+  Les touristes visitent les *châteaux* de la Loire chaque été.
+  Die Touristen besuchen die Loire*schlösser* jeden Sommer.
 
-  Le bâtiment qui abrite la bibliothèque municipale ressemble à un château.
-  Das Gebäude, in dem sich die Stadtbibliothek befindet, ist schlossartig.
+  Pierre passe ses vacances dans un *château* converti en gîte rural.
+  Pierre verbringt seinen Urlaub in einer zur Pension umgebauten *Burg*.
+
+  Le *château* fort gonflable fait la joie des enfants à la fête.
+  Die *Hüpfburg* macht den Kindern auf dem Fest große Freude.
+
+  Sophie rêve toujours et construit des *châteaux* en Espagne.
+  Sophie träumt immer und baut *Luftschlösser*.
+
+  Le *château* de Chambord compte plus de 400 pièces.
+  Das *Schloss* Chambord hat über 400 Zimmer.
+
+  Il travaille comme jardinier au *château* depuis vingt ans.
+  Er arbeitet seit zwanzig Jahren als Gärtner auf dem *Herrensitz*.
+
+  Le *château* de cartes s'est écroulé au moindre souffle.
+  Das Karten*haus* stürzte beim leisesten Lufthauch ein.
+
+  Nous avons dégusté un excellent *Château* Margaux millésime 2015.
+  Wir haben einen ausgezeichneten *Château* Margaux Jahrgang 2015 verkostet.
+
+  Le *château* commandait autrefois l'entrée de la vallée.
+  Die *Burg* beherrschte früher den Eingang zum Tal.
+
+  "Tu veux boire du *Château*-la-Pompe ?"
+  "Willst du *Leitungswasser* trinken?"
+
+  Le *château* Renaissance a été restauré l'année dernière.
+  Das Renaissance*schloss* wurde letztes Jahr restauriert.
+
+  Les remparts du *château* fort ont résisté à de nombreux sièges.
+  Die Mauern der *Burg* haben vielen Belagerungen standgehalten.
+
+  Ce vieux *château* ressemble à celui de la Belle au bois dormant.
+  Diese alte *Burg* sieht aus wie die aus Dornröschen.
+
+  Le *château* d'arrière du navire abritait les quartiers du capitaine.
+  Der hintere *Aufbau* des Schiffes beherbergte die Kapitänskajüte.
+
+  Il mène une vie de *château* depuis son mariage avec une riche héritière.
+  Er führt ein *herrschaftliches* Leben seit seiner Heirat mit einer reichen Erbin.
+
+  Les archéologues ont découvert les fondations d'un ancien *château* fort.
+  Die Archäologen haben die Fundamente einer alten *Burg* entdeckt.
+
+  Le *château* branlant menace de s'effondrer à tout moment.
+  Die baufällige *Burg* droht jeden Moment einzustürzen.
+
+  La mise en bouteilles est faite au *château*.
+  Die Abfüllung erfolgt auf dem *Weingut*.
+
+  Ce petit *château* est devenu un musée régional.
+  Dieses kleine *Schloss* ist zu einem Regionalmuseum geworden.
+
+  Les fenêtres du *château* brillent dans la nuit.
+  Die Fenster des *Schlosses* leuchten in der Nacht.
+
+  Le roi a fait construire ce *château* pour sa favorite.
+  Der König ließ dieses *Schloss* für seine Favoritin erbauen.
+
+  Le guide nous fait visiter les caves du *château*.
+  Der Führer zeigt uns die Keller des *Schlosses*.
+
+  Les douves du *château* sont encore remplies d'eau.
+  Der Wassergraben der *Burg* ist noch immer mit Wasser gefüllt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,20 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils ont institué un plan de réduction du déficit.
-  Sie führten einen Plan zur Reduzierung des Defizits ein.
+  Ils ont *institué* un plan de réduction du déficit.
+  Sie haben einen Plan zur Defizitreduzierung *eingeführt*.
 
-  Le gouvernement a décidé d’instituer une nouvelle loi.
-  Die Regierung hat beschlossen, ein neues Gesetz einzuführen.
+  L'université a *institué* un nouveau système d'examens en ligne.
+  Die Universität hat ein neues Online-Prüfungssystem *eingerichtet*.
 
-  Le roi a institué son fils aîné héritier du trône.
-  Der König hat seinen ältesten Sohn zum Erben des Thrones eingesetzt.
+  Le conseil municipal a *institué* une commission d'enquête.
+  Der Gemeinderat hat eine Untersuchungskommission *eingesetzt*.
 
-  Une nouvelle association s'est instituée pour aider les sans-abri.
-  Eine neue Vereinigung hat sich gebildet, um Obdachlosen zu helfen.
+  Elle a *institué* son neveu comme héritier unique.
+  Sie hat ihren Neffen als alleinigen Erben *eingesetzt*.
 
-  Il s'est institué le défenseur des opprimés.
-  Er hat sich zum Beschützer der Unterdrückten gemacht.
+  Une nouvelle tradition s'est *instituée* dans notre famille.
+  Eine neue Tradition hat sich in unserer Familie *eingebürgert*.
+
+  Il s'est *institué* défenseur des droits humains sans aucun mandat officiel.
+  Er hat sich ohne offizielles Mandat zum Menschenrechtsverteidiger *gemacht*.
+
+  Le gouvernement a *institué* des mesures sanitaires strictes.
+  Die Regierung hat strenge Gesundheitsmaßnahmen *eingeführt*.
+
+  L'évêque a été *institué* lors d'une cérémonie solennelle.
+  Der Bischof wurde in einer feierlichen Zeremonie *eingesetzt*.
+
+  Une nouvelle taxe a été *instituée* pour financer les transports publics.
+  Eine neue Steuer wurde zur Finanzierung des öffentlichen Verkehrs *eingeführt*.
+
+  Le roi a *institué* un nouvel ordre de chevalerie.
+  Der König hat einen neuen Ritterorden *eingerichtet*.
+
+  Des relations diplomatiques se sont *instituées* entre les deux nations.
+  Diplomatische Beziehungen haben sich zwischen den beiden Nationen *etabliert*.
+
+  Le parlement a *institué* une journée nationale du souvenir.
+  Das Parlament hat einen nationalen Gedenktag *eingeführt*.
+
+  La société a *institué* un comité d'éthique.
+  Die Gesellschaft hat einen Ethikausschuss *eingerichtet*.
+
+  Le testament *instituait* sa fille comme héritière principale.
+  Das Testament *setzte* seine Tochter als Haupterbin *ein*.
+
+  Un dialogue constructif s'est *institué* entre les deux parties.
+  Ein konstruktiver Dialog hat sich zwischen den beiden Parteien *etabliert*.
+
+  L'entreprise a *institué* un nouveau système de bonus.
+  Das Unternehmen hat ein neues Bonussystem *eingeführt*.
+
+  Le maire a *institué* une réunion mensuelle avec les citoyens.
+  Der Bürgermeister hat ein monatliches Treffen mit den Bürgern *eingeführt*.
+
+  La loi a *institué* de nouvelles protections pour les consommateurs.
+  Das Gesetz hat neue Verbraucherschutzmaßnahmen *eingeführt*.
+
+  Le directeur s'est *institué* responsable du projet.
+  Der Direktor hat sich zum Projektverantwortlichen *gemacht*.
+
+  L'assemblée a *institué* un nouveau règlement intérieur.
+  Die Versammlung hat eine neue Geschäftsordnung *eingeführt*.
+
+  Une collaboration étroite s'est *instituée* entre les deux équipes.
+  Eine enge Zusammenarbeit hat sich zwischen den beiden Teams *etabliert*.
+
+  Le ministère a *institué* des bourses d'études pour les étudiants défavorisés.
+  Das Ministerium hat Stipendien für benachteiligte Studierende *eingeführt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

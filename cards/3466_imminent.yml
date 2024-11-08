@@ -13,14 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’annonçai mon retrait imminent.
-  Ich kündigte meinen bevorstehenden Rückzug an.
+  J'annonçai mon retrait *imminent*.
+  Ich kündigte meinen *bevorstehenden* Rückzug an.
 
-  Une crise économique est imminente.
-  Eine Wirtschaftskrise steht bevor.
+  Le danger *imminent* d'une avalanche nous a forcés à évacuer la zone.
+  Die *drohende* Lawinengefahr zwang uns zur Evakuierung des Gebiets.
 
-  Le danger était imminent.
-  Die Gefahr stand unmittelbar bevor.
+  Sa nomination au poste de directeur est *imminente*.
+  Seine Ernennung zum Direktor steht *unmittelbar bevor*.
+
+  Une guerre *imminente* entre les deux pays semblait inévitable.
+  Ein *drohender* Krieg zwischen den beiden Ländern schien unvermeidlich.
+
+  La crise financière *imminente* inquiète les marchés.
+  Die *unmittelbar bevorstehende* Finanzkrise beunruhigt die Märkte.
+
+  L'*imminente* fermeture du musée attriste les habitants.
+  Die *bevorstehende* Schließung des Museums macht die Einwohner traurig.
+
+  Le mariage *imminent* de ma sœur occupe toutes nos pensées.
+  Die *unmittelbar bevorstehende* Hochzeit meiner Schwester beschäftigt all unsere Gedanken.
+
+  L'effondrement du bâtiment était *imminent*.
+  Der Einsturz des Gebäudes war *unmittelbar bevorstehend*.
+
+  Une pénurie d'eau *imminente* menace la région.
+  Eine *drohende* Wasserknappheit bedroht die Region.
+
+  Leur arrivée *imminente* nous pousse à tout préparer rapidement.
+  Ihre *unmittelbar bevorstehende* Ankunft drängt uns zur schnellen Vorbereitung.
+
+  La tempête *imminente* força les pêcheurs à rentrer au port.
+  Der *drohende* Sturm zwang die Fischer zur Rückkehr in den Hafen.
+
+  Le début *imminent* des travaux a été annoncé ce matin.
+  Der *unmittelbar bevorstehende* Baubeginn wurde heute Morgen angekündigt.
+
+  Une grève *imminente* des transports publics a été évitée.
+  Ein *drohender* Streik im öffentlichen Verkehr wurde verhindert.
+
+  Le lancement *imminent* du nouveau produit crée beaucoup d'attentes.
+  Die *unmittelbar bevorstehende* Produkteinführung erzeugt große Erwartungen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

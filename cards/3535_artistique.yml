@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils ont une vraie vision artistique.
-  Sie haben eine echte künstlerische Vision.
+  Ils ont une vraie vision *artistique*.
+  Sie haben eine echte *künstlerische* Vision.
 
-  Elle a une sensibilité artistique très développée.
-  Sie hat eine sehr ausgeprägte künstlerische Sensibilität.
+  Le patinage *artistique* demande beaucoup d'entraînement.
+  Das *Eiskunst*laufen erfordert viel Training.
+
+  Cette exposition présente les richesses *artistiques* de notre région.
+  Diese Ausstellung zeigt die *künstlerischen* Schätze unserer Region.
+
+  Sa reliure *artistique* a remporté un prix au concours.
+  Sein *kunstvoll*er Bucheinband hat einen Preis im Wettbewerb gewonnen.
+
+  Les milieux *artistiques* de Paris sont très dynamiques.
+  Die *Künstler*kreise in Paris sind sehr dynamisch.
+
+  Elle a toujours eu un sens *artistique* très développé.
+  Sie hatte schon immer ein sehr ausgeprägtes *künstlerisches* Gespür.
+
+  Le cercle *artistique* se réunit tous les mercredis soir.
+  Der *Kunst*zirkel trifft sich jeden Mittwochabend.
+
+  Cette photo utilise l'effet du flou *artistique*.
+  Dieses Foto verwendet den Effekt der *künstlerischen* Unschärfe.
+
+  L'arrangement *artistique* des fleurs attire tous les regards.
+  Die *kunstvolle* Blumenarrangement zieht alle Blicke auf sich.
+
+  La valeur *artistique* de cette sculpture est inestimable.
+  Der *künstlerische* Wert dieser Skulptur ist unbezahlbar.
+
+  Les procédés *artistiques* qu'il utilise sont très innovants.
+  Die *künstlerischen* Techniken, die er verwendet, sind sehr innovativ.
+
+  Notre société *artistique* organise des expositions mensuelles.
+  Unser *Kunst*verein organisiert monatliche Ausstellungen.
+
+  Son développement *artistique* a été influencé par ses voyages.
+  Seine *künstlerische* Entwicklung wurde von seinen Reisen beeinflusst.
+
+  La direction *artistique* du film est remarquable.
+  Die *künstlerische* Leitung des Films ist bemerkenswert.
+
+  Cette soirée *artistique* réunira plusieurs talents locaux.
+  Dieser *Kunst*abend wird mehrere lokale Talente zusammenbringen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

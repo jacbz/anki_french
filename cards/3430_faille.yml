@@ -13,20 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’était un homme avec des failles.
-  Er war ein Mann mit Fehlern.
+  C'était un homme avec des *failles*.
+  Er war ein Mann mit *Schwächen*.
 
-  Il y a une faille dans le système.
-  Es gibt eine Schwachstelle im System.
+  Une *faille* géologique traverse toute la région.
+  Eine geologische *Verwerfung* durchzieht die ganze Region.
 
-  Il y a une faille dans leur amitié, qui pourrait bien la détruire complètement.
-  Ihre Freundschaft hat einen Riss bekommen, der sie möglicherweise ganz zerstören könnte.
+  Les experts ont découvert une *faille* de sécurité dans le système informatique.
+  Die Experten haben eine *Schwachstelle* im Computersystem entdeckt.
 
-  Il a fait preuve d'une volonté sans faille pour atteindre son objectif.
-  Er hat einen unerschütterlichen Willen bewiesen, um sein Ziel zu erreichen.
+  Elle portait une robe en *faille* pour le mariage.
+  Sie trug ein Kleid aus *Faille-Seide* zur Hochzeit.
 
-  Elle a fait preuve d'une détermination sans faille, malgré les obstacles.
-  Sie hat eine unerbittliche Entschlossenheit bewiesen, trotz der Hindernisse.
+  La *faille* dans leur relation est devenue de plus en plus visible.
+  Der *Riss* in ihrer Beziehung wurde immer sichtbarer.
+
+  Malgré les difficultés, il a montré une détermination sans *faille*.
+  Trotz der Schwierigkeiten zeigte er eine unerschütterliche Entschlossenheit.
+
+  Une profonde *faille* s'est formée après le tremblement de terre.
+  Nach dem Erdbeben hat sich eine tiefe *Spalte* gebildet.
+
+  Son raisonnement présente plusieurs *failles* logiques.
+  Seine Argumentation weist mehrere logische *Schwächen* auf.
+
+  Les scientifiques étudient la ligne de *faille* depuis des années.
+  Die Wissenschaftler untersuchen die *Verwerfungs*linie seit Jahren.
+
+  Cette entreprise a su identifier et corriger toutes ses *failles*.
+  Dieses Unternehmen konnte all seine *Schwachstellen* erkennen und beheben.
+
+  Sa volonté sans *faille* l'a conduit au succès.
+  Sein unbeugsamer Wille hat ihn zum Erfolg geführt.
+
+  La *faille* dans le rocher mesure plusieurs mètres de profondeur.
+  Die *Spalte* im Felsen ist mehrere Meter tief.
+
+  Les hackers exploitent souvent les *failles* de sécurité.
+  Hacker nutzen oft *Schwachstellen* in der Sicherheit aus.
+
+  Cette *faille* dans son discours n'a échappé à personne.
+  Diese *Schwäche* in seiner Rede ist niemandem entgangen.
+
+  Leur amitié sans *faille* dure depuis vingt ans.
+  Ihre makellose Freundschaft hält seit zwanzig Jahren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -44,7 +44,7 @@ function processText(text, isFrench, processStars = true) {
     // insert thin non-breaking space before punctuation (but not inside HTML tags)
     text = text.replaceAll(/(?!.*<[^>]+>)(\s?)([?|:|!|;])/g, "\u202F$2");
     // Replace " with French quote marks « ... », except inside HTML tags
-    text = text.replace(/"([^"]*?)"(?=(?:[^<]*<(?!\/?[^>]+>))*[^<]*$)/g, "«\u202F$1\u202F»");
+    text = text.replace(/"(?![^<]*>)(.*?)"(?![^<]*>)/g, "«\u202F$1\u202F»");
 
     if (text[0] === "-") {
       text[0] = "–";

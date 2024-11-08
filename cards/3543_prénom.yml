@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il appelle les journalistes par leur prénom.
-  Er spricht die Journalisten mit dem Vornamen an.
+  Il appelle les journalistes par leur *prénom*.
+  Er spricht die Journalisten mit ihrem *Vornamen* an.
 
-  Quel est ton prénom?
-  Wie ist dein Vorname?
+  Mon *prénom* usuel est Chris, mais je m'appelle Christopher.
+  Mein *Rufname* ist Chris, aber ich heiße Christopher.
+
+  Je ne me souviens plus de son *prénom*.
+  Ich kann mich nicht mehr an ihren *Vornamen* erinnern.
+
+  Les parents ont choisi un *prénom* original pour leur fille.
+  Die Eltern haben einen ausgefallenen *Vornamen* für ihre Tochter gewählt.
+
+  En France, on ne peut pas donner n'importe quel *prénom* à son enfant.
+  In Frankreich darf man seinem Kind nicht jeden beliebigen *Vornamen* geben.
+
+  Son *prénom* figure sur la liste des invités.
+  Ihr *Vorname* steht auf der Gästeliste.
+
+  Dans certaines cultures, le *prénom* est placé après le nom de famille.
+  In manchen Kulturen steht der *Vorname* nach dem Familiennamen.
+
+  Le *prénom* Claude peut être utilisé pour une fille ou un garçon.
+  Der *Vorname* Claude kann für ein Mädchen oder einen Jungen verwendet werden.
+
+  Elle a trois *prénoms*, mais utilise seulement le premier.
+  Sie hat drei *Vornamen*, benutzt aber nur den ersten.
+
+  Mon grand-père a reçu ce *prénom* lors de son baptême.
+  Mein Großvater erhielt diesen *Vornamen* bei seiner Taufe.
+
+  Les élèves doivent écrire leur *prénom* sur leurs cahiers.
+  Die Schüler müssen ihren *Vornamen* auf ihre Hefte schreiben.
+
+  Quel joli *prénom* vous avez !
+  Was für einen schönen *Vornamen* Sie haben!
+
+  Dans l'Antiquité romaine, le *prénom* servait à distinguer les membres d'une même famille.
+  Im antiken Rom diente der *Vorname* dazu, die Mitglieder einer Familie zu unterscheiden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

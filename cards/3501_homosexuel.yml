@@ -13,11 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il n’avait plus honte d’être homosexuel.
-  Er schämte sich nicht mehr dafür, homosexuell zu sein.
+  Il n'avait plus honte d'être *homosexuel*.
+  Er schämte sich nicht mehr, *homosexuell* zu sein.
 
-  Il a révélé qu’il était homosexuel.
-  Er hat offenbart, dass er homosexuell ist.
+  Les relations *homosexuelles* sont légales dans de nombreux pays.
+  *Homosexuelle* Beziehungen sind in vielen Ländern legal.
+
+  Le mariage *homosexuel* est désormais reconnu par la loi.
+  Die *homosexuelle* Ehe ist jetzt gesetzlich anerkannt.
+
+  Un couple *homosexuel* a emménagé dans l'appartement voisin.
+  Ein *homosexuelles* Paar ist in die Nachbarwohnung eingezogen.
+
+  De plus en plus de personnalités publiques s'affirment *homosexuelles*.
+  Immer mehr Persönlichkeiten des öffentlichen Lebens bekennen sich als *homosexuell*.
+
+  Les droits des *homosexuels* ont beaucoup progressé ces dernières années.
+  Die Rechte der *Homosexuellen* haben sich in den letzten Jahren stark verbessert.
+
+  Cette *homosexuelle* milite pour l'égalité depuis vingt ans.
+  Diese *Homosexuelle* kämpft seit zwanzig Jahren für Gleichberechtigung.
+
+  L'association soutient les jeunes *homosexuels* en difficulté.
+  Der Verein unterstützt junge *Homosexuelle* in schwierigen Situationen.
+
+  La discrimination envers les personnes *homosexuelles* est interdite.
+  Diskriminierung gegenüber *homosexuellen* Menschen ist verboten.
+
+  Une célèbre écrivaine *homosexuelle* a publié ses mémoires.
+  Eine bekannte *homosexuelle* Schriftstellerin hat ihre Memoiren veröffentlicht.
+
+  Les parents ont accepté l'orientation *homosexuelle* de leur fils.
+  Die Eltern haben die *homosexuelle* Orientierung ihres Sohnes akzeptiert.
+
+  Cette série présente naturellement un personnage *homosexuel*.
+  Diese Serie zeigt ganz natürlich eine *homosexuelle* Figur.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

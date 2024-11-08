@@ -13,14 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les victimes sont fréquemment des femmes.
-  Die Opfer sind häufig Frauen.
+  Les victimes sont *fréquemment* des femmes.
+  Die Opfer sind *häufig* Frauen.
 
-  Je vais fréquemment au cinéma.
-  Ich gehe häufig ins Kino.
+  Il pleut *fréquemment* dans cette région en automne.
+  In dieser Region regnet es im Herbst *oft*.
 
-  Assurez-vous de communiquer fréquemment avec vos enfants.
-  Achten Sie darauf, regelmäßig mit Ihren Kindern zu kommunizieren.
+  Ces erreurs apparaissent *fréquemment* dans les copies des élèves.
+  Diese Fehler tauchen in den Klassenarbeiten der Schüler *häufig* auf.
+
+  Ma grand-mère utilise *fréquemment* des expressions anciennes.
+  Meine Großmutter verwendet *oft* alte Ausdrücke.
+
+  On trouve *fréquemment* des champignons dans cette forêt.
+  In diesem Wald findet man *häufig* Pilze.
+
+  Les bus passent moins *fréquemment* le dimanche.
+  Die Busse fahren sonntags weniger *häufig*.
+
+  Je me réveille *fréquemment* la nuit à cause du bruit.
+  Ich wache nachts wegen des Lärms *oft* auf.
+
+  Ces questions sont *fréquemment* posées lors des entretiens.
+  Diese Fragen werden bei Vorstellungsgesprächen *häufig* gestellt.
+
+  Il voyage *fréquemment* à l'étranger pour son travail.
+  Er reist für seine Arbeit *oft* ins Ausland.
+
+  Les enfants tombent *fréquemment* malades en hiver.
+  Kinder werden im Winter *häufig* krank.
+
+  Marie change *fréquemment* d'avis sur ce sujet.
+  Marie ändert bei diesem Thema *oft* ihre Meinung.
+
+  Les touristes visitent *fréquemment* ce musée en été.
+  Touristen besuchen dieses Museum im Sommer *häufig*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

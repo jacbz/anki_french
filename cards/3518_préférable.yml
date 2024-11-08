@@ -13,20 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Madame, je crois préférable que nous discutions en privé.
-  Madame, ich halte es für besser, wenn wir uns unter vier Augen unterhalten.
+  Madame, je crois *préférable* que nous discutions en privé.
+  Gnädige Frau, ich halte es für *besser*, wenn wir unter vier Augen sprechen.
 
-  Il est préférable de partir maintenant.
-  Es ist besser, jetzt zu gehen.
+  Il est *préférable* de ne pas sortir ce soir à cause de la tempête.
+  Es ist *besser*, heute Abend wegen des Sturms nicht auszugehen.
 
-  Un verre de vin rouge est préférable à un verre de vin blanc.
-  Ein Glas Rotwein ist besser als ein Glas Weißwein.
+  Une solution diplomatique est *préférable* à un conflit armé.
+  Eine diplomatische Lösung ist einem bewaffneten Konflikt *vorzuziehen*.
 
-  Il est préférable de se taire quand on ne sait pas quoi dire.
-  Es ist besser, zu schweigen, wenn man nicht weiß, was man sagen soll.
+  Il serait *préférable* que tu finisses tes devoirs avant de jouer.
+  Es wäre *besser*, wenn du deine Hausaufgaben machst, bevor du spielst.
 
-  Il est préférable que je m'en aille maintenant, car il se fait tard.
-  Es ist besser, ich gehe jetzt, denn es wird spät.
+  Pour cette recette, l'huile d'olive est *préférable* au beurre.
+  Für dieses Rezept ist Olivenöl *besser* als Butter.
+
+  Le train est *préférable* à la voiture pour ce long voyage.
+  Für diese lange Reise ist der Zug dem Auto *vorzuziehen*.
+
+  Il est *préférable* que vous preniez rendez-vous à l'avance.
+  Es ist *besser*, wenn Sie im Voraus einen Termin vereinbaren.
+
+  Un entretien en personne serait *préférable* à un appel téléphonique.
+  Ein persönliches Gespräch wäre einem Telefonat *vorzuziehen*.
+
+  La prévention est *préférable* au traitement de la maladie.
+  Vorbeugung ist *besser* als die Behandlung der Krankheit.
+
+  Il est *préférable* de dire la vérité maintenant que plus tard.
+  Es ist *besser*, die Wahrheit jetzt zu sagen als später.
+
+  Une critique constructive est *préférable* aux compliments superficiels.
+  Konstruktive Kritik ist oberflächlichen Komplimenten *vorzuziehen*.
+
+  Il serait *préférable* que nous reportions la réunion à demain.
+  Es wäre *besser*, wenn wir die Besprechung auf morgen verschieben.
+
+  Le vélo est *préférable* à la voiture pour les courtes distances.
+  Das Fahrrad ist für kurze Strecken dem Auto *vorzuziehen*.
+
+  Il est *préférable* d'arriver trop tôt que trop tard.
+  Es ist *besser*, zu früh als zu spät zu kommen.
+
+  Une explication claire est *préférable* à un long discours confus.
+  Eine klare Erklärung ist einer langen, verworrenen Rede *vorzuziehen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

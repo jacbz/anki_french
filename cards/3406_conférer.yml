@@ -13,17 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce statut nous confère des privilèges inaliénables.
-  Dieser Status verleiht uns unveräußerliche Privilegien.
+  Ce statut nous *confère* des privilèges inaliénables.
+  Dieser Status *verleiht* uns unveräußerliche Privilegien.
 
-  Le pouvoir de conférer des grades appartient aux universités.
-  Die Befugnis, Grade zu verleihen, liegt bei den Universitäten.
+  L'université lui a *conféré* un diplôme honorifique.
+  Die Universität hat ihm einen Ehrentitel *verliehen*.
 
-  La philosophie permet de conférer un sens à la vie.
-  Die Philosophie erlaubt es, dem Leben einen Sinn zu verleihen.
+  Son expérience lui *confère* une grande autorité dans ce domaine.
+  Seine Erfahrung *verleiht* ihm große Autorität auf diesem Gebiet.
 
-  Le professeur a conféré avec ses élèves sur le sujet de la dissertation.
-  Der Professor hat mit seinen Schülern das Thema der Hausarbeit besprochen.
+  L'évêque *confère* le baptême à trois enfants ce dimanche.
+  Der Bischof *spendet* diesen Sonntag drei Kindern die Taufe.
+
+  Les ministres ont *conféré* pendant des heures sur la nouvelle loi.
+  Die Minister haben stundenlang über das neue Gesetz *konferiert*.
+
+  Cette découverte *confère* un nouveau sens à nos recherches.
+  Diese Entdeckung *verleiht* unserer Forschung einen neuen Sinn.
+
+  Le président a *conféré* avec ses conseillers toute la matinée.
+  Der Präsident hat den ganzen Morgen mit seinen Beratern *beraten*.
+
+  La loi *confère* aux citoyens le droit de vote.
+  Das Gesetz *verleiht* den Bürgern das Wahlrecht.
+
+  Je dois *conférer* avec mon avocat avant de prendre une décision.
+  Ich muss mit meinem Anwalt *sprechen*, bevor ich eine Entscheidung treffe.
+
+  Cette position lui *confère* beaucoup de responsabilités.
+  Diese Position *verleiht* ihm viel Verantwortung.
+
+  Le jury lui a *conféré* le premier prix à l'unanimité.
+  Die Jury hat ihm einstimmig den ersten Preis *verliehen*.
+
+  Les deux diplomates ont *conféré* en privé pendant une heure.
+  Die beiden Diplomaten haben eine Stunde lang unter vier Augen *konferiert*.
+
+  Cette médaille lui a été *conférée* pour acte de bravoure.
+  Diese Medaille wurde ihm für eine tapfere Tat *verliehen*.
+
+  Sa présence *confère* une ambiance particulière à la soirée.
+  Seine Anwesenheit *verleiht* dem Abend eine besondere Atmosphäre.
+
+  Nous devons *conférer* ensemble sur ce projet urgent.
+  Wir müssen über dieses dringende Projekt *beraten*.
+
+  Le temps *confère* à ce vin une qualité exceptionnelle.
+  Die Zeit *verleiht* diesem Wein eine außergewöhnliche Qualität.
+
+  Les experts ont *conféré* sur les implications de cette décision.
+  Die Experten haben über die Auswirkungen dieser Entscheidung *beraten*.
+
+  Cette tenue lui *confère* une allure très élégante.
+  Diese Kleidung *verleiht* ihr ein sehr elegantes Aussehen.
+
+  Le recteur va *conférer* les diplômes demain matin.
+  Der Rektor wird morgen früh die Diplome *verleihen*.
+
+  L'assemblée doit *conférer* sur les nouveaux règlements.
+  Die Versammlung muss über die neuen Vorschriften *beraten*.
+
+  Cette technologie *confère* un avantage considérable à notre entreprise.
+  Diese Technologie *verleiht* unserem Unternehmen einen erheblichen Vorteil.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

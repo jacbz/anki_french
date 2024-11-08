@@ -13,17 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il éprouva une sorte d’attachement pour ce vieillard.
-  Er empfand eine Art Zuneigung zu dem alten Mann.
+  Il éprouva une sorte d'*attachement* pour ce vieillard.
+  Er empfand eine Art *Zuneigung* zu diesem alten Mann.
 
-  J’ai un grand attachement pour ma famille.
-  Ich habe eine starke Bindung zu meiner Familie.
+  L'*attachement* profond entre Marie et son chat est vraiment touchant.
+  Die tiefe *Bindung* zwischen Marie und ihrer Katze ist wirklich rührend.
 
-  Elle a beaucoup d'attachement pour son chien, qu'elle a depuis qu'elle est enfant.
-  Sie hängt sehr an ihrem Hund, den sie seit ihrer Kindheit hat.
+  Son *attachement* aux traditions familiales ne l'empêche pas d'être moderne.
+  Seine *Verbundenheit* mit den Familientraditionen hindert ihn nicht daran, modern zu sein.
 
-  J'ai beaucoup d'attachement pour ce vieux fauteuil, il me rappelle mon grand-père.
-  Ich hänge sehr an diesem alten Sessel, er erinnert mich an meinen Großvater.
+  Les enfants montrent souvent un fort *attachement* à leur doudou.
+  Kinder zeigen oft eine starke *Anhänglichkeit* an ihr Kuscheltier.
+
+  N'oublie pas d'ajouter l'*attachement* avant d'envoyer l'e-mail.
+  Vergiss nicht, den *Anhang* anzufügen, bevor du die E-Mail abschickst.
+
+  Leur *attachement* mutuel s'est développé au fil des années.
+  Ihre gegenseitige *Zuneigung* entwickelte sich im Laufe der Jahre.
+
+  L'*attachement* du chien à son maître ne fait aucun doute.
+  Die *Anhänglichkeit* des Hundes an seinen Herrn steht außer Zweifel.
+
+  Je garde un profond *attachement* pour mon pays natal.
+  Ich habe eine tiefe *Verbundenheit* mit meinem Heimatland.
+
+  L'*attachement* aux biens matériels peut devenir un fardeau.
+  Das *Hängen* an materiellen Dingen kann zur Last werden.
+
+  L'entrepreneur doit présenter un *attachement* détaillé des travaux effectués.
+  Der Unternehmer muss eine detaillierte *Aufstellung* der durchgeführten Arbeiten vorlegen.
+
+  Son *attachement* excessif à l'argent l'a isolé de sa famille.
+  Sein übermäßiges *Hängen* am Geld hat ihn von seiner Familie isoliert.
+
+  Les preuves d'*attachement* qu'elle nous a montrées nous ont beaucoup touchés.
+  Die Zeichen der *Zuneigung*, die sie uns gezeigt hat, haben uns sehr berührt.
+
+  J'ai toujours eu un vif *attachement* pour la littérature française.
+  Ich hatte schon immer eine starke *Bindung* zur französischen Literatur.
+
+  Malgré la distance, notre *attachement* n'a fait que grandir.
+  Trotz der Entfernung ist unsere *Verbundenheit* nur gewachsen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

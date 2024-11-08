@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’héroïne avait mon âge, dix-huit ans.
-  Die Heldin war in meinem Alter, achtzehn Jahre.
+  L'*héroïne* avait mon âge, dix-huit ans.
+  Die *Heldin* war in meinem Alter, achtzehn Jahre alt.
 
-  Elle est accro à l’héroïne.
-  Sie ist heroinabhängig.
+  L'*héroïne* de Shakespeare, Juliette, est devenue un symbole de l'amour romantique.
+  Shakespeares *Heldin* Julia ist zu einem Symbol der romantischen Liebe geworden.
+
+  Les médecins ont constaté que l'*héroïne* est beaucoup plus dangereuse que la morphine.
+  Die Ärzte stellten fest, dass *Heroin* viel gefährlicher ist als Morphium.
+
+  On considère Simone Veil comme une *héroïne* de la lutte pour les droits des femmes.
+  Simone Veil gilt als *Heldin* im Kampf für Frauenrechte.
+
+  Cette jeune *héroïne* a sauvé trois enfants d'une maison en flammes.
+  Diese junge *Heldin* hat drei Kinder aus einem brennenden Haus gerettet.
+
+  L'*héroïne* du nouveau roman de Marie Dupont s'appelle Sophie.
+  Die *Heldin* des neuen Romans von Marie Dupont heißt Sophie.
+
+  La police a saisi 50 kilos d'*héroïne* lors d'une opération.
+  Die Polizei hat bei einer Operation 50 Kilo *Heroin* beschlagnahmt.
+
+  Sans le vouloir, elle est devenue l'*héroïne* d'un scandale médiatique.
+  Ungewollt wurde sie zur *Heldin* eines Medienskandals.
+
+  Les *héroïnes* de cette série sont toutes des femmes fortes et indépendantes.
+  Die *Heldinnen* dieser Serie sind alle starke und unabhängige Frauen.
+
+  Marie Curie reste une *héroïne* pour beaucoup de jeunes scientifiques.
+  Marie Curie bleibt eine *Heldin* für viele junge Wissenschaftlerinnen.
+
+  L'*héroïne* pure est beaucoup plus dangereuse que celle coupée.
+  Reines *Heroin* ist viel gefährlicher als gestrecktes.
+
+  La jeune *héroïne* de ce conte de fées épouse le prince.
+  Die junge *Heldin* dieses Märchens heiratet den Prinzen.
+
+  L'*héroïne* du documentaire a survécu à trois ans de guerre.
+  Die *Heldin* der Dokumentation hat drei Jahre Krieg überlebt.
+
+  Cette *héroïne* moderne lutte contre le changement climatique.
+  Diese moderne *Heldin* kämpft gegen den Klimawandel.
+
+  L'*héroïne* est considérée comme l'une des drogues les plus addictives.
+  *Heroin* gilt als eine der am stärksten abhängig machenden Drogen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

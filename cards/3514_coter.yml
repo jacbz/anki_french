@@ -13,26 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  En septembre, le dollar cotait encore 1.20 euro.
-  Im September notierte der Dollar noch bei 1,20 Euro.
+  En septembre, le dollar *cotait* encore 1.20 euro.
+  Im September *notierte* der Dollar noch bei 1,20 Euro.
 
-  Je ne sais pas comment coter cette pièce.
-  Ich weiß nicht, wie ich dieses Stück bewerten soll.
+  Cette entreprise est *cotée* à la Bourse de Paris depuis 2010.
+  Dieses Unternehmen ist seit 2010 an der Pariser Börse *notiert*.
 
-  Le résultat du match est officiellement coté 5 contre 1 en faveur de l'équipe locale.
-  Das Ergebnis des Spiels ist amtlich notiert: 5 zu 1 für die Heimmannschaft.
+  Le nouveau smartphone d'Apple est *coté* à plus de 1000 euros sur le marché.
+  Das neue Apple-Smartphone wird auf dem Markt mit über 1000 Euro *bewertet*.
 
-  Le nouveau logiciel est coté à 5 contre 1, ce qui indique que les investisseurs sont très optimistes.
-  Auf den neuen Software-Titel wird mit 5 zu 1 gewettet, was darauf hindeutet, dass die Investoren sehr optimistisch sind.
+  Notre équipe est *cotée* à 3 contre 1 pour gagner le match de demain.
+  Unser Team wird für das morgige Spiel mit einer Quote von 3 zu 1 *bewertet*.
 
-  L'entreprise a été cotée en Bourse il y a quelques mois seulement.
-  Die Firma ist erst seit ein paar Monaten an der Börse notiert.
+  Le bibliothécaire a *coté* tous les nouveaux livres ce matin.
+  Der Bibliothekar hat heute Morgen alle neuen Bücher *signiert*.
 
-  Cette entreprise cotée depuis peu a connu un succès fulgurant.
-  Dieser Börsenneuling hat einen fulminanten Erfolg errungen.
+  L'architecte doit *coter* précisément chaque dimension sur le plan.
+  Der Architekt muss jede Dimension auf dem Plan genau *bezeichnen*.
 
-  La voiture est cotée à l'Argus à 10 000 euros.
-  Das Auto steht auf der Schwackeliste mit einem Wert von 10 000 Euro.
+  Tous les documents juridiques doivent être *cotés* et paraphés.
+  Alle juristischen Dokumente müssen mit einem *Aktenzeichen* versehen und abgezeichnet werden.
+
+  Les experts ont *coté* ce tableau à plusieurs millions d'euros.
+  Die Experten haben dieses Gemälde auf mehrere Millionen Euro *geschätzt*.
+
+  Ce professeur est très bien *coté* dans son université.
+  Dieser Professor ist an seiner Universität sehr hoch *angesehen*.
+
+  J'ai dû *coter* chaque copie d'examen selon le barème officiel.
+  Ich musste jede Prüfungsarbeit nach dem offiziellen Maßstab *bewerten*.
+
+  Le vin de cette région est bien *coté* par les connaisseurs.
+  Der Wein aus dieser Region wird von Kennern hoch *eingestuft*.
+
+  La société nouvellement *cotée* a vu ses actions grimper de 15%.
+  Die neu *börsennotierte* Firma sah ihre Aktien um 15% steigen.
+
+  L'agent immobilier a *coté* notre maison à sa juste valeur.
+  Der Immobilienmakler hat unser Haus zum richtigen Wert *taxiert*.
+
+  Les actions de cette entreprise *cotent* plus bas que prévu.
+  Die Aktien dieses Unternehmens *notieren* niedriger als erwartet.
+
+  Le timbre rare est *coté* à 5000 euros dans le catalogue.
+  Die seltene Briefmarke wird im Katalog mit 5000 Euro *bewertet*.
+
+  L'ingénieur doit *coter* tous les éléments du nouveau prototype.
+  Der Ingenieur muss alle Elemente des neuen Prototyps *bemaßen*.
+
+  Cette collection de monnaies anciennes est bien *cotée*.
+  Diese Sammlung alter Münzen ist hoch *bewertet*.
+
+  Le géomètre a *coté* tous les points du terrain sur la carte.
+  Der Vermesser hat alle Geländepunkte auf der Karte *vermessen*.
+
+  Les archives municipales ont *coté* tous les documents historiques.
+  Das Stadtarchiv hat alle historischen Dokumente *katalogisiert*.
+
+  L'euro *cote* plus haut que la livre sterling aujourd'hui.
+  Der Euro *notiert* heute höher als das britische Pfund.
+
+  Le critique a *coté* ce film quatre étoiles sur cinq.
+  Der Kritiker hat diesen Film mit vier von fünf Sternen *bewertet*.
+
+  Ma voiture d'occasion est *cotée* à 8000 euros à l'Argus.
+  Mein Gebrauchtwagen ist in der Schwacke-Liste mit 8000 Euro *notiert*.
+
+  Les notaires doivent *coter* et parapher chaque page du contrat.
+  Die Notare müssen jede Vertragsseite *nummerieren* und abzeichnen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

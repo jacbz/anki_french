@@ -13,20 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Billet et passeport, s’il vous plaît.
-  Fahrkarte und Reisepass, bitte.
+  Billet et *passeport*, s'il vous plaît.
+  Ticket und *Pass*, bitte.
 
-  Je dois renouveler mon passeport.
-  Ich muss meinen Reisepass erneuern.
+  Pour voyager aux États-Unis, vous devez présenter un *passeport* biométrique.
+  Für die Reise in die USA müssen Sie einen biometrischen *Pass* vorlegen.
 
-  Si je trouve votre passeport, je vous appellerai.
-  Wenn ich Ihren Pass finde, rufe ich Sie an.
+  Le *passeport* demeure la propriété du gouvernement français.
+  Der *Pass* bleibt Eigentum der französischen Regierung.
 
-  En raison de la situation sécuritaire, l'obligation de port du passeport a été renforcée.
-  Aufgrund der Sicherheitslage wurde die Passpflicht verschärft.
+  J'ai fait la queue pendant deux heures pour faire renouveler mon *passeport*.
+  Ich habe zwei Stunden Schlange gestanden, um meinen *Pass* zu erneuern.
 
-  Le consulat a exonéré Marie de l'obligation de port du passeport, car elle est mineure et voyage avec ses parents.
-  Das Konsulat hat Marie von der Passpflicht befreit, da sie minderjährig ist und mit ihren Eltern reist.
+  Marie a perdu son *passeport* la veille de son départ.
+  Marie hat ihren *Reisepass* am Tag vor ihrer Abreise verloren.
+
+  L'ambassadeur chinois a demandé ses *passeports* suite à la crise diplomatique.
+  Der chinesische Botschafter hat nach der diplomatischen Krise seine *Pässe* angefordert.
+
+  Le consul a reçu ses *passeports* et doit quitter le pays dans les 48 heures.
+  Der Konsul hat seine *Pässe* erhalten und muss das Land innerhalb von 48 Stunden verlassen.
+
+  Les diplomates voyagent toujours avec un *passeport* diplomatique.
+  Diplomaten reisen immer mit einem diplomatischen *Pass*.
+
+  Mon *passeport* expire dans trois mois, je dois le renouveler rapidement.
+  Mein *Pass* läuft in drei Monaten ab, ich muss ihn schnell erneuern.
+
+  Il y a une nouvelle obligation de *passeport* pour entrer dans ce pays.
+  Es gibt eine neue *Pass*pflicht für die Einreise in dieses Land.
+
+  Les touristes britanniques sont désormais exonérés de l'obligation de *passeport*.
+  Die britischen Touristen sind nun von der *Pass*pflicht befreit.
+
+  Les agents de police ont découvert un faux *passeport* dans ses bagages.
+  Die Polizeibeamten haben einen gefälschten *Pass* in seinem Gepäck entdeckt.
+
+  Au dix-neuvième siècle, le maire délivrait les *passeports* aux habitants du village.
+  Im neunzehnten Jahrhundert stellte der Bürgermeister den Dorfbewohnern die *Pässe* aus.
+
+  Le fonctionnaire a fait viser son *passeport* de service avant sa mission.
+  Der Beamte ließ seinen Dienst*pass* vor seiner Mission abstempeln.
+
+  N'oubliez pas de faire une photocopie de votre *passeport* avant de partir.
+  Vergessen Sie nicht, vor der Abreise eine Kopie Ihres *Passes* zu machen.
+
+  Les enfants doivent désormais avoir leur propre *passeport* pour voyager.
+  Kinder müssen jetzt einen eigenen *Pass* zum Reisen haben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

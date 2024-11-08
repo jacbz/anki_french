@@ -13,26 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Paule aspira la fumée de sa cigarette.
-  Paule zog den Rauch seiner Zigarette ein.
+  Paule *aspira* la fumée de sa cigarette.
+  Paule *sog* den Zigarettenrauch ein.
 
-  Je vais aspirer l’air frais.
-  Ich werde frische Luft einatmen.
+  Il *aspire* l'air frais à pleins poumons.
+  Er *atmet* die frische Luft tief *ein*.
 
-  Le jeune homme a aspiré à pleins poumons l'air frais de la montagne.
-  Der junge Mann hat tief durchgeatmet die frische Luft der Berge.
+  Les enfants *aspirent* le jus d'orange avec une paille.
+  Die Kinder *saugen* den Orangensaft mit einem Strohhalm *ein*.
 
-  Il aspire à une vie meilleure, pleine de bonheur et d'amour.
-  Er strebt nach einem besseren Leben, voller Glück und Liebe.
+  Le nouveau robot *aspire* efficacement la poussière sous les meubles.
+  Der neue Roboter *saugt* den Staub unter den Möbeln effektiv *ab*.
 
-  La chirurgie esthétique permet d'aspirer la graisse des cuisses pour obtenir une silhouette plus fine.
-  Die ästhetische Chirurgie ermöglicht es, das Fett aus den Oberschenkeln abzusaugen, um eine schlankere Silhouette zu erhalten.
+  Marie *aspire* à devenir médecin depuis son enfance.
+  Marie *strebt* seit ihrer Kindheit danach, Ärztin zu werden.
 
-  Elle aspire à faire un voyage au Japon, un pays qui la fascine depuis toujours.
-  Sie strebt danach, eine Reise nach Japan zu unternehmen, einem Land, das sie schon immer fasziniert.
+  Le ventilateur *aspire* l'air chaud de la pièce.
+  Der Ventilator *saugt* die warme Luft aus dem Raum *ab*.
 
-  Après avoir été trahi par son ami, il aspirait à se venger.
-  Nachdem er von seinem Freund betrogen worden war, trachtete er nach Rache.
+  Nous *aspirons* tous à une vie meilleure.
+  Wir *sehnen* uns alle nach einem besseren Leben.
+
+  Le chirurgien a dû *aspirer* le liquide de ses poumons.
+  Der Chirurg musste die Flüssigkeit aus seiner Lunge *absaugen*.
+
+  Thomas *aspire* profondément l'odeur du café fraîchement moulu.
+  Thomas *saugt* den Duft des frisch gemahlenen Kaffees tief *ein*.
+
+  Cette pompe *aspire* l'eau du sous-sol inondé.
+  Diese Pumpe *saugt* das Wasser aus dem überfluteten Keller *ab*.
+
+  J'*aspire* seulement à la tranquillité dans ma retraite.
+  Ich *sehne* mich im Ruhestand nur nach Ruhe.
+
+  Le patient doit *aspirer* le médicament par le nez.
+  Der Patient muss das Medikament durch die Nase *einatmen*.
+
+  Elle *aspire* à la perfection dans tout ce qu'elle fait.
+  Sie *strebt* in allem, was sie tut, nach Perfektion.
+
+  La machine *aspire* les débris de construction.
+  Die Maschine *saugt* den Bauschutt *ab*.
+
+  Les sportifs *aspirent* à la victoire olympique.
+  Die Sportler *streben* nach dem olympischen Sieg.
+
+  Le chat *aspire* son lait avec délicatesse.
+  Die Katze *schlürft* ihre Milch behutsam.
+
+  Cette entreprise *aspire* à devenir leader du marché.
+  Dieses Unternehmen *strebt* danach, Marktführer zu werden.
+
+  Le bébé *aspire* goulûment son biberon.
+  Das Baby *saugt* gierig an seiner Flasche.
+
+  Les étudiants *aspirent* à réussir leurs examens.
+  Die Studenten *streben* danach, ihre Prüfungen zu bestehen.
+
+  La clinique propose d'*aspirer* les graisses par liposuccion.
+  Die Klinik bietet an, das Fett durch Liposuktion *abzusaugen*.
+
+  Nous devons *aspirer* lentement par le nez pendant la méditation.
+  Wir müssen während der Meditation langsam durch die Nase *einatmen*.
+
+  Le poète *aspire* à l'immortalité à travers ses œuvres.
+  Der Dichter *strebt* durch seine Werke nach Unsterblichkeit.
+
+  L'appareil *aspire* la fumée de soudure.
+  Das Gerät *saugt* den Schweißrauch *ab*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

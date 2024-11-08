@@ -13,29 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce conflit mine le quatrième pays le plus peuplé du monde.
-  Dieser Konflikt untergräbt das viertbevölkerungsreichste Land der Welt.
+  Ce conflit *mine* le quatrième pays le plus peuplé du monde.
+  Dieser Konflikt *zermürbt* das viertbevölkerungsreichste Land der Welt.
 
-  Ils ont commencé à miner la colline.
-  Sie haben begonnen, den Hügel abzubauen.
+  Les soldats ont *miné* tous les ponts avant de se retirer.
+  Die Soldaten haben vor ihrem Rückzug alle Brücken *vermint*.
 
-  L'humidité mine la pierre, la rendant poreuse et fragile.
-  Die Feuchtigkeit höhlt den Stein aus, macht ihn porös und brüchig.
+  L'humidité *mine* lentement les fondations de ce vieux château.
+  Die Feuchtigkeit *höhlt* langsam die Fundamente dieses alten Schlosses *aus*.
 
-  La maladie mine ses forces, le laissant faible et épuisé.
-  Die Krankheit zehrt seine Kräfte auf, lässt ihn schwach und erschöpft zurück.
+  Le chagrin *mine* sa santé depuis des années.
+  Der Kummer *zehrt* seit Jahren an seiner Gesundheit.
 
-  Le régime, miné de l'intérieur par la corruption et la dissidence, s'effondra sous le poids de ses propres contradictions.
-  Das von innen her morsche Staatssystem brach zusammen unter dem Gewicht seiner eigenen Widersprüche.
+  La corruption *mine* petit à petit notre système judiciaire.
+  Die Korruption *untergräbt* nach und nach unser Justizsystem.
 
-  Les excès ont miné sa santé, le rendant vulnérable aux maladies.
-  Die Maßlosigkeit hat seine Gesundheit ruiniert, ihn anfällig für Krankheiten gemacht.
+  "Je me *mine* la tête pour comprendre ce problème de maths."
+  "Ich *zerbreche* mir den Kopf wegen dieser Matheaufgabe."
 
-  Il est miné par le remords, incapable de trouver la paix intérieure.
-  Er ist von Gewissensbissen verzehrt, unfähig innere Ruhe zu finden.
+  Les vagues *minent* progressivement la falaise.
+  Die Wellen *höhlen* die Klippe allmählich *aus*.
 
-  Il est miné par le stress, incapable de se détendre et de profiter de la vie.
-  Er ist stressgeplagt, unfähig sich zu entspannen und das Leben zu genießen.
+  Il est complètement *miné* par le stress au travail.
+  Er ist von dem Stress bei der Arbeit völlig *zermürbt*.
+
+  La rivière *mine* ses berges pendant les crues.
+  Der Fluss *unterspült* seine Ufer während des Hochwassers.
+
+  Les termites ont *miné* toute la structure en bois.
+  Die Termiten haben die gesamte Holzstruktur *ausgehöhlt*.
+
+  Son addiction *mine* peu à peu sa vie sociale.
+  Seine Sucht *zerstört* nach und nach sein Sozialleben.
+
+  Les hackers *minent* du bitcoin jour et nuit.
+  Die Hacker *schürfen* Tag und Nacht Bitcoin.
+
+  L'armée a *miné* toute la zone frontalière.
+  Die Armee hat das gesamte Grenzgebiet *vermint*.
+
+  La jalousie *mine* leur relation depuis longtemps.
+  Die Eifersucht *zerfrisst* seit langem ihre Beziehung.
+
+  Ces petits insectes *minent* les feuilles des arbres.
+  Diese kleinen Insekten *minieren* die Blätter der Bäume.
+
+  L'inflation galopante *mine* l'économie du pays.
+  Die galoppierende Inflation *ruiniert* die Wirtschaft des Landes.
+
+  Le doute *mine* sa confiance en lui-même.
+  Der Zweifel *untergräbt* sein Selbstvertrauen.
+
+  Les manifestants ont évité le terrain *miné*.
+  Die Demonstranten haben das *verminte* Gelände umgangen.
+
+  La maladie *mine* ses forces jour après jour.
+  Die Krankheit *zehrt* Tag für Tag an seinen Kräften.
+
+  Le gel *mine* peu à peu les pierres de la façade.
+  Der Frost *zersetzt* nach und nach die Steine der Fassade.
+
+  Les scandales ont *miné* sa carrière politique.
+  Die Skandale haben seine politische Karriere *ruiniert*.
+
+  La désinformation *mine* la confiance dans les médias.
+  Die Desinformation *untergräbt* das Vertrauen in die Medien.
+
+  Le remords *mine* sa conscience depuis des années.
+  Die Gewissensbisse *plagen* ihn seit Jahren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

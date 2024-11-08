@@ -13,11 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Une femme tamoule est une personne vulnérable au Sri Lanka.
-  Eine tamilische Frau ist in Sri Lanka eine schutzbedürftige Person.
+  Une femme tamoule est une personne *vulnérable* au Sri Lanka.
+  Eine tamilische Frau ist im Sri Lanka eine *verletzliche* Person.
 
-  Les enfants sont particulièrement vulnérables.
-  Kinder sind besonders verletzlich.
+  Les tortues de mer sont une espèce *vulnérable* qui nécessite notre protection.
+  Meeresschildkröten sind eine *gefährdete* Art, die unseren Schutz braucht.
+
+  Son argumentation était très *vulnérable* et facile à réfuter.
+  Seine Argumentation war sehr *angreifbar* und leicht zu widerlegen.
+
+  La position de nos troupes est devenue *vulnérable* après cette manœuvre.
+  Die Position unserer Truppen wurde nach diesem Manöver *verwundbar*.
+
+  Le système informatique est particulièrement *vulnérable* aux cyberattaques.
+  Das Computersystem ist besonders *anfällig* für Cyberangriffe.
+
+  Les personnes âgées sont plus *vulnérables* aux infections respiratoires.
+  Ältere Menschen sind *anfälliger* für Atemwegsinfektionen.
+
+  Notre équipe est *vulnérable* au bridge, nous devons jouer prudemment.
+  Unser Team ist beim Bridge *verwundbar*, wir müssen vorsichtig spielen.
+
+  Son manque d'expérience le rend *vulnérable* aux arnaques.
+  Sein Mangel an Erfahrung macht ihn *anfällig* für Betrug.
+
+  Les enfants sont particulièrement *vulnérables* pendant les canicules.
+  Kinder sind während der Hitzewellen besonders *gefährdet*.
+
+  Cette nouvelle technologie reste *vulnérable* aux pannes.
+  Diese neue Technologie bleibt *anfällig* für Störungen.
+
+  La situation économique du pays est très *vulnérable* aux fluctuations du marché.
+  Die wirtschaftliche Situation des Landes ist sehr *verwundbar* gegenüber Marktschwankungen.
+
+  Les pandas géants restent une espèce *vulnérable* malgré les efforts de conservation.
+  Große Pandas bleiben trotz Schutzbemühungen eine *gefährdete* Art.
+
+  Le nouveau-né est particulièrement *vulnérable* aux infections.
+  Der Säugling ist besonders *anfällig* für Infektionen.
+
+  Cette région côtière est *vulnérable* aux ouragans.
+  Diese Küstenregion ist *anfällig* für Hurrikans.
+
+  Son cœur fragile le rend *vulnérable* à l'effort physique.
+  Sein schwaches Herz macht ihn *empfindlich* gegen körperliche Anstrengung.
+
+  Les petites entreprises sont *vulnérables* en période de crise.
+  Kleine Unternehmen sind in Krisenzeiten *verwundbar*.
+
+  Le château était *vulnérable* aux attaques par le côté sud.
+  Die Burg war an der Südseite *angreifbar*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

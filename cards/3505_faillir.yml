@@ -13,32 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai failli tout perdre.
-  Ich hätte fast alles verloren.
+  J'ai *failli* tout perdre.
+  Ich hätte *beinahe* alles verloren.
 
-  J’ai failli tomber.
-  Ich bin beinahe hingefallen.
+  Il a *failli* acheter cette voiture rouge, mais elle était trop chère.
+  Er hätte dieses rote Auto *fast* gekauft, aber es war zu teuer.
 
-  Il a failli acheter ce livre, mais il a finalement décidé de l'emprunter à la bibliothèque.
-  Er hätte das Buch beinahe gekauft, aber er hat sich letztendlich entschieden, es in der Bibliothek auszuleihen.
+  Marie a *failli* à sa promesse de venir à mon anniversaire.
+  Marie hat ihr Versprechen, zu meiner Geburtstagsfeier zu kommen, *gebrochen*.
 
-  Jean a failli à son devoir en ne rendant pas son travail à temps.
-  Jean hat seine Pflicht verletzt, indem er seine Arbeit nicht rechtzeitig abgegeben hat.
+  Je viendrai demain sans *faillir*.
+  Ich werde morgen ganz *bestimmt* kommen.
 
-  La famille a failli à la tradition en ne célébrant pas le Noël cette année.
-  Die Familie hat gegen die Tradition verstoßen, indem sie dieses Jahr Weihnachten nicht gefeiert hat.
+  La voiture a *failli* percuter un arbre dans le brouillard.
+  Das Auto wäre im Nebel *beinahe* gegen einen Baum geprallt.
 
-  Ma mémoire n'a pas failli, je me souviens encore de tout ce qui s'est passé.
-  Mein Gedächtnis hat mich nicht im Stich gelassen, ich erinnere mich noch an alles, was passiert ist.
+  Mon frère n'a jamais *failli* à ses amis dans les moments difficiles.
+  Mein Bruder hat seine Freunde in schwierigen Zeiten nie im *Stich gelassen*.
 
-  J'ai failli tomber, mais j'ai réussi à me rattraper à temps.
-  Ich wäre beinahe gefallen, aber ich habe es geschafft, mich rechtzeitig festzuhalten.
+  Pierre a *failli* à son devoir de père.
+  Pierre hat seine Vaterpflichten *vernachlässigt*.
 
-  Ça a failli marcher, mais finalement le plan a échoué.
-  Es hätte beinahe geklappt, aber letztendlich ist der Plan gescheitert.
+  Le pont a *failli* s'effondrer pendant la tempête.
+  Die Brücke wäre während des Sturms *fast* eingestürzt.
 
-  Il a failli à sa promesse, ce qui a déçu ses amis.
-  Er hat sein Versprechen gebrochen, was seine Freunde enttäuscht hat.
+  Sa mémoire lui a *failli* pendant l'examen.
+  Sein Gedächtnis hat ihn während der Prüfung im *Stich gelassen*.
+
+  Elle a *failli* à la tradition familiale en refusant le mariage.
+  Sie hat gegen die Familientradition *verstoßen*, indem sie die Heirat ablehnte.
+
+  Thomas a *failli* gagner la course.
+  Thomas hätte das Rennen *beinahe* gewonnen.
+
+  Le courage ne lui a jamais *failli*.
+  Der Mut hat sie nie im *Stich gelassen*.
+
+  L'équipe a *failli* remporter le championnat.
+  Die Mannschaft hätte die Meisterschaft *fast* gewonnen.
+
+  Sophie a *failli* à sa mission d'enseignante.
+  Sophie hat in ihrer Aufgabe als Lehrerin *versagt*.
+
+  J'ai *failli* me perdre dans la forêt hier soir.
+  Ich hätte mich gestern Abend im Wald *fast* verlaufen.
+
+  Le train a *failli* partir sans nous.
+  Der Zug wäre *beinahe* ohne uns abgefahren.
+
+  Elle a *failli* à sa parole en révélant le secret.
+  Sie hat ihr Wort *gebrochen*, als sie das Geheimnis verriet.
+
+  Le soleil a *failli* percer à travers les nuages.
+  Die Sonne wäre *fast* durch die Wolken gebrochen.
+
+  Mon cœur a *failli* s'arrêter quand j'ai vu l'accident.
+  Mein Herz wäre *beinahe* stehengeblieben, als ich den Unfall sah.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

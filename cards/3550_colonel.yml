@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le colonel voudrait vous voir immédiatement.
-  Der Oberst möchte Sie sofort sehen.
+  Le *colonel* voudrait vous voir immédiatement.
+  Der *Oberst* möchte Sie sofort sehen.
 
-  Le colonel a donné l’ordre de se préparer à l’attaque.
-  Der Oberst hat den Befehl gegeben, sich auf den Angriff vorzubereiten.
+  La *colonelle* Dubois dirige maintenant le régiment d'infanterie.
+  *Oberstin* Dubois leitet jetzt das Infanterieregiment.
+
+  Mon *colonel*, les nouvelles recrues sont arrivées ce matin.
+  Mein *Oberst*, die neuen Rekruten sind heute Morgen eingetroffen.
+
+  Le *colonel* d'artillerie a supervisé les exercices de tir.
+  Der Artillerie*oberst* hat die Schießübungen beaufsichtigt.
+
+  Après vingt ans de service, elle a été promue au grade de *colonelle*.
+  Nach zwanzig Jahren Dienst wurde sie zum *Oberst* befördert.
+
+  Le médecin-*colonel* a inspecté l'infirmerie militaire hier.
+  Der Sanitäts*oberst* hat gestern das Militärlazarett inspiziert.
+
+  Les cinq galons du *colonel* brillaient sur son uniforme.
+  Die fünf Rangabzeichen des *Oberst*s glänzten auf seiner Uniform.
+
+  Le *colonel* d'état-major participera à la réunion stratégique.
+  Der Generalstabs*oberst* wird an der strategischen Besprechung teilnehmen.
+
+  La *colonelle* Martinez commandera la base aérienne dès demain.
+  *Oberstin* Martinez wird ab morgen den Luftwaffenstützpunkt befehligen.
+
+  Notre *colonel* de gendarmerie a reçu une médaille pour ses services.
+  Unser Gendarmerie*oberst* hat einen Orden für seine Dienste erhalten.
+
+  Le *colonel* Laurent donnera un briefing à 14 heures précises.
+  *Oberst* Laurent wird um Punkt 14 Uhr ein Briefing geben.
+
+  Un nouveau *colonel* a été nommé à la tête de notre escadre.
+  Ein neuer *Oberst* wurde zum Kommandeur unseres Geschwaders ernannt.
+
+  La *colonelle* Richard supervisera l'entraînement des parachutistes.
+  *Oberstin* Richard wird das Training der Fallschirmjäger überwachen.
+
+  Le *colonel* a félicité les soldats pour leur excellent travail.
+  Der *Oberst* hat den Soldaten zu ihrer ausgezeichneten Arbeit gratuliert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

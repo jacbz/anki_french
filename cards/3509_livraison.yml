@@ -13,41 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La livraison du navire est prévue en avril.
-  Das Schiff soll im April ausgeliefert werden.
+  La *livraison* du navire est prévue en avril.
+  Die *Lieferung* des Schiffes ist für April geplant.
 
-  La livraison sera effectuée demain.
-  Die Lieferung wird morgen durchgeführt.
+  Le service de *livraison* à domicile est gratuit pour les commandes de plus de 50 euros.
+  Der Haus*liefer*dienst ist bei Bestellungen über 50 Euro kostenlos.
 
-  Nous offrons une livraison directe à nos clients.
-  Wir bieten unseren Kunden eine Direktlieferung an.
+  Marie a choisi la *livraison* express pour recevoir son colis demain.
+  Marie hat die Express*lieferung* gewählt, um ihr Paket morgen zu erhalten.
 
-  La livraison a été endommagée pendant le transport.
-  Die Lieferung wurde beim Transport beschädigt.
+  Cette entreprise propose la *livraison* franco domicile.
+  Diese Firma bietet die *Lieferung* frei Haus an.
 
-  Le fret a été transporté par le rail.
-  Die Fracht wurde per Bahn transportiert.
+  Nous effectuons les *livraisons* uniquement le matin.
+  Wir führen *Lieferungen* nur morgens durch.
 
-  La livraison franco domicile est incluse dans le prix.
-  Die Lieferung frei Haus ist im Preis inbegriffen.
+  Les frais de *livraison* sont inclus dans le prix.
+  Die *Liefer*kosten sind im Preis enthalten.
 
-  La livraison à domicile est possible pour tous les articles.
-  Eine Lieferung ins Haus ist für alle Artikel möglich.
+  Je n'ai pas encore pris *livraison* de ma nouvelle voiture.
+  Ich habe meinen neuen Wagen noch nicht ab*geholt*.
 
-  La livraison à terme est prévue pour le 15 décembre.
-  Die Terminlieferung ist für den 15. Dezember geplant.
+  La dernière *livraison* de la revue est arrivée hier.
+  Die letzte *Ausgabe* der Zeitschrift ist gestern angekommen.
 
-  La livraison fob est une méthode courante pour les marchandises volumineuses.
-  Die Fob-Lieferung ist eine gängige Methode für sperrige Güter.
+  La *livraison* partielle sera effectuée la semaine prochaine.
+  Die Teil*lieferung* wird nächste Woche durchgeführt.
 
-  La livraison de détail est effectuée par camion.
-  Die Stückgutlieferung wird per Lkw durchgeführt.
+  Le camion de *livraison* est en retard à cause des embouteillages.
+  Der *Liefer*wagen hat wegen des Staus Verspätung.
 
-  La livraison de marchandises est un service essentiel pour les entreprises.
-  Die Warenlieferung ist ein wichtiger Service für Unternehmen.
+  Nous avons reçu une *livraison* endommagée ce matin.
+  Wir haben heute Morgen eine beschädigte *Lieferung* erhalten.
 
-  La livraison contre paiement comptant est la seule option disponible.
-  Die Lieferung gegen bar ist die einzige verfügbare Option.
+  La *livraison* par le rail est plus écologique que par la route.
+  Die Bahn*lieferung* ist umweltfreundlicher als der Straßentransport.
+
+  Le délai de *livraison* est estimé à trois jours ouvrables.
+  Die *Liefer*zeit wird auf drei Werktage geschätzt.
+
+  Cette *livraison* non commandée doit être retournée immédiatement.
+  Diese unbestellte *Lieferung* muss sofort zurückgeschickt werden.
+
+  Veuillez vérifier l'état de la *livraison* avant de signer.
+  Bitte überprüfen Sie den Zustand der *Lieferung* vor der Unterschrift.
+
+  La *livraison* de remplacement arrivera demain matin.
+  Die Ersatz*lieferung* wird morgen früh eintreffen.
+
+  Le montant est payable à la *livraison*.
+  Der Betrag ist bei *Lieferung* zu zahlen.
+
+  Notre service de *livraison* couvre toute la région.
+  Unser *Liefer*service deckt die gesamte Region ab.
+
+  La première *livraison* de cette encyclopédie contient dix volumes.
+  Die erste *Lieferung* dieser Enzyklopädie enthält zehn Bände.
+
+  Nous acceptons la *livraison* uniquement pendant les heures de bureau.
+  Wir nehmen *Lieferungen* nur während der Bürozeiten an.
+
+  Cette *livraison* contre remboursement nécessite un paiement en espèces.
+  Diese *Lieferung* per Nachnahme erfordert eine Barzahlung.
+
+  La *livraison* directe permet d'économiser du temps.
+  Die Direkt*lieferung* spart Zeit.
+
+  J'attends une *livraison* de marchandises importante aujourd'hui.
+  Ich erwarte heute eine wichtige Waren*lieferung*.
+
+  Il y a eu un problème avec la dernière *livraison*.
+  Es gab ein Problem mit der letzten *Lieferung*.
+
+  Les conditions de *livraison* sont clairement indiquées sur le site.
+  Die *Liefer*bedingungen sind auf der Website klar angegeben.
+
+  La *livraison* supplémentaire n'était pas prévue dans le contrat.
+  Die Mehr*lieferung* war im Vertrag nicht vorgesehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

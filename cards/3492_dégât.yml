@@ -13,41 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils essaient de nettoyer les dégâts.
-  Sie versuchen, den Schaden zu beseitigen.
+  Ils essaient de nettoyer les *dégâts*.
+  Sie versuchen, die *Schäden* zu beseitigen.
 
-  Les dégâts causés par l’incendie sont considérables.
-  Der durch das Feuer verursachte Schaden ist erheblich.
+  L'inondation a fait des *dégâts* considérables dans la ville.
+  Das Hochwasser hat in der Stadt erhebliche *Schäden* verursacht.
 
-  Le tremblement de terre a causé des dégâts importants dans la ville.
-  Das Erdbeben hat in der Stadt einen Riesenschaden angerichtet.
+  "Il y a eu du *dégât* dans la cuisine après la fête d'hier !"
+  "In der Küche gab es nach der Party gestern eine *Katastrophe*!"
 
-  Il y a du dégât! La voiture a été complètement détruite.
-  Der Schaden ist ganz schön groß! Das Auto ist total kaputt.
+  Je ne suis pas assuré contre le *dégât* des eaux.
+  Ich bin nicht gegen *Wasser*schaden versichert.
 
-  Le jeune garçon a fait des dégâts dans la chambre.
-  Der Junge hat ganz schön wüst gehaust in dem Zimmer.
+  La tempête de grêle a causé des *dégâts* importants aux cultures.
+  Der Hagelsturm hat an den Kulturen große *Schäden* angerichtet.
 
-  Les pompiers ont réussi à limiter les dégâts après l'incendie.
-  Die Feuerwehr hat es geschafft, das Schlimmste nach dem Brand zu verhindern.
+  Les sangliers ont fait beaucoup de *dégâts* dans le champ de maïs.
+  Die Wildschweine haben auf dem Maisfeld großen *Flur*schaden angerichtet.
 
-  Bonjour les dégâts! J'ai oublié de fermer le robinet et maintenant il y a de l'eau partout.
-  Da haben wir den Salat! Ich habe vergessen, den Wasserhahn zu schließen, und jetzt ist überall Wasser.
+  Nous devons *limiter les dégâts* avant qu'il ne soit trop tard.
+  Wir müssen den *Schaden begrenzen*, bevor es zu spät ist.
 
-  Je ne suis pas assuré pour le dégât des eaux, alors je dois payer les réparations moi-même.
-  Ich bin gegen Wasserschaden nicht versichert, deshalb muss ich die Reparatur selbst bezahlen.
+  L'ampleur des *dégâts* n'a été visible qu'au lever du jour.
+  Das Ausmaß der *Schäden* wurde erst bei Tagesanbruch sichtbar.
 
-  Ils m'ont fait du dégât! Ils ont cassé mon vélo et mon téléphone.
-  Die haben ganz schön wüst gehaust! Sie haben mein Fahrrad und mein Handy kaputt gemacht.
+  Les *dégâts matériels* sont couverts par l'assurance.
+  Der *Sach*schaden wird von der Versicherung übernommen.
 
-  L'ampleur des dégâts après l'ouragan était impressionnante.
-  Das Ausmaß des Schadens nach dem Hurrikan war beeindruckend.
+  Le cyclone a provoqué des *dégâts* catastrophiques sur la côte.
+  Der Zyklon hat an der Küste katastrophale *Schäden* verursacht.
 
-  L'inondation a fait des dégâts importants dans les maisons et les commerces.
-  Das Hochwasser hat Schäden in den Häusern und Geschäften verursacht.
+  "Les enfants ont fait pas mal de *dégâts* dans le salon."
+  "Die Kinder haben im Wohnzimmer ziemlich viel *Schaden* angerichtet."
 
-  Le camion a causé des dégâts importants sur la route en raison de sa surcharge.
-  Der LKW hat durch seine Überladung einen beträchtlichen Flurschaden auf der Straße angerichtet.
+  Les experts évaluent les *dégâts* causés par l'incendie.
+  Die Experten bewerten die durch das Feuer verursachten *Schäden*.
+
+  Le tabagisme cause des *dégâts* irréversibles aux poumons.
+  Das Rauchen verursacht irreversible *Schäden* an der Lunge.
+
+  Une fuite d'eau a causé des *dégâts* dans l'appartement du dessous.
+  Ein Wasserleck hat in der Wohnung darunter *Schäden* verursacht.
+
+  L'accident n'a heureusement causé que des *dégâts matériels* légers.
+  Der Unfall hat glücklicherweise nur leichten *Sach*schaden verursacht.
+
+  Les *dégâts* causés par la sécheresse sont considérables cette année.
+  Die durch die Dürre verursachten *Schäden* sind dieses Jahr beträchtlich.
+
+  La direction doit constater les *dégâts* avant de prendre une décision.
+  Die Leitung muss die *Schäden* begutachten, bevor sie eine Entscheidung trifft.
+
+  Les pompiers ont réussi à *limiter les dégâts* malgré la violence de l'incendie.
+  Der Feuerwehr gelang es trotz der Heftigkeit des Brandes, den *Schaden zu begrenzen*.
+
+  Le vandalisme a causé des *dégâts* importants au monument historique.
+  Der Vandalismus hat am historischen Denkmal erhebliche *Schäden* verursacht.
+
+  Mon voisin est responsable du *dégât* des eaux dans ma cave.
+  Mein Nachbar ist für den *Wasser*schaden in meinem Keller verantwortlich.
+
+  Les *dégâts* sur la voiture sont plus graves que prévu.
+  Die *Schäden* am Auto sind schlimmer als erwartet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,14 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce qui se conçoit bien s’énonce clairement.
-  Was man sich gut vorstellen kann, lässt sich auch klar ausdrücken.
+  Ce qui se conçoit bien s'*énonce* clairement.
+  Was man gut versteht, lässt sich klar *ausdrücken*.
 
-  Il a eu du mal à énoncer sa demande.
-  Er hatte Schwierigkeiten, seine Anfrage zu formulieren.
+  Dans son discours, elle a *énoncé* trois points principaux.
+  In ihrer Rede hat sie drei Hauptpunkte klar *dargelegt*.
 
-  Il faut s'énoncer clairement pour être compris de tous.
-  Es ist wichtig, sich klar auszudrücken, um von allen verstanden zu werden.
+  Le professeur *énonçait* les règles de grammaire lentement et précisément.
+  Der Lehrer hat die Grammatikregeln langsam und präzise *ausgesprochen*.
+
+  Cette vérité a été *énoncée* il y a des siècles.
+  Diese Wahrheit wurde vor Jahrhunderten *ausgesprochen*.
+
+  Pourriez-vous *énoncer* clairement vos attentes ?
+  Könnten Sie Ihre Erwartungen klar *darlegen*?
+
+  Les faits doivent s'*énoncer* de manière objective.
+  Die Fakten müssen objektiv *dargelegt* werden.
+
+  Le théorème de Pythagore s'*énonce* ainsi.
+  Der Satz des Pythagoras *lautet* folgendermaßen.
+
+  Il faut *énoncer* les données du problème avant de le résoudre.
+  Man muss die Aufgabenstellung *formulieren*, bevor man sie löst.
+
+  La loi s'*énonce* de façon très simple.
+  Das Gesetz lässt sich sehr einfach *formulieren*.
+
+  Le ministre a *énoncé* les nouvelles mesures lors d'une conférence de presse.
+  Der Minister hat die neuen Maßnahmen auf einer Pressekonferenz *verkündet*.
+
+  Cette idée peut s'*énoncer* plus simplement.
+  Diese Idee lässt sich einfacher *ausdrücken*.
+
+  Les témoins ont *énoncé* les faits devant le tribunal.
+  Die Zeugen haben die Tatsachen vor Gericht *dargelegt*.
+
+  Le philosophe *énonçait* ses pensées avec une grande clarté.
+  Der Philosoph hat seine Gedanken mit großer Klarheit *formuliert*.
+
+  Avant de commencer l'exercice, je vais *énoncer* les consignes.
+  Bevor wir mit der Übung beginnen, werde ich die Anweisungen *formulieren*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

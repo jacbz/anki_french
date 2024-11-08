@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ma question n’était pas purement théorique.
-  Meine Frage war nicht rein theoretisch.
+  Ma question n'était pas purement *théorique*.
+  Meine Frage war nicht rein *theoretisch*.
 
-  C’est une approche purement théorique.
-  Das ist ein rein theoretischer Ansatz.
+  Les concepts *théoriques* de la physique quantique sont difficiles à comprendre.
+  Die *theoretischen* Konzepte der Quantenphysik sind schwer zu verstehen.
 
-  Ce livre est très théorique et manque d'exemples concrets.
-  Dieses Buch ist sehr theoretisch und es fehlen konkrete Beispiele.
+  L'heure *théorique* d'arrivée du train est 15h30.
+  Die *theoretische* Ankunftszeit des Zuges ist 15:30 Uhr.
 
-  Le professeur a donné un cours très théorique, ce qui a ennuyé les étudiants.
-  Der Professor hat einen sehr theoretischen Unterricht gegeben, was die Studenten gelangweilt hat.
+  Ce livre est trop *théorique* pour des débutants.
+  Dieses Buch ist zu *theorielastig* für Anfänger.
+
+  La formation combine des aspects *théoriques* et pratiques.
+  Die Ausbildung verbindet *theoretische* und praktische Aspekte.
+
+  Cette possibilité reste purement *théorique*.
+  Diese Möglichkeit bleibt rein *theoretisch*.
+
+  Les mathématiques *théoriques* m'ont toujours fasciné.
+  Die *theoretische* Mathematik hat mich schon immer fasziniert.
+
+  L'égalité entre les citoyens n'est pas seulement *théorique*.
+  Die Gleichheit zwischen den Bürgern ist nicht nur *theoretisch*.
+
+  Le cours *théorique* sera suivi d'exercices pratiques.
+  Dem *theoretischen* Unterricht folgen praktische Übungen.
+
+  Cette approche *théorique* ne correspond pas à la réalité.
+  Dieser *theoretische* Ansatz entspricht nicht der Realität.
+
+  Les recherches *théoriques* ont mené à des applications concrètes.
+  Die *theoretischen* Forschungen haben zu konkreten Anwendungen geführt.
+
+  Le candidat a de bonnes connaissances *théoriques*.
+  Der Kandidat hat gute *theoretische* Kenntnisse.
+
+  La vitesse *théorique* maximale est de 300 km/h.
+  Die *theoretische* Höchstgeschwindigkeit beträgt 300 km/h.
+
+  Ces calculs *théoriques* doivent être vérifiés expérimentalement.
+  Diese *theoretischen* Berechnungen müssen experimentell überprüft werden.
+
+  L'examen comportera une partie *théorique* et une partie pratique.
+  Die Prüfung besteht aus einem *theoretischen* und einem praktischen Teil.
+
+  La réussite *théorique* du projet dépend de nombreux facteurs.
+  Der *theoretische* Erfolg des Projekts hängt von vielen Faktoren ab.
+
+  Le modèle *théorique* ne prend pas en compte tous les paramètres.
+  Das *theoretische* Modell berücksichtigt nicht alle Parameter.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

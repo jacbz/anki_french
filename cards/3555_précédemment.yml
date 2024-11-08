@@ -13,11 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai développé tout ceci précédemment.
-  Ich habe all dies zuvor entwickelt.
+  J'ai développé tout ceci *précédemment*.
+  Ich habe all dies *zuvor* entwickelt.
 
-  Précédemment, j’ai travaillé pour une entreprise de technologie.
-  Zuvor habe ich für ein Technologieunternehmen gearbeitet.
+  Comme je l'ai mentionné *précédemment*, nous devons agir rapidement.
+  Wie ich *vorher* erwähnt habe, müssen wir schnell handeln.
+
+  Cette méthode a été testée *précédemment* avec succès.
+  Diese Methode wurde *früher* erfolgreich getestet.
+
+  Les résultats *précédemment* obtenus sont très prometteurs.
+  Die *zuvor* erzielten Ergebnisse sind sehr vielversprechend.
+
+  *Précédemment*, nous habitions dans un petit village près de la mer.
+  *Vorher* wohnten wir in einem kleinen Dorf am Meer.
+
+  La situation est plus complexe que *précédemment*.
+  Die Situation ist komplexer als *zuvor*.
+
+  L'article *précédemment* publié contenait quelques erreurs.
+  Der *vorher* veröffentlichte Artikel enthielt einige Fehler.
+
+  Je n'ai jamais *précédemment* rencontré ce type de problème.
+  Ich bin *früher* nie auf diese Art von Problem gestoßen.
+
+  *Précédemment*, il travaillait comme professeur dans une école primaire.
+  *Zuvor* arbeitete er als Lehrer in einer Grundschule.
+
+  La version *précédemment* installée fonctionnait mieux.
+  Die *zuvor* installierte Version funktionierte besser.
+
+  Avez-vous déjà *précédemment* visité ce musée ?
+  Haben Sie dieses Museum schon *früher* besucht?
+
+  Les documents *précédemment* cités confirment notre hypothèse.
+  Die *vorher* zitierten Dokumente bestätigen unsere Hypothese.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

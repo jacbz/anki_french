@@ -13,14 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Certains témoins ont accepté de comparaître devant nous.
-  Einige Zeugen haben sich bereit erklärt, vor uns zu erscheinen.
+  Certains témoins ont accepté de *comparaître* devant nous.
+  Einige Zeugen haben zugestimmt, vor uns zu *erscheinen*.
 
-  Il doit comparaître devant le juge demain.
-  Er muss morgen vor dem Richter erscheinen.
+  Le suspect devra *comparaître* devant le tribunal la semaine prochaine.
+  Der Verdächtige muss nächste Woche vor Gericht *erscheinen*.
 
-  Le suspect devra comparaître devant le juge demain matin.
-  Der Verdächtige muss morgen früh vor dem Richter erscheinen.
+  L'accusé a refusé de *comparaître* en personne et a envoyé son avocat.
+  Der Angeklagte weigerte sich, persönlich zu *erscheinen* und schickte seinen Anwalt.
+
+  Elle a été citée à *comparaître* devant le juge d'instruction.
+  Sie wurde aufgefordert, vor dem Untersuchungsrichter zu *erscheinen*.
+
+  Mon voisin doit *comparaître* devant le conseil de discipline pour son comportement.
+  Mein Nachbar muss wegen seines Verhaltens vor dem Disziplinarausschuss *erscheinen*.
+
+  Les deux parties doivent *comparaître* au tribunal lundi prochain.
+  Beide Parteien müssen am nächsten Montag vor Gericht *erscheinen*.
+
+  Après sa mort, chacun devra *comparaître* devant Dieu.
+  Nach seinem Tod wird jeder vor Gott *erscheinen* müssen.
+
+  Le témoin peut *comparaître* par visioconférence si nécessaire.
+  Der Zeuge kann bei Bedarf per Videokonferenz *erscheinen*.
+
+  La loi l'oblige à *comparaître* devant la commission d'enquête.
+  Das Gesetz verpflichtet ihn, vor dem Untersuchungsausschuss zu *erscheinen*.
+
+  Les employés devront *comparaître* devant la direction pour s'expliquer.
+  Die Mitarbeiter werden vor der Geschäftsleitung *erscheinen* müssen, um sich zu erklären.
+
+  Il a été sommé de *comparaître* immédiatement devant le magistrat.
+  Er wurde aufgefordert, unverzüglich vor dem Richter zu *erscheinen*.
+
+  Le patron a ordonné à tous les employés de *comparaître* dans son bureau.
+  Der Chef hat allen Mitarbeitern befohlen, in seinem Büro zu *erscheinen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

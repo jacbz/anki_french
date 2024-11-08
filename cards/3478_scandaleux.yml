@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le coût des études est devenu scandaleux.
-  Die Kosten für das Studium sind mittlerweile skandalös hoch.
+  Le coût des études est devenu *scandaleux*.
+  Die Studienkosten sind *unverschämt* geworden.
 
-  Son comportement était scandaleux.
-  Sein Verhalten war skandalös.
+  Les prix du logement dans cette ville sont *scandaleux*.
+  Die Wohnungspreise in dieser Stadt sind *unverschämt*.
 
-  Il est scandaleux que ce soit permis de conduire sans permis.
-  Es ist ein Skandal, dass es erlaubt ist, ohne Führerschein zu fahren.
+  Cette entreprise applique des pratiques commerciales *scandaleuses*.
+  Dieses Unternehmen wendet *skandalöse* Geschäftspraktiken an.
 
-  La chronique scandaleuse traitait de l'affaire de corruption du maire.
-  Die Skandalberichte befassten sich mit der Korruptionsaffäre des Bürgermeisters.
+  Il est *scandaleux* que personne n'ait réagi face à cette injustice.
+  Es ist ein *Skandal*, dass niemand auf diese Ungerechtigkeit reagiert hat.
+
+  Le comportement de ce politicien est vraiment *scandaleux*.
+  Das Verhalten dieses Politikers ist wirklich *skandalös*.
+
+  La presse a publié tous les détails de la chronique *scandaleuse*.
+  Die Presse hat alle Details der *Skandal*berichte veröffentlicht.
+
+  Cette personne est devenue *scandaleuse* par ses remarques déplacées.
+  Diese Person ist durch ihre unangebrachten Bemerkungen *unmöglich* geworden.
+
+  Les conditions de travail dans cette usine sont *scandaleuses*.
+  Die Arbeitsbedingungen in dieser Fabrik sind *skandalös*.
+
+  La vie *scandaleuse* de cette célébrité fait la une des journaux.
+  Das *skandalumwitterte* Leben dieses Stars macht Schlagzeilen.
+
+  Cette augmentation des impôts est tout simplement *scandaleuse*.
+  Diese Steuererhöhung ist schlichtweg *unverschämt*.
+
+  Les médias ont révélé les détails *scandaleux* de cette affaire.
+  Die Medien haben die *skandalösen* Details dieser Affäre enthüllt.
+
+  Ces accusations *scandaleuses* ont ruiné sa réputation.
+  Diese *skandalösen* Anschuldigungen haben seinen Ruf ruiniert.
+
+  La qualité *scandaleuse* du service a provoqué de nombreuses plaintes.
+  Die *skandalöse* Servicequalität hat zu vielen Beschwerden geführt.
+
+  Cette attente est vraiment *scandaleuse* aux urgences.
+  Diese Wartezeit in der Notaufnahme ist wirklich *unverschämt*.
+
+  Le gaspillage alimentaire dans ce restaurant est *scandaleux*.
+  Die Lebensmittelverschwendung in diesem Restaurant ist *skandalös*.
+
+  Les révélations *scandaleuses* ont secoué toute l'industrie.
+  Die *skandalösen* Enthüllungen haben die ganze Branche erschüttert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

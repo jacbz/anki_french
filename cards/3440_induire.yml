@@ -13,26 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je ne veux pas vous induire en erreur.
-  Ich möchte Sie nicht in die Irre führen.
+  Je ne veux pas vous *induire* en erreur.
+  Ich möchte Sie nicht *irreführen*.
 
-  Il a induit son ami en erreur.
-  Er hat seinen Freund in die Irre geführt.
+  La fatigue peut *induire* des erreurs de jugement.
+  Müdigkeit kann Fehleinschätzungen *herbeiführen*.
 
-  Leur manque de respect a induit Sophie à les quitter.
-  Ihr respektloses Verhalten hat Sophie dazu getrieben, sie zu verlassen.
+  Les données scientifiques nous ont *induits* à revoir notre hypothèse.
+  Die wissenschaftlichen Daten haben uns dazu *veranlasst*, unsere Hypothese zu überdenken.
 
-  On induit de son silence qu'il est d'accord.
-  Man schließt aus seinem Schweigen, dass er einverstanden ist.
+  Ces résultats *induisent* une nouvelle théorie.
+  Diese Ergebnisse *lassen* eine neue Theorie *folgern*.
 
-  La crise, induite par la récession, a frappé de plein fouet l'industrie automobile.
-  Die Krise, die rezessionsbedingt war, hat die Automobilindustrie schwer getroffen.
+  La publicité l'a *induite* à acheter ce produit inutile.
+  Die Werbung hat sie dazu *verleitet*, dieses nutzlose Produkt zu kaufen.
 
-  Le faux témoignage a induit le jury en erreur.
-  Das falsche Zeugnis hat die Jury in die Irre geführt.
+  Le développement du quartier a *induit* la création de nouveaux commerces.
+  Die Entwicklung des Viertels hat die Entstehung neuer Geschäfte *herbeigeführt*.
 
-  Les résultats de l'étude induisent de que l'hypothèse est bonne.
-  Die Ergebnisse der Studie lassen schließen, dass die Annahme richtig ist.
+  Que peut-on *induire* de son comportement ?
+  Was können wir aus seinem Verhalten *schließen*?
+
+  Le stress chronique peut *induire* des problèmes de santé.
+  Chronischer Stress kann gesundheitliche Probleme *herbeiführen*.
+
+  Cette nouvelle technologie a *induit* des changements significatifs.
+  Diese neue Technologie hat bedeutende Veränderungen *herbeigeführt*.
+
+  Son silence m'a *induit* à penser qu'il était d'accord.
+  Sein Schweigen hat mich dazu *gebracht* zu denken, dass er einverstanden war.
+
+  L'aimant *induit* un courant dans le fil de cuivre.
+  Der Magnet *induziert* einen Strom im Kupferdraht.
+
+  La croissance économique a *induit* une hausse des prix.
+  Das Wirtschaftswachstum hat einen Preisanstieg *herbeigeführt*.
+
+  Ces observations nous ont *induits* à changer de méthode.
+  Diese Beobachtungen haben uns dazu *veranlasst*, die Methode zu ändern.
+
+  Les hormones peuvent *induire* des changements physiques.
+  Hormone können körperliche Veränderungen *hervorrufen*.
+
+  La curiosité l'a *induit* à poser plus de questions.
+  Die Neugier hat ihn dazu *verleitet*, mehr Fragen zu stellen.
+
+  Le champ magnétique *induit* une force électromotrice.
+  Das Magnetfeld *induziert* eine elektromotorische Kraft.
+
+  Ses paroles m'ont *induit* en tentation.
+  Seine Worte haben mich in *Versuchung* geführt.
+
+  Cette musique peut *induire* un état de relaxation.
+  Diese Musik kann einen Entspannungszustand *herbeiführen*.
+
+  Les preuves nous ont *induits* à cette conclusion.
+  Die Beweise haben uns zu diesem Schluss *geführt*.
+
+  Sa réponse ambiguë m'a *induit* en erreur.
+  Seine mehrdeutige Antwort hat mich *irregeführt*.
+
+  Le changement climatique *induit* des modifications écologiques.
+  Der Klimawandel *führt* ökologische Veränderungen *herbei*.
+
+  Les résultats positifs ont *induit* un sentiment d'optimisme.
+  Die positiven Ergebnisse haben ein Gefühl von Optimismus *hervorgerufen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

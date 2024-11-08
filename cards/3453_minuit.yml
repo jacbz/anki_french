@@ -13,26 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elles se sont endormies peu après minuit.
-  Sie schliefen kurz nach Mitternacht ein.
+  Elles se sont endormies peu après *minuit*.
+  Sie sind kurz nach *Mitternacht* eingeschlafen.
 
-  Le train part à minuit.
-  Der Zug fährt um Mitternacht ab.
+  Le train de *minuit* est souvent le dernier de la journée.
+  Der *Mitternachts*zug ist oft der letzte des Tages.
 
-  C’est après minuit.
-  Es ist nach Mitternacht.
+  Paul arrivera à *minuit* et demi.
+  Paul kommt um halb eins *nachts*.
 
-  Il est presque minuit.
-  Es ist fast Mitternacht.
+  En été, le soleil de *minuit* est un spectacle magique en Norvège.
+  Die *Mitternachts*sonne ist im Sommer in Norwegen ein magisches Schauspiel.
 
-  Il est arrivé à minuit.
-  Er kam um Mitternacht an.
+  La messe de *minuit* est une tradition de Noël importante.
+  Die *Mitternachts*mette ist eine wichtige Weihnachtstradition.
 
-  Je dois être rentré chez moi pour minuit.
-  Ich muss bis Mitternacht zu Hause sein.
+  Les douze coups de *minuit* ont retenti dans toute la ville.
+  Die zwölf Schläge der *Mitternacht* hallten durch die ganze Stadt.
 
-  Le train de minuit est arrivé à minuit et demi.
-  Der Zwölfuhrzug ist um halb ein Uhr angekommen.
+  Sur le coup de *minuit*, elle a quitté le bal.
+  Punkt *Mitternacht* verließ sie den Ball.
+
+  Je dois rentrer avant *minuit*.
+  Ich muss vor *Mitternacht* zu Hause sein.
+
+  À *minuit* sonnant, le carrosse se transformera en citrouille.
+  Wenn es *Mitternacht* schlägt, wird sich die Kutsche in einen Kürbis verwandeln.
+
+  Le jour commence officiellement à *minuit*.
+  Der Tag beginnt offiziell um *Mitternacht*.
+
+  "Faisons un bain de *minuit*!"
+  "Lass uns ein *Mitternachts*bad nehmen!"
+
+  Il est *minuit* sonné, je vais me coucher.
+  Es ist schon nach *Mitternacht*, ich gehe ins Bett.
+
+  Vers *minuit*, la fête battait son plein.
+  Gegen *Mitternacht* war die Party in vollem Gange.
+
+  Je travaille jusqu'à *minuit* aujourd'hui.
+  Ich arbeite heute bis *Mitternacht*.
+
+  Le restaurant ferme ses portes à *minuit*.
+  Das Restaurant schließt um *Mitternacht*.
+
+  À *minuit*, nous nous sommes souhaité la bonne année.
+  Um *Mitternacht* haben wir uns ein frohes neues Jahr gewünscht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

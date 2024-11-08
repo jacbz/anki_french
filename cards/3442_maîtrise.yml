@@ -13,29 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La maîtrise de la douleur semblait être l’autre problème.
-  Die Beherrschung von Schmerzen schien das andere Problem zu sein.
+  La *maîtrise* de la douleur semblait être l'autre problème.
+  Die *Kontrolle* des Schmerzes schien das andere Problem zu sein.
 
-  Il a une grande maîtrise de la langue française.
-  Er beherrscht die französische Sprache sehr gut.
+  Elle fait preuve d'une excellente *maîtrise* de l'allemand.
+  Sie zeigt eine ausgezeichnete *Beherrschung* der deutschen Sprache.
 
-  Il s'agit d'une entreprise qui a une maîtrise de fabrication exceptionnelle.
-  Das ist ein Unternehmen, das eine hervorragende Fertigungskontrolle hat.
+  La *maîtrise* de soi est essentielle dans les situations de stress.
+  *Selbstbeherrschung* ist in Stresssituationen unerlässlich.
 
-  Le gouvernement a fait preuve de maîtrise de l'inflation cette année.
-  Die Regierung hat in diesem Jahr eine gute Inflationsbeherrschung gezeigt.
+  J'ai perdu la *maîtrise* de ma voiture sur la route glissante.
+  Ich habe die *Kontrolle* über mein Auto auf der glatten Straße verloren.
 
-  Les États-Unis ont une longue histoire de maîtrise des mers.
-  Die Vereinigten Staaten haben eine lange Geschichte der Seeherrschaft.
+  La *maîtrise* des mers était cruciale pendant la guerre.
+  Die See*herrschaft* war während des Krieges entscheidend.
 
-  Le roi avait une maîtrise totale du territoire.
-  Der König hatte die absolute Herrschaft über das Gebiet.
+  Son mémoire de *maîtrise* porte sur la littérature médiévale.
+  Seine *Magister*arbeit beschäftigt sich mit mittelalterlicher Literatur.
 
-  J'ai perdu la maîtrise de mon véhicule sur la route glissante.
-  Ich habe auf der glatten Straße die Kontrolle über mein Fahrzeug verloren.
+  La *maîtrise* de la cathédrale donnera un concert ce soir.
+  Die *Kantorei* des Doms wird heute Abend ein Konzert geben.
 
-  Il est important de développer la maîtrise de soi pour réussir dans la vie.
-  Es ist wichtig, Selbstbeherrschung zu entwickeln, um im Leben erfolgreich zu sein.
+  Il a obtenu sa *maîtrise* en sciences politiques.
+  Er hat seinen *Magister* in Politikwissenschaft erworben.
+
+  La *maîtrise* du territoire nécessite plus de troupes.
+  Die *Herrschaft* über das Gebiet erfordert mehr Truppen.
+
+  La *maîtrise* de l'inflation reste notre priorité économique.
+  Die *Beherrschung* der Inflation bleibt unsere wirtschaftliche Priorität.
+
+  La *maîtrise* a exécuté le morceau avec perfection.
+  Der *Chor* hat das Stück perfekt aufgeführt.
+
+  Les agents de *maîtrise* supervisent le travail des ouvriers.
+  Die *leitenden* Angestellten überwachen die Arbeit der Arbeiter.
+
+  Il joue du piano avec une parfaite *maîtrise*.
+  Er spielt das Klavier mit perfekter *Beherrschung*.
+
+  Sa *maîtrise* technique impressionne tous les experts.
+  Sein technisches *Können* beeindruckt alle Experten.
+
+  La *maîtrise* du marché par cette entreprise inquiète les autorités.
+  Die *Beherrschung* des Marktes durch dieses Unternehmen beunruhigt die Behörden.
+
+  Elle a retrouvé sa *maîtrise* après quelques secondes de panique.
+  Sie gewann ihre *Selbstkontrolle* nach einigen Sekunden der Panik zurück.
+
+  La *maîtrise* de fabrication doit être améliorée.
+  Die Fertigungs*kontrolle* muss verbessert werden.
+
+  Cette *maîtrise* en mathématiques ouvre beaucoup de portes.
+  Dieser *Magister*abschluss in Mathematik eröffnet viele Türen.
+
+  La *maîtrise* de l'espace aérien est stratégiquement importante.
+  Die Luft*herrschaft* ist strategisch wichtig.
+
+  Sa *maîtrise* du sujet est impressionnante.
+  Seine *Beherrschung* des Themas ist beeindruckend.
+
+  Les enfants de la *maîtrise* répètent tous les jours.
+  Die Kinder der *Kantorei* proben jeden Tag.
+
+  La *maîtrise* des coûts est essentielle pour notre entreprise.
+  Die *Kontrolle* der Kosten ist für unser Unternehmen essentiell.
+
+  Il a montré une parfaite *maîtrise* de ses émotions pendant le débat.
+  Er zeigte eine perfekte *Beherrschung* seiner Gefühle während der Debatte.
+
+  La *maîtrise* des nouvelles technologies est indispensable aujourd'hui.
+  Die *Beherrschung* der neuen Technologien ist heute unerlässlich.
+
+  Le candidat doit avoir une bonne *maîtrise* du français.
+  Der Kandidat muss gute *Kenntnisse* der französischen Sprache haben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

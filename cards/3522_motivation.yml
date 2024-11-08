@@ -13,23 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cet assassinat n’aurait pas de motivations politiques.
-  Dieser Mord sei nicht politisch motiviert gewesen.
+  Cet assassinat n'aurait pas de *motivations* politiques.
+  Dieser Mordanschlag hätte keine politischen *Motive*.
 
-  La motivation est importante pour réussir.
-  Motivation ist wichtig, um erfolgreich zu sein.
+  Sa *motivation* principale était d'apprendre le japonais.
+  Seine wichtigste *Motivation* war es, Japanisch zu lernen.
 
-  La décision du gouvernement de fermer les écoles était motivée par la crainte d'une nouvelle vague de contamination.
-  Der Grund für die Entscheidung der Regierung, die Schulen zu schließen, war die Angst vor einer neuen Infektionswelle.
+  La *motivation* du refus doit être clairement expliquée dans la lettre.
+  Die *Begründung* der Ablehnung muss im Brief klar erklärt werden.
 
-  Il a joint une lettre de motivation à son CV.
-  Er hat seinem Lebenslauf ein Bewerbungsschreiben beigefügt.
+  J'ai envoyé ma lettre de *motivation* hier soir.
+  Ich habe gestern Abend mein *Bewerbungs*schreiben verschickt.
 
-  La motivation de la demande portait sur un différend de voisinage.
-  Die Klagebegründung bezog sich auf einen Nachbarschaftsstreit.
+  Sans *motivation*, il est difficile d'atteindre ses objectifs.
+  Ohne *Motivation* ist es schwer, seine Ziele zu erreichen.
 
-  La recherche de motivation est un domaine fascinant de la psychologie.
-  Motivforschung ist ein faszinierendes Gebiet der Psychologie.
+  La *motivation* des élèves augmente quand ils voient leurs progrès.
+  Die *Motivation* der Schüler steigt, wenn sie ihre Fortschritte sehen.
+
+  Les chercheurs étudient la *motivation* des consommateurs.
+  Die Forscher untersuchen die *Motivation* der Verbraucher.
+
+  Elle a perdu toute sa *motivation* après cet échec.
+  Sie hat nach diesem Misserfolg ihre ganze *Motivation* verloren.
+
+  La *motivation* du jugement sera communiquée la semaine prochaine.
+  Die *Begründung* des Urteils wird nächste Woche mitgeteilt.
+
+  Quelle est ta *motivation* pour devenir médecin ?
+  Was ist deine *Motivation*, Arzt zu werden?
+
+  Les professeurs cherchent à stimuler la *motivation* des étudiants.
+  Die Lehrer versuchen, die *Motivation* der Studenten zu fördern.
+
+  Une forte *motivation* est la clé du succès.
+  Eine starke *Motivation* ist der Schlüssel zum Erfolg.
+
+  La *motivation* de cette décision n'est pas claire.
+  Der *Grund* für diese Entscheidung ist nicht klar.
+
+  Notre équipe manque de *motivation* ces derniers temps.
+  Unserem Team fehlt in letzter Zeit die *Motivation*.
+
+  Les études de *motivation* montrent que les clients préfèrent les produits locaux.
+  Die *Motiv*forschung zeigt, dass die Kunden lokale Produkte bevorzugen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

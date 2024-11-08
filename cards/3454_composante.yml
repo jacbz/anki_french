@@ -13,11 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Certaines composantes de son environnement sont plastiques.
-  Einige Komponenten seiner Umgebung sind plastisch.
+  Certaines *composantes* de son environnement sont plastiques.
+  Einige *Komponenten* seiner Umgebung sind aus Kunststoff.
 
-  Les différentes composantes du projet doivent être examinées.
-  Die verschiedenen Bestandteile des Projekts müssen untersucht werden.
+  Les *composantes* de ce système sont trop complexes pour être expliquées simplement.
+  Die *Komponenten* dieses Systems sind zu komplex, um sie einfach zu erklären.
+
+  Les *composantes* du vecteur nous permettent de calculer sa direction.
+  Die *Komponenten* des Vektors ermöglichen uns, seine Richtung zu berechnen.
+
+  La confiance est une *composante* essentielle de toute relation.
+  Vertrauen ist eine wesentliche *Komponente* jeder Beziehung.
+
+  Nous devons examiner toutes les *composantes* de cette décision.
+  Wir müssen alle *Komponenten* dieser Entscheidung prüfen.
+
+  Cette *composante* électronique doit être remplacée immédiatement.
+  Diese elektronische *Komponente* muss sofort ersetzt werden.
+
+  Les *composantes* sociales et économiques influencent fortement ce phénomène.
+  Die sozialen und wirtschaftlichen *Komponenten* beeinflussen dieses Phänomen stark.
+
+  Chaque *composante* du mélange a été soigneusement mesurée.
+  Jede *Komponente* der Mischung wurde sorgfältig gemessen.
+
+  La diversité est une *composante* majeure de l'écosystème.
+  Vielfalt ist eine wichtige *Komponente* des Ökosystems.
+
+  Les différentes *composantes* de la coalition ont trouvé un accord.
+  Die verschiedenen *Komponenten* der Koalition haben eine Einigung gefunden.
+
+  Cette *composante* du programme ne fonctionne plus correctement.
+  Diese *Komponente* des Programms funktioniert nicht mehr richtig.
+
+  Les *composantes* principales de l'analyse révèlent des tendances intéressantes.
+  Die Haupt*komponenten* der Analyse zeigen interessante Trends.
+
+  La lumière est une *composante* essentielle de la photosynthèse.
+  Licht ist eine wesentliche *Komponente* der Photosynthese.
+
+  Les *composantes* culturelles varient selon les régions.
+  Die kulturellen *Komponenten* unterscheiden sich je nach Region.
+
+  Cette *composante* est fabriquée exclusivement en France.
+  Diese *Komponente* wird ausschließlich in Frankreich hergestellt.
+
+  Les *composantes* du vent déterminent la direction de l'avion.
+  Die *Komponenten* des Winds bestimmen die Richtung des Flugzeugs.
+
+  La *composante* internationale joue un rôle crucial dans ce projet.
+  Die internationale *Komponente* spielt in diesem Projekt eine entscheidende Rolle.
+
+  Les *composantes* de cette équation sont difficiles à identifier.
+  Die *Komponenten* dieser Gleichung sind schwer zu identifizieren.
+
+  Chaque *composante* du système solaire a sa propre orbite.
+  Jede *Komponente* des Sonnensystems hat ihre eigene Umlaufbahn.
+
+  Les *composantes* de la personnalité se développent pendant l'enfance.
+  Die *Komponenten* der Persönlichkeit entwickeln sich während der Kindheit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

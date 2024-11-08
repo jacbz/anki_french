@@ -13,11 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous me forcez vraiment à vous maltraiter.
-  Sie zwingen mich wirklich, Sie zu misshandeln.
+  Vous me forcez vraiment à vous *maltraiter*.
+  Sie zwingen mich wirklich dazu, Sie *schlecht zu behandeln*.
 
-  Il ne faut jamais maltraiter les animaux.
-  Man sollte niemals Tiere misshandeln.
+  Les journalistes ont *maltraité* le nouveau film du réalisateur.
+  Die Journalisten haben den neuen Film des Regisseurs *verrissen*.
+
+  Cette mère a été condamnée pour avoir *maltraité* ses enfants.
+  Diese Mutter wurde verurteilt, weil sie ihre Kinder *misshandelt* hatte.
+
+  La critique a sévèrement *maltraité* son dernier roman.
+  Die Kritik hat seinen letzten Roman stark *hergemacht*.
+
+  Dans son texte, il *maltraite* constamment la grammaire française.
+  In seinem Text *verstößt* er ständig gegen die französische Grammatik.
+
+  Les enquêteurs ont découvert des chiens *maltraités* dans ce refuge.
+  Die Ermittler haben *misshandelte* Hunde in diesem Tierheim entdeckt.
+
+  "Tu *maltraites* vraiment cette pauvre voiture !"
+  "Du *misshandelst* dieses arme Auto wirklich!"
+
+  L'histoire a été complètement *maltraitée* dans ce film historique.
+  Die Geschichte wurde in diesem historischen Film völlig *entstellt*.
+
+  Le destin l'a cruellement *maltraité* ces dernières années.
+  Das Schicksal hat ihn in den letzten Jahren grausam *mitgenommen*.
+
+  Les critiques ont *maltraité* sa performance sur scène.
+  Die Kritiker haben seine Bühnenaufführung *verrissen*.
+
+  Il a été arrêté pour avoir *maltraité* des prisonniers.
+  Er wurde verhaftet, weil er Gefangene *misshandelt* hatte.
+
+  Les médias ont *maltraité* le nouveau président dès son élection.
+  Die Medien haben den neuen Präsidenten seit seiner Wahl *fertiggemacht*.
+
+  Dans son adaptation, le réalisateur *maltraite* complètement l'œuvre originale.
+  In seiner Adaptation *entstellt* der Regisseur das Originalwerk völlig.
+
+  La police enquête sur des cas d'animaux *maltraités*.
+  Die Polizei ermittelt in Fällen von *misshandelten* Tieren.
+
+  Le jury a *maltraité* tous les candidats ce soir-là.
+  Die Jury hat an diesem Abend alle Kandidaten *fertiggemacht*.
+
+  Les critiques littéraires ont *maltraité* son premier livre.
+  Die Literaturkritiker haben sein erstes Buch *verrissen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

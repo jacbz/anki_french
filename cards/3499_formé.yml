@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Une fois formé, le profit est réglementé.
-  Sobald sie ausgebildet ist, wird der Profit reguliert.
+  Une fois *formé*, le profit est réglementé.
+  Sobald der Gewinn *gebildet* ist, wird er reguliert.
 
-  Il est bien formé pour ce travail.
-  Er ist gut ausgebildet für diese Arbeit.
+  Les lettres sont mal *formées* dans ce texte.
+  Die Buchstaben sind in diesem Text schlecht *geformt*.
 
-  La phrase est bien formée.
-  Der Satz ist richtig gebildet.
+  Cette pomme n'est pas encore *formée*.
+  Dieser Apfel ist noch nicht voll *ausgebildet*.
 
-  La phrase est mal formée.
-  Der Satz ist falsch gebildet.
+  Les pêches seront bientôt *formées*.
+  Die Pfirsiche werden bald voll *ausgebildet* sein.
+
+  Son jugement est bien *formé*.
+  Sein Urteilsvermögen ist gut *ausgebildet*.
+
+  Les mots sont bien *formés* dans son essai.
+  Die Wörter sind in seinem Aufsatz gut *gebildet*.
+
+  Le mot « courriel » est un néologisme bien *formé*.
+  Das Wort "courriel" ist ein gut *gebildeter* Neologismus.
+
+  Les épis de maïs sont déjà *formés*.
+  Die Maiskolben sind bereits voll *ausgebildet*.
+
+  Cette idée s'est *formée* dans son esprit hier soir.
+  Diese Idee hat sich gestern Abend in seinem Geist *geformt*.
+
+  L'accusation a été mal *formée*.
+  Die Anklage wurde falsch *formuliert*.
+
+  Les grappes de raisin sont bien *formées* cette année.
+  Die Weintrauben sind dieses Jahr gut *ausgebildet*.
+
+  Son goût artistique est bien *formé*.
+  Sein Kunstgeschmack ist gut *ausgebildet*.
+
+  Ces caractères sont mal *formés* sur l'écran.
+  Diese Zeichen sind auf dem Bildschirm schlecht *geformt*.
+
+  Les bourgeons ne sont pas encore *formés*.
+  Die Knospen sind noch nicht voll *ausgebildet*.
+
+  La phrase est correctement *formée*.
+  Der Satz ist korrekt *gebildet*.
+
+  Les fruits sont déjà *formés* sur l'arbre.
+  Die Früchte sind am Baum schon voll *ausgebildet*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,14 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Leurs tissus sont dérivés des cellules de l’embryon.
-  Ihr Gewebe ist von den Zellen des Embryos abgeleitet.
+  Leurs tissus sont *dérivés* des cellules de l'embryon.
+  Ihr Gewebe *stammt* von den Embryonalzellen.
 
-  Cette expression dérive du latin.
-  Dieser Ausdruck leitet sich vom Lateinischen ab.
+  Le mot « étudiant » *dérive* du participe présent du verbe « étudier ».
+  Das Wort "étudiant" *leitet sich* vom Partizip Präsens des Verbs "étudier" *ab*.
 
-  Cette nouvelle théorie dérive de ses recherches approfondies sur le sujet.
-  Diese neue Theorie kommt aus seinen tiefgründigen Forschungen zum Thema.
+  Pour construire le barrage, ils ont *dérivé* la rivière vers un canal temporaire.
+  Für den Bau des Staudamms haben sie den Fluss in einen temporären Kanal *umgeleitet*.
+
+  Les ingénieurs ont *dérivé* l'artère pendant l'opération cardiaque.
+  Die Chirurgen haben die Arterie während der Herzoperation *umgeleitet*.
+
+  Le bateau *dérive* lentement vers le sud à cause du courant.
+  Das Boot *treibt* wegen der Strömung langsam nach Süden *ab*.
+
+  La balle *dérive* de sa trajectoire à cause du vent fort.
+  Die Kugel *weicht* wegen des starken Winds von ihrer Flugbahn *ab*.
+
+  Le mot « amitié » *dérive* du latin « amicitia ».
+  Das Wort "amitié" *stammt* vom lateinischen "amicitia".
+
+  Les mathématiciens doivent *dériver* cette fonction complexe.
+  Die Mathematiker müssen diese komplexe Funktion *ableiten*.
+
+  Beaucoup de mots français *dérivent* de l'arabe.
+  Viele französische Wörter *stammen* aus dem Arabischen.
+
+  Les ouvriers ont dû *dériver* les plaques métalliques du vieux pont.
+  Die Arbeiter mussten die Metallplatten von der alten Brücke *abnieten*.
+
+  Le voilier a *dérivé* toute la nuit à cause de la tempête.
+  Das Segelboot ist wegen des Sturms die ganze Nacht *abgetrieben*.
+
+  Les problèmes actuels *dérivent* d'une mauvaise gestion.
+  Die aktuellen Probleme *entstammen* einer schlechten Verwaltung.
+
+  Le technicien a *dérivé* le circuit électrique principal.
+  Der Techniker hat den elektrischen Hauptstromkreis *abgezweigt*.
+
+  Tous nos malheurs *dérivent* de cette décision.
+  All unser Unglück *stammt* von dieser Entscheidung.
+
+  Sa carrière politique *dérive* dangereusement vers l'extrémisme.
+  Seine politische Karriere *treibt* gefährlich in den Extremismus *ab*.
+
+  Les bûcherons *dérivent* les troncs d'arbres du bord de la rivière.
+  Die Holzfäller *lenken* die Baumstämme vom Flussufer *weg*.
+
+  L'équipage a réussi à empêcher l'avion de *dériver*.
+  Der Besatzung gelang es, das Flugzeug vom *Abdriften* abzuhalten.
+
+  Ces préjugés *dérivent* d'une ignorance profonde.
+  Diese Vorurteile *stammen* aus tiefer Unwissenheit.
+
+  Le mécanicien doit *dériver* le réservoir pour le réparer.
+  Der Mechaniker muss den Tank *abnieten*, um ihn zu reparieren.
+
+  Les eaux ont été *dérivées* vers un nouveau canal d'irrigation.
+  Das Wasser wurde in einen neuen Bewässerungskanal *umgeleitet*.
+
+  De nombreux plastiques *dérivent* du pétrole.
+  Viele Kunststoffe *stammen* vom Erdöl *ab*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

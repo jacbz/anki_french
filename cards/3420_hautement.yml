@@ -13,20 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est hautement improbable.
-  Das ist höchst unwahrscheinlich.
+  C'est *hautement* improbable.
+  Das ist *höchst* unwahrscheinlich.
 
-  Il est hautement qualifié pour ce poste.
-  Er ist für diese Stelle hochqualifiziert.
+  Cette technologie est *hautement* sophistiquée.
+  Diese Technologie ist *höchst* anspruchsvoll.
 
-  La Chine est un pays hautement industrialisé.
-  China ist ein hochindustrialisiertes Land.
+  Je déclare *hautement* mon opposition à ce projet.
+  Ich erkläre *offen* meinen Widerstand gegen dieses Projekt.
 
-  Un travailleur hautement qualifié est précieux pour toute entreprise.
-  Ein hochqualifizierter Arbeiter ist für jedes Unternehmen wertvoll.
+  L'Allemagne est un pays *hautement* industrialisé.
+  Deutschland ist ein *hoch*industrialisiertes Land.
 
-  La décision du gouvernement est une affaire hautement politique.
-  Die Entscheidung der Regierung ist eine hochpolitische Angelegenheit.
+  Marie est une employée *hautement* qualifiée.
+  Marie ist eine *hoch*qualifizierte Mitarbeiterin.
+
+  Cette affaire est *hautement* politique.
+  Diese Angelegenheit ist *hoch*politisch.
+
+  Son intervention a été *hautement* appréciée par tous les participants.
+  Sein Beitrag wurde von allen Teilnehmern *äußerst* geschätzt.
+
+  Il a proclamé *hautement* ses convictions.
+  Er hat seine Überzeugungen *offen* verkündet.
+
+  Cette région est *hautement* touristique.
+  Diese Region ist *höchst* touristisch.
+
+  Le jury a *hautement* apprécié sa performance.
+  Die Jury hat ihre Leistung *äußerst* geschätzt.
+
+  Ces mesures de sécurité sont *hautement* efficaces.
+  Diese Sicherheitsmaßnahmen sind *höchst* effektiv.
+
+  Il s'est prononcé *hautement* en faveur de cette réforme.
+  Er hat sich *offen* für diese Reform ausgesprochen.
+
+  Notre entreprise recherche des experts *hautement* spécialisés.
+  Unser Unternehmen sucht *hoch*spezialisierte Experten.
+
+  Cette solution est *hautement* recommandée par les experts.
+  Diese Lösung wird von den Experten *äußerst* empfohlen.
+
+  C'est une zone *hautement* sensible.
+  Das ist ein *höchst* sensibles Gebiet.
+
+  Je soutiens *hautement* cette initiative.
+  Ich unterstütze diese Initiative *nachdrücklich*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

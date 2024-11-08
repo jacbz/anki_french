@@ -13,41 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Notre père voulait se mettre hors d’atteinte.
-  Unser Vater wollte sich selbst außer Reichweite bringen.
+  Notre père voulait se mettre hors d'*atteinte*.
+  Unser Vater wollte sich in *Sicherheit* bringen.
 
-  Cette maladie peut causer une atteinte aux organes internes.
-  Diese Krankheit kann eine Beeinträchtigung der inneren Organe verursachen.
+  Cette rumeur constitue une *atteinte* à ma réputation.
+  Dieses Gerücht stellt einen *Angriff* auf meinen Ruf dar.
 
-  C'est une atteinte à ma réputation, et je ne laisserai pas cela impuni.
-  Das schadet meinem Ansehen, und ich werde das nicht ungeschehen lassen.
+  Les voleurs sont maintenant hors d'*atteinte* de la police.
+  Die Diebe sind jetzt außer *Reichweite* der Polizei.
 
-  Les maisons ont subi des atteintes du temps.
-  Die Häuser haben Witterungsschäden erlitten.
+  Les premières *atteintes* du froid se font déjà sentir.
+  Die ersten *Auswirkungen* der Kälte sind bereits zu spüren.
 
-  La réputation de la reine est hors d'atteinte.
-  Das Ansehen der Königin ist unantastbar.
+  La publication de ces photos est une *atteinte* à la vie privée.
+  Die Veröffentlichung dieser Fotos ist eine *Verletzung* der Privatsphäre.
 
-  Cette loi constitue une atteinte à la liberté individuelle.
-  Dieses Gesetz ist eine Beeinträchtigung der persönlichen Freiheit.
+  L'*atteinte* de cet objectif demandera beaucoup d'efforts.
+  Das *Erreichen* dieses Ziels wird viele Anstrengungen erfordern.
 
-  Il ne faut pas porter atteinte à l'autorité des parents.
-  Man darf die Autorität der Eltern nicht untergraben.
+  Son honneur est hors d'*atteinte*.
+  Seine Ehre ist *unangreifbar*.
 
-  Cette décision est une atteinte à un droit fondamental.
-  Diese Entscheidung ist eine Einschränkung eines Grundrechts.
+  Il ressent déjà les *atteintes* de l'âge.
+  Er spürt bereits die *Spuren* des Alters.
 
-  L'entreprise a porté atteinte aux droits attachés à un brevet.
-  Das Unternehmen hat ein Patent verletzt.
+  Cette mesure porte *atteinte* aux droits des citoyens.
+  Diese Maßnahme *beeinträchtigt* die Rechte der Bürger.
 
-  Les soldats étaient hors d'atteinte des balles.
-  Die Soldaten waren außer Schussweite.
+  Les cerises au sommet de l'arbre sont hors d'*atteinte*.
+  Die Kirschen an der Baumspitze sind außer *Reichweite*.
 
-  Le voleur s'est mis hors d'atteinte de la police.
-  Der Dieb hat sich in Sicherheit gebracht.
+  Ces actes portent *atteinte* à l'autorité des parents.
+  Diese Handlungen *untergraben* die Autorität der Eltern.
 
-  L'accord est une atteinte à la liberté de concurrence.
-  Die Vereinbarung ist ein Wettbewerbsverstoß.
+  La grêle a causé de graves *atteintes* aux cultures.
+  Der Hagel hat schwere *Schäden* an den Kulturen verursacht.
+
+  Cette entreprise a porté *atteinte* au droit d'auteur.
+  Dieses Unternehmen hat das Urheberrecht *verletzt*.
+
+  Sa réputation reste hors d'*atteinte* malgré les scandales.
+  Sein Ruf bleibt trotz der Skandale *unangetastet*.
+
+  Les *atteintes* de la maladie commencent à se manifester.
+  Die *Auswirkungen* der Krankheit beginnen sich zu zeigen.
+
+  Ces propos constituent une *atteinte* à son honneur.
+  Diese Äußerungen stellen eine *Verletzung* seiner Ehre dar.
+
+  L'alpiniste a célébré l'*atteinte* du sommet.
+  Der Bergsteiger feierte die *Erreichung* des Gipfels.
+
+  La statue montre des *atteintes* du temps.
+  Die Statue zeigt *Spuren* der Zeit.
+
+  Cette décision porte *atteinte* à notre indépendance.
+  Diese Entscheidung *beeinträchtigt* unsere Unabhängigkeit.
+
+  Le suspect s'est mis hors d'*atteinte* des autorités.
+  Der Verdächtige hat sich dem *Zugriff* der Behörden entzogen.
+
+  Les vignes ont subi de sérieuses *atteintes* pendant la sécheresse.
+  Die Weinberge haben während der Trockenheit ernsthafte *Schäden* erlitten.
+
+  Cette loi constitue une *atteinte* aux libertés fondamentales.
+  Dieses Gesetz stellt einen *Eingriff* in die Grundfreiheiten dar.
+
+  La calomnie ne peut pas porter *atteinte* à sa réputation.
+  Die Verleumdung kann seinem Ruf keinen *Schaden* zufügen.
+
+  Cette innovation porte *atteinte* au brevet existant.
+  Diese Innovation *verletzt* das bestehende Patent.
+
+  Ces actions portent *atteinte* à la mémoire des victimes.
+  Diese Handlungen *verunglimpfen* das Andenken der Opfer.
+
+  Le château montre les *atteintes* des intempéries.
+  Das Schloss zeigt die *Schäden* der Witterung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

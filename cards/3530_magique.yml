@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je n’ai pas de pouvoir magique moi.
-  Ich habe keine magischen Kräfte.
+  Je n'ai pas de pouvoir *magique* moi.
+  Ich habe keine *magischen* Kräfte.
 
-  C’était un moment magique.
-  Es war ein zauberhafter Moment.
+  Elle a trouvé la formule *magique* pour résoudre ce problème.
+  Sie hat die *magische* Formel gefunden, um dieses Problem zu lösen.
 
-  Le magicien brandissait sa baguette magique et murmurait une formule magique.
-  Der Zauberer schwang seinen Zauberstab und murmelte eine Zauberformel.
+  Si j'avais une baguette *magique*, je changerais le monde.
+  Wenn ich einen *Zauber*stab hätte, würde ich die Welt verändern.
 
-  La baguette magique était capable de réaliser des miracles grâce au pouvoir magique qui la traversait.
-  Der Zauberstab konnte Wunder bewirken, dank der magischen Kraft, die durch ihn floss.
+  Le coucher du soleil créait une atmosphère *magique*.
+  Der Sonnenuntergang schuf eine *zauberhafte* Atmosphäre.
+
+  Cette potion *magique* te donnera du courage.
+  Dieser *Zauber*trank wird dir Mut geben.
+
+  Les enfants croient encore aux pouvoirs *magiques*.
+  Die Kinder glauben noch an *magische* Kräfte.
+
+  Le spectacle était vraiment *magique* hier soir.
+  Die Show war gestern Abend wirklich *zauberhaft*.
+
+  Il a tracé un cercle *magique* autour de lui.
+  Er zog einen *magischen* Kreis um sich herum.
+
+  Ces mots *magiques* ont déverrouillé la porte.
+  Diese *Zauber*worte haben die Tür entriegelt.
+
+  L'artiste a créé un moment *magique* sur scène.
+  Der Künstler hat einen *zauberhaften* Moment auf der Bühne geschaffen.
+
+  Les incantations *magiques* résonnaient dans la grotte.
+  Die *magischen* Beschwörungen hallten in der Höhle wider.
+
+  C'était une soirée *magique* dont je me souviendrai toujours.
+  Es war ein *zauberhafter* Abend, an den ich mich immer erinnern werde.
+
+  Ces illuminations produisent un effet *magique*.
+  Diese Beleuchtung erzeugt eine *zauberhafte* Wirkung.
+
+  L'art *magique* fait partie de leur culture.
+  Die *Zauber*kunst ist Teil ihrer Kultur.
+
+  Le jardin semblait *magique* sous la pleine lune.
+  Der Garten wirkte im Vollmond *zauberhaft*.
+
+  Elle possède un don *magique* pour la musique.
+  Sie hat eine *zauberhafte* Gabe für Musik.
+
+  Ces lanternes créent une ambiance *magique*.
+  Diese Laternen schaffen eine *zauberhafte* Stimmung.
+
+  Le palais *magique* apparut soudain devant eux.
+  Der *Zauber*palast erschien plötzlich vor ihnen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

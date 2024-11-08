@@ -13,32 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il peut identifier une mutation chez les patients affectés.
-  Er kann bei betroffenen Patienten eine Mutation identifizieren.
+  Il peut identifier une *mutation* chez les patients affectés.
+  Er kann eine *Mutation* bei den betroffenen Patienten identifizieren.
 
-  Cette mutation génétique est responsable de la maladie.
-  Diese genetische Mutation ist für die Krankheit verantwortlich.
+  Une *mutation* génétique rare a été découverte dans cette famille.
+  Eine seltene Gen*mutation* wurde in dieser Familie entdeckt.
 
-  Une mutation chromosomique peut entraîner des changements importants dans le développement d'un organisme.
-  Eine Chromosomenmutation kann zu großen Veränderungen in der Entwicklung eines Organismus führen.
+  Le taux de *mutation* naturel est plus élevé que prévu.
+  Die natürliche *Mutations*rate ist höher als erwartet.
 
-  Une mutation interne d'un fonctionnaire peut être due à des raisons professionnelles ou personnelles.
-  Eine interne Umsetzung eines Beamten kann berufliche oder persönliche Gründe haben.
+  La *mutation* chromosomique peut causer des maladies graves.
+  Die Chromosomen*mutation* kann schwere Krankheiten verursachen.
 
-  La société est en mutation constante, avec de nouveaux défis et opportunités qui émergent.
-  Die Gesellschaft befindet sich im ständigen Wandel, mit neuen Herausforderungen und Chancen, die sich ergeben.
+  Notre société est en pleine *mutation*.
+  Unsere Gesellschaft befindet sich im *Umbruch*.
 
-  Une mutation génétique peut être héréditaire ou survenir de manière spontanée.
-  Eine Genmutation kann vererbt werden oder spontan auftreten.
+  L'économie mondiale connaît une profonde *mutation*.
+  Die Weltökonomie durchläuft einen tiefgreifenden *Umbruch*.
 
-  Le taux de mutation est un indicateur important de la stabilité du génome.
-  Die Mutationsrate ist ein wichtiger Indikator für die Stabilität des Genoms.
+  Marie a demandé une *mutation* dans le sud de la France.
+  Marie hat eine *Versetzung* in den Süden Frankreichs beantragt.
 
-  Le taux naturel de mutation est faible, mais il peut être augmenté par des facteurs environnementaux.
-  Die natürliche Mutationsrate ist gering, kann aber durch Umweltfaktoren erhöht werden.
+  Sa *mutation* interne a été acceptée hier.
+  Seine interne *Versetzung* wurde gestern genehmigt.
 
-  Une mutation d'office peut être une mesure disciplinaire ou une nécessité administrative.
-  Eine Zwangsumsetzung kann eine disziplinarische Maßnahme oder eine administrative Notwendigkeit sein.
+  Les scientifiques ont provoqué une *mutation* dans les cellules.
+  Die Wissenschaftler haben eine *Mutation* in den Zellen ausgelöst.
+
+  Cette *mutation* dominante affecte toute la population.
+  Diese dominante *Mutation* betrifft die gesamte Population.
+
+  Une *mutation* d'office a été prononcée contre le fonctionnaire.
+  Eine Zwangs*versetzung* wurde gegen den Beamten ausgesprochen.
+
+  L'industrie automobile traverse une période de *mutation*.
+  Die Autoindustrie durchlebt eine Zeit des *Umbruchs*.
+
+  Les *mutations* spontanées sont rares dans la nature.
+  Spontan*mutationen* sind in der Natur selten.
+
+  Le service des ressources humaines gère toutes les *mutations*.
+  Die Personalabteilung verwaltet alle *Versetzungen*.
+
+  Les droits de *mutation* doivent être payés avant la vente.
+  Die *Übertragungs*gebühren müssen vor dem Verkauf bezahlt werden.
+
+  Cette *mutation* récessive n'apparaît que chez certains individus.
+  Diese rezessive *Mutation* tritt nur bei bestimmten Individuen auf.
+
+  L'entreprise a connu plusieurs *mutations* technologiques.
+  Das Unternehmen hat mehrere technologische *Umbrüche* erlebt.
+
+  La *mutation* de propriété sera effective demain.
+  Die Eigentums*übertragung* wird morgen wirksam.
+
+  Les *mutations* dans ce département sont fréquentes.
+  *Versetzungen* in dieser Abteilung sind häufig.
+
+  Cette *mutation* cellulaire pourrait être la cause du cancer.
+  Diese Zell*mutation* könnte die Ursache für den Krebs sein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

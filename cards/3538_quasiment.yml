@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il a quasiment tout gagné.
-  Er hat fast alles gewonnen.
+  Il a *quasiment* tout gagné.
+  Er hat *fast* alles gewonnen.
 
-  Je suis quasiment arrivé.
-  Ich bin fast angekommen.
+  "Je suis *quasiment* sûr que c'est la bonne réponse."
+  "Ich bin mir *fast* sicher, dass das die richtige Antwort ist."
+
+  La salle était *quasiment* vide ce soir-là.
+  Der Saal war an diesem Abend *beinahe* leer.
+
+  Elle a *quasiment* terminé ses études.
+  Sie hat ihr Studium *fast* beendet.
+
+  "J'ai *quasiment* fini mon travail."
+  "Ich bin mit meiner Arbeit *fast* fertig."
+
+  Le projet est *quasiment* terminé.
+  Das Projekt ist *beinahe* abgeschlossen.
+
+  Il ne sort *quasiment* plus depuis son accident.
+  Er geht seit seinem Unfall *fast* gar nicht mehr aus.
+
+  "Es-tu prêt ? – *Quasiment*."
+  "Bist du fertig? – *Fast*."
+
+  La bouteille est *quasiment* vide.
+  Die Flasche ist *beinahe* leer.
+
+  On a *quasiment* atteint notre objectif.
+  Wir haben unser Ziel *fast* erreicht.
+
+  Le restaurant était *quasiment* complet hier soir.
+  Das Restaurant war gestern Abend *fast* voll.
+
+  Il pleut *quasiment* tous les jours en ce moment.
+  Es regnet momentan *beinahe* jeden Tag.
+
+  Nous sommes *quasiment* arrivés à destination.
+  Wir sind *fast* am Ziel angekommen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

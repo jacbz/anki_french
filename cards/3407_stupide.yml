@@ -13,11 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ah que je suis stupide!
-  Ich bin so dumm!
+  Ah que je suis *stupide* !
+  Ach, wie *dumm* ich bin!
 
-  C’est une idée stupide.
-  Das ist eine dumme Idee.
+  Cette remarque *stupide* a gâché toute l'ambiance.
+  Diese *dumme* Bemerkung hat die ganze Stimmung verdorben.
+
+  Il a fait un pari *stupide* et a perdu tout son argent.
+  Er hat eine *blödsinnige* Wette abgeschlossen und sein ganzes Geld verloren.
+
+  Ce travail *stupide* me rend fou.
+  Diese *stumpfsinnige* Arbeit macht mich wahnsinnig.
+
+  La guerre est une chose *stupide* et inutile.
+  Krieg ist eine *dumme* und nutzlose Sache.
+
+  "T'es vraiment *stupide* ou tu le fais exprès ?"
+  "Bist du wirklich so *blöd* oder tust du nur so?"
+
+  Je trouve *stupide* de devoir travailler le dimanche.
+  Ich finde es *bescheuert*, sonntags arbeiten zu müssen.
+
+  Son obstination *stupide* a causé l'échec du projet.
+  Seine *stumpfsinnige* Sturheit hat das Projekt scheitern lassen.
+
+  Elle est restée *stupide* devant cette révélation inattendue.
+  Sie blieb vor dieser unerwarteten Enthüllung wie *benommen*.
+
+  Un accident *stupide* a mis fin à sa carrière sportive.
+  Ein *dummer* Unfall beendete seine Sportlerkarriere.
+
+  Il mène une vie *stupide*, sans but ni ambition.
+  Er führt ein *stumpfsinniges* Leben ohne Ziel und Ehrgeiz.
+
+  Ces règles *stupides* ne servent à rien.
+  Diese *schwachsinnigen* Regeln bringen nichts.
+
+  C'était *stupide* de ma part de ne pas écouter ses conseils.
+  Es war *dumm* von mir, nicht auf seinen Rat zu hören.
+
+  Son rire *stupide* résonnait dans toute la salle.
+  Sein *dümmliches* Lachen hallte durch den ganzen Saal.
+
+  Je ne supporte plus ses questions *stupides*.
+  Ich ertrage ihre *dummen* Fragen nicht mehr.
+
+  Cette émission de télévision est complètement *stupide*.
+  Diese Fernsehsendung ist völlig *hirnlos*.
+
+  Son visage affichait une expression *stupide*.
+  Sein Gesicht zeigte einen *begriffsstutzigen* Ausdruck.
+
+  Il serait *stupide* de rater cette occasion.
+  Es wäre *dumm*, diese Gelegenheit zu verpassen.
+
+  Les conflits *stupides* au bureau me fatiguent.
+  Die *schwachsinnigen* Konflikte im Büro ermüden mich.
+
+  Cette décision *stupide* nous coûtera cher.
+  Diese *dumme* Entscheidung wird uns teuer zu stehen kommen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

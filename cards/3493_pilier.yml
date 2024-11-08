@@ -13,17 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle avait l’air liée au pilier de fer.
-  Sie schien mit der Eisensäule verbunden zu sein.
+  Elle avait l'air liée au *pilier* de fer.
+  Sie schien an den eisernen *Pfeiler* gefesselt zu sein.
 
-  Le pilier de l’équipe est blessé.
-  Die Stütze des Teams ist verletzt.
+  Les *piliers* en béton soutiennent le pont depuis cinquante ans.
+  Die Beton*pfeiler* tragen die Brücke seit fünfzig Jahren.
 
-  Le chantier a été renforcé par des piliers en béton.
-  Die Baustelle wurde durch Betonpfeiler verstärkt.
+  La cathédrale gothique est soutenue par douze magnifiques *piliers*.
+  Die gotische Kathedrale wird von zwölf prächtigen *Pfeilern* getragen.
 
-  Le palais est constitué du voile du palais, dont les piliers avant et arrière sont importants pour la phonation.
-  Der Gaumen besteht aus dem Gaumensegel, dessen vorderer und hinterer Gaumenbogen für die Sprachbildung wichtig sind.
+  Marie est le *pilier* de notre équipe de recherche.
+  Marie ist die *Stütze* unseres Forschungsteams.
+
+  Le vieux temple grec possède encore ses *piliers* d'origine.
+  Der alte griechische Tempel besitzt noch seine ursprünglichen *Säulen*.
+
+  Thomas est devenu un *pilier* de l'économie locale avec son entreprise.
+  Thomas ist mit seiner Firma zu einem *Leistungsträger* der lokalen Wirtschaft geworden.
+
+  Le joueur a été sélectionné comme *pilier* gauche pour le match de demain.
+  Der Spieler wurde als linker *Stürmer* für das morgige Spiel ausgewählt.
+
+  Les *piliers* du diaphragme sont essentiels pour la respiration.
+  Die *Pfeiler* des Zwerchfells sind wesentlich für die Atmung.
+
+  La prière est l'un des cinq *piliers* de l'islam.
+  Das Gebet ist eine der fünf *Säulen* des Islam.
+
+  "Jean est devenu un vrai *pilier* de bistrot depuis sa retraite."
+  "Jean ist seit seiner Rente ein richtiger *Stammgast* in der Kneipe geworden."
+
+  Les *piliers* métalliques de la nouvelle gare sont impressionnants.
+  Die Metall*pfeiler* des neuen Bahnhofs sind beeindruckend.
+
+  Ce professeur est un véritable *pilier* de l'université depuis vingt ans.
+  Dieser Professor ist seit zwanzig Jahren eine wahre *Säule* der Universität.
+
+  Les mineurs ont laissé des *piliers* de soutènement dans la galerie.
+  Die Bergleute haben *Stütz*pfeiler in dem Stollen gelassen.
+
+  Les *piliers* de bois du vieux manège ont besoin d'être remplacés.
+  Die Holz*pfeiler* der alten Reithalle müssen ersetzt werden.
+
+  La liberté d'expression est un *pilier* de la démocratie.
+  Die Meinungsfreiheit ist eine *Säule* der Demokratie.
+
+  Les *piliers* du voile du palais peuvent être observés lors d'un examen médical.
+  Die Gaumen*bögen* können bei einer ärztlichen Untersuchung beobachtet werden.
+
+  Cette association caritative est devenue un *pilier* de notre communauté.
+  Dieser Wohltätigkeitsverein ist zu einer *Stütze* unserer Gemeinschaft geworden.
+
+  Les alpinistes ont escaladé le *pilier* sud de la montagne.
+  Die Bergsteiger haben den Süd*pfeiler* des Berges erklommen.
+
+  Les *piliers* de la clôture ont été renforcés avant l'hiver.
+  Die *Pfeiler* des Zauns wurden vor dem Winter verstärkt.
+
+  Le respect est un *pilier* fondamental de toute relation.
+  Respekt ist eine fundamentale *Säule* jeder Beziehung.
+
+  Les *piliers* trapus donnent un caractère roman à la crypte.
+  Die gedrungenen *Pfeiler* verleihen der Krypta einen romanischen Charakter.
+
+  Ce journal est devenu un *pilier* de la presse locale.
+  Diese Zeitung ist zu einer *Säule* der lokalen Presse geworden.
+
+  La confiance mutuelle est le *pilier* de notre partenariat commercial.
+  Gegenseitiges Vertrauen ist die *Säule* unserer Geschäftspartnerschaft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
