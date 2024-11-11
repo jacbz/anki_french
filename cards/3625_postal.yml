@@ -13,17 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils lui écrivaient une carte postale.
-  Sie schrieben ihm eine Postkarte.
+  Ils lui écrivaient une carte *postale*.
+  Sie schrieben ihm eine *Post*karte.
 
-  Le service postal est en grève.
-  Der Postdienst ist im Streik.
+  Le code *postal* de notre bureau a changé le mois dernier.
+  Die *Post*leitzahl unseres Büros hat sich letzten Monat geändert.
 
-  J'ai reçu une carte postale de mon ami qui est en vacances.
-  Ich habe eine Postkarte von meinem Freund erhalten, der im Urlaub ist.
+  Je dois aller chercher mon courrier dans ma boîte *postale*.
+  Ich muss meine Post aus meinem *Post*fach abholen.
 
-  Il faut indiquer le code postal sur l'enveloppe.
-  Man muss die Postleitzahl auf den Umschlag schreiben.
+  L'Union *postale* universelle établit des normes internationales.
+  Der Welt*post*verein legt internationale Standards fest.
+
+  Le service *postal* sera interrompu pendant les fêtes.
+  Der *Post*dienst wird während der Feiertage unterbrochen sein.
+
+  J'ai ouvert un compte *postal* pour gérer mes finances.
+  Ich habe ein *Post*konto für meine Finanzen eröffnet.
+
+  Les timbres *postaux* sont devenus plus chers cette année.
+  Die *Post*marken sind dieses Jahr teurer geworden.
+
+  Le tri *postal* est maintenant largement automatisé.
+  Die *Post*sortierung ist jetzt weitgehend automatisiert.
+
+  La nouvelle convention *postale* facilitera les envois internationaux.
+  Das neue *Post*abkommen wird internationale Sendungen erleichtern.
+
+  Un fourgon *postal* a livré les colis ce matin.
+  Ein *Post*wagen hat heute Morgen die Pakete geliefert.
+
+  Quelle est ton adresse *postale* actuelle ?
+  Wie lautet deine aktuelle *Post*anschrift?
+
+  Le train *postal* arrive toujours à l'heure.
+  Der *Post*zug kommt immer pünktlich.
+
+  L'aviation *postale* a révolutionné la distribution du courrier.
+  Die *Post*luftfahrt hat die Briefzustellung revolutioniert.
+
+  La taxe *postale* varie selon le poids du colis.
+  Die *Post*gebühr richtet sich nach dem Gewicht des Pakets.
+
+  J'ai envoyé un mandat *postal* à ma famille.
+  Ich habe meiner Familie eine *Post*anweisung geschickt.
+
+  Cette photo est au format carte *postale*.
+  Dieses Foto hat *Post*kartenformat.
+
+  La franchise *postale* s'applique aux documents officiels.
+  Die *Post*gebührenfreiheit gilt für offizielle Dokumente.
+
+  Il a payé avec un chèque *postal*.
+  Er hat mit einem *Post*scheck bezahlt.
+
+  La détaxe *postale* a été accordée pour les envois humanitaires.
+  Die *Post*gebührenbefreiung wurde für humanitäre Sendungen gewährt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

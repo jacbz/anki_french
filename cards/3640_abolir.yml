@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’esclavage n’a jamais vraiment été aboli.
-  Die Sklaverei wurde nie wirklich abgeschafft.
+  L'esclavage n'a jamais vraiment été *aboli*.
+  Die Sklaverei wurde nie wirklich *abgeschafft*.
 
-  Le roi a aboli la peine de mort.
-  Der König hat die Todesstrafe abgeschafft.
+  La peine de mort fut *abolie* en France en 1981.
+  Die Todesstrafe wurde 1981 in Frankreich *abgeschafft*.
+
+  Cette nouvelle technologie *abolit* toutes les barrières de communication.
+  Diese neue Technologie *hebt* alle Kommunikationsbarrieren *auf*.
+
+  Le Parlement a voté pour *abolir* cette loi controversée.
+  Das Parlament hat dafür gestimmt, dieses umstrittene Gesetz zu *abzuschaffen*.
+
+  Les frontières entre les pays européens ont été progressivement *abolies*.
+  Die Grenzen zwischen den europäischen Ländern wurden nach und nach *aufgehoben*.
+
+  Cette réforme vise à *abolir* les privilèges injustes.
+  Diese Reform zielt darauf ab, die ungerechten Privilegien *abzuschaffen*.
+
+  Internet a pratiquement *aboli* les distances entre les gens.
+  Das Internet hat die Entfernungen zwischen den Menschen praktisch *aufgehoben*.
+
+  Ces anciennes coutumes se sont *abolies* au fil du temps.
+  Diese alten Bräuche haben sich im Laufe der Zeit *abgeschafft*.
+
+  Le gouvernement envisage d'*abolir* cette taxe impopulaire.
+  Die Regierung erwägt, diese unpopuläre Steuer *abzuschaffen*.
+
+  Ce médicament peut temporairement *abolir* les réflexes.
+  Dieses Medikament kann die Reflexe vorübergehend *aufheben*.
+
+  Les citoyens ont manifesté pour *abolir* cette restriction.
+  Die Bürger haben demonstriert, um diese Einschränkung *abzuschaffen*.
+
+  Le temps ne peut pas *abolir* nos souvenirs d'enfance.
+  Die Zeit kann unsere Kindheitserinnerungen nicht *auslöschen*.
+
+  La discrimination raciale a été officiellement *abolie*.
+  Die Rassendiskriminierung wurde offiziell *abgeschafft*.
+
+  Cette décision va *abolir* toutes les anciennes règles.
+  Diese Entscheidung wird alle alten Regeln *aufheben*.
+
+  Le progrès technique a presque *aboli* les limites de la communication.
+  Der technische Fortschritt hat die Grenzen der Kommunikation fast *aufgehoben*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

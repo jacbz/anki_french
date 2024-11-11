@@ -13,14 +13,95 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La guerre est finie, mon lieutenant.
-  Der Krieg ist vorbei, Leutnant.
+  La guerre est finie, mon *lieutenant*.
+  Der Krieg ist vorbei, mein *Leutnant*.
 
-  Le lieutenant a donné l’ordre de se mettre en position.
-  Der Leutnant hat den Befehl gegeben, in Position zu gehen.
+  Le *lieutenant* portait fièrement ses deux galons sur son uniforme.
+  Der *Leutnant* trug seine zwei Rangabzeichen stolz auf seiner Uniform.
 
-  Le lieutenant de vaisseau, Pierre Dubois, était chargé de la navigation du navire.
-  Der Kapitänleutnant, Pierre Dubois, war für die Navigation des Schiffes zuständig.
+  Marie a été promue *lieutenant* de police après dix ans de service.
+  Marie wurde nach zehn Jahren Dienst zur Polizei*offizierin* befördert.
+
+  Le *lieutenant* de vaisseau a donné l'ordre de lever l'ancre.
+  Der Kapitän*leutnant* gab den Befehl, den Anker zu lichten.
+
+  En tant que *lieutenant* au long cours, il passait des mois en mer.
+  Als Schiffs*offizier* auf Langstreckenfahrt verbrachte er Monate auf See.
+
+  Le *lieutenant* de port supervisait le chargement des conteneurs.
+  Der Hafen*offizier* überwachte das Beladen der Container.
+
+  Le *lieutenant* de pêche coordonnait les activités de l'équipage.
+  Der Fischerei*offizier* koordinierte die Aktivitäten der Besatzung.
+
+  Le *lieutenant* de louveterie organise la chasse aux loups dans la région.
+  Der Jagd*beauftragte* organisiert die Wolfsjagd in der Region.
+
+  Les *lieutenants* du gang ont été arrêtés hier soir.
+  Die *Handlanger* der Bande wurden gestern Abend verhaftet.
+
+  Le fidèle *lieutenant* du chef d'entreprise gérait les opérations quotidiennes.
+  Der treue *Stellvertreter* des Firmenchefs managte das Tagesgeschäft.
+
+  Le *lieutenant* d'infanterie menait sa section avec courage.
+  Der Infanterie*leutnant* führte seinen Zug mutig an.
+
+  Il a servi comme *lieutenant* d'artillerie pendant la guerre.
+  Er diente während des Krieges als Artillerie*leutnant*.
+
+  Le *lieutenant* de réserve n'est appelé qu'en cas d'urgence.
+  Der Reserve*leutnant* wird nur im Notfall einberufen.
+
+  Sarah est maintenant *lieutenante* dans l'armée de l'air.
+  Sarah ist jetzt *Leutnantin* bei der Luftwaffe.
+
+  Le *lieutenant* Alexandre commandait une section de vingt hommes.
+  *Leutnant* Alexandre befehligte einen Zug von zwanzig Mann.
+
+  Notre *lieutenant* de vaisseau a trois ans d'expérience en mer.
+  Unser Kapitän*leutnant* hat drei Jahre Erfahrung auf See.
+
+  Le *lieutenant* général supervisait la défense de la province.
+  Der General*leutnant* überwachte die Verteidigung der Provinz.
+
+  Un nouveau *lieutenant* de police a rejoint le commissariat.
+  Ein neuer Polizei*offizier* ist zum Revier gestoßen.
+
+  Les *lieutenants* du conquérant ont partagé le butin.
+  Die *Gefolgsleute* des Eroberers teilten die Beute.
+
+  Le *lieutenant* civil présidait les audiences au tribunal.
+  Der Zivil*richter* führte den Vorsitz bei den Gerichtsverhandlungen.
+
+  Le *lieutenant* de port contrôle tous les navires entrants.
+  Der Hafen*offizier* kontrolliert alle einlaufenden Schiffe.
+
+  Le *lieutenant* de vaisseau commandait la frégate en l'absence du capitaine.
+  Der Kapitän*leutnant* kommandierte die Fregatte in Abwesenheit des Kapitäns.
+
+  La jeune *lieutenante* dirigeait l'exercice d'entraînement.
+  Die junge *Leutnantin* leitete die Übung.
+
+  Le *lieutenant* général des armées navales inspectait la flotte.
+  Der General*leutnant* der Marine inspizierte die Flotte.
+
+  C'est un honneur de servir sous vos ordres, mon *lieutenant*.
+  Es ist eine Ehre, unter Ihrem Kommando zu dienen, *Leutnant*.
+
+  Le *lieutenant* de police enquêtait sur une série de cambriolages.
+  Der Polizei*offizier* ermittelte in einer Serie von Einbrüchen.
+
+  Notre *lieutenant* nous a guidés à travers la tempête.
+  Unser *Offizier* hat uns durch den Sturm geführt.
+
+  Le *lieutenant* de pêche surveillait les prises quotidiennes.
+  Der Fischerei*offizier* überwachte die täglichen Fänge.
+
+  Les ordres du *lieutenant* étaient toujours clairs et précis.
+  Die Befehle des *Leutnants* waren immer klar und präzise.
+
+  Le *lieutenant* général du royaume assurait la régence pendant l'absence du roi.
+  Der General*statthalter* des Königreichs führte während der Abwesenheit des Königs die Regentschaft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

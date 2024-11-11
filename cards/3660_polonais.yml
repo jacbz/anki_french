@@ -13,11 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous dites avoir des racines polonaises.
-  Sie sagen, dass Sie polnische Wurzeln haben.
+  Vous dites avoir des racines *polonaises*.
+  Sie sagen, Sie hätten *polnische* Wurzeln.
 
-  Je parle polonais.
-  Ich spreche Polnisch.
+  Je parle couramment le *polonais* depuis mon enfance.
+  Ich spreche seit meiner Kindheit fließend *Polnisch*.
+
+  Marie a épousé un *Polonais* qu'elle a rencontré pendant ses études.
+  Marie hat einen *Polen* geheiratet, den sie während ihres Studiums kennengelernt hat.
+
+  Le *polonais* est une langue slave occidentale.
+  *Polnisch* ist eine westslawische Sprache.
+
+  La cuisine *polonaise* est riche en soupes et en pommes de terre.
+  Die *polnische* Küche ist reich an Suppen und Kartoffeln.
+
+  Les enfants adorent les lapins *polonais* avec leur fourrure blanche comme neige.
+  Die Kinder lieben die *polnischen* Kaninchen mit ihrem schneeweißen Fell.
+
+  Cette *polonaise* de Chopin est très difficile à jouer.
+  Diese *Polonaise* von Chopin ist sehr schwer zu spielen.
+
+  Il porte une brioche *à la polonaise* pour le dessert.
+  Er bringt eine Brioche nach *polnischer* Art zum Dessert mit.
+
+  Le peuple *polonais* a une histoire mouvementée.
+  Das *polnische* Volk hat eine bewegte Geschichte.
+
+  La littérature *polonaise* est peu connue à l'étranger.
+  Die *polnische* Literatur ist im Ausland wenig bekannt.
+
+  Ce lit *à la polonaise* date du XVIIIe siècle.
+  Dieses Bett nach *polnischer* Art stammt aus dem 18. Jahrhundert.
+
+  Les immigrés *polonais* se sont bien intégrés dans la région.
+  Die *polnischen* Einwanderer haben sich gut in der Region integriert.
+
+  Elle prépare une *polonaise* aux fruits confits pour Noël.
+  Sie bereitet eine *Polonaise* mit kandierten Früchten für Weihnachten vor.
+
+  La notation *polonaise* est très utilisée en informatique.
+  Die *polnische* Notation wird in der Informatik häufig verwendet.
+
+  Les traditions *polonaises* sont encore très vivantes.
+  Die *polnischen* Traditionen sind noch sehr lebendig.
+
+  Une *Polonaise* présentera le journal ce soir.
+  Eine *Polin* wird heute Abend die Nachrichten präsentieren.
+
+  Ma grand-mère m'a appris quelques mots en *polonais*.
+  Meine Großmutter hat mir ein paar Wörter auf *Polnisch* beigebracht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

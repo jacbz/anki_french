@@ -13,23 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous pourrions compter sur les doigts de la main les occurrences du mot.
-  Wir könnten die Vorkommen des Wortes an den Fingern einer Hand abzählen.
+  Nous pourrions compter sur les doigts de la main les *occurrences* du mot.
+  Wir könnten die *Vorkommnisse* des Wortes an einer Hand abzählen.
 
-  Cette occurrence est très rare.
-  Dieses Vorkommen ist sehr selten.
+  En l'*occurrence*, c'est Marie qui a eu l'idée brillante.
+  In diesem *Fall* war es Marie, die die brillante Idee hatte.
 
-  Il a rencontré une occurrence singulière, un homme qui lui ressemblait comme deux gouttes d'eau.
-  Er hat einen seltsamen Umstand erlebt, einen Mann, der ihm wie ein Zwilling glich.
+  Le logiciel compte automatiquement les *occurrences* des mots dans le texte.
+  Das Programm zählt automatisch die *Häufigkeit* der Wörter im Text.
 
-  En pareille occurrence, il faut appeler les pompiers.
-  In so einem Fall muss man die Feuerwehr rufen.
+  Cette *occurrence* singulière a changé le cours de ma vie.
+  Dieser seltsame *Umstand* hat den Lauf meines Lebens verändert.
 
-  En l'occurrence, le problème est que le moteur ne démarre pas.
-  Im vorliegenden Fall ist das Problem, dass der Motor nicht anspringt.
+  Les chercheurs ont relevé plusieurs *occurrences* de ce phénomène.
+  Die Forscher haben mehrere *Fälle* dieses Phänomens dokumentiert.
 
-  En toute autre occurrence, j'aurais accepté, mais aujourd'hui je suis trop occupé.
-  Bei jeder anderen Gelegenheit hätte ich zugestimmt, aber heute bin ich zu beschäftigt.
+  En toute autre *occurrence*, j'aurais accepté votre invitation.
+  Bei jeder anderen *Gelegenheit* hätte ich Ihre Einladung angenommen.
+
+  Le responsable, en l'*occurrence* Paul, a pris la décision finale.
+  Der Verantwortliche, in diesem *Fall* Paul, hat die endgültige Entscheidung getroffen.
+
+  J'ai noté trois *occurrences* de cette expression dans son discours.
+  Ich habe drei *Vorkommnisse* dieses Ausdrucks in seiner Rede notiert.
+
+  Cette *occurrence* favorable nous a permis d'avancer rapidement.
+  Diese günstige *Gelegenheit* hat es uns ermöglicht, schnell voranzukommen.
+
+  En l'*occurrence*, il s'agit d'un simple malentendu.
+  In diesem *Fall* handelt es sich um ein einfaches Missverständnis.
+
+  Les *occurrences* de ce mot sont particulièrement fréquentes dans ce chapitre.
+  Die *Vorkommnisse* dieses Wortes sind in diesem Kapitel besonders häufig.
+
+  Dans cette fâcheuse *occurrence*, nous devons rester calmes.
+  In dieser misslichen *Situation* müssen wir ruhig bleiben.
+
+  L'étudiant a analysé toutes les *occurrences* du verbe dans le roman.
+  Der Student hat alle *Vorkommnisse* des Verbs im Roman analysiert.
+
+  En l'*occurrence*, je ne peux pas vous aider.
+  In diesem *Fall* kann ich Ihnen nicht helfen.
+
+  Il faut agir selon l'*occurrence* et adapter notre stratégie.
+  Man muss je nach *Situation* handeln und unsere Strategie anpassen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,20 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Hélas, je ne pourrai pas.
-  Leider kann ich das nicht.
+  *Hélas*, je ne pourrai pas.
+  *Leider* kann ich nicht.
 
-  Hélas, je ne peux pas venir à la fête.
-  Leider kann ich nicht zur Party kommen.
+  *Hélas*, notre équipe a perdu le match final.
+  *Leider* hat unsere Mannschaft das Finale verloren.
 
-  Hélas, oui!
-  Ja, leider!
+  *Hélas*, trois fois *hélas* ! Le restaurant est fermé aujourd'hui.
+  *Ach*, dreimal *ach*! Das Restaurant ist heute geschlossen.
 
-  Hélas, non!
-  Nein, leider!
+  « Viendras-tu à la fête ? – *Hélas* non ! »
+  "Kommst du zur Party? – *Leider* nein!"
 
-  Hélas, trois fois hélas!
-  Leider Gottes!
+  *Hélas*, il est trop tard pour changer d'avis maintenant.
+  *Leider* ist es jetzt zu spät, um die Meinung zu ändern.
+
+  Sa grand-mère, *hélas*, est décédée la semaine dernière.
+  Seine Großmutter ist *leider* letzte Woche verstorben.
+
+  « As-tu réussi l'examen ? – *Hélas*, je l'ai raté. »
+  "Hast du die Prüfung bestanden? – *Ach*, ich bin durchgefallen."
+
+  *Hélas*, la pluie a gâché notre pique-nique.
+  *Leider* hat der Regen unser Picknick verdorben.
+
+  Cette belle journée, *hélas*, touche déjà à sa fin.
+  Dieser schöne Tag geht *leider* schon zu Ende.
+
+  Les vacances sont, *hélas*, déjà terminées.
+  Die Ferien sind *leider* schon vorbei.
+
+  « Pourras-tu nous aider ? – *Hélas* oui, je suis occupé. »
+  "Kannst du uns helfen? – *Leider* ja, ich bin beschäftigt."
+
+  *Hélas*, nous avons manqué le dernier train.
+  *Leider* haben wir den letzten Zug verpasst.
+
+  Le concert était, *hélas*, complet depuis des semaines.
+  Das Konzert war *leider* seit Wochen ausverkauft.
+
+  *Hélas*, je n'ai plus assez d'argent pour acheter ce livre.
+  *Leider* habe ich nicht mehr genug Geld, um dieses Buch zu kaufen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

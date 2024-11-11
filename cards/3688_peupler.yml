@@ -13,41 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’enfer est peuplé d’anges.
-  Die Hölle wird von Engeln bevölkert.
+  L'enfer est *peuplé* d'anges.
+  Die Hölle ist mit Engeln *bevölkert*.
 
-  Cette région est peu peuplée.
-  Diese Region ist dünn besiedelt.
+  Les Inuits *peuplent* encore aujourd'hui le Grand Nord canadien.
+  Die Inuit *bewohnen* noch heute den kanadischen hohen Norden.
 
-  Le pénitencier était peuplé de prisonniers condamnés à de longues peines.
-  Der Strafvollzug war mit Häftlingen gefüllt, die zu langen Haftstrafen verurteilt waren.
+  De nombreux oiseaux de mer *peuplent* les falaises de la côte.
+  Viele Seevögel *bevölkern* die Klippen der Küste.
 
-  La ville s'est peuplée de nouveaux habitants après la construction de l'usine.
-  Die Stadt füllte sich mit neuen Bewohnern, nachdem die Fabrik gebaut worden war.
+  Le gouvernement a décidé de *peupler* cette région de nouveaux habitants.
+  Die Regierung hat beschlossen, diese Region mit neuen Bewohnern zu *besiedeln*.
 
-  Les nomades peuplaient les vastes steppes de la Mongolie.
-  Die Nomaden bevölkerten die weiten Steppen der Mongolei.
+  La prison s'est *peuplée* rapidement après son ouverture.
+  Das Gefängnis hat sich nach seiner Eröffnung schnell *gefüllt*.
 
-  L'auteur a peuplé son roman de personnages imaginaires, qui vivent des aventures incroyables.
-  Der Autor hat seinen Roman mit fantasievollen Figuren bevölkert, die unglaubliche Abenteuer erleben.
+  Les fougères *peuplent* naturellement ce sous-bois humide.
+  Farne *wachsen* natürlich in diesem feuchten Unterholz.
 
-  Le délire de Pierre était peuplé de monstres terribles.
-  In Pierres Wahnvorstellungen kamen schreckliche Monster vor.
+  Des créatures fantastiques *peuplent* son dernier roman.
+  Fantastische Kreaturen *beleben* seinen neuesten Roman.
 
-  La salle s'est peuplée de rires joyeux lors de la fête d'anniversaire.
-  Der Raum wurde mit fröhlichem Gelächter gefüllt, als der Geburtstag gefeiert wurde.
+  La ville s'est *peuplée* progressivement au cours du siècle dernier.
+  Die Stadt hat sich im Laufe des letzten Jahrhunderts nach und nach *bevölkert*.
 
-  La guerre a peuplé les camps de réfugiés de personnes désespérées.
-  Durch den Krieg füllten sich die Flüchtlingslager mit verzweifelten Menschen.
+  Les souvenirs d'enfance *peuplent* encore sa mémoire.
+  Kindheitserinnerungen *erfüllen* noch immer sein Gedächtnis.
 
-  Le zoo est peuplé d'animaux du monde entier.
-  Der Zoo beherbergt Tiere aus aller Welt.
+  Le jardinier a *peuplé* le parc d'arbres rares.
+  Der Gärtner hat den Park mit seltenen Bäumen *bepflanzt*.
 
-  Le jardin était peuplé de plantes rares et précieuses.
-  Der Garten war mit seltenen und wertvollen Pflanzen bepflanzt.
+  Des rires joyeux *peuplaient* la cour de récréation.
+  Fröhliches Lachen *erfüllte* den Schulhof.
 
-  Le bord de la rivière était peuplé d'arbres majestueux.
-  Das Ufer des Flusses war mit majestätischen Bäumen bewachsen.
+  Le zoo a *peuplé* son nouveau terrarium de reptiles exotiques.
+  Der Zoo hat sein neues Terrarium mit exotischen Reptilien *besetzt*.
+
+  Les nomades *peuplent* traditionnellement ces vastes steppes.
+  Die Nomaden *bewohnen* traditionell diese weiten Steppen.
+
+  L'étang sera *peuplé* de carpes au printemps.
+  Der Teich wird im Frühling mit Karpfen *besetzt*.
+
+  Des cauchemars *peuplaient* ses nuits d'insomnie.
+  Albträume *heimsuchten* seine schlaflosen Nächte.
+
+  Cette forêt est *peuplée* d'espèces menacées.
+  Dieser Wald wird von bedrohten Arten *bewohnt*.
+
+  Les figures grotesques *peuplent* les tableaux de ce peintre.
+  Groteske Gestalten *bevölkern* die Gemälde dieses Malers.
+
+  La guerre a *peuplé* les camps de réfugiés innocents.
+  Der Krieg hat die Lager mit unschuldigen Flüchtlingen *gefüllt*.
+
+  Des personnages historiques *peuplent* son imagination fertile.
+  Historische Persönlichkeiten *bevölkern* seine fruchtbare Fantasie.
+
+  Le propriétaire a *peuplé* l'immeuble de nouveaux locataires.
+  Der Eigentümer hat das Gebäude mit neuen Mietern *belegt*.
+
+  Cette région peu *peuplée* attire les amoureux de la nature.
+  Diese dünn *besiedelte* Region zieht Naturliebhaber an.
+
+  Les étudiants *peuplent* le campus pendant l'année universitaire.
+  Die Studenten *bevölkern* den Campus während des akademischen Jahres.
+
+  La salle s'est *peuplée* de murmures inquiets.
+  Der Saal *füllte* sich mit besorgtem Gemurmel.
+
+  Les dauphins *peuplent* les eaux chaudes de l'océan.
+  Delfine *bevölkern* die warmen Gewässer des Ozeans.
+
+  Cette vallée était autrefois *peuplée* de loups.
+  Dieses Tal wurde früher von Wölfen *bewohnt*.
+
+  Des légendes mystérieuses *peuplent* l'histoire de ce château.
+  Geheimnisvolle Legenden *erfüllen* die Geschichte dieses Schlosses.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

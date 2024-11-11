@@ -13,14 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je l’exhorte à retirer sa motion.
-  Ich fordere ihn auf, seinen Antrag zurückzuziehen.
+  Je l'*exhorte* à retirer sa motion.
+  Ich *mahne* ihn, seinen Antrag zurückzuziehen.
 
-  Le prêtre a exhorté les fidèles à la prière.
-  Der Priester hat die Gläubigen zur Gebetszeit ermahnt.
+  Le professeur *exhorte* ses élèves à la patience pendant l'examen.
+  Der Lehrer *ermahnt* seine Schüler zur Geduld während der Prüfung.
 
-  Le professeur a exhorté les élèves à l'obéissance et à la discipline.
-  Der Lehrer hat die Schüler zum Gehorsam und zur Disziplin gemahnt.
+  Les parents *exhortent* leurs enfants à faire leurs devoirs.
+  Die Eltern *ermahnen* ihre Kinder, die Hausaufgaben zu machen.
+
+  Marie s'*exhorte* à la patience face aux provocations de son frère.
+  Marie *ermahnt* sich selbst zur Geduld angesichts der Provokationen ihres Bruders.
+
+  Le général *exhortait* ses soldats au combat avec passion.
+  Der General *ermutigte* seine Soldaten leidenschaftlich zum Kampf.
+
+  Son échec précédent l'avait *exhorté* à plus de prudence.
+  Sein vorheriges Scheitern hatte ihn zu mehr Vorsicht *angehalten*.
+
+  Les manifestants s'*exhortaient* mutuellement au calme.
+  Die Demonstranten *ermahnten* sich gegenseitig zur Ruhe.
+
+  Le médecin *exhorte* son patient à arrêter de fumer.
+  Der Arzt *mahnt* seinen Patienten, mit dem Rauchen aufzuhören.
+
+  Je vous *exhorte* à réfléchir avant d'agir.
+  Ich *mahne* Sie, vor dem Handeln nachzudenken.
+
+  Le maire *exhorte* les citoyens à économiser l'eau.
+  Der Bürgermeister *mahnt* die Bürger zum Wassersparen.
+
+  Les experts *exhortent* à la prudence face aux nouveaux investissements.
+  Die Experten *mahnen* zur Vorsicht bei neuen Investitionen.
+
+  Sa mère l'*exhortait* toujours à l'obéissance.
+  Seine Mutter *ermahnte* ihn stets zum Gehorsam.
+
+  Le coach *exhorte* son équipe à donner le meilleur d'elle-même.
+  Der Trainer *spornt* sein Team an, das Beste zu geben.
+
+  Je m'*exhorte* chaque jour à la persévérance.
+  Ich *ermahne* mich jeden Tag zur Beharrlichkeit.
+
+  Les dirigeants *exhortent* à la solidarité en temps de crise.
+  Die Führungskräfte *mahnen* in Krisenzeiten zur Solidarität.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,14 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’assassin cache peut-être ses victimes.
-  Der Mörder könnte seine Opfer verstecken.
+  L'*assassin* cache peut-être ses victimes.
+  Der *Mörder* versteckt vielleicht seine Opfer.
 
-  L’assassin a été arrêté par la police.
-  Der Mörder wurde von der Polizei festgenommen.
+  Les policiers ont arrêté l'*assassin* en flagrant délit.
+  Die Polizei hat den *Mörder* auf frischer Tat ertappt.
 
-  Cette femme est une assassine, elle a tué son mari il y a quelques années.
-  Diese Frau ist eine Mörderin, sie hat ihren Mann vor einigen Jahren getötet.
+  Cette femme est devenue une *assassine* professionnelle.
+  Diese Frau ist eine professionelle *Mörderin* geworden.
+
+  Sophie lui a lancé un regard *assassin*.
+  Sophie warf ihm einen *vernichtenden* Blick zu.
+
+  Sa main *assassine* a frappé dans l'obscurité.
+  Seine *mörderische* Hand schlug in der Dunkelheit zu.
+
+  Un *assassin* à gages a été engagé pour éliminer le témoin.
+  Ein bezahlter *Mörder* wurde angeheuert, um den Zeugen zu beseitigen.
+
+  Elle m'a jeté une œillade *assassine* qui m'a fait fondre.
+  Sie warf mir einen *unwiderstehlichen* Blick zu, der mich dahinschmelzen ließ.
+
+  La foule en colère criait : "*Assassins* !"
+  Die wütende Menge schrie: "*Mörder*!"
+
+  Cette critique *assassine* a détruit sa carrière.
+  Diese *vernichtende* Kritik hat seine Karriere zerstört.
+
+  L'*assassin* présumé a gardé le silence pendant tout l'interrogatoire.
+  Der mutmaßliche *Mörder* schwieg während des gesamten Verhörs.
+
+  Les sous-entendus *assassins* de Pierre ont blessé tout le monde.
+  Pierres *vernichtende* Anspielungen haben alle verletzt.
+
+  Marie est une *assassine* de talent avec ses regards séducteurs.
+  Marie ist mit ihren verführerischen Blicken eine *unwiderstehliche* Verführerin.
+
+  Un *assassin* en série terrorise la ville depuis des mois.
+  Ein Serien*mörder* terrorisiert seit Monaten die Stadt.
+
+  Cette politique *assassine* détruit notre économie.
+  Diese *vernichtende* Politik zerstört unsere Wirtschaft.
+
+  Les journaux ont publié le portrait de l'*assassin*.
+  Die Zeitungen haben das Bild des *Mörders* veröffentlicht.
+
+  Ses paroles *assassines* m'ont profondément blessé.
+  Seine *vernichtenden* Worte haben mich zutiefst verletzt.
+
+  L'*assassin* a été capturé l'arme à la main.
+  Der *Mörder* wurde mit der Waffe in der Hand gefasst.
+
+  Julie lançait des œillades *assassines* à tous les hommes de la soirée.
+  Julie warf allen Männern auf der Party *unwiderstehliche* Blicke zu.
+
+  La police recherche une *assassine* aux cheveux roux.
+  Die Polizei sucht nach einer rothaarigen *Mörderin*.
+
+  Cette audace *assassine* lui a coûté la vie.
+  Diese *mörderische* Kühnheit kostete ihn das Leben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

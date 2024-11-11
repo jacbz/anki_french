@@ -13,20 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mon objectif premier : Rester authentique.
-  Mein oberstes Ziel: Authentisch bleiben.
+  Mon objectif premier : Rester *authentique*.
+  Mein wichtigstes Ziel: *Echt* bleiben.
 
-  Cette montre est authentique.
-  Diese Uhr ist echt.
+  Ce tableau est un *authentique* Monet qui vaut des millions.
+  Dieses Gemälde ist ein *echtes* Monet und ist Millionen wert.
 
-  Le diamant semble authentique.
-  Der Diamant wirkt echt.
+  Pour être valable, le contrat doit être *authentique* et signé par un notaire.
+  Um gültig zu sein, muss der Vertrag *beglaubigt* und von einem Notar unterschrieben sein.
 
-  Le tableau est authentique.
-  Das ist ein Original.
+  Elle exprime toujours des émotions *authentiques*.
+  Sie zeigt immer *echte* Gefühle.
 
-  Authentique!
-  Ja wirklich!
+  Le musée expose uniquement des vases grecs *authentiques*.
+  Das Museum stellt nur *echte* griechische Vasen aus.
+
+  La signature sur ce document n'est pas *authentique*.
+  Die Unterschrift auf diesem Dokument ist nicht *echt*.
+
+  Son style de vie reflète une personnalité *authentique*.
+  Ihr Lebensstil spiegelt eine *unverfälschte* Persönlichkeit wider.
+
+  L'expert a confirmé qu'il s'agit d'un *authentique* Rembrandt.
+  Der Experte hat bestätigt, dass es sich um einen *echten* Rembrandt handelt.
+
+  Cette histoire *authentique* a inspiré le film.
+  Diese *wahre* Geschichte hat den Film inspiriert.
+
+  La quittance doit être *authentique* pour le remboursement.
+  Die Quittung muss für die Rückerstattung *rechtsgültig* sein.
+
+  Nous recherchons des témoignages *authentiques* de cette époque.
+  Wir suchen *authentische* Zeitzeugenberichte aus dieser Zeit.
+
+  Les reliques *authentiques* sont conservées dans la cathédrale.
+  Die *echten* Reliquien werden in der Kathedrale aufbewahrt.
+
+  Cette copie *authentique* du document original sera acceptée.
+  Diese *beglaubigte* Kopie des Originaldokuments wird akzeptiert.
+
+  Son amour pour la musique est vraiment *authentique*.
+  Seine Liebe zur Musik ist wirklich *echt*.
+
+  Les chercheurs ont trouvé un manuscrit *authentique* du XVe siècle.
+  Die Forscher haben ein *echtes* Manuskript aus dem 15. Jahrhundert gefunden.
+
+  Elle garde toujours une attitude *authentique* avec ses amis.
+  Sie bleibt ihren Freunden gegenüber immer *authentisch*.
+
+  Le restaurant sert une cuisine italienne *authentique*.
+  Das Restaurant serviert *authentische* italienische Küche.
+
+  Seul un acte *authentique* peut prouver la vente de la maison.
+  Nur eine *beglaubigte* Urkunde kann den Hausverkauf nachweisen.
+
+  Cette passion *authentique* pour l'art l'a conduit au succès.
+  Diese *echte* Leidenschaft für Kunst hat ihn zum Erfolg geführt.
+
+  Un témoin *authentique* de l'accident s'est présenté à la police.
+  Ein *echter* Zeuge des Unfalls hat sich bei der Polizei gemeldet.
+
+  Les détails *authentiques* de son récit m'ont convaincu.
+  Die *wahrheitsgetreuen* Details seiner Erzählung haben mich überzeugt.
+
+  La déclaration doit être *authentique* pour être valable en justice.
+  Die Erklärung muss vor Gericht *beglaubigt* sein, um gültig zu sein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

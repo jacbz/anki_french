@@ -13,20 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est pire que l’espace virtuel, le cyberespace.
-  Es ist schlimmer als der virtuelle Raum, der Cyberspace.
+  C'est pire que l'espace *virtuel*, le cyberespace.
+  Es ist schlimmer als der *virtuelle* Raum, der Cyberspace.
 
-  Le monde virtuel est de plus en plus présent dans notre vie.
-  Die virtuelle Welt ist immer präsenter in unserem Leben.
+  La *virtuelle* réussite du projet a donné de l'espoir à toute l'équipe.
+  Der *potentielle* Erfolg des Projekts hat dem ganzen Team Hoffnung gegeben.
 
-  Le système d'exploitation utilise la mémoire virtuelle pour augmenter la quantité de mémoire disponible pour les applications.
-  Das Betriebssystem nutzt den virtuellen Arbeitsspeicher, um die Menge des für Anwendungen verfügbaren Speichers zu erhöhen.
+  Le monde *virtuel* offre de nouvelles possibilités d'apprentissage.
+  Die *virtuelle* Welt bietet neue Lernmöglichkeiten.
 
-  Avec un bureau virtuel, les employés peuvent travailler de n'importe où, avec un accès à tous leurs fichiers et applications.
-  Mit einem Telearbeitsplatz können Mitarbeiter von überall aus arbeiten und haben Zugriff auf all ihre Dateien und Anwendungen.
+  L'entreprise a créé une boutique *virtuelle* pour vendre ses produits.
+  Das Unternehmen hat einen *virtuellen* Shop erstellt, um seine Produkte zu verkaufen.
 
-  Une galerie marchande virtuelle offre une grande variété de produits et services en ligne.
-  Eine Shopping Mall bietet eine große Auswahl an Produkten und Dienstleistungen online.
+  La réalité *virtuelle* transforme notre façon de jouer aux jeux vidéo.
+  Die *virtuelle* Realität verändert unsere Art, Videospiele zu spielen.
+
+  Une image *virtuelle* se forme dans le miroir.
+  Ein *virtuelles* Bild entsteht im Spiegel.
+
+  Mon nouveau bureau *virtuel* me permet de travailler de n'importe où.
+  Mein neuer *virtueller* Arbeitsplatz ermöglicht es mir, von überall zu arbeiten.
+
+  Les étudiants participent à une visite *virtuelle* du musée.
+  Die Studenten nehmen an einer *virtuellen* Museumsführung teil.
+
+  L'assistant *virtuel* répond à toutes mes questions.
+  Der *virtuelle* Assistent beantwortet alle meine Fragen.
+
+  Cette technologie crée un environnement *virtuel* réaliste.
+  Diese Technologie schafft eine realistische *virtuelle* Umgebung.
+
+  Le marché *virtuel* pour ce produit est très prometteur.
+  Der *potentielle* Markt für dieses Produkt ist sehr vielversprechend.
+
+  La bibliothèque *virtuelle* contient des milliers de livres numériques.
+  Die *virtuelle* Bibliothek enthält Tausende digitaler Bücher.
+
+  Les concerts *virtuels* sont devenus populaires pendant la pandémie.
+  *Virtuelle* Konzerte wurden während der Pandemie populär.
+
+  L'université propose des cours *virtuels* depuis la rentrée.
+  Die Universität bietet seit Semesterbeginn *virtuelle* Kurse an.
+
+  La communauté *virtuelle* grandit chaque jour.
+  Die *virtuelle* Gemeinschaft wächst jeden Tag.
+
+  Les réunions *virtuelles* permettent d'économiser du temps.
+  *Virtuelle* Meetings sparen Zeit.
+
+  L'exposition *virtuelle* attire des visiteurs du monde entier.
+  Die *virtuelle* Ausstellung zieht Besucher aus der ganzen Welt an.
+
+  Le projet présente une possibilité *virtuelle* de succès.
+  Das Projekt zeigt eine *potentielle* Erfolgsmöglichkeit.
+
+  Les magasins *virtuels* sont ouverts 24 heures sur 24.
+  *Virtuelle* Geschäfte haben rund um die Uhr geöffnet.
+
+  Cette plateforme offre une expérience d'achat *virtuelle*.
+  Diese Plattform bietet ein *virtuelles* Einkaufserlebnis.
+
+  La visite *virtuelle* de l'appartement nous a convaincus.
+  Die *virtuelle* Besichtigung der Wohnung hat uns überzeugt.
+
+  Les équipes *virtuelles* collaborent à travers le monde.
+  *Virtuelle* Teams arbeiten weltweit zusammen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

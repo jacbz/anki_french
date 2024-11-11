@@ -13,14 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les prix élevés des carburants ont frappé tous les secteurs de l’économie.
-  Die hohen Kraftstoffpreise trafen alle Wirtschaftssektoren.
+  Les prix élevés des *carburants* ont frappé tous les secteurs de l'économie.
+  Die hohen *Kraftstoff*preise haben alle Wirtschaftsbereiche getroffen.
 
-  La voiture a besoin de carburant pour fonctionner.
-  Das Auto braucht Kraftstoff, um zu funktionieren.
+  La voiture consomme moins de *carburant* sur l'autoroute qu'en ville.
+  Das Auto verbraucht auf der Autobahn weniger *Treibstoff* als in der Stadt.
 
-  Le carburant pour avions est un élément essentiel pour le fonctionnement des avions.
-  Flugzeugtreibstoff ist essenziell für den Betrieb von Flugzeugen.
+  Il faut choisir le bon type de *carburant* pour votre moteur.
+  Sie müssen den richtigen *Kraftstoff*typ für Ihren Motor wählen.
+
+  Ce nouveau *carburant* vert est produit à partir de déchets organiques.
+  Dieser neue Bio*kraftstoff* wird aus organischen Abfällen hergestellt.
+
+  Le réservoir de *carburant* est presque vide.
+  Der *Kraftstoff*tank ist fast leer.
+
+  Les avions militaires utilisent un *carburant* spécial pour leurs missions.
+  Militärflugzeuge verwenden einen speziellen *Treibstoff* für ihre Einsätze.
+
+  Le mélange *carburant* n'était pas optimal, ce qui a causé des problèmes au moteur.
+  Das *Kraftstoff*gemisch war nicht optimal, was zu Motorproblemen führte.
+
+  Les chercheurs développent de nouveaux *carburants* synthétiques.
+  Die Forscher entwickeln neue synthetische *Treibstoffe*.
+
+  La station-service propose plusieurs types de *carburants*.
+  Die Tankstelle bietet verschiedene *Kraftstoff*arten an.
+
+  Notre dépôt de *carburant* peut stocker jusqu'à mille litres.
+  Unser *Treibstoff*lager kann bis zu tausend Liter aufnehmen.
+
+  Ce moteur fonctionne uniquement avec du *carburant* sans plomb.
+  Dieser Motor läuft nur mit bleifreiem *Kraftstoff*.
+
+  Le prix du *carburant* pour avions a doublé cette année.
+  Der Flugzeug*treibstoff*preis hat sich dieses Jahr verdoppelt.
+
+  Les voitures modernes consomment moins de *carburant* que les anciennes.
+  Moderne Autos verbrauchen weniger *Kraftstoff* als alte.
+
+  L'industrie investit massivement dans les *carburants* de demain.
+  Die Industrie investiert stark in die *Kraftstoffe* der Zukunft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,29 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On me cache derrière un meuble.
-  Ich werde hinter einem Möbelstück versteckt.
+  On me cache derrière un *meuble*.
+  Man versteckt mich hinter einem *Möbelstück*.
 
-  Le salon est équipé de beaux meubles.
-  Das Wohnzimmer ist mit schönen Möbeln ausgestattet.
+  Le *meuble* en chêne est devenu trop vieux pour être utilisé.
+  Das *Möbelstück* aus Eichenholz ist zu alt geworden, um es zu benutzen.
 
-  Les meubles de bureau de Paul sont modernes et fonctionnels.
-  Pauls Büromöbel sind modern und funktional.
+  Les nouveaux *meubles* de bureau sont arrivés ce matin.
+  Die neuen *Möbel* fürs Büro sind heute Morgen angekommen.
 
-  Après l'incendie, les pompiers ont fait de leur mieux pour sauver les meubles de la maison.
-  Nach dem Brand haben die Feuerwehrleute ihr Bestes getan, um die Möbel des Hauses zu retten.
+  Ma grand-mère m'a légué ses *meubles* anciens.
+  Meine Großmutter hat mir ihre antiken *Möbel* vererbt.
 
-  Les meubles de cuisine de la nouvelle maison sont en bois massif.
-  Die Küchenmöbel des neuen Hauses sind aus Massivholz.
+  Julie a acheté des *meubles* de jardin en plastique blanc.
+  Julie hat weiße *Gartenmöbel* aus Plastik gekauft.
 
-  Les meubles de salle de bain sont en céramique et ont un design élégant.
-  Die Badezimmermöbel sind aus Keramik und haben ein elegantes Design.
+  Il faut déplacer les *meubles* pour nettoyer derrière.
+  Man muss die *Möbel* verschieben, um dahinter zu putzen.
 
-  Les meubles de jardin sont en teck et sont résistants aux intempéries.
-  Die Gartenmöbel sind aus Teakholz und wetterfest.
+  Les *meubles* de cuisine sont en cours de livraison.
+  Die *Küchenmöbel* werden gerade geliefert.
 
-  Le meuble hi-fi de Pierre est un véritable bijou technologique.
-  Pierres Stereoturm ist ein echtes technologisches Juwel.
+  "Il faut *sauver les meubles* avant la faillite de l'entreprise."
+  "Wir müssen *retten, was noch zu retten ist*, bevor die Firma pleitegeht."
+
+  Ce *meuble* hi-fi vintage est parfait pour mon salon.
+  Dieser vintage *Stereoturm* ist perfekt für mein Wohnzimmer.
+
+  Le jardinier préfère travailler une terre *meuble*.
+  Der Gärtner arbeitet lieber mit *lockerem* Boden.
+
+  Nos *meubles* de salle de bain sont résistants à l'humidité.
+  Unsere *Badezimmermöbel* sind feuchtigkeitsbeständig.
+
+  Les *meubles* de rangement occupent tout le mur.
+  Die *Schränke* nehmen die ganze Wand ein.
+
+  Paul a hérité de plusieurs biens *meubles* de son oncle.
+  Paul hat mehrere *bewegliche* Güter von seinem Onkel geerbt.
+
+  Ce magasin vend des *meubles* rustiques faits main.
+  Dieser Laden verkauft handgemachte rustikale *Möbel*.
+
+  Les *meubles* modernes ne correspondent pas au style de la maison.
+  Die modernen *Möbel* passen nicht zum Stil des Hauses.
+
+  Le sol *meuble* permet aux plantes de bien s'enraciner.
+  Der *lockere* Boden ermöglicht es den Pflanzen, gut zu wurzeln.
+
+  Nous devons assurer tous nos biens *meubles*.
+  Wir müssen all unsere *beweglichen* Güter versichern.
+
+  Ces *meubles* Empire valent une fortune.
+  Diese Empire-*Möbel* sind ein Vermögen wert.
+
+  Le *meuble* en merisier est magnifique dans cette pièce.
+  Das *Möbelstück* aus Kirschholz sieht in diesem Raum wunderschön aus.
+
+  Les *meubles* design attirent beaucoup de clients.
+  Die Design-*Möbel* ziehen viele Kunden an.
+
+  Les sables sont des formations *meubles*.
+  Sandböden sind *lockere* Formationen.
+
+  "Nous avons réussi à *sauver les meubles* après l'inondation."
+  "Wir haben es geschafft, nach der Überschwemmung *zu retten, was noch zu retten war*."
+
+  Ces *meubles* en acajou sont très élégants.
+  Diese *Möbel* aus Mahagoni sind sehr elegant.
+
+  Marie vend tous ses *meubles* avant de déménager à l'étranger.
+  Marie verkauft alle ihre *Möbel*, bevor sie ins Ausland zieht.
+
+  Le notaire a fait l'inventaire des biens *meubles* et immeubles.
+  Der Notar hat ein Inventar der *beweglichen* und unbeweglichen Güter erstellt.
+
+  Les dépôts calcaires *meubles* s'érodent facilement.
+  Die *lockeren* Kalkablagerungen erodieren leicht.
+
+  Les *meubles* de haute époque sont très recherchés.
+  *Möbel* aus frühen Epochen sind sehr gefragt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

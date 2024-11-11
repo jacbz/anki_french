@@ -13,41 +13,86 @@ Register: ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je connaissais mes défaillances et je les regrettais.
-  Ich kannte meine Niederlagen und bedauerte sie.
+  Je connaissais mes *défaillances* et je les regrettais.
+  Ich kannte meine *Schwächen* und bereute sie.
 
-  Le système a subi une défaillance.
-  Das System hat einen Ausfall erlitten.
+  Une *défaillance* de mémoire lui a fait oublier son texte pendant la représentation.
+  Ein *Black-out* ließ ihn während der Aufführung seinen Text vergessen.
 
-  Il a eu un instant de défaillance, mais il s'est vite repris.
-  Er hatte einen schwachen Moment, aber er hat sich schnell wieder gefangen.
+  En cas de *défaillance* cardiaque, chaque seconde compte.
+  Bei *Herzversagen* zählt jede Sekunde.
 
-  Le pilote a eu une défaillance et a perdu le contrôle de l'avion.
-  Der Pilot erlitt einen Schwächeanfall und verlor die Kontrolle über das Flugzeug.
+  La *défaillance* humaine est la cause principale de cet accident.
+  *Menschliches Versagen* ist die Hauptursache dieses Unfalls.
 
-  Elle est tombée en défaillance après avoir vu le sang.
-  Sie ist in Ohnmacht gefallen, nachdem sie das Blut sah.
+  Une *défaillance* technique a provoqué l'arrêt du système.
+  Ein technischer *Defekt* hat den Systemausfall verursacht.
 
-  Le moteur du camion a fonctionné sans défaillance pendant des années.
-  Der Motor des Lastwagens hat jahrelang zuverlässig funktioniert.
+  Le véhicule a subi une *défaillance* mécanique sur l'autoroute.
+  Das Fahrzeug hatte einen mechanischen *Ausfall* auf der Autobahn.
 
-  La défaillance mécanique a causé un accident de la route.
-  Der mechanische Defekt hat einen Verkehrsunfall verursacht.
+  Cette *défaillance* de la volonté ne lui ressemble pas.
+  Diese *Schwäche* des Willens passt nicht zu ihm.
 
-  La banque a refusé le prêt en raison de la défaillance du débiteur.
-  Die Bank hat den Kredit wegen der Säumigkeit des Schuldners abgelehnt.
+  Les experts analysent les causes de la *défaillance* du système de sécurité.
+  Die Experten analysieren die Ursachen für das *Versagen* des Sicherheitssystems.
 
-  La défaillance de crédit a entraîné la faillite de l'entreprise.
-  Der Kreditausfall hat zur Insolvenz des Unternehmens geführt.
+  Elle a eu une *défaillance* pendant la course du marathon.
+  Sie hatte einen *Schwächeanfall* während des Marathonlaufs.
 
-  Le médecin a diagnostiqué une défaillance cardiaque chez le patient.
-  Der Arzt diagnostizierte beim Patienten ein Herzversagen.
+  Notre équipe travaille sans *défaillance* depuis des années.
+  Unser Team arbeitet seit Jahren *störungsfrei*.
 
-  La défaillance humaine est à l'origine de nombreux accidents.
-  Menschliches Versagen ist die Ursache für viele Unfälle.
+  Une *défaillance* du moteur a forcé l'avion à atterrir.
+  Ein *Ausfall* des Motors zwang das Flugzeug zur Landung.
 
-  Cet appareil est sujet aux défaillances et nécessite une maintenance régulière.
-  Dieses Gerät ist störanfällig und benötigt regelmäßige Wartung.
+  Cette machine est sujette aux *défaillances*.
+  Diese Maschine ist *störungsanfällig*.
+
+  La *défaillance* de leur stratégie est devenue évidente.
+  Die *Schwachstelle* ihrer Strategie wurde offensichtlich.
+
+  Il a surmonté sa *défaillance* et a terminé la compétition.
+  Er hat seine *Schwäche* überwunden und den Wettkampf beendet.
+
+  Une *défaillance* de l'électronique a causé la panne.
+  Ein *Ausfall* der Elektronik hat die Störung verursacht.
+
+  Les médecins surveillent la *défaillance* de ses organes.
+  Die Ärzte überwachen das *Versagen* seiner Organe.
+
+  Dans un moment de *défaillance*, elle a révélé le secret.
+  In einem Moment der *Schwäche* hat sie das Geheimnis verraten.
+
+  Cette entreprise n'a connu aucune *défaillance* depuis sa création.
+  Dieses Unternehmen hat seit seiner Gründung keinen *Ausfall* erlebt.
+
+  Une *défaillance* du système informatique a paralysé l'entreprise.
+  Ein *Ausfall* des Computersystems hat das Unternehmen lahmgelegt.
+
+  La *défaillance* de ses jambes l'a fait tomber.
+  Die *Schwäche* seiner Beine ließ ihn fallen.
+
+  Les ingénieurs ont corrigé toutes les *défaillances* du prototype.
+  Die Ingenieure haben alle *Defekte* des Prototyps behoben.
+
+  Cette *défaillance* temporaire n'affectera pas ses performances.
+  Diese vorübergehende *Schwäche* wird seine Leistung nicht beeinträchtigen.
+
+  Le patient a subi une *défaillance* respiratoire.
+  Der Patient erlitt *Atemversagen*.
+
+  Sa *défaillance* lors de l'examen était due au stress.
+  Sein *Black-out* in der Prüfung war auf Stress zurückzuführen.
+
+  Le nouveau système détecte automatiquement les *défaillances*.
+  Das neue System erkennt automatisch *Störungen*.
+
+  L'appareil fonctionne sans *défaillance* depuis son installation.
+  Das Gerät funktioniert seit seiner Installation *störungsfrei*.
+
+  Les *défaillances* répétées du réseau inquiètent les utilisateurs.
+  Die wiederholten *Ausfälle* des Netzwerks beunruhigen die Nutzer.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

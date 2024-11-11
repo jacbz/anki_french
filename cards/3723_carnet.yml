@@ -13,32 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’inscrivais les rendez-vous sur mon carnet.
-  Ich trug die Termine in mein Notizbuch ein.
+  J'inscrivais les rendez-vous sur mon *carnet*.
+  Ich schrieb die Termine in mein *Notizbuch*.
 
-  J’ai oublié mon carnet à la maison.
-  Ich habe mein Notizbuch zu Hause vergessen.
+  As-tu vu mon *carnet* d'adresses ? Je ne le trouve plus.
+  Hast du mein Adressen*heft* gesehen? Ich kann es nicht mehr finden.
 
-  Je peux voir ton carnet?
-  Kann ich dein Notizbuch sehen?
+  Son *carnet* de notes est rempli de dessins au lieu d'exercices.
+  Sein *Heft* ist voller Zeichnungen statt Übungen.
 
-  J'ai un carnet de tickets pour le métro.
-  Ich habe ein Fahrscheinheft für die U-Bahn.
+  "J'ai perdu mon *carnet* de santé avant le rendez-vous chez le médecin."
+  "Ich habe meinen Gesundheits*pass* vor dem Arzttermin verloren."
 
-  Le carnet de commandes est sur le bureau du chef.
-  Das Auftragsbuch liegt auf dem Schreibtisch des Chefs.
+  Je dois acheter un nouveau *carnet* de tickets de métro.
+  Ich muss mir ein neues U-Bahn-*Heft* kaufen.
 
-  J'ai acheté un carnet de timbres à la poste.
-  Ich habe ein Briefmarkenheftchen auf der Post gekauft.
+  Pendant le voyage, il écrit dans son *carnet* de bord tous les soirs.
+  Während der Reise schreibt er jeden Abend in sein Bord*buch*.
 
-  Les carnets de commandes sont pleins, nous avons beaucoup de travail.
-  Die Auftragsbücher sind voll, wir haben viel Arbeit.
+  Le mécanicien note toutes les réparations dans le *carnet* de route de la voiture.
+  Der Mechaniker notiert alle Reparaturen im Wartungs*heft* des Autos.
 
-  L'entreprise a un carnet de commandes bien rempli, elle est en pleine croissance.
-  Die Firma hat ein Auftragspolster, sie wächst stark.
+  Le *carnet* de vaccinations de mon fils est à jour.
+  Der Impf*pass* meines Sohnes ist auf dem neuesten Stand.
 
-  La décharge du carnet TIR est un processus long et complexe.
-  Die Erledigung des T.I.R.-Carnet ist ein langwieriger und komplexer Prozess.
+  Dans son *carnet* de bal, elle a inscrit tous ses cavaliers.
+  In ihre Ball*karte* hat sie alle ihre Tanzpartner eingetragen.
+
+  Les *carnets* de Montherlant révèlent ses pensées les plus intimes.
+  Die Tage*bücher* von Montherlant offenbaren seine intimsten Gedanken.
+
+  Notre entreprise a un *carnet* de commandes bien rempli pour les six prochains mois.
+  Unser Unternehmen hat ein gut gefülltes Auftrags*buch* für die nächsten sechs Monate.
+
+  Le *carnet* de change doit être présenté à la douane.
+  Das Devisen*heft* muss beim Zoll vorgelegt werden.
+
+  Il a acheté un *carnet* de timbres à la poste.
+  Er hat ein Briefmarken*heftchen* bei der Post gekauft.
+
+  Le *carnet* scolaire de ma fille montre ses progrès en mathématiques.
+  Das Schul*heft* meiner Tochter zeigt ihre Fortschritte in Mathematik.
+
+  Pour obtenir une réduction, utilisez votre *carnet* d'achat.
+  Um einen Rabatt zu erhalten, benutzen Sie Ihr Einkaufs*heft*.
+
+  Elle note toutes ses dépenses dans un petit *carnet*.
+  Sie notiert alle ihre Ausgaben in einem kleinen *Heft*.
+
+  Les *carnets* de commandes sont vides depuis la crise.
+  Die Auftrags*bücher* sind seit der Krise leer.
+
+  J'ai oublié mon *carnet* de chèques à la maison.
+  Ich habe mein Scheck*heft* zu Hause vergessen.
+
+  Le chauffeur routier doit toujours avoir son *carnet* TIR avec lui.
+  Der LKW-Fahrer muss sein TIR-*Carnet* immer dabei haben.
+
+  Le journal a annoncé la naissance dans son *carnet* rose.
+  Die Zeitung hat die Geburt in ihrer *Rubrik* für Geburtsanzeigen bekannt gegeben.
+
+  Pierre garde un petit *carnet* dans sa poche pour noter ses idées.
+  Pierre bewahrt ein kleines *Notizbuch* in seiner Tasche auf, um seine Ideen festzuhalten.
+
+  Mon vieux *carnet* est plein, je dois en acheter un nouveau.
+  Mein altes *Heft* ist voll, ich muss mir ein neues kaufen.
+
+  Le professeur a sorti son *carnet* pour noter les absents.
+  Der Lehrer hat sein *Notizheft* herausgeholt, um die Fehlenden einzutragen.
+
+  L'agent de change inscrit chaque transaction dans son *carnet*.
+  Der Börsenmakler trägt jede Transaktion in sein *Buch* ein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

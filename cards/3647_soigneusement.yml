@@ -13,14 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai soigneusement examiné le document.
-  Ich habe das Dokument sorgfältig geprüft.
+  J'ai *soigneusement* examiné le document.
+  Ich habe das Dokument *sorgfältig* geprüft.
 
-  Elle a rangé sa chambre soigneusement.
-  Sie hat ihr Zimmer sorgfältig aufgeräumt.
+  Elle range *soigneusement* ses vêtements dans l'armoire.
+  Sie räumt ihre Kleidung *ordentlich* in den Schrank.
 
-  Elle l’a fait soigneusement.
-  Sie tat dies sorgfältig.
+  Les enfants ont *soigneusement* tracé leurs lettres dans leurs cahiers.
+  Die Kinder haben ihre Buchstaben *gewissenhaft* in ihre Hefte geschrieben.
+
+  Il faut *soigneusement* éviter les erreurs dans ce type de travail.
+  Man muss Fehler bei dieser Art von Arbeit *peinlich* vermeiden.
+
+  Le chirurgien a *soigneusement* préparé son intervention.
+  Der Chirurg hat seinen Eingriff *sorgfältig* vorbereitet.
+
+  Nous avons *soigneusement* planifié notre voyage.
+  Wir haben unsere Reise *gewissenhaft* geplant.
+
+  La grand-mère plie *soigneusement* les serviettes en papier.
+  Die Großmutter faltet die Servietten *ordentlich*.
+
+  L'architecte a *soigneusement* conçu chaque détail de la maison.
+  Der Architekt hat jedes Detail des Hauses *sorgfältig* entworfen.
+
+  Marie note *soigneusement* toutes les instructions.
+  Marie schreibt alle Anweisungen *gewissenhaft* auf.
+
+  Le jardinier a *soigneusement* taillé les arbustes.
+  Der Gärtner hat die Sträucher *sorgfältig* geschnitten.
+
+  Il faut installer *soigneusement* le nouveau logiciel.
+  Die neue Software muss *sorgfältig* installiert werden.
+
+  Les scientifiques ont *soigneusement* analysé les résultats.
+  Die Wissenschaftler haben die Ergebnisse *gewissenhaft* analysiert.
+
+  Le restaurateur a *soigneusement* restauré le tableau ancien.
+  Der Restaurator hat das alte Gemälde *sorgfältig* restauriert.
+
+  Elle a *soigneusement* vérifié tous les documents avant de les envoyer.
+  Sie hat alle Dokumente *gewissenhaft* überprüft, bevor sie sie abgeschickt hat.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

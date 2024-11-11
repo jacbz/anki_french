@@ -13,32 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est à marée haute qu’il faut venir.
-  Bei Flut muss man kommen.
+  C'est à *marée* haute qu'il faut venir.
+  Man muss bei *Flut* kommen.
 
-  La marée monte.
-  Die Flut steigt.
+  Les horaires des *marées* sont affichés au port.
+  Die *Gezeiten*zeiten sind im Hafen ausgehängt.
 
-  La marée monte vite.
-  Die Flut steigt schnell.
+  La lune influence les *marées* sur terre.
+  Der Mond beeinflusst die *Gezeiten* auf der Erde.
 
-  La marée basse a révélé de nombreux trésors cachés sur la plage.
-  Bei Ebbe konnten viele versteckte Schätze am Strand entdeckt werden.
+  Nous ne pouvons traverser qu'à *marée* basse.
+  Wir können nur bei *Ebbe* überqueren.
 
-  La marée haute a emporté les bateaux vers le large.
-  Die Flut hat die Boote hinaus aufs Meer getragen.
+  Une *marée* noire menace les côtes bretonnes.
+  Eine Öl*flut* bedroht die bretonische Küste.
 
-  Une marée humaine s'est dirigée vers le stade pour assister au match.
-  Eine Menschenflut strömte in Richtung Stadion, um das Spiel zu verfolgen.
+  La *marée* montante arrive plus vite qu'on ne le pense.
+  Die steigende *Flut* kommt schneller als man denkt.
 
-  Nous irons pêcher à marée basse, car les poissons sont plus faciles à attraper.
-  Wir werden bei Ebbe angeln gehen, denn dann sind die Fische leichter zu fangen.
+  Le coefficient de *marée* est particulièrement élevé aujourd'hui.
+  Der *Gezeiten*koeffizient ist heute besonders hoch.
 
-  La grande marée a provoqué des inondations dans les zones côtières.
-  Die Springflut hat in den Küstengebieten zu Überschwemmungen geführt.
+  Les grandes *marées* d'équinoxe attirent toujours les touristes.
+  Die *Spring*fluten zur Tag-und-Nacht-Gleiche ziehen immer Touristen an.
 
-  La marée montante du chômage inquiète de nombreux citoyens.
-  Der rasante Anstieg der Arbeitslosigkeit macht vielen Bürgern Sorgen.
+  Ce port à *marée* n'est accessible qu'à certaines heures.
+  Dieser *Gezeiten*hafen ist nur zu bestimmten Zeiten zugänglich.
+
+  Une *marée* humaine envahissait les rues pendant le carnaval.
+  Eine Menschen*flut* strömte während des Karnevals durch die Straßen.
+
+  Il continue son projet contre vents et *marées*.
+  Er verfolgt sein Projekt gegen alle Widerstände.
+
+  Le moulin à *marée* est un vestige du patrimoine maritime.
+  Die *Gezeiten*mühle ist ein Überbleibsel des maritimen Erbes.
+
+  La *marée* descendante a laissé des coquillages sur la plage.
+  Die ablaufende *Flut* hat Muscheln am Strand hinterlassen.
+
+  Le marchand de *marée* ouvre très tôt le matin.
+  Der Frisch*fisch*händler öffnet sehr früh am Morgen.
+
+  Cette *marée* est arrivée comme *marée* en carême.
+  Diese Lieferung kam genau zum richtigen Zeitpunkt.
+
+  Le pêcheur est parti pour une *marée* de trois semaines.
+  Der Fischer ist zu einem dreiwöchigen *Fang*zug aufgebrochen.
+
+  La *marée* du siècle est prévue pour demain.
+  Die Jahrhundert*flut* wird für morgen erwartet.
+
+  Les enfants jouent dans les flaques à *marée* basse.
+  Die Kinder spielen bei *Ebbe* in den Pfützen.
+
+  Le train de *marée* arrive directement de Boulogne.
+  Der Frisch*fisch*zug kommt direkt aus Boulogne.
+
+  La *marée* montante du chômage inquiète les économistes.
+  Die steigende *Flut* der Arbeitslosigkeit beunruhigt die Ökonomen.
+
+  Les tables de *marées* sont indispensables aux navigateurs.
+  Die *Gezeiten*tafeln sind für Seefahrer unentbehrlich.
+
+  Le bassin à *marée* se remplit progressivement.
+  Das *Gezeiten*becken füllt sich allmählich.
+
+  L'annuaire des *marées* indique les coefficients journaliers.
+  Der *Gezeiten*kalender zeigt die täglichen Koeffizienten an.
+
+  Une *marée* exceptionnelle est attendue ce week-end.
+  Eine außergewöhnliche *Spring*flut wird dieses Wochenende erwartet.
+
+  La *marée* est à huit heures ce soir.
+  Die *Flut* ist heute Abend um acht.
+
+  Les bateaux attendent la *marée* pour sortir du port.
+  Die Boote warten auf die *Flut*, um aus dem Hafen auszulaufen.
+
+  Le fleuve sans *marée* garde toujours le même niveau.
+  Der *gezeitenfreie* Fluss behält immer denselben Wasserstand.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

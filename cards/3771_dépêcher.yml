@@ -13,20 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai bloqué l’ascenseur, dépêchez vous, vite.
-  Ich habe den Fahrstuhl blockiert, beeilen Sie sich, schnell.
+  J'ai bloqué l'ascenseur, *dépêchez*-vous, vite !
+  Ich halte den Aufzug auf, *beeilt* euch, schnell!
 
-  Je dois me dépêcher pour arriver à l’heure.
-  Ich muss mich beeilen, um pünktlich anzukommen.
+  Il faut se *dépêcher* de finir ce travail avant midi.
+  Wir müssen uns *beeilen*, diese Arbeit vor dem Mittag fertig zu bekommen.
 
-  Il faut se dépêcher de faire ses devoirs avant d'aller se coucher.
-  Man muss sich beeilen, seine Hausaufgaben zu machen, bevor man schlafen geht.
+  Le ministre a *dépêché* un émissaire pour négocier la paix.
+  Der Minister hat einen Unterhändler *entsandt*, um über den Frieden zu verhandeln.
 
-  Le directeur a dépêché son secrétaire auprès du client.
-  Der Direktor hat seinen Sekretär zum Kunden geschickt.
+  "*Dépêche*-toi de ranger ta chambre avant que papa rentre !"
+  "*Beeil* dich, dein Zimmer aufzuräumen, bevor Papa zurückkommt!"
 
-  Je me dépêche de terminer ma lettre avant que le facteur n'arrive.
-  Ich schreibe schnell meinen Brief fertig, bevor der Postbote kommt.
+  Les étudiants se *dépêchaient* de prendre des notes pendant le cours.
+  Die Studenten *beeilten* sich, während der Vorlesung Notizen zu machen.
+
+  L'entreprise a *dépêché* des experts pour résoudre le problème technique.
+  Die Firma hat Experten *geschickt*, um das technische Problem zu lösen.
+
+  Je me suis *dépêchée* de prendre le dernier train.
+  Ich habe mich *beeilt*, den letzten Zug zu erwischen.
+
+  Marie se *dépêche* toujours le matin pour ne pas rater son bus.
+  Marie *beeilt* sich morgens immer, damit sie ihren Bus nicht verpasst.
+
+  Le gouvernement a *dépêché* une équipe de secours dans la zone sinistrée.
+  Die Regierung hat ein Rettungsteam in das Katastrophengebiet *entsandt*.
+
+  *Dépêchez*-vous de faire vos courses avant la fermeture du magasin !
+  *Beeilt* euch mit dem Einkaufen, bevor der Laden schließt!
+
+  Pierre s'est *dépêché* de terminer son assiette pour aller jouer.
+  Pierre hat sich *beeilt*, seinen Teller leer zu essen, um spielen zu gehen.
+
+  L'ambassade a *dépêché* un représentant à la réunion d'urgence.
+  Die Botschaft hat einen Vertreter zu der Dringlichkeitssitzung *entsandt*.
+
+  Nous nous *dépêchons* de rentrer avant l'orage.
+  Wir *beeilen* uns, vor dem Gewitter nach Hause zu kommen.
+
+  Il faut que je me *dépêche* de poster cette lettre aujourd'hui.
+  Ich muss mich *beeilen*, diesen Brief heute noch abzuschicken.
+
+  Le patron s'est *dépêché* d'appeler les pompiers quand il a vu la fumée.
+  Der Chef hat sich *beeilt*, die Feuerwehr zu rufen, als er den Rauch sah.
+
+  Le président a *dépêché* son conseiller auprès du premier ministre.
+  Der Präsident hat seinen Berater zum Premierminister *entsandt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

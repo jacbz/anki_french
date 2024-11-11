@@ -13,17 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je récolte en permanence les histoires des gens.
-  Ich sammle ständig die Geschichten der Menschen.
+  Je *récolte* en permanence les histoires des gens.
+  Ich *sammle* ständig die Geschichten der Menschen.
 
-  Nous allons récolter des pommes.
-  Wir werden Äpfel ernten.
+  Les agriculteurs *récolteront* le blé la semaine prochaine.
+  Die Bauern werden den Weizen nächste Woche *ernten*.
 
-  Le marché regorgeait de légumes tout juste récoltés, encore gorgés de fraîcheur.
-  Der Markt strotzte vor erntefrischem Gemüse, das noch voller Frische steckte.
+  "Tu vas *récolter* des ennuis si tu continues comme ça !"
+  "Du wirst nur Ärger *bekommen*, wenn du so weitermachst!"
 
-  Il est important de récolter ce qu'on a semé, pour ne pas gaspiller les efforts déployés.
-  Es ist wichtig, zu ernten, was man gesät hat, um die geleistete Arbeit nicht zu verschwenden.
+  Ces fraises se *récoltent* au début de l'été.
+  Diese Erdbeeren werden Anfang Sommer *geerntet*.
+
+  Mon grand-père a *récolté* trois tonnes de pommes dans son verger.
+  Mein Großvater hat drei Tonnen Äpfel in seinem Obstgarten *geerntet*.
+
+  La police *récolte* des indices sur la scène du crime.
+  Die Polizei *sammelt* Beweise am Tatort.
+
+  Elle a *récolté* beaucoup de compliments pour sa présentation.
+  Sie hat viel Lob für ihre Präsentation *geerntet*.
+
+  Les pêcheurs *récoltent* les huîtres pendant la marée basse.
+  Die Fischer *sammeln* die Austern bei Ebbe.
+
+  *Qui sème le vent récolte la tempête*.
+  *Wer Wind sät, wird Sturm ernten*.
+
+  Notre équipe a *récolté* de nombreux succès cette année.
+  Unser Team hat dieses Jahr viele Erfolge *erzielt*.
+
+  Il faut *récolter* les tomates avant les premières gelées.
+  Man muss die Tomaten vor dem ersten Frost *ernten*.
+
+  Les bénévoles *récoltent* des dons pour les sans-abri.
+  Die Freiwilligen *sammeln* Spenden für die Obdachlosen.
+
+  Tu vas finir par *récolter* ce que tu as semé !
+  Du wirst am Ende *ernten*, was du gesät hast!
+
+  Le cambrioleur a *récolté* deux ans de prison.
+  Der Einbrecher hat zwei Jahre Gefängnis *bekommen*.
+
+  Les chercheurs *récoltent* des données sur le comportement des oiseaux.
+  Die Forscher *tragen* Daten über das Verhalten der Vögel *zusammen*.
+
+  Le coton se *récolte* à la main dans cette région.
+  Die Baumwolle wird in dieser Region von Hand *geerntet*.
+
+  Marie a *récolté* une contravention pour excès de vitesse.
+  Marie hat einen Strafzettel wegen zu schnellen Fahrens *bekommen*.
+
+  Nous avons *récolté* tous les documents nécessaires pour le dossier.
+  Wir haben alle notwendigen Dokumente für die Akte *zusammengetragen*.
+
+  Les vignerons *récoltent* le raisin à l'aube.
+  Die Winzer *ernten* die Trauben bei Tagesanbruch.
+
+  "J'ai *récolté* pas mal de coups pendant le match de boxe."
+  "Ich habe während des Boxkampfes ziemlich viele Schläge *eingesteckt*."
+
+  Son nouveau livre *récolte* beaucoup de critiques positives.
+  Sein neues Buch *erntet* viel positives Feedback.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

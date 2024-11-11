@@ -13,14 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mes confrères de classe ont bénéficié de ces bourses.
-  Meine Klassenkameraden haben von diesen Stipendien profitiert.
+  Mes *confrères* de classe ont bénéficié de ces bourses.
+  Meine Klassen*kollegen* haben diese Stipendien erhalten.
 
-  Mon confrère et moi travaillons sur ce projet ensemble.
-  Mein Kollege und ich arbeiten zusammen an diesem Projekt.
+  J'ai recommandé à mon patient de consulter un *confrère* spécialiste.
+  Ich habe meinem Patienten empfohlen, einen Fach*kollegen* aufzusuchen.
 
-  Mon cher confrère, je vous remercie de votre précieuse collaboration sur ce projet.
-  Verehrter Kollege, ich danke Ihnen für Ihre wertvolle Zusammenarbeit an diesem Projekt.
+  Les *confrères* de l'Académie ont voté à l'unanimité pour son admission.
+  Die *Kollegen* der Akademie haben einstimmig für seine Aufnahme gestimmt.
+
+  Mon *confrère* en poésie m'a donné des conseils précieux sur mes vers.
+  Mein Dichter*kollege* hat mir wertvolle Ratschläge zu meinen Versen gegeben.
+
+  Je souhaite la bienvenue à notre nouveau *confrère* dans notre cabinet médical.
+  Ich heiße unseren neuen *Kollegen* in unserer Arztpraxis willkommen.
+
+  Cher *confrère*, je vous prie d'agréer l'expression de mes sentiments distingués.
+  Sehr geehrter *Kollege*, ich verbleibe mit freundlichen Grüßen.
+
+  Les *confrères* de Saint-Vincent-de-Paul se réunissent chaque mardi.
+  Die *Mitbrüder* der Sankt-Vinzenz-Gemeinschaft treffen sich jeden Dienstag.
+
+  Un avocat respecté par ses *confrères* prendra la défense de l'accusé.
+  Ein von seinen *Kollegen* respektierter Anwalt wird die Verteidigung des Angeklagten übernehmen.
+
+  Tous mes *confrères* journalistes ont couvert cet événement important.
+  Alle meine Journalisten*kollegen* haben über dieses wichtige Ereignis berichtet.
+
+  Le docteur Martin a transmis le dossier médical à son *confrère* de l'hôpital.
+  Dr. Martin hat die Krankenakte an seinen Krankenhaus*kollegen* weitergeleitet.
+
+  Notre *confrère* de l'université donnera une conférence la semaine prochaine.
+  Unser Universitäts*kollege* wird nächste Woche einen Vortrag halten.
+
+  Les *confrères* du conseil de l'ordre ont examiné la plainte avec attention.
+  Die *Kollegen* des Standesrats haben die Beschwerde sorgfältig geprüft.
+
+  Je salue mes *confrères* artistes qui exposent leurs œuvres ce soir.
+  Ich grüße meine Künstler*kollegen*, die heute Abend ihre Werke ausstellen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

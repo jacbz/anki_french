@@ -13,23 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis en quelque sorte son photographe non officiel.
-  Ich bin sozusagen sein inoffizieller Fotograf.
+  Je suis en quelque sorte son *photographe* non officiel.
+  Ich bin gewissermaßen sein inoffizieller *Fotograf*.
 
-  Le photographe a pris une belle photo.
-  Der Fotograf hat ein schönes Foto gemacht.
+  Le *photographe* amateur a réussi à capturer un moment magique au coucher du soleil.
+  Dem Amateur*fotografen* ist es gelungen, einen magischen Moment beim Sonnenuntergang einzufangen.
 
-  Je connais le photographe qui a pris cette photo.
-  Ich kenne den Fotografen, der dieses Foto gemacht hat.
+  Cette *photographe* de mode travaille pour les plus grands magazines de Paris.
+  Diese Mode*fotografin* arbeitet für die größten Magazine in Paris.
 
-  Marie est une photographe amateur qui aime prendre des photos de paysages.
-  Marie ist eine Amateurfotografin, die es liebt, Landschaften zu fotografieren.
+  Le *photographe* de guerre a documenté les conflits pendant plus de vingt ans.
+  Der Kriegs*fotograf* hat über zwanzig Jahre lang Konflikte dokumentiert.
 
-  Sophie est une photographe publicitaire qui travaille pour une grande agence.
-  Sophie ist eine Werbefotografin, die für eine große Agentur arbeitet.
+  Notre *photographe* publicitaire a créé une campagne vraiment innovante.
+  Unser Werbe*fotograf* hat eine wirklich innovative Kampagne erstellt.
 
-  Camille est une photographe de mode qui a déjà travaillé pour plusieurs magazines.
-  Camille ist eine Modefotografin, die schon für mehrere Magazine gearbeitet hat.
+  La *photographe* de presse a reçu un prix pour son reportage sur les réfugiés.
+  Die Presse*fotografin* hat für ihre Reportage über Flüchtlinge einen Preis erhalten.
+
+  Le *photographe* du mariage nous a envoyé les photos hier soir.
+  Der Hochzeits*fotograf* hat uns gestern Abend die Fotos geschickt.
+
+  Cette *photographe* d'agence voyage dans le monde entier pour ses reportages.
+  Diese Agentur*fotografin* reist für ihre Reportagen um die ganze Welt.
+
+  L'atelier du *photographe* se trouve dans une ancienne usine rénovée.
+  Das Atelier des *Fotografen* befindet sich in einer renovierten alten Fabrik.
+
+  Le *photographe* développe encore ses photos dans une chambre noire traditionnelle.
+  Der *Fotograf* entwickelt seine Fotos noch immer in einer traditionellen Dunkelkammer.
+
+  Une *photographe* professionnelle viendra immortaliser l'événement demain.
+  Eine professionelle *Fotografin* wird morgen das Event festhalten.
+
+  Ce *photographe* animalier passe des heures à attendre le moment parfait.
+  Dieser Tier*fotograf* verbringt Stunden damit, auf den perfekten Moment zu warten.
+
+  La jeune *photographe* expose ses œuvres pour la première fois à la galerie.
+  Die junge *Fotografin* stellt ihre Werke zum ersten Mal in der Galerie aus.
+
+  Le vieux *photographe* du quartier va fermer sa boutique après quarante ans de service.
+  Der alte *Fotograf* aus dem Viertel wird nach vierzig Jahren Dienst seinen Laden schließen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

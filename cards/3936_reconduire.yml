@@ -13,17 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je te reconduis à l’aéroport.
-  Ich fahre dich zum Flughafen.
+  Je te *reconduis* à l'aéroport.
+  Ich *bringe* dich zum Flughafen *zurück*.
 
-  Je vais reconduire mon ami à la gare.
-  Ich werde meinen Freund zum Bahnhof zurückbringen.
+  Après la soirée, Paul m'a *reconduit* chez moi.
+  Nach der Party hat Paul mich nach Hause *gebracht*.
 
-  Marie a reconduit son ami en voiture à la gare.
-  Marie hat ihren Freund wieder zum Bahnhof gefahren.
+  Elle *reconduit* son fils à l'école tous les matins.
+  Sie *bringt* ihren Sohn jeden Morgen zur Schule *zurück*.
 
-  Les autorités ont reconduit l'immigrant illégal à la frontière.
-  Die Behörden haben den illegalen Einwanderer abgeschoben.
+  Je vous *reconduis* jusqu'à l'ascenseur, Madame.
+  Ich *begleite* Sie bis zum Fahrstuhl, gnädige Frau.
+
+  Le conseil d'administration a *reconduit* le directeur dans ses fonctions.
+  Der Vorstand hat den Direktor im Amt *bestätigt*.
+
+  La banque a *reconduit* mon crédit pour trois ans.
+  Die Bank hat meinen Kredit um drei Jahre *verlängert*.
+
+  Notre bail a été *reconduit* automatiquement.
+  Unser Mietvertrag wurde automatisch *verlängert*.
+
+  Le gouvernement a décidé de *reconduire* cette politique sociale.
+  Die Regierung hat beschlossen, diese Sozialpolitik *weiterzuführen*.
+
+  Les syndicats ont voté pour *reconduire* la grève.
+  Die Gewerkschaften haben für die *Verlängerung* des Streiks gestimmt.
+
+  Le ministre *reconduit* l'ambassadeur jusqu'au perron.
+  Der Minister *begleitet* den Botschafter bis zur Vortreppe.
+
+  Tout en discutant, je l'ai *reconduit* à mi-chemin.
+  Während wir uns unterhielten, habe ich ihn bis zur Hälfte des Weges *begleitet*.
+
+  La police *reconduit* les manifestants hors de la zone interdite.
+  Die Polizei *führt* die Demonstranten aus der verbotenen Zone *hinaus*.
+
+  Mon père m'a *reconduit* à la gare en voiture.
+  Mein Vater hat mich mit dem Auto zum Bahnhof *gebracht*.
+
+  Les autorités ont *reconduit* plusieurs personnes à la frontière.
+  Die Behörden haben mehrere Personen an die Grenze *abgeschoben*.
+
+  Le budget a été *reconduit* pour l'année suivante.
+  Der Haushalt wurde für das folgende Jahr *fortgeschrieben*.
+
+  Marie *reconduit* toujours ses invités jusqu'à leur voiture.
+  Marie *begleitet* ihre Gäste immer bis zu ihrem Auto.
+
+  Le patron l'a *reconduit* jusqu'à la sortie après l'entretien.
+  Der Chef hat ihn nach dem Gespräch bis zum Ausgang *begleitet*.
+
+  Les gardiens *reconduisent* le prisonnier dans sa cellule.
+  Die Wärter *bringen* den Gefangenen in seine Zelle *zurück*.
+
+  Le parlement a *reconduit* la loi d'exception.
+  Das Parlament hat das Ausnahmegesetz *verlängert*.
+
+  Les agents de sécurité *reconduisent* les clients vers la sortie de secours.
+  Die Sicherheitsleute *führen* die Kunden zum Notausgang.
+
+  Le comité a *reconduit* tous les membres du bureau.
+  Das Komitee hat alle Vorstandsmitglieder im Amt *bestätigt*.
+
+  Sophie m'a gentiment *reconduit* jusqu'à ma voiture sous la pluie.
+  Sophie hat mich freundlicherweise im Regen bis zu meinem Auto *begleitet*.
+
+  Les hôtesses *reconduisent* les passagers vers la zone d'embarquement.
+  Die Flugbegleiterinnen *geleiten* die Passagiere zum Wartebereich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

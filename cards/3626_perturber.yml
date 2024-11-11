@@ -13,14 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis perturbée par une enquête que je mène.
-  Ich werde durch eine Untersuchung gestört, die ich durchführe.
+  Je suis *perturbée* par une enquête que je mène.
+  Ich bin durch eine Ermittlung, die ich führe, *verstört*.
 
-  Le bruit a perturbé ma concentration.
-  Der Lärm hat meine Konzentration gestört.
+  La grève des conducteurs a *perturbé* le trafic ferroviaire pendant trois jours.
+  Der Streik der Lokführer hat den Zugverkehr drei Tage lang *gestört*.
 
-  Le bruit incessant des travaux a perturbé la concentration des élèves.
-  Der unaufhörliche Lärm der Bauarbeiten hat sich störend auf die Konzentration der Schüler ausgewirkt.
+  Les travaux routiers vont *perturber* la circulation dans le centre-ville.
+  Die Straßenarbeiten werden den Verkehr in der Innenstadt *beeinträchtigen*.
+
+  Cette musique forte *perturbe* ma concentration.
+  Diese laute Musik *stört* meine Konzentration.
+
+  Les élèves ont *perturbé* le cours en bavardant sans arrêt.
+  Die Schüler haben den Unterricht durch ständiges Schwatzen *gestört*.
+
+  Mon téléphone qui sonne a *perturbé* la réunion importante.
+  Mein klingelndes Telefon hat die wichtige Besprechung *gestört*.
+
+  Les changements climatiques *perturbent* l'écosystème marin.
+  Der Klimawandel *bringt* das Meeresökosystem *durcheinander*.
+
+  Le bruit des voisins *perturbe* mon sommeil.
+  Der Lärm der Nachbarn *stört* meinen Schlaf.
+
+  La nouvelle de son départ m'a profondément *perturbé*.
+  Die Nachricht von seinem Weggang hat mich tief *erschüttert*.
+
+  Les orages violents ont *perturbé* les communications satellites.
+  Die heftigen Gewitter haben die Satellitenkommunikation *gestört*.
+
+  Le décalage horaire a complètement *perturbé* mon rythme de sommeil.
+  Die Zeitverschiebung hat meinen Schlafrhythmus völlig *durcheinandergebracht*.
+
+  Ces médicaments peuvent *perturber* votre digestion.
+  Diese Medikamente können Ihre Verdauung *stören*.
+
+  La présence d'un nouveau chat a *perturbé* les habitudes de mon chien.
+  Die Anwesenheit einer neuen Katze hat die Gewohnheiten meines Hundes *durcheinandergebracht*.
+
+  Son comportement étrange a *perturbé* l'ambiance de la fête.
+  Sein seltsames Verhalten hat die Stimmung der Party *gestört*.
+
+  Les manifestations vont *perturber* l'organisation du festival.
+  Die Demonstrationen werden die Organisation des Festivals *stören*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

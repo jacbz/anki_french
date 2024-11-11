@@ -13,14 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les descendants parleront de leurs ancêtres disparus.
-  Die Nachkommen werden über ihre verstorbenen Vorfahren sprechen.
+  Les *descendants* parleront de leurs ancêtres disparus.
+  Die *Nachkommen* werden von ihren verstorbenen Vorfahren sprechen.
 
-  Il est le descendant direct de Napoléon Bonaparte.
-  Er ist der direkte Nachkomme von Napoleon Bonaparte.
+  Les *descendants* des croisés habitent toujours dans ce château médiéval.
+  Die *Nachkommen* der Kreuzritter leben noch immer in dieser mittelalterlichen Burg.
 
-  Les derniers descendants de la famille royale étaient en deuil après la mort du roi.
-  Die letzten Nachkommen der königlichen Familie trauerten nach dem Tod des Königs.
+  Marie est une *descendante* directe de la famille royale.
+  Marie ist eine direkte *Nachkommin* der königlichen Familie.
+
+  La route *descendante* est dangereuse en hiver.
+  Die *abschüssige* Straße ist im Winter gefährlich.
+
+  Le pianiste a joué une gamme *descendante* en do majeur.
+  Der Pianist spielte eine *absteigende* Tonleiter in C-Dur.
+
+  La marée *descendante* découvre peu à peu la plage.
+  Die *ablaufende* Flut legt nach und nach den Strand frei.
+
+  Pierre est fier d'être un *descendant* des surréalistes.
+  Pierre ist stolz darauf, ein geistiger *Nachfolger* der Surrealisten zu sein.
+
+  La garde *descendante* a quitté son poste à midi.
+  Die *ablösende* Wache hat ihren Posten um zwölf Uhr verlassen.
+
+  Les *descendants* de Bach sont tous devenus musiciens.
+  Die *Nachkommen* von Bach sind alle Musiker geworden.
+
+  Le chemin *descendant* mène directement au village.
+  Der *abschüssige* Weg führt direkt ins Dorf.
+
+  La température suit une progression *descendante* depuis trois jours.
+  Die Temperatur folgt seit drei Tagen einer *absteigenden* Entwicklung.
+
+  La sève *descendante* nourrit les racines de l'arbre.
+  Der *absteigende* Pflanzensaft ernährt die Wurzeln des Baumes.
+
+  Les *descendants* directs héritent en premier.
+  Die direkten *Nachkommen* erben als Erste.
+
+  Cette mélodie *descendante* exprime la tristesse.
+  Diese *absteigende* Melodie drückt Traurigkeit aus.
+
+  Le mariage entre *descendants* et ascendants est interdit par la loi.
+  Die Ehe zwischen *Nachkommen* und Vorfahren ist gesetzlich verboten.
+
+  La pente *descendante* est trop raide pour les vélos.
+  Die *abschüssige* Steigung ist zu steil für Fahrräder.
+
+  Les *descendants* des immigrants ont gardé leurs traditions.
+  Die *Nachkommen* der Einwanderer haben ihre Traditionen bewahrt.
+
+  La ligne *descendante* de cette famille remonte au Moyen Âge.
+  Die *absteigende* Linie dieser Familie reicht bis ins Mittelalter zurück.
+
+  Cette péniche *descendante* transporte des marchandises vers le port.
+  Dieser *flussabwärts* fahrende Lastkahn transportiert Waren zum Hafen.
+
+  Les signes *descendants* du zodiaque apparaissent en automne.
+  Die *absteigenden* Tierkreiszeichen erscheinen im Herbst.
+
+  Le sculpteur est considéré comme un *descendant* artistique de Rodin.
+  Der Bildhauer gilt als künstlerischer *Nachfolger* Rodins.
+
+  Les derniers *descendants* de la famille ont vendu le château.
+  Die letzten *Nachkommen* der Familie haben das Schloss verkauft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

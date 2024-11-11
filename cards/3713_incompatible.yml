@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les deux choses sont tout à fait incompatibles.
-  Die beiden Dinge sind völlig unvereinbar.
+  Les deux choses sont tout à fait *incompatibles*.
+  Die beiden Sachen sind völlig *unvereinbar*.
 
-  Ces deux idées sont totalement incompatibles.
-  Diese beiden Ideen sind völlig unvereinbar.
+  Leurs caractères *incompatibles* ont conduit à leur séparation.
+  Ihre *unverträglichen* Charaktere haben zu ihrer Trennung geführt.
 
-  Ces deux projets sont incompatibles entre eux, il faut choisir l'un ou l'autre.
-  Diese beiden Projekte sind nicht miteinander vereinbar, man muss sich für das eine oder das andere entscheiden.
+  Le groupe sanguin du donneur était *incompatible* avec celui du patient.
+  Die Blutgruppe des Spenders war mit der des Patienten *unverträglich*.
 
-  Ce style de vie est incompatible avec ses ambitions.
-  Dieser Lebensstil ist unvereinbar mit seinen Ambitionen.
+  Ces deux médicaments sont *incompatibles* entre eux.
+  Diese beiden Medikamente sind miteinander *unverträglich*.
+
+  Son mode de vie est *incompatible* avec une bonne santé.
+  Seine Lebensweise ist mit einer guten Gesundheit *unvereinbar*.
+
+  Le nouveau logiciel s'est révélé *incompatible* avec notre système.
+  Die neue Software erwies sich als *inkompatibel* mit unserem System.
+
+  Leurs horaires de travail sont *incompatibles*.
+  Ihre Arbeitszeiten sind *unvereinbar*.
+
+  La violence est *incompatible* avec nos valeurs démocratiques.
+  Gewalt ist mit unseren demokratischen Werten *unvereinbar*.
+
+  Ces dépenses sont *incompatibles* avec notre budget actuel.
+  Diese Ausgaben sind mit unserem aktuellen Budget *unvereinbar*.
+
+  Les fonctions de maire et de juge sont *incompatibles*.
+  Die Ämter des Bürgermeisters und des Richters sind *unvereinbar*.
+
+  Ces deux équations sont mathématiquement *incompatibles*.
+  Diese beiden Gleichungen sind mathematisch *unvereinbar*.
+
+  Leurs opinions politiques sont totalement *incompatibles*.
+  Ihre politischen Ansichten sind völlig *unvereinbar*.
+
+  Le nouveau moniteur est *incompatible* avec cette carte graphique.
+  Der neue Monitor ist mit dieser Grafikkarte *inkompatibel*.
+
+  Ces deux événements sont statistiquement *incompatibles*.
+  Diese beiden Ereignisse sind statistisch *unvereinbar*.
+
+  Nos goûts musicaux sont complètement *incompatibles*.
+  Unser Musikgeschmack ist völlig *unverträglich*.
+
+  La douceur n'est pas *incompatible* avec l'autorité.
+  Sanftmut ist mit Autorität nicht *unvereinbar*.
+
+  Le stress constant est *incompatible* avec une vie équilibrée.
+  Ständiger Stress ist mit einem ausgewogenen Leben *unvereinbar*.
+
+  Les deux versions du programme sont *incompatibles* entre elles.
+  Die beiden Programmversionen sind miteinander *inkompatibel*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

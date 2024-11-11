@@ -13,20 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle ne souscrit pas complètement à nos principes.
-  Sie stimmt unseren Grundsätzen nicht vollständig zu.
+  Elle ne *souscrit* pas complètement à nos principes.
+  Sie *stimmt* unseren Prinzipien nicht vollständig *zu*.
 
-  Je vais souscrire à un abonnement.
-  Ich werde ein Abonnement abschließen.
+  Julien a *souscrit* une assurance habitation hier.
+  Julian hat gestern eine Hausratversicherung *abgeschlossen*.
 
-  Marie a décidé de souscrire pour mille euros à l'opération de solidarité.
-  Marie hat beschlossen, für einen Betrag von tausend Euro an der Solidaritätsaktion teilzunehmen.
+  Pour soutenir le projet, nous avons *souscrit* pour cinq cents euros.
+  Um das Projekt zu unterstützen, haben wir für fünfhundert Euro *gezeichnet*.
 
-  Pierre a souscrit une obligation hypothécaire pour financer l'achat de sa maison.
-  Pierre hat einen Pfandbrief gezeichnet, um den Kauf seines Hauses zu finanzieren.
+  Je *souscris* entièrement à ce que Marie vient de dire.
+  Ich *stimme* dem, was Marie gerade gesagt hat, voll und ganz *zu*.
 
-  Le gouvernement a décidé de souscrire à un emprunt pour financer les projets d'infrastructure.
-  Die Regierung hat beschlossen, eine Anleihe zu zeichnen, um Infrastrukturprojekte zu finanzieren.
+  L'entreprise a *souscrit* un contrat de maintenance annuel.
+  Die Firma hat einen jährlichen Wartungsvertrag *unterzeichnet*.
+
+  Les investisseurs ont *souscrit* des obligations d'État.
+  Die Investoren haben Staatsanleihen *gezeichnet*.
+
+  Ma sœur a *souscrit* un abonnement au journal local.
+  Meine Schwester hat ein Abo bei der Lokalzeitung *abgeschlossen*.
+
+  Nous avons *souscrit* à cette encyclopédie en ligne.
+  Wir haben diese Online-Enzyklopädie *abonniert*.
+
+  Il refuse de *souscrire* aux exigences de son patron.
+  Er weigert sich, den Forderungen seines Chefs *zuzustimmen*.
+
+  Les citoyens ont *souscrit* massivement à l'emprunt public.
+  Die Bürger haben die öffentliche Anleihe massiv *gezeichnet*.
+
+  Mon père a *souscrit* une police d'assurance-vie.
+  Mein Vater hat eine Lebensversicherung *abgeschlossen*.
+
+  Pierre a *souscrit* à l'œuvre de bienfaisance.
+  Pierre hat für das Wohltätigkeitswerk *gespendet*.
+
+  Les étudiants peuvent *souscrire* à cette revue à prix réduit.
+  Studierende können diese Zeitschrift zum reduzierten Preis *abonnieren*.
+
+  Elle a *souscrit* plusieurs actions de cette start-up.
+  Sie hat mehrere Aktien dieses Start-ups *gezeichnet*.
+
+  Nous ne pouvons pas *souscrire* à cette proposition absurde.
+  Wir können diesem absurden Vorschlag nicht *zustimmen*.
+
+  J'ai *souscrit* un engagement de confidentialité.
+  Ich habe eine Vertraulichkeitsvereinbarung *unterzeichnet*.
+
+  Les lecteurs peuvent *souscrire* à l'édition limitée du livre.
+  Die Leser können die limitierte Ausgabe des Buches *subskribieren*.
+
+  La banque a *souscrit* une garantie décennale.
+  Die Bank hat eine zehnjährige Garantie *unterzeichnet*.
+
+  Mon voisin a *souscrit* un crédit immobilier.
+  Mein Nachbar hat einen Immobilienkredit *abgeschlossen*.
+
+  Nous devons *souscrire* à cet arrangement.
+  Wir müssen dieser Vereinbarung *zustimmen*.
+
+  Les employés ont *souscrit* une mutuelle d'entreprise.
+  Die Mitarbeiter haben eine betriebliche Krankenversicherung *abgeschlossen*.
+
+  L'artiste a *souscrit* un contrat avec la galerie.
+  Der Künstler hat einen Vertrag mit der Galerie *unterzeichnet*.
+
+  Tu dois *souscrire* à ces conditions pour continuer.
+  Du musst diesen Bedingungen *zustimmen*, um fortzufahren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

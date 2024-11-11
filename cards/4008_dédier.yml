@@ -13,23 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce livre est dédié à ma sœur qui est décédée.
-  Dieses Buch ist meiner verstorbenen Schwester gewidmet.
+  Ce livre est *dédié* à ma sœur qui est décédée.
+  Dieses Buch ist meiner verstorbenen Schwester *gewidmet*.
 
-  Je dédie ce livre à ma mère.
-  Ich widme dieses Buch meiner Mutter.
+  Elle a *dédié* sa thèse à son directeur de recherche.
+  Sie hat ihre Doktorarbeit ihrem Betreuer *gewidmet*.
 
-  Le poète a dédié son dernier poème à sa muse.
-  Der Poet hat sein letztes Gedicht seiner Muse gewidmet.
+  Le poète *dédie* ses vers à sa bien-aimée.
+  Der Dichter *widmet* seiner Geliebten seine Verse.
 
-  Elle a décidé de dédier son travail à la recherche médicale.
-  Sie hat sich entschlossen, ihre Arbeit der medizinischen Forschung zu widmen.
+  Notre équipe a *dédié* trois ans au développement de ce projet.
+  Unser Team hat dem Projekt drei Jahre *gewidmet*.
 
-  Les villageois ont décidé de dédier la nouvelle cloche à Saint-Martin.
-  Die Dorfbewohner haben beschlossen, die neue Glocke dem Heiligen Martin zu weihen.
+  Cette cathédrale est *dédiée* à Saint-Pierre.
+  Diese Kathedrale ist dem heiligen Petrus *geweiht*.
 
-  Il a dédié sa vie aux arts et a voyagé partout dans le monde pour les découvrir.
-  Er hat sein Leben der Kunst verschrieben und ist auf der ganzen Welt gereist, um sie zu entdecken.
+  L'artiste a *dédié* cette sculpture à la mémoire des victimes.
+  Der Künstler hat diese Skulptur dem Gedenken an die Opfer *gewidmet*.
+
+  Je *dédie* cette chanson à tous ceux qui m'ont soutenu.
+  Ich *widme* dieses Lied allen, die mich unterstützt haben.
+
+  Il a *dédié* sa vie à aider les autres.
+  Er hat sein Leben der Hilfe für andere *verschrieben*.
+
+  Cette chapelle fut *dédiée* à la Vierge au XIIe siècle.
+  Diese Kapelle wurde im 12. Jahrhundert der Jungfrau Maria *geweiht*.
+
+  L'auteur a *dédié* son premier roman à ses parents.
+  Die Autorin hat ihren ersten Roman ihren Eltern *gewidmet*.
+
+  Les bénévoles ont *dédié* leur temps libre à cette cause.
+  Die Freiwilligen haben ihre Freizeit dieser Sache *gewidmet*.
+
+  Le musée a *dédié* une salle entière à ce peintre célèbre.
+  Das Museum hat diesem berühmten Maler einen ganzen Saal *gewidmet*.
+
+  Cette fondation est *dédiée* à la recherche contre le cancer.
+  Diese Stiftung hat sich der Krebsforschung *verschrieben*.
+
+  Elle a *dédié* ses efforts à l'éducation des enfants défavorisés.
+  Sie hat ihre Bemühungen der Bildung benachteiligter Kinder *gewidmet*.
+
+  Le temple antique était *dédié* à Apollon.
+  Der antike Tempel war Apollon *geweiht*.
+
+  Je voudrais *dédier* cette victoire à mon entraîneur.
+  Ich möchte diesen Sieg meinem Trainer *widmen*.
+
+  Les scientifiques ont *dédié* leurs recherches au bien de l'humanité.
+  Die Wissenschaftler haben ihre Forschung dem Wohl der Menschheit *gewidmet*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

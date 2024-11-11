@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Entre-temps, la population vieillit et augmente.
-  In der Zwischenzeit altert und wächst die Bevölkerung.
+  *Entre-temps*, la population vieillit et augmente.
+  *Inzwischen* altert und wächst die Bevölkerung.
 
-  Entre-temps, j’ai trouvé un autre emploi.
-  Inzwischen habe ich einen anderen Job gefunden.
+  *Entre-temps*, il a obtenu son diplôme et trouvé un travail.
+  *In der Zwischenzeit* hat er seinen Abschluss gemacht und eine Arbeit gefunden.
+
+  "*Entre-temps*, je vais prendre un café."
+  "*Zwischendurch* trinke ich einen Kaffee."
+
+  Les enfants sont partis jouer dehors et *entre-temps*, je range la maison.
+  Die Kinder sind draußen spielen gegangen und *inzwischen* räume ich das Haus auf.
+
+  *Entre-temps*, la situation s'est considérablement améliorée.
+  *In der Zwischenzeit* hat sich die Situation erheblich verbessert.
+
+  "On peut faire une pause *entre-temps*."
+  "Wir können *zwischendrin* eine Pause machen."
+
+  *Entre-temps*, la neige avait tout recouvert.
+  *Inzwischen* hatte der Schnee alles bedeckt.
+
+  J'ai préparé le dîner et *entre-temps*, Marie est rentrée du travail.
+  Ich habe das Abendessen vorbereitet und *in der Zwischenzeit* ist Marie von der Arbeit nach Hause gekommen.
+
+  *Entre-temps*, as-tu réfléchi à ma proposition ?
+  Hast du *inzwischen* über meinen Vorschlag nachgedacht?
+
+  "Je dois terminer ce rapport, mais je peux t'aider *entre-temps*."
+  "Ich muss diesen Bericht fertig machen, aber ich kann dir *zwischendurch* helfen."
+
+  *Entre-temps*, le soleil s'était couché et la température avait baissé.
+  *Inzwischen* war die Sonne untergegangen und die Temperatur gesunken.
+
+  Pierre arrivera dans deux heures, *entre-temps* nous pouvons préparer la fête.
+  Pierre kommt in zwei Stunden, *bis dahin* können wir die Party vorbereiten.
+
+  Les vacances approchent et *entre-temps*, il y a encore beaucoup à faire.
+  Die Ferien nähern sich und *in der Zwischenzeit* gibt es noch viel zu tun.
+
+  *Entre-temps*, le médecin est arrivé et a commencé l'examen.
+  *Inzwischen* ist der Arzt eingetroffen und hat mit der Untersuchung begonnen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

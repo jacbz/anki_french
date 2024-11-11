@@ -13,23 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Jamais le nombre des victimes des bombardements n’a été publié.
-  Nie wurde die Zahl der Opfer der Bombenangriffe veröffentlicht.
+  Jamais le nombre des victimes des *bombardements* n'a été publié.
+  Die Zahl der Opfer der *Bombardierungen* wurde nie veröffentlicht.
 
-  Le bombardement a causé de nombreux dégâts.
-  Die Bombardierung hat viele Schäden verursacht.
+  Les *bombardements* aériens ont provoqué d'importants dégâts matériels.
+  Die *Luftangriffe* haben erhebliche Sachschäden verursacht.
 
-  Les troupes ennemies ont lancé un bombardement de la ville.
-  Die feindlichen Truppen haben die Stadt bombardiert.
+  Le *bombardement* stratégique visait les installations industrielles.
+  Die strategische *Bombardierung* zielte auf die Industrieanlagen.
 
-  La bataille s'est terminée par un bombardement de projectiles, qui ont fait de nombreux blessés.
-  Es flogen Wurfgeschosse durch die Gegend, die viele Verletzte verursachten.
+  Les physiciens étudient le *bombardement* d'électrons sur différents matériaux.
+  Die Physiker untersuchen den *Beschuss* verschiedener Materialien mit Elektronen.
 
-  Le bombardement aérien a détruit de nombreux bâtiments.
-  Der Luftangriff hat viele Gebäude zerstört.
+  La ville a subi un *bombardement* intensif pendant trois jours.
+  Die Stadt wurde drei Tage lang intensiv *bombardiert*.
 
-  Le bombardement atomique a eu des conséquences désastreuses pour la région.
-  Der Atomangriff hatte verheerende Folgen für die Region.
+  Le *bombardement* de particules permet d'étudier la structure des atomes.
+  Durch den Teilchen*beschuss* lässt sich die Struktur der Atome untersuchen.
+
+  L'aviation de *bombardement* utilisait des avions spécialement conçus.
+  Die *Bomben*flugzeuge waren speziell dafür konstruiert.
+
+  Les scientifiques analysent les effets du *bombardement* atomique sur les cellules.
+  Die Wissenschaftler analysieren die Auswirkungen des Atom*beschusses* auf die Zellen.
+
+  Un *bombardement* de questions a suivi sa présentation.
+  Nach seiner Präsentation wurde er mit Fragen *bombardiert*.
+
+  Le *bombardement* des neutrons a provoqué une réaction en chaîne.
+  Der Neutronen*beschuss* löste eine Kettenreaktion aus.
+
+  Les archéologues ont découvert des traces d'anciens *bombardements*.
+  Die Archäologen haben Spuren früherer *Bombardierungen* entdeckt.
+
+  Le *bombardement* d'artillerie a duré toute la nuit.
+  Das *Granatfeuer* dauerte die ganze Nacht.
+
+  Les débris spatiaux créent un constant *bombardement* de la surface lunaire.
+  Weltraumschrott sorgt für einen ständigen *Beschuss* der Mondoberfläche.
+
+  Après le *bombardement*, les équipes de secours sont rapidement intervenues.
+  Nach dem *Bombenangriff* waren die Rettungsteams schnell zur Stelle.
+
+  Le *bombardement* de photons a modifié la structure moléculaire.
+  Der Photonen*beschuss* hat die Molekularstruktur verändert.
+
+  Le match s'est terminé par un *bombardement* de ballons sur le terrain.
+  Das Spiel endete damit, dass Bälle aufs Spielfeld *geworfen* wurden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

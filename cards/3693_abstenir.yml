@@ -13,23 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous feriez mieux de vous abstenir.
-  Sie sollten sich lieber enthalten.
+  Vous feriez mieux de vous *abstenir*.
+  Sie sollten sich besser *zurückhalten*.
 
-  Je vais m’abstenir de boire de l’alcool ce soir.
-  Ich werde heute Abend auf Alkohol verzichten.
+  Depuis son opération, il doit s'*abstenir* d'alcool pendant six mois.
+  Seit seiner Operation muss er sechs Monate auf *Alkohol verzichten*.
 
-  Le médecin lui a conseillé de s'abstenir de tabac pour améliorer sa santé.
-  Der Arzt hat ihm geraten, auf Zigaretten zu verzichten, um seine Gesundheit zu verbessern.
+  Les médecins lui ont conseillé de s'*abstenir* de café après 16 heures.
+  Die Ärzte haben ihr geraten, nach 16 Uhr keinen *Kaffee* mehr zu *trinken*.
 
-  Il a décidé de s'abstenir d'alcool pendant le mois de janvier.
-  Er hat beschlossen, im Januar keinen Alkohol zu trinken.
+  Pour des raisons de santé, elle s'*abstient* de viande rouge.
+  Aus gesundheitlichen Gründen *verzichtet* sie auf rotes Fleisch.
 
-  Elle a décidé de s'abstenir de tout commentaire sur la situation.
-  Sie hat sich entschieden, sich zu der Situation nicht zu äußern.
+  Je m'*abstiendrai* de tout commentaire sur cette affaire.
+  Ich werde mich jeden Kommentars zu dieser Angelegenheit *enthalten*.
 
-  Il s'abstient de faire de la publicité pour ses produits.
-  Er verzichtet darauf, für seine Produkte Werbung zu machen.
+  Lors du vote, 30% des électeurs se sont *abstenus*.
+  Bei der Abstimmung haben sich 30% der Wähler der *Stimme enthalten*.
+
+  Dans le doute, *abstiens*-toi !
+  Im Zweifel *halt* dich *zurück*!
+
+  Il s'est *abstenu* de fumer pendant toute la grossesse de sa femme.
+  Er hat während der gesamten Schwangerschaft seiner Frau aufs *Rauchen verzichtet*.
+
+  Je vous conseille de vous *abstenir* de la questionner sur ce sujet délicat.
+  Ich rate Ihnen, *davon abzusehen*, sie zu diesem heiklen Thema zu befragen.
+
+  Les députés de l'opposition se sont *abstenus* lors du vote du budget.
+  Die Oppositionsabgeordneten haben sich bei der Haushaltsabstimmung der *Stimme enthalten*.
+
+  Pendant le ramadan, les musulmans s'*abstiennent* de manger du lever au coucher du soleil.
+  Während des Ramadan *verzichten* Muslime vom Sonnenaufgang bis zum Sonnenuntergang aufs Essen.
+
+  Elle s'est *abstenue* d'applaudir à la fin du discours.
+  Sie hat es *unterlassen*, am Ende der Rede zu klatschen.
+
+  Les experts s'*abstiennent* de faire des prévisions pour l'année prochaine.
+  Die Experten *sehen davon ab*, Prognosen für das nächste Jahr zu machen.
+
+  Je m'*abstiendrai* de sortir ce soir à cause de la tempête.
+  Ich werde heute Abend wegen des Sturms *darauf verzichten* auszugehen.
+
+  La plupart des invités se sont *abstenus* de danser.
+  Die meisten Gäste haben *davon abgesehen* zu tanzen.
+
+  Les journalistes ont préféré s'*abstenir* de poser des questions controversées.
+  Die Journalisten haben es *vermieden*, kontroverse Fragen zu stellen.
+
+  Pour maigrir, elle s'*abstient* de manger des sucreries.
+  Um abzunehmen, *verzichtet* sie auf Süßigkeiten.
+
+  Les participants se sont *abstenus* de prendre part au débat.
+  Die Teilnehmer haben sich der Teilnahme an der Debatte *enthalten*.
+
+  Pour des raisons éthiques, de plus en plus de gens s'*abstiennent* de manger de la viande.
+  Aus ethischen Gründen *verzichten* immer mehr Menschen auf Fleisch.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

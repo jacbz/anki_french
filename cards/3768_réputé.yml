@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Son personnel est réputé pour son service hors pair.
-  Seine Mitarbeiter sind für ihren hervorragenden Service bekannt.
+  Son personnel est *réputé* pour son service hors pair.
+  Sein Personal ist für seinen ausgezeichneten Service *bekannt*.
 
-  C’est un restaurant réputé pour sa cuisine française.
-  Das ist ein bekanntes Restaurant für seine französische Küche.
+  Cette plage est *réputée* pour ses eaux cristallines.
+  Dieser Strand ist für sein kristallklares Wasser *berühmt*.
 
-  Ce professeur est réputé pour être sévère, mais il est juste.
-  Dieser Lehrer ist für seine Strenge bekannt, aber er ist gerecht.
+  Le professeur Martinez est *réputé* être le plus strict de l'école.
+  Professor Martinez *gilt* als der strengste Lehrer der Schule.
 
-  Le médecin est réputé infaillible, mais il fait parfois des erreurs.
-  Der Arzt gilt als unfehlbar, aber er macht manchmal Fehler.
+  Ces terres sont *réputées* incultes depuis des générations.
+  Diese Ländereien *gelten* seit Generationen als unfruchtbar.
+
+  Notre restaurant est *réputé* dans toute la région.
+  Unser Restaurant ist in der ganzen Region *bekannt*.
+
+  La bibliothèque est *réputée* pour sa collection de manuscrits anciens.
+  Die Bibliothek ist für ihre Sammlung alter Handschriften *berühmt*.
+
+  Cette université est *réputée* pour son département de physique.
+  Diese Universität ist für ihre Physik-Abteilung *bekannt*.
+
+  Le chocolatier est *réputé* pour ses pralines aux fruits.
+  Der Chocolatier ist für seine Fruchtpralinen *bekannt*.
+
+  Cette variété de fromage est très *réputée* en France.
+  Diese Käsesorte ist in Frankreich sehr *renommiert*.
+
+  La ville est *réputée* pour son carnaval coloré.
+  Die Stadt ist für ihren bunten Karneval *bekannt*.
+
+  Ce peintre est *réputé* pour ses portraits expressifs.
+  Dieser Maler ist für seine ausdrucksstarken Porträts *bekannt*.
+
+  Cette région est *réputée* pour son artisanat traditionnel.
+  Diese Region ist für ihr traditionelles Handwerk *berühmt*.
+
+  Le chirurgien est *réputé* pour sa précision exceptionnelle.
+  Der Chirurg ist für seine außergewöhnliche Präzision *bekannt*.
+
+  Cette école de danse est *réputée* dans tout le pays.
+  Diese Tanzschule ist im ganzen Land *renommiert*.
+
+  Le glacier est *réputé* pour ses saveurs originales.
+  Die Eisdiele ist für ihre originellen Geschmacksrichtungen *bekannt*.
+
+  Cette boulangerie est *réputée* pour ses croissants.
+  Diese Bäckerei ist für ihre Croissants *berühmt*.
+
+  Ce jardin botanique est *réputé* pour ses orchidées rares.
+  Dieser botanische Garten ist für seine seltenen Orchideen *bekannt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

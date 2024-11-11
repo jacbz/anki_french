@@ -13,17 +13,53 @@ Register: ↗Fiktion ↘Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle voulait un enfant par-dessus tout.
-  Sie wollte vor allem ein Kind.
+  Elle voulait un enfant *par-dessus* tout.
+  Sie wollte *über* alles ein Kind haben.
 
-  Il a sauté par-dessus la barrière.
-  Er ist über den Zaun gesprungen.
+  Il a sauté *par-dessus* la clôture du jardin.
+  Er ist *über* den Gartenzaun gesprungen.
 
-  Le chien a passé par-dessus la barrière pour rejoindre son maître.
-  Der Hund ist über die Barriere gestiegen, um zu seinem Herrchen zu gelangen.
+  Marie a mis son écharpe *par-dessus* son manteau.
+  Marie hat ihren Schal *über* ihrem Mantel getragen.
 
-  Il a sauté par-dessus la barrière pour éviter de se faire attraper.
-  Er ist über die Barrière gesprungen, um nicht erwischt zu werden.
+  Le chat a grimpé *par-dessus* le mur.
+  Die Katze ist *über* die Mauer geklettert.
+
+  Elle a jeté un regard *par-dessus* son épaule.
+  Sie warf einen Blick *über* ihre Schulter.
+
+  Il a passé *par-dessus* la tête de tout le monde pour attraper le ballon.
+  Er ist allen *über* den Kopf gesprungen, um den Ball zu fangen.
+
+  J'ai mis un pull *par-dessus* ma chemise.
+  Ich habe einen Pullover *über* meinem Hemd angezogen.
+
+  L'eau est passée *par-dessus* le pont pendant l'inondation.
+  Das Wasser ist während der Überschwemmung *über* die Brücke gestiegen.
+
+  Le directeur est allé *par-dessus* son superviseur pour approuver le projet.
+  Der Direktor ist für die Projektgenehmigung *über* seinen Vorgesetzten hinweggegangen.
+
+  Les enfants adorent grimper *par-dessus* les obstacles du parcours.
+  Die Kinder lieben es, *über* die Hindernisse des Parcours zu klettern.
+
+  Il faut passer *par-dessus* ces difficultés pour réussir.
+  Man muss *über* diese Schwierigkeiten hinwegkommen, um erfolgreich zu sein.
+
+  L'oiseau s'est envolé *par-dessus* les toits.
+  Der Vogel ist *über* die Dächer geflogen.
+
+  Elle a mis une veste *par-dessus* sa robe de soirée.
+  Sie hat eine Jacke *über* ihrem Abendkleid getragen.
+
+  Le ballon est passé *par-dessus* le filet.
+  Der Ball ging *über* das Netz.
+
+  Il a ajouté un bonus *par-dessus* le marché.
+  Er hat *oben*drauf noch einen Bonus gegeben.
+
+  Le chien a sauté *par-dessus* la flaque d'eau.
+  Der Hund ist *über* die Pfütze gesprungen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

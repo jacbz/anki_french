@@ -13,14 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est un jury exclusivement blanc.
-  Es handelt sich um eine ausschließlich weiße Jury.
+  C'est un *jury* exclusivement blanc.
+  Es ist eine ausschließlich weiße *Jury*.
 
-  Le jury a délibéré pendant des heures.
-  Die Jury hat stundenlang beraten.
+  Le *jury* a délibéré pendant six heures avant de rendre son verdict.
+  Die *Geschworenen* haben sechs Stunden beraten, bevor sie ihr Urteil verkündeten.
 
-  Le président du jury a prononcé le verdict.
-  Der Obmann der Geschworenen hat das Urteil verkündet.
+  Le président du *jury* a annoncé la décision finale hier soir.
+  Der *Geschworenen*vorsitzende hat gestern Abend die endgültige Entscheidung verkündet.
+
+  Marie fait partie du *jury* pour le concours de danse.
+  Marie ist Mitglied der *Jury* beim Tanzwettbewerb.
+
+  Le *jury* du prix Goncourt a choisi un roman extraordinaire cette année.
+  Die *Jury* des Prix Goncourt hat dieses Jahr einen außergewöhnlichen Roman ausgewählt.
+
+  Le *jury* de thèse lui a accordé les félicitations.
+  Die *Prüfungskommission* hat ihr die höchste Auszeichnung verliehen.
+
+  Les membres du *jury* ont posé des questions très pertinentes pendant la soutenance.
+  Die Mitglieder der *Prüfungskommission* stellten während der Verteidigung sehr relevante Fragen.
+
+  Un *jury* international décidera qui remportera la médaille d'or.
+  Eine internationale *Jury* wird entscheiden, wer die Goldmedaille gewinnt.
+
+  Le *jury* du baccalauréat se réunira la semaine prochaine.
+  Die *Prüfungskommission* für das Abitur wird sich nächste Woche treffen.
+
+  Comment as-tu été sélectionné pour faire partie du *jury* ?
+  Wie wurdest du als *Geschworener* ausgewählt?
+
+  Le *jury* criminel a déclaré l'accusé non coupable.
+  Die *Geschworenen* haben den Angeklagten für nicht schuldig erklärt.
+
+  Thomas présidera le *jury* du festival de cinéma.
+  Thomas wird den Vorsitz der *Jury* beim Filmfestival übernehmen.
+
+  La décision du *jury* est sans appel.
+  Die Entscheidung der *Jury* ist endgültig.
+
+  Le *jury* d'honneur a examiné les plaintes avec attention.
+  Das *Ehrengericht* hat die Beschwerden sorgfältig geprüft.
+
+  Chaque membre du *jury* doit rester impartial.
+  Jedes *Jury*mitglied muss unparteiisch bleiben.
+
+  Notre *jury* de concours cherche des talents innovants.
+  Unsere Wettbewerbs*jury* sucht nach innovativen Talenten.
+
+  Le *jury* populaire joue un rôle essentiel dans notre système judiciaire.
+  Die *Geschworenen* spielen eine wichtige Rolle in unserem Rechtssystem.
+
+  Le *jury* d'agrégation a sélectionné trois excellents candidats.
+  Die *Prüfungskommission* für die Agrégation hat drei hervorragende Kandidaten ausgewählt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

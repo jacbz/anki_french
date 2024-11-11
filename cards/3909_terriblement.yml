@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis terriblement navré.
-  Es tut mir schrecklich leid.
+  Je suis *terriblement* navré.
+  Es tut mir *furchtbar* leid.
 
-  Je suis terriblement fatigué.
-  Ich bin furchtbar müde.
+  Cette route de montagne est *terriblement* dangereuse.
+  Diese Bergstraße ist *äußerst* gefährlich.
+
+  Le patient souffrait *terriblement* de ses blessures.
+  Der Patient litt *schrecklich* unter seinen Verletzungen.
+
+  L'appartement qu'ils nous ont montré était *terriblement* cher.
+  Die Wohnung, die sie uns gezeigt haben, war *furchtbar* teuer.
+
+  La sécheresse de cet été a été *terriblement* longue.
+  Die Trockenheit diesen Sommer war *entsetzlich* lang.
+
+  Elle s'ennuie *terriblement* dans son nouveau travail.
+  Sie langweilt sich *schrecklich* bei ihrer neuen Arbeit.
+
+  Ce film d'horreur était *terriblement* effrayant.
+  Dieser Horrorfilm war *furchtbar* gruselig.
+
+  Son absence me manque *terriblement*.
+  Seine Abwesenheit fehlt mir *schrecklich*.
+
+  Cette situation est devenue *terriblement* compliquée.
+  Diese Situation ist *äußerst* kompliziert geworden.
+
+  Les examens approchent et je suis *terriblement* stressée.
+  Die Prüfungen kommen näher und ich bin *furchtbar* gestresst.
+
+  Il fait *terriblement* froid ce matin.
+  Es ist heute Morgen *entsetzlich* kalt.
+
+  Le bruit de ces travaux est *terriblement* agaçant.
+  Der Lärm dieser Bauarbeiten ist *schrecklich* nervig.
+
+  Cette attente devient *terriblement* longue.
+  Diese Wartezeit wird *furchtbar* lang.
+
+  Son comportement m'a *terriblement* déçu.
+  Sein Verhalten hat mich *schrecklich* enttäuscht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,29 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’en suis soucieux mais non surpris.
-  Ich bin darüber besorgt, aber nicht überrascht.
+  J'en suis *soucieux* mais non surpris.
+  Ich bin darüber *besorgt*, aber nicht überrascht.
 
-  Il est soucieux de son avenir.
-  Er ist besorgt um seine Zukunft.
+  Le directeur avait l'air *soucieux* en entrant dans la salle.
+  Der Direktor sah *sorgenvoll* aus, als er den Raum betrat.
 
-  Pierre est soucieux de son fils, qui est malade.
-  Pierre sorgt sich um seinen Sohn, der krank ist.
+  Elle semblait particulièrement *soucieuse* de sa santé depuis l'opération.
+  Sie schien seit der Operation besonders um ihre Gesundheit *besorgt* zu sein.
 
-  Il est soucieux de l'avenir de son entreprise.
-  Er sorgt sich um die Zukunft seines Unternehmens.
+  Très *soucieux* de leur avenir, les parents économisent pour les études de leurs enfants.
+  *Besorgt* um die Zukunft ihrer Kinder sparen die Eltern für deren Ausbildung.
 
-  Le journaliste est soucieux de la vérité, même si cela le met en danger.
-  Der Journalist ist auf die Wahrheit bedacht, selbst wenn das ihn in Gefahr bringt.
+  *Soucieuse* de la qualité, Marie vérifie chaque détail de son travail.
+  *Bedacht* auf Qualität überprüft Marie jedes Detail ihrer Arbeit.
 
-  Ils étaient soucieux de l'heure et sont partis avant la fin du spectacle.
-  Sie achteten auf die Zeit und gingen bevor das Stück zu Ende war.
+  Les difficultés financières le rendent de plus en plus *soucieux*.
+  Die finanziellen Schwierigkeiten machen ihn zunehmend *besorgt*.
 
-  Elle est soucieuse de faire de son mieux pour réussir ses études.
-  Sie ist bestrebt ihr Bestes zu geben, um ihr Studium zu bestehen.
+  Elle est toujours *soucieuse* de l'heure quand elle a un rendez-vous important.
+  Sie *achtet* immer auf die Zeit, wenn sie einen wichtigen Termin hat.
 
-  Il est peu soucieux qu'on médise de lui, car il sait que la vérité finira par éclater.
-  Es kümmert ihn wenig, ob man ihn verleumdet, denn er weiß, dass die Wahrheit am Ende ans Licht kommt.
+  Le professeur, *soucieux* du bien-être de ses élèves, adapte ses cours.
+  Der Lehrer *kümmert* sich um das Wohlergehen seiner Schüler und passt seinen Unterricht an.
+
+  Son front *soucieux* trahissait ses inquiétudes pour l'avenir.
+  Seine *sorgenvolle* Stirn verriet seine Zukunftsängste.
+
+  *Soucieux* de préserver l'environnement, ils utilisent les transports en commun.
+  *Bemüht* die Umwelt zu schützen, benutzen sie öffentliche Verkehrsmittel.
+
+  La mine *soucieuse* de mon père m'a tout de suite alarmée.
+  Der *sorgenvolle* Gesichtsausdruck meines Vaters hat mich sofort alarmiert.
+
+  Il n'est nullement *soucieux* des critiques à son égard.
+  Er ist über die Kritik an ihm überhaupt nicht *beunruhigt*.
+
+  *Soucieux* de faire plaisir, Pierre a préparé un repas spécial.
+  *Darauf bedacht* Freude zu bereiten, hat Pierre eine besondere Mahlzeit zubereitet.
+
+  Cette entreprise est *soucieuse* de la satisfaction de ses clients.
+  Dieses Unternehmen ist um die Zufriedenheit seiner Kunden *bemüht*.
+
+  Je suis *soucieux* de vous et de votre réussite.
+  Ich bin um Sie und Ihren Erfolg *besorgt*.
+
+  Son expression *soucieuse* n'a pas échappé à ses collègues.
+  Sein *besorgter* Gesichtsausdruck ist seinen Kollegen nicht entgangen.
+
+  *Soucieuse* de sa réputation, elle évite les scandales.
+  *Bedacht* auf ihren Ruf vermeidet sie Skandale.
+
+  Les parents semblaient *soucieux* après la réunion avec les professeurs.
+  Die Eltern wirkten nach dem Gespräch mit den Lehrern *besorgt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,26 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La manipulation génétique n’est pas une bonne chose.
-  Genmanipulation ist nicht gut.
+  La *manipulation* génétique n'est pas une bonne chose.
+  Die Gen*manipulation* ist keine gute Sache.
 
-  La manipulation de l’opinion publique est un sujet de préoccupation.
-  Die Manipulation der öffentlichen Meinung ist ein besorgniserregendes Thema.
+  Les *manipulations* en laboratoire doivent suivre des protocoles stricts.
+  Die Labor*manipulationen* müssen strengen Protokollen folgen.
 
-  Les manipulations génétiques soulèvent des questions éthiques et scientifiques complexes.
-  Die Genmanipulation wirft komplexe ethische und wissenschaftliche Fragen auf.
+  Il a fallu trois mois pour maîtriser la *manipulation* de cette nouvelle machine.
+  Es hat drei Monate gedauert, die *Bedienung* dieser neuen Maschine zu beherrschen.
 
-  Les manipulations électorales peuvent avoir un impact majeur sur la démocratie.
-  Wahlmanipulation kann einen großen Einfluss auf die Demokratie haben.
+  La *manipulation* de produits chimiques nécessite des gants de protection.
+  Der *Umgang* mit Chemikalien erfordert Schutzhandschuhe.
 
-  La manipulation informatique peut entraîner des pertes financières et des dommages à la réputation.
-  Computermanipulation kann zu finanziellen Verlusten und Reputationsverlust führen.
+  L'ostéopathe a effectué plusieurs *manipulations* vertébrales pour soulager ma douleur.
+  Der Osteopath hat mehrere Wirbelsäulen*manipulationen* durchgeführt, um meine Schmerzen zu lindern.
 
-  La manipulation des cours est une pratique illégale qui peut nuire aux investisseurs.
-  Kursmanipulation ist eine illegale Praxis, die Investoren schaden kann.
+  Le magicien a impressionné le public par ses *manipulations* habiles avec les cartes.
+  Der Zauberer hat das Publikum mit seinen geschickten Karten*manipulationen* beeindruckt.
 
-  La manipulation du marché peut avoir des conséquences négatives pour l'économie.
-  Marktmanipulation kann negative Folgen für die Wirtschaft haben.
+  Les experts ont découvert des *manipulations* dans les résultats de l'élection.
+  Die Experten haben *Manipulationen* bei den Wahlergebnissen entdeckt.
+
+  Cette *manipulation* informatique a causé la perte de nombreuses données.
+  Diese Computer*manipulation* hat zum Verlust vieler Daten geführt.
+
+  La *manipulation* des cours de la bourse est strictement interdite.
+  Die Kurs*manipulation* an der Börse ist streng verboten.
+
+  Les étudiants apprennent la *manipulation* correcte des microscopes.
+  Die Studenten lernen die richtige *Handhabung* der Mikroskope.
+
+  Les médias ont dénoncé la *manipulation* de l'opinion publique.
+  Die Medien haben die *Manipulation* der öffentlichen Meinung angeprangert.
+
+  La *manipulation* de ces substances radioactives exige une formation spéciale.
+  Die *Handhabung* dieser radioaktiven Substanzen erfordert eine spezielle Ausbildung.
+
+  "Cette rumeur n'est qu'une *manipulation* pour nous diviser."
+  "Dieses Gerücht ist nur eine *Manipulation*, um uns zu spalten."
+
+  Les professeurs surveillent attentivement les *manipulations* des élèves pendant les expériences.
+  Die Lehrer überwachen sorgfältig die *Versuche* der Schüler während der Experimente.
+
+  La *manipulation* du marché immobilier a provoqué une hausse artificielle des prix.
+  Die *Manipulation* des Immobilienmarkts hat zu einem künstlichen Preisanstieg geführt.
+
+  Une simple *manipulation* suffit pour remettre l'articulation en place.
+  Eine einfache *Manipulation* reicht aus, um das Gelenk wieder einzurenken.
+
+  Les experts ont détecté des *manipulations* dans les comptes de l'entreprise.
+  Die Experten haben *Manipulationen* in der Firmenbuchhaltung entdeckt.
+
+  Cette *manipulation* des statistiques fausse complètement les résultats.
+  Diese *Manipulation* der Statistiken verfälscht die Ergebnisse völlig.
+
+  La *manipulation* prudente des échantillons est essentielle pour éviter la contamination.
+  Die vorsichtige *Handhabung* der Proben ist wichtig, um Kontamination zu vermeiden.
+
+  Les journalistes ont révélé une *manipulation* massive des sondages.
+  Die Journalisten haben eine massive *Manipulation* der Umfragen aufgedeckt.
+
+  La *manipulation* des masses par la propagande est un danger pour la démocratie.
+  Die *Manipulation* der Massen durch Propaganda ist eine Gefahr für die Demokratie.
+
+  Cette nouvelle interface facilite la *manipulation* des fichiers.
+  Diese neue Oberfläche erleichtert die *Bedienung* der Dateien.
+
+  La *manipulation* des preuves est un crime grave.
+  Die *Manipulation* von Beweismitteln ist ein schweres Verbrechen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il est politiquement correct d’être anti-américain.
-  Es ist politisch korrekt, antiamerikanisch zu sein.
+  Il est *politiquement* correct d'être anti-américain.
+  Es ist *politisch* korrekt, anti-amerikanisch zu sein.
 
-  Il est engagé politiquement.
-  Er ist politisch engagiert.
+  La situation est devenue *politiquement* instable après les élections.
+  Die Lage wurde nach den Wahlen *politisch* instabil.
+
+  Cette décision n'était pas *politiquement* viable à long terme.
+  Diese Entscheidung war langfristig *politisch* nicht tragbar.
+
+  Elle s'est *politiquement* engagée dès son plus jeune âge.
+  Sie hat sich von klein auf *politisch* engagiert.
+
+  Le maire a agi très *politiquement* dans cette affaire délicate.
+  Der Bürgermeister ist in dieser heiklen Angelegenheit sehr *diplomatisch* vorgegangen.
+
+  Ces deux pays ne sont pas *politiquement* alignés sur cette question.
+  Diese beiden Länder sind in dieser Frage *politisch* nicht auf einer Linie.
+
+  Notre région est devenue *politiquement* autonome l'année dernière.
+  Unsere Region ist letztes Jahr *politisch* autonom geworden.
+
+  Il se situe *politiquement* à gauche de son parti.
+  Er steht *politisch* links von seiner Partei.
+
+  Le candidat a *politiquement* évolué au fil des années.
+  Der Kandidat hat sich im Laufe der Jahre *politisch* weiterentwickelt.
+
+  Elle gère toujours *politiquement* les conflits au bureau.
+  Sie geht im Büro immer *diplomatisch* mit Konflikten um.
+
+  Les jeunes sont de plus en plus *politiquement* actifs.
+  Die Jugendlichen werden zunehmend *politisch* aktiv.
+
+  Ce pays est maintenant *politiquement* indépendant.
+  Dieses Land ist jetzt *politisch* unabhängig.
+
+  Il a *politiquement* manœuvré pour obtenir ce poste.
+  Er ist *diplomatisch* vorgegangen, um diese Position zu bekommen.
+
+  Ces réformes sont *politiquement* sensibles en ce moment.
+  Diese Reformen sind derzeit *politisch* heikel.
+
+  Le journal essaie de rester *politiquement* neutre.
+  Die Zeitung versucht, *politisch* neutral zu bleiben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

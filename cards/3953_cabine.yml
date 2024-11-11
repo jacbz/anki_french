@@ -13,26 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle dort dans une cabine.
-  Sie schläft in einer Kabine.
+  Elle dort dans une *cabine*.
+  Sie schläft in einer *Kabine*.
 
-  Je suis dans la cabine téléphonique.
-  Ich bin in der Telefonzelle.
+  La *cabine* spatiale a atterri avec succès.
+  Die Raum*kapsel* ist erfolgreich gelandet.
 
-  La cabine spatiale a été conçue pour transporter les astronautes dans l'espace.
-  Die Raumkapsel wurde für den Transport der Astronauten ins All entwickelt.
+  Le conducteur est monté dans la *cabine* du camion.
+  Der Fahrer ist ins Fahrer*haus* des LKWs gestiegen.
 
-  La cabine individuelle est petite, mais confortable.
-  Die Einzelkabine ist zwar klein, aber gemütlich.
+  Cette *cabine* téléphonique ne fonctionne plus.
+  Diese Telefon*zelle* funktioniert nicht mehr.
 
-  La cabine de luxe offre un confort maximal.
-  Die Luxuskabine bietet maximalen Komfort.
+  J'ai réservé une *cabine* double pour notre croisière.
+  Ich habe eine Doppel*kabine* für unsere Kreuzfahrt gebucht.
 
-  La cabine téléphonique se trouve au coin de la rue.
-  Die Telefonzelle befindet sich an der Straßenecke.
+  La *cabine* d'essayage était occupée.
+  Die Umkleide*kabine* war besetzt.
 
-  La cabine des passagers est spacieuse et lumineuse.
-  Der Fluggastraum ist geräumig und hell.
+  Le pilote est entré dans la *cabine* de l'avion.
+  Der Pilot betrat das *Cockpit* des Flugzeugs.
+
+  Les passagers sont installés dans la *cabine*.
+  Die Passagiere haben sich im Flugzeug*raum* eingerichtet.
+
+  La *cabine* de douche est en panne.
+  Die Dusch*kabine* ist kaputt.
+
+  Le capitaine nous a invités dans sa *cabine*.
+  Der Kapitän hat uns in seine *Kajüte* eingeladen.
+
+  Ils ont pris la *cabine* de téléphérique jusqu'au sommet.
+  Sie sind mit der Seilbahn*kabine* bis zum Gipfel gefahren.
+
+  La *cabine* de projection doit rester fermée pendant le film.
+  Die Projektions*kabine* muss während des Films geschlossen bleiben.
+
+  Thomas travaille dans la *cabine* d'aiguillage.
+  Thomas arbeitet im Stellwerks*häuschen*.
+
+  La *cabine* de luxe offre une vue magnifique sur la mer.
+  Die Luxus*kabine* bietet einen herrlichen Blick aufs Meer.
+
+  Pierre attend devant la *cabine* d'ascenseur.
+  Pierre wartet vor der Aufzugs*kabine*.
+
+  La *cabine* du conducteur est climatisée.
+  Das Führer*haus* ist klimatisiert.
+
+  Cette *cabine* individuelle est parfaite pour mon voyage.
+  Diese Einzel*kabine* ist perfekt für meine Reise.
+
+  Le grutier monte dans la *cabine* de la grue.
+  Der Kranführer steigt in die Führer*kabine* des Krans.
+
+  La *cabine* du bac traverse le fleuve depuis trente ans.
+  Das Fähr*haus* überquert den Fluss seit dreißig Jahren.
+
+  Les astronautes se sont installés dans la *cabine*.
+  Die Astronauten haben sich in der *Kapsel* eingerichtet.
+
+  J'ai oublié mes vêtements dans la *cabine* de bain.
+  Ich habe meine Kleidung in der Bade*kabine* vergessen.
+
+  La *cabine* des passagers est très confortable.
+  Die Passagier*kabine* ist sehr komfortabel.
+
+  Les enfants se sont amusés à compter les *cabines* sur la plage.
+  Die Kinder hatten Spaß dabei, die Strand*kabinen* zu zählen.
+
+  Le commandant surveille la mer depuis sa *cabine*.
+  Der Kommandant überwacht das Meer von seiner *Kabine* aus.
+
+  Marie cherche une *cabine* téléphonique pour appeler ses parents.
+  Marie sucht eine Telefon*zelle*, um ihre Eltern anzurufen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

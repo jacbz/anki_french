@@ -13,23 +13,50 @@ Register: ↘Fiktion ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est trois heures de programmation par jour en direct.
-  Das sind drei Stunden Live-Programmierung pro Tag.
+  C'est trois heures de *programmation* par jour en direct.
+  Es sind drei Stunden tägliche *Programm*gestaltung live.
 
-  Je suis passionné par la programmation.
-  Ich bin leidenschaftlich an der Programmierung interessiert.
+  La *programmation* modulaire permet de développer des applications plus facilement.
+  Die modulare *Programmierung* ermöglicht eine einfachere Entwicklung von Anwendungen.
 
-  La programmation linéaire est un type de programmation qui utilise des contraintes linéaires pour optimiser une fonction objectif.
-  Lineare Programmierung ist eine Art von Programmierung, die lineare Einschränkungen verwendet, um eine Zielfunktion zu optimieren.
+  Le festival a modifié sa *programmation* à cause de la pluie.
+  Das Festival hat seine *Programm*planung wegen des Regens geändert.
 
-  La programmation modulaire est un type de programmation qui divise un programme en modules distincts, qui peuvent ensuite être développés et testés indépendamment.
-  Modulare Programmierung ist eine Art von Programmierung, die ein Programm in separate Module unterteilt, die dann unabhängig voneinander entwickelt und getestet werden können.
+  J'ai commencé à apprendre un nouveau langage de *programmation*.
+  Ich habe angefangen, eine neue *Programmier*sprache zu lernen.
 
-  Le développeur a changé la programmation du logiciel pour qu'il soit plus efficace.
-  Der Entwickler hat die Software umprogrammiert, damit sie effizienter ist.
+  La *programmation* de cette chaîne de télévision vise un public jeune.
+  Die *Programm*gestaltung dieses Fernsehsenders richtet sich an ein junges Publikum.
 
-  Le technicien a dû changer la programmation de la commande pour qu'elle fonctionne correctement.
-  Der Techniker musste den Befehl umprogrammieren, damit er richtig funktioniert.
+  Elle travaille sur la *programmation* d'un nouveau logiciel de sécurité.
+  Sie arbeitet an der *Programmierung* einer neuen Sicherheitssoftware.
+
+  La *programmation* des vacances d'été prend beaucoup de temps.
+  Die *Planung* der Sommerferien nimmt viel Zeit in Anspruch.
+
+  Les étudiants apprennent les bases de la *programmation* en Python.
+  Die Studenten lernen die Grundlagen der *Programmierung* in Python.
+
+  La *programmation* du théâtre pour la saison prochaine vient d'être annoncée.
+  Die *Programm*planung des Theaters für die nächste Saison wurde gerade bekannt gegeben.
+
+  Il faut revoir la *programmation* de cette machine automatique.
+  Die *Programmierung* dieser automatischen Maschine muss überarbeitet werden.
+
+  La *programmation* économique prévoit une croissance modérée.
+  Die Wirtschafts*planung* sagt ein moderates Wachstum voraus.
+
+  La *programmation* du festival inclut des artistes internationaux.
+  Die *Programm*gestaltung des Festivals umfasst internationale Künstler.
+
+  Les erreurs de *programmation* peuvent causer des bugs importants.
+  *Programmier*fehler können schwerwiegende Bugs verursachen.
+
+  La *programmation* linéaire nous aide à optimiser les ressources.
+  Die lineare *Programmierung* hilft uns, die Ressourcen zu optimieren.
+
+  La *programmation* de cette calculatrice est relativement simple.
+  Die *Programmierung* dieses Taschenrechners ist relativ einfach.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il est temps d’alléger les impôts.
-  Es ist an der Zeit, die Steuern zu senken.
+  Il est temps d'*alléger* les impôts.
+  Es ist Zeit, die Steuern zu *senken*.
 
-  Nous devons alléger le fardeau des travailleurs.
-  Wir müssen die Last der Arbeiter erleichtern.
+  Les blancs battus en neige vont *alléger* la mousse au chocolat.
+  Das geschlagene Eiweiß wird die Schokoladenmousse *leichter* machen.
 
-  Le mécanicien a essayé d'alléger le véhicule en retirant les sièges arrière.
-  Der Mechaniker hat versucht, das Fahrzeug leichter zu machen, indem er die Rücksitze entfernte.
+  "Il m'a *allégé* de mon portefeuille pendant que je dormais dans le train."
+  "Er hat mich im Zug während des Schlafens um meine Geldbörse *erleichtert*."
 
-  Elle a alléger sa valise de dix kilos en jetant les souvenirs inutiles.
-  Sie hat ihren Koffer um zehn Kilo leichter gemacht, indem sie die unnötigen Andenken weggeworfen hat.
+  J'ai dû *alléger* ma valise de cinq kilos avant le vol.
+  Ich musste meinen Koffer vor dem Flug um fünf Kilo *erleichtern*.
+
+  Le nouveau programme scolaire *allégé* permet aux élèves de mieux se concentrer.
+  Der neue *reduzierte* Lehrplan ermöglicht es den Schülern, sich besser zu konzentrieren.
+
+  Marie préfère le fromage *allégé* pour sa santé.
+  Marie bevorzieht den *fettreduzierten* Käse für ihre Gesundheit.
+
+  Pour *alléger* le texte, nous avons supprimé quelques paragraphes.
+  Um den Text zu *entlasten*, haben wir einige Absätze gestrichen.
+
+  Ses mots gentils ont *allégé* ma peine.
+  Seine freundlichen Worte haben meinen Kummer *gelindert*.
+
+  Le constructeur a réussi à *alléger* la voiture de 200 kilos.
+  Dem Hersteller ist es gelungen, das Auto um 200 Kilo *leichter* zu machen.
+
+  Cette sauce est trop épaisse, il faut l'*alléger* avec un peu de crème.
+  Diese Sauce ist zu dick, wir müssen sie mit etwas Sahne *verdünnen*.
+
+  Le navire doit être *allégé* avant d'entrer dans le port.
+  Das Schiff muss vor der Einfahrt in den Hafen *entladen* werden.
+
+  Le mécanicien va *alléger* cette pièce métallique.
+  Der Mechaniker wird dieses Metallteil *dünner* machen.
+
+  La confession a *allégé* sa conscience.
+  Die Beichte hat sein Gewissen *erleichtert*.
+
+  Pour *alléger* son cheval, Paul s'est penché en arrière.
+  Um sein Pferd zu *entlasten*, lehnte sich Paul nach hinten.
+
+  Le colis était trop lourd, nous avons dû l'*alléger*.
+  Das Paket war zu schwer, wir mussten es *leichter* machen.
+
+  Cette réforme va *alléger* les charges administratives des entreprises.
+  Diese Reform wird den Verwaltungsaufwand der Unternehmen *verringern*.
+
+  Les médicaments ont *allégé* ses douleurs.
+  Die Medikamente haben ihre Schmerzen *gelindert*.
+
+  Je dois *alléger* mon sac à dos avant la randonnée.
+  Ich muss meinen Rucksack vor der Wanderung *leichter* machen.
+
+  Le professeur a *allégé* le programme du semestre.
+  Der Professor hat den Semesterplan *entlastet*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,20 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est rassurant des bruits de cuisine.
-  Küchengeräusche sind beruhigend.
+  C'est *rassurant* des bruits de cuisine.
+  Die Geräusche aus der Küche sind *beruhigend*.
 
-  Son sourire était rassurant.
-  Sein Lächeln war beruhigend.
+  Cette nouvelle n'est pas très *rassurante*.
+  Diese Nachricht ist nicht sehr *beruhigend*.
 
-  Le médecin s'est montré rassurant envers la patiente, lui expliquant que son état s'améliorait.
-  Der Arzt zeigte sich zuversichtlich gegenüber der Patientin, indem er ihr erklärte, dass sich ihr Zustand besserte.
+  Le médecin s'est montré *rassurant* lors de la consultation.
+  Der Arzt zeigte sich während der Sprechstunde *zuversichtlich*.
 
-  Le chef a essayé de se vouloir rassurant en annonçant que les licenciements seraient limités.
-  Der Chef versuchte zu beschwichtigen, indem er ankündigte, dass die Entlassungen begrenzt werden würden.
+  Son sourire *rassurant* m'a fait oublier mes craintes.
+  Ihr *beruhigendes* Lächeln ließ mich meine Ängste vergessen.
 
-  C'est rassurant de savoir que les pompiers sont arrivés rapidement sur les lieux de l'incendie.
-  Das ist ja ermutigend zu wissen, dass die Feuerwehr schnell am Brandort eingetroffen ist.
+  Les résultats des examens sont *rassurants*.
+  Die Untersuchungsergebnisse sind *ermutigend*.
+
+  Elle a pris un ton *rassurant* pour parler aux enfants.
+  Sie sprach in einem *beruhigenden* Ton mit den Kindern.
+
+  Ces statistiques ne sont guère *rassurantes*.
+  Diese Statistiken sind kaum *ermutigend*.
+
+  La présence de Paul est toujours *rassurante*.
+  Pauls Anwesenheit ist immer *beruhigend*.
+
+  L'expert se voulait *rassurant* face aux inquiétudes du public.
+  Der Experte versuchte angesichts der öffentlichen Besorgnisse *beschwichtigend* zu wirken.
+
+  Son expression *rassurante* m'a donné confiance.
+  Sein *zuversichtlicher* Gesichtsausdruck gab mir Vertrauen.
+
+  Les prévisions météorologiques sont plutôt *rassurantes* pour demain.
+  Die Wettervorhersagen für morgen sind recht *beruhigend*.
+
+  Je trouve sa voix très *rassurante*.
+  Ich finde seine Stimme sehr *beruhigend*.
+
+  Les signes de reprise économique sont *rassurants*.
+  Die Anzeichen für eine wirtschaftliche Erholung sind *ermutigend*.
+
+  L'ambiance n'était pas vraiment *rassurante* dans cette ruelle sombre.
+  Die Atmosphäre in dieser dunklen Gasse war nicht gerade *beruhigend*.
+
+  Son attitude *rassurante* a calmé tout le monde.
+  Seine *beschwichtigende* Haltung beruhigte alle.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

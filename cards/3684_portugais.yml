@@ -13,14 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Admettons que je sois portugais.
-  Angenommen, ich bin Portugiese.
+  Admettons que je sois *portugais*.
+  Nehmen wir an, ich sei *Portugiese*.
 
-  Je parle portugais.
-  Ich spreche Portugiesisch.
+  La langue *portugaise* est très proche de l'espagnol.
+  Die *portugiesische* Sprache ist dem Spanischen sehr ähnlich.
 
-  La langue portugaise
-  Die portugiesische Sprache
+  Marie apprend le *portugais* depuis trois ans.
+  Marie lernt seit drei Jahren *Portugiesisch*.
+
+  Les *Portugais* ont exploré les côtes africaines au XVe siècle.
+  Die *Portugiesen* erkundeten im 15. Jahrhundert die afrikanischen Küsten.
+
+  Un restaurant propose des plats à la *portugaise*.
+  Ein Restaurant bietet Gerichte auf *portugiesische* Art an.
+
+  Le fado est un genre musical typiquement *portugais*.
+  Fado ist eine typisch *portugiesische* Musikrichtung.
+
+  Sa grand-mère est *portugaise*.
+  Seine Großmutter ist *Portugiesin*.
+
+  Je voudrais commander des huîtres *portugaises*.
+  Ich möchte *portugiesische* Austern bestellen.
+
+  Les colonies *portugaises* en Afrique sont devenues indépendantes.
+  Die *portugiesischen* Kolonien in Afrika wurden unabhängig.
+
+  Le *portugais* est la langue officielle du Brésil.
+  *Portugiesisch* ist die Amtssprache Brasiliens.
+
+  L'empire *portugais* s'étendait sur plusieurs continents.
+  Das *portugiesische* Reich erstreckte sich über mehrere Kontinente.
+
+  Les marins *portugais* étaient réputés pour leur courage.
+  Die *portugiesischen* Seefahrer waren für ihren Mut bekannt.
+
+  La littérature *portugaise* est riche en poésie.
+  Die *portugiesische* Literatur ist reich an Poesie.
+
+  Les vins *portugais* sont de plus en plus appréciés.
+  *Portugiesische* Weine werden immer beliebter.
+
+  Il y a une grande communauté *portugaise* à Paris.
+  Es gibt eine große *portugiesische* Gemeinde in Paris.
+
+  La cuisine *portugaise* est connue pour ses plats de poisson.
+  Die *portugiesische* Küche ist bekannt für ihre Fischgerichte.
+
+  Les traditions *portugaises* sont encore très vivantes.
+  Die *portugiesischen* Traditionen sind noch sehr lebendig.
+
+  Mon professeur de *portugais* vient de Porto.
+  Mein *Portugiesisch*lehrer kommt aus Porto.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le Canada exporte un certain nombre de produits alimentaires.
-  Kanada exportiert eine Reihe von Lebensmitteln.
+  Le Canada *exporte* un certain nombre de produits alimentaires.
+  Kanada *exportiert* eine Reihe von Lebensmitteln.
 
-  Nous exportons des produits dans le monde entier.
-  Wir exportieren Produkte weltweit.
+  Pour *exporter*, nous devons d'abord améliorer la qualité de nos produits.
+  Zum *Exportieren* müssen wir erst die Qualität unserer Produkte verbessern.
 
-  Il faut exporter ces fichiers sur le serveur.
-  Diese Dateien müssen auf den Server übertragen werden.
+  Notre entreprise *exporte* des voitures dans le monde entier depuis 1950.
+  Unser Unternehmen *exportiert* seit 1950 Autos in die ganze Welt.
 
-  On a décidé d'exporter nos données sur un disque dur externe.
-  Wir haben uns entschieden, unsere Daten auf eine externe Festplatte zu übertragen.
+  Les vins français s'*exportent* de mieux en mieux en Asie.
+  Französische Weine lassen sich immer besser nach Asien *exportieren*.
+
+  J'ai *exporté* mes données vers un nouveau format compatible.
+  Ich habe meine Daten in ein neues kompatibles Format *exportiert*.
+
+  Cette région *exporte* principalement du minerai de fer.
+  Diese Region *exportiert* hauptsächlich Eisenerz.
+
+  Le Japon *exportera* moins de voitures l'année prochaine.
+  Japan wird nächstes Jahr weniger Autos *exportieren*.
+
+  La Corée du Sud a réussi à *exporter* sa culture pop dans le monde entier.
+  Südkorea hat es geschafft, seine Popkultur in die ganze Welt zu *exportieren*.
+
+  Comment *exporter* ces fichiers vers mon nouveau téléphone ?
+  Wie kann ich diese Dateien auf mein neues Handy *exportieren*?
+
+  L'Allemagne *exporte* beaucoup de machines-outils vers la Chine.
+  Deutschland *exportiert* viele Werkzeugmaschinen nach China.
+
+  Cette start-up veut *exporter* son modèle commercial en Europe.
+  Dieses Start-up will sein Geschäftsmodell nach Europa *exportieren*.
+
+  Il faut *exporter* ces documents au format PDF.
+  Diese Dokumente müssen ins PDF-Format *exportiert* werden.
+
+  L'Australie *exporte* de grandes quantités de matières premières.
+  Australien *exportiert* große Mengen an Rohstoffen.
+
+  Nous devons *exporter* nos données avant de changer de logiciel.
+  Wir müssen unsere Daten *exportieren*, bevor wir die Software wechseln.
+
+  Cette entreprise *exporte* son savoir-faire technique à l'étranger.
+  Dieses Unternehmen *exportiert* sein technisches Know-how ins Ausland.
+
+  Le Brésil *exporte* du café dans plus de 100 pays.
+  Brasilien *exportiert* Kaffee in mehr als 100 Länder.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

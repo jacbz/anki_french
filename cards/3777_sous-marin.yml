@@ -13,29 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La marine chinoise dispose de 69 sous-marins.
-  Die chinesische Marine verfügt über 69 U-Boote.
+  La marine chinoise dispose de 69 *sous-marins*.
+  Die chinesische Marine verfügt über 69 *U-Boote*.
 
-  Le sous-marin a plongé dans les profondeurs de l’océan.
-  Das U-Boot ist in die Tiefen des Ozeans getaucht.
+  Le *sous-marin* nucléaire plonge à une profondeur de 400 mètres.
+  Das Atom-*U-Boot* taucht auf eine Tiefe von 400 Metern.
 
-  Le sous-marin nucléaire est un navire de guerre très puissant.
-  Ein Atom-U-Boot ist ein sehr mächtiges Kriegsschiff.
+  Les plongeurs explorent la flore *sous-marine* près des récifs de corail.
+  Die Taucher erforschen die *Unterwasser*flora in der Nähe der Korallenriffe.
 
-  La faune et la flore sous-marine sont très riches dans cette zone.
-  Die Unterwasserfauna und -flora sind in diesem Gebiet sehr reichhaltig.
+  Le laboratoire *sous-marin* permet d'étudier le comportement des poissons.
+  Das *Unterwasser*labor ermöglicht es, das Verhalten der Fische zu studieren.
 
-  La pêche sous-marine est un sport très dangereux, mais aussi très exaltant.
-  Der Unterwasserfischfang ist ein sehr gefährlicher, aber auch sehr aufregender Sport.
+  La pêche *sous-marine* est interdite dans cette réserve naturelle.
+  Der *Unterwasser*fischfang ist in diesem Naturschutzgebiet verboten.
 
-  Le laboratoire sous-marin permet aux scientifiques d'étudier la vie marine de près.
-  Die Unterwasserstation ermöglicht es den Wissenschaftlern, das Meeresleben aus der Nähe zu studieren.
+  Les courants *sous-marins* sont particulièrement forts aujourd'hui.
+  Die *Unterwasser*strömungen sind heute besonders stark.
 
-  La station sous-marine est un lieu d'observation et de recherche scientifique.
-  Die Unterwasserstation ist ein Ort der Beobachtung und wissenschaftlichen Forschung.
+  Un séisme *sous-marin* a provoqué un tsunami dans le Pacifique.
+  Ein *Unterwasser*beben hat einen Tsunami im Pazifik ausgelöst.
 
-  La guerre sous-marine a joué un rôle important dans les deux guerres mondiales.
-  Der U-Boot-Krieg spielte eine wichtige Rolle in den beiden Weltkriegen.
+  La photographie *sous-marine* exige un équipement spécialisé.
+  Die *Unterwasser*fotografie erfordert spezielle Ausrüstung.
+
+  Le relief *sous-marin* de cette région est très accidenté.
+  Das *Unterwasser*relief dieser Region ist sehr zerklüftet.
+
+  Les câbles *sous-marins* permettent la communication entre les continents.
+  Die *Unterwasser*kabel ermöglichen die Kommunikation zwischen den Kontinenten.
+
+  Le *sous-marin* a refait surface après trois jours de plongée.
+  Das *U-Boot* ist nach drei Tagen Tauchfahrt wieder aufgetaucht.
+
+  L'équipage du *sous-marin* communique par des signaux acoustiques.
+  Die Besatzung des *U-Boots* kommuniziert über akustische Signale.
+
+  Les archéologues ont découvert une ville *sous-marine* antique.
+  Die Archäologen haben eine antike *Unterwasser*stadt entdeckt.
+
+  Le périscope du *sous-marin* permet d'observer la surface.
+  Das Periskop des *U-Boots* ermöglicht es, die Oberfläche zu beobachten.
+
+  La station *sous-marine* accueille des chercheurs toute l'année.
+  Die *Unterwasser*station beherbergt das ganze Jahr über Forscher.
+
+  Le *sous-marin* de poche est utilisé pour l'exploration scientifique.
+  Das Mini-*U-Boot* wird für wissenschaftliche Erforschung eingesetzt.
+
+  Les ballasts du *sous-marin* contrôlent sa profondeur de plongée.
+  Die Ballasttanks des *U-Boots* kontrollieren seine Tauchtiefe.
+
+  La faune *sous-marine* est menacée par la pollution plastique.
+  Die *Unterwasser*fauna ist durch Plastikverschmutzung bedroht.
+
+  Un pêcheur *sous-marin* expérimenté peut retenir sa respiration pendant plusieurs minutes.
+  Ein erfahrener *Unterwasser*fischer kann seinen Atem mehrere Minuten lang anhalten.
+
+  Le *sous-marin* de recherche explore les fosses abyssales.
+  Das Forschungs-*U-Boot* erkundet die Tiefseegruben.
+
+  "Michel s'est introduit en *sous-marin* dans l'organisation."
+  "Michel hat sich als *Spitzel* in die Organisation eingeschleust."
+
+  Le capitaine du *sous-marin* a donné l'ordre de plonger.
+  Der Kapitän des *U-Boots* gab den Befehl zum Tauchen.
+
+  Les volcans *sous-marins* peuvent créer de nouvelles îles.
+  *Unterwasser*vulkane können neue Inseln entstehen lassen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je vous prie d’excuser mon arrivée tardive.
-  Ich bitte Sie, meine späte Ankunft zu entschuldigen.
+  Je vous prie d'excuser mon arrivée *tardive*.
+  Ich bitte Sie, meine *verspätete* Ankunft zu entschuldigen.
 
-  Il est arrivé en retard à la réunion.
-  Er ist spät zur Besprechung gekommen.
+  Ces fleurs *tardives* fleurissent jusqu'en octobre.
+  Diese *späten* Blumen blühen bis in den Oktober hinein.
+
+  Son *tardif* développement inquiétait ses parents.
+  Seine *späte* Entwicklung beunruhigte seine Eltern.
+
+  Cette tomate est une variété *tardive*.
+  Diese Tomate ist eine *späte* Sorte.
+
+  Ce *tardif* remords ne change rien à la situation.
+  Diese *späte* Reue ändert nichts an der Situation.
+
+  La dernière œuvre *tardive* de Mozart est son Requiem.
+  Mozarts letztes *Spät*werk ist sein Requiem.
+
+  Il est rentré à une heure *tardive* de la nuit.
+  Er ist zu einer *späten* Stunde in der Nacht nach Hause gekommen.
+
+  Ces pêches *tardives* sont particulièrement sucrées.
+  Diese *späten* Pfirsiche sind besonders süß.
+
+  Les excuses *tardives* du ministre n'ont pas convaincu le public.
+  Die *verspäteten* Entschuldigungen des Ministers haben die Öffentlichkeit nicht überzeugt.
+
+  La reconnaissance *tardive* de son talent l'a profondément marqué.
+  Die *späte* Anerkennung seines Talents hat ihn tief geprägt.
+
+  À cause du gel, nous avons eu un printemps *tardif*.
+  Wegen des Frosts hatten wir einen *späten* Frühling.
+
+  Ces pommes *tardives* se conservent tout l'hiver.
+  Diese *späten* Äpfel halten den ganzen Winter.
+
+  Son réveil *tardif* nous a fait rater le train.
+  Sein *spätes* Aufwachen hat uns den Zug verpassen lassen.
+
+  Le diagnostic *tardif* a compliqué le traitement.
+  Die *späte* Diagnose hat die Behandlung erschwert.
+
+  Cette variété *tardive* de raisin mûrit en octobre.
+  Diese *späte* Traubensorte reift im Oktober.
+
+  Les corrections *tardives* ne seront pas acceptées.
+  *Späte* Korrekturen werden nicht akzeptiert.
+
+  À cette heure *tardive*, les rues sont désertes.
+  Zu dieser *späten* Stunde sind die Straßen verlassen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

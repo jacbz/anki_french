@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il devra payer l’amende.
-  Er muss die Geldstrafe bezahlen.
+  Il devra payer l'*amende*.
+  Er wird die *Strafe* zahlen müssen.
 
-  Il a reçu une amende pour excès de vitesse.
-  Er hat eine Strafe wegen Geschwindigkeitsüberschreitung erhalten.
+  Le juge a fixé l'*amende* à mille euros.
+  Der Richter hat die *Geldstrafe* auf tausend Euro festgesetzt.
 
-  Il a eu mille euros d'amende pour avoir conduit en état d'ivresse.
-  Er musste tausend Euro Strafe zahlen, weil er betrunken Auto gefahren ist.
+  Cette infraction est sanctionnée par une *amende* de 50 euros.
+  Dieser Verstoß wird mit einem *Bußgeld* von 50 Euro geahndet.
 
-  Après avoir insulté son professeur, il a fait amende honorable et s'est excusé.
-  Nachdem er seinen Lehrer beleidigt hatte, leistete er Abbitte und entschuldigte sich.
+  L'*amende* pour stationnement interdit a été augmentée.
+  Die *Geldbuße* für Falschparken wurde erhöht.
+
+  "Tu seras à l'*amende* si tu arrives encore en retard !"
+  "Du bekommst eine *Strafe*, wenn du noch mal zu spät kommst!"
+
+  Elle a dû faire *amende honorable* devant toute l'équipe.
+  Sie musste vor dem ganzen Team *Abbitte leisten*.
+
+  Les *amendes* routières peuvent être payées en ligne.
+  Die Verkehrs*bußgelder* können online bezahlt werden.
+
+  La société risque une *amende* record pour pollution.
+  Dem Unternehmen droht eine Rekord*geldstrafe* wegen Umweltverschmutzung.
+
+  Le policier m'a mis à l'*amende* pour excès de vitesse.
+  Der Polizist hat mir ein *Bußgeld* wegen zu schnellen Fahrens auferlegt.
+
+  Après avoir fait *amende honorable*, il a été pardonné.
+  Nachdem er seine *Schuld eingestanden* hatte, wurde ihm vergeben.
+
+  Les *amendes* peuvent être majorées en cas de récidive.
+  Die *Geldbußen* können bei Wiederholungstaten erhöht werden.
+
+  J'ai reçu une *amende* pour avoir garé ma voiture ici.
+  Ich habe ein *Bußgeld* bekommen, weil ich mein Auto hier geparkt habe.
+
+  Une *amende* forfaitaire lui a été envoyée par la poste.
+  Ein pauschales *Bußgeld* wurde ihm per Post zugestellt.
+
+  Il a été condamné à une lourde *amende*.
+  Er wurde zu einer hohen *Geldstrafe* verurteilt.
+
+  Le montant de l'*amende* dépend de la gravité de l'infraction.
+  Die Höhe des *Bußgelds* hängt von der Schwere des Verstoßes ab.
+
+  Ils ont fait *amende honorable* pour leurs erreurs passées.
+  Sie haben für ihre vergangenen Fehler *Reue gezeigt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

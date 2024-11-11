@@ -13,14 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je vais crier au viol.
-  Ich schreie Vergewaltigung.
+  Je vais crier au *viol*.
+  Ich werde *Vergewaltigung* schreien.
 
-  Elle a été victime d’un viol.
-  Sie wurde vergewaltigt.
+  Le *viol* est puni par la loi.
+  *Vergewaltigung* wird vom Gesetz bestraft.
 
-  Le vol du bijou a constitué une violation de la loi.
-  Der Diebstahl des Schmuckstücks stellte eine Übertretung des Gesetzes dar.
+  Il a été condamné pour *viol*.
+  Er wurde wegen *Vergewaltigung* verurteilt.
+
+  Les victimes de *viol* ont droit à une aide psychologique.
+  Opfer von *Vergewaltigung* haben ein Recht auf psychologische Hilfe.
+
+  La société doit lutter contre la culture du *viol*.
+  Die Gesellschaft muss die *Vergewaltigungs*kultur bekämpfen.
+
+  Le *viol* de ce secret professionnel aura des conséquences graves.
+  Der *Verrat* dieses Berufsgeheimnisses wird schwere Folgen haben.
+
+  Ce *viol* flagrant de la loi ne restera pas impuni.
+  Diese offensichtliche Gesetzes*verletzung* wird nicht ungestraft bleiben.
+
+  Le *viol* du traité a provoqué une crise diplomatique.
+  Die *Verletzung* des Vertrags hat eine diplomatische Krise ausgelöst.
+
+  Les accusés nient toute implication dans le *viol*.
+  Die Angeklagten bestreiten jede Beteiligung an der *Vergewaltigung*.
+
+  Ce *viol* de conscience est inacceptable.
+  Dieser Gewissens*zwang* ist inakzeptabel.
+
+  Le *viol* du sanctuaire a choqué les fidèles.
+  Die *Schändung* des Heiligtums hat die Gläubigen schockiert.
+
+  Le *viol* de notre intimité par ces caméras est inadmissible.
+  Die *Verletzung* unserer Privatsphäre durch diese Kameras ist inakzeptabel.
+
+  Nous condamnons fermement le *viol* des droits humains.
+  Wir verurteilen die *Verletzung* der Menschenrechte aufs Schärfste.
+
+  Le *viol* du cessez-le-feu a mis fin aux négociations.
+  Der *Bruch* des Waffenstillstands hat die Verhandlungen beendet.
+
+  Le *viol* de confidentialité peut entraîner des poursuites judiciaires.
+  Der *Bruch* der Vertraulichkeit kann rechtliche Folgen haben.
+
+  Le *viol* des règles de sécurité a causé l'accident.
+  Die *Missachtung* der Sicherheitsvorschriften hat den Unfall verursacht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

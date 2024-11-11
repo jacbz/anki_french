@@ -13,41 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ton téléphone est en panne.
-  Dein Telefon ist kaputt.
+  Ton téléphone est en *panne*.
+  Dein Handy ist *kaputt*.
 
-  Notre voiture a eu une panne.
-  Unser Auto hatte eine Panne.
+  Sa voiture est tombée en *panne* sur l'autoroute.
+  Sein Auto hatte eine *Panne* auf der Autobahn.
 
-  Il y a eu une panne de courant dans le quartier, ce qui a interrompu l'alimentation électrique de tous les bâtiments.
-  Im Viertel gab es einen Stromausfall, der die Stromversorgung aller Gebäude unterbrach.
+  "Je suis en *panne* d'inspiration pour mon roman."
+  "Mir fehlt die *Inspiration* für meinen Roman."
 
-  La voiture est restée en panne au milieu de la route, ce qui a provoqué un embouteillage.
-  Das Auto blieb mitten auf der Straße liegen, was einen Stau verursachte.
+  Une *panne* de courant a plongé toute la ville dans l'obscurité.
+  Ein Strom*ausfall* hat die ganze Stadt ins Dunkel gestürzt.
 
-  Je suis en panne de café, je dois aller en acheter.
-  Mir ist der Kaffee ausgegangen, ich muss welchen kaufen gehen.
+  Il y a eu une *panne* d'image pendant le match de football.
+  Während des Fußballspiels gab es einen Bild*ausfall*.
 
-  Le capitaine a décidé de mettre le bateau en panne pour éviter une collision avec un iceberg.
-  Der Kapitän beschloss, das Schiff beidrehen zu lassen, um eine Kollision mit einem Eisberg zu vermeiden.
+  Nous avons dû mettre le bateau en *panne* à cause de la tempête.
+  Wir mussten das Schiff wegen des Sturms *beidrehen*.
 
-  Pendant la tempête, il y a eu une petite panne de courant, les lumières ont clignoté pendant quelques secondes.
-  Bei dem Gewitter ist es zu einer kurzen Stromunterbrechung gekommen, die Lichter flackerten für ein paar Sekunden.
+  Le système informatique a subi une *panne* totale hier soir.
+  Das Computersystem hatte gestern Abend einen Total*ausfall*.
 
-  La panne totale du réseau a paralysé toute la ville.
-  Der Totalausfall des Netzes hat die ganze Stadt lahmgelegt.
+  "Je suis en *panne* de café, tu peux m'en apporter ?"
+  "Mir ist der *Kaffee* ausgegangen, kannst du mir welchen mitbringen?"
 
-  La panne d'image sur l'écran de télévision a interrompu le film.
-  Der Bildausfall auf dem Fernsehbildschirm unterbrach den Film.
+  La vieille machine à laver est encore en *panne*.
+  Die alte Waschmaschine ist wieder *defekt*.
 
-  La panne de moteur de l'avion a obligé le pilote à effectuer un atterrissage d'urgence.
-  Der Motorschaden am Flugzeug zwang den Piloten zu einer Notlandung.
+  Notre projet est en *panne* depuis des semaines.
+  Unser Projekt *kommt* seit Wochen *nicht mehr weiter*.
 
-  J'ai eu une panne de voiture sur l'autoroute, heureusement un mécanicien est venu à mon secours.
-  Ich hatte eine Panne mit dem Auto auf der Autobahn, zum Glück kam ein Mechaniker zu meiner Hilfe.
+  Il est tombé en *panne* d'essence au milieu de nulle part.
+  Ihm ist mitten im Nirgendwo das *Benzin* ausgegangen.
 
-  Le moteur de la voiture est en panne, elle ne démarre plus.
-  Der Motor des Autos ist kaputt, es springt nicht mehr an.
+  Les techniciens ont réparé la *panne* de moteur en deux heures.
+  Die Techniker haben den Motor*schaden* in zwei Stunden repariert.
+
+  Une grande *panne* barrait l'horizon au coucher du soleil.
+  Eine große Wolken*bank* verdeckte den Horizont bei Sonnenuntergang.
+
+  On utilise la *panne* du porc pour faire du saindoux maison.
+  Man verwendet das Schweine*fett* zur Herstellung von hausgemachtem Schmalz.
+
+  La *panne* d'électricité va durer encore quelques heures.
+  Die Strom*unterbrechung* wird noch einige Stunden andauern.
+
+  L'équipe est en *panne* aujourd'hui car trois collègues sont malades.
+  Das Team *steckt* heute *fest*, weil drei Kollegen krank sind.
+
+  La *panne* du piolet sert à tailler des marches dans la glace.
+  Die *Haue* des Eispickels dient zum Stufenschlagen im Eis.
+
+  "C'est la *panne* sèche, on doit trouver une station-service !"
+  "Das *Benzin* ist alle, wir müssen eine Tankstelle finden!"
+
+  Elle a eu une *panne* de réveil ce matin.
+  Ihr *Wecker* hat heute Morgen *versagt*.
+
+  Les travaux sont en *panne* depuis le départ de l'architecte.
+  Die Arbeiten *liegen* seit dem Weggang des Architekten *brack*.
+
+  La *panne* de chauffage est survenue pendant la nuit la plus froide.
+  Der Heizungs*ausfall* ereignete sich in der kältesten Nacht.
+
+  Cette robe en *panne* de velours est magnifique.
+  Dieses Kleid aus *Samt* ist wunderschön.
+
+  Le marteau utilise sa *panne* pour arracher les clous.
+  Der Hammer verwendet seine *Finne* zum Herausziehen der Nägel.
+
+  La charpente repose sur une *panne* en acier.
+  Das Dachgebälk ruht auf einer Stahl*pfette*.
+
+  "Je suis en *panne* d'idées pour son cadeau d'anniversaire."
+  "Mir *fehlen* die Ideen für sein Geburtstagsgeschenk."
+
+  Les acteurs débutants n'ont que des *pannes* dans cette pièce.
+  Die Anfängerschauspieler haben in diesem Stück nur *Statistenrollen*.
+
+  Le navire s'est mis en *panne* pour secourir les naufragés.
+  Das Schiff *stoppte*, um die Schiffbrüchigen zu retten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

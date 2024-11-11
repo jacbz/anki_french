@@ -13,38 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il aimait à défier le destin par fierté.
-  Er forderte das Schicksal aus Stolz gern heraus.
+  Il aimait à *défier* le destin par fierté.
+  Er liebte es, aus Stolz das Schicksal zu *trotzen*.
 
-  Je te défie au tennis.
-  Ich fordere dich im Tennis heraus.
+  Mon frère m'a *défié* aux échecs, mais il n'a aucune chance de gagner.
+  Mein Bruder hat mich zum Schach *herausgefordert*, aber er hat keine Chance zu gewinnen.
 
-  Pierre a défié Marie aux échecs, confiant en sa victoire.
-  Pierre hat Marie zu einer Partie Schach herausgefordert, überzeugt von seinem Sieg.
+  Je te *défie* de sauter par-dessus cette rivière !
+  Ich *wette*, dass du nicht über diesen Fluss springen kannst!
 
-  Il se défie de ses amis, car il les croit trop naïfs.
-  Er misstraut seinen Freunden, weil er sie für zu naiv hält.
+  Cette construction *défie* les intempéries depuis des siècles.
+  Dieses Gebäude *trotzt* seit Jahrhunderten der Witterung.
 
-  Je te défie de faire ça en moins de cinq minutes!
-  Ich wette, dass du das nicht in weniger als fünf Minuten schaffst!
+  Le jeune homme *défiait* constamment l'autorité de ses parents.
+  Der junge Mann *widersetzte* sich ständig der Autorität seiner Eltern.
 
-  Les étudiants ont défié l'autorité en organisant une manifestation.
-  Die Studenten haben sich der Autorität widersetzt, indem sie eine Demonstration organisiert haben.
+  Les manifestants ont *défié* l'interdiction de se rassembler.
+  Die Demonstranten haben sich über das Versammlungsverbot *hinweggesetzt*.
 
-  Les alpinistes ont défié les intempéries pour atteindre le sommet.
-  Die Bergsteiger haben der schlechten Witterung getrotzt, um den Gipfel zu erreichen.
+  Marie *se défie* toujours des compliments de Paul.
+  Marie *misstraut* Pauls Komplimenten immer.
 
-  Il faut défier l'avenir avec courage et optimisme.
-  Man muss der Zukunft mit Mut und Optimismus begegnen.
+  Ces prix *défient* toute concurrence sur le marché.
+  Diese Preise stehen außer *Konkurrenz* auf dem Markt.
 
-  Les pompiers ont défié le danger pour sauver les enfants.
-  Die Feuerwehrleute haben der Gefahr getrotzt, um die Kinder zu retten.
+  Le colonel a *défié* son adversaire en duel.
+  Der Oberst hat seinen Gegner zum Duell *herausgefordert*.
 
-  Son comportement défie la raison.
-  Sein Verhalten widerspricht der Vernunft.
+  Les alpinistes *défient* la mort à chaque ascension.
+  Die Bergsteiger *trotzen* bei jedem Aufstieg dem Tod.
 
-  Cette boutique propose des prix défiant toute concurrence.
-  Dieser Laden bietet Preise, die außer Konkurrenz stehen.
+  Son comportement *défie* le bon sens.
+  Sein Verhalten *spottet* jedem Verstand.
+
+  Elle *se défiait* de ses propres capacités avant l'examen.
+  Sie *zweifelte* vor der Prüfung an ihren eigenen Fähigkeiten.
+
+  Les sportifs se sont *défiés* à la course.
+  Die Sportler haben sich zum Wettkampf *herausgefordert*.
+
+  Cette technologie *défie* l'imagination des experts.
+  Diese Technologie *widerspricht* der Vorstellungskraft der Experten.
+
+  Il est sage de *se défier* des promesses trop belles.
+  Es ist klug, allzu schönen Versprechen zu *misstrauen*.
+
+  Thomas a *défié* Marc à la boxe après l'entraînement.
+  Thomas hat Marc nach dem Training zum Boxen *herausgefordert*.
+
+  Son regard *défiait* tous ceux qui osaient la contredire.
+  Ihr Blick *forderte* jeden *heraus*, der ihr zu widersprechen wagte.
+
+  Cette forteresse a *défié* le temps pendant des siècles.
+  Diese Festung hat den Zeiten *getrotzt*.
+
+  Je *défie* quiconque de prouver le contraire !
+  Ich *fordere* jeden *heraus*, das Gegenteil zu beweisen!
+
+  Les jeunes aventuriers *défiaient* le danger avec insouciance.
+  Die jungen Abenteurer *trotzten* der Gefahr mit Leichtsinn.
+
+  Il faut apprendre à *se défier* de ses premières impressions.
+  Man muss lernen, seinen ersten Eindrücken zu *misstrauen*.
+
+  Son argumentation *défie* toute logique.
+  Seine Argumentation *spottet* jeder Logik.
+
+  Cette équipe *défie* tous les pronostics cette saison.
+  Diese Mannschaft *widersetzt* sich allen Prognosen in dieser Saison.
+
+  Les révolutionnaires *défiaient* ouvertement le pouvoir en place.
+  Die Revolutionäre *trotzten* offen der herrschenden Macht.
+
+  Ces structures *défient* les lois de la physique.
+  Diese Strukturen *trotzen* den Gesetzen der Physik.
+
+  Pierre *se défiait* de lui-même dans les moments difficiles.
+  Pierre *zweifelte* in schwierigen Momenten an sich selbst.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

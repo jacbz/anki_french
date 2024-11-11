@@ -13,14 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai l’impression d’être contaminé. C’est répugnant.
-  Ich fühle mich, als wäre ich infiziert. Es ist widerlich.
+  J'ai l'impression d'être *contaminé*. C'est répugnant.
+  Ich habe das Gefühl, ich bin *angesteckt*. Das ist ekelhaft.
 
-  Le virus peut contaminer les gens très rapidement.
-  Das Virus kann Menschen sehr schnell anstecken.
+  La grippe a *contaminé* presque toute l'école.
+  Die Grippe hat fast die ganze Schule *angesteckt*.
 
-  Il s'est contaminé par le virus lors d'un voyage en Asie.
-  Er hat sich bei dem Virus während einer Reise nach Asien angesteckt.
+  Cette bactérie peut *contaminer* l'eau potable en quelques heures.
+  Dieses Bakterium kann das Trinkwasser in wenigen Stunden *verseuchen*.
+
+  Les déchets industriels ont *contaminé* la rivière sur plusieurs kilomètres.
+  Die Industrieabfälle haben den Fluss über mehrere Kilometer *verseucht*.
+
+  Elle s'est *contaminée* avec le virus en soignant son fils malade.
+  Sie hat sich beim Pflegen ihres kranken Sohnes mit dem Virus *infiziert*.
+
+  Les experts ont découvert du sang *contaminé* dans plusieurs échantillons.
+  Die Experten haben *infiziertes* Blut in mehreren Proben gefunden.
+
+  Son attitude négative a *contaminé* toute l'équipe.
+  Seine negative Einstellung hat das ganze Team *angesteckt*.
+
+  Le puits du village a été *contaminé* par des produits chimiques.
+  Der Dorfbrunnen wurde durch Chemikalien *verseucht*.
+
+  Les médecins craignent que le patient ne *contamine* d'autres personnes.
+  Die Ärzte befürchten, dass der Patient andere Personen *ansteckt*.
+
+  Cette région a été *contaminée* par les radiations de la centrale nucléaire.
+  Diese Region wurde durch die Strahlung des Atomkraftwerks *verseucht*.
+
+  Sa joie de vivre *contamine* tous ceux qui l'entourent.
+  Seine Lebensfreude *steckt* alle in seiner Umgebung *an*.
+
+  Le virus peut *contaminer* même les personnes vaccinées.
+  Das Virus kann selbst geimpfte Personen *infizieren*.
+
+  Les scientifiques étudient comment le parasite *contamine* les cellules.
+  Die Wissenschaftler untersuchen, wie der Parasit die Zellen *befällt*.
+
+  Ces idées radicales ont rapidement *contaminé* les réseaux sociaux.
+  Diese radikalen Ideen haben die sozialen Netzwerke schnell *verseucht*.
+
+  Le linge *contaminé* doit être lavé séparément à haute température.
+  Die *verseuchte* Wäsche muss separat bei hoher Temperatur gewaschen werden.
+
+  Nous devons empêcher que la maladie ne *contamine* d'autres animaux.
+  Wir müssen verhindern, dass die Krankheit andere Tiere *ansteckt*.
+
+  L'air *contaminé* de la ville affecte la santé des habitants.
+  Die *verseuchte* Luft der Stadt beeinträchtigt die Gesundheit der Bewohner.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

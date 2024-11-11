@@ -13,17 +13,38 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai perdu 7 kilos en un an.
-  Ich habe in einem Jahr sieben Kilo abgenommen.
+  J'ai perdu 7 *kilos* en un an.
+  Ich habe in einem Jahr 7 *Kilo* abgenommen.
 
-  J’ai acheté un kilo de pommes.
-  Ich habe ein Kilo Äpfel gekauft.
+  Le boucher vend sa viande au *kilo*.
+  Der Metzger verkauft sein Fleisch *kilo*weise.
 
-  Le boulanger vend le pain au kilo.
-  Der Bäcker verkauft das Brot kiloweise.
+  Ajoutez 3 *kilos* de farine à la préparation.
+  Fügen Sie 3 *Kilo* Mehl zur Mischung hinzu.
 
-  Il vend des pommes au kilo au marché.
-  Er verkauft Äpfel auf dem Markt kiloweise.
+  Le bébé pèse déjà 4 *kilos*.
+  Das Baby wiegt schon 4 *Kilo*.
+
+  Ce fichier fait 500 *kilo*octets.
+  Diese Datei ist 500 *Kilo*byte groß.
+
+  Les pommes coûtent 2 euros le *kilo*.
+  Die Äpfel kosten 2 Euro pro *Kilo*.
+
+  Marie a acheté 2 *kilos* de tomates au marché.
+  Marie hat 2 *Kilo* Tomaten auf dem Markt gekauft.
+
+  Le colis fait exactement 5 *kilos*.
+  Das Paket wiegt genau 5 *Kilo*.
+
+  Le transfert de données est limité à 100 *kilo*bits par seconde.
+  Die Datenübertragung ist auf 100 *Kilo*bit pro Sekunde begrenzt.
+
+  Il faut commander les oranges par *kilo*.
+  Man muss die Orangen *kilo*weise bestellen.
+
+  La valise ne doit pas dépasser 20 *kilos*.
+  Der Koffer darf 20 *Kilo* nicht überschreiten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

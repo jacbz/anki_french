@@ -13,14 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous venons de régler le différend qui nous opposait.
-  Wir haben gerade den Streit zwischen uns beigelegt.
+  Nous venons de régler le *différend* qui nous opposait.
+  Wir haben gerade die *Meinungsverschiedenheit* beigelegt, die uns entzweit hat.
 
-  Ils ont un différend à propos de l’héritage.
-  Sie haben einen Streit über das Erbe.
+  Le *différend* entre les voisins porte sur la hauteur de la haie.
+  Der *Streit* zwischen den Nachbarn dreht sich um die Höhe der Hecke.
 
-  Il y a eu un différend à propos du terrain entre les deux voisins.
-  Es gab eine Grundstücksstreitigkeit zwischen den beiden Nachbarn.
+  Un grave *différend* territorial oppose ces deux pays depuis des décennies.
+  Eine schwere Gebiets*streitigkeit* besteht zwischen diesen beiden Ländern seit Jahrzehnten.
+
+  Les médiateurs ont réussi à apaiser le *différend* entre les deux parties.
+  Den Mediatoren ist es gelungen, die *Streitigkeit* zwischen den beiden Parteien zu schlichten.
+
+  Ce *différend* à propos du terrain nécessite l'intervention d'un avocat.
+  Diese Grundstücks*streitigkeit* erfordert das Eingreifen eines Anwalts.
+
+  Marie et Sophie ont eu un *différend* concernant l'organisation de la fête.
+  Marie und Sophie hatten eine *Meinungsverschiedenheit* bezüglich der Organisation der Feier.
+
+  Le juge tranchera ce *différend* lors de l'audience de demain.
+  Der Richter wird diese *Streitigkeit* in der morgigen Verhandlung entscheiden.
+
+  Un léger *différend* est apparu lors de la réunion du conseil.
+  Eine kleine *Meinungsverschiedenheit* trat während der Ratssitzung auf.
+
+  Les deux frères sont en *différend* depuis l'héritage de leurs parents.
+  Die beiden Brüder leben im *Streit* seit der Erbschaft ihrer Eltern.
+
+  Le syndicat et la direction doivent résoudre leur *différend* avant la fin du mois.
+  Gewerkschaft und Geschäftsführung müssen ihre *Streitigkeit* vor Monatsende lösen.
+
+  Ce *différend* commercial risque d'affecter nos relations futures.
+  Diese Handels*streitigkeit* könnte unsere zukünftigen Beziehungen beeinträchtigen.
+
+  Les élèves ont vidé leur *différend* pendant la récréation.
+  Die Schüler haben ihren *Streit* in der Pause ausgetragen.
+
+  Un *différend* oppose la mairie aux riverains concernant le nouveau projet.
+  Eine *Streitigkeit* besteht zwischen dem Rathaus und den Anwohnern bezüglich des neuen Projekts.
+
+  Le médiateur a proposé une solution équitable pour résoudre ce *différend*.
+  Der Mediator hat eine faire Lösung vorgeschlagen, um diese *Meinungsverschiedenheit* beizulegen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

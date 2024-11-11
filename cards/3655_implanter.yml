@@ -13,20 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il est nécessaire d’implanter un nouveau système.
-  Es ist notwendig, ein neues System einzuführen.
+  Il est nécessaire d'*implanter* un nouveau système.
+  Es ist notwendig, ein neues System *einzuführen*.
 
-  L’entreprise a décidé d’implanter une nouvelle usine.
-  Das Unternehmen hat beschlossen, eine neue Fabrik einzurichten.
+  Les médecins ont réussi à *implanter* des cellules souches dans le cerveau du patient.
+  Die Ärzte konnten erfolgreich Stammzellen in das Gehirn des Patienten *einpflanzen*.
 
-  Le nouveau restaurant est implanté dans le quartier historique de la ville.
-  Das neue Restaurant ist im historischen Viertel der Stadt angesiedelt.
+  Cette entreprise s'est *implantée* dans plusieurs pays européens.
+  Dieses Unternehmen hat sich in mehreren europäischen Ländern *angesiedelt*.
 
-  L'amour de la nature est profondément implanté dans son cœur.
-  Die Liebe zur Natur ist tief in seinem Herzen verwurzelt.
+  Le lierre s'est profondément *implanté* dans le mur.
+  Der Efeu hat sich tief in die Mauer *eingepflanzt*.
 
-  Le professeur a essayé d'implanter en ses étudiants un profond respect pour la littérature.
-  Der Professor hat versucht, seinen Schülern einen tiefen Respekt für die Literatur einzuflößen.
+  La nouvelle école sera *implantée* près du parc.
+  Die neue Schule wird in der Nähe des Parks *angesiedelt*.
+
+  Ces traditions sont *implantées* depuis des siècles.
+  Diese Traditionen sind seit Jahrhunderten tief *verwurzelt*.
+
+  L'architecte a *implanté* les piquets pour marquer l'emplacement du bâtiment.
+  Der Architekt hat die Pflöcke *eingesetzt*, um den Standort des Gebäudes zu markieren.
+
+  Le parti politique s'est solidement *implanté* dans cette région.
+  Die politische Partei hat in dieser Region fest Fuß *gefasst*.
+
+  Nous devons *implanter* de nouvelles habitudes alimentaires chez les enfants.
+  Wir müssen bei den Kindern neue Essgewohnheiten *einpflanzen*.
+
+  La start-up s'est *implantée* avec succès sur le marché américain.
+  Das Start-up hat sich erfolgreich auf dem amerikanischen Markt *etabliert*.
+
+  Le chirurgien va *implanter* une prothèse de hanche demain.
+  Der Chirurg wird morgen eine Hüftprothese *implantieren*.
+
+  Ces préjugés sont profondément *implantés* dans leur esprit.
+  Diese Vorurteile sind tief in ihrem Geist *verwurzelt*.
+
+  Le lichen s'est *implanté* sur toute la surface rocheuse.
+  Die Flechte hat sich auf der gesamten Felsoberfläche *festgesetzt*.
+
+  L'usine automobile sera *implantée* dans une zone industrielle moderne.
+  Die Autofabrik wird in einem modernen Industriegebiet *angesiedelt*.
+
+  Le gouvernement souhaite *implanter* des éoliennes dans cette région.
+  Die Regierung möchte in dieser Region Windkraftanlagen *aufstellen*.
+
+  Cette idée s'est progressivement *implantée* dans la société.
+  Diese Idee hat sich nach und nach in der Gesellschaft *festgesetzt*.
+
+  Le gui s'est naturellement *implanté* sur les branches du vieux chêne.
+  Die Mistel hat sich auf natürliche Weise in den Ästen der alten Eiche *eingenistet*.
+
+  Les techniciens vont *implanter* le nouveau logiciel sur tous les ordinateurs.
+  Die Techniker werden die neue Software auf allen Computern *installieren*.
+
+  Cette coutume s'est *implantée* dans notre culture depuis des générations.
+  Dieser Brauch hat sich seit Generationen in unserer Kultur *eingebürgert*.
+
+  L'entreprise a décidé d'*implanter* une nouvelle succursale en Asie.
+  Das Unternehmen hat beschlossen, eine neue Niederlassung in Asien zu *eröffnen*.
+
+  Les racines se sont profondément *implantées* dans le sol.
+  Die Wurzeln haben sich tief im Boden *verankert*.
+
+  La clinique spécialisée *implante* des dispositifs cardiaques modernes.
+  Die Spezialklinik *implantiert* moderne Herzgeräte.
+
+  Cette mode s'est rapidement *implantée* chez les jeunes.
+  Diese Mode hat sich bei den Jugendlichen schnell *durchgesetzt*.
+
+  L'université va *implanter* un nouveau campus près du centre-ville.
+  Die Universität wird einen neuen Campus in der Nähe des Stadtzentrums *errichten*.
+
+  Le nouveau produit s'est bien *implanté* sur le marché local.
+  Das neue Produkt hat sich auf dem lokalen Markt gut *etabliert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

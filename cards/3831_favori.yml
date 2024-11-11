@@ -13,17 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le favori a gagné. Nous le félicitons.
-  Der Favorit hat gewonnen. Wir gratulieren ihm.
+  Le *favori* a gagné. Nous le félicitons.
+  Der *Favorit* hat gewonnen. Wir gratulieren ihm.
 
-  Le cheval favori a gagné la course.
-  Das favorisierte Pferd hat das Rennen gewonnen.
+  Tu es mon *favori* parmi tous mes élèves.
+  Du bist mein *Liebling* von allen meinen Schülern.
 
-  Le candidat est le grand favori de l'élection présidentielle.
-  Der Kandidat ist der Topfavorit bei der Präsidentschaftswahl.
+  La cuisine italienne est sa cuisine *favorite*.
+  Die italienische Küche ist seine *Lieblings*küche.
 
-  Le roman de Victor Hugo est ma lecture favorite.
-  Der Roman von Victor Hugo ist meine Lieblingslektüre.
+  J'ai ajouté ce site dans mes *favoris* pour le retrouver plus tard.
+  Ich habe diese Seite zu meinen *Lesezeichen* hinzugefügt, um sie später wiederzufinden.
+
+  Le Real Madrid est considéré comme le grand *favori* de la Ligue des Champions.
+  Real Madrid gilt als der große *Favorit* der Champions League.
+
+  La lecture est son occupation *favorite* depuis son enfance.
+  Lesen ist seit seiner Kindheit seine *Lieblings*beschäftigung.
+
+  Il porte toujours son t-shirt *favori* le week-end.
+  Er trägt am Wochenende immer sein *Lieblings*shirt.
+
+  Dans les années 1960, beaucoup d'hommes portaient des *favoris*.
+  In den 1960er Jahren trugen viele Männer *Koteletten*.
+
+  Le café du coin est devenu notre restaurant *favori*.
+  Das Café an der Ecke ist unser *Lieblings*restaurant geworden.
+
+  Les critiques considèrent ce film comme le *favori* pour les Oscars.
+  Die Kritiker sehen diesen Film als *Favoriten* für die Oscars.
+
+  Cette chanson est rapidement devenue ma mélodie *favorite*.
+  Dieses Lied wurde schnell zu meiner *Lieblings*melodie.
+
+  Le cheval *favori* de la course n'a pas gagné aujourd'hui.
+  Das *Favoriten*pferd hat heute das Rennen nicht gewonnen.
+
+  La plage est leur destination *favorite* pour les vacances.
+  Der Strand ist ihr *Lieblings*ziel für den Urlaub.
+
+  Le jazz est son genre musical *favori*.
+  Jazz ist sein *Lieblings*musikgenre.
+
+  Cette équipe part *favorite* pour le championnat.
+  Diese Mannschaft geht als *Favoritin* in die Meisterschaft.
+
+  Le chocolat noir reste son dessert *favori*.
+  Dunkle Schokolade bleibt sein *Lieblings*dessert.
+
+  Paul est le *favori* de sa grand-mère depuis toujours.
+  Paul ist schon immer der *Liebling* seiner Großmutter.
+
+  Le parc municipal est leur lieu de rendez-vous *favori*.
+  Der Stadtpark ist ihr *Lieblings*treffpunkt.
+
+  Cette application se trouve dans mes *favoris* depuis des mois.
+  Diese App ist seit Monaten in meinen *Lesezeichen*.
+
+  Les roses sont ses fleurs *favorites*.
+  Rosen sind ihre *Lieblings*blumen.
+
+  Mon moment *favori* de la journée, c'est le petit-déjeuner.
+  Das Frühstück ist meine *Lieblings*zeit des Tages.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

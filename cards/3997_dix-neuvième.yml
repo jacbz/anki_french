@@ -13,20 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La ville paraît sortie du dix-neuvième siècle.
-  Die Stadt wirkt wie aus dem neunzehnten Jahrhundert entsprungen.
+  La ville paraît sortie du *dix-neuvième* siècle.
+  Die Stadt scheint aus dem *neunzehnten* Jahrhundert zu stammen.
 
-  Le dix-neuvième siècle a vu de nombreux changements.
-  Das neunzehnte Jahrhundert hat viele Veränderungen gesehen.
+  Il s'est classé *dix-neuvième* au marathon de Paris.
+  Er ist beim Paris-Marathon auf dem *neunzehnten* Platz gelandet.
 
-  C'est le dix-neuvième jour du mois.
-  Das ist der Neunzehnte des Monats.
+  Pour son *dix-neuvième* anniversaire, ses parents lui ont offert une voiture.
+  Zu ihrem *neunzehnten* Geburtstag haben ihre Eltern ihr ein Auto geschenkt.
 
-  Il est arrivé le dix-neuvième.
-  Er kam am Neunzehnten an.
+  L'ascenseur s'est arrêté au *dix-neuvième* étage.
+  Der Aufzug hielt im *neunzehnten* Stock.
 
-  Elle a célébré son dix-neuvième anniversaire.
-  Sie feierte ihren neunzehnten Geburtstag.
+  Le restaurant se trouve dans le *dix-neuvième* arrondissement de Paris.
+  Das Restaurant befindet sich im *neunzehnten* Arrondissement von Paris.
+
+  Une *dix-neuvième* partie de la tarte a été donnée à chaque invité.
+  Ein *Neunzehntel* des Kuchens wurde jedem Gast gegeben.
+
+  Le *dix-neuvième* candidat a finalement été sélectionné pour le poste.
+  Der *neunzehnte* Kandidat wurde schließlich für die Stelle ausgewählt.
+
+  La fraction un *dix-neuvième* s'écrit 1/19 en notation mathématique.
+  Der Bruch ein *Neunzehntel* wird in mathematischer Notation als 1/19 geschrieben.
+
+  Cette découverte importante date du *dix-neuvième* siècle.
+  Diese wichtige Entdeckung stammt aus dem *neunzehnten* Jahrhundert.
+
+  Elle habite au *dix-neuvième*, juste en face de la boulangerie.
+  Sie wohnt im *Neunzehnten*, direkt gegenüber der Bäckerei.
+
+  Le *dix-neuvième* chapitre du livre est le plus captivant.
+  Das *neunzehnte* Kapitel des Buches ist das spannendste.
+
+  C'est la *dix-neuvième* fois que je te le répète !
+  Das ist das *neunzehnte* Mal, dass ich es dir sage!
+
+  Les élèves ont étudié la littérature du *dix-neuvième* siècle.
+  Die Schüler haben die Literatur des *neunzehnten* Jahrhunderts studiert.
+
+  Le *dix-neuvième* jour du mois, il y aura une réunion importante.
+  Am *neunzehnten* Tag des Monats wird es eine wichtige Versammlung geben.
+
+  Mon appartement se trouve au *dix-neuvième* étage de la tour.
+  Meine Wohnung befindet sich im *neunzehnten* Stock des Turms.
+
+  Le *dix-neuvième* concurrent a reçu une mention spéciale du jury.
+  Der *neunzehnte* Teilnehmer erhielt eine besondere Erwähnung der Jury.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  De nombreuses autoroutes ont dû être fermées.
-  Viele Autobahnen mussten gesperrt werden.
+  De nombreuses *autoroutes* ont dû être fermées.
+  Viele *Autobahnen* mussten gesperrt werden.
 
-  Je prends toujours l’autoroute pour aller à Paris.
-  Ich nehme immer die Autobahn, um nach Paris zu fahren.
+  L'*autoroute* à péage coûte vingt euros pour ce trajet.
+  Die mautpflichtige *Autobahn* kostet zwanzig Euro für diese Strecke.
 
-  La ville de Paris possède un réseau d'autoroutes urbaines qui facilite la circulation des voitures.
-  Die Stadt Paris verfügt über ein Netz von Stadtautobahnen, das den Autoverkehr erleichtert.
+  Nous avons quitté l'*autoroute* pour prendre des petites routes de campagne.
+  Wir haben die *Autobahn* verlassen, um kleine Landstraßen zu nehmen.
 
-  La plupart des autoroutes à péage en France sont bien entretenues.
-  Die meisten gebührenpflichtigen Autobahnen in Frankreich sind gut gepflegt.
+  L'*autoroute* urbaine traverse le centre-ville de Paris.
+  Die Stadt*autobahn* führt durch das Zentrum von Paris.
+
+  Cette *autoroute* à quatre voies est très fréquentée aux heures de pointe.
+  Diese vierspurige *Autobahn* ist in den Stoßzeiten stark befahren.
+
+  Pierre déteste rouler sur l'*autoroute*, il préfère les routes nationales.
+  Pierre fährt ungern auf der *Autobahn*, er bevorzugt die Bundesstraßen.
+
+  L'*autoroute* est fermée entre les sorties 12 et 14 en raison d'un accident.
+  Die *Autobahn* ist zwischen den Ausfahrten 12 und 14 wegen eines Unfalls gesperrt.
+
+  Les vélos et les piétons ne sont pas autorisés sur l'*autoroute*.
+  Fahrräder und Fußgänger sind auf der *Autobahn* nicht erlaubt.
+
+  Il y a des bouchons sur l'*autoroute* à cause des départs en vacances.
+  Es gibt Staus auf der *Autobahn* wegen der beginnenden Ferien.
+
+  Cette nouvelle *autoroute* réduira considérablement le temps de trajet.
+  Diese neue *Autobahn* wird die Fahrzeit erheblich verkürzen.
+
+  Les aires de repos sont espacées de 50 kilomètres sur cette *autoroute*.
+  Die Rastplätze auf dieser *Autobahn* liegen 50 Kilometer auseinander.
+
+  L'*autoroute* à trois voies sera élargie l'année prochaine.
+  Die dreispurige *Autobahn* wird nächstes Jahr erweitert.
+
+  La construction de cette *autoroute* a duré cinq ans.
+  Der Bau dieser *Autobahn* hat fünf Jahre gedauert.
+
+  Les panneaux indiquent la prochaine sortie d'*autoroute* dans 2 kilomètres.
+  Die Schilder zeigen die nächste *Autobahn*ausfahrt in 2 Kilometern an.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

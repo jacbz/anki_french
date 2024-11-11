@@ -13,14 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les prix resteront vraisemblablement stables.
-  Die Preise werden voraussichtlich stabil bleiben.
+  Les prix resteront *vraisemblablement* stables.
+  Die Preise bleiben *wahrscheinlich* stabil.
 
-  Vraisemblablement, il ne viendra pas.
-  Wahrscheinlich wird er nicht kommen.
+  Il ne viendra *vraisemblablement* pas à la réunion demain.
+  Er kommt *wahrscheinlich* nicht zum Treffen morgen.
 
-  La prochaine réunion aura lieu, vraisemblablement, à la fin du mois de mars.
-  Die nächste Sitzung finde voraussichtlich Ende März statt.
+  *Vraisemblablement*, nous devrons reporter le pique-nique à cause de la pluie.
+  *Wahrscheinlich* müssen wir das Picknick wegen des Regens verschieben.
+
+  Le train arrivera *vraisemblablement* avec une heure de retard.
+  Der Zug wird *voraussichtlich* eine Stunde Verspätung haben.
+
+  Les résultats seront *vraisemblablement* publiés la semaine prochaine.
+  Die Ergebnisse werden *wahrscheinlich* nächste Woche veröffentlicht.
+
+  *Vraisemblablement*, elle a oublié notre rendez-vous.
+  Sie hat *vermutlich* unseren Termin vergessen.
+
+  Le nouveau magasin ouvrira *vraisemblablement* ses portes en septembre.
+  Das neue Geschäft wird *voraussichtlich* im September eröffnen.
+
+  C'est *vraisemblablement* la dernière fois que nous nous voyons cette année.
+  Das ist *wahrscheinlich* das letzte Mal, dass wir uns dieses Jahr sehen.
+
+  Les travaux dureront *vraisemblablement* plus longtemps que prévu.
+  Die Arbeiten werden *vermutlich* länger dauern als geplant.
+
+  *Vraisemblablement*, il faudra compter deux heures pour arriver à destination.
+  Man muss *wahrscheinlich* zwei Stunden für die Anfahrt einplanen.
+
+  Le concert sera *vraisemblablement* complet ce soir.
+  Das Konzert wird heute Abend *wahrscheinlich* ausverkauft sein.
+
+  *Vraisemblablement*, cette espèce d'oiseau aura disparu d'ici dix ans.
+  Diese Vogelart wird in zehn Jahren *vermutlich* ausgestorben sein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

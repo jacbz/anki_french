@@ -13,17 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est un bon arbitre. Il arbitre bien.
-  Er ist ein guter Schiedsrichter. Er ist ein guter Schiedsrichter.
+  C'est un bon *arbitre*. Il *arbitre* bien.
+  Er ist ein guter *Schiedsrichter*. Er *schiedsrichtert* gut.
 
-  L’arbitre a sifflé une faute.
-  Der Schiedsrichter hat ein Foul gepfiffen.
+  L'*arbitre* a sifflé la fin du match.
+  Der *Schiedsrichter* hat das Spielende abgepfiffen.
 
-  Ils ont pris Pierre pour arbitre afin de régler leur différend.
-  Sie haben Pierre als Schiedsrichter angerufen, um ihren Streit zu schlichten.
+  Les joueurs contestent la décision de l'*arbitre*.
+  Die Spieler fechten die Entscheidung des *Schiedsrichters* an.
 
-  Il a agit de son plein libre arbitre.
-  Er hat aus freiem Willen gehandelt.
+  Marie sera l'*arbitre* de touche pour le match de demain.
+  Marie wird morgen *Linienrichterin* beim Spiel sein.
+
+  L'*arbitre* de ligne a signalé que la balle était dehors.
+  Der *Linienrichter* hat angezeigt, dass der Ball aus war.
+
+  L'*arbitre* de ring a arrêté le combat après trois rounds.
+  Der *Ringrichter* hat den Kampf nach drei Runden beendet.
+
+  Nous avons choisi Pierre comme *arbitre* pour résoudre notre conflit.
+  Wir haben Pierre als *Schlichter* für unseren Konflikt gewählt.
+
+  Elle a été désignée comme *arbitre* dans cette affaire juridique.
+  Sie wurde in dieser rechtlichen Angelegenheit zur *Schiedsrichterin* ernannt.
+
+  Le petit parti est devenu l'*arbitre* de la situation politique.
+  Die kleine Partei ist zum *Vermittler* in der politischen Situation geworden.
+
+  Le philosophe défend le *libre arbitre* comme principe fondamental.
+  Der Philosoph verteidigt den *freien Willen* als grundlegendes Prinzip.
+
+  L'*arbitre* principal communique avec ses assistants par radio.
+  Der Haupt*schiedsrichter* kommuniziert per Funk mit seinen Assistenten.
+
+  Cette femme *arbitre* des matchs internationaux depuis dix ans.
+  Diese Frau *leitet* seit zehn Jahren internationale Spiele.
+
+  Ils ont fait appel à un *arbitre* pour régler leur différend commercial.
+  Sie haben einen *Schlichter* hinzugezogen, um ihren Handelsstreit beizulegen.
+
+  L'*arbitre* a sorti un carton rouge dès la première minute.
+  Der *Schiedsrichter* zeigte schon in der ersten Minute die rote Karte.
+
+  Le syndicat a demandé un *arbitre* indépendant pour les négociations.
+  Die Gewerkschaft hat einen unabhängigen *Vermittler* für die Verhandlungen angefordert.
+
+  La décision de l'*arbitre* est définitive et sans appel.
+  Die Entscheidung des *Schiedsrichters* ist endgültig und nicht anfechtbar.
+
+  L'*arbitre* a été applaudi pour sa gestion équitable du match.
+  Der *Schiedsrichter* wurde für seine faire Spielleitung beklatscht.
+
+  Notre voisin *arbitre* souvent des matchs amateurs le weekend.
+  Unser Nachbar *pfeift* oft Amateurspiele am Wochenende.
+
+  L'*arbitre* international a une grande expérience des matchs difficiles.
+  Der internationale *Schiedsrichter* hat viel Erfahrung mit schwierigen Spielen.
+
+  Mon père était *arbitre* de football pendant vingt ans.
+  Mein Vater war zwanzig Jahre lang Fußball*schiedsrichter*.
+
+  Les deux équipes ont accepté la décision de l'*arbitre* sans discussion.
+  Beide Mannschaften akzeptierten die Entscheidung des *Schiedsrichters* ohne Diskussion.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

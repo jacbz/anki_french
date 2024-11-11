@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le livre explore la complexité de la société de l’information.
-  Das Buch erkundet die Komplexität der Informationsgesellschaft.
+  Le livre explore la *complexité* de la société de l'information.
+  Das Buch untersucht die *Komplexität* der Informationsgesellschaft.
 
-  La complexité de ce problème est difficile à résoudre.
-  Die Komplexität dieses Problems ist schwer zu lösen.
+  La *complexité* de cette formule chimique demande une attention particulière.
+  Die *Komplexität* dieser chemischen Formel erfordert besondere Aufmerksamkeit.
+
+  Face à la *complexité* du problème, nous avons dû faire appel à des experts.
+  Angesichts der *Vielschichtigkeit* des Problems mussten wir Experten hinzuziehen.
+
+  La *complexité* de sa personnalité se révèle au fil du roman.
+  Die *Vielschichtigkeit* seiner Persönlichkeit offenbart sich im Laufe des Romans.
+
+  Cette procédure administrative est d'une *complexité* surprenante.
+  Dieses Verwaltungsverfahren ist von überraschender *Komplexität*.
+
+  Les étudiants ont sous-estimé la *complexité* de l'exercice.
+  Die Studenten haben die *Komplexität* der Aufgabe unterschätzt.
+
+  La *complexité* croissante des technologies modernes pose de nouveaux défis.
+  Die zunehmende *Komplexität* moderner Technologien stellt uns vor neue Herausforderungen.
+
+  J'apprécie la *complexité* des arômes de ce vin.
+  Ich schätze die *Vielschichtigkeit* der Aromen dieses Weins.
+
+  La *complexité* de ses phrases rend le texte difficile à comprendre.
+  Die *Komplexität* seiner Sätze macht den Text schwer verständlich.
+
+  Cette histoire familiale est d'une grande *complexité*.
+  Diese Familiengeschichte ist von großer *Vielschichtigkeit*.
+
+  Les chercheurs étudient la *complexité* des écosystèmes marins.
+  Die Forscher untersuchen die *Komplexität* mariner Ökosysteme.
+
+  La *complexité* du projet a entraîné des retards importants.
+  Die *Komplexität* des Projekts hat zu erheblichen Verzögerungen geführt.
+
+  Il ne faut pas confondre *complexité* et complication.
+  Man darf *Komplexität* nicht mit Kompliziertheit verwechseln.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,26 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le futur m’attirait et m’effrayait à la fois.
-  Die Zukunft zog mich an und machte mir gleichzeitig Angst.
+  Le futur m'attirait et m'*effrayait* à la fois.
+  Die Zukunft zog mich an und *erschreckte* mich zugleich.
 
-  Il ne faut pas effrayer les enfants.
-  Man sollte die Kinder nicht erschrecken.
+  Les coups de tonnerre ont *effrayé* le chat qui s'est caché sous le lit.
+  Die Donnerschläge haben die Katze *erschreckt*, die sich unter dem Bett versteckt hat.
 
-  Le bruit soudain a effrayé le chat.
-  Der plötzliche Lärm hat den Kater erschreckt.
+  Marie est *effrayée* de voir à quel point les prix ont augmenté.
+  Marie ist *erschrocken* zu sehen, wie sehr die Preise gestiegen sind.
 
-  Le petit garçon s'est effrayé de l'orage.
-  Der kleine Junge hat sich vor dem Gewitter gefürchtet.
+  Ne t'*effraie* pas, ce n'est qu'une petite araignée !
+  *Erschrick* nicht, das ist nur eine kleine Spinne!
 
-  Elle a été effrayée de constater que c'est si cher.
-  Sie war erschrocken, als sie feststellte, dass es so teuer ist.
+  Il s'*effraie* toujours du moindre bruit dans la nuit.
+  Er *erschrickt* immer über das kleinste Geräusch in der Nacht.
 
-  Il est effrayé à l'idée de parler en public.
-  Ihm wird bei dem Gedanken, in der Öffentlichkeit zu sprechen, Angst.
+  Les enfants se sont *effrayés* en voyant le masque d'Halloween.
+  Die Kinder haben sich beim Anblick der Halloween-Maske *erschreckt*.
 
-  Elle s'effraye de faire le premier pas.
-  Sie fürchtet sich, den ersten Schritt zu machen.
+  La complexité du projet *effraie* beaucoup de débutants.
+  Die Komplexität des Projekts *schreckt* viele Anfänger ab.
+
+  Le chien *effrayait* tous les passants avec ses aboiements.
+  Der Hund *jagte* allen Passanten mit seinem Gebell *Angst ein*.
+
+  Les histoires de fantômes ne m'*effraient* plus depuis longtemps.
+  Geistergeschichten *machen* mir schon lange keine *Angst* mehr.
+
+  Elle s'*effraie* à l'idée de parler en public.
+  Ihr wird bei dem Gedanken ans öffentliche Sprechen *angst und bange*.
+
+  Les bruits étranges ont *effrayé* les oiseaux qui se sont envolés.
+  Die seltsamen Geräusche haben die Vögel *aufgeschreckt*, die weggeflogen sind.
+
+  Son regard *effrayé* en disait long sur ce qu'il avait vu.
+  Sein *erschrockener* Blick sagte viel darüber aus, was er gesehen hatte.
+
+  Je ne veux pas vous *effrayer*, mais la situation est grave.
+  Ich will Sie nicht *erschrecken*, aber die Situation ist ernst.
+
+  Les changements climatiques *effraient* de plus en plus de scientifiques.
+  Der Klimawandel *macht* immer mehr Wissenschaftlern *Angst*.
+
+  Le petit Lucas s'*effraie* facilement des films d'action.
+  Der kleine Lucas *ängstigt* sich schnell bei Actionfilmen.
+
+  Ne vous *effrayez* pas de la difficulté apparente de l'exercice.
+  Lassen Sie sich von der scheinbaren Schwierigkeit der Übung nicht *abschrecken*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

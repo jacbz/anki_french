@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce sont des régions qui actuellement explosent économiquement.
-  Dies sind Regionen, die derzeit wirtschaftlich explodieren.
+  Ce sont des régions qui actuellement explosent *économiquement*.
+  Das sind Regionen, die derzeit *wirtschaftlich* explodieren.
 
-  Cette décision est justifiée économiquement.
-  Diese Entscheidung ist wirtschaftlich gerechtfertigt.
+  Les jeunes couples essaient de vivre *économiquement* pendant leurs premières années.
+  Junge Paare versuchen in ihren ersten Jahren *sparsam* zu leben.
+
+  *Économiquement* parlant, cette proposition n'est pas viable à long terme.
+  *Wirtschaftlich* gesehen ist dieser Vorschlag langfristig nicht tragbar.
+
+  Pour réduire nos dépenses, nous devons gérer notre budget plus *économiquement*.
+  Um unsere Ausgaben zu reduzieren, müssen wir unser Budget *sparsamer* verwalten.
+
+  La ville s'est développée très *économiquement* ces dernières années.
+  Die Stadt hat sich in den letzten Jahren *wirtschaftlich* sehr entwickelt.
+
+  Cette famille fait partie des *économiquement* faibles de notre société.
+  Diese Familie gehört zu den *wirtschaftlich* Schwachen in unserer Gesellschaft.
+
+  Le film a été réalisé *économiquement*, mais avec beaucoup de créativité.
+  Der Film wurde *kostengünstig* produziert, aber mit viel Kreativität.
+
+  *Économiquement*, la décision d'investir dans les énergies renouvelables est judicieuse.
+  *Wirtschaftlich* betrachtet ist die Entscheidung, in erneuerbare Energien zu investieren, sinnvoll.
+
+  Pierre essaie de voyager *économiquement* en prenant les bus de nuit.
+  Pierre versucht *sparsam* zu reisen, indem er Nachtbusse nimmt.
+
+  *Économiquement*, ce pays dépend beaucoup de ses exportations.
+  *Wirtschaftlich* ist dieses Land stark von seinen Exporten abhängig.
+
+  Les étudiants apprennent à cuisiner *économiquement* pour économiser de l'argent.
+  Die Studenten lernen *sparsam* zu kochen, um Geld zu sparen.
+
+  La région se porte bien *économiquement* malgré la crise mondiale.
+  Der Region geht es trotz der weltweiten Krise *wirtschaftlich* gut.
+
+  Cette solution permet de chauffer la maison plus *économiquement*.
+  Diese Lösung ermöglicht es, das Haus *kostengünstiger* zu heizen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

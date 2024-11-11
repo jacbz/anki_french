@@ -13,20 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Un grand oiseau planait.
-  Ein großer Vogel schwebte.
+  Un grand oiseau *planait*.
+  Ein großer Vogel *schwebte*.
 
-  L’aigle plane dans le ciel.
-  Der Adler gleitet durch den Himmel.
+  Les aigles *planent* majestueusement dans le ciel.
+  Die Adler *schweben* majestätisch am Himmel.
 
-  Le tueur en série a plané sur les habitants de la ville.
-  Der Serienmörder hat den Bewohnern der Stadt gedroht.
+  L'avion a *plané* pendant une heure avant d'atterrir.
+  Das Flugzeug *glitt* eine Stunde lang, bevor es landete.
 
-  Le suspect a laissé planer le doute sur son alibi.
-  Der Verdächtige hat Zweifel an seinem Alibi aufkommen lassen.
+  Une épaisse fumée *plane* au-dessus de la forêt.
+  Ein dichter Rauch *schwebt* über dem Wald.
 
-  Un mystère plane sur toute cette affaire, et la police est loin de trouver des réponses.
-  Hinter dieser ganzen Sache verbirgt sich ein Geheimnis, und die Polizei ist weit davon entfernt, Antworten zu finden.
+  Une odeur de café *planait* dans la cuisine.
+  Ein Kaffeeduft *stand* in der Küche.
+
+  La menace d'une guerre *plane* sur l'Europe.
+  Die Bedrohung eines Krieges *lastet* auf Europa.
+
+  Des soupçons *planent* sur le nouveau directeur.
+  Verdächtigungen *liegen* auf dem neuen Direktor.
+
+  Il a laissé *planer* le doute sur sa participation.
+  Er ließ Zweifel an seiner Teilnahme aufkommen.
+
+  Un mystère *plane* sur sa disparition soudaine.
+  Über sein plötzliches Verschwinden *schwebt* ein Geheimnis.
+
+  "Après ce concert, je *plane* complètement!"
+  "Nach diesem Konzert bin ich total *weggetreten*!"
+
+  "Cette musique me fait *planer*."
+  "Diese Musik macht mich total *high*."
+
+  Le menuisier *plane* soigneusement la planche.
+  Der Tischler *hobelt* das Brett sorgfältig.
+
+  Le planeur *plane* grâce aux courants ascendants.
+  Das Segelflugzeug *gleitet* dank der Aufwinde.
+
+  Marie *plane* toujours au-dessus des querelles.
+  Marie *schwebt* immer über den Streitereien.
+
+  Une brume légère *planait* sur le lac.
+  Ein leichter Nebel *schwebte* über dem See.
+
+  La tension *plane* dans la salle de réunion.
+  Die Spannung *liegt* im Konferenzraum.
+
+  "Il *plane* complètement, il ne voit pas les problèmes."
+  "Er *schwebt* völlig in höheren Regionen, er sieht die Probleme nicht."
+
+  Le cerf-volant *plane* gracieusement dans le vent.
+  Der Drachen *schwebt* anmutig im Wind.
+
+  L'artisan *plane* la surface métallique avec précision.
+  Der Handwerker *ebnet* die Metalloberfläche mit Präzision.
+
+  Des nuages sombres *planent* au-dessus de la ville.
+  Dunkle Wolken *schweben* über der Stadt.
+
+  Le danger *plane* toujours sur l'expédition.
+  Die Gefahr *schwebt* weiterhin über der Expedition.
+
+  La question de son départ *plane* depuis des semaines.
+  Die Frage seines Weggangs *schwebt* seit Wochen im Raum.
+
+  Le vautour *plane* en cercles au-dessus de sa proie.
+  Der Geier *kreist schwebend* über seiner Beute.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

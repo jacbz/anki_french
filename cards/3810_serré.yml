@@ -13,26 +13,107 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le budget est serré cette année.
-  Das Budget ist in diesem Jahr knapp bemessen.
+  Le budget est *serré* cette année.
+  Das Budget ist dieses Jahr sehr *knapp*.
 
-  Le pantalon est trop serré.
-  Die Hose ist zu eng.
+  Cette cravate me *serre* trop la gorge.
+  Diese Krawatte *schnürt* mir zu sehr die Kehle zu.
 
-  L'équipe a joué serré pendant toute la partie, ne prenant aucun risque.
-  Die Mannschaft hat die ganze Partie über vorsichtig gespielt und keine Risiken eingegangen.
+  La robe était tellement *serrée* qu'elle ne pouvait plus respirer.
+  Das Kleid war so *eng*, dass sie nicht mehr atmen konnte.
 
-  Avec un budget serré, il était impossible de financer ce projet ambitieux.
-  Mit äußerst beschränkten Mitteln war es unmöglich, dieses ambitionierte Projekt zu finanzieren.
+  Les spectateurs étaient *serrés* comme des sardines dans le métro.
+  Die Zuschauer waren in der U-Bahn wie Sardinen *zusammengepfercht*.
 
-  Les soldats marchaient en rangs serrés, prêts à affronter l'ennemi.
-  Die Soldaten marschierten in dichten Reihen, bereit, den Feind zu bekämpfen.
+  Cette forêt est très *serrée*, on ne peut pas y pénétrer.
+  Dieser Wald ist sehr *dicht*, man kann nicht hineingehen.
 
-  Nous avons un délai serré pour terminer ce rapport.
-  Wir haben eine kurze Frist, um diesen Bericht fertigzustellen.
+  Le café est vraiment *serré* ce matin.
+  Der Kaffee ist heute Morgen wirklich *stark*.
 
-  Ce tissu est fait de mailles serrées, ce qui le rend très résistant.
-  Dieser Stoff ist aus dichten Maschen gefertigt, was ihn sehr robust macht.
+  La date limite est très *serrée* pour finir ce projet.
+  Die Frist ist sehr *knapp*, um dieses Projekt fertigzustellen.
+
+  Les manifestants marchaient en rangs *serrés*.
+  Die Demonstranten marschierten in *dichten* Reihen.
+
+  Son style d'écriture est très *serré* et précis.
+  Sein Schreibstil ist sehr *straff* und präzis.
+
+  Il faudra *jouer serré* pour gagner ce match.
+  Wir müssen *vorsichtig spielen*, um dieses Spiel zu gewinnen.
+
+  La négociation a été très *serrée* jusqu'à la fin.
+  Die Verhandlung war bis zum Ende sehr *hart*.
+
+  Elle avait la gorge *serrée* d'émotion.
+  Vor Rührung war ihr die Kehle *zugeschnürt*.
+
+  Les mailles de ce pull sont très *serrées*.
+  Die Maschen dieses Pullovers sind sehr *eng*.
+
+  La course était *serrée* jusqu'au dernier moment.
+  Das Rennen war bis zum letzten Moment ein *Kopf-an-Kopf*-Rennen.
+
+  Son argumentation était très *serrée* et logique.
+  Seine Argumentation war sehr *überzeugend* und logisch.
+
+  "Je suis un peu *serré* ce mois-ci."
+  "Ich bin diesen Monat etwas *knapp* bei Kasse."
+
+  L'herbe était *serrée* et drue dans le jardin.
+  Das Gras im Garten war *dicht* und üppig.
+
+  Nous devons vivre *serré* pendant quelques mois.
+  Wir müssen einige Monate *bescheiden* leben.
+
+  Le débat a été particulièrement *serré* ce soir.
+  Die Debatte war heute Abend besonders *hitzig*.
+
+  Elle écrivait de manière très *serrée* pour économiser du papier.
+  Sie schrieb sehr *eng*, um Papier zu sparen.
+
+  Le pantalon était tellement *serré* qu'il ne pouvait pas s'asseoir.
+  Die Hose war so *eng*, dass er sich nicht setzen konnte.
+
+  Les spectateurs étaient *serrés* les uns contre les autres.
+  Die Zuschauer standen *dicht* aneinander gedrängt.
+
+  Le combat fut *serré* jusqu'au dernier round.
+  Der Kampf war bis zur letzten Runde *hart*.
+
+  Son analyse était remarquablement *serrée*.
+  Seine Analyse war bemerkenswert *überzeugend*.
+
+  Le pull me *serre* aux épaules.
+  Der Pullover *zwickt* mich an den Schultern.
+
+  La foule était très *serrée* devant le concert.
+  Die Menge war vor dem Konzert sehr *dicht gedrängt*.
+
+  Les délais sont très *serrés* pour ce projet.
+  Die Fristen für dieses Projekt sind sehr *knapp*.
+
+  Il faut *jouer serré* dans cette situation délicate.
+  In dieser heiklen Situation muss man *taktisch klug* vorgehen.
+
+  Son budget est tellement *serré* qu'elle ne peut pas partir en vacances.
+  Ihr Budget ist so *knapp*, dass sie nicht in den Urlaub fahren kann.
+
+  La compétition était très *serrée* entre les deux équipes.
+  Der Wettkampf zwischen den beiden Teams war sehr *ausgeglichen*.
+
+  Les étudiants étaient *serrés* dans la petite salle de classe.
+  Die Studenten waren in dem kleinen Klassenzimmer *zusammengepfercht*.
+
+  Le planning est très *serré* aujourd'hui.
+  Der Zeitplan ist heute sehr *eng*.
+
+  Cette chemise est trop *serrée* aux manches.
+  Dieses Hemd ist an den Ärmeln zu *eng*.
+
+  Ils vivaient *serré* dans ce petit appartement.
+  Sie lebten *bescheiden* in dieser kleinen Wohnung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

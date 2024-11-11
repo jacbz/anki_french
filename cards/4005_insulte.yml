@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je m’enfuis, poursuivie par ses insultes.
-  Ich renne weg, verfolgt von seinen Beleidigungen.
+  Je m'enfuis, poursuivie par ses *insultes*.
+  Ich floh, verfolgt von seinen *Beleidigungen*.
 
-  Il a reçu une insulte raciste.
-  Er hat eine rassistische Beleidigung erhalten.
+  Il ne supporte pas les *insultes* envers sa famille.
+  Er duldet keine *Beleidigungen* gegen seine Familie.
 
-  Cette phrase est une insulte à la mémoire de nos ancêtres.
-  Dieser Satz ist eine Verunglimpfung des Andenkens unserer Vorfahren.
+  Une telle décision serait une *insulte* à la mémoire des victimes.
+  Eine solche Entscheidung wäre eine *Verunglimpfung* des Andenkens der Opfer.
 
-  Il a fait insulte à sa famille en ne se présentant pas aux funérailles.
-  Er hat seine Familie beleidigt, indem er nicht zur Beerdigung kam.
+  Marie a fait *insulte* à mon intelligence en me mentant ainsi.
+  Marie hat meine Intelligenz *beleidigt*, indem sie mich so angelogen hat.
+
+  Cette pollution est une *insulte* à notre belle nature.
+  Diese Verschmutzung ist ein *Affront* gegen unsere schöne Natur.
+
+  Les *insultes* fusent de toutes parts pendant le débat.
+  Während der Debatte flogen von allen Seiten *Beleidigungen*.
+
+  Son comportement constitue une *insulte* à notre religion.
+  Sein Verhalten stellt eine *Verunglimpfung* unseres Glaubens dar.
+
+  Pierre n'a pas voulu faire *insulte* à ses hôtes en refusant le repas.
+  Pierre wollte seine Gastgeber nicht *beleidigen*, indem er das Essen ablehnte.
+
+  Cette réponse simpliste est une *insulte* au bon sens.
+  Diese vereinfachende Antwort ist ein *Hohn* auf den gesunden Menschenverstand.
+
+  Les murs étaient couverts d'*insultes* racistes.
+  Die Wände waren mit rassistischen *Beleidigungen* bedeckt.
+
+  Son silence était la pire des *insultes*.
+  Sein Schweigen war die schlimmste *Kränkung*.
+
+  Ces dépenses excessives sont une *insulte* à la pauvreté.
+  Diese übermäßigen Ausgaben sind ein *Affront* gegen die Armut.
+
+  Elle a proféré des *insultes* graves contre le directeur.
+  Sie hat schwere *Beleidigungen* gegen den Direktor ausgestoßen.
+
+  Cette exposition est une *insulte* à l'art moderne.
+  Diese Ausstellung ist eine *Verhöhnung* der modernen Kunst.
+
+  Les *insultes* pleuvaient des deux côtés de la manifestation.
+  Von beiden Seiten der Demonstration hagelte es *Beleidigungen*.
+
+  Sans vouloir vous faire *insulte*, votre travail manque de rigueur.
+  Ohne Sie *beleidigen* zu wollen, Ihrer Arbeit fehlt es an Sorgfalt.
+
+  Cette remarque n'était pas une *insulte*, mais une simple observation.
+  Diese Bemerkung war keine *Beleidigung*, sondern eine einfache Beobachtung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

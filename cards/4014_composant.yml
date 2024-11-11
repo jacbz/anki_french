@@ -13,17 +13,71 @@ Register: ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est une organisation politique avec un forte composante terroriste.
-  Sie ist eine politische Organisation mit einer starken terroristischen Komponente.
+  C'est une organisation politique avec une forte *composante* terroriste.
+  Es ist eine politische Organisation mit einer starken terroristischen *Komponente*.
 
-  Le composant électronique est défectueux.
-  Das elektronische Bauteil ist defekt.
+  Les *composants* électroniques de cet ordinateur doivent être remplacés.
+  Die elektronischen *Bauteile* dieses Computers müssen ersetzt werden.
 
-  Le composant électronique est un élément essentiel d'un PC.
-  Die PC-Komponente ist ein wesentlicher Bestandteil eines Computers.
+  L'hydrogène est le principal *composant* de l'atmosphère du soleil.
+  Wasserstoff ist der wichtigste *Bestandteil* der Sonnenatmosphäre.
 
-  Ce composant est un élément important du système.
-  Dieser Bestandteil ist ein wichtiger Teil des Systems.
+  Nous devons commander de nouveaux *composants* pour réparer la machine.
+  Wir müssen neue *Bauteile* bestellen, um die Maschine zu reparieren.
+
+  Les différentes *composantes* de la majorité ont voté contre cette loi.
+  Die verschiedenen *Komponenten* der Mehrheit haben gegen dieses Gesetz gestimmt.
+
+  Ce nouveau *composant* permet d'améliorer les performances du système.
+  Diese neue *Komponente* verbessert die Systemleistung.
+
+  Les *composants* actifs et passifs jouent des rôles différents dans ce circuit.
+  Aktive und passive *Bauelemente* spielen verschiedene Rollen in dieser Schaltung.
+
+  La diversité est une *composante* essentielle de notre société.
+  Vielfalt ist eine wesentliche *Komponente* unserer Gesellschaft.
+
+  Les *composants* de base de cette recette sont très simples.
+  Die grund*bestandteile* dieses Rezepts sind sehr einfach.
+
+  J'ai analysé toutes les *composantes* du problème avant de prendre ma décision.
+  Ich habe alle *Komponenten* des Problems analysiert, bevor ich meine Entscheidung getroffen habe.
+
+  Certains *composants* du sang peuvent être donnés séparément.
+  Bestimmte *Bestandteile* des Blutes können separat gespendet werden.
+
+  La confiance est une *composante* fondamentale de toute relation.
+  Vertrauen ist eine grundlegende *Komponente* jeder Beziehung.
+
+  Les *composants* de ce médicament sont d'origine naturelle.
+  Die *Bestandteile* dieses Medikaments sind natürlichen Ursprungs.
+
+  Cette entreprise fabrique des *composants* pour l'industrie automobile.
+  Dieses Unternehmen stellt *Bauteile* für die Automobilindustrie her.
+
+  Les *composantes* culturelles influencent notre façon de penser.
+  Die kulturellen *Komponenten* beeinflussen unsere Denkweise.
+
+  Le technicien a vérifié tous les *composants* du système de refroidissement.
+  Der Techniker hat alle *Bauteile* des Kühlsystems überprüft.
+
+  La patience est une *composante* importante dans l'apprentissage d'une langue.
+  Geduld ist eine wichtige *Komponente* beim Erlernen einer Sprache.
+
+  Les *composants* de cette solution chimique doivent être mélangés avec précaution.
+  Die *Bestandteile* dieser chemischen Lösung müssen vorsichtig gemischt werden.
+
+  Nous devons remplacer plusieurs *composants* défectueux dans ce circuit imprimé.
+  Wir müssen mehrere defekte *Bauelemente* auf dieser Leiterplatte austauschen.
+
+  L'oxygène est un *composant* vital de notre atmosphère.
+  Sauerstoff ist ein lebenswichtiger *Bestandteil* unserer Atmosphäre.
+
+  Les différentes *composantes* du projet doivent être coordonnées efficacement.
+  Die verschiedenen *Komponenten* des Projekts müssen effizient koordiniert werden.
+
+  Le stress est une *composante* inévitable de la vie moderne.
+  Stress ist eine unvermeidliche *Komponente* des modernen Lebens.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

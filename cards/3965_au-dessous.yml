@@ -13,23 +13,62 @@ Register: ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La température descend au-dessous de -40.
-  Die Temperatur sinkt auf unter -40.
+  La température descend *au-dessous* de -40.
+  Die Temperatur fällt *unter* -40.
 
-  Le chat est au-dessous de la table.
-  Die Katze ist unterhalb des Tisches.
+  Le restaurant se trouve juste *au-dessous* de notre appartement.
+  Das Restaurant befindet sich direkt *unter* unserer Wohnung.
 
-  Le livre était posé au-dessous de la table.
-  Das Buch lag unter dem Tisch.
+  Il y a une cave *au-dessous* du rez-de-chaussée.
+  *Unter* dem Erdgeschoss gibt es einen Keller.
 
-  Il est au-dessous de tout, il ne fait jamais rien de bien.
-  Er ist ein Nichtsnutz, er macht nie etwas Gutes.
+  J'ai remarqué des traces d'humidité *au-dessous* de la fenêtre.
+  Ich habe *unter* dem Fenster Feuchtigkeitsspuren bemerkt.
 
-  Nous sommes en train de conduire au-dessous de Lyon.
-  Wir fahren unterhalb von Lyon.
+  Les nuages flottent *au-dessous* du sommet de la montagne.
+  Die Wolken schweben *unterhalb* des Berggipfels.
 
-  Je suis au-dessous de lui, il a bien plus d'expérience que moi.
-  Ich stehe unter ihm, er hat viel mehr Erfahrung als ich.
+  Mettez votre signature *au-dessous* du texte.
+  Setzen Sie Ihre Unterschrift *unter* den Text.
+
+  Le village se trouve *au-dessous* de Lyon, près de Vienne.
+  Das Dorf liegt *unterhalb* von Lyon, in der Nähe von Vienne.
+
+  Dans la hiérarchie, Pierre est *au-dessous* du directeur.
+  In der Hierarchie steht Pierre *unter* dem Direktor.
+
+  "Cette production était vraiment *au-dessous* de tout."
+  "Diese Aufführung war wirklich das *Letzte*."
+
+  Les poissons nagent *au-dessous* de la surface de l'eau.
+  Die Fische schwimmen *unter* der Wasseroberfläche.
+
+  Elle a des cernes *au-dessous* des yeux après cette nuit blanche.
+  Sie hat *unter* den Augen Augenringe nach dieser schlaflosen Nacht.
+
+  Le niveau de l'eau est descendu *au-dessous* du seuil critique.
+  Der Wasserstand ist *unter* die kritische Schwelle gesunken.
+
+  Les prix sont tombés *au-dessous* des attentes.
+  Die Preise sind *unter* die Erwartungen gefallen.
+
+  Son travail est resté bien *au-dessous* de ses capacités.
+  Seine Arbeit blieb weit *unter* seinen Fähigkeiten.
+
+  "Ce nouveau stagiaire est vraiment *au-dessous* de tout."
+  "Dieser neue Praktikant ist wirklich ein *Nichtsnutz*."
+
+  Il y a un jardin *au-dessous* de la terrasse.
+  *Unter* der Terrasse liegt ein Garten.
+
+  Nous habitons *au-dessous* de la ligne de chemin de fer.
+  Wir wohnen *unterhalb* der Eisenbahnlinie.
+
+  Les performances de l'équipe sont restées *au-dessous* des espérances.
+  Die Leistungen der Mannschaft blieben *unter* den Erwartungen.
+
+  Le thermomètre est descendu *au-dessous* de zéro cette nuit.
+  Das Thermometer ist heute Nacht *unter* null gefallen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,44 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai une fille de dix-huit ans.
-  Ich habe eine achtzehnjährige Tochter.
+  J'ai une fille de *dix-huit* ans.
+  Ich habe eine *achtzehn*jährige Tochter.
 
-  J’ai dix-huit ans.
-  Ich bin achtzehn Jahre alt.
+  Une classe de *dix-huit* élèves est idéale pour l'apprentissage.
+  Eine Klasse mit *achtzehn* Schülern ist ideal zum Lernen.
 
-  Elle a bientôt dix-huit ans.
-  Sie wird bald achtzehn.
+  Il aura *dix-huit* ans le mois prochain.
+  Er wird nächsten Monat *achtzehn* Jahre alt.
 
-  Il a dix-huit ans.
-  Er ist achtzehn.
+  Le train part à *dix-huit* heures précises.
+  Der Zug fährt um punkt *achtzehn* Uhr ab.
 
-  Elle est sur la ligne dix-huit.
-  Sie ist auf der Linie achtzehn.
+  Nous sommes le *dix-huit* mars aujourd'hui.
+  Heute ist der *achtzehnte* März.
 
-  Il est dix-huit heures.
-  Es ist achtzehn Uhr.
+  Marie est arrivée *dix-huit*ième à la course.
+  Marie kam als *Achtzehnte* beim Rennen an.
 
-  Le dix-huit mars, c'est le jour de son anniversaire.
-  Der achtzehnte März ist ihr Geburtstag.
+  *Louis dix-huit* était le frère de Louis XVI.
+  *Ludwig der Achtzehnte* war der Bruder von Ludwig XVI.
 
-  Il est arrivé dix-huitième à la course.
-  Er kam als Achtzehnter ins Ziel.
+  Le numéro *dix-huit* m'a porté chance au loto.
+  Die Nummer *achtzehn* hat mir beim Lotto Glück gebracht.
 
-  Louis XVIII était roi de France.
-  Ludwig der Achtzehnte war König von Frankreich.
+  Prenez le bus *dix-huit* pour aller au centre-ville.
+  Nehmen Sie die *achtzehn* in die Innenstadt.
 
-  Le chiffre dix-huit m'a toujours porté chance.
-  Achtzehn hat mir immer Glück gebracht.
+  L'élève a obtenu un *dix-huit* sur vingt en mathématiques.
+  Der Schüler hat in Mathematik eine sehr gute Eins bekommen.
 
-  Elle a eu dix-huit à son examen.
-  Sie hat eine Eins in ihrer Prüfung bekommen.
+  La table *dix-huit* est réservée pour ce soir.
+  Tisch *achtzehn* ist für heute Abend reserviert.
 
-  Il a rencontré une personne de dix-huit ans.
-  Er hat eine Achtzehnjährige getroffen.
+  Nous habitons au *dix-huit* rue Victor Hugo.
+  Wir wohnen in der Victor-Hugo-Straße Nummer *achtzehn*.
 
-  Il a vécu une période de dix-huit ans à Paris.
-  Er hat achtzehn Jahre in Paris gelebt.
+  Tournez à la page *dix-huit* de votre manuel.
+  Schlagen Sie Seite *achtzehn* in Ihrem Lehrbuch auf.
+
+  La période de *dix-huit* ans s'est écoulée rapidement.
+  Der Zeitraum von *achtzehn* Jahren ist schnell vergangen.
+
+  *Dix-huit* fois deux font trente-six.
+  *Achtzehn* mal zwei macht sechsunddreißig.
+
+  Le *dix-huit* du mois, nous partons en vacances.
+  Am *achtzehnten* des Monats fahren wir in den Urlaub.
+
+  Il y a *dix-huit* personnes sur la liste d'attente.
+  Es stehen *achtzehn* Personen auf der Warteliste.
+
+  L'article *dix-huit* de la constitution garantit la liberté d'expression.
+  Artikel *achtzehn* der Verfassung garantiert die Meinungsfreiheit.
+
+  La salle *dix-huit* se trouve au deuxième étage.
+  Raum *achtzehn* befindet sich im zweiten Stock.
+
+  Le match commence à *dix-huit* heures trente.
+  Das Spiel beginnt um *achtzehn* Uhr dreißig.
+
+  *Dix-huit* cents euros, c'est le prix de mon nouveau vélo.
+  *Achtzehn*hundert Euro kostet mein neues Fahrrad.
+
+  On se retrouve le *dix-huit* décembre pour fêter Noël.
+  Wir treffen uns am *achtzehnten* Dezember zur Weihnachtsfeier.
+
+  Les *dix-huit* premiers candidats seront sélectionnés.
+  Die ersten *achtzehn* Kandidaten werden ausgewählt.
+
+  Je prends le métro ligne *dix-huit* tous les matins.
+  Ich fahre jeden Morgen mit der U-Bahn Linie *achtzehn*.
+
+  *Dix-huit* s'écrit XVIII en chiffres romains.
+  *Achtzehn* wird in römischen Ziffern als XVIII geschrieben.
+
+  Il reste *dix-huit* jours avant les vacances.
+  Es sind noch *achtzehn* Tage bis zu den Ferien.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

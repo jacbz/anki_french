@@ -13,29 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est une lutte acharnée pour la vie.
-  Es ist ein erbitterter Kampf um das Leben.
+  C'est une lutte *acharnée* pour la vie.
+  Es ist ein *erbitterter* Kampf ums Leben.
 
-  Paul s'acharne sur son devoir de mathématiques depuis des heures.
-  Paul beißt sich schon seit Stunden an seiner Mathematikaufgabe fest.
+  Les chiens *s'acharnent* sur le chat apeuré.
+  Die Hunde *stürzen* sich auf die verängstigte Katze.
 
-  Le lion s'est acharné sur sa victime après l'avoir chassée pendant des heures.
-  Der Löwe stürzte sich auf sein Opfer, nachdem er es stundenlang gejagt hatte.
+  Elle *s'acharne* sur ses devoirs de mathématiques depuis ce matin.
+  Sie *beißt* sich seit heute Morgen an ihren Matheaufgaben *fest*.
 
-  Le gouvernement s'acharne contre le terrorisme en renforçant les mesures de sécurité.
-  Die Regierung führt einen erbitterten Kampf gegen den Terrorismus, indem sie die Sicherheitsvorkehrungen verstärkt.
+  Le destin *s'acharne* contre cette pauvre famille.
+  Das Schicksal *verfolgt* diese arme Familie.
 
-  Le directeur s'acharne contre moi depuis que j'ai refusé de travailler le week-end.
-  Der Chef verfolgt mich, seit ich mich geweigert habe, am Wochenende zu arbeiten.
+  Marc *s'acharne* à comprendre la théorie de la relativité.
+  Marc *versteifte* sich darauf, die Relativitätstheorie zu verstehen.
 
-  Dans un accès de rage, il a saisi le vase et s'est acharné dessus jusqu'à ce qu'il soit réduit en mille morceaux.
-  In einem Wutanfall packte er die Vase und zerstörte sie blindwütig, bis sie in tausend Stücke zerbrochen war.
+  Les supporters *s'acharnaient* contre l'arbitre après le match.
+  Die Fans *führten* nach dem Spiel einen *erbitterten Kampf* gegen den Schiedsrichter.
 
-  Il s'acharne à vouloir apprendre le chinois en trois mois, c'est impossible !
-  Er versteift sich darauf, Chinesisch in drei Monaten lernen zu wollen, das ist unmöglich!
+  La pluie *s'acharne* sur notre ville depuis une semaine.
+  Der Regen *verfolgt* unsere Stadt seit einer Woche.
 
-  Depuis son accident, la malchance s'acharne contre lui : il a perdu son travail et sa maison a brûlé.
-  Seit seinem Unfall wird er vom Pech verfolgt: Er hat seinen Job verloren und sein Haus ist abgebrannt.
+  Pierre *s'acharne* au travail malgré sa fatigue.
+  Pierre *müht* sich trotz seiner Müdigkeit bei der Arbeit *ab*.
+
+  Les vandales se sont *acharnés* sur la voiture abandonnée.
+  Die Vandalen haben das verlassene Auto *blindwütig zerstört*.
+
+  Il *s'acharne* à vouloir réparer cette vieille montre.
+  Er *versteifte* sich darauf, diese alte Uhr reparieren zu wollen.
+
+  Les critiques *s'acharnent* contre son dernier film.
+  Die Kritiker *führen* einen *erbitterten Kampf* gegen seinen letzten Film.
+
+  La maladie *s'acharne* sur son corps affaibli.
+  Die Krankheit *verfolgt* seinen geschwächten Körper.
+
+  Les journalistes *s'acharnent* à découvrir la vérité.
+  Die Journalisten *beißen* sich daran *fest*, die Wahrheit herauszufinden.
+
+  Le lion *s'acharne* sur sa proie jusqu'à l'épuisement.
+  Der Löwe *lässt* von seiner Beute nicht *ab*, bis zur Erschöpfung.
+
+  Sophie *s'acharne* à apprendre le japonais depuis des années.
+  Sophie *müht* sich seit Jahren *ab*, Japanisch zu lernen.
+
+  Les chercheurs *s'acharnent* à trouver un remède.
+  Die Forscher *versteifen* sich darauf, ein Heilmittel zu finden.
+
+  La tempête *s'acharne* sur les côtes bretonnes.
+  Der Sturm *verfolgt* die bretonische Küste.
+
+  Thomas *s'acharne* sur ce projet depuis des mois.
+  Thomas *beißt* sich seit Monaten an diesem Projekt *fest*.
+
+  Les manifestants *s'acharnent* contre les nouvelles réformes.
+  Die Demonstranten *führen* einen *erbitterten Kampf* gegen die neuen Reformen.
+
+  La malchance *s'acharne* sur lui depuis son enfance.
+  Das Pech *verfolgt* ihn seit seiner Kindheit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

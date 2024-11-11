@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Aujourd’hui, la situation est radicalement différente.
-  Heute ist die Situation grundlegend anders.
+  Aujourd'hui, la situation est *radicalement* différente.
+  Heute ist die Situation *grundlegend* anders.
 
-  Il a changé radicalement d’avis.
-  Er hat seine Meinung radikal geändert.
+  Cette nouvelle technologie a *radicalement* changé notre façon de travailler.
+  Diese neue Technologie hat unsere Arbeitsweise *radikal* verändert.
+
+  Le traitement a *radicalement* guéri sa maladie chronique.
+  Die Behandlung hat seine chronische Krankheit *gründlich* geheilt.
+
+  Leurs opinions sont *radicalement* opposées sur cette question.
+  Ihre Meinungen zu dieser Frage sind *vollkommen* entgegengesetzt.
+
+  Cette méthode est *radicalement* nouvelle dans notre domaine.
+  Diese Methode ist in unserem Bereich *völlig* neu.
+
+  Il faut *radicalement* repenser notre approche du problème.
+  Wir müssen unseren Ansatz für das Problem *grundlegend* überdenken.
+
+  Son style de vie a *radicalement* changé après son mariage.
+  Ihr Lebensstil hat sich nach ihrer Heirat *radikal* verändert.
+
+  Ces deux théories sont *radicalement* différentes l'une de l'autre.
+  Diese beiden Theorien unterscheiden sich *grundlegend* voneinander.
+
+  Le nouveau directeur a *radicalement* transformé l'entreprise.
+  Der neue Direktor hat das Unternehmen *vollkommen* umgestaltet.
+
+  Cette solution pourrait *radicalement* améliorer la situation.
+  Diese Lösung könnte die Situation *grundlegend* verbessern.
+
+  Les deux versions du texte sont *radicalement* distinctes.
+  Die beiden Textversionen sind *völlig* verschieden.
+
+  Le paysage s'est *radicalement* transformé en vingt ans.
+  Die Landschaft hat sich in zwanzig Jahren *radikal* verändert.
+
+  Cette découverte a *radicalement* modifié notre compréhension du phénomène.
+  Diese Entdeckung hat unser Verständnis des Phänomens *grundlegend* verändert.
+
+  Les résultats sont *radicalement* différents de ce que nous attendions.
+  Die Ergebnisse sind *völlig* anders als erwartet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

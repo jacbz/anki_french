@@ -13,20 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Une princesse ne peut pas embrasser un crapaud?
-  Eine Prinzessin darf keine Kröte küssen?
+  Une *princesse* ne peut pas embrasser un crapaud ?
+  Kann eine *Prinzessin* keinen Frosch küssen?
 
-  La princesse a un château magnifique.
-  Die Prinzessin hat ein wunderschönes Schloss.
+  La *princesse* Palatine était connue pour sa correspondance détaillée.
+  Die *Prinzessin* Palatine war für ihre ausführliche Korrespondenz bekannt.
 
-  Vous êtes ma princesse.
-  Sie sind meine Prinzessin.
+  "Cette fille prend des airs de *princesse* depuis qu'elle a été promue."
+  "Dieses Mädchen gibt sich wie eine *Prinzessin*, seit sie befördert wurde."
 
-  Êtes-vous vraiment une princesse ?
-  Sind Sie wirklich eine Prinzessin?
+  La *princesse* de Monaco assistera à la cérémonie d'ouverture.
+  Die *Fürstin* von Monaco wird an der Eröffnungszeremonie teilnehmen.
 
-  Il te faut sauver la princesse.
-  Du musst die Prinzessin retten.
+  Elle porte une robe *princesse* en soie blanche pour son mariage.
+  Sie trägt ein *Prinzessinnen*kleid aus weißer Seide zu ihrer Hochzeit.
+
+  Les enfants adorent les histoires de *princesses* et de dragons.
+  Die Kinder lieben Geschichten von *Prinzessinnen* und Drachen.
+
+  "Tout est payé aux frais de la *princesse*."
+  "Alles geht auf *Staatskosten*."
+
+  La *princesse* au petit pois n'arrivait pas à dormir sur les matelas.
+  Die *Prinzessin* auf der Erbse konnte nicht auf den Matratzen schlafen.
+
+  J'ai commandé des haricots *princesse* au marché.
+  Ich habe breite Bohnen auf dem Markt bestellt.
+
+  "Marie fait toujours sa *princesse* quand on sort au restaurant."
+  "Marie spielt immer die *Prinzessin*, wenn wir ins Restaurant gehen."
+
+  Le chef a préparé une sole garniture *princesse*.
+  Der Koch hat eine Seezunge mit *fürstlicher* Garnitur zubereitet.
+
+  Les *princesses* d'Espagne portent le titre d'infantes.
+  Die spanischen *Prinzessinnen* tragen den Titel Infantin.
+
+  Ma petite *princesse* a perdu sa première dent aujourd'hui.
+  Meine kleine *Prinzessin* hat heute ihren ersten Zahn verloren.
+
+  Cette *princesse* règne sur la plus petite principauté d'Europe.
+  Diese *Fürstin* regiert über das kleinste Fürstentum Europas.
+
+  La *Princesse* de Clèves est un roman célèbre de Madame de La Fayette.
+  Die *Prinzessin* von Clèves ist ein berühmter Roman von Madame de La Fayette.
+
+  Les journalistes suivent chaque apparition de la jeune *princesse*.
+  Die Journalisten verfolgen jeden Auftritt der jungen *Prinzessin*.
+
+  Cette *princesse* scandinave est très appréciée par son peuple.
+  Diese skandinavische *Prinzessin* ist bei ihrem Volk sehr beliebt.
+
+  La *princesse* héritière représentera son pays lors du sommet.
+  Die *Kronprinzessin* wird ihr Land beim Gipfel vertreten.
+
+  Élisabeth Ire fut une grande *princesse* avant de devenir reine.
+  Elisabeth I. war eine große *Prinzessin*, bevor sie Königin wurde.
+
+  Le musée expose les bijoux de l'ancienne *princesse*.
+  Das Museum stellt den Schmuck der ehemaligen *Prinzessin* aus.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

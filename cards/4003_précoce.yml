@@ -13,11 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous favorisons la détection précoce et la prévention.
-  Wir fördern die Früherkennung und Prävention.
+  Nous favorisons la détection *précoce* et la prévention.
+  Wir fördern die *Früh*erkennung und Prävention.
 
-  Un enfant précoce peut commencer à lire à l’âge de trois ans.
-  Ein frühreifes Kind kann im Alter von drei Jahren anfangen zu lesen.
+  Les pommes *précoces* sont déjà mûres en juillet.
+  Die *frühen* Äpfel sind schon im Juli reif.
+
+  Cette variété de blé *précoce* résiste bien au froid.
+  Diese *früh*reifende Weizensorte ist gut kälteresistent.
+
+  Un hiver particulièrement *précoce* a surpris les agriculteurs.
+  Ein besonders *zeitiger* Winter hat die Landwirte überrascht.
+
+  Sa calvitie *précoce* l'a beaucoup complexé pendant sa jeunesse.
+  Seine *vorzeitige* Glatzenbildung hat ihm in seiner Jugend große Komplexe bereitet.
+
+  Marie montre des signes de vieillissement *précoce*.
+  Marie zeigt Anzeichen *vorzeitiger* Alterung.
+
+  Le développement *précoce* de ses capacités mathématiques a impressionné ses professeurs.
+  Die *frühe* Entwicklung ihrer mathematischen Fähigkeiten hat ihre Lehrer beeindruckt.
+
+  Les gelées *précoces* ont détruit une partie de la récolte.
+  Der *Früh*frost hat einen Teil der Ernte zerstört.
+
+  Cette année, les cerises sont très *précoces*.
+  Die Kirschen sind dieses Jahr sehr *früh* dran.
+
+  Un diagnostic *précoce* permet souvent un meilleur traitement.
+  Eine *frühe* Diagnose ermöglicht oft eine bessere Behandlung.
+
+  Cette race de poules est connue pour sa maturité *précoce*.
+  Diese Hühnerrasse ist für ihre *frühe* Reife bekannt.
+
+  Le printemps *précoce* a fait fleurir tous les arbres en mars.
+  Der *frühe* Frühling ließ alle Bäume im März blühen.
+
+  Son talent musical *précoce* s'est manifesté dès l'âge de trois ans.
+  Ihr *frühes* musikalisches Talent zeigte sich bereits im Alter von drei Jahren.
+
+  La puberté *précoce* peut être difficile à gérer pour certains enfants.
+  Die *Früh*pubertät kann für manche Kinder schwer zu bewältigen sein.
+
+  Cette variété de haricots verts est particulièrement *précoce*.
+  Diese Sorte grüner Bohnen ist besonders *früh*reifend.
+
+  Les enfants *précoces* ont parfois du mal à s'intégrer dans leur classe d'âge.
+  *Frühreife* Kinder haben manchmal Schwierigkeiten, sich in ihre Altersgruppe zu integrieren.
+
+  La fructification *précoce* de ces pommiers est remarquable.
+  Die *frühe* Fruchtbildung dieser Apfelbäume ist bemerkenswert.
+
+  Les rides *précoces* sont souvent héréditaires.
+  *Vorzeitige* Faltenbildung ist oft erblich bedingt.
+
+  Son mariage *précoce* a surpris toute la famille.
+  Ihre *frühe* Heirat hat die ganze Familie überrascht.
+
+  Un été *précoce* a accéléré la maturation des fruits.
+  Ein *früher* Sommer hat die Reifung der Früchte beschleunigt.
+
+  La démence *précoce* est une condition médicale grave.
+  *Frühzeitige* Demenz ist eine ernste medizinische Erkrankung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

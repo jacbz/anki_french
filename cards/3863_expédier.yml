@@ -13,26 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous l’expédions dans des pays comme le Japon.
-  Wir versenden es in Länder wie Japan.
+  Nous l'*expédions* dans des pays comme le Japon.
+  Wir *versenden* es in Länder wie Japan.
 
-  Je vais expédier le colis demain matin.
-  Ich werde das Paket morgen früh verschicken.
+  Je vais *expédier* ton colis par avion.
+  Ich werde dein Paket per Luftpost *aufgeben*.
 
-  J'ai décidé d'expédier ce colis par la poste, car c'est le moyen le plus économique.
-  Ich habe mich entschieden, dieses Paket mit der Post zu verschicken, da dies die günstigste Methode ist.
+  La société *expédie* les marchandises par bateau.
+  Die Firma *verschifft* die Waren.
 
-  Mon père a expédié mon frère à Londres pour ses études.
-  Mein Vater hat meinen Bruder zum Studieren nach London geschickt.
+  "Il a *expédié* son déjeuner en cinq minutes."
+  "Er hat sein Mittagessen in fünf Minuten *hinuntergeschlungen*."
 
-  Le vin est expédié par bateau depuis la France.
-  Der Wein wird aus Frankreich per Schiff verschifft.
+  Le secrétaire *expédie* les affaires courantes pendant l'absence du directeur.
+  Der Sekretär *erledigt* die laufenden Geschäfte während der Abwesenheit des Direktors.
 
-  Les marchandises sont expédiées par chargements partiels pour des raisons de sécurité.
-  Die Waren werden aus Sicherheitsgründen in Teilladungen zum Versand gebracht.
+  Marie a *expédié* ses devoirs sans faire attention.
+  Marie hat ihre Hausaufgaben *hingeschludert*.
 
-  Sa mère l'a expédié en pension, car elle était trop occupée pour s'occuper de lui.
-  Seine Mutter hat ihn in ein Internat gesteckt, weil sie zu beschäftigt war, um sich um ihn zu kümmern.
+  Les parents ont *expédié* leur fils en pension.
+  Die Eltern haben ihren Sohn ins Internat *gesteckt*.
+
+  "Je vais *expédier* ce client rapidement pour pouvoir rentrer."
+  "Ich werde diesen Kunden schnell *abfertigen*, damit ich nach Hause gehen kann."
+
+  L'entreprise *expédie* ses produits dans le monde entier.
+  Das Unternehmen *versendet* seine Produkte in die ganze Welt.
+
+  Le notaire a *expédié* une copie du contrat de mariage.
+  Der Notar hat eine Kopie des Ehevertrags *ausgestellt*.
+
+  Elle a *expédié* la lettre par la poste.
+  Sie hat den Brief mit der Post *abgeschickt*.
+
+  "Il *expédie* toujours son travail à la va-vite."
+  "Er *schludert* seine Arbeit immer schnell hin."
+
+  Le tribunal a *expédié* le jugement en trois jours.
+  Das Gericht hat das Urteil in drei Tagen *durchgezogen*.
+
+  La compagnie maritime doit *expédier* toutes les formalités avant le départ.
+  Die Reederei muss vor der Abfahrt alle Formalitäten *erledigen*.
+
+  Nous *expédions* les commandes en plusieurs chargements partiels.
+  Wir *versenden* die Bestellungen in mehreren Teilladungen.
+
+  "Il m'a *expédié* au bout du monde pour ce projet."
+  "Er hat mich für dieses Projekt ans Ende der Welt *geschickt*."
+
+  Le maire démissionnaire *expédie* les affaires courantes jusqu'aux élections.
+  Der zurückgetretene Bürgermeister *erledigt* die laufenden Geschäfte bis zur Wahl.
+
+  "Tu as *expédié* ton petit-déjeuner ce matin !"
+  "Du hast dein Frühstück heute Morgen *hinuntergeschlungen*!"
+
+  La secrétaire *expédie* le courrier urgent chaque soir.
+  Die Sekretärin *verschickt* jeden Abend die Eilpost.
+
+  "Ils ont *expédié* la réunion en quinze minutes."
+  "Sie haben die Besprechung in fünfzehn Minuten *durchgezogen*."
+
+  Le service postal *expédie* des millions de colis chaque jour.
+  Der Postdienst *befördert* täglich Millionen von Paketen.
+
+  Les parents *expédient* leurs enfants chez les grands-parents pour le weekend.
+  Die Eltern *schicken* ihre Kinder für das Wochenende zu den Großeltern.
+
+  "J'ai dû *expédier* ce visiteur importun."
+  "Ich musste diesen lästigen Besucher schnell *abwimmeln*."
+
+  Le juge a *expédié* l'affaire en quelques minutes.
+  Der Richter hat den Fall in wenigen Minuten *abgehandelt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

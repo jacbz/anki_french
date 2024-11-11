@@ -13,20 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Oh vous savez, un tueur est rarement drôle.
-  Oh, wissen Sie, ein Mörder ist selten lustig.
+  Oh vous savez, un *tueur* est rarement drôle.
+  Wissen Sie, ein *Mörder* ist selten lustig.
 
-  Le tueur en série a été arrêté.
-  Der Serienmörder wurde gefasst.
+  La police recherche une *tueuse* en série qui sévit dans la région.
+  Die Polizei sucht eine Serien*mörderin*, die in der Region ihr Unwesen treibt.
 
-  Un satellite tueur est un satellite conçu pour détruire d'autres satellites ou des objets spatiaux.
-  Ein Killersatellit ist ein Satellit, der dazu bestimmt ist, andere Satelliten oder Weltraumobjekte zu zerstören.
+  Les journaux ont révélé qu'il était un *tueur* à gages depuis des années.
+  Die Zeitungen enthüllten, dass er seit Jahren ein Auftrags*mörder* war.
 
-  Une algue tueuse est une algue qui peut produire des toxines nocives pour d'autres organismes.
-  Eine Killeralge ist eine Alge, die giftige Stoffe produzieren kann, die für andere Lebewesen schädlich sind.
+  Le *tueur* professionnel travaille à l'abattoir depuis vingt ans.
+  Der *Schlachter* arbeitet seit zwanzig Jahren im Schlachthof.
 
-  Une abeille tueuse est une abeille hybride, connue pour son agressivité.
-  Eine Killerbiene ist eine Hybridbiene, die für ihre Aggressivität bekannt ist.
+  Un nouveau *satellite tueur* a été lancé dans l'espace.
+  Ein neuer *Killer*satellit wurde ins All geschossen.
+
+  Les *abeilles tueuses* représentent un danger pour la population locale.
+  Die *Killer*bienen stellen eine Gefahr für die lokale Bevölkerung dar.
+
+  Des *algues tueuses* ont envahi le lac pendant l'été.
+  *Killer*algen haben den See im Sommer befallen.
+
+  Cette *tueuse* impitoyable n'a jamais montré de remords.
+  Diese erbarmungslose *Mörderin* hat nie Reue gezeigt.
+
+  Le *tueur* a été rapidement identifié grâce aux caméras de surveillance.
+  Der *Mörder* wurde dank der Überwachungskameras schnell identifiziert.
+
+  Ce chasseur n'est qu'un *tueur* qui ne respecte pas la nature.
+  Dieser Jäger ist nur ein *Killer*, der die Natur nicht respektiert.
+
+  Les *tueurs* de l'organisation criminelle ont tous été arrêtés.
+  Die *Killer* der kriminellen Organisation wurden alle verhaftet.
+
+  La *tueuse* a été condamnée à la prison à perpétuité.
+  Die *Mörderin* wurde zu lebenslanger Haft verurteilt.
+
+  Le *tueur* de l'abattoir prend sa retraite après trente ans de service.
+  Der *Schlachter* des Schlachthofs geht nach dreißig Dienstjahren in Rente.
+
+  Les experts ont établi le profil psychologique du *tueur*.
+  Die Experten haben das psychologische Profil des *Mörders* erstellt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

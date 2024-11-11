@@ -13,17 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’entends vaguement les chars qui s’approchent.
-  Ich höre vage die Panzer, die sich nähern.
+  J'entends vaguement les *chars* qui s'approchent.
+  Ich höre undeutlich die *Panzer*, die sich nähern.
 
-  Le char d’assaut est un véhicule militaire.
-  Der Panzer ist ein Militärfahrzeug.
+  Le *char* d'assaut a pénétré les lignes ennemies.
+  Der Kampf*panzer* ist durch die feindlichen Linien gebrochen.
 
-  Le char de combat était un engin de guerre redoutable.
-  Der Kampfpanzer war eine furchterregende Kriegsmaschine.
+  Un *char* de combat moderne peut coûter plusieurs millions d'euros.
+  Ein moderner Kampf*panzer* kann mehrere Millionen Euro kosten.
 
-  Arrête ton char, tu vas causer des dégâts !
-  Nun mach aber mal einen Punkt, du wirst sonst noch Schaden anrichten!
+  Les anciens Égyptiens utilisaient des *chars* lors des batailles.
+  Die alten Ägypter benutzten *Streitwagen* in den Schlachten.
+
+  Le *char* de carnaval était décoré de fleurs colorées.
+  Der Karnevals*wagen* war mit bunten Blumen geschmückt.
+
+  Les enfants admiraient le grand *char* allégorique.
+  Die Kinder bestaunten den großen Festzugs*wagen*.
+
+  Dans la mythologie grecque, Apollon conduisait le *char* du Soleil.
+  In der griechischen Mythologie lenkte Apollo den Sonnen*wagen*.
+
+  Le *char* à voile glissait rapidement sur la plage.
+  Der Strand*segler* glitt schnell über den Strand.
+
+  Des *chars* légers patrouillaient le long de la frontière.
+  Leichte *Panzer* patrouillierten entlang der Grenze.
+
+  Le *char* à bœufs transportait la récolte vers le village.
+  Der Ochsen*wagen* transportierte die Ernte zum Dorf.
+
+  Les spectateurs applaudissaient le défilé des *chars* fleuris.
+  Die Zuschauer klatschten Beifall für die Parade der geschmückten *Wagen*.
+
+  "Arrête ton *char*, Boris !"
+  "Hör auf zu *übertreiben*, Boris!"
+
+  Le conducteur du *char* portait une couronne de laurier.
+  Der *Streitwagen*lenker trug einen Lorbeerkranz.
+
+  Un *char* démineur ouvrait la voie aux troupes.
+  Ein Minenräum*panzer* bahnte den Truppen den Weg.
+
+  Les agriculteurs remplissaient le *char* à foin.
+  Die Bauern beluden den Heu*wagen*.
+
+  Le *char* funèbre avançait lentement dans les rues.
+  Der Leichen*wagen* bewegte sich langsam durch die Straßen.
+
+  Les touristes montent dans le *char* à bancs pour la visite guidée.
+  Die Touristen steigen in den Bank*wagen* für die Führung.
+
+  Le commandant coordonne les mouvements des *chars* lourds.
+  Der Kommandant koordiniert die Bewegungen der schweren *Panzer*.
+
+  Le *char* de la déesse était tiré par des colombes blanches.
+  Der *Wagen* der Göttin wurde von weißen Tauben gezogen.
+
+  Une course de *chars* était l'attraction principale des jeux antiques.
+  Ein *Streitwagen*rennen war die Hauptattraktion der antiken Spiele.
+
+  Le *char* de vendange descendait la colline chargé de raisins.
+  Der Wein*wagen* fuhr vollbeladen mit Trauben den Hügel hinunter.
+
+  Le régiment de *chars* se préparait pour l'exercice militaire.
+  Das *Panzer*regiment bereitete sich auf die Militärübung vor.
+
+  Les enfants suivaient le *char* de la Reine des Neiges.
+  Die Kinder folgten dem *Wagen* der Schneekönigin.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

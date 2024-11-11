@@ -13,23 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mon bureau était en face du studio.
-  Mein Büro befand sich gegenüber dem Studio.
+  Mon bureau était en face du *studio*.
+  Mein Büro war gegenüber dem *Studio*.
 
-  Je travaille dans un studio de musique.
-  Ich arbeite in einem Musikstudio.
+  Le *studio* de télévision est équipé des dernières technologies.
+  Das Fernseh*studio* ist mit der neuesten Technologie ausgestattet.
 
-  Le groupe a enregistré son nouvel album dans un studio d'enregistrement professionnel à Paris.
-  Die Band hat ihr neues Album in einem professionellen Aufnahmestudio in Paris aufgenommen.
+  Les musiciens passent la journée dans le *studio* d'enregistrement.
+  Die Musiker verbringen den Tag im Aufnahme*studio*.
 
-  Ils ont fait l'annonce de leur tournée au studio de la radio.
-  Sie haben die Ankündigung ihrer Tour im Rundfunkstudio gemacht.
+  "À vous les *studios*!" annonce le présentateur depuis le terrain.
+  "Zurück ins *Studio*!" kündigt der Moderator vom Spielfeld an.
 
-  Le tournage de ce film a eu lieu dans un studio de cinéma à Hollywood.
-  Die Dreharbeiten zu diesem Film fanden in einem Filmstudio in Hollywood statt.
+  Le prix d'un *studio* à Paris est vraiment exorbitant.
+  Der Preis für eine Einzimmer*wohnung* in Paris ist wirklich übertrieben.
 
-  À vous, les studios, pour la météo du jour.
-  Wir schalten zurück ins Studio für die Wettervorhersage.
+  Le photographe prépare son *studio* pour la séance photo.
+  Der Fotograf bereitet sein *Atelier* für das Fotoshooting vor.
+
+  Elle a décoré son petit *studio* avec beaucoup de goût.
+  Sie hat ihre kleine Einzimmer*wohnung* sehr geschmackvoll eingerichtet.
+
+  Le groupe enregistre son nouvel album en *studio*.
+  Die Band nimmt ihr neues Album im *Studio* auf.
+
+  Les danseurs s'entraînent dans le *studio* de danse depuis ce matin.
+  Die Tänzer trainieren seit heute Morgen im Tanz*studio*.
+
+  Le film a été entièrement tourné en *studio*.
+  Der Film wurde komplett im *Studio* gedreht.
+
+  Ce *studio* de radio diffuse 24 heures sur 24.
+  Dieses Rundfunk*studio* sendet rund um die Uhr.
+
+  Le *studio* dispose d'une cuisine équipée et d'une salle de bains.
+  Die Einzimmer*wohnung* verfügt über eine eingerichtete Küche und ein Bad.
+
+  Les artistes partagent un grand *studio* dans le quartier des arts.
+  Die Künstler teilen sich ein großes *Atelier* im Künstlerviertel.
+
+  Le *studio* 28 projette des films d'art et d'essai.
+  Das *Studio* 28 zeigt Arthouse-Filme.
+
+  Les *studios* d'Hollywood ont produit de nombreux films célèbres.
+  Die Hollywood-*Studios* haben viele berühmte Filme produziert.
+
+  La régie du *studio* contrôle tous les aspects techniques de l'émission.
+  Die Regie des *Studios* kontrolliert alle technischen Aspekte der Sendung.
+
+  Les étudiants cherchent souvent des *studios* meublés.
+  Studierende suchen oft möblierte Einzimmer*wohnungen*.
+
+  Le *studio* graphique créera la nouvelle identité visuelle de l'entreprise.
+  Das Design*studio* wird die neue visuelle Identität des Unternehmens erstellen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

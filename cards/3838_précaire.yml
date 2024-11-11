@@ -13,14 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le futur de leurs fils devient précaire.
-  Die Zukunft ihrer Söhne wird unsicher.
+  Le futur de leurs fils devient *précaire*.
+  Die Zukunft ihrer Söhne wird *ungewiss*.
 
-  Sa situation financière est précaire.
-  Seine finanzielle Situation ist unsicher.
+  Sa *précaire* situation financière ne lui permet pas de partir en vacances.
+  Seine *prekäre* finanzielle Situation erlaubt es ihm nicht, in den Urlaub zu fahren.
 
-  Il avait une possession précaire de la maison, car il ne l'avait louée que pour une courte période.
-  Er hatte einen mittelbaren Besitz des Hauses, da er es nur für kurze Zeit gemietet hatte.
+  L'équilibre *précaire* de notre écosystème nécessite une attention constante.
+  Das *labile* Gleichgewicht unseres Ökosystems erfordert ständige Aufmerksamkeit.
+
+  Mon contrat *précaire* se termine dans trois mois.
+  Mein *unsicherer* Vertrag endet in drei Monaten.
+
+  La paix reste *précaire* dans cette région du monde.
+  Der Frieden bleibt in dieser Region der Welt *labil*.
+
+  Le bonheur est une chose *précaire* qu'il faut savoir apprécier.
+  Das Glück ist eine *zerbrechliche* Sache, die man zu schätzen wissen muss.
+
+  La *précaire* détention du bien sera transférée au nouveau locataire.
+  Der *mittelbare* Besitz des Gutes wird auf den neuen Mieter übertragen.
+
+  Les conditions de travail sont devenues de plus en plus *précaires*.
+  Die Arbeitsbedingungen sind immer *unsicherer* geworden.
+
+  Cette entreprise n'embauche que des travailleurs *précaires*.
+  Diese Firma stellt nur Arbeiter mit *unsicheren* Jobs ein.
+
+  L'abri *précaire* ne les protégeait pas suffisamment du froid.
+  Die *unsichere* Unterkunft schützte sie nicht ausreichend vor der Kälte.
+
+  Sa santé *précaire* l'empêche de travailler à temps plein.
+  Seine *labile* Gesundheit hindert ihn daran, Vollzeit zu arbeiten.
+
+  L'autorisation *précaire* d'occupation peut être révoquée à tout moment.
+  Die *widerrufliche* Nutzungsgenehmigung kann jederzeit zurückgezogen werden.
+
+  La possession *précaire* du terrain fait l'objet d'un litige.
+  Der *mittelbare* Besitz des Grundstücks ist Gegenstand eines Rechtsstreits.
+
+  Les étudiants vivent dans des conditions très *précaires*.
+  Die Studenten leben unter sehr *unsicheren* Bedingungen.
+
+  Son pouvoir *précaire* dépend entièrement du soutien populaire.
+  Seine *unsichere* Macht hängt völlig von der Unterstützung des Volkes ab.
+
+  La situation devient de plus en plus *précaire* pour les petits commerces.
+  Die Situation wird für kleine Geschäfte immer *prekärer*.
+
+  L'état *précaire* du bâtiment inquiète les habitants.
+  Der *unsichere* Zustand des Gebäudes beunruhigt die Bewohner.
+
+  Une santé mentale *précaire* nécessite un suivi régulier.
+  Eine *labile* psychische Gesundheit erfordert regelmäßige Betreuung.
+
+  Le statut *précaire* des réfugiés complique leur intégration.
+  Der *unsichere* Status der Flüchtlinge erschwert ihre Integration.
+
+  Son emploi *précaire* l'empêche d'obtenir un prêt bancaire.
+  Sein *unsicherer* Job hindert ihn daran, einen Bankkredit zu bekommen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

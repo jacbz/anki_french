@@ -13,17 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle m’a torturée mentalement toute l’année.
-  Sie hat mich das ganze Jahr über mental gequält.
+  Elle m'a *torturée* mentalement toute l'année.
+  Sie hat mich das ganze Jahr lang psychisch *gequält*.
 
-  Les prisonniers ont été torturés.
-  Die Gefangenen wurden gefoltert.
+  Les remords le *torturaient* jour et nuit.
+  Die Gewissensbisse *plagten* ihn Tag und Nacht.
 
-  Il était torturé par la culpabilité de ses actes.
-  Er war durch die Schuldgefühle seiner Taten entstellt.
+  Il se *torturait* l'esprit pour trouver une solution à ce problème complexe.
+  Er *zermarterte* sich das Hirn, um eine Lösung für dieses komplexe Problem zu finden.
 
-  Elle se torturait l'esprit pour trouver une solution au problème.
-  Sie zerbrach sich den Kopf, um eine Lösung für das Problem zu finden.
+  Les prisonniers ont été *torturés* pendant des jours.
+  Die Gefangenen wurden tagelang *gefoltert*.
+
+  La faim *torturait* les réfugiés dans le camp.
+  Der Hunger *quälte* die Flüchtlinge im Lager.
+
+  Le doute *torture* mon âme depuis des semaines.
+  Der Zweifel *plagt* meine Seele seit Wochen.
+
+  Son visage était *torturé* par la douleur.
+  Sein Gesicht war vom Schmerz *entstellt*.
+
+  Ne *torturez* pas le chat, laissez-le tranquille !
+  *Quält* die Katze nicht, lasst sie in Ruhe!
+
+  La jalousie *torturait* son cœur chaque fois qu'il la voyait avec un autre.
+  Die Eifersucht *plagte* sein Herz jedes Mal, wenn er sie mit einem anderen sah.
+
+  Je me *torture* la mémoire pour me rappeler son nom.
+  Ich *zerbreche* mir den Kopf, um mich an ihren Namen zu erinnern.
+
+  L'auteur a complètement *torturé* le sens du texte original.
+  Der Autor hat den Sinn des Originaltextes völlig *entstellt*.
+
+  Les souvenirs *torturent* son esprit chaque nuit.
+  Die Erinnerungen *plagen* seinen Geist jede Nacht.
+
+  Il ne faut pas *torturer* les mots pour leur faire dire ce qu'on veut.
+  Man darf die Worte nicht *verdrehen*, um sie sagen zu lassen, was man will.
+
+  La soif *torturait* les survivants dans le désert.
+  Der Durst *quälte* die Überlebenden in der Wüste.
+
+  Son visage *torturé* révélait sa profonde angoisse.
+  Sein *entstelltes* Gesicht zeigte seine tiefe Angst.
+
+  Elle se *torturait* les méninges pour résoudre l'énigme.
+  Sie *zermarterte* sich das Hirn, um das Rätsel zu lösen.
+
+  Les questions difficiles *torturaient* les candidats pendant l'examen.
+  Die schwierigen Fragen *quälten* die Kandidaten während der Prüfung.
+
+  L'incertitude me *torture* depuis des jours.
+  Die Ungewissheit *plagt* mich seit Tagen.
+
+  Les criminels ont *torturé* leurs victimes sans pitié.
+  Die Verbrecher haben ihre Opfer erbarmungslos *gefoltert*.
+
+  Cette pensée me *torture* depuis notre dernière conversation.
+  Dieser Gedanke *quält* mich seit unserem letzten Gespräch.
+
+  Je me *torture* l'esprit pour comprendre son comportement.
+  Ich *zerbreche* mir den Kopf, um sein Verhalten zu verstehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

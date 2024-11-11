@@ -13,29 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Deux grandes tâches lui sont assignées.
-  Ihm werden zwei Hauptaufgaben zugewiesen.
+  Deux grandes tâches lui sont *assignées*.
+  Zwei große Aufgaben wurden ihr *zugewiesen*.
 
-  Le juge a assigné le témoin à comparaître.
-  Der Richter hat den Zeugen vorgeladen.
+  Le professeur *assigne* un projet à chaque groupe d'élèves.
+  Der Lehrer *weist* jeder Schülergruppe ein Projekt *zu*.
 
-  Le réalisateur a assigné un rôle important à Jean dans le film.
-  Der Regisseur hat Jean eine wichtige Rolle im Film zugewiesen.
+  Le juge a *assigné* Marie à résidence pendant l'enquête.
+  Der Richter hat Marie während der Ermittlungen unter Haus*arrest* gestellt.
 
-  Les experts ont assigné la cause de l'incendie à un court-circuit.
-  Die Experten haben den Brand einem Kurzschluss zugeschrieben.
+  On lui a *assigné* un nouveau rôle dans l'entreprise.
+  Man hat ihr eine neue Rolle im Unternehmen *zugewiesen*.
 
-  Après son arrestation, le suspect a été assigné à résidence.
-  Nach seiner Verhaftung wurde der Verdächtige unter Hausarrest gestellt.
+  Les scientifiques ont *assigné* une cause précise à ce phénomène.
+  Die Wissenschaftler haben diesem Phänomen eine genaue Ursache *zugeschrieben*.
 
-  Il faut assigner une limite au nombre de participants à la manifestation.
-  Es muss eine Begrenzung für die Anzahl der Teilnehmer an der Demonstration festgelegt werden.
+  Le directeur *assigne* des limites strictes au budget.
+  Der Direktor *setzt* strikte Grenzen für das Budget *fest*.
 
-  Le procureur a assigné le suspect en justice pour vol.
-  Der Staatsanwalt hat den Verdächtigen wegen Diebstahls vor Gericht zitiert.
+  L'huissier a *assigné* le témoin à comparaître devant le tribunal.
+  Der Gerichtsvollzieher hat den Zeugen vor*geladen*.
 
-  Le juge a assigné un témoin à comparaître au procès.
-  Der Richter hat einen Zeugen vor Gericht geladen.
+  La société *assigne* des fonds importants à la recherche.
+  Die Firma *weist* der Forschung bedeutende Mittel *zu*.
+
+  Le système *assigne* automatiquement une valeur à chaque variable.
+  Das System *ordnet* jeder Variable automatisch einen Wert *zu*.
+
+  On m'a *assigné* une place au premier rang.
+  Man hat mir einen Platz in der ersten Reihe *zugewiesen*.
+
+  Le ministère *assigne* des logements aux familles défavorisées.
+  Das Ministerium *weist* bedürftigen Familien Wohnungen *zu*.
+
+  La nature *assigne* à chaque espèce son territoire.
+  Die Natur *weist* jeder Art ihr Territorium *zu*.
+
+  Les parents *assignent* des tâches ménagères à leurs enfants.
+  Die Eltern *teilen* ihren Kindern Haushaltsaufgaben *zu*.
+
+  Le chef *assigne* à chacun ses responsabilités.
+  Der Chef *weist* jedem seine Verantwortlichkeiten *zu*.
+
+  L'université *assigne* des tuteurs aux nouveaux étudiants.
+  Die Universität *teilt* den neuen Studenten Tutoren *zu*.
+
+  Le département *assigne* des crédits à la rénovation des routes.
+  Die Abteilung *weist* Gelder für die Straßensanierung *zu*.
+
+  La loi *assigne* des droits et des devoirs aux citoyens.
+  Das Gesetz *weist* den Bürgern Rechte und Pflichten *zu*.
+
+  Le patron a *assigné* Pierre en justice pour rupture de contrat.
+  Der Chef hat Pierre wegen Vertragsbruch vor Gericht *geladen*.
+
+  L'architecte *assigne* une fonction spécifique à chaque pièce.
+  Der Architekt *weist* jedem Raum eine spezifische Funktion *zu*.
+
+  Le comité *assigne* des objectifs précis à chaque département.
+  Das Komitee *weist* jeder Abteilung präzise Ziele *zu*.
+
+  La société *assigne* un mentor à chaque nouveau collaborateur.
+  Die Firma *teilt* jedem neuen Mitarbeiter einen Mentor *zu*.
+
+  On lui a *assigné* une mission délicate à l'étranger.
+  Man hat ihm einen heiklen Auftrag im Ausland *zugewiesen*.
+
+  Le destin lui avait *assigné* un rôle important dans cette affaire.
+  Das Schicksal hatte ihm eine wichtige Rolle in dieser Sache *zugedacht*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

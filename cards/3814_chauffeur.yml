@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le chauffeur du véhicule n’a pas été identifié.
-  Der Fahrer des Fahrzeugs wurde nicht identifiziert.
+  Le *chauffeur* du véhicule n'a pas été identifié.
+  Der *Fahrer* des Fahrzeugs konnte nicht identifiziert werden.
 
-  Le chauffeur de taxi nous a emmenés à l’aéroport.
-  Der Taxifahrer hat uns zum Flughafen gebracht.
+  La *chauffeuse* de taxi nous a raconté des histoires intéressantes pendant le trajet.
+  Die Taxi*fahrerin* hat uns während der Fahrt interessante Geschichten erzählt.
 
-  Marie est une conductrice routière chevronnée, qui sillonne les routes de la France et de l'Europe.
-  Marie ist eine erfahrene Fernfahrerin, die die Straßen Frankreichs und Europas befährt.
+  Mon frère est *chauffeur* routier et parcourt toute l'Europe.
+  Mein Bruder ist *Fernfahrer* und fährt durch ganz Europa.
 
-  Jean est un chauffeur du dimanche, qui prend le volant uniquement pour aller au supermarché.
-  Jean ist ein Sonntagsfahrer, der nur zum Einkaufen ins Supermarkt fährt.
+  "Je ne suis pas ton *chauffeur* personnel !" s'est plaint Paul à sa sœur.
+  "Ich bin nicht dein persönlicher *Chauffeur*!" beschwerte sich Paul bei seiner Schwester.
+
+  Ce *chauffeur* de camion a plus de vingt ans d'expérience.
+  Dieser Lkw-*Fahrer* hat über zwanzig Jahre Erfahrung.
+
+  Les *chauffeurs* doivent respecter les temps de pause obligatoires.
+  Die *Fahrer* müssen die vorgeschriebenen Pausenzeiten einhalten.
+
+  La compagnie recherche des *chauffeurs* professionnels pour ses nouveaux bus.
+  Das Unternehmen sucht professionelle *Fahrer* für seine neuen Busse.
+
+  Notre *chauffeur* de maître travaille pour notre famille depuis dix ans.
+  Unser *Chauffeur* arbeitet seit zehn Jahren für unsere Familie.
+
+  Les *chauffeurs* livreurs commencent leur travail très tôt le matin.
+  Die Liefer*fahrer* beginnen ihre Arbeit sehr früh am Morgen.
+
+  Marc sera notre *chauffeur* pour aller au mariage samedi.
+  Marc wird am Samstag unser *Fahrer* zur Hochzeit sein.
+
+  La nouvelle *chauffeuse* de bus est très appréciée par les passagers.
+  Die neue Bus*fahrerin* ist bei den Fahrgästen sehr beliebt.
+
+  Les *chauffeurs* de locomotive à vapeur devaient constamment surveiller le feu.
+  Die Dampflok*führer* mussten ständig das Feuer überwachen.
+
+  Un bon *chauffeur* doit toujours rester attentif sur la route.
+  Ein guter Auto*fahrer* muss auf der Straße immer aufmerksam bleiben.
+
+  Ce *chauffeur* du dimanche ne sait même pas faire un créneau !
+  Dieser Sonntags*fahrer* kann nicht einmal einparken!
+
+  Notre ancien *chauffeur* de taxi connaissait toutes les rues de la ville.
+  Unser ehemaliger Taxi*fahrer* kannte alle Straßen der Stadt.
+
+  Le *chauffeur* nous déposera devant l'hôtel à huit heures précises.
+  Der *Chauffeur* wird uns um Punkt acht Uhr vor dem Hotel absetzen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

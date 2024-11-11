@@ -13,14 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il n’est nullement indispensable.
-  Er ist keineswegs unverzichtbar.
+  Il n'est *nullement* indispensable.
+  Es ist *keineswegs* unerlässlich.
 
-  Je ne suis nullement intéressé.
-  Ich bin überhaupt nicht interessiert.
+  Je n'ai *nullement* l'intention de démissionner.
+  Ich habe *keinerlei* Absicht zu kündigen.
 
-  Elle a obtenu son diplôme sans nullement faire d'efforts.
-  Sie hat ihren Abschluss bekommen, ohne sich in irgendeiner Weise anzustrengen.
+  Cette décision ne me dérange *nullement*.
+  Diese Entscheidung stört mich *überhaupt nicht*.
+
+  Elle n'était *nullement* satisfaite du résultat.
+  Sie war mit dem Ergebnis *in keiner Weise* zufrieden.
+
+  Il n'est *nullement* question de partir maintenant.
+  Es kommt *keinesfalls* in Frage, jetzt zu gehen.
+
+  Son retard ne m'inquiète *nullement*.
+  Seine Verspätung beunruhigt mich *nicht im Geringsten*.
+
+  Ce commentaire n'a *nullement* affecté notre amitié.
+  Dieser Kommentar hat unsere Freundschaft *in keinster Weise* beeinträchtigt.
+
+  "Vous croyez qu'il dit la vérité ?" - "*Nullement*."
+  "Glauben Sie, dass er die Wahrheit sagt?" - "*Keineswegs*."
+
+  Il a continué sans *nullement* tenir compte de mes avertissements.
+  Er machte weiter, ohne *auch nur im Geringsten* auf meine Warnungen zu achten.
+
+  Cette explication n'est *nullement* convaincante.
+  Diese Erklärung ist *ganz und gar nicht* überzeugend.
+
+  Son comportement n'était *nullement* approprié à la situation.
+  Sein Verhalten war der Situation *in keiner Weise* angemessen.
+
+  Ce changement ne m'a *nullement* surpris.
+  Diese Veränderung hat mich *überhaupt nicht* überrascht.
+
+  Elle n'est *nullement* responsable de cet accident.
+  Sie ist an diesem Unfall *in keinster Weise* schuld.
+
+  Nous ne sommes *nullement* obligés d'accepter ces conditions.
+  Wir sind *keineswegs* verpflichtet, diese Bedingungen zu akzeptieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

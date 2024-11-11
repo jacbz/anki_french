@@ -13,20 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis allée aux archives.
-  Ich ging ins Archiv.
+  Je suis allée aux *archives*.
+  Ich bin ins *Archiv* gegangen.
 
-  Les archives nationales sont situées à Paris.
-  Die Nationalarchive befinden sich in Paris.
+  Les *archives* municipales conservent des documents historiques importants.
+  Das Stadt*archiv* bewahrt wichtige historische Dokumente auf.
 
-  Mes archives personnelles sont précieuses pour moi.
-  Mein Privatarchiv ist mir sehr wichtig.
+  Ces *archives* personnelles contiennent des lettres de ma grand-mère.
+  Dieses private *Archiv* enthält Briefe meiner Großmutter.
 
-  La science des archives est un domaine passionnant.
-  Das Archivwesen ist ein spannendes Gebiet.
+  La science des *archives* nécessite beaucoup de précision.
+  Das *Archiv*wesen erfordert große Genauigkeit.
 
-  Les Archives nationales conservent des documents historiques importants.
-  Das Nationalarchiv bewahrt wichtige historische Dokumente.
+  Les *Archives* nationales ont numérisé de nombreux documents anciens.
+  Das National*archiv* hat viele alte Dokumente digitalisiert.
+
+  Marie travaille comme conservatrice aux *archives* départementales.
+  Marie arbeitet als Konservatorin im Landes*archiv*.
+
+  Le documentaire contient des images d'*archives* de la Seconde Guerre mondiale.
+  Die Dokumentation enthält *Archiv*aufnahmen aus dem Zweiten Weltkrieg.
+
+  L'entreprise a transféré ses *archives* dans un nouveau bâtiment.
+  Die Firma hat ihr *Archiv* in ein neues Gebäude verlegt.
+
+  Les chercheurs consultent régulièrement les *archives* royales.
+  Die Forscher konsultieren regelmäßig das königliche *Archiv*.
+
+  Le monastère possède des *archives* remontant au Moyen Âge.
+  Das Kloster besitzt ein *Archiv* das bis ins Mittelalter zurückreicht.
+
+  Les *archives* du journal sont désormais accessibles en ligne.
+  Das Zeitungs*archiv* ist jetzt online zugänglich.
+
+  Elle a passé des heures à fouiller dans les *archives* familiales.
+  Sie hat stundenlang im Familien*archiv* gestöbert.
+
+  L'université conserve précieusement ses *archives* depuis sa fondation.
+  Die Universität bewahrt ihr *Archiv* seit ihrer Gründung sorgfältig auf.
+
+  "Tu devrais mettre ça dans tes *archives*!"
+  "Das solltest du in deinem *Archiv* aufbewahren!"
+
+  Les *archives* locales ont été endommagées pendant l'inondation.
+  Das lokale *Archiv* wurde während der Überschwemmung beschädigt.
+
+  Le système informatique sauvegarde automatiquement les *archives*.
+  Das Computersystem sichert automatisch die *Archive*.
+
+  Les *archives* de l'abbaye contiennent des manuscrits rares.
+  Das *Archiv* der Abtei enthält seltene Manuskripte.
+
+  Ces *archives* photographiques témoignent de l'histoire de notre ville.
+  Dieses Foto*archiv* zeugt von der Geschichte unserer Stadt.
+
+  "C'est bon pour les *archives*," dit-il avec dédain.
+  "Das ist nur noch fürs *Archiv* gut," sagte er verächtlich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

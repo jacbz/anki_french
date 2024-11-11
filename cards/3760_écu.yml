@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Plus de 100 millions d’écus seront gaspillés.
-  Mehr als 100 Millionen ECU werden verschwendet.
+  Plus de 100 millions d'*écus* seront gaspillés.
+  Mehr als 100 Millionen *ECU* werden verschwendet werden.
 
-  Le roi avait son écu sur son bouclier.
-  Der König hatte sein Wappen auf seinem Schild.
+  "Mon fils, promets-moi d'être sage avec tes *écus*."
+  "Mein Sohn, versprich mir, dass du vernünftig mit deinem *Geld* umgehst."
+
+  Le chevalier portait un *écu* orné de lions.
+  Der Ritter trug einen mit Löwen verzierten *Schild*.
+
+  Il n'avait pas un *écu* vaillant dans sa poche.
+  Er hatte keinen einzigen *Taler* in der Tasche.
+
+  L'*écu* de France comportait trois fleurs de lys.
+  Das französische *Wappen* zeigte drei Lilien.
+
+  Les marchands comptaient leurs *écus* sonnants et trébuchants.
+  Die Händler zählten ihre klingenden *Taler*.
+
+  On peut encore voir son *écu* sur le mur du château.
+  Man kann sein *Wappenschild* noch an der Schlossmauer sehen.
+
+  Il a amassé *écu* sur *écu* pendant des années.
+  Er hat jahrelang *Taler* um *Taler* angehäuft.
+
+  Son *écu* était percé de nombreuses flèches.
+  Sein *Schild* war von vielen Pfeilen durchbohrt.
+
+  Avant l'euro, les transactions se faisaient en *écus*.
+  Vor dem Euro wurden die Transaktionen in *ECU* durchgeführt.
+
+  Le roi Louis XIV a fait frapper des *écus* en argent.
+  König Ludwig XIV. ließ silberne *Taler* prägen.
+
+  L'*écu* constitutionnel de 1792 portait des symboles révolutionnaires.
+  Der konstitutionelle *Taler* von 1792 trug revolutionäre Symbole.
+
+  Les chevaliers s'entraînaient au combat avec lance et *écu*.
+  Die Ritter übten den Kampf mit Lanze und *Schild*.
+
+  L'*écu* royal était sculpté au-dessus de la porte principale.
+  Das königliche *Wappen* war über dem Haupttor eingemeißelt.
+
+  Au Moyen Âge, chaque noble avait son propre *écu*.
+  Im Mittelalter hatte jeder Adlige sein eigenes *Wappenschild*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

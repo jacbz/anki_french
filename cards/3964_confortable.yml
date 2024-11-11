@@ -13,26 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce canapé n’est pas très confortable.
-  Das Sofa ist nicht sehr bequem.
+  Ce canapé n'est pas très *confortable*.
+  Dieses Sofa ist nicht sehr *bequem*.
 
-  Ce canapé est très confortable.
-  Dieses Sofa ist sehr bequem.
+  J'ai acheté des vêtements *confortables* pour mon voyage.
+  Ich habe *bequeme* Kleidung für meine Reise gekauft.
 
-  Ce lit est très confortable.
-  Das Bett ist sehr bequem.
+  Notre nouvelle voiture est très *confortable* sur l'autoroute.
+  Unser neues Auto ist sehr *komfortabel* auf der Autobahn.
 
-  Cette chaise est très confortable.
-  Dieser Stuhl ist sehr bequem.
+  Ce tissu est vraiment *confortable* contre la peau.
+  Dieser Stoff fühlt sich auf der Haut wirklich *angenehm* an.
 
-  Mon appartement est plus confortable que le tien.
-  Meine Wohnung ist komfortabler als deine.
+  Ils mènent une vie très *confortable* depuis leur déménagement.
+  Sie führen seit ihrem Umzug ein sehr *angenehmes* Leben.
 
-  Il a mené une vie confortable et paisible.
-  Er führte ein angenehmes und ruhiges Leben.
+  Son nouveau poste lui assure une situation *confortable*.
+  Seine neue Stelle bietet ihm eine finanziell *gesicherte* Position.
 
-  Il avait trouvé une situation confortable et bien rémunérée.
-  Er hatte eine angenehme und gut bezahlte Stelle gefunden.
+  Il gagne un salaire *confortable* dans sa nouvelle entreprise.
+  Er verdient ein *ordentliches* Gehalt in seiner neuen Firma.
+
+  L'équipe a pris une avance *confortable* avant la mi-temps.
+  Die Mannschaft hat einen *beachtlichen* Vorsprung vor der Halbzeit herausgeholt.
+
+  "Tu es *confortable* dans ce fauteuil ?"
+  "Sitzt du *bequem* in diesem Sessel?"
+
+  Les retraités bénéficient d'une pension *confortable*.
+  Die Rentner beziehen eine *ordentliche* Rente.
+
+  L'hôtel propose des chambres très *confortables* à ses clients.
+  Das Hotel bietet seinen Gästen sehr *komfortable* Zimmer an.
+
+  Ce lit *confortable* me donne envie de dormir.
+  Dieses *bequeme* Bett macht mich schläfrig.
+
+  L'avion dispose de sièges particulièrement *confortables*.
+  Das Flugzeug verfügt über besonders *komfortable* Sitze.
+
+  Grâce à ses intérêts bancaires *confortables*, elle peut voyager souvent.
+  Dank ihrer *ordentlichen* Bankzinsen kann sie oft reisen.
+
+  Ma grand-mère cherche un fauteuil plus *confortable* pour son salon.
+  Meine Großmutter sucht einen *bequemeren* Sessel für ihr Wohnzimmer.
+
+  Cette maison *confortable* nous plaît beaucoup.
+  Dieses *komfortable* Haus gefällt uns sehr.
+
+  Les employés apprécient leur nouvelle situation *confortable*.
+  Die Mitarbeiter schätzen ihre neue *gesicherte* Situation.
+
+  Son appartement est devenu plus *confortable* après les rénovations.
+  Seine Wohnung ist nach den Renovierungen *komfortabler* geworden.
+
+  Cette décision nous met dans une position peu *confortable*.
+  Diese Entscheidung bringt uns in eine wenig *angenehme* Lage.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

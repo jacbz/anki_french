@@ -13,17 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le brouillard descendit des montagnes, masquant le coucher de soleil.
-  Der Nebel kam von den Bergen herunter und verdeckte den Sonnenuntergang.
+  Le brouillard descendit des montagnes, *masquant* le coucher de soleil.
+  Der Nebel stieg von den Bergen herab und *verdeckte* den Sonnenuntergang.
 
-  Il essaie de masquer sa tristesse.
-  Er versucht, seine Traurigkeit zu verbergen.
+  Les grands immeubles *masquent* la vue sur la mer.
+  Die großen Gebäude *verdecken* die Sicht aufs Meer.
 
-  Le bandit s'est masqué derrière un arbre pour attendre le moment opportun.
-  Der Bandit hat sich hinter einem Baum versteckt, um den richtigen Moment abzuwarten.
+  Les enfants se sont *masqués* pour la fête de carnaval.
+  Die Kinder haben sich für die Karnevalsfeier *maskiert*.
 
-  La jeune fille s'est masqué le visage avec un foulard.
-  Die junge Frau hat ihr Gesicht mit einem Schal bedeckt.
+  Cette sauce forte *masque* complètement le goût délicat du poisson.
+  Diese starke Soße *überdeckt* den feinen Fischgeschmack völlig.
+
+  Un groupe d'arbres *masque* l'entrée de la grotte.
+  Eine Gruppe von Bäumen *verdeckt* den Höhleneingang.
+
+  Le paravent chinois *masque* élégamment le coin bureau.
+  Der chinesische Paravent *verdeckt* geschmackvoll die Arbeitsecke.
+
+  Pour Halloween, Marie s'est *masqué* le visage avec un masque effrayant.
+  Zu Halloween hat Marie ihr Gesicht mit einer gruseligen Maske *bedeckt*.
+
+  Il essaie de *masquer* sa tristesse derrière un sourire.
+  Er versucht seine Traurigkeit hinter einem Lächeln zu *verbergen*.
+
+  Des voleurs *masqués* ont attaqué la banque hier soir.
+  *Maskierte* Räuber haben gestern Abend die Bank überfallen.
+
+  La musique forte *masque* les bruits de la rue.
+  Die laute Musik *überdeckt* die Straßengeräusche.
+
+  Elle se *masque* toujours derrière son travail pour éviter les relations.
+  Sie *versteckt* sich immer hinter ihrer Arbeit, um Beziehungen zu vermeiden.
+
+  Le parfum intense *masque* l'odeur de cuisine.
+  Das intensive Parfüm *überdeckt* den Küchengeruch.
+
+  Les soldats ont *masqué* leur position avec des branches.
+  Die Soldaten haben ihre Stellung mit Zweigen *getarnt*.
+
+  Un rideau épais *masque* la fenêtre.
+  Ein dicker Vorhang *verdeckt* das Fenster.
+
+  Les nuages *masquent* peu à peu la lune.
+  Die Wolken *verdecken* nach und nach den Mond.
+
+  Pourquoi *masques*-tu toujours tes véritables intentions ?
+  Warum *verheimlichst* du immer deine wahren Absichten?
+
+  L'équipe a *masqué* les données sensibles dans le document.
+  Das Team hat die sensiblen Daten im Dokument *ausgeblendet*.
+
+  Le maquillage *masque* ses cernes.
+  Das Make-up *verdeckt* ihre Augenringe.
+
+  Une porte *masquée* mène au jardin secret.
+  Eine *verborgene* Tür führt zum geheimen Garten.
+
+  Les danseurs se sont *masqués* pour le bal costumé.
+  Die Tänzer haben sich für den Maskenball *maskiert*.
+
+  Le gouvernement essaie de *masquer* la gravité de la situation.
+  Die Regierung versucht den Ernst der Lage zu *verschleiern*.
+
+  La neige *masque* tous les défauts du paysage.
+  Der Schnee *verdeckt* alle Mängel der Landschaft.
+
+  Ces rideaux peuvent *masquer* la lumière du jour.
+  Diese Vorhänge können das Tageslicht *abdunkeln*.
+
+  Le grand navire *masque* le vent aux petits bateaux.
+  Das große Schiff *nimmt* den kleinen Booten den Wind *weg*.
+
+  Les médias tentent de *masquer* la vérité au public.
+  Die Medien versuchen, die Wahrheit vor der Öffentlichkeit zu *verbergen*.
+
+  Elle s'est *masquée* derrière un pseudonyme sur internet.
+  Sie hat sich im Internet hinter einem Pseudonym *versteckt*.
+
+  Le bruit de la cascade *masque* nos voix.
+  Das Rauschen des Wasserfalls *überdeckt* unsere Stimmen.
+
+  Le chef a *masqué* le plat d'une sauce crémeuse.
+  Der Koch hat das Gericht mit einer cremigen Sauce *überzogen*.
+
+  Cette crème *masque* efficacement les imperfections de la peau.
+  Diese Creme *verdeckt* Hautunreinheiten effektiv.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

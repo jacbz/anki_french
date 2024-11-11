@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Notre système est crédible, reconnu mondialement.
-  Unser System ist glaubwürdig und weltweit anerkannt.
+  Notre système est *crédible*, reconnu mondialement.
+  Unser System ist *glaubwürdig* und weltweit anerkannt.
 
-  Cette histoire n’est pas crédible.
-  Diese Geschichte ist nicht glaubwürdig.
+  Cette histoire n'est pas du tout *crédible*.
+  Diese Geschichte ist überhaupt nicht *glaubhaft*.
+
+  Son témoignage devant le tribunal était parfaitement *crédible*.
+  Seine Aussage vor Gericht war absolut *glaubwürdig*.
+
+  Aucune de ses excuses n'était *crédible*.
+  Keine seiner Ausreden war *glaubhaft*.
+
+  Une source *crédible* a confirmé cette information.
+  Eine *glaubwürdige* Quelle hat diese Information bestätigt.
+
+  Cette théorie devient de plus en plus *crédible*.
+  Diese Theorie wird immer *glaubwürdiger*.
+
+  Les experts ont jugé cette explication peu *crédible*.
+  Die Experten hielten diese Erklärung für wenig *glaubwürdig*.
+
+  Sa version des faits reste *crédible* malgré les contradictions.
+  Seine Version der Geschichte bleibt trotz der Widersprüche *glaubhaft*.
+
+  L'hypothèse la plus *crédible* est celle d'un accident.
+  Die *glaubwürdigste* Hypothese ist die eines Unfalls.
+
+  Il cherche une solution *crédible* à ce problème.
+  Er sucht nach einer *glaubwürdigen* Lösung für dieses Problem.
+
+  Cette alternative n'est pas *crédible* à long terme.
+  Diese Alternative ist langfristig nicht *glaubwürdig*.
+
+  L'enquête a révélé plusieurs pistes *crédibles*.
+  Die Untersuchung brachte mehrere *glaubwürdige* Spuren ans Licht.
+
+  Ces preuves rendent son alibi tout à fait *crédible*.
+  Diese Beweise machen sein Alibi völlig *glaubhaft*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

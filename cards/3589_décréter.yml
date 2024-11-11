@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le gouvernement a décrété un deuil de sept jours.
-  Die Regierung ordnete eine siebentägige Trauerzeit an.
+  Le gouvernement a *décrété* un deuil de sept jours.
+  Die Regierung hat eine siebentägige Staatstrauer *angeordnet*.
 
-  Le président a décrété une nouvelle loi.
-  Der Präsident hat ein neues Gesetz erlassen.
+  Le ministre de l'Éducation a *décrété* que tous les élèves devaient porter un uniforme.
+  Der Bildungsminister hat *verfügt*, dass alle Schüler eine Uniform tragen müssen.
 
-  Le gouvernement a décrété que tous les citoyens doivent porter un masque dans les lieux publics.
-  Die Regierung hat beschlossen, dass alle Bürger in der Öffentlichkeit einen Mundschutz tragen müssen.
+  Face à la crise, le président a *décrété* l'état d'urgence dans tout le pays.
+  Angesichts der Krise hat der Präsident den Notstand im ganzen Land *verhängt*.
 
-  L'amour ne se décrète pas, il se vit.
-  Liebe lässt sich nicht erzwingen, sie muss gelebt werden.
+  On ne peut pas *décréter* l'amour, il doit venir naturellement.
+  Liebe lässt sich nicht *erzwingen*, sie muss von selbst kommen.
+
+  Les autorités ont *décrété* un couvre-feu à partir de 22 heures.
+  Die Behörden haben ab 22 Uhr eine Ausgangssperre *verordnet*.
+
+  Sans discussion, elle a *décrété* que nous partirions le lendemain.
+  Ohne Diskussion hat sie *beschlossen*, dass wir am nächsten Tag aufbrechen würden.
+
+  Le conseil municipal a *décrété* l'interdiction de fumer dans les parcs publics.
+  Der Stadtrat hat das Rauchverbot in öffentlichen Parks *erlassen*.
+
+  Le bonheur ne se *décrète* pas, il se construit jour après jour.
+  Glück lässt sich nicht *erzwingen*, es wird Tag für Tag aufgebaut.
+
+  Le nouveau directeur a *décrété* que les réunions auraient lieu chaque lundi.
+  Der neue Direktor hat *bestimmt*, dass die Besprechungen jeden Montag stattfinden.
+
+  Suite aux inondations, la mairie a *décrété* la fermeture des écoles.
+  Aufgrund der Überschwemmungen hat das Rathaus die Schließung der Schulen *verfügt*.
+
+  Les Nations Unies ont *décrété* un embargo commercial contre ce pays.
+  Die Vereinten Nationen haben ein Handelsembargo gegen dieses Land *verhängt*.
+
+  Mon père a *décrété* que nous mangerions des légumes tous les soirs.
+  Mein Vater hat *beschlossen*, dass wir jeden Abend Gemüse essen würden.
+
+  Le parlement a *décrété* de nouvelles mesures pour protéger l'environnement.
+  Das Parlament hat neue Maßnahmen zum Umweltschutz *erlassen*.
+
+  La confiance ne se *décrète* pas, elle se gagne avec le temps.
+  Vertrauen lässt sich nicht *erzwingen*, es wird mit der Zeit gewonnen.
+
+  L'assemblée a *décrété* la dissolution immédiate du comité.
+  Die Versammlung hat die sofortige Auflösung des Ausschusses *beschlossen*.
+
+  Les médecins ont *décrété* qu'il devait arrêter de travailler pendant un mois.
+  Die Ärzte haben *verfügt*, dass er einen Monat lang nicht arbeiten darf.
+
+  Sans hésiter, elle a *décrété* que la réunion était terminée.
+  Ohne zu zögern hat sie *bestimmt*, dass die Sitzung beendet sei.
+
+  Le ministère de la Santé a *décrété* l'obligation du port du masque.
+  Das Gesundheitsministerium hat die Maskenpflicht *verordnet*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,20 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il voulait quitter sa ville natale.
-  Er wollte seine Heimatstadt verlassen.
+  Il voulait quitter sa ville *natale*.
+  Er wollte seine *Geburts*stadt verlassen.
 
-  Les décorations natales sont magnifiques.
-  Die Weihnachtsdekorationen sind wunderschön.
+  La langue *natale* de Marie est le français.
+  Maries *Mutter*sprache ist Französisch.
 
-  C'est dans sa maison natale qu'il a passé son enfance.
-  In seinem Geburtshaus hat er seine Kindheit verbracht.
+  Je suis retourné dans ma terre *natale* après vingt ans d'absence.
+  Nach zwanzig Jahren Abwesenheit bin ich in meine *Heimat* zurückgekehrt.
 
-  Le français est sa langue natale.
-  Französisch ist seine Muttersprache.
+  Elle a transformé sa maison *natale* en musée.
+  Sie hat ihr *Geburts*haus in ein Museum verwandelt.
 
-  Après des années d'exil, il est retourné dans son Allemagne natale.
-  Nach Jahren im Exil ist er in seine Heimat Deutschland zurückgekehrt.
+  L'architecte a restauré la demeure *natale* de Victor Hugo.
+  Der Architekt hat Victor Hugos *Geburts*haus restauriert.
+
+  Les touristes visitent souvent la région *natale* de Mozart.
+  Die Touristen besuchen oft Mozarts *Heimat*region.
+
+  Mon père n'a jamais oublié son Italie *natale*.
+  Mein Vater hat seine *Heimat* Italien nie vergessen.
+
+  Cette écrivaine célèbre a fait don de sa maison *natale* à la ville.
+  Diese berühmte Schriftstellerin hat ihr *Geburts*haus der Stadt geschenkt.
+
+  Il enseigne sa langue *natale* aux étudiants étrangers.
+  Er unterrichtet seine *Mutter*sprache für ausländische Studenten.
+
+  La ville a restauré la rue *natale* du compositeur.
+  Die Stadt hat die *Geburts*straße des Komponisten renoviert.
+
+  Nous avons visité le village *natal* de mes grands-parents.
+  Wir haben das *Heimat*dorf meiner Großeltern besucht.
+
+  Elle a conservé l'accent de sa région *natale*.
+  Sie hat den Akzent ihrer *Heimat*region behalten.
+
+  Le poète évoque souvent sa terre *natale* dans ses œuvres.
+  Der Dichter erwähnt oft seine *Heimat* in seinen Werken.
+
+  Les immigrants gardent un fort attachement à leur pays *natal*.
+  Die Einwanderer haben eine starke Bindung an ihr *Heimat*land.
+
+  La maison *natale* de Beethoven attire de nombreux visiteurs.
+  Beethovens *Geburts*haus zieht viele Besucher an.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

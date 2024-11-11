@@ -13,11 +13,47 @@ Register: ↗Fiktion ↘Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est grand-père qui me l’a fait comprendre.
-  Es war Großvater, der mir das vermittelt hat.
+  C'est *grand-père* qui me l'a fait comprendre.
+  Mein *Opa* hat es mir verständlich gemacht.
 
-  Mon grand-père est très gentil.
-  Mein Großvater ist sehr nett.
+  Mon *grand-père* paternel est décédé avant ma naissance.
+  Mein väterlicher *Großvater* ist vor meiner Geburt gestorben.
+
+  "Salut *grand-père*, comment vas-tu aujourd'hui ?"
+  "Hallo *Opa*, wie geht es dir heute?"
+
+  Les *grands-pères* d'aujourd'hui sont souvent plus actifs qu'autrefois.
+  Die *Großväter* von heute sind oft aktiver als früher.
+
+  Mon *grand-père* maternel m'a appris à jouer aux échecs.
+  Mein mütterlicher *Großvater* hat mir Schach spielen beigebracht.
+
+  Un vieux monsieur garde les enfants dans le parc : il fait un parfait *grand-père*.
+  Ein alter Herr passt im Park auf die Kinder auf: Er ist wie ein richtiger *Opa*.
+
+  Les deux *grands-pères* viendront à la fête d'anniversaire.
+  Beide *Großväter* werden zur Geburtstagsfeier kommen.
+
+  "Attends, *grand-père*, je vais t'aider à porter tes courses."
+  "Warte, *Opa*, ich helfe dir beim Tragen der Einkäufe."
+
+  Mon *grand-père* nous racontait toujours des histoires passionnantes.
+  Mein *Großvater* hat uns immer spannende Geschichten erzählt.
+
+  Je n'ai jamais connu mes *grands-pères*.
+  Ich habe meine *Großväter* nie kennengelernt.
+
+  "Regarde ce *grand-père* qui joue avec ses petits-enfants !"
+  "Schau mal den *Opa* an, der mit seinen Enkeln spielt!"
+
+  Les *grands-pères* ont souvent plus de patience que les parents.
+  *Großväter* haben oft mehr Geduld als Eltern.
+
+  Mon *grand-père* maternel vit toujours dans sa maison à la campagne.
+  Mein mütterlicher *Großvater* lebt immer noch in seinem Haus auf dem Land.
+
+  Tous les dimanches, nous allions voir notre *grand-père*.
+  Jeden Sonntag haben wir unseren *Opa* besucht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

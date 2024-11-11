@@ -13,14 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous avions une équipe très réduite.
-  Wir hatten nur ein sehr kleines Team.
+  Nous avions une équipe très *réduite*.
+  Wir hatten ein sehr *reduziertes* Team.
 
-  Il s’est caché dans son réduit.
-  Er hat sich in seinem Versteck versteckt.
+  Le train circulera à vitesse *réduite* pendant les travaux.
+  Der Zug wird während der Bauarbeiten mit *reduzierter* Geschwindigkeit fahren.
 
-  La tête du personnage, sculptée dans le bois, avait été réduite de façon disproportionnée.
-  Der Kopf der Figur, aus Holz geschnitzt, war auf unnatürliche Weise geschrumpft.
+  Il habite dans un *réduit* sombre au sous-sol.
+  Er wohnt in einer dunklen *Kammer* im Untergeschoss.
+
+  La nouvelle collection est disponible en format *réduit*.
+  Die neue Kollektion ist im *verkleinerten* Format erhältlich.
+
+  Les étudiants bénéficient d'un tarif *réduit* au cinéma.
+  Studenten erhalten einen *ermäßigten* Tarif im Kino.
+
+  Mon fils joue avec son modèle *réduit* d'hélicoptère.
+  Mein Sohn spielt mit seinem *verkleinerten* Modellhubschrauber.
+
+  Elle range ses outils dans un petit *réduit* sous l'escalier.
+  Sie verstaut ihre Werkzeuge in einer kleinen *Kammer* unter der Treppe.
+
+  Le musée expose des têtes *réduites* des tribus amazoniennes.
+  Das Museum stellt *Schrumpf*köpfe amazonischer Stämme aus.
+
+  La bibliothèque fonctionne en horaires *réduits* pendant l'été.
+  Die Bibliothek hat im Sommer *verkürzte* Öffnungszeiten.
+
+  Notre budget a été *réduit* de moitié cette année.
+  Unser Budget wurde dieses Jahr um die Hälfte *reduziert*.
+
+  Les soldats se sont repliés dans leur *réduit* fortifié.
+  Die Soldaten haben sich in ihre befestigte *Kammer* zurückgezogen.
+
+  Le document a été imprimé à échelle *réduite*.
+  Das Dokument wurde in *verkleinertem* Maßstab gedruckt.
+
+  J'ai trouvé ce vieux *réduit* servant de débarras.
+  Ich habe diese alte *Kammer* gefunden, die als Abstellraum dient.
+
+  Les débouchés sont très *réduits* dans ce secteur.
+  Die Absatzmöglichkeiten sind in diesem Bereich stark *eingeschränkt*.
+
+  Le navire disposait d'un *réduit* cuirassé pour l'artillerie.
+  Das Schiff verfügte über eine gepanzerte *Kammer* für die Artillerie.
+
+  La visibilité est *réduite* à cause du brouillard.
+  Die Sicht ist wegen des Nebels *eingeschränkt*.
+
+  Ils vivent dans un espace très *réduit*.
+  Sie leben auf sehr *begrenztem* Raum.
+
+  Le dispositif de sécurité est *réduit* pendant la nuit.
+  Die Sicherheitsvorkehrungen sind nachts *eingeschränkt*.
+
+  Les magasins proposent des prix *réduits* pendant les soldes.
+  Die Geschäfte bieten während des Schlussverkaufs *reduzierte* Preise an.
+
+  Ce *réduit* obscur sert de cave à vin.
+  Diese dunkle *Kammer* dient als Weinkeller.
+
+  L'activité du volcan est *réduite* depuis quelques mois.
+  Die Aktivität des Vulkans ist seit einigen Monaten *reduziert*.
+
+  Un nombre *réduit* de personnes ont assisté à la réunion.
+  Eine *begrenzte* Anzahl von Personen nahm an der Versammlung teil.
+
+  La citadelle servait de *réduit* aux défenseurs de la ville.
+  Die Zitadelle diente den Verteidigern der Stadt als *Kammer*.
+
+  Les options sont *réduites* dans ce modèle de base.
+  Die Optionen sind bei diesem Basismodell *eingeschränkt*.
+
+  Il stocke ses outils de jardinage dans un petit *réduit*.
+  Er lagert seine Gartengeräte in einer kleinen *Kammer*.
+
+  Les forces se sont repliées dans leur *réduit* breton.
+  Die Streitkräfte haben sich in ihre bretonische *Kammer* zurückgezogen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

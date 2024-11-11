@@ -13,17 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Une vieille dame est décédée pendant qu’elle dormait.
-  Eine alte Frau starb, während sie schlief.
+  Une vieille dame est *décédée* pendant qu'elle dormait.
+  Eine alte Dame ist im Schlaf *verstorben*.
 
-  Mon grand-père est décédé il y a deux ans.
-  Mein Großvater ist vor zwei Jahren verstorben.
+  Le patient est *décédé* d'une crise cardiaque à l'hôpital.
+  Der Patient ist im Krankenhaus an einem Herzinfarkt *verstorben*.
 
-  Il est décédé d'un cancer.
-  Er ist an Krebs gestorben.
+  Mon grand-père est *décédé* il y a dix ans.
+  Mein Großvater ist vor zehn Jahren *verstorben*.
 
-  Sa grand-mère est décédée il y a quelques années.
-  Seine Großmutter ist vor einigen Jahren verstorben.
+  Elle est *décédée* des suites d'une longue maladie.
+  Sie ist an den Folgen einer langen Krankheit *gestorben*.
+
+  Marc est devenu orphelin car ses parents sont *décédés* dans un accident.
+  Marc wurde zur Waise, weil seine Eltern bei einem Unfall *starben*.
+
+  Le célèbre écrivain est *décédé* dans la nuit du 20 mars.
+  Der berühmte Schriftsteller ist in der Nacht zum 20. März *verstorben*.
+
+  Je viens d'apprendre que mon ancien professeur est *décédé*.
+  Ich habe gerade erfahren, dass mein ehemaliger Lehrer *verstorben* ist.
+
+  La reine est *décédée* paisiblement dans son sommeil.
+  Die Königin ist friedlich im Schlaf *verstorben*.
+
+  Le suspect est *décédé* avant le début du procès.
+  Der Verdächtige ist vor Prozessbeginn *verstorben*.
+
+  Plusieurs personnes sont *décédées* lors de cette catastrophe naturelle.
+  Mehrere Menschen sind bei dieser Naturkatastrophe *gestorben*.
+
+  Marie, étant de père et de mère *décédés*, a été élevée par sa tante.
+  Marie wurde, da ihre Eltern *verstorben* waren, von ihrer Tante aufgezogen.
+
+  Le journaliste est *décédé* subitement hier soir.
+  Der Journalist ist gestern Abend plötzlich *verstorben*.
+
+  Les médecins ont confirmé que le patient était *décédé* à 3 heures du matin.
+  Die Ärzte bestätigten, dass der Patient um 3 Uhr morgens *verstorben* war.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,20 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Sois pas timide, petit minou.
-  Sei nicht schüchtern, kleines Kätzchen.
+  "Sois pas *timide*, petit minou."
+  "Sei nicht *schüchtern*, kleine Katze."
 
-  Elle est très timide.
-  Sie ist sehr schüchtern.
+  Paul est tellement *timide* qu'il n'ose pas parler en public.
+  Paul ist so *schüchtern*, dass er nicht in der Öffentlichkeit sprechen kann.
 
-  Je suis timide.
-  Ich bin schüchtern.
+  Son *timide* sourire trahissait son incertitude.
+  Ihr *zaghaftes* Lächeln verriet ihre Unsicherheit.
 
-  Ne sois pas timide.
-  Sei nicht schüchtern.
+  Les *timides* ont souvent du mal à se faire des amis.
+  *Schüchterne* Menschen haben oft Schwierigkeiten, Freunde zu finden.
 
-  Elle est d'une grande timidité.
-  Sie ist sehr schüchtern.
+  La jeune fille lança un regard *timide* vers son professeur.
+  Das Mädchen warf ihrem Lehrer einen *scheuen* Blick zu.
+
+  Cette *timide* tentative de réforme n'a pas abouti.
+  Dieser *zaghafte* Reformversuch ist gescheitert.
+
+  Marie fait des progrès, mais reste très *timide* en classe.
+  Marie macht Fortschritte, aber bleibt im Unterricht sehr *schüchtern*.
+
+  Le gouvernement a fait une *timide* protestation contre cette décision.
+  Die Regierung hat einen *zaghaften* Protest gegen diese Entscheidung eingelegt.
+
+  D'une voix *timide*, elle a demandé une augmentation.
+  Mit *zaghafter* Stimme hat sie um eine Gehaltserhöhung gebeten.
+
+  L'économie montre des signes de reprise *timide*.
+  Die Wirtschaft zeigt Anzeichen einer *zaghaften* Erholung.
+
+  Sa critique *timide* n'a pas vraiment convaincu le public.
+  Seine *zaghafte* Kritik hat das Publikum nicht wirklich überzeugt.
+
+  Les premiers pas *timides* du bébé ont ému toute la famille.
+  Die ersten *zaghaften* Schritte des Babys haben die ganze Familie gerührt.
+
+  Même les plus *timides* peuvent réussir dans la vie.
+  Auch die *Schüchternsten* können im Leben erfolgreich sein.
+
+  Il a fait une *timide* apparition à la fête.
+  Er machte einen *scheuen* Auftritt auf der Party.
+
+  Les manières *timides* de Thomas charment tout le monde.
+  Thomas' *schüchternes* Auftreten bezaubert alle.
+
+  C'est un amoureux *timide* qui n'ose pas lui déclarer sa flamme.
+  Er ist ein *schüchterner* Verehrer, der ihr seine Liebe nicht zu gestehen wagt.
+
+  Une *timide* lueur d'espoir brillait dans ses yeux.
+  Ein *zaghafter* Hoffnungsschimmer leuchtete in ihren Augen.
+
+  Julie n'est *timide* qu'avec les inconnus.
+  Julie ist nur bei Fremden *schüchtern*.
+
+  La reprise économique reste *timide* au premier trimestre.
+  Die wirtschaftliche Erholung bleibt im ersten Quartal *zaghaft*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

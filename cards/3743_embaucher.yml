@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  En onze mois, il a embauché sept personnes.
-  Innerhalb von elf Monaten stellte er sieben Personen ein.
+  En onze mois, il a *embauché* sept personnes.
+  In elf Monaten hat er sieben Personen *eingestellt*.
 
-  L’entreprise a décidé d’embaucher de nouveaux employés.
-  Das Unternehmen hat beschlossen, neue Mitarbeiter einzustellen.
+  Cette entreprise *embauche* beaucoup de jeunes diplômés.
+  Dieses Unternehmen *stellt* viele junge Absolventen *ein*.
 
-  Il s'est fait embaucher comme barman dans un bar branché du centre-ville.
-  Er hat eine Stelle als Barkeeper in einer angesagten Bar in der Innenstadt angenommen.
+  Elle s'est *embauchée* comme serveuse dans un restaurant.
+  Sie hat eine Stelle als Kellnerin *angenommen*.
 
-  Le patron a embauché un nouveau serveur pour faire face à l'afflux de clients.
-  Der Chef hat einen neuen Kellner eingestellt, um dem Kundenansturm gerecht zu werden.
+  Le patron *embauche* des ouvriers saisonniers pour les vendanges.
+  Der Chef *stellt* Saisonarbeiter für die Weinlese *ein*.
+
+  "Elle nous a *embauchés* pour l'aider à déménager samedi."
+  "Sie hat uns *angeheuert*, ihr am Samstag beim Umzug zu helfen."
+
+  Tu devrais te faire *embaucher* comme professeur de langues.
+  Du solltest eine Stelle als Sprachlehrer *annehmen*.
+
+  L'équipe de foot a *embauché* un nouveau gardien de but.
+  Die Fußballmannschaft hat einen neuen Torwart *verpflichtet*.
+
+  "Je t'*embauche* pour m'accompagner au cinéma ce soir."
+  "Ich *heuere* dich an, mich heute Abend ins Kino zu begleiten."
+
+  Dans cette usine, on *embauche* à temps partiel uniquement.
+  In dieser Fabrik wird nur in Teilzeit *eingestellt*.
+
+  Marie sera *embauchée* dès qu'elle aura son diplôme.
+  Marie wird *eingestellt*, sobald sie ihren Abschluss hat.
+
+  Le directeur m'a *embauché* comme assistant marketing.
+  Der Direktor hat mich als Marketing-Assistent *eingestellt*.
+
+  Ils *embauchent* régulièrement des stagiaires.
+  Sie *stellen* regelmäßig Praktikanten *ein*.
+
+  La start-up compte *embaucher* vingt développeurs cette année.
+  Das Start-up plant dieses Jahr zwanzig Entwickler *einzustellen*.
+
+  "Il m'a *embauché* pour repeindre sa cuisine."
+  "Er hat mich *angeheuert*, um seine Küche neu zu streichen."
+
+  L'entreprise ne peut plus *embaucher* à cause de la crise.
+  Das Unternehmen kann wegen der Krise keine Leute mehr *einstellen*.
+
+  Pierre s'est fait *embaucher* comme garde de nuit.
+  Pierre hat eine Stelle als Nachtwächter *angenommen*.
+
+  On *embauche* principalement des étudiants pendant l'été.
+  Man *stellt* hauptsächlich Studenten während des Sommers *ein*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

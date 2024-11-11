@@ -13,41 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils veulent m’enfermer à l’asile!
-  Sie wollen mich ins Irrenhaus stecken!
+  "Ils veulent m'enfermer à l'*asile* !"
+  "Sie wollen mich in die *Irrenanstalt* stecken!"
 
-  Les réfugiés ont demandé l’asile en France.
-  Die Flüchtlinge haben in Frankreich Asyl beantragt.
+  La petite cabane leur a servi d'*asile* pendant la tempête.
+  Die kleine Hütte diente ihnen während des Sturms als *Zufluchtsort*.
 
-  Le réfugié a demandé asile à l'Allemagne.
-  Der Flüchtling hat in Deutschland um Asyl gebeten.
+  Marie a déposé une demande d'*asile* politique en France.
+  Marie hat in Frankreich einen politischen *Asyl*antrag gestellt.
 
-  Ce comportement est bon pour l'asile.
-  Dieses Verhalten ist reif für die Irrenanstalt.
+  Le gouvernement suisse lui a accordé l'*asile*.
+  Die Schweizer Regierung hat ihm *Asyl* gewährt.
 
-  Le pays a offert un asile à la famille fuyant la guerre.
-  Das Land hat der Familie, die vor dem Krieg floh, Unterschlupf gewährt.
+  Ils ont trouvé *asile* chez des amis bienveillants.
+  Sie haben bei wohlwollenden Freunden *Unterschlupf* gefunden.
 
-  Le dissident politique a demandé l'asile politique à la France.
-  Der politische Dissident hat Frankreich um politisches Asyl gebeten.
+  Sa demande d'*asile* a été rejetée pour manque de preuves.
+  Ihr *Asyl*antrag wurde wegen mangelnder Beweise abgelehnt.
 
-  Le pays a décidé de donner l'asile à l'homme politique persécuté.
-  Das Land hat dem verfolgten Politiker Asyl gewährt.
+  L'ambassade américaine offre l'*asile* diplomatique aux dissidents.
+  Die amerikanische Botschaft gewährt den Dissidenten diplomatisches *Asyl*.
 
-  La demande d'asile a été déposée auprès de l'autorité compétente.
-  Das Asylbegehren wurde bei der zuständigen Behörde eingereicht.
+  Le jardin secret était son *asile* de paix.
+  Der geheime Garten war ihr *Zufluchtsort* des Friedens.
 
-  Une demande d'asile manifestement injustifiée a été rejetée.
-  Ein offensichtlich unbegründeter Asylantrag wurde abgelehnt.
+  Les réfugiés ont demandé l'*asile* à la frontière.
+  Die Flüchtlinge haben an der Grenze um *Asyl* gebeten.
 
-  La loi sur la procédure de demande d'asile a été récemment modifiée.
-  Das Asylverfahrensgesetz wurde kürzlich geändert.
+  Cette grotte servait d'*asile* aux résistants pendant la guerre.
+  Diese Höhle diente den Widerstandskämpfern während des Krieges als *Unterschlupf*.
 
-  L'octroi du droit d'asile est une décision importante.
-  Die Asylgewährung ist eine wichtige Entscheidung.
+  L'église médiévale offrait l'*asile* aux persécutés.
+  Die mittelalterliche Kirche bot den Verfolgten *Zuflucht*.
 
-  La titulaire du droit d'asile est protégée par la loi.
-  Die Asylberechtigte ist durch das Gesetz geschützt.
+  Le droit d'*asile* est inscrit dans la constitution.
+  Das *Asyl*recht ist in der Verfassung verankert.
+
+  La procédure d'*asile* peut prendre plusieurs mois.
+  Das *Asyl*verfahren kann mehrere Monate dauern.
+
+  Cette forêt est l'*asile* de nombreuses espèces menacées.
+  Dieser Wald ist ein *Zufluchtsort* für viele bedrohte Arten.
+
+  Les bénéficiaires du droit d'*asile* reçoivent un permis de séjour.
+  Die *Asyl*berechtigten erhalten eine Aufenthaltserlaubnis.
+
+  La bibliothèque était son *asile* préféré pendant ses études.
+  Die Bibliothek war während ihres Studiums ihr liebster *Zufluchtsort*.
+
+  L'*asile* de nuit accueille les sans-abris pendant l'hiver.
+  Die Nacht*unterkunft* nimmt im Winter Obdachlose auf.
+
+  Le nombre de demandes d'*asile* a augmenté cette année.
+  Die Zahl der *Asyl*anträge ist dieses Jahr gestiegen.
+
+  Les moines offraient *asile* aux voyageurs épuisés.
+  Die Mönche boten erschöpften Reisenden *Zuflucht*.
+
+  La commission examine sa demande d'*asile*.
+  Die Kommission prüft seinen *Asyl*antrag.
+
+  Les caves servaient d'*asile* pendant les bombardements.
+  Die Keller dienten während der Bombardierungen als *Zufluchtsort*.
+
+  Pierre a obtenu l'*asile* politique après trois mois d'attente.
+  Pierre hat nach drei Monaten Wartezeit politisches *Asyl* erhalten.
+
+  Cette vallée isolée est le dernier *asile* de cette espèce rare.
+  Dieses abgelegene Tal ist der letzte *Zufluchtsort* dieser seltenen Art.
+
+  Le petit port offrait un *asile* sûr aux bateaux de pêche.
+  Der kleine Hafen bot den Fischerbooten einen sicheren *Zufluchtsort*.
+
+  Les montagnes ont servi d'*asile* aux résistants.
+  Die Berge dienten den Widerstandskämpfern als *Unterschlupf*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

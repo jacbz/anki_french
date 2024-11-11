@@ -13,20 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’insère ma carte dans la machine.
-  Ich stecke meine Karte in den Automaten.
+  J'*insère* ma carte dans la machine.
+  Ich *stecke* meine Karte in den Automaten.
 
-  Il faut insérer la clé dans la serrure.
-  Du musst den Schlüssel ins Schloss einführen.
+  Il faut *insérer* les documents dans l'ordre chronologique.
+  Die Dokumente müssen chronologisch *eingefügt* werden.
 
-  Le policier a inséré les preuves dans un dossier pour le procès.
-  Der Polizist hat die Beweise in eine Akte gelegt für den Prozess.
+  Le chirurgien a *inséré* un petit tube dans la veine du patient.
+  Der Chirurg hat einen kleinen Schlauch in die Vene des Patienten *eingeführt*.
 
-  La nouvelle s'insère parfaitement dans le contexte politique actuel.
-  Die Neuigkeit passt perfekt in den aktuellen politischen Kontext.
+  Marie *insère* soigneusement la photo dans l'album de famille.
+  Marie *steckt* das Foto sorgfältig in das Familienalbum.
 
-  Elle a inséré une photo de son mariage sous un cadre.
-  Sie hat eine Fotografie ihrer Hochzeit gerahmt.
+  Nous devons *insérer* cette clause dans le contrat.
+  Wir müssen diese Klausel in den Vertrag *einfügen*.
+
+  Le journal a *inséré* notre annonce dans l'édition du dimanche.
+  Die Zeitung hat unsere Anzeige in der Sonntagsausgabe *aufgenommen*.
+
+  Comment *insérer* un lien dans ce document PDF ?
+  Wie kann man einen Link in dieses PDF-Dokument *einfügen*?
+
+  Les jeunes diplômés ont du mal à s'*insérer* dans le marché du travail.
+  Die jungen Absolventen haben Schwierigkeiten, sich in den Arbeitsmarkt zu *integrieren*.
+
+  Le muscle s'*insère* sur l'os à cet endroit précis.
+  Der Muskel *setzt* an dieser bestimmten Stelle am Knochen *an*.
+
+  L'éditeur a *inséré* trois nouveaux chapitres dans la deuxième édition.
+  Der Verleger hat drei neue Kapitel in die zweite Auflage *eingefügt*.
+
+  Il faut *insérer* la clé USB dans le bon sens.
+  Man muss den USB-Stick in der richtigen Richtung *einstecken*.
+
+  Ces mesures s'*insèrent* dans un plan plus global.
+  Diese Maßnahmen *fügen* sich in einen umfassenderen Plan *ein*.
+
+  Pierre *insère* délicatement la branche dans la fente de l'arbre.
+  Pierre *führt* den Zweig vorsichtig in den Spalt des Baumes *ein*.
+
+  Le secrétaire a *inséré* votre remarque dans le compte-rendu.
+  Der Sekretär hat Ihre Anmerkung ins Protokoll *aufgenommen*.
+
+  Comment s'*insérer* dans un groupe déjà formé ?
+  Wie kann man sich in eine bereits bestehende Gruppe *einfügen*?
+
+  L'assistant *insère* les données dans le tableau Excel.
+  Der Assistent *fügt* die Daten in die Excel-Tabelle *ein*.
+
+  Le paragraphe s'*insère* parfaitement entre ces deux chapitres.
+  Der Absatz *fügt* sich perfekt zwischen diese beiden Kapitel *ein*.
+
+  Sophie *insère* un marque-page dans son roman.
+  Sophie *steckt* ein Lesezeichen in ihren Roman.
+
+  Les immigrants tentent de s'*insérer* dans leur nouvelle société.
+  Die Einwanderer versuchen, sich in ihre neue Gesellschaft zu *integrieren*.
+
+  L'artiste a *inséré* des éléments modernes dans cette œuvre classique.
+  Der Künstler hat moderne Elemente in dieses klassische Werk *eingefügt*.
+
+  Vous devez *insérer* votre code PIN pour déverrouiller l'appareil.
+  Sie müssen Ihre PIN *eingeben*, um das Gerät zu entsperren.
+
+  Le botaniste *insère* délicatement le bourgeon dans la greffe.
+  Der Botaniker *fügt* die Knospe vorsichtig in das Pfropfreis *ein*.
+
+  L'événement s'*insère* dans le cadre du festival d'été.
+  Die Veranstaltung *fügt* sich in den Rahmen des Sommerfestivals *ein*.
+
+  Elle *insère* une nouvelle diapositive dans sa présentation PowerPoint.
+  Sie *fügt* eine neue Folie in ihre PowerPoint-Präsentation *ein*.
+
+  Le journaliste a *inséré* une citation au milieu de son article.
+  Der Journalist hat ein Zitat in die Mitte seines Artikels *eingefügt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

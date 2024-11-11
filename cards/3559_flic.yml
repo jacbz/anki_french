@@ -13,11 +13,38 @@ Register: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Si tu vois des flics, appelle-moi.
-  Wenn du Bullen siehst, ruf mich an.
+  "Si tu vois des *flics*, appelle-moi."
+  "Wenn du *Bullen* siehst, ruf mich an."
 
-  Les flics ont arrêté le voleur.
-  Die Polizisten haben den Dieb festgenommen.
+  "Trois *flics* en civil surveillaient l'entrée du bâtiment."
+  "Drei *Polizisten* in Zivil bewachten den Eingang des Gebäudes."
+
+  "La nouvelle *fliquette* a commencé son service hier."
+  "Die neue *Polizistin* hat gestern ihren Dienst angetreten."
+
+  "*Les flics* ont bouclé le quartier après l'incident."
+  "Die *Bullen* haben nach dem Vorfall das Viertel abgeriegelt."
+
+  "Notre voisine est devenue *fliquette* il y a deux ans."
+  "Unsere Nachbarin ist vor zwei Jahren *Polizistin* geworden."
+
+  "Je ne supporte pas sa manie de faire le *flic* avec tout le monde."
+  "Ich kann es nicht ertragen, wie er bei allen den *Aufpasser* spielt."
+
+  "Les jeunes ont aperçu deux *flics* qui patrouillaient dans la rue."
+  "Die Jugendlichen haben zwei *Polizisten* gesehen, die in der Straße patrouillierten."
+
+  "Ma sœur sort avec un *flic* depuis six mois."
+  "Meine Schwester geht seit sechs Monaten mit einem *Polizisten* aus."
+
+  "Cette *fliquette* m'a sauvé la vie lors de l'accident."
+  "Diese *Polizistin* hat mir bei dem Unfall das Leben gerettet."
+
+  "Il y a toujours des *flics* qui surveillent cette intersection."
+  "An dieser Kreuzung stehen immer *Polizisten*, die aufpassen."
+
+  "Notre prof se prend pour un *flic* à nous surveiller comme ça."
+  "Unser Lehrer spielt sich wie ein *Aufpasser* auf, wie er uns so überwacht."
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

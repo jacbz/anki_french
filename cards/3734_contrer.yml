@@ -13,14 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Heureusement, je sais comment contrer ça.
-  Zum Glück weiß ich, wie ich dem entgegenwirken kann.
+  Heureusement, je sais comment *contrer* ça.
+  Zum Glück weiß ich, wie ich das *kontern* kann.
 
-  Il a réussi à contrer l’attaque de son adversaire.
-  Er hat den Angriff seines Gegners erfolgreich gekontert.
+  "Si tu essaies encore de me *contrer*, tu vas le regretter !"
+  "Wenn du mir noch mal zu *widersprechen* versuchst, wirst du es bereuen!"
 
-  Elle a contré mon annonce avec une proposition plus attractive.
-  Sie hat mir Kontra gegeben, mit einem attraktiveren Angebot.
+  Le défenseur a parfaitement *contré* l'attaque adverse.
+  Der Verteidiger hat den gegnerischen Angriff perfekt *gekontert*.
+
+  Au bridge, elle a décidé de *contrer* mon annonce de quatre cœurs.
+  Beim Bridge hat sie beschlossen, meine Ansage von vier Herz zu *kontrieren*.
+
+  Notre équipe a réussi à *contrer* tous leurs plans.
+  Unser Team hat es geschafft, all ihre Pläne zu *durchkreuzen*.
+
+  Le joueur expérimenté *contre* souvent les enchères risquées.
+  Der erfahrene Spieler *gibt* oft bei riskanten Geboten *Kontra*.
+
+  Marie a habilement *contré* les arguments de son adversaire.
+  Marie hat die Argumente ihres Gegners geschickt *widerlegt*.
+
+  Le gouvernement cherche à *contrer* l'inflation par diverses mesures.
+  Die Regierung versucht mit verschiedenen Maßnahmen, die Inflation zu *bekämpfen*.
+
+  Au volleyball, Thomas a *contré* trois fois le même attaquant.
+  Beim Volleyball hat Thomas denselben Angreifer dreimal *geblockt*.
+
+  "Je *contre* votre enchère de trois piques !"
+  "Ich gebe auf Ihr Gebot von drei Pik *Kontra*!"
+
+  En boxe, il a *contré* chaque attaque avec précision.
+  Beim Boxen hat er jeden Angriff präzise *gekontert*.
+
+  Les manifestants ont su *contrer* la propagande par des faits.
+  Die Demonstranten haben es geschafft, der Propaganda mit Fakten zu *begegnen*.
+
+  La nouvelle stratégie devrait *contrer* efficacement la concurrence.
+  Die neue Strategie sollte die Konkurrenz effektiv *ausstechen*.
+
+  Le champion a *contré* la tactique de son rival avec brio.
+  Der Champion hat die Taktik seines Rivalen brillant *pariert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

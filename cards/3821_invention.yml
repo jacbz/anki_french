@@ -13,41 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le calendrier est une invention humaine.
-  Der Kalender ist eine Erfindung des Menschen.
+  Le calendrier est une *invention* humaine.
+  Der Kalender ist eine menschliche *Erfindung*.
 
-  Cette invention a révolutionné l’industrie.
-  Diese Erfindung hat die Industrie revolutioniert.
+  L'*invention* de l'écriture a marqué le début de l'histoire.
+  Die *Erfindung* der Schrift markierte den Beginn der Geschichte.
 
-  Quelle invention merveilleuse !
-  Was für eine wunderbare Erfindung!
+  Cette *invention* révolutionnaire va changer nos vies.
+  Diese revolutionäre *Erfindung* wird unser Leben verändern.
 
-  Cette invention vous rendra très riches.
-  Diese Erfindung wird Sie sehr reich machen.
+  Les employés doivent signaler toute *invention* faite pendant leur travail.
+  Die Mitarbeiter müssen jede *Erfindung* melden, die sie während ihrer Arbeit machen.
 
-  La nouvelle invention du salarié est une véritable réussite.
-  Die Betriebserfindung des Mitarbeiters ist ein voller Erfolg.
+  Cette *invention* précurseur a ouvert la voie à de nombreuses innovations.
+  Diese Pionier*erfindung* hat den Weg für viele Innovationen geebnet.
 
-  C'est une invention de sa part ! Il a trouvé une nouvelle manière de faire.
-  Das hat er erfunden! Er hat eine neue Methode gefunden.
+  L'*invention* du processus est tenue secrète pour des raisons commerciales.
+  Die *Erfindung* des Verfahrens wird aus geschäftlichen Gründen geheim gehalten.
 
-  L'invention précurseur de Marie Curie a révolutionné la physique.
-  Die Pioniererfindung von Marie Curie hat die Physik revolutioniert.
+  Cette *invention* de service appartient à l'entreprise.
+  Diese Dienst*erfindung* gehört dem Unternehmen.
 
-  L'invention tenue secrète de l'entreprise est enfin dévoilée.
-  Das Geheimpatent des Unternehmens wird endlich veröffentlicht.
+  Son *invention* fait preuve d'une grande imagination.
+  Seine *Erfindung* zeugt von großem Einfallsreichtum.
 
-  L'invention de service d'un employé de la compagnie a permis d'améliorer le service à la clientèle.
-  Die Diensterfindung eines Mitarbeiters der Firma hat den Kundenservice verbessert.
+  "Cette histoire est une pure *invention* de sa part !"
+  "Diese Geschichte ist eine reine *Erfindung* von ihm!"
 
-  L'invention de ce procédé date de 1850, c'est une avancée importante dans le domaine de la médecine.
-  Dieses Verfahren wurde 1850 erfunden, es ist ein wichtiger Fortschritt in der Medizin.
+  L'*invention* de ce nouveau médicament sauvera des vies.
+  Die *Erfindung* dieses neuen Medikaments wird Leben retten.
 
-  De mon invention, je suis très fier.
-  Von mir erfunden, bin ich sehr stolz darauf.
+  Les *inventions* techniques du XXe siècle ont transformé notre société.
+  Die technischen *Erfindungen* des 20. Jahrhunderts haben unsere Gesellschaft verändert.
 
-  Ce sont des inventions pures et simples ! Il n'y a aucune preuve de leur existence.
-  Das ist alles erlogen! Es gibt keine Beweise für deren Existenz.
+  Cette recette est de mon *invention*.
+  Dieses Rezept habe ich selbst *erfunden*.
+
+  Il manque totalement d'*invention* dans son travail.
+  Ihm fehlt es völlig an *Einfallsreichtum* bei seiner Arbeit.
+
+  Cette *invention* ingénieuse résout un problème quotidien.
+  Diese geniale *Erfindung* löst ein alltägliches Problem.
+
+  L'*invention* de l'imprimerie a démocratisé le savoir.
+  Die *Erfindung* des Buchdrucks hat das Wissen demokratisiert.
+
+  Les *inventions* de Bach pour piano sont magnifiques.
+  Bachs Klavier-*Inventionen* sind wunderschön.
+
+  Cette *invention* diabolique ne doit jamais être utilisée.
+  Diese teuflische *Erfindung* darf niemals verwendet werden.
+
+  L'*invention* du téléphone portable a changé notre façon de communiquer.
+  Die *Erfindung* des Handys hat unsere Art zu kommunizieren verändert.
+
+  Son roman est riche en *invention* romanesque.
+  Sein Roman ist reich an erzählerischer *Erfindungsgabe*.
+
+  Toute *invention* brevetée est protégée par la loi.
+  Jede patentierte *Erfindung* ist gesetzlich geschützt.
+
+  La nécessité est la mère de l'*invention*.
+  Not macht *erfinderisch*.
+
+  Cette *invention* date du siècle dernier.
+  Diese *Erfindung* stammt aus dem letzten Jahrhundert.
+
+  Les *inventions* de Paul ne sont pas crédibles.
+  Pauls *Erfindungen* sind nicht glaubwürdig.
+
+  Son esprit déborde d'*invention*.
+  Sein Geist sprudelt vor *Einfallsreichtum*.
+
+  Cette *invention* utile facilite notre travail quotidien.
+  Diese nützliche *Erfindung* erleichtert unsere tägliche Arbeit.
+
+  L'*invention* de la roue a révolutionné le transport.
+  Die *Erfindung* des Rades revolutionierte den Transport.
+
+  Il a fait preuve d'*invention* dans la résolution de ce problème.
+  Er bewies *Erfindungsreichtum* bei der Lösung dieses Problems.
+
+  C'est une *invention* pure et simple !
+  Das ist völlig *erfunden*!
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

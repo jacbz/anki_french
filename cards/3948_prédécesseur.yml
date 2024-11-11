@@ -13,14 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il est substantiellement semblable à son prédécesseur.
-  Er ist seinem Vorgänger im Wesentlichen ähnlich.
+  Il est substantiellement semblable à son *prédécesseur*.
+  Er ist im Wesentlichen seinem *Vorgänger* ähnlich.
 
-  Mon prédécesseur était très compétent.
-  Mein Vorgänger war sehr kompetent.
+  Les méthodes du nouveau directeur sont très différentes de celles de son *prédécesseur*.
+  Die Methoden des neuen Direktors unterscheiden sich stark von denen seines *Vorgängers*.
 
-  La société actuelle est la prédécesseur en droit de l'ancienne entreprise.
-  Die heutige Gesellschaft ist die Rechtsvorgängerin des ehemaligen Unternehmens.
+  Elle a occupé ce poste pendant plus longtemps que son *prédécesseur*.
+  Sie hat diese Position länger inne als ihre *Vorgängerin*.
+
+  Ce roman s'inspire largement des œuvres de ses *prédécesseurs*.
+  Dieser Roman ist stark von den Werken seiner *Vorgänger* inspiriert.
+
+  Mon *prédécesseur* immédiat a laissé le bureau dans un état impeccable.
+  Mein unmittelbarer *Vorgänger* hat das Büro in einem tadellosen Zustand hinterlassen.
+
+  Nos *prédécesseurs* nous ont transmis un riche patrimoine culturel.
+  Unsere *Vorgänger* haben uns ein reiches kulturelles Erbe hinterlassen.
+
+  Je souhaite continuer le travail remarquable de mon *prédécesseur*.
+  Ich möchte die bemerkenswerte Arbeit meiner *Vorgängerin* fortsetzen.
+
+  Le nouveau président a remercié son *prédécesseur* lors de son discours inaugural.
+  Der neue Präsident dankte seinem *Vorgänger* in seiner Antrittsrede.
+
+  Cette découverte scientifique surpasse toutes celles de ses *prédécesseurs*.
+  Diese wissenschaftliche Entdeckung übertrifft alle ihrer *Vorgänger*.
+
+  Le *prédécesseur* de Pierre avait établi des règles très strictes.
+  Pierres *Vorgänger* hatte sehr strenge Regeln aufgestellt.
+
+  Les erreurs de nos *prédécesseurs* nous servent de leçon.
+  Die Fehler unserer *Vorgänger* dienen uns als Lehre.
+
+  Marie n'a jamais rencontré son *prédécesseur* dans l'entreprise.
+  Marie hat ihre *Vorgängerin* in der Firma nie kennengelernt.
+
+  Contrairement à son *prédécesseur*, elle préfère travailler en équipe.
+  Im Gegensatz zu ihrer *Vorgängerin* arbeitet sie lieber im Team.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

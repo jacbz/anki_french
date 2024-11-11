@@ -13,26 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La france est parfaitement apte à s’adapter.
-  Frankreich ist durchaus anpassungsfähig.
+  La France est parfaitement *apte* à s'adapter.
+  Frankreich ist absolut *fähig*, sich anzupassen.
 
-  Il est apte à réussir.
-  Er ist fähig, Erfolg zu haben.
+  L'employée s'est montrée *apte* à diriger une équipe.
+  Die Mitarbeiterin hat sich als *fähig* erwiesen, ein Team zu leiten.
 
-  Marie est apte au travail en équipe, elle est toujours prête à collaborer avec ses collègues.
-  Marie ist zur Teamarbeit fähig, sie ist immer bereit, mit ihren Kollegen zusammenzuarbeiten.
+  Après l'examen médical, il a été déclaré *apte* au service militaire.
+  Nach der ärztlichen Untersuchung wurde er als *wehrdiensttauglich* eingestuft.
 
-  Paul est apte au service, il a passé avec succès sa visite médicale.
-  Paul ist wehrdiensttauglich, er hat seine ärztliche Untersuchung erfolgreich bestanden.
+  Cet oiseau n'est pas encore *apte* à voler.
+  Dieser Vogel ist noch nicht *flugtüchtig*.
 
-  Ce logiciel est apte à une fonction de gestion de stocks.
-  Diese Software ist für eine Aufgabe der Lagerverwaltung geeignet.
+  Le candidat est *apte* à exercer les fonctions de directeur.
+  Der Kandidat ist *geeignet*, die Aufgaben eines Direktors auszuüben.
 
-  Le chien est apte à faire des tours, il est très intelligent.
-  Der Hund ist fähig, Kunststücke zu machen, er ist sehr intelligent.
+  Elle n'est pas *apte* à prendre des décisions importantes aujourd'hui.
+  Sie ist heute nicht *fähig*, wichtige Entscheidungen zu treffen.
 
-  L'avion est apte à voler, il a passé tous les contrôles de sécurité.
-  Das Flugzeug ist flugtüchtig, es hat alle Sicherheitskontrollen bestanden.
+  Le comité évaluera si vous êtes *apte* à ce poste.
+  Das Komitee wird bewerten, ob Sie für diese Position *geeignet* sind.
+
+  Cette machine est *apte* au traitement des données sensibles.
+  Diese Maschine ist zur Verarbeitung sensibler Daten *geeignet*.
+
+  Mon fils est très *apte* aux études scientifiques.
+  Mein Sohn ist für das naturwissenschaftliche Studium sehr *begabt*.
+
+  Le jury l'a jugé *apte* à participer au concours.
+  Die Jury hat ihn als *geeignet* eingestuft, am Wettbewerb teilzunehmen.
+
+  Après sa formation, elle sera *apte* à utiliser tous les logiciels.
+  Nach ihrer Ausbildung wird sie *fähig* sein, alle Programme zu benutzen.
+
+  Je ne me sens pas *apte* à grimper cette montagne.
+  Ich fühle mich nicht *fähig*, diesen Berg zu besteigen.
+
+  Les experts l'ont déclaré *apte* à reprendre le travail.
+  Die Experten haben ihn als *arbeitsfähig* eingestuft.
+
+  Cette salle est *apte* à accueillir cent personnes.
+  Dieser Saal ist *geeignet*, hundert Personen aufzunehmen.
+
+  Le nouveau stagiaire s'est révélé *apte* au travail en équipe.
+  Der neue Praktikant hat sich als *teamfähig* erwiesen.
+
+  Marie n'est pas encore *apte* à conduire toute seule.
+  Marie ist noch nicht *fähig*, alleine zu fahren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

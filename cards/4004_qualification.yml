@@ -13,23 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On n’a pas passé les qualifications.
-  Wir haben die Qualifikation nicht bestanden.
+  On n'a pas passé les *qualifications*.
+  Wir haben die *Qualifikation* nicht geschafft.
 
-  Il a obtenu sa qualification pour le championnat.
-  Er hat seine Qualifikation für die Meisterschaft erhalten.
+  Les *qualifications* pour la Coupe du monde commencent la semaine prochaine.
+  Die *Qualifikations*spiele für die Weltmeisterschaft beginnen nächste Woche.
 
-  L'équipe nationale a joué un match de qualification pour la Coupe du Monde.
-  Die Nationalmannschaft hat ein Qualifikationsspiel für die Weltmeisterschaft bestritten.
+  Sa *qualification* professionnelle lui a permis de trouver rapidement un emploi.
+  Seine berufliche *Qualifikation* hat ihm geholfen, schnell einen Job zu finden.
 
-  Il a beaucoup de qualification dans le domaine de la construction.
-  Er hat viel Erfahrung im Bauwesen.
+  L'entreprise exige une *qualification* en informatique.
+  Das Unternehmen verlangt *Qualifikationen* in der Informatik.
 
-  L'équipe joue sa qualification pour la finale de la ligue.
-  Die Mannschaft spielt um die Qualifikation für das Finale der Liga.
+  Le juge a retenu la *qualification* de meurtre avec préméditation.
+  Der Richter legte die *Einstufung* als Mord mit Vorsatz fest.
 
-  La qualification professionnelle est essentielle pour réussir dans ce métier.
-  Die berufliche Qualifikation ist für den Erfolg in diesem Beruf unerlässlich.
+  La *qualification* d'aventurier lui convient parfaitement.
+  Die *Bezeichnung* Abenteurer passt perfekt zu ihm.
+
+  Cette *qualification* injurieuse a provoqué un scandale.
+  Diese beleidigende *Bezeichnung* hat einen Skandal ausgelöst.
+
+  Il manque de *qualification* pour ce poste de direction.
+  Ihm fehlt die *Qualifikation* für diese Führungsposition.
+
+  La *qualification* du cheval pour le Grand Prix est compromise.
+  Die *Qualifikation* des Pferdes für den Grand Prix ist gefährdet.
+
+  La grille de salaires dépend du niveau de *qualification*.
+  Die Gehaltstabelle hängt vom *Qualifikations*niveau ab.
+
+  Sa *qualification* en mathématiques est impressionnante.
+  Seine *Qualifizierung* in Mathematik ist beeindruckend.
+
+  Le temps n'était pas suffisant pour obtenir la *qualification*.
+  Die Zeit reichte nicht für die *Qualifikation*.
+
+  Les joueurs doivent passer par les *qualifications* pour participer au tournoi.
+  Die Spieler müssen die *Qualifikation* durchlaufen, um am Turnier teilzunehmen.
+
+  Cette *qualification* flatteuse ne reflète pas la réalité.
+  Diese schmeichelhafte *Bezeichnung* entspricht nicht der Realität.
+
+  La *qualification* de l'accord en tant que contrat est contestée.
+  Die rechtliche *Einstufung* der Vereinbarung als Vertrag wird angefochten.
+
+  La *qualification* professionnelle des employés s'améliore constamment.
+  Die berufliche *Qualifikation* der Mitarbeiter verbessert sich ständig.
+
+  Il n'a pas la *qualification* requise pour exercer ce métier.
+  Er hat nicht die erforderliche *Qualifikation* für diesen Beruf.
+
+  La *qualification* pour les Jeux olympiques était son objectif principal.
+  Die *Qualifikation* für die Olympischen Spiele war sein Hauptziel.
+
+  L'équipe a obtenu sa *qualification* pour la finale hier soir.
+  Die Mannschaft hat gestern Abend die *Qualifikation* für das Finale erreicht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

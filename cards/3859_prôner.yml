@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’évangile prône la pauvreté.
-  Das Evangelium predigt Armut.
+  L'évangile *prône* la pauvreté.
+  Das Evangelium *preist* die Armut.
 
-  Il prône les bienfaits du sport.
-  Er preist die Vorteile des Sports.
+  Le gouvernement *prône* une politique d'austérité budgétaire.
+  Die Regierung *empfiehlt* eine Politik der Haushaltsdisziplin.
+
+  Cette application mobile *prône* une alimentation plus saine.
+  Diese mobile App *preist* eine gesündere Ernährung *an*.
+
+  Les experts *prônent* la prudence face à ces nouveaux médicaments.
+  Die Experten *empfehlen* Vorsicht bei diesen neuen Medikamenten.
+
+  Cette influenceuse *prône* des produits de beauté naturels sur ses réseaux sociaux.
+  Diese Influencerin *preist* auf ihren sozialen Medien natürliche Kosmetikprodukte *an*.
+
+  Le professeur *prônait* toujours la lecture quotidienne.
+  Der Lehrer *pries* stets das tägliche Lesen *an*.
+
+  Les médecins *prônent* une activité physique régulière.
+  Die Ärzte *empfehlen* regelmäßige körperliche Aktivität.
+
+  Ces philosophes *prônent* le retour à la nature.
+  Diese Philosophen *preisen* die Rückkehr zur Natur.
+
+  Le magazine *prône* des solutions écologiques pour le jardinage.
+  Die Zeitschrift *empfiehlt* umweltfreundliche Lösungen für die Gartenarbeit.
+
+  Son livre *prône* la méditation comme remède au stress.
+  Ihr Buch *preist* Meditation als Heilmittel gegen Stress *an*.
+
+  Les psychologues *prônent* une approche plus douce de l'éducation.
+  Die Psychologen *empfehlen* einen sanfteren Ansatz in der Erziehung.
+
+  Cette organisation *prône* la paix entre les nations.
+  Diese Organisation *setzt* sich für den Frieden zwischen den Nationen *ein*.
+
+  Le chef d'entreprise *prône* le dialogue social.
+  Der Unternehmenschef *befürwortet* den sozialen Dialog.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

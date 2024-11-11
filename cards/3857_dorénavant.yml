@@ -13,11 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’écrirai dorénavant sur les deux côtés de la page.
-  Ich werde von nun an auf beiden Seiten der Seite schreiben.
+  J'écrirai *dorénavant* sur les deux côtés de la page.
+  Ich werde *von nun an* auf beide Seiten des Blattes schreiben.
 
-  Dorénavant, je vais faire plus attention.
-  Von nun an werde ich mehr aufpassen.
+  *Dorénavant*, nos réunions auront lieu le mardi matin.
+  *Von jetzt an* finden unsere Besprechungen am Dienstagmorgen statt.
+
+  Elle devra *dorénavant* porter des lunettes pour lire.
+  Sie muss *von nun an* eine Brille zum Lesen tragen.
+
+  *Dorénavant*, je prendrai le train pour aller au travail.
+  *Von heute an* fahre ich mit dem Zug zur Arbeit.
+
+  Les enfants iront *dorénavant* à l'école à pied.
+  Die Kinder werden *ab jetzt* zu Fuß zur Schule gehen.
+
+  *Dorénavant*, nous mangerons plus de légumes.
+  *Von nun an* werden wir mehr Gemüse essen.
+
+  Il vivra *dorénavant* avec sa grand-mère.
+  Er wird *von jetzt an* bei seiner Großmutter leben.
+
+  *Dorénavant*, je me lèverai plus tôt le matin.
+  *Ab sofort* werde ich morgens früher aufstehen.
+
+  Tu devras *dorénavant* faire tes devoirs avant de jouer.
+  Du musst *von nun an* deine Hausaufgaben machen, bevor du spielst.
+
+  *Dorénavant*, le musée sera fermé le lundi.
+  Das Museum wird *künftig* montags geschlossen sein.
+
+  Je serai *dorénavant* plus prudent dans mes décisions.
+  Ich werde *von jetzt an* vorsichtiger bei meinen Entscheidungen sein.
+
+  *Dorénavant*, il faudra réserver une semaine à l'avance.
+  *Ab sofort* muss man eine Woche im Voraus reservieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

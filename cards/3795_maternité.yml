@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai pris un congé maternité.
-  Ich habe Mutterschaftsurlaub genommen.
+  J'ai pris un congé *maternité*.
+  Ich habe *Mutterschafts*urlaub genommen.
 
-  Elle travaille dans une maternité.
-  Sie arbeitet in einer Geburtsklinik.
+  Elle a donné naissance à son fils à la *maternité* du centre-ville.
+  Sie hat ihren Sohn im *Entbindungsheim* in der Innenstadt zur Welt gebracht.
 
-  Sophie a pris son congé maternité pour s'occuper de son nouveau-né.
-  Sophie hat ihren Mutterschaftsurlaub genommen, um sich um ihr Neugeborenes zu kümmern.
+  Les médecins de la *maternité* sont très compétents.
+  Die Ärzte im *Entbindungsheim* sind sehr kompetent.
 
-  Le congé maternité est un droit pour les femmes enceintes.
-  Mutterschaftsurlaub ist ein Recht für schwangere Frauen.
+  La *maternité* de l'hôpital accueille cinquante patientes.
+  Die *Entbindungsstation* des Krankenhauses hat fünfzig Betten.
+
+  Sa *maternité* tardive l'a beaucoup changée.
+  Ihre späte *Mutterschaft* hat sie sehr verändert.
+
+  La *maternité* est une expérience unique pour chaque femme.
+  Die *Mutterschaft* ist für jede Frau eine einzigartige Erfahrung.
+
+  Les joies de la *maternité* sont incomparables.
+  Die Freuden der *Mutterschaft* sind unvergleichlich.
+
+  Cette *maternité* de Picasso est exposée au musée.
+  Dieses *Mutter-und-Kind-Bild* von Picasso wird im Museum ausgestellt.
+
+  J'admire cette *maternité* du XVe siècle.
+  Ich bewundere dieses *Madonnenbild* aus dem 15. Jahrhundert.
+
+  Le tribunal a rejeté sa demande de recherche en *maternité*.
+  Das Gericht hat ihren Antrag auf *Mutterschafts*feststellung abgelehnt.
+
+  L'âge peut affecter la *maternité* chez certaines femmes.
+  Das Alter kann die *Gebärfähigkeit* bei manchen Frauen beeinflussen.
+
+  Elle prendra son congé *maternité* au printemps.
+  Sie wird ihren *Mutterschafts*urlaub im Frühling nehmen.
+
+  Les devoirs de la *maternité* sont parfois difficiles.
+  Die Pflichten der *Mutterschaft* sind manchmal schwierig.
+
+  Cette *maternité* moderne dispose d'excellents équipements.
+  Dieses moderne *Entbindungsheim* verfügt über ausgezeichnete Ausstattung.
+
+  Des *maternités* rapprochées peuvent épuiser une femme.
+  Mehrere *Schwangerschaften* kurz hintereinander können eine Frau erschöpfen.
+
+  La *maternité* a complètement transformé sa vie.
+  Die *Mutterschaft* hat ihr Leben völlig verändert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Sauvegardez-la pour un traitement ultérieur.
-  Speichern Sie sie für eine spätere Bearbeitung.
+  Sauvegardez-la pour un traitement *ultérieur*.
+  Speichern Sie sie zur *späteren* Bearbeitung.
 
-  Nous discuterons de ce point ultérieurement.
-  Wir werden diesen Punkt später besprechen.
+  Une édition *ultérieure* de ce livre contiendra un nouveau chapitre.
+  Eine *spätere* Ausgabe dieses Buches wird ein neues Kapitel enthalten.
+
+  Je vous transmettrai des informations *ultérieures* dès que possible.
+  Ich werde Ihnen *weitere* Informationen sobald wie möglich zukommen lassen.
+
+  Toute modification *ultérieure* du contrat doit être approuvée par écrit.
+  Jede *spätere* Änderung des Vertrags muss schriftlich genehmigt werden.
+
+  Dans une phase *ultérieure*, nous développerons ce projet.
+  In einer *späteren* Phase werden wir dieses Projekt entwickeln.
+
+  Ces détails seront précisés lors d'une communication *ultérieure*.
+  Diese Details werden in einer *weiteren* Mitteilung präzisiert.
+
+  La date *ultérieure* n'a pas encore été fixée.
+  Der *spätere* Termin steht noch nicht fest.
+
+  Les développements *ultérieurs* ont montré qu'il avait raison.
+  Die *weiteren* Entwicklungen haben gezeigt, dass er Recht hatte.
+
+  Nous reportons la réunion à une date *ultérieure*.
+  Wir verschieben das Treffen auf einen *späteren* Zeitpunkt.
+
+  Des études *ultérieures* seront nécessaires pour confirmer ces résultats.
+  *Weitere* Studien werden nötig sein, um diese Ergebnisse zu bestätigen.
+
+  Les analyses *ultérieures* ont révélé une erreur dans les calculs.
+  Die *späteren* Analysen haben einen Fehler in den Berechnungen aufgedeckt.
+
+  Pour toute question *ultérieure*, n'hésitez pas à me contacter.
+  Für *weitere* Fragen können Sie sich jederzeit an mich wenden.
+
+  Les événements *ultérieurs* ont prouvé que sa décision était sage.
+  Die *späteren* Ereignisse haben bewiesen, dass seine Entscheidung klug war.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

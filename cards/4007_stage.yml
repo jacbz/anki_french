@@ -13,35 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai découvert la secte lors d’un stage d’été en slovénie.
-  Ich lernte die Sekte während eines Sommerpraktikums in Slowenien kennen.
+  J'ai découvert la secte lors d'un *stage* d'été en slovénie.
+  Ich entdeckte die Sekte während eines *Praktikums* im Sommer in Slowenien.
 
-  J’ai trouvé un stage dans une entreprise allemande.
-  Ich habe ein Praktikum in einem deutschen Unternehmen gefunden.
+  Je cherche un *stage* en marketing pour l'été prochain.
+  Ich suche ein *Praktikum* im Marketing für nächsten Sommer.
 
-  Je vais faire un stage chez une entreprise informatique.
-  Ich werde ein Praktikum bei einem Informatikunternehmen machen.
+  Les étudiants doivent effectuer un *stage* de six mois pour obtenir leur diplôme.
+  Die Studenten müssen ein sechsmonatiges *Praktikum* absolvieren, um ihren Abschluss zu bekommen.
 
-  Ce stage professionnel me permettra d'approfondir mes compétences.
-  Dieser Fachlehrgang wird es mir ermöglichen, meine Kompetenzen zu vertiefen.
+  Elle a trouvé un *stage* dans une grande maison d'édition à Paris.
+  Sie hat einen *Praktikumsplatz* in einem großen Verlagshaus in Paris gefunden.
 
-  J'ai fait un stage à l'étranger pour améliorer mon anglais.
-  Ich habe ein Auslandspraktikum gemacht, um mein Englisch zu verbessern.
+  Mon fils commence demain son *stage* d'essai chez un menuisier.
+  Mein Sohn beginnt morgen seine *Schnupperlehre* bei einem Schreiner.
 
-  Avant de commencer mon apprentissage, j'ai fait un stage d'essai.
-  Vor Beginn meiner Lehre habe ich ein Schnupperlehre absolviert.
+  Pierre suit actuellement un *stage* de perfectionnement en photographie.
+  Pierre besucht gerade einen *Fortbildungskurs* in Fotografie.
 
-  Le stage d'initiation à la cuisine m'a donné envie de devenir chef.
-  Der Einführungskurs in die Küche hat mich dazu bewogen, Koch zu werden.
+  Les participants au *stage* de théâtre préparent une pièce pour la fin de semaine.
+  Die Teilnehmer des *Schauspieltrainings* bereiten ein Stück für das Wochenende vor.
 
-  Pour devenir officier, il faut suivre un stage d'officier.
-  Um Offizier zu werden, muss man einen Offizierslehrgang absolvieren.
+  Marie commence son *stage* pédagogique lundi prochain.
+  Marie beginnt am nächsten Montag ihr *Referendariat*.
 
-  Le stage de perfectionnement en marketing m'a beaucoup aidé.
-  Der Fortbildungskurs in Marketing hat mir sehr geholfen.
+  J'ai dû faire un *stage* à l'étranger pour valider mon master.
+  Ich musste ein *Auslandspraktikum* machen, um meinen Master abzuschließen.
 
-  Le stage de théâtre a permis aux étudiants de se familiariser avec la scène.
-  Das Schauspieltraining ermöglichte den Studenten, sich mit der Bühne vertraut zu machen.
+  Le *stage* d'initiation à l'informatique commence à 9 heures.
+  Der *Einführungskurs* in Informatik beginnt um 9 Uhr.
+
+  Thomas fait son *stage* d'officier dans la marine.
+  Thomas macht seinen *Offizierslehrgang* bei der Marine.
+
+  Mon entreprise propose trois *stages* rémunérés pour cet été.
+  Meine Firma bietet drei bezahlte *Praktikumsplätze* für diesen Sommer an.
+
+  Elle suit un *stage* intensif d'allemand avant son séjour à Berlin.
+  Sie besucht einen intensiven Deutsch*kurs* vor ihrem Aufenthalt in Berlin.
+
+  Le *stage* de reconversion m'a permis de changer complètement de métier.
+  Der Umschulungs*lehrgang* hat mir ermöglicht, den Beruf komplett zu wechseln.
+
+  Mon frère termine son *stage* en milieu hospitalier la semaine prochaine.
+  Mein Bruder beendet nächste Woche sein Krankenhaus*praktikum*.
+
+  Les enfants participent à un *stage* de voile pendant les vacances.
+  Die Kinder nehmen in den Ferien an einem Segel*kurs* teil.
+
+  Je dois encore trouver un *stage* pour valider ma première année.
+  Ich muss noch ein *Praktikum* finden, um mein erstes Jahr abzuschließen.
+
+  Sarah effectue son *stage* dans un cabinet d'architectes.
+  Sarah macht ihr *Praktikum* in einem Architekturbüro.
+
+  Le *stage* professionnel dure trois mois et commence en mars.
+  Der Fach*lehrgang* dauert drei Monate und beginnt im März.
+
+  Nous proposons un *stage* de remise à niveau en mathématiques.
+  Wir bieten einen Auffrischungs*kurs* in Mathematik an.
+
+  Le *stage* se termine par un examen pratique.
+  Der *Lehrgang* endet mit einer praktischen Prüfung.
+
+  Julie cherche un *stage* en laboratoire pour l'été.
+  Julie sucht ein Labor*praktikum* für den Sommer.
+
+  Mon *stage* de fin d'études m'a ouvert beaucoup de portes.
+  Mein Abschluss*praktikum* hat mir viele Türen geöffnet.
+
+  Les inscriptions pour le *stage* d'été sont maintenant ouvertes.
+  Die Anmeldungen für den Sommer*kurs* sind jetzt geöffnet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis très confus, je ne sais pas pourquoi.
-  Ich bin sehr verwirrt, ich weiß nicht warum.
+  Je suis très *confus*, je ne sais pas pourquoi.
+  Ich bin sehr *verwirrt*, ich weiß nicht warum.
 
-  Je suis confus.
-  Ich bin verwirrt.
+  Un bruit *confus* de voix s'élevait de la rue.
+  Ein *undeutliches* Stimmengewirr kam von der Straße.
 
-  Dans la salle, des voix confuses se sont mêlées, créant un véritable brouhaha.
-  In dem Raum vermischten sich Stimmengewirr zu einem wahren Chaos.
+  Marie était *confuse* d'être arrivée en retard à la réunion.
+  Marie war *verlegen*, weil sie zu spät zum Meeting gekommen war.
 
-  Je suis confus! J'ai oublié le nom de votre fils!
-  Das ist mir so peinlich! Ich habe den Namen Ihres Sohnes vergessen!
+  Je garde un souvenir *confus* de cette soirée.
+  Ich habe nur eine *vage* Erinnerung an diesen Abend.
+
+  Des murmures *confus* se faisaient entendre dans la salle d'attente.
+  *Undeutliches* Gemurmel war im Wartezimmer zu hören.
+
+  Ses explications étaient tellement *confuses* que personne n'a rien compris.
+  Seine Erklärungen waren so *verworren*, dass niemand etwas verstanden hat.
+
+  Il était *confus* de tous ces compliments.
+  Er war von all den Komplimenten *überwältigt*.
+
+  La situation politique devient de plus en plus *confuse*.
+  Die politische Situation wird immer *verworrener*.
+
+  Des cris *confus* venaient de loin.
+  *Undeutliche* Schreie kamen von weitem.
+
+  Son esprit était *confus* après une nuit sans sommeil.
+  Sein Geist war *wirr* nach einer schlaflosen Nacht.
+
+  Elle avait le sentiment *confus* que quelque chose n'allait pas.
+  Sie hatte das *unbestimmte* Gefühl, dass etwas nicht stimmte.
+
+  Je suis *confus* de vous avoir dérangé si tard.
+  Es ist mir sehr *peinlich*, Sie so spät gestört zu haben.
+
+  La foule émettait des sons *confus*.
+  Die Menge gab *undeutliche* Geräusche von sich.
+
+  Ses idées sont restées *confuses* jusqu'à la fin de la présentation.
+  Seine Gedanken blieben bis zum Ende der Präsentation *wirr*.
+
+  J'étais *confuse* de mon erreur.
+  Ich war wegen meines Fehlers *verlegen*.
+
+  Un amalgame *confus* d'impressions me restait de ce voyage.
+  Ein *verworrenes* Durcheinander von Eindrücken blieb mir von dieser Reise.
+
+  Les enfants parlaient tous en même temps, créant un bruit *confus*.
+  Die Kinder sprachen alle gleichzeitig und erzeugten ein *undeutliches* Geräusch.
+
+  Son style d'écriture est devenu plus *confus* avec le temps.
+  Sein Schreibstil ist mit der Zeit *verworrener* geworden.
+
+  Je suis *confus* de tant de gentillesse.
+  Ich bin von so viel Freundlichkeit *überwältigt*.
+
+  Les voix *confuses* des voisins traversaient le mur.
+  Die *undeutlichen* Stimmen der Nachbarn drangen durch die Wand.
+
+  Il avait des notions très *confuses* sur ce sujet.
+  Er hatte sehr *vage* Vorstellungen von diesem Thema.
+
+  Elle était *confuse* d'avoir oublié son anniversaire.
+  Es war ihr *peinlich*, dass sie seinen Geburtstag vergessen hatte.
+
+  Le brouhaha *confus* de la ville montait jusqu'à sa fenêtre.
+  Der *undeutliche* Lärm der Stadt drang bis zu ihrem Fenster hinauf.
+
+  Son discours était long et *confus*.
+  Seine Rede war lang und *verworren*.
+
+  Cette période de ma vie reste *confuse* dans ma mémoire.
+  Diese Zeit meines Lebens bleibt in meiner Erinnerung *verschwommen*.
+
+  Le patient semblait *confus* et désorienté.
+  Der Patient wirkte *verwirrt* und orientierungslos.
+
+  Les explications du professeur étaient *confuses* aujourd'hui.
+  Die Erklärungen des Lehrers waren heute *unklar*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

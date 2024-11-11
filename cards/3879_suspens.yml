@@ -13,20 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Trop de questions vont rester en suspens.
-  Zu viele Fragen werden offen bleiben.
+  Trop de questions vont rester en *suspens*.
+  Zu viele Fragen werden *offen* bleiben.
 
-  Le film maintient le suspens jusqu’à la fin.
-  Der Film hält die Spannung bis zum Ende aufrecht.
+  Le projet est en *suspens* depuis des mois.
+  Das Projekt ist seit Monaten in der *Schwebe*.
 
-  Le procès contre le suspect est en suspens, en attendant de nouvelles preuves.
-  Der Prozess gegen den Verdächtigen ruht, bis neue Beweise vorliegen.
+  Sa réponse est restée en *suspens*.
+  Seine Antwort blieb *unentschieden*.
 
-  Le projet de construction du nouveau stade est en suspens, en attendant l'approbation du conseil municipal.
-  Das Projekt für den Bau des neuen Stadions ist in der Schwebe, bis der Stadtrat seine Zustimmung erteilt.
+  Ces négociations sont en *suspens* depuis longtemps.
+  Diese Verhandlungen *schweben* seit langem.
 
-  Le dossier de remboursement des frais de déplacement est en suspens, en attendant la signature du chef de service.
-  Die Akte für die Rückerstattung der Reisekosten ist nicht abgeschlossen, bis der Abteilungsleiter sie unterschreibt.
+  Ma demande de visa est toujours en *suspens*.
+  Mein Visumsantrag ist noch *anhängig*.
+
+  Je déteste être en *suspens* avant un examen important.
+  Ich hasse es, vor einer wichtigen Prüfung in *Ungewissheit* zu sein.
+
+  Les travaux sont en *suspens* à cause du mauvais temps.
+  Die Arbeiten sind wegen des schlechten Wetters *ausgesetzt*.
+
+  Laissant sa phrase en *suspens*, elle quitta la pièce.
+  Sie ließ ihren Satz *unvollendet* und verließ den Raum.
+
+  Notre déménagement est en *suspens* jusqu'à nouvel ordre.
+  Unser Umzug ist bis auf weiteres in der *Schwebe*.
+
+  Le sort de l'entreprise reste en *suspens*.
+  Das Schicksal der Firma bleibt *ungewiss*.
+
+  Cette décision me tient en *suspens* depuis des semaines.
+  Diese Entscheidung hält mich seit Wochen in *Spannung*.
+
+  L'avenir du projet est en *suspens*.
+  Die Zukunft des Projekts ist *unentschieden*.
+
+  Elle nous a gardés en *suspens* pendant toute la soirée.
+  Sie hielt uns den ganzen Abend in *Spannung*.
+
+  Les rénovations sont en *suspens* faute de budget.
+  Die Renovierungen sind aus Geldmangel *ausgesetzt*.
+
+  La séance est en *suspens* jusqu'à l'arrivée du président.
+  Die Sitzung ist bis zur Ankunft des Vorsitzenden *unterbrochen*.
+
+  Le match est en *suspens* à cause de la pluie.
+  Das Spiel ist wegen des Regens *unterbrochen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

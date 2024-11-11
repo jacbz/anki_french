@@ -13,11 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’achèterai un portable et je t’appellerai.
-  Ich kaufe mir ein Handy und rufe dich an.
+  J'achèterai un *portable* et je t'appellerai.
+  Ich kaufe mir ein *Handy* und rufe dich an.
 
-  Je ne peux pas répondre, mon portable est éteint.
-  Ich kann nicht antworten, mein Handy ist ausgeschaltet.
+  Elle m'a envoyé un message sur mon *portable* hier soir.
+  Sie hat mir gestern Abend eine Nachricht auf mein *Handy* geschickt.
+
+  Mon *portable* est tombé en panne pendant les vacances.
+  Mein *Laptop* ist während des Urlaubs kaputt gegangen.
+
+  Cette machine à coudre *portable* ne pèse que trois kilos.
+  Diese *tragbare* Nähmaschine wiegt nur drei Kilo.
+
+  Mon nouveau *portable* a une excellente autonomie de batterie.
+  Mein neues *Handy* hat eine ausgezeichnete Akkulaufzeit.
+
+  Je cherche un ventilateur *portable* pour mon bureau.
+  Ich suche einen *tragbaren* Ventilator für mein Büro.
+
+  As-tu pensé à recharger ton *portable* ?
+  Hast du daran gedacht, dein *Handy* aufzuladen?
+
+  Ce logiciel est *portable* sur tous les systèmes d'exploitation.
+  Diese Software ist auf allen Betriebssystemen *portierbar*.
+
+  Je travaille sur mon *portable* dans le train.
+  Ich arbeite im Zug an meinem *Laptop*.
+
+  Cette robe n'est plus *portable*, elle est complètement démodée.
+  Dieses Kleid ist nicht mehr *tragbar*, es ist völlig aus der Mode.
+
+  Le poids de ce projecteur *portable* est vraiment raisonnable.
+  Das Gewicht dieses *tragbaren* Projektors ist wirklich vernünftig.
+
+  J'ai oublié mon *portable* à la maison ce matin.
+  Ich habe heute Morgen mein *Handy* zu Hause vergessen.
+
+  Ce nouveau modèle de radio *portable* fonctionne à l'énergie solaire.
+  Dieses neue *tragbare* Radiomodell funktioniert mit Solarenergie.
+
+  Il travaille toujours sur son *portable* dans le jardin.
+  Er arbeitet immer an seinem *Laptop* im Garten.
+
+  Cette valise est facilement *portable* grâce à ses roulettes.
+  Dieser Koffer ist dank seiner Rollen leicht *tragbar*.
+
+  Les étudiants doivent apporter leur *portable* en cours.
+  Die Studenten müssen ihren *Laptop* zum Unterricht mitbringen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,14 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les évadés sont activement recherchés.
-  Nach den Entflohenen wird aktiv gesucht.
+  Les évadés sont *activement* recherchés.
+  Die Ausbrecher werden *aktiv* gesucht.
 
-  Nous travaillons activement sur ce projet.
-  Wir arbeiten aktiv an diesem Projekt.
+  La police enquête *activement* sur cette affaire depuis trois semaines.
+  Die Polizei ermittelt seit drei Wochen *intensiv* in diesem Fall.
 
-  L'UE étudie activement la possibilité de nouvelles démarches politiques visant à souligner sa préoccupation.
-  Die EU prüft intensiv weitere politische Schritte zur Hervorhebung dieses Anliegens.
+  Notre entreprise recrute *activement* de nouveaux talents.
+  Unser Unternehmen sucht *aktiv* nach neuen Talenten.
+
+  Ils participent *activement* aux discussions en classe.
+  Sie beteiligen sich *tatkräftig* am Unterrichtsgespräch.
+
+  Elle s'est *activement* engagée dans la protection de l'environnement.
+  Sie hat sich *aktiv* für den Umweltschutz eingesetzt.
+
+  Les bénévoles travaillent *activement* à la préparation du festival.
+  Die Freiwilligen arbeiten *eifrig* an der Vorbereitung des Festivals.
+
+  Le comité a *activement* soutenu cette initiative dès le début.
+  Das Komitee hat diese Initiative von Anfang an *aktiv* unterstützt.
+
+  Marie participe *activement* à la vie associative de son quartier.
+  Marie beteiligt sich *tatkräftig* am Vereinsleben ihres Viertels.
+
+  Nous collaborons *activement* avec nos partenaires internationaux.
+  Wir arbeiten *aktiv* mit unseren internationalen Partnern zusammen.
+
+  Les scientifiques étudient *activement* ce nouveau phénomène.
+  Die Wissenschaftler erforschen dieses neue Phänomen *intensiv*.
+
+  Il cherche *activement* un appartement depuis deux mois.
+  Er sucht seit zwei Monaten *eifrig* nach einer Wohnung.
+
+  Les étudiants contribuent *activement* au projet de recherche.
+  Die Studierenden tragen *aktiv* zum Forschungsprojekt bei.
+
+  Elle encourage *activement* ses enfants à faire du sport.
+  Sie ermutigt ihre Kinder *tatkräftig*, Sport zu treiben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

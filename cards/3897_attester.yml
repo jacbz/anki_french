@@ -13,17 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Comme l’attesteront les amis qui me connaissent bien.
-  Wie Freunde, die mich gut kennen, bestätigen werden.
+  Comme l'*attesteront* les amis qui me connaissent bien.
+  Wie meine Freunde, die mich gut kennen, *bezeugen* werden.
 
-  Je peux attester que c’est vrai.
-  Ich kann bezeugen, dass es wahr ist.
+  Le médecin a *attesté* que Marie était en bonne santé.
+  Der Arzt hat *bescheinigt*, dass Marie gesund ist.
 
-  Le témoignage de Marie atteste que Jean a volé l'argent.
-  Der Aussage von Marie zufolge ist Jean ein Beweis dafür, dass er das Geld gestohlen hat.
+  Ces documents juridiques *attestent* la propriété du terrain.
+  Diese rechtlichen Dokumente *bestätigen* den Besitz des Grundstücks.
 
-  La présence du roi dans la ville est attestée dans les chroniques du XIIIe siècle.
-  Die Anwesenheit des Königs in der Stadt ist durch die Chroniken des 13. Jahrhunderts belegt.
+  Les découvertes archéologiques *attestent* l'existence d'une civilisation ancienne.
+  Die archäologischen Funde *belegen* die Existenz einer alten Zivilisation.
+
+  Je peux *attester* personnellement de son honnêteté.
+  Ich kann seine Ehrlichkeit persönlich *bezeugen*.
+
+  La signature du directeur *atteste* l'authenticité du document.
+  Die Unterschrift des Direktors *bestätigt* die Echtheit des Dokuments.
+
+  Ces photographies *attestent* la présence de Thomas à la réunion.
+  Diese Fotos *beweisen* Thomas' Anwesenheit bei dem Treffen.
+
+  Le professeur doit *attester* la présence des étudiants aux examens.
+  Der Professor muss die Anwesenheit der Studenten bei den Prüfungen *bescheinigen*.
+
+  Son diplôme *atteste* qu'il a terminé ses études avec succès.
+  Sein Diplom *bestätigt*, dass er sein Studium erfolgreich abgeschlossen hat.
+
+  Les témoins ont *attesté* avoir vu l'accident.
+  Die Zeugen haben *bestätigt*, den Unfall gesehen zu haben.
+
+  Ces statistiques *attestent* de l'amélioration de la situation.
+  Diese Statistiken sind ein *Beweis* für die Verbesserung der Situation.
+
+  Le certificat médical *atteste* son incapacité de travail.
+  Das ärztliche Attest *bescheinigt* seine Arbeitsunfähigkeit.
+
+  Cette signature *atteste* que vous avez lu le règlement.
+  Diese Unterschrift *bestätigt*, dass Sie die Vorschriften gelesen haben.
+
+  L'expert a *attesté* l'authenticité du tableau.
+  Der Experte hat die Echtheit des Gemäldes *bestätigt*.
+
+  Les rapports scientifiques *attestent* du changement climatique.
+  Die wissenschaftlichen Berichte *belegen* den Klimawandel.
+
+  Ce mot est *attesté* dans les textes depuis le Moyen Âge.
+  Dieses Wort ist in Texten seit dem Mittelalter *belegt*.
+
+  J'*atteste* sur l'honneur que ces informations sont exactes.
+  Ich *versichere* ehrenwörtlich, dass diese Informationen korrekt sind.
+
+  Les fouilles *attestent* que la ville existait déjà au IXe siècle.
+  Die Ausgrabungen *bezeugen*, dass die Stadt bereits im 9. Jahrhundert existierte.
+
+  Cette tradition est *attestée* dans de nombreuses cultures.
+  Diese Tradition ist in vielen Kulturen *belegt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

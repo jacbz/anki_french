@@ -13,11 +13,47 @@ Register: ↗Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La république tchèque est l’une des grandes démocraties.
-  Die Tschechische Republik ist eine der großen Demokratien.
+  La république *tchèque* est l'une des grandes démocraties.
+  Die *tschechische* Republik ist eine der großen Demokratien.
 
-  Je parle tchèque.
-  Ich spreche Tschechisch.
+  Je suis allé à Prague, la capitale *tchèque*, l'été dernier.
+  Letzten Sommer war ich in Prag, der *tschechischen* Hauptstadt.
+
+  Le *tchèque* est une langue très différente du français.
+  *Tschechisch* ist eine Sprache, die sich sehr vom Französischen unterscheidet.
+
+  Les touristes *tchèques* visitent souvent Paris en été.
+  *Tschechische* Touristen besuchen Paris oft im Sommer.
+
+  Elle enseigne le *tchèque* à l'université depuis dix ans.
+  Sie unterrichtet seit zehn Jahren *Tschechisch* an der Universität.
+
+  Mon ami *tchèque* m'a invité chez lui pour Noël.
+  Mein *tschechischer* Freund hat mich zu Weihnachten zu sich eingeladen.
+
+  Les *Tchèques* sont connus pour leur excellente bière.
+  Die *Tschechen* sind für ihr ausgezeichnetes Bier bekannt.
+
+  J'apprends le *tchèque* depuis six mois.
+  Ich lerne seit sechs Monaten *Tschechisch*.
+
+  L'équipe de football *tchèque* a gagné le match hier soir.
+  Die *tschechische* Fußballmannschaft hat gestern Abend das Spiel gewonnen.
+
+  Les *Tchèques* et les Slovaques étaient autrefois un seul pays.
+  Die *Tschechen* und Slowaken waren früher ein Land.
+
+  Le gouvernement *tchèque* a annoncé de nouvelles mesures économiques.
+  Die *tschechische* Regierung hat neue wirtschaftliche Maßnahmen angekündigt.
+
+  Ma grand-mère *tchèque* m'a appris à cuisiner des plats traditionnels.
+  Meine *tschechische* Großmutter hat mir beigebracht, traditionelle Gerichte zu kochen.
+
+  Les écrivains *tchèques* ont une riche tradition littéraire.
+  *Tschechische* Schriftsteller haben eine reiche literarische Tradition.
+
+  Le festival du film *tchèque* commence la semaine prochaine.
+  Das *tschechische* Filmfestival beginnt nächste Woche.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

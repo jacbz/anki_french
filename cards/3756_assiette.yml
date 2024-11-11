@@ -13,44 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je prendrai l’assiette de crudités.
-  Ich nehme den Rohkostteller.
+  Je prendrai l'*assiette* de crudités.
+  Ich nehme den *Teller* Rohkost.
 
-  Elle a posé l’assiette sur la table.
-  Sie hat den Teller auf den Tisch gestellt.
+  Cette *assiette* en carton n'est pas très écologique.
+  Dieser Papp*teller* ist nicht sehr umweltfreundlich.
 
-  J’ai utilisé cette assiette.
-  Ich habe diesen Teller benutzt.
+  Marie, n'oublie pas de mettre une *assiette* à dessert pour chaque invité.
+  Marie, vergiss nicht, für jeden Gast einen Dessert*teller* hinzustellen.
 
-  J'ai besoin d'une assiette plate pour manger mon steak.
-  Ich brauche einen flachen Teller, um mein Steak zu essen.
+  Il a rapporté une belle *assiette* en étain de son voyage.
+  Er hat einen schönen Zinn*teller* von seiner Reise mitgebracht.
 
-  Il a l'air vraiment pas dans son assiette aujourd'hui.
-  Er wirkt heute wirklich nicht auf dem Damm.
+  "Ne pas être dans son *assiette*" signifie ne pas se sentir bien.
+  "Nicht auf dem *Damm* sein" bedeutet, dass es einem nicht gut geht.
 
-  La nouvelle assiette d'imposition a été annoncée par le gouvernement.
-  Die neue Steuergrundlage wurde von der Regierung angekündigt.
+  Le cavalier débutant n'a pas encore une bonne *assiette*.
+  Der Anfänger hat noch keinen guten *Sitz* im Sattel.
 
-  Il faut une assiette profonde pour servir la soupe.
-  Man braucht einen tiefen Teller, um die Suppe zu servieren.
+  La serveuse a fait tomber une pile d'*assiettes*.
+  Die Kellnerin hat einen Stapel *Teller* fallen lassen.
 
-  Après le repas, on a servi une assiette à dessert avec des fruits frais.
-  Nach dem Essen wurde ein Obstteller mit frischen Früchten serviert.
+  Paul ne lève jamais le nez de son *assiette* pendant les repas.
+  Paul hebt während des Essens nie die Nase von seinem *Teller*.
 
-  Pour le fromage, il faut une assiette à fromage, bien sûr!
-  Für den Käse braucht man natürlich einen Käseteller!
+  J'ai commandé une *assiette* anglaise pour le déjeuner.
+  Ich habe mir eine kalte *Platte* zum Mittagessen bestellt.
 
-  Ce plat est servi avec une assiette de soupe.
-  Dieses Gericht wird mit einem Teller Suppe serviert.
+  L'*assiette* de la statue n'est pas stable sur ce sol.
+  Der *Stand* der Statue ist auf diesem Boden nicht stabil.
 
-  On a utilisé des assiettes en carton pour le pique-nique.
-  Für das Picknick wurden Pappteller verwendet.
+  Les enfants, finissez vos *assiettes* !
+  Kinder, esst eure *Teller* leer!
 
-  Finis ton assiette! Il n'y a plus rien dans le plat.
-  Iss deinen Teller leer! Es ist nichts mehr auf dem Teller.
+  Cette *assiette* creuse est parfaite pour la soupe.
+  Dieser tiefe *Teller* ist perfekt für die Suppe.
 
-  L'assiette de l'impôt foncier est calculée en fonction de la valeur du bien immobilier.
-  Die Grundsteuerveranlagung wird anhand des Wertes der Immobilie berechnet.
+  Je préfère une *assiette* en porcelaine à une assiette en plastique.
+  Ich bevorzuge einen Porzellan*teller* gegenüber einem Plastikteller.
+
+  L'*assiette* de l'avion était parfaite pendant l'atterrissage.
+  Die *Lage* des Flugzeugs war perfekt während der Landung.
+
+  "Il n'est vraiment pas dans son *assiette* aujourd'hui."
+  "Er ist heute wirklich nicht auf dem *Damm*."
+
+  Le restaurant propose une *assiette* de fromages variés.
+  Das Restaurant bietet einen *Teller* mit verschiedenen Käsesorten an.
+
+  Cette *assiette* à soupe est ébréchée.
+  Dieser Suppen*teller* ist angeschlagen.
+
+  L'*assiette* du navire a été modifiée par la tempête.
+  Die *Trimmlage* des Schiffs wurde durch den Sturm verändert.
+
+  Pour se donner de l'*assiette*, il a écarté les jambes.
+  Um einen besseren *Stand* zu haben, spreizte er die Beine.
+
+  Change mon *assiette*, s'il te plaît, celle-ci est sale.
+  Wechsle bitte meinen *Teller*, dieser hier ist schmutzig.
+
+  L'*assiette* de la route doit être parfaitement plane.
+  Das *Planum* der Straße muss vollkommen eben sein.
+
+  Les convives ont chacun une *assiette* à fromage devant eux.
+  Die Gäste haben jeweils einen Käse*teller* vor sich.
+
+  Marc a renversé le contenu de son *assiette*.
+  Marc hat den Inhalt seines *Tellers* verschüttet.
+
+  Cette belle *assiette* de faïence date du XVIIIe siècle.
+  Dieser schöne Fayence*teller* stammt aus dem 18. Jahrhundert.
+
+  L'*assiette* du cavalier s'est améliorée avec l'entraînement.
+  Der *Sitz* des Reiters hat sich durch das Training verbessert.
+
+  Il a perdu son *assiette* et est tombé de cheval.
+  Er verlor seinen *Sitz* und fiel vom Pferd.
+
+  Sophie met toujours une jolie *assiette* à dessert pour le gâteau.
+  Sophie stellt immer einen hübschen Dessert*teller* für den Kuchen hin.
+
+  L'*assiette* de la coupe forestière a été définie hier.
+  Die *Einteilung* des Waldschlags wurde gestern festgelegt.
+
+  Le serveur arrive avec une *assiette* de fruits frais.
+  Der Kellner kommt mit einem *Teller* frischem Obst.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

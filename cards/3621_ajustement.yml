@@ -13,26 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’ajustement reste aussi insuffisant.
-  Auch die Anpassung bleibt unzureichend.
+  L'*ajustement* reste aussi insuffisant.
+  Die *Anpassung* bleibt ebenfalls unzureichend.
 
-  Nous avons besoin d’un ajustement de notre stratégie.
-  Wir brauchen eine Anpassung unserer Strategie.
+  L'*ajustement* des prix est devenu nécessaire en raison de l'inflation.
+  Die Preis*anpassung* ist aufgrund der Inflation notwendig geworden.
 
-  Le cours a été ajusté en fonction des fluctuations du marché.
-  Der Kurs wurde an die Marktschwankungen angepasst.
+  L'*ajustement* automatique des salaires n'est pas encore mis en place.
+  Die automatische Lohn*anpassung* ist noch nicht eingeführt.
 
-  Les prix ont été ajustés pour tenir compte de l'inflation.
-  Die Preise wurden an die Inflation angepasst.
+  Le syndicat demande un *ajustement* des salaires au coût de la vie.
+  Die Gewerkschaft fordert eine *Anpassung* der Löhne an die Lebenshaltungskosten.
 
-  Les salaires ont été ajustés pour tenir compte de l'augmentation du coût de la vie.
-  Die Löhne wurden an die gestiegenen Lebenshaltungskosten angepasst.
+  La couturière a fait un *ajustement* rapide de ma robe.
+  Die Schneiderin hat eine schnelle *Änderung* an meinem Kleid vorgenommen.
 
-  Les salaires ont été ajustés de manière aménagée pour garantir une progression régulière.
-  Die Löhne wurden gleitend angepasst, um eine kontinuierliche Steigerung zu gewährleisten.
+  L'*ajustement* final du texte prendra encore quelques jours.
+  Die *Änderung* des Textes wird noch einige Tage dauern.
 
-  La valeur partielle a été ajustée pour refléter les pertes subies.
-  Die Teilwertberichtigung wurde vorgenommen, um die erlittenen Verluste zu reflektieren.
+  Un *ajustement* précis de la balance est nécessaire pour obtenir des résultats fiables.
+  Eine präzise *Justierung* der Waage ist notwendig, um zuverlässige Ergebnisse zu erhalten.
+
+  L'*ajustement* statistique des données nous permet de mieux voir la tendance.
+  Der statistische *Ausgleich* der Daten lässt uns den Trend besser erkennen.
+
+  Les mécaniciens travaillent sur l'*ajustement* des pièces du moteur.
+  Die Mechaniker arbeiten an der *Passung* der Motorteile.
+
+  Un *ajustement* des termes du contrat sera nécessaire.
+  Eine *Anpassung* der Vertragsbedingungen wird erforderlich sein.
+
+  L'*ajustement* progressif du cours de l'action a évité une chute brutale.
+  Die schrittweise Kurs*anpassung* hat einen drastischen Sturz verhindert.
+
+  Ce costume a besoin d'un petit *ajustement* au niveau des manches.
+  Dieser Anzug braucht eine kleine *Änderung* an den Ärmeln.
+
+  L'*ajustement* technique du système prendra environ une heure.
+  Die technische *Einstellung* des Systems wird ungefähr eine Stunde dauern.
+
+  Un *ajustement* régulier des paramètres est recommandé.
+  Eine regelmäßige *Anpassung* der Parameter wird empfohlen.
+
+  L'*ajustement* des chiffres montre une légère amélioration.
+  Die *Korrektur* der Zahlen zeigt eine leichte Verbesserung.
+
+  L'*ajustement* de la production à la demande est crucial.
+  Die *Anpassung* der Produktion an die Nachfrage ist entscheidend.
+
+  Nous devons faire un *ajustement* du budget pour le prochain trimestre.
+  Wir müssen eine *Anpassung* des Budgets für das nächste Quartal vornehmen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

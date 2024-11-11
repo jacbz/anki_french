@@ -13,20 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nul n’osa l’interrompre pour rectifier.
-  Niemand wagte es, ihn zu unterbrechen und zu korrigieren.
+  Nul n'osa l'interrompre pour *rectifier*.
+  Niemand wagte es, sie zu unterbrechen, um sie zu *korrigieren*.
 
-  Je dois rectifier cette erreur.
-  Ich muss diesen Fehler korrigieren.
+  L'enseignant a *rectifié* mon calcul au tableau.
+  Der Lehrer hat meine Rechnung an der Tafel *korrigiert*.
 
-  Le fabricant a dû rectifier les défauts du produit avant de le mettre en vente.
-  Der Hersteller musste die Fehler des Produkts ausmerzen, bevor er es auf den Markt brachte.
+  Je dois *rectifier* ma position assise pour éviter le mal de dos.
+  Ich muss meine Sitzhaltung *korrigieren*, um Rückenschmerzen zu vermeiden.
 
-  Le danseur s'est redressé et a rectifié sa position.
-  Der Tänzer richtete sich auf und nahm seine Haltung an.
+  Les ouvriers vont *rectifier* le tracé de la route.
+  Die Arbeiter werden den Straßenverlauf *begradigen*.
 
-  Le menuisier a rectifié la pièce pour la rendre parfaitement lisse.
-  Der Tischler hat die Feinbearbeitung des Werkstücks vorgenommen, um es perfekt glatt zu machen.
+  Le chef m'a demandé de *rectifier* l'assaisonnement de la sauce.
+  Der Koch bat mich, die Würzung der Soße zu *verbessern*.
+
+  Nous devons *rectifier* cette erreur dans le contrat immédiatement.
+  Wir müssen diesen Fehler im Vertrag sofort *richtigstellen*.
+
+  Le soldat a *rectifié* sa position devant le général.
+  Der Soldat hat vor dem General *Haltung angenommen*.
+
+  L'artilleur doit *rectifier* son tir pour atteindre la cible.
+  Der Artillerist muss seinen Schuss *korrigieren*, um das Ziel zu treffen.
+
+  Le mécanicien va *rectifier* la pièce pour qu'elle s'ajuste parfaitement.
+  Der Mechaniker wird das Werkstück *nachschleifen*, damit es perfekt passt.
+
+  Il faut *rectifier* le bâti de cette veste avant la livraison.
+  Die Passform dieser Jacke muss vor der Lieferung *korrigiert* werden.
+
+  La secrétaire a *rectifié* les fautes de frappe dans le document.
+  Die Sekretärin hat die Tippfehler im Dokument *berichtigt*.
+
+  Le professeur m'a permis de *rectifier* ma réponse.
+  Der Lehrer erlaubte mir, meine Antwort zu *korrigieren*.
+
+  "Il faut *rectifier* le tir* si nous voulons réussir ce projet."
+  "Wir müssen den *Kurs korrigieren*, wenn wir dieses Projekt erfolgreich abschließen wollen."
+
+  Les géomètres vont *rectifier* l'alignement des façades.
+  Die Vermesser werden die Ausrichtung der Fassaden *begradigen*.
+
+  Le chimiste doit *rectifier* l'alcool par distillation.
+  Der Chemiker muss den Alkohol durch Destillation *reinigen*.
+
+  Je voudrais *rectifier* une information donnée lors de la réunion.
+  Ich möchte eine Information *richtigstellen*, die während des Meetings gegeben wurde.
+
+  L'architecte a dû *rectifier* les plans plusieurs fois.
+  Der Architekt musste die Pläne mehrmals *korrigieren*.
+
+  Emma a *rectifié* son maquillage avant la photo.
+  Emma hat ihr Make-up vor dem Foto *nachgebessert*.
+
+  Le tailleur va *rectifier* l'ourlet de ta robe.
+  Die Schneiderin wird den Saum deines Kleides *korrigieren*.
+
+  Les ingénieurs doivent *rectifier* les défauts de conception.
+  Die Ingenieure müssen die Konstruktionsfehler *beheben*.
+
+  Il faut *rectifier* cette fausse impression immédiatement.
+  Dieser falsche Eindruck muss sofort *richtiggestellt* werden.
+
+  Le journal a dû *rectifier* les informations publiées hier.
+  Die Zeitung musste die gestern veröffentlichten Informationen *berichtigen*.
+
+  Paul a *rectifié* sa trajectoire pour éviter l'accident.
+  Paul hat seine Fahrtrichtung *korrigiert*, um den Unfall zu vermeiden.
+
+  Le cuisinier a *rectifié* l'assaisonnement avant de servir.
+  Der Koch hat die Würzung vor dem Servieren *nachgebessert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

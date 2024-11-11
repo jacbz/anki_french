@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Quel est le secret de votre dynamisme?
-  Was ist das Geheimnis Ihrer Dynamik?
+  Quel est le secret de votre *dynamisme* ?
+  Was ist das Geheimnis Ihrer *Dynamik*?
 
-  Le dynamisme de l’équipe est impressionnant.
-  Die Dynamik des Teams ist beeindruckend.
+  Le *dynamisme* de cette start-up impressionne tous les investisseurs.
+  Die *Dynamik* dieses Start-ups beeindruckt alle Investoren.
+
+  Notre nouveau chef d'équipe apporte beaucoup de *dynamisme* au projet.
+  Unser neuer Teamleiter bringt viel *Schwung* in das Projekt.
+
+  Elle fait preuve d'un *dynamisme* remarquable malgré son âge.
+  Sie zeigt trotz ihres Alters eine bemerkenswerte *Tatkraft*.
+
+  Le *dynamisme* du marché immobilier attire de nouveaux acteurs.
+  Die *Dynamik* des Immobilienmarktes zieht neue Akteure an.
+
+  Les jeunes entrepreneurs insufflent un nouveau *dynamisme* dans ce quartier.
+  Die jungen Unternehmer bringen neue *Dynamik* in dieses Viertel.
+
+  Son *dynamisme* naturel en fait une excellente vendeuse.
+  Ihre natürliche *Dynamik* macht sie zu einer ausgezeichneten Verkäuferin.
+
+  Le *dynamisme* de la croissance économique dépasse les prévisions.
+  Die *Dynamik* des Wirtschaftswachstums übertrifft die Prognosen.
+
+  Le professeur explique le *dynamisme* de Leibniz en philosophie.
+  Der Professor erklärt Leibniz' *Dynamismus* in der Philosophie.
+
+  C'est grâce à son *dynamisme* qu'elle a réussi à monter sa propre entreprise.
+  Dank ihrer *Schaffenskraft* ist es ihr gelungen, ihr eigenes Unternehmen aufzubauen.
+
+  Le *dynamisme* de notre équipe nous permet de relever tous les défis.
+  Die *Dynamik* unseres Teams ermöglicht es uns, alle Herausforderungen zu meistern.
+
+  Les recruteurs recherchent avant tout le *dynamisme* chez les candidats.
+  Die Personalverantwortlichen suchen bei den Bewerbern vor allem nach *Tatkraft*.
+
+  Le *dynamisme* bergsonien s'oppose au mécanisme traditionnel.
+  Der bergsonsche *Dynamismus* steht im Gegensatz zum traditionellen Mechanismus.
+
+  Cette ville a retrouvé son *dynamisme* d'antan grâce aux nouvelles industries.
+  Diese Stadt hat durch die neuen Industrien ihre frühere *Dynamik* wiedergefunden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

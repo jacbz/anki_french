@@ -13,20 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous ne pouvez pas les louer à autrui.
-  Sie dürfen sie nicht an andere vermieten.
+  Vous ne pouvez pas les louer à *autrui*.
+  Sie können sie nicht an *andere* vermieten.
 
-  Respecter autrui est important.
-  Den Anderen zu respektieren ist wichtig.
+  Ne fais pas à *autrui* ce que tu ne voudrais pas qu'on te fasse.
+  Tu den *anderen* nicht an, was du nicht willst, dass man dir antut.
 
-  L'amour d'autrui est un sentiment précieux qui doit nous guider dans nos actions.
-  Nächstenliebe ist ein wertvolles Gefühl, das uns in unserem Handeln leiten sollte.
+  L'*amour d'autrui* est le fondement de notre société.
+  Die *Nächstenliebe* ist das Fundament unserer Gesellschaft.
 
-  Il a fait cela pour le compte d'autrui, sans rien demander en retour.
-  Er hat das auf fremde Rechnung getan, ohne etwas im Gegenzug zu verlangen.
+  Il travaille toujours pour le compte d'*autrui*.
+  Er arbeitet immer auf *fremde* Rechnung.
 
-  Il est interdit de toucher au bien d'autrui sans autorisation.
-  Es ist verboten, fremdes Gut ohne Erlaubnis zu berühren.
+  Respecter les biens d'*autrui* est essentiel dans une société civilisée.
+  Das *Eigentum anderer* zu respektieren ist in einer zivilisierten Gesellschaft unerlässlich.
+
+  Elle se dévoue constamment à *autrui*.
+  Sie widmet sich ständig den *anderen*.
+
+  Pierre juge souvent *autrui* par lui-même.
+  Pierre beurteilt *andere* oft nach sich selbst.
+
+  Marc s'amuse aux dépens d'*autrui*.
+  Marc amüsiert sich auf Kosten *anderer*.
+
+  Mon grand-père m'a appris à respecter *autrui*.
+  Mein Großvater hat mir beigebracht, *andere* zu respektieren.
+
+  Elle parle toujours par la bouche d'*autrui*.
+  Sie spricht immer durch den Mund *anderer*.
+
+  Les enfants doivent apprendre à partager leurs jouets avec *autrui*.
+  Kinder müssen lernen, ihr Spielzeug mit *anderen* zu teilen.
+
+  Il faut éviter de médire d'*autrui*.
+  Man sollte es vermeiden, schlecht über *andere* zu reden.
+
+  Sophie a toujours su se mettre à la place d'*autrui*.
+  Sophie konnte sich schon immer in *andere* hineinversetzen.
+
+  Je refuse de vivre aux dépens d'*autrui*.
+  Ich weigere mich, auf Kosten *anderer* zu leben.
+
+  L'entraide et le respect d'*autrui* sont des valeurs essentielles.
+  Gegenseitige Hilfe und der Respekt vor *anderen* sind wesentliche Werte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

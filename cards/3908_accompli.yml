@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mission accomplie, hein? C’est fini.
-  Mission erfüllt, ja? Es ist vorbei.
+  Mission *accomplie*, hein ? C'est fini.
+  *Erledigt*, ja? Das war's.
 
-  La mission est accomplie.
-  Die Mission ist erfüllt.
+  Le fait *accompli* nous met dans une situation délicate.
+  Die vollendete *Tatsache* bringt uns in eine heikle Lage.
 
-  Nous l’avons accompli.
-  Wir haben sie erfüllt.
+  Voilà une œuvre d'art *accomplie* qui reflète parfaitement l'époque baroque.
+  Das ist ein *vollendetes* Kunstwerk, das die Barockzeit perfekt widerspiegelt.
 
-  Le passé composé est un temps de l'accompli.
-  Das Perfekt ist ein Tempus, mit dem ein Geschehen als vollendet dargestellt wird.
+  Jean est un musicien *accompli* qui maîtrise plusieurs instruments.
+  Jean ist ein *vollkommener* Musiker, der mehrere Instrumente beherrscht.
+
+  Cette danseuse *accomplie* nous a tous impressionnés hier soir.
+  Diese *vollendete* Tänzerin hat uns gestern Abend alle beeindruckt.
+
+  Elle a mis ses parents devant le fait *accompli* en partant étudier à l'étranger.
+  Sie stellte ihre Eltern vor *vollendete* Tatsachen, indem sie zum Studium ins Ausland ging.
+
+  Ma fille aura bientôt seize ans *accomplis*.
+  Meine Tochter wird bald *volle* sechzehn Jahre alt sein.
+
+  Le professeur a le sentiment du devoir *accompli*.
+  Der Lehrer hat das Gefühl der *erfüllten* Pflicht.
+
+  Cette cathédrale est l'un des monuments les plus *accomplis* de l'art gothique.
+  Diese Kathedrale ist eines der *vollendetsten* Bauwerke der gotischen Kunst.
+
+  Sophie est devenue une femme d'une beauté *accomplie*.
+  Sophie ist zu einer Frau von *vollkommener* Schönheit geworden.
+
+  C'est un gentleman *accompli* qui sait toujours comment se comporter.
+  Er ist ein *vollendeter* Gentleman, der sich immer zu benehmen weiß.
+
+  Le passé *accompli* exprime une action terminée dans le passé.
+  Das *vollendete* Präteritum drückt eine in der Vergangenheit abgeschlossene Handlung aus.
+
+  Ses talents d'orateur *accompli* ont captivé tout l'auditoire.
+  Seine Fähigkeiten als *vollendeter* Redner haben das gesamte Publikum gefesselt.
+
+  Cette sportive *accomplie* a remporté tous les tournois majeurs.
+  Diese *vollendete* Sportlerin hat alle wichtigen Turniere gewonnen.
+
+  Une fois la tâche *accomplie*, nous pourrons nous reposer.
+  Sobald die Aufgabe *erledigt* ist, können wir uns ausruhen.
+
+  L'architecte a créé un espace parfaitement *accompli*.
+  Der Architekt hat einen *vollkommenen* Raum geschaffen.
+
+  Le temps *accompli* en grammaire indique que l'action est achevée.
+  Die *vollendete* Zeit in der Grammatik zeigt an, dass die Handlung abgeschlossen ist.
+
+  Après vingt ans *accomplis* de service, elle prend sa retraite.
+  Nach *vollen* zwanzig Dienstjahren geht sie in den Ruhestand.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

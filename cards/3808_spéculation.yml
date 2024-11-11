@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La fièvre de la spéculation a produit les mariages d’argent.
-  Das Spekulationsfieber hat Geldheirat hervorgebracht.
+  La fièvre de la *spéculation* a produit les mariages d'argent.
+  Das *Spekulations*fieber hat die Geldheiraten hervorgebracht.
 
-  La spéculation boursière peut être risquée.
-  Die Börsenspekulation kann riskant sein.
+  Les *spéculations* boursières peuvent être très risquées pour les investisseurs inexpérimentés.
+  *Börsen*spekulationen* können für unerfahrene Anleger sehr riskant sein.
 
-  Les experts font des spéculations sur l'avenir de l'économie.
-  Die Experten stellen Spekulationen über die Zukunft der Wirtschaft an.
+  La *spéculation* immobilière a fait grimper les prix des logements dans le centre-ville.
+  Die Immobilien*spekulation* hat die Wohnungspreise in der Innenstadt in die Höhe getrieben.
 
-  La spéculation foncière est un marché très volatil.
-  Die Grundstücksspekulation ist ein sehr volatiler Markt.
+  Il aime se perdre dans des *spéculations* philosophiques sur le sens de la vie.
+  Er verliert sich gerne in philosophischen *Spekulationen* über den Sinn des Lebens.
+
+  Les *spéculations* des journalistes sur la démission du ministre se sont avérées fausses.
+  Die *Spekulationen* der Journalisten über den Rücktritt des Ministers haben sich als falsch erwiesen.
+
+  Cette nouvelle loi vise à limiter la *spéculation* foncière.
+  Dieses neue Gesetz zielt darauf ab, die Grundstücks*spekulation* einzudämmen.
+
+  Les mathématiciens se livrent souvent à des *spéculations* abstraites sur les nombres.
+  Mathematiker beschäftigen sich oft mit abstrakten *Spekulationen* über Zahlen.
+
+  Sa fortune s'est construite grâce à des *spéculations* heureuses en bourse.
+  Sein Vermögen wurde durch erfolgreiche Börsen*spekulationen* aufgebaut.
+
+  Cette *spéculation* à la baisse lui a coûté toutes ses économies.
+  Diese *Spekulation* auf fallende Kurse hat ihn seine ganzen Ersparnisse gekostet.
+
+  Les experts font des *spéculations* sur l'évolution des prix du pétrole.
+  Die Experten stellen *Spekulationen* über die Entwicklung der Ölpreise an.
+
+  Une nouvelle taxe sur la *spéculation* financière sera bientôt mise en place.
+  Eine neue Steuer auf Finanz*spekulationen* wird bald eingeführt.
+
+  Ces *spéculations* métaphysiques ne mènent à rien de concret.
+  Diese metaphysischen *Spekulationen* führen zu nichts Konkretem.
+
+  La *spéculation* frauduleuse a été découverte par les autorités financières.
+  Die betrügerische *Spekulation* wurde von den Finanzbehörden aufgedeckt.
+
+  Il s'est ruiné à cause de *spéculations* hasardeuses sur le marché des actions.
+  Er hat sich durch waghalsige *Spekulationen* am Aktienmarkt ruiniert.
+
+  Ses *spéculations* sur les intentions du gouvernement se sont révélées exactes.
+  Seine *Spekulationen* über die Absichten der Regierung haben sich als richtig erwiesen.
+
+  Ce raisonnement n'est que pure *spéculation*, sans aucune preuve concrète.
+  Diese Überlegung ist reine *Spekulation*, ohne jeden konkreten Beweis.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

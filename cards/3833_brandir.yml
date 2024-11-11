@@ -13,14 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il brandit longuement les poings sous l’ovation.
-  Er schwingt unter stehenden Ovationen lange die Fäuste.
+  Il *brandit* longuement les poings sous l'ovation.
+  Er *schwenkte* lange die Fäuste unter dem Beifall.
 
-  Il brandit son épée.
-  Er schwingt sein Schwert.
+  Le manifestant *brandissait* une pancarte avec un slogan provocateur.
+  Der Demonstrant *schwenkte* ein Schild mit einem provokanten Slogan.
 
-  Le chevalier fit face à son ennemi, en brandissant son épée.
-  Der Ritter stellte sich seinem Feind entgegen, mit erhobenem Schwert.
+  L'enfant *brandissait* fièrement son petit drapeau tricolore pendant le défilé.
+  Das Kind *schwenkte* stolz seine kleine Trikolore während der Parade.
+
+  Le chevalier *brandit* son épée vers le ciel avant la bataille.
+  Der Ritter *erhob* sein Schwert gen Himmel vor der Schlacht.
+
+  Les supporters *brandissaient* des banderoles pour encourager leur équipe.
+  Die Fans *schwenkten* Banner, um ihre Mannschaft anzufeuern.
+
+  Le patron *brandit* sa démission comme une menace.
+  Der Chef drohte mit seiner Kündigung.
+
+  Le député *brandit* le règlement pour justifier son opposition.
+  Der Abgeordnete *zückte* die Geschäftsordnung, um seinen Widerstand zu rechtfertigen.
+
+  Les ouvriers *brandissaient* leurs outils en signe de protestation.
+  Die Arbeiter *schwenkten* ihre Werkzeuge als Zeichen des Protests.
+
+  Le menuisier a *brandi* le chevron sur la panne avec une cheville en bois.
+  Der Tischler hat den Sparren mit einem Holzdübel an der Pfette *befestigt*.
+
+  Le viking *brandissait* une hache massive au-dessus de sa tête.
+  Der Wikinger *schwang* eine massive Axt über seinem Kopf.
+
+  Les révolutionnaires *brandirent* l'étendard de la révolte dans les rues.
+  Die Revolutionäre *erhoben* das Banner des Aufstands in den Straßen.
+
+  L'avocat *brandit* triomphalement la preuve de l'innocence de son client.
+  Der Anwalt *schwenkte* triumphierend den Beweis für die Unschuld seines Mandanten.
+
+  Le gardien *brandissait* sa lanterne pour signaler le danger.
+  Der Wächter *schwenkte* seine Laterne, um die Gefahr zu signalisieren.
+
+  L'homme *brandit* un journal en criant les gros titres.
+  Der Mann *schwenkte* eine Zeitung und rief die Schlagzeilen.
+
+  Les militants *brandissaient* des affiches lors de la manifestation pacifique.
+  Die Aktivisten *schwenkten* Plakate während der friedlichen Demonstration.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

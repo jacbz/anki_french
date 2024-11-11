@@ -13,11 +13,35 @@ Register: ↘Fiktion ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les manifestants ont fait monter la pression.
-  Die Demonstranten erhöhten den Druck.
+  Les *manifestants* ont fait monter la pression.
+  Die *Demonstranten* haben den Druck erhöht.
 
-  Les manifestants ont bloqué la rue.
-  Die Demonstranten haben die Straße blockiert.
+  Un groupe de *manifestants* s'est rassemblé devant la mairie.
+  Eine Gruppe von *Demonstranten* hat sich vor dem Rathaus versammelt.
+
+  La police a dispersé les *manifestants* avec des gaz lacrymogènes.
+  Die Polizei hat die *Demonstranten* mit Tränengas auseinandergetrieben.
+
+  Les *manifestantes* brandissaient des pancartes colorées.
+  Die *Demonstrantinnen* schwenkten bunte Plakate.
+
+  Une jeune *manifestante* a pris la parole devant la foule.
+  Eine junge *Demonstrantin* hat vor der Menge das Wort ergriffen.
+
+  Les *manifestants* défilent pacifiquement dans les rues principales.
+  Die *Demonstranten* ziehen friedlich durch die Hauptstraßen.
+
+  Le cortège des *manifestants* s'étendait sur plusieurs kilomètres.
+  Der Zug der *Demonstranten* erstreckte sich über mehrere Kilometer.
+
+  Plusieurs *manifestants* ont été interviewés par les journalistes.
+  Mehrere *Demonstranten* wurden von den Journalisten interviewt.
+
+  Les *manifestants* scandaient des slogans pour le climat.
+  Die *Demonstranten* skandierten Sprechchöre für das Klima.
+
+  Le nombre de *manifestants* a dépassé les attentes des organisateurs.
+  Die Zahl der *Demonstranten* hat die Erwartungen der Organisatoren übertroffen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

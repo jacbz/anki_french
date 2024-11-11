@@ -13,41 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Leur herbier fournit des remèdes, des tisanes.
-  Ihr Herbarium liefert Heilmittel und Kräutertees.
+  Leur herbier fournit des *remèdes*, des tisanes.
+  Ihr Kräuterbuch liefert *Heilmittel* und Kräutertees.
 
-  Ce médicament est un bon remède contre le mal de tête.
-  Dieses Medikament ist ein gutes Heilmittel gegen Kopfschmerzen.
+  Mon médecin m'a prescrit un *remède* contre la toux.
+  Mein Arzt hat mir ein *Medikament* gegen den Husten verschrieben.
 
-  Ce remède naturel est réputé pour ses propriétés anti-inflammatoires.
-  Dieses Naturheilmittel ist für seine entzündungshemmenden Eigenschaften bekannt.
+  Ce *remède* naturel est efficace contre les maux de tête.
+  Dieses Natur*heilmittel* ist wirksam gegen Kopfschmerzen.
 
-  Le remède est pire que le mal, il vaut mieux laisser le problème se résoudre tout seul.
-  Den Teufel mit dem Beelzebub austreiben, da hilft nur, das Problem sich selbst zu lösen.
+  Il a trouvé un *remède* universel pour toutes les maladies.
+  Er hat ein Universal*mittel* für alle Krankheiten gefunden.
 
-  Ce remède miracle n'est qu'un leurre, il ne fonctionne pas.
-  Dieses Wundermittel ist nur ein Trugbild, es funktioniert nicht.
+  Je prends un *remède* pour la circulation sanguine chaque matin.
+  Ich nehme jeden Morgen ein *Kreislaufmittel* ein.
 
-  La situation est sans remède, il n'y a plus rien à faire.
-  Die Situation ist ausweglos, es gibt nichts mehr zu tun.
+  Le pharmacien m'a conseillé ce *remède* pour l'estomac.
+  Der Apotheker hat mir dieses *Magenmittel* empfohlen.
 
-  Le gouvernement a annoncé un remède contre l'inflation, mais il est trop tôt pour dire si cela fonctionnera.
-  Die Regierung hat ein Mittel zur Bekämpfung der Inflation angekündigt, aber es ist noch zu früh, um zu sagen, ob es funktionieren wird.
+  Ces comprimés sont un excellent *remède* contre les rhumatismes.
+  Diese Tabletten sind ein ausgezeichnetes *Rheumamittel*.
 
-  Il n'existe pas de remède universel pour toutes les maladies.
-  Es gibt kein Universalmittel für alle Krankheiten.
+  Les économistes cherchent un *remède* contre l'inflation.
+  Die Ökonomen suchen nach einem *Mittel* gegen die Inflation.
 
-  Ce remède pour la circulation est efficace, mais il faut le prendre régulièrement.
-  Dieses Kreislaufmittel ist effektiv, aber man muss es regelmäßig einnehmen.
+  Il faut porter *remède* à cette situation rapidement.
+  Dieser Situation muss schnell *Abhilfe* geschaffen werden.
 
-  Ce remède pour l'estomac soulage les brûlures d'estomac.
-  Dieses Magenmittel lindert Sodbrennen.
+  Cette maladie est malheureusement sans *remède*.
+  Diese Krankheit ist leider *unheilbar*.
 
-  Ce remède pour les rhumatismes est à base d'extraits de plantes.
-  Dieses Rheumamittel besteht aus Pflanzenextrakten.
+  "Ma grand-mère connaît beaucoup de *remèdes* de bonne femme."
+  "Meine Großmutter kennt viele *Hausmittel*."
 
-  Il faut porter remède à ce mal avant qu'il ne devienne trop grave.
-  Man muss diesem Übel abhelfen, bevor es zu schwerwiegend wird.
+  "Ce *remède* de cheval m'a complètement assommé !"
+  "Dieses *Medikament* war viel zu stark für mich!"
+
+  Dans ce cas, le *remède* est pire que le mal.
+  In diesem Fall ist das *Heilmittel* schlimmer als die Krankheit.
+
+  As-tu trouvé un *remède* à ton ennui ?
+  Hast du ein *Mittel* gegen deine Langeweile gefunden ?
+
+  Aux grands maux, les grands *remèdes*.
+  Große Probleme erfordern drastische *Maßnahmen*.
+
+  Le temps est parfois le meilleur *remède*.
+  Zeit ist manchmal das beste *Heilmittel*.
+
+  Elle cherche désespérément un *remède* à sa solitude.
+  Sie sucht verzweifelt nach einem *Heilmittel* gegen ihre Einsamkeit.
+
+  Il n'existe aucun *remède* miracle contre la tristesse.
+  Es gibt kein Wunder*mittel* gegen Traurigkeit.
+
+  Ce nouveau *remède* pharmaceutique est très prometteur.
+  Dieses neue Pharma*präparat* ist sehr vielversprechend.
+
+  J'ai essayé tous les *remèdes* possibles contre l'insomnie.
+  Ich habe alle möglichen *Mittel* gegen Schlaflosigkeit versucht.
+
+  Le yoga est un excellent *remède* contre le stress.
+  Yoga ist ein ausgezeichnetes *Mittel* gegen Stress.
+
+  La lecture est son *remède* préféré contre l'anxiété.
+  Lesen ist ihr liebstes *Heilmittel* gegen Angstzustände.
+
+  Il faut trouver un *remède* durable à ce problème.
+  Wir müssen eine dauerhafte *Lösung* für dieses Problem finden.
+
+  Ce *remède* a fait ses preuves depuis des siècles.
+  Dieses *Heilmittel* hat sich seit Jahrhunderten bewährt.
+
+  Les scientifiques cherchent encore un *remède* efficace.
+  Die Wissenschaftler suchen noch nach einem wirksamen *Heilmittel*.
+
+  Le sport est un bon *remède* contre la dépression.
+  Sport ist ein gutes *Mittel* gegen Depression.
+
+  Ce *remède* traditionnel vient de la médecine chinoise.
+  Dieses traditionelle *Heilmittel* stammt aus der chinesischen Medizin.
+
+  Il n'y a pas de *remède* simple à ce problème complexe.
+  Es gibt keine einfache *Lösung* für dieses komplexe Problem.
+
+  Le médecin lui a prescrit un *remède* éprouvé.
+  Der Arzt hat ihr ein bewährtes *Medikament* verschrieben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

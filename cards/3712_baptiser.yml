@@ -13,20 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai baptisé presque tous les habitants de la ville.
-  Ich habe fast alle Menschen in der Stadt getauft.
+  J'ai *baptisé* presque tous les habitants de la ville.
+  Ich habe fast alle Einwohner der Stadt ge*tauft*.
 
-  Le prêtre va baptiser le bébé demain.
-  Der Priester wird morgen das Baby taufen.
+  L'enfant a été *baptisé* au nom du Père, du Fils et du Saint-Esprit.
+  Das Kind wurde im Namen des Vaters, des Sohnes und des Heiligen Geistes ge*tauft*.
 
-  Les parents ont décidé de baptiser leur fils Pierre.
-  Die Eltern haben beschlossen, ihren Sohn Pierre zu taufen.
+  Elle devait être *baptisée* d'urgence car elle était très malade.
+  Sie musste die Not*taufe* bekommen, weil sie sehr krank war.
 
-  Ses camarades l'ont baptisé "l'asperge" à cause de sa grande taille.
-  Seine Kameraden haben ihm den Spitznamen "Bohnenstange" gegeben, weil er so groß ist.
+  Nous allons *baptiser* notre fille Marie-Claire.
+  Wir werden unsere Tochter auf den Namen Marie-Claire *taufen*.
 
-  Le bébé est né prématurément et a été baptisé d'urgence.
-  Das Baby kam zu früh zur Welt und wurde notgetauft.
+  Le prêtre *baptise* par aspersion aujourd'hui, pas par immersion.
+  Der Priester *tauft* heute durch Besprenkeln, nicht durch Untertauchen.
+
+  "Tu as encore *baptisé* ton vin !"
+  "Du hast deinen Wein schon wieder mit Wasser ver*mischt*!"
+
+  Ses amis l'ont *baptisé* "le Prof" à cause de ses lunettes.
+  Seine Freunde haben ihm den Spitznamen "der Prof" wegen seiner Brille ge*geben*.
+
+  Le roi Clovis fut *baptisé* à Reims en 496.
+  König Chlodwig wurde 496 in Reims ge*tauft*.
+
+  On va *baptiser* le nouveau bateau "L'Aventurier" demain.
+  Morgen werden wir das neue Schiff auf den Namen "L'Aventurier" *taufen*.
+
+  Cette petite pièce a été *baptisée* "salon de lecture".
+  Dieser kleine Raum wurde "Lesezimmer" ge*nannt*.
+
+  Les marins l'ont *baptisé* "le Capitaine" dès son premier jour.
+  Die Matrosen haben ihn vom ersten Tag an "der Kapitän" ge*nannt*.
+
+  La nouvelle cloche sera *baptisée* dimanche prochain.
+  Die neue Glocke wird nächsten Sonntag ge*tauft*.
+
+  Le restaurant vient d'être *baptisé* "Chez Pierre".
+  Das Restaurant wurde gerade "Bei Pierre" ge*tauft*.
+
+  "Tu as encore *baptisé* le lait ce matin !"
+  "Du hast die Milch heute Morgen schon wieder ver*wässert*!"
+
+  Les étudiants ont *baptisé* leur promotion "Victor Hugo".
+  Die Studenten haben ihren Jahrgang "Victor Hugo" ge*tauft*.
+
+  On a *baptisé* son cheval "Éclair" à cause de sa vitesse.
+  Man hat sein Pferd wegen seiner Geschwindigkeit "Blitz" ge*tauft*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

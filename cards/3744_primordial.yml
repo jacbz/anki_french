@@ -13,20 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La citoyenneté revêt une importance primordiale.
-  Die Staatsbürgerschaft ist von größter Bedeutung.
+  La citoyenneté revêt une importance *primordiale*.
+  Die Staatsbürgerschaft ist von *grundlegender* Bedeutung.
 
-  Le respect de l’environnement est primordial.
-  Der Umweltschutz ist grundlegend.
+  Il est *primordial* que nous respections les délais.
+  Es ist *entscheidend*, dass wir die Fristen einhalten.
 
-  La nourriture est primordiale pour la santé de tous les êtres vivants.
-  Nahrung ist äußerst wichtig für die Gesundheit aller Lebewesen.
+  La satisfaction du client joue un rôle *primordial* dans notre entreprise.
+  Die Kundenzufriedenheit spielt eine *wesentliche* Rolle in unserem Unternehmen.
 
-  Le droit primordial à la liberté d'expression est garanti par la constitution.
-  Das Grundrecht auf freie Meinungsäußerung ist in der Verfassung garantiert.
+  Le droit à l'éducation est un droit *primordial*.
+  Das Recht auf Bildung ist ein Grund*recht*.
 
-  Il est primordial que vous soyez à l'heure pour le rendez-vous, car il n'y aura pas de temps à perdre.
-  Es ist von äußerster Wichtigkeit, dass Sie pünktlich zum Termin kommen, denn es wird keine Zeit zu verlieren sein.
+  La confiance est *primordiale* pour une relation durable.
+  Vertrauen ist *äußerst wichtig* für eine dauerhafte Beziehung.
+
+  L'instinct *primordial* de survie nous pousse à agir.
+  Der *ursprüngliche* Überlebensinstinkt treibt uns zum Handeln.
+
+  Cette découverte a joué un rôle *primordial* dans l'histoire de la médecine.
+  Diese Entdeckung spielte eine *grundlegende* Rolle in der Geschichte der Medizin.
+
+  La sécurité des enfants est *primordiale* pour les parents.
+  Die Sicherheit der Kinder ist für Eltern von *entscheidender* Bedeutung.
+
+  Il sera *primordial* d'avoir tous les documents nécessaires.
+  Es wird *wesentlich* sein, alle erforderlichen Dokumente zu haben.
+
+  Une bonne communication est *primordiale* pour éviter les malentendus.
+  Eine gute Kommunikation ist *grundlegend*, um Missverständnisse zu vermeiden.
+
+  Le sommeil joue un rôle *primordial* dans notre santé.
+  Schlaf spielt eine *entscheidende* Rolle für unsere Gesundheit.
+
+  La motivation est *primordiale* pour réussir ses études.
+  Motivation ist *äußerst wichtig* für den Studienerfolg.
+
+  L'état *primordial* de la matière fascine les scientifiques.
+  Der *ursprüngliche* Zustand der Materie fasziniert Wissenschaftler.
+
+  Une alimentation équilibrée est *primordiale* pour rester en bonne santé.
+  Eine ausgewogene Ernährung ist von *grundlegender* Bedeutung für die Gesundheit.
+
+  La protection de l'environnement est devenue *primordiale* pour notre survie.
+  Der Umweltschutz ist für unser Überleben *wesentlich* geworden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

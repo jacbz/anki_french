@@ -13,17 +13,125 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les tests me rendent nerveux.
-  Tests machen mich nervös.
+  Les tests me rendent *nerveux*.
+  Die Tests machen mich *nervös*.
 
-  Il est toujours nerveux avant un examen.
-  Er ist immer nervös vor einer Prüfung.
+  Cette voiture est très *nerveuse* sur l'autoroute.
+  Dieses Auto ist auf der Autobahn sehr *spritzig*.
 
-  Il avait la tension nerveuse à cause de l'examen.
-  Er hatte die Nervenanspannung wegen der Prüfung.
+  Paul a un rire *nerveux* quand il est stressé.
+  Paul hat ein *nervöses* Lachen, wenn er gestresst ist.
 
-  Il est un nerveux, toujours à se soucier de tout.
-  Er ist ein Nervenbündel, der sich ständig um alles sorgt.
+  "Je suis trop *nerveuse* pour dormir !"
+  "Ich bin zu *nervös* zum Schlafen!"
+
+  Le cheval devient *nerveux* avant la course.
+  Das Pferd wird vor dem Rennen *unruhig*.
+
+  Elle souffre d'une dépression *nerveuse* depuis trois mois.
+  Sie leidet seit drei Monaten unter einer *Nerven*depression.
+
+  Mon père est un grand *nerveux*.
+  Mein Vater ist ein *Nervenbündel*.
+
+  Le moteur de cette moto est très *nerveux*.
+  Der Motor dieses Motorrads ist sehr *spritzig*.
+
+  Sa tension *nerveuse* augmente avant chaque examen.
+  Seine *Nerven*anspannung steigt vor jeder Prüfung.
+
+  Le boxeur a des mains *nerveuses* et puissantes.
+  Der Boxer hat *sehnige* und kräftige Hände.
+
+  Ce rôti est trop *nerveux* pour les enfants.
+  Dieser Braten ist für die Kinder zu *sehnig*.
+
+  Son style d'écriture est très *nerveux* et précis.
+  Sein Schreibstil ist sehr *ausdrucksvoll* und präzise.
+
+  Les chats deviennent *nerveux* pendant l'orage.
+  Katzen werden während des Gewitters *unruhig*.
+
+  Elle a eu une grossesse *nerveuse*.
+  Sie hatte eine *Nerven*schwangerschaft.
+
+  Marie est une personne très *nerveuse* et sensible.
+  Marie ist eine sehr *nervöse* und empfindliche Person.
+
+  Le système *nerveux* contrôle toutes nos fonctions vitales.
+  Das *Nerven*system steuert alle unsere lebenswichtigen Funktionen.
+
+  Cette viande est trop *nerveuse* pour être grillée.
+  Dieses Fleisch ist zu *sehnig* zum Grillen.
+
+  Les troubles *nerveux* peuvent affecter notre sommeil.
+  *Nerven*störungen können unseren Schlaf beeinträchtigen.
+
+  Son fils est devenu très *nerveux* à l'école.
+  Ihr Sohn ist in der Schule sehr *nervös* geworden.
+
+  La voiture électrique est plus *nerveuse* que prévu.
+  Das Elektroauto ist *spritziger* als erwartet.
+
+  Le tissu *nerveux* est essentiel pour la transmission des signaux.
+  Das *Nerven*gewebe ist für die Signalübertragung unerlässlich.
+
+  Les cellules *nerveuses* se régénèrent lentement.
+  Die *Nerven*zellen regenerieren sich langsam.
+
+  Cette athlète est très *nerveuse* avant la compétition.
+  Diese Athletin ist vor dem Wettkampf sehr *nervös*.
+
+  Le chien devient *nerveux* quand il y a des étrangers.
+  Der Hund wird *unruhig*, wenn Fremde da sind.
+
+  Son écriture est devenue *nerveuse* sous la pression.
+  Seine Handschrift ist unter dem Druck *unruhig* geworden.
+
+  Les centres *nerveux* contrôlent nos mouvements.
+  Die *Nerven*zentren kontrollieren unsere Bewegungen.
+
+  Cette maladie *nerveuse* nécessite un traitement spécial.
+  Diese *Nerven*krankheit erfordert eine spezielle Behandlung.
+
+  Le coureur est particulièrement *nerveux* aujourd'hui.
+  Der Läufer ist heute besonders *dynamisch*.
+
+  Les voies *nerveuses* transmettent l'information au cerveau.
+  Die *Nerven*bahnen übertragen die Information ans Gehirn.
+
+  Son caractère *nerveux* lui cause des problèmes.
+  Sein *nervöser* Charakter bereitet ihm Probleme.
+
+  Cette actrice est toujours *nerveuse* avant d'entrer en scène.
+  Diese Schauspielerin ist vor dem Auftritt immer *nervös*.
+
+  Le système *nerveux* autonome régule la digestion.
+  Das autonome *Nerven*system reguliert die Verdauung.
+
+  Les enfants sont *nerveux* la veille de Noël.
+  Die Kinder sind am Heiligabend *nervös*.
+
+  Cette Ferrari est très *nerveuse* en virage.
+  Dieser Ferrari ist in den Kurven sehr *spritzig*.
+
+  Son comportement *nerveux* inquiète ses parents.
+  Sein *nervöses* Verhalten beunruhigt seine Eltern.
+
+  Les spasmes *nerveux* peuvent être très douloureux.
+  *Nerven*krämpfe können sehr schmerzhaft sein.
+
+  Cette candidate paraît *nerveuse* pendant l'entretien.
+  Diese Bewerberin wirkt während des Gesprächs *nervös*.
+
+  Le système *nerveux* périphérique est complexe.
+  Das periphere *Nerven*system ist komplex.
+
+  Les temps d'attente rendent les clients *nerveux*.
+  Die Wartezeiten machen die Kunden *nervös*.
+
+  Le jeune cheval est trop *nerveux* pour être monté.
+  Das junge Pferd ist zu *unruhig* zum Reiten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

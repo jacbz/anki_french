@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Quatre suspects se sont suicidés samedi.
-  Vier Verdächtige begingen am Samstag Selbstmord.
+  Quatre suspects se sont *suicidés* samedi.
+  Vier Verdächtige haben sich am Samstag *umgebracht*.
 
-  Il a essayé de se suicider.
-  Er hat versucht, sich umzubringen.
+  Le député s'est *suicidé* en s'ouvrant les veines dans sa baignoire.
+  Der Abgeordnete hat sich in seiner Badewanne die Pulsadern aufgeschnitten und *Selbstmord begangen*.
+
+  Par ses actions irréfléchies, le parti s'est politiquement *suicidé*.
+  Durch seine unbedachten Handlungen hat sich die Partei politisch selbst *zugrunde gerichtet*.
+
+  Elle s'est *suicidée* après avoir perdu toute sa fortune au casino.
+  Sie hat sich *das Leben genommen*, nachdem sie ihr gesamtes Vermögen im Casino verloren hatte.
+
+  Dans son dernier message, il a expliqué pourquoi il allait se *suicider*.
+  In seiner letzten Nachricht hat er erklärt, warum er sich *umbringen* würde.
+
+  Le philosophe s'est *suicidé* plutôt que de renoncer à ses principes.
+  Der Philosoph hat sich *getötet*, anstatt seine Prinzipien aufzugeben.
+
+  Cette entreprise va se *suicider* si elle continue sur cette voie.
+  Dieses Unternehmen wird sich *zugrunde richten*, wenn es so weitermacht.
+
+  Les enquêteurs pensent qu'on l'a *suicidé* pour faire taire un témoin gênant.
+  Die Ermittler glauben, dass man seinen Mord als *Selbstmord* getarnt hat, um einen unbequemen Zeugen zum Schweigen zu bringen.
+
+  Elle s'est *suicidée* en ingérant une dose mortelle de médicaments.
+  Sie hat sich durch die Einnahme einer tödlichen Dosis Medikamente *umgebracht*.
+
+  Le jeune homme s'est *suicidé* de désespoir après avoir échoué à ses examens.
+  Der junge Mann hat sich aus Verzweiflung *das Leben genommen*, nachdem er durch seine Prüfungen gefallen war.
+
+  En signant ce contrat, vous vous *suicidez* professionnellement.
+  Indem Sie diesen Vertrag unterschreiben, *richten* Sie sich beruflich *zugrunde*.
+
+  Plusieurs détenus se sont *suicidés* dans cette prison l'année dernière.
+  Mehrere Häftlinge haben sich letztes Jahr in diesem Gefängnis *umgebracht*.
+
+  Le roman raconte l'histoire d'un homme qui se *suicide* pour l'amour.
+  Der Roman erzählt die Geschichte eines Mannes, der aus Liebe *Selbstmord begeht*.
+
+  Les médias suggèrent qu'il ne s'est pas *suicidé*, mais qu'on l'a assassiné.
+  Die Medien deuten an, dass er nicht *Selbstmord begangen* hat, sondern ermordet wurde.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

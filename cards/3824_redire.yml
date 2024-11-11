@@ -13,17 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je te l’ai dit et redit.
-  Ich habe es dir immer wieder gesagt.
+  Je te l'ai dit et *redit*.
+  Ich habe es dir gesagt und *wiederholt*.
 
-  Je vais te le redire.
-  Ich werde es dir wiederholen.
+  Je dois vous *redire* que ce n'est pas possible aujourd'hui.
+  Ich muss Ihnen *wiederholen*, dass das heute nicht möglich ist.
 
-  Le professeur a demandé à Jean de redire un mot qu'il n'avait pas bien compris.
-  Der Lehrer bat Jean, ein Wort zu wiederholen, das er nicht richtig verstanden hatte.
+  Il m'a fallu *redire* mon nom trois fois au téléphone.
+  Ich musste meinen Namen am Telefon dreimal *wiederholen*.
 
-  J'ai rien à redire à ce gâteau, il est délicieux.
-  An diesem Kuchen habe ich nichts auszusetzen, er ist köstlich.
+  Les enfants *redisent* la phrase après leur professeur.
+  Die Kinder *sprechen* den Satz nach ihrem Lehrer *nach*.
+
+  Ne lui *redis* pas ce que je viens de te confier !
+  *Erzähl* ihm nicht *weiter*, was ich dir gerade anvertraut habe!
+
+  Elle *redit* toujours les mêmes histoires à ses petits-enfants.
+  Sie *erzählt* ihren Enkeln immer wieder dieselben Geschichten.
+
+  Marie ne fait que *redire* ce qu'elle entend à la radio.
+  Marie *wiederholt* nur, was sie im Radio hört.
+
+  Je vous *redis* combien votre aide a été précieuse.
+  Ich möchte Ihnen noch einmal *sagen*, wie wertvoll Ihre Hilfe war.
+
+  Peux-tu *redire* la dernière phrase plus lentement ?
+  Kannst du den letzten Satz langsamer *wiederholen*?
+
+  Il n'y a rien à *redire* sur son travail.
+  An seiner Arbeit gibt es nichts *auszusetzen*.
+
+  Tout le monde trouve à *redire* à ses décisions.
+  Jeder hat an seinen Entscheidungen etwas *auszusetzen*.
+
+  Je vous *redis* ma gratitude pour votre soutien.
+  Ich möchte Ihnen erneut meine Dankbarkeit für Ihre Unterstützung *aussprechen*.
+
+  N'allez pas *redire* partout ce que je vous ai raconté.
+  *Erzählen* Sie nicht überall *weiter*, was ich Ihnen erzählt habe.
+
+  L'élève *redit* la poésie sans faire d'erreur.
+  Der Schüler *trägt* das Gedicht fehlerlos *vor*.
+
+  Je te *redis* une dernière fois : fais attention !
+  Ich *sage* dir ein letztes Mal: Pass auf!
+
+  Qu'est-ce que tu trouves à *redire* à ma proposition ?
+  Was hast du an meinem Vorschlag *auszusetzen*?
+
+  Il faut tout lui *redire* dix fois.
+  Man muss ihm alles zehnmal *wiederholen*.
+
+  Je vous *redis* que c'est urgent.
+  Ich *wiederhole*, dass es dringend ist.
+
+  Elle *redit* mot pour mot ce qu'il lui avait confié.
+  Sie *wiederholte* wortwörtlich, was er ihr anvertraut hatte.
+
+  Le professeur fait *redire* la conjugaison aux élèves.
+  Der Lehrer lässt die Schüler die Konjugation *wiederholen*.
+
+  L'historien *redit* les événements avec précision.
+  Der Historiker *gibt* die Ereignisse präzise *wieder*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils empruntèrent d’abord une grande avenue.
-  Sie gingen zunächst eine breite Allee entlang.
+  Ils empruntèrent d'abord une grande *avenue*.
+  Sie bogen zuerst in eine große *Allee* ein.
 
-  Nous nous promenons sur l’avenue.
-  Wir spazieren auf der Allee.
+  L'*avenue* bordée de tilleuls mène directement au château.
+  Die von Linden gesäumte *Allee* führt direkt zum Schloss.
+
+  Les manifestants ont bloqué toutes les *avenues* principales du centre-ville.
+  Die Demonstranten haben alle Haupt*alleen* der Innenstadt blockiert.
+
+  La célèbre *Avenue* des Champs-Élysées attire des millions de touristes chaque année.
+  Die berühmte Champs-Élysées-*Allee* zieht jedes Jahr Millionen Touristen an.
+
+  Des gardes armés surveillaient toutes les *avenues* du palais royal.
+  Bewaffnete Wächter überwachten alle *Zugänge* zum königlichen Palast.
+
+  Le maire a fait planter des arbres le long de cette *avenue*.
+  Der Bürgermeister ließ entlang dieser *Allee* Bäume pflanzen.
+
+  Les urbanistes prévoient de créer une nouvelle *avenue* pour désengorger le trafic.
+  Die Stadtplaner planen eine neue *Allee* zur Entlastung des Verkehrs.
+
+  Il cherche toutes les *avenues* possibles pour accéder au pouvoir.
+  Er sucht nach allen möglichen *Wegen*, um an die Macht zu gelangen.
+
+  Marie habite dans un appartement spacieux sur la cinquième *avenue*.
+  Marie wohnt in einer geräumigen Wohnung an der fünften *Avenue*.
+
+  Les architectes ont percé plusieurs *avenues* dans ce nouveau quartier.
+  Die Architekten haben mehrere *Alleen* in diesem neuen Viertel angelegt.
+
+  Cette *avenue* est particulièrement belle en automne quand les feuilles changent de couleur.
+  Diese *Allee* ist besonders schön im Herbst, wenn sich die Blätter verfärben.
+
+  L'ancien palais se trouve au bout de cette longue *avenue*.
+  Der alte Palast befindet sich am Ende dieser langen *Allee*.
+
+  Les *avenues* de la fortune ne sont pas toujours honnêtes.
+  Die *Wege* zum Reichtum sind nicht immer ehrlich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -9,14 +9,81 @@ Femininum / Plural: ''
 IPA: \fi.lɔ.zɔf\
 Definition: Philosoph
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Il est plus homme que philosophe.\nEr ist eher ein Mensch als ein\
-  \ Philosoph.\n\nLes philosophes grecs ont posé les bases de la philosophie occidentale.\n\
-  Die griechischen Philosophen haben die Grundlagen der westlichen Philosophie gelegt.\n\
-  \nElle est philosophe de la culture et se spécialise dans l'étude des religions\
-  \ orientales.\nSie ist Kulturphilosophin und spezialisiert sich auf die Erforschung\
-  \ der östlichen Religionen. \n\nIl est philosophe des religions et s'intéresse particulièrement\
-  \ à la philosophie chrétienne.\nEr ist Religionsphilosoph und interessiert sich\
-  \ besonders für die christliche Philosophie."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Il est plus homme que *philosophe*.
+  Er ist mehr Mensch als *Philosoph*.
+
+  Comme *philosophe* de la culture, elle étudie l'influence des médias sur notre société.
+  Als Kultur*philosophin* untersucht sie den Einfluss der Medien auf unsere Gesellschaft.
+
+  Je suis admiratif devant l'approche *philosophe* de ma grand-mère face aux difficultés.
+  Ich bewundere die *weise* Herangehensweise meiner Großmutter an Schwierigkeiten.
+
+  Le jeune *philosophe* prépare sa thèse sur Kant.
+  Der junge *Philosoph* bereitet seine Doktorarbeit über Kant vor.
+
+  Cette *philosophe* des religions compare le bouddhisme et le christianisme.
+  Diese Religions*philosophin* vergleicht Buddhismus und Christentum.
+
+  Il resta très *philosophe* malgré la perte de son emploi.
+  Er blieb nach dem Verlust seiner Arbeit sehr *gelassen*.
+
+  Les écrits de cette *philosophe* ont influencé toute une génération.
+  Die Schriften dieser *Philosophin* haben eine ganze Generation geprägt.
+
+  Voltaire était un grand *philosophe* des Lumières.
+  Voltaire war ein großer *Philosoph* der Aufklärung.
+
+  Elle prend la vie de manière *philosophe*.
+  Sie nimmt das Leben auf *weise* Art und Weise.
+
+  Ce poète *philosophe* écrit sur l'existence humaine.
+  Dieser *philosophische* Dichter schreibt über die menschliche Existenz.
+
+  La *philosophe* donnera une conférence sur l'éthique demain.
+  Die *Philosophin* wird morgen einen Vortrag über Ethik halten.
+
+  Socrate était un *philosophe* qui enseignait dans les rues d'Athènes.
+  Sokrates war ein *Philosoph*, der in den Straßen Athens lehrte.
+
+  Les *philosophes* de l'Encyclopédie ont changé la pensée européenne.
+  Die *Philosophen* der Enzyklopädie haben das europäische Denken verändert.
+
+  Marc est devenu plus *philosophe* avec l'âge.
+  Marc ist mit dem Alter *weiser* geworden.
+
+  Cette *philosophe* féministe a écrit plusieurs livres influents.
+  Diese feministische *Philosophin* hat mehrere einflussreiche Bücher geschrieben.
+
+  Le roi *philosophe* gouvernait selon les principes de la raison.
+  Der *philosophische* König regierte nach den Prinzipien der Vernunft.
+
+  Marie est une mathématicienne *philosophe* reconnue.
+  Marie ist eine anerkannte *philosophische* Mathematikerin.
+
+  Les anciens *philosophes* grecs étudiaient la nature.
+  Die alten griechischen *Philosophen* studierten die Natur.
+
+  Il faut rester *philosophe* face aux petits problèmes quotidiens.
+  Man muss den kleinen Alltagsproblemen *gelassen* gegenüberstehen.
+
+  Cette *philosophe* existentialiste analyse la liberté humaine.
+  Diese existentialistische *Philosophin* analysiert die menschliche Freiheit.
+
+  Le jeune *philosophe* publie son premier livre sur l'éthique.
+  Der junge *Philosoph* veröffentlicht sein erstes Buch über Ethik.
+
+  Les *philosophes* stoïciens prônaient la maîtrise des émotions.
+  Die stoischen *Philosophen* predigten die Beherrschung der Gefühle.
+
+  Notre professeur de *philosophe* nous fait réfléchir différemment.
+  Unser *Philosophie*lehrer bringt uns dazu, anders zu denken.
+
+  Pierre accepte sa situation d'une manière très *philosophe*.
+  Pierre akzeptiert seine Situation auf sehr *weise* Weise.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,14 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tout le capitalisme est fondé sur la notion de rareté.
-  Der gesamte Kapitalismus beruht auf dem Konzept der Knappheit.
+  Tout le *capitalisme* est fondé sur la notion de rareté.
+  Der gesamte *Kapitalismus* basiert auf dem Konzept der Knappheit.
 
-  Le capitalisme est un système économique basé sur la propriété privée des moyens de production.
-  Der Kapitalismus ist ein Wirtschaftssystem, das auf der privaten Eigentumsrechte an Produktionsmitteln basiert.
+  Le *capitalisme* d'État joue un rôle majeur dans l'économie chinoise.
+  Der Staats*kapitalismus* spielt in der chinesischen Wirtschaft eine wichtige Rolle.
 
-  Le capitalisme tardif est marqué par une financiarisation accrue de l'économie.
-  Der Spätkapitalismus zeichnet sich durch eine zunehmende Finanzialisierung der Wirtschaft aus.
+  Le *capitalisme* international influence fortement les marchés émergents.
+  Der internationale *Kapitalismus* hat einen starken Einfluss auf die Schwellenmärkte.
+
+  Les critiques du *capitalisme* sauvage dénoncent l'exploitation des travailleurs.
+  Die Kritiker des ungezügelten *Kapitalismus* prangern die Ausbeutung der Arbeitnehmer an.
+
+  Le *capitalisme* tardif se caractérise par la mondialisation des marchés.
+  Der Spät*kapitalismus* ist durch die Globalisierung der Märkte gekennzeichnet.
+
+  Le développement du *capitalisme* a transformé notre société.
+  Die Entwicklung des *Kapitalismus* hat unsere Gesellschaft verändert.
+
+  Le *capitalisme* monopoliste concentre le pouvoir économique entre peu de mains.
+  Der Monopol*kapitalismus* konzentriert die wirtschaftliche Macht in wenigen Händen.
+
+  Les défenseurs du *capitalisme* soulignent l'importance de la libre entreprise.
+  Die Befürworter des *Kapitalismus* betonen die Bedeutung des freien Unternehmertums.
+
+  Le *capitalisme* trouve ses racines dans la révolution industrielle.
+  Der *Kapitalismus* hat seine Wurzeln in der industriellen Revolution.
+
+  La transition vers le *capitalisme* a été difficile pour les pays de l'Est.
+  Der Übergang zum *Kapitalismus* war für die osteuropäischen Länder schwierig.
+
+  Le *capitalisme* moderne repose sur l'innovation technologique.
+  Der moderne *Kapitalismus* basiert auf technologischer Innovation.
+
+  Les alternatives au *capitalisme* font l'objet de nombreux débats.
+  Die Alternativen zum *Kapitalismus* sind Gegenstand zahlreicher Debatten.
+
+  L'avenir du *capitalisme* dépendra de sa capacité à se réinventer.
+  Die Zukunft des *Kapitalismus* wird von seiner Fähigkeit zur Erneuerung abhängen.
+
+  Le *capitalisme* financier domine l'économie mondiale aujourd'hui.
+  Der Finanz*kapitalismus* dominiert heute die Weltwirtschaft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

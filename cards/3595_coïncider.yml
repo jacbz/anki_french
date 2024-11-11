@@ -13,14 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Avec caïn, la première révolte coïncide avec le premier crime.
-  Bei Kain fällt die erste Revolte mit dem ersten Verbrechen zusammen.
+  Avec caïn, la première révolte *coïncide* avec le premier crime.
+  Mit Kain *fällt* die erste Revolte mit dem ersten Verbrechen *zusammen*.
 
-  Nos emplois du temps coïncident parfaitement.
-  Unsere Zeitpläne stimmen perfekt überein.
+  La date de son anniversaire *coïncide* avec le jour de Noël.
+  Der Tag seines Geburtstags *fällt* mit dem Weihnachtstag *zusammen*.
 
-  Nos vacances ne coïncident jamais, c'est dommage !
-  Wir haben nie gleichzeitig Urlaub, das ist schade!
+  Leurs points de vue *coïncident* parfaitement sur cette question.
+  Ihre Standpunkte *stimmen* in dieser Frage perfekt *überein*.
+
+  Le début des soldes *coïncidait* avec mon jour de congé.
+  Der Beginn des Schlussverkaufs *fiel* mit meinem freien Tag *zusammen*.
+
+  Les deux triangles *coïncident* lorsqu'on les superpose.
+  Die beiden Dreiecke sind *kongruent*, wenn man sie übereinanderlegt.
+
+  Les traces dans la boue *coïncident* avec les chaussures du suspect.
+  Die Spuren im Schlamm *stimmen* mit den Schuhen des Verdächtigen *überein*.
+
+  Le pic de pollution *coïncide* souvent avec les fortes chaleurs.
+  Der Höhepunkt der Verschmutzung *fällt* oft mit der großen Hitze *zusammen*.
+
+  Les vacances scolaires ne *coïncident* pas avec celles des parents.
+  Die Schulferien *fallen* nicht mit denen der Eltern *zusammen*.
+
+  Nos emplois du temps ne *coïncident* jamais.
+  Unsere Zeitpläne *stimmen* nie *überein*.
+
+  Les résultats de ces deux expériences *coïncident* parfaitement.
+  Die Ergebnisse dieser beiden Experimente *stimmen* perfekt *überein*.
+
+  Ces deux cercles ne peuvent pas *coïncider* car leurs rayons sont différents.
+  Diese zwei Kreise können nicht *kongruent* sein, da ihre Radien unterschiedlich sind.
+
+  Son arrivée à Paris *coïncidera* avec le début du festival.
+  Seine Ankunft in Paris wird mit dem Beginn des Festivals *zusammenfallen*.
+
+  Les témoignages des deux témoins *coïncident* sur tous les points.
+  Die Aussagen der beiden Zeugen *stimmen* in allen Punkten *überein*.
+
+  Par chance, nos disponibilités *coïncident* cette semaine.
+  Zum Glück *stimmen* unsere Verfügbarkeiten diese Woche *überein*.
+
+  La fin de ses études *coïncidera* avec le début de sa carrière.
+  Das Ende seines Studiums wird mit dem Beginn seiner Karriere *zusammenfallen*.
+
+  Les intérêts des deux parties *coïncident* rarement dans ce type de négociation.
+  Die Interessen beider Parteien *stimmen* bei dieser Art von Verhandlung selten *überein*.
+
+  Le lancement du nouveau produit va *coïncider* avec la période des fêtes.
+  Die Einführung des neuen Produkts wird mit der Festzeit *zusammenfallen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

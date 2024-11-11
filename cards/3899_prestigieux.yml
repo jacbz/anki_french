@@ -13,11 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le jeune homme cumule trois diplômes prestigieux.
-  Der junge Mann vereint drei prestigeträchtige Abschlüsse in sich.
+  Le jeune homme cumule trois diplômes *prestigieux*.
+  Der junge Mann hat drei *angesehene* Abschlüsse.
 
-  C’est un hôtel prestigieux.
-  Das ist ein prestigeträchtiges Hotel.
+  Cette *prestigieuse* université accueille des étudiants du monde entier.
+  Diese *renommierte* Universität empfängt Studenten aus aller Welt.
+
+  La collection *prestigieuse* du musée attire des milliers de visiteurs.
+  Die *glanzvolle* Sammlung des Museums zieht tausende Besucher an.
+
+  Une carrière *prestigieuse* l'attend après ses études.
+  Eine *glanzvolle* Karriere erwartet sie nach ihrem Studium.
+
+  Ce scientifique *prestigieux* a reçu le prix Nobel de physique.
+  Dieser *hervorragende* Wissenschaftler hat den Nobelpreis für Physik erhalten.
+
+  L'hôtel *prestigieux* surplombe la mer Méditerranée.
+  Das *hochangesehene* Hotel thront über dem Mittelmeer.
+
+  Les vestiges *prestigieux* de l'ancien empire fascinent les archéologues.
+  Die *glanzvollen* Überreste des alten Reiches faszinieren die Archäologen.
+
+  Le restaurant a obtenu trois étoiles *prestigieuses* au guide Michelin.
+  Das Restaurant hat drei *renommierte* Michelin-Sterne erhalten.
+
+  Cette marque *prestigieuse* fabrique des montres depuis 1880.
+  Diese *angesehene* Marke stellt seit 1880 Uhren her.
+
+  La galerie expose les œuvres d'artistes *prestigieux*.
+  Die Galerie stellt Werke *namhafter* Künstler aus.
+
+  Ce vin *prestigieux* provient d'un vignoble centenaire.
+  Dieser *hochwertige* Wein stammt aus einem hundertjährigen Weinberg.
+
+  L'événement *prestigieux* rassemble l'élite mondiale du tennis.
+  Das *glanzvolle* Event versammelt die Weltelite des Tennis.
+
+  Le jury compte plusieurs membres *prestigieux* du monde littéraire.
+  Die Jury besteht aus mehreren *renommierten* Mitgliedern der Literaturwelt.
+
+  Cette *prestigieuse* récompense couronne vingt ans de recherche.
+  Diese *hochangesehene* Auszeichnung krönt zwanzig Jahre Forschung.
+
+  Le concert aura lieu dans une salle *prestigieuse* de la capitale.
+  Das Konzert wird in einem *glanzvollen* Saal der Hauptstadt stattfinden.
+
+  Cette adresse *prestigieuse* attire une clientèle internationale.
+  Diese *hochwertige* Adresse zieht internationale Kundschaft an.
+
+  Les étudiants rêvent d'intégrer cette école de commerce *prestigieuse*.
+  Die Studenten träumen davon, an dieser *renommierten* Wirtschaftshochschule aufgenommen zu werden.
+
+  Le musée abrite une *prestigieuse* collection d'art moderne.
+  Das Museum beherbergt eine *bemerkenswerte* Sammlung moderner Kunst.
+
+  Ce poste *prestigieux* attire de nombreux candidats qualifiés.
+  Diese *angesehene* Position zieht viele qualifizierte Bewerber an.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

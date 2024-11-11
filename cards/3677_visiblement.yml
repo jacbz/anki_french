@@ -13,11 +13,38 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il se tait, se domine visiblement.
-  Er schweigt und beherrscht sich sichtlich.
+  Il se tait, se domine *visiblement*.
+  Er schweigt und beherrscht sich *sichtlich*.
 
-  Visiblement, il n’a pas compris.
-  Offensichtlich hat er es nicht verstanden.
+  Elle est *visiblement* fatiguée après cette longue journée.
+  Sie ist nach diesem langen Tag *sichtlich* müde.
+
+  *Visiblement* inquiet, Pierre faisait les cent pas dans la salle d'attente.
+  *Sichtlich* beunruhigt lief Pierre im Wartezimmer auf und ab.
+
+  Les enfants sont *visiblement* heureux de retrouver leurs grands-parents.
+  Die Kinder sind *sichtlich* glücklich, ihre Großeltern wiederzusehen.
+
+  *Visiblement*, il n'a pas compris mes instructions.
+  Er hat meine Anweisungen *offensichtlich* nicht verstanden.
+
+  La situation s'est *visiblement* améliorée depuis notre dernière visite.
+  Die Situation hat sich seit unserem letzten Besuch *offensichtlich* verbessert.
+
+  Sophie était *visiblement* touchée par ce geste d'amitié.
+  Sophie war von dieser freundschaftlichen Geste *sichtlich* gerührt.
+
+  Le chien était *visiblement* mal à l'aise chez le vétérinaire.
+  Der Hund war beim Tierarzt *sichtlich* unwohl.
+
+  *Visiblement*, nous n'arriverons pas à temps pour le concert.
+  Wir werden es *offensichtlich* nicht rechtzeitig zum Konzert schaffen.
+
+  Ces plantes ont *visiblement* besoin d'être arrosées.
+  Diese Pflanzen müssen *offensichtlich* gegossen werden.
+
+  Le nouveau stagiaire est *visiblement* nerveux pour son premier jour.
+  Der neue Praktikant ist an seinem ersten Tag *sichtlich* nervös.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

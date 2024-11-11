@@ -13,14 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les membres d’équipage ont retiré la femme de l’eau.
-  Die Besatzungsmitglieder zogen die Frau aus dem Wasser.
+  Les membres d'*équipage* ont retiré la femme de l'eau.
+  Die *Besatzungs*mitglieder haben die Frau aus dem Wasser gezogen.
 
-  L’équipage du navire était composé de dix personnes.
-  Die Besatzung des Schiffes bestand aus zehn Personen.
+  L'*équipage* de l'avion a dû faire un atterrissage d'urgence.
+  Die *Besatzung* des Flugzeugs musste eine Notlandung durchführen.
 
-  Le prince est arrivé en grand équipage, accompagné de ses gardes du corps et de sa suite.
-  Der Prinz ist in großem Aufzug erschienen, begleitet von seinen Leibwächtern und seinem Gefolge.
+  Sarah fait partie de l'*équipage* qui partira vers Mars en 2030.
+  Sarah gehört zur *Besatzung*, die 2030 zum Mars aufbrechen wird.
+
+  Le commandant a félicité son *équipage* pour leur excellent travail.
+  Der Kapitän hat seine *Mannschaft* für ihre hervorragende Arbeit gelobt.
+
+  L'*équipage* du char d'assaut comprend trois soldats.
+  Die *Besatzung* des Panzers besteht aus drei Soldaten.
+
+  Notre *équipage* de course a remporté le Grand Prix de Monaco.
+  Unser Racing-*Team* hat den Grand Prix von Monaco gewonnen.
+
+  Tout l'*équipage* de construction travaille jour et nuit pour finir le projet.
+  Die gesamte Bau*ausrüstung* ist Tag und Nacht im Einsatz, um das Projekt fertigzustellen.
+
+  L'*équipage* du sous-marin restera en mission pendant six mois.
+  Die U-Boot-*Besatzung* wird sechs Monate lang im Einsatz sein.
+
+  Un nouvel *équipage* prendra la relève demain matin.
+  Eine neue *Mannschaft* wird morgen früh übernehmen.
+
+  Le maître d'*équipage* a sonné la fin de la chasse.
+  Der *Jagd*meister hat das Ende der Jagd eingeläutet.
+
+  Les chiens de l'*équipage* de chasse ont perdu la trace du cerf.
+  Die Hunde der *Jagd*gesellschaft haben die Spur des Hirsches verloren.
+
+  L'*équipage* du yacht se prépare pour la traversée de l'Atlantique.
+  Die *Besatzung* der Yacht bereitet sich auf die Atlantiküberquerung vor.
+
+  Dans les années 1900, maintenir un grand *équipage* était signe de richesse.
+  Um 1900 war es ein Zeichen von Reichtum, ein großes *Gefährt* mit Personal zu unterhalten.
+
+  L'*équipage* du vaisseau spatial communique régulièrement avec la Terre.
+  Die Raumschiff-*Besatzung* steht in regelmäßigem Kontakt mit der Erde.
+
+  Marie est le plus jeune membre de l'*équipage*.
+  Marie ist das jüngste *Besatzungs*mitglied.
+
+  L'*équipage* du bombardier comprenait six hommes.
+  Die *Besatzung* des Bombers bestand aus sechs Mann.
+
+  Tout l'*équipage* a survécu au crash.
+  Die gesamte *Besatzung* hat den Absturz überlebt.
+
+  L'*équipage* de la goélette prépare les voiles pour le départ.
+  Die *Mannschaft* des Schoners bereitet die Segel für die Abfahrt vor.
+
+  Le rôle d'*équipage* doit être vérifié avant chaque départ.
+  Die *Besatzungs*liste muss vor jeder Abfahrt überprüft werden.
+
+  L'*équipage* du navire marchand compte vingt personnes.
+  Die *Besatzung* des Handelsschiffs besteht aus zwanzig Personen.
+
+  Les hommes d'*équipage* ont commencé à charger les marchandises.
+  Die *Besatzungs*männer haben mit dem Verladen der Waren begonnen.
+
+  L'ancien *équipage* royal comportait plus de cinquante serviteurs.
+  Das alte königliche *Gefährt* umfasste mehr als fünfzig Bedienstete.
+
+  La musique des *équipages* de la Flotte donnera un concert ce soir.
+  Die Marine*mannschafts*kapelle wird heute Abend ein Konzert geben.
+
+  Les chevaux de l'*équipage* ont été soigneusement sélectionnés.
+  Die Pferde des *Gefährts* wurden sorgfältig ausgewählt.
+
+  L'*équipage* de prise a pris le contrôle du navire capturé.
+  Die Übernahme*mannschaft* hat die Kontrolle über das gekaperte Schiff übernommen.
+
+  Le nouvel *équipage* de pompe a été installé hier.
+  Die neue Pumpen*ausrüstung* wurde gestern installiert.
+
+  L'*équipage* du rallye s'est entraîné pendant des mois.
+  Das Rally-*Team* hat monatelang trainiert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

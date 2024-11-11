@@ -13,41 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il n’y a pas de pénurie d’uranium au niveau mondial.
-  Weltweit gibt es keinen Mangel an Uran.
+  Il n'y a pas de *pénurie* d'uranium au niveau mondial.
+  Es gibt weltweit keinen Uran*mangel*.
 
-  Il y a une pénurie d’eau potable dans cette région.
-  In dieser Region herrscht ein Mangel an Trinkwasser.
+  La *pénurie* d'eau s'aggrave dans les régions arides.
+  Die Wasser*knappheit* verschärft sich in den trockenen Regionen.
 
-  La pénurie d'argent a forcé l'entreprise à fermer ses portes.
-  Der Geldmangel zwang das Unternehmen, seine Türen zu schließen.
+  Cette *pénurie* de logements force les jeunes à rester chez leurs parents.
+  Diese Wohnungs*not* zwingt junge Menschen, bei ihren Eltern zu bleiben.
 
-  La pénurie de capitaux a empêché le projet de se réaliser.
-  Der Kapitalmangel verhinderte die Realisierung des Projekts.
+  Notre hôpital souffre d'une grave *pénurie* de médecins.
+  Unser Krankenhaus leidet unter einem schweren Ärzte*mangel*.
 
-  La pénurie de commandes a conduit à des licenciements dans l'usine.
-  Der Ordermangel führte zu Entlassungen im Werk.
+  La *pénurie* de main-d'œuvre qualifiée pose problème dans l'industrie.
+  Der Fachkräfte*mangel* ist ein Problem in der Industrie.
 
-  La pénurie de crédits a entravé le développement de l'économie.
-  Die Kreditknappheit behinderte die Entwicklung der Wirtschaft.
+  Une *pénurie* alimentaire menace les régions touchées par la sécheresse.
+  Eine Lebensmittel*knappheit* bedroht die von der Dürre betroffenen Regionen.
 
-  La pénurie artificielle de dollars a provoqué une panique sur les marchés financiers.
-  Die künstliche Dollarverknappung löste eine Panik an den Finanzmärkten aus.
+  La *pénurie* de personnel nous oblige à fermer plus tôt.
+  Der Personal*mangel* zwingt uns, früher zu schließen.
 
-  La pénurie d'eau a contraint les habitants à rationner leur consommation.
-  Die Wasserknappheit zwang die Bewohner, ihren Konsum zu rationieren.
+  Les entreprises font face à une *pénurie* de capitaux.
+  Die Unternehmen stehen einem Kapital*mangel* gegenüber.
 
-  La pénurie de jeunes a compliqué le recrutement dans l'armée.
-  Der Nachwuchsmangel erschwerte die Rekrutierung in der Armee.
+  Cette *pénurie* artificielle de dollars a déstabilisé le marché.
+  Diese künstliche Dollar*verknappung* hat den Markt destabilisiert.
 
-  La pénurie de logements a conduit à une augmentation des prix des loyers.
-  Die Wohnungsnot führte zu einem Anstieg der Mietpreise.
+  À cause de la *pénurie* de liquidités, nous ne pouvons pas investir.
+  Wegen der Liquiditäts*knappheit* können wir nicht investieren.
 
-  La pénurie de main-d'œuvre a freiné la croissance économique du pays.
-  Der Mangel an Arbeitskräften bremste das Wirtschaftswachstum des Landes.
+  La *pénurie* de blé a fait grimper les prix du pain.
+  Die Weizen*knappheit* hat die Brotpreise in die Höhe getrieben.
 
-  La pénurie de main-d'œuvre qualifiée est un frein à l'innovation.
-  Der Fachkräftemangel ist ein Hemmnis für Innovationen.
+  Une *pénurie* momentanée de certains produits est à prévoir.
+  Eine zeitweilige *Verknappung* bestimmter Produkte ist zu erwarten.
+
+  La guerre a provoqué une *pénurie* générale de marchandises.
+  Der Krieg hat eine allgemeine Waren*verknappung* verursacht.
+
+  Les petites entreprises souffrent d'une *pénurie* de crédits.
+  Kleine Unternehmen leiden unter einer Kredit*knappheit*.
+
+  La *pénurie* de jeunes menace l'avenir de notre association.
+  Der Nachwuchs*mangel* bedroht die Zukunft unseres Vereins.
+
+  Cette *pénurie* de devises a paralysé le commerce international.
+  Diese Devisen*knappheit* hat den internationalen Handel gelähmt.
+
+  La *pénurie* de pétrole a entraîné une hausse des prix du carburant.
+  Die Erdöl*knappheit* hat zu einem Anstieg der Treibstoffpreise geführt.
+
+  Les régions rurales sont confrontées à une *pénurie* de médecins généralistes.
+  Die ländlichen Gebiete sind von einem Hausärzte*mangel* betroffen.
+
+  La *pénurie* d'argent nous empêche de réaliser nos projets.
+  Der Geld*mangel* hindert uns daran, unsere Projekte umzusetzen.
+
+  Cette *pénurie* de vivres touche surtout les plus démunis.
+  Diese Nahrungs*knappheit* trifft vor allem die Ärmsten.
+
+  Pendant la guerre, ils ont vécu dans la *pénurie*.
+  Während des Krieges lebten sie im *Mangel*.
+
+  La *pénurie* de main-d'œuvre pousse les salaires à la hausse.
+  Der Arbeitskräfte*mangel* treibt die Löhne nach oben.
+
+  Une *pénurie* de commandes a conduit à des licenciements.
+  Ein Auftrags*mangel* hat zu Entlassungen geführt.
+
+  Cette *pénurie* de moyens financiers freine notre développement.
+  Dieser finanzielle *Mangel* bremst unsere Entwicklung.
+
+  La *pénurie* des grains a causé une famine sans précédent.
+  Die Getreide*knappheit* hat eine beispiellose Hungersnot verursacht.
+
+  Les prix augmentent en raison de cette *pénurie*.
+  Die Preise steigen aufgrund dieser *Knappheit*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

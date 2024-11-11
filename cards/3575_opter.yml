@@ -13,20 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai donc opté pour une coiffure simple.
-  Ich entschied mich daher für eine einfache Frisur.
+  J'ai donc *opté* pour une coiffure simple.
+  Ich habe mich also für eine einfache Frisur *entschieden*.
 
-  Il doit opter pour une carrière.
-  Er muss sich für eine Karriere entscheiden.
+  Elle a *opté* pour des études littéraires à l'université.
+  Sie hat sich an der Universität für ein Literaturstudium *entschieden*.
 
-  La famille a opté pour une nationalité étrangère.
-  Die Familie hat sich für eine ausländische Staatsangehörigkeit entschieden.
+  Après réflexion, nous avons *opté* pour la solution la moins chère.
+  Nach reiflicher Überlegung haben wir uns für die günstigere Lösung *entschieden*.
 
-  Le client a opté pour des droits de propriété intellectuelle.
-  Der Kunde hat sich für Rechte am geistigen Eigentum entschieden.
+  Les habitants peuvent *opter* pour la nationalité française avant la fin de l'année.
+  Die Einwohner können bis zum Ende des Jahres für die französische Staatsangehörigkeit *optieren*.
 
-  Le promoteur immobilier a opté pour un terrain dans un quartier calme.
-  Der Immobilienentwickler hat sich für ein Grundstück in einem ruhigen Viertel entschieden.
+  Mon frère a *opté* pour une carrière dans l'enseignement.
+  Mein Bruder hat sich für eine Karriere im Lehrberuf *entschieden*.
+
+  Pourquoi as-tu *opté* pour cette approche plus risquée ?
+  Warum hast du dich für diesen riskanteren Ansatz *entschieden*?
+
+  La famille a finalement *opté* pour un appartement en centre-ville.
+  Die Familie hat sich schlussendlich für eine Wohnung in der Innenstadt *entschieden*.
+
+  Les investisseurs ont *opté* pour une stratégie prudente.
+  Die Investoren haben eine vorsichtige Strategie *gewählt*.
+
+  Marie devra *opter* entre ces deux propositions d'emploi.
+  Marie wird zwischen diesen beiden Jobangeboten *wählen* müssen.
+
+  Nous avons *opté* pour une politique de transparence totale.
+  Wir haben uns für eine Politik der vollständigen Transparenz *entschieden*.
+
+  Le comité a *opté* pour le candidat le plus expérimenté.
+  Das Komitee hat sich für den erfahrensten Kandidaten *entschieden*.
+
+  Les jeunes couples *optent* souvent pour des mariages simples.
+  Junge Paare *entscheiden* sich oft für einfache Hochzeiten.
+
+  L'entreprise a *opté* pour des solutions écologiques.
+  Das Unternehmen hat sich für umweltfreundliche Lösungen *entschieden*.
+
+  Il faut *opter* pour ce qui nous semble juste.
+  Man muss das *wählen*, was einem richtig erscheint.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

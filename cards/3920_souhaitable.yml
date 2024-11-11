@@ -13,14 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Une dictature militaire n’est pas souhaitable dans ce pays.
-  Eine Militärdiktatur ist in diesem Land nicht wünschenswert.
+  Une dictature militaire n'est pas *souhaitable* dans ce pays.
+  Eine Militärdiktatur ist in diesem Land nicht *wünschenswert*.
 
-  Il est souhaitable de prendre une décision rapidement.
-  Es ist wünschenswert, schnell eine Entscheidung zu treffen.
+  Il serait *souhaitable* que tout le monde arrive à l'heure demain.
+  Es wäre *wünschenswert*, dass morgen alle pünktlich kommen.
 
-  Il est souhaitable que chacun soit au courant des dernières informations.
-  Es ist wünschenswert, jeden über die neuesten Informationen auf dem Laufenden zu halten.
+  La candidature de Marie présente toutes les qualités *souhaitables* pour ce poste.
+  Maries Bewerbung weist alle *wünschenswerten* Eigenschaften für diese Stelle auf.
+
+  Un changement de stratégie serait *souhaitable* dans cette situation.
+  Eine Strategieänderung wäre in dieser Situation *erstrebenswert*.
+
+  Est-ce vraiment *souhaitable* d'organiser une fête maintenant ?
+  Ist es wirklich *wünschenswert*, jetzt eine Party zu organisieren?
+
+  Les conditions météorologiques ne sont pas *souhaitables* pour notre randonnée.
+  Die Wetterbedingungen sind für unsere Wanderung nicht *wünschenswert*.
+
+  Il serait *souhaitable* que vous preniez des notes pendant la conférence.
+  Es wäre *wünschenswert*, dass Sie während des Vortrags mitschreiben.
+
+  Cette solution me semble la plus *souhaitable* parmi toutes les options.
+  Diese Lösung erscheint mir unter allen Optionen am *erstrebenswertesten*.
+
+  Pour un développement durable, des changements *souhaitables* sont nécessaires.
+  Für eine nachhaltige Entwicklung sind *wünschenswerte* Veränderungen notwendig.
+
+  Le résultat n'était pas aussi *souhaitable* que nous l'espérions.
+  Das Ergebnis war nicht so *wünschenswert* wie wir gehofft hatten.
+
+  Une rénovation complète serait *souhaitable* avant l'hiver.
+  Eine komplette Renovierung wäre vor dem Winter *wünschenswert*.
+
+  Les effets *souhaitables* du médicament se font sentir après quelques jours.
+  Die *erwünschten* Wirkungen des Medikaments zeigen sich nach einigen Tagen.
+
+  Il n'est pas *souhaitable* de reporter cette décision importante.
+  Es ist nicht *ratsam*, diese wichtige Entscheidung zu verschieben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

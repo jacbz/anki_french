@@ -13,14 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mon handicap est très sérieux.
-  Meine Behinderung ist sehr ernst.
+  Mon *handicap* est très sérieux.
+  Meine *Behinderung* ist sehr ernst.
 
-  Il a un handicap physique.
-  Er hat eine körperliche Behinderung.
+  La course à *handicap* commence dans une heure.
+  Das *Handicap*-Rennen beginnt in einer Stunde.
 
-  La course à handicap était très serrée, avec plusieurs chevaux qui ont fini au coude à coude.
-  Das Handicaprennen war sehr knapp, mehrere Pferde waren bis zum Schluss auf gleicher Höhe.
+  Le cheval favori a déjà remonté son *handicap* de quinze secondes.
+  Das favorisierte Pferd hat seine *Vorgabe* von fünfzehn Sekunden bereits aufgeholt.
+
+  Les personnes en situation de *handicap* ont droit à une place de stationnement réservée.
+  Menschen mit *Behinderung* haben Anspruch auf einen reservierten Parkplatz.
+
+  Son *handicap* visuel ne l'empêche pas de faire du sport.
+  Seine *Behinderung* beim Sehen hindert ihn nicht daran, Sport zu treiben.
+
+  Cette jument rendra dix kilos dans le prochain *handicap*.
+  Diese Stute wird beim nächsten *Handicap*-Rennen zehn Kilo Vorgabe geben müssen.
+
+  L'illettrisme constitue un *handicap* social important.
+  Analphabetismus stellt ein erhebliches soziales *Handicap* dar.
+
+  Les golfeurs débutants bénéficient d'un *handicap* plus élevé.
+  Anfänger im Golf erhalten eine höhere *Vorgabe*.
+
+  La corruption représente un *handicap* majeur pour l'économie du pays.
+  Die Korruption stellt für die Wirtschaft des Landes ein großes *Handicap* dar.
+
+  Elle a surmonté son *handicap* grâce à une rééducation intensive.
+  Sie hat ihre *Behinderung* durch intensive Rehabilitation überwunden.
+
+  Le *handicap* de départ n'a pas empêché l'équipe de gagner la course.
+  Der anfängliche *Rückstand* hat das Team nicht daran gehindert, das Rennen zu gewinnen.
+
+  Un *handicap* en temps sera imposé aux bateaux les plus rapides.
+  Den schnellsten Booten wird eine Zeit-*Vorgabe* auferlegt.
+
+  Son manque d'expérience est un sérieux *handicap* pour ce poste.
+  Seine mangelnde Erfahrung ist ein ernsthaftes *Handicap* für diese Position.
+
+  Le *handicap* auditif de Pierre nécessite des aménagements spéciaux.
+  Peters *Behinderung* beim Hören erfordert besondere Anpassungen.
+
+  Les concurrents partent avec différents *handicaps* selon leur niveau.
+  Die Teilnehmer starten je nach Niveau mit unterschiedlichen *Vorgaben*.
+
+  Cette blessure risque d'entraîner un *handicap* permanent.
+  Diese Verletzung könnte zu einer dauerhaften *Behinderung* führen.
+
+  Son *handicap* moteur ne l'empêche pas de mener une vie active.
+  Seine körperliche *Behinderung* hindert ihn nicht daran, ein aktives Leben zu führen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

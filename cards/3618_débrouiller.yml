@@ -13,26 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tu te débrouilles très bien.
-  Du machst das sehr gut.
+  Tu te *débrouilles* très bien.
+  Du *kommst* sehr gut *zurecht*.
 
-  Je vais me débrouiller.
-  Ich werde mich zurechtfinden.
+  "J'espère que tu te *débrouilleras* pour arriver à l'heure à la réunion."
+  "Ich hoffe, du *schaffst* es, pünktlich zum Meeting zu kommen."
 
-  Et si vous réalisez que vous ne pouvez pas vous débrouiller seul, vous devez vous tourner vers des professionnels.
-  Und wenn Sie merken, dass Sie nicht alleine zurechtkommen, sollten Sie sich an professionelle Hilfe wenden.
+  Marie essaie de *débrouiller* les fils de laine emmêlés.
+  Marie versucht, die verwickelten Wollfäden zu *entwirren*.
 
-  Le professeur a essayé de débrouiller ses élèves en leur expliquant les bases du français.
-  Der Lehrer hat versucht, seinen Schülern das Nötigste beizubringen, indem er ihnen die Grundlagen der französischen Sprache erklärte.
+  "Comment tu te *débrouilles* avec si peu d'argent ?"
+  "Wie *kommst* du mit so wenig Geld *zurecht*?"
 
-  Il s'est débrouillé pour trouver un logement pas cher.
-  Er hat es geschafft, eine günstige Unterkunft zu finden.
+  Le détective va *débrouiller* cette mystérieuse affaire.
+  Der Detektiv wird diese mysteriöse Angelegenheit *aufklären*.
 
-  Il se débrouille pas mal pour un débutant, mais il doit encore beaucoup apprendre.
-  Für einen Anfänger stellt er sich nicht schlecht an, aber er muss noch viel lernen.
+  "*Débrouille-toi* comme tu peux avec ces ingrédients !"
+  "*Schlag* dich durch, so gut du kannst, mit diesen Zutaten!"
 
-  Je ne peux pas t'aider, débrouille-toi tout seul!
-  Ich kann dir nicht helfen, sieh zu, wie du zurechtkommst!
+  La professeure a bien *débrouillé* Thomas en mathématiques.
+  Die Lehrerin hat Thomas das Nötigste in Mathematik *beigebracht*.
+
+  Jean *débrouille* patiemment les câbles derrière la télévision.
+  Jean *entwirrt* geduldig die Kabel hinter dem Fernseher.
+
+  "Il faut que je me *débrouille* seul maintenant."
+  "Ich muss jetzt alleine *klarkommen*."
+
+  La secrétaire va *débrouiller* tous ces vieux dossiers.
+  Die Sekretärin wird all diese alten Akten *ordnen*.
+
+  Pour un débutant en français, il se *débrouille* vraiment bien.
+  Für einen Französisch-Anfänger *schlägt* er sich wirklich gut.
+
+  L'avocat a réussi à *débrouiller* cette situation complexe.
+  Dem Anwalt ist es gelungen, diese komplexe Situation zu *entwirren*.
+
+  "*Débrouillez-vous* avec votre frère pour partager l'héritage."
+  "*Werden* Sie sich mit Ihrem Bruder über die Erbschaft *einig*."
+
+  Le petit Pierre se *débrouille* déjà très bien en vélo.
+  Der kleine Pierre *kommt* schon sehr gut mit dem Fahrrad *zurecht*.
+
+  Elle va *débrouiller* l'intrigue de ce roman compliqué.
+  Sie wird die Handlung dieses komplizierten Romans *entwirren*.
+
+  "Tu dois te *débrouiller* pour trouver une solution."
+  "Du musst *zusehen*, dass du eine Lösung findest."
+
+  Les choses vont se *débrouiller* avec le temps.
+  Die Dinge werden sich mit der Zeit *klären*.
+
+  Michel *débrouille* ses pensées avant de prendre une décision.
+  Michel *ordnet* seine Gedanken, bevor er eine Entscheidung trifft.
+
+  "Je me *débrouillerai* pour vous apporter les documents demain."
+  "Ich *schaffe* es schon, Ihnen die Dokumente morgen zu bringen."
+
+  Cette étudiante se *débrouille* avec un petit boulot le weekend.
+  Diese Studentin *schlägt* sich mit einem kleinen Wochenendjob *durch*.
+
+  Le professeur va *débrouiller* les élèves en chimie.
+  Der Lehrer wird den Schülern die Grundlagen der Chemie *beibringen*.
+
+  "*Débrouille-toi* pour réparer la voiture avant ce soir !"
+  "*Sieh zu*, dass du das Auto bis heute Abend reparierst!"
+
+  Il faut *débrouiller* ce malentendu au plus vite.
+  Dieses Missverständnis muss schnellstmöglich *geklärt* werden.
+
+  Sophie se *débrouille* toujours pour obtenir ce qu'elle veut.
+  Sophie *schafft* es immer, das zu bekommen, was sie will.
+
+  Le guide nous aide à *débrouiller* l'histoire de ce château.
+  Der Führer hilft uns, die Geschichte dieses Schlosses zu *enträtseln*.
+
+  Marc se *débrouille* très bien en cuisine maintenant.
+  Marc *kommt* jetzt sehr gut in der Küche *zurecht*.
+
+  "*Débrouillez-vous* avec ce qui reste dans le frigo."
+  "*Kommen* Sie mit dem *zurecht*, was noch im Kühlschrank ist."
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

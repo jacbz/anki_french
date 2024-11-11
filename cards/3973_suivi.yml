@@ -13,17 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il n’y a pas assez de suivi psychiatrique et sanitaire en prison.
-  Es gibt nicht genügend psychiatrische und gesundheitliche Betreuung im Gefängnis.
+  Il n'y a pas assez de *suivi* psychiatrique et sanitaire en prison.
+  Es gibt nicht genug psychiatrische und gesundheitliche *Betreuung* in Gefängnissen.
 
-  Le suivi des commandes est très important.
-  Die Nachverfolgung der Bestellungen ist sehr wichtig.
+  Le *suivi* budgétaire est essentiel pour éviter les dépassements de coûts.
+  Die Budget*überwachung* ist wesentlich, um Kostenüberschreitungen zu vermeiden.
 
-  Le suivi budgétaire est essentiel pour maintenir une bonne gestion financière.
-  Die Budgetüberwachung ist essenziell für eine gute Finanzverwaltung.
+  Cette émission de télévision est très *suivie* par les jeunes.
+  Diese Fernsehsendung wird von Jugendlichen stark *verfolgt*.
 
-  Le suivi médical est important pour les patients atteints de maladies chroniques.
-  Die medizinische Betreuung ist wichtig für Patienten mit chronischen Erkrankungen.
+  Son raisonnement n'était pas *suivi*, il sautait d'une idée à l'autre.
+  Seine Argumentation war nicht *zusammenhängend*, er sprang von einer Idee zur anderen.
+
+  Le professeur maintient une correspondance *suivie* avec ses anciens élèves.
+  Der Lehrer pflegt einen *regelmäßigen* Briefwechsel mit seinen ehemaligen Schülern.
+
+  Le *suivi* médical des athlètes est très rigoureux.
+  Die medizinische *Betreuung* der Athleten ist sehr streng.
+
+  Les cours de mathématiques sont très *suivis* cette année.
+  Der Mathematikunterricht wird dieses Jahr stark *besucht*.
+
+  Le patient nécessite un *suivi* psychologique hebdomadaire.
+  Der Patient benötigt eine wöchentliche psychologische *Betreuung*.
+
+  Marie a fait un travail très *suivi* sur ce projet.
+  Marie hat an diesem Projekt *kontinuierlich* gearbeitet.
+
+  Le *suivi* des produits après la vente est assuré par notre équipe.
+  Die *Betreuung* der Produkte nach dem Verkauf wird von unserem Team sichergestellt.
+
+  Ces articles sont très *suivis* par nos fournisseurs.
+  Diese Artikel werden von unseren Lieferanten gut *nachverfolgt*.
+
+  L'entreprise mène une politique *suivie* depuis des années.
+  Das Unternehmen verfolgt seit Jahren eine *konsequente* Politik.
+
+  Le *suivi* du chantier est effectué chaque semaine.
+  Die *Überwachung* der Baustelle erfolgt wöchentlich.
+
+  Sa présentation n'était pas *suivie*, il manquait des transitions.
+  Seine Präsentation war nicht *zusammenhängend*, es fehlten die Übergänge.
+
+  Le sportif a maintenu un entraînement *suivi* pendant six mois.
+  Der Sportler hat sechs Monate lang *regelmäßig* trainiert.
+
+  Le *suivi* de cette affaire nécessite beaucoup d'attention.
+  Die *Weiterverfolgung* dieser Angelegenheit erfordert viel Aufmerksamkeit.
+
+  La recherche *suivie* sur ce sujet a duré trois ans.
+  Die *kontinuierliche* Forschung zu diesem Thema dauerte drei Jahre.
+
+  Ce poème utilise des rimes *suivies*.
+  Dieses Gedicht verwendet *aufeinanderfolgende* Reime.
+
+  Notre équipe assure un *suivi* personnalisé pour chaque client.
+  Unser Team gewährleistet eine persönliche *Betreuung* für jeden Kunden.
+
+  Elle a donné un récit *suivi* des événements.
+  Sie hat einen *zusammenhängenden* Bericht der Ereignisse gegeben.
+
+  Les enseignants font un *suivi* régulier des progrès des élèves.
+  Die Lehrer führen eine regelmäßige *Kontrolle* der Schülerfortschritte durch.
+
+  Nous avons maintenu une relation *suivie* pendant des années.
+  Wir haben jahrelang eine *regelmäßige* Beziehung aufrechterhalten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

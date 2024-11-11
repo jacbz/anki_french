@@ -13,23 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Maintenant je suis ruiné. Je suis divorcé.
-  Jetzt bin ich ruiniert. Ich bin geschieden.
+  Maintenant je suis *ruiné*. Je suis divorcé.
+  Jetzt bin ich *ruiniert*. Ich bin geschieden.
 
-  Il a réussi à ruiner sa carrière.
-  Er hat es geschafft, seine Karriere zu ruinieren.
+  Les inondations ont *ruiné* toutes les cultures de la vallée.
+  Die Überschwemmungen haben die gesamte Ernte des Tals *vernichtet*.
 
-  Les mauvaises nouvelles ont ruiné tous les espoirs de Pierre pour l'avenir.
-  Die schlechten Nachrichten haben Pierre seine ganze Hoffnung für die Zukunft genommen.
+  La guerre a *ruiné* l'économie du pays pendant des décennies.
+  Der Krieg hat die Wirtschaft des Landes über Jahrzehnte *ruiniert*.
 
-  Il s'est ruiné pour sa femme, qui a dépensé tout son argent.
-  Er hat sich wegen seiner Frau in den Ruin gestürzt, die sein ganzes Geld ausgegeben hat.
+  "Ces vacances vont nous *ruiner* !"
+  "Dieser Urlaub wird uns *ruinieren*!"
 
-  Ne t'inquiète pas, ce petit cadeau ne va pas te ruiner.
-  Mach dir keine Sorgen, das kleine Geschenk wird dich nicht umbringen.
+  Il s'est *ruiné* au casino en une seule nuit.
+  Er hat sich in einer einzigen Nacht im Casino *ruiniert*.
 
-  Il s'est ruiné en médicaments après son accident.
-  Er hat viel Geld für Medikamente ausgegeben, nachdem er einen Unfall hatte.
+  L'alcool lui a *ruiné* l'estomac.
+  Der Alkohol hat ihm den Magen *ruiniert*.
+
+  Les grêles ont complètement *ruiné* les vignobles.
+  Der Hagel hat die Weinberge völlig *verwüstet*.
+
+  Marie s'est *ruinée* en achetant des vêtements de luxe.
+  Marie hat sich mit dem Kauf von Luxuskleidung *ruiniert*.
+
+  Cette décision politique a *ruiné* sa carrière.
+  Diese politische Entscheidung hat seine Karriere *ruiniert*.
+
+  Le stress constant a *ruiné* sa santé.
+  Der ständige Stress hat seine Gesundheit *zerstört*.
+
+  Les supermarchés ont *ruiné* de nombreux petits commerces.
+  Die Supermärkte haben viele kleine Geschäfte *ruiniert*.
+
+  Ces mauvais investissements l'ont complètement *ruiné*.
+  Diese schlechten Investitionen haben ihn völlig *ruiniert*.
+
+  "Ce n'est qu'un café, ça ne va pas te *ruiner*."
+  "Das ist nur ein Kaffee, das wird dich nicht *ruinieren*."
+
+  L'échec du projet a *ruiné* tous nos espoirs.
+  Das Scheitern des Projekts hat all unsere Hoffnungen *zerstört*.
+
+  Elle s'est *ruiné* la santé à force de travailler.
+  Sie hat sich ihre Gesundheit durch zu viel Arbeit *ruiniert*.
+
+  Ce scandale a *ruiné* sa réputation pour toujours.
+  Dieser Skandal hat seinen Ruf für immer *ruiniert*.
+
+  La sécheresse a *ruiné* toute la récolte.
+  Die Dürre hat die gesamte Ernte *vernichtet*.
+
+  Les frais médicaux l'ont *ruiné*.
+  Die Arztkosten haben ihn *ruiniert*.
+
+  Son addiction au jeu l'a *ruiné*.
+  Seine Spielsucht hat ihn *ruiniert*.
+
+  Cette crise financière a *ruiné* des milliers de familles.
+  Diese Finanzkrise hat tausende Familien *ruiniert*.
+
+  Le temps a *ruiné* les anciennes fortifications.
+  Die Zeit hat die alten Befestigungsanlagen *zerstört*.
+
+  Cette formation coûteuse va me *ruiner*.
+  Diese teure Ausbildung wird mich *ruinieren*.
+
+  Il s'est *ruiné* pour payer les études de ses enfants.
+  Er hat sich *ruiniert*, um das Studium seiner Kinder zu bezahlen.
+
+  La pollution a *ruiné* la qualité de l'air dans cette ville.
+  Die Verschmutzung hat die Luftqualität in dieser Stadt *zerstört*.
+
+  Son divorce l'a complètement *ruiné*.
+  Seine Scheidung hat ihn völlig *ruiniert*.
+
+  Cette maladie a *ruiné* tous ses projets d'avenir.
+  Diese Krankheit hat all seine Zukunftspläne *zerstört*.
+
+  Les réparations de la voiture vont me *ruiner*.
+  Die Autoreparaturen werden mich *ruinieren*.
+
+  L'humidité a *ruiné* tous les meubles de la cave.
+  Die Feuchtigkeit hat alle Möbel im Keller *ruiniert*.
+
+  Cette erreur a *ruiné* toutes ses chances de promotion.
+  Dieser Fehler hat alle seine Beförderungschancen *zerstört*.
+
+  Le gel a *ruiné* toute la récolte de pommes.
+  Der Frost hat die gesamte Apfelernte *vernichtet*.
+
+  Cette rumeur a *ruiné* sa réputation dans le village.
+  Dieses Gerücht hat seinen Ruf im Dorf *ruiniert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

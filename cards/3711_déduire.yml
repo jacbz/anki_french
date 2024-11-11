@@ -13,26 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’en ai déduit de façon certaine que je l’avais perdue.
-  Daraus schloss ich mit Sicherheit, dass ich sie verloren hatte.
+  J'en ai *déduit* de façon certaine que je l'avais perdue.
+  Ich habe mit Sicherheit daraus *geschlossen*, dass ich sie verloren hatte.
 
-  Je déduis que tu n’es pas content.
-  Ich schließe daraus, dass du nicht zufrieden bist.
+  Les frais de transport seront *déduits* du montant total.
+  Die Transportkosten werden vom Gesamtbetrag *abgezogen*.
 
-  Cette théorie est déduite de nombreuses observations scientifiques.
-  Diese Theorie ist aus zahlreichen wissenschaftlichen Beobachtungen abgeleitet.
+  De ses paroles ambiguës, on peut *déduire* qu'il cache quelque chose.
+  Aus seinen zweideutigen Worten lässt sich *schließen*, dass er etwas verbirgt.
 
-  La date de son départ peut se déduire de son dernier message.
-  Aus seiner letzten Nachricht lässt sich sein Abreisedatum herleiten.
+  La solution se *déduit* facilement des données du problème.
+  Die Lösung lässt sich leicht aus den Problemdaten *ableiten*.
 
-  On peut déduire de ses paroles qu'il a réussi son examen.
-  Man kann aus seinen Worten schließen, dass er seine Prüfung bestanden hat.
+  Vous pouvez *déduire* ces dépenses de vos impôts.
+  Sie können diese Ausgaben von Ihrer Steuer *abziehen*.
 
-  Les dons à des organisations caritatives sont souvent déductibles de l'impôt.
-  Spenden an gemeinnützige Organisationen sind oft steuerabzugsfähig.
+  Je *déduis* de son silence qu'il n'est pas d'accord.
+  Aus seinem Schweigen *folgere* ich, dass er nicht einverstanden ist.
 
-  Le prix total, tous frais déduits, est de 50 euros.
-  Der Gesamtpreis beträgt 50 Euro, abzüglich aller Kosten.
+  Les taxes seront *déduites* automatiquement de votre salaire.
+  Die Steuern werden automatisch von Ihrem Gehalt *abgezogen*.
+
+  Comment as-tu *déduit* cette conclusion ?
+  Wie hast du diese Schlussfolgerung *abgeleitet*?
+
+  Tous frais *déduits*, il nous reste 500 euros.
+  Nach *Abzug* aller Kosten bleiben uns 500 Euro.
+
+  On peut *déduire* son âge d'après son apparence.
+  Man kann sein Alter von seinem Aussehen *ableiten*.
+
+  L'entreprise a *déduit* les acomptes versés de la facture finale.
+  Die Firma hat die geleisteten Anzahlungen von der Endrechnung *abgezogen*.
+
+  Cette théorie se *déduit* naturellement des observations.
+  Diese Theorie lässt sich auf natürliche Weise aus den Beobachtungen *ableiten*.
+
+  Il faut *déduire* les arrhes de la somme totale.
+  Die Anzahlung muss von der Gesamtsumme *abgezogen* werden.
+
+  Que peut-on *déduire* de ces résultats ?
+  Was lässt sich aus diesen Ergebnissen *schließen*?
+
+  Les frais professionnels sont *déduits* des revenus imposables.
+  Die Berufskosten werden vom steuerpflichtigen Einkommen *abgezogen*.
+
+  On peut *déduire* son intention de ses actions.
+  Man kann seine Absicht aus seinen Handlungen *ableiten*.
+
+  Cette conclusion ne peut pas se *déduire* logiquement des prémisses.
+  Diese Schlussfolgerung lässt sich nicht logisch aus den Prämissen *ableiten*.
+
+  Une fois *déduits* les impôts, il ne reste plus grand-chose.
+  Nach *Abzug* der Steuern bleibt nicht mehr viel übrig.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

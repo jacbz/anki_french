@@ -13,20 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je sombrai dans le chaos.
-  Ich versank im Chaos.
+  Je *sombrai* dans le chaos.
+  Ich *versank* im Chaos.
 
-  Il ne faut pas sombrer dans le désespoir.
-  Man darf nicht in Verzweiflung geraten.
+  Le bateau a *sombré* au fond de la mer.
+  Das Boot ist auf den Meeres*grund* gesunken.
 
-  Le sous-marin a sombré au fond de la mer après une explosion.
-  Das U-Boot ist nach einer Explosion auf den Meeresgrund hinabgesunken.
+  Après avoir perdu son travail, il a *sombré* dans l'alcool.
+  Nach dem Verlust seiner Arbeit ist er dem *Alkohol verfallen*.
 
-  Après la mort de son fils, il a sombré dans la folie.
-  Nachdem sein Sohn gestorben war, hat er den Verstand verloren.
+  Sa raison a *sombré* après cet accident tragique.
+  Nach diesem tragischen Unfall hat er den *Verstand verloren*.
 
-  Il a sombré dans l'alcool après avoir perdu son emploi.
-  Er ist dem Alkohol verfallen, nachdem er seinen Job verloren hatte.
+  Le navire *sombra* corps et biens pendant la tempête.
+  Das Schiff ist während des Sturms mit Mann und Maus *untergegangen*.
+
+  Elle a *sombré* dans un profond sommeil.
+  Sie ist in einen tiefen Schlaf *versunken*.
+
+  Le chalutier *sombra* en haute mer sans laisser de traces.
+  Der Fischkutter ist auf hoher See spurlos *versunken*.
+
+  Cette ancienne civilisation a *sombré* dans l'oubli.
+  Diese alte Zivilisation ist in Vergessenheit *versunken*.
+
+  Petit à petit, l'entreprise *sombra* dans les dettes.
+  Nach und nach *versank* das Unternehmen in Schulden.
+
+  Il a vu *sombrer* tous ses espoirs.
+  Er hat alle seine Hoffnungen *schwinden* sehen.
+
+  L'économie du pays risque de *sombrer*.
+  Die Wirtschaft des Landes droht *unterzugehen*.
+
+  Sans aide, cette association va *sombrer*.
+  Ohne Hilfe wird dieser Verein *untergehen*.
+
+  Elle *sombra* dans une profonde tristesse.
+  Sie *versank* in tiefer Traurigkeit.
+
+  Le petit bateau de pêche *sombra* près de la côte.
+  Das kleine Fischerboot ist in Küstennähe *untergegangen*.
+
+  Après la mort de son mari, elle a *sombré* dans le désespoir.
+  Nach dem Tod ihres Mannes ist sie in Verzweiflung *versunken*.
+
+  Je l'ai vu *sombrer* peu à peu dans la dépression.
+  Ich habe gesehen, wie er allmählich in eine Depression *abglitt*.
+
+  Cette œuvre d'art risque de *sombrer* dans l'oubli.
+  Dieses Kunstwerk droht in Vergessenheit zu *geraten*.
+
+  Le grand paquebot *sombra* après avoir heurté un iceberg.
+  Der große Ozeandampfer ist nach der Kollision mit einem Eisberg *untergegangen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

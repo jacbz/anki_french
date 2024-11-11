@@ -13,14 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle est allée chez sa grand-mère.
-  Sie ist zu ihrer Großmutter gegangen.
+  Elle est allée chez sa *grand-mère*.
+  Sie ist zu ihrer *Oma* gegangen.
 
-  Ma grand-mère habite à la campagne.
-  Meine Großmutter lebt auf dem Land.
+  Ma *grand-mère* maternelle fait les meilleures tartes aux pommes du monde.
+  Meine mütterliche *Großmutter* macht die besten Apfelkuchen der Welt.
 
-  Il ne faut pas pousser grand-mère dans les orties, elle est déjà assez fragile.
-  Nun mach mal halblang, sie ist schon genug angeschlagen.
+  "Cette vieille *grand-mère* a besoin d'aide pour traverser la rue."
+  "Diese alte *Oma* braucht Hilfe beim Überqueren der Straße."
+
+  Les *grands-mères* d'aujourd'hui sont souvent très actives et dynamiques.
+  Die *Großmütter* von heute sind oft sehr aktiv und dynamisch.
+
+  Du temps de nos *grands-mères*, on n'avait pas d'ordinateurs.
+  Zu Zeiten unserer *Großmütter* gab es keine Computer.
+
+  "Oui, *grand-mère*, je vais mettre mon manteau avant de sortir."
+  "Ja, *Oma*, ich ziehe meinen Mantel an, bevor ich rausgehe."
+
+  Je garde de merveilleux souvenirs des vacances chez ma *grand-mère* paternelle.
+  Ich habe wunderbare Erinnerungen an die Ferien bei meiner väterlichen *Großmutter*.
+
+  Les deux *grands-mères* seront présentes à la cérémonie de mariage.
+  Beide *Großmütter* werden bei der Hochzeitszeremonie dabei sein.
+
+  Ma *grand-mère* m'a appris à tricoter quand j'étais petite.
+  Meine *Oma* hat mir das Stricken beigebracht, als ich klein war.
+
+  As-tu déjà rencontré la *grand-mère* de Thomas ?
+  Hast du Thomas' *Großmutter* schon kennengelernt?
+
+  Mes *grands-mères* adorent jouer aux cartes ensemble le dimanche après-midi.
+  Meine *Großmütter* spielen gerne zusammen Karten am Sonntagnachmittag.
+
+  La *grand-mère* de Sophie lui raconte souvent des histoires de son enfance.
+  Sophies *Oma* erzählt ihr oft Geschichten aus ihrer Kindheit.
+
+  Cette recette vient de ma *grand-mère*.
+  Dieses Rezept stammt von meiner *Großmutter*.
+
+  Les enfants passent leurs vacances d'été chez leur *grand-mère*.
+  Die Kinder verbringen ihre Sommerferien bei ihrer *Oma*.
+
+  "Excuse-moi, *grand-mère*, mais je ne peux pas venir dimanche prochain."
+  "Tut mir leid, *Oma*, aber ich kann nächsten Sonntag nicht kommen."
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

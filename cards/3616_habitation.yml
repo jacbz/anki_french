@@ -13,17 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Environ 200 habitations ont été détruites.
-  Etwa 200 Häuser wurden zerstört.
+  Environ 200 *habitations* ont été détruites.
+  Ungefähr 200 *Wohnungen* wurden zerstört.
 
-  Je cherche une habitation à louer.
-  Ich suche eine Wohnung zur Miete.
+  Le droit d'*habitation* permet à ma grand-mère de rester dans sa maison gratuitement.
+  Das *Wohn*recht erlaubt meiner Großmutter, kostenlos in ihrem Haus zu bleiben.
 
-  Les conditions d'habitation dans cet appartement sont excellentes.
-  Die Wohnverhältnisse in dieser Wohnung sind ausgezeichnet.
+  Les conditions d'*habitation* dans ce quartier se sont beaucoup améliorées.
+  Die *Wohn*verhältnisse in diesem Viertel haben sich stark verbessert.
 
-  Le droit d'habitation est un élément crucial de la sécurité sociale.
-  Das Wohnrecht ist ein wesentlicher Bestandteil der sozialen Sicherheit.
+  Nous avons transformé ce local commercial en local à usage d'*habitation*.
+  Wir haben dieses Geschäftslokal in *Wohn*raum umgewandelt.
+
+  Notre nouvelle *habitation* se trouve près du parc.
+  Unsere neue *Wohnung* liegt in der Nähe des Parks.
+
+  Je dois payer la taxe d'*habitation* avant la fin du mois.
+  Ich muss die *Wohn*steuer bis Ende des Monats bezahlen.
+
+  Cette *habitation* à loyer modéré nous permet d'économiser beaucoup d'argent.
+  Diese Sozial*wohnung* ermöglicht uns, viel Geld zu sparen.
+
+  Mon *habitation* d'été se trouve au bord de la mer.
+  Meine Sommer*behausung* befindet sich am Meer.
+
+  Les règles d'*habitation* en colocation sont très strictes.
+  Die *Wohn*regeln in der WG sind sehr streng.
+
+  Après dix ans d'*habitation* dans le même appartement, il était temps de déménager.
+  Nach zehn Jahren *Wohnen* in derselben Wohnung war es Zeit umzuziehen.
+
+  Un groupe d'*habitations* modernes va être construit l'année prochaine.
+  Eine Gruppe moderner *Wohnungen* wird nächstes Jahr gebaut.
+
+  Cette *habitation* dispose d'un grand jardin.
+  Diese *Behausung* verfügt über einen großen Garten.
+
+  Le permis d'*habitation* nous a été accordé la semaine dernière.
+  Die *Wohn*genehmigung wurde uns letzte Woche erteilt.
+
+  Les anciennes *habitations* du centre-ville seront rénovées.
+  Die alten *Wohnungen* in der Innenstadt werden renoviert.
+
+  L'*habitation* principale doit être déclarée aux impôts.
+  Der Haupt*wohnsitz* muss beim Finanzamt angegeben werden.
+
+  Ces *habitations* disposent toutes d'un accès pour personnes handicapées.
+  Diese *Wohnungen* verfügen alle über einen behindertengerechten Zugang.
+
+  Le certificat d'*habitation* doit être renouvelé tous les ans.
+  Die *Wohn*bescheinigung muss jährlich erneuert werden.
+
+  Cette *habitation* est trop petite pour une famille de cinq personnes.
+  Diese *Wohnung* ist zu klein für eine fünfköpfige Familie.
+
+  Nos conditions d'*habitation* se sont considérablement améliorées depuis notre déménagement.
+  Unsere *Wohn*verhältnisse haben sich seit unserem Umzug erheblich verbessert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,23 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les pannes ont frappé de larges portions du sud de moscou.
-  Die Ausfälle betrafen weite Teile des südlichen Teils von Moskau.
+  Les pannes ont frappé de larges *portions* du sud de Moscou.
+  Die Störungen haben große *Teile* des südlichen Moskaus betroffen.
 
-  Je voudrais une petite portion de frites.
-  Ich hätte gerne eine kleine Portion Pommes.
+  Chacun a reçu une *portion* égale du gâteau d'anniversaire.
+  Jeder hat eine gleiche *Portion* vom Geburtstagskuchen bekommen.
 
-  Le sentier de montagne était une portion de route particulièrement dangereuse.
-  Der Bergpfad war ein Straßenabschnitt, der besonders gefährlich war.
+  La *portion* de fromage servie au restaurant était vraiment généreuse.
+  Die *Portion* Käse im Restaurant war wirklich großzügig.
 
-  Après la réduction des effectifs, l'équipe s'est retrouvée réduite à la portion congrue.
-  Nach dem Personalabbau musste sich das Team mit dem Minimum begnügen.
+  Cette *portion* de route sera en travaux pendant deux semaines.
+  Dieser Straßen*abschnitt* wird zwei Wochen lang renoviert.
 
-  La construction de la nouvelle maison a été réduite à la portion congrue en raison du manque de financement.
-  Der Bau des neuen Hauses wurde auf ein Minimum beschränkt, weil es an Finanzierung fehlte.
+  Une petite *portion* de ciel bleu est visible entre les nuages.
+  Ein kleiner *Teil* des blauen Himmels ist zwischen den Wolken zu sehen.
 
-  Le jeune homme a hérité d'une portion d'héritage très importante.
-  Der junge Mann hat einen sehr großen Erbteil geerbt.
+  Les trois frères ont reçu chacun leur *portion* de l'héritage familial.
+  Die drei Brüder haben jeweils ihren Erb*anteil* der Familie erhalten.
+
+  Le restaurant propose des *portions* individuelles de lasagne surgelée.
+  Das Restaurant bietet einzelne *Portionen* gefrorene Lasagne an.
+
+  Une *portion* du terrain a été vendue à la municipalité.
+  Ein *Teil* des Grundstücks wurde an die Gemeinde verkauft.
+
+  "Je veux une double *portion* de frites !" a crié l'enfant.
+  "Ich will eine doppelte *Portion* Pommes!" rief das Kind.
+
+  Cette *portion* de forêt appartient à ma famille depuis des générations.
+  Dieser Wald*teil* gehört seit Generationen meiner Familie.
+
+  Les *portions* servies dans ce café sont toujours très copieuses.
+  Die *Portionen* in diesem Café sind immer sehr reichlich.
+
+  Une *portion* importante du budget est consacrée à l'éducation.
+  Ein großer *Teil* des Budgets ist der Bildung gewidmet.
+
+  La *portion* de viande était parfaitement cuite.
+  Die *Portion* Fleisch war perfekt gegart.
+
+  Chaque élève recevra une *portion* de tarte aux pommes.
+  Jeder Schüler bekommt eine *Portion* Apfelkuchen.
+
+  Une *portion* du jardin sera transformée en potager.
+  Ein *Teil* des Gartens wird in einen Gemüsegarten umgewandelt.
+
+  Les *portions* sont déterminées en fonction du nombre de convives.
+  Die *Portionen* werden nach der Anzahl der Gäste bestimmt.
+
+  Cette *portion* de la rivière est idéale pour la pêche.
+  Dieser *Abschnitt* des Flusses ist ideal zum Angeln.
+
+  Une grande *portion* de la population soutient cette initiative.
+  Ein großer *Teil* der Bevölkerung unterstützt diese Initiative.
+
+  Le restaurant propose des *portions* à emporter.
+  Das Restaurant bietet *Portionen* zum Mitnehmen an.
+
+  Une *portion* du mur s'est effondrée pendant l'orage.
+  Ein *Teil* der Mauer ist während des Gewitters eingestürzt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

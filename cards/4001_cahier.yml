@@ -9,16 +9,93 @@ Femininum / Plural: ''
 IPA: \ka.je\
 Definition: Heft
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "D’accord, fermez les cahiers. Commençons cet examen.\nOK, schließen\
-  \ Sie die Hefte. Beginnen wir mit dieser Prüfung.\n\nJ’ai besoin d’un cahier pour\
-  \ prendre des notes.\nIch brauche ein Heft, um Notizen zu machen.\n\nC'est un cahier\
-  \ de brouillon. \nDas ist ein Schmierheft.\n\nCe cahier est spécial.\nDieses Heft\
-  \ ist ein Sonderheft.\n\nIl faut lire attentivement le cahier des charges.\nMan\
-  \ muss das Leistungsverzeichnis aufmerksam lesen.\n\nCe cahier de calcul est très\
-  \ utile.\nDieses Rechenheft ist sehr nützlich.\n\nJ'ai oublié mon cahier de rédaction.\n\
-  Ich habe mein Aufsatzheft vergessen.\n\nCe cahier de factures est presque vide.\n\
-  Dieser Rechnungsblock ist fast leer.\n\nLe cahier de prescription pour les marchés\
-  \ publics est un document important.\nDie Verdingungsordnung ist ein wichtiges Dokument."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  D'accord, fermez les *cahiers*. Commençons cet examen.
+  In Ordnung, schließt die *Hefte*. Lasst uns mit der Prüfung beginnen.
+
+  Ce *cahier* de brouillon est rempli de gribouillis.
+  Dieses Schmier*heft* ist voller Kritzeleien.
+
+  Elle a sorti son *cahier* de calcul pour faire ses devoirs de mathématiques.
+  Sie hat ihr Rechen*heft* herausgeholt, um ihre Mathematikhausaufgaben zu machen.
+
+  Mon frère a perdu son *cahier* de textes et ne sait plus quels devoirs faire.
+  Mein Bruder hat sein Aufgaben*heft* verloren und weiß nicht mehr, welche Hausaufgaben er machen soll.
+
+  N'oubliez pas d'apporter vos *cahiers* d'exercices demain.
+  Vergesst nicht, morgen eure Übungs*hefte* mitzubringen.
+
+  Les élèves écrivent dans leurs *cahiers* de dictées avec application.
+  Die Schüler schreiben sorgfältig in ihre Diktat*hefte*.
+
+  Le professeur vérifie tous les *cahiers* de rédaction ce soir.
+  Der Lehrer kontrolliert heute Abend alle Aufsatz*hefte*.
+
+  J'ai acheté un nouveau *cahier* avec une couverture bleue.
+  Ich habe ein neues *Heft* mit einem blauen Umschlag gekauft.
+
+  Le libraire m'a vendu le dernier *cahier* spécial sur l'art moderne.
+  Der Buchhändler hat mir das letzte Sonder*heft* über moderne Kunst verkauft.
+
+  As-tu rangé ton *cahier* de musique dans ton cartable ?
+  Hast du dein Musik*heft* in deinen Ranzen gepackt?
+
+  Les *cahiers* de doléances ont été présentés au roi en 1789.
+  Die Beschwerde*hefte* wurden dem König 1789 vorgelegt.
+
+  Son *cahier* est très bien tenu, avec une écriture soignée.
+  Ihr *Heft* ist sehr ordentlich geführt, mit einer sauberen Handschrift.
+
+  L'imprimeur assemble les *cahiers* du livre avant la reliure.
+  Der Drucker fügt die Druck*bögen* des Buches vor dem Einbinden zusammen.
+
+  Les syndicats ont préparé un *cahier* de revendications.
+  Die Gewerkschaften haben ein Forderungs*heft* vorbereitet.
+
+  Marie dessine magnifiquement dans son *cahier* de dessin.
+  Marie zeichnet wunderschön in ihrem Zeichen*heft*.
+
+  Le *cahier* quadrillé facilite la résolution des problèmes de géométrie.
+  Das karierte *Heft* erleichtert das Lösen von Geometrieaufgaben.
+
+  Les *cahiers* de la quinzaine publient des articles passionnants.
+  Die Vierzehn-Tage-*Hefte* veröffentlichen spannende Artikel.
+
+  Chaque élève doit avoir un *cahier* pour chaque matière.
+  Jeder Schüler muss für jedes Fach ein *Heft* haben.
+
+  Le *cahier* de factures permet de suivre toutes les ventes du mois.
+  Der Rechnungs*block* ermöglicht es, alle Verkäufe des Monats zu verfolgen.
+
+  Les professeurs consultent régulièrement le *cahier* de textes de la classe.
+  Die Lehrer schauen regelmäßig ins Klassen*heft*.
+
+  J'ai besoin d'un nouveau *cahier* de brouillon pour mes calculs.
+  Ich brauche ein neues Schmier*heft* für meine Berechnungen.
+
+  Dans son *cahier* rouge, il notait toutes ses pensées.
+  In seinem roten *Heft* notierte er alle seine Gedanken.
+
+  Le *cahier* à spirale est plus pratique pour arracher les pages.
+  Das Spiral*heft* ist praktischer zum Herausreißen der Seiten.
+
+  Ces *cahiers* littéraires sont publiés chaque trimestre.
+  Diese Literatur*hefte* werden vierteljährlich veröffentlicht.
+
+  Range ton *cahier* dans ton sac avant de partir.
+  Pack dein *Heft* in deine Tasche, bevor du gehst.
+
+  Les pages de ce *cahier* sont déjà toutes utilisées.
+  Die Seiten dieses *Hefts* sind bereits alle beschrieben.
+
+  Thomas a oublié son *cahier* d'exercices à la maison.
+  Thomas hat sein Übungs*heft* zu Hause vergessen.
+
+  L'éditeur prépare un nouveau *cahier* spécial pour Noël.
+  Der Verleger bereitet ein neues Sonder*heft* für Weihnachten vor.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

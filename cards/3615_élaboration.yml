@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous allez demander l’élaboration d’un dossier.
-  Sie werden die Erstellung eines Dossiers beantragen.
+  Vous allez demander l'*élaboration* d'un dossier.
+  Sie werden die *Ausarbeitung* einer Akte beantragen.
 
-  L’élaboration d’un plan stratégique est essentielle pour l’entreprise.
-  Die Ausarbeitung eines strategischen Plans ist für das Unternehmen unerlässlich.
+  L'*élaboration* de ce nouveau programme informatique prendra plusieurs mois.
+  Die *Entwicklung* dieses neuen Computerprogramms wird mehrere Monate dauern.
 
-  L'élaboration du programme a été longue et complexe.
-  Die Programmentwicklung war langwierig und komplex.
+  Les chercheurs étudient l'*élaboration* de la sève dans les arbres.
+  Die Forscher untersuchen die *Bildung* des Pflanzensafts in den Bäumen.
 
-  L'élaboration de ce programme a nécessité des mois de travail.
-  Die Entwicklung dieses Programms hat Monate Arbeit erfordert.
+  L'*élaboration* du plan d'action a nécessité de nombreuses réunions.
+  Die *Ausarbeitung* des Aktionsplans erforderte zahlreiche Besprechungen.
+
+  Notre équipe participe à l'*élaboration* d'un nouveau dictionnaire.
+  Unser Team beteiligt sich an der *Ausarbeitung* eines neuen Wörterbuchs.
+
+  Le médecin surveille l'*élaboration* de la bile chez le patient.
+  Der Arzt überwacht die *Bildung* der Galle beim Patienten.
+
+  L'*élaboration* du diagnostic a pris plus de temps que prévu.
+  Das *Erstellen* der Diagnose hat länger gedauert als erwartet.
+
+  Les étudiants contribuent à l'*élaboration* d'une nouvelle doctrine philosophique.
+  Die Studenten tragen zur *Ausarbeitung* einer neuen philosophischen Lehre bei.
+
+  Le processus d'*élaboration* du lait maternel est complexe.
+  Der *Bildungs*prozess der Muttermilch ist komplex.
+
+  L'*élaboration* du cycle romanesque lui a pris dix ans.
+  Die *Ausarbeitung* des Romanzyklus hat ihn zehn Jahre gekostet.
+
+  Les scientifiques observent l'*élaboration* des protéines dans les cellules.
+  Die Wissenschaftler beobachten die *Bildung* von Proteinen in den Zellen.
+
+  L'*élaboration* du budget annuel commence en septembre.
+  Die *Ausarbeitung* des Jahresbudgets beginnt im September.
+
+  Le corps humain est responsable de l'*élaboration* de différentes hormones.
+  Der menschliche Körper ist für die *Bildung* verschiedener Hormone verantwortlich.
+
+  L'*élaboration* de cette stratégie marketing est presque terminée.
+  Die *Ausarbeitung* dieser Marketingstrategie ist fast abgeschlossen.
+
+  Les experts travaillent sur l'*élaboration* d'un nouveau système de classification.
+  Die Experten arbeiten an der *Entwicklung* eines neuen Klassifizierungssystems.
+
+  L'*élaboration* du métal pur à partir du minerai nécessite plusieurs étapes.
+  Die *Ausarbeitung* des reinen Metalls aus dem Erz erfordert mehrere Schritte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

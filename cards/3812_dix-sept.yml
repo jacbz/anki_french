@@ -13,41 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La ville brûla pendant dix-sept jours.
-  Die Stadt brannte siebzehn Tage lang.
+  La ville brûla pendant *dix-sept* jours.
+  Die Stadt brannte *siebzehn* Tage lang.
 
-  J’ai dix-sept ans.
-  Ich bin siebzehn Jahre alt.
+  Il aura bientôt *dix-sept* ans.
+  Er wird bald *siebzehn* Jahre alt.
 
-  Marie aura bientôt dix-sept ans.
-  Marie wird bald siebzehn.
+  La ligne de bus *dix-sept* passe toutes les dix minutes.
+  Die Buslinie *siebzehn* fährt alle zehn Minuten.
 
-  Elle a pris le dix-sept pour aller au centre-ville.
-  Sie hat die Linie siebzehn genommen, um in die Innenstadt zu fahren.
+  "J'ai eu *dix-sept* sur vingt en maths !"
+  "Ich habe in Mathe eine *Eins* geschrieben!"
 
-  Il est dix-seven heures.
-  Es ist siebzehn Uhr.
+  Le roi *Louis dix-sept* n'a jamais régné.
+  *Ludwig der Siebzehnte* hat nie regiert.
 
-  Le dix-sept mars est un jour férié.
-  Der siebzehnte März ist ein Feiertag.
+  Nous nous retrouverons le *dix-sept* mars.
+  Wir treffen uns am *siebzehnten* März.
 
-  Le bateau est arrivé dix-sept ou dix-huitième.
-  Das Boot ist als Siebzehnte oder Achzehnte gekommen.
+  Il est déjà *dix-sept* heures, je dois partir.
+  Es ist schon *siebzehn* Uhr, ich muss los.
 
-  Louis XVII, le roi malheureux, a régné pendant la Révolution française.
-  Ludwig XVII., der unglückliche König, regierte während der Französischen Revolution.
+  Marie est arrivée *dix-septième* à la course.
+  Marie ist als *Siebzehnte* beim Rennen angekommen.
 
-  Le nombre dix-sept m'a toujours porté chance.
-  Siebzehn hat mir immer Glück gebracht.
+  Tournez à la page *dix-sept* de votre livre.
+  Schlagen Sie Seite *siebzehn* in Ihrem Buch auf.
 
-  Il a eu dix-sept à l'examen.
-  Er hat eine Eins im Examen bekommen.
+  Le patient de la chambre *dix-sept* est sorti ce matin.
+  Der Patient aus Zimmer *siebzehn* wurde heute Morgen entlassen.
 
-  Une personne de dix-sept ans est un adolescent.
-  Ein Siebzehnjähriger ist ein Teenager.
+  *Dix-sept* personnes ont participé à la réunion.
+  *Siebzehn* Personen haben an der Sitzung teilgenommen.
 
-  La guerre a duré pendant une période de dix-sept ans.
-  Der Krieg dauerte siebzehn Jahre.
+  Cette personne de *dix-sept* ans cherche un stage.
+  Diese *Siebzehnjährige* sucht ein Praktikum.
+
+  Nous habitons au numéro *dix-sept*.
+  Wir wohnen in Hausnummer *siebzehn*.
+
+  Le chapitre *dix-sept* traite de la Révolution française.
+  Kapitel *siebzehn* handelt von der Französischen Revolution.
+
+  Elle a attendu pendant une période de *dix-sept* ans.
+  Sie hat einen Zeitraum von *siebzehn* Jahren gewartet.
+
+  Neuf plus huit font *dix-sept*.
+  Neun plus acht macht *siebzehn*.
+
+  Le point *dix-sept* de l'ordre du jour concerne le budget.
+  Punkt *siebzehn* der Tagesordnung betrifft das Budget.
+
+  *Dix-sept* euros, c'est trop cher pour ce livre.
+  *Siebzehn* Euro sind zu teuer für dieses Buch.
+
+  Son fils a maintenant *dix-sept* ans.
+  Ihr Sohn ist jetzt *siebzehn* Jahre alt.
+
+  Le numéro *dix-sept* est mon porte-bonheur.
+  Die *Siebzehn* ist meine Glückszahl.
+
+  L'article *dix-sept* définit les droits des citoyens.
+  Artikel *siebzehn* definiert die Bürgerrechte.
+
+  *Dix-sept* mille personnes ont assisté au concert.
+  *Siebzehntausend* Menschen haben das Konzert besucht.
+
+  Le rendez-vous est fixé à *dix-sept* heures trente.
+  Der Termin ist für *siebzehn* Uhr dreißig angesetzt.
+
+  *Dix-sept* s'écrit en chiffres romains : XVII.
+  *Siebzehn* schreibt man in römischen Ziffern: XVII.
+
+  Nous sommes le *dix-sept* du mois.
+  Wir haben den *Siebzehnten* des Monats.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

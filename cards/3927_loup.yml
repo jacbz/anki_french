@@ -9,18 +9,138 @@ Femininum / Plural: ''
 IPA: \lu\
 Definition: Wolf
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Ce n’était pas un loup, ce n’en était que l’ombre.\nEs war kein Wolf,\
-  \ sondern nur ein Schatten davon.\n\nLe loup hurle à la lune.\nDer Wolf heult zum\
-  \ Mond.\n\nLe plan de ce politicien est de mettre le loup dans la bergerie.\nDer\
-  \ Plan dieses Politikers ist, den Bock zum Gärtner zu machen.\n\nQuand on parle\
-  \ du loup, on en voit la queue. \nWenn man vom Teufel spricht, dann kommt er. \n\
-  \nCe chanteur est connu comme le loup blanc dans son pays.\nDieser Sänger ist bekannt\
-  \ wie ein bunter Hund in seinem Land.\n\nIls ont crié au loup quand ils ont vu un\
-  \ chat dans la rue.\nSie haben Alarm geschlagen, als sie eine Katze in der Straße\
-  \ gesehen haben.\n\nIl hurle avec les loups chaque fois qu'il est en colère.\nEr\
-  \ heult mit den Wölfen, jedes Mal, wenn er wütend ist.\n\nLes loups ne se mangent\
-  \ pas entre eux, mais ils se disputent parfois pour le territoire.\nEine Krähe hackt\
-  \ der anderen kein Auge aus, aber manchmal streiten sie sich um das Territorium."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Ce n'était pas un *loup*, ce n'en était que l'ombre.
+  Es war kein *Wolf*, es war nur sein Schatten.
+
+  Les *loups* vivent en meute dans les forêts d'Europe.
+  Die *Wölfe* leben in Rudeln in den europäischen Wäldern.
+
+  La *louve* protège férocement ses petits.
+  Die *Wölfin* beschützt ihre Jungen wild.
+
+  "Mon petit *loup*, il est temps d'aller dormir !"
+  "Mein kleiner *Schatz*, Zeit zum Schlafen!"
+
+  Il marchait *à pas de loup* dans le couloir sombre.
+  Er schlich *auf leisen Sohlen* durch den dunklen Flur.
+
+  J'ai une *faim de loup* après cette longue randonnée.
+  Ich habe einen *Bärenhunger* nach dieser langen Wanderung.
+
+  Dans notre ville, Thomas est *connu comme le loup blanc*.
+  In unserer Stadt ist Thomas *stadtbekannt*.
+
+  Ce jeune *loup* de la finance ne pense qu'à sa carrière.
+  Dieser ehrgeizige junge *Mann* aus der Finanzbranche denkt nur an seine Karriere.
+
+  Il fait un *froid de loup* ce matin.
+  Es ist *bitterkalt* heute Morgen.
+
+  Le vieux *loup de mer* nous a raconté ses aventures.
+  Der alte *Seebär* hat uns von seinen Abenteuern erzählt.
+
+  Le *loup* au fenouil est une spécialité méditerranéenne.
+  Der *Wolfsbarsch* mit Fenchel ist eine mediterrane Spezialität.
+
+  Elle portait un *loup* noir en dentelle au bal masqué.
+  Sie trug eine schwarze *Halbmaske* aus Spitze auf dem Maskenball.
+
+  "Ne *hurle* pas avec les *loups*," lui conseilla sa mère.
+  "*Heule* nicht mit den *Wölfen*," riet ihr ihre Mutter.
+
+  Ce *loup* solitaire travaille toujours seul dans son coin.
+  Dieser *Einzelgänger* arbeitet immer allein in seiner Ecke.
+
+  Les *louveteaux* jouent devant l'entrée de la tanière.
+  Die *Wolfswelpen* spielen vor dem Höhleneingang.
+
+  Le hurlement du *loup* résonnait dans la vallée.
+  Das Heulen des *Wolfes* hallte durch das Tal.
+
+  Ne te *jette* pas dans la *gueule du loup* !
+  *Lauf* nicht in dein *Verderben*!
+
+  "Mon *loup*," murmura-t-elle tendrement.
+  "Mein *Liebling*," flüsterte sie zärtlich.
+
+  Les *loups* ont disparu de cette région depuis longtemps.
+  Die *Wölfe* sind seit langem aus dieser Region verschwunden.
+
+  Le *loup* à crinière vit en Amérique du Sud.
+  Der Mähnen*wolf* lebt in Südamerika.
+
+  Ce vieux *loup de mer* a navigué sur toutes les mers du monde.
+  Dieser alte *Seebär* ist auf allen Weltmeeren gesegelt.
+
+  Les enfants de la *louve* ont fondé Rome.
+  Die Söhne der *Wölfin* haben Rom gegründet.
+
+  Le *loup* doré ressemble beaucoup au chacal.
+  Der Gold*wolf* ähnelt sehr dem Schakal.
+
+  "*Crier au loup*" trop souvent peut être dangereux.
+  Zu oft "*Wolf* schreien" kann gefährlich sein.
+
+  Le *loup* antarctique s'est parfaitement adapté au froid.
+  Der antarktische *Wolf* hat sich perfekt an die Kälte angepasst.
+
+  Les traces du *loup* étaient encore fraîches dans la neige.
+  Die Spuren des *Wolfes* waren noch frisch im Schnee.
+
+  "Homo homini *lupus*," dit le philosophe latin.
+  "Der Mensch ist dem Menschen ein *Wolf*," sagte der lateinische Philosoph.
+
+  Ce jeune *loup* de la politique a gravi les échelons rapidement.
+  Dieser aufstrebende junge *Mann* hat die politische Karriereleiter schnell erklommen.
+
+  La *louve* allaite ses petits dans la tanière.
+  Die *Wölfin* säugt ihre Jungen in der Höhle.
+
+  Le *loup* garde une place importante dans nos légendes.
+  Der *Wolf* hat einen wichtigen Platz in unseren Legenden.
+
+  Ce restaurant sert du *loup* grillé tous les vendredis.
+  Dieses Restaurant serviert jeden Freitag gegrillten *Wolfsbarsch*.
+
+  Les bergers protègent leurs troupeaux des *loups*.
+  Die Hirten schützen ihre Herden vor *Wölfen*.
+
+  "*Loup* y es-tu ?" chantent les enfants dans la cour.
+  "*Wolf*, bist du da?" singen die Kinder auf dem Hof.
+
+  Le *loup* est revenu dans les Alpes françaises.
+  Der *Wolf* ist in die französischen Alpen zurückgekehrt.
+
+  Ce *loup* solitaire a attaqué plusieurs bergeries.
+  Dieser einzelgängerische *Wolf* hat mehrere Schafställe angegriffen.
+
+  La légende du *loup*-garou fascine toujours les enfants.
+  Die Legende vom Wer*wolf* fasziniert Kinder noch immer.
+
+  Elle ajusta son *loup* de velours noir.
+  Sie richtete ihre schwarze Samt*maske*.
+
+  Un jeune *loup* affamé rôdait autour du village.
+  Ein hungriger junger *Wolf* streifte um das Dorf.
+
+  Les *loups* communiquent entre eux par des hurlements.
+  *Wölfe* kommunizieren untereinander durch Heulen.
+
+  Le vieux *loup de mer* connaît tous les ports de la côte.
+  Der alte *Seebär* kennt alle Häfen der Küste.
+
+  Ce *loup* de Tasmanie était le dernier de son espèce.
+  Dieser tasmanische *Wolf* war der letzte seiner Art.
+
+  La *louve* défend farouchement son territoire.
+  Die *Wölfin* verteidigt ihr Revier grimmig.
+
+  Pierre est un vrai *loup* solitaire au bureau.
+  Pierre ist ein echter *Einzelgänger* im Büro.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

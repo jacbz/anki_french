@@ -13,11 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous avez décliné notre offre.
-  Sie haben unser Angebot abgelehnt.
+  Vous avez *décliné* notre offre.
+  Sie haben unser Angebot *abgelehnt*.
 
-  Je dois décliner votre invitation.
-  Ich muss Ihre Einladung ablehnen.
+  Je dois *décliner* votre invitation à dîner, je suis désolé.
+  Ich muss Ihre Einladung zum Essen leider *ablehnen*.
+
+  Le soleil *décline* lentement à l'horizon.
+  Die Sonne *sinkt* langsam am Horizont.
+
+  Sa santé *décline* progressivement depuis l'accident.
+  Seine Gesundheit *nimmt* seit dem Unfall allmählich *ab*.
+
+  Les enfants *déclinent* les noms latins à l'école.
+  Die Kinder *deklinieren* die lateinischen Nomen in der Schule.
+
+  Le professeur nous a demandé de *décliner* nos noms et prénoms.
+  Der Lehrer hat uns aufgefordert, unsere Vor- und Nachnamen *anzugeben*.
+
+  L'entreprise *décline* ce modèle en cinq couleurs différentes.
+  Die Firma bietet dieses Modell in fünf verschiedenen Farben *an*.
+
+  Ses forces *déclinent* de jour en jour.
+  Seine Kräfte *schwinden* von Tag zu Tag.
+
+  La popularité du président *décline* dans les sondages.
+  Die Beliebtheit des Präsidenten *nimmt* in den Umfragen *ab*.
+
+  L'adjectif "beau" se *décline* différemment au féminin.
+  Das Adjektiv "beau" wird im Femininum anders *dekliniert*.
+
+  Il a *décliné* toute responsabilité dans cette affaire.
+  Er hat jede Verantwortung in dieser Angelegenheit *zurückgewiesen*.
+
+  Le jour *décline* déjà, nous devrions rentrer.
+  Der Tag *neigt* sich bereits, wir sollten zurückgehen.
+
+  Les ventes *déclinent* depuis trois mois consécutifs.
+  Die Verkäufe *nehmen* seit drei Monaten in Folge *ab*.
+
+  L'agent de police m'a demandé de *décliner* mon identité.
+  Der Polizist hat mich aufgefordert, meine Personalien *anzugeben*.
+
+  Cette marque *décline* ses produits pour tous les âges.
+  Diese Marke *bietet* ihre Produkte für alle Altersgruppen *an*.
+
+  Sa mémoire commence à *décliner*.
+  Sein Gedächtnis beginnt *nachzulassen*.
+
+  Les étudiants doivent *décliner* ce mot dans tous les cas.
+  Die Studenten müssen dieses Wort in allen Fällen *deklinieren*.
+
+  Elle a poliment *décliné* le poste qu'on lui proposait.
+  Sie hat die angebotene Stelle höflich *abgelehnt*.
+
+  Le prestige de l'entreprise *décline* rapidement.
+  Das Ansehen der Firma *schwindet* rasch.
+
+  La lune *décline* vers l'ouest.
+  Der Mond *sinkt* gen Westen.
+
+  Il a dû *décliner* l'honneur qui lui était fait.
+  Er musste die ihm erwiesene Ehre *ablehnen*.
+
+  Les températures *déclinent* progressivement en automne.
+  Die Temperaturen *nehmen* im Herbst allmählich *ab*.
+
+  Il faut *décliner* son nom et son adresse sur ce formulaire.
+  Man muss seinen Namen und seine Adresse auf diesem Formular *angeben*.
+
+  Sa vue *décline* avec l'âge.
+  Seine Sehkraft *lässt* mit dem Alter *nach*.
+
+  Le candidat a *décliné* l'invitation au débat.
+  Der Kandidat hat die Einladung zur Debatte *abgelehnt*.
+
+  L'influence de ce pays *décline* sur la scène internationale.
+  Der Einfluss dieses Landes *schwindet* auf internationaler Ebene.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

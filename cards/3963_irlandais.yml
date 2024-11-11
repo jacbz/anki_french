@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ma femme est d’origine irlandaise.
-  Meine Frau ist irischer Abstammung.
+  Ma femme est d'origine *irlandaise*.
+  Meine Frau ist *irischer* Herkunft.
 
-  Mon ami est irlandais.
-  Mein Freund ist Ire.
+  Je voudrais un café *irlandais*, s'il vous plaît.
+  Ich hätte gerne einen *Irish* Coffee, bitte.
+
+  La musique *irlandaise* traditionnelle est très populaire dans le monde entier.
+  Traditionelle *irische* Musik ist auf der ganzen Welt sehr beliebt.
+
+  Les *Irlandais* sont connus pour leur hospitalité chaleureuse.
+  Die *Iren* sind für ihre herzliche Gastfreundschaft bekannt.
+
+  Mon grand-père parlait couramment l'*irlandais*.
+  Mein Großvater sprach fließend *Irisch*.
+
+  Le gouvernement *irlandais* a annoncé de nouvelles mesures économiques.
+  Die *irische* Regierung hat neue Wirtschaftsmaßnahmen angekündigt.
+
+  Les paysages *irlandais* sont d'une beauté à couper le souffle.
+  Die *irische* Landschaft ist atemberaubend schön.
+
+  Pierre étudie la littérature *irlandaise* à l'université.
+  Pierre studiert *irische* Literatur an der Universität.
+
+  L'équipe de rugby *irlandaise* a remporté le match hier soir.
+  Die *irische* Rugby-Mannschaft hat gestern Abend das Spiel gewonnen.
+
+  J'ai adopté un setter *irlandais* l'année dernière.
+  Ich habe letztes Jahr einen *irischen* Setter adoptiert.
+
+  Les contes *irlandais* sont pleins de magie et de mystère.
+  *Irische* Märchen sind voller Magie und Geheimnisse.
+
+  La culture *irlandaise* est très présente à Boston.
+  Die *irische* Kultur ist in Boston sehr präsent.
+
+  Mon ami *irlandais* m'a invité à passer Noël chez lui à Dublin.
+  Mein *irischer* Freund hat mich eingeladen, Weihnachten bei ihm in Dublin zu verbringen.
+
+  L'*irlandais* est encore parlé dans certaines régions du pays.
+  *Irisch* wird in einigen Regionen des Landes noch gesprochen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

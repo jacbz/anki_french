@@ -10,7 +10,7 @@ function initClozeGame({
   if (showOverlay) {
     const overlay = document.createElement("div");
     overlay.id = "overlay";
-    overlay.textContent = "Show";
+    overlay.textContent = "Anzeigen";
     overlay.onclick = () => {
       overlay.classList.add("hidden");
     };

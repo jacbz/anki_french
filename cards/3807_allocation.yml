@@ -13,35 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il dirigeait l’allocation des ressources.
-  Er leitete die Ressourcenverteilung.
+  Il dirigeait l'*allocation* des ressources.
+  Er leitete die *Zuteilung* der Ressourcen.
 
-  Les allocations familiales sont versées chaque mois.
-  Die Familienbeihilfe wird jeden Monat ausgezahlt.
+  "Tu as déjà reçu ton *alloc* ce mois-ci ?"
+  "Hast du deine *Beihilfe* diesen Monat schon bekommen?"
 
-  Les allocations familiales sont une aide financière accordée aux familles avec enfants.
-  Kindergeld ist eine finanzielle Unterstützung, die Familien mit Kindern erhalten.
+  Mon fils a perçu une *allocation* pour ses études à l'étranger.
+  Mein Sohn hat eine *Beihilfe* für sein Auslandsstudium erhalten.
 
-  L'allocation parentale d'éducation est une allocation versée aux parents qui s'occupent de leur enfant à la maison.
-  Die Ausbildungsbeihilfe für Eltern ist eine Beihilfe, die an Eltern gezahlt wird, die sich zu Hause um ihr Kind kümmern.
+  L'*allocation* logement aide beaucoup les étudiants.
+  Die Wohnungs*beihilfe* hilft den Studenten sehr.
 
-  L'allocation exceptionnelle est une aide financière versée en cas de besoin urgent.
-  Eine Sonderzuwendung ist eine finanzielle Hilfe, die bei dringendem Bedarf gezahlt wird.
+  Les familles nombreuses reçoivent des *allocations* plus importantes.
+  Kinderreiche Familien erhalten ein höheres *Kindergeld*.
 
-  L'allocation de fin de service est une allocation versée aux salariés qui quittent leur emploi.
-  Die Übergangsbeihilfe ist eine Beihilfe, die an Arbeitnehmer gezahlt wird, die ihren Arbeitsplatz verlassen.
+  Suite à son accident, elle touche une *allocation* d'handicapé.
+  Nach ihrem Unfall erhält sie eine Behinderten*unterstützung*.
 
-  L'allocation transitoire de retraite est une allocation versée aux personnes qui sont en transition vers la retraite.
-  Das Altersübergangsgeld ist eine Beihilfe, die an Menschen gezahlt wird, die in die Rente wechseln.
+  Le gouvernement a augmenté l'*allocation* de chômage.
+  Die Regierung hat das Arbeitslosen*geld* erhöht.
 
-  J'ai demandé une allocation de chômage.
-  Ich habe Arbeitslosengeld beantragt.
+  Marie n'a pas encore fait sa demande d'*allocation*.
+  Marie hat ihren *Unterstützungs*antrag noch nicht gestellt.
 
-  Il touche une allocation de logement.
-  Er bezieht eine Wohngeldbeihilfe.
+  L'*allocation* parentale d'éducation l'aide à élever ses enfants.
+  Die Eltern*beihilfe* hilft ihr bei der Kindererziehung.
 
-  Le gouvernement a accordé des allocations aux victimes de la catastrophe naturelle.
-  Die Regierung hat den Opfern der Naturkatastrophe Unterstützung gewährt.
+  Cette *allocation* exceptionnelle sera versée en décembre.
+  Diese *Sonderzuwendung* wird im Dezember ausgezahlt.
+
+  Le montant des *allocations* familiales dépend du nombre d'enfants.
+  Die Höhe des *Kindergeldes* hängt von der Anzahl der Kinder ab.
+
+  Son *allocation* transitoire de retraite prendra fin l'année prochaine.
+  Sein *Altersübergangsgeld* läuft nächstes Jahr aus.
+
+  La CAF lui a accordé une *allocation* de 500 euros.
+  Die Familienkasse hat ihr eine *Beihilfe* von 500 Euro bewilligt.
+
+  Les critères d'*allocation* des bourses ont été modifiés.
+  Die Kriterien für die *Vergabe* der Stipendien wurden geändert.
+
+  L'*allocation* de fin de service l'aidera à démarrer sa nouvelle vie.
+  Die Übergangs*beihilfe* wird ihm helfen, sein neues Leben zu beginnen.
+
+  Pierre doit rembourser une partie de son *allocation*.
+  Pierre muss einen Teil seiner *Unterstützung* zurückzahlen.
+
+  L'*allocation* logement sera versée directement au propriétaire.
+  Die Wohnungs*beihilfe* wird direkt an den Vermieter überwiesen.
+
+  Les démarches pour obtenir cette *allocation* sont très complexes.
+  Die Formalitäten für den Erhalt dieser *Unterstützung* sind sehr kompliziert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

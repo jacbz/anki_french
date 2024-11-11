@@ -13,32 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle avait raté de justesse son certificat d’études supérieures.
-  Sie hatte ihr Abiturzeugnis nur knapp verpasst.
+  Elle avait raté de justesse son *certificat* d'études supérieures.
+  Sie hatte ihr Hochschul*zeugnis* nur knapp nicht bestanden.
 
-  J’ai besoin d’un certificat médical.
-  Ich brauche ein ärztliches Attest.
+  Le médecin m'a délivré un *certificat* médical pour trois jours.
+  Der Arzt hat mir ein ärztliches *Attest* für drei Tage ausgestellt.
 
-  Le médecin a délivré un certificat médical à Marie pour son absence au travail.
-  Der Arzt hat Marie ein ärztliches Attest für ihre Abwesenheit von der Arbeit ausgestellt.
+  Pour s'inscrire à l'université, il faut présenter un *certificat* de naissance.
+  Für die Einschreibung an der Universität muss man eine Geburts*bescheinigung* vorlegen.
 
-  L'employeur a délivré un certificat à Jean pour son travail chez eux.
-  Der Arbeitgeber hat Jean einen Beschäftigungsnachweis für seine Arbeit bei ihnen ausgestellt.
+  Mon employeur m'a remis un *certificat* de travail très positif.
+  Mein Arbeitgeber hat mir ein sehr gutes Arbeits*zeugnis* ausgestellt.
 
-  Le certificat officiel doit être présenté à l'ambassade.
-  Die amtliche Beglaubigung muss bei der Botschaft vorgelegt werden.
+  La mairie délivre des *certificats* de résidence gratuitement.
+  Das Rathaus stellt kostenlos Wohnsitz*bescheinigungen* aus.
 
-  Le professeur a délivré un certificat provisoire à ses élèves pour le collège.
-  Der Lehrer hat seinen Schülern ein Zwischenzeugnis für das Gymnasium ausgestellt.
+  As-tu obtenu ton *certificat* d'aptitude professionnelle en cuisine ?
+  Hast du dein Berufseignungs*zeugnis* als Koch bekommen?
 
-  Le certificat d'actions nominatives permet de connaître le propriétaire des actions.
-  Das Zertifikat für Namensaktien ermöglicht es, den Eigentümer der Aktien zu ermitteln.
+  Elle conserve précieusement son *certificat* de mariage dans un coffre-fort.
+  Sie bewahrt ihre Heirats*urkunde* sorgfältig in einem Safe auf.
 
-  Pour se marier, il faut obtenir un certificat de capacité à mariage.
-  Um heiraten zu können, muss man ein Ehefähigkeitszeugnis erhalten.
+  Le notaire a authentifié le *certificat* de propriété.
+  Der Notar hat die Eigentums*bescheinigung* beglaubigt.
 
-  La police a délivré un certificat de bonne vie et mœurs à Pierre pour son nouveau travail.
-  Die Polizei hat ein Leumundszeugnis über Pierre für seinen neuen Arbeitsplatz abgegeben.
+  Mon grand-père avait son *certificat* d'études primaires.
+  Mein Großvater hatte sein Grundschul*zeugnis*.
+
+  La banque m'a délivré un *certificat* de dépôt pour mon investissement.
+  Die Bank hat mir eine Einzahlungs*bescheinigung* für meine Anlage ausgestellt.
+
+  J'ai dû présenter un *certificat* de vaccination à la frontière.
+  Ich musste an der Grenze einen Impf*nachweis* vorlegen.
+
+  Le *certificat* de conformité prouve que la voiture respecte les normes.
+  Die Konformitäts*bescheinigung* beweist, dass das Auto den Normen entspricht.
+
+  Tu dois demander un *certificat* de scolarité pour les allocations.
+  Du musst eine Schul*bescheinigung* für das Kindergeld beantragen.
+
+  L'entreprise exige un *certificat* de bonne conduite.
+  Die Firma verlangt ein Führungs*zeugnis*.
+
+  Le professeur a reçu son *certificat* d'aptitude à l'enseignement.
+  Der Lehrer hat sein Lehr*befähigungszeugnis* erhalten.
+
+  Marie attend son *certificat* de nationalité française.
+  Marie wartet auf ihre französische Staatsangehörigkeits*bescheinigung*.
+
+  L'architecte a signé le *certificat* d'urbanisme hier.
+  Der Architekt hat gestern die Bebauungs*bescheinigung* unterschrieben.
+
+  Le *certificat* provisoire sera remplacé par le document définitif.
+  Die vorläufige *Bescheinigung* wird durch das endgültige Dokument ersetzt.
+
+  Nous devons produire un *certificat* d'hébergement pour le visa.
+  Wir müssen für das Visum eine Unterkunfts*bescheinigung* vorlegen.
+
+  Son *certificat* de stage lui a ouvert de nombreuses portes.
+  Sein Praktikums*zeugnis* hat ihm viele Türen geöffnet.
+
+  Le *certificat* d'assurance doit toujours être dans la voiture.
+  Der Versicherungs*nachweis* muss immer im Auto sein.
+
+  L'université lui a délivré un *certificat* de réussite.
+  Die Universität hat ihr ein Erfolgs*zeugnis* ausgestellt.
+
+  Le *certificat* médical justifie son absence à l'examen.
+  Das ärztliche *Attest* rechtfertigt ihre Abwesenheit bei der Prüfung.
+
+  Il faut un *certificat* d'authenticité pour vendre cette œuvre d'art.
+  Man braucht ein Echtheits*zertifikat*, um dieses Kunstwerk zu verkaufen.
+
+  Le nouveau système permet d'obtenir des *certificats* en ligne.
+  Das neue System ermöglicht es, *Bescheinigungen* online zu erhalten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

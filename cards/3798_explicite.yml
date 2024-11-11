@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’étaient des impératifs assez explicites.
-  Dies waren ziemlich explizite Imperative.
+  C'étaient des impératifs assez *explicites*.
+  Das waren ziemlich *eindeutige* Anweisungen.
 
-  Il a donné une réponse explicite.
-  Er hat eine explizite Antwort gegeben.
+  Le contrat n'était pas assez *explicite* sur ce point.
+  Der Vertrag war in diesem Punkt nicht *eindeutig* genug.
+
+  Les règles du jeu sont très *explicites*.
+  Die Spielregeln sind sehr *klar*.
+
+  Je vais être *explicite* : votre travail ne me satisfait pas du tout.
+  Ich werde *unmissverständlich* sein: Ihre Arbeit gefällt mir überhaupt nicht.
+
+  Les instructions sur l'emballage sont parfaitement *explicites*.
+  Die Anweisungen auf der Verpackung sind vollkommen *eindeutig*.
+
+  Le nouveau règlement est beaucoup plus *explicite* que l'ancien.
+  Die neue Vorschrift ist viel *klarer* als die alte.
+
+  Il faut être *explicite* quand on parle aux enfants.
+  Man muss *unmissverständlich* sein, wenn man mit Kindern spricht.
+
+  La réponse du ministre n'était pas très *explicite*.
+  Die Antwort des Ministers war nicht sehr *klar*.
+
+  Nous avons besoin d'une autorisation *explicite* des parents.
+  Wir brauchen eine *eindeutige* Erlaubnis der Eltern.
+
+  Son message était tout à fait *explicite*.
+  Seine Nachricht war absolut *unmissverständlich*.
+
+  Les conditions de vente doivent être *explicites*.
+  Die Verkaufsbedingungen müssen *klar* sein.
+
+  Cette clause du testament est parfaitement *explicite*.
+  Diese Klausel im Testament ist vollkommen *eindeutig*.
+
+  Soyez plus *explicite* dans vos explications, s'il vous plaît.
+  Seien Sie bitte *klarer* in Ihren Erklärungen.
+
+  La direction a donné des consignes très *explicites*.
+  Die Leitung hat sehr *unmissverständliche* Anweisungen gegeben.
+
+  Les objectifs du projet sont suffisamment *explicites*.
+  Die Projektziele sind ausreichend *klar*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

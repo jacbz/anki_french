@@ -13,14 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La mine est paralysée par la grève.
-  Die Mine wird durch einen Streik lahmgelegt.
+  La mine est *paralysée* par la grève.
+  Die Mine ist durch den Streik *lahmgelegt*.
 
-  Le froid intense peut paralyser les membres.
-  Die extreme Kälte kann die Gliedmaßen lähmen.
+  La tempête de neige a *paralysé* tout le réseau routier.
+  Der Schneesturm hat das gesamte Straßennetz *lahmgelegt*.
 
-  Jean était paralysé par la peur lorsqu'il a vu l'accident.
-  Jean war vor Angst gelähmt, als er den Unfall sah.
+  Une attaque cérébrale lui a *paralysé* le côté gauche du corps.
+  Ein Schlaganfall hat seine linke Körperseite *gelähmt*.
+
+  Le stress l'a complètement *paralysé* pendant l'entretien d'embauche.
+  Der Stress hat ihn während des Vorstellungsgesprächs völlig *gelähmt*.
+
+  Les transports publics seront *paralysés* demain à cause de la manifestation.
+  Der öffentliche Nahverkehr wird morgen wegen der Demonstration *stillstehen*.
+
+  La peur du noir *paralysait* le petit garçon chaque soir.
+  Die Angst vor der Dunkelheit *lähmte* den kleinen Jungen jeden Abend.
+
+  Cette blessure m'a *paralysé* le bras droit pendant plusieurs semaines.
+  Diese Verletzung hat meinen rechten Arm mehrere Wochen lang *gelähmt*.
+
+  Le trac *paralysait* complètement Marie avant son spectacle de danse.
+  Das Lampenfieber hat Marie vor ihrer Tanzaufführung völlig *gelähmt*.
+
+  Un grave accident a *paralysé* le trafic sur l'autoroute pendant des heures.
+  Ein schwerer Unfall hat den Verkehr auf der Autobahn stundenlang *lahmgelegt*.
+
+  Le froid intense avait *paralysé* ses doigts.
+  Die intensive Kälte hatte seine Finger *gelähmt*.
+
+  L'économie du pays est *paralysée* par la crise financière.
+  Die Wirtschaft des Landes ist durch die Finanzkrise *lahmgelegt*.
+
+  Sa timidité le *paralyse* chaque fois qu'il doit parler en public.
+  Seine Schüchternheit *lähmt* ihn jedes Mal, wenn er öffentlich sprechen muss.
+
+  Le virus informatique a *paralysé* tout le système pendant deux jours.
+  Der Computervirus hat das gesamte System zwei Tage lang *lahmgelegt*.
+
+  L'émotion *paralysa* sa langue au moment crucial.
+  Die Aufregung *lähmte* seine Zunge im entscheidenden Moment.
+
+  Une panne technique a *paralysé* la production de l'usine.
+  Eine technische Störung hat die Produktion der Fabrik *lahmgelegt*.
+
+  La chaleur écrasante *paralysait* toute activité dans la ville.
+  Die erdrückende Hitze *lähmte* jegliche Aktivität in der Stadt.
+
+  Le choc de l'accident l'a complètement *paralysé*.
+  Der Schock des Unfalls hat ihn völlig *gelähmt*.
+
+  Les grévistes ont *paralysé* l'aéroport pendant une semaine.
+  Die Streikenden haben den Flughafen eine Woche lang *lahmgelegt*.
+
+  L'angoisse *paralysait* ses facultés de réflexion.
+  Die Angst *lähmte* sein Denkvermögen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

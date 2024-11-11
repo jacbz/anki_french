@@ -13,26 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Comment confirme-t-on le diagnostic de l’Alzheimer?
-  Wie wird die Diagnose Alzheimer bestätigt?
+  Comment confirme-t-on le *diagnostic* de l'Alzheimer ?
+  Wie wird die *Diagnose* von Alzheimer bestätigt?
 
-  Le diagnostic médical a confirmé la maladie.
-  Die medizinische Diagnose hat die Krankheit bestätigt.
+  Le *diagnostic* radiologique a révélé une fracture de la hanche.
+  Die Röntgen*diagnose* zeigte einen Hüftbruch.
 
-  Le diagnostic radiologique a révélé une fracture du bras.
-  Die Röntgendiagnose ergab einen Bruch des Arms.
+  Le médecin a établi un *diagnostic* différentiel entre la grippe et le COVID.
+  Der Arzt stellte eine Differenzial*diagnose* zwischen Grippe und COVID.
 
-  Le diagnostic différentiel comprend une pneumonie et une bronchite.
-  Die Differenzialdiagnose umfasst eine Lungenentzündung und eine Bronchitis.
+  Les résultats du *diagnostic* après examen du liquide amniotique étaient rassurants.
+  Die Ergebnisse der Fruchtwasser*diagnose* waren beruhigend.
 
-  Le diagnostic après examen du liquide amniotique a montré une trisomie 21.
-  Die Fruchtwasserdiagnostik ergab ein Down-Syndrom.
+  Le docteur Martin a établi un *diagnostic* de diabète après plusieurs tests.
+  Doktor Martin stellte nach mehreren Tests die *Diagnose* Diabetes.
 
-  Le médecin a établi un diagnostic de grippe.
-  Der Arzt hat eine Grippe diagnostiziert.
+  Une erreur de *diagnostic* a conduit à un traitement inadapté.
+  Ein *Diagnose*fehler führte zu einer falschen Behandlung.
 
-  Le diagnostic de cancer a été confirmé par une biopsie.
-  Die Diagnose Krebs wurde durch eine Biopsie bestätigt.
+  Son *diagnostic* de la situation économique s'est avéré très précis.
+  Seine *Beurteilung* der wirtschaftlichen Situation erwies sich als sehr genau.
+
+  Le garagiste a effectué un *diagnostic* complet de ma voiture.
+  Der Mechaniker führte eine vollständige *Diagnose* an meinem Auto durch.
+
+  Le *diagnostic* thermique de notre maison a montré des pertes de chaleur importantes.
+  Die Wärme*diagnose* unseres Hauses zeigte erhebliche Wärmeverluste.
+
+  Ce jeune médecin pose toujours des *diagnostics* très précis.
+  Dieser junge Arzt stellt immer sehr präzise *Diagnosen*.
+
+  Les experts ont présenté leur *diagnostic* sur la crise environnementale.
+  Die Experten präsentierten ihre *Beurteilung* der Umweltkrise.
+
+  Le *diagnostic* précoce améliore considérablement les chances de guérison.
+  Die Früh*diagnose* verbessert die Heilungschancen erheblich.
+
+  Les tests sanguins ont confirmé le *diagnostic* initial du médecin.
+  Die Bluttests bestätigten die erste *Diagnose* des Arztes.
+
+  Un *diagnostic* approfondi a permis d'identifier l'origine de la panne.
+  Eine gründliche *Diagnose* half dabei, die Ursache des Defekts zu identifizieren.
+
+  Les nouveaux outils permettent un *diagnostic* plus rapide des maladies rares.
+  Die neuen Werkzeuge ermöglichen eine schnellere *Diagnose* von seltenen Krankheiten.
+
+  Son *diagnostic* de la situation politique s'est révélé étonnamment juste.
+  Seine *Einschätzung* der politischen Situation erwies sich als erstaunlich zutreffend.
+
+  L'équipe médicale a mis plusieurs jours pour établir le bon *diagnostic*.
+  Das medizinische Team brauchte mehrere Tage, um die richtige *Diagnose* zu stellen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

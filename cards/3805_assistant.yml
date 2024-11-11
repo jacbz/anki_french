@@ -13,26 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai demandé à être assistant stagiaire.
-  Ich habe mich als Assistentin im Praktikum beworben.
+  J'ai demandé à être *assistant* stagiaire.
+  Ich habe mich als *Assistent* in der Ausbildung beworben.
 
-  Mon assistant m’aide avec mes tâches.
-  Mein Assistent hilft mir bei meinen Aufgaben.
+  Il est *assistant* à l'université et y enseigne l'histoire.
+  Er ist *Dozent* an der Universität und unterrichtet dort Geschichte.
 
-  Marie est une assistante sociale qui aide les personnes en difficulté.
-  Marie ist eine Sozialarbeiterin, die Menschen in Not hilft.
+  Pierre travaille comme *assistant* social dans un quartier défavorisé.
+  Pierre arbeitet als *Sozialarbeiter* in einem benachteiligten Viertel.
 
-  Les assistants sont rassemblés dans la salle de conférence.
-  Die Anwesenden sind im Konferenzraum versammelt.
+  L'*assistante* maternelle s'occupe de trois enfants à son domicile.
+  Die *Tagesmutter* kümmert sich um drei Kinder bei sich zu Hause.
 
-  L'assistant personnel de la star s'occupe de son agenda et de ses déplacements.
-  Der Organizer des Stars kümmert sich um seinen Terminkalender und seine Reisen.
+  Marie est *assistante* de la rédaction dans un grand journal.
+  Marie ist *Redaktionsassistentin* bei einer großen Zeitung.
 
-  L'assistant graphique permet de créer des diagrammes facilement.
-  Der Diagramm-Assistent ermöglicht das einfache Erstellen von Diagrammen.
+  Tous les *assistants* se sont levés pour applaudir.
+  Alle *Anwesenden* erhoben sich zum Applaus.
 
-  L'assistante de rédaction a relu le texte et apporté quelques corrections.
-  Die Redaktionsassistentin hat den Text Korrektur gelesen und einige Korrekturen vorgenommen.
+  L'*assistant* personnel m'aide à organiser mes rendez-vous.
+  Der elektronische *Organizer* hilft mir bei der Terminplanung.
+
+  Mon *assistant* médical m'a aidé pendant l'opération.
+  Mein medizinischer *Assistent* hat mir während der Operation geholfen.
+
+  L'*assistante* du chirurgien prépare les instruments.
+  Die *Assistentin* des Chirurgen bereitet die Instrumente vor.
+
+  Notre nouvelle *assistante* d'anglais vient d'Écosse.
+  Unsere neue Englisch-*Assistentin* kommt aus Schottland.
+
+  L'*assistant* technique vérifie les équipements chaque matin.
+  Der technische *Assistent* überprüft jeden Morgen die Geräte.
+
+  L'*assistant* du metteur en scène coordonne les acteurs.
+  Der *Assistent* des Regisseurs koordiniert die Schauspieler.
+
+  Les *assistants* sociaux ont organisé une réunion d'urgence.
+  Die *Sozialarbeiter* haben eine Notfallsitzung einberufen.
+
+  L'*assistant* de recherche analyse les données du laboratoire.
+  Der Forschungs*assistent* analysiert die Labordaten.
+
+  Une *assistante* maternelle doit obtenir un agrément officiel.
+  Eine *Tagesmutter* muss eine offizielle Zulassung erhalten.
+
+  L'*assistante* sociale m'a aidé avec mes démarches administratives.
+  Die *Sozialarbeiterin* hat mir bei den Behördengängen geholfen.
+
+  L'*assistant* graphique permet de créer des diagrammes facilement.
+  Der Diagramm-*Assistent* ermöglicht es, einfach Diagramme zu erstellen.
+
+  Les *assistants* ont écouté attentivement la conférence.
+  Die *Zuhörer* folgten dem Vortrag aufmerksam.
+
+  L'*assistant* de connexion vous guide étape par étape.
+  Der Verbindungs*assistent* führt Sie Schritt für Schritt.
+
+  Notre *assistante* sociale organise des activités pour les jeunes.
+  Unsere *Sozialarbeiterin* organisiert Aktivitäten für die Jugendlichen.
+
+  L'*assistant* des hôpitaux fait sa tournée quotidienne.
+  Der Krankenhaus*assistent* macht seine tägliche Runde.
+
+  L'*assistant* personnel numérique facilite la prise de notes.
+  Der digitale *Assistent* erleichtert die Notizenerstellung.
+
+  L'un des *assistants* a posé une question pertinente.
+  Einer der *Anwesenden* stellte eine relevante Frage.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

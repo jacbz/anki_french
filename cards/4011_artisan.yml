@@ -9,12 +9,60 @@ Femininum / Plural: artisane
 IPA: \aʁ.ti.zɑ̃\
 Definition: Handwerker
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Nous sommes les artisans de notre propre destin.\nWir sind die Gestalter\
-  \ unseres eigenen Schicksals.\n\nMon père est un artisan talentueux.\nMein Vater\
-  \ ist ein talentierter Handwerker.\n\nMarie est une artisan boulanger. \nMarie ist\
-  \ Bäckermeisterin.\n\nSophie est une artisan maçon. \nSophie ist Maurermeisterin.\n\
-  \nAnne est une artisan d'art. \nAnne ist Kunsthandwerkerin.\n\nLisa est une artisan\
-  \ en arts décoratifs. \nLisa ist Kunstgewerblerin."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Nous sommes les *artisans* de notre propre destin.
+  Wir sind die *Gestalter* unseres eigenen Schicksals.
+
+  Mon père était *artisan* boulanger pendant quarante ans.
+  Mein Vater war vierzig Jahre lang Bäcker*meister*.
+
+  Cette *artisane* d'art crée des bijoux uniques dans son atelier.
+  Diese Kunst*handwerkerin* kreiert in ihrer Werkstatt einzigartige Schmuckstücke.
+
+  L'*artisan* répare les vieux meubles avec beaucoup de patience.
+  Der *Handwerker* repariert alte Möbel mit viel Geduld.
+
+  Marie est devenue *artisane* en arts décoratifs après ses études.
+  Marie ist nach ihrem Studium *Kunstgewerblerin* geworden.
+
+  Le petit *artisan* du village fabrique encore ses meubles à la main.
+  Der kleine *Handwerker* im Dorf fertigt seine Möbel noch von Hand.
+
+  Cette entreprise familiale emploie trois *artisans* qualifiés.
+  Dieser Familienbetrieb beschäftigt drei qualifizierte *Handwerker*.
+
+  Les *artisans* locaux exposeront leurs créations au marché de Noël.
+  Die lokalen *Handwerker* werden ihre Kreationen auf dem Weihnachtsmarkt ausstellen.
+
+  Paul est un *artisan* habile qui maîtrise parfaitement son métier.
+  Paul ist ein geschickter *Handwerker*, der sein Handwerk perfekt beherrscht.
+
+  L'*artisane* transmet son savoir-faire à deux apprentis.
+  Die *Handwerkerin* gibt ihr Fachwissen an zwei Lehrlinge weiter.
+
+  Cette région est connue pour ses *artisans* talentueux.
+  Diese Region ist für ihre talentierten *Handwerker* bekannt.
+
+  À l'œuvre on connaît l'*artisan*.
+  Das Werk zeigt die Kunst des *Meisters*.
+
+  Il est devenu maître *artisan* après vingt ans d'expérience.
+  Er ist nach zwanzig Jahren Erfahrung *Handwerks*meister geworden.
+
+  Sophie fut l'*artisane* principale de cette réussite collective.
+  Sophie war die Haupt*gestalterin* dieses gemeinsamen Erfolgs.
+
+  Un *artisan* ingénieux a restauré cette vieille horloge.
+  Ein findiger *Handwerker* hat diese alte Uhr restauriert.
+
+  L'échoppe de cet *artisan* existe depuis trois générations.
+  Die Werkstatt dieses *Handwerkers* besteht seit drei Generationen.
+
+  Cette *artisane* maçonne a construit sa propre maison.
+  Diese Maurer*meisterin* hat ihr eigenes Haus gebaut.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

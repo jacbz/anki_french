@@ -13,17 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La russie a affirmé ses ambitions aux dépens de l’italie.
-  Russland bekräftigte seine Ambitionen auf Kosten Italiens.
+  La Russie a affirmé ses ambitions aux *dépens* de l'Italie.
+  Russland hat seine Ambitionen auf *Kosten* Italiens bestätigt.
 
-  Les dépens de la fête étaient élevés.
-  Die Kosten für das Fest waren hoch.
+  Il s'est enrichi aux *dépens* des petits épargnants.
+  Er hat sich auf *Kosten* der Kleinsparer bereichert.
 
-  Le projet a été mené à bien, mais aux dépens de l'environnement.
-  Das Projekt wurde erfolgreich abgeschlossen, aber auf Kosten der Umwelt.
+  Le tribunal a condamné le défendeur aux *dépens*.
+  Das Gericht hat den Beklagten zur Zahlung der Prozess*kosten* verurteilt.
 
-  J'ai appris à mes dépens que Paul a menti à propos de son travail.
-  Aus eigener Erfahrung weiß ich, dass Paul über seine Arbeit gelogen hat.
+  Cette plante grandit aux *dépens* des autres dans le jardin.
+  Diese Pflanze wächst im Garten auf *Kosten* der anderen.
+
+  J'ai malheureusement appris à mes *dépens* qu'on ne peut pas lui faire confiance.
+  Ich habe leider aus eigener leidvoller *Erfahrung* gelernt, dass man ihm nicht vertrauen kann.
+
+  "Il ne fait que vivre aux *dépens* de ses parents."
+  "Er lebt nur auf *Kosten* seiner Eltern."
+
+  Marie a dû payer tous les *dépens* du procès.
+  Marie musste alle Gerichts*kosten* des Prozesses bezahlen.
+
+  Les grands arbres se développent aux *dépens* des petits.
+  Die großen Bäume entwickeln sich auf *Kosten* der kleinen.
+
+  Le succès de son entreprise s'est fait aux *dépens* de sa vie privée.
+  Der Erfolg seines Unternehmens ging auf *Kosten* seines Privatlebens.
+
+  Nous avons appris à nos *dépens* que la patience est une vertu.
+  Wir haben aus schmerzlicher *Erfahrung* gelernt, dass Geduld eine Tugend ist.
+
+  Les *dépens* du procès s'élèvent à plusieurs milliers d'euros.
+  Die Prozess*kosten* belaufen sich auf mehrere tausend Euro.
+
+  Cette réforme s'est faite aux *dépens* des plus pauvres.
+  Diese Reform wurde auf *Kosten* der Ärmsten durchgeführt.
+
+  Il s'amuse toujours aux *dépens* des autres.
+  Er amüsiert sich immer auf *Kosten* anderer.
+
+  Le juge a compensé les *dépens* entre les parties.
+  Der Richter hat die Prozess*kosten* zwischen den Parteien aufgeteilt.
+
+  Elle a sauvé son frère aux *dépens* de sa propre sécurité.
+  Sie hat ihren Bruder unter Einsatz ihrer eigenen Sicherheit gerettet.
+
+  Tu apprendras à tes *dépens* que la vie n'est pas si simple.
+  Du wirst aus eigener *Erfahrung* lernen, dass das Leben nicht so einfach ist.
+
+  Les parasites vivent aux *dépens* de leur hôte.
+  Parasiten leben auf *Kosten* ihres Wirts.
+
+  La partie perdante devra payer les *dépens*.
+  Die unterlegene Partei muss die Gerichts*kosten* tragen.
+
+  Cette victoire s'est obtenue aux *dépens* de nombreuses vies.
+  Dieser Sieg wurde auf *Kosten* vieler Leben errungen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

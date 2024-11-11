@@ -13,14 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est une contradiction flagrante.
-  Das ist ein eklatanter Widerspruch.
+  C'est une contradiction *flagrante*.
+  Das ist ein *offensichtlicher* Widerspruch.
 
-  Il a commis une faute flagrante.
-  Er hat einen offensichtlichen Fehler begangen.
+  Le voleur a été arrêté en *flagrant* délit.
+  Der Dieb wurde auf *frischer* Tat ertappt.
 
-  Ce refus de lui accorder un visa constituerait une injustice flagrante.
-  Dieser Verweigerung eines Visums würde eine unzumutbare Härte darstellen.
+  Son mensonge était tellement *flagrant* que personne ne l'a cru.
+  Seine Lüge war so *offenkundig*, dass ihm niemand glaubte.
+
+  Cette différence de salaire est une injustice *flagrante*.
+  Dieser Gehaltsunterschied ist eine *himmelschreiende* Ungerechtigkeit.
+
+  L'erreur était si *flagrante* qu'il a dû s'excuser immédiatement.
+  Der Fehler war so *offensichtlich*, dass er sich sofort entschuldigen musste.
+
+  Le juge a ordonné une procédure de *flagrant* délit.
+  Der Richter ordnete ein Schnellverfahren bei *offenkundiger* Straftat an.
+
+  Je l'ai pris en *flagrant* délit de tricherie pendant l'examen.
+  Ich habe ihn beim Schummeln während der Prüfung auf *frischer* Tat ertappt.
+
+  Il y a une différence *flagrante* entre ce qu'il dit et ce qu'il fait.
+  Es gibt einen *offensichtlichen* Unterschied zwischen dem, was er sagt und was er tut.
+
+  Cette violation des règles est *flagrante*.
+  Dieser Regelverstoß ist *offenkundig*.
+
+  Les preuves étaient tellement *flagrantes* que le procès n'a pas duré longtemps.
+  Die Beweise waren so *eindeutig*, dass der Prozess nicht lange dauerte.
+
+  L'incompétence du nouveau directeur est *flagrante*.
+  Die Inkompetenz des neuen Direktors ist *offensichtlich*.
+
+  Il y a eu des cas *flagrants* de discrimination dans cette entreprise.
+  Es gab *offenkundige* Fälle von Diskriminierung in diesem Unternehmen.
+
+  Le manque de préparation était *flagrant* lors de sa présentation.
+  Der Mangel an Vorbereitung war bei seiner Präsentation *offensichtlich*.
+
+  Cette décision constitue une injustice *flagrante* envers les employés.
+  Diese Entscheidung stellt eine *himmelschreiende* Ungerechtigkeit gegenüber den Mitarbeitern dar.
+
+  La police est intervenue dans un cas de *flagrant* délit de vol.
+  Die Polizei griff bei einem Fall von Diebstahl auf *frischer* Tat ein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

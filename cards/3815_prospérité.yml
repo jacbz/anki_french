@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La société japonaise a connu une grande prospérité.
-  Die japanische Gesellschaft erlebte einen großen Wohlstand.
+  La société japonaise a connu une grande *prospérité*.
+  Die japanische Gesellschaft hat großen *Wohlstand* erlebt.
 
-  Le pays a connu une période de prospérité économique.
-  Das Land hat eine Zeit des wirtschaftlichen Wohlstands erlebt.
+  Cette région a retrouvé sa *prospérité* grâce au tourisme.
+  Diese Region hat durch den Tourismus ihren *Wohlstand* wiedererlangt.
+
+  La *prospérité* du commerce maritime a transformé la ville portuaire.
+  Der *Aufschwung* des Seehandels hat die Hafenstadt verwandelt.
+
+  Je vous souhaite santé et *prospérité* pour la nouvelle année !
+  Ich wünsche Ihnen Gesundheit und *Wohlergehen* für das neue Jahr!
+
+  Malgré sa *prospérité* apparente, l'entreprise traversait une crise profonde.
+  Trotz ihres scheinbaren *Erfolgs* durchlief das Unternehmen eine tiefe Krise.
+
+  La *prospérité* de l'agriculture dépend beaucoup des conditions climatiques.
+  Das *Gedeihen* der Landwirtschaft hängt stark von den Wetterbedingungen ab.
+
+  Dans sa *prospérité*, il n'a jamais oublié ses origines modestes.
+  In seinem *Wohlstand* hat er seine bescheidene Herkunft nie vergessen.
+
+  La paix a apporté une nouvelle période de *prospérité*.
+  Der Frieden hat eine neue Zeit des *Wohlstands* gebracht.
+
+  La *prospérité* économique du pays se reflète dans le niveau de vie.
+  Der wirtschaftliche *Wohlstand* des Landes spiegelt sich im Lebensstandard wider.
+
+  Les années de *prospérité* ont laissé place à une récession.
+  Die Jahre des *Wohlstands* sind einer Rezession gewichen.
+
+  Cette famille a toujours connu la *prospérité*.
+  Diese Familie hat immer im *Wohlstand* gelebt.
+
+  La *prospérité* de ces plantes témoigne de la richesse du sol.
+  Das *Gedeihen* dieser Pflanzen zeugt von der Fruchtbarkeit des Bodens.
+
+  Les réformes ont contribué à la *prospérité* du pays.
+  Die Reformen haben zum *Wohlstand* des Landes beigetragen.
+
+  "Tu as un air de *prospérité* ce matin !"
+  "Du siehst heute Morgen richtig *wohlgeraten* aus!"
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

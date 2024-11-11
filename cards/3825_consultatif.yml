@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils seront réduits à un rôle consultatif.
-  Sie werden auf eine beratende Funktion reduziert.
+  Ils seront réduits à un rôle *consultatif*.
+  Sie werden auf eine *beratende* Rolle beschränkt werden.
 
-  C’est un avis consultatif.
-  Das ist eine beratende Stellungnahme.
+  Le comité *consultatif* se réunira la semaine prochaine.
+  Der *beratende* Ausschuss wird sich nächste Woche treffen.
+
+  Cette commission n'a qu'une fonction *consultative*.
+  Diese Kommission hat nur eine *beratende* Funktion.
+
+  Les experts participent à titre *consultatif* aux négociations.
+  Die Experten nehmen in *beratender* Funktion an den Verhandlungen teil.
+
+  L'assemblée *consultative* a émis ses recommandations hier.
+  Die *beratende* Versammlung hat gestern ihre Empfehlungen abgegeben.
+
+  Le groupe de travail *consultatif* examine actuellement les propositions.
+  Die *beratende* Arbeitsgruppe prüft derzeit die Vorschläge.
+
+  Notre équipe a un statut purement *consultatif* dans ce projet.
+  Unser Team hat in diesem Projekt einen rein *beratenden* Status.
+
+  Les membres *consultatifs* ont exprimé leurs inquiétudes.
+  Die *beratenden* Mitglieder haben ihre Bedenken geäußert.
+
+  Elle siège avec voix *consultative* au conseil d'administration.
+  Sie sitzt mit *beratender* Stimme im Vorstand.
+
+  Un organe *consultatif* a été créé pour superviser le processus.
+  Ein *beratendes* Gremium wurde eingerichtet, um den Prozess zu überwachen.
+
+  Le panel *consultatif* d'experts a rendu son avis final.
+  Das *beratende* Expertengremium hat seine abschließende Stellungnahme abgegeben.
+
+  Son rôle *consultatif* lui permet de faire des suggestions, mais pas de prendre des décisions.
+  Ihre *beratende* Rolle erlaubt es ihr, Vorschläge zu machen, aber keine Entscheidungen zu treffen.
+
+  La structure *consultative* comprend des représentants de tous les départements.
+  Die *beratende* Struktur umfasst Vertreter aus allen Abteilungen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

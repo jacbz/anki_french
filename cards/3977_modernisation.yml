@@ -13,11 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il va nous amener à poursuivre notre modernisation.
-  Er wird uns dazu veranlassen, unsere Modernisierung fortzusetzen.
+  Il va nous amener à poursuivre notre *modernisation*.
+  Er wird uns dazu bringen, unsere *Modernisierung* fortzusetzen.
 
-  La modernisation de l’usine a permis d’augmenter la production.
-  Die Modernisierung der Fabrik hat die Produktion erhöht.
+  La *modernisation* de notre système éducatif est une priorité absolue.
+  Die *Modernisierung* unseres Bildungssystems hat absolute Priorität.
+
+  Le nouveau directeur a lancé un vaste programme de *modernisation*.
+  Der neue Direktor hat ein umfassendes *Modernisierungs*programm gestartet.
+
+  Cette *modernisation* des équipements va coûter plusieurs millions.
+  Diese *Modernisierung* der Ausstattung wird mehrere Millionen kosten.
+
+  Avec la *modernisation* de l'usine, la production a doublé.
+  Durch die *Modernisierung* der Fabrik hat sich die Produktion verdoppelt.
+
+  Un plan de *modernisation* sera présenté la semaine prochaine.
+  Nächste Woche wird ein *Modernisierungs*plan vorgestellt.
+
+  Les travaux de *modernisation* vont durer trois mois.
+  Die *Modernisierungs*arbeiten werden drei Monate dauern.
+
+  La *modernisation* rapide du pays a entraîné des changements profonds.
+  Die schnelle *Modernisierung* des Landes hat tiefgreifende Veränderungen bewirkt.
+
+  Notre entreprise a besoin d'une *modernisation* urgente.
+  Unser Unternehmen braucht dringend eine *Modernisierung*.
+
+  Les employés craignent que la *modernisation* entraîne des suppressions d'emplois.
+  Die Mitarbeiter befürchten, dass die *Modernisierung* zu Stellenabbau führt.
+
+  La *modernisation* du réseau ferroviaire avance plus vite que prévu.
+  Die *Modernisierung* des Schienennetzes kommt schneller voran als erwartet.
+
+  Grâce à la *modernisation* des infrastructures, nous sommes plus compétitifs.
+  Dank der *Modernisierung* der Infrastruktur sind wir wettbewerbsfähiger.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

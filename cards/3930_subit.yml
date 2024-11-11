@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Une chaleur subite l’envahissait.
-  Eine plötzliche Wärme durchströmte ihn.
+  Une chaleur *subite* l'envahissait.
+  Eine *plötzliche* Hitze überkam ihn.
 
-  Il a eu un malaise subit.
-  Er hatte plötzlich einen Schwächeanfall.
+  La pluie *subite* nous a tous surpris pendant le pique-nique.
+  Der *plötzliche* Regen hat uns alle beim Picknick überrascht.
+
+  Le patient a eu une crise cardiaque *subite*.
+  Der Patient erlitt einen *plötzlichen* Herzinfarkt.
+
+  Une inspiration *subite* m'a fait changer d'avis.
+  Eine *plötzliche* Eingebung ließ mich meine Meinung ändern.
+
+  Le *subit* changement de température a affecté les cultures.
+  Der *jähe* Temperaturwechsel hat die Kulturen beeinträchtigt.
+
+  Marie a pris une *subite* décision de déménager à Paris.
+  Marie traf die *plötzliche* Entscheidung, nach Paris zu ziehen.
+
+  Un mal de tête *subit* m'a forcé à rentrer chez moi.
+  *Plötzliche* Kopfschmerzen zwangen mich, nach Hause zu gehen.
+
+  La *subite* disparition de mon chat m'inquiète beaucoup.
+  Das *plötzliche* Verschwinden meiner Katze macht mir große Sorgen.
+
+  Son *subit* départ a laissé tout le monde perplexe.
+  Sein *plötzlicher* Aufbruch hat alle ratlos zurückgelassen.
+
+  Une panique *subite* s'est emparée de la foule.
+  Eine *plötzliche* Panik ergriff die Menge.
+
+  Le vent *subit* a emporté tous les papiers.
+  Der *plötzliche* Wind hat alle Papiere davongetragen.
+
+  Une envie *subite* de chocolat m'a réveillé la nuit.
+  Ein *plötzliches* Verlangen nach Schokolade weckte mich in der Nacht.
+
+  La *subite* annulation du vol a perturbé nos plans.
+  Die *plötzliche* Flugstreichung hat unsere Pläne durcheinandergebracht.
+
+  Un silence *subit* est tombé sur la salle de classe.
+  Eine *plötzliche* Stille senkte sich über das Klassenzimmer.
+
+  Une *subite* fatigue l'a obligé à s'asseoir.
+  Eine *plötzliche* Müdigkeit zwang ihn, sich zu setzen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’avenir n’est pas prometteur.
-  Die Zukunft sieht nicht vielversprechend aus.
+  L'avenir n'est pas *prometteur*.
+  Die Zukunft ist nicht *vielversprechend*.
 
-  Ce projet est très prometteur.
-  Dieses Projekt ist sehr vielversprechend.
+  Sa carrière d'actrice semble très *prometteuse*.
+  Ihre Schauspielkarriere erscheint sehr *vielversprechend*.
+
+  Ces jeunes scientifiques sont extrêmement *prometteurs*.
+  Diese jungen Wissenschaftler sind äußerst *vielversprechend*.
+
+  Le sourire *prometteur* de Marie m'a donné de l'espoir.
+  Maries *verheißungsvolles* Lächeln hat mir Hoffnung gegeben.
+
+  Les résultats préliminaires sont très *prometteurs*.
+  Die vorläufigen Ergebnisse sind sehr *vielversprechend*.
+
+  Cette entreprise fait des débuts *prometteurs*.
+  Dieses Unternehmen hat einen *vielversprechenden* Start.
+
+  Les signes de reprise économique sont *prometteurs*.
+  Die Anzeichen für einen Wirtschaftsaufschwung sind *verheißungsvoll*.
+
+  Le nouveau talent *prometteur* de l'équipe nationale a marqué trois buts.
+  Das neue *vielversprechende* Talent der Nationalmannschaft hat drei Tore geschossen.
+
+  Son premier roman était déjà très *prometteur*.
+  Sein erster Roman war bereits sehr *vielversprechend*.
+
+  Cette *prometteuse* découverte pourrait révolutionner la médecine.
+  Diese *vielversprechende* Entdeckung könnte die Medizin revolutionieren.
+
+  Les négociations semblent *prometteuses*.
+  Die Verhandlungen scheinen *vielversprechend*.
+
+  Ce jeune politicien *prometteur* pourrait devenir notre prochain maire.
+  Dieser *vielversprechende* junge Politiker könnte unser nächster Bürgermeister werden.
+
+  La météo est *prometteuse* pour le week-end.
+  Das Wetter sieht *vielversprechend* aus fürs Wochenende.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

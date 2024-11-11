@@ -13,14 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je me surprenais à pleurer sans cause apparente.
-  Ich ertappte mich dabei, wie ich ohne ersichtlichen Grund weinte.
+  Je me surprenais à pleurer sans cause *apparente*.
+  Ich fing an zu weinen, ohne *ersichtlichen* Grund.
 
-  Il est apparent que tu es fatigué.
-  Es ist offensichtlich, dass du müde bist.
+  Les poutres *apparentes* donnent du caractère à cette vieille maison.
+  Die *sichtbaren* Balken verleihen diesem alten Haus Charakter.
 
-  Son talent était apparent dès son jeune âge.
-  Sein Talent war schon in jungen Jahren zu erkennen.
+  Le contraste entre les coutures *apparentes* et le tissu noir est très élégant.
+  Der Kontrast zwischen den *sichtbaren* Nähten und dem schwarzen Stoff ist sehr elegant.
+
+  Les traces de pas étaient très *apparentes* dans la neige fraîche.
+  Die Fußspuren waren im frischen Schnee deutlich *erkennbar*.
+
+  Son droit de propriété est *apparent* et incontestable.
+  Sein Eigentumsrecht ist *offensichtlich* und unbestreitbar.
+
+  Le mouvement *apparent* du Soleil peut tromper nos sens.
+  Die *scheinbare* Bewegung der Sonne kann unsere Sinne täuschen.
+
+  Leur richesse n'était qu'*apparente* : ils avaient beaucoup de dettes.
+  Ihr Reichtum war nur *scheinbar*: Sie hatten viele Schulden.
+
+  Dans cette phrase, "il" est un sujet *apparent*.
+  In diesem Satz ist "es" ein *formales* Subjekt.
+
+  La simplicité *apparente* de cette solution cache sa vraie complexité.
+  Die *scheinbare* Einfachheit dieser Lösung verbirgt ihre wahre Komplexität.
+
+  Les symptômes sont devenus *apparents* après quelques heures.
+  Die Symptome wurden nach einigen Stunden *sichtbar*.
+
+  Sa ruse était trop *apparente* pour tromper qui que ce soit.
+  Seine List war zu *plump*, um irgendjemanden zu täuschen.
+
+  Le défaut est *apparent* : la peinture s'écaille partout.
+  Der Mangel ist *offensichtlich*: Die Farbe blättert überall ab.
+
+  Cette prospérité *apparente* masquait une profonde crise.
+  Dieser *scheinbare* Wohlstand verbarg eine tiefe Krise.
+
+  Les fissures sont devenues *apparentes* après le tremblement de terre.
+  Die Risse wurden nach dem Erdbeben *sichtbar*.
+
+  Son malaise n'était pas *apparent* au début de la réunion.
+  Sein Unbehagen war zu Beginn der Sitzung nicht *erkennbar*.
+
+  La contradiction *apparente* entre ces deux théories n'existe pas.
+  Der *scheinbare* Widerspruch zwischen diesen beiden Theorien existiert nicht.
+
+  Les changements sont *apparents* dans son comportement.
+  Die Veränderungen sind in seinem Verhalten *offensichtlich*.
+
+  Le succès *apparent* de l'entreprise attire de nouveaux investisseurs.
+  Der *scheinbare* Erfolg des Unternehmens zieht neue Investoren an.
+
+  Les briques *apparentes* donnent un style industriel à l'appartement.
+  Die *sichtbaren* Ziegel geben der Wohnung einen industriellen Stil.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

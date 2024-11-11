@@ -13,20 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il vient de boire deux litres de bière d’un coup.
-  Er hat gerade zwei Liter Bier auf einmal getrunken.
+  Il vient de boire deux *litres* de bière d'un coup.
+  Er hat gerade zwei *Liter* Bier auf einmal getrunken.
 
-  J’ai besoin d’un litre de lait.
-  Ich brauche einen Liter Milch.
+  Pour cette recette, il faut un *litre* de lait frais.
+  Für dieses Rezept braucht man einen *Liter* frische Milch.
 
-  L’essence est vendue au litre.
-  Benzin wird pro Liter verkauft.
+  Le réservoir contient encore cinq *litres* d'essence.
+  Der Tank enthält noch fünf *Liter* Benzin.
 
-  J'ai acheté un litre d'eau à la boulangerie.
-  Ich habe einen Liter Wasser beim Bäcker gekauft.
+  Les médecins recommandent de boire au moins deux *litres* d'eau par jour.
+  Ärzte empfehlen, mindestens zwei *Liter* Wasser pro Tag zu trinken.
 
-  Elle a versé un litre de lait dans le bol.
-  Sie hat einen Liter Milch in die Schüssel gegossen.
+  Cette voiture est équipée d'un moteur de trois *litres*.
+  Dieses Auto ist mit einem Drei-*Liter*-Motor ausgestattet.
+
+  "Passe-moi un *litre* de rouge pour le dîner !"
+  "Reich mir eine *Liter*flasche Rotwein fürs Abendessen!"
+
+  La capacité de ce réfrigérateur est de 400 *litres*.
+  Die Kapazität dieses Kühlschranks beträgt 400 *Liter*.
+
+  Nous avons besoin d'un *litre* de crème fraîche pour la sauce.
+  Wir brauchen einen *Liter* Sahne für die Soße.
+
+  Ce nouveau bidon contient cinq *litres* d'huile d'olive.
+  Dieser neue Kanister enthält fünf *Liter* Olivenöl.
+
+  J'ai acheté un *litre* de moules au marché.
+  Ich habe einen *Liter* Muscheln auf dem Markt gekauft.
+
+  Le vendeur utilise un *litre* en bois pour mesurer les haricots.
+  Der Verkäufer benutzt ein *Liter*maß aus Holz zum Abmessen der Bohnen.
+
+  Nos poumons peuvent contenir jusqu'à six *litres* d'air.
+  Unsere Lungen können bis zu sechs *Liter* Luft fassen.
+
+  Marie verse deux *litres* de jus d'orange dans le punch.
+  Marie gießt zwei *Liter* Orangensaft in die Bowle.
+
+  Le récipient gradué indique précisément un *litre*.
+  Das Messgefäß zeigt genau einen *Liter* an.
+
+  Ce *litre* en étain date du XIXe siècle.
+  Dieses *Liter*maß aus Zinn stammt aus dem 19. Jahrhundert.
+
+  Le fermier remplit son seau avec trois *litres* de grain.
+  Der Bauer füllt seinen Eimer mit drei *Litern* Getreide.
+
+  As-tu un *litre* à mesurer pour la farine ?
+  Hast du ein *Liter*maß für das Mehl?
+
+  La bouteille d'un *litre* est plus économique que deux de 50 cl.
+  Die Ein-*Liter*-Flasche ist günstiger als zwei 50-cl-Flaschen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

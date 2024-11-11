@@ -13,32 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce texte a été incorporé éventuellement dans le chapitre.
-  Dieser Text wurde eventuell in das Kapitel eingearbeitet.
+  Ce texte a été *incorporé* éventuellement dans le chapitre.
+  Dieser Text wurde schließlich in das Kapitel *eingearbeitet*.
 
-  Il faut incorporer les ingrédients petit à petit.
-  Die Zutaten müssen nach und nach eingearbeitet werden.
+  Pour cette recette, il faut *incorporer* délicatement les blancs d'œufs au mélange.
+  Für dieses Rezept muss man das Eiweiß vorsichtig *unterheben*.
 
-  Le boulanger a incorporé du sucre à la pâte avant de la mettre au four.
-  Der Bäcker hat dem Teig Zucker beimengen, bevor er ihn in den Ofen schob.
+  Julie *incorpore* progressivement le beurre fondu à la farine.
+  Julie *mischt* die geschmolzene Butter nach und nach unter das Mehl.
 
-  Le nouveau membre du groupe s'est bien incorporé à l'équipe.
-  Das neue Mitglied der Gruppe hat sich gut in das Team eingefügt.
+  La cire s'*incorpore* facilement à la gomme quand on la chauffe.
+  Das Wachs *vermischt* sich leicht mit dem Gummi, wenn man es erhitzt.
 
-  Le gouvernement a incorporé un groupe d'experts dans la commission.
-  Die Regierung hat eine Gruppe von Experten in die Kommission eingeschlossen.
+  Les nouveaux élèves se sont bien *incorporés* dans la classe.
+  Die neuen Schüler haben sich gut in die Klasse *eingefügt*.
 
-  La ville a incorporé un nouveau quartier.
-  Die Stadt hat ein neues Viertel eingegliedert.
+  Le jeune Lucas sera *incorporé* dans l'armée le mois prochain.
+  Der junge Lucas wird nächsten Monat zum Militär *eingezogen*.
 
-  Le romancier a incorporé un paragraphe sur la guerre dans son récit.
-  Der Romancier hat einen Paragraphen über den Krieg in seine Erzählung eingebaut.
+  Notre entreprise a *incorporé* trois nouveaux stagiaires cette année.
+  Unser Unternehmen hat dieses Jahr drei neue Praktikanten *eingegliedert*.
 
-  Le général a incorporé le territoire conquis dans son empire.
-  Der General hat das eroberte Gebiet an sein Imperium angeschlossen.
+  L'architecte a *incorporé* habilement des éléments modernes dans ce bâtiment ancien.
+  Der Architekt hat geschickt moderne Elemente in dieses alte Gebäude *eingebaut*.
 
-  La famille a incorporé le jeune homme dans sa vie.
-  Die Familie hat den jungen Mann in ihr Leben aufgenommen.
+  Paul *incorporera* ce paragraphe important dans son rapport final.
+  Paul wird diesen wichtigen Abschnitt in seinen Abschlussbericht *einfügen*.
+
+  La Belgique a *incorporé* cette nouvelle loi européenne dans sa législation.
+  Belgien hat dieses neue europäische Gesetz in seine Gesetzgebung *eingearbeitet*.
+
+  Les migrants se sont parfaitement *incorporés* à la société locale.
+  Die Migranten haben sich perfekt in die lokale Gesellschaft *eingegliedert*.
+
+  Marie *incorpore* doucement le sucre à la préparation.
+  Marie *mischt* vorsichtig den Zucker in die Zubereitung.
+
+  Cette région a été *incorporée* au royaume au XVIIe siècle.
+  Diese Region wurde im 17. Jahrhundert in das Königreich *eingegliedert*.
+
+  Le chef *incorpore* les épices au plat petit à petit.
+  Der Koch *mischt* die Gewürze nach und nach in das Gericht.
+
+  Cette caméra est équipée d'un microphone *incorporé*.
+  Diese Kamera ist mit einem *eingebauten* Mikrofon ausgestattet.
+
+  La start-up sera *incorporée* dans notre groupe l'année prochaine.
+  Das Start-up wird nächstes Jahr in unsere Gruppe *eingegliedert*.
+
+  Les soldats ont été *incorporés* dans un nouveau régiment.
+  Die Soldaten wurden in ein neues Regiment *eingegliedert*.
+
+  Le peintre a *incorporé* des éléments surréalistes dans son tableau.
+  Der Maler hat surrealistische Elemente in sein Gemälde *eingearbeitet*.
+
+  Ces parcelles seront *incorporées* à la propriété principale.
+  Diese Parzellen werden dem Hauptgrundstück *angegliedert*.
+
+  Le professeur a *incorporé* mes suggestions dans son cours.
+  Der Professor hat meine Vorschläge in seinen Unterricht *eingebaut*.
+
+  Les nouveaux *incorporés* ont reçu leur uniforme ce matin.
+  Die neuen *Eingezogenen* haben heute Morgen ihre Uniform erhalten.
+
+  Cette fonction sera *incorporée* dans la prochaine version du logiciel.
+  Diese Funktion wird in die nächste Version der Software *eingebaut*.
+
+  Les ingrédients doivent être bien *incorporés* pour obtenir une pâte homogène.
+  Die Zutaten müssen gut *untergemischt* werden, um einen gleichmäßigen Teig zu erhalten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

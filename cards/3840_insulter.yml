@@ -13,11 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Jamais je ne vous aurais insulté de propos délibérés.
-  Ich hätte Sie nie vorsätzlich beleidigt.
+  Jamais je ne vous aurais *insulté* de propos délibérés.
+  Ich hätte Sie niemals absichtlich *beleidigt*.
 
-  Il ne faut pas insulter les autres.
-  Man sollte andere nicht beleidigen.
+  Le chauffeur ivre a *insulté* tous les passants dans la rue.
+  Der betrunkene Fahrer hat alle Passanten auf der Straße *beleidigt*.
+
+  Son attitude arrogante *insulte* toute la famille.
+  Seine arrogante Haltung *beleidigt* die ganze Familie.
+
+  Les deux voisins se sont *insultés* pendant des heures.
+  Die beiden Nachbarn haben sich stundenlang *beschimpft*.
+
+  Elle s'est fait *insulter* dans le métro hier soir.
+  Sie wurde gestern Abend in der U-Bahn *beschimpft*.
+
+  Ces remarques *insultent* le bon sens.
+  Diese Bemerkungen *verhöhnen* den gesunden Menschenverstand.
+
+  Marie a été publiquement *insultée* lors de la réunion.
+  Marie wurde während der Versammlung öffentlich *beleidigt*.
+
+  Il s'est laissé *insulter* sans dire un mot.
+  Er hat sich wortlos *beleidigen* lassen.
+
+  Son scepticisme constant nous *insulte* tous.
+  Sein ständiger Skeptizismus *beleidigt* uns alle.
+
+  Les manifestants se sont *insultés* avec la police.
+  Die Demonstranten und die Polizei haben sich gegenseitig *beschimpft*.
+
+  Cette publicité *insulte* l'intelligence des consommateurs.
+  Diese Werbung *verhöhnt* die Intelligenz der Verbraucher.
+
+  Thomas s'est fait *insulter* pour avoir dit la vérité.
+  Thomas wurde dafür *beschimpft*, dass er die Wahrheit gesagt hat.
+
+  Je ne permettrai à personne de m'*insulter* ainsi.
+  Ich werde niemandem erlauben, mich so zu *beleidigen*.
+
+  Ces propos *insultent* à la mémoire de nos ancêtres.
+  Diese Äußerungen *verhöhnen* das Andenken unserer Vorfahren.
+
+  Les élèves se sont *insultés* dans la cour de récréation.
+  Die Schüler haben sich auf dem Pausenhof gegenseitig *beschimpft*.
+
+  Son comportement *insulte* à la dignité humaine.
+  Sein Verhalten *verhöhnt* die Menschenwürde.
+
+  Pierre a été *insulté* par des commentaires racistes.
+  Pierre wurde durch rassistische Kommentare *beleidigt*.
+
+  Leur luxe ostentatoire *insulte* à la misère des autres.
+  Ihr zur Schau gestellter Luxus *verhöhnt* das Elend der anderen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

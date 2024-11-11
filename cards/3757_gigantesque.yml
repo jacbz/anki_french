@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il s’agit là d’un problème gigantesque.
-  Hierbei handelt es sich um ein gigantisches Problem.
+  Il s'agit là d'un problème *gigantesque*.
+  Das ist ein *gigantisches* Problem.
 
-  Le bâtiment était gigantesque.
-  Das Gebäude war riesig.
+  Les séquoias sont des arbres *gigantesques* qui peuvent atteindre plus de cent mètres de hauteur.
+  Mammutbäume sind *riesige* Bäume, die über hundert Meter hoch werden können.
+
+  Cette erreur *gigantesque* nous a coûté des millions d'euros.
+  Dieser *gigantische* Fehler hat uns Millionen Euro gekostet.
+
+  Le nouveau centre commercial *gigantesque* a ouvert ses portes ce matin.
+  Das neue *riesige* Einkaufszentrum hat heute Morgen eröffnet.
+
+  L'architecte a conçu une statue *gigantesque* pour le parc central.
+  Der Architekt hat eine *gigantische* Statue für den Zentralpark entworfen.
+
+  Les fourmis transportaient une feuille *gigantesque* par rapport à leur taille.
+  Die Ameisen trugen ein im Verhältnis zu ihrer Größe *riesiges* Blatt.
+
+  Cette entreprise *gigantesque* emploie plus de cent mille personnes.
+  Dieses *riesige* Unternehmen beschäftigt über hunderttausend Menschen.
+
+  Un dinosaure *gigantesque* a été découvert dans ce désert.
+  Ein *gigantischer* Dinosaurier wurde in dieser Wüste entdeckt.
+
+  Victor Hugo a laissé derrière lui une œuvre *gigantesque*.
+  Victor Hugo hinterließ ein *gigantisches* Werk.
+
+  Les vagues *gigantesques* ont détruit plusieurs bateaux dans le port.
+  Die *riesigen* Wellen haben mehrere Boote im Hafen zerstört.
+
+  Ce projet *gigantesque* prendra au moins dix ans à réaliser.
+  Dieses *gigantische* Projekt wird mindestens zehn Jahre zur Umsetzung brauchen.
+
+  Une araignée *gigantesque* a fait sursauter ma sœur.
+  Eine *riesige* Spinne hat meine Schwester erschreckt.
+
+  Les montagnes *gigantesques* se dressaient devant nous.
+  Die *gigantischen* Berge ragten vor uns auf.
+
+  Cette *gigantesque* machination a été découverte par un journaliste.
+  Diese *riesige* Verschwörung wurde von einem Journalisten aufgedeckt.
+
+  Un écran *gigantesque* sera installé sur la place pour la finale.
+  Ein *riesiger* Bildschirm wird für das Finale auf dem Platz aufgestellt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,32 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je voyageais sans bagages.
-  Ich reiste ohne Gepäck.
+  Je voyageais sans *bagages*.
+  Ich reiste ohne *Gepäck*.
 
-  Je dois récupérer mon bagage à l’aéroport.
-  Ich muss mein Gepäck am Flughafen abholen.
+  Elle avait pour tout *bagage* un sac et un parapluie.
+  Sie hatte als einziges *Gepäckstück* eine Tasche und einen Regenschirm.
 
-  Laissez-moi vous aider avec vos bagages.
-  Lassen Sie mich Ihnen mit Ihrem Gepäck helfen.
+  Marc fait ses *bagages* pour partir en vacances demain.
+  Marc packt sein *Gepäck* für den morgigen Urlaubsstart.
 
-  On dirait que vos bagages sont sur le prochain vol.
-  Ihr Gepäck scheint auf dem nächsten Flug zu sein.
+  Nous devons enregistrer nos *bagages* avant d'embarquer dans l'avion.
+  Wir müssen unser *Gepäck* einchecken, bevor wir ins Flugzeug steigen.
 
-  Il a fait ses bagages pour son voyage en Italie.
-  Er hat seine Koffer für seine Reise nach Italien gepackt.
+  Le *bagage* à main ne doit pas dépasser 8 kilos.
+  Das Hand*gepäck* darf 8 Kilo nicht überschreiten.
 
-  Elle a défait ses bagages dès qu'elle est arrivée à l'hôtel.
-  Sie hat ihre Koffer ausgepackt, sobald sie im Hotel angekommen ist.
+  "Il faut que je plie *bagage*, il se fait tard."
+  "Ich muss meine *Sachen packen*, es wird spät."
 
-  Avant de partir, il a plié ses bagages avec soin.
-  Bevor er abgereist ist, hat er seine Koffer sorgfältig gepackt.
+  L'entreprise s'est rendue *avec armes et bagages* à son concurrent.
+  Die Firma hat sich ihrem Konkurrenten mit *Sack und Pack* ergeben.
 
-  Le bagage musical de cet enfant est incroyable, il joue du piano et du violon.
-  Das musikalische Können dieses Kindes ist unglaublich, es spielt Klavier und Geige.
+  Mon *bagage* musical s'est beaucoup enrichi pendant mes années d'études.
+  Meine musikalischen *Kenntnisse* haben sich während meiner Studienjahre stark erweitert.
 
-  Les bagages accompagnés doivent être enregistrés à l'aéroport.
-  Das Passagiergut muss am Flughafen aufgegeben werden.
+  Son *bagage* scientifique est insuffisant pour ce poste.
+  Seine wissenschaftlichen *Kenntnisse* sind für diese Stelle unzureichend.
+
+  Pierre défait ses *bagages* après trois semaines de voyage.
+  Pierre packt sein *Gepäck* nach drei Wochen Reise aus.
+
+  Nous avons dû déposer nos *bagages* à la consigne.
+  Wir mussten unser *Gepäck* in der Gepäckaufbewahrung abgeben.
+
+  La soute à *bagages* est déjà pleine.
+  Der *Gepäck*raum ist bereits voll.
+
+  Les *bagages* accompagnés arriveront demain matin.
+  Das aufgegebene *Gepäck* wird morgen früh ankommen.
+
+  Sophie range ses affaires dans le coffre à *bagages*.
+  Sophie verstaut ihre Sachen im *Gepäck*raum.
+
+  Il entre dans sa nouvelle carrière avec un solide *bagage* intellectuel.
+  Er startet seine neue Karriere mit einem soliden intellektuellen *Rüstzeug*.
+
+  "Quand l'orage a commencé, nous avons dû plier *bagage*."
+  "Als das Gewitter begann, mussten wir *aufbrechen*."
+
+  Les *bagages* sont transportés dans un wagon séparé.
+  Das *Gepäck* wird in einem separaten Waggon transportiert.
+
+  Le filet à *bagages* est pratique pour les petits sacs.
+  Das *Gepäck*netz ist praktisch für kleine Taschen.
+
+  Il faut développer un bon *bagage* culturel dès l'enfance.
+  Man muss schon in der Kindheit ein gutes kulturelles *Grundwissen* aufbauen.
+
+  Ce jeune écrivain a déjà un impressionnant *bagage* littéraire.
+  Dieser junge Schriftsteller hat bereits ein beeindruckendes literarisches *Werk*.
+
+  Les *bagages* non réclamés seront envoyés à la police.
+  Nicht abgeholtes *Gepäck* wird zur Polizei geschickt.
+
+  Nous partons *avec armes et bagages* pour notre nouvelle vie à l'étranger.
+  Wir ziehen mit *Kind und Kegel* in unser neues Leben im Ausland.
+
+  Elle n'avait qu'un mince *bagage* technique pour ce travail.
+  Sie hatte nur dürftige technische *Kenntnisse* für diese Arbeit.
+
+  Les douaniers contrôlent tous les *bagages* suspects.
+  Die Zollbeamten kontrollieren alles verdächtige *Gepäck*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

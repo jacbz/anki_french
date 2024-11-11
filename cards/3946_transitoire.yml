@@ -13,14 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il y a installé l’administration transitoire.
-  Dort installierte er die Übergangsverwaltung.
+  Il y a installé l'administration *transitoire*.
+  Er hat dort die *Übergangs*verwaltung eingerichtet.
 
-  Cette situation est transitoire.
-  Diese Situation ist vorübergehend.
+  Cette situation *transitoire* ne peut pas durer éternellement.
+  Diese *vorübergehende* Situation kann nicht ewig andauern.
 
-  Ce sentiment de bonheur est transitoire, il ne durera pas éternellement.
-  Dieses Glücksgefühl ist nur vorübergehend, es wird nicht ewig dauern.
+  Le gouvernement *transitoire* restera en place jusqu'aux élections.
+  Die *Übergangs*regierung bleibt bis zu den Wahlen bestehen.
+
+  Les symptômes *transitoires* ont disparu après quelques jours.
+  Die *vorübergehenden* Symptome verschwanden nach einigen Tagen.
+
+  Une phase *transitoire* est nécessaire avant la mise en œuvre complète.
+  Eine *Übergangs*phase ist vor der vollständigen Umsetzung notwendig.
+
+  Ces mesures *transitoires* seront appliquées pendant six mois.
+  Diese *Übergangs*maßnahmen werden für sechs Monate gelten.
+
+  Le caractère *transitoire* de cet arrangement était clair dès le début.
+  Der *vorübergehende* Charakter dieser Vereinbarung war von Anfang an klar.
+
+  Un hébergement *transitoire* a été mis à leur disposition.
+  Eine *vorübergehende* Unterkunft wurde ihnen zur Verfügung gestellt.
+
+  Ces difficultés *transitoires* ne nous empêcheront pas d'avancer.
+  Diese *vorübergehenden* Schwierigkeiten werden uns nicht aufhalten.
+
+  La période *transitoire* prendra fin le mois prochain.
+  Die *Übergangs*zeit endet nächsten Monat.
+
+  Les effets *transitoires* du médicament peuvent être désagréables.
+  Die *vorübergehenden* Nebenwirkungen des Medikaments können unangenehm sein.
+
+  Un comité *transitoire* a été formé pour gérer la situation.
+  Ein *Übergangs*komitee wurde gebildet, um die Situation zu bewältigen.
+
+  Cette solution *transitoire* nous donnera le temps de nous organiser.
+  Diese *Übergangs*lösung wird uns Zeit geben, uns zu organisieren.
+
+  Le régime *transitoire* cédera la place à un gouvernement élu.
+  Das *Übergangs*regime wird einem gewählten Parlament weichen.
+
+  Les changements *transitoires* de température n'affectent pas le système.
+  *Vorübergehende* Temperaturänderungen beeinflussen das System nicht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

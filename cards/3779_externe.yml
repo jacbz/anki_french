@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les problèmes externes se révèlent aussi importants.
-  Auch externe Probleme erweisen sich als wichtig.
+  Les problèmes *externes* se révèlent aussi importants.
+  Die *äußeren* Probleme erweisen sich als genauso wichtig.
 
-  Les externes doivent faire un stage de six mois.
-  Die Praktikanten müssen ein sechsmonatiges Praktikum absolvieren.
+  La clé USB est un périphérique de stockage *externe*.
+  Der USB-Stick ist ein *externes* Speichergerät.
 
-  J'ai sauvegardé mes documents importants sur un disque dur externe pour les protéger en cas de panne d'ordinateur.
-  Ich habe meine wichtigen Dokumente auf einer externen Festplatte gespeichert, um sie im Falle eines Computerabsturzes zu schützen.
+  Les murs *externes* du bâtiment ont besoin d'être repeints.
+  Die *Außen*wände des Gebäudes müssen neu gestrichen werden.
 
-  Sophie a fait son externat dans un hôpital de Paris.
-  Sophie hat ihre Famulatur in einem Krankenhaus in Paris absolviert.
+  Ce médicament est uniquement à usage *externe*.
+  Dieses Medikament ist nur zur *äußeren* Anwendung.
+
+  La face *externe* du muscle est attachée à l'os.
+  Die *äußere* Seite des Muskels ist am Knochen befestigt.
+
+  Pierre est *externe* dans notre école depuis septembre.
+  Pierre ist seit September *Externer* an unserer Schule.
+
+  L'oreille *externe* capte les sons de notre environnement.
+  Das *äußere* Ohr nimmt die Geräusche unserer Umgebung auf.
+
+  Marie commence son stage d'*externe* à l'hôpital lundi prochain.
+  Marie beginnt am nächsten Montag ihre *Famulatur* im Krankenhaus.
+
+  Les causes *externes* de la maladie sont encore inconnues.
+  Die *äußeren* Ursachen der Krankheit sind noch unbekannt.
+
+  J'ai sauvegardé tous mes fichiers sur un disque dur *externe*.
+  Ich habe alle meine Dateien auf einer *externen* Festplatte gespeichert.
+
+  La température *externe* a chuté pendant la nuit.
+  Die *Außen*temperatur ist in der Nacht gefallen.
+
+  Le bord *externe* de la feuille présente des taches brunes.
+  Der *äußere* Rand des Blattes weist braune Flecken auf.
+
+  Les étudiants *externes* rentrent chez eux après les cours.
+  Die *externen* Schüler gehen nach dem Unterricht nach Hause.
+
+  Les angles alternes *externes* sont égaux dans ce triangle.
+  Die *äußeren* Wechselwinkel sind in diesem Dreieck gleich.
+
+  Le coin *externe* de l'œil était légèrement gonflé.
+  Der *äußere* Augenwinkel war leicht geschwollen.
+
+  Ma sœur préfère être *externe* plutôt que pensionnaire.
+  Meine Schwester ist lieber *Tagesschülerin* als Internatsschülerin.
+
+  Les pressions *externes* ont influencé sa décision.
+  Die *äußeren* Einflüsse haben seine Entscheidung beeinflusst.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,23 +13,104 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils sont si mignons avec leurs boucles blondes.
-  Sie sind so süß mit ihren blonden Locken.
+  Ils sont si mignons avec leurs *boucles* blondes.
+  Sie sind so niedlich mit ihren blonden *Locken*.
 
-  Fais une boucle avec le ruban.
-  Mach eine Schleife mit dem Band.
+  J'ai acheté des nouvelles *boucles* d'oreilles en argent.
+  Ich habe neue silberne Ohr*ringe* gekauft.
 
-  La boucle de ceinture de sécurité est souvent en métal.
-  Das Gurtschloss ist oft aus Metall.
+  La *boucle* de sa ceinture est en or massif.
+  Die Gürtel*schnalle* ist aus massivem Gold.
 
-  La grande boucle est le tour de France cycliste.
-  Die große Schleife ist die Tour de France der Radfahrer.
+  Le fleuve fait une grande *boucle* avant d'atteindre la mer.
+  Der Fluss macht eine große *Windung*, bevor er das Meer erreicht.
 
-  Après avoir fait le tour du monde, elle a bouclé la boucle en rentrant chez elle.
-  Nachdem sie die Welt umrundet hatte, befand sie sich wieder am Ausgangspunkt, als sie nach Hause zurückkehrte.
+  Pour faire mes lacets, je fais une double *boucle*.
+  Beim Schnüren mache ich eine doppelte *Schlaufe*.
 
-  Ces chaussures à boucle sont très élégantes.
-  Diese Schnallenschuhe sind sehr elegant.
+  Le programme entre dans une *boucle* infinie.
+  Das Programm gerät in eine endlose *Schleife*.
+
+  L'avion a fait une *boucle* spectaculaire dans le ciel.
+  Das Flugzeug hat einen spektakulären *Looping* am Himmel gemacht.
+
+  La course cycliste fait une *boucle* autour de la ville.
+  Das Radrennen macht eine *Rundstrecke* um die Stadt.
+
+  Cette chanson tourne *en boucle* à la radio.
+  Dieses Lied läuft in *Dauerschleife* im Radio.
+
+  Ses cheveux tombent en *boucles* sur ses épaules.
+  Ihr Haar fällt in *Locken* auf ihre Schultern.
+
+  Il faut attacher la *boucle* de sécurité avant de démarrer.
+  Man muss das Sicherheitsgurt*schloss* vor dem Start schließen.
+
+  Ces chaussures à *boucles* sont très élégantes.
+  Diese Schnallen*schuhe* sind sehr elegant.
+
+  La patineuse a exécuté une parfaite *boucle* sur la glace.
+  Die Eisläuferin hat eine perfekte *Schlinge* auf dem Eis ausgeführt.
+
+  Les *boucles* de la Seine offrent un paysage magnifique.
+  Die *Windungen* der Seine bieten eine wunderschöne Landschaft.
+
+  Je ne peux pas fermer la *boucle* de ma valise.
+  Ich kann die *Schnalle* meines Koffers nicht schließen.
+
+  Le ruban forme une jolie *boucle* sur le cadeau.
+  Das Band bildet eine hübsche *Schleife* auf dem Geschenk.
+
+  La *boucle* du « g » est mal formée dans son écriture.
+  Die *Schlaufe* des "g" ist in seiner Handschrift schlecht geformt.
+
+  Il a mis une *boucle* au groin du cochon.
+  Er hat dem Schwein einen *Ring* an den Rüssel gesetzt.
+
+  Les marins ont attaché la corde à la *boucle* du quai.
+  Die Matrosen haben das Seil an der Kai*schlaufe* festgemacht.
+
+  Cette *boucle* de refroidissement maintient la température stable.
+  Diese Kühl*schleife* hält die Temperatur stabil.
+
+  La *Grande Boucle* passe par notre ville cette année.
+  Die *Tour de France* kommt dieses Jahr durch unsere Stadt.
+
+  Les pirates portaient souvent des *boucles* d'or aux oreilles.
+  Die Piraten trugen oft goldene Ohr*ringe*.
+
+  Le système fonctionne en *boucle* fermée.
+  Das System arbeitet in geschlossener *Schleife*.
+
+  La *boucle* de sa cravate est parfaitement nouée.
+  Die *Schlaufe* seiner Krawatte ist perfekt gebunden.
+
+  Ces anciennes *boucles* de harnais sont en laiton.
+  Diese alten Geschirr*schnallen* sind aus Messing.
+
+  Le programme exécute cette *boucle* jusqu'à obtenir le bon résultat.
+  Das Programm führt diese *Schleife* aus, bis das richtige Ergebnis erreicht ist.
+
+  La *boucle* locale radio permet un accès internet rapide.
+  Die lokale Funk*schleife* ermöglicht schnellen Internetzugang.
+
+  Son stylo dessine de belles *boucles* sur le papier.
+  Sein Stift zeichnet schöne *Schleifen* auf das Papier.
+
+  Cette *boucle* de courroie est usée.
+  Diese Riemen*schnalle* ist abgenutzt.
+
+  La *boucle* de son sac à dos s'est cassée.
+  Die *Schnalle* seines Rucksacks ist kaputt gegangen.
+
+  Les enfants font des *boucles* avec leurs pailles.
+  Die Kinder machen *Schleifen* mit ihren Strohhalmen.
+
+  L'avion a fait trois *boucles* consécutives.
+  Das Flugzeug hat drei *Loopings* hintereinander gemacht.
+
+  Le système hydraulique fonctionne en circuit *bouclé*.
+  Das Hydrauliksystem arbeitet in geschlossener *Schleife*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

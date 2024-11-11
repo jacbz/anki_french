@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il a été l’un des principaux organisateurs.
-  Er war einer der Hauptorganisatoren.
+  Il a été l'un des principaux *organisateurs*.
+  Er war einer der wichtigsten *Organisatoren*.
 
-  L’organisateur de l’événement a tout planifié.
-  Der Organisator der Veranstaltung hat alles geplant.
+  L'équipe *organisatrice* a fait un excellent travail pour cet événement.
+  Das *Organisationsteam* hat hervorragende Arbeit für diese Veranstaltung geleistet.
 
-  Tes talents d'organisateur sont indéniables.
-  Dein Organisationstalent ist unbestreitbar.
+  Marie est devenue l'*organisatrice* principale du festival de musique.
+  Marie ist zur Haupt*veranstalterin* des Musikfestivals geworden.
 
-  Ses facultés organisatrices sont remarquables.
-  Seine organisatorischen Fähigkeiten sind bemerkenswert.
+  Les *organisateurs* du congrès ont dû gérer plus de mille participants.
+  Die *Organisatoren* des Kongresses mussten über tausend Teilnehmer betreuen.
+
+  Elle possède un esprit *organisateur* remarquable.
+  Sie besitzt einen bemerkenswerten *organisatorischen* Geist.
+
+  En tant qu'*organisateur* du voyage scolaire, Pierre a réservé tous les hôtels.
+  Als *Organisator* der Klassenfahrt hat Pierre alle Hotels gebucht.
+
+  Les facultés *organisatrices* de Sophie impressionnent tout le monde.
+  Sophies *organisatorische* Fähigkeiten beeindrucken alle.
+
+  Selon les *organisateurs*, la manifestation a été un grand succès.
+  Laut den *Veranstaltern* war die Demonstration ein großer Erfolg.
+
+  Son talent d'*organisatrice* lui a permis de trouver un excellent poste.
+  Ihr *Organisations*talent hat ihr zu einer ausgezeichneten Stelle verholfen.
+
+  Les *organisateurs* du festival cherchent encore des bénévoles.
+  Die *Veranstalter* des Festivals suchen noch Freiwillige.
+
+  J'utilise un *organisateur* numérique pour gérer mon emploi du temps.
+  Ich benutze einen *Organizer* zur Verwaltung meines Zeitplans.
+
+  Le comité *organisateur* a prévu une réunion demain.
+  Das *Organisations*komitee hat morgen eine Sitzung geplant.
+
+  Les capacités *organisatrices* de Lucas sont vraiment impressionnantes.
+  Lucas' *organisatorische* Fähigkeiten sind wirklich beeindruckend.
+
+  L'*organisatrice* de la conférence a préparé un planning détaillé.
+  Die *Organisatorin* der Konferenz hat einen detaillierten Zeitplan erstellt.
+
+  Marc est devenu l'*organisateur* officiel des événements de l'entreprise.
+  Marc ist zum offiziellen *Veranstalter* der Firmenevents geworden.
+
+  Les *organisateurs* du mariage ont pensé à chaque détail.
+  Die *Organisatoren* der Hochzeit haben an jedes Detail gedacht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
