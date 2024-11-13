@@ -13,14 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il aurait dû me léguer la maison tout entière.
-  Er hätte mir das ganze Haus vererben sollen.
+  Il aurait dû me *léguer* la maison tout entière.
+  Er hätte mir das ganze Haus *vererben* sollen.
 
-  Il a légué tous ses biens à sa fille.
-  Er hat all sein Vermögen seiner Tochter vermacht.
+  Son grand-père lui a *légué* une importante collection de timbres.
+  Sein Großvater hat ihm eine wichtige Briefmarkensammlung *vermacht*.
 
-  Le vieil homme a légué sa fortune à sa nièce.
-  Der alte Mann hat sein Vermögen seiner Nichte vermacht.
+  Elle a *légué* tous ses bijoux à sa petite-fille.
+  Sie hat ihrem Enkelkind all ihren Schmuck *hinterlassen*.
+
+  Les parents nous ont *légué* des traditions familiales précieuses.
+  Die Eltern haben uns wertvolle Familientraditionen *vererbt*.
+
+  Cette artiste a *légué* toutes ses œuvres au musée national.
+  Diese Künstlerin hat alle ihre Werke dem Nationalmuseum *vermacht*.
+
+  Mon oncle m'a *légué* sa passion pour la musique classique.
+  Mein Onkel hat mir seine Leidenschaft für klassische Musik *vererbt*.
+
+  Je vais *léguer* ma bibliothèque à l'université.
+  Ich werde meine Bibliothek der Universität *vermachen*.
+
+  Les Romains nous ont *légué* un riche patrimoine culturel.
+  Die Römer haben uns ein reiches kulturelles Erbe *hinterlassen*.
+
+  Cette génération nous a *légué* une planète malade.
+  Diese Generation hat uns einen kranken Planeten *hinterlassen*.
+
+  Mozart a *légué* au monde une musique immortelle.
+  Mozart hat der Welt unsterbliche Musik *hinterlassen*.
+
+  Elle a *légué* sa fortune à des associations caritatives.
+  Sie hat ihr Vermögen wohltätigen Organisationen *vermacht*.
+
+  Nos ancêtres nous ont *légué* cette belle langue.
+  Unsere Vorfahren haben uns diese schöne Sprache *vererbt*.
+
+  Le professeur a *légué* ses archives à la bibliothèque municipale.
+  Der Professor hat sein Archiv der Stadtbibliothek *vermacht*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

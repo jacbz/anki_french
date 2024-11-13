@@ -13,11 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mon goût englobe les escargots et les huîtres.
-  Mein Geschmack umfasst Schnecken und Austern.
+  Mon goût *englobe* les escargots et les huîtres.
+  Mein Geschmack *schließt* Schnecken und Austern *ein*.
 
-  Ce terme englobe plusieurs concepts.
-  Dieser Begriff umfasst mehrere Konzepte.
+  Cette nouvelle loi *englobera* tous les citoyens européens.
+  Dieses neue Gesetz wird alle europäischen Bürger *einschließen*.
+
+  Le parc national *englobe* désormais les forêts environnantes.
+  Der Nationalpark *schließt* nun die umliegenden Wälder *ein*.
+
+  Sa thèse *englobe* plusieurs domaines scientifiques.
+  Seine Dissertation *bezieht* mehrere wissenschaftliche Bereiche *ein*.
+
+  Le projet *englobe* différentes approches pédagogiques.
+  Das Projekt *schließt* verschiedene pädagogische Ansätze *ein*.
+
+  Cette définition *englobe* tous les cas possibles.
+  Diese Definition *umfasst* alle möglichen Fälle.
+
+  La réforme *englobera* les écoles publiques et privées.
+  Die Reform wird öffentliche und private Schulen *einbeziehen*.
+
+  Cette catégorie *englobe* les romans et les nouvelles.
+  Diese Kategorie *umfasst* Romane und Kurzgeschichten.
+
+  Le musée a *englobé* la collection privée dans son exposition.
+  Das Museum hat die private Sammlung in seine Ausstellung *einbezogen*.
+
+  Son analyse *englobe* tous les aspects du problème.
+  Seine Analyse *schließt* alle Aspekte des Problems *ein*.
+
+  Cette somme *englobe* les frais de transport.
+  Dieser Betrag *schließt* die Transportkosten *ein*.
+
+  Le terme "art" *englobe* diverses formes d'expression.
+  Der Begriff "Kunst" *umfasst* verschiedene Ausdrucksformen.
+
+  La garantie *englobe* les pièces et la main-d'œuvre.
+  Die Garantie *schließt* Teile und Arbeit *ein*.
+
+  Cette théorie *englobe* les découvertes précédentes.
+  Diese Theorie *bezieht* die vorherigen Entdeckungen *mit ein*.
+
+  Le prix *englobe* tous les services mentionnés.
+  Der Preis *beinhaltet* alle genannten Leistungen.
+
+  Les nouvelles règles *engloberont* toutes les compétitions.
+  Die neuen Regeln werden alle Wettkämpfe *einschließen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

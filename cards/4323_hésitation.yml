@@ -13,32 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je n’ai aucune hésitation à lui parler.
-  Ich habe keine Bedenken, mit ihr zu sprechen.
+  Je n'ai aucune *hésitation* à lui parler.
+  Ich habe keine *Hemmungen*, mit ihm zu sprechen.
 
-  Il y a eu une hésitation avant de prendre la décision.
-  Es gab ein Zögern, bevor die Entscheidung getroffen wurde.
+  Elle a accepté ma proposition sans *hésitation*.
+  Sie hat meinen Vorschlag ohne zu *zögern* angenommen.
 
-  Ils n'ont plus d'hésitations à faire ce voyage.
-  Sie haben keine Bedenken mehr, diese Reise zu unternehmen.
+  Après plusieurs *hésitations*, j'ai finalement décidé de déménager.
+  Nach längerem *Zögern* habe ich mich schließlich entschieden umzuziehen.
 
-  Il a récité le poème sans hésitation.
-  Er hat das Gedicht ohne zu stocken vorgetragen.
+  Il répondit aux questions du journaliste sans la moindre *hésitation*.
+  Er beantwortete die Fragen des Journalisten, ohne auch nur im Geringsten zu *zögern*.
 
-  Après bien des hésitations, il a décidé de partir.
-  Nach langem Zögern hat er sich entschlossen zu gehen.
+  Son *hésitation* pendant le discours a trahi sa nervosité.
+  Sein *Stocken* während der Rede verriet seine Nervosität.
 
-  Elle a répondu sans hésitation.
-  Sie hat ohne Zögern geantwortet.
+  Marie a marqué un temps d'*hésitation* avant de sauter dans la piscine.
+  Marie machte eine kurze *Pause*, bevor sie in den Pool sprang.
 
-  Il a accepté sans la moindre hésitation.
-  Er hat ohne im Geringsten zu zögern akzeptiert.
+  L'élève récite son poème avec beaucoup d'*hésitations*.
+  Der Schüler trägt sein Gedicht sehr *stockend* vor.
 
-  Il a marqué un temps d'hésitation avant de répondre.
-  Er hat einen Augenblick innegehalten, bevor er geantwortet hat.
+  Ses *hésitations* constantes commencent à m'énerver.
+  Seine ständige *Unschlüssigkeit* fängt an, mich zu nerven.
 
-  J'ai eu un moment d'hésitation avant de lui dire la vérité.
-  Ich habe einen Moment gezögert, bevor ich ihm die Wahrheit gesagt habe.
+  Thomas n'avait plus aucune *hésitation* concernant son choix de carrière.
+  Thomas hatte keine *Bedenken* mehr bezüglich seiner Berufswahl.
+
+  L'*hésitation* dans sa voix était évidente.
+  Das *Zögern* in seiner Stimme war deutlich.
+
+  Elle m'a confié ses *hésitations* concernant le mariage.
+  Sie hat mir ihre *Zweifel* bezüglich der Hochzeit anvertraut.
+
+  Les soldats ont obéi aux ordres sans *hésitation* ni murmure.
+  Die Soldaten gehorchten den Befehlen ohne zu *zögern* und ohne Murren.
+
+  Un moment d'*hésitation* lui a coûté la victoire.
+  Ein Moment des *Zögerns* kostete ihn den Sieg.
+
+  Je ne vois aucune *hésitation* dans son engagement.
+  Ich sehe kein *Zögern* in seinem Engagement.
+
+  Les *hésitations* de l'artiste sont visibles dans ses premiers croquis.
+  Das *Zögern* des Künstlers ist in seinen ersten Skizzen sichtbar.
+
+  Après un bref moment d'*hésitation*, elle a pris la parole.
+  Nach kurzem *Zögern* ergriff sie das Wort.
+
+  Il a signé le contrat sans l'ombre d'une *hésitation*.
+  Er hat den Vertrag ohne den Hauch eines *Zögerns* unterschrieben.
+
+  L'*hésitation* du conducteur a provoqué l'accident.
+  Das *Zögern* des Fahrers hat den Unfall verursacht.
+
+  Leurs *hésitations* ont retardé le projet de plusieurs mois.
+  Ihre *Unschlüssigkeit* hat das Projekt um mehrere Monate verzögert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

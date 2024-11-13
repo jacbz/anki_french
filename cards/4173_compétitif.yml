@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’industrie automobile européenne peut être compétitive.
-  Die europäische Automobilindustrie kann wettbewerbsfähig sein.
+  L'industrie automobile européenne peut être *compétitive*.
+  Die europäische Automobilindustrie kann *wettbewerbsfähig* sein.
 
-  Notre entreprise doit rester compétitive sur le marché.
-  Unser Unternehmen muss wettbewerbsfähig auf dem Markt bleiben.
+  Notre entreprise doit rester *compétitive* sur le marché international.
+  Unser Unternehmen muss auf dem internationalen Markt *konkurrenzfähig* bleiben.
+
+  Ces nouveaux téléphones sont très *compétitifs* par rapport aux modèles existants.
+  Diese neuen Telefone sind im Vergleich zu den existierenden Modellen sehr *wettbewerbsfähig*.
+
+  Le secteur agricole n'est plus assez *compétitif* sans subventions.
+  Der Agrarsektor ist ohne Subventionen nicht mehr ausreichend *konkurrenzfähig*.
+
+  Pour être *compétitifs*, nous devons réduire nos coûts de production.
+  Um *wettbewerbsfähig* zu sein, müssen wir unsere Produktionskosten senken.
+
+  Cette start-up propose des solutions très *compétitives*.
+  Dieses Start-up bietet sehr *konkurrenzfähige* Lösungen an.
+
+  Les prix de nos produits restent *compétitifs* malgré l'inflation.
+  Die Preise unserer Produkte bleiben trotz der Inflation *wettbewerbsfähig*.
+
+  Il faut développer des technologies plus *compétitives*.
+  Wir müssen *konkurrenzfähigere* Technologien entwickeln.
+
+  Cette petite entreprise est devenue très *compétitive* grâce à l'innovation.
+  Dieses kleine Unternehmen ist durch Innovation sehr *wettbewerbsfähig* geworden.
+
+  Nos services sont devenus plus *compétitifs* depuis la restructuration.
+  Unsere Dienstleistungen sind seit der Umstrukturierung *konkurrenzfähiger* geworden.
+
+  Le marché n'est plus *compétitif* depuis la fusion des grands groupes.
+  Der Markt ist seit der Fusion der großen Konzerne nicht mehr *wettbewerbsfähig*.
+
+  Cette région cherche à rester *compétitive* dans le secteur touristique.
+  Diese Region versucht im Tourismussektor *konkurrenzfähig* zu bleiben.
+
+  Les entreprises doivent être *compétitives* tout en respectant l'environnement.
+  Unternehmen müssen *wettbewerbsfähig* sein und dabei die Umwelt respektieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

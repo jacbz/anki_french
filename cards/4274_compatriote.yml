@@ -13,11 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Comme beaucoup de mes compatriotes, j’ai eu l’occasion de voyager.
-  Wie viele meiner Landsleute hatte ich Gelegenheit zu reisen.
+  Comme beaucoup de mes *compatriotes*, j'ai eu l'occasion de voyager.
+  Wie viele meiner *Landsleute* hatte ich die Gelegenheit zu reisen.
 
-  Nos compatriotes sont partis à l'étranger pour trouver une vie meilleure.
-  Unsere Landsleute sind ins Ausland gegangen, um ein besseres Leben zu finden.
+  J'ai rencontré une *compatriote* dans ce café parisien.
+  Ich habe in diesem Pariser Café eine *Landsmännin* getroffen.
+
+  Nos *compatriotes* à l'étranger peuvent voter dans les consulats.
+  Unsere *Landsleute* im Ausland können in den Konsulaten wählen.
+
+  Elle aide ses *compatriotes* à s'installer dans leur nouveau pays.
+  Sie hilft ihren *Landsleuten* dabei, sich in ihrem neuen Land niederzulassen.
+
+  Les *compatriotes* de Marie lui ont fait un accueil chaleureux à son retour.
+  Maries *Landsleute* haben sie bei ihrer Rückkehr herzlich empfangen.
+
+  Être loin de ses *compatriotes* peut créer un sentiment de solitude.
+  Von seinen *Landsleuten* getrennt zu sein kann ein Gefühl der Einsamkeit erzeugen.
+
+  Pierre a retrouvé un *compatriote* lors de ses vacances en Australie.
+  Pierre hat während seines Urlaubs in Australien einen *Landsmann* getroffen.
+
+  Ces deux *compatriotes* se sont reconnus grâce à leur accent.
+  Diese beiden *Landsleute* haben sich an ihrem Akzent erkannt.
+
+  La communauté accueille chaleureusement les nouveaux *compatriotes*.
+  Die Gemeinschaft heißt neue *Landsleute* herzlich willkommen.
+
+  Mes *compatriotes* bretons organisent souvent des fêtes traditionnelles.
+  Meine bretonischen *Landsleute* organisieren oft traditionelle Feste.
+
+  As-tu rencontré des *compatriotes* pendant ton séjour à l'étranger ?
+  Hast du während deines Auslandsaufenthalts *Landsleute* getroffen?
+
+  Je suis fier d'avoir aidé mes *compatriotes* pendant la crise.
+  Ich bin stolz darauf, meinen *Landsleuten* während der Krise geholfen zu haben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

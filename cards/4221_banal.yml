@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La situation est devenue presque banale.
-  Die Situation ist inzwischen fast alltäglich geworden.
+  La situation est devenue presque *banale*.
+  Die Situation ist fast schon *alltäglich* geworden.
 
-  C’est une histoire banale.
-  Es ist eine banale Geschichte.
+  "Ce n'est pas *banal* de rencontrer un prince !"
+  "Das ist wirklich ein *besonderes* Ding!"
 
-  Ce n'est pas banal, c'est un événement unique.
-  Das ist wirklich 'n Ding, das passiert nicht alle Tage.
+  Les meubles de l'appartement étaient très *banals*.
+  Die Möbel der Wohnung waren sehr *gewöhnlich*.
 
-  Le droit banal était un droit féodal qui permettait au seigneur d'exiger des taxes sur les marchés et les foires.
-  Das Bannrecht war ein feudales Recht, das es dem Herrn erlaubte, Steuern auf Märkten und Messen zu erheben.
+  Il ne faut pas négliger les incidents *banals*.
+  Man sollte *alltägliche* Vorfälle nicht unterschätzen.
+
+  Cette expression est devenue tellement *banale*.
+  Dieser Ausdruck ist so *abgedroschen* geworden.
+
+  Au Moyen Âge, le moulin *banal* appartenait au seigneur.
+  Im Mittelalter gehörte die *Bann*mühle dem Lehnsherrn.
+
+  Cette femme a un visage plutôt *banal*.
+  Diese Frau hat ein eher *durchschnittliches* Gesicht.
+
+  Son comportement *banal* cache une personnalité complexe.
+  Sein *gewöhnliches* Verhalten verbirgt eine komplexe Persönlichkeit.
+
+  Ces compliments *banals* ne m'impressionnent pas.
+  Diese *abgedroschenen* Komplimente beeindrucken mich nicht.
+
+  C'était un dimanche *banal* comme les autres.
+  Es war ein *gewöhnlicher* Sonntag wie jeder andere.
+
+  Le four *banal* servait à tout le village.
+  Der *Bann*ofen diente dem ganzen Dorf.
+
+  Je ne veux pas mener une vie *banale*.
+  Ich möchte kein *durchschnittliches* Leben führen.
+
+  Cette histoire n'a rien de *banal*.
+  Diese Geschichte ist alles andere als *gewöhnlich*.
+
+  Il a prononcé quelques phrases *banales* avant de partir.
+  Er sagte ein paar *belanglose* Sätze, bevor er ging.
+
+  Les pâturages *banaux* étaient accessibles à tous les villageois.
+  Die *Bann*weiden waren für alle Dorfbewohner zugänglich.
+
+  Ce restaurant propose des plats plutôt *banals*.
+  Dieses Restaurant bietet eher *gewöhnliche* Gerichte an.
+
+  Son style d'écriture est devenu très *banal*.
+  Sein Schreibstil ist sehr *abgedroschen* geworden.
+
+  Les problèmes *banals* du quotidien nous occupent trop souvent.
+  Die *alltäglichen* Probleme beschäftigen uns zu oft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

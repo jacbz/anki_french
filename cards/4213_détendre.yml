@@ -13,14 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Entrez, détendez-vous. Prenez un verre de champagne.
-  Kommen Sie herein, entspannen Sie sich. Trinken Sie ein Glas Champagner.
+  Entrez, *détendez*-vous. Prenez un verre de champagne.
+  Kommen Sie herein, *entspannen* Sie sich. Nehmen Sie ein Glas Champagner.
 
-  Je vais me détendre à la plage.
-  Ich werde mich am Strand entspannen.
+  Le mécanicien a *détendu* la courroie du moteur.
+  Der Mechaniker hat den Motor*riemen* *gelockert*.
 
-  Il a décidé de passer la journée à la plage pour se détendre l'esprit.
-  Er hat sich entschieden, den Tag am Strand zu verbringen, um abzuschalten.
+  Cette séance de yoga m'a vraiment *détendu*.
+  Diese Yogastunde hat mich richtig *entspannt*.
+
+  Le gaz se *détend* lorsqu'on ouvre la valve.
+  Das Gas *dehnt* sich aus, wenn man das Ventil öffnet.
+
+  Les muscles de son visage se sont *détendus* quand elle a souri.
+  Ihre Gesichtsmuskeln haben sich *entspannt*, als sie lächelte.
+
+  La corde de l'arc s'est *détendue* après des années d'utilisation.
+  Die Bogensehne hat nach Jahren der Nutzung an *Spannung* verloren.
+
+  Pour *détendre* l'atmosphère, Paul a raconté une blague.
+  Um die Atmosphäre *aufzulockern*, hat Paul einen Witz erzählt.
+
+  Le ressort s'est *détendu* et le mécanisme ne fonctionne plus.
+  Die Feder hat sich *gelockert* und der Mechanismus funktioniert nicht mehr.
+
+  Il faut *détendre* la vapeur avant d'ouvrir la cocotte-minute.
+  Man muss den Dampf *ablassen*, bevor man den Schnellkochtopf öffnet.
+
+  Les vacances nous ont permis de nous *détendre* l'esprit.
+  Der Urlaub hat uns geholfen *abzuschalten*.
+
+  Marie aide ses patients à *détendre* leurs muscles après l'exercice.
+  Marie hilft ihren Patienten, ihre Muskeln nach dem Training zu *entspannen*.
+
+  Le tissu s'est *détendu* après plusieurs lavages.
+  Der Stoff hat sich nach mehrmaligem Waschen *gelockert*.
+
+  Je dois *détendre* les cordes de ma guitare avant de la ranger.
+  Ich muss die Saiten meiner Gitarre *lockern*, bevor ich sie wegpacke.
+
+  Les relations entre les deux pays se sont *détendues* après les négociations.
+  Die Beziehungen zwischen den beiden Ländern haben sich nach den Verhandlungen *entspannt*.
+
+  Le guitariste *détend* légèrement les cordes avant de les accorder.
+  Der Gitarrist *lockert* die Saiten leicht, bevor er sie stimmt.
+
+  Cette musique douce aide à se *détendre* après une journée stressante.
+  Diese sanfte Musik hilft dabei, sich nach einem stressigen Tag zu *entspannen*.
+
+  Il faut *détendre* ses jambes après être resté assis longtemps.
+  Man muss seine Beine *entspannen*, nachdem man lange gesessen hat.
+
+  Le masseur m'a aidé à *détendre* mes muscles endoloris.
+  Der Masseur hat mir geholfen, meine schmerzenden Muskeln zu *entspannen*.
+
+  La situation s'est *détendue* après la réunion.
+  Die Situation hat sich nach dem Meeting *entspannt*.
+
+  Les enfants peuvent se *détendre* dans la cour de récréation.
+  Die Kinder können sich auf dem Pausenhof *entspannen*.
+
+  Le mécanicien doit *détendre* le câble avant de le remplacer.
+  Der Mechaniker muss das Kabel *lockern*, bevor er es austauscht.
+
+  Cette activité permet aux élèves de se *détendre* entre deux cours.
+  Diese Aktivität ermöglicht es den Schülern, zwischen zwei Unterrichtsstunden zu *entspannen*.
+
+  Le cuir s'est *détendu* avec le temps.
+  Das Leder hat sich mit der Zeit *gelockert*.
+
+  Son sourire a *détendu* l'atmosphère tendue.
+  Ihr Lächeln hat die angespannte Atmosphäre *gelockert*.
+
+  Le technicien doit *détendre* la pression dans les tuyaux.
+  Der Techniker muss den Druck in den Rohren *ablassen*.
+
+  Je vais à la piscine pour me *détendre*.
+  Ich gehe ins Schwimmbad, um mich zu *entspannen*.
+
+  Les exercices de respiration aident à *détendre* le corps et l'esprit.
+  Die Atemübungen helfen dabei, Körper und Geist zu *entspannen*.
+
+  La ceinture s'est *détendue* au fil de la journée.
+  Der Gürtel hat sich im Laufe des Tages *gelockert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

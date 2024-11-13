@@ -13,14 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ça donne une force de frappe non négligeable.
-  Das verleiht eine nicht zu unterschätzende Schlagkraft.
+  Ça donne une force de frappe non *négligeable*.
+  Das ergibt eine nicht *unbedeutende* Schlagkraft.
 
-  Le coût est négligeable.
-  Die Kosten sind vernachlässigbar.
+  L'augmentation des prix a eu un impact non *négligeable* sur notre budget.
+  Die Preiserhöhung hatte einen nicht *unwesentlichen* Einfluss auf unser Budget.
 
-  Le problème de la pollution est non négligeable.
-  Das Problem der Umweltverschmutzung ist nicht unwesentlich.
+  C'est un détail *négligeable* qui ne mérite pas notre attention.
+  Das ist eine *belanglose* Kleinigkeit, die unsere Aufmerksamkeit nicht verdient.
+
+  Les coûts de réparation sont *négligeables* par rapport au prix d'achat.
+  Die Reparaturkosten sind im Vergleich zum Kaufpreis *unbedeutend*.
+
+  La différence entre les deux versions est *négligeable*.
+  Der Unterschied zwischen den beiden Versionen ist *unwesentlich*.
+
+  Ces changements auront des conséquences non *négligeables* sur l'environnement.
+  Diese Änderungen werden nicht *unerhebliche* Folgen für die Umwelt haben.
+
+  Son aide financière n'est pas *négligeable*.
+  Seine finanzielle Hilfe ist nicht *gering*.
+
+  Une *négligeable* partie du budget est consacrée à la recherche.
+  Ein *unbedeutender* Teil des Budgets wird für die Forschung verwendet.
+
+  Il ne faut pas traiter Marie comme une quantité *négligeable*.
+  Man darf Marie nicht als *unwichtig* behandeln.
+
+  Les pertes d'énergie sont *négligeables* dans ce nouveau système.
+  Die Energieverluste sind in diesem neuen System *vernachlässigbar*.
+
+  Le risque n'est pas *négligeable* : nous devons être prudents.
+  Das Risiko ist nicht *unbedeutend*: Wir müssen vorsichtig sein.
+
+  Cette objection est *négligeable* par rapport aux avantages.
+  Dieser Einwand ist im Vergleich zu den Vorteilen *belanglos*.
+
+  Il a investi une somme non *négligeable* dans ce projet.
+  Er hat eine nicht *unerhebliche* Summe in dieses Projekt investiert.
+
+  Les effets secondaires sont *négligeables* selon le médecin.
+  Die Nebenwirkungen sind laut dem Arzt *unwesentlich*.
+
+  Cette erreur de calcul est *négligeable* pour notre estimation.
+  Dieser Rechenfehler ist für unsere Schätzung *vernachlässigbar*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

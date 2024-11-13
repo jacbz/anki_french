@@ -13,11 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il faut cesser ce discours idéologique.
-  Dieser ideologische Diskurs muss beendet werden.
+  Il faut cesser ce discours *idéologique*.
+  Man muss mit dieser *ideologischen* Rede aufhören.
 
-  Il y a une différence idéologique entre les deux partis politiques.
-  Es gibt eine ideologische Unterschied zwischen den beiden politischen Parteien.
+  Les divergences *idéologiques* entre les deux partis étaient évidentes.
+  Die *ideologischen* Differenzen zwischen den beiden Parteien waren offensichtlich.
+
+  Le débat est devenu trop *idéologique* pour être constructif.
+  Die Debatte ist zu *ideologisch* geworden, um konstruktiv zu sein.
+
+  Cette approche purement *idéologique* ne résout pas les problèmes concrets.
+  Dieser rein *ideologische* Ansatz löst keine konkreten Probleme.
+
+  Les luttes *idéologiques* ont marqué tout le vingtième siècle.
+  Die *ideologischen* Kämpfe haben das ganze zwanzigste Jahrhundert geprägt.
+
+  Son analyse reste strictement *idéologique*, sans tenir compte des faits.
+  Seine Analyse bleibt streng *ideologisch*, ohne die Fakten zu berücksichtigen.
+
+  Le conflit *idéologique* entre les deux groupes s'est intensifié.
+  Der *ideologische* Konflikt zwischen den beiden Gruppen hat sich verschärft.
+
+  Elle refuse tout dogmatisme *idéologique* dans son travail.
+  Sie lehnt jeden *ideologischen* Dogmatismus in ihrer Arbeit ab.
+
+  Les différences *idéologiques* ont empêché un accord.
+  Die *ideologischen* Unterschiede haben eine Einigung verhindert.
+
+  Le débat s'est transformé en bataille *idéologique*.
+  Die Debatte hat sich in eine *ideologische* Schlacht verwandelt.
+
+  Une vision *idéologique* du monde peut être dangereuse.
+  Eine *ideologische* Weltsicht kann gefährlich sein.
+
+  Les barrières *idéologiques* doivent être surmontées.
+  Die *ideologischen* Barrieren müssen überwunden werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

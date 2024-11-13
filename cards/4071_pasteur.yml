@@ -13,11 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle aime mieux le pasteur que le jésuite.
-  Sie mag den Pastor lieber als den Jesuiten.
+  Elle aime mieux le *pasteur* que le jésuite.
+  Sie mag den *Pfarrer* lieber als den Jesuiten.
 
-  Le pasteur a donné un sermon inspirant.
-  Der Pastor hielt eine inspirierende Predigt.
+  Le *pasteur* prêchait chaque dimanche devant une église pleine.
+  Der *Pfarrer* predigte jeden Sonntag vor einer vollen Kirche.
+
+  Un *pasteur* nomade traverse le désert avec son troupeau de chèvres.
+  Ein nomadischer *Hirte* durchquert die Wüste mit seiner Ziegenherde.
+
+  Le *pasteur* anglican a célébré leur mariage dans la cathédrale.
+  Der anglikanische *Pfarrer* hat ihre Hochzeit in der Kathedrale gefeiert.
+
+  Le vieux *pasteur* mène ses brebis vers les pâturages de montagne.
+  Der alte *Hirte* führt seine Schafe zu den Bergweiden.
+
+  Les fidèles attendent l'arrivée de leur nouveau *pasteur*.
+  Die Gläubigen warten auf die Ankunft ihres neuen *Pfarrers*.
+
+  Le *pasteur* Jonas nous a accueillis chaleureusement dans sa paroisse.
+  *Pfarrer* Jonas hat uns herzlich in seiner Gemeinde willkommen geheißen.
+
+  Notre *pasteur* organise des réunions pour les jeunes le mercredi.
+  Unser *Pfarrer* organisiert mittwochs Treffen für die Jugendlichen.
+
+  Le Christ, le Bon *Pasteur*, guide ses fidèles vers la lumière.
+  Christus, der Gute *Hirte*, führt seine Gläubigen zum Licht.
+
+  Marie est devenue *pasteur* dans une petite ville de Suisse.
+  Marie ist *Pfarrerin* in einer kleinen Stadt in der Schweiz geworden.
+
+  Le *pasteur* veille sur son troupeau pendant la nuit froide.
+  Der *Hirte* wacht während der kalten Nacht über seine Herde.
+
+  Mon grand-père était *pasteur* dans ce village pendant quarante ans.
+  Mein Großvater war vierzig Jahre lang *Pfarrer* in diesem Dorf.
+
+  Le *pasteur* du désert risquait sa vie pour prêcher clandestinement.
+  Der *Pfarrer* der Wüste riskierte sein Leben, um heimlich zu predigen.
+
+  Les enfants écoutent attentivement l'histoire que raconte le *pasteur*.
+  Die Kinder hören aufmerksam der Geschichte zu, die der *Pfarrer* erzählt.
+
+  Ce *pasteur* africain parcourt des kilomètres pour rejoindre ses brebis.
+  Dieser afrikanische *Hirte* legt Kilometer zurück, um zu seinen Schafen zu gelangen.
+
+  Le *pasteur* Martin Luther King a lutté pour les droits civiques.
+  *Pfarrer* Martin Luther King kämpfte für die Bürgerrechte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

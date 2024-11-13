@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le pinot demande une vigilance constante.
-  Der Pinot erfordert ständige Wachsamkeit.
+  Le pinot demande une *vigilance* constante.
+  Der Pinot verlangt ständige *Wachsamkeit*.
 
-  Il faut faire preuve de vigilance en tout temps.
-  Man muss jederzeit wachsam sein.
+  Il faut redoubler de *vigilance* pendant la nuit.
+  Man muss nachts doppelt *wachsam* sein.
 
-  Le chauffeur, qui avait manqué de vigilance, a failli provoquer un accident.
-  Der Fahrer, der nicht aufmerksam genug war, hat beinahe einen Unfall verursacht.
+  La *vigilance* des parents a empêché l'accident.
+  Die *Wachsamkeit* der Eltern hat den Unfall verhindert.
 
-  Après l'attaque terroriste, les autorités ont redoublé de vigilance.
-  Nach dem Terroranschlag haben die Behörden ihre Wachsamkeit verstärkt.
+  Les gardes ont manqué de *vigilance* ce soir-là.
+  Die Wachen waren an diesem Abend nicht *wachsam* genug.
+
+  Le département est en *vigilance* orange pour les orages.
+  Für das Département gilt wegen Gewitter die *Warnstufe* Orange.
+
+  Les médecins surveillent la *vigilance* du patient après l'opération.
+  Die Ärzte überwachen die *Wachheit* des Patienten nach der Operation.
+
+  Malgré notre *vigilance*, le chat s'est échappé.
+  Trotz unserer *Wachsamkeit* ist die Katze entwischt.
+
+  La *vigilance* est de mise face aux arnaques en ligne.
+  *Wachsamkeit* ist gegenüber Online-Betrug geboten.
+
+  J'ai réussi à tromper la *vigilance* du gardien.
+  Es ist mir gelungen, die *Aufmerksamkeit* des Wächters zu täuschen.
+
+  Le niveau de *vigilance* est au maximum dans l'aéroport.
+  Die *Wachsamkeitsstufe* am Flughafen ist maximal.
+
+  Une baisse de *vigilance* peut avoir des conséquences graves.
+  Nachlassende *Wachsamkeit* kann schwerwiegende Folgen haben.
+
+  La fatigue diminue notre niveau de *vigilance*.
+  Müdigkeit verringert unseren *Wachheitsgrad*.
+
+  Sa *vigilance* naturelle en fait un excellent garde du corps.
+  Seine natürliche *Wachsamkeit* macht ihn zu einem ausgezeichneten Leibwächter.
+
+  Les chasseurs font preuve d'une grande *vigilance*.
+  Die Jäger zeigen große *Wachsamkeit*.
+
+  La *vigilance* des citoyens a permis d'éviter le pire.
+  Die *Wachsamkeit* der Bürger hat Schlimmeres verhindert.
+
+  Cette mission exige une *vigilance* extrême.
+  Diese Mission erfordert äußerste *Wachsamkeit*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

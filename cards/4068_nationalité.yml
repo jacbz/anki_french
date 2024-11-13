@@ -13,23 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il avait la possibilité de choisir la nationalité française.
-  Er hatte die Möglichkeit, sich für die französische Staatsangehörigkeit zu entscheiden.
+  Il avait la possibilité de choisir la *nationalité* française.
+  Er hatte die Möglichkeit, die französische *Staatsangehörigkeit* zu wählen.
 
-  Quelle est votre nationalité?
-  Was ist Ihre Staatsangehörigkeit?
+  La *nationalité* du navire n'était pas clairement indiquée sur le pavillon.
+  Die *Nationalität* des Schiffes war auf der Flagge nicht eindeutig erkennbar.
 
-  Marie est de nationalité française.
-  Marie hat die französische Staatsangehörigkeit.
+  Elle est fière d'avoir obtenu sa double *nationalité* l'année dernière.
+  Sie ist stolz darauf, letztes Jahr ihre doppelte *Staatsangehörigkeit* erhalten zu haben.
 
-  Il est sans nationalité.
-  Er ist staatenlos.
+  Les enfants nés à l'étranger peuvent parfois avoir une double *nationalité*.
+  Im Ausland geborene Kinder können manchmal eine doppelte *Staatsangehörigkeit* haben.
 
-  Beaucoup de personnes possèdent une double nationalité.
-  Viele Menschen haben eine doppelte Staatsangehörigkeit.
+  Marie est de *nationalité* suisse depuis sa naissance.
+  Marie hat seit ihrer Geburt die schweizerische *Staatsangehörigkeit*.
 
-  Sophie est une personne possédant une double nationalité.
-  Sophie ist eine Doppelstaaterin.
+  Le formulaire demande d'indiquer votre *nationalité* d'origine.
+  Das Formular verlangt die Angabe Ihrer ursprünglichen *Staatsangehörigkeit*.
+
+  Beaucoup de réfugiés se retrouvent sans *nationalité*.
+  Viele Flüchtlinge werden *staatenlos*.
+
+  Cette entreprise a changé de *nationalité* après la fusion.
+  Diese Firma hat nach der Fusion die *Nationalität* gewechselt.
+
+  Pour obtenir la *nationalité*, il faut passer un test de langue.
+  Um die *Staatsangehörigkeit* zu bekommen, muss man einen Sprachtest bestehen.
+
+  Sa *nationalité* lui permet de voyager sans visa dans toute l'Europe.
+  Seine *Staatsangehörigkeit* erlaubt ihm, ohne Visum durch ganz Europa zu reisen.
+
+  Le certificat de *nationalité* doit être présenté à la mairie.
+  Die *Staatsangehörigkeits*bescheinigung muss beim Rathaus vorgelegt werden.
+
+  La question de la *nationalité* est devenue un sujet sensible.
+  Die Frage der *Staatsangehörigkeit* ist zu einem heiklen Thema geworden.
+
+  Les documents attestant de sa *nationalité* ont été perdus.
+  Die Dokumente, die seine *Staatsangehörigkeit* belegen, sind verloren gegangen.
+
+  La *nationalité* peut être transmise par les parents à leurs enfants.
+  Die *Staatsangehörigkeit* kann von den Eltern an ihre Kinder weitergegeben werden.
+
+  Cette région abrite des personnes de différentes *nationalités*.
+  In dieser Region leben Menschen verschiedener *Nationalitäten*.
+
+  Il a renoncé à sa *nationalité* d'origine pour en adopter une nouvelle.
+  Er hat seine ursprüngliche *Staatsangehörigkeit* aufgegeben, um eine neue anzunehmen.
+
+  La procédure de changement de *nationalité* peut prendre plusieurs années.
+  Das Verfahren zur Änderung der *Staatsangehörigkeit* kann mehrere Jahre dauern.
+
+  Quelle est votre *nationalité* ? demanda l'agent à la frontière.
+  "Was ist Ihre *Staatsangehörigkeit*?" fragte der Beamte an der Grenze.
+
+  Les critères d'attribution de la *nationalité* ont été modifiés.
+  Die Kriterien für die Vergabe der *Staatsangehörigkeit* wurden geändert.
+
+  Le passeport indique clairement la *nationalité* du titulaire.
+  Der Pass zeigt deutlich die *Staatsangehörigkeit* des Inhabers.
+
+  L'acquisition de la *nationalité* se fait par naturalisation.
+  Der Erwerb der *Staatsangehörigkeit* erfolgt durch Einbürgerung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

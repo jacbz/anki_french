@@ -13,11 +13,35 @@ Register: ↘Fiktion ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Par ailleurs, le yen doit être soutenu.
-  Andererseits muss der Yen gestützt werden.
+  Par ailleurs, le *yen* doit être soutenu.
+  Außerdem muss der *Yen* gestützt werden.
 
-  Le prix est de 1000 yens.
-  Der Preis beträgt 1000 Yen.
+  Le *yen* est la monnaie nationale du Japon depuis 1871.
+  Der *Yen* ist seit 1871 die Landeswährung Japans.
+
+  Le cours du *yen* a fortement baissé hier.
+  Der *Yen*-Kurs ist gestern stark gefallen.
+
+  Les touristes peuvent échanger leurs euros contre des *yens* à l'aéroport.
+  Touristen können ihre Euro am Flughafen in *Yen* umtauschen.
+
+  Le prix est de 10.000 *yens*.
+  Der Preis beträgt 10.000 *Yen*.
+
+  La valeur du *yen* par rapport au dollar a changé.
+  Der *Yen* hat sich gegenüber dem Dollar verändert.
+
+  J'ai encore quelques *yens* de mon dernier voyage au Japon.
+  Ich habe noch ein paar *Yen* von meiner letzten Japanreise.
+
+  Les investisseurs s'intéressent de plus en plus au *yen*.
+  Anleger interessieren sich zunehmend für den *Yen*.
+
+  Le *yen* s'est apprécié face à l'euro ce matin.
+  Der *Yen* hat heute Morgen gegenüber dem Euro aufgewertet.
+
+  Combien de *yens* vous reste-t-il ?
+  Wie viele *Yen* haben Sie noch?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,26 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les insultes ne sauraient se substituer.
-  Beleidigungen sind kein Ersatz.
+  Les insultes ne sauraient se *substituer* à la discussion.
+  Beleidigungen können die Diskussion nicht *ersetzen*.
 
-  Je vais substituer le beurre par de l’huile.
-  Ich werde die Butter durch Öl ersetzen.
+  Dans ce cours, on peut *substituer* le travail en groupe à l'exposé individuel.
+  In diesem Kurs kann man die Einzelpräsentation durch *Gruppenarbeit* *ersetzen*.
 
-  Pierre a dû substituer un collègue malade à une réunion importante.
-  Pierre musste einen kranken Kollegen bei einem wichtigen Meeting vertreten.
+  Le professeur malade a été *substitué* par un remplaçant expérimenté.
+  Der kranke Lehrer wurde durch einen erfahrenen *Ersatz* vertreten.
 
-  Il a substitué un mot à un autre dans le texte pour le rendre plus clair.
-  Er hat ein Wort durch ein anderes im Text ersetzt, um ihn verständlicher zu machen.
+  Pour cette recette, vous pouvez *substituer* le beurre par de l'huile d'olive.
+  Für dieses Rezept können Sie die Butter durch Olivenöl *ersetzen*.
 
-  Le médecin a décidé de se substituer à son collègue pour l'opération.
-  Der Arzt hat beschlossen, seinen Kollegen bei der Operation zu vertreten.
+  L'intelligence artificielle ne pourra jamais se *substituer* complètement à l'intelligence humaine.
+  Künstliche Intelligenz wird menschliche Intelligenz nie vollständig *ersetzen* können.
 
-  Le conseil d'administration a décidé de substituer l'héritier à un autre bénéficiaire pour des raisons fiscales.
-  Der Verwaltungsrat hat beschlossen, einen anderen Begünstigten an Stelle des Erben einzusetzen, aus steuerlichen Gründen.
+  Le journal en ligne s'est *substitué* progressivement à l'édition papier.
+  Die Online-Zeitung hat die Printausgabe nach und nach *ersetzt*.
 
-  Le plastique se substitue de plus en plus au métal dans la construction automobile.
-  Plastik ersetzt in der Automobilindustrie zunehmend Metall.
+  Les voitures électriques se *substituent* peu à peu aux véhicules traditionnels.
+  Elektrische Autos *ersetzen* nach und nach traditionelle Fahrzeuge.
+
+  Dans cette équation chimique, l'atome d'hydrogène se *substitue* à l'atome de chlore.
+  In dieser chemischen Gleichung *ersetzt* das Wasserstoffatom das Chloratom.
+
+  Le père a *substitué* sa fille à son fils comme héritière principale.
+  Der Vater hat seine Tochter anstelle seines Sohnes als Haupterbin *eingesetzt*.
+
+  Je refuse de me *substituer* à vos responsabilités parentales.
+  Ich weigere mich, Ihre elterlichen Pflichten zu *übernehmen*.
+
+  Les nouvelles technologies se sont *substituées* aux méthodes traditionnelles d'enseignement.
+  Neue Technologien haben traditionelle Lehrmethoden *ersetzt*.
+
+  Il faut *substituer* des mots plus appropriés à ces expressions familières.
+  Diese umgangssprachlichen Ausdrücke müssen durch passendere Wörter *ersetzt* werden.
+
+  Le jeune acteur a dû *substituer* la vedette au pied levé.
+  Der junge Schauspieler musste kurzfristig für den Star *einspringen*.
+
+  Dans ce nouveau système, l'euro s'est *substitué* aux anciennes monnaies nationales.
+  In diesem neuen System hat der Euro die alten nationalen Währungen *ersetzt*.
+
+  Les énergies renouvelables doivent se *substituer* aux combustibles fossiles.
+  Erneuerbare Energien müssen fossile Brennstoffe *ersetzen*.
+
+  L'auteur a *substitué* des personnages fictifs aux personnes réelles.
+  Der Autor hat die realen Personen durch fiktive Charaktere *ersetzt*.
+
+  Le comité peut *substituer* un autre candidat si le premier se désiste.
+  Das Komitee kann einen anderen Kandidaten *einsetzen*, falls der erste zurücktritt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

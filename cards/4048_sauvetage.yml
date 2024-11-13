@@ -13,23 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nos équipes de recherche et de sauvetage sont sur place.
-  Unsere Such- und Rettungsteams sind vor Ort.
+  Nos équipes de recherche et de *sauvetage* sont sur place.
+  Unsere Such- und *Rettungs*teams sind vor Ort.
 
-  Les pompiers ont effectué un sauvetage réussi.
-  Die Feuerwehr hat eine erfolgreiche Rettung durchgeführt.
+  Le *sauvetage* des naufragés a duré toute la nuit.
+  Die *Bergung* der Schiffbrüchigen dauerte die ganze Nacht.
 
-  Le service de sauvetage en mer est chargé des opérations de sauvetage des personnes en détresse sur la mer.
-  Der Seenotrettungsdienst ist für die Rettungsaktionen von Personen in Seenot zuständig.
+  Le service de *sauvetage* en montagne a secouru trois randonneurs.
+  Der Berg*rettungs*dienst hat drei Wanderer gerettet.
 
-  Le service de sauvetage en montagne est chargé des opérations de sauvetage des personnes en détresse en montagne.
-  Der Bergrettungsdienst ist für die Rettungsaktionen von Personen in Notlage in den Bergen zuständig.
+  Une opération de *sauvetage* est en cours après l'avalanche.
+  Eine *Rettungs*aktion läuft nach der Lawine.
 
-  L'opération de sauvetage s'est déroulée sans encombre.
-  Die Rettungsaktion verlief ohne Komplikationen.
+  L'action de *sauvetage* des pompiers a été couronnée de succès.
+  Die *Bergungs*aktion der Feuerwehr war erfolgreich.
 
-  L'action de sauvetage a été menée par des bénévoles.
-  Die Bergungsaktion wurde von Freiwilligen durchgeführt.
+  Le canot de *sauvetage* a été déployé immédiatement.
+  Das *Rettungs*boot wurde sofort eingesetzt.
+
+  Elle a attrapé la bouée de *sauvetage* que je lui ai lancée.
+  Sie hat den *Rettungs*ring gefangen, den ich ihr zugeworfen habe.
+
+  Tous les passagers portaient des gilets de *sauvetage*.
+  Alle Passagiere trugen *Rettungs*westen.
+
+  Le *sauvetage* de cette entreprise coûtera des millions.
+  Die *Rettung* dieses Unternehmens wird Millionen kosten.
+
+  Le *sauvetage* du monument historique a pris plusieurs années.
+  Die *Rettung* des historischen Denkmals hat mehrere Jahre gedauert.
+
+  La médaille de *sauvetage* lui a été décernée pour son courage.
+  Die *Rettungs*medaille wurde ihm für seinen Mut verliehen.
+
+  Ce chien a participé à de nombreux *sauvetages* en mer.
+  Dieser Hund hat an vielen *Rettungs*aktionen auf See teilgenommen.
+
+  L'échelle de *sauvetage* a permis d'évacuer les habitants.
+  Die *Rettungs*leiter ermöglichte die Evakuierung der Bewohner.
+
+  Le *sauvetage* des spéléologues s'est avéré très difficile.
+  Die *Rettung* der Höhlenforscher erwies sich als sehr schwierig.
+
+  La Société nationale de *sauvetage* en mer cherche des bénévoles.
+  Die nationale See*rettungs*gesellschaft sucht Freiwillige.
+
+  Les hélicoptères de *sauvetage* survolent la zone sinistrée.
+  Die *Rettungs*hubschrauber überfliegen das Katastrophengebiet.
+
+  Le *sauvetage* de l'épave a commencé ce matin.
+  Die *Bergung* des Wracks hat heute Morgen begonnen.
+
+  Les équipes de *sauvetage* ont travaillé jour et nuit.
+  Die *Rettungs*teams haben Tag und Nacht gearbeitet.
+
+  Le centre de *sauvetage* coordonne toutes les opérations.
+  Die *Rettungs*zentrale koordiniert alle Einsätze.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,41 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’était plein de petits commerçants, d’artisans.
-  Es war voll von kleinen Händlern und Handwerkern.
+  C'était plein de petits *commerçants*, d'artisans.
+  Es war voller kleiner *Händler* und Handwerker.
 
-  Le commerçant a ouvert sa boutique.
-  Der Händler hat sein Geschäft eröffnet.
+  Cette rue *commerçante* est toujours animée le week-end.
+  Diese *Geschäfts*straße ist am Wochenende immer belebt.
 
-  Sophie est une petite commerçante qui tient une boutique de vêtements.
-  Sophie ist eine Einzelhändlerin, die eine Kleiderboutique betreibt.
+  "C'est une *commerçante* très sympathique, elle fait toujours un petit cadeau aux enfants."
+  "Sie ist eine sehr nette *Geschäftsfrau*, sie gibt den Kindern immer ein kleines Geschenk."
 
-  L'entreprise était dirigée par un commerçant fictif, ce qui est illégal.
-  Das Unternehmen wurde von einem Fiktivkaufmann geführt, was illegal ist.
+  Les *commerçants* en gros doivent gérer des stocks importants.
+  Die *Großhändler* müssen große Lagerbestände verwalten.
 
-  Un commerçant de gros vend des produits en grande quantité à d'autres entreprises.
-  Ein Großhändler verkauft Produkte in großen Mengen an andere Unternehmen.
+  Marie est une *commerçante* spécialisée en produits bio.
+  Marie ist eine *Fachhändlerin* für Bio-Produkte.
 
-  Le commerçant de marché installe son étal tous les samedis matin.
-  Die Markthändlerin baut ihren Stand jeden Samstagmorgen auf.
+  Le quartier est devenu très *commerçant* depuis la rénovation du centre-ville.
+  Das Viertel ist seit der Renovierung der Innenstadt sehr *geschäftig* geworden.
 
-  Pour les vélos électriques, mieux vaut consulter un commerçant spécialisé.
-  Bei Elektrofahrrädern ist es besser, einen Fachhändler aufzusuchen.
+  Pierre, un *commerçant* de marché, vend ses légumes depuis vingt ans.
+  Pierre, ein *Markthändler*, verkauft seit zwanzig Jahren sein Gemüse.
 
-  Un commerçant du fait de son inscription au registre du commerce est soumis à certaines obligations.
-  Ein Soll-Kaufmann unterliegt bestimmten Verpflichtungen.
+  Cette vendeuse est très *commerçante*, elle sait comment satisfaire ses clients.
+  Diese Verkäuferin ist sehr *geschäftstüchtig*, sie weiß, wie sie ihre Kunden zufriedenstellt.
 
-  Un agriculteur qui vend ses produits sur les marchés est considéré comme un commerçant du fait de la loi.
-  Ein Landwirt, der seine Produkte auf Märkten verkauft, gilt als Ist-Kaufmann.
+  Les *commerçants* du quartier se sont unis contre le nouveau centre commercial.
+  Die *Geschäftsleute* im Viertel haben sich gegen das neue Einkaufszentrum zusammengeschlossen.
 
-  Pierre Dupont est commerçant en nom personnel, il est donc responsable sur ses biens propres.
-  Pierre Dupont ist Einzelkaufmann, er haftet also mit seinem Privatvermögen.
+  La ville cherche à attirer de nouveaux *commerçants* dans le centre historique.
+  Die Stadt versucht, neue *Händler* in die historische Altstadt zu locken.
 
-  En tant que commerçante en nom propre, elle gère son entreprise de manière indépendante.
-  Als Eigenhändlerin führt sie ihr Unternehmen selbstständig.
+  Les petits *commerçants* luttent pour survivre face aux grandes surfaces.
+  Die kleinen *Einzelhändler* kämpfen ums Überleben gegenüber den großen Supermärkten.
 
-  Un artisan peut choisir de devenir commerçant par inscription facultative au registre du commerce.
-  Ein Handwerker kann sich dafür entscheiden, durch eine freiwillige Eintragung ins Handelsregister Kaufmann zu werden.
+  Ce *commerçant* en vins propose des dégustations tous les samedis.
+  Dieser Wein*händler* bietet jeden Samstag Verkostungen an.
+
+  La nouvelle avenue *commerçante* attire beaucoup de touristes.
+  Die neue *Geschäfts*straße zieht viele Touristen an.
+
+  Ce *commerçant* de grains fournit tous les boulangers de la région.
+  Dieser Getreide*händler* beliefert alle Bäcker der Region.
+
+  Elle est devenue *commerçante* après avoir travaillé dix ans comme employée.
+  Sie ist *Geschäftsfrau* geworden, nachdem sie zehn Jahre als Angestellte gearbeitet hatte.
+
+  Les *commerçants* inscrits au registre doivent tenir une comptabilité régulière.
+  Die eingetragenen *Kaufleute* müssen eine regelmäßige Buchführung führen.
+
+  Notre boulangère est très *commerçante* et propose souvent des promotions.
+  Unsere Bäckerin ist sehr *geschäftstüchtig* und bietet oft Sonderangebote an.
+
+  Ce *commerçant* en métaux non ferreux exporte dans toute l'Europe.
+  Dieser *Händler* für Nichteisenmetalle exportiert in ganz Europa.
+
+  Les anciens *commerçants* du marché racontent l'histoire du quartier.
+  Die ehemaligen Markt*händler* erzählen die Geschichte des Viertels.
+
+  Une association de *commerçants* organise la fête du printemps.
+  Ein *Händler*verband organisiert das Frühlingsfest.
+
+  Ce *commerçant* ruiné a dû fermer sa boutique.
+  Dieser ruinierte *Geschäftsmann* musste seinen Laden schließen.
+
+  Comme ses parents étaient *commerçants*, elle a grandi dans une boutique.
+  Da ihre Eltern *Händler* waren, ist sie in einem Geschäft aufgewachsen.
+
+  Les Phéniciens étaient un peuple *commerçant* très habile.
+  Die Phönizier waren ein sehr geschicktes *Handels*volk.
+
+  Un *commerçant* en faillite ne peut plus exercer pendant plusieurs années.
+  Ein *Geschäftsmann* in Konkurs darf mehrere Jahre lang nicht mehr tätig sein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,41 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les bactéries résistantes disparaissent en quelques jours.
-  Resistente Bakterien verschwinden innerhalb weniger Tage.
+  Les bactéries *résistantes* disparaissent en quelques jours.
+  Die *resistenten* Bakterien verschwinden nach einigen Tagen.
 
-  Mon grand-père était un résistant pendant la guerre.
-  Mein Großvater war während des Krieges ein Widerstandskämpfer.
+  Cette plante est très *résistante* aux maladies et aux parasites.
+  Diese Pflanze ist sehr *widerstandsfähig* gegen Krankheiten und Schädlinge.
 
-  L'acier est plus résistant que le fer, il est donc souvent utilisé pour la construction.
-  Stahl ist härter als Eisen, deshalb wird er oft für den Bau verwendet.
+  Les chameaux sont des animaux particulièrement *résistants* à la chaleur.
+  Kamele sind besonders *hitzebeständige* Tiere.
 
-  La résistance du groupe a permis de faire pression sur le gouvernement.
-  Die Widerstandsgruppe hat Druck auf die Regierung ausgeübt.
+  La nouvelle table de jardin est *résistante* aux intempéries.
+  Der neue Gartentisch ist *witterungsbeständig*.
 
-  Ce matériau est résistant aux acides, ce qui en fait un bon choix pour les laboratoires.
-  Dieses Material ist säurefest, was es zu einer guten Wahl für Labore macht.
+  Ce tissu est très *résistant* à l'usure.
+  Dieser Stoff ist sehr *verschleißfest*.
 
-  Les turbines sont conçues pour être résistantes à la chaleur.
-  Die Turbinen sind so konstruiert, dass sie hitzebeständig sind.
+  Les verres de ses lunettes sont *résistants* aux rayures.
+  Die Gläser seiner Brille sind *kratzfest*.
 
-  Le vitrage résistant aux chocs est utilisé dans les bâtiments pour garantir la sécurité.
-  Bruchsicheres Glas wird in Gebäuden verwendet, um die Sicherheit zu gewährleisten.
+  Le métal utilisé dans cette construction est *résistant* à la corrosion.
+  Das in diesem Bau verwendete Metall ist *korrosionsbeständig*.
 
-  Il faut conditionner les produits fragiles dans un emballage résistant aux chocs pour éviter les dommages pendant le transport.
-  Man muss zerbrechliche Produkte bruchsicher verpacken, um Schäden beim Transport zu vermeiden.
+  Ces bottes de randonnée sont particulièrement *résistantes*.
+  Diese Wanderstiefel sind besonders *robust*.
 
-  Ce type de peinture est résistant aux conditions tropicales, elle est donc idéale pour les maisons en bord de mer.
-  Diese Art von Farbe ist tropentauglich, daher eignet sie sich hervorragend für Häuser am Meer.
+  L'acier inoxydable est plus *résistant* que l'aluminium.
+  Edelstahl ist *härter* als Aluminium.
 
-  Les métaux résistants à la corrosion sont utilisés pour les structures en extérieur.
-  Korrosionsbeständige Metalle werden für Außenbauten verwendet.
+  Cette peinture est *résistante* à la lumière du soleil.
+  Diese Farbe ist *lichtbeständig*.
 
-  Les matériaux résistants au feu sont utilisés dans les bâtiments pour améliorer la sécurité incendie.
-  Feuerfeste Materialien werden in Gebäuden verwendet, um die Brandschutzsicherheit zu verbessern.
+  Le nouveau smartphone a un écran *résistant* aux chocs.
+  Das neue Smartphone hat ein *stoßfestes* Display.
 
-  Ce matériau est résistant au froid, il peut donc être utilisé dans les régions froides.
-  Dieses Material ist kältebeständig, daher kann es in kalten Regionen eingesetzt werden.
+  Ces gants sont *résistants* aux produits chimiques.
+  Diese Handschuhe sind *chemikalienbeständig*.
+
+  Le revêtement est *résistant* à l'eau.
+  Die Beschichtung ist *wasserbeständig*.
+
+  Cette variété de tomates est *résistante* au gel.
+  Diese Tomatensorte ist *frostbeständig*.
+
+  Le papier utilisé est *résistant* à l'humidité.
+  Das verwendete Papier ist *feuchtigkeitsbeständig*.
+
+  Malgré son apparence fragile, cet enfant est très *résistant*.
+  Trotz seiner zerbrechlichen Erscheinung ist dieses Kind sehr *widerstandsfähig*.
+
+  Le nouveau virus est devenu *résistant* au traitement.
+  Das neue Virus ist gegen die Behandlung *resistent* geworden.
+
+  Ce plastique est *résistant* aux températures extrêmes.
+  Dieser Kunststoff ist *temperaturbeständig*.
+
+  La boîte est fabriquée dans un matériau *résistant*.
+  Die Box ist aus einem *robusten* Material hergestellt.
+
+  Le caoutchouc synthétique est très *résistant* à l'étirement.
+  Synthetischer Gummi ist sehr *dehnungsbeständig*.
+
+  Ces roses sont particulièrement *résistantes* aux maladies.
+  Diese Rosen sind besonders *krankheitsresistent*.
+
+  L'air est un milieu *résistant* qui freine les objets en mouvement.
+  Luft ist ein *widerstehendes* Medium, das bewegte Objekte bremst.
+
+  Ce revêtement est *résistant* à l'abrasion.
+  Diese Beschichtung ist *abriebfest*.
+
+  Les cellules cancéreuses sont devenues *résistantes* à la chimiothérapie.
+  Die Krebszellen sind gegen die Chemotherapie *resistent* geworden.
+
+  Le nouveau carrelage est *résistant* aux taches.
+  Die neuen Fliesen sind *fleckenbeständig*.
+
+  Cette corde est très *résistante* à la traction.
+  Dieses Seil ist sehr *zugfest*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

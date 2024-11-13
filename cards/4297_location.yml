@@ -13,23 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est un meublé mis en location pour quelques mois.
-  Es handelt sich um eine möblierte Wohnung, die für einige Monate vermietet wird.
+  C'est un meublé mis en *location* pour quelques mois.
+  Es ist eine möblierte Wohnung zur *Miete* für einige Monate.
 
-  Je cherche une location pour mes vacances.
-  Ich suche eine Vermietung für meinen Urlaub.
+  La *location* de ce logement me coûte très cher.
+  Die *Miete* für diese Wohnung kostet mich sehr viel.
 
-  Nous avons décidé de prendre une location pour les vacances, car nous souhaitions être au calme.
-  Wir haben uns entschieden, eine Unterkunft für die Ferien zu mieten, weil wir Ruhe haben wollten.
+  J'ai trouvé une voiture de *location* à bon prix.
+  Ich habe einen günstigen *Leih*wagen gefunden.
 
-  Le propriétaire donne en location sa maison de campagne pour la saison estivale.
-  Der Besitzer vermietet sein Landhaus für die Sommersaison.
+  Ils ont signé un contrat de *location* hier.
+  Sie haben gestern einen *Miet*vertrag unterschrieben.
 
-  Nous avons trouvé un appartement en location saisonnière dans un quartier agréable.
-  Wir haben eine Ferienwohnung in einem schönen Viertel gefunden.
+  Notre agence s'occupe de la *location* de bureaux.
+  Unsere Agentur kümmert sich um die *Vermietung* von Büros.
 
-  Il est possible de louer une voiture de location directement à l'aéroport.
-  Man kann direkt am Flughafen einen Leihwagen mieten.
+  Je préfère la *location* à l'achat pour les équipements sportifs.
+  Ich bevorzuge das *Leihen* statt des Kaufs von Sportausrüstung.
+
+  La *location* des places pour le concert commence demain.
+  Die *Reservierung* der Plätze für das Konzert beginnt morgen.
+
+  Nous cherchons une *location* pour les vacances d'été.
+  Wir suchen eine *Miet*unterkunft für die Sommerferien.
+
+  Le prix de la *location* comprend les charges.
+  Der *Miet*preis enthält die Nebenkosten.
+
+  La *location-vente* permet d'acheter progressivement.
+  Die *Miet*-Kauf-Vereinbarung ermöglicht einen schrittweisen Kauf.
+
+  Il propose son appartement en *location* saisonnière.
+  Er bietet seine Wohnung zur *Vermietung* in der Saison an.
+
+  La *location* de vélos est disponible à l'entrée du parc.
+  Der Fahrrad*verleih* ist am Parkeingang verfügbar.
+
+  "Tu as vu le prix de la *location* ?"
+  "Hast du den *Miet*preis gesehen?"
+
+  Nous avons pris ce terrain en *location* pour cinq ans.
+  Wir haben dieses Grundstück für fünf Jahre ge*pachtet*.
+
+  La *location* des costumes est incluse dans le prix du spectacle.
+  Der *Verleih* der Kostüme ist im Preis der Aufführung inbegriffen.
+
+  Elle s'occupe de la *location* des chambres aux étudiants.
+  Sie kümmert sich um die *Vermietung* der Zimmer an Studenten.
+
+  Les frais de *location* seront remboursés en cas d'annulation.
+  Die *Reservierungs*gebühren werden bei Stornierung erstattet.
+
+  Cette agence gère la *location* de bateaux.
+  Diese Agentur verwaltet den Boots*verleih*.
+
+  Je dois renouveler mon contrat de *location* le mois prochain.
+  Ich muss nächsten Monat meinen *Miet*vertrag verlängern.
+
+  La *location* de matériel de ski est possible sur place.
+  Der *Verleih* von Skiausrüstung ist vor Ort möglich.
+
+  Ils ont mis leur maison en *location* pendant leur voyage.
+  Sie haben ihr Haus während ihrer Reise zur *Vermietung* angeboten.
+
+  La *location* des salles de réunion se fait en ligne.
+  Die *Buchung* der Konferenzräume erfolgt online.
+
+  Le système de *location* de livres fonctionne comme une bibliothèque.
+  Das Buch*leih*system funktioniert wie eine Bibliothek.
+
+  Les conditions de *location* sont affichées à l'entrée.
+  Die *Miet*bedingungen sind am Eingang ausgehängt.
+
+  La *location* de ce studio est idéale pour un étudiant.
+  Die *Miete* dieses Studios ist ideal für einen Studenten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

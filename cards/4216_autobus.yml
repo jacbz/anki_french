@@ -13,17 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je préférais l’autobus au métro.
-  Ich zog den Bus der U-Bahn vor.
+  Je préférais l'*autobus* au métro.
+  Ich zog den *Bus* der U-Bahn vor.
 
-  Je prends l’autobus pour aller au travail.
-  Ich nehme den Bus zur Arbeit.
+  L'*autobus* arrive toujours à l'heure dans notre quartier.
+  Der *Bus* kommt in unserem Viertel immer pünktlich.
 
-  J'ai pris l'autobus pour aller au centre-ville.
-  Ich bin mit dem Bus in die Innenstadt gefahren.
+  Les enfants ont pris l'*autobus* scolaire ce matin.
+  Die Kinder sind heute Morgen mit dem Schul*bus* gefahren.
 
-  Le nouvel autobus électrique est silencieux et écologique.
-  Der neue Elektrobus ist leise und umweltfreundlich.
+  Cet *autobus* électrique ne fait aucun bruit.
+  Dieser Elektro*bus* macht überhaupt keinen Lärm.
+
+  Le conducteur d'*autobus* nous a salués chaleureusement.
+  Der *Bus*fahrer hat uns herzlich begrüßt.
+
+  La ligne d'*autobus* 42 passe devant chez moi.
+  Die *Bus*linie 42 fährt bei mir vorbei.
+
+  J'attends l'*autobus* depuis vingt minutes.
+  Ich warte seit zwanzig Minuten auf den *Bus*.
+
+  Il y a un couloir réservé aux *autobus* dans cette rue.
+  In dieser Straße gibt es eine *Bus*spur.
+
+  La plate-forme de l'*autobus* était bondée ce matin.
+  Die *Bus*plattform war heute Morgen überfüllt.
+
+  Les touristes adorent les *autobus* à impériale de Londres.
+  Die Touristen lieben die Doppeldecker*busse* in London.
+
+  Marie prend l'*autobus* tous les matins pour aller au travail.
+  Marie fährt jeden Morgen mit dem *Bus* zur Arbeit.
+
+  L'*autobus* s'est arrêté brusquement à cause d'un cycliste.
+  Der *Bus* musste wegen eines Radfahrers plötzlich anhalten.
+
+  Nous avons raté le dernier *autobus* de la soirée.
+  Wir haben den letzten *Bus* des Abends verpasst.
+
+  L'*autobus* était en retard à cause des embouteillages.
+  Der *Bus* hatte wegen des Staus Verspätung.
+
+  Un nouvel *autobus* hybride a été mis en service hier.
+  Ein neuer Hybrid*bus* wurde gestern in Betrieb genommen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

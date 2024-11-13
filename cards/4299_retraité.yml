@@ -13,14 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les retraités ne peuvent dépenser l’argent.
-  Rentner können das Geld nicht ausgeben.
+  Les *retraités* ne peuvent dépenser l'argent.
+  Die *Rentner* können das Geld nicht ausgeben.
 
-  Mon grand-père est un retraité heureux.
-  Mein Großvater ist ein glücklicher Rentner.
+  Mon père est *retraité* de l'armée depuis trois ans.
+  Mein Vater ist seit drei Jahren *pensioniert*.
 
-  La petite retraitée a passé une journée paisible à lire dans son jardin.
-  Die Kleinrentnerin verbrachte einen ruhigen Tag mit Lesen in ihrem Garten.
+  La *retraitée* fait du yoga tous les matins pour rester en forme.
+  Die *Rentnerin* macht jeden Morgen Yoga, um fit zu bleiben.
+
+  Les *retraités* de la fonction publique manifestent contre la réforme des pensions.
+  Die *Pensionäre* des öffentlichen Dienstes demonstrieren gegen die Rentenreform.
+
+  Ce petit *retraité* vit seul dans son appartement.
+  Dieser kleine *Rentner* lebt allein in seiner Wohnung.
+
+  Les enseignants *retraités* donnent parfois des cours particuliers.
+  Die *pensionierten* Lehrer geben manchmal Nachhilfeunterricht.
+
+  Cette *retraitée* garde ses petits-enfants tous les mercredis.
+  Diese *Rentnerin* passt jeden Mittwoch auf ihre Enkelkinder auf.
+
+  Le combustible nucléaire *retraité* sera stocké dans un nouveau site.
+  Der *wiederaufbereitete* Kernbrennstoff wird an einem neuen Standort gelagert.
+
+  Les déchets *retraités* peuvent être réutilisés dans l'industrie.
+  Die *wiederverwerteten* Abfälle können in der Industrie wiederverwendet werden.
+
+  Plusieurs *retraités* participent à des activités bénévoles.
+  Mehrere *Rentner* nehmen an ehrenamtlichen Aktivitäten teil.
+
+  La banque propose des services spéciaux pour les clients *retraités*.
+  Die Bank bietet spezielle Dienstleistungen für *Rentner* an.
+
+  Les *retraités* de l'usine se réunissent chaque mois pour déjeuner ensemble.
+  Die *Rentner* der Fabrik treffen sich jeden Monat zum gemeinsamen Mittagessen.
+
+  Le colonel *retraité* écrit ses mémoires.
+  Der *pensionierte* Oberst schreibt seine Memoiren.
+
+  Cette petite *retraitée* a du mal à payer son loyer.
+  Diese kleine *Rentnerin* hat Schwierigkeiten, ihre Miete zu bezahlen.
+
+  Les matériaux *retraités* sont plus écologiques.
+  Die *recycelten* Materialien sind umweltfreundlicher.
+
+  Un couple de *retraités* voyage autour du monde en camping-car.
+  Ein *Rentner*paar reist mit dem Wohnmobil um die Welt.
+
+  La communauté des *retraités* organise des activités culturelles.
+  Die *Rentner*gemeinschaft organisiert kulturelle Aktivitäten.
+
+  Les fonctionnaires *retraités* touchent une pension mensuelle.
+  Die *pensionierten* Beamten erhalten eine monatliche Pension.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

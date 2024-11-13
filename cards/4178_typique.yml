@@ -13,20 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est typique. Cela ne m’étonne pas.
-  Das ist typisch. Das überrascht mich nicht.
+  C'est *typique*. Cela ne m'étonne pas.
+  Das ist *typisch*. Das wundert mich nicht.
 
-  C’est un plat typique de la région.
-  Das ist ein typisches Gericht der Region.
+  Cette réaction est *typique* des adolescents.
+  Diese Reaktion ist *typisch* für Jugendliche.
 
-  Ce comportement est typique de Jean, il est toujours en retard.
-  Dieses Verhalten ist typisch für Jean, er ist immer zu spät.
+  De manière tout à fait *typique*, il est arrivé en retard.
+  *Typischerweise* kam er zu spät.
 
-  La paresse est un caractère typique de certains animaux.
-  Faulheit ist ein spezifisches Merkmal einiger Tiere.
+  Le coq au vin est un plat *typique* de la cuisine française.
+  Der Coq au vin ist ein *typisches* Gericht der französischen Küche.
 
-  De manière tout à fait typique, il a oublié son portefeuille.
-  Typischerweise hat er sein Portemonnaie vergessen.
+  La ponctualité est un trait *typique* des Allemands.
+  Pünktlichkeit ist eine *typische* Eigenschaft der Deutschen.
+
+  Voici un exemple *typique* de ce style architectural.
+  Hier ist ein *typisches* Beispiel für diesen Architekturstil.
+
+  Cette méthode présente des caractères *typiques* d'une approche moderne.
+  Diese Methode weist *typische* Merkmale eines modernen Ansatzes auf.
+
+  Son comportement est *typique* d'une personne stressée.
+  Ihr Verhalten ist *typisch* für eine gestresste Person.
+
+  L'auteur a créé un personnage *typique* de cette époque.
+  Der Autor hat eine für diese Epoche *typische* Figur geschaffen.
+
+  Ces symptômes sont *typiques* d'une grippe.
+  Diese Symptome sind *typisch* für eine Grippe.
+
+  C'est un cas *typique* d'obsession.
+  Das ist ein *typischer* Fall von Obsession.
+
+  La baguette est devenue un symbole *typique* de la France.
+  Das Baguette ist zu einem *typischen* Symbol Frankreichs geworden.
+
+  Cette erreur est *typique* des débutants.
+  Dieser Fehler ist *typisch* für Anfänger.
+
+  Les maisons à colombages sont *typiques* de l'Alsace.
+  Fachwerkhäuser sind *typisch* für das Elsass.
+
+  Ce comportement est *typique* de Marie, elle fait toujours ça.
+  Dieses Verhalten ist *typisch* für Marie, sie macht das immer so.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

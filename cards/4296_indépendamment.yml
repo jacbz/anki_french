@@ -13,20 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Chaque paquet est traité indépendamment.
-  Jedes Paket wird unabhängig behandelt.
+  Chaque paquet est traité *indépendamment*.
+  Jedes Paket wird *unabhängig* bearbeitet.
 
-  Il a agi indépendamment de l’avis des autres.
-  Er handelte unabhängig von der Meinung anderer.
+  Les chercheurs ont analysé les données *indépendamment* les uns des autres.
+  Die Forscher analysierten die Daten *unabhängig* voneinander.
 
-  Il a travaillé sur le projet indépendamment de son équipe.
-  Er hat zusätzlich zu seinem Team an dem Projekt gearbeitet.
+  *Indépendamment* de son âge, Marie fait du sport tous les jours.
+  *Unabhängig* von ihrem Alter treibt Marie jeden Tag Sport.
 
-  Mais vous devrez apprendre à compter avec les autres, indépendamment du tempérament.
-  Aber Sie müssen lernen, mit anderen zu rechnen, ungeachtet des Temperaments.
+  Les deux équipes travaillent *indépendamment* l'une de l'autre sur le projet.
+  Die beiden Teams arbeiten *unabhängig* voneinander an dem Projekt.
 
-  En soi, il est un fait que chaque voix est valide indépendamment du nombre des participants.
-  Jede Abstimmung ist gültig ungeachtet der Zahl der Abstimmenden.
+  *Indépendamment* de ses problèmes de santé, elle continue à sourire.
+  *Unabhängig* von ihren gesundheitlichen Problemen lächelt sie weiter.
+
+  Les jurés doivent prendre leur décision *indépendamment*.
+  Die Geschworenen müssen ihre Entscheidung *unabhängig* treffen.
+
+  *Indépendamment* du temps qu'il fait, nous irons à la plage demain.
+  *Unabhängig* vom Wetter werden wir morgen an den Strand gehen.
+
+  Ces deux phénomènes se produisent *indépendamment* l'un de l'autre.
+  Diese beiden Phänomene treten *unabhängig* voneinander auf.
+
+  *Indépendamment* de son salaire, Thomas adore son nouveau travail.
+  *Unabhängig* von seinem Gehalt liebt Thomas seine neue Arbeit.
+
+  Les enfants apprennent à penser *indépendamment*.
+  Die Kinder lernen *unabhängig* zu denken.
+
+  *Indépendamment* du résultat, nous sommes fiers de nos efforts.
+  *Unabhängig* vom Ergebnis sind wir stolz auf unsere Bemühungen.
+
+  Ces deux comités fonctionnent *indépendamment*.
+  Diese beiden Ausschüsse arbeiten *unabhängig*.
+
+  *Indépendamment* de ses origines, chacun mérite le respect.
+  *Unabhängig* von seiner Herkunft verdient jeder Respekt.
+
+  *Indépendamment* du prix, cette voiture ne me plaît pas.
+  *Unabhängig* vom Preis gefällt mir dieses Auto nicht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

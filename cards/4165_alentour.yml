@@ -13,14 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il n’y avait personne aux alentours immédiats.
-  In der unmittelbaren Umgebung befand sich niemand.
+  Il n'y avait personne aux *alentours* immédiats.
+  Es war niemand in der unmittelbaren *Umgebung*.
 
-  Nous allons nous promener dans les alentours.
-  Wir werden in der Umgebung spazieren gehen.
+  Tous les villages *alentour* ont participé à la fête.
+  Alle *umliegenden* Dörfer haben am Fest teilgenommen.
 
-  Les fermes d'alentour étaient toutes silencieuses, à l'exception du chant des coqs.
-  Die umliegenden Gehöfte waren alle still, abgesehen vom Krähen der Hähne.
+  Je ne voyais rien *alentour* dans l'obscurité.
+  Ich sah nichts *ringsum* in der Dunkelheit.
+
+  Les fermes *d'alentour* ont subi de graves dommages pendant l'orage.
+  Die *umliegenden* Bauernhöfe wurden während des Gewitters schwer beschädigt.
+
+  Cette photo montre le château et le parc qui s'étend *alentour*.
+  Dieses Foto zeigt das Schloss und den Park, der sich *rundherum* erstreckt.
+
+  Il regardait *alentour* pour s'assurer que personne ne l'avait suivi.
+  Er schaute sich *umher*, um sicherzugehen, dass ihm niemand gefolgt war.
+
+  Les bois *d'alentour* sont parfaits pour la randonnée.
+  Die *umliegenden* Wälder sind perfekt zum Wandern.
+
+  Nous nous sommes promenés aux *alentours* du lac.
+  Wir sind in der *Umgebung* des Sees spazieren gegangen.
+
+  Les gens des *alentours* se sont rassemblés sur la place du village.
+  Die Menschen aus der *Umgebung* haben sich auf dem Dorfplatz versammelt.
+
+  Tout avait brûlé aux *alentours* du village après l'incendie.
+  Nach dem Brand war alles in der *Umgebung* des Dorfes niedergebrannt.
+
+  Les châteaux *d'alentour* datent tous du Moyen Âge.
+  Die *umliegenden* Schlösser stammen alle aus dem Mittelalter.
+
+  Un loup rôdait *alentour* pendant la nuit.
+  Ein Wolf streifte während der Nacht *umher*.
+
+  Les restaurants aux *alentours* sont tous excellents.
+  Die Restaurants in der *Umgebung* sind alle ausgezeichnet.
+
+  La neige recouvrait tous les champs *alentour*.
+  Der Schnee bedeckte alle *umliegenden* Felder.
+
+  Elle connaît bien les *alentours* de sa nouvelle maison.
+  Sie kennt die *Umgebung* ihres neuen Hauses gut.
+
+  Les enfants jouaient dans les jardins *d'alentour*.
+  Die Kinder spielten in den *umliegenden* Gärten.
+
+  On entendait les cloches des églises *d'alentour*.
+  Man hörte die Glocken der *umliegenden* Kirchen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

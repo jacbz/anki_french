@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le commissariat local a été chargé de l’enquête.
-  Die örtliche Polizeidienststelle wurde mit den Ermittlungen beauftragt.
+  Le *commissariat* local a été chargé de l'enquête.
+  Das örtliche *Polizeirevier* wurde mit der Untersuchung beauftragt.
 
-  Je dois aller au commissariat pour déposer une plainte.
-  Ich muss zur Polizeiwache gehen, um eine Anzeige zu erstatten.
+  "Je vais au *commissariat* déposer une plainte."
+  "Ich gehe zur *Polizeiwache*, um Anzeige zu erstatten."
+
+  Elle travaille au *commissariat* depuis vingt ans.
+  Sie arbeitet seit zwanzig Jahren im *Polizeirevier*.
+
+  Le *commissariat* de police se trouve au coin de la rue.
+  Die *Polizeiwache* befindet sich an der Straßenecke.
+
+  Le voleur a été conduit au *commissariat* pour interrogatoire.
+  Der Dieb wurde zum *Revier* zum Verhör gebracht.
+
+  Le *commissariat* à l'Énergie atomique a publié un nouveau rapport.
+  Das Atom*amt* hat einen neuen Bericht veröffentlicht.
+
+  Le Haut-*commissariat* des Nations unies aide les réfugiés dans le monde entier.
+  Das UN-Flüchtlings*amt* hilft Flüchtlingen weltweit.
+
+  Il a été nommé au *commissariat* général de la police nationale.
+  Er wurde zum General*amt* der nationalen Polizei ernannt.
+
+  Le *commissariat* de la marine gère la logistique de la flotte.
+  Das Marine*amt* verwaltet die Logistik der Flotte.
+
+  Les services du *commissariat* sont ouverts jour et nuit.
+  Die Dienste des *Polizeireviers* sind Tag und Nacht geöffnet.
+
+  Pierre a dû se rendre au *commissariat* pour faire renouveler sa carte d'identité.
+  Pierre musste zum *Revier* gehen, um seinen Personalausweis erneuern zu lassen.
+
+  Le nouveau *commissariat* sera inauguré la semaine prochaine.
+  Das neue *Polizeirevier* wird nächste Woche eingeweiht.
+
+  Les témoins ont été convoqués au *commissariat* pour leur déposition.
+  Die Zeugen wurden zur *Polizeiwache* für ihre Aussage vorgeladen.
+
+  Le *commissariat* de l'air supervise les opérations logistiques.
+  Das Luftwaffen*amt* überwacht die logistischen Operationen.
+
+  Le Haut-*commissariat* a envoyé une mission d'observation dans la région.
+  Das Hochkommissars*amt* hat eine Beobachtermission in die Region entsandt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mon successeur sera comme un lion furieux.
-  Mein Nachfolger wird wie ein wütender Löwe sein.
+  Mon *successeur* sera comme un lion furieux.
+  Mein *Nachfolger* wird wie ein wütender Löwe sein.
 
-  Le successeur du président a été élu.
-  Der Nachfolger des Präsidenten wurde gewählt.
+  Elle a désigné sa fille comme *successeur* à la tête de l'entreprise.
+  Sie hat ihre Tochter als *Nachfolgerin* an der Spitze des Unternehmens bestimmt.
 
-  Marie, la fille du ministre, est la successeure présumée de son père.
-  Marie, die Tochter des Ministers, ist die Nachfolgekandidatin ihres Vaters.
+  Pierre est considéré comme le *successeur* présumé du directeur actuel.
+  Pierre gilt als mutmaßlicher *Nachfolger* des aktuellen Direktors.
 
-  Jean passe pour être le successeur du chef du parti, malgré son jeune âge.
-  Jean gilt als Nachfolgekandidat für den Parteivorsitzenden, trotz seines jungen Alters.
+  En tant que *successeur* de Mozart, Beethoven a révolutionné la musique classique.
+  Als Mozarts *Nachfolger* revolutionierte Beethoven die klassische Musik.
+
+  Les *successeurs* de Newton ont continué à développer ses théories.
+  Die *Nachfolger* Newtons entwickelten seine Theorien weiter.
+
+  Le jeune roi s'est révélé être un digne *successeur* de son père.
+  Der junge König erwies sich als würdiger *Nachfolger* seines Vaters.
+
+  Marie est la seule *successeur* légale de sa grand-mère.
+  Marie ist die einzige rechtmäßige *Erbin* ihrer Großmutter.
+
+  Le pape François est le *successeur* du pape Benoît XVI.
+  Papst Franziskus ist der *Nachfolger* von Papst Benedikt XVI.
+
+  Après sa retraite, Thomas cherche un *successeur* pour son cabinet médical.
+  Nach seiner Pensionierung sucht Thomas einen *Nachfolger* für seine Arztpraxis.
+
+  Les *successeurs* de Picasso ont créé leur propre style unique.
+  Die *Nachfolger* Picassos haben ihren eigenen einzigartigen Stil entwickelt.
+
+  Le conseil d'administration n'a pas encore choisi de *successeur*.
+  Der Vorstand hat noch keinen *Nachfolger* gewählt.
+
+  En tant que *successeur* légitime, il héritera de la propriété familiale.
+  Als rechtmäßiger *Erbe* wird er das Familieneigentum erben.
+
+  Le nouveau président s'est montré un indigne *successeur*.
+  Der neue Präsident erwies sich als unwürdiger *Nachfolger*.
+
+  Les *successeurs* de cette dynastie ont régné pendant trois siècles.
+  Die *Nachfolger* dieser Dynastie herrschten drei Jahrhunderte lang.
+
+  Ce jeune écrivain est considéré comme le *successeur* spirituel de Victor Hugo.
+  Dieser junge Schriftsteller gilt als geistiger *Nachfolger* von Victor Hugo.
+
+  Sans *successeur* pour reprendre l'entreprise, il a dû la vendre.
+  Ohne *Nachfolger* für die Firma musste er sie verkaufen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

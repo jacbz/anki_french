@@ -13,14 +13,38 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous avons toujours travaillé efficacement ensemble.
-  Wir haben immer effektiv zusammengearbeitet.
+  Nous avons toujours travaillé *efficacement* ensemble.
+  Wir haben immer *effizient* zusammengearbeitet.
 
-  Il a travaillé efficacement toute la journée.
-  Er hat den ganzen Tag effektiv gearbeitet.
+  Cette nouvelle machine traite les données très *efficacement*.
+  Diese neue Maschine verarbeitet die Daten sehr *effizient*.
 
-  Il faut agir efficacement pour résoudre ce problème.
-  Man muss gut wirken, um dieses Problem zu lösen.
+  Pour agir *efficacement*, il faut d'abord analyser la situation.
+  Um *wirksam* zu handeln, muss man zuerst die Situation analysieren.
+
+  Le médicament a agi *efficacement* contre la douleur.
+  Das Medikament hat *wirksam* gegen die Schmerzen gewirkt.
+
+  L'équipe a *efficacement* résolu le problème en moins d'une heure.
+  Das Team hat das Problem in weniger als einer Stunde *effizient* gelöst.
+
+  Ces outils nous permettent de communiquer plus *efficacement*.
+  Diese Werkzeuge ermöglichen es uns, *effizienter* zu kommunizieren.
+
+  Le nouveau système fonctionne très *efficacement*.
+  Das neue System arbeitet sehr *effizient*.
+
+  Les pompiers sont intervenus *efficacement* pour maîtriser l'incendie.
+  Die Feuerwehr hat den Brand *effektiv* unter Kontrolle gebracht.
+
+  Il faut organiser *efficacement* son temps pour réussir ses examens.
+  Man muss seine Zeit *effizient* einteilen, um die Prüfungen zu bestehen.
+
+  Notre équipe a géré *efficacement* la crise.
+  Unser Team hat die Krise *effektiv* bewältigt.
+
+  Les ressources ont été utilisées *efficacement* dans ce projet.
+  Die Ressourcen wurden in diesem Projekt *effizient* eingesetzt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

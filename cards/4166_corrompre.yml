@@ -13,11 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le régime actuel me semble absolument corrompu.
-  Das derzeitige Regime scheint mir absolut korrupt zu sein.
+  Le régime actuel me semble absolument *corrompu*.
+  Das aktuelle Regime erscheint mir absolut *verdorben*.
 
-  Il a été condamné pour avoir corrompu un fonctionnaire.
-  Er wurde verurteilt, weil er einen Beamten bestochen hat.
+  Les chaleurs extrêmes ont *corrompu* toute la nourriture dans le réfrigérateur en panne.
+  Die extreme Hitze hat alle Lebensmittel im kaputten Kühlschrank *verdorben*.
+
+  L'inspecteur a découvert que plusieurs policiers s'étaient laissés *corrompre*.
+  Der Inspektor hat entdeckt, dass sich mehrere Polizisten *bestechen* ließen.
+
+  La mauvaise influence de ses amis l'a progressivement *corrompue*.
+  Der schlechte Einfluss seiner Freunde hat sie nach und nach *verdorben*.
+
+  Les eaux usées ont *corrompu* la source d'eau potable du village.
+  Das Abwasser hat die Trinkwasserquelle des Dorfes *verseucht*.
+
+  Le temps finit par *corrompre* même les plus beaux souvenirs.
+  Die Zeit lässt selbst die schönsten Erinnerungen *verblassen*.
+
+  Le copiste médiéval a involontairement *corrompu* le texte original.
+  Der mittelalterliche Kopist hat den Originaltext unabsichtlich *verfälscht*.
+
+  Ces émissions de télévision stupides *corrompent* le goût du public.
+  Diese dummen Fernsehsendungen *verderben* den Geschmack des Publikums.
+
+  L'argent facile peut rapidement *corrompre* les valeurs morales.
+  Schnelles Geld kann moralische Werte rasch *verderben*.
+
+  Les criminels ont tenté de *corrompre* le jury avant le procès.
+  Die Kriminellen haben versucht, die Jury vor dem Prozess zu *bestechen*.
+
+  La langue s'est progressivement *corrompue* au fil des siècles.
+  Die Sprache ist im Laufe der Jahrhunderte *verfallen*.
+
+  Ces emprunts étrangers inutiles *corrompent* notre belle langue.
+  Diese unnötigen Fremdwörter *verderben* unsere schöne Sprache.
+
+  Le pouvoir absolu finit toujours par *corrompre* ceux qui le détiennent.
+  Absolute Macht *verdirbt* am Ende immer diejenigen, die sie besitzen.
+
+  L'atmosphère était *corrompue* par des gaz toxiques.
+  Die Atmosphäre war durch giftige Gase *verseucht*.
+
+  Les témoins se sont laissés *corrompre* par des promesses d'argent.
+  Die Zeugen ließen sich durch Geldversprechen *bestechen*.
+
+  La viande s'est rapidement *corrompue* dans la chaleur.
+  Das Fleisch ist in der Hitze schnell *verdorben*.
+
+  Son amour pour l'argent l'a complètement *corrompu*.
+  Seine Geldgier hat ihn völlig *verdorben*.
+
+  Le fonctionnaire a refusé de se laisser *corrompre*.
+  Der Beamte weigerte sich, sich *bestechen* zu lassen.
+
+  Ces valeurs morales se sont progressivement *corrompues*.
+  Diese moralischen Werte sind allmählich *verfallen*.
+
+  L'entreprise a essayé de *corrompre* les responsables politiques.
+  Die Firma hat versucht, die politischen Verantwortlichen zu *bestechen*.
+
+  La société de consommation *corrompt* nos enfants.
+  Die Konsumgesellschaft *verdirbt* unsere Kinder.
+
+  Les traditions anciennes se sont peu à peu *corrompues*.
+  Die alten Traditionen sind nach und nach *verfallen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

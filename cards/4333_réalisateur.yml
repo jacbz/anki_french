@@ -13,17 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Quand le réalisateur dit « écoutez », vous écoutez.
-  Wenn der Regisseur sagt: „Hören Sie zu“, hören Sie zu.
+  Quand le *réalisateur* dit « écoutez », vous écoutez.
+  Wenn der *Regisseur* "Hören Sie zu" sagt, hören Sie zu.
 
-  Le réalisateur a remporté de nombreux prix pour son dernier film.
-  Der Regisseur hat für seinen letzten Film viele Preise gewonnen.
+  Le *réalisateur* du documentaire a passé trois ans à filmer les gorilles.
+  Der *Regisseur* der Dokumentation hat drei Jahre damit verbracht, die Gorillas zu filmen.
 
-  Elle est la réalisatrice du programme d'aide aux étudiants.
-  Sie ist die Programmgestalterin für die Unterstützung von Studenten.
+  Cette *réalisatrice* de talent vient de remporter son deuxième Oscar.
+  Diese talentierte *Regisseurin* hat gerade ihren zweiten Oscar gewonnen.
 
-  Il est le réalisateur des programmes télévisés de la chaîne.
-  Er ist der Programmgestalter für die Fernsehprogramme des Senders.
+  Marie travaille comme assistante *réalisatrice* sur le nouveau film de Spielberg.
+  Marie arbeitet als *Regieassistentin* am neuen Film von Spielberg.
+
+  Le *réalisateur* du journal télévisé a dû modifier le programme en dernière minute.
+  Der *Sendeleiter* der Nachrichtensendung musste das Programm in letzter Minute ändern.
+
+  Cette *réalisatrice* est connue pour ses films d'animation innovants.
+  Diese *Regisseurin* ist für ihre innovativen Animationsfilme bekannt.
+
+  Le *réalisateur* du programme radio cherche de nouveaux talents.
+  Der *Sendeleiter* des Radioprogramms sucht nach neuen Talenten.
+
+  Les *réalisateurs* expérimentés transmettent leur savoir aux jeunes cinéastes.
+  Erfahrene *Regisseure* geben ihr Wissen an junge Filmemacher weiter.
+
+  La *réalisatrice* a su donner vie à ce projet architectural ambitieux.
+  Die *Gestalterin* hat es geschafft, diesem ambitionierten Architekturprojekt Leben einzuhauchen.
+
+  "Je veux devenir *réalisatrice* de documentaires", a déclaré Sophie.
+  "Ich möchte *Regisseurin* von Dokumentarfilmen werden", erklärte Sophie.
+
+  Le *réalisateur* des programmes culturels prépare une nouvelle émission.
+  Der *Programmgestalter* der Kultursendungen bereitet eine neue Show vor.
+
+  Cette *réalisatrice* de fiction radiophonique crée des univers sonores fascinants.
+  Diese *Sendeleiterin* von Radiohörspielen erschafft faszinierende Klangwelten.
+
+  Le *réalisateur* a transformé son invention en produit commercial.
+  Der *Realisator* hat seine Erfindung in ein kommerzielles Produkt verwandelt.
+
+  La *réalisatrice* a su adapter le roman tout en respectant l'œuvre originale.
+  Die *Regisseurin* hat es geschafft, den Roman zu adaptieren und dabei das Originalwerk zu respektieren.
+
+  Les *réalisateurs* et producteurs se sont réunis pour discuter du budget.
+  Die *Regisseure* und Produzenten haben sich getroffen, um über das Budget zu sprechen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

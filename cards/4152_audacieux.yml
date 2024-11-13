@@ -13,14 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il est temps de prendre des décisions audacieuses.
-  Es ist an der Zeit, mutige Entscheidungen zu treffen.
+  Il est temps de prendre des décisions *audacieuses*.
+  Es ist Zeit, *gewagte* Entscheidungen zu treffen.
 
-  Il a fait une proposition audacieuse.
-  Er hat einen kühnen Vorschlag gemacht.
+  La fortune sourit aux *audacieux*.
+  Das Glück ist mit den *Kühnen*.
 
-  C'est un audacieux ! Il a osé grimper jusqu'au sommet de la montagne sans aucune protection.
-  Der ist vielleicht waghalsig! Er hat es gewagt, bis zum Gipfel des Berges zu klettern, ohne jegliche Sicherung.
+  Paul a fait une proposition très *audacieuse* qui a surpris tout le monde.
+  Paul hat einen sehr *gewagten* Vorschlag gemacht, der alle überrascht hat.
+
+  Cette jeune femme *audacieuse* n'a pas peur des défis.
+  Diese *kühne* junge Frau hat keine Angst vor Herausforderungen.
+
+  Son style vestimentaire est particulièrement *audacieux*.
+  Sein Kleidungsstil ist besonders *gewagt*.
+
+  Les *audacieux* réussissent souvent là où les autres échouent.
+  Die *Kühnen* haben oft dort Erfolg, wo andere scheitern.
+
+  Cette théorie scientifique était très *audacieuse* pour son époque.
+  Diese wissenschaftliche Theorie war für ihre Zeit sehr *kühn*.
+
+  Marie est connue pour ses idées *audacieuses*.
+  Marie ist für ihre *kühnen* Ideen bekannt.
+
+  Le plan d'évasion était particulièrement *audacieux*.
+  Der Fluchtplan war besonders *gewagt*.
+
+  Ce peintre est célèbre pour ses compositions *audacieuses*.
+  Dieser Maler ist für seine *gewagten* Kompositionen berühmt.
+
+  L'architecte a créé un design *audacieux* pour ce nouveau bâtiment.
+  Der Architekt hat ein *gewagtes* Design für dieses neue Gebäude geschaffen.
+
+  Cette start-up a adopté une stratégie marketing *audacieuse*.
+  Dieses Start-up hat eine *gewagte* Marketingstrategie gewählt.
+
+  Son comportement *audacieux* lui a valu une promotion.
+  Sein *kühnes* Verhalten hat ihm eine Beförderung eingebracht.
+
+  Les critiques ont salué cette interprétation *audacieuse* du classique.
+  Die Kritiker lobten diese *gewagte* Interpretation des Klassikers.
+
+  Ce roman présente une structure narrative *audacieuse*.
+  Dieser Roman hat eine *kühne* Erzählstruktur.
+
+  L'explorateur *audacieux* s'est lancé seul dans l'aventure.
+  Der *wagemutige* Entdecker hat sich allein ins Abenteuer gestürzt.
+
+  Cette réforme *audacieuse* a transformé le système éducatif.
+  Diese *kühne* Reform hat das Bildungssystem verändert.
+
+  Les innovations *audacieuses* de cette entreprise ont révolutionné le marché.
+  Die *gewagten* Innovationen dieses Unternehmens haben den Markt revolutioniert.
+
+  Son génie *audacieux* a changé notre façon de voir le monde.
+  Sein *kühner* Geist hat unsere Sicht auf die Welt verändert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

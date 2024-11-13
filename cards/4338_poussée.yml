@@ -13,29 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Une petite poussée dans n’importe quelle direction suffira.
-  Ein kleiner Schubs in eine beliebige Richtung genügt.
+  Une petite *poussée* dans n'importe quelle direction suffira.
+  Ein kleiner *Stoß* in irgendeine Richtung wird genügen.
 
-  La poussée d’Archimède
-  Der Auftrieb nach Archimedes
+  La *poussée* des vagues a fait chavirer le bateau.
+  Der *Druck* der Wellen brachte das Boot zum Kentern.
 
-  La poussée de la fusée était si puissante qu'elle a fait trembler le sol.
-  Der Raketenschub war so stark, dass die Erde bebte.
+  La *poussée* d'Archimède explique pourquoi certains objets flottent.
+  Der *Auftrieb* nach Archimedes erklärt, warum manche Objekte schwimmen.
 
-  La poussée de fièvre a empiré pendant la nuit, obligeant Marie à consulter un médecin.
-  Der Fieberschub hat sich während der Nacht verschlimmert, sodass Marie einen Arzt aufsuchen musste.
+  Les arcs-boutants contrebalancent la *poussée* latérale de la cathédrale.
+  Die Strebepfeiler gleichen den seitlichen *Druck* der Kathedrale aus.
 
-  La poussée de la demande a entraîné une augmentation des prix.
-  Der Nachfragesog hat zu einem Preisanstieg geführt.
+  La *poussée* des réacteurs permet à l'avion de décoller.
+  Der *Schub* der Triebwerke ermöglicht dem Flugzeug den Start.
 
-  Le serveur a écarté Jean d'une poussée de l'épaule pour passer.
-  Der Kellner hat Jean mit der Schulter beiseitedrängt, um durchzukommen.
+  Julie a eu une forte *poussée* de fièvre dans la nuit.
+  Julie hatte in der Nacht einen starken *Fieberschub*.
 
-  La poussée de croissance a été particulièrement intense pendant l'adolescence.
-  Der Wachstumsschub war in der Pubertät besonders stark.
+  L'adolescent traverse une importante *poussée* de croissance.
+  Der Jugendliche macht einen bedeutenden *Wachstumsschub* durch.
 
-  La poussée des investissements a stimulé l'économie.
-  Der Investitionsschub hat die Wirtschaft angekurbelt.
+  Une nouvelle *poussée* d'acné est apparue sur son visage.
+  Ein neuer *Ausbruch* von Akne zeigte sich in seinem Gesicht.
+
+  Les scientifiques ont mesuré la *poussée* verticale de la fusée.
+  Die Wissenschaftler haben den vertikalen *Schub* der Rakete gemessen.
+
+  La *poussée* du vent a fait tomber plusieurs arbres.
+  Der *Stoß* des Windes hat mehrere Bäume umgeworfen.
+
+  D'une *poussée* de l'épaule, Marc a ouvert la porte bloquée.
+  Mit einem *Stoß* der Schulter öffnete Marc die blockierte Tür.
+
+  Les économistes s'inquiètent de la récente *poussée* de l'inflation.
+  Die Ökonomen sind besorgt über den jüngsten *Anstieg* der Inflation.
+
+  La *poussée* révolutionnaire a transformé le pays.
+  Der revolutionäre *Drang* hat das Land verändert.
+
+  Une violente *poussée* de la foule l'a projeté contre le mur.
+  Ein heftiger *Stoß* der Menge schleuderte ihn gegen die Wand.
+
+  Le barrage a cédé sous la *poussée* des eaux.
+  Der Damm brach unter dem *Druck* des Wassers.
+
+  Thomas ressent une forte *poussée* d'adrénaline avant chaque compétition.
+  Thomas spürt einen starken *Schub* Adrenalin vor jedem Wettkampf.
+
+  La *poussée* des cèpes a été exceptionnelle cette année.
+  Der *Wachstumsschub* der Steinpilze war dieses Jahr außergewöhnlich.
+
+  Une nouvelle *poussée* dentaire perturbe le sommeil du bébé.
+  Ein neuer Zahn*schub* stört den Schlaf des Babys.
+
+  Les médecins surveillent attentivement chaque *poussée* de la maladie.
+  Die Ärzte überwachen aufmerksam jeden *Schub* der Krankheit.
+
+  La *poussée* du pied détermine la hauteur du saut.
+  Der *Abdruck* des Fußes bestimmt die Sprunghöhe.
+
+  L'équipe a résisté à la *poussée* des adversaires.
+  Die Mannschaft widerstand dem *Druck* der Gegner.
+
+  L'inverseur de *poussée* a permis de freiner l'avion rapidement.
+  Die *Schub*umkehr ermöglichte es, das Flugzeug schnell zu bremsen.
+
+  Une *poussée* de fanatisme a secoué la région.
+  Eine *Welle* des Fanatismus erschütterte die Region.
+
+  Les ingénieurs calculent la *poussée* hydrostatique sur les parois du barrage.
+  Die Ingenieure berechnen den hydrostatischen *Druck* auf die Staumauern.
+
+  La *poussée* de l'opposition aux élections a surpris tout le monde.
+  Der *Vormarsch* der Opposition bei den Wahlen überraschte alle.
+
+  Les premiers signes de la puberté incluent une *poussée* de la barbe.
+  Die ersten Anzeichen der Pubertät umfassen einen *Wachstumsschub* des Bartes.
+
+  Cette structure doit résister à la *poussée* horizontale du vent.
+  Diese Struktur muss dem horizontalen *Druck* des Windes standhalten.
+
+  L'architecte a renforcé les murs pour supporter la *poussée* de la voûte.
+  Der Architekt verstärkte die Wände, um dem *Druck* des Gewölbes standzuhalten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

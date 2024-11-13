@@ -13,23 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce projet d’extraction minière constitue une agréable occasion de développement.
-  Dieses Bergbauprojekt stellt eine angenehme Entwicklungsmöglichkeit dar.
+  Ce projet d'*extraction* minière constitue une agréable occasion de développement.
+  Dieses *Bergbau*projekt stellt eine gute Entwicklungsmöglichkeit dar.
 
-  L’extraction de l’huile d’olive est une étape importante.
-  Die Gewinnung von Olivenöl ist ein wichtiger Schritt.
+  L'*extraction* du pétrole en mer du Nord est en baisse depuis dix ans.
+  Die Öl*förderung* in der Nordsee ist seit zehn Jahren rückläufig.
 
-  L'extraction de pétrole est une activité importante pour l'économie du pays.
-  Die Ölförderung ist ein wichtiger Wirtschaftsfaktor für das Land.
+  Les coûts d'*extraction* du cuivre ont considérablement augmenté.
+  Die *Förderungs*kosten für Kupfer sind erheblich gestiegen.
 
-  Pierre est de haute extraction, il vient d'une famille noble.
-  Pierre ist von hoher Herkunft, er stammt aus einem Adelsgeschlecht.
+  Cette nouvelle méthode d'*extraction* de l'uranium est plus écologique.
+  Diese neue Uran*gewinnungs*methode ist umweltfreundlicher.
 
-  L'extraction de matières premières est une industrie cruciale pour l'économie mondiale.
-  Die Rohstoffförderung ist eine entscheidende Industrie für die Weltwirtschaft.
+  L'*extraction* du sable de cette rivière est interdite depuis mai.
+  Die Sand*entnahme* aus diesem Fluss ist seit Mai verboten.
 
-  L'extraction d'uranium est une activité très controversée.
-  Der Uranbergbau ist eine sehr umstrittene Tätigkeit.
+  Le dentiste a programmé l'*extraction* de mes dents de sagesse pour lundi.
+  Der Zahnarzt hat das *Ziehen* meiner Weisheitszähne für Montag geplant.
+
+  L'*extraction* de la balle s'est déroulée sans complications.
+  Die *Entfernung* der Kugel verlief ohne Komplikationen.
+
+  Le processus d'*extraction* du sucre de la betterave est complexe.
+  Der Zucker*gewinnungs*prozess aus Rüben ist komplex.
+
+  La nouvelle machine facilite l'*extraction* des données sensibles.
+  Die neue Maschine erleichtert die Daten*extraktion* sensibler Informationen.
+
+  L'*extraction* du miel demande beaucoup de précautions.
+  Die Honig*gewinnung* erfordert große Vorsicht.
+
+  L'*extraction* de cette racine carrée peut se faire mentalement.
+  Die *Berechnung* dieser Quadratwurzel kann im Kopf erfolgen.
+
+  Notre équipe travaille sur l'*extraction* de métaux précieux.
+  Unser Team arbeitet an der *Gewinnung* von Edelmetallen.
+
+  L'*extraction* du prisonnier s'est faite sous haute surveillance.
+  Die *Überführung* des Gefangenen erfolgte unter strenger Bewachung.
+
+  Les techniques d'*extraction* du marbre ont peu changé depuis un siècle.
+  Die Marmor*abbau*techniken haben sich seit einem Jahrhundert kaum verändert.
+
+  L'*extraction* des matières premières doit respecter l'environnement.
+  Die Rohstoff*förderung* muss umweltverträglich sein.
+
+  La procédure d'*extraction* de la tumeur était délicate.
+  Die *Entfernung* des Tumors war ein heikler Eingriff.
+
+  L'*extraction* des fichiers compressés prend quelques minutes.
+  Das *Entpacken* der komprimierten Dateien dauert einige Minuten.
+
+  L'*extraction* de l'eau de la chaudière doit être régulière.
+  Das *Ablassen* des Wassers aus dem Kessel muss regelmäßig erfolgen.
+
+  Le rendement d'*extraction* de la mine a dépassé les prévisions.
+  Die *Förder*leistung der Mine hat die Erwartungen übertroffen.
+
+  Les coûts d'*extraction* dentaire sont partiellement remboursés.
+  Die Zahn*extraktions*kosten werden teilweise erstattet.
+
+  L'*extraction* sélective permet d'isoler les composants souhaités.
+  Die selektive *Extraktion* ermöglicht die Isolierung der gewünschten Komponenten.
+
+  La nouvelle technologie d'*extraction* réduit la consommation d'énergie.
+  Die neue *Förder*technologie reduziert den Energieverbrauch.
+
+  L'*extraction* automatique des métadonnées facilite l'archivage.
+  Die automatische *Extraktion* der Metadaten erleichtert die Archivierung.
+
+  Le puits d'*extraction* principal nécessite des réparations urgentes.
+  Der Haupt*förder*schacht benötigt dringende Reparaturen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

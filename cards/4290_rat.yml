@@ -13,23 +13,107 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il y a un rat dans la cuisine.
-  In der Küche ist eine Ratte.
+  Il y a un *rat* dans la cuisine.
+  Es ist eine *Ratte* in der Küche.
 
-  Il y a un rat dans la cuisine.
-  Es ist eine Ratte in der Küche.
+  Les *rats* ont envahi les égouts de la ville.
+  Die *Ratten* haben die städtischen Kanäle befallen.
 
-  Les rats d'égout sont souvent porteurs de maladies.
-  Kanalratten sind oft Träger von Krankheiten.
+  Le *rat musqué* nage dans l'étang.
+  Die Bisam*ratte* schwimmt im Teich.
 
-  Les rats quittent le navire avant le naufrage.
-  Die Ratten verlassen das sinkende Schiff, bevor es untergeht.
+  Un *rat des champs* a mangé toutes les graines.
+  Eine Feld*maus* hat alle Samen gefressen.
 
-  S'ennuyer comme un rat mort est une expression qui signifie être très fatigué.
-  Sich zu Tode langweilen ist eine Redewendung, die bedeutet, sehr müde zu sein.
+  J'ai découvert un trou de *rats* derrière l'armoire.
+  Ich habe ein *Ratten*loch hinter dem Schrank entdeckt.
 
-  Être fait comme un rat signifie être piégé.
-  In der Falle sitzen bedeutet, gefangen zu sein.
+  "Ce vieil homme est un vrai *rat*, il ne dépense jamais rien."
+  "Dieser alte Mann ist ein richtiger *Geizkragen*, er gibt nie etwas aus."
+
+  Le *rat d'eau* a construit son nid près de la rivière.
+  Der Wasser*nager* hat sein Nest am Fluss gebaut.
+
+  L'exterminateur va détruire tous les *rats* du bâtiment.
+  Der Kammerjäger wird alle *Ratten* im Gebäude vernichten.
+
+  "*Mon petit rat*, il est temps d'aller au lit."
+  "Mein kleiner *Schatz*, es ist Zeit ins Bett zu gehen."
+
+  "Il a une face de *rat* !"
+  "Er hat eine *Ratten*visage!"
+
+  Le *rat d'Amérique* est plus grand que le *rat* européen.
+  Die Amerika*ratte* ist größer als die europäische *Ratte*.
+
+  "Elle est vraiment *rat*, elle ne partage jamais son goûter."
+  "Sie ist wirklich *geizig*, sie teilt nie ihre Zwischenmahlzeit."
+
+  Ce *rat de bibliothèque* passe toutes ses journées à étudier.
+  Dieser *Bücherwurm* verbringt seine ganzen Tage mit Lernen.
+
+  La police a arrêté un *rat d'hôtel* hier soir.
+  Die Polizei hat gestern Abend einen Hotel*dieb* verhaftet.
+
+  Le *petit rat* de l'Opéra s'entraîne tous les jours.
+  Die kleine Ballett*schülerin* der Oper trainiert jeden Tag.
+
+  "Il s'est fait comme un *rat* dans cette négociation."
+  "Er wurde bei dieser Verhandlung *reingelegt*."
+
+  Les *rats* ont quitté le navire avant le naufrage.
+  Die *Ratten* haben das Schiff vor dem Untergang verlassen.
+
+  Le *rat à peigne* creuse des tunnels complexes.
+  Die Kamm*ratte* gräbt komplexe Tunnel.
+
+  Le *rat palmiste* vit en groupes dans le désert.
+  Die Palmen*ratte* lebt in Gruppen in der Wüste.
+
+  "Je m'ennuie comme un *rat* mort dans ce bureau."
+  "Ich *langweile* mich in diesem Büro *zu Tode*."
+
+  Un *rat marsupial* a été aperçu en Australie.
+  Ein Beutel*nager* wurde in Australien gesichtet.
+
+  La *rate* allaite ses petits dans le grenier.
+  Das *Ratten*weibchen säugt ihre Jungen auf dem Dachboden.
+
+  Le *raton* suit sa mère dans les tunnels.
+  Das *Ratten*baby folgt seiner Mutter durch die Tunnel.
+
+  Cette *rate* défend férocement ses petits.
+  Dieses *Ratten*weibchen verteidigt ihre Jungen wild.
+
+  Le chat a attrapé un gros *rat* hier soir.
+  Die Katze hat gestern Abend eine große *Ratte* gefangen.
+
+  Les scientifiques étudient le comportement des *rats* en laboratoire.
+  Die Wissenschaftler untersuchen das Verhalten von *Ratten* im Labor.
+
+  Un *rat* s'est faufilé sous la porte du garage.
+  Eine *Ratte* ist unter der Garagentür durchgeschlüpft.
+
+  Les *rats* transmettent parfois des maladies dangereuses.
+  *Ratten* übertragen manchmal gefährliche Krankheiten.
+
+  Le piège à *rats* n'a pas fonctionné cette nuit.
+  Die *Ratten*falle hat heute Nacht nicht funktioniert.
+
+  "Ce *rat* de banquier refuse de me prêter de l'argent !"
+  "Dieser *Geizkragen* von Bankier weigert sich, mir Geld zu leihen!"
+
+  La ville a lancé une campagne contre les *rats*.
+  Die Stadt hat eine Kampagne gegen *Ratten* gestartet.
+
+  Le *rat* a rongé tous les câbles électriques.
+  Die *Ratte* hat alle elektrischen Kabel zernagt.
+
+  Les *rats* se multiplient rapidement dans les vieux bâtiments.
+  Die *Ratten* vermehren sich schnell in alten Gebäuden.
+
+  Une colonie de *rats* s'est installée dans l'entrepôt abandonné.
+  Eine *Ratten*kolonie hat sich im verlassenen Lager niedergelassen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

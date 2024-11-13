@@ -13,17 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les frappes aériennes ne vont résoudre aucun problème.
-  Luftschläge werden kein einziges Problem lösen.
+  Les *frappes* aériennes ne vont résoudre aucun problème.
+  Die Luft*schläge* werden kein Problem lösen.
 
-  Il a marqué un but sur une frappe puissante.
-  Er hat ein Tor mit einem kräftigen Schuss erzielt.
+  La *frappe* de cette pièce de monnaie commémorative est magnifique.
+  Die *Prägung* dieser Gedenkmünze ist wunderschön.
 
-  Le texte est à la frappe.
-  Der Text wird gerade geschrieben.
+  Sa *frappe* au piano est délicate et précise.
+  Sein Tasten*anschlag* am Klavier ist zart und präzise.
 
-  Un frappe préventive a été lancée.
-  Ein Präventivschlag wurde gestartet.
+  Le boxeur a une *frappe* puissante qui impressionne ses adversaires.
+  Der Boxer hat einen kraftvollen *Schlag*, der seine Gegner beeindruckt.
+
+  Sa *frappe* du ballon était parfaite et a surpris le gardien.
+  Sein *Schuss* war perfekt und überraschte den Torwart.
+
+  Chaque *frappe* sur le clavier doit être précise pour éviter les erreurs.
+  Jeder *Tastendruck* muss präzise sein, um Fehler zu vermeiden.
+
+  Le manuscrit est encore à la *frappe*, il sera prêt demain.
+  Das Manuskript wird gerade ge*tippt*, es wird morgen fertig sein.
+
+  "Cette petite *frappe* traîne toujours dans le quartier."
+  "Dieser kleine *Halunke* treibt sich immer in der Gegend herum."
+
+  Une *frappe* préventive a été lancée contre les installations militaires.
+  Ein Präventiv*schlag* wurde gegen die militärischen Anlagen geführt.
+
+  J'ai remarqué une faute de *frappe* dans ton message.
+  Mir ist ein Tipp*fehler* in deiner Nachricht aufgefallen.
+
+  La *frappe* sur clavier d'ordinateur demande de la pratique.
+  Das *Tippen* auf der Computertastatur erfordert Übung.
+
+  Le footballeur est connu pour sa *frappe* précise.
+  Der Fußballer ist für seinen präzisen *Schuss* bekannt.
+
+  Voici la première *frappe* de l'article, il faut encore la relire.
+  Hier ist die erste *Niederschrift* des Artikels, sie muss noch Korrektur gelesen werden.
+
+  La *frappe* des médailles d'or olympiques a déjà commencé.
+  Die *Prägung* der olympischen Goldmedaillen hat bereits begonnen.
+
+  Sa technique de *frappe* en boxe s'est beaucoup améliorée.
+  Seine *Schlag*technik beim Boxen hat sich stark verbessert.
+
+  La *frappe* de cette lettre prendra quelques minutes.
+  Das *Tippen* dieses Briefes wird einige Minuten dauern.
+
+  Cette *frappe* de caractères italiques est très élégante.
+  Dieser *Schriftsatz* in Kursivschrift ist sehr elegant.
+
+  La dernière *frappe* du document contient encore des erreurs.
+  Die letzte *Fassung* des Dokuments enthält noch Fehler.
+
+  Le joueur de tennis a une *frappe* remarquable au service.
+  Der Tennisspieler hat einen bemerkenswerten *Schlag* beim Aufschlag.
+
+  La *frappe* des nouvelles pièces en euros commence aujourd'hui.
+  Die *Prägung* der neuen Euro-Münzen beginnt heute.
+
+  "Ces *frappes* du quartier causent beaucoup de problèmes."
+  "Diese *Gauner* aus dem Viertel verursachen viele Probleme."
+
+  Sa *frappe* de balle est devenue légendaire dans le club.
+  Sein Ball*schlag* ist im Verein legendär geworden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

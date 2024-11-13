@@ -13,14 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il avait à cœur le sort des défavorisés.
-  Ihm lag das Schicksal der Unterprivilegierten am Herzen.
+  Il avait à cœur le sort des *défavorisés*.
+  Er kümmerte sich um das Schicksal der *Benachteiligten*.
 
-  Les politiques économiques peuvent défavoriser les plus pauvres.
-  Wirtschaftspolitiken können die Ärmsten benachteiligen.
+  Cette nouvelle loi *défavorise* les petites entreprises.
+  Dieses neue Gesetz *benachteiligt* die kleinen Unternehmen.
 
-  Le directeur a décidé de défavoriser Jean par rapport à Paul pour l'attribution de la bourse d'études.
-  Der Direktor hat beschlossen, Jean im Vergleich zu Paul bei der Vergabe des Stipendiums zu benachteiligen.
+  La réforme scolaire *défavorise* les élèves des zones rurales.
+  Die Schulreform *benachteiligt* die Schüler in ländlichen Gebieten.
+
+  Les changements climatiques *défavorisent* certaines cultures agricoles.
+  Der Klimawandel *beeinträchtigt* bestimmte landwirtschaftliche Kulturen.
+
+  Le système actuel *défavorise* les familles monoparentales.
+  Das aktuelle System *benachteiligt* Alleinerziehende.
+
+  Marie se sent *défavorisée* dans son équipe de travail.
+  Marie fühlt sich in ihrem Arbeitsteam *benachteiligt*.
+
+  L'augmentation des prix *défavorise* particulièrement les retraités.
+  Die Preissteigerung *benachteiligt* besonders die Rentner.
+
+  Le jury a injustement *défavorisé* ce candidat.
+  Die Jury hat diesen Kandidaten zu Unrecht *benachteiligt*.
+
+  Les horaires de bus *défavorisent* les habitants des quartiers périphériques.
+  Die Busfahrzeiten *benachteiligen* die Bewohner der Außenbezirke.
+
+  Cette décision va *défavoriser* notre région.
+  Diese Entscheidung wird unsere Region *benachteiligen*.
+
+  Le nouveau règlement *défavorise* les étudiants internationaux.
+  Die neue Regelung *benachteiligt* internationale Studierende.
+
+  Les conditions météorologiques ont *défavorisé* la récolte cette année.
+  Die Wetterbedingungen haben die Ernte dieses Jahr *beeinträchtigt*.
+
+  Son père l'a *défavorisé* dans l'héritage par rapport à ses frères.
+  Sein Vater hat ihn im Vergleich zu seinen Brüdern beim Erbe *benachteiligt*.
+
+  La crise économique *défavorise* les jeunes entrepreneurs.
+  Die Wirtschaftskrise *benachteiligt* junge Unternehmer.
+
+  Les quartiers *défavorisés* manquent souvent d'infrastructures culturelles.
+  *Benachteiligte* Viertel haben oft zu wenig kulturelle Einrichtungen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

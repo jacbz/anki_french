@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils se marièrent à la mairie.
-  Sie heirateten auf dem Standesamt.
+  Ils se marièrent à la *mairie*.
+  Sie heirateten im *Rathaus*.
 
-  Je dois aller à la mairie pour obtenir un permis.
-  Ich muss zum Rathaus gehen, um eine Genehmigung zu bekommen.
+  La *mairie* organise une fête pour les nouveaux habitants.
+  Das *Rathaus* organisiert ein Fest für die neuen Einwohner.
+
+  Les travaux de rénovation de la *mairie* ont duré deux ans.
+  Die Renovierung des *Rathauses* hat zwei Jahre gedauert.
+
+  Il faut aller à la *mairie* pour faire refaire sa carte d'identité.
+  Man muss ins *Rathaus* gehen, um seinen Personalausweis erneuern zu lassen.
+
+  La nouvelle *mairie* a multiplié les services en ligne.
+  Die neue *Stadtverwaltung* hat die Online-Dienste ausgebaut.
+
+  Les employés de la *mairie* sont en grève aujourd'hui.
+  Die Angestellten der *Stadtverwaltung* streiken heute.
+
+  Pierre occupe la *mairie* depuis dix ans.
+  Pierre hat seit zehn Jahren das *Bürgermeisteramt* inne.
+
+  La *mairie* a décidé de rénover le parc municipal.
+  Die *Stadtverwaltung* hat beschlossen, den Stadtpark zu renovieren.
+
+  Une annexe de la *mairie* va ouvrir dans le quartier nord.
+  Eine Zweigstelle des *Rathauses* wird im Nordviertel eröffnen.
+
+  Tous les services de la *mairie* seront fermés pendant les fêtes.
+  Alle Dienste des *Rathauses* werden während der Feiertage geschlossen sein.
+
+  Sophie travaille comme secrétaire à la *mairie*.
+  Sophie arbeitet als Sekretärin in der *Stadtverwaltung*.
+
+  Les horaires de la *mairie* ont été modifiés pendant l'été.
+  Die Öffnungszeiten des *Rathauses* wurden während des Sommers geändert.
+
+  La *mairie* a mis en place un nouveau système de rendez-vous en ligne.
+  Die *Stadtverwaltung* hat ein neues Online-Terminvergabesystem eingeführt.
+
+  Pendant sa *mairie*, il a construit trois écoles.
+  Während seiner Zeit als *Bürgermeister* hat er drei Schulen gebaut.
+
+  Marie a gagné la *mairie* aux dernières élections municipales.
+  Marie hat bei den letzten Kommunalwahlen das *Bürgermeisteramt* gewonnen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

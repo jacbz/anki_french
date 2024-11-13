@@ -13,41 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Oui, vous êtes le titulaire.
-  Ja, Sie sind der Oberarzt.
+  Oui, vous êtes le *titulaire*.
+  Ja, Sie sind der *Inhaber*.
 
-  Le titulaire du compte doit signer le contrat.
-  Der Kontoinhaber muss den Vertrag unterschreiben.
+  Mon frère est professeur *titulaire* depuis cinq ans.
+  Mein Bruder ist seit fünf Jahren *verbeamteter* Lehrer.
 
-  Marie est titulaire d'un poste important dans l'entreprise.
-  Marie ist Inhaberin eines wichtigen Amtes in der Firma.
+  Elle est *titulaire* d'un doctorat en physique.
+  Sie *besitzt* einen Doktortitel in Physik.
 
-  Elle est titulaire d'une carte de membre du club.
-  Sie ist Besitzerin einer Mitgliedskarte des Clubs.
+  Les *titulaires* de la carte de bibliothèque peuvent emprunter jusqu'à dix livres.
+  Die *Inhaber* des Bibliotheksausweises können bis zu zehn Bücher ausleihen.
 
-  Il est titulaire d'une garantie sur son nouveau réfrigérateur.
-  Er ist Garantieempfänger für seinen neuen Kühlschrank.
+  Je suis devenu *titulaire* d'un poste à l'université.
+  Ich wurde *ordentlicher* Professor an der Universität.
 
-  Jean est titulaire d'un diplôme de médecine.
-  Jean besitzt ein Medizindiplom.
+  La *titulaire* du compte doit signer ici.
+  Die Konto*inhaberin* muss hier unterschreiben.
 
-  Il est titulaire d'un poste de direction dans la société.
-  Er bekleidet eine Führungsposition in der Firma.
+  Le *titulaire* de la carte bancaire n'était pas présent.
+  Der *Besitzer* der Bankkarte war nicht anwesend.
 
-  Elle est titulaire d'un diplôme d'ingénieur.
-  Sie besitzt ein Ingenieursdiplom.
+  Cette année, nous avons recruté trois nouveaux professeurs *titulaires*.
+  Dieses Jahr haben wir drei neue *verbeamtete* Professoren eingestellt.
 
-  Ils sont titulaires d'un droit de jouissance sur le terrain.
-  Sie nutznießen das Grundstück.
+  Êtes-vous *titulaire* du permis de conduire ?
+  Sind Sie im *Besitz* eines Führerscheins?
 
-  Elle est titulaire d'une carte permanente pour le musée.
-  Sie ist Dauerkarteninhaberin für das Museum.
+  La *titulaire* de la carte de transport doit voyager avec une pièce d'identité.
+  Die *Inhaberin* der Fahrkarte muss mit einem Ausweis reisen.
 
-  Il est titulaire de l'autorisation de construire.
-  Er ist Bewilligungsinhaber für den Bau.
+  Notre équipe compte cinq employés *titulaires* et trois stagiaires.
+  Unser Team besteht aus fünf *fest angestellten* Mitarbeitern und drei Praktikanten.
 
-  Ils sont titulaires d'un droit de vote.
-  Sie sind wahlberechtigt.
+  En tant que *titulaire* d'une carte permanente, vous bénéficiez d'avantages exclusifs.
+  Als Dauerkarten*inhaber* genießen Sie exklusive Vorteile.
+
+  Le *titulaire* de la pension reçoit son versement chaque mois.
+  Der *Bezieher* der Rente erhält seine Zahlung jeden Monat.
+
+  Les *titulaires* d'un master peuvent postuler à ce poste.
+  *Inhaber* eines Masterabschlusses können sich auf diese Stelle bewerben.
+
+  Seul le *titulaire* peut accéder à ces informations confidentielles.
+  Nur der *Berechtigte* hat Zugang zu diesen vertraulichen Informationen.
+
+  Marie est devenue *titulaire* après sa période d'essai.
+  Marie wurde nach ihrer Probezeit *fest angestellt*.
+
+  Les *titulaires* de revenus fixes doivent déclarer leurs impôts avant mars.
+  Die *Bezieher* fester Einkommen müssen ihre Steuern vor März erklären.
+
+  Le nouveau *titulaire* du poste prendra ses fonctions lundi prochain.
+  Der neue *Inhaber* der Stelle wird nächsten Montag sein Amt antreten.
+
+  Tous les *titulaires* d'un billet peuvent assister au concert.
+  Alle *Besitzer* einer Eintrittskarte können das Konzert besuchen.
+
+  La *titulaire* précédente a pris sa retraite le mois dernier.
+  Die vorherige *Inhaberin* ist letzten Monat in den Ruhestand gegangen.
+
+  Je suis *titulaire* de ce poste depuis plus de dix ans.
+  Ich *bekleide* dieses Amt seit mehr als zehn Jahren.
+
+  Les *titulaires* doivent renouveler leur abonnement avant janvier.
+  Die *Inhaber* müssen ihr Abonnement vor Januar erneuern.
+
+  La *titulaire* de la carte de fidélité accumule des points.
+  Die *Inhaberin* der Kundenkarte sammelt Punkte.
+
+  Seuls les professeurs *titulaires* peuvent diriger des thèses.
+  Nur *ordentliche* Professoren dürfen Doktorarbeiten betreuen.
+
+  Notre département compte douze enseignants *titulaires*.
+  Unsere Abteilung hat zwölf *verbeamtete* Lehrkräfte.
+
+  Les *titulaires* du permis B peuvent conduire cette voiture.
+  Die *Inhaber* des Führerscheins Klasse B dürfen dieses Auto fahren.
+
+  La *titulaire* de la bourse doit maintenir une moyenne de 14/20.
+  Die Stipendiums*inhaberin* muss einen Notendurchschnitt von 14/20 halten.
+
+  Chaque *titulaire* recevra une nouvelle carte d'accès.
+  Jeder *Inhaber* erhält eine neue Zugangskarte.
+
+  Le *titulaire* du compte épargne bénéficie d'un taux préférentiel.
+  Der *Inhaber* des Sparkontos erhält einen Vorzugszins.
+
+  Les *titulaires* d'un doctorat sont prioritaires pour ce poste.
+  Die *Inhaber* eines Doktortitels werden bei dieser Stelle bevorzugt.
+
+  Paul devient *titulaire* de sa classe en septembre.
+  Paul wird im September *verbeamteter* Lehrer seiner Klasse.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

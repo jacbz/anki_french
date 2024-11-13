@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Se séparer explicitement de l’amour.
-  Sich explizit von der Liebe trennen.
+  Se séparer *explicitement* de l'amour.
+  Sich *ausdrücklich* von der Liebe trennen.
 
-  Il a dit explicitement qu’il ne viendrait pas.
-  Er hat ausdrücklich gesagt, dass er nicht kommen würde.
+  Le contrat stipule *explicitement* que vous ne pouvez pas sous-louer l'appartement.
+  Der Vertrag legt *unmissverständlich* fest, dass Sie die Wohnung nicht untervermieten dürfen.
+
+  J'ai *explicitement* demandé à Marie de ne pas venir à la fête.
+  Ich habe Marie *deutlich* gesagt, dass sie nicht zur Party kommen soll.
+
+  Les règles du jeu doivent être *explicitement* énoncées avant de commencer.
+  Die Spielregeln müssen vor Beginn *ausdrücklich* erklärt werden.
+
+  Le professeur a *explicitement* interdit l'utilisation des téléphones pendant l'examen.
+  Der Lehrer hat die Nutzung von Handys während der Prüfung *erklärtermaßen* verboten.
+
+  Il faut mentionner *explicitement* vos sources dans votre travail de recherche.
+  Sie müssen Ihre Quellen in Ihrer Forschungsarbeit *unmissverständlich* angeben.
+
+  La loi précise *explicitement* les droits des consommateurs.
+  Das Gesetz definiert die Rechte der Verbraucher *deutlich*.
+
+  Les participants doivent *explicitement* accepter les conditions de participation.
+  Die Teilnehmer müssen den Teilnahmebedingungen *ausdrücklich* zustimmen.
+
+  Le document ne mentionne pas *explicitement* la date limite.
+  Das Dokument erwähnt den Stichtag nicht *explizit*.
+
+  Les instructions ont été *explicitement* données à tous les employés.
+  Die Anweisungen wurden allen Mitarbeitern *unmissverständlich* mitgeteilt.
+
+  Il a *explicitement* refusé notre offre d'aide.
+  Er hat unser Hilfsangebot *deutlich* abgelehnt.
+
+  Le manuel indique *explicitement* comment utiliser cette fonction.
+  Das Handbuch erklärt *ausdrücklich*, wie diese Funktion zu benutzen ist.
+
+  La politique de l'entreprise *explicitement* interdit la discrimination.
+  Die Unternehmenspolitik verbietet Diskriminierung *erklärtermaßen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

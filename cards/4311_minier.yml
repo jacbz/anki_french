@@ -13,20 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les dépenses de prospection minière ont augmenté.
-  Die Ausgaben für die Mineralexploration stiegen.
+  Les dépenses de prospection *minière* ont augmenté.
+  Die *Bergbau*-Prospektionskosten sind gestiegen.
 
-  Ils ont réussi à miner la montagne.
-  Sie haben es geschafft, den Berg zu sprengen.
+  L'industrie *minière* est très importante pour l'économie de cette région.
+  Die *Bergbau*industrie ist sehr wichtig für die Wirtschaft dieser Region.
 
-  Le bassin minier de la Ruhr a été l'un des plus importants d'Europe.
-  Das Ruhrgebiet war eines der wichtigsten Erzbecken Europas.
+  Le *bassin minier* du Nord emploie des milliers de personnes.
+  Das *Bergbau*gebiet im Norden beschäftigt tausende Menschen.
 
-  La catastrophe minière de 1942 a coûté la vie à plusieurs dizaines de mineurs.
-  Das Grubenunglück von 1942 hat Dutzende von Bergleuten das Leben gekostet.
+  Une terrible catastrophe *minière* a eu lieu hier dans la mine de charbon.
+  Gestern ereignete sich ein schreckliches *Gruben*unglück in der Kohlemine.
 
-  Le train minier transportait le charbon de la mine jusqu'à la centrale électrique.
-  Die Grubenbahn transportierte die Kohle von der Mine zum Kraftwerk.
+  Le petit train *minier* transporte le minerai jusqu'à l'usine.
+  Die kleine *Gruben*bahn transportiert das Erz bis zur Fabrik.
+
+  Cette société *minière* investit beaucoup dans la sécurité.
+  Diese *Bergwerks*gesellschaft investiert viel in die Sicherheit.
+
+  Le nouveau code *minier* définit les règles d'exploitation.
+  Das neue *Bergbau*gesetz definiert die Abbauvorschriften.
+
+  Ce pays *minier* exporte beaucoup de cuivre.
+  Dieses *Bergbau*land exportiert viel Kupfer.
+
+  L'exploitation *minière* respectueuse de l'environnement est possible.
+  Umweltfreundlicher *Bergbau* ist möglich.
+
+  La compagnie *minière* a découvert un nouveau gisement d'or.
+  Die *Bergbau*firma hat eine neue Goldlagerstätte entdeckt.
+
+  Le gisement *minier* contient principalement du fer.
+  Die *Bergbau*lagerstätte enthält hauptsächlich Eisen.
+
+  Les conditions de travail dans l'industrie *minière* se sont améliorées.
+  Die Arbeitsbedingungen in der *Bergbau*industrie haben sich verbessert.
+
+  Cette région *minière* a une longue histoire industrielle.
+  Diese *Bergbau*region hat eine lange industrielle Geschichte.
+
+  La productivité *minière* a doublé depuis l'année dernière.
+  Die *Bergbau*produktivität hat sich seit letztem Jahr verdoppelt.
+
+  L'activité *minière* représente 30% du PIB national.
+  Die *Bergbau*aktivität macht 30% des nationalen BIP aus.
+
+  Les ingénieurs ont optimisé le processus d'extraction *minière*.
+  Die Ingenieure haben den *Bergbau*prozess optimiert.
+
+  La ville s'est développée grâce à l'exploitation *minière*.
+  Die Stadt hat sich dank des *Bergbaus* entwickelt.
+
+  L'entreprise *minière* a modernisé ses équipements.
+  Das *Bergbau*unternehmen hat seine Ausrüstung modernisiert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,38 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  À rome, nous avons pris le bus. Un bus rouge.
-  In Rom fuhren wir mit dem Bus. Ein roter Bus.
+  À Rome, nous avons pris le *bus*. Un *bus* rouge.
+  In Rom nahmen wir den *Bus*. Einen roten *Bus*.
 
-  Je prends le bus pour aller au travail.
-  Ich nehme den Bus zur Arbeit.
+  Ce matin, j'ai raté mon *bus* et je suis arrivé en retard au travail.
+  Heute Morgen habe ich meinen *Bus* verpasst und kam zu spät zur Arbeit.
 
-  C’est moins cher de prendre le bus.
-  Es ist billiger, den Bus zu nehmen.
+  Le *bus* électrique de notre ville est silencieux et écologique.
+  Der Elektro*bus* unserer Stadt ist leise und umweltfreundlich.
 
-  Je suis tombé sur une amie à moi dans le bus.
-  Ich habe im Bus eine Freundin von mir getroffen.
+  Marie attend le *bus* depuis vingt minutes sous la pluie.
+  Marie wartet seit zwanzig Minuten im Regen auf den *Bus*.
 
-  Le bus électrique est un système de transport en commun qui fonctionne à l'électricité.
-  Ein Elektrobus ist ein öffentliches Verkehrsmittel, das mit Strom betrieben wird.
+  Pour notre voyage scolaire, nous avons réservé un *bus* de tourisme confortable.
+  Für unsere Klassenfahrt haben wir einen komfortablen Reise*bus* gebucht.
 
-  Le bus d'adresses transporte les adresses des emplacements de mémoire.
-  Der Adressbus transportiert die Adressen der Speicherorte.
+  L'arrêt de *bus* le plus proche se trouve à cinq minutes à pied.
+  Die nächste *Bus*haltestelle ist fünf Minuten zu Fuß entfernt.
 
-  Le bus de données transporte les données entre les composants du système.
-  Der Datenbus transportiert die Daten zwischen den Komponenten des Systems.
+  Le nouveau *bus* système permet un transfert de données plus rapide.
+  Der neue System*bus* ermöglicht eine schnellere Datenübertragung.
 
-  Le bus de processeur transporte les données entre le processeur et la mémoire.
-  Der Prozessorbus transportiert die Daten zwischen dem Prozessor und dem Speicher.
+  Les horaires du *bus* ont changé pendant les vacances.
+  Die *Bus*fahrpläne haben sich während der Ferien geändert.
 
-  Le bus de commande transporte les signaux de commande entre les composants du système.
-  Der Steuerbus transportiert die Steuersignale zwischen den Komponenten des Systems.
+  Le conducteur du *bus* nous a aidés avec nos bagages.
+  Der *Bus*fahrer hat uns mit unserem Gepäck geholfen.
 
-  Le bus d'extension permet de connecter des périphériques supplémentaires au système.
-  Der Erweiterungsbus ermöglicht es, zusätzliche Peripheriegeräte an das System anzuschließen.
+  Un *bus* de données transmet les informations entre les composants.
+  Ein Daten*bus* überträgt die Informationen zwischen den Komponenten.
 
-  Le bus système est le principal bus du système informatique.
-  Der Systembus ist der Hauptbus des Computersystems.
+  Je préfère prendre le *bus* plutôt que le métro aux heures de pointe.
+  Ich fahre während der Hauptverkehrszeit lieber mit dem *Bus* als mit der U-Bahn.
+
+  Le *bus* est tombé en panne sur l'autoroute.
+  Der *Bus* ist auf der Autobahn liegengeblieben.
+
+  Les ingénieurs ont optimisé le *bus* d'adresses pour améliorer les performances.
+  Die Ingenieure haben den Adress*bus* optimiert, um die Leistung zu verbessern.
+
+  Le dernier *bus* part à minuit de la gare centrale.
+  Der letzte *Bus* fährt um Mitternacht vom Hauptbahnhof ab.
+
+  Tous les *bus* de la ville sont équipés de rampes pour les fauteuils roulants.
+  Alle Stadt*busse* sind mit Rampen für Rollstühle ausgestattet.
+
+  Le *bus* de commande coordonne les opérations du processeur.
+  Der Steuer*bus* koordiniert die Prozessoroperationen.
+
+  La ligne de *bus* 42 sera déviée en raison de travaux.
+  Die *Bus*linie 42 wird wegen Bauarbeiten umgeleitet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

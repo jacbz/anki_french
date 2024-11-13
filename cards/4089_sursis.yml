@@ -13,23 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Une peine d’emprisonnement avec sursis ne suffirait pas.
-  Eine Freiheitsstrafe auf Bewährung würde nicht ausreichen.
+  Une peine d'emprisonnement avec *sursis* ne suffirait pas.
+  Eine Gefängnisstrafe auf *Bewährung* würde nicht ausreichen.
 
-  Le juge a accordé un sursis à l’accusé.
-  Der Richter gewährte dem Angeklagten Bewährung.
+  Le juge lui a accordé un *sursis* pour des raisons de santé.
+  Der Richter hat ihm aus gesundheitlichen Gründen einen *Aufschub* gewährt.
 
-  Le tribunal a décidé de sursis à statuer dans l'affaire, afin de permettre aux parties de trouver un accord à l'amiable.
-  Das Gericht hat eine Aussetzung der Gerichtsentscheidung in dem Fall beschlossen, um den Parteien die Möglichkeit zu geben, eine gütliche Einigung zu erzielen.
+  Elle a obtenu un *sursis* de trois mois pour rembourser ses dettes.
+  Sie hat eine *Fristverlängerung* von drei Monaten bekommen, um ihre Schulden zurückzuzahlen.
 
-  Le condamné est en sursis, ce qui signifie qu'il peut encore éviter la prison s'il se conforme aux conditions fixées par le tribunal.
-  Der Verurteilte hat noch eine Gnadenfrist, das heißt, er kann die Gefängnisstrafe noch vermeiden, wenn er die vom Gericht festgelegten Bedingungen einhält.
+  "Ce vieux commerce est en *sursis* depuis des années."
+  "Dieser alte Laden ist seit Jahren auf *Bewährung*."
 
-  Le juge a accordé un sursis à la détention au prévenu, en attendant le verdict final.
-  Der Richter hat dem Angeklagten einen Haftaufschub gewährt, bis das endgültige Urteil gefällt wird.
+  Le tribunal a prononcé deux ans de prison avec *sursis*.
+  Das Gericht hat zwei Jahre Haft auf *Bewährung* verhängt.
 
-  Le jeune homme a bénéficié d'un sursis à la détention, grâce à l'intervention de son avocat.
-  Der junge Mann hat einen Haftaufschub erhalten, dank der Intervention seines Anwalts.
+  Pierre a bénéficié d'un *sursis* d'incorporation pour finir ses études.
+  Pierre wurde wegen seines Studiums vom Wehrdienst *zurückgestellt*.
+
+  Mon père est gravement malade - il est en *sursis*.
+  Mein Vater ist schwer krank - er lebt auf *Bewährung*.
+
+  Le prévenu a demandé un *sursis* à statuer.
+  Der Angeklagte hat eine *Aussetzung* der Gerichtsentscheidung beantragt.
+
+  Cette entreprise en difficulté a obtenu un *sursis* pour payer ses impôts.
+  Dieses angeschlagene Unternehmen hat einen *Aufschub* für seine Steuerzahlungen erhalten.
+
+  Le juge a révoqué son *sursis* après sa nouvelle infraction.
+  Der Richter hat seine *Bewährung* nach seinem erneuten Verstoß widerrufen.
+
+  La banque nous a accordé un *sursis* de paiement de trois mois.
+  Die Bank hat uns einen Zahlungs*aufschub* von drei Monaten gewährt.
+
+  Ces emplois sont en *sursis* depuis la fusion des entreprises.
+  Diese Arbeitsplätze stehen seit der Unternehmensfusion auf der *Bewährung*.
+
+  Le *sursis* probatoire lui impose des obligations strictes.
+  Die *Bewährung* mit Auflagen erlegt ihm strenge Verpflichtungen auf.
+
+  Suite à sa maladie, il a demandé un *sursis* à la détention.
+  Aufgrund seiner Krankheit hat er einen Haft*aufschub* beantragt.
+
+  À l'expiration du *sursis*, il devra se présenter à la prison.
+  Nach Ablauf des *Aufschubs* muss er sich im Gefängnis melden.
+
+  Le tribunal a accordé un *sursis* avec mise à l'épreuve.
+  Das Gericht hat eine *Bewährung* mit Auflagen verhängt.
+
+  Ce *sursis* n'était qu'un bref moment de répit pour lui.
+  Dieser *Aufschub* war nur eine kurze Atempause für ihn.
+
+  Marie a demandé un *sursis* pour déménager de l'appartement.
+  Marie hat einen *Aufschub* beantragt, um aus der Wohnung auszuziehen.
+
+  Les juges ont ordonné un *sursis* à l'exécution de la peine.
+  Die Richter haben einen *Aufschub* der Strafvollstreckung angeordnet.
+
+  Son avocat a plaidé pour une peine avec *sursis*.
+  Sein Anwalt hat für eine Strafe auf *Bewährung* plädiert.
+
+  Le *sursis* lui donne une chance de prouver sa bonne volonté.
+  Die *Bewährung* gibt ihm eine Chance, seinen guten Willen zu beweisen.
+
+  La décision de *sursis* a été annoncée hier.
+  Die *Aussetzung* wurde gestern verkündet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

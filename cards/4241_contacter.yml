@@ -13,14 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Comment puis-je vous contacter?
-  Wie kann ich Sie kontaktieren?
+  Comment puis-je vous *contacter* ?
+  Wie kann ich Sie *kontaktieren*?
 
-  Je vais contacter mon ami ce soir.
-  Ich werde heute Abend meinen Freund kontaktieren.
+  N'hésitez pas à me *contacter* si vous avez des questions.
+  Zögern Sie nicht, mich zu *kontaktieren*, wenn Sie Fragen haben.
 
-  J'ai essayé de contacter mon ami par téléphone, mais il n'a pas répondu.
-  Ich habe versucht, meinen Freund telefonisch zu erreichen, aber er hat nicht abgehoben.
+  Sarah m'a *contacté* hier soir pour me donner les nouvelles.
+  Sarah hat sich gestern Abend mit mir in *Verbindung gesetzt*, um mir die Neuigkeiten zu erzählen.
+
+  Les journalistes ont essayé de *contacter* le ministre toute la journée.
+  Die Journalisten haben den ganzen Tag versucht, mit dem Minister *Kontakt aufzunehmen*.
+
+  Pour plus d'informations, veuillez *contacter* notre service clientèle.
+  Für weitere Informationen wenden Sie sich bitte an unseren Kundenservice.
+
+  Je vais *contacter* Pierre par téléphone pour lui annoncer la bonne nouvelle.
+  Ich werde Pierre anrufen, um ihm die gute Nachricht zu übermitteln.
+
+  L'entreprise nous a *contactés* par e-mail la semaine dernière.
+  Die Firma hat uns letzte Woche per E-Mail *kontaktiert*.
+
+  Marie essaie de te *contacter* depuis ce matin.
+  Marie versucht seit heute Morgen, dich zu *erreichen*.
+
+  Impossible de *contacter* les secours dans cette zone sans réseau.
+  In diesem Gebiet ohne Netz ist es unmöglich, den Rettungsdienst zu *kontaktieren*.
+
+  Nous vous *contacterons* dès que possible pour fixer un rendez-vous.
+  Wir werden uns schnellstmöglich mit Ihnen in *Verbindung setzen*, um einen Termin zu vereinbaren.
+
+  Le détective privé a réussi à *contacter* tous les témoins.
+  Dem Privatdetektiv ist es gelungen, alle Zeugen zu *kontaktieren*.
+
+  Tu pourras me *contacter* sur mon portable à partir de demain.
+  Du kannst mich ab morgen auf meinem Handy *erreichen*.
+
+  J'ai essayé de *contacter* Marc toute la journée, mais il ne répond pas.
+  Ich habe den ganzen Tag versucht, Marc zu *kontaktieren*, aber er antwortet nicht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

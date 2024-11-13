@@ -13,11 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les particules radioactives tombent avec les gouttes de pluie.
-  Die radioaktiven Partikel fallen mit den Regentropfen.
+  Les particules *radioactives* tombent avec les gouttes de pluie.
+  Die *radioaktiven* Teilchen fallen mit den Regentropfen.
 
-  Cette substance est très radioactif.
-  Diese Substanz ist sehr radioaktiv.
+  Les scientifiques ont découvert un nouvel élément *radioactif* dans le laboratoire.
+  Die Wissenschaftler haben im Labor ein neues *radioaktives* Element entdeckt.
+
+  Le plutonium est considéré comme l'un des matériaux les plus *radioactifs* connus.
+  Plutonium gilt als eines der am stärksten *radioaktiven* Materialien, die bekannt sind.
+
+  L'uranium *radioactif* est stocké dans des conteneurs spéciaux.
+  Das *radioaktive* Uran wird in speziellen Behältern gelagert.
+
+  Un nuage *radioactif* s'est déplacé au-dessus de l'Europe.
+  Eine *radioaktive* Wolke zog über Europa hinweg.
+
+  Les déchets *radioactifs* doivent être stockés pendant des milliers d'années.
+  *Radioaktiver* Abfall muss über Jahrtausende gelagert werden.
+
+  Les chercheurs utilisent des isotopes *radioactifs* pour étudier les processus biologiques.
+  Die Forscher verwenden *radioaktive* Isotope, um biologische Prozesse zu untersuchen.
+
+  La période *radioactive* de cet élément est de cinquante ans.
+  Die *radioaktive* Halbwertszeit dieses Elements beträgt fünfzig Jahre.
+
+  Une source *radioactive* a été détectée près de l'usine.
+  Eine *radioaktive* Quelle wurde in der Nähe der Fabrik entdeckt.
+
+  Les boues *radioactives* ont contaminé la rivière.
+  Der *radioaktive* Schlamm hat den Fluss verseucht.
+
+  Le rayonnement *radioactif* peut endommager les cellules du corps.
+  *Radioaktive* Strahlung kann Körperzellen schädigen.
+
+  Les retombées *radioactives* ont affecté une vaste région.
+  Der *radioaktive* Niederschlag hat ein großes Gebiet betroffen.
+
+  Les traceurs *radioactifs* permettent de suivre le mouvement des molécules.
+  *Radioaktive* Marker ermöglichen es, die Bewegung von Molekülen zu verfolgen.
+
+  La contamination *radioactive* a persisté pendant plusieurs décennies.
+  Die *radioaktive* Verseuchung hielt mehrere Jahrzehnte an.
+
+  Les poussières *radioactives* se sont dispersées dans l'atmosphère.
+  Der *radioaktive* Staub hat sich in der Atmosphäre verteilt.
+
+  La désintégration du noyau *radioactif* libère de l'énergie.
+  Der Zerfall des *radioaktiven* Kerns setzt Energie frei.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,14 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il utilisait les parkings en sous-sol.
-  Er nutzte die Tiefgaragenparkplätze.
+  Il utilisait les parkings en *sous-sol*.
+  Er benutzte die Parkplätze im *Untergeschoss*.
 
-  Les vélos sont dans le sous-sol.
-  Die Fahrräder sind im Keller.
+  Les archives sont conservées au *sous-sol* de la bibliothèque.
+  Die Archive werden im *Untergeschoss* der Bibliothek aufbewahrt.
 
-  Les richesses du sous-sol de ce pays sont considérables.
-  Die Bodenschätze dieses Landes sind beträchtlich.
+  Le *sous-sol* de cette région est riche en pétrole.
+  Der *Untergrund* dieser Region ist reich an Erdöl.
+
+  L'appartement dispose d'une cave au premier *sous-sol*.
+  Die Wohnung verfügt über einen Keller im ersten *Untergeschoss*.
+
+  Le *sous-sol* argileux ne convient pas à la construction.
+  Der tonhaltige *Untergrund* eignet sich nicht zum Bauen.
+
+  Les richesses du *sous-sol* appartiennent à l'État.
+  Die *Boden*schätze gehören dem Staat.
+
+  Nous avons aménagé le *sous-sol* en salle de jeux.
+  Wir haben das *Untergeschoss* als Spielzimmer eingerichtet.
+
+  Le *sous-sol* granitique résiste bien à l'érosion.
+  Der granitische *Untergrund* widersteht der Erosion gut.
+
+  Les scientifiques étudient la composition du *sous-sol* martien.
+  Die Wissenschaftler untersuchen die Zusammensetzung des marsianischen *Untergrunds*.
+
+  La buanderie se trouve au deuxième *sous-sol*.
+  Die Waschküche befindet sich im zweiten *Untergeschoss*.
+
+  L'humidité dans le *sous-sol* pose des problèmes.
+  Die Feuchtigkeit im *Untergeschoss* verursacht Probleme.
+
+  Le *sous-sol* de cette parcelle est particulièrement fertile.
+  Der *Untergrund* dieses Grundstücks ist besonders fruchtbar.
+
+  L'entreprise exploite les minerais du *sous-sol*.
+  Das Unternehmen baut die *Boden*schätze ab.
+
+  Il faut bien aérer le *sous-sol* pour éviter les moisissures.
+  Man muss das *Untergeschoss* gut lüften, um Schimmel zu vermeiden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

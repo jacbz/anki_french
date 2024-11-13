@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On a hérité d’une situation catastrophique.
-  Wir haben eine katastrophale Situation geerbt.
+  On a hérité d'une situation *catastrophique*.
+  Wir haben eine *katastrophale* Situation geerbt.
 
-  La situation est catastrophique.
-  Die Situation ist katastrophal.
+  Les conséquences de cette décision ont été *catastrophiques*.
+  Die Folgen dieser Entscheidung waren *katastrophal*.
+
+  "C'est *catastrophique*, j'ai perdu mes clés !"
+  "Das ist *katastrophal*, ich habe meine Schlüssel verloren!"
+
+  La récolte a été *catastrophique* à cause de la sécheresse.
+  Die Ernte war wegen der Dürre *katastrophal*.
+
+  Les inondations *catastrophiques* ont forcé l'évacuation de la ville.
+  Die *katastrophalen* Überschwemmungen haben zur Evakuierung der Stadt gezwungen.
+
+  Le rendement de cette machine est vraiment *catastrophique*.
+  Die Leistung dieser Maschine ist wirklich *katastrophal*.
+
+  Cette initiative *catastrophique* a ruiné toute sa carrière.
+  Diese *katastrophale* Initiative hat seine ganze Karriere ruiniert.
+
+  Le bilan de l'année s'est révélé *catastrophique*.
+  Die Jahresbilanz hat sich als *katastrophal* erwiesen.
+
+  Son départ précipité a eu des effets *catastrophiques* sur l'entreprise.
+  Sein überstürzter Abgang hatte *katastrophale* Auswirkungen auf das Unternehmen.
+
+  La gestion *catastrophique* du projet a entraîné sa suspension.
+  Das *katastrophale* Projektmanagement führte zu dessen Aussetzung.
+
+  Les résultats du match étaient *catastrophiques*.
+  Die Ergebnisse des Spiels waren *katastrophal*.
+
+  "C'était un spectacle vraiment *catastrophique*."
+  "Das war wirklich eine *katastrophale* Aufführung."
+
+  La situation économique devient de plus en plus *catastrophique*.
+  Die wirtschaftliche Lage wird immer *katastrophaler*.
+
+  Ces conditions météorologiques *catastrophiques* vont durer toute la semaine.
+  Diese *katastrophalen* Wetterbedingungen werden die ganze Woche andauern.
+
+  Le retard *catastrophique* du train a perturbé tous mes plans.
+  Die *katastrophale* Verspätung des Zuges hat alle meine Pläne durcheinander gebracht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

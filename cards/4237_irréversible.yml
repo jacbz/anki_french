@@ -13,17 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Beaucoup de processus sont probablement déjà irréversibles.
-  Viele Prozesse sind wahrscheinlich bereits unumkehrbar.
+  Beaucoup de processus sont probablement déjà *irréversibles*.
+  Viele Prozesse sind wahrscheinlich bereits *unumkehrbar*.
 
-  Cette décision est irréversible.
-  Diese Entscheidung ist unumkehrbar.
+  Cette maladie est malheureusement *irréversible*.
+  Diese Krankheit ist leider *unheilbar*.
 
-  Leur départ était une décision irréversible.
-  Ihr Abschied war eine nicht rückgängig zu machende Entscheidung.
+  Les changements climatiques deviennent de plus en plus *irréversibles*.
+  Die Klimaveränderungen werden zunehmend *irreversibel*.
 
-  Face à l'irréversible, il faut savoir accepter le changement.
-  Gegenüber dem Unabänderlichen muss man lernen, den Wandel zu akzeptieren.
+  La fonte des glaciers est un phénomène *irréversible*.
+  Das Schmelzen der Gletscher ist ein *unumkehrbarer* Prozess.
+
+  Cette décision est *irréversible*, il n'y a plus de retour en arrière possible.
+  Diese Entscheidung ist *unwiderruflich*, es gibt kein Zurück mehr.
+
+  Le temps qui passe est *irréversible*.
+  Die Zeit, die vergeht, ist *unumkehrbar*.
+
+  Cette réaction chimique est totalement *irréversible*.
+  Diese chemische Reaktion ist vollständig *irreversibel*.
+
+  Le vieillissement est un processus naturel et *irréversible*.
+  Das Altern ist ein natürlicher und *unumkehrbarer* Prozess.
+
+  Face à l'*irréversible*, nous devons nous adapter.
+  Angesichts des *Unvermeidlichen* müssen wir uns anpassen.
+
+  L'évolution de sa maladie semble *irréversible*.
+  Der Verlauf seiner Krankheit scheint *unaufhaltsam*.
+
+  Le mécanisme de ce dispositif est conçu pour être *irréversible*.
+  Der Mechanismus dieser Vorrichtung ist *unumkehrbar* konzipiert.
+
+  Les dommages causés à l'environnement sont *irréversibles*.
+  Die Umweltschäden sind *irreversibel*.
+
+  Cette transformation thermodynamique est *irréversible*.
+  Diese thermodynamische Umwandlung ist *irreversibel*.
+
+  Les conséquences de cette catastrophe sont *irréversibles*.
+  Die Folgen dieser Katastrophe sind *unumkehrbar*.
+
+  L'histoire suit son cours *irréversible*.
+  Die Geschichte nimmt ihren *unaufhaltsamen* Lauf.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

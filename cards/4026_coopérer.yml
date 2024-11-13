@@ -13,26 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je pense qu’il va falloir coopérer.
-  Ich denke, wir werden kooperieren müssen.
+  Je pense qu'il va falloir *coopérer*.
+  Ich denke, wir werden *zusammenarbeiten* müssen.
 
-  Nous devons coopérer pour réussir.
-  Wir müssen zusammenarbeiten, um erfolgreich zu sein.
+  Les deux équipes ont décidé de *coopérer* sur ce projet important.
+  Die beiden Teams haben beschlossen, bei diesem wichtigen Projekt *zusammenzuarbeiten*.
 
-  Je serais ravi de coopérer.
-  Ich würde gerne kooperieren.
+  Marie est toujours prête à *coopérer* avec ses collègues.
+  Marie ist immer bereit, mit ihren Kollegen zu *kooperieren*.
 
-  Nous serons heureux de coopérer.
-  Wir werden gerne mit Ihnen zusammenarbeiten.
+  Nous allons *coopérer* à la création d'un nouveau dictionnaire en ligne.
+  Wir werden an der Erstellung eines neuen Online-Wörterbuchs *mitarbeiten*.
 
-  Les deux entreprises ont décidé de coopérer avec un organisme de bienfaisance pour aider les victimes du tremblement de terre.
-  Die beiden Unternehmen haben beschlossen, mit einer Wohltätigkeitsorganisation zusammenzuarbeiten, um den Opfern des Erdbebens zu helfen.
+  Le suspect a refusé de *coopérer* avec la police.
+  Der Verdächtige hat sich geweigert, mit der Polizei zu *kooperieren*.
 
-  Il a coopéré à la réalisation de ce film.
-  Er hat bei der Realisierung dieses Films mitgearbeitet.
+  Les chercheurs *coopèrent* depuis plusieurs années sur cette étude.
+  Die Forscher *arbeiten* seit mehreren Jahren bei dieser Studie *zusammen*.
 
-  Le gouvernement s'est dit prêt à coopérer avec les pays voisins pour résoudre le conflit.
-  Die Regierung hat sich bereit erklärt, mit den Nachbarländern zusammenzuarbeiten, um den Konflikt zu lösen.
+  Notre entreprise *coopère* étroitement avec des partenaires internationaux.
+  Unser Unternehmen *kooperiert* eng mit internationalen Partnern.
+
+  Les élèves doivent *coopérer* pour réussir ce projet de groupe.
+  Die Schüler müssen *zusammenarbeiten*, um dieses Gruppenprojekt zu schaffen.
+
+  Plusieurs pays *coopèrent* à la protection de l'environnement.
+  Mehrere Länder *arbeiten* beim Umweltschutz *zusammen*.
+
+  Le témoin a finalement accepté de *coopérer* avec les enquêteurs.
+  Der Zeuge hat sich schließlich bereit erklärt, mit den Ermittlern *zusammenzuarbeiten*.
+
+  Nous devons tous *coopérer* pour atteindre nos objectifs communs.
+  Wir müssen alle *zusammenarbeiten*, um unsere gemeinsamen Ziele zu erreichen.
+
+  Les artistes vont *coopérer* à la création d'une nouvelle exposition.
+  Die Künstler werden bei der Gestaltung einer neuen Ausstellung *mitwirken*.
+
+  Elle refuse de *coopérer* avec son ex-mari pour la garde des enfants.
+  Sie weigert sich, mit ihrem Ex-Mann bei der Kinderbetreuung zu *kooperieren*.
+
+  Ces deux associations *coopèrent* pour aider les sans-abri.
+  Diese beiden Vereine *arbeiten* bei der Hilfe für Obdachlose *zusammen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

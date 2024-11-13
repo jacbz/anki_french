@@ -13,17 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il y a un nouvel arrivant dans le jeu.
-  Es gibt einen Neuankömmling im Spiel.
+  Il y a un nouvel *arrivant* dans le jeu.
+  Es gibt einen neuen *Spieler* in dem Spiel.
 
-  Les arrivants doivent se présenter à l’accueil.
-  Die Ankommenden müssen sich an der Rezeption melden.
+  Les *arrivants* doivent s'inscrire à l'accueil avant de monter dans leurs chambres.
+  Die *Ankömmlinge* müssen sich an der Rezeption anmelden, bevor sie auf ihre Zimmer gehen.
 
-  Le nouvel arrivant a trouvé une place au fond de la salle.
-  Der Neuankömmling fand einen Platz im hinteren Teil des Raumes.
+  La nouvelle *arrivante* cherchait encore son chemin dans les couloirs de l'école.
+  Die neue *Schülerin* suchte noch ihren Weg durch die Schulflure.
 
-  Les premiers arrivants ont choisi les places les plus confortables.
-  Wer zuerst ankam, hat sich die bequemsten Plätze ausgesucht.
+  Les premiers *arrivants* ont déjà pris les meilleures places au concert.
+  Die ersten *Ankömmlinge* haben sich bereits die besten Plätze beim Konzert gesichert.
+
+  Comment accueillez-vous les nouveaux *arrivants* dans votre entreprise ?
+  Wie empfangen Sie neue *Mitarbeiter* in Ihrem Unternehmen?
+
+  Chaque *arrivant* reçoit un petit cadeau de bienvenue.
+  Jeder *Neuankömmling* erhält ein kleines Willkommensgeschenk.
+
+  Les derniers *arrivants* devront attendre qu'une table se libère.
+  Die letzten *Gäste* werden warten müssen, bis ein Tisch frei wird.
+
+  Notre nouvelle *arrivante* vient d'Espagne et ne parle pas encore français.
+  Unsere neue *Mitbewohnerin* kommt aus Spanien und spricht noch kein Französisch.
+
+  Les *arrivants* d'hier soir se sont déjà bien intégrés dans le groupe.
+  Die gestrigen *Neuankömmlinge* haben sich bereits gut in die Gruppe eingefügt.
+
+  En tant que première *arrivante*, elle a pu choisir son bureau.
+  Als erste *Angekommene* konnte sie sich ihr Büro aussuchen.
+
+  Les nouveaux *arrivants* seront accueillis par le directeur en personne.
+  Die neuen *Mitarbeiter* werden vom Direktor persönlich empfangen.
+
+  Le flot d'*arrivants* ne cesse d'augmenter depuis ce matin.
+  Der Strom der *Ankömmlinge* nimmt seit heute Morgen stetig zu.
+
+  Nous devons préparer des dossiers pour tous les *arrivants* de demain.
+  Wir müssen für alle morgigen *Neuankömmlinge* Unterlagen vorbereiten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

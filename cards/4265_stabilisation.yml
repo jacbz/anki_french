@@ -13,20 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La stabilisation du fonds est primordiale.
-  Die Stabilisierung des Fonds ist von größter Bedeutung.
+  La *stabilisation* du fonds est primordiale.
+  Die *Stabilisierung* des Fonds ist von höchster Bedeutung.
 
-  La stabilisation de la situation politique est essentielle.
-  Die Stabilisierung der politischen Lage ist entscheidend.
+  Pour réduire l'inflation, le gouvernement a annoncé des mesures de *stabilisation* des prix.
+  Um die Inflation zu reduzieren, hat die Regierung *Stabilisierungs*maßnahmen für die Preise angekündigt.
 
-  La stabilisation conjoncturelle est un objectif économique important.
-  Konjunkturausgleich ist ein wichtiges wirtschaftspolitisches Ziel.
+  La *stabilisation* du marché a été atteinte grâce à l'intervention de la banque centrale.
+  Die Markt*stabilisierung* wurde durch das Eingreifen der Zentralbank erreicht.
 
-  La stabilisation des cours est un objectif majeur pour les investisseurs.
-  Kurserholung ist ein wichtiges Ziel für Investoren.
+  Les experts prévoient une *stabilisation* des cours boursiers d'ici la fin de l'année.
+  Die Experten erwarten eine *Stabilisierung* der Börsenkurse bis zum Ende des Jahres.
 
-  La stabilisation du marché est un processus lent et complexe.
-  Marktkonsolidierung ist ein langsamer und komplexer Prozess.
+  Le nouveau système de *stabilisation* automatique permet à l'avion de mieux résister aux turbulences.
+  Das neue automatische *Stabilisierungs*system ermöglicht es dem Flugzeug, Turbulenzen besser standzuhalten.
+
+  La *stabilisation* de la situation politique a favorisé les investissements étrangers.
+  Die *Stabilisierung* der politischen Lage hat ausländische Investitionen begünstigt.
+
+  Les ingénieurs travaillent sur la *stabilisation* thermique du nouveau matériau.
+  Die Ingenieure arbeiten an der thermischen *Stabilisierung* des neuen Materials.
+
+  Le processus de *stabilisation* du sol permettra de construire sur ce terrain.
+  Der Boden*stabilisierungs*prozess wird es ermöglichen, auf diesem Grundstück zu bauen.
+
+  La *stabilisation* de la solution chimique nécessite plusieurs heures.
+  Die *Stabilisierung* der chemischen Lösung benötigt mehrere Stunden.
+
+  Les mécanismes de *stabilisation* du satellite ont bien fonctionné pendant toute la mission.
+  Die *Stabilisierungs*mechanismen des Satelliten haben während der gesamten Mission gut funktioniert.
+
+  Cette nouvelle technique de *stabilisation* améliore la conservation des plantes médicinales.
+  Diese neue *Stabilisierungs*technik verbessert die Haltbarkeit von Heilpflanzen.
+
+  La *stabilisation* conjoncturelle reste un défi majeur pour l'économie.
+  Der Konjunktur*stabilisierung* bleibt eine große Herausforderung für die Wirtschaft.
+
+  Les mesures de *stabilisation* monétaire ont permis de maintenir le taux de change.
+  Die Währungs*stabilisierungs*maßnahmen haben geholfen, den Wechselkurs zu halten.
+
+  Le système de *stabilisation* du véhicule s'active automatiquement sur routes glissantes.
+  Das Fahrzeug*stabilisierungs*system aktiviert sich automatisch auf rutschigen Straßen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

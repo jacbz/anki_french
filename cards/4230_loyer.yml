@@ -13,41 +13,65 @@ Register: ↗Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je n’ai pas payé le loyer du mois prochain.
-  Ich habe die Miete für den nächsten Monat noch nicht bezahlt.
+  Je n'ai pas payé le *loyer* du mois prochain.
+  Ich habe die *Miete* für nächsten Monat nicht bezahlt.
 
-  Le loyer est trop cher.
-  Die Miete ist zu teuer.
+  Le *loyer* de ce local commercial est vraiment très élevé.
+  Die *Miete* für dieses Geschäftslokal ist wirklich sehr hoch.
 
-  Je dois payer le loyer.
-  Ich muss die Miete bezahlen.
+  Les propriétaires ont augmenté le *loyer* de 10 % cette année.
+  Die Vermieter haben die *Miete* dieses Jahr um 10 % erhöht.
 
-  Le loyer est très élevé.
-  Die Miete ist sehr hoch.
+  Le *loyer* de référence dans ce quartier est de 800 euros.
+  Die Vergleichs*miete* in diesem Viertel beträgt 800 Euro.
 
-  Vous avez un mois de loyer en retard.
-  Sie sind mit einer Monatsmiete im Rückstand.
+  Cette famille habite dans un immeuble à *loyer* modéré.
+  Diese Familie wohnt in einem Sozialwohnungsbau mit günstiger *Miete*.
 
-  Je dois deux mois de loyer pour ma chambre.
-  Ich schulde zwei Monatsmieten für mein Zimmer.
+  Marc doit trois mois de *loyer* à son propriétaire.
+  Marc schuldet seinem Vermieter drei Monate *Miete*.
 
-  Le loyer du local commercial est élevé, mais il est justifié par sa situation exceptionnelle.
-  Die Ladenmiete ist hoch, aber sie ist durch die außergewöhnliche Lage gerechtfertigt.
+  Les fermiers paient un *loyer* annuel de 5000 euros.
+  Die Bauern zahlen eine jährliche *Pacht* von 5000 Euro.
 
-  Le loyer annuel est de 12 000 euros, payable en 12 mensualités.
-  Die Jahresmiete beträgt 12 000 Euro, zahlbar in 12 Monatsraten.
+  Le *loyer* de cet appartement est vraiment usuraire.
+  Die *Miete* für diese Wohnung ist wirklich Wucher.
 
-  Le loyer usuraire est interdit par la loi.
-  Wuchermieten sind gesetzlich verboten.
+  La quittance de *loyer* est nécessaire pour le dossier.
+  Die *Miet*quittung ist für die Unterlagen erforderlich.
 
-  Le loyer limité réglementé s'applique aux logements sociaux.
-  Die Mietpreisbindung gilt für Sozialwohnungen.
+  L'échéance du *loyer* est fixée au premier du mois.
+  Der *Miet*termin ist auf den Ersten des Monats festgelegt.
 
-  Le loyer de référence est un indicateur important pour la négociation du prix du loyer.
-  Die Vergleichsmiete ist ein wichtiger Indikator für die Mietpreisverhandlung.
+  Le propriétaire craint une perte de *loyer* à cause de la crise.
+  Der Vermieter befürchtet einen *Miet*ausfall wegen der Krise.
 
-  La perte de loyer est un risque que les propriétaires doivent prendre en compte.
-  Mietausfall ist ein Risiko, das Vermieter berücksichtigen müssen.
+  Le *loyer* limité réglementé protège les locataires.
+  Die *Miet*preisbindung schützt die Mieter.
+
+  Son *loyer* mensuel représente la moitié de son salaire.
+  Seine monatliche *Miete* macht die Hälfte seines Gehalts aus.
+
+  Le taux du *loyer* de l'argent a baissé récemment.
+  Der *Zins*satz ist kürzlich gesunken.
+
+  Les banques ont fixé un nouveau *loyer* de l'argent.
+  Die Banken haben einen neuen *Zins*satz festgelegt.
+
+  Le *loyer* est encaissé automatiquement chaque mois.
+  Die *Miete* wird jeden Monat automatisch eingezogen.
+
+  La mairie contrôle les *loyers* exorbitants dans le centre-ville.
+  Die Stadtverwaltung kontrolliert die Wucher*mieten* in der Innenstadt.
+
+  Le *loyer* inclut les charges de chauffage.
+  Die *Miete* enthält die Heizkosten.
+
+  Nous avons négocié un *loyer* raisonnable pour notre boutique.
+  Wir haben eine vernünftige *Miete* für unseren Laden ausgehandelt.
+
+  Le *loyer* moyen a augmenté de 5 % dans cette région.
+  Die durchschnittliche *Miete* ist in dieser Region um 5 % gestiegen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

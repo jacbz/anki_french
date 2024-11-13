@@ -13,14 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mon entourage m’encourage à profiter de la vie.
-  Mein Umfeld ermutigt mich, das Leben zu genießen.
+  Mon *entourage* m'encourage à profiter de la vie.
+  Meine *Umgebung* ermutigt mich, das Leben zu genießen.
 
-  Son entourage professionnel est très compétent.
-  Sein berufliches Umfeld ist sehr kompetent.
+  Dans son *entourage*, personne ne savait qu'elle était malade.
+  In ihrer *Umgebung* wusste niemand, dass sie krank war.
 
-  Dans l'entourage de Jean, tout le monde le soutient dans son projet.
-  In Jeans Umgebung unterstützen ihn alle bei seinem Projekt.
+  L'*entourage* du président a confirmé sa démission.
+  Das *Umfeld* des Präsidenten hat seinen Rücktritt bestätigt.
+
+  Le miroir ancien avait un *entourage* en or massif.
+  Der antike Spiegel hatte eine goldene *Einfassung*.
+
+  Marie a toujours eu un *entourage* très protecteur.
+  Marie hatte schon immer ein sehr beschützendes *Umfeld*.
+
+  L'*entourage* de la fenêtre était décoré de motifs floraux.
+  Die *Umrandung* des Fensters war mit Blumenmotiven verziert.
+
+  Son *entourage* lui conseille de prendre du repos.
+  Ihr *Umfeld* rät ihr, sich auszuruhen.
+
+  Le tableau avait un magnifique *entourage* en bois sculpté.
+  Das Gemälde hatte eine wunderschöne *Einfassung* aus geschnitztem Holz.
+
+  L'*entourage* du jardin était constitué de roses grimpantes.
+  Die *Umrandung* des Gartens bestand aus Kletterrosen.
+
+  Je ne connais personne dans son *entourage* proche.
+  Ich kenne niemanden aus ihrem engeren *Umfeld*.
+
+  L'*entourage* familial joue un rôle crucial dans l'éducation.
+  Das familiäre *Umfeld* spielt eine entscheidende Rolle in der Erziehung.
+
+  La photo était mise en valeur par un *entourage* de perles.
+  Das Foto wurde durch eine Perlen*einfassung* hervorgehoben.
+
+  L'*entourage* professionnel peut influencer notre bien-être.
+  Das berufliche *Umfeld* kann unser Wohlbefinden beeinflussen.
+
+  Elle a choisi cet *entourage* doré pour le miroir.
+  Sie hat diese goldene *Einfassung* für den Spiegel ausgewählt.
+
+  C'est important d'avoir un *entourage* bienveillant.
+  Es ist wichtig, ein wohlwollendes *Umfeld* zu haben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

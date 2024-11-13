@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je vais rentrer en taxi.
-  Ich fahre mit dem Taxi nach Hause.
+  Je vais rentrer en *taxi*.
+  Ich werde mit dem *Taxi* nach Hause fahren.
 
-  Je prends toujours le taxi pour aller à l’aéroport.
-  Ich nehme immer das Taxi, um zum Flughafen zu kommen.
+  La station de *taxis* est juste en face de la gare.
+  Der *Taxi*stand ist direkt gegenüber vom Bahnhof.
 
-  Il me faut un taxi.
-  Ich brauche ein Taxi.
+  "Je fais le *taxi* pour mes enfants toute la journée !"
+  "Ich spiele den ganzen Tag *Taxi*fahrer für meine Kinder!"
 
-  Je vais voir si je peux trouver un taxi.
-  Ich schaue, ob ich ein Taxi finde.
+  Le *taxi* nous attend devant l'hôtel depuis dix minutes.
+  Das *Taxi* wartet seit zehn Minuten vor dem Hotel auf uns.
+
+  As-tu appelé un *taxi* pour aller à l'aéroport ?
+  Hast du ein *Taxi* zum Flughafen gerufen?
+
+  "Mon père est *taxi* depuis vingt ans."
+  "Mein Vater ist seit zwanzig Jahren *Taxi*fahrer."
+
+  En Afrique, nous avons pris un *taxi*-brousse pour visiter les villages.
+  In Afrika haben wir ein Sammel*taxi* genommen, um die Dörfer zu besuchen.
+
+  Les *taxis* de la Marne ont joué un rôle important pendant la guerre.
+  Die Marne-*Taxis* spielten während des Krieges eine wichtige Rolle.
+
+  Notre *taxi* roule trop vite dans les petites rues.
+  Unser *Taxi* fährt zu schnell durch die kleinen Straßen.
+
+  Il y a une longue file d'attente pour les *taxis*.
+  Es gibt eine lange Warteschlange für die *Taxis*.
+
+  Les *taxis* parisiens sont facilement reconnaissables.
+  Pariser *Taxis* sind leicht zu erkennen.
+
+  J'ai dû prendre trois *taxis* différents pour arriver à temps.
+  Ich musste drei verschiedene *Taxis* nehmen, um pünktlich anzukommen.
+
+  Le compteur du *taxi* indique déjà 30 euros.
+  Der *Taxi*meter zeigt bereits 30 Euro an.
+
+  Un *taxi* nous déposera devant le théâtre à 20 heures.
+  Ein *Taxi* wird uns um 20 Uhr vor dem Theater absetzen.
+
+  "Elle fait le *taxi* depuis qu'elle a perdu son ancien travail."
+  "Sie arbeitet als *Taxi*fahrerin, seit sie ihren alten Job verloren hat."
+
+  L'entreprise utilise souvent des avions-*taxis* pour ses cadres.
+  Die Firma nutzt oft *Taxi*-Flugzeuge für ihre Führungskräfte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,20 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le danger des rayonnements pour l’homme est réel.
-  Die Gefahr von Strahlung für den Menschen ist real.
+  Le danger des *rayonnements* pour l'homme est réel.
+  Die Gefahr der *Strahlung* für den Menschen ist real.
 
-  Le rayonnement solaire est essentiel pour la vie sur Terre.
-  Die Sonnenstrahlung ist für das Leben auf der Erde unerlässlich.
+  Le *rayonnement* solaire est plus intense à midi.
+  Die *Sonnenstrahlung* ist am Mittag am intensivsten.
 
-  La lumière du soleil est une forme de rayonnement solaire.
-  Sonnenlicht ist eine Form von Sonnenstrahlung.
+  Les scientifiques mesurent le *rayonnement* thermique de la Terre.
+  Die Wissenschaftler messen die thermische *Strahlung* der Erde.
 
-  Les rayons X sont une forme de rayonnement électromagnétique.
-  Röntgenstrahlen sind eine Form elektromagnetischer Strahlung.
+  L'appareil détecte le *rayonnement* infrarouge des objets.
+  Das Gerät erfasst die Infrarot*strahlung* der Objekte.
 
-  Le rayonnement U.V. peut être nocif pour la peau.
-  Ultraviolettstrahlung kann für die Haut schädlich sein.
+  Le *rayonnement* X permet de voir à travers les tissus.
+  Die Röntgen*strahlung* ermöglicht es, durch Gewebe zu sehen.
+
+  Les astronomes étudient le *rayonnement* cosmique.
+  Die Astronomen untersuchen die kosmische *Strahlung*.
+
+  Le *rayonnement* U.V. peut endommager la peau.
+  Die UV-*Strahlung* kann die Haut schädigen.
+
+  Le *rayonnement* culturel de Paris attire des millions de touristes.
+  Die kulturelle *Ausstrahlung* von Paris zieht Millionen Touristen an.
+
+  Le *rayonnement* de la civilisation grecque influence encore notre monde moderne.
+  Der *Einfluss* der griechischen Zivilisation prägt noch heute unsere moderne Welt.
+
+  Un *rayonnement* de bonheur illuminait son visage.
+  Eine *Ausstrahlung* von Glück erhellte ihr Gesicht.
+
+  Le phare projette son *rayonnement* sur plusieurs kilomètres.
+  Der Leuchtturm wirft seine *Strahlen* über mehrere Kilometer.
+
+  Le *rayonnement* du feu réchauffait doucement la pièce.
+  Die *Strahlung* des Feuers wärmte langsam den Raum.
+
+  Le *rayonnement* de cette université s'étend dans toute l'Europe.
+  Der *Einfluss* dieser Universität erstreckt sich über ganz Europa.
+
+  Les experts surveillent le *rayonnement* radioactif dans l'atmosphère.
+  Die Experten überwachen die radioaktive *Strahlung* in der Atmosphäre.
+
+  Le *rayonnement* de sa personnalité attirait les gens vers lui.
+  Die *Ausstrahlung* seiner Persönlichkeit zog die Menschen zu ihm hin.
+
+  Les chercheurs ont découvert un nouveau type de *rayonnement*.
+  Die Forscher haben eine neue Art von *Strahlung* entdeckt.
+
+  Le *rayonnement* de cette œuvre a traversé les siècles.
+  Die *Ausstrahlung* dieses Werkes hat die Jahrhunderte überdauert.
+
+  Un doux *rayonnement* émane de cette petite étoile.
+  Ein sanftes *Strahlen* geht von diesem kleinen Stern aus.
+
+  Le *rayonnement* international de cette entreprise ne cesse de croître.
+  Die internationale *Ausstrahlung* dieses Unternehmens wächst stetig.
+
+  Les capteurs mesurent le *rayonnement* électromagnétique.
+  Die Sensoren messen die elektromagnetische *Strahlung*.
+
+  Le *rayonnement* de la langue française diminue dans certaines régions.
+  Der *Einfluss* der französischen Sprache nimmt in manchen Regionen ab.
+
+  Le *rayonnement* de joie sur son visage était contagieux.
+  Der *Glanz* der Freude auf seinem Gesicht war ansteckend.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,38 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les distributeurs quittaient la salle en courant.
-  Die Händler verließen fluchtartig den Raum.
+  Les *distributeurs* quittaient la salle en courant.
+  Die *Verteiler* verließen eilig den Saal.
 
-  Je vais chercher une boisson au distributeur.
-  Ich hole mir ein Getränk aus dem Automaten.
+  J'ai mis une pièce dans le *distributeur* de boissons.
+  Ich habe eine Münze in den Getränke*automaten* geworfen.
 
-  Pierre travaille comme distributeur de prospectus dans le quartier.
-  Pierre arbeitet als Verteiler von Prospekten in der Gegend.
+  Le *distributeur* automatique de billets est en panne depuis ce matin.
+  Der Geld*automat* ist seit heute Morgen außer Betrieb.
 
-  Nous sommes distributeur d'articles de sport depuis 20 ans.
-  Wir sind ein Handelsunternehmen für Sportartikel seit 20 Jahren.
+  Notre entreprise est *distributeur* exclusif de cette marque en France.
+  Unser Unternehmen ist *Alleinvertrieb* dieser Marke in Frankreich.
 
-  J'ai retiré de l'argent au distributeur de billets.
-  Ich habe Geld am Geldautomaten abgehoben.
+  Marie travaille comme *distributrice* de prospectus pendant l'été.
+  Marie arbeitet im Sommer als Prospekt*verteilerin*.
 
-  Ce concessionnaire est un distributeur agréé de la marque.
-  Dieser Händler ist ein Vertragshändler der Marke.
+  Le *distributeur* de tickets ne prend que la carte bancaire.
+  Der Fahrschein*automat* akzeptiert nur Bankkarten.
 
-  L'entreprise est le distributeur exclusif de ce produit en France.
-  Das Unternehmen ist der Alleinvertreter dieses Produkts in Frankreich.
+  Ce *distributeur* de films indépendants a remporté un grand succès.
+  Dieser *Verleiher* von Independent-Filmen hatte großen Erfolg.
 
-  Le distributeur de boissons est en panne.
-  Der Getränkeautomat ist kaputt.
+  Le *distributeur* automatique de savon est vide.
+  Der Seifen*spender* ist leer.
 
-  Il a acheté des cigarettes au distributeur de cigarettes.
-  Er hat am Zigarettenautomaten Zigaretten gekauft.
+  Cette société est *distributeur* agréé de pièces détachées.
+  Diese Firma ist *Vertragshändler* für Ersatzteile.
 
-  Le distributeur de tickets est situé à l'entrée du métro.
-  Der Fahrscheinautomat befindet sich am Eingang der U-Bahn.
+  Le *distributeur* d'engrais permet une répartition uniforme sur tout le champ.
+  Der Düngemittel*verteiler* ermöglicht eine gleichmäßige Verteilung auf dem ganzen Feld.
 
-  L'utilisation abusive d'un distributeur automatique de billets est un délit.
-  Automatenmissbrauch ist eine Straftat.
+  Paul cherchait désespérément un *distributeur* de billets ouvert.
+  Paul suchte verzweifelt nach einem geöffneten Bank*automaten*.
+
+  Ce magasin est *distributeur* officiel de matériel informatique.
+  Dieses Geschäft ist offizieller *Vertrieb* für Computerausrüstung.
+
+  Le *distributeur* de cigarettes a été vandalisé cette nuit.
+  Der Zigaretten*automat* wurde heute Nacht beschädigt.
+
+  Notre *distributeur* local propose une large gamme de produits bio.
+  Unser lokaler *Händler* bietet eine große Auswahl an Bio-Produkten.
+
+  Le nouveau *distributeur* de semences facilite grandement le travail.
+  Der neue Saatgut*verteiler* erleichtert die Arbeit erheblich.
+
+  Les *distributeurs* de journaux gratuits sont postés devant la gare.
+  Die *Verteiler* kostenloser Zeitungen stehen vor dem Bahnhof.
+
+  Ce *distributeur* automatique propose des en-cas 24h/24.
+  Dieser *Automat* bietet rund um die Uhr Snacks an.
+
+  Notre société est devenue *distributeur* principal pour toute la région.
+  Unsere Firma ist *Hauptvertrieb* für die gesamte Region geworden.
+
+  Le *distributeur* de papier toilette est cassé depuis une semaine.
+  Der Toilettenpapier*spender* ist seit einer Woche kaputt.
+
+  Les *distributeurs* de tracts manifestaient devant l'usine.
+  Die Flugblatt*verteiler* demonstrierten vor der Fabrik.
+
+  Le *distributeur* d'essence affiche les prix en temps réel.
+  Die Benzin*zapfsäule* zeigt die Preise in Echtzeit an.
+
+  Ce petit *distributeur* de films a découvert plusieurs talents.
+  Dieser kleine Film*verleiher* hat mehrere Talente entdeckt.
+
+  Le *distributeur* automatique accepte maintenant le paiement sans contact.
+  Der *Automat* akzeptiert jetzt kontaktloses Bezahlen.
+
+  Notre *distributeur* de boissons chaudes propose dix variétés de café.
+  Unser Heißgetränke*automat* bietet zehn verschiedene Kaffeesorten an.
+
+  Il y a un nouveau *distributeur* de billets près de la pharmacie.
+  Es gibt einen neuen Geld*automaten* neben der Apotheke.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

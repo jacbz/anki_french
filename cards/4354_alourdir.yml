@@ -13,29 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je sens mes doigts s’alourdir.
-  Ich spüre, wie meine Finger schwer werden.
+  Je sens mes doigts s'*alourdir*.
+  Ich spüre, wie meine Finger *schwer* werden.
 
-  Le sac à dos commence à s’alourdir.
-  Der Rucksack fängt an schwerer zu werden.
+  Les livres *alourdissent* considérablement mon sac à dos.
+  Die Bücher machen meinen Rucksack *schwerer*.
 
-  Les livres alourdissent le sac, je préfère les laisser ici.
-  Die Bücher machen die Tasche schwer, ich lasse sie lieber hier.
+  La pluie a *alourdi* son manteau de laine.
+  Der Regen hat ihren Wollmantel *beschwert*.
 
-  Sa silhouette s'alourdit avec les années.
-  Er wird mit den Jahren fülliger.
+  Cette chaleur étouffante *alourdit* l'atmosphère dans la salle de classe.
+  Diese stickige Hitze macht die Atmosphäre im Klassenzimmer *schwerfällig*.
 
-  La chaleur étouffante alourdit l'atmosphère, on a du mal à respirer.
-  Die brütende Hitze drückt auf die Stimmung, man kann kaum atmen.
+  Ses paupières se sont *alourdies* après une longue journée de travail.
+  Seine Augenlider wurden nach einem langen Arbeitstag *schwer*.
 
-  L'armure alourdit le chevalier, l'empêchant de se déplacer rapidement.
-  Die schwere Rüstung belastet den Ritter und hindert ihn daran, sich schnell zu bewegen.
+  La nouvelle taxe va *alourdir* les charges des entreprises.
+  Die neue Steuer wird die Belastungen der Unternehmen *erhöhen*.
 
-  Elle alourdit toujours ses phrases, c'est difficile de la suivre.
-  Sie formuliert ihre Sätze immer so schwerfällig, es ist schwierig, ihr zu folgen.
+  Sa silhouette s'est *alourdie* au fil des années.
+  Seine Figur ist im Laufe der Jahre *schwerfälliger* geworden.
 
-  Trop de subordonnées alourdissent une phrase, il vaut mieux la simplifier.
-  Zu viele Nebensätze machen einen Satz schwerfällig, man sollte ihn lieber vereinfachen.
+  Les nombreux motifs *alourdissent* la façade du bâtiment.
+  Die vielen Verzierungen machen die Fassade des Gebäudes *schwerfällig*.
+
+  La fatigue *alourdissait* ses membres après la course.
+  Die Müdigkeit machte seine Glieder nach dem Lauf *schwer*.
+
+  Le bilan de l'accident s'*alourdit* chaque jour.
+  Die Bilanz des Unfalls wird jeden Tag *schwerwiegender*.
+
+  Cette armure médiévale *alourdit* considérablement les mouvements du chevalier.
+  Diese mittelalterliche Rüstung macht die Bewegungen des Ritters erheblich *schwerfälliger*.
+
+  Les dettes de l'entreprise continuent de s'*alourdir*.
+  Die Schulden des Unternehmens werden immer *schwerer*.
+
+  Son style d'écriture s'*alourdit* avec trop d'adjectifs.
+  Sein Schreibstil wird durch zu viele Adjektive *schwerfällig*.
+
+  Le juge a décidé d'*alourdir* la peine du criminel.
+  Der Richter hat beschlossen, die Strafe des Verbrechers zu *verschärfen*.
+
+  La neige *alourdit* dangereusement les branches des arbres.
+  Der Schnee macht die Äste der Bäume gefährlich *schwer*.
+
+  Le stress *alourdit* mes pensées depuis des semaines.
+  Der Stress macht meine Gedanken seit Wochen *schwer*.
+
+  Ses gestes se sont *alourdis* avec l'âge.
+  Seine Bewegungen sind mit dem Alter *schwerfälliger* geworden.
+
+  Les frais imprévus ont *alourdi* considérablement la facture finale.
+  Die unerwarteten Kosten haben die Endrechnung erheblich *erhöht*.
+
+  L'humidité *alourdit* mes cheveux bouclés.
+  Die Feuchtigkeit macht meine lockigen Haare *schwer*.
+
+  La décoration excessive *alourdit* l'apparence du gâteau.
+  Die übermäßige Dekoration macht das Aussehen des Kuchens *schwerfällig*.
+
+  Ces médicaments *alourdissent* mes réflexes.
+  Diese Medikamente machen meine Reflexe *träge*.
+
+  Le brouillard *alourdit* l'ambiance de cette soirée d'automne.
+  Der Nebel macht die Stimmung dieses Herbstabends *drückend*.
+
+  Sa démarche s'est *alourdie* depuis son accident.
+  Sein Gang ist seit seinem Unfall *schwerfälliger* geworden.
+
+  Cette correction grammaticale *alourdit* inutilement la phrase.
+  Diese grammatikalische Korrektur macht den Satz unnötig *schwerfällig*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

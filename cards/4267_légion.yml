@@ -13,17 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La légion remplit vaillamment sa mission.
-  Die Legion erfüllt ihre Aufgabe tapfer.
+  La *légion* remplit vaillamment sa mission.
+  Die *Legion* erfüllt tapfer ihre Mission.
 
-  La légion étrangère est une unité de l’armée française.
-  Die Fremdenlegion ist eine Einheit der französischen Armee.
+  Les *légions* romaines ont conquis une grande partie de l'Europe.
+  Die römischen *Legionen* haben einen großen Teil Europas erobert.
 
-  Les soldats ennemis étaient légion.
-  Die feindlichen Soldaten waren zahlreich.
+  Il s'est engagé dans la *Légion* étrangère il y a cinq ans.
+  Er ist vor fünf Jahren in die Fremden*legion* eingetreten.
 
-  Les partisans de cette cause ne sont pas légion.
-  Die Anhänger dieser Sache sind nicht zahlreich.
+  Les soldats de la *légion* portent fièrement leur képi blanc.
+  Die Soldaten der *Legion* tragen stolz ihr weißes Käppi.
+
+  Une *légion* de journalistes attendait devant le tribunal.
+  Ein *Heer* von Journalisten wartete vor dem Gericht.
+
+  Les fautes d'orthographe sont *légion* dans ce texte.
+  Die Rechtschreibfehler sind in diesem Text *zahlreich*.
+
+  "Les bonnes solutions ne sont pas *légion*."
+  "Gute Lösungen sind *dünn gesät*."
+
+  Une *légion* d'admirateurs suivait la célébrité.
+  Eine *Schar* von Bewunderern folgte dem Star.
+
+  Le président lui a remis la *Légion* d'honneur lors d'une cérémonie.
+  Der Präsident hat ihm bei einer Zeremonie die Ehren*legion* verliehen.
+
+  Elle porte fièrement la rosette de la *Légion* d'honneur.
+  Sie trägt stolz die Rosette der Ehren*legion*.
+
+  La *légion* était divisée en dix cohortes.
+  Die *Legion* war in zehn Kohorten aufgeteilt.
+
+  Les centurions commandaient les centuries de la *légion*.
+  Die Zenturionen befehligten die Zenturien der *Legion*.
+
+  Une *légion* de fourmis envahissait le jardin.
+  Ein *Heer* von Ameisen fiel in den Garten ein.
+
+  Les problèmes sont *légion* dans ce quartier.
+  Die Probleme sind in diesem Viertel *zahlreich*.
+
+  La devise de la *Légion* est « Honneur et Fidélité ».
+  Der Wahlspruch der *Legion* lautet "Ehre und Treue".
+
+  Chaque région française possède sa *légion* de gendarmerie.
+  Jede französische Region hat ihre Gendarmerie*legion*.
+
+  La *Légion* d'honneur récompense les services rendus à la nation.
+  Die Ehren*legion* belohnt Verdienste um die Nation.
+
+  Une *légion* de bénévoles a participé à l'organisation du festival.
+  Eine *Schar* von Freiwilligen hat bei der Organisation des Festivals mitgewirkt.
+
+  Les excuses bidons sont *légion* chez les mauvais élèves.
+  Faule Ausreden sind bei schlechten Schülern *zahlreich*.
+
+  Sa collection compte une *légion* de timbres rares.
+  Seine Sammlung umfasst eine *Schar* seltener Briefmarken.
+
+  Les touristes sont *légion* pendant l'été.
+  Im Sommer sind die Touristen *zahlreich*.
+
+  Le grand chancelier de la *Légion* d'honneur a présidé la cérémonie.
+  Der Großkanzler der Ehren*legion* hat die Zeremonie geleitet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

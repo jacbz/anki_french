@@ -13,17 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’infirmière s’est trompée. Elle a tout inversé.
-  Die Krankenschwester hat sich geirrt. Sie hat alles vertauscht.
+  L'infirmière s'est trompée. Elle a tout *inversé*.
+  Die Krankenschwester hat sich geirrt. Sie hat alles *vertauscht*.
 
-  Il faut inverser les rôles.
-  Die Rollen müssen vertauscht werden.
+  Pour faire cette recette, il faut *inverser* l'ordre des ingrédients.
+  Für dieses Rezept muss man die Reihenfolge der Zutaten *umstellen*.
 
-  Le poète a inversé l'ordre des mots pour créer un effet poétique.
-  Der Dichter hat die Wortstellung geändert, um einen poetischen Effekt zu erzielen.
+  Les rôles se sont *inversés* : maintenant c'est lui qui cuisine et elle qui fait le ménage.
+  Die Rollen haben sich *umgekehrt*: Jetzt kocht er und sie macht den Haushalt.
 
-  La réaction de l'homme était inversée, il n'était pas content du tout.
-  Die Reaktion des Mannes war gegenläufig, er war überhaupt nicht zufrieden.
+  Le professeur nous a demandé d'*inverser* l'ordre des mots dans la phrase.
+  Der Lehrer hat uns aufgefordert, die Wortstellung im Satz zu *ändern*.
+
+  L'électricien doit *inverser* les fils pour que ça marche.
+  Der Elektriker muss die Kabel *umpolen*, damit es funktioniert.
+
+  La tendance s'est complètement *inversée* depuis l'année dernière.
+  Der Trend hat sich seit letztem Jahr komplett *umgekehrt*.
+
+  Dans le miroir, l'image est *inversée*.
+  Im Spiegel ist das Bild *spiegelverkehrt*.
+
+  Le pilote a fait un vol *inversé* au-dessus de nos têtes.
+  Der Pilot hat einen *umgekehrten* Flug über unsere Köpfe gemacht.
+
+  Le développeur photo a *inversé* le négatif pour obtenir une image positive.
+  Der Fotolaborant hat das Negativ *umgekehrt*, um ein positives Bild zu erhalten.
+
+  Le vent s'est brusquement *inversé* pendant la tempête.
+  Der Wind hat während des Sturms plötzlich seine Richtung *umgekehrt*.
+
+  Le conducteur du train a dû *inverser* la marche pour éviter l'obstacle.
+  Der Zugführer musste die Fahrtrichtung *umkehren*, um das Hindernis zu vermeiden.
+
+  En mathématiques, on peut *inverser* l'ordre des facteurs sans changer le résultat.
+  In der Mathematik kann man die Reihenfolge der Faktoren *vertauschen*, ohne das Ergebnis zu ändern.
+
+  La situation économique s'est complètement *inversée* depuis la crise.
+  Die wirtschaftliche Situation hat sich seit der Krise völlig *umgekehrt*.
+
+  Le technicien a *inversé* le sens du courant électrique.
+  Der Techniker hat die Stromrichtung *umgepolt*.
+
+  Dans cette phrase, le sujet est *inversé*.
+  In diesem Satz ist das Subjekt *umgestellt*.
+
+  Pour réparer la machine, il faut *inverser* la polarité.
+  Um die Maschine zu reparieren, muss man die Polarität *umkehren*.
+
+  Le changement climatique a *inversé* les cycles des saisons.
+  Der Klimawandel hat die Jahreszyklen *umgekehrt*.
+
+  Le magicien a *inversé* la position des cartes sans que personne ne le voie.
+  Der Zauberer hat die Position der Karten *vertauscht*, ohne dass es jemand gesehen hat.
+
+  Pour ce nouveau jeu, nous avons complètement *inversé* les règles traditionnelles.
+  Für dieses neue Spiel haben wir die traditionellen Regeln völlig *umgekehrt*.
+
+  Le processus s'est naturellement *inversé* au fil du temps.
+  Der Prozess hat sich im Laufe der Zeit natürlich *umgekehrt*.
+
+  Les rapports de force se sont *inversés* après les élections.
+  Die Machtverhältnisse haben sich nach den Wahlen *umgekehrt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

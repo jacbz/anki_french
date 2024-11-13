@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je ne suis ni français ni algérien.
-  Ich bin weder Franzose noch Algerier.
+  Je ne suis ni français ni *algérien*.
+  Ich bin weder Franzose noch *Algerier*.
 
-  Mon voisin est algérien.
-  Mein Nachbar ist Algerier.
+  La cuisine *algérienne* est réputée pour son couscous et ses pâtisseries.
+  Die *algerische* Küche ist bekannt für ihr Couscous und ihre Süßigkeiten.
+
+  Les montagnes *algériennes* offrent des paysages magnifiques.
+  Die *algerischen* Berge bieten wunderschöne Landschaften.
+
+  Mon grand-père parle couramment l'*algérien*.
+  Mein Großvater spricht fließend *Algerisch*.
+
+  Sa mère est une *Algérienne* qui vit à Paris depuis vingt ans.
+  Seine Mutter ist eine *Algerierin*, die seit zwanzig Jahren in Paris lebt.
+
+  Le thé à la menthe est une tradition *algérienne* très appréciée.
+  Minztee ist eine sehr geschätzte *algerische* Tradition.
+
+  Les *Algériens* organisent un grand festival de musique cette année.
+  Die *Algerier* organisieren dieses Jahr ein großes Musikfestival.
+
+  Elle porte une belle robe en *algérienne* aux motifs colorés.
+  Sie trägt ein schönes Kleid aus *algerischem* Stoff mit bunten Mustern.
+
+  L'artisanat *algérien* est connu pour ses tapis traditionnels.
+  Das *algerische* Handwerk ist bekannt für seine traditionellen Teppiche.
+
+  Les étudiants *algériens* participent à un programme d'échange.
+  Die *algerischen* Studenten nehmen an einem Austauschprogramm teil.
+
+  Ma tante comprend l'*algérien*, mais elle ne le parle pas.
+  Meine Tante versteht *Algerisch*, spricht es aber nicht.
+
+  Le port *algérien* d'Alger est le plus grand du pays.
+  Der *algerische* Hafen von Algier ist der größte des Landes.
+
+  La littérature *algérienne* contemporaine gagne en popularité.
+  Die zeitgenössische *algerische* Literatur gewinnt an Beliebtheit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

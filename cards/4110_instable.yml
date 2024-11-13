@@ -13,11 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je regardai avec effroi ces êtres instables.
-  Ich betrachtete diese instabilen Wesen mit Schrecken.
+  Je regardai avec effroi ces êtres *instables*.
+  Ich betrachtete mit Entsetzen diese *labilen* Wesen.
 
-  Le temps est instable aujourd’hui.
-  Das Wetter ist heute unbeständig.
+  Le temps restera *instable* toute la semaine.
+  Das Wetter bleibt die ganze Woche *wechselhaft*.
+
+  Cette étagère est *instable* et risque de tomber.
+  Dieses Regal ist *wackelig* und droht umzufallen.
+
+  Marie est une personne émotionnellement *instable*.
+  Marie ist eine emotional *labile* Person.
+
+  Le gouvernement *instable* n'a pas survécu à la crise.
+  Die *instabile* Regierung hat die Krise nicht überlebt.
+
+  L'uranium est un élément chimique *instable*.
+  Uran ist ein chemisch *instabiles* Element.
+
+  Cette tribu *instable* se déplaçait constamment dans le désert.
+  Dieser *nichtsesshafte* Stamm zog ständig durch die Wüste.
+
+  La situation politique reste très *instable* dans cette région.
+  Die politische Lage bleibt in dieser Region sehr *unsicher*.
+
+  Son humeur *instable* rend la collaboration difficile.
+  Seine *unbeständige* Stimmung macht die Zusammenarbeit schwierig.
+
+  Le patient montre un comportement *instable*.
+  Der Patient zeigt *labiles* Verhalten.
+
+  Cette table a un pied *instable*.
+  Dieser Tisch hat ein *wackeliges* Bein.
+
+  La paix reste *instable* dans cette zone de conflit.
+  Der Frieden bleibt in diesem Konfliktgebiet *unsicher*.
+
+  Les prix du pétrole sont très *instables* ces derniers temps.
+  Die Ölpreise sind in letzter Zeit sehr *unbeständig*.
+
+  Cette molécule est chimiquement *instable* à température ambiante.
+  Dieses Molekül ist bei Raumtemperatur chemisch *instabil*.
+
+  Le marché immobilier devient de plus en plus *instable*.
+  Der Immobilienmarkt wird zunehmend *instabil*.
+
+  L'équilibre est trop *instable* pour continuer l'exercice.
+  Das Gleichgewicht ist zu *wackelig*, um die Übung fortzusetzen.
+
+  Cette entreprise emploie une main-d'œuvre *instable*.
+  Dieses Unternehmen beschäftigt *unbeständige* Arbeitskräfte.
+
+  Le directeur a renvoyé cet employé *instable*.
+  Der Direktor hat diesen *unbeständigen* Mitarbeiter entlassen.
+
+  La météo *instable* a forcé l'annulation de l'événement.
+  Das *wechselhafte* Wetter hat zur Absage der Veranstaltung gezwungen.
+
+  Ces particules atomiques sont naturellement *instables*.
+  Diese Atomteilchen sind von Natur aus *instabil*.
+
+  Son caractère *instable* inquiète ses parents.
+  Sein *labiler* Charakter beunruhigt seine Eltern.
+
+  La chaise *instable* doit être réparée.
+  Der *wackelige* Stuhl muss repariert werden.
+
+  Le régime politique *instable* a conduit à une révolution.
+  Das *instabile* politische Regime hat zu einer Revolution geführt.
+
+  Cette région connaît un climat très *instable*.
+  Diese Region hat ein sehr *wechselhaftes* Klima.
+
+  La monnaie *instable* a causé une crise économique.
+  Die *instabile* Währung hat eine Wirtschaftskrise verursacht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

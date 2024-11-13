@@ -13,11 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les gangs font la manchette presque quotidiennement.
-  Gangs sind fast täglich in den Schlagzeilen.
+  Les gangs font la manchette presque *quotidiennement*.
+  Die Gangs machen fast *täglich* Schlagzeilen.
 
-  Je fais du sport quotidiennement.
-  Ich mache täglich Sport.
+  Je prends *quotidiennement* mes médicaments après le petit-déjeuner.
+  Ich nehme meine Medikamente *täglich* nach dem Frühstück.
+
+  Cette application est mise à jour *quotidiennement* pour assurer votre sécurité.
+  Diese App wird *täglich* aktualisiert, um Ihre Sicherheit zu gewährleisten.
+
+  Il faut nettoyer la cage du hamster *quotidiennement*.
+  Der Hamsterkäfig muss *täglich* gereinigt werden.
+
+  Marie et Thomas se parlent *quotidiennement* au téléphone depuis qu'ils sont à distance.
+  Marie und Thomas telefonieren *täglich* miteinander, seit sie räumlich getrennt sind.
+
+  Le prix de l'essence change *quotidiennement* à la station-service.
+  Der Benzinpreis an der Tankstelle ändert sich *täglich*.
+
+  Ces exercices sont à faire *quotidiennement* pendant deux semaines.
+  Diese Übungen sind zwei Wochen lang *täglich* zu machen.
+
+  Les enfants doivent se brosser les dents *quotidiennement*.
+  Kinder müssen sich *täglich* die Zähne putzen.
+
+  Notre équipe travaille *quotidiennement* pour améliorer nos services.
+  Unser Team arbeitet *täglich* daran, unsere Dienstleistungen zu verbessern.
+
+  Je vérifie *quotidiennement* mes e-mails professionnels.
+  Ich prüfe *täglich* meine Arbeits-E-Mails.
+
+  Les journalistes publient *quotidiennement* des articles sur ce sujet.
+  Die Journalisten veröffentlichen *täglich* Artikel zu diesem Thema.
+
+  Le boulanger prépare *quotidiennement* du pain frais dès 4 heures du matin.
+  Der Bäcker bereitet ab 4 Uhr morgens *täglich* frisches Brot zu.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

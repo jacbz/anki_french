@@ -13,14 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai déclaré un gel du recrutement.
-  Ich habe einen Einstellungsstopp verhängt.
+  J'ai déclaré un gel du *recrutement*.
+  Ich habe einen *Einstellungs*stopp verkündet.
 
-  Notre entreprise a besoin d’un bon recrutement.
-  Unser Unternehmen braucht eine gute Rekrutierung.
+  Le *recrutement* de nouveaux employés se fait sur entretien.
+  Die *Einstellung* neuer Mitarbeiter erfolgt nach Vorstellungsgespräch.
 
-  Le cabinet de recrutement a aidé Pierre à trouver un emploi.
-  Das Personalberatungsbüro hat Pierre bei der Jobsuche geholfen.
+  Notre *recrutement* se fait uniquement sur concours.
+  Unsere *Rekrutierung* erfolgt ausschließlich über Auswahlverfahren.
+
+  Le processus de *recrutement* a duré trois mois.
+  Der *Einstellungs*prozess hat drei Monate gedauert.
+
+  Elle travaille dans un cabinet de *recrutement*.
+  Sie arbeitet in einem *Personal*beratungsbüro.
+
+  Le *recrutement* des cadres devient de plus en plus difficile.
+  Die *Anwerbung* von Führungskräften wird immer schwieriger.
+
+  Les frais de *recrutement* sont très élevés cette année.
+  Die *Personal*beschaffungskosten sind dieses Jahr sehr hoch.
+
+  Le bureau de *recrutement* est fermé le week-end.
+  Das *Rekrutierungs*büro ist am Wochenende geschlossen.
+
+  L'armée a lancé une nouvelle campagne de *recrutement*.
+  Die Armee hat eine neue *Anwerbe*kampagne gestartet.
+
+  Le *recrutement* des nouveaux membres se fait en ligne.
+  Die *Werbung* neuer Mitglieder erfolgt online.
+
+  Nous avons externalisé le *recrutement* des stagiaires.
+  Wir haben die *Einstellung* der Praktikanten ausgelagert.
+
+  Le *recrutement* massif de soldats a commencé hier.
+  Die massive *Aushebung* von Soldaten hat gestern begonnen.
+
+  Le centre de *recrutement* organise une journée portes ouvertes.
+  Das *Rekrutierungs*zentrum veranstaltet einen Tag der offenen Tür.
+
+  Les politiques de *recrutement* ont changé récemment.
+  Die *Einstellungs*richtlinien haben sich kürzlich geändert.
+
+  Le *recrutement* sur titres est privilégié pour ce poste.
+  Die *Einstellung* nach Qualifikation wird für diese Stelle bevorzugt.
+
+  Notre stratégie de *recrutement* vise les jeunes diplômés.
+  Unsere *Rekrutierungs*strategie zielt auf junge Absolventen ab.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

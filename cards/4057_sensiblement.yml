@@ -13,11 +13,47 @@ Register: ↗Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le gouvernement fédéral a réduit sensiblement sa contribution.
-  Die Bundesregierung hat ihren Beitrag deutlich reduziert.
+  Le gouvernement fédéral a réduit *sensiblement* sa contribution.
+  Die Bundesregierung hat ihren Beitrag *deutlich* reduziert.
 
-  Les températures ont baissé sensiblement.
-  Die Temperaturen sind merklich gesunken.
+  La température a *sensiblement* baissé ces derniers jours.
+  Die Temperatur ist in den letzten Tagen *spürbar* gesunken.
+
+  Les ventes ont augmenté *sensiblement* au cours du dernier trimestre.
+  Der Umsatz ist im letzten Quartal *deutlich* gestiegen.
+
+  Ces deux voitures coûtent *sensiblement* le même prix.
+  Diese beiden Autos kosten *ungefähr* den gleichen Preis.
+
+  Son état de santé s'est *sensiblement* amélioré après le traitement.
+  Sein Gesundheitszustand hat sich nach der Behandlung *deutlich* verbessert.
+
+  La qualité de l'air s'est *sensiblement* dégradée dans les grandes villes.
+  Die Luftqualität hat sich in den Großstädten *spürbar* verschlechtert.
+
+  Les deux candidates ont *sensiblement* les mêmes chances de gagner.
+  Die beiden Kandidatinnen haben *etwa* die gleichen Gewinnchancen.
+
+  Le niveau de bruit a *sensiblement* diminué depuis l'installation du mur anti-bruit.
+  Der Lärmpegel ist seit der Installation der Lärmschutzwand *deutlich* zurückgegangen.
+
+  Les prix ont *sensiblement* augmenté depuis l'année dernière.
+  Die Preise sind seit letztem Jahr *spürbar* gestiegen.
+
+  Le nombre d'étudiants a *sensiblement* baissé cette année.
+  Die Zahl der Studenten ist dieses Jahr *deutlich* gesunken.
+
+  Les résultats des deux groupes sont *sensiblement* identiques.
+  Die Ergebnisse der beiden Gruppen sind *ungefähr* gleich.
+
+  La consommation d'énergie a *sensiblement* diminué après les rénovations.
+  Der Energieverbrauch ist nach den Renovierungen *spürbar* gesunken.
+
+  Le trafic a *sensiblement* augmenté aux heures de pointe.
+  Der Verkehr hat in den Stoßzeiten *deutlich* zugenommen.
+
+  Les conditions de travail se sont *sensiblement* améliorées depuis les réformes.
+  Die Arbeitsbedingungen haben sich seit den Reformen *spürbar* verbessert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

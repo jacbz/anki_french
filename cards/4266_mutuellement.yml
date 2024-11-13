@@ -13,20 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils se sont traités mutuellement de criminels de guerre.
-  Sie bezeichneten sich gegenseitig als Kriegsverbrecher.
+  Ils se sont traités *mutuellement* de criminels de guerre.
+  Sie haben sich *gegenseitig* als Kriegsverbrecher bezeichnet.
 
-  Nous nous aidons mutuellement.
-  Wir helfen uns gegenseitig.
+  Les deux entreprises se sont enrichies *mutuellement* grâce à leur partenariat.
+  Die beiden Unternehmen haben sich durch ihre Partnerschaft *gegenseitig* bereichert.
 
-  Les deux amis se sont aidés mutuellement pour réussir leur projet.
-  Die beiden Freunde haben sich gegenseitig geholfen, um ihr Projekt zum Erfolg zu führen.
+  Ces deux langues s'influencent *mutuellement* depuis des siècles.
+  Diese beiden Sprachen beeinflussen sich seit Jahrhunderten *gegenseitig*.
 
-  Ils se sont aidés mutuellement à traverser cette période difficile.
-  Sie haben sich gegenseitig geholfen, diese schwierige Zeit zu überstehen.
+  Dans ce groupe, nous nous respectons *mutuellement*.
+  In dieser Gruppe respektieren wir uns *gegenseitig*.
 
-  Les deux produits sont complémentaires et se renforcent mutuellement.
-  Beide Produkte sind komplementär und verstärken einander.
+  Les époux se sont promis *mutuellement* fidélité lors de leur mariage.
+  Die Ehepartner haben sich bei ihrer Hochzeit *gegenseitig* die Treue versprochen.
+
+  Les deux pays se sont accordé *mutuellement* des avantages commerciaux.
+  Die beiden Länder haben sich *gegenseitig* Handelsvorteile eingeräumt.
+
+  Nos équipes se soutiennent *mutuellement* dans les moments difficiles.
+  Unsere Teams unterstützen sich in schwierigen Zeiten *gegenseitig*.
+
+  Les deux théories se complètent *mutuellement*.
+  Die beiden Theorien ergänzen sich *gegenseitig*.
+
+  Marie et Pierre se sont *mutuellement* encouragés pendant leurs études.
+  Marie und Pierre haben sich während ihres Studiums *gegenseitig* ermutigt.
+
+  Ces deux artistes s'inspirent *mutuellement* dans leur travail créatif.
+  Diese beiden Künstler inspirieren sich in ihrer kreativen Arbeit *gegenseitig*.
+
+  Les voisins se sont *mutuellement* aidés pendant la tempête.
+  Die Nachbarn haben sich während des Sturms *gegenseitig* geholfen.
+
+  Les deux communautés se sont enrichies *mutuellement* de leurs traditions.
+  Die beiden Gemeinschaften haben sich durch ihre Traditionen *gegenseitig* bereichert.
+
+  Les joueurs se font *mutuellement* confiance sur le terrain.
+  Die Spieler vertrauen sich auf dem Platz *gegenseitig*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

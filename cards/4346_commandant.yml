@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il s’est autoproclamé commandant en chef de l’organisation.
-  Er ernannte sich selbst zum Oberbefehlshaber der Organisation.
+  Il s'est autoproclamé *commandant* en chef de l'organisation.
+  Er hat sich zum *Kommandeur* der Organisation ernannt.
 
-  Le commandant a donné l’ordre de partir.
-  Der Kommandant hat den Befehl zum Aufbruch gegeben.
+  Le *commandant* du camp doit s'assurer que tous les soldats suivent les règles.
+  Der *Lagerkommandant* muss sicherstellten, dass alle Soldaten die Regeln befolgen.
 
-  La capitaine Dubois est commandante du régiment.
-  Kapitänin Dubois ist die Kommandantin des Regiments.
+  Mon père était *commandant* dans l'armée de l'air pendant vingt ans.
+  Mein Vater war zwanzig Jahre lang *Major* in der Luftwaffe.
 
-  Le sergent-chef Moreau est commandant du camp.
-  Feldwebel Moreau ist die Lagerkommandantin.
+  Le *commandant* Fischer dirige notre régiment depuis trois ans.
+  *Kommandeur* Fischer führt unser Regiment seit drei Jahren.
+
+  Le *commandant* du navire a ordonné l'évacuation immédiate.
+  Der *Kommandant* des Schiffes ordnete die sofortige Evakuierung an.
+
+  Notre *commandant* de bord nous a informés des conditions météorologiques.
+  Unser Flug*kommandant* hat uns über die Wetterbedingungen informiert.
+
+  Les quatre galons sur son uniforme indiquent qu'il est *commandant*.
+  Die vier Streifen auf seiner Uniform zeigen, dass er *Major* ist.
+
+  "Mon *commandant*, les recrues sont prêtes pour l'inspection."
+  "Mein *Major*, die Rekruten sind bereit für die Inspektion."
+
+  Le *commandant* du poste a reçu de nouvelles instructions ce matin.
+  Der *Kommandant* des Postens hat heute Morgen neue Anweisungen erhalten.
+
+  Marie a été promue *commandante* de la base militaire hier.
+  Marie wurde gestern zur *Kommandantin* des Militärstützpunkts befördert.
+
+  Je vous présente le *commandant* Dubois, notre nouveau chef d'escadron.
+  Ich stelle Ihnen *Major* Dubois vor, unseren neuen Schwadronschef.
+
+  Le *commandant* en second a pris la relève pendant la nuit.
+  Der stellvertretende *Kommandant* hat während der Nacht die Führung übernommen.
+
+  Le *commandant* du paquebot a 30 ans d'expérience en mer.
+  Der *Kapitän* des Kreuzfahrtschiffs hat 30 Jahre Erfahrung auf See.
+
+  Sa voix *commandante* ne laissait aucune place à la discussion.
+  Seine *befehlende* Stimme ließ keinen Raum für Diskussionen.
+
+  Le *commandant* de la frégate a donné l'ordre de changer de cap.
+  Der *Kommandant* der Fregatte gab den Befehl zur Kursänderung.
+
+  Le *commandant* militaire du palais supervise la sécurité.
+  Der militärische *Kommandant* des Palasts überwacht die Sicherheit.
+
+  Le nouveau *commandant* de compagnie sera présenté demain.
+  Der neue Kompanie*kommandant* wird morgen vorgestellt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,14 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Puis ses yeux captèrent un mouvement.
-  Dann fingen ihre Augen eine Bewegung ein.
+  Puis ses yeux *captèrent* un mouvement.
+  Dann *nahmen* seine Augen eine Bewegung *wahr*.
 
-  Il a réussi à capter l’attention de tout le monde.
-  Er hat es geschafft, die Aufmerksamkeit aller zu erfassen.
+  Le panneau solaire *capte* l'énergie du soleil pour chauffer l'eau.
+  Das Sonnenpanel *fängt* die Sonnenenergie zum Wassererhitzen *ein*.
 
-  Le film captait l'attention de tous les spectateurs.
-  Der Film fesselte alle Zuschauer.
+  J'ai enfin réussi à *capter* le signal WiFi dans le jardin.
+  Endlich habe ich das WLAN-Signal im Garten *empfangen*.
+
+  "Je ne *capte* pas ce que tu veux dire."
+  "Ich *kriege* nicht *mit*, was du sagen willst."
+
+  L'orateur a su *capter* l'attention de tout l'auditoire.
+  Der Redner hat die Aufmerksamkeit des ganzen Publikums zu *fesseln* gewusst.
+
+  Cette ville *capte* l'eau d'une source naturelle dans la montagne.
+  Diese Stadt *fasst* das Wasser einer natürlichen Quelle in den Bergen.
+
+  Mon nouveau téléphone *capte* mal dans cette zone.
+  Mein neues Handy hat schlechten *Empfang* in dieser Gegend.
+
+  Les panneaux photovoltaïques *captent* plus d'énergie en été.
+  Die Photovoltaikmodule *fangen* im Sommer mehr Energie *ein*.
+
+  Cette antenne permet de *capter* les émissions en haute définition.
+  Diese Antenne ermöglicht es, die Sendungen in HD zu *empfangen*.
+
+  Le dispositif *capte* les mouvements et déclenche l'alarme.
+  Die Vorrichtung *nimmt* Bewegungen *wahr* und löst den Alarm aus.
+
+  "Tu *captes* maintenant pourquoi je suis en colère ?"
+  "*Checkst* du jetzt, warum ich wütend bin?"
+
+  La municipalité a décidé de *capter* la source pour alimenter la ville.
+  Die Gemeinde hat beschlossen, die Quelle zu *fassen*, um die Stadt zu versorgen.
+
+  Le nouveau professeur sait *capter* l'intérêt des élèves.
+  Der neue Lehrer weiß das Interesse der Schüler zu *fesseln*.
+
+  Les chercheurs tentent de *capter* les ondes gravitationnelles.
+  Die Forscher versuchen, die Gravitationswellen *einzufangen*.
+
+  Ce microphone ultra-sensible peut *capter* les sons les plus faibles.
+  Dieses hochempfindliche Mikrofon kann die leisesten Töne *aufnehmen*.
+
+  Notre radio ne *capte* plus cette station depuis hier.
+  Unser Radio *empfängt* diesen Sender seit gestern nicht mehr.
+
+  Le capteur *capte* la chaleur et régule la température.
+  Der Sensor *nimmt* die Wärme *wahr* und reguliert die Temperatur.
+
+  Ces arbres *captent* le CO2 de l'atmosphère.
+  Diese Bäume *nehmen* das CO2 aus der Atmosphäre *auf*.
+
+  L'artiste a su *capter* l'essence même du paysage.
+  Der Künstler hat das Wesen der Landschaft *einzufangen* verstanden.
+
+  "Je ne *capte* plus rien depuis que nous sommes dans le tunnel."
+  "Ich *empfange* nichts mehr, seit wir im Tunnel sind."
+
+  Le nouveau roman de cet auteur *capte* immédiatement l'attention du lecteur.
+  Der neue Roman dieses Autors *fesselt* sofort die Aufmerksamkeit des Lesers.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

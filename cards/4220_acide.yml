@@ -13,38 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai dissous le sang à l’acide.
-  Ich habe das Blut mit Säure aufgelöst.
+  J'ai dissous le sang à l'*acide*.
+  Ich habe das Blut in *Säure* aufgelöst.
 
-  Le citron est acide.
-  Die Zitrone ist sauer.
+  Ces citrons sont très *acides*.
+  Diese Zitronen sind sehr *sauer*.
 
-  Acide arachidonique
-  Arachidonsäure
+  Il a fait une remarque *acide* sur ma nouvelle coupe de cheveux.
+  Er hat eine *bissige* Bemerkung über meinen neuen Haarschnitt gemacht.
 
-  Acide ascorbique
-  Ascorbinsäure
+  La pluie *acide* détruit les forêts.
+  Der *saure* Regen zerstört die Wälder.
 
-  Acide carbonique
-  Kohlensäure
+  Le pH du sol devient trop *acide* pour ces plantes.
+  Der pH-Wert des Bodens wird zu *sauer* für diese Pflanzen.
 
-  Acide désoxyribonucléique
-  Desoxyribonukleinsäure
+  L'*acide* folique est important pendant la grossesse.
+  *Folsäure* ist während der Schwangerschaft wichtig.
 
-  Acide gras saturé
-  gesättigte Fettsäure
+  L'*acide* lactique s'accumule dans les muscles pendant l'exercice.
+  *Milchsäure* sammelt sich während des Trainings in den Muskeln an.
 
-  Acide gras non saturé
-  ungesättigte Fettsäure
+  Son ton *acide* m'a mis mal à l'aise.
+  Sein *scharfer* Ton hat mich unwohl fühlen lassen.
 
-  Acide lactique
-  Milchsäure
+  Les yaourts contiennent de l'*acide* carbonique naturel.
+  Joghurts enthalten natürliche *Kohlensäure*.
 
-  Acide phosphorique
-  Phosphorsäure
+  L'*acide* ascorbique est un autre nom pour la vitamine C.
+  *Ascorbinsäure* ist ein anderer Name für Vitamin C.
 
-  Acide urique
-  Harnsäure
+  L'*acide* urique peut causer la goutte.
+  *Harnsäure* kann Gicht verursachen.
+
+  Les *acides* gras omega-3 sont bons pour la santé.
+  Omega-3-*Fettsäuren* sind gut für die Gesundheit.
+
+  Cette solution est trop *acide* pour être utilisée sans protection.
+  Diese Lösung ist zu *säurehaltig*, um ohne Schutz verwendet zu werden.
+
+  L'*acide* phosphorique est présent dans de nombreuses boissons gazeuses.
+  *Phosphorsäure* ist in vielen kohlensäurehaltigen Getränken enthalten.
+
+  Son humour *acide* n'est pas apprécié par tout le monde.
+  Seinen *beißenden* Humor mag nicht jeder.
+
+  Les *acides* nucléiques sont essentiels à la vie.
+  Nuklein*säuren* sind lebenswichtig.
+
+  Cette pomme verte a un goût très *acide*.
+  Dieser grüne Apfel schmeckt sehr *sauer*.
+
+  L'*acide* chlorhydrique est dangereux à manipuler.
+  *Salzsäure* ist gefährlich in der Handhabung.
+
+  Les *acides* gras saturés peuvent augmenter le cholestérol.
+  Gesättigte *Fettsäuren* können den Cholesterinspiegel erhöhen.
+
+  La pollution industrielle provoque des pluies *acides*.
+  Industrieverschmutzung verursacht *sauren* Regen.
+
+  L'*acide* acétique donne au vinaigre son goût caractéristique.
+  *Essigsäure* gibt dem Essig seinen charakteristischen Geschmack.
+
+  Elle a lancé des commentaires *acides* pendant toute la réunion.
+  Sie machte während der ganzen Sitzung *bissige* Kommentare.
+
+  L'*acide* désoxyribonucléique contient notre information génétique.
+  *Desoxyribonukleinsäure* enthält unsere genetische Information.
+
+  Ce vin a un goût légèrement *acide*.
+  Dieser Wein schmeckt leicht *sauer*.
+
+  Les tons *acides* de sa peinture attirent l'attention.
+  Die *grellen* Töne seines Gemäldes ziehen die Aufmerksamkeit auf sich.
+
+  Son regard *acide* en disait long sur son mécontentement.
+  Ihr *scharfer* Blick sagte viel über ihre Unzufriedenheit aus.
+
+  Les *acides* peuvent corroder les métaux.
+  *Säuren* können Metalle zersetzen.
+
+  La roche volcanique est très *acide*.
+  Das vulkanische Gestein ist sehr *säurehaltig*.
+
+  Une critique *acide* peut être constructive si elle est bien formulée.
+  Eine *scharfe* Kritik kann konstruktiv sein, wenn sie gut formuliert ist.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

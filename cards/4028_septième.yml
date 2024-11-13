@@ -13,17 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le septième enfant est mort.
-  Das siebte Kind ist gestorben.
+  Le *septième* enfant est mort.
+  Das *siebte* Kind ist gestorben.
 
-  C’est la septième fois que je te le dis.
-  Das ist das siebte Mal, dass ich es dir sage.
+  Il habite au *septième* étage d'un immeuble historique.
+  Er wohnt im *siebten* Stock eines historischen Gebäudes.
 
-  Il est le septième de la classe.
-  Er ist der Siebte der Klasse.
+  Le cinéma est considéré comme le *septième* art.
+  Das Kino gilt als die *siebte* Kunst.
 
-  Elle est la septième de la classe.
-  Sie ist die Siebte der Klasse.
+  "Je suis au *septième* ciel depuis que j'ai reçu cette nouvelle !"
+  "Ich bin im *siebten* Himmel, seit ich diese Nachricht bekommen habe!"
+
+  Elle a terminé *septième* de la course.
+  Sie ist als *Siebte* ins Ziel gekommen.
+
+  Mon fils est le *septième* de sa classe.
+  Mein Sohn ist der *Siebte* in seiner Klasse.
+
+  La *septième* partie du gâteau est pour toi.
+  Das *Siebtel* vom Kuchen ist für dich.
+
+  Nous vivons dans le *septième* arrondissement de Paris.
+  Wir wohnen im *siebten* Arrondissement von Paris.
+
+  L'accord de *septième* diminuée est difficile à jouer.
+  Der verminderte *Septim*akkord ist schwer zu spielen.
+
+  Le *septième* chapitre est le plus intéressant du livre.
+  Das *siebte* Kapitel ist das interessanteste im Buch.
+
+  Il possède un *septième* des parts de l'entreprise.
+  Er besitzt ein *Siebtel* der Firmenanteile.
+
+  La *septième* symphonie de Beethoven est magnifique.
+  Die *siebte* Symphonie von Beethoven ist wunderschön.
+
+  C'est ma *septième* année d'enseignement.
+  Es ist mein *siebtes* Jahr als Lehrer.
+
+  Le *Septième* Sceau est un film célèbre de Bergman.
+  Das *Siebte* Siegel ist ein berühmter Film von Bergman.
+
+  Elle joue une *septième* majeure sur le piano.
+  Sie spielt eine große *Septime* auf dem Klavier.
+
+  Le *septième* jour, Dieu se reposa.
+  Am *siebten* Tag ruhte Gott.
+
+  Marc est arrivé *septième* au concours de mathématiques.
+  Marc wurde *Siebter* im Mathematikwettbewerb.
+
+  Un *septième* de son salaire va aux impôts.
+  Ein *Siebtel* seines Gehalts geht an Steuern.
+
+  La *septième* planète du système solaire est Uranus.
+  Der *siebte* Planet im Sonnensystem ist Uranus.
+
+  C'était son *septième* essai pour passer le permis.
+  Es war sein *siebter* Versuch, den Führerschein zu machen.
+
+  Germinal était le *septième* mois du calendrier républicain.
+  Germinal war der *siebte* Monat im republikanischen Kalender.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

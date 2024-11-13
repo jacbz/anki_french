@@ -13,23 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il n’a révélé la teneur exacte de sa conversation.
-  Den genauen Inhalt des Gesprächs gab er nicht bekannt.
+  Il n'a pas révélé la *teneur* exacte de sa conversation.
+  Er hat den genauen *Inhalt* seines Gesprächs nicht preisgegeben.
 
-  La teneur en sucre est élevée.
-  Der Zuckergehalt ist hoch.
+  La *teneur* informative de ce documentaire était remarquable.
+  Der *Informationsgehalt* dieser Dokumentation war bemerkenswert.
 
-  La teneur informative de cet article est remarquable.
-  Der Informationsgehalt dieses Artikels ist bemerkenswert.
+  Nous devons vérifier la *teneur* en sel de l'eau de mer.
+  Wir müssen den *Salzgehalt* des Meerwassers überprüfen.
 
-  La teneur en or de ce bijou est très élevée.
-  Der Goldgehalt dieses Schmuckstücks ist sehr hoch.
+  La *teneur* en vitamines des fruits frais est plus élevée.
+  Der *Vitamingehalt* von frischem Obst ist höher.
 
-  La teneur en sel de ce plat est trop élevée.
-  Der Salzgehalt dieses Gerichts ist zu hoch.
+  Cette loi changera selon la *teneur* des débats parlementaires.
+  Dieses Gesetz wird sich je nach dem *Inhalt* der parlamentarischen Debatten ändern.
 
-  La teneur en vitamines de ce fruit est importante.
-  Der Vitamingehalt dieses Obstes ist hoch.
+  La *teneur* en or de ce bijou est certifiée.
+  Der *Goldgehalt* dieses Schmuckstücks ist zertifiziert.
+
+  J'ai analysé la *teneur* en ozone de l'air aujourd'hui.
+  Ich habe heute den *Ozongehalt* der Luft analysiert.
+
+  La *teneur* de cet article m'a vraiment fait réfléchir.
+  Der *Inhalt* dieses Artikels hat mich wirklich zum Nachdenken gebracht.
+
+  Les experts ont mesuré la *teneur* en fer du minerai.
+  Die Experten haben den *Eisengehalt* des Erzes gemessen.
+
+  Quelle est la *teneur* exacte de sa lettre de démission ?
+  Was ist der genaue *Wortlaut* seines Kündigungsschreibens?
+
+  La *teneur* en sucre de cette boisson est trop élevée.
+  Der *Zuckergehalt* dieses Getränks ist zu hoch.
+
+  Je ne comprends pas la *teneur* de son message.
+  Ich verstehe den *Inhalt* seiner Nachricht nicht.
+
+  La *teneur* en calcium du lait varie selon son origine.
+  Der *Kalziumgehalt* der Milch variiert je nach Herkunft.
+
+  Personne ne connaît la *teneur* exacte de l'accord.
+  Niemand kennt den genauen *Inhalt* der Vereinbarung.
+
+  La *teneur* en protéines de ce repas est suffisante.
+  Der *Proteingehalt* dieser Mahlzeit ist ausreichend.
+
+  Les scientifiques surveillent la *teneur* en CO2 de l'atmosphère.
+  Die Wissenschaftler überwachen den CO2-*Gehalt* der Atmosphäre.
+
+  La *teneur* du document a été modifiée sans autorisation.
+  Der *Wortlaut* des Dokuments wurde ohne Genehmigung geändert.
+
+  Nous devons réduire la *teneur* en graisses de notre alimentation.
+  Wir müssen den Fett*gehalt* unserer Ernährung reduzieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

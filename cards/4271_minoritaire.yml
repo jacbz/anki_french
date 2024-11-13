@@ -13,26 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ces gens appartiennent à un groupe minoritaire.
-  Diese Menschen gehören zu einer Minderheitengruppe.
+  Ces gens appartiennent à un groupe *minoritaire*.
+  Diese Menschen gehören einer *Minderheiten*gruppe an.
 
-  Les femmes sont souvent minoritaires dans les postes de direction.
-  Frauen sind oft in Führungspositionen unterrepräsentiert.
+  Une opinion *minoritaire* peut parfois avoir raison.
+  Eine *Minderheits*meinung kann manchmal richtig sein.
 
-  Ils ont une opinion minoritaire, mais elle est importante.
-  Ihre Meinung ist eine Minderheitenmeinung, aber sie ist wichtig.
+  Les femmes sont toujours *minoritaires* dans ce métier.
+  Frauen sind in diesem Beruf immer in der *Minderheit*.
 
-  Les minoritaires sont souvent oubliés.
-  Die Minderheit wird oft vergessen.
+  Le gouvernement *minoritaire* a du mal à faire passer ses réformes.
+  Die *Minderheits*regierung hat Schwierigkeiten, ihre Reformen durchzusetzen.
 
-  Ce groupe minoritaire a besoin de soutien.
-  Diese Minderheitengruppe braucht Unterstützung.
+  Les *minoritaires* ont quitté la salle en signe de protestation.
+  Die *Minderheit* hat aus Protest den Saal verlassen.
 
-  Ils sont minoritaires, mais leur voix doit être entendue.
-  Sie sind in der Minderheit, aber ihre Stimme muss gehört werden.
+  Cette motion *minoritaire* n'a aucune chance d'être adoptée.
+  Dieser *Minderheits*antrag hat keine Chance, angenommen zu werden.
 
-  Les minoritaires ethniques sont victimes de discrimination.
-  Die ethnischen Minderheiten sind Opfer von Diskriminierung.
+  La participation *minoritaire* de Pierre dans l'entreprise lui donne peu d'influence.
+  Peters *Minderheits*beteiligung an der Firma gibt ihm wenig Einfluss.
+
+  Les groupes ethniques *minoritaires* doivent être protégés par la loi.
+  Ethnische *Minderheiten*gruppen müssen gesetzlich geschützt werden.
+
+  Une coalition *minoritaire* s'est formée entre trois petits partis.
+  Eine *Minderheits*koalition hat sich zwischen drei kleinen Parteien gebildet.
+
+  Les actionnaires *minoritaires* ont contesté cette décision.
+  Die *Minderheits*aktionäre haben diese Entscheidung angefochten.
+
+  Cette tendance *minoritaire* gagne en popularité.
+  Diese *Minderheits*strömung gewinnt an Popularität.
+
+  L'opposition *minoritaire* a vivement critiqué le projet de loi.
+  Die *Minderheits*opposition hat den Gesetzentwurf scharf kritisiert.
+
+  Les entreprises publiques sont *minoritaires* dans ce secteur.
+  Die öffentlichen Unternehmen sind in diesem Sektor in der *Minderheit*.
+
+  Cette thèse *minoritaire* mérite d'être étudiée plus en détail.
+  Diese *Minderheits*these verdient es, genauer untersucht zu werden.
+
+  Les *minoritaires* à l'Assemblée ont demandé un nouveau vote.
+  Die *Minderheit* in der Versammlung hat eine neue Abstimmung gefordert.
+
+  Le courant *minoritaire* du parti propose une approche différente.
+  Die *Minderheits*strömung der Partei schlägt einen anderen Ansatz vor.
+
+  Une formation politique *minoritaire* a remporté une victoire surprise.
+  Eine politische *Minderheits*partei hat einen überraschenden Sieg errungen.
+
+  Les langues *minoritaires* doivent être préservées.
+  *Minderheiten*sprachen müssen bewahrt werden.
+
+  Cette position *minoritaire* commence à gagner du terrain.
+  Diese *Minderheits*position beginnt an Boden zu gewinnen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

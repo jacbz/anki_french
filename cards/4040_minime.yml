@@ -13,20 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Beaucoup de ces différences sont minimes.
-  Viele dieser Unterschiede sind minimal.
+  Beaucoup de ces différences sont *minimes*.
+  Viele dieser Unterschiede sind *minimal*.
 
-  C'est un fait minime, mais il a changé le cours de l'histoire.
-  Das ist eine belanglose Tatsache, aber sie hat den Lauf der Geschichte verändert.
+  Les dégâts causés par la tempête sont *minimes*.
+  Die durch den Sturm verursachten Schäden sind *gering*.
 
-  Les minimes ont remporté le match contre les cadets.
-  Die B-Jugend hat das Spiel gegen die A-Jugend gewonnen.
+  Le prix de ce service est *minime* par rapport à sa valeur.
+  Der Preis für diese Dienstleistung ist *unbedeutend* im Vergleich zu ihrem Wert.
 
-  Il était encore minime quand il a commencé à jouer au football.
-  Er war noch in der B-Jugend, als er anfing, Fußball zu spielen.
+  Elle a remporté le championnat dans la catégorie des *minimes*.
+  Sie hat die Meisterschaft in der *B-Jugend* gewonnen.
 
-  Elle est championne de la catégorie minimes et cadets.
-  Sie ist Jugendmeisterin in der B- und A-Jugend.
+  Cette modification n'a qu'une importance *minime*.
+  Diese Änderung hat nur *geringe* Bedeutung.
+
+  Mon fils est *minime* au club de natation.
+  Mein Sohn spielt in der *B-Jugend* des Schwimmvereins.
+
+  L'augmentation des coûts reste *minime* cette année.
+  Die Kostensteigerung bleibt dieses Jahr *minimal*.
+
+  Le risque d'effets secondaires est *minime*.
+  Das Risiko von Nebenwirkungen ist *gering*.
+
+  Les chances de gagner sont *minimes*, mais pas nulles.
+  Die Gewinnchancen sind *minimal*, aber nicht null.
+
+  Pierre s'entraîne avec l'équipe des *minimes*.
+  Pierre trainiert mit der *B-Jugend*.
+
+  La différence de prix est vraiment *minime*.
+  Der Preisunterschied ist wirklich *minimal*.
+
+  Ces détails *minimes* n'ont aucune importance.
+  Diese *unbedeutenden* Details sind völlig unwichtig.
+
+  L'impact sur l'environnement sera *minime*.
+  Die Auswirkungen auf die Umwelt werden *minimal* sein.
+
+  La perte de temps est *minime* comparée aux avantages.
+  Der Zeitverlust ist im Vergleich zu den Vorteilen *minimal*.
+
+  Les changements apportés au texte sont *minimes*.
+  Die am Text vorgenommenen Änderungen sind *geringfügig*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

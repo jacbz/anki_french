@@ -13,14 +13,113 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’hiver fut rude. Il fut malade deux fois.
-  Der Winter war hart. Er war zweimal krank.
+  L'hiver fut *rude*. Il fut malade deux fois.
+  Der Winter war *hart*. Er war zweimal krank.
 
-  Il a été très rude avec moi.
-  Er war sehr unhöflich zu mir.
+  Cette montée est très *rude*, il faut faire une pause.
+  Dieser Anstieg ist sehr *steil*, wir müssen eine Pause machen.
 
-  Ils ont vu de rudes épreuves pendant la guerre.
-  Sie haben Schweres durchgemacht während des Krieges.
+  Le climat est particulièrement *rude* dans cette région montagneuse.
+  Das Klima ist in dieser Bergregion besonders *rau*.
+
+  Mon père était un homme *rude* mais juste.
+  Mein Vater war ein *harter* aber gerechter Mann.
+
+  La surface de cette table est très *rude*.
+  Die Oberfläche dieses Tisches ist sehr *rau*.
+
+  Cette étoffe *rude* n'est pas agréable à porter.
+  Dieser *derbe* Stoff trägt sich nicht angenehm.
+
+  Les traits *rudes* de son visage reflètent une vie difficile.
+  Die *harten* Gesichtszüge spiegeln ein schwieriges Leben wider.
+
+  C'est un *rude* gaillard qui n'a peur de rien.
+  Das ist ein *handfester* Kerl, der vor nichts Angst hat.
+
+  Sa voix *rude* trahissait son émotion.
+  Seine *raue* Stimme verriet seine Gefühle.
+
+  "Il a un *rude* appétit, ce garçon !"
+  "Dieser Junge hat einen *gesegneten* Appetit!"
+
+  La concurrence est *rude* sur ce marché.
+  Die Konkurrenz auf diesem Markt ist *drückend*.
+
+  Pendant la guerre, ils en ont vu de *rudes*.
+  Während des Krieges haben sie *Schweres* durchgemacht.
+
+  Marc a des manières un peu *rudes*, mais il a bon cœur.
+  Marc hat etwas *derbe* Manieren, aber er hat ein gutes Herz.
+
+  C'est un *rude* adversaire au tennis.
+  Er ist ein *harter* Gegner im Tennis.
+
+  Ce métier est *rude*, peu de gens tiennent le coup.
+  Dieser Beruf ist *hart*, wenige Menschen halten durch.
+
+  Sa patience fut mise à *rude* épreuve.
+  Seine Geduld wurde auf eine *harte* Probe gestellt.
+
+  Cette toile *rude* irrite ma peau.
+  Dieses *raue* Tuch reizt meine Haut.
+
+  Les sons *rudes* de cette langue sont difficiles à prononcer.
+  Die *rauen* Laute dieser Sprache sind schwer auszusprechen.
+
+  "Il a un *rude* talent, ce jeune peintre !"
+  "Dieser junge Maler hat ein *sagenhaftes* Talent!"
+
+  Ses mains à la peau *rude* témoignent d'années de travail manuel.
+  Seine Hände mit der *rauen* Haut zeugen von Jahren der Handarbeit.
+
+  Vous avez été trop *rude* avec votre fille.
+  Sie waren zu *hart* zu Ihrer Tochter.
+
+  Sa voix *rude* porte loin dans la montagne.
+  Seine *raue* Stimme trägt weit in die Berge.
+
+  Ces hommes aux manières *rudes* ne connaissent pas le raffinement.
+  Diese Männer mit den *derben* Manieren kennen keine Raffinesse.
+
+  L'été a été particulièrement *rude* cette année.
+  Der Sommer war dieses Jahr besonders *hart*.
+
+  Pierre est un *rude* négociateur.
+  Pierre ist ein *harter* Verhandlungspartner.
+
+  La tempête fut *rude*, mais le bateau a résisté.
+  Der Sturm war *hart*, aber das Boot hat standgehalten.
+
+  Le réveil fut *rude* ce matin-là.
+  Das Erwachen war an diesem Morgen *hart*.
+
+  Cette *rude* journée m'a épuisé.
+  Dieser *harte* Tag hat mich erschöpft.
+
+  Les conditions de travail sont *rudes* dans cette usine.
+  Die Arbeitsbedingungen in dieser Fabrik sind *hart*.
+
+  Le chemin devient plus *rude* après le village.
+  Der Weg wird nach dem Dorf *steiler*.
+
+  Sa barbe *rude* lui donne un air sévère.
+  Sein *struppiger* Bart gibt ihm ein strenges Aussehen.
+
+  L'entrainement des soldats est particulièrement *rude*.
+  Das Training der Soldaten ist besonders *hart*.
+
+  Le match fut *rude*, mais nous avons gagné.
+  Das Spiel war *hart*, aber wir haben gewonnen.
+
+  Cette épreuve *rude* l'a rendu plus fort.
+  Diese *harte* Prüfung hat ihn stärker gemacht.
+
+  Les pêcheurs affrontent une mer *rude*.
+  Die Fischer trotzen einer *rauen* See.
+
+  Le tissu *rude* grattait sa peau délicate.
+  Der *raue* Stoff kratzte auf ihrer empfindlichen Haut.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle tisse des sacs en soie.
-  Sie webt Seidentaschen.
+  Elle *tisse* des sacs en soie.
+  Sie *webt* Taschen aus Seide.
 
-  Elle tisse une écharpe.
-  Sie webt einen Schal.
+  Cette petite entreprise familiale *tisse* encore ses tissus à la main.
+  Dieser kleine Familienbetrieb *webt* seine Stoffe noch von Hand.
 
-  Elle a tissé des liens très forts avec ses compagnons de voyage.
-  Sie hat eine sehr enge Freundschaft mit ihren Reisegefährten geschlossen.
+  L'araignée *tisse* sa toile dans le coin de la fenêtre.
+  Die Spinne *spinnt* ihr Netz in der Fensterecke.
 
-  Le récit est tissé de légendes anciennes.
-  Die Geschichte besteht aus alten Legenden.
+  J'ai acheté un tapis *tissé* à la main au Maroc.
+  Ich habe in Marokko einen hand*gewebten* Teppich gekauft.
+
+  Marie *tisse* des liens solides avec ses nouveaux collègues.
+  Marie *knüpft* feste Beziehungen zu ihren neuen Kollegen.
+
+  Les femmes du village *tissaient* la laine des moutons.
+  Die Frauen des Dorfes *verwebten* die Wolle der Schafe.
+
+  Son histoire est *tissée* d'aventures extraordinaires.
+  Seine Geschichte *besteht* aus außergewöhnlichen Abenteuern.
+
+  La jeune fille apprend à *tisser* le coton sur un vieux métier.
+  Das Mädchen lernt, Baumwolle auf einem alten Webstuhl zu *weben*.
+
+  Le temps a *tissé* des liens indéfectibles entre nous.
+  Die Zeit hat unzerbrechliche Bande zwischen uns *geknüpft*.
+
+  Cette couverture a été *tissée* avec du lin biologique.
+  Diese Decke wurde aus biologischem Leinen *gewebt*.
+
+  Les artisans *tissent* des motifs complexes dans leurs tapis.
+  Die Handwerker *weben* komplexe Muster in ihre Teppiche.
+
+  Sa vie est *tissée* de petits bonheurs quotidiens.
+  Ihr Leben *besteht* aus kleinen alltäglichen Freuden.
+
+  L'auteur a habilement *tissé* son intrigue policière.
+  Der Autor hat seinen Kriminalroman geschickt *gesponnen*.
+
+  Les araignées ont *tissé* leurs toiles dans tout le grenier.
+  Die Spinnen haben ihre Netze auf dem ganzen Dachboden *gesponnen*.
+
+  Mon grand-père *tissait* du coton dans son atelier.
+  Mein Großvater *webte* Baumwolle in seiner Werkstatt.
+
+  Cette entreprise *tisse* des étoffes depuis trois générations.
+  Dieses Unternehmen *webt* seit drei Generationen Stoffe.
+
+  Les deux familles ont *tissé* des liens étroits au fil des années.
+  Die beiden Familien haben im Laufe der Jahre enge Verbindungen *geknüpft*.
+
+  L'artiste *tisse* des fils d'or dans ses tapisseries.
+  Die Künstlerin *webt* Goldfäden in ihre Wandteppiche.
+
+  La grand-mère *tissait* des écharpes pour tous ses petits-enfants.
+  Die Großmutter *webte* Schals für alle ihre Enkelkinder.
+
+  Le destin a *tissé* une belle histoire d'amour entre eux.
+  Das Schicksal hat eine schöne Liebesgeschichte zwischen ihnen *gesponnen*.
+
+  Les villageois *tissent* encore leurs vêtements traditionnels.
+  Die Dorfbewohner *weben* noch ihre traditionelle Kleidung.
+
+  Cette légende est *tissée* de mystères et de secrets.
+  Diese Legende *besteht* aus Mysterien und Geheimnissen.
+
+  L'araignée a patiemment *tissé* sa toile pendant la nuit.
+  Die Spinne hat geduldig ihr Netz in der Nacht *gesponnen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

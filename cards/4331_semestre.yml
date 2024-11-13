@@ -13,17 +13,50 @@ Register: ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils faisaient un semestre d’intégration.
-  Sie absolvierten ein Integrationssemester.
+  Ils faisaient un *semestre* d'intégration.
+  Sie machten ein Integrations*semester*.
 
-  Je vais passer mon semestre à l’étranger.
-  Ich werde mein Halbjahr im Ausland verbringen.
+  Le premier *semestre* commence en septembre.
+  Das erste *Semester* beginnt im September.
 
-  Le cours se déroule par semestre.
-  Der Kurs findet halbjährlich statt.
+  Mon fils a validé son deuxième *semestre* avec d'excellentes notes.
+  Mein Sohn hat sein zweites *Semester* mit ausgezeichneten Noten bestanden.
 
-  Le paiement se fait par semestre.
-  Die Zahlung erfolgt halbjährlich.
+  Le loyer est payable par *semestre*.
+  Die Miete ist *halb*jährlich zu zahlen.
+
+  Les résultats du *semestre* seront publiés la semaine prochaine.
+  Die *Semester*ergebnisse werden nächste Woche veröffentlicht.
+
+  Durant le *semestre* d'hiver, je vais étudier en Suisse.
+  Während des Winter*semesters* werde ich in der Schweiz studieren.
+
+  Les ventes ont augmenté de 20% au dernier *semestre*.
+  Die Verkäufe sind im letzten *Halb*jahr um 20% gestiegen.
+
+  Elle a pris un congé d'un *semestre* pour voyager.
+  Sie hat ein *halb*jähriges Sabbatical genommen, um zu reisen.
+
+  L'université propose des cours intensifs ce *semestre*.
+  Die Universität bietet dieses *Semester* Intensivkurse an.
+
+  Le bilan du premier *semestre* est très positif.
+  Die Bilanz des ersten *Halb*jahres ist sehr positiv.
+
+  Les examens de fin de *semestre* approchent rapidement.
+  Die *Semester*prüfungen rücken schnell näher.
+
+  Je dois m'inscrire pour le prochain *semestre*.
+  Ich muss mich für das nächste *Semester* einschreiben.
+
+  La pension est versée par *semestre*.
+  Die Rente wird *halb*jährlich ausgezahlt.
+
+  Il reste encore trois semaines avant la fin du *semestre*.
+  Es sind noch drei Wochen bis zum *Semester*ende.
+
+  Les frais de scolarité sont à régler chaque *semestre*.
+  Die Studiengebühren sind pro *Semester* zu bezahlen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

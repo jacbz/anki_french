@@ -13,26 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’argent est prélevé sur les chèques toutes les semaines.
-  Das Geld wird wöchentlich von den Schecks abgebucht.
+  L'argent est *prélevé* sur les chèques toutes les semaines.
+  Das Geld wird wöchentlich von den Schecks *abgehoben*.
 
-  Je vais prélever de l’argent au distributeur automatique.
-  Ich werde Geld am Geldautomaten abheben.
+  La banque *prélève* automatiquement le loyer de mon compte chaque mois.
+  Die Bank *zieht* jeden Monat automatisch die Miete von meinem Konto *ab*.
 
-  J'ai prélevé de l'argent sur le compte pour acheter un nouveau téléphone.
-  Ich habe Geld vom Konto abgehoben, um mir ein neues Handy zu kaufen.
+  L'infirmière va *prélever* un peu de sang pour faire des analyses.
+  Die Krankenschwester wird etwas Blut *abnehmen*, um es zu untersuchen.
 
-  Le gouvernement a prélevé des capitaux des entreprises pour financer les nouveaux programmes sociaux.
-  Die Regierung hat Kapital von den Unternehmen abgeschöpft, um die neuen Sozialprogramme zu finanzieren.
+  Les impôts sont *prélevés* directement sur le salaire des employés.
+  Die Steuern werden direkt vom Gehalt der Angestellten *einbehalten*.
 
-  L'entreprise prélève une certaine somme sur le salaire des employés pour les cotisations sociales.
-  Die Firma zieht eine bestimmte Summe vom Lohn der Angestellten für die Sozialversicherungsbeiträge ab.
+  Le chercheur a *prélevé* des échantillons de terre pour son étude.
+  Der Forscher hat Bodenproben für seine Studie *entnommen*.
 
-  La ville prélève des taxes sur les immeubles pour financer les services publics.
-  Die Stadt zieht Gebühren auf Immobilien ein, um die öffentlichen Dienste zu finanzieren.
+  On *prélève* une commission de 2% sur chaque transaction.
+  Man *behält* bei jeder Transaktion eine Provision von 2% *ein*.
 
-  Le commerçant a prélevé en retour la somme que j'avais payée par erreur.
-  Der Händler hat die Summe, die ich irrtümlich bezahlt hatte, zurückbelastet.
+  L'équipe médicale doit *prélever* les organes rapidement après le décès.
+  Das medizinische Team muss die Organe nach dem Tod schnell *entnehmen*.
+
+  Le géologue a *prélevé* plusieurs fragments de roche dans la grotte.
+  Der Geologe hat mehrere Gesteinsfragmente in der Höhle *entnommen*.
+
+  La taxe sera *prélevée* sur tous les revenus supérieurs à 50 000 euros.
+  Die Steuer wird von allen Einkommen über 50.000 Euro *abgezogen*.
+
+  Le vétérinaire a *prélevé* un petit morceau de tissu pour la biopsie.
+  Der Tierarzt hat ein kleines Gewebestück für die Biopsie *entnommen*.
+
+  Les frais bancaires seront *prélevés* à la fin du mois.
+  Die Bankgebühren werden am Ende des Monats *eingezogen*.
+
+  Le scientifique *prélève* quelques milligrammes de la substance pour l'analyser.
+  Der Wissenschaftler *entnimmt* einige Milligramm der Substanz zur Analyse.
+
+  L'éleveur a *prélevé* trois chiots de la portée pour les garder.
+  Der Züchter hat drei Welpen aus dem Wurf *ausgewählt*.
+
+  Le couturier *prélève* un échantillon du tissu pour tester la couleur.
+  Der Schneider *entnimmt* eine Stoffprobe, um die Farbe zu testen.
+
+  La région *prélève* une nouvelle taxe sur les résidences secondaires.
+  Die Region *erhebt* eine neue Steuer auf Zweitwohnsitze.
+
+  Le montant sera *prélevé* sur votre compte dans les prochains jours.
+  Der Betrag wird in den nächsten Tagen von Ihrem Konto *abgebucht*.
+
+  Les charges locatives sont *prélevées* trimestriellement.
+  Die Nebenkosten werden vierteljährlich *eingezogen*.
+
+  Le laboratoire a *prélevé* des cellules pour effectuer des tests génétiques.
+  Das Labor hat Zellen für genetische Tests *entnommen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

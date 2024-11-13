@@ -13,23 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce devait être un monument aux morts.
-  Es sollte ein Kriegsdenkmal sein.
+  Ce devait être un *monument* aux morts.
+  Es musste ein *Denkmal* für die Gefallenen sein.
 
-  Le monument commémore la bataille de Waterloo.
-  Das Denkmal erinnert an die Schlacht von Waterloo.
+  La ville a érigé un *monument* en l'honneur de Victor Hugo.
+  Die Stadt hat ein *Denkmal* zu Ehren von Victor Hugo errichtet.
 
-  Le château est un monument national et il est classé monument historique.
-  Das Schloss ist ein Nationaldenkmal und steht unter Denkmalschutz.
+  Le *monument* funéraire de la famille est en marbre blanc.
+  Das *Grabmal* der Familie ist aus weißem Marmor.
 
-  Il est un monument d'orgueil à ne jamais oublier.
-  Er ist ein Denkmal des Stolzes, das man nie vergessen darf.
+  Ils ont restauré ce *monument* historique avec beaucoup de soin.
+  Sie haben dieses *Kulturdenkmal* sehr sorgfältig restauriert.
 
-  Shakespeare est un monument de la littérature anglaise.
-  Shakespeare ist ein Denkmal der englischen Literatur.
+  Les touristes admirent les *monuments* de l'Antiquité.
+  Die Touristen bewundern die antiken *Baudenkmäler*.
 
-  La statue est un monument public sur la place de la ville.
-  Die Statue ist ein öffentliches Bauwerk auf dem Stadtplatz.
+  Notre cathédrale est classée *monument* historique depuis 1925.
+  Unsere Kathedrale steht seit 1925 unter *Denkmal*schutz.
+
+  Le Louvre est un *monument* public impressionnant.
+  Der Louvre ist ein beeindruckendes öffentliches *Bauwerk*.
+
+  "Ce type est un véritable *monument* de stupidité!"
+  "Dieser Typ ist ungeheuer *dumm*!"
+
+  L'Odyssée reste un *monument* de la littérature mondiale.
+  Die Odyssee bleibt ein *Denkmal* der Weltliteratur.
+
+  On a dévoilé le *monument* commémoratif hier.
+  Das *Denkmal* wurde gestern enthüllt.
+
+  Ce *monument* national symbolise notre histoire.
+  Dieses *National*denkmal symbolisiert unsere Geschichte.
+
+  Les archéologues ont découvert un ancien *monument* funéraire.
+  Die Archäologen haben ein altes *Grabmal* entdeckt.
+
+  Paris compte de nombreux *monuments* remarquables.
+  Paris hat viele bemerkenswerte *Baudenkmäler*.
+
+  La statue est devenue un *monument* emblématique de la ville.
+  Die Statue ist zu einem symbolträchtigen *Wahrzeichen* der Stadt geworden.
+
+  Nous avons visité les principaux *monuments* de Rome.
+  Wir haben die wichtigsten *Sehenswürdigkeiten* Roms besichtigt.
+
+  Son dernier livre est un véritable *monument* d'érudition.
+  Sein letztes Buch ist ein wahres *Meisterwerk* der Gelehrsamkeit.
+
+  Le gouvernement protège les *monuments* historiques.
+  Die Regierung schützt die historischen *Baudenkmäler*.
+
+  Cette symphonie est un *monument* de la musique classique.
+  Diese Symphonie ist ein *Meilenstein* der klassischen Musik.
+
+  Les *monuments* publics sont fermés le lundi.
+  Die öffentlichen *Bauwerke* sind montags geschlossen.
+
+  "Son ego est un *monument* d'orgueil."
+  "Sein Ego ist ungeheuer *stolz*."
+
+  Le guide nous a fait découvrir les *monuments* médiévaux.
+  Der Führer zeigte uns die mittelalterlichen *Bauwerke*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

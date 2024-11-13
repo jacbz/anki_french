@@ -13,23 +13,56 @@ Register: ↘Fiktion ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le vérificateur général a lui-même porté ce jugement.
-  Der Generalprüfer selbst hat dieses Urteil gefällt.
+  Le *vérificateur* général a lui-même porté ce jugement.
+  Der General*prüfer* hat dieses Urteil selbst gefällt.
 
-  Le vérificateur a examiné les comptes de l’entreprise.
-  Der Prüfer hat die Konten des Unternehmens überprüft.
+  Notre *vérificateur* des comptes a détecté plusieurs irrégularités dans le bilan.
+  Unser *Abschlussprüfer* hat mehrere Unregelmäßigkeiten in der Bilanz entdeckt.
 
-  Le vérificateur des poids et mesures est responsable de la vérification de l'exactitude des poids et mesures utilisés dans le commerce.
-  Der Eichbeamte ist für die Überprüfung der Genauigkeit von Gewichten und Massen zuständig, die im Handel verwendet werden.
+  Le *vérificateur* orthographique m'a signalé trois erreurs dans ce texte.
+  Die *Rechtschreibprüfung* hat mir drei Fehler in diesem Text angezeigt.
 
-  Le vérificateur orthographique est un outil informatique qui permet de corriger les erreurs d'orthographe dans un texte.
-  Die Rechtschreibkontrolle ist ein Computertool, das hilft, Rechtschreibfehler in einem Text zu korrigieren.
+  La *vérificatrice* a constaté que tous les documents étaient en ordre.
+  Die *Prüferin* hat festgestellt, dass alle Dokumente in Ordnung waren.
 
-  Le vérificateur des comptes est une personne qui vérifie les comptes d'une entreprise pour s'assurer qu'ils sont exacts et conformes aux normes.
-  Der Abschlussprüfer ist eine Person, die die Buchhaltung eines Unternehmens überprüft, um sicherzustellen, dass sie korrekt und den Normen entspricht.
+  Le nouveau *vérificateur* des poids et mesures passera demain matin.
+  Der neue *Eichbeamte* kommt morgen Vormittag vorbei.
 
-  Le vérificateur des coûts est une personne qui analyse les coûts d'une entreprise pour identifier les domaines où des économies peuvent être réalisées.
-  Der Kostenrevisor ist eine Person, die die Kosten eines Unternehmens analysiert, um Bereiche zu identifizieren, in denen Einsparungen möglich sind.
+  J'ai désactivé le *vérificateur* orthographique de mon traitement de texte.
+  Ich habe die *Rechtschreibkontrolle* in meinem Textverarbeitungsprogramm deaktiviert.
+
+  Une *vérificatrice* expérimentée a rejoint notre équipe la semaine dernière.
+  Eine erfahrene *Kontrolleurin* ist letzte Woche unserem Team beigetreten.
+
+  Le *vérificateur* a signé le rapport final hier soir.
+  Der *Prüfer* hat den Abschlussbericht gestern Abend unterschrieben.
+
+  Cette entreprise cherche un *vérificateur* qualifié pour un poste à temps plein.
+  Dieses Unternehmen sucht einen qualifizierten *Prüfer* für eine Vollzeitstelle.
+
+  Le *vérificateur* des comptes nous rendra visite jeudi prochain.
+  Der *Abschlussprüfer* wird uns nächsten Donnerstag besuchen.
+
+  Mon *vérificateur* orthographique ne reconnaît pas ce mot.
+  Meine *Rechtschreibprüfung* erkennt dieses Wort nicht.
+
+  La *vérificatrice* a souligné plusieurs points positifs dans son rapport.
+  Die *Prüferin* hat in ihrem Bericht mehrere positive Punkte hervorgehoben.
+
+  Le *vérificateur* des poids et mesures a validé tous nos instruments.
+  Der *Eichbeamte* hat alle unsere Instrumente validiert.
+
+  Notre ancien *vérificateur* part à la retraite le mois prochain.
+  Unser alter *Prüfer* geht nächsten Monat in den Ruhestand.
+
+  La *vérificatrice* principale sera absente pendant deux semaines.
+  Die Haupt*prüferin* wird zwei Wochen lang abwesend sein.
+
+  Le *vérificateur* orthographique m'aide à éviter les fautes.
+  Das *Rechtschreibprogramm* hilft mir, Fehler zu vermeiden.
+
+  Les mesures *vérificatrices* ont confirmé nos premiers résultats.
+  Die *Prüf*maßnahmen haben unsere ersten Ergebnisse bestätigt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

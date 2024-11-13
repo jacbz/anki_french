@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le papillon symbolisait l’âme.
-  Der Schmetterling symbolisierte die Seele.
+  Le papillon *symbolisait* l'âme.
+  Der Schmetterling *versinnbildlichte* die Seele.
 
-  Le drapeau symbolise la liberté.
-  Die Flagge symbolisiert die Freiheit.
+  La colombe *symbolise* la paix depuis des millénaires.
+  Die Taube *symbolisiert* seit Jahrtausenden den Frieden.
+
+  Dans le langage des fleurs, la rose rouge *symbolise* l'amour passionné.
+  In der Blumensprache *symbolisiert* die rote Rose die leidenschaftliche Liebe.
+
+  Les mathématiciens *symbolisent* souvent l'infini par un huit couché.
+  Die Mathematiker *versinnbildlichen* die Unendlichkeit oft durch eine liegende Acht.
+
+  Cette poignée de main historique *symbolise* la réconciliation entre nos deux nations.
+  Dieser historische Händedruck *symbolisiert* die Versöhnung zwischen unseren beiden Nationen.
+
+  Les anciens Égyptiens *symbolisaient* la vie par une croix ansée.
+  Die alten Ägypter *versinnbildlichten* das Leben durch ein Anch-Kreuz.
+
+  Le glaive et la balance *symbolisent* la justice et l'équité.
+  Schwert und Waage *symbolisieren* Gerechtigkeit und Ausgewogenheit.
+
+  Dans ce tableau, l'arbre mort *symbolise* la fin d'une époque.
+  In diesem Gemälde *symbolisiert* der tote Baum das Ende einer Ära.
+
+  Les alchimistes *symbolisaient* l'or par un cercle avec un point au centre.
+  Die Alchemisten *versinnbildlichten* Gold durch einen Kreis mit einem Punkt in der Mitte.
+
+  Le phénix *symbolise* le renouveau et la renaissance.
+  Der Phönix *symbolisiert* die Erneuerung und Wiedergeburt.
+
+  Cette cérémonie *symbolise* le passage à l'âge adulte.
+  Diese Zeremonie *symbolisiert* den Übergang ins Erwachsenenalter.
+
+  Le serpent qui se mord la queue *symbolise* l'éternité.
+  Die sich in den Schwanz beißende Schlange *versinnbildlicht* die Ewigkeit.
+
+  Les drapeaux *symbolisent* l'identité nationale des pays.
+  Die Flaggen *symbolisieren* die nationale Identität der Länder.
+
+  En chimie, la lettre H *symbolise* l'hydrogène.
+  In der Chemie *symbolisiert* der Buchstabe H Wasserstoff.
+
+  Cette statue géante *symbolise* la liberté et l'indépendance.
+  Diese riesige Statue *symbolisiert* Freiheit und Unabhängigkeit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai raconté les tortures, les coups, les viols.
-  Ich erzählte von den Folterungen, den Schlägen und den Vergewaltigungen.
+  J'ai raconté les *tortures*, les coups, les viols.
+  Ich habe von den *Folterungen*, den Schlägen, den Vergewaltigungen berichtet.
 
-  La torture est interdite par la loi.
-  Folter ist gesetzlich verboten.
+  Les méthodes de *torture* sont interdites par la convention de Genève.
+  *Folter*methoden sind durch die Genfer Konvention verboten.
 
-  Le pauvre homme était à la torture, il ne pouvait plus supporter la douleur.
-  Der arme Mann stand Qualen aus, er konnte den Schmerz nicht mehr ertragen.
+  Cette attente interminable est une véritable *torture*.
+  Diese endlose Warterei ist eine echte *Qual*.
 
-  Les soldats ont mis le prisonnier à la torture pour obtenir des informations.
-  Die Soldaten haben den Gefangenen auf die Folter gespannt, um Informationen zu erhalten.
+  Les *tortures* de la jalousie l'ont rendu fou.
+  Die *Qualen* der Eifersucht haben ihn verrückt gemacht.
+
+  La *torture* psychologique peut laisser des séquelles à vie.
+  Psychische *Folter* kann lebenslange Schäden hinterlassen.
+
+  Ces chaussures sont un instrument de *torture*.
+  Diese Schuhe sind ein *Folter*instrument.
+
+  La *torture* physique et morale est interdite dans tous les pays civilisés.
+  Körperliche und seelische *Folter* ist in allen zivilisierten Ländern verboten.
+
+  Elle endurait la *torture* d'un mal de dents insupportable.
+  Sie ertrug die *Qual* unerträglicher Zahnschmerzen.
+
+  Le prisonnier a parlé sous la *torture*.
+  Der Gefangene hat unter *Folter* ausgesagt.
+
+  Cette longue marche dans le désert était une vraie *torture*.
+  Dieser lange Marsch durch die Wüste war eine wahre *Qual*.
+
+  Le suspect a avoué après des heures de *torture*.
+  Der Verdächtige gestand nach stundenlanger *Folter*.
+
+  Les *tortures* de la faim le faisaient délirer.
+  Die *Qualen* des Hungers ließen ihn fantasieren.
+
+  Ces examens sont une véritable *torture* pour les étudiants.
+  Diese Prüfungen sind eine regelrechte *Qual* für die Studenten.
+
+  Les survivants ont témoigné des *tortures* subies dans le camp.
+  Die Überlebenden bezeugten die *Folterungen*, die sie im Lager erlitten hatten.
+
+  La *torture* de l'incertitude le rongeait jour et nuit.
+  Die *Qual* der Ungewissheit nagte Tag und Nacht an ihm.
+
+  Il ne voulait pas mettre son ami à la *torture* plus longtemps.
+  Er wollte seinen Freund nicht länger auf die *Folter* spannen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

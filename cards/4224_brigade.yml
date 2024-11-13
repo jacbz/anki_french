@@ -13,32 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Une brigade de policiers a réussi à rattraper les chiens.
-  Einem Trupp von Polizisten gelang es, die Hunde einzuholen.
+  Une *brigade* de policiers a réussi à rattraper les chiens.
+  Eine Polizei*truppe* hat es geschafft, die Hunde einzufangen.
 
-  La brigade de pompiers est arrivée rapidement.
-  Die Feuerwehrbrigade ist schnell angekommen.
+  La *brigade* criminelle enquête sur plusieurs meurtres.
+  Die Kriminal*polizei* ermittelt in mehreren Mordfällen.
 
-  La brigade de gendarmerie a été dépêchée sur les lieux du crime.
-  Die Brigade der Gendarmerie wurde zum Tatort geschickt.
+  Le chef de la *brigade* des sapeurs-pompiers a organisé un exercice d'évacuation.
+  Der Chef der Feuerwehr*brigade* hat eine Evakuierungsübung organisiert.
 
-  La brigade du matin a commencé son service à 6 heures du matin.
-  Die Frühschicht hat um 6 Uhr morgens ihren Dienst angetreten.
+  La *brigade* antidrogue a saisi une grande quantité de stupéfiants.
+  Die Drogen*fahndung* hat eine große Menge Rauschgift beschlagnahmt.
 
-  Les brigades rouges étaient un groupe terroriste italien.
-  Die Roten Brigaden waren eine italienische Terroristengruppe.
+  Notre *brigade* commence le service à six heures du matin.
+  Unsere *Schicht* beginnt um sechs Uhr morgens.
 
-  La brigade antidrogue a mené une opération de grande envergure.
-  Die Abteilung zur Drogenbekämpfung hat eine großangelegte Aktion durchgeführt.
+  Les *Brigades* internationales ont combattu pendant la guerre civile espagnole.
+  Die Internationalen *Brigaden* haben im spanischen Bürgerkrieg gekämpft.
 
-  La brigade criminelle enquête sur le meurtre du célèbre acteur.
-  Die Kriminalpolizei ermittelt im Mordfall des berühmten Schauspielers.
+  Une *brigade* de balayeurs nettoie les rues chaque matin.
+  Eine Straßenreiniger*truppe* säubert jeden Morgen die Straßen.
 
-  La brigade volante a été appelée pour intervenir dans une situation d'urgence.
-  Das mobile Einsatzkommando wurde zu einem Notfalleinsatz gerufen.
+  La *brigade* des mineurs s'occupe des jeunes en danger.
+  Die Jugend*schutzpolizei* kümmert sich um gefährdete Jugendliche.
 
-  Toute une brigade de supporters a fait le déplacement pour encourager son équipe.
-  Ein ganzer Trupp Schlachtenbummler hat sich auf den Weg gemacht, um seine Mannschaft anzufeuern.
+  Le général de *brigade* a inspecté les troupes ce matin.
+  Der *Brigade*general hat heute Morgen die Truppen inspiziert.
+
+  La *brigade* territoriale surveille notre canton depuis des années.
+  Die Gendarmerie*station* überwacht seit Jahren unseren Bezirk.
+
+  La *brigade* volante peut intervenir à tout moment.
+  Das mobile Einsatz*kommando* kann jederzeit eingreifen.
+
+  Une *brigade* de cuisiniers prépare le banquet de mariage.
+  Eine Koch*brigade* bereitet das Hochzeitsbankett vor.
+
+  La *brigade* des mœurs patrouille dans les quartiers sensibles.
+  Die Sitten*polizei* patrouilliert in den problematischen Vierteln.
+
+  Notre *brigade* blindée participe aux manœuvres militaires.
+  Unsere Panzer*brigade* nimmt an den Militärmanövern teil.
+
+  Le commandant de *brigade* a félicité ses hommes pour leur travail.
+  Der *Brigade*kommandant hat seinen Männern zu ihrer Arbeit gratuliert.
+
+  La *brigade* financière enquête sur des soupçons de fraude.
+  Die Finanz*ermittler* untersuchen Betrugsverdachtsfälle.
+
+  Toute une *brigade* de supporters est venue encourager l'équipe.
+  Ein ganzer Fan*trupp* ist gekommen, um die Mannschaft anzufeuern.
+
+  La *brigade* du matin a signalé plusieurs problèmes techniques.
+  Die Früh*schicht* hat mehrere technische Probleme gemeldet.
+
+  Les *Brigades* rouges ont terrorisé l'Italie dans les années 70.
+  Die Roten *Brigaden* haben Italien in den 70er Jahren terrorisiert.
+
+  La *brigade* de gendarmerie locale compte huit personnes.
+  Die örtliche Gendarmerie*station* hat acht Mitarbeiter.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

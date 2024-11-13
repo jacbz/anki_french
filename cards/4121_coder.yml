@@ -13,14 +13,47 @@ Register: ↘Fiktion ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Chaque langue code une culture déterminée.
-  Jede Sprache verschlüsselt eine bestimmte Kultur.
+  Chaque langue *code* une culture déterminée.
+  Jede Sprache *verschlüsselt* eine bestimmte Kultur.
 
-  Je suis en train de coder un nouveau logiciel.
-  Ich programmiere gerade eine neue Software.
+  Il faut *coder* ce message avant de l'envoyer au quartier général.
+  Wir müssen diese Nachricht *verschlüsseln*, bevor wir sie ans Hauptquartier schicken.
 
-  Les données codées sont protégées par un système de chiffrement.
-  Verschlüsselte Daten sind durch ein Verschlüsselungssystem geschützt.
+  Les développeurs ont passé toute la nuit à *coder* la nouvelle application.
+  Die Entwickler haben die ganze Nacht daran gearbeitet, die neue Anwendung zu *programmieren*.
+
+  Ma fille de douze ans apprend à *coder* à l'école.
+  Meine zwölfjährige Tochter lernt in der Schule zu *programmieren*.
+
+  Les espions ont *codé* leurs communications pour éviter d'être repérés.
+  Die Spione haben ihre Kommunikation *verschlüsselt*, um nicht entdeckt zu werden.
+
+  Nous devons *coder* ces données sensibles pour protéger la vie privée des clients.
+  Wir müssen diese sensiblen Daten *verschlüsseln*, um die Privatsphäre der Kunden zu schützen.
+
+  Le message *codé* contenait des informations cruciales pour la mission.
+  Die *verschlüsselte* Nachricht enthielt wichtige Informationen für die Mission.
+
+  Les étudiants ont appris à *coder* en Python pendant le semestre.
+  Die Studenten haben während des Semesters gelernt, in Python zu *programmieren*.
+
+  Je vais *coder* un petit jeu ce week-end.
+  Ich werde dieses Wochenende ein kleines Spiel *programmieren*.
+
+  Les hackers ont essayé de décrypter le message *codé*.
+  Die Hacker haben versucht, die *verschlüsselte* Nachricht zu entschlüsseln.
+
+  Elle *code* des sites web pour gagner sa vie.
+  Sie *programmiert* Webseiten, um ihren Lebensunterhalt zu verdienen.
+
+  Le langage *codé* des adolescents est parfois difficile à comprendre.
+  Die *verschlüsselte* Sprache der Jugendlichen ist manchmal schwer zu verstehen.
+
+  L'entreprise cherche quelqu'un qui sait *coder* en Java.
+  Das Unternehmen sucht jemanden, der in Java *programmieren* kann.
+
+  Nous avons *codé* le prototype en seulement deux jours.
+  Wir haben den Prototyp in nur zwei Tagen *programmiert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il est impossible d’accepter cette prétendue réponse.
-  Es ist unmöglich, diese angebliche Antwort zu akzeptieren.
+  Il est impossible d'accepter cette *prétendue* réponse.
+  Es ist unmöglich, diese *angebliche* Antwort zu akzeptieren.
 
-  Le prétendu voleur a été arrêté.
-  Der angebliche Dieb wurde festgenommen.
+  Sa *prétendue* maladie ne trompe personne.
+  Seine *angebliche* Krankheit täuscht niemanden.
+
+  Les journalistes ont découvert que ses *prétendus* diplômes étaient faux.
+  Die Journalisten haben herausgefunden, dass seine *angeblichen* Abschlüsse gefälscht waren.
+
+  Cette *prétendue* experte n'a jamais travaillé dans le domaine.
+  Diese *sogenannte* Expertin hat nie in diesem Bereich gearbeitet.
+
+  Le *prétendu* témoin n'était même pas présent ce jour-là.
+  Der *angebliche* Zeuge war an diesem Tag nicht einmal anwesend.
+
+  Les scientifiques ont rapidement démenti cette *prétendue* découverte.
+  Die Wissenschaftler haben diese *angebliche* Entdeckung schnell widerlegt.
+
+  Cette *prétendue* solution ne fait qu'aggraver le problème.
+  Diese *vermeintliche* Lösung verschlimmert das Problem nur.
+
+  Marc a inventé une *prétendue* urgence pour éviter la réunion.
+  Marc hat einen *angeblichen* Notfall erfunden, um das Meeting zu vermeiden.
+
+  La police enquête sur leurs *prétendues* activités caritatives.
+  Die Polizei ermittelt wegen ihrer *angeblichen* wohltätigen Aktivitäten.
+
+  Son *prétendu* talent musical n'impressionne que les débutants.
+  Sein *vermeintliches* musikalisches Talent beeindruckt nur Anfänger.
+
+  Cette *prétendue* tradition n'existe que depuis quelques années.
+  Diese *angebliche* Tradition existiert erst seit wenigen Jahren.
+
+  Les *prétendus* avantages de ce produit sont très discutables.
+  Die *angeblichen* Vorteile dieses Produkts sind sehr fragwürdig.
+
+  Julie a finalement avoué que son *prétendu* voyage était un mensonge.
+  Julie hat schließlich zugegeben, dass ihre *angebliche* Reise eine Lüge war.
+
+  Cette *prétendue* amitié cachait en réalité des intentions malveillantes.
+  Diese *vermeintliche* Freundschaft verbarg in Wirklichkeit böswillige Absichten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

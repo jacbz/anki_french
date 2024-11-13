@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il vit modestement, comme un moine.
-  Er lebt bescheiden wie ein Mönch.
+  Il vit modestement, comme un *moine*.
+  Er lebt bescheiden wie ein *Mönch*.
 
-  Le moine vit dans un monastère.
-  Der Mönch lebt in einem Kloster.
+  Le *moine* médite dans sa cellule depuis l'aube.
+  Der *Mönch* meditiert seit Morgengrauen in seiner Zelle.
 
-  Je suis un moine.
-  Ich bin ein Mönch.
+  Les *moines* bouddhistes portent des robes safran.
+  Die buddhistischen *Mönche* tragen safranfarbene Gewänder.
 
-  Après des années de réflexion, Pierre a décidé de se faire moine.
-  Nachdem er jahrelang nachgedacht hatte, beschloss Peter, ins Kloster zu gehen.
+  "*L'habit ne fait pas le moine*", comme dit le proverbe.
+  "Das Aussehen macht noch keinen *Mönch*", wie das Sprichwort sagt.
+
+  Un jeune homme décida de *se faire moine* après une révélation spirituelle.
+  Ein junger Mann beschloss, nach einer spirituellen Offenbarung ins *Kloster* zu gehen.
+
+  La communauté de *moines* cultive ses propres légumes.
+  Die *Mönchs*gemeinschaft baut ihr eigenes Gemüse an.
+
+  Les *moines* copistes ont préservé de nombreux textes anciens.
+  Die *Mönche* als Kopisten haben viele alte Texte bewahrt.
+
+  Un *moine* errant traversait les villages en mendiant sa nourriture.
+  Ein wandernder *Mönch* zog durch die Dörfer und bettelte um Nahrung.
+
+  Les *moines* blancs de l'abbaye suivent la règle cistercienne.
+  Die weißen *Mönche* der Abtei folgen der Zisterzienserregel.
+
+  Des *moines* orthodoxes chantent leurs prières dans l'église.
+  Orthodoxe *Mönche* singen ihre Gebete in der Kirche.
+
+  On utilise encore le *moine* pour chauffer certains lits traditionnels.
+  Man benutzt die *Bettwärmflasche* noch zum Aufwärmen mancher traditioneller Betten.
+
+  Le *moine* marin nage près des côtes méditerranéennes.
+  Die *Mönchsrobbe* schwimmt nahe der Mittelmeerküste.
+
+  Ce *moine* catholique a fait vœu de silence.
+  Dieser katholische *Mönch* hat ein Schweigegelübde abgelegt.
+
+  Les *moines* zen pratiquent la méditation assise.
+  Die Zen-*Mönche* praktizieren Sitzmeditation.
+
+  Un ancien *moine* raconte ses années de vie contemplative.
+  Ein ehemaliger *Mönch* erzählt von seinen Jahren des kontemplativen Lebens.
+
+  Les *moines* trappistes brassent leur propre bière.
+  Die Trappisten-*Mönche* brauen ihr eigenes Bier.
+
+  Le *moine* passe ses journées entre prière et travail manuel.
+  Der *Mönch* verbringt seine Tage zwischen Gebet und Handarbeit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,23 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il ne voulait pas me faire un reçu.
-  Er wollte mir keine Quittung ausstellen.
+  Il ne voulait pas me faire un *reçu*.
+  Er wollte mir keine *Quittung* ausstellen.
 
-  Je n’ai pas reçu de réponse.
-  Ich habe keine Antwort erhalten.
+  D'après le *reçu*, vous avez payé 50 euros.
+  Laut der *Quittung* haben Sie 50 Euro bezahlt.
 
-  Pierre a été reçu à une école de musique.
-  Pierre ist an einer Musikschule angenommen worden.
+  Je dois signer un *reçu* pour confirmer la livraison du colis.
+  Ich muss eine *Quittung* unterschreiben, um die Lieferung des Pakets zu bestätigen.
 
-  D'après le reçu, il a acheté une nouvelle voiture.
-  Laut Quittung hat er ein neues Auto gekauft.
+  Ma sœur a été *reçue* à l'école de médecine.
+  Meine Schwester wurde an der medizinischen Fakultät *angenommen*.
 
-  Douze candidats sont reçus sur les cent qui se sont présentés à l'examen d'entrée.
-  Von hundert Kandidaten haben zwölf die Aufnahmeprüfung bestanden.
+  Pierre est *reçu* à son examen de mathématiques.
+  Pierre hat seine Mathematikprüfung *bestanden*.
 
-  Le candidat qui a été reçu à l'examen pourra commencer ses études en septembre.
-  Der Kandidat, der die Prüfung bestanden hat, kann sein Studium im September beginnen.
+  Sur cent candidats, seuls quinze ont été *reçus*.
+  Von hundert Bewerbern haben nur fünfzehn *bestanden*.
+
+  C'est une idée *reçue* que les Français mangent des escargots tous les jours.
+  Es ist ein *Vorurteil*, dass Franzosen jeden Tag Schnecken essen.
+
+  Ces coutumes sont *reçues* depuis des siècles.
+  Diese Bräuche sind seit Jahrhunderten *üblich*.
+
+  Les *reçus* à l'examen seront affichés demain matin.
+  Die *erfolgreichen* Prüflinge werden morgen früh ausgehangen.
+
+  Au *reçu* de votre lettre, j'ai immédiatement répondu.
+  Nach *Erhalt* Ihres Briefes habe ich sofort geantwortet.
+
+  Gardez bien ce *reçu*, il vous servira de garantie.
+  Bewahren Sie diese *Quittung* gut auf, sie dient Ihnen als Garantie.
+
+  N'oubliez pas de demander un *reçu* pour vos impôts.
+  Vergessen Sie nicht, eine *Quittung* für Ihre Steuern zu verlangen.
+
+  Elle a été *reçue* première de sa promotion.
+  Sie wurde als Beste ihres Jahrgangs *aufgenommen*.
+
+  Les pratiques *reçues* dans l'entreprise doivent être respectées.
+  Die *herkömmlichen* Praktiken im Unternehmen müssen respektiert werden.
+
+  Tous les *reçus* du concours ont reçu une lettre de félicitations.
+  Alle *erfolgreichen* Teilnehmer des Wettbewerbs haben einen Gratulationsbrief erhalten.
+
+  Je vous enverrai le *reçu* par courrier électronique.
+  Ich schicke Ihnen die *Quittung* per E-Mail.
+
+  Marie a été *reçue* au conservatoire de musique.
+  Marie wurde am Musikkonservatorium *angenommen*.
+
+  Les opinions *reçues* ne sont pas toujours fondées.
+  *Herkömmliche* Meinungen sind nicht immer begründet.
+
+  Le directeur remet les diplômes aux *reçus*.
+  Der Direktor überreicht den *erfolgreichen Absolventen* die Diplome.
+
+  Veuillez me faire parvenir un *reçu* pour mes archives.
+  Bitte lassen Sie mir eine *Quittung* für meine Unterlagen zukommen.
+
+  J'ai besoin d'un *reçu* pour me faire rembourser.
+  Ich brauche eine *Quittung* für die Rückerstattung.
+
+  Le nombre de *reçus* cette année est plus élevé que d'habitude.
+  Die Anzahl der *erfolgreichen Kandidaten* ist dieses Jahr höher als gewöhnlich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

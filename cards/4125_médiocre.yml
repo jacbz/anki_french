@@ -13,23 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Pire encore, il est médiocre et inefficace.
-  Schlimmer noch, er ist mittelmäßig und ineffektiv.
+  Pire encore, il est *médiocre* et inefficace.
+  Schlimmer noch, er ist *mittelmäßig* und ineffektiv.
 
-  Son travail est médiocre.
-  Seine Arbeit ist mittelmäßig.
+  Son salaire *médiocre* ne lui permet pas de vivre confortablement.
+  Sein *dürftiges* Gehalt erlaubt ihm kein komfortables Leben.
 
-  Pierre est médiocre en anglais, il a du mal à comprendre les cours.
-  Pierre ist schwach in Englisch, er hat Probleme, den Unterricht zu verstehen.
+  Le film était tellement *médiocre* que nous sommes partis avant la fin.
+  Der Film war so *zweitklassig*, dass wir vor dem Ende gegangen sind.
 
-  Le film s'adresse aux médiocres, il n'y a pas de profondeur dans l'histoire.
-  Der Film ist auf den Durchschnitt ausgerichtet, die Geschichte hat keine Tiefe.
+  Les récoltes sont faibles sur ce sol *médiocre*.
+  Die Ernte ist schwach auf diesem *kargen* Boden.
 
-  Le livre est d'un intérêt médiocre, il n'y a rien de vraiment captivant.
-  Das Buch ist von geringem Interesse, es gibt nichts wirklich Fesselndes.
+  Il mène une vie *médiocre* dans une petite ville de province.
+  Er führt ein *bedeutungsloses* Leben in einer kleinen Provinzstadt.
 
-  Les esprits médiocres ne peuvent pas comprendre les idées complexes.
-  Kleingeister können komplexe Ideen nicht verstehen.
+  Julie est particulièrement *médiocre* en mathématiques cette année.
+  Julie ist dieses Jahr besonders *schwach* in Mathematik.
+
+  Ces dirigeants *médiocres* ne pensent qu'à leur profit personnel.
+  Diese *kleinlichen* Führungskräfte denken nur an ihren persönlichen Profit.
+
+  Le nouveau restaurant n'a suscité qu'un intérêt *médiocre*.
+  Das neue Restaurant hat nur *geringes* Interesse geweckt.
+
+  Les *médiocres* finissent toujours par critiquer les talents des autres.
+  Die *Durchschnittsmenschen* kritisieren am Ende immer die Talente anderer.
+
+  Cette émission de télévision s'adresse aux *médiocres*.
+  Diese Fernsehsendung ist auf die *breite Masse* ausgerichtet.
+
+  La *médiocrité* de son travail m'inquiète beaucoup.
+  Die *Mittelmäßigkeit* seiner Arbeit macht mir große Sorgen.
+
+  Ce vin est vraiment *médiocre* pour son prix.
+  Dieser Wein ist für seinen Preis wirklich *minderwertig*.
+
+  Le repas était plutôt *médiocre* au nouveau restaurant.
+  Das Essen im neuen Restaurant war eher *mittelmäßig*.
+
+  Cet écrivain *médiocre* publie un livre par an.
+  Dieser *schwache* Schriftsteller veröffentlicht ein Buch pro Jahr.
+
+  Les résultats *médiocres* de l'équipe ont déçu les supporters.
+  Die *schwachen* Ergebnisse der Mannschaft haben die Fans enttäuscht.
+
+  Sa carrière *médiocre* ne l'a jamais vraiment satisfait.
+  Seine *bedeutungslose* Karriere hat ihn nie wirklich zufriedengestellt.
+
+  Le temps reste *médiocre* pour la saison.
+  Das Wetter bleibt für die Jahreszeit *mäßig*.
+
+  C'est un roman *médiocre* qui sera vite oublié.
+  Es ist ein *mittelmäßiger* Roman, der schnell vergessen sein wird.
+
+  Les critiques ont jugé sa performance *médiocre*.
+  Die Kritiker haben seine Leistung als *schwach* bewertet.
+
+  Son talent *médiocre* ne lui permettra pas de réussir dans ce domaine.
+  Sein *bescheidenes* Talent wird ihm keinen Erfolg in diesem Bereich ermöglichen.
+
+  Il a obtenu des résultats *médiocres* aux examens.
+  Er hat *schwache* Prüfungsergebnisse erzielt.
+
+  Cette pièce de théâtre est franchement *médiocre*.
+  Dieses Theaterstück ist regelrecht *zweitklassig*.
+
+  La qualité *médiocre* des matériaux pose problème.
+  Die *minderwertige* Qualität der Materialien bereitet Probleme.
+
+  L'entreprise propose des services *médiocres* à des prix élevés.
+  Die Firma bietet *mittelmäßige* Dienstleistungen zu hohen Preisen an.
+
+  Son travail est même en dessous du *médiocre*.
+  Seine Arbeit ist sogar unter dem *Durchschnittlichen*.
+
+  Ces politiciens *médiocres* ne comprennent rien aux vrais problèmes.
+  Diese *kleingeistigen* Politiker verstehen nichts von den wahren Problemen.
+
+  L'événement n'a eu qu'une importance *médiocre*.
+  Das Ereignis hatte nur *geringe* Bedeutung.
+
+  Les conditions météorologiques *médiocres* ont gâché notre sortie.
+  Die *mäßigen* Wetterbedingungen haben unseren Ausflug verdorben.
+
+  Cette copie est vraiment *médiocre*, il faudra la refaire.
+  Diese Klassenarbeit ist wirklich *schwach*, sie muss wiederholt werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

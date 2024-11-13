@@ -13,17 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je m’attardais longtemps à ma fenêtre.
-  Ich verweilte lange an meinem Fenster.
+  Je m'*attardais* longtemps à ma fenêtre.
+  Ich *verweilte* lange an meinem Fenster.
 
-  Ne t’attarde pas, nous sommes en retard.
-  Verzöger dich nicht, wir sind schon spät dran.
+  Ne vous *attardez* pas trop sur la route !
+  *Haltet* euch nicht zu lange unterwegs *auf*!
 
-  Le professeur s'est attardé à un détail important de l'histoire.
-  Der Professor hat sich an einem wichtigen Detail der Geschichte aufgehalten.
+  Les enfants se sont *attardés* chez leurs grands-parents.
+  Die Kinder haben sich bei ihren Großeltern *verspätet*.
 
-  Ne t'attarde pas en route, nous sommes déjà en retard !
-  Halte dich unterwegs nicht zu lange auf, wir sind schon jetzt zu spät!
+  Cette conversation nous a *attardés*.
+  Diese Unterhaltung hat uns *aufgehalten*.
+
+  Je me suis *attardé* à contempler ce magnifique tableau.
+  Ich habe *verweilt*, um dieses wunderschöne Gemälde zu betrachten.
+
+  Il s'est *attardé* au café jusqu'à minuit.
+  Er ist bis Mitternacht im Café *geblieben*.
+
+  Ne nous *attardons* pas sur ces détails insignifiants.
+  Lass uns nicht bei diesen unwichtigen Details *verweilen*.
+
+  Elle s'est *attardée* pour ranger son bureau.
+  Sie hat sich Zeit genommen, um ihren Schreibtisch *aufzuräumen*.
+
+  La réunion nous a *attardés* de deux heures.
+  Die Besprechung hat uns um zwei Stunden *aufgehalten*.
+
+  Les invités se sont *attardés* jusqu'au petit matin.
+  Die Gäste sind bis zum frühen Morgen *geblieben*.
+
+  Je ne vais pas m'*attarder* sur ce sujet délicat.
+  Ich werde mich nicht lange bei diesem heiklen Thema *aufhalten*.
+
+  Il s'*attarde* souvent à lire dans son jardin.
+  Er *verweilt* oft lesend in seinem Garten.
+
+  La pluie nous a *attardés* en route.
+  Der Regen hat uns unterwegs *aufgehalten*.
+
+  Ne t'*attarde* pas trop à répondre à ces emails.
+  *Halte* dich nicht zu lange damit auf, diese E-Mails zu beantworten.
+
+  Nous nous sommes *attardés* à discuter après le film.
+  Wir haben uns nach dem Film noch zum Reden *aufgehalten*.
+
+  Elle s'*attarde* toujours sur les moindres détails.
+  Sie *verweilt* immer bei den kleinsten Details.
+
+  Le professeur s'est *attardé* pour expliquer le problème.
+  Der Lehrer hat sich Zeit genommen, um das Problem zu *erklären*.
+
+  Je me suis *attardé* au travail ce soir-là.
+  Ich bin an diesem Abend länger bei der Arbeit *geblieben*.
+
+  Les touristes se sont *attardés* devant la cathédrale.
+  Die Touristen haben vor der Kathedrale *verweilt*.
+
+  Il ne faut pas s'*attarder* sur ses erreurs passées.
+  Man sollte nicht bei seinen vergangenen Fehlern *verharren*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,23 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je regrette que vous soyez mécontent mais je ne puis rien y faire.
-  Es tut mir leid, dass Sie unzufrieden sind, aber ich kann nichts dagegen tun.
+  Je regrette que vous soyez *mécontent* mais je ne puis rien y faire.
+  Es tut mir leid, dass Sie *unzufrieden* sind, aber ich kann nichts daran ändern.
 
-  Il est mécontent de son salaire.
-  Er ist mit seinem Gehalt unzufrieden.
+  Elle est rentrée déçue et très *mécontente* de sa journée.
+  Sie kam enttäuscht und sehr *unzufrieden* von ihrem Tag nach Hause.
 
-  Pierre est mécontent de son travail actuel.
-  Pierre ist unzufrieden mit seiner jetzigen Arbeit.
+  Le client *mécontent* a demandé à parler au responsable.
+  Der *unzufriedene* Kunde verlangte, mit dem Verantwortlichen zu sprechen.
 
-  C'est un perpétuel mécontent, il se plaint de tout.
-  Er ist ewig unzufrieden, er beschwert sich über alles.
+  Les employés sont *mécontents* de leurs conditions de travail.
+  Die Mitarbeiter sind mit ihren Arbeitsbedingungen *unzufrieden*.
 
-  Il est mécontent d'avoir raté son train, car il va maintenant manquer son rendez-vous important.
-  Er ist unzufrieden, weil er den Zug verpasst hat, denn nun wird er seinen wichtigen Termin verpassen.
+  Marie n'était pas *mécontente* d'avoir quitté son ancien emploi.
+  Marie war nicht gerade *unglücklich* darüber, dass sie ihren alten Job gekündigt hatte.
 
-  Elle n'est pas mécontente de quitter la ville, car elle a hâte de découvrir de nouvelles choses.
-  Sie ist nicht gerade unglücklich darüber, die Stadt zu verlassen, denn sie sehnt sich danach, Neues zu entdecken.
+  Il affichait un air *mécontent* pendant toute la réunion.
+  Er zeigte während der ganzen Sitzung eine *unzufriedene* Miene.
+
+  Thomas est *mécontent* d'avoir raté son examen.
+  Thomas ist *unzufrieden*, weil er seine Prüfung nicht bestanden hat.
+
+  Ce professeur est un éternel *mécontent*.
+  Dieser Lehrer ist ein ewiger *Nörgler*.
+
+  Les *mécontents* du quartier ont signé une pétition.
+  Die *Unzufriedenen* aus dem Viertel haben eine Petition unterschrieben.
+
+  Je suis *mécontent* de moi-même aujourd'hui.
+  Ich bin heute mit mir selbst *unzufrieden*.
+
+  Paul n'est pas *mécontent* des résultats de son équipe.
+  Paul ist mit den Ergebnissen seiner Mannschaft nicht *unzufrieden*.
+
+  Les *mécontents* se sont rassemblés devant la mairie.
+  Die *Unzufriedenen* haben sich vor dem Rathaus versammelt.
+
+  Sophie était *mécontente* que personne ne l'ait prévenue.
+  Sophie war *unzufrieden*, dass niemand sie informiert hatte.
+
+  Mon père a l'air *mécontent* de mes notes.
+  Mein Vater sieht wegen meiner Noten *unzufrieden* aus.
+
+  Elle est *mécontente* de son sort depuis son divorce.
+  Sie ist seit ihrer Scheidung mit ihrem Schicksal *unzufrieden*.
+
+  Les clients *mécontents* ont quitté le restaurant sans payer.
+  Die *unzufriedenen* Gäste verließen das Restaurant, ohne zu bezahlen.
+
+  C'est un *mécontent* qui se plaint toujours de tout.
+  Er ist ein *Nörgler*, der sich immer über alles beschwert.
+
+  Le directeur n'était pas *mécontent* des ventes du mois dernier.
+  Der Direktor war mit den Verkäufen des letzten Monats nicht *unzufrieden*.
+
+  Cette décision a fait beaucoup de *mécontents* dans l'entreprise.
+  Diese Entscheidung hat im Unternehmen viele *Unzufriedene* geschaffen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

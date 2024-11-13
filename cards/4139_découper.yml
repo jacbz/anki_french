@@ -13,23 +13,101 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je ne découpe pas les articles.
-  Ich schneide die Artikel nicht aus.
+  Je ne *découpe* pas les articles.
+  Ich *schneide* die Artikel nicht aus.
 
-  Je vais découper cette image.
-  Ich werde dieses Bild ausschneiden.
+  Il a soigneusement *découpé* le gâteau en huit parts égales.
+  Er hat den Kuchen sorgfältig in acht gleiche Stücke *geschnitten*.
 
-  J'ai besoin d'une fourchette à découper pour manger ce poulet.
-  Ich brauche eine Tranchiergabel, um das Hähnchen zu essen.
+  La lumière *découpait* sa silhouette contre le mur blanc.
+  Das Licht *zeichnete* ihre Silhouette an der weißen Wand ab.
 
-  Le château se découpe sur le paysage verdoyant.
-  Das Schloss hebt sich vom grünen Landschaftsbild ab.
+  Marie *découpe* toujours les recettes intéressantes dans les magazines.
+  Marie *schneidet* immer interessante Rezepte aus Zeitschriften aus.
 
-  J'ai découpé un article intéressant dans le journal.
-  Ich habe einen interessanten Artikel aus der Zeitung ausgeschnitten.
+  Les falaises *découpent* la côte de façon spectaculaire.
+  Die Klippen *zeichnen* die Küste auf spektakuläre Weise.
 
-  Les Alpes découpent leurs crêtes sur le ciel bleu.
-  Die Gipfel der Alpen zeichnen sich gegen den blauen Himmel ab.
+  Le boucher *découpe* la viande avec précision.
+  Der Metzger *zerlegt* das Fleisch mit Präzision.
+
+  Elle *découpait* du tissu pour faire une robe.
+  Sie *schnitt* den Stoff für ein Kleid zu.
+
+  Les montagnes se *découpaient* sur le ciel étoilé.
+  Die Berge *hoben* sich vom Sternenhimmel ab.
+
+  Le chef nous montre comment *découper* le poulet rôti.
+  Der Koch zeigt uns, wie man den gebratenen Hühner *tranchiert*.
+
+  Les enfants *découpent* des formes dans du papier coloré.
+  Die Kinder *schneiden* Formen aus buntem Papier aus.
+
+  Je vais te montrer comment *découper* cette dinde.
+  Ich zeige dir, wie man diesen Truthahn *zerlegt*.
+
+  L'artiste *découpe* ses motifs avec une scie fine.
+  Der Künstler *sägt* seine Motive mit einer feinen Säge aus.
+
+  La lune *découpait* les arbres en ombres noires.
+  Der Mond *zeichnete* die Bäume als schwarze Schatten.
+
+  Papa *découpe* le jambon en tranches fines.
+  Papa *schneidet* den Schinken in dünne Scheiben.
+
+  Les tours se *découpent* sur l'horizon.
+  Die Türme *zeichnen* sich am Horizont ab.
+
+  Il faut *découper* la moquette aux bonnes dimensions.
+  Man muss den Teppichboden auf die richtigen Maße *zuschneiden*.
+
+  L'érosion a *découpé* des formes étranges dans la roche.
+  Die Erosion hat seltsame Formen in den Felsen *geschnitten*.
+
+  Elle *découpe* toujours ses coupons de réduction.
+  Sie *schneidet* immer ihre Rabattcoupons aus.
+
+  Le patron se *découpait* dans l'embrasure de la porte.
+  Der Chef *zeichnete* sich im Türrahmen ab.
+
+  Les élèves *découpent* des images pour leur collage.
+  Die Schüler *schneiden* Bilder für ihre Collage aus.
+
+  Il faut *découper* la tôle selon le marquage.
+  Man muss das Blech entlang der Markierung *ausschneiden*.
+
+  Les pins *découpaient* leurs silhouettes sur le ciel rouge.
+  Die Kiefern *zeichneten* ihre Silhouetten am roten Himmel ab.
+
+  Grand-mère *découpe* délicatement la tarte aux pommes.
+  Großmutter *schneidet* vorsichtig den Apfelkuchen auf.
+
+  L'assistant *découpe* le texte en paragraphes.
+  Der Assistent *schneidet* den Text in Absätze.
+
+  Le serveur *découpe* habilement le canard devant les clients.
+  Der Kellner *tranchiert* geschickt die Ente vor den Gästen.
+
+  Les nuages *découpaient* des formes fantastiques dans le ciel.
+  Die Wolken *zeichneten* fantastische Formen am Himmel.
+
+  La machine *découpe* automatiquement les pièces métalliques.
+  Die Maschine *stanzt* die Metallteile automatisch aus.
+
+  Elle *découpe* soigneusement le patron de couture.
+  Sie *schneidet* den Schnittmuster sorgfältig aus.
+
+  Le paysage se *découpait* nettement dans la brume matinale.
+  Die Landschaft *zeichnete* sich deutlich im Morgennebel ab.
+
+  Il faut *découper* le carton selon les pointillés.
+  Man muss den Karton entlang der gestrichelten Linie *ausschneiden*.
+
+  Les rochers *découpent* leurs crêtes sur l'horizon.
+  Die Felsen *zeichnen* ihre Grate am Horizont ab.
+
+  Le chirurgien *découpe* précisément les tissus malades.
+  Der Chirurg *schneidet* das kranke Gewebe präzise heraus.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,14 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il marcha délibérément vers la porte.
-  Er ging bewusst auf die Tür zu.
+  Il marcha *délibérément* vers la porte.
+  Er ging *absichtlich* zur Tür.
 
-  Il a délibérément menti.
-  Er hat absichtlich gelogen.
+  Elle a *délibérément* ignoré mes appels pendant toute la semaine.
+  Sie hat meine Anrufe die ganze Woche *bewusst* ignoriert.
 
-  Elle l’a délibérément exposé au danger.
-  Sie hat ihn absichtlich der Gefahr ausgesetzt.
+  L'entreprise a *délibérément* caché ces informations à ses clients.
+  Die Firma hat diese Informationen vor ihren Kunden *absichtsvoll* verheimlicht.
+
+  Il a *délibérément* violé la loi en conduisant sans permis.
+  Er hat das Gesetz *vorsätzlich* verletzt, indem er ohne Führerschein fuhr.
+
+  Les témoins ont *délibérément* dissimulé la vérité pendant l'enquête.
+  Die Zeugen haben während der Untersuchung die Wahrheit *absichtlich* verschwiegen.
+
+  Marie a *délibérément* choisi de ne pas participer à la réunion.
+  Marie hat sich *bewusst* dafür entschieden, nicht an der Sitzung teilzunehmen.
+
+  Nous avons *délibérément* évité ce sujet sensible pendant le dîner.
+  Wir haben dieses heikle Thema beim Essen *absichtlich* vermieden.
+
+  Le suspect a *délibérément* effacé toutes les preuves.
+  Der Verdächtige hat *vorsätzlich* alle Beweise vernichtet.
+
+  Pierre est *délibérément* arrivé en retard à la fête.
+  Pierre ist *absichtlich* zu spät zur Party gekommen.
+
+  Elle a *délibérément* accepté cette lourde responsabilité.
+  Sie hat diese schwere Verantwortung *bewusst* angenommen.
+
+  Le professeur a *délibérément* posé une question difficile.
+  Der Lehrer hat *absichtlich* eine schwierige Frage gestellt.
+
+  Thomas est passé *délibérément* devant moi sans me saluer.
+  Thomas ist *absichtlich* an mir vorbeigegangen, ohne zu grüßen.
+
+  L'auteur a *délibérément* laissé la fin du roman ouverte.
+  Der Autor hat das Ende des Romans *bewusst* offen gelassen.
+
+  Ils ont *délibérément* modifié les résultats de l'expérience.
+  Sie haben die Versuchsergebnisse *vorsätzlich* verändert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

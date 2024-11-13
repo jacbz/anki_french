@@ -13,14 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je centrerai mon intervention sur quatre points précis.
-  Ich werde mich in meinem Beitrag auf vier konkrete Punkte konzentrieren.
+  Je *centrerai* mon intervention sur quatre points précis.
+  Ich werde meinen Vortrag auf vier konkrete Punkte *zentrieren*.
 
-  Il faut centrer l’image.
-  Das Bild muss zentriert werden.
+  Il faut *centrer* la table dans la pièce.
+  Der Tisch muss in der Mitte des Raums *zentriert* werden.
 
-  Le candidat a centré son discours sur l'éducation, un sujet qui lui tient particulièrement à cœur.
-  Der Kandidat hat das Thema Bildung in den Mittelpunkt seiner Rede gestellt, ein Thema, das ihm besonders am Herzen liegt.
+  Cette image n'est pas bien *centrée*.
+  Dieses Bild ist nicht gut *zentriert*.
+
+  L'attaquant a *centré* le ballon vers son coéquipier.
+  Der Stürmer hat den Ball zu seinem Mitspieler *geflankt*.
+
+  Le professeur a *centré* son cours sur les besoins des élèves.
+  Der Lehrer hat seinen Unterricht auf die Bedürfnisse der Schüler *ausgerichtet*.
+
+  Le mécanicien doit *centrer* la roue avant de la monter.
+  Der Mechaniker muss das Rad *zentrieren*, bevor er es montiert.
+
+  Toute l'intrigue est *centrée* sur le mystérieux personnage principal.
+  Die ganze Handlung ist auf die mysteriöse Hauptfigur *zentriert*.
+
+  Le graphiste a parfaitement *centré* le titre sur la page de couverture.
+  Der Grafiker hat den Titel auf der Titelseite perfekt *zentriert*.
+
+  Marie a *centré* ses recherches sur les énergies renouvelables.
+  Marie hat ihre Forschung auf erneuerbare Energien *fokussiert*.
+
+  Le débat s'est naturellement *centré* sur les questions environnementales.
+  Die Debatte hat sich naturgemäß auf Umweltfragen *konzentriert*.
+
+  L'architecte a conçu un plan *centré* autour d'une cour intérieure.
+  Der Architekt hat einen um einen Innenhof *zentrierten* Plan entworfen.
+
+  Le joueur a mal *centré* son tir et a raté le but.
+  Der Spieler hat seinen Schuss schlecht *platziert* und das Tor verfehlt.
+
+  La discussion s'est rapidement *centrée* sur le problème principal.
+  Die Diskussion hat sich schnell auf das Hauptproblem *konzentriert*.
+
+  Il faut *centrer* correctement l'objectif pour obtenir une bonne photo.
+  Man muss das Objektiv richtig *zentrieren*, um ein gutes Foto zu bekommen.
+
+  Le documentaire est entièrement *centré* sur la vie des abeilles.
+  Die Dokumentation ist ganz auf das Leben der Bienen *ausgerichtet*.
+
+  Les élèves doivent *centrer* leurs textes sur la page.
+  Die Schüler müssen ihre Texte auf der Seite *zentrieren*.
+
+  Le coach a *centré* l'entraînement sur l'amélioration de la technique.
+  Der Trainer hat das Training auf die Verbesserung der Technik *ausgerichtet*.
+
+  L'exposition est *centrée* sur l'art moderne.
+  Die Ausstellung ist auf moderne Kunst *ausgerichtet*.
+
+  Le statisticien a *centré* les variables avant l'analyse.
+  Der Statistiker hat die Variablen vor der Analyse *zentriert*.
+
+  Le photographe a mal *centré* le sujet dans le cadre.
+  Der Fotograf hat das Motiv im Rahmen schlecht *zentriert*.
+
+  L'ailier a parfaitement *centré* le ballon devant le but.
+  Der Flügelspieler hat den Ball perfekt vors Tor *geflankt*.
+
+  La thèse est *centrée* sur un sujet d'actualité.
+  Die Dissertation ist auf ein aktuelles Thema *fokussiert*.
+
+  Nous devons *centrer* nos efforts sur la résolution du problème.
+  Wir müssen unsere Anstrengungen auf die Lösung des Problems *konzentrieren*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

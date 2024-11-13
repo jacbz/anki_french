@@ -9,12 +9,51 @@ Femininum / Plural: ''
 IPA: \e.møt\
 Definition: Aufruhr, Unruhe
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "C’était le point zéro des émeutes de Los Angeles.\nEs war der Nullpunkt\
-  \ der Unruhen in Los Angeles.\n\nLa police a dû intervenir pour calmer l’émeute.\n\
-  Die Polizei musste eingreifen, um den Aufruhr zu beruhigen.\n\nLa situation, qui\
-  \ était déjà tendue, a tourné à l'émeute après l'annonce des résultats des élections.\
-  \ \nDie Lage, die ohnehin schon angespannt war, schlug nach der Bekanntgabe der\
-  \ Wahlergebnisse in einen Tumult um."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  C'était le point zéro des *émeutes* de Los Angeles.
+  Das war der Ausgangspunkt der Los Angeles *Unruhen*.
+
+  Les *émeutes* ont éclaté après l'annonce des résultats.
+  Nach der Bekanntgabe der Ergebnisse brachen *Unruhen* aus.
+
+  La manifestation pacifique a tourné à l'*émeute*.
+  Die friedliche Demonstration schlug in einen *Tumult* um.
+
+  Les forces de l'ordre ont dû intervenir pour réprimer l'*émeute*.
+  Die Sicherheitskräfte mussten eingreifen, um den *Aufruhr* niederzuschlagen.
+
+  L'*émeute* s'est déchaînée dans le centre-ville hier soir.
+  Der *Aufstand* brach gestern Abend in der Innenstadt los.
+
+  Une *émeute* a éclaté devant le stade après le match.
+  Nach dem Spiel kam es vor dem Stadion zu *Tumulten*.
+
+  Les médias ont largement couvert les *émeutes* de la semaine dernière.
+  Die Medien haben ausführlich über die *Unruhen* der letzten Woche berichtet.
+
+  Les habitants craignent de nouvelles *émeutes* ce week-end.
+  Die Bewohner fürchten neue *Ausschreitungen* am Wochenende.
+
+  Cette petite dispute a rapidement tourné à l'*émeute*.
+  Dieser kleine Streit artete schnell in einen *Tumult* aus.
+
+  L'*émeute* a causé d'importants dégâts matériels.
+  Der *Aufruhr* verursachte erhebliche Sachschäden.
+
+  Les commerçants ont fermé leurs magasins par peur des *émeutes*.
+  Die Händler schlossen ihre Geschäfte aus Angst vor *Unruhen*.
+
+  Une violente *émeute* a éclaté dans la prison.
+  Im Gefängnis brach ein heftiger *Aufstand* aus.
+
+  Des *émeutes* similaires se sont produites dans plusieurs villes.
+  Ähnliche *Unruhen* ereigneten sich in mehreren Städten.
+
+  La police anti-*émeute* a été déployée dans le quartier.
+  Die *Aufstands*polizei wurde in dem Viertel eingesetzt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

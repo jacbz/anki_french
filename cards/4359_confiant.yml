@@ -13,14 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous êtes malgré tout confiant?
-  Sie sind trotzdem zuversichtlich?
+  Vous êtes malgré tout *confiant* ?
+  Sind Sie trotzdem *zuversichtlich*?
 
-  Il est confiant en ses capacités.
-  Er ist zuversichtlich in seinen Fähigkeiten.
+  Elle est trop *confiante* avec les inconnus, ce qui m'inquiète.
+  Sie ist zu *vertrauensselig* gegenüber Fremden, was mir Sorgen macht.
 
-  Elle était confiante en ses capacités à réussir l'examen.
-  Sie vertraute auf ihre Fähigkeiten, die Prüfung zu bestehen.
+  Mon chien me regarde d'un air *confiant* quand je rentre à la maison.
+  Mein Hund schaut mich *vertrauensvoll* an, wenn ich nach Hause komme.
+
+  Je suis *confiant* en mes capacités de réussir l'examen.
+  Ich bin *zuversichtlich*, dass ich die Prüfung bestehen werde.
+
+  Paul est naturellement *confiant* - il voit toujours le meilleur chez les autres.
+  Paul ist von Natur aus *gutgläubig* - er sieht immer das Beste in anderen.
+
+  Marie attend le résultat *confiante* et sereine.
+  Marie wartet *selbstbewusst* und gelassen auf das Ergebnis.
+
+  Son attitude *confiante* lors de l'entretien lui a valu le poste.
+  Ihre *selbstsichere* Haltung beim Vorstellungsgespräch hat ihr die Stelle eingebracht.
+
+  Les investisseurs restent *confiants* dans l'avenir de l'entreprise.
+  Die Investoren bleiben *zuversichtlich* bezüglich der Zukunft des Unternehmens.
+
+  Je suis *confiant* dans la justice de notre cause.
+  Ich *vertraue* auf die Gerechtigkeit unserer Sache.
+
+  L'enfant suit sa mère d'un pas *confiant*.
+  Das Kind folgt seiner Mutter mit *vertrauensvollen* Schritten.
+
+  Elle n'est pas assez *confiante* en elle-même.
+  Sie ist nicht *selbstbewusst* genug.
+
+  Les électeurs semblent *confiants* dans le nouveau gouvernement.
+  Die Wähler scheinen dem neuen Government zu *vertrauen*.
+
+  Le sourire *confiant* de Thomas a rassuré tout le monde.
+  Thomas' *zuversichtliches* Lächeln hat alle beruhigt.
+
+  Je reste *confiant* en mon étoile, malgré les difficultés.
+  Ich *vertraue* weiterhin auf meinen Stern, trotz der Schwierigkeiten.
+
+  Son caractère trop *confiant* lui a déjà causé des problèmes.
+  Ihre zu *vertrauensselige* Art hat ihr schon Probleme bereitet.
+
+  Les marchés financiers sont *confiants* pour l'année à venir.
+  Die Finanzmärkte sind *zuversichtlich* für das kommende Jahr.
+
+  Elle avance d'un pas *confiant* vers son avenir.
+  Sie geht *selbstbewusst* ihrer Zukunft entgegen.
+
+  Le jeune homme affichait un air *confiant* pendant sa présentation.
+  Der junge Mann zeigte eine *selbstsichere* Haltung während seiner Präsentation.
+
+  Les supporters restent *confiants* malgré la défaite.
+  Die Fans bleiben trotz der Niederlage *zuversichtlich*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

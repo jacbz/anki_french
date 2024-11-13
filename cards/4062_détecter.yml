@@ -13,11 +13,53 @@ Register: ↘Fiktion ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les fuites sont difficiles à détecter.
-  Lecks sind schwer zu erkennen.
+  Les fuites sont difficiles à *détecter*.
+  Lecks sind schwer zu *aufzuspüren*.
 
-  La police a réussi à détecter le voleur.
-  Die Polizei konnte den Dieb aufspüren.
+  Le radar a *détecté* un avion inconnu au-dessus de la ville.
+  Das Radar hat ein unbekanntes Flugzeug *geortet*.
+
+  L'appareil permet de *détecter* les ondes radioélectriques à grande distance.
+  Das Gerät ermöglicht es, elektromagnetische Wellen auf große Entfernung zu *aufzuspüren*.
+
+  Les chiens peuvent *détecter* des drogues cachées dans les bagages.
+  Hunde können versteckte Drogen im Gepäck *aufspüren*.
+
+  Les médecins ont *détecté* sa maladie très tôt.
+  Die Ärzte haben seine Krankheit sehr früh *aufgedeckt*.
+
+  La police a réussi à *détecter* le réseau criminel après des mois d'enquête.
+  Der Polizei ist es nach monatelangen Ermittlungen gelungen, das kriminelle Netzwerk *ausfindig zu machen*.
+
+  Un nouveau système pour *détecter* les mines terrestres a été développé.
+  Ein neues System zur *Ortung* von Landminen wurde entwickelt.
+
+  Les satellites peuvent *détecter* les mouvements des bateaux en mer.
+  Die Satelliten können die Bewegungen der Schiffe auf See *orten*.
+
+  L'audit a *détecté* plusieurs erreurs dans la comptabilité.
+  Die Prüfung hat mehrere Fehler in der Buchhaltung *aufgedeckt*.
+
+  Les géologues ont *détecté* un nouveau filon d'or dans la montagne.
+  Die Geologen haben eine neue Goldader im Berg *aufgespürt*.
+
+  Une fissure a été *détectée* dans le mur de la centrale.
+  Ein Riss wurde in der Kraftwerksmauer *entdeckt*.
+
+  Le système a *détecté* une intrusion dans le réseau informatique.
+  Das System hat einen Einbruch ins Computernetzwerk *aufgedeckt*.
+
+  Les chercheurs ont *détecté* des traces de vie sur la planète.
+  Die Forscher haben Lebensspuren auf dem Planeten *aufgespürt*.
+
+  L'appareil peut *détecter* la présence de rayonnements radioactifs.
+  Das Gerät kann das Vorhandensein radioaktiver Strahlung *aufspüren*.
+
+  Le mentor a rapidement *détecté* le talent de son élève.
+  Der Mentor hat das Talent seines Schülers schnell *entdeckt*.
+
+  J'ai tout de suite *détecté* le mensonge dans sa voix.
+  Ich habe die Lüge in seiner Stimme sofort *aufgedeckt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

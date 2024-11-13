@@ -13,20 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tu as été notre plus redoutable ennemi.
-  Du warst unser schlimmster Feind.
+  Tu as été notre plus *redoutable* ennemi.
+  Du warst unser *gefährlichster* Feind.
 
-  C’est un adversaire redoutable.
-  Das ist ein gefürchteter Gegner.
+  Le virus qui se propage est un adversaire *redoutable*.
+  Das sich ausbreitende Virus ist ein *furchterregender* Gegner.
 
-  Cette route est redoutable.
-  Diese Straße ist gefürchtet.
+  Cette épée est une arme *redoutable* entre les mains d'un expert.
+  Dieses Schwert ist eine *gefährliche* Waffe in den Händen eines Experten.
 
-  Le loup, avec ses crocs acérés, avait l'air redoutable.
-  Der Wolf, mit seinen scharfen Zähnen, sah furchterregend aus.
+  Le cancer reste une maladie *redoutable*.
+  Krebs bleibt eine *beängstigende* Krankheit.
 
-  Le pirate Barbe-Noire était un adversaire redoutable.
-  Der Pirat Blackbeard war ein sehr gefürchteter Gegner.
+  Avec son intelligence *redoutable*, elle résout tous les problèmes.
+  Mit ihrer *beeindruckenden* Intelligenz löst sie alle Probleme.
+
+  Il fait preuve d'une efficacité *redoutable* dans son travail.
+  Er zeigt eine *erstaunliche* Effizienz bei seiner Arbeit.
+
+  Le juge était connu pour être *redoutable* dans ses jugements.
+  Der Richter war dafür bekannt, in seinen Urteilen *gefürchtet* zu sein.
+
+  L'équipe affrontera une épreuve *redoutable* demain.
+  Das Team wird morgen eine *furchterregende* Prüfung bestehen müssen.
+
+  Les colères de mon père étaient *redoutables*.
+  Die Wutausbrüche meines Vaters waren *erschreckend*.
+
+  Avec son aspect *redoutable*, le chien garde bien la maison.
+  Mit seinem *furchteinflößenden* Aussehen bewacht der Hund das Haus gut.
+
+  Il fait un froid *redoutable* ce matin.
+  Heute Morgen herrscht eine *schreckliche* Kälte.
+
+  Son talent d'orateur est vraiment *redoutable*.
+  Sein Rednertalent ist wirklich *beachtlich*.
+
+  Cette tempête s'annonce *redoutable*.
+  Dieser Sturm kündigt sich *bedrohlich* an.
+
+  Les conséquences de cette décision peuvent être *redoutables*.
+  Die Folgen dieser Entscheidung können *erschreckend* sein.
+
+  Sa mémoire *redoutable* impressionne tout le monde.
+  Sein *erstaunliches* Gedächtnis beeindruckt alle.
+
+  Le tigre est un prédateur *redoutable*.
+  Der Tiger ist ein *gefürchteter* Jäger.
+
+  La concurrence sur ce marché est *redoutable*.
+  Die Konkurrenz auf diesem Markt ist *beängstigend*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

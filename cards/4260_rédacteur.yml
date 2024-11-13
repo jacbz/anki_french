@@ -13,35 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai d’abord été journaliste rédacteur pour la presse.
-  Ich habe zunächst als Journalist für die Presse geschrieben.
+  J'ai d'abord été journaliste *rédacteur* pour la presse.
+  Ich war zunächst *Redakteur* bei der Zeitung.
 
-  Le rédacteur en chef a corrigé mon article.
-  Der Chefredakteur hat meinen Artikel korrigiert.
+  Notre *rédactrice* en chef a annoncé sa démission hier.
+  Unsere Chef*redakteurin* hat gestern ihre Kündigung angekündigt.
 
-  La nouvelle rédactrice locale a immédiatement commencé à travailler sur son premier article.
-  Die neue Lokalredakteurin hat sofort mit der Arbeit an ihrem ersten Artikel begonnen.
+  Le *rédacteur* local couvre tous les événements du quartier.
+  Der Lokal*redakteur* berichtet über alle Ereignisse im Viertel.
 
-  Le rédacteur d'un contrat doit faire attention aux détails.
-  Ein Vertragsaufsetzer muss auf die Details achten.
+  La *rédactrice* technique prépare la documentation du nouveau logiciel.
+  Die technische *Redakteurin* bereitet die Dokumentation für die neue Software vor.
 
-  La rédactrice en ligne a beaucoup de contenu à gérer.
-  Die Online-Redakteurin hat viel Inhalt zu verwalten.
+  Elle travaille comme *rédactrice* en ligne depuis son domicile.
+  Sie arbeitet von zu Hause aus als Online-*Redakteurin*.
 
-  La rédactrice de presse écrite a choisi un titre accrocheur pour son article.
-  Die Zeitungsredakteurin hat einen Aufmachertitel für ihren Artikel ausgewählt.
+  Le *rédacteur* d'images a sélectionné les meilleures photos pour le magazine.
+  Der Bild*redakteur* hat die besten Fotos für das Magazin ausgewählt.
 
-  La rédactrice radio a écrit un script pour une nouvelle émission.
-  Die Rundfunkredakteurin hat ein Skript für eine neue Sendung geschrieben.
+  La *rédactrice* publicitaire a créé un slogan accrocheur.
+  Die Werbe*texterin* hat einen eingängigen Slogan entwickelt.
 
-  La rédactrice publicitaire a créé une campagne innovante.
-  Die Werbetexterin hat eine innovative Kampagne entwickelt.
+  Notre équipe compte désormais trois *rédacteurs* radio.
+  Unser Team hat jetzt drei Rundfunk*redakteure*.
 
-  La rédactrice technique a rédigé un manuel d'utilisation clair et concis.
-  Die technische Redakteurin hat ein klares und prägnantes Benutzerhandbuch verfasst.
+  La *rédactrice* sportive couvrira les Jeux olympiques.
+  Die Sport*redakteurin* wird über die Olympischen Spiele berichten.
 
-  La rédactrice d'images a sélectionné les photos pour le magazine.
-  Die Bildredakteurin hat die Fotos für das Magazin ausgewählt.
+  Le *rédacteur* hippique suit toutes les courses importantes.
+  Der Renn*redakteur* verfolgt alle wichtigen Pferderennen.
+
+  Les *rédacteurs* de l'encyclopédie travaillent depuis deux ans sur ce projet.
+  Die *Redakteure* der Enzyklopädie arbeiten seit zwei Jahren an diesem Projekt.
+
+  La Société des *rédacteurs* protège l'indépendance journalistique.
+  Die *Redakteurs*gesellschaft schützt die journalistische Unabhängigkeit.
+
+  Le *rédacteur* des débats note chaque intervention au Sénat.
+  Der *Redakteur* der Debatten notiert jeden Redebeitrag im Senat.
+
+  Cette *rédactrice* de presse écrite a reçu un prix pour son article.
+  Diese Zeitungs*redakteurin* hat einen Preis für ihren Artikel erhalten.
+
+  Comme *rédacteur* publicitaire, il crée des textes percutants.
+  Als Werbe*texter* entwickelt er eindrucksvolle Texte.
+
+  La *rédactrice* en chef adjoint supervisera l'édition du week-end.
+  Die stellvertretende Chef*redakteurin* wird die Wochenendausgabe betreuen.
+
+  Les *rédacteurs* du dictionnaire vérifient chaque définition.
+  Die *Redakteure* des Wörterbuchs überprüfen jede Definition.
+
+  Notre nouveau *rédacteur* technique simplifie les manuels d'utilisation.
+  Unser neuer technischer *Redakteur* vereinfacht die Bedienungsanleitungen.
+
+  La *rédactrice* en ligne actualise le site toutes les heures.
+  Die Online-*Redakteurin* aktualisiert die Website stündlich.
+
+  Le *rédacteur* local recherche un assistant pour l'été.
+  Der Lokal*redakteur* sucht einen Assistenten für den Sommer.
+
+  Cette *rédactrice* radio présente aussi le journal du matin.
+  Diese Rundfunk*redakteurin* moderiert auch die Morgennachrichten.
+
+  Le *rédacteur* des comptes rendus assistera à toutes les réunions.
+  Der Protokoll*redakteur* wird an allen Sitzungen teilnehmen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

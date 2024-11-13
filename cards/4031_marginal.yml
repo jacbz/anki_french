@@ -13,20 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai jamais pensé que j’étais marginal.
-  Ich habe nie gedacht, dass ich ein Außenseiter bin.
+  Je n'ai jamais pensé que j'étais *marginal*.
+  Ich dachte nie, dass ich ein *Außenseiter* bin.
 
-  Il occupe une place marginale dans l’entreprise.
-  Er hat eine periphere Rolle im Unternehmen.
+  Les annotations *marginales* dans ce livre ancien sont très intéressantes.
+  Die *Rand*notizen in diesem alten Buch sind sehr interessant.
 
-  Le problème marginal est un détail sans importance.
-  Das Randproblem ist eine Kleinigkeit.
+  Sophie a fait quelques remarques *marginales* sur mon essai.
+  Sophie hat ein paar *Rand*bemerkungen zu meinem Aufsatz gemacht.
 
-  La remarque marginale est une observation mineure.
-  Die Randbemerkung ist eine kleine Anmerkung.
+  Le coût *marginal* de production est trop élevé pour cette entreprise.
+  Die *Grenz*kosten der Produktion sind für dieses Unternehmen zu hoch.
 
-  La note marginale est une annotation ajoutée en marge.
-  Der Randvermerk ist eine Notiz, die am Rande hinzugefügt wurde.
+  Cette discussion n'a qu'une importance *marginale* pour notre projet.
+  Diese Diskussion hat nur eine *nebensächliche* Bedeutung für unser Projekt.
+
+  Les jeunes artistes occupent souvent une position *marginale* dans la société.
+  Junge Künstler nehmen oft eine *Rand*position in der Gesellschaft ein.
+
+  Le prix *marginal* ne couvre même pas les frais de production.
+  Der *Grenz*preis deckt nicht einmal die Produktionskosten.
+
+  Cette zone *marginale* de la ville manque d'infrastructures.
+  Dieses *Rand*gebiet der Stadt hat keine Infrastruktur.
+
+  Mon oncle mène une vie plutôt *marginale* depuis des années.
+  Mein Onkel führt seit Jahren ein eher *außenseiterhaftes* Leben.
+
+  Ces phénomènes *marginaux* n'affectent pas les résultats de l'étude.
+  Diese *Rand*phänomene beeinflussen die Studienergebnisse nicht.
+
+  La mer *marginale* du Japon est bordée d'îles volcaniques.
+  Das *Rand*meer Japans ist von vulkanischen Inseln gesäumt.
+
+  Son travail joue un rôle *marginal* dans l'économie locale.
+  Seine Arbeit spielt eine *nebensächliche* Rolle in der lokalen Wirtschaft.
+
+  Les groupes *marginaux* se rassemblent souvent dans ce quartier.
+  *Randgruppen* treffen sich oft in diesem Viertel.
+
+  Cette entreprise *marginale* risque de faire faillite.
+  Dieses *Grenz*unternehmen läuft Gefahr, bankrott zu gehen.
+
+  Les préoccupations *marginales* nous empêchent de voir l'essentiel.
+  *Nebensächliche* Sorgen hindern uns daran, das Wesentliche zu sehen.
+
+  Le bord *marginal* de l'aile a été endommagé pendant le vol.
+  Die *Rand*kante des Flügels wurde während des Fluges beschädigt.
+
+  Les *marginaux* ont créé leur propre communauté dans ce quartier.
+  Die *Außenseiter* haben ihre eigene Gemeinschaft in diesem Viertel gegründet.
+
+  Cette occupation *marginale* lui permet de gagner un peu d'argent.
+  Diese *Neben*beschäftigung ermöglicht es ihr, etwas Geld zu verdienen.
+
+  La distribution *marginale* des données montre une tendance intéressante.
+  Die *Rand*verteilung der Daten zeigt einen interessanten Trend.
+
+  Les notes *marginales* de l'auteur révèlent ses vraies pensées.
+  Die *Rand*notizen des Autors offenbaren seine wahren Gedanken.
+
+  Cette théorie n'a qu'une valeur *marginale* dans ce domaine.
+  Diese Theorie hat nur einen *marginalen* Wert in diesem Bereich.
+
+  Le caractère *marginal* de son art le rend unique.
+  Der *außenseitige* Charakter seiner Kunst macht ihn einzigartig.
+
+  La loi *marginale* de probabilité doit être calculée séparément.
+  Das *Rand*gesetz der Wahrscheinlichkeit muss separat berechnet werden.
+
+  Ces problèmes *marginaux* peuvent être résolus facilement.
+  Diese *Rand*probleme können leicht gelöst werden.
+
+  La productivité *marginale* diminue après chaque heure supplémentaire.
+  Die *Grenz*produktivität sinkt nach jeder zusätzlichen Stunde.
+
+  Marie est devenue une *marginale* par choix, pas par nécessité.
+  Marie wurde aus freier Entscheidung zur *Außenseiterin*, nicht aus Not.
+
+  Les populations *marginales* ont souvent du mal à accéder aux services publics.
+  *Rand*gruppen haben oft Schwierigkeiten beim Zugang zu öffentlichen Dienstleistungen.
+
+  L'utilité *marginale* de ce produit décroît rapidement.
+  Der *Grenz*nutzen dieses Produkts nimmt schnell ab.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

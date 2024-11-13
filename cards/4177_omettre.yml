@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je n’y omettrai rien.
-  Ich werde nichts auslassen.
+  Je n'y *omettrai* rien.
+  Ich werde nichts *auslassen*.
 
-  Il a omis de me dire la vérité.
-  Er hat es versäumt, mir die Wahrheit zu sagen.
+  Il a *omis* de signaler son absence à son patron.
+  Er hat es *versäumt*, seinem Chef seine Abwesenheit zu melden.
 
-  Il a omis de faire ses devoirs, ce qui l'a mis dans une situation difficile.
-  Er hat es unterlassen, seine Hausaufgaben zu machen, was ihn in eine schwierige Lage gebracht hat.
+  Elle a *omis* d'éteindre les lumières avant de partir.
+  Sie hat *vergessen*, das Licht auszumachen, bevor sie ging.
 
-  Il a omis de mentionner son nom dans la liste des participants.
-  Er hat es unterlassen, seinen Namen in die Liste der Teilnehmer aufzunehmen.
+  N'*omettez* pas de lire les instructions attentivement.
+  *Versäumen* Sie es nicht, die Anweisungen sorgfältig zu lesen.
+
+  Le journaliste a délibérément *omis* certains détails de l'histoire.
+  Der Journalist hat absichtlich bestimmte Details der Geschichte *weggelassen*.
+
+  Dans sa présentation, elle a *omis* de mentionner ses collaborateurs.
+  In ihrer Präsentation hat sie es *unterlassen*, ihre Mitarbeiter zu erwähnen.
+
+  Vous avez *omis* mon nom de la liste des invités.
+  Sie haben meinen Namen von der Gästeliste *weggelassen*.
+
+  Le professeur a *omis* trois étudiants lors de l'appel.
+  Der Lehrer hat drei Schüler beim Aufrufen *übersehen*.
+
+  Cette référence importante a été *omise* dans la bibliographie.
+  Diese wichtige Referenz wurde in der Bibliographie *ausgelassen*.
+
+  J'ai *omis* de vous informer du changement d'horaire.
+  Ich habe *vergessen*, Sie über die Zeitänderung zu informieren.
+
+  Les détails *omis* dans le rapport étaient cruciaux.
+  Die im Bericht *ausgelassenen* Details waren entscheidend.
+
+  N'*omettez* aucun détail dans votre déclaration.
+  *Lassen* Sie in Ihrer Aussage keine Details *aus*.
+
+  Tu as *omis* de mettre la date sur le formulaire.
+  Du hast *vergessen*, das Datum auf das Formular zu setzen.
+
+  Le comité a *omis* plusieurs candidats qualifiés.
+  Das Komitee hat mehrere qualifizierte Kandidaten nicht *berücksichtigt*.
+
+  Il ne faut pas *omettre* les virgules dans cette phrase.
+  Man darf die Kommas in diesem Satz nicht *weglassen*.
+
+  Les informations *omises* ont été ajoutées dans la nouvelle version.
+  Die *ausgelassenen* Informationen wurden in der neuen Version ergänzt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

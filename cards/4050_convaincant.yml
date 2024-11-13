@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tu as été convaincant à la télé aujourd’hui.
-  Du warst heute im Fernsehen überzeugend.
+  Tu as été *convaincant* à la télé aujourd'hui.
+  Du warst heute im Fernsehen sehr *überzeugend*.
 
-  Son argument était très convaincant.
-  Sein Argument war sehr überzeugend.
+  Son argumentation était très *convaincante* lors du débat.
+  Ihre Argumentation war in der Debatte sehr *überzeugend*.
+
+  La preuve n'était pas assez *convaincante* pour le jury.
+  Der Beweis war für die Jury nicht *eindeutig* genug.
+
+  Ces nouvelles preuves sont absolument *convaincantes*.
+  Diese neuen Beweise sind absolut *schlagend*.
+
+  L'avocat n'a pas été très *convaincant* dans sa plaidoirie finale.
+  Der Anwalt war in seinem Schlussplädoyer nicht sehr *überzeugend*.
+
+  Sa démonstration était particulièrement *convaincante*.
+  Seine Vorführung war besonders *überzeugend*.
+
+  Je ne trouve pas vos explications très *convaincantes*.
+  Ich finde Ihre Erklärungen nicht sehr *überzeugend*.
+
+  L'orateur était tellement *convaincant* que tout le monde l'a applaudi.
+  Der Redner war so *überzeugend*, dass alle applaudierten.
+
+  Ces résultats sont-ils vraiment *convaincants* ?
+  Sind diese Ergebnisse wirklich *eindeutig*?
+
+  Elle donne toujours des exemples très *convaincants*.
+  Sie gibt immer sehr *überzeugende* Beispiele.
+
+  Les raisons qu'il a présentées étaient très *convaincantes*.
+  Die Gründe, die er vorgebracht hat, waren sehr *überzeugend*.
+
+  Votre exposé n'était pas du tout *convaincant*.
+  Ihr Vortrag war überhaupt nicht *überzeugend*.
+
+  Cette théorie devient de plus en plus *convaincante*.
+  Diese Theorie wird immer *überzeugender*.
+
+  Il faut être *convaincant* pour réussir cet entretien d'embauche.
+  Man muss *überzeugend* sein, um dieses Vorstellungsgespräch zu meistern.
+
+  La conclusion de son article était particulièrement *convaincante*.
+  Das Fazit seines Artikels war besonders *überzeugend*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

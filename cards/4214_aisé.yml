@@ -13,17 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Beaucoup venaient de familles aisées.
-  Viele kamen aus wohlhabenden Familien.
+  Beaucoup venaient de familles *aisées*.
+  Viele kamen aus *wohlhabenden* Familien.
 
-  C’est une tâche aisée.
-  Das ist eine leichte Aufgabe.
+  La critique est *aisée*, mais l'art est difficile.
+  Die Kritik ist *leicht*, aber die Kunst ist schwer.
 
-  J'ai trouvé un dictionnaire aisé à consulter pour apprendre le français.
-  Ich habe ein leicht zu benutzendes Wörterbuch gefunden, um Französisch zu lernen.
+  Le manuel est très *aisé* à comprendre.
+  Das Handbuch ist sehr *leicht* zu verstehen.
 
-  Il est aisé de critiquer le travail des autres, mais il est plus difficile de faire mieux.
-  Es ist leicht, die Arbeit anderer zu kritisieren, aber es ist schwieriger, es besser zu machen.
+  Dans son style *aisé*, elle nous a raconté ses aventures.
+  In ihrem *flüssigen* Stil erzählte sie uns von ihren Abenteuern.
+
+  Il s'exprime d'une manière *aisée* en public.
+  Er drückt sich in der Öffentlichkeit auf eine *ungezwungene* Art aus.
+
+  Les solutions semblent toujours plus *aisées* après coup.
+  Die Lösungen erscheinen im Nachhinein immer *einfacher*.
+
+  Cette nouvelle application est particulièrement *aisée* à utiliser.
+  Diese neue Anwendung ist besonders *leicht* zu bedienen.
+
+  Les quartiers *aisés* se trouvent souvent en périphérie.
+  Die *wohlhabenden* Viertel befinden sich oft am Stadtrand.
+
+  Son ton *aisé* mettait tout le monde à l'aise.
+  Sein *ungezwungener* Ton ließ alle sich wohlfühlen.
+
+  Il n'est pas *aisé* de changer ses habitudes.
+  Es ist nicht *leicht*, seine Gewohnheiten zu ändern.
+
+  Cette mélodie est *aisée* à retenir.
+  Diese Melodie ist *leicht* zu merken.
+
+  Sa conversation *aisée* impressionnait tous ses interlocuteurs.
+  Seine *ungezwungene* Konversation beeindruckte alle Gesprächspartner.
+
+  L'industriel *aisé* a fait un don important à l'école.
+  Der *wohlhabende* Industrielle hat der Schule eine große Spende gemacht.
+
+  Le parcours était particulièrement *aisé* à suivre.
+  Der Weg war besonders *leicht* zu folgen.
+
+  Sa situation *aisée* lui permettait de voyager souvent.
+  Seine *wohlhabende* Situation ermöglichte es ihm, oft zu reisen.
+
+  Les étudiants trouvent ce livre très *aisé* à lire.
+  Die Studenten finden dieses Buch sehr *leicht* zu lesen.
+
+  Son style *aisé* rendait ses articles agréables à lire.
+  Sein *flüssiger* Stil machte seine Artikel angenehm zu lesen.
+
+  Il adoptait toujours une attitude *aisée* en société.
+  Er nahm in Gesellschaft immer eine *ungezwungene* Haltung ein.
+
+  La classe *aisée* habitait ce quartier historique.
+  Die *wohlhabende* Klasse wohnte in diesem historischen Viertel.
+
+  Ces exercices sont *aisés* pour des débutants.
+  Diese Übungen sind für Anfänger *leicht*.
+
+  Son écriture *aisée* reflétait son talent naturel.
+  Seine *flüssige* Schreibweise spiegelte sein natürliches Talent wider.
+
+  Les explications étaient *aisées* à suivre.
+  Die Erklärungen waren *leicht* zu verstehen.
+
+  Il menait une vie *aisée* grâce à son héritage.
+  Er führte dank seiner Erbschaft ein *wohlhabendes* Leben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

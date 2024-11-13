@@ -13,14 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle est très fiable, croyez-moi.
-  Sie ist sehr zuverlässig, glauben Sie mir.
+  Elle est très *fiable*, croyez-moi.
+  Sie ist sehr *zuverlässig*, glauben Sie mir.
 
-  C’est une personne fiable.
-  Das ist eine verlässliche Person.
+  Cette voiture d'occasion n'est pas très *fiable*.
+  Dieser Gebrauchtwagen ist nicht sehr *betriebssicher*.
 
-  Je pense que c’est fiable.
-  Ich denke, es ist zuverlässig.
+  Les sources que tu as utilisées pour ton exposé sont-elles *fiables* ?
+  Sind die Quellen, die du für deinen Vortrag verwendet hast, *zuverlässig*?
+
+  Notre nouveau système informatique s'est révélé particulièrement *fiable*.
+  Unser neues Computersystem hat sich als besonders *betriebssicher* erwiesen.
+
+  Sa mémoire n'est plus aussi *fiable* qu'avant.
+  Sein Gedächtnis ist nicht mehr so *zuverlässig* wie früher.
+
+  Nous recherchons un partenaire commercial *fiable*.
+  Wir suchen einen *vertrauenswürdigen* Geschäftspartner.
+
+  Les statistiques montrent des résultats *fiables*.
+  Die Statistiken zeigen *zuverlässige* Ergebnisse.
+
+  Cette méthode de test s'est avérée *fiable* à 100%.
+  Diese Testmethode hat sich als zu 100% *zuverlässig* erwiesen.
+
+  Mon ancien téléphone était plus *fiable* que celui-ci.
+  Mein altes Handy war *betriebssicherer* als dieses.
+
+  As-tu trouvé un baby-sitter *fiable* pour ce soir ?
+  Hast du einen *zuverlässigen* Babysitter für heute Abend gefunden?
+
+  Ces données ne sont pas suffisamment *fiables* pour tirer des conclusions.
+  Diese Daten sind nicht *vertrauenswürdig* genug, um Schlüsse zu ziehen.
+
+  Le nouveau moteur est plus *fiable* que l'ancien modèle.
+  Der neue Motor ist *betriebssicherer* als das alte Modell.
+
+  Je cherche une montre *fiable* pour mes activités sportives.
+  Ich suche eine *zuverlässige* Uhr für meine sportlichen Aktivitäten.
+
+  Les prévisions météorologiques sont rarement *fiables* à long terme.
+  Wettervorhersagen sind langfristig selten *zuverlässig*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cela permettrait d’économiser beaucoup d’argent.
-  Dadurch könnte viel Geld gespart werden.
+  Cela permettrait d'*économiser* beaucoup d'argent.
+  Das würde viel Geld *sparen*.
 
-  Je dois économiser de l’argent.
-  Ich muss Geld sparen.
+  Elle *économise* 200 euros par mois pour ses vacances.
+  Sie *spart* jeden Monat 200 Euro für ihren Urlaub.
 
-  Elle a décidé d'économiser sur les sorties au restaurant pour pouvoir s'offrir un voyage.
-  Sie hat beschlossen, beim Essen gehen zu sparen, um sich eine Reise leisten zu können.
+  "J'ai *économisé* assez pour m'acheter une nouvelle voiture !"
+  "Ich habe genug *gespart*, um mir ein neues Auto zu kaufen!"
 
-  Il faut apprendre à économiser l'eau, car elle est une ressource précieuse.
-  Man muss lernen, mit Wasser zu haushalten, denn es ist eine wertvolle Ressource.
+  Cette nouvelle machine *économise* beaucoup d'électricité.
+  Diese neue Maschine *spart* viel Strom.
+
+  Il faut *économiser* l'eau pendant la sécheresse.
+  Während der Trockenheit muss man mit dem Wasser *haushalten*.
+
+  Marie *économise* toujours sur la nourriture.
+  Marie *spart* immer beim Essen.
+
+  Les étudiants doivent *économiser* leur argent.
+  Die Studenten müssen mit ihrem Geld *haushalten*.
+
+  Cette application nous aide à *économiser* du temps.
+  Diese App hilft uns, Zeit zu *sparen*.
+
+  Le nouveau système *économise* 30% d'énergie.
+  Das neue System *spart* 30% Energie *ein*.
+
+  Tu devrais *économiser* tes forces pour demain.
+  Du solltest deine Kräfte für morgen *einteilen*.
+
+  Nous devons *économiser* le papier au bureau.
+  Wir müssen im Büro mit dem Papier *sparsam umgehen*.
+
+  Pierre *économise* pour sa retraite depuis des années.
+  Pierre *spart* seit Jahren für seine Rente.
+
+  Cette solution permet d'*économiser* beaucoup d'espace.
+  Diese Lösung ermöglicht es, viel Platz *einzusparen*.
+
+  Il faut *économiser* le carburant pendant le voyage.
+  Während der Reise muss man mit dem Treibstoff *sparsam umgehen*.
+
+  Les parents *économisent* pour l'université de leurs enfants.
+  Die Eltern *sparen* für das Studium ihrer Kinder.
+
+  Cette méthode nous aide à *économiser* nos ressources.
+  Diese Methode hilft uns, mit unseren Ressourcen *hauszuhalten*.
+
+  Nous devons *économiser* notre énergie pour la course.
+  Wir müssen unsere Energie für das Rennen *einteilen*.
+
+  Je dois *économiser* sur mes dépenses ce mois-ci.
+  Ich muss diesen Monat bei meinen Ausgaben *sparen*.
+
+  La nouvelle isolation nous permet d'*économiser* sur le chauffage.
+  Die neue Isolierung ermöglicht es uns, beim Heizen zu *sparen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

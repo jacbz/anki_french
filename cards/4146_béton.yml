@@ -13,14 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les murs étaient en béton.
-  Die Wände waren aus Beton.
+  Les murs étaient en *béton*.
+  Die Wände waren aus *Beton*.
 
-  Le béton est un matériau de construction très utilisé.
-  Beton ist ein sehr verbreitetes Baumaterial.
+  Le nouveau pont sera construit en *béton* armé.
+  Die neue Brücke wird aus Stahl*beton* gebaut.
 
-  Le chantier utilisait du béton prêt à l'emploi pour construire les piliers en béton.
-  Auf der Baustelle wurde Fertigbeton verwendet, um die Betonpfeiler zu bauen.
+  Pour cette construction, nous avons utilisé du *béton* prêt à l'emploi.
+  Für diesen Bau haben wir Fertig*beton* verwendet.
+
+  Les piliers en *béton* soutiennent toute la structure.
+  Die *Beton*pfeiler tragen die gesamte Struktur.
+
+  "Son alibi est en *béton*, il ne peut pas être coupable."
+  "Sein Alibi ist *beton*sicher, er kann nicht schuldig sein."
+
+  "Elle a toujours des excuses *béton* pour ne pas venir."
+  "Sie hat immer *wasser*dichte Ausreden, um nicht zu kommen."
+
+  La construction en *béton* précontraint permet une meilleure résistance.
+  Die Spann*beton*konstruktion ermöglicht eine bessere Belastbarkeit.
+
+  Le *béton* sera coulé demain matin.
+  Der *Beton* wird morgen früh gegossen.
+
+  Les architectes ont choisi le *béton* pour sa durabilité.
+  Die Architekten haben *Beton* wegen seiner Langlebigkeit gewählt.
+
+  "Je ne supporte plus tout ce *béton* dans notre ville."
+  "Ich ertrage den ganzen *Beton* in unserer Stadt nicht mehr."
+
+  Cet immeuble de *béton* date des années 60.
+  Dieses *Beton*gebäude stammt aus den 60er Jahren.
+
+  Le *béton* doit sécher pendant au moins trois jours.
+  Der *Beton* muss mindestens drei Tage trocknen.
+
+  "Ses arguments sont en *béton*, personne ne peut les contredire."
+  "Seine Argumente sind *beton*hart, niemand kann sie widerlegen."
+
+  Un univers de *béton* nous entoure dans ce quartier.
+  Eine *Beton*welt umgibt uns in diesem Viertel.
+
+  Le camion de *béton* arrive dans une heure.
+  Der *Beton*mischer kommt in einer Stunde.
+
+  Les fissures dans le *béton* doivent être réparées rapidement.
+  Die Risse im *Beton* müssen schnell repariert werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

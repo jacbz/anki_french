@@ -13,20 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les importations de carburants et de combustibles liquides ont reculé.
-  Die Importe von Kraftstoffen und flüssigen Brennstoffen gingen zurück.
+  Les importations de carburants et de *combustibles* liquides ont reculé.
+  Die Einfuhren von Kraftstoffen und flüssigen *Brennstoffen* sind zurückgegangen.
 
-  Le charbon est un combustible fossile.
-  Kohle ist ein fossiler Brennstoff.
+  Le papier est très *combustible*, il faut le tenir éloigné des flammes.
+  Papier ist sehr *brennbar*, man muss es von Flammen fernhalten.
 
-  Le pétrole est un combustible fossile, une ressource non renouvelable.
-  Erdöl ist ein fossiler Brennstoff, eine nicht erneuerbare Ressource.
+  Pour économiser du *combustible*, nous avons baissé le chauffage.
+  Um *Brennstoff* zu sparen, haben wir die Heizung heruntergedreht.
 
-  L'uranium est un combustible nucléaire.
-  Uran ist ein Kernbrennstoff.
+  L'uranium enrichi sert de *combustible* nucléaire dans les centrales.
+  Angereichertes Uran dient als nuklearer *Brennstoff* in Kraftwerken.
 
-  Le propergol est un combustible pour fusée.
-  Treibstoff ist ein Raketentreibstoff.
+  Le bois sec est un *combustible* solide très efficace pour le chauffage.
+  Trockenes Holz ist ein sehr effizienter fester *Brennstoff* zum Heizen.
+
+  La fusée nécessite un *combustible* spécial pour son décollage.
+  Die Rakete benötigt einen speziellen *Treibstoff* für ihren Start.
+
+  Les matériaux *combustibles* doivent être stockés dans un endroit sûr.
+  *Brennbare* Materialien müssen an einem sicheren Ort gelagert werden.
+
+  Le goudron est une substance très *combustible* qu'il faut manipuler avec précaution.
+  Teer ist eine sehr *brennbare* Substanz, die mit Vorsicht gehandhabt werden muss.
+
+  La centrale a besoin de nouveau *combustible* nucléaire chaque année.
+  Das Kraftwerk braucht jedes Jahr neuen nuklearen *Brennstoff*.
+
+  Les feuilles sèches sont très *combustibles* en automne.
+  Trockene Blätter sind im Herbst sehr *brennbar*.
+
+  Le soufre est un matériau hautement *combustible*.
+  Schwefel ist ein hochgradig *brennbarer* Stoff.
+
+  Nous devons réduire notre dépendance aux *combustibles* fossiles.
+  Wir müssen unsere Abhängigkeit von fossilen *Brennstoffen* reduzieren.
+
+  Le charbon reste un *combustible* important dans certains pays.
+  Kohle bleibt in manchen Ländern ein wichtiger *Brennstoff*.
+
+  Le butane est un *combustible* gazeux couramment utilisé.
+  Butan ist ein häufig verwendeter gasförmiger *Brennstoff*.
+
+  Cette usine consomme beaucoup de *combustible* pour sa production.
+  Diese Fabrik verbraucht viel *Brennstoff* für ihre Produktion.
+
+  Le carton est un matériau très *combustible*.
+  Karton ist ein sehr *brennbares* Material.
+
+  Les scientifiques recherchent de nouveaux types de *combustibles*.
+  Die Wissenschaftler forschen nach neuen Arten von *Brennstoffen*.
+
+  Il faut faire des réserves de *combustible* avant l'hiver.
+  Man muss vor dem Winter *Brennstoff*vorräte anlegen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

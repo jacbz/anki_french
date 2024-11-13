@@ -13,14 +13,101 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tout le monde la cherchait, hurlait son prénom.
-  Alle suchten sie und schrien ihren Namen.
+  Tout le monde la cherchait, *hurlait* son prénom.
+  Alle suchten sie und *schrien* ihren Namen.
 
-  Il a hurlé de douleur.
-  Er hat vor Schmerzen geschrien.
+  Les chiens *hurlaient* à la pleine lune.
+  Die Hunde *heulten* bei Vollmond.
 
-  Le chien a hurlé de rage quand il a vu son os s'envoler.
-  Der Hund hat vor Wut geschrien, als er sah, wie sein Knochen weggeflogen ist.
+  Le loup solitaire *hurle* dans la forêt enneigée.
+  Der einsame Wolf *heult* im verschneiten Wald.
+
+  "Si tu continues comme ça, je vais *hurler*!"
+  "Wenn du so weitermachst, werde ich *schreien*!"
+
+  La sirène d'alarme *hurle* dans toute la ville.
+  Die Alarmsirene *heult* durch die ganze Stadt.
+
+  Les freins de la voiture ont *hurlé* dans le virage.
+  Die Bremsen des Autos haben in der Kurve *gequietscht*.
+
+  Le vent *hurle* dans la cheminée cette nuit.
+  Der Wind *heult* heute Nacht im Schornstein.
+
+  La radio *hurle* depuis ce matin.
+  Das Radio *plärrt* seit heute Morgen.
+
+  Il a *hurlé* de douleur quand le médecin a touché sa jambe.
+  Er *schrie* vor Schmerz, als der Arzt sein Bein berührte.
+
+  Marie *hurlait* de rire en regardant la comédie.
+  Marie *brüllte* vor Lachen beim Ansehen der Komödie.
+
+  Les supporters *hurlent* le nom de leur équipe.
+  Die Fans *grölen* den Namen ihrer Mannschaft.
+
+  Le bébé *hurle* depuis des heures sans s'arrêter.
+  Das Baby *schreit* seit Stunden ohne Unterbrechung.
+
+  Les manifestants *hurlaient* des slogans dans la rue.
+  Die Demonstranten *brüllten* Parolen auf der Straße.
+
+  "*Hurle* avec les loups" - c'est ce qu'il fait toujours.
+  Er *heult* immer mit den Wölfen.
+
+  La tempête *hurle* autour de la maison.
+  Der Sturm *heult* um das Haus herum.
+
+  Ces couleurs *hurlent* ensemble, c'est horrible!
+  Diese Farben *schreien* regelrecht, das ist schrecklich!
+
+  Paul *hurlait* sa colère contre l'injustice.
+  Paul *schrie* seine Wut über die Ungerechtigkeit hinaus.
+
+  Les hyènes *hurlent* dans la nuit africaine.
+  Die Hyänen *heulen* in der afrikanischen Nacht.
+
+  La foule *hurlait* de joie après le but.
+  Die Menge *brüllte* vor Freude nach dem Tor.
+
+  Le professeur *hurle* pour se faire entendre.
+  Der Lehrer *schreit*, um sich Gehör zu verschaffen.
+
+  Les enfants *hurlent* dans la cour de récréation.
+  Die Kinder *schreien* auf dem Schulhof.
+
+  Le chanteur *hurle* plus qu'il ne chante.
+  Der Sänger *brüllt* mehr als dass er singt.
+
+  La victime *hurlait* de terreur face à l'agresseur.
+  Das Opfer *schrie* vor Angst angesichts des Angreifers.
+
+  Les haut-parleurs *hurlent* des messages d'évacuation.
+  Die Lautsprecher *dröhnen* mit Evakuierungsdurchsagen.
+
+  Sophie *hurlait* des insultes à son ex-petit ami.
+  Sophie *schrie* ihrem Ex-Freund Beleidigungen zu.
+
+  Le chef *hurle* ses ordres dans la cuisine.
+  Der Koch *brüllt* seine Befehle in der Küche.
+
+  Mon voisin *hurle* au téléphone jour et nuit.
+  Mein Nachbar *schreit* Tag und Nacht am Telefon.
+
+  Les loups *hurlent* pour communiquer entre eux.
+  Die Wölfe *heulen*, um miteinander zu kommunizieren.
+
+  Le public *hurlait* son mécontentement.
+  Das Publikum *schrie* seinen Unmut hinaus.
+
+  Cette musique *hurle* dans mes oreilles.
+  Diese Musik *dröhnt* in meinen Ohren.
+
+  Mon chien *hurle* chaque fois qu'une ambulance passe.
+  Mein Hund *jault* jedes Mal, wenn ein Krankenwagen vorbeifährt.
+
+  Le gardien *hurlait* des instructions à ses défenseurs.
+  Der Torwart *brüllte* Anweisungen an seine Verteidiger.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

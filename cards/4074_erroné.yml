@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cette idée est complètement erronée.
-  Diese Vorstellung ist völlig falsch.
+  Cette idée est complètement *erronée*.
+  Diese Idee ist völlig *falsch*.
 
-  Cette information est erronée.
-  Diese Information ist falsch.
+  Les calculs du comptable étaient *erronés*.
+  Die Berechnungen des Buchhalters waren *fehlerhaft*.
 
-  Vos calculs sont erronés, il faut recommencer.
-  Sie haben sich verrechnet, man muss von vorne anfangen.
+  Le système ne fonctionne que de manière *erronée*.
+  Das System funktioniert nur *fehlerhaft*.
 
-  Le logiciel ne fonctionne que de manière erronée, il faut le réparer.
-  Das Programm funktioniert nur fehlerhaft, man muss es reparieren.
+  La citation dans son article est *erronée*.
+  Das Zitat in seinem Artikel ist *falsch*.
+
+  Vos conclusions sur ce sujet sont *erronées*.
+  Ihre Schlussfolgerungen zu diesem Thema sind *irrig*.
+
+  Cette opinion largement répandue est *erronée*.
+  Diese weit verbreitete Meinung ist *falsch*.
+
+  La traduction automatique s'est avérée *erronée*.
+  Die automatische Übersetzung erwies sich als *fehlerhaft*.
+
+  Cette information *erronée* s'est rapidement propagée sur Internet.
+  Diese *falsche* Information verbreitete sich schnell im Internet.
+
+  Le diagnostic initial était *erroné*.
+  Die erste Diagnose war *irrig*.
+
+  Les données saisies sont *erronées*.
+  Die eingegebenen Daten sind *fehlerhaft*.
+
+  Cette théorie scientifique s'est révélée *erronée*.
+  Diese wissenschaftliche Theorie erwies sich als *falsch*.
+
+  L'interprétation *erronée* du texte a mené à un malentendu.
+  Die *fehlerhafte* Interpretation des Textes führte zu einem Missverständnis.
+
+  Notre hypothèse de départ était *erronée*.
+  Unsere Ausgangshypothese war *falsch*.
+
+  Le message *erroné* a été corrigé immédiatement.
+  Die *fehlerhafte* Nachricht wurde sofort korrigiert.
+
+  Cette perception *erronée* de la situation doit être rectifiée.
+  Diese *irrige* Wahrnehmung der Situation muss korrigiert werden.
+
+  L'affichage *erroné* du prix a causé beaucoup de confusion.
+  Die *fehlerhafte* Preisanzeige hat viel Verwirrung gestiftet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

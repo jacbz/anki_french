@@ -13,23 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’aime bien les bijoux anciens.
-  Ich mag alten Schmuck.
+  J'aime bien les *bijoux* anciens.
+  Ich mag alten *Schmuck*.
 
-  Elle porte un bijou très élégant.
-  Sie trägt ein sehr elegantes Schmuckstück.
+  Elle ne portait que des *bijoux* en argent.
+  Sie trug nur *Schmuck* aus Silber.
 
-  Je porte souvent des bijoux en argent, car ils sont élégants et durables.
-  Ich trage oft Silberschmuck, weil er elegant und langlebig ist.
+  Ma grand-mère m'a légué ses *bijoux* de famille.
+  Meine Großmutter hat mir ihren Familien*schmuck* vererbt.
 
-  Le collier que j'ai hérité de ma grand-mère est un bijou de famille précieux.
-  Die Halskette, die ich von meiner Großmutter geerbt habe, ist ein wertvoller Familienschmuck.
+  Les adolescentes préfèrent souvent les *bijoux* fantaisie.
+  Teenager bevorzugen oft Mode*schmuck*.
 
-  Elle aime acheter des bijoux fantaisie pour compléter ses tenues.
-  Sie kauft gerne Modeschmuck, um ihre Outfits zu ergänzen.
+  "Mon *bijou*, tu devrais aller te coucher maintenant."
+  "Mein *Schatz*, du solltest jetzt ins Bett gehen."
 
-  Elle a acheté un bijou intime pour son anniversaire.
-  Sie hat sich zum Geburtstag Intimschmuck gekauft.
+  Cette petite église romane est un véritable *bijou* architectural.
+  Diese kleine romanische Kirche ist ein wahres *Kleinod* der Architektur.
+
+  Les *bijoux* en or sont toujours très demandés.
+  Gold*schmuck* ist immer sehr gefragt.
+
+  Elle était couverte de *bijoux* pour le mariage de sa fille.
+  Sie war zum Hochzeit ihrer Tochter mit *Schmuck* überladen.
+
+  As-tu rangé tes *bijoux* dans le coffret ?
+  Hast du deinen *Schmuck* in der Schatulle verstaut?
+
+  Ces *bijoux* ciselés sont d'une finesse remarquable.
+  Dieser ziselierte *Schmuck* ist von bemerkenswerter Feinheit.
+
+  Je ne porte que des *bijoux* de grande valeur.
+  Ich trage nur hochwertigen *Schmuck*.
+
+  "Cet enfant est un vrai *bijou*, il est si gentil !"
+  "Dieses Kind ist ein wahres *Juwel*, es ist so lieb!"
+
+  Il lui a offert un *bijou* en filigrane pour son anniversaire.
+  Er hat ihr zum Geburtstag *Schmuck* in Filigranarbeit geschenkt.
+
+  Cette montre est un *bijou* de précision mécanique.
+  Diese Uhr ist ein *Juwel* der Feinmechanik.
+
+  Les *bijoux* bon marché se vendent bien pendant les fêtes.
+  Günstiger *Schmuck* verkauft sich gut während der Feiertage.
+
+  Elle collectionne les *bijoux* de différentes époques.
+  Sie sammelt *Schmuck* aus verschiedenen Epochen.
+
+  Le cambrioleur n'a volé que les *bijoux* précieux.
+  Der Einbrecher hat nur den wertvollen *Schmuck* gestohlen.
+
+  Ces *bijoux* d'imitation sont très bien faits.
+  Dieser Imitations*schmuck* ist sehr gut gemacht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

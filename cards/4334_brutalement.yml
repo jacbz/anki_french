@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle referma brutalement la porte.
-  Sie schloss die Tür abrupt.
+  Elle referma *brutalement* la porte.
+  Sie schlug die Tür *brutal* zu.
 
-  Il a été renvoyé brutalement.
-  Er wurde plötzlich entlassen.
+  Le directeur a *brutalement* mis fin à la réunion.
+  Der Direktor beendete die Sitzung *abrupt*.
+
+  La tempête s'est *brutalement* intensifiée pendant la nuit.
+  Das Unwetter verschärfte sich *plötzlich* in der Nacht.
+
+  Il m'a dit *brutalement* la vérité sur mon travail.
+  Er sagte mir *unverblümt* die Wahrheit über meine Arbeit.
+
+  La voiture s'est arrêtée *brutalement* au feu rouge.
+  Das Auto kam an der roten Ampel *abrupt* zum Stehen.
+
+  Son mari est mort *brutalement* d'une crise cardiaque.
+  Ihr Mann starb *plötzlich* an einem Herzinfarkt.
+
+  Le chef parle toujours *brutalement* à ses employés.
+  Der Chef spricht immer *brutal* mit seinen Angestellten.
+
+  La température a *brutalement* chuté ce matin.
+  Die Temperatur ist heute Morgen *plötzlich* gefallen.
+
+  Il a *brutalement* rejeté ma proposition.
+  Er hat meinen Vorschlag *schroff* abgelehnt.
+
+  Les prix ont augmenté *brutalement* depuis janvier.
+  Die Preise sind seit Januar *drastisch* gestiegen.
+
+  Marie s'est réveillée *brutalement* en entendant le bruit.
+  Marie wachte von dem Geräusch *abrupt* auf.
+
+  Le chien s'est jeté *brutalement* sur le facteur.
+  Der Hund stürzte sich *brutal* auf den Briefträger.
+
+  L'entreprise a *brutalement* licencié cinquante employés.
+  Die Firma entließ *brutal* fünfzig Mitarbeiter.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

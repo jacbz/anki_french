@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tu feras confiance à un banquier des bahamas?
-  Würdest du einem Banker auf den Bahamas vertrauen?
+  Tu feras confiance à un *banquier* des Bahamas ?
+  Würdest du einem *Banker* von den Bahamas vertrauen?
 
-  Mon père est banquier.
-  Mein Vater ist Bankier.
+  La *banquière* m'a informé que mon compte était à découvert.
+  Die *Bankerin* hat mich informiert, dass mein Konto überzogen ist.
+
+  Mon *banquier* a accepté de me prêter de l'argent pour acheter une voiture.
+  Mein *Bankier* hat zugestimmt, mir Geld für ein Auto zu leihen.
+
+  Les *banquiers* d'affaires gagnent des salaires impressionnants à Londres.
+  Die Investment*banker* verdienen beeindruckende Gehälter in London.
+
+  Au casino, le *banquier* a perdu une somme considérable hier soir.
+  Der *Bankhalter* hat gestern Abend im Casino eine beträchtliche Summe verloren.
+
+  Marie est devenue *banquière* après ses études en économie.
+  Marie ist nach ihrem Wirtschaftsstudium *Bankerin* geworden.
+
+  "C'est mon *banquier*", dit-il en riant de son ami qui lui prête toujours de l'argent.
+  "Er ist mein *Bankier*", sagte er lachend über seinen Freund, der ihm immer Geld leiht.
+
+  Le *banquier* privé gère les fortunes de ses clients les plus aisés.
+  Der Privat*bankier* verwaltet die Vermögen seiner wohlhabendsten Kunden.
+
+  Cette *banquière* respectée travaille dans le quartier financier depuis vingt ans.
+  Diese angesehene *Bankerin* arbeitet seit zwanzig Jahren im Finanzviertel.
+
+  Les traditions *banquières* sont très différentes d'un pays à l'autre.
+  Die *Bank*traditionen unterscheiden sich stark von Land zu Land.
+
+  Au poker, c'est toujours le même joueur qui fait le *banquier*.
+  Beim Poker ist immer derselbe Spieler der *Bankhalter*.
+
+  La *banquière* m'a conseillé d'investir dans des obligations d'État.
+  Die *Bankerin* hat mir geraten, in Staatsanleihen zu investieren.
+
+  Notre *banquier* nous a refusé le prêt immobilier.
+  Unser *Bankier* hat uns den Immobilienkredit verweigert.
+
+  Le jeune *banquier* a rapidement gravi les échelons dans sa carrière.
+  Der junge *Banker* hat in seiner Karriere schnell die Karriereleiter erklommen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

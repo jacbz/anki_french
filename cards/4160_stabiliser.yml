@@ -13,11 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Stabilisez vos déflecteurs arrière.
-  Stabilisieren Sie Ihre hinteren Deflektoren.
+  *Stabilisez* vos déflecteurs arrière.
+  *Stabilisieren* Sie Ihre hinteren Deflektoren.
 
-  Il faut stabiliser la situation.
-  Die Situation muss stabilisiert werden.
+  La plate-forme a été *stabilisée* grâce aux nouveaux supports.
+  Die Plattform wurde durch die neuen Stützen *stabilisiert*.
+
+  L'état du patient s'est enfin *stabilisé* après l'opération.
+  Der Zustand des Patienten hat sich nach der Operation endlich *stabilisiert*.
+
+  Les ingénieurs doivent *stabiliser* les accotements de cette route.
+  Die Ingenieure müssen den Straßenrand *befestigen*.
+
+  Le gouvernement a réussi à *stabiliser* le taux de chômage.
+  Der Regierung ist es gelungen, die Arbeitslosenquote *konstant zu halten*.
+
+  Il faut *stabiliser* l'échafaudage avant de commencer les travaux.
+  Das Gerüst muss *stabilisiert* werden, bevor die Arbeiten beginnen.
+
+  La Banque centrale européenne tente de *stabiliser* l'inflation.
+  Die Europäische Zentralbank versucht, die Inflation zu *stabilisieren*.
+
+  Marie a réussi à *stabiliser* son poids après son régime.
+  Marie hat es geschafft, ihr Gewicht nach der Diät zu *stabilisieren*.
+
+  Le marché immobilier commence à se *stabiliser*.
+  Der Immobilienmarkt beginnt sich zu *festigen*.
+
+  Les prix du pétrole se sont *stabilisés* après des mois de fluctuation.
+  Die Ölpreise haben sich nach monatelangen Schwankungen *eingependelt*.
+
+  Le nouveau système va *stabiliser* la température de la pièce.
+  Das neue System wird die Raumtemperatur *konstant halten*.
+
+  Les taux d'intérêt se sont *stabilisés* à un niveau historiquement bas.
+  Die Zinssätze haben sich auf einem historisch niedrigen Niveau *stabilisiert*.
+
+  La situation politique commence enfin à se *stabiliser*.
+  Die politische Situation beginnt sich endlich zu *stabilisieren*.
+
+  Le médicament a aidé à *stabiliser* sa tension artérielle.
+  Das Medikament half dabei, seinen Blutdruck zu *stabilisieren*.
+
+  Les scientifiques ont trouvé un moyen de *stabiliser* ce composé chimique.
+  Die Wissenschaftler haben einen Weg gefunden, diese chemische Verbindung zu *stabilisieren*.
+
+  Le gyroscope aide à *stabiliser* l'appareil photo pendant la prise de vue.
+  Der Kreisel hilft dabei, die Kamera während der Aufnahme zu *stabilisieren*.
+
+  Sa personnalité s'est *stabilisée* depuis qu'il suit une thérapie.
+  Seine Persönlichkeit hat sich *gefestigt*, seit er eine Therapie macht.
+
+  Les ingénieurs ont réussi à *stabiliser* le pont pendant la tempête.
+  Die Ingenieure haben es geschafft, die Brücke während des Sturms zu *stabilisieren*.
+
+  Le nouveau logiciel va *stabiliser* la connexion internet.
+  Die neue Software wird die Internetverbindung *stabilisieren*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,38 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Air France propose toujours vingt-quatre vols quotidiens.
-  Air france bietet weiterhin täglich vierundzwanzig Flüge an.
+  Air France propose toujours *vingt-quatre* vols quotidiens.
+  Air France bietet immer *vierundzwanzig* tägliche Flüge an.
 
-  Il est vingt-quatre heures.
-  Es ist vierundzwanzig Uhr.
+  Le magasin est ouvert *vingt-quatre* heures sur *vingt-quatre*.
+  Der Laden ist *vierundzwanzig* Stunden am Tag geöffnet.
 
-  J'ai vingt-quatre ans.
-  Ich bin vierundzwanzig Jahre alt.
+  Tu as *vingt-quatre* ans aujourd'hui ? Joyeux anniversaire !
+  Du wirst heute *vierundzwanzig*? Herzlichen Glückwunsch!
 
-  J'ai vingt-quatre ans.
-  Ich bin vierundzwanzig.
+  Il y a *vingt-quatre* élèves dans ma classe de français.
+  In meinem Französischkurs sind *vierundzwanzig* Schüler.
+
+  La température a atteint *vingt-quatre* degrés hier.
+  Die Temperatur hat gestern *vierundzwanzig* Grad erreicht.
+
+  J'ai commandé *vingt-quatre* livres pour la bibliothèque.
+  Ich habe *vierundzwanzig* Bücher für die Bibliothek bestellt.
+
+  Cette boîte contient *vingt-quatre* chocolats différents.
+  Diese Schachtel enthält *vierundzwanzig* verschiedene Pralinen.
+
+  Le marathon commence dans *vingt-quatre* heures exactement.
+  Der Marathon beginnt in genau *vierundzwanzig* Stunden.
+
+  Il nous reste *vingt-quatre* minutes avant le début du film.
+  Uns bleiben noch *vierundzwanzig* Minuten bis zum Filmbeginn.
+
+  Paul aura *vingt-quatre* ans le mois prochain.
+  Paul wird nächsten Monat *vierundzwanzig*.
+
+  Les *vingt-quatre* participants ont reçu un certificat.
+  Die *vierundzwanzig* Teilnehmer haben ein Zertifikat erhalten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

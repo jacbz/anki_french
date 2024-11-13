@@ -13,23 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les catastrophes ont des incidences économiques importantes.
-  Katastrophen haben erhebliche wirtschaftliche Auswirkungen.
+  Les catastrophes ont des *incidences* économiques importantes.
+  Katastrophen haben wichtige wirtschaftliche *Auswirkungen*.
 
-  L’incidence de la pollution sur la santé est préoccupante.
-  Die Auswirkungen der Verschmutzung auf die Gesundheit sind besorgniserregend.
+  La réforme n'aura aucune *incidence* sur le budget de l'année prochaine.
+  Die Reform wird keine *Auswirkungen* auf das Budget des nächsten Jahres haben.
 
-  La nouvelle loi n'a aucune incidence sur les entreprises.
-  Die neue Gesetzgebung hat keine Auswirkungen auf die Unternehmen.
+  L'*incidence* du changement climatique sur la biodiversité est alarmante.
+  Die *Auswirkung* des Klimawandels auf die Biodiversität ist alarmierend.
 
-  Le projet est kostenneutral, il ne devrait pas avoir d'incidence sur le coût total.
-  Das Projekt ist kostenneutral, es sollte keine Auswirkungen auf die Gesamtkosten haben.
+  Cette solution n'aura pas d'*incidence* sur les coûts de production.
+  Diese Lösung wird *kostenneutral* für die Produktion sein.
 
-  La décision du juge est Prozessunerheblich, elle n'a pas d'incidence sur le procès.
-  Die Entscheidung des Richters ist Prozessunerheblich, sie hat keine Auswirkungen auf den Prozess.
+  Les médecins surveillent l'*incidence* des cas de grippe pendant l'hiver.
+  Die Ärzte überwachen die *Häufigkeit* der Grippefälle während des Winters.
 
-  L'incidence de cette réforme sur l'essor de l'économie est difficile à prévoir.
-  Die Auswirkungen dieser Reform auf den Wirtschaftsaufschwung sind schwer vorherzusehen.
+  L'*incidence* du rayon lumineux sur la surface crée un angle de 45 degrés.
+  Der *Einfall* des Lichtstrahls auf die Oberfläche erzeugt einen 45-Grad-Winkel.
+
+  Le point d'*incidence* du laser est marqué par un point rouge.
+  Der *Auftreffpunkt* des Lasers ist durch einen roten Punkt markiert.
+
+  Cette hausse des prix aura une *incidence* directe sur le pouvoir d'achat.
+  Diese Preiserhöhung wird eine direkte *Auswirkung* auf die Kaufkraft haben.
+
+  L'*incidence* des maladies cardiaques augmente avec l'âge.
+  Die *Häufigkeit* von Herzkrankheiten steigt mit dem Alter.
+
+  Les chercheurs étudient l'*incidence* du stress sur la santé mentale.
+  Die Forscher untersuchen die *Auswirkungen* von Stress auf die psychische Gesundheit.
+
+  Cette décision n'aura aucune *incidence* sur votre contrat actuel.
+  Diese Entscheidung wird keine *Auswirkungen* auf Ihren aktuellen Vertrag haben.
+
+  L'angle d'*incidence* est égal à l'angle de réflexion dans ce cas.
+  Der *Einfalls*winkel ist in diesem Fall gleich dem Reflexionswinkel.
+
+  L'*incidence* du tabagisme sur la santé publique reste préoccupante.
+  Die *Auswirkung* des Rauchens auf die öffentliche Gesundheit bleibt besorgniserregend.
+
+  Cette mesure aura une *incidence* positive sur l'environnement.
+  Diese Maßnahme wird eine positive *Auswirkung* auf die Umwelt haben.
+
+  Les experts analysent l'*incidence* fiscale de la nouvelle loi.
+  Die Experten analysieren die steuerlichen *Auswirkungen* des neuen Gesetzes.
+
+  L'*incidence* des nouvelles technologies sur notre vie quotidienne est considérable.
+  Die *Auswirkung* der neuen Technologien auf unser tägliches Leben ist beträchtlich.
+
+  Le taux d'*incidence* de la maladie a diminué grâce à la vaccination.
+  Die *Häufigkeit* der Krankheit ist dank der Impfung zurückgegangen.
+
+  Cette modification n'a aucune *incidence* sur le fonctionnement du système.
+  Diese Änderung hat keine *Auswirkungen* auf die Funktionsweise des Systems.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

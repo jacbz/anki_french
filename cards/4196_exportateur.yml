@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tous les pays exportateurs profitent de la situation.
-  Alle Exportländer profitieren von der Situation.
+  Tous les pays *exportateurs* profitent de la situation.
+  Alle *Export*länder profitieren von der Situation.
 
-  L’exportateur a vendu des produits à l’étranger.
-  Der Exporteur hat Produkte ins Ausland verkauft.
+  L'Australie est devenue le plus grand pays *exportateur* de vin dans l'hémisphère sud.
+  Australien ist zum größten *Wein**export*land der südlichen Hemisphäre geworden.
 
-  La France est un pays exportateur de vin réputé dans le monde entier.
-  Frankreich ist ein weltweit renommiertes weinexportierendes Land.
+  Cette société *exportatrice* a doublé son chiffre d'affaires l'année dernière.
+  Dieses *Export*unternehmen hat seinen Umsatz im letzten Jahr verdoppelt.
 
-  L'Australie est un exportateur de blé et de vin.
-  Australien ist ein Getreide- und Weinexporteur.
+  Marie travaille comme *exportatrice* de fruits et légumes biologiques.
+  Marie arbeitet als *Exporteurin* für Bio-Obst und -Gemüse.
+
+  Le Brésil reste le principal *exportateur* de café au monde.
+  Brasilien bleibt der wichtigste Kaffee*exporteur* der Welt.
+
+  Notre entreprise recherche un(e) *exportateur*/*exportatrice* expérimenté(e).
+  Unser Unternehmen sucht eine(n) erfahrene(n) *Exporteur*/*Exporteurin*.
+
+  Les pays *exportateurs* de pétrole ont décidé de réduire leur production.
+  Die Erdöl*export*länder haben beschlossen, ihre Produktion zu reduzieren.
+
+  Marc est devenu un *exportateur* de voitures de luxe très respecté.
+  Marc ist ein sehr angesehener Luxusauto*exporteur* geworden.
+
+  Cette région est historiquement *exportatrice* de fromages traditionnels.
+  Diese Region ist traditionell *export*stark im Bereich Käse.
+
+  Le Canada est un pays *exportateur* de blé depuis plus d'un siècle.
+  Kanada ist seit über einem Jahrhundert ein Getreide*export*land.
+
+  L'industrie *exportatrice* chinoise continue de se développer rapidement.
+  Die chinesische *Export*industrie entwickelt sich weiterhin schnell.
+
+  Notre secteur *exportateur* a connu une forte croissance cette année.
+  Unser *export*intensiver Sektor hat dieses Jahr ein starkes Wachstum verzeichnet.
+
+  L'entreprise *exportatrice* a dû s'adapter aux nouvelles réglementations.
+  Das *Export*unternehmen musste sich an die neuen Vorschriften anpassen.
+
+  Les petits *exportateurs* ont du mal à concurrencer les grandes entreprises.
+  Die kleinen *Exporteure* haben Schwierigkeiten, mit den großen Unternehmen zu konkurrieren.
+
+  La Nouvelle-Zélande est un important pays *exportateur* de produits laitiers.
+  Neuseeland ist ein wichtiges *Export*land für Milchprodukte.
+
+  Notre coopérative *exportatrice* de miel a reçu plusieurs prix internationaux.
+  Unsere Honig*export*genossenschaft hat mehrere internationale Preise erhalten.
+
+  La société *exportatrice* a ouvert de nouveaux marchés en Asie.
+  Das *Export*unternehmen hat neue Märkte in Asien erschlossen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

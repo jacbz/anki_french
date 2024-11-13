@@ -13,14 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le ciel était partiellement dégagé.
-  Der Himmel war teilweise klar.
+  Le ciel était *partiellement* dégagé.
+  Der Himmel war *teilweise* aufgeklart.
 
-  Le projet est partiellement terminé.
-  Das Projekt ist teilweise abgeschlossen.
+  Les pertes ont été *partiellement* compensées par l'assurance.
+  Die Verluste wurden durch die Versicherung *teilweise* ausgeglichen.
 
-  La surface peut être reflétée complètement et partiellement.
-  Die Oberfläche kann sowohl vollständig als auch teilweise gespiegelt werden.
+  Le document n'a été *partiellement* traduit en anglais.
+  Das Dokument wurde nur *teilweise* ins Englische übersetzt.
+
+  Cette théorie n'est *partiellement* vraie que dans certains cas.
+  Diese Theorie ist nur in bestimmten Fällen *teilweise* richtig.
+
+  Le projet a été *partiellement* financé par des dons privés.
+  Das Projekt wurde durch private Spenden *teilweise* finanziert.
+
+  Les données sont *partiellement* cryptées pour plus de sécurité.
+  Die Daten sind aus Sicherheitsgründen *teilweise* verschlüsselt.
+
+  Le bâtiment a été *partiellement* détruit pendant la tempête.
+  Das Gebäude wurde während des Sturms *teilweise* zerstört.
+
+  Son raisonnement n'est que *partiellement* correct.
+  Seine Überlegung ist nur *teilweise* korrekt.
+
+  La ville a été *partiellement* reconstruite après la guerre.
+  Die Stadt wurde nach dem Krieg *teilweise* wiederaufgebaut.
+
+  Les résultats ne sont que *partiellement* satisfaisants.
+  Die Ergebnisse sind nur *teilweise* zufriedenstellend.
+
+  Le musée est *partiellement* fermé pour rénovation.
+  Das Museum ist wegen Renovierung *teilweise* geschlossen.
+
+  L'entreprise n'a *partiellement* repris ses activités.
+  Das Unternehmen hat seine Tätigkeiten nur *teilweise* wieder aufgenommen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

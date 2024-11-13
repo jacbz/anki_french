@@ -13,11 +13,38 @@ Register: ↘Fiktion ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cela évite au contrevenant d’aller en prison.
-  Dies bewahrt den Täter davor, ins Gefängnis zu gehen.
+  Cela évite au *contrevenant* d'aller en prison.
+  Das erspart dem *Zuwiderhandelnden* das Gefängnis.
 
-  Le contrevenant a été arrêté par la police.
-  Der Übertreter wurde von der Polizei festgenommen.
+  Les *contrevenants* seront poursuivis selon la loi.
+  Die *Zuwiderhandelnden* werden nach dem Gesetz belangt.
+
+  La *contrevenante* a dû payer une amende de 50 euros.
+  Die *Zuwiderhandelnde* musste eine Strafe von 50 Euro zahlen.
+
+  Le policier a identifié trois *contrevenants* lors du contrôle routier.
+  Der Polizist hat bei der Verkehrskontrolle drei *Zuwiderhandelnde* identifiziert.
+
+  Cette *contrevenante* n'en est pas à sa première infraction.
+  Diese *Zuwiderhandelnde* ist nicht zum ersten Mal auffällig geworden.
+
+  Les *contrevenants* recevront un avertissement par courrier.
+  Die *Zuwiderhandelnden* werden eine schriftliche Verwarnung erhalten.
+
+  La police recherche activement le *contrevenant*.
+  Die Polizei sucht aktiv nach dem *Zuwiderhandelnden*.
+
+  Plusieurs *contrevenants* ont contesté leur amende.
+  Mehrere *Zuwiderhandelnde* haben gegen ihr Bußgeld Einspruch erhoben.
+
+  Le juge a décidé d'être clément envers la *contrevenante*.
+  Der Richter entschied, mit der *Zuwiderhandelnden* nachsichtig zu sein.
+
+  Les noms des *contrevenants* seront publiés dans le journal local.
+  Die Namen der *Zuwiderhandelnden* werden in der Lokalzeitung veröffentlicht.
+
+  Le *contrevenant* a reconnu immédiatement ses torts.
+  Der *Zuwiderhandelnde* hat seinen Fehler sofort eingestanden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

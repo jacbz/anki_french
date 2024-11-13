@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tâchez donc à faire plus simple.
-  Versuchen Sie also, es einfacher zu machen.
+  *Tâchez* donc à faire plus simple.
+  *Versuchen* Sie es doch etwas einfacher zu machen.
 
-  Je vais tâcher de finir à temps.
-  Ich werde versuchen, rechtzeitig fertig zu werden.
+  Je *tâcherai* de terminer ce travail avant demain.
+  Ich werde *versuchen*, diese Arbeit bis morgen zu beenden.
 
-  Il a tâché de faire comprendre à sa mère ce qu'il ressentait.
-  Er hat versucht, seiner Mutter verständlich zu machen, was er fühlte.
+  Nous *tâchons* que tout soit prêt pour votre arrivée.
+  Wir *sorgen* dafür, dass alles für Ihre Ankunft bereit ist.
 
-  Il a tâché que ce secret ne se produise pas.
-  Er hat alles daran gesetzt, dass dieses Geheimnis nicht ans Licht kommt.
+  *Tâchez* d'être à l'heure cette fois-ci !
+  *Sehen* Sie zu, dass Sie diesmal pünktlich sind!
+
+  Elle *tâche* de comprendre les mathématiques.
+  Sie *bemüht* sich, Mathematik zu verstehen.
+
+  *Tâchez* que personne ne soit dérangé pendant la réunion.
+  *Sorgen* Sie dafür, dass niemand während der Besprechung gestört wird.
+
+  Les étudiants *tâchent* d'apprendre le vocabulaire par cœur.
+  Die Studenten *bemühen* sich, den Wortschatz auswendig zu lernen.
+
+  Je *tâcherai* que tout soit parfait pour la fête.
+  Ich werde dafür *sorgen*, dass alles perfekt für die Party ist.
+
+  *Tâchez* de ne pas faire de bruit en rentrant.
+  *Versuchen* Sie, keine Geräusche zu machen, wenn Sie zurückkommen.
+
+  Il *tâche* d'économiser de l'argent chaque mois.
+  Er *versucht* jeden Monat Geld zu sparen.
+
+  *Tâchez* que cette erreur ne se reproduise plus.
+  *Sehen* Sie zu, dass dieser Fehler nicht wieder vorkommt.
+
+  Nous *tâcherons* de vous tenir informés.
+  Wir werden *versuchen*, Sie auf dem Laufenden zu halten.
+
+  Elle *tâchait* de ne pas pleurer devant les enfants.
+  Sie *versuchte*, vor den Kindern nicht zu weinen.
+
+  *Tâchez* de rester calme pendant l'entretien.
+  *Bemühen* Sie sich, während des Gesprächs ruhig zu bleiben.
+
+  Je *tâche* que tout le monde soit satisfait du résultat.
+  Ich *sorge* dafür, dass alle mit dem Ergebnis zufrieden sind.
+
+  Il faut *tâcher* de voir le bon côté des choses.
+  Man muss *versuchen*, die positive Seite der Dinge zu sehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

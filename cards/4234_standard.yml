@@ -13,29 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vos cartes sont de type standard?
-  Ihre Karten sind vom Typ Standard?
+  Vos cartes sont de type *standard* ?
+  Sind Ihre Karten vom *Standard*typ?
 
-  C’est un standard de qualité.
-  Das ist ein Qualitätsstandard.
+  Le *standard* de l'hôpital est débordé aujourd'hui.
+  Die *Telefonzentrale* des Krankenhauses ist heute überlastet.
 
-  Le technicien a dû repasser le standard à Marie, car sa ligne était coupée.
-  Der Techniker musste Marie wieder mit der Zentrale verbinden, da ihre Leitung unterbrochen war.
+  "*Georgia on My Mind*" est un *standard* du jazz que tout le monde connaît.
+  "*Georgia on My Mind*" ist ein Jazz-*Klassiker*, den jeder kennt.
 
-  Le modèle standard de ce véhicule est disponible en plusieurs couleurs.
-  Das Standardmodell dieses Fahrzeugs ist in verschiedenen Farben verfügbar.
+  Cette voiture est équipée d'une boîte de vitesses *standard*.
+  Dieses Auto ist mit einem *Standard*getriebe ausgestattet.
 
-  Le standard minimal pour ce concours est un niveau de français avancé.
-  Der Mindeststandard für diesen Wettbewerb ist ein fortgeschrittenes Französischniveau.
+  Je vais vous repasser au *standard*, veuillez patienter.
+  Ich verbinde Sie mit der *Zentrale*, bitte warten Sie.
 
-  Cette pièce standard est utilisée dans la plupart des modèles de cette marque.
-  Dieses Serienteil wird in den meisten Modellen dieser Marke verwendet.
+  Les fenêtres *standard* sont moins chères que les fenêtres sur mesure.
+  *Standard*fenster sind günstiger als maßgefertigte Fenster.
 
-  L'équipement standard de ce téléphone comprend un appareil photo de haute qualité.
-  Die standardmäßige Ausstattung dieses Telefons umfasst eine hochwertige Kamera.
+  Cette entreprise adopte des *standards* de qualité très stricts.
+  Diese Firma wendet sehr strenge Qualitäts*standards* an.
 
-  La langue standard du pays est le français, mais beaucoup de dialectes régionaux existent.
-  Die Hochsprache des Landes ist Französisch, aber viele regionale Dialekte existieren.
+  Ce modèle *standard* convient parfaitement à nos besoins.
+  Dieses *Standard*modell passt perfekt zu unseren Bedürfungen.
+
+  Le français *standard* est enseigné dans toutes les écoles.
+  *Hochdeutsches* Französisch wird in allen Schulen unterrichtet.
+
+  L'équipement *standard* de cette machine inclut un système de sécurité.
+  Zur *Standard*ausrüstung dieser Maschine gehört ein Sicherheitssystem.
+
+  Nous devons respecter les *standards* européens de sécurité.
+  Wir müssen die europäischen Sicherheits*standards* einhalten.
+
+  Le garage propose un échange *standard* du moteur.
+  Die Werkstatt bietet einen *Standard*austausch des Motors an.
+
+  Ces pièces *standard* sont facilement remplaçables.
+  Diese *Standard*teile sind leicht austauschbar.
+
+  Le *standard* minimal de confort n'est pas atteint dans ce logement.
+  Der Mindest*standard* an Komfort wird in dieser Wohnung nicht erreicht.
+
+  Cette interprétation *standard* du texte manque d'originalité.
+  Diese *Standard*interpretation des Textes ist wenig originell.
+
+  Les Beatles ont créé de nombreux *standards* de la musique pop.
+  Die Beatles haben viele Pop-*Klassiker* geschaffen.
+
+  Appelez le *standard* pour prendre rendez-vous.
+  Rufen Sie die *Zentrale* an, um einen Termin zu vereinbaren.
+
+  Ces conditions *standard* s'appliquent à toutes les expériences.
+  Diese *Standard*bedingungen gelten für alle Experimente.
+
+  La prononciation *standard* diffère des accents régionaux.
+  Die *Standard*aussprache unterscheidet sich von regionalen Akzenten.
+
+  L'hôtel propose des chambres *standard* et des suites de luxe.
+  Das Hotel bietet *Standard*zimmer und Luxussuiten an.
+
+  Le *standard* de l'entreprise est fermé pendant le week-end.
+  Die *Telefonzentrale* der Firma ist am Wochenende geschlossen.
+
+  Ces nouveaux *standards* informatiques facilitent la compatibilité.
+  Diese neuen Computer*standards* erleichtern die Kompatibilität.
+
+  La pression *standard* est d'un bar au niveau de la mer.
+  Der *Standard*druck beträgt auf Meereshöhe ein Bar.
+
+  Le mobilier *standard* de ce bureau est très fonctionnel.
+  Die *Standard*möbel in diesem Büro sind sehr funktional.
+
+  Nous utilisons des formats *standard* pour tous nos documents.
+  Wir verwenden *Standard*formate für alle unsere Dokumente.
+
+  Le *standard* de fabrication a changé l'année dernière.
+  Der Produktions*standard* hat sich letztes Jahr geändert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

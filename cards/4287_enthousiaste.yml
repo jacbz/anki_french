@@ -13,14 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils m’ont accordé un appui enthousiaste.
-  Sie gewährten mir begeisterte Unterstützung.
+  Ils m'ont accordé un appui *enthousiaste*.
+  Sie haben mir *begeisterte* Unterstützung gewährt.
 
-  Elle est très enthousiaste à l’idée de partir en vacances.
-  Sie ist sehr begeistert von der Idee, in den Urlaub zu fahren.
+  Les spectateurs *enthousiastes* ont applaudi pendant dix minutes.
+  Die *begeisterten* Zuschauer klatschten zehn Minuten lang.
 
-  Les enfants ont poussé des cris enthousiastes en voyant arriver le clown.
-  Die Kinder haben Rufe der Begeisterung ausgestoßen, als sie den Clown kommen sahen.
+  Marie est une jeune *enthousiaste* qui s'engage dans plusieurs associations.
+  Marie ist eine junge *Enthusiastin*, die sich in mehreren Vereinen engagiert.
+
+  La foule *enthousiaste* a acclamé les joueurs à leur retour.
+  Die *begeisterte* Menge jubelte den Spielern bei ihrer Rückkehr zu.
+
+  Le public a réservé un accueil *enthousiaste* au nouveau spectacle.
+  Das Publikum bereitete der neuen Show einen *begeisterten* Empfang.
+
+  Mon frère est trop *enthousiaste* : il dit oui à tous les projets.
+  Mein Bruder ist zu *begeisterungsfähig*: Er sagt zu allen Projekten ja.
+
+  Des cris *enthousiastes* ont retenti dans tout le stade.
+  *Begeisterte* Rufe erschallten durch das ganze Stadion.
+
+  Elle est devenue une partisane *enthousiaste* du commerce équitable.
+  Sie wurde zu einer *begeisterten* Befürworterin des fairen Handels.
+
+  Pierre est un *enthousiaste* de la cuisine française.
+  Pierre ist ein *Enthusiast* der französischen Küche.
+
+  La réaction *enthousiaste* des enfants nous a beaucoup touchés.
+  Die *begeisterte* Reaktion der Kinder hat uns sehr berührt.
+
+  Les critiques *enthousiastes* ont salué ce premier roman.
+  Die *begeisterten* Kritiken haben diesen Debütroman gefeiert.
+
+  Son caractère *enthousiaste* lui ouvre toutes les portes.
+  Sein *begeisterungsfähiger* Charakter öffnet ihm alle Türen.
+
+  Cette salle *enthousiaste* a chanté pendant tout le concert.
+  Dieser *begeisterte* Saal sang während des ganzen Konzerts mit.
+
+  Les applaudissements *enthousiastes* ont duré plusieurs minutes.
+  Der *begeisterte* Applaus dauerte mehrere Minuten.
+
+  Je suis resté un supporter *enthousiaste* malgré la défaite.
+  Ich bin trotz der Niederlage ein *begeisterter* Anhänger geblieben.
+
+  Les élèves ont montré une participation *enthousiaste* au projet.
+  Die Schüler zeigten eine *begeisterte* Teilnahme am Projekt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

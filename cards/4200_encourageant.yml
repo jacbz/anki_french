@@ -13,17 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La situation ne semble guère encourageante.
-  Die Situation sieht nicht sehr ermutigend aus.
+  La situation ne semble guère *encourageante*.
+  Die Situation scheint kaum *ermutigend*.
 
-  C’est un signe encourageant.
-  Das ist ein ermutigendes Zeichen.
+  Les résultats sont très *encourageants* : nous avons doublé nos ventes.
+  Die Ergebnisse sind sehr *ermutigend*: Wir haben unsere Verkäufe verdoppelt.
 
-  Voilà qui est encourageant pour la suite de notre projet !
-  Das sind ja schöne Aussichten für die Fortsetzung unseres Projekts!
+  Son professeur lui a adressé des paroles *encourageantes*.
+  Ihre Lehrerin hat ihr *ermutigende* Worte gesagt.
 
-  Voilà qui est encourageant pour la suite de nos études !
-  Das sind ja schöne Aussichten für die Fortsetzung unseres Studiums!
+  "Ce n'est pas très *encourageant* comme début !"
+  "Das ist ja kein besonders *ermutigendes* Start!"
+
+  Les premiers retours des clients sont *encourageants*.
+  Die ersten Kundenrückmeldungen sind *ermutigend*.
+
+  Voici des nouvelles *encourageantes* pour l'avenir de notre projet.
+  Das sind *ermutigende* Nachrichten für die Zukunft unseres Projekts.
+
+  Ces statistiques sont vraiment *encourageantes* pour notre équipe.
+  Diese Statistiken sind wirklich *ermutigend* für unser Team.
+
+  Les prévisions météorologiques ne sont pas très *encourageantes*.
+  Die Wettervorhersagen sind nicht sehr *ermutigend*.
+
+  Elle a reçu un message très *encourageant* de son mentor.
+  Sie hat eine sehr *ermutigende* Nachricht von ihrem Mentor erhalten.
+
+  Les progrès de Pierre sont *encourageants*.
+  Pierres Fortschritte sind *ermutigend*.
+
+  "Voilà qui est *encourageant* !" dit-elle en souriant ironiquement.
+  "Das sind ja *schöne* Aussichten!" sagte sie mit ironischem Lächeln.
+
+  Ces signes de reprise économique sont très *encourageants*.
+  Diese Anzeichen für einen wirtschaftlichen Aufschwung sind sehr *ermutigend*.
+
+  Le médecin trouve que l'évolution de la maladie est *encourageante*.
+  Der Arzt findet, dass der Krankheitsverlauf *ermutigend* ist.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

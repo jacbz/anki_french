@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Comprendre n’est possible qu’après la confrontation.
-  Verstehen ist nur nach einer Konfrontation möglich.
+  Comprendre n'est possible qu'après la *confrontation*.
+  Verstehen ist erst nach der *Gegenüberstellung* möglich.
 
-  La confrontation entre les deux équipes a été très intense.
-  Die Konfrontation zwischen den beiden Mannschaften war sehr intensiv.
+  La police a organisé une *confrontation* entre le suspect et les témoins.
+  Die Polizei hat eine *Gegenüberstellung* zwischen dem Verdächtigen und den Zeugen organisiert.
 
-  Le général a ordonné une confrontation entre les deux armées.
-  Der General hat eine Gegenüberstellung zwischen den beiden Armeen angeordnet.
+  Cette *confrontation* d'idées m'a permis de mieux comprendre son point de vue.
+  Diese *Gegenüberstellung* der Ideen hat mir geholfen, seinen Standpunkt besser zu verstehen.
 
-  La confrontation armée a duré plusieurs jours.
-  Die kriegerische Auseinandersetzung dauerte mehrere Tage.
+  La *confrontation* des différentes versions du texte a révélé plusieurs erreurs.
+  Der *Vergleich* der verschiedenen Textversionen hat mehrere Fehler aufgedeckt.
+
+  Le juge a ordonné une *confrontation* des deux inculpés ce matin.
+  Der Richter hat heute Morgen eine *Gegenüberstellung* der beiden Angeklagten angeordnet.
+
+  Une *confrontation* armée a éclaté à la frontière.
+  An der Grenze ist eine bewaffnete *Auseinandersetzung* ausgebrochen.
+
+  La *confrontation* des écritures a prouvé que c'était un faux document.
+  Die *Gegenüberstellung* der Handschriften hat bewiesen, dass es sich um ein gefälschtes Dokument handelte.
+
+  La *confrontation* entre manifestants et forces de l'ordre a duré toute la nuit.
+  Die *Konfrontation* zwischen Demonstranten und Ordnungskräften dauerte die ganze Nacht.
+
+  Cette *confrontation* pacifique des points de vue enrichit le débat.
+  Diese friedliche *Gegenüberstellung* der Standpunkte bereichert die Debatte.
+
+  Une *confrontation* générale aura lieu demain au tribunal.
+  Morgen wird im Gericht eine allgemeine *Gegenüberstellung* stattfinden.
+
+  La *confrontation* des preuves a permis d'identifier le coupable.
+  Die *Gegenüberstellung* der Beweise hat es ermöglicht, den Schuldigen zu identifizieren.
+
+  Évitez la *confrontation* directe avec votre adversaire.
+  Vermeiden Sie die direkte *Konfrontation* mit Ihrem Gegner.
+
+  La *confrontation* des témoignages a révélé plusieurs contradictions.
+  Die *Gegenüberstellung* der Zeugenaussagen hat mehrere Widersprüche aufgedeckt.
+
+  Une *confrontation* militaire entre les deux pays semble inévitable.
+  Eine militärische *Konfrontation* zwischen den beiden Ländern scheint unvermeidlich.
+
+  La *confrontation* des archives a permis de retracer l'histoire du bâtiment.
+  Der *Vergleich* der Archive hat es ermöglicht, die Geschichte des Gebäudes nachzuvollziehen.
+
+  Cette *confrontation* brutale avec la réalité l'a fait changer d'avis.
+  Diese brutale *Konfrontation* mit der Realität hat ihn seine Meinung ändern lassen.
+
+  Le juge procédera à la *confrontation* des suspects lundi prochain.
+  Der Richter wird am nächsten Montag die *Gegenüberstellung* der Verdächtigen durchführen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,23 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il faut activer votre réseau.
-  Sie müssen Ihr Netzwerk aktivieren.
+  Il faut *activer* votre réseau.
+  Sie müssen Ihr Netzwerk *aktivieren*.
 
-  Il faut activer le compte.
-  Das Konto muss aktiviert werden.
+  La chaleur va *activer* la circulation sanguine.
+  Die Wärme wird die Durchblutung *anregen*.
 
-  Je vous prie de faire activer ce dossier au plus vite.
-  Diese Akte sollte schnellstmöglich bearbeitet werden.
+  Les pompiers ont *activé* les lances à eau pour éteindre le feu.
+  Die Feuerwehrleute haben die Wasserwerfer *eingeschaltet*, um das Feuer zu löschen.
 
-  Le professeur a fait activer ses élèves à l'étude de la littérature française.
-  Der Professor hat seine Schüler angetrieben, sich mit der französischen Literatur zu beschäftigen.
+  Pierre *active* le processus de rénovation.
+  Pierre *beschleunigt* den Renovierungsprozess.
 
-  Les ouvriers s'activaient à réparer les dégâts après le tremblement de terre.
-  Die Arbeiter waren eifrig dabei, die Schäden nach dem Erdbeben zu beheben.
+  Le directeur nous a demandé d'*activer* les travaux.
+  Der Direktor hat uns gebeten, die Arbeiten *voranzutreiben*.
 
-  Allez, les enfants, activons, activons, il ne nous reste plus beaucoup de temps!
-  Auf, meine Lieben, los, los, wir haben nicht mehr viel Zeit!
+  "*Active*-toi un peu, nous sommes en retard !"
+  "*Mach* mal ein bisschen schneller, wir sind zu spät!"
+
+  Nous devons *activer* le système de chauffage avant l'hiver.
+  Wir müssen das Heizsystem vor dem Winter *aktivieren*.
+
+  Le vent *active* les flammes de l'incendie.
+  Der Wind *facht* die Flammen des Feuers *an*.
+
+  La secrétaire s'*active* à préparer les documents.
+  Die Sekretärin ist eifrig dabei, die Dokumente *vorzubereiten*.
+
+  "*Activons*, *activons*, le train part dans cinq minutes !"
+  "Los, los, der Zug fährt in fünf Minuten ab!"
+
+  Marie s'*active* dans la cuisine depuis ce matin.
+  Marie *werkelt* seit heute Morgen in der Küche.
+
+  Ces exercices vont *activer* vos muscles.
+  Diese Übungen werden Ihre Muskeln *aktivieren*.
+
+  Il faut *activer* le nouveau logiciel avant de l'utiliser.
+  Die neue Software muss vor der Nutzung *aktiviert* werden.
+
+  Le soleil *active* la maturation des tomates.
+  Die Sonne *beschleunigt* die Reifung der Tomaten.
+
+  Les scientifiques ont *activé* la substance chimique.
+  Die Wissenschaftler haben die chemische Substanz *aktiviert*.
+
+  Cette tisane va *activer* votre digestion.
+  Dieser Tee wird Ihre Verdauung *anregen*.
+
+  Il faut s'*activer* physiquement pour rester en forme.
+  Man muss sich körperlich *betätigen*, um fit zu bleiben.
+
+  La grand-mère s'*active* autour du gâteau d'anniversaire.
+  Die Großmutter *werkelt* eifrig an der Geburtstagstorte.
+
+  Les ouvriers *activent* la cadence pour finir avant la pluie.
+  Die Arbeiter *beschleunigen* das Tempo, um vor dem Regen fertig zu werden.
+
+  "*Active*-toi, nous n'avons plus beaucoup de temps !"
+  "*Beeil* dich, wir haben nicht mehr viel Zeit!"
+
+  Le nouveau médicament va *activer* la guérison.
+  Das neue Medikament wird die Heilung *beschleunigen*.
+
+  Les techniciens ont *activé* le nouveau système informatique.
+  Die Techniker haben das neue Computersystem *aktiviert*.
+
+  Le chef s'*active* devant ses fourneaux.
+  Der Koch *werkelt* eifrig an seinen Herden.
+
+  Cette huile essentielle *active* la circulation sanguine.
+  Dieses ätherische Öl *regt* die Durchblutung *an*.
+
+  Le catalyseur *active* la réaction chimique.
+  Der Katalysator *beschleunigt* die chemische Reaktion.
+
+  Les enfants s'*activent* pour ranger leur chambre.
+  Die Kinder *beeilen* sich, ihr Zimmer aufzuräumen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

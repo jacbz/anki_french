@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis prêt à toute éventualité.
-  Ich bin auf alle Eventualitäten vorbereitet.
+  Je suis prêt à toute *éventualité*.
+  Ich bin auf jede *Eventualität* vorbereitet.
 
-  Envisager toutes les éventualités.
-  Alle Möglichkeiten in Betracht ziehen.
+  Dans l'*éventualité* d'une catastrophe naturelle, nous avons stocké des provisions.
+  Für den *Fall* einer Naturkatastrophe haben wir Vorräte angelegt.
 
-  Dans l'éventualité d'une guerre, il est important d'être prêt à toute éventualité.
-  Im Falle eines Krieges ist es wichtig, auf jede Eventualität vorbereitet zu sein.
+  L'*éventualité* d'un échec ne m'inquiète plus.
+  Die *Möglichkeit* eines Scheiterns macht mir keine Sorgen mehr.
 
-  Les militaires ont examiné toutes les éventualités avant de lancer l'attaque.
-  Die Militärs haben alle Möglichkeiten geprüft, bevor sie den Angriff starteten.
+  Ils ont examiné toutes les *éventualités* avant de prendre leur décision.
+  Sie haben alle *Möglichkeiten* geprüft, bevor sie ihre Entscheidung getroffen haben.
+
+  Marie envisage l'*éventualité* de déménager à l'étranger.
+  Marie zieht die *Möglichkeit* in Betracht, ins Ausland zu ziehen.
+
+  Cette *éventualité* n'avait jamais été discutée lors de nos réunions.
+  Diese *Eventualität* wurde in unseren Besprechungen nie diskutiert.
+
+  L'*éventualité* d'une panne de courant nous a poussés à acheter un générateur.
+  Die *Möglichkeit* eines Stromausfalls hat uns veranlasst, einen Generator zu kaufen.
+
+  Dans cette *éventualité*, nous devrons annuler le voyage.
+  In diesem *Fall* müssen wir die Reise absagen.
+
+  Les pompiers se préparent à toutes les *éventualités*.
+  Die Feuerwehr bereitet sich auf alle *Eventualitäten* vor.
+
+  Son départ est une *éventualité* que personne n'avait prévue.
+  Sein Weggang ist eine *Möglichkeit*, mit der niemand gerechnet hatte.
+
+  Nous devons parer à toute *éventualité*.
+  Wir müssen jeder *Eventualität* vorbeugen.
+
+  L'*éventualité* d'une augmentation des prix inquiète les consommateurs.
+  Die *Möglichkeit* einer Preiserhöhung beunruhigt die Verbraucher.
+
+  Dans l'*éventualité* où tu ne pourrais pas venir, préviens-moi.
+  Für den *Fall*, dass du nicht kommen kannst, gib mir Bescheid.
+
+  Ils ont considéré l'*éventualité* d'un report de la réunion.
+  Sie haben die *Möglichkeit* einer Verschiebung der Besprechung in Erwägung gezogen.
+
+  Cette promotion reste une *éventualité* parmi d'autres.
+  Diese Beförderung bleibt eine von vielen *Möglichkeiten*.
+
+  On redoutait l'*éventualité* d'une grève générale.
+  Man fürchtete die *Möglichkeit* eines Generalstreiks.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

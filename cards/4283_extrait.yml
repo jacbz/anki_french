@@ -9,17 +9,81 @@ Femininum / Plural: ''
 IPA: \ɛk.stʁɛ\
 Definition: Auszug
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Ce qui suit est un extrait du rapport.\nDas Folgende ist ein Auszug\
-  \ aus dem Bericht.\n\nVoici un extrait de mon livre.\nHier ist ein Auszug aus meinem\
-  \ Buch.\n\nTu veux en écouter un extrait ?\nWillst du reinhören?\n\nVoici un extrait\
-  \ du dossier.\nHier ist ein Aktenauszug.\n\nCe plat est préparé avec un extrait\
-  \ de plantes.\nDieses Gericht wird mit einem Kräuterextrakt zubereitet.\n\nIl doit\
-  \ constituer un extrait du dossier pour la réunion.\nEr muss für die Sitzung einen\
-  \ Aktenauszug erstellen. \n\nJe dois demander un extrait du registre foncier.\n\
-  Ich muss einen Grundbuchauszug beantragen.\n\nL'avocat a besoin d'un extrait de\
-  \ l'acte de constitution d'une société.\nDer Anwalt benötigt einen Auszug aus dem\
-  \ Gründungsvertrag.\n\nCette crème contient de l'extrait de marron d'Inde.\nDiese\
-  \ Creme enthält Kastanienextrakt."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Ce qui suit est un *extrait* du rapport.
+  Das Folgende ist ein *Auszug* aus dem Bericht.
+
+  Je vous présenterai maintenant des *extraits* de nos meilleures émissions.
+  Ich werde Ihnen jetzt *Ausschnitte* aus unseren besten Sendungen präsentieren.
+
+  Elle a lu des *extraits* de son nouveau roman devant un public enthousiaste.
+  Sie hat *Auszüge* aus ihrem neuen Roman vor einem begeisterten Publikum vorgelesen.
+
+  L'*extrait* de vanille donne un goût délicieux à ce gâteau.
+  Der Vanille*extrakt* gibt diesem Kuchen einen köstlichen Geschmack.
+
+  Voici votre *extrait* de naissance, Madame.
+  Hier ist Ihre Geburts*urkunde*, Madame.
+
+  Pour cette recette, j'utilise de l'*extrait* de café très concentré.
+  Für dieses Rezept verwende ich stark konzentrierten Kaffee*extrakt*.
+
+  Les *extraits* de plantes peuvent avoir des effets thérapeutiques puissants.
+  Pflanzen*extrakte* können starke therapeutische Wirkungen haben.
+
+  J'ai demandé un *extrait* de mon casier judiciaire pour mon nouveau travail.
+  Ich habe für meine neue Arbeit einen *Auszug* aus meinem Führungszeugnis beantragt.
+
+  Le professeur a choisi plusieurs *extraits* de poèmes pour illustrer son cours.
+  Der Lehrer hat mehrere Gedicht*auszüge* ausgewählt, um seinen Unterricht zu veranschaulichen.
+
+  Cet *extrait* de parfum est beaucoup plus concentré qu'une eau de toilette.
+  Dieser Parfum*extrakt* ist viel konzentrierter als ein Eau de Toilette.
+
+  L'*extrait* sec de ce vin est particulièrement élevé.
+  Der Trocken*extrakt* dieses Weins ist besonders hoch.
+
+  Le documentaire commence par un *extrait* d'archives des années 60.
+  Die Dokumentation beginnt mit einem Archiv*ausschnitt* aus den 60er Jahren.
+
+  Ces *extraits* de viande sont parfaits pour préparer un bon bouillon.
+  Diese Fleisch*extrakte* sind perfekt für die Zubereitung einer guten Brühe.
+
+  L'éditeur a publié des *extraits* choisis de ses meilleurs articles.
+  Der Verleger hat ausgewählte *Auszüge* aus seinen besten Artikeln veröffentlicht.
+
+  Cet *extrait* de gingembre a des propriétés anti-inflammatoires.
+  Dieser Ingwer*extrakt* hat entzündungshemmende Eigenschaften.
+
+  Le magazine propose des *extraits* du nouveau film à venir.
+  Die Zeitschrift bietet *Ausschnitte* aus dem kommenden neuen Film.
+
+  Elle utilise un *extrait* de camomille pour apaiser sa peau.
+  Sie verwendet Kamillen*extrakt*, um ihre Haut zu beruhigen.
+
+  Je voudrais un *extrait* de mon compte bancaire des trois derniers mois.
+  Ich hätte gerne einen Konto*auszug* der letzten drei Monate.
+
+  Les *extraits* de cette conférence seront disponibles en ligne.
+  Die *Ausschnitte* dieser Konferenz werden online verfügbar sein.
+
+  L'*extrait* de thé vert est connu pour ses antioxydants.
+  Grüntee*extrakt* ist für seine Antioxidantien bekannt.
+
+  J'ai besoin d'un *extrait* du registre du commerce.
+  Ich brauche einen *Auszug* aus dem Handelsregister.
+
+  Le professeur nous a fait écouter des *extraits* de musique classique.
+  Der Lehrer hat uns *Ausschnitte* aus klassischer Musik vorspielen lassen.
+
+  Cette crème contient de l'*extrait* d'aloe vera naturel.
+  Diese Creme enthält natürlichen Aloe-Vera-*Extrakt*.
+
+  Cet *extrait* de son discours a fait le tour des médias.
+  Dieser *Ausschnitt* aus seiner Rede ging durch die Medien.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

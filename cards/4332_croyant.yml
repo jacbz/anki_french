@@ -13,17 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Que le croyant vive sa foi.
-  Der Gläubige soll seinen Glauben leben.
+  Que le *croyant* vive sa foi.
+  Der *Gläubige* soll seinen Glauben leben.
 
-  Les croyants vont à l’église le dimanche.
-  Die Gläubigen gehen sonntags in die Kirche.
+  Ma grand-mère est une femme très *croyante* mais elle ne va pas souvent à l'église.
+  Meine Großmutter ist eine sehr *gläubige* Frau, aber sie geht nicht oft in die Kirche.
 
-  Il est important d'être croyant pour beaucoup de personnes.
-  Für viele Menschen ist es wichtig, gläubig zu sein.
+  En tant que *croyant*, il prie cinq fois par jour.
+  Als *Gläubiger* betet er fünfmal am Tag.
 
-  Marie est une personne profondément croyante, qui prie tous les jours.
-  Marie ist ein tiefreligiöser Mensch, der jeden Tag betet.
+  Les *croyants* et les non-croyants peuvent vivre ensemble en harmonie.
+  *Gläubige* und Nicht-Gläubige können harmonisch zusammenleben.
+
+  Cette communauté *croyante* se réunit chaque dimanche pour méditer.
+  Diese *religiöse* Gemeinschaft trifft sich jeden Sonntag zum Meditieren.
+
+  Pierre n'est pas *croyant*, mais il respecte toutes les religions.
+  Pierre ist nicht *religiös*, aber er respektiert alle Religionen.
+
+  Elle est devenue plus *croyante* après avoir traversé cette épreuve difficile.
+  Sie wurde *gläubiger*, nachdem sie diese schwere Prüfung durchgemacht hatte.
+
+  Les *croyants* de toutes les religions ont des valeurs communes.
+  Die *Gläubigen* aller Religionen haben gemeinsame Werte.
+
+  Marie est une *croyante* pratiquante depuis son enfance.
+  Marie ist seit ihrer Kindheit eine praktizierende *Gläubige*.
+
+  Cette société très *croyante* conserve ses traditions ancestrales.
+  Diese sehr *religiöse* Gesellschaft bewahrt ihre althergebrachten Traditionen.
+
+  Les parents *croyants* transmettent souvent leur foi à leurs enfants.
+  *Gläubige* Eltern geben ihren Glauben oft an ihre Kinder weiter.
+
+  Je suis *croyant* sans être pratiquant.
+  Ich bin *gläubig*, ohne praktizierend zu sein.
+
+  Une âme *croyante* trouve toujours du réconfort dans la prière.
+  Eine *gläubige* Seele findet immer Trost im Gebet.
+
+  Être *croyant* aujourd'hui n'est pas toujours facile.
+  Heute *gläubig* zu sein ist nicht immer einfach.
+
+  Le peuple reste profondément *croyant* malgré la modernisation.
+  Das Volk bleibt trotz der Modernisierung tief *religiös*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

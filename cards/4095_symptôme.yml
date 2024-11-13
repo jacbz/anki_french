@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les symptômes se sont nettement aggravés.
-  Die Symptome haben sich deutlich verschlechtert.
+  Les *symptômes* se sont nettement aggravés.
+  Die *Symptome* haben sich deutlich verschlimmert.
 
-  Les symptômes de la grippe sont la fièvre et la toux.
-  Die Symptome der Grippe sind Fieber und Husten.
+  Son principal *symptôme* est une fatigue constante.
+  Sein wichtigstes *Symptom* ist eine anhaltende Müdigkeit.
 
-  L'augmentation des prix du carburant est un symptôme inflationniste.
-  Die steigenden Benzinpreise sind eine Inflationserscheinung.
+  La montée des prix est un *symptôme* de l'inflation.
+  Der Preisanstieg ist ein *Anzeichen* für die Inflation.
 
-  La fièvre est un symptôme principal de la grippe.
-  Fieber ist ein Hauptmerkmal der Grippe.
+  Le médecin lui a demandé de décrire tous ses *symptômes*.
+  Der Arzt bat sie, alle ihre *Symptome* zu beschreiben.
+
+  La violence dans les rues est un *symptôme* du malaise social.
+  Die Gewalt auf den Straßen ist ein *Zeichen* des sozialen Unbehagens.
+
+  Ces *symptômes* allergiques apparaissent chaque printemps.
+  Diese allergischen *Symptome* treten jeden Frühling auf.
+
+  Les premiers *symptômes* de la maladie sont apparus hier soir.
+  Die ersten *Symptome* der Krankheit traten gestern Abend auf.
+
+  Le stress peut provoquer des *symptômes* physiques.
+  Stress kann körperliche *Symptome* verursachen.
+
+  Cette toux est un *symptôme* typique de la bronchite.
+  Dieser Husten ist ein typisches *Symptom* der Bronchitis.
+
+  Les *symptômes* avant-coureurs de la crise étaient évidents.
+  Die *Anzeichen* der kommenden Krise waren offensichtlich.
+
+  Le patient présente des *symptômes* inquiétants depuis une semaine.
+  Der Patient zeigt seit einer Woche beunruhigende *Symptome*.
+
+  Les *symptômes* du réchauffement climatique deviennent de plus en plus visibles.
+  Die *Anzeichen* der Klimaerwärmung werden immer sichtbarer.
+
+  Son irritabilité est un *symptôme* de fatigue chronique.
+  Seine Reizbarkeit ist ein *Symptom* chronischer Müdigkeit.
+
+  Les médecins surveillent attentivement les *symptômes* du patient.
+  Die Ärzte überwachen sorgfältig die *Symptome* des Patienten.
+
+  Ces comportements sont des *symptômes* d'une profonde anxiété.
+  Diese Verhaltensweisen sind *Anzeichen* tiefer Angst.
+
+  Le médecin a noté tous les *symptômes* objectifs dans le dossier.
+  Der Arzt notierte alle objektiven *Symptome* in der Akte.
+
+  La fièvre n'est qu'un *symptôme* parmi d'autres.
+  Das Fieber ist nur eines von vielen *Symptomen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

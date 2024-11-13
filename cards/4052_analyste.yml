@@ -9,15 +9,54 @@ Femininum / Plural: ''
 IPA: \a.na.list\
 Definition: Analyst
 Register: ↗Sachtext
-Beispielsätze: "Quand ces personnes sont elles-mêmes devenues analystes?\nWenn diese\
-  \ Personen selbst zu Analysten geworden sind?\n\nL’analyste financier a étudié les\
-  \ marchés boursiers.\nDer Finanzanalyst hat die Börsenmärkte studiert.\n\nMon frère\
-  \ est analyste financier pour une grande banque.\nMein Bruder ist Bilanzanalytiker\
-  \ bei einer Großbank.\n\nMon père, mathématicien analyste, travaille dans la recherche.\n\
-  Mein Vater ist Analysisexperte und arbeitet in der Forschung.\n\nEn tant qu'analyste\
-  \ du marché, elle suit de près les tendances. \nAls Marktbeobachterin verfolgt sie\
-  \ die Trends genau.\n\nLe chimiste analyste a examiné les échantillons en laboratoire.\n\
-  Der Experte für chemische Analysen hat die Proben im Labor untersucht."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Quand ces personnes sont elles-mêmes devenues *analystes* ?
+  Wann sind diese Personen selbst *Analysten* geworden?
+
+  Marie travaille comme *analyste* financière dans une grande banque.
+  Marie arbeitet als Finanz*analystin* in einer großen Bank.
+
+  Les *analystes* du marché prévoient une hausse des prix du pétrole.
+  Die Markt*analytiker* sagen einen Anstieg der Ölpreise voraus.
+
+  Mon frère est devenu *analyste* en informatique après ses études.
+  Mein Bruder ist nach seinem Studium IT-*Analyst* geworden.
+
+  Paul est un excellent *analyste* mathématicien qui résout des problèmes complexes.
+  Paul ist ein ausgezeichneter Mathematik-*Analyst*, der komplexe Probleme löst.
+
+  L'*analyste* chimiste a découvert une nouvelle substance dans l'échantillon.
+  Die *Analystin* für chemische Untersuchungen hat eine neue Substanz in der Probe entdeckt.
+
+  Notre *analyste* économique prédit une croissance stable pour l'année prochaine.
+  Unser Wirtschafts*analyst* sagt für das nächste Jahr ein stabiles Wachstum voraus.
+
+  Sophie consulte un *analyste* depuis quelques mois pour surmonter ses angoisses.
+  Sophie geht seit einigen Monaten zu einem Psycho*analytiker*, um ihre Ängste zu überwinden.
+
+  Les *analystes* politiques ont longuement débattu des résultats du sondage.
+  Die Politik*analytiker* haben die Umfrageergebnisse ausführlich diskutiert.
+
+  En tant qu'*analyste* du comportement, elle étudie les habitudes des consommateurs.
+  Als Verhaltens*analystin* untersucht sie die Gewohnheiten der Verbraucher.
+
+  L'*analyste* de films a écrit une critique passionnante sur le nouveau blockbuster.
+  Der Film*analyst* hat eine spannende Kritik über den neuen Blockbuster geschrieben.
+
+  Cet *analyste* de données travaille sur des projets d'intelligence artificielle.
+  Dieser Daten*analyst* arbeitet an Projekten zur künstlichen Intelligenz.
+
+  Les *analystes* boursiers conseillent d'investir dans les énergies renouvelables.
+  Die Börsen*analytiker* empfehlen, in erneuerbare Energien zu investieren.
+
+  L'*analyste* programmeur a optimisé le code pour améliorer les performances.
+  Der Programm*analyst* hat den Code optimiert, um die Leistung zu verbessern.
+
+  Mon amie est devenue *analyste* de systèmes après dix ans d'expérience.
+  Meine Freundin ist nach zehn Jahren Erfahrung System*analystin* geworden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

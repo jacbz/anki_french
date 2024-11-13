@@ -13,11 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il m’examina lourdement de la tête aux pieds.
-  Er musterte mich schwerfällig von Kopf bis Fuß.
+  Il m'examina *lourdement* de la tête aux pieds.
+  Er musterte mich *schwerfällig* von Kopf bis Fuß.
 
-  Il est tombé lourdement sur le sol.
-  Er ist schwer auf den Boden gefallen.
+  La valise tomba *lourdement* sur le sol.
+  Der Koffer fiel *schwer* auf den Boden.
+
+  "Tu te trompes *lourdement* si tu penses que je vais accepter ça !"
+  "Du irrst dich *gewaltig*, wenn du denkst, dass ich das akzeptieren werde!"
+
+  Elle s'est assise *lourdement* dans le fauteuil après sa longue journée.
+  Sie ließ sich nach ihrem langen Tag *schwer* in den Sessel fallen.
+
+  Le camion était *lourdement* chargé de marchandises.
+  Der Lastwagen war *schwer* mit Waren beladen.
+
+  Les impôts pèsent *lourdement* sur le budget des familles.
+  Die Steuern belasten das Familienbudget *stark*.
+
+  L'homme ivre marchait *lourdement* vers la sortie.
+  Der betrunkene Mann taumelte *schwerfällig* zum Ausgang.
+
+  Pierre insistait *lourdement* pour obtenir une réponse.
+  Pierre drängte *hartnäckig* auf eine Antwort.
+
+  Cette erreur a *lourdement* affecté nos résultats.
+  Dieser Fehler hat unsere Ergebnisse *stark* beeinträchtigt.
+
+  Le criminel a été *lourdement* condamné pour ses actes.
+  Der Verbrecher wurde für seine Taten *schwer* verurteilt.
+
+  Marie s'est hissée *lourdement* sur son cheval.
+  Marie schwang sich *schwerfällig* auf ihr Pferd.
+
+  La crise économique pèse *lourdement* sur l'emploi.
+  Die Wirtschaftskrise lastet *schwer* auf der Beschäftigung.
+
+  Il plaisantait *lourdement*, sans aucune finesse.
+  Er scherzte *plump*, ohne jegliches Feingefühl.
+
+  Le sac à dos *lourdement* rempli, nous avons commencé notre randonnée.
+  Mit *schwer* gefülltem Rucksack begannen wir unsere Wanderung.
+
+  Cette décision va *lourdement* impacter notre avenir.
+  Diese Entscheidung wird unsere Zukunft *stark* beeinflussen.
+
+  L'oiseau blessé est tombé *lourdement* sur le toit.
+  Der verletzte Vogel fiel *schwer* auf das Dach.
+
+  Les dettes pèsent *lourdement* sur l'entreprise.
+  Die Schulden lasten *schwer* auf dem Unternehmen.
+
+  Il s'est *lourdement* trompé dans ses calculs.
+  Er hat sich bei seinen Berechnungen *gründlich* verrechnet.
+
+  Le garde du corps *lourdement* armé surveillait l'entrée.
+  Der *schwer* bewaffnete Leibwächter bewachte den Eingang.
+
+  L'inflation pèse *lourdement* sur le pouvoir d'achat.
+  Die Inflation belastet die Kaufkraft *stark*.
+
+  Les conséquences de cette erreur vont peser *lourdement* sur son avenir.
+  Die Folgen dieses Fehlers werden *schwer* auf seiner Zukunft lasten.
+
+  Son style d'écriture est *lourdement* influencé par les classiques.
+  Sein Schreibstil ist *stark* von den Klassikern beeinflusst.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

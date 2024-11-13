@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le texte doit désormais être ratifié.
-  Der Text muss nun ratifiziert werden.
+  Le texte doit désormais être *ratifié*.
+  Der Text muss nun *ratifiziert* werden.
 
-  Le traité doit être ratifié par tous les pays membres.
-  Der Vertrag muss von allen Mitgliedsländern bestätigt werden.
+  Le Parlement a *ratifié* la nouvelle loi sur l'environnement.
+  Das Parlament hat das neue Umweltgesetz *ratifiziert*.
+
+  La convention n'a pas encore été *ratifiée* par tous les pays membres.
+  Die Konvention wurde noch nicht von allen Mitgliedsländern *ratifiziert*.
+
+  Il a *ratifié* sa promesse devant tous ses amis.
+  Er hat sein Versprechen vor all seinen Freunden *bestätigt*.
+
+  Les électeurs ont *ratifié* le choix du nouveau maire.
+  Die Wähler haben die Wahl des neuen Bürgermeisters *bestätigt*.
+
+  Le conseil municipal doit *ratifier* l'acte de vente demain.
+  Der Gemeinderat muss morgen den Kaufvertrag *genehmigen*.
+
+  Nous attendons que le président *ratifie* le projet de loi.
+  Wir warten darauf, dass der Präsident den Gesetzentwurf *ratifiziert*.
+
+  Les deux parties ont *ratifié* le contrat hier soir.
+  Beide Parteien haben gestern Abend den Vertrag *ratifiziert*.
+
+  L'assemblée générale va *ratifier* cette décision la semaine prochaine.
+  Die Generalversammlung wird diese Entscheidung nächste Woche *bestätigen*.
+
+  Le comité a déjà *ratifié* toutes les propositions.
+  Das Komitee hat bereits alle Vorschläge *genehmigt*.
+
+  Une fois que vous aurez *ratifié* l'accord, nous pourrons commencer.
+  Sobald Sie das Abkommen *ratifiziert* haben, können wir beginnen.
+
+  Marie a *ratifié* son engagement par écrit.
+  Marie hat ihre Verpflichtung schriftlich *bestätigt*.
+
+  Les actionnaires doivent encore *ratifier* cette fusion.
+  Die Aktionäre müssen diese Fusion noch *genehmigen*.
+
+  Avant d'être valable, ce document doit être *ratifié* par un notaire.
+  Bevor dieses Dokument gültig ist, muss es von einem Notar *bestätigt* werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

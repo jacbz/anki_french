@@ -13,14 +13,50 @@ Register: ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Soyez attentif, ce message est confidentiel.
-  Seien Sie aufmerksam, diese Nachricht ist vertraulich.
+  Soyez attentif, ce message est *confidentiel*.
+  Seien Sie aufmerksam, diese Nachricht ist *vertraulich*.
 
-  Ceci est un document confidentiel.
-  Dies ist ein vertrauliches Dokument.
+  À titre *confidentiel*, je dois vous informer d'un changement important dans l'entreprise.
+  Im *Vertrauen* muss ich Sie über eine wichtige Änderung im Unternehmen informieren.
 
-  À titre confidentiel, sache que je suis très préoccupé par la situation.
-  Im Vertrauen gesagt: Ich bin sehr besorgt über die Situation.
+  Les documents *confidentiels* doivent être conservés dans un coffre-fort.
+  Die *vertraulichen* Dokumente müssen in einem Safe aufbewahrt werden.
+
+  Cette réunion *confidentielle* aura lieu demain matin à huit heures.
+  Diese *vertrauliche* Besprechung findet morgen früh um acht Uhr statt.
+
+  Le journal intime est un document strictement *confidentiel*.
+  Das Tagebuch ist ein streng *vertrauliches* Dokument.
+
+  La diffusion *confidentielle* de ce rapport ne concerne que trois personnes.
+  Die *vertrauliche* Weitergabe dieses Berichts betrifft nur drei Personen.
+
+  Toutes les informations *confidentielles* ont été supprimées de la base de données.
+  Alle *vertraulichen* Informationen wurden aus der Datenbank gelöscht.
+
+  L'entretien *confidentiel* avec le directeur a duré deux heures.
+  Das *vertrauliche* Gespräch mit dem Direktor dauerte zwei Stunden.
+
+  Ces renseignements *confidentiels* ne doivent pas quitter ce bureau.
+  Diese *vertraulichen* Informationen dürfen dieses Büro nicht verlassen.
+
+  La note *confidentielle* a été transmise uniquement aux cadres supérieurs.
+  Die *vertrauliche* Mitteilung wurde nur an die oberen Führungskräfte weitergeleitet.
+
+  Le dossier porte la mention "*confidentiel*" en rouge.
+  Die Akte trägt den *vertraulichen* Vermerk in rot.
+
+  Cette revue *confidentielle* n'est distribuée qu'à cent abonnés.
+  Diese *vertrauliche* Zeitschrift wird nur an hundert Abonnenten verteilt.
+
+  Les détails *confidentiels* de l'accord seront révélés la semaine prochaine.
+  Die *vertraulichen* Details der Vereinbarung werden nächste Woche enthüllt.
+
+  Le caractère *confidentiel* de cette information doit être préservé.
+  Die *Vertraulichkeit* dieser Information muss gewahrt werden.
+
+  Elle a partagé des informations *confidentielles* avec son équipe.
+  Sie hat *vertrauliche* Informationen mit ihrem Team geteilt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

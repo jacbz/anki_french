@@ -13,41 +13,107 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On pêchera des tonnes de crevettes!
-  Wir werden tonnenweise Garnelen fangen!
+  On *pêchera* des tonnes de crevettes !
+  Man wird Tonnen von Garnelen *fischen*!
 
-  Je vais pêcher demain matin.
-  Ich gehe morgen früh angeln.
+  Mon grand-père m'a appris à *pêcher* à la ligne.
+  Mein Großvater hat mir das *Angeln* beigebracht.
 
-  J’adore pêcher.
-  Ich liebe es zu fischen.
+  Elle *pêche* souvent à la mouche dans les rivières des Alpes.
+  Sie *fischt* oft mit der Fliege in den Alpenflüssen.
 
-  Il pêche à l'hameçon dans la rivière.
-  Er angelt mit dem Angelhaken im Fluss.
+  Les pêcheurs professionnels *pêchent* le thon dans la Méditerranée.
+  Die Berufsfischer gehen im Mittelmeer auf Thun*fisch*fang.
 
-  Le pêcheur a pêché beaucoup de poissons aujourd'hui.
-  Der Fischer hat heute viele Fische gefangen.
+  "Où as-tu *pêché* cette histoire absurde ?"
+  "Wo hast du diese absurde Geschichte *aufgestöbert*?"
 
-  Ils ont pêché à la mouche dans le lac.
-  Sie haben mit der Fliege im See geangelt.
+  J'ai planté un *pêcher* dans mon jardin l'année dernière.
+  Ich habe letztes Jahr einen *Pfirsichbaum* in meinem Garten gepflanzt.
 
-  Il pêchait le saumon dans la mer.
-  Er war auf Lachsfang im Meer.
+  Les saumons se *pêchent* principalement en rivière.
+  Lachse werden hauptsächlich im Fluss ge*fangen*.
 
-  Elle a pêché des coquillages sur la plage.
-  Sie hat Muscheln am Strand gesammelt.
+  Nous allons *pêcher* des coquillages sur la plage ce week-end.
+  Wir werden am Wochenende am Strand Muscheln *sammeln*.
 
-  Où a-t-elle pêché que Jean a volé l'argent ?
-  Wie kommt sie denn darauf, dass Jean das Geld gestohlen hat?
+  Il *pêche* en eau trouble depuis le début de la crise.
+  Er *fischt* seit Beginn der Krise im Trüben.
 
-  Le poisson s'est pêché dans la rivière.
-  Der Fisch wurde im Fluss gefangen.
+  Les enfants *pêchent* des grenouilles dans la mare.
+  Die Kinder *fangen* Frösche im Teich.
 
-  Il a pêché le brochet dans le lac.
-  Er hat Hechte im See beangelt.
+  Je me demande où il va *pêcher* toutes ces idées folles.
+  Ich frage mich, wo er all diese verrückten Ideen *ausgräbt*.
 
-  Ils pêchaient le thon au large des côtes.
-  Sie waren auf Thunfischfang vor der Küste.
+  Ces poissons se *pêchent* uniquement en mer profonde.
+  Diese Fische werden nur in der Tiefsee ge*fangen*.
+
+  Mon frère *pêche* le brochet tous les week-ends.
+  Mein Bruder *angelt* jedes Wochenende nach Hechten.
+
+  Le vieux *pêcher* du jardin donne encore des fruits.
+  Der alte *Pfirsichbaum* im Garten trägt noch Früchte.
+
+  Les pompiers ont *pêché* une voiture dans le canal.
+  Die Feuerwehr hat ein Auto aus dem Kanal ge*fischt*.
+
+  "Où as-tu *pêché* que j'allais déménager ?"
+  "Wie kommst du darauf, dass ich umziehen würde?"
+
+  Ils *pêchent* à l'hameçon depuis l'aube.
+  Sie *angeln* seit dem Morgengrauen mit dem Haken.
+
+  Le journaliste a *pêché* cette information à bonne source.
+  Der Journalist hat diese Information aus guter Quelle *aufgestöbert*.
+
+  Les dauphins nous empêchent de *pêcher* le thon.
+  Die Delfine hindern uns daran, Thunfisch zu *fangen*.
+
+  Papa m'a promis qu'on irait *pêcher* dimanche.
+  Papa hat mir versprochen, dass wir am Sonntag *angeln* gehen.
+
+  Les braconniers *pêchent* illégalement dans cette zone protégée.
+  Die Wilderer *fischen* illegal in diesem Schutzgebiet.
+
+  Le petit garçon aime *pêcher* avec son grand-père.
+  Der kleine Junge *angelt* gerne mit seinem Großvater.
+
+  Les autorités ont *pêché* un corps dans la Seine.
+  Die Behörden haben eine Leiche aus der Seine ge*fischt*.
+
+  Notre voisin *pêche* dans le lac tous les matins.
+  Unser Nachbar *angelt* jeden Morgen im See.
+
+  "Où va-t-il *pêcher* ces vieux meubles ?"
+  "Wo *stöbert* er diese alten Möbel auf?"
+
+  Les truites se *pêchent* facilement dans ce ruisseau.
+  Forellen lassen sich in diesem Bach leicht *fangen*.
+
+  Ce *pêcher* a plus de vingt ans.
+  Dieser *Pfirsichbaum* ist über zwanzig Jahre alt.
+
+  Nous avons *pêché* beaucoup de poissons aujourd'hui.
+  Wir haben heute viele Fische ge*fangen*.
+
+  Il faut un permis pour *pêcher* dans cette rivière.
+  Man braucht einen Schein, um in diesem Fluss zu *angeln*.
+
+  "Où as-tu *pêché* ce costume vintage ?"
+  "Wo hast du diesen Vintage-Anzug *aufgestöbert*?"
+
+  Les pêcheurs *pêchent* le saumon pendant la saison.
+  Die Fischer gehen während der Saison auf Lachs*fang*.
+
+  Marc *pêche* souvent dans ce petit étang.
+  Marc *angelt* oft in diesem kleinen Teich.
+
+  Les crevettes se *pêchent* la nuit.
+  Garnelen werden nachts ge*fangen*.
+
+  Les scientifiques ont *pêché* des espèces rares dans les profondeurs.
+  Die Wissenschaftler haben seltene Arten aus der Tiefe ge*fischt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

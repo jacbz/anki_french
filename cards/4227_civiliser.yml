@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce sont des nations civilisées.
-  Sie sind zivilisierte Nationen.
+  Ce sont des nations *civilisées*.
+  Das sind *zivilisierte* Nationen.
 
-  Les Européens ont essayé de civiliser les peuples colonisés.
-  Die Europäer versuchten, die kolonisierten Völker zu zivilisieren.
+  Les Romains ont *civilisé* une grande partie de l'Europe.
+  Die Römer haben einen großen Teil Europas *zivilisiert*.
+
+  La philosophie grecque a *civilisé* le monde antique.
+  Die griechische Philosophie hat die antike Welt *zivilisiert*.
+
+  "Il faut absolument *civiliser* ton petit frère avant la fête !"
+  "Deinem kleinen Bruder muss man unbedingt *Umgangsformen beibringen* vor der Party!"
+
+  L'éducation aide les gens à se *civiliser*.
+  Bildung hilft den Menschen, sich zu *zivilisieren*.
+
+  "Tu commences enfin à te *civiliser* !"
+  "Du beginnst endlich *zivilisierter* zu werden!"
+
+  Les missionnaires croyaient *civiliser* les peuples qu'ils rencontraient.
+  Die Missionare glaubten, die Völker zu *zivilisieren*, denen sie begegneten.
+
+  L'art et la littérature ont contribué à *civiliser* la société.
+  Kunst und Literatur haben dazu beigetragen, die Gesellschaft zu *zivilisieren*.
+
+  Les parents essaient de *civiliser* leurs enfants dès le plus jeune âge.
+  Die Eltern versuchen, ihren Kindern von klein auf *Umgangsformen beizubringen*.
+
+  Le commerce a aidé les différentes cultures à se *civiliser* mutuellement.
+  Der Handel half verschiedenen Kulturen dabei, sich gegenseitig zu *zivilisieren*.
+
+  "Depuis qu'il travaille dans ce bureau, il s'est bien *civilisé*."
+  "Seit er in diesem Büro arbeitet, ist er viel *zivilisierter* geworden."
+
+  L'influence chinoise a *civilisé* de nombreuses régions d'Asie.
+  Der chinesische Einfluss hat viele Regionen Asiens *zivilisiert*.
+
+  Le temps et l'expérience l'ont progressivement *civilisé*.
+  Zeit und Erfahrung haben ihn nach und nach *zivilisiert*.
+
+  "On ne pourra jamais *civiliser* ce garçon !"
+  "Diesem Jungen wird man nie *Manieren beibringen* können!"
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,14 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ces traditions se perpétuent au Moyen Âge.
-  Diese Traditionen wurden im Mittelalter fortgesetzt.
+  Ces traditions se *perpétuent* au Moyen Âge.
+  Diese Traditionen *bleiben* im Mittelalter *erhalten*.
 
-  Il veut perpétuer la tradition familiale.
-  Er möchte die Familientradition aufrechterhalten.
+  Pour *perpétuer* son nom, il cherchait désespérément un héritier.
+  Um seinen Namen zu *bewahren*, suchte er verzweifelt nach einem Erben.
 
-  La reproduction sert à perpétuer l'espèce.
-  Die Fortpflanzung dient der Arterhaltung.
+  Les espèces doivent se *perpétuer* pour survivre.
+  Die Arten müssen sich *fortpflanzen*, um zu überleben.
+
+  Cette injustice continue à se *perpétuer* dans notre société.
+  Diese Ungerechtigkeit *setzt* sich in unserer Gesellschaft weiter *fort*.
+
+  Le musée aide à *perpétuer* la mémoire des victimes.
+  Das Museum hilft, die Erinnerung an die Opfer *wachzuhalten*.
+
+  La danse traditionnelle s'est *perpétuée* jusqu'à nos jours.
+  Der traditionelle Tanz ist bis heute *lebendig geblieben*.
+
+  Son œuvre *perpétuera* sa mémoire.
+  Sein Werk wird sein Andenken *bewahren*.
+
+  Les grands-parents veulent *perpétuer* les coutumes familiales.
+  Die Großeltern möchten die Familienbräuche *weitergeben*.
+
+  Cette espèce rare a réussi à se *perpétuer* malgré les menaces.
+  Diese seltene Art hat es geschafft, sich trotz der Bedrohungen zu *erhalten*.
+
+  Le festival annuel *perpétue* les traditions locales.
+  Das jährliche Festival *erhält* die lokalen Traditionen *aufrecht*.
+
+  Sa passion pour la musique s'est *perpétuée* à travers ses enfants.
+  Seine Leidenschaft für Musik hat sich durch seine Kinder *fortgesetzt*.
+
+  Nous devons *perpétuer* le souvenir de ces événements historiques.
+  Wir müssen die Erinnerung an diese historischen Ereignisse *wachhalten*.
+
+  Cette famille a réussi à *perpétuer* sa lignée pendant des siècles.
+  Diese Familie hat es geschafft, ihre Linie über Jahrhunderte zu *bewahren*.
+
+  Les mythes se sont *perpétués* à travers les générations.
+  Die Mythen haben sich über Generationen hinweg *fortgesetzt*.
+
+  L'association aide à *perpétuer* les savoir-faire traditionnels.
+  Der Verein hilft, traditionelles Handwerk *aufrechtzuerhalten*.
+
+  Cette habitude s'est *perpétuée* dans notre famille.
+  Diese Gewohnheit ist in unserer Familie *erhalten geblieben*.
+
+  Les cérémonies *perpétuent* la culture ancestrale.
+  Die Zeremonien *bewahren* die überlieferte Kultur.
+
+  Le dictionnaire aide à *perpétuer* la langue française.
+  Das Wörterbuch hilft, die französische Sprache *lebendig zu erhalten*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

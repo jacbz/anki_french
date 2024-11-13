@@ -13,38 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le fruit d’une froide évaluation comptable.
-  Das Ergebnis einer kalten buchhalterischen Bewertung.
+  Le fruit d'une froide évaluation *comptable*.
+  Das Ergebnis einer kalten *buchhalterischen* Auswertung.
 
-  Le comptable s’occupe des finances de l’entreprise.
-  Der Buchhalter kümmert sich um die Finanzen des Unternehmens.
+  Le plan *comptable* est un outil essentiel pour toute entreprise.
+  Der *Konten*plan ist ein wichtiges Werkzeug für jedes Unternehmen.
 
-  Le plan comptable répertorie toutes les classes de comptes utilisées dans une entreprise.
-  Der Kontenplan listet alle in einem Unternehmen verwendeten Kontenklassen auf.
+  Notre exercice *comptable* s'est terminé avec un bénéfice.
+  Unser *Rechnungs*jahr endete mit einem Gewinn.
 
-  Le commissaire aux comptes a certifié les états financiers de la société.
-  Der vereidigte Steuerprüfer hat den Jahresabschluss der Gesellschaft testiert.
+  Elle a classé tous les documents *comptables* dans un dossier.
+  Sie hat alle *Buchungs*belege in einem Ordner abgelegt.
 
-  L'exercice comptable de l'entreprise court du 1er janvier au 31 décembre.
-  Das Rechnungsjahr des Unternehmens läuft vom 1. Januar bis zum 31. Dezember.
+  La machine *comptable* est tombée en panne hier soir.
+  Die *Buchungs*maschine ist gestern Abend ausgefallen.
 
-  Veuillez joindre un document comptable à votre demande de remboursement.
-  Bitte fügen Sie Ihrer Erstattungsanfrage einen Buchungsbeleg bei.
+  Le service *comptable* a engagé trois nouveaux employés.
+  Die *Buchhaltung* hat drei neue Mitarbeiter eingestellt.
 
-  La machine comptable a considérablement facilité le travail des comptables.
-  Die Buchungsmaschine hat die Arbeit der Buchhalter erheblich erleichtert.
+  Les normes *comptables* internationales ont changé cette année.
+  Die internationalen *Rechnungslegungs*vorschriften haben sich dieses Jahr geändert.
 
-  Le service comptable est responsable de la tenue des livres de l'entreprise.
-  Die Buchhaltung ist für die Führung der Bücher des Unternehmens zuständig.
+  Pour des raisons d'ordre *comptable*, nous devons reporter ce paiement.
+  Aus *buchungs*technischen Gründen müssen wir diese Zahlung verschieben.
 
-  Chaque entreprise doit respecter une norme comptable spécifique.
-  Jedes Unternehmen muss eine bestimmte Rechnungslegungsvorschrift einhalten.
+  Marie est *comptable* dans une petite entreprise depuis dix ans.
+  Marie ist seit zehn Jahren *Buchhalterin* in einem kleinen Unternehmen.
 
-  Les normes comptables internationales visent à harmoniser les pratiques comptables à travers le monde.
-  Die internationalen Rechnungslegungsvorschriften zielen darauf ab, die Rechnungslegungspraktiken weltweit zu vereinheitlichen.
+  Mon frère est *comptable* agréé depuis peu.
+  Mein Bruder ist seit kurzem vereidigter *Steuerprüfer*.
 
-  Pour des raisons d'ordre comptable, nous devons clôturer les comptes à la fin du mois.
-  Aus buchungstechnischen Gründen müssen wir die Konten am Ende des Monats abschließen.
+  L'agent *comptable* a vérifié tous les documents.
+  Der *Buchungs*beamte hat alle Dokumente überprüft.
+
+  Cette quittance *comptable* doit être conservée trois ans.
+  Dieser *Buchungs*beleg muss drei Jahre aufbewahrt werden.
+
+  En tant que capitaine, vous êtes *comptable* de la vie de vos passagers.
+  Als Kapitän sind Sie für das Leben Ihrer Passagiere *verantwortlich*.
+
+  Notre chef *comptable* part à la retraite le mois prochain.
+  Unser *Buchhalter*leiter geht nächsten Monat in Rente.
+
+  La société recherche un expert-*comptable* qualifié.
+  Die Firma sucht einen qualifizierten *Steuer*berater.
+
+  Les écritures *comptables* doivent être vérifiées chaque mois.
+  Die *Buchungs*einträge müssen jeden Monat überprüft werden.
+
+  Un *comptable* public doit suivre des règles strictes.
+  Ein öffentlicher *Buchhalter* muss strenge Regeln befolgen.
+
+  Cette pièce *comptable* justifie la transaction.
+  Dieser *Buchungs*beleg rechtfertigt die Transaktion.
+
+  Le logiciel *comptable* facilite grandement notre travail.
+  Die *Buchungs*software erleichtert unsere Arbeit erheblich.
+
+  Les règles *comptables* ont été modifiées cette année.
+  Die *Buchführungs*regeln wurden dieses Jahr geändert.
+
+  Notre nouveau *comptable* est très méticuleux.
+  Unser neuer *Buchhalter* ist sehr gewissenhaft.
+
+  L'année *comptable* se termine en mars.
+  Das *Geschäfts*jahr endet im März.
+
+  Un *comptable* expérimenté peut gagner un bon salaire.
+  Ein erfahrener *Buchhalter* kann ein gutes Gehalt verdienen.
+
+  Les principes *comptables* doivent être respectés.
+  Die *Buchführungs*grundsätze müssen eingehalten werden.
+
+  Le cabinet *comptable* a déménagé au centre-ville.
+  Die *Buchführungs*kanzlei ist ins Stadtzentrum umgezogen.
+
+  Les données *comptables* sont stockées en toute sécurité.
+  Die *Buchhaltungs*daten werden sicher gespeichert.
+
+  Le département *comptable* organise une réunion demain.
+  Die *Buchhaltungs*abteilung organisiert morgen eine Besprechung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

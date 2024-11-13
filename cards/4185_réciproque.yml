@@ -13,26 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai proposé des retraits réciproques dans tous les arrondissements.
-  Ich habe gegenseitige Rückzüge in allen Bezirken vorgeschlagen.
+  J'ai proposé des retraits *réciproques* dans tous les arrondissements.
+  Ich habe *wechselseitige* Rückzüge in allen Bezirken vorgeschlagen.
 
-  Nous avons une confiance réciproque.
-  Wir haben gegenseitiges Vertrauen.
+  L'amitié *réciproque* entre nos deux familles dure depuis des générations.
+  Die *gegenseitige* Freundschaft zwischen unseren beiden Familien besteht seit Generationen.
 
-  Le chien a aboyé au chat, et le chat a aboyé au chien. C'est un verbe réciproque.
-  Der Hund hat den Kater angebellt, und der Kater hat den Hund angebellt. Das ist ein reziprokes Verb.
+  La confiance *réciproque* est essentielle dans un couple.
+  Das *gegenseitige* Vertrauen ist in einer Beziehung unerlässlich.
 
-  J'ai fait un cadeau à mon ami, j'attends la réciproque.
-  Ich habe meinem Freund ein Geschenk gemacht, ich erwarte das Gleiche.
+  Ces accusations *réciproques* ne mènent à rien.
+  Diese *gegenseitigen* Anschuldigungen führen zu nichts.
 
-  J'ai été gentil avec toi, mais tu ne m'as pas rendu la réciproque.
-  Ich war nett zu dir, aber du hast dich nicht bei mir revanchiert.
+  Les deux pays ont signé un accord de défense *réciproque*.
+  Die beiden Länder haben ein Abkommen zur *gegenseitigen* Verteidigung unterzeichnet.
 
-  Le jury a fait des propositions réciproques à tous les candidats.
-  Die Jury hat zu allen Kandidaten reziproke Urteile abgegeben.
+  Pierre et Marie se sont *réciproquement* aidés pendant leurs études.
+  Pierre und Marie haben sich während des Studiums *gegenseitig* unterstützt.
 
-  Si toutes les planètes tournent autour du soleil, la réciproque n'est pas toujours vraie.
-  Wenn alle Planeten um die Sonne drehen, trifft dies umgekehrt nicht immer zu.
+  Je t'aime, et la *réciproque* est vraie.
+  Ich liebe dich, und das *Gleiche* gilt für dich.
+
+  Les élèves s'encouragent de manière *réciproque* pendant l'examen.
+  Die Schüler ermutigen sich während der Prüfung *gegenseitig*.
+
+  Cette méfiance *réciproque* empêche tout dialogue constructif.
+  Dieses *beidseitige* Misstrauen verhindert jeden konstruktiven Dialog.
+
+  Dans cette équation, x et y sont *réciproquement* proportionnels.
+  In dieser Gleichung sind x und y *reziprok* proportional.
+
+  L'influence *réciproque* entre l'art et la société est fascinante.
+  Der *wechselseitige* Einfluss zwischen Kunst und Gesellschaft ist faszinierend.
+
+  Les deux entreprises ont conclu un accord de promotion *réciproque*.
+  Die beiden Unternehmen haben eine Vereinbarung zur *gegenseitigen* Förderung getroffen.
+
+  Cette dépendance *réciproque* renforce notre collaboration.
+  Diese *wechselseitige* Abhängigkeit stärkt unsere Zusammenarbeit.
+
+  Il m'a invité à dîner, et j'attends la *réciproque*.
+  Er hat mich zum Essen eingeladen, und ich erwarte das *Gleiche*.
+
+  Dans ce verbe *réciproque*, les sujets agissent l'un sur l'autre.
+  In diesem *reziproken* Verb wirken die Subjekte aufeinander ein.
+
+  Les pays membres s'accordent une protection *réciproque*.
+  Die Mitgliedsländer gewähren sich *gegenseitigen* Schutz.
+
+  Notre respect *réciproque* a toujours été la base de notre amitié.
+  Unser *gegenseitiger* Respekt war schon immer die Grundlage unserer Freundschaft.
+
+  Si A implique B, la *réciproque* n'est pas forcément vraie.
+  Wenn A B impliziert, muss die *Umkehrung* nicht unbedingt wahr sein.
+
+  Les équipes ont montré une admiration *réciproque* après le match.
+  Die Teams zeigten nach dem Spiel *gegenseitige* Bewunderung.
+
+  Dans ce cas, la fonction et sa *réciproque* sont identiques.
+  In diesem Fall sind die Funktion und ihre *Umkehrung* identisch.
+
+  Je dois *rendre la réciproque* à Thomas pour son aide.
+  Ich muss mich bei Thomas für seine Hilfe *revanchieren*.
+
+  L'apprentissage d'une langue nécessite un échange *réciproque*.
+  Das Erlernen einer Sprache erfordert einen *wechselseitigen* Austausch.
+
+  Cette promesse *réciproque* nous engage tous les deux.
+  Dieses *gegenseitige* Versprechen bindet uns beide.
+
+  Les chercheurs étudient l'effet *réciproque* des médicaments.
+  Die Forscher untersuchen die *wechselseitige* Wirkung der Medikamente.
+
+  La *réciproque* du théorème de Pythagore est également vraie.
+  Die *Umkehrung* des Satzes des Pythagoras ist ebenfalls wahr.
+
+  Leur haine *réciproque* a détruit leur amitié d'enfance.
+  Ihr *gegenseitiger* Hass hat ihre Kinderfreundschaft zerstört.
+
+  Cette relation *réciproque* profite aux deux parties.
+  Diese *wechselseitige* Beziehung kommt beiden Parteien zugute.
+
+  Les muscles antagonistes présentent une innervation *réciproque*.
+  Die antagonistischen Muskeln weisen eine *reziproke* Innervation auf.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

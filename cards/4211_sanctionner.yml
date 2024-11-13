@@ -13,11 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La décision a été sanctionnée par le secrétaire général des nations unies.
-  Die Entscheidung wurde vom Generalsekretär der Vereinten Nationen sanktioniert.
+  La décision a été *sanctionnée* par le secrétaire général des nations unies.
+  Die Entscheidung wurde vom UN-Generalsekretär *bestätigt*.
 
-  Le professeur a décidé de sanctionner les élèves qui ont triché.
-  Der Lehrer hat beschlossen, die Schüler zu bestrafen, die betrogen haben.
+  L'assemblée a *sanctionné* la proposition à l'unanimité.
+  Die Versammlung hat den Vorschlag einstimmig *genehmigt*.
+
+  Son travail acharné a été *sanctionné* par une promotion.
+  Seine harte Arbeit wurde mit einer Beförderung *belohnt*.
+
+  Les années d'études sont *sanctionnées* par un diplôme reconnu.
+  Die Studienjahre werden mit einem anerkannten Abschluss *bestätigt*.
+
+  Le comité a *sanctionné* les résultats du vote.
+  Das Komitee hat die Wahlergebnisse *bestätigt*.
+
+  L'arbitre a *sanctionné* l'équipe pour jeu dangereux.
+  Der Schiedsrichter hat die Mannschaft wegen gefährlichen Spiels *bestraft*.
+
+  Le gouvernement va *sanctionner* les entreprises qui polluent.
+  Die Regierung wird die umweltverschmutzenden Unternehmen *bestrafen*.
+
+  Cette formation est *sanctionnée* par un certificat professionnel.
+  Diese Ausbildung wird mit einem Berufszertifikat *abgeschlossen*.
+
+  Le parlement a *sanctionné* la nouvelle loi hier.
+  Das Parlament hat gestern das neue Gesetz *verabschiedet*.
+
+  L'usage a *sanctionné* cette expression au fil du temps.
+  Der Gebrauch hat diesen Ausdruck im Laufe der Zeit *legitimiert*.
+
+  Le jury a *sanctionné* ce comportement antisportif.
+  Die Jury hat dieses unsportliche Verhalten *geahndet*.
+
+  Les infractions au code de la route sont sévèrement *sanctionnées*.
+  Verstöße gegen die Straßenverkehrsordnung werden streng *geahndet*.
+
+  Le conseil d'administration a *sanctionné* le nouveau règlement.
+  Der Vorstand hat die neue Verordnung *genehmigt*.
+
+  Les retards répétés seront *sanctionnés* par un avertissement.
+  Wiederholte Verspätungen werden mit einer Verwarnung *geahndet*.
+
+  Le médiateur a vu ses propositions *sanctionnées* par les deux parties.
+  Die Vorschläge des Vermittlers wurden von beiden Parteien *bestätigt*.
+
+  Le règlement *sanctionne* toute forme de tricherie.
+  Die Vorschrift *ahndet* jede Form von Betrug.
+
+  Cette décision historique a été *sanctionnée* par la cour suprême.
+  Diese historische Entscheidung wurde vom obersten Gericht *bestätigt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

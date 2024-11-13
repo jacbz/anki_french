@@ -13,26 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il naviguait sur internet en quête de sujets scientifiques.
-  Er durchforstete das Internet auf der Suche nach wissenschaftlichen Themen.
+  Il *naviguait* sur internet en quête de sujets scientifiques.
+  Er *surfte* im Internet auf der Suche nach wissenschaftlichen Themen.
 
-  Nous avons navigué sur la Méditerranée.
-  Wir sind im Mittelmeer gesegelt.
+  Le bateau *navigue* le long de la côte méditerranéenne.
+  Das Boot *fährt* entlang der Mittelmeerküste.
 
-  Le bateau est en état de naviguer après les réparations.
-  Das Schiff ist flugtauglich, nachdem es repariert wurde.
+  "Tu *navigues* beaucoup entre Paris et Lyon ces derniers temps ?"
+  "*Pendelst* du in letzter Zeit viel zwischen Paris und Lyon?"
 
-  Marie rêve de naviguer seule à la voile autour du monde.
-  Marie träumt davon, Einhandseglerin zu sein und um die Welt zu segeln.
+  L'avion *navigue* à une altitude de 10 000 mètres.
+  Das Flugzeug *fliegt* in einer Höhe von 10.000 Metern.
 
-  J'aime naviguer sur le Web pour trouver des informations.
-  Ich surfe gerne im Internet, um Informationen zu finden.
+  Elle *navigue* habilement dans les cercles politiques.
+  Sie *manövriert* geschickt in politischen Kreisen.
 
-  Le pilote a navigué habilement l'avion à travers la tempête.
-  Der Pilot hat das Flugzeug geschickt durch den Sturm gesteuert.
+  Le voilier n'est plus en état de *naviguer*.
+  Das Segelboot ist nicht mehr *seetüchtig*.
 
-  Il est difficile de naviguer à contre-courant dans le monde d'aujourd'hui.
-  Es ist schwierig, in der heutigen Zeit gegen den Strom zu schwimmen.
+  Les astronautes *naviguent* dans l'espace depuis trois mois.
+  Die Astronauten *fliegen* seit drei Monaten im Weltraum.
+
+  Pierre *navigue* entre les stands du marché à la recherche de légumes frais.
+  Pierre *schlängelt* sich zwischen den Marktständen auf der Suche nach frischem Gemüse *durch*.
+
+  Ce marin a *navigué* sur toutes les mers du monde.
+  Dieser Seemann ist auf allen Weltmeeren *gefahren*.
+
+  Marie *navigue* à contre-courant des tendances actuelles.
+  Marie *schwimmt* gegen den aktuellen Trend.
+
+  Le capitaine *navigue* au compas depuis que le GPS est en panne.
+  Der Kapitän *steuert* mit dem Kompass, seit das GPS ausgefallen ist.
+
+  Les premiers pilotes *naviguaient* à la boussole.
+  Die ersten Piloten *flogen* mit dem Kompass.
+
+  Son petit bateau *navigue* bien, même par gros temps.
+  Sein kleines Boot *fährt* gut, auch bei schwerem Wetter.
+
+  "Je *navigue* sur ce site depuis des heures sans trouver l'information."
+  "Ich *browse* seit Stunden auf dieser Seite, ohne die Information zu finden."
+
+  Elle *navigue* à vue dans ce nouveau projet.
+  Sie *steuert* in diesem neuen Projekt auf Sicht.
+
+  Le jeune couple *navigue* dans les démarches administratives.
+  Das junge Paar *kämpft* sich durch die Verwaltungsformalitäten.
+
+  Les deux navires *navigueront* de conserve jusqu'au port.
+  Die beiden Schiffe werden gemeinsam bis zum Hafen *fahren*.
+
+  Sophie *navigue* seule à la voile depuis trois ans.
+  Sophie ist seit drei Jahren *Einhandseglerin*.
+
+  "Il faut savoir *naviguer* dans la vie."
+  "Man muss sich im Leben zu *helfen* wissen."
+
+  L'avion *navigue* à basse altitude à cause du mauvais temps.
+  Das Flugzeug *fliegt* wegen des schlechten Wetters in niedriger Höhe.
+
+  Le bateau *naviguera* vers le sud dès que la tempête sera passée.
+  Das Boot wird nach dem Ende des Sturms nach Süden *fahren*.
+
+  La voiture *navigue* dangereusement sur la route verglacée.
+  Das Auto *schwankt* gefährlich auf der vereisten Straße.
+
+  Thomas *navigue* entre plusieurs emplois pour joindre les deux bouts.
+  Thomas *jongliert* mit mehreren Jobs, um über die Runden zu kommen.
+
+  Ce pilote *navigue* avec une grande assurance.
+  Dieser Pilot *fliegt* mit großer Sicherheit.
+
+  Les étudiants *naviguent* facilement dans la nouvelle interface du site.
+  Die Studenten *navigieren* mühelos durch die neue Benutzeroberfläche der Website.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

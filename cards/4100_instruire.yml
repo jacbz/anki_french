@@ -13,29 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils sauront l’instruire sur leurs anciennes pratiques.
-  Sie werden ihn über ihre früheren Praktiken aufzuklären wissen.
+  Ils sauront l'*instruire* sur leurs anciennes pratiques.
+  Sie werden ihn über ihre früheren Praktiken *belehren*.
 
-  Il a été instruit par les meilleurs professeurs.
-  Er wurde von den besten Lehrern unterrichtet.
+  Le professeur *instruit* les enfants sur les dangers d'Internet.
+  Die Lehrerin *belehrt* die Kinder über die Gefahren des Internets.
 
-  Il est important d'instruire les enfants sur les dangers d'Internet.
-  Es ist wichtig, die Kinder über die Gefahren des Internets zu belehren.
+  Marie *s'instruit* dans la langue espagnole depuis deux ans.
+  Marie *bildet* sich seit zwei Jahren in der spanischen Sprache.
 
-  Elle a décidé de s'instruire dans la langue espagnole.
-  Sie hat beschlossen, sich in der spanischen Sprache zu bilden.
+  Le juge *instruit* l'affaire depuis plusieurs mois.
+  Der Richter *ermittelt* seit mehreren Monaten in dem Fall.
 
-  Je me fais un plaisir de vous instruire de cette heureuse nouvelle.
-  Ich freue mich, Sie von dieser frohen Neuigkeit unterrichten zu dürfen.
+  *Instruit* par ses erreurs passées, Thomas est plus prudent maintenant.
+  Durch seine vergangenen Fehler *belehrt*, ist Thomas jetzt vorsichtiger.
 
-  La police a instruit contre le suspect pendant des mois.
-  Die Polizei hat monatelang gegen den Verdächtigen ermittelt.
+  Je dois vous *instruire* d'un changement important dans le programme.
+  Ich muss Sie über eine wichtige Änderung im Programm *informieren*.
 
-  L'affaire s'instruit actuellement, nous aurons bientôt des réponses.
-  In der Sache wird derzeit ermittelt, wir werden bald Antworten haben.
+  La police *instruit* contre le suspect principal.
+  Die Polizei *ermittelt* gegen den Hauptverdächtigen.
 
-  Son père, un éminent biologiste, l'a instruit dans la science dès son plus jeune âge.
-  Sein Vater, ein bedeutender Biologe, hat ihn schon in jungen Jahren in die Wissenschaft eingeführt.
+  Les parents *instruisent* leurs enfants dans les valeurs familiales.
+  Die Eltern *unterrichten* ihre Kinder in den familiären Werten.
+
+  On *s'instruit* à tout âge.
+  Man *bildet* sich in jedem Alter.
+
+  Le sergent *instruit* les nouvelles recrues au maniement des armes.
+  Der Sergeant *unterrichtet* die neuen Rekruten im Umgang mit Waffen.
+
+  Elle *s'instruit* des circonstances exactes de l'accident.
+  Sie *informiert* sich über die genauen Umstände des Unfalls.
+
+  Les voyages *instruisent* plus que les livres.
+  Reisen *bilden* mehr als Bücher.
+
+  Le directeur m'a *instruit* de sa décision hier soir.
+  Der Direktor hat mich gestern Abend von seiner Entscheidung *unterrichtet*.
+
+  Cette expérience l'a bien *instruit*.
+  Diese Erfahrung hat ihn gut *gelehrt*.
+
+  Les professeurs *instruisent* les élèves dans les sciences naturelles.
+  Die Lehrer *unterrichten* die Schüler in den Naturwissenschaften.
+
+  Le détective *instruit* cette affaire délicate avec précaution.
+  Der Detektiv *ermittelt* vorsichtig in diesem heiklen Fall.
+
+  Il faut *instruire* la jeunesse aux dangers des réseaux sociaux.
+  Man muss die Jugend über die Gefahren sozialer Medien *aufklären*.
+
+  Sophie *s'instruit* dans l'art de la photographie.
+  Sophie *bildet* sich in der Kunst der Fotografie.
+
+  Le temps nous *instruit* sur la vraie valeur des choses.
+  Die Zeit *lehrt* uns den wahren Wert der Dinge.
+
+  Les experts *instruisent* le public sur les enjeux climatiques.
+  Die Experten *klären* die Öffentlichkeit über die Klimaproblematik *auf*.
+
+  Je dois *m'instruire* sur ce sujet avant la réunion.
+  Ich muss mich vor dem Meeting über dieses Thema *informieren*.
+
+  Il *s'instruit* par la pratique plutôt que par la théorie.
+  Er *bildet* sich eher durch Praxis als durch Theorie.
+
+  Le magistrat *instruit* le dossier avec attention.
+  Der Richter *bearbeitet* die Akte sorgfältig.
+
+  Les grands-parents *instruisent* leurs petits-enfants sur leur histoire familiale.
+  Die Großeltern *unterrichten* ihre Enkel über ihre Familiengeschichte.
+
+  Elle *s'instruit* continuellement pour progresser dans sa carrière.
+  Sie *bildet* sich ständig weiter, um in ihrer Karriere voranzukommen.
+
+  Le mentor *instruit* son apprenti dans les techniques traditionnelles.
+  Der Mentor *unterweist* seinen Lehrling in den traditionellen Techniken.
+
+  Les documents *instruisent* les lecteurs sur l'histoire locale.
+  Die Dokumente *informieren* die Leser über die lokale Geschichte.
+
+  Nous devons *instruire* nos enfants à respecter l'environnement.
+  Wir müssen unseren Kindern *beibringen*, die Umwelt zu respektieren.
+
+  L'avocat *instruit* ses clients sur leurs droits.
+  Der Anwalt *klärt* seine Mandanten über ihre Rechte *auf*.
+
+  C'est un homme très *instruit*.
+  Er ist ein sehr *gebildeter* Mann.
+
+  La vie nous *instruit* chaque jour.
+  Das Leben *lehrt* uns jeden Tag.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

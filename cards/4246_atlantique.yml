@@ -13,14 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’habite dans le Canada atlantique.
-  Ich lebe in atlantischem Kanada.
+  J'habite dans le Canada *atlantique*.
+  Ich wohne im *atlantischen* Kanada.
 
-  L’océan Atlantique est le deuxième plus grand océan du monde.
-  Der Atlantische Ozean ist der zweitgrößte Ozean der Welt.
+  Le climat *atlantique* est caractérisé par des hivers doux.
+  Das *atlantische* Klima ist durch milde Winter geprägt.
 
-  La côte atlantique est connue pour ses plages de sable fin et ses vagues puissantes.
-  Die Atlantikküste ist bekannt für ihre Sandstrände und die starken Wellen.
+  La France a une longue côte *atlantique*.
+  Frankreich hat eine lange *Atlantik*küste.
+
+  Le saumon sauvage nage dans l'océan *atlantique*.
+  Der Wildlachs schwimmt im *Atlantischen* Ozean.
+
+  Les tempêtes *atlantiques* sont particulièrement violentes en hiver.
+  Die *atlantischen* Stürme sind besonders heftig im Winter.
+
+  Le Pacte *atlantique* a été signé en 1949.
+  Der *Atlantik*pakt wurde 1949 unterzeichnet.
+
+  Les pays de l'Alliance *atlantique* se réunissent régulièrement.
+  Die Länder des *Atlantischen* Bündnisses treffen sich regelmäßig.
+
+  La politique *atlantique* reste un pilier de notre stratégie.
+  Die *atlantische* Politik bleibt ein Pfeiler unserer Strategie.
+
+  Le littoral *atlantique* attire beaucoup de touristes en été.
+  Die *Atlantik*küste zieht im Sommer viele Touristen an.
+
+  Les ports *atlantiques* jouent un rôle crucial dans le commerce international.
+  Die *Atlantik*häfen spielen eine wichtige Rolle im internationalen Handel.
+
+  La marge *atlantique* présente des caractéristiques géologiques particulières.
+  Der *atlantische* Kontinentalrand weist besondere geologische Merkmale auf.
+
+  Les vents *atlantiques* apportent souvent de la pluie.
+  Die *atlantischen* Winde bringen oft Regen mit.
+
+  La traversée *atlantique* dure environ une semaine en bateau.
+  Die *Atlantik*überquerung dauert mit dem Schiff ungefähr eine Woche.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

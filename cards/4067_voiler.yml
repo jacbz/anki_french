@@ -13,17 +13,113 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les femmes doivent se voiler.
-  Frauen müssen sich verschleiern.
+  Les femmes doivent se *voiler*.
+  Die Frauen müssen sich *verschleiern*.
 
-  Le brouillard voile la vue.
-  Der Nebel verhüllt die Sicht.
+  Elle s'est *voilé* le visage avec un foulard en soie.
+  Sie hat sich das Gesicht mit einem Seidenschal *verhüllt*.
 
-  Il se volait la face pour ne pas voir la vérité.
-  Er verschleierte sich das Gesicht, um die Wahrheit nicht sehen zu müssen.
+  Le ciel commence à se *voiler* de nuages gris.
+  Der Himmel beginnt sich mit grauen Wolken zu *bedecken*.
 
-  Le poids a voilé l'étagère, la rendant inutilisable.
-  Durch das Gewicht hat sich das Regal verzogen, so dass es nicht mehr zu gebrauchen ist.
+  L'horizon se *voilait* peu à peu dans la brume.
+  Der Horizont *verschwamm* nach und nach im Nebel.
+
+  Son regard s'est *voilé* de larmes.
+  Ihr Blick *trübte* sich mit Tränen.
+
+  Le soleil se *voile* derrière les nuages.
+  Die Sonne wird hinter den Wolken *schwächer*.
+
+  Sa voix se *voila* d'émotion pendant son discours.
+  Seine Stimme wurde vor Rührung während seiner Rede *heiser*.
+
+  La vérité ne peut pas être *voilée* éternellement.
+  Die Wahrheit kann nicht ewig *verschleiert* werden.
+
+  Le brouillard *voilait* les sommets des montagnes.
+  Der Nebel *hüllte* die Berggipfel *ein*.
+
+  L'étagère s'est *voilée* à cause de l'humidité.
+  Das Regal hat sich wegen der Feuchtigkeit *verzogen*.
+
+  La roue avant de mon vélo s'est *voilée*.
+  Das Vorderrad meines Fahrrads hat sich *verbogen*.
+
+  Le poids excessif a *voilé* la planche.
+  Das übermäßige Gewicht hat das Brett *verbogen*.
+
+  Les autorités ont décidé de *voiler* la statue pendant les travaux.
+  Die Behörden haben beschlossen, die Statue während der Arbeiten zu *verhüllen*.
+
+  Il ne sert à rien de se *voiler* la face devant les problèmes.
+  Es bringt nichts, vor den Problemen die Augen zu *verschließen*.
+
+  Le politicien essaie de *voiler* ses vraies intentions.
+  Der Politiker versucht, seine wahren Absichten zu *verschleiern*.
+
+  Les nuages *voilent* progressivement le soleil.
+  Die Wolken *verhüllen* nach und nach die Sonne.
+
+  La fenêtre s'est légèrement *voilée* avec le temps.
+  Das Fenster hat sich mit der Zeit leicht *verzogen*.
+
+  Son regard s'est *voilé* de tristesse.
+  Sein Blick *trübte* sich vor Traurigkeit.
+
+  Le ciel s'est *voilé* avant l'orage.
+  Der Himmel hat sich vor dem Gewitter *bedeckt*.
+
+  La lune se *voile* derrière les nuages.
+  Der Mond *verschwindet* hinter den Wolken.
+
+  L'émotion *voilait* sa voix pendant qu'elle parlait.
+  Die Emotion machte ihre Stimme beim Sprechen *heiser*.
+
+  Le mystère qui *voile* cette affaire doit être éclairci.
+  Das Geheimnis, das diese Angelegenheit *verschleiert*, muss aufgeklärt werden.
+
+  Les montagnes se sont *voilées* dans la brume matinale.
+  Die Berge *verschwanden* im Morgennebel.
+
+  Le disque vinyle s'est *voilé* à cause de la chaleur.
+  Die Vinylplatte hat sich wegen der Hitze *verzogen*.
+
+  Une fine pluie *voilait* le paysage.
+  Ein feiner Regen *verhüllte* die Landschaft.
+
+  Sa voix se *voila* de fatigue vers la fin du concert.
+  Seine Stimme wurde gegen Ende des Konzerts vor Müdigkeit *heiser*.
+
+  Le temps se *voile* progressivement.
+  Das Wetter *trübt* sich allmählich ein.
+
+  Les étoiles se *voilent* derrière les nuages.
+  Die Sterne *verschwinden* hinter den Wolken.
+
+  Il a fait une allusion à peine *voilée* à son rival.
+  Er machte eine kaum *verhüllte* Anspielung auf seinen Rivalen.
+
+  Le photographe a *voilé* la pellicule par accident.
+  Der Fotograf hat den Film versehentlich *verschleiert*.
+
+  La pudeur l'obligeait à *voiler* sa nudité.
+  Die Schamhaftigkeit zwang sie, ihre Nacktheit zu *verhüllen*.
+
+  Le brouillard *voilait* la vue sur la vallée.
+  Der Nebel *verhüllte* die Sicht auf das Tal.
+
+  Cette explication *voilée* ne me satisfait pas.
+  Diese *verschleierte* Erklärung befriedigt mich nicht.
+
+  Les larmes *voilaient* sa vision.
+  Die Tränen *verschleierten* ihre Sicht.
+
+  La fumée *voilait* l'horizon.
+  Der Rauch *verhüllte* den Horizont.
+
+  Le soleil se *voilait* doucement à l'horizon.
+  Die Sonne *verschwand* sanft am Horizont.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

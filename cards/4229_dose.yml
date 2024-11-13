@@ -13,41 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous avez mal calculé la dose.
-  Sie haben die Dosis falsch berechnet.
+  Vous avez mal calculé la *dose*.
+  Sie haben die *Dosis* falsch berechnet.
 
-  Prenez la dose prescrite par votre médecin.
-  Nehmen Sie die vom Arzt verschriebene Dosis.
+  Le médecin m'a prescrit une *dose* de vitamines par jour.
+  Der Arzt hat mir eine Vitamin*dosis* pro Tag verschrieben.
 
-  J'ai besoin d'une bonne dose de vitamines pour me remettre de ma grippe.
-  Ich brauche eine gehörige Portion Vitamine, um von meiner Grippe wieder gesund zu werden.
+  Une *dose* excessive de ce médicament peut être mortelle.
+  Eine zu hohe *Dosis* dieses Medikaments kann tödlich sein.
 
-  Il a fallu une bonne dose de courage pour lui dire la vérité.
-  Es hat eine gehörige Portion Mut gekostet, um ihm die Wahrheit zu sagen.
+  Pour cette recette, il faut trois *doses* de farine pour une *dose* de sucre.
+  Für dieses Rezept braucht man drei *Teile* Mehl auf einen *Teil* Zucker.
 
-  Il est important de prendre les médicaments par petites doses.
-  Es ist wichtig, die Medikamente in kleinen Dosen einzunehmen.
+  Ne dépassez pas la *dose* prescrite de ce sirop.
+  Überschreiten Sie nicht die verschriebene *Dosis* dieses Sirups.
 
-  J'en ai ma dose de stress, j'ai besoin de vacances.
-  Mein Bedarf an Stress ist gedeckt, ich brauche Urlaub.
+  La *dose* limite d'exposition aux radiations a été atteinte.
+  Die Grenz*dosis* der Strahlenbelastung wurde erreicht.
 
-  Ne force pas la dose, tu risques de te faire mal.
-  Treib es nicht zu weit, du riskierst dich zu verletzen.
+  "J'en ai ma *dose* de tes excuses !"
+  "Ich habe *genug* von deinen Ausreden!"
 
-  Pour cette recette, il faut trois doses de farine pour une dose de sucre.
-  Für dieses Rezept braucht man drei Teile Mehl auf einen Teil Zucker.
+  Il faudrait une bonne *dose* de courage pour faire ça.
+  Dafür bräuchte man eine gehörige *Portion* Mut.
 
-  La dose limite de ce médicament est de 20 mg par jour.
-  Die Grenzdosis dieses Medikaments beträgt 20 mg pro Tag.
+  La *dose* de sel dans cette soupe est parfaite.
+  Die *Menge* Salz in dieser Suppe ist perfekt.
 
-  Une dose mortelle de ce poison est de 50 mg.
-  Eine tödliche Dosis dieses Giftes beträgt 50 mg.
+  Les scientifiques ont mesuré la *dose* totale de radiation.
+  Die Wissenschaftler haben die Gesamt*dosis* der Strahlung gemessen.
 
-  Une dose partielle de la vaccination est nécessaire pour les enfants.
-  Eine Teilkörperdosis der Impfung ist für Kinder notwendig.
+  Cette *dose* partielle de rayons X suffira pour l'examen.
+  Diese Teil*dosis* der Röntgenstrahlen wird für die Untersuchung ausreichen.
 
-  Une dose simple de ce médicament suffit pour soulager la douleur.
-  Eine Einzeldosis dieses Medikaments reicht aus, um den Schmerz zu lindern.
+  "Il a eu sa *dose* hier soir à la fête."
+  "Er hatte gestern Abend auf der Party seine *Portion* weg."
+
+  Une *dose* simple de ce médicament suffit généralement.
+  Eine Einzel*dosis* dieses Medikaments reicht normalerweise aus.
+
+  Il y avait une forte *dose* d'ironie dans sa voix.
+  In seiner Stimme lag eine große *Portion* Ironie.
+
+  Les patients reçoivent ce traitement à faible *dose*.
+  Die Patienten erhalten diese Behandlung in niedriger *Dosierung*.
+
+  La *dose* de caféine dans ce café est très élevée.
+  Der Koffein*gehalt* in diesem Kaffee ist sehr hoch.
+
+  Chaque *dose* doit être prise avec un grand verre d'eau.
+  Jede *Dosis* muss mit einem großen Glas Wasser eingenommen werden.
+
+  Il a épuisé ma *dose* de patience pour aujourd'hui.
+  Er hat meine *Portion* Geduld für heute aufgebraucht.
+
+  Cette *dose* mortelle de poison a causé sa mort instantanée.
+  Diese tödliche *Dosis* Gift hat seinen sofortigen Tod verursacht.
+
+  Le médecin administre le médicament à haute *dose*.
+  Der Arzt verabreicht das Medikament in hoher *Dosierung*.
+
+  La *dose* de magnésium dans ce complément est trop faible.
+  Die Magnesium*dosis* in diesem Nahrungsergänzungsmittel ist zu niedrig.
+
+  Quelle est la *dose* de sucre recommandée dans cette recette ?
+  Welche *Menge* Zucker wird in diesem Rezept empfohlen?
+
+  Je prends ce remède en plusieurs *doses* par jour.
+  Ich nehme dieses Medikament in mehreren *Dosen* pro Tag ein.
+
+  Il y avait une légère *dose* d'amour-propre dans son attitude.
+  In seiner Haltung lag eine kleine *Portion* Selbstgefälligkeit.
+
+  La *dose* absorbée de radiation était dans les limites acceptables.
+  Die absorbierte Strahlungs*dosis* lag innerhalb der akzeptablen Grenzen.
+
+  Les chercheurs ont calculé la *dose* létale pour chaque substance.
+  Die Forscher haben die Letal*dosis* für jede Substanz berechnet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

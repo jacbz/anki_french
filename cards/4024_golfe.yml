@@ -13,20 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les gens du golfe sont très fiers.
-  Die Menschen am Golf sind sehr stolz.
+  Les gens du *golfe* sont très fiers.
+  Die Menschen am *Golf* sind sehr stolz.
 
-  Le golfe du Mexique est connu pour ses ouragans.
-  Der Golf von Mexiko ist für seine Hurrikane bekannt.
+  Le *golfe* du Lion est situé sur la côte méditerranéenne française.
+  Der *Golf* von Lyon liegt an der französischen Mittelmeerküste.
 
-  Le golfe de Botnie est une mer intérieure qui sépare la Suède de la Finlande.
-  Der Bottnische Meerbusen ist eine Binnenmeer, das Schweden und Finnland trennt.
+  La région du *golfe* Persique est riche en pétrole.
+  Die Region am Persischen *Golf* ist reich an Erdöl.
 
-  Le golfe de Gascogne est une baie de l'océan Atlantique qui borde la France et l'Espagne.
-  Die Biscaya ist eine Bucht des Atlantischen Ozeans, die Frankreich und Spanien begrenzt.
+  Un petit *golfe* protège le port des vagues.
+  Eine kleine *Bucht* schützt den Hafen vor den Wellen.
 
-  Les États du Golfe sont des pays du Moyen-Orient qui se situent le long du golfe Persique.
-  Die Golfstaaten sind Länder im Nahen Osten, die sich am Persischen Golf befinden.
+  Les eaux du *golfe* de Gascogne peuvent être dangereuses en hiver.
+  Die Gewässer der *Biscaya* können im Winter gefährlich sein.
+
+  Les pêcheurs du *golfe* de Botnie attendent la fonte des glaces.
+  Die Fischer am Bottnischen *Meerbusen* warten auf die Eisschmelze.
+
+  La température du *golfe* du Mexique influence le climat des Caraïbes.
+  Die Temperatur des *Golfs* von Mexiko beeinflusst das Klima in der Karibik.
+
+  Les États du *Golfe* ont organisé un sommet important.
+  Die *Golf*staaten haben einen wichtigen Gipfel organisiert.
+
+  Ce petit *golfe* abrite une riche biodiversité marine.
+  Diese kleine *Bucht* beherbergt eine reiche marine Artenvielfalt.
+
+  Les courants dans le *golfe* changent selon les saisons.
+  Die Strömungen im *Golf* ändern sich je nach Jahreszeit.
+
+  Le *golfe* forme une baie naturelle profonde.
+  Der *Golf* bildet eine tiefe natürliche Bucht.
+
+  Les navires traversent le *Golfe* jour et nuit.
+  Die Schiffe überqueren den *Golf* Tag und Nacht.
+
+  Les côtes du *golfe* attirent de nombreux touristes.
+  Die Küsten des *Golfs* ziehen viele Touristen an.
+
+  Un nouveau port sera construit dans ce *golfe*.
+  In dieser *Bucht* wird ein neuer Hafen gebaut.
+
+  La pollution menace l'écosystème du *golfe*.
+  Die Verschmutzung bedroht das Ökosystem des *Golfs*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

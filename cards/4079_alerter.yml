@@ -13,14 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il ne faudrait pas alerter la population.
-  Die Bevölkerung sollte nicht alarmiert werden.
+  Il ne faudrait pas *alerter* la population.
+  Man sollte die Bevölkerung nicht *alarmieren*.
 
-  Il faut alerter les autorités.
-  Die Behörden müssen alarmiert werden.
+  Les pompiers ont été *alertés* d'un incendie dans l'immeuble.
+  Die Feuerwehr wurde über einen Brand im Gebäude *alarmiert*.
 
-  C'est ce qui m'a alerté sur le danger potentiel.
-  Genau dies hat mich auf die potenzielle Gefahr aufmerksam gemacht.
+  Son comportement étrange m'a *alerté* immédiatement.
+  Sein seltsames Verhalten hat mich sofort *aufmerksam* gemacht.
+
+  Les aboiements du chien ont *alerté* toute la maison.
+  Das Bellen des Hundes hat das ganze Haus *alarmiert*.
+
+  Je dois *alerter* les autorités de cette situation dangereuse.
+  Ich muss die Behörden über diese gefährliche Situation in *Kenntnis setzen*.
+
+  Le médecin a été *alerté* dès les premiers symptômes.
+  Der Arzt wurde bei den ersten Symptomen *alarmiert*.
+
+  Une odeur de fumée a *alerté* les voisins.
+  Ein Brandgeruch hat die Nachbarn *alarmiert*.
+
+  Le joueur a *alerté* son coéquipier d'une passe longue.
+  Der Spieler hat seinen Mitspieler mit einem langen Pass *aufmerksam* gemacht.
+
+  La police a été *alertée* par des témoins.
+  Die Polizei wurde von Zeugen *alarmiert*.
+
+  Ces changements climatiques devraient nous *alerter*.
+  Diese Klimaveränderungen sollten uns *wachrütteln*.
+
+  Le système d'alarme va *alerter* la sécurité.
+  Das Alarmsystem wird die Sicherheit *alarmieren*.
+
+  Les scientifiques ont *alerté* le public sur les risques.
+  Die Wissenschaftler haben die Öffentlichkeit vor den Risiken *gewarnt*.
+
+  Un bruit suspect a *alerté* le gardien de nuit.
+  Ein verdächtiges Geräusch hat den Nachtwächter *alarmiert*.
+
+  Nous devons *alerter* les médias de cette découverte.
+  Wir müssen die Medien über diese Entdeckung in *Kenntnis setzen*.
+
+  Il faut *alerter* les services d'urgence immédiatement.
+  Man muss sofort den Notdienst *alarmieren*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

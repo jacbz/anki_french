@@ -13,26 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tout ça est chiffré à chaque fois par les ministères.
-  All dies wird jedes Mal von den Ministerien beziffert.
+  Tout ça est *chiffré* à chaque fois par les ministères.
+  All das wird jedes Mal von den Ministerien *beziffert*.
 
-  Il faut chiffrer les données sensibles.
-  Es ist notwendig, sensible Daten zu verschlüsseln.
+  Le comptable doit *chiffrer* les dépenses du projet.
+  Der Buchhalter muss die Projektausgaben *beziffern*.
 
-  Le bilan chiffré de l'entreprise est positif.
-  Die zahlenmäßige Bilanz des Unternehmens ist positiv.
+  Les données de notre serveur sont *chiffrées* par un algorithme moderne.
+  Die Daten auf unserem Server werden durch einen modernen Algorithmus *verschlüsselt*.
 
-  Les pertes se chiffrent à plusieurs millions d'euros.
-  Die Verluste beziffern sich auf mehrere Millionen Euro.
+  Il faut *chiffrer* chaque page du document avant de l'envoyer.
+  Jede Seite des Dokuments muss *nummeriert* werden, bevor wir es verschicken.
 
-  Il a déchiffré le message chiffré qu'il a reçu.
-  Er hat die verschlüsselte Nachricht entschlüsselt, die er erhalten hat.
+  La secrétaire a *chiffré* tous les draps avec mes initiales.
+  Die Sekretärin hat alle Laken mit meinem *Monogramm* versehen.
 
-  Le bijou a été chiffré à ses initiales.
-  Der Schmuck wurde mit seinem Monogramm versehen.
+  Le professeur de musique nous a appris à *chiffrer* une partition.
+  Der Musiklehrer hat uns beigebracht, eine Partitur zu *beziffern*.
 
-  Le coût du projet se chiffre par millions.
-  Der Preis des Projekts geht in die Millionen.
+  "Ces réparations commencent à *chiffrer*!"
+  "Diese Reparaturen *läppern* sich ganz schön!"
+
+  Le coût total du projet se *chiffre* à plusieurs millions d'euros.
+  Die Gesamtkosten des Projekts *belaufen* sich auf mehrere Millionen Euro.
+
+  Les pertes se *chiffrent* par milliards.
+  Die Verluste gehen in die *Milliarden*.
+
+  Les experts ont *chiffré* les dommages causés par la tempête.
+  Die Experten haben die Sturmschäden *beziffert*.
+
+  Le message *chiffré* n'a pas pu être décodé par l'ennemi.
+  Die *verschlüsselte* Nachricht konnte vom Feind nicht entschlüsselt werden.
+
+  Marie a fait *chiffrer* ses nouvelles serviettes.
+  Marie hat ihre neuen Handtücher mit einem *Monogramm* versehen lassen.
+
+  L'employé doit *chiffrer* tous les dossiers confidentiels.
+  Der Angestellte muss alle vertraulichen Akten *verschlüsseln*.
+
+  Les agents secrets *chiffrent* leurs communications.
+  Die Geheimagenten *verschlüsseln* ihre Kommunikation.
+
+  Le compositeur a soigneusement *chiffré* la basse de sa symphonie.
+  Der Komponist hat den Bass seiner Symphonie sorgfältig *beziffert*.
+
+  Nous devons *chiffrer* tous les documents avant l'archivage.
+  Wir müssen alle Dokumente vor der Archivierung *nummerieren*.
+
+  "Ces achats vont *chiffrer* à la fin du mois!"
+  "Diese Einkäufe werden sich am Monatsende ganz schön *summieren*!"
+
+  Les dégâts se *chiffrent* à des centaines de milliers d'euros.
+  Die Schäden *belaufen* sich auf Hunderttausende von Euro.
+
+  L'entreprise a *chiffré* ses objectifs pour l'année prochaine.
+  Das Unternehmen hat seine Ziele für das nächste Jahr *beziffert*.
+
+  Le pianiste étudie la basse *chiffrée* de Bach.
+  Der Pianist studiert den *bezifferten* Bass von Bach.
+
+  Les économistes ont *chiffré* l'impact de la crise.
+  Die Ökonomen haben die Auswirkungen der Krise *beziffert*.
+
+  La police a intercepté des messages *chiffrés* des criminels.
+  Die Polizei hat *verschlüsselte* Nachrichten der Kriminellen abgefangen.
+
+  Les revenus mensuels se *chiffrent* à plus de 5000 euros.
+  Die monatlichen Einnahmen *belaufen* sich auf mehr als 5000 Euro.
+
+  L'architecte a *chiffré* le coût de la rénovation.
+  Der Architekt hat die Renovierungskosten *beziffert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
