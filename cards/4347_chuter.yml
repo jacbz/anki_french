@@ -7,7 +7,7 @@ Wortart: vi
 Wort mit Artikel: chuter
 Femininum / Plural: ''
 IPA: \ʃy.te\
-Definition: fallen, sinken
+Definition: stürzen, fallen
 Register: ↗Sachtext
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -81,4 +81,28 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>tomber</i> und <i>chuter</i></div>
+    <div class="section-content">
+      <p><span class="fr">Tomber</span> (#547) bedeutet <span class="de">"fallen"</span> im allgemeinen Sinne. Es kann sowohl für Menschen und Objekte als auch im übertragenen Sinne verwendet werden, wenn jemand in einen bestimmten Zustand <span class="de">"fällt"</span>.</p>
+      <div class="examples">
+        <div class="fr">Il est tombé par terre après avoir glissé sur la peau de banane.</div>
+        <div class="de spoiler">Er fiel zu Boden, nachdem er auf der Bananenschale ausgerutscht war.</div>
+        <div class="fr">Les feuilles commencent à tomber en automne.</div>
+        <div class="de spoiler">Die Blätter beginnen im Herbst zu fallen.</div>
+        <div class="fr">Elle est tombée amoureuse dès leur première rencontre.</div>
+        <div class="de spoiler">Sie verliebte sich bei ihrer ersten Begegnung.</div>
+      </div>
+
+      <p><span class="fr">Chuter</span> beschreibt einen abrupteren oder schwerwiegenderen Sturz, oft aus der Höhe oder mit bedeutenden Konsequenzen. Es wird häufig in formelleren Kontexten verwendet und kann auch einen starken Rückgang von Zahlen oder Statistiken beschreiben.</p>
+      <div class="examples">
+        <div class="fr">Le skieur a chuté de façon spectaculaire lors de la compétition.</div>
+        <div class="de spoiler">Der Skifahrer stürzte spektakulär während des Wettkampfs.</div>
+        <div class="fr">Les prix de l'immobilier ont chuté considérablement pendant la crise.</div>
+        <div class="de spoiler">Die Immobilienpreise sind während der Krise erheblich gefallen.</div>
+        <div class="fr">La température va chuter brusquement ce soir.</div>
+        <div class="de spoiler">Die Temperatur wird heute Abend stark fallen.</div>
+      </div>
+    </div>
+  </div>
