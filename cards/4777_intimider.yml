@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il essayait de m’intimider.
-  Er versuchte, mich einzuschüchtern.
+  Il essayait de m'*intimider*.
+  Er versuchte, mich *einzuschüchtern*.
 
-  Il essaie de m’intimider.
-  Er versucht, mich einzuschüchtern.
+  Les grands élèves *intimident* parfois les plus petits dans la cour de récréation.
+  Die älteren Schüler *schüchtern* manchmal die jüngeren auf dem Schulhof *ein*.
+
+  Elle ne s'est pas laissée *intimider* par ses critiques.
+  Sie ließ sich von seiner Kritik nicht *einschüchtern*.
+
+  La présence du directeur *intimidait* toute l'équipe.
+  Die Anwesenheit des Direktors *schüchterte* das ganze Team *ein*.
+
+  Son regard sévère *intimidait* même les adultes.
+  Sein strenger Blick *schüchterte* sogar Erwachsene *ein*.
+
+  Les manifestants ne se sont pas laissés *intimider* par la police.
+  Die Demonstranten ließen sich von der Polizei nicht *einschüchtern*.
+
+  Cette nouvelle professeure *intimide* tous ses étudiants.
+  Diese neue Professorin *schüchtert* alle ihre Studenten *ein*.
+
+  Le petit garçon était complètement *intimidé* par la foule.
+  Der kleine Junge war von der Menge völlig *eingeschüchtert*.
+
+  Ces menaces ne m'*intimident* pas du tout.
+  Diese Drohungen *schüchtern* mich überhaupt nicht *ein*.
+
+  L'ambiance du grand restaurant l'*intimidait* beaucoup.
+  Die Atmosphäre des feinen Restaurants *schüchterte* ihn sehr *ein*.
+
+  Je ne me laisserai pas *intimider* par vos remarques.
+  Ich lasse mich von Ihren Bemerkungen nicht *einschüchtern*.
+
+  Les chiens agressifs *intimident* souvent les passants.
+  Aggressive Hunde *schüchtern* oft Passanten *ein*.
+
+  Son succès *intimide* beaucoup de ses collègues.
+  Sein Erfolg *schüchtert* viele seiner Kollegen *ein*.
+
+  La présentation orale l'avait complètement *intimidée*.
+  Der mündliche Vortrag hatte sie völlig *eingeschüchtert*.
+
+  Les examens finaux *intimident* toujours certains étudiants.
+  Die Abschlussprüfungen *schüchtern* manche Studenten immer *ein*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

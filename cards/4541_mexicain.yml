@@ -13,11 +13,38 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’étais couchée sur la couverture mexicaine.
-  Ich lag auf der mexikanischen Decke.
+  J'étais couchée sur la couverture *mexicaine*.
+  Ich lag auf der *mexikanischen* Decke.
 
-  Je suis allé dans un restaurant mexicain hier soir.
-  Ich war gestern Abend in einem mexikanischen Restaurant.
+  La révolution *mexicaine* a profondément changé le pays.
+  Die *mexikanische* Revolution hat das Land tiefgreifend verändert.
+
+  Les *Mexicains* sont fiers de leur patrimoine culturel.
+  Die *Mexikaner* sind stolz auf ihr kulturelles Erbe.
+
+  Cette *Mexicaine* est une artiste reconnue internationalement.
+  Diese *Mexikanerin* ist eine international anerkannte Künstlerin.
+
+  La cuisine *mexicaine* est connue pour ses saveurs épicées.
+  Die *mexikanische* Küche ist für ihre würzigen Aromen bekannt.
+
+  Mon ami *mexicain* m'a invité chez lui pour les vacances.
+  Mein *mexikanischer* Freund hat mich für die Ferien zu sich eingeladen.
+
+  La population *mexicaine* continue d'augmenter chaque année.
+  Die *mexikanische* Bevölkerung wächst weiterhin jedes Jahr.
+
+  As-tu déjà goûté le chocolat chaud *mexicain* ?
+  Hast du schon mal *mexikanische* heiße Schokolade probiert?
+
+  L'équipe de football *mexicaine* s'est qualifiée pour la coupe du monde.
+  Die *mexikanische* Fußballmannschaft hat sich für die Weltmeisterschaft qualifiziert.
+
+  Les traditions *mexicaines* se transmettent de génération en génération.
+  Die *mexikanischen* Traditionen werden von Generation zu Generation weitergegeben.
+
+  Le gouvernement *mexicain* a annoncé de nouvelles mesures économiques.
+  Die *mexikanische* Regierung hat neue wirtschaftliche Maßnahmen angekündigt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

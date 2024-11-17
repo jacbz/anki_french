@@ -689,10 +689,10 @@ u {
       font-weight: normal;
 
       &::before {
-        content: "TIPP";
+        content: "!";
         font-size: 70%;
         border-radius: 0.5em;
-        padding: 0 0.3em;
+        padding: 0 0.35em;
         margin-right: 0.5em;
         border-width: 1px;
         border-color: var(--secondary-text);

@@ -13,14 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cinq minutes sont allouées pour deux questions.
-  Für zwei Fragen stehen fünf Minuten zur Verfügung.
+  Cinq minutes sont *allouées* pour deux questions.
+  Für zwei Fragen sind fünf Minuten *vorgesehen*.
 
-  Le gouvernement a décidé d’allouer plus de fonds à l’éducation.
-  Die Regierung hat beschlossen, mehr Geld für Bildung zu bewilligen.
+  Le gouvernement a *alloué* des fonds supplémentaires pour la recherche scientifique.
+  Die Regierung hat zusätzliche Mittel für die wissenschaftliche Forschung *bewilligt*.
 
-  Le temps qui m'a été alloué est écoulé, je dois donc me dépêcher.
-  Die Zeit, die mir vorgegeben war, ist abgelaufen, deshalb muss ich mich beeilen.
+  On lui a *alloué* un délai supplémentaire pour finir son travail.
+  Man hat ihr eine zusätzliche Frist *eingeräumt*, um ihre Arbeit zu beenden.
+
+  La banque nous a *alloué* un crédit pour acheter notre maison.
+  Die Bank hat uns einen Kredit *gewährt*, um unser Haus zu kaufen.
+
+  Le temps *alloué* à cet exercice est de trente minutes.
+  Die für diese Übung *vorgesehene* Zeit beträgt dreißig Minuten.
+
+  L'entreprise *alloue* une prime de Noël à tous ses employés.
+  Das Unternehmen *gewährt* allen Mitarbeitern ein Weihnachtsgeld.
+
+  Combien de temps sera *alloué* à chaque présentation ?
+  Wie viel Zeit wird für jeden Vortrag *eingeräumt*?
+
+  Le conseil municipal a *alloué* un budget pour rénover l'école.
+  Der Stadtrat hat ein Budget für die Renovierung der Schule *bewilligt*.
+
+  Une bourse d'études lui a été *allouée* par l'université.
+  Die Universität hat ihr ein Stipendium *gewährt*.
+
+  Le département informatique s'est vu *allouer* de nouveaux ordinateurs.
+  Der IT-Abteilung wurden neue Computer *zugewiesen*.
+
+  La subvention *allouée* au projet culturel a été augmentée.
+  Der für das Kulturprojekt *bewilligte* Zuschuss wurde erhöht.
+
+  Le jury *alloue* trois minutes à chaque candidat pour se présenter.
+  Die Jury *räumt* jedem Kandidaten drei Minuten ein, um sich vorzustellen.
+
+  Une aide financière sera *allouée* aux familles dans le besoin.
+  Bedürftigen Familien wird eine finanzielle Hilfe *gewährt*.
+
+  L'association s'est fait *allouer* des locaux par la mairie.
+  Der Verein hat von der Stadtverwaltung Räumlichkeiten *zugewiesen* bekommen.
+
+  Le comité a *alloué* des ressources supplémentaires au projet.
+  Das Komitee hat dem Projekt zusätzliche Ressourcen *zugeteilt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

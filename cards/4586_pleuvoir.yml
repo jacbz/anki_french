@@ -13,35 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il trouve qu’il pleut tous les jours.
-  Er findet, dass es jeden Tag regnet.
+  Il trouve qu'il *pleut* tous les jours.
+  Er findet, dass es jeden Tag *regnet*.
 
-  Il pleut beaucoup aujourd’hui.
-  Es regnet heute viel.
+  Il a fait beau ce matin, mais maintenant il *pleut* à verse.
+  Es war heute Morgen schön, aber jetzt *regnet* es in Strömen.
 
-  Dès que j’ai quitté la maison, il a commencé à pleuvoir.
-  Sobald ich das Haus verlassen hatte, begann es zu regnen.
+  *Qu'il pleuve* ou qu'il vente, nous irons au parc demain.
+  Ob es *regnet* oder stürmt, wir gehen morgen in den Park.
 
-  Les coups pleuvent sur lui depuis qu'il a commis cette erreur.
-  Es hagelt Schläge auf ihn, seit er diesen Fehler begangen hat.
+  Les critiques *pleuvent* sur le nouveau film du réalisateur.
+  Die Kritiken *hageln* auf den neuen Film des Regisseurs ein.
 
-  Les reproches pleuvent sur elle depuis qu'elle a annoncé son départ.
-  Es hagelt Vorwürfe auf sie, seit sie ihren Abschied angekündigt hat.
+  "Il dépense l'argent comme s'il en *pleuvait*."
+  "Er gibt das Geld aus, als ob es vom Himmel *regnen* würde."
 
-  Qu'il pleuve ou qu'il vente, elle ira à son rendez-vous.
-  Ob es regnet oder schneit, sie wird zu ihrem Termin gehen.
+  À la fin du match, les bouteilles ont commencé à *pleuvoir* sur le terrain.
+  Am Ende des Spiels begannen Flaschen aufs Spielfeld zu *regnen*.
 
-  Les mauvaises nouvelles pleuvent en ce moment, il faut garder le moral.
-  Im Moment hagelt es schlechte Nachrichten, man muss die Moral hochhalten.
+  Il *pleuvait* de grosses gouttes quand je suis sorti.
+  Es *regnete* dicke Tropfen, als ich rausging.
 
-  Il pleut de grosses gouttes, prends ton parapluie.
-  Es regnet heftig, nimm deinen Regenschirm.
+  Les mauvaises notes *pleuvent* sur Marie ces derniers temps.
+  In letzter Zeit *hagelt* es schlechte Noten für Marie.
 
-  J'ai oublié de prendre mon parapluie et il se met à pleuvoir.
-  Ich habe vergessen, meinen Regenschirm mitzunehmen, und jetzt fängt es an zu regnen.
+  Pendant le festival, les confettis *pleuvaient* du ciel.
+  Während des Festivals *regneten* Konfetti vom Himmel.
 
-  Les obus pleuvent sur la ville, les habitants se cachent dans les bunkers.
-  Granaten gehen auf die Stadt nieder, die Einwohner verstecken sich in den Bunkern.
+  Les messages de félicitations *pleuvent* depuis l'annonce de ses fiançailles.
+  Seit der Ankündigung ihrer Verlobung *hagelt* es Glückwünsche.
+
+  Il *pleut* des cordes depuis ce matin.
+  Es *regnet* seit heute Morgen in Strömen.
+
+  Les coups *pleuvaient* sur le punching-ball.
+  Die Schläge *prasselten* auf den Boxsack nieder.
+
+  Il a *plu* pendant toutes les vacances d'été.
+  Es hat den ganzen Sommerurlaub *geregnet*.
+
+  Les opportunités *pleuvent* pour lui en ce moment.
+  Die Gelegenheiten *regnen* derzeit nur so auf ihn herab.
+
+  S'il *pleut*, nous resterons à la maison.
+  Wenn es *regnet*, bleiben wir zu Hause.
+
+  Il *pleut* à seaux dehors.
+  Es *schüttet* draußen wie aus Eimern.
+
+  Les cadeaux *pleuvaient* sur les enfants à Noël.
+  An Weihnachten *regnete* es Geschenke für die Kinder.
+
+  Les bombes *pleuvaient* sur la ville pendant la guerre.
+  Während des Krieges *regneten* Bomben auf die Stadt.
+
+  Il *pleut* légèrement ce matin.
+  Es *nieselt* heute Morgen.
+
+  "Il *pleut* comme vache qui pisse!"
+  "Es *gießt* in Strömen!"
+
+  Les invitations *pleuvent* depuis qu'elle est devenue célèbre.
+  Seit sie berühmt ist, *hagelt* es Einladungen.
+
+  Je pense qu'il va *pleuvoir* demain.
+  Ich glaube, morgen wird es *regnen*.
+
+  Les insultes *pleuvaient* de toutes parts.
+  Von allen Seiten *prasselten* Beleidigungen herab.
+
+  Les questions *pleuvent* sur le professeur après son cours.
+  Die Fragen *hageln* nach seinem Unterricht auf den Lehrer ein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

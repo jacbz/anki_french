@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je souscris volontiers au verdict d’un éminent psychanalyste.
-  Ich schließe mich gerne dem Urteil eines angesehenen Psychoanalytikers an.
+  Je souscris volontiers au verdict d'un *éminent* psychanalyste.
+  Ich stimme dem Urteil eines *hervorragenden* Psychoanalytikers gerne zu.
 
-  C’est un éminent professeur de droit.
-  Er ist ein hervorragender Professor für Recht.
+  Cette *éminente* scientifique a reçu le prix Nobel de physique.
+  Diese *hervorragende* Wissenschaftlerin hat den Nobelpreis für Physik erhalten.
+
+  Le professeur occupe un poste *éminent* à l'université.
+  Der Professor hat eine *herausragende* Position an der Universität inne.
+
+  Son rôle *éminent* dans la découverte du vaccin est indiscutable.
+  Seine *bedeutende* Rolle bei der Entdeckung des Impfstoffs ist unbestreitbar.
+
+  Les *éminentes* qualités de notre nouvelle directrice impressionnent tout le monde.
+  Die *hervorragenden* Qualitäten unserer neuen Direktorin beeindrucken alle.
+
+  Cet *éminent* spécialiste a publié plusieurs livres sur le sujet.
+  Dieser *hochgeschätzte* Experte hat mehrere Bücher zu dem Thema veröffentlicht.
+
+  Cette artiste *éminente* expose ses œuvres dans les plus grands musées.
+  Diese *herausragende* Künstlerin stellt ihre Werke in den größten Museen aus.
+
+  L'*éminent* professeur donnera une conférence la semaine prochaine.
+  Der *renommierte* Professor wird nächste Woche einen Vortrag halten.
+
+  Les services *éminents* qu'il a rendus à la communauté ne seront pas oubliés.
+  Die *hervorragenden* Dienste, die er für die Gemeinschaft geleistet hat, werden nicht vergessen werden.
+
+  Cette *éminente* personnalité du monde des arts nous fait l'honneur de sa présence.
+  Diese *hochrangige* Persönlichkeit aus der Kunstwelt beehrt uns mit ihrer Anwesenheit.
+
+  Son savoir *éminent* dans ce domaine est reconnu internationalement.
+  Sein *herausragendes* Wissen auf diesem Gebiet ist international anerkannt.
+
+  L'*éminente* contribution de Marie Curie à la science est indéniable.
+  Marie Curies *bedeutender* Beitrag zur Wissenschaft ist unbestreitbar.
+
+  Cet *éminent* chercheur a fait une découverte révolutionnaire.
+  Dieser *hervorragende* Forscher hat eine bahnbrechende Entdeckung gemacht.
+
+  Notre équipe compte plusieurs membres *éminents* de la communauté scientifique.
+  Unser Team umfasst mehrere *hochrangige* Mitglieder der wissenschaftlichen Gemeinschaft.
+
+  L'*éminent* philosophe donnera son avis sur la question demain.
+  Der *namhafte* Philosoph wird morgen seine Meinung zu der Frage äußern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

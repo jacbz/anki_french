@@ -13,23 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Une désignation rapide et positive est nécessaire.
-  Eine schnelle und positive Benennung ist erforderlich.
+  Une *désignation* rapide et positive est nécessaire.
+  Eine schnelle und positive *Ernennung* ist notwendig.
 
-  La désignation des membres du comité est en cours.
-  Die Benennung der Ausschussmitglieder läuft.
+  La *désignation* des marchandises doit être précise sur la facture.
+  Die *Bezeichnung* der Waren muss auf der Rechnung genau sein.
 
-  La désignation des marchandises permet de les identifier clairement.
-  Die Warenbezeichnung dient dazu, die Waren klar zu identifizieren.
+  Les étudiants attendent la *désignation* du nouveau directeur.
+  Die Studenten warten auf die *Ernennung* des neuen Direktors.
 
-  La désignation du modèle est importante pour différencier les produits.
-  Die Typenbezeichnung ist wichtig, um die Produkte zu unterscheiden.
+  La *désignation* de ce modèle n'est plus utilisée aujourd'hui.
+  Die Typen*bezeichnung* wird heute nicht mehr verwendet.
 
-  La désignation par une juridiction est un acte officiel.
-  Eine gerichtliche Bestellung ist ein offizieller Akt.
+  Sous quelle *désignation* ce médicament est-il vendu ?
+  Unter welcher *Bezeichnung* wird dieses Medikament verkauft?
 
-  La désignation légale est obligatoire pour certaines professions.
-  Die Gesetzesbezeichnung ist für einige Berufe obligatorisch.
+  La *désignation* du juge par le tribunal aura lieu demain.
+  Die gerichtliche *Beiordnung* des Richters findet morgen statt.
+
+  Sans *désignation* précise du lieu, nous ne pouvons pas livrer le colis.
+  Ohne genaue *Angabe* des Ortes können wir das Paket nicht liefern.
+
+  Le comité procédera à la *désignation* du nouveau président la semaine prochaine.
+  Das Komitee wird nächste Woche die *Designierung* des neuen Präsidenten vornehmen.
+
+  Cette *désignation* est si précise qu'on ne peut pas se tromper.
+  Diese *Bezeichnung* ist so präzis, dass man sich nicht irren kann.
+
+  Il faut remplir toutes les *désignations* sur le formulaire.
+  Man muss alle *Angaben* auf dem Formular ausfüllen.
+
+  La *désignation* de son successeur n'a pas encore été annoncée.
+  Die *Ernennung* seines Nachfolgers wurde noch nicht bekannt gegeben.
+
+  Quelle est la *désignation* officielle de ce poste ?
+  Wie lautet die offizielle *Bezeichnung* dieser Stelle?
+
+  La *désignation* des postes vacants sera publiée lundi.
+  Die *Angabe* der freien Stellen wird am Montag veröffentlicht.
+
+  Cette personne est connue sous plusieurs *désignations* différentes.
+  Diese Person ist unter verschiedenen *Bezeichnungen* bekannt.
+
+  La *désignation* du nouveau chef d'équipe a surpris tout le monde.
+  Die *Ernennung* des neuen Teamleiters hat alle überrascht.
+
+  J'ai besoin de la *désignation* exacte du produit pour passer la commande.
+  Ich brauche die genaue *Bezeichnung* des Produkts, um die Bestellung aufzugeben.
+
+  La *désignation* de ce symbole n'est pas claire dans le contexte.
+  Die *Bedeutung* dieses Symbols ist im Kontext nicht klar.
+
+  Veuillez noter la *désignation* complète de votre domicile.
+  Bitte geben Sie die vollständige *Bezeichnung* Ihres Wohnsitzes an.
+
+  Sur le document manque la *désignation* du temps et du lieu.
+  Auf dem Dokument fehlt die *Angabe* von Zeit und Ort.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La mortalité par cancer continue à décroître aux États-Unis.
-  Die Krebssterblichkeit in den Vereinigten Staaten nimmt weiter ab.
+  La *mortalité* par cancer continue à décroître aux États-Unis.
+  Die Krebs*sterblichkeit* in den USA nimmt weiterhin ab.
 
-  La mortalité infantile a diminué ces dernières années.
-  Die Säuglingssterblichkeit ist in den letzten Jahren gesunken.
+  Le taux de *mortalité* infantile a diminué de moitié en vingt ans.
+  Die Säuglings*sterblichkeits*rate hat sich in zwanzig Jahren halbiert.
 
-  Le taux de mortalité a baissé considérablement ces dernières années grâce aux progrès de la médecine.
-  Die Sterblichkeitsrate ist in den letzten Jahren dank der Fortschritte in der Medizin deutlich zurückgegangen.
+  Cette épidémie a causé une *mortalité* importante chez les oiseaux migrateurs.
+  Diese Epidemie hat eine hohe *Sterblichkeit* unter den Zugvögeln verursacht.
 
-  Le taux de mortalité infantile est un indicateur important de la santé d'une population.
-  Die Säuglingssterblichkeitsrate ist ein wichtiger Indikator für die Gesundheit einer Bevölkerung.
+  Les chercheurs étudient la *mortalité* liée aux maladies cardiovasculaires.
+  Die Forscher untersuchen die *Sterblichkeit* durch Herz-Kreislauf-Erkrankungen.
+
+  La *mortalité* routière a atteint son niveau le plus bas depuis dix ans.
+  Die Verkehrs*sterblichkeit* hat ihren niedrigsten Stand seit zehn Jahren erreicht.
+
+  Ces nouvelles mesures visent à réduire la *mortalité* dans les hôpitaux.
+  Diese neuen Maßnahmen zielen darauf ab, die *Sterblichkeit* in Krankenhäusern zu reduzieren.
+
+  La *mortalité* due à cette maladie varie selon les régions.
+  Die *Sterblichkeit* durch diese Krankheit variiert je nach Region.
+
+  Les statistiques montrent une baisse de la *mortalité* chez les personnes âgées.
+  Die Statistiken zeigen einen Rückgang der *Sterblichkeit* bei älteren Menschen.
+
+  La table de *mortalité* permet aux assureurs de calculer leurs primes.
+  Die *Sterblichkeits*tabelle ermöglicht es Versicherern, ihre Prämien zu berechnen.
+
+  Le taux de *mortalité* est plus élevé en hiver qu'en été.
+  Die *Sterblichkeits*rate ist im Winter höher als im Sommer.
+
+  La *mortalité* humaine nous rappelle l'importance de profiter de chaque jour.
+  Die menschliche *Sterblichkeit* erinnert uns daran, jeden Tag zu genießen.
+
+  Les médecins ont réussi à réduire la *mortalité* après les opérations.
+  Die Ärzte konnten die *Sterblichkeit* nach Operationen senken.
+
+  La *mortalité* des abeilles inquiète les scientifiques depuis des années.
+  Die *Sterblichkeit* der Bienen beunruhigt Wissenschaftler seit Jahren.
+
+  Une hausse de la *mortalité* a été observée pendant la canicule.
+  Während der Hitzewelle wurde eine erhöhte *Sterblichkeit* beobachtet.
+
+  L'indice de *mortalité* varie considérablement selon les pays.
+  Die *Sterblichkeits*rate variiert erheblich zwischen den Ländern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

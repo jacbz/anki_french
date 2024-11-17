@@ -13,14 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La population doit être mieux informée au sujet.
-  Die Bevölkerung muss besser über das Thema informiert werden.
+  La population doit être mieux *informée* sur ce sujet.
+  Die Bevölkerung muss über dieses Thema besser *informiert* werden.
 
-  Je suis bien informé sur le sujet.
-  Ich bin gut über das Thema informiert.
+  En tant que citoyens *informés*, nous devons agir de manière responsable.
+  Als *informierte* Bürger müssen wir verantwortungsvoll handeln.
 
-  Le magasin sera fermé jusqu'à plus ample informé.
-  Der Laden bleibt bis auf Weiteres geschlossen.
+  Les sources bien *informées* indiquent que les négociations progressent.
+  Gut *informierte* Quellen deuten darauf hin, dass die Verhandlungen vorankommen.
+
+  Jusqu'à plus ample *informé*, nous maintenons notre position initiale.
+  Bis wir *Genaueres* wissen, behalten wir unsere ursprüngliche Position bei.
+
+  Je me considère comme quelqu'un de bien *informé* sur l'actualité.
+  Ich halte mich für jemanden, der über das aktuelle Geschehen gut *informiert* ist.
+
+  Le public *informé* a réagi positivement aux nouvelles mesures.
+  Das *informierte* Publikum hat positiv auf die neuen Maßnahmen reagiert.
+
+  Notre journal reste toujours bien *informé* sur les questions locales.
+  Unsere Zeitung bleibt in lokalen Angelegenheiten stets gut *informiert*.
+
+  Plus on est *informé*, plus on peut prendre de bonnes décisions.
+  Je besser man *informiert* ist, desto bessere Entscheidungen kann man treffen.
+
+  Le juge attendra un plus ample *informé* avant de rendre sa décision.
+  Der Richter wartet auf weitere *Informationen*, bevor er sein Urteil fällt.
+
+  Les consommateurs *informés* font des choix plus écologiques.
+  *Informierte* Verbraucher treffen umweltbewusstere Entscheidungen.
+
+  Elle est toujours très bien *informée* des dernières tendances.
+  Sie ist über die neuesten Trends immer sehr gut *informiert*.
+
+  Un lecteur *informé* peut mieux comprendre les enjeux actuels.
+  Ein *informierter* Leser kann die aktuellen Herausforderungen besser verstehen.
+
+  Les médecins doivent garder leurs patients bien *informés*.
+  Die Ärzte müssen ihre Patienten gut *informiert* halten.
+
+  Le personnel doit être *informé* des changements à venir.
+  Das Personal muss über die kommenden Änderungen *informiert* werden.
+
+  Les investisseurs *informés* ont pu éviter les pertes majeures.
+  *Informierte* Anleger konnten größere Verluste vermeiden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ton empereur te demande ta loyauté.
-  Dein Kaiser bittet dich um deine Loyalität.
+  Ton *empereur* te demande ta loyauté.
+  Dein *Kaiser* verlangt deine Loyalität.
 
-  Napoléon Bonaparte était un grand empereur.
-  Napoleon Bonaparte war ein großer Kaiser.
+  Les *empereurs* romains étaient adorés comme des dieux vivants.
+  Die römischen *Kaiser* wurden als lebende Götter verehrt.
+
+  L'*empereur* Charlemagne a unifié une grande partie de l'Europe.
+  *Kaiser* Karl der Große hat einen großen Teil Europas vereint.
+
+  Les *empereurs* du Saint-Empire étaient choisis par des princes-électeurs.
+  Die *Kaiser* des Heiligen Römischen Reiches wurden von Kurfürsten gewählt.
+
+  L'*empereur* Napoléon s'est couronné lui-même à Notre-Dame de Paris.
+  *Kaiser* Napoleon krönte sich selbst in der Notre-Dame von Paris.
+
+  Le dernier *empereur* de Chine est monté sur le trône à l'âge de trois ans.
+  Der letzte *Kaiser* von China bestieg den Thron im Alter von drei Jahren.
+
+  L'*empereur* et l'impératrice ont fait leur première apparition publique.
+  Der *Kaiser* und die Kaiserin hatten ihren ersten öffentlichen Auftritt.
+
+  Le manchot *empereur* peut survivre à des températures extrêmement basses.
+  Der Kaiser*pinguin* kann bei extrem niedrigen Temperaturen überleben.
+
+  "Du temps de l'*Empereur*, tout était différent", disait mon grand-père.
+  "Zu Zeiten des *Kaisers* war alles anders", sagte mein Großvater.
+
+  La foule criait : "Vive l'*Empereur* !"
+  Die Menge rief: "Lang lebe der *Kaiser*!"
+
+  Pierre s'est proclamé *empereur* de son petit commerce.
+  Pierre hat sich zum *Kaiser* seines kleinen Geschäfts erklärt.
+
+  L'*empereur* Auguste a établi une longue période de paix à Rome.
+  *Kaiser* Augustus begründete eine lange Friedenszeit in Rom.
+
+  Le jeune *empereur* Marc-Aurèle était connu pour sa sagesse.
+  Der junge *Kaiser* Mark Aurel war für seine Weisheit bekannt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

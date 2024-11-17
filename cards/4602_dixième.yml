@@ -13,20 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On ne comprend pas le dixième de ce que vous dites.
-  Wir verstehen nicht einmal ein Zehntel von dem, was Sie sagen.
+  On ne comprend pas le *dixième* de ce que vous dites.
+  Man versteht nicht ein *Zehntel* von dem, was Sie sagen.
 
-  Je suis arrivé dixième à la course.
-  Ich bin Zehnter im Rennen geworden.
+  Le *dixième* candidat a finalement été sélectionné pour le poste.
+  Der *zehnte* Kandidat wurde schließlich für die Stelle ausgewählt.
 
-  Le dixième étage de l'immeuble est magnifique.
-  Der zehnte Stock des Gebäudes ist wunderschön.
+  Elle habite au *dixième* étage d'un immeuble moderne.
+  Sie wohnt im *zehnten* Stock eines modernen Gebäudes.
 
-  C'est arrivé en un dixième de seconde.
-  Das geschah in einer Zehntelsekunde.
+  J'ai acheté un *dixième* de billet à la loterie nationale.
+  Ich habe ein *Zehntel*los bei der nationalen Lotterie gekauft.
 
-  Les neuf dixièmes des gens pensent que le changement climatique est un problème réel.
-  Neunzig Prozent der Menschen denken, dass der Klimawandel ein echtes Problem ist.
+  La voiture a franchi la ligne d'arrivée en *dixième* position.
+  Das Auto überquerte die Ziellinie an *zehnter* Stelle.
+
+  Le *dixième* arrondissement de Paris est connu pour ses restaurants.
+  Das *zehnte* Arrondissement von Paris ist für seine Restaurants bekannt.
+
+  C'était la *dixième* fois qu'elle lui expliquait la situation.
+  Es war das *zehnte* Mal, dass sie ihm die Situation erklärte.
+
+  Les *dixièmes* de seconde comptent dans cette compétition.
+  Die *Zehntel*sekunden zählen in diesem Wettbewerb.
+
+  Il ne reste que le *dixième* du gâteau.
+  Es ist nur noch ein *Zehntel* vom Kuchen übrig.
+
+  Au *dixième* siècle, les Vikings ont colonisé le Groenland.
+  Im *zehnten* Jahrhundert kolonisierten die Wikinger Grönland.
+
+  Les *neuf dixièmes* des participants ont voté pour le changement.
+  *Neun Zehntel* der Teilnehmer haben für die Änderung gestimmt.
+
+  Le professeur a corrigé le *dixième* chapitre de mon mémoire.
+  Der Professor hat das *zehnte* Kapitel meiner Abschlussarbeit korrigiert.
+
+  Marie est arrivée en *dixième* position dans la course.
+  Marie kam auf dem *zehnten* Platz beim Rennen an.
+
+  Le *dixième* anniversaire de leur mariage approche.
+  Der *zehnte* Hochzeitstag rückt näher.
+
+  Cette entreprise ne représente qu'un *dixième* du marché total.
+  Dieses Unternehmen macht nur ein *Zehntel* des Gesamtmarkts aus.
+
+  Le *dixième* jour du mois, il y aura une réunion importante.
+  Am *zehnten* Tag des Monats wird es eine wichtige Besprechung geben.
+
+  Il ne reste qu'un *dixième* de la batterie de mon téléphone.
+  Nur noch ein *Zehntel* des Handyakkus ist übrig.
+
+  Le *dixième* concurrent a abandonné la course.
+  Der *zehnte* Teilnehmer hat das Rennen aufgegeben.
+
+  Elle est la *dixième* de sa famille à étudier la médecine.
+  Sie ist die *Zehnte* in ihrer Familie, die Medizin studiert.
+
+  Un *dixième* des revenus sera consacré aux œuvres caritatives.
+  Ein *Zehntel* der Einnahmen wird für wohltätige Zwecke verwendet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

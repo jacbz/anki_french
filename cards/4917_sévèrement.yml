@@ -13,26 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mon père m’aurait sévèrement corrigé.
-  Mein Vater hätte mich streng gemaßregelt.
+  Mon père m'aurait *sévèrement* corrigé.
+  Mein Vater hätte mich *streng* zurechtgewiesen.
 
-  Les possibilités de promotion sont sévèrement réduites ou inexistantes.
-  Chancen für die Förderung sind stark eingeschränkt oder gar nicht vorhanden.
+  La critique a *sévèrement* jugé son dernier film.
+  Die Kritik ist mit seinem letzten Film *hart* ins Gericht gegangen.
 
-  La jeunesse dans son ensemble est sévèrement touchée.
-  Auch die Jugendlichen sind stark betroffen.
+  Notre équipe a été *sévèrement* battue lors du match final.
+  Unsere Mannschaft musste im Finale eine *schwere* Niederlage hinnehmen.
 
-  Le professeur a puni l’élève sévèrement.
-  Der Lehrer hat den Schüler streng bestraft.
+  Le patient est *sévèrement* atteint d'une maladie rare.
+  Der Patient ist *schwer* an einer seltenen Krankheit erkrankt.
 
-  Le professeur a jugé sévèrement la copie de Pierre, car elle était pleine de fautes.
-  Der Lehrer ist mit der Arbeit von Peter hart ins Gericht gegangen, da sie voller Fehler war.
+  Les parents doivent *sévèrement* encadrer l'utilisation des écrans.
+  Die Eltern müssen die Bildschirmzeit *streng* begrenzen.
 
-  L'équipe a été sévèrement battue par ses adversaires.
-  Die Mannschaft musste eine schwere Niederlage gegen ihre Gegner hinnehmen.
+  Le règlement est *sévèrement* appliqué dans cette école.
+  Die Regeln werden an dieser Schule *streng* durchgesetzt.
 
-  Mais, il faut surtout sévèrement punir la fraude.
-  Betrug ist aber vor allem strengstens zu bestrafen.
+  Le boxeur a été *sévèrement* touché à la tête.
+  Der Boxer wurde am Kopf *schwer* getroffen.
+
+  La police contrôle *sévèrement* la vitesse sur cette route.
+  Die Polizei kontrolliert die Geschwindigkeit auf dieser Straße *streng*.
+
+  Les fraudeurs seront *sévèrement* punis.
+  Die Betrüger werden *hart* bestraft.
+
+  Cette entreprise a été *sévèrement* touchée par la crise.
+  Dieses Unternehmen wurde von der Krise *schwer* getroffen.
+
+  Le public a *sévèrement* critiqué cette décision.
+  Die Öffentlichkeit hat diese Entscheidung *scharf* kritisiert.
+
+  Les examens sont *sévèrement* notés dans cette université.
+  Die Prüfungen werden an dieser Universität *streng* benotet.
+
+  Le gouvernement a *sévèrement* restreint les importations.
+  Die Regierung hat die Einfuhren *streng* beschränkt.
+
+  Les conditions météorologiques ont *sévèrement* perturbé le trafic aérien.
+  Die Wetterbedingungen haben den Flugverkehr *schwer* beeinträchtigt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

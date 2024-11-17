@@ -13,23 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ces valeurs sont fermement ancrées dans notre héritage.
-  Diese Werte sind fest in unserem Erbe verankert.
+  Ces valeurs sont fermement *ancrées* dans notre héritage.
+  Diese Werte sind fest in unserem Erbe *verankert*.
 
-  Le bateau est ancré dans le port.
-  Das Schiff ist im Hafen verankert.
+  Le navire s'est *ancré* dans la baie pour la nuit.
+  Das Schiff hat in der Bucht für die Nacht *geankert*.
 
-  Le bateau était ancré dans la rade, attendant l'arrivée du pilote.
-  Das Schiff lag auf der Reede und wartete auf die Ankunft des Lotsen.
+  Les préjugés se sont profondément *ancrés* dans son esprit.
+  Die Vorurteile haben sich tief in seinem Geist *festgesetzt*.
 
-  Ses valeurs sont ancrées dans la tradition familiale.
-  Seine Werte sind in der Familientradition verankert.
+  Le capitaine a *ancré* le bateau près de la côte.
+  Der Kapitän hat das Boot nahe der Küste *verankert*.
 
-  La peur s'est ancrée dans le cœur des habitants.
-  Die Angst hat sich in die Herzen der Einwohner festgesetzt.
+  Cette décision s'est *ancrée* dans ma mémoire.
+  Diese Entscheidung hat sich in meinem Gedächtnis *festgesetzt*.
 
-  Il a cette idée ancrée dans la tête, même si je lui ai prouvé le contraire.
-  Diese Idee hat sich in seinem Kopf festgesetzt, obwohl ich ihm das Gegenteil bewiesen habe.
+  Il faut *ancrer* solidement la cheminée au toit.
+  Der Schornstein muss fest im Dach *verankert* werden.
+
+  Le parti s'est *ancré* dans cette région depuis des années.
+  Die Partei hat sich seit Jahren in dieser Region *festgesetzt*.
+
+  Les ingénieurs ont *ancré* le barrage dans la roche.
+  Die Ingenieure haben den Damm im Fels *verankert*.
+
+  Le bateau est *ancré* dans la rade depuis ce matin.
+  Das Boot liegt seit heute Morgen auf der Reede vor *Anker*.
+
+  Cette habitude s'est *ancrée* dans son quotidien.
+  Diese Gewohnheit hat sich in seinem Alltag *festgesetzt*.
+
+  Nous devons *ancrer* ce câble pour assurer la stabilité.
+  Wir müssen dieses Kabel zur Stabilisierung *verankern*.
+
+  La peur s'est *ancrée* dans leurs cœurs.
+  Die Angst hat sich in ihren Herzen *festgesetzt*.
+
+  Les marins ont *ancré* le yacht dans une crique protégée.
+  Die Seeleute haben die Yacht in einer geschützten Bucht *verankert*.
+
+  Son succès l'a solidement *ancré* dans sa position.
+  Sein Erfolg hat ihn fest in seiner Position *verankert*.
+
+  Cette croyance est profondément *ancrée* dans la culture locale.
+  Dieser Glaube ist tief in der lokalen Kultur *verankert*.
+
+  La tradition s'est *ancrée* dans la société au fil des siècles.
+  Die Tradition hat sich im Laufe der Jahrhunderte in der Gesellschaft *verankert*.
+
+  Les techniciens doivent *ancrer* le mur pour éviter l'effondrement.
+  Die Techniker müssen die Mauer *verankern*, um einen Einsturz zu vermeiden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

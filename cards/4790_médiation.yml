@@ -13,23 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les tentatives américaines de médiation ont continué.
-  Die Vermittlungsversuche der USA wurden fortgesetzt.
+  Les tentatives américaines de *médiation* ont continué.
+  Die amerikanischen *Vermittlungs*versuche wurden fortgesetzt.
 
-  La médiation est souvent utilisée pour résoudre des conflits.
-  Vermittlung wird oft genutzt, um Konflikte zu lösen.
+  Le service de *médiation* des dettes aide les gens à gérer leurs problèmes financiers.
+  Die *Schuldner*beratung hilft Menschen bei ihren finanziellen Problemen.
 
-  Le gouvernement a proposé une médiation des négociations entre les deux parties.
-  Die Regierung hat eine Vermittlung bei den Verhandlungen zwischen den beiden Parteien vorgeschlagen.
+  La *médiation* entre les deux pays a été confiée à l'ONU.
+  Die *Vermittlung* zwischen den beiden Ländern wurde der UNO übertragen.
 
-  Il a reçu une proposition de médiation de la part de son ami.
-  Er hat einen Vermittlungsvorschlag von seinem Freund erhalten.
+  Grâce à la *médiation* du syndicat, la grève a pris fin.
+  Dank der *Schlichtung* durch die Gewerkschaft wurde der Streik beendet.
 
-  Le médiateur a proposé sa médiation dans un conflit entre deux familles.
-  Der Mediator hat angeboten, in einem Konflikt zwischen zwei Familien zu vermitteln.
+  Le ministre des Affaires étrangères a proposé sa *médiation* dans ce conflit.
+  Der Außenminister bot seine *Vermittlung* in diesem Konflikt an.
 
-  Le service médiation de dettes peut vous aider à trouver une solution pour vos problèmes financiers.
-  Die Schuldnerberatungsstelle kann Ihnen helfen, eine Lösung für Ihre finanziellen Probleme zu finden.
+  La *médiation* culturelle permet aux jeunes de découvrir l'art moderne.
+  Durch die kulturelle *Vermittlung* können junge Menschen moderne Kunst entdecken.
+
+  L'association propose une *médiation* familiale pour les couples en difficulté.
+  Der Verein bietet *Schlichtung* für Paare in Schwierigkeiten an.
+
+  La *médiation* par vidéoconférence devient de plus en plus courante.
+  *Schlichtung* per Videokonferenz wird immer häufiger.
+
+  Sans *médiation* extérieure, les négociations n'auraient pas abouti.
+  Ohne externe *Vermittlung* wären die Verhandlungen nicht erfolgreich gewesen.
+
+  La *médiation* scolaire aide à résoudre les conflits entre élèves.
+  Die schulische *Schlichtung* hilft bei der Lösung von Konflikten zwischen Schülern.
+
+  Le processus de *médiation* a duré trois mois.
+  Der *Schlichtungs*prozess dauerte drei Monate.
+
+  Une nouvelle proposition de *médiation* a été présentée hier.
+  Gestern wurde ein neuer *Vermittlungs*vorschlag vorgelegt.
+
+  La *médiation* par internet facilite la résolution des conflits.
+  Online-*Schlichtung* erleichtert die Konfliktlösung.
+
+  Le centre de *médiation* est ouvert du lundi au vendredi.
+  Die *Schlichtungs*stelle ist von Montag bis Freitag geöffnet.
+
+  La *médiation* internationale a permis d'éviter une guerre.
+  Die internationale *Vermittlung* hat einen Krieg verhindert.
+
+  L'entreprise fait appel à la *médiation* pour régler ses différends.
+  Das Unternehmen nutzt *Schlichtung* zur Beilegung von Streitigkeiten.
+
+  Les services de *médiation* sont gratuits pour les citoyens.
+  Die *Schlichtungs*dienste sind für Bürger kostenlos.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,14 +13,50 @@ Register: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’avais bossé dessus toute la nuit.
-  Ich hatte die ganze Nacht daran gearbeitet.
+  J'avais *bossé* dessus toute la nuit.
+  Ich hatte die ganze Nacht daran *geschuftet*.
 
-  Je bosse beaucoup en ce moment.
-  Ich arbeite im Moment viel.
+  "Je dois *bosser* tous les jours pour payer mon loyer."
+  "Ich muss jeden Tag *schuften*, um meine Miete zu bezahlen."
 
-  J'ai passé toute la semaine à bosser mon examen de mathématiques.
-  Ich habe die ganze Woche damit verbracht, für meine Matheprüfung zu büffeln.
+  Elle a passé tout le week-end à *bosser* ses examens.
+  Sie hat das ganze Wochenende für ihre Prüfungen *gebüffelt*.
+
+  "On *bosse* comme des fous sur ce projet depuis des semaines."
+  "Wir *schuften* wie verrückt seit Wochen an diesem Projekt."
+
+  Pierre *bosse* ses maths tous les soirs.
+  Pierre *büffelt* jeden Abend Mathe.
+
+  "Tu as assez *bossé* aujourd'hui, rentre chez toi."
+  "Du hast heute genug *gearbeitet*, geh nach Hause."
+
+  Les étudiants *bossent* jour et nuit avant les examens finaux.
+  Die Studenten *büffeln* Tag und Nacht vor den Abschlussprüfungen.
+
+  "Je *bosse* en usine depuis quinze ans."
+  "Ich *arbeite* seit fünfzehn Jahren in der Fabrik."
+
+  Elle *bosse* dur pour devenir médecin.
+  Sie *schuftet* hart dafür, Ärztin zu werden.
+
+  "On a *bossé* dix heures de suite sans pause."
+  "Wir haben zehn Stunden am Stück ohne Pause *geschuftet*."
+
+  Marc doit *bosser* son français s'il veut réussir.
+  Marc muss sein Französisch *büffeln*, wenn er Erfolg haben will.
+
+  "Je *bosse* ici depuis ce matin."
+  "Ich *arbeite* seit heute Morgen hier."
+
+  Il faut que je *bosse* encore cette leçon avant demain.
+  Ich muss diese Lektion noch bis morgen *büffeln*.
+
+  "Arrête de *bosser* autant, tu vas tomber malade !"
+  "Hör auf, so viel zu *schuften*, du wirst noch krank!"
+
+  Les élèves *bossent* leur présentation pour lundi.
+  Die Schüler *büffeln* für ihre Präsentation am Montag.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

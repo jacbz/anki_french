@@ -13,14 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La coopération entre pays voisins était quasiment inexistante.
-  Die Zusammenarbeit zwischen den Nachbarländern war praktisch nicht vorhanden.
+  La coopération entre pays voisins était quasiment *inexistante*.
+  Die Zusammenarbeit zwischen Nachbarländern war praktisch *nicht vorhanden*.
 
-  Cet objet est inexistant.
-  Dieses Objekt existiert nicht.
+  Dans les années 1950, l'Internet était encore *inexistant*.
+  In den 1950er Jahren war das Internet noch *nicht existent*.
 
-  La télévision était encore inexistante à l'époque.
-  Das Fernsehen existierte noch nicht zu dieser Zeit.
+  "Ce type est complètement *inexistant*, il ne fait que suivre les autres."
+  "Dieser Typ ist völlig *bedeutungslos*, er läuft nur anderen hinterher."
+
+  La frontière entre réalité et fiction devient *inexistante* dans ce roman.
+  Die Grenze zwischen Realität und Fiktion wird in diesem Roman *nicht existent*.
+
+  Son soutien était totalement *inexistant* pendant cette période difficile.
+  Seine Unterstützung war während dieser schwierigen Zeit völlig *nutzlos*.
+
+  Les résultats de cette expérience sont *inexistants*.
+  Die Ergebnisse dieses Experiments sind gleich *Null*.
+
+  À cette altitude, la végétation est presque *inexistante*.
+  In dieser Höhe ist die Vegetation fast *nicht vorhanden*.
+
+  Le service après-vente de cette entreprise est *inexistant*.
+  Der Kundenservice dieses Unternehmens ist *nicht existent*.
+
+  Dans ce quartier, les espaces verts sont *inexistants*.
+  In diesem Viertel sind Grünflächen *nicht vorhanden*.
+
+  La communication entre les deux départements est *inexistante*.
+  Die Kommunikation zwischen den beiden Abteilungen ist *nicht existent*.
+
+  Les preuves de son innocence sont *inexistantes*.
+  Die Beweise für seine Unschuld sind *nicht vorhanden*.
+
+  La motivation des élèves était *inexistante* ce matin-là.
+  Die Motivation der Schüler war an diesem Morgen gleich *Null*.
+
+  Le contrôle qualité dans cette usine est pratiquement *inexistant*.
+  Die Qualitätskontrolle in dieser Fabrik ist praktisch *nicht existent*.
+
+  Les chances de réussite semblent *inexistantes*.
+  Die Erfolgschancen scheinen *nicht existent*.
+
+  La sécurité dans ce bâtiment est *inexistante*.
+  Die Sicherheit in diesem Gebäude ist *nicht vorhanden*.
+
+  L'influence de ce parti politique est devenue *inexistante*.
+  Der Einfluss dieser politischen Partei ist *bedeutungslos* geworden.
+
+  Le wifi est *inexistant* dans certaines zones rurales.
+  WLAN ist in manchen ländlichen Gebieten *nicht vorhanden*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

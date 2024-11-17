@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Certes la fillette semblait précoce.
-  Das Mädchen schien zwar frühreif zu sein.
+  Certes la *fillette* semblait précoce.
+  Gewiss schien das *Mädchen* frühreif.
 
-  La fillette joue avec sa poupée.
-  Das kleine Mädchen spielt mit ihrer Puppe.
+  Les *fillettes* jouaient à la marelle dans la cour.
+  Die *Mädchen* spielten Himmel und Hölle auf dem Hof.
+
+  Cette *fillette* de huit ans lit déjà des romans.
+  Dieses acht Jahre alte *Mädchen* liest schon Romane.
+
+  "Viens ici, *fillette*, je vais te raconter une histoire."
+  "Komm her, *Mädchen*, ich erzähle dir eine Geschichte."
+
+  Ma sœur n'est plus une *fillette*, elle va bientôt avoir quinze ans.
+  Meine Schwester ist kein kleines *Mädchen* mehr, sie wird bald fünfzehn.
+
+  Une *fillette* aux nattes rousses dessinait sur le trottoir.
+  Ein *Mädchen* mit roten Zöpfen malte auf dem Gehweg.
+
+  Les *fillettes* de sa classe ont organisé une fête surprise.
+  Die *Mädchen* aus ihrer Klasse haben eine Überraschungsparty organisiert.
+
+  La timide *fillette* s'est finalement fait des amies.
+  Das schüchterne *Mädchen* hat endlich Freundinnen gefunden.
+
+  Notre voisine garde des *fillettes* après l'école.
+  Unsere Nachbarin betreut nach der Schule kleine *Mädchen*.
+
+  Une petite *fillette* aux yeux verts m'a souri dans le bus.
+  Ein kleines *Mädchen* mit grünen Augen hat mich im Bus angelächelt.
+
+  Deux *fillettes* en uniforme attendaient devant l'école.
+  Zwei *Mädchen* in Uniform warteten vor der Schule.
+
+  As-tu vu la *fillette* qui vient d'emménager à côté ?
+  Hast du das *Mädchen* gesehen, das gerade nebenan eingezogen ist?
+
+  Il servait le vin dans des *fillettes* pour le déjeuner.
+  Er servierte den Wein zum Mittagessen in *Drittelliter*-Flaschen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il inaugura les fêtes célébrant le centenaire de la révolution.
-  Er eröffnete die Feierlichkeiten zum hundertsten Jahrestag der Revolution.
+  Il *inaugura* les fêtes célébrant le centenaire de la révolution.
+  Er *eröffnete* die Feierlichkeiten zum hundertjährigen Jubiläum der Revolution.
 
-  Le président va inaugurer la nouvelle bibliothèque.
-  Der Präsident wird die neue Bibliothek einweihen.
+  Le maire *inaugurera* demain la nouvelle bibliothèque municipale.
+  Der Bürgermeister wird morgen die neue Stadtbibliothek *einweihen*.
+
+  La statue *sera inaugurée* par le président lui-même.
+  Die Statue wird vom Präsidenten selbst *enthüllt* werden.
+
+  Cette exposition *inaugure* une nouvelle ère dans l'histoire de l'art moderne.
+  Diese Ausstellung *leitet* eine neue Ära in der Geschichte der modernen Kunst *ein*.
+
+  Les jeunes mariés *inaugurent* leur nouvelle maison ce weekend.
+  Die Frischvermählten *weihen* ihr neues Haus dieses Wochenende *ein*.
+
+  Le pont *a été inauguré* hier en présence de nombreux citoyens.
+  Die Brücke wurde gestern im Beisein vieler Bürger *für den Verkehr freigegeben*.
+
+  Cette décision *inaugure* une politique plus transparente.
+  Diese Entscheidung *führt* eine transparentere Politik *ein*.
+
+  Nous *inaugurons* aujourd'hui une nouvelle méthode d'enseignement.
+  Wir *führen* heute eine neue Lehrmethode *ein*.
+
+  La compagnie aérienne *inaugure* une nouvelle ligne vers l'Asie.
+  Die Fluggesellschaft *eröffnet* eine neue Strecke nach Asien.
+
+  Cette réforme *inaugure* une période de changements profonds.
+  Diese Reform *leitet* eine Zeit tiefgreifender Veränderungen *ein*.
+
+  L'entreprise *inaugurera* sa nouvelle usine le mois prochain.
+  Das Unternehmen wird seinen neuen Betrieb nächsten Monat *einweihen*.
+
+  Le festival *sera inauguré* par un concert en plein air.
+  Das Festival wird mit einem Open-Air-Konzert *eröffnet* werden.
+
+  Les étudiants *inaugurent* leur nouvelle salle de sport aujourd'hui.
+  Die Studenten *weihen* ihre neue Sporthalle heute *ein*.
+
+  Le musée *a inauguré* une exposition temporaire sur l'impressionnisme.
+  Das Museum hat eine temporäre Ausstellung über den Impressionismus *eröffnet*.
+
+  Cette découverte *inaugure* une nouvelle approche scientifique.
+  Diese Entdeckung *leitet* einen neuen wissenschaftlichen Ansatz *ein*.
+
+  Le centre commercial *sera inauguré* au printemps prochain.
+  Das Einkaufszentrum wird im nächsten Frühling *eröffnet* werden.
+
+  Nous *inaugurons* ce soir notre nouveau téléviseur.
+  Wir *weihen* heute Abend unseren neuen Fernseher *ein*.
+
+  La place rénovée *sera inaugurée* lors d'une cérémonie officielle.
+  Der renovierte Platz wird bei einer offiziellen Zeremonie *eingeweiht* werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

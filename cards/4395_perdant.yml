@@ -13,23 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis le plus grand perdant.
-  Ich bin der größte Verlierer.
+  Je suis le plus grand *perdant*.
+  Ich bin der größte *Verlierer*.
 
-  Il ne veut pas être le perdant de la compétition.
-  Er will nicht der Verlierer des Wettbewerbs sein.
+  Il déteste être un *perdant* et perd souvent son sang-froid.
+  Er hasst es, ein *Verlierer* zu sein, und verliert oft die Beherrschung.
 
-  Pierre est un mauvais perdant, il se met toujours en colère quand il perd.
-  Pierre ist ein schlechter Verlierer, er wird immer wütend, wenn er verliert.
+  La *perdante* a félicité sa rivale après le match.
+  Die *Verliererin* hat ihrer Rivalin nach dem Match gratuliert.
 
-  Le cheval perdant est parti au galop vers la ligne d'arrivée.
-  Das Verliererpferd ist im Galopp zur Ziellinie gerannt.
+  Marie est une belle *perdante* : elle a accepté sa défaite avec le sourire.
+  Marie ist eine gute *Verliererin*: Sie hat ihre Niederlage mit einem Lächeln akzeptiert.
 
-  Il a l'air d'être perdant dans cette affaire.
-  Er scheint in dieser Angelegenheit schlecht wegzukommen.
+  Son frère est un mauvais *perdant* qui refuse d'admettre ses erreurs.
+  Sein Bruder ist ein schlechter *Verlierer*, der seine Fehler nicht eingestehen will.
 
-  Ils partent perdants dans cette négociation.
-  Sie haben von vornherein schlechte Erfolgsaussichten in dieser Verhandlung.
+  Dans ce conflit, il n'y aura que des *perdants*.
+  In diesem Konflikt wird es nur *Verlierer* geben.
+
+  Le jury a offert un prix de consolation aux *perdants* du concours.
+  Die Jury hat den *Verlierern* des Wettbewerbs einen Trostpreis überreicht.
+
+  Mon billet de loterie était *perdant* cette fois-ci.
+  Mein Lotterielos war diesmal eine *Niete*.
+
+  Tous les numéros *perdants* seront affichés demain.
+  Alle *nicht gewinnenden* Nummern werden morgen ausgehängt.
+
+  J'ai parié sur un cheval *perdant* aux courses.
+  Ich habe bei den Rennen auf ein *verliererisches* Pferd gesetzt.
+
+  Dans cette négociation, nous sommes clairement *perdants*.
+  Bei dieser Verhandlung kommen wir eindeutig *schlecht* weg.
+
+  La partie *perdante* devra payer les frais d'avocat.
+  Die *unterlegene* Partei muss die Anwaltskosten tragen.
+
+  Les *perdants* du premier tour peuvent encore se qualifier.
+  Die *Verlierer* der ersten Runde können sich noch qualifizieren.
+
+  "C'est un éternel *perdant*", a-t-elle soupiré avec déception.
+  "Er ist ein ewiger *Verlierer*", seufzte sie enttäuscht.
+
+  Il est parti *perdant* dans cette compétition.
+  Er ist von vornherein *chancenlos* in diesen Wettbewerb gegangen.
+
+  Tout le monde le donnait *perdant*, mais il a gagné.
+  Alle hielten ihn für den *Verlierer*, aber er hat gewonnen.
+
+  Les *perdants* ont chaleureusement applaudi les vainqueurs.
+  Die *Verlierer* haben den Siegern herzlich applaudiert.
+
+  Cette entreprise embauche souvent d'anciens *perdants* pour leur donner une seconde chance.
+  Diese Firma stellt oft ehemalige *Verlierer* ein, um ihnen eine zweite Chance zu geben.
+
+  Elle n'est pas *perdante* dans cet échange.
+  Sie kommt bei diesem Tausch nicht *schlecht* weg.
+
+  Le *perdant* du procès a immédiatement fait appel.
+  Der *Verlierer* des Prozesses hat sofort Berufung eingelegt.
+
+  Ces investissements se sont révélés *perdants* à long terme.
+  Diese Investitionen haben sich langfristig als *verlustreich* erwiesen.
+
+  Les candidats *perdants* ont reconnu leur défaite avec dignité.
+  Die *unterlegenen* Kandidaten haben ihre Niederlage würdevoll eingestanden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

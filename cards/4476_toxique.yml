@@ -13,23 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Attention aux produits de jardinage toxiques.
-  Vorsicht vor giftigen Gartenprodukten.
+  Attention aux produits de jardinage *toxiques*.
+  Vorsicht mit den *giftigen* Gartenprodukten.
 
-  Cette substance est toxique.
-  Diese Substanz ist giftig.
+  Ces champignons sont extrêmement *toxiques* pour l'homme.
+  Diese Pilze sind für den Menschen hoch*giftig*.
 
-  Cette plante est extrêmement toxique, il ne faut pas la toucher.
-  Diese Pflanze ist hochgiftig, man sollte sie nicht berühren.
+  La fumée *toxique* s'échappait de l'usine en feu.
+  *Giftiger* Rauch stieg aus der brennenden Fabrik auf.
 
-  L'attaque au gaz toxique a fait de nombreuses victimes.
-  Der Giftgasangriff hat viele Opfer gefordert.
+  Les boues *toxiques* ont pollué la rivière pendant des années.
+  Der *Gift*schlamm hat den Fluss jahrelang verschmutzt.
 
-  La boue toxique a contaminé la rivière.
-  Der Giftschlamm hat den Fluss verunreinigt.
+  Le laboratoire étudie le pouvoir *toxique* de ces substances.
+  Das Labor untersucht die *Gift*igkeit dieser Substanzen.
 
-  Le pouvoir toxique de ce poison est mortel.
-  Die Giftigkeit dieses Giftes ist tödlich.
+  Ce *toxique* peut causer des lésions graves au foie.
+  Dieses *Gift* kann schwere Leberschäden verursachen.
+
+  Les gaz *toxiques* se sont répandus dans tout le bâtiment.
+  Die *Gift*gase haben sich im ganzen Gebäude ausgebreitet.
+
+  "Cette relation est devenue *toxique*, je dois y mettre fin."
+  "Diese Beziehung ist *giftig* geworden, ich muss sie beenden."
+
+  Elle a réussi à sortir d'une amitié *toxique*.
+  Es ist ihr gelungen, sich aus einer *toxischen* Freundschaft zu befreien.
+
+  Ces substances *toxiques* doivent être manipulées avec précaution.
+  Diese *giftigen* Stoffe müssen mit Vorsicht gehandhabt werden.
+
+  Les analyses ont révélé la présence d'algues *toxiques* dans le lac.
+  Die Analysen haben *giftige* Algen im See nachgewiesen.
+
+  Le niveau *toxique* de ces déchets dépasse les limites autorisées.
+  Der *Gift*gehalt dieser Abfälle überschreitet die zulässigen Grenzwerte.
+
+  Marie a quitté son patron *toxique* pour préserver sa santé mentale.
+  Marie hat ihren *toxischen* Chef verlassen, um ihre mentale Gesundheit zu schützen.
+
+  Les enfants ont appris à reconnaître les plantes *toxiques*.
+  Die Kinder haben gelernt, *giftige* Pflanzen zu erkennen.
+
+  Ce métal lourd est hautement *toxique* pour l'environnement.
+  Dieses Schwermetall ist hochgradig *giftig* für die Umwelt.
+
+  L'atmosphère *toxique* au bureau affecte tout le monde.
+  Die *toxische* Atmosphäre im Büro belastet alle.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

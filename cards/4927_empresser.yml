@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils se sont empressés d’obéir.
-  Sie beeilten sich zu gehorchen.
+  Ils se sont *empressés* d'obéir.
+  Sie haben sich *beeilt* zu gehorchen.
 
-  Je dois m’empresser pour arriver à l’heure.
-  Ich muss mich beeilen, um pünktlich anzukommen.
+  Je m'*empresse* d'ajouter que ce n'était pas mon intention.
+  Ich *beeile* mich hinzuzufügen, dass das nicht meine Absicht war.
 
-  Il s'est empressé de répondre à la question.
-  Er beeilte sich, die Frage zu beantworten.
+  Les voisins se sont *empressés* autour de la famille endeuillée.
+  Die Nachbarn haben sich eifrig um die trauernde Familie *gekümmert*.
 
-  Elle s'est empressée auprès de son ami malade.
-  Sie hat sich eifrig um ihren kranken Freund bemüht.
+  Elle s'*empresse* de ranger sa chambre avant l'arrivée de ses amis.
+  Sie *beeilt* sich, ihr Zimmer aufzuräumen, bevor ihre Freunde kommen.
+
+  Les serveurs s'*empressent* auprès des clients du restaurant.
+  Die Kellner *bemühen* sich eifrig um die Restaurantgäste.
+
+  Il s'est *empressé* de lui communiquer la bonne nouvelle.
+  Er hat sich *beeilt*, ihr die guten Nachrichten mitzuteilen.
+
+  Tout le monde s'*empressait* autour du champion après sa victoire.
+  Alle *drängten* sich nach seinem Sieg um den Champion.
+
+  Marie s'*empresse* toujours de répondre à mes messages.
+  Marie *beeilt* sich immer, auf meine Nachrichten zu antworten.
+
+  Les passants se sont *empressés* d'aider la vieille dame.
+  Die Passanten haben sich *beeilt*, der alten Dame zu helfen.
+
+  Le jeune homme s'*empresse* auprès de sa nouvelle petite amie.
+  Der junge Mann *bemüht* sich eifrig um seine neue Freundin.
+
+  Les spectateurs se sont *empressés* vers la sortie après le spectacle.
+  Die Zuschauer *drängten* nach der Vorstellung zum Ausgang.
+
+  Elle s'*empresse* de terminer ses devoirs avant le dîner.
+  Sie *beeilt* sich, ihre Hausaufgaben vor dem Abendessen fertig zu machen.
+
+  Les pompiers se sont *empressés* d'éteindre l'incendie.
+  Die Feuerwehrleute haben sich *beeilt*, das Feuer zu löschen.
+
+  Paul s'*empresse* toujours d'ouvrir la porte aux invités.
+  Paul *beeilt* sich immer, den Gästen die Tür zu öffnen.
+
+  Les journalistes s'*empressaient* autour du ministre.
+  Die Journalisten *drängten* sich um den Minister.
+
+  Je m'*empresserai* de vous envoyer les documents demandés.
+  Ich werde mich *beeilen*, Ihnen die gewünschten Dokumente zu schicken.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

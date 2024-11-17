@@ -13,23 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Allez au garage chercher des voitures.
-  Gehen Sie in die Werkstatt, um Autos zu holen.
+  Allez au *garage* chercher des voitures.
+  Geht zur *Garage* und holt die Autos.
 
-  La voiture est dans le garage.
-  Das Auto steht in der Garage.
+  Sophie doit rentrer sa nouvelle voiture au *garage* avant la tempête.
+  Sophie muss ihr neues Auto vor dem Sturm in die *Garage* fahren.
 
-  Mets la voiture au garage.
-  Bring das Auto in die Garage.
+  Le *garage* municipal répare tous types de véhicules.
+  Die städtische *Werkstatt* repariert alle Arten von Fahrzeugen.
 
-  Chaque soir, après son travail, Pierre met sa voiture au garage.
-  Jeden Abend, nach der Arbeit, stellt Pierre sein Auto in die Garage.
+  Il a trouvé un emploi dans un *garage* automobile près de chez lui.
+  Er hat einen Job in einer Auto*werkstatt* in seiner Nähe gefunden.
 
-  Le garage automobile a réparé la voiture de Marie.
-  Die Kraftfahrzeugwerkstatt hat Maries Auto repariert.
+  Mon père a construit un *garage* pour deux voitures l'année dernière.
+  Mein Vater hat letztes Jahr eine *Garage* für zwei Autos gebaut.
 
-  “Année de fabrication 1999, couche garage, 120 000 kilomètres…”
-  „Baujahr 1999, Garagenwagen, 120 000 Kilometer…“
+  Le *garage* à vélos de l'école est toujours plein le matin.
+  Die Fahrrad*garage* der Schule ist morgens immer voll.
+
+  Les mécaniciens du *garage* ont déjà fini la réparation.
+  Die Mechaniker der *Werkstatt* sind mit der Reparatur schon fertig.
+
+  Elle loue un *garage* souterrain depuis trois ans.
+  Sie mietet seit drei Jahren eine Tiefgaragen*box*.
+
+  Après sa promotion ratée, Pierre a été mis sur une voie de *garage*.
+  Nach seiner gescheiterten Beförderung wurde Pierre aufs *Abstellgleis* geschoben.
+
+  Le *garage* du port peut accueillir une vingtaine de bateaux.
+  Die Boots*garage* am Hafen hat Platz für etwa zwanzig Boote.
+
+  Cette entreprise de *garage* propose aussi un service de dépannage.
+  Diese *Werkstatt* bietet auch einen Pannendienst an.
+
+  Il faut agrandir le *garage* pour installer un établi.
+  Die *Garage* muss vergrößert werden, um eine Werkbank einzubauen.
+
+  Les bus rentrent au *garage* après minuit.
+  Die Busse fahren nach Mitternacht ins *Depot*.
+
+  Le propriétaire du *garage* prend sa retraite le mois prochain.
+  Der Besitzer der *Werkstatt* geht nächsten Monat in Rente.
+
+  Cette voiture d'occasion est un ancien véhicule de *garage*.
+  Dieser Gebrauchtwagen ist ein ehemaliger *Werkstatt*wagen.
+
+  La porte du *garage* ne s'ouvre plus automatiquement.
+  Das *Garagen*tor öffnet sich nicht mehr automatisch.
+
+  J'ai trouvé une annonce pour un *garage* à louer près du centre-ville.
+  Ich habe eine Anzeige für eine *Garage* zur Miete in der Nähe des Stadtzentrums gefunden.
+
+  Le nouveau *garage* propose des véhicules de courtoisie à ses clients.
+  Die neue *Werkstatt* stellt ihren Kunden Leihwagen zur Verfügung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

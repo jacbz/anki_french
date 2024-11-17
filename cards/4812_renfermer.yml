@@ -13,14 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est un homme renfermé et primitif, mais profondément loyal.
-  Er ist ein verschlossener und primitiver Mann, der jedoch zutiefst loyal ist.
+  C'est un homme *renfermé* et primitif, mais profondément loyal.
+  Er ist ein *verschlossener* und primitiver, aber zutiefst loyaler Mensch.
 
-  Il a renfermé la clé dans le tiroir.
-  Er hat den Schlüssel in der Schublade eingeschlossen.
+  Cette cave *renferme* les meilleurs vins de la région.
+  Dieser Keller *enthält* die besten Weine der Region.
 
-  Après la dispute, il s'est refermé en soi-même et n'a plus voulu parler à personne.
-  Nach dem Streit hat er sich in sich zurückgezogen und wollte mit niemandem mehr sprechen.
+  Le coffre-fort *renfermait* des documents confidentiels.
+  Der Safe *enthielt* vertrauliche Dokumente.
+
+  Depuis la mort de son chat, elle s'est complètement *renfermée* sur elle-même.
+  Seit dem Tod ihrer Katze hat sie sich völlig in sich selbst *zurückgezogen*.
+
+  Cette boîte mystérieuse *renferme* un trésor inestimable.
+  Diese geheimnisvolle Box *enthält* einen unschätzbaren Schatz.
+
+  Le musée national *renferme* des œuvres d'art exceptionnelles.
+  Das Nationalmuseum *enthält* außergewöhnliche Kunstwerke.
+
+  Cette montagne *renferme* d'importantes ressources minérales.
+  Dieser Berg *enthält* wichtige Mineralvorkommen.
+
+  Son poème *renferme* un message d'espoir.
+  Sein Gedicht *enthält* eine Botschaft der Hoffnung.
+
+  Le gardien a dû *renfermer* le lion qui s'était échappé.
+  Der Wärter musste den entlaufenen Löwen wieder *einsperren*.
+
+  Plus elle vieillit, plus elle se *renferme* dans sa solitude.
+  Je älter sie wird, desto mehr *zieht* sie sich in ihre Einsamkeit *zurück*.
+
+  Ce texte ancien *renferme* de nombreux secrets.
+  Dieser alte Text *birgt* viele Geheimnisse.
+
+  La discussion s'est *renfermée* dans des limites trop étroites.
+  Die Diskussion wurde in zu enge Grenzen *eingeschlossen*.
+
+  Marie *renferme* sa tristesse depuis des années.
+  Marie *verschließt* ihre Traurigkeit seit Jahren in sich.
+
+  Le garçon s'est *renfermé* dans un mutisme inquiétant.
+  Der Junge hat sich in ein beunruhigendes *Schweigen* *zurückgezogen*.
+
+  Cette région *renferme* des espèces rares d'oiseaux.
+  Diese Region *beherbergt* seltene Vogelarten.
+
+  Il *renfermait* toujours ses émotions, incapable de les exprimer.
+  Er *verschloss* seine Gefühle stets in sich, unfähig sie auszudrücken.
+
+  La bibliothèque *renferme* plus de dix mille volumes.
+  Die Bibliothek *enthält* mehr als zehntausend Bände.
+
+  Après le divorce, il s'est complètement *renfermé* en lui-même.
+  Nach der Scheidung hat er sich vollständig in sich selbst *zurückgezogen*.
+
+  Cette phrase simple *renferme* une vérité profonde.
+  Dieser einfache Satz *enthält* eine tiefe Wahrheit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

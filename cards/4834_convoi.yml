@@ -13,23 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  De quel hangar part le convoi?
-  Von welchem Hangar aus startet der Konvoi?
+  De quel hangar part le *convoi* ?
+  Von welcher Halle fährt der *Konvoi* ab?
 
-  Le convoi militaire est en route.
-  Der Militärkonvoi ist unterwegs.
+  Un *convoi* humanitaire a été envoyé dans la zone sinistrée.
+  Ein humanitärer *Transport* wurde in das Katastrophengebiet geschickt.
 
-  Le convoi exceptionnel était si long qu'il a bloqué la circulation pendant plusieurs heures.
-  Der Sondertransport war so lang, dass er den Verkehr für mehrere Stunden blockiert hat.
+  Le *convoi* de marchandises traverse la ville chaque matin à 5 heures.
+  Der *Güterzug* fährt jeden Morgen um 5 Uhr durch die Stadt.
 
-  Le convoi humanitaire a apporté de la nourriture et des médicaments aux victimes du tremblement de terre.
-  Der Hilfsgütertransport hat den Opfern des Erdbebens Lebensmittel und Medikamente gebracht.
+  Les nomades forment un long *convoi* qui serpente dans le désert.
+  Die Nomaden bilden eine lange *Karawane*, die sich durch die Wüste schlängelt.
 
-  Le convoi de matériel est arrivé à l'usine en fin de journée.
-  Der Konvoi mit Material ist am späten Nachmittag im Werk angekommen.
+  Le *convoi* funèbre s'est arrêté devant l'église.
+  Der *Leichenzug* hielt vor der Kirche.
 
-  Le convoi militaire a traversé la ville en direction du front.
-  Die Militärkolonne fuhr durch die Stadt in Richtung der Front.
+  Un *convoi* exceptionnel bloque la circulation sur l'autoroute.
+  Ein *Schwertransport* blockiert den Verkehr auf der Autobahn.
+
+  Notre *convoi* militaire a été attaqué près de la frontière.
+  Unsere militärische *Kolonne* wurde nahe der Grenze angegriffen.
+
+  Les pompiers sont partis en *convoi* vers l'incendie.
+  Die Feuerwehr ist im *Löschzug* zum Brand ausgerückt.
+
+  Un *convoi* de trois navires marchands traverse l'océan.
+  Ein *Verband* von drei Handelsschiffen überquert den Ozean.
+
+  Le *convoi* de réfugiés a atteint la frontière ce matin.
+  Der Flüchtlings*transport* hat heute Morgen die Grenze erreicht.
+
+  Les voitures du *convoi* doivent maintenir une distance de sécurité.
+  Die Fahrzeuge der *Kolonne* müssen einen Sicherheitsabstand einhalten.
+
+  Le *convoi* de ravitaillement arrivera dans deux heures.
+  Der Versorgungs*konvoi* wird in zwei Stunden eintreffen.
+
+  Un *convoi* de matériel médical est parti vers l'hôpital.
+  Ein *Konvoi* mit medizinischem Material ist zum Krankenhaus aufgebrochen.
+
+  Plusieurs destroyers escortent le *convoi* maritime.
+  Mehrere Zerstörer eskortieren den Schiffs*konvoi*.
+
+  Le *convoi* de prisonniers est arrivé au camp.
+  Der Gefangenen*transport* ist im Lager angekommen.
+
+  Des hélicoptères surveillent le *convoi* depuis le ciel.
+  Hubschrauber überwachen den *Konvoi* vom Himmel aus.
+
+  Le *convoi* de camions s'étend sur plusieurs kilomètres.
+  Die LKW-*Kolonne* erstreckt sich über mehrere Kilometer.
+
+  Un nouveau wagon a été ajouté au *convoi*.
+  Ein neuer Waggon wurde an den *Zug* angehängt.
+
+  Le *convoi* de barges remonte lentement le fleuve.
+  Der Schlepp*konvoi* fährt langsam den Fluss hinauf.
+
+  Les journalistes ont filmé le *convoi* de tanks.
+  Die Journalisten haben die Panzer*kolonne* gefilmt.
+
+  Le *convoi* humanitaire transporte des médicaments et de la nourriture.
+  Der Hilfsgüter*transport* befördert Medikamente und Nahrung.
+
+  Un drone surveille le *convoi* de munitions.
+  Eine Drohne überwacht den Munitions*konvoi*.
+
+  Les motards escortent le *convoi* présidentiel.
+  Die Motorradfahrer eskortieren den Präsidenten*konvoi*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

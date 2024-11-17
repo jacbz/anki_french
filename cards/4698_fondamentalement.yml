@@ -13,11 +13,41 @@ Register: ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Telle est fondamentalement notre position.
-  Dies ist grundsätzlich unsere Position.
+  Telle est *fondamentalement* notre position.
+  Das ist *grundsätzlich* unsere Position.
 
-  C’est fondamentalement faux.
-  Das ist grundlegend falsch.
+  Ces deux approches sont *fondamentalement* différentes.
+  Diese beiden Ansätze sind *grundlegend* verschieden.
+
+  L'entreprise doit être *fondamentalement* restructurée.
+  Das Unternehmen muss von *Grund auf* umstrukturiert werden.
+
+  La situation a *fondamentalement* changé depuis hier.
+  Die Situation hat sich seit gestern *grundlegend* geändert.
+
+  Leurs caractères sont *fondamentalement* opposés.
+  Ihre Charaktere sind *grundsätzlich* gegensätzlich.
+
+  Le système éducatif doit être repensé *fondamentalement*.
+  Das Bildungssystem muss von *Grund auf* neu gedacht werden.
+
+  Cette théorie est *fondamentalement* fausse.
+  Diese Theorie ist *grund*falsch.
+
+  Les deux cultures sont *fondamentalement* similaires.
+  Die beiden Kulturen sind im *Grundsatz* ähnlich.
+
+  Notre façon de travailler va *fondamentalement* changer.
+  Unsere Arbeitsweise wird sich *grundlegend* ändern.
+
+  Ces idées sont *fondamentalement* bonnes.
+  Diese Ideen sind im *Grunde* gut.
+
+  Le problème est *fondamentalement* différent de ce qu'on pensait.
+  Das Problem ist *grundsätzlich* anders als gedacht.
+
+  Nos valeurs restent *fondamentalement* les mêmes.
+  Unsere Werte bleiben im *Grundsatz* die gleichen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

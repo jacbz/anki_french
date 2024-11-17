@@ -13,32 +13,104 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  T’as vu mon triple saut? Je peux le refaire.
-  Hast du meinen Dreifachsprung gesehen? Ich kann ihn wiederholen.
+  T'as vu mon *triple* saut ? Je peux le refaire.
+  Hast du meinen *Dreifach*sprung gesehen? Den kann ich nochmal machen.
 
-  Il a réalisé un triple exploit.
-  Er hat eine dreifache Leistung erbracht.
+  Le professeur a demandé une copie en *triple* exemplaire.
+  Der Lehrer hat eine Kopie in *dreifacher* Ausführung verlangt.
 
-  Le prix du billet d'avion a triplé depuis l'année dernière.
-  Der Preis des Flugtickets hat sich seit letztem Jahr verdreifacht.
+  Cette année, mon salaire est le *triple* du tien.
+  Dieses Jahr ist mein Gehalt das *Dreifache* von deinem.
 
-  Le triple du prix de l'appartement est une somme exorbitante.
-  Das Dreifache des Preises der Wohnung ist eine exorbitante Summe.
+  La *triple* collision a bloqué toute la circulation.
+  Der *Dreifach*unfall hat den ganzen Verkehr blockiert.
 
-  Cela coûte le triple prix, mais la qualité est incomparable.
-  Das ist dreimal so teuer, aber die Qualität ist unübertroffen.
+  "*Triple* idiot, tu as encore oublié tes clés !"
+  "*Dreifacher* Idiot, du hast schon wieder deine Schlüssel vergessen!"
 
-  Le problème doit être analysé sous un triple aspect : politique, économique et social.
-  Das Problem muss unter drei verschiedenen Gesichtspunkten analysiert werden: politisch, wirtschaftlich und sozial.
+  Elle portait un *triple* rang de perles autour du cou.
+  Sie trug eine *dreifache* Perlenkette um den Hals.
 
-  Le triple de temps nous permettra de réaliser un travail plus complet.
-  Dreimal so viel Zeit wird uns ermöglichen, eine umfassendere Arbeit zu leisten.
+  Le prix du billet a été multiplié par *triple*.
+  Der Ticketpreis wurde ver*dreifacht*.
 
-  9 est le triple de 3, c'est une vérité mathématique.
-  9 ist das Dreifache von 3, das ist eine mathematische Wahrheit.
+  Cette mélodie contient beaucoup de *triples* croches.
+  Diese Melodie enthält viele *Dreiundsechzigstel*noten.
 
-  Gagner le triple de son prédécesseur, voilà l'ambition de ce jeune dirigeant.
-  Dreimal so viel wie sein Vorgänger zu verdienen, das ist die Ambition dieses jungen Managers.
+  La *triple* entente a changé le cours de l'histoire.
+  Der *Dreier*bund hat den Lauf der Geschichte verändert.
+
+  Son appartement est *triple* du mien.
+  Seine Wohnung ist *dreimal* so groß wie meine.
+
+  "Il est parti au *triple* galop !"
+  "Er ist in *Höchst*geschwindigkeit davongerannt!"
+
+  Cette erreur compte *triple* dans l'évaluation finale.
+  Dieser Fehler zählt in der Endauswertung *dreifach*.
+
+  Neuf est le *triple* de trois, c'est évident.
+  Neun ist das *Dreifache* von drei, das ist offensichtlich.
+
+  Le médecin lui a prescrit une *triple* dose de médicaments.
+  Der Arzt hat ihm eine *dreifache* Dosis Medikamente verschrieben.
+
+  Nous avons examiné le problème sous un *triple* aspect.
+  Wir haben das Problem unter *drei* verschiedenen Gesichtspunkten untersucht.
+
+  Il faut faire *triple* attention en conduisant la nuit.
+  Beim Fahren in der Nacht muss man *dreifach* aufpassen.
+
+  Le coût de la vie a été multiplié par *triple* en dix ans.
+  Die Lebenshaltungskosten haben sich in zehn Jahren ver*dreifacht*.
+
+  Cette promotion va *tripler* mon salaire.
+  Diese Beförderung wird mein Gehalt ver*dreifachen*.
+
+  La *triple* liaison est un concept important en chimie.
+  Die *Dreifach*bindung ist ein wichtiges Konzept in der Chemie.
+
+  Le point *triple* de l'eau est à 0,01°C.
+  Der *Dreifach*punkt von Wasser liegt bei 0,01°C.
+
+  Je vous envoie ce document en *triple* copie.
+  Ich schicke Ihnen dieses Dokument in *dreifacher* Ausfertigung.
+
+  Le gagnant recevra le *triple* de la mise initiale.
+  Der Gewinner erhält das *Dreifache* des ursprünglichen Einsatzes.
+
+  Cette maison coûte le *triple* du prix normal.
+  Dieses Haus kostet das *Dreifache* des normalen Preises.
+
+  Elle a mis un temps *triple* pour finir l'exercice.
+  Sie hat die *dreifache* Zeit gebraucht, um die Übung zu beenden.
+
+  Le nouveau champion du *triple* saut a battu le record.
+  Der neue *Dreifach*sprung-Champion hat den Rekord gebrochen.
+
+  La *triple* couche de peinture protège mieux le bois.
+  Die *dreifache* Farbschicht schützt das Holz besser.
+
+  Les dépenses ont été *triplées* cette année.
+  Die Ausgaben wurden dieses Jahr ver*dreifacht*.
+
+  Son effort a été récompensé au *triple*.
+  Seine Anstrengung wurde *dreifach* belohnt.
+
+  La *triple* authentification renforce la sécurité.
+  Die *Dreifach*-Authentifizierung erhöht die Sicherheit.
+
+  Il a signé un *triple* contrat avec l'entreprise.
+  Er hat einen *dreifachen* Vertrag mit der Firma unterschrieben.
+
+  Le restaurant propose des *triples* hamburgers.
+  Das Restaurant bietet *Dreifach*-Hamburger an.
+
+  Cette équipe a réalisé un *triple* exploit cette saison.
+  Diese Mannschaft hat diese Saison einen *dreifachen* Erfolg erzielt.
+
+  Le mur a une *triple* épaisseur d'isolation.
+  Die Wand hat eine *dreifache* Isolationsdicke.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

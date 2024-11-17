@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’accès en resterait théoriquement interdit aux femmes seules.
-  Theoretisch wäre der Zugang für alleinstehende Frauen weiterhin verboten.
+  L'accès en resterait *théoriquement* interdit aux femmes seules.
+  Der Zugang bliebe *theoretisch* für alleinstehende Frauen verboten.
 
-  Théoriquement, c’est possible.
-  Theoretisch ist das möglich.
+  *Théoriquement*, je devrais terminer ce projet avant vendredi.
+  *Theoretisch* sollte ich dieses Projekt vor Freitag abschließen.
+
+  Cette solution est *théoriquement* possible, mais difficile à mettre en pratique.
+  Diese Lösung ist *theoretisch* möglich, aber schwer umzusetzen.
+
+  *Théoriquement*, nous aurions dû recevoir une réponse hier.
+  *Theoretisch* hätten wir gestern eine Antwort erhalten sollen.
+
+  Le moteur devrait *théoriquement* fonctionner avec ce carburant.
+  Der Motor sollte mit diesem Kraftstoff *theoretisch* funktionieren.
+
+  *Théoriquement*, tous les citoyens ont les mêmes droits.
+  *Theoretisch* haben alle Bürger die gleichen Rechte.
+
+  Cette méthode n'est validée que *théoriquement*.
+  Diese Methode ist nur *theoretisch* validiert.
+
+  *Théoriquement*, le train arrive dans cinq minutes.
+  *Theoretisch* kommt der Zug in fünf Minuten.
+
+  Le problème est *théoriquement* résolu depuis longtemps.
+  Das Problem ist *theoretisch* seit langem gelöst.
+
+  *Théoriquement*, ce médicament ne provoque pas d'effets secondaires.
+  *Theoretisch* verursacht dieses Medikament keine Nebenwirkungen.
+
+  Cette hypothèse n'est prouvée que *théoriquement*.
+  Diese Hypothese ist nur *theoretisch* bewiesen.
+
+  *Théoriquement*, il y a assez de places pour tout le monde.
+  *Theoretisch* gibt es genug Plätze für alle.
+
+  Les résultats sont *théoriquement* corrects, mais pas applicables.
+  Die Ergebnisse sind *theoretisch* korrekt, aber nicht anwendbar.
+
+  *Théoriquement*, nous devrions économiser 30% d'énergie.
+  *Theoretisch* sollten wir 30% Energie einsparen.
+
+  Le système est *théoriquement* capable de gérer mille utilisateurs.
+  Das System ist *theoretisch* in der Lage, tausend Benutzer zu verwalten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

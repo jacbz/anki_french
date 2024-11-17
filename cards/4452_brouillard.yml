@@ -13,35 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Peu à peu le brouillard se fait moins épais.
-  Nach und nach wird der Nebel weniger dicht.
+  Peu à peu le *brouillard* se fait moins épais.
+  Nach und nach wird der *Nebel* weniger dicht.
 
-  Il y a du brouillard ce matin.
-  Es ist heute Morgen neblig.
+  Un *brouillard* épais recouvre toute la vallée.
+  Ein dichter *Nebel* bedeckt das ganze Tal.
 
-  Il y a souvent du brouillard le matin.
-  Am Morgen ist es oft neblig.
+  "Il y a un *brouillard* à couper au couteau ce matin !"
+  "Heute Morgen ist eine richtige *Suppe* draußen!"
 
-  Le brouillard épais rendait la route dangereuse.
-  Dichter Nebel machte die Straße gefährlich.
+  Des nappes de *brouillard* se sont formées au-dessus du lac.
+  *Nebel*felder haben sich über dem See gebildet.
 
-  Après son opération, il avait un brouillard devant les yeux.
-  Nach seiner Operation hatte er einen Schleier vor den Augen.
+  Le *brouillard* givrant rend les routes très dangereuses.
+  Der Frost*nebel* macht die Straßen sehr gefährlich.
 
-  Je suis dans le brouillard, je ne sais pas ce que je dois faire.
-  Ich tappe im Dunkeln, ich weiß nicht, was ich tun soll.
+  Les avions ne peuvent pas décoller à cause du *brouillard*.
+  Die Flugzeuge können wegen des *Nebels* nicht starten.
 
-  Foncer dans le brouillard sans phare est une folie.
-  Sich ohne Scheinwerfer ins Ungewisse zu stürzen, ist Wahnsinn.
+  Elle s'est perdue dans le *brouillard* en rentrant chez elle.
+  Sie hat sich im *Nebel* verirrt, als sie nach Hause ging.
 
-  Le brouillard à couper au couteau cachait la ville toute entière.
-  Der sehr dichte Nebel versteckte die ganze Stadt.
+  Le *brouillard* monte doucement de la rivière.
+  Der *Nebel* steigt langsam vom Fluss auf.
 
-  Les nappes de brouillard se déplaçaient lentement dans la vallée.
-  Nebelfelder bewegten sich langsam durch das Tal.
+  "J'ai encore un *brouillard* dans la tête ce matin."
+  "Ich habe heute Morgen noch einen *Nebel* im Kopf."
 
-  Il y a beaucoup de brouillard ce matin, il est impossible de voir loin.
-  Es ist heute Morgen sehr neblig, man kann nicht weit sehen.
+  Ses souvenirs d'enfance se perdent dans le *brouillard*.
+  Seine Kindheitserinnerungen verlieren sich im *Nebel*.
+
+  Les marins naviguent prudemment dans le *brouillard*.
+  Die Seeleute navigieren vorsichtig durch den *Nebel*.
+
+  Il a un *brouillard* devant les yeux depuis son accident.
+  Seit seinem Unfall hat er einen *Schleier* vor den Augen.
+
+  "Ne me laisse pas dans le *brouillard*, dis-moi ce qui se passe !"
+  "Lass mich nicht im *Dunkeln*, sag mir was los ist!"
+
+  Les pompiers ont dû intervenir dans le *brouillard* toxique.
+  Die Feuerwehr musste im giftigen *Nebel* eingreifen.
+
+  "Tu fonces dans le *brouillard* avec ce projet !"
+  "Du stocherst bei diesem Projekt völlig im *Nebel*!"
+
+  Le *brouillard* se dissipe lentement au lever du soleil.
+  Der *Nebel* löst sich langsam bei Sonnenaufgang auf.
+
+  Les voitures roulent au pas dans le *brouillard*.
+  Die Autos fahren im Schritttempo durch den *Nebel*.
+
+  Un léger *brouillard* flotte au-dessus des champs.
+  Ein leichter *Dunst* schwebt über den Feldern.
+
+  "Je vis complètement dans le *brouillard* depuis cette nouvelle."
+  "Ich tappe seit dieser Nachricht völlig im *Nebel*."
+
+  Elle émerge lentement des *brouillards* du sommeil.
+  Sie taucht langsam aus dem *Nebel* des Schlafes auf.
+
+  Le comptable note toutes les dépenses dans le *brouillard*.
+  Der Buchhalter notiert alle Ausgaben im *Journal*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

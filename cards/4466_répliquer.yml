@@ -13,20 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’orateur répliqua que c’était presque fait.
-  Der Redner erwiderte, dass es fast geschafft sei.
+  L'orateur *répliqua* que c'était presque fait.
+  Der Redner *erwiderte*, dass es fast fertig sei.
 
-  Il a répliqué avec colère.
-  Er hat wütend erwidert.
+  « Je ne veux plus que tu me *répliques* comme ça ! »
+  "Ich will nicht, dass du mir so *widersprichst*!"
 
-  Elle a accepté son erreur sans répliquer.
-  Sie hat ihren Fehler ohne Gegenrede akzeptiert.
+  Il n'a pas osé *répliquer* quand son patron l'a critiqué.
+  Er wagte nicht zu *protestieren*, als sein Chef ihn kritisierte.
 
-  Il a répliqué à son argument en soulignant la faiblesse de son raisonnement.
-  Er hat auf sein Argument erwidert, indem er die Schwäche seiner Argumentation betonte.
+  Les scientifiques ont réussi à *répliquer* l'ADN en laboratoire.
+  Den Wissenschaftlern gelang es, die DNA im Labor zu *replizieren*.
 
-  Il a répliqué la même chose à sa mère, même si elle lui avait répété plusieurs fois de ne pas le faire.
-  Er hat seiner Mutter dasselbe erwidert, obwohl sie ihm mehrmals gesagt hatte, es nicht zu tun.
+  Elle a immédiatement *répliqué* à cette attaque verbale.
+  Sie hat auf diesen verbalen Angriff sofort *reagiert*.
+
+  Sans *répliquer*, il a accepté toutes les conditions du contrat.
+  Ohne zu *widersprechen* hat er alle Vertragsbedingungen akzeptiert.
+
+  L'armée a *répliqué* aux tirs ennemis dans la nuit.
+  Das Militär hat in der Nacht auf den feindlichen Beschuss *geantwortet*.
+
+  Que pouvait-elle *répliquer* face à ces accusations ?
+  Was konnte sie auf diese Anschuldigungen *erwidern*?
+
+  Il *répliqua* du tac au tac à cette remarque désobligeante.
+  Er *konterte* sofort auf diese unhöfliche Bemerkung.
+
+  Le virus peut se *répliquer* rapidement dans les cellules.
+  Das Virus kann sich in den Zellen schnell *vermehren*.
+
+  Je lui ai *répliqué* que ce n'était pas mon problème.
+  Ich habe ihm *entgegnet*, dass das nicht mein Problem sei.
+
+  Les diplomates ont *répliqué* en expulsant trois ambassadeurs.
+  Die Diplomaten haben mit der Ausweisung von drei Botschaftern *reagiert*.
+
+  Sophie *répliqua* avec impertinence à sa grand-mère.
+  Sophie *antwortete* ihrer Großmutter vorlaut.
+
+  « Non, ce n'est pas vrai ! », *répliqua-t-il* fermement.
+  "Nein, das stimmt nicht!", *entgegnete* er bestimmt.
+
+  Cet enfant *réplique* toujours quand on lui donne un ordre.
+  Dieses Kind *widerspricht* immer, wenn man ihm einen Befehl gibt.
+
+  Notre avocat va *répliquer* à leurs arguments demain.
+  Unser Anwalt wird morgen auf ihre Argumente *antworten*.
+
+  Elle n'admet pas qu'on lui *réplique*.
+  Sie duldet nicht, dass man ihr *widerspricht*.
+
+  Le gouvernement a *répliqué* par des sanctions économiques.
+  Die Regierung hat mit Wirtschaftssanktionen *geantwortet*.
+
+  Je ne savais pas quoi lui *répliquer* après cette révélation.
+  Ich wusste nicht, was ich ihm nach dieser Enthüllung *erwidern* sollte.
+
+  Les cellules doivent *répliquer* leur matériel génétique avant la division.
+  Die Zellen müssen vor der Teilung ihr genetisches Material *verdoppeln*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

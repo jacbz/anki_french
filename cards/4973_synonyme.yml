@@ -13,14 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La communauté européenne n’est plus synonyme de l’europe.
-  Die Europäische Gemeinschaft ist nicht mehr gleichbedeutend mit Europa.
+  La communauté européenne n'est plus *synonyme* de l'Europe.
+  Die Europäische Gemeinschaft ist nicht mehr *gleichbedeutend* mit Europa.
 
-  Les mots « grand » et « immense » sont des synonymes.
-  Die Wörter „groß“ und „riesig“ sind Synonyme.
+  Le dictionnaire de *synonymes* m'aide beaucoup à enrichir mon vocabulaire.
+  Das *Synonymwörterbuch* hilft mir sehr, meinen Wortschatz zu erweitern.
 
-  Le mot "joie" est synonyme de "bonheur".
-  Das Wort "Freude" ist ein Synonym für "Glück".
+  Pour moi, vacances et bonheur sont *synonymes*.
+  Für mich sind Urlaub und Glück *gleichbedeutend*.
+
+  Les mots « voiture » et « automobile » sont *synonymes*.
+  Die Wörter „Auto" und „Automobil" sind *bedeutungsgleich*.
+
+  « Travail » et « labeur » sont des termes *synonymes*, mais pas du même registre.
+  „Arbeit" und „Mühe" sind *bedeutungsgleiche* Wörter, gehören aber zu verschiedenen Stilebenen.
+
+  Mon professeur nous demande toujours de chercher des *synonymes* pour éviter les répétitions.
+  Meine Lehrerin bittet uns immer, *Synonyme* zu suchen, um Wiederholungen zu vermeiden.
+
+  Dans ce contexte, la peur est *synonyme* de prudence.
+  In diesem Kontext ist Angst *gleichbedeutend* mit Vorsicht.
+
+  Le mot « boulot » est un *synonyme* familier de « travail ».
+  Das Wort „Job" ist ein umgangssprachliches *Synonym* für „Arbeit".
+
+  Je cherche un *synonyme* plus élégant pour le mot « manger ».
+  Ich suche ein eleganteres *Synonym* für das Wort „essen".
+
+  Ces deux expressions sont-elles vraiment *synonymes* ?
+  Sind diese beiden Ausdrücke wirklich *bedeutungsgleich*?
+
+  La richesse n'est pas toujours *synonyme* de bonheur.
+  Reichtum ist nicht immer *gleichbedeutend* mit Glück.
+
+  Le dictionnaire propose trois *synonymes* pour ce terme technique.
+  Das Wörterbuch schlägt drei *Synonyme* für diesen Fachbegriff vor.
+
+  « Content » et « heureux » ne sont pas exactement *synonymes*.
+  „Zufrieden" und „glücklich" sind nicht exakt *bedeutungsgleich*.
+
+  Les botanistes utilisent parfois des noms *synonymes* pour la même plante.
+  Botaniker verwenden manchmal *synonyme* Namen für dieselbe Pflanze.
+
+  Dans son livre, l'auteur donne plusieurs *synonymes* de chaque mot clé.
+  In seinem Buch gibt der Autor mehrere *Synonyme* für jedes Schlüsselwort.
+
+  Cette réforme est devenue *synonyme* d'échec pour beaucoup de citoyens.
+  Diese Reform ist für viele Bürger zum *Synonym* für Misserfolg geworden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

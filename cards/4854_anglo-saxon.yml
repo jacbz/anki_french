@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est un humour plus anglo-saxon que français.
-  Es ist eher ein angelsächsischer als ein französischer Humor.
+  C'est un humour plus *anglo-saxon* que français.
+  Das ist eher *englischer* als französischer Humor.
 
-  Les pays anglo-saxons sont les États-Unis, le Royaume-Uni, le Canada, l’Australie et la Nouvelle-Zélande.
-  Die anglo-sächsischen Länder sind die USA, Großbritannien, Kanada, Australien und Neuseeland.
+  La culture *anglo-saxonne* a profondément influencé le monde moderne.
+  Die *angelsächsische* Kultur hat die moderne Welt stark geprägt.
+
+  Les *Anglo-Saxons* ont envahi la Grande-Bretagne au Ve siècle.
+  Die *Angelsachsen* fielen im 5. Jahrhundert in Großbritannien ein.
+
+  J'étudie l'*anglo-saxon* à l'université.
+  Ich studiere *Altenglisch* an der Universität.
+
+  Les entreprises *anglo-saxonnes* dominent le marché mondial.
+  Die *angelsächsischen* Unternehmen dominieren den Weltmarkt.
+
+  Elle est une vraie *Anglo-Saxonne* avec son thé de l'après-midi.
+  Sie ist eine echte *Britin* mit ihrem Nachmittagstee.
+
+  Le système juridique *anglo-saxon* diffère du système français.
+  Das *angelsächsische* Rechtssystem unterscheidet sich vom französischen.
+
+  Les pays *anglo-saxons* partagent beaucoup de traditions communes.
+  Die *angelsächsischen* Länder teilen viele gemeinsame Traditionen.
+
+  La philosophie *anglo-saxonne* privilégie souvent l'empirisme.
+  Die *angelsächsische* Philosophie bevorzugt oft den Empirismus.
+
+  L'écriture *anglo-saxonne* était utilisée jusqu'au XIIe siècle.
+  Die *altenglische* Schrift wurde bis zum 12. Jahrhundert verwendet.
+
+  Le monde *anglo-saxon* célèbre Noël différemment.
+  Die *angelsächsische* Welt feiert Weihnachten anders.
+
+  Les chercheurs ont découvert des manuscrits en *anglo-saxon*.
+  Die Forscher haben *altenglische* Manuskripte entdeckt.
+
+  La mentalité *anglo-saxonne* favorise l'initiative individuelle.
+  Die *angelsächsische* Mentalität fördert die individuelle Initiative.
+
+  Les universités *anglo-saxonnes* attirent des étudiants du monde entier.
+  Die *angelsächsischen* Universitäten ziehen Studenten aus der ganzen Welt an.
+
+  La littérature *anglo-saxonne* médiévale inclut le poème Beowulf.
+  Die mittelalterliche *altenglische* Literatur umfasst das Beowulf-Epos.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

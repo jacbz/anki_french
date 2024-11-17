@@ -13,20 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le processus de ratification n’est pas mort.
-  Der Ratifizierungsprozess ist nicht tot.
+  Le processus de *ratification* n'est pas mort.
+  Der *Ratifizierungs*prozess ist nicht tot.
 
-  La ratification du traité est prévue pour demain.
-  Die Ratifizierung des Vertrags ist für morgen geplant.
+  La *ratification* du contrat de vente aura lieu lundi prochain.
+  Die *Ratifizierung* des Kaufvertrags findet nächsten Montag statt.
 
-  La ratification de vente est un document qui confirme la vente d'un bien.
-  Die Verkaufsbestätigung ist ein Dokument, das den Verkauf eines Gutes bestätigt.
+  Le délai de *ratification* du traité expire dans trois jours.
+  Die *Ratifizierungs*frist des Vertrags läuft in drei Tagen ab.
 
-  L'acte de ratification est un document juridique qui confirme un accord.
-  Die Ratifikationsurkunde ist ein juristisches Dokument, das eine Vereinbarung bestätigt.
+  Après la *ratification* de l'accord, les deux pays pourront enfin commercer librement.
+  Nach der *Ratifizierung* des Abkommens können die beiden Länder endlich frei Handel treiben.
 
-  Le vendeur a déposé un acte de ratification auprès du notaire.
-  Der Verkäufer hat eine Ratifikationsurkunde beim Notar hinterlegt.
+  Il faut encore attendre la *ratification* officielle par le Parlement.
+  Die offizielle *Ratifizierung* durch das Parlament steht noch aus.
+
+  La *ratification* du testament a été confirmée par le notaire.
+  Die *Bestätigung* des Testaments wurde vom Notar beglaubigt.
+
+  Les ambassadeurs ont échangé les *ratifications* du traité de paix.
+  Die Botschafter haben die *Ratifikations*urkunden des Friedensvertrags ausgetauscht.
+
+  La *ratification* sous seing privé n'est pas suffisante dans ce cas.
+  Die private *Ratifizierung* ist in diesem Fall nicht ausreichend.
+
+  Une *ratification* par acte public est nécessaire pour ce type de contrat.
+  Für diese Art von Vertrag ist eine öffentliche *Ratifizierung* erforderlich.
+
+  Le gouvernement a déposé l'acte de *ratification* auprès des Nations Unies.
+  Die Regierung hat die *Ratifikations*urkunde bei den Vereinten Nationen hinterlegt.
+
+  La *ratification* de l'ordonnance doit être votée avant la fin du mois.
+  Die *Ratifizierung* der Verordnung muss vor Ende des Monats beschlossen werden.
+
+  Sans *ratification* par le conseil d'administration, cette décision reste invalide.
+  Ohne *Ratifizierung* durch den Vorstand bleibt diese Entscheidung ungültig.
+
+  La *ratification* de cette convention internationale marquera un tournant historique.
+  Die *Ratifizierung* dieser internationalen Konvention wird einen historischen Wendepunkt markieren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

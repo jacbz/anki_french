@@ -13,17 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle me questionnait sans cesse.
-  Sie stellte mir ständig Fragen.
+  Elle me *questionnait* sans cesse.
+  Sie *befragte* mich ständig.
 
-  Je vais questionner le témoin.
-  Ich werde den Zeugen befragen.
+  Le jury a longuement *questionné* le candidat sur ses compétences.
+  Die Jury hat den Kandidaten ausführlich zu seinen Kompetenzen *befragt*.
 
-  Le professeur a questionné les élèves sur le chapitre qu'ils avaient étudié la semaine précédente.
-  Der Lehrer hat die Schüler zu dem Kapitel befragt, das sie in der vorherigen Woche gelernt hatten.
+  Les policiers ont *questionné* les témoins de l'accident.
+  Die Polizisten haben die Unfallzeugen *vernommen*.
 
-  Les critiques ont questionné le candidat sur ses propositions économiques.
-  Die Kritiker haben den Kandidaten mit seinen Wirtschaftsvorschlägen vor Probleme gestellt.
+  La situation économique actuelle nous *questionne* beaucoup.
+  Die aktuelle Wirtschaftslage stellt uns vor große *Fragen*.
+
+  Le professeur *questionne* ses élèves sur le chapitre précédent.
+  Der Lehrer *prüft* seine Schüler zum vorherigen Kapitel.
+
+  Les journalistes ont *questionné* le ministre sur la réforme.
+  Die Journalisten haben den Minister zur Reform *befragt*.
+
+  Marie *questionnait* toujours ses parents sur leur jeunesse.
+  Marie stellte ihren Eltern immer *Fragen* über ihre Jugend.
+
+  Je dois *questionner* mon médecin sur ces nouveaux symptômes.
+  Ich muss meinen Arzt zu diesen neuen Symptomen *befragen*.
+
+  Les enfants adorent *questionner* les adultes sur tout.
+  Kinder lieben es, Erwachsenen zu allem *Fragen* zu stellen.
+
+  Le détective a habilement *questionné* le suspect.
+  Der Detektiv hat den Verdächtigen geschickt *verhört*.
+
+  Cette nouvelle méthode *questionne* nos habitudes de travail.
+  Diese neue Methode stellt unsere Arbeitsgewohnheiten in *Frage*.
+
+  Il faut savoir *questionner* ses certitudes.
+  Man muss seine Gewissheiten *hinterfragen* können.
+
+  L'inspecteur *questionnera* tous les employés demain.
+  Der Inspektor wird morgen alle Angestellten *befragen*.
+
+  Les scientifiques *questionnent* constamment leurs hypothèses.
+  Die Wissenschaftler *hinterfragen* ständig ihre Hypothesen.
+
+  Le psychologue *questionnait* délicatement son patient.
+  Der Psychologe *befragte* seinen Patienten behutsam.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

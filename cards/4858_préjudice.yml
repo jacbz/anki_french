@@ -13,41 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Avez-vous déjà subi des préjudices?
-  Haben Sie schon einmal Schaden erlitten?
+  Avez-vous déjà subi des *préjudices* ?
+  Haben Sie schon *Schäden* erlitten?
 
-  Cela peut causer un préjudice à l’entreprise.
-  Das kann der Firma einen Schaden zufügen.
+  La société a subi un *préjudice* financier important.
+  Die Firma hat einen erheblichen finanziellen *Verlust* erlitten.
 
-  Le préjudice extra-patrimonial est un dommage qui ne porte pas atteinte au patrimoine d'une personne, mais qui affecte son bien-être ou sa situation personnelle.
-  Ein Nichtvermögensschaden ist ein Schaden, der nicht das Vermögen einer Person betrifft, sondern ihr Wohlergehen oder ihre persönliche Situation.
+  Les travaux ont causé un *préjudice* à la tranquillité du voisinage.
+  Die Bauarbeiten haben die *Ruhe* der Nachbarschaft beeinträchtigt.
 
-  L'action de Pierre a été prise au préjudice de son entreprise.
-  Die Handlung von Peter geschah zum Nachteil seines Unternehmens.
+  Suite à l'accident, elle a subi un *préjudice* corporel permanent.
+  Nach dem Unfall hat sie einen dauerhaften körperlichen *Schaden* erlitten.
 
-  Le tribunal a décidé de poursuivre l'affaire, sans préjudice de la décision du Conseil d'État.
-  Das Gericht entschied, das Verfahren fortzusetzen, unbeschadet der Entscheidung des Staatsrates.
+  Le retard de livraison a causé un *préjudice* considérable à notre entreprise.
+  Die Lieferverzögerung hat unserem Unternehmen erheblichen *Schaden* zugefügt.
 
-  Le préjudice financier causé par l'incendie a été estimé à plusieurs millions d'euros.
-  Der finanzielle Verlust, der durch den Brand entstanden ist, wurde auf mehrere Millionen Euro geschätzt.
+  Le *préjudice* moral causé par ces accusations est incalculable.
+  Der seelische *Schaden*, den diese Anschuldigungen verursacht haben, ist unermesslich.
 
-  Le préjudice causé à l'entreprise par la grève des employés a été considérable.
-  Die Geschäftsschädigung, die durch den Streik der Angestellten verursacht wurde, war erheblich.
+  Sans *préjudice* de mes droits, j'accepte de négocier.
+  Ohne *Beeinträchtigung* meiner Rechte bin ich bereit zu verhandeln.
 
-  Le préjudice né du retard d'exécution de la prestation due a été évalué à 10 000 euros.
-  Der Verzögerungsschaden wurde auf 10 000 Euro beziffert.
+  Cette décision portera *préjudice* à sa réputation.
+  Diese Entscheidung wird seinem Ruf *schaden*.
 
-  Le préjudice subi par les victimes de l'accident de la route a été lourd.
-  Der Personenschaden, den die Opfer des Verkehrsunfalls erlitten haben, war schwerwiegend.
+  Les victimes demandent réparation du *préjudice* subi.
+  Die Opfer fordern Ersatz für den erlittenen *Schaden*.
 
-  Les propos de Jean ont causé un préjudice à sa réputation.
-  Die Aussagen von Jean haben seiner Reputation geschadet.
+  Le vandalisme a causé un *préjudice* matériel important.
+  Der Vandalismus hat einen erheblichen materiellen *Schaden* verursacht.
 
-  La construction de l'autoroute a porté préjudice à la tranquillité du village.
-  Der Bau der Autobahn hat die Ruhe des Dorfes beeinträchtigt.
+  Le juge a estimé le *préjudice* à plusieurs milliers d'euros.
+  Der Richter hat den *Schaden* auf mehrere tausend Euro geschätzt.
 
-  Les employés ont subi un préjudice important suite aux licenciements.
-  Die Mitarbeiter haben durch die Entlassungen erheblichen Schaden erlitten.
+  Cette fuite d'eau a porté *préjudice* à plusieurs appartements.
+  Dieser Wasserschaden hat mehreren Wohnungen *geschadet*.
+
+  Il a gagné son procès au *préjudice* de son concurrent.
+  Er hat seinen Prozess zum *Nachteil* seines Konkurrenten gewonnen.
+
+  Le *préjudice* extra-patrimonial sera difficile à évaluer.
+  Der immaterielle *Schaden* wird schwer zu bewerten sein.
+
+  Cette pollution cause un grave *préjudice* à l'environnement.
+  Diese Verschmutzung fügt der Umwelt schweren *Schaden* zu.
+
+  Son comportement porte *préjudice* à toute l'équipe.
+  Sein Verhalten *schadet* dem ganzen Team.
+
+  Le *préjudice* causé par cette erreur médicale est irréversible.
+  Der durch diesen Behandlungsfehler verursachte *Schaden* ist irreversibel.
+
+  Nous devons évaluer le *préjudice* causé par l'incendie.
+  Wir müssen den durch das Feuer verursachten *Schaden* bewerten.
+
+  La grève a causé un *préjudice* considérable aux commerces.
+  Der Streik hat den Geschäften erheblichen *Schaden* zugefügt.
+
+  Cette fraude a causé un *préjudice* à des milliers de clients.
+  Dieser Betrug hat tausenden Kunden *Schaden* zugefügt.
+
+  Les inondations ont causé des *préjudices* importants aux cultures.
+  Die Überschwemmungen haben den Kulturen erhebliche *Schäden* zugefügt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

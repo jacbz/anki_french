@@ -13,14 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’industrie forestière est très importante.
-  Die Forstindustrie ist sehr wichtig.
+  L'industrie *forestière* est très importante.
+  Die *Forst*wirtschaft ist sehr wichtig.
 
-  Il travaille comme garde forestier.
-  Er arbeitet als Förster.
+  Le garde *forestier* fait sa ronde quotidienne dans le parc.
+  Der *Förster* macht seinen täglichen Rundgang im Park.
 
-  La nouvelle association forestière a pour but de protéger les forêts et de promouvoir la gestion durable des ressources forestières.
-  Die neue forstwirtschaftliche Vereinigung hat sich zum Ziel gesetzt, die Wälder zu schützen und die nachhaltige Bewirtschaftung der Forst Ressourcen zu fördern.
+  Marie est devenue *forestière* après ses études en biologie.
+  Marie ist nach ihrem Biologiestudium *Försterin* geworden.
+
+  Le chemin *forestier* mène directement au lac.
+  Der *Wald*weg führt direkt zum See.
+
+  La nouvelle maison *forestière* se trouve au cœur de la réserve naturelle.
+  Das neue *Förster*haus befindet sich im Herzen des Naturschutzgebiets.
+
+  Les agents *forestiers* surveillent attentivement la croissance des jeunes arbres.
+  Die *Forst*beamten überwachen sorgfältig das Wachstum der jungen Bäume.
+
+  Le code *forestier* a été mis à jour l'année dernière.
+  Das *Forst*gesetz wurde letztes Jahr aktualisiert.
+
+  L'exploitation *forestière* durable protège notre environnement.
+  Die nachhaltige *Wald*bewirtschaftung schützt unsere Umwelt.
+
+  La route *forestière* sera fermée pendant les travaux d'entretien.
+  Die *Wald*straße wird während der Wartungsarbeiten gesperrt sein.
+
+  Les essences *forestières* locales s'adaptent bien au changement climatique.
+  Die einheimischen *Wald*bäume passen sich gut dem Klimawandel an.
+
+  L'association *forestière* organise une journée portes ouvertes ce weekend.
+  Die *Forst*genossenschaft veranstaltet dieses Wochenende einen Tag der offenen Tür.
+
+  Le nouveau garde *forestier* commence son service demain.
+  Der neue *Förster* beginnt morgen seinen Dienst.
+
+  Les experts *forestiers* ont identifié une nouvelle maladie des arbres.
+  Die *Forst*experten haben eine neue Baumkrankheit identifiziert.
+
+  La gestion *forestière* durable est notre principale priorité.
+  Die nachhaltige *Wald*bewirtschaftung ist unsere wichtigste Priorität.
+
+  Les produits *forestiers* sont une ressource économique importante.
+  *Wald*produkte sind eine wichtige wirtschaftliche Ressource.
+
+  Le sentier *forestier* sera balisé pour les randonneurs.
+  Der *Wald*pfad wird für Wanderer markiert werden.
+
+  La brigade *forestière* a réussi à maîtriser l'incendie.
+  Die *Forst*brigade hat es geschafft, den Brand unter Kontrolle zu bringen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

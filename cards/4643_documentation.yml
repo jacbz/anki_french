@@ -13,17 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’écris aussi des documentations en français.
-  Ich schreibe auch Dokumentationen auf Französisch.
+  J'écris aussi des *documentations* en français.
+  Ich schreibe auch *Dokumentationen* auf Französisch.
 
-  Je dois vérifier la documentation avant de prendre une décision.
-  Ich muss die Dokumentation überprüfen, bevor ich eine Entscheidung treffe.
+  La *documentation* du logiciel n'est pas à jour.
+  Die *Dokumentation* der Software ist nicht aktuell.
 
-  La documentation du programme explique comment le programme fonctionne et comment l'utiliser.
-  Die Programmdokumentation erklärt, wie das Programm funktioniert und wie man es benutzt.
+  Pour ma thèse, j'ai besoin d'une *documentation* complète sur ce sujet.
+  Für meine Dissertation brauche ich eine vollständige *Dokumentation* zu diesem Thema.
 
-  La documentation touristique contient des informations sur les lieux à visiter, les activités à faire et les hébergements disponibles.
-  Die Reiseliteratur enthält Informationen über die Sehenswürdigkeiten, die Aktivitäten und die Unterkünfte.
+  Le service de *documentation* est fermé aujourd'hui.
+  Die *Dokumentations*abteilung ist heute geschlossen.
+
+  Elle passe des heures à rassembler de la *documentation* pour son article.
+  Sie verbringt Stunden damit, *Unterlagen* für ihren Artikel zu sammeln.
+
+  As-tu lu la *documentation* technique du nouveau système ?
+  Hast du die technische *Dokumentation* des neuen Systems gelesen?
+
+  Notre guide contient toute la *documentation* touristique nécessaire.
+  Unser Führer enthält die gesamte notwendige *Reise**dokumentation*.
+
+  Le centre de *documentation* propose des ressources en ligne.
+  Das *Dokumentations*zentrum bietet Online-Ressourcen an.
+
+  La *documentation* automatique facilite nos recherches.
+  Die automatische *Dokumentation* erleichtert unsere Recherchen.
+
+  Il faut mettre à jour la *documentation* du programme chaque semaine.
+  Die *Dokumentation* des Programms muss wöchentlich aktualisiert werden.
+
+  Nous avons une excellente *documentation* sur l'histoire locale.
+  Wir haben eine ausgezeichnete *Dokumentation* zur lokalen Geschichte.
+
+  La *documentation* fournie avec l'appareil est très détaillée.
+  Die mitgelieferte *Dokumentation* des Geräts ist sehr ausführlich.
+
+  Les étudiants ont accès à toute la *documentation* en ligne.
+  Die Studenten haben Zugang zu allen *Unterlagen* online.
+
+  Sa *documentation* sur ce projet est vraiment exhaustive.
+  Seine *Dokumentation* zu diesem Projekt ist wirklich umfassend.
+
+  "Tu as la *doc* pour la nouvelle imprimante ?"
+  "Hast du die *Doku* für den neuen Drucker?"
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

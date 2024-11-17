@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La thèse se discute, assurément.
-  Die These lässt sich sicherlich diskutieren.
+  La thèse se discute, *assurément*.
+  Die These lässt sich *gewiss* diskutieren.
 
-  Assurément, il viendra nous voir demain.
-  Gewiss wird er uns morgen besuchen.
+  *Assurément*, cette solution ne plaira pas à tout le monde.
+  *Gewiss* wird diese Lösung nicht allen gefallen.
+
+  Il a *assurément* raté son train ce matin.
+  Er hat heute Morgen *zweifellos* seinen Zug verpasst.
+
+  Cette méthode est *assurément* la meilleure pour apprendre une langue.
+  Diese Methode ist *zweifelsohne* die beste, um eine Sprache zu lernen.
+
+  Vas-tu venir à la fête ? – *Assurément* !
+  Kommst du zur Party? – Aber *sicher*!
+
+  C'est *assurément* un expert dans son domaine, mais il manque parfois d'humilité.
+  Er ist *zweifellos* ein Experte auf seinem Gebiet, aber es fehlt ihm manchmal an Bescheidenheit.
+
+  Le candidat marchait *assurément* vers la victoire.
+  Der Kandidat schritt *gewiss* dem Sieg entgegen.
+
+  *Assurément*, nous devrons modifier notre approche.
+  Wir werden unseren Ansatz *gewiss* ändern müssen.
+
+  Cette décision aura *assurément* des conséquences importantes.
+  Diese Entscheidung wird *sicherlich* wichtige Folgen haben.
+
+  *Assurément* non, je ne peux pas accepter ces conditions.
+  *Keinesfalls* kann ich diese Bedingungen akzeptieren.
+
+  Il s'agit *assurément* d'une erreur de jugement.
+  Es handelt sich *zweifellos* um einen Urteilsfehler.
+
+  Le projet avancera *assurément* plus vite avec son aide.
+  Das Projekt wird mit seiner Hilfe *gewiss* schneller vorankommen.
+
+  *Assurément*, personne ne s'attendait à ce résultat.
+  *Sicherlich* hatte niemand mit diesem Ergebnis gerechnet.
+
+  Cette exposition sera *assurément* l'événement culturel de l'année.
+  Diese Ausstellung wird *zweifellos* das kulturelle Ereignis des Jahres sein.
+
+  Le changement climatique aura *assurément* un impact sur notre avenir.
+  Der Klimawandel wird *sicherlich* Auswirkungen auf unsere Zukunft haben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

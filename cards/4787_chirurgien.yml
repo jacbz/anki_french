@@ -13,17 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les chirurgiens disent qu’il n’a pas souffert.
-  Die Chirurgen sagen, dass er keine Schmerzen hatte.
+  Les *chirurgiens* disent qu'il n'a pas souffert.
+  Die *Chirurgen* sagen, dass er nicht gelitten hat.
 
-  Le chirurgien va opérer demain.
-  Der Chirurg wird morgen operieren.
+  Ma sœur est devenue *chirurgienne* après dix ans d'études.
+  Meine Schwester ist nach zehn Jahren Studium *Chirurgin* geworden.
 
-  Je suis le chirurgien.
-  Ich bin der Chirurg.
+  Le *chirurgien-dentiste* m'a recommandé de porter un appareil dentaire.
+  Der Zahn*chirurg* hat mir eine Zahnspange empfohlen.
 
-  La chirurgienne vasculaire a examiné le patient et a décidé qu'une intervention chirurgicale était nécessaire.
-  Die Gefäßchirurgin hat den Patienten untersucht und entschieden, dass eine Operation notwendig ist.
+  Cette *chirurgienne* vasculaire a sauvé la jambe de mon père.
+  Diese Gefäß*chirurgin* hat das Bein meines Vaters gerettet.
+
+  Le *chirurgien* a fait preuve d'une grande habileté pendant l'opération.
+  Der *Chirurg* zeigte während der Operation große Geschicklichkeit.
+
+  Je serai entre les mains d'un *chirurgien* expérimenté demain matin.
+  Ich werde morgen früh in den Händen eines erfahrenen *Chirurgen* sein.
+
+  Cette *chirurgienne* est réputée pour ses techniques innovantes.
+  Diese *Chirurgin* ist für ihre innovativen Techniken bekannt.
+
+  Le *chirurgien* m'a expliqué les risques de l'intervention.
+  Der *Chirurg* hat mir die Risiken des Eingriffs erklärt.
+
+  As-tu déjà rencontré le nouveau *chirurgien* du service ?
+  Hast du den neuen *Chirurgen* der Abteilung schon kennengelernt?
+
+  La *chirurgienne* travaille dans cet hôpital depuis vingt ans.
+  Die *Chirurgin* arbeitet seit zwanzig Jahren in diesem Krankenhaus.
+
+  Notre équipe compte trois *chirurgiens* et deux *chirurgiennes*.
+  Unser Team besteht aus drei *Chirurgen* und zwei *Chirurginnen*.
+
+  Le *chirurgien* qui m'a opéré part bientôt à la retraite.
+  Der *Chirurg*, der mich operiert hat, geht bald in den Ruhestand.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

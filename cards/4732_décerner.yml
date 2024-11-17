@@ -13,17 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  En science, on ne décerne pas de distinction pour les redécouvertes.
-  In der Wissenschaft werden keine Auszeichnungen für Wiederentdeckungen verliehen.
+  En science, on ne *décerne* pas de distinction pour les redécouvertes.
+  In der Wissenschaft *verleiht* man keine Auszeichnungen für Wiederentdeckungen.
 
-  Le prix a été décerné à la jeune chercheuse.
-  Der Preis wurde der jungen Forscherin verliehen.
+  Le jury lui a *décerné* le premier prix à l'unanimité.
+  Die Jury hat ihm einstimmig den ersten Preis *verliehen*.
 
-  Le jury a décerné le prix à Jean pour son roman.
-  Der Jury hat Jean für seinen Roman den Preis verliehen.
+  L'académie *décernera* trois bourses d'études cette année.
+  Die Akademie wird dieses Jahr drei Stipendien *vergeben*.
 
-  Le général a décerné une médaille à son soldat pour son courage.
-  Der General hat seinem Soldaten für seinen Mut eine Medaille verliehen.
+  Le juge a *décerné* un mandat d'arrêt contre le suspect.
+  Der Richter hat einen Haftbefehl gegen den Verdächtigen *erlassen*.
+
+  Les critiques lui ont *décerné* la palme du meilleur film.
+  Die Kritiker haben ihm die Auszeichnung für den besten Film *zuerkannt*.
+
+  On lui a *décerné* la médaille d'or pour ses performances exceptionnelles.
+  Man hat ihm für seine außergewöhnlichen Leistungen die Goldmedaille *verliehen*.
+
+  Le comité *décerne* chaque année un prix pour l'innovation.
+  Das Komitee *verleiht* jedes Jahr einen Preis für Innovation.
+
+  La ville lui a *décerné* le titre de citoyen d'honneur.
+  Die Stadt hat ihm den Titel des Ehrenbürgers *verliehen*.
+
+  Le tribunal a *décerné* un mandat de perquisition.
+  Das Gericht hat einen Durchsuchungsbefehl *erlassen*.
+
+  Cette université *décerne* des diplômes reconnus internationalement.
+  Diese Universität *verleiht* international anerkannte Abschlüsse.
+
+  On lui a *décerné* le prix Nobel de littérature à titre posthume.
+  Man hat ihm den Nobelpreis für Literatur posthum *verliehen*.
+
+  Le festival *décernera* trois récompenses ce soir.
+  Das Festival wird heute Abend drei Auszeichnungen *verleihen*.
+
+  Le public lui a *décerné* le prix du meilleur espoir.
+  Das Publikum hat ihr den Preis für die beste Nachwuchskünstlerin *verliehen*.
+
+  La fondation *décerne* des bourses aux étudiants les plus méritants.
+  Die Stiftung *vergibt* Stipendien an die verdienstvollsten Studenten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

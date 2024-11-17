@@ -13,26 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cet ours polaire doit aller dormir.
-  Dieser Eisbär muss schlafen gehen.
+  Cet *ours* polaire doit aller dormir.
+  Dieser Eis*bär* muss schlafen gehen.
 
-  L’ours brun est un animal impressionnant.
-  Der Braunbär ist ein beeindruckendes Tier.
+  L'*ours* brun est très dangereux quand il défend ses petits.
+  Der Braun*bär* ist sehr gefährlich, wenn er seine Jungen verteidigt.
 
-  Le gros ours blanc était bien plus impressionnant que le brun.
-  Der große Eisbär war viel beeindruckender als der Braunbär.
+  "Il *tourne comme un ours en cage* depuis qu'il attend les résultats."
+  "Er *läuft wie ein gefangenes Tier auf und ab*, seit er auf die Ergebnisse wartet."
 
-  Le lion tournait comme un ours en cage dans sa cage.
-  Der Löwe lief unruhig auf und ab in seinem Käfig.
+  Mon petit frère ne peut pas dormir sans son *ours* en peluche.
+  Mein kleiner Bruder kann nicht ohne seinen Teddy*bär* schlafen.
 
-  Il est un ours mal léché, qui ne sait pas se tenir.
-  Er ist ein ungehobelter Klotz, der sich nicht benehmen kann.
+  L'*ours* marin se repose sur les rochers au bord de la mer.
+  Die See*bärin* ruht sich auf den Felsen am Meer aus.
 
-  Il vit comme un ours dans sa cabane isolée dans la forêt.
-  Er lebt wie ein Einsiedler in seiner abgelegenen Hütte im Wald.
+  "C'est un véritable *ours mal léché* avec ses manières grossières !"
+  "Er ist ein richtiger *Rüpel* mit seinen groben Manieren!"
 
-  Il a offert à sa fille un ours en peluche pour son anniversaire.
-  Er hat seiner Tochter zum Geburtstag einen Plüschbären geschenkt.
+  Regardez cet *ours* gris qui pêche des saumons dans la rivière !
+  Schaut euch den Grizzly*bären* an, der im Fluss Lachse fängt!
+
+  Elle *vit comme un ours* dans sa cabane au fond des bois.
+  Sie *lebt wie ein Einsiedler* in ihrer Hütte tief im Wald.
+
+  Les enfants adorent câliner leur *ours* en peluche avant de s'endormir.
+  Die Kinder kuscheln gerne mit ihrem Plüsch*bären*, bevor sie einschlafen.
+
+  "Il est devenu très *ours* depuis son divorce."
+  "Er ist seit seiner Scheidung sehr *griesgrämig* geworden."
+
+  L'*ours* noir cherche du miel dans les ruches sauvages.
+  Der Schwarz*bär* sucht in den wilden Bienenstöcken nach Honig.
+
+  Ne *vendons pas la peau de l'ours* avant de l'avoir attrapé.
+  Wir sollten *den Tag nicht vor dem Abend loben*.
+
+  Le vieil *ours* solitaire n'est jamais sorti de sa grotte cet hiver.
+  Der alte Einsiedler*bär* hat seine Höhle diesen Winter nie verlassen.
+
+  J'ai vérifié l'*ours* du magazine pour trouver le nom du rédacteur en chef.
+  Ich habe im *Impressum* der Zeitschrift nach dem Namen des Chefredakteurs gesucht.
+
+  Les *ours* blancs sont menacés par le réchauffement climatique.
+  Die Eis*bären* sind durch die Klimaerwärmung bedroht.
+
+  "Tu as la délicatesse d'un *ours* quand tu danses !"
+  "Du hast die Anmut eines *Bären*, wenn du tanzt!"
+
+  Le petit garçon a reçu un nouvel *ours* pour son anniversaire.
+  Der kleine Junge hat zum Geburtstag einen neuen Teddy*bären* bekommen.
+
+  L'*ours* grognait furieusement derrière les barreaux de sa cage.
+  Der *Bär* brummte wütend hinter den Gitterstäben seines Käfigs.
+
+  "Il a le caractère d'un vieil *ours* depuis qu'il habite seul."
+  "Er hat das Gemüt eines alten *Brummbären*, seit er allein wohnt."
+
+  Les *ours* peuvent se dresser sur leurs pattes arrière.
+  Die *Bären* können sich auf ihre Hinterpfoten stellen.
+
+  Le montreur d'*ours* parcourait autrefois les villages avec son animal.
+  Der *Bären*führer zog früher mit seinem Tier durch die Dörfer.
+
+  L'*ours* s'est régalé des fruits qu'il a trouvés dans le verger.
+  Der *Bär* hat sich an den Früchten gelabert, die er im Obstgarten gefunden hat.
+
+  "C'est un vrai *ours* : il ne sort jamais de chez lui."
+  "Er ist ein richtiger *Griesgram*: Er geht nie aus dem Haus."
+
+  L'*ours* polaire nage entre les icebergs à la recherche de phoques.
+  Der Eis*bär* schwimmt zwischen den Eisbergen auf der Suche nach Robben.
+
+  La fosse aux *ours* était l'attraction principale du vieux zoo.
+  Der *Bären*graben war die Hauptattraktion des alten Zoos.
+
+  Marie dort toujours avec son vieil *ours* tout usé.
+  Marie schläft immer mit ihrem alten, abgenutzten Teddy*bären*.
+
+  Les *ours* se nourrissent de baies pendant l'été.
+  Die *Bären* ernähren sich im Sommer von Beeren.
+
+  "Il a fait le *pavé de l'ours* en voulant m'aider."
+  "Er hat mir einen *Bärendienst* erwiesen, als er mir helfen wollte."
+
+  Les *ours* se préparent pour l'hibernation en automne.
+  Die *Bären* bereiten sich im Herbst auf den Winterschlaf vor.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il nous a tout donné gratuitement.
-  Er hat uns alles umsonst gegeben.
+  Il nous a tout donné *gratuitement*.
+  Er hat uns alles *kostenlos* gegeben.
 
-  Le musée est ouvert gratuitement le premier dimanche du mois.
-  Das Museum ist am ersten Sonntag des Monats kostenlos geöffnet.
+  Les étudiants peuvent voyager *gratuitement* en bus avec leur carte.
+  Die Studenten können mit ihrer Karte *kostenlos* Bus fahren.
 
-  Le jeune homme a risqué gratuitement sa vie en sautant du haut de la falaise.
-  Der junge Mann hat grundlos sein Leben aufs Spiel gesetzt, indem er von der hohen Klippe gesprungen ist.
+  Le médecin soigne les réfugiés *gratuitement*.
+  Der Arzt behandelt die Flüchtlinge *kostenlos*.
 
-  Le tueur a commis gratuitement un crime, sans aucune raison apparente.
-  Der Mörder hat ohne Motiv ein Verbrechen begangen, ohne ersichtlichen Grund.
+  L'application peut être téléchargée *gratuitement* sur votre portable.
+  Die App kann *kostenlos* auf Ihr Handy heruntergeladen werden.
+
+  Il aide les personnes âgées *gratuitement* pendant son temps libre.
+  Er hilft älteren Menschen in seiner Freizeit *unentgeltlich*.
+
+  Marie accuse son frère *gratuitement* sans avoir de preuves.
+  Marie beschuldigt ihren Bruder *grundlos*, ohne Beweise zu haben.
+
+  Pourquoi risquer *gratuitement* ta vie pour impressionner les autres ?
+  Warum setzt du dein Leben *grundlos* aufs Spiel, um andere zu beeindrucken?
+
+  Il ne faut pas juger les autres *gratuitement*.
+  Man sollte andere nicht *willkürlich* verurteilen.
+
+  Le musée est ouvert *gratuitement* le premier dimanche du mois.
+  Das Museum ist am ersten Sonntag im Monat *kostenlos* geöffnet.
+
+  Il a commis ce crime *gratuitement*, sans aucune raison apparente.
+  Er hat dieses Verbrechen *ohne Motiv* begangen, ohne erkennbaren Grund.
+
+  Tu supposes *gratuitement* que je suis responsable de cette erreur.
+  Du nimmst *ungerechtfertigterweise* an, dass ich für diesen Fehler verantwortlich bin.
+
+  Cette bibliothèque prête des livres *gratuitement* à tous les habitants.
+  Diese Bibliothek verleiht *kostenlos* Bücher an alle Einwohner.
+
+  Il agit souvent *gratuitement*, sans réfléchir aux conséquences.
+  Er handelt oft *unmotiviert*, ohne über die Konséquenzen nachzudenken.
+
+  Nous distribuons ces échantillons *gratuitement*.
+  Wir verteilen diese Proben *kostenlos*.
+
+  Elle a prêté *gratuitement* de mauvaises intentions à sa collègue.
+  Sie hat ihrer Kollegin *grundlos* böse Absichten unterstellt.
+
+  Les enfants de moins de 6 ans entrent *gratuitement* au parc d'attractions.
+  Kinder unter 6 Jahren haben *freien* Eintritt in den Vergnügungspark.
+
+  Tu avances des accusations *gratuitement*, sans aucune preuve.
+  Du erhebst *grundlose* Anschuldigungen, ohne jeglichen Beweis.
+
+  Les spectateurs ont pu assister *gratuitement* au concert dans le parc.
+  Die Zuschauer konnten das Konzert im Park *kostenlos* besuchen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

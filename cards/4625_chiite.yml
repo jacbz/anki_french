@@ -13,11 +13,41 @@ Register: ↘Fiktion ↗Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La conférence devait réunir des leaders chiites, sunnites et kurdes.
-  An der Konferenz sollten schiitische, sunnitische und kurdische Führer teilnehmen.
+  La conférence devait réunir des leaders *chiites*, sunnites et kurdes.
+  Die Konferenz sollte *schiitische*, sunnitische und kurdische Führer zusammenbringen.
 
-  Il est chiite.
-  Er ist Schiit.
+  Un important chef religieux *chiite* a lancé un appel au dialogue interconfessionnel.
+  Ein wichtiger *schiitischer* Religionsführer hat zum interreligiösen Dialog aufgerufen.
+
+  Les *chiites* représentent environ 15 % des musulmans dans le monde.
+  Die *Schiiten* machen etwa 15 % der Muslime weltweit aus.
+
+  Cette mosquée est un lieu de culte *chiite* traditionnel.
+  Diese Moschee ist eine traditionelle *schiitische* Gebetsstätte.
+
+  La population *chiite* célèbre aujourd'hui une fête religieuse importante.
+  Die *schiitische* Bevölkerung feiert heute ein wichtiges religiöses Fest.
+
+  Les traditions *chiites* se transmettent de génération en génération.
+  Die *schiitischen* Traditionen werden von Generation zu Generation weitergegeben.
+
+  De nombreux pèlerins *chiites* visitent les villes saintes chaque année.
+  Viele *schiitische* Pilger besuchen jedes Jahr die heiligen Städte.
+
+  L'imam *chiite* dirige la prière du vendredi.
+  Der *schiitische* Imam leitet das Freitagsgebet.
+
+  Cette université forme des théologiens *chiites* depuis des siècles.
+  Diese Universität bildet seit Jahrhunderten *schiitische* Theologen aus.
+
+  Les communautés *chiites* et sunnites coexistent pacifiquement dans ce quartier.
+  Die *schiitischen* und sunnitischen Gemeinschaften leben in diesem Viertel friedlich zusammen.
+
+  Un chercheur a publié une étude sur l'histoire de la pensée *chiite*.
+  Ein Forscher hat eine Studie über die Geschichte des *schiitischen* Denkens veröffentlicht.
+
+  Les textes sacrés *chiites* sont conservés dans cette bibliothèque historique.
+  Die *schiitischen* heiligen Texte werden in dieser historischen Bibliothek aufbewahrt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

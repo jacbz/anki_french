@@ -13,26 +13,53 @@ Register: ↘Fiktion ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tous les pays sont connectés à internet.
-  Alle Länder sind mit dem Internet verbunden.
+  Tous les pays sont *connectés* à internet.
+  Alle Länder sind ans Internet *angeschlossen*.
 
-  Je vais connecter mon téléphone à l’ordinateur.
-  Ich werde mein Telefon mit dem Computer verbinden.
+  Pour suivre le cours en ligne, il faut se *connecter* avant 9 heures.
+  Um dem Online-Kurs zu folgen, muss man sich vor 9 Uhr *einloggen*.
 
-  Il est important de connecter les ordinateurs en réseau pour partager des fichiers et des imprimantes.
-  Es ist wichtig, Computer zu vernetzen, um Dateien und Drucker gemeinsam zu nutzen.
+  L'électricien a *connecté* les fils selon le schéma.
+  Der Elektriker hat die Drähte nach Plan *verbunden*.
 
-  J'ai oublié mon mot de passe, je ne peux pas me connecter au réseau.
-  Ich habe mein Passwort vergessen, ich kann mich nicht ins Netz einloggen.
+  Je n'arrive pas à *connecter* mon clavier sans fil.
+  Ich schaffe es nicht, meine kabellose Tastatur *anzuschließen*.
 
-  Ce câble connecte l'imprimante avec l'ordinateur, mais il ne fonctionne pas.
-  Dieses Kabel verbindet den Drucker mit dem Computer, aber es funktioniert nicht.
+  Elle s'est *connectée* au réseau WiFi du café.
+  Sie hat sich ins WLAN des Cafés *eingeloggt*.
 
-  Se connecter à Internet est devenu indispensable pour beaucoup de personnes.
-  Sich ins Internet einzuloggen ist für viele Menschen unerlässlich geworden.
+  Le technicien doit *connecter* l'imprimante au système.
+  Der Techniker muss den Drucker ans System *anschließen*.
 
-  Je suis connecté, mais je n'arrive pas à accéder à ce site web.
-  Ich bin online, aber ich kann auf diese Webseite nicht zugreifen.
+  Les deux bâtiments sont *connectés* par un tunnel souterrain.
+  Die beiden Gebäude sind durch einen unterirdischen Tunnel *verbunden*.
+
+  Mon smartphone ne peut pas se *connecter* automatiquement.
+  Mein Smartphone kann sich nicht automatisch *verbinden*.
+
+  L'assistant va vous aider à *connecter* vos appareils.
+  Der Assistent wird Ihnen helfen, Ihre Geräte *anzuschließen*.
+
+  Il faut *connecter* le tuyau à la source d'eau.
+  Man muss das Rohr an die Wasserquelle *anschließen*.
+
+  Les étudiants doivent se *connecter* à la plateforme d'apprentissage.
+  Die Studenten müssen sich auf der Lernplattform *einloggen*.
+
+  Le câble USB *connecte* la souris à l'ordinateur.
+  Das USB-Kabel *verbindet* die Maus mit dem Computer.
+
+  Nous avons *connecté* tous les ordinateurs en réseau.
+  Wir haben alle Computer miteinander *vernetzt*.
+
+  Le nouveau routeur permet de *connecter* plus d'appareils.
+  Der neue Router ermöglicht es, mehr Geräte *anzuschließen*.
+
+  Une fois *connecté*, vous aurez accès à toutes les ressources.
+  Sobald Sie *online* sind, haben Sie Zugriff auf alle Ressourcen.
+
+  Les deux lignes électriques ont été *connectées* hier.
+  Die beiden Stromleitungen wurden gestern *verbunden*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

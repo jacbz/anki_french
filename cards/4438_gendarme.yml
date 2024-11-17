@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les gendarmes poursuivent leurs investigations.
-  Die Gendarmen setzen ihre Ermittlungen fort.
+  Les *gendarmes* poursuivent leurs investigations.
+  Die *Polizisten* setzen ihre Ermittlungen fort.
 
-  Les gendarmes patrouillent dans la ville.
-  Die Gendarmen patrouillieren durch die Stadt.
+  La brigade de *gendarmerie* a arrêté deux suspects hier soir.
+  Die *Polizei*station hat gestern Abend zwei Verdächtige festgenommen.
 
-  Les gendarmes mobiles sont souvent appelés pour intervenir lors de manifestations.
-  Bereitschaftspolizisten werden oft zu Einsätzen bei Demonstrationen gerufen.
+  Un *gendarme* à cheval patrouillait dans les rues du village.
+  Ein berittener *Polizist* patrouillierte durch die Dorfstraßen.
 
-  Les enfants adorent jouer au gendarme et au voleur dans la cour de récréation.
-  Kinder spielen auf dem Pausenhof sehr gerne Räuber und Gendarm.
+  Les *gendarmes* mobiles ont été déployés pour maintenir l'ordre pendant la manifestation.
+  Die *Bereitschaftspolizisten* wurden eingesetzt, um während der Demonstration die Ordnung aufrechtzuerhalten.
+
+  "Marie fait toujours le *gendarme* avec ses petits frères."
+  "Marie spielt immer den *Feldwebel* bei ihren kleinen Brüdern."
+
+  Le témoin a été escorté par deux *gendarmes* jusqu'à la salle d'audience.
+  Der Zeuge wurde von zwei *Polizisten* in den Gerichtssaal begleitet.
+
+  Les enfants s'amusaient à jouer aux *gendarmes* et aux voleurs dans la cour.
+  Die Kinder spielten auf dem Hof *Polizist* und Räuber.
+
+  Sophie est devenue *gendarme* après ses études de droit.
+  Sophie wurde nach ihrem Jurastudium *Polizistin*.
+
+  "Il dort en *gendarme* depuis qu'on a cambriolé sa maison."
+  "Er schläft nur noch *mit einem Auge* seit dem Einbruch in sein Haus."
+
+  Les *gendarmes* ont dressé un procès-verbal pour excès de vitesse.
+  Die *Polizisten* haben einen Strafzettel wegen zu schnellen Fahrens ausgestellt.
+
+  On a acheté une paire de *gendarmes* à la charcuterie pour le pique-nique.
+  Wir haben ein Paar *Landjäger* in der Metzgerei für das Picknick gekauft.
+
+  "Tu fais trop le *gendarme* avec tes employés !"
+  "Du spielst zu sehr den *Aufpasser* bei deinen Angestellten!"
+
+  La *peur du gendarme* est le début de la sagesse.
+  Die *Angst vor der Polizei* ist der Anfang der Weisheit.
+
+  Les alpinistes ont dû contourner un *gendarme* rocheux sur l'arête.
+  Die Bergsteiger mussten einen Fels*zacken* auf dem Grat umgehen.
+
+  La nouvelle *gendarme* a commencé son service cette semaine.
+  Die neue *Polizistin* hat diese Woche ihren Dienst begonnen.
+
+  Les *gendarmes* ont organisé une collecte pour l'orphelinat local.
+  Die *Polizisten* haben eine Sammlung für das örtliche Waisenhaus organisiert.
+
+  Cette administration agit comme le *gendarme* du marché financier.
+  Diese Behörde fungiert als *Aufseher* des Finanzmarktes.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

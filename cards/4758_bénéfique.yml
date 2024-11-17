@@ -13,17 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les faits prouvent que le mariage est bénéfique pour les enfants.
-  Die Fakten belegen, dass die Ehe für Kinder von Vorteil ist.
+  Les faits prouvent que le mariage est *bénéfique* pour les enfants.
+  Die Fakten beweisen, dass die Ehe für Kinder *vorteilhaft* ist.
 
-  Le sport est bénéfique pour la santé.
-  Sport ist gut für die Gesundheit.
+  Cette pratique méditative s'est avérée très *bénéfique* pour ma santé mentale.
+  Diese Meditationspraxis hat sich für meine psychische Gesundheit als sehr *günstig* erwiesen.
 
-  Le sport est bénéfique à la santé.
-  Sport wirkt sich günstig auf die Gesundheit aus.
+  Le soleil et l'air frais auront un effet *bénéfique* sur ton moral.
+  Sonne und frische Luft werden sich *günstig* auf deine Stimmung auswirken.
 
-  Une bonne alimentation est bénéfique pour les enfants.
-  Eine gute Ernährung wirkt sich günstig auf die Kinder aus.
+  Un séjour en montagne serait *bénéfique* pour ses poumons.
+  Ein Aufenthalt in den Bergen wäre für seine Lungen *vorteilhaft*.
+
+  L'influence *bénéfique* de sa présence se fait sentir dans toute l'équipe.
+  Der *positive* Einfluss seiner Anwesenheit ist im ganzen Team zu spüren.
+
+  Les effets *bénéfiques* de ce nouveau médicament sont impressionnants.
+  Die *günstigen* Wirkungen dieses neuen Medikaments sind beeindruckend.
+
+  Cette thérapie s'est révélée particulièrement *bénéfique* pour les patients.
+  Diese Therapie hat sich für die Patienten als besonders *heilsam* erwiesen.
+
+  Le sport est *bénéfique* pour le corps et l'esprit.
+  Sport ist für Körper und Geist *günstig*.
+
+  L'exercice physique régulier est *bénéfique* à tout âge.
+  Regelmäßige körperliche Bewegung ist in jedem Alter *vorteilhaft*.
+
+  Son soutien a été *bénéfique* pour la réussite du projet.
+  Seine Unterstützung war für den Erfolg des Projekts *förderlich*.
+
+  Ces changements auront un impact *bénéfique* sur l'environnement.
+  Diese Änderungen werden sich *günstig* auf die Umwelt auswirken.
+
+  La présence des grands-parents est souvent *bénéfique* pour l'éducation des enfants.
+  Die Anwesenheit der Großeltern ist oft *vorteilhaft* für die Erziehung der Kinder.
+
+  Cette expérience à l'étranger a été très *bénéfique* pour son développement personnel.
+  Diese Auslandserfahrung war für seine persönliche Entwicklung sehr *förderlich*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

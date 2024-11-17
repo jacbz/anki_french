@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis l’aboutissement de tous ces instincts.
-  Ich bin das Ergebnis all dieser Instinkte.
+  Je suis l'*aboutissement* de tous ces instincts.
+  Ich bin das *Ergebnis* all dieser Instinkte.
 
-  Son travail a finalement trouvé son aboutissement.
-  Seine Arbeit hat schließlich ihre Erfüllung gefunden.
+  L'*aboutissement* de ses efforts a été récompensé par une médaille d'or.
+  Der *Erfolg* seiner Bemühungen wurde mit einer Goldmedaille belohnt.
+
+  Cette découverte représente l'*aboutissement* de dix années de recherche intensive.
+  Diese Entdeckung stellt das *Ergebnis* von zehn Jahren intensiver Forschung dar.
+
+  L'*aboutissement* de l'autoroute se trouve à deux kilomètres de la ville.
+  Der *Endpunkt* der Autobahn liegt zwei Kilometer von der Stadt entfernt.
+
+  Nous attendons avec impatience l'*aboutissement* du projet.
+  Wir warten ungeduldig auf den *Abschluss* des Projekts.
+
+  L'exposition est l'*aboutissement* naturel de son travail artistique.
+  Die Ausstellung ist der natürliche *Höhepunkt* seiner künstlerischen Arbeit.
+
+  Ces négociations ont trouvé leur *aboutissement* dans un accord historique.
+  Diese Verhandlungen fanden ihren *Abschluss* in einem historischen Abkommen.
+
+  L'*aboutissement* de ses rêves d'enfant l'a rendu très heureux.
+  Die *Verwirklichung* seiner Kindheitsträume hat ihn sehr glücklich gemacht.
+
+  Voici l'*aboutissement* logique de toutes nos discussions.
+  Das ist das logische *Ergebnis* all unserer Diskussionen.
+
+  Cette cérémonie marque l'*aboutissement* de leurs études.
+  Diese Zeremonie markiert den *Abschluss* ihres Studiums.
+
+  L'*aboutissement* de cette affaire nous a tous surpris.
+  Der *Ausgang* dieser Angelegenheit hat uns alle überrascht.
+
+  Marie voit enfin l'*aboutissement* de son dur labeur.
+  Marie sieht endlich das *Ergebnis* ihrer harten Arbeit.
+
+  L'*aboutissement* de ces années de privation fut l'achat d'une maison.
+  Das *Resultat* dieser Jahre der Entbehrung war der Kauf eines Hauses.
+
+  C'est l'*aboutissement* naturel d'une longue évolution.
+  Das ist der natürliche *Endpunkt* einer langen Entwicklung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

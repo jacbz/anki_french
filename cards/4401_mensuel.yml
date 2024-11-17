@@ -13,17 +13,53 @@ Register: ↗Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il touchait un salaire mensuel de 70.000 francs.
-  Er bezog ein monatliches Gehalt von 70.000 Franken.
+  Il touchait un salaire *mensuel* de 70.000 francs.
+  Er bezog ein *monatliches* Gehalt von 70.000 Franken.
 
-  Je reçois un salaire mensuel.
-  Ich erhalte ein monatliches Gehalt.
+  Le loyer *mensuel* de son appartement s'élève à 800 euros.
+  Die *monatliche* Miete seiner Wohnung beträgt 800 Euro.
 
-  "Le Point" est un magazine mensuel d'actualité et d'analyse.
-  "Der Punkt" ist eine Monatsschrift für aktuelle Nachrichten und Analysen.
+  Les réunions *mensuelles* de l'équipe permettent de faire le point sur nos projets.
+  Die *monatlichen* Team-Meetings erlauben es uns, den Stand unserer Projekte zu besprechen.
 
-  "Elle" est un magazine mensuel pour les femmes.
-  "Elle" ist eine Monatsschrift für Frauen.
+  J'ai oublié de payer ma facture *mensuelle* d'électricité.
+  Ich habe vergessen, meine *monatliche* Stromrechnung zu bezahlen.
+
+  Notre budget *mensuel* ne nous permet pas de partir en vacances.
+  Unser *monatliches* Budget erlaubt es uns nicht, in den Urlaub zu fahren.
+
+  Elle lit régulièrement ce *mensuel* sur la photographie.
+  Sie liest regelmäßig diese *Monatszeitschrift* über Fotografie.
+
+  Le nouveau *mensuel* sur l'écologie connaît un grand succès.
+  Die neue Umwelt-*Monatszeitschrift* ist sehr erfolgreich.
+
+  Les dépenses *mensuelles* du ménage ont considérablement augmenté.
+  Die *monatlichen* Haushaltsausgaben sind erheblich gestiegen.
+
+  La cotisation *mensuelle* à la salle de sport coûte 45 euros.
+  Der *monatliche* Fitnessstudio-Beitrag kostet 45 Euro.
+
+  Ce *mensuel* propose des articles très intéressants sur l'art contemporain.
+  Diese *Monatszeitschrift* bietet sehr interessante Artikel über zeitgenössische Kunst.
+
+  Le bilan *mensuel* des ventes sera présenté demain.
+  Die *monatliche* Verkaufsbilanz wird morgen vorgestellt.
+
+  Notre abonnement *mensuel* aux transports en commun expire la semaine prochaine.
+  Unser *monatliches* Nahverkehrs-Abo läuft nächste Woche ab.
+
+  Le contrôle *mensuel* de la machine est obligatoire.
+  Die *monatliche* Kontrolle der Maschine ist verpflichtend.
+
+  Mon frère est devenu *mensuel* dans cette entreprise.
+  Mein Bruder ist in dieser Firma zum *Monatsgehalt*-Empfänger geworden.
+
+  La consultation *mensuelle* chez le médecin l'aide à suivre son traitement.
+  Die *monatliche* Arztvisite hilft ihr, ihre Behandlung zu verfolgen.
+
+  Le rédacteur en chef de ce *mensuel* a démissionné hier.
+  Der Chefredakteur dieser *Monatszeitschrift* ist gestern zurückgetreten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

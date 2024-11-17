@@ -13,29 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est le meilleur soldat du régiment.
-  Er ist der beste Soldat des Regiments.
+  C'est le meilleur soldat du *régiment*.
+  Er ist der beste Soldat des *Regiments*.
 
-  Il a été promu au grade de colonel dans le régiment.
-  Er wurde zum Oberst im Regiment befördert.
+  Le colonel commandait un *régiment* de chars.
+  Der Oberst befehligte ein Panzer*regiment*.
 
-  Le régiment de cavalerie était composé de soldats expérimentés.
-  Das Kavallerieregiment bestand aus erfahrenen Soldaten.
+  "Mon fils est au *régiment* depuis trois mois."
+  "Mein Sohn ist seit drei Monaten beim *Bund*."
 
-  Il avait un régiment de cousins qui l'aidaient dans ses affaires.
-  Er hatte ein ganzes Heer von Vettern, die ihm in seinen Geschäften halfen.
+  Le *régiment* de cavalerie participera au défilé.
+  Das Kavallerie*regiment* wird an der Parade teilnehmen.
 
-  Le régiment de chars était prêt à attaquer.
-  Das Panzerregiment war bereit zum Angriff.
+  Un *régiment* d'hélicoptères de combat survole la zone.
+  Ein Kampfhubschrauber*regiment* überfliegt das Gebiet.
 
-  Il a décidé d'aller au régiment après avoir terminé ses études.
-  Er entschied sich, zum Bund zu gehen, nachdem er sein Studium abgeschlossen hatte.
+  "Il est parti faire son *régiment* la semaine dernière."
+  "Er ist letzte Woche zum *Wehrdienst* gegangen."
 
-  Il est au régiment depuis deux ans maintenant.
-  Er ist jetzt seit zwei Jahren beim Bund.
+  J'ai un *régiment* de cousins à inviter au mariage.
+  Ich habe ein ganzes *Heer* von Cousins, die ich zur Hochzeit einladen muss.
 
-  Il y en a pour tout un régiment, on peut en donner à tout le monde.
-  Das reicht ja für eine ganze Kompanie, man kann allen etwas geben.
+  Le deuxième *régiment* d'infanterie a reçu une médaille.
+  Das zweite Infanterie*regiment* hat eine Medaille erhalten.
+
+  "Il y a de la nourriture pour tout un *régiment*!"
+  "Das reicht ja für eine ganze *Kompanie*!"
+
+  Le *régiment* défilera sur les Champs-Élysées le 14 juillet.
+  Das *Regiment* wird am 14. Juli über die Champs-Élysées marschieren.
+
+  "Je l'ai connu quand on était au *régiment* ensemble."
+  "Ich habe ihn kennengelernt, als wir zusammen beim *Bund* waren."
+
+  Un *régiment* de touristes attend devant le musée.
+  Eine *Unmenge* von Touristen wartet vor dem Museum.
+
+  Le *régiment* du génie construit un nouveau pont.
+  Das Pionier*regiment* baut eine neue Brücke.
+
+  L'étendard de notre *régiment* date de 1870.
+  Die Standarte unseres *Regiments* stammt aus dem Jahr 1870.
+
+  "Mon grand-père a servi dans le *régiment* Royal-Allemand."
+  "Mein Großvater diente im Royal-Allemand-*Regiment*."
+
+  Le *régiment* des transmissions assure les communications.
+  Das Fernmelde*regiment* stellt die Kommunikation sicher.
+
+  "Tu pars quand au *régiment*?"
+  "Wann gehst du zum *Bund*?"
+
+  Un *régiment* de fourmis envahit la cuisine.
+  Eine *Unmenge* Ameisen fällt in die Küche ein.
+
+  Le *régiment* parachutiste s'entraîne dans les montagnes.
+  Das Fallschirmjäger*regiment* übt in den Bergen.
+
+  Les soldats du *régiment* nettoient leurs armes.
+  Die Soldaten des *Regiments* reinigen ihre Waffen.
+
+  La fanfare du *régiment* jouera dimanche.
+  Die Kapelle des *Regiments* wird am Sonntag spielen.
+
+  Le *régiment* de Champagne était stationné à Reims.
+  Das Champagne-*Regiment* war in Reims stationiert.
+
+  "J'ai assez de gâteaux pour nourrir un *régiment*!"
+  "Ich habe genug Kuchen für eine ganze *Kompanie*!"
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

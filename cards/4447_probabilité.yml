@@ -13,23 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  T’es-tu intéressé à la théorie des probabilités?
-  Hast du dich für die Wahrscheinlichkeitstheorie interessiert?
+  T'es-tu intéressé à la théorie des *probabilités* ?
+  Hast du dich für die *Wahrscheinlichkeits*theorie interessiert?
 
-  La probabilité de gagner est faible.
-  Die Wahrscheinlichkeit zu gewinnen ist gering.
+  La *probabilité* d'une erreur système est très faible.
+  Die *Wahrscheinlichkeit* eines Systemfehlers ist sehr gering.
 
-  La probabilité d'erreur est un concept important en statistique et en théorie de l'information.
-  Die Fehlerwahrscheinlichkeit ist ein wichtiges Konzept in der Statistik und der Informationstheorie.
+  Selon toute *probabilité*, Marie viendra à la fête demain.
+  Aller *Wahrscheinlichkeit* nach wird Marie morgen zur Party kommen.
 
-  Le calcul des probabilités est un domaine des mathématiques qui étudie les événements aléatoires.
-  Die Wahrscheinlichkeitsrechnung ist ein Teilgebiet der Mathematik, das sich mit zufälligen Ereignissen befasst.
+  Les étudiants apprennent le calcul des *probabilités* en terminale.
+  Die Schüler lernen *Wahrscheinlichkeits*rechnung in der Abschlussklasse.
 
-  Le taux de probabilité est une mesure de la probabilité d'un événement.
-  Die Wahrscheinlichkeit ist ein Maß für die Wahrscheinlichkeit eines Ereignisses.
+  Le taux de *probabilité* qu'il pleuve aujourd'hui est de 80%.
+  Die *Wahrscheinlichkeit*, dass es heute regnet, liegt bei 80%.
 
-  Selon toute probabilité, il pleuvra demain.
-  Aller Wahrscheinlichkeit nach wird es morgen regnen.
+  La *probabilité* de gagner au loto est presque nulle.
+  Die *Wahrscheinlichkeit*, im Lotto zu gewinnen, ist fast null.
+
+  J'étudie les *probabilités* depuis le début du semestre.
+  Ich studiere *Wahrscheinlichkeits*rechnung seit Semesterbeginn.
+
+  Quelle est la *probabilité* pour que le train arrive à l'heure ?
+  Wie hoch ist die *Wahrscheinlichkeit*, dass der Zug pünktlich kommt?
+
+  La *probabilité* de réussite augmente avec la pratique.
+  Die Erfolgs*wahrscheinlichkeit* steigt mit der Übung.
+
+  En toute *probabilité*, nous aurons fini le projet avant vendredi.
+  Höchst*wahrscheinlich* werden wir das Projekt vor Freitag beenden.
+
+  Les *probabilités* indiquent qu'il fera beau ce week-end.
+  Die *Wahrscheinlichkeits*prognose deutet auf schönes Wetter am Wochenende hin.
+
+  Les médecins évaluent la *probabilité* de guérison à 95%.
+  Die Ärzte schätzen die Heilungs*wahrscheinlichkeit* auf 95%.
+
+  Cette *probabilité* ne peut pas être négligée dans nos calculs.
+  Diese *Wahrscheinlichkeit* darf in unseren Berechnungen nicht vernachlässigt werden.
+
+  La *probabilité* d'obtenir un six avec un dé est de 1/6.
+  Die *Wahrscheinlichkeit*, eine Sechs zu würfeln, beträgt 1/6.
+
+  Il base ses décisions sur des *probabilités* plutôt que des certitudes.
+  Er trifft seine Entscheidungen auf Basis von *Wahrscheinlichkeiten* statt Gewissheiten.
+
+  La *probabilité* d'une panne technique est minime.
+  Die *Wahrscheinlichkeit* eines technischen Defekts ist minimal.
+
+  Les *probabilités* de succès sont en notre faveur.
+  Die Erfolgs*wahrscheinlichkeiten* stehen zu unseren Gunsten.
+
+  La *probabilité* qu'il neige en été est quasi nulle.
+  Die *Wahrscheinlichkeit*, dass es im Sommer schneit, ist praktisch null.
+
+  Les experts calculent la *probabilité* d'un tremblement de terre.
+  Die Experten berechnen die *Wahrscheinlichkeit* eines Erdbebens.
+
+  Cette *probabilité* est trop faible pour être prise en compte.
+  Diese *Wahrscheinlichkeit* ist zu gering, um berücksichtigt zu werden.
+
+  La *probabilité* de trouver un emploi augmente avec le niveau d'études.
+  Die *Wahrscheinlichkeit*, einen Job zu finden, steigt mit dem Bildungsniveau.
+
+  Les *probabilités* montrent que l'équipe devrait gagner le match.
+  Die *Wahrscheinlichkeiten* zeigen, dass die Mannschaft das Spiel gewinnen sollte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,38 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je l’ai lue d’une traite.
-  Ich habe es in einem Zug gelesen.
+  Je l'ai lue d'une *traite*.
+  Ich habe es in einem *Zug* durchgelesen.
 
-  Le banquier a accepté d'honorer la traite que j'ai émise.
-  Der Bankier hat zugestimmt, die Tratte einzulösen, die ich ausgestellt habe.
+  La *traite* du matin est une tâche quotidienne pour les fermiers.
+  Das morgendliche *Melken* ist eine tägliche Aufgabe für die Bauern.
 
-  La ferme était à une longue traite de la ville.
-  Die Farm war einen weiten Weg von der Stadt entfernt.
+  Il a payé la *traite* de sa voiture hier.
+  Er hat gestern die *Rate* für sein Auto bezahlt.
 
-  Il a bu le verre d'eau d'une seule traite.
-  Er hat das Glas Wasser in einem einzigen Zug ausgetrunken.
+  Notre banque a émis une *traite* bancaire pour le paiement.
+  Unsere Bank hat einen Bank*wechsel* für die Zahlung ausgestellt.
 
-  La traite de l'assurance est due le premier du mois.
-  Die Rate für die Versicherung ist am Ersten des Monats fällig.
+  Cette *traite* nominative doit être signée par le directeur.
+  Dieser *Rekta*wechsel muss vom Direktor unterschrieben werden.
 
-  Le commerce de la traite des noirs était un scandale qui a duré des siècles.
-  Der Sklavenhandel war ein Skandal, der Jahrhunderte lang andauerte.
+  La *traite* documentaire a été envoyée à l'acheteur.
+  Die Rembours*tratte* wurde an den Käufer geschickt.
 
-  La traite anticipée permet de recevoir de l'argent avant l'échéance.
-  Der Vorauswechsel ermöglicht es, Geld vor dem Fälligkeitstermin zu erhalten.
+  Il faut encore payer trois *traites* pour le nouveau canapé.
+  Wir müssen noch drei *Raten* für das neue Sofa zahlen.
 
-  La traite bancaire est un document qui permet de retirer de l'argent dans une banque.
-  Der Bankwechsel ist ein Dokument, das es ermöglicht, Geld bei einer Bank abzuheben.
+  Les vaches attendent la *traite* du soir.
+  Die Kühe warten auf das abendliche *Melken*.
 
-  La traite documentaire est un instrument de paiement qui est lié à la livraison de marchandises.
-  Die Rembourstratte ist ein Zahlungsinstrument, das mit der Lieferung von Waren verbunden ist.
+  La *traite* automatique facilite le travail des agriculteurs.
+  Das automatische *Melken* erleichtert den Landwirten die Arbeit.
 
-  La traite impayée est un document qui est retourné au créancier, car il n'a pas été payé.
-  Der Retourwechsel ist ein Dokument, das an den Gläubiger zurückgeschickt wird, weil er nicht bezahlt wurde.
+  Cette *traite* anticipée nous permettra d'économiser des intérêts.
+  Dieser Voraus*wechsel* wird uns Zinsen sparen.
 
-  La traite nominative est payable à une personne nommée.
-  Der Rektawechsel ist auf eine bestimmte Person zahlbar.
+  Le musée présente une exposition sur l'histoire de la *traite* des esclaves.
+  Das Museum zeigt eine Ausstellung über die Geschichte des *Sklaven*handels.
+
+  La banque a prolongé la *traite* de trois mois.
+  Die Bank hat den *Wechsel* um drei Monate verlängert.
+
+  Les chèvres sont nerveuses pendant la *traite*.
+  Die Ziegen sind während des *Melkens* nervös.
+
+  La *traite* à vue doit être payée immédiatement.
+  Der Sicht*wechsel* muss sofort bezahlt werden.
+
+  Les autorités luttent contre la *traite* des êtres humains.
+  Die Behörden kämpfen gegen den Menschen*handel*.
+
+  J'ai fait la *traite* des brebis ce matin.
+  Ich habe die Schafe heute Morgen *gemolken*.
+
+  Cette *traite* tirée sur le client a été honorée.
+  Dieser Kunden*wechsel* wurde eingelöst.
+
+  La *traite* robotisée permet de traire 24 heures sur 24.
+  Das robotisierte *Melken* ermöglicht das Melken rund um die Uhr.
+
+  Notre entreprise n'accepte pas les *traites* à long terme.
+  Unser Unternehmen akzeptiert keine langfristigen *Wechsel*.
+
+  La *traite* mensuelle sera prélevée le 5 du mois.
+  Die monatliche *Rate* wird am 5. des Monats abgebucht.
+
+  Le système de *traite* moderne protège la santé des animaux.
+  Das moderne *Melk*system schützt die Gesundheit der Tiere.
+
+  La banque a refusé d'honorer cette *traite* impayée.
+  Die Bank hat sich geweigert, diesen Retour*wechsel* einzulösen.
+
+  Les étudiants apprennent l'histoire de la *traite* négrière.
+  Die Studenten lernen die Geschichte des *Sklaven*handels.
+
+  La *traite* à terme sera échue dans trois mois.
+  Der Zeit*wechsel* wird in drei Monaten fällig.
+
+  Cette *traite* documentaire garantit le paiement.
+  Diese Rembours*tratte* garantiert die Bezahlung.
+
+  J'ai écrit ce rapport d'une *traite*.
+  Ich habe diesen Bericht in einem *Zug* geschrieben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

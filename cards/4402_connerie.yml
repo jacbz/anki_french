@@ -13,14 +13,44 @@ Register: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Oui, mec. Arrête tes conneries.
-  Ja, Mann. Hör auf mit dem Scheiß.
+  "Oui, mec. Arrête tes *conneries*."
+  "Ja, Mann. Hör auf mit dem *Schwachsinn*."
 
-  Arrête de dire des conneries!
-  Hör auf, Blödsinn zu reden!
+  "Je ne peux plus supporter ses *conneries* quotidiennes."
+  "Ich kann seinen täglichen *Blödsinn* nicht mehr ertragen."
 
-  J'en ai assez de ces bêtises !
-  Ich habe genug von diesem Unsinn!
+  "Tout ce qu'il raconte, c'est des *conneries*."
+  "Alles, was er erzählt, ist *Quatsch*."
+
+  "Sa dernière *connerie* lui a coûté son emploi."
+  "Seine letzte *Dummheit* hat ihn seinen Job gekostet."
+
+  "Elle ne fait que dire des *conneries* depuis ce matin."
+  "Sie redet seit heute Morgen nur *Blödsinn*."
+
+  "Cette émission de télé, c'est de la pure *connerie*."
+  "Diese Fernsehsendung ist reiner *Schwachsinn*."
+
+  "Arrêtez de croire à toutes ces *conneries* sur Internet."
+  "Hören Sie auf, all den *Quatsch* im Internet zu glauben."
+
+  "Paul est d'une *connerie* impressionnante parfois."
+  "Paul ist manchmal von beeindruckender *Dummheit*."
+
+  "Je regrette la *connerie* que j'ai faite hier soir."
+  "Ich bereue den *Blödsinn*, den ich gestern Abend gemacht habe."
+
+  "C'est la plus grande *connerie* que j'ai jamais entendue."
+  "Das ist der größte *Schwachsinn*, den ich je gehört habe."
+
+  "Il accumule les *conneries* depuis son adolescence."
+  "Er häuft seit seiner Jugend *Dummheiten* an."
+
+  "'C'est quoi cette *connerie*?' a demandé le prof en voyant mon devoir."
+  "'Was ist das für ein *Blödsinn*?' fragte der Lehrer, als er meine Hausaufgaben sah."
+
+  "Ne me raconte pas de *conneries*, je sais la vérité."
+  "Erzähl mir keinen *Quatsch*, ich kenne die Wahrheit."
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

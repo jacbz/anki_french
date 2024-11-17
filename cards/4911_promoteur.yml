@@ -13,11 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les promoteurs croient que les salles seront remplies.
-  Die Promoter glauben, dass die Hallen gefüllt sein werden.
+  Les *promoteurs* croient que les salles seront remplies.
+  Die *Bauunternehmer* glauben, dass die Räume voll sein werden.
 
-  Le promoteur a construit un nouvel immeuble.
-  Der Bauträger hat ein neues Gebäude gebaut.
+  Le *promoteur* immobilier a déjà construit trois résidences dans ce quartier.
+  Die *Baufirma* hat bereits drei Wohnanlagen in diesem Viertel gebaut.
+
+  Cette société *promotrice* a obtenu tous les permis nécessaires.
+  Diese *Bau*firma hat alle erforderlichen Genehmigungen erhalten.
+
+  Marie Curie était la *promotrice* des recherches sur la radioactivité.
+  Marie Curie war die *Initiatorin* der Radioaktivitätsforschung.
+
+  Le *promoteur* de cette réforme a rencontré beaucoup de résistance.
+  Der *Initiator* dieser Reform ist auf viel Widerstand gestoßen.
+
+  La *promotrice* du projet a présenté son idée au conseil d'administration.
+  Die *Urheberin* des Projekts hat ihre Idee dem Vorstand vorgestellt.
+
+  Les *promoteurs* du complot ont été arrêtés hier soir.
+  Die *Anstifter* der Verschwörung wurden gestern Abend verhaftet.
+
+  Notre *promoteur* nous a promis que l'immeuble serait livré dans les délais.
+  Unsere *Baufirma* hat uns versprochen, dass das Gebäude pünktlich fertig wird.
+
+  Elle est devenue *promotrice* immobilière après ses études d'architecture.
+  Sie wurde nach ihrem Architekturstudium *Bauunternehmerin*.
+
+  Le *promoteur* de la foi a soulevé plusieurs objections lors du procès de canonisation.
+  Der *Glaubensanwalt* hat während des Heiligsprechungsprozesses mehrere Einwände erhoben.
+
+  Les *promoteurs* immobiliers doivent respecter de nouvelles normes environnementales.
+  Die *Bauträger* müssen neue Umweltstandards einhalten.
+
+  Cette entreprise *promotrice* s'est spécialisée dans les logements écologiques.
+  Diese *Bau*firma hat sich auf ökologisches Wohnen spezialisiert.
+
+  Le *promoteur* a dû modifier ses plans suite aux protestations des riverains.
+  Der *Bauträger* musste seine Pläne nach Protesten der Anwohner ändern.
+
+  Victor Hugo fut un ardent *promoteur* du romantisme en France.
+  Victor Hugo war ein leidenschaftlicher *Förderer* der Romantik in Frankreich.
+
+  La *promotrice* de cette initiative a reçu de nombreux soutiens.
+  Die *Initiatorin* dieser Initiative hat viel Unterstützung erhalten.
+
+  Les *promoteurs* de cette loi ont finalement réussi à la faire adopter.
+  Die *Urheber* dieses Gesetzes haben es schließlich geschafft, es verabschieden zu lassen.
+
+  Cette société *promotrice* investit principalement dans les centres commerciaux.
+  Diese *Bau*firma investiert hauptsächlich in Einkaufszentren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

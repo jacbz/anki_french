@@ -13,23 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le stress, ça rend un peu dingue.
-  Stress macht ein bisschen verrückt.
+  Le *stress*, ça rend un peu dingue.
+  Der *Stress* macht einen irgendwie verrückt.
 
-  Le stress peut causer des problèmes de santé.
-  Stress kann gesundheitliche Probleme verursachen.
+  Le *stress* quotidien peut avoir des effets néfastes sur la santé.
+  Der *Alltags*stress kann sich negativ auf die Gesundheit auswirken.
 
-  Le stress quotidien peut être très difficile à gérer.
-  Alltagsstress kann sehr schwer zu bewältigen sein.
+  Cette situation de *stress* m'empêche de dormir la nuit.
+  Diese *Stress*situation hindert mich am Schlafen.
 
-  La situation de stress est un facteur à prendre en compte.
-  Die Stresssituation ist ein Faktor, den man berücksichtigen muss.
+  Le *stress* dû au calendrier serré nous affecte tous.
+  Der *Termin*druck betrifft uns alle.
 
-  Le stress dû au calendrier serré peut mener à des problèmes de santé.
-  Termindruck kann zu gesundheitlichen Problemen führen.
+  Les médecins étudient l'impact du *stress* psychologique sur le corps.
+  Die Ärzte untersuchen die Auswirkungen des psychischen *Stresses* auf den Körper.
 
-  Le stress psychologique peut avoir un impact important sur la santé mentale.
-  Psychostress kann einen großen Einfluss auf die psychische Gesundheit haben.
+  Un certain niveau de *stress* positif peut améliorer nos performances.
+  Ein gewisses Maß an positivem *Stress* kann unsere Leistung verbessern.
+
+  Son corps a réagi au *stress* par une montée d'adrénaline.
+  Sein Körper reagierte auf den *Stress* mit einem Adrenalinanstieg.
+
+  Marie vit dans un état de *stress* permanent depuis son nouveau poste.
+  Marie lebt seit ihrer neuen Stelle unter ständiger *Belastung*.
+
+  La méditation aide à gérer le *stress* au travail.
+  Meditation hilft dabei, den *Stress* bei der Arbeit zu bewältigen.
+
+  Les exercices de respiration réduisent le *stress*.
+  Atemübungen reduzieren *Stress*.
+
+  Cette plante montre des signes de *stress* par manque d'eau.
+  Diese Pflanze zeigt Anzeichen von *Stress* durch Wassermangel.
+
+  L'organisme réagit différemment selon le type de *stress*.
+  Der Organismus reagiert je nach Art des *Stresses* unterschiedlich.
+
+  Le *stress* thermique peut être dangereux pour les animaux.
+  *Stress* durch Hitze kann für Tiere gefährlich sein.
+
+  Les chercheurs ont examiné le *stress* oxydant dans les cellules.
+  Die Forscher untersuchten den oxidativen *Stress* in den Zellen.
+
+  Le *stress* de la vie citadine affecte de plus en plus de gens.
+  Der *Stress* des Stadtlebens betrifft immer mehr Menschen.
+
+  Les étudiants apprennent à gérer leur *stress* pendant les examens.
+  Die Studenten lernen, mit ihrem *Stress* während der Prüfungen umzugehen.
+
+  Le *stress* chronique peut causer des problèmes cardiaques.
+  Chronischer *Stress* kann zu Herzproblemen führen.
+
+  Les vacances nous aident à échapper au *stress* quotidien.
+  Der Urlaub hilft uns, dem täglichen *Stress* zu entfliehen.
+
+  Ces symptômes sont une réaction normale au *stress*.
+  Diese Symptome sind eine normale Reaktion auf *Stress*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

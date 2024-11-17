@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  122.000 billets ont été vendus.
-  122.000 Eintrittskarten wurden verkauft.
+  122.000 billets ont été *vendus*.
+  122.000 Tickets wurden *verkauft*.
 
-  Le livre a été vendu.
-  Das Buch wurde verkauft.
+  Ces voitures d'occasion sont rapidement *vendues*.
+  Diese Gebrauchtwagen sind schnell *verkauft*.
+
+  "Bande de *vendus* !" a-t-il crié aux journalistes.
+  "Ihr *gekauften* Journalisten!" hat er ihnen zugerufen.
+
+  Cette maison a été *vendue* trois fois en deux ans.
+  Dieses Haus wurde in zwei Jahren dreimal *verkauft*.
+
+  Le juge *vendu* a accepté le pot-de-vin.
+  Der *bestochene* Richter hat das Schmiergeld angenommen.
+
+  "*Vendu* !" s'est exclamé le commissaire-priseur en frappant son marteau.
+  "*Verkauft*!" rief der Auktionator und schlug mit seinem Hammer.
+
+  Tout le stock a été *vendu* en moins d'une heure.
+  Der gesamte Bestand war in weniger als einer Stunde *ausverkauft*.
+
+  Marie ne pardonnera jamais à ce *vendu* de Paul.
+  Marie wird diesem *Verräter* Paul nie verzeihen.
+
+  L'appartement sera *vendu* aux enchères la semaine prochaine.
+  Die Wohnung wird nächste Woche *versteigert*.
+
+  La société a *vendu* ses actions à perte.
+  Die Firma hat ihre Aktien mit Verlust *verkauft*.
+
+  Ces politiciens se sont *vendus* au plus offrant.
+  Diese Politiker haben sich an den Meistbietenden *verkauft*.
+
+  Le tableau original a été *vendu* pour un million d'euros.
+  Das Originalgemälde wurde für eine Million Euro *verkauft*.
+
+  Ce *vendu* a révélé tous nos secrets à la concurrence.
+  Dieser *Verräter* hat all unsere Geheimnisse an die Konkurrenz verraten.
+
+  La collection entière sera *vendue* demain matin.
+  Die gesamte Sammlung wird morgen früh *verkauft*.
+
+  Les billets pour le concert sont déjà *vendus*.
+  Die Konzertkarten sind bereits *ausverkauft*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

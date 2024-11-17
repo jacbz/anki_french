@@ -13,23 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous avons toujours milité contre l’exploitation.
-  Wir haben uns immer gegen Ausbeutung eingesetzt.
+  Nous avons toujours *milité* contre l'exploitation.
+  Wir haben schon immer gegen Ausbeutung *gekämpft*.
 
-  Il milite pour les droits des animaux.
-  Er engagiert sich für die Rechte der Tiere.
+  Elle *milite* activement dans une association écologique depuis dix ans.
+  Sie ist seit zehn Jahren in einem Umweltverband aktiv *tätig*.
 
-  Le groupe a milité pour la protection de l'environnement.
-  Die Gruppe hat für den Schutz der Umwelt gekämpft.
+  Les preuves *militent* en faveur de son innocence.
+  Die Beweise *sprechen* für seine Unschuld.
 
-  Il a milité contre la construction de la nouvelle autoroute.
-  Er hat gegen den Bau der neuen Autobahn gekämpft.
+  Mon frère *milite* pour de meilleures conditions de travail.
+  Mein Bruder *setzt sich* für bessere Arbeitsbedingungen *ein*.
 
-  Elle milite en faveur de l'égalité entre les femmes et les hommes.
-  Sie setzt sich für die Gleichstellung von Frauen und Männern ein.
+  Cette découverte *milite* contre votre théorie.
+  Diese Entdeckung *spricht* gegen Ihre Theorie.
 
-  Ils ont milité contre la fermeture de l'école.
-  Sie haben sich gegen die Schließung der Schule ausgesprochen.
+  Il a commencé à *militer* dans un syndicat étudiant.
+  Er begann, in einer Studentengewerkschaft *aktiv zu werden*.
+
+  Les faits *militent* en sa faveur.
+  Die Fakten *sprechen* zu seinen Gunsten.
+
+  Marie *milite* pour la protection des animaux depuis sa jeunesse.
+  Marie *kämpft* seit ihrer Jugend für den Tierschutz.
+
+  Ces résultats *militent* fortement en faveur de notre approche.
+  Diese Ergebnisse *sprechen* stark für unseren Ansatz.
+
+  Je *milite* au sein de cette organisation depuis trois ans.
+  Ich bin seit drei Jahren in dieser Organisation *aktiv*.
+
+  Plusieurs facteurs *militent* contre cette décision.
+  Mehrere Faktoren *sprechen* gegen diese Entscheidung.
+
+  Les étudiants *militent* pour la gratuité des transports.
+  Die Studenten *setzen sich* für kostenlose Verkehrsmittel *ein*.
+
+  Son comportement *milite* en sa défaveur.
+  Sein Verhalten *spricht* gegen ihn.
+
+  Les circonstances *militent* pour un changement immédiat.
+  Die Umstände *sprechen* für eine sofortige Änderung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,26 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tu portes une chemise rayée et une cravate rayée.
-  Du trägst ein gestreiftes Hemd und eine gestreifte Krawatte.
+  Tu portes une chemise *rayée* et une cravate *rayée*.
+  Du trägst ein *gestreiftes* Hemd und eine *gestreifte* Krawatte.
 
-  Il faut rayer cette phrase.
-  Diesen Satz muss man durchstreichen.
+  Le professeur *raye* tous les mots incorrects dans les copies.
+  Der Lehrer *streicht* alle falschen Wörter in den Klassenarbeiten *durch*.
 
-  Des cicatrices lui rayaient le visage, comme des marques d'une vie passée.
-  Narben durchzogen sein Gesicht, wie Spuren eines vergangenen Lebens.
+  La voiture neuve s'est *rayée* dès le premier jour.
+  Das neue Auto wurde gleich am ersten Tag *zerkratzt*.
 
-  Le professeur a rayé Jean de la liste des participants, car il n'a pas rendu son travail.
-  Der Lehrer hat Jean von der Liste der Teilnehmer gestrichen, weil er seine Arbeit nicht abgegeben hat.
+  Une profonde cicatrice *rayait* son front.
+  Eine tiefe Narbe *durchzog* seine Stirn.
 
-  Après avoir été licencié, il était rayé des effectifs de l'entreprise.
-  Nachdem er entlassen worden war, gehörte er nicht mehr zum Personal des Unternehmens.
+  Le diamant *raye* facilement le verre.
+  Der Diamant *ritzt* problemlos Glas.
 
-  Il a essayé de rayer le souvenir de cette nuit d'horreur de sa mémoire, mais en vain.
-  Er versuchte, die Erinnerung an diese schreckliche Nacht aus seinem Gedächtnis zu streichen, aber vergeblich.
+  Sophie a *rayé* son nom de la liste des participants.
+  Sophie hat ihren Namen von der Teilnehmerliste *gestrichen*.
 
-  La guerre a rayé la ville de la carte, laissant derrière elle des ruines et des souvenirs douloureux.
-  Der Krieg hat die Stadt ausradiert und nur Ruinen und schmerzhafte Erinnerungen hinterlassen.
+  Il faut *rayer* la mention inutile sur le formulaire.
+  Die nicht zutreffende Angabe muss auf dem Formular *durchgestrichen* werden.
+
+  Le bombardement a complètement *rayé* ce village de la carte.
+  Die Bombardierung hat dieses Dorf vollständig von der Landkarte *getilgt*.
+
+  J'ai décidé de *rayer* ce mauvais souvenir de ma mémoire.
+  Ich habe beschlossen, diese schlechte Erinnerung aus meinem Gedächtnis zu *streichen*.
+
+  Le parquet s'est *rayé* au fil des années.
+  Der Parkettboden wurde im Laufe der Jahre *zerkratzt*.
+
+  L'armurier a soigneusement *rayé* le canon du fusil.
+  Der Büchsenmacher hat den Gewehrlauf sorgfältig *mit Zügen versehen*.
+
+  Marie a *rayé* plusieurs phrases dans son texte.
+  Marie hat mehrere Sätze in ihrem Text *durchgestrichen*.
+
+  Les enfants ont *rayé* toute la table avec leurs crayons.
+  Die Kinder haben den ganzen Tisch mit ihren Stiften *zerkratzt*.
+
+  Le temps a *rayé* la peinture de la voiture.
+  Die Zeit hat den Autolack *zerkratzt*.
+
+  Après ce scandale, il a été *rayé* des effectifs de l'entreprise.
+  Nach diesem Skandal wurde er aus der Belegschaft der Firma *gestrichen*.
+
+  L'instituteur *raye* le papier pour les élèves.
+  Der Lehrer *liniert* das Papier für die Schüler.
+
+  "Je vais te *rayer* de mes tablettes !" dit-il en colère.
+  "Ich werde dich von meiner Liste *streichen*!" sagte er wütend.
+
+  Les branches d'arbre ont *rayé* la carrosserie.
+  Die Baumzweige haben die Karosserie *zerkratzt*.
+
+  Cette ville a été *rayée* de la carte pendant la guerre.
+  Diese Stadt wurde während des Krieges von der Landkarte *getilgt*.
+
+  Je dois *rayer* plusieurs points de l'ordre du jour.
+  Ich muss mehrere Punkte von der Tagesordnung *streichen*.
+
+  La pluie acide a *rayé* tous les vitres.
+  Der saure Regen hat alle Scheiben *zerkratzt*.
+
+  Les chats ont *rayé* tout le canapé avec leurs griffes.
+  Die Katzen haben das ganze Sofa mit ihren Krallen *zerkratzt*.
+
+  Le juge a *rayé* cette clause du contrat.
+  Der Richter hat diese Klausel aus dem Vertrag *gestrichen*.
+
+  Les vandales ont *rayé* toutes les voitures du parking.
+  Die Vandalen haben alle Autos auf dem Parkplatz *zerkratzt*.
+
+  L'avocat a été *rayé* du barreau après sa condamnation.
+  Der Anwalt wurde nach seiner Verurteilung aus der Anwaltskammer *ausgeschlossen*.
+
+  Une fine cicatrice *rayait* sa joue gauche.
+  Eine feine Narbe *durchzog* seine linke Wange.
+
+  Le temps a *rayé* ces souvenirs de ma mémoire.
+  Die Zeit hat diese Erinnerungen aus meinem Gedächtnis *gelöscht*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

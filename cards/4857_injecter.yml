@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous avons injecté de l’argent dans le programme.
-  Wir haben Geld in das Programm investiert.
+  Nous avons *injecté* de l'argent dans le programme.
+  Wir haben Geld in das Programm *investiert*.
 
-  Le médecin va injecter le vaccin.
-  Der Arzt wird den Impfstoff einspritzen.
+  Le médecin lui a *injecté* des antibiotiques dans le bras.
+  Der Arzt hat ihr Antibiotika in den Arm *gespritzt*.
 
-  Le médecin a injecté un sérum à Paul dans le bras.
-  Der Arzt hat Paul ein Serum in den Arm injiziert.
+  L'État a *injecté* plusieurs millions dans l'économie locale.
+  Der Staat hat mehrere Millionen in die lokale Wirtschaft *investiert*.
 
-  Le vétérinaire a injecté des hormones à la chienne.
-  Der Tierarzt hat der Hündin eine Hormonspritze gegeben.
+  La seringue permet d'*injecter* le sérum directement dans la veine.
+  Die Spritze ermöglicht es, das Serum direkt in die Vene zu *injizieren*.
+
+  Les yeux du patient se sont *injectés* de sang après l'accident.
+  Die Augen des Patienten haben sich nach dem Unfall mit Blut unter*laufen*.
+
+  L'entreprise a *injecté* du ciment dans les fissures du barrage.
+  Die Firma hat Zement in die Risse des Damms *eingespritzt*.
+
+  L'infirmière *injecte* un antidouleur au patient toutes les six heures.
+  Die Krankenschwester *spritzt* dem Patienten alle sechs Stunden ein Schmerzmittel.
+
+  On doit *injecter* ce médicament par voie intramusculaire.
+  Dieses Medikament muss intramuskulär *injiziert* werden.
+
+  Le garagiste *injecte* du carburant dans le moteur Diesel.
+  Der Mechaniker *spritzt* Kraftstoff in den Dieselmotor ein.
+
+  La banque va *injecter* des fonds dans cette start-up prometteuse.
+  Die Bank wird Geld in dieses vielversprechende Start-up *investieren*.
+
+  Il faut *injecter* de l'insecticide dans le bois pour le protéger.
+  Man muss Insektizid in das Holz *einspritzen*, um es zu schützen.
+
+  Le docteur m'a *injecté* un vaccin contre la grippe.
+  Der Arzt hat mir eine Grippe*impfung* gegeben.
+
+  Les investisseurs ont *injecté* des capitaux dans l'entreprise en difficulté.
+  Die Investoren haben Kapital in das angeschlagene Unternehmen *investiert*.
+
+  La fusée a été *injectée* sur orbite avec succès.
+  Die Rakete wurde erfolgreich in die Umlaufbahn *eingeschossen*.
+
+  On doit *injecter* de l'air dans le pneu pour le gonfler.
+  Man muss Luft in den Reifen *einspritzen*, um ihn aufzupumpen.
+
+  L'entreprise pharmaceutique *injecte* des hormones aux animaux d'élevage.
+  Das Pharmaunternehmen *spritzt* den Nutztieren Hormone.
+
+  Le dentiste m'a *injecté* un anesthésiant local.
+  Der Zahnarzt hat mir ein lokales Betäubungsmittel *gespritzt*.
+
+  Le gouvernement *injectera* des milliards dans les infrastructures.
+  Die Regierung wird Milliarden in die Infrastruktur *investieren*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

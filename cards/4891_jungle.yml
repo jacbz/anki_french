@@ -13,14 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les rebelles ont opéré depuis la jungle.
-  Die Rebellen operierten aus dem Dschungel heraus.
+  Les rebelles ont opéré depuis la *jungle*.
+  Die Rebellen operierten aus dem *Dschungel* heraus.
 
-  Les singes vivent dans la jungle.
-  Die Affen leben im Dschungel.
+  La *jungle* est si dense qu'il est impossible d'y pénétrer sans machette.
+  Der *Dschungel* ist so dicht, dass man ohne Machete nicht eindringen kann.
 
-  Le système fiscal actuel est un véritable jungle fiscale, où il est difficile de s'y retrouver.
-  Das derzeitige Steuersystem ist ein wahres Steuerdickicht, in dem man sich nur schwer zurechtfindet.
+  Les tigres du Bengale ne survivent que dans la *jungle* indienne.
+  Die bengalischen Tiger überleben nur im indischen *Dschungel*.
+
+  La construction d'un nouveau quartier a détruit une partie de la *jungle* urbaine.
+  Der Bau eines neuen Viertels hat einen Teil des städtischen *Dickichts* zerstört.
+
+  Il s'est perdu dans la *jungle* des formulaires administratifs.
+  Er hat sich im *Dickicht* der Verwaltungsformulare verloren.
+
+  Dans la *jungle* des réseaux sociaux, les fausses informations se propagent rapidement.
+  Im *Dschungel* der sozialen Medien verbreiten sich Falschinformationen schnell.
+
+  Les migrants ont construit des abris de fortune dans la *jungle* de Calais.
+  Die Migranten haben behelfsmäßige Unterkünfte im Calais-*Camp* errichtet.
+
+  La *jungle* amazonienne abrite des milliers d'espèces encore inconnues.
+  Der Amazonas-*Dschungel* beherbergt Tausende noch unbekannte Arten.
+
+  La loi de la *jungle* règne dans ce quartier depuis le départ de la police.
+  Das Gesetz des *Dschungels* herrscht in diesem Viertel, seit die Polizei weg ist.
+
+  Ce film d'aventure a été tourné dans la *jungle* thaïlandaise.
+  Dieser Abenteuerfilm wurde im thailändischen *Dschungel* gedreht.
+
+  Mon grand-père me lisait "Le Livre de la *jungle*" quand j'étais petit.
+  Mein Großvater las mir das "*Dschungel*buch" vor, als ich klein war.
+
+  Dans la *jungle* du marché immobilier, les premiers arrivés sont les premiers servis.
+  Im *Dschungel* des Immobilienmarkts gilt: Wer zuerst kommt, mahlt zuerst.
+
+  La *jungle* fiscale décourage beaucoup de petits entrepreneurs.
+  Der Steuer*dschungel* schreckt viele Kleinunternehmer ab.
+
+  Les singes se balancent dans les arbres de la *jungle* tropicale.
+  Die Affen schwingen sich durch die Bäume des tropischen *Dschungels*.
+
+  Cette musique *jungle* est trop rapide pour moi.
+  Diese *Jungle*-Musik ist mir zu schnell.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

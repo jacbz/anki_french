@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cela équivaut à une taxe sur les malades.
-  Dies kommt einer Steuer für Kranke gleich.
+  Cela *équivaut* à une taxe sur les malades.
+  Das *kommt* einer Steuer auf Kranke *gleich*.
 
-  Cela équivaut à une déclaration de guerre.
-  Das kommt einer Kriegserklärung gleich.
+  Un kilogramme d'or *équivaut* à peu près à cinquante mille euros.
+  Ein Kilogramm Gold *entspricht* ungefähr fünfzigtausend Euro.
 
-  Le refus de répondre à ma lettre équivaut à un refus de ma demande.
-  Die Weigerung, auf meinen Brief zu antworten, kommt einer Absage meiner Bitte gleich.
+  Cette somme *équivalait* à trois mois de salaire en 1950.
+  Diese Summe *entsprach* 1950 drei Monatsgehältern.
 
-  Son comportement équivaut à faire preuve de mépris.
-  Sein Verhalten kommt einem Beweis von Verachtung gleich.
+  Son silence *équivaut* à un aveu de culpabilité.
+  Sein Schweigen *kommt* einem Schuldeingeständnis *gleich*.
+
+  Les deux formations universitaires s'*équivalent*.
+  Die beiden Universitätsabschlüsse sind *gleichwertig*.
+
+  En calories, ce dessert *équivaut* à un repas complet.
+  Von den Kalorien her *entspricht* dieser Nachtisch einer vollständigen Mahlzeit.
+
+  Une note de 15/20 *équivaut* à la mention "Bien".
+  Eine Note von 15/20 *entspricht* der Note "Gut".
+
+  Les candidats s'*équivalaient* en termes de compétences.
+  Die Kandidaten waren von ihren Kompetenzen her *gleichwertig*.
+
+  Sa réponse évasive *équivaut* à un non catégorique.
+  Seine ausweichende Antwort *kommt* einem klaren Nein *gleich*.
+
+  Les deux propositions s'*équivalent* sur le plan financier.
+  Die beiden Angebote sind finanziell *gleichwertig*.
+
+  Cette distance *équivaut* à trois fois le tour de la Terre.
+  Diese Entfernung *entspricht* dem dreifachen Erdumfang.
+
+  Son comportement *équivaut* à de la provocation.
+  Sein Verhalten *läuft* auf eine Provokation *hinaus*.
+
+  Les deux méthodes s'*équivalent* en termes d'efficacité.
+  Die beiden Methoden sind von der Wirksamkeit her *gleichwertig*.
+
+  Cette décision *équivaut* à abandonner le projet.
+  Diese Entscheidung *kommt* einer Aufgabe des Projekts *gleich*.
+
+  En valeur nutritive, ce yaourt *équivaut* à un verre de lait.
+  Vom Nährwert her *entspricht* dieser Joghurt einem Glas Milch.
+
+  Une heure de sport intense *équivaut* à deux heures de marche.
+  Eine Stunde intensiver Sport *entspricht* zwei Stunden Gehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce sont des pertes écrasantes pour n’importe quel pays.
-  Dies sind erdrückende Verluste für jedes Land.
+  Ce sont des pertes *écrasantes* pour n'importe quel pays.
+  Das sind *vernichtende* Verluste für jedes Land.
 
-  La victoire était écrasante.
-  Der Sieg war überwältigend.
+  La chaleur *écrasante* de cet été nous empêche de dormir.
+  Die *erdrückende* Hitze dieses Sommers hindert uns am Schlafen.
+
+  Le candidat a gagné avec une majorité *écrasante* de 78%.
+  Der Kandidat hat mit einer *überwältigenden* Mehrheit von 78% gewonnen.
+
+  Les dimensions *écrasantes* de ce gratte-ciel sont impressionnantes.
+  Die *überwältigenden* Ausmaße dieses Wolkenkratzers sind beeindruckend.
+
+  La preuve était tellement *écrasante* que l'accusé a avoué immédiatement.
+  Der Beweis war so *erdrückend*, dass der Angeklagte sofort gestanden hat.
+
+  Marie porte une responsabilité *écrasante* depuis sa promotion.
+  Marie trägt seit ihrer Beförderung eine *erdrückende* Verantwortung.
+
+  Ces impôts *écrasants* forcent beaucoup de petites entreprises à fermer.
+  Diese *erdrückenden* Steuern zwingen viele kleine Unternehmen zur Schließung.
+
+  L'équipe a subi une défaite *écrasante* lors du match final.
+  Die Mannschaft hat im Endspiel eine *vernichtende* Niederlage erlitten.
+
+  Il regardait Sophie avec un mépris *écrasant*.
+  Er schaute Sophie mit *abgrundtiefer* Verachtung an.
+
+  La masse *écrasante* de la cathédrale domine toute la ville.
+  Die *überwältigende* Masse der Kathedrale beherrscht die ganze Stadt.
+
+  Ces dépenses *écrasantes* nous obligent à faire des économies.
+  Diese *erdrückenden* Ausgaben zwingen uns zum Sparen.
+
+  Thomas a présenté un argument *écrasant* pendant le débat.
+  Thomas hat während der Debatte ein *überwältigendes* Argument vorgebracht.
+
+  Le poids *écrasant* de ces responsabilités l'épuise mentalement.
+  Die *erdrückende* Last dieser Verantwortungen erschöpft ihn psychisch.
+
+  La supériorité *écrasante* de notre concurrent nous inquiète beaucoup.
+  Die *überwältigende* Überlegenheit unseres Konkurrenten beunruhigt uns sehr.
+
+  Cette tâche *écrasante* occupe tout mon temps libre.
+  Diese *erdrückende* Aufgabe nimmt meine ganze Freizeit in Anspruch.
+
+  Les proportions *écrasantes* du nouveau stade sont spectaculaires.
+  Die *überwältigenden* Proportionen des neuen Stadions sind spektakulär.
+
+  Le fardeau *écrasant* de la dette l'empêche d'avancer.
+  Die *erdrückende* Schuldenlast hindert ihn daran, voranzukommen.
+
+  Sa victoire *écrasante* aux élections a surpris tout le monde.
+  Sein *überwältigender* Wahlsieg hat alle überrascht.
+
+  Le nombre *écrasant* de candidats rend la sélection difficile.
+  Die *überwältigende* Anzahl an Bewerbern macht die Auswahl schwierig.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

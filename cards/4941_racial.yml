@@ -13,14 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La préférence raciale joue depuis longtemps dans le recrutement.
-  Die Rassenpräferenz spielt bei der Rekrutierung schon lange eine Rolle.
+  La préférence *raciale* joue depuis longtemps dans le recrutement.
+  Die *Rassen*diskriminierung spielt seit langem bei der Einstellung eine Rolle.
 
-  La discrimination raciale est illégale.
-  Rassendiskriminierung ist illegal.
+  Les tensions *raciales* ont augmenté ces derniers mois dans la ville.
+  Die *Rassen*spannungen haben in den letzten Monaten in der Stadt zugenommen.
 
-  Les conflits raciaux d'une grande violence ont marqué l'histoire de certains pays.
-  Rassenkrawalle haben die Geschichte einiger Länder geprägt.
+  Le gouvernement a adopté une nouvelle loi contre la discrimination *raciale*.
+  Die Regierung hat ein neues Gesetz gegen *Rassen*diskriminierung verabschiedet.
+
+  L'exposition examine les origines de la ségrégation *raciale* aux États-Unis.
+  Die Ausstellung untersucht die Ursprünge der *Rassen*trennung in den USA.
+
+  Des émeutes *raciales* ont éclaté dans plusieurs quartiers.
+  In mehreren Stadtvierteln sind *Rassen*unruhen ausgebrochen.
+
+  Les conflits *raciaux* ont marqué l'histoire de ce pays.
+  Die *Rassen*konflikte haben die Geschichte dieses Landes geprägt.
+
+  Le documentaire traite des préjugés *raciaux* dans la société.
+  Die Dokumentation behandelt *Rassen*vorurteile in der Gesellschaft.
+
+  La constitution interdit toute forme de discrimination *raciale*.
+  Die Verfassung verbietet jede Form der *Rassen*diskriminierung.
+
+  Les violences *raciales* ont choqué la communauté internationale.
+  Die *Rassen*gewalt hat die internationale Gemeinschaft schockiert.
+
+  L'incitation à la haine *raciale* est punie par la loi.
+  Die Anstiftung zum *Rassen*hass wird gesetzlich bestraft.
+
+  Le mouvement luttait contre l'oppression *raciale*.
+  Die Bewegung kämpfte gegen *Rassen*unterdrückung.
+
+  La politique de ségrégation *raciale* a finalement été abolie.
+  Die Politik der *Rassen*trennung wurde schließlich abgeschafft.
+
+  Les stéréotypes *raciaux* persistent malheureusement dans certains médias.
+  *Rassen*stereotype bestehen leider in einigen Medien weiter.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

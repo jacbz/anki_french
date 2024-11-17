@@ -13,17 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  On a un pays très diversifié.
-  Wir haben ein sehr vielfältiges Land.
+  On a un pays très *diversifié*.
+  Wir haben ein stark *vielfältiges* Land.
 
-  Il faut diversifier nos activités.
-  Wir müssen unsere Aktivitäten diversifizieren.
+  Pour réussir, il faut *diversifier* ses sources de revenus.
+  Um erfolgreich zu sein, muss man seine Einnahmequellen *streuen*.
 
-  L'entreprise propose une production largement diversifiée, allant des produits alimentaires aux produits électroniques.
-  Das Unternehmen bietet eine breit gefächerte Produktion an, die von Lebensmitteln bis hin zu Elektronik reicht.
+  Notre école cherche à *diversifier* ses programmes d'enseignement.
+  Unsere Schule möchte ihr Unterrichtsangebot *vielfältiger gestalten*.
 
-  L'entreprise a une production largement diversifiée, ce qui lui permet de mieux résister aux fluctuations du marché.
-  Das Unternehmen hat eine breit gefächerte Produktion, was es ihm ermöglicht, besser gegen Marktschwankungen gewappnet zu sein.
+  L'offre culturelle s'est beaucoup *diversifiée* ces dernières années.
+  Das kulturelle Angebot ist in den letzten Jahren sehr *vielfältig* geworden.
+
+  Le restaurant a décidé de *diversifier* ses menus pour attirer plus de clients.
+  Das Restaurant hat beschlossen, seine Speisekarten *abwechslungsreicher* zu gestalten, um mehr Kunden anzulocken.
+
+  Les goûts des consommateurs se *diversifient* de plus en plus.
+  Der Geschmack der Verbraucher wird immer *vielfältiger*.
+
+  Cette entreprise a réussi à *diversifier* sa production rapidement.
+  Diesem Unternehmen ist es gelungen, seine Produktion schnell zu *diversifizieren*.
+
+  Il est important de *diversifier* ses investissements pour réduire les risques.
+  Es ist wichtig, seine Anlagen zu *streuen*, um Risiken zu reduzieren.
+
+  Les paysages se sont *diversifiés* au fil de notre voyage.
+  Die Landschaften wurden im Laufe unserer Reise immer *abwechslungsreicher*.
+
+  Nous devons *diversifier* nos sources d'énergie pour protéger l'environnement.
+  Wir müssen unsere Energiequellen *diversifizieren*, um die Umwelt zu schützen.
+
+  Le magasin cherche à *diversifier* sa clientèle.
+  Das Geschäft versucht, seinen Kundenkreis *vielfältiger* zu gestalten.
+
+  Les activités sportives se sont beaucoup *diversifiées* dans notre ville.
+  Die sportlichen Aktivitäten in unserer Stadt sind sehr *vielfältig* geworden.
+
+  La bibliothèque veut *diversifier* son offre de livres.
+  Die Bibliothek möchte ihr Buchangebot *vielfältiger* gestalten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

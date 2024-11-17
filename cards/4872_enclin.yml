@@ -13,20 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis enclin à les laisser pourrir.
-  Ich bin geneigt, sie verrotten zu lassen.
+  Je suis *enclin* à les laisser pourrir.
+  Ich *neige* dazu, sie verrotten zu lassen.
 
-  Il est enclin à la colère.
-  Er ist zur Wut geneigt.
+  Il est naturellement *enclin* à la méfiance envers les étrangers.
+  Er *neigt* von Natur aus zum Misstrauen gegenüber Fremden.
 
-  Il est enclin à la tristesse, car il a perdu son chien.
-  Er neigt zur Traurigkeit, seit er seinen Hund verloren hat.
+  Cette entreprise est particulièrement *encline* aux réformes.
+  Dieses Unternehmen ist besonders *reformwillig*.
 
-  Elle est encline à faire des erreurs, lorsqu'elle est stressée.
-  Sie neigt dazu, Fehler zu machen, wenn sie gestresst ist.
+  Les adolescents sont souvent *enclins* à la mélancolie.
+  Jugendliche *neigen* oft zur Melancholie.
 
-  Ce gouvernement est enclin aux réformes, mais les résultats tardent à venir.
-  Diese Regierung ist reformwillig, aber die Ergebnisse lassen auf sich warten.
+  Elle n'est pas *encline* à pardonner facilement.
+  Sie *neigt* nicht dazu, leicht zu verzeihen.
+
+  Mon frère a toujours été *enclin* à la paresse.
+  Mein Bruder war schon immer zur *Faulheit geneigt*.
+
+  Ces politiciens semblent *enclins* à médire de leurs adversaires.
+  Diese Politiker scheinen dazu zu *neigen*, schlecht über ihre Gegner zu reden.
+
+  Je ne suis pas vraiment *encline* à accepter cette proposition.
+  Ich bin nicht wirklich dazu *geneigt*, diesen Vorschlag anzunehmen.
+
+  Son âme *encline* à l'exaltation la pousse souvent à l'excès.
+  Ihre zur Überschwänglichkeit *neigende* Seele treibt sie oft zum Übermut.
+
+  Les enfants sont naturellement *enclins* à faire confiance aux autres.
+  Kinder *neigen* von Natur aus dazu, anderen zu vertrauen.
+
+  Elle est *encline* à s'irriter pour des détails.
+  Sie *neigt* dazu, sich über Kleinigkeiten aufzuregen.
+
+  Ces chercheurs sont *enclins* à remettre en question les théories existantes.
+  Diese Forscher *neigen* dazu, bestehende Theorien zu hinterfragen.
+
+  Ma grand-mère est *encline* à raconter les mêmes histoires.
+  Meine Großmutter *neigt* dazu, die gleichen Geschichten zu erzählen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

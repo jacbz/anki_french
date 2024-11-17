@@ -13,23 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je souffre … du syndrome du manque d’amour.
-  Ich leide … am Liebesentzugssyndrom.
+  Je souffre du *syndrome* du manque d'amour.
+  Ich leide am Liebesentzugs*syndrom*.
 
-  Elle souffre du syndrome de la Tourette.
-  Sie leidet am Tourette-Syndrom.
+  Les médecins ont diagnostiqué un *syndrome* grippal chez plusieurs patients.
+  Die Ärzte haben bei mehreren Patienten ein Grippe*syndrom* diagnostiziert.
 
-  Le syndrome borderline est un trouble de la personnalité qui se caractérise par des relations instables et intenses, une image de soi instable, des impulsions incontrôlées et des sentiments de vide intérieur.
-  Das Borderline-Syndrom ist eine Persönlichkeitsstörung, die durch instabile und intensive Beziehungen, ein instabiles Selbstbild, unkontrollierte Impulsivität und Gefühle innerer Leere gekennzeichnet ist.
+  Marie souffre du *syndrome* de Stockholm depuis sa libération.
+  Marie leidet seit ihrer Befreiung am Stockholm*syndrom*.
 
-  Le syndrome de Cushing est une maladie causée par une exposition excessive à la cortisone.
-  Das Cushing-Syndrom ist eine Krankheit, die durch eine übermäßige Exposition gegenüber Cortison verursacht wird.
+  Le *syndrome* dépressif est de plus en plus fréquent chez les jeunes.
+  Das Depressions*syndrom* tritt bei jungen Menschen immer häufiger auf.
 
-  Marie est atteinte du syndrome de Cushing depuis plusieurs années.
-  Marie leidet seit mehreren Jahren am Cushing-Syndrom.
+  Son *syndrome* d'épuisement professionnel l'a forcé à prendre un congé.
+  Sein Burnout*syndrom* zwang ihn dazu, sich eine Auszeit zu nehmen.
 
-  Le syndrome des vertèbres cervicales, ou torticolis, est une douleur au cou qui peut être causée par une blessure, une mauvaise posture ou une tension musculaire.
-  Das Halswirbelsäulensyndrom, auch bekannt als Schiefhals, ist ein Nackenschmerz, der durch eine Verletzung, schlechte Körperhaltung oder Muskelverspannungen verursacht werden kann.
+  Les soldats revenus du combat présentent souvent le *syndrome* post-traumatique.
+  Die aus dem Kampf zurückgekehrten Soldaten zeigen oft das Posttrauma*syndrom*.
+
+  Le *syndrome* de l'imposteur touche beaucoup de jeunes professionnels.
+  Das Hochstapler*syndrom* betrifft viele junge Berufstätige.
+
+  Un nouveau *syndrome* viral inquiète les autorités sanitaires.
+  Ein neues Virus*syndrom* beunruhigt die Gesundheitsbehörden.
+
+  Les spécialistes étudient un rare *syndrome* génétique.
+  Die Spezialisten untersuchen ein seltenes Gen*syndrom*.
+
+  Ce *syndrome* métabolique nécessite un traitement immédiat.
+  Dieses Stoffwechsel*syndrom* erfordert eine sofortige Behandlung.
+
+  Le *syndrome* de la page blanche frappe souvent les écrivains.
+  Das Schreibblockaden*syndrom* trifft oft Schriftsteller.
+
+  Son *syndrome* d'apnée du sommeil perturbe ses nuits.
+  Sein Schlafapnoe*syndrom* stört seine Nächte.
+
+  Les médecins ont identifié un nouveau *syndrome* respiratoire.
+  Die Ärzte haben ein neues Atmungs*syndrom* identifiziert.
+
+  Le *syndrome* de Stendhal l'a submergée devant la chapelle Sixtine.
+  Das Stendhal*syndrom* überwältigte sie vor der Sixtinischen Kapelle.
+
+  Ce *syndrome* inflammatoire chronique nécessite un suivi régulier.
+  Dieses chronische Entzündungs*syndrom* erfordert regelmäßige Kontrollen.
+
+  Le *syndrome* de l'enfant unique se manifeste souvent par de l'égocentrisme.
+  Das Einzelkind*syndrom* zeigt sich oft durch Egozentrik.
+
+  Les chercheurs étudient un mystérieux *syndrome* neurologique.
+  Die Forscher untersuchen ein mysteriöses Nerven*syndrom*.
+
+  Le *syndrome* prémenstruel affecte de nombreuses femmes.
+  Das prämenstruelle *Syndrom* betrifft viele Frauen.
+
+  Ce *syndrome* hépatique rare nécessite des examens approfondis.
+  Dieses seltene Leber*syndrom* erfordert gründliche Untersuchungen.
+
+  Le *syndrome* du survivant touche beaucoup de rescapés.
+  Das Überlebenden*syndrom* betrifft viele Überlebende.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

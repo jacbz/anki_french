@@ -13,23 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je ne suis pas une serveuse de bar.
-  Ich bin keine Kellnerin in einer Bar.
+  Je ne suis pas une *serveuse* de bar.
+  Ich bin keine Bar*kellnerin*.
 
-  Le serveur prendra votre commande.
-  Der Kellner wird Ihre Bestellung aufnehmen.
+  Le *serveur* nous a apporté la carte des vins.
+  Der *Kellner* hat uns die Weinkarte gebracht.
 
-  Voici le serveur !
-  Hier kommt der Kellner!
+  Les *serveurs* portaient tous un nœud papillon noir.
+  Die *Kellner* trugen alle eine schwarze Fliege.
 
-  Le serveur est encore en panne.
-  Der Server ist wieder abgestürzt.
+  Notre *serveur* informatique est tombé en panne ce matin.
+  Unser *Server* ist heute Morgen ausgefallen.
 
-  J'ai téléchargé la dernière version du logiciel du serveur.
-  Ich habe die neueste Version der Software vom Server heruntergeladen.
+  Pierre est un excellent *serveur* au tennis.
+  Pierre ist ein ausgezeichneter *Aufschläger* im Tennis.
 
-  Il faut télécharger le fichier du serveur avant de pouvoir l'utiliser.
-  Man muss die Datei vom Server herunterladen, bevor man sie benutzen kann.
+  Le *serveur* de messagerie ne répond plus depuis hier.
+  Der Mail*server* antwortet seit gestern nicht mehr.
+
+  Au poker, c'est Thomas qui sera le *serveur*.
+  Beim Poker wird Thomas der *Geber* sein.
+
+  La *serveuse* a renversé du café sur ma chemise.
+  Die *Kellnerin* hat Kaffee auf mein Hemd verschüttet.
+
+  Notre équipe a perdu parce que notre *serveur* était blessé.
+  Unser Team hat verloren, weil unser *Aufgeber* verletzt war.
+
+  J'ai téléchargé ces fichiers directement du *serveur*.
+  Ich habe diese Dateien direkt vom *Server* heruntergeladen.
+
+  Le restaurant cherche un *serveur* en extra pour ce soir.
+  Das Restaurant sucht einen Aushilfs*kellner* für heute Abend.
+
+  Le centre *serveur* traite des milliers de requêtes par seconde.
+  Der *Server*-Zentrale verarbeitet tausende Anfragen pro Sekunde.
+
+  Au volley-ball, Marie est notre meilleure *serveuse*.
+  Beim Volleyball ist Marie unsere beste *Aufgeberin*.
+
+  Les *serveurs* d'impression sont maintenant tous connectés.
+  Die Druck*server* sind jetzt alle verbunden.
+
+  Le *serveur* vocal ne reconnaît pas mes commandes.
+  Der Sprach*server* erkennt meine Befehle nicht.
+
+  Notre *serveur* de base de données doit être mis à jour.
+  Unser Datenbank*server* muss aktualisiert werden.
+
+  Le *serveur* nous a recommandé le plat du jour.
+  Der *Kellner* hat uns das Tagesgericht empfohlen.
+
+  Cette *serveuse* travaille ici depuis vingt ans.
+  Diese *Kellnerin* arbeitet seit zwanzig Jahren hier.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

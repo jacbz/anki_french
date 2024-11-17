@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle parlait couramment deux autres langues aussi.
-  Sie sprach auch zwei weitere Sprachen fließend.
+  Elle parlait *couramment* deux autres langues aussi.
+  Sie sprach auch zwei andere Sprachen *fließend*.
 
-  Je parle couramment français.
-  Ich spreche fließend Französisch.
+  Il lit *couramment* depuis son plus jeune âge.
+  Er liest seit seiner frühen Kindheit *flüssig*.
+
+  La pratique du yoga se répand *couramment* en Europe.
+  Yoga verbreitet sich *häufig* in Europa.
+
+  Cette expression s'utilise *couramment* dans le langage familier.
+  Dieser Ausdruck wird in der Umgangssprache *oft* verwendet.
+
+  Mon petit frère écrit déjà *couramment* en chinois.
+  Mein kleiner Bruder schreibt bereits *flüssig* Chinesisch.
+
+  Les jeunes utilisent *couramment* les réseaux sociaux.
+  Junge Menschen nutzen Social Media *häufig*.
+
+  Cette méthode est *couramment* employée en cuisine.
+  Diese Methode wird beim Kochen *oft* angewendet.
+
+  Marie comprend *couramment* l'espagnol mais ne le parle pas.
+  Marie versteht Spanisch *fließend*, spricht es aber nicht.
+
+  Cette technologie sera *couramment* utilisée dans dix ans.
+  Diese Technologie wird in zehn Jahren *häufig* verwendet werden.
+
+  Le nouveau stagiaire parle *couramment* quatre langues.
+  Der neue Praktikant spricht vier Sprachen *fließend*.
+
+  Ces produits se trouvent *couramment* dans les supermarchés.
+  Diese Produkte findet man *häufig* in Supermärkten.
+
+  Les enfants apprennent à lire *couramment* vers sept ans.
+  Kinder lernen mit etwa sieben Jahren *flüssig* zu lesen.
+
+  On voit *couramment* ce phénomène en automne.
+  Man sieht dieses Phänomen im Herbst *oft*.
+
+  Les étudiants doivent écrire *couramment* en français pour réussir l'examen.
+  Die Studenten müssen für die Prüfung *flüssig* Französisch schreiben können.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,23 +13,128 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le temps éclaircira ce mystère.
-  Die Zeit wird dieses Geheimnis lüften.
+  Le temps *éclaircira* ce mystère.
+  Die Zeit wird dieses Mysterium *aufklären*.
 
-  Le soleil commence à éclaircir le ciel.
-  Die Sonne fängt an, den Himmel aufzuhellen.
+  Le ciel s'est *éclairci* après la pluie.
+  Der Himmel ist nach dem Regen *aufgeklart*.
 
-  Le policier a réussi à éclaircir l'affaire grâce à son enquête minutieuse.
-  Der Polizist konnte die Sache durch seine sorgfältige Ermittlung aufklären.
+  Elle *s'éclaircit* la gorge avant de prendre la parole.
+  Sie *räusperte* sich, bevor sie das Wort ergriff.
 
-  Le temps s'est éclairci après la tempête.
-  Das Wetter hat sich nach dem Sturm wieder aufgeklart.
+  La camomille *éclaircit* naturellement les cheveux.
+  Kamille *hellt* die Haare auf natürliche Weise *auf*.
 
-  Jean s'est éclairci la gorge avant de prendre la parole.
-  Jean räusperte sich, bevor er zu sprechen begann.
+  Il faut *éclaircir* la sauce avec un peu de crème.
+  Die Soße muss mit etwas Sahne *gestreckt* werden.
 
-  Une bonne nuit de sommeil nous éclaircira les idées pour demain.
-  Eine gute Nachtruhe wird uns morgen den Kopf wieder frei machen.
+  Les années ont *éclairci* ses cheveux aux tempes.
+  Die Jahre haben seine Schläfen *gelichtet*.
+
+  Le jardinier doit *éclaircir* les carottes pour qu'elles puissent bien pousser.
+  Der Gärtner muss die Karotten *vereinzeln*, damit sie gut wachsen können.
+
+  La police essaie d'*éclaircir* les circonstances de l'accident.
+  Die Polizei versucht, die Umstände des Unfalls zu *klären*.
+
+  L'horizon s'*éclaircit* enfin pour notre entreprise.
+  Der Horizont *klart* endlich für unser Unternehmen *auf*.
+
+  Cette crème va *éclaircir* ton teint.
+  Diese Creme wird deinen Teint *auffrischen*.
+
+  Les rangs des spectateurs se sont *éclaircis* vers la fin du concert.
+  Die Reihen der Zuschauer haben sich gegen Ende des Konzerts *gelichtet*.
+
+  Il faut *éclaircir* la forêt pour permettre aux jeunes arbres de grandir.
+  Der Wald muss *durchforstet* werden, damit die jungen Bäume wachsen können.
+
+  La situation s'est *éclaircie* entre les deux amis.
+  Die Situation zwischen den beiden Freunden hat sich *geklärt*.
+
+  Le professeur va nous *éclaircir* ce point complexe.
+  Der Professor wird uns diesen komplexen Punkt *klären*.
+
+  Sa robe blanche s'est *éclaircie* au soleil.
+  Ihr weißes Kleid ist in der Sonne *heller* geworden.
+
+  Les nuages se sont *éclaircis* en fin d'après-midi.
+  Die Wolken haben sich am späten Nachmittag *gelichtet*.
+
+  Il faut *éclaircir* cette couleur avant de peindre le mur.
+  Diese Farbe muss *aufgehellt* werden, bevor die Wand gestrichen wird.
+
+  La maladie a *éclairci* les rangs de l'équipe.
+  Die Krankheit hat die Reihen der Mannschaft *gelichtet*.
+
+  Le médecin va *éclaircir* les doutes du patient.
+  Der Arzt wird die Zweifel des Patienten *klären*.
+
+  Les cheveux de Paul se sont *éclaircis* avec l'âge.
+  Pauls Haare sind mit dem Alter *schütter* geworden.
+
+  Le jardinier doit *éclaircir* les semis de tomates.
+  Der Gärtner muss die Tomatensetzlinge *ausziehen*.
+
+  Cette énigme sera bientôt *éclaircie*.
+  Dieses Rätsel wird bald *gelöst* sein.
+
+  Le bois s'*éclaircit* près de la rivière.
+  Der Wald *lichtet* sich in der Nähe des Flusses.
+
+  La vérité va finalement *éclaircir* cette affaire.
+  Die Wahrheit wird schließlich *Licht* in diese Sache *bringen*.
+
+  Une promenade nous *éclaircira* les idées.
+  Ein Spaziergang wird uns einen *klaren* Kopf verschaffen.
+
+  Le temps s'est *éclairci* juste avant le mariage.
+  Das Wetter ist kurz vor der Hochzeit *aufgeklart*.
+
+  Il faut *éclaircir* ce malentendu au plus vite.
+  Dieses Missverständnis muss schnellstmöglich *geklärt* werden.
+
+  La foule s'est *éclaircie* après le feu d'artifice.
+  Die Menge hat sich nach dem Feuerwerk *gelichtet*.
+
+  Cette lotion va *éclaircir* les taches sur ta peau.
+  Diese Lotion wird die Flecken auf deiner Haut *aufhellen*.
+
+  Le mystère s'*éclaircira* avec le temps.
+  Das Geheimnis wird sich mit der Zeit *aufklären*.
+
+  Le coiffeur a *éclairci* sa barbe.
+  Der Friseur hat seinen Bart *ausgedünnt*.
+
+  La situation politique s'*éclaircit* peu à peu.
+  Die politische Situation *klärt* sich nach und nach *auf*.
+
+  Le peroxyde *éclaircit* les cheveux rapidement.
+  Peroxid *hellt* die Haare schnell *auf*.
+
+  Les détectives vont *éclaircir* ce meurtre mystérieux.
+  Die Detektive werden diesen mysteriösen Mord *aufdecken*.
+
+  Le brouillard s'*éclaircit* lentement ce matin.
+  Der Nebel *lichtet* sich heute Morgen langsam.
+
+  Marie *s'éclaircit* toujours la voix avant de chanter.
+  Marie *räuspert* sich immer, bevor sie singt.
+
+  Cette explication a *éclairci* mes doutes.
+  Diese Erklärung hat meine Zweifel *geklärt*.
+
+  Le jardinier a *éclairci* les pommiers.
+  Der Gärtner hat die Apfelbäume *ausgelichtet*.
+
+  Les cheveux de grand-père se sont *éclaircis* avec les années.
+  Großvaters Haare haben sich mit den Jahren *gelichtet*.
+
+  La pluie a *éclairci* l'air pollué.
+  Der Regen hat die verschmutzte Luft *geklärt*.
+
+  Le professeur nous a *éclairci* ce concept difficile.
+  Der Professor hat uns dieses schwierige Konzept *erklärt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

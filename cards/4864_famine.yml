@@ -13,14 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Une grande famine venait de dévaster la Chine.
-  Eine große Hungersnot hatte gerade China verwüstet.
+  Une grande *famine* venait de dévaster la Chine.
+  Eine große *Hungersnot* hatte China verwüstet.
 
-  Des millions de personnes souffrent de la famine dans ce pays.
-  Millionen von Menschen leiden in diesem Land unter Hungersnot.
+  La *famine* qui a suivi la sécheresse a causé beaucoup de souffrances.
+  Die *Hungersnot* nach der Dürre hat viel Leid verursacht.
 
-  Il criait famine, bien qu'il ait mangé à sa faim le matin même.
-  Er klagte über Hunger, obwohl er am Morgen satt gegessen hatte.
+  Les organisations humanitaires luttent contre la *famine* dans plusieurs régions du monde.
+  Die Hilfsorganisationen kämpfen in mehreren Regionen der Welt gegen die *Hungersnot*.
+
+  "Arrête de *crier famine*, ton frigo est plein !"
+  "Hör auf zu *jammern*, dass du nichts zu essen hast, dein Kühlschrank ist voll!"
+
+  Cette région souffre d'une *famine* endémique depuis des années.
+  Diese Region leidet seit Jahren unter einer endemischen *Hungerkatastrophe*.
+
+  Des millions de personnes sont menacées par la *famine*.
+  Millionen Menschen sind von der *Hungersnot* bedroht.
+
+  Les historiens ont étudié les grandes *famines* du Moyen Âge.
+  Die Historiker haben die großen *Hungersnöte* des Mittelalters untersucht.
+
+  Il travaille pour un *salaire de famine*.
+  Er arbeitet für einen *Hungerlohn*.
+
+  La guerre a provoqué une terrible *famine*.
+  Der Krieg hat eine schreckliche *Hungersnot* ausgelöst.
+
+  Après trois ans de disette, la *famine* s'est installée dans le pays.
+  Nach drei Jahren Mangel brach im Land die *Hungersnot* aus.
+
+  Les Nations Unies ont averti du risque de *famine*.
+  Die Vereinten Nationen haben vor der Gefahr einer *Hungerkatastrophe* gewarnt.
+
+  "Tu *cries famine sur un tas de blé*!"
+  "Du *jammerst auf hohem Niveau*!"
+
+  La *famine* a forcé des milliers de personnes à fuir leur village.
+  Die *Hungersnot* zwang Tausende Menschen zur Flucht aus ihren Dörfern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

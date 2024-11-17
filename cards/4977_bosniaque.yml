@@ -13,11 +13,41 @@ Register: ↘Fiktion ↗Sachtext ↘Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le gouvernement bosniaque a accepté le plan de paix.
-  Die bosnische Regierung hat den Friedensplan akzeptiert.
+  Le gouvernement *bosniaque* a accepté le plan de paix.
+  Die *bosnische* Regierung hat dem Friedensplan zugestimmt.
 
-  Mon voisin est Bosniaque.
-  Mein Nachbar ist Bosnier.
+  Les traditions *bosniaques* sont très riches et diversifiées.
+  Die *bosnischen* Traditionen sind sehr reich und vielfältig.
+
+  Elle enseigne le *bosniaque* à l'université depuis dix ans.
+  Sie unterrichtet seit zehn Jahren *Bosnisch* an der Universität.
+
+  Mon voisin est un *Bosniaque* qui vit ici depuis vingt ans.
+  Mein Nachbar ist ein *Bosnier*, der seit zwanzig Jahren hier lebt.
+
+  La cuisine *bosniaque* est influencée par la cuisine turque.
+  Die *bosnische* Küche ist von der türkischen Küche beeinflusst.
+
+  Le *bosniaque* est une langue officielle en Bosnie-Herzégovine.
+  *Bosnisch* ist eine Amtssprache in Bosnien und Herzegowina.
+
+  Une famille *bosniaque* s'est installée dans notre quartier.
+  Eine *bosnische* Familie hat sich in unserem Viertel niedergelassen.
+
+  Les étudiants apprennent le *bosniaque* comme deuxième langue.
+  Die Studenten lernen *Bosnisch* als zweite Sprache.
+
+  La littérature *bosniaque* moderne se développe rapidement.
+  Die moderne *bosnische* Literatur entwickelt sich schnell.
+
+  Cette *Bosniaque* travaille comme médecin dans notre hôpital.
+  Diese *Bosnierin* arbeitet als Ärztin in unserem Krankenhaus.
+
+  Le festival célèbre la culture *bosniaque* traditionnelle.
+  Das Festival feiert die traditionelle *bosnische* Kultur.
+
+  L'artiste *bosniaque* exposera ses œuvres le mois prochain.
+  Die *bosnische* Künstlerin wird nächsten Monat ihre Werke ausstellen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

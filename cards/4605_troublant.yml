@@ -13,11 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est là quelque chose de très troublant.
-  Dies ist etwas sehr Beunruhigendes.
+  C'est là quelque chose de très *troublant*.
+  Das ist etwas sehr *Beunruhigendes*.
 
-  Cette situation est troublante.
-  Diese Situation ist verwirrend.
+  Cette coïncidence *troublante* ne peut pas être le fruit du hasard.
+  Diese *irritierende* Koinzidenz kann kein Zufall sein.
+
+  Un silence *troublant* s'est installé dans la pièce.
+  Eine *beunruhigende* Stille breitete sich im Raum aus.
+
+  Elle avait une ressemblance *troublante* avec ma sœur.
+  Sie hatte eine *verwirrende* Ähnlichkeit mit meiner Schwester.
+
+  J'ai fait un rêve *troublant* la nuit dernière.
+  Ich hatte letzte Nacht einen *merkwürdigen* Traum.
+
+  Les détectives ont découvert des faits *troublants* pendant l'enquête.
+  Die Detektive haben während der Ermittlung *beunruhigende* Fakten entdeckt.
+
+  Son parfum *troublant* flottait encore dans l'air.
+  Ihr *aufregendes* Parfüm schwebte noch in der Luft.
+
+  Le mystère devient de plus en plus *troublant*.
+  Das Mysterium wird immer *seltsamer*.
+
+  Cette musique a quelque chose de *troublant*.
+  Diese Musik hat etwas *Verstörendes*.
+
+  Des événements *troublants* se sont produits dans cette maison.
+  In diesem Haus haben sich *beunruhigende* Ereignisse zugetragen.
+
+  Un bruit *troublant* nous a réveillés en pleine nuit.
+  Ein *störendes* Geräusch hat uns mitten in der Nacht geweckt.
+
+  Il y avait une atmosphère *troublante* dans ce vieux théâtre abandonné.
+  In diesem alten, verlassenen Theater herrschte eine *unheimliche* Atmosphäre.
+
+  Cette découverte *troublante* remet tout en question.
+  Diese *irritierende* Entdeckung stellt alles in Frage.
+
+  Les témoins ont rapporté des détails *troublants*.
+  Die Zeugen berichteten *beunruhigende* Details.
+
+  Une mélodie *troublante* s'échappait du piano.
+  Eine *verwirrende* Melodie entwich dem Klavier.
+
+  Ces indices *troublants* suggèrent une autre explication.
+  Diese *beunruhigenden* Hinweise deuten auf eine andere Erklärung hin.
+
+  Un sentiment *troublant* l'envahit soudainement.
+  Ein *verwirrendes* Gefühl überkam sie plötzlich.
+
+  La nouvelle a eu un effet *troublant* sur tout le monde.
+  Die Nachricht hatte eine *verstörende* Wirkung auf alle.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

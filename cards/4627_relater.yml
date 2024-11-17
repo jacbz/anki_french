@@ -9,13 +9,54 @@ Femininum / Plural: ''
 IPA: \ʁə.la.te\
 Definition: erzählen, berichten
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Ils m’ont relaté des histoires cauchemardesques.\nSie erzählten mir\
-  \ albtraumhafte Geschichten.\n\nElle a relaté son voyage en Asie.\nSie hat von ihrer\
-  \ Reise nach Asien erzählt.\n\nLes événements ont été relatés par la presse, mais\
-  \ avec peu de détails.\nDie Ereignisse wurden in der Presse dargelegt, aber nur\
-  \ mit wenigen Details. \n\nL'affaire a été relatée par la presse et a fait grand\
-  \ bruit.\nDie Angelegenheit wurde in der Presse dargelegt und hat für großes Aufsehen\
-  \ gesorgt."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Ils m'ont *relaté* des histoires cauchemardesques.
+  Sie haben mir albtraumhafte Geschichten *geschildert*.
+
+  Après l'accident, plusieurs témoins ont *relaté* les faits à la police.
+  Nach dem Unfall haben mehrere Zeugen der Polizei den Sachverhalt *geschildert*.
+
+  Le journal *relate* en détail la découverte archéologique.
+  Die Zeitung *berichtet* ausführlich über die archäologische Entdeckung.
+
+  Les médias ont *relaté* l'événement de manière très différente.
+  Die Medien haben das Ereignis sehr unterschiedlich *dargestellt*.
+
+  Dans son livre, l'auteur *relate* ses années d'enfance.
+  In seinem Buch *erzählt* der Autor von seinen Kindheitsjahren.
+
+  L'article *relate* minutieusement le déroulement de la cérémonie.
+  Der Artikel *schildert* den Ablauf der Zeremonie minutiös.
+
+  Marie nous a *relaté* sa rencontre avec le président.
+  Marie hat uns von ihrer Begegnung mit dem Präsidenten *berichtet*.
+
+  Les historiens *relatent* que la bataille a duré trois jours.
+  Die Historiker *berichten*, dass die Schlacht drei Tage dauerte.
+
+  Le documentaire *relate* l'histoire de la ville au fil des siècles.
+  Die Dokumentation *erzählt* die Geschichte der Stadt im Laufe der Jahrhunderte.
+
+  Les survivants ont *relaté* leur terrible expérience aux journalistes.
+  Die Überlebenden haben den Journalisten ihre schreckliche Erfahrung *geschildert*.
+
+  Cette chronique *relate* les événements majeurs de l'année écoulée.
+  Diese Chronik *berichtet* über die wichtigsten Ereignisse des vergangenen Jahres.
+
+  Le rapport de police *relate* les circonstances exactes de l'incident.
+  Der Polizeibericht *schildert* die genauen Umstände des Vorfalls.
+
+  Dans ses mémoires, elle *relate* ses aventures de jeunesse.
+  In ihren Memoiren *erzählt* sie von ihren Jugendabenteuern.
+
+  Les journaux du monde entier ont *relaté* cette découverte scientifique.
+  Zeitungen weltweit haben über diese wissenschaftliche Entdeckung *berichtet*.
+
+  Le témoin a *relaté* les faits de manière très précise.
+  Der Zeuge hat den Sachverhalt sehr präzise *geschildert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

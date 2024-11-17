@@ -13,29 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tout ce qui est superflu déplaît à dieu et à la nature.
-  Alles Überflüssige missfällt Gott und der Natur.
+  Tout ce qui est superflu *déplaît* à dieu et à la nature.
+  Alles Überflüssige *missfällt* Gott und der Natur.
 
-  Son comportement me déplaît.
-  Sein Verhalten missfällt mir.
+  Il me *déplaît* beaucoup d'avoir à vous punir.
+  Es *missfällt* mir sehr, dass ich euch bestrafen muss.
 
-  Le comportement de Pierre déplaît beaucoup à sa mère.
-  Pierres Verhalten missfällt seiner Mutter sehr.
+  "*N'en déplaise* à mon patron, je prendrai mes vacances en août !"
+  "Ob es meinem Chef *passt* oder nicht, ich nehme meinen Urlaub im August!"
 
-  Il se déplaît en ville, il préfère la campagne.
-  Er fühlt sich in der Stadt nicht wohl, er bevorzugt die Natur.
+  Cette nouvelle coupe de cheveux *déplaît* à sa mère.
+  Diese neue Frisur *missfällt* ihrer Mutter.
 
-  N'en déplaise à Jean, je pense que cette idée est la meilleure.
-  Mag es Jean recht sein oder nicht, ich glaube, dass diese Idee die beste ist.
+  Les plantes grasses se *déplaisent* dans un sol trop humide.
+  Sukkulenten *gedeihen* nicht in zu feuchtem Boden.
 
-  Il déplaît à Marie de devoir se lever tôt le matin.
-  Es ist Marie sehr unangenehm, frühmorgens aufstehen zu müssen.
+  Un petit week-end à la mer ne me *déplairait* pas.
+  Ein kleines Wochenende am Meer würde mir nicht *missfallen*.
 
-  Il me déplairait beaucoup d'avoir à vous punir, mais je n'ai pas le choix.
-  Ich würde euch nur ungern bestrafen, aber ich habe keine Wahl.
+  Elle s'est *déplu* à Paris dès le premier jour.
+  Sie hat sich in Paris von Anfang an nicht *wohlgefühlt*.
 
-  Cette plante se déplaît dans un sol trop sec, elle a besoin d'humidité.
-  Diese Pflanze gedeiht in einem zu trockenen Boden nicht, sie braucht Feuchtigkeit.
+  Cette musique me *déplaît* souverainement.
+  Diese Musik *missfällt* mir zutiefst.
+
+  Il me *déplaît* que vous partiez sans nous dire au revoir.
+  Es *verstimmt* mich, dass ihr ohne Abschied geht.
+
+  Ces remarques ont *déplu* à tout le monde.
+  Diese Bemerkungen haben allen *missfallen*.
+
+  Marie se *déplaît* dans son nouveau travail.
+  Marie *fühlt* sich an ihrem neuen Arbeitsplatz nicht *wohl*.
+
+  "Votre attitude *déplaît* au directeur."
+  "Ihre Haltung *verstimmt* den Direktor."
+
+  Les roses se *déplaisent* dans ce jardin.
+  Die Rosen *gedeihen* in diesem Garten nicht.
+
+  Son comportement arrogant *déplaît* à ses collègues.
+  Sein arrogantes Verhalten *missfällt* seinen Kollegen.
+
+  Ces changements constants me *déplaisent* profondément.
+  Diese ständigen Änderungen *missfallen* mir zutiefst.
+
+  Il se *déplaît* partout où il va.
+  Er *fühlt* sich nirgendwo *wohl*.
+
+  Cette proposition ne me *déplaît* pas du tout.
+  Dieser Vorschlag *missfällt* mir überhaupt nicht.
+
+  "*N'en déplaise* aux experts, je maintiens mon opinion."
+  "Ob es den Experten *gefällt* oder nicht, ich bleibe bei meiner Meinung."
+
+  Le bruit constant de la ville lui *déplaît*.
+  Der ständige Stadtlärm *missfällt* ihm.
+
+  Il me *déplaît* d'avoir à refuser votre invitation.
+  Es ist mir sehr *unangenehm*, Ihre Einladung ablehnen zu müssen.
+
+  Les enfants se *déplaisent* à l'école cette année.
+  Die Kinder *fühlen* sich dieses Jahr in der Schule nicht *wohl*.
+
+  Cette décision *déplaira* sûrement à mes parents.
+  Diese Entscheidung wird meinen Eltern sicher *missfallen*.
+
+  Son attitude négative *déplaît* à tout le monde.
+  Seine negative Einstellung *missfällt* allen.
+
+  Il *déplaît* à Pierre de travailler le dimanche.
+  Es ist Peter *unangenehm*, sonntags arbeiten zu müssen.
+
+  Les orchidées se *déplaisent* dans un environnement trop sec.
+  Orchideen *gedeihen* nicht in einer zu trockenen Umgebung.
+
+  Je ne me *déplais* pas du tout dans ma nouvelle ville.
+  Ich *fühle* mich in meiner neuen Stadt überhaupt nicht *unwohl*.
+
+  Son caractère difficile *déplaît* à ses voisins.
+  Sein schwieriger Charakter *missfällt* seinen Nachbarn.
+
+  "*Ne vous en déplaise*, je ferai comme bon me semble."
+  "Ob es Ihnen *passt* oder nicht, ich werde tun, was ich für richtig halte."
+
+  Cette façon de parler me *déplaît* énormément.
+  Diese Art zu sprechen *missfällt* mir enorm.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

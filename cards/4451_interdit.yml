@@ -13,29 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’entrée était strictement interdite.
-  Der Zutritt war strengstens untersagt.
+  L'entrée était strictement *interdite*.
+  Der Eintritt war streng *verboten*.
 
-  Il est interdit de fumer ici.
-  Hier ist das Rauchen verboten.
+  Il est *interdit* de fumer dans ce restaurant.
+  In diesem Restaurant ist Rauchen *verboten*.
 
-  Le médecin a jeté l'interdit contre Paul, lui interdisant de conduire pendant six mois.
-  Der Arzt hat Paul entmündigt, indem er ihm für sechs Monate das Autofahren verboten hat.
+  La circulation est *interdite* dans cette zone piétonne.
+  In dieser Fußgängerzone ist der Verkehr *verboten*.
 
-  Ce chantier est interdit au public, car il présente des risques importants.
-  Betreten der Baustelle verboten, da große Gefahren bestehen.
+  Ce film est *interdit* aux moins de 16 ans.
+  Dieser Film ist für Jugendliche unter 16 Jahren *verboten*.
 
-  Ce film est interdit aux moins de 16 ans, car il contient des scènes violentes.
-  Der Film ist für Personen unter 16 Jahren verboten, da er gewalttätige Szenen enthält.
+  Les chiens sont *interdits* dans ce magasin.
+  Hunde sind in diesem Geschäft *verboten*.
 
-  Le passage est interdit aux voitures, mais les riverains sont autorisés à y passer.
-  Anlieger frei, für Autos verboten.
+  Le stationnement est *interdit* devant l'école.
+  Das Parken vor der Schule ist *verboten*.
 
-  Le professeur a interdit à ses élèves de parler pendant l'examen.
-  Es ist seinen Schülern verboten, während der Prüfung zu sprechen.
+  Cette substance *interdite* peut causer des problèmes de santé.
+  Diese *verbotene* Substanz kann gesundheitliche Probleme verursachen.
 
-  Le chanteur a été interdit d'antenne après avoir tenu des propos racistes.
-  Der Sänger hat ein Sendeverbot erhalten, nachdem er rassistische Äußerungen gemacht hatte.
+  Le journaliste a été *interdit* d'antenne pendant un mois.
+  Der Journalist erhielt für einen Monat *Sendeverbot*.
+
+  Elle est restée *interdite* devant cette nouvelle inattendue.
+  Sie blieb vor dieser unerwarteten Nachricht *sprachlos*.
+
+  Ces pratiques commerciales *interdites* ont conduit à des sanctions.
+  Diese *unerlaubten* Geschäftspraktiken führten zu Sanktionen.
+
+  Le sujet est devenu *interdit* après l'incident.
+  Das Thema wurde nach dem Vorfall *unerwünscht*.
+
+  Cette zone est *interdite* au public pour des raisons de sécurité.
+  Diese Zone ist aus Sicherheitsgründen für die Öffentlichkeit *gesperrt*.
+
+  Il a bravé tous les *interdits* de la société.
+  Er hat sich über alle gesellschaftlichen *Verbote* hinweggesetzt.
+
+  Les *interdits* moraux varient selon les cultures.
+  Die moralischen *Verbote* unterscheiden sich je nach Kultur.
+
+  Paul a été *interdit* de territoire après sa condamnation.
+  Paul wurde nach seiner Verurteilung *des Landes verwiesen*.
+
+  Le passage est *interdit* sauf aux riverains.
+  Die Durchfahrt ist *verboten* - Anlieger frei.
+
+  L'accès au chantier est *interdit*.
+  Das *Betreten* der Baustelle ist *verboten*.
+
+  Marie est restée *interdite* face à cette accusation.
+  Marie blieb angesichts dieser Anschuldigung *sprachlos*.
+
+  L'église a été frappée d'*interdit* par l'évêque.
+  Die Kirche wurde vom Bischof mit einem *Interdikt* belegt.
+
+  Il est *interdit* de photographier dans ce musée.
+  Fotografieren ist in diesem Museum *verboten*.
+
+  Les *interdits* alimentaires font partie de nombreuses religions.
+  *Speiseverbote* sind Teil vieler Religionen.
+
+  Le tribunal a *interdit* cette manifestation.
+  Das Gericht hat diese Demonstration *verboten*.
+
+  Elle a transgressé tous les *interdits* de sa famille.
+  Sie hat alle familiären *Verbote* übertreten.
+
+  Les enfants de moins de 12 ans sont *interdits* dans cette salle.
+  Kinder unter 12 Jahren haben in diesem Saal *keinen Zutritt*.
+
+  Cette pratique est *interdite* par la loi.
+  Diese Praxis ist gesetzlich *verboten*.
+
+  La baignade est *interdite* dans ce lac.
+  Das Baden ist in diesem See *verboten*.
+
+  Les supporters ont été *interdits* de stade.
+  Die Fans erhielten *Stadionverbot*.
+
+  Il est resté *interdit* de stupeur.
+  Er blieb vor Erstaunen *sprachlos*.
+
+  Cette route est *interdite* à la circulation.
+  Diese Straße ist für den Verkehr *gesperrt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

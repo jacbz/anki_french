@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les clés seront au secrétariat.
-  Die Schlüssel liegen im Sekretariat.
+  Les clés seront au *secrétariat*.
+  Die Schlüssel werden im *Sekretariat* sein.
 
-  Je travaille au secrétariat.
-  Ich arbeite im Sekretariat.
+  Le *secrétariat* est fermé pendant la pause déjeuner.
+  Das *Sekretariat* ist während der Mittagspause geschlossen.
 
-  Le secrétariat général des Nations Unies est basé à New York.
-  Das Generalsekretariat der Vereinten Nationen hat seinen Sitz in New York.
+  Elle travaille au *secrétariat* général des Nations Unies depuis dix ans.
+  Sie arbeitet seit zehn Jahren im General*sekretariat* der Vereinten Nationen.
 
-  Le secrétariat d'État est chargé de la politique étrangère.
-  Das Staatssekretariat ist für die Außenpolitik zuständig.
+  Le *secrétariat* à distance devient de plus en plus populaire.
+  Das *Sekretariat* aus der Ferne wird immer beliebter.
+
+  Marie a choisi d'apprendre le *secrétariat* après le lycée.
+  Marie hat sich entschieden, nach dem Abitur den *Sekretärinnenberuf* zu erlernen.
+
+  Le *secrétariat* d'État aux Sports a annoncé de nouvelles mesures.
+  Das Staats*sekretariat* für Sport hat neue Maßnahmen angekündigt.
+
+  Pour tout renseignement, veuillez contacter le *secrétariat* du cabinet médical.
+  Für weitere Informationen wenden Sie sich bitte an das *Sekretariat* der Arztpraxis.
+
+  Pierre assure le *secrétariat* de l'association depuis trois ans.
+  Pierre führt seit drei Jahren die *Geschäftsstelle* des Vereins.
+
+  Le *secrétariat* se trouve au premier étage, à droite.
+  Das *Sekretariat* befindet sich im ersten Stock rechts.
+
+  Elle suit une formation en *secrétariat* à l'école professionnelle.
+  Sie macht eine Ausbildung zur *Sekretärin* an der Berufsschule.
+
+  Vingt personnes travaillent au *secrétariat* de direction.
+  Zwanzig Personen arbeiten im Chef*sekretariat*.
+
+  Le *secrétariat* d'ambassade organise la visite officielle.
+  Das Botschafts*sekretariat* organisiert den offiziellen Besuch.
+
+  Le nouveau *secrétariat* général du gouvernement prendra ses fonctions lundi.
+  Das neue General*sekretariat* der Regierung wird am Montag seine Arbeit aufnehmen.
+
+  Son père a occupé le *secrétariat* pendant quinze ans.
+  Sein Vater hatte das Amt des *Sekretärs* fünfzehn Jahre inne.
+
+  Le *secrétariat* de l'école sera fermé pendant les vacances.
+  Das *Sekretariat* der Schule wird während der Ferien geschlossen sein.
+
+  Thomas envisage une carrière dans le *secrétariat*.
+  Thomas strebt eine Karriere als *Sekretär* an.
+
+  Les documents doivent être déposés au *secrétariat* avant vendredi.
+  Die Dokumente müssen bis Freitag im *Sekretariat* abgegeben werden.
+
+  Le *secrétariat* de la faculté gère les inscriptions des étudiants.
+  Das *Sekretariat* der Fakultät verwaltet die Einschreibungen der Studenten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,14 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il a réitéré sa demande aujourd’hui.
-  Er wiederholte seine Forderung heute.
+  Il a *réitéré* sa demande aujourd'hui.
+  Er hat seine Anfrage heute *wiederholt*.
 
-  Je vais réitérer ma demande.
-  Ich werde meine Anfrage wiederholen.
+  Le professeur a *réitéré* ses instructions trois fois, mais personne n'écoutait.
+  Der Lehrer hat seine Anweisungen dreimal *wiederholt*, aber niemand hörte zu.
 
-  Le plan d'action doit être réitéré tous les trimestres.
-  Der Aktionsplan muss alle drei Monate wiederholt werden.
+  Malgré ses promesses *réitérées*, il n'a toujours rien fait.
+  Trotz seiner *wiederholten* Versprechen hat er immer noch nichts getan.
+
+  Je dois *réitérer* que cette situation est inacceptable.
+  Ich muss *wiederholen*, dass diese Situation inakzeptabel ist.
+
+  Les efforts *réitérés* de Marie ont finalement porté leurs fruits.
+  Maries *wiederholte* Bemühungen haben sich endlich ausgezahlt.
+
+  Le directeur *réitère* son refus catégorique.
+  Der Direktor *bekräftigt* seine kategorische Ablehnung.
+
+  Sophie n'hésitera pas à *réitérer* l'expérience si nécessaire.
+  Sophie wird nicht zögern, das Experiment zu *wiederholen*, wenn nötig.
+
+  Pourquoi *réitérer* la même erreur encore et encore ?
+  Warum den gleichen Fehler immer wieder *wiederholen*?
+
+  Les accusations *réitérées* contre lui se sont avérées fausses.
+  Die *wiederholten* Anschuldigungen gegen ihn haben sich als falsch erwiesen.
+
+  Je *réitère* ma position : je ne changerai pas d'avis.
+  Ich *bekräftige* meinen Standpunkt: Ich werde meine Meinung nicht ändern.
+
+  Elle a dû *réitérer* sa demande plusieurs fois avant d'obtenir une réponse.
+  Sie musste ihre Anfrage mehrmals *wiederholen*, bevor sie eine Antwort bekam.
+
+  Le gouvernement *réitère* son engagement envers l'environnement.
+  Die Regierung *bekräftigt* ihr Engagement für die Umwelt.
+
+  Il est inutile de *réitérer* ces accusations sans preuves.
+  Es ist sinnlos, diese Anschuldigungen ohne Beweise zu *wiederholen*.
+
+  Après des tentatives *réitérées*, ils ont finalement réussi.
+  Nach *wiederholten* Versuchen haben sie es endlich geschafft.
+
+  Le patron m'a demandé de *réitérer* ma présentation devant le conseil d'administration.
+  Der Chef hat mich gebeten, meine Präsentation vor dem Vorstand zu *wiederholen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

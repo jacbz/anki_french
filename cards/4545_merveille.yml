@@ -13,38 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis une merveille de la nature.
-  Ich bin ein Wunder der Natur.
+  Je suis une *merveille* de la nature.
+  Ich bin ein *Wunder* der Natur.
 
-  C’est une merveille de la nature.
-  Das ist ein Wunder der Natur.
+  Le bracelet en or ancien est une pure *merveille*.
+  Das antike Goldarmband ist ein echtes *Wunder*.
 
-  Les Sept Merveilles du monde sont des monuments antiques célèbres pour leur beauté et leur grandeur.
-  Die sieben Weltwunder sind antike Bauwerke, die für ihre Schönheit und Größe berühmt sind.
+  "Ta nouvelle recette fait vraiment des *merveilles* !"
+  "Dein neues Rezept wirkt wahre *Wunder*!"
 
-  La Tour Eiffel est considérée par beaucoup comme la huitième merveille du monde.
-  Der Eiffelturm wird von vielen als das achte Weltwunder angesehen.
+  Cette machine fonctionne à *merveille*.
+  Diese Maschine funktioniert ganz *wunderbar*.
 
-  Les spectateurs ont crié merveille après le concert du célèbre pianiste.
-  Die Zuschauer waren des Lobes voll nach dem Konzert des berühmten Pianisten.
+  Les pyramides d'Égypte font partie des Sept *Merveilles* du monde.
+  Die Pyramiden von Ägypten gehören zu den Sieben *Welt*wundern.
 
-  Le gâteau était délicieux, à merveille !
-  Der Kuchen war köstlich, ausgezeichnet!
+  Son nouveau traitement fait *merveille* contre les maux de tête.
+  Seine neue Behandlung wirkt *Wunder* gegen Kopfschmerzen.
 
-  Ce jardin est une merveille, avec ses fleurs colorées et ses arbres imposants.
-  Dieser Garten ist wunderbar, mit seinen bunten Blumen und imposanten Bäumen.
+  Notre petit robot est une *merveille* de précision.
+  Unser kleiner Roboter ist ein *Wunder* an Präzision.
 
-  Cette horloge est une merveille de précision, elle n'a jamais déraillé.
-  Diese Uhr ist ein Wunder an Präzision, sie ist nie falsch gegangen.
+  Les fées ont accompli des *merveilles* dans ce conte.
+  Die Feen haben in diesem Märchen *Wunder* vollbracht.
 
-  Le remède a fait merveille, le patient se rétablit rapidement.
-  Das Heilmittel hat Wunder gewirkt, der Patient erholt sich schnell.
+  C'est *merveille* de vous voir si vite rétabli !
+  Es ist ein *Wunder*, Sie so schnell wieder gesund zu sehen!
 
-  Les bénévoles ont fait des merveilles pour aider les victimes du tremblement de terre.
-  Die Freiwilligen haben Wunder vollbracht, um den Opfern des Erdbebens zu helfen.
+  Cette petite voiture est une *merveille* d'ingéniosité.
+  Dieses kleine Auto ist ein *Wunder* an Einfallsreichtum.
 
-  Il n'y a pas de quoi chanter merveille, le résultat est décevant.
-  Es besteht kein Grund zum Jubeln, das Ergebnis ist enttäuschend.
+  Il se porte à *merveille* depuis son opération.
+  Seit seiner Operation geht es ihm *wunderbar*.
+
+  Les *merveilles* de la science nous étonnent chaque jour.
+  Die *Wunder* der Wissenschaft erstaunen uns jeden Tag.
+
+  Cette liqueur française est une vraie *merveille*.
+  Dieser französische Likör ist ein wahres *Meisterwerk*.
+
+  Sa présentation a fait *merveille* devant le jury.
+  Seine Präsentation hat beim Jury *Wunder* gewirkt.
+
+  "Il m'a promis monts et *merveilles*, mais rien n'est venu."
+  "Er hat mir das Blaue vom Himmel versprochen, aber nichts ist passiert."
+
+  Tout le monde dit *merveille* de son nouveau spectacle.
+  Alle sprechen in den höchsten Tönen von seiner neuen Show.
+
+  Cette robe te va à *merveille* !
+  Dieses Kleid steht dir *wunderbar*!
+
+  Les jardins suspendus étaient une des sept *merveilles* du monde antique.
+  Die hängenden Gärten waren eines der sieben *Welt*wunder der Antike.
+
+  "Tu veux partir maintenant ? À *merveille* !"
+  "Du willst jetzt gehen? *Wunderbar*!"
+
+  Il danse à *merveille* pour son âge.
+  Er tanzt für sein Alter *wunderbar*.
+
+  Cette jeune pianiste est une pure *merveille*.
+  Diese junge Pianistin ist ein wahres *Wunder*.
+
+  Les *merveilles* de l'art gothique sont impressionnantes.
+  Die *Meisterwerke* der gotischen Kunst sind beeindruckend.
+
+  Ma grand-mère fait des *merveilles* pour le dessert.
+  Meine Großmutter macht *wunderbare* Desserts.
+
+  Il nous a conté monts et *merveilles* de son voyage.
+  Er hat uns *Wunderdinge* von seiner Reise erzählt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,23 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’avion aménagé en hôpital volant était attendu mercredi.
-  Das als fliegendes Krankenhaus umgebaute Flugzeug wurde am Mittwoch erwartet.
+  L'avion *aménagé* en hôpital volant était attendu mercredi.
+  Das als fliegendes Krankenhaus *eingerichtete* Flugzeug wurde am Mittwoch erwartet.
 
-  Nous allons aménager notre nouvel appartement.
-  Wir werden unsere neue Wohnung einrichten.
+  Ils ont *aménagé* leur grenier en salle de jeux pour les enfants.
+  Sie haben ihren Dachboden zu einem Spielzimmer für die Kinder *umgebaut*.
 
-  Nous avons décidé d'aménager la chambre avec des rideaux en lin pour un style plus naturel.
-  Wir haben beschlossen, das Zimmer mit Vorhängen aus Leinen zu bestücken, um einen natürlicheren Stil zu bekommen.
+  Elle *aménage* sa nouvelle boutique avec beaucoup de goût.
+  Sie *richtet* ihren neuen Laden sehr geschmackvoll *ein*.
 
-  Il a décidé d'aménager un grenier en atelier pour exercer son art.
-  Er hat beschlossen, einen Dachboden zu einem Atelier umzubauen, um seiner Kunst nachzugehen.
+  La mairie a *aménagé* un nouveau parc au centre-ville.
+  Die Stadtverwaltung hat im Stadtzentrum einen neuen Park *angelegt*.
 
-  Le conseil municipal a présenté un plan d'aménagement de la ville pour la rendre plus verte.
-  Der Stadtrat hat einen Stadtplanungsvorschlag präsentiert, um die Stadt grüner zu gestalten.
+  J'ai dû *aménager* mon horaire de travail pour pouvoir m'occuper de ma mère.
+  Ich musste meinen Arbeitsplan *umstellen*, um mich um meine Mutter kümmern zu können.
 
-  Ils ont aménagé une chambre en bureau pour travailler à domicile.
-  Sie haben ein Zimmer als Büro eingerichtet, um von zu Hause aus zu arbeiten.
+  Les architectes *aménagent* le quartier selon un plan écologique.
+  Die Architekten *errichten* das Viertel nach einem ökologischen Plan.
+
+  La ville a *aménagé* des pistes cyclables dans toutes les grandes rues.
+  Die Stadt hat in allen großen Straßen Fahrradwege *angelegt*.
+
+  Nous avons *aménagé* notre cuisine avec des placards modernes.
+  Wir haben in unserer Küche moderne Schränke *eingebaut*.
+
+  Le gouvernement a *aménagé* la loi sur le télétravail.
+  Die Regierung hat das Gesetz zur Telearbeit *abgeändert*.
+
+  Il faut *aménager* ton bureau avec une meilleure lumière.
+  Du musst dein Büro mit besserer Beleuchtung *ausstatten*.
+
+  Les étudiants ont *aménagé* leur emploi du temps pour réviser les examens.
+  Die Studenten haben ihren Zeitplan für die Prüfungsvorbereitung *angepasst*.
+
+  Cette ancienne usine a été *aménagée* en centre culturel.
+  Diese alte Fabrik wurde zu einem Kulturzentrum *umgebaut*.
+
+  Nous devons *aménager* nos finances pour acheter une maison.
+  Wir müssen unsere Finanzen *anpassen*, um ein Haus zu kaufen.
+
+  L'entreprise a *aménagé* ses locaux pour accueillir plus d'employés.
+  Das Unternehmen hat seine Räumlichkeiten *umgebaut*, um mehr Mitarbeiter aufzunehmen.
+
+  Les propriétaires ont *aménagé* un coin lecture dans le salon.
+  Die Eigentümer haben im Wohnzimmer eine Leseecke *eingerichtet*.
+
+  Le camping nouvellement *aménagé* ouvre ses portes demain.
+  Der neu *angelegte* Campingplatz öffnet morgen seine Tore.
+
+  Elle a *aménagé* son studio avec des étagères sur mesure.
+  Sie hat ihr Studio mit maßgefertigten Regalen *ausgestattet*.
+
+  La commune *aménage* une aire de jeux pour les enfants.
+  Die Gemeinde *legt* einen Spielplatz für die Kinder *an*.
+
+  Les décrets ont été *aménagés* pour faciliter leur application.
+  Die Verordnungen wurden *abgeändert*, um ihre Anwendung zu erleichtern.
+
+  Ils ont *aménagé* leur cave en salle de sport.
+  Sie haben ihren Keller zu einem Fitnessraum *umgebaut*.
+
+  Le balcon a été *aménagé* en petit jardin d'hiver.
+  Der Balkon wurde zu einem kleinen Wintergarten *umgebaut*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,14 +13,47 @@ Register: ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce rôle leur incombe maintenant.
-  Diese Rolle obliegt nun ihnen.
+  Ce rôle leur *incombe* maintenant.
+  Diese Rolle *obliegt* ihnen jetzt.
 
-  Il incombe à chacun de respecter les règles.
-  Es obliegt jedem, die Regeln zu respektieren.
+  Cette tâche *incombe* à Marie depuis son arrivée.
+  Diese Aufgabe *fällt* Marie seit ihrer Ankunft *zu*.
 
-  La tâche de réparer le toit incombe à Jean.
-  Die Aufgabe, das Dach zu reparieren, fällt Jean zu.
+  Il *incombe* au président de prendre la décision finale.
+  Es *obliegt* dem Präsidenten, die finale Entscheidung zu treffen.
+
+  La responsabilité *incombe* aux parents de surveiller leurs enfants.
+  Die Verantwortung *obliegt* den Eltern, ihre Kinder zu beaufsichtigen.
+
+  Les frais de réparation *incombent* au propriétaire.
+  Die Reparaturkosten *gehen* zu *Lasten* des Eigentümers.
+
+  C'est à vous qu'*incombe* la tâche de former les nouveaux employés.
+  Die Aufgabe, die neuen Mitarbeiter einzuarbeiten, *fällt* Ihnen *zu*.
+
+  La sécurité des données *incombe* à notre équipe technique.
+  Die Datensicherheit *obliegt* unserem technischen Team.
+
+  Ces obligations *incombent* désormais à notre département.
+  Diese Pflichten *fallen* nun unserer Abteilung *zu*.
+
+  L'entretien du jardin *incombe* au locataire selon le contrat.
+  Die Gartenpflege *obliegt* laut Vertrag dem Mieter.
+
+  C'est au directeur qu'*incombe* la décision finale.
+  Die finale Entscheidung *obliegt* dem Direktor.
+
+  Les coûts supplémentaires *incombent* à l'entreprise.
+  Die zusätzlichen Kosten *gehen* zu *Lasten* der Firma.
+
+  Cette mission délicate *incombe* à notre meilleur agent.
+  Diese heikle Mission *fällt* unserem besten Agenten *zu*.
+
+  La supervision du projet *incombe* à Thomas depuis hier.
+  Die Projektüberwachung *obliegt* Thomas seit gestern.
+
+  L'organisation de l'événement *incombe* à notre équipe.
+  Die Organisation der Veranstaltung *fällt* unserem Team *zu*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

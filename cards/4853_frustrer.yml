@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai cependant été frustré par un nouvel échec.
-  Ich war jedoch frustriert, weil ich erneut versagt hatte.
+  J'ai cependant été *frustré* par un nouvel échec.
+  Ich wurde jedoch durch einen erneuten Misserfolg *frustriert*.
 
-  Je ne veux pas te frustrer, mais je ne pense pas que cela fonctionnera.
-  Ich will dich nicht enttäuschen, aber ich denke nicht, dass das funktionieren wird.
+  Cet incident l'a *frustré* d'une victoire bien méritée.
+  Dieser Vorfall hat ihn um einen wohlverdienten Sieg *gebracht*.
 
-  Le manque de soutien de ses amis l'a frustré de sa réussite.
-  Der Mangel an Unterstützung durch seine Freunde hat ihn um seinen Erfolg gebracht.
+  Les attentes des parents ont été *frustrées* par les résultats scolaires de leur fils.
+  Die Erwartungen der Eltern wurden durch die Schulnoten ihres Sohnes *enttäuscht*.
 
-  Un enfant frustré d'amour maternel peut souffrir de problèmes émotionnels.
-  Ein Kind, dem die Mutterliebe fehlt, kann unter emotionalen Problemen leiden.
+  Il se sent *frustré* de ne pas avoir reçu de réponse à sa lettre.
+  Er fühlt sich *frustriert*, weil er keine Antwort auf seinen Brief erhalten hat.
+
+  La décision du jury a *frustré* tous les participants du concours.
+  Die Entscheidung der Jury hat alle Teilnehmer des Wettbewerbs *frustriert*.
+
+  Cette expérience m'a profondément *frustré*.
+  Diese Erfahrung hat mich zutiefst *frustriert*.
+
+  Les créanciers ont été *frustrés* de leur dû.
+  Die Gläubiger wurden um ihr Guthaben *gebracht*.
+
+  Son comportement *frustrant* a poussé plusieurs employés à démissionner.
+  Sein *frustrierendes* Verhalten hat mehrere Mitarbeiter zur Kündigung bewegt.
+
+  Marie se sentait *frustrée* par le manque de communication dans son couple.
+  Marie fühlte sich durch den Mangel an Kommunikation in ihrer Beziehung *frustriert*.
+
+  L'absence de reconnaissance *frustre* souvent les jeunes talents.
+  Die fehlende Anerkennung *frustriert* oft junge Talente.
+
+  Les promesses non tenues ont *frustré* les espoirs des électeurs.
+  Die nicht eingehaltenen Versprechen haben die Hoffnungen der Wähler *zunichte gemacht*.
+
+  Cette situation *frustrante* ne peut plus durer.
+  Diese *frustrierende* Situation kann nicht mehr andauern.
+
+  Les conditions météorologiques ont *frustré* nos plans de vacances.
+  Die Wetterbedingungen haben unsere Urlaubspläne *zunichte gemacht*.
+
+  Pierre était *frustré* d'avoir manqué une si belle opportunité.
+  Pierre war *frustriert*, weil er eine so gute Gelegenheit verpasst hatte.
+
+  Les changements constants au travail *frustrent* toute l'équipe.
+  Die ständigen Veränderungen bei der Arbeit *frustrieren* das ganze Team.
+
+  L'enfant se sent *frustré* par le manque d'attention de ses parents.
+  Das Kind fühlt sich durch die mangelnde Aufmerksamkeit seiner Eltern *frustriert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

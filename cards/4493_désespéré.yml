@@ -13,11 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’envoyai un regard désespéré à mon père.
-  Ich schickte meinem Vater einen verzweifelten Blick zu.
+  J'envoyai un regard *désespéré* à mon père.
+  Ich warf meinem Vater einen *verzweifelten* Blick zu.
 
-  Il était désespéré après avoir perdu son travail.
-  Er war verzweifelt, nachdem er seinen Job verloren hatte.
+  La situation semblait complètement *désespérée*.
+  Die Lage schien völlig *hoffnungslos*.
+
+  Un *désespéré* s'est jeté du pont hier soir.
+  Ein *Verzweifelter* ist gestern Abend von der Brücke gesprungen.
+
+  Elle est *désespérée* de ne pas avoir obtenu le poste.
+  Sie ist *verzweifelt*, weil sie die Stelle nicht bekommen hat.
+
+  Les médecins ont fait une dernière tentative *désespérée* pour le sauver.
+  Die Ärzte unternahmen einen letzten *verzweifelten* Versuch, ihn zu retten.
+
+  Une mère *désespérée* cherche son enfant disparu depuis trois jours.
+  Eine *verzweifelte* Mutter sucht ihr Kind, das seit drei Tagen verschwunden ist.
+
+  Le patient est dans un état *désespéré*.
+  Der Patient befindet sich in einem *hoffnungslosen* Zustand.
+
+  Il poussa un cri *désespéré* dans la nuit.
+  Er stieß einen *verzweifelten* Schrei in die Nacht hinaus.
+
+  Je suis *désespérée* de vous avoir fait attendre si longtemps.
+  Es tut mir *furchtbar* leid, dass ich Sie so lange habe warten lassen.
+
+  Les soldats se sont battus en *désespérés*.
+  Die Soldaten kämpften wie *Verzweifelte*.
+
+  Son appel *désespéré* à l'aide est resté sans réponse.
+  Sein *verzweifelter* Hilferuf blieb unbeantwortet.
+
+  L'avocat défend une cause *désespérée*.
+  Der Anwalt verteidigt einen *aussichtslosen* Fall.
+
+  Les réfugiés lancent un appel *désespéré* à la communauté internationale.
+  Die Flüchtlinge richten einen *verzweifelten* Appell an die internationale Gemeinschaft.
+
+  Elle court comme une *désespérée* pour attraper son train.
+  Sie rennt wie eine *Verzweifelte*, um ihren Zug zu erreichen.
+
+  Son chant *désespéré* résonnait dans toute la maison.
+  Ihr *verzweifelter* Gesang hallte durch das ganze Haus.
+
+  La *désespérée* a laissé une lettre d'adieu.
+  Die *Verzweifelte* hinterließ einen Abschiedsbrief.
+
+  Nous sommes *désespérés* de devoir annuler l'événement.
+  Wir sind *verzweifelt*, dass wir die Veranstaltung absagen müssen.
+
+  Face à cette situation *désespérée*, ils ont dû abandonner leur maison.
+  Angesichts dieser *ausweglosen* Situation mussten sie ihr Haus aufgeben.
+
+  Le malade prenait des décisions *désespérées*.
+  Der Kranke traf *verzweifelte* Entscheidungen.
+
+  Un homme *désespéré* est sorti du tribunal en pleurant.
+  Ein *verzweifelter* Mann kam weinend aus dem Gerichtsgebäude.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,26 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Navré, mais vous êtes relevé de vos fonctions.
-  Es tut mir leid, aber Sie sind von Ihren Pflichten entbunden.
+  Navré, mais vous êtes *relevé* de vos fonctions.
+  Tut mir leid, aber Sie sind Ihrer Aufgaben *enthoben*.
 
-  Je dois vérifier mes relevés bancaires.
-  Ich muss meine Bankabrechnungen überprüfen.
+  J'ai besoin d'un *relevé* de compte pour ma déclaration d'impôts.
+  Ich brauche einen Konto*auszug* für meine Steuererklärung.
 
-  J'ai reçu mon relevé de compte aujourd'hui.
-  Heute habe ich meinen Kontoauszug erhalten.
+  Le *relevé* de notes montre que Marie a fait d'excellents progrès.
+  Das *Zeugnis* zeigt, dass Marie hervorragende Fortschritte gemacht hat.
 
-  Le relevé de gaz est arrivé la semaine dernière.
-  Die Gasabrechnung kam letzte Woche.
+  L'employé est venu faire le *relevé* du compteur d'électricité.
+  Der Mitarbeiter ist gekommen, um den Stromzähler *abzulesen*.
 
-  Les ingénieurs doivent faire un relevé de terrain pour le nouveau bâtiment.
-  Die Ingenieure müssen das Gelände für das neue Gebäude aufnehmen.
+  L'architecte a fait un *relevé* détaillé du bâtiment historique.
+  Der Architekt hat eine detaillierte *Aufnahme* des historischen Gebäudes gemacht.
 
-  Le relevé de fin de mois indique que les ventes ont augmenté de 10%.
-  Der Monatsbericht zeigt, dass die Verkäufe um 10% gestiegen sind.
+  Cette sauce est bien *relevée*, elle pique un peu.
+  Diese Sauce ist gut *gewürzt*, sie ist etwas scharf.
 
-  Le technicien a procédé au relevé du compteur d'eau.
-  Der Techniker hat den Wasserzähler abgelesen.
+  Son langage est toujours très *relevé*, presque poétique.
+  Seine Sprache ist immer sehr *gehoben*, fast poetisch.
+
+  Le col *relevé* de son manteau le protégeait du vent.
+  Der *hochgestellte* Kragen seines Mantels schützte ihn vor dem Wind.
+
+  La danseuse exécute un *relevé* parfait sur ses pointes.
+  Die Tänzerin führt eine perfekte *Hebung* auf ihren Spitzen aus.
+
+  As-tu reçu le *relevé* de téléphone de ce mois-ci?
+  Hast du die Telefon*abrechnung* für diesen Monat bekommen?
+
+  Les archéologues ont fait un *relevé* détaillé des peintures rupestres.
+  Die Archäologen haben eine detaillierte *Aufzeichnung* der Höhlenmalereien angefertigt.
+
+  Le comptable établit un *relevé* des dépenses mensuelles.
+  Der Buchhalter erstellt eine *Aufstellung* der monatlichen Ausgaben.
+
+  Cette soupe est trop *relevée* pour les enfants.
+  Diese Suppe ist zu *pikant* für die Kinder.
+
+  Elle porte toujours les cheveux *relevés* en chignon.
+  Sie trägt ihre Haare immer *hochgesteckt* in einem Dutt.
+
+  Le virage *relevé* permet aux voitures de rouler plus vite.
+  Die *überhöhte* Kurve erlaubt es den Autos, schneller zu fahren.
+
+  J'ai besoin de mon *relevé* d'identité bancaire pour le virement.
+  Ich brauche meine Bank*verbindung* für die Überweisung.
+
+  Le géomètre a effectué un *relevé* topographique du terrain.
+  Der Vermesser hat eine topographische *Vermessung* des Geländes durchgeführt.
+
+  Ce plat indien est particulièrement *relevé*.
+  Dieses indische Gericht ist besonders *scharf gewürzt*.
+
+  Les statisticiens ont fait un *relevé* de la population locale.
+  Die Statistiker haben eine *Erhebung* der lokalen Bevölkerung durchgeführt.
+
+  Le cheval exécute un pas *relevé* pendant le dressage.
+  Das Pferd führt einen *gehobenen* Schritt während der Dressur aus.
+
+  Son style *relevé* impressionne toujours ses lecteurs.
+  Sein *gehobener* Stil beeindruckt seine Leser immer wieder.
+
+  Le maréchal-ferrant a fait un *relevé* des fers du cheval.
+  Der Hufschmied hat die Hufeisen des Pferdes neu *beschlagen*.
+
+  Les bords *relevés* de son chapeau lui donnaient un air mystérieux.
+  Die *hochgebogenen* Krempen seines Hutes gaben ihm ein geheimnisvolles Aussehen.
+
+  L'artiste a fait un *relevé* précis de la fresque médiévale.
+  Der Künstler hat eine präzise *Kopie* des mittelalterlichen Freskos angefertigt.
+
+  Le *relevé* mensuel montre une augmentation des ventes.
+  Der Monats*bericht* zeigt einen Anstieg der Verkäufe.
+
+  La sauce était délicieusement *relevée* par les épices.
+  Die Sauce war durch die Gewürze köstlich *abgeschmeckt*.
+
+  Le restaurant a servi un poisson comme *relevé* de potage.
+  Das Restaurant servierte einen Fisch als *Zwischengang* nach der Suppe.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

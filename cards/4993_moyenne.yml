@@ -13,32 +13,92 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les chercheurs font en moyenne une carrière beaucoup plus courte.
-  Forscher haben im Durchschnitt eine viel kürzere Karriere.
+  Les chercheurs font en *moyenne* une carrière beaucoup plus courte.
+  Die Forscher haben im *Durchschnitt* eine viel kürzere Karriere.
 
-  La moyenne des notes est de 15.
-  Der Durchschnitt der Noten beträgt 15.
+  La *moyenne* d'âge dans notre entreprise est de 42 ans.
+  Das *Durchschnitts*alter in unserem Unternehmen beträgt 42 Jahre.
 
-  La moyenne d'âge des élèves de cette classe est de 16 ans.
-  Das Durchschnittsalter der Schüler in dieser Klasse beträgt 16 Jahre.
+  La *moyenne* des températures en été a augmenté ces dernières années.
+  Die *mittlere* Temperatur im Sommer ist in den letzten Jahren gestiegen.
 
-  Il a eu la moyenne en mathématiques, mais il a échoué en français.
-  Er hat in Mathematik eine durchschnittliche Note bekommen, aber er ist in Französisch durchgefallen.
+  Elle a obtenu une *moyenne* de 16 sur 20 en mathématiques.
+  Sie hat in Mathematik einen *Durchschnitt* von 16 von 20 Punkten erreicht.
 
-  La voiture a roulé à une moyenne de 80 m/s sur l'autoroute.
-  Das Auto ist mit einer Durchschnittsgeschwindigkeit von 80 m/s auf der Autobahn gefahren.
+  Pierre est toujours au-dessus de la *moyenne* dans sa classe.
+  Pierre liegt in seiner Klasse immer über dem *Durchschnitt*.
 
-  La moyenne des températures en juillet est de 25 degrés Celsius.
-  Die mittlere Temperatur im Juli beträgt 25 Grad Celsius.
+  En *moyenne*, je passe deux heures par jour dans les transports.
+  Im *Durchschnitt* verbringe ich täglich zwei Stunden mit dem Pendeln.
 
-  Le nombre de naissances est au-dessus de la moyenne cette année.
-  Die Anzahl der Geburten liegt in diesem Jahr über dem Durchschnitt.
+  La *moyenne* des précipitations est plus élevée cette année.
+  Der *Durchschnitt* der Niederschläge ist dieses Jahr höher.
 
-  Le train a fait une moyenne de 100 km/h sur le trajet.
-  Der Zug ist mit einer durchschnittlichen Geschwindigkeit von 100 Stundenkilometern gefahren.
+  Son intelligence est bien au-dessus de la *moyenne*.
+  Seine Intelligenz liegt weit über dem *Durchschnitt*.
 
-  Un piéton peut faire une moyenne de 5 km/h sur un terrain plat.
-  Die durchschnittliche Kilometerleistung eines Fußgängers beträgt 5 km/h auf ebenem Gelände.
+  Notre voiture roule à une *moyenne* de 90 km/h sur l'autoroute.
+  Unser Auto fährt mit einer *Durchschnitts*geschwindigkeit von 90 km/h auf der Autobahn.
+
+  La *moyenne* de la classe en français est plutôt basse.
+  Der *Durchschnitt* der Klasse in Französisch ist eher niedrig.
+
+  Il dort en *moyenne* sept heures par nuit.
+  Er schläft im *Durchschnitt* sieben Stunden pro Nacht.
+
+  Sa taille est dans la *moyenne* nationale.
+  Seine Größe liegt im nationalen *Durchschnitt*.
+
+  Les étudiants doivent avoir la *moyenne* pour passer à l'année suivante.
+  Die Studenten müssen den *Durchschnitt* erreichen, um ins nächste Jahr zu kommen.
+
+  La *moyenne* des notes ce trimestre est encourageante.
+  Der Noten*durchschnitt* in diesem Trimester ist ermutigend.
+
+  Julie n'a pas eu la *moyenne* à son examen d'anglais.
+  Julie hat in ihrer Englischprüfung den *Durchschnitt* nicht erreicht.
+
+  Cette équipe maintient une *moyenne* de deux buts par match.
+  Diese Mannschaft hält einen *Durchschnitt* von zwei Toren pro Spiel.
+
+  La *moyenne* des salaires varie selon les régions.
+  Der Gehalts*durchschnitt* variiert je nach Region.
+
+  Les cyclistes ont maintenu une *moyenne* de 35 km/h pendant la course.
+  Die Radfahrer hielten während des Rennens eine *Durchschnitts*geschwindigkeit von 35 km/h.
+
+  La *moyenne* des dépenses mensuelles a augmenté de 10%.
+  Die *durchschnittlichen* monatlichen Ausgaben sind um 10% gestiegen.
+
+  Le niveau de français de Marie est dans la bonne *moyenne*.
+  Maries Französischniveau liegt im guten *Durchschnitt*.
+
+  Cette station météo calcule la *moyenne* des températures quotidiennes.
+  Diese Wetterstation berechnet den *Durchschnitt* der täglichen Temperaturen.
+
+  Les performances de l'équipe sont en dessous de la *moyenne* cette saison.
+  Die Leistungen der Mannschaft liegen diese Saison unter dem *Durchschnitt*.
+
+  La *moyenne* d'heures de sommeil des adolescents est insuffisante.
+  Die *durchschnittliche* Schlafzeit von Jugendlichen ist unzureichend.
+
+  En *moyenne*, nous recevons cinquante clients par jour.
+  Im *Durchschnitt* empfangen wir fünfzig Kunden pro Tag.
+
+  Il faut calculer la *moyenne* de tous les résultats obtenus.
+  Man muss den *Durchschnitt* aller erhaltenen Ergebnisse berechnen.
+
+  La *moyenne* des ventes a doublé depuis l'année dernière.
+  Der Verkaufs*durchschnitt* hat sich seit letztem Jahr verdoppelt.
+
+  Cette région reçoit en *moyenne* 800mm de pluie par an.
+  Diese Region erhält im *Durchschnitt* 800mm Regen pro Jahr.
+
+  La *moyenne* proportionnelle entre 4 et 16 est 8.
+  Das *proportionale Mittel* zwischen 4 und 16 ist 8.
+
+  Cette copie mérite tout juste la *moyenne*.
+  Diese Arbeit verdient gerade so den *Durchschnitt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

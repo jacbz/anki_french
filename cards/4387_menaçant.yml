@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle le chasse en le menaçant avec un couteau.
-  Sie vertreibt ihn, indem sie ihn mit einem Messer bedroht.
+  Elle le chasse en le *menaçant* avec un couteau.
+  Sie verjagt ihn, indem sie ihn mit einem Messer *bedroht*.
 
-  Il a eu un regard menaçant.
-  Er hat einen bedrohlichen Blick gehabt.
+  Le ciel *menaçant* annonçait un orage imminent.
+  Der *bedrohliche* Himmel kündigte ein Gewitter an.
 
-  Le garçon a fait un geste menaçant envers son frère.
-  Der Junge machte eine Drohgebärde gegenüber seinem Bruder.
+  Un groupe de manifestants *menaçants* s'est approché de la police.
+  Eine Gruppe *drohender* Demonstranten näherte sich der Polizei.
 
-  Des nuages menaçants se sont amoncelés à l'horizon.
-  Gewitterwolken türmten sich am Horizont auf.
+  Sa voix est devenue *menaçante* quand je lui ai refusé l'accès.
+  Seine Stimme wurde *drohend*, als ich ihm den Zugang verweigert habe.
+
+  Des nuages *menaçants* s'accumulent à l'horizon.
+  *Bedrohliche* Wolken türmen sich am Horizont auf.
+
+  Le chien a adopté une posture *menaçante*.
+  Der Hund nahm eine *drohende* Haltung ein.
+
+  L'avenir paraît de plus en plus *menaçant* pour notre entreprise.
+  Die Zukunft sieht für unser Unternehmen immer *bedrohlicher* aus.
+
+  Son patron lui a lancé un regard *menaçant*.
+  Sein Chef warf ihm einen *drohenden* Blick zu.
+
+  La situation devient *menaçante* pour la paix mondiale.
+  Die Situation wird für den Weltfrieden *bedrohlich*.
+
+  Elle a fait un geste *menaçant* de la main.
+  Sie machte eine *drohende* Handbewegung.
+
+  Les indices économiques *menaçants* inquiètent les experts.
+  Die *bedrohlichen* Wirtschaftsindikatoren beunruhigen die Experten.
+
+  Son silence *menaçant* en disait long sur sa colère.
+  Sein *drohendes* Schweigen sagte viel über seine Wut aus.
+
+  Une décision *menaçante* pour l'environnement a été prise.
+  Eine für die Umwelt *bedrohliche* Entscheidung wurde getroffen.
+
+  Les bandes armées *menaçantes* terrorisent le village.
+  Die *bedrohlichen* bewaffneten Banden terrorisieren das Dorf.
+
+  Son ton *menaçant* ne m'impressionne pas du tout.
+  Sein *drohender* Ton beeindruckt mich überhaupt nicht.
+
+  L'atmosphère est devenue *menaçante* pendant la réunion.
+  Die Atmosphäre wurde während der Besprechung *bedrohlich*.
+
+  Des paroles *menaçantes* ont été prononcées lors du débat.
+  *Drohende* Worte wurden während der Debatte ausgesprochen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

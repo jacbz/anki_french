@@ -13,11 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous avons besoin d’un réseau routier continental.
-  Wir brauchen ein kontinentales Straßennetz.
+  Nous avons besoin d'un réseau routier *continental*.
+  Wir brauchen ein *kontinentales* Straßennetz.
 
-  Le petit déjeuner continental est servi dans la salle à manger.
-  Das kontinentale Frühstück wird im Speisesaal serviert.
+  La Russie est caractérisée par un climat *continental* extrême.
+  Russland ist durch ein extremes *Kontinental*klima gekennzeichnet.
+
+  Le climat *continental* apporte des hivers très froids et des étés chauds.
+  Das *Kontinental*klima bringt sehr kalte Winter und heiße Sommer mit sich.
+
+  Les chercheurs étudient la dérive *continentale* depuis des décennies.
+  Die Forscher untersuchen seit Jahrzehnten die *Kontinental*verschiebung.
+
+  La masse *continentale* de l'Asie est impressionnante.
+  Die *kontinentale* Landmasse Asiens ist beeindruckend.
+
+  Les géologues ont découvert de nouvelles formations *continentales*.
+  Die Geologen haben neue *kontinentale* Formationen entdeckt.
+
+  Le plateau *continental* est riche en ressources naturelles.
+  Der *Kontinental*schelf ist reich an natürlichen Ressourcen.
+
+  À l'hôtel, ils servent un petit déjeuner *continental*.
+  Im Hotel servieren sie ein *kontinentales* Frühstück.
+
+  La faune *continentale* s'est adaptée aux variations climatiques extrêmes.
+  Die *Kontinental*fauna hat sich an die extremen Klimaschwankungen angepasst.
+
+  Le blocus *continental* a eu des conséquences économiques importantes.
+  Die *Kontinental*sperre hatte wichtige wirtschaftliche Folgen.
+
+  Les *continentaux* ont des habitudes différentes des insulaires.
+  Die *Festland*bewohner haben andere Gewohnheiten als die Inselbewohner.
+
+  Elle est une *continentale* qui s'est installée en Corse.
+  Sie ist eine *Festland*bewohnerin, die sich auf Korsika niedergelassen hat.
+
+  La flore *continentale* est adaptée aux grands écarts de température.
+  Die *Kontinental*flora ist an große Temperaturschwankungen angepasst.
+
+  Les précipitations sont plus fortes en été dans les régions *continentales*.
+  In *kontinentalen* Regionen gibt es im Sommer mehr Niederschläge.
+
+  La dérive *continentale* explique la forme actuelle des continents.
+  Die *Kontinental*verschiebung erklärt die heutige Form der Kontinente.
+
+  Cette espèce végétale est typique du climat *continental*.
+  Diese Pflanzenart ist typisch für das *Kontinental*klima.
+
+  Le bouclier *continental* protège les terres des inondations.
+  Der *kontinentale* Schutzschild schützt das Land vor Überschwemmungen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

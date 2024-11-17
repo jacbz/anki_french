@@ -13,17 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  En cas de rupture, il ne restituera rien.
-  Im Falle einer Trennung wird er nichts zurückgeben.
+  En cas de rupture, il ne *restituera* rien.
+  Im Falle einer Trennung wird er nichts *zurückgeben*.
 
-  Je dois restituer ce livre à la bibliothèque.
-  Ich muss dieses Buch zurück in die Bibliothek geben.
+  Il faut *restituer* les livres empruntés avant la fin du mois.
+  Die ausgeliehenen Bücher müssen vor Monatsende *zurückgegeben* werden.
 
-  J'ai restitué le livre à mon voisin, comme promis.
-  Ich habe dem Nachbarn das Buch zurückgegeben, wie versprochen.
+  Le musée a enfin *restitué* le tableau volé à son propriétaire légitime.
+  Das Museum hat das gestohlene Gemälde endlich seinem rechtmäßigen Besitzer *zurückgegeben*.
 
-  L'énergie du soleil est restituée sous forme de chaleur.
-  Die Energie der Sonne wird als Wärme freigesetzt.
+  Ces panneaux solaires *restituent* l'énergie sous forme d'électricité.
+  Diese Solarzellen *setzen* die Energie in Form von Elektrizität *frei*.
+
+  L'archéologue a *restitué* l'aspect du temple antique grâce aux vestiges.
+  Der Archäologe hat das Aussehen des antiken Tempels anhand der Überreste *rekonstruiert*.
+
+  Ces enceintes *restituent* parfaitement les basses fréquences.
+  Diese Lautsprecher *geben* die tiefen Frequenzen perfekt *wieder*.
+
+  Les chercheurs ont *restitué* le texte original à partir de fragments.
+  Die Forscher haben den Originaltext aus Fragmenten *rekonstruiert*.
+
+  Le radiateur *restitue* la chaleur pendant plusieurs heures.
+  Der Heizkörper *gibt* die Wärme über mehrere Stunden *ab*.
+
+  L'écrivain *restitue* parfaitement l'ambiance du Paris des années 20.
+  Der Schriftsteller *gibt* die Atmosphäre des Paris der 20er Jahre perfekt *wieder*.
+
+  Le locataire doit *restituer* l'appartement dans son état initial.
+  Der Mieter muss die Wohnung in ihrem ursprünglichen Zustand *zurückgeben*.
+
+  Les experts ont *restitué* la fresque selon les techniques anciennes.
+  Die Experten haben das Fresko nach den alten Techniken *restauriert*.
+
+  Ce microphone *restitue* fidèlement les nuances de sa voix.
+  Dieses Mikrofon *gibt* die Nuancen ihrer Stimme originalgetreu *wieder*.
+
+  L'Allemagne a dû *restituer* les œuvres d'art volées pendant la guerre.
+  Deutschland musste die während des Krieges gestohlenen Kunstwerke *zurückgeben*.
+
+  Les scientifiques ont *restitué* l'apparence du dinosaure.
+  Die Wissenschaftler haben das Aussehen des Dinosauriers *rekonstruiert*.
+
+  Le ressort comprimé *restitue* son énergie d'un coup.
+  Die zusammengedrückte Feder *setzt* ihre Energie auf einmal *frei*.
+
+  L'écran 3D *restitue* parfaitement la profondeur de l'image.
+  Der 3D-Bildschirm *gibt* die Bildtiefe perfekt *wieder*.
+
+  Les historiens ont *restitué* la prononciation du latin classique.
+  Die Historiker haben die Aussprache des klassischen Lateins *rekonstruiert*.
+
+  La batterie *restitue* l'énergie stockée pendant la journée.
+  Die Batterie *gibt* die tagsüber gespeicherte Energie *ab*.
+
+  L'ordinateur *restitue* les données sauvegardées hier.
+  Der Computer *gibt* die gestern gespeicherten Daten *wieder*.
+
+  Ce roman *restitue* bien l'atmosphère de l'époque victorienne.
+  Dieser Roman *gibt* die Atmosphäre der viktorianischen Zeit gut *wieder*.
+
+  Les archéologues ont *restitué* la ville antique en 3D.
+  Die Archäologen haben die antike Stadt in 3D *rekonstruiert*.
+
+  Le jugement lui a *restitué* tous ses droits.
+  Das Urteil hat ihm alle seine Rechte *zurückgegeben*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

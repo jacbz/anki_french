@@ -13,32 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cette ville a pris un nouvel essor économique et touristique.
-  Diese Stadt hat einen neuen wirtschaftlichen und touristischen Aufschwung erlebt.
+  Cette ville a pris un nouvel *essor* économique et touristique.
+  Diese Stadt erlebte einen neuen wirtschaftlichen und touristischen *Aufschwung*.
 
-  L’essor économique de la Chine est impressionnant.
-  Der wirtschaftliche Aufschwung Chinas ist beeindruckend.
+  L'industrie électronique connaît un *essor* rapide depuis les années 80.
+  Die Elektronikindustrie erlebt seit den 80er Jahren einen rasanten *Aufschwung*.
 
-  Le tourisme dans cette région est en plein essor.
-  Der Tourismus in dieser Region erlebt einen Aufschwung.
+  Le jeune aigle prend son *essor* pour la première fois.
+  Der junge Adler hebt zum ersten Mal zum *Flug* ab.
 
-  L'entreprise a pris son essor après le lancement de son nouveau produit.
-  Das Unternehmen ist nach der Markteinführung seines neuen Produkts aufgeblüht.
+  L'*essor* des réseaux sociaux a transformé notre façon de communiquer.
+  Der *Aufschwung* der sozialen Medien hat unsere Art zu kommunizieren verändert.
 
-  Le marché des voitures électriques connaît un essor considérable.
-  Der Markt für Elektroautos erlebt einen gewaltigen Aufschwung.
+  Notre entreprise est en plein *essor*.
+  Unser Unternehmen befindet sich im vollen *Aufschwung*.
 
-  Le marché du livre numérique connaît un nouvel essor grâce à la popularité des liseuses électroniques.
-  Der Markt für E-Books erfreut sich neuer Beliebtheit dank der Popularität von E-Readern.
+  L'*essor* de la recherche médicale apporte de nouveaux espoirs.
+  Das *Aufblühen* der medizinischen Forschung bringt neue Hoffnung.
 
-  L'essor des affaires a permis à l'entreprise de doubler ses profits.
-  Der geschäftliche Aufschwung ermöglichte es dem Unternehmen, seinen Gewinn zu verdoppeln.
+  Il donne libre *essor* à son imagination créative.
+  Er lässt seiner kreativen Fantasie freien *Lauf*.
 
-  L'essor de la conjoncture a donné un coup de fouet à l'investissement.
-  Der konjunkturelle Aufschwung hat die Investitionen angekurbelt.
+  Le secteur du tourisme connaît un nouvel *essor*.
+  Die Tourismusbranche erlebt einen neuen *Aufschwung*.
 
-  L'essor de l'économie a entraîné une baisse du chômage.
-  Die Wirtschaftsbelebung hat zu einem Rückgang der Arbeitslosigkeit geführt.
+  L'*essor* démographique pose de nouveaux défis.
+  Der demografische *Aufschwung* stellt uns vor neue Herausforderungen.
+
+  Les oisillons attendent le bon moment pour prendre leur *essor*.
+  Die Jungvögel warten auf den richtigen Moment zum *Abflug*.
+
+  La ville favorise l'*essor* des petites entreprises locales.
+  Die Stadt fördert den *Aufschwung* kleiner lokaler Unternehmen.
+
+  L'*essor* du commerce en ligne continue.
+  Der *Aufschwung* des Online-Handels hält an.
+
+  Les arts numériques connaissent un *essor* considérable.
+  Die digitale Kunst erlebt einen beachtlichen *Aufschwung*.
+
+  L'*essor* de cette civilisation fut remarquable.
+  Das *Aufblühen* dieser Zivilisation war bemerkenswert.
+
+  Le marché immobilier prend un nouvel *essor*.
+  Der Immobilienmarkt nimmt einen neuen *Aufschwung*.
+
+  La région connaît un *essor* économique sans précédent.
+  Die Region erlebt einen beispiellosen wirtschaftlichen *Aufschwung*.
+
+  L'*essor* des énergies renouvelables s'accélère.
+  Der *Aufschwung* der erneuerbaren Energien beschleunigt sich.
+
+  Son talent artistique prend son *essor*.
+  Sein künstlerisches Talent kommt zum *Aufblühen*.
+
+  L'*essor* du télétravail change nos habitudes professionnelles.
+  Der *Aufschwung* der Heimarbeit verändert unsere Arbeitsgewohnheiten.
+
+  L'*essor* de l'intelligence artificielle fascine et inquiète à la fois.
+  Der *Aufschwung* der künstlichen Intelligenz fasziniert und beunruhigt zugleich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

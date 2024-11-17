@@ -13,20 +13,107 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils constituent un élément intégral de notre histoire.
-  Sie sind ein integraler Bestandteil unserer Geschichte.
+  Ils constituent un élément *intégral* de notre histoire.
+  Sie bilden einen *vollständigen* Teil unserer Geschichte.
 
-  J’ai lu l’intégral de ce livre.
-  Ich habe das gesamte Buch gelesen.
+  Je te propose le texte *intégral* du rapport.
+  Ich schlage dir den *ungekürzten* Text des Berichts vor.
 
-  Une bronzage intégral permet d'obtenir une couleur uniforme sur tout le corps.
-  Eine nahtlose Bräune ermöglicht es, eine gleichmäßige Farbe über den ganzen Körper zu erhalten.
+  Elle nous a donné une description *intégrale* de l'incident.
+  Sie hat uns eine *vollständige* Beschreibung des Vorfalls gegeben.
 
-  Le nu intégral est une forme d'expression artistique qui peut être choquante pour certains.
-  Völlige Nacktheit ist eine Form künstlerischen Ausdrucks, die für manche schockierend sein kann.
+  Le projet a reçu un financement *intégral* du gouvernement.
+  Das Projekt hat eine *vollständige* Finanzierung von der Regierung erhalten.
 
-  Le paiement intégral de la facture est attendu dans les 30 jours.
-  Die Auszahlung der Rechnung in voller Höhe wird innerhalb von 30 Tagen erwartet.
+  Nous avons effectué un remboursement *intégral* de la dette.
+  Wir haben eine Rückzahlung der Schulden in *voller* Höhe vorgenommen.
+
+  La bibliothèque possède l'*intégrale* des œuvres de Victor Hugo.
+  Die Bibliothek besitzt das *vollständige* Werk von Victor Hugo.
+
+  J'ai acheté l'*intégrale* des albums de ce groupe.
+  Ich habe die *komplette* Diskographie dieser Band gekauft.
+
+  Le conseil municipal a fait l'objet d'un renouvellement *intégral*.
+  Der Gemeinderat wurde *vollständig* erneuert.
+
+  Il porte toujours un casque *intégral* quand il fait de la moto.
+  Er trägt beim Motorradfahren immer einen *Voll*helm.
+
+  Les étudiants doivent maîtriser le calcul *intégral* pour réussir ce cours.
+  Die Studenten müssen die *Integral*rechnung beherrschen, um diesen Kurs zu bestehen.
+
+  L'*intégrale* de cette fonction est relativement simple à calculer.
+  Das *Integral* dieser Funktion ist relativ einfach zu berechnen.
+
+  Le professeur a expliqué comment résoudre cette *intégrale* double.
+  Der Professor hat erklärt, wie man dieses Doppel*integral* löst.
+
+  Nous avons besoin d'une solution *intégrale* à ce problème.
+  Wir brauchen eine *vollständige* Lösung für dieses Problem.
+
+  L'éditeur a publié une version *intégrale* du manuscrit.
+  Der Verlag hat eine *ungekürzte* Version des Manuskripts veröffentlicht.
+
+  La salle a écouté l'*intégrale* des symphonies de Mozart.
+  Der Saal hörte die *komplette* Symphoniensammlung von Mozart.
+
+  L'*intégrale* des cantates de Bach sera jouée ce weekend.
+  Die *vollständige* Sammlung der Bach-Kantaten wird dieses Wochenende aufgeführt.
+
+  Le musée présente une exposition *intégrale* de ses œuvres.
+  Das Museum zeigt eine *vollständige* Ausstellung seiner Werke.
+
+  Nous avons obtenu un remboursement *intégral* des frais de voyage.
+  Wir haben eine *vollständige* Erstattung der Reisekosten erhalten.
+
+  Cette édition *intégrale* contient des textes jamais publiés auparavant.
+  Diese *ungekürzte* Ausgabe enthält bisher unveröffentlichte Texte.
+
+  L'entreprise a procédé au versement *intégral* des salaires.
+  Das Unternehmen hat die Gehälter in *voller* Höhe ausgezahlt.
+
+  Le jury a exigé une reconstitution *intégrale* des événements.
+  Die Jury forderte eine *vollständige* Rekonstruktion der Ereignisse.
+
+  Cette *intégrale* sur la surface nécessite des calculs complexes.
+  Dieses Oberflächen*integral* erfordert komplexe Berechnungen.
+
+  Le théâtre propose l'*intégrale* des pièces de Molière.
+  Das Theater führt das *gesamte* Werk von Molière auf.
+
+  La restauration *intégrale* du bâtiment prendra deux ans.
+  Die *vollständige* Restaurierung des Gebäudes wird zwei Jahre dauern.
+
+  Les archives contiennent l'*intégrale* des documents historiques.
+  Die Archive enthalten die *komplette* Sammlung der historischen Dokumente.
+
+  Une *intégrale* triple est nécessaire pour résoudre ce problème.
+  Ein dreifaches *Integral* ist notwendig, um dieses Problem zu lösen.
+
+  Le symbole ∫ représente une *intégrale* en mathématiques.
+  Das Symbol ∫ steht in der Mathematik für ein *Integral*.
+
+  Cette *intégrale* indéfinie a plusieurs solutions possibles.
+  Dieses unbestimmte *Integral* hat mehrere mögliche Lösungen.
+
+  L'*intégrale* d'une fonction constante est une fonction linéaire.
+  Das *Integral* einer konstanten Funktion ist eine lineare Funktion.
+
+  La bibliothèque propose l'*intégrale* des films de ce réalisateur.
+  Die Bibliothek bietet das *komplette* Filmwerk dieses Regisseurs an.
+
+  L'assurance garantit une protection *intégrale* contre ces risques.
+  Die Versicherung garantiert *vollständigen* Schutz gegen diese Risiken.
+
+  Cette équation différentielle a une *intégrale* particulière.
+  Diese Differentialgleichung hat ein partikuläres *Integral*.
+
+  Le comité a approuvé la proposition à l'unanimité *intégrale*.
+  Der Ausschuss hat den Vorschlag *vollständig* einstimmig angenommen.
+
+  Les chercheurs ont fait une analyse *intégrale* des données.
+  Die Forscher haben eine *vollständige* Analyse der Daten durchgeführt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

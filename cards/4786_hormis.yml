@@ -13,17 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Hormis vous, personne n’a vu ce gamin.
-  Außer Ihnen hat niemand dieses Kind gesehen.
+  *Hormis* vous, personne n'a vu ce gamin.
+  *Außer* Ihnen hat niemand diesen Jungen gesehen.
 
-  Tout le monde est là, hormis toi.
-  Alle sind da, außer dir.
+  *Hormis* les chats, tous les animaux sont interdits dans cet immeuble.
+  *Außer* Katzen sind alle Tiere in diesem Gebäude verboten.
 
-  Hormis sa sœur, tout le monde était d'accord.
-  Mit Ausnahme ihrer Schwester waren alle einverstanden.
+  Le jardin était vide, *hormis* quelques oiseaux qui chantaient dans les arbres.
+  Der Garten war leer, *bis auf* ein paar Vögel, die in den Bäumen sangen.
 
-  Hormis le bruit, tout était parfait.
-  Mit Ausnahme des Lärms war alles perfekt.
+  *Hormis* le dimanche, je me lève toujours à six heures.
+  *Ausgenommen* sonntags stehe ich immer um sechs Uhr auf.
+
+  *Hormis* les cas d'urgence, les visites sont interdites après 20 heures.
+  *Mit Ausnahme* von Notfällen sind Besuche nach 20 Uhr verboten.
+
+  *Hormis* Marie et Pierre, tous les invités sont déjà partis.
+  *Bis auf* Marie und Pierre sind alle Gäste bereits gegangen.
+
+  Les élèves ont tous réussi l'examen, *hormis* deux qui étaient malades ce jour-là.
+  Die Schüler haben alle die Prüfung bestanden, *außer* zweien, die an diesem Tag krank waren.
+
+  *Hormis* la pluie du matin, nous avons eu une journée magnifique.
+  *Abgesehen von* dem Regen am Morgen hatten wir einen wunderschönen Tag.
+
+  Tout s'est bien passé pendant le voyage, *hormis* que nous avons raté notre correspondance.
+  Während der Reise lief alles gut, *nur* dass wir unseren Anschluss verpasst haben.
+
+  *Hormis* les frais de transport, tout est inclus dans le prix.
+  *Mit Ausnahme* der Transportkosten ist alles im Preis inbegriffen.
+
+  C'est un bon restaurant, *hormis* qu'il est un peu cher.
+  Es ist ein gutes Restaurant, *nur* dass es etwas teuer ist.
+
+  *Hormis* quelques détails, le projet est prêt à être lancé.
+  *Bis auf* einige Details ist das Projekt startbereit.
+
+  La salle était complètement silencieuse, *hormis* le tic-tac de l'horloge.
+  Der Raum war völlig still, *abgesehen vom* Ticken der Uhr.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

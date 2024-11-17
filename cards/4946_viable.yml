@@ -13,11 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La négociation est le seul moyen viable de résoudre le conflit.
-  Verhandlungen sind der einzige gangbare Weg, um den Konflikt zu lösen.
+  La négociation est le seul moyen *viable* de résoudre le conflit.
+  Verhandlung ist der einzige *durchführbare* Weg, den Konflikt zu lösen.
 
-  Cette entreprise n’est pas viable.
-  Dieses Unternehmen ist nicht lebensfähig.
+  Le bébé est né prématurément mais il est *viable*.
+  Das Baby kam zu früh zur Welt, ist aber *lebensfähig*.
+
+  Cette petite entreprise n'est plus *viable* sans subventions.
+  Dieses kleine Unternehmen ist ohne Subventionen nicht mehr *existenzfähig*.
+
+  Son projet de boutique en ligne semble tout à fait *viable*.
+  Ihr Online-Shop-Projekt erscheint durchaus *realisierbar*.
+
+  Les médecins ont confirmé que les jumeaux étaient *viables*.
+  Die Ärzte haben bestätigt, dass die Zwillinge *lebensfähig* sind.
+
+  Cette start-up deviendra *viable* dans quelques mois.
+  Dieses Start-up wird in einigen Monaten *existenzfähig* sein.
+
+  Aucune de ces solutions n'est *viable* à long terme.
+  Keine dieser Lösungen ist langfristig *durchführbar*.
+
+  La population d'ours polaires reste *viable* malgré le changement climatique.
+  Die Eisbärenpopulation bleibt trotz des Klimawandels *lebensfähig*.
+
+  Leur modèle économique n'est plus *viable* dans le contexte actuel.
+  Ihr Geschäftsmodell ist im aktuellen Kontext nicht mehr *existenzfähig*.
+
+  Cette route n'est pas *viable* pendant la saison des pluies.
+  Diese Straße ist während der Regenzeit nicht *befahrbar*.
+
+  Le fœtus est parfaitement *viable* selon l'échographie.
+  Der Fötus ist laut Ultraschall vollkommen *lebensfähig*.
+
+  Une alternative *viable* n'a pas encore été trouvée.
+  Eine *durchführbare* Alternative wurde noch nicht gefunden.
+
+  Cette idée me semble *viable*, mais il faut l'étudier davantage.
+  Diese Idee erscheint mir *realisierbar*, aber sie muss noch genauer untersucht werden.
+
+  L'espèce ne sera plus *viable* si son habitat continue à se dégrader.
+  Die Art wird nicht mehr *lebensfähig* sein, wenn ihr Lebensraum sich weiter verschlechtert.
+
+  Le comité a jugé que ce plan d'action était *viable*.
+  Das Komitee hat diesen Aktionsplan als *durchführbar* eingestuft.
+
+  Cette solution temporaire n'est pas *viable* à long terme.
+  Diese vorübergehende Lösung ist langfristig nicht *realisierbar*.
+
+  Le nouveau concept commercial s'est révélé parfaitement *viable*.
+  Das neue Geschäftskonzept hat sich als vollkommen *existenzfähig* erwiesen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

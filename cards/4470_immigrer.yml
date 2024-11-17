@@ -13,11 +13,38 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mes grands-parents ont immigré au Canada.
-  Meine Großeltern sind nach kanada eingewandert.
+  Mes grands-parents ont *immigré* au Canada.
+  Meine Großeltern sind nach Kanada *eingewandert*.
 
-  Il a décidé d’immigrer en Allemagne.
-  Er hat beschlossen, nach Deutschland einzuwandern.
+  De nombreux Européens ont *immigré* aux États-Unis au XIXe siècle.
+  Viele Europäer sind im 19. Jahrhundert in die USA *eingewandert*.
+
+  Sa famille a *immigré* en France il y a une dizaine d'années.
+  Seine Familie ist vor etwa zehn Jahren nach Frankreich *immigriert*.
+
+  Les raisons pour lesquelles les gens *immigrent* sont souvent complexes.
+  Die Gründe, warum Menschen *einwandern*, sind oft komplex.
+
+  Quand est-ce que tes parents ont *immigré* en Suisse ?
+  Wann sind deine Eltern in die Schweiz *eingewandert*?
+
+  Elle rêve d'*immigrer* en Australie pour y commencer une nouvelle vie.
+  Sie träumt davon, nach Australien zu *immigrieren*, um dort ein neues Leben zu beginnen.
+
+  Chaque année, des milliers de personnes *immigrent* légalement dans notre pays.
+  Jedes Jahr *wandern* Tausende Menschen legal in unser Land *ein*.
+
+  Il a décidé d'*immigrer* au Royaume-Uni pour poursuivre ses études.
+  Er hat beschlossen, für sein Studium in das Vereinigte Königreich zu *immigrieren*.
+
+  Mes voisins ont *immigré* d'Italie dans les années 60.
+  Meine Nachbarn sind in den 60er Jahren aus Italien *eingewandert*.
+
+  De plus en plus de professionnels qualifiés *immigrent* vers les pays nordiques.
+  Immer mehr qualifizierte Fachkräfte *wandern* in die nordischen Länder *ein*.
+
+  Les premiers colons ont *immigré* sur ce territoire au XVIIe siècle.
+  Die ersten Siedler sind im 17. Jahrhundert in dieses Gebiet *eingewandert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

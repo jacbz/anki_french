@@ -13,14 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils forgeront des charrues, des lances.
-  Sie werden Pflüge und Speere schmieden.
+  Ils forgeront des charrues, des *lances*.
+  Sie werden Pflüge und *Lanzen* schmieden.
 
-  Le chevalier brandit sa lance.
-  Der Ritter schwingt seine Lanze.
+  Le chevalier a brisé sa *lance* pendant le tournoi.
+  Der Ritter hat seine *Lanze* beim Turnier zerbrochen.
 
-  Il a rompu une lance avec le professeur sur la question de l'éducation.
-  Er hat ein Wortgefecht mit dem Professor über die Frage der Bildung geführt.
+  Les pompiers ont déroulé la *lance* à incendie rapidement.
+  Die Feuerwehrleute haben den Lösch*schlauch* schnell ausgerollt.
+
+  Marie *lance* le ballon à son frère.
+  Marie *wirft* den Ball zu ihrem Bruder.
+
+  Les uhlans portaient une *lance* très longue.
+  Die Ulanen trugen eine sehr lange *Lanze*.
+
+  Il est temps de *rompre une lance* avec lui sur ce sujet.
+  Es ist Zeit, mit ihm über dieses Thema zu *diskutieren*.
+
+  Le jardinier utilise la *lance* d'arrosage pour ses fleurs.
+  Der Gärtner benutzt den Garten*schlauch* für seine Blumen.
+
+  Cette entreprise est le *fer de lance* de l'innovation technologique.
+  Dieses Unternehmen ist die *Speerspitze* der technologischen Innovation.
+
+  Les chevaliers ont *baissé leurs lances* devant le roi.
+  Die Ritter haben ihre *Lanzen* vor dem König *gesenkt*.
+
+  La feuille de cette plante est *en fer de lance*.
+  Das Blatt dieser Pflanze ist *lanzenförmig*.
+
+  Athéna tenait sa *lance* d'or à la main.
+  Athena hielt ihre goldene *Lanze* in der Hand.
+
+  Cette grille est décorée de *lances* dorées.
+  Dieses Gitter ist mit goldenen *Lanzen* verziert.
+
+  Le cavalier manie sa *lance* avec habileté.
+  Der Reiter führt seine *Lanze* geschickt.
+
+  J'ai *rompu des lances* pour défendre mes idées.
+  Ich habe meine Ideen *leidenschaftlich verteidigt*.
+
+  La *lance* à eau permet de nettoyer la terrasse.
+  Mit dem Wasser*schlauch* kann man die Terrasse reinigen.
+
+  Le drapeau flotte au bout de sa *lance*.
+  Die Fahne weht am Ende ihrer *Stange*.
+
+  Les artificiers préparent la *lance* à feu.
+  Die Feuerwerker bereiten die Zünd*lanze* vor.
+
+  Cette armée comptait cent *lances*.
+  Diese Armee zählte hundert *Lanzenreiter*.
+
+  La *sainte lance* est conservée au Vatican.
+  Die heilige *Lanze* wird im Vatikan aufbewahrt.
+
+  Dans ce sport, on utilise une *lance* pour jouter sur l'eau.
+  Bei diesem Sport verwendet man eine *Lanze* zum Stechen auf dem Wasser.
+
+  Le bijoutier répare la *lance* du bracelet.
+  Der Juwelier repariert den *Verschluss* des Armbands.
+
+  La *lance* du pulvérisateur est bouchée.
+  Die *Düse* der Sprühflasche ist verstopft.
+
+  Le tisserand change la *lance* du métier à tisser.
+  Der Weber wechselt die *Webnadel* am Webstuhl.
+
+  Les ouvriers dirigent la *lance* à béton avec précision.
+  Die Arbeiter führen den Beton*schlauch* präzise.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

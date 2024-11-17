@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je ne suis pas aussi pessimiste que lui.
-  Ich bin nicht so pessimistisch wie er.
+  Je ne suis pas aussi *pessimiste* que lui.
+  Ich bin nicht so *pessimistisch* wie er.
 
-  Il est toujours pessimiste.
-  Er ist immer pessimistisch.
+  Sa vision *pessimiste* du monde l'empêche d'être heureux.
+  Seine *pessimistische* Weltsicht hindert ihn daran, glücklich zu sein.
+
+  Marie est une *pessimiste* invétérée qui ne voit jamais le bon côté des choses.
+  Marie ist eine eingefleischte *Pessimistin*, die nie die gute Seite der Dinge sieht.
+
+  Le rapport dresse un tableau très *pessimiste* de la situation économique.
+  Der Bericht zeichnet ein sehr *pessimistisches* Bild der wirtschaftlichen Lage.
+
+  Les *pessimistes* pensent que tout va mal, les optimistes voient des opportunités.
+  Die *Pessimisten* denken, dass alles schlecht läuft, die Optimisten sehen Chancen.
+
+  Elle s'est montrée *pessimiste* quant à ses chances de réussite à l'examen.
+  Sie zeigte sich *pessimistisch* bezüglich ihrer Erfolgschancen bei der Prüfung.
+
+  Son naturel *pessimiste* commence à déteindre sur toute l'équipe.
+  Seine *pessimistische* Veranlagung beginnt auf das ganze Team abzufärben.
+
+  Les prévisions *pessimistes* des experts ne se sont heureusement pas réalisées.
+  Die *pessimistischen* Vorhersagen der Experten sind zum Glück nicht eingetreten.
+
+  Ce *pessimiste* ne voit que les problèmes, jamais les solutions.
+  Dieser *Pessimist* sieht nur die Probleme, nie die Lösungen.
+
+  Pourquoi es-tu toujours si *pessimiste* concernant l'avenir ?
+  Warum bist du immer so *pessimistisch* bezüglich der Zukunft?
+
+  Les marchés financiers sont devenus *pessimistes* après l'annonce des chiffres.
+  Die Finanzmärkte wurden nach der Bekanntgabe der Zahlen *pessimistisch*.
+
+  Je refuse d'être *pessimiste* face aux défis qui nous attendent.
+  Ich weigere mich, angesichts der Herausforderungen, die vor uns liegen, *pessimistisch* zu sein.
+
+  Cette *pessimiste* chronique nous décourage tous avec ses prédictions négatives.
+  Diese chronische *Pessimistin* entmutigt uns alle mit ihren negativen Vorhersagen.
+
+  Même les plus grands *pessimistes* doivent admettre que la situation s'améliore.
+  Selbst die größten *Pessimisten* müssen zugeben, dass sich die Situation verbessert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

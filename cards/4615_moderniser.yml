@@ -13,11 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous devons simplement moderniser ce système.
-  Wir müssen dieses System lediglich modernisieren.
+  Nous devons simplement *moderniser* ce système.
+  Wir müssen dieses System einfach *modernisieren*.
 
-  Le gouvernement veut moderniser l’économie.
-  Die Regierung will die Wirtschaft modernisieren.
+  L'entreprise a décidé de *moderniser* son parc informatique.
+  Die Firma hat beschlossen, ihren Computerbestand zu *modernisieren*.
+
+  Ils vont *moderniser* la décoration de leur maison.
+  Sie werden die Einrichtung ihres Hauses *modernisieren*.
+
+  Les écoles doivent *moderniser* leurs méthodes d'enseignement.
+  Die Schulen müssen ihre Lehrmethoden *modernisieren*.
+
+  Cette ville s'est beaucoup *modernisée* ces dernières années.
+  Diese Stadt hat sich in den letzten Jahren stark *modernisiert*.
+
+  Le gouvernement souhaite *moderniser* les transports en commun.
+  Die Regierung möchte den öffentlichen Nahverkehr *modernisieren*.
+
+  Marie et Pierre ont complètement *modernisé* leur appartement.
+  Marie und Pierre haben ihre Wohnung komplett *modernisiert*.
+
+  L'usine doit se *moderniser* pour rester compétitive.
+  Die Fabrik muss sich *modernisieren*, um wettbewerbsfähig zu bleiben.
+
+  Les bibliothèques se sont *modernisées* avec l'arrivée du numérique.
+  Die Bibliotheken haben sich mit der Einführung der Digitaltechnik *modernisiert*.
+
+  Il faut *moderniser* l'orthographe de ce texte ancien.
+  Die Rechtschreibung dieses alten Textes muss *modernisiert* werden.
+
+  Le musée va *moderniser* ses installations l'année prochaine.
+  Das Museum wird nächstes Jahr seine Anlagen *modernisieren*.
+
+  Les parents ont décidé de *moderniser* la chambre de leur fille.
+  Die Eltern haben beschlossen, das Zimmer ihrer Tochter zu *modernisieren*.
+
+  Notre pays doit se *moderniser* pour attirer les investisseurs.
+  Unser Land muss sich *modernisieren*, um Investoren anzuziehen.
+
+  La banque a *modernisé* son système de paiement en ligne.
+  Die Bank hat ihr Online-Zahlungssystem *modernisiert*.
+
+  Les restaurants se sont *modernisés* pour s'adapter aux nouvelles tendances.
+  Die Restaurants haben sich *modernisiert*, um sich an neue Trends anzupassen.
+
+  Le théâtre va *moderniser* son système d'éclairage.
+  Das Theater wird seine Beleuchtungsanlage *modernisieren*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,29 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le dollar a concédé une partie du terrain gagné.
-  Der Dollar gab einen Teil des gewonnenen Bodens wieder ab.
+  Le dollar a *concédé* une partie du terrain gagné.
+  Der Dollar hat einen Teil der Gewinne wieder *eingebüßt*.
 
-  Je dois concéder que tu as raison.
-  Ich muss zugeben, dass du recht hast.
+  L'entreprise a *concédé* des avantages sociaux à ses employés.
+  Die Firma hat ihren Mitarbeitern soziale Vergünstigungen *zugestanden*.
 
-  Le patron a décidé de concéder des avantages à ses employés les plus performants.
-  Der Chef hat beschlossen, seinen leistungsstärksten Mitarbeitern Vergünstigungen zu gewähren.
+  Je *concède* que j'ai commis une erreur.
+  Ich *gebe zu*, dass ich einen Fehler gemacht habe.
 
-  Je le concède, j'ai peut-être été un peu trop dur avec elle.
-  Ich gebe es zu, ich war vielleicht etwas zu streng mit ihr.
+  Le gouvernement a *concédé* le monopole des transports à cette société.
+  Die Regierung hat dieser Firma das Transportmonopol *erteilt*.
 
-  La mairie a décidé de concéder à l'entreprise la possibilité d'exploiter le terrain pour construire un nouveau centre commercial.
-  Die Stadtverwaltung hat beschlossen, dem Unternehmen die Möglichkeit einzuräumen, das Grundstück zur Errichtung eines neuen Einkaufszentrums zu nutzen.
+  L'équipe a *concédé* trois buts en première mi-temps.
+  Die Mannschaft hat in der ersten Halbzeit drei Tore *kassiert*.
 
-  L'université a décidé de concéder une licence sur son brevet à une société pharmaceutique.
-  Die Universität hat beschlossen, ein Patent an eine Pharmafirma zu lizenzieren.
+  Marie m'a *concédé* qu'elle aurait dû m'en parler plus tôt.
+  Marie hat mir *eingeräumt*, dass sie früher mit mir hätte darüber sprechen sollen.
 
-  Je vous le concède, vous avez raison.
-  Da gebe ich Ihnen Recht.
+  La ville a *concédé* un terrain pour la construction d'une école.
+  Die Stadt hat ein Grundstück für den Bau einer Schule *überlassen*.
 
-  Je vous concède ce point, mais je ne suis pas d'accord avec le reste de votre argumentation.
-  In diesem Punkt stimme ich Ihnen zu, aber mit dem Rest Ihrer Argumentation bin ich nicht einverstanden.
+  Je vous *concède* que le timing n'était pas idéal.
+  Ich *räume* Ihnen ein, dass der Zeitpunkt nicht ideal war.
+
+  L'État a *concédé* des droits d'exploitation minière à cette entreprise.
+  Der Staat hat diesem Unternehmen Bergbaurechte *zugebilligt*.
+
+  Il a fallu *concéder* quelques points pour arriver à un accord.
+  Man musste in einigen Punkten *nachgeben*, um zu einer Einigung zu kommen.
+
+  Le champion a *concédé* sa première défaite de la saison.
+  Der Champion hat seine erste Niederlage der Saison *eingesteckt*.
+
+  Paul *concède* rarement ses erreurs.
+  Paul *gibt* seine Fehler nur selten *zu*.
+
+  L'entreprise a *concédé* une licence d'exploitation pour cinq ans.
+  Das Unternehmen hat eine Nutzungslizenz für fünf Jahre *erteilt*.
+
+  La mairie a *concédé* un emplacement aux commerçants du marché.
+  Die Stadtverwaltung hat den Markthändlern einen Standplatz *zugewiesen*.
+
+  Je dois *concéder* que vos arguments sont convaincants.
+  Ich muss *einräumen*, dass Ihre Argumente überzeugend sind.
+
+  L'équipe visiteure a *concédé* un match nul à la dernière minute.
+  Die Gastmannschaft hat in der letzten Minute ein Unentschieden *zugelassen*.
+
+  Le propriétaire a *concédé* un droit de passage sur son terrain.
+  Der Eigentümer hat ein Wegerecht auf seinem Grundstück *eingeräumt*.
+
+  La direction a *concédé* une augmentation de salaire aux employés.
+  Die Geschäftsführung hat den Mitarbeitern eine Gehaltserhöhung *zugestanden*.
+
+  Il a finalement *concédé* que j'avais raison depuis le début.
+  Er hat schließlich *zugegeben*, dass ich von Anfang an Recht hatte.
+
+  La municipalité a *concédé* l'exploitation du parking à une société privée.
+  Die Gemeinde hat den Betrieb des Parkhauses einem privaten Unternehmen *überlassen*.
+
+  Les négociateurs ont dû *concéder* plusieurs points importants.
+  Die Verhandlungsführer mussten in mehreren wichtigen Punkten *nachgeben*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

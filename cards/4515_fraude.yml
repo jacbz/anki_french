@@ -13,41 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tu es coupable de fraude.
-  Sie machen sich des Betrugs schuldig.
+  Tu es coupable de *fraude*.
+  Du bist des *Betrugs* schuldig.
 
-  Il a été accusé de fraude fiscale.
-  Er wurde der Steuerhinterziehung beschuldigt.
+  Le service de répression des *fraudes* a ouvert une enquête sur ce restaurant.
+  Das *Betrugs*dezernat hat Ermittlungen gegen dieses Restaurant aufgenommen.
 
-  Une fraude électorale a été constatée dans plusieurs bureaux de vote.
-  Es wurde Wahlfälschung in mehreren Wahllokalen festgestellt.
+  La *fraude* électorale a été découverte dans plusieurs bureaux de vote.
+  Der *Wahl**betrug* wurde in mehreren Wahllokalen aufgedeckt.
 
-  Un homme a été arrêté pour fraude douanière.
-  Ein Mann wurde wegen Zollvergehen verhaftet.
+  Les douaniers ont arrêté un camion qui transportait des marchandises en *fraude*.
+  Die Zöllner haben einen LKW angehalten, der Waren *illegal* transportierte.
 
-  Le fisc a révélé un vaste réseau de fraude fiscale.
-  Das Finanzamt hat ein ausgedehntes Steuerhinterziehungsnetz aufgedeckt.
+  Une *fraude* fiscale massive a été révélée par les journalistes d'investigation.
+  Eine massive *Steuer*hinterziehung wurde von investigativen Journalisten aufgedeckt.
 
-  La fraude sur les vins est un problème récurrent dans la région.
-  Weinpanscherei ist ein wiederkehrendes Problem in der Region.
+  Cette cave est accusée de *fraude* sur les vins.
+  Dieser Weinkeller wird der *Weinpanscherei* beschuldigt.
 
-  Le tribunal a condamné l'homme pour fraude à la loi.
-  Das Gericht hat den Mann wegen Gesetzesumgehung verurteilt.
+  Il a commis une *fraude* grossière qui n'a trompé personne.
+  Er hat einen plumpen *Betrug* begangen, der niemanden täuschte.
 
-  Le tribunal a rejeté la demande de la partie adverse en raison de la fraude à la force de chose jugée.
-  Das Gericht hat den Antrag der Gegenseite wegen Rechtskraftumgehung zurückgewiesen.
+  Les autorités luttent contre la *fraude* aux prestations sociales.
+  Die Behörden kämpfen gegen *Sozial**betrug*.
 
-  Le service de répression des fraudes enquête sur une affaire de fraude financière.
-  Das Betrugsdezernat ermittelt in einem Fall von Finanzbetrug.
+  Cette entreprise a recours à la *fraude* pour éviter de payer des impôts.
+  Dieses Unternehmen greift zum *Betrug*, um keine Steuern zahlen zu müssen.
 
-  Les élèves fumaient en fraude dans les toilettes.
-  Die Schüler haben heimlich in den Toiletten geraucht.
+  Une nouvelle forme de *fraude* sur Internet inquiète la police.
+  Eine neue Form des Internet*betrugs* beunruhigt die Polizei.
 
-  Le trafiquant a tenté d'entrer des armes en fraude.
-  Der Schmuggler hat versucht, Waffen heimlich ins Land zu schmuggeln.
+  Les douaniers ont surpris trois personnes qui passaient des cigarettes en *fraude*.
+  Die Zöllner haben drei Personen beim *Schmuggel* von Zigaretten erwischt.
 
-  Le groupe a passé des marchandises à la frontière en fraude.
-  Die Gruppe hat Waren über die Grenze geschmuggelt.
+  La *fraude* à la carte bancaire devient de plus en plus sophistiquée.
+  Der Kredit*karten**betrug* wird immer ausgefeilter.
+
+  Cette *fraude* manifeste a causé la faillite de l'entreprise.
+  Dieser offensichtliche *Betrug* hat zum Konkurs des Unternehmens geführt.
+
+  Les étudiants risquent l'exclusion en cas de *fraude* aux examens.
+  Den Studenten droht bei *Betrug* in den Prüfungen der Ausschluss.
+
+  Il a été pris en *fraude* dans le métro sans ticket.
+  Er wurde beim *Schwarzfahren* in der U-Bahn erwischt.
+
+  La *fraude* douanière lui a coûté une forte amende.
+  Das *Zoll*vergehen kostete ihn ein hohes Bußgeld.
+
+  Ces marchandises ont été introduites en *fraude* dans le pays.
+  Diese Waren wurden *illegal* ins Land eingeführt.
+
+  Une *fraude* sur la qualité des produits alimentaires a été détectée.
+  Ein *Betrug* bei der Qualität von Lebensmitteln wurde aufgedeckt.
+
+  Le contrôleur les a surpris en *fraude* dans le train.
+  Der Schaffner hat sie beim *Schwarzfahren* im Zug erwischt.
+
+  La *fraude* à la loi est punie sévèrement.
+  Die Gesetzes*umgehung* wird streng bestraft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

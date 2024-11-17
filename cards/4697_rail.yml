@@ -13,17 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai suivi les rails pour arriver ici.
-  Ich bin den Schienen gefolgt, um hierherzukommen.
+  J'ai suivi les *rails* pour arriver ici.
+  Ich bin den *Schienen* gefolgt, um hierher zu kommen.
 
-  Le train roule sur les rails.
-  Der Zug fährt auf den Schienen.
+  Deux wagons sont sortis des *rails* hier soir.
+  Zwei Waggons sind gestern Abend von den *Schienen* entgleist.
 
-  Deux wagons sont sortis des rails, provoquant un retard considérable pour les voyageurs.
-  Zwei Wagen sind entgleist, was zu einer erheblichen Verspätung für die Reisenden führte.
+  Le transport par *rail* est plus écologique que par route.
+  Der Transport auf der *Schiene* ist umweltfreundlicher als auf der Straße.
 
-  Il faut mettre l'économie sur les rails après cette crise.
-  Die Wirtschaft muss nach dieser Krise wieder ins rechte Gleis gebracht werden.
+  L'écartement des *rails* doit être vérifié régulièrement.
+  Der Abstand zwischen den *Schienen* muss regelmäßig überprüft werden.
+
+  Les ouvriers installent un nouveau *rail* électrique dans le métro.
+  Die Arbeiter installieren eine neue Strom*schiene* in der U-Bahn.
+
+  Une porte coulissante sur des *rails* a été installée dans la cuisine.
+  Eine auf *Schienen* laufende Schiebetür wurde in der Küche eingebaut.
+
+  Les spots lumineux sont fixés sur un *rail* au plafond.
+  Die Strahler sind an einer *Schiene* an der Decke befestigt.
+
+  Le *rail* de sécurité a empêché l'accident d'être plus grave.
+  Die Leit*planke* hat verhindert, dass der Unfall schlimmer wurde.
+
+  Les bateaux doivent respecter le *rail* d'Ouessant.
+  Die Schiffe müssen die *Fahrspur* von Ouessant einhalten.
+
+  Le *rail* montant est actuellement fermé à la navigation.
+  Die aufsteigende *Fahrspur* ist derzeit für die Schifffahrt gesperrt.
+
+  Cette entreprise est sortie des *rails*, mais nous allons la redresser.
+  Diese Firma ist aus dem *Gleis* geraten, aber wir werden sie wieder aufrichten.
+
+  Pierre a quitté les *rails* pendant ses études, mais il s'est repris.
+  Pierre ist während seines Studiums aus der *Bahn* geworfen worden, hat sich aber wieder gefangen.
+
+  Les travaux de rénovation des *rails* dureront tout l'été.
+  Die Erneuerung der *Schienen* wird den ganzen Sommer dauern.
+
+  La concurrence entre le *rail* et la route s'intensifie chaque année.
+  Der Wettbewerb zwischen *Schiene* und Straße verschärft sich jedes Jahr.
+
+  Le nouveau système de *rails* permet aux trains de rouler plus vite.
+  Das neue *Schienen*system ermöglicht den Zügen schneller zu fahren.
+
+  Les ingénieurs soudent les *rails* pour réduire le bruit des trains.
+  Die Ingenieure schweißen die *Schienen* zusammen, um den Zuglärm zu reduzieren.
+
+  Son projet est maintenant sur les *rails* et avance bien.
+  Sein Projekt ist jetzt auf der richtigen *Bahn* und kommt gut voran.
+
+  Il faut remettre cette affaire sur les *rails* avant qu'il ne soit trop tard.
+  Diese Angelegenheit muss wieder ins richtige *Gleis* gebracht werden, bevor es zu spät ist.
+
+  Les *rails* du tramway traversent toute la ville.
+  Die *Schienen* der Straßenbahn durchqueren die ganze Stadt.
+
+  Le *rail* de guidage du store est cassé.
+  Die Führungs*schiene* des Rollladens ist kaputt.
+
+  Les anciens *rails* seront recyclés pour fabriquer de nouveaux matériaux.
+  Die alten *Schienen* werden recycelt, um neue Materialien herzustellen.
+
+  Le *rail* descendant est réservé aux navires transportant des marchandises dangereuses.
+  Die absteigende *Fahrspur* ist Schiffen mit gefährlicher Ladung vorbehalten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

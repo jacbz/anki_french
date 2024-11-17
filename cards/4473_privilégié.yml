@@ -13,17 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai eu une vie protégée et privilégiée.
-  Ich hatte ein behütetes und privilegiertes Leben.
+  J'ai eu une vie protégée et *privilégiée*.
+  Ich hatte ein behütetes und *privilegiertes* Leben.
 
-  Les élèves privilégiés ont accès à des ressources supplémentaires.
-  Die privilegierten Schüler haben Zugang zu zusätzlichen Ressourcen.
+  Les classes *privilégiées* ont toujours eu accès à la meilleure éducation.
+  Die *privilegierten* Klassen hatten schon immer Zugang zur besten Bildung.
 
-  Ce projet est fiscalement privilégié, ce qui devrait attirer de nombreux investisseurs.
-  Dieses Projekt ist steuerlich privilegiert, was viele Investoren anziehen sollte.
+  Sophie est une cliente *privilégiée* de cette boutique depuis des années.
+  Sophie ist seit Jahren eine *bevorzugte* Kundin dieser Boutique.
 
-  Les actionnaires de la société ont le droit de voter sur les actions privilégiées.
-  Die Aktionäre der Gesellschaft haben das Recht, über die Vorzugsaktien abzustimmen.
+  La France et l'Allemagne entretiennent des relations *privilégiées*.
+  Frankreich und Deutschland pflegen *besonders gute* Beziehungen.
+
+  Cette région bénéficie d'un climat *privilégié*.
+  Diese Region genießt ein *besonders günstiges* Klima.
+
+  Seuls quelques *privilégiés* ont pu assister à l'avant-première du film.
+  Nur einige *Privilegierte* durften an der Filmpremiere teilnehmen.
+
+  Les créanciers *privilégiés* seront remboursés en premier.
+  Die *bevorrechtigten* Gläubiger werden als Erste zurückgezahlt.
+
+  Marc est devenu l'interlocuteur *privilégié* de la direction.
+  Marc ist zum *bevorzugten* Ansprechpartner der Geschäftsleitung geworden.
+
+  Cette ville possède une situation géographique *privilégiée*.
+  Diese Stadt hat eine *besonders günstige* geografische Lage.
+
+  En tant qu'enseignant *privilégié*, il avait accès à des ressources spéciales.
+  Als *privilegierte* Lehrkraft hatte er Zugang zu speziellen Ressourcen.
+
+  Les investisseurs ont acheté des actions *privilégiées* de l'entreprise.
+  Die Investoren haben *Vorzugs*aktien des Unternehmens gekauft.
+
+  Notre entreprise propose des offres exclusives à ses partenaires *privilégiés*.
+  Unser Unternehmen bietet seinen *bevorzugten* Partnern exklusive Angebote an.
+
+  Cette information *privilégiée* ne doit pas être divulguée.
+  Diese *vertrauliche* Information darf nicht weitergegeben werden.
+
+  Les *privilégiés* de la naissance ne comprennent pas toujours la réalité des autres.
+  Die von Geburt an *Privilegierten* verstehen nicht immer die Realität der anderen.
+
+  Pierre a tissé des liens *privilégiés* avec ses collègues au fil des années.
+  Pierre hat im Laufe der Jahre *besonders enge* Bindungen zu seinen Kollegen aufgebaut.
+
+  Cette école accueille principalement des enfants issus de milieux *privilégiés*.
+  Diese Schule nimmt hauptsächlich Kinder aus *privilegierten* Verhältnissen auf.
+
+  Mon frère a toujours été un être *privilégié* avec des talents exceptionnels.
+  Mein Bruder war schon immer ein *begnadeter* Mensch mit außergewöhnlichen Talenten.
+
+  Cette banque offre des services spéciaux à sa clientèle *privilégiée*.
+  Diese Bank bietet ihrer *privilegierten* Kundschaft besondere Dienstleistungen an.
+
+  Nous avons été *privilégiés* d'avoir un temps parfait pendant nos vacances.
+  Wir hatten das *Glück*, während unseres Urlaubs perfektes Wetter zu haben.
+
+  Elle occupe une position *privilégiée* dans l'entreprise.
+  Sie hat eine *privilegierte* Position im Unternehmen inne.
+
+  Les ordres *privilégiés* jouissaient de nombreux avantages sous l'Ancien Régime.
+  Die *privilegierten* Stände genossen viele Vorteile im Ancien Régime.
+
+  Cette zone fiscalement *privilégiée* attire de nombreux investisseurs.
+  Diese steuerlich *begünstigte* Zone zieht viele Investoren an.
+
+  Être né dans un pays développé fait de nous des *privilégiés*.
+  In einem entwickelten Land geboren zu sein, macht uns zu *Privilegierten*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

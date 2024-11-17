@@ -13,20 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La peste ravage londres, mais paris est épargnée.
-  Die Pest wütet in London, aber Paris bleibt verschont.
+  La peste *ravage* Londres, mais Paris est épargnée.
+  Die Pest *verwüstet* London, aber Paris bleibt verschont.
 
-  L’ouragan a ravagé la ville.
-  Der Hurrikan hat die Stadt verwüstet.
+  Les sauterelles ont *ravagé* toutes nos récoltes en une seule nuit.
+  Die Heuschrecken haben unsere gesamte Ernte in einer einzigen Nacht *vernichtet*.
 
-  Le village a été ravagé par le tremblement de terre.
-  Das Dorf ist durch das Erdbeben verwüstet worden.
+  Le typhon a complètement *ravagé* la côte est du pays.
+  Der Taifun hat die Ostküste des Landes völlig *verwüstet*.
 
-  Elle était ravagée d'inquiétude pour son fils, qui était parti en voyage.
-  Sie war krank vor Sorge um ihren Sohn, der auf Reisen war.
+  Les chenilles ont *ravagé* tous les chênes de la forêt.
+  Die Raupen haben alle Eichen im Wald *vernichtet*.
 
-  Il était ravagé de remords après avoir menti à ses amis.
-  Er war von Gewissensbissen geplagt, nachdem er seine Freunde angelogen hatte.
+  Le chagrin avait *ravagé* son visage autrefois si beau.
+  Der Kummer hatte ihr einst so schönes Gesicht *gezeichnet*.
+
+  Les remords *ravagent* son esprit depuis des années.
+  Die Gewissensbisse *quälen* seinen Geist seit Jahren.
+
+  L'inquiétude *ravageait* Marie, qui attendait des nouvelles de son fils.
+  Marie war *krank* vor Sorge, während sie auf Nachrichten von ihrem Sohn wartete.
+
+  La guerre civile a *ravagé* ce pays pendant une décennie.
+  Der Bürgerkrieg hat dieses Land ein Jahrzehnt lang *verwüstet*.
+
+  Le séisme a *ravagé* toute la région montagneuse.
+  Das Erdbeben hat die gesamte Bergregion *verwüstet*.
+
+  Les flammes ont *ravagé* des milliers d'hectares de forêt.
+  Die Flammen haben tausende Hektar Wald *vernichtet*.
+
+  La maladie avait *ravagé* son corps, mais pas son esprit.
+  Die Krankheit hatte seinen Körper *gezeichnet*, aber nicht seinen Geist.
+
+  Les inondations ont *ravagé* la ville entière en quelques heures.
+  Die Überschwemmungen haben die ganze Stadt in wenigen Stunden *verwüstet*.
+
+  La grêle a *ravagé* tous les vignobles de la région.
+  Der Hagel hat alle Weinberge der Region *vernichtet*.
+
+  Le temps a *ravagé* les ruines de l'ancien château.
+  Die Zeit hat die Ruinen der alten Burg *gezeichnet*.
+
+  La jalousie *ravageait* son cœur depuis qu'il l'avait vue avec un autre.
+  Die Eifersucht *quälte* sein Herz, seit er sie mit einem anderen gesehen hatte.
+
+  Les bombardements ont *ravagé* le centre-ville historique.
+  Die Bombardierungen haben die historische Innenstadt *verwüstet*.
+
+  Le gel a *ravagé* tous les arbres fruitiers cette année.
+  Der Frost hat dieses Jahr alle Obstbäume *vernichtet*.
+
+  Les termites ont *ravagé* toute la structure en bois.
+  Die Termiten haben die gesamte Holzstruktur *vernichtet*.
+
+  La sécheresse a *ravagé* les cultures de maïs.
+  Die Dürre hat die Maiskulturen *vernichtet*.
+
+  Le doute *ravageait* son âme depuis cette terrible découverte.
+  Der Zweifel *quälte* seine Seele seit dieser schrecklichen Entdeckung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

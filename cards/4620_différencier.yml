@@ -13,26 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je sais différencier un compliment d’une flatterie.
-  Ich kann zwischen einem Kompliment und einer Schmeichelei unterscheiden.
+  Je sais *différencier* un compliment d'une flatterie.
+  Ich kann ein Kompliment von *Schmeichelei* *unterscheiden*.
 
-  Il est important de différencier les deux concepts.
-  Es ist wichtig, die beiden Konzepte zu unterscheiden.
+  Il est important de *différencier* les champignons comestibles des toxiques.
+  Es ist wichtig, essbare Pilze von giftigen zu *unterscheiden*.
 
-  Il est parfois difficile de différencier le père du fils, car ils se ressemblent beaucoup.
-  Es ist manchmal schwierig, den Vater vom Sohn zu unterscheiden, weil sie sich sehr ähnlich sehen.
+  L'enseignant utilise une pédagogie *différenciée* pour aider chaque élève.
+  Der Lehrer verwendet *differenzierten* Unterricht, um jedem Schüler zu helfen.
 
-  La nouvelle série se différencie du roman par son ambiance plus sombre.
-  Die neue Serie unterscheidet sich vom Roman durch ihre düstere Atmosphäre.
+  Les cellules de l'embryon commencent à se *différencier* dès la première semaine.
+  Die Embryozellen beginnen sich bereits in der ersten Woche zu *differenzieren*.
 
-  La nouvelle série se différencie du roman par sa fin.
-  Die neue Serie unterscheidet sich vom Roman durch ihr Ende.
+  Cette marque se *différencie* de ses concurrents par sa qualité.
+  Diese Marke *unterscheidet* sich durch ihre Qualität von der Konkurrenz.
 
-  Les études scientifiques se différencient des études littéraires par leur approche et leur méthode.
-  Wissenschaftliche Studien differenzieren sich von literarischen Studien durch ihren Ansatz und ihre Methode.
+  Le daltonisme empêche de *différencier* certaines couleurs.
+  Farbenblindheit verhindert das *Unterscheiden* bestimmter Farben.
 
-  On peut différencier un roman d'un conte par la complexité de l'intrigue.
-  Man kann einen Roman von einem Märchen durch die Komplexität der Handlung unterscheiden.
+  Notre entreprise doit se *différencier* pour survivre sur le marché.
+  Unser Unternehmen muss sich *abheben*, um auf dem Markt zu überleben.
+
+  Les jumeaux se *différencient* par leur personnalité.
+  Die Zwillinge *unterscheiden* sich durch ihre Persönlichkeit.
+
+  Il faut *différencier* les faits des opinions dans les médias.
+  Man muss Fakten von Meinungen in den Medien *unterscheiden*.
+
+  Marie se *différencie* des autres par son accent étranger.
+  Marie *hebt* sich durch ihren ausländischen Akzent von den anderen *ab*.
+
+  La couleur du plumage *différencie* le mâle de la femelle.
+  Die Gefiederfarbe *unterscheidet* das Männchen vom Weibchen.
+
+  Les experts peuvent facilement *différencier* un original d'une copie.
+  Die Experten können ein Original leicht von einer Kopie *unterscheiden*.
+
+  Son style d'écriture se *différencie* nettement des autres auteurs.
+  Sein Schreibstil *unterscheidet* sich deutlich von anderen Autoren.
+
+  Comment *différencier* un rhume d'une grippe ?
+  Wie kann man eine Erkältung von einer Grippe *unterscheiden*?
+
+  L'intelligence *différencie* l'homme des autres espèces.
+  Die Intelligenz *unterscheidet* den Menschen von anderen Arten.
+
+  Les équipes se *différencient* par la couleur de leur maillot.
+  Die Teams *unterscheiden* sich durch die Farbe ihrer Trikots.
+
+  Pierre se *différencie* des autres élèves par sa créativité.
+  Pierre *hebt* sich durch seine Kreativität von den anderen Schülern *ab*.
+
+  Il est difficile de *différencier* ces deux variétés de roses.
+  Es ist schwierig, diese beiden Rosensorten zu *unterscheiden*.
+
+  Les cultures commencent à se *différencier* avec la mondialisation.
+  Die Kulturen beginnen sich durch die Globalisierung zu *unterscheiden*.
+
+  L'expérience nous aide à *différencier* le vrai du faux.
+  Die Erfahrung hilft uns, Wahrheit von Lüge zu *unterscheiden*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’effet de serre est un phénomène naturel.
-  Der Treibhauseffekt ist ein natürliches Phänomen.
+  L'effet de *serre* est un phénomène naturel.
+  Der Treibhaus*effekt* ist ein natürliches Phänomen.
 
-  Les tomates poussent dans la serre.
-  Die Tomaten wachsen im Gewächshaus.
+  Les gaz à effet de *serre* menacent notre climat.
+  Die *Treibhaus*gase bedrohen unser Klima.
 
-  J'aime bien les tomates, même si ce sont des fruits de serre.
-  Ich mag Tomaten, auch wenn es Treibhausobst ist.
+  L'aigle tient sa proie dans ses *serres* acérées.
+  Der Adler hält seine Beute in seinen scharfen *Fängen*.
 
-  Mes parents font pousser des plantes aromatiques en serre.
-  Meine Eltern ziehen im Gewächshaus Kräuter.
+  Le faucon a attrapé le lapin avec ses *serres*.
+  Der Falke hat den Hasen mit seinen *Krallen* gefangen.
+
+  Paul cultive des tomates dans sa *serre* depuis vingt ans.
+  Paul züchtet seit zwanzig Jahren Tomaten in seinem *Gewächshaus*.
+
+  Cette *serre* chauffée permet de cultiver des orchidées toute l'année.
+  Dieses beheizte *Treibhaus* ermöglicht es, das ganze Jahr über Orchideen zu züchten.
+
+  Ces légumes de *serre* sont disponibles même en hiver.
+  Dieses *Treibhaus*gemüse ist auch im Winter verfügbar.
+
+  Le vautour a enfoncé ses *serres* dans sa proie.
+  Der Geier hat seine *Krallen* in seine Beute geschlagen.
+
+  La nouvelle *serre* du jardin botanique est vraiment impressionnante.
+  Das neue *Gewächshaus* des botanischen Gartens ist wirklich beeindruckend.
+
+  Ces fraises de *serre* manquent un peu de goût.
+  Diese *Treibhaus*erdbeeren schmecken etwas fad.
+
+  Le jardinier fait pousser des plantes exotiques en *serre*.
+  Der Gärtner zieht exotische Pflanzen im *Gewächshaus*.
+
+  Les *serres* du rapace brillaient dans l'obscurité.
+  Die *Klauen* des Raubvogels glänzten in der Dunkelheit.
+
+  Cette *serre* froide est parfaite pour les cactus.
+  Dieses kalte *Gewächshaus* ist perfekt für Kakteen.
+
+  "C'est une vraie plante de *serre*", dit-elle en parlant de sa fille fragile.
+  "Sie ist ein echtes *Treibhaus*kind", sagte sie über ihre empfindliche Tochter.
+
+  La *serre* protège les plantes contre le gel.
+  Das *Gewächshaus* schützt die Pflanzen vor dem Frost.
+
+  Les roses poussent mieux dans la *serre* tiède.
+  Die Rosen wachsen besser im temperierten *Gewächshaus*.
+
+  Le hibou grand-duc a des *serres* puissantes.
+  Der Uhu hat kräftige *Fänge*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

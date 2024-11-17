@@ -13,29 +13,89 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous avez été frappé par la foudre.
-  Sie wurden vom Blitz getroffen.
+  Vous avez été frappé par la *foudre*.
+  Sie wurden vom *Blitz* getroffen.
 
-  Le tonnerre gronde et la foudre tombe.
-  Der Donner grollt und der Blitz schlägt ein.
+  La *foudre* est tombée sur un arbre pendant l'orage.
+  Der *Blitz* schlug während des Gewitters in einen Baum ein.
 
-  Le chêne millénaire a été frappé par la foudre et s'est effondré.
-  Der tausendjährige Eichbaum wurde vom Blitz getroffen und ist eingestürzt.
+  Le paratonnerre protège la maison contre la *foudre*.
+  Der Blitzableiter schützt das Haus vor dem *Blitz*.
 
-  Jean était un foudre de guerre, courageux et intrépide.
-  Jean war ein großer Kriegsheld, mutig und unerschrocken.
+  La *foudre* a provoqué un incendie dans la forêt.
+  Der *Blitz* hat einen Waldbrand verursacht.
 
-  Dès qu'elle l'a vu, elle a eu le coup de foudre pour lui.
-  Sobald sie ihn sah, hat sie sich auf den ersten Blick in ihn verliebt.
+  J'ai eu le *coup de foudre* pour elle dès notre première rencontre.
+  Es war *Liebe auf den ersten Blick* bei unserer ersten Begegnung.
 
-  À la première vue, il a eu le coup de foudre pour cette magnifique voiture ancienne.
-  Auf den ersten Blick war er begeistert von diesem wunderschönen Oldtimer.
+  Elle a eu le *coup de foudre* pour cette maison de campagne.
+  Sie hat sich sofort in dieses Landhaus *verliebt*.
 
-  Il est prompt comme la foudre, il a déjà tout préparé.
-  Er ist wie ein geölter Blitz, er hat alles schon vorbereitet.
+  La nouvelle a frappé comme la *foudre*.
+  Die Nachricht hat wie ein *Blitz* eingeschlagen.
 
-  Le discours de l'orateur était plein de force et d'éloquence, il était un véritable foudre d'éloquence.
-  Die Rede des Redners war voller Kraft und Eloquenz, er war ein wahrer großer Redner.
+  Il s'est attiré les *foudres* de son patron.
+  Er hat den *Zorn* seines Chefs auf sich gezogen.
+
+  Le Vatican a lancé ses *foudres* contre cette doctrine hérétique.
+  Der Vatikan hat seinen *Bannstrahl* gegen diese ketzerische Lehre geschleudert.
+
+  Napoléon était un véritable *foudre* de guerre.
+  Napoleon war ein wahrer *Kriegsheld*.
+
+  La *foudre* s'est abattue sur le clocher de l'église.
+  Der *Blitz* schlug in den Kirchturm ein.
+
+  Elle redoute la *foudre* comme la peste.
+  Sie fürchtet den *Blitz* wie die Pest.
+
+  Un *foudre* de vin reposait dans la cave.
+  Ein *Großfass* Wein lagerte im Keller.
+
+  Le viticulteur stocke son vin dans des *foudres* en chêne.
+  Der Winzer lagert seinen Wein in eichenen *Lagerfässern*.
+
+  Les *foudres* de Jupiter symbolisent sa puissance divine.
+  Die *Blitze* Jupiters symbolisieren seine göttliche Macht.
+
+  Il court comme la *foudre* quand il est en retard.
+  Er rennt *blitzschnell*, wenn er zu spät dran ist.
+
+  La *foudre* globulaire est un phénomène rare et mystérieux.
+  Der Kugel*blitz* ist ein seltenes und mysteriöses Phänomen.
+
+  Il resta immobile, comme frappé par la *foudre*.
+  Er blieb regungslos stehen, wie vom *Blitz* getroffen.
+
+  Ce n'est pas un *foudre* de guerre, loin de là.
+  Er ist alles andere als ein *Kriegsheld*.
+
+  C'était un *foudre* d'éloquence au tribunal.
+  Er war ein brillanter *Redner* vor Gericht.
+
+  Les *foudres* de sa colère se sont abattues sur nous.
+  Sein *Zorn* hat uns getroffen.
+
+  La *foudre* éclate avec un bruit assourdissant.
+  Der *Blitz* bricht mit ohrenbetäubendem Lärm los.
+
+  J'ai eu un *coup de foudre* pour ce tableau au musée.
+  Ich habe mich auf Anhieb in dieses Gemälde im Museum *verliebt*.
+
+  Les *foudres* de la justice se sont abattues sur le criminel.
+  Die *Strafe* der Justiz hat den Verbrecher getroffen.
+
+  Les météorologues étudient la formation de la *foudre*.
+  Die Meteorologen untersuchen die Entstehung von *Blitzen*.
+
+  La *foudre* a fait sauter l'électricité dans tout le quartier.
+  Der *Blitz* hat den Strom im ganzen Viertel lahmgelegt.
+
+  L'aigle héraldique tient un *foudre* dans ses serres.
+  Der heraldische Adler hält einen *Blitz* in seinen Krallen.
+
+  Ce *foudre* peut contenir jusqu'à 300 hectolitres de vin.
+  Dieses *Großfass* kann bis zu 300 Hektoliter Wein fassen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La croissance mondiale risque de handicaper leurs exportations.
-  Das globale Wachstum könnte ihre Exporte behindern.
+  La croissance mondiale risque de *handicaper* leurs exportations.
+  Das globale Wachstum droht ihre Exporte zu *behindern*.
 
-  Sa blessure l’a handicappé pour le reste de sa carrière.
-  Seine Verletzung hat ihn für den Rest seiner Karriere beeinträchtigt.
+  Sa timidité l'a beaucoup *handicapé* dans sa carrière professionnelle.
+  Seine Schüchternheit hat ihn in seiner beruflichen Karriere stark *benachteiligt*.
 
-  Le manque de pratique handicape les élèves dans leurs progrès en musique.
-  Der Mangel an Übung ist für die Schüler ein Handikap bei ihrem musikalischen Fortschritt.
+  Le manque d'expérience *handicape* sérieusement notre équipe.
+  Der Mangel an Erfahrung *benachteiligt* unser Team erheblich.
 
-  Son manque de confiance en lui handicape Jean dans sa vie sociale.
-  Sein mangelndes Selbstvertrauen ist für Jean ein Handikap in seinem sozialen Leben.
+  Dans cette course, le cheval noir sera *handicapé* de cinq kilos.
+  Bei diesem Rennen wird das schwarze Pferd mit fünf Kilo *belastet*.
+
+  Pierre est temporairement *handicapé* à cause de sa jambe cassée.
+  Pierre ist wegen seines gebrochenen Beins vorübergehend *behindert*.
+
+  L'absence d'internet *handicape* fortement le développement de cette région rurale.
+  Das Fehlen von Internet *behindert* die Entwicklung dieser ländlichen Region stark.
+
+  Son accident de ski l'a *handicapé* à vie.
+  Sein Skiunfall hat ihn lebenslang *behindert*.
+
+  Le bruit constant *handicape* la concentration des élèves.
+  Der ständige Lärm *beeinträchtigt* die Konzentration der Schüler.
+
+  La petite entreprise est *handicapée* par les coûts élevés de l'énergie.
+  Das kleine Unternehmen wird durch die hohen Energiekosten *benachteiligt*.
+
+  Les conditions météorologiques ont *handicapé* la construction du nouveau stade.
+  Die Wetterbedingungen haben den Bau des neuen Stadions *behindert*.
+
+  Marie sera *handicapée* dans la compétition à cause de sa blessure récente.
+  Marie wird im Wettkampf durch ihre kürzliche Verletzung *benachteiligt* sein.
+
+  Le manque de personnel qualifié *handicape* le développement de l'entreprise.
+  Der Mangel an qualifiziertem Personal *behindert* die Unternehmensentwicklung.
+
+  Les problèmes de transport *handicapent* sérieusement notre logistique.
+  Die Transportprobleme *beeinträchtigen* unsere Logistik erheblich.
+
+  La barrière de la langue *handicape* son intégration sociale.
+  Die Sprachbarriere *behindert* seine soziale Integration.
+
+  Le favori du tournoi a été *handicapé* par une blessure au genou.
+  Der Turnierfavorit wurde durch eine Knieverletzung *beeinträchtigt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

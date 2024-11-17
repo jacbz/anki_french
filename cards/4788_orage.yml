@@ -13,20 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Au loin un orage grondait.
-  In der Ferne grollte ein Gewitter.
+  Au loin un *orage* grondait.
+  In der Ferne grollte ein *Gewitter*.
 
-  Il y a de l’orage dans l’air.
-  Es liegt Gewitter in der Luft.
+  L'*orage* éclate juste au moment où nous arrivons à la maison.
+  Das *Gewitter* bricht genau in dem Moment los, als wir zu Hause ankommen.
 
-  Le vent d'orage a fait tomber les arbres.
-  Der Gewittersturm hat die Bäume umgeworfen.
+  Nous avons dû nous abriter de l'*orage* sous un arbre.
+  Wir mussten uns vor dem *Gewitter* unter einem Baum unterstellen.
 
-  Il y a de l'orage dans l'air, il faut rentrer.
-  Es herrscht dicke Luft, wir müssen nach Hause gehen.
+  Cette pluie d'*orage* est vraiment rafraîchissante.
+  Dieser *Gewitter*regen ist wirklich erfrischend.
 
-  Le temps est à l'orage, on devrait prendre un parapluie.
-  Es sieht nach Gewitter aus, wir sollten einen Regenschirm mitnehmen.
+  Le vent d'*orage* a cassé plusieurs branches dans notre jardin.
+  Der *Gewitter*sturm hat mehrere Äste in unserem Garten abgebrochen.
+
+  Regarde ces nuages, le temps est à l'*orage*.
+  Schau dir diese Wolken an, es sieht nach *Gewitter* aus.
+
+  Un violent *orage* magnétique perturbe les communications satellites.
+  Ein heftiger Magnet*sturm* stört die Satellitenkommunikation.
+
+  "Il y a de l'*orage* dans l'air" entre Paul et Marie depuis leur dispute.
+  Zwischen Paul und Marie herrscht seit ihrem Streit *dicke Luft*.
+
+  Les météorologues prévoient des *orages* violents pour ce week-end.
+  Die Meteorologen sagen heftige *Gewitter* für dieses Wochenende voraus.
+
+  L'*orage* s'éloigne vers l'est, nous pouvons sortir maintenant.
+  Das *Gewitter* zieht nach Osten ab, wir können jetzt rausgehen.
+
+  J'ai toujours aimé observer les *orages* depuis ma fenêtre.
+  Ich habe schon immer gerne *Gewitter* von meinem Fenster aus beobachtet.
+
+  Un *orage* solaire particulièrement intense a été détecté hier.
+  Gestern wurde ein besonders intensiver Sonnen*sturm* festgestellt.
+
+  Les enfants ont peur de l'*orage*, surtout la nuit.
+  Die Kinder haben Angst vor *Gewittern*, besonders nachts.
+
+  Après l'*orage*, un magnifique arc-en-ciel est apparu.
+  Nach dem *Gewitter* erschien ein wunderschöner Regenbogen.
+
+  Il vaut mieux laisser passer l'*orage* que de réagir impulsivement.
+  Es ist besser, den *Sturm* vorüberziehen zu lassen, als impulsiv zu reagieren.
+
+  Les *orages* de l'amour ont marqué toute leur relation.
+  Die *Stürme* der Liebe haben ihre ganze Beziehung geprägt.
+
+  Ces nuages noirs annoncent un *orage* imminent.
+  Diese schwarzen Wolken kündigen ein bevorstehendes *Gewitter* an.
+
+  Le bruit de l'*orage* résonne dans toute la vallée.
+  Der Lärm des *Gewitters* hallt durch das ganze Tal.
+
+  Un petit *orage* d'été a rafraîchi l'atmosphère.
+  Ein kleines Sommer*gewitter* hat die Luft abgekühlt.
+
+  Les *orages* sont plus fréquents en montagne qu'en plaine.
+  *Gewitter* sind in den Bergen häufiger als in der Ebene.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

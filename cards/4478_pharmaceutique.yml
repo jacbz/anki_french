@@ -13,11 +13,44 @@ Register: ↘Fiktion ↗Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les compagnies pharmaceutiques sont très, très, très riches.
-  Die Pharmaunternehmen sind sehr, sehr, sehr reich.
+  Les compagnies *pharmaceutiques* sont très, très, très riches.
+  Die *Pharma*konzerne sind sehr, sehr, sehr reich.
 
-  L’industrie pharmaceutique est en constante évolution.
-  Die pharmazeutische Industrie ist ständig im Wandel.
+  L'industrie *pharmaceutique* française est connue dans le monde entier.
+  Die französische *Pharma*industrie ist weltweit bekannt.
+
+  Le laboratoire *pharmaceutique* a développé un nouveau médicament contre le cancer.
+  Das *Pharma*labor hat ein neues Medikament gegen Krebs entwickelt.
+
+  Elle étudie les sciences *pharmaceutiques* à l'université.
+  Sie studiert *Pharmazie* an der Universität.
+
+  Cette préparation *pharmaceutique* doit être conservée au réfrigérateur.
+  Dieses *Pharma*präparat muss im Kühlschrank aufbewahrt werden.
+
+  La recherche *pharmaceutique* progresse rapidement.
+  Die *pharmazeutische* Forschung macht schnelle Fortschritte.
+
+  Les produits *pharmaceutiques* sont soumis à des contrôles stricts.
+  *Pharmazeutische* Produkte unterliegen strengen Kontrollen.
+
+  Une nouvelle réglementation *pharmaceutique* entrera en vigueur l'année prochaine.
+  Eine neue *Pharma*verordnung tritt nächstes Jahr in Kraft.
+
+  Le groupe *pharmaceutique* a investi des millions dans ce projet.
+  Der *Pharma*konzern hat Millionen in dieses Projekt investiert.
+
+  La législation *pharmaceutique* protège les consommateurs.
+  Die *Pharma*gesetzgebung schützt die Verbraucher.
+
+  Les tests *pharmaceutiques* ont confirmé l'efficacité du médicament.
+  Die *pharmazeutischen* Tests haben die Wirksamkeit des Medikaments bestätigt.
+
+  Cette officine *pharmaceutique* est ouverte jour et nuit.
+  Diese *Pharma*apotheke hat Tag und Nacht geöffnet.
+
+  Les prix des produits *pharmaceutiques* ont considérablement augmenté.
+  Die Preise für *Pharma*produkte sind erheblich gestiegen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

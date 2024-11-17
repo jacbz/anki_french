@@ -13,11 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Dix-sept films inédits seront en compétition.
-  Siebzehn bisher unveröffentlichte Filme werden im Wettbewerb laufen.
+  Dix-sept films *inédits* seront en compétition.
+  Siebzehn *unveröffentlichte* Filme werden im Wettbewerb sein.
 
-  C’est un film inédit.
-  Es ist ein unveröffentlichter Film.
+  La bibliothèque a découvert des lettres *inédites* de Victor Hugo.
+  Die Bibliothek hat *unveröffentlichte* Briefe von Victor Hugo entdeckt.
+
+  Cette exposition présente des documents *inédits* sur la Révolution française.
+  Diese Ausstellung zeigt *unveröffentlichte* Dokumente über die Französische Revolution.
+
+  L'éditeur a publié trois romans *inédits* de cet auteur décédé.
+  Der Verlag hat drei *unveröffentlichte* Romane dieses verstorbenen Autors herausgegeben.
+
+  Le musée expose des photographies *inédites* de Paris au XIXe siècle.
+  Das Museum stellt *nie gezeigte* Fotografien von Paris im 19. Jahrhundert aus.
+
+  Cette chanteuse propose une approche *inédite* du jazz traditionnel.
+  Diese Sängerin bietet einen *völlig neuen* Ansatz zum traditionellen Jazz.
+
+  Le chercheur a trouvé une solution *inédite* à ce problème mathématique.
+  Der Forscher hat eine *neuartige* Lösung für dieses mathematische Problem gefunden.
+
+  Ces *inédits* de Baudelaire valent une fortune.
+  Diese *unveröffentlichten Werke* von Baudelaire sind ein Vermögen wert.
+
+  Marie reste une auteure *inédite*, mais elle continue d'écrire.
+  Marie ist noch eine *unveröffentlichte* Autorin, aber sie schreibt weiter.
+
+  Le festival présente des spectacles *inédits* chaque année.
+  Das Festival präsentiert jedes Jahr *völlig neue* Shows.
+
+  Cette découverte offre des possibilités *inédites* en médecine.
+  Diese Entdeckung bietet *nie dagewesene* Möglichkeiten in der Medizin.
+
+  Les archives contiennent des témoignages *inédits* sur cette période.
+  Die Archive enthalten *unveröffentlichte* Zeugnisse aus dieser Zeit.
+
+  Cette technologie propose une expérience utilisateur *inédite*.
+  Diese Technologie bietet ein *völlig neues* Benutzererlebnis.
+
+  Le magazine a publié des entretiens *inédits* avec le président.
+  Das Magazin hat *unveröffentlichte* Interviews mit dem Präsidenten publiziert.
+
+  Le chef a créé un menu *inédit* pour l'ouverture du restaurant.
+  Der Koch hat ein *völlig neues* Menü für die Restauranteröffnung kreiert.
+
+  Ces manuscrits *inédits* ont été retrouvés dans un grenier.
+  Diese *unveröffentlichten* Manuskripte wurden auf einem Dachboden gefunden.
+
+  Les archéologues ont fait une découverte *inédite* sur ce site.
+  Die Archäologen haben eine *noch nie dagewesene* Entdeckung an dieser Stelle gemacht.
+
+  Cette collection présente des œuvres *inédites* de l'artiste.
+  Diese Sammlung präsentiert *unveröffentlichte* Werke des Künstlers.
+
+  Le théâtre propose une mise en scène *inédite* de cette pièce classique.
+  Das Theater bietet eine *völlig neue* Inszenierung dieses klassischen Stücks.
+
+  Cette compilation contient plusieurs *inédits* du groupe.
+  Diese Zusammenstellung enthält mehrere *unveröffentlichte Stücke* der Band.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

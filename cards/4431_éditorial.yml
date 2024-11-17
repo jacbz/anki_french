@@ -13,11 +13,38 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Pourriez-vous nous parler de vos choix éditoriaux?
-  Könnten Sie uns etwas über Ihre redaktionellen Entscheidungen erzählen?
+  Pourriez-vous nous parler de vos choix *éditoriaux* ?
+  Könnten Sie uns von Ihren *verlegerischen* Entscheidungen erzählen?
 
-  J’ai écrit l’éditorial pour le journal de demain.
-  Ich habe den Leitartikel für die morgige Zeitung geschrieben.
+  L'*éditorial* du journal critiquait sévèrement la nouvelle loi.
+  Der *Leitartikel* der Zeitung kritisierte das neue Gesetz scharf.
+
+  Notre équipe *éditoriale* a décidé de publier ce livre controversé.
+  Unser *Verlags*team hat beschlossen, dieses umstrittene Buch zu veröffentlichen.
+
+  Tous les matins, je commence par lire l'*éditorial* du Monde.
+  Jeden Morgen beginne ich mit dem *Leitartikel* von Le Monde.
+
+  La politique *éditoriale* de cette maison favorise les auteurs émergents.
+  Die *Verlags*politik dieses Hauses fördert aufstrebende Autoren.
+
+  Le rédacteur en chef a signé un *éditorial* passionné sur le changement climatique.
+  Der Chefredakteur hat einen leidenschaftlichen *Leitartikel* über den Klimawandel geschrieben.
+
+  Les choix *éditoriaux* de ce magazine reflètent bien son public cible.
+  Die *verlegerische* Ausrichtung dieses Magazins spiegelt seine Zielgruppe gut wider.
+
+  Pour son premier *éditorial*, elle a choisi un sujet d'actualité brûlant.
+  Für ihren ersten *Leitartikel* hat sie ein brandaktuelles Thema gewählt.
+
+  Le comité *éditorial* se réunit chaque lundi matin.
+  Das *Redaktions*komitee trifft sich jeden Montagmorgen.
+
+  Les *éditoriaux* sont maintenant tous signés par leurs auteurs.
+  Die *Leitartikel* werden jetzt alle von ihren Autoren unterschrieben.
+
+  La ligne *éditoriale* du journal n'a pas changé depuis vingt ans.
+  Die *redaktionelle* Linie der Zeitung hat sich seit zwanzig Jahren nicht verändert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

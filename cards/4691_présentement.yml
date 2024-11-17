@@ -13,11 +13,47 @@ Register: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous étudions ce besoin présentement.
-  Wir prüfen derzeit diesen Bedarf.
+  Nous étudions ce besoin *présentement*.
+  Wir untersuchen diesen Bedarf *gegenwärtig*.
 
-  Présentement, je travaille sur un projet important.
-  Momentan arbeite ich an einem wichtigen Projekt.
+  La maison est *présentement* occupée par une famille de quatre personnes.
+  Das Haus wird *derzeit* von einer vierköpfigen Familie bewohnt.
+
+  *Présentement*, nous ne pouvons pas accepter de nouvelles inscriptions.
+  *Momentan* können wir keine neuen Anmeldungen annehmen.
+
+  Le système est *présentement* en maintenance.
+  Das System befindet sich *augenblicklich* in Wartung.
+
+  *Présentement*, il n'y a plus de places disponibles pour le concert.
+  *Zurzeit* sind keine Plätze mehr für das Konzert verfügbar.
+
+  Je suis *présentement* en train de travailler sur ce projet.
+  Ich arbeite *gegenwärtig* an diesem Projekt.
+
+  Le restaurant est *présentement* fermé pour rénovation.
+  Das Restaurant ist *derzeit* wegen Renovierung geschlossen.
+
+  *Présentement*, nous traversons une période difficile.
+  Wir durchleben *momentan* eine schwierige Zeit.
+
+  Les prix sont *présentement* plus élevés que d'habitude.
+  Die Preise sind *gegenwärtig* höher als gewöhnlich.
+
+  Le directeur n'est *présentement* pas disponible.
+  Der Direktor ist *augenblicklich* nicht verfügbar.
+
+  *Présentement*, tous nos employés travaillent à distance.
+  *Derzeit* arbeiten alle unsere Mitarbeiter von zu Hause aus.
+
+  Je suis *présentement* en congé jusqu'à la semaine prochaine.
+  Ich bin *momentan* bis nächste Woche im Urlaub.
+
+  *Présentement*, nous n'acceptons que les paiements par carte.
+  *Gegenwärtig* akzeptieren wir nur Kartenzahlung.
+
+  Les bureaux sont *présentement* fermés au public.
+  Die Büros sind *zurzeit* für die Öffentlichkeit geschlossen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

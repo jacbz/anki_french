@@ -13,20 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous devons rester vigilants et critiques.
-  Wir müssen wachsam und kritisch bleiben.
+  Nous devons rester *vigilants* et critiques.
+  Wir müssen *wachsam* und kritisch bleiben.
 
-  Soyez vigilant lorsque vous traversez la rue.
-  Seien Sie wachsam, wenn Sie die Straße überqueren.
+  Soyez toujours *vigilant* quand vous traversez la rue.
+  Seien Sie immer *wachsam*, wenn Sie die Straße überqueren.
 
-  Il faut observer la route avec une attention vigilante.
-  Man muss die Straße mit größter Wachsamkeit beobachten.
+  Les parents doivent être *vigilants* concernant l'utilisation d'Internet par leurs enfants.
+  Eltern müssen bei der Internetnutzung ihrer Kinder *wachsam* sein.
 
-  Le gardien surveillait les prisonniers d'un œil vigilant.
-  Der Wärter beobachtete die Gefangenen mit wachsendem Blick.
+  D'un œil *vigilant*, elle observait les enfants dans la cour de récréation.
+  Mit *wachsamem* Blick beobachtete sie die Kinder auf dem Pausenhof.
 
-  Malgré des soins vigilants, la plante n'a pas survécu.
-  Trotz umsichteter Pflege hat die Pflanze nicht überlebt.
+  Malgré des soins *vigilants*, la plante n'a pas survécu à l'hiver.
+  Trotz *sorgsamer* Pflege hat die Pflanze den Winter nicht überlebt.
+
+  Un gardien *vigilant* a empêché le vol.
+  Ein *wachsamer* Wächter hat den Diebstahl verhindert.
+
+  Cette infirmière est très *vigilante* avec ses patients.
+  Diese Krankenschwester ist sehr *umsichtig* mit ihren Patienten.
+
+  Une attention *vigilante* est requise pendant toute l'expérience.
+  Während des ganzen Experiments ist *aufmerksame* Beobachtung erforderlich.
+
+  Notre chien *vigilant* nous a alertés d'un danger.
+  Unser *wachsamer* Hund hat uns vor einer Gefahr gewarnt.
+
+  Les citoyens doivent être *vigilants* face aux fausses informations.
+  Die Bürger müssen gegenüber Falschinformationen *wachsam* sein.
+
+  Un observateur *vigilant* remarquera ces petits détails.
+  Ein *aufmerksamer* Beobachter wird diese kleinen Details bemerken.
+
+  La police reste *vigilante* pendant les grandes manifestations.
+  Die Polizei bleibt während der großen Demonstrationen *wachsam*.
+
+  Grâce à sa nature *vigilante*, elle a évité plusieurs accidents.
+  Dank ihrer *wachsamen* Art hat sie mehrere Unfälle vermieden.
+
+  Les randonneurs doivent être particulièrement *vigilants* en montagne.
+  Wanderer müssen in den Bergen besonders *achtsam* sein.
+
+  Une surveillance *vigilante* a permis de détecter le problème à temps.
+  Eine *wachsame* Überwachung hat es ermöglicht, das Problem rechtzeitig zu erkennen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

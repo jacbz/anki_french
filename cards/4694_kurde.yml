@@ -13,11 +13,44 @@ Register: ↘Fiktion
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La langue kurde est interdite à l’école.
-  Die kurdische Sprache ist in der Schule verboten.
+  La langue *kurde* est interdite à l'école.
+  Die *kurdische* Sprache ist in der Schule verboten.
 
-  Il est kurde.
-  Er ist Kurde.
+  Le peuple *kurde* a une riche tradition culturelle.
+  Das *kurdische* Volk hat eine reiche kulturelle Tradition.
+
+  Les enfants *kurdes* apprennent leur langue maternelle à la maison.
+  Die *kurdischen* Kinder lernen ihre Muttersprache zu Hause.
+
+  Elle étudie le *kurde* à l'université.
+  Sie studiert *Kurdisch* an der Universität.
+
+  La musique *kurde* est très appréciée dans toute la région.
+  Die *kurdische* Musik wird in der ganzen Region sehr geschätzt.
+
+  Un écrivain *kurde* a remporté le prix littéraire.
+  Ein *kurdischer* Schriftsteller hat den Literaturpreis gewonnen.
+
+  La communauté *kurde* organise une fête traditionnelle ce weekend.
+  Die *kurdische* Gemeinschaft organisiert dieses Wochenende ein traditionelles Fest.
+
+  Le *kurde* est parlé par environ dix millions de personnes.
+  *Kurdisch* wird von etwa zehn Millionen Menschen gesprochen.
+
+  Je voudrais apprendre le *kurde* pour communiquer avec mes voisins.
+  Ich möchte *Kurdisch* lernen, um mit meinen Nachbarn zu kommunizieren.
+
+  La littérature *kurde* se transmet principalement oralement.
+  Die *kurdische* Literatur wird hauptsächlich mündlich überliefert.
+
+  Une famille *kurde* s'est installée dans notre quartier.
+  Eine *kurdische* Familie hat sich in unserem Viertel niedergelassen.
+
+  Le dictionnaire *kurde*-français vient d'être publié.
+  Das *kurdisch*-französische Wörterbuch wurde gerade veröffentlicht.
+
+  Les contes *kurdes* fascinent les enfants depuis des générations.
+  Die *kurdischen* Märchen faszinieren die Kinder seit Generationen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

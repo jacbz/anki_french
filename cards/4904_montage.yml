@@ -13,20 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tout le montage du film s’est fait en digital.
-  Der gesamte Schnitt des Films erfolgte digital.
+  Tout le *montage* du film s'est fait en digital.
+  Der ganze Film*schnitt* wurde digital gemacht.
 
-  Le montage de ce meuble est facile.
-  Die Montage dieses Möbels ist einfach.
+  Le *montage* du nouveau smartphone est très compliqué.
+  Die *Montage* des neuen Smartphones ist sehr kompliziert.
 
-  Le montage financier de ce projet est complexe.
-  Die Finanzierung dieses Projekts ist komplex.
+  Le *montage* de ma nouvelle bibliothèque m'a pris trois heures.
+  Der *Aufbau* meines neuen Bücherregals hat drei Stunden gedauert.
 
-  Le montage de bas de ligne est simple et efficace.
-  Die Angelmontage ist einfach und effektiv.
+  La chaîne de *montage* fonctionne 24 heures sur 24.
+  Das *Montage*band läuft rund um die Uhr.
 
-  Le montage paternoster est idéal pour la pêche à la carpe.
-  Der Paternosterangel ist ideal zum Karpfenangeln.
+  La grue facilite le *montage* des matériaux de construction.
+  Der Kran erleichtert das *Hochheben* der Baumaterialien.
+
+  Cette photo n'est pas réelle, c'est un *montage*.
+  Dieses Foto ist nicht echt, es ist eine *Fotomontage*.
+
+  Le *montage* des pierres précieuses dans ce collier est remarquable.
+  Die *Fassung* der Edelsteine in dieser Kette ist bemerkenswert.
+
+  L'équipe termine le *montage* de la grande tente pour le festival.
+  Das Team beendet das *Aufstellen* des großen Festivalzelts.
+
+  Le *montage* sonore de cet album a duré plusieurs mois.
+  Die Ton*montage* dieses Albums hat mehrere Monate gedauert.
+
+  Les ouvriers ont commencé le *montage* du nouveau pont.
+  Die Arbeiter haben mit der *Montage* der neuen Brücke begonnen.
+
+  Le *montage* de cette veste demande beaucoup de précision.
+  Das *Nähen* dieser Jacke erfordert viel Präzision.
+
+  La table de *montage* est équipée des dernières technologies.
+  Der *Schnitt*tisch ist mit der neuesten Technologie ausgestattet.
+
+  Le *montage* de l'exposition prendra une semaine entière.
+  Der *Aufbau* der Ausstellung wird eine ganze Woche dauern.
+
+  Les instructions de *montage* sont incompréhensibles.
+  Die *Montage*anleitung ist unverständlich.
+
+  Le *montage* financier de ce projet est très complexe.
+  Die *Finanzierung* dieses Projekts ist sehr komplex.
+
+  L'atelier de *montage* embauche de nouveaux employés.
+  Die *Montage*werkstatt stellt neue Mitarbeiter ein.
+
+  Le *montage* du moteur doit être fait par un professionnel.
+  Die *Montage* des Motors muss von einem Fachmann durchgeführt werden.
+
+  Cette émission est un *montage* des meilleurs moments.
+  Diese Sendung ist ein *Zusammenschnitt* der besten Momente.
+
+  Le *montage* de la page de couverture est presque terminé.
+  Die *Gestaltung* der Titelseite ist fast fertig.
+
+  Les coûts de *montage* sont inclus dans le prix.
+  Die *Montage*kosten sind im Preis inbegriffen.
+
+  Le *montage* des meubles sera effectué demain matin.
+  Die *Montage* der Möbel wird morgen früh durchgeführt.
+
+  Le service de *montage* est gratuit pour cet appareil.
+  Der *Montage*service ist für dieses Gerät kostenlos.
+
+  L'équipe de *montage* travaille sur plusieurs projets.
+  Das *Montage*team arbeitet an mehreren Projekten.
+
+  Le *montage* théâtral de cette pièce est innovant.
+  Die *Inszenierung* dieses Theaterstücks ist innovativ.
+
+  Le *montage* vidéo sera terminé la semaine prochaine.
+  Die Video*montage* wird nächste Woche fertig sein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

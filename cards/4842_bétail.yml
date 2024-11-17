@@ -13,20 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vos chevaux sont là-bas, avec votre bétail.
-  Ihre Pferde sind dort bei Ihrem Vieh.
+  Vos chevaux sont là-bas, avec votre *bétail*.
+  Ihre Pferde sind dort drüben, bei Ihrem *Vieh*.
 
-  Les fermiers élèvent du bétail.
-  Die Bauern züchten Vieh.
+  Le *bétail* est rentré dans l'étable pour la nuit.
+  Das *Vieh* ist für die Nacht in den Stall gebracht worden.
 
-  Nous élevons du gros bétail, comme des vaches et des chevaux, mais aussi du petit bétail, comme des chèvres et des moutons.
-  Wir züchten Großvieh, wie Kühe und Pferde, aber auch Kleinvieh, wie Ziegen und Schafe.
+  Notre voisin possède vingt têtes de *bétail*.
+  Unser Nachbar besitzt zwanzig Stück *Vieh*.
 
-  Sur la ferme, il y a une vingtaine de têtes de bétail, dont la plupart sont des vaches laitières.
-  Auf dem Hof gibt es etwa zwanzig Stück Vieh, von denen die meisten Milchkühe sind.
+  Le marché au *bétail* se tient chaque premier lundi du mois.
+  Der *Vieh*markt findet jeden ersten Montag im Monat statt.
 
-  Le commerce de bétail est une activité importante dans cette région.
-  Der Viehhandel ist eine wichtige Tätigkeit in dieser Region.
+  Les éleveurs de gros *bétail* ont manifesté devant le ministère.
+  Die Groß*vieh*züchter haben vor dem Ministerium demonstriert.
+
+  Marie s'occupe du petit *bétail* pendant que Paul soigne les chevaux.
+  Marie kümmert sich um das Klein*vieh*, während Paul die Pferde versorgt.
+
+  Le vétérinaire examine régulièrement tout le *bétail* de la ferme.
+  Der Tierarzt untersucht regelmäßig das gesamte *Vieh* des Hofes.
+
+  La sécheresse a rendu difficile de nourrir le *bétail* cet été.
+  Die Dürre hat es diesen Sommer schwer gemacht, das *Vieh* zu füttern.
+
+  Le commerce de *bétail* représente une part importante de l'économie locale.
+  Der *Vieh*handel macht einen wichtigen Teil der lokalen Wirtschaft aus.
+
+  Ils ont perdu la moitié de leur *bétail* pendant l'épidémie.
+  Sie haben während der Epidemie die Hälfte ihres *Viehs* verloren.
+
+  Les bergers conduisent leur *bétail* vers les pâturages d'été.
+  Die Hirten treiben ihr *Vieh* zu den Sommerweiden.
+
+  L'assurance couvre la perte accidentelle du *bétail*.
+  Die Versicherung deckt den versehentlichen Verlust des *Viehs* ab.
+
+  "Les réfugiés ont été transportés comme du *bétail*."
+  "Die Flüchtlinge wurden wie *Vieh* transportiert."
+
+  Le prix du *bétail* a considérablement augmenté cette année.
+  Der *Vieh*preis ist dieses Jahr erheblich gestiegen.
+
+  Cette clôture électrique protège le *bétail* des prédateurs.
+  Dieser Elektrozaun schützt das *Vieh* vor Raubtieren.
+
+  Mon grand-père a commencé avec cinq têtes de *bétail* il y a quarante ans.
+  Mein Großvater hat vor vierzig Jahren mit fünf Stück *Vieh* angefangen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

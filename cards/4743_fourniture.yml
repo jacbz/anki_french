@@ -13,23 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’accord prévoit la fourniture de 3 millions de tonnes de pétrole.
-  Das Abkommen sieht die Lieferung von 3 Millionen Tonnen Öl vor.
+  L'accord prévoit la *fourniture* de 3 millions de tonnes de pétrole.
+  Das Abkommen sieht die *Lieferung* von 3 Millionen Tonnen Öl vor.
 
-  J’ai besoin de fournitures de bureau.
-  Ich brauche Büromaterial.
+  La *fourniture* d'électricité sera interrompue pendant deux heures.
+  Die *Lieferung* von Strom wird für zwei Stunden unterbrochen.
 
-  La fourniture de documents est une tâche essentielle pour tout professionnel.
-  Die Beschaffung von Dokumenten ist eine wichtige Aufgabe für jeden Berufstätigen.
+  Notre entreprise est responsable de la *fourniture* des repas pour les écoles.
+  Unser Unternehmen ist für die *Beschaffung* der Schulmahlzeiten zuständig.
 
-  Les fournitures scolaires sont vendues dans les librairies et les grandes surfaces.
-  Schulbedarf wird in Buchhandlungen und Supermärkten verkauft.
+  La *fourniture* des données personnelles est obligatoire pour ce service.
+  Die *Bereitstellung* der persönlichen Daten ist für diesen Service verpflichtend.
 
-  La fourniture de propriété est un processus juridique complexe.
-  Die Besitzverschaffung ist ein komplexer rechtlicher Prozess.
+  Les *fournitures* scolaires coûtent de plus en plus cher chaque année.
+  Der Schul*bedarf* wird von Jahr zu Jahr teurer.
 
-  Les fournitures de bureau sont généralement achetées en gros.
-  Bürobedarf wird in der Regel im Großhandel gekauft.
+  Il manque des *fournitures* de bureau dans notre service.
+  In unserer Abteilung fehlt *Büromaterial*.
+
+  La banque s'occupe de la *fourniture* des documents nécessaires.
+  Die Bank kümmert sich um die *Beschaffung* der erforderlichen Dokumente.
+
+  Je dois acheter des nouvelles *fournitures* pour mon bureau.
+  Ich muss neuen *Bürobedarf* für mein Büro kaufen.
+
+  Cette entreprise assure la *fourniture* du gaz pour toute la région.
+  Dieses Unternehmen gewährleistet die *Lieferung* von Gas für die gesamte Region.
+
+  Les *fournitures* de dentiste sont très spécialisées.
+  Der Zahn*bedarf* ist sehr spezialisiert.
+
+  Nous avons signé un contrat pour la *fourniture* de services internet.
+  Wir haben einen Vertrag zur *Erbringung* von Internetdiensten unterschrieben.
+
+  Les élèves doivent apporter leurs propres *fournitures* en classe.
+  Die Schüler müssen ihre eigenen *Utensilien* mit in den Unterricht bringen.
+
+  La *fourniture* des vaccins est assurée par le ministère de la Santé.
+  Die *Bereitstellung* der Impfstoffe wird vom Gesundheitsministerium sichergestellt.
+
+  Il faut vérifier la qualité des *fournitures* avant de les accepter.
+  Man muss die Qualität der *Lieferungen* vor der Annahme überprüfen.
+
+  La couturière inclut les *fournitures* dans le prix final.
+  Die Schneiderin schließt das *Material* in den Endpreis ein.
+
+  Cette société est spécialisée dans la *fourniture* de matériel informatique.
+  Diese Firma ist auf die *Lieferung* von Computerausrüstung spezialisiert.
+
+  Les *fournitures* de bureau représentent un coût important pour l'entreprise.
+  Der *Bürobedarf* stellt einen erheblichen Kostenfaktor für das Unternehmen dar.
+
+  La *fourniture* d'eau potable est un service essentiel.
+  Die *Versorgung* mit Trinkwasser ist eine grundlegende Dienstleistung.
+
+  Nous devons renouveler nos *fournitures* chaque trimestre.
+  Wir müssen unseren *Bedarf* jedes Quartal erneuern.
+
+  Le magasin propose une large gamme de *fournitures* artistiques.
+  Der Laden bietet eine große Auswahl an Kunst*bedarf* an.
+
+  La *fourniture* des médicaments est strictement contrôlée.
+  Die *Lieferung* von Medikamenten wird streng kontrolliert.
+
+  Le contrat détaille les conditions de *fourniture* des services.
+  Der Vertrag beschreibt die Bedingungen für die *Erbringung* der Dienstleistungen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

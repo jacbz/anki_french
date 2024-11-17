@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous devons conjointement exercer une pression.
-  Wir müssen gemeinsam Druck ausüben.
+  Nous devons *conjointement* exercer une pression.
+  Wir müssen *gemeinsam* Druck ausüben.
 
-  Nous avons travaillé conjointement sur ce projet.
-  Wir haben gemeinsam an diesem Projekt gearbeitet.
+  Les deux entreprises ont décidé d'agir *conjointement* pour protéger l'environnement.
+  Die beiden Unternehmen haben beschlossen, *zusammen* für den Umweltschutz zu handeln.
+
+  Marie et Pierre travaillent *conjointement* sur ce projet depuis des mois.
+  Marie und Pierre arbeiten seit Monaten *gemeinsam* an diesem Projekt.
+
+  Les parents et les enseignants doivent *conjointement* éduquer les enfants.
+  Eltern und Lehrer müssen die Kinder *gemeinsam* erziehen.
+
+  Nos équipes développeront *conjointement* une solution innovante.
+  Unsere Teams werden *zusammen* eine innovative Lösung entwickeln.
+
+  Les trois pays ont *conjointement* organisé les Jeux olympiques.
+  Die drei Länder haben die Olympischen Spiele *gemeinsam* organisiert.
+
+  Ces artistes créent *conjointement* des œuvres depuis vingt ans.
+  Diese Künstler schaffen seit zwanzig Jahren *zusammen* Kunstwerke.
+
+  Les deux médecins traiteront *conjointement* ce patient complexe.
+  Die beiden Ärzte werden diesen komplexen Patienten *gemeinsam* behandeln.
+
+  Nous avons *conjointement* pris la décision d'annuler l'événement.
+  Wir haben *gemeinsam* die Entscheidung getroffen, die Veranstaltung abzusagen.
+
+  Les chercheurs travailleront *conjointement* sur ce nouveau vaccin.
+  Die Forscher werden *zusammen* an diesem neuen Impfstoff arbeiten.
+
+  Les associations agiront *conjointement* pour aider les sans-abri.
+  Die Vereine werden *gemeinsam* handeln, um den Obdachlosen zu helfen.
+
+  Les deux villes gèrent *conjointement* le festival culturel.
+  Die beiden Städte verwalten das Kulturfestival *gemeinsam*.
+
+  Les musiciens ont *conjointement* composé cette symphonie.
+  Die Musiker haben diese Symphonie *zusammen* komponiert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

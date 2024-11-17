@@ -13,17 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il dit qu’il va s’ensuivre une augmentation du tourisme.
-  Er sagt, dass dies zu einem Anstieg des Tourismus führen wird.
+  Il dit qu'il va *s'ensuivre* une augmentation du tourisme.
+  Er sagt, dass daraus ein Anstieg des Tourismus *folgen* wird.
 
-  La crise qui s'ensuivit a provoqué une grande instabilité politique dans le pays.
-  Die Krise, die daraus erwuchs, hat zu großer politischer Instabilität im Land geführt.
+  La crise économique qui *s'ensuivit* fut catastrophique pour l'entreprise.
+  Die Wirtschaftskrise, die daraus *folgte*, war katastrophisch für das Unternehmen.
 
-  Il s'ensuit qu'il a tort, car ses arguments ne tiennent pas debout.
-  Daraus ergibt sich, dass er unrecht hat, denn seine Argumente halten nicht stand.
+  Il *s'ensuit* que nous devons modifier notre stratégie.
+  Daraus *ergibt* sich, dass wir unsere Strategie ändern müssen.
 
-  Il ne s'ensuit pas forcément qu'elle doive refuser, car elle pourrait aussi accepter.
-  Daraus ergibt sich nicht unbedingt, dass sie ablehnen muss, denn sie könnte auch akzeptieren.
+  Les jours qui *s'ensuivirent* furent pleins de joie et de rires.
+  Die Tage, die darauf *folgten*, waren voller Freude und Lachen.
+
+  Une longue période de sécheresse *s'ensuivit*.
+  Eine lange Dürreperiode *folgte*.
+
+  De ces observations *s'ensuivent* plusieurs conclusions importantes.
+  Aus diesen Beobachtungen *ergeben* sich mehrere wichtige Schlussfolgerungen.
+
+  La tempête et tout ce qui *s'ensuit* ont causé beaucoup de dégâts.
+  Der Sturm und alles, was damit *einherging*, haben viele Schäden verursacht.
+
+  Des complications graves peuvent *s'ensuivre* si vous ne prenez pas vos médicaments.
+  Schwere Komplikationen können sich daraus *ergeben*, wenn Sie Ihre Medikamente nicht nehmen.
+
+  L'année qui *s'ensuivit* fut marquée par de grands changements.
+  Das Jahr, das darauf *folgte*, war von großen Veränderungen geprägt.
+
+  Il ne *s'ensuit* pas nécessairement que tu doives partir.
+  Daraus *ergibt* sich nicht unbedingt, dass du gehen musst.
+
+  Les événements qui *s'ensuivirent* nous ont tous surpris.
+  Die Ereignisse, die darauf *folgten*, haben uns alle überrascht.
+
+  De cette décision *s'ensuivront* de nombreuses conséquences.
+  Aus dieser Entscheidung werden sich viele Konsequenzen *ergeben*.
+
+  Une période de paix *s'ensuivit* après la guerre.
+  Eine Friedenszeit *folgte* nach dem Krieg.
+
+  Les changements qui se sont *ensuivis* ont transformé la ville.
+  Die Veränderungen, die sich daraus *ergaben*, haben die Stadt verwandelt.
+
+  Il *s'ensuit* logiquement que nous devons annuler le projet.
+  Daraus *folgt* logischerweise, dass wir das Projekt absagen müssen.
+
+  Des négociations difficiles *s'ensuivirent*.
+  Schwierige Verhandlungen *folgten*.
+
+  Un grand chaos *s'ensuivit* après l'annonce.
+  Ein großes Chaos *folgte* auf die Ankündigung.
+
+  Les complications qui *s'ensuivirent* auraient pu être évitées.
+  Die Komplikationen, die sich daraus *ergaben*, hätten vermieden werden können.
+
+  De cette situation *s'ensuit* une nouvelle opportunité.
+  Aus dieser Situation *ergibt* sich eine neue Gelegenheit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

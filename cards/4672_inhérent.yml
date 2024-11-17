@@ -13,14 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous reconnaissons le droit inhérent des autochtones.
-  Wir erkennen das inhärente Recht der Ureinwohner an.
+  Nous reconnaissons le droit *inhérent* des autochtones.
+  Wir erkennen das *angeborene* Recht der Ureinwohner an.
 
-  La responsabilité est inhérente à ce poste.
-  Die Verantwortung ist diesem Posten eigen.
+  Les risques d'erreur sont *inhérents* à tout projet complexe.
+  Fehlerrisiken sind jedem komplexen Projekt *eigen*.
 
-  Le danger est inhérent à ce métier.
-  Die Gefahr ist diesem Beruf innewohnend.
+  La créativité est une qualité *inhérente* à l'être humain.
+  Kreativität ist dem Menschen *innewohnend*.
+
+  Les responsabilités *inhérentes* à son poste l'empêchent de partir en vacances.
+  Die seinem Posten *innewohnenden* Verantwortlichkeiten hindern ihn daran, in den Urlaub zu fahren.
+
+  La confiance est *inhérente* à toute relation durable.
+  Vertrauen ist jeder dauerhaften Beziehung *inhärent*.
+
+  L'incertitude est *inhérente* au processus de recherche scientifique.
+  Ungewissheit ist dem wissenschaftlichen Forschungsprozess *eigen*.
+
+  Les défis sont *inhérents* à l'apprentissage d'une langue étrangère.
+  Herausforderungen sind dem Fremdsprachenlernen *innewohnend*.
+
+  La liberté d'expression est un droit *inhérent* à la démocratie.
+  Die Meinungsfreiheit ist der Demokratie *inhärent*.
+
+  Les problèmes techniques sont *inhérents* à ce type de logiciel.
+  Technische Probleme sind dieser Art von Software *eigen*.
+
+  Le stress est *inhérent* au métier d'enseignant.
+  Stress ist dem Lehrerberuf *innewohnend*.
+
+  La compétition est *inhérente* au sport de haut niveau.
+  Wettbewerb ist dem Leistungssport *eigen*.
+
+  Les privilèges *inhérents* à cette fonction sont considérables.
+  Die diesem Amt *innewohnenden* Privilegien sind beträchtlich.
+
+  La fragilité est *inhérente* à la nature humaine.
+  Zerbrechlichkeit ist der menschlichen Natur *eigen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

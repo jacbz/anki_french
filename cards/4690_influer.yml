@@ -13,14 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Chaque vie, influe sur les autres.
-  Jedes Leben, beeinflusst die anderen.
+  Chaque vie *influe* sur les autres.
+  Jedes Leben *wirkt* sich auf andere aus.
 
-  Ses paroles ont influé sur ma décision.
-  Seine Worte haben meine Entscheidung beeinflusst.
+  Le temps qu'il fait *influe* beaucoup sur mon humeur aujourd'hui.
+  Das Wetter *beeinflusst* heute meine Stimmung sehr.
 
-  La météo peut influencer sur la décision de partir en randonnée.
-  Das Wetter kann die Entscheidung für eine Wanderung beeinflussen.
+  La musique classique peut *influer* positivement sur la concentration des étudiants.
+  Klassische Musik kann sich positiv auf die Konzentration der Studenten *auswirken*.
+
+  Les réseaux sociaux *influent* de plus en plus sur les choix des consommateurs.
+  Soziale Medien *nehmen* zunehmend *Einfluss* auf die Entscheidungen der Verbraucher.
+
+  Cette décision politique va certainement *influer* sur l'économie locale.
+  Diese politische Entscheidung wird die lokale Wirtschaft sicher *beeinflussen*.
+
+  Les habitudes alimentaires *influent* directement sur notre santé.
+  Ernährungsgewohnheiten *wirken* sich direkt auf unsere Gesundheit *aus*.
+
+  La qualité du sommeil peut *influer* sur nos performances au travail.
+  Die Schlafqualität kann unsere Arbeitsleistung *beeinflussen*.
+
+  Les parents *influent* considérablement sur le développement de leurs enfants.
+  Eltern *nehmen* erheblichen *Einfluss* auf die Entwicklung ihrer Kinder.
+
+  Le stress professionnel peut *influer* négativement sur la vie familiale.
+  Beruflicher Stress kann sich negativ auf das Familienleben *auswirken*.
+
+  La pollution *influe* sur la qualité de l'air que nous respirons.
+  Die Verschmutzung *beeinflusst* die Qualität der Luft, die wir atmen.
+
+  Les changements climatiques *influent* sur la migration des oiseaux.
+  Klimaveränderungen *wirken* sich auf den Vogelzug *aus*.
+
+  La lumière naturelle *influe* sur notre rythme biologique.
+  Natürliches Licht *beeinflusst* unseren biologischen Rhythmus.
+
+  L'humidité *influe* fortement sur la croissance des plantes.
+  Die Feuchtigkeit *wirkt* sich stark auf das Pflanzenwachstum *aus*.
+
+  Son expérience professionnelle a *influé* sur sa décision de carrière.
+  Seine Berufserfahrung hat seine Karriereentscheidung *beeinflusst*.
+
+  Les opinions des autres ne devraient pas trop *influer* sur nos choix personnels.
+  Die Meinungen anderer sollten unsere persönlichen Entscheidungen nicht zu stark *beeinflussen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,41 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Toutes les églises sont tournées vers l’est.
-  Alle Kirchen sind nach Osten gerichtet.
+  Toutes les églises sont tournées vers l'*est*.
+  Alle Kirchen sind nach *Osten* ausgerichtet.
 
-  Il est grand.
-  Er ist groß.
+  Un vent d'*est* souffle sur la ville.
+  Ein *Ost*wind weht über die Stadt.
 
-  C'est une belle journée ensoleillée.
-  Es ist ein wunderschöner sonniger Tag.
+  La tempête s'est déplacée d'*est* en ouest.
+  Der Sturm zog von *Osten* nach Westen.
 
-  L'autoroute de l'Est est très fréquentée le week-end.
-  Die Autobahn nach Osten ist am Wochenende sehr stark befahren.
+  Le soleil se lève à l'*est* chaque matin.
+  Die Sonne geht jeden Morgen im *Osten* auf.
 
-  Les régions de l'est sont connues pour leur beauté naturelle.
-  Die östlichen Gebiete sind bekannt für ihre natürliche Schönheit.
+  Les nuages sombres arrivent de l'*est*.
+  Die dunklen Wolken kommen aus dem *Osten*.
 
-  Les gens de l'Est ont une culture riche et diverse.
-  Die Leute aus dem Osten haben eine reiche und vielfältige Kultur.
+  Notre maison se trouve à l'*est* de Paris.
+  Unser Haus liegt *östlich* von Paris.
 
-  L'Europe de l'Est a connu de grands changements politiques ces dernières années.
-  Osteuropa hat in den letzten Jahren große politische Veränderungen erlebt.
+  L'*Est* de la France est connu pour ses vins.
+  Der *Osten* Frankreichs ist für seine Weine bekannt.
 
-  Les pays de l'Est sont en pleine croissance économique.
-  Die Staaten Osteuropas befinden sich im wirtschaftlichen Aufschwung.
+  Marie habite dans l'*Est* depuis vingt ans.
+  Marie wohnt seit zwanzig Jahren im *Osten*.
 
-  Le bloc de l'Est a été un acteur majeur de la guerre froide.
-  Der Ostblock war ein wichtiger Akteur im Kalten Krieg.
+  Le train traverse l'*est* du pays.
+  Der Zug durchquert den *Osten* des Landes.
 
-  Le conflit entre l'Est et l'Ouest a duré pendant des décennies.
-  Der Ost-West-Konflikt hat jahrzehntelang angedauert.
+  La frontière *est* du pays est bien surveillée.
+  Die *östliche* Grenze des Landes wird gut überwacht.
 
-  La ville se trouve à l'est de la rivière.
-  Die Stadt liegt östlich des Flusses.
+  L'autoroute de l'*Est* mène vers Strasbourg.
+  Die *Ost*autobahn führt nach Strasbourg.
 
-  Dans l'est de la France, on trouve de nombreux châteaux.
-  Im Osten Frankreichs findet man zahlreiche Schlösser.
+  L'Europe de l'*Est* a beaucoup changé.
+  *Ost*europa hat sich stark verändert.
+
+  Le bloc de l'*Est* n'existe plus aujourd'hui.
+  Der *Ost*block existiert heute nicht mehr.
+
+  Les pays de l'*Est* se sont modernisés.
+  Die *ost*europäischen Länder haben sich modernisiert.
+
+  La banlieue *est* de Lyon s'est développée rapidement.
+  Die *östlichen* Vororte von Lyon haben sich schnell entwickelt.
+
+  Le conflit entre l'*Est* et l'Ouest a duré des décennies.
+  Der *Ost*-West-Konflikt dauerte Jahrzehnte.
+
+  Les gens de l'*Est* ont leur propre culture.
+  Die Menschen aus dem *Osten* haben ihre eigene Kultur.
+
+  Le vent s'oriente progressivement à l'*est*.
+  Der Wind dreht langsam auf *Ost*.
+
+  La fenêtre de ma chambre donne à l'*est*.
+  Das Fenster meines Zimmers geht nach *Osten*.
+
+  Nous marchons vers l'*est* depuis ce matin.
+  Wir laufen seit heute Morgen nach *Osten*.
+
+  Les régions de l'*est* sont montagneuses.
+  Die *östlichen* Regionen sind gebirgig.
+
+  Le soleil disparaît derrière les nuages à l'*est*.
+  Die Sonne verschwindet hinter den Wolken im *Osten*.
+
+  La boussole indique l'*est*.
+  Der Kompass zeigt nach *Osten*.
+
+  Les oiseaux migrateurs volent vers l'*est*.
+  Die Zugvögel fliegen nach *Osten*.
+
+  À l'*est* du village se trouve une forêt.
+  *Östlich* des Dorfes liegt ein Wald.
+
+  Dans l'*est* de l'Allemagne, il y a beaucoup de parcs éoliens.
+  Im *Osten* Deutschlands gibt es viele Windparks.
+
+  Le quartier *est* de la ville est en pleine rénovation.
+  Das *östliche* Stadtviertel wird gerade renoviert.
+
+  La côte *est* des États-Unis est très peuplée.
+  Die *Ost*küste der USA ist sehr bevölkert.
+
+  Un fort vent d'*est* a provoqué des dégâts.
+  Ein starker *Ost*wind hat Schäden verursacht.
+
+  La longitude *est* est mesurée à partir de Greenwich.
+  Die *östliche* Länge wird von Greenwich aus gemessen.
+
+  Mon bureau se trouve dans l'aile *est* du bâtiment.
+  Mein Büro befindet sich im *östlichen* Flügel des Gebäudes.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

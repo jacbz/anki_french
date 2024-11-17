@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les droits civiques sont accordés aux 336.000 arabes israéliens.
-  Den 336.000 israelischen Arabern werden Bürgerrechte gewährt.
+  Les droits *civiques* sont accordés aux 336.000 arabes israéliens.
+  Die *Bürger*rechte werden den 336.000 israelischen Arabern gewährt.
 
-  L’éducation civique est importante pour comprendre le fonctionnement de la société.
-  Die bürgerliche Bildung ist wichtig, um das Funktionieren der Gesellschaft zu verstehen.
+  L'instruction *civique* est une matière importante à l'école.
+  Der *Gemeinschafts*kundeunterricht ist ein wichtiges Schulfach.
 
-  Les citoyens doivent respecter les droits civiques de chacun.
-  Jeder Bürger muss die bürgerlichen Ehrenrechte aller respektieren.
+  Le sens *civique* des habitants s'est manifesté lors du nettoyage de la rivière.
+  Der *Bürger*sinn der Einwohner zeigte sich bei der Säuberung des Flusses.
 
-  L'instruction civique est une matière importante à l'école.
-  Gemeinschaftskunde ist ein wichtiges Fach in der Schule.
+  Maria a perdu ses droits *civiques* pendant cinq ans.
+  Maria wurde für fünf Jahre ihrer *Bürger*rechte verworfen.
+
+  Je suis fier de mon devoir *civique* quand je vais voter.
+  Ich bin stolz auf meine *bürgerliche* Pflicht, wenn ich wähle.
+
+  L'esprit *civique* se développe dès le plus jeune âge.
+  Der *Gemeinschafts*sinn entwickelt sich von klein auf.
+
+  Le courage *civique* de Thomas a sauvé la vie d'une famille.
+  Thomas' *Zivil*courage hat einer Familie das Leben gerettet.
+
+  Les vertus *civiques* sont essentielles pour une démocratie forte.
+  *Bürgerliche* Tugenden sind wesentlich für eine starke Demokratie.
+
+  Notre professeur d'éducation *civique* nous explique le système politique.
+  Unser *Gemeinschafts*kundelehrer erklärt uns das politische System.
+
+  La responsabilité *civique* nous concerne tous.
+  Die *bürgerliche* Verantwortung betrifft uns alle.
+
+  L'engagement *civique* des jeunes augmente chaque année.
+  Das *bürgerschaftliche* Engagement der Jugendlichen nimmt jedes Jahr zu.
+
+  La formation *civique* est obligatoire pour les nouveaux arrivants.
+  Die *staatsbürgerliche* Schulung ist für Neuankömmlinge verpflichtend.
+
+  Le comportement *civique* de chacun est important pendant la pandémie.
+  Das *bürgerliche* Verhalten jedes Einzelnen ist während der Pandemie wichtig.
+
+  L'éducation *civique* commence à la maison.
+  Die *staatsbürgerliche* Erziehung beginnt zu Hause.
+
+  La conscience *civique* nous pousse à respecter l'environnement.
+  Das *bürgerliche* Bewusstsein treibt uns an, die Umwelt zu respektieren.
+
+  Les valeurs *civiques* sont transmises de génération en génération.
+  Die *staatsbürgerlichen* Werte werden von Generation zu Generation weitergegeben.
+
+  La participation *civique* est le fondement de notre société.
+  Die *bürgerliche* Beteiligung ist das Fundament unserer Gesellschaft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

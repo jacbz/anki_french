@@ -13,11 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Un romancier raconte toujours une histoire, son histoire.
-  Ein Romanautor erzählt immer eine Geschichte, seine Geschichte.
+  Un *romancier* raconte toujours une histoire, son histoire.
+  Ein *Romanautor* erzählt immer eine Geschichte, seine Geschichte.
 
-  Cet écrivain est un grand romancier.
-  Dieser Schriftsteller ist ein großer Romanautor.
+  Ce *romancier* à succès vient de publier son dixième livre.
+  Dieser erfolgreiche *Romanautor* hat gerade sein zehntes Buch veröffentlicht.
+
+  La jeune *romancière* travaille sur son premier manuscrit depuis deux ans.
+  Die junge *Romanschriftstellerin* arbeitet seit zwei Jahren an ihrem ersten Manuskript.
+
+  Les meilleurs *romanciers* français du XIXe siècle ont marqué la littérature mondiale.
+  Die besten französischen *Romanautoren* des 19. Jahrhunderts haben die Weltliteratur geprägt.
+
+  Cette *romancière* britannique a vendu plus d'un million d'exemplaires de son dernier livre.
+  Diese britische *Romanschriftstellerin* hat über eine Million Exemplare ihres letzten Buches verkauft.
+
+  As-tu lu le nouveau livre de ton *romancier* préféré ?
+  Hast du das neue Buch deines Lieblings*romanautors* gelesen?
+
+  Les critiques littéraires ont salué l'émergence d'une nouvelle génération de *romanciers*.
+  Die Literaturkritiker begrüßten das Aufkommen einer neuen Generation von *Romanautoren*.
+
+  Ma sœur rêve de devenir *romancière* depuis son enfance.
+  Meine Schwester träumt seit ihrer Kindheit davon, *Romanschriftstellerin* zu werden.
+
+  Le célèbre *romancier* dédicacera ses livres samedi prochain à la librairie.
+  Der berühmte *Romanautor* wird nächsten Samstag in der Buchhandlung seine Bücher signieren.
+
+  Plusieurs *romancières* contemporaines abordent ce thème dans leurs œuvres.
+  Mehrere zeitgenössische *Romanschriftstellerinnen* behandeln dieses Thema in ihren Werken.
+
+  En tant que *romancier*, il puise son inspiration dans ses voyages.
+  Als *Romanautor* schöpft er seine Inspiration aus seinen Reisen.
+
+  Je ne savais pas que ta tante était *romancière*.
+  Ich wusste nicht, dass deine Tante *Romanschriftstellerin* ist.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

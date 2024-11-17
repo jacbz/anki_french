@@ -13,32 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai mal au coude.
-  Mein Ellenbogen tut weh.
+  J'ai mal au *coude*.
+  Mein *Ellbogen* tut weh.
 
-  Je me suis blessé au coude.
-  Ich habe mir den Ellenbogen verletzt.
+  Je me suis appuyé sur mon *coude* pour mieux voir.
+  Ich habe mich auf meinen *Ellbogen* gestützt, um besser sehen zu können.
 
-  Le plombier a mis un coude à un tuyau pour changer la direction de l'eau.
-  Der Klempner hat ein Knie in ein Rohr eingesetzt, um die Wasserrichtung zu ändern.
+  La route fait un *coude* juste après le village.
+  Die Straße macht einen *Knick* direkt nach dem Dorf.
 
-  Il a fallu qu'il joue des coudes pour se faire une place dans la foule.
-  Er musste die Ellbogen gebrauchen, um sich in der Menge einen Platz zu verschaffen.
+  Il faut installer un *coude* dans ce tuyau pour éviter les fuites.
+  Wir müssen ein *Knie* in dieses Rohr einsetzen, um Lecks zu vermeiden.
 
-  Pendant les vacances, on lève souvent le coude avec les amis.
-  Im Urlaub heben wir mit den Freunden oft gerne einen.
+  Il m'a donné un coup de *coude* pour me prévenir.
+  Er hat mir einen *Ellbogen*stoß gegeben, um mich zu warnen.
 
-  Après la défaite, l'équipe s'est serré les coudes pour se soutenir.
-  Nach der Niederlage hat sich die Mannschaft zusammen gehalten, um sich zu unterstützen.
+  Elle s'est fracturé le *coude* en faisant du vélo.
+  Sie hat sich beim Fahrradfahren den *Ellbogen* gebrochen.
 
-  Les deux coureurs ont terminé la course coude à coude.
-  Die beiden Läufer haben das Rennen Seite an Seite beendet.
+  "Il aime bien *lever le coude*."
+  "Er *hebt gerne einen*."
 
-  Les deux équipes sont au coude à coude au classement.
-  Die beiden Teams liegen im Ranking gleichauf.
+  La rivière fait un *coude* à cet endroit.
+  Der Fluss macht an dieser Stelle eine *Biegung*.
 
-  Les deux candidats sont au coude à coude dans les sondages.
-  Die beiden Kandidaten liegen in den Umfragen gleichauf.
+  Les manifestants marchaient *coude à coude*.
+  Die Demonstranten marschierten *Seite an Seite*.
+
+  Dans cette entreprise, il faut savoir *jouer des coudes*.
+  In dieser Firma muss man seine *Ellbogen* einsetzen können.
+
+  Sa veste est trouée aux *coudes*.
+  Seine Jacke ist an den *Ellbogen* durchlöchert.
+
+  En ces temps difficiles, nous devons *nous serrer les coudes*.
+  In diesen schwierigen Zeiten müssen wir *zusammenhalten*.
+
+  Le tuyau forme un *coude* à 90 degrés.
+  Das Rohr bildet eine *Krümmung* von 90 Grad.
+
+  "Il faut mettre de *l'huile de coude* pour nettoyer cette tache."
+  "Man muss *ordentlich schrubben*, um diesen Fleck zu entfernen."
+
+  Le dossier est resté *sous le coude* pendant des mois.
+  Die Akte ist monatelang *liegen geblieben*.
+
+  Les deux athlètes sont au *coude à coude* dans la dernière ligne droite.
+  Die beiden Athleten liegen auf der Zielgeraden *Kopf an Kopf*.
+
+  Marie s'est luxé le *coude* pendant l'entraînement.
+  Marie hat sich beim Training den *Ellbogen* ausgerenkt.
+
+  Le chemin fait un *coude* brusque vers la droite.
+  Der Weg macht eine scharfe *Biegung* nach rechts.
+
+  Les ouvriers ont travaillé *coude à coude* pour finir le projet à temps.
+  Die Arbeiter haben *Hand in Hand* gearbeitet, um das Projekt rechtzeitig fertigzustellen.
+
+  "Il ne se mouche pas du *coude*, celui-là !"
+  "Der ist aber *ganz schön eingebildet*!"
+
+  Les Romains mangeaient appuyés sur le *coude* gauche.
+  Die Römer aßen auf den linken *Ellbogen* gestützt.
+
+  Il m'a poussé du *coude* pour attirer mon attention.
+  Er hat mich mit dem *Ellbogen* angestoßen, um meine Aufmerksamkeit zu erregen.
+
+  Le plombier a installé un nouveau *coude* dans la tuyauterie.
+  Der Klempner hat ein neues *Knie*stück in die Rohre eingebaut.
+
+  Les soldats courent les *coudes* au corps.
+  Die Soldaten laufen mit angelegten *Ellbogen*.
+
+  "Il s'est mis le doigt dans l'œil jusqu'au *coude*."
+  "Er hat sich *völlig verschätzt*."
+
+  Je dois faire renforcer les *coudes* de ma veste.
+  Ich muss die *Ellbogen* meiner Jacke verstärken lassen.
+
+  Les dépôts s'accumulent dans les *coudes* de la canalisation.
+  Die Ablagerungen sammeln sich in den *Krümmungen* der Rohrleitung.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

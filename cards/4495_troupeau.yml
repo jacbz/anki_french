@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tu fais partie de mon troupeau, à présent. Bienvenue.
-  Du gehörst jetzt zu meiner Herde. Willkommen.
+  Tu fais partie de mon *troupeau*, à présent. Bienvenue.
+  Du gehörst jetzt zu meiner *Herde*. Willkommen.
 
-  Le troupeau de moutons est rentré à l’étable.
-  Die Schafherde ist in den Stall zurückgekehrt.
+  Le berger surveille son *troupeau* de moutons dans les Alpes.
+  Der Hirte bewacht seine Schaf*herde* in den Alpen.
 
-  Le troupeau de vaches paissait tranquillement dans le pré.
-  Die Kuhherde graste friedlich auf der Weide.
+  Un *troupeau* d'éléphants sauvages traverse la savane africaine.
+  Eine Elefanten*herde* durchquert die afrikanische Savanne.
 
-  Le troupeau d'éléphants traversait la savane.
-  Die Elefantenherde durchquerte die Savanne.
+  Les vaches de ce *troupeau* produisent du lait bio.
+  Die Kühe dieser *Herde* produzieren Bio-Milch.
+
+  Le cowboy rassemble son *troupeau* avant la tempête.
+  Der Cowboy treibt seine *Herde* vor dem Sturm zusammen.
+
+  Un grand *troupeau* de buffles s'approche du point d'eau.
+  Eine große Büffel*herde* nähert sich der Wasserstelle.
+
+  Les *troupeaux* en transhumance montent vers les alpages.
+  Die *Herden* ziehen auf dem Almauftrieb in die Berge.
+
+  Ce fermier possède trois *troupeaux* de chèvres différents.
+  Dieser Bauer besitzt drei verschiedene Ziegen*herden*.
+
+  Une *troupeau* d'oies traverse la route du village.
+  Eine Gänse*herde* überquert die Dorfstraße.
+
+  Les loups ont attaqué notre *troupeau* pendant la nuit.
+  Die Wölfe haben unsere *Herde* in der Nacht angegriffen.
+
+  Le vétérinaire examine régulièrement ce *troupeau* de bovins.
+  Der Tierarzt untersucht regelmäßig diese Rinder*herde*.
+
+  Un *troupeau* de touristes suit aveuglément leur guide.
+  Eine *Horde* Touristen folgt blind ihrem Führer.
+
+  Les deux *troupeaux* se sont mélangés pendant l'orage.
+  Die beiden *Herden* haben sich während des Gewitters vermischt.
+
+  "Regarde ce *troupeau* de fans qui attend devant le stade !"
+  "Schau dir diese *Horde* Fans an, die vor dem Stadion wartet!"
+
+  Le *troupeau* de bisons traverse majestueusement la prairie.
+  Die Bison*herde* durchquert majestätisch die Prärie.
+
+  Les bergers unissent leurs *troupeaux* pour la saison d'été.
+  Die Hirten vereinen ihre *Herden* für die Sommersaison.
+
+  Un petit *troupeau* de lamas broute dans le pré voisin.
+  Eine kleine Lama*herde* grast auf der Nachbarweide.
+
+  Ce *troupeau* de moutons entretient naturellement le paysage.
+  Diese Schaf*herde* pflegt auf natürliche Weise die Landschaft.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

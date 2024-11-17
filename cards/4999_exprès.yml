@@ -13,20 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je ne le fais pas exprès ou plutôt ce n’est pas conscient.
-  Ich mache das nicht absichtlich bzw. es ist mir nicht bewusst.
+  Je ne le fais pas *exprès* ou plutôt ce n'est pas conscient.
+  Ich mache das nicht *absichtlich*, oder besser gesagt, es ist nicht bewusst.
 
-  Je suis venu exprès pour te voir.
-  Ich bin extra gekommen, um dich zu sehen.
+  Il a cassé le vase *exprès* pour me mettre en colère.
+  Er hat die Vase *absichtlich* zerbrochen, um mich wütend zu machen.
 
-  Pierre a fait exprès de laisser la porte ouverte pour que le chat puisse sortir.
-  Pierre hat absichtlich die Tür offen gelassen, damit die Katze rausgehen konnte.
+  J'ai fait *exprès* de prendre un autre chemin pour éviter les embouteillages.
+  Ich bin *extra* einen anderen Weg gefahren, um den Stau zu vermeiden.
 
-  Il a perdu son portefeuille, comme un fait exprès, juste avant son rendez-vous important.
-  Er hat seinen Geldbeutel verloren, als ob es hätte sein sollen, direkt vor seinem wichtigen Termin.
+  "Tu fais *exprès* de m'énerver ou quoi ?"
+  "Machst du mich *extra* wütend, oder was?"
 
-  J'ai envoyé le colis en exprès pour qu'il arrive à temps.
-  Ich habe das Paket als Eilsendung geschickt, damit es rechtzeitig ankommt.
+  Ma grand-mère a tricoté cette écharpe *exprès* pour mon anniversaire.
+  Meine Großmutter hat diesen Schal *extra* für meinen Geburtstag gestrickt.
+
+  Nous sommes venus tout *exprès* de Paris pour assister à votre mariage.
+  Wir sind *extra* aus Paris gekommen, um an eurer Hochzeit teilzunehmen.
+
+  *Comme par un fait exprès*, il s'est mis à pleuvoir le jour du pique-nique.
+  *Wie es kommen musste*, fing es ausgerechnet am Tag des Picknicks an zu regnen.
+
+  La défense *expresse* de fumer est affichée partout dans l'hôpital.
+  Das *ausdrückliche* Rauchverbot ist überall im Krankenhaus angebracht.
+
+  J'ai envoyé cette lettre en *exprès* car c'était urgent.
+  Ich habe diesen Brief als *Eil*sendung verschickt, weil es dringend war.
+
+  Le colis *exprès* arrivera demain matin.
+  Das *Eil*paket wird morgen früh ankommen.
+
+  L'interdiction *expresse* de stationner n'est pas respectée dans cette rue.
+  Das *ausdrückliche* Parkverbot wird in dieser Straße nicht beachtet.
+
+  Ce rôle semble fait *exprès* pour cette actrice.
+  Diese Rolle scheint dieser Schauspielerin wie auf den Leib geschrieben zu sein.
+
+  J'ai reçu un *exprès* hier soir.
+  Ich habe gestern Abend eine *Eil*sendung erhalten.
+
+  Les conditions *expresses* du contrat doivent être respectées.
+  Die *ausdrücklichen* Vertragsbedingungen müssen eingehalten werden.
+
+  Elle est venue *exprès* tôt pour avoir une bonne place.
+  Sie ist *extra* früh gekommen, um einen guten Platz zu bekommen.
+
+  "C'est un *fait exprès* ou tu me suis partout ?"
+  "Ist das *Absicht* oder verfolgst du mich überall hin?"
+
+  Il a donné l'ordre *exprès* de ne pas le déranger pendant la réunion.
+  Er hat die *ausdrückliche* Anweisung gegeben, ihn während der Besprechung nicht zu stören.
+
+  Je t'ai préparé ce gâteau tout *exprès*.
+  Ich habe dir diesen Kuchen *extra* gebacken.
+
+  Le messager *exprès* est arrivé avec une nouvelle urgente.
+  Der *Eil*bote ist mit einer dringenden Nachricht eingetroffen.
+
+  *Comme par un fait exprès*, mon téléphone s'est éteint au moment crucial.
+  *Wie es kommen musste*, ging mein Handy im entscheidenden Moment aus.
+
+  Cette disposition figure en termes *exprès* dans le règlement.
+  Diese Bestimmung ist *ausdrücklich* in der Verordnung festgehalten.
+
+  J'ai choisi *exprès* ce moment pour lui parler.
+  Ich habe *absichtlich* diesen Moment gewählt, um mit ihm zu sprechen.
+
+  La loi est *expresse* sur ce point.
+  Das Gesetz ist in diesem Punkt *ausdrücklich*.
+
+  Il a formulé les plus *expresses* réserves concernant ce projet.
+  Er hat die *ausdrücklichsten* Vorbehalte bezüglich dieses Projekts geäußert.
+
+  Cette chambre a été préparée *exprès* pour votre séjour.
+  Dieses Zimmer wurde *extra* für Ihren Aufenthalt vorbereitet.
+
+  C'est *exprès* que j'ai employé ce terme technique.
+  Ich habe diesen Fachbegriff *absichtlich* verwendet.
+
+  Le directeur a donné son accord *exprès* pour le projet.
+  Der Direktor hat seine *ausdrückliche* Zustimmung für das Projekt gegeben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il a un sourire ironique et satisfait.
-  Er hat ein ironisches und zufriedenes Lächeln.
+  Il a un sourire *ironique* et satisfait.
+  Er hat ein *ironisches* und zufriedenes Lächeln.
 
-  C’est ironique, n’est-ce pas?
-  Das ist ironisch, nicht wahr?
+  Son regard *ironique* m'a mis mal à l'aise.
+  Sein *ironischer* Blick hat mich verlegen gemacht.
+
+  Elle a répondu d'un ton *ironique* à sa question stupide.
+  Sie hat mit *ironischem* Ton auf seine dumme Frage geantwortet.
+
+  Les commentaires *ironiques* de Pierre ont vexé tout le monde.
+  Pierres *ironische* Kommentare haben alle gekränkt.
+
+  C'est un écrivain très *ironique* qui critique la société.
+  Er ist ein sehr *ironischer* Schriftsteller, der die Gesellschaft kritisiert.
+
+  Par un retournement *ironique* du destin, il est devenu ce qu'il détestait le plus.
+  Durch eine *ironische* Wendung des Schicksals ist er genau das geworden, was er am meisten hasste.
+
+  L'allusion *ironique* n'a pas échappé aux spectateurs.
+  Die *ironische* Anspielung ist den Zuschauern nicht entgangen.
+
+  Ce journal est connu pour son style *ironique*.
+  Diese Zeitung ist für ihren *ironischen* Stil bekannt.
+
+  Les propos *ironiques* de ma sœur m'ont fait rire.
+  Die *ironischen* Bemerkungen meiner Schwester haben mich zum Lachen gebracht.
+
+  Son esprit *ironique* fait d'elle une excellente chroniqueuse.
+  Ihr *ironischer* Geist macht sie zu einer ausgezeichneten Kolumnistin.
+
+  Il s'est montré particulièrement *ironique* pendant la réunion.
+  Er zeigte sich während der Besprechung besonders *ironisch*.
+
+  N'est-ce pas *ironique* que tu défendes maintenant ce que tu critiquais hier ?
+  Ist es nicht *ironisch*, dass du jetzt das verteidigst, was du gestern noch kritisiert hast?
+
+  Sa réponse *ironique* a fait rire toute la classe.
+  Seine *ironische* Antwort brachte die ganze Klasse zum Lachen.
+
+  Le destin *ironique* a voulu qu'ils se rencontrent à nouveau.
+  Das *ironische* Schicksal wollte es, dass sie sich wieder begegneten.
+
+  Le journaliste a fait une remarque *ironique* sur la situation politique.
+  Der Journalist machte eine *ironische* Bemerkung zur politischen Situation.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

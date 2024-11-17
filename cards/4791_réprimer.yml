@@ -13,11 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous réprimez ce que vous ressentez.
-  Sie unterdrücken, was Sie fühlen.
+  Vous *réprimez* ce que vous ressentez.
+  Sie *unterdrücken*, was Sie fühlen.
 
-  La police a réprimé la manifestation.
-  Die Polizei hat die Demonstration unterdrückt.
+  Il n'arrivait pas à *réprimer* ses larmes en regardant le film.
+  Er konnte seine Tränen beim Film nicht *zurückhalten*.
+
+  Je ne peux pas *réprimer* un sourire en voyant sa réaction.
+  Ich kann mir ein Lächeln nicht *verkneifen*, als ich seine Reaktion sehe.
+
+  Les autorités ont rapidement *réprimé* la manifestation.
+  Die Behörden haben die Demonstration schnell *niedergeschlagen*.
+
+  Elle essayait de *réprimer* un bâillement pendant la réunion.
+  Sie versuchte während der Besprechung, ein Gähnen zu *unterdrücken*.
+
+  La police a dû *réprimer* les émeutes dans plusieurs quartiers.
+  Die Polizei musste die Unruhen in mehreren Stadtvierteln *niederschlagen*.
+
+  Les tribunaux doivent *réprimer* ces crimes odieux.
+  Die Gerichte müssen diese abscheulichen Verbrechen *ahnden*.
+
+  Marie n'a pas pu *réprimer* son enthousiasme à la nouvelle.
+  Marie konnte ihre Begeisterung über die Nachricht nicht *zurückhalten*.
+
+  L'État a violemment *réprimé* la rébellion.
+  Der Staat hat den Aufstand gewaltsam *niedergeschlagen*.
+
+  Le gouvernement *réprime* systématiquement toute opposition.
+  Die Regierung *unterdrückt* systematisch jede Opposition.
+
+  La loi *réprime* sévèrement ce type de délit.
+  Das Gesetz *ahndet* diese Art von Vergehen streng.
+
+  Il essaie de *réprimer* sa jalousie quand il la voit avec un autre.
+  Er versucht seine Eifersucht zu *unterdrücken*, wenn er sie mit einem anderen sieht.
+
+  Les forces de l'ordre ont *réprimé* la contrebande à la frontière.
+  Die Ordnungskräfte haben den Schmuggel an der Grenze *unterbunden*.
+
+  Thomas n'arrivait plus à *réprimer* son anxiété avant l'examen.
+  Thomas konnte seine Angst vor der Prüfung nicht länger *unterdrücken*.
+
+  La société *réprime* certains comportements jugés déviants.
+  Die Gesellschaft *unterdrückt* bestimmte als abweichend beurteilte Verhaltensweisen.
+
+  Les parents doivent parfois *réprimer* les mauvais comportements de leurs enfants.
+  Eltern müssen manchmal schlechtes Verhalten ihrer Kinder *unterbinden*.
+
+  Le régime a brutalement *réprimé* toute tentative de résistance.
+  Das Regime hat jeden Widerstandsversuch brutal *niedergeschlagen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

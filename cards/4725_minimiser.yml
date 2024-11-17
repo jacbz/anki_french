@@ -13,14 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il tend donc à minimiser le problème.
-  Er tendiert daher dazu, das Problem zu minimieren.
+  Il tend donc à *minimiser* le problème.
+  Er neigt also dazu, das Problem *kleinzureden*.
 
-  Il essaie de minimiser l’importance de l’incident.
-  Er versucht, die Bedeutung des Vorfalls herunterzuspielen.
+  Ne *minimisez* pas vos réussites, vous avez fait un excellent travail !
+  *Spielen* Sie Ihre Erfolge nicht *herunter*, Sie haben ausgezeichnete Arbeit geleistet!
 
-  Il essayait de minimiser la valeur de son adversaire pour le faire paraître moins compétent.
-  Er versuchte, seinen Gegner herabzusetzen, um ihn weniger kompetent erscheinen zu lassen.
+  Les médias tentent de *minimiser* la gravité de la situation.
+  Die Medien versuchen, die Schwere der Situation *herunterzuspielen*.
+
+  Marie a toujours tendance à *minimiser* ses talents artistiques.
+  Marie neigt immer dazu, ihre künstlerischen Talente *kleinzureden*.
+
+  Le directeur a *minimisé* l'importance de l'incident devant la presse.
+  Der Direktor hat die Bedeutung des Vorfalls vor der Presse *heruntergespielt*.
+
+  En *minimisant* son rôle dans le projet, Pierre fait preuve de modestie excessive.
+  Indem Pierre seine Rolle im Projekt *herunterspielt*, zeigt er übertriebene Bescheidenheit.
+
+  Les experts nous conseillent de ne pas *minimiser* les risques du changement climatique.
+  Die Experten raten uns, die Risiken des Klimawandels nicht *kleinzureden*.
+
+  Elle a essayé de *minimiser* la valeur du travail de son collègue.
+  Sie hat versucht, den Wert der Arbeit ihres Kollegen *herabzusetzen*.
+
+  Le gouvernement ne devrait pas *minimiser* l'impact de cette décision.
+  Die Regierung sollte die Auswirkungen dieser Entscheidung nicht *herunterspielen*.
+
+  Thomas *minimise* toujours l'importance de ses problèmes de santé.
+  Thomas *spielt* die Bedeutung seiner gesundheitlichen Probleme immer *herunter*.
+
+  Les parents ne devraient pas *minimiser* les inquiétudes de leurs enfants.
+  Eltern sollten die Sorgen ihrer Kinder nicht *kleinreden*.
+
+  En *minimisant* ces accusations, vous aggravez la situation.
+  Indem Sie diese Anschuldigungen *herunterspielen*, verschlimmern Sie die Situation.
+
+  L'entreprise a tenté de *minimiser* l'ampleur du scandale.
+  Das Unternehmen hat versucht, das Ausmaß des Skandals *kleinzureden*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

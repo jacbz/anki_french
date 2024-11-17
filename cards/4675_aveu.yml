@@ -13,32 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je considère votre silence comme un aveu.
-  Ich betrachte Ihr Schweigen als ein Eingeständnis.
+  Je considère votre silence comme un *aveu*.
+  Ich betrachte Ihr Schweigen als *Geständnis*.
 
-  Il a fait un aveu à la police.
-  Er hat der Polizei ein Geständnis gemacht.
+  Après trois heures d'interrogatoire, il est passé aux *aveux*.
+  Nach drei Stunden Verhör wurde er *geständig*.
 
-  Pierre a fait l'aveu de son crime à la police.
-  Pierre hat der Polizei sein Verbrechen gestanden.
+  De l'*aveu* de tous les experts, c'est la meilleure solution.
+  Nach *Aussage* aller Experten ist das die beste Lösung.
 
-  De l'aveu de Marie, elle était présente sur les lieux du crime.
-  Nach Maries Aussagen war sie am Tatort.
+  Les policiers ont réussi à obtenir des *aveux* complets du suspect.
+  Die Polizisten konnten ein vollständiges *Geständnis* vom Verdächtigen erhalten.
 
-  De son propre aveu, il n'a jamais été à l'école.
-  Nach eigenem Bekunden war er nie in der Schule.
+  Je vais vous faire un *aveu* : je ne sais pas nager.
+  Ich mache Ihnen ein *Geständnis*: Ich kann nicht schwimmen.
 
-  Les policiers ont arraché des aveux au suspect après une longue interrogation.
-  Die Polizisten haben dem Verdächtigen nach einer langen Vernehmung ein Geständnis abgenötigt.
+  Elle a fait l'*aveu* de son amour dans une lettre.
+  Sie hat ihre Liebe in einem Brief *gestanden*.
 
-  Je fais un aveu à toi, mon ami : je n'ai pas tout compris.
-  Ich muss dir etwas gestehen, mein Freund: Ich habe nicht alles verstanden.
+  Les *aveux* spontanés du criminel ont surpris tout le monde.
+  Das freiwillige *Geständnis* des Verbrechers hat alle überrascht.
 
-  Le suspect a fait des aveux complets et spontanés à la police.
-  Der Verdächtige hat der Polizei ein volles und freiwilliges Geständnis abgelegt.
+  Il n'a pas osé faire l'*aveu* de sa défaite à ses parents.
+  Er wagte es nicht, seinen Eltern seine Niederlage zu *gestehen*.
 
-  Le criminel a passé aux aveux après avoir été confronté aux preuves.
-  Der Verbrecher ist geständig geworden, nachdem er mit den Beweisen konfrontiert wurde.
+  La police a arrêté plusieurs hommes sans *aveu* dans le quartier.
+  Die Polizei hat mehrere zwielichtige Personen in der Gegend festgenommen.
+
+  Son *aveu* tardif n'a pas convaincu le jury.
+  Sein spätes *Geständnis* hat die Jury nicht überzeugt.
+
+  Elle lui a fait des tendres *aveux* au clair de lune.
+  Sie machte ihm zärtliche *Liebesgeständnisse* im Mondschein.
+
+  L'*aveu* de son ignorance lui a coûté son poste.
+  Das *Eingeständnis* seiner Unwissenheit kostete ihn seinen Posten.
+
+  Les enquêteurs ont dû arracher des *aveux* au suspect.
+  Die Ermittler mussten dem Verdächtigen ein *Geständnis* abnötigen.
+
+  De l'*aveu* même du directeur, le projet était mal conçu.
+  Nach *Aussage* des Direktors selbst war das Projekt schlecht geplant.
+
+  Il est entré dans la voie des *aveux* dès son arrestation.
+  Er legte direkt nach seiner Verhaftung *Geständnisse* ab.
+
+  L'accusé a rétracté ses *aveux* devant le tribunal.
+  Der Angeklagte hat seine *Geständnisse* vor Gericht widerrufen.
+
+  Je dois vous faire un *aveu* : j'ai perdu vos clés.
+  Ich muss Ihnen etwas *gestehen*: Ich habe Ihre Schlüssel verloren.
+
+  Elle a fait l'*aveu* de ses erreurs avec courage.
+  Sie hat ihre Fehler mutig *eingestanden*.
+
+  Les *aveux* du témoin ont bouleversé le procès.
+  Die *Aussagen* des Zeugen haben den Prozess auf den Kopf gestellt.
+
+  Son *aveu* judiciaire ne peut plus être contesté.
+  Sein gerichtliches *Geständnis* kann nicht mehr angefochten werden.
+
+  De l'*aveu* général, c'était un match extraordinaire.
+  Nach allgemeiner *Einschätzung* war es ein außergewöhnliches Spiel.
+
+  Il a fait des *aveux* complets concernant sa fraude fiscale.
+  Er hat ein vollständiges *Geständnis* bezüglich seines Steuerbetrugs abgelegt.
+
+  Les *aveux* du suspect ont permis de résoudre l'affaire.
+  Die *Geständnisse* des Verdächtigen haben zur Aufklärung des Falls geführt.
+
+  Elle n'a pas attendu son *aveu* pour comprendre ses sentiments.
+  Sie hat nicht auf sein *Geständnis* gewartet, um seine Gefühle zu verstehen.
+
+  Cet *aveu* d'incompétence a choqué ses collègues.
+  Dieses *Eingeständnis* der Inkompetenz hat seine Kollegen schockiert.
+
+  Les *aveux* des conspirateurs ont révélé toute l'ampleur du complot.
+  Die *Geständnisse* der Verschwörer haben das ganze Ausmaß des Komplotts enthüllt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

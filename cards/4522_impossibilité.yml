@@ -13,32 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est une impossibilité physiologique.
-  Dies ist physiologisch nicht möglich.
+  C'est une *impossibilité* physiologique.
+  Das ist eine physiologische *Unmöglichkeit*.
 
-  Il y a une impossibilité de faire cela.
-  Es ist unmöglich, das zu tun.
+  Il y a *impossibilité* logique à ce que deux plus deux fassent cinq.
+  Es ist logisch *unmöglich*, dass zwei plus zwei fünf ergibt.
 
-  La loi interdit de vendre de l'alcool aux mineurs, ce qui constitue une impossibilité juridique.
-  Es ist rechtlich unmöglich, Minderjährigen Alkohol zu verkaufen.
+  Je me trouve dans l'*impossibilité* de vous payer avant la fin du mois.
+  Ich bin *außerstande*, Sie vor Monatsende zu bezahlen.
 
-  L'absence de pluie a rendu impossible la récolte de fruits, ce qui constitue une impossibilité matérielle.
-  Der ausbleibende Regen machte die Ernte von Früchten unmöglich, was eine faktische Unmöglichkeit darstellt.
+  L'*impossibilité* d'une solution pacifique devient de plus en plus évidente.
+  Die *Unmöglichkeit* einer friedlichen Lösung wird immer deutlicher.
 
-  La rupture du contrat a rendu impossible la livraison des marchandises, ce qui constitue une impossibilité ultérieure.
-  Der Vertragsbruch machte die Lieferung der Waren unmöglich, was eine nachträgliche Unmöglichkeit darstellt.
+  La panne de voiture l'a mis dans l'*impossibilité* d'arriver à l'heure.
+  Die Autopanne hat es ihm *unmöglich* gemacht, pünktlich anzukommen.
 
-  Il y a impossibilité à ce que Jean aille au travail, car il est malade.
-  Es ist unmöglich, dass Jean zur Arbeit geht, da er krank ist.
+  Cette *impossibilité* technique nous force à reporter le projet.
+  Diese technische *Unmöglichkeit* zwingt uns, das Projekt zu verschieben.
 
-  Il n'y a aucune impossibilité à ce que Marie termine son projet, car elle a tout le temps nécessaire.
-  Es steht dem nichts im Wege, dass Marie ihr Projekt fertigstellt, da sie genügend Zeit hat.
+  L'*impossibilité* de voyager pendant la pandémie a changé nos plans.
+  Die *Unmöglichkeit* während der Pandemie zu reisen hat unsere Pläne verändert.
 
-  Il est dans l'impossibilité de faire du sport, car il a une blessure au genou.
-  Er ist außerstande, Sport zu treiben, da er eine Knieverletzung hat.
+  Les experts ont confirmé l'*impossibilité* de réparer ce vieux bâtiment.
+  Die Experten haben die *Unmöglichkeit* bestätigt, dieses alte Gebäude zu reparieren.
 
-  La panne de courant a mis Marie dans l'impossibilité de faire cuire son dîner.
-  Der Stromausfall machte es Marie unmöglich, ihr Abendessen zu kochen.
+  Face à l'*impossibilité* de continuer, nous devons trouver une alternative.
+  Angesichts der *Unmöglichkeit* weiterzumachen, müssen wir eine Alternative finden.
+
+  Cette *impossibilité* morale le tourmentait depuis des années.
+  Diese moralische *Unmöglichkeit* quälte ihn seit Jahren.
+
+  L'*impossibilité* matérielle de stocker plus de données nous pose problème.
+  Die faktische *Unmöglichkeit*, mehr Daten zu speichern, bereitet uns Probleme.
+
+  La police l'a mis dans l'*impossibilité* de nuire à nouveau.
+  Die Polizei hat ihn *außerstande* gesetzt, wieder Schaden anzurichten.
+
+  Cette *impossibilité* juridique bloque toute la procédure.
+  Diese rechtliche *Unmöglichkeit* blockiert das gesamte Verfahren.
+
+  Nous nous heurtons à une *impossibilité* administrative.
+  Wir stoßen auf eine administrative *Unmöglichkeit*.
+
+  L'*impossibilité* de communiquer créait beaucoup de confusion.
+  Die *Unmöglichkeit* zu kommunizieren schuf viel Verwirrung.
+
+  Il n'y a aucune *impossibilité* à ce que tu réussisses cet examen.
+  Es steht deinem Erfolg bei dieser Prüfung nichts im *Weg*.
+
+  Son handicap le met dans l'*impossibilité* de monter les escaliers.
+  Seine Behinderung macht es ihm *unmöglich*, Treppen zu steigen.
+
+  L'*impossibilité* d'accéder aux documents pose un sérieux problème.
+  Die *Unmöglichkeit*, auf die Dokumente zuzugreifen, stellt ein ernsthaftes Problem dar.
+
+  Cette *impossibilité* ultérieure n'était pas prévisible au début du contrat.
+  Diese nachträgliche *Unmöglichkeit* war zu Vertragsbeginn nicht vorhersehbar.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

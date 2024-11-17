@@ -13,14 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Traditionnellement, le cadre est un manager.
-  Traditionell ist die Führungskraft ein Manager.
+  *Traditionnellement*, le cadre est un manager.
+  *Üblicherweise* ist eine Führungskraft ein Manager.
 
-  Les plats sont traditionnellement préparés avec des ingrédients frais.
-  Die Gerichte werden traditionsgemäß mit frischen Zutaten zubereitet.
+  Les Japonais mangent *traditionnellement* avec des baguettes.
+  Die Japaner essen *traditionsgemäß* mit Stäbchen.
 
-  Dans ces pays, la fécondité était traditionnellement plus élevée qu'ailleurs.
-  In diesen Ländern war die Fruchtbarkeit traditionsgemäß höher als anderswo.
+  *Traditionnellement*, nous passons les vacances de Noël en famille.
+  *Traditionell* verbringen wir die Weihnachtsferien mit der Familie.
+
+  Cette région est *traditionnellement* connue pour ses fromages.
+  Diese Region ist *von jeher* für ihre Käsesorten bekannt.
+
+  Le repas de Pâques se déroule *traditionnellement* le dimanche midi.
+  Das Osteressen findet *traditionsgemäß* am Sonntagmittag statt.
+
+  Cette entreprise était *traditionnellement* dirigée par des femmes.
+  Dieses Unternehmen wurde *üblicherweise* von Frauen geführt.
+
+  Les mariages durent *traditionnellement* trois jours dans cette culture.
+  Hochzeiten dauern in dieser Kultur *traditionell* drei Tage.
+
+  La cérémonie commence *traditionnellement* au lever du soleil.
+  Die Zeremonie beginnt *nach alter Tradition* bei Sonnenaufgang.
+
+  Ce plat est *traditionnellement* servi avec du vin rouge.
+  Dieses Gericht wird *herkömmlicherweise* mit Rotwein serviert.
+
+  *Traditionnellement*, les enfants reçoivent leurs cadeaux le 24 décembre.
+  *Traditionsgemäß* bekommen die Kinder ihre Geschenke am 24. Dezember.
+
+  Cette fête est *traditionnellement* célébrée au printemps.
+  Dieses Fest wird *traditionell* im Frühling gefeiert.
+
+  Le marché se tient *traditionnellement* le dimanche matin.
+  Der Markt findet *wie üblich* am Sonntagmorgen statt.
+
+  Ces gâteaux sont *traditionnellement* préparés pour Noël.
+  Diese Plätzchen werden *traditionsgemäß* für Weihnachten gebacken.
+
+  Les vendanges commencent *traditionnellement* en septembre.
+  Die Weinlese beginnt *üblicherweise* im September.
+
+  Cette région vote *traditionnellement* à gauche.
+  Diese Region wählt *traditionell* links.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

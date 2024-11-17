@@ -13,11 +13,38 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mon papa est le roi du savoir-faire!
-  Mein Papa ist der König des Wissens!
+  Mon papa est le roi du *savoir-faire* !
+  Mein Papa ist der König des *Know-hows* !
 
-  Elle a un grand savoir-faire en cuisine.
-  Sie hat großes Geschick in der Küche.
+  Le *savoir-faire* de cette entreprise est reconnu dans le monde entier.
+  Das *Know-how* dieser Firma ist weltweit anerkannt.
+
+  Notre équipe possède un *savoir-faire* unique dans ce domaine.
+  Unser Team verfügt über ein einzigartiges *Know-how* in diesem Bereich.
+
+  Pour réussir dans ce métier, il faut un certain *savoir-faire*.
+  Um in diesem Beruf erfolgreich zu sein, braucht man ein gewisses *Know-how*.
+
+  Le *savoir-faire* se transmet souvent de génération en génération.
+  Das *Know-how* wird oft von Generation zu Generation weitergegeben.
+
+  Ces artisans ont développé leur *savoir-faire* pendant des années.
+  Diese Handwerker haben ihr *Know-how* über Jahre hinweg entwickelt.
+
+  Grâce à son *savoir-faire*, elle a rapidement gravi les échelons.
+  Dank ihres *Know-hows* ist sie schnell die Karriereleiter hochgeklettert.
+
+  Le transfert de *savoir-faire* est essentiel pour former les nouveaux employés.
+  Der Transfer von *Know-how* ist wichtig für die Ausbildung neuer Mitarbeiter.
+
+  Son *savoir-faire* technique impressionne tous ses collègues.
+  Sein technisches *Know-how* beeindruckt alle seine Kollegen.
+
+  C'est un expert qui a acquis son *savoir-faire* sur le terrain.
+  Er ist ein Experte, der sein *Know-how* in der Praxis erworben hat.
+
+  Le *savoir-faire* artisanal est menacé par l'industrialisation.
+  Das handwerkliche *Know-how* ist durch die Industrialisierung bedroht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

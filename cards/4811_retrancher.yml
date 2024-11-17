@@ -13,29 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Son air passif la retranchait du monde.
-  Ihr passiver Gesichtsausdruck schnitt sie von der Welt ab.
+  Son air passif la *retranchait* du monde.
+  Ihre passive Art *grenzte* sie von der Welt ab.
 
-  Il faut retrancher les frais de transport.
-  Die Transportkosten müssen abgezogen werden.
+  Le comptable a *retranché* 500 euros de mon salaire.
+  Der Buchhalter hat 500 Euro von meinem Gehalt *abgezogen*.
 
-  Le commerçant a retranché une somme de cinq euros du prix total.
-  Der Händler hat vom Gesamtpreis fünf Euro abgezogen.
+  Les soldats se sont *retranchés* derrière les barricades.
+  Die Soldaten haben sich hinter den Barrikaden *verschanzt*.
 
-  Les soldats se sont retranchés dans la forteresse pour se défendre.
-  Die Soldaten haben sich in der Festung verschanzt, um sich zu verteidigen.
+  Je dois *retrancher* ce passage du manuscrit.
+  Ich muss diese Passage aus dem Manuskript *streichen*.
 
-  Ce vieil homme préfère vivre retranché dans sa petite maison à la campagne.
-  Dieser alte Mann lebt lieber zurückgezogen in seinem kleinen Haus auf dem Land.
+  Il s'est *retranché* dans un silence obstiné après la dispute.
+  Er hat sich nach dem Streit in hartnäckiges Schweigen *zurückgezogen*.
 
-  Le député s'est retranché derrière la loi pour éviter de répondre aux questions des journalistes.
-  Der Abgeordnete hat sich hinter dem Gesetz verschanzt, um den Fragen der Journalisten auszuweichen.
+  L'éditeur a *retranché* plusieurs chapitres du livre original.
+  Der Verleger hat mehrere Kapitel aus dem Originalbuch *gestrichen*.
 
-  L'éditeur a retranché un mot de la phrase pour la rendre plus concise.
-  Der Herausgeber hat ein Wort aus dem Satz gestrichen, um ihn prägnanter zu gestalten.
+  Pour calculer le bénéfice net, il faut *retrancher* les frais.
+  Um den Nettogewinn zu berechnen, muss man die Kosten *abziehen*.
 
-  Après la mort de son mari, elle s'est retranchée dans sa douleur et a refusé de voir qui auch immer.
-  Nach dem Tod ihres Mannes hat sie sich in ihren Schmerz zurückgezogen und sich geweigert, irgendjemanden zu sehen.
+  Les rebelles se sont *retranchés* dans les montagnes.
+  Die Rebellen haben sich in den Bergen *verschanzt*.
+
+  Elle s'est *retranchée* derrière le secret professionnel.
+  Sie hat sich hinter der beruflichen Schweigepflicht *verschanzt*.
+
+  Le professeur a *retranché* deux points pour les fautes d'orthographe.
+  Der Lehrer hat für die Rechtschreibfehler zwei Punkte *abgezogen*.
+
+  Depuis son divorce, il vit *retranché* dans sa maison.
+  Seit seiner Scheidung lebt er *zurückgezogen* in seinem Haus.
+
+  L'armée s'est *retranchée* derrière le fleuve.
+  Die Armee hat sich hinter dem Fluss *verschanzt*.
+
+  Le réalisateur a dû *retrancher* plusieurs scènes du film.
+  Der Regisseur musste mehrere Szenen aus dem Film *herausschneiden*.
+
+  Pour simplifier l'équation, il faut *retrancher* x des deux côtés.
+  Um die Gleichung zu vereinfachen, muss man x von beiden Seiten *abziehen*.
+
+  Elle s'est *retranchée* dans sa douleur après la perte de son mari.
+  Sie hat sich nach dem Verlust ihres Mannes in ihren Schmerz *zurückgezogen*.
+
+  Le comité a *retranché* son nom de la liste des candidats.
+  Das Komitee hat seinen Namen von der Kandidatenliste *gestrichen*.
+
+  Les troupes se sont *retranchées* dans une position défensive.
+  Die Truppen haben sich in einer defensiven Position *verschanzt*.
+
+  L'architecte a *retranché* cet élément du design original.
+  Der Architekt hat dieses Element aus dem ursprünglichen Design *entfernt*.
+
+  Il s'est *retranché* derrière l'autorité de son supérieur.
+  Er hat sich hinter der Autorität seines Vorgesetzten *verschanzt*.
+
+  Le banquier a *retranché* les frais bancaires du montant total.
+  Der Banker hat die Bankgebühren vom Gesamtbetrag *abgezogen*.
+
+  Les assiégés se sont *retranchés* dans la citadelle.
+  Die Belagerten haben sich in der Zitadelle *verschanzt*.
+
+  Le correcteur a *retranché* les passages redondants du texte.
+  Der Korrektor hat die überflüssigen Passagen aus dem Text *gestrichen*.
+
+  Marie s'est *retranchée* derrière des excuses peu convaincantes.
+  Marie hat sich hinter wenig überzeugenden Ausreden *verschanzt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

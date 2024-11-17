@@ -13,11 +13,47 @@ Register: ↘Fiktion ↗Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La multinationale néerlandaise a annoncé de nouvelles pertes.
-  Das niederländische multinationale Unternehmen gab weitere Verluste bekannt.
+  La multinationale *néerlandaise* a annoncé de nouvelles pertes.
+  Der *niederländische* Konzern hat neue Verluste bekannt gegeben.
 
-  Je parle néerlandais.
-  Ich spreche Niederländisch.
+  Le *néerlandais* est ma langue maternelle, mais je parle aussi français.
+  *Niederländisch* ist meine Muttersprache, aber ich spreche auch Französisch.
+
+  Les musées *néerlandais* exposent de nombreux chefs-d'œuvre.
+  Die *niederländischen* Museen stellen viele Meisterwerke aus.
+
+  Marie apprend le *néerlandais* depuis trois ans.
+  Marie lernt seit drei Jahren *Niederländisch*.
+
+  Un ministre *néerlandais* visitera Paris la semaine prochaine.
+  Ein *niederländischer* Minister wird nächste Woche Paris besuchen.
+
+  Les *Néerlandais* sont connus pour leur talent commercial.
+  Die *Niederländer* sind für ihr Handelsgeschick bekannt.
+
+  Cette *Néerlandaise* vit à Bruxelles depuis vingt ans.
+  Diese *Niederländerin* lebt seit zwanzig Jahren in Brüssel.
+
+  Le *néerlandais* est une langue officielle en Belgique.
+  *Niederländisch* ist eine Amtssprache in Belgien.
+
+  L'économie *néerlandaise* a connu une forte croissance.
+  Die *niederländische* Wirtschaft verzeichnete ein starkes Wachstum.
+
+  Les étudiants pratiquent le *néerlandais* en petits groupes.
+  Die Studenten üben in kleinen Gruppen *Niederländisch*.
+
+  Mon voisin *néerlandais* fait du vélo tous les jours.
+  Mein *niederländischer* Nachbar fährt jeden Tag Fahrrad.
+
+  Le gouvernement *néerlandais* a adopté une nouvelle loi.
+  Die *niederländische* Regierung hat ein neues Gesetz verabschiedet.
+
+  Cette université propose des cours de *néerlandais* intensifs.
+  Diese Universität bietet intensive *Niederländisch*kurse an.
+
+  Les produits *néerlandais* sont très appréciés à l'étranger.
+  *Niederländische* Produkte sind im Ausland sehr beliebt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

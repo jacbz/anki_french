@@ -13,11 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’étais impliqué aussi bien directement qu’indirectement.
-  Ich war sowohl direkt als auch indirekt beteiligt.
+  J'étais impliqué aussi bien directement qu'*indirectement*.
+  Ich war sowohl direkt als auch *indirekt* beteiligt.
 
-  Il a réussi à obtenir le poste indirectement.
-  Er hat die Stelle auf indirekter Weise bekommen.
+  Le son nous parvient *indirectement* à travers les murs.
+  Der Schall erreicht uns *indirekt* durch die Wände.
+
+  Cette remarque s'adressait *indirectement* à Pierre.
+  Diese Bemerkung war *indirekt* an Pierre gerichtet.
+
+  Elle a *indirectement* contribué au succès du projet.
+  Sie hat *indirekt* zum Erfolg des Projekts beigetragen.
+
+  Je n'ai appris la nouvelle qu'*indirectement*, par une collègue.
+  Ich habe die Nachricht nur *indirekt* durch eine Kollegin erfahren.
+
+  L'accident a *indirectement* causé la fermeture de l'usine.
+  Der Unfall hat *indirekt* zur Schließung der Fabrik geführt.
+
+  Il cherche *indirectement* à obtenir mon aide.
+  Er versucht *auf indirektem Weg*, meine Hilfe zu bekommen.
+
+  Ces changements nous affectent tous *indirectement*.
+  Diese Veränderungen betreffen uns alle *indirekt*.
+
+  La pollution influence *indirectement* notre santé.
+  Die Verschmutzung beeinflusst unsere Gesundheit *indirekt*.
+
+  Marie m'a *indirectement* fait comprendre qu'elle était déçue.
+  Marie hat mir *indirekt* zu verstehen gegeben, dass sie enttäuscht war.
+
+  Les médias ont *indirectement* influencé le vote.
+  Die Medien haben die Abstimmung *indirekt* beeinflusst.
+
+  Il m'a *indirectement* avoué ses intentions.
+  Er hat mir seine Absichten *indirekt* gestanden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,23 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il est facile d’imputer aux autres sa propre mauvaise volonté.
-  Es ist leicht, anderen den eigenen Unwillen zu unterstellen.
+  Il est facile d'*imputer* aux autres sa propre mauvaise volonté.
+  Es ist leicht, den anderen die eigene Böswilligkeit *zuzuschreiben*.
 
-  Je ne peux pas vous imputer la faute.
-  Ich kann Ihnen den Fehler nicht zuschreiben.
+  La police a *imputé* le crime à un groupe de malfaiteurs.
+  Die Polizei hat das Verbrechen einer Gruppe von Verbrechern *zugeschrieben*.
 
-  Le professeur a imputé la faute à l'élève, qui n'avait pas fait ses devoirs.
-  Der Lehrer hat den Fehler dem Schüler zugeschrieben, der seine Hausaufgaben nicht gemacht hatte.
+  Ces dépenses seront *imputées* sur le budget de l'année prochaine.
+  Diese Ausgaben werden auf das Budget des nächsten Jahres *angerechnet*.
 
-  On a imputé la construction du nouveau stade à un budget de 100 millions d'euros.
-  Die Konstruktion des neuen Stadions wurde auf einen Etat von 100 Millionen Euro angerechnet.
+  Le patron s'est *imputé* la responsabilité de l'échec du projet.
+  Der Chef hat sich die Verantwortung für das Scheitern des Projekts selbst *zugeschrieben*.
 
-  L'équipe a imputé sa défaite à un mauvais arbitrage.
-  Die Mannschaft hat ihre Niederlage auf eine schlechte Schiedsrichterleistung zurückgeführt.
+  Les frais de transport doivent être *imputés* sur les frais généraux.
+  Die Transportkosten müssen bei den Gemeinkosten *verbucht* werden.
 
-  Les frais de déplacement ont été imputés sur les frais généraux de l'entreprise.
-  Die Reisekosten wurden bei den Gemeinkosten des Unternehmens verbucht.
+  Pourquoi *imputer* à la malchance ce qui est de ta faute ?
+  Warum willst du dem Pech *zuschreiben*, was deine Schuld ist?
+
+  L'erreur a été faussement *imputée* à mon collègue.
+  Der Fehler wurde fälschlicherweise meinem Kollegen *zugeschrieben*.
+
+  Les deux équipes s'*imputaient* mutuellement la responsabilité de l'accident.
+  Beide Teams haben sich gegenseitig die Verantwortung für den Unfall *zugeschoben*.
+
+  Comment peut-on *imputer* à crime un simple oubli ?
+  Wie kann man ein einfaches Vergessen als Verbrechen *anrechnen*?
+
+  L'acompte sera *imputé* sur le montant total de la facture.
+  Die Anzahlung wird auf den Gesamtbetrag der Rechnung *angerechnet*.
+
+  Le déficit peut être *imputé* à la mauvaise gestion.
+  Das Defizit kann auf die schlechte Verwaltung *zurückgeführt* werden.
+
+  Nous devons *imputer* ces coûts au département marketing.
+  Wir müssen diese Kosten der Marketingabteilung *zurechnen*.
+
+  À qui peut-on *imputer* la responsabilité de cette catastrophe ?
+  Wem kann man die Verantwortung für diese Katastrophe *zuschreiben*?
+
+  Les dommages ont été *imputés* aux conditions météorologiques.
+  Die Schäden wurden den Wetterbedingungen *zugeschrieben*.
+
+  Cette somme sera *imputée* sur votre prochain versement.
+  Dieser Betrag wird von Ihrer nächsten Zahlung *abgezogen*.
+
+  Le tribunal a *imputé* la négligence à l'entreprise.
+  Das Gericht hat dem Unternehmen die Fahrlässigkeit *angelastet*.
+
+  On ne peut pas *imputer* tous nos problèmes à la situation économique.
+  Man kann nicht all unsere Probleme der wirtschaftlichen Situation *zuschreiben*.
+
+  Les pertes seront *imputées* sur les bénéfices de l'exercice.
+  Die Verluste werden vom Jahresgewinn *abgezogen*.
+
+  La défaite a été *imputée* au manque de préparation.
+  Die Niederlage wurde auf mangelnde Vorbereitung *zurückgeführt*.
+
+  Cette dépense doit être *imputée* au compte des investissements.
+  Diese Ausgabe muss dem Investitionskonto *zugerechnet* werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

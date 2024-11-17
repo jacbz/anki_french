@@ -13,11 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il y a de rigides paramètres en place.
-  Es gibt starre Einstellungen an Ort und Stelle.
+  Il y a de *rigides* paramètres en place.
+  Es gibt *starre* Parameter, die eingehalten werden müssen.
 
-  Il est rigide dans ses opinions.
-  Er ist in seinen Ansichten unflexibel.
+  Les bambous ont des tiges *rigides* qui ne plient pas facilement.
+  Bambus hat *steife* Stängel, die sich nicht leicht biegen lassen.
+
+  Cette table est fabriquée avec une armature *rigide* en acier.
+  Dieser Tisch ist mit einem *steifen* Stahlgestell gefertigt.
+
+  Le livre est disponible en couverture *rigide* ou souple.
+  Das Buch gibt es mit *festem* oder weichem Einband.
+
+  Cette plaque métallique est trop *rigide* pour être courbée à la main.
+  Diese Metallplatte ist zu *steif*, um sie von Hand zu biegen.
+
+  Le professeur maintient une discipline *rigide* dans sa classe.
+  Der Lehrer hält eine *strenge* Disziplin in seiner Klasse aufrecht.
+
+  Son éducation *rigide* ne lui permettait pas de s'amuser.
+  Seine *strenge* Erziehung erlaubte ihm nicht, Spaß zu haben.
+
+  Les règles du jeu sont très *rigides* et ne peuvent pas être modifiées.
+  Die Spielregeln sind sehr *starr* und können nicht geändert werden.
+
+  Ce juge *rigide* n'accepte aucune exception à la loi.
+  Dieser *unnachgiebige* Richter akzeptiert keine Ausnahmen vom Gesetz.
+
+  Marie garde toujours une posture très *rigide* pendant les réunions.
+  Marie behält während der Besprechungen immer eine sehr *steife* Haltung.
+
+  Le carton *rigide* protège bien le contenu du colis.
+  Der *feste* Karton schützt den Inhalt des Pakets gut.
+
+  Mon grand-père était un moraliste *rigide* qui jugeait tout le monde.
+  Mein Großvater war ein *strenger* Moralist, der über alle urteilte.
+
+  L'étui *rigide* empêche les lunettes de se casser.
+  Das *harte* Etui verhindert, dass die Brille zerbricht.
+
+  Le système économique est devenu trop *rigide* pour s'adapter rapidement.
+  Das Wirtschaftssystem ist zu *starr* geworden, um sich schnell anzupassen.
+
+  Cette barre de fer *rigide* ne peut pas être pliée.
+  Diese *starre* Eisenstange kann nicht gebogen werden.
+
+  Son attitude *rigide* a créé des tensions dans l'équipe.
+  Seine *unnachgiebige* Haltung hat im Team für Spannungen gesorgt.
+
+  Il a un esprit tellement *rigide* qu'il refuse tout changement.
+  Er hat einen so *starren* Geist, dass er jede Veränderung ablehnt.
+
+  La lame *rigide* du couteau ne se plie pas pendant la coupe.
+  Die *steife* Messerklinge biegt sich beim Schneiden nicht.
+
+  Cette structure semi-*rigide* offre un bon compromis.
+  Diese halb*starre* Struktur bietet einen guten Kompromiss.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,29 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Une telle traduction représente un travail intensif.
-  Eine solche Übersetzung stellt eine intensive Arbeit dar.
+  Une telle traduction représente un travail *intensif*.
+  Eine solche Übersetzung stellt eine *intensive* Arbeit dar.
 
-  Cours de français intensif.
-  Intensiver Französischkurs.
+  Les enfants suivent des cours d'anglais *intensifs* pendant l'été.
+  Die Kinder besuchen im Sommer *intensive* Englischkurse.
 
-  Ils ont suivi un séminaire intensif de deux semaines pour apprendre à coder.
-  Sie haben ein zweitägiges Kompaktseminar besucht, um das Programmieren zu lernen.
+  L'*élevage intensif* des poulets pose des questions éthiques.
+  Die *Intensiv*haltung von Hühnern wirft ethische Fragen auf.
 
-  La culture intensive permet de produire des fruits et légumes en grande quantité.
-  Intensivanbau ermöglicht es, große Mengen an Obst und Gemüse zu produzieren.
+  Il suit un traitement *intensif* pour guérir rapidement.
+  Er macht eine *Intensiv*kur, um schnell gesund zu werden.
 
-  "Fantastique" est un mot intensif qui exprime une grande admiration.
-  "Fantastisch" ist ein verstärkendes Wort, das große Bewunderung ausdrückt.
+  La *culture intensive* du maïs nécessite beaucoup d'eau.
+  Der *Intensiv*anbau von Mais benötigt viel Wasser.
 
-  Après une blessure, il a suivi un traitement intensif pour récupérer rapidement.
-  Nach einer Verletzung hat er eine Intensivkur absolviert, um schnell wieder gesund zu werden.
+  Cette formation *intensive* dure trois semaines.
+  Diese *intensive* Ausbildung dauert drei Wochen.
 
-  L'élevage intensif est critiqué pour ses conditions de vie souvent difficiles pour les animaux.
-  Die Intensivhaltung wird für ihre oft schlechten Lebensbedingungen für die Tiere kritisiert.
+  Le patient est transféré aux soins *intensifs*.
+  Der Patient wird auf die *Intensiv*station verlegt.
 
-  "Adorer" est un verbe intensif qui exprime un grand amour.
-  "Lieben" ist ein intensives Verb, das große Liebe ausdrückt.
+  Le mot « hyper » est un préfixe *intensif*.
+  Das Wort "hyper" ist ein *verstärkendes* Wort.
+
+  La police mène une recherche *intensive* du suspect.
+  Die Polizei führt eine *intensive* Suche nach dem Verdächtigen durch.
+
+  Son entraînement *intensif* a porté ses fruits.
+  Sein *intensives* Training hat sich ausgezahlt.
+
+  Le gouvernement a lancé une propagande *intensive*.
+  Die Regierung hat eine *massive* Propaganda gestartet.
+
+  Cette méthode requiert une concentration *intensive*.
+  Diese Methode erfordert *intensive* Konzentration.
+
+  Le stage *intensif* de yoga l'a beaucoup aidée.
+  Das *Intensiv*seminar in Yoga hat ihr sehr geholfen.
+
+  L'agriculture *intensive* peut épuiser les sols.
+  Die *intensive* Landwirtschaft kann die Böden erschöpfen.
+
+  La thérapie *intensive* a duré six mois.
+  Die *Intensiv*therapie dauerte sechs Monate.
+
+  Un séminaire *intensif* est prévu pour la semaine prochaine.
+  Nächste Woche ist ein *Kompakt*seminar geplant.
+
+  L'adverbe « très » est un mot *intensif*.
+  Das Adverb "sehr" ist ein *Verstärkungs*wort.
+
+  Cette région pratique l'agriculture *intensive*.
+  Diese Region betreibt *intensive* Landwirtschaft.
+
+  Le verbe « hurler » est *intensif* par rapport à « crier ».
+  Das Verb "brüllen" ist im Vergleich zu "schreien" ein *intensives* Verb.
+
+  Elle suit des séances *intensives* de kinésithérapie.
+  Sie macht *intensive* Physiotherapiesitzungen.
+
+  La production *intensive* a des conséquences environnementales.
+  Die *intensive* Produktion hat Folgen für die Umwelt.
+
+  Un nettoyage *intensif* du site est nécessaire.
+  Eine *gründliche* Reinigung des Geländes ist notwendig.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

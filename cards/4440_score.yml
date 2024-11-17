@@ -13,17 +13,47 @@ Register: ↘Fiktion
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est vrai que les bons scores me font plaisir.
-  Es stimmt, dass ich mich über gute Punktzahlen freue.
+  C'est vrai que les bons *scores* me font plaisir.
+  Es stimmt, dass mir gute *Ergebnisse* Freude bereiten.
 
-  Le score est de 2 à 1.
-  Der Punktestand ist 2 zu 1.
+  Le *score* est resté nul pendant toute la première mi-temps.
+  Der *Spielstand* blieb die ganze erste Halbzeit bei null.
 
-  L'équipe rouge mène au score de 3 à 1.
-  Die rote Mannschaft liegt mit 3:1 in Führung.
+  Pendant le match d'hier, notre équipe menait au *score* jusqu'à la dernière minute.
+  Während des gestrigen Spiels lag unser Team bis zur letzten Minute in *Führung*.
 
-  Le score électoral a été serré, mais finalement, le parti vert a remporté la majorité des voix.
-  Das Wahlergebnis war knapp, aber schließlich hat die Grüne Partei die Mehrheit der Stimmen gewonnen.
+  Son meilleur *score* au tennis est de 6-0, 6-0.
+  Ihr bestes *Ergebnis* im Tennis ist 6-0, 6-0.
+
+  L'équipe locale a ouvert le *score* à la dixième minute.
+  Die Heimmannschaft erzielte den ersten *Punkt* in der zehnten Minute.
+
+  Le *score* final du match était de 3-2 pour les visiteurs.
+  Das End*ergebnis* des Spiels war 3-2 für die Gäste.
+
+  Les sondages prédisent un *score* impressionnant pour ce candidat.
+  Die Umfragen sagen für diesen Kandidaten ein beeindruckendes *Wahlergebnis* voraus.
+
+  Le *score* obtenu lors du test déterminera ton niveau de français.
+  Das *Ergebnis*, das du im Test erzielst, wird dein Französischniveau bestimmen.
+
+  Au bowling, Pierre a réalisé un *score* parfait de trois cents points.
+  Beim Bowling hat Pierre das perfekte *Ergebnis* von dreihundert Punkten erzielt.
+
+  Le *score* électoral du parti a dépassé toutes les attentes.
+  Das *Wahlergebnis* der Partei hat alle Erwartungen übertroffen.
+
+  L'arbitre a vérifié le *score* avant de siffler la fin du match.
+  Der Schiedsrichter überprüfte den *Spielstand*, bevor er das Spiel abpfiff.
+
+  Le *score* du match sera affiché sur le grand écran.
+  Der *Spielstand* wird auf der großen Leinwand angezeigt.
+
+  Je note toujours mes *scores* après chaque partie de golf.
+  Ich notiere immer meine *Ergebnisse* nach jeder Golfrunde.
+
+  Le commentateur a annoncé le *score* en direct à la radio.
+  Der Kommentator gab den *Spielstand* live im Radio durch.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

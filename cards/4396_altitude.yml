@@ -9,20 +9,72 @@ Femininum / Plural: ''
 IPA: \al.ti.tyd\
 Definition: Höhe
 Register: ↗Sachtext ↘Mündlich
-Beispielsätze: "Il a plu à basse altitude.\nEs regnete in niedrigen Höhen.\n\nL’avion\
-  \ a atteint une altitude de 10 000 mètres.\nDas Flugzeug hat eine Höhe von 10.000\
-  \ Metern erreicht.\n\nL'altitude de ce mont est de 400 m.\nDieser Berg ist 400 m\
-  \ hoch.\n\nIl a fait une randonnée en altitude.\nEr hat eine Wanderung im Gebirge\
-  \ gemacht. \n\nLe village est situé à 400 m d'altitude.\nDas Dorf befindet sich\
-  \ in 400 m Höhe.\n\nLes plaines ont une faible altitude.\nDie Ebenen liegen niedrig.\n\
-  \nL'avion a volé à basse altitude au-dessus de la ville.\nDas Flugzeug flog in geringer\
-  \ Höhe über die Stadt.\n\nLe ballon a atteint une altitude de 2000 mètres.\nDer\
-  \ Ballon hat eine Höhe von 2000 Metern erreicht.\n\nLe parapente a perdu de l'altitude\
-  \ et a atterri dans un champ.\nDer Gleitschirmflieger hat an Höhe verloren und ist\
-  \ auf einem Feld gelandet.\n\nL'oiseau s'élève en altitude pour observer le paysage.\n\
-  Der Vogel steigt auf, um die Landschaft zu beobachten.\n\nL'avion a une altitude\
-  \ de vol de 9 000 m.\nDas Flugzeug hat eine Flughöhe von 9000 m.\n\nL'air en altitude\
-  \ est plus rare.\nDie Höhenluft ist dünner."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Il a plu à basse *altitude*.
+  Es hat in niedriger *Höhe* geregnet.
+
+  L'*altitude* du Mont Blanc est de 4808 mètres.
+  Die *Höhe* des Mont Blanc beträgt 4808 Meter.
+
+  Notre village se trouve à 1200 mètres d'*altitude*.
+  Unser Dorf liegt in 1200 Meter *Höhe*.
+
+  L'avion vole à haute *altitude* pour éviter les turbulences.
+  Das Flugzeug fliegt in großer *Höhe*, um Turbulenzen zu vermeiden.
+
+  Le pilote a dû prendre de l'*altitude* rapidement.
+  Der Pilot musste schnell an *Höhe* gewinnen.
+
+  À cause des problèmes techniques, l'hélicoptère perdait de l'*altitude*.
+  Wegen technischer Probleme verlor der Hubschrauber an *Höhe*.
+
+  Cette ville a une faible *altitude*.
+  Diese Stadt liegt *höhen*mäßig niedrig.
+
+  La pression atmosphérique diminue avec l'*altitude*.
+  Der Luftdruck nimmt mit zunehmender *Höhe* ab.
+
+  Ils ont construit un nouveau refuge en *altitude*.
+  Sie haben eine neue Berghütte in *Höhen*lage gebaut.
+
+  L'air en *altitude* est plus pur qu'en ville.
+  Die *Höhen*luft ist reiner als in der Stadt.
+
+  Les skieurs préfèrent les stations d'*altitude*.
+  Die Skifahrer bevorzugen *Höhen*stationen.
+
+  En *altitude*, la végétation devient plus rare.
+  In größerer *Höhe* wird die Vegetation spärlicher.
+
+  L'*altitude* de vol recommandée est de 10000 mètres.
+  Die empfohlene Flug*höhe* beträgt 10000 Meter.
+
+  Les alpinistes s'élèvent progressivement en *altitude*.
+  Die Bergsteiger steigen allmählich in die *Höhe*.
+
+  Cette jolie petite ville en *altitude* attire beaucoup de touristes.
+  Dieses hübsche Städtchen in *Höhen*lage zieht viele Touristen an.
+
+  Les nuages se forment à différentes *altitudes*.
+  Die Wolken bilden sich in verschiedenen *Höhen*.
+
+  L'avion militaire maintient une *altitude* constante.
+  Das Militärflugzeug hält eine konstante *Höhe*.
+
+  Les randonneurs se sont bien adaptés à l'*altitude*.
+  Die Wanderer haben sich gut an die *Höhe* angepasst.
+
+  Le drone s'est stabilisé à une *altitude* de 100 mètres.
+  Die Drohne hat sich auf einer *Höhe* von 100 Metern stabilisiert.
+
+  En *altitude*, vous rencontrerez un vent plus fort.
+  In größerer *Höhe* werden Sie auf stärkeren Wind treffen.
+
+  Les températures baissent considérablement avec l'*altitude*.
+  Die Temperaturen sinken beträchtlich mit zunehmender *Höhe*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

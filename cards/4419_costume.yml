@@ -13,47 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Voici un très beau costume, en pure laine.
-  Dies ist ein sehr schöner Anzug aus reiner Wolle.
+  Voici un très beau *costume*, en pure laine.
+  Das ist ein sehr schöner *Anzug* aus reiner Wolle.
 
-  Il porte un costume pour son entretien d’embauche.
-  Er trägt einen Anzug für sein Vorstellungsgespräch.
+  Pour son entretien d'embauche, Thomas a acheté un *costume* sur mesure.
+  Für sein Vorstellungsgespräch hat sich Thomas einen maßgeschneiderten *Anzug* gekauft.
 
-  Ce costume te va bien.
-  Der Anzug steht dir gut.
+  Mon *costume* trois pièces est parfait pour le mariage de ma sœur.
+  Mein dreiteiliger *Anzug* ist perfekt für die Hochzeit meiner Schwester.
 
-  Vos chaussures ne vont pas avec ce costume.
-  Ihre Schuhe passen nicht zu diesem Anzug.
+  Les enfants portaient des *costumes* traditionnels pour la fête du village.
+  Die Kinder trugen traditionelle *Trachten* zum Dorffest.
 
-  Il a acheté un costume de confection, car il n'a pas le temps de faire faire un costume sur mesure.
-  Er hat einen Konfektionsanzug gekauft, weil er keine Zeit hat, sich einen Maßanzug anfertigen zu lassen.
+  Le petit garçon adore son *costume* marin.
+  Der kleine Junge liebt seinen Matrosen*anzug*.
 
-  Il a fait une blague en étant en costume d'Adam dans le jardin.
-  Er hat einen Witz gemacht, indem er im Adams-Kostüm im Garten herumgelaufen ist.
+  Les acteurs essaient leurs *costumes* de scène avant la première.
+  Die Schauspieler probieren vor der Premiere ihre Bühnen*kostüme* an.
 
-  Les Suisses portent souvent leur costume national lors des fêtes traditionnelles.
-  Die Schweizer tragen oft ihre Nationaltracht bei traditionellen Festen.
+  Julie a choisi un magnifique *costume* de princesse pour le carnaval.
+  Julie hat für den Karneval ein wunderschönes Prinzessinnen*kostüm* ausgewählt.
 
-  Il était en costume d'apparat pour le mariage de sa sœur.
-  Er war in festlicher Kleidung für die Hochzeit seiner Schwester.
+  Ce *costume* deux pièces te va parfaitement.
+  Dieser zweiteilige *Anzug* steht dir perfekt.
 
-  Le bal en costume a été un grand succès.
-  Der Kostümball war ein großer Erfolg.
+  Pierre porte toujours le même *costume* du dimanche à l'église.
+  Pierre trägt in der Kirche immer denselben Sonntags*anzug*.
 
-  Il porte un costume deux pièces tous les jours au bureau.
-  Er trägt jeden Tag einen zweiteiligen Anzug im Büro.
+  Les danseurs répètent en *costume* pour la générale.
+  Die Tänzer proben in *Kostümen* für die Generalprobe.
 
-  Un costume trois pièces est très élégant pour les occasions spéciales.
-  Ein dreiteiliger Anzug ist sehr elegant für besondere Anlässe.
+  Mon grand-père conserve précieusement son *costume* de chasse.
+  Mein Großvater bewahrt seinen Jagd*anzug* sorgsam auf.
 
-  Il met toujours son costume du dimanche pour aller à l'église.
-  Er zieht immer seinen Sonntagsanzug an, wenn er in die Kirche geht.
+  Le musée expose des *costumes* d'époque du XVIIIe siècle.
+  Das Museum stellt *Kostüme* aus dem 18. Jahrhundert aus.
 
-  Les enfants étaient en costume marin pour la fête de la mer.
-  Die Kinder waren in Matrosenanzügen für das Meeresfest.
+  As-tu déjà choisi ton *costume* pour le bal masqué ?
+  Hast du dein *Kostüm* für den Maskenball schon ausgesucht?
 
-  Il a acheté un costume de chasse pour son voyage en Afrique.
-  Er hat sich einen Jagdanzug für seine Reise nach Afrika gekauft.
+  Les membres du jury portaient leur *costume* de cérémonie.
+  Die Jurymitglieder trugen ihre Zeremonien*kleidung*.
+
+  Son *costume* de confection lui donne une allure très professionnelle.
+  Sein Konfektions*anzug* gibt ihm ein sehr professionelles Aussehen.
+
+  Ce film historique nécessite plus de cent *costumes* différents.
+  Dieser historische Film benötigt über hundert verschiedene *Kostüme*.
+
+  Le petit Nicolas a mis son *costume* d'Arlequin pour la fête.
+  Der kleine Nicolas hat sein Harlekin*kostüm* für die Feier angezogen.
+
+  Les touristes admirent les *costumes* nationaux exposés au musée.
+  Die Touristen bewundern die National*trachten* im Museum.
+
+  Marc a fait retoucher son *costume* chez le tailleur.
+  Marc hat seinen *Anzug* beim Schneider ändern lassen.
+
+  Le nouveau professeur porte toujours un *costume* élégant.
+  Der neue Lehrer trägt immer einen eleganten *Anzug*.
+
+  Dans ce théâtre, les *costumes* sont créés sur mesure.
+  In diesem Theater werden die *Kostüme* maßgeschneidert.
+
+  Sophie a loué un *costume* médiéval pour la reconstitution historique.
+  Sophie hat sich für die historische Aufführung ein mittelalterliches *Kostüm* geliehen.
+
+  Les académiciens portent leur *costume* traditionnel lors des cérémonies.
+  Die Akademiemitglieder tragen bei Zeremonien ihre traditionelle *Kleidung*.
+
+  Le petit Paul a taché son nouveau *costume* pendant le repas.
+  Der kleine Paul hat seinen neuen *Anzug* beim Essen beschmutzt.
+
+  Les acteurs changent rapidement de *costume* entre les scènes.
+  Die Schauspieler wechseln zwischen den Szenen schnell die *Kostüme*.
+
+  Le mannequin présente un *costume* à la dernière mode.
+  Das Model präsentiert einen *Anzug* nach der neuesten Mode.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

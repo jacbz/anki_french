@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Des tas de choses étaient arrivées.
-  Es waren viele Dinge passiert.
+  Des tas de choses étaient *arrivées*.
+  Viele Dinge waren *passiert*.
 
-  Il est arrivé à l’heure.
-  Er ist pünktlich angekommen.
+  Le premier *arrivé* aura le choix.
+  Der erste *Ankömmling* hat die Wahl.
+
+  Les nouveaux *arrivés* reçoivent un guide d'accueil.
+  Die neuen *Ankömmlinge* erhalten eine Begrüßungsmappe.
+
+  C'est une femme *arrivée* qui a beaucoup d'influence.
+  Sie ist eine *erfolgreiche* Frau mit viel Einfluss.
+
+  Il a accueilli les derniers *arrivés* à la fête.
+  Er hat die letzten *Gäste* auf der Party begrüßt.
+
+  Jacques est un homme *arrivé* maintenant.
+  Jacques ist jetzt ein *gemachter* Mann.
+
+  La dernière *arrivée* cherchait encore sa place.
+  Die letzte *Neuankömmerin* suchte noch ihren Platz.
+
+  Les *arrivés* d'hier s'installent déjà.
+  Die gestern *Angekommenen* richten sich bereits ein.
+
+  Elle est considérée comme une personne très *arrivée* dans son domaine.
+  Sie gilt als sehr *erfolgreich* in ihrem Bereich.
+
+  Le dernier *arrivé* ferme la porte.
+  Der letzte *Ankömmling* macht die Tür zu.
+
+  Les nouveaux *arrivés* ont besoin d'aide pour s'orienter.
+  Die neuen *Ankömmlinge* brauchen Hilfe bei der Orientierung.
+
+  En tant que première *arrivée*, elle a eu le meilleur siège.
+  Als erste *Angekommene* bekam sie den besten Platz.
+
+  C'est un écrivain *arrivé* qui vit de sa plume.
+  Er ist ein *etablierter* Schriftsteller, der von seiner Feder lebt.
+
+  Les derniers *arrivés* doivent encore remplir les formulaires.
+  Die zuletzt *Eingetroffenen* müssen noch die Formulare ausfüllen.
+
+  Parmi tous les *arrivés*, il était le plus jeune.
+  Unter allen *Angekommenen* war er der Jüngste.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

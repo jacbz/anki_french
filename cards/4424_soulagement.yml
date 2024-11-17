@@ -13,23 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai besoin du soulagement.
-  Ich brauche die Erleichterung.
+  J'ai besoin de *soulagement*.
+  Ich brauche *Erleichterung*.
 
-  J’ai ressenti un grand soulagement après l’examen.
-  Ich fühlte eine große Erleichterung nach der Prüfung.
+  Elle a poussé un soupir de *soulagement* quand elle a vu que tout allait bien.
+  Sie stieß einen Seufzer der *Erleichterung* aus, als sie sah, dass alles in Ordnung war.
 
-  C’est un soulagement.
-  Das ist eine Erleichterung.
+  Ces médicaments m'ont apporté un grand *soulagement*.
+  Diese Medikamente haben mir große *Linderung* verschafft.
 
-  Quel soulagement !
-  Was für eine Erleichterung!
+  Le *soulagement* se lisait sur tous les visages après l'annonce des résultats.
+  Die *Erleichterung* war nach der Bekanntgabe der Ergebnisse in allen Gesichtern zu lesen.
 
-  Un soupir de soulagement s'échappa de ses lèvres lorsqu'il apprit que tout allait bien.
-  Ein Seufzer der Erleichterung entfuhr seinen Lippen, als er erfuhr, dass alles gut war.
+  Cette nouvelle thérapie apporte un *soulagement* immédiat aux patients.
+  Diese neue Therapie bringt den Patienten sofortige *Linderung*.
 
-  Ce médicament apporte un certain soulagement à la douleur.
-  Dieses Medikament verschafft der Schmerzen etwas Linderung.
+  À mon grand *soulagement*, les enfants sont rentrés avant l'orage.
+  Zu meiner großen *Erleichterung* kamen die Kinder vor dem Gewitter nach Hause.
+
+  Le massage m'a procuré un vif *soulagement*.
+  Die Massage hat mir deutliche *Linderung* verschafft.
+
+  Quel *soulagement* d'avoir enfin terminé ce projet difficile !
+  Was für eine *Erleichterung*, dieses schwierige Projekt endlich beendet zu haben!
+
+  Les bénévoles travaillent au *soulagement* des misères dans le quartier.
+  Die Freiwilligen arbeiten an der *Linderung* der Not im Viertel.
+
+  Elle attend avec impatience le *soulagement* que lui apportera cette opération.
+  Sie wartet ungeduldig auf die *Linderung*, die ihr diese Operation bringen wird.
+
+  C'est un *soulagement* de savoir que personne n'a été blessé dans l'accident.
+  Es ist eine *Erleichterung* zu wissen, dass bei dem Unfall niemand verletzt wurde.
+
+  J'éprouve un profond *soulagement* depuis que j'ai pris cette décision.
+  Ich empfinde eine tiefe *Erleichterung*, seit ich diese Entscheidung getroffen habe.
+
+  La pommade lui a apporté un *soulagement* temporaire.
+  Die Salbe hat ihr vorübergehende *Linderung* gebracht.
+
+  Nous cherchons tous un *soulagement* à nos peines quotidiennes.
+  Wir suchen alle *Linderung* für unsere täglichen Sorgen.
+
+  Le *soulagement* était visible sur son visage quand il a appris la nouvelle.
+  Die *Erleichterung* war sichtbar in seinem Gesicht, als er die Nachricht erfuhr.
+
+  L'exercice physique peut apporter un *soulagement* significatif au stress.
+  Körperliche Bewegung kann eine bedeutende *Linderung* von Stress bewirken.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

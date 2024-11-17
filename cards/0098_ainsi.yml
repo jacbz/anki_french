@@ -108,4 +108,56 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title tip-section">Satzbau</div>
+    <div class="section-content">
+      <p>Wenn <span class="fr">ainsi</span> am Anfang eines Satzes steht, wird es normalerweise durch ein Komma getrennt. Dies gilt jedoch nicht, wenn das Subjekt invertiert wird.</p>
+      <div class="examples">
+        <div class="fr"><u>Ainsi</u>, vous avez réussi à le convaincre.</div>
+        <div class="de spoiler"><u>So</u>, Sie haben es geschafft, ihn zu überzeugen.</div>
+      </div>
+      <div class="examples">
+        <div class="fr"><u>Ainsi</u> avez-vous réussi à le convaincre.</div>
+        <div class="de spoiler"><u>So</u> haben Sie es geschafft, ihn zu überzeugen.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title tip-section">Verwendung</div>
+    <div class="section-content">
+      <p>Der Ausdruck <span class="fr">ainsi donc</span> wird verwendet, um Überraschung oder Unzufriedenheit auszudrücken.</p>
+      <div class="examples">
+        <div class="fr"><u>Ainsi donc</u>, il a refusé de me rencontrer !</div>
+        <div class="de spoiler"><u>Also</u> hat er sich geweigert, mich zu treffen!</div>
+      </div>
+      <p class="tip">Das Wort <span class="fr">ainsi</span> bedeutet bereits <span class="de">"folglich"</span> oder <span class="de">"zum Beispiel"</span>. Daher sollte man Ausdrücke wie <span class="fr">ainsi par conséquent</span> oder <span class="fr">ainsi par exemple</span> vermeiden.</p>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title tip-section">Angleichung</div>
+    <div class="section-content">
+      <p>Der Ausdruck <span class="fr">ainsi que</span> hat zwei unterschiedliche Bedeutungen, die sich auf die Angleichung im Satz auswirken.</p>
+      <p>Wenn <span class="fr">ainsi que</span> <span class="de">"auf die gleiche Weise wie"</span> bedeutet, erfolgt die Angleichung mit dem ersten Begriff im Vergleich. In diesem Fall wird <span class="fr">ainsi que</span> durch ein Komma getrennt.</p>
+      <div class="examples">
+        <div class="fr">Magali, <u>ainsi qu'</u>une enfant, ne pouvait cacher son enthousiasme.</div>
+        <div class="de spoiler">Magali, <u>wieder</u> ein Kind, konnte ihre Begeisterung nicht verbergen.</div>
+      </div>
+      <p>Wenn <span class="fr">ainsi que</span> <span class="de">"und"</span> bedeutet, erfolgt die Angleichung im Plural. In diesem Fall wird <span class="fr">ainsi que</span> nicht durch ein Komma getrennt.</p>
+      <div class="examples">
+        <div class="fr">Il tient cachés sous son manteau un litre de vin <u>ainsi qu'</u>un demi-pain.</div>
+        <div class="de spoiler">Er versteckt unter seinem Mantel einen Liter Wein <u>und</u> ein halbes Brot.</div>
+      </div>
+      <p class="attention">Die Bedeutung des Satzes entscheidet oft darüber, ob die Angleichung im Singular oder im Plural erfolgt. Dies beeinflusst auch die Zeichensetzung.</p>
+      <div class="examples">
+        <div class="fr">L'adjectif brave, <u>ainsi que l'</u>adjectif barbare, se rattache à la famille du grec barbaros.</div>
+        <div class="de spoiler">Das Adjektiv "tapfer" <u>sowie</u> das Adjektiv "barbarisch" gehören zur Familie des griechischen "barbaros".</div>
+      </div>
+      <div class="examples">
+        <div class="fr">L'adjectif brave <u>ainsi que l'</u>adjectif barbare se rattachent à la famille du grec barbaros.</div>
+        <div class="de spoiler">Das Adjektiv "tapfer" <u>und</u> das Adjektiv "barbarisch" gehören zur Familie des griechischen "barbaros".</div>
+      </div>
+    </div>
+  </div>

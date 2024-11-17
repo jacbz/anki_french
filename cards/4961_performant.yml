@@ -13,17 +13,50 @@ Register: ↘Fiktion
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je veux rester performant et ne pas avoir une fin de carrière.
-  Ich möchte leistungsfähig bleiben und kein Karriereende haben.
+  Je veux rester *performant* et ne pas avoir une fin de carrière.
+  Ich möchte *leistungsfähig* bleiben und kein Karriereende haben.
 
-  Ce processeur est très performant.
-  Dieser Prozessor ist sehr leistungsstark.
+  Cette nouvelle voiture est très *performante* sur autoroute.
+  Dieses neue Auto ist auf der Autobahn sehr *leistungsstark*.
 
-  Ces nouvelles technologies ont le potentiel de rendre le système de production plus performant.
-  Diese neuen Technologien haben das Potenzial, das Produktionssystem leistungssteigernd zu wirken.
+  Notre équipe cherche un manager très *performant*.
+  Unser Team sucht einen sehr *leistungsfähigen* Manager.
 
-  Le manque de sommeil peut rendre le cerveau moins performant.
-  Schlafentzug kann das Gehirn leistungsmindernd wirken.
+  L'entreprise n'est plus assez *performante* face à la concurrence.
+  Das Unternehmen ist gegenüber der Konkurrenz nicht mehr *wettbewerbsfähig* genug.
+
+  Ce nouveau processeur est deux fois plus *performant* que l'ancien modèle.
+  Dieser neue Prozessor ist doppelt so *leistungsstark* wie das alte Modell.
+
+  Cette alimentation naturelle rend l'athlète plus *performant*.
+  Diese natürliche Ernährung wirkt beim Athleten *leistungssteigernd*.
+
+  Le stress constant rend les employés moins *performants*.
+  Der ständige Stress wirkt bei den Mitarbeitern *leistungsmindernd*.
+
+  Nous avons besoin d'un système informatique plus *performant*.
+  Wir brauchen ein *leistungsstärkeres* Computersystem.
+
+  Cette imprimante est la plus *performante* de sa catégorie.
+  Dieser Drucker ist der *leistungsstärkste* seiner Kategorie.
+
+  Les entreprises *performantes* attirent les meilleurs talents.
+  *Wettbewerbsfähige* Unternehmen ziehen die besten Talente an.
+
+  Notre nouvelle machine est très *performante* et consomme peu d'énergie.
+  Unsere neue Maschine ist sehr *leistungsstark* und verbraucht wenig Energie.
+
+  Il faut être *performant* pour réussir dans ce métier.
+  Man muss *leistungsfähig* sein, um in diesem Beruf erfolgreich zu sein.
+
+  Ces nouveaux outils rendent l'équipe plus *performante*.
+  Diese neuen Werkzeuge machen das Team *effizienter*.
+
+  Cette société est devenue très *performante* depuis sa restructuration.
+  Diese Firma ist seit ihrer Umstrukturierung sehr *wettbewerbsfähig* geworden.
+
+  Notre solution est plus *performante* que celle de nos concurrents.
+  Unsere Lösung ist *effizienter* als die unserer Konkurrenten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,23 +13,80 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ça va purger son système en une nuit.
-  Es wird sein System über Nacht bereinigen.
+  Ça va *purger* son système en une nuit.
+  Das wird sein System über Nacht *reinigen*.
 
-  Il faut purger les radiateurs.
-  Die Heizkörper müssen entlüftet werden.
+  Mon médecin m'a conseillé de me *purger* avant l'opération.
+  Mein Arzt hat mir geraten, vor der Operation ein *Abführmittel* zu nehmen.
 
-  Il faut purger le sous-sol d'eau après la tempête.
-  Man muss den Keller nach dem Sturm entwässern.
+  Le mécanicien doit *purger* les freins de la voiture.
+  Der Mechaniker muss die Bremsen der Autos *entlüften*.
 
-  Le chat se purge avec de l'herbe pour faciliter sa digestion.
-  Eine Katze frisst Gras, um sich zu entgiften.
+  Il a déjà *purgé* trois ans de sa peine.
+  Er hat bereits drei Jahre seiner Strafe *verbüßt*.
 
-  Il a purgé une peine de cinq ans d'emprisonnement pour vol.
-  Er hat eine fünfjährige Haftstrafe wegen Diebstahls verbüßt.
+  Le chat s'est *purgé* en mangeant de l'herbe.
+  Die Katze hat sich durch das Fressen von Gras selbst *gereinigt*.
 
-  Les nazis ont purgé l'Allemagne de ses Juifs.
-  Die Nazis haben Deutschland von seinen Juden gesäubert.
+  Les radiateurs font du bruit, il faut les *purger*.
+  Die Heizkörper machen Geräusche, man muss sie *entlüften*.
+
+  L'infirmière a dû *purger* le patient avant l'examen.
+  Die Krankenschwester musste dem Patienten vor der Untersuchung ein *Abführmittel* geben.
+
+  Le gouvernement a *purgé* l'administration de ses éléments corrompus.
+  Die Regierung hat die Verwaltung von korrupten Elementen *gesäubert*.
+
+  Je dois *purger* ce texte de toute ambiguïté.
+  Ich muss diesen Text von jeder Zweideutigkeit *bereinigen*.
+
+  Les propriétaires ont enfin *purgé* leur hypothèque.
+  Die Eigentümer haben ihre Hypothek endlich *getilgt*.
+
+  Il faut *purger* le circuit d'eau avant l'hiver.
+  Man muss den Wasserkreislauf vor dem Winter *entleeren*.
+
+  Le cheval s'est *purgé* naturellement avec des herbes.
+  Das Pferd hat sich mit Kräutern auf natürliche Weise *gereinigt*.
+
+  Les ouvriers doivent *purger* les parois de la mine.
+  Die Arbeiter müssen die Minenwände von losen Steinen *säubern*.
+
+  Cette entreprise a été *purgée* de ses éléments contestataires.
+  Dieses Unternehmen wurde von aufständischen Elementen *gesäubert*.
+
+  Le condamné *purgera* sa peine dans une prison de haute sécurité.
+  Der Verurteilte wird seine Strafe in einem Hochsicherheitsgefängnis *verbüßen*.
+
+  Il faut *purger* la chaudière avant de la remettre en marche.
+  Man muss den Kessel *entleeren*, bevor man ihn wieder in Betrieb nimmt.
+
+  Les médecins ont dû *purger* le malade avant l'intervention.
+  Die Ärzte mussten dem Kranken vor dem Eingriff ein *Abführmittel* verabreichen.
+
+  Le métal doit être *purgé* de ses impuretés.
+  Das Metall muss von seinen Unreinheiten *gereinigt* werden.
+
+  Cette ville a été *purgée* de ses criminels.
+  Diese Stadt wurde von Kriminellen *gesäubert*.
+
+  Le plombier va *purger* les tuyaux demain matin.
+  Der Klempner wird die Rohre morgen früh *durchspülen*.
+
+  Je dois me *purger* l'esprit de ces mauvaises pensées.
+  Ich muss meinen Geist von diesen schlechten Gedanken *reinigen*.
+
+  Il faut *purger* l'huile du moteur tous les ans.
+  Man muss das Motoröl jedes Jahr *ablassen*.
+
+  Le philosophe cherchait à *purger* son âme de tout préjugé.
+  Der Philosoph versuchte, seine Seele von allen Vorurteilen zu *reinigen*.
+
+  Les techniciens vont *purger* le système hydraulique.
+  Die Techniker werden das Hydrauliksystem *entlüften*.
+
+  Le condamné a *purgé* sa contumace en se constituant prisonnier.
+  Der Verurteilte hat seine Abwesenheitsstrafe durch Selbststellung *aufgehoben*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

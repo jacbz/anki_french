@@ -13,11 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai acheté toutes les munitions que je voulais.
-  Ich habe alle Munition gekauft, die ich wollte.
+  J'ai acheté toutes les *munitions* que je voulais.
+  Ich habe alle *Munition* gekauft, die ich wollte.
 
-  Il faut vérifier la quantité de munitions qu’il nous reste.
-  Wir müssen überprüfen, wie viel Munition uns noch bleibt.
+  Le stock de *munitions* est presque épuisé.
+  Der *Munitions*vorrat ist fast erschöpft.
+
+  Les soldats transportent leurs *munitions* dans des caisses métalliques.
+  Die Soldaten transportieren ihre *Munition* in Metallkisten.
+
+  L'arsenal contient différents types de *munitions*.
+  Das Arsenal enthält verschiedene Arten von *Munition*.
+
+  Les *munitions* étaient stockées dans un endroit sécurisé.
+  Die *Munition* wurde an einem sicheren Ort gelagert.
+
+  Le capitaine a distribué les *munitions* aux soldats.
+  Der Hauptmann hat die *Munition* an die Soldaten verteilt.
+
+  "Je n'ai plus de *munitions* pour mes arguments !"
+  "Mir geht die *Munition* für meine Argumente aus!"
+
+  Les forces de l'ordre ont saisi un grand nombre de *munitions* illégales.
+  Die Ordnungskräfte haben eine große Menge illegaler *Munition* beschlagnahmt.
+
+  Des centaines de *munitions* non explosées ont été découvertes.
+  Hunderte nicht explodierte *Munition* wurden entdeckt.
+
+  Le prix des *munitions* a considérablement augmenté.
+  Der Preis für *Munition* ist erheblich gestiegen.
+
+  Les *munitions* de bouche ont été distribuées équitablement.
+  Die *Verpflegung* wurde gerecht verteilt.
+
+  Chaque soldat reçoit son pain de *munition* quotidien.
+  Jeder Soldat erhält sein tägliches *Militär*brot.
+
+  "Ce journaliste garde ses meilleures *munitions* pour la fin."
+  "Dieser Journalist hebt sich seine besten *Argumente* für den Schluss auf."
+
+  La fabrication de *munitions* est strictement réglementée.
+  Die Herstellung von *Munition* ist streng reguliert.
+
+  Les experts ont examiné les *munitions* trouvées sur place.
+  Die Experten haben die vor Ort gefundene *Munition* untersucht.
+
+  L'explosion dans le dépôt de *munitions* a causé beaucoup de dégâts.
+  Die Explosion im *Munitions*lager hat großen Schaden verursacht.
+
+  Ils ont découvert un ancien dépôt de *munitions* de guerre.
+  Sie haben ein altes *Munitions*depot aus dem Krieg entdeckt.
+
+  Les *munitions* non utilisées doivent être rendues après l'exercice.
+  Die unbenutzte *Munition* muss nach der Übung zurückgegeben werden.
+
+  "L'orateur manque de *munitions* pour continuer le débat."
+  "Dem Redner gehen die *Argumente* für die weitere Debatte aus."
+
+  La forteresse était bien pourvue en *munitions* et en vivres.
+  Die Festung war gut mit *Vorräten* und Lebensmitteln versorgt.
+
+  Le contrôle des *munitions* est très strict dans ce pays.
+  Die *Munitions*kontrolle ist in diesem Land sehr streng.
+
+  Les nouvelles *munitions* sont plus précises que les anciennes.
+  Die neue *Munition* ist präziser als die alte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

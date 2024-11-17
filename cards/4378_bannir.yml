@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La religion est bannie de chez nous.
-  Die Religion wird aus unserem Haus verbannt.
+  La religion est *bannie* de chez nous.
+  Religion ist bei uns *verbannt*.
 
-  Il a été banni de la ville.
-  Er wurde aus der Stadt verbannt.
+  Le dictateur a *banni* tous ses opposants politiques du pays.
+  Der Diktator hat alle politischen Gegner aus dem Land *verbannt*.
 
-  Le gouvernement a décidé de bannir cet homme du pays pour des raisons de sécurité nationale.
-  Die Regierung hat beschlossen, diesen Mann aus dem Land zu verbannen, aus Gründen der nationalen Sicherheit.
+  Après son comportement scandaleux, il a été *banni* du club de tennis.
+  Nach seinem skandalösen Verhalten wurde er aus dem Tennisclub *verbannt*.
 
-  Les autorités ont décidé de bannir l'alcool de tous les événements publics.
-  Die Behörden haben beschlossen, Alkohol von allen öffentlichen Veranstaltungen zu verbannen.
+  Les parents ont décidé de *bannir* la télévision pendant la semaine.
+  Die Eltern haben beschlossen, den Fernseher unter der Woche zu *verbannen*.
+
+  Le nouveau règlement *bannit* l'utilisation des téléphones portables en classe.
+  Die neue Regelung *verbietet* die Nutzung von Handys im Unterricht.
+
+  Elle a juré de *bannir* le sucre de son alimentation.
+  Sie hat geschworen, Zucker aus ihrer Ernährung zu *verbannen*.
+
+  Le comité a *banni* l'athlète de toute compétition pour dopage.
+  Das Komitee hat den Athleten wegen Dopings von allen Wettkämpfen *ausgeschlossen*.
+
+  Il faut *bannir* ces préjugés de notre société.
+  Diese Vorurteile müssen aus unserer Gesellschaft *verbannt* werden.
+
+  La ville a *banni* les véhicules diesel du centre-ville.
+  Die Stadt hat Dieselfahrzeuge aus der Innenstadt *verbannt*.
+
+  L'écrivain fut *banni* à perpétuité de son pays natal.
+  Der Schriftsteller wurde auf Lebenszeit aus seinem Heimatland *verbannt*.
+
+  Les réseaux sociaux ont *banni* son compte pour désinformation.
+  Die sozialen Netzwerke haben seinen Account wegen Falschinformationen *gesperrt*.
+
+  Elle a *banni* son ex-mari de sa vie.
+  Sie hat ihren Ex-Mann aus ihrem Leben *verbannt*.
+
+  Le coach nous a demandé de *bannir* toute pensée négative.
+  Der Coach hat uns aufgefordert, alle negativen Gedanken zu *verbannen*.
+
+  Le nouveau directeur a *banni* les réunions inutiles.
+  Der neue Direktor hat unnötige Meetings *verbannt*.
+
+  Les organisateurs ont *banni* l'usage du plastique lors du festival.
+  Die Organisatoren haben den Gebrauch von Plastik beim Festival *verboten*.
+
+  La société moderne doit *bannir* toute forme de discrimination.
+  Die moderne Gesellschaft muss jede Form von Diskriminierung *ächten*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

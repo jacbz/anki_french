@@ -9,24 +9,114 @@ Femininum / Plural: ''
 IPA: \de.ʁɔ.be\
 Definition: entwenden, stehlen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "On leur déroba leurs valises.\nIhre Koffer wurden ihnen gestohlen.\n\
-  \nIl a réussi à dérober la clé.\nEr hat es geschafft, den Schlüssel zu stehlen.\n\
-  \nLe policier a tenté de dérober le suspect à la justice, mais il a été arrêté.\n\
-  Der Polizist versuchte, den Verdächtigen vor der Justiz zu schützen, doch er wurde\
-  \ verhaftet. \n\nLe voleur s'est dérobé à la police après avoir commis son crime.\n\
-  Der Dieb hat sich nach der Begehung seiner Tat vor der Polizei versteckt.\n\nLe\
-  \ médecin a réussi à dérober le patient à la mort grâce à une opération complexe.\n\
-  Der Arzt hat es geschafft, den Patienten durch eine komplexe Operation vor dem Tode\
-  \ zu bewahren. \n\nUne palissade le dérobait à ma vue, mais j'ai pu l'apercevoir\
-  \ à travers un trou.\nDurch einen Zaun war er meinem Blick entzogen, doch ich konnte\
-  \ ihn durch ein Loch sehen. \n\nIl s'est dérobé à son devoir en refusant d'aider\
-  \ ses collègues.\nEr hat sich seiner Aufgabe entzogen, indem er sich weigerte, seinen\
-  \ Kollegen zu helfen. \n\nIl s'est dérobé à la discussion en changeant de sujet.\n\
-  Er hat der Diskussion ausgewichen, indem er das Thema wechselte. \n\nElle s'est\
-  \ dérobée à la curiosité de son voisin en fermant la porte à clé.\nSie ist der Neugier\
-  \ ihres Nachbarn entgangen, indem sie die Tür abschloss. \n\nIl s'est dérobé aux\
-  \ regards de la foule en se cachant derrière un arbre.\nEr hat sich den Blicken\
-  \ der Menge entzogen, indem er sich hinter einen Baum versteckte."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  On leur a *dérobé* leurs valises.
+  Man hat ihnen ihre Koffer *gestohlen*.
+
+  Il nous *déroba* tous nos secrets.
+  Er *entlockte* uns alle unsere Geheimnisse.
+
+  Elle lui a *dérobé* un baiser avant de partir.
+  Sie hat ihm einen Kuss *geraubt*, bevor sie ging.
+
+  Les nuages *dérobaient* la lune à notre vue.
+  Die Wolken *verbargen* den Mond vor unseren Blicken.
+
+  Le brouillard *dérobait* complètement le paysage.
+  Der Nebel *verbarg* die Landschaft vollständig.
+
+  Maria a aidé à *dérober* son frère à la justice.
+  Maria half dabei, ihren Bruder vor der Justiz zu *verbergen*.
+
+  Les parents ont *dérobé* leur fille à la mort.
+  Die Eltern haben ihre Tochter vor dem Tod *bewahrt*.
+
+  Le rideau me *dérobait* la scène.
+  Der Vorhang *entzog* mir die Sicht auf die Bühne.
+
+  Comme d'habitude, elle *se dérobe* à mes questions.
+  Wie üblich *weicht* sie meinen Fragen *aus*.
+
+  Pierre *se dérobe* toujours à ses responsabilités.
+  Pierre *entzieht* sich stets seinen Verantwortungen.
+
+  Le suspect *s'est dérobé* à la discussion.
+  Der Verdächtige ist der Diskussion *ausgewichen*.
+
+  Les criminels *se sont dérobés* à la police.
+  Die Kriminellen haben sich vor der Polizei *verborgen*.
+
+  Elle *se dérobe* constamment à la curiosité des journalistes.
+  Sie *entzieht* sich ständig der Neugier der Journalisten.
+
+  L'artiste *s'est dérobé* aux regards de ses fans.
+  Der Künstler hat sich den Blicken seiner Fans *entzogen*.
+
+  Ses jambes *se dérobèrent* sous lui.
+  Seine Beine *versagten* unter ihm.
+
+  Le sol *s'est dérobé* sous leurs pieds.
+  Der Boden hat unter ihren Füßen *nachgegeben*.
+
+  On lui a *dérobé* sa montre en pleine rue.
+  Man hat ihm seine Uhr mitten auf der Straße *gestohlen*.
+
+  L'espion a *dérobé* des documents confidentiels.
+  Der Spion hat vertrauliche Dokumente *gestohlen*.
+
+  Les voleurs ont *dérobé* des bijoux anciens.
+  Die Diebe haben antiken Schmuck *gestohlen*.
+
+  La nuit *dérobait* peu à peu le paysage.
+  Die Nacht *verbarg* nach und nach die Landschaft.
+
+  Thomas *s'est dérobé* à son devoir.
+  Thomas hat sich seiner Pflicht *entzogen*.
+
+  Le cheval *s'est dérobé* devant l'obstacle.
+  Das Pferd ist vor dem Hindernis *ausgewichen*.
+
+  Les arbres *dérobaient* la maison aux regards.
+  Die Bäume *verbargen* das Haus vor den Blicken.
+
+  Le brouillard *dérobait* la vue du port.
+  Der Nebel *verbarg* die Sicht auf den Hafen.
+
+  Julie *se dérobe* toujours quand on parle de son passé.
+  Julie *weicht* immer *aus*, wenn man über ihre Vergangenheit spricht.
+
+  Les preuves ont été *dérobées* pendant la nuit.
+  Die Beweise wurden in der Nacht *gestohlen*.
+
+  Le fugitif *s'est dérobé* aux recherches.
+  Der Flüchtige hat sich der Suche *entzogen*.
+
+  La vérité lui a été *dérobée*.
+  Die Wahrheit wurde ihr *vorenthalten*.
+
+  Le temps nous *dérobe* peu à peu nos souvenirs.
+  Die Zeit *raubt* uns nach und nach unsere Erinnerungen.
+
+  Les nuages *dérobaient* les étoiles à notre vue.
+  Die Wolken *verbargen* die Sterne vor unserem Blick.
+
+  Marc *s'est dérobé* à ses obligations.
+  Marc hat sich seinen Verpflichtungen *entzogen*.
+
+  Le suspect *s'est dérobé* à l'interrogatoire.
+  Der Verdächtige ist dem Verhör *ausgewichen*.
+
+  Les forces *se dérobaient* sous elle.
+  Die Kräfte *versagten* ihr.
+
+  Le cambrioleur a *dérobé* tous les tableaux.
+  Der Einbrecher hat alle Gemälde *gestohlen*.
+
+  La peur lui *dérobait* ses mots.
+  Die Angst *raubte* ihr die Worte.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

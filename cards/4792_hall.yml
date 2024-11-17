@@ -13,17 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je l’ai rencontré dans le hall d’un immeuble.
-  Ich traf ihn in der Lobby eines Wohnhauses.
+  Je l'ai rencontré dans le *hall* d'un immeuble.
+  Ich habe ihn in der Eingangs*halle* eines Wohnhauses getroffen.
 
-  Je t’attends dans le hall de l’hôtel.
-  Ich warte auf dich in der Eingangshalle des Hotels.
+  Les voyageurs se pressent dans le *hall* de la gare.
+  Die Reisenden drängen sich in der Bahnhofs*halle*.
 
-  Le hall d'hôtel était grandiose, avec ses lustres en cristal et ses fauteuils en cuir.
-  Die Hotelhalle war grandios, mit ihren Kristallleuchtern und ihren Ledersesseln.
+  Le nouveau *hall* d'exposition peut accueillir jusqu'à mille visiteurs.
+  Die neue Ausstellungs*halle* kann bis zu tausend Besucher aufnehmen.
 
-  J'ai trouvé mon vol sur l'écran d'affichage dans le hall de l'aéroport.
-  Ich habe meinen Flug auf dem Anzeigebildschirm in der Flughafenhalle gefunden.
+  Veuillez patienter dans le *hall* d'accueil, s'il vous plaît.
+  Bitte warten Sie in der Empfangs*halle*.
+
+  Le *hall* de l'hôtel était décoré pour Noël.
+  Die Hotel*halle* war weihnachtlich geschmückt.
+
+  Les ouvriers assemblent les voitures dans ce grand *hall* de montage.
+  Die Arbeiter montieren die Autos in dieser großen Montage*halle*.
+
+  Le *hall* de l'aéroport était bondé ce matin-là.
+  Die Flughafen*halle* war an diesem Morgen überfüllt.
+
+  Un magnifique lustre pendait du plafond du *hall*.
+  Ein prächtiger Kronleuchter hing von der Decke der *Halle* herab.
+
+  Les invités se rassemblaient dans le *hall* pour le banquet.
+  Die Gäste versammelten sich in der *Halle* zum Bankett.
+
+  Le gardien surveille le *hall* du musée jour et nuit.
+  Der Wächter überwacht die Museums*halle* Tag und Nacht.
+
+  Les enfants jouaient dans le *hall* pendant qu'il pleuvait dehors.
+  Die Kinder spielten in der Eingangs*halle*, während es draußen regnete.
+
+  Le *hall* principal était en cours de rénovation.
+  Die Haupt*halle* wurde gerade renoviert.
+
+  Notre entreprise a loué ce *hall* pour le salon professionnel.
+  Unser Unternehmen hat diese *Halle* für die Fachmesse gemietet.
+
+  Les écrans d'information dans le *hall* affichent les horaires des trains.
+  Die Informationsbildschirme in der *Halle* zeigen die Zugfahrpläne an.
+
+  Le *hall* de cette villa est vraiment impressionnant.
+  Die Eingangs*halle* dieser Villa ist wirklich beeindruckend.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

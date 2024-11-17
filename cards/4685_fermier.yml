@@ -13,11 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les fermiers ont des journées très remplies.
-  Bauern haben einen sehr vollen Tag.
+  Les *fermiers* ont des journées très remplies.
+  Die *Bauern* haben sehr ausgefüllte Tage.
 
-  Le fermier travaille dans les champs.
-  Der Bauer arbeitet auf dem Feld.
+  Notre *fermière* élève des vaches laitières depuis vingt ans.
+  Unsere *Bäuerin* züchtet seit zwanzig Jahren Milchkühle.
+
+  Le *fermier* a décidé de renouveler son bail pour cinq ans.
+  Der *Pächter* hat beschlossen, seinen Pachtvertrag um fünf Jahre zu verlängern.
+
+  J'adore le goût authentique du beurre *fermier*.
+  Ich liebe den authentischen Geschmack der *Bauern*butter.
+
+  Cette famille de *fermiers* cultive ces terres depuis trois générations.
+  Diese *Bauern*familie bewirtschaftet das Land seit drei Generationen.
+
+  La nouvelle *fermière* a modernisé toutes les installations.
+  Die neue *Pächterin* hat alle Anlagen modernisiert.
+
+  Les œufs *fermiers* sont vendus directement aux clients.
+  Die *Bauernhof*eier werden direkt an die Kunden verkauft.
+
+  Le *fermier* travaille dur pour nourrir ses animaux en hiver.
+  Der *Bauer* arbeitet hart, um seine Tiere im Winter zu füttern.
+
+  Cette *fermière* produit du fromage de chèvre artisanal.
+  Diese *Bäuerin* stellt handgemachten Ziegenkäse her.
+
+  Les poulets *fermiers* grandissent en plein air.
+  Die *Bauernhof*hühner wachsen im Freien auf.
+
+  Je préfère acheter du lait *fermier* au marché.
+  Ich kaufe lieber *Bauern*milch auf dem Markt.
+
+  La jeune *fermière* a repris l'exploitation de ses parents.
+  Die junge *Bäuerin* hat den Hof ihrer Eltern übernommen.
+
+  Les canards *fermiers* nagent dans la mare.
+  Die *Bauernhof*enten schwimmen im Teich.
+
+  Ce *fermier* cultive uniquement des produits biologiques.
+  Dieser *Bauer* baut ausschließlich Bio-Produkte an.
+
+  La *fermière* vend ses légumes sur le marché local.
+  Die *Bäuerin* verkauft ihr Gemüse auf dem lokalen Markt.
+
+  Notre *fermier* a modernisé ses méthodes de culture.
+  Unser *Pächter* hat seine Anbaumethoden modernisiert.
+
+  Les produits *fermiers* sont de plus en plus recherchés.
+  *Bauernhof*produkte sind immer gefragter.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La poste vous dédommagera de la détérioration des colis.
-  Die Post wird Sie für beschädigte Pakete entschädigen.
+  La poste vous dédommagera de la *détérioration* des colis.
+  Die Post wird Sie für die *Beschädigung* der Pakete entschädigen.
 
-  La détérioration de la situation économique est inquiétante.
-  Die Verschlechterung der wirtschaftlichen Lage ist besorgniserregend.
+  Les actes de *détérioration* volontaire seront sanctionnés sévèrement.
+  Vorsätzliche *Beschädigungen* werden streng bestraft.
 
-  La détérioration du résultat a été constatée par les experts.
-  Die Ergebnisverschlechterung wurde von den Experten festgestellt.
+  La *détérioration* de sa santé l'a contraint à arrêter le sport.
+  Die *Verschlimmerung* seines Gesundheitszustands zwang ihn, den Sport aufzugeben.
 
-  La détérioration de l'emballage a rendu le produit invendable.
-  Der Verpackungsschaden machte das Produkt unverkäuflich.
+  Nous avons constaté une *détérioration* progressive des relations entre les deux pays.
+  Wir haben eine fortschreitende *Verschlechterung* der Beziehungen zwischen den beiden Ländern festgestellt.
+
+  L'humidité a causé une *détérioration* importante de la toiture.
+  Die Feuchtigkeit hat zu einer erheblichen *Beschädigung* des Dachs geführt.
+
+  La *détérioration* des conditions de vie affecte particulièrement les personnes âgées.
+  Die *Verschlechterung* der Lebensbedingungen betrifft besonders ältere Menschen.
+
+  Le rapport montre une *détérioration* significative de la qualité de l'air.
+  Der Bericht zeigt eine bedeutende *Verschlechterung* der Luftqualität.
+
+  Les experts s'inquiètent de la *détérioration* rapide de l'environnement.
+  Die Experten sind besorgt über die schnelle *Verschlechterung* der Umwelt.
+
+  La *détérioration* de l'emballage a rendu le produit invendable.
+  Der *Verpackungs*schaden hat das Produkt unverkäuflich gemacht.
+
+  Cette *détérioration* du climat social pourrait mener à des grèves.
+  Diese *Verschlechterung* des sozialen Klimas könnte zu Streiks führen.
+
+  La *détérioration* de cet ancien tableau nécessite une restauration urgente.
+  Die *Beschädigung* dieses alten Gemäldes erfordert eine dringende Restaurierung.
+
+  Une *détérioration* progressive de la machine a été observée.
+  Eine fortschreitende *Beschädigung* der Maschine wurde beobachtet.
+
+  La *détérioration* des résultats a inquiété les actionnaires.
+  Die *Verschlechterung* der Ergebnisse hat die Aktionäre beunruhigt.
+
+  Les médecins ont noté une *détérioration* rapide de son état.
+  Die Ärzte stellten eine schnelle *Verschlimmerung* seines Zustands fest.
+
+  La *détérioration* de l'équipement de surveillance pose un problème de sécurité.
+  Die *Beschädigung* der Überwachungsausrüstung stellt ein Sicherheitsproblem dar.
+
+  L'entreprise doit faire face à une *détérioration* continue de sa situation financière.
+  Das Unternehmen muss sich mit einer anhaltenden *Verschlechterung* seiner Finanzlage auseinandersetzen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

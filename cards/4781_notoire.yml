@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous détenons en ce moment un meurtrier notoire.
-  Wir halten derzeit einen berüchtigten Mörder fest.
+  Nous détenons en ce moment un meurtrier *notoire*.
+  Wir haben gerade einen *berüchtigten* Mörder in Gewahrsam.
 
-  C’est un fait notoire.
-  Das ist eine offenkundige Tatsache.
+  Son incompétence *notoire* a finalement conduit à son licenciement.
+  Seine *offenkundige* Inkompetenz führte schließlich zu seiner Entlassung.
 
-  Il est notoire que Pierre a fait une erreur.
-  Es ist offenkundig, dass Pierre einen Fehler gemacht hat.
+  Il est *notoire* que le directeur détourne de l'argent depuis des années.
+  Es ist *offenkundig*, dass der Direktor seit Jahren Geld unterschlägt.
 
-  Il est notoire que le groupe a fait un excellent travail.
-  Es ist offenkundig, dass die Gruppe eine hervorragende Arbeit geleistet hat.
+  Cette journaliste *notoire* a reçu de nombreux prix pour ses reportages.
+  Diese *bekannte* Journalistin hat viele Preise für ihre Reportagen erhalten.
+
+  Les abus *notoires* dans cette entreprise ont été signalés aux autorités.
+  Die *offensichtlichen* Missstände in dieser Firma wurden den Behörden gemeldet.
+
+  Sa maladresse *notoire* lui cause souvent des problèmes au travail.
+  Seine *notorische* Ungeschicklichkeit bereitet ihm bei der Arbeit oft Probleme.
+
+  C'est un fait *notoire* que l'exercice physique améliore la santé mentale.
+  Es ist eine *erwiesene* Tatsache, dass körperliche Bewegung die mentale Gesundheit verbessert.
+
+  Cette preuve *notoire* a permis de résoudre l'affaire.
+  Dieser *eindeutige* Beweis hat zur Lösung des Falls geführt.
+
+  Le menteur *notoire* a encore une fois tenté de tromper ses collègues.
+  Der *notorische* Lügner hat wieder einmal versucht, seine Kollegen zu täuschen.
+
+  L'injustice *notoire* du système a provoqué des manifestations.
+  Die *offenkundige* Ungerechtigkeit des Systems hat Proteste ausgelöst.
+
+  Il est *notoire* que Pierre arrive toujours en retard aux réunions.
+  Es ist *allgemein bekannt*, dass Pierre immer zu spät zu den Besprechungen kommt.
+
+  Ce restaurant est *notoire* pour ses plats exceptionnels.
+  Dieses Restaurant ist für seine außergewöhnlichen Gerichte *bekannt*.
+
+  La générosité *notoire* de cette famille a beaucoup aidé notre communauté.
+  Die *allseits bekannte* Großzügigkeit dieser Familie hat unserer Gemeinde sehr geholfen.
+
+  Son talent *notoire* pour les mathématiques lui a valu une bourse d'études.
+  Sein *offenkundiges* Talent für Mathematik hat ihm ein Stipendium eingebracht.
+
+  Cette région est *notoire* pour son climat instable.
+  Diese Region ist für ihr unstetes Wetter *bekannt*.
+
+  Les problèmes *notoires* du bâtiment nécessitent des réparations urgentes.
+  Die *offensichtlichen* Probleme des Gebäudes erfordern dringende Reparaturen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

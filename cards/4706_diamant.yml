@@ -13,20 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est le plus beau diamant du monde.
-  Es ist der schönste Diamant der Welt.
+  C'est le plus beau *diamant* du monde.
+  Das ist der schönste *Diamant* der Welt.
 
-  Elle porte un collier en diamants.
-  Sie trägt eine Halskette mit Diamanten.
+  Dans cette mine de *diamants*, on a découvert des pierres exceptionnelles.
+  In dieser *Diamanten*mine wurden außergewöhnliche Steine entdeckt.
 
-  Le bijoutier a monté un diamant sur le pendentif en or.
-  Der Juwelier hat einen Diamanten in den goldenen Anhänger gefasst.
+  Le joaillier monte ce *diamant* sur une bague en or blanc.
+  Der Juwelier fasst diesen *Diamanten* in einen Weißgoldring.
 
-  Le diamant brut est extrait de la mine.
-  Der Rohdiamant wird aus der Mine gefördert.
+  Ce *diamant* brut vaut une fortune.
+  Dieser Roh*diamant* ist ein Vermögen wert.
 
-  Le diamant industriel est utilisé dans les outils de coupe.
-  Der Industriediamant wird in Schneidwerkzeugen verwendet.
+  Les *diamants* industriels sont utilisés pour couper des matériaux très durs.
+  Industrie*diamanten* werden zum Schneiden sehr harter Materialien verwendet.
+
+  Le vitrier utilise son *diamant* pour découper le verre avec précision.
+  Der Glaser benutzt seinen *Diamanten* zum präzisen Schneiden des Glases.
+
+  La pointe en *diamant* du tourne-disque est très fragile.
+  Die *Diamant*nadel des Plattenspielers ist sehr empfindlich.
+
+  Un magnifique *diamant* rose orne sa bague de fiançailles.
+  Ein wunderschöner rosa *Diamant* schmückt ihren Verlobungsring.
+
+  Le *diamant* de dix carats brille de mille feux.
+  Der zehn Karat schwere *Diamant* funkelt in tausend Lichtern.
+
+  Elle portait une rivière de *diamants* autour du cou.
+  Sie trug eine *Diamanten*kette um den Hals.
+
+  Ils vont bientôt fêter leurs noces de *diamant*.
+  Sie werden bald ihre *Diamant*hochzeit feiern.
+
+  Les *diamants* de la Couronne sont exposés au musée.
+  Die Kronen*diamanten* sind im Museum ausgestellt.
+
+  La pureté de ce *diamant* est exceptionnelle.
+  Die Reinheit dieses *Diamanten* ist außergewöhnlich.
+
+  Le "Régent" est un *diamant* historique célèbre.
+  Der "Regent" ist ein berühmter historischer *Diamant*.
+
+  Les *diamants* faux ne brillent pas autant que les vrais.
+  Die falschen *Diamanten* glänzen nicht so stark wie die echten.
+
+  Elle avait un petit *diamant* à sa cravate.
+  Sie hatte einen kleinen *Diamanten* an ihrer Krawatte.
+
+  Le polisseur utilise de la poudre de *diamant* pour son travail.
+  Der Schleifer verwendet *Diamant*pulver für seine Arbeit.
+
+  Ce *diamant* en rose est monté sur une broche ancienne.
+  Dieser Rosen*diamant* ist auf einer antiken Brosche montiert.
+
+  Le palais des *Diamants* est un chef-d'œuvre architectural.
+  Der *Diamanten*palast ist ein architektonisches Meisterwerk.
+
+  On a taillé ce *diamant* en brillant.
+  Man hat diesen *Diamanten* als Brillanten geschliffen.
+
+  Le *diamant* noir est plus rare que le blanc.
+  Der schwarze *Diamant* ist seltener als der weiße.
+
+  Cette édition *diamant* est un véritable bijou de bibliophile.
+  Diese *Diamant*ausgabe ist ein wahres Schmuckstück für Bücherliebhaber.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

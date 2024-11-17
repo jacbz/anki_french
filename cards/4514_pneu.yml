@@ -13,23 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je changerai le pneu.
-  Ich wechsle den Reifen.
+  Je changerai le *pneu*.
+  Ich werde den *Reifen* wechseln.
 
-  J’ai besoin de changer mes pneus.
-  Ich muss meine Reifen wechseln.
+  Je dois acheter un nouveau *pneu* pour mon vélo.
+  Ich muss einen neuen Fahr*rad**reifen* kaufen.
 
-  Mon vélo a un pneu crevé.
-  Mein Fahrrad hat eine Reifenpanne.
+  Les *pneus* de ma voiture sont trop usés, il faut les remplacer.
+  Die *Reifen* meines Autos sind zu abgenutzt, sie müssen ersetzt werden.
 
-  Le pneu de vélo est en caoutchouc.
-  Der Fahrradreifen ist aus Gummi.
+  Le garagiste gonfle les *pneus* à la bonne pression.
+  Der Mechaniker pumpt die *Reifen* auf den richtigen Druck auf.
 
-  Ce vélo a des pneus à caoutchouc dur.
-  Dieses Fahrrad hat Vollgummireifen.
+  Mon *pneu* avant droit est complètement à plat.
+  Mein rechter vorderer *Reifen* ist komplett platt.
 
-  Quelle est la taille du pneu de votre vélo ?
-  Welche Reifengröße hat dein Fahrrad?
+  Les *pneus* neige sont obligatoires dans certaines régions montagneuses.
+  Die Winter*reifen* sind in manchen Bergregionen vorgeschrieben.
+
+  Il faut vérifier régulièrement l'usure des *pneus*.
+  Man muss regelmäßig die Abnutzung der *Reifen* überprüfen.
+
+  La taille des *pneus* doit correspondre aux spécifications du constructeur.
+  Die *Reifen*größe muss den Herstellervorgaben entsprechen.
+
+  J'ai eu un *pneu* crevé sur l'autoroute.
+  Ich hatte eine *Reifen*panne auf der Autobahn.
+
+  Les *pneus* cloutés sont interdits pendant l'été.
+  Die genagelte *Reifen* sind im Sommer verboten.
+
+  Le mécanicien a rechapé mes vieux *pneus*.
+  Der Mechaniker hat meine alten *Reifen* runderneuert.
+
+  La bande de roulement de ce *pneu* est complètement lisse.
+  Die Lauffläche dieses *Reifens* ist völlig abgefahren.
+
+  Ces *pneus* en caoutchouc dur sont parfaits pour les chariots industriels.
+  Diese Vollgummi*reifen* sind perfekt für Industriewagen.
+
+  Le nouveau *pneu* à structure radiale offre une meilleure adhérence.
+  Der neue Radial*reifen* bietet bessere Bodenhaftung.
+
+  La carcasse du *pneu* était endommagée après l'accident.
+  Die *Reifen*karkasse war nach dem Unfall beschädigt.
+
+  Les *pneus* arrière s'usent plus rapidement sur cette voiture.
+  Die Hinter*reifen* nutzen sich bei diesem Auto schneller ab.
+
+  Je dois changer les *pneus* avant l'hiver prochain.
+  Ich muss vor dem nächsten Winter die *Reifen* wechseln.
+
+  Les anciens *pneus* doivent être recyclés correctement.
+  Die Alt*reifen* müssen ordnungsgemäß recycelt werden.
+
+  Le démonte-*pneu* est indispensable pour changer une roue de vélo.
+  Der *Reifen*heber ist unerlässlich beim Fahrradreifenwechsel.
+
+  Les *pneus* à crampons sont excellents sur terrain boueux.
+  Die Stollen*reifen* sind hervorragend auf matschigem Gelände.
+
+  Un bon *pneu* peut durer plusieurs années avec un entretien régulier.
+  Ein guter *Reifen* kann bei regelmäßiger Wartung mehrere Jahre halten.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,26 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les objectifs de disponibilité sont des facteurs importants.
-  Verfügbarkeitsziele sind wichtige Faktoren.
+  Les objectifs de *disponibilité* sont des facteurs importants.
+  Die *Verfügbarkeits*ziele sind wichtige Faktoren.
 
-  Je suis à votre disposition.
-  Ich stehe Ihnen zur Verfügung.
+  La *disponibilité* de ce nouveau médicament sur le marché est prévue pour mars.
+  Die *Verfügbarkeit* dieses neuen Medikaments auf dem Markt ist für März geplant.
 
-  Les disponibilités monétaires de l'entreprise sont très importantes.
-  Das Geldvolumen des Unternehmens ist sehr hoch.
+  Les *disponibilités* monétaires ont augmenté de 3% ce trimestre.
+  Das *Geld*volumen ist in diesem Quartal um 3% gestiegen.
 
-  Le fonctionnaire a été placé en disponibilité pour raisons de santé.
-  Der Beamte wurde aus gesundheitlichen Gründen in den einstweiligen Ruhestand versetzt.
+  Marie a demandé une mise en *disponibilité* pour s'occuper de ses enfants.
+  Marie hat sich *beurlauben* lassen, um sich um ihre Kinder zu kümmern.
 
-  La mise en disponibilité est une mesure fréquente pour les fonctionnaires.
-  Die Beurlaubung ist eine gängige Maßnahme für Beamte.
+  Je vérifie la *disponibilité* des chambres d'hôtel pour vos dates.
+  Ich prüfe die *Verfügbarkeit* der Hotelzimmer für Ihre Daten.
 
-  Il a décidé de se faire mettre en disponibilité pour s'occuper de sa famille.
-  Er hat sich entschieden, sich beurlauben zu lassen, um sich um seine Familie zu kümmern.
+  Le directeur est connu pour sa grande *disponibilité* envers ses employés.
+  Der Direktor ist für seine große *Verfügbarkeit* gegenüber seinen Mitarbeitern bekannt.
 
-  Elle est en disponibilité depuis un an.
-  Sie ist seit einem Jahr beurlaubt.
+  La banque m'a informé que mes *disponibilités* étaient insuffisantes.
+  Die Bank hat mich informiert, dass meine *verfügbaren Mittel* nicht ausreichen.
+
+  Pierre est en *disponibilité* depuis son burnout l'année dernière.
+  Pierre ist seit seinem Burnout im letzten Jahr im *einstweiligen Ruhestand*.
+
+  La *disponibilité* d'esprit est essentielle pour la méditation.
+  Die geistige *Verfügbarkeit* ist wesentlich für die Meditation.
+
+  Les restrictions sur la *disponibilité* des devises étrangères ont été levées.
+  Die Beschränkungen der *Verfügbarkeit* von Fremdwährungen wurden aufgehoben.
+
+  Nous devons vérifier nos *disponibilités* avant de faire cet investissement.
+  Wir müssen unsere *verfügbaren Mittel* vor dieser Investition überprüfen.
+
+  Sa *disponibilité* pour les autres fait de lui un excellent enseignant.
+  Seine *Verfügbarkeit* für andere macht ihn zu einem ausgezeichneten Lehrer.
+
+  Le système affiche la *disponibilité* des places en temps réel.
+  Das System zeigt die *Verfügbarkeit* der Plätze in Echtzeit an.
+
+  Les *disponibilités* de l'entreprise ont diminué ce mois-ci.
+  Die *verfügbaren Mittel* des Unternehmens sind in diesem Monat zurückgegangen.
+
+  Elle a fait une demande de *disponibilité* pour poursuivre ses études.
+  Sie hat einen Antrag auf *Beurlaubung* gestellt, um ihr Studium fortzusetzen.
+
+  La *disponibilité* du vaccin varie selon les régions.
+  Die *Verfügbarkeit* des Impfstoffs variiert je nach Region.
+
+  Nous apprécions votre *disponibilité* pour cette réunion urgente.
+  Wir schätzen Ihre *Verfügbarkeit* für dieses dringende Meeting.
+
+  Les *disponibilités* financières seront transférées demain.
+  Die *verfügbaren* Finanzmittel werden morgen überwiesen.
+
+  La *disponibilité* immédiate du produit n'est pas garantie.
+  Die sofortige *Verfügbarkeit* des Produkts ist nicht garantiert.
+
+  Le magasin propose un service de vérification de *disponibilité* en ligne.
+  Der Laden bietet einen Online-*Verfügbarkeits*prüfung an.
+
+  Sa mise en *disponibilité* prendra effet le mois prochain.
+  Seine *Beurlaubung* wird nächsten Monat wirksam.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

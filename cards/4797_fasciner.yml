@@ -13,17 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est un sujet qui me fascine.
-  Das ist ein Thema, das mich fasziniert.
+  C'est un sujet qui me *fascine*.
+  Das ist ein Thema, das mich *fasziniert*.
 
-  Ce livre m’a fasciné.
-  Dieses Buch hat mich fasziniert.
+  Le serpent *fascine* sa proie avant d'attaquer.
+  Die Schlange *hypnotisiert* ihre Beute, bevor sie angreift.
 
-  La jeune femme s'est laissée fasciner par de belles promesses d'un avenir radieux.
-  Die junge Frau hat sich von schönen Versprechungen einer strahlenden Zukunft beeindrucken lassen.
+  Les enfants restaient *fascinés* devant l'écran de télévision.
+  Die Kinder saßen wie *gebannt* vor dem Fernseher.
 
-  Il était fasciné par la beauté de la ville.
-  Er war fasziniert von der Schönheit der Stadt.
+  Julie s'est laissée *fasciner* par de belles promesses.
+  Julie hat sich von schönen Versprechungen *beeindrucken* lassen.
+
+  Le feu de cheminée me *fascinait* pendant des heures.
+  Das Kaminfeuer *fesselte* mich stundenlang.
+
+  Les élèves étaient complètement *fascinés* par leur nouveau professeur.
+  Die Schüler waren von ihrem neuen Lehrer völlig *fasziniert*.
+
+  Son regard *fascinant* attire tout le monde.
+  Sein *faszinierender* Blick zieht alle an.
+
+  La beauté de ce tableau m'a instantanément *fasciné*.
+  Die Schönheit dieses Gemäldes hat mich sofort in seinen *Bann gezogen*.
+
+  Le miroir *fascine* les alouettes qui volent au-dessus.
+  Der Spiegel *hypnotisiert* die darüber fliegenden Lerchen.
+
+  Le pouvoir *fascine* toujours les hommes ambitieux.
+  Macht *fasziniert* ehrgeizige Menschen immer.
+
+  Nous sommes *fascinés* par les mystères de l'univers.
+  Wir sind von den Geheimnissen des Universums *fasziniert*.
+
+  Elle était *fascinée* par la danse des flammes.
+  Sie war vom Tanz der Flammen *gefesselt*.
+
+  Le magicien a *fasciné* son public avec ses tours.
+  Der Zauberer hat sein Publikum mit seinen Tricks *verzaubert*.
+
+  Cette histoire m'a complètement *fasciné* dès le début.
+  Diese Geschichte hat mich von Anfang an völlig in ihren *Bann geschlagen*.
+
+  Les jeunes sont souvent *fascinés* par les nouvelles technologies.
+  Junge Menschen sind oft von neuen Technologien *fasziniert*.
+
+  Le cobra *fascine* l'oiseau de son regard hypnotique.
+  Die Kobra *bannt* den Vogel mit ihrem hypnotischen Blick.
+
+  La musique classique l'a toujours *fasciné*.
+  Klassische Musik hat ihn schon immer *fasziniert*.
+
+  Les spectateurs étaient *fascinés* par sa performance.
+  Die Zuschauer waren von seiner Darbietung *gefesselt*.
+
+  Le luxe du palace *fascinait* les touristes.
+  Der Luxus des Palasthotels *verzauberte* die Touristen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,41 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il bâilla avec affectation.
-  Er gähnte affektiert.
+  Il bâilla avec *affectation*.
+  Er gähnte *affektiert*.
 
-  Il a reçu une nouvelle affectation.
-  Er hat eine neue Zuweisung erhalten.
+  L'*affectation* de cette salle est strictement réservée aux étudiants.
+  Die *Bestimmung* dieses Raums ist ausschließlich für Studierende vorbehalten.
 
-  La décision a été prise d'affecter le bâtiment historique à l'enseignement scolaire.
-  Die Entscheidung ist gefallen, das historische Gebäude für den Schulunterricht zu bestimmen.
+  Le conseil municipal a approuvé l'*affectation* d'un million d'euros à la rénovation du théâtre.
+  Der Stadtrat hat die *Bereitstellung* von einer Million Euro für die Renovierung des Theaters genehmigt.
 
-  L'affectation de Pierre à un poste de direction a été saluée par tous.
-  Die Zuweisung von Pierre zu einer Führungsposition wurde von allen begrüßt.
+  Marie attend toujours son *affectation* dans un lycée parisien.
+  Marie wartet immer noch auf ihre *Versetzung* an ein Pariser Gymnasium.
 
-  Il a exprimé ses sentiments avec une affectation qui m'a surpris.
-  Er hat seine Gefühle mit einer Affektiertheit ausgedrückt, die mich überrascht hat.
+  Son *affectation* au poste d'ambassadeur sera officialisée demain.
+  Seine *Berufung* zum Botschafter wird morgen offiziell bekannt gegeben.
 
-  L'affectation d'une somme importante à la recherche est essentielle pour le progrès.
-  Die Bereitstellung einer hohen Summe für die Forschung ist für den Fortschritt essenziell.
+  Elle parle toujours avec une certaine *affectation* qui agace ses collègues.
+  Sie spricht immer mit einer gewissen *Geziertheit*, die ihre Kollegen nervt.
 
-  L'affectation des réserves est un sujet qui sera discuté lors de la prochaine assemblée générale.
-  Die Rücklagenzuweisung ist ein Thema, das auf der nächsten Generalversammlung diskutiert wird.
+  Le lieutenant a reçu son *affectation* pour la base militaire de Lyon.
+  Der Leutnant hat seinen *Einberufungsbescheid* für den Militärstützpunkt in Lyon erhalten.
 
-  L'affectation à réserve des résultats permet de garantir la stabilité financière de l'entreprise.
-  Die Gewinnrücklage ermöglicht die finanzielle Stabilität des Unternehmens zu gewährleisten.
+  Cette *affectation* budgétaire permettra de construire une nouvelle bibliothèque.
+  Diese *Zuweisung* der Haushaltsmittel wird den Bau einer neuen Bibliothek ermöglichen.
 
-  L'affectation de Marie dans une région plus rurale a été une expérience enrichissante pour elle.
-  Maries Versetzung in eine ländlichere Gegend war eine bereichernde Erfahrung für sie.
+  J'ai demandé une nouvelle *affectation* dans le sud de la France.
+  Ich habe eine neue *Versetzung* in den Süden Frankreichs beantragt.
 
-  Il a demandé son affectation dans une autre ville, car il souhaitait un changement de décor.
-  Er hat seine Versetzung in eine andere Stadt beantragt, da er eine Veränderung des Umfelds wünschte.
+  Le professeur manifestait une *affectation* ridicule dans ses manières.
+  Der Lehrer zeigte eine lächerliche *Affektiertheit* in seinem Verhalten.
 
-  J'ai demandé mon affectation à Toulouse, car c'est une ville qui me plaît beaucoup.
-  Ich habe meine Versetzung nach Toulouse beantragt, da die Stadt mir sehr gut gefällt.
+  L'*affectation* de ce bâtiment historique en musée préserve son patrimoine.
+  Die *Bestimmung* dieses historischen Gebäudes als Museum bewahrt sein Erbe.
 
-  Elle parlait avec affectation de ses souvenirs d'enfance.
-  Sie redete affektiert von ihren Kindheitserinnerungen.
+  Pierre a rejoint sa nouvelle *affectation* à Marseille hier.
+  Pierre ist gestern zu seiner neuen *Dienststelle* in Marseille gekommen.
+
+  L'*affectation* des variables est une opération informatique fondamentale.
+  Die *Zuordnung* von Variablen ist eine grundlegende Operation in der Informatik.
+
+  Son *affectation* de tristesse ne trompe personne.
+  Seine zur Schau gestellte *Betrübnis* täuscht niemanden.
+
+  L'*affectation* des ressources doit être planifiée avec soin.
+  Die *Zuteilung* der Ressourcen muss sorgfältig geplant werden.
+
+  La nouvelle *affectation* de Sophie l'oblige à déménager à Bordeaux.
+  Sophies neue *Versetzung* zwingt sie dazu, nach Bordeaux umzuziehen.
+
+  Cette *affectation* de modestie cache en réalité beaucoup d'orgueil.
+  Diese zur Schau gestellte *Bescheidenheit* verbirgt in Wirklichkeit viel Stolz.
+
+  L'*affectation* d'urgence des médecins a permis de gérer la crise.
+  Die Not*zuweisung* der Ärzte hat es ermöglicht, die Krise zu bewältigen.
+
+  Son *affectation* à l'université de Strasbourg est une belle opportunité.
+  Seine *Berufung* an die Universität Straßburg ist eine großartige Gelegenheit.
+
+  L'*affectation* temporaire de cette salle en infirmerie est nécessaire.
+  Die vorläufige *Umwidmung* dieses Raums in einen Krankenraum ist notwendig.
+
+  Toute cette *affectation* dans son comportement me fatigue.
+  Diese ganze *Geziertheit* in seinem Verhalten ermüdet mich.
+
+  L'*affectation* des nouveaux enseignants sera annoncée lundi.
+  Die *Zuteilung* der neuen Lehrkräfte wird am Montag bekannt gegeben.
+
+  Je ne supporte plus son *affectation* dans la façon de parler.
+  Ich ertrage ihre *gekünstelte* Art zu sprechen nicht mehr.
+
+  L'*affectation* des fonds publics doit être transparente.
+  Die *Zuweisung* öffentlicher Gelder muss transparent sein.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

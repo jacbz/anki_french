@@ -13,23 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai chanté l’hymne national.
-  Ich habe die Nationalhymne gesungen.
+  J'ai chanté l'*hymne* national.
+  Ich habe die National*hymne* gesungen.
 
-  Nous avons chanté l’hymne national.
-  Wir haben die Nationalhymne gesungen.
+  La Marseillaise est l'*hymne* national français depuis 1795.
+  Die Marseillaise ist seit 1795 die französische National*hymne*.
 
-  L'hymne religieux est un chant de louange à Dieu.
-  Der geistliche Lobgesang ist ein Lied der Anbetung an Gott.
+  Les enfants apprennent l'*hymne* national à l'école.
+  Die Kinder lernen in der Schule die National*hymne*.
 
-  L'hymne national est le chant officiel d'un pays.
-  Die Nationalhymne ist das offizielle Lied eines Landes.
+  Ce poème est un *hymne* à la liberté.
+  Dieses Gedicht ist eine *Hymne* an die Freiheit.
 
-  Le poète a écrit un hymne à la nature, plein de beauté et de poésie.
-  Der Dichter hat einen Hymne an die Natur geschrieben, voll von Schönheit und Poesie.
+  Son dernier livre est un véritable *hymne* à la nature.
+  Sein letztes Buch ist ein wahres *Hohelied* auf die Natur.
 
-  Le chantre a chanté un hymne à la croissance, célébrant la vie et la joie.
-  Der Sänger hat das Hohelied des Wachstums gesungen und das Leben und die Freude gefeiert.
+  L'*hymne* religieux résonnait dans toute l'église.
+  Der religiöse *Lobgesang* hallte durch die ganze Kirche.
+
+  Les fidèles ont entonné un *hymne* sacré pendant la messe.
+  Die Gläubigen stimmten während der Messe einen heiligen *Lobgesang* an.
+
+  Le chœur chante des *hymnes* à la gloire de Dieu.
+  Der Chor singt *Hymnen* zum Lobe Gottes.
+
+  Les spectateurs se sont levés pour l'*hymne* national avant le match.
+  Die Zuschauer erhoben sich vor dem Spiel für die National*hymne*.
+
+  Beethoven a composé un *hymne* à la joie.
+  Beethoven komponierte eine *Hymne* an die Freude.
+
+  Ce film est un magnifique *hymne* à l'amour.
+  Dieser Film ist eine wunderbare *Hymne* an die Liebe.
+
+  Les anciens Grecs chantaient des *hymnes* en l'honneur d'Apollon.
+  Die alten Griechen sangen *Hymnen* zu Ehren Apollons.
+
+  Durant la cérémonie, nous avons écouté l'*hymne* européen.
+  Während der Zeremonie hörten wir die Europa*hymne*.
+
+  Les moines chantent des *hymnes* pendant les vêpres.
+  Die Mönche singen während der Vesper *Hymnen*.
+
+  Son discours était un *hymne* à la paix.
+  Seine Rede war eine *Hymne* an den Frieden.
+
+  Elle a composé un *hymne* pour célébrer la victoire.
+  Sie komponierte eine *Hymne*, um den Sieg zu feiern.
+
+  L'orchestre joue l'*hymne* national lors des cérémonies officielles.
+  Das Orchester spielt bei offiziellen Zeremonien die National*hymne*.
+
+  Les athlètes écoutent leur *hymne* national sur le podium.
+  Die Athleten hören auf dem Podium ihre National*hymne*.
+
+  Ce roman est un *hymne* à la jeunesse.
+  Dieser Roman ist ein *Hohelied* auf die Jugend.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

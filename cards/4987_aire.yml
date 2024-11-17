@@ -13,29 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les déchets de l’aire métropolitaine continueront de s’accumuler.
-  Der Müll in der Metropolregion wird sich weiter anhäufen.
+  Les déchets de l'*aire* métropolitaine continueront de s'accumuler.
+  Der Müll im städtischen *Gebiet* wird sich weiter anhäufen.
 
-  L’aire de jeu est fermée.
-  Der Spielbereich ist geschlossen.
+  L'*aire* de jeux est fermée pour rénovation pendant deux semaines.
+  Der Spiel*platz* ist für zwei Wochen wegen Renovierung geschlossen.
 
-  C'est une belle aire de jeu pour les enfants.
-  Das ist ein schöner Spielplatz für die Kinder.
+  Nous avons fait une pause sur l'*aire* de repos pour manger notre pique-nique.
+  Wir haben auf dem Rast*platz* angehalten, um unser Picknick zu essen.
 
-  L'entreprise a une large aire d'influence dans le secteur.
-  Das Unternehmen hat einen großen Einflussbereich in der Branche.
+  Cette *aire* de service propose des bornes de recharge électrique.
+  Diese Auto*raststätte* bietet Ladestationen für Elektroautos an.
 
-  Nous avons fait une pause à l'aire de repos.
-  Wir haben eine Pause am Rastplatz gemacht.
+  L'hélicoptère d'urgence utilise l'*aire* d'atterrissage sur le toit de l'hôpital.
+  Der Rettungshubschrauber nutzt den Lande*platz* auf dem Krankenhausdach.
 
-  La station-service propose des services complets, c'est une véritable aire de service.
-  Die Tankstelle bietet einen umfassenden Service, es ist eine richtige Raststätte mit Tankstelle.
+  La nouvelle *aire* de lancement sera inaugurée le mois prochain.
+  Die neue Raketen*basis* wird nächsten Monat eingeweiht.
 
-  L'avion a atterri en douceur sur l'aire d'atterrissage.
-  Das Flugzeug landete sanft auf der Landestelle.
+  Son *aire* d'influence s'étend bien au-delà des frontières nationales.
+  Sein Einfluss*bereich* erstreckt sich weit über die nationalen Grenzen hinaus.
 
-  Le lancement de la fusée a eu lieu sur une aire de lancement d'une fusée.
-  Der Start der Rakete fand auf einer Raketenabschussbasis statt.
+  L'*aire* visuelle du cerveau traite les informations optiques.
+  Der visuelle *Bereich* des Gehirns verarbeitet die optischen Informationen.
+
+  L'*aire* du cercle est égale à pi fois le rayon au carré.
+  Der *Flächeninhalt* des Kreises ist gleich Pi mal dem Radius zum Quadrat.
+
+  Les aigles ont construit leur *aire* au sommet de la falaise.
+  Die Adler haben ihren *Horst* auf der Spitze der Klippe gebaut.
+
+  L'*aire* urbaine de Paris compte plus de douze millions d'habitants.
+  Der städtische *Bereich* von Paris hat mehr als zwölf Millionen Einwohner.
+
+  Cette *aire* linguistique comprend plusieurs dialectes régionaux.
+  Dieses Sprach*gebiet* umfasst mehrere regionale Dialekte.
+
+  L'*aire* culturelle asiatique fascine les touristes occidentaux.
+  Der asiatische Kultur*bereich* fasziniert westliche Touristen.
+
+  Les chercheurs étudient l'*aire* de répartition de cette espèce rare.
+  Die Forscher untersuchen das Verbreitungs*gebiet* dieser seltenen Art.
+
+  Le parking souterrain offre une grande *aire* de stationnement.
+  Das unterirdische Parkhaus bietet eine große Park*fläche*.
+
+  L'*aire* d'activité de l'entreprise s'est élargie cette année.
+  Der Tätigkeits*bereich* des Unternehmens hat sich dieses Jahr erweitert.
+
+  Les vautours surveillent leur *aire* jour et nuit.
+  Die Geier bewachen ihren *Horst* Tag und Nacht.
+
+  L'architecte a calculé l'*aire* totale du nouveau bâtiment.
+  Der Architekt hat den *Flächeninhalt* des neuen Gebäudes berechnet.
+
+  Cette *aire* protégée abrite des espèces menacées.
+  Dieses Schutz*gebiet* beherbergt bedrohte Arten.
+
+  L'*aire* olfactive du cerveau analyse les odeurs.
+  Der *Bereich* für den Geruchssinn im Gehirn analysiert die Gerüche.
+
+  Les enfants adorent cette nouvelle *aire* de jeux aquatiques.
+  Die Kinder lieben diesen neuen Wasser*spielplatz*.
+
+  L'*aire* du triangle peut être calculée avec la formule de Héron.
+  Der *Flächeninhalt* des Dreiecks kann mit der Heron-Formel berechnet werden.
+
+  Le capitaine connaît toutes les *aires* du vent par cœur.
+  Der Kapitän kennt alle Wind*richtungen* auswendig.
+
+  La nouvelle *aire* de service comprend un restaurant et une station-service.
+  Die neue Auto*raststätte* umfasst ein Restaurant und eine Tankstelle.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

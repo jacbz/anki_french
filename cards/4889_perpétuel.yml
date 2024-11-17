@@ -13,14 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elle est une tension perpétuelle.
-  Sie ist eine immerwährende Spannung.
+  Elle est une tension *perpétuelle*.
+  Sie ist eine *ständige* Anspannung.
 
-  Le mouvement perpétuel est impossible.
-  Eine dauerhafte Bewegung ist unmöglich.
+  Le bruit *perpétuel* de la circulation m'empêche de dormir.
+  Der *andauernde* Verkehrslärm hindert mich am Schlafen.
 
-  Les sœurs ont prononcé les vœux perpétuels, s'engageant ainsi à consacrer leur vie à Dieu.
-  Die Schwestern haben die ewigen Gelübde abgelegt und sich damit dazu verpflichtet, ihr Leben Gott zu widmen.
+  Un feu *perpétuel* brûlait dans le temple ancien.
+  Ein *ewiges* Feuer brannte im alten Tempel.
+
+  Les vœux *perpétuels* engagent les moines pour toute leur vie.
+  Die *ewigen* Gelübde binden die Mönche ihr ganzes Leben lang.
+
+  L'océan produit une rumeur *perpétuelle*.
+  Der Ozean erzeugt ein *immerwährendes* Rauschen.
+
+  Il cherche le mouvement *perpétuel* depuis des années.
+  Er sucht seit Jahren nach dem *ewigen* Bewegungsantrieb.
+
+  Le criminel a été condamné à la prison *perpétuelle*.
+  Der Verbrecher wurde zu *lebenslanger* Haft verurteilt.
+
+  Marie vit dans une angoisse *perpétuelle*.
+  Marie lebt in *ständiger* Angst.
+
+  Le secrétaire *perpétuel* de l'Académie a démissionné.
+  Der *ständige* Sekretär der Akademie ist zurückgetreten.
+
+  Cette plante *perpétuelle* fleurit toute la belle saison.
+  Diese *dauerblühende* Pflanze blüht die ganze Saison.
+
+  L'histoire semble être un recommencement *perpétuel*.
+  Die Geschichte scheint eine *ewige* Wiederholung zu sein.
+
+  Ses jérémiades *perpétuelles* fatiguent tout le monde.
+  Seine *fortwährenden* Jammereien nerven alle.
+
+  Le droit de propriété est *perpétuel*.
+  Das Eigentumsrecht ist *unvergänglich*.
+
+  Cette rente *perpétuelle* sera versée par l'État.
+  Diese *unbefristete* Rente wird vom Staat gezahlt.
+
+  Les interruptions *perpétuelles* rendent le travail impossible.
+  Die *ständigen* Unterbrechungen machen das Arbeiten unmöglich.
+
+  C'est un insatisfait *perpétuel*.
+  Er ist ein *ewiger* Nörgler.
+
+  Sa vie fut un combat *perpétuel*.
+  Sein Leben war ein *immerwährender* Kampf.
+
+  Le murmure *perpétuel* du vent berçait les arbres.
+  Das *ständige* Rauschen des Windes wiegte die Bäume.
+
+  Les difficultés *perpétuelles* ont renforcé son caractère.
+  Die *fortwährenden* Schwierigkeiten haben seinen Charakter gestärkt.
+
+  L'homme est en devenir *perpétuel*.
+  Der Mensch befindet sich in *ständiger* Entwicklung.
+
+  Kant rêvait d'une paix *perpétuelle* entre les nations.
+  Kant träumte von einem *ewigen* Frieden zwischen den Nationen.
+
+  Ce calendrier *perpétuel* permet de prévoir les dates futures.
+  Dieser *immerwährende* Kalender ermöglicht es, zukünftige Daten vorherzusagen.
+
+  L'adoration *perpétuelle* se pratique encore dans certaines églises.
+  Die *ewige* Anbetung wird noch in einigen Kirchen praktiziert.
+
+  Les fidèles se relaient pour une prière *perpétuelle*.
+  Die Gläubigen wechseln sich für ein *immerwährendes* Gebet ab.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

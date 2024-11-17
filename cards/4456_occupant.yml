@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le parlement négocie avec les occupants.
-  Das Parlament verhandelt mit den Besetzern.
+  Le parlement négocie avec les *occupants*.
+  Das Parlament verhandelt mit den *Besatzungssoldaten*.
 
-  Les occupants ont quitté le bâtiment.
-  Die Besetzer haben das Gebäude verlassen.
+  Les *occupants* avaient installé un quartier général dans la mairie.
+  Die *Besatzungssoldaten* hatten im Rathaus ein Hauptquartier eingerichtet.
 
-  Pierre fut le premier occupant de cette maison, avant qu'elle ne soit vendue à la famille Dubois.
-  Pierre war der erste Besitzer dieses Hauses, bevor es an die Familie Dubois verkauft wurde.
+  Les forces *occupantes* ont imposé un couvre-feu.
+  Die *Besatzungs*truppen haben eine Ausgangssperre verhängt.
 
-  Les occupants et les résistants se sont affrontés dans une bataille sanglante.
-  Die Besatzungssoldaten und die Widerstandskämpfer lieferten sich eine blutige Schlacht.
+  Il n'y avait que trois *occupants* dans la voiture accidentée.
+  Es waren nur drei *Insassen* in dem Unfallwagen.
+
+  Les *occupants* de l'immeuble ont dû évacuer à cause d'une fuite de gaz.
+  Die *Bewohner* des Gebäudes mussten wegen eines Gaslecks evakuiert werden.
+
+  En tant qu'*occupante* de l'appartement, Marie doit payer les charges.
+  Als *Bewohnerin* der Wohnung muss Marie die Nebenkosten bezahlen.
+
+  La puissance *occupante* a imposé de nouvelles lois.
+  Die *Besatzungs*macht hat neue Gesetze erlassen.
+
+  Les *occupants* de la chambre d'hôtel ont signalé un problème de climatisation.
+  Die *Bewohner* des Hotelzimmers haben ein Problem mit der Klimaanlage gemeldet.
+
+  L'*occupant* de bonne foi peut rester dans les lieux.
+  Der gutgläubige *Besitznehmer* darf in den Räumlichkeiten bleiben.
+
+  Les *occupants* du train ont été évacués suite à une panne technique.
+  Die *Insassen* des Zuges wurden wegen einer technischen Störung evakuiert.
+
+  La résistance s'est organisée contre l'*occupant*.
+  Der Widerstand hat sich gegen die *Besatzungsmacht* organisiert.
+
+  Sophie est devenue *occupante* du logement après le départ de son colocataire.
+  Sophie wurde *Bewohnerin* der Wohnung nach dem Auszug ihres Mitbewohners.
+
+  L'armée *occupante* a établi des points de contrôle dans toute la ville.
+  Die *Besatzungs*armee hat in der ganzen Stadt Kontrollpunkte eingerichtet.
+
+  Les nouveaux *occupants* ont repeint tout l'appartement.
+  Die neuen *Bewohner* haben die ganze Wohnung neu gestrichen.
+
+  En tant que premier *occupant*, il a des droits particuliers.
+  Als erster *Besitznehmer* hat er besondere Rechte.
+
+  Les *occupants* du bus scolaire sont tous rentrés sains et saufs.
+  Die *Insassen* des Schulbusses sind alle wohlbehalten zurückgekehrt.
+
+  La ville a résisté à l'*occupant* pendant plusieurs mois.
+  Die Stadt hat der *Besatzungsmacht* mehrere Monate lang Widerstand geleistet.
+
+  Les *occupants* sans titre devront quitter les lieux avant la fin du mois.
+  Die illegalen *Bewohner* müssen die Räumlichkeiten vor Ende des Monats verlassen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

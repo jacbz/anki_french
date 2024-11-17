@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’aimais tant étudier que je trouvais passionnant d’enseigner.
-  Ich lernte so gerne, dass ich es spannend fand, zu unterrichten.
+  J'aimais tant étudier que je trouvais *passionnant* d'enseigner.
+  Ich liebte das Lernen so sehr, dass ich das Unterrichten *fesselnd* fand.
 
-  Ce livre est passionnant.
-  Dieses Buch ist spannend.
+  Le débat d'hier soir était vraiment *passionnant*.
+  Die gestrige Debatte war wirklich *faszinierend*.
+
+  Cette série documentaire sur l'Égypte ancienne est *passionnante*.
+  Diese Dokumentarserie über das alte Ägypten ist *fesselnd*.
+
+  Marie est une personne *passionnante* qui a beaucoup voyagé.
+  Marie ist eine *faszinierende* Person, die viel gereist ist.
+
+  Le nouveau professeur rend les mathématiques *passionnantes*.
+  Der neue Lehrer macht Mathematik *fesselnd*.
+
+  J'ai lu un livre *passionnant* sur l'histoire du jazz.
+  Ich habe ein *faszinierendes* Buch über die Geschichte des Jazz gelesen.
+
+  Cette conférence sur l'intelligence artificielle était *passionnante*.
+  Dieser Vortrag über künstliche Intelligenz war *faszinierend*.
+
+  Le mystère devient de plus en plus *passionnant*.
+  Das Geheimnis wird immer *fesselnder*.
+
+  Ces découvertes archéologiques sont vraiment *passionnantes*.
+  Diese archäologischen Entdeckungen sind wirklich *faszinierend*.
+
+  La conversation avec ton grand-père était *passionnante*.
+  Das Gespräch mit deinem Großvater war *fesselnd*.
+
+  Cette exposition sur l'art moderne est *passionnante*.
+  Diese Ausstellung über moderne Kunst ist *faszinierend*.
+
+  Son récit de voyage était particulièrement *passionnant*.
+  Seine Reiseerzählung war besonders *fesselnd*.
+
+  Les derniers chapitres du roman sont devenus très *passionnants*.
+  Die letzten Kapitel des Romans wurden sehr *faszinierend*.
+
+  Cette recherche sur le cerveau humain est *passionnante*.
+  Diese Forschung über das menschliche Gehirn ist *fesselnd*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

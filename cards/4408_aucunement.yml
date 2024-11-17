@@ -13,17 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je ne me sens aucunement coupable.
-  Ich fühle mich in keiner Weise schuldig.
+  Je ne me sens *aucunement* coupable.
+  Ich fühle mich *keineswegs* schuldig.
 
-  Je ne suis aucunement d’accord avec toi.
-  Ich bin keineswegs mit dir einverstanden.
+  Elle n'est *aucunement* responsable de cette erreur.
+  Sie ist *in keiner Weise* für diesen Fehler verantwortlich.
 
-  Je n'ai aucunement envie de sortir ce soir.
-  Ich habe überhaupt keine Lust, heute Abend auszugehen.
+  Je n'ai *aucunement* envie de sortir ce soir.
+  Ich habe *überhaupt* keine Lust, heute Abend auszugehen.
 
-  Êtes-vous d'accord pour faire un don? – Aucunement!
-  Sind Sie einverstanden, zu spenden? – Nie und nimmer!
+  Êtes-vous satisfait du résultat ? – *Aucunement* !
+  Sind Sie mit dem Ergebnis zufrieden? – *Keineswegs*!
+
+  Cette décision ne m'affecte *aucunement*.
+  Diese Entscheidung betrifft mich *gar nicht*.
+
+  Je ne souhaite *aucunement* vous déranger.
+  Ich möchte Sie *in keiner Weise* stören.
+
+  Ce commentaire n'était *aucunement* destiné à vous offenser.
+  Dieser Kommentar war *keineswegs* dazu gedacht, Sie zu beleidigen.
+
+  Il n'a *aucunement* l'intention de démissionner.
+  Er hat *überhaupt* nicht die Absicht zu kündigen.
+
+  Voulez-vous participer au projet ? – *Aucunement*.
+  Möchten Sie am Projekt teilnehmen? – *Keineswegs*.
+
+  Elle n'est *aucunement* intéressée par cette proposition.
+  Sie ist an diesem Vorschlag *absolut* nicht interessiert.
+
+  Cette situation ne me dérange *aucunement*.
+  Diese Situation stört mich *überhaupt* nicht.
+
+  Je ne suis *aucunement* convaincu par ses arguments.
+  Ich bin von seinen Argumenten *in keiner Weise* überzeugt.
+
+  Cette remarque n'était *aucunement* justifiée.
+  Diese Bemerkung war *keineswegs* gerechtfertigt.
+
+  Il n'a *aucunement* besoin de s'excuser.
+  Er muss sich *gar nicht* entschuldigen.
+
+  Ces changements ne m'inquiètent *aucunement*.
+  Diese Änderungen beunruhigen mich *in keiner Weise*.
+
+  Tu n'es *aucunement* obligé de venir à la fête.
+  Du bist *überhaupt* nicht verpflichtet, zur Party zu kommen.
+
+  Je ne me sens *aucunement* concerné par cette affaire.
+  Ich fühle mich von dieser Angelegenheit *in keiner Weise* betroffen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Leurs conditions de vie deviennent intolérables.
-  Ihre Lebensbedingungen werden unerträglich.
+  Leurs conditions de vie deviennent *intolérables*.
+  Ihre Lebensbedingungen werden *unerträglich*.
 
-  Cette situation est intolérable.
-  Diese Situation ist unerträglich.
+  Cette chaleur est vraiment *intolérable* aujourd'hui.
+  Diese Hitze ist heute wirklich *unerträglich*.
+
+  Le bruit constant des travaux est *intolérable*.
+  Der ständige Baulärm ist *unerträglich*.
+
+  Son comportement envers ses collègues est devenu *intolérable*.
+  Sein Verhalten gegenüber seinen Kollegen ist *inakzeptabel* geworden.
+
+  La douleur était tellement *intolérable* qu'elle est allée directement aux urgences.
+  Die Schmerzen waren so *unerträglich*, dass sie direkt in die Notaufnahme ging.
+
+  Cette situation est *intolérable* et doit changer immédiatement.
+  Diese Situation ist *inakzeptabel* und muss sich sofort ändern.
+
+  L'odeur *intolérable* nous a forcés à quitter l'appartement.
+  Der *unerträglich*e Geruch zwang uns, die Wohnung zu verlassen.
+
+  Sa présence m'est devenue *intolérable* après notre dispute.
+  Seine Anwesenheit wurde für mich nach unserem Streit *unerträglich*.
+
+  Les pratiques discriminatoires de cette entreprise sont *intolérables*.
+  Die diskriminierenden Praktiken dieser Firma sind *inakzeptabel*.
+
+  L'humidité *intolérable* de la chambre causait des problèmes respiratoires.
+  Die *unerträglich*e Feuchtigkeit im Zimmer verursachte Atemprobleme.
+
+  Cette injustice est absolument *intolérable*.
+  Diese Ungerechtigkeit ist absolut *inakzeptabel*.
+
+  Le stress au travail est devenu *intolérable* pour beaucoup d'employés.
+  Der Stress bei der Arbeit ist für viele Angestellte *unerträglich* geworden.
+
+  L'attente est devenue *intolérable* après trois heures.
+  Das Warten wurde nach drei Stunden *unerträglich*.
+
+  Les remarques *intolérables* de Pierre ont gâché la soirée.
+  Pierres *inakzeptabel*e Bemerkungen haben den Abend ruiniert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

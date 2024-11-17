@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Son travail philosophique porte sur la responsabilité.
-  Seine philosophische Arbeit befasst sich mit dem Thema Verantwortung.
+  Son travail *philosophique* porte sur la responsabilité.
+  Seine *philosophische* Arbeit beschäftigt sich mit Verantwortung.
 
-  C’est une question philosophique.
-  Das ist eine philosophische Frage.
+  Le doute *philosophique* est le début de toute réflexion profonde.
+  Der *philosophische* Zweifel ist der Beginn jeden tiefen Nachdenkens.
+
+  Elle dirige un débat *philosophique* sur l'intelligence artificielle.
+  Sie leitet eine *philosophische* Diskussion über künstliche Intelligenz.
+
+  Les concepts *philosophiques* de Kant sont difficiles à comprendre.
+  Kants *philosophische* Konzepte sind schwer zu verstehen.
+
+  J'ai lu un roman *philosophique* sur le sens de la vie.
+  Ich habe einen *philosophischen* Roman über den Sinn des Lebens gelesen.
+
+  Le mouvement *philosophique* des Lumières a changé la société.
+  Die *philosophische* Bewegung der Aufklärung hat die Gesellschaft verändert.
+
+  Marie fait preuve d'un détachement *philosophique* face aux critiques.
+  Marie zeigt eine *philosophische* Gelassenheit gegenüber der Kritik.
+
+  Ce conte *philosophique* explore la nature du bonheur.
+  Dieses *philosophische* Märchen erkundet das Wesen des Glücks.
+
+  Les étudiants suivent un cours d'analyse *philosophique*.
+  Die Studenten besuchen einen Kurs in *philosophischer* Analyse.
+
+  Le système *philosophique* de Hegel est très complexe.
+  Hegels *philosophisches* System ist sehr komplex.
+
+  Voltaire a écrit de nombreux essais *philosophiques*.
+  Voltaire hat viele *philosophische* Essays geschrieben.
+
+  Cette école *philosophique* s'inspire de la pensée grecque.
+  Diese *philosophische* Schule ist von griechischem Denken inspiriert.
+
+  La discussion *philosophique* a duré toute la nuit.
+  Die *philosophische* Diskussion dauerte die ganze Nacht.
+
+  Ce traité *philosophique* examine la nature de la conscience.
+  Diese *philosophische* Abhandlung untersucht das Wesen des Bewusstseins.
+
+  Elle aborde les problèmes quotidiens avec une attitude *philosophique*.
+  Sie geht die alltäglichen Probleme mit einer *philosophischen* Haltung an.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

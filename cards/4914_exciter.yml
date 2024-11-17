@@ -13,23 +13,125 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je suis très excitée d’aller voter.
-  Ich bin sehr aufgeregt, zur Wahl zu gehen.
+  Je suis très *excitée* d'aller voter.
+  Ich bin sehr *aufgeregt*, wählen zu gehen.
 
-  Ce film m’excite beaucoup.
-  Dieser Film regt mich sehr an.
+  La musique forte peut *exciter* les chiens.
+  Laute Musik kann Hunde *unruhig machen*.
 
-  Jean a tenté d'exciter son voisin contre Pierre en lui racontant des mensonges sur ses habitudes.
-  Jean hat versucht, seinen Nachbarn gegen Pierre aufzubringen, indem er ihm Lügen über dessen Gewohnheiten erzählte.
+  Son parfum l'*excitait* beaucoup.
+  Ihr Parfüm hat ihn sehr *erregt*.
 
-  Pierre s'est excité sur la façon dont il avait été traité injustement.
-  Pierre hat sich an der Art und Weise, wie er ungerecht behandelt wurde, festgebissen.
+  L'odeur du pain frais *excite* l'appétit.
+  Der Duft von frischem Brot *regt* den Appetit *an*.
 
-  Le chef rebelle a excité ses troupes à la désobéissance.
-  Der rebellische Anführer hat seine Truppen zum Ungehorsam aufgewühlt.
+  Cette histoire mystérieuse *excite* mon imagination.
+  Diese mysteriöse Geschichte *regt* meine Fantasie *an*.
 
-  Le prédicateur charlatan a excité la foule à la débauche.
-  Der Scharlatan-Prediger hat die Menge zur Unzucht verführt.
+  Le café peut *exciter* le système nerveux.
+  Kaffee kann das Nervensystem *erregen*.
+
+  Les manifestants *excitaient* la foule à la violence.
+  Die Demonstranten *stachelten* die Menge zur Gewalt *an*.
+
+  Le professeur *excite* la curiosité des élèves.
+  Der Lehrer *weckt* die Neugier der Schüler.
+
+  La chaleur *excite* les tensions dans la ville.
+  Die Hitze *verschlimmert* die Spannungen in der Stadt.
+
+  Cette idée ne m'*excite* pas du tout.
+  Diese Idee *reizt* mich überhaupt nicht.
+
+  Le travail manuel l'*excite* beaucoup.
+  Die Handarbeit *begeistert* ihn sehr.
+
+  "Ne t'*excite* pas comme ça sur ce jeu vidéo !"
+  "*Reg* dich nicht so über dieses Videospiel *auf*!"
+
+  Les enfants *s'excitent* facilement avant Noël.
+  Die Kinder *regen* sich vor Weihnachten leicht *auf*.
+
+  Cette découverte *excite* la jalousie de ses collègues.
+  Diese Entdeckung *erregt* den Neid seiner Kollegen.
+
+  Le chercheur *excite* les cellules avec des impulsions électriques.
+  Der Forscher *erregt* die Zellen mit elektrischen Impulsen.
+
+  La vue du sang *excite* le requin.
+  Der Anblick von Blut *treibt* den Hai *an*.
+
+  Pierre *s'excite* toujours pendant les débats politiques.
+  Pierre *regt* sich bei politischen Debatten immer *auf*.
+
+  La compétition *excite* son courage.
+  Der Wettkampf *spornt* seinen Mut *an*.
+
+  Les réseaux sociaux *excitent* les tensions entre les communautés.
+  Soziale Medien *verschärfen* die Spannungen zwischen den Gemeinschaften.
+
+  Son nouveau projet *excite* son imagination créative.
+  Sein neues Projekt *regt* seine kreative Vorstellungskraft *an*.
+
+  L'alcool peut *exciter* les comportements agressifs.
+  Alkohol kann aggressives Verhalten *fördern*.
+
+  Marie *excite* son chien avec un bâton.
+  Marie *reizt* ihren Hund mit einem Stock.
+
+  La douleur *s'excite* quand je bouge le bras.
+  Der Schmerz *verschlimmert* sich, wenn ich den Arm bewege.
+
+  Les supporters *excités* ont envahi le terrain.
+  Die *aufgebrachten* Fans stürmten das Spielfeld.
+
+  Le patron *excite* ses employés à travailler plus dur.
+  Der Chef *spornt* seine Mitarbeiter zu härterer Arbeit *an*.
+
+  Cette musique *excite* les danseurs.
+  Diese Musik *versetzt* die Tänzer *in Hochstimmung*.
+
+  La vue de la nourriture *excite* sa faim.
+  Der Anblick des Essens *regt* seinen Hunger *an*.
+
+  Le scientifique *excite* les molécules avec un laser.
+  Der Wissenschaftler *erregt* die Moleküle mit einem Laser.
+
+  Les enfants *s'excitent* trop devant la télévision.
+  Die Kinder *regen* sich vor dem Fernseher zu sehr *auf*.
+
+  "Cette proposition ne m'*excite* pas vraiment."
+  "Dieser Vorschlag *reizt* mich nicht wirklich."
+
+  Son succès *excite* l'envie de ses rivaux.
+  Sein Erfolg *weckt* den Neid seiner Rivalen.
+
+  Les nouvelles technologies *excitent* sa curiosité.
+  Neue Technologien *wecken* seine Neugier.
+
+  Le bruit constant *excite* sa migraine.
+  Der konstante Lärm *verschlimmert* ihre Migräne.
+
+  Cette histoire *excite* ma compassion.
+  Diese Geschichte *weckt* mein Mitgefühl.
+
+  Le médecin *excite* le nerf avec une électrode.
+  Der Arzt *stimuliert* den Nerv mit einer Elektrode.
+
+  Les parents *excitent* l'ambition de leurs enfants.
+  Die Eltern *fördern* den Ehrgeiz ihrer Kinder.
+
+  La victoire *excite* leur enthousiasme.
+  Der Sieg *steigert* ihre Begeisterung.
+
+  Cette perspective *excite* mon intérêt.
+  Diese Perspektive *weckt* mein Interesse.
+
+  Le parfum des fleurs *excite* les abeilles.
+  Der Duft der Blumen *regt* die Bienen *an*.
+
+  "Ne t'*excite* pas pour si peu !"
+  "*Reg* dich nicht wegen so einer Kleinigkeit *auf*!"
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

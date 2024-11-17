@@ -13,20 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La majorité de nos véhicules blindés sont des blindés légers.
-  Die Mehrheit unserer gepanzerten Fahrzeuge sind Leichtpanzer.
+  La majorité de nos véhicules *blindés* sont des *blindés* légers.
+  Die Mehrheit unserer *gepanzerten* Fahrzeuge sind leichte *Panzer*.
 
-  La voiture est blindée.
-  Das Auto ist gepanzert.
+  Les soldats ont repéré un *blindé* ennemi à l'horizon.
+  Die Soldaten haben einen feindlichen *Panzer* am Horizont entdeckt.
 
-  La division blindée, qui était en route vers le front, a été attaquée par l'ennemi.
-  Die Panzerdivision, die zum Frontverlauf unterwegs war, wurde vom Feind angegriffen.
+  La banque a fait installer une porte *blindée* après le cambriolage.
+  Die Bank hat nach dem Einbruch eine *gepanzerte* Tür einbauen lassen.
 
-  La colonne blindée a traversé la ville sans encombre.
-  Die Panzerkolonne durchquerte die Stadt ohne Zwischenfälle.
+  Une colonne de *blindés* traverse le pont.
+  Eine Kolonne von *Panzern* überquert die Brücke.
 
-  Il est blindé contre les critiques, rien ne peut le faire changer d'avis.
-  Er ist gegen Kritik abgehärtet, nichts kann ihn vom Gegenteil überzeugen.
+  Le président se déplace toujours dans une voiture *blindée*.
+  Der Präsident bewegt sich immer in einem *gepanzerten* Wagen fort.
+
+  Mon frère sert dans une division *blindée* depuis deux ans.
+  Mein Bruder dient seit zwei Jahren in einer *Panzer*division.
+
+  Les ingénieurs ont construit un transformateur *blindé* très performant.
+  Die Ingenieure haben einen leistungsstarken *geschirmten* Transformator gebaut.
+
+  Marie est *blindée* contre les critiques après vingt ans d'expérience.
+  Marie ist nach zwanzig Jahren Erfahrung gegen Kritik *abgehärtet*.
+
+  "Je suis complètement *blindé* contre le stress maintenant."
+  "Ich bin jetzt total *abgehärtet* gegen Stress."
+
+  La nouvelle galerie *blindée* du métro résiste aux infiltrations d'eau.
+  Die neue *verschalte* U-Bahn-Galerie widersteht dem eindringenden Wasser.
+
+  Un moteur électrique *blindé* équipe cette machine industrielle.
+  Ein *abgeschirmter* Elektromotor treibt diese Industriemaschine an.
+
+  "Ce vieux cuisinier a le gosier *blindé*, il mange les plats les plus épicés sans sourciller."
+  "Dieser alte Koch hat eine *abgehärtete* Kehle, er isst die schärfsten Gerichte ohne mit der Wimper zu zucken."
+
+  Notre régiment *blindé* participe à l'exercice militaire.
+  Unser *Panzer*regiment nimmt an der Militärübung teil.
+
+  Les *blindés* ont joué un rôle décisif dans cette bataille.
+  Die *Panzer* spielten in dieser Schlacht eine entscheidende Rolle.
+
+  "Après quinze ans de service client, elle est *blindée* contre les remarques désagréables."
+  "Nach fünfzehn Jahren im Kundenservice hat sie ein dickes *Fell* gegen unangenehme Bemerkungen."
+
+  Le train *blindé* transporte des matériaux sensibles.
+  Der *gepanzerte* Zug transportiert sensible Materialien.
+
+  Ce jeune soldat vient d'être affecté aux *blindés*.
+  Dieser junge Soldat wurde gerade zur *Panzer*truppe versetzt.
+
+  L'ambassade est protégée par des vitres *blindées*.
+  Die Botschaft ist durch *panzersicheres* Glas geschützt.
+
+  Les experts examinent l'épave du *blindé* détruit.
+  Die Experten untersuchen das Wrack des zerstörten *Panzers*.
+
+  Le convoi de véhicules *blindés* traverse la ville.
+  Der Konvoi *gepanzerter* Fahrzeuge durchquert die Stadt.
+
+  "Avec son esprit *blindé*, rien ne peut plus le choquer."
+  "Mit seinem *abgestumpften* Geist kann ihn nichts mehr schockieren."
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

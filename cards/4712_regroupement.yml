@@ -13,20 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils inventent les regroupements de populations.
-  Sie erfinden die Zusammenlegung von Bevölkerungsgruppen.
+  Ils inventent les *regroupements* de populations.
+  Sie erfinden die *Zusammenschlüsse* von Bevölkerungsgruppen.
 
-  Le regroupement des entreprises est souvent bénéfique.
-  Die Zusammenfassung von Unternehmen ist oft vorteilhaft.
+  Le *regroupement* des communes voisines a créé une nouvelle entité administrative.
+  Der *Zusammenschluss* der Nachbargemeinden hat eine neue Verwaltungseinheit geschaffen.
 
-  La demande de regroupement familial a été acceptée, ce qui signifie que Marie pourra rejoindre sa famille en France.
-  Die Familienzusammenführung wurde genehmigt, sodass Marie nun zu ihrer Familie nach Frankreich ziehen kann.
+  Cette coopérative est née d'un *regroupement* de petits producteurs locaux.
+  Diese Genossenschaft entstand aus einem *Zusammenschluss* von kleinen lokalen Erzeugern.
 
-  Le regroupement familial à responsabilité limitée permet aux membres de la famille de gérer une entreprise ensemble.
-  Die Familien-GmbH ermöglicht es den Familienmitgliedern, gemeinsam ein Unternehmen zu führen.
+  Le *regroupement* familial lui a permis de retrouver ses enfants après cinq ans.
+  Die Familien*zusammenführung* ermöglichte es ihm, seine Kinder nach fünf Jahren wiederzusehen.
 
-  Le regroupement de communes a permis de créer une structure administrative plus efficace.
-  Der Gemeindeverband hat die Schaffung einer effizienteren Verwaltungsstruktur ermöglicht.
+  La mairie a organisé un *regroupement* des citoyens pour discuter du nouveau projet.
+  Das Rathaus organisierte eine *Versammlung* der Bürger, um über das neue Projekt zu diskutieren.
+
+  Le *regroupement* des informations dans une seule base de données facilite les recherches.
+  Die *Zusammenführung* der Informationen in einer einzigen Datenbank erleichtert die Recherche.
+
+  Après le *regroupement* des parcelles, l'exploitation agricole est devenue plus efficace.
+  Nach der *Zusammenlegung* der Grundstücke wurde der landwirtschaftliche Betrieb effizienter.
+
+  Les manifestants ont reçu l'ordre de *regroupement* sur la place centrale.
+  Die Demonstranten erhielten den Befehl zur *Versammlung* auf dem zentralen Platz.
+
+  Le *regroupement* des forces de police a permis de mieux sécuriser l'événement.
+  Der *Zusammenschluss* der Polizeikräfte ermöglichte eine bessere Absicherung der Veranstaltung.
+
+  Ce *regroupement* d'entreprises a créé le plus grand groupe du secteur.
+  Dieser *Zusammenschluss* von Unternehmen schuf die größte Gruppe der Branche.
+
+  Les équipes travaillent sur le *regroupement* des dossiers médicaux.
+  Die Teams arbeiten an der *Zusammenführung* der Krankenakten.
+
+  Le *regroupement* des associations sportives a donné naissance à un nouveau club.
+  Der *Zusammenschluss* der Sportvereine führte zur Entstehung eines neuen Clubs.
+
+  Un *regroupement* spontané s'est formé devant le théâtre après le spectacle.
+  Eine spontane *Versammlung* bildete sich nach der Vorstellung vor dem Theater.
+
+  Le *regroupement* des services administratifs dans un seul bâtiment simplifie les démarches.
+  Die *Zusammenlegung* der Verwaltungsdienste in einem einzigen Gebäude vereinfacht die Abläufe.
+
+  La demande de *regroupement* familial a été acceptée par les autorités.
+  Der Antrag auf Familien*zusammenführung* wurde von den Behörden genehmigt.
+
+  Ce *regroupement* intercommunal permet de mutualiser les ressources.
+  Dieser kommunale *Zusammenschluss* ermöglicht es, die Ressourcen gemeinsam zu nutzen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

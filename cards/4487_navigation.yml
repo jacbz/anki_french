@@ -13,26 +13,71 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La navigation sur le danube est bloquée depuis 18 mois.
-  Die Schifffahrt auf der Donau ist seit 18 Monaten blockiert.
+  La *navigation* sur le Danube est bloquée depuis 18 mois.
+  Die *Schifffahrt* auf der Donau ist seit 18 Monaten blockiert.
 
-  La navigation sur internet est devenue très courante.
-  Die Navigation im Internet ist sehr verbreitet geworden.
+  La *navigation* à voile est une activité écologique et passionnante.
+  Das *Segeln* ist eine umweltfreundliche und spannende Aktivität.
 
-  La navigation maritime est un domaine complexe qui englobe toutes les activités liées à la circulation des navires sur les mers et les océans.
-  Seeverkehr ist ein komplexes Gebiet, das alle Aktivitäten umfasst, die mit der Schifffahrt auf Meeren und Ozeanen verbunden sind.
+  Les nouvelles technologies facilitent la *navigation* aérienne.
+  Die neuen Technologien erleichtern die *Luftfahrt*.
 
-  La navigation aérienne est l'ensemble des activités permettant aux aéronefs de se déplacer dans l'espace aérien.
-  Flugnavigation umfasst alle Aktivitäten, die es Flugzeugen ermöglichen, sich im Luftraum zu bewegen.
+  La *navigation* spatiale a fait des progrès remarquables depuis les années 60.
+  Die *Raumfahrt* hat seit den 60er Jahren bemerkenswerte Fortschritte gemacht.
 
-  La navigation sur les canaux est une spécialité de la navigation maritime qui consiste à faire circuler des bateaux sur des voies d'eau artificielles.
-  Kanalschifffahrt ist eine Spezialität der Schifffahrt, die sich mit dem Befahren von künstlichen Wasserwegen durch Schiffe befasst.
+  La *navigation* sur les canaux permet de découvrir la France autrement.
+  Die *Kanalschifffahrt* ermöglicht es, Frankreich auf andere Weise zu entdecken.
 
-  La navigation spatiale est un domaine d'exploration qui consiste à envoyer des engins spatiaux dans l'espace.
-  Raumfahrt ist ein Forschungsgebiet, das sich mit dem Abschicken von Raumfahrzeugen ins Weltall befasst.
+  Cette compagnie de *navigation* propose des croisières en Méditerranée.
+  Diese *Schifffahrts*gesellschaft bietet Kreuzfahrten im Mittelmeer an.
 
-  Une aide à la navigation aérienne est tout ce qui peut faciliter la navigation des aéronefs.
-  Flugnavigationshilfe ist alles, was die Navigation von Flugzeugen erleichtern kann.
+  Le système de *navigation* de ma voiture m'indique un itinéraire alternatif.
+  Das *Navigations*system meines Autos zeigt mir eine alternative Route an.
+
+  Les étudiants apprennent les bases de la *navigation* maritime.
+  Die Studenten lernen die Grundlagen der *Seefahrt*.
+
+  La *navigation* aux instruments est obligatoire par mauvais temps.
+  Die Instrumenten*navigation* ist bei schlechtem Wetter obligatorisch.
+
+  Notre *navigation* de plaisance s'est terminée dans une belle marina.
+  Unsere Freizeit*schifffahrt* endete in einem schönen Yachthafen.
+
+  Un nouveau système d'aide à la *navigation* aérienne sera installé.
+  Eine neue *Flugnavigations*hilfe wird installiert werden.
+
+  Les conditions météorologiques rendent la *navigation* difficile aujourd'hui.
+  Die Wetterbedingungen machen die *Schifffahrt* heute schwierig.
+
+  La *navigation* fluviale est un mode de transport écologique.
+  Die Fluss*schifffahrt* ist eine umweltfreundliche Transportart.
+
+  Ce logiciel de *navigation* est très intuitif.
+  Diese *Navigations*software ist sehr intuitiv.
+
+  La *navigation* hauturière exige beaucoup d'expérience.
+  Die Hochsee*schifffahrt* erfordert viel Erfahrung.
+
+  J'ai obtenu mon permis de *navigation* la semaine dernière.
+  Ich habe letzte Woche meinen *Schifffahrts*schein gemacht.
+
+  Les astronautes s'entraînent aux techniques de *navigation* spatiale.
+  Die Astronauten trainieren *Raumfahrt*techniken.
+
+  La *navigation* sur ce site web est vraiment simple.
+  Die *Navigation* auf dieser Website ist wirklich einfach.
+
+  Une longue *navigation* nous attend avant d'atteindre le port.
+  Eine lange *Schifffahrt* liegt vor uns, bevor wir den Hafen erreichen.
+
+  Cette école propose des cours de *navigation* depuis vingt ans.
+  Diese Schule bietet seit zwanzig Jahren *Navigations*kurse an.
+
+  La *navigation* à vue est interdite dans cette zone.
+  Die Sicht*navigation* ist in diesem Gebiet verboten.
+
+  Les Vikings excellaient dans la *navigation* côtière.
+  Die Wikinger waren Meister der Küsten*schifffahrt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

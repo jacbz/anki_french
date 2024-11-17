@@ -13,26 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous ne desservons pas adéquatement les auditeurs.
-  Wir bedienen die Hörerinnen und Hörer nicht angemessen.
+  Nous ne *desservons* pas adéquatement les auditeurs.
+  Wir *versorgen* die Zuhörer nicht angemessen.
 
-  Le train ne dessert plus cette gare.
-  Der Zug bedient diesen Bahnhof nicht mehr.
+  Cette ligne de bus *dessert* trois villages différents.
+  Diese Buslinie *fährt* drei verschiedene Dörfer *an*.
 
-  Le serveur a mal desservi le client, ce qui a gâché son expérience au restaurant.
-  Der Kellner hat den Kunden schlecht bedient, was seine Erfahrung im Restaurant verdorben hat.
+  Le prêtre *dessert* la paroisse depuis vingt ans.
+  Der Priester *betreut* die Gemeinde seit zwanzig Jahren.
 
-  Le train dessert cette gare toutes les heures.
-  Der Zug hält stündlich an diesem Bahnhof.
+  Avant de partir, tu dois *desservir* la table.
+  Bevor du gehst, musst du den Tisch *abräumen*.
 
-  Le candidat a été desservi par ses adversaires avec des rumeurs infondées.
-  Der Kandidat wurde von seinen Gegnern mit unbegründeten Gerüchten in Misskredit gebracht.
+  Son attitude agressive l'a *desservi* lors de l'entretien.
+  Seine aggressive Haltung hat ihm beim Vorstellungsgespräch *geschadet*.
 
-  Le quartier est bien desservi par les transports en commun.
-  Das Viertel hat einen guten Anschluss an die öffentlichen Verkehrsmittel.
+  La nouvelle autoroute *dessert* toute la région.
+  Die neue Autobahn *erschließt* die ganze Region.
 
-  La maison est bien desservie par les commerces et les écoles.
-  Das Haus liegt in bester Lage, in der Nähe von Geschäften und Schulen.
+  Marie *dessert* toujours la table sans qu'on le lui demande.
+  Marie *räumt* den Tisch immer *ab*, ohne dass man sie darum bittet.
+
+  Ce long couloir *dessert* toutes les chambres de l'étage.
+  Dieser lange Flur *führt zu* allen Zimmern der Etage.
+
+  Les rumeurs qu'il répand *desservent* notre cause.
+  Die Gerüchte, die er verbreitet, *schaden* unserer Sache.
+
+  Cette compagnie aérienne *dessert* maintenant l'Asie.
+  Diese Fluggesellschaft *fliegt* jetzt Asien *an*.
+
+  Le métro *dessert* ce quartier toutes les cinq minutes.
+  Die U-Bahn *fährt* dieses Viertel alle fünf Minuten *an*.
+
+  Ses commentaires maladroits l'ont *desservi* auprès du jury.
+  Seine unbeholfenen Kommentare haben ihm bei der Jury *geschadet*.
+
+  Le train ne *dessert* plus cette gare depuis janvier.
+  Der Zug *hält* seit Januar nicht mehr an diesem Bahnhof.
+
+  Ces conduites de gaz *desservent* tout l'immeuble.
+  Diese Gasleitungen *versorgen* das ganze Gebäude.
+
+  Son accent fort l'a *desservi* pendant sa présentation.
+  Sein starker Akzent hat ihm während seiner Präsentation *geschadet*.
+
+  Qui va *desservir* aujourd'hui ?
+  Wer wird heute *abräumen*?
+
+  Cette route *dessert* mal les communes environnantes.
+  Diese Straße *erschließt* die umliegenden Gemeinden schlecht.
+
+  Les enfants ont déjà *desservi* la table du petit-déjeuner.
+  Die Kinder haben den Frühstückstisch schon *abgeräumt*.
+
+  Ces déclarations vont nous *desservir* auprès du directeur.
+  Diese Aussagen werden uns beim Direktor *schaden*.
+
+  Le bateau *dessert* trois ports différents.
+  Das Schiff *läuft* drei verschiedene Häfen *an*.
+
+  L'église est *desservie* par deux prêtres.
+  Die Kirche wird von zwei Priestern *betreut*.
+
+  Notre quartier est bien *desservi* par les transports en commun.
+  Unser Viertel ist gut an den öffentlichen Nahverkehr *angebunden*.
+
+  Son manque d'expérience l'a *desservi* dans sa recherche d'emploi.
+  Seine mangelnde Erfahrung hat ihm bei der Arbeitssuche *geschadet*.
+
+  Cette ligne de tramway *dessert* le centre-ville.
+  Diese Straßenbahnlinie *fährt* die Innenstadt *an*.
+
+  Je vais *desservir* pendant que vous prenez le café.
+  Ich werde *abräumen*, während ihr Kaffee trinkt.
+
+  Le pasteur *dessert* trois temples chaque dimanche.
+  Der Pastor *betreut* jeden Sonntag drei Kirchen.
+
+  Cette nouvelle loi va *desservir* les petites entreprises.
+  Dieses neue Gesetz wird den kleinen Unternehmen *schaden*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

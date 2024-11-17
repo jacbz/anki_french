@@ -13,11 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Prévoyez-vous d’autres séries de concert prochainement?
-  Planen Sie in nächster Zeit weitere Konzertreihen?
+  Prévoyez-vous d'autres séries de concert *prochainement* ?
+  Planen Sie *demnächst* weitere Konzertreihen?
 
-  Je vais prochainement partir en vacances.
-  Ich werde bald in den Urlaub fahren.
+  Les résultats seront annoncés *prochainement*.
+  Die Ergebnisse werden *in Kürze* bekannt gegeben.
+
+  Nous commencerons *prochainement* la rénovation de notre maison.
+  Wir werden *demnächst* mit der Renovierung unseres Hauses beginnen.
+
+  Le nouveau magasin ouvrira très *prochainement* ses portes.
+  Der neue Laden wird *in Kürze* seine Türen öffnen.
+
+  *Prochainement* à l'affiche : un film d'aventure passionnant !
+  *Demnächst* im Kino: ein spannender Abenteuerfilm!
+
+  Je dois *prochainement* rencontrer mes futurs beaux-parents.
+  Ich werde *demnächst* meine zukünftigen Schwiegereltern kennenlernen.
+
+  La date exacte sera communiquée *prochainement*.
+  Das genaue Datum wird *in Kürze* mitgeteilt.
+
+  Notre équipe lancera très *prochainement* un nouveau projet.
+  Unser Team wird *in Kürze* ein neues Projekt starten.
+
+  Les travaux du métro commenceront *prochainement*.
+  Die U-Bahn-Arbeiten werden *demnächst* beginnen.
+
+  As-tu prévu de partir en vacances *prochainement* ?
+  Hast du vor, *demnächst* in den Urlaub zu fahren?
+
+  L'application sera mise à jour très *prochainement*.
+  Die App wird *in Kürze* aktualisiert.
+
+  Nous déménagerons *prochainement* dans un plus grand appartement.
+  Wir werden *demnächst* in eine größere Wohnung umziehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

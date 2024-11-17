@@ -13,14 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’ai rencontré presque tous les résidents.
-  Ich habe fast alle Bewohnerinnen und Bewohner kennengelernt.
+  J'ai rencontré presque tous les *résidents*.
+  Ich habe fast alle *Bewohner* kennengelernt.
 
-  Le résident de cet immeuble est très sympathique.
-  Der Bewohner dieses Gebäudes ist sehr sympathisch.
+  Les *résidents* allemands en France doivent déclarer leurs revenus.
+  Die in Frankreich ansässigen *Deutschen* müssen ihre Einkünfte deklarieren.
 
-  Les résidents allemands en France sont nombreux et contribuent activement à la vie économique et sociale du pays.
-  Die in Frankreich ansässigen Deutschen sind zahlreich und tragen aktiv zum wirtschaftlichen und gesellschaftlichen Leben des Landes bei.
+  Marie est très appréciée par les autres *résidents* de la maison de retraite.
+  Marie wird von den anderen *Bewohnern* des Altersheims sehr geschätzt.
+
+  Le nouveau *résident* de l'immeuble a organisé une fête.
+  Der neue *Bewohner* des Gebäudes hat eine Party organisiert.
+
+  En tant que *résidente* universitaire, elle partage sa cuisine avec d'autres étudiants.
+  Als *Bewohnerin* des Studentenwohnheims teilt sie sich die Küche mit anderen Studenten.
+
+  Les *résidents* de la commune bénéficient d'une réduction au musée.
+  Die *Einwohner* der Gemeinde erhalten eine Ermäßigung im Museum.
+
+  Le nombre de *résidents* étrangers a augmenté ces dernières années.
+  Die Zahl der ausländischen *Gebietsansässigen* ist in den letzten Jahren gestiegen.
+
+  Cette carte de *résident* est valable pendant dix ans.
+  Diese *Aufenthalts*karte ist zehn Jahre gültig.
+
+  L'association des *résidents* du quartier organise un vide-grenier.
+  Der Verein der *Anwohner* organisiert einen Flohmarkt.
+
+  Le jeune *résident* en médecine fait ses premières gardes à l'hôpital.
+  Der junge Medizin*student* macht seine ersten Dienste im Krankenhaus.
+
+  Les *résidents* espagnols doivent renouveler leur permis de séjour.
+  Die spanischen *Gebietsansässigen* müssen ihre Aufenthaltserlaubnis erneuern.
+
+  Une réunion pour tous les *résidents* de l'immeuble aura lieu demain soir.
+  Morgen Abend findet eine Versammlung für alle *Hausbewohner* statt.
+
+  Les nouveaux *résidents* ont été chaleureusement accueillis dans le quartier.
+  Die neuen *Anwohner* wurden im Viertel herzlich willkommen geheißen.
+
+  En tant que *résidente* permanente, elle a presque les mêmes droits qu'une citoyenne.
+  Als dauerhafte *Aufenthaltsberechtigte* hat sie fast die gleichen Rechte wie eine Staatsbürgerin.
+
+  Tous les *résidents* du foyer participent aux tâches ménagères.
+  Alle *Bewohner* des Wohnheims beteiligen sich an den Hausarbeiten.
+
+  Les *résidents* suisses en France peuvent voter aux élections municipales.
+  Die in Frankreich lebenden *Schweizer* dürfen an Kommunalwahlen teilnehmen.
+
+  L'amicale des *résidents* organise un barbecue ce weekend.
+  Der *Bewohner*verein organisiert dieses Wochenende ein Grillfest.
+
+  Le statut de *résident* lui permet de travailler légalement dans le pays.
+  Der Status als *Gebietsansässiger* erlaubt es ihm, legal im Land zu arbeiten.
+
+  La *résidente* la plus âgée de la maison de retraite fête ses cent ans aujourd'hui.
+  Die älteste *Bewohnerin* des Pflegeheims feiert heute ihren hundertsten Geburtstag.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

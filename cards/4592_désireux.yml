@@ -13,20 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Beaucoup seraient désireux de vous rencontrer.
-  Viele wären begierig darauf, Sie zu treffen.
+  Beaucoup seraient *désireux* de vous rencontrer.
+  Viele wären *begierig* darauf, Sie kennenzulernen.
 
-  Je suis désireux de réussir.
-  Ich bin begierig, Erfolg zu haben.
+  Elle est *désireuse* d'apprendre le japonais depuis son enfance.
+  Sie hat seit ihrer Kindheit den *Wunsch*, Japanisch zu lernen.
 
-  Pierre est désireux de réussir dans sa carrière.
-  Pierre strebt danach, in seiner Karriere erfolgreich zu sein.
+  Les étudiants semblent particulièrement *désireux* de réussir leurs examens.
+  Die Studenten scheinen besonders danach zu *streben*, ihre Prüfungen zu bestehen.
 
-  Elle est désireuse de faire un voyage en Italie.
-  Sie hat den Wunsch, eine Reise nach Italien zu machen.
+  Je suis *désireuse* que mes enfants reçoivent la meilleure éducation possible.
+  Ich *möchte* unbedingt, dass meine Kinder die bestmögliche Ausbildung erhalten.
 
-  Les autorités ont arrêté une personne désireuse de sortir du pays.
-  Die Behörden haben eine ausreisewillige Person festgenommen.
+  Les personnes *désireuses* de quitter le pays doivent remplir ce formulaire.
+  Die *ausreisewilligen* Personen müssen dieses Formular ausfüllen.
+
+  Il était tellement *désireux* de plaire qu'il en devenait maladroit.
+  Er war so *bestrebt* zu gefallen, dass er dabei unbeholfen wurde.
+
+  Ma sœur est *désireuse* d'obtenir une promotion depuis longtemps.
+  Meine Schwester ist seit langem *erpicht* darauf, eine Beförderung zu bekommen.
+
+  Les jeunes couples *désireux* d'acheter leur première maison peuvent obtenir une aide.
+  Junge Paare, die *willens* sind, ihr erstes Haus zu kaufen, können Unterstützung erhalten.
+
+  Notre équipe est *désireuse* d'améliorer ses performances.
+  Unser Team hat den *Wunsch*, seine Leistungen zu verbessern.
+
+  Les candidats *désireux* de postuler doivent envoyer leur CV avant vendredi.
+  Kandidaten, die sich *bewerben möchten*, müssen ihren Lebenslauf bis Freitag einreichen.
+
+  Marie semblait *désireuse* d'en savoir plus sur ce sujet passionnant.
+  Marie schien *begierig* darauf zu sein, mehr über dieses spannende Thema zu erfahren.
+
+  Il était trop *désireux* de conclure l'affaire pour négocier efficacement.
+  Er war zu *erpicht* darauf, den Deal abzuschließen, um effektiv zu verhandeln.
+
+  Les spectateurs *désireux* d'obtenir les meilleures places doivent réserver tôt.
+  Zuschauer, die *interessiert* sind an den besten Plätzen, müssen früh reservieren.
+
+  Nous sommes *désireux* de contribuer au succès de ce projet innovant.
+  Wir sind *bestrebt*, zum Erfolg dieses innovativen Projekts beizutragen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

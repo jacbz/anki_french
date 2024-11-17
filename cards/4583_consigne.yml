@@ -13,23 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il rappelle quelques consignes générales.
-  Er erinnert an einige allgemeine Richtlinien.
+  Il rappelle quelques *consignes* générales.
+  Er erinnert an einige allgemeine *Anweisungen*.
 
-  La consigne était de ne pas parler à la presse.
-  Die Anweisung war, nicht mit der Presse zu sprechen.
+  J'ai la *consigne* de ne laisser entrer personne après 22 heures.
+  Ich habe die *Anweisung*, nach 22 Uhr niemanden mehr hereinzulassen.
 
-  Il y a une consigne automatique à côté du supermarché.
-  Es gibt ein Schließfach neben dem Supermarkt.
+  Le directeur a donné des *consignes* très strictes concernant la sécurité.
+  Der Direktor hat sehr strenge *Vorschriften* bezüglich der Sicherheit erlassen.
 
-  Pour le dépôt de vos bouteilles, nous avons une consigne unique.
-  Für die Abgabe Ihrer Flaschen haben wir ein Einwegpfand.
+  Les élèves n'ont pas respecté les *consignes* du professeur.
+  Die Schüler haben die *Anweisungen* des Lehrers nicht befolgt.
 
-  Les jeunes, ils brûlent la consigne en permanence.
-  Die Jugendlichen, die halten sich permanent nicht an die Vorschriften.
+  "Il a *mangé la consigne* que je lui avais donnée !"
+  "Er hat die *Anweisung* vergessen, die ich ihm gegeben hatte!"
 
-  J'ai oublié de me faire rembourser la consigne sur les bouteilles.
-  Ich habe vergessen, mir das Pfand auf den Flaschen zurückgeben zu lassen.
+  Marie doit faire quatre heures de *consigne* samedi.
+  Marie muss am Samstag vier Stunden *nachsitzen*.
+
+  Déposez vos bagages à la *consigne* avant de visiter le musée.
+  Geben Sie Ihr Gepäck vor dem Museumsbesuch bei der *Gepäckaufbewahrung* ab.
+
+  Il y a deux euros de *consigne* sur cette bouteille en verre.
+  Auf dieser Glasflasche sind zwei Euro *Pfand*.
+
+  Les soldats ont reçu de nouvelles *consignes* pour la mission.
+  Die Soldaten haben neue *Anweisungen* für den Einsatz erhalten.
+
+  Vous trouverez des *consignes* automatiques à l'entrée de la gare.
+  Am Bahnhofseingang finden Sie automatische *Schließfächer*.
+
+  Pierre a eu trois jours de *consigne* pour indiscipline.
+  Pierre bekam drei Tage *Stubenarrest* wegen Disziplinlosigkeit.
+
+  N'oubliez pas de récupérer la *consigne* pour vos bouteilles vides.
+  Vergessen Sie nicht, das *Pfand* für Ihre leeren Flaschen zurückzubekommen.
+
+  Les gardiens se transmettent la *consigne* lors du changement d'équipe.
+  Die Wächter geben die *Anweisung* bei der Schichtübergabe weiter.
+
+  Le syndicat a levé sa *consigne* de grève.
+  Die Gewerkschaft hat ihren Streik*aufruf* aufgehoben.
+
+  Voici le bulletin de *consigne* pour vos valises.
+  Hier ist der *Gepäckaufbewahrungs*schein für Ihre Koffer.
+
+  Ces emballages sont vendus sans *consigne*.
+  Diese Verpackungen werden ohne *Pfand* verkauft.
+
+  "Il a complètement *brûlé la consigne*!"
+  "Er hat sich überhaupt nicht an die *Vorschriften* gehalten!"
+
+  La *consigne* unique sur les canettes est de 25 centimes.
+  Das *Einwegpfand* auf Dosen beträgt 25 Cent.
+
+  Les *consignes* de vote seront données la semaine prochaine.
+  Die Wahl*anweisungen* werden nächste Woche bekanntgegeben.
+
+  Je dois retirer mes bagages de la *consigne* avant midi.
+  Ich muss mein Gepäck vor 12 Uhr aus der *Gepäckaufbewahrung* abholen.
+
+  Le préfet maintient ses *consignes* de vigilance.
+  Der Präfekt hält an seinen Sicherheits*vorschriften* fest.
+
+  Les *consignes* de sécurité sont affichées près de la sortie.
+  Die Sicherheits*vorschriften* hängen beim Ausgang aus.
+
+  Veuillez suivre attentivement toutes les *consignes* données.
+  Bitte befolgen Sie sorgfältig alle gegebenen *Anweisungen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

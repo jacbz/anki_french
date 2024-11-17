@@ -13,17 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’unanimité était assez improbable.
-  Einstimmigkeit war ziemlich unwahrscheinlich.
+  L'unanimité était assez *improbable*.
+  Die Einstimmigkeit war ziemlich *unwahrscheinlich*.
 
-  C’est une histoire improbable.
-  Das ist eine unwahrscheinliche Geschichte.
+  Cette rencontre *improbable* a changé ma vie.
+  Diese *unwahrscheinliche* Begegnung hat mein Leben verändert.
 
-  Ma réussite est improbable.
-  Mein Erfolg ist unwahrscheinlich.
+  Il portait une tenue *improbable* : un smoking avec des baskets.
+  Er trug eine *seltsame* Kombination: einen Smoking mit Turnschuhen.
 
-  Cela paraît très improbable.
-  Dies erscheint sehr unwahrscheinlich.
+  La victoire de notre équipe devient de plus en plus *improbable*.
+  Der Sieg unserer Mannschaft wird immer *unwahrscheinlicher*.
+
+  Cette version des événements me semble hautement *improbable*.
+  Diese Version der Ereignisse erscheint mir höchst *unwahrscheinlich*.
+
+  Un scénario aussi *improbable* ne peut pas être vrai.
+  Ein so *unwahrscheinliches* Szenario kann nicht wahr sein.
+
+  Le retour du soleil est *improbable* aujourd'hui.
+  Die Rückkehr der Sonne ist heute *unwahrscheinlich*.
+
+  La réussite de ce projet paraît *improbable* sans financement.
+  Der Erfolg dieses Projekts erscheint ohne Finanzierung *unwahrscheinlich*.
+
+  Une série de coïncidences *improbables* l'a mené jusqu'ici.
+  Eine Reihe *unwahrscheinlicher* Zufälle hat ihn hierher geführt.
+
+  Le mélange de ces ingrédients donne un goût *improbable*.
+  Die Mischung dieser Zutaten ergibt einen *merkwürdigen* Geschmack.
+
+  Il est *improbable* qu'elle arrive à l'heure.
+  Es ist *unwahrscheinlich*, dass sie pünktlich kommt.
+
+  Ces résultats semblent statistiquement *improbables*.
+  Diese Ergebnisse erscheinen statistisch *unwahrscheinlich*.
+
+  Une solution aussi *improbable* pourrait-elle fonctionner ?
+  Könnte eine so *unwahrscheinliche* Lösung funktionieren?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

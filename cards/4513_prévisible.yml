@@ -13,14 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le dénie est la plus prévisible des réponses humaines.
-  Verleugnung ist die vorhersehbarste aller menschlichen Reaktionen.
+  Le dénie est la plus *prévisible* des réponses humaines.
+  Die Verleugnung ist die *vorhersehbarste* aller menschlichen Reaktionen.
 
-  Le résultat était prévisible.
-  Das Ergebnis war vorhersehbar.
+  L'échec était *prévisible* vu son manque de préparation.
+  Das Scheitern war aufgrund seiner mangelnden Vorbereitung *vorhersehbar*.
 
-  C'est difficilement prévisible si la situation va s'améliorer ou non.
-  Das ist schwer vorauszusehen, ob sich die Lage verbessern wird oder nicht.
+  Cette tempête n'était pas *prévisible* selon les météorologues.
+  Dieser Sturm war laut den Meteorologen nicht *vorhersehbar*.
+
+  Le comportement *prévisible* des enfants facilite leur éducation.
+  Das *vorhersehbare* Verhalten der Kinder erleichtert ihre Erziehung.
+
+  L'évolution des prix est difficilement *prévisible* cette année.
+  Die Preisentwicklung ist dieses Jahr schwer *vorhersehbar*.
+
+  Les conséquences étaient parfaitement *prévisibles* dès le début.
+  Die Folgen waren von Anfang an völlig *vorhersehbar*.
+
+  Le résultat du match était-il vraiment *prévisible* ?
+  War das Spielergebnis wirklich *vorhersehbar*?
+
+  Les effets secondaires *prévisibles* sont listés dans la notice.
+  Die *vorhersehbaren* Nebenwirkungen sind in der Packungsbeilage aufgeführt.
+
+  Sa réaction était tout à fait *prévisible* dans ces circonstances.
+  Seine Reaktion war unter diesen Umständen durchaus *vorhersehbar*.
+
+  Un événement aussi peu *prévisible* nécessite une réponse rapide.
+  Ein so wenig *vorhersehbares* Ereignis erfordert eine schnelle Reaktion.
+
+  Les changements *prévisibles* du marché inquiètent les investisseurs.
+  Die *vorhersehbaren* Marktveränderungen beunruhigen die Investoren.
+
+  L'issue fatale était malheureusement *prévisible* depuis longtemps.
+  Der tödliche Ausgang war leider seit langem *vorhersehbar*.
+
+  La victoire de l'équipe favorite était facilement *prévisible*.
+  Der Sieg der favorisierten Mannschaft war leicht *vorhersehbar*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

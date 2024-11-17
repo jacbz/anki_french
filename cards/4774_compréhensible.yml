@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il est compréhensible que le public soit inquiet.
-  Es ist verständlich, dass die Öffentlichkeit besorgt ist.
+  Il est *compréhensible* que le public soit inquiet.
+  Es ist *verständlich*, dass die Öffentlichkeit beunruhigt ist.
 
-  Son explication était claire et compréhensible.
-  Seine Erklärung war klar und verständlich.
+  Ces instructions ne sont pas *compréhensibles* pour les débutants.
+  Diese Anweisungen sind für Anfänger nicht *verständlich*.
 
-  C’était compréhensible.
-  Das war verständlich.
+  Le professeur explique les mathématiques d'une manière *compréhensible*.
+  Der Lehrer erklärt Mathematik auf eine *verständliche* Art.
 
-  Sa colère est compréhensible.
-  Seine Wut ist verständlich.
+  Sa réaction était tout à fait *compréhensible* dans ces circonstances.
+  Seine Reaktion war unter diesen Umständen völlig *nachvollziehbar*.
+
+  Parle plus lentement pour être *compréhensible*.
+  Sprich langsamer, um *verständlich* zu sein.
+
+  Les arguments du ministre n'étaient pas *compréhensibles*.
+  Die Argumente des Ministers waren nicht *nachvollziehbar*.
+
+  Cette erreur est *compréhensible* pour un débutant.
+  Dieser Fehler ist für einen Anfänger *verständlich*.
+
+  Le texte doit être *compréhensible* pour tous les lecteurs.
+  Der Text muss für alle Leser *verständlich* sein.
+
+  Son mécontentement est tout à fait *compréhensible*.
+  Seine Unzufriedenheit ist durchaus *verständlich*.
+
+  Les balbutiements de l'enfant étaient à peine *compréhensibles*.
+  Das Gestammel des Kindes war kaum *verständlich*.
+
+  La colère de Marie était parfaitement *compréhensible*.
+  Maries Wut war völlig *nachvollziehbar*.
+
+  Il faut rendre ce message plus *compréhensible*.
+  Diese Nachricht muss *verständlicher* gemacht werden.
+
+  Ces symboles ne sont pas *compréhensibles* sans explication.
+  Diese Symbole sind ohne Erklärung nicht *verständlich*.
+
+  Sa peur n'était que trop *compréhensible*.
+  Seine Angst war nur allzu *begreiflich*.
+
+  Le manuel est écrit dans un langage *compréhensible*.
+  Das Handbuch ist in einer *verständlichen* Sprache geschrieben.
+
+  Cette décision n'est pas *compréhensible* pour moi.
+  Diese Entscheidung ist für mich nicht *nachvollziehbar*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

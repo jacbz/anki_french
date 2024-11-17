@@ -13,14 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est le grand défi du socialisme du xxie siècle.
-  Dies ist die große Herausforderung für den Sozialismus des 21. Jahrhunderts.
+  C'est le grand défi du *socialisme* du xxie siècle.
+  Das ist die große Herausforderung des *Sozialismus* im 21. Jahrhundert.
 
-  Le socialisme est un système politique et économique.
-  Der Sozialismus ist ein politisches und wirtschaftliches System.
+  Le *socialisme* d'État a dominé l'Europe de l'Est pendant des décennies.
+  Der Staats*sozialismus* hat Osteuropa jahrzehntelang dominiert.
 
-  Le socialisme d'État est un système économique et politique dans lequel l'État contrôle les moyens de production.
-  Staatssozialismus ist ein Wirtschafts- und politisches System, in dem der Staat die Produktionsmittel kontrolliert.
+  Les principes du *socialisme* scientifique s'opposent à ceux du *socialisme* utopique.
+  Die Prinzipien des wissenschaftlichen *Sozialismus* stehen denen des utopischen *Sozialismus* gegenüber.
+
+  Le *socialisme* libertaire refuse toute forme d'autorité centralisée.
+  Der libertäre *Sozialismus* lehnt jede Form zentralisierter Autorität ab.
+
+  Le *socialisme* réformiste cherche à transformer la société de manière progressive.
+  Der reformistische *Sozialismus* versucht die Gesellschaft schrittweise zu verändern.
+
+  Saint-Simon est considéré comme l'un des pères du *socialisme* français.
+  Saint-Simon gilt als einer der Väter des französischen *Sozialismus*.
+
+  Les idées du *socialisme* révolutionnaire se sont répandues rapidement parmi les ouvriers.
+  Die Ideen des revolutionären *Sozialismus* verbreiteten sich schnell unter den Arbeitern.
+
+  Le *socialisme* démocratique défend l'égalité des chances pour tous.
+  Der demokratische *Sozialismus* verteidigt die Chancengleichheit für alle.
+
+  Marx voyait le *socialisme* comme une étape vers le communisme.
+  Marx sah den *Sozialismus* als eine Stufe zum Kommunismus.
+
+  Les partisans du *socialisme* luttaient pour de meilleures conditions de travail.
+  Die Anhänger des *Sozialismus* kämpften für bessere Arbeitsbedingungen.
+
+  Le *socialisme* a profondément marqué l'histoire du XXe siècle.
+  Der *Sozialismus* hat die Geschichte des 20. Jahrhunderts stark geprägt.
+
+  Cette forme de *socialisme* met l'accent sur la justice sociale.
+  Diese Form des *Sozialismus* legt den Schwerpunkt auf soziale Gerechtigkeit.
+
+  Les critiques du *socialisme* craignent une trop grande intervention de l'État.
+  Die Kritiker des *Sozialismus* befürchten einen zu starken Eingriff des Staates.
+
+  Le *socialisme* moderne cherche à concilier liberté individuelle et justice sociale.
+  Der moderne *Sozialismus* versucht, individuelle Freiheit und soziale Gerechtigkeit zu vereinbaren.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

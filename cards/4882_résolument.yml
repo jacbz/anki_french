@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il faut se tourner résolument vers l’avenir.
-  Wir müssen entschlossen in die Zukunft blicken.
+  Il faut se tourner *résolument* vers l'avenir.
+  Man muss sich *entschlossen* der Zukunft zuwenden.
 
-  Elle a résolument refusé de partir.
-  Sie hat entschlossen abgelehnt zu gehen.
+  Elle s'est *résolument* opposée à cette proposition absurde.
+  Sie hat sich diesem absurden Vorschlag *entschieden* widersetzt.
+
+  Les soldats ont marché *résolument* vers la ligne de front.
+  Die Soldaten marschierten *entschlossen* zur Frontlinie.
+
+  Je suis *résolument* contre cette réforme du système éducatif.
+  Ich bin *entschieden* gegen diese Reform des Bildungssystems.
+
+  L'artiste a choisi une approche *résolument* moderne.
+  Der Künstler wählte einen *bewusst* modernen Ansatz.
+
+  Marie s'est jetée *résolument* à l'eau malgré le froid.
+  Marie sprang trotz der Kälte *mutig* ins Wasser.
+
+  Nous avançons *résolument* vers nos objectifs.
+  Wir schreiten *entschlossen* auf unsere Ziele zu.
+
+  Il a *résolument* ignoré les avertissements de ses amis.
+  Er hat die Warnungen seiner Freunde *bewusst* ignoriert.
+
+  Les manifestants ont *résolument* défendu leurs droits.
+  Die Demonstranten haben ihre Rechte *entschlossen* verteidigt.
+
+  Cette entreprise est *résolument* tournée vers l'innovation.
+  Dieses Unternehmen ist *konsequent* auf Innovation ausgerichtet.
+
+  Elle a *résolument* pris la décision de changer de carrière.
+  Sie hat *entschlossen* die Entscheidung getroffen, den Beruf zu wechseln.
+
+  Le gouvernement s'engage *résolument* dans la transition écologique.
+  Die Regierung setzt sich *entschieden* für die ökologische Wende ein.
+
+  Pierre s'est *résolument* lancé dans cette nouvelle aventure.
+  Pierre hat sich *mutig* in dieses neue Abenteuer gestürzt.
+
+  Nous restons *résolument* optimistes malgré les difficultés.
+  Wir bleiben trotz der Schwierigkeiten *entschlossen* optimistisch.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

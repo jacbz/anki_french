@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ces polluants sont néfastes pour tous.
-  Diese Schadstoffe sind für alle schädlich.
+  Ces polluants sont *néfastes* pour tous.
+  Diese Schadstoffe sind für alle *schädlich*.
 
-  C’est une décision néfaste.
-  Das ist eine verhängnisvolle Entscheidung.
+  L'influence *néfaste* des réseaux sociaux inquiète les parents.
+  Der *schädliche* Einfluss sozialer Medien beunruhigt die Eltern.
 
-  C'était un jour néfaste pour Paul, car il a perdu son portefeuille.
-  Es war ein Unglückstag für Paul, denn er hat seinen Geldbeutel verloren.
+  Cette décision *néfaste* aura des conséquences à long terme.
+  Diese *unheilvolle* Entscheidung wird langfristige Folgen haben.
 
-  Le tabac est néfaste à la santé.
-  Tabak schadet der Gesundheit.
+  Le stress chronique est *néfaste* pour la santé mentale.
+  Chronischer Stress ist für die psychische Gesundheit *schädlich*.
+
+  Le 13 novembre fut une journée *néfaste* pour la ville.
+  Der 13. November war ein *Unglücks*tag für die Stadt.
+
+  Son comportement *néfaste* a détruit notre amitié.
+  Sein *schädliches* Verhalten hat unsere Freundschaft zerstört.
+
+  Cette période *néfaste* de ma vie est enfin terminée.
+  Diese *unglückselige* Zeit meines Lebens ist endlich vorbei.
+
+  Le manque de sommeil peut être *néfaste* pour la concentration.
+  Schlafmangel kann der Konzentration *schaden*.
+
+  Ces changements climatiques *néfastes* menacent notre avenir.
+  Diese *unheilvollen* Klimaveränderungen bedrohen unsere Zukunft.
+
+  Cette idéologie *néfaste* se répand rapidement sur internet.
+  Diese *unheilvolle* Ideologie verbreitet sich schnell im Internet.
+
+  Le temps *néfaste* a ruiné notre sortie en plein air.
+  Das *ungünstige* Wetter hat unseren Ausflug ins Freie ruiniert.
+
+  Les conséquences *néfastes* de cette loi sont déjà visibles.
+  Die *schädlichen* Auswirkungen dieses Gesetzes sind bereits sichtbar.
+
+  Cette personne *néfaste* doit quitter notre équipe.
+  Diese *schädliche* Person muss unser Team verlassen.
+
+  L'impact *néfaste* de la pollution sur l'environnement s'aggrave.
+  Die *schädliche* Auswirkung der Verschmutzung auf die Umwelt verschlimmert sich.
+
+  Ce régime *néfaste* a causé beaucoup de souffrance.
+  Dieses *unheilvolle* Regime hat viel Leid verursacht.
+
+  Les effets *néfastes* du tabac sont bien documentés.
+  Die *schädlichen* Auswirkungen des Tabaks sind gut dokumentiert.
+
+  Ces habitudes *néfastes* doivent être changées immédiatement.
+  Diese *schädlichen* Gewohnheiten müssen sofort geändert werden.
+
+  Son rôle *néfaste* dans cette affaire ne fait aucun doute.
+  Seine *unheilvolle* Rolle in dieser Angelegenheit steht außer Zweifel.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

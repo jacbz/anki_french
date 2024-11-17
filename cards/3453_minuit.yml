@@ -4,7 +4,7 @@ Wort: minuit
 Wortart: nm
 
 # Diese Felder gerne verbessern!
-Wort mit Artikel: minuit
+Wort mit Artikel: le minuit
 Femininum / Plural: ''
 IPA: \mi.nɥi\
 Definition: Mitternacht
@@ -66,4 +66,39 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: <grammar data-id="Zeit"></grammar>
+Notiz: |-
+  <div class="section">
+    <div class="section-title tip-section">Geschlecht</div>
+    <div class="section-content">
+      <p>Die Wörter <span class="fr">midi</span> und <span class="fr">minuit</span> sind heutzutage maskulin. Beispiele:</p>
+      <div class="examples">
+        <div class="fr"><u>Midi</u> et demi, <u>minuit</u> et demi, à <u>midi</u> précis.</div>
+        <div class="de spoiler"><u>Mittag</u> und halb eins, <u>Mitternacht</u> und halb eins, genau um <u>Mittag</u>.</div>
+      </div>
+      <div class="attention">
+        <p>In literarischer Sprache können <span class="fr">midi</span> oder <span class="fr">minuit</span> manchmal feminin verwendet werden, um einen archaischen Effekt zu erzeugen. Beispiel:</p>
+        <div class="examples">
+          <div class="fr">Ce pouvait être vers la <u>minuit</u>.</div>
+          <div class="de spoiler">Es könnte um die <u>Mitternacht</u> gewesen sein.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title tip-section">Angleichung</div>
+    <div class="section-content">
+      <p>Das Verb, dessen Subjekt <span class="fr">midi</span> oder <span class="fr">minuit</span> ist, steht normalerweise im Singular.</p>
+      <div class="examples">
+        <div class="fr"><u>Minuit</u> sonne, vient de sonner.</div>
+        <div class="de spoiler"><u>Mitternacht</u> schlägt, hat gerade geschlagen.</div>
+      </div>
+      <p class="attention">Manchmal findet man die veraltete Form <span class="fr">midi sonnent</span> oder <span class="fr">minuit sonnent</span>, die sich auf die zwölf Schläge beziehen. Diese Form ist jedoch überholt.</p>
+      <div class="examples">
+        <div class="fr"><u>Minuit</u> sonnent (= les douze coups).</div>
+        <div class="de spoiler"><u>Mitternacht</u> schlägt (= die zwölf Schläge).</div>
+      </div>
+    </div>
+  </div>
+
+  <grammar data-id="Zeit"></grammar>

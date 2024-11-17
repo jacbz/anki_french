@@ -13,11 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est un régime extraordinairement autoritaire.
-  Es handelt sich um ein außerordentlich autoritäres Regime.
+  C'est un régime extraordinairement *autoritaire*.
+  Das ist ein außerordentlich *autoritäres* Regime.
 
-  Il est très autoritaire avec ses enfants.
-  Er ist sehr autoritär gegenüber seinen Kindern.
+  Son père avait une personnalité très *autoritaire*.
+  Sein Vater hatte eine sehr *herrische* Persönlichkeit.
+
+  La nouvelle directrice s'est révélée extrêmement *autoritaire*.
+  Die neue Direktorin erwies sich als äußerst *autoritär*.
+
+  D'un ton *autoritaire*, elle nous a ordonné de quitter la salle.
+  In *herrischem* Ton befahl sie uns, den Raum zu verlassen.
+
+  Le professeur *autoritaire* n'acceptait aucune discussion en classe.
+  Der *autoritäre* Lehrer ließ keine Diskussion im Unterricht zu.
+
+  Sa voix *autoritaire* résonnait dans tout le couloir.
+  Seine *herrische* Stimme hallte durch den ganzen Flur.
+
+  Les mesures de plus en plus *autoritaires* inquiètent la population.
+  Die zunehmend *autoritären* Maßnahmen beunruhigen die Bevölkerung.
+
+  Le caractère *autoritaire* de mon oncle a toujours posé problème.
+  Der *herrische* Charakter meines Onkels war schon immer ein Problem.
+
+  Ce chef *autoritaire* fait fuir tous ses employés.
+  Dieser *autoritäre* Chef verscheucht alle seine Mitarbeiter.
+
+  Un geste *autoritaire* de sa main nous a fait taire.
+  Eine *herrische* Handbewegung brachte uns zum Schweigen.
+
+  L'attitude *autoritaire* de la gouvernante choquait les enfants.
+  Die *autoritäre* Haltung des Kindermädchens schockierte die Kinder.
+
+  Les tendances *autoritaires* du nouveau gouvernement sont préoccupantes.
+  Die *autoritären* Tendenzen der neuen Regierung sind besorgniserregend.
+
+  Son style de management *autoritaire* crée des tensions dans l'équipe.
+  Sein *autoritärer* Führungsstil schafft Spannungen im Team.
+
+  Le regard *autoritaire* de ma mère suffisait à nous calmer.
+  Der *herrische* Blick meiner Mutter reichte aus, um uns zu beruhigen.
+
+  Les parents trop *autoritaires* risquent d'étouffer leurs enfants.
+  Zu *autoritäre* Eltern laufen Gefahr, ihre Kinder zu ersticken.
+
+  Cette décision *autoritaire* a été prise sans consulter personne.
+  Diese *autoritäre* Entscheidung wurde getroffen, ohne jemanden zu konsultieren.
+
+  Le tempérament *autoritaire* de Julie ne lui fait pas que des amis.
+  Julies *herrisches* Temperament macht ihr nicht nur Freunde.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

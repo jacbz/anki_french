@@ -13,11 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je ne tolère aucun comportement raciste à bord.
-  Ich dulde kein rassistisches Verhalten an Bord.
+  Je ne tolère aucun comportement *raciste* à bord.
+  Ich dulde kein *rassistisches* Verhalten an Bord.
 
-  Il a fait des commentaires racistes.
-  Er hat rassistische Kommentare gemacht.
+  Les propos *racistes* n'ont pas leur place dans notre société.
+  *Rassistische* Äußerungen haben keinen Platz in unserer Gesellschaft.
+
+  Cette idéologie *raciste* a causé beaucoup de souffrance.
+  Diese *rassistische* Ideologie hat viel Leid verursacht.
+
+  Elle a été choquée par les commentaires *racistes* sur les réseaux sociaux.
+  Sie war schockiert von den *rassistischen* Kommentaren in den sozialen Medien.
+
+  Le tribunal a condamné les actes *racistes* de l'accusé.
+  Das Gericht verurteilte die *rassistischen* Taten des Angeklagten.
+
+  Un *raciste* ne changera pas d'avis facilement.
+  Ein *Rassist* wird seine Meinung nicht leicht ändern.
+
+  La *raciste* a été exclue du parti politique.
+  Die *Rassistin* wurde aus der politischen Partei ausgeschlossen.
+
+  Les théories *racistes* ont été largement discréditées par la science.
+  *Rassistische* Theorien wurden von der Wissenschaft weitgehend widerlegt.
+
+  Cette loi combat les discriminations *racistes* au travail.
+  Dieses Gesetz bekämpft *rassistische* Diskriminierung am Arbeitsplatz.
+
+  Les manifestants protestent contre la politique *raciste* du gouvernement.
+  Die Demonstranten protestieren gegen die *rassistische* Politik der Regierung.
+
+  Cette entreprise a été accusée de pratiques *racistes* dans ses recrutements.
+  Diesem Unternehmen wurden *rassistische* Praktiken bei der Einstellung vorgeworfen.
+
+  Les enfants ne naissent pas *racistes*, ils apprennent ces préjugés.
+  Kinder werden nicht als *Rassisten* geboren, sie lernen diese Vorurteile.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

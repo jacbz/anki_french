@@ -13,23 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le plasma reste confiné à la surface du solide.
-  Das Plasma bleibt auf die Oberfläche des Festkörpers beschränkt.
+  Le plasma reste *confiné* à la surface du solide.
+  Das Plasma bleibt an der Oberfläche des Festkörpers *begrenzt*.
 
-  Les habitants ont été confinés chez eux.
-  Die Bewohner wurden in ihren Häusern eingeschlossen.
+  La France *confine* à l'Espagne au sud-ouest.
+  Frankreich *grenzt* im Südwesten an Spanien.
 
-  Le jardin est confiné à la forêt, il n'y a pas d'autres maisons autour.
-  Der Garten grenzt an den Wald, es gibt keine anderen Häuser in der Umgebung.
+  Son arrogance *confine* à la stupidité.
+  Seine Arroganz *grenzt* an Dummheit.
 
-  Le nouveau directeur a été confiné dans ses fonctions, il ne peut pas prendre de décisions importantes.
-  Der neue Direktor wurde in seinen Aufgaben beschränkt, er darf keine wichtigen Entscheidungen treffen.
+  Les autorités ont *confiné* toute la population pendant trois semaines.
+  Die Behörden haben die gesamte Bevölkerung drei Wochen lang *eingesperrt*.
 
-  Après la dispute, il s'est confiné dans sa chambre et n'est pas sorti de la journée.
-  Nach dem Streit hat er sich in seinem Zimmer eingeschlossen und ist den ganzen Tag nicht rausgekommen.
+  Le directeur *confine* Marie dans des tâches administratives.
+  Der Direktor *beschränkt* Marie auf administrative Aufgaben.
 
-  Elle s'est confinée dans un rôle de mère au foyer, elle ne voulait pas retourner travailler.
-  Sie hat sich mit der Rolle einer Hausfrau begnügt, sie wollte nicht wieder arbeiten gehen.
+  Elle s'est *confinée* dans sa chambre pour réviser ses examens.
+  Sie hat sich zum Lernen für die Prüfungen in ihrem Zimmer *eingeschlossen*.
+
+  Cette prairie *confine* à la forêt.
+  Diese Wiese *grenzt* an den Wald.
+
+  Le gardien a *confiné* les prisonniers dans leurs cellules.
+  Der Wächter hat die Gefangenen in ihren Zellen *eingesperrt*.
+
+  La Suisse *confine* à quatre pays différents.
+  Die Schweiz *grenzt* an vier verschiedene Länder.
+
+  Il s'est volontairement *confiné* dans la solitude.
+  Er hat sich freiwillig in die Einsamkeit *zurückgezogen*.
+
+  Les parents ont *confiné* leurs enfants à la maison pendant l'épidémie.
+  Die Eltern haben ihre Kinder während der Epidemie zu Hause *eingesperrt*.
+
+  L'air *confiné* de la pièce nous empêchait de respirer.
+  Die *abgestandene* Luft im Raum hinderte uns am Atmen.
+
+  Son talent ne devrait pas être *confiné* à ce petit bureau.
+  Sein Talent sollte nicht auf dieses kleine Büro *beschränkt* sein.
+
+  Cette attitude *confine* au mépris.
+  Diese Haltung *grenzt* an Verachtung.
+
+  Les étudiants se sont *confinés* dans la bibliothèque pour préparer l'examen.
+  Die Studenten haben sich zur Prüfungsvorbereitung in der Bibliothek *eingeschlossen*.
+
+  Le professeur a dû *confiner* les élèves dans la classe pendant l'alerte.
+  Der Lehrer musste die Schüler während des Alarms im Klassenraum *einschließen*.
+
+  L'entreprise l'a *confiné* dans un poste sans responsabilités.
+  Die Firma hat ihn auf einen Posten ohne Verantwortung *beschränkt*.
+
+  Cette région *confine* au désert.
+  Diese Region *grenzt* an die Wüste.
+
+  L'atmosphère *confinée* du sous-sol était insupportable.
+  Die *stickige* Atmosphäre im Keller war unerträglich.
+
+  Elle refuse de se *confiner* dans ce rôle traditionnel.
+  Sie weigert sich, sich auf diese traditionelle Rolle zu *beschränken*.
+
+  Le gouvernement a *confiné* la ville entière pendant deux mois.
+  Die Regierung hat die ganze Stadt zwei Monate lang *abgeriegelt*.
+
+  Leur propriété *confine* à la rivière.
+  Ihr Grundstück *grenzt* an den Fluss.
+
+  Cette remarque *confine* à l'insulte.
+  Diese Bemerkung *grenzt* an Beleidigung.
+
+  Je me suis *confiné* chez moi pendant le weekend.
+  Ich habe mich am Wochenende zu Hause *eingeschlossen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,11 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce sera un mariage désastreux.
-  Es wird eine katastrophale Ehe sein.
+  Ce sera un mariage *désastreux*.
+  Das wird eine *katastrophale* Hochzeit.
 
-  Les conséquences de cette décision seront désastreuses.
-  Die Folgen dieser Entscheidung werden verheerend sein.
+  La tempête a eu des conséquences *désastreuses* pour les agriculteurs.
+  Der Sturm hatte *verheerende* Folgen für die Landwirte.
+
+  Les résultats de l'examen ont été *désastreux*.
+  Die Prüfungsergebnisse waren *miserabel*.
+
+  Cette politique économique *désastreuse* a mené le pays à la crise.
+  Diese *desaströse* Wirtschaftspolitik hat das Land in die Krise geführt.
+
+  Le temps *désastreux* a gâché nos vacances.
+  Das *miserable* Wetter hat unseren Urlaub verdorben.
+
+  L'impact environnemental de cette usine est *désastreux*.
+  Die Umweltauswirkungen dieser Fabrik sind *verheerend*.
+
+  Sa première représentation théâtrale a été *désastreuse*.
+  Sein erster Theaterauftritt war *katastrophal*.
+
+  Cette décision aura des effets *désastreux* sur l'économie locale.
+  Diese Entscheidung wird *verheerende* Auswirkungen auf die lokale Wirtschaft haben.
+
+  La gestion *désastreuse* du projet a causé sa faillite.
+  Die *katastrophale* Projektleitung hat seinen Bankrott verursacht.
+
+  L'influence *désastreuse* des réseaux sociaux inquiète les parents.
+  Der *verheerende* Einfluss der sozialen Medien beunruhigt die Eltern.
+
+  Les conditions météorologiques *désastreuses* ont forcé l'annulation du festival.
+  Die *katastrophalen* Wetterbedingungen haben zur Absage des Festivals gezwungen.
+
+  Son début de carrière a été *désastreux*.
+  Sein Karrierestart war *miserabel*.
+
+  La situation financière *désastreuse* de l'entreprise ne laisse aucun espoir.
+  Die *desaströse* Finanzlage des Unternehmens lässt keine Hoffnung.
+
+  Les conséquences *désastreuses* de cette erreur se font encore sentir.
+  Die *verheerenden* Folgen dieses Fehlers sind noch immer spürbar.
+
+  Cette année *désastreuse* restera longtemps dans les mémoires.
+  Dieses *katastrophale* Jahr wird lange in Erinnerung bleiben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

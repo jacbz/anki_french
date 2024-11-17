@@ -13,29 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les prix, dans cette librairie, sont très compétitifs.
-  Die Preise in diesem Buchladen sind sehr günstig.
+  Les prix, dans cette *librairie*, sont très compétitifs.
+  Die Preise in dieser *Buchhandlung* sind sehr wettbewerbsfähig.
 
-  Je vais à la librairie pour acheter un livre.
-  Ich gehe in die Buchhandlung, um ein Buch zu kaufen.
+  Une nouvelle *librairie* d'occasion vient d'ouvrir dans notre quartier.
+  Ein neuer Antiquariats*buchladen* hat gerade in unserem Viertel eröffnet.
 
-  Il tient une librairie dans le centre-ville.
-  Er betreibt einen Buchladen im Stadtzentrum.
+  Je travaille dans une *librairie*-papeterie depuis trois ans.
+  Ich arbeite seit drei Jahren in einer *Buchhandlung* mit Schreibwarengeschäft.
 
-  Elle va à la librairie une fois par semaine.
-  Sie geht einmal pro Woche in den Buchladen.
+  Cette *librairie* propose un grand choix de livres d'art.
+  Diese Kunst*buchhandlung* bietet eine große Auswahl an Kunstbüchern.
 
-  Dans cette librairie d'art, vous trouverez de nombreux livres rares et précieux.
-  In dieser Kunstbuchhandlung finden Sie viele seltene und wertvolle Bücher.
+  Son nouveau roman sortira en *librairie* la semaine prochaine.
+  Sein neuer Roman kommt nächste Woche in den *Buchhandel*.
 
-  Le roman est disponible en librairie depuis quelques semaines.
-  Der Roman ist seit ein paar Wochen im Buchhandel erhältlich.
+  La *librairie* organise une séance de dédicaces samedi prochain.
+  Die *Buchhandlung* organisiert am nächsten Samstag eine Signierstunde.
 
-  Les nouveautés parues en librairie sont très prometteuses.
-  Die Neuerscheinungen auf dem Büchermarkt sind sehr vielversprechend.
+  Il a fait toute sa carrière dans la *librairie*.
+  Er hat seine ganze Karriere im *Buchhandel* verbracht.
 
-  Ce livre est tellement populaire qu'on ne le trouve plus en librairie.
-  Dieses Buch ist so beliebt, dass es vergriffen ist.
+  Ces livres sont disponibles dans toutes les *librairies* du pays.
+  Diese Bücher sind in allen *Buchhandlungen* des Landes erhältlich.
+
+  Notre *librairie* est spécialisée dans les ouvrages scientifiques.
+  Unsere *Buchhandlung* ist auf wissenschaftliche Werke spezialisiert.
+
+  La petite *librairie* du coin va malheureusement fermer ses portes.
+  Der kleine *Buchladen* an der Ecke wird leider schließen.
+
+  Les développeurs ont créé une *librairie* open source pour ce projet.
+  Die Entwickler haben eine Open-Source-*Bibliothek* für dieses Projekt erstellt.
+
+  Cette *librairie* propose aussi des livres en langue étrangère.
+  Diese *Buchhandlung* bietet auch fremdsprachige Bücher an.
+
+  J'achète souvent mes manuels scolaires dans cette *librairie*.
+  Ich kaufe meine Schulbücher oft in dieser *Buchhandlung*.
+
+  Plusieurs *librairies* ont organisé des événements pour la journée du livre.
+  Mehrere *Buchhandlungen* haben Veranstaltungen zum Tag des Buches organisiert.
+
+  La *librairie* du centre-ville existe depuis plus de cinquante ans.
+  Die *Buchhandlung* in der Innenstadt existiert seit über fünfzig Jahren.
+
+  Les nouvelles *librairies* numériques facilitent le développement d'applications.
+  Die neuen Software*bibliotheken* erleichtern die Entwicklung von Anwendungen.
+
+  Cette *librairie* indépendante résiste bien face aux grandes chaînes.
+  Diese unabhängige *Buchhandlung* hält sich gut gegen die großen Ketten.
+
+  On trouve ce roman dans toutes les bonnes *librairies*.
+  Man findet diesen Roman in allen guten *Buchhandlungen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

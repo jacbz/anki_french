@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je jetterai au feu tous mes manuscrits.
-  Ich werfe alle meine Manuskripte ins Feuer.
+  Je jetterai au feu tous mes *manuscrits*.
+  Ich werde alle meine *Manuskripte* verbrennen.
 
-  Le professeur a demandé aux étudiants de remettre leur manuscrit.
-  Der Professor hat die Studenten gebeten, ihr Manuskript abzugeben.
+  On a retrouvé le *manuscrit* original de ce poème dans une vieille malle.
+  Man hat das originale *Manuskript* dieses Gedichts in einer alten Truhe gefunden.
 
-  Peux-tu lire ce manuscrit ?
-  Kannst du dieses Manuskript lesen?
+  La bibliothèque possède de précieux *manuscrits* enluminés du Moyen Âge.
+  Die Bibliothek besitzt wertvolle illuminierte *Handschriften* aus dem Mittelalter.
 
-  Peux-tu traduire ce manuscrit du français à l’anglais ?
-  Kannst du dieses Manuskript vom Französischen ins Englische übersetzen?
+  L'éditeur a refusé son *manuscrit* sans même le lire.
+  Der Verleger hat sein *Manuskript* abgelehnt, ohne es überhaupt zu lesen.
+
+  Marie préfère laisser une note *manuscrite* plutôt que d'envoyer un message.
+  Marie hinterlässt lieber eine *handgeschriebene* Notiz, statt eine Nachricht zu schicken.
+
+  Ces corrections *manuscrites* dans la marge sont de la main de l'auteur.
+  Diese *handschriftlichen* Korrekturen am Rand stammen vom Autor.
+
+  Le département des *manuscrits* de la Bibliothèque nationale conserve des trésors inestimables.
+  Die *Handschriften*abteilung der Nationalbibliothek bewahrt unbezahlbare Schätze.
+
+  Les *manuscrits* de la mer Morte ont révolutionné notre compréhension des textes bibliques.
+  Die *Handschriften* vom Toten Meer haben unser Verständnis der biblischen Texte revolutioniert.
+
+  Tous les invités ont signé le livre d'or avec un message *manuscrit*.
+  Alle Gäste haben sich mit einer *handgeschriebenen* Nachricht ins Gästebuch eingetragen.
+
+  Le professeur n'accepte que les devoirs *manuscrits*.
+  Der Lehrer akzeptiert nur *handgeschriebene* Hausaufgaben.
+
+  Ce *manuscrit* sur parchemin date du XIIe siècle.
+  Diese *Handschrift* auf Pergament stammt aus dem 12. Jahrhundert.
+
+  L'auteur a passé dix ans à peaufiner le *manuscrit* de son roman.
+  Der Autor hat zehn Jahre damit verbracht, das *Manuskript* seines Romans zu perfektionieren.
+
+  Les archéologues ont découvert un *manuscrit* grec extraordinairement bien conservé.
+  Die Archäologen haben eine außergewöhnlich gut erhaltene griechische *Handschrift* entdeckt.
+
+  Elle a envoyé une lettre *manuscrite* pour s'excuser.
+  Sie hat einen *handgeschriebenen* Brief geschickt, um sich zu entschuldigen.
+
+  Le *manuscrit* à peintures est orné de magnifiques enluminures.
+  Die *Handschrift* ist mit wunderschönen Miniaturen verziert.
+
+  Les éditeurs modernes acceptent rarement les versions *manuscrites*.
+  Moderne Verleger akzeptieren selten *handgeschriebene* Versionen.
+
+  La signature *manuscrite* est obligatoire sur ce document officiel.
+  Die *handschriftliche* Unterschrift ist auf diesem offiziellen Dokument erforderlich.
+
+  Les experts ont authentifié ce *manuscrit* médiéval comme étant original.
+  Die Experten haben diese mittelalterliche *Handschrift* als Original authentifiziert.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

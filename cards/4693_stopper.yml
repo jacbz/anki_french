@@ -13,14 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous pourriez me stopper avec un seul mot.
-  Sie könnten mich mit einem einzigen Wort aufhalten.
+  Vous pourriez me *stopper* avec un seul mot.
+  Sie könnten mich mit einem einzigen Wort *stoppen*.
 
-  Il faut stopper la voiture.
-  Wir müssen das Auto anhalten.
+  Le chauffeur a dû *stopper* brusquement pour éviter un accident.
+  Der Fahrer musste abrupt *anhalten*, um einen Unfall zu vermeiden.
 
-  Sophie a fait stopper son pantalon préféré, car il avait un trou au genou.
-  Sophie hat ihre Lieblingshose kunststopfen lassen, weil sie ein Loch am Knie hatte.
+  La voiture *stoppa* net devant le feu rouge.
+  Das Auto blieb an der roten Ampel abrupt *stehen*.
+
+  Il faut *stopper* immédiatement la propagation du virus.
+  Die Ausbreitung des Virus muss sofort ge*stoppt* werden.
+
+  Le médecin a réussi à *stopper* l'infection avec des antibiotiques.
+  Dem Arzt ist es gelungen, die Infektion mit Antibiotika zu *stoppen*.
+
+  La police a *stoppé* le suspect dans sa fuite.
+  Die Polizei hat den Verdächtigen bei seiner Flucht ge*stoppt*.
+
+  Le gouvernement cherche à *stopper* l'inflation galopante.
+  Die Regierung versucht, die galoppierende Inflation zu *stoppen*.
+
+  Le navire *stoppa* ses moteurs à l'approche du port.
+  Das Schiff *stoppte* seine Motoren bei der Annäherung an den Hafen.
+
+  Le gardien a *stoppé* le ballon de façon spectaculaire.
+  Der Torwart hat den Ball spektakulär ge*stoppt*.
+
+  La manifestation *stoppa* devant les grilles du palais.
+  Die Demonstration *stoppte* vor den Gittern des Palastes.
+
+  Marie fait *stopper* sa robe déchirée chez la couturière.
+  Marie lässt ihr zerrissenes Kleid bei der Schneiderin *kunststopfen*.
+
+  Le train *stoppa* brutalement en pleine campagne.
+  Der Zug *stoppte* plötzlich mitten auf dem Land.
+
+  Ces nouvelles mesures devraient *stopper* le chômage.
+  Diese neuen Maßnahmen sollen die Arbeitslosigkeit *stoppen*.
+
+  La couturière *stoppe* habilement les trous dans le pull en laine.
+  Die Schneiderin *stoppt* geschickt die Löcher im Wollpullover *kunststopferisch*.
+
+  Le cortège *stoppa* devant le monument aux morts.
+  Der Umzug *stoppte* vor dem Kriegerdenkmal.
+
+  La machine *stoppa* soudainement sans raison apparente.
+  Die Maschine *stoppte* plötzlich ohne ersichtlichen Grund.
+
+  Les chercheurs essaient de *stopper* la progression de la maladie.
+  Die Forscher versuchen, das Fortschreiten der Krankheit zu *stoppen*.
+
+  Le capitaine ordonna de *stopper* les machines.
+  Der Kapitän befahl, die Maschinen zu *stoppen*.
+
+  La pluie a enfin *stoppé* après trois jours.
+  Der Regen hat nach drei Tagen endlich ge*stoppt*.
+
+  Les gendarmes ont *stoppé* la circulation pendant une heure.
+  Die Gendarmen haben den Verkehr für eine Stunde ge*stoppt*.
+
+  Je dois faire *stopper* ce trou dans mon pantalon.
+  Ich muss dieses Loch in meiner Hose *kunststopfen* lassen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

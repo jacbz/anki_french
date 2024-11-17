@@ -13,38 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La traversée avait duré juste trois heures.
-  Die Überfahrt hatte gerade einmal drei Stunden gedauert.
+  La *traversée* avait duré juste trois heures.
+  Die *Überfahrt* hatte nur drei Stunden gedauert.
 
-  La traversée de l’océan Atlantique en bateau peut prendre plusieurs semaines.
-  Die Überquerung des Atlantischen Ozeans mit dem Schiff kann mehrere Wochen dauern.
+  La *traversée* du désert fut une épreuve difficile pour les nomades.
+  Die *Durchquerung* der Wüste war eine schwierige Prüfung für die Nomaden.
 
-  Le groupe d'amis a décidé de traverser la rue pour aller au café.
-  Der Freundeskreis hat beschlossen, die Straße zu überqueren, um in das Café zu gehen.
+  Pierre fait la *traversée* du lac tous les matins à la nage.
+  Pierre *durchschwimmt* den See jeden Morgen.
 
-  La traversée du désert a été difficile et éprouvante pour les voyageurs.
-  Die Durchquerung der Wüste war für die Reisenden eine schwere und anstrengende Erfahrung.
+  Notre *traversée* de Calais à Douvres s'est bien passée.
+  Unsere *Überfahrt* von Calais nach Dover verlief gut.
 
-  La traversée en bateau a été calme et agréable.
-  Die Schiffspassage war ruhig und angenehm.
+  Les enfants doivent faire attention pendant la *traversée* de la rue.
+  Die Kinder müssen beim *Überqueren* der Straße aufpassen.
 
-  La traversée du fleuve en bateau a été rapide et facile.
-  Die Überfahrt über den Fluss mit dem Boot war schnell und einfach.
+  La *traversée* des Alpes en hélicoptère offre une vue spectaculaire.
+  Der *Flug* über die Alpen im Helikopter bietet eine spektakuläre Aussicht.
 
-  La traversée de la région en voiture a été longue, mais magnifique.
-  Die Fahrt durch die Gegend mit dem Auto war lang, aber wunderschön.
+  Elle a fait la *traversée* de la Manche à la voile.
+  Sie hat den Ärmelkanal mit dem Segelboot *überquert*.
 
-  La traversée des Pyrénées en avion a été spectaculaire.
-  Der Überflug der Pyrenäen war spektakulär.
+  La *traversée* du parc à vélo est interdite après 22 heures.
+  Das *Durchfahren* des Parks mit dem Fahrrad ist nach 22 Uhr verboten.
 
-  La traversée de la forêt à pied a été longue et épuisante.
-  Das Durchqueren des Waldes zu Fuß war lang und anstrengend.
+  Cette *traversée* du tunnel prend environ dix minutes à pied.
+  Die *Durchquerung* des Tunnels dauert zu Fuß ungefähr zehn Minuten.
 
-  La traversée de l'Atlantique a été un voyage extraordinaire.
-  Die Überquerung des Atlantiks war eine außergewöhnliche Reise.
+  La *traversée* de Paris en métro dure une heure.
+  Die *Durchquerung* von Paris mit der Metro dauert eine Stunde.
 
-  La traversée du fleuve à la nage a été un défi pour le nageur.
-  Das Durchschwimmen des Flusses war eine Herausforderung für den Schwimmer.
+  Les alpinistes ont prévu une *traversée* du Mont Blanc pour demain.
+  Die Bergsteiger haben für morgen eine *Überquerung* des Mont Blanc geplant.
+
+  La *traversée* du pont est dangereuse par temps de verglas.
+  Das *Überqueren* der Brücke ist bei Glatteis gefährlich.
+
+  Cette *traversée* de l'océan Pacifique établit un nouveau record.
+  Diese *Überquerung* des Pazifiks stellt einen neuen Rekord auf.
+
+  Une simple *traversée* de la forêt peut prendre deux heures.
+  Eine einfache *Durchquerung* des Waldes kann zwei Stunden dauern.
+
+  La *traversée* de la ville en voiture est compliquée à cause des travaux.
+  Die *Durchfahrt* durch die Stadt ist wegen der Bauarbeiten kompliziert.
+
+  Pendant la *traversée*, les passagers peuvent profiter du restaurant.
+  Während der *Überfahrt* können die Passagiere das Restaurant nutzen.
+
+  Cette *traversée* des Pyrénées à pied est une randonnée exceptionnelle.
+  Diese *Durchquerung* der Pyrenäen zu Fuß ist eine außergewöhnliche Wanderung.
+
+  La *traversée* du fleuve se fait uniquement par bateau.
+  Die *Überquerung* des Flusses ist nur mit dem Boot möglich.
+
+  Notre *traversée* de l'agglomération a pris plus de temps que prévu.
+  Unsere *Durchfahrt* durch das Stadtgebiet hat länger gedauert als erwartet.
+
+  La *traversée* de la Méditerranée reste dangereuse pour les migrants.
+  Die *Überquerung* des Mittelmeers bleibt für Migranten gefährlich.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,14 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je me suis déjà drogué.
-  Ich habe bereits Drogen genommen.
+  Je me suis déjà *drogué*.
+  Ich habe früher *Drogen genommen*.
 
-  Il ne faut pas se droguer.
-  Man sollte keine Drogen nehmen.
+  "Elle se *drogue* depuis qu'elle a perdu son travail."
+  "Sie *nimmt Drogen*, seit sie ihre Arbeit verloren hat."
 
-  Jean s'est drogué à la cocaïne pendant plusieurs années.
-  Jean nahm über mehrere Jahre hinweg Kokain.
+  Les cambrioleurs ont *drogué* le gardien avant de voler les bijoux.
+  Die Einbrecher haben den Wächter *betäubt*, bevor sie die Juwelen stahlen.
+
+  Il se *droguait* à la cocaïne pendant ses études.
+  Er *nahm* während seines Studiums *Kokain*.
+
+  Le médecin m'a tellement *drogué* que je dormais toute la journée.
+  Der Arzt hat mir so viele *Medikamente verabreicht*, dass ich den ganzen Tag schlief.
+
+  Les parents s'inquiètent que leur fils se *drogue*.
+  Die Eltern machen sich Sorgen, dass ihr Sohn *Drogen nimmt*.
+
+  Le vétérinaire a dû *droguer* le chien avant l'opération.
+  Der Tierarzt musste den Hund vor der Operation *betäuben*.
+
+  "Tu te *drogues* trop avec ces médicaments !"
+  "Du *nimmst zu viele Medikamente*!"
+
+  Les trafiquants ont *drogué* sa boisson dans le bar.
+  Die Dealer haben ihr Getränk im Club *mit Drogen versetzt*.
+
+  Marie se *droguait* aux somnifères pour dormir.
+  Marie *betäubte* sich mit Schlaftabletten zum Einschlafen.
+
+  Certains propriétaires *droguent* leurs chevaux pour gagner les courses.
+  Manche Besitzer *dopen* ihre Pferde, um die Rennen zu gewinnen.
+
+  Je ne me *drogue* plus depuis dix ans.
+  Ich *nehme* seit zehn Jahren keine *Drogen* mehr.
+
+  Les médecins l'ont trop *drogué* avec des antidouleurs.
+  Die Ärzte haben ihm zu viele *Schmerzmittel verabreicht*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

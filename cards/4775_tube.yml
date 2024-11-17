@@ -13,41 +13,101 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Deux fois déjà le tube a été retiré puis remis.
-  Bereits zweimal wurde die Röhre entfernt und wieder eingesetzt.
+  Deux fois déjà le *tube* a été retiré puis remis.
+  Zweimal wurde das *Röhrchen* bereits entfernt und wieder eingesetzt.
 
-  J’ai besoin d’un tube pour ce projet.
-  Ich brauche eine Röhre für dieses Projekt.
+  Le chercheur a soigneusement placé l'échantillon dans un *tube* en verre.
+  Der Forscher hat die Probe vorsichtig in ein Glas*röhrchen* gelegt.
 
-  Le canon a un tube très long.
-  Das Geschützrohr ist sehr lang.
+  Les *tubes* de la chaudière doivent être nettoyés chaque année.
+  Die *Rohre* des Heizkessels müssen jährlich gereinigt werden.
 
-  Le tube au néon éclaire la salle.
-  Die Neonröhre beleuchtet den Raum.
+  Le vieux téléviseur avec son *tube* cathodique pesait très lourd.
+  Der alte Fernseher mit seiner Kathoden*röhre* war sehr schwer.
 
-  Le tube de dentifrice est presque vide.
-  Die Zahnpastatube ist fast leer.
+  Ce *tube* de dentifrice est presque vide.
+  Diese Zahnpasta*tube* ist fast leer.
 
-  Le tube digestif est composé de plusieurs organes.
-  Der Verdauungstrakt besteht aus mehreren Organen.
+  "Cette chanson va devenir un *tube*, j'en suis sûr!"
+  "Dieser Song wird bestimmt ein *Hit*, da bin ich mir sicher!"
 
-  Ce morceau est le meilleur tube de l'année.
-  Dieser Song ist der Tophit des Jahres.
+  Le *tube* digestif est un organe complexe.
+  Der Verdauungs*trakt* ist ein komplexes Organ.
 
-  Ce petit tube de verre est fragile.
-  Dieses kleine Glasröhrchen ist zerbrechlich.
+  Les *tubes* au néon éclairent la façade du bâtiment.
+  Die Neon*röhren* beleuchten die Gebäudefront.
 
-  Le tube en aluminium est solide.
-  Das Aluminiumrohr ist robust.
+  J'ai besoin d'un nouveau *tube* de colle pour mon projet.
+  Ich brauche eine neue *Tube* Kleber für mein Projekt.
 
-  Les anciens téléviseurs utilisaient un tube cathodique.
-  Alte Fernseher verwendeten eine Kathodenstrahlröhre.
+  Le mécanicien a remplacé plusieurs *tubes* en aluminium.
+  Der Mechaniker hat mehrere Aluminium*rohre* ausgetauscht.
 
-  Le tube électronique amplifie le signal.
-  Die Radioröhre verstärkt das Signal.
+  Ce groupe a sorti trois *tubes* consécutifs.
+  Diese Band hat drei *Hits* hintereinander herausgebracht.
 
-  Le tube luminescent émet une lumière douce.
-  Die Leuchtröhre strahlt ein sanftes Licht aus.
+  Le scientifique examine attentivement le *tube* à essai.
+  Der Wissenschaftler untersucht sorgfältig das Reagenz*röhrchen*.
+
+  Les *tubes* Roentgen doivent être régulièrement calibrés.
+  Die Röntgen*röhren* müssen regelmäßig kalibriert werden.
+
+  "Il roule à pleins *tubes* sur l'autoroute."
+  "Er fährt mit *Vollgas* auf der Autobahn."
+
+  La lumière des *tubes* luminescents est plus économique.
+  Das Licht der Leucht*röhren* ist wirtschaftlicher.
+
+  Le *tube* électronique a révolutionné la radio.
+  Die Radio*röhre* hat das Radio revolutioniert.
+
+  Marie a utilisé tout un *tube* de gouache pour sa peinture.
+  Marie hat eine ganze *Tube* Gouachefarbe für ihr Gemälde verbraucht.
+
+  Les enfants adorent ce nouveau *tube* de l'été.
+  Die Kinder lieben diesen neuen Sommer*hit*.
+
+  Le plombier a dû remplacer un *tube* qui fuyait.
+  Der Klempner musste ein leckendes *Rohr* ersetzen.
+
+  "Ils déconnent à pleins *tubes* depuis ce matin."
+  "Sie *drehen völlig durch* seit heute Morgen."
+
+  Le pharmacien m'a donné un *tube* d'aspirine.
+  Der Apotheker hat mir eine *Tube* Aspirin gegeben.
+
+  Les *tubes* de la climatisation traversent tout le bâtiment.
+  Die *Rohre* der Klimaanlage durchziehen das ganze Gebäude.
+
+  Le *tube* de ma bicyclette est percé.
+  Das *Rohr* meines Fahrrads hat ein Loch.
+
+  Ce *tube* en plastique est très flexible.
+  Dieses Plastik*rohr* ist sehr flexibel.
+
+  Les *tubes* fluorescents donnent une lumière froide.
+  Die Leuchtstoff*röhren* geben kaltes Licht.
+
+  J'ai acheté un nouveau *tube* de crème solaire.
+  Ich habe eine neue *Tube* Sonnencreme gekauft.
+
+  Le *tube* du microscope est réglable en hauteur.
+  Das *Rohr* des Mikroskops ist höhenverstellbar.
+
+  Ce *tube* de pommade est périmé depuis longtemps.
+  Diese *Tube* Salbe ist längst abgelaufen.
+
+  Les techniciens ont installé de nouveaux *tubes* d'évacuation.
+  Die Techniker haben neue Abfluss*rohre* installiert.
+
+  Ce morceau est devenu un *tube* planétaire.
+  Dieser Song wurde zu einem weltweiten *Hit*.
+
+  Ce vieux *tube* de métal rouille rapidement.
+  Dieses alte Metall*rohr* rostet schnell.
+
+  On entend leur musique à pleins *tubes*.
+  Man hört ihre Musik in voller *Lautstärke*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

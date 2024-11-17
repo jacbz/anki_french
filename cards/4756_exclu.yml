@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je ne me suis jamais senti exclu.
-  Ich habe mich nie ausgegrenzt gefühlt.
+  Je ne me suis jamais senti *exclu*.
+  Ich habe mich nie *ausgeschlossen* gefühlt.
 
-  Il est exclu de fumer ici.
-  Es ist hier ausgeschlossen zu rauchen.
+  Il n'est pas *exclu* que Pierre vienne à la fête demain.
+  Es ist nicht *ausgeschlossen*, dass Pierre morgen zur Party kommt.
 
-  Il n'est pas exclu que Marie fasse un voyage en Italie cet été.
-  Es ist nicht ausgeschlossen, dass Marie diesen Sommer eine Reise nach Italien macht.
+  Cette boutique est ouverte tous les jours, jeudi *exclu*.
+  Dieser Laden ist jeden Tag geöffnet, *ausgenommen* Donnerstag.
 
-  Tous les jours de la semaine sont possibles, mardi exclu.
-  Alle Tage der Woche sind möglich, außer Dienstag.
+  Les *exclus* du système scolaire ont souvent du mal à trouver un emploi.
+  Die vom Schulsystem *Ausgeschlossenen* haben oft Schwierigkeiten, eine Arbeit zu finden.
+
+  Marie a été *exclue* du groupe WhatsApp sans explication.
+  Marie wurde ohne Erklärung aus der WhatsApp-Gruppe *ausgeschlossen*.
+
+  Cette option est totalement *exclue* pour le moment.
+  Diese Option ist momentan völlig *ausgeschlossen*.
+
+  Les *exclus* de la société méritent notre attention.
+  Die gesellschaftlich *Ausgeschlossenen* verdienen unsere Aufmerksamkeit.
+
+  Le prix indiqué est valable jusqu'au 31 mars *exclu*.
+  Der angegebene Preis gilt bis zum 31. März *ausschließlich*.
+
+  Les trois membres *exclus* du club ont fait appel de la décision.
+  Die drei *ausgeschlossenen* Mitglieder des Clubs haben gegen die Entscheidung Einspruch eingelegt.
+
+  Il est *exclu* que nous acceptions ces conditions.
+  Es ist *ausgeschlossen*, dass wir diese Bedingungen akzeptieren.
+
+  Les pages 5 à 8 sont *exclues* de l'examen.
+  Die Seiten 5 bis 8 sind von der Prüfung *ausgenommen*.
+
+  Les *exclus* du numérique ont des difficultés au quotidien.
+  Die digital *Ausgeschlossenen* haben im Alltag Schwierigkeiten.
+
+  Elle se sentait *exclue* de toutes les conversations.
+  Sie fühlte sich von allen Gesprächen *ausgeschlossen*.
+
+  Ces dates sont *exclues* pour la réunion.
+  Diese Termine sind für das Meeting *ausgeschlossen*.
+
+  Le samedi et dimanche sont *exclus* des jours de livraison.
+  Samstag und Sonntag sind von den Liefertagen *ausgeschlossen*.
+
+  Les *exclus* de la croissance économique manifestent leur mécontentement.
+  Die vom Wirtschaftswachstum *Ausgeschlossenen* zeigen ihre Unzufriedenheit.
+
+  Cette hypothèse est définitivement *exclue* de notre analyse.
+  Diese Hypothese ist von unserer Analyse definitiv *ausgeschlossen*.
+
+  Le nombre d'*exclus* augmente chaque année dans notre société.
+  Die Zahl der *Ausgegrenzten* nimmt in unserer Gesellschaft jedes Jahr zu.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

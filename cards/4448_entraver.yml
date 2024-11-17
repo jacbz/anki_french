@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Son pantalon entravait la liberté de ses mouvements.
-  Seine Hose behinderte seine Bewegungsfreiheit.
+  Son pantalon *entravait* la liberté de ses mouvements.
+  Seine Hose *behinderte* die Freiheit seiner Bewegungen.
 
-  La neige a entravé la circulation.
-  Der Schnee hat den Verkehr behindert.
+  Les manifestants ont *entravé* la circulation dans le centre-ville.
+  Die Demonstranten haben den Verkehr im Stadtzentrum *behindert*.
 
-  La forêt dense a entravé les randonneurs dans leur progression.
-  Der dichte Wald hat die Wanderer in ihrem Vorwärtskommen behindert.
+  Le fermier a dû *entraver* ses chevaux pour la nuit.
+  Der Bauer musste seinen Pferden für die Nacht *Fesseln* anlegen.
 
-  Le chasseur a entravé l'animal pour l'empêcher de s'échapper.
-  Der Jäger hat dem Tier Fesseln angelegt, um zu verhindern, dass es entkommt.
+  La crise sanitaire *entrave* le développement économique du pays.
+  Die Gesundheitskrise *erschwert* die wirtschaftliche Entwicklung des Landes.
+
+  Sa jupe étroite *entravait* sa marche dans les escaliers.
+  Ihr enger Rock *behinderte* ihren Gang auf der Treppe.
+
+  Les gardes ont *entravé* le prisonnier avant de le transporter.
+  Die Wächter haben den Gefangenen *gefesselt*, bevor sie ihn transportierten.
+
+  Ces nouvelles règles *entravent* la créativité des artistes.
+  Diese neuen Regeln *behindern* die Kreativität der Künstler.
+
+  La neige *entrave* le bon fonctionnement des trains.
+  Der Schnee *behindert* den reibungslosen Betrieb der Züge.
+
+  Les préjugés *entravent* souvent le progrès social.
+  Vorurteile *behindern* oft den sozialen Fortschritt.
+
+  "Je n'*entrave* que dalle à ce qu'il raconte."
+  "Ich *verstehe* überhaupt nichts von dem, was er erzählt."
+
+  La bureaucratie excessive *entrave* l'innovation des entreprises.
+  Die übermäßige Bürokratie *behindert* die Innovation der Unternehmen.
+
+  Le berger *entrave* ses moutons pendant la tonte.
+  Der Schäfer *fesselt* seine Schafe während der Schur.
+
+  Les travaux routiers *entravent* l'accès au centre commercial.
+  Die Straßenarbeiten *behindern* den Zugang zum Einkaufszentrum.
+
+  Cette décision politique *entrave* nos plans d'expansion.
+  Diese politische Entscheidung *erschwert* unsere Expansionspläne.
+
+  La peur de l'échec *entrave* souvent notre réussite.
+  Die Angst vor dem Scheitern *behindert* oft unseren Erfolg.
+
+  Les mauvaises conditions météorologiques *entravent* le sauvetage.
+  Das schlechte Wetter *behindert* die Rettungsaktion.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,26 +13,74 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les contrôleurs en grève ont obtenu jeudi soir satisfaction.
-  Die streikenden Fluglotsen erhielten am Donnerstagabend eine Genugtuung.
+  Les *contrôleurs* en grève ont obtenu jeudi soir satisfaction.
+  Die streikenden *Kontrolleure* haben am Donnerstagabend ihre Forderungen durchgesetzt.
 
-  Le contrôleur vérifie les billets.
-  Der Kontrolleur überprüft die Tickets.
+  Le *contrôleur* n'est pas encore passé dans notre wagon.
+  Der *Schaffner* ist noch nicht durch unseren Waggon gekommen.
 
-  La conductrice de bus a contrôlé les billets des passagers.
-  Die Busfahrerin hat die Fahrkarten der Passagiere kontrolliert.
+  Un *contrôleur* de bus m'a demandé mon ticket ce matin.
+  Ein Bus*kontrolleur* hat heute Morgen nach meinem Fahrschein gefragt.
 
-  La contrôleuse externe du fisc a vérifié les comptes de l'entreprise.
-  Die Außenprüferin hat die Konten des Unternehmens geprüft.
+  La *contrôleuse* du tram a été très gentille avec les personnes âgées.
+  Die Straßenbahn*schaffnerin* war sehr freundlich zu den älteren Menschen.
 
-  Le contrôleur de la navigation aérienne a guidé l'avion vers l'aéroport.
-  Der Fluglotse-lotsin hat das Flugzeug zum Flughafen geführt.
+  Notre entreprise cherche un nouveau *contrôleur* de gestion.
+  Unser Unternehmen sucht einen neuen *Controller*.
 
-  La contrôleuse des chemins de fer a vérifié les billets des voyageurs.
-  Die Bahnschaffnerin hat die Fahrkarten der Reisenden kontrolliert.
+  Le *contrôleur* des marchandises a découvert plusieurs défauts.
+  Der Waren*prüfer* hat mehrere Mängel entdeckt.
 
-  La contrôleuse des marchandises a inspecté les colis avant leur expédition.
-  Die Warenprüferin hat die Pakete vor dem Versand inspiziert.
+  Les *contrôleurs* de la navigation aérienne sont en formation continue.
+  Die *Fluglotsen* befinden sich in ständiger Weiterbildung.
+
+  Ce *contrôleur* de température est très précis.
+  Dieses Temperatur*messgerät* ist sehr genau.
+
+  La *contrôleuse* des impôts a examiné tous nos documents.
+  Die Steuer*prüferin* hat alle unsere Unterlagen geprüft.
+
+  Le *contrôleur* des douanes a confisqué les marchandises illégales.
+  Der Zoll*kontrolleur* hat die illegalen Waren beschlagnahmt.
+
+  Les *contrôleurs* aériens surveillent attentivement le trafic.
+  Die *Fluglotsen* überwachen aufmerksam den Verkehr.
+
+  Notre nouveau *contrôleur* de vitesse affiche les données en temps réel.
+  Unser neues Geschwindigkeits*messgerät* zeigt die Daten in Echtzeit an.
+
+  Le *contrôleur* de nuit fait sa ronde toutes les heures.
+  Der Nacht*wächter* macht stündlich seine Runde.
+
+  La *contrôleuse* technique a validé l'installation.
+  Die technische *Prüferin* hat die Installation abgenommen.
+
+  Les *contrôleurs* financiers examinent les comptes de l'entreprise.
+  Die Finanz*prüfer* untersuchen die Unternehmenskonten.
+
+  Un *contrôleur* externe vérifiera nos processus la semaine prochaine.
+  Ein externer *Prüfer* wird nächste Woche unsere Prozesse überprüfen.
+
+  Le *contrôleur* de pression s'est déclenché pendant la nuit.
+  Der Druck*messer* wurde in der Nacht ausgelöst.
+
+  La *contrôleuse* des contributions a programmé un rendez-vous.
+  Die Steuer*prüferin* hat einen Termin angesetzt.
+
+  Le *contrôleur* électronique surveille la qualité de production.
+  Das elektronische *Prüfgerät* überwacht die Produktionsqualität.
+
+  Les *contrôleurs* de gestion préparent le budget annuel.
+  Die *Controller* bereiten das Jahresbudget vor.
+
+  Notre *contrôleur* de rondes enregistre chaque passage.
+  Unser Runden*kontrollgerät* erfasst jeden Durchgang.
+
+  Le *contrôleur* d'État supervise les dépenses publiques.
+  Der staatliche *Kontrolleur* überwacht die öffentlichen Ausgaben.
+
+  La *contrôleuse* des chemins de fer nous a aidés à trouver nos places.
+  Die *Schaffnerin* hat uns geholfen, unsere Plätze zu finden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

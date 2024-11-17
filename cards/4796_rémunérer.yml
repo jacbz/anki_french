@@ -13,14 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il était rémunéré par une excellente nourriture.
-  Er wurde mit ausgezeichnetem Essen entlohnt.
+  Il était *rémunéré* par une excellente nourriture.
+  Er wurde mit ausgezeichnetem Essen *bezahlt*.
 
-  Je suis bien rémunéré pour mon travail.
-  Ich werde gut für meine Arbeit bezahlt.
+  Les employés sont trop mal *rémunérés* pour vivre dans le centre-ville.
+  Die Angestellten werden zu schlecht *bezahlt*, um im Stadtzentrum zu leben.
 
-  Les employés de cette entreprise sont rémunérés en dessous du tarif, ce qui est illégal.
-  Die Angestellten in dieser Firma werden untertariflich bezahlt, was illegal ist.
+  Comment vas-tu *rémunérer* les services du plombier ?
+  Wie wirst du die Dienste des Klempners *vergüten*?
+
+  L'entreprise *rémunère* ses stagiaires au-dessus du minimum légal.
+  Das Unternehmen *bezahlt* seine Praktikanten über dem gesetzlichen Minimum.
+
+  Cette mission sera *rémunérée* à hauteur de 500 euros.
+  Diese Aufgabe wird mit 500 Euro *vergütet*.
+
+  Nos collaborateurs sont bien *rémunérés* et motivés.
+  Unsere Mitarbeiter sind gut *bezahlt* und motiviert.
+
+  Les heures supplémentaires seront *rémunérées* double.
+  Die Überstunden werden doppelt *vergütet*.
+
+  Sophie est *rémunérée* en fonction de ses performances.
+  Sophie wird leistungsabhängig *bezahlt*.
+
+  La banque *rémunère* ce compte épargne à 3% par an.
+  Die Bank *verzinst* dieses Sparkonto mit 3% pro Jahr.
+
+  Je suis *rémunéré* en dessous du tarif habituel.
+  Ich werde unter dem üblichen Tarif *bezahlt*.
+
+  L'association *rémunère* ses bénévoles pour leurs frais de transport.
+  Der Verein *entschädigt* seine Ehrenamtlichen für ihre Fahrtkosten.
+
+  Ces journaliers sont *rémunérés* à la tâche.
+  Diese Tagelöhner werden nach Aufgabe *entlohnt*.
+
+  Le patron a bien *rémunéré* notre travail supplémentaire.
+  Der Chef hat unsere Zusatzarbeit gut *vergütet*.
+
+  Tous les employés seront *rémunérés* avant la fin du mois.
+  Alle Angestellten werden vor Monatsende *bezahlt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

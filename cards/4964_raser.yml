@@ -13,32 +13,110 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ils avaient tous le crâne rasé.
-  Sie hatten alle kahlgeschorene Köpfe.
+  Ils avaient tous le crâne *rasé*.
+  Sie hatten alle einen kahl*geschorenen* Kopf.
 
-  Je me rase tous les matins.
-  Ich rasiere mich jeden Morgen.
+  Je me *rase* la barbe tous les matins.
+  Ich *rasiere* mir jeden Morgen den Bart.
 
-  Pierre s'est fait raser la barbe chez le barbier.
-  Pierre hat sich im Barbierladen den Bart abrasieren lassen.
+  L'avion *rasait* le sol en volant.
+  Das Flugzeug *flog* dicht über dem Boden.
 
-  Elle se rase les jambes tous les jours.
-  Sie rasiert sich jeden Tag die Beine.
+  "Cette réunion me *rase*, je m'ennuie tellement."
+  "Diese Sitzung *ödet* mich total *an*."
 
-  Il s'est rasé la tête après avoir perdu ses cheveux.
-  Er hat sich den Kopf kahl rasiert, nachdem er seine Haare verloren hatte.
+  Le bombardement a complètement *rasé* le village.
+  Die Bombardierung hat das Dorf dem Erdboden *gleich gemacht*.
 
-  Le pilote a rasé le mur en effectuant un virage serré.
-  Der Pilot ist dicht an der Mauer entlanggeflogen, als er eine enge Kurve flog.
+  Elle s'est *rasé* les jambes pour aller à la piscine.
+  Sie hat sich die Beine *rasiert*, um ins Schwimmbad zu gehen.
 
-  Le moine était rasé de près, comme le veut la tradition.
-  Der Mönch war glatt rasiert, wie es die Tradition verlangt.
+  Il *rase* les murs depuis qu'il a fait cette erreur.
+  Er *schleicht* an den Wänden *entlang*, seit er diesen Fehler gemacht hat.
 
-  Le raseur de gazon a rasé le sol à une vitesse incroyable.
-  Der Rasenmäher hat mit unglaublicher Geschwindigkeit dicht über dem Boden gemäht.
+  Les hirondelles *rasent* la surface de l'eau.
+  Die Schwalben *fliegen* dicht über die Wasseroberfläche.
 
-  La balle l'a rasé à la tête de justesse.
-  Die Kugel ist knapp über seinem Kopf vorbeigeflogen.
+  "Je me *rase* à cette fête."
+  "Ich *langweile* mich auf dieser Party."
+
+  Le coiffeur lui a *rasé* la moustache.
+  Der Friseur hat ihm den Schnurrbart *rasiert*.
+
+  La balle a *rasé* son oreille.
+  Die Kugel ist knapp an seinem Ohr *vorbeigeflogen*.
+
+  Les soldats ont *rasé* les fortifications ennemies.
+  Die Soldaten haben die feindlichen Befestigungen *geschleift*.
+
+  "Il nous *rase* avec ses histoires interminables."
+  "Er *nervt* uns mit seinen endlosen Geschichten."
+
+  Le lièvre se *rasait* dans son gîte.
+  Der Hase *duckte* sich in seinem Lager.
+
+  Je dois me faire *raser* la barbe chez le barbier.
+  Ich muss mir beim Barbier den Bart *rasieren* lassen.
+
+  Ce cheval *rase* le tapis en galopant.
+  Dieses Pferd *galoppiert* dicht über dem Boden.
+
+  Il est toujours parfaitement *rasé* pour aller au bureau.
+  Er ist für das Büro immer perfekt *rasiert*.
+
+  Les vandales ont *rasé* le jardin public.
+  Die Vandalen haben den öffentlichen Garten dem Erdboden *gleich gemacht*.
+
+  La voiture *rasait* le mur de l'immeuble.
+  Das Auto *fuhr* dicht an der Hauswand *entlang*.
+
+  "Ta présentation me *rase* complètement."
+  "Dein Vortrag *ödet* mich total *an*."
+
+  Il s'est *rasé* le crâne pour l'été.
+  Er hat sich für den Sommer den Kopf kahl*rasiert*.
+
+  L'ouragan a *rasé* tout le quartier.
+  Der Hurrikan hat das ganze Viertel dem Erdboden *gleich gemacht*.
+
+  Les oiseaux *rasent* les toits des maisons.
+  Die Vögel *fliegen* dicht über die Hausdächer.
+
+  Elle utilise une crème à *raser* spéciale.
+  Sie benutzt eine spezielle *Rasier*creme.
+
+  "Demain, on *rase* gratis!"
+  "Morgen gibt's *Freibier*!"
+
+  Le navire *rasait* la côte dangereusement.
+  Das Schiff *fuhr* gefährlich nah an der Küste *entlang*.
+
+  Je me suis *rasé* de près ce matin.
+  Ich habe mich heute Morgen gründlich *rasiert*.
+
+  Les bombardements ont *rasé* la ville en 1944.
+  Die Bombardierungen haben die Stadt 1944 dem Erdboden *gleich gemacht*.
+
+  "Son discours m'a complètement *rasé*."
+  "Seine Rede hat mich total *gelangweilt*."
+
+  Il *rase* sa moustache depuis vingt ans.
+  Er *rasiert* seinen Schnurrbart seit zwanzig Jahren.
+
+  Le missile a *rasé* la cible.
+  Die Rakete ist knapp am Ziel *vorbeigeflogen*.
+
+  Les enfants se sont fait *raser* les cheveux à cause des poux.
+  Die Kinder haben sich wegen der Läuse die Haare *rasieren* lassen.
+
+  Le propriétaire a fait *raser* l'ancien bâtiment.
+  Der Eigentümer hat das alte Gebäude *abreißen* lassen.
+
+  "Je me *rase* à mourir dans ce cours."
+  "Ich *langweile* mich zu Tode in diesem Kurs."
+
+  L'hélicoptère *rasait* les arbres en volant.
+  Der Helikopter *flog* dicht über die Bäume hinweg.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

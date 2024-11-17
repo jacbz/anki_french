@@ -13,17 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous vivons en une époque d’évolution démographique.
-  Wir leben in einer Zeit des demografischen Wandels.
+  Nous vivons en une époque d'évolution *démographique*.
+  Wir leben in einer Zeit des *demografischen* Wandels.
 
-  L’étude démographique montre une baisse de la natalité.
-  Die demographische Studie zeigt einen Rückgang der Geburtenrate.
+  Les données *démographiques* montrent que la population vieillit.
+  Die *demografischen* Daten zeigen, dass die Bevölkerung altert.
 
-  La croissance démographique est un phénomène important dans le monde actuel.
-  Das Bevölkerungswachstum ist ein wichtiges Phänomen in der heutigen Welt.
+  L'explosion *démographique* en Asie pose de nouveaux défis.
+  Die *Bevölkerungs*explosion in Asien stellt neue Herausforderungen dar.
 
-  La poussée démographique du XXe siècle a eu des conséquences considérables sur l'environnement.
-  Der rasante Zuwachs der Bevölkerung im 20. Jahrhundert hatte erhebliche Auswirkungen auf die Umwelt.
+  Cette région connaît actuellement une forte croissance *démographique*.
+  Diese Region erlebt derzeit ein starkes *Bevölkerungs*wachstum.
+
+  Le bilan *démographique* de l'année dernière était inquiétant.
+  Die *demografische* Bilanz des letzten Jahres war besorgniserregend.
+
+  Les chercheurs ont publié une nouvelle étude *démographique*.
+  Die Forscher haben eine neue *demografische* Studie veröffentlicht.
+
+  La courbe *démographique* montre une tendance à la baisse.
+  Die *demografische* Kurve zeigt einen Abwärtstrend.
+
+  Les changements *démographiques* affectent notre système de retraite.
+  Die *demografischen* Veränderungen beeinflussen unser Rentensystem.
+
+  Cette poussée *démographique* n'était pas prévue par les experts.
+  Dieser *Bevölkerungs*zuwachs war von den Experten nicht vorhergesehen worden.
+
+  L'institut lance une nouvelle recherche *démographique*.
+  Das Institut startet eine neue *demografische* Forschung.
+
+  L'analyse *démographique* révèle des disparités régionales importantes.
+  Die *demografische* Analyse zeigt wichtige regionale Unterschiede auf.
+
+  Le développement *démographique* varie selon les continents.
+  Die *demografische* Entwicklung unterscheidet sich je nach Kontinent.
+
+  Les statistiques *démographiques* seront publiées demain.
+  Die *demografischen* Statistiken werden morgen veröffentlicht.
+
+  La transition *démographique* s'accélère dans les pays émergents.
+  Der *demografische* Übergang beschleunigt sich in den Schwellenländern.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

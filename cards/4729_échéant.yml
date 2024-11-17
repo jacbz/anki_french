@@ -13,11 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C’est moi qui le cas échéant prendrai la décision.
-  Ich werde die Entscheidung treffen.
+  C'est moi qui *le cas échéant* prendrai la décision.
+  *Gegebenenfalls* werde ich die Entscheidung treffen.
 
-  Nous vous contacterons à nouveau si échéant.
-  Wir werden uns gegebenenfalls wieder bei Ihnen melden.
+  Les paiements *échéants* doivent être effectués avant la fin du mois.
+  Die *fälligen* Zahlungen müssen vor Monatsende geleistet werden.
+
+  *Le cas échéant*, nous devrons reporter la réunion à la semaine prochaine.
+  *Falls erforderlich* müssen wir die Besprechung auf nächste Woche verschieben.
+
+  La banque m'a envoyé un rappel concernant mes traites *échéantes*.
+  Die Bank hat mir eine Erinnerung bezüglich meiner *fällig werdenden* Raten geschickt.
+
+  *Le cas échéant*, n'hésitez pas à me contacter par téléphone.
+  *Bei Bedarf* können Sie mich jederzeit telefonisch kontaktieren.
+
+  Toutes les annuités *échéantes* ont été réglées dans les délais.
+  Alle *fälligen* Jahresraten wurden pünktlich bezahlt.
+
+  Nous examinerons votre demande et, *le cas échéant*, vous proposerons une solution alternative.
+  Wir werden Ihren Antrag prüfen und Ihnen *gegebenenfalls* eine alternative Lösung vorschlagen.
+
+  Les effets *échéants* seront traités en priorité par notre service.
+  Die *fällig werdenden* Wechsel werden von unserer Abteilung vorrangig bearbeitet.
+
+  *Le cas échéant*, des mesures supplémentaires seront mises en place.
+  *Im Bedarfsfall* werden zusätzliche Maßnahmen ergriffen.
+
+  Le directeur signera, *le cas échéant*, une lettre de recommandation.
+  Der Direktor wird *bei Bedarf* ein Empfehlungsschreiben unterschreiben.
+
+  Veuillez vérifier la liste des paiements *échéants* cette semaine.
+  Bitte überprüfen Sie die Liste der diese Woche *fälligen* Zahlungen.
+
+  Les frais *échéants* doivent être payés avant le quinze du mois.
+  Die *fällig werdenden* Gebühren müssen vor dem Fünfzehnten des Monats bezahlt werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

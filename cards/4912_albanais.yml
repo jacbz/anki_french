@@ -13,11 +13,44 @@ Register: ↘Fiktion ↗Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Des snipers albanais avaient ouvert le feu.
-  Albanische Scharfschützen hatten das Feuer eröffnet.
+  Des snipers *albanais* avaient ouvert le feu.
+  *Albanische* Scharfschützen hatten das Feuer eröffnet.
 
-  Mon voisin est albanais.
-  Mein Nachbar ist Albaner.
+  L'*albanais* est devenu une langue officielle au Kosovo en 2006.
+  Das *Albanische* wurde 2006 zur Amtssprache im Kosovo.
+
+  Cette femme *albanaise* travaille comme médecin à Paris.
+  Diese *albanische* Frau arbeitet als Ärztin in Paris.
+
+  Je voudrais apprendre l'*albanais* pour communiquer avec mes voisins.
+  Ich möchte *Albanisch* lernen, um mit meinen Nachbarn zu kommunizieren.
+
+  Le gouvernement *albanais* a annoncé de nouvelles mesures économiques.
+  Die *albanische* Regierung hat neue wirtschaftliche Maßnahmen angekündigt.
+
+  Les *Albanais* célèbrent leur fête nationale le 28 novembre.
+  Die *Albaner* feiern ihren Nationalfeiertag am 28. November.
+
+  Mon professeur d'*albanais* vient de Tirana.
+  Mein *Albanisch*lehrer kommt aus Tirana.
+
+  Une délégation *albanaise* visitera Berlin la semaine prochaine.
+  Eine *albanische* Delegation wird nächste Woche Berlin besuchen.
+
+  L'*albanais* est sa langue maternelle, mais il parle aussi parfaitement français.
+  *Albanisch* ist seine Muttersprache, aber er spricht auch perfekt Französisch.
+
+  Cette *Albanaise* a remporté une médaille aux Jeux olympiques.
+  Diese *Albanerin* hat bei den Olympischen Spielen eine Medaille gewonnen.
+
+  Les traditions *albanaises* sont très importantes dans sa famille.
+  Die *albanischen* Traditionen sind in ihrer Familie sehr wichtig.
+
+  Les cours d'*albanais* commencent lundi prochain à l'université.
+  Der *Albanisch*unterricht beginnt nächsten Montag an der Universität.
+
+  La cuisine *albanaise* est influencée par la cuisine méditerranéenne.
+  Die *albanische* Küche ist von der mediterranen Küche beeinflusst.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

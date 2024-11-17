@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Toutes deux étaient filles de prostituée.
-  Beide waren Töchter einer Prostituierten.
+  Toutes deux étaient filles de *prostituée*.
+  Beide waren Töchter einer *Prostituierten*.
 
-  La police a arrêté un prostitué dans la rue.
-  Die Polizei hat einen Prostituierten auf der Straße festgenommen.
+  La *prostituée* marchait sur le trottoir dans la lumière des réverbères.
+  Die *Prostituierte* lief im Laternenlicht auf dem Bürgersteig.
+
+  À Paris, beaucoup de *prostituées* travaillent dans le quartier de Belleville.
+  In Paris arbeiten viele *Prostituierte* im Viertel Belleville.
+
+  Les services sociaux aident les *prostitués* à quitter le milieu.
+  Die Sozialdienste helfen *Prostituierten* beim Ausstieg.
+
+  Dans ce roman, il décrit la vie d'une jeune *prostituée* à Amsterdam.
+  In diesem Roman beschreibt er das Leben einer jungen *Prostituierten* in Amsterdam.
+
+  Des associations luttent contre l'exploitation des enfants *prostitués*.
+  Verbände kämpfen gegen die Ausbeutung *prostituierter* Kinder.
+
+  Le film raconte l'histoire d'un *prostitué* masculin à Los Angeles.
+  Der Film erzählt die Geschichte eines männlichen *Prostituierten* in Los Angeles.
+
+  La police a arrêté plusieurs *prostituées* lors d'un contrôle routier.
+  Die Polizei hat bei einer Verkehrskontrolle mehrere *Prostituierte* festgenommen.
+
+  Ce juge *prostitué* a accepté des pots-de-vin pendant des années.
+  Dieser *käufliche* Richter hat jahrelang Bestechungsgelder angenommen.
+
+  Son talent *prostitué* ne servait plus que les intérêts des riches.
+  Sein *verkauftes* Talent diente nur noch den Interessen der Reichen.
+
+  De nombreuses *prostituées* sont victimes de la traite des êtres humains.
+  Viele *Prostituierte* sind Opfer von Menschenhandel.
+
+  Les *prostituées* de Corinthe étaient connues pour leurs tarifs élevés.
+  Die *Prostituierten* von Korinth waren für ihre hohen Preise bekannt.
+
+  Dans l'Apocalypse, Babylone est décrite comme la grande *prostituée*.
+  In der Apokalypse wird Babylon als die große *Hure* beschrieben.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

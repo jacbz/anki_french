@@ -13,17 +13,86 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Tu t’es vengé. Réjouis-toi avant d’oublier.
-  Du hast dich gerächt. Freu dich, bevor du vergisst.
+  Tu t'es *vengé*. Réjouis-toi avant d'oublier.
+  Du hast dich *gerächt*. Freu dich, bevor du es vergisst.
 
-  Je vais me venger de toi.
-  Ich werde mich an dir rächen.
+  Les citoyens ont *vengé* la mort de leur roi.
+  Die Bürger haben den Tod ihres Königs *gerächt*.
 
-  Le policier a promis de venger la victime de ce crime odieux.
-  Der Polizist versprach, das Opfer dieses abscheulichen Verbrechens zu entschädigen.
+  Elle *vengera* cette trahison, peu importe le temps que cela prendra.
+  Sie wird diesen Verrat *rächen*, egal wie lange es dauern wird.
 
-  Il s'est vengé de son ennemi en lui volant son argent.
-  Er rächte sich an seinem Feind, indem er ihm sein Geld stahl.
+  Cette victoire *venge* tous nos échecs précédents.
+  Dieser Sieg macht all unsere vorherigen Misserfolge *wett*.
+
+  Marie s'est *vengée* de son ex-mari en gardant sa collection de vinyles.
+  Marie hat sich an ihrem Ex-Mann *gerächt*, indem sie seine Vinyl-Sammlung behielt.
+
+  Le succès de son livre *vengeait* enfin toutes ces années de rejet.
+  Der Erfolg seines Buches *entschädigte* ihn endlich für all die Jahre der Ablehnung.
+
+  Le héros a juré de *venger* sa famille.
+  Der Held hat geschworen, seine Familie zu *rächen*.
+
+  Je me *vengerai* de cette humiliation lors du prochain match.
+  Ich werde mich für diese Demütigung beim nächsten Spiel *rächen*.
+
+  Il s'est *vengé* en répandant des rumeurs sur ses collègues.
+  Er hat sich *gerächt*, indem er Gerüchte über seine Kollegen verbreitet hat.
+
+  Nous devons *venger* l'honneur de notre équipe.
+  Wir müssen die Ehre unserer Mannschaft *wiederherstellen*.
+
+  La nature se *venge* toujours des abus qu'elle subit.
+  Die Natur *rächt* sich immer für den Missbrauch, den sie erleidet.
+
+  Cette promotion *venge* ses années de travail acharné.
+  Diese Beförderung *entschädigt* sie für ihre Jahre harter Arbeit.
+
+  Les enfants se sont *vengés* en cachant les clés de leur père.
+  Die Kinder haben sich *gerächt*, indem sie die Schlüssel ihres Vaters versteckt haben.
+
+  Le temps *vengera* la mémoire de cet artiste incompris.
+  Die Zeit wird das Andenken dieses missverstandenen Künstlers *retten*.
+
+  Elle s'est *vengée* de son amie en l'ignorant pendant des semaines.
+  Sie hat sich an ihrer Freundin *gerächt*, indem sie sie wochenlang ignoriert hat.
+
+  Cette découverte *venge* enfin sa réputation scientifique.
+  Diese Entdeckung *stellt* endlich seinen wissenschaftlichen Ruf *wieder her*.
+
+  Pierre s'est *vengé* sur son ordinateur en le jetant par terre.
+  Peter hat seinen Frust am Computer *ausgelassen*, indem er ihn zu Boden warf.
+
+  Le jury a *vengé* la victime en condamnant le coupable.
+  Die Jury hat das Opfer *gerächt*, indem sie den Schuldigen verurteilte.
+
+  Les supporters se sont *vengés* de la défaite en sifflant l'équipe adverse.
+  Die Fans haben sich für die Niederlage *gerächt*, indem sie die gegnerische Mannschaft auspfiffen.
+
+  Cette récompense *venge* des années d'efforts méconnus.
+  Diese Auszeichnung macht Jahre verkannter Bemühungen *wett*.
+
+  Il s'est *vengé* de son patron en démissionnant sans préavis.
+  Er hat sich an seinem Chef *gerächt*, indem er ohne Vorwarnung kündigte.
+
+  Sa réussite *vengeait* toutes les moqueries qu'il avait subies.
+  Sein Erfolg *rächte* all den Spott, den er ertragen musste.
+
+  Nous nous sommes *vengés* en gagnant le championnat.
+  Wir haben uns *gerächt*, indem wir die Meisterschaft gewonnen haben.
+
+  Le tribunal a *vengé* les victimes en rendant justice.
+  Das Gericht hat die Opfer *gerächt*, indem es Gerechtigkeit walten ließ.
+
+  Sophie s'est *vengée* de l'insulte par une remarque cinglante.
+  Sophie hat sich für die Beleidigung mit einer scharfen Bemerkung *revanchiert*.
+
+  Cette médaille d'or *venge* tous ses sacrifices.
+  Diese Goldmedaille macht all seine Opfer *wett*.
+
+  Les manifestants ont *vengé* leurs droits bafoués.
+  Die Demonstranten haben ihre missachteten Rechte *verteidigt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

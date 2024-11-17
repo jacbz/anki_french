@@ -13,11 +13,77 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il avait un trou sanglant.
-  Er hatte ein blutiges Loch.
+  Il avait un trou *sanglant*.
+  Er hatte ein *blutiges* Loch.
 
-  Le combat a été sanglant.
-  Der Kampf war blutig.
+  La plaie était encore *sanglante*.
+  Die Wunde war noch *blutig*.
+
+  Les mains du chirurgien sont devenues *sanglantes* pendant l'opération.
+  Die Hände des Chirurgen wurden während der Operation *blutig*.
+
+  Le match de boxe était particulièrement *sanglant*.
+  Der Boxkampf war besonders *hitzig*.
+
+  Le soleil couchant projette une lueur *sanglante* sur la mer.
+  Die untergehende Sonne wirft einen *blutroten* Schein auf das Meer.
+
+  La bataille *sanglante* a duré trois jours.
+  Die *blutige* Schlacht dauerte drei Tage.
+
+  "Cette réunion va être *sanglante*!"
+  "Dieses Meeting wird *hitzig* werden!"
+
+  Les critiques ont fait des reproches *sanglants* à son nouveau roman.
+  Die Kritiker haben seinem neuen Roman *harte* Vorwürfe gemacht.
+
+  Le ciel est devenu *sanglant* juste avant l'orage.
+  Der Himmel wurde kurz vor dem Gewitter *blutrot*.
+
+  Cette défaite *sanglante* restera dans les mémoires.
+  Diese *blutige* Niederlage wird in Erinnerung bleiben.
+
+  Une révolution *sanglante* a renversé le gouvernement.
+  Eine *blutige* Revolution hat die Regierung gestürzt.
+
+  Le tyran a imposé un règne *sanglant*.
+  Der Tyrann führte eine *blutige* Herrschaft.
+
+  La dispute entre les deux frères est devenue *sanglante*.
+  Der Streit zwischen den beiden Brüdern wurde *hitzig*.
+
+  Les manifestations ont connu une répression *sanglante*.
+  Die Demonstrationen erlebten eine *blutige* Unterdrückung.
+
+  Cette raillerie *sanglante* l'a profondément blessé.
+  Dieser *harte* Spott hat ihn tief verletzt.
+
+  Le débat politique est devenu *sanglant*.
+  Die politische Debatte wurde *hitzig*.
+
+  Une guerre civile *sanglante* a éclaté dans le pays.
+  Ein *blutiger* Bürgerkrieg brach im Land aus.
+
+  L'horizon *sanglant* annonçait une tempête.
+  Der *blutrote* Horizont kündigte einen Sturm an.
+
+  Ces conflits *sanglants* ont marqué toute une génération.
+  Diese *blutigen* Konflikte haben eine ganze Generation geprägt.
+
+  L'affrontement *sanglant* entre les deux équipes s'est terminé par un match nul.
+  Die *hitzige* Konfrontation zwischen den beiden Teams endete unentschieden.
+
+  Sa vengeance a été particulièrement *sanglante*.
+  Seine Rache war besonders *brutal*.
+
+  Le bandage était complètement *sanglant*.
+  Der Verband war völlig *blutig*.
+
+  Les nuages *sanglants* traversaient le ciel du soir.
+  *Blutrote* Wolken zogen über den Abendhimmel.
+
+  Cet affront *sanglant* ne sera jamais oublié.
+  Diese *schwere* Beleidigung wird nie vergessen werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,23 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Si vous allez miser pour moi…alors on sera quittes.
-  Wenn Sie für mich wetten werden… dann sind wir quitt.
+  Si vous allez *miser* pour moi... alors on sera quittes.
+  Wenn Sie für mich *setzen*... dann sind wir quitt.
 
-  Il a misé sur le mauvais cheval.
-  Er hat auf das falsche Pferd gesetzt.
+  "Je vais *miser* gros sur ce nouveau projet."
+  "Ich werde bei diesem neuen Projekt hoch *pokern*."
 
-  Il a décidé de miser sur un cheval noir pour la course.
-  Er hat sich entschieden, auf ein schwarzes Pferd in dem Rennen zu wetten.
+  La banque a décidé de *miser* sur les énergies renouvelables.
+  Die Bank hat beschlossen, auf erneuerbare Energien zu *setzen*.
 
-  Au casino, elle a misé sur le rouge et a gagné.
-  Im Casino hat sie auf Rot gesetzt und gewonnen.
+  Elle a *misé* cent euros sur le cheval numéro sept.
+  Sie hat hundert Euro auf Pferd Nummer sieben *gesetzt*.
 
-  Ils ont misé sur le nouveau maire pour faire des réformes.
-  Sie haben auf den neuen Bürgermeister gesetzt, um Reformen durchzuführen.
+  Notre entreprise *mise* sur l'innovation pour rester compétitive.
+  Unser Unternehmen *setzt* auf Innovation, um wettbewerbsfähig zu bleiben.
 
-  Le bookmaker propose de miser 8 contre 1 sur la victoire de l'équipe locale.
-  Der Buchmacher bietet 8 zu 1 für einen Sieg der Heimmannschaft an.
+  Pierre a *misé* sur le mauvais cheval en soutenant ce candidat.
+  Pierre hat aufs falsche Pferd *gesetzt*, als er diesen Kandidaten unterstützte.
+
+  Les investisseurs *misent* sur la croissance du marché asiatique.
+  Die Investoren *setzen* auf das Wachstum des asiatischen Marktes.
+
+  Il faut *miser* sur la jeunesse pour construire l'avenir.
+  Man muss auf die Jugend *setzen*, um die Zukunft zu gestalten.
+
+  Thomas a *misé* huit contre un sur cette course.
+  Thomas hat bei diesem Rennen acht zu eins *gewettet*.
+
+  L'équipe *mise* sur la vitesse de ses attaquants.
+  Das Team *setzt* auf die Schnelligkeit seiner Stürmer.
+
+  Elle *mise* toujours sur le rouge à la roulette.
+  Sie *setzt* beim Roulette immer auf Rot.
+
+  Le gouvernement *mise* sur l'éducation pour réduire le chômage.
+  Die Regierung *setzt* auf Bildung, um die Arbeitslosigkeit zu reduzieren.
+
+  Nous avons *misé* sur la qualité plutôt que sur la quantité.
+  Wir haben auf Qualität statt auf Quantität *gesetzt*.
+
+  Il *mise* sur les deux tableaux pour maximiser ses chances.
+  Er *setzt* auf beiden Seiten, um seine Chancen zu maximieren.
+
+  Les scientifiques *misent* sur cette découverte pour guérir la maladie.
+  Die Wissenschaftler *setzen* auf diese Entdeckung, um die Krankheit zu heilen.
+
+  Tu as *misé* combien sur ce match ?
+  Wie viel hast du auf dieses Spiel *gesetzt*?
+
+  L'artiste *mise* sur son talent pour réussir.
+  Der Künstler *setzt* auf sein Talent, um Erfolg zu haben.
+
+  Marie *misait* sur la lassitude de ses adversaires.
+  Marie *setzte* auf die Ermüdung ihrer Gegner.
+
+  Ils ont *misé* sur la technologie dès le début.
+  Sie haben von Anfang an auf die Technologie *gesetzt*.
+
+  Notre stratégie est de *miser* sur le long terme.
+  Unsere Strategie ist es, auf langfristigen Erfolg zu *setzen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

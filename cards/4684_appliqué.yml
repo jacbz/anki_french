@@ -13,17 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Oui, j’étais une élève appliquée.
-  Ja, ich war eine fleißige Schülerin.
+  Oui, j'étais une élève *appliquée*.
+  Ja, ich war eine *fleißige* Schülerin.
 
-  Il a appliqué les principes de la physique.
-  Er hat die Prinzipien der Physik angewandt.
+  Son écriture est très *appliquée* et soignée.
+  Seine Handschrift ist sehr *sorgfältig* und ordentlich.
 
-  Le tir était bien appliqué et a touché la cible.
-  Der Schuss war gut gezielt und traf die Zielscheibe.
+  La recherche *appliquée* nous aide à résoudre des problèmes concrets.
+  Die *angewandte* Forschung hilft uns, konkrete Probleme zu lösen.
 
-  L'étudiant a bien appliqué ses connaissances lors de l'examen.
-  Der Schüler hat sein Wissen im Examen gut angewendet.
+  Le coup était bien *appliqué* et a touché sa cible.
+  Der Schlag war gut *gezielt* und traf sein Ziel.
+
+  Les arts *appliqués* constituent une partie importante de notre culture.
+  Die *angewandten* Künste sind ein wichtiger Teil unserer Kultur.
+
+  C'est un ouvrier très *appliqué* qui fait toujours de son mieux.
+  Er ist ein sehr *eifriger* Arbeiter, der immer sein Bestes gibt.
+
+  Marie suit des cours de mathématiques *appliquées*.
+  Marie besucht Kurse in *angewandter* Mathematik.
+
+  Son devoir était particulièrement *appliqué* cette fois-ci.
+  Seine Hausaufgabe war dieses Mal besonders *sorgfältig* gemacht.
+
+  La linguistique *appliquée* nous aide à mieux enseigner les langues.
+  Die *angewandte* Linguistik hilft uns, Sprachen besser zu unterrichten.
+
+  Thomas est un étudiant très *appliqué* dans ses études.
+  Thomas ist ein sehr *fleißiger* Student in seinem Studium.
+
+  Elle fait ses exercices de façon très *appliquée*.
+  Sie macht ihre Übungen sehr *gewissenhaft*.
+
+  Le département de chimie *appliquée* travaille sur ce projet.
+  Die Abteilung für *angewandte* Chemie arbeitet an diesem Projekt.
+
+  Les enfants semblent particulièrement *appliqués* aujourd'hui.
+  Die Kinder scheinen heute besonders *eifrig* zu sein.
+
+  La psychologie *appliquée* peut nous aider dans notre quotidien.
+  Die *angewandte* Psychologie kann uns im Alltag helfen.
+
+  Ce travail *appliqué* mérite une excellente note.
+  Diese *sorgfältige* Arbeit verdient eine ausgezeichnete Note.
+
+  Les sciences *appliquées* offrent de nombreuses opportunités professionnelles.
+  Die *angewandten* Wissenschaften bieten viele berufliche Möglichkeiten.
+
+  Pierre est toujours très *appliqué* dans son travail manuel.
+  Pierre ist bei seiner Handarbeit immer sehr *akkurat*.
+
+  La physique *appliquée* nous permet de développer de nouvelles technologies.
+  Die *angewandte* Physik ermöglicht uns die Entwicklung neuer Technologien.
+
+  Son style d'écriture est très *appliqué* et précis.
+  Ihr Schreibstil ist sehr *sorgfältig* und präzise.
+
+  Les étudiants *appliqués* réussissent généralement mieux leurs examens.
+  *Fleißige* Studenten bestehen ihre Prüfungen in der Regel besser.
+
+  La biologie *appliquée* nous aide à résoudre des problèmes environnementaux.
+  Die *angewandte* Biologie hilft uns bei der Lösung von Umweltproblemen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

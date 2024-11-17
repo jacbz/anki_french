@@ -13,20 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les antibiotiques sont utilisés de façon préventive.
-  Antibiotika werden vorbeugend eingesetzt.
+  Les antibiotiques sont utilisés de façon *préventive*.
+  Antibiotika werden *vorbeugend* eingesetzt.
 
-  La vaccination est un traitement préventif.
-  Die Impfung ist eine vorbeugende Behandlung.
+  La *médecine préventive* joue un rôle crucial dans la santé publique.
+  Die *Präventiv*medizin spielt eine wichtige Rolle in der öffentlichen Gesundheit.
 
-  La médecine préventive vise à prévenir les maladies et à améliorer la santé des personnes.
-  Die Präventivmedizin zielt darauf ab, Krankheiten vorzubeugen und die Gesundheit der Menschen zu verbessern.
+  Notre entreprise a mis en place des mesures *préventives* contre le harcèlement.
+  Unser Unternehmen hat *vorbeugende* Maßnahmen gegen Belästigung eingeführt.
 
-  Une mesure préventive est une action qui vise à empêcher un événement indésirable.
-  Eine Vorbeugungsmaßnahme ist eine Handlung, die darauf abzielt, ein unerwünschtes Ereignis zu verhindern.
+  Le suspect a été placé en détention *préventive* pendant l'enquête.
+  Der Verdächtige wurde während der Ermittlungen in *Untersuchungs*haft genommen.
 
-  L'avocat a demandé la libération de son client de la détention préventive.
-  Der Anwalt hat die Freilassung seines Mandanten aus der Untersuchungshaft beantragt.
+  Un traitement *préventif* contre la grippe est recommandé pour les personnes âgées.
+  Eine *vorbeugende* Behandlung gegen Grippe wird für ältere Menschen empfohlen.
+
+  À titre *préventif*, nous avons annulé l'événement en plein air.
+  *Vorsorglich* haben wir die Veranstaltung im Freien abgesagt.
+
+  Les vaccins font partie des stratégies *préventives* les plus efficaces.
+  Impfungen gehören zu den wirksamsten *vorbeugenden* Strategien.
+
+  Cette crème solaire a un effet *préventif* contre les coups de soleil.
+  Diese Sonnencreme hat eine *vorbeugende* Wirkung gegen Sonnenbrand.
+
+  Le gouvernement a adopté une politique *préventive* en matière de cybersécurité.
+  Die Regierung hat eine *präventive* Politik im Bereich der Cybersicherheit eingeführt.
+
+  Les contrôles *préventifs* des véhicules réduisent les accidents.
+  *Vorbeugende* Fahrzeugkontrollen reduzieren Unfälle.
+
+  Une action *préventive* vaut mieux qu'une action curative.
+  *Vorbeugende* Maßnahmen sind besser als heilende.
+
+  Le juge a ordonné son placement en prison *préventive*.
+  Der Richter ordnete seine Unterbringung in *Untersuchungs*haft an.
+
+  Les exercices d'évacuation *préventifs* sont obligatoires dans les écoles.
+  *Vorbeugende* Evakuierungsübungen sind in Schulen obligatorisch.
+
+  La maintenance *préventive* prolonge la durée de vie des machines.
+  *Vorbeugende* Wartung verlängert die Lebensdauer der Maschinen.
+
+  Des mesures *préventives* ont été prises pour éviter la propagation du virus.
+  Es wurden *vorbeugende* Maßnahmen ergriffen, um die Ausbreitung des Virus zu verhindern.
+
+  Le centre de *médecine préventive* propose des examens de routine.
+  Das Zentrum für *Präventiv*medizin bietet Routineuntersuchungen an.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

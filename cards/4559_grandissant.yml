@@ -13,11 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’insatisfaction grandissante exige une action rapide.
-  Die wachsende Unzufriedenheit erfordert schnelles Handeln.
+  L'insatisfaction *grandissante* exige une action rapide.
+  Die *wachsende* Unzufriedenheit erfordert schnelles Handeln.
 
-  Le nombre de touristes est grandissant chaque année.
-  Die Anzahl der Touristen wächst jedes Jahr.
+  Face à une foule *grandissante*, les organisateurs ont dû fermer les portes.
+  Angesichts der *anwachsenden* Menge mussten die Organisatoren die Türen schließen.
+
+  La pollution devient un problème *grandissant* dans notre ville.
+  Die Verschmutzung wird zu einem *wachsenden* Problem in unserer Stadt.
+
+  Marie observe avec fierté le talent *grandissant* de sa fille en musique.
+  Marie beobachtet mit Stolz das *wachsende* Talent ihrer Tochter in der Musik.
+
+  L'obscurité *grandissante* nous força à rentrer plus tôt que prévu.
+  Die *zunehmende* Dunkelheit zwang uns, früher als geplant zurückzukehren.
+
+  Il y a une tension *grandissante* entre les deux pays.
+  Es gibt eine *wachsende* Spannung zwischen den beiden Ländern.
+
+  Les médias parlent beaucoup de la popularité *grandissante* du vélo en ville.
+  Die Medien berichten viel über die *wachsende* Beliebtheit des Fahrrads in der Stadt.
+
+  Le succès *grandissant* de l'entreprise attire de nouveaux investisseurs.
+  Der *wachsende* Erfolg des Unternehmens zieht neue Investoren an.
+
+  Avec une inquiétude *grandissante*, elle attendait des nouvelles de son fils.
+  Mit *wachsender* Sorge wartete sie auf Nachrichten von ihrem Sohn.
+
+  Le public manifestait une curiosité *grandissante* pour cette nouvelle technologie.
+  Das Publikum zeigte ein *wachsendes* Interesse an dieser neuen Technologie.
+
+  Face au mécontentement *grandissant*, le directeur a décidé de modifier sa stratégie.
+  Angesichts der *wachsenden* Unzufriedenheit beschloss der Direktor, seine Strategie zu ändern.
+
+  L'influence *grandissante* des réseaux sociaux inquiète les parents.
+  Der *wachsende* Einfluss der sozialen Medien beunruhigt die Eltern.
+
+  Les chercheurs ont noté une conscience *grandissante* de l'importance du recyclage.
+  Die Forscher stellten ein *wachsendes* Bewusstsein für die Bedeutung des Recyclings fest.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

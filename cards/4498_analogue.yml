@@ -13,20 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La situation est analogue sur le plan mondial.
-  Auf globaler Ebene ist die Situation ähnlich.
+  La situation est *analogue* sur le plan mondial.
+  Die Situation ist weltweit *ähnlich*.
 
-  C’est l’analogue de l’original.
-  Das ist das Analogon des Originals.
+  Ces deux médicaments ont des propriétés *analogues*.
+  Diese beiden Medikamente haben *vergleichbare* Eigenschaften.
 
-  Les propriétés de ces deux médicaments sont analogues, ce qui les rend interchangeables.
-  Diese beiden Medikamente haben vergleichbare Eigenschaften, was sie austauschbar macht.
+  J'ai eu une idée *analogue* à la sienne hier soir.
+  Ich hatte gestern Abend eine *ähnliche* Idee wie sie.
 
-  La beauté de cette œuvre d'art est sans analogue.
-  Die Schönheit dieses Kunstwerks ist einzigartig.
+  Cette substance visqueuse est *analogue* à la résine.
+  Diese klebrige Substanz ist dem Harz *ähnlich*.
 
-  Il a eu une idée analogue à la mienne, mais il l'a développée d'une manière différente.
-  Er hatte eine ähnliche Idee wie ich, aber er hat sie auf eine andere Weise entwickelt.
+  Les deux tableaux sont *analogues* dans leur composition.
+  Die beiden Gemälde sind in ihrer Komposition *analog*.
+
+  Nous cherchons un *analogue* de ce mot en français.
+  Wir suchen eine *Entsprechung* für dieses Wort im Französischen.
+
+  Le développement technologique suit un processus *analogue* dans ces pays.
+  Die technologische Entwicklung folgt in diesen Ländern einem *vergleichbaren* Prozess.
+
+  Les scientifiques ont découvert un phénomène sans *analogue* dans la nature.
+  Die Wissenschaftler haben ein in der Natur *einzigartiges* Phänomen entdeckt.
+
+  Sa manière de penser est *analogue* à celle de son père.
+  Seine Denkweise ist der seines Vaters *ähnlich*.
+
+  Les résultats sont *analogues* dans les deux expériences.
+  Die Ergebnisse sind in beiden Experimenten *vergleichbar*.
+
+  Ces deux espèces présentent des caractéristiques *analogues*.
+  Diese beiden Arten weisen *ähnliche* Merkmale auf.
+
+  Il n'existe aucun *analogue* de cette structure moléculaire.
+  Für diese Molekülstruktur gibt es keine *Entsprechung*.
+
+  Les chercheurs ont trouvé des solutions *analogues* à ce problème.
+  Die Forscher haben *vergleichbare* Lösungen für dieses Problem gefunden.
+
+  Cette méthode est *analogue* à celle que nous utilisons déjà.
+  Diese Methode ist der, die wir bereits verwenden, *analog*.
+
+  Les deux cultures ont développé des traditions *analogues*.
+  Die beiden Kulturen haben *ähnliche* Traditionen entwickelt.
+
+  Ce comportement n'a pas d'*analogue* dans le règne animal.
+  Dieses Verhalten hat im Tierreich keine *Entsprechung*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -9,11 +9,54 @@ Femininum / Plural: ''
 IPA: \o.to\
 Definition: Auto
 Register: ↗Fiktion ↘Sachtext
-Beispielsätze: "Des amis venaient nous chercher en auto.\nFreunde holten uns mit dem\
-  \ Auto ab.\n\nJe vais au travail en auto.\nIch fahre mit dem Auto zur Arbeit.\n\n\
-  Les enfants adorent monter dans l'auto tamponneuse.\nKinder lieben es, auf dem Autoscooter\
-  \ zu fahren. \n\nOn peut trouver des autos tamponneuses dans la plupart des fêtes\
-  \ foraines.\nMan findet Autoscooter auf den meisten Jahrmärkten."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Des amis venaient nous chercher en *auto*.
+  Freunde haben uns mit dem *Auto* abgeholt.
+
+  Le Salon de l'*auto* à Paris est un événement majeur dans l'industrie automobile.
+  Die *Auto*messe in Paris ist ein wichtiges Ereignis in der Automobilindustrie.
+
+  Ma première *auto* était une petite Renault rouge.
+  Mein erstes *Auto* war ein kleiner roter Renault.
+
+  Les enfants adorent faire un tour dans les *autos* tamponneuses à la fête foraine.
+  Die Kinder lieben es, im *Auto*skooter auf dem Jahrmarkt zu fahren.
+
+  Mon assurance *auto* couvre tous les dégâts possibles.
+  Meine *Auto*versicherung deckt alle möglichen Schäden ab.
+
+  Elle préfère se déplacer en *auto* plutôt qu'en transport en commun.
+  Sie fährt lieber mit dem *Auto* als mit öffentlichen Verkehrsmitteln.
+
+  Pierre a offert une petite *auto* en jouet à son fils.
+  Pierre hat seinem Sohn ein *Auto* zum Spielen geschenkt.
+
+  Je dois renouveler mes accessoires *auto* avant l'hiver.
+  Ich muss mein *Auto*zubehör vor dem Winter erneuern.
+
+  L'*auto*-école du quartier propose des cours intensifs.
+  Die *Fahr*schule im Viertel bietet Intensivkurse an.
+
+  Cette *auto* de collection vaut une fortune.
+  Dieses Oldtimer-*Auto* ist ein Vermögen wert.
+
+  Les *autos* modernes consomment moins d'essence.
+  Moderne *Auto*s verbrauchen weniger Benzin.
+
+  J'ai fait réparer mon *auto* hier.
+  Ich habe gestern mein *Auto* reparieren lassen.
+
+  Cette grosse *auto* allemande est très confortable.
+  Dieses große deutsche *Auto* ist sehr komfortabel.
+
+  Il faut ranger l'*auto* dans le garage ce soir.
+  Das *Auto* muss heute Abend in die Garage.
+
+  Nous avons fait une belle promenade en *auto* dans la campagne.
+  Wir haben eine schöne *Auto*fahrt aufs Land gemacht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,44 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il est bien inutile d’énumérer les obstacles.
-  Es ist sehr müßig, die Hindernisse aufzuzählen.
+  Il est bien inutile d'*énumérer* les obstacles.
+  Es ist völlig unnötig, die Hindernisse *aufzuzählen*.
 
-  Je vais énumérer les points importants.
-  Ich werde die wichtigen Punkte auflisten.
+  Les experts ont *énuméré* les risques potentiels du projet.
+  Die Experten haben die möglichen Risiken des Projekts *aufgezählt*.
 
-  Il faut énumérer les détails un par un, en commençant par les plus importants.
-  Man muss die Punkte einzeln aufführen, beginnend mit den wichtigsten.
+  Le témoin a *énuméré* tous les détails de l'accident.
+  Der Zeuge hat alle Details des Unfalls *aufgeführt*.
 
-  On peut énumérer les détails un par un, en utilisant des puces ou des numéros.
-  Man kann die Punkte einzeln aufführen, indem man Aufzählungszeichen oder Nummern verwendet.
+  Elle commence à *énumérer* ses qualifications professionnelles.
+  Sie beginnt, ihre beruflichen Qualifikationen *aufzuzählen*.
+
+  Le professeur *énumère* les dates importantes à retenir.
+  Der Lehrer *zählt* die wichtigen Daten *auf*, die man sich merken muss.
+
+  J'ai passé une heure à *énumérer* les avantages et les inconvénients.
+  Ich habe eine Stunde damit verbracht, die Vor- und Nachteile *aufzulisten*.
+
+  Le guide nous *énumérait* les règles à suivre dans le musée.
+  Der Führer *zählte* uns die Regeln *auf*, die wir im Museum befolgen sollten.
+
+  Marie *énumère* ses griefs contre son ancien employeur.
+  Marie *listet* ihre Beschwerden gegen ihren ehemaligen Arbeitgeber *auf*.
+
+  Le vendeur a *énuméré* les caractéristiques du produit.
+  Der Verkäufer hat die Eigenschaften des Produkts *aufgezählt*.
+
+  La secrétaire doit *énumérer* les dépenses une par une.
+  Die Sekretärin muss die Ausgaben einzeln *aufführen*.
+
+  Paul *énumérait* ses souvenirs d'enfance avec nostalgie.
+  Paul *zählte* nostalgisch seine Kindheitserinnerungen *auf*.
+
+  L'avocat va *énumérer* les preuves devant le tribunal.
+  Der Anwalt wird die Beweise vor Gericht *aufführen*.
+
+  Je vais *énumérer* les ingrédients nécessaires pour cette recette.
+  Ich werde die notwendigen Zutaten für dieses Rezept *aufzählen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

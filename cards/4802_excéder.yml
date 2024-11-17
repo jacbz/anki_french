@@ -13,23 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le total ne peut excéder 55 000 francs.
-  Der Gesamtbetrag darf nicht mehr als 55 000 Franken betragen.
+  Le total ne peut pas *excéder* 55 000 francs.
+  Die Gesamtsumme darf 55 000 Franken nicht *übersteigen*.
 
-  Le bruit excède les limites autorisées.
-  Der Lärm überschreitet die erlaubten Grenzwerte.
+  Le poids des bagages ne doit pas *excéder* vingt kilos.
+  Das Gepäckgewicht darf zwanzig Kilo nicht *überschreiten*.
 
-  Le prix de ce séjour ne doit pas excéder 3 000 euros.
-  Der Preis für diesen Aufenthalt darf 3000 Euro nicht übersteigen.
+  Ses dépenses *excèdent* largement son budget mensuel.
+  Seine Ausgaben *übersteigen* sein monatliches Budget bei weitem.
 
-  Le bruit incessant des travaux a excédé les voisins.
-  Der unaufhörliche Lärm der Bauarbeiten hat die Nachbarn zur Verzweiflung gebracht.
+  La durée du film ne devrait pas *excéder* deux heures.
+  Die Filmlänge sollte zwei Stunden nicht *überschreiten*.
 
-  Le stationnement ne doit pas excéder quinze minutes sur cette place.
-  Man darf nicht länger als fünfzehn Minuten auf diesem Platz parken.
+  Cette tâche *excède* malheureusement mes capacités actuelles.
+  Diese Aufgabe *übersteigt* leider meine derzeitigen Fähigkeiten.
 
-  Après une journée passée à gérer les crises de son enfant, elle était excédée.
-  Nach einem Tag, der damit verbracht wurde, die Anfälle ihres Kindes zu bewältigen, war sie entnervt.
+  Le bruit constant des travaux finit par m'*excéder*.
+  Der ständige Baulärm bringt mich zur *Verzweiflung*.
+
+  Marie était visiblement *excédée* par les remarques de son collègue.
+  Marie war von den Bemerkungen ihres Kollegen sichtlich *genervt*.
+
+  Les frais de réparation *excèdent* la valeur de la voiture.
+  Die Reparaturkosten *übersteigen* den Wert des Autos.
+
+  Le directeur a *excédé* ses pouvoirs en prenant cette décision.
+  Der Direktor hat seine Befugnisse *überschritten*, als er diese Entscheidung traf.
+
+  "Tu m'*excèdes* avec tes excuses permanentes !"
+  "Du bringst mich mit deinen ständigen Ausreden auf die *Palme*!"
+
+  Les températures ont *excédé* les normales saisonnières.
+  Die Temperaturen haben die jahreszeitlichen Durchschnittswerte *überschritten*.
+
+  Son comportement *excède* ma patience.
+  Sein Verhalten bringt mich zur *Verzweiflung*.
+
+  Cette proposition *excède* mes attentes.
+  Dieser Vorschlag *übertrifft* meine Erwartungen.
+
+  Le nombre de participants ne doit pas *excéder* la capacité de la salle.
+  Die Teilnehmerzahl darf die Raumkapazität nicht *überschreiten*.
+
+  La vitesse du véhicule a *excédé* la limite autorisée.
+  Die Geschwindigkeit des Fahrzeugs hat das erlaubte Limit *überschritten*.
+
+  Les enfants l'ont tellement *excédé* qu'il est parti plus tôt.
+  Die Kinder haben ihn so *genervt*, dass er früher gegangen ist.
+
+  Cette somme *excède* largement nos moyens financiers.
+  Diese Summe *übersteigt* unsere finanziellen Möglichkeiten bei weitem.
+
+  Je suis complètement *excédé* par cette situation absurde.
+  Ich bin von dieser absurden Situation völlig *entnervt*.
+
+  La hauteur du bâtiment ne doit pas *excéder* trente mètres.
+  Die Gebäudehöhe darf dreißig Meter nicht *überschreiten*.
+
+  Son arrogance finit par *excéder* tout le monde.
+  Seine Arroganz bringt am Ende alle zur *Verzweiflung*.
+
+  Les coûts du projet ont *excédé* toutes les estimations initiales.
+  Die Projektkosten haben alle ursprünglichen Schätzungen *überstiegen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

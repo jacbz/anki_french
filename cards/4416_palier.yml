@@ -13,23 +13,56 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  J’allai sur le palier et frappai à sa porte.
-  Ich ging auf den Treppenabsatz und klopfte an ihre Tür.
+  J'allai sur le *palier* et frappai à sa porte.
+  Ich ging auf den *Treppenabsatz* und klopfte an ihre Tür.
 
-  Il habite au deuxième palier.
-  Er wohnt auf der zweiten Etage.
+  Mes voisins de *palier* font toujours trop de bruit le soir.
+  Meine *Etagen*nachbarn machen abends immer zu viel Lärm.
 
-  Ils habitent sur le même palier, ce qui facilite les échanges entre voisins.
-  Sie wohnen auf derselben Etage, was den Austausch zwischen Nachbarn erleichtert.
+  Les ingénieurs ont remplacé le *palier* à rouleaux de la machine.
+  Die Ingenieure haben das *Wälzlager* der Maschine ausgetauscht.
 
-  Après des années de travail acharné, il a atteint un nouveau palier dans sa carrière.
-  Nach Jahren harter Arbeit hat er eine neue Stufe in seiner Karriere erreicht.
+  La route de montagne monte par *paliers* successifs jusqu'au sommet.
+  Die Bergstraße steigt in aufeinanderfolgenden *Stufen* bis zum Gipfel an.
 
-  Le palier à rouleaux permet un mouvement fluide et silencieux.
-  Das Rollenlager ermöglicht eine flüssige und geräuschlose Bewegung.
+  L'inflation a atteint un nouveau *palier* ce mois-ci.
+  Die Inflation hat diesen Monat eine neue *Stufe* erreicht.
 
-  La production a augmenté par paliers, ce qui a permis de répondre à la demande croissante.
-  Die Produktion ist stufenweise gestiegen, was es ermöglichte, die steigende Nachfrage zu decken.
+  Sur notre *palier*, il y a trois appartements.
+  Auf unserer *Etage* gibt es drei Wohnungen.
+
+  Le *palier* principal donne accès à toutes les salles de conférence.
+  Der Haupt*treppenabsatz* führt zu allen Konferenzräumen.
+
+  Les réformes seront mises en place par *paliers*.
+  Die Reformen werden *stufenweise* eingeführt.
+
+  Le plongeur doit respecter les *paliers* de décompression.
+  Der Taucher muss die Dekompressions*stufen* einhalten.
+
+  L'avion maintient son vol en *palier* pendant une heure.
+  Das Flugzeug hält seinen *horizontalen* Flug eine Stunde lang.
+
+  Nous nous sommes croisés sur le *palier* ce matin.
+  Wir sind uns heute Morgen auf dem *Treppenabsatz* begegnet.
+
+  Le développement économique du pays a atteint un *palier*.
+  Die wirtschaftliche Entwicklung des Landes hat eine *Zwischenstufe* erreicht.
+
+  Le mécanicien a vérifié tous les *paliers* de l'arbre de transmission.
+  Der Mechaniker hat alle *Lager* der Antriebswelle überprüft.
+
+  Les enfants jouent souvent sur le *palier* du deuxième étage.
+  Die Kinder spielen oft auf dem *Treppenabsatz* im zweiten Stock.
+
+  L'entreprise augmente ses prix par *paliers*.
+  Das Unternehmen erhöht seine Preise *stufenweise*.
+
+  Le nouveau *palier* de température devrait durer quelques jours.
+  Die neue Temperatur*stufe* sollte einige Tage anhalten.
+
+  La lumière du *palier* s'allume automatiquement quand quelqu'un passe.
+  Das Licht im *Treppenhaus* geht automatisch an, wenn jemand vorbeigeht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

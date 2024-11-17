@@ -13,14 +13,35 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le chômage augmenterait inévitablement.
-  Die Arbeitslosigkeit würde unweigerlich steigen.
+  Le chômage augmenterait *inévitablement*.
+  Die Arbeitslosigkeit würde *zwangsläufig* steigen.
 
-  Cela lui fait inévitablement des préjugés.
-  Dies führt zwangsläufig dazu, dass er Vorurteile hat.
+  Cette situation mènera *inévitablement* à des conflits.
+  Diese Situation wird *zwangsläufig* zu Konflikten führen.
 
-  Le temps passe inévitablement.
-  Die Zeit vergeht unvermeidlicherweise.
+  Quand on travaille tard, on commet *inévitablement* des erreurs.
+  Wenn man spät arbeitet, macht man *zwangsläufig* Fehler.
+
+  Les prix du pétrole vont *inévitablement* augmenter cet hiver.
+  Die Ölpreise werden im Winter *zwangsläufig* steigen.
+
+  Il tombera *inévitablement* dans le piège qu'on lui a tendu.
+  Er wird *zwangsläufig* in die Falle tappen, die man ihm gestellt hat.
+
+  Le développement technologique conduit *inévitablement* à des changements sociaux.
+  Die technologische Entwicklung führt *zwangsläufig* zu gesellschaftlichen Veränderungen.
+
+  Un régime si strict mène *inévitablement* à l'échec.
+  Eine so strenge Diät führt *zwangsläufig* zum Scheitern.
+
+  La pollution atmosphérique affectera *inévitablement* notre santé.
+  Die Luftverschmutzung wird *zwangsläufig* unsere Gesundheit beeinträchtigen.
+
+  Les enfants grandissent *inévitablement* trop vite.
+  Kinder werden *zwangsläufig* zu schnell groß.
+
+  Toute discussion sur ce sujet aboutit *inévitablement* à une dispute.
+  Jede Diskussion über dieses Thema führt *zwangsläufig* zu einem Streit.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

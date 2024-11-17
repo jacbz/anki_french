@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je dirais en parenthèses que l’histoire présente est opaque.
-  Ich würde in Klammern sagen, dass die gegenwärtige Geschichte undurchsichtig ist.
+  Je dirais en *parenthèses* que l'histoire présente est opaque.
+  Ich möchte am *Rande* bemerken, dass die gegenwärtige Geschichte undurchsichtig ist.
 
-  Après cette longue parenthèse, fermons-la et revenons à notre sujet principal.
-  Nach dieser langen Zwischenbemerkung, kommen wir zurück zum eigentlichen Thema.
+  Il a mis son numéro de téléphone entre *parenthèses*.
+  Er hat seine Telefonnummer in *Klammern* gesetzt.
 
-  Le professeur a mis la date entre parenthèses.
-  Der Lehrer hat das Datum in Klammern gesetzt.
+  "Mettez cette affaire entre *parenthèses* pour le moment."
+  "Lassen Sie diese Angelegenheit vorläufig *beiseite*."
 
-  Soit dit entre parenthèses, Pierre n'a toujours pas confirmé sa présence.
-  Nebenbei bemerkt, Pierre hat seine Anwesenheit immer noch nicht bestätigt.
+  Cette *parenthèse* explicative est vraiment nécessaire.
+  Dieser erklärende *Einschub* ist wirklich notwendig.
+
+  J'ouvre une *parenthèse* pour mentionner un détail important.
+  Ich füge einen *Exkurs* ein, um ein wichtiges Detail zu erwähnen.
+
+  Les *parenthèses* sont souvent utilisées en mathématiques.
+  Die *Klammern* werden oft in der Mathematik verwendet.
+
+  Ces trois mois de voyage étaient une *parenthèse* enchantée dans sa vie.
+  Diese drei Reisemonate waren ein zauberhaftes *Intermezzo* in seinem Leben.
+
+  Fermons cette *parenthèse* et revenons à notre sujet principal.
+  Beenden wir diesen *Einschub* und kehren wir zu unserem Hauptthema zurück.
+
+  Il faut placer l'explication entre *parenthèses*.
+  Die Erklärung muss in *Klammern* gesetzt werden.
+
+  Cette *parenthèse* dans ma carrière m'a beaucoup appris.
+  Dieses *Zwischenspiel* in meiner Karriere hat mich viel gelehrt.
+
+  *Parenthèse* fermante ou ouvrante - laquelle utiliser ici ?
+  Schließende oder öffnende *Klammer* - welche soll hier verwendet werden?
+
+  Soit dit entre *parenthèses*, je ne l'ai jamais vraiment aimé.
+  *Nebenbei* bemerkt, ich habe ihn nie wirklich gemocht.
+
+  Cette longue *parenthèse* a fait perdre le fil à tout le monde.
+  Dieser lange *Exkurs* hat alle den Faden verlieren lassen.
+
+  Par *parenthèse*, as-tu déjà lu son nouveau livre ?
+  In *Klammern* gesagt, hast du sein neues Buch schon gelesen?
+
+  Les vacances furent une courte *parenthèse* dans notre routine.
+  Der Urlaub war ein kurzes *Intermezzo* in unserer Routine.
+
+  N'oubliez pas de fermer la *parenthèse* à la fin de la phrase.
+  Vergessen Sie nicht, die *Klammer* am Ende des Satzes zu schließen.
+
+  Cette *parenthèse* historique mérite d'être développée.
+  Dieser historische *Einschub* verdient es, ausgeführt zu werden.
+
+  Entre *parenthèses*, je trouve cette idée excellente.
+  In *Klammern* gesagt, ich finde diese Idee ausgezeichnet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

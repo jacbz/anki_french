@@ -13,14 +13,62 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les illustrations sont originales.
-  Die Illustrationen sind originell.
+  Les *illustrations* sont originales.
+  Die *Illustrationen* sind originell.
 
-  Cette illustration est très belle.
-  Diese Illustration ist sehr schön.
+  Ce livre contient plus de mille *illustrations* en couleur.
+  Dieses Buch enthält über tausend farbige *Illustrationen*.
 
-  L'illustration graphique est partout autour de nous, de la signalétique à la publicité.
-  Gebrauchsgrafik ist überall um uns herum, von der Beschilderung bis zur Werbung.
+  L'*illustration* de ce manuel scolaire est vraiment réussie.
+  Die *Bebilderung* dieses Schulbuchs ist wirklich gelungen.
+
+  Cette photo est une parfaite *illustration* de ce que je veux dire.
+  Dieses Foto ist eine perfekte *Veranschaulichung* dessen, was ich sagen möchte.
+
+  Marie travaille dans le domaine de l'*illustration* graphique depuis dix ans.
+  Marie arbeitet seit zehn Jahren im Bereich der *Gebrauchsgrafik*.
+
+  Les enfants adorent les livres avec beaucoup d'*illustrations*.
+  Kinder lieben Bücher mit vielen *Bildern*.
+
+  Cette situation est l'*illustration* parfaite de nos problèmes actuels.
+  Diese Situation ist die perfekte *Illustration* unserer aktuellen Probleme.
+
+  L'*illustration* de cette idée nécessite plusieurs exemples.
+  Die *Veranschaulichung* dieser Idee erfordert mehrere Beispiele.
+
+  Je cherche un artiste pour l'*illustration* de mon prochain roman.
+  Ich suche einen Künstler für die *Illustration* meines nächsten Romans.
+
+  Le professeur utilise des *illustrations* pour expliquer les concepts difficiles.
+  Der Lehrer verwendet *Abbildungen*, um schwierige Konzepte zu erklären.
+
+  L'*illustration* en noir et blanc donne un charme particulier à ce livre.
+  Die Schwarz-Weiß-*Illustration* verleiht diesem Buch einen besonderen Charme.
+
+  Son comportement est la meilleure *illustration* de sa personnalité.
+  Sein Verhalten ist die beste *Veranschaulichung* seiner Persönlichkeit.
+
+  L'*illustration* numérique devient de plus en plus populaire.
+  Digitale *Illustration* wird immer beliebter.
+
+  Nous avons besoin d'*illustrations* plus modernes pour cette nouvelle édition.
+  Wir brauchen modernere *Illustrationen* für diese neue Ausgabe.
+
+  Cette expérience est une excellente *illustration* du phénomène.
+  Dieses Experiment ist eine ausgezeichnete *Veranschaulichung* des Phänomens.
+
+  L'*illustration* de ce magazine est particulièrement soignée.
+  Die *Bebilderung* dieser Zeitschrift ist besonders sorgfältig.
+
+  Les *illustrations* botaniques doivent être très précises.
+  Botanische *Illustrationen* müssen sehr präzise sein.
+
+  Cette collection d'*illustrations* anciennes vaut une fortune.
+  Diese Sammlung alter *Illustrationen* ist ein Vermögen wert.
+
+  L'artiste a créé des *illustrations* magnifiques pour ce conte de fées.
+  Der Künstler hat wunderbare *Illustrationen* für dieses Märchen geschaffen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

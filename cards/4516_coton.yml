@@ -13,29 +13,104 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’industrie du coton y est une source majeure de pollution.
-  Die Baumwollindustrie ist dort eine Hauptquelle der Umweltverschmutzung.
+  L'industrie du *coton* y est une source majeure de pollution.
+  Die *Baumwoll*industrie ist dort eine der Hauptverschmutzungsquellen.
 
-  Je préfère les vêtements en coton.
-  Ich bevorzuge Kleidung aus Baumwolle.
+  Cette chemise en *coton* est parfaite pour l'été.
+  Dieses *Baumwoll*hemd ist perfekt für den Sommer.
 
-  Il filait un mauvais coton depuis qu'il avait appris la nouvelle.
-  Er war nicht auf der Höhe seit er die Nachricht erfahren hatte.
+  J'ai acheté un nouveau t-shirt en *coton* bio.
+  Ich habe ein neues Bio-*Baumwoll*-Shirt gekauft.
 
-  Il avait les jambes en coton quand il est monté sur scène.
-  Er hatte weiche Knie, als er auf die Bühne ging.
+  Elle a besoin de *coton* à broder pour finir sa tapisserie.
+  Sie braucht *Stick*garn, um ihre Stickerei zu beenden.
 
-  Elle a toujours été élevée dans du coton, ce qui explique son manque de résilience.
-  Sie ist immer in Watte gepackt worden, was ihren Mangel an Widerstandsfähigkeit erklärt.
+  Le médecin a nettoyé la plaie avec du *coton* hydrophile.
+  Der Arzt reinigte die Wunde mit *Verbandswatte*.
 
-  Le coton à broder est disponible en une multitude de couleurs.
-  Stickgarn ist in vielen Farben erhältlich.
+  "Tu files un mauvais *coton* ces derniers temps, mon vieux."
+  "Dir geht es in letzter Zeit gar nicht gut, mein Alter."
 
-  Je préfère porter des chemises en coton, car elles sont plus respirantes.
-  Ich bevorzuge Baumwollhemden, da sie atmungsaktiver sind.
+  "J'ai les jambes en *coton* après ce marathon."
+  "Meine Beine sind wie *Watte* nach diesem Marathon."
 
-  Le coton hydrophile est utilisé pour nettoyer les plaies.
-  Verbandwatte wird zur Reinigung von Wunden verwendet.
+  Ces parents élèvent leur fils dans du *coton*.
+  Diese Eltern verhätscheln ihren Sohn.
+
+  Les agriculteurs récoltent le *coton* brut en automne.
+  Die Bauern ernten die *Rohbaumwolle* im Herbst.
+
+  As-tu du *coton* pour te démaquiller ?
+  Hast du *Watte* zum Abschminken?
+
+  Marie a mis du *coton* dans ses oreilles pendant le concert.
+  Marie hat sich *Watte* in die Ohren gesteckt während des Konzerts.
+
+  "Ce problème est vraiment *coton*."
+  "Dieses Problem ist wirklich knifflig."
+
+  La robe en *coton* sèche plus vite que celle en soie.
+  Das *Baumwoll*kleid trocknet schneller als das aus Seide.
+
+  J'ai besoin de *coton* à repriser pour ces chaussettes.
+  Ich brauche *Stopfgarn* für diese Socken.
+
+  Le pilote naviguait dans le *coton* ce matin-là.
+  Der Pilot flog an diesem Morgen durch dichten Nebel.
+
+  Les sous-vêtements en *coton* sont plus confortables.
+  *Baumwoll*unterwäsche ist bequemer.
+
+  Une balle de *coton* peut peser jusqu'à 200 kilos.
+  Ein *Baumwoll*ballen kann bis zu 200 Kilo wiegen.
+
+  Le *coton* des Indes est réputé pour sa qualité.
+  Indische *Baumwolle* ist für ihre Qualität bekannt.
+
+  La production de *coton* nécessite beaucoup d'eau.
+  Die *Baumwoll*produktion benötigt viel Wasser.
+
+  Cette couverture de *coton* est très douce.
+  Diese *Baumwoll*decke ist sehr weich.
+
+  J'ai acheté un écheveau de *coton* perlé pour broder.
+  Ich habe ein Knäuel Perl*garn* zum Sticken gekauft.
+
+  Le *coton* mort diminue la qualité du tissu.
+  Die unreife *Baumwolle* mindert die Qualität des Stoffes.
+
+  L'huile de *coton* est très utilisée en cuisine.
+  *Baumwoll*öl wird häufig zum Kochen verwendet.
+
+  Ce bonnet de *coton* me tient bien chaud.
+  Diese *Baumwoll*mütze hält mich schön warm.
+
+  Le *coton* de verre est utilisé pour l'isolation.
+  Die *Glas*watte wird zur Isolierung verwendet.
+
+  La filature de *coton* emploie cent personnes.
+  Die *Baumwoll*spinnerei beschäftigt hundert Menschen.
+
+  Ce *coton* hydrophile est parfait pour les soins.
+  Diese *Verbandswatte* ist perfekt für die Pflege.
+
+  Une mèche de *coton* brûle dans la lampe à huile.
+  Ein *Baumwoll*docht brennt in der Öllampe.
+
+  Il y a du *coton* qui protège les bourgeons.
+  *Flaum* schützt die Knospen.
+
+  "Ce n'est pas *coton* du tout !"
+  "Das ist überhaupt nicht schwierig!"
+
+  Le *coton* longue fibre est très recherché.
+  Lang*baumwoll*fasern sind sehr gefragt.
+
+  Je préfère les chaussettes de *coton* à celles en laine.
+  Ich mag *Baumwoll*socken lieber als Wollsocken.
+
+  Le *coton* cardé est prêt pour la filature.
+  Die kardierte *Baumwolle* ist bereit zum Spinnen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,38 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Elles se sont amenées hier en vélo.
-  Sie sind gestern mit dem Fahrrad gekommen.
+  Elles se sont amenées hier en *vélo*.
+  Sie sind gestern mit dem *Fahrrad* gekommen.
 
-  Je vais au travail en vélo.
-  Ich fahre mit dem Fahrrad zur Arbeit.
+  Mon petit frère a eu son premier *vélo* pour son anniversaire.
+  Mein kleiner Bruder hat zum Geburtstag sein erstes *Fahrrad* bekommen.
 
-  Je veux un vélo.
-  Ich möchte ein Fahrrad haben.
+  "Je préfère me déplacer à *vélo* plutôt qu'en bus."
+  "Ich bewege mich lieber mit dem *Rad* fort als mit dem Bus."
 
-  Il a trouvé mon vélo.
-  Er hat mein Fahrrad gefunden.
+  Ce *vélo* tout-terrain est parfait pour les chemins de montagne.
+  Dieses *Mountainbike* ist perfekt für Bergwege.
 
-  On m’a demandé de réparer le vélo.
-  Ich wurde gebeten, das Fahrrad zu reparieren.
+  Marc fait du *vélo* tous les week-ends.
+  Marc fährt jedes Wochenende *Rad*.
 
-  Pour ton anniversaire, je te donnerai un vélo.
-  Zu deinem Geburtstag bekommst du ein Fahrrad.
+  Les enfants adorent faire du *vélo* dans le parc.
+  Die Kinder lieben es, im Park *Fahrrad* zu fahren.
 
-  C’est dangereux de monter à deux sur un vélo.
-  Es ist gefährlich, zu zweit auf ein Fahrrad zu steigen.
+  Elle a attaché son *vélo* à un poteau.
+  Sie hat ihr *Fahrrad* an einem Pfosten angeschlossen.
 
-  Le vélo qui est là est à mon frère.
-  Das Fahrrad, das hier steht, gehört meinem Bruder.
+  Le *vélo* est un moyen de transport écologique.
+  Das *Fahrrad* ist ein umweltfreundliches Verkehrsmittel.
 
-  Le petit Louis a reçu un vélo d'enfant pour son anniversaire.
-  Der kleine Louis hat ein Kinderfahrrad zu seinem Geburtstag bekommen.
+  Nous louons des *vélos* pour la journée.
+  Wir mieten *Fahrräder* für den Tag.
 
-  Mon père n'avait pas vraiment une Meise, mais il avait un petit vélo rouge.
-  Mein Vater hatte nicht wirklich eine Meise, aber er hatte ein kleines, rotes Fahrrad.
+  Il a réparé son vieux *vélo* lui-même.
+  Er hat sein altes *Fahrrad* selbst repariert.
 
-  Chaque dimanche, nous allions faire du vélo à la campagne.
-  Jeden Sonntag sind wir mit dem Fahrrad aufs Land gefahren.
+  Le *vélo* est devenu son sport préféré.
+  *Radfahren* ist zu seinem Lieblingssport geworden.
+
+  Sophie va toujours au travail en *vélo*.
+  Sophie fährt immer mit dem *Rad* zur Arbeit.
+
+  J'ai acheté un *vélo* d'occasion sur Internet.
+  Ich habe ein gebrauchtes *Fahrrad* im Internet gekauft.
+
+  Le *vélo* électrique facilite les longues distances.
+  Das E-*Bike* erleichtert lange Strecken.
+
+  Pendant les vacances, nous faisons beaucoup de *vélo*.
+  In den Ferien fahren wir viel *Rad*.
+
+  Ce *vélo* d'enfant est trop petit maintenant.
+  Dieses Kinder*rad* ist jetzt zu klein.
+
+  Les accidents de *vélo* sont fréquents en ville.
+  *Fahrrad*unfälle sind in der Stadt häufig.
+
+  Le Tour de France a popularisé le *vélo* comme sport.
+  Die Tour de France hat den *Radsport* populär gemacht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

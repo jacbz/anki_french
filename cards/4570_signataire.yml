@@ -13,20 +13,50 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je crois qu’il faut 30 signataires.
-  Ich glaube, es sind 30 Unterzeichner erforderlich.
+  Je crois qu'il faut 30 *signataires*.
+  Ich glaube, es braucht 30 *Unterzeichner*.
 
-  Le signataire du contrat doit être présent.
-  Der Unterzeichner des Vertrags muss anwesend sein.
+  Les *signataires* du manifeste demandent des changements immédiats.
+  Die *Unterzeichner* des Manifests fordern sofortige Veränderungen.
 
-  Les membres signataires du traité se sont réunis pour discuter des amendements.
-  Die Mitglieder, die das Abkommen unterzeichnet haben, trafen sich, um über die Änderungen zu sprechen.
+  Êtes-vous le premier *signataire* de cette pétition ?
+  Sind Sie der erste *Unterzeichner* dieser Petition?
 
-  La société est signataire de la convention collective depuis 2010.
-  Die Firma ist Tarifvertragspartnerin seit 2010.
+  En tant que pays *signataire*, la France doit respecter cet accord.
+  Als *Unterzeichner*staat muss Frankreich dieses Abkommen einhalten.
 
-  La partie signataire a le droit de résilier le contrat.
-  Die vertragschließende Partei hat das Recht, den Vertrag zu kündigen.
+  Le *signataire* du testament était son oncle.
+  Der *Unterzeichner* des Testaments war sein Onkel.
+
+  Tous les pays *signataires* se réuniront demain à Genève.
+  Alle *Unterzeichner*staaten werden sich morgen in Genf treffen.
+
+  Marie est devenue la dernière *signataire* du contrat hier soir.
+  Marie wurde gestern Abend zur letzten *Unterzeichnerin* des Vertrags.
+
+  Les nations *signataires* ont ratifié le traité à l'unanimité.
+  Die *Unterzeichner*nationen haben den Vertrag einstimmig ratifiziert.
+
+  Le *signataire* de cette lettre reste anonyme.
+  Der *Unterzeichner* dieses Briefes bleibt anonym.
+
+  Comme État *signataire*, nous devons protéger l'environnement.
+  Als *Unterzeichner*staat müssen wir die Umwelt schützen.
+
+  La partie *signataire* n'a pas respecté ses engagements.
+  Die *unterzeichnende* Partei hat ihre Verpflichtungen nicht eingehalten.
+
+  Les *signataires* du pacte se sont mis d'accord sur trois points.
+  Die *Unterzeichner* des Pakts haben sich auf drei Punkte geeinigt.
+
+  Chaque membre *signataire* doit verser une cotisation annuelle.
+  Jedes *unterzeichnende* Mitglied muss einen jährlichen Beitrag zahlen.
+
+  Le document porte la signature de tous les États *signataires*.
+  Das Dokument trägt die Unterschrift aller *Unterzeichner*staaten.
+
+  Nous recherchons le dernier *signataire* de ce document historique.
+  Wir suchen den letzten *Unterzeichner* dieses historischen Dokuments.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

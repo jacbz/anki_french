@@ -13,44 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Nous allâmes en excursion au cirque.
-  Wir machten einen Ausflug zum Zirkus.
+  Nous allâmes en excursion au *cirque*.
+  Wir machten einen Ausflug in den *Zirkus*.
 
-  Le cirque est venu en ville.
-  Der Zirkus ist in die Stadt gekommen.
+  Le *cirque* ambulant s'est installé sur la place du village.
+  Der Wander*zirkus* hat sich auf dem Dorfplatz niedergelassen.
 
-  Le cirque est en ville.
-  Der Zirkus ist in der Stadt.
+  Les enfants adorent regarder les numéros du *cirque*.
+  Die Kinder lieben es, die *Zirkus*nummern zu sehen.
 
-  Je n’ai jamais été à un cirque.
-  Ich war noch nie in einem Zirkus.
+  L'odeur de la sciure et l'atmosphère du *cirque* me rappellent mon enfance.
+  Der Geruch von Sägespänen und die *Zirkus*luft erinnern mich an meine Kindheit.
 
-  Un cirque ambulant a installé ses tentes dans le village.
-  Ein Wanderzirkus hat seine Zelte im Dorf aufgeschlagen.
+  Le spectacle du *cirque* commence dans une heure.
+  Die *Zirkus*vorstellung beginnt in einer Stunde.
 
-  Arrête ton cirque, tu me fatigues avec tes histoires!
-  Mach nicht so einen Zirkus, du nervst mich mit deinen Geschichten!
+  Dans la Rome antique, les jeux du *cirque* attiraient des milliers de spectateurs.
+  Im antiken Rom zogen die *Zirkus*spiele Tausende von Zuschauern an.
 
-  C'est le cirque ici, on ne sait plus qui est qui!
-  Es geht hier zu wie in einem Tollhaus, man weiß gar nicht mehr, wer wer ist!
+  Le grand *cirque* blanc des Alpes attire chaque année des milliers de skieurs.
+  Der große Ski*zirkus* in den Alpen zieht jedes Jahr Tausende von Skifahrern an.
 
-  Quel cirque pour faire un gâteau, il y a de la farine partout!
-  Was für ein Zirkus, wenn man einen Kuchen backen will, es liegt überall Mehl herum!
+  Le *cirque* de Gavarnie est l'un des plus beaux sites naturels des Pyrénées.
+  Die *Tal*mulde von Gavarnie ist eine der schönsten Naturstätten der Pyrenäen.
 
-  Les jeux du cirque ont toujours beaucoup de succès auprès des enfants.
-  Zirkusspiele kommen bei Kindern immer gut an.
+  Les artistes du *cirque* s'entraînent tous les jours.
+  Die *Zirkus*künstler trainieren jeden Tag.
 
-  Le grand cirque blanc est arrivé en ville, il y a des acrobates, des clowns et des animaux.
-  Der Skizirkus ist in der Stadt angekommen, es gibt Akrobaten, Clowns und Tiere.
+  Le chapiteau du *cirque* est visible de loin.
+  Das *Zirkus*zelt ist von weitem zu sehen.
 
-  On va aller au cirque ce week-end, il y a un nouveau spectacle.
-  Wir gehen am Wochenende in den Zirkus, es gibt eine neue Vorstellung.
+  "Quel *cirque* pour trouver une place de parking !"
+  "Was für ein *Theater*, um einen Parkplatz zu finden!"
 
-  Une atmosphère de cirque règne dans la ville pendant le festival.
-  Eine Zirkusluft liegt in der Stadt während des Festivals.
+  Les gens du *cirque* voyagent toute l'année.
+  Die *Zirkus*leute reisen das ganze Jahr über.
 
-  Le spectacle de cirque était magnifique, j'ai beaucoup aimé les clowns.
-  Die Zirkusvorstellung war wunderschön, ich fand die Clowns toll.
+  Le plus grand *cirque* romain pouvait accueillir 150 000 personnes.
+  Der größte römische *Zirkus* konnte 150.000 Menschen aufnehmen.
+
+  Un petit *cirque* glaciaire s'est formé au pied de la montagne.
+  Eine kleine *Tal*mulde hat sich am Fuß des Berges gebildet.
+
+  "Il fait tout un *cirque* pour un simple rhume."
+  "Er macht wegen einer einfachen Erkältung ein großes *Theater*."
+
+  Le *cirque* Médrano présente son nouveau spectacle.
+  Der *Zirkus* Médrano präsentiert seine neue Show.
+
+  Les acrobates du *cirque* ont fait une performance extraordinaire.
+  Die *Zirkus*akrobaten haben eine außergewöhnliche Vorstellung gegeben.
+
+  Le *cirque* lunaire Tycho mesure 85 kilomètres de diamètre.
+  Der Mond*krater* Tycho hat einen Durchmesser von 85 Kilometern.
+
+  Notre école organise une sortie au *cirque*.
+  Unsere Schule organisiert einen *Zirkus*besuch.
+
+  Les clowns sont l'âme du *cirque*.
+  Die Clowns sind die Seele des *Zirkus*.
+
+  Le *cirque* de Cilaos attire de nombreux randonneurs.
+  Die *Tal*mulde von Cilaos zieht viele Wanderer an.
+
+  "Arrête de faire ton *cirque* et mange tes légumes !"
+  "Hör auf, ein *Theater* zu machen, und iss dein Gemüse!"
+
+  La musique du *cirque* résonne dans toute la ville.
+  Die *Zirkus*musik erklingt in der ganzen Stadt.
+
+  Le *cirque* Bouglione perpétue la tradition familiale depuis des générations.
+  Der *Zirkus* Bouglione führt die Familientradition seit Generationen fort.
+
+  Les lions du *cirque* sont nés en captivité.
+  Die *Zirkus*löwen wurden in Gefangenschaft geboren.
+
+  Ce *cirque* naturel offre un panorama spectaculaire.
+  Diese natürliche *Tal*mulde bietet ein spektakuläres Panorama.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

@@ -13,17 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Veuillez agréer, monsieur, mes salutations distinguées.
-  Bitte verbleibt mit freundlichen Grüßen.
+  Veuillez *agréer*, monsieur, mes salutations distinguées.
+  Bitte *nehmen* Sie, sehr geehrter Herr, meine höflichen Grüße *entgegen*.
 
-  Nous vous prions d’agréer, Monsieur, l’expression de nos salutations distinguées.
-  Wir bitten Sie, Herr, die Ausdruck unserer vorzüglichen Hochachtung anzunehmen.
+  Le ministre a *agréé* ma demande de subvention.
+  Der Minister hat meinen Förderantrag *genehmigt*.
 
-  Le directeur a accepté de lui agréer sa demande de congé.
-  Der Direktor hat zugestimmt, seinem Antrag auf Urlaub stattzugeben.
+  Si cela vous *agrée*, nous pourrions nous rencontrer demain.
+  Wenn es Ihnen *zusagt*, könnten wir uns morgen treffen.
 
-  Veuillez agréer, Madame, mes salutations distinguées.
-  Mit freundlichen Grüßen
+  Cette clinique a été *agréée* par le ministère de la Santé.
+  Diese Klinik wurde vom Gesundheitsministerium *zugelassen*.
+
+  Le comité n'a pas *agréé* les excuses du candidat.
+  Das Komitee hat die Entschuldigung des Kandidaten nicht *angenommen*.
+
+  Veuillez *agréer* l'expression de mes sentiments les plus sincères.
+  Bitte *nehmen* Sie den Ausdruck meiner aufrichtigsten Gefühle *an*.
+
+  Le nouveau plan d'urbanisme a été *agréé* par la mairie.
+  Der neue Stadtentwicklungsplan wurde vom Rathaus *genehmigt*.
+
+  Cette proposition ne m'*agrée* pas du tout.
+  Dieser Vorschlag *gefällt* mir überhaupt nicht.
+
+  L'ambassadeur sera officiellement *agréé* la semaine prochaine.
+  Der Botschafter wird nächste Woche offiziell *akkreditiert*.
+
+  Je vous prie d'*agréer* mes meilleurs vœux pour la nouvelle année.
+  Ich bitte Sie, meine besten Wünsche für das neue Jahr *anzunehmen*.
+
+  Le conseil d'administration a *agréé* sa nomination au poste de directeur.
+  Der Vorstand hat seine Ernennung zum Direktor *bestätigt*.
+
+  Ce projet ne lui *agréait* qu'à moitié.
+  Dieses Projekt *sagte* ihm nur halb *zu*.
+
+  L'école a été *agréée* pour dispenser cette formation.
+  Die Schule wurde für diesen Ausbildungsgang *anerkannt*.
+
+  S'il vous *agrée* de participer, veuillez nous le faire savoir.
+  Falls es Ihnen *zusagt* teilzunehmen, lassen Sie es uns bitte wissen.
+
+  Le jury a *agréé* tous les candidats présélectionnés.
+  Die Jury hat alle vorausgewählten Kandidaten *zugelassen*.
+
+  Notre entreprise vient d'être *agréée* pour les marchés publics.
+  Unser Unternehmen wurde gerade für öffentliche Aufträge *zugelassen*.
+
+  Le nouveau comptable *agréé* commencera lundi prochain.
+  Der neue *zugelassene* Wirtschaftsprüfer fängt nächsten Montag an.
+
+  La commission a *agréé* le nouveau règlement intérieur.
+  Die Kommission hat die neue Geschäftsordnung *genehmigt*.
+
+  Les parents ont finalement *agréé* le choix de carrière de leur fille.
+  Die Eltern haben die Berufswahl ihrer Tochter schließlich *akzeptiert*.
+
+  Veuillez *agréer*, madame, l'assurance de ma parfaite considération.
+  Bitte *nehmen* Sie, sehr geehrte Frau, die Versicherung meiner vollkommenen Wertschätzung *entgegen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

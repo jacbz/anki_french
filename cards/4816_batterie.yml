@@ -13,23 +13,83 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ces batteries devraient avoir une longue durée de vie.
-  Diese Batterien sollten eine lange Lebensdauer haben.
+  Ces *batteries* devraient avoir une longue durée de vie.
+  Diese *Batterien* sollten eine lange Lebensdauer haben.
 
-  La batterie de mon téléphone est presque vide.
-  Der Akku meines Telefons ist fast leer.
+  La *batterie* de ma voiture est complètement déchargée.
+  Die Auto*batterie* ist völlig leer.
 
-  Elle sait jouer de la batterie.
-  Sie kann Schlagzeug spielen.
+  Notre groupe cherche un nouveau joueur de *batterie*.
+  Unsere Band sucht einen neuen *Schlagzeuger*.
 
-  Ils ont passé une batterie de tests pour évaluer leurs compétences.
-  Sie haben eine Testreihe absolviert, um ihre Fähigkeiten zu bewerten.
+  Les poules en *batterie* n'ont pas assez d'espace pour bouger.
+  Die Hühner in *Batterie*haltung haben nicht genug Platz zum Bewegen.
 
-  Après une longue journée de travail, il avait besoin de recharger ses batteries.
-  Nach einem langen Arbeitstag musste er etwas auftanken.
+  Une *batterie* de projecteurs illuminait la scène.
+  Eine *Reihe* von Scheinwerfern beleuchtete die Bühne.
 
-  L'élevage en batterie des poulets est une pratique controversée.
-  Die Batteriehaltung von Hühnern ist eine umstrittene Praxis.
+  La *batterie* de tests a révélé ses talents cachés.
+  Die Test*reihe* hat ihre verborgenen Talente aufgedeckt.
+
+  Le capitaine a ordonné de mettre la *batterie* en position.
+  Der Hauptmann befahl, die *Batterie* in Stellung zu bringen.
+
+  "Je dois *recharger mes batteries* après cette longue semaine."
+  "Ich muss mich nach dieser langen Woche erst mal *aufladen*."
+
+  Il joue de la *batterie* dans un groupe de jazz depuis dix ans.
+  Er spielt seit zehn Jahren *Schlagzeug* in einer Jazzband.
+
+  La *batterie* côtière protégeait l'entrée du port.
+  Die Küsten*batterie* schützte die Hafeneinfahrt.
+
+  Cette nouvelle *batterie* de cuisine est en acier inoxydable.
+  Dieses neue *Kochgeschirr* ist aus Edelstahl.
+
+  Il a fait un impressionnant solo de *batterie*.
+  Er hat ein beeindruckendes *Schlagzeug*solo gespielt.
+
+  Une *batterie* d'accumulateurs alimente le système.
+  Eine *Batterie* von Akkumulatoren versorgt das System.
+
+  La première *batterie* du régiment était prête au combat.
+  Die erste *Batterie* des Regiments war kampfbereit.
+
+  Il a passé une *batterie* de tests psychologiques.
+  Er hat eine psychologische Test*serie* durchlaufen.
+
+  Le chef d'orchestre a demandé plus de volume à la *batterie*.
+  Der Dirigent hat das *Schlagzeug* gebeten, lauter zu spielen.
+
+  La *batterie-fanfare* défilait dans les rues du village.
+  Die *Blaskapelle* marschierte durch die Dorfstraßen.
+
+  Il a *dévoilé ses batteries* trop tôt dans la négociation.
+  Er hat seine *Absichten* zu früh in der Verhandlung *offengelegt*.
+
+  Cette ferme pratique l'élevage de veaux en *batterie*.
+  Dieser Hof betreibt Kälber*mast*.
+
+  "Ma *batterie* est à plat, je dois recharger mon téléphone."
+  "Mein *Akku* ist leer, ich muss mein Handy aufladen."
+
+  La *batterie* de DCA a abattu trois avions ennemis.
+  Die Flugabwehr*batterie* hat drei feindliche Flugzeuge abgeschossen.
+
+  Il faut remplacer la vieille *batterie* de piles.
+  Die alte *Batterie* muss ausgetauscht werden.
+
+  Le rythme de la *batterie* fait danser tout le monde.
+  Der *Schlagzeug*rhythmus bringt alle zum Tanzen.
+
+  Il a *dressé ses batteries* pour obtenir une promotion.
+  Er hat seine *Pläne* geschmiedet, um eine Beförderung zu bekommen.
+
+  Le son de la *batterie* résonnait dans toute la salle.
+  Der *Schlagzeug*klang hallte durch den ganzen Saal.
+
+  L'instructeur a soumis les recrues à une *batterie* d'exercices.
+  Der Ausbilder unterzog die Rekruten einer *Reihe* von Übungen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

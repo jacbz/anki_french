@@ -13,23 +13,68 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Dans le système proportionnel, chaque vote a la même valeur.
-  Im Verhältniswahlsystem hat jede Stimme den gleichen Wert.
+  Dans le système *proportionnel*, chaque vote a la même valeur.
+  Im *Verhältnis*wahlsystem hat jede Stimme den gleichen Wert.
 
-  Le salaire est proportionnel à l’expérience.
-  Das Gehalt ist verhältnismäßig zur Erfahrung.
+  La taxe est *proportionnelle* au prix d'achat.
+  Die Steuer ist *proportional* zum Kaufpreis.
 
-  L'impôt proportionnel est un système où chacun paie un pourcentage de son revenu, quel que soit son niveau de vie.
-  Die Proportionalsteuer ist ein System, bei dem jeder einen bestimmten Prozentsatz seines Einkommens zahlt, unabhängig von seinem Lebensstandard.
+  Les risques sont *proportionnels* à la vitesse du véhicule.
+  Die Risiken sind *proportional* zur Geschwindigkeit des Fahrzeugs.
 
-  Le scrutin proportionnel est un système de vote où le nombre de sièges attribués à chaque parti est proportionnel au nombre de voix qu'il a obtenu.
-  Die Verhältniswahl ist ein Wahlsystem, bei dem die Anzahl der Sitze, die jeder Partei zugeteilt werden, proportional zur Anzahl der Stimmen ist, die sie erhalten hat.
+  Le temps de cuisson doit être *proportionnel* au poids de la viande.
+  Die Garzeit muss *proportional* zum Gewicht des Fleisches sein.
 
-  La moyenne proportionnelle, aussi appelée moyenne géométrique, est une mesure statistique qui prend en compte tous les éléments d'un ensemble, en les multipliant et en calculant la racine n-ième du produit.
-  Das geometrische Mittel, auch proportionales Mittel genannt, ist ein statistisches Maß, das alle Elemente eines Datensatzes berücksichtigt, indem es sie multipliziert und die n-te Wurzel des Produkts berechnet.
+  La consommation d'énergie est *proportionnelle* à la taille du bâtiment.
+  Der Energieverbrauch ist *proportional* zur Größe des Gebäudes.
 
-  La taille des feuilles d'un arbre est proportionnelle à la quantité de lumière qu'elles reçoivent.
-  Die Größe der Blätter eines Baumes ist proportional zur Menge an Licht, die sie erhalten.
+  L'entreprise applique une augmentation *proportionnelle* des salaires.
+  Das Unternehmen wendet eine *proportionale* Gehaltserhöhung an.
+
+  Les dépenses ne sont pas *proportionnelles* aux revenus.
+  Die Ausgaben stehen nicht im *Verhältnis* zu den Einnahmen.
+
+  Le gouvernement a mis en place un impôt *proportionnel* sur les revenus.
+  Die Regierung hat eine *Proportional*steuer auf Einkommen eingeführt.
+
+  La représentation *proportionnelle* garantit une meilleure diversité politique.
+  Die *Verhältnis*vertretung garantiert eine bessere politische Vielfalt.
+
+  La force est *proportionnelle* à la masse de l'objet.
+  Die Kraft ist *proportional* zur Masse des Objekts.
+
+  Les frais de livraison sont *proportionnels* à la distance.
+  Die Lieferkosten sind *proportional* zur Entfernung.
+
+  Notre croissance est *proportionnelle* à nos efforts.
+  Unser Wachstum ist *proportional* zu unseren Anstrengungen.
+
+  La prime sera *proportionnelle* aux résultats obtenus.
+  Die Prämie wird *proportional* zu den erzielten Ergebnissen sein.
+
+  Le système électoral *proportionnel* a été adopté cette année.
+  Das *Verhältnis*wahlsystem wurde dieses Jahr eingeführt.
+
+  Les sanctions doivent être *proportionnelles* à l'infraction.
+  Die Strafen müssen *proportional* zum Verstoß sein.
+
+  La récompense sera *proportionnelle* à votre contribution.
+  Die Belohnung wird *proportional* zu Ihrem Beitrag sein.
+
+  L'allocation est *proportionnelle* au nombre d'enfants.
+  Die Zulage ist *proportional* zur Anzahl der Kinder.
+
+  Le loyer est *proportionnel* à la surface de l'appartement.
+  Die Miete ist *proportional* zur Wohnungsfläche.
+
+  La note finale est *proportionnelle* aux points obtenus.
+  Die Endnote ist *proportional* zu den erreichten Punkten.
+
+  Les dimensions sont *proportionnelles* à l'échelle du plan.
+  Die Abmessungen sind *proportional* zum Maßstab des Plans.
+
+  Le bonus est *proportionnel* au chiffre d'affaires réalisé.
+  Der Bonus ist *proportional* zum erzielten Umsatz.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

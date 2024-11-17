@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Il se lamentait d’être exilé.
-  Er beklagte sich über seine Verbannung.
+  Il se lamentait d'être *exilé*.
+  Er klagte darüber, *verbannt* zu sein.
 
-  Le roi a exilé son ennemi politique.
-  Der König hat seinen politischen Feind ins Exil geschickt.
+  Le roi a *exilé* tous ses opposants politiques.
+  Der König hat alle seine politischen Gegner *verbannt*.
 
-  Il a décidé de s'exiler de France pour vivre à l'étranger.
-  Er hat beschlossen, aus Frankreich auszuwandern, um im Ausland zu leben.
+  Les dictateurs *exilent* souvent les journalistes critiques.
+  Diktatoren *verbannen* oft kritische Journalisten.
 
-  Après une vie trépidante à Paris, elle s'est exilée à la campagne pour retrouver la paix.
-  Nach einem hektischen Leben in Paris hat sie sich aufs Land zurückgezogen, um Ruhe zu finden.
+  Elle s'est *exilée* en Suisse pour trouver un meilleur emploi.
+  Sie ist in die Schweiz *ausgewandert*, um eine bessere Arbeit zu finden.
+
+  Mon grand-père s'est *exilé* pendant la guerre.
+  Mein Großvater ist während des Krieges *emigriert*.
+
+  Sa promotion l'a *exilé* dans une petite ville de province.
+  Seine Beförderung hat ihn in eine kleine Provinzstadt *verbannt*.
+
+  Beaucoup d'artistes se sont *exilés* à Paris dans les années 1920.
+  Viele Künstler sind in den 1920er Jahren nach Paris *ausgewandert*.
+
+  Le gouvernement a *exilé* les dissidents.
+  Die Regierung hat die Dissidenten ins *Exil* geschickt.
+
+  Fatigué de la ville, il s'est *exilé* à la campagne.
+  Der Stadt müde, hat er sich aufs Land *zurückgezogen*.
+
+  Les circonstances l'ont *exilé* loin de sa famille.
+  Die Umstände haben ihn von seiner Familie *verbannt*.
+
+  Son travail l'a *exilé* à l'étranger pendant dix ans.
+  Seine Arbeit hat ihn für zehn Jahre ins Ausland *verbannt*.
+
+  Ils se sont volontairement *exilés* pour échapper à la persécution.
+  Sie sind freiwillig ins *Exil* gegangen, um der Verfolgung zu entkommen.
+
+  La révolution a forcé la famille royale à s'*exiler*.
+  Die Revolution zwang die königliche Familie zur *Emigration*.
+
+  Le poète s'est *exilé* du monde moderne.
+  Der Dichter hat sich von der modernen Welt *zurückgezogen*.
+
+  Les nouveaux dirigeants ont *exilé* l'ancien président.
+  Die neuen Machthaber haben den ehemaligen Präsidenten *verbannt*.
+
+  De nombreux scientifiques se sont *exilés* aux États-Unis.
+  Viele Wissenschaftler sind in die USA *emigriert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

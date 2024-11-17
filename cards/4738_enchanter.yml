@@ -13,14 +13,59 @@ Register: ↘Sachtext
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mais il est enchanté de me voir, hein?
-  Aber er freut sich, mich zu sehen, nicht wahr?
+  Mais il est *enchanté* de me voir, hein ?
+  Aber er ist *erfreut*, mich zu sehen, oder?
 
-  Cette musique m’enchantait.
-  Diese Musik verzauberte mich.
+  Cette nouvelle n'a pas *enchanté* mes parents.
+  Diese Nachricht hat meine Eltern nicht *erfreut*.
 
-  Sa voix douce et mélodieuse l'a enchanté par sa beauté.
-  Seine sanfte, melodische Stimme hat ihn mit ihrer Schönheit bezaubert.
+  La fée a *enchanté* le jardin avec sa baguette magique.
+  Die Fee hat den Garten mit ihrem Zauberstab *verzaubert*.
+
+  Sa voix douce *enchantait* tous ceux qui l'écoutaient.
+  Ihre sanfte Stimme *bezauberte* alle, die ihr zuhörten.
+
+  Je suis *enchanté* de faire votre connaissance, Madame Martin.
+  *Angenehm*, Sie kennenzulernen, Frau Martin.
+
+  Les enfants étaient *enchantés* par le spectacle de magie.
+  Die Kinder waren von der Zaubershow *verzaubert*.
+
+  Cette mélodie m'*enchante* toujours autant.
+  Diese Melodie *bezaubert* mich immer noch genauso.
+
+  Le magicien a *enchanté* la forêt tout entière.
+  Der Zauberer hat den ganzen Wald *verzaubert*.
+
+  Sophie s'*enchantait* à lire des contes de fées.
+  Sophie *erfreute* sich daran, Märchen zu lesen.
+
+  La décoration de Noël *enchante* toute la maison.
+  Die Weihnachtsdekoration *verzaubert* das ganze Haus.
+
+  Les histoires de grand-père *enchantaient* nos soirées.
+  Großvaters Geschichten *verschönerten* unsere Abende.
+
+  Cette proposition ne m'*enchante* pas du tout.
+  Dieser Vorschlag *begeistert* mich überhaupt nicht.
+
+  La musique d'Orphée *enchantait* même les pierres.
+  Orpheus' Musik *verzauberte* sogar die Steine.
+
+  Le parfum des roses *enchante* tout le jardin.
+  Der Duft der Rosen *verzaubert* den ganzen Garten.
+
+  Je suis *enchanté* que tu aies accepté mon invitation.
+  Ich bin *begeistert*, dass du meine Einladung angenommen hast.
+
+  Sa présence *enchante* chaque réunion de famille.
+  Ihre Anwesenheit *verschönert* jedes Familientreffen.
+
+  Le chant des oiseaux *enchante* mes matinées.
+  Der Gesang der Vögel *verzaubert* meine Morgenstunden.
+
+  Cette solution n'*enchantera* personne.
+  Diese Lösung wird niemanden *begeistern*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

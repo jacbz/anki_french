@@ -13,11 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le conflit occasionne des pertes énormes.
-  Der Konflikt verursacht enorme Verluste.
+  Le conflit *occasionne* des pertes énormes.
+  Der Konflikt *verursacht* enorme Verluste.
 
-  Cette erreur a occasionné des problèmes.
-  Dieser Fehler hat Probleme verursacht.
+  Cette décision a *occasionné* beaucoup de controverse dans l'entreprise.
+  Diese Entscheidung hat in der Firma viel Kontroverse *verursacht*.
+
+  L'accident a malheureusement *occasionné* la mort de deux personnes.
+  Der Unfall hat leider den Tod von zwei Menschen *verursacht*.
+
+  Les travaux routiers *occasionnent* des embouteillages importants.
+  Die Straßenarbeiten *verursachen* erhebliche Staus.
+
+  La tempête a *occasionné* des dégâts considérables.
+  Der Sturm hat beträchtliche Schäden *verursacht*.
+
+  Son absence prolongée *occasionnera* sûrement des problèmes.
+  Seine längere Abwesenheit wird bestimmt Probleme *verursachen*.
+
+  La fuite d'eau a *occasionné* des dommages dans tout l'appartement.
+  Der Wasserschaden hat im ganzen Apartment Schäden *verursacht*.
+
+  Cette maladie peut *occasionner* des complications graves.
+  Diese Krankheit kann schwere Komplikationen *verursachen*.
+
+  Le déménagement nous a *occasionné* beaucoup de stress.
+  Der Umzug hat uns viel Stress *verursacht*.
+
+  La grève des transports *occasionne* de nombreux retards.
+  Der Verkehrsstreik *verursacht* zahlreiche Verspätungen.
+
+  Le bruit constant *occasionne* des troubles du sommeil.
+  Der ständige Lärm *verursacht* Schlafstörungen.
+
+  Les nouvelles règles ont *occasionné* des changements majeurs.
+  Die neuen Regeln haben große Veränderungen *verursacht*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

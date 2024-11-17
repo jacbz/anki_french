@@ -13,17 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ne sous-estimez pas votre charme.
-  Unterschätzen Sie Ihren Charme nicht.
+  Ne *sous-estimez* pas votre charme.
+  *Unterschätzen* Sie Ihren Charme nicht.
 
-  Il ne faut pas sous-estimer l’importance de l’éducation.
-  Man darf die Bedeutung der Bildung nicht unterschätzen.
+  Tu *sous-estimes* toujours la valeur de cette vieille montre.
+  Du *unterschätzt* immer den Wert dieser alten Uhr.
 
-  Il a sous-estimé le bijou, ne réalisant pas sa valeur réelle.
-  Er hat den Wert des Schmuckstückes unterschätzt, da er sich seiner tatsächlichen Wertigkeit nicht bewusst war.
+  L'expert avait *sous-estimé* le prix de ce tableau de plusieurs milliers d'euros.
+  Der Experte hatte den Preis dieses Gemäldes um mehrere tausend Euro *unterschätzt*.
 
-  Il avait sous-estimé la maison, ignorant sa valeur historique.
-  Er hatte das Haus unterschätzt, da er dessen historische Bedeutung nicht erkannte.
+  Je me *sous-estime* souvent, mais mes amis me rappellent mes qualités.
+  Ich *unterschätze* mich oft, aber meine Freunde erinnern mich an meine Qualitäten.
+
+  Nous avons gravement *sous-estimé* la durée du trajet.
+  Wir haben die Dauer der Fahrt schwer *unterschätzt*.
+
+  Les météorologues ont *sous-estimé* la force de la tempête.
+  Die Meteorologen haben die Stärke des Sturms *unterschätzt*.
+
+  Marie *sous-estime* complètement ses chances de réussir l'examen.
+  Marie *unterschätzt* ihre Chancen, die Prüfung zu bestehen, völlig.
+
+  En *sous-estimant* nos concurrents, nous avons perdu des clients importants.
+  Indem wir unsere Konkurrenten *unterschätzten*, haben wir wichtige Kunden verloren.
+
+  L'architecte a *sous-estimé* le coût total de la construction.
+  Der Architekt hat die Gesamtkosten des Baus *unterschätzt*.
+
+  Il ne faut jamais *sous-estimer* l'importance d'une bonne préparation.
+  Man darf die Bedeutung einer guten Vorbereitung nie *unterschätzen*.
+
+  Pierre *sous-estime* systématiquement ses compétences professionnelles.
+  Pierre *unterschätzt* seine beruflichen Fähigkeiten systematisch.
+
+  Les dangers de la montagne sont souvent *sous-estimés* par les débutants.
+  Die Gefahren des Berges werden von Anfängern oft *unterschätzt*.
+
+  En *sous-estimant* la difficulté de l'exercice, j'ai échoué.
+  Weil ich die Schwierigkeit der Aufgabe *unterschätzt* habe, bin ich gescheitert.
+
+  N'as-tu pas *sous-estimé* l'impact de tes paroles sur elle ?
+  Hast du die Wirkung deiner Worte auf sie nicht *unterschätzt*?
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

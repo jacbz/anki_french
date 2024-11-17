@@ -13,41 +13,98 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Le câble est bloqué.
-  Das Kabel ist blockiert.
+  Le *câble* est bloqué.
+  Das *Kabel* ist blockiert.
 
-  Le câble électrique est endommagé.
-  Das Stromkabel ist beschädigt.
+  J'ai acheté un nouveau *câble* pour mon clavier.
+  Ich habe ein neues *Kabel* für meine Tastatur gekauft.
 
-  Le technicien a posé un câble Ethernet dans le bureau.
-  Der Techniker hat ein Ethernet-Kabel im Büro verlegt.
+  Les *câbles* électriques doivent être installés par un professionnel.
+  Die elektrischen *Leitungen* müssen von einem Fachmann installiert werden.
 
-  Le système de sécurité de la banque est entièrement câblé.
-  Das Sicherheitssystem der Bank ist komplett verkabelt.
+  Ils ont posé un *câble* à fibres optiques dans notre rue.
+  Sie haben ein Glasfaser*kabel* in unserer Straße verlegt.
 
-  Le pont suspendu est soutenu par un câble métallique très résistant.
-  Die Hängebrücke wird von einem sehr stabilen Drahtseil getragen.
+  Le *câble* du téléphone ne fonctionne plus depuis l'orage.
+  Das Telefon*kabel* funktioniert seit dem Gewitter nicht mehr.
 
-  Le câble électrique est défectueux, il faut le remplacer.
-  Das Stromkabel ist defekt, es muss ausgetauscht werden.
+  Attention au *câble* à haute tension !
+  Vorsicht vor dem Hochspannungs*kabel*!
 
-  Les câbles électriques sont dissimulés dans les murs.
-  Die elektrischen Leitungen sind in den Wänden versteckt.
+  Notre appartement n'a pas encore le *câble*.
+  Unsere Wohnung hat noch keinen *Kabel*anschluss.
 
-  Le câble de clavier est trop court, j'ai besoin d'un adaptateur.
-  Das Tastaturkabel ist zu kurz, ich brauche einen Adapter.
+  Le *câble* de mon frein avant doit être remplacé.
+  Der *Seilzug* meiner Vorderbremse muss ersetzt werden.
 
-  Le câble téléphonique est coupé, je ne peux pas appeler.
-  Das Telefonkabel ist durchtrennt, ich kann nicht telefonieren.
+  As-tu vérifié le *câble* d'alimentation de l'imprimante ?
+  Hast du das Drucker*kabel* überprüft?
 
-  Le câble haute tension est très dangereux, ne le touchez pas.
-  Das Hochspannungskabel ist sehr gefährlich, berühren Sie es nicht.
+  Les plongeurs ont découvert un ancien *câble* sous-marin.
+  Die Taucher haben ein altes Unterwasser*kabel* entdeckt.
 
-  La télévision par câble offre une large bande passante.
-  Kabelfernsehen bietet eine große Bandbreite.
+  De plus en plus d'appareils fonctionnent sans *câble*.
+  Immer mehr Geräte funktionieren *kabel*los.
 
-  Le câble de transmission de la machine à vapeur est cassé.
-  Das Treibseil der Dampfmaschine ist gerissen.
+  Le *câble* métallique du pont suspendu s'est rompu.
+  Das *Drahtseil* der Hängebrücke ist gerissen.
+
+  Il faut remplacer le *câble* de transmission de ma voiture.
+  Das *Treibseil* meines Autos muss ausgetauscht werden.
+
+  Les chaînes du *câble* proposent des films toute la nuit.
+  Die *Kabel*sender zeigen die ganze Nacht Filme.
+
+  Le bateau a largué son *câble* de remorque.
+  Das Schiff hat sein Schlepp*seil* losgemacht.
+
+  Un *câble* à large bande permet une connexion plus rapide.
+  Ein Breitband*kabel* ermöglicht eine schnellere Verbindung.
+
+  Le *câble* de transmission transmet les données rapidement.
+  Die Übertragungs*leitung* überträgt die Daten schnell.
+
+  Les techniciens ont réparé le *câble* sous gaine ce matin.
+  Die Techniker haben den *Bowdenzug* heute Morgen repariert.
+
+  Nous avons fait installer le *câble* la semaine dernière.
+  Wir haben letzte Woche *Kabel*fernsehen installieren lassen.
+
+  Le *câble* rond est plus résistant que le *câble* plat.
+  Das runde *Seil* ist stabiler als das flache *Seil*.
+
+  Le navire a filé du *câble* pour stabiliser son ancrage.
+  Das Schiff hat *Tau* nachgelassen, um seine Verankerung zu stabilisieren.
+
+  J'ai envoyé un *câble* pour annoncer mon arrivée.
+  Ich habe ein *Telegramm* geschickt, um meine Ankunft anzukündigen.
+
+  Le *câble* de levage peut supporter jusqu'à deux tonnes.
+  Das Hebe*seil* kann bis zu zwei Tonnen tragen.
+
+  Les *câbles* aériens seront remplacés par des installations souterraines.
+  Die Überkopf*leitungen* werden durch unterirdische Anlagen ersetzt.
+
+  Un *câble* hertzien relie les deux stations de radio.
+  Eine *Richtfunk*verbindung verbindet die beiden Radiostationen.
+
+  Le *câble* d'ancre doit être vérifié régulièrement.
+  Das Anker*tau* muss regelmäßig überprüft werden.
+
+  Ces tableaux sont suspendus par des *câbles* décoratifs.
+  Diese Bilder hängen an dekorativen *Kordeln*.
+
+  Le *câble* de halage tire lentement le bateau vers le quai.
+  Das Schlepp*seil* zieht das Boot langsam zum Kai.
+
+  L'architecte a ajouté des *câbles* décoratifs sur la façade.
+  Der Architekt hat dekorative *Tau*motive an der Fassade hinzugefügt.
+
+  Les *câbles* sous-marins permettent la communication entre les continents.
+  Die Unterseekabel ermöglichen die Kommunikation zwischen den Kontinenten.
+
+  Le vieux *câble* téléphonique sera bientôt remplacé par la fibre optique.
+  Die alte Telefon*leitung* wird bald durch Glasfaser ersetzt werden.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

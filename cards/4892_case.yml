@@ -9,12 +9,66 @@ Femininum / Plural: ''
 IPA: \kaz\
 Definition: Feld, Kästchen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Je vous laisse choisir la case qui me convient le mieux.\nIch überlasse\
-  \ es Ihnen, das Feld auszuwählen, das mir am besten gefällt.\n\nCochez la case correspondante.\n\
-  Kreuzen Sie das entsprechende Kästchen an.\n\nOn retourne à la case départ.\nWir\
-  \ kehren zum Ausgangspunkt zurück.\n\nIl a une case vide dans son étagère à livres.\n\
-  Bei ihm ist eine Schraube locker im Regal. \n\nIl a une case vide dans son calendrier.\n\
-  Bei ihm ist eine Schraube locker im Fahrrad."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Je vous laisse choisir la *case* qui me convient le mieux.
+  Ich lasse Sie das *Feld* wählen, das am besten zu mir passt.
+
+  Sur le formulaire d'inscription, il faut cocher la *case* "célibataire".
+  Auf dem Anmeldeformular muss man das *Feld* "ledig" ankreuzen.
+
+  Les enfants ont construit une *case* en bois dans le jardin.
+  Die Kinder haben eine *Hütte* aus Holz im Garten gebaut.
+
+  Veuillez envoyer votre lettre à la *case* postale 2476.
+  Bitte senden Sie Ihren Brief an das *Post*fach 2476.
+
+  Les 64 *cases* de l'échiquier forment un motif élégant.
+  Die 64 *Felder* des Schachbretts bilden ein elegantes Muster.
+
+  "Il lui manque une *case*", a dit Marie en riant.
+  "Er hat eine *Schraube* locker", sagte Marie lachend.
+
+  La *case* des hôtes était décorée de motifs traditionnels.
+  Die Gäste*hütte* war mit traditionellen Motiven geschmückt.
+
+  Chaque élève range ses affaires dans sa *case*.
+  Jeder Schüler räumt seine Sachen in sein *Fach*.
+
+  Après cet échec, nous voilà revenus à la *case* départ.
+  Nach diesem Misserfolg sind wir wieder am *Ausgangspunkt* angelangt.
+
+  Dans cette bande dessinée, chaque *case* raconte une partie de l'histoire.
+  In diesem Comic erzählt jedes *Feld* einen Teil der Geschichte.
+
+  Les bijoux sont bien rangés dans les *cases* du coffret.
+  Der Schmuck ist ordentlich in den *Fächern* des Kästchens verstaut.
+
+  La *case* du berger se trouve au sommet de la colline.
+  Die *Hütte* des Hirten befindet sich auf dem Gipfel des Hügels.
+
+  Il faut remplir toutes les *cases* du tableau Excel.
+  Man muss alle *Felder* der Excel-Tabelle ausfüllen.
+
+  La *case* mémoire contient une valeur incorrecte.
+  Das Speicher*feld* enthält einen falschen Wert.
+
+  Les vaches sont réparties dans différentes *cases* de l'étable.
+  Die Kühe sind in verschiedene *Boxen* des Stalls aufgeteilt.
+
+  Dans les *cases* noires de la grille, écrivez les consonnes.
+  In die schwarzen *Felder* des Gitters schreiben Sie die Konsonanten.
+
+  Le chef du village nous a invités dans sa *case*.
+  Der Dorfchef hat uns in seine *Hütte* eingeladen.
+
+  Les documents sont classés dans les *cases* de l'étagère.
+  Die Dokumente sind in den *Fächern* des Regals sortiert.
+
+  J'ai rangé mes crayons dans les petites *cases* de ma trousse.
+  Ich habe meine Stifte in die kleinen *Fächer* meiner Federmappe eingeräumt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

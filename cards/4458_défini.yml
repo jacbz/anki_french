@@ -13,23 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Vous n’avez aucun rôle défini dans ce partenariat.
-  Sie haben keine festgelegte Rolle in dieser Partnerschaft.
+  Vous n'avez aucun rôle *défini* dans ce partenariat.
+  Sie haben keine klar *definierte* Rolle in dieser Partnerschaft.
 
-  Le terme est bien défini.
-  Der Begriff ist gut definiert.
+  Le concept n'est pas bien *défini* dans son livre.
+  Das Konzept ist in seinem Buch nicht gut *definiert*.
 
-  La tâche, bien définie, a été achevée dans les temps.
-  Die genau abgegrenzte Aufgabe wurde termingerecht erledigt.
+  Cette mission a des objectifs clairement *définis*.
+  Diese Mission hat klar *definierte* Ziele.
 
-  Son attitude, bien définie, n'a pas laissé de place au doute.
-  Seine klare Haltung ließ keinen Raum für Zweifel.
+  L'article *défini* « le » s'emploie devant un nom masculin singulier.
+  Der *bestimmte* Artikel "le" wird vor einem männlichen Substantiv im Singular verwendet.
 
-  La définition de la tâche était mal définie, ce qui a entraîné des retards.
-  Die Definition der Aufgabe war schlecht definiert, was zu Verzögerungen führte.
+  Ces symptômes ne sont pas encore bien *définis*.
+  Diese Symptome sind noch nicht gut *definiert*.
 
-  Son attitude, mal définie, a semé la confusion parmi ses collègues.
-  Seine unklare Haltung hat unter seinen Kollegen für Verwirrung gesorgt.
+  Le programme suit un emploi du temps bien *défini*.
+  Das Programm folgt einem genau *festgelegten* Zeitplan.
+
+  Dans des circonstances mal *définies*, l'accident s'est produit.
+  Unter nicht genau *definierten* Umständen geschah der Unfall.
+
+  Les tâches sont *définies* au début de chaque projet.
+  Die Aufgaben werden zu Beginn jedes Projekts klar *definiert*.
+
+  Son intention *définie* est de partir à l'étranger.
+  Seine klar *definierte* Absicht ist es, ins Ausland zu gehen.
+
+  Elle a une position bien *définie* sur cette question.
+  Sie hat eine klar *definierte* Position zu dieser Frage.
+
+  Les formes *définies* de l'article sont « le », « la » et « les ».
+  Die *bestimmten* Artikelformen sind "le", "la" und "les".
+
+  Ces proportions *définies* doivent être respectées.
+  Diese *festgelegten* Proportionen müssen eingehalten werden.
+
+  Le terme doit être *défini* avant d'être utilisé.
+  Der Begriff muss *definiert* werden, bevor er verwendet wird.
+
+  Leurs responsabilités sont bien *définies* dans le contrat.
+  Ihre Verantwortlichkeiten sind im Vertrag klar *definiert*.
+
+  Au passé *défini*, ce verbe est irrégulier.
+  Im *Passé simple* ist dieses Verb unregelmäßig.
+
+  Cette méthode n'est pas encore bien *définie*.
+  Diese Methode ist noch nicht gut *definiert*.
+
+  Les limites sont clairement *définies* dans ce cas.
+  Die Grenzen sind in diesem Fall klar *definiert*.
+
+  Son rôle est mal *défini* dans l'équipe.
+  Seine Rolle im Team ist schlecht *definiert*.
+
+  Les critères ne sont pas bien *définis*.
+  Die Kriterien sind nicht gut *definiert*.
+
+  Cette stratégie suit un plan bien *défini*.
+  Diese Strategie folgt einem klar *definierten* Plan.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

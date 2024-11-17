@@ -13,11 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  La perte d’une vie est toujours regrettable.
-  Der Verlust eines Lebens ist immer bedauerlich.
+  La perte d'une vie est toujours *regrettable*.
+  Der Verlust eines Lebens ist immer *bedauerlich*.
 
-  C’est regrettable que tu ne puisses pas venir.
-  Es ist bedauerlich, dass du nicht kommen kannst.
+  C'est *regrettable* que tu ne puisses pas venir à la fête.
+  Es ist *bedauerlich*, dass du nicht zur Party kommen kannst.
+
+  Je trouve *regrettable* que personne n'ait répondu à son message.
+  Ich finde es *beklagenswert*, dass niemand auf seine Nachricht geantwortet hat.
+
+  Suite à cet incident *regrettable*, nous avons renforcé nos mesures de sécurité.
+  Nach diesem *bedauerlichen* Vorfall haben wir unsere Sicherheitsmaßnahmen verstärkt.
+
+  Il est *regrettable* d'avoir perdu autant de temps pour rien.
+  Es ist *bedauerlich*, so viel Zeit umsonst verloren zu haben.
+
+  Cette *regrettable* confusion a causé beaucoup de problèmes.
+  Diese *bedauerliche* Verwechslung hat viele Probleme verursacht.
+
+  Une erreur *regrettable* s'est glissée dans le rapport final.
+  Ein *bedauerlicher* Fehler hat sich in den Abschlussbericht eingeschlichen.
+
+  Il serait *regrettable* de manquer cette opportunité unique.
+  Es wäre *bedauerlich*, diese einmalige Gelegenheit zu verpassen.
+
+  Votre absence à la réunion était vraiment *regrettable*.
+  Ihre Abwesenheit bei dem Treffen war wirklich *bedauerlich*.
+
+  Ces paroles *regrettables* ont blessé beaucoup de gens.
+  Diese *beklagenswerten* Worte haben viele Menschen verletzt.
+
+  Le malentendu *regrettable* entre les deux amis s'est vite dissipé.
+  Das *bedauerliche* Missverständnis zwischen den beiden Freunden hat sich schnell aufgeklärt.
+
+  Cette décision *regrettable* aura des conséquences à long terme.
+  Diese *bedauerliche* Entscheidung wird langfristige Folgen haben.
+
+  Un comportement *regrettable* qui ne lui ressemble pas du tout.
+  Ein *bedauerliches* Verhalten, das überhaupt nicht zu ihm passt.
+
+  La situation est d'autant plus *regrettable* que nous aurions pu l'éviter.
+  Die Situation ist umso *bedauerlicher*, als wir sie hätten vermeiden können.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

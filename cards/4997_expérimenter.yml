@@ -13,17 +13,53 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les skieurs peu expérimentés devraient renoncer aux courses.
-  Wenig geübte Skifahrer sollten auf Rennen verzichten.
+  Les skieurs peu *expérimentés* devraient renoncer aux courses.
+  Wenig *erfahrene* Skifahrer sollten auf Rennen verzichten.
 
-  Je veux expérimenter cette nouvelle recette.
-  Ich möchte dieses neue Rezept ausprobieren.
+  Les chercheurs vont *expérimenter* ce nouveau vaccin sur des souris.
+  Die Forscher werden diesen neuen Impfstoff an Mäusen *testen*.
 
-  Les scientifiques ont expérimenté un nouveau médicament sur des souris de laboratoire.
-  Die Wissenschaftler haben ein neues Medikament an Labormäusen erprobt.
+  Marie doit *expérimenter* différentes recettes avant de trouver la bonne.
+  Marie muss verschiedene Rezepte *ausprobieren*, bevor sie das richtige findet.
 
-  Le docteur a hésité à expérimenter ce nouveau médicament sur son patient.
-  Der Arzt zögerte, dieses neue Medikament an seinem Patienten zu erproben.
+  On ne peut pas vraiment comprendre la solitude sans l'avoir *expérimentée*.
+  Man kann Einsamkeit nicht wirklich verstehen, ohne sie *erlebt* zu haben.
+
+  Le laboratoire a *expérimenté* ce médicament pendant trois ans.
+  Das Labor hat dieses Medikament drei Jahre lang *erprobt*.
+
+  Les étudiants doivent *expérimenter* par eux-mêmes pour comprendre.
+  Die Studenten müssen selbst *experimentieren*, um es zu verstehen.
+
+  Notre équipe *expérimente* actuellement une nouvelle méthode de production.
+  Unser Team *testet* derzeit eine neue Produktionsmethode.
+
+  J'ai *expérimenté* cette technique de méditation pendant un mois.
+  Ich habe diese Meditationstechnik einen Monat lang *ausprobiert*.
+
+  Les ingénieurs ont *expérimenté* le nouveau moteur dans des conditions extrêmes.
+  Die Ingenieure haben den neuen Motor unter extremen Bedingungen *getestet*.
+
+  Elle a *expérimenté* la vie à l'étranger pendant ses études.
+  Sie hat das Leben im Ausland während ihres Studiums *erlebt*.
+
+  C'est un chirurgien très *expérimenté* qui va t'opérer.
+  Ein sehr *erfahrener* Chirurg wird dich operieren.
+
+  Nous devons *expérimenter* ce procédé avant de l'utiliser en production.
+  Wir müssen dieses Verfahren *erproben*, bevor wir es in der Produktion einsetzen.
+
+  Les scientifiques *expérimentent* sur des cellules en laboratoire.
+  Die Wissenschaftler *experimentieren* im Labor mit Zellen.
+
+  Il a fallu *expérimenter* plusieurs solutions avant de résoudre le problème.
+  Wir mussten mehrere Lösungen *ausprobieren*, bevor wir das Problem lösen konnten.
+
+  Notre entreprise souhaite *expérimenter* le télétravail.
+  Unser Unternehmen möchte Homeoffice *testen*.
+
+  Pierre n'a jamais *expérimenté* ce genre de situation auparavant.
+  Pierre hat diese Art von Situation noch nie *erlebt*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

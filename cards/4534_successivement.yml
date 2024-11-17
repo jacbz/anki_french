@@ -13,11 +13,41 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Mes recherches ont successivement porté sur deux domaines.
-  Meine Forschung hat sich nacheinander auf zwei Bereiche konzentriert.
+  Mes recherches ont *successivement* porté sur deux domaines.
+  Meine Forschung befasste sich *nacheinander* mit zwei Bereichen.
 
-  Les invités sont arrivés successivement.
-  Die Gäste sind nacheinander angekommen.
+  Elle a été *successivement* professeure, directrice et doyenne de l'université.
+  Sie war *nacheinander* Professorin, Direktorin und Dekanin der Universität.
+
+  J'ai *successivement* habité à Paris, Lyon et Marseille.
+  Ich habe *nacheinander* in Paris, Lyon und Marseille gewohnt.
+
+  Le patient était *successivement* furieux, calme et soulagé.
+  Der Patient war *nacheinander* wütend, ruhig und erleichtert.
+
+  Les enfants ont *successivement* quitté la maison pour aller à l'université.
+  Die Kinder haben das Haus *nacheinander* verlassen, um zur Universität zu gehen.
+
+  Il a perdu *successivement* son travail, sa maison et sa voiture.
+  Er hat *nacheinander* seine Arbeit, sein Haus und sein Auto verloren.
+
+  Le guide nous a *successivement* montré la cathédrale, le musée et le château.
+  Der Führer hat uns *nacheinander* die Kathedrale, das Museum und das Schloss gezeigt.
+
+  Nous avons testé *successivement* trois solutions différentes.
+  Wir haben *nacheinander* drei verschiedene Lösungen getestet.
+
+  Les quatre saisons se succèdent *successivement* chaque année.
+  Die vier Jahreszeiten folgen sich jedes Jahr *nacheinander*.
+
+  Les candidats passeront *successivement* devant le jury.
+  Die Kandidaten werden *nacheinander* vor die Jury treten.
+
+  Marie a *successivement* ouvert tous les cadeaux d'anniversaire.
+  Marie hat *nacheinander* alle Geburtstagsgeschenke geöffnet.
+
+  Ils ont *successivement* visité toutes les capitales européennes.
+  Sie haben *nacheinander* alle europäischen Hauptstädte besucht.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

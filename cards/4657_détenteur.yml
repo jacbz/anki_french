@@ -13,41 +13,65 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Cette carte plastifiée devrait permettre à son détenteur de voter.
-  Diese plastifizierte Karte sollte dem Inhaber die Möglichkeit geben, seine Stimme abzugeben.
+  Cette carte plastifiée devrait permettre à son *détenteur* de voter.
+  Diese laminierte Karte sollte ihrem *Inhaber* das Wählen ermöglichen.
 
-  Le détenteur du record du monde.
-  Der Inhaber des Weltrekords.
+  Le *détenteur* du record mondial de saut en hauteur s'entraîne tous les jours.
+  Der *Rekordhalter* im Hochsprung trainiert jeden Tag.
 
-  Elle est la détentrice du record du monde du 100 mètres.
-  Sie ist die Rekordhalterin im 100-Meter-Lauf.
+  La *détentrice* du titre défendra sa couronne le mois prochain.
+  Die *Titelträgerin* wird nächsten Monat ihre Krone verteidigen.
 
-  Elle est détentrice d'une carte de crédit, mais elle ne l'utilise pas souvent.
-  Sie ist Kreditkarteninhaberin, aber sie nutzt sie nicht oft.
+  Chaque *détenteur* d'une carte de crédit doit vérifier régulièrement ses relevés.
+  Jeder *Inhaber* einer Kreditkarte sollte seine Abrechnungen regelmäßig überprüfen.
 
-  Il est le détenteur du titre de champion du monde.
-  Er ist der Titelträger des Weltmeisters.
+  La nouvelle *détentrice* du secret a juré de ne jamais le révéler.
+  Die neue *Inhaberin* des Geheimnisses hat geschworen, es nie zu verraten.
 
-  Il était détenteur de poste de télévision, mais il a cessé de regarder la télévision.
-  Er war Fernsehteilnehmer, aber er hat aufgehört, fernzusehen.
+  Les *détenteurs* de parts recevront leurs dividendes la semaine prochaine.
+  Die *Anteilseigner* werden nächste Woche ihre Dividenden erhalten.
 
-  La reine est la détentrice du pouvoir dans ce pays.
-  Die Königin ist die Machthaberin in diesem Land.
+  La *détentrice* du manuscrit original l'a prêté au musée.
+  Die *Besitzerin* des Originalmanuskripts hat es dem Museum geliehen.
 
-  Il est le seul détenteur du secret de la disparition de l'enfant.
-  Er allein kennt das Geheimnis des Verschwindens des Kindes.
+  Le *détenteur* du pouvoir doit l'exercer avec sagesse.
+  Der *Machthaber* muss seine Macht mit Weisheit ausüben.
 
-  Elle est détentrice d'une licence de pilote.
-  Sie ist Lizenzinhaberin für das Fliegen.
+  Toutes les personnes *détentrices* d'un permis doivent le renouveler avant juin.
+  Alle *Inhaber* einer Erlaubnis müssen diese vor Juni erneuern.
 
-  Elle est détentrice de parts dans la société.
-  Sie ist Anteilseignerin in der Firma.
+  La *détentrice* du record de vitesse a encore amélioré sa performance.
+  Die *Rekordhalterin* im Geschwindigkeitslauf hat ihre Leistung noch verbessert.
 
-  Elle est détentrice d'un permis de conduire.
-  Sie ist Erlaubnisscheininhaberin für das Autofahren.
+  Les *détenteurs* de billets pourront entrer une heure avant le concert.
+  Die *Inhaber* von Eintrittskarten können eine Stunde vor dem Konzert eintreten.
 
-  Le gouvernement est le détenteur de la souveraineté.
-  Die Regierung ist die Hoheitsträgerin.
+  La *détentrice* de la licence exclusive peut interdire toute copie non autorisée.
+  Die *Lizenzinhaberin* kann jede nicht autorisierte Kopie verbieten.
+
+  Le nouveau *détenteur* du titre mondial célèbre sa victoire avec ses fans.
+  Der neue *Titelträger* feiert seinen Sieg mit seinen Fans.
+
+  Les *détenteurs* de fonds ont été informés des nouveaux taux d'intérêt.
+  Die *Inhaber* der Gelder wurden über die neuen Zinssätze informiert.
+
+  La *détentrice* du secret de fabrication refuse toutes les offres d'achat.
+  Die *Inhaberin* des Fertigungsgeheimnisses lehnt alle Kaufangebote ab.
+
+  Le *détenteur* de l'autorité doit respecter les droits de chacun.
+  Der *Träger* der Autorität muss die Rechte aller respektieren.
+
+  La *détentrice* du laissez-passer peut accéder à toutes les zones.
+  Die *Inhaberin* des Passierscheins hat Zugang zu allen Bereichen.
+
+  Les *détenteurs* de valeurs mobilières suivent attentivement le marché.
+  Die *Besitzer* der Wertpapiere verfolgen aufmerksam den Markt.
+
+  La *détentrice* de la correspondance historique l'a léguée à la bibliothèque.
+  Die *Besitzerin* der historischen Korrespondenz hat sie der Bibliothek vermacht.
+
+  Le *détenteur* du capital majoritaire a voté contre la fusion.
+  Der *Inhaber* der Aktienmehrheit hat gegen die Fusion gestimmt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

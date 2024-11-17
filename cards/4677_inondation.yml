@@ -13,17 +13,59 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L’école est fermée pour inondation.
-  Die Schule ist wegen Überschwemmung geschlossen.
+  L'école est fermée pour *inondation*.
+  Die Schule ist wegen einer *Überschwemmung* geschlossen.
 
-  La ville a été touchée par une inondation.
-  Die Stadt wurde von einer Überschwemmung betroffen.
+  Les *inondations* ont causé des dégâts considérables dans toute la région.
+  Die *Überschwemmungen* haben in der ganzen Region erhebliche Schäden verursacht.
 
-  Il y a un risque d'inondation dans cette région, en raison des fortes pluies prévues.
-  In dieser Region besteht Überschwemmungsrisiko, da starke Regenfälle erwartet werden.
+  Le risque d'*inondation* est particulièrement élevé au printemps.
+  Das *Hochwasser*risiko ist besonders hoch im Frühling.
 
-  Les grandes inondations ont détruit de nombreux bâtiments et causé des dégâts importants.
-  Die Überschwemmungskatastrophe hat zahlreiche Gebäude zerstört und große Schäden verursacht.
+  La fonte des neiges a provoqué une grave *inondation*.
+  Die Schneeschmelze hat ein schweres *Hochwasser* verursacht.
+
+  Les *inondations* périodiques du Nil fertilisaient les terres agricoles.
+  Die regelmäßigen *Überschwemmungen* des Nils machten die Agrarflächen fruchtbar.
+
+  L'*inondation* couvrait toute la vallée jusqu'à l'horizon.
+  Die *Überschwemmung* bedeckte das gesamte Tal bis zum Horizont.
+
+  Le marché est submergé par une *inondation* de produits chinois.
+  Der Markt wird von einer *Flut* chinesischer Produkte überschwemmt.
+
+  "Il y a une *inondation* dans la salle de bain !"
+  "In unserem Badezimmer gibt es eine *Überschwemmung*!"
+
+  Cette *inondation* était la plus dévastatrice depuis un siècle.
+  Diese *Überschwemmungs*katastrophe war die verheerendste seit einem Jahrhundert.
+
+  Les experts prévoient des *inondations* plus fréquentes à l'avenir.
+  Die Experten sagen in Zukunft häufigere *Überschwemmungen* voraus.
+
+  Mon assurance couvre les dégâts causés par les *inondations*.
+  Meine Versicherung deckt *Hochwasser*schäden ab.
+
+  Les pompiers ont réagi rapidement à l'*inondation*.
+  Die Feuerwehr hat schnell auf die *Überschwemmung* reagiert.
+
+  Une *inondation* de courriels a saturé notre serveur.
+  Eine *Flut* von E-Mails hat unseren Server überlastet.
+
+  La ville a construit une digue pour prévenir les *inondations*.
+  Die Stadt hat einen Deich gebaut, um *Überschwemmungen* zu verhindern.
+
+  Les habitants craignent une nouvelle *inondation*.
+  Die Bewohner fürchten eine neue *Überschwemmung*.
+
+  Le système d'alerte aux *inondations* a bien fonctionné.
+  Das *Hochwasser*warnsystem hat gut funktioniert.
+
+  Des milliers de personnes ont été évacuées à cause de l'*inondation*.
+  Tausende Menschen wurden wegen der *Überschwemmung* evakuiert.
+
+  Une *inondation* de touristes envahit la ville chaque été.
+  Eine *Flut* von Touristen überschwemmt jeden Sommer die Stadt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

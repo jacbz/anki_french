@@ -13,14 +13,47 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Ce renouveau doit, naturellement, commencer par en haut.
-  Diese Erneuerung muss natürlich von oben beginnen.
+  Ce *renouveau* doit, naturellement, commencer par en haut.
+  Diese *Erneuerung* muss natürlich von oben beginnen.
 
-  Le printemps est le temps du renouveau.
-  Der Frühling ist die Zeit des Neubeginns.
+  Le jazz connaît un *renouveau* surprenant depuis quelques années.
+  Der Jazz erlebt seit einigen Jahren ein überraschendes *Wiederaufleben*.
 
-  Le jazz connaît un renouveau d'intérêt auprès des jeunes générations.
-  Das Interesse an Jazz erwacht wieder bei den jüngeren Generationen.
+  Avec le *renouveau*, les bourgeons commencent à éclore sur les arbres.
+  Mit dem *Frühlingsbeginn* beginnen die Knospen an den Bäumen zu sprießen.
+
+  La galerie d'art moderne contribue au *renouveau* culturel de notre ville.
+  Die moderne Kunstgalerie trägt zur kulturellen *Wiederbelebung* unserer Stadt bei.
+
+  Les oiseaux migrateurs annoncent le *renouveau* printanier.
+  Die Zugvögel kündigen die *Frühlingserneuerung* an.
+
+  Ce groupe de rock des années 80 connaît un *renouveau* inattendu.
+  Diese Rockband aus den 80er Jahren erlebt ein unerwartetes *Comeback*.
+
+  Le *renouveau* économique de cette région attire de nombreux investisseurs.
+  Der wirtschaftliche *Aufschwung* dieser Region zieht viele Investoren an.
+
+  On observe un *renouveau* d'intérêt pour la cuisine traditionnelle.
+  Man beobachtet ein *Wiedererwachen* des Interesses an traditioneller Küche.
+
+  Le *renouveau* de la littérature française inspire beaucoup de jeunes écrivains.
+  Die *Renaissance* der französischen Literatur inspiriert viele junge Schriftsteller.
+
+  Nous assistons à un *renouveau* spectaculaire du théâtre de rue.
+  Wir erleben eine spektakuläre *Wiederbelebung* des Straßentheaters.
+
+  Le quartier historique connaît un *renouveau* grâce aux rénovations.
+  Das historische Viertel erlebt dank der Renovierungen eine *Wiederbelebung*.
+
+  Ce *renouveau* artistique reflète les changements de notre société.
+  Diese künstlerische *Erneuerung* spiegelt die Veränderungen unserer Gesellschaft wider.
+
+  La nature célèbre son *renouveau* avec l'arrivée du printemps.
+  Die Natur feiert ihre *Erneuerung* mit der Ankunft des Frühlings.
+
+  Les jeunes artistes apportent un *renouveau* rafraîchissant à la scène musicale.
+  Die jungen Künstler bringen eine erfrischende *Neubelebung* in die Musikszene.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
