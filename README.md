@@ -471,7 +471,7 @@ Insgesamt gibt es 5000 Karten mit 150.010 Beispielsätzen (durchschnittlich 30.0
 | 431 | valoir | kosten, wert sein | 60 |  | [Bearbeiten](cards/0431_valoir.yml) |
 | 432 | dollar | Dollar | 12 |  | [Bearbeiten](cards/0432_dollar.yml) |
 | 433 | intérieur | Innere | 58 |  | [Bearbeiten](cards/0433_intérieur.yml) |
-| 434 | page | (Buch-)Seite | 46 |  | [Bearbeiten](cards/0434_page.yml) |
+| 434 | page | (Buch-)seite | 46 |  | [Bearbeiten](cards/0434_page.yml) |
 | 435 | confiance | Vertrauen | 34 |  | [Bearbeiten](cards/0435_confiance.yml) |
 | 436 | choix | Wahl | 36 |  | [Bearbeiten](cards/0436_choix.yml) |
 | 437 | prévoir | voraussehen, vorsehen | 33 |  | [Bearbeiten](cards/0437_prévoir.yml) |
@@ -799,7 +799,7 @@ Insgesamt gibt es 5000 Karten mit 150.010 Beispielsätzen (durchschnittlich 30.0
 | 759 | lutte | Kampf | 35 | X | [Bearbeiten](cards/0759_lutte.yml) |
 | 760 | naturel | natürlich | 60 | X | [Bearbeiten](cards/0760_naturel.yml) |
 | 761 | air | Luft; Aussehen | 58 |  | [Bearbeiten](cards/0761_air.yml) |
-| 762 | auteur | Autor/in | 34 | X | [Bearbeiten](cards/0762_auteur.yml) |
+| 762 | auteur | Autor(in) | 34 | X | [Bearbeiten](cards/0762_auteur.yml) |
 | 763 | opération | Operation | 51 | X | [Bearbeiten](cards/0763_opération.yml) |
 | 764 | heureux | glücklich | 61 | X | [Bearbeiten](cards/0764_heureux.yml) |
 | 765 | crise | Krise | 43 |  | [Bearbeiten](cards/0765_crise.yml) |
@@ -938,7 +938,7 @@ Insgesamt gibt es 5000 Karten mit 150.010 Beispielsätzen (durchschnittlich 30.0
 | 898 | investissement | Investition | 21 |  | [Bearbeiten](cards/0898_investissement.yml) |
 | 899 | insister | auf etw. bestehen | 19 | X | [Bearbeiten](cards/0899_insister.yml) |
 | 900 | avantage | Vorteil | 61 |  | [Bearbeiten](cards/0900_avantage.yml) |
-| 901 | garde | Wache, Schutz | 61 | X | [Bearbeiten](cards/0901_garde.yml) |
+| 901 | garde | <span class="disamb">le:</span> Wächter, <span class="disamb">la:</span> Bewachung, Schutz | 61 | X | [Bearbeiten](cards/0901_garde.yml) |
 | 902 | historique | historisch | 42 |  | [Bearbeiten](cards/0902_historique.yml) |
 | 903 | probablement | wahrscheinlich, wohl | 13 |  | [Bearbeiten](cards/0903_probablement.yml) |
 | 904 | voyage | Reise | 38 |  | [Bearbeiten](cards/0904_voyage.yml) |
@@ -1183,7 +1183,7 @@ Insgesamt gibt es 5000 Karten mit 150.010 Beispielsätzen (durchschnittlich 30.0
 | 1143 | évoquer | hervorrufen, erinnern an | 26 | X | [Bearbeiten](cards/1143_évoquer.yml) |
 | 1144 | fonctionner | funktionieren | 22 |  | [Bearbeiten](cards/1144_fonctionner.yml) |
 | 1145 | étape | Etappe | 34 | X | [Bearbeiten](cards/1145_étape.yml) |
-| 1146 | physique | körperlich; Physik | 60 | X | [Bearbeiten](cards/1146_physique.yml) |
+| 1146 | physique | körperlich;,  <span class="disamb">le:</span> Äußeres, <span class="disamb">la:</span> Physik | 60 | X | [Bearbeiten](cards/1146_physique.yml) |
 | 1147 | accuser | beschuldigen | 36 |  | [Bearbeiten](cards/1147_accuser.yml) |
 | 1148 | parfaitement | vollkommen, perfekt | 18 |  | [Bearbeiten](cards/1148_parfaitement.yml) |
 | 1149 | méthode | Methode | 33 |  | [Bearbeiten](cards/1149_méthode.yml) |
@@ -3504,7 +3504,7 @@ Insgesamt gibt es 5000 Karten mit 150.010 Beispielsätzen (durchschnittlich 30.0
 | 3464 | estimation | Schätzung, Einschätzung | 21 |  | [Bearbeiten](cards/3464_estimation.yml) |
 | 3465 | mutation | Veränderung, Mutation | 20 |  | [Bearbeiten](cards/3465_mutation.yml) |
 | 3466 | imminent | bevorstehend | 14 |  | [Bearbeiten](cards/3466_imminent.yml) |
-| 3467 | héroïne | Heroin | 15 |  | [Bearbeiten](cards/3467_héroïne.yml) |
+| 3467 | héroïne | Heldin; Heroin | 15 |  | [Bearbeiten](cards/3467_héroïne.yml) |
 | 3468 | esclave | Sklave/Sklavin | 26 | X | [Bearbeiten](cards/3468_esclave.yml) |
 | 3469 | marocain | Marokkaner | 11 | X | [Bearbeiten](cards/3469_marocain.yml) |
 | 3470 | menu | Speisekarte | 50 | X | [Bearbeiten](cards/3470_menu.yml) |
@@ -4223,7 +4223,7 @@ Insgesamt gibt es 5000 Karten mit 150.010 Beispielsätzen (durchschnittlich 30.0
 | 4183 | éventualité | Möglichkeit, Eventualität | 16 |  | [Bearbeiten](cards/4183_éventualité.yml) |
 | 4184 | massacrer | abschlachten, massakrieren | 19 |  | [Bearbeiten](cards/4184_massacrer.yml) |
 | 4185 | réciproque | gegenseitig | 28 |  | [Bearbeiten](cards/4185_réciproque.yml) |
-| 4186 | état-major | Stab | 21 |  | [Bearbeiten](cards/4186_état-major.yml) |
+| 4186 | état-major | Generalstab | 21 |  | [Bearbeiten](cards/4186_état-major.yml) |
 | 4187 | attarder | aufhalten, verweilen | 20 |  | [Bearbeiten](cards/4187_attarder.yml) |
 | 4188 | englober | umfassen, einschließen | 16 |  | [Bearbeiten](cards/4188_englober.yml) |
 | 4189 | grossir | dicker werden, zunehmen | 44 |  | [Bearbeiten](cards/4189_grossir.yml) |
