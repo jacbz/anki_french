@@ -34,7 +34,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 150.012 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1136 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 150.010 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1136 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -565,7 +565,7 @@ Insgesamt gibt es 5000 Karten mit 150.012 Beispielsätzen (durchschnittlich 30.0
 | 525 | volonté | Wille | 34 |  | [Bearbeiten](cards/0525_volonté.yml) |
 | 526 | envoyer | senden | 61 |  | [Bearbeiten](cards/0526_envoyer.yml) |
 | 527 | partager | teilen, freigeben | 54 |  | [Bearbeiten](cards/0527_partager.yml) |
-| 528 | puisque | da, wenn | 18 | X | [Bearbeiten](cards/0528_puisque.yml) |
+| 528 | puisque | da (ja) | 18 | X | [Bearbeiten](cards/0528_puisque.yml) |
 | 529 | établir | errichten, gründen | 62 |  | [Bearbeiten](cards/0529_établir.yml) |
 | 530 | changement | Veränderung | 36 |  | [Bearbeiten](cards/0530_changement.yml) |
 | 531 | garder | behalten, aufbewahren, bewachen | 60 |  | [Bearbeiten](cards/0531_garder.yml) |
@@ -1070,7 +1070,7 @@ Insgesamt gibt es 5000 Karten mit 150.012 Beispielsätzen (durchschnittlich 30.0
 | 1030 | application | Anwendung | 33 |  | [Bearbeiten](cards/1030_application.yml) |
 | 1031 | lutter | (be-)kämpfen | 26 | X | [Bearbeiten](cards/1031_lutter.yml) |
 | 1032 | profit | Nutzen, Gewinn | 27 |  | [Bearbeiten](cards/1032_profit.yml) |
-| 1033 | contenir | enthalten | 30 |  | [Bearbeiten](cards/1033_contenir.yml) |
+| 1033 | contenir | enthalten, fassen | 30 |  | [Bearbeiten](cards/1033_contenir.yml) |
 | 1034 | déposer | ablegen, hinterlegen | 56 |  | [Bearbeiten](cards/1034_déposer.yml) |
 | 1035 | modifier | ändern, modifizieren | 16 |  | [Bearbeiten](cards/1035_modifier.yml) |
 | 1036 | communication | Kommunikation | 44 |  | [Bearbeiten](cards/1036_communication.yml) |
@@ -1407,7 +1407,7 @@ Insgesamt gibt es 5000 Karten mit 150.012 Beispielsätzen (durchschnittlich 30.0
 | 1367 | net | klar, deutlich | 61 |  | [Bearbeiten](cards/1367_net.yml) |
 | 1368 | foi | Glaube | 55 |  | [Bearbeiten](cards/1368_foi.yml) |
 | 1369 | motif | Motiv, Grund | 25 |  | [Bearbeiten](cards/1369_motif.yml) |
-| 1370 | plaindre | bemitleiden; sich beschweren | 35 |  | [Bearbeiten](cards/1370_plaindre.yml) |
+| 1370 | plaindre | bemitleiden; beschweren | 35 |  | [Bearbeiten](cards/1370_plaindre.yml) |
 | 1371 | tradition | Tradition | 24 |  | [Bearbeiten](cards/1371_tradition.yml) |
 | 1372 | institut | Institut | 20 |  | [Bearbeiten](cards/1372_institut.yml) |
 | 1373 | victoire | Sieg | 21 |  | [Bearbeiten](cards/1373_victoire.yml) |
@@ -1441,7 +1441,7 @@ Insgesamt gibt es 5000 Karten mit 150.012 Beispielsätzen (durchschnittlich 30.0
 | 1401 | privé | privat | 50 |  | [Bearbeiten](cards/1401_privé.yml) |
 | 1402 | catégorie | Kategorie | 27 | X | [Bearbeiten](cards/1402_catégorie.yml) |
 | 1403 | mine | Miene; Bergwerk | 62 |  | [Bearbeiten](cards/1403_mine.yml) |
-| 1404 | législatif | Legislative | 24 |  | [Bearbeiten](cards/1404_législatif.yml) |
+| 1404 | législatif | gesetzgebend | 24 |  | [Bearbeiten](cards/1404_législatif.yml) |
 | 1405 | ah | ach, ah | 22 |  | [Bearbeiten](cards/1405_ah.yml) |
 | 1406 | propriétaire | Eigentümer | 26 | X | [Bearbeiten](cards/1406_propriétaire.yml) |
 | 1407 | favoriser | fördern | 20 |  | [Bearbeiten](cards/1407_favoriser.yml) |
@@ -1498,7 +1498,7 @@ Insgesamt gibt es 5000 Karten mit 150.012 Beispielsätzen (durchschnittlich 30.0
 | 1458 | meurtre | Mord | 15 |  | [Bearbeiten](cards/1458_meurtre.yml) |
 | 1459 | exemplaire | Exemplar | 23 |  | [Bearbeiten](cards/1459_exemplaire.yml) |
 | 1460 | propriété | Eigentum, Besitz | 41 |  | [Bearbeiten](cards/1460_propriété.yml) |
-| 1461 | final | Ende, Finale | 25 |  | [Bearbeiten](cards/1461_final.yml) |
+| 1461 | final | letze(-r/s), End- | 25 |  | [Bearbeiten](cards/1461_final.yml) |
 | 1462 | site | Website, Standort | 30 |  | [Bearbeiten](cards/1462_site.yml) |
 | 1463 | séance | Sitzung, Vorstellung | 32 |  | [Bearbeiten](cards/1463_séance.yml) |
 | 1464 | durée | Dauer | 26 | X | [Bearbeiten](cards/1464_durée.yml) |
@@ -1538,7 +1538,7 @@ Insgesamt gibt es 5000 Karten mit 150.012 Beispielsätzen (durchschnittlich 30.0
 | 1498 | d’autant | umso | 15 |  | [Bearbeiten](cards/1498_d’autant.yml) |
 | 1499 | leader | Führer | 20 | X | [Bearbeiten](cards/1499_leader.yml) |
 | 1500 | taille | Größe | 53 |  | [Bearbeiten](cards/1500_taille.yml) |
-| 1501 | contenu | Inhalt | 24 |  | [Bearbeiten](cards/1501_contenu.yml) |
+| 1501 | contenu | Inhalt; underdrückt | 24 |  | [Bearbeiten](cards/1501_contenu.yml) |
 | 1502 | distance | Entfernung, Distanz | 37 |  | [Bearbeiten](cards/1502_distance.yml) |
 | 1503 | automne | Herbst | 17 | X | [Bearbeiten](cards/1503_automne.yml) |
 | 1504 | arrière | hinten | 55 | X | [Bearbeiten](cards/1504_arrière.yml) |
@@ -1678,7 +1678,7 @@ Insgesamt gibt es 5000 Karten mit 150.012 Beispielsätzen (durchschnittlich 30.0
 | 1638 | démarche | Gang, Methode | 20 |  | [Bearbeiten](cards/1638_démarche.yml) |
 | 1639 | corriger | korrigieren | 37 |  | [Bearbeiten](cards/1639_corriger.yml) |
 | 1640 | volume | Volumen | 41 |  | [Bearbeiten](cards/1640_volume.yml) |
-| 1641 | réussite | Erfolg, Leistung | 23 | X | [Bearbeiten](cards/1641_réussite.yml) |
+| 1641 | réussite | Erfolg, Leistung | 21 | X | [Bearbeiten](cards/1641_réussite.yml) |
 | 1642 | désir | Wunsch, Verlangen | 25 |  | [Bearbeiten](cards/1642_désir.yml) |
 | 1643 | pur | rein | 59 |  | [Bearbeiten](cards/1643_pur.yml) |
 | 1644 | exportation | Export | 24 |  | [Bearbeiten](cards/1644_exportation.yml) |
@@ -2389,7 +2389,7 @@ Insgesamt gibt es 5000 Karten mit 150.012 Beispielsätzen (durchschnittlich 30.0
 | 2349 | barre | Stange, Riegel | 61 |  | [Bearbeiten](cards/2349_barre.yml) |
 | 2350 | contradiction | Widerspruch | 23 |  | [Bearbeiten](cards/2350_contradiction.yml) |
 | 2351 | maîtriser | meistern, bewältigen | 25 |  | [Bearbeiten](cards/2351_maîtriser.yml) |
-| 2352 | violer | vergewaltigen | 21 |  | [Bearbeiten](cards/2352_violer.yml) |
+| 2352 | violer | vergewaltigen, verletzen | 21 |  | [Bearbeiten](cards/2352_violer.yml) |
 | 2353 | souveraineté | Souveränität | 17 |  | [Bearbeiten](cards/2353_souveraineté.yml) |
 | 2354 | épargner | sparen, ersparen | 44 |  | [Bearbeiten](cards/2354_épargner.yml) |
 | 2355 | concentration | Konzentration | 24 |  | [Bearbeiten](cards/2355_concentration.yml) |
@@ -3130,10 +3130,10 @@ Insgesamt gibt es 5000 Karten mit 150.012 Beispielsätzen (durchschnittlich 30.0
 | 3090 | touchant | betreffend; rührend | 19 |  | [Bearbeiten](cards/3090_touchant.yml) |
 | 3091 | hostile | feindlich | 25 |  | [Bearbeiten](cards/3091_hostile.yml) |
 | 3092 | imprimer | drucken | 35 |  | [Bearbeiten](cards/3092_imprimer.yml) |
-| 3093 | abuser | missbrauchen, täuschen | 25 |  | [Bearbeiten](cards/3093_abuser.yml) |
+| 3093 | abuser | missbrauchen, übertreiben; [sich] irren | 25 |  | [Bearbeiten](cards/3093_abuser.yml) |
 | 3094 | vérification | Überprüfung, Kontrolle | 21 |  | [Bearbeiten](cards/3094_vérification.yml) |
 | 3095 | aveugle | blind | 42 | X | [Bearbeiten](cards/3095_aveugle.yml) |
-| 3096 | jurer | schwören, fluchen | 52 |  | [Bearbeiten](cards/3096_jurer.yml) |
+| 3096 | jurer | schwören, fluchen; passen | 52 |  | [Bearbeiten](cards/3096_jurer.yml) |
 | 3097 | trésor | Schatz | 36 |  | [Bearbeiten](cards/3097_trésor.yml) |
 | 3098 | vingtaine | etwa zwanzig | 14 |  | [Bearbeiten](cards/3098_vingtaine.yml) |
 | 3099 | séquence | Sequenz, Abfolge | 18 |  | [Bearbeiten](cards/3099_séquence.yml) |
@@ -3717,7 +3717,7 @@ Insgesamt gibt es 5000 Karten mit 150.012 Beispielsätzen (durchschnittlich 30.0
 | 3677 | visiblement | offensichtlich, sichtbar | 11 |  | [Bearbeiten](cards/3677_visiblement.yml) |
 | 3678 | suicider | sich umbringen | 14 |  | [Bearbeiten](cards/3678_suicider.yml) |
 | 3679 | préjugé | Vorurteil | 17 |  | [Bearbeiten](cards/3679_préjugé.yml) |
-| 3680 | impératif | Imperativ | 26 |  | [Bearbeiten](cards/3680_impératif.yml) |
+| 3680 | impératif | Erfordernis; strikt | 26 |  | [Bearbeiten](cards/3680_impératif.yml) |
 | 3681 | renvoi | Rücksendung, Entlassung | 38 |  | [Bearbeiten](cards/3681_renvoi.yml) |
 | 3682 | charme | Charme, Reiz | 35 |  | [Bearbeiten](cards/3682_charme.yml) |
 | 3683 | atout | Trumpf | 18 |  | [Bearbeiten](cards/3683_atout.yml) |
