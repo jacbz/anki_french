@@ -129,22 +129,15 @@ async function getTTSUrl(textToRead, forceGoogleTranslate = false, lang = "fr-FR
   }
 
   try {
-    let textInput = decodeURIComponent(text);
-    textInput = textInput.replaceAll("*", "").replaceAll("→", ";");
-    let useSsml = false;
-    if (textInput.includes("\n")) {
-      useSsml = true;
-      textInput = textInput.replaceAll("\n", "<break/>");
-      textInput = `<speak>${textInput}</speak>`;
-    }
+    const textInput = decodeURIComponent(text).replaceAll("*", "").replaceAll("→", ";").replace(/[\u0000-\u001F\u007F-\u009F\u200B\u2060\uFEFF\u202f]/g, "");
     let voice = {
       languageCode: "fr-FR",
-      name: "fr-FR-Studio-" + (Math.random() < 0.5 ? "A" : "D"),
+      name: "fr-FR-Journey-" + ["D", "F", "O"][Math.floor(Math.random() * 3)],
     };
     if (lang === "de-DE") {
       voice = {
         languageCode: "de-DE",
-        name: "de-DE-Studio-" + (Math.random() < 0.5 ? "B" : "C"),
+        name: "de-DE-Journey-" + ["D", "F", "O"][Math.floor(Math.random() * 3)],
       };
     }
 
@@ -157,8 +150,8 @@ async function getTTSUrl(textToRead, forceGoogleTranslate = false, lang = "fr-FR
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          audioConfig: { audioEncoding: "MP3" },
-          input: useSsml ? { ssml: textInput } : { text: textInput },
+          audioConfig: { audioEncoding: "LINEAR16" },
+          input: { text: textInput },
           voice,
         }),
       }

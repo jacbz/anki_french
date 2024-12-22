@@ -485,9 +485,10 @@ function formatConjugationTables(within) {
     }
 
     const audioSentence = [...el.querySelectorAll("tr")]
-      .map((tr) => getVisibleText(tr))
+      .map((tr) => getVisibleText(tr) + ". ")
+      .map((text) => text.charAt(0).toUpperCase() + text.slice(1))
       .filter((text) => text.length > 0)
-      .join(",\n")
+      .join("")
       .replaceAll("’ ", "’");
 
     if (
