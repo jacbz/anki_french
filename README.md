@@ -34,7 +34,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 150.010 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1136 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 150.009 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1136 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -715,9 +715,9 @@ Insgesamt gibt es 5000 Karten mit 150.010 Beispielsätzen (durchschnittlich 30.0
 | 675 | essentiel | wesentlich, unerlässlich | 34 |  | [Bearbeiten](cards/0675_essentiel.yml) |
 | 676 | adopter | annehmen, adoptieren | 25 |  | [Bearbeiten](cards/0676_adopter.yml) |
 | 677 | subir | erleiden, hinnehmen | 28 |  | [Bearbeiten](cards/0677_subir.yml) |
-| 678 | environ | ungefähr, etwa | 19 |  | [Bearbeiten](cards/0678_environ.yml) |
+| 678 | environ | ungefähr, etwa; Umgebung | 19 |  | [Bearbeiten](cards/0678_environ.yml) |
 | 679 | expérience | Erfahrung | 42 |  | [Bearbeiten](cards/0679_expérience.yml) |
-| 680 | admettre | zugeben | 48 | X | [Bearbeiten](cards/0680_admettre.yml) |
+| 680 | admettre | zugeben, hineinlassen | 48 | X | [Bearbeiten](cards/0680_admettre.yml) |
 | 681 | découvrir | entdecken | 61 |  | [Bearbeiten](cards/0681_découvrir.yml) |
 | 682 | couvrir | (be-)decken | 60 |  | [Bearbeiten](cards/0682_couvrir.yml) |
 | 683 | assister | teilnehmen; helfen | 26 |  | [Bearbeiten](cards/0683_assister.yml) |
@@ -845,7 +845,7 @@ Insgesamt gibt es 5000 Karten mit 150.010 Beispielsätzen (durchschnittlich 30.0
 | 805 | derrière | hinter | 59 | X | [Bearbeiten](cards/0805_derrière.yml) |
 | 806 | connaissance | Kenntnis, Bekanntschaft | 61 |  | [Bearbeiten](cards/0806_connaissance.yml) |
 | 807 | immédiatement | sofort | 16 |  | [Bearbeiten](cards/0807_immédiatement.yml) |
-| 808 | entrée | Eingang | 67 |  | [Bearbeiten](cards/0808_entrée.yml) |
+| 808 | entrée | Eingang, Eintreten | 67 |  | [Bearbeiten](cards/0808_entrée.yml) |
 | 809 | signer | unterschreiben | 28 | X | [Bearbeiten](cards/0809_signer.yml) |
 | 810 | révéler | enthüllen | 35 | X | [Bearbeiten](cards/0810_révéler.yml) |
 | 811 | couper | schneiden, abschneiden | 62 |  | [Bearbeiten](cards/0811_couper.yml) |
@@ -1585,7 +1585,7 @@ Insgesamt gibt es 5000 Karten mit 150.010 Beispielsätzen (durchschnittlich 30.0
 | 1545 | extrêmement | äußerst, extrem | 13 |  | [Bearbeiten](cards/1545_extrêmement.yml) |
 | 1546 | interne | Innen-; intern | 25 | X | [Bearbeiten](cards/1546_interne.yml) |
 | 1547 | voire | (ja) sogar | 13 |  | [Bearbeiten](cards/1547_voire.yml) |
-| 1548 | témoignage | Aussage, Bezeugung | 28 |  | [Bearbeiten](cards/1548_témoignage.yml) |
+| 1548 | témoignage | (Zeugen-)aussage | 28 |  | [Bearbeiten](cards/1548_témoignage.yml) |
 | 1549 | messieurs | Herren | 10 |  | [Bearbeiten](cards/1549_messieurs.yml) |
 | 1550 | effectivement | tatsächlich, wirksam | 15 |  | [Bearbeiten](cards/1550_effectivement.yml) |
 | 1551 | gaz | Gas | 43 |  | [Bearbeiten](cards/1551_gaz.yml) |
@@ -1628,7 +1628,7 @@ Insgesamt gibt es 5000 Karten mit 150.010 Beispielsätzen (durchschnittlich 30.0
 | 1588 | spécialiste | Spezialist | 15 | X | [Bearbeiten](cards/1588_spécialiste.yml) |
 | 1589 | mari | Ehemann | 12 | X | [Bearbeiten](cards/1589_mari.yml) |
 | 1590 | supprimer | löschen, entfernen | 26 |  | [Bearbeiten](cards/1590_supprimer.yml) |
-| 1591 | guère | kaum | 27 | X | [Bearbeiten](cards/1591_guère.yml) |
+| 1591 | guère | [verneint] kaum, wenig | 27 | X | [Bearbeiten](cards/1591_guère.yml) |
 | 1592 | douter | zweifeln | 49 |  | [Bearbeiten](cards/1592_douter.yml) |
 | 1593 | ressentir | empfinden, spüren | 28 | X | [Bearbeiten](cards/1593_ressentir.yml) |
 | 1594 | sexuel | sexuell | 24 |  | [Bearbeiten](cards/1594_sexuel.yml) |
@@ -1859,7 +1859,7 @@ Insgesamt gibt es 5000 Karten mit 150.010 Beispielsätzen (durchschnittlich 30.0
 | 1819 | maintien | Haltung | 22 |  | [Bearbeiten](cards/1819_maintien.yml) |
 | 1820 | chanter | singen | 46 |  | [Bearbeiten](cards/1820_chanter.yml) |
 | 1821 | pension | Rente; Pension | 31 | X | [Bearbeiten](cards/1821_pension.yml) |
-| 1822 | revue | Zeitschrift; Überprüfung | 31 |  | [Bearbeiten](cards/1822_revue.yml) |
+| 1822 | revue | (Fach-)zeitschrift; Überprüfung | 31 |  | [Bearbeiten](cards/1822_revue.yml) |
 | 1823 | clore | schließen, abschließen | 30 | X | [Bearbeiten](cards/1823_clore.yml) |
 | 1824 | neige | Schnee | 26 | X | [Bearbeiten](cards/1824_neige.yml) |
 | 1825 | figure | Figur, Gesicht | 51 | X | [Bearbeiten](cards/1825_figure.yml) |
@@ -1872,7 +1872,7 @@ Insgesamt gibt es 5000 Karten mit 150.010 Beispielsätzen (durchschnittlich 30.0
 | 1832 | catastrophe | Katastrophe | 19 |  | [Bearbeiten](cards/1832_catastrophe.yml) |
 | 1833 | ressortir | hervorgehen, nochmal herauskommen | 47 |  | [Bearbeiten](cards/1833_ressortir.yml) |
 | 1834 | exploitation | Ausbeutung, Betrieb | 42 |  | [Bearbeiten](cards/1834_exploitation.yml) |
-| 1835 | manifestation | Demo | 19 |  | [Bearbeiten](cards/1835_manifestation.yml) |
+| 1835 | manifestation | Demo, Äußerung | 19 |  | [Bearbeiten](cards/1835_manifestation.yml) |
 | 1836 | dormir | schlafen | 38 |  | [Bearbeiten](cards/1836_dormir.yml) |
 | 1837 | lit | Bett | 61 |  | [Bearbeiten](cards/1837_lit.yml) |
 | 1838 | bouche | Mund | 60 | X | [Bearbeiten](cards/1838_bouche.yml) |
@@ -2090,7 +2090,7 @@ Insgesamt gibt es 5000 Karten mit 150.010 Beispielsätzen (durchschnittlich 30.0
 | 2050 | caractéristique | Merkmal, Eigenschaft | 27 |  | [Bearbeiten](cards/2050_caractéristique.yml) |
 | 2051 | dépenser | ausgeben, verbrauchen | 26 |  | [Bearbeiten](cards/2051_dépenser.yml) |
 | 2052 | censé | eigentlich | 13 |  | [Bearbeiten](cards/2052_censé.yml) |
-| 2053 | fuite | Flucht, Leck | 41 |  | [Bearbeiten](cards/2053_fuite.yml) |
+| 2053 | fuite | Flucht; Leck | 41 |  | [Bearbeiten](cards/2053_fuite.yml) |
 | 2054 | conviction | Überzeugung | 23 |  | [Bearbeiten](cards/2054_conviction.yml) |
 | 2055 | nettement | deutlich, unmissverständlich | 18 |  | [Bearbeiten](cards/2055_nettement.yml) |
 | 2056 | détenir | besitzen, festnehmen | 22 |  | [Bearbeiten](cards/2056_détenir.yml) |
@@ -2610,7 +2610,7 @@ Insgesamt gibt es 5000 Karten mit 150.010 Beispielsätzen (durchschnittlich 30.0
 | 2570 | pacte | Pakt | 18 |  | [Bearbeiten](cards/2570_pacte.yml) |
 | 2571 | suspect | verdächtig | 25 | X | [Bearbeiten](cards/2571_suspect.yml) |
 | 2572 | lent | langsam | 27 | X | [Bearbeiten](cards/2572_lent.yml) |
-| 2573 | assistance | Hilfe, Unterstützung | 29 |  | [Bearbeiten](cards/2573_assistance.yml) |
+| 2573 | assistance | Hilfe; Publikum | 29 |  | [Bearbeiten](cards/2573_assistance.yml) |
 | 2574 | négliger | vernachlässigen | 28 |  | [Bearbeiten](cards/2574_négliger.yml) |
 | 2575 | injuste | ungerecht | 17 |  | [Bearbeiten](cards/2575_injuste.yml) |
 | 2576 | plaider | plädieren | 30 |  | [Bearbeiten](cards/2576_plaider.yml) |
@@ -2713,7 +2713,7 @@ Insgesamt gibt es 5000 Karten mit 150.010 Beispielsätzen (durchschnittlich 30.0
 | 2673 | compromis | Kompromiss | 15 |  | [Bearbeiten](cards/2673_compromis.yml) |
 | 2674 | investisseur | Investor | 14 |  | [Bearbeiten](cards/2674_investisseur.yml) |
 | 2675 | présumer | vermuten, annehmen | 23 | X | [Bearbeiten](cards/2675_présumer.yml) |
-| 2676 | abandon | Aufgabe, Verlassen | 32 |  | [Bearbeiten](cards/2676_abandon.yml) |
+| 2676 | abandon | Aufgabe, Verlassen | 31 |  | [Bearbeiten](cards/2676_abandon.yml) |
 | 2677 | identique | identisch | 22 |  | [Bearbeiten](cards/2677_identique.yml) |
 | 2678 | exploser | explodieren, platzen | 27 |  | [Bearbeiten](cards/2678_exploser.yml) |
 | 2679 | mensonge | Lüge | 23 |  | [Bearbeiten](cards/2679_mensonge.yml) |
@@ -3138,11 +3138,11 @@ Insgesamt gibt es 5000 Karten mit 150.010 Beispielsätzen (durchschnittlich 30.0
 | 3098 | vingtaine | etwa zwanzig | 14 |  | [Bearbeiten](cards/3098_vingtaine.yml) |
 | 3099 | séquence | Sequenz, Abfolge | 18 |  | [Bearbeiten](cards/3099_séquence.yml) |
 | 3100 | musicien | Musiker | 16 |  | [Bearbeiten](cards/3100_musicien.yml) |
-| 3101 | routier | Berufskraftfahrer | 23 | X | [Bearbeiten](cards/3101_routier.yml) |
-| 3102 | embrasser | küssen, umarmen | 31 | X | [Bearbeiten](cards/3102_embrasser.yml) |
-| 3103 | échéance | Fälligkeitstermin | 24 |  | [Bearbeiten](cards/3103_échéance.yml) |
+| 3101 | routier | Fernfahrer; Straßen- | 23 | X | [Bearbeiten](cards/3101_routier.yml) |
+| 3102 | embrasser | küssen, (umarmen) | 31 | X | [Bearbeiten](cards/3102_embrasser.yml) |
+| 3103 | échéance | Fälligkeit | 24 |  | [Bearbeiten](cards/3103_échéance.yml) |
 | 3104 | surplus | Überschuss | 18 |  | [Bearbeiten](cards/3104_surplus.yml) |
-| 3105 | prématuré | vorzeitig, frühzeitig | 20 |  | [Bearbeiten](cards/3105_prématuré.yml) |
+| 3105 | prématuré | vorzeitig, verfrüht | 20 |  | [Bearbeiten](cards/3105_prématuré.yml) |
 | 3106 | décrocher | abnehmen, abheben, auflegen | 35 |  | [Bearbeiten](cards/3106_décrocher.yml) |
 | 3107 | rembourser | zurückzahlen, erstatten | 20 |  | [Bearbeiten](cards/3107_rembourser.yml) |
 | 3108 | adhérer | beitreten, zustimmen | 19 |  | [Bearbeiten](cards/3108_adhérer.yml) |
@@ -3542,7 +3542,7 @@ Insgesamt gibt es 5000 Karten mit 150.010 Beispielsätzen (durchschnittlich 30.0
 | 3502 | toile | Leinwand, Netz, Bildschirm | 33 |  | [Bearbeiten](cards/3502_toile.yml) |
 | 3503 | laver | waschen | 51 |  | [Bearbeiten](cards/3503_laver.yml) |
 | 3504 | empreinte | Abdruck, Spur | 24 |  | [Bearbeiten](cards/3504_empreinte.yml) |
-| 3505 | faillir | beinahe etwas tun, fast etwas tun | 19 |  | [Bearbeiten](cards/3505_faillir.yml) |
+| 3505 | faillir | fast etwas tun; versagen | 19 |  | [Bearbeiten](cards/3505_faillir.yml) |
 | 3506 | curiosité | Neugier | 24 |  | [Bearbeiten](cards/3506_curiosité.yml) |
 | 3507 | passeport | Reisepass | 16 |  | [Bearbeiten](cards/3507_passeport.yml) |
 | 3508 | creux | Vertiefung, Mulde | 61 |  | [Bearbeiten](cards/3508_creux.yml) |
@@ -3986,7 +3986,7 @@ Insgesamt gibt es 5000 Karten mit 150.010 Beispielsätzen (durchschnittlich 30.0
 | 3946 | transitoire | vorübergehend | 15 |  | [Bearbeiten](cards/3946_transitoire.yml) |
 | 3947 | tardif | spät | 17 |  | [Bearbeiten](cards/3947_tardif.yml) |
 | 3948 | prédécesseur | Vorgänger | 13 |  | [Bearbeiten](cards/3948_prédécesseur.yml) |
-| 3949 | natal | weihnachtlich | 15 |  | [Bearbeiten](cards/3949_natal.yml) |
+| 3949 | natal | Geburts- | 15 |  | [Bearbeiten](cards/3949_natal.yml) |
 | 3950 | humour | Humor | 17 |  | [Bearbeiten](cards/3950_humour.yml) |
 | 3951 | défaillance | Ausfall, Versagen | 27 |  | [Bearbeiten](cards/3951_défaillance.yml) |
 | 3952 | hélas | leider, bedauerlicherweise | 14 |  | [Bearbeiten](cards/3952_hélas.yml) |
@@ -4193,7 +4193,7 @@ Insgesamt gibt es 5000 Karten mit 150.010 Beispielsätzen (durchschnittlich 30.0
 | 4153 | poudre | Pulver | 34 |  | [Bearbeiten](cards/4153_poudre.yml) |
 | 4154 | teneur | Gehalt, Inhalt | 18 |  | [Bearbeiten](cards/4154_teneur.yml) |
 | 4155 | inverser | umkehren, vertauschen | 21 |  | [Bearbeiten](cards/4155_inverser.yml) |
-| 4156 | naval | maritim, See- | 19 |  | [Bearbeiten](cards/4156_naval.yml) |
+| 4156 | naval | See-, Schiff- | 19 |  | [Bearbeiten](cards/4156_naval.yml) |
 | 4157 | dérive | Treibgut, Abdrift, Abweichung | 22 |  | [Bearbeiten](cards/4157_dérive.yml) |
 | 4158 | mécontent | unzufrieden | 19 |  | [Bearbeiten](cards/4158_mécontent.yml) |
 | 4159 | vocabulaire | Wortschatz | 21 |  | [Bearbeiten](cards/4159_vocabulaire.yml) |

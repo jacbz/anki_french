@@ -124,9 +124,7 @@ function refreshExampleSentences() {
       sentence: frenchFirst
         ? processText(de, false, false)
         : processText(fr, true, false),
-      sentenceToRead: options.autoPlaySentenceOnClozeFinishInGerman
-        ? processText(de, false, false)
-        : processText(fr, true, false),
+      sentenceToRead: processText(fr, true, false),
       gameContainer,
       isGerman: frenchFirst,
       showOverlay: false
