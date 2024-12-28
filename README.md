@@ -34,7 +34,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 150.009 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1137 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 150.009 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1140 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -1304,7 +1304,7 @@ Insgesamt gibt es 5000 Karten mit 150.009 Beispielsätzen (durchschnittlich 30.0
 | 1264 | facteur | Briefträger; Faktor | 30 | X | [Bearbeiten](cards/1264_facteur.yml) |
 | 1265 | policier | Polizist | 21 |  | [Bearbeiten](cards/1265_policier.yml) |
 | 1266 | échelle | Leiter; Maßstab | 61 |  | [Bearbeiten](cards/1266_échelle.yml) |
-| 1267 | supplémentaire | zusätzlich | 18 |  | [Bearbeiten](cards/1267_supplémentaire.yml) |
+| 1267 | supplémentaire | zusätzlich, ergänzend | 18 |  | [Bearbeiten](cards/1267_supplémentaire.yml) |
 | 1268 | pratiquer | ausüben, praktizieren | 39 |  | [Bearbeiten](cards/1268_pratiquer.yml) |
 | 1269 | pensée | Gedanke | 59 |  | [Bearbeiten](cards/1269_pensée.yml) |
 | 1270 | extrême | äußerste/r/s, extrem | 51 | X | [Bearbeiten](cards/1270_extrême.yml) |
@@ -1600,7 +1600,7 @@ Insgesamt gibt es 5000 Karten mit 150.009 Beispielsätzen (durchschnittlich 30.0
 | 1560 | comparer | vergleichen | 25 |  | [Bearbeiten](cards/1560_comparer.yml) |
 | 1561 | procès | Prozess, Gerichtsverfahren | 34 |  | [Bearbeiten](cards/1561_procès.yml) |
 | 1562 | provenir | stammen, herkommen | 19 |  | [Bearbeiten](cards/1562_provenir.yml) |
-| 1563 | réellement | wirklich, tatsächlich | 16 |  | [Bearbeiten](cards/1563_réellement.yml) |
+| 1563 | réellement | tatsächlich, wirklich | 16 |  | [Bearbeiten](cards/1563_réellement.yml) |
 | 1564 | conscient | bewusst | 23 |  | [Bearbeiten](cards/1564_conscient.yml) |
 | 1565 | céder | nachgeben, abtreten | 40 |  | [Bearbeiten](cards/1565_céder.yml) |
 | 1566 | médical | medizinisch | 16 |  | [Bearbeiten](cards/1566_médical.yml) |
@@ -1723,7 +1723,7 @@ Insgesamt gibt es 5000 Karten mit 150.009 Beispielsätzen (durchschnittlich 30.0
 | 1683 | interpréter | interpretieren | 25 |  | [Bearbeiten](cards/1683_interpréter.yml) |
 | 1684 | annuel | jährlich | 18 |  | [Bearbeiten](cards/1684_annuel.yml) |
 | 1685 | commentaire | Kommentar | 24 |  | [Bearbeiten](cards/1685_commentaire.yml) |
-| 1686 | marier | heiraten | 34 | X | [Bearbeiten](cards/1686_marier.yml) |
+| 1686 | marier | heiraten; trauen | 34 | X | [Bearbeiten](cards/1686_marier.yml) |
 | 1687 | spectacle | Spektakel, Vorstellung | 31 |  | [Bearbeiten](cards/1687_spectacle.yml) |
 | 1688 | pari | Wette | 22 |  | [Bearbeiten](cards/1688_pari.yml) |
 | 1689 | célèbre | berühmt | 17 |  | [Bearbeiten](cards/1689_célèbre.yml) |
@@ -3152,7 +3152,7 @@ Insgesamt gibt es 5000 Karten mit 150.009 Beispielsätzen (durchschnittlich 30.0
 | 3112 | retomber | (wieder) hinfallen, aufkommen | 50 |  | [Bearbeiten](cards/3112_retomber.yml) |
 | 3113 | pourvoir | versorgen, ausstatten | 36 |  | [Bearbeiten](cards/3113_pourvoir.yml) |
 | 3114 | systématique | systematisch, immer | 20 |  | [Bearbeiten](cards/3114_systématique.yml) |
-| 3115 | véritablement | wirklich, tatsächlich | 14 |  | [Bearbeiten](cards/3115_véritablement.yml) |
+| 3115 | véritablement | wirklich, wahrhaftig | 14 | X | [Bearbeiten](cards/3115_véritablement.yml) |
 | 3116 | parallèlement | parallel, nebeneinander | 16 |  | [Bearbeiten](cards/3116_parallèlement.yml) |
 | 3117 | légume | Gemüse | 20 | X | [Bearbeiten](cards/3117_légume.yml) |
 | 3118 | francophone | französischsprachig | 16 |  | [Bearbeiten](cards/3118_francophone.yml) |
@@ -3163,17 +3163,17 @@ Insgesamt gibt es 5000 Karten mit 150.009 Beispielsätzen (durchschnittlich 30.0
 | 3123 | prévaloir | vorherrschen, durchsetzen | 23 |  | [Bearbeiten](cards/3123_prévaloir.yml) |
 | 3124 | sixième | sechste(-r/s) | 21 |  | [Bearbeiten](cards/3124_sixième.yml) |
 | 3125 | enveloppe | Umschlag, Hülle | 31 |  | [Bearbeiten](cards/3125_enveloppe.yml) |
-| 3126 | extension | Ausdehnung, Erweiterung | 29 |  | [Bearbeiten](cards/3126_extension.yml) |
+| 3126 | extension | (Aus-)dehnung, Erweiterung | 29 |  | [Bearbeiten](cards/3126_extension.yml) |
 | 3127 | effondrer | zusammenbrechen, einstürzen | 26 |  | [Bearbeiten](cards/3127_effondrer.yml) |
 | 3128 | apprêter | zubereiten, herrichten | 22 |  | [Bearbeiten](cards/3128_apprêter.yml) |
 | 3129 | anonyme | anonym | 21 |  | [Bearbeiten](cards/3129_anonyme.yml) |
 | 3130 | cibler | anvisieren, zielen auf | 15 |  | [Bearbeiten](cards/3130_cibler.yml) |
-| 3131 | additionnel | zusätzlich | 13 |  | [Bearbeiten](cards/3131_additionnel.yml) |
+| 3131 | additionnel | zusätzlich, Zusatz- | 13 | X | [Bearbeiten](cards/3131_additionnel.yml) |
 | 3132 | excès | Überschuss, Exzess | 41 |  | [Bearbeiten](cards/3132_excès.yml) |
 | 3133 | douzaine | Dutzend | 18 |  | [Bearbeiten](cards/3133_douzaine.yml) |
 | 3134 | turc | Türke | 23 | X | [Bearbeiten](cards/3134_turc.yml) |
 | 3135 | incertain | unsicher, ungewiss | 31 |  | [Bearbeiten](cards/3135_incertain.yml) |
-| 3136 | épouser | heiraten | 22 |  | [Bearbeiten](cards/3136_épouser.yml) |
+| 3136 | épouser | heiraten | 22 | X | [Bearbeiten](cards/3136_épouser.yml) |
 | 3137 | consensus | Konsens | 13 |  | [Bearbeiten](cards/3137_consensus.yml) |
 | 3138 | chat | Katze | 50 | X | [Bearbeiten](cards/3138_chat.yml) |
 | 3139 | avertissement | Warnung, Hinweis | 22 |  | [Bearbeiten](cards/3139_avertissement.yml) |

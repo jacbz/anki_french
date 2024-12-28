@@ -7,7 +7,7 @@ Wortart: adv
 Wort mit Artikel: véritablement
 Femininum / Plural: ''
 IPA: \ve.ʁi.ta.blə.mɑ̃\
-Definition: wirklich, tatsächlich
+Definition: wirklich, wahrhaftig
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -60,4 +60,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>réellement</i> und <i>véritablement</i></div>
+    <div class="section-content">
+      <p><span class="fr">Réellement</span> (#1563) betont die konkrete Realität oder Existenz von etwas. Es wird häufig verwendet, um den Gegensatz zwischen dem Realen und dem Imaginären oder Hypothetischen hervorzuheben.</p>
+      <div class="examples">
+        <div class="fr">Est-ce que cela s'est réellement passé?</div>
+        <div class="de spoiler">Ist das wirklich passiert?</div>
+        <div class="fr">Je ne sais pas s'il est réellement malade ou s'il fait semblant.</div>
+        <div class="de spoiler">Ich weiß nicht, ob er wirklich krank ist oder nur so tut.</div>
+      </div>
+
+      <p><span class="fr">Véritablement</span> bezieht sich eher auf die Wahrhaftigkeit oder Authentizität einer Sache. Es wird oft verwendet, um die Echtheit oder die tiefere Wahrheit einer Situation zu betonen.</p>
+      <div class="examples">
+        <div class="fr">C'est un artiste véritablement talentueux.</div>
+        <div class="de spoiler">Er ist ein wahrhaft talentierter Künstler.</div>
+        <div class="fr">Elle est véritablement passionnée par son travail.</div>
+        <div class="de spoiler">Sie ist wahrhaftig von ihrer Arbeit begeistert.</div>
+      </div>
+    </div>
+  </div>

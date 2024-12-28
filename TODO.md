@@ -1,8 +1,5 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
-* wirklich, tatsächlich: [réellement](cards/1563_réellement.yml) (#1563), [véritablement](cards/3115_véritablement.yml) (#3115)
-* zusätzlich: [supplémentaire](cards/1267_supplémentaire.yml) (#1267), [additionnel](cards/3131_additionnel.yml) (#3131)
-* heiraten: [marier](cards/1686_marier.yml) (#1686), [épouser](cards/3136_épouser.yml) (#3136)
 * Überschuss: [surplus](cards/3104_surplus.yml) (#3104), [excédent](cards/3140_excédent.yml) (#3140)
 * manchmal: [parfois](cards/0410_parfois.yml) (#410), [quelquefois](cards/3170_quelquefois.yml) (#3170)
 * Erlaubnis: [autorisation](cards/1649_autorisation.yml) (#1649), [permission](cards/3183_permission.yml) (#3183)
