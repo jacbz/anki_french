@@ -7,7 +7,7 @@ Wortart: nf
 Wort mit Artikel: une ampleur
 Femininum / Plural: ''
 IPA: \ɑ̃.plœʁ\
-Definition: (Reich-)weite, Ausmaß
+Definition: Ausmaß, Umfang
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -75,4 +75,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>ampleur</i> und <i>portée</i></div>
+    <div class="section-content">
+      <p><span class="fr">Ampleur</span> bezieht sich auf <span class="de">"Ausmaß"</span> oder <span class="de">"Umfang"</span> im Sinne der physischen oder konzeptionellen Größe. Es beschreibt die Dimension oder Bedeutsamkeit von etwas, oft mit einer Konnotation von Eindrücklichkeit.</p>
+      <div class="examples">
+        <div class="fr">Personne n'avait prévu l'ampleur de la catastrophe.</div>
+        <div class="de spoiler">Niemand hatte das Ausmaß der Katastrophe vorhergesehen.</div>
+        <div class="fr">Le projet a pris une ampleur considérable.</div>
+        <div class="de spoiler">Das Projekt hat einen beträchtlichen Umfang angenommen.</div>
+      </div>
+      <p><span class="fr">Portée</span> (#1067) bedeutet <span class="de">"Reichweite"</span> oder <span class="de">"Tragweite"</span> und bezieht sich auf die Auswirkungen oder den Einflussbereich von etwas. Es beschreibt, wie weit sich die Konsequenzen oder der Einfluss einer Sache erstrecken.</p>
+      <div class="examples">
+        <div class="fr">Cette décision aura une portée internationale.</div>
+        <div class="de spoiler">Diese Entscheidung wird internationale Tragweite haben.</div>
+        <div class="fr">La portée de ses recherches dépasse le cadre universitaire.</div>
+        <div class="de spoiler">Die Reichweite seiner Forschung geht über den akademischen Rahmen hinaus.</div>
+      </div>
+    </div>
+  </div>
