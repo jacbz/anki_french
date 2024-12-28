@@ -64,6 +64,7 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * Auswirkung, Folge: [répercussion](cards/3627_répercussion.yml) (#3627), [retombée](cards/4618_retombée.yml) (#4618)
 * unterscheiden: [distinguer](cards/1807_distinguer.yml) (#1807), [différencier](cards/4620_différencier.yml) (#4620)
 * beschuldigen: [accuser](cards/1147_accuser.yml) (#1147), [inculper](cards/4638_inculper.yml) (#4638)
+* vollständig, total: [totalement](cards/1353_totalement.yml) (#1353), [intégral](cards/4641_intégral.yml) (#4641)
 * unerträglich: [insupportable](cards/4484_insupportable.yml) (#4484), [intolérable](cards/4664_intolérable.yml) (#4664)
 * Bauer: [paysan](cards/2317_paysan.yml) (#2317), [fermier](cards/4685_fermier.yml) (#4685)
 * beeinflussen: [influencer](cards/2498_influencer.yml) (#2498), [influer](cards/4690_influer.yml) (#4690)
