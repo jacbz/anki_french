@@ -7,7 +7,7 @@ Wortart: adj
 Wort mit Artikel: additionnel
 Femininum / Plural: additionnelle
 IPA: \a.di.sjɔ.nɛl\
-Definition: zusätzlich
+Definition: zusätzlich, Zusatz-
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -57,4 +57,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>supplémentaire</i> und <i>additionnel</i></div>
+    <div class="section-content">
+      <p><span class="fr">Supplémentaire</span> (#1267) bedeutet <span class="de">"zusätzlich"</span> im Sinne von etwas, das zu einem bereits vollständigen Ganzen hinzugefügt wird. Es impliziert oft etwas Ergänzendes oder Extras, die über das Normale oder Erwartete hinausgehen.</p>
+      <div class="examples">
+        <div class="fr">Il demande des heures supplémentaires pour finir le projet.</div>
+        <div class="de spoiler">Er beantragt Überstunden, um das Projekt fertigzustellen.</div>
+        <div class="fr">Nous avons besoin d'une chambre supplémentaire pour les invités.</div>
+        <div class="de spoiler">Wir brauchen ein zusätzliches Zimmer für die Gäste.</div>
+      </div>
+      <p><span class="fr">Additionnel</span> bedeutet ebenfalls <span class="de">"zusätzlich"</span>, wird aber eher im technischen oder formellen Kontext verwendet. Es betont den Aspekt des Hinzufügens oder der Akkumulation und wird häufig in geschäftlichen oder administrativen Zusammenhängen gebraucht.</p>
+      <div class="examples">
+        <div class="fr">Des coûts additionnels seront facturés pour ce service.</div>
+        <div class="de spoiler">Zusätzliche Kosten werden für diese Dienstleistung in Rechnung gestellt.</div>
+        <div class="fr">Le contrat comporte une clause additionnelle.</div>
+        <div class="de spoiler">Der Vertrag enthält eine zusätzliche Klausel.</div>
+      </div>
+    </div>
+  </div>
