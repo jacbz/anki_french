@@ -4,7 +4,7 @@ Wort: après-midi
 Wortart: nmf, adv
 
 # Diese Felder gerne verbessern!
-Wort mit Artikel: l’après-midi
+Wort mit Artikel: un après-midi
 Femininum / Plural: ''
 IPA: \a.pʁɛ.mi.di\
 Definition: Nachmittag
@@ -75,4 +75,32 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: <grammar data-id="Zeit"></grammar>
+Notiz: |-
+  <div class="section">
+    <div class="section-title">Das Genus von <i>après-midi</i></div>
+    <div class="section-content">
+      <p><span class="fr">Après-midi</span> kann sowohl maskulin als auch feminin verwendet werden, wobei es feine Bedeutungs- und Stilunterschiede gibt.</p>
+      <p><span class="fr">un après-midi</span> wird von der <i>Académie française</i> aus zwei Gründen bevorzugt:</p>
+      <ul>
+        <li>Es ist die gebräuchlichere Form im alltäglichen Gebrauch.</li>
+        <li>Da das Wort <span class="fr">midi</span> maskulin ist, wird dieses Genus logischerweise im zusammengesetzten Wort beibehalten.</li>
+      </ul>
+      <p><span class="fr">une après-midi</span> wird in zwei Hauptkontexten verwendet:</p>
+      <ul>
+        <li>Um die Dauer zu betonen, ähnlich wie bei <span class="fr">matinée</span> (der Morgen) vs. <span class="fr">matin</span> oder <span class="fr">soirée</span> (der Abend) vs. <span class="fr">soir</span>:</li>
+        <div class="examples">
+          <div class="fr">Je t'ai attendu toute l'après-midi!</div>
+          <div class="de spoiler">Ich habe den ganzen Nachmittag auf dich gewartet!</div>
+        </div>
+        <li>In der literarischen und poetischen Sprache, wie bei Zola:</li>
+        <div class="examples">
+          <div class="fr">Par une après-midi grise et douce de novembre.</div>
+          <div class="de spoiler">An einem grauen und milden Novembernachmittag.</div>
+        </div>
+      </ul>
+      <ul>
+      </ul>
+      <p>Wichtig zu beachten ist: Beide Formen sind korrekt, aber die Wahl des Genus kann subtile Bedeutungsunterschiede vermitteln.</p>
+    </div>
+  </div>
+  <grammar data-id="Zeit"></grammar>
