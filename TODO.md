@@ -56,7 +56,6 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * angemessen, passend: [adéquat](cards/3525_adéquat.yml) (#3525), [approprié](cards/3591_approprié.yml) (#3591), [convenable](cards/4410_convenable.yml) (#4410)
 * Auto: [voiture](cards/0881_voiture.yml) (#881), [auto](cards/4494_auto.yml) (#4494)
 * Waffenstillstand: [trêve](cards/4455_trêve.yml) (#4455), [cessez-le-feu](cards/4505_cessez-le-feu.yml) (#4505)
-* arbeiten: [travailler](cards/0290_travailler.yml) (#290), [bosser](cards/4532_bosser.yml) (#4532)
 * Wunder: [miracle](cards/2638_miracle.yml) (#2638), [merveille](cards/4545_merveille.yml) (#4545)
 * Auswirkung, Folge: [répercussion](cards/3627_répercussion.yml) (#3627), [retombée](cards/4618_retombée.yml) (#4618)
 * unterscheiden: [distinguer](cards/1807_distinguer.yml) (#1807), [différencier](cards/4620_différencier.yml) (#4620)
