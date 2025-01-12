@@ -34,7 +34,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 150.011 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1140 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 150.011 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1141 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -474,7 +474,7 @@ Insgesamt gibt es 5000 Karten mit 150.011 Beispielsätzen (durchschnittlich 30.0
 | 434 | page | (Buch-)seite | 46 |  | [Bearbeiten](cards/0434_page.yml) |
 | 435 | confiance | Vertrauen | 34 |  | [Bearbeiten](cards/0435_confiance.yml) |
 | 436 | choix | Wahl | 36 |  | [Bearbeiten](cards/0436_choix.yml) |
-| 437 | prévoir | voraussehen, vorsehen | 33 |  | [Bearbeiten](cards/0437_prévoir.yml) |
+| 437 | prévoir | vorhersehen | 33 |  | [Bearbeiten](cards/0437_prévoir.yml) |
 | 438 | chance | Glück, Chance | 40 |  | [Bearbeiten](cards/0438_chance.yml) |
 | 439 | notamment | vor allem, insbesondere | 14 |  | [Bearbeiten](cards/0439_notamment.yml) |
 | 440 | type | Typ | 42 |  | [Bearbeiten](cards/0440_type.yml) |
@@ -2906,7 +2906,7 @@ Insgesamt gibt es 5000 Karten mit 150.011 Beispielsätzen (durchschnittlich 30.0
 | 2866 | découler | sich ergeben, folgen | 14 |  | [Bearbeiten](cards/2866_découler.yml) |
 | 2867 | décisif | entscheidend, ausschlaggebend | 19 |  | [Bearbeiten](cards/2867_décisif.yml) |
 | 2868 | piège | Falle | 24 |  | [Bearbeiten](cards/2868_piège.yml) |
-| 2869 | prédire | vorhersagen, voraussagen | 16 |  | [Bearbeiten](cards/2869_prédire.yml) |
+| 2869 | prédire | vorhersagen | 16 | X | [Bearbeiten](cards/2869_prédire.yml) |
 | 2870 | enterrer | begraben | 33 |  | [Bearbeiten](cards/2870_enterrer.yml) |
 | 2871 | refuge | Zuflucht | 25 |  | [Bearbeiten](cards/2871_refuge.yml) |
 | 2872 | recouvrir | bedecken, überziehen | 29 | X | [Bearbeiten](cards/2872_recouvrir.yml) |
@@ -3058,7 +3058,7 @@ Insgesamt gibt es 5000 Karten mit 150.011 Beispielsätzen (durchschnittlich 30.0
 | 3018 | structurel | strukturell | 13 |  | [Bearbeiten](cards/3018_structurel.yml) |
 | 3019 | dispenser | befreien, anbieten; ausnehmen | 29 |  | [Bearbeiten](cards/3019_dispenser.yml) |
 | 3020 | copain | Kumpel, Freund | 22 | X | [Bearbeiten](cards/3020_copain.yml) |
-| 3021 | aligner | ausrichten, anordnen | 34 |  | [Bearbeiten](cards/3021_aligner.yml) |
+| 3021 | aligner | angleichen, aufreihen | 34 |  | [Bearbeiten](cards/3021_aligner.yml) |
 | 3022 | absorber | aufnehmen, absorbieren | 29 |  | [Bearbeiten](cards/3022_absorber.yml) |
 | 3023 | compagnon | Gefährte | 22 | X | [Bearbeiten](cards/3023_compagnon.yml) |
 | 3024 | déroulement | Ablauf, Verlauf | 21 |  | [Bearbeiten](cards/3024_déroulement.yml) |
@@ -3209,9 +3209,9 @@ Insgesamt gibt es 5000 Karten mit 150.011 Beispielsätzen (durchschnittlich 30.0
 | 3169 | allumer | anzünden, einschalten | 42 |  | [Bearbeiten](cards/3169_allumer.yml) |
 | 3170 | quelquefois | manchmal | 13 |  | [Bearbeiten](cards/3170_quelquefois.yml) |
 | 3171 | disperser | verstreuen, zerstreuen | 32 |  | [Bearbeiten](cards/3171_disperser.yml) |
-| 3172 | déchirer | zerreißen, zerreissen | 41 |  | [Bearbeiten](cards/3172_déchirer.yml) |
-| 3173 | mépris | Verachtung | 20 |  | [Bearbeiten](cards/3173_mépris.yml) |
-| 3174 | échantillon | Stichprobe, Muster | 26 |  | [Bearbeiten](cards/3174_échantillon.yml) |
+| 3172 | déchirer | zerreißen, aufreißen | 41 |  | [Bearbeiten](cards/3172_déchirer.yml) |
+| 3173 | mépris | Verachtung, Missachtung | 20 |  | [Bearbeiten](cards/3173_mépris.yml) |
+| 3174 | échantillon | (Stich-)probe, Muster | 26 |  | [Bearbeiten](cards/3174_échantillon.yml) |
 | 3175 | continuité | Kontinuität | 16 |  | [Bearbeiten](cards/3175_continuité.yml) |
 | 3176 | fichier | Datei | 34 |  | [Bearbeiten](cards/3176_fichier.yml) |
 | 3177 | conquête | Eroberung | 24 |  | [Bearbeiten](cards/3177_conquête.yml) |

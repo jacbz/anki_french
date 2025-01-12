@@ -7,7 +7,7 @@ Wortart: vt
 Wort mit Artikel: prédire
 Femininum / Plural: ''
 IPA: \pʁe.diʁ\
-Definition: vorhersagen, voraussagen
+Definition: vorhersagen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -66,4 +66,30 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>prédire</i> und <i>prévoir</i></div>
+    <div class="section-content">
+      <p><span class="fr">Prévoir</span> (#437) (wörtlich: <span class="de">"vorhersehen"</span>) wird für realistische, rationale oder wissenschaftliche Vorhersagen verwendet, die auf Berechnungen oder Statistiken basieren.</p>
+      <div class="examples">
+        <div class="fr">Les économistes prévoient une reprise économique.</div>
+        <div class="de spoiler">Die Ökonomen sehen eine wirtschaftliche Erholung voraus.</div>
+        <div class="fr">Elle prévoit avoir besoin d'aide.</div>
+        <div class="de spoiler">Sie sieht voraus, dass sie Hilfe brauchen wird.</div>
+      </div>
+
+      <p><span class="fr">Prédire</span> (wörtlich: <span class="de">"vorhersagen"</span>) impliziert zusätzlich eine Ankündigung und wird häufiger für intuitive, übernatürliche oder vorausahnende Vorhersagen verwendet.</p>
+      <div class="examples">
+        <div class="fr">Cette voyante prédit l'avenir.</div>
+        <div class="de spoiler">Diese Wahrsagerin sagt die Zukunft voraus.</div>
+        <div class="fr">Tous lui avaient prédit un brillant avenir.</div>
+        <div class="de spoiler">Alle hatten ihm eine glänzende Zukunft vorhergesagt.</div>
+      </div>
+
+      <p>In einigen Kontexten können beide Verben austauschbar sein, besonders wenn es um Prognosen auf Basis von Vermutungen oder Überlegungen geht:</p>
+      <div class="examples">
+        <div class="fr">Les experts prévoient/prédisent une crise économique.</div>
+        <div class="de spoiler">Die Experten sagen eine Wirtschaftskrise voraus.</div>
+      </div>
+    </div>
+  </div>
