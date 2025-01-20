@@ -7,7 +7,7 @@ Wortart: adv
 Wort mit Artikel: quelquefois
 Femininum / Plural: ''
 IPA: \kɛl.kə.fwa\
-Definition: manchmal
+Definition: manchmal, hin und wieder
 Register: ↗Fiktion ↘Sachtext ↘Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -57,4 +57,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>parfois</i> und <i>quelquefois</i></div>
+    <div class="section-content">
+      <p><span class="fr">Parfois</span> und <span class="fr">quelquefois</span> bedeuten beide <span class="de">"manchmal"</span> oder <span class="de">"gelegentlich"</span> und sind in den meisten Fällen austauschbar. Es gibt jedoch einen subtilen Unterschied in der Nuance:</p>
+
+      <p><span class="fr">Quelquefois</span> (wörtlich: <span class="de">"einige Male"</span>) impliziert eher zählbare, diskrete Ereignisse.</p>
+      <div class="examples">
+        <div class="fr">Je vais <u>quelquefois</u> au cinéma, peut-être deux ou trois fois par mois.</div>
+        <div class="de spoiler">Ich gehe <u>manchmal</u> ins Kino, vielleicht zwei- oder dreimal im Monat.</div>
+      </div>
+
+      <p><span class="fr">Parfois</span> (#410) deutet hingegen auf einen vageren, unbestimmteren oder kontinuierlicheren Zeitraum hin.</p>
+      <div class="examples">
+        <div class="fr">Il est <u>parfois</u> difficile de se concentrer quand il fait chaud.</div>
+        <div class="de spoiler">Es ist <u>manchmal</u> schwierig, sich zu konzentrieren, wenn es heiß ist.</div>
+        <div class="fr">La vie est <u>parfois</u> compliquée.</div>
+        <div class="de spoiler">Das Leben ist <u>manchmal</u> kompliziert.</div>
+      </div>
+    </div>
+  </div>
