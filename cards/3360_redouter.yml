@@ -7,7 +7,7 @@ Wortart: vt
 Wort mit Artikel: redouter
 Femininum / Plural: ''
 IPA: \ʁə.du.te\
-Definition: befürchten
+Definition: fürchten, befürchten
 Register: ↘Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -72,4 +72,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>redouter</i> und <i>craindre</i></div>
+    <div class="section-content">
+      <p><span class="fr">Craindre</span> (#500) bedeutet <span class="de">"fürchten"</span> im allgemeinen Sinne und kann sich auf konkrete oder abstrakte Ängste beziehen.</p>
+      <div class="examples">
+        <div class="fr">Il craint de perdre son emploi.</div>
+        <div class="de spoiler">Er fürchtet, seine Arbeit zu verlieren.</div>
+        <div class="fr">Elle craint les araignées.</div>
+        <div class="de spoiler">Sie fürchtet sich vor Spinnen.</div>
+      </div>
+      <p><span class="fr">Redouter</span> bedeutet ebenfalls <span class="de">"fürchten"</span>, impliziert aber eine intensivere Form der Angst. Es wird oft verwendet, wenn man etwas als besonders bedrohlich oder gefährlich empfindet.</p>
+      <div class="examples">
+        <div class="fr">Le médecin redoute des complications graves.</div>
+        <div class="de spoiler">Der Arzt befürchtet schwere Komplikationen.</div>
+        <div class="fr">Nous redoutons le pire pour l'avenir.</div>
+        <div class="de spoiler">Wir befürchten das Schlimmste für die Zukunft.</div>
+      </div>
+    </div>
+  </div>
