@@ -7,7 +7,7 @@ Wortart: nf
 Wort mit Artikel: la croyance
 Femininum / Plural: ''
 IPA: \kʁwa.jɑ̃s\
-Definition: Glaube
+Definition: Glaube, Überzeugung
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -73,9 +73,31 @@ Beispielsätze: |-
   Cette *croyance* est fondée sur des textes anciens.
   Dieser *Glaube* basiert auf alten Texten.
 
+  La *croyance* que je serai capable de faire face rapidement et de transférer tout avec dignité a disparu.
+  Die *Überzeugung*, dass ich schnell zurecht komme und alles mit Würde übertrage, ist verflogen.
+
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>foi</i> und <i>croyance</i></div>
+    <div class="section-content">
+      <p><span class="fr">Foi</span> (#1368) bedeutet <span class="de">"Glaube"</span> im Sinne von tiefem religiösem Glauben oder absolutem Vertrauen. Es impliziert eine starke emotionale und persönliche Bindung.</p>
+      <div class="examples">
+        <div class="fr">Sa foi en Dieu est inébranlable.</div>
+        <div class="de spoiler">Sein Glaube an Gott ist unerschütterlich.</div>
+        <div class="fr">J'ai foi en l'avenir.</div>
+        <div class="de spoiler">Ich habe Vertrauen in die Zukunft.</div>
+      </div>
+      <p><span class="fr">Croyance</span> bedeutet <span class="de">"Überzeugung"</span> oder <span class="de">"Glaube"</span> im allgemeineren Sinne. Es bezieht sich auf Vorstellungen oder Annahmen, die nicht unbedingt religiös sein müssen.</p>
+      <div class="examples">
+        <div class="fr">C'est une croyance populaire dans cette région.</div>
+        <div class="de spoiler">Das ist ein Volksglaube in dieser Region.</div>
+        <div class="fr">Ses croyances politiques ont évolué avec le temps.</div>
+        <div class="de spoiler">Seine politischen Überzeugungen haben sich im Laufe der Zeit entwickelt.</div>
+      </div>
+    </div>
+  </div>
