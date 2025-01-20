@@ -34,7 +34,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 150.002 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1141 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 150.023 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1147 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -537,7 +537,7 @@ Insgesamt gibt es 5000 Karten mit 150.002 Beispielsätzen (durchschnittlich 30.0
 | 497 | milliard | Milliarde | 16 | X | [Bearbeiten](cards/0497_milliard.yml) |
 | 498 | lier | verbinden, binden | 59 |  | [Bearbeiten](cards/0498_lier.yml) |
 | 499 | obliger | zwingen, verpflichten | 33 |  | [Bearbeiten](cards/0499_obliger.yml) |
-| 500 | craindre | befürchten | 45 |  | [Bearbeiten](cards/0500_craindre.yml) |
+| 500 | craindre | befürchten, Angst haben vor | 45 |  | [Bearbeiten](cards/0500_craindre.yml) |
 | 501 | passé | Vergangenheit | 42 | X | [Bearbeiten](cards/0501_passé.yml) |
 | 502 | âge | Alter | 61 |  | [Bearbeiten](cards/0502_âge.yml) |
 | 503 | déclarer | erklären, angeben | 44 | X | [Bearbeiten](cards/0503_déclarer.yml) |
@@ -1405,7 +1405,7 @@ Insgesamt gibt es 5000 Karten mit 150.002 Beispielsätzen (durchschnittlich 30.0
 | 1365 | soi | sich (selbst) | 36 |  | [Bearbeiten](cards/1365_soi.yml) |
 | 1366 | téléphone | Telefon | 29 |  | [Bearbeiten](cards/1366_téléphone.yml) |
 | 1367 | net | klar, deutlich | 61 |  | [Bearbeiten](cards/1367_net.yml) |
-| 1368 | foi | Glaube | 55 |  | [Bearbeiten](cards/1368_foi.yml) |
+| 1368 | foi | Glaube, Vertrauen | 55 |  | [Bearbeiten](cards/1368_foi.yml) |
 | 1369 | motif | Motiv, Grund | 25 |  | [Bearbeiten](cards/1369_motif.yml) |
 | 1370 | plaindre | bemitleiden; beschweren | 35 |  | [Bearbeiten](cards/1370_plaindre.yml) |
 | 1371 | tradition | Tradition | 24 |  | [Bearbeiten](cards/1371_tradition.yml) |
@@ -1686,7 +1686,7 @@ Insgesamt gibt es 5000 Karten mit 150.002 Beispielsätzen (durchschnittlich 30.0
 | 1646 | trente | dreißig | 28 | X | [Bearbeiten](cards/1646_trente.yml) |
 | 1647 | âme | Seele | 49 |  | [Bearbeiten](cards/1647_âme.yml) |
 | 1648 | dominer | beherrschen, dominieren | 42 |  | [Bearbeiten](cards/1648_dominer.yml) |
-| 1649 | autorisation | Erlaubnis | 25 |  | [Bearbeiten](cards/1649_autorisation.yml) |
+| 1649 | autorisation | Genehmigung, Erlaubnis | 25 |  | [Bearbeiten](cards/1649_autorisation.yml) |
 | 1650 | instrument | Instrument | 25 |  | [Bearbeiten](cards/1650_instrument.yml) |
 | 1651 | indépendance | Unabhängigkeit | 26 |  | [Bearbeiten](cards/1651_indépendance.yml) |
 | 1652 | tort | Unrecht, Fehler | 42 |  | [Bearbeiten](cards/1652_tort.yml) |
@@ -1780,7 +1780,7 @@ Insgesamt gibt es 5000 Karten mit 150.002 Beispielsätzen (durchschnittlich 30.0
 | 1740 | ouvrage | Werk, Bauwerk | 41 |  | [Bearbeiten](cards/1740_ouvrage.yml) |
 | 1741 | réputation | Ruf | 26 |  | [Bearbeiten](cards/1741_réputation.yml) |
 | 1742 | cabinet | Kabinett; Praxis | 35 |  | [Bearbeiten](cards/1742_cabinet.yml) |
-| 1743 | écart | Abweichung, Unterschied | 35 |  | [Bearbeiten](cards/1743_écart.yml) |
+| 1743 | écart | Unterschied, Abweichung | 35 |  | [Bearbeiten](cards/1743_écart.yml) |
 | 1744 | chien | Hund | 64 | X | [Bearbeiten](cards/1744_chien.yml) |
 | 1745 | surveillance | Überwachung | 27 |  | [Bearbeiten](cards/1745_surveillance.yml) |
 | 1746 | indispensable | unverzichtbar | 20 |  | [Bearbeiten](cards/1746_indispensable.yml) |
@@ -3141,7 +3141,7 @@ Insgesamt gibt es 5000 Karten mit 150.002 Beispielsätzen (durchschnittlich 30.0
 | 3101 | routier | Fernfahrer; Straßen- | 23 | X | [Bearbeiten](cards/3101_routier.yml) |
 | 3102 | embrasser | küssen, (umarmen) | 31 | X | [Bearbeiten](cards/3102_embrasser.yml) |
 | 3103 | échéance | Fälligkeit | 24 |  | [Bearbeiten](cards/3103_échéance.yml) |
-| 3104 | surplus | Überschuss | 18 |  | [Bearbeiten](cards/3104_surplus.yml) |
+| 3104 | surplus | Rest, Überschuss | 18 |  | [Bearbeiten](cards/3104_surplus.yml) |
 | 3105 | prématuré | vorzeitig, verfrüht | 20 |  | [Bearbeiten](cards/3105_prématuré.yml) |
 | 3106 | décrocher | abnehmen; ergattern | 35 |  | [Bearbeiten](cards/3106_décrocher.yml) |
 | 3107 | rembourser | zurückzahlen, erstatten | 20 |  | [Bearbeiten](cards/3107_rembourser.yml) |
@@ -3177,7 +3177,7 @@ Insgesamt gibt es 5000 Karten mit 150.002 Beispielsätzen (durchschnittlich 30.0
 | 3137 | consensus | Konsens | 13 |  | [Bearbeiten](cards/3137_consensus.yml) |
 | 3138 | chat | Katze | 50 | X | [Bearbeiten](cards/3138_chat.yml) |
 | 3139 | avertissement | (Ver-)warnung | 22 |  | [Bearbeiten](cards/3139_avertissement.yml) |
-| 3140 | excédent | Überschuss | 26 |  | [Bearbeiten](cards/3140_excédent.yml) |
+| 3140 | excédent | Überschuss, Über- | 26 | X | [Bearbeiten](cards/3140_excédent.yml) |
 | 3141 | mondialisation | Globalisierung | 12 |  | [Bearbeiten](cards/3141_mondialisation.yml) |
 | 3142 | conventionnel | konventionell | 20 |  | [Bearbeiten](cards/3142_conventionnel.yml) |
 | 3143 | unanimité | Einstimmigkeit | 15 |  | [Bearbeiten](cards/3143_unanimité.yml) |
@@ -3207,7 +3207,7 @@ Insgesamt gibt es 5000 Karten mit 150.002 Beispielsätzen (durchschnittlich 30.0
 | 3167 | usager | Benutzer, Kunde | 16 |  | [Bearbeiten](cards/3167_usager.yml) |
 | 3168 | musical | Musik- | 24 |  | [Bearbeiten](cards/3168_musical.yml) |
 | 3169 | allumer | anzünden, einschalten | 42 |  | [Bearbeiten](cards/3169_allumer.yml) |
-| 3170 | quelquefois | manchmal | 13 |  | [Bearbeiten](cards/3170_quelquefois.yml) |
+| 3170 | quelquefois | manchmal, hin und wieder | 13 | X | [Bearbeiten](cards/3170_quelquefois.yml) |
 | 3171 | disperser | verstreuen, zerstreuen | 32 |  | [Bearbeiten](cards/3171_disperser.yml) |
 | 3172 | déchirer | zerreißen, aufreißen | 41 |  | [Bearbeiten](cards/3172_déchirer.yml) |
 | 3173 | mépris | Verachtung, Missachtung | 20 |  | [Bearbeiten](cards/3173_mépris.yml) |
@@ -3220,7 +3220,7 @@ Insgesamt gibt es 5000 Karten mit 150.002 Beispielsätzen (durchschnittlich 30.0
 | 3180 | sincère | aufrichtig, ehrlich | 22 |  | [Bearbeiten](cards/3180_sincère.yml) |
 | 3181 | optique | Optik | 32 |  | [Bearbeiten](cards/3181_optique.yml) |
 | 3182 | maximal | maximal | 13 |  | [Bearbeiten](cards/3182_maximal.yml) |
-| 3183 | permission | Erlaubnis | 19 |  | [Bearbeiten](cards/3183_permission.yml) |
+| 3183 | permission | Erlaubnis | 19 | X | [Bearbeiten](cards/3183_permission.yml) |
 | 3184 | méchant | böse | 41 |  | [Bearbeiten](cards/3184_méchant.yml) |
 | 3185 | idéologie | Ideologie | 17 |  | [Bearbeiten](cards/3185_idéologie.yml) |
 | 3186 | interview | Interview | 12 |  | [Bearbeiten](cards/3186_interview.yml) |
@@ -3234,7 +3234,7 @@ Insgesamt gibt es 5000 Karten mit 150.002 Beispielsätzen (durchschnittlich 30.0
 | 3194 | motiver | begründen, motivieren | 19 |  | [Bearbeiten](cards/3194_motiver.yml) |
 | 3195 | plier | falten, biegen | 49 |  | [Bearbeiten](cards/3195_plier.yml) |
 | 3196 | homologue | Pendant, Gegenstück | 11 |  | [Bearbeiten](cards/3196_homologue.yml) |
-| 3197 | successif | aufeinanderfolgend | 14 |  | [Bearbeiten](cards/3197_successif.yml) |
+| 3197 | successif | aufeinanderfolgend | 26 |  | [Bearbeiten](cards/3197_successif.yml) |
 | 3198 | manifestement | (ganz) offensichtlich | 11 |  | [Bearbeiten](cards/3198_manifestement.yml) |
 | 3199 | olympique | olympisch | 23 |  | [Bearbeiten](cards/3199_olympique.yml) |
 | 3200 | littéralement | buchstäblich, (wort-)wörtlich | 14 |  | [Bearbeiten](cards/3200_littéralement.yml) |
@@ -3247,15 +3247,15 @@ Insgesamt gibt es 5000 Karten mit 150.002 Beispielsätzen (durchschnittlich 30.0
 | 3207 | nu | nackt | 56 |  | [Bearbeiten](cards/3207_nu.yml) |
 | 3208 | poignée | Griff | 26 |  | [Bearbeiten](cards/3208_poignée.yml) |
 | 3209 | abaisser | herabsetzen, senken | 35 |  | [Bearbeiten](cards/3209_abaisser.yml) |
-| 3210 | divergence | Abweichung, Unterschied | 14 |  | [Bearbeiten](cards/3210_divergence.yml) |
-| 3211 | restant | Rest | 20 |  | [Bearbeiten](cards/3211_restant.yml) |
+| 3210 | divergence | Abweichung, Diskrepanz | 15 |  | [Bearbeiten](cards/3210_divergence.yml) |
+| 3211 | restant | restlich, übrig; Rest | 20 |  | [Bearbeiten](cards/3211_restant.yml) |
 | 3212 | détention | Haft; Besitz | 26 |  | [Bearbeiten](cards/3212_détention.yml) |
 | 3213 | étouffer | ersticken | 54 |  | [Bearbeiten](cards/3213_étouffer.yml) |
 | 3214 | inscription | Anmeldung, Inschrift | 34 |  | [Bearbeiten](cards/3214_inscription.yml) |
 | 3215 | montée | Anstieg, Aufstieg | 30 | X | [Bearbeiten](cards/3215_montée.yml) |
 | 3216 | approvisionnement | Versorgung | 21 |  | [Bearbeiten](cards/3216_approvisionnement.yml) |
-| 3217 | municipalité | Gemeinde | 13 |  | [Bearbeiten](cards/3217_municipalité.yml) |
-| 3218 | consécutif | aufeinanderfolgend | 19 |  | [Bearbeiten](cards/3218_consécutif.yml) |
+| 3217 | municipalité | Gemeinde, Stadtverwaltung | 13 |  | [Bearbeiten](cards/3217_municipalité.yml) |
+| 3218 | consécutif | aufeinanderfolgend, in Folge | 26 | X | [Bearbeiten](cards/3218_consécutif.yml) |
 | 3219 | nuage | Wolke | 30 | X | [Bearbeiten](cards/3219_nuage.yml) |
 | 3220 | institutionnel | institutionell | 15 |  | [Bearbeiten](cards/3220_institutionnel.yml) |
 | 3221 | confédération | Bund, Vereinigung | 18 |  | [Bearbeiten](cards/3221_confédération.yml) |
@@ -3275,7 +3275,7 @@ Insgesamt gibt es 5000 Karten mit 150.002 Beispielsätzen (durchschnittlich 30.0
 | 3235 | décourager | entmutigen | 21 |  | [Bearbeiten](cards/3235_décourager.yml) |
 | 3236 | poussière | Staub | 35 | X | [Bearbeiten](cards/3236_poussière.yml) |
 | 3237 | fierté | Stolz | 20 |  | [Bearbeiten](cards/3237_fierté.yml) |
-| 3238 | épisode | Episode | 20 |  | [Bearbeiten](cards/3238_épisode.yml) |
+| 3238 | épisode | Episode, Folge | 20 |  | [Bearbeiten](cards/3238_épisode.yml) |
 | 3239 | détacher | lösen, abtrennen | 60 |  | [Bearbeiten](cards/3239_détacher.yml) |
 | 3240 | interface | Schnittstelle | 16 |  | [Bearbeiten](cards/3240_interface.yml) |
 | 3241 | administrateur | Administrator | 18 |  | [Bearbeiten](cards/3241_administrateur.yml) |
@@ -3297,7 +3297,7 @@ Insgesamt gibt es 5000 Karten mit 150.002 Beispielsätzen (durchschnittlich 30.0
 | 3257 | applaudir | klatschen, Beifall spenden | 22 |  | [Bearbeiten](cards/3257_applaudir.yml) |
 | 3258 | sucre | Zucker | 29 | X | [Bearbeiten](cards/3258_sucre.yml) |
 | 3259 | prioritaire | prioritär, vorrangig | 17 |  | [Bearbeiten](cards/3259_prioritaire.yml) |
-| 3260 | chair | Fleisch | 51 | X | [Bearbeiten](cards/3260_chair.yml) |
+| 3260 | chair | Fleisch, Fruchtfleisch, Leib | 51 | X | [Bearbeiten](cards/3260_chair.yml) |
 | 3261 | exécutif | Exekutive | 16 |  | [Bearbeiten](cards/3261_exécutif.yml) |
 | 3262 | compétent | kompetent | 18 |  | [Bearbeiten](cards/3262_compétent.yml) |
 | 3263 | sable | Sand | 36 | X | [Bearbeiten](cards/3263_sable.yml) |
@@ -3330,7 +3330,7 @@ Insgesamt gibt es 5000 Karten mit 150.002 Beispielsätzen (durchschnittlich 30.0
 | 3290 | silencieux | ruhig, still | 24 |  | [Bearbeiten](cards/3290_silencieux.yml) |
 | 3291 | continu | kontinuierlich, ununterbrochen | 42 |  | [Bearbeiten](cards/3291_continu.yml) |
 | 3292 | chantier | Baustelle | 21 |  | [Bearbeiten](cards/3292_chantier.yml) |
-| 3293 | croyance | Glaube | 20 |  | [Bearbeiten](cards/3293_croyance.yml) |
+| 3293 | croyance | Glaube, Überzeugung | 21 | X | [Bearbeiten](cards/3293_croyance.yml) |
 | 3294 | ennui | Langeweile | 24 |  | [Bearbeiten](cards/3294_ennui.yml) |
 | 3295 | pompier | Feuerwehrmann | 17 |  | [Bearbeiten](cards/3295_pompier.yml) |
 | 3296 | inspection | Inspektion, Kontrolle | 21 |  | [Bearbeiten](cards/3296_inspection.yml) |
@@ -3350,7 +3350,7 @@ Insgesamt gibt es 5000 Karten mit 150.002 Beispielsätzen (durchschnittlich 30.0
 | 3310 | brancher | anschließen, einstecken | 26 |  | [Bearbeiten](cards/3310_brancher.yml) |
 | 3311 | concession | Zugeständnis, Einräumung | 27 |  | [Bearbeiten](cards/3311_concession.yml) |
 | 3312 | mystérieux | geheimnisvoll | 21 |  | [Bearbeiten](cards/3312_mystérieux.yml) |
-| 3313 | assassinat | Mord | 14 |  | [Bearbeiten](cards/3313_assassinat.yml) |
+| 3313 | assassinat | Ermordung, Mord | 14 |  | [Bearbeiten](cards/3313_assassinat.yml) |
 | 3314 | rive | Ufer | 21 | X | [Bearbeiten](cards/3314_rive.yml) |
 | 3315 | tolérance | Toleranz | 25 |  | [Bearbeiten](cards/3315_tolérance.yml) |
 | 3316 | clarté | Klarheit, Helligkeit | 23 |  | [Bearbeiten](cards/3316_clarté.yml) |
@@ -3397,7 +3397,7 @@ Insgesamt gibt es 5000 Karten mit 150.002 Beispielsätzen (durchschnittlich 30.0
 | 3357 | cruel | grausam, brutal | 30 |  | [Bearbeiten](cards/3357_cruel.yml) |
 | 3358 | démission | Rücktritt | 17 |  | [Bearbeiten](cards/3358_démission.yml) |
 | 3359 | quatorze | vierzehn | 27 | X | [Bearbeiten](cards/3359_quatorze.yml) |
-| 3360 | redouter | befürchten | 18 |  | [Bearbeiten](cards/3360_redouter.yml) |
+| 3360 | redouter | fürchten, befürchten | 18 | X | [Bearbeiten](cards/3360_redouter.yml) |
 | 3361 | médaille | Medaille | 25 |  | [Bearbeiten](cards/3361_médaille.yml) |
 | 3362 | célibataire | single | 17 |  | [Bearbeiten](cards/3362_célibataire.yml) |
 | 3363 | impasse | Sackgasse | 19 |  | [Bearbeiten](cards/3363_impasse.yml) |
