@@ -7,7 +7,7 @@ Wortart: nf, adj
 Wort mit Artikel: la chair
 Femininum / Plural: ''
 IPA: \ʃɛʁ\
-Definition: Fleisch
+Definition: Fleisch, Fruchtfleisch, Leib
 Register: ↗Fiktion ↘Sachtext
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -133,8 +133,8 @@ Beispielsätze: |-
   Cette pêche a une *chair* jaune.
   Dieser Pfirsich hat gelbes *Fruchtfleisch*.
 
-  La *chair* du canard est plus grasse.
-  Das *Fleisch* der Ente ist fettiger.
+  Elles attirent les marins dans leur antre, par leur *chair* pâle.
+  Sie locken mit ihrer zarten *Haut* die Matrosen an.
 
   Les *chairs* du bébé étaient potelées.
   Das *Fleisch* des Babys war mollig.
@@ -163,12 +163,34 @@ Beispielsätze: |-
   Les *chairs* étaient représentées avec réalisme.
   Die *Fleischpartien* waren realistisch dargestellt.
 
-  La *chair* de l'agneau était tendre.
-  Das *Fleisch* vom Lamm war zart.
+  Les victimes souffrent dans leur propre *chair* d'une violence dirigée contre la société tout entière et contre les valeurs qu'elle représente.
+  Die Opfer erleben am eigenen *Leib* eine Form der Gewalt, die sich gegen die Gesellschaft als Ganzes und gegen ihre Werte richtet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: <grammar data-id="Körper"></grammar>
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>viande</i> und <i>chair</i></div>
+    <div class="section-content">
+      <p><span class="fr">Viande</span> (#2656) bedeutet <span class="de">"Fleisch"</span> im Sinne von Nahrung oder Lebensmittel. Es wird hauptsächlich für zum Verzehr bestimmtes Fleisch verwendet.</p>
+      <div class="examples">
+        <div class="fr">Je préfère la viande de bœuf.</div>
+        <div class="de spoiler">Ich bevorzuge Rindfleisch.</div>
+        <div class="fr">Il ne mange pas de viande.</div>
+        <div class="de spoiler">Er isst kein Fleisch.</div>
+      </div>
+      <p><span class="fr">Chair</span> bedeutet <span class="de">"Fleisch"</span> im anatomischen oder biologischen Sinne. Es bezeichnet das Fleisch oder Gewebe von lebenden Wesen und wird auch in übertragener Bedeutung verwendet.</p>
+      <div class="examples">
+        <div class="fr">La chair de poule</div>
+        <div class="de spoiler">Die Gänsehaut</div>
+        <div class="fr">Les plaisirs de la chair</div>
+        <div class="de spoiler">Die fleischlichen Gelüste</div>
+        <div class="fr">La chair du fruit est juteuse.</div>
+        <div class="de spoiler">Das Fruchtfleisch ist saftig.</div>
+      </div>
+    </div>
+  </div>
+  <grammar data-id="Körper"></grammar>
