@@ -7,7 +7,7 @@ Wortart: nm
 Wort mit Artikel: un excédent
 Femininum / Plural: ''
 IPA: \ɛk.se.dɑ̃\
-Definition: Überschuss
+Definition: Überschuss, Über-
 Register: ↘Fiktion
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -96,4 +96,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>surplus</i> und <i>excédent</i></div>
+    <div class="section-content">
+      <p><span class="fr">Surplus</span> bedeutet <span class="de">"Überschuss"</span> (#3104) und wird häufig im wirtschaftlichen Kontext verwendet. Es bezeichnet eine Menge, die über das Notwendige oder Erwartete hinausgeht.</p>
+      <div class="examples">
+        <div class="fr">Le surplus de production sera vendu à l'étranger.</div>
+        <div class="de spoiler">Der Produktionsüberschuss wird ins Ausland verkauft werden.</div>
+        <div class="fr">Il y a un surplus de personnel dans cette entreprise.</div>
+        <div class="de spoiler">Es gibt einen Personalüberschuss in diesem Unternehmen.</div>
+      </div>
+      <p><span class="fr">Excédent</span> bedeutet ebenfalls <span class="de">"Überschuss"</span>, wird aber technischer und formeller verwendet, besonders in der Buchhaltung und Verwaltung. Es bezeichnet die genaue Differenz zwischen zwei Werten.</p>
+      <div class="examples">
+        <div class="fr">L'excédent budgétaire atteint 2 millions d'euros.</div>
+        <div class="de spoiler">Der Haushaltsüberschuss beträgt 2 Millionen Euro.</div>
+        <div class="fr">Il y a un excédent de bagages de 5 kilos.</div>
+        <div class="de spoiler">Es gibt ein Übergepäck von 5 Kilogramm.</div>
+      </div>
+    </div>
+  </div>
