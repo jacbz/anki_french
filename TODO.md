@@ -71,6 +71,5 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * fangen, einfangen: [piéger](cards/4358_piéger.yml) (#4358), [capturer](cards/4921_capturer.yml) (#4921)
 * Golf: [golfe](cards/4024_golfe.yml) (#4024), [golf](cards/4936_golf.yml) (#4936)
 * folgen: [suivre](cards/0120_suivre.yml) (#120), [ensuivre](cards/4942_ensuivre.yml) (#4942)
-* verursachen: [causer](cards/1089_causer.yml) (#1089), [occasionner](cards/4958_occasionner.yml) (#4958)
 * lachen: [rire](cards/1193_rire.yml) (#1193), [rigoler](cards/4994_rigoler.yml) (#4994)
 * zusammenbrechen, einstürzen: [effondrer](cards/3127_effondrer.yml) (#3127), [écrouler](cards/5000_écrouler.yml) (#5000)
