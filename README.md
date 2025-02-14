@@ -34,7 +34,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 150.023 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1147 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 150.022 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1147 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -3233,7 +3233,7 @@ Insgesamt gibt es 5000 Karten mit 150.023 Beispielsätzen (durchschnittlich 30.0
 | 3193 | encouragement | Ermutigung | 18 |  | [Bearbeiten](cards/3193_encouragement.yml) |
 | 3194 | motiver | begründen, motivieren | 19 |  | [Bearbeiten](cards/3194_motiver.yml) |
 | 3195 | plier | falten, biegen | 49 |  | [Bearbeiten](cards/3195_plier.yml) |
-| 3196 | homologue | Pendant, Gegenstück | 11 |  | [Bearbeiten](cards/3196_homologue.yml) |
+| 3196 | homologue | Pendant, Gegenstück | 10 |  | [Bearbeiten](cards/3196_homologue.yml) |
 | 3197 | successif | aufeinanderfolgend | 26 |  | [Bearbeiten](cards/3197_successif.yml) |
 | 3198 | manifestement | (ganz) offensichtlich | 11 |  | [Bearbeiten](cards/3198_manifestement.yml) |
 | 3199 | olympique | olympisch | 23 |  | [Bearbeiten](cards/3199_olympique.yml) |
@@ -3389,12 +3389,12 @@ Insgesamt gibt es 5000 Karten mit 150.023 Beispielsätzen (durchschnittlich 30.0
 | 3349 | brièvement | kurz, knapp | 12 |  | [Bearbeiten](cards/3349_brièvement.yml) |
 | 3350 | actionnaire | Aktionär | 24 |  | [Bearbeiten](cards/3350_actionnaire.yml) |
 | 3351 | emprisonner | einsperren, inhaftieren | 20 |  | [Bearbeiten](cards/3351_emprisonner.yml) |
-| 3352 | raisonnement | Argumentation, Schlussfolgern | 21 |  | [Bearbeiten](cards/3352_raisonnement.yml) |
-| 3353 | monstre | Monster | 29 | X | [Bearbeiten](cards/3353_monstre.yml) |
-| 3354 | quai | Kai, Bahnsteig | 28 | X | [Bearbeiten](cards/3354_quai.yml) |
+| 3352 | raisonnement | Denkweise, Schlussfolgerung | 21 |  | [Bearbeiten](cards/3352_raisonnement.yml) |
+| 3353 | monstre | Ungeheuer | 29 | X | [Bearbeiten](cards/3353_monstre.yml) |
+| 3354 | quai | Bahnsteig; Kai | 28 | X | [Bearbeiten](cards/3354_quai.yml) |
 | 3355 | légende | Legende | 21 |  | [Bearbeiten](cards/3355_légende.yml) |
 | 3356 | spécialité | Spezialität | 22 | X | [Bearbeiten](cards/3356_spécialité.yml) |
-| 3357 | cruel | grausam, brutal | 30 |  | [Bearbeiten](cards/3357_cruel.yml) |
+| 3357 | cruel | grausam | 30 |  | [Bearbeiten](cards/3357_cruel.yml) |
 | 3358 | démission | Rücktritt | 17 |  | [Bearbeiten](cards/3358_démission.yml) |
 | 3359 | quatorze | vierzehn | 27 | X | [Bearbeiten](cards/3359_quatorze.yml) |
 | 3360 | redouter | fürchten, befürchten | 18 | X | [Bearbeiten](cards/3360_redouter.yml) |

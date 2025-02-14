@@ -17,6 +17,9 @@ function initClozeGame({
     gameContainer.appendChild(overlay);
   }
 
+  // remove HTML tags from sentence
+  sentence = sentence.replace(/<[^>]+>/g, "");
+
   const wordRegex = /([\p{L}0-9-()/]+[’']?|\*.+?\*)/gu;
   let words = Array.from(sentence.matchAll(wordRegex), (match) => match[0]);
 
