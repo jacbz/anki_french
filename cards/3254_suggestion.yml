@@ -66,4 +66,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>suggestion</i> und <i>proposition</i></div>
+    <div class="section-content">
+      <p><span class="fr">Suggestion</span> bezieht sich auf einen Vorschlag, der eher als Anregung oder Idee angeboten wird. Es impliziert oft einen sanfteren, weniger formellen Ansatz.</p>
+      <div class="examples">
+        <div class="fr">Avez-vous des suggestions pour améliorer notre service?</div>
+        <div class="de spoiler">Haben Sie Vorschläge zur Verbesserung unseres Service?</div>
+        <div class="fr">Je vous fais cette suggestion, mais c'est à vous de décider.</div>
+        <div class="de spoiler">Ich mache Ihnen diesen Vorschlag, aber die Entscheidung liegt bei Ihnen.</div>
+      </div>
+      <p><span class="fr">Proposition</span> (#799) bezeichnet einen formelleren, konkreteren Vorschlag oder ein Angebot. Es impliziert oft etwas, das zur Annahme oder Ablehnung vorgelegt wird.</p>
+      <div class="examples">
+        <div class="fr">Il a fait une proposition de mariage.</div>
+        <div class="de spoiler">Er hat einen Heiratsantrag gemacht.</div>
+        <div class="fr">L'entreprise a reçu une proposition d'achat.</div>
+        <div class="de spoiler">Das Unternehmen hat ein Kaufangebot erhalten.</div>
+      </div>
+    </div>
+  </div>
