@@ -7,7 +7,7 @@ Wortart: nf
 Wort mit Artikel: une angoisse
 Femininum / Plural: ''
 IPA: \ɑ̃.ɡwas\
-Definition: Angst
+Definition: Angst(-zustand)
 Register: ↗Fiktion
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -78,4 +78,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>angoisse</i> und <i>peur</i></div>
+    <div class="section-content">
+      <p><span class="fr">Angoisse</span> bezeichnet eine tiefe, diffuse <span class="de">"Angst"</span> oder <span class="de">"Beklemmung"</span>, die oft anhaltend ist und ohne klare Ursache auftreten kann. Es impliziert ein intensiveres, umfassenderes Gefühl als einfache Furcht.</p>
+      <div class="examples">
+        <div class="fr">L'<u>angoisse</u> l'envahit chaque fois qu'il doit parler en public.</div>
+        <div class="de spoiler">Die <u>Angst</u> überfällt ihn jedes Mal, wenn er öffentlich sprechen muss.</div>
+        <div class="fr">Elle ressent une profonde <u>angoisse</u> face à l'avenir incertain.</div>
+        <div class="de spoiler">Sie verspürt eine tiefe <u>Beklemmung</u> angesichts der ungewissen Zukunft.</div>
+      </div>
+      <p><span class="fr">Peur</span> (#755) bezieht sich auf konkrete <span class="de">"Furcht"</span> oder <span class="de">"Angst"</span> vor einer spezifischen Bedrohung oder Gefahr. Es ist oft eine unmittelbare Reaktion auf eine wahrgenommene Gefahr.</p>
+      <div class="examples">
+        <div class="fr">J'ai <u>peur</u> des araignées.</div>
+        <div class="de spoiler">Ich habe <u>Angst</u> vor Spinnen.</div>
+        <div class="fr">La <u>peur</u> de l'échec le paralyse.</div>
+        <div class="de spoiler">Die <u>Furcht</u> vor dem Versagen lähmt ihn.</div>
+      </div>
+    </div>
+  </div>
