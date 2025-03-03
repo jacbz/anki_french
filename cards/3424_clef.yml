@@ -7,7 +7,7 @@ Wortart: nf
 Wort mit Artikel: la clef
 Femininum / Plural: ''
 IPA: \kle\
-Definition: Schlüssel
+Definition: Schlüssel [lit.]
 Register: ↗Fiktion
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -138,4 +138,27 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>clé</i> und <i>clef</i></div>
+    <div class="section-content">
+      <p><span class="fr">Clé</span> (#1200) ist die moderne französische Bezeichnung für <span class="de">"Schlüssel"</span> und wird in der zeitgenössischen Sprache weithin verwendet.</p>
+      <div class="examples">
+        <div class="fr">J'ai perdu ma clé de maison.</div>
+        <div class="de spoiler">Ich habe meinen Hausschlüssel verloren.</div>
+        <div class="fr">Tu as la clé de la voiture ?</div>
+        <div class="de spoiler">Hast du den Autoschlüssel?</div>
+        <div class="fr">La clé USB est sur le bureau.</div>
+        <div class="de spoiler">Der USB-Stick liegt auf dem Schreibtisch.</div>
+      </div>
+      <p><span class="fr">Clef</span> ist eine ältere, traditionelle Form von <span class="de">"Schlüssel"</span>, die immer noch anerkannt wird, aber im alltäglichen Gebrauch weniger üblich ist. Sie findet sich oft in literarischen oder formellen Kontexten.</p>
+      <div class="examples">
+        <div class="fr">La clef du mystère reste introuvable.</div>
+        <div class="de spoiler">Der Schlüssel zum Geheimnis bleibt unauffindbar.</div>
+        <div class="fr">Il m'a donné une vieille clef rouillée.</div>
+        <div class="de spoiler">Er hat mir einen alten rostigen Schlüssel gegeben.</div>
+        <div class="fr">La clef de sol est un symbole musical.</div>
+        <div class="de spoiler">Der Violinschlüssel ist ein musikalisches Symbol.</div>
+      </div>
+    </div>
+  </div>
