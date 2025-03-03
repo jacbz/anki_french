@@ -13,8 +13,8 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Les relevés indiquent une atmosphère *similaire* à la nôtre.
-  Die Messungen zeigen eine Atmosphäre, die unserer *ähnlich* ist.
+  "Les relevés indiquent une atmosphère *similaire* à la nôtre."
+  "Die Messungen zeigen eine Atmosphäre, die unserer *ähnlich* ist."
 
   Ces deux bâtiments ont une hauteur *similaire*.
   Diese beiden Gebäude haben eine *ähnliche* Höhe.
@@ -24,9 +24,6 @@ Beispielsätze: |-
 
   "Vous avez une coiffure *similaire* à celle de ma sœur !" s'est-elle exclamée.
   "Sie haben eine *ähnliche* Frisur wie meine Schwester!", rief sie aus.
-
-  Le nouveau smartphone a des caractéristiques *similaires* à l'ancien modèle.
-  Das neue Smartphone hat *vergleichbare* Eigenschaften wie das alte Modell.
 
   Des expériences *similaires* ont été menées dans plusieurs pays européens.
   *Ähnliche* Experimente wurden in mehreren europäischen Ländern durchgeführt.
@@ -43,14 +40,8 @@ Beispielsätze: |-
   Les symptômes de ces deux maladies sont très *similaires*.
   Die Symptome dieser beiden Krankheiten sind sehr *ähnlich*.
 
-  Cette structure est *similaire* à un cartel dans son fonctionnement.
-  Diese Struktur ist in ihrer Funktionsweise *kartellähnlich*.
-
   Nous recherchons des candidats ayant une expérience *similaire* dans le domaine.
   Wir suchen Kandidaten mit *ähnlicher* Erfahrung in diesem Bereich.
-
-  Les résultats de l'étude sont *similaires* à ceux obtenus l'année dernière.
-  Die Ergebnisse der Studie sind denen des Vorjahres *ähnlich*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
@@ -58,6 +49,36 @@ Beispielsätze: |-
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
+  <div class="section">
+    <div class="section-title" data-topic="Verwendungshinweise"><i>similaire</i></div>
+    <div class="section-content">
+      <p>Das Adjektiv <span class="fr">similaire</span> (ähnlich) ist bedeutungsähnlich zu Wörtern wie <span class="fr">analogue</span>, <span class="fr">pareil</span> oder <span class="fr">semblable</span>, folgt jedoch anderen grammatikalischen Regeln.</p>
+
+      <p class="attention">Während <span class="fr">analogue</span>, <span class="fr">pareil</span> und <span class="fr">semblable</span> entweder absolut oder mit einer durch <span class="fr">à</span> eingeleiteten Ergänzung verwendet werden können, wird <span class="fr">similaire</span> in der Schriftsprache ausschließlich absolut (ohne Präposition) verwendet.</p>
+
+      <h3>Korrekte Verwendung</h3>
+      <div class="examples">
+        <div class="fr">La baliste et la catapulte sont des armes de siège similaires.</div>
+        <div class="de spoiler">Die Balliste und die Katapulte sind ähnliche Belagerungswaffen.</div>
+        <div class="fr">Vos deux cas sont similaires.</div>
+        <div class="de spoiler">Ihre beiden Fälle sind ähnlich.</div>
+        <div class="fr">Dans une situation similaire, qu'auriez-vous fait?</div>
+        <div class="de spoiler">Was hätten Sie in einer ähnlichen Situation getan?</div>
+      </div>
+
+      <h3>Fehlerhafte bzw. umgangssprachliche Verwendung</h3>
+      <div class="examples">
+        <div class="fr">La baliste est une arme de siège similaire à la catapulte.</div>
+        <div class="de spoiler">Die Balliste ist eine der Katapulte ähnliche Belagerungswaffe.</div>
+        <div class="fr">Son cas est similaire au vôtre.</div>
+        <div class="de spoiler">Sein Fall ist Ihrem ähnlich.</div>
+        <div class="fr">Dans une situation similaire à celle-ci, qu'auriez-vous fait?</div>
+        <div class="de spoiler">Was hätten Sie in einer dieser Situation ähnlichen Lage getan?</div>
+      </div>
+
+      <p>Für Vergleiche mit <span class="fr">à</span> sollten stattdessen <span class="fr">semblable à</span>, <span class="fr">pareil à</span> oder <span class="fr">analogue à</span> verwendet werden.</p>
+    </div>
+  </div>
   <div class="section">
     <div class="section-title"><i>semblable</i> und <i>similaire</i></div>
     <div class="section-content">
