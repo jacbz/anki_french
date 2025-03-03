@@ -7,7 +7,7 @@ Wortart: vt, vi, vr
 Wort mit Artikel: fournir
 Femininum / Plural: ''
 IPA: \fuʁ.niʁ\
-Definition: liefern, bereitstellen
+Definition: bereitstellen, liefern
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -147,4 +147,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>livrer</i> und <i>fournir</i></div>
+    <div class="section-content">
+      <p><span class="fr">Livrer</span> bedeutet <span class="de">"liefern"</span> oder <span class="de">"ausliefern"</span> (#613) und bezieht sich auf den Prozess des physischen Transports und der Übergabe von Waren oder Gegenständen an einen bestimmten Ort oder Empfänger.</p>
+      <div class="examples">
+        <div class="fr">Le coursier va livrer le colis demain matin.</div>
+        <div class="de spoiler">Der Kurier wird das Paket morgen früh liefern.</div>
+        <div class="fr">La pizzeria livre à domicile.</div>
+        <div class="de spoiler">Die Pizzeria liefert nach Hause.</div>
+      </div>
+      <p><span class="fr">Fournir</span> bedeutet <span class="de">"liefern"</span> im Sinne von <span class="de">"bereitstellen"</span> oder <span class="de">"zur Verfügung stellen"</span>. Es bezieht sich mehr auf die Versorgung mit etwas, was benötigt wird, und muss nicht unbedingt einen physischen Transport beinhalten.</p>
+      <div class="examples">
+        <div class="fr">L'entreprise fournit l'électricité à toute la région.</div>
+        <div class="de spoiler">Das Unternehmen versorgt die gesamte Region mit Strom.</div>
+        <div class="fr">Le gouvernement s'engage à fournir des soins médicaux gratuits.</div>
+        <div class="de spoiler">Die Regierung verpflichtet sich, kostenlose medizinische Versorgung bereitzustellen.</div>
+      </div>
+    </div>
+  </div>

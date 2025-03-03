@@ -105,4 +105,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>domicile</i> und <i>résidence</i></div>
+    <div class="section-content">
+      <p><span class="fr">Domicile</span> (#2434) bezieht sich auf den offiziellen, rechtlichen Wohnsitz einer Person. Es ist der Ort, der als ständiger Wohnsitz einer Person angesehen wird und hat oft einen administrativen oder rechtlichen Charakter.</p>
+      <div class="examples">
+        <div class="fr">Son <u>domicile</u> fiscal est en Suisse.</div>
+        <div class="de spoiler">Sein Steuer<u>wohnsitz</u> ist in der Schweiz.</div>
+        <div class="fr">La police s'est présentée à son <u>domicile</u> à 6 heures du matin.</div>
+        <div class="de spoiler">Die Polizei erschien um 6 Uhr morgens an seinem <u>Wohnsitz</u>.</div>
+      </div>
+
+      <p><span class="fr">Résidence</span> bezeichnet den tatsächlichen Ort, an dem jemand wohnt oder sich aufhält. Der Begriff kann sich auch auf das Gebäude oder die Wohnung selbst beziehen und hat oft eine praktischere, alltäglichere Bedeutung als <span class="fr">domicile</span>.</p>
+      <div class="examples">
+        <div class="fr">Sa <u>résidence</u> principale se trouve à Paris, mais il possède aussi une <u>résidence</u> secondaire en Provence.</div>
+        <div class="de spoiler">Sein Haupt<u>wohnsitz</u> ist in Paris, aber er besitzt auch einen <u>Zweitwohnsitz</u> in der Provence.</div>
+        <div class="fr">C'est une <u>résidence</u> de luxe avec piscine et jardin.</div>
+        <div class="de spoiler">Es ist eine Luxus<u>wohnung</u> mit Schwimmbad und Garten.</div>
+      </div>
+    </div>
+  </div>

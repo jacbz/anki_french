@@ -1,6 +1,5 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
-* Schlüssel: [clé](cards/1200_clé.yml) (#1200), [clef](cards/3424_clef.yml) (#3424)
 * Sicherheit: [sécurité](cards/0478_sécurité.yml) (#478), [sûreté](cards/3459_sûreté.yml) (#3459)
 * aufrichtig, ehrlich: [sincère](cards/3180_sincère.yml) (#3180), [sincèrement](cards/3516_sincèrement.yml) (#3516)
 * fast, beinahe: [presque](cards/0481_presque.yml) (#481), [quasiment](cards/3538_quasiment.yml) (#3538)
@@ -40,7 +39,6 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * Verstärkung: [renforcement](cards/3600_renforcement.yml) (#3600), [renfort](cards/4326_renfort.yml) (#4326)
 * ersetzen: [remplacer](cards/0448_remplacer.yml) (#448), [substituer](cards/4344_substituer.yml) (#4344)
 * jenseits, darüber hinaus: [au-delà](cards/1172_au-delà.yml) (#1172), [delà](cards/4367_delà.yml) (#4367)
-* neigen, beugen: [pencher](cards/1796_pencher.yml) (#1796), [incliner](cards/4368_incliner.yml) (#4368)
 * schrecklich, furchtbar: [terrible](cards/1310_terrible.yml) (#1310), [horrible](cards/3190_horrible.yml) (#3190), [affreux](cards/4369_affreux.yml) (#4369)
 * Höhe: [hauteur](cards/1653_hauteur.yml) (#1653), [altitude](cards/4396_altitude.yml) (#4396)
 * angemessen, passend: [adéquat](cards/3525_adéquat.yml) (#3525), [approprié](cards/3591_approprié.yml) (#3591), [convenable](cards/4410_convenable.yml) (#4410)
