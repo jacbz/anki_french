@@ -7,7 +7,7 @@ Wortart: adv
 Wort mit Artikel: précédemment
 Femininum / Plural: ''
 IPA: \pʁe.se.da.mɑ̃\
-Definition: zuvor, vorher
+Definition: vorher(-ig), bereits
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -54,4 +54,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>auparavant</i> und <i>précédemment</i></div>
+    <div class="section-content">
+      <p><span class="fr">Auparavant</span> (#1001) bedeutet <span class="de">"zuvor"</span>, <span class="de">"vorher"</span> oder <span class="de">"früher"</span> und bezieht sich allgemein auf einen früheren Zeitpunkt oder eine frühere Zeit, oft ohne spezifischen Bezug.</p>
+      <div class="examples">
+        <div class="fr">Je n'avais jamais visité Paris auparavant.</div>
+        <div class="de spoiler">Ich hatte Paris zuvor nie besucht.</div>
+        <div class="fr">Il faut terminer ce projet auparavant.</div>
+        <div class="de spoiler">Dieses Projekt muss vorher abgeschlossen werden.</div>
+      </div>
+      <p><span class="fr">Précédemment</span> bedeutet <span class="de">"vorherig"</span> oder <span class="de">"vorausgehend"</span> und wird verwendet, um auf etwas zu verweisen, das unmittelbar vorausgegangen ist oder in einer bestimmten Abfolge zuvor stattgefunden hat.</p>
+      <div class="examples">
+        <div class="fr">Comme mentionné précédemment, nous devons finir ce rapport avant vendredi.</div>
+        <div class="de spoiler">Wie bereits erwähnt, müssen wir diesen Bericht vor Freitag fertigstellen.</div>
+        <div class="fr">Il avait précédemment travaillé pour une entreprise concurrente.</div>
+        <div class="de spoiler">Er hatte zuvor für ein Konkurrenzunternehmen gearbeitet.</div>
+      </div>
+      <p>Der Hauptunterschied liegt darin, dass <span class="fr">précédemment</span> oft einen klareren zeitlichen Bezug hat und häufiger in formellen oder schriftlichen Kontexten verwendet wird, während <span class="fr">auparavant</span> allgemeiner ist und sowohl in formellen als auch informellen Situationen verwendet werden kann.</p>
+    </div>
+  </div>

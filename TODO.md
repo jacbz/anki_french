@@ -1,11 +1,5 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
-* Kurs: [cours](cards/0169_cours.yml) (#169), [cap](cards/3532_cap.yml) (#3532)
-* fast, beinahe: [presque](cards/0481_presque.yml) (#481), [quasiment](cards/3538_quasiment.yml) (#3538)
-* zuvor, vorher: [auparavant](cards/1001_auparavant.yml) (#1001), [précédemment](cards/3555_précédemment.yml) (#3555)
-* hoch: [haut](cards/0264_haut.yml) (#264), [élevé](cards/3563_élevé.yml) (#3563)
-* Anpassung: [adaptation](cards/2701_adaptation.yml) (#2701), [ajustement](cards/3621_ajustement.yml) (#3621)
-* Kind: [enfant](cards/0126_enfant.yml) (#126), [gosse](cards/3631_gosse.yml) (#3631)
 * Kosten: [coût](cards/0830_coût.yml) (#830), [dépens](cards/3654_dépens.yml) (#3654)
 * Hoffnung: [espoir](cards/0717_espoir.yml) (#717), [espérance](cards/3715_espérance.yml) (#3715)
 * Gast: [invité](cards/2478_invité.yml) (#2478), [hôte](cards/3780_hôte.yml) (#3780)
