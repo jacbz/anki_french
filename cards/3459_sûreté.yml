@@ -7,7 +7,7 @@ Wortart: nf
 Wort mit Artikel: la sûreté
 Femininum / Plural: ''
 IPA: \syʁ.te\
-Definition: Sicherheit, Verlässlichkeit
+Definition: Sicherheit, Zuverlässigkeit
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -126,4 +126,26 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>sûreté</i> und <i>sécurité</i></div>
+    <div class="section-content">
+      <p><span class="fr">Sécurité</span> (#478) bezieht sich oft auf die <span class="de">"Sicherheit"</span> im Sinne von Abwesenheit oder geringem Risiko von Unfällen sowie auf Maßnahmen zur Verringerung dieser Risiken.</p>
+      <div class="examples">
+        <div class="fr">La sécurité des passagers, des usagers, des voyageurs.</div>
+        <div class="de spoiler">Die Sicherheit der Passagiere, Benutzer, Reisenden.</div>
+        <div class="fr">Sécurité dans le domaine des transports, chemins de fer, avions.</div>
+        <div class="de spoiler">Sicherheit im Bereich Transport, Eisenbahn, Flugzeuge.</div>
+      </div>
+
+      <p><span class="fr">Sûreté</span> hat eine eigene Bedeutung, nämlich die <span class="de">"Zuverlässigkeit"</span> oder den <span class="de">"sicheren Charakter"</span> einer Sache - also etwas, das keine Gefahr darstellt oder, je nach Kontext, <span class="de">"zuverlässig und typgerecht funktioniert"</span>.</p>
+      <div class="examples">
+        <div class="fr">La sûreté de fonctionnement de cette machine est remarquable.</div>
+        <div class="de spoiler">Die Betriebssicherheit dieser Maschine ist bemerkenswert.</div>
+        <div class="fr">Les ingénieurs ont amélioré la sûreté du système de freinage.</div>
+        <div class="de spoiler">Die Ingenieure haben die Zuverlässigkeit des Bremssystems verbessert.</div>
+      </div>
+
+      <p>Es ist angebracht, den Begriff <span class="fr">sûreté</span> zu verwenden, wenn man von etwas sprechen möchte, das keine Gefahr für Personen oder Güter darstellt. Ansonsten ist dieser Begriff ein Synonym für <span class="fr">sécurité</span>, das heutzutage in diesem Sinne gebräuchlicher ist.</p>
+    </div>
+  </div>
