@@ -7,7 +7,7 @@ Wortart: vt, vi, vr
 Wort mit Artikel: pourvoir
 Femininum / Plural: ''
 IPA: \puʁ.vwaʁ\
-Definition: versorgen, ausstatten
+Definition: versorgen, besetzen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -126,4 +126,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>doter</i> und <i>pourvoir</i></div>
+    <div class="section-content">
+      <p><span class="fr">Doter</span> (#1784) bedeutet <span class="de">"ausstatten"</span> oder <span class="de">"versehen"</span> und wird verwendet, wenn jemand oder etwas mit etwas Vorteilhaftem oder Wertvollem ausgestattet wird.</p>
+      <div class="examples">
+        <div class="fr">La nouvelle école a été dotée d'équipements informatiques modernes.</div>
+        <div class="de spoiler">Die neue Schule wurde mit moderner Computerausstattung versehen.</div>
+        <div class="fr">La nature l'a doté d'une intelligence remarquable.</div>
+        <div class="de spoiler">Die Natur hat ihn mit bemerkenswerter Intelligenz ausgestattet.</div>
+      </div>
+      <p><span class="fr">Pourvoir</span> bedeutet <span class="de">"versorgen"</span> oder <span class="de">"besetzen"</span> und bezieht sich auf das Erfüllen eines Bedarfs oder das Besetzen einer Position.</p>
+      <div class="examples">
+        <div class="fr">Il faut pourvoir aux besoins des réfugiés.</div>
+        <div class="de spoiler">Man muss für die Bedürfnisse der Flüchtlinge sorgen.</div>
+        <div class="fr">Le poste vacant a été pourvu rapidement.</div>
+        <div class="de spoiler">Die freie Stelle wurde schnell besetzt.</div>
+      </div>
+      <p>Beide Verben beziehen sich auf die Bereitstellung von etwas, aber <span class="fr">doter</span> betont mehr die Ausstattung mit Eigenschaften oder Ressourcen, während <span class="fr">pourvoir</span> stärker den Aspekt der Versorgung oder Stellenbesetzung hervorhebt.</p>
+    </div>
+  </div>
