@@ -7,7 +7,7 @@ Wortart: vi, vi(imp)
 Wort mit Artikel: paraître
 Femininum / Plural: ''
 IPA: \pa.ʁɛtʁ\
-Definition: erscheinen
+Definition: erscheinen, sich zeigen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -171,4 +171,34 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>sembler</i> und <i>paraître</i></div>
+    <div class="section-content">
+      <p>Etymologisch steht <span class="fr">sembler</span> (#180) näher an <span class="de">"den Anschein haben"</span> oder <span class="de">"den Eindruck vermitteln"</span>, während <span class="fr">paraître</span> mehr mit <span class="de">"sichtbar sein"</span> oder <span class="de">"sich zeigen"</span> verbunden ist.</p>
+
+      <p>Bei <span class="fr">sembler</span> gibt man eine subjektive Beschreibung oder persönliche Meinung wieder, wobei man sich durchaus irren könnte.</p>
+      <div class="examples">
+        <div class="fr">Il semble jeune.</div>
+        <div class="de spoiler">Er scheint jung zu sein [aber vielleicht ist er älter, als er wirkt].</div>
+        <div class="fr">Le temps semble s'améliorer.</div>
+        <div class="de spoiler">Es sieht so aus, als ob das Wetter besser wird.</div>
+      </div>
+
+      <p>Bei <span class="fr">paraître</span> ist die Aussage neutraler, man beschreibt lediglich, was man sieht.</p>
+      <div class="examples">
+        <div class="fr">Il paraît jeune.</div>
+        <div class="de spoiler">Er sieht jung aus [und ist es vermutlich auch].</div>
+        <div class="fr">Ça paraît incroyable.</div>
+        <div class="de spoiler">Das erscheint unglaublich [ich glaube aber, was mir gesagt wird].</div>
+      </div>
+
+      <p>Der Unterschied ist nicht immer eindeutig und hängt stark vom Kontext ab. Für Stimmen oder Personen, die man nicht gesehen hat, würde man eher <span class="fr">avoir l'air</span> oder <span class="fr">sembler</span> verwenden.</p>
+      <div class="examples">
+        <div class="fr">Il avait l'air jeune.</div>
+        <div class="de spoiler">Er klang jung [am Telefon gehört].</div>
+        <div class="fr">Ça semble incroyable.</div>
+        <div class="de spoiler">Das scheint unglaublich [mit einem Hauch Zweifel in der Stimme].</div>
+      </div>
+    </div>
+  </div>
