@@ -1,11 +1,9 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
-* Sicherheit: [sécurité](cards/0478_sécurité.yml) (#478), [sûreté](cards/3459_sûreté.yml) (#3459)
-* aufrichtig, ehrlich: [sincère](cards/3180_sincère.yml) (#3180), [sincèrement](cards/3516_sincèrement.yml) (#3516)
+* Kurs: [cours](cards/0169_cours.yml) (#169), [cap](cards/3532_cap.yml) (#3532)
 * fast, beinahe: [presque](cards/0481_presque.yml) (#481), [quasiment](cards/3538_quasiment.yml) (#3538)
 * zuvor, vorher: [auparavant](cards/1001_auparavant.yml) (#1001), [précédemment](cards/3555_précédemment.yml) (#3555)
 * hoch: [haut](cards/0264_haut.yml) (#264), [élevé](cards/3563_élevé.yml) (#3563)
-* sich abmühen, sich anstrengen: [peiner](cards/3484_peiner.yml) (#3484), [acharner](cards/3564_acharner.yml) (#3564)
 * Anpassung: [adaptation](cards/2701_adaptation.yml) (#2701), [ajustement](cards/3621_ajustement.yml) (#3621)
 * Kind: [enfant](cards/0126_enfant.yml) (#126), [gosse](cards/3631_gosse.yml) (#3631)
 * Kosten: [coût](cards/0830_coût.yml) (#830), [dépens](cards/3654_dépens.yml) (#3654)

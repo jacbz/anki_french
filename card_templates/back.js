@@ -643,7 +643,7 @@ const lastUpdated = new Date(___VERSION___);
 const numberOfDaysSince = Math.floor(
   (Date.now() - lastUpdated.getTime()) / (1000 * 60 * 60 * 24)
 );
-if (numberOfDaysSince >= 90) {
+if (numberOfDaysSince >= 180) {
   document.getElementById("update-notice-days").textContent = numberOfDaysSince;
   document.getElementById("update-notice").style.display = "block";
 }
