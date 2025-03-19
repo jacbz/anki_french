@@ -7,7 +7,7 @@ Wortart: vt, vr
 Wort mit Artikel: soulever
 Femininum / Plural: ''
 IPA: \sul.ve\
-Definition: anheben, aufheben
+Definition: anheben, hochheben
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -138,4 +138,26 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>soulever</i> und <i>relever</i></div>
+    <div class="section-content">
+      <p><span class="fr">Soulever</span> bedeutet <span class="de">"anheben"</span>, <span class="de">"hochheben"</span> oder <span class="de">"aufwerfen"</span> (bei Fragen oder Problemen). Es impliziert eine Bewegung von unten nach oben, oft gegen Widerstand.</p>
+      <div class="examples">
+        <div class="fr">Il a soulevé la boîte avec difficulté.</div>
+        <div class="de spoiler">Er hob die Kiste mit Mühe hoch.</div>
+        <div class="fr">Cette question soulève de nombreux problèmes.</div>
+        <div class="de spoiler">Diese Frage wirft zahlreiche Probleme auf.</div>
+      </div>
+      <p><span class="fr">Relever</span> (#376) bedeutet <span class="de">"wieder aufrichten"</span>, <span class="de">"aufheben"</span> oder <span class="de">"feststellen"</span>. Es kann auch <span class="de">"abheben"</span> im Sinne von "hervorheben" oder <span class="de">"ablösen"</span> bedeuten.</p>
+      <div class="examples">
+        <div class="fr">Elle a relevé l'enfant qui était tombé.</div>
+        <div class="de spoiler">Sie half dem Kind auf, das gefallen war.</div>
+        <div class="fr">Il a relevé plusieurs erreurs dans le texte.</div>
+        <div class="de spoiler">Er stellte mehrere Fehler im Text fest.</div>
+        <div class="fr">Le garde a été relevé de ses fonctions.</div>
+        <div class="de spoiler">Der Wachmann wurde von seinen Aufgaben entbunden.</div>
+      </div>
+      <p>Während <span class="fr">soulever</span> sich hauptsächlich auf das physische oder metaphorische Anheben bezieht, hat <span class="fr">relever</span> vielfältigere Bedeutungen, die oft mit Wiederherstellung, Feststellung oder Ablösung verbunden sind.</p>
+    </div>
+  </div>
