@@ -7,7 +7,7 @@ Wortart: nm
 Wort mit Artikel: un ajustement
 Femininum / Plural: ''
 IPA: \a.ʒus.tə.mɑ̃\
-Definition: Anpassung
+Definition: Anpassung, Justierung
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -69,4 +69,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>adaptation</i> und <i>ajustement</i></div>
+    <div class="section-content">
+      <p><span class="fr">Adaptation</span> (#2701) bedeutet <span class="de">"Anpassung"</span> und bezieht sich auf einen umfassenderen Prozess, bei dem sich etwas oder jemand an neue Umstände, Bedingungen oder Umgebungen anpasst.</p>
+      <div class="examples">
+        <div class="fr">L'adaptation à un nouveau pays peut prendre du temps.</div>
+        <div class="de spoiler">Die Anpassung an ein neues Land kann Zeit in Anspruch nehmen.</div>
+        <div class="fr">Ce film est une adaptation du roman de Victor Hugo.</div>
+        <div class="de spoiler">Dieser Film ist eine Adaption des Romans von Victor Hugo.</div>
+      </div>
+      <p><span class="fr">Ajustement</span> bedeutet <span class="de">"Justierung"</span> oder <span class="de">"Einstellung"</span> und bezieht sich auf kleinere, präzisere Änderungen oder Korrekturen, um etwas genauer anzupassen oder zu verbessern.</p>
+      <div class="examples">
+        <div class="fr">Il faut faire un ajustement du son sur la télévision.</div>
+        <div class="de spoiler">Man muss eine Einstellung des Tons am Fernseher vornehmen.</div>
+        <div class="fr">L'ajustement des prix est nécessaire en raison de l'inflation.</div>
+        <div class="de spoiler">Die Anpassung der Preise ist aufgrund der Inflation notwendig.</div>
+      </div>
+      <p>Der Hauptunterschied liegt im Umfang: <span class="fr">adaptation</span> ist oft tiefer gehend und umfassender, während <span class="fr">ajustement</span> sich auf kleinere, technischere oder präzisere Änderungen bezieht.</p>
+    </div>
+  </div>
