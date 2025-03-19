@@ -7,7 +7,7 @@ Wortart: nf
 Wort mit Artikel: la demeure
 Femininum / Plural: ''
 IPA: \də.mœʁ\
-Definition: Haus, Bleibe
+Definition: Wohnstätte, Bleibe
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -90,4 +90,42 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>demeure</i>, <i>maison</i>, <i>domicile</i> und <i>résidence</i></div>
+    <div class="section-content">
+      <p>Diese vier französischen Begriffe bezeichnen alle Wohnorte, werden jedoch in unterschiedlichen Kontexten verwendet.</p>
+
+      <p><span class="fr">Demeure</span> bedeutet <span class="de">"Wohnstätte"</span> und wird oft als veraltet oder literarisch angesehen. Es kann sich auch auf ein bedeutendes Gebäude beziehen.</p>
+      <div class="examples">
+        <div class="fr">Elle a choisi d'établir sa demeure en Outaouais.</div>
+        <div class="de spoiler">Sie hat beschlossen, ihren Wohnsitz in Outaouais zu errichten.</div>
+        <div class="fr">Cette vieille demeure est aussi vaste qu'un château.</div>
+        <div class="de spoiler">Dieses alte Anwesen ist so weitläufig wie ein Schloss.</div>
+      </div>
+
+      <p><span class="fr">Maison</span> (#325) bedeutet <span class="de">"Haus"</span> und bezieht sich konkreter auf ein Gebäude oder Teil eines Gebäudes, das als Wohnung dient, oft für eine Familie.</p>
+      <div class="examples">
+        <div class="fr">Nancie possède une magnifique maison centenaire au toit mansardé.</div>
+        <div class="de spoiler">Nancie besitzt ein wunderschönes hundertjähriges Haus mit Mansardendach.</div>
+        <div class="fr">Les maisons en rangée sont très populaires auprès des jeunes acheteurs.</div>
+        <div class="de spoiler">Reihenhäuser sind bei jungen Käufern sehr beliebt.</div>
+      </div>
+
+      <p><span class="fr">Domicile</span> (#2434) bedeutet <span class="de">"Wohnsitz"</span> und bezieht sich aus juristischer Sicht auf eine eindeutige, feste, offizielle und rechtmäßige Wohnstätte.</p>
+      <div class="examples">
+        <div class="fr">Le domicile de Marie-Anne se situe à Québec; elle pourra donc voter aux élections municipales de cette ville.</div>
+        <div class="de spoiler">Der Wohnsitz von Marie-Anne befindet sich in Québec; sie kann daher an den Kommunalwahlen dieser Stadt teilnehmen.</div>
+        <div class="fr">Alain a élu domicile rue Saint-Jean.</div>
+        <div class="de spoiler">Alain hat seinen Wohnsitz in der Saint-Jean-Straße gewählt.</div>
+      </div>
+
+      <p><span class="fr">Résidence</span> (#3524) bedeutet <span class="de">"Residenz"</span> oder <span class="de">"Wohnsitz"</span> und kann jede Wohnstätte sein, in der man sich für eine gewisse Zeit niederlässt. Man kann mehrere Residenzen haben. Der Begriff kann manchmal auch Luxus implizieren.</p>
+      <div class="examples">
+        <div class="fr">Ta résidence secondaire se situe-t-elle près d'un lac?</div>
+        <div class="de spoiler">Liegt dein Zweitwohnsitz in der Nähe eines Sees?</div>
+        <div class="fr">Il est propriétaire d'une somptueuse résidence d'été où il se rend quelques semaines chaque année.</div>
+        <div class="de spoiler">Er ist Eigentümer einer prächtigen Sommerresidenz, die er jedes Jahr einige Wochen lang besucht.</div>
+      </div>
+    </div>
+  </div>
