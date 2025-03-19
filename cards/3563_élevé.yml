@@ -7,7 +7,7 @@ Wortart: adj, nm
 Wort mit Artikel: élevé
 Femininum / Plural: élevée
 IPA: \el.ve\
-Definition: hoch
+Definition: hoch, erhöht
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -159,4 +159,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>haut</i> und <i>élevé</i></div>
+    <div class="section-content">
+      <p><span class="fr">Haut</span> bedeutet <span class="de">"hoch"</span> und bezieht sich oft auf die physische Höhe oder Position eines Objekts. Es kann auch im übertragenen Sinne verwendet werden.</p>
+      <div class="examples">
+        <div class="fr">La tour est très haute.</div>
+        <div class="de spoiler">Der Turm ist sehr hoch.</div>
+        <div class="fr">Il parle à haute voix.</div>
+        <div class="de spoiler">Er spricht mit lauter Stimme.</div>
+      </div>
+      <p><span class="fr">Élevé</span> bedeutet ebenfalls <span class="de">"hoch"</span>, wird aber häufiger im übertragenen Sinne verwendet, um etwas zu beschreiben, das über dem Durchschnitt oder Standard liegt.</p>
+      <div class="examples">
+        <div class="fr">Cette université a des standards très élevés.</div>
+        <div class="de spoiler">Diese Universität hat sehr hohe Standards.</div>
+        <div class="fr">Le taux de chômage est élevé dans cette région.</div>
+        <div class="de spoiler">Die Arbeitslosenquote ist in dieser Region hoch.</div>
+      </div>
+      <p>Der Hauptunterschied liegt darin, dass <span class="fr">haut</span> oft für konkrete, physische Höhe verwendet wird, während <span class="fr">élevé</span> häufiger für abstrakte Konzepte, Werte oder Qualitäten gebraucht wird.</p>
+    </div>
+  </div>
