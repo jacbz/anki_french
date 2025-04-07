@@ -7,7 +7,7 @@ Wortart: nf
 Wort mit Artikel: la tristesse
 Femininum / Plural: ''
 IPA: \tʁis.tɛs\
-Definition: Traurigkeit
+Definition: Traurigkeit, Kummer
 Register: ↗Fiktion
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -69,4 +69,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>deuil</i> und <i>tristesse</i></div>
+    <div class="section-content">
+      <p><span class="fr">Deuil</span> (#3540) bedeutet <span class="de">"Trauer"</span> im Sinne eines Prozesses nach einem Verlust, insbesondere nach dem Tod einer nahestehenden Person. Es kann auch die Trauerzeit oder die Trauerkleidung bezeichnen.</p>
+      <div class="examples">
+        <div class="fr">Elle est en deuil depuis la mort de son père.</div>
+        <div class="de spoiler">Sie trauert seit dem Tod ihres Vaters.</div>
+        <div class="fr">Porter le deuil était autrefois une obligation sociale.</div>
+        <div class="de spoiler">Trauerkleidung zu tragen war früher eine gesellschaftliche Pflicht.</div>
+      </div>
+      <p><span class="fr">Tristesse</span> bedeutet <span class="de">"Traurigkeit"</span> oder <span class="de">"Kummer"</span> und bezieht sich auf den Gefühlszustand der Niedergeschlagenheit oder Melancholie, unabhängig von dessen Ursache.</p>
+      <div class="examples">
+        <div class="fr">La tristesse envahit son cœur quand elle pensa à son enfance.</div>
+        <div class="de spoiler">Traurigkeit überkam ihr Herz, als sie an ihre Kindheit dachte.</div>
+        <div class="fr">Ce film est d'une grande tristesse.</div>
+        <div class="de spoiler">Dieser Film ist sehr traurig.</div>
+      </div>
+      <p>Während <span class="fr">deuil</span> sich spezifisch auf den Trauerprozess nach einem Verlust bezieht und kulturelle oder rituelle Aspekte haben kann, bezeichnet <span class="fr">tristesse</span> den allgemeinen emotionalen Zustand der Traurigkeit aus verschiedenen Gründen.</p>
+    </div>
+  </div>
