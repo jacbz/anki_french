@@ -7,7 +7,7 @@ Wortart: nf
 Wort mit Artikel: une espérance
 Femininum / Plural: ''
 IPA: \ɛs.pe.ʁɑ̃s\
-Definition: Hoffnung
+Definition: Hoffnung, Zuversicht
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -114,4 +114,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>espoir</i> und <i>espérance</i></div>
+    <div class="section-content">
+      <p><span class="fr">Espoir</span> bedeutet <span class="de">"Hoffnung"</span> und bezieht sich oft auf eine konkrete Hoffnung oder Erwartung in Bezug auf ein bestimmtes Ereignis oder Ziel. Es wird häufiger im alltäglichen Sprachgebrauch verwendet.</p>
+      <div class="examples">
+        <div class="fr">J'ai l'espoir de terminer ce projet avant la fin du mois.</div>
+        <div class="de spoiler">Ich habe die Hoffnung, dieses Projekt vor Ende des Monats abzuschließen.</div>
+        <div class="fr">Son dernier espoir était de trouver un nouveau travail.</div>
+        <div class="de spoiler">Seine letzte Hoffnung war, eine neue Arbeit zu finden.</div>
+      </div>
+      <p><span class="fr">Espérance</span> bedeutet ebenfalls <span class="de">"Hoffnung"</span>, hat aber oft eine tiefere, abstraktere oder spirituellere Bedeutung. Es kann sich auf einen anhaltenden Zustand der Hoffnung beziehen oder auf die Tugend der Hoffnung im religiösen Sinne.</p>
+      <div class="examples">
+        <div class="fr">L'espérance est ce qui nous fait continuer même dans les moments difficiles.</div>
+        <div class="de spoiler">Die Hoffnung ist das, was uns auch in schwierigen Zeiten weitermachen lässt.</div>
+        <div class="fr">L'espérance de vie en France a augmenté ces dernières années.</div>
+        <div class="de spoiler">Die Lebenserwartung in Frankreich ist in den letzten Jahren gestiegen.</div>
+      </div>
+      <p>Während <span class="fr">espoir</span> oft punktueller und zielgerichteter ist, hat <span class="fr">espérance</span> tendenziell eine umfassendere, dauerhaftere oder philosophischere Dimension.</p>
+    </div>
+  </div>
