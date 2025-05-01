@@ -7,7 +7,7 @@ Wortart: npl
 Wort mit Artikel: les dépens
 Femininum / Plural: ''
 IPA: \de.pɑ̃\
-Definition: Kosten
+Definition: Kosten, Aufwendungen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -75,4 +75,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>coût</i> und <i>dépens</i></div>
+    <div class="section-content">
+      <p><span class="fr">Coût</span> (#830) bedeutet <span class="de">"Kosten"</span> oder <span class="de">"Preis"</span> und bezieht sich auf den finanziellen Aufwand für etwas. Es wird häufig im wirtschaftlichen oder allgemeinen Kontext verwendet.</p>
+      <div class="examples">
+        <div class="fr">Le coût de la vie a augmenté ces dernières années.</div>
+        <div class="de spoiler">Die Lebenshaltungskosten sind in den letzten Jahren gestiegen.</div>
+        <div class="fr">Quel est le coût total du projet?</div>
+        <div class="de spoiler">Was sind die Gesamtkosten des Projekts?</div>
+      </div>
+      <p><span class="fr">Dépens</span> (meist im Plural verwendet) bezieht sich auf <span class="de">"Kosten"</span> oder <span class="de">"Aufwendungen"</span>, oft mit der Konnotation, dass jemand diese Kosten trägt oder für sie aufkommt. Es wird besonders häufig in rechtlichen Kontexten verwendet.</p>
+      <div class="examples">
+        <div class="fr">Elle a été condamnée aux dépens.</div>
+        <div class="de spoiler">Sie wurde zur Übernahme der Prozesskosten verurteilt.</div>
+        <div class="fr">Il s'est enrichi aux dépens des autres.</div>
+        <div class="de spoiler">Er hat sich auf Kosten anderer bereichert.</div>
+      </div>
+      <p>Während <span class="fr">coût</span> sich neutraler auf den Preis oder die Kosten von etwas bezieht, wird <span class="fr">dépens</span> oft verwendet, um auszudrücken, dass Kosten zu jemandes Nachteil oder Lasten entstehen, besonders in der Redewendung <span class="fr">aux dépens de</span> (<span class="de">"auf Kosten von"</span>).</p>
+    </div>
+  </div>
