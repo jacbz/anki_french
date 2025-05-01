@@ -7,7 +7,7 @@ Wortart: nm, app
 Wort mit Artikel: un agenda
 Femininum / Plural: ''
 IPA: \a.ʒɛ̃.da\
-Definition: Kalender
+Definition: (Termin-)kalender
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -66,4 +66,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>calendrier</i> und <i>agenda</i></div>
+    <div class="section-content">
+      <p><span class="fr">Calendrier</span> (#2947) bezeichnet einen <span class="de">"Kalender"</span> im Sinne einer Übersicht über Tage, Wochen und Monate. Er zeigt allgemeine Informationen wie Wochentage, Feiertage, Schulferien, Namenstage, Jahreszeiten, Mondphasen und ähnliches. Die kleinste Einheit ist in der Regel ein Tag.</p>
+      <div class="examples">
+        <div class="fr">J'ai accroché un nouveau calendrier dans la cuisine.</div>
+        <div class="de spoiler">Ich habe einen neuen Kalender in der Küche aufgehängt.</div>
+        <div class="fr">Le calendrier scolaire indique les dates des vacances.</div>
+        <div class="de spoiler">Der Schulkalender gibt die Ferientermine an.</div>
+      </div>
+      <p><span class="fr">Agenda</span> bezeichnet einen <span class="de">"Terminplaner"</span> oder <span class="de">"Terminkalender"</span>, der zur Organisation persönlicher Termine dient. Ein Agenda enthält Stunden-Einteilungen und wird verwendet, um persönliche Ereignisse zu planen und Terminüberschneidungen zu vermeiden.</p>
+      <div class="examples">
+        <div class="fr">Mon agenda est tellement chargé cette semaine.</div>
+        <div class="de spoiler">Mein Terminkalender ist diese Woche so voll.</div>
+        <div class="fr">J'ai noté notre rendez-vous dans mon agenda.</div>
+        <div class="de spoiler">Ich habe unseren Termin in meinem Terminplaner notiert.</div>
+      </div>
+    </div>
+  </div>
