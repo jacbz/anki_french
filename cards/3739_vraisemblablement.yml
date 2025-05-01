@@ -54,4 +54,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>vraisemblablement</i> und <i>probablement</i></div>
+    <div class="section-content">
+      <p><span class="fr">Vraisemblablement</span> bedeutet <span class="de">"wahrscheinlich"</span> oder <span class="de">"allem Anschein nach"</span> und drückt aus, dass etwas den Anschein der Wahrheit hat, basierend auf Beobachtungen oder logischen Schlussfolgerungen.</p>
+      <div class="examples">
+        <div class="fr">Il arrivera vraisemblablement en retard, comme d'habitude.</div>
+        <div class="de spoiler">Er wird wahrscheinlich zu spät kommen, wie üblich.</div>
+        <div class="fr">C'est vraisemblablement la meilleure solution dans ce cas.</div>
+        <div class="de spoiler">Das ist allem Anschein nach die beste Lösung in diesem Fall.</div>
+      </div>
+      <p><span class="fr">Probablement</span> (#903) bedeutet ebenfalls <span class="de">"wahrscheinlich"</span>, betont aber stärker die mathematische oder statistische Wahrscheinlichkeit und wird häufiger in alltäglichen Situationen verwendet.</p>
+      <div class="examples">
+        <div class="fr">Il va probablement pleuvoir demain.</div>
+        <div class="de spoiler">Es wird morgen wahrscheinlich regnen.</div>
+        <div class="fr">Je serai probablement en retard à la réunion.</div>
+        <div class="de spoiler">Ich werde wahrscheinlich zu spät zum Treffen kommen.</div>
+      </div>
+    </div>
+  </div>
