@@ -7,7 +7,7 @@ Wortart: nmf, app
 Wort mit Artikel: le tueur
 Femininum / Plural: tueuse
 IPA: \tɥœʁ\
-Definition: Mörder
+Definition: Mörder, Killer
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -60,4 +60,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>meurtrier</i> und <i>tueur</i></div>
+    <div class="section-content">
+      <p><span class="fr">Meurtrier</span> (#2681) bedeutet <span class="de">"Mörder"</span> im allgemeinen Sinne und bezieht sich auf eine Person, die einen Mord begangen hat, ohne notwendigerweise Vorsatz oder Planung zu implizieren.</p>
+      <div class="examples">
+        <div class="fr">Le meurtrier a été arrêté par la police.</div>
+        <div class="de spoiler">Der Mörder wurde von der Polizei verhaftet.</div>
+        <div class="fr">Après l'accident, le conducteur était considéré comme meurtrier.</div>
+        <div class="de spoiler">Nach dem Unfall wurde der Fahrer als Totschläger betrachtet.</div>
+      </div>
+      <p><span class="fr">Tueur</span> bedeutet <span class="de">"Killer"</span> oder <span class="de">"Töter"</span> und wird oft mit Fähigkeit oder Beruf in Verbindung gebracht, wie bei einem Auftragsmörder. Es trägt nicht unbedingt die rechtlichen Schuldzuweisungen wie <span class="fr">meurtrier</span>.</p>
+      <div class="examples">
+        <div class="fr">Un tueur à gages a été embauché pour commettre le crime.</div>
+        <div class="de spoiler">Ein Auftragskiller wurde angeheuert, um das Verbrechen zu begehen.</div>
+        <div class="fr">Le tueur était connu pour sa cruauté.</div>
+        <div class="de spoiler">Der Killer war für seine Grausamkeit bekannt.</div>
+      </div>
+    </div>
+  </div>
