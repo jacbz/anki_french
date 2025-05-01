@@ -5,9 +5,9 @@ Wortart: nm
 
 # Diese Felder gerne verbessern!
 Wort mit Artikel: le confrère
-Femininum / Plural: ''
+Femininum / Plural: consœur
 IPA: \kɔ̃.fʁɛʁ\
-Definition: Kollege
+Definition: (Berufs-)kollege
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -57,4 +57,32 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>collègue</i> und <i>confrère/consœur</i></div>
+    <div class="section-content">
+      <p><span class="fr">Collègue</span> (#1099) bezeichnet eine Person, die <span class="de">"im gleichen Unternehmen arbeitet"</span> oder <span class="de">"die gleiche Funktion ausübt"</span> wie eine andere Person. Im weiteren Sinne bezeichnet es auch Personen, die ähnliche Tätigkeiten ausüben.</p>
+      <div class="examples">
+        <div class="fr">Il mange avec ses collègues dans la salle des professeurs.</div>
+        <div class="de spoiler">Er isst mit seinen Kollegen im Lehrerzimmer.</div>
+        <div class="fr">Elle partage la même passion que ses collègues musiciens.</div>
+        <div class="de spoiler">Sie teilt die gleiche Leidenschaft wie ihre Musikerkollegen.</div>
+      </div>
+
+      <p><span class="fr">Confrère</span> (männlich) und <span class="fr">consœur</span> (weiblich) bezeichnen Personen, die <span class="de">"dem gleichen Berufsstand angehören"</span> oder <span class="de">"den gleichen freien Beruf ausüben"</span>, insbesondere bei freien Berufen wie Ärzten, Anwälten, Notaren, Architekten, Apothekern, Schriftstellern oder Journalisten. Der Begriff wird auch für Mitglieder derselben künstlerischen, literarischen oder wissenschaftlichen Gesellschaft verwendet.</p>
+      <div class="examples">
+        <div class="fr">Ma médecin m'a adressé à un de ses confrères.</div>
+        <div class="de spoiler">Meine Ärztin hat mich an einen ihrer Berufskollegen überwiesen.</div>
+        <div class="fr">Ce grand architecte s'attire l'admiration de ses confrères et consœurs.</div>
+        <div class="de spoiler">Dieser große Architekt gewinnt die Bewunderung seiner Berufskollegen und -kolleginnen.</div>
+      </div>
+
+      <p>Im modernen Französisch wird <span class="fr">confrère</span> in der Regel nur für Männer verwendet, während <span class="fr">consœur</span> für Frauen verwendet wird, unabhängig davon, ob sie in Beziehung zu einem Mann oder einer anderen Frau betrachtet werden.</p>
+      <div class="examples">
+        <div class="fr">Mon confrère avocat est aussi mon collègue au Parlement.</div>
+        <div class="de spoiler">Mein Anwaltskollege ist auch mein Kollege im Parlament.</div>
+        <div class="fr">Ma consœur à l'Académie des lettres du Québec a rédigé un brillant essai.</div>
+        <div class="de spoiler">Meine Kollegin in der Literaturakademie von Québec hat einen brillanten Essay verfasst.</div>
+      </div>
+    </div>
+  </div>
