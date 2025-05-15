@@ -7,7 +7,7 @@ Wortart: vi
 Wort mit Artikel: coopérer
 Femininum / Plural: ''
 IPA: \kɔ.ɔ.pe.ʁe\
-Definition: zusammenarbeiten
+Definition: zusammenarbeiten, zusammenwirken
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -60,4 +60,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>collaborer</i> und <i>coopérer</i></div>
+    <div class="section-content">
+      <p><span class="fr">Collaborer</span> (#2963) bedeutet <span class="de">"zusammenarbeiten"</span> und bezieht sich auf eine gemeinsame Arbeit an einem Projekt oder einer Aufgabe, oft mit Betonung auf dem Prozess der Zusammenarbeit selbst.</p>
+      <div class="examples">
+        <div class="fr">Les deux entreprises collaborent sur un nouveau projet technologique.</div>
+        <div class="de spoiler">Die beiden Unternehmen arbeiten an einem neuen Technologieprojekt zusammen.</div>
+        <div class="fr">Les artistes ont collaboré pour créer cette exposition unique.</div>
+        <div class="de spoiler">Die Künstler haben zusammengearbeitet, um diese einzigartige Ausstellung zu schaffen.</div>
+      </div>
+      <p><span class="fr">Coopérer</span> bedeutet ebenfalls <span class="de">"kooperieren"</span> oder <span class="de">"zusammenwirken"</span>, betont jedoch stärker die gegenseitige Unterstützung und das gemeinsame Ziel. Es kann auch die Idee vermitteln, dass jede Partei ihre eigene Rolle behält.</p>
+      <div class="examples">
+        <div class="fr">Les pays doivent coopérer pour lutter contre le changement climatique.</div>
+        <div class="de spoiler">Die Länder müssen kooperieren, um den Klimawandel zu bekämpfen.</div>
+        <div class="fr">Les différents services coopèrent pour résoudre ce problème complexe.</div>
+        <div class="de spoiler">Die verschiedenen Abteilungen arbeiten zusammen, um dieses komplexe Problem zu lösen.</div>
+      </div>
+      <p>Obwohl beide Verben <span class="de">"Zusammenarbeit"</span> bedeuten, hat <span class="fr">collaborer</span> oft eine engere Integration der Arbeit zur Folge, während <span class="fr">coopérer</span> mehr die Koordination separater Einheiten für ein gemeinsames Ziel betont.</p>
+    </div>
+  </div>
