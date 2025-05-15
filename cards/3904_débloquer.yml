@@ -7,7 +7,7 @@ Wortart: vt, vi, vr
 Wort mit Artikel: débloquer
 Femininum / Plural: ''
 IPA: \de.blɔ.ke\
-Definition: freimachen
+Definition: entsperren, lösen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -87,4 +87,27 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>débloquer</i> und <i>déboucher</i></div>
+    <div class="section-content">
+      <p><span class="fr">Débloquer</span> bedeutet grundsätzlich <span class="de">"entsperren"</span>, <span class="de">"freigeben"</span> oder <span class="de">"lösen"</span>. Es wird verwendet, wenn etwas Blockiertes wieder funktionsfähig gemacht wird.</p>
+      <div class="examples">
+        <div class="fr">Il faut débloquer la porte.</div>
+        <div class="de spoiler">Die Tür muss entsperrt werden.</div>
+        <div class="fr">Le gouvernement va débloquer des fonds pour la reconstruction.</div>
+        <div class="de spoiler">Die Regierung wird Mittel für den Wiederaufbau freigeben.</div>
+        <div class="fr">Tu débloques complètement !</div>
+        <div class="de spoiler">Du redest totalen Unsinn!</div>
+      </div>
+      <p><span class="fr">Déboucher</span> (#2639) bedeutet hingegen <span class="de">"entstopfen"</span>, <span class="de">"münden"</span> oder <span class="de">"entkorken"</span>. Es bezieht sich auf das Befreien von einer Verstopfung oder das Münden in einen offenen Raum.</p>
+      <div class="examples">
+        <div class="fr">Il faut déboucher l'évier.</div>
+        <div class="de spoiler">Das Spülbecken muss freigemacht werden.</div>
+        <div class="fr">La route débouche sur une grande place.</div>
+        <div class="de spoiler">Die Straße mündet in einen großen Platz.</div>
+        <div class="fr">Elle a débouché une bouteille de vin.</div>
+        <div class="de spoiler">Sie hat eine Flasche Wein entkorkt.</div>
+      </div>
+    </div>
+  </div>

@@ -260,7 +260,7 @@
 | 258 | gagner | gewinnen, verdienen | 62 |  | [Bearbeiten](cards/0258_gagner.yml) |
 | 259 | exemple | Beispiel | 36 |  | [Bearbeiten](cards/0259_exemple.yml) |
 | 260 | ville | Stadt | 38 |  | [Bearbeiten](cards/0260_ville.yml) |
-| 261 | économique | wirtschaftlich, sparsam | 27 |  | [Bearbeiten](cards/0261_économique.yml) |
+| 261 | économique | preiswert; Wirtschaft- | 27 |  | [Bearbeiten](cards/0261_économique.yml) |
 | 262 | mesure | Maß, Messung | 59 | X | [Bearbeiten](cards/0262_mesure.yml) |
 | 263 | histoire | Geschichte | 63 | X | [Bearbeiten](cards/0263_histoire.yml) |
 | 264 | haut | hoch; Höhe | 61 |  | [Bearbeiten](cards/0264_haut.yml) |
@@ -848,7 +848,7 @@
 | 846 | accès | Zugang | 36 |  | [Bearbeiten](cards/0846_accès.yml) |
 | 847 | champ | Feld, Bereich | 62 |  | [Bearbeiten](cards/0847_champ.yml) |
 | 848 | film | Film | 34 |  | [Bearbeiten](cards/0848_film.yml) |
-| 849 | charge | Last, Kosten | 61 |  | [Bearbeiten](cards/0849_charge.yml) |
+| 849 | charge | Last, Kosten; Amt | 61 |  | [Bearbeiten](cards/0849_charge.yml) |
 | 850 | envisager | erwägen; rechnen mit | 20 |  | [Bearbeiten](cards/0850_envisager.yml) |
 | 851 | commune | Gemeinde | 16 |  | [Bearbeiten](cards/0851_commune.yml) |
 | 852 | ressource | Ressource | 42 |  | [Bearbeiten](cards/0852_ressource.yml) |
@@ -3029,7 +3029,7 @@
 | 3027 | freiner | bremsen | 23 |  | [Bearbeiten](cards/3027_freiner.yml) |
 | 3028 | rattraper | (wieder) einholen, wiedergutmachen | 40 |  | [Bearbeiten](cards/3028_rattraper.yml) |
 | 3029 | matinée | Vormittag | 19 | X | [Bearbeiten](cards/3029_matinée.yml) |
-| 3030 | régir | regeln, bestimmen | 20 |  | [Bearbeiten](cards/3030_régir.yml) |
+| 3030 | régir | regeln, bestimmen | 20 | X | [Bearbeiten](cards/3030_régir.yml) |
 | 3031 | poème | Gedicht | 19 |  | [Bearbeiten](cards/3031_poème.yml) |
 | 3032 | bassin | Becken | 35 | X | [Bearbeiten](cards/3032_bassin.yml) |
 | 3033 | éteindre | ausschalten, löschen | 44 |  | [Bearbeiten](cards/3033_éteindre.yml) |
@@ -3775,7 +3775,7 @@
 | 3773 | sud-ouest | Südwesten | 16 |  | [Bearbeiten](cards/3773_sud-ouest.yml) |
 | 3774 | envergure | Spannweite | 22 |  | [Bearbeiten](cards/3774_envergure.yml) |
 | 3775 | touche | Taste | 55 |  | [Bearbeiten](cards/3775_touche.yml) |
-| 3776 | déterminant | entscheidend, ausschlaggebend | 17 |  | [Bearbeiten](cards/3776_déterminant.yml) |
+| 3776 | déterminant | bestimmend⁠, ausschlaggebend | 17 | X | [Bearbeiten](cards/3776_déterminant.yml) |
 | 3777 | sous-marin | U-Boot; Unterwasser- | 23 | X | [Bearbeiten](cards/3777_sous-marin.yml) |
 | 3778 | acheminement | Beförderung, Transport | 14 |  | [Bearbeiten](cards/3778_acheminement.yml) |
 | 3779 | externe | äußere(-r/s), extern | 17 |  | [Bearbeiten](cards/3779_externe.yml) |
@@ -3903,7 +3903,7 @@
 | 3901 | croix | Kreuz | 51 |  | [Bearbeiten](cards/3901_croix.yml) |
 | 3902 | nullement | in keiner Weise | 14 |  | [Bearbeiten](cards/3902_nullement.yml) |
 | 3903 | incorporer | eingliedern | 23 |  | [Bearbeiten](cards/3903_incorporer.yml) |
-| 3904 | débloquer | freimachen | 23 |  | [Bearbeiten](cards/3904_débloquer.yml) |
+| 3904 | débloquer | entsperren, lösen | 23 | X | [Bearbeiten](cards/3904_débloquer.yml) |
 | 3905 | ficher | registrieren; machen; einstecken | 40 | X | [Bearbeiten](cards/3905_ficher.yml) |
 | 3906 | censure | Zensur | 20 |  | [Bearbeiten](cards/3906_censure.yml) |
 | 3907 | linguistique | Linguistik | 20 |  | [Bearbeiten](cards/3907_linguistique.yml) |
@@ -3953,7 +3953,7 @@
 | 3951 | défaillance | Schwäche, Ausfall | 27 |  | [Bearbeiten](cards/3951_défaillance.yml) |
 | 3952 | hélas | ach, leider | 14 |  | [Bearbeiten](cards/3952_hélas.yml) |
 | 3953 | cabine | Kabine | 25 |  | [Bearbeiten](cards/3953_cabine.yml) |
-| 3954 | fardeau | Last | 15 |  | [Bearbeiten](cards/3954_fardeau.yml) |
+| 3954 | fardeau | Last, Bürde | 15 | X | [Bearbeiten](cards/3954_fardeau.yml) |
 | 3955 | héritier | Erbe/Erbin | 22 | X | [Bearbeiten](cards/3955_héritier.yml) |
 | 3956 | apport | Beitrag, Zufuhr | 21 |  | [Bearbeiten](cards/3956_apport.yml) |
 | 3957 | remboursement | Rückerstattung, Erstattung | 22 |  | [Bearbeiten](cards/3957_remboursement.yml) |
@@ -4025,7 +4025,7 @@
 | 4023 | efficacement | effektiv, wirksam | 11 |  | [Bearbeiten](cards/4023_efficacement.yml) |
 | 4024 | golfe | Golf | 15 | X | [Bearbeiten](cards/4024_golfe.yml) |
 | 4025 | ambiance | Stimmung, Atmosphäre | 21 |  | [Bearbeiten](cards/4025_ambiance.yml) |
-| 4026 | coopérer | zusammenarbeiten | 14 |  | [Bearbeiten](cards/4026_coopérer.yml) |
+| 4026 | coopérer | zusammenarbeiten, zusammenwirken | 14 | X | [Bearbeiten](cards/4026_coopérer.yml) |
 | 4027 | bus | Bus | 17 | X | [Bearbeiten](cards/4027_bus.yml) |
 | 4028 | septième | siebte(-r/s) | 21 |  | [Bearbeiten](cards/4028_septième.yml) |
 | 4029 | façade | Fassade | 21 |  | [Bearbeiten](cards/4029_façade.yml) |
@@ -4100,7 +4100,7 @@
 | 4098 | contingent | Kontingent | 24 |  | [Bearbeiten](cards/4098_contingent.yml) |
 | 4099 | émerger | auftauchen, hervorkommen | 22 |  | [Bearbeiten](cards/4099_émerger.yml) |
 | 4100 | instruire | unterrichten, belehren | 31 |  | [Bearbeiten](cards/4100_instruire.yml) |
-| 4101 | équité | Gerechtigkeit | 18 |  | [Bearbeiten](cards/4101_équité.yml) |
+| 4101 | équité | Fairness⁠, Billigkeit | 18 | X | [Bearbeiten](cards/4101_équité.yml) |
 | 4102 | inconscient | Unbewusste | 28 |  | [Bearbeiten](cards/4102_inconscient.yml) |
 | 4103 | chaleureux | herzlich, warmherzig | 15 |  | [Bearbeiten](cards/4103_chaleureux.yml) |
 | 4104 | déguiser | verkleiden | 20 |  | [Bearbeiten](cards/4104_déguiser.yml) |
