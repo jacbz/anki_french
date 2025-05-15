@@ -7,7 +7,7 @@ Wortart: nf
 Wort mit Artikel: une équité
 Femininum / Plural: ''
 IPA: \e.ki.te\
-Definition: Gerechtigkeit
+Definition: Fairness⁠, Billigkeit
 Register: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -72,4 +72,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>justice</i> und <i>équité</i></div>
+    <div class="section-content">
+      <p><span class="fr">Justice</span> (#637) bezieht sich auf <span class="de">"Gerechtigkeit"</span> im Sinne eines formellen Rechtssystems oder der Anwendung von Gesetzen und Regeln. Es impliziert oft eine institutionelle oder gesellschaftliche Dimension.</p>
+      <div class="examples">
+        <div class="fr">La justice a condamné le criminel à dix ans de prison.</div>
+        <div class="de spoiler">Die Justiz hat den Verbrecher zu zehn Jahren Gefängnis verurteilt.</div>
+        <div class="fr">Il croit en la justice et attend le verdict du tribunal.</div>
+        <div class="de spoiler">Er glaubt an die Gerechtigkeit und wartet auf das Urteil des Gerichts.</div>
+      </div>
+      <p><span class="fr">Équité</span> bedeutet <span class="de">"Fairness"</span> oder <span class="de">"Billigkeit"</span> und beschreibt eine moralische Qualität, die über die strikte Anwendung von Gesetzen hinausgeht. Es berücksichtigt individuelle Umstände und zielt auf eine faire Behandlung ab.</p>
+      <div class="examples">
+        <div class="fr">Le professeur doit traiter tous ses élèves avec équité.</div>
+        <div class="de spoiler">Der Lehrer muss alle seine Schüler mit Fairness behandeln.</div>
+        <div class="fr">L'équité exige que l'on prenne en compte la situation particulière de chacun.</div>
+        <div class="de spoiler">Billigkeit erfordert, dass die besondere Situation jedes Einzelnen berücksichtigt wird.</div>
+      </div>
+    </div>
+  </div>
