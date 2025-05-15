@@ -7,7 +7,7 @@ Wortart: adv
 Wort mit Artikel: certainement
 Femininum / Plural: ''
 IPA: \sɛʁ.tɛn.mɑ̃\
-Definition: bestimmt, sicherlich
+Definition: bestimmt, (ganz) sicher
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -69,4 +69,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>certes</i> und <i>certainement</i></div>
+    <div class="section-content">
+      <p><span class="fr">Certes</span> (#1021) bedeutet <span class="de">"gewiss"</span> oder <span class="de">"sicherlich"</span> und wird oft verwendet, um eine Zustimmung auszudrücken, die später durch einen Einwand relativiert wird. Es leitet häufig eine Einräumung ein, die mit "aber" oder "jedoch" fortgesetzt wird.</p>
+      <div class="examples">
+        <div class="fr">Certes, il est intelligent, mais il manque de motivation.</div>
+        <div class="de spoiler">Gewiss, er ist intelligent, aber es fehlt ihm an Motivation.</div>
+        <div class="fr">C'est certes un problème difficile, néanmoins nous devons le résoudre.</div>
+        <div class="de spoiler">Es ist sicherlich ein schwieriges Problem, dennoch müssen wir es lösen.</div>
+      </div>
+      <p><span class="fr">Certainement</span> bedeutet <span class="de">"bestimmt"</span> oder <span class="de">"mit Sicherheit"</span> und drückt eine stärkere, uneingeschränkte Gewissheit aus. Es wird oft als einfache Bekräftigung verwendet.</p>
+      <div class="examples">
+        <div class="fr">Il viendra certainement à la fête demain.</div>
+        <div class="de spoiler">Er wird bestimmt morgen zur Party kommen.</div>
+        <div class="fr">As-tu fini ton travail? - Certainement!</div>
+        <div class="de spoiler">Hast du deine Arbeit beendet? - Selbstverständlich!</div>
+      </div>
+    </div>
+  </div>
