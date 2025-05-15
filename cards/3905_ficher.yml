@@ -7,7 +7,7 @@ Wortart: vt, vr
 Wort mit Artikel: ficher
 Femininum / Plural: ''
 IPA: \fi.ʃe\
-Definition: vermerken, eintragen
+Definition: registrieren; machen; einstecken
 Register: ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -138,4 +138,54 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |2-
+      <p><span class="fr">Ficher</span> ist ein vielseitiges französisches Verb mit verschiedenen Bedeutungen und besonderen Partizipformen.</p>
+
+      <p>1. <span class="de">"Einstecken"</span> oder <span class="de">"einschlagen"</span> - etwas an seiner Spitze hineintreiben, wie bei einem Nagel oder Pfahl.</p>
+      <div class="examples">
+        <div class="fr">Ficher un clou dans le mur.</div>
+        <div class="de spoiler">Einen Nagel in die Wand schlagen.</div>
+      </div>
+
+      <p>2. <span class="de">"Erfassen"</span>, <span class="de">"registrieren"</span> (z.B. durch die Polizei).</p>
+      <div class="examples">
+        <div class="fr">Les suspects sont fichés par la police.</div>
+        <div class="de spoiler">Die Verdächtigen werden von der Polizei registriert.</div>
+      </div>
+
+      <p>3. In der reflexiven Form <span class="fr">s'en ficher</span>: <span class="de">"sich nicht kümmern"</span>, <span class="de">"egal sein"</span> (euphemistisch).</p>
+      <div class="examples">
+        <div class="fr">Je m'en fiche !</div>
+        <div class="de spoiler">Das ist mir egal!</div>
+      </div>
+
+      <p>4. Umgangssprachlich im Sinne von <span class="de">"tun"</span> oder <span class="de">"machen"</span>.</p>
+      <div class="examples">
+        <div class="fr">Qu'est-ce que tu fiches là ?</div>
+        <div class="de spoiler">Was machst du da?</div>
+      </div>
+
+      <p>5. In der reflexiven Form <span class="fr">se ficher de quelqu'un</span>: <span class="de">"sich über jemanden lustig machen"</span>.</p>
+      <div class="examples">
+        <div class="fr">Il se fiche de moi.</div>
+        <div class="de spoiler">Er macht sich über mich lustig.</div>
+      </div>
+
+      <h3>Partizipformen</h3>
+      <p><span class="fr">Fiché</span> – das reguläre Partizip Perfekt, verwendet für die formelleren Bedeutungen:</p>
+      <div class="examples">
+        <div class="fr">Il a fiché le couteau dans la planche.</div>
+        <div class="de spoiler">Er hat das Messer ins Brett gesteckt.</div>
+        <div class="fr">Le suspect a été fiché par les autorités.</div>
+        <div class="de spoiler">Der Verdächtige wurde von den Behörden registriert.</div>
+      </div>
+
+      <p><span class="fr">Fichu</span> – das unregelmäßige Partizip, hauptsächlich in umgangssprachlichen und euphemistischen Kontexten verwendet:</p>
+      <div class="examples">
+        <div class="fr">J'ai fichu mes clés quelque part et je ne les trouve plus.</div>
+        <div class="de spoiler">Ich habe meine Schlüssel irgendwo hingelegt und finde sie nicht mehr.</div>
+        <div class="fr">C'est fichu, on n'y arrivera jamais.</div>
+        <div class="de spoiler">Es ist aussichtslos, wir werden es nie schaffen.</div>
+      </div>
+
+      <p class="highlight">Die umgangssprachliche Bedeutung im Sinne von <span class="de">"sich nicht kümmern"</span> ist ein abgeschwächter Ausdruck für das vulgäre <span class="fr">foutre</span> (<span class="de">"ficken"</span>).</p>

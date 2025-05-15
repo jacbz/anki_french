@@ -1,6 +1,7 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
 * entscheidend, ausschlaggebend: [décisif](cards/2867_décisif.yml) (#2867), [déterminant](cards/3776_déterminant.yml) (#3776)
+* wirtschaftlich, sparsam: [économique](cards/0261_économique.yml) (#261), [économiquement](cards/4015_économiquement.yml) (#4015)
 * zusammenarbeiten: [collaborer](cards/2963_collaborer.yml) (#2963), [coopérer](cards/4026_coopérer.yml) (#4026)
 * Gerechtigkeit: [justice](cards/0637_justice.yml) (#637), [équité](cards/4101_équité.yml) (#4101)
 * Angriff: [attaque](cards/1655_attaque.yml) (#1655), [assaut](cards/3736_assaut.yml) (#3736), [offensive](cards/4119_offensive.yml) (#4119)

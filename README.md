@@ -34,7 +34,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 149.994 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1176 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 149.984 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1179 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -124,7 +124,7 @@ Insgesamt gibt es 5000 Karten mit 149.994 Beispielsätzen (durchschnittlich 30.0
 | 84 | personne | Person; niemand [verneint] | 60 | X | [Bearbeiten](cards/0084_personne.yml) |
 | 85 | rendre | zurückgeben; [zu etw.] machen | 59 |  | [Bearbeiten](cards/0085_rendre.yml) |
 | 86 | part | Anteil, Teil | 60 |  | [Bearbeiten](cards/0086_part.yml) |
-| 87 | dernier | letzter | 58 |  | [Bearbeiten](cards/0087_dernier.yml) |
+| 87 | dernier | letzter | 57 |  | [Bearbeiten](cards/0087_dernier.yml) |
 | 88 | venir | kommen | 64 | X | [Bearbeiten](cards/0088_venir.yml) |
 | 89 | pendant | während; Gegenstück | 53 | X | [Bearbeiten](cards/0089_pendant.yml) |
 | 90 | passer | verbringen, durchlaufen | 59 | X | [Bearbeiten](cards/0090_passer.yml) |
