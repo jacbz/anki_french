@@ -1,5 +1,6 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
+* sich bemühen: [efforcer](cards/2041_efforcer.yml) (#2041), [tâcher](cards/4043_tâcher.yml) (#4043)
 * Angriff: [attaque](cards/1655_attaque.yml) (#1655), [assaut](cards/3736_assaut.yml) (#3736), [offensive](cards/4119_offensive.yml) (#4119)
 * programmieren: [programmer](cards/2432_programmer.yml) (#2432), [coder](cards/4121_coder.yml) (#4121)
 * Gegner: [adversaire](cards/2288_adversaire.yml) (#2288), [opposant](cards/4128_opposant.yml) (#4128)
@@ -20,6 +21,7 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * schrecklich, furchtbar: [terrible](cards/1310_terrible.yml) (#1310), [horrible](cards/3190_horrible.yml) (#3190), [affreux](cards/4369_affreux.yml) (#4369)
 * Höhe: [hauteur](cards/1653_hauteur.yml) (#1653), [altitude](cards/4396_altitude.yml) (#4396)
 * angemessen, passend: [adéquat](cards/3525_adéquat.yml) (#3525), [approprié](cards/3591_approprié.yml) (#3591), [convenable](cards/4410_convenable.yml) (#4410)
+* Pfarrer: [pasteur](cards/4071_pasteur.yml) (#4071), [curé](cards/4422_curé.yml) (#4422)
 * Auto: [voiture](cards/0881_voiture.yml) (#881), [auto](cards/4494_auto.yml) (#4494)
 * Waffenstillstand: [trêve](cards/4455_trêve.yml) (#4455), [cessez-le-feu](cards/4505_cessez-le-feu.yml) (#4505)
 * Wunder: [miracle](cards/2638_miracle.yml) (#2638), [merveille](cards/4545_merveille.yml) (#4545)
@@ -33,7 +35,6 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 * Haar: [cheveu](cards/2296_cheveu.yml) (#2296), [poil](cards/4723_poil.yml) (#4723)
 * zwangsläufig: [forcément](cards/2188_forcément.yml) (#2188), [inévitablement](cards/4726_inévitablement.yml) (#4726)
 * beeilen: [dépêcher](cards/3771_dépêcher.yml) (#3771), [hâter](cards/4754_hâter.yml) (#4754)
-* verbinden: [relier](cards/1670_relier.yml) (#1670), [connecter](cards/4772_connecter.yml) (#4772)
 * früher, einst: [autrefois](cards/2384_autrefois.yml) (#2384), [jadis](cards/4795_jadis.yml) (#4795)
 * Alter: [âge](cards/0502_âge.yml) (#502), [vieillesse](cards/4813_vieillesse.yml) (#4813)
 * wiederholen: [répéter](cards/0630_répéter.yml) (#630), [réitérer](cards/4847_réitérer.yml) (#4847)
