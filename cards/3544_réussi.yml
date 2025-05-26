@@ -9,55 +9,84 @@ Femininum / Plural: réussie
 IPA: \ʁe.y.si\
 Definition: erfolgreich
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Sa vie est beaucoup plus *réussie* que la nôtre. \nSein Leben ist\
-  \ viel *erfolgreicher* als unseres.\n\nCe projet de recherche a été *réussi* grâce\
-  \ aux efforts de toute l'équipe.\nDieses Forschungsprojekt war dank der Anstrengungen\
-  \ des ganzen Teams *erfolgreich*.\n\nL'examen qu'elle a passé était *réussi*, ce\
-  \ qui l'a beaucoup soulagée.\nDie Prüfung, die sie abgelegt hat, war *bestanden*,\
-  \ was sie sehr erleichtert hat.\n\nLe chef a préparé un repas *réussi* pour le dîner\
-  \ d'entreprise.\nDer Chef hat für das Firmendinner ein *gelungenes* Essen zubereitet.\n\
-  \nLeur mariage a été une cérémonie *réussie* grâce à l'organisation parfaite.\n\
-  Ihre Hochzeit war dank der perfekten Organisation eine *gelungene* Feier.\n\nCette\
-  \ publicité est totalement *réussie* et attire beaucoup l'attention.\nDiese Werbung\
-  \ ist absolut *gelungen* und zieht viel Aufmerksamkeit auf sich.\n\nSon discours\
-  \ a été *réussi*, les invités l'ont félicité pour sa prestation.\nSeine Rede war\
-  \ *geglückt*, die Gäste haben ihn für seinen Auftritt beglückwünscht.\n\nMalgré\
-  \ quelques problèmes, la soirée a été dans l'ensemble *réussie*.\nTrotz einiger\
-  \ Probleme war der Abend insgesamt *gelungen*.\n\nNos vacances en Grèce ont été\
-  \ une véritable expérience *réussie*.\nUnser Urlaub in Griechenland war eine wahrhaft\
-  \ *erfolgreiche* Erfahrung.\n\nCet artiste a créé une œuvre d'art *réussie* qui\
-  \ a été grandement appréciée.\nDieser Künstler hat ein *geglücktes* Kunstwerk geschaffen,\
-  \ das sehr geschätzt wurde.\n\nMalheureusement, la tentative de vol n'a pas été\
-  \ *réussie*.\nLeider ist der Diebstahlversuch *nicht geglückt*.\n\nMalgré les difficultés,\
-  \ ce jeune entrepreneur a *réussi* à lancer sa start-up.\nTrotz der Schwierigkeiten\
-  \ hat dieser junge Unternehmer es *geschafft*, sein Start-up zu starten.\n\nElle\
-  \ a *réussi* à décrocher le poste convoité grâce à ses compétences.\nSie hat die\
-  \ begehrte Stelle dank ihrer Fähigkeiten *bekommen*.\n\nLe chef-d'œuvre de ce peintre\
-  \ est considéré comme une réalisation *réussie*.\nDas Meisterwerk dieses Malers\
-  \ wird als eine *gelungene* Leistung angesehen.\n\nAprès plusieurs essais, elle\
-  \ a finalement *réussi* à préparer un gâteau parfait.\nNach mehreren Versuchen hat\
-  \ sie es schließlich *geschafft*, einen perfekten Kuchen zuzubereiten.\n\nCette\
-  \ présentation a été *réussie* et a convaincue tous les participants.\nDiese Präsentation\
-  \ war *gelungen* und hat alle Teilnehmer überzeugt.\n\nMalgré le mauvais temps,\
-  \ la randonnée en montagne a été *réussie*.\nTrotz des schlechten Wetters war die\
-  \ Bergwanderung *erfolgreich*.\n\nGrâce à son expérience, le chef a *réussi* à concocter\
-  \ un plat exceptionnel.\nDank seiner Erfahrung ist es dem Chefkoch *gelungen*, ein\
-  \ außergewöhnliches Gericht zuzubereiten.\n\nNos efforts pour organiser cette fête\
-  \ d'anniversaire ont été *réussis*.\nUnsere Bemühungen, diese Geburtstagsfeier zu\
-  \ organisieren, waren *erfolgreich*.\n\nL'ingénieur a conçu un prototype de voiture\
-  \ *réussi* qui a impressionné les investisseurs.\nDer Ingenieur hat einen *gelungenen*\
-  \ Autoprotypen entworfen, der die Investoren beeindruckt hat.\n\nAprès plusieurs\
-  \ échecs, il a finalement *réussi* à décrocher le poste tant convoité.\nNach mehreren\
-  \ Misserfolgen hat er es schließlich *geschafft*, die so sehr ersehnte Stelle zu\
-  \ bekommen.\n\nCette pièce de théâtre est considérée comme une production particulièrement\
-  \ *réussie*.\nDieses Theaterstück gilt als eine besonders *gelungene* Produktion.\n\
-  \nGrâce à leur travail acharné, les étudiants ont *réussi* leurs examens avec succès.\n\
-  Dank ihrer harten Arbeit haben die Studenten ihre Prüfungen *erfolgreich* bestanden.\n\
-  \nMalgré les défis, l'entreprise a *réussi* à se développer et à s'imposer sur le\
-  \ marché.\nTrotz der Herausforderungen hat es das Unternehmen *geschafft*, sich\
-  \ zu entwickeln und auf dem Markt durchzusetzen.\n\nCette recette de cuisine est\
-  \ considérée comme *réussie* par tous les gourmets.\nDieses Kochrezept wird von\
-  \ allen Feinschmeckern als *gelungen* angesehen."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Sa vie est beaucoup plus *réussie* que la nôtre.
+  Sein Leben ist viel *erfolgreicher* als unseres.
+
+  Ce projet de recherche a été *réussi* grâce aux efforts de toute l'équipe.
+  Dieses Forschungsprojekt war dank der Anstrengungen des ganzen Teams *erfolgreich*.
+
+  L'examen qu'elle a passé était *réussi*, ce qui l'a beaucoup soulagée.
+  Die Prüfung, die sie abgelegt hat, war *bestanden*, was sie sehr erleichtert hat.
+
+  Le chef a préparé un repas *réussi* pour le dîner d'entreprise.
+  Der Chef hat für das Firmendinner ein *gelungenes* Essen zubereitet.
+
+  Leur mariage a été une cérémonie *réussie* grâce à l'organisation parfaite.
+  Ihre Hochzeit war dank der perfekten Organisation eine *gelungene* Feier.
+
+  Cette publicité est totalement *réussie* et attire beaucoup l'attention.
+  Diese Werbung ist absolut *gelungen* und zieht viel Aufmerksamkeit auf sich.
+
+  Son discours a été *réussi*, les invités l'ont félicité pour sa prestation.
+  Seine Rede war *geglückt*, die Gäste haben ihn für seinen Auftritt beglückwünscht.
+
+  Malgré quelques problèmes, la soirée a été dans l'ensemble *réussie*.
+  Trotz einiger Probleme war der Abend insgesamt *gelungen*.
+
+  Nos vacances en Grèce ont été une véritable expérience *réussie*.
+  Unser Urlaub in Griechenland war eine wahrhaft *erfolgreiche* Erfahrung.
+
+  Cet artiste a créé une œuvre d'art *réussie* qui a été grandement appréciée.
+  Dieser Künstler hat ein *geglücktes* Kunstwerk geschaffen, das sehr geschätzt wurde.
+
+  Malheureusement, la tentative de vol n'a pas été *réussie*.
+  Leider ist der Diebstahlversuch *nicht geglückt*.
+
+  Malgré les difficultés, ce jeune entrepreneur a *réussi* à lancer sa start-up.
+  Trotz der Schwierigkeiten hat dieser junge Unternehmer es *geschafft*, sein Start-up zu starten.
+
+  Elle a *réussi* à décrocher le poste convoité grâce à ses compétences.
+  Sie hat die begehrte Stelle dank ihrer Fähigkeiten *bekommen*.
+
+  Le chef-d'œuvre de ce peintre est considéré comme une réalisation *réussie*.
+  Das Meisterwerk dieses Malers wird als eine *gelungene* Leistung angesehen.
+
+  Après plusieurs essais, elle a finalement *réussi* à préparer un gâteau parfait.
+  Nach mehreren Versuchen hat sie es schließlich *geschafft*, einen perfekten Kuchen zuzubereiten.
+
+  Cette présentation a été *réussie* et a convaincue tous les participants.
+  Diese Präsentation war *gelungen* und hat alle Teilnehmer überzeugt.
+
+  Malgré le mauvais temps, la randonnée en montagne a été *réussie*.
+  Trotz des schlechten Wetters war die Bergwanderung *erfolgreich*.
+
+  Grâce à son expérience, le chef a *réussi* à concocter un plat exceptionnel.
+  Dank seiner Erfahrung ist es dem Chefkoch *gelungen*, ein außergewöhnliches Gericht zuzubereiten.
+
+  Nos efforts pour organiser cette fête d'anniversaire ont été *réussis*.
+  Unsere Bemühungen, diese Geburtstagsfeier zu organisieren, waren *erfolgreich*.
+
+  L'ingénieur a conçu un prototype de voiture *réussi* qui a impressionné les investisseurs.
+  Der Ingenieur hat einen *gelungenen* Autoprotypen entworfen, der die Investoren beeindruckt hat.
+
+  Après plusieurs échecs, il a finalement *réussi* à décrocher le poste tant convoité.
+  Nach mehreren Misserfolgen hat er es schließlich *geschafft*, die so sehr ersehnte Stelle zu bekommen.
+
+  Cette pièce de théâtre est considérée comme une production particulièrement *réussie*.
+  Dieses Theaterstück gilt als eine besonders *gelungene* Produktion.
+
+  Grâce à leur travail acharné, les étudiants ont *réussi* leurs examens avec succès.
+  Dank ihrer harten Arbeit haben die Studenten ihre Prüfungen *erfolgreich* bestanden.
+
+  Malgré les défis, l'entreprise a *réussi* à se développer et à s'imposer sur le marché.
+  Trotz der Herausforderungen hat es das Unternehmen *geschafft*, sich zu entwickeln und auf dem Markt durchzusetzen.
+
+  Cette recette de cuisine est considérée comme *réussie* par tous les gourmets.
+  Dieses Kochrezept wird von allen Feinschmeckern als *gelungen* angesehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

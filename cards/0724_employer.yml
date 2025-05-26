@@ -9,56 +9,102 @@ Femininum / Plural: ''
 IPA: \ɑ̃.plwa.je\
 Definition: verwenden; einstellen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Vous en *employez* beaucoup, de ces intellos gonflants.  \nIhr *beschäftigt*\
-  \ viele von diesen nervigen Intellektuellen.  \n\nL'entreprise *emploie* plus de\
-  \ deux cents ouvriers.  \nDie Firma *beschäftigt* über zweihundert Arbeiter.  \n\
-  \nCe mot ne s'*emploie* plus dans la langue courante.  \nDieses Wort wird in der\
-  \ Alltagssprache nicht mehr *verwendet*.  \n\nElle a *employé* tout son argent pour\
-  \ aider sa sœur.  \nSie hat ihr ganzes Geld dafür *verwendet*, um ihrer Schwester\
-  \ zu helfen.  \n\nJ'ai *employé* des moyens très simples pour résoudre ce problème.\
-  \  \nIch habe sehr einfache Mittel *angewendet*, um dieses Problem zu lösen.  \n\
-  \nIl *emploiera* tout son savoir-faire pour réussir ce projet.  \nEr wird all sein\
-  \ Können *einsetzen*, um dieses Projekt erfolgreich abzuschließen.  \n\nVous avez\
-  \ bien *employé* votre temps à réviser.  \nIhr habt eure Zeit gut dafür *genutzt*,\
-  \ zu lernen.  \n\nL'adjectif est *employé* comme nom dans cette phrase.  \nDas Adjektiv\
-  \ wird in diesem Satz als Nomen *gebraucht*.  \n\nIls se sont *employés* à trouver\
-  \ une solution ensemble.  \nSie haben sich gemeinsam sehr bemüht, eine Lösung zu\
-  \ finden.  \n\nIl est *employé* dans cette usine depuis cinq ans.  \nEr ist seit\
-  \ fünf Jahren in dieser Fabrik *beschäftigt*.  \n\nNous avons *employé* une stratégie\
-  \ différente cette fois-ci.  \nWir haben dieses Mal eine andere Strategie *verwendet*.\
-  \  \n\nLe mot «défaut» s'*emploie* souvent au pluriel.  \nDas Wort \"defaut\" wird\
-  \ oft im Plural *gebraucht*.  \n\nElle s'*emploie* à améliorer ses compétences en\
-  \ dessin.  \nSie gibt sich Mühe, ihre Zeichenfähigkeiten zu verbessern.  \n\nJe\
-  \ *emploie* un vocabulaire plus soutenu dans mes écrits formels.  \nIch *verwende*\
-  \ in meinen formellen Schriften einen gehobeneren Wortschatz.  \n\nNous devons *employer*\
-  \ des méthodes plus efficaces.  \nWir müssen effektivere Methoden *anwenden*.  \n\
-  \nL'entreprise va *employer* davantage de main-d'œuvre l'année prochaine.  \nDas\
-  \ Unternehmen wird im nächsten Jahr mehr Arbeitskräfte *beschäftigen*.  \n\nLes\
-  \ moyens que vous avez *employés* sont discutables.  \nDie Mittel, die Sie *angewendet*\
-  \ haben, sind fragwürdig.  \n\nElle *emploiera* tout son temps libre à apprendre\
-  \ le piano.  \nSie wird ihre ganze Freizeit dafür *verwenden*, Klavier zu lernen.\
-  \  \n\nCe terme technique ne s'*emploie* pas dans ce contexte.  \nDieser Fachbegriff\
-  \ wird in diesem Zusammenhang nicht *verwendet*.  \n\nLe patron a décidé de ne plus\
-  \ *employer* cet ouvrier.  \nDer Chef hat beschlossen, diesen Arbeiter nicht mehr\
-  \ zu *beschäftigen*.  \n\nIl est difficile d'*employer* des termes aussi abstraits\
-  \ dans une conversation normale.  \nEs ist schwierig, so abstrakte Begriffe in einem\
-  \ normalen Gespräch zu *verwenden*.  \n\nL'expression est mal *employée* dans cet\
-  \ article.  \nDer Ausdruck wird in diesem Artikel falsch *gebraucht*.  \n\nElle\
-  \ a *employé* son après-midi à préparer le repas pour ses amis.  \nSie hat ihren\
-  \ Nachmittag damit *verbracht*, das Essen für ihre Freunde vorzubereiten.  \n\n\
-  Les outils que vous avez *employés* ne sont pas adaptés à cette tâche.  \nDie Werkzeuge,\
-  \ die Sie *verwendet* haben, sind für diese Aufgabe nicht geeignet.  \n\nLes ouvriers\
-  \ *employés* sur ce chantier sont très qualifiés.  \nDie auf dieser Baustelle *beschäftigten*\
-  \ Arbeiter sind sehr qualifiziert.  \n\nJe m'*emploie* à créer un environnement\
-  \ de travail harmonieux.  \nIch *bemühe* mich, eine harmonische Arbeitsumgebung\
-  \ zu schaffen.  \n\nLa force brute qu'ils ont *employée* ne résout rien.  \nDie\
-  \ rohe Gewalt, die sie *eingesetzt* haben, löst nichts.  \n\nCe produit s'*emploie*\
-  \ généralement en petite quantité.  \nDieses Produkt wird normalerweise in kleinen\
-  \ Mengen *verwendet*.  \n\nIls ont *employé* toutes leurs ressources pour atteindre\
-  \ leur objectif.  \nSie haben all ihre Ressourcen *eingesetzt*, um ihr Ziel zu erreichen.\
-  \  \n\nElle *emploie* souvent des mots compliqués quand elle parle.  \nSie *verwendet*\
-  \ oft komplizierte Wörter, wenn sie spricht.  \n\nOn peut *employer* cet outil pour\
-  \ plusieurs fonctions.  \nMan kann dieses Werkzeug für mehrere Zwecke *verwenden*."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Vous en *employez* beaucoup, de ces intellos gonflants.
+  Ihr *beschäftigt* viele von diesen nervigen Intellektuellen.
+
+  L'entreprise *emploie* plus de deux cents ouvriers.
+  Die Firma *beschäftigt* über zweihundert Arbeiter.
+
+  Ce mot ne s'*emploie* plus dans la langue courante.
+  Dieses Wort wird in der Alltagssprache nicht mehr *verwendet*.
+
+  Elle a *employé* tout son argent pour aider sa sœur.
+  Sie hat ihr ganzes Geld dafür *verwendet*, um ihrer Schwester zu helfen.
+
+  J'ai *employé* des moyens très simples pour résoudre ce problème.
+  Ich habe sehr einfache Mittel *angewendet*, um dieses Problem zu lösen.
+
+  Il *emploiera* tout son savoir-faire pour réussir ce projet.
+  Er wird all sein Können *einsetzen*, um dieses Projekt erfolgreich abzuschließen.
+
+  Vous avez bien *employé* votre temps à réviser.
+  Ihr habt eure Zeit gut dafür *genutzt*, zu lernen.
+
+  L'adjectif est *employé* comme nom dans cette phrase.
+  Das Adjektiv wird in diesem Satz als Nomen *gebraucht*.
+
+  Ils se sont *employés* à trouver une solution ensemble.
+  Sie haben sich gemeinsam sehr bemüht, eine Lösung zu finden.
+
+  Il est *employé* dans cette usine depuis cinq ans.
+  Er ist seit fünf Jahren in dieser Fabrik *beschäftigt*.
+
+  Nous avons *employé* une stratégie différente cette fois-ci.
+  Wir haben dieses Mal eine andere Strategie *verwendet*.
+
+  Le mot «défaut» s'*emploie* souvent au pluriel.
+  Das Wort "defaut" wird oft im Plural *gebraucht*.
+
+  Elle s'*emploie* à améliorer ses compétences en dessin.
+  Sie gibt sich Mühe, ihre Zeichenfähigkeiten zu verbessern.
+
+  Je *emploie* un vocabulaire plus soutenu dans mes écrits formels.
+  Ich *verwende* in meinen formellen Schriften einen gehobeneren Wortschatz.
+
+  Nous devons *employer* des méthodes plus efficaces.
+  Wir müssen effektivere Methoden *anwenden*.
+
+  L'entreprise va *employer* davantage de main-d'œuvre l'année prochaine.
+  Das Unternehmen wird im nächsten Jahr mehr Arbeitskräfte *beschäftigen*.
+
+  Les moyens que vous avez *employés* sont discutables.
+  Die Mittel, die Sie *angewendet* haben, sind fragwürdig.
+
+  Elle *emploiera* tout son temps libre à apprendre le piano.
+  Sie wird ihre ganze Freizeit dafür *verwenden*, Klavier zu lernen.
+
+  Ce terme technique ne s'*emploie* pas dans ce contexte.
+  Dieser Fachbegriff wird in diesem Zusammenhang nicht *verwendet*.
+
+  Le patron a décidé de ne plus *employer* cet ouvrier.
+  Der Chef hat beschlossen, diesen Arbeiter nicht mehr zu *beschäftigen*.
+
+  Il est difficile d'*employer* des termes aussi abstraits dans une conversation normale.
+  Es ist schwierig, so abstrakte Begriffe in einem normalen Gespräch zu *verwenden*.
+
+  L'expression est mal *employée* dans cet article.
+  Der Ausdruck wird in diesem Artikel falsch *gebraucht*.
+
+  Elle a *employé* son après-midi à préparer le repas pour ses amis.
+  Sie hat ihren Nachmittag damit *verbracht*, das Essen für ihre Freunde vorzubereiten.
+
+  Les outils que vous avez *employés* ne sont pas adaptés à cette tâche.
+  Die Werkzeuge, die Sie *verwendet* haben, sind für diese Aufgabe nicht geeignet.
+
+  Les ouvriers *employés* sur ce chantier sont très qualifiés.
+  Die auf dieser Baustelle *beschäftigten* Arbeiter sind sehr qualifiziert.
+
+  Je m'*emploie* à créer un environnement de travail harmonieux.
+  Ich *bemühe* mich, eine harmonische Arbeitsumgebung zu schaffen.
+
+  La force brute qu'ils ont *employée* ne résout rien.
+  Die rohe Gewalt, die sie *eingesetzt* haben, löst nichts.
+
+  Ce produit s'*emploie* généralement en petite quantité.
+  Dieses Produkt wird normalerweise in kleinen Mengen *verwendet*.
+
+  Ils ont *employé* toutes leurs ressources pour atteindre leur objectif.
+  Sie haben all ihre Ressourcen *eingesetzt*, um ihr Ziel zu erreichen.
+
+  Elle *emploie* souvent des mots compliqués quand elle parle.
+  Sie *verwendet* oft komplizierte Wörter, wenn sie spricht.
+
+  On peut *employer* cet outil pour plusieurs fonctions.
+  Man kann dieses Werkzeug für mehrere Zwecke *verwenden*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

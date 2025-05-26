@@ -9,38 +9,66 @@ Femininum / Plural: dite
 IPA: \di\
 Definition: genannt, besagt
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "L'OTAN s'est transformée en organisation *dite* « de sécurité ». \
-  \ \nDie NATO hat sich in eine *sogenannte* \"Sicherheitsorganisation\" verwandelt.\
-  \  \n\nElle est arrivée à l'heure *dite*.  \nSie ist zur *vereinbarten* Zeit angekommen.\
-  \  \n\nLes *dits* de Socrate ont inspiré des générations de philosophes.  \nDie\
-  \ *Aussprüche* von Sokrates haben Generationen von Philosophen inspiriert.  \n\n\
-  Dans son discours, il a cité un *dit* célèbre d'un sage bouddhiste.  \nIn seiner\
-  \ Rede hat er einen berühmten *Spruch* eines buddhistischen Weisen zitiert.  \n\n\
-  Les anciens récitaient des *dits* pour transmettre leur savoir.  \nDie Alten trugen\
-  \ *Verse* vor, um ihr Wissen weiterzugeben.  \n\nIl faut lire le *Dit* de l'Herberie\
-  \ pour comprendre cette époque.  \nMan muss den *Vers* des Herboristen lesen, um\
-  \ diese Epoche zu verstehen.  \n\nÀ l'époque médiévale, le *dit* était une forme\
-  \ populaire de poésie narrative.  \nIm Mittelalter war der *Vers* eine beliebte\
-  \ Form der erzählenden Poesie.  \n\nIl était connu sous le nom de Charles le *Dit*\
-  \ Sage.  \nEr war unter dem Namen Karl der *genannte* Weise bekannt.  \n\nLa réunion\
-  \ s'est tenue à l'heure *dite* par le directeur.  \nDas Treffen fand zur *vereinbarten*\
-  \ Zeit statt, wie es der Direktor gesagt hatte.  \n\nElle a décrit la situation\
-  \ avec des termes *dits* techniques.  \nSie hat die Situation mit *sogenannten*\
-  \ Fachbegriffen beschrieben.  \n\nLes historiens analysent les *dits* et les gestes\
-  \ des rois médiévaux.  \nHistoriker analysieren die *Aussprüche* und Handlungen\
-  \ mittelalterlicher Könige.  \n\nCe village est un site *dit* touristique.  \nDieses\
-  \ Dorf ist ein *sogenanntes* Touristenziel.  \n\nLes enfants aiment écouter des\
-  \ histoires et des *dits* anciens.  \nKinder hören gerne Geschichten und alte *Verse*.\
-  \  \n\n\"Il va arriver à l'heure *dite*, c'est sûr !\"  \n\"Er wird zur *vereinbarten*\
-  \ Zeit kommen, ganz sicher!\"  \n\nLe *dit* de l'Herberie montre la créativité des\
-  \ auteurs du XIII<sup>e</sup>e siècle.  \nDer *Vers* des Herboristen zeigt die Kreativität\
-  \ der Autoren des 13. Jahrhunderts.  \n\nElle n'était pas présente à l'heure *dite*.\
-  \  \nSie war zur *vereinbarten* Zeit nicht da.  \n\nLes *dits* et maximes des philosophes\
-  \ anciens sont encore étudiés.  \nDie *Aussprüche* und Maximen der antiken Philosophen\
-  \ werden immer noch studiert.  \n\nL'homme *dit* sage ne fait jamais de promesses\
-  \ vaines.  \nDer *sogenannte* Weise gibt niemals leere Versprechen.  \n\nLe poème\
-  \ s'inscrit dans la tradition du *dit* narratif médiéval.  \nDas Gedicht gehört\
-  \ zur Tradition der mittelalterlichen *Erzählverse*.  "
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  L'OTAN s'est transformée en organisation *dite* « de sécurité ».
+  Die NATO hat sich in eine *sogenannte* "Sicherheitsorganisation" verwandelt.
+
+  Elle est arrivée à l'heure *dite*.
+  Sie ist zur *vereinbarten* Zeit angekommen.
+
+  Les *dits* de Socrate ont inspiré des générations de philosophes.
+  Die *Aussprüche* von Sokrates haben Generationen von Philosophen inspiriert.
+
+  Dans son discours, il a cité un *dit* célèbre d'un sage bouddhiste.
+  In seiner Rede hat er einen berühmten *Spruch* eines buddhistischen Weisen zitiert.
+
+  Les anciens récitaient des *dits* pour transmettre leur savoir.
+  Die Alten trugen *Verse* vor, um ihr Wissen weiterzugeben.
+
+  Il faut lire le *Dit* de l'Herberie pour comprendre cette époque.
+  Man muss den *Vers* des Herboristen lesen, um diese Epoche zu verstehen.
+
+  À l'époque médiévale, le *dit* était une forme populaire de poésie narrative.
+  Im Mittelalter war der *Vers* eine beliebte Form der erzählenden Poesie.
+
+  Il était connu sous le nom de Charles le *Dit* Sage.
+  Er war unter dem Namen Karl der *genannte* Weise bekannt.
+
+  La réunion s'est tenue à l'heure *dite* par le directeur.
+  Das Treffen fand zur *vereinbarten* Zeit statt, wie es der Direktor gesagt hatte.
+
+  Elle a décrit la situation avec des termes *dits* techniques.
+  Sie hat die Situation mit *sogenannten* Fachbegriffen beschrieben.
+
+  Les historiens analysent les *dits* et les gestes des rois médiévaux.
+  Historiker analysieren die *Aussprüche* und Handlungen mittelalterlicher Könige.
+
+  Ce village est un site *dit* touristique.
+  Dieses Dorf ist ein *sogenanntes* Touristenziel.
+
+  Les enfants aiment écouter des histoires et des *dits* anciens.
+  Kinder hören gerne Geschichten und alte *Verse*.
+
+  "Il va arriver à l'heure *dite*, c'est sûr !"
+  "Er wird zur *vereinbarten* Zeit kommen, ganz sicher!"
+
+  Le *dit* de l'Herberie montre la créativité des auteurs du XIII<sup>e</sup>e siècle.
+  Der *Vers* des Herboristen zeigt die Kreativität der Autoren des 13. Jahrhunderts.
+
+  Elle n'était pas présente à l'heure *dite*.
+  Sie war zur *vereinbarten* Zeit nicht da.
+
+  Les *dits* et maximes des philosophes anciens sont encore étudiés.
+  Die *Aussprüche* und Maximen der antiken Philosophen werden immer noch studiert.
+
+  L'homme *dit* sage ne fait jamais de promesses vaines.
+  Der *sogenannte* Weise gibt niemals leere Versprechen.
+
+  Le poème s'inscrit dans la tradition du *dit* narratif médiéval.
+  Das Gedicht gehört zur Tradition der mittelalterlichen *Erzählverse*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

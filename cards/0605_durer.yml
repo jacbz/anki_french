@@ -9,33 +9,87 @@ Femininum / Plural: ''
 IPA: \dy.ʁe\
 Definition: dauern
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "Voilà quinze jours que ça *dure*.\nDas *dauert* jetzt schon seit zwei\
-  \ Wochen. \n\nLa réunion a *duré* trois heures.\nDie Sitzung hat drei Stunden *gedauert*.\n\
-  \nLa tempête va *durer* toute la nuit.\nDer Sturm wird die ganze Nacht *anhalten*.\n\
-  \nCette robe m'a *duré* cinq ans.\nDieses Kleid hat fünf Jahre *gehalten*.\n\nLeur\
-  \ amitié n'a pas *duré* longtemps.\nIhre Freundschaft hat nicht lange *gedauert*.\n\
-  \nCette table est faite pour *durer*.\nDieser Tisch ist *haltbar* gemacht.\n\nLe\
-  \ spectacle *durera* jusqu'à minuit.\nDie Show wird bis Mitternacht *dauern*.\n\n\
-  Il faut faire *durer* le plaisir.\nMan muss die Freude *aufrechterhalten*.\n\n\"\
-  Ça *durera* ce que ça *durera*!\"\n\"Das wird *halten*, solange es *hält*!\"\n\n\
-  Le beau temps ne va pas *durer*.\nDas schöne Wetter wird nicht *anhalten*.\n\nCette\
-  \ situation ne peut plus *durer*.\nDiese Situation kann nicht mehr *andauern*.\n\
-  \nLa période des examens *dure* deux semaines.\nDie Prüfungszeit *dauert* zwei Wochen.\n\
-  \nCette mode ne va pas *durer* longtemps.\nDieser Trend wird sich nicht lange *halten*.\n\
-  \nLes batteries *durent* environ trois ans.\nDie Batterien *halten* ungefähr drei\
-  \ Jahre.\n\nLa fièvre *dure* depuis hier soir.\nDas Fieber *hält* seit gestern Abend\
-  \ *an*.\n\nCombien de temps la séance va-t-elle *durer*?\nWie lange wird die Sitzung\
-  \ *dauern*?\n\nNotre histoire d'amour a *duré* cinq ans.\nUnsere Liebesgeschichte\
-  \ hat fünf Jahre *gedauert*.\n\nCes chaussures ne vont pas *durer* longtemps.\n\
-  Diese Schuhe werden nicht lange *halten*.\n\nLe concert a *duré* plus longtemps\
-  \ que prévu.\nDas Konzert hat länger *gedauert* als geplant.\n\nLe film *dure* deux\
-  \ heures et demie.\nDer Film *dauert* zweieinhalb Stunden.\n\nCette conversation\
-  \ a assez *duré*.\nDieses Gespräch hat lange genug *gedauert*.\n\nCes meubles sont\
-  \ conçus pour *durer*.\nDiese Möbel sind auf *Haltbarkeit* ausgelegt.\n\nLe malentendu\
-  \ a trop *duré*.\nDas Missverständnis hat zu lange *gedauert*.\n\nLa pluie va *durer*\
-  \ toute la semaine.\nDer Regen wird die ganze Woche *anhalten*.\n\nLa pause *dure*\
-  \ quinze minutes.\nDie Pause *dauert* fünfzehn Minuten.\n\nLe silence entre nous\
-  \ a *duré* une éternité.\nDas Schweigen zwischen uns hat eine Ewigkeit *gedauert*."
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  Voilà quinze jours que ça *dure*.
+  Das *dauert* jetzt schon seit zwei Wochen.
+
+  La réunion a *duré* trois heures.
+  Die Sitzung hat drei Stunden *gedauert*.
+
+  La tempête va *durer* toute la nuit.
+  Der Sturm wird die ganze Nacht *anhalten*.
+
+  Cette robe m'a *duré* cinq ans.
+  Dieses Kleid hat fünf Jahre *gehalten*.
+
+  Leur amitié n'a pas *duré* longtemps.
+  Ihre Freundschaft hat nicht lange *gedauert*.
+
+  Cette table est faite pour *durer*.
+  Dieser Tisch ist *haltbar* gemacht.
+
+  Le spectacle *durera* jusqu'à minuit.
+  Die Show wird bis Mitternacht *dauern*.
+
+  Il faut faire *durer* le plaisir.
+  Man muss die Freude *aufrechterhalten*.
+
+  "Ça *durera* ce que ça *durera*!"
+  "Das wird *halten*, solange es *hält*!"
+
+  Le beau temps ne va pas *durer*.
+  Das schöne Wetter wird nicht *anhalten*.
+
+  Cette situation ne peut plus *durer*.
+  Diese Situation kann nicht mehr *andauern*.
+
+  La période des examens *dure* deux semaines.
+  Die Prüfungszeit *dauert* zwei Wochen.
+
+  Cette mode ne va pas *durer* longtemps.
+  Dieser Trend wird sich nicht lange *halten*.
+
+  Les batteries *durent* environ trois ans.
+  Die Batterien *halten* ungefähr drei Jahre.
+
+  La fièvre *dure* depuis hier soir.
+  Das Fieber *hält* seit gestern Abend *an*.
+
+  Combien de temps la séance va-t-elle *durer*?
+  Wie lange wird die Sitzung *dauern*?
+
+  Notre histoire d'amour a *duré* cinq ans.
+  Unsere Liebesgeschichte hat fünf Jahre *gedauert*.
+
+  Ces chaussures ne vont pas *durer* longtemps.
+  Diese Schuhe werden nicht lange *halten*.
+
+  Le concert a *duré* plus longtemps que prévu.
+  Das Konzert hat länger *gedauert* als geplant.
+
+  Le film *dure* deux heures et demie.
+  Der Film *dauert* zweieinhalb Stunden.
+
+  Cette conversation a assez *duré*.
+  Dieses Gespräch hat lange genug *gedauert*.
+
+  Ces meubles sont conçus pour *durer*.
+  Diese Möbel sind auf *Haltbarkeit* ausgelegt.
+
+  Le malentendu a trop *duré*.
+  Das Missverständnis hat zu lange *gedauert*.
+
+  La pluie va *durer* toute la semaine.
+  Der Regen wird die ganze Woche *anhalten*.
+
+  La pause *dure* quinze minutes.
+  Die Pause *dauert* fünfzehn Minuten.
+
+  Le silence entre nous a *duré* une éternité.
+  Das Schweigen zwischen uns hat eine Ewigkeit *gedauert*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

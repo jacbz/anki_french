@@ -9,45 +9,75 @@ Femininum / Plural: ''
 IPA: \sa.kʁi.fis\
 Definition: Opfer(-ung)
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
-Beispielsätze: "La ville a prévu un *sacrifice* humain.  \nDie Stadt hat ein *Menschenopfer*\
-  \ geplant.  \n\nIl a fait le *sacrifice* de tout son temps pour réussir ce projet.\
-  \  \nEr hat sein ganzes Leben *geopfert*, um dieses Projekt erfolgreich zu machen.\
-  \  \n\nIls ont dû faire de grands *sacrifices* pour l’éducation de leurs enfants.\
-  \  \nSie mussten große *Opfer* für die Ausbildung ihrer Kinder bringen.  \n\nElle\
-  \ s’est résolue au *sacrifice* de sa carrière pour élever ses enfants.  \nSie hat\
-  \ sich entschieden, ihre Karriere *aufzugeben*, um ihre Kinder großzuziehen.  \n\
-  \nLe prêtre a accompli le *sacrifice* sur l’autel.  \nDer Priester hat das *Opfer*\
-  \ am Altar vollzogen.  \n\nIls ont consenti au *sacrifice* de leurs vacances pour\
-  \ aider leurs amis.  \nSie haben auf ihren Urlaub *verzichtet*, um ihren Freunden\
-  \ zu helfen.  \n\nJe suis prêt à faire tous les *sacrifices* nécessaires pour atteindre\
-  \ ce but.  \nIch bin bereit, alle notwendigen *Opfer* zu bringen, um dieses Ziel\
-  \ zu erreichen.  \n\nLe *sacrifice* d’Abraham est un épisode célèbre de la Bible.\
-  \  \nDas *Opfer* Abrahams ist ein bekanntes Ereignis der Bibel.  \n\nElle a fait\
-  \ le *sacrifice* de ses économies pour soutenir cette cause.  \nSie hat ihre Ersparnisse\
-  \ *geopfert*, um diese Sache zu unterstützen.  \n\nLe saint *sacrifice* de la messe\
-  \ est un moment important dans la liturgie catholique.  \nDas heilige *Opfer* der\
-  \ Messe ist ein wichtiger Moment in der katholischen Liturgie.  \n\nLe général a\
-  \ demandé des *sacrifices* au peuple pour vaincre l’ennemi.  \nDer General hat vom\
-  \ Volk *Opfer* gefordert, um den Feind zu besiegen.  \n\nIls ont fait de nombreux\
-  \ *sacrifices* pour mener à bien cette mission.  \nSie haben viele *Opfer* gebracht,\
-  \ um diese Mission erfolgreich zu beenden.  \n\nSon *sacrifice* n’aura pas été en\
-  \ vain.  \nSein *Opfer* wird nicht umsonst gewesen sein.  \n\nIl a accepté le *sacrifice*\
-  \ financier pour aider sa famille.  \nEr hat das finanzielle *Opfer* akzeptiert,\
-  \ um seiner Familie zu helfen.  \n\nLe roi a ordonné un *sacrifice* sanglant pour\
-  \ apaiser les dieux.  \nDer König hat ein blutiges *Opfer* angeordnet, um die Götter\
-  \ zu besänftigen.  \n\nElle a l’esprit de *sacrifice* et met toujours les autres\
-  \ avant elle-même.  \nSie hat einen ausgeprägten *Opfergeist* und stellt immer die\
-  \ anderen vor sich selbst.  \n\nIl a fait le *sacrifice* de sa propre vie pour sauver\
-  \ ses amis.  \nEr hat sein eigenes Leben *geopfert*, um seine Freunde zu retten.\
-  \  \n\nLe *sacrifice* d’Iphigénie est une tragédie célèbre dans la mythologie grecque.\
-  \  \nDas *Opfer* von Iphigenie ist eine berühmte Tragödie der griechischen Mythologie.\
-  \  \n\nIls ont accompli le *sacrifice* rituel selon la tradition ancienne.  \nSie\
-  \ haben das rituelle *Opfer* gemäß der alten Tradition vollzogen.  \n\nNous devons\
-  \ tous être prêts à faire des *sacrifices* pour le bien commun.  \nWir müssen alle\
-  \ bereit sein, *Opfer* für das Gemeinwohl zu bringen.  \n\nCe *sacrifice* ne sera\
-  \ jamais oublié.  \nDieses *Opfer* wird niemals vergessen werden.  \n\nLe *sacrifice*\
-  \ du pion était nécessaire pour gagner la partie.  \nDas *Opfer* des Bauern war\
-  \ notwendig, um das Spiel zu gewinnen.  "
+
+# Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
+# Zwischen jedem Paar kommen zwei Zeilenumbrüche.
+Beispielsätze: |-
+  La ville a prévu un *sacrifice* humain.
+  Die Stadt hat ein *Menschenopfer* geplant.
+
+  Il a fait le *sacrifice* de tout son temps pour réussir ce projet.
+  Er hat sein ganzes Leben *geopfert*, um dieses Projekt erfolgreich zu machen.
+
+  Ils ont dû faire de grands *sacrifices* pour l’éducation de leurs enfants.
+  Sie mussten große *Opfer* für die Ausbildung ihrer Kinder bringen.
+
+  Elle s’est résolue au *sacrifice* de sa carrière pour élever ses enfants.
+  Sie hat sich entschieden, ihre Karriere *aufzugeben*, um ihre Kinder großzuziehen.
+
+  Le prêtre a accompli le *sacrifice* sur l’autel.
+  Der Priester hat das *Opfer* am Altar vollzogen.
+
+  Ils ont consenti au *sacrifice* de leurs vacances pour aider leurs amis.
+  Sie haben auf ihren Urlaub *verzichtet*, um ihren Freunden zu helfen.
+
+  Je suis prêt à faire tous les *sacrifices* nécessaires pour atteindre ce but.
+  Ich bin bereit, alle notwendigen *Opfer* zu bringen, um dieses Ziel zu erreichen.
+
+  Le *sacrifice* d’Abraham est un épisode célèbre de la Bible.
+  Das *Opfer* Abrahams ist ein bekanntes Ereignis der Bibel.
+
+  Elle a fait le *sacrifice* de ses économies pour soutenir cette cause.
+  Sie hat ihre Ersparnisse *geopfert*, um diese Sache zu unterstützen.
+
+  Le saint *sacrifice* de la messe est un moment important dans la liturgie catholique.
+  Das heilige *Opfer* der Messe ist ein wichtiger Moment in der katholischen Liturgie.
+
+  Le général a demandé des *sacrifices* au peuple pour vaincre l’ennemi.
+  Der General hat vom Volk *Opfer* gefordert, um den Feind zu besiegen.
+
+  Ils ont fait de nombreux *sacrifices* pour mener à bien cette mission.
+  Sie haben viele *Opfer* gebracht, um diese Mission erfolgreich zu beenden.
+
+  Son *sacrifice* n’aura pas été en vain.
+  Sein *Opfer* wird nicht umsonst gewesen sein.
+
+  Il a accepté le *sacrifice* financier pour aider sa famille.
+  Er hat das finanzielle *Opfer* akzeptiert, um seiner Familie zu helfen.
+
+  Le roi a ordonné un *sacrifice* sanglant pour apaiser les dieux.
+  Der König hat ein blutiges *Opfer* angeordnet, um die Götter zu besänftigen.
+
+  Elle a l’esprit de *sacrifice* et met toujours les autres avant elle-même.
+  Sie hat einen ausgeprägten *Opfergeist* und stellt immer die anderen vor sich selbst.
+
+  Il a fait le *sacrifice* de sa propre vie pour sauver ses amis.
+  Er hat sein eigenes Leben *geopfert*, um seine Freunde zu retten.
+
+  Le *sacrifice* d’Iphigénie est une tragédie célèbre dans la mythologie grecque.
+  Das *Opfer* von Iphigenie ist eine berühmte Tragödie der griechischen Mythologie.
+
+  Ils ont accompli le *sacrifice* rituel selon la tradition ancienne.
+  Sie haben das rituelle *Opfer* gemäß der alten Tradition vollzogen.
+
+  Nous devons tous être prêts à faire des *sacrifices* pour le bien commun.
+  Wir müssen alle bereit sein, *Opfer* für das Gemeinwohl zu bringen.
+
+  Ce *sacrifice* ne sera jamais oublié.
+  Dieses *Opfer* wird niemals vergessen werden.
+
+  Le *sacrifice* du pion était nécessaire pour gagner la partie.
+  Das *Opfer* des Bauern war notwendig, um das Spiel zu gewinnen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
