@@ -116,6 +116,8 @@ async function playAudio({text, customFileName = undefined, lang = "fr-FR"}) {
 
 const memoizedTTSUrls = {};
 
+const voices = ["Zephyr", "Puck", "Charon", "Kore", "Fenrir", "Leda", "Orus", "Aoede", "Callirhoe", "Autonoe", "Enceladus", "Iapetus", "Umbriel", "Algieba", "Despina", "Erinome", "Algenib", "Rasalgethi", "Laomedeia", "Achernar", "Alnilam", "Schedar", "Gacrux", "Pulcherrima", "Achird", "Zubenelgenubi", "Vindemiatrix", "Sadachbia", "Sadaltager", "Sulafar"];
+
 async function getTTSUrl(textToRead, forceGoogleTranslate = false, lang = "fr-FR") {
   const text = textToRead.replaceAll("*", "");
   
@@ -132,12 +134,12 @@ async function getTTSUrl(textToRead, forceGoogleTranslate = false, lang = "fr-FR
     const textInput = decodeURIComponent(text).replaceAll("*", "").replaceAll("→", ";").replace(/[\u0000-\u001F\u007F-\u009F\u200B\u2060\uFEFF\u202f]/g, "");
     let voice = {
       languageCode: "fr-FR",
-      name: "fr-FR-Journey-" + ["D", "F", "O"][Math.floor(Math.random() * 3)],
+      name: "fr-FR-Chirp3-HD-" + voices[Math.floor(Math.random() * voices.length)],
     };
     if (lang === "de-DE") {
       voice = {
         languageCode: "de-DE",
-        name: "de-DE-Journey-" + ["D", "F", "O"][Math.floor(Math.random() * 3)],
+        name: "de-DE-Chirp3-HD-" + voices[Math.floor(Math.random() * voices.length)],
       };
     }
 
