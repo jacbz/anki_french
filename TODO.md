@@ -1,9 +1,8 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
+* Angriff: [attaque](cards/1655_attaque.yml) (#1655), [assaut](cards/3736_assaut.yml) (#3736)
+* Fahrer: [conducteur](cards/3072_conducteur.yml) (#3072), [chauffeur](cards/3814_chauffeur.yml) (#3814)
 * sich bemühen: [efforcer](cards/2041_efforcer.yml) (#2041), [tâcher](cards/4043_tâcher.yml) (#4043)
-* Angriff: [attaque](cards/1655_attaque.yml) (#1655), [assaut](cards/3736_assaut.yml) (#3736), [offensive](cards/4119_offensive.yml) (#4119)
-* programmieren: [programmer](cards/2432_programmer.yml) (#2432), [coder](cards/4121_coder.yml) (#4121)
-* Gegner: [adversaire](cards/2288_adversaire.yml) (#2288), [opposant](cards/4128_opposant.yml) (#4128)
 * Händler: [marchand](cards/2379_marchand.yml) (#2379), [commerçant](cards/4167_commerçant.yml) (#4167)
 * Brust: [sein](cards/0563_sein.yml) (#563), [poitrine](cards/4168_poitrine.yml) (#4168)
 * wettbewerbsfähig: [compétitif](cards/4173_compétitif.yml) (#4173), [concurrentiel](cards/4179_concurrentiel.yml) (#4179)

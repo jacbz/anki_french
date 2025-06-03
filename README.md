@@ -34,7 +34,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 149.984 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1185 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 149.980 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1185 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -121,7 +121,7 @@ Insgesamt gibt es 5000 Karten mit 149.984 Beispielsätzen (durchschnittlich 30.0
 | 81 | alors | dann, also | 35 |  | [Bearbeiten](cards/0081_alors.yml) |
 | 82 | après | nach, später | 60 | X | [Bearbeiten](cards/0082_après.yml) |
 | 83 | trouver | finden | 60 |  | [Bearbeiten](cards/0083_trouver.yml) |
-| 84 | personne | Person; niemand [verneint] | 60 | X | [Bearbeiten](cards/0084_personne.yml) |
+| 84 | personne | Person; niemand | 60 | X | [Bearbeiten](cards/0084_personne.yml) |
 | 85 | rendre | zurückgeben; [zu etw.] machen | 59 |  | [Bearbeiten](cards/0085_rendre.yml) |
 | 86 | part | Anteil, Teil | 60 |  | [Bearbeiten](cards/0086_part.yml) |
 | 87 | dernier | letzter | 57 |  | [Bearbeiten](cards/0087_dernier.yml) |

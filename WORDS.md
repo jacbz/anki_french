@@ -83,7 +83,7 @@
 | 81 | alors | dann, also | 35 |  | [Bearbeiten](cards/0081_alors.yml) |
 | 82 | après | nach, später | 60 | X | [Bearbeiten](cards/0082_après.yml) |
 | 83 | trouver | finden | 60 |  | [Bearbeiten](cards/0083_trouver.yml) |
-| 84 | personne | Person; niemand [verneint] | 60 | X | [Bearbeiten](cards/0084_personne.yml) |
+| 84 | personne | Person; niemand | 60 | X | [Bearbeiten](cards/0084_personne.yml) |
 | 85 | rendre | zurückgeben; [zu etw.] machen | 59 |  | [Bearbeiten](cards/0085_rendre.yml) |
 | 86 | part | Anteil, Teil | 60 |  | [Bearbeiten](cards/0086_part.yml) |
 | 87 | dernier | letzter | 57 |  | [Bearbeiten](cards/0087_dernier.yml) |
@@ -1361,7 +1361,7 @@
 | 1359 | renouveler | erneuern, verlängern | 44 |  | [Bearbeiten](cards/1359_renouveler.yml) |
 | 1360 | asseoir | (sich) setzen | 37 | X | [Bearbeiten](cards/1360_asseoir.yml) |
 | 1361 | oh | ach, oh | 15 |  | [Bearbeiten](cards/1361_oh.yml) |
-| 1362 | transfert | Übertragung, Verlegung | 43 |  | [Bearbeiten](cards/1362_transfert.yml) |
+| 1362 | transfert | Verlegung, Übertragung | 43 |  | [Bearbeiten](cards/1362_transfert.yml) |
 | 1363 | renoncer | aufgeben, verzichten | 33 |  | [Bearbeiten](cards/1363_renoncer.yml) |
 | 1364 | roi | König | 52 |  | [Bearbeiten](cards/1364_roi.yml) |
 | 1365 | soi | sich (selbst) | 36 |  | [Bearbeiten](cards/1365_soi.yml) |
@@ -2058,7 +2058,7 @@
 | 2056 | détenir | besitzen, festnehmen | 22 |  | [Bearbeiten](cards/2056_détenir.yml) |
 | 2057 | évaluation | Bewertung, Beurteilung | 25 |  | [Bearbeiten](cards/2057_évaluation.yml) |
 | 2058 | installation | Anlage, Einrichtung | 31 |  | [Bearbeiten](cards/2058_installation.yml) |
-| 2059 | innocent | unschuldig | 34 |  | [Bearbeiten](cards/2059_innocent.yml) |
+| 2059 | innocent | unschuldig | 33 |  | [Bearbeiten](cards/2059_innocent.yml) |
 | 2060 | fameux | berüchtigt, ungeheuer | 26 | X | [Bearbeiten](cards/2060_fameux.yml) |
 | 2061 | cultiver | anbauen, pflegen | 30 |  | [Bearbeiten](cards/2061_cultiver.yml) |
 | 2062 | doux | weich, süß, mild | 60 |  | [Bearbeiten](cards/2062_doux.yml) |
@@ -2988,7 +2988,7 @@
 | 2986 | mélange | Mischung | 34 |  | [Bearbeiten](cards/2986_mélange.yml) |
 | 2987 | pourcentage | Prozentsatz | 16 |  | [Bearbeiten](cards/2987_pourcentage.yml) |
 | 2988 | permis | Führerschein | 26 |  | [Bearbeiten](cards/2988_permis.yml) |
-| 2989 | mélanger | mischen, vermengen | 30 | X | [Bearbeiten](cards/2989_mélanger.yml) |
+| 2989 | mélanger | mischen; verwechseln | 30 | X | [Bearbeiten](cards/2989_mélanger.yml) |
 | 2990 | proprement | ordentlich; typisch | 22 |  | [Bearbeiten](cards/2990_proprement.yml) |
 | 2991 | enfoncer | eindrücken, hineinsinken | 58 |  | [Bearbeiten](cards/2991_enfoncer.yml) |
 | 2992 | clandestin | geheim, illegal, Schwarz- | 19 |  | [Bearbeiten](cards/2992_clandestin.yml) |
@@ -3071,7 +3071,7 @@
 | 3069 | grandeur | Größe, Erhabenheit | 48 |  | [Bearbeiten](cards/3069_grandeur.yml) |
 | 3070 | entraînement | Training, Übung | 24 |  | [Bearbeiten](cards/3070_entraînement.yml) |
 | 3071 | déborder | überlaufen, hinausragen | 47 |  | [Bearbeiten](cards/3071_déborder.yml) |
-| 3072 | conducteur | Fahrer; leitend | 29 |  | [Bearbeiten](cards/3072_conducteur.yml) |
+| 3072 | conducteur | Fahrer | 29 |  | [Bearbeiten](cards/3072_conducteur.yml) |
 | 3073 | pollution | Verschmutzung | 23 |  | [Bearbeiten](cards/3073_pollution.yml) |
 | 3074 | islamique | islamisch | 13 |  | [Bearbeiten](cards/3074_islamique.yml) |
 | 3075 | attribution | Vergabe; Zuständigkeit | 25 |  | [Bearbeiten](cards/3075_attribution.yml) |
@@ -3200,7 +3200,7 @@
 | 3198 | manifestement | (ganz) offensichtlich | 11 |  | [Bearbeiten](cards/3198_manifestement.yml) |
 | 3199 | olympique | olympisch | 23 |  | [Bearbeiten](cards/3199_olympique.yml) |
 | 3200 | littéralement | buchstäblich, (wort-)wörtlich | 14 |  | [Bearbeiten](cards/3200_littéralement.yml) |
-| 3201 | reproduction | Fortpflanzung, Reproduktion | 33 |  | [Bearbeiten](cards/3201_reproduction.yml) |
+| 3201 | reproduction | Fortpflanzung, Vervielfältigung | 33 |  | [Bearbeiten](cards/3201_reproduction.yml) |
 | 3202 | propice | günstig, geeignet | 18 |  | [Bearbeiten](cards/3202_propice.yml) |
 | 3203 | chèque | Scheck, Gutschein | 25 |  | [Bearbeiten](cards/3203_chèque.yml) |
 | 3204 | explorer | erkunden, erforschen | 20 |  | [Bearbeiten](cards/3204_explorer.yml) |
@@ -3253,7 +3253,7 @@
 | 3251 | chanteur | Sänger | 19 |  | [Bearbeiten](cards/3251_chanteur.yml) |
 | 3252 | décret | Erlass, Verordnung | 18 |  | [Bearbeiten](cards/3252_décret.yml) |
 | 3253 | écrit | Schrift(-stück) | 30 |  | [Bearbeiten](cards/3253_écrit.yml) |
-| 3254 | suggestion | Vorschlag, Anregung | 16 | X | [Bearbeiten](cards/3254_suggestion.yml) |
+| 3254 | suggestion | Vorschlag, Anregung | 13 | X | [Bearbeiten](cards/3254_suggestion.yml) |
 | 3255 | queue | Schwanz; (Warte-)schlange | 62 |  | [Bearbeiten](cards/3255_queue.yml) |
 | 3256 | durement | heftig, hart | 18 |  | [Bearbeiten](cards/3256_durement.yml) |
 | 3257 | applaudir | klatschen, Beifall spenden | 22 |  | [Bearbeiten](cards/3257_applaudir.yml) |
@@ -3297,7 +3297,7 @@
 | 3295 | pompier | Feuerwehrmann | 17 |  | [Bearbeiten](cards/3295_pompier.yml) |
 | 3296 | inspection | Kontrolle, Behörde | 21 |  | [Bearbeiten](cards/3296_inspection.yml) |
 | 3297 | convertir | umwandeln, konvertieren | 27 |  | [Bearbeiten](cards/3297_convertir.yml) |
-| 3298 | pouce | Daumen; Zoll | 35 | X | [Bearbeiten](cards/3298_pouce.yml) |
+| 3298 | pouce | Daumen; Zoll [Einheit] | 35 | X | [Bearbeiten](cards/3298_pouce.yml) |
 | 3299 | clientèle | Kundschaft | 19 |  | [Bearbeiten](cards/3299_clientèle.yml) |
 | 3300 | atténuer | abschwächen, mildern | 21 |  | [Bearbeiten](cards/3300_atténuer.yml) |
 | 3301 | révélation | Offenbarung, Enthüllung | 28 |  | [Bearbeiten](cards/3301_révélation.yml) |
@@ -4080,35 +4080,35 @@
 | 4078 | explicitement | ausdrücklich | 13 |  | [Bearbeiten](cards/4078_explicitement.yml) |
 | 4079 | alerter | alarmieren, warnen | 15 |  | [Bearbeiten](cards/4079_alerter.yml) |
 | 4080 | vigilance | Wachsamkeit | 16 |  | [Bearbeiten](cards/4080_vigilance.yml) |
-| 4081 | rock | Rockmusik | 16 |  | [Bearbeiten](cards/4081_rock.yml) |
+| 4081 | rock | Rock(-musik) | 16 |  | [Bearbeiten](cards/4081_rock.yml) |
 | 4082 | réconciliation | Versöhnung | 15 |  | [Bearbeiten](cards/4082_réconciliation.yml) |
 | 4083 | revers | Rückseite, Kehrseite | 30 |  | [Bearbeiten](cards/4083_revers.yml) |
 | 4084 | aviation | Luftfahrt | 24 |  | [Bearbeiten](cards/4084_aviation.yml) |
 | 4085 | souplesse | Geschmeidigkeit, Flexibilität | 19 |  | [Bearbeiten](cards/4085_souplesse.yml) |
 | 4086 | respectueux | respektvoll | 24 |  | [Bearbeiten](cards/4086_respectueux.yml) |
 | 4087 | trahison | Verrat | 17 |  | [Bearbeiten](cards/4087_trahison.yml) |
-| 4088 | débit | Abgabe, Durchfluss | 34 |  | [Bearbeiten](cards/4088_débit.yml) |
+| 4088 | débit | Absatz, Durchfluss | 34 |  | [Bearbeiten](cards/4088_débit.yml) |
 | 4089 | sursis | Aufschub, Bewährung | 22 |  | [Bearbeiten](cards/4089_sursis.yml) |
 | 4090 | simultanément | gleichzeitig | 12 |  | [Bearbeiten](cards/4090_simultanément.yml) |
-| 4091 | techniquement | technisch | 10 |  | [Bearbeiten](cards/4091_techniquement.yml) |
+| 4091 | techniquement | technisch (gesehen) | 10 |  | [Bearbeiten](cards/4091_techniquement.yml) |
 | 4092 | os | Knochen | 38 | X | [Bearbeiten](cards/4092_os.yml) |
-| 4093 | cote | Wert, Küste | 35 |  | [Bearbeiten](cards/4093_cote.yml) |
+| 4093 | cote | Kurs, Wert | 35 |  | [Bearbeiten](cards/4093_cote.yml) |
 | 4094 | dictionnaire | Wörterbuch | 33 |  | [Bearbeiten](cards/4094_dictionnaire.yml) |
 | 4095 | symptôme | Symptom | 17 |  | [Bearbeiten](cards/4095_symptôme.yml) |
 | 4096 | délibérément | absichtlich, bewusst | 14 |  | [Bearbeiten](cards/4096_délibérément.yml) |
-| 4097 | écoute | Zuhören | 26 |  | [Bearbeiten](cards/4097_écoute.yml) |
-| 4098 | contingent | Kontingent | 24 |  | [Bearbeiten](cards/4098_contingent.yml) |
+| 4097 | écoute | Zuhören, Abhören | 26 |  | [Bearbeiten](cards/4097_écoute.yml) |
+| 4098 | contingent | Kontingent; unwesentlich | 24 |  | [Bearbeiten](cards/4098_contingent.yml) |
 | 4099 | émerger | auftauchen, hervorkommen | 22 |  | [Bearbeiten](cards/4099_émerger.yml) |
-| 4100 | instruire | unterrichten, belehren | 31 |  | [Bearbeiten](cards/4100_instruire.yml) |
+| 4100 | instruire | belehren; ermitteln | 31 |  | [Bearbeiten](cards/4100_instruire.yml) |
 | 4101 | équité | Fairness⁠, Billigkeit | 18 | X | [Bearbeiten](cards/4101_équité.yml) |
-| 4102 | inconscient | Unbewusste | 28 |  | [Bearbeiten](cards/4102_inconscient.yml) |
-| 4103 | chaleureux | herzlich, warmherzig | 15 |  | [Bearbeiten](cards/4103_chaleureux.yml) |
+| 4102 | inconscient | unbewusst, bewusstlos | 28 |  | [Bearbeiten](cards/4102_inconscient.yml) |
+| 4103 | chaleureux | herzlich | 15 |  | [Bearbeiten](cards/4103_chaleureux.yml) |
 | 4104 | déguiser | verkleiden | 20 |  | [Bearbeiten](cards/4104_déguiser.yml) |
 | 4105 | fièvre | Fieber | 30 |  | [Bearbeiten](cards/4105_fièvre.yml) |
-| 4106 | vitre | Fensterscheibe | 17 |  | [Bearbeiten](cards/4106_vitre.yml) |
+| 4106 | vitre | (Fenster-)scheibe | 17 |  | [Bearbeiten](cards/4106_vitre.yml) |
 | 4107 | fantastique | fantastisch | 28 |  | [Bearbeiten](cards/4107_fantastique.yml) |
-| 4108 | courbe | Kurve | 25 |  | [Bearbeiten](cards/4108_courbe.yml) |
-| 4109 | soustraire | subtrahieren, abziehen | 23 |  | [Bearbeiten](cards/4109_soustraire.yml) |
+| 4108 | courbe | Kurve; gebogen | 25 |  | [Bearbeiten](cards/4108_courbe.yml) |
+| 4109 | soustraire | abziehen, entziehen | 23 |  | [Bearbeiten](cards/4109_soustraire.yml) |
 | 4110 | instable | unbeständig, instabil | 25 |  | [Bearbeiten](cards/4110_instable.yml) |
 | 4111 | vapeur | Dampf | 43 | X | [Bearbeiten](cards/4111_vapeur.yml) |
 | 4112 | beurre | Butter | 32 | X | [Bearbeiten](cards/4112_beurre.yml) |
@@ -4117,31 +4117,31 @@
 | 4115 | téléviser | im Fernsehen übertragen | 11 |  | [Bearbeiten](cards/4115_téléviser.yml) |
 | 4116 | consolider | festigen, stärken | 23 |  | [Bearbeiten](cards/4116_consolider.yml) |
 | 4117 | muet | stumm | 41 |  | [Bearbeiten](cards/4117_muet.yml) |
-| 4118 | contrevenant | Übertreter | 11 |  | [Bearbeiten](cards/4118_contrevenant.yml) |
-| 4119 | offensive | Angriff | 19 |  | [Bearbeiten](cards/4119_offensive.yml) |
+| 4118 | contrevenant | Zuwiderhandelnder | 11 |  | [Bearbeiten](cards/4118_contrevenant.yml) |
+| 4119 | offensive | Offensive | 19 |  | [Bearbeiten](cards/4119_offensive.yml) |
 | 4120 | routine | Routine | 20 |  | [Bearbeiten](cards/4120_routine.yml) |
-| 4121 | coder | programmieren | 14 |  | [Bearbeiten](cards/4121_coder.yml) |
+| 4121 | coder | verschlüsseln, programmieren | 14 |  | [Bearbeiten](cards/4121_coder.yml) |
 | 4122 | gel | Frost | 21 | X | [Bearbeiten](cards/4122_gel.yml) |
 | 4123 | rénovation | Renovierung | 16 |  | [Bearbeiten](cards/4123_rénovation.yml) |
 | 4124 | controverse | Kontroverse, Streit | 14 |  | [Bearbeiten](cards/4124_controverse.yml) |
 | 4125 | médiocre | mittelmäßig | 29 |  | [Bearbeiten](cards/4125_médiocre.yml) |
-| 4126 | filial | Tochtergesellschaft | 12 |  | [Bearbeiten](cards/4126_filial.yml) |
-| 4127 | relais | Station, Wechsel, Staffel | 31 |  | [Bearbeiten](cards/4127_relais.yml) |
-| 4128 | opposant | Gegner | 18 |  | [Bearbeiten](cards/4128_opposant.yml) |
-| 4129 | aval | Unterlauf, Stromabwärts | 31 |  | [Bearbeiten](cards/4129_aval.yml) |
+| 4126 | filial | kindlich | 12 |  | [Bearbeiten](cards/4126_filial.yml) |
+| 4127 | relais | Zwischenstation, Wechsel | 31 |  | [Bearbeiten](cards/4127_relais.yml) |
+| 4128 | opposant | Gegner; oppositionell | 18 |  | [Bearbeiten](cards/4128_opposant.yml) |
+| 4129 | aval | Unterlauf, -abwärts; Unterstützung | 31 |  | [Bearbeiten](cards/4129_aval.yml) |
 | 4130 | rubrique | Rubrik | 20 |  | [Bearbeiten](cards/4130_rubrique.yml) |
 | 4131 | préfet | Präfekt | 20 |  | [Bearbeiten](cards/4131_préfet.yml) |
-| 4132 | provocation | Herausforderung, Provokation | 19 |  | [Bearbeiten](cards/4132_provocation.yml) |
-| 4133 | sommaire | Inhaltsverzeichnis | 25 |  | [Bearbeiten](cards/4133_sommaire.yml) |
-| 4134 | versant | Aspekt, (Berg-)hang | 17 |  | [Bearbeiten](cards/4134_versant.yml) |
-| 4135 | réticence | Zurückhaltung, Vorbehalt | 15 |  | [Bearbeiten](cards/4135_réticence.yml) |
+| 4132 | provocation | Provokation | 19 |  | [Bearbeiten](cards/4132_provocation.yml) |
+| 4133 | sommaire | knapp, oberflächlich; Inhaltsverzeichnis | 25 |  | [Bearbeiten](cards/4133_sommaire.yml) |
+| 4134 | versant | Aspekt; Hang | 17 |  | [Bearbeiten](cards/4134_versant.yml) |
+| 4135 | réticence | Vorbehalt | 15 |  | [Bearbeiten](cards/4135_réticence.yml) |
 | 4136 | grossesse | Schwangerschaft | 21 |  | [Bearbeiten](cards/4136_grossesse.yml) |
 | 4137 | égyptien | Ägypter | 14 | X | [Bearbeiten](cards/4137_égyptien.yml) |
 | 4138 | timbre | Briefmarke | 28 |  | [Bearbeiten](cards/4138_timbre.yml) |
 | 4139 | découper | ausschneiden, zerlegen | 32 |  | [Bearbeiten](cards/4139_découper.yml) |
-| 4140 | distributeur | Verteiler, Automat | 25 |  | [Bearbeiten](cards/4140_distributeur.yml) |
-| 4141 | élargissement | Erweiterung | 18 |  | [Bearbeiten](cards/4141_élargissement.yml) |
-| 4142 | dégrader | verschlechtern, abbauen | 27 |  | [Bearbeiten](cards/4142_dégrader.yml) |
+| 4140 | distributeur | Vertreiber, Automat | 25 |  | [Bearbeiten](cards/4140_distributeur.yml) |
+| 4141 | élargissement | Erweiterung, Ausweitung | 18 |  | [Bearbeiten](cards/4141_élargissement.yml) |
+| 4142 | dégrader | verschlechtern, abstufen | 27 |  | [Bearbeiten](cards/4142_dégrader.yml) |
 | 4143 | colonial | kolonial | 24 |  | [Bearbeiten](cards/4143_colonial.yml) |
 | 4144 | pourparlers | Verhandlungen | 14 |  | [Bearbeiten](cards/4144_pourparlers.yml) |
 | 4145 | incidence | Auswirkung, Einfluss | 18 |  | [Bearbeiten](cards/4145_incidence.yml) |
