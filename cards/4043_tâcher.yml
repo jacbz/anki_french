@@ -7,7 +7,7 @@ Wortart: vi
 Wort mit Artikel: tâcher
 Femininum / Plural: ''
 IPA: \tɑ.ʃe\
-Definition: sich bemühen
+Definition: versuchen, sich bemühen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -66,4 +66,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>s'efforcer</i> und <i>tâcher</i></div>
+    <div class="section-content">
+      <p><span class="fr">S'efforcer</span> (#2041) bedeutet <span class="de">"sich anstrengen"</span> oder <span class="de">"sich bemühen"</span> und betont die Anstrengung und den Einsatz, den man aufbringt, um etwas zu erreichen.</p>
+      <div class="examples">
+        <div class="fr">Elle s'efforce de parler français sans accent.</div>
+        <div class="de spoiler">Sie strengt sich an, Französisch ohne Akzent zu sprechen.</div>
+        <div class="fr">Nous nous efforçons de respecter les délais.</div>
+        <div class="de spoiler">Wir bemühen uns, die Fristen einzuhalten.</div>
+      </div>
+      <p><span class="fr">Tâcher</span> bedeutet <span class="de">"versuchen"</span> oder <span class="de">"sich bemühen"</span> und ist weniger intensiv als <span class="fr">s'efforcer</span>. Es drückt eine Absicht oder einen Versuch aus, ohne die gleiche Betonung auf Anstrengung zu legen.</p>
+      <div class="examples">
+        <div class="fr">Je vais tâcher de venir avant midi.</div>
+        <div class="de spoiler">Ich werde versuchen, vor Mittag zu kommen.</div>
+        <div class="fr">Tâchez de ne pas faire de bruit.</div>
+        <div class="de spoiler">Versuchen Sie, keinen Lärm zu machen.</div>
+      </div>
+    </div>
+  </div>
