@@ -7,7 +7,7 @@ Wortart: adj
 Wort mit Artikel: concurrentiel
 Femininum / Plural: concurrentielle
 IPA: \kɔ̃.ky.ʁɑ̃.sjɛl\
-Definition: wettbewerbsfähig
+Definition: konkurrenzfähig
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -60,4 +60,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>compétitif</i> und <i>concurrentiel</i></div>
+    <div class="section-content">
+      <p><span class="fr">Compétitif</span> (#4173) bedeutet <span class="de">"wettbewerbsfähig"</span> und bezieht sich auf die Fähigkeit, erfolgreich zu konkurrieren. Es betont die Qualitäten oder Eigenschaften, die jemanden oder etwas im Wettbewerb stark machen.</p>
+      <div class="examples">
+        <div class="fr">Cette entreprise propose des prix très compétitifs.</div>
+        <div class="de spoiler">Dieses Unternehmen bietet sehr wettbewerbsfähige Preise.</div>
+        <div class="fr">Il a un esprit compétitif qui l'aide à réussir.</div>
+        <div class="de spoiler">Er hat einen Wettbewerbsgeist, der ihm zum Erfolg verhilft.</div>
+      </div>
+      <p><span class="fr">Concurrentiel</span> bedeutet <span class="de">"konkurrierend"</span> oder <span class="de">"Konkurrenz-"</span> und beschreibt etwas, das mit der Konkurrenz oder dem Wettbewerb zu tun hat, ohne notwendigerweise eine Bewertung der Stärke zu implizieren.</p>
+      <div class="examples">
+        <div class="fr">Le marché concurrentiel est très difficile cette année.</div>
+        <div class="de spoiler">Der Konkurrenzmarkt ist dieses Jahr sehr schwierig.</div>
+        <div class="fr">Ils ont mené une analyse concurrentielle approfondie.</div>
+        <div class="de spoiler">Sie haben eine gründliche Konkurrenzanalyse durchgeführt.</div>
+      </div>
+      <p><span class="fr">Compétitif</span> betont die Leistungsfähigkeit im Wettbewerb, während <span class="fr">concurrentiel</span> eher die Existenz oder den Kontext von Konkurrenz beschreibt.</p>
+    </div>
+  </div>
