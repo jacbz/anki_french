@@ -7,7 +7,7 @@ Wortart: adj
 Wort mit Artikel: verbal
 Femininum / Plural: verbale
 IPA: \vɛʁ.bal\
-Definition: mündlich
+Definition: mündlich, sprachlich
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -87,4 +87,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>oral</i> und <i>verbal</i></div>
+    <div class="section-content">
+      <p><span class="fr">Oral</span> (#4114) bedeutet <span class="de">"mündlich"</span> und bezieht sich spezifisch auf gesprochene Sprache oder Kommunikation durch den Mund.</p>
+      <div class="examples">
+        <div class="fr">L'examen oral aura lieu demain matin.</div>
+        <div class="de spoiler">Die mündliche Prüfung findet morgen Vormittag statt.</div>
+        <div class="fr">Il a donné son accord oral, mais pas encore écrit.</div>
+        <div class="de spoiler">Er hat seine mündliche, aber noch nicht schriftliche Zustimmung gegeben.</div>
+      </div>
+      <p><span class="fr">Verbal</span> bedeutet <span class="de">"sprachlich"</span> oder <span class="de">"wörtlich"</span> und bezieht sich auf Sprache im Allgemeinen, sowohl gesprochen als auch geschrieben. Es kann auch <span class="de">"wortgetreu"</span> bedeuten.</p>
+      <div class="examples">
+        <div class="fr">Son intelligence verbale est remarquable.</div>
+        <div class="de spoiler">Seine sprachliche Intelligenz ist bemerkenswert.</div>
+        <div class="fr">Il a fait une traduction verbale du texte.</div>
+        <div class="de spoiler">Er hat eine wörtliche Übersetzung des Textes gemacht.</div>
+      </div>
+    </div>
+  </div>
