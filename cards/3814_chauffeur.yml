@@ -7,7 +7,7 @@ Wortart: nm
 Wort mit Artikel: le chauffeur
 Femininum / Plural: ''
 IPA: \ʃo.fœʁ\
-Definition: Fahrer
+Definition: Fahrer [Beruf]
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -66,4 +66,26 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>conducteur</i> und <i>chauffeur</i></div>
+    <div class="section-content">
+      <p><span class="fr">Conducteur</span> (#3072) bedeutet <span class="de">"Fahrer"</span> im allgemeinen Sinne und bezeichnet jede Person, die ein Fahrzeug führt, unabhängig vom Fahrzeugtyp oder beruflichen Kontext.</p>
+      <div class="examples">
+        <div class="fr">Le conducteur a respecté le code de la route.</div>
+        <div class="de spoiler">Der Fahrer hat die Straßenverkehrsordnung befolgt.</div>
+        <div class="fr">Elle est une conductrice expérimentée.</div>
+        <div class="de spoiler">Sie ist eine erfahrene Fahrerin.</div>
+      </div>
+      <p><span class="fr">Chauffeur</span> bezeichnet ursprünglich einen <span class="de">"Berufskraftfahrer"</span> oder <span class="de">"Chauffeur"</span>, also jemanden, der beruflich für andere Personen fährt. Es kann auch für Fahrer von öffentlichen Verkehrsmitteln verwendet werden.</p>
+      <div class="examples">
+        <div class="fr">Le chauffeur de taxi connaît bien la ville.</div>
+        <div class="de spoiler">Der Taxifahrer kennt die Stadt gut.</div>
+        <div class="fr">Notre chauffeur privé viendra nous chercher à huit heures.</div>
+        <div class="de spoiler">Unser Privatfahrer wird uns um acht Uhr abholen.</div>
+        <div class="fr">Le chauffeur d'autobus s'est arrêté à tous les arrêts.</div>
+        <div class="de spoiler">Der Busfahrer hat an allen Haltestellen angehalten.</div>
+      </div>
+      <p>In der Umgangssprache wird <span class="fr">chauffeur</span> jedoch oft synonym zu <span class="fr">conducteur</span> verwendet, besonders im Kontext von Privatfahrzeugen.</p>
+    </div>
+  </div>
