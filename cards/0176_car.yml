@@ -70,10 +70,6 @@ Beispielsätze: |-
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
-<grammar data-id="Transport"></grammar>
-<div class="section">
-    <div class="section-title"><i>car</i> und <i>bus</i></div>
-    <div class="section-content">
-      <p><b>Car</b> meint Schul- oder Reisebusse oder Mannschaftswägen, während <b>bus</b> (#4027) Linienbusse meint.</p>
-    </div>
-  </div>
+  <p>Bedeutet ebenfalls Schul- oder Reisebus, nicht aber Linienbus (siehe <span class="fr">bus</span> #4027).</p>
+  <hr>
+  <grammar data-id="Transport"></grammar>

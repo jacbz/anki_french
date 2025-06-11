@@ -175,7 +175,7 @@
 | 173 | effet | Wirkung, Eindruck | 61 |  | [Bearbeiten](cards/0173_effet.yml) |
 | 174 | arriver | ankommen; passieren | 57 | X | [Bearbeiten](cards/0174_arriver.yml) |
 | 175 | possible | möglich | 58 |  | [Bearbeiten](cards/0175_possible.yml) |
-| 176 | car | denn, da | 17 |  | [Bearbeiten](cards/0176_car.yml) |
+| 176 | car | denn, da | 17 | X | [Bearbeiten](cards/0176_car.yml) |
 | 177 | servir | dienen, bedienen | 58 |  | [Bearbeiten](cards/0177_servir.yml) |
 | 178 | mois | Monat | 27 | X | [Bearbeiten](cards/0178_mois.yml) |
 | 179 | jamais | niemals | 40 | X | [Bearbeiten](cards/0179_jamais.yml) |
@@ -745,7 +745,7 @@
 | 743 | pire | schlimmer, schlechter | 38 | X | [Bearbeiten](cards/0743_pire.yml) |
 | 744 | adresser | adressieren, richten | 32 | X | [Bearbeiten](cards/0744_adresser.yml) |
 | 745 | préciser | genau angeben, klarstellen | 22 | X | [Bearbeiten](cards/0745_préciser.yml) |
-| 746 | intervention | Eingreifen | 27 | X | [Bearbeiten](cards/0746_intervention.yml) |
+| 746 | intervention | Eingriff; Redebeitrag | 27 | X | [Bearbeiten](cards/0746_intervention.yml) |
 | 747 | attirer | anziehen, anlocken | 40 |  | [Bearbeiten](cards/0747_attirer.yml) |
 | 748 | demeurer | bleiben; wohnen | 30 |  | [Bearbeiten](cards/0748_demeurer.yml) |
 | 749 | chiffre | Ziffer; Betrag | 33 |  | [Bearbeiten](cards/0749_chiffre.yml) |
@@ -1841,7 +1841,7 @@
 | 1839 | excuse | Entschuldigung | 28 |  | [Bearbeiten](cards/1839_excuse.yml) |
 | 1840 | veille | Tag vorher, Vorabend | 33 | X | [Bearbeiten](cards/1840_veille.yml) |
 | 1841 | content | zufrieden | 30 |  | [Bearbeiten](cards/1841_content.yml) |
-| 1842 | rassurer | beruhigen | 16 |  | [Bearbeiten](cards/1842_rassurer.yml) |
+| 1842 | rassurer | beruhigen, sicher fühlen | 16 |  | [Bearbeiten](cards/1842_rassurer.yml) |
 | 1843 | triste | traurig | 51 | X | [Bearbeiten](cards/1843_triste.yml) |
 | 1844 | latin | Latein | 48 | X | [Bearbeiten](cards/1844_latin.yml) |
 | 1845 | classique | klassisch | 47 |  | [Bearbeiten](cards/1845_classique.yml) |
@@ -2208,7 +2208,7 @@
 | 2206 | songer | (be-)denken; träumen | 27 |  | [Bearbeiten](cards/2206_songer.yml) |
 | 2207 | enfance | Kindheit | 30 | X | [Bearbeiten](cards/2207_enfance.yml) |
 | 2208 | là-dessus | darüber, dazu | 19 |  | [Bearbeiten](cards/2208_là-dessus.yml) |
-| 2209 | merveilleux | wunderbar, herrlich | 20 |  | [Bearbeiten](cards/2209_merveilleux.yml) |
+| 2209 | merveilleux | wunderbar, herrlich | 18 |  | [Bearbeiten](cards/2209_merveilleux.yml) |
 | 2210 | sien | seine(-r/s) | 32 | X | [Bearbeiten](cards/2210_sien.yml) |
 | 2211 | commenter | kommentieren | 16 |  | [Bearbeiten](cards/2211_commenter.yml) |
 | 2212 | inciter | [zum Handeln] ermuntern | 14 |  | [Bearbeiten](cards/2212_inciter.yml) |
@@ -3275,9 +3275,9 @@
 | 3273 | odeur | Geruch | 21 |  | [Bearbeiten](cards/3273_odeur.yml) |
 | 3274 | identification | Identifikation | 14 |  | [Bearbeiten](cards/3274_identification.yml) |
 | 3275 | fêter | feiern | 18 |  | [Bearbeiten](cards/3275_fêter.yml) |
-| 3276 | substantiel | wesentlich, bedeutend | 18 |  | [Bearbeiten](cards/3276_substantiel.yml) |
+| 3276 | substantiel | <div>wesentlich, beträchtlich, </div> | 18 |  | [Bearbeiten](cards/3276_substantiel.yml) |
 | 3277 | asiatique | asiatisch | 11 | X | [Bearbeiten](cards/3277_asiatique.yml) |
-| 3278 | aspiration | Bestrebung; Saugen | 20 |  | [Bearbeiten](cards/3278_aspiration.yml) |
+| 3278 | aspiration | Streben; Saugen | 19 |  | [Bearbeiten](cards/3278_aspiration.yml) |
 | 3279 | photographie | Fotografie | 22 |  | [Bearbeiten](cards/3279_photographie.yml) |
 | 3280 | exclusion | Ausschluss, Ausgrenzung | 20 |  | [Bearbeiten](cards/3280_exclusion.yml) |
 | 3281 | préconiser | befürworten, empfehlen | 13 |  | [Bearbeiten](cards/3281_préconiser.yml) |
@@ -3587,10 +3587,10 @@
 | 3585 | domestique | häuslich; Inlands- | 27 |  | [Bearbeiten](cards/3585_domestique.yml) |
 | 3586 | soucieux | besorgt, sorgenvoll | 18 |  | [Bearbeiten](cards/3586_soucieux.yml) |
 | 3587 | premièrement | erstens | 15 |  | [Bearbeiten](cards/3587_premièrement.yml) |
-| 3588 | complicité | Mittäterschaft, Einverständnis | 18 |  | [Bearbeiten](cards/3588_complicité.yml) |
+| 3588 | complicité | Mittäterschaft; [geheimes] Einverständnis | 18 |  | [Bearbeiten](cards/3588_complicité.yml) |
 | 3589 | décréter | verordnen, erlassen | 18 |  | [Bearbeiten](cards/3589_décréter.yml) |
 | 3590 | flamme | Flamme | 38 |  | [Bearbeiten](cards/3590_flamme.yml) |
-| 3591 | approprié | angemessen, passend | 15 |  | [Bearbeiten](cards/3591_approprié.yml) |
+| 3591 | approprié | angemessen, passend | 11 |  | [Bearbeiten](cards/3591_approprié.yml) |
 | 3592 | dix-huit | achtzehn | 26 | X | [Bearbeiten](cards/3592_dix-huit.yml) |
 | 3593 | nouveauté | Neuheit | 24 |  | [Bearbeiten](cards/3593_nouveauté.yml) |
 | 3594 | brusquement | plötzlich, abrupt | 12 |  | [Bearbeiten](cards/3594_brusquement.yml) |
@@ -3672,7 +3672,7 @@
 | 3670 | apaiser | besänftigen, beruhigen | 23 |  | [Bearbeiten](cards/3670_apaiser.yml) |
 | 3671 | sélectionner | auswählen | 16 |  | [Bearbeiten](cards/3671_sélectionner.yml) |
 | 3672 | familier | vertraut, geläufig | 37 |  | [Bearbeiten](cards/3672_familier.yml) |
-| 3673 | quinzaine | zwei Wochen | 17 |  | [Bearbeiten](cards/3673_quinzaine.yml) |
+| 3673 | quinzaine | ungefähr fünfzehn, zwei Wochen | 17 |  | [Bearbeiten](cards/3673_quinzaine.yml) |
 | 3674 | paralyser | lähmen | 19 |  | [Bearbeiten](cards/3674_paralyser.yml) |
 | 3675 | impatience | Ungeduld | 18 |  | [Bearbeiten](cards/3675_impatience.yml) |
 | 3676 | logiciel | Software | 21 |  | [Bearbeiten](cards/3676_logiciel.yml) |
@@ -4149,14 +4149,14 @@
 | 4147 | fiable | verlässlich, zuverlässig | 14 |  | [Bearbeiten](cards/4147_fiable.yml) |
 | 4148 | génocide | Völkermord | 12 |  | [Bearbeiten](cards/4148_génocide.yml) |
 | 4149 | vingt-quatre | vierundzwanzig | 11 | X | [Bearbeiten](cards/4149_vingt-quatre.yml) |
-| 4150 | épouvantable | entsetzlich, schrecklich | 22 |  | [Bearbeiten](cards/4150_épouvantable.yml) |
+| 4150 | épouvantable | scheußlich, entsetzlich | 22 |  | [Bearbeiten](cards/4150_épouvantable.yml) |
 | 4151 | indifférent | gleichgültig | 32 |  | [Bearbeiten](cards/4151_indifférent.yml) |
 | 4152 | audacieux | kühn, mutig | 19 |  | [Bearbeiten](cards/4152_audacieux.yml) |
 | 4153 | poudre | Pulver | 34 |  | [Bearbeiten](cards/4153_poudre.yml) |
 | 4154 | teneur | Gehalt, Inhalt | 18 |  | [Bearbeiten](cards/4154_teneur.yml) |
 | 4155 | inverser | umkehren, vertauschen | 21 |  | [Bearbeiten](cards/4155_inverser.yml) |
 | 4156 | naval | See-, Schiff- | 19 |  | [Bearbeiten](cards/4156_naval.yml) |
-| 4157 | dérive | Treibgut, Abdrift, Abweichung | 22 |  | [Bearbeiten](cards/4157_dérive.yml) |
+| 4157 | dérive | Abdrift, Abweichung | 22 |  | [Bearbeiten](cards/4157_dérive.yml) |
 | 4158 | mécontent | unzufrieden | 19 |  | [Bearbeiten](cards/4158_mécontent.yml) |
 | 4159 | vocabulaire | Wortschatz | 21 |  | [Bearbeiten](cards/4159_vocabulaire.yml) |
 | 4160 | stabiliser | stabilisieren | 19 |  | [Bearbeiten](cards/4160_stabiliser.yml) |
@@ -4164,9 +4164,9 @@
 | 4162 | centrer | zentrieren | 23 |  | [Bearbeiten](cards/4162_centrer.yml) |
 | 4163 | algérien | Algerier | 13 | X | [Bearbeiten](cards/4163_algérien.yml) |
 | 4164 | sympathique | sympathisch | 25 |  | [Bearbeiten](cards/4164_sympathique.yml) |
-| 4165 | alentour | Umgebung | 17 |  | [Bearbeiten](cards/4165_alentour.yml) |
+| 4165 | alentour | ringsum; Umgebung | 17 |  | [Bearbeiten](cards/4165_alentour.yml) |
 | 4166 | corrompre | bestechen, verderben | 22 |  | [Bearbeiten](cards/4166_corrompre.yml) |
-| 4167 | commerçant | Händler | 24 |  | [Bearbeiten](cards/4167_commerçant.yml) |
+| 4167 | commerçant | Händler, Kaufmann; Geschäfts- | 24 |  | [Bearbeiten](cards/4167_commerçant.yml) |
 | 4168 | poitrine | Brust | 22 | X | [Bearbeiten](cards/4168_poitrine.yml) |
 | 4169 | couronner | krönen | 31 |  | [Bearbeiten](cards/4169_couronner.yml) |
 | 4170 | relire | nochmals lesen | 18 |  | [Bearbeiten](cards/4170_relire.yml) |
@@ -4183,31 +4183,31 @@
 | 4181 | quotidiennement | täglich | 12 |  | [Bearbeiten](cards/4181_quotidiennement.yml) |
 | 4182 | architecture | Architektur | 22 |  | [Bearbeiten](cards/4182_architecture.yml) |
 | 4183 | éventualité | Möglichkeit, Eventualität | 16 |  | [Bearbeiten](cards/4183_éventualité.yml) |
-| 4184 | massacrer | abschlachten, massakrieren | 19 |  | [Bearbeiten](cards/4184_massacrer.yml) |
+| 4184 | massacrer | niedermetzeln | 19 |  | [Bearbeiten](cards/4184_massacrer.yml) |
 | 4185 | réciproque | gegenseitig | 28 |  | [Bearbeiten](cards/4185_réciproque.yml) |
-| 4186 | état-major | Generalstab | 21 |  | [Bearbeiten](cards/4186_état-major.yml) |
+| 4186 | état-major | Generalstab, Führungsstab | 21 |  | [Bearbeiten](cards/4186_état-major.yml) |
 | 4187 | attarder | aufhalten, verweilen | 20 |  | [Bearbeiten](cards/4187_attarder.yml) |
-| 4188 | englober | umfassen, einschließen | 16 |  | [Bearbeiten](cards/4188_englober.yml) |
-| 4189 | grossir | dicker werden, zunehmen | 44 |  | [Bearbeiten](cards/4189_grossir.yml) |
+| 4188 | englober | (mit) einbeziehen, einschließen | 16 |  | [Bearbeiten](cards/4188_englober.yml) |
+| 4189 | grossir | zunehmen, dicker werden | 44 |  | [Bearbeiten](cards/4189_grossir.yml) |
 | 4190 | séparatiste | Separatist | 12 | X | [Bearbeiten](cards/4190_séparatiste.yml) |
-| 4191 | surcroît | Mehr, Zusatz | 17 |  | [Bearbeiten](cards/4191_surcroît.yml) |
-| 4192 | sortant | abgehend, ausscheidend | 17 |  | [Bearbeiten](cards/4192_sortant.yml) |
+| 4191 | surcroît | Mehr-, Zusatz | 17 |  | [Bearbeiten](cards/4191_surcroît.yml) |
+| 4192 | sortant | scheidend | 17 |  | [Bearbeiten](cards/4192_sortant.yml) |
 | 4193 | plomb | Blei | 56 | X | [Bearbeiten](cards/4193_plomb.yml) |
-| 4194 | gorge | Kehle, Schlucht | 34 | X | [Bearbeiten](cards/4194_gorge.yml) |
+| 4194 | gorge | Kehle; Schlucht | 34 | X | [Bearbeiten](cards/4194_gorge.yml) |
 | 4195 | nationaliste | Nationalist | 13 | X | [Bearbeiten](cards/4195_nationaliste.yml) |
 | 4196 | exportateur | Exporteur | 17 |  | [Bearbeiten](cards/4196_exportateur.yml) |
-| 4197 | montre | Uhr | 27 |  | [Bearbeiten](cards/4197_montre.yml) |
-| 4198 | ratifier | bestätigen | 14 |  | [Bearbeiten](cards/4198_ratifier.yml) |
-| 4199 | exploit | Heldentat | 18 |  | [Bearbeiten](cards/4199_exploit.yml) |
+| 4197 | montre | Uhr [zum Tragen] | 27 |  | [Bearbeiten](cards/4197_montre.yml) |
+| 4198 | ratifier | ratifizieren | 14 |  | [Bearbeiten](cards/4198_ratifier.yml) |
+| 4199 | exploit | (Helden-)tat, Leistung | 18 |  | [Bearbeiten](cards/4199_exploit.yml) |
 | 4200 | encourageant | ermutigend | 13 |  | [Bearbeiten](cards/4200_encourageant.yml) |
-| 4201 | climatique | klimatisch | 17 |  | [Bearbeiten](cards/4201_climatique.yml) |
-| 4202 | aviser | benachrichtigen, informieren | 27 |  | [Bearbeiten](cards/4202_aviser.yml) |
-| 4203 | épidémie | Epidemie | 16 |  | [Bearbeiten](cards/4203_épidémie.yml) |
-| 4204 | alarme | Alarm | 21 |  | [Bearbeiten](cards/4204_alarme.yml) |
+| 4201 | climatique | Klima- | 17 |  | [Bearbeiten](cards/4201_climatique.yml) |
+| 4202 | aviser | benachrichtigen; unterstehen; sich einfallen lassen | 27 |  | [Bearbeiten](cards/4202_aviser.yml) |
+| 4203 | épidémie | Seuche | 16 |  | [Bearbeiten](cards/4203_épidémie.yml) |
+| 4204 | alarme | Alarm, Aufregung | 21 |  | [Bearbeiten](cards/4204_alarme.yml) |
 | 4205 | parier | wetten | 26 |  | [Bearbeiten](cards/4205_parier.yml) |
 | 4206 | écologique | umweltfreundlich | 19 |  | [Bearbeiten](cards/4206_écologique.yml) |
-| 4207 | lunette | Brille, Fernrohr | 30 |  | [Bearbeiten](cards/4207_lunette.yml) |
-| 4208 | entourage | Umfeld | 15 |  | [Bearbeiten](cards/4208_entourage.yml) |
+| 4207 | lunette | Brille [pl] | 30 |  | [Bearbeiten](cards/4207_lunette.yml) |
+| 4208 | entourage | Umfeld, Umrandung | 15 |  | [Bearbeiten](cards/4208_entourage.yml) |
 | 4209 | sphère | Kugel, Bereich | 20 |  | [Bearbeiten](cards/4209_sphère.yml) |
 | 4210 | confidentiel | vertraulich | 15 |  | [Bearbeiten](cards/4210_confidentiel.yml) |
 | 4211 | sanctionner | bestrafen, sanktionieren | 17 |  | [Bearbeiten](cards/4211_sanctionner.yml) |
@@ -4675,7 +4675,7 @@
 | 4673 | réconcilier | versöhnen | 23 |  | [Bearbeiten](cards/4673_réconcilier.yml) |
 | 4674 | réservoir | Tank, Behälter | 24 |  | [Bearbeiten](cards/4674_réservoir.yml) |
 | 4675 | aveu | Geständnis | 26 |  | [Bearbeiten](cards/4675_aveu.yml) |
-| 4676 | emmerder | nerven, belästigen | 23 |  | [Bearbeiten](cards/4676_emmerder.yml) |
+| 4676 | emmerder | nerven, ankotzen; langweilen | 23 |  | [Bearbeiten](cards/4676_emmerder.yml) |
 | 4677 | inondation | Überschwemmung | 18 | X | [Bearbeiten](cards/4677_inondation.yml) |
 | 4678 | câble | Kabel | 31 |  | [Bearbeiten](cards/4678_câble.yml) |
 | 4679 | poumon | Lunge | 25 | X | [Bearbeiten](cards/4679_poumon.yml) |
