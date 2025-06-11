@@ -7,7 +7,7 @@ Wortart: nm
 Wort mit Artikel: un assaut
 Femininum / Plural: ''
 IPA: \a.so\
-Definition: Angriff
+Definition: Angriff, Ansturm
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -87,4 +87,27 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>attaque</i> und <i>assaut</i></div>
+    <div class="section-content">
+      <p><span class="fr">Attaque</span> (#1655) bedeutet <span class="de">"Angriff"</span> im allgemeinen Sinne und kann sowohl physische als auch metaphorische Angriffe bezeichnen. Es ist der breitere und häufiger verwendete Begriff.</p>
+      <div class="examples">
+        <div class="fr">L'attaque surprise a déstabilisé l'ennemi.</div>
+        <div class="de spoiler">Der Überraschungsangriff hat den Feind destabilisiert.</div>
+        <div class="fr">Il a subi une attaque cardiaque hier soir.</div>
+        <div class="de spoiler">Er erlitt gestern Abend einen Herzinfarkt.</div>
+        <div class="fr">Cette attaque contre sa réputation était injuste.</div>
+        <div class="de spoiler">Dieser Angriff auf seinen Ruf war ungerecht.</div>
+      </div>
+      <p><span class="fr">Assaut</span> bedeutet <span class="de">"Sturmangriff"</span> oder <span class="de">"Ansturm"</span> und bezeichnet einen intensiven, oft direkten und körperlichen Angriff. Es impliziert meist eine heftige, konzentrierte Aktion.</p>
+      <div class="examples">
+        <div class="fr">Les soldats ont donné l'assaut à la forteresse.</div>
+        <div class="de spoiler">Die Soldaten stürmten die Festung.</div>
+        <div class="fr">Il a résisté à l'assaut des critiques.</div>
+        <div class="de spoiler">Er widerstand dem Ansturm der Kritik.</div>
+        <div class="fr">L'assaut final a duré trois heures.</div>
+        <div class="de spoiler">Der finale Sturmangriff dauerte drei Stunden.</div>
+      </div>
+    </div>
+  </div>
