@@ -7,7 +7,7 @@ Wortart: nm, adj
 Wort mit Artikel: le comédien
 Femininum / Plural: comédienne
 IPA: \kɔ.me.djɛ̃\
-Definition: Schauspieler
+Definition: Schauspieler [Theater]
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -72,4 +72,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>acteur</i> und <i>comédien</i></div>
+    <div class="section-content">
+      <p><span class="fr">Acteur</span> (#1552) ist der allgemeine Begriff für <span class="de">"Schauspieler"</span> und bezeichnet jeden, der in Film, Theater, Fernsehen oder anderen Medien schauspielert, unabhängig vom Genre.</p>
+      <div class="examples">
+        <div class="fr">Cet acteur joue dans des films d'action et des drames.</div>
+        <div class="de spoiler">Dieser Schauspieler spielt in Actionfilmen und Dramen.</div>
+        <div class="fr">Elle est une actrice reconnue internationalement.</div>
+        <div class="de spoiler">Sie ist eine international anerkannte Schauspielerin.</div>
+      </div>
+      <p><span class="fr">Comédien</span> bezeichnet traditionell einen <span class="de">"Schauspieler"</span>, der hauptsächlich in Komödien oder im Theater auftritt. Der Begriff kann auch allgemein für Theaterschauspieler verwendet werden.</p>
+      <div class="examples">
+        <div class="fr">Ce comédien excelle dans les rôles comiques.</div>
+        <div class="de spoiler">Dieser Schauspieler glänzt in komischen Rollen.</div>
+        <div class="fr">Les comédiens de la Comédie-Française sont très respectés.</div>
+        <div class="de spoiler">Die Schauspieler der Comédie-Française sind sehr respektiert.</div>
+      </div>
+      <p>Während <span class="fr">acteur</span> universell verwendet wird, hat <span class="fr">comédien</span> oft eine theatralischere oder traditionellere Konnotation und wird besonders im Kontext der klassischen französischen Theaterkultur verwendet.</p>
+    </div>
+  </div>
