@@ -1,15 +1,5 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
-* Angriff: [attaque](cards/1655_attaque.yml) (#1655), [assaut](cards/3736_assaut.yml) (#3736)
-* Fahrer: [conducteur](cards/3072_conducteur.yml) (#3072), [chauffeur](cards/3814_chauffeur.yml) (#3814)
-* sich bemühen: [efforcer](cards/2041_efforcer.yml) (#2041), [tâcher](cards/4043_tâcher.yml) (#4043)
-* Brust: [sein](cards/0563_sein.yml) (#563), [poitrine](cards/4168_poitrine.yml) (#4168)
-* wettbewerbsfähig: [compétitif](cards/4173_compétitif.yml) (#4173), [concurrentiel](cards/4179_concurrentiel.yml) (#4179)
-* gegenseitig: [mutuel](cards/2642_mutuel.yml) (#2642), [réciproque](cards/4185_réciproque.yml) (#4185)
-* leicht, mühelos: [facilement](cards/1194_facilement.yml) (#1194), [aisé](cards/4214_aisé.yml) (#4214)
-* Bus: [bus](cards/4027_bus.yml) (#4027), [autobus](cards/4216_autobus.yml) (#4216)
-* mündlich: [oral](cards/4114_oral.yml) (#4114), [verbal](cards/4240_verbal.yml) (#4240)
-* Schauspieler: [acteur](cards/1552_acteur.yml) (#1552), [comédien](cards/4253_comédien.yml) (#4253)
 * Richter: [juge](cards/1323_juge.yml) (#1323), [magistrat](cards/4282_magistrat.yml) (#4282)
 * Strafe: [sanction](cards/2282_sanction.yml) (#2282), [punition](cards/4322_punition.yml) (#4322)
 * Verstärkung: [renforcement](cards/3600_renforcement.yml) (#3600), [renfort](cards/4326_renfort.yml) (#4326)

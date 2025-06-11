@@ -562,7 +562,7 @@
 | 560 | c’est-à-dire | das heißt | 18 |  | [Bearbeiten](cards/0560_c’est-à-dire.yml) |
 | 561 | corps | Körper | 60 |  | [Bearbeiten](cards/0561_corps.yml) |
 | 562 | matière | Material, -stoff; Fach | 54 |  | [Bearbeiten](cards/0562_matière.yml) |
-| 563 | sein | Brust | 35 | X | [Bearbeiten](cards/0563_sein.yml) |
+| 563 | sein | Brust, Busen | 35 | X | [Bearbeiten](cards/0563_sein.yml) |
 | 564 | difficulté | Schwierigkeit | 41 |  | [Bearbeiten](cards/0564_difficulté.yml) |
 | 565 | parvenir | erreichen, gelangen | 27 |  | [Bearbeiten](cards/0565_parvenir.yml) |
 | 566 | secteur | Bereich, Sektor | 42 |  | [Bearbeiten](cards/0566_secteur.yml) |
@@ -2040,7 +2040,7 @@
 | 2038 | procurer | beschaffen, verschaffen | 20 |  | [Bearbeiten](cards/2038_procurer.yml) |
 | 2039 | officier | Offizier | 33 | X | [Bearbeiten](cards/2039_officier.yml) |
 | 2040 | remarquable | bemerkenswert | 21 |  | [Bearbeiten](cards/2040_remarquable.yml) |
-| 2041 | efforcer | sich bemühen | 16 |  | [Bearbeiten](cards/2041_efforcer.yml) |
+| 2041 | efforcer | sich bemühen, sich anstrengen | 16 |  | [Bearbeiten](cards/2041_efforcer.yml) |
 | 2042 | tragique | tragisch | 29 |  | [Bearbeiten](cards/2042_tragique.yml) |
 | 2043 | anniversaire | Geburtstag, Jubiläum | 22 | X | [Bearbeiten](cards/2043_anniversaire.yml) |
 | 2044 | issu | hervorgegangen, stammend | 17 |  | [Bearbeiten](cards/2044_issu.yml) |
@@ -3735,7 +3735,7 @@
 | 3733 | séminaire | Seminar | 19 |  | [Bearbeiten](cards/3733_séminaire.yml) |
 | 3734 | contrer | kontern | 14 |  | [Bearbeiten](cards/3734_contrer.yml) |
 | 3735 | nerveux | nervös | 40 |  | [Bearbeiten](cards/3735_nerveux.yml) |
-| 3736 | assaut | Angriff | 23 |  | [Bearbeiten](cards/3736_assaut.yml) |
+| 3736 | assaut | Angriff, Ansturm | 23 | X | [Bearbeiten](cards/3736_assaut.yml) |
 | 3737 | couteau | Messer | 37 |  | [Bearbeiten](cards/3737_couteau.yml) |
 | 3738 | arbitraire | willkürlich; Willkür | 22 |  | [Bearbeiten](cards/3738_arbitraire.yml) |
 | 3739 | vraisemblablement | wahrscheinlich, vermutlich | 12 | X | [Bearbeiten](cards/3739_vraisemblablement.yml) |
@@ -3813,7 +3813,7 @@
 | 3811 | enquêter | ermitteln, nachforschen | 16 |  | [Bearbeiten](cards/3811_enquêter.yml) |
 | 3812 | dix-sept | siebzehn | 25 | X | [Bearbeiten](cards/3812_dix-sept.yml) |
 | 3813 | allonger | verlängern, ausstrecken | 48 |  | [Bearbeiten](cards/3813_allonger.yml) |
-| 3814 | chauffeur | Fahrer | 16 |  | [Bearbeiten](cards/3814_chauffeur.yml) |
+| 3814 | chauffeur | Fahrer [Beruf] | 16 | X | [Bearbeiten](cards/3814_chauffeur.yml) |
 | 3815 | prospérité | Wohlstand | 14 |  | [Bearbeiten](cards/3815_prospérité.yml) |
 | 3816 | ambiguïté | Mehrdeutigkeit | 15 |  | [Bearbeiten](cards/3816_ambiguïté.yml) |
 | 3817 | bourgeois | Bürgerlicher | 35 |  | [Bearbeiten](cards/3817_bourgeois.yml) |
@@ -4042,7 +4042,7 @@
 | 4040 | minime | unbedeutend, gering | 15 |  | [Bearbeiten](cards/4040_minime.yml) |
 | 4041 | ralentissement | Verlangsamung | 17 |  | [Bearbeiten](cards/4041_ralentissement.yml) |
 | 4042 | mobilisation | Mobilisierung | 17 |  | [Bearbeiten](cards/4042_mobilisation.yml) |
-| 4043 | tâcher | sich bemühen | 16 |  | [Bearbeiten](cards/4043_tâcher.yml) |
+| 4043 | tâcher | versuchen, sich bemühen | 16 | X | [Bearbeiten](cards/4043_tâcher.yml) |
 | 4044 | racisme | Rassismus | 13 | X | [Bearbeiten](cards/4044_racisme.yml) |
 | 4045 | mairie | Rathaus, Stadtverwaltung | 15 |  | [Bearbeiten](cards/4045_mairie.yml) |
 | 4046 | aptitude | Fähigkeit, Eignung | 19 |  | [Bearbeiten](cards/4046_aptitude.yml) |
@@ -4149,7 +4149,7 @@
 | 4147 | fiable | verlässlich, zuverlässig | 14 |  | [Bearbeiten](cards/4147_fiable.yml) |
 | 4148 | génocide | Völkermord | 12 |  | [Bearbeiten](cards/4148_génocide.yml) |
 | 4149 | vingt-quatre | vierundzwanzig | 11 | X | [Bearbeiten](cards/4149_vingt-quatre.yml) |
-| 4150 | épouvantable | scheußlich, entsetzlich | 22 |  | [Bearbeiten](cards/4150_épouvantable.yml) |
+| 4150 | épouvantable | scheußlich, entsetzlich | 22 | X | [Bearbeiten](cards/4150_épouvantable.yml) |
 | 4151 | indifférent | gleichgültig | 32 |  | [Bearbeiten](cards/4151_indifférent.yml) |
 | 4152 | audacieux | kühn, mutig | 19 |  | [Bearbeiten](cards/4152_audacieux.yml) |
 | 4153 | poudre | Pulver | 34 |  | [Bearbeiten](cards/4153_poudre.yml) |
@@ -4167,7 +4167,7 @@
 | 4165 | alentour | ringsum; Umgebung | 17 |  | [Bearbeiten](cards/4165_alentour.yml) |
 | 4166 | corrompre | bestechen, verderben | 22 |  | [Bearbeiten](cards/4166_corrompre.yml) |
 | 4167 | commerçant | Händler, Kaufmann; Geschäfts- | 24 |  | [Bearbeiten](cards/4167_commerçant.yml) |
-| 4168 | poitrine | Brust | 22 | X | [Bearbeiten](cards/4168_poitrine.yml) |
+| 4168 | poitrine | Brust, Brustkorb | 22 | X | [Bearbeiten](cards/4168_poitrine.yml) |
 | 4169 | couronner | krönen | 31 |  | [Bearbeiten](cards/4169_couronner.yml) |
 | 4170 | relire | nochmals lesen | 18 |  | [Bearbeiten](cards/4170_relire.yml) |
 | 4171 | perpétuer | aufrechterhalten, fortsetzen | 18 |  | [Bearbeiten](cards/4171_perpétuer.yml) |
@@ -4178,13 +4178,13 @@
 | 4176 | indifférence | Gleichgültigkeit | 16 |  | [Bearbeiten](cards/4176_indifférence.yml) |
 | 4177 | omettre | auslassen, weglassen | 16 |  | [Bearbeiten](cards/4177_omettre.yml) |
 | 4178 | typique | typisch | 15 |  | [Bearbeiten](cards/4178_typique.yml) |
-| 4179 | concurrentiel | wettbewerbsfähig | 14 |  | [Bearbeiten](cards/4179_concurrentiel.yml) |
+| 4179 | concurrentiel | konkurrenzfähig | 14 | X | [Bearbeiten](cards/4179_concurrentiel.yml) |
 | 4180 | désarmement | Abrüstung | 17 |  | [Bearbeiten](cards/4180_désarmement.yml) |
-| 4181 | quotidiennement | täglich | 12 |  | [Bearbeiten](cards/4181_quotidiennement.yml) |
+| 4181 | quotidiennement | täglich | 12 | X | [Bearbeiten](cards/4181_quotidiennement.yml) |
 | 4182 | architecture | Architektur | 22 |  | [Bearbeiten](cards/4182_architecture.yml) |
 | 4183 | éventualité | Möglichkeit, Eventualität | 16 |  | [Bearbeiten](cards/4183_éventualité.yml) |
 | 4184 | massacrer | niedermetzeln | 19 |  | [Bearbeiten](cards/4184_massacrer.yml) |
-| 4185 | réciproque | gegenseitig | 28 |  | [Bearbeiten](cards/4185_réciproque.yml) |
+| 4185 | réciproque | gegenseitig⁠; Gleiche(-s) | 28 | X | [Bearbeiten](cards/4185_réciproque.yml) |
 | 4186 | état-major | Generalstab, Führungsstab | 21 |  | [Bearbeiten](cards/4186_état-major.yml) |
 | 4187 | attarder | aufhalten, verweilen | 20 |  | [Bearbeiten](cards/4187_attarder.yml) |
 | 4188 | englober | (mit) einbeziehen, einschließen | 16 |  | [Bearbeiten](cards/4188_englober.yml) |
@@ -4196,7 +4196,7 @@
 | 4194 | gorge | Kehle; Schlucht | 34 | X | [Bearbeiten](cards/4194_gorge.yml) |
 | 4195 | nationaliste | Nationalist | 13 | X | [Bearbeiten](cards/4195_nationaliste.yml) |
 | 4196 | exportateur | Exporteur | 17 |  | [Bearbeiten](cards/4196_exportateur.yml) |
-| 4197 | montre | Uhr [zum Tragen] | 27 |  | [Bearbeiten](cards/4197_montre.yml) |
+| 4197 | montre | Uhr [zum Tragen] | 27 | X | [Bearbeiten](cards/4197_montre.yml) |
 | 4198 | ratifier | ratifizieren | 14 |  | [Bearbeiten](cards/4198_ratifier.yml) |
 | 4199 | exploit | (Helden-)tat, Leistung | 18 |  | [Bearbeiten](cards/4199_exploit.yml) |
 | 4200 | encourageant | ermutigend | 13 |  | [Bearbeiten](cards/4200_encourageant.yml) |
@@ -4213,9 +4213,9 @@
 | 4211 | sanctionner | bestrafen, sanktionieren | 17 |  | [Bearbeiten](cards/4211_sanctionner.yml) |
 | 4212 | recrutement | Anwerbung, Rekrutierung | 16 |  | [Bearbeiten](cards/4212_recrutement.yml) |
 | 4213 | détendre | entspannen | 28 |  | [Bearbeiten](cards/4213_détendre.yml) |
-| 4214 | aisé | leicht, mühelos | 23 |  | [Bearbeiten](cards/4214_aisé.yml) |
+| 4214 | aisé | einfach, leicht; wohlhabend | 23 |  | [Bearbeiten](cards/4214_aisé.yml) |
 | 4215 | toilette | Toilette, Badezimmer | 40 |  | [Bearbeiten](cards/4215_toilette.yml) |
-| 4216 | autobus | Bus | 15 | X | [Bearbeiten](cards/4216_autobus.yml) |
+| 4216 | autobus | (Auto-)bus | 15 | X | [Bearbeiten](cards/4216_autobus.yml) |
 | 4217 | défavoriser | benachteiligen | 15 |  | [Bearbeiten](cards/4217_défavoriser.yml) |
 | 4218 | résistant | Widerstandskämpfer | 26 |  | [Bearbeiten](cards/4218_résistant.yml) |
 | 4219 | admiration | Bewunderung | 19 |  | [Bearbeiten](cards/4219_admiration.yml) |
@@ -4239,7 +4239,7 @@
 | 4237 | irréversible | unumkehrbar | 15 |  | [Bearbeiten](cards/4237_irréversible.yml) |
 | 4238 | fatal | verhängnisvoll, tödlich | 26 |  | [Bearbeiten](cards/4238_fatal.yml) |
 | 4239 | furieux | wütend | 32 |  | [Bearbeiten](cards/4239_furieux.yml) |
-| 4240 | verbal | mündlich | 23 |  | [Bearbeiten](cards/4240_verbal.yml) |
+| 4240 | verbal | mündlich, sprachlich | 23 | X | [Bearbeiten](cards/4240_verbal.yml) |
 | 4241 | contacter | kontaktieren | 13 |  | [Bearbeiten](cards/4241_contacter.yml) |
 | 4242 | commissariat | Polizeiwache | 15 |  | [Bearbeiten](cards/4242_commissariat.yml) |
 | 4243 | gai | fröhlich, heiter | 37 |  | [Bearbeiten](cards/4243_gai.yml) |
@@ -4252,7 +4252,7 @@
 | 4250 | réflexe | Reflex | 28 |  | [Bearbeiten](cards/4250_réflexe.yml) |
 | 4251 | complément | Ergänzung | 24 |  | [Bearbeiten](cards/4251_complément.yml) |
 | 4252 | initialement | ursprünglich, anfänglich | 12 |  | [Bearbeiten](cards/4252_initialement.yml) |
-| 4253 | comédien | Schauspieler | 18 |  | [Bearbeiten](cards/4253_comédien.yml) |
+| 4253 | comédien | Schauspieler [Theater] | 18 | X | [Bearbeiten](cards/4253_comédien.yml) |
 | 4254 | successeur | Nachfolger | 16 |  | [Bearbeiten](cards/4254_successeur.yml) |
 | 4255 | méfiance | Misstrauen | 14 |  | [Bearbeiten](cards/4255_méfiance.yml) |
 | 4256 | replier | zusammenfalten, falten | 35 |  | [Bearbeiten](cards/4256_replier.yml) |
