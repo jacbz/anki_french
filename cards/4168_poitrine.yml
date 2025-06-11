@@ -7,7 +7,7 @@ Wortart: nf
 Wort mit Artikel: la poitrine
 Femininum / Plural: ''
 IPA: \pwa.tʁin\
-Definition: Brust
+Definition: Brust, Brustkorb
 Register: ↗Fiktion ↘Sachtext ↘Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -84,4 +84,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: <grammar data-id="Körper"></grammar>
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>sein</i> und <i>poitrine</i></div>
+    <div class="section-content">
+      <p><span class="fr">Sein</span> (#563) bezieht sich spezifisch auf die weibliche Brust als Organ, insbesondere in anatomischen oder medizinischen Kontexten. Es ist der präzisere und oft diskretere Begriff.</p>
+      <div class="examples">
+        <div class="fr">Elle allaite son bébé au sein.</div>
+        <div class="de spoiler">Sie stillt ihr Baby an der Brust.</div>
+        <div class="fr">Le médecin a examiné ses seins lors du contrôle médical.</div>
+        <div class="de spoiler">Der Arzt untersuchte ihre Brüste bei der medizinischen Kontrolle.</div>
+      </div>
+      <p><span class="fr">Poitrine</span> bezeichnet den Brustkorb oder die Brust im allgemeineren Sinne und kann sowohl für Männer als auch für Frauen verwendet werden. Es umfasst den gesamten Brustbereich.</p>
+      <div class="examples">
+        <div class="fr">Il a une douleur dans la poitrine.</div>
+        <div class="de spoiler">Er hat Schmerzen in der Brust.</div>
+        <div class="fr">Elle portait un collier qui brillait sur sa poitrine.</div>
+        <div class="de spoiler">Sie trug eine Halskette, die auf ihrer Brust glänzte.</div>
+      </div>
+    </div>
+  </div>
+  <grammar data-id="Körper"></grammar>
