@@ -7,7 +7,7 @@ Wortart: adj
 Wort mit Artikel: horrible
 Femininum / Plural: ''
 IPA: \ɔ.ʁibl\
-Definition: schrecklich, furchtbar
+Definition: schrecklich, grauenhaft
 Register: ↘Sachtext
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -96,4 +96,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>terrible</i> und <i>horrible</i></div>
+    <div class="section-content">
+      <p><span class="fr">Terrible</span> (#1310) bedeutet <span class="de">"schrecklich"</span> oder <span class="de">"furchtbar"</span> und kann sowohl negative als auch positive Intensität ausdrücken. Es wird oft verwendet, um etwas sehr Starkes oder Extremes zu beschreiben.</p>
+      <div class="examples">
+        <div class="fr">Il y a eu un terrible accident sur l'autoroute.</div>
+        <div class="de spoiler">Es gab einen schrecklichen Unfall auf der Autobahn.</div>
+        <div class="fr">Elle a une terrible envie de chocolat.</div>
+        <div class="de spoiler">Sie hat furchtbare Lust auf Schokolade.</div>
+      </div>
+      <p><span class="fr">Horrible</span> bedeutet <span class="de">"schrecklich"</span> oder <span class="de">"grauenhaft"</span> und hat fast ausschließlich negative Konnotationen. Es beschreibt etwas, das Abscheu oder Entsetzen hervorruft.</p>
+      <div class="examples">
+        <div class="fr">Ce crime horrible a choqué toute la ville.</div>
+        <div class="de spoiler">Dieses schreckliche Verbrechen hat die ganze Stadt schockiert.</div>
+        <div class="fr">Le temps est horrible aujourd'hui.</div>
+        <div class="de spoiler">Das Wetter ist heute schrecklich.</div>
+      </div>
+    </div>
+  </div>
