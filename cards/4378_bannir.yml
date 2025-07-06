@@ -7,7 +7,7 @@ Wortart: vt
 Wort mit Artikel: bannir
 Femininum / Plural: ''
 IPA: \ba.niʁ\
-Definition: verbannen
+Definition: verbannen, ausschließen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -66,4 +66,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>reléguer</i> und <i>bannir</i></div>
+    <div class="section-content">
+      <p><span class="fr">Reléguer</span> (#3728) bedeutet <span class="de">"verbannen"</span> oder <span class="de">"verweisen"</span> und bezeichnet das Abschieben oder Herabstufen an einen weniger wichtigen Ort oder in eine niedrigere Position.</p>
+      <div class="examples">
+        <div class="fr">Il a été relégué au poste de gardien de nuit.</div>
+        <div class="de spoiler">Er wurde auf den Posten des Nachtwächters verbannt.</div>
+        <div class="fr">Ces livres ont été relégués au grenier.</div>
+        <div class="de spoiler">Diese Bücher wurden auf den Dachboden verbannt.</div>
+      </div>
+      <p><span class="fr">Bannir</span> bedeutet <span class="de">"verbannen"</span> oder <span class="de">"ausschließen"</span> im Sinne einer vollständigen Entfernung oder eines Verbots. Es ist oft definitiver und strafender als <span class="fr">reléguer</span>.</p>
+      <div class="examples">
+        <div class="fr">Le roi a banni le traître du royaume.</div>
+        <div class="de spoiler">Der König verbannte den Verräter aus dem Königreich.</div>
+        <div class="fr">Il faut bannir la violence de nos écoles.</div>
+        <div class="de spoiler">Wir müssen Gewalt aus unseren Schulen verbannen.</div>
+      </div>
+      <p><span class="fr">Reléguer</span> impliziert oft eine Herabstufung innerhalb eines Systems, während <span class="fr">bannir</span> eine vollständige Ausschließung oder Eliminierung bedeutet.</p>
+    </div>
+  </div>
