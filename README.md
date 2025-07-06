@@ -34,7 +34,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 149.973 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1196 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 149.967 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1196 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -44,7 +44,7 @@ Insgesamt gibt es 5000 Karten mit 149.973 Beispielsätzen (durchschnittlich 30.0
 | 4 | à | nach, in [örtlich], um [zeitlich] | 59 | X | [Bearbeiten](cards/0004_à.yml) |
 | 5 | être | sein | 59 |  | [Bearbeiten](cards/0005_être.yml) |
 | 6 | et | und | 36 | X | [Bearbeiten](cards/0006_et.yml) |
-| 7 | en | in | 56 | X | [Bearbeiten](cards/0007_en.yml) |
+| 7 | en | in; davon | 56 | X | [Bearbeiten](cards/0007_en.yml) |
 | 8 | avoir | haben, besitzen | 59 |  | [Bearbeiten](cards/0008_avoir.yml) |
 | 9 | que | dass; was; den/die/das; nur | 58 | X | [Bearbeiten](cards/0009_que.yml) |
 | 10 | pour | für | 59 | X | [Bearbeiten](cards/0010_pour.yml) |
@@ -73,7 +73,7 @@ Insgesamt gibt es 5000 Karten mit 149.973 Beispielsätzen (durchschnittlich 30.0
 | 33 | ou | oder | 51 |  | [Bearbeiten](cards/0033_ou.yml) |
 | 34 | si | wenn, falls; doch | 58 | X | [Bearbeiten](cards/0034_si.yml) |
 | 35 | leur | ihr(-e/s); ihnen | 45 | X | [Bearbeiten](cards/0035_leur.yml) |
-| 36 | y | dort, dahin | 35 | X | [Bearbeiten](cards/0036_y.yml) |
+| 36 | y | dort, dahin | 30 | X | [Bearbeiten](cards/0036_y.yml) |
 | 37 | dire | sagen | 58 | X | [Bearbeiten](cards/0037_dire.yml) |
 | 38 | elle | sie | 33 | X | [Bearbeiten](cards/0038_elle.yml) |
 | 39 | devoir | müssen; Pflicht | 57 |  | [Bearbeiten](cards/0039_devoir.yml) |
