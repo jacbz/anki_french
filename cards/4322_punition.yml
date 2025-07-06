@@ -7,7 +7,7 @@ Wortart: nf
 Wort mit Artikel: la punition
 Femininum / Plural: ''
 IPA: \py.ni.sjɔ̃\
-Definition: Strafe
+Definition: Strafe, Bestrafung
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -81,4 +81,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>sanction</i> und <i>punition</i></div>
+    <div class="section-content">
+      <p><span class="fr">Sanction</span> (#2282) bedeutet <span class="de">"Sanktion"</span> oder <span class="de">"Maßnahme"</span> und wird in formellen oder offiziellen Kontexten verwendet. Es bezeichnet eine Konsequenz, die von einer Autorität verhängt wird.</p>
+      <div class="examples">
+        <div class="fr">Le conseil de discipline a pris des sanctions contre l'étudiant.</div>
+        <div class="de spoiler">Der Disziplinarrat hat Sanktionen gegen den Studenten verhängt.</div>
+        <div class="fr">Les sanctions économiques ont été levées.</div>
+        <div class="de spoiler">Die Wirtschaftssanktionen wurden aufgehoben.</div>
+      </div>
+      <p><span class="fr">Punition</span> bedeutet <span class="de">"Strafe"</span> oder <span class="de">"Bestrafung"</span> und wird häufiger in alltäglichen oder persönlichen Kontexten verwendet, besonders bei der Erziehung von Kindern.</p>
+      <div class="examples">
+        <div class="fr">Sa punition était de ranger sa chambre.</div>
+        <div class="de spoiler">Seine Strafe war, sein Zimmer aufzuräumen.</div>
+        <div class="fr">L'enfant a reçu une punition pour avoir menti.</div>
+        <div class="de spoiler">Das Kind erhielt eine Strafe, weil es gelogen hatte.</div>
+      </div>
+      <p><span class="fr">Sanction</span> wird eher in institutionellen oder rechtlichen Zusammenhängen verwendet, während <span class="fr">punition</span> persönlicher und weniger formell ist.</p>
+    </div>
+  </div>
