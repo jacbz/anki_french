@@ -7,7 +7,7 @@ Wortart: vt, vr
 Wort mit Artikel: substituer
 Femininum / Plural: ''
 IPA: \syps.ti.tɥe\
-Definition: ersetzen
+Definition: ersetzen, austauschen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -69,4 +69,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>remplacer</i> und <i>substituer</i></div>
+    <div class="section-content">
+      <p><span class="fr">Remplacer</span> (#448) bedeutet <span class="de">"ersetzen"</span> und wird verwendet, wenn etwas oder jemand die Stelle von etwas anderem einnimmt. Es ist das gebräuchlichere Verb im Alltag.</p>
+      <div class="examples">
+        <div class="fr">Il faut remplacer cette ampoule cassée.</div>
+        <div class="de spoiler">Man muss diese kaputte Glühbirne ersetzen.</div>
+        <div class="fr">Elle va remplacer le directeur pendant ses vacances.</div>
+        <div class="de spoiler">Sie wird den Direktor während seines Urlaubs vertreten.</div>
+      </div>
+      <p><span class="fr">Substituer</span> bedeutet ebenfalls <span class="de">"ersetzen"</span> oder <span class="de">"substituieren"</span>, wird aber hauptsächlich in formelleren oder technischen Kontexten verwendet. Es betont oft den Austausch von etwas durch etwas Ähnliches.</p>
+      <div class="examples">
+        <div class="fr">Le médecin a décidé de substituer ce médicament par un autre.</div>
+        <div class="de spoiler">Der Arzt entschied, dieses Medikament durch ein anderes zu ersetzen.</div>
+        <div class="fr">Dans cette recette, on peut substituer le beurre par de l'huile.</div>
+        <div class="de spoiler">In diesem Rezept kann man die Butter durch Öl ersetzen.</div>
+      </div>
+    </div>
+  </div>

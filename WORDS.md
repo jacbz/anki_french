@@ -595,7 +595,7 @@
 | 593 | rapidement | schnell, flink | 13 |  | [Bearbeiten](cards/0593_rapidement.yml) |
 | 594 | autour | um ... (herum) | 26 |  | [Bearbeiten](cards/0594_autour.yml) |
 | 595 | réduire | verringern, reduzieren | 61 |  | [Bearbeiten](cards/0595_réduire.yml) |
-| 596 | d’après | gemäß | 58 |  | [Bearbeiten](cards/0596_d’après.yml) |
+| 596 | d’après | gemäß | 58 | X | [Bearbeiten](cards/0596_d’après.yml) |
 | 597 | préférer | vorziehen | 27 |  | [Bearbeiten](cards/0597_préférer.yml) |
 | 598 | rue | Straße, Gasse | 40 | X | [Bearbeiten](cards/0598_rue.yml) |
 | 599 | riche | reich | 52 | X | [Bearbeiten](cards/0599_riche.yml) |
@@ -1077,7 +1077,7 @@
 | 1075 | arrivée | Ankunft | 27 |  | [Bearbeiten](cards/1075_arrivée.yml) |
 | 1076 | puissance | Macht, Kraft | 61 |  | [Bearbeiten](cards/1076_puissance.yml) |
 | 1077 | partenaire | Partner | 20 |  | [Bearbeiten](cards/1077_partenaire.yml) |
-| 1078 | contenter | zufriedenstellen | 20 |  | [Bearbeiten](cards/1078_contenter.yml) |
+| 1078 | contenter | zufriedenstellen | 20 | X | [Bearbeiten](cards/1078_contenter.yml) |
 | 1079 | perte | Verlust | 61 |  | [Bearbeiten](cards/1079_perte.yml) |
 | 1080 | libéral | liberal | 26 | X | [Bearbeiten](cards/1080_libéral.yml) |
 | 1081 | citoyen | Bürger | 25 |  | [Bearbeiten](cards/1081_citoyen.yml) |
@@ -2281,7 +2281,7 @@
 | 2279 | cérémonie | Feierlichkeit | 24 |  | [Bearbeiten](cards/2279_cérémonie.yml) |
 | 2280 | ambition | Ambition | 21 |  | [Bearbeiten](cards/2280_ambition.yml) |
 | 2281 | recourir | zurückgreifen, sich [an jdn.] wenden | 23 |  | [Bearbeiten](cards/2281_recourir.yml) |
-| 2282 | sanction | Strafe | 24 |  | [Bearbeiten](cards/2282_sanction.yml) |
+| 2282 | sanction | Strafe, Maßnahme | 24 |  | [Bearbeiten](cards/2282_sanction.yml) |
 | 2283 | géant | Riese | 35 |  | [Bearbeiten](cards/2283_géant.yml) |
 | 2284 | jardin | Garten | 34 |  | [Bearbeiten](cards/2284_jardin.yml) |
 | 2285 | nourriture | Essen, Nahrung | 22 | X | [Bearbeiten](cards/2285_nourriture.yml) |
@@ -3189,7 +3189,7 @@
 | 3187 | désespoir | Verzweiflung | 22 |  | [Bearbeiten](cards/3187_désespoir.yml) |
 | 3188 | humeur | Laune, Stimmung | 44 |  | [Bearbeiten](cards/3188_humeur.yml) |
 | 3189 | demandeur | Kläger, Antragsteller | 18 |  | [Bearbeiten](cards/3189_demandeur.yml) |
-| 3190 | horrible | schrecklich, furchtbar | 26 |  | [Bearbeiten](cards/3190_horrible.yml) |
+| 3190 | horrible | schrecklich, grauenhaft | 26 | X | [Bearbeiten](cards/3190_horrible.yml) |
 | 3191 | conquérir | erobern | 22 |  | [Bearbeiten](cards/3191_conquérir.yml) |
 | 3192 | horaire | Stunden-, Zeitplan | 40 | X | [Bearbeiten](cards/3192_horaire.yml) |
 | 3193 | encouragement | Ermutigung | 18 |  | [Bearbeiten](cards/3193_encouragement.yml) |
@@ -3599,7 +3599,7 @@
 | 3597 | ménager | schonen; Haushalt- | 50 |  | [Bearbeiten](cards/3597_ménager.yml) |
 | 3598 | millénaire | Jahrtausend [alt] | 19 |  | [Bearbeiten](cards/3598_millénaire.yml) |
 | 3599 | alerte | Alarm; schwungvoll | 37 |  | [Bearbeiten](cards/3599_alerte.yml) |
-| 3600 | renforcement | Verstärkung | 16 |  | [Bearbeiten](cards/3600_renforcement.yml) |
+| 3600 | renforcement | Verstärkung, Stärkung | 16 |  | [Bearbeiten](cards/3600_renforcement.yml) |
 | 3601 | ange | Engel | 28 |  | [Bearbeiten](cards/3601_ange.yml) |
 | 3602 | guérir | heilen | 35 |  | [Bearbeiten](cards/3602_guérir.yml) |
 | 3603 | immobilier | Immobilien- | 25 |  | [Bearbeiten](cards/3603_immobilier.yml) |
@@ -3727,7 +3727,7 @@
 | 3725 | réformer | reformieren | 25 |  | [Bearbeiten](cards/3725_réformer.yml) |
 | 3726 | assise | Grundlage; Schicht | 19 |  | [Bearbeiten](cards/3726_assise.yml) |
 | 3727 | énergétique | Energie- | 19 |  | [Bearbeiten](cards/3727_énergétique.yml) |
-| 3728 | reléguer | verbannen | 18 |  | [Bearbeiten](cards/3728_reléguer.yml) |
+| 3728 | reléguer | verbannen, verweisen | 18 |  | [Bearbeiten](cards/3728_reléguer.yml) |
 | 3729 | architecte | Architekt | 14 |  | [Bearbeiten](cards/3729_architecte.yml) |
 | 3730 | deuxièmement | zweitens | 10 |  | [Bearbeiten](cards/3730_deuxièmement.yml) |
 | 3731 | vedette | Hauptthema; Star | 35 |  | [Bearbeiten](cards/3731_vedette.yml) |
@@ -4321,11 +4321,11 @@
 | 4319 | économiser | sparen | 19 |  | [Bearbeiten](cards/4319_économiser.yml) |
 | 4320 | tisser | weben | 23 |  | [Bearbeiten](cards/4320_tisser.yml) |
 | 4321 | poule | Huhn, Henne | 46 | X | [Bearbeiten](cards/4321_poule.yml) |
-| 4322 | punition | Strafe | 21 |  | [Bearbeiten](cards/4322_punition.yml) |
+| 4322 | punition | Strafe, Bestrafung | 21 | X | [Bearbeiten](cards/4322_punition.yml) |
 | 4323 | hésitation | Zögern, Unsicherheit | 19 |  | [Bearbeiten](cards/4323_hésitation.yml) |
 | 4324 | rentable | rentabel | 18 |  | [Bearbeiten](cards/4324_rentable.yml) |
 | 4325 | loyal | loyal, treu | 20 |  | [Bearbeiten](cards/4325_loyal.yml) |
-| 4326 | renfort | Verstärkung | 20 |  | [Bearbeiten](cards/4326_renfort.yml) |
+| 4326 | renfort | Verstärkung | 20 | X | [Bearbeiten](cards/4326_renfort.yml) |
 | 4327 | cohérence | Kohärenz, Zusammenhang | 14 |  | [Bearbeiten](cards/4327_cohérence.yml) |
 | 4328 | souris | Maus | 24 | X | [Bearbeiten](cards/4328_souris.yml) |
 | 4329 | bombarder | bombardieren | 19 |  | [Bearbeiten](cards/4329_bombarder.yml) |
@@ -4343,7 +4343,7 @@
 | 4341 | négligeable | vernachlässigbar | 15 |  | [Bearbeiten](cards/4341_négligeable.yml) |
 | 4342 | vice | Laster, schlechte Angewohnheit | 28 |  | [Bearbeiten](cards/4342_vice.yml) |
 | 4343 | symboliser | symbolisieren | 15 |  | [Bearbeiten](cards/4343_symboliser.yml) |
-| 4344 | substituer | ersetzen | 17 |  | [Bearbeiten](cards/4344_substituer.yml) |
+| 4344 | substituer | ersetzen, austauschen | 17 | X | [Bearbeiten](cards/4344_substituer.yml) |
 | 4345 | subtil | fein, scharfsinnig | 24 |  | [Bearbeiten](cards/4345_subtil.yml) |
 | 4346 | commandant | Kommandant | 17 |  | [Bearbeiten](cards/4346_commandant.yml) |
 | 4347 | chuter | stürzen, fallen | 21 | X | [Bearbeiten](cards/4347_chuter.yml) |
@@ -4366,9 +4366,9 @@
 | 4364 | récupération | Wiederverwendung, Erholung | 30 |  | [Bearbeiten](cards/4364_récupération.yml) |
 | 4365 | vigoureux | kräftig, energisch | 22 |  | [Bearbeiten](cards/4365_vigoureux.yml) |
 | 4366 | rentabilité | Rentabilität | 16 |  | [Bearbeiten](cards/4366_rentabilité.yml) |
-| 4367 | delà | jenseits, darüber hinaus | 29 |  | [Bearbeiten](cards/4367_delà.yml) |
+| 4367 | delà | jenseits | 29 |  | [Bearbeiten](cards/4367_delà.yml) |
 | 4368 | incliner | neigen, beugen | 37 |  | [Bearbeiten](cards/4368_incliner.yml) |
-| 4369 | affreux | scheußlich, furchtbar (hässlich) | 23 |  | [Bearbeiten](cards/4369_affreux.yml) |
+| 4369 | affreux | scheußlich, furchtbar (hässlich) | 23 | X | [Bearbeiten](cards/4369_affreux.yml) |
 | 4370 | révolter | empören, auflehnen | 21 |  | [Bearbeiten](cards/4370_révolter.yml) |
 | 4371 | conte | Märchen | 18 | X | [Bearbeiten](cards/4371_conte.yml) |
 | 4372 | évasion | Flucht, Ausbruch | 20 |  | [Bearbeiten](cards/4372_évasion.yml) |
@@ -4377,7 +4377,7 @@
 | 4375 | arrivé | angekommen, passiert | 15 |  | [Bearbeiten](cards/4375_arrivé.yml) |
 | 4376 | ironie | Ironie | 17 |  | [Bearbeiten](cards/4376_ironie.yml) |
 | 4377 | serveur | Kellner | 18 |  | [Bearbeiten](cards/4377_serveur.yml) |
-| 4378 | bannir | verbannen | 16 |  | [Bearbeiten](cards/4378_bannir.yml) |
+| 4378 | bannir | verbannen, ausschließen | 16 | X | [Bearbeiten](cards/4378_bannir.yml) |
 | 4379 | insuffisance | Dürftigkeit, Schwäche | 33 |  | [Bearbeiten](cards/4379_insuffisance.yml) |
 | 4380 | librairie | Buchhandlung | 18 |  | [Bearbeiten](cards/4380_librairie.yml) |
 | 4381 | parenthèse | Klammer, Einschub | 18 |  | [Bearbeiten](cards/4381_parenthèse.yml) |

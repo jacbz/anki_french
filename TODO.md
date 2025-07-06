@@ -1,11 +1,5 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
-* schrecklich, furchtbar: [terrible](cards/1310_terrible.yml) (#1310), [horrible](cards/3190_horrible.yml) (#3190)
-* Strafe: [sanction](cards/2282_sanction.yml) (#2282), [punition](cards/4322_punition.yml) (#4322)
-* Verstärkung: [renforcement](cards/3600_renforcement.yml) (#3600), [renfort](cards/4326_renfort.yml) (#4326)
-* ersetzen: [remplacer](cards/0448_remplacer.yml) (#448), [substituer](cards/4344_substituer.yml) (#4344)
-* jenseits, darüber hinaus: [au-delà](cards/1172_au-delà.yml) (#1172), [delà](cards/4367_delà.yml) (#4367)
-* verbannen: [reléguer](cards/3728_reléguer.yml) (#3728), [bannir](cards/4378_bannir.yml) (#4378)
 * angemessen, passend: [adéquat](cards/3525_adéquat.yml) (#3525), [approprié](cards/3591_approprié.yml) (#3591), [convenable](cards/4410_convenable.yml) (#4410)
 * Pfarrer: [pasteur](cards/4071_pasteur.yml) (#4071), [curé](cards/4422_curé.yml) (#4422)
 * Auto: [voiture](cards/0881_voiture.yml) (#881), [auto](cards/4494_auto.yml) (#4494)
