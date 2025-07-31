@@ -7,7 +7,7 @@ Wortart: vt, vr
 Wort mit Artikel: différencier
 Femininum / Plural: ''
 IPA: \di.fe.ʁɑ̃.sje\
-Definition: unterscheiden
+Definition: unterscheiden, auseinanderhalten
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -78,4 +78,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>distinguer</i> und <i>différencier</i></div>
+    <div class="section-content">
+      <p><span class="fr">Distinguer</span> (#1807) bedeutet <span class="de">"unterscheiden"</span> oder <span class="de">"erkennen"</span> und bezieht sich auf die Fähigkeit, Unterschiede zwischen Dingen wahrzunehmen oder zu identifizieren.</p>
+      <div class="examples">
+        <div class="fr">Il arrive à distinguer les vrais billets des faux.</div>
+        <div class="de spoiler">Er kann echte Geldscheine von falschen unterscheiden.</div>
+        <div class="fr">Dans l'obscurité, on ne peut pas distinguer les couleurs.</div>
+        <div class="de spoiler">In der Dunkelheit kann man die Farben nicht unterscheiden.</div>
+      </div>
+      <p><span class="fr">Différencier</span> bedeutet <span class="de">"differenzieren"</span> oder <span class="de">"einen Unterschied machen"</span> und bezieht sich darauf, bewusst Unterschiede zu schaffen oder zu betonen.</p>
+      <div class="examples">
+        <div class="fr">Cette entreprise cherche à différencier ses produits de ceux de la concurrence.</div>
+        <div class="de spoiler">Dieses Unternehmen versucht, seine Produkte von denen der Konkurrenz zu differenzieren.</div>
+        <div class="fr">Il faut différencier les méthodes selon l'âge des élèves.</div>
+        <div class="de spoiler">Man muss die Methoden je nach Alter der Schüler differenzieren.</div>
+      </div>
+      <p><span class="fr">Distinguer</span> betont die Wahrnehmung von bereits bestehenden Unterschieden, während <span class="fr">différencier</span> das aktive Schaffen oder Hervorheben von Unterschieden impliziert.</p>
+    </div>
+  </div>
