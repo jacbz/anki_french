@@ -1,9 +1,5 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
-* angemessen, passend: [adéquat](cards/3525_adéquat.yml) (#3525), [approprié](cards/3591_approprié.yml) (#3591), [convenable](cards/4410_convenable.yml) (#4410)
-* Pfarrer: [pasteur](cards/4071_pasteur.yml) (#4071), [curé](cards/4422_curé.yml) (#4422)
-* Wunder: [miracle](cards/2638_miracle.yml) (#2638), [merveille](cards/4545_merveille.yml) (#4545)
-* unterscheiden: [distinguer](cards/1807_distinguer.yml) (#1807), [différencier](cards/4620_différencier.yml) (#4620)
 * beschuldigen: [accuser](cards/1147_accuser.yml) (#1147), [inculper](cards/4638_inculper.yml) (#4638)
 * vollständig, total: [totalement](cards/1353_totalement.yml) (#1353), [intégral](cards/4641_intégral.yml) (#4641)
 * unerträglich: [insupportable](cards/4484_insupportable.yml) (#4484), [intolérable](cards/4664_intolérable.yml) (#4664)

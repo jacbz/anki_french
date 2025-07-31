@@ -1806,7 +1806,7 @@
 | 1804 | achat | Kauf | 33 |  | [Bearbeiten](cards/1804_achat.yml) |
 | 1805 | mentionner | erwähnen | 13 |  | [Bearbeiten](cards/1805_mentionner.yml) |
 | 1806 | exécution | Ausführung, Vollstreckung | 45 |  | [Bearbeiten](cards/1806_exécution.yml) |
-| 1807 | distinguer | unterscheiden | 41 |  | [Bearbeiten](cards/1807_distinguer.yml) |
+| 1807 | distinguer | unterscheiden, erkennen | 41 |  | [Bearbeiten](cards/1807_distinguer.yml) |
 | 1808 | exploiter | ausbeuten, nutzen | 25 |  | [Bearbeiten](cards/1808_exploiter.yml) |
 | 1809 | administratif | Verwaltungs- | 22 |  | [Bearbeiten](cards/1809_administratif.yml) |
 | 1810 | effectif | Belegschaft; tatsächlich | 24 |  | [Bearbeiten](cards/1810_effectif.yml) |
@@ -3524,7 +3524,7 @@
 | 3522 | motivation | Motivation | 15 |  | [Bearbeiten](cards/3522_motivation.yml) |
 | 3523 | protestation | Protest, Bekundung | 19 |  | [Bearbeiten](cards/3523_protestation.yml) |
 | 3524 | demeure | Wohnstätte, Bleibe | 24 | X | [Bearbeiten](cards/3524_demeure.yml) |
-| 3525 | adéquat | angemessen, passend | 13 |  | [Bearbeiten](cards/3525_adéquat.yml) |
+| 3525 | adéquat | angemessen, entsprechend | 13 |  | [Bearbeiten](cards/3525_adéquat.yml) |
 | 3526 | geler | frieren | 37 |  | [Bearbeiten](cards/3526_geler.yml) |
 | 3527 | défiler | vorbeiziehen | 27 |  | [Bearbeiten](cards/3527_défiler.yml) |
 | 3528 | peintre | Maler | 25 |  | [Bearbeiten](cards/3528_peintre.yml) |
@@ -3590,7 +3590,7 @@
 | 3588 | complicité | Mittäterschaft; [geheimes] Einverständnis | 18 |  | [Bearbeiten](cards/3588_complicité.yml) |
 | 3589 | décréter | verordnen, erlassen | 18 |  | [Bearbeiten](cards/3589_décréter.yml) |
 | 3590 | flamme | Flamme | 38 |  | [Bearbeiten](cards/3590_flamme.yml) |
-| 3591 | approprié | angemessen, passend | 11 |  | [Bearbeiten](cards/3591_approprié.yml) |
+| 3591 | approprié | passend, geeignet | 11 | X | [Bearbeiten](cards/3591_approprié.yml) |
 | 3592 | dix-huit | achtzehn | 26 | X | [Bearbeiten](cards/3592_dix-huit.yml) |
 | 3593 | nouveauté | Neuheit | 24 |  | [Bearbeiten](cards/3593_nouveauté.yml) |
 | 3594 | brusquement | plötzlich, abrupt | 12 |  | [Bearbeiten](cards/3594_brusquement.yml) |
@@ -4070,7 +4070,7 @@
 | 4068 | nationalité | Staatsangehörigkeit | 21 |  | [Bearbeiten](cards/4068_nationalité.yml) |
 | 4069 | serment | Eid | 28 |  | [Bearbeiten](cards/4069_serment.yml) |
 | 4070 | envoler | abheben, wegfliegen | 26 |  | [Bearbeiten](cards/4070_envoler.yml) |
-| 4071 | pasteur | Pfarrer | 16 |  | [Bearbeiten](cards/4071_pasteur.yml) |
+| 4071 | pasteur | Pastor [evang.] | 16 |  | [Bearbeiten](cards/4071_pasteur.yml) |
 | 4072 | activer | aktivieren, vorantreiben | 26 |  | [Bearbeiten](cards/4072_activer.yml) |
 | 4073 | chimie | Chemie | 17 |  | [Bearbeiten](cards/4073_chimie.yml) |
 | 4074 | erroné | fehlerhaft, falsch | 16 |  | [Bearbeiten](cards/4074_erroné.yml) |
@@ -4409,7 +4409,7 @@
 | 4407 | créature | Geschöpf | 21 |  | [Bearbeiten](cards/4407_créature.yml) |
 | 4408 | aucunement | keineswegs, in keiner Weise | 17 |  | [Bearbeiten](cards/4408_aucunement.yml) |
 | 4409 | globalement | im Großen und Ganzen | 13 |  | [Bearbeiten](cards/4409_globalement.yml) |
-| 4410 | convenable | angemessen, passend | 23 |  | [Bearbeiten](cards/4410_convenable.yml) |
+| 4410 | convenable | anständig, schicklich | 23 | X | [Bearbeiten](cards/4410_convenable.yml) |
 | 4411 | itinéraire | Route | 18 |  | [Bearbeiten](cards/4411_itinéraire.yml) |
 | 4412 | purger | entleeren [und reinigen] | 25 |  | [Bearbeiten](cards/4412_purger.yml) |
 | 4413 | fâcher | verärgern | 30 |  | [Bearbeiten](cards/4413_fâcher.yml) |
@@ -4421,7 +4421,7 @@
 | 4419 | costume | Anzug | 26 |  | [Bearbeiten](cards/4419_costume.yml) |
 | 4420 | thérapie | Therapie | 19 |  | [Bearbeiten](cards/4420_thérapie.yml) |
 | 4421 | reproche | Vorwurf | 22 |  | [Bearbeiten](cards/4421_reproche.yml) |
-| 4422 | curé | Pfarrer | 16 |  | [Bearbeiten](cards/4422_curé.yml) |
+| 4422 | curé | Pfarrer [kath.] | 16 |  | [Bearbeiten](cards/4422_curé.yml) |
 | 4423 | contrôleur | Kontrolleur | 23 |  | [Bearbeiten](cards/4423_contrôleur.yml) |
 | 4424 | soulagement | Erleichterung | 16 |  | [Bearbeiten](cards/4424_soulagement.yml) |
 | 4425 | dissoudre | auflösen | 20 |  | [Bearbeiten](cards/4425_dissoudre.yml) |
@@ -4504,7 +4504,7 @@
 | 4502 | sonore | klangvoll, lautstark | 27 |  | [Bearbeiten](cards/4502_sonore.yml) |
 | 4503 | initier | einweihen, einführen | 20 |  | [Bearbeiten](cards/4503_initier.yml) |
 | 4504 | mœurs | Sitten, Bräuche | 31 |  | [Bearbeiten](cards/4504_mœurs.yml) |
-| 4505 | cessez-le-feu | Waffenruhe | 11 |  | [Bearbeiten](cards/4505_cessez-le-feu.yml) |
+| 4505 | cessez-le-feu | Waffenstillstand⁠ | 11 | X | [Bearbeiten](cards/4505_cessez-le-feu.yml) |
 | 4506 | bénévole | ehrenamtlich, freiwillig | 18 |  | [Bearbeiten](cards/4506_bénévole.yml) |
 | 4507 | boue | Schlamm | 25 | X | [Bearbeiten](cards/4507_boue.yml) |
 | 4508 | empereur | Kaiser | 13 |  | [Bearbeiten](cards/4508_empereur.yml) |
@@ -4544,7 +4544,7 @@
 | 4542 | seigneur | Herr, Gebieter | 28 |  | [Bearbeiten](cards/4542_seigneur.yml) |
 | 4543 | saisonnier | jahreszeitlich; Saisonarbeiter | 21 |  | [Bearbeiten](cards/4543_saisonnier.yml) |
 | 4544 | souterrain | Untergrund, Keller | 24 |  | [Bearbeiten](cards/4544_souterrain.yml) |
-| 4545 | merveille | Wunder | 24 |  | [Bearbeiten](cards/4545_merveille.yml) |
+| 4545 | merveille | Wunder, Schönheit | 24 | X | [Bearbeiten](cards/4545_merveille.yml) |
 | 4546 | restituer | zurückgeben, wiederherstellen | 22 |  | [Bearbeiten](cards/4546_restituer.yml) |
 | 4547 | démon | Dämon | 24 |  | [Bearbeiten](cards/4547_démon.yml) |
 | 4548 | balancer | schaukeln, wippen, ausgleichen | 46 |  | [Bearbeiten](cards/4548_balancer.yml) |
@@ -4619,7 +4619,7 @@
 | 4617 | incomber | auferlegen, obliegen | 14 |  | [Bearbeiten](cards/4617_incomber.yml) |
 | 4618 | retombée | Auswirkung, Folge | 22 |  | [Bearbeiten](cards/4618_retombée.yml) |
 | 4619 | équivaloir | entsprechen, gleichkommen | 16 |  | [Bearbeiten](cards/4619_équivaloir.yml) |
-| 4620 | différencier | unterscheiden | 20 |  | [Bearbeiten](cards/4620_différencier.yml) |
+| 4620 | différencier | unterscheiden, auseinanderhalten | 20 | X | [Bearbeiten](cards/4620_différencier.yml) |
 | 4621 | éventail | Fächer | 20 |  | [Bearbeiten](cards/4621_éventail.yml) |
 | 4622 | solde | Restbetrag, Saldo | 41 |  | [Bearbeiten](cards/4622_solde.yml) |
 | 4623 | gâcher | verderben, verschwenden | 22 |  | [Bearbeiten](cards/4623_gâcher.yml) |
