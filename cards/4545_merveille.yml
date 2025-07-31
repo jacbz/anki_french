@@ -7,7 +7,7 @@ Wortart: nf
 Wort mit Artikel: la merveille
 Femininum / Plural: ''
 IPA: \mɛʁ.vɛj\
-Definition: Wunder
+Definition: Wunder, Schönheit
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -90,4 +90,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>miracle</i> und <i>merveille</i></div>
+    <div class="section-content">
+      <p><span class="fr">Miracle</span> (#2638) bedeutet <span class="de">"Wunder"</span> im religiösen oder außergewöhnlichen Sinne. Es bezeichnet ein übernatürliches Ereignis oder etwas, das die natürlichen Gesetze zu durchbrechen scheint.</p>
+      <div class="examples">
+        <div class="fr">Les fidèles croient que sa guérison est un vrai miracle.</div>
+        <div class="de spoiler">Die Gläubigen glauben, dass seine Heilung ein wahres Wunder ist.</div>
+        <div class="fr">C'est un miracle qu'il ait survécu à cet accident.</div>
+        <div class="de spoiler">Es ist ein Wunder, dass er diesen Unfall überlebt hat.</div>
+      </div>
+      <p><span class="fr">Merveille</span> bedeutet <span class="de">"Wunder"</span> im Sinne von etwas Bewundernswertem oder Außergewöhnlichem. Es bezeichnet etwas, das Staunen oder Bewunderung hervorruft, ohne übernatürlich zu sein.</p>
+      <div class="examples">
+        <div class="fr">Ce château est une merveille d'architecture.</div>
+        <div class="de spoiler">Dieses Schloss ist ein Wunder der Architektur.</div>
+        <div class="fr">Les sept merveilles du monde antique fascinent encore aujourd'hui.</div>
+        <div class="de spoiler">Die sieben Weltwunder der Antike faszinieren noch heute.</div>
+      </div>
+      <p><span class="fr">Miracle</span> hat oft eine spirituelle oder unerklärliche Dimension, während <span class="fr">merveille</span> sich auf etwas bezieht, das durch seine Schönheit, sein Können oder seine Außergewöhnlichkeit beeindruckt.</p>
+    </div>
+  </div>
