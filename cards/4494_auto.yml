@@ -63,4 +63,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: <grammar data-id="Transport"></grammar>
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>auto</i> und <i>voiture</i></div>
+    <div class="section-content">
+      <p><span class="fr">Voiture</span> (#881) ist das standardmäßige und formelle Wort für <span class="de">"Auto"</span> oder <span class="de">"Wagen"</span>. Es wird in allen Kontexten verwendet und ist stilistisch neutral.</p>
+      <div class="examples">
+        <div class="fr">Il a acheté une nouvelle voiture.</div>
+        <div class="de spoiler">Er hat ein neues Auto gekauft.</div>
+        <div class="fr">La voiture de police patrouille dans le quartier.</div>
+        <div class="de spoiler">Das Polizeiauto patrouilliert im Viertel.</div>
+      </div>
+      <p><span class="fr">Auto</span> ist eine umgangssprachliche Abkürzung von <span class="fr">automobile</span> und bedeutet ebenfalls <span class="de">"Auto"</span>. Es wird häufig in der gesprochenen Sprache und in zusammengesetzten Wörtern verwendet.</p>
+      <div class="examples">
+        <div class="fr">Je prends l'auto pour aller au travail.</div>
+        <div class="de spoiler">Ich nehme das Auto, um zur Arbeit zu fahren.</div>
+        <div class="fr">Il a obtenu son permis à l'auto-école.</div>
+        <div class="de spoiler">Er hat seinen Führerschein in der Fahrschule gemacht.</div>
+      </div>
+    </div>
+  </div>
+  <grammar data-id="Transport"></grammar>
