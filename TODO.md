@@ -2,8 +2,6 @@ Die folgenden Definitionen sind mehrfach vorhanden:
 
 * angemessen, passend: [adéquat](cards/3525_adéquat.yml) (#3525), [approprié](cards/3591_approprié.yml) (#3591), [convenable](cards/4410_convenable.yml) (#4410)
 * Pfarrer: [pasteur](cards/4071_pasteur.yml) (#4071), [curé](cards/4422_curé.yml) (#4422)
-* Auto: [voiture](cards/0881_voiture.yml) (#881), [auto](cards/4494_auto.yml) (#4494)
-* Waffenstillstand: [trêve](cards/4455_trêve.yml) (#4455), [cessez-le-feu](cards/4505_cessez-le-feu.yml) (#4505)
 * Wunder: [miracle](cards/2638_miracle.yml) (#2638), [merveille](cards/4545_merveille.yml) (#4545)
 * unterscheiden: [distinguer](cards/1807_distinguer.yml) (#1807), [différencier](cards/4620_différencier.yml) (#4620)
 * beschuldigen: [accuser](cards/1147_accuser.yml) (#1147), [inculper](cards/4638_inculper.yml) (#4638)
