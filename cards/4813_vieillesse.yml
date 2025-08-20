@@ -7,7 +7,7 @@ Wortart: nf
 Wort mit Artikel: la vieillesse
 Femininum / Plural: ''
 IPA: \vjɛ.jɛs\
-Definition: Alter
+Definition: (hohes) Alter
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -81,4 +81,26 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: <grammar data-id="Zeit"></grammar>
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>âge</i> und <i>vieillesse</i></div>
+    <div class="section-content">
+      <p><span class="fr">Âge</span> bedeutet <span class="de">"Alter"</span> im neutralen, objektiven Sinne und bezeichnet die Anzahl der Jahre, die seit der Geburt vergangen sind, oder eine bestimmte Lebensphase.</p>
+      <div class="examples">
+        <div class="fr">À quel âge as-tu appris à conduire?</div>
+        <div class="de spoiler">In welchem Alter hast du das Autofahren gelernt?</div>
+        <div class="fr">Elle a commencé à travailler dès l'âge de seize ans.</div>
+        <div class="de spoiler">Sie begann im Alter von sechzehn Jahren zu arbeiten.</div>
+        <div class="fr">Le moyen âge était une période fascinante.</div>
+        <div class="de spoiler">Das Mittelalter war eine faszinierende Zeit.</div>
+      </div>
+      <p><span class="fr">Vieillesse</span> bedeutet <span class="de">"Alter"</span> oder <span class="de">"Greisenalter"</span> und bezeichnet spezifisch die späte Lebensphase, oft mit Betonung der körperlichen und geistigen Veränderungen des Alterns.</p>
+      <div class="examples">
+        <div class="fr">Il a passé sa vieillesse entouré de sa famille.</div>
+        <div class="de spoiler">Er verbrachte sein Alter umgeben von seiner Familie.</div>
+        <div class="fr">Les problèmes de santé liés à la vieillesse sont nombreux.</div>
+        <div class="de spoiler">Die mit dem Alter verbundenen Gesundheitsprobleme sind zahlreich.</div>
+      </div>
+    </div>
+  </div>
+  <grammar data-id="Zeit"></grammar>
