@@ -131,7 +131,7 @@ async function getTTSUrl(textToRead, forceGoogleTranslate = false, lang = "fr-FR
   }
 
   try {
-    const textInput = decodeURIComponent(text).replaceAll("*", "").replaceAll("→", ";").replace(/[\u0000-\u001F\u007F-\u009F\u200B\u2060\uFEFF\u202f]/g, "");
+    const textInput = decodeURIComponent(text).replaceAll("*", "").replaceAll("→", ";").replace("’", "'").replace(/[\u0000-\u001F\u007F-\u009F\u200B\u2060\uFEFF\u202f]/g, "");
     let voice = {
       languageCode: "fr-FR",
       name: "fr-FR-Chirp3-HD-" + voices[Math.floor(Math.random() * voices.length)],

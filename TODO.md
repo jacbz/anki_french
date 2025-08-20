@@ -1,12 +1,7 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
-* beschuldigen: [accuser](cards/1147_accuser.yml) (#1147), [inculper](cards/4638_inculper.yml) (#4638)
 * vollständig, total: [totalement](cards/1353_totalement.yml) (#1353), [intégral](cards/4641_intégral.yml) (#4641)
-* unerträglich: [insupportable](cards/4484_insupportable.yml) (#4484), [intolérable](cards/4664_intolérable.yml) (#4664)
-* Bauer: [paysan](cards/2317_paysan.yml) (#2317), [fermier](cards/4685_fermier.yml) (#4685)
-* beeinflussen: [influencer](cards/2498_influencer.yml) (#2498), [influer](cards/4690_influer.yml) (#4690)
 * intensiv: [intense](cards/2270_intense.yml) (#2270), [intensif](cards/4718_intensif.yml) (#4718)
-* Haar: [cheveu](cards/2296_cheveu.yml) (#2296), [poil](cards/4723_poil.yml) (#4723)
 * zwangsläufig: [forcément](cards/2188_forcément.yml) (#2188), [inévitablement](cards/4726_inévitablement.yml) (#4726)
 * beeilen: [dépêcher](cards/3771_dépêcher.yml) (#3771), [hâter](cards/4754_hâter.yml) (#4754)
 * früher, einst: [autrefois](cards/2384_autrefois.yml) (#2384), [jadis](cards/4795_jadis.yml) (#4795)
