@@ -1,11 +1,5 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
-* vollständig, total: [totalement](cards/1353_totalement.yml) (#1353), [intégral](cards/4641_intégral.yml) (#4641)
-* intensiv: [intense](cards/2270_intense.yml) (#2270), [intensif](cards/4718_intensif.yml) (#4718)
-* zwangsläufig: [forcément](cards/2188_forcément.yml) (#2188), [inévitablement](cards/4726_inévitablement.yml) (#4726)
-* beeilen: [dépêcher](cards/3771_dépêcher.yml) (#3771), [hâter](cards/4754_hâter.yml) (#4754)
-* früher, einst: [autrefois](cards/2384_autrefois.yml) (#2384), [jadis](cards/4795_jadis.yml) (#4795)
-* Alter: [âge](cards/0502_âge.yml) (#502), [vieillesse](cards/4813_vieillesse.yml) (#4813)
 * wiederholen: [répéter](cards/0630_répéter.yml) (#630), [réitérer](cards/4847_réitérer.yml) (#4847)
 * Urteil: [jugement](cards/1037_jugement.yml) (#1037), [verdict](cards/4850_verdict.yml) (#4850)
 * Sprung: [saut](cards/3841_saut.yml) (#3841), [bond](cards/4871_bond.yml) (#4871)

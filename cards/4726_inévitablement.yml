@@ -7,7 +7,7 @@ Wortart: adv
 Wort mit Artikel: inévitablement
 Femininum / Plural: ''
 IPA: \i.ne.vi.ta.blə.mɑ̃\
-Definition: zwangsläufig
+Definition: zwangsläufig, unvermeidlich⁠
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -48,4 +48,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>forcément</i> und <i>inévitablement</i></div>
+    <div class="section-content">
+      <p><span class="fr">Forcément</span> (#2188) bedeutet <span class="de">"notwendigerweise"</span> oder <span class="de">"zwangsläufig"</span> und wird verwendet, um eine logische Konsequenz oder Schlussfolgerung auszudrücken. Es betont die Logik oder den vernünftigen Zusammenhang.</p>
+      <div class="examples">
+        <div class="fr">Il pleut depuis ce matin, les rues sont forcément mouillées.</div>
+        <div class="de spoiler">Es regnet seit heute Morgen, die Straßen sind zwangsläufig nass.</div>
+        <div class="fr">Si tu ne révises pas, tu vas forcément échouer à l'examen.</div>
+        <div class="de spoiler">Wenn du nicht lernst, wirst du notwendigerweise bei der Prüfung durchfallen.</div>
+      </div>
+      <p><span class="fr">Inévitablement</span> bedeutet <span class="de">"unvermeidlich"</span> oder <span class="de">"unausweichlich"</span> und drückt aus, dass etwas nicht verhindert werden kann, oft mit einer gewissen Resignation oder dem Gefühl der Unvermeidbarkeit.</p>
+      <div class="examples">
+        <div class="fr">Avec l'âge, les rides apparaissent inévitablement.</div>
+        <div class="de spoiler">Mit dem Alter entstehen unvermeidlich Falten.</div>
+        <div class="fr">La technologie évolue, et certains métiers disparaîtront inévitablement.</div>
+        <div class="de spoiler">Die Technologie entwickelt sich weiter, und bestimmte Berufe werden unausweichlich verschwinden.</div>
+      </div>
+    </div>
+  </div>

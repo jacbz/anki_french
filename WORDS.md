@@ -882,7 +882,7 @@
 | 880 | lien | Verbindung, Bindung | 31 | X | [Bearbeiten](cards/0880_lien.yml) |
 | 881 | voiture | Auto | 45 | X | [Bearbeiten](cards/0881_voiture.yml) |
 | 882 | discussion | Diskussion, Gespräch | 28 | X | [Bearbeiten](cards/0882_discussion.yml) |
-| 883 | limiter | begrenzen, einschränken | 26 |  | [Bearbeiten](cards/0883_limiter.yml) |
+| 883 | limiter | beschränken, einschränken | 26 |  | [Bearbeiten](cards/0883_limiter.yml) |
 | 884 | justifier | rechtfertigen, begründen | 34 | X | [Bearbeiten](cards/0884_justifier.yml) |
 | 885 | agent | Agent | 52 |  | [Bearbeiten](cards/0885_agent.yml) |
 | 886 | sentiment | Gefühl, Meinung | 42 |  | [Bearbeiten](cards/0886_sentiment.yml) |
@@ -2187,7 +2187,7 @@
 | 2185 | casser | kaputtmachen, kaputtgehen | 62 |  | [Bearbeiten](cards/2185_casser.yml) |
 | 2186 | probable | wahrscheinlich | 18 |  | [Bearbeiten](cards/2186_probable.yml) |
 | 2187 | signature | Unterschrift | 27 | X | [Bearbeiten](cards/2187_signature.yml) |
-| 2188 | forcément | zwangsläufig | 14 |  | [Bearbeiten](cards/2188_forcément.yml) |
+| 2188 | forcément | zwangsläufig, notwendigerweise⁠ | 14 |  | [Bearbeiten](cards/2188_forcément.yml) |
 | 2189 | conformément | gemäß, entsprechend | 18 |  | [Bearbeiten](cards/2189_conformément.yml) |
 | 2190 | croiser | kreuzen | 50 |  | [Bearbeiten](cards/2190_croiser.yml) |
 | 2191 | plastique | Kunststoff | 34 | X | [Bearbeiten](cards/2191_plastique.yml) |
@@ -2269,7 +2269,7 @@
 | 2267 | remporter | wieder mitnehmen, gewinnen | 19 |  | [Bearbeiten](cards/2267_remporter.yml) |
 | 2268 | rond | rund | 60 |  | [Bearbeiten](cards/2268_rond.yml) |
 | 2269 | étage | Stockwerk | 29 |  | [Bearbeiten](cards/2269_étage.yml) |
-| 2270 | intense | intensiv | 23 |  | [Bearbeiten](cards/2270_intense.yml) |
+| 2270 | intense | intensiv, stark | 23 |  | [Bearbeiten](cards/2270_intense.yml) |
 | 2271 | bébé | Baby | 27 | X | [Bearbeiten](cards/2271_bébé.yml) |
 | 2272 | amitié | Freundschaft | 29 |  | [Bearbeiten](cards/2272_amitié.yml) |
 | 2273 | cinquante | fünfzig | 22 | X | [Bearbeiten](cards/2273_cinquante.yml) |
@@ -2383,7 +2383,7 @@
 | 2381 | féminin | weiblich | 33 |  | [Bearbeiten](cards/2381_féminin.yml) |
 | 2382 | désert | Wüste; verlassen | 29 |  | [Bearbeiten](cards/2382_désert.yml) |
 | 2383 | vêtement | Kleidung(-sstück) | 23 | X | [Bearbeiten](cards/2383_vêtement.yml) |
-| 2384 | autrefois | früher, einst | 15 |  | [Bearbeiten](cards/2384_autrefois.yml) |
+| 2384 | autrefois | früher | 15 |  | [Bearbeiten](cards/2384_autrefois.yml) |
 | 2385 | surmonter | überwinden | 19 |  | [Bearbeiten](cards/2385_surmonter.yml) |
 | 2386 | marchandise | Ware | 24 |  | [Bearbeiten](cards/2386_marchandise.yml) |
 | 2387 | autochtone | einheimisch | 15 |  | [Bearbeiten](cards/2387_autochtone.yml) |
@@ -2865,7 +2865,7 @@
 | 2863 | opportunité | Gelegenheit; Zweckmäßigkeit | 14 |  | [Bearbeiten](cards/2863_opportunité.yml) |
 | 2864 | robe | Kleid | 38 | X | [Bearbeiten](cards/2864_robe.yml) |
 | 2865 | plaque | Platte, Schild | 46 |  | [Bearbeiten](cards/2865_plaque.yml) |
-| 2866 | découler | sich ergeben, folgen | 14 |  | [Bearbeiten](cards/2866_découler.yml) |
+| 2866 | découler | sich ableiten, folgen aus | 14 | X | [Bearbeiten](cards/2866_découler.yml) |
 | 2867 | décisif | entscheidend, ausschlaggebend | 19 |  | [Bearbeiten](cards/2867_décisif.yml) |
 | 2868 | piège | Falle | 24 |  | [Bearbeiten](cards/2868_piège.yml) |
 | 2869 | prédire | vorhersagen | 16 | X | [Bearbeiten](cards/2869_prédire.yml) |
@@ -4574,7 +4574,7 @@
 | 4572 | douanier | Zoll-; Zollbeamter | 16 |  | [Bearbeiten](cards/4572_douanier.yml) |
 | 4573 | syndrome | Syndrom | 20 |  | [Bearbeiten](cards/4573_syndrome.yml) |
 | 4574 | météo | Wetterbericht | 17 | X | [Bearbeiten](cards/4574_météo.yml) |
-| 4575 | borner | begrenzen, beschränken | 26 |  | [Bearbeiten](cards/4575_borner.yml) |
+| 4575 | borner | begrenzen, beschränken | 26 | X | [Bearbeiten](cards/4575_borner.yml) |
 | 4576 | triompher | siegen, triumphieren | 30 |  | [Bearbeiten](cards/4576_triompher.yml) |
 | 4577 | concrétiser | verwirklichen, Form annehmen | 18 |  | [Bearbeiten](cards/4577_concrétiser.yml) |
 | 4578 | soumission | Unterwerfung | 20 |  | [Bearbeiten](cards/4578_soumission.yml) |
@@ -4640,7 +4640,7 @@
 | 4638 | inculper | Anklage erheben | 11 |  | [Bearbeiten](cards/4638_inculper.yml) |
 | 4639 | renouveau | Wiederaufleben, Erneuerung | 14 |  | [Bearbeiten](cards/4639_renouveau.yml) |
 | 4640 | néerlandais | Niederländisch | 14 | X | [Bearbeiten](cards/4640_néerlandais.yml) |
-| 4641 | intégral | vollständig, total | 34 |  | [Bearbeiten](cards/4641_intégral.yml) |
+| 4641 | intégral | vollständig, ungekürzt | 34 | X | [Bearbeiten](cards/4641_intégral.yml) |
 | 4642 | spécification | Spezifikation | 14 |  | [Bearbeiten](cards/4642_spécification.yml) |
 | 4643 | documentation | Dokumentation | 15 |  | [Bearbeiten](cards/4643_documentation.yml) |
 | 4644 | logiquement | logischerweise | 14 |  | [Bearbeiten](cards/4644_logiquement.yml) |
@@ -4656,7 +4656,7 @@
 | 4654 | secrétariat | Sekretariat | 18 |  | [Bearbeiten](cards/4654_secrétariat.yml) |
 | 4655 | mou | weich, schlaff | 58 | X | [Bearbeiten](cards/4655_mou.yml) |
 | 4656 | venger | rächen | 27 |  | [Bearbeiten](cards/4656_venger.yml) |
-| 4657 | détenteur | Inhaber, -träger | 20 |  | [Bearbeiten](cards/4657_détenteur.yml) |
+| 4657 | détenteur | Inhaber, -träger | 20 | X | [Bearbeiten](cards/4657_détenteur.yml) |
 | 4658 | basque | Baskisch | 18 | X | [Bearbeiten](cards/4658_basque.yml) |
 | 4659 | soif | Durst | 30 |  | [Bearbeiten](cards/4659_soif.yml) |
 | 4660 | accumulation | Anhäufung | 16 |  | [Bearbeiten](cards/4660_accumulation.yml) |
@@ -4684,12 +4684,12 @@
 | 4682 | brouiller | trüben, durcheinanderbringen | 38 |  | [Bearbeiten](cards/4682_brouiller.yml) |
 | 4683 | illustration | Illustration | 19 |  | [Bearbeiten](cards/4683_illustration.yml) |
 | 4684 | appliqué | angewandt; fleißig | 21 |  | [Bearbeiten](cards/4684_appliqué.yml) |
-| 4685 | fermier | Bauer; Land- | 17 |  | [Bearbeiten](cards/4685_fermier.yml) |
+| 4685 | fermier | Bauer; Land- | 17 | X | [Bearbeiten](cards/4685_fermier.yml) |
 | 4686 | hanter | spuken, heimsuchen | 22 | X | [Bearbeiten](cards/4686_hanter.yml) |
 | 4687 | cordon | Schnur | 31 |  | [Bearbeiten](cards/4687_cordon.yml) |
 | 4688 | néfaste | unheilvoll, schädlich | 18 |  | [Bearbeiten](cards/4688_néfaste.yml) |
 | 4689 | lasser | ermüden, satthaben | 28 |  | [Bearbeiten](cards/4689_lasser.yml) |
-| 4690 | influer | Einfluss nehmen | 15 |  | [Bearbeiten](cards/4690_influer.yml) |
+| 4690 | influer | Einfluss nehmen | 15 | X | [Bearbeiten](cards/4690_influer.yml) |
 | 4691 | présentement | gegenwärtig | 14 |  | [Bearbeiten](cards/4691_présentement.yml) |
 | 4692 | plateforme | Plattform | 22 | X | [Bearbeiten](cards/4692_plateforme.yml) |
 | 4693 | stopper | anhalten, stoppen | 21 |  | [Bearbeiten](cards/4693_stopper.yml) |
@@ -4717,7 +4717,7 @@
 | 4715 | nocturne | nächtlich | 24 |  | [Bearbeiten](cards/4715_nocturne.yml) |
 | 4716 | configuration | Beschaffenheit, Konfiguration | 21 |  | [Bearbeiten](cards/4716_configuration.yml) |
 | 4717 | escompter | (sich) erhoffen, damit rechnen | 15 |  | [Bearbeiten](cards/4717_escompter.yml) |
-| 4718 | intensif | intensiv | 22 |  | [Bearbeiten](cards/4718_intensif.yml) |
+| 4718 | intensif | intensiv; Intensiv- | 22 | X | [Bearbeiten](cards/4718_intensif.yml) |
 | 4719 | scepticisme | Skepsis | 13 | X | [Bearbeiten](cards/4719_scepticisme.yml) |
 | 4720 | croisière | Kreuzfahrt | 14 |  | [Bearbeiten](cards/4720_croisière.yml) |
 | 4721 | plénier | Plenar- | 14 |  | [Bearbeiten](cards/4721_plénier.yml) |
@@ -4725,7 +4725,7 @@
 | 4723 | poil | (Körper-)haar | 53 | X | [Bearbeiten](cards/4723_poil.yml) |
 | 4724 | épanouir | aufblühen | 26 |  | [Bearbeiten](cards/4724_épanouir.yml) |
 | 4725 | minimiser | herunterspielen, kleinreden | 13 |  | [Bearbeiten](cards/4725_minimiser.yml) |
-| 4726 | inévitablement | zwangsläufig | 10 |  | [Bearbeiten](cards/4726_inévitablement.yml) |
+| 4726 | inévitablement | zwangsläufig, unvermeidlich⁠ | 10 | X | [Bearbeiten](cards/4726_inévitablement.yml) |
 | 4727 | informé | informiert | 15 |  | [Bearbeiten](cards/4727_informé.yml) |
 | 4728 | islam | Islam | 12 |  | [Bearbeiten](cards/4728_islam.yml) |
 | 4729 | échéant | fällig (werdend) | 12 |  | [Bearbeiten](cards/4729_échéant.yml) |
@@ -4753,7 +4753,7 @@
 | 4751 | borne | Grenzstein, Meilenstein | 41 |  | [Bearbeiten](cards/4751_borne.yml) |
 | 4752 | organique | organisch | 19 |  | [Bearbeiten](cards/4752_organique.yml) |
 | 4753 | dévouer | sich hingeben, opfern | 21 |  | [Bearbeiten](cards/4753_dévouer.yml) |
-| 4754 | hâter | beeilen | 22 | X | [Bearbeiten](cards/4754_hâter.yml) |
+| 4754 | hâter | beeilen, beschleunigen | 22 | X | [Bearbeiten](cards/4754_hâter.yml) |
 | 4755 | mobilité | Beweglichkeit, Mobilität | 20 |  | [Bearbeiten](cards/4755_mobilité.yml) |
 | 4756 | exclu | ausgeschlossen | 18 |  | [Bearbeiten](cards/4756_exclu.yml) |
 | 4757 | boucher | Metzger, zumachen, verstopfen | 41 |  | [Bearbeiten](cards/4757_boucher.yml) |
@@ -4794,7 +4794,7 @@
 | 4792 | hall | Eingangshalle | 15 |  | [Bearbeiten](cards/4792_hall.yml) |
 | 4793 | visuel | visuell, optisch | 24 |  | [Bearbeiten](cards/4793_visuel.yml) |
 | 4794 | semblant | Schein, Anschein | 19 |  | [Bearbeiten](cards/4794_semblant.yml) |
-| 4795 | jadis | früher, einst | 14 |  | [Bearbeiten](cards/4795_jadis.yml) |
+| 4795 | jadis | einst | 14 | X | [Bearbeiten](cards/4795_jadis.yml) |
 | 4796 | rémunérer | vergüten, entlohnen | 14 |  | [Bearbeiten](cards/4796_rémunérer.yml) |
 | 4797 | fasciner | faszinieren | 19 |  | [Bearbeiten](cards/4797_fasciner.yml) |
 | 4798 | dilemme | Zwickmühle | 14 |  | [Bearbeiten](cards/4798_dilemme.yml) |
@@ -4812,7 +4812,7 @@
 | 4810 | concéder | zugestehen, einräumen | 21 |  | [Bearbeiten](cards/4810_concéder.yml) |
 | 4811 | retrancher | abziehen, subtrahieren | 23 |  | [Bearbeiten](cards/4811_retrancher.yml) |
 | 4812 | renfermer | einschließen, verschließen | 19 |  | [Bearbeiten](cards/4812_renfermer.yml) |
-| 4813 | vieillesse | Alter | 21 | X | [Bearbeiten](cards/4813_vieillesse.yml) |
+| 4813 | vieillesse | (hohes) Alter | 21 | X | [Bearbeiten](cards/4813_vieillesse.yml) |
 | 4814 | navette | Shuttle | 18 | X | [Bearbeiten](cards/4814_navette.yml) |
 | 4815 | traditionnellement | traditionsgemäß | 15 |  | [Bearbeiten](cards/4815_traditionnellement.yml) |
 | 4816 | batterie | Batterie | 26 |  | [Bearbeiten](cards/4816_batterie.yml) |
