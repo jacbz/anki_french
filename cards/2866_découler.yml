@@ -7,7 +7,7 @@ Wortart: vi
 Wort mit Artikel: découler
 Femininum / Plural: ''
 IPA: \de.ku.le\
-Definition: sich ergeben, folgen
+Definition: sich ableiten, folgen aus
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -60,4 +60,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>résulter</i> und <i>découler</i></div>
+    <div class="section-content">
+      <p><span class="fr">Résulter</span> (#2095) bedeutet <span class="de">"resultieren"</span> oder <span class="de">"sich ergeben"</span> und wird verwendet, um eine direkte Folge oder ein Ergebnis zu bezeichnen. Es drückt oft eine unmittelbare Konsequenz aus.</p>
+      <div class="examples">
+        <div class="fr">Sa réussite résulte de son travail acharné.</div>
+        <div class="de spoiler">Sein Erfolg resultiert aus seiner harten Arbeit.</div>
+        <div class="fr">De cette négociation a résulté un accord satisfaisant.</div>
+        <div class="de spoiler">Aus dieser Verhandlung ergab sich eine zufriedenstellende Vereinbarung.</div>
+      </div>
+      <p><span class="fr">Découler</span> bedeutet <span class="de">"sich ableiten"</span> oder <span class="de">"folgen aus"</span> und impliziert oft einen logischen oder natürlichen Zusammenhang. Es betont mehr den fließenden Übergang von Ursache zu Wirkung.</p>
+      <div class="examples">
+        <div class="fr">Cette conclusion découle logiquement des faits présentés.</div>
+        <div class="de spoiler">Diese Schlussfolgerung leitet sich logisch aus den präsentierten Fakten ab.</div>
+        <div class="fr">De ses principes découle sa façon d'agir.</div>
+        <div class="de spoiler">Aus seinen Prinzipien folgt seine Handlungsweise.</div>
+      </div>
+      <p>Beide Verben drücken Kausalität aus, aber <span class="fr">résulter</span> betont mehr das konkrete Ergebnis, während <span class="fr">découler</span> den logischen oder natürlichen Fluss von einer Ursache zur Folge hervorhebt.</p>
+    </div>
+  </div>
