@@ -7,7 +7,7 @@ Wortart: nm, adj
 Wort mit Artikel: intensif
 Femininum / Plural: intensive
 IPA: \ɛ̃.tɑ̃.sif\
-Definition: intensiv
+Definition: intensiv; Intensiv-
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -84,4 +84,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>intense</i> und <i>intensif</i></div>
+    <div class="section-content">
+      <p><span class="fr">Intense</span> (#2270) bedeutet <span class="de">"intensiv"</span> oder <span class="de">"stark"</span> und beschreibt die Stärke oder den Grad eines Gefühls, einer Empfindung oder eines Phänomens.</p>
+      <div class="examples">
+        <div class="fr">Il ressent une douleur intense.</div>
+        <div class="de spoiler">Er verspürt einen intensiven Schmerz.</div>
+        <div class="fr">La chaleur était si intense qu'il fallait rester à l'ombre.</div>
+        <div class="de spoiler">Die Hitze war so intensiv, dass man im Schatten bleiben musste.</div>
+      </div>
+      <p><span class="fr">Intensif</span> bedeutet <span class="de">"intensiv"</span> im Sinne von konzentriert, verstärkt oder systematisch durchgeführt. Es bezieht sich auf Methoden, Aktivitäten oder Prozesse.</p>
+      <div class="examples">
+        <div class="fr">Elle suit un cours intensif de français.</div>
+        <div class="de spoiler">Sie besucht einen Intensivkurs in Französisch.</div>
+        <div class="fr">L'agriculture intensive peut épuiser les sols.</div>
+        <div class="de spoiler">Die intensive Landwirtschaft kann die Böden erschöpfen.</div>
+      </div>
+    </div>
+  </div>
