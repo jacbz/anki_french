@@ -7,7 +7,7 @@ Wortart: vt, vr
 Wort mit Artikel: hâter
 Femininum / Plural: ''
 IPA: \ɑ.te\
-Definition: beeilen
+Definition: beeilen, beschleunigen
 Register: ↗Fiktion
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -84,5 +84,25 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: <div class="attention">Hier gibt es ein h aspiré, d.h. das Pronomen wird nicht
-  abgekürzt.</div>
+Notiz: |-
+  <div class="attention">Hier gibt es ein h aspiré, d.h. das Pronomen wird nicht abgekürzt.</div>
+  <hr>
+  <div class="section">
+    <div class="section-title"><i>dépêcher</i> und <i>hâter</i></div>
+    <div class="section-content">
+      <p><span class="fr">Dépêcher</span> (#3771) bedeutet <span class="de">"beeilen"</span> und wird hauptsächlich reflexiv verwendet (<span class="fr">se dépêcher</span>). Es bezieht sich auf die Beschleunigung einer Handlung oder das schnelle Erledigen einer Aufgabe.</p>
+      <div class="examples">
+        <div class="fr">Dépêche-toi, nous allons être en retard!</div>
+        <div class="de spoiler">Beeil dich, wir werden zu spät kommen!</div>
+        <div class="fr">Elle se dépêche de finir son travail avant la réunion.</div>
+        <div class="de spoiler">Sie beeilt sich, ihre Arbeit vor der Besprechung zu beenden.</div>
+      </div>
+      <p><span class="fr">Hâter</span> bedeutet <span class="de">"beschleunigen"</span> oder <span class="de">"vorantreiben"</span> und wird sowohl reflexiv (<span class="fr">se hâter</span>) als auch transitiv verwendet. Es hat oft eine formalere Konnotation als <span class="fr">dépêcher</span>.</p>
+      <div class="examples">
+        <div class="fr">Il faut hâter les préparatifs du mariage.</div>
+        <div class="de spoiler">Man muss die Hochzeitsvorbereitungen beschleunigen.</div>
+        <div class="fr">Elle s'est hâtée vers la sortie.</div>
+        <div class="de spoiler">Sie eilte zum Ausgang.</div>
+      </div>
+    </div>
+  </div>
