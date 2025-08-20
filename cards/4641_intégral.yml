@@ -7,7 +7,7 @@ Wortart: adj
 Wort mit Artikel: intégral
 Femininum / Plural: intégrale
 IPA: \ɛ̃.te.ɡʁal\
-Definition: vollständig, total
+Definition: vollständig, ungekürzt
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -120,4 +120,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>total</i> und <i>intégral</i></div>
+    <div class="section-content">
+      <p><span class="fr">Total</span> (#658) bedeutet <span class="de">"gesamt"</span> oder <span class="de">"vollständig"</span> und bezieht sich auf die Gesamtheit einer Menge oder das vollständige Ausmaß von etwas.</p>
+      <div class="examples">
+        <div class="fr">Le coût total du projet s'élève à 50 000 euros.</div>
+        <div class="de spoiler">Die Gesamtkosten des Projekts belaufen sich auf 50.000 Euro.</div>
+        <div class="fr">Il y a eu un silence total dans la salle.</div>
+        <div class="de spoiler">Es herrschte völlige Stille im Saal.</div>
+      </div>
+      <p><span class="fr">Intégral</span> bedeutet <span class="de">"vollständig"</span> oder <span class="de">"ungekürzt"</span> und betont, dass nichts weggelassen oder verändert wurde - etwas in seiner ursprünglichen, unveränderten Form.</p>
+      <div class="examples">
+        <div class="fr">Nous avons regardé le film en version intégrale.</div>
+        <div class="de spoiler">Wir haben den Film in der ungekürzten Fassung angeschaut.</div>
+        <div class="fr">Le remboursement intégral des frais est garanti.</div>
+        <div class="de spoiler">Die vollständige Erstattung der Kosten ist garantiert.</div>
+      </div>
+    </div>
+  </div>
