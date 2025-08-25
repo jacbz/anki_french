@@ -46,10 +46,23 @@ function processText(text, isFrench, processStars = true) {
     // Replace " with French quote marks « ... », except inside HTML tags
     text = text.replace(/"(?![^<]*>)(.*?)"(?![^<]*>)/g, "«\u202F$1\u202F»");
 
-    if (text[0] === "-") {
-      text[0] = "–";
+    // replace hyphen or en-dash at beginning of text with em-dash
+    if (text.startsWith("-") || text.startsWith("–")) {
+      text = "—" + text.slice(1);
     }
-    text = text.replaceAll("<br>-", "<br>–");
+
+    // format dialogue
+    if (text.includes("<br>-") || text.includes("<br>–")) {
+      const lines = text.split("<br>");
+      const formattedLines = [];
+      for (let line of lines) {
+        line = line.trim();
+        line = line.replaceAll(/^(–|-|—)\s*/g, "— ");
+        line = line.replaceAll("\"", "").replaceAll("«\u202F", "").replaceAll("\u202F»", "");
+        formattedLines.push(line);
+      }
+      text = formattedLines.join("<br>");
+    }
   } else {
     // format dialogue
     if (text.includes("<br>-") || text.includes("<br>–")) {
@@ -57,16 +70,20 @@ function processText(text, isFrench, processStars = true) {
       const formattedLines = [];
       for (let line of lines) {
         line = line.trim();
-        if (line.startsWith("–") || line.startsWith("-")) {
-          line = line.replaceAll(/^(–|-)\s*/g, "");
+        line = line.replaceAll(/^(–|-|—)\s*/g, "");
+        if (!line.startsWith('"')) {
+          line = `"${line}`;
         }
-        formattedLines.push(`"${line}"`);
+        if (!line.endsWith('"')) {
+          line = `${line}"`;
+        }
+        formattedLines.push(line);
       }
       text = formattedLines.join("<br>");
     }
     // replace with German quote marks »...«
     text = text.replaceAll("„", '"').replaceAll("“", '"');
-    text = text.replaceAll(/"(?![^<]*>)(.*?)"(?![^<]*>)/g, "»\u2060$1\u2060«");
+    text = text.replaceAll(/"(?![^<]*>)(.+?)"(?![^<]*>)/g, "»\u2060$1\u2060«");
   }
 
   // replace *...* with word-highlight span
