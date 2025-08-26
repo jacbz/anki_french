@@ -14,10 +14,10 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   Les étudiants diplômés *peinent* à trouver du travail.
-  Die Hochschulabsolventen haben *Mühe*, Arbeit zu finden.
+  Die Hochschulabsolventen *haben Mühe*, Arbeit zu finden.
 
   Le moteur de sa vieille voiture *peine* dans les montées.
-  Der Motor seines alten Autos hat in den Steigungen *Schwierigkeiten*.
+  Der Motor seines alten Autos *hat in den Steigungen Schwierigkeiten*.
 
   Cette décision m'a beaucoup *peiné*.
   Diese Entscheidung hat mich sehr *verletzt*.
@@ -32,13 +32,13 @@ Beispielsätze: |-
   Die Arbeiter *plagen sich* unter der brennenden Sonne.
 
   Mon fils *peine* à s'adapter à sa nouvelle école.
-  Mein Sohn hat *Mühe*, sich an seine neue Schule zu gewöhnen.
+  Mein Sohn *hat Mühe*, sich an seine neue Schule zu gewöhnen.
 
   Cette nouvelle nous a profondément *peinés*.
   Diese Nachricht hat uns zutiefst *betrübt*.
 
   Il *peine* à trouver ses mots quand il est nerveux.
-  Er hat *Mühe*, seine Worte zu finden, wenn er nervös ist.
+  Er *hat Mühe*, seine Worte zu finden, wenn er nervös ist.
 
   La petite *peine* sur ses devoirs de mathématiques.
   Die Kleine *plagt sich* mit ihren Mathematikhausaufgaben.
@@ -53,7 +53,7 @@ Beispielsätze: |-
   Sein *trauriger* Blick tat mir im Herzen weh.
 
   L'équipe *peine* à maintenir son avance.
-  Die Mannschaft hat *Mühe*, ihren Vorsprung zu halten.
+  Die Mannschaft *hat Mühe*, ihren Vorsprung zu halten.
 
   Marie *peine* sur sa traduction depuis ce matin.
   Marie *quält sich* seit heute Morgen mit ihrer Übersetzung.
@@ -62,7 +62,7 @@ Beispielsätze: |-
   Wir sind *traurig* über Ihren Weggang.
 
   Le vieux cheval *peine* à tirer la charrette.
-  Das alte Pferd hat *Mühe*, den Karren zu ziehen.
+  Das alte Pferd *hat Mühe*, den Karren zu ziehen.
 
   Son refus m'a profondément *peiné*.
   Seine Absage hat mich zutiefst *gekränkt*.
@@ -77,7 +77,7 @@ Beispielsätze: |-
   Der Computer hat heute Morgen *Schwierigkeiten* beim Starten.
 
   Thomas *peine* à comprendre les explications du professeur.
-  Thomas hat *Mühe*, die Erklärungen des Lehrers zu verstehen.
+  Thomas *hat Mühe*, die Erklärungen des Lehrers zu verstehen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

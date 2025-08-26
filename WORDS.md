@@ -96,7 +96,7 @@
 | 94 | bon | gut | 62 | X | [Bearbeiten](cards/0094_bon.yml) |
 | 95 | comprendre | verstehen | 60 |  | [Bearbeiten](cards/0095_comprendre.yml) |
 | 96 | depuis | seit | 46 | X | [Bearbeiten](cards/0096_depuis.yml) |
-| 97 | point | Punkt; gar | 62 |  | [Bearbeiten](cards/0097_point.yml) |
+| 97 | point | Punkt | 62 |  | [Bearbeiten](cards/0097_point.yml) |
 | 98 | ainsi | so, auf diese Weise | 30 | X | [Bearbeiten](cards/0098_ainsi.yml) |
 | 99 | heure | Stunde, Uhrzeit | 58 | X | [Bearbeiten](cards/0099_heure.yml) |
 | 100 | rester | bleiben | 60 |  | [Bearbeiten](cards/0100_rester.yml) |
@@ -503,7 +503,7 @@
 | 501 | passé | Vergangenheit | 42 | X | [Bearbeiten](cards/0501_passé.yml) |
 | 502 | âge | Alter | 61 |  | [Bearbeiten](cards/0502_âge.yml) |
 | 503 | déclarer | erklären, (an-)melden | 44 | X | [Bearbeiten](cards/0503_déclarer.yml) |
-| 504 | oublier | vergessen | 60 |  | [Bearbeiten](cards/0504_oublier.yml) |
+| 504 | oublier | vergessen | 59 |  | [Bearbeiten](cards/0504_oublier.yml) |
 | 505 | propos | Äußerung | 34 |  | [Bearbeiten](cards/0505_propos.yml) |
 | 506 | troisième | dritte(-r/s) | 24 | X | [Bearbeiten](cards/0506_troisième.yml) |
 | 507 | quitter | verlassen | 54 | X | [Bearbeiten](cards/0507_quitter.yml) |
@@ -521,7 +521,7 @@
 | 519 | paraître | erscheinen, sich zeigen | 51 | X | [Bearbeiten](cards/0519_paraître.yml) |
 | 520 | journal | Zeitung | 46 |  | [Bearbeiten](cards/0520_journal.yml) |
 | 521 | annoncer | ankündigen, verkünden | 32 | X | [Bearbeiten](cards/0521_annoncer.yml) |
-| 522 | lui-même | (er) selbst | 61 |  | [Bearbeiten](cards/0522_lui-même.yml) |
+| 522 | lui-même | (er) selbst | 60 |  | [Bearbeiten](cards/0522_lui-même.yml) |
 | 523 | tour | <span class="disamb">le: </span>Tour, Umfang<span class="disamb">la: </span>Turm | 61 |  | [Bearbeiten](cards/0523_tour.yml) |
 | 524 | voilà | da/dort (ist) | 56 |  | [Bearbeiten](cards/0524_voilà.yml) |
 | 525 | volonté | Wille | 34 |  | [Bearbeiten](cards/0525_volonté.yml) |
@@ -554,7 +554,7 @@
 | 552 | parole | Wort, Sprache | 60 |  | [Bearbeiten](cards/0552_parole.yml) |
 | 553 | fond | Boden, Hintergrund | 60 | X | [Bearbeiten](cards/0553_fond.yml) |
 | 554 | public | öffentlich; Publikum | 63 | X | [Bearbeiten](cards/0554_public.yml) |
-| 555 | faux | falsch | 63 | X | [Bearbeiten](cards/0555_faux.yml) |
+| 555 | faux | falsch | 62 | X | [Bearbeiten](cards/0555_faux.yml) |
 | 556 | genre | Art, Gattung | 45 | X | [Bearbeiten](cards/0556_genre.yml) |
 | 557 | retenir | behalten, zurückhalten | 62 |  | [Bearbeiten](cards/0557_retenir.yml) |
 | 558 | communauté | Gemeinschaft | 34 |  | [Bearbeiten](cards/0558_communauté.yml) |
@@ -606,7 +606,7 @@
 | 604 | article | Artikel | 43 |  | [Bearbeiten](cards/0604_article.yml) |
 | 605 | durer | dauern | 26 |  | [Bearbeiten](cards/0605_durer.yml) |
 | 606 | qualité | Qualität | 47 |  | [Bearbeiten](cards/0606_qualité.yml) |
-| 607 | gauche | links | 54 | X | [Bearbeiten](cards/0607_gauche.yml) |
+| 607 | gauche | links | 53 | X | [Bearbeiten](cards/0607_gauche.yml) |
 | 608 | solution | Lösung | 33 | X | [Bearbeiten](cards/0608_solution.yml) |
 | 609 | voie | Weg, Bahn, Fahrspur | 60 | X | [Bearbeiten](cards/0609_voie.yml) |
 | 610 | capable | fähig | 28 | X | [Bearbeiten](cards/0610_capable.yml) |
@@ -695,7 +695,7 @@
 | 693 | apparaître | auftauchen | 29 |  | [Bearbeiten](cards/0693_apparaître.yml) |
 | 694 | responsabilité | Verantwortung | 61 |  | [Bearbeiten](cards/0694_responsabilité.yml) |
 | 695 | réserver | reservieren, vorbehalten | 52 |  | [Bearbeiten](cards/0695_réserver.yml) |
-| 696 | porte | Tür | 61 |  | [Bearbeiten](cards/0696_porte.yml) |
+| 696 | porte | Tür | 60 |  | [Bearbeiten](cards/0696_porte.yml) |
 | 697 | victime | Opfer | 38 |  | [Bearbeiten](cards/0697_victime.yml) |
 | 698 | territoire | Gebiet, Territorium | 23 |  | [Bearbeiten](cards/0698_territoire.yml) |
 | 699 | pauvre | arm | 61 | X | [Bearbeiten](cards/0699_pauvre.yml) |
@@ -786,7 +786,7 @@
 | 784 | anglais | englisch; Engländer | 29 | X | [Bearbeiten](cards/0784_anglais.yml) |
 | 785 | échange | Austausch | 40 |  | [Bearbeiten](cards/0785_échange.yml) |
 | 786 | feu | Feuer | 60 | X | [Bearbeiten](cards/0786_feu.yml) |
-| 787 | neuf | neu; neun | 62 | X | [Bearbeiten](cards/0787_neuf.yml) |
+| 787 | neuf | neu; neun | 61 | X | [Bearbeiten](cards/0787_neuf.yml) |
 | 788 | observer | beobachten | 37 |  | [Bearbeiten](cards/0788_observer.yml) |
 | 789 | capacité | Fähigkeit, Kapazität | 64 |  | [Bearbeiten](cards/0789_capacité.yml) |
 | 790 | désigner | bezeichnen, benennen | 30 | X | [Bearbeiten](cards/0790_désigner.yml) |
@@ -853,7 +853,7 @@
 | 851 | commune | Gemeinde | 16 |  | [Bearbeiten](cards/0851_commune.yml) |
 | 852 | ressource | Ressource | 42 |  | [Bearbeiten](cards/0852_ressource.yml) |
 | 853 | monter | (be-)steigen, aufstellen | 59 |  | [Bearbeiten](cards/0853_monter.yml) |
-| 854 | promettre | versprechen | 43 | X | [Bearbeiten](cards/0854_promettre.yml) |
+| 854 | promettre | versprechen | 42 | X | [Bearbeiten](cards/0854_promettre.yml) |
 | 855 | motion | Antrag | 13 | X | [Bearbeiten](cards/0855_motion.yml) |
 | 856 | concentrer | konzentrieren | 30 |  | [Bearbeiten](cards/0856_concentrer.yml) |
 | 857 | exactement | genau(-so) | 17 |  | [Bearbeiten](cards/0857_exactement.yml) |
@@ -973,7 +973,7 @@
 | 971 | réunion | Treffen, Versammlung | 44 |  | [Bearbeiten](cards/0971_réunion.yml) |
 | 972 | opposition | Opposition | 39 |  | [Bearbeiten](cards/0972_opposition.yml) |
 | 973 | maladie | Krankheit | 36 | X | [Bearbeiten](cards/0973_maladie.yml) |
-| 974 | outre | außer; zudem | 26 |  | [Bearbeiten](cards/0974_outre.yml) |
+| 974 | outre | außer; zudem | 24 |  | [Bearbeiten](cards/0974_outre.yml) |
 | 975 | tandis que | während, wohingegen | 13 |  | [Bearbeiten](cards/0975_tandis%20que.yml) |
 | 976 | construction | Bau, Konstruktion | 39 |  | [Bearbeiten](cards/0976_construction.yml) |
 | 977 | bande | Band, Streifen | 59 |  | [Bearbeiten](cards/0977_bande.yml) |
@@ -1137,7 +1137,7 @@
 | 1135 | doubler | überholen, verdoppeln | 50 |  | [Bearbeiten](cards/1135_doubler.yml) |
 | 1136 | février | Februar | 12 | X | [Bearbeiten](cards/1136_février.yml) |
 | 1137 | mode | <span class="disamb">le: </span>Methode<span class="disamb">la: </span>Mode | 62 |  | [Bearbeiten](cards/1137_mode.yml) |
-| 1138 | tendre | zart, weich; ausstrecken | 65 |  | [Bearbeiten](cards/1138_tendre.yml) |
+| 1138 | tendre | zart, weich; ausstrecken | 64 |  | [Bearbeiten](cards/1138_tendre.yml) |
 | 1139 | musique | Musik | 57 |  | [Bearbeiten](cards/1139_musique.yml) |
 | 1140 | gestion | Verwaltung, Management | 27 |  | [Bearbeiten](cards/1140_gestion.yml) |
 | 1141 | honneur | Ehre | 62 |  | [Bearbeiten](cards/1141_honneur.yml) |
@@ -1583,7 +1583,7 @@
 | 1581 | reprocher | vorwerfen, tadeln | 24 |  | [Bearbeiten](cards/1581_reprocher.yml) |
 | 1582 | métier | Beruf, Handwerk | 48 |  | [Bearbeiten](cards/1582_métier.yml) |
 | 1583 | modification | Änderung | 21 |  | [Bearbeiten](cards/1583_modification.yml) |
-| 1584 | peser | wiegen, lasten | 52 |  | [Bearbeiten](cards/1584_peser.yml) |
+| 1584 | peser | wiegen, lasten | 51 |  | [Bearbeiten](cards/1584_peser.yml) |
 | 1585 | médias | Medien | 10 |  | [Bearbeiten](cards/1585_médias.yml) |
 | 1586 | hiver | Winter | 22 | X | [Bearbeiten](cards/1586_hiver.yml) |
 | 1587 | définition | Definition | 22 |  | [Bearbeiten](cards/1587_définition.yml) |
@@ -1929,7 +1929,7 @@
 | 1927 | conservateur | Konservativer | 24 | X | [Bearbeiten](cards/1927_conservateur.yml) |
 | 1928 | ouais | ja [ugs.] | 14 |  | [Bearbeiten](cards/1928_ouais.yml) |
 | 1929 | transporter | transportieren | 41 | X | [Bearbeiten](cards/1929_transporter.yml) |
-| 1930 | brûler | verbrennen, brennen | 59 |  | [Bearbeiten](cards/1930_brûler.yml) |
+| 1930 | brûler | verbrennen, brennen | 58 |  | [Bearbeiten](cards/1930_brûler.yml) |
 | 1931 | manœuvre | Manöver | 34 |  | [Bearbeiten](cards/1931_manœuvre.yml) |
 | 1932 | monnaie | Währung, Kleingeld | 57 |  | [Bearbeiten](cards/1932_monnaie.yml) |
 | 1933 | transmission | Übertragung | 37 | X | [Bearbeiten](cards/1933_transmission.yml) |
@@ -1977,7 +1977,7 @@
 | 1975 | nécessairement | notwendigerweise | 15 |  | [Bearbeiten](cards/1975_nécessairement.yml) |
 | 1976 | détermination | Entschlossenheit, Bestimmtheit | 25 |  | [Bearbeiten](cards/1976_détermination.yml) |
 | 1977 | congrès | Kongress | 23 |  | [Bearbeiten](cards/1977_congrès.yml) |
-| 1978 | semblable | ähnlich; derartig | 28 |  | [Bearbeiten](cards/1978_semblable.yml) |
+| 1978 | semblable | ähnlich; solch; Mitmensch | 28 |  | [Bearbeiten](cards/1978_semblable.yml) |
 | 1979 | préoccuper | beschäftigen, beunruhigen | 16 |  | [Bearbeiten](cards/1979_préoccuper.yml) |
 | 1980 | dépôt | Lager | 62 |  | [Bearbeiten](cards/1980_dépôt.yml) |
 | 1981 | considération | Erwägung, (Be-)achtung | 34 |  | [Bearbeiten](cards/1981_considération.yml) |
@@ -2426,7 +2426,7 @@
 | 2424 | curieux | neugierig, seltsam | 38 |  | [Bearbeiten](cards/2424_curieux.yml) |
 | 2425 | effacer | (aus-)löschen, verblassen | 42 |  | [Bearbeiten](cards/2425_effacer.yml) |
 | 2426 | débuter | anfangen, beginnen | 19 | X | [Bearbeiten](cards/2426_débuter.yml) |
-| 2427 | creuser | graben | 44 |  | [Bearbeiten](cards/2427_creuser.yml) |
+| 2427 | creuser | graben | 43 |  | [Bearbeiten](cards/2427_creuser.yml) |
 | 2428 | allusion | Anspielung | 16 |  | [Bearbeiten](cards/2428_allusion.yml) |
 | 2429 | lancement | Start, Einführung | 21 |  | [Bearbeiten](cards/2429_lancement.yml) |
 | 2430 | porteur | Träger | 52 | X | [Bearbeiten](cards/2430_porteur.yml) |
@@ -3369,7 +3369,7 @@
 | 3367 | empire | Reich, Imperium | 29 |  | [Bearbeiten](cards/3367_empire.yml) |
 | 3368 | redresser | aufrichten, in Ordnung bringen | 46 |  | [Bearbeiten](cards/3368_redresser.yml) |
 | 3369 | invisible | unsichtbar | 20 |  | [Bearbeiten](cards/3369_invisible.yml) |
-| 3370 | ramasser | aufheben, sammeln | 51 |  | [Bearbeiten](cards/3370_ramasser.yml) |
+| 3370 | ramasser | aufheben, einsammeln; einstecken | 51 |  | [Bearbeiten](cards/3370_ramasser.yml) |
 | 3371 | politicien | Politiker | 16 |  | [Bearbeiten](cards/3371_politicien.yml) |
 | 3372 | acheminer | transportieren, zusteuern | 23 |  | [Bearbeiten](cards/3372_acheminer.yml) |
 | 3373 | comédie | Komödie | 31 |  | [Bearbeiten](cards/3373_comédie.yml) |
@@ -3510,7 +3510,7 @@
 | 3508 | creux | Höhle, Vertiefung; hohl | 61 |  | [Bearbeiten](cards/3508_creux.yml) |
 | 3509 | livraison | Lieferung | 26 |  | [Bearbeiten](cards/3509_livraison.yml) |
 | 3510 | château | Schloss | 30 |  | [Bearbeiten](cards/3510_château.yml) |
-| 3511 | nous-mêmes | uns selbst | 61 |  | [Bearbeiten](cards/3511_nous-mêmes.yml) |
+| 3511 | nous-mêmes | uns selbst | 60 |  | [Bearbeiten](cards/3511_nous-mêmes.yml) |
 | 3512 | forum | Forum | 17 |  | [Bearbeiten](cards/3512_forum.yml) |
 | 3513 | via | über, durch | 13 |  | [Bearbeiten](cards/3513_via.yml) |
 | 3514 | coter | notieren; schätzen | 23 |  | [Bearbeiten](cards/3514_coter.yml) |
@@ -4173,7 +4173,7 @@
 | 4171 | perpétuer | aufrechterhalten, fortsetzen | 18 |  | [Bearbeiten](cards/4171_perpétuer.yml) |
 | 4172 | doctrine | Lehre, Doktrin | 18 |  | [Bearbeiten](cards/4172_doctrine.yml) |
 | 4173 | compétitif | wettbewerbsfähig | 13 |  | [Bearbeiten](cards/4173_compétitif.yml) |
-| 4174 | majesté | Majestät | 21 |  | [Bearbeiten](cards/4174_majesté.yml) |
+| 4174 | majesté | Erhabenheit | 21 |  | [Bearbeiten](cards/4174_majesté.yml) |
 | 4175 | mouton | Schaf | 36 | X | [Bearbeiten](cards/4175_mouton.yml) |
 | 4176 | indifférence | Gleichgültigkeit | 16 |  | [Bearbeiten](cards/4176_indifférence.yml) |
 | 4177 | omettre | auslassen, weglassen | 16 |  | [Bearbeiten](cards/4177_omettre.yml) |
@@ -4220,7 +4220,7 @@
 | 4218 | résistant | robust, -beständig | 26 |  | [Bearbeiten](cards/4218_résistant.yml) |
 | 4219 | admiration | Bewunderung | 19 |  | [Bearbeiten](cards/4219_admiration.yml) |
 | 4220 | acide | Säure | 29 |  | [Bearbeiten](cards/4220_acide.yml) |
-| 4221 | banal | gewöhnlich, alltäglich | 18 |  | [Bearbeiten](cards/4221_banal.yml) |
+| 4221 | banal | gewöhnlich, alltäglich | 15 |  | [Bearbeiten](cards/4221_banal.yml) |
 | 4222 | poulet | Hähnchen, Huhn | 22 | X | [Bearbeiten](cards/4222_poulet.yml) |
 | 4223 | pêcher | fischen, angeln; aufstöbern | 34 |  | [Bearbeiten](cards/4223_pêcher.yml) |
 | 4224 | brigade | Brigade | 20 |  | [Bearbeiten](cards/4224_brigade.yml) |
@@ -4740,52 +4740,52 @@
 | 4738 | enchanter | bezaubern, verzaubern | 18 |  | [Bearbeiten](cards/4738_enchanter.yml) |
 | 4739 | singe | Affe | 24 | X | [Bearbeiten](cards/4739_singe.yml) |
 | 4740 | superficiel | oberflächlich | 22 |  | [Bearbeiten](cards/4740_superficiel.yml) |
-| 4741 | rigide | steif, starr, unflexibel | 19 |  | [Bearbeiten](cards/4741_rigide.yml) |
+| 4741 | rigide | steif, starr | 19 |  | [Bearbeiten](cards/4741_rigide.yml) |
 | 4742 | démographique | demographisch | 14 |  | [Bearbeiten](cards/4742_démographique.yml) |
-| 4743 | fourniture | Zubehör, Material | 22 |  | [Bearbeiten](cards/4743_fourniture.yml) |
-| 4744 | taxer | besteuern, veranschlagen | 21 |  | [Bearbeiten](cards/4744_taxer.yml) |
+| 4743 | fourniture | Lieferung; Ausstattung | 22 |  | [Bearbeiten](cards/4743_fourniture.yml) |
+| 4744 | taxer | besteuern, bezichtigen | 21 |  | [Bearbeiten](cards/4744_taxer.yml) |
 | 4745 | milice | Miliz | 19 |  | [Bearbeiten](cards/4745_milice.yml) |
-| 4746 | foire | Messe, Jahrmarkt | 23 |  | [Bearbeiten](cards/4746_foire.yml) |
+| 4746 | foire | (Waren-)markt, (Waren-)messe | 23 |  | [Bearbeiten](cards/4746_foire.yml) |
 | 4747 | élégant | elegant | 29 |  | [Bearbeiten](cards/4747_élégant.yml) |
 | 4748 | crème | Sahne, Creme | 45 | X | [Bearbeiten](cards/4748_crème.yml) |
 | 4749 | mentalité | Mentalität | 17 |  | [Bearbeiten](cards/4749_mentalité.yml) |
 | 4750 | charité | Nächstenliebe, Wohltätigkeit | 18 |  | [Bearbeiten](cards/4750_charité.yml) |
-| 4751 | borne | Grenzstein, Meilenstein | 41 |  | [Bearbeiten](cards/4751_borne.yml) |
+| 4751 | borne | Grenzstein; km | 41 |  | [Bearbeiten](cards/4751_borne.yml) |
 | 4752 | organique | organisch | 19 |  | [Bearbeiten](cards/4752_organique.yml) |
-| 4753 | dévouer | sich hingeben, opfern | 21 |  | [Bearbeiten](cards/4753_dévouer.yml) |
+| 4753 | dévouer | sich (auf-)opfern | 21 |  | [Bearbeiten](cards/4753_dévouer.yml) |
 | 4754 | hâter | beeilen, beschleunigen | 22 | X | [Bearbeiten](cards/4754_hâter.yml) |
 | 4755 | mobilité | Beweglichkeit, Mobilität | 20 |  | [Bearbeiten](cards/4755_mobilité.yml) |
 | 4756 | exclu | ausgeschlossen | 18 |  | [Bearbeiten](cards/4756_exclu.yml) |
-| 4757 | boucher | Metzger, zumachen, verstopfen | 41 |  | [Bearbeiten](cards/4757_boucher.yml) |
-| 4758 | bénéfique | wohltuend, vorteilhaft | 13 |  | [Bearbeiten](cards/4758_bénéfique.yml) |
-| 4759 | commencement | Anfang | 23 |  | [Bearbeiten](cards/4759_commencement.yml) |
-| 4760 | licenciement | Kündigung | 20 |  | [Bearbeiten](cards/4760_licenciement.yml) |
+| 4757 | boucher | Metzger; zumachen, verstopfen | 41 |  | [Bearbeiten](cards/4757_boucher.yml) |
+| 4758 | bénéfique | vorteilhaft, günstig | 13 |  | [Bearbeiten](cards/4758_bénéfique.yml) |
+| 4759 | commencement | Anfang, Anfänge | 23 |  | [Bearbeiten](cards/4759_commencement.yml) |
+| 4760 | licenciement | Entlassung | 20 |  | [Bearbeiten](cards/4760_licenciement.yml) |
 | 4761 | chancelier | Kanzler | 20 |  | [Bearbeiten](cards/4761_chancelier.yml) |
-| 4762 | retenue | Zurückhaltung, Reserviertheit | 31 |  | [Bearbeiten](cards/4762_retenue.yml) |
-| 4763 | visée | Ziel, Absicht | 17 |  | [Bearbeiten](cards/4763_visée.yml) |
+| 4762 | retenue | Zurückhaltung, Einbehaltung | 31 |  | [Bearbeiten](cards/4762_retenue.yml) |
+| 4763 | visée | Ziel, Absicht, Bestrebung | 17 |  | [Bearbeiten](cards/4763_visée.yml) |
 | 4764 | dénonciation | Anzeige, Denunziation | 19 |  | [Bearbeiten](cards/4764_dénonciation.yml) |
 | 4765 | plaie | Wunde | 24 |  | [Bearbeiten](cards/4765_plaie.yml) |
-| 4766 | exiler | verbannen, ins Exil schicken | 16 |  | [Bearbeiten](cards/4766_exiler.yml) |
+| 4766 | exiler | verbannen | 16 |  | [Bearbeiten](cards/4766_exiler.yml) |
 | 4767 | rocher | Felsen | 22 |  | [Bearbeiten](cards/4767_rocher.yml) |
 | 4768 | mortalité | Sterblichkeit | 15 |  | [Bearbeiten](cards/4768_mortalité.yml) |
 | 4769 | cruauté | Grausamkeit | 19 |  | [Bearbeiten](cards/4769_cruauté.yml) |
 | 4770 | regrettable | bedauerlich | 14 |  | [Bearbeiten](cards/4770_regrettable.yml) |
 | 4771 | droguer | Drogen nehmen | 13 |  | [Bearbeiten](cards/4771_droguer.yml) |
-| 4772 | connecter | verbinden | 16 |  | [Bearbeiten](cards/4772_connecter.yml) |
+| 4772 | connecter | anschließen; einloggen | 16 |  | [Bearbeiten](cards/4772_connecter.yml) |
 | 4773 | confort | Komfort | 23 |  | [Bearbeiten](cards/4773_confort.yml) |
 | 4774 | compréhensible | verständlich | 16 |  | [Bearbeiten](cards/4774_compréhensible.yml) |
 | 4775 | tube | Röhre, Tube | 32 |  | [Bearbeiten](cards/4775_tube.yml) |
-| 4776 | coffre | Kiste, Truhe | 23 |  | [Bearbeiten](cards/4776_coffre.yml) |
+| 4776 | coffre | Truhe; Kofferraum | 23 |  | [Bearbeiten](cards/4776_coffre.yml) |
 | 4777 | intimider | einschüchtern | 15 |  | [Bearbeiten](cards/4777_intimider.yml) |
 | 4778 | huitième | achte(-r/s) | 23 |  | [Bearbeiten](cards/4778_huitième.yml) |
 | 4779 | forger | fälschen, schmieden | 27 |  | [Bearbeiten](cards/4779_forger.yml) |
 | 4780 | périr | umkommen, zugrunde gehen | 21 |  | [Bearbeiten](cards/4780_périr.yml) |
-| 4781 | notoire | bekannt, offenkundig | 16 |  | [Bearbeiten](cards/4781_notoire.yml) |
-| 4782 | graphique | Diagramm, Grafik | 28 |  | [Bearbeiten](cards/4782_graphique.yml) |
-| 4783 | annulation | Stornierung, Annullierung | 18 |  | [Bearbeiten](cards/4783_annulation.yml) |
-| 4784 | acceptation | Annahme | 22 |  | [Bearbeiten](cards/4784_acceptation.yml) |
-| 4785 | textile | Textil | 19 | X | [Bearbeiten](cards/4785_textile.yml) |
-| 4786 | hormis | außer, abgesehen von | 13 |  | [Bearbeiten](cards/4786_hormis.yml) |
+| 4781 | notoire | offenkundig, notorisch | 16 |  | [Bearbeiten](cards/4781_notoire.yml) |
+| 4782 | graphique | Grafik; grafisch | 28 |  | [Bearbeiten](cards/4782_graphique.yml) |
+| 4783 | annulation | Stornierung, Absage | 18 |  | [Bearbeiten](cards/4783_annulation.yml) |
+| 4784 | acceptation | Annahme, Zustimmung | 22 |  | [Bearbeiten](cards/4784_acceptation.yml) |
+| 4785 | textile | Textil- | 19 | X | [Bearbeiten](cards/4785_textile.yml) |
+| 4786 | hormis | mit Ausnahme von | 13 |  | [Bearbeiten](cards/4786_hormis.yml) |
 | 4787 | chirurgien | Chirurg | 12 |  | [Bearbeiten](cards/4787_chirurgien.yml) |
 | 4788 | orage | Gewitter | 20 | X | [Bearbeiten](cards/4788_orage.yml) |
 | 4789 | boule | Kugel | 54 | X | [Bearbeiten](cards/4789_boule.yml) |

@@ -34,7 +34,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 149.942 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1219 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 149.925 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1219 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -134,7 +134,7 @@ Insgesamt gibt es 5000 Karten mit 149.942 Beispielsätzen (durchschnittlich 30.0
 | 94 | bon | gut | 62 | X | [Bearbeiten](cards/0094_bon.yml) |
 | 95 | comprendre | verstehen | 60 |  | [Bearbeiten](cards/0095_comprendre.yml) |
 | 96 | depuis | seit | 46 | X | [Bearbeiten](cards/0096_depuis.yml) |
-| 97 | point | Punkt; gar | 62 |  | [Bearbeiten](cards/0097_point.yml) |
+| 97 | point | Punkt | 62 |  | [Bearbeiten](cards/0097_point.yml) |
 | 98 | ainsi | so, auf diese Weise | 30 | X | [Bearbeiten](cards/0098_ainsi.yml) |
 | 99 | heure | Stunde, Uhrzeit | 58 | X | [Bearbeiten](cards/0099_heure.yml) |
 | 100 | rester | bleiben | 60 |  | [Bearbeiten](cards/0100_rester.yml) |

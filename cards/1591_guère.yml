@@ -14,7 +14,7 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   Mon travail n'avançait *guère*.
-  Meine Arbeit kam kaum *voran*.
+  Meine Arbeit kam *kaum* voran.
 
   Je ne vois *guère* de solution à ce problème.
   Ich sehe *kaum* eine Lösung für dieses Problem.
@@ -53,7 +53,7 @@ Beispielsätze: |-
   Ich kenne die örtlichen Bräuche *kaum*.
 
   Cette décision ne me plaît *guère*.
-  Diese Entscheidung gefällt mir *nicht sonderlich*.
+  Diese Entscheidung gefällt mir nicht *sonderlich*.
 
   Il n'y a *guère* de différence entre ces deux modèles.
   Es gibt *kaum* einen Unterschied zwischen diesen beiden Modellen.
@@ -65,7 +65,7 @@ Beispielsätze: |-
   Ich spreche *kaum* mit ihm seit unserem Streit.
 
   Cette explication n'est *guère* convaincante.
-  Diese Erklärung ist *nicht sehr* überzeugend.
+  Diese Erklärung ist nicht *sehr* überzeugend.
 
   Il ne se soucie *guère* des conséquences.
   Er kümmert sich *kaum* um die Konsequenzen.
@@ -74,13 +74,13 @@ Beispielsätze: |-
   Die Situation hat sich in den letzten Monaten *kaum* verändert.
 
   Ces nouvelles ne sont *guère* rassurantes.
-  Diese Nachrichten sind *nicht gerade* beruhigend.
+  Diese Nachrichten sind nicht *gerade* beruhigend.
 
   Je ne lis *guère* plus de romans.
-  Ich lese *kaum noch* Romane.
+  Ich lese *kaum* noch Romane.
 
   Son comportement n'est *guère* approprié.
-  Sein Verhalten ist *nicht sehr* angemessen.
+  Sein Verhalten ist nicht *sehr* angemessen.
 
   Cette région n'attire *guère* de touristes.
   Diese Region zieht *kaum* Touristen an.
@@ -92,7 +92,7 @@ Beispielsätze: |-
   Ich verstehe seine Argumentation *kaum*.
 
   Le spectacle n'a *guère* impressionné le public.
-  Die Vorstellung hat das Publikum *nicht sonderlich* beeindruckt.
+  Die Vorstellung hat das Publikum nicht *sonderlich* beeindruckt.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

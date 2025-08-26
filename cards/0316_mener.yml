@@ -14,7 +14,7 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   La police *mène* une enquête pour arrêter les assaillants.
-  Die Polizei *führt* eine Ermittlung durch, um die Angreifer zu verhaften.
+  Die Polizei *führt* eine Ermittlung *durch*, um die Angreifer zu verhaften.
 
   Cet escalier *mène* directement au jardin.
   Diese Treppe *führt* direkt in den Garten.
@@ -47,7 +47,7 @@ Beispielsätze: |-
   Der Lehrer *leitet* die Debatte mit viel Geschick.
 
   Marie *mène* la danse ce soir.
-  Marie *führt* heute Abend den Tanz an.
+  Marie *führt* heute Abend den Tanz *an*.
 
   Un chauffeur nous *mènera* à l'aéroport demain matin.
   Ein Fahrer wird uns morgen früh zum Flughafen *bringen*.
@@ -119,7 +119,7 @@ Beispielsätze: |-
   Sie *leitet* die Forschungsgruppe seit drei Jahren.
 
   Le détective *mène* l'enquête discrètement.
-  Der Detektiv *führt* die Ermittlung diskret durch.
+  Der Detektiv *führt* die Ermittlung diskret *durch*.
 
   Cette crise *mènera* le pays à la faillite.
   Diese Krise wird das Land in den Bankrott *führen*.
