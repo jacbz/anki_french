@@ -34,11 +34,11 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 149.925 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1219 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 149.922 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1229 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
-| 1 | le | [bestimmter Artikel], ihn/sie/es | 57 | X | [Bearbeiten](cards/0001_le.yml) |
+| 1 | le | der/die/das; ihn/sie/es | 57 | X | [Bearbeiten](cards/0001_le.yml) |
 | 2 | de | von, aus, [Teilungsartikel] | 56 | X | [Bearbeiten](cards/0002_de.yml) |
 | 3 | un | eins; ein(-e) | 58 | X | [Bearbeiten](cards/0003_un.yml) |
 | 4 | à | nach, in [örtlich], um [zeitlich] | 59 | X | [Bearbeiten](cards/0004_à.yml) |
@@ -118,7 +118,7 @@ Insgesamt gibt es 5000 Karten mit 149.925 Beispielsätzen (durchschnittlich 30.0
 | 78 | jour | Tag | 59 | X | [Bearbeiten](cards/0078_jour.yml) |
 | 79 | monsieur | Herr | 50 | X | [Bearbeiten](cards/0079_monsieur.yml) |
 | 80 | demander | fragen, bitten | 60 | X | [Bearbeiten](cards/0080_demander.yml) |
-| 81 | alors | dann, also | 35 |  | [Bearbeiten](cards/0081_alors.yml) |
+| 81 | alors | dann, also | 35 | X | [Bearbeiten](cards/0081_alors.yml) |
 | 82 | après | nach, später | 60 | X | [Bearbeiten](cards/0082_après.yml) |
 | 83 | trouver | finden | 60 |  | [Bearbeiten](cards/0083_trouver.yml) |
 | 84 | personne | Person; niemand | 60 | X | [Bearbeiten](cards/0084_personne.yml) |

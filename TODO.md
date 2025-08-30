@@ -1,5 +1,6 @@
 Die folgenden Definitionen sind mehrfach vorhanden:
 
+* Schlichtung: [arbitrage](cards/3443_arbitrage.yml) (#3443), [médiation](cards/4790_médiation.yml) (#4790)
 * wiederholen: [répéter](cards/0630_répéter.yml) (#630), [réitérer](cards/4847_réitérer.yml) (#4847)
 * Urteil: [jugement](cards/1037_jugement.yml) (#1037), [verdict](cards/4850_verdict.yml) (#4850)
 * Sprung: [saut](cards/3841_saut.yml) (#3841), [bond](cards/4871_bond.yml) (#4871)
