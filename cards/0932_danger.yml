@@ -14,7 +14,7 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   Le cyclisme est en *danger* de mort.
-  Der Radsport schwebt in *Lebens*gefahr.
+  Der Radsport schwebt in Lebens*gefahr*.
 
   Sa vie est en *danger* après l'accident de voiture.
   Sein Leben ist nach dem Autounfall in *Gefahr*.
@@ -37,8 +37,8 @@ Beispielsätze: |-
   Cette tempête de neige constitue un *danger* pour la circulation routière.
   Dieser Schneesturm stellt eine *Gefahr* für den Straßenverkehr dar.
 
-  "Pas de *danger* que je retourne là-bas !"
-  "*Bestimmt* nicht, dass ich da wieder hingehe!"
+  "*Pas de danger* que je retourne là-bas !"
+  "*Bestimmt nicht*, dass ich da wieder hingehe!"
 
   Marie a couru un grand *danger* en traversant la rivière gelée.
   Marie hat sich in große *Gefahr* begeben, als sie über den zugefrorenen Fluss ging.
@@ -53,12 +53,12 @@ Beispielsätze: |-
   Er hat allen *Gefahren* getrotzt, um seinen Freund zu retten.
 
   Les pompiers s'exposent chaque jour au *danger*.
-  Die Feuerwehrleute setzen sich jeden Tag *Gefahr* aus.
+  Die Feuerwehrleute setzen sich jeden Tag der *Gefahr* aus.
 
   La randonnée en montagne n'est pas sans *danger*.
   Bergwandern ist nicht ohne *Gefahr*.
 
-  Cette épidémie met en *danger* toute la population.
+  Cette épidémie *met en danger* toute la population.
   Diese Epidemie *gefährdet* die gesamte Bevölkerung.
 
   Ce conducteur ivre est un *danger* public.
@@ -86,10 +86,10 @@ Beispielsätze: |-
   Die *Gefahren* der Klimaerwärmung werden immer deutlicher.
 
   La zone a été évacuée en raison du *danger* d'explosion.
-  Das Gebiet wurde wegen *Explosions*gefahr evakuiert.
+  Das Gebiet wurde wegen Explosions*gefahr* evakuiert.
 
   Cette espèce est en *danger* d'extinction.
-  Diese Art ist vom Aus*sterben* bedroht.
+  Diese Art ist vom Aussterben *bedroht*.
 
   Les enfants doivent apprendre à reconnaître les *dangers* potentiels.
   Kinder müssen lernen, mögliche *Gefahren* zu erkennen.
@@ -98,7 +98,7 @@ Beispielsätze: |-
   Freikletterei birgt viele *Gefahren*.
 
   Le gouvernement a déclaré la nation en *danger*.
-  Die Regierung hat den nationalen *Gefahr*enzustand ausgerufen.
+  Die Regierung hat den nationalen *Gefahren*zustand ausgerufen.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

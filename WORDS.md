@@ -4745,7 +4745,7 @@
 | 4743 | fourniture | Lieferung; Ausstattung | 22 |  | [Bearbeiten](cards/4743_fourniture.yml) |
 | 4744 | taxer | besteuern, bezichtigen | 21 |  | [Bearbeiten](cards/4744_taxer.yml) |
 | 4745 | milice | Miliz | 19 |  | [Bearbeiten](cards/4745_milice.yml) |
-| 4746 | foire | (Waren-)markt, (Waren-)messe | 23 |  | [Bearbeiten](cards/4746_foire.yml) |
+| 4746 | foire | (Waren-)markt, (Waren-)messe; Rummel | 23 |  | [Bearbeiten](cards/4746_foire.yml) |
 | 4747 | élégant | elegant | 29 |  | [Bearbeiten](cards/4747_élégant.yml) |
 | 4748 | crème | Sahne, Creme | 45 | X | [Bearbeiten](cards/4748_crème.yml) |
 | 4749 | mentalité | Mentalität | 17 |  | [Bearbeiten](cards/4749_mentalité.yml) |
@@ -4810,23 +4810,23 @@
 | 4808 | théoriquement | in der Theorie | 15 |  | [Bearbeiten](cards/4808_théoriquement.yml) |
 | 4809 | danois | dänisch; Däne | 14 | X | [Bearbeiten](cards/4809_danois.yml) |
 | 4810 | concéder | zugestehen, einräumen | 21 |  | [Bearbeiten](cards/4810_concéder.yml) |
-| 4811 | retrancher | abziehen, subtrahieren | 23 |  | [Bearbeiten](cards/4811_retrancher.yml) |
+| 4811 | retrancher | verschanzen; streichen | 23 |  | [Bearbeiten](cards/4811_retrancher.yml) |
 | 4812 | renfermer | einschließen, verschließen | 19 |  | [Bearbeiten](cards/4812_renfermer.yml) |
 | 4813 | vieillesse | (hohes) Alter | 21 | X | [Bearbeiten](cards/4813_vieillesse.yml) |
-| 4814 | navette | Shuttle | 18 | X | [Bearbeiten](cards/4814_navette.yml) |
+| 4814 | navette | Shuttle, Hin und Her | 18 | X | [Bearbeiten](cards/4814_navette.yml) |
 | 4815 | traditionnellement | traditionsgemäß | 15 |  | [Bearbeiten](cards/4815_traditionnellement.yml) |
-| 4816 | batterie | Batterie | 26 |  | [Bearbeiten](cards/4816_batterie.yml) |
+| 4816 | batterie | Akku; Schlagzeug | 26 |  | [Bearbeiten](cards/4816_batterie.yml) |
 | 4817 | foie | Leber | 29 | X | [Bearbeiten](cards/4817_foie.yml) |
-| 4818 | gratuitement | kostenlos, umsonst | 18 |  | [Bearbeiten](cards/4818_gratuitement.yml) |
+| 4818 | gratuitement | umsonst; willkürlich | 18 |  | [Bearbeiten](cards/4818_gratuitement.yml) |
 | 4819 | incompréhensible | unverständlich | 18 |  | [Bearbeiten](cards/4819_incompréhensible.yml) |
 | 4820 | détour | Umweg | 26 |  | [Bearbeiten](cards/4820_détour.yml) |
 | 4821 | boulevard | Boulevard | 20 | X | [Bearbeiten](cards/4821_boulevard.yml) |
 | 4822 | blague | Witz | 23 |  | [Bearbeiten](cards/4822_blague.yml) |
 | 4823 | mécontentement | Unzufriedenheit | 13 |  | [Bearbeiten](cards/4823_mécontentement.yml) |
 | 4824 | inaugurer | einweihen, eröffnen | 18 |  | [Bearbeiten](cards/4824_inaugurer.yml) |
-| 4825 | repli | Rückzug | 26 |  | [Bearbeiten](cards/4825_repli.yml) |
+| 4825 | repli | Falten, Windung; Rückzug | 26 |  | [Bearbeiten](cards/4825_repli.yml) |
 | 4826 | contrepartie | Gegenleistung | 20 |  | [Bearbeiten](cards/4826_contrepartie.yml) |
-| 4827 | proportionnel | verhältnismäßig | 21 |  | [Bearbeiten](cards/4827_proportionnel.yml) |
+| 4827 | proportionnel | proportional | 21 |  | [Bearbeiten](cards/4827_proportionnel.yml) |
 | 4828 | aboutissement | Ergebnis, Erfüllung | 14 |  | [Bearbeiten](cards/4828_aboutissement.yml) |
 | 4829 | triomphe | Triumph | 26 |  | [Bearbeiten](cards/4829_triomphe.yml) |
 | 4830 | libre-échange | Freihandel | 14 |  | [Bearbeiten](cards/4830_libre-échange.yml) |
