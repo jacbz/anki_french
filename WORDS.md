@@ -1782,7 +1782,7 @@
 | 1780 | sort | Schicksal, Verhängnis | 36 |  | [Bearbeiten](cards/1780_sort.yml) |
 | 1781 | accéder | zugreifen, gelangen | 21 |  | [Bearbeiten](cards/1781_accéder.yml) |
 | 1782 | église | Kirche | 34 |  | [Bearbeiten](cards/1782_église.yml) |
-| 1783 | récupérer | sich erholen, zurückbekommen | 38 |  | [Bearbeiten](cards/1783_récupérer.yml) |
+| 1783 | récupérer | sich erholen; zurückbekommen | 38 |  | [Bearbeiten](cards/1783_récupérer.yml) |
 | 1784 | doter | ausstatten, versehen | 18 |  | [Bearbeiten](cards/1784_doter.yml) |
 | 1785 | contribution | Beitrag | 28 |  | [Bearbeiten](cards/1785_contribution.yml) |
 | 1786 | profondeur | Tiefe | 44 |  | [Bearbeiten](cards/1786_profondeur.yml) |
@@ -4830,15 +4830,15 @@
 | 4828 | aboutissement | Ergebnis, Erfüllung | 14 |  | [Bearbeiten](cards/4828_aboutissement.yml) |
 | 4829 | triomphe | Triumph | 26 |  | [Bearbeiten](cards/4829_triomphe.yml) |
 | 4830 | libre-échange | Freihandel | 14 |  | [Bearbeiten](cards/4830_libre-échange.yml) |
-| 4831 | sincérité | Aufrichtigkeit, Ehrlichkeit | 17 |  | [Bearbeiten](cards/4831_sincérité.yml) |
-| 4832 | serre | Gewächshaus | 17 |  | [Bearbeiten](cards/4832_serre.yml) |
+| 4831 | sincérité | Aufrichtigkeit, Echtheit | 17 |  | [Bearbeiten](cards/4831_sincérité.yml) |
+| 4832 | serre | Gewächshaus; Klaue | 17 |  | [Bearbeiten](cards/4832_serre.yml) |
 | 4833 | doré | vergoldet, golden | 22 | X | [Bearbeiten](cards/4833_doré.yml) |
 | 4834 | convoi | Konvoi, Transport | 23 |  | [Bearbeiten](cards/4834_convoi.yml) |
-| 4835 | terrien | Erdling | 19 |  | [Bearbeiten](cards/4835_terrien.yml) |
+| 4835 | terrien | ländlich, bäuerlich; Landmensch | 19 |  | [Bearbeiten](cards/4835_terrien.yml) |
 | 4836 | psychologie | Psychologie | 23 |  | [Bearbeiten](cards/4836_psychologie.yml) |
 | 4837 | maltraiter | misshandeln | 16 |  | [Bearbeiten](cards/4837_maltraiter.yml) |
-| 4838 | puits | Brunnen | 24 |  | [Bearbeiten](cards/4838_puits.yml) |
-| 4839 | intimité | Intimität | 22 |  | [Bearbeiten](cards/4839_intimité.yml) |
+| 4838 | puits | Brunnen, Schacht | 24 |  | [Bearbeiten](cards/4838_puits.yml) |
+| 4839 | intimité | Privatleben, Vertrautheit | 22 |  | [Bearbeiten](cards/4839_intimité.yml) |
 | 4840 | équation | Gleichung | 19 |  | [Bearbeiten](cards/4840_équation.yml) |
 | 4841 | humide | feucht | 30 | X | [Bearbeiten](cards/4841_humide.yml) |
 | 4842 | bétail | Vieh | 16 | X | [Bearbeiten](cards/4842_bétail.yml) |
