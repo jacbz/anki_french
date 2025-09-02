@@ -13,8 +13,8 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  C'est un rêve devenu *réalité* pour plusieurs.
-  Für viele ist ein Traum *wahr* geworden.
+  C'est un rêve *devenu réalité* pour plusieurs.
+  Für viele ist ein Traum *wahr geworden*.
 
   Votre père doit accepter la *réalité* : vous êtes adulte maintenant.
   Ihr Vater muss die *Wirklichkeit* akzeptieren: Sie sind jetzt erwachsen.
@@ -38,7 +38,7 @@ Beispielsätze: |-
   Man muss sich der alltäglichen *Wirklichkeit* stellen.
 
   Cette technologie de *réalité* augmentée est très impressionnante.
-  Diese *Realitäts*-Erweiterungstechnologie ist sehr beeindruckend.
+  Diese *Realitäts*erweiterungstechnologie ist sehr beeindruckend.
 
   La *réalité* du changement climatique ne peut plus être niée.
   Die *Realität* des Klimawandels kann nicht mehr geleugnet werden.

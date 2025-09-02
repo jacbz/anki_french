@@ -14,12 +14,12 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   L'*arrêt* cardiaque est un état de mort apparente.
-  Der *Herzstillstand* ist ein Zustand des Scheintods.
+  Der Herz*stillstand* ist ein Zustand des Scheintods.
 
   Le bouton d'*arrêt* d'urgence est de couleur rouge.
   Der Not*stopp*-Knopf ist rot.
 
-  "Elle parle sans *arrêt* de son nouveau travail."
+  "Elle parle *sans arrêt* de son nouveau travail."
   "Sie redet *ununterbrochen* von ihrer neuen Arbeit."
 
   Le train marque un *arrêt* de dix minutes à Lyon.
@@ -56,13 +56,13 @@ Beispielsätze: |-
   Er steht eine Woche unter *Arrest*.
 
   La voiture est à l'*arrêt* devant le feu rouge.
-  Das Auto steht an der roten Ampel.
+  Das Auto *steht* an der roten Ampel.
 
   L'*arrêt* brutal de la production a surpris tout le monde.
   Die plötzliche *Einstellung* der Produktion hat alle überrascht.
 
   Le gouvernement a décrété l'*arrêt* des essais nucléaires.
-  Die Regierung hat den Atom*test**stopp* verkündet.
+  Die Regierung hat den Atomtest*stopp* verkündet.
 
   Un *arrêt* technique est prévu pour la maintenance.
   Eine technische *Unterbrechung* ist für die Wartung vorgesehen.
@@ -109,7 +109,7 @@ Beispielsätze: |-
   La cour a prononcé son *arrêt* à l'unanimité.
   Das Gericht verkündete sein *Urteil* einstimmig.
 
-  "Il pose des questions sans *arrêt*."
+  "Il pose des questions *sans arrêt*."
   "Er stellt *ständig* Fragen."
 
   L'*arrêt* des relations diplomatiques a été annoncé hier.
@@ -128,7 +128,7 @@ Beispielsätze: |-
   Dieser Defekt hat einen Produktions*stillstand* von zwei Tagen verursacht.
 
   Le point d'*arrêt* de la couture n'est pas bien fait.
-  Der *Ab**schluss*stich der Naht ist nicht gut gemacht.
+  Der Ab*schluss*stich der Naht ist nicht gut gemacht.
 
   L'*arrêt* du programme a provoqué une perte de données.
   Der Programm*abbruch* hat zu einem Datenverlust geführt.
@@ -145,8 +145,8 @@ Beispielsätze: |-
   Le conducteur a fait un *arrêt* imprévu en cours de route.
   Der Fahrer machte unterwegs einen unerwarteten *Halt*.
 
-  Un coup d'*arrêt* a été donné à cette pratique illégale.
-  Dieser illegalen Praxis wurde *Einhalt* geboten.
+  *Un coup d'arrêt a été donné* à cette pratique illégale.
+  Dieser illegalen Praxis wurde *Einhalt geboten*.
 
   La maison d'*arrêt* est surveillée jour et nuit.
   Die Untersuchungs*haft*anstalt wird Tag und Nacht bewacht.
@@ -199,8 +199,8 @@ Beispielsätze: |-
   L'*arrêt* du compte à rebours a créé la confusion.
   Der *Abbruch* des Countdowns hat für Verwirrung gesorgt.
 
-  L'équipe a marqué un coup d'*arrêt* à la série de défaites.
-  Das Team hat der Niederlagenserie *Einhalt* geboten.
+  L'équipe a *marqué un coup d'arrêt* à la série de défaites.
+  Das Team hat der Niederlagenserie *Einhalt geboten*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
