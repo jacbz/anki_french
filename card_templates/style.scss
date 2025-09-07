@@ -485,7 +485,7 @@ hr {
     top: 0;
     left: 0;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
     backdrop-filter: blur(5px);
     -webkit-backdrop-filter: blur(5px);
@@ -494,10 +494,48 @@ hr {
     font-size: 75%;
     color: var(--secondary-text);
     cursor: pointer;
+    user-select: none;
+    -webkit-user-select: none;
 
     &.hidden {
       opacity: 0;
       pointer-events: none;
+    }
+
+    .overlay-button {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      transition: background-color 0.2s;
+      width: 100%;
+
+      .overlay-icon {
+        fill: var(--secondary-text);
+      }
+    }
+
+    .overlay-button-lightning {
+      flex: 1;
+
+      svg {
+        width: 30px;
+        height: 30px;
+      }
+    }
+
+    .overlay-button-cloze {
+      flex: 2;
+
+      svg {
+        width: 42px;
+        height: 42px;
+      }
+    }
+
+    .overlay-divider {
+      height: 3px;
+      background-color: white;
+      width: 100%;
     }
   }
 
@@ -506,7 +544,7 @@ hr {
 
   hr {
     opacity: 0.2;
-    margin: 1.25em 0;
+    margin: 1.75em 0;
   }
 
   .cloze {
@@ -541,6 +579,13 @@ hr {
 
 .night_mode #cloze-game {
   background: #222;
+
+  #overlay {
+    .overlay-divider {
+      background-color: rgba(255, 255, 255, 0.4);
+      height: 1px;
+    }
+  }
 }
 
 /**
