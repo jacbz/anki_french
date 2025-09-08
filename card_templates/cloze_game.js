@@ -3,17 +3,71 @@ function initClozeGame({
   sentenceToRead = sentence,
   gameContainer,
   isGerman = false,
-  showOverlay = true
+  showOverlay = true,
 }) {
   gameContainer.classList.add("tappable");
 
   if (showOverlay) {
     const overlay = document.createElement("div");
     overlay.id = "overlay";
-    overlay.textContent = "Anzeigen";
-    overlay.onclick = () => {
+    
+    if (sentence.includes("*")) {      
+      const lightningButton = document.createElement("div");
+      lightningButton.className = "overlay-button overlay-button-lightning";
+      lightningButton.innerHTML = `
+        <svg viewBox="0 0 24 24" class="overlay-icon">
+          <path d="M12 2 L7 12 L10.5 12 L9 22 L17 10 L13.5 10 L12 2 Z" 
+                stroke="currentColor" 
+                stroke-width="0.8" 
+                fill="none" 
+                stroke-linejoin="round" 
+                stroke-linecap="round"/>
+        </svg>
+      `;
+      lightningButton.onclick = () => {
+        overlay.classList.add("hidden");
+        clozeButton.style.display = "none";
+        lightningButton.style.display = "none";
+        document
+          .querySelectorAll(".cloze:not(.word-highlight)")
+          .forEach((c) => c.click());
+        document.querySelector("#cloze-game hr").style.display = "none";
+        document.querySelector("#cloze-game #word-buttons").style.display = "none";
+      };
+      
+      overlay.appendChild(lightningButton);
+
+      const divider = document.createElement("div");
+      divider.className = "overlay-divider";
+      overlay.appendChild(divider);
+    }
+
+    const clozeButton = document.createElement("div");
+    clozeButton.className = "overlay-button overlay-button-cloze";
+    clozeButton.innerHTML = `
+      <svg viewBox="0 0 24 24" class="overlay-icon">
+        <rect x="2" y="4" width="3.5" height="3" rx="0.5" fill="currentColor" opacity="0.8"/>
+        <rect x="6.5" y="4" width="2.5" height="3" rx="0.5" fill="currentColor" opacity="0.3"/>
+        <rect x="10" y="4" width="4" height="3" rx="0.5" fill="currentColor" opacity="0.8"/>
+        <rect x="15" y="4" width="3" height="3" rx="0.5" fill="currentColor" opacity="0.3"/>
+        <rect x="19" y="4" width="2.5" height="3" rx="0.5" fill="currentColor" opacity="0.8"/>
+        <rect x="2" y="9" width="2.5" height="3" rx="0.5" fill="currentColor" opacity="0.3"/>
+        <rect x="5.5" y="9" width="5" height="3" rx="0.5" fill="currentColor" opacity="0.8"/>
+        <rect x="11.5" y="9" width="3.5" height="3" rx="0.5" fill="currentColor" opacity="0.3"/>
+        <rect x="16" y="9" width="2" height="3" rx="0.5" fill="currentColor" opacity="0.8"/>
+        <rect x="19" y="9" width="2.5" height="3" rx="0.5" fill="currentColor" opacity="0.3"/>
+        <rect x="2" y="14" width="4" height="3" rx="0.5" fill="currentColor" opacity="0.8"/>
+        <rect x="7" y="14" width="3" height="3" rx="0.5" fill="currentColor" opacity="0.3"/>
+        <rect x="11" y="14" width="6" height="3" rx="0.5" fill="currentColor" opacity="0.8"/>
+        <rect x="18" y="14" width="3.5" height="3" rx="0.5" fill="currentColor" opacity="0.3"/>
+      </svg>
+    `;
+    clozeButton.onclick = () => {
       overlay.classList.add("hidden");
     };
+    
+    overlay.appendChild(clozeButton);
+    
     gameContainer.appendChild(overlay);
   }
 
@@ -125,7 +179,11 @@ function initClozeGame({
       button.disabled = true;
       preloadCountdown--;
 
-      if (options.autoPlaySentenceOnClozeFinish && preloadAudio && preloadCountdown <= 0) {
+      if (
+        options.autoPlaySentenceOnClozeFinish &&
+        preloadAudio &&
+        preloadCountdown <= 0
+      ) {
         preloadAudio = false;
         fetchAudio({ text: sentenceToRead });
       }
@@ -158,7 +216,7 @@ function initClozeGame({
     gameContainer.classList.add("finished");
     gameContainer.classList.remove("tappable");
     if (options.autoPlaySentenceOnClozeFinish) {
-      playAudio({text: sentenceToRead});
+      playAudio({ text: sentenceToRead });
     }
   }
 }

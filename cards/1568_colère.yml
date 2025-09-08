@@ -13,7 +13,7 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je me sentis soudain très en *colère* contre mon père.
+  Je me sentis soudain très *en colère* contre mon père.
   Plötzlich war ich sehr *wütend* auf meinen Vater.
 
   La *colère* l'a saisi quand il a vu les dégâts.
@@ -23,7 +23,7 @@ Beispielsätze: |-
   Ihr Gesicht war rot vor *Zorn*.
 
   "Je vais piquer une *colère* si tu continues comme ça !"
-  "Ich kriege einen *Wutanfall*, wenn du so weitermachst!"
+  "Ich kriege einen *Wut*anfall, wenn du so weitermachst!"
 
   Il ne faut pas laisser la *colère* prendre le dessus.
   Man darf die *Wut* nicht die Oberhand gewinnen lassen.
@@ -32,7 +32,7 @@ Beispielsätze: |-
   Du solltest lernen, deine *Wut* zu unterdrücken.
 
   Les enfants ont fait une grosse *colère* au supermarché.
-  Die Kinder haben im Supermarkt einen großen *Wutanfall* bekommen.
+  Die Kinder haben im Supermarkt einen großen *Wut*anfall bekommen.
 
   La *colère* monte en lui chaque fois qu'il pense à cette injustice.
   Jedes Mal wenn er an diese Ungerechtigkeit denkt, steigt *Wut* in ihm auf.
@@ -40,7 +40,7 @@ Beispielsätze: |-
   Marie a passé sa *colère* sur son petit frère.
   Marie hat ihre *Wut* an ihrem kleinen Bruder ausgelassen.
 
-  Thomas était dans une *colère* noire après avoir raté son examen.
+  Thomas était dans une *colère noire* après avoir raté son examen.
   Thomas war nach der verpatzten Prüfung *stinksauer*.
 
   Elle contenait une *colère* froide depuis des jours.
@@ -65,9 +65,9 @@ Beispielsätze: |-
   Die *Wut* des Volkes grollte in den Straßen.
 
   Une explosion de *colère* a secoué l'assemblée.
-  Ein *Wutausbruch* erschütterte die Versammlung.
+  Ein *Wut*ausbruch erschütterte die Versammlung.
 
-  Il trépignait de *colère* devant la porte fermée.
+  Il trépignait *de colère* devant la porte fermée.
   Er stampfte *wütend* vor der verschlossenen Tür.
 
   Sa *colère* s'est dissipée aussi vite qu'elle est venue.
@@ -79,7 +79,7 @@ Beispielsätze: |-
   Paul était blanc de *colère* en découvrant le mensonge.
   Paul war bleich vor *Wut*, als er die Lüge entdeckte.
 
-  Elle ne met jamais ses enfants en *colère* sans raison.
+  Elle ne met jamais ses enfants *en colère* sans raison.
   Sie macht ihre Kinder nie ohne Grund *wütend*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
