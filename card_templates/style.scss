@@ -1161,3 +1161,59 @@ tr[data-tense="PC"] .tense_stem {
     }
   }
 }
+
+/**
+  Error messages
+  -----------------------------------------------
+**/
+.error-message {
+  background: rgba(240, 57, 57, 0.1);
+  border: 1px solid rgb(240, 57, 57);
+  border-radius: 0.5em;
+  padding: 1em;
+  margin: 1em 0;
+  
+  p {
+    margin: 0.5em 0;
+    
+    &:first-child {
+      margin-top: 0;
+    }
+    
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+  
+  .error-details {
+    font-family: monospace;
+    background: rgba(240, 57, 57, 0.1);
+    padding: 0.5em;
+    border-radius: 0.25em;
+    font-size: 0.9em;
+    border: 1px solid rgba(240, 57, 57, 0.3);
+  }
+  
+  a {
+    color: rgb(240, 57, 57);
+    text-decoration: underline;
+    
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
+
+.night_mode .error-message {
+  background: rgba(240, 57, 57, 0.15);
+  border-color: rgb(255, 82, 82);
+  
+  .error-details {
+    background: rgba(240, 57, 57, 0.15);
+    border-color: rgba(255, 82, 82, 0.4);
+  }
+  
+  a {
+    color: rgb(255, 82, 82);
+  }
+}
