@@ -7,7 +7,7 @@ Wortart: nf
 Wort mit Artikel: la médiation
 Femininum / Plural: ''
 IPA: \me.dja.sjɔ̃\
-Definition: Schlichtung
+Definition: Schlichtung, Vermittlung
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -69,4 +69,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>arbitrage</i> und <i>médiation</i></div>
+    <div class="section-content">
+      <p><span class="fr">Arbitrage</span> (#3443) bezeichnet ein <span class="de">"Schiedsverfahren"</span>, bei dem ein neutraler Schiedsrichter eine verbindliche Entscheidung zur Lösung eines Konflikts trifft.</p>
+      <div class="examples">
+        <div class="fr">Les deux entreprises ont eu recours à l'arbitrage pour résoudre leur différend commercial.</div>
+        <div class="de spoiler">Die beiden Unternehmen haben ein Schiedsverfahren zur Lösung ihres Handelsstreits eingeleitet.</div>
+        <div class="fr">La décision d'arbitrage est définitive et contraignante.</div>
+        <div class="de spoiler">Der Schiedsspruch ist endgültig und bindend.</div>
+      </div>
+      <p><span class="fr">Médiation</span> bezeichnet eine <span class="de">"Vermittlung"</span>, bei der ein neutraler Mediator die Parteien dabei unterstützt, selbst eine einvernehmliche Lösung zu finden.</p>
+      <div class="examples">
+        <div class="fr">Le couple a choisi la médiation pour leur divorce à l'amiable.</div>
+        <div class="de spoiler">Das Paar entschied sich für eine Mediation für ihre einvernehmliche Scheidung.</div>
+        <div class="fr">Le médiateur facilite le dialogue sans imposer de solution.</div>
+        <div class="de spoiler">Der Mediator erleichtert den Dialog, ohne eine Lösung aufzuzwingen.</div>
+      </div>
+      <p>Der Hauptunterschied liegt darin, dass beim <span class="fr">arbitrage</span> eine bindende Entscheidung von außen getroffen wird, während bei der <span class="fr">médiation</span> die Parteien selbst zu einer Einigung gelangen sollen.</p>
+    </div>
+  </div>
