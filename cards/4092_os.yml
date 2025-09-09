@@ -5,10 +5,10 @@ Wortart: nm
 
 # Diese Felder gerne verbessern!
 Wort mit Artikel: un os
-Femininum / Plural: ''
+Femininum / Plural: os
 IPA: |-
   \ɔs\<br>
-  \o\
+  \o\ (Pl.)
 Definition: Knochen
 Register: ↗Fiktion
 
@@ -134,4 +134,27 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: <grammar data-id="Körper"></grammar>
+Notiz: |-
+  <div class="section">
+    <div class="section-title">Aussprache von <i>bœuf</i>, <i>œuf</i> und <i>os</i></div>
+    <div class="section-content">
+      <p>Die drei Wörter <span class="fr">bœuf</span> (#3914), <span class="fr">œuf</span> (#2685) und <span class="fr">os</span> sind die einzigen im Französischen, deren Endkonsonanten im Singular ausgesprochen werden, aber nicht im Plural – eine Besonderheit aus dem Altfranzösischen!</p>
+
+      <p><strong>Im Singular:</strong></p>
+      <div class="examples">
+        <div class="fr force-audio">un bœuf <span class="ipa">[bœf]</span></div>
+        <div class="fr force-audio">un œuf <span class="ipa">[œf]</span></div>
+        <div class="fr force-audio">un os <span class="ipa">[ɔs]</span></div>
+      </div>
+
+      <p><strong>Im Plural:</strong></p>
+      <div class="examples">
+        <div class="fr force-audio">des bœufs <span class="ipa">[bø]</span></div>
+        <div class="fr force-audio">des œufs <span class="ipa">[ø]</span></div>
+        <div class="fr force-audio">des os <span class="ipa">[o]</span></div>
+      </div>
+
+      <p>Diese Regel stammt aus dem Altfranzösischen, wo Endkonsonanten vor dem Plural-s nicht ausgesprochen wurden. Erst im 19. Jahrhundert etablierte sich die heutige Unterscheidung zwischen Singular und Plural.</p>
+    </div>
+  </div>
+  <grammar data-id="Körper"></grammar>
