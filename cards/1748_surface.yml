@@ -14,13 +14,13 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
   Les eaux de *surface* sont très chaudes.
-  Das Oberflächen*wasser* ist sehr warm.
+  Das *Oberflächen*wasser ist sehr warm.
 
   Cette table a une *surface* lisse et brillante.
   Dieser Tisch hat eine glatte und glänzende *Oberfläche*.
 
   La *surface* habitable de l'appartement est de 85 mètres carrés.
-  Die *Wohn*fläche der Wohnung beträgt 85 Quadratmeter.
+  Die Wohn*fläche* der Wohnung beträgt 85 Quadratmeter.
 
   Le sous-marin est remonté à la *surface*.
   Das U-Boot ist an die *Oberfläche* zurückgekehrt.
@@ -35,7 +35,7 @@ Beispielsätze: |-
   "Er ist nach drei Monaten Abwesenheit wieder *aufgetaucht*."
 
   Notre nouvelle *surface* commerciale ouvrira la semaine prochaine.
-  Unser neuer Super*markt* wird nächste Woche eröffnen.
+  Unser neuer *Supermarkt* wird nächste Woche eröffnen.
 
   Les mathématiciens étudient les *surfaces* courbes.
   Die Mathematiker untersuchen gekrümmte *Flächen*.

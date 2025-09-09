@@ -4322,7 +4322,7 @@
 | 4320 | tisser | weben | 23 |  | [Bearbeiten](cards/4320_tisser.yml) |
 | 4321 | poule | Huhn, Henne | 46 | X | [Bearbeiten](cards/4321_poule.yml) |
 | 4322 | punition | Strafe, Bestrafung | 21 | X | [Bearbeiten](cards/4322_punition.yml) |
-| 4323 | hésitation | Zögern, Unsicherheit | 19 |  | [Bearbeiten](cards/4323_hésitation.yml) |
+| 4323 | hésitation | Zögern | 19 |  | [Bearbeiten](cards/4323_hésitation.yml) |
 | 4324 | rentable | rentabel | 18 |  | [Bearbeiten](cards/4324_rentable.yml) |
 | 4325 | loyal | loyal, treu | 20 |  | [Bearbeiten](cards/4325_loyal.yml) |
 | 4326 | renfort | Verstärkung | 20 | X | [Bearbeiten](cards/4326_renfort.yml) |
@@ -4882,23 +4882,23 @@
 | 4880 | accélération | Beschleunigung | 15 |  | [Bearbeiten](cards/4880_accélération.yml) |
 | 4881 | garage | Garage | 18 | X | [Bearbeiten](cards/4881_garage.yml) |
 | 4882 | résolument | entschlossen | 14 |  | [Bearbeiten](cards/4882_résolument.yml) |
-| 4883 | négociateur | Verhandler | 14 |  | [Bearbeiten](cards/4883_négociateur.yml) |
+| 4883 | négociateur | Verhandlungsführer | 14 |  | [Bearbeiten](cards/4883_négociateur.yml) |
 | 4884 | romantique | romantisch | 23 |  | [Bearbeiten](cards/4884_romantique.yml) |
-| 4885 | obscurité | Dunkelheit | 23 |  | [Bearbeiten](cards/4885_obscurité.yml) |
-| 4886 | vulgaire | vulgär, ordinär | 35 |  | [Bearbeiten](cards/4886_vulgaire.yml) |
+| 4885 | obscurité | Dunkelheit, Unklarheit | 23 |  | [Bearbeiten](cards/4885_obscurité.yml) |
+| 4886 | vulgaire | vulgär, gewöhnlich | 35 |  | [Bearbeiten](cards/4886_vulgaire.yml) |
 | 4887 | soixante-dix | siebzig | 20 | X | [Bearbeiten](cards/4887_soixante-dix.yml) |
-| 4888 | féroce | wild, grausam | 24 |  | [Bearbeiten](cards/4888_féroce.yml) |
-| 4889 | perpétuel | ewig, dauerhaft | 24 |  | [Bearbeiten](cards/4889_perpétuel.yml) |
+| 4888 | féroce | grimmig, unbarmherzig | 24 |  | [Bearbeiten](cards/4888_féroce.yml) |
+| 4889 | perpétuel | ewig, ständig | 24 |  | [Bearbeiten](cards/4889_perpétuel.yml) |
 | 4890 | militer | sich engagieren, kämpfen | 14 |  | [Bearbeiten](cards/4890_militer.yml) |
 | 4891 | jungle | Dschungel | 15 | X | [Bearbeiten](cards/4891_jungle.yml) |
-| 4892 | case | Feld, Kästchen | 19 |  | [Bearbeiten](cards/4892_case.yml) |
-| 4893 | craquer | knacken, brechen, aufgeben | 36 |  | [Bearbeiten](cards/4893_craquer.yml) |
-| 4894 | clarifier | klarstellen, klären | 15 |  | [Bearbeiten](cards/4894_clarifier.yml) |
-| 4895 | crête | Kamm, Grat | 22 |  | [Bearbeiten](cards/4895_crête.yml) |
+| 4892 | case | Feld, Fach | 19 |  | [Bearbeiten](cards/4892_case.yml) |
+| 4893 | craquer | krachen, brechen | 36 |  | [Bearbeiten](cards/4893_craquer.yml) |
+| 4894 | clarifier | klären | 15 |  | [Bearbeiten](cards/4894_clarifier.yml) |
+| 4895 | crête | [Tier] Kamm; Grat | 22 |  | [Bearbeiten](cards/4895_crête.yml) |
 | 4896 | traite | Wechsel, Handel | 26 |  | [Bearbeiten](cards/4896_traite.yml) |
-| 4897 | démarrage | Start, Anlauf | 22 |  | [Bearbeiten](cards/4897_démarrage.yml) |
-| 4898 | oubli | Vergessenheit | 31 |  | [Bearbeiten](cards/4898_oubli.yml) |
-| 4899 | procès-verbal | Protokoll | 18 |  | [Bearbeiten](cards/4899_procès-verbal.yml) |
+| 4897 | démarrage | Start, Anlassen | 22 |  | [Bearbeiten](cards/4897_démarrage.yml) |
+| 4898 | oubli | Vergessen | 31 |  | [Bearbeiten](cards/4898_oubli.yml) |
+| 4899 | procès-verbal | Protokoll, Niederschrift | 18 |  | [Bearbeiten](cards/4899_procès-verbal.yml) |
 | 4900 | formalité | Formalität | 17 |  | [Bearbeiten](cards/4900_formalité.yml) |
 | 4901 | insensible | unempfindlich, gefühllos | 24 |  | [Bearbeiten](cards/4901_insensible.yml) |
 | 4902 | distant | entfernt, fern | 18 |  | [Bearbeiten](cards/4902_distant.yml) |
