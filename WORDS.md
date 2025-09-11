@@ -25,7 +25,7 @@
 | 23 | avec | mit | 60 | X | [Bearbeiten](cards/0023_avec.yml) |
 | 24 | tout | alles, ganz, jede(-r/s) | 58 | X | [Bearbeiten](cards/0024_tout.yml) |
 | 25 | faire | machen, tun | 56 |  | [Bearbeiten](cards/0025_faire.yml) |
-| 26 | son | sein(-e), ihr(-e); Ton, Klang | 61 | X | [Bearbeiten](cards/0026_son.yml) |
+| 26 | son | sein(-e), ihr(-e); Ton, Klang | 56 | X | [Bearbeiten](cards/0026_son.yml) |
 | 27 | mettre | tun, legen, anziehen | 69 |  | [Bearbeiten](cards/0027_mettre.yml) |
 | 28 | autre | andere(-r/s) | 58 | X | [Bearbeiten](cards/0028_autre.yml) |
 | 29 | on | man, wir | 42 | X | [Bearbeiten](cards/0029_on.yml) |
@@ -4901,15 +4901,15 @@
 | 4899 | procès-verbal | Protokoll, Niederschrift | 18 |  | [Bearbeiten](cards/4899_procès-verbal.yml) |
 | 4900 | formalité | Formalität | 17 |  | [Bearbeiten](cards/4900_formalité.yml) |
 | 4901 | insensible | unempfindlich, gefühllos | 24 |  | [Bearbeiten](cards/4901_insensible.yml) |
-| 4902 | distant | entfernt, fern | 18 |  | [Bearbeiten](cards/4902_distant.yml) |
+| 4902 | distant | entfernt, distanziert | 18 |  | [Bearbeiten](cards/4902_distant.yml) |
 | 4903 | émetteur | Sender | 26 |  | [Bearbeiten](cards/4903_émetteur.yml) |
 | 4904 | montage | Montage | 25 |  | [Bearbeiten](cards/4904_montage.yml) |
-| 4905 | énergique | energisch | 20 |  | [Bearbeiten](cards/4905_énergique.yml) |
-| 4906 | claquer | knallen, zuschlagen, plötzlich sterben | 42 |  | [Bearbeiten](cards/4906_claquer.yml) |
+| 4905 | énergique | energisch, kraftvoll | 20 |  | [Bearbeiten](cards/4905_énergique.yml) |
+| 4906 | claquer | zuschlagen, knallen; abkratzen | 42 |  | [Bearbeiten](cards/4906_claquer.yml) |
 | 4907 | simplicité | Einfachheit | 23 |  | [Bearbeiten](cards/4907_simplicité.yml) |
-| 4908 | buter | anstoßen, stolpern | 27 |  | [Bearbeiten](cards/4908_buter.yml) |
-| 4909 | bulle | Blase | 28 |  | [Bearbeiten](cards/4909_bulle.yml) |
-| 4910 | défavorable | ungünstig | 17 |  | [Bearbeiten](cards/4910_défavorable.yml) |
+| 4908 | buter | (an-)stoßen, stolpern | 27 |  | [Bearbeiten](cards/4908_buter.yml) |
+| 4909 | bulle | Blase | 22 |  | [Bearbeiten](cards/4909_bulle.yml) |
+| 4910 | défavorable | ungünstig; ablehnend | 17 |  | [Bearbeiten](cards/4910_défavorable.yml) |
 | 4911 | promoteur | Bauträger | 17 |  | [Bearbeiten](cards/4911_promoteur.yml) |
 | 4912 | albanais | albanisch; Albaner | 13 | X | [Bearbeiten](cards/4912_albanais.yml) |
 | 4913 | obsession | Besessenheit | 18 |  | [Bearbeiten](cards/4913_obsession.yml) |
