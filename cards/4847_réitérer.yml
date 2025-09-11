@@ -7,7 +7,7 @@ Wortart: vt
 Wort mit Artikel: réitérer
 Femininum / Plural: ''
 IPA: \ʁe.i.te.ʁe\
-Definition: wiederholen
+Definition: wiederholen, bekräftigen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -63,4 +63,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>répéter</i> und <i>réitérer</i></div>
+    <div class="section-content">
+      <p><span class="fr">Répéter</span> (#630) bedeutet <span class="de">"wiederholen"</span> und wird in alltäglichen Situationen verwendet. Es kann sich auf das Wiederholen von Worten, Handlungen oder Vorgängen beziehen.</p>
+      <div class="examples">
+        <div class="fr">Peux-tu répéter ta question, s'il te plaît?</div>
+        <div class="de spoiler">Kannst du deine Frage bitte wiederholen?</div>
+        <div class="fr">Il répète toujours les mêmes erreurs.</div>
+        <div class="de spoiler">Er wiederholt immer dieselben Fehler.</div>
+      </div>
+      <p><span class="fr">Réitérer</span> bedeutet ebenfalls <span class="de">"wiederholen"</span>, aber in einem formelleren, oft offiziellen Kontext. Es wird häufig bei Erklärungen, Forderungen oder Stellungnahmen verwendet.</p>
+      <div class="examples">
+        <div class="fr">Le ministre a réitéré sa position sur cette question.</div>
+        <div class="de spoiler">Der Minister bekräftigte erneut seine Position zu dieser Frage.</div>
+        <div class="fr">Je réitère ma demande de remboursement.</div>
+        <div class="de spoiler">Ich wiederhole meine Forderung nach Rückerstattung.</div>
+      </div>
+    </div>
+  </div>

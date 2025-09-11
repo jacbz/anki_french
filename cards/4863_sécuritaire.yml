@@ -7,7 +7,7 @@ Wortart: adj
 Wort mit Artikel: sécuritaire
 Femininum / Plural: ''
 IPA: \se.ky.ʁi.tɛʁ\
-Definition: sicherheitsrelevant
+Definition: Sicherheits-, sicher
 Register: ↘Fiktion
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -60,4 +60,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>sécuritaire</i> und <i>sûr</i></div>
+    <div class="section-content">
+      <p><span class="fr">Sécuritaire</span> bedeutet <span class="de">"sicherheitsbezogen"</span> oder <span class="de">"die Sicherheit betreffend"</span>. Es beschreibt etwas, das mit Sicherheitsmaßnahmen oder Sicherheitspolitik zu tun hat.</p>
+      <div class="examples">
+        <div class="fr">Le gouvernement a adopté une politique sécuritaire stricte.</div>
+        <div class="de spoiler">Die Regierung hat eine strenge Sicherheitspolitik angenommen.</div>
+        <div class="fr">Les mesures sécuritaires ont été renforcées à l'aéroport.</div>
+        <div class="de spoiler">Die Sicherheitsmaßnahmen am Flughafen wurden verstärkt.</div>
+      </div>
+      <p><span class="fr">Sûr</span> (#270) bedeutet <span class="de">"sicher"</span> im Sinne von <span class="de">"ungefährlich"</span> oder <span class="de">"gewiss"</span>. Es beschreibt einen Zustand der Sicherheit oder Gewissheit.</p>
+      <div class="examples">
+        <div class="fr">Ce quartier est très sûr la nuit.</div>
+        <div class="de spoiler">Dieses Viertel ist nachts sehr sicher.</div>
+        <div class="fr">Je suis sûr qu'il viendra demain.</div>
+        <div class="de spoiler">Ich bin sicher, dass er morgen kommen wird.</div>
+      </div>
+    </div>
+  </div>

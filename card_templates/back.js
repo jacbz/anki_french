@@ -340,7 +340,12 @@ let grammar = {
   github: {},
 };
 fetch(`${getAnkiPrefix()}/FR5000_grammar____VERSION___.json`)
-  .then((response) => response.json())
+  .then((response) => {
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+    }
+    return response.json();
+  })
   .then((loadedGrammar) => {
     grammar = loadedGrammar;
     loadAllGrammar();
@@ -349,7 +354,11 @@ fetch(`${getAnkiPrefix()}/FR5000_grammar____VERSION___.json`)
     console.error(err);
     grammarLibrary.classList.remove("collapsed");
     grammarLibrary.innerHTML =
-      "<p>Es ist ein Fehler beim Laden der Grammatik-Bibliothek aufgetreten. Bitte melde das Problem auf <a href='https://github.com/jacbz/anki_french/issues/new'>GitHub</a>.</p>";
+      `<div class="error-message">
+        <p>Es ist ein Fehler beim Laden der Grammatik-Bibliothek aufgetreten:</p>
+        <p class="error-details">${err.message}</p>
+        <p>Bitte melde das Problem auf <a href='https://github.com/jacbz/anki_french/issues/new'>GitHub</a>.</p>
+      </div>`;
   });
 
 function loadGrammar(id, into) {

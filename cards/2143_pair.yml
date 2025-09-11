@@ -13,14 +13,14 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  L'histoire de la musique va de *pair* avec l'histoire politique.
+  L'histoire de la musique va *de pair* avec l'histoire politique.
   Die Geschichte der Musik geht mit der politischen Geschichte *Hand in Hand*.
 
   Les nombres *pairs* sont divisibles par deux.
   *Gerade* Zahlen sind durch zwei teilbar.
 
   Le Royaume-Uni compte encore une Chambre des *pairs*.
-  Das Vereinigte Königreich hat noch immer ein Ober*haus*.
+  Das Vereinigte Königreich hat noch immer ein *Ober*haus.
 
   J'ai acheté une *paire* de chaussures pour le mariage.
   Ich habe ein *Paar* Schuhe für die Hochzeit gekauft.
@@ -29,7 +29,7 @@ Beispielsätze: |-
   Die Augen sind *paarige* Organe.
 
   Il a été jugé par ses *pairs* lors du procès.
-  Er wurde während des Prozesses von seines*gleichen* gerichtet.
+  Er wurde während des Prozesses von *seinesgleichen* gerichtet.
 
   Cette action est cotée au-dessus du *pair*.
   Diese Aktie wird über *Pari* gehandelt.
@@ -40,7 +40,7 @@ Beispielsätze: |-
   Les jours *pairs*, je fais du sport.
   An *geraden* Tagen treibe ich Sport.
 
-  Elle travaille comme jeune fille au *pair* à Paris.
+  Elle travaille comme jeune fille *au pair* à Paris.
   Sie arbeitet als *Au-pair*-Mädchen in Paris.
 
   Les *pairs* du royaume se sont réunis pour délibérer.
@@ -56,18 +56,18 @@ Beispielsätze: |-
   Die Lungen sind ein Beispiel für *paarige* Organe.
 
   Il n'a pas son *pair* en matière de cuisine française.
-  Er hat seines*gleichen* nicht, wenn es um französische Küche geht.
+  Er hat *seinesgleichen* nicht, wenn es um französische Küche geht.
 
   La Chambre des *pairs* a été abolie en France en 1848.
   Die *Pairs*kammer wurde in Frankreich 1848 abgeschafft.
 
-  J'ai besoin d'une nouvelle *paire* de lunettes.
+  J'ai besoin d'une nouvelle *paire de lunettes*.
   Ich brauche eine neue *Brille*.
 
-  Les actions sont échangées au *pair*.
-  Die Aktien werden zum *Nennwert* gehandelt.
+  Les actions sont échangées *au pair*.
+  Die Aktien werden *zum Nennwert* gehandelt.
 
-  Son talent est vraiment hors *pair*.
+  Son talent est vraiment *hors pair*.
   Sein Talent ist wirklich *einzigartig*.
 
   Les reins sont des organes *pairs* essentiels.
@@ -85,13 +85,13 @@ Beispielsätze: |-
   Cette permutation est *paire* en algèbre.
   Diese Permutation ist in der Algebra *gerade*.
 
-  Il faut toujours avoir une *paire* de ciseaux à portée de main.
+  Il faut toujours avoir une *paire de ciseaux* à portée de main.
   Man sollte immer eine *Schere* griffbereit haben.
 
   La fonction cosinus est une fonction *paire*.
   Die Kosinusfunktion ist eine *gerade* Funktion.
 
-  Les jumeaux vont souvent de *pair*.
+  Les jumeaux vont souvent *de pair*.
   Zwillinge gehen oft *Hand in Hand*.
 
   Le Sénat et la Chambre des *pairs* formaient le parlement.
@@ -104,7 +104,7 @@ Beispielsätze: |-
   Dieses Unternehmen wird unter *Pari* gehandelt.
 
   Dans ce groupe, il n'a pas son *pair* en matière d'éloquence.
-  In dieser Gruppe hat er in Sachen Redegewandtheit nicht seines*gleichen*.
+  In dieser Gruppe hat er in Sachen Redegewandtheit nicht *seinesgleichen*.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">

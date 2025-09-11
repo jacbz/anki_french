@@ -3442,7 +3442,7 @@
 | 3440 | induire | verleiten, herbeiführen | 22 |  | [Bearbeiten](cards/3440_induire.yml) |
 | 3441 | temple | Tempel | 18 |  | [Bearbeiten](cards/3441_temple.yml) |
 | 3442 | maîtrise | Beherrschung, Können | 25 |  | [Bearbeiten](cards/3442_maîtrise.yml) |
-| 3443 | arbitrage | Schlichtung | 17 |  | [Bearbeiten](cards/3443_arbitrage.yml) |
+| 3443 | arbitrage | Schiedsverfahren, Schlichtung | 17 |  | [Bearbeiten](cards/3443_arbitrage.yml) |
 | 3444 | boucler | fertigstellen, zumachen | 38 |  | [Bearbeiten](cards/3444_boucler.yml) |
 | 3445 | réparation | Reparatur | 34 |  | [Bearbeiten](cards/3445_réparation.yml) |
 | 3446 | évêque | Bischof | 23 |  | [Bearbeiten](cards/3446_évêque.yml) |
@@ -4023,7 +4023,7 @@
 | 4021 | frappe | Schlag, Schuss | 22 |  | [Bearbeiten](cards/4021_frappe.yml) |
 | 4022 | industrialiser | industrialisieren | 20 |  | [Bearbeiten](cards/4022_industrialiser.yml) |
 | 4023 | efficacement | effektiv, wirksam | 11 |  | [Bearbeiten](cards/4023_efficacement.yml) |
-| 4024 | golfe | Golf | 15 | X | [Bearbeiten](cards/4024_golfe.yml) |
+| 4024 | golfe | Golf [Meer] | 15 | X | [Bearbeiten](cards/4024_golfe.yml) |
 | 4025 | ambiance | Stimmung, Atmosphäre | 21 |  | [Bearbeiten](cards/4025_ambiance.yml) |
 | 4026 | coopérer | zusammenarbeiten, zusammenwirken | 14 | X | [Bearbeiten](cards/4026_coopérer.yml) |
 | 4027 | bus | Bus | 17 | X | [Bearbeiten](cards/4027_bus.yml) |
@@ -4322,7 +4322,7 @@
 | 4320 | tisser | weben | 23 |  | [Bearbeiten](cards/4320_tisser.yml) |
 | 4321 | poule | Huhn, Henne | 46 | X | [Bearbeiten](cards/4321_poule.yml) |
 | 4322 | punition | Strafe, Bestrafung | 21 | X | [Bearbeiten](cards/4322_punition.yml) |
-| 4323 | hésitation | Zögern, Unsicherheit | 19 |  | [Bearbeiten](cards/4323_hésitation.yml) |
+| 4323 | hésitation | Zögern | 19 |  | [Bearbeiten](cards/4323_hésitation.yml) |
 | 4324 | rentable | rentabel | 18 |  | [Bearbeiten](cards/4324_rentable.yml) |
 | 4325 | loyal | loyal, treu | 20 |  | [Bearbeiten](cards/4325_loyal.yml) |
 | 4326 | renfort | Verstärkung | 20 | X | [Bearbeiten](cards/4326_renfort.yml) |
@@ -4789,7 +4789,7 @@
 | 4787 | chirurgien | Chirurg | 12 |  | [Bearbeiten](cards/4787_chirurgien.yml) |
 | 4788 | orage | Gewitter | 20 | X | [Bearbeiten](cards/4788_orage.yml) |
 | 4789 | boule | Kugel | 54 | X | [Bearbeiten](cards/4789_boule.yml) |
-| 4790 | médiation | Schlichtung | 17 |  | [Bearbeiten](cards/4790_médiation.yml) |
+| 4790 | médiation | Schlichtung, Vermittlung | 17 | X | [Bearbeiten](cards/4790_médiation.yml) |
 | 4791 | réprimer | unterdrücken, zurückhalten | 17 |  | [Bearbeiten](cards/4791_réprimer.yml) |
 | 4792 | hall | Halle | 15 |  | [Bearbeiten](cards/4792_hall.yml) |
 | 4793 | visuel | visuell, optisch | 24 |  | [Bearbeiten](cards/4793_visuel.yml) |
@@ -4846,7 +4846,7 @@
 | 4844 | micro | Mikro | 15 |  | [Bearbeiten](cards/4844_micro.yml) |
 | 4845 | gâteau | Kuchen | 24 | X | [Bearbeiten](cards/4845_gâteau.yml) |
 | 4846 | continental | kontinental | 17 |  | [Bearbeiten](cards/4846_continental.yml) |
-| 4847 | réitérer | wiederholen | 15 |  | [Bearbeiten](cards/4847_réitérer.yml) |
+| 4847 | réitérer | wiederholen, bekräftigen | 15 | X | [Bearbeiten](cards/4847_réitérer.yml) |
 | 4848 | énumérer | auflisten, aufzählen | 13 |  | [Bearbeiten](cards/4848_énumérer.yml) |
 | 4849 | embauche | Einstellung, Beschäftigung | 15 |  | [Bearbeiten](cards/4849_embauche.yml) |
 | 4850 | verdict | Urteil, Rechtsspruch | 16 |  | [Bearbeiten](cards/4850_verdict.yml) |
@@ -4862,15 +4862,15 @@
 | 4860 | exploration | Erforschung, Erkundung | 18 |  | [Bearbeiten](cards/4860_exploration.yml) |
 | 4861 | caresser | streicheln | 22 |  | [Bearbeiten](cards/4861_caresser.yml) |
 | 4862 | hymne | Hymne | 19 |  | [Bearbeiten](cards/4862_hymne.yml) |
-| 4863 | sécuritaire | sicher, Sicherheits- | 14 |  | [Bearbeiten](cards/4863_sécuritaire.yml) |
+| 4863 | sécuritaire | Sicherheits-, sicher | 14 | X | [Bearbeiten](cards/4863_sécuritaire.yml) |
 | 4864 | famine | Hungersnot | 13 |  | [Bearbeiten](cards/4864_famine.yml) |
-| 4865 | écrier | [vor Emotion] rufen | 13 |  | [Bearbeiten](cards/4865_écrier.yml) |
+| 4865 | écrier | [vor Emotion] rufen | 13 | X | [Bearbeiten](cards/4865_écrier.yml) |
 | 4866 | précipitation | Hast; Niederschlag | 17 |  | [Bearbeiten](cards/4866_précipitation.yml) |
 | 4867 | caution | Bürgschaft, Kaution | 26 |  | [Bearbeiten](cards/4867_caution.yml) |
 | 4868 | affectation | Zuweisung, Berufung | 24 |  | [Bearbeiten](cards/4868_affectation.yml) |
 | 4869 | salaud | Dreckskerl | 14 |  | [Bearbeiten](cards/4869_salaud.yml) |
 | 4870 | cave | Keller | 27 |  | [Bearbeiten](cards/4870_cave.yml) |
-| 4871 | bond | Sprung, Satz | 24 |  | [Bearbeiten](cards/4871_bond.yml) |
+| 4871 | bond | Sprung, Satz | 24 | X | [Bearbeiten](cards/4871_bond.yml) |
 | 4872 | enclin | geneigt, -willig | 13 |  | [Bearbeiten](cards/4872_enclin.yml) |
 | 4873 | nettoyage | Reinigung | 20 |  | [Bearbeiten](cards/4873_nettoyage.yml) |
 | 4874 | foudre | Blitzschlag | 28 |  | [Bearbeiten](cards/4874_foudre.yml) |
@@ -4882,23 +4882,23 @@
 | 4880 | accélération | Beschleunigung | 15 |  | [Bearbeiten](cards/4880_accélération.yml) |
 | 4881 | garage | Garage | 18 | X | [Bearbeiten](cards/4881_garage.yml) |
 | 4882 | résolument | entschlossen | 14 |  | [Bearbeiten](cards/4882_résolument.yml) |
-| 4883 | négociateur | Verhandler | 14 |  | [Bearbeiten](cards/4883_négociateur.yml) |
+| 4883 | négociateur | Verhandlungsführer | 14 |  | [Bearbeiten](cards/4883_négociateur.yml) |
 | 4884 | romantique | romantisch | 23 |  | [Bearbeiten](cards/4884_romantique.yml) |
-| 4885 | obscurité | Dunkelheit | 23 |  | [Bearbeiten](cards/4885_obscurité.yml) |
-| 4886 | vulgaire | vulgär, ordinär | 35 |  | [Bearbeiten](cards/4886_vulgaire.yml) |
+| 4885 | obscurité | Dunkelheit, Unklarheit | 23 |  | [Bearbeiten](cards/4885_obscurité.yml) |
+| 4886 | vulgaire | vulgär, gewöhnlich | 35 |  | [Bearbeiten](cards/4886_vulgaire.yml) |
 | 4887 | soixante-dix | siebzig | 20 | X | [Bearbeiten](cards/4887_soixante-dix.yml) |
-| 4888 | féroce | wild, grausam | 24 |  | [Bearbeiten](cards/4888_féroce.yml) |
-| 4889 | perpétuel | ewig, dauerhaft | 24 |  | [Bearbeiten](cards/4889_perpétuel.yml) |
+| 4888 | féroce | grimmig, unbarmherzig | 24 |  | [Bearbeiten](cards/4888_féroce.yml) |
+| 4889 | perpétuel | ewig, ständig | 24 |  | [Bearbeiten](cards/4889_perpétuel.yml) |
 | 4890 | militer | sich engagieren, kämpfen | 14 |  | [Bearbeiten](cards/4890_militer.yml) |
 | 4891 | jungle | Dschungel | 15 | X | [Bearbeiten](cards/4891_jungle.yml) |
-| 4892 | case | Feld, Kästchen | 19 |  | [Bearbeiten](cards/4892_case.yml) |
-| 4893 | craquer | knacken, brechen, aufgeben | 36 |  | [Bearbeiten](cards/4893_craquer.yml) |
-| 4894 | clarifier | klarstellen, klären | 15 |  | [Bearbeiten](cards/4894_clarifier.yml) |
-| 4895 | crête | Kamm, Grat | 22 |  | [Bearbeiten](cards/4895_crête.yml) |
+| 4892 | case | Feld, Fach | 19 |  | [Bearbeiten](cards/4892_case.yml) |
+| 4893 | craquer | krachen, brechen | 36 |  | [Bearbeiten](cards/4893_craquer.yml) |
+| 4894 | clarifier | klären | 15 |  | [Bearbeiten](cards/4894_clarifier.yml) |
+| 4895 | crête | [Tier] Kamm; Grat | 22 |  | [Bearbeiten](cards/4895_crête.yml) |
 | 4896 | traite | Wechsel, Handel | 26 |  | [Bearbeiten](cards/4896_traite.yml) |
-| 4897 | démarrage | Start, Anlauf | 22 |  | [Bearbeiten](cards/4897_démarrage.yml) |
-| 4898 | oubli | Vergessenheit | 31 |  | [Bearbeiten](cards/4898_oubli.yml) |
-| 4899 | procès-verbal | Protokoll | 18 |  | [Bearbeiten](cards/4899_procès-verbal.yml) |
+| 4897 | démarrage | Start, Anlassen | 22 |  | [Bearbeiten](cards/4897_démarrage.yml) |
+| 4898 | oubli | Vergessen | 31 |  | [Bearbeiten](cards/4898_oubli.yml) |
+| 4899 | procès-verbal | Protokoll, Niederschrift | 18 |  | [Bearbeiten](cards/4899_procès-verbal.yml) |
 | 4900 | formalité | Formalität | 17 |  | [Bearbeiten](cards/4900_formalité.yml) |
 | 4901 | insensible | unempfindlich, gefühllos | 24 |  | [Bearbeiten](cards/4901_insensible.yml) |
 | 4902 | distant | entfernt, fern | 18 |  | [Bearbeiten](cards/4902_distant.yml) |
@@ -4935,7 +4935,7 @@
 | 4933 | cage | Käfig | 26 |  | [Bearbeiten](cards/4933_cage.yml) |
 | 4934 | réglé | geregelt, regulär | 33 |  | [Bearbeiten](cards/4934_réglé.yml) |
 | 4935 | téléspectateur | Fernsehzuschauer | 11 |  | [Bearbeiten](cards/4935_téléspectateur.yml) |
-| 4936 | golf | Golf | 15 | X | [Bearbeiten](cards/4936_golf.yml) |
+| 4936 | golf | Golf [Sport] | 15 | X | [Bearbeiten](cards/4936_golf.yml) |
 | 4937 | forestier | wald-, Forst- | 17 |  | [Bearbeiten](cards/4937_forestier.yml) |
 | 4938 | hum | ähem, hüstel | 13 |  | [Bearbeiten](cards/4938_hum.yml) |
 | 4939 | ravager | verwüsten | 20 |  | [Bearbeiten](cards/4939_ravager.yml) |

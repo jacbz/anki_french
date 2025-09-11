@@ -17,11 +17,7 @@ function initClozeGame({
       lightningButton.innerHTML = `
         <svg viewBox="0 0 24 24" class="overlay-icon">
           <path d="M12 2 L7 12 L10.5 12 L9 22 L17 10 L13.5 10 L12 2 Z" 
-                stroke="currentColor" 
-                stroke-width="0.8" 
-                fill="none" 
-                stroke-linejoin="round" 
-                stroke-linecap="round"/>
+                fill="currentColor"/>
         </svg>
       `;
       lightningButton.onclick = () => {

@@ -7,7 +7,7 @@ Wortart: nm
 Wort mit Artikel: bond
 Femininum / Plural: ''
 IPA: \bɔ̃\
-Definition: Sprung
+Definition: Sprung, Satz
 Register: ↘Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -90,4 +90,28 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>bond</i> und <i>saut</i></div>
+    <div class="section-content">
+      <p><span class="fr">Bond</span> bezeichnet einen kraftvollen, spontanen Sprung oder eine plötzliche Bewegung nach vorne. Es impliziert oft Energie und Schwung.</p>
+      <div class="examples">
+        <div class="fr">Le chat a fait un bond pour attraper la souris.</div>
+        <div class="de spoiler">Die Katze machte einen Satz, um die Maus zu fangen.</div>
+        <div class="fr">D'un bond, il s'est levé de sa chaise.</div>
+        <div class="de spoiler">Mit einem Sprung erhob er sich von seinem Stuhl.</div>
+      </div>
+      <p><span class="fr">Saut</span> (#3841) ist der allgemeine Begriff für <span class="de">"Sprung"</span> und kann verschiedene Arten von Sprüngen beschreiben, sowohl kontrollierte als auch spontane.</p>
+      <div class="examples">
+        <div class="fr">Elle a réussi un saut de trois mètres en longueur.</div>
+        <div class="de spoiler">Sie schaffte einen Weitsprung von drei Metern.</div>
+        <div class="fr">Il a fait un saut périlleux arrière.</div>
+        <div class="de spoiler">Er machte einen Rückwärtssalto.</div>
+      </div>
+      <p><span class="fr">Bond</span> wird oft metaphorisch verwendet (<span class="fr">faire un bond en avant</span> = <span class="de">"einen Sprung nach vorne machen"</span>), während <span class="fr">saut</span> neutraler und vielseitiger ist, besonders in sportlichen Kontexten.</p>
+      <div class="examples">
+        <div class="fr">Cette découverte représente un bond technologique.</div>
+        <div class="de spoiler">Diese Entdeckung stellt einen technologischen Sprung dar.</div>
+      </div>
+    </div>
+  </div>
