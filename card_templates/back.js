@@ -357,7 +357,7 @@ fetch(`${getAnkiPrefix()}/FR5000_grammar____VERSION___.json`)
       `<div class="error-message">
         <p>Es ist ein Fehler beim Laden der Grammatik-Bibliothek aufgetreten:</p>
         <p class="error-details">${err.message}</p>
-        <p>Bitte melde das Problem auf <a href='https://github.com/jacbz/anki_french/issues/new'>GitHub</a>.</p>
+        <p>Bitte melde das Problem auf <a href='https://github.com/jacbz/anki_french/issues'>GitHub</a>.</p>
       </div>`;
   });
 

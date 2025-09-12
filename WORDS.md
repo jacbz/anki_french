@@ -14,7 +14,7 @@
 | 12 | ce | diese(-r/s); es, das | 59 | X | [Bearbeiten](cards/0012_ce.yml) |
 | 13 | il | er | 41 | X | [Bearbeiten](cards/0013_il.yml) |
 | 14 | qui | wer; der/die/das [Relativpronomen] | 58 | X | [Bearbeiten](cards/0014_qui.yml) |
-| 15 | ne | [Negation] | 59 | X | [Bearbeiten](cards/0015_ne.yml) |
+| 15 | ne | [Negation] | 57 | X | [Bearbeiten](cards/0015_ne.yml) |
 | 16 | sur | auf, über | 58 | X | [Bearbeiten](cards/0016_sur.yml) |
 | 17 | se | sich | 30 | X | [Bearbeiten](cards/0017_se.yml) |
 | 18 | pas | nicht; Schritt | 57 | X | [Bearbeiten](cards/0018_pas.yml) |
@@ -23,7 +23,7 @@
 | 21 | par | durch, von | 58 | X | [Bearbeiten](cards/0021_par.yml) |
 | 22 | je | ich | 26 | X | [Bearbeiten](cards/0022_je.yml) |
 | 23 | avec | mit | 60 | X | [Bearbeiten](cards/0023_avec.yml) |
-| 24 | tout | alles, ganz, jede(-r/s) | 58 | X | [Bearbeiten](cards/0024_tout.yml) |
+| 24 | tout | alles, ganz, jede(-r/s) | 56 | X | [Bearbeiten](cards/0024_tout.yml) |
 | 25 | faire | machen, tun | 56 |  | [Bearbeiten](cards/0025_faire.yml) |
 | 26 | son | sein(-e), ihr(-e); Ton, Klang | 56 | X | [Bearbeiten](cards/0026_son.yml) |
 | 27 | mettre | tun, legen, anziehen | 69 |  | [Bearbeiten](cards/0027_mettre.yml) |
@@ -32,10 +32,10 @@
 | 30 | mais | aber, sondern | 43 |  | [Bearbeiten](cards/0030_mais.yml) |
 | 31 | nous | wir | 57 | X | [Bearbeiten](cards/0031_nous.yml) |
 | 32 | comme | wie, als | 60 |  | [Bearbeiten](cards/0032_comme.yml) |
-| 33 | ou | oder | 51 |  | [Bearbeiten](cards/0033_ou.yml) |
+| 33 | ou | oder; sonst | 51 |  | [Bearbeiten](cards/0033_ou.yml) |
 | 34 | si | wenn, falls, ob; doch | 58 | X | [Bearbeiten](cards/0034_si.yml) |
 | 35 | leur | ihr(-e/s); ihnen | 45 | X | [Bearbeiten](cards/0035_leur.yml) |
-| 36 | y | dort, dahin | 30 | X | [Bearbeiten](cards/0036_y.yml) |
+| 36 | y | dort, dahin | 27 | X | [Bearbeiten](cards/0036_y.yml) |
 | 37 | dire | sagen | 58 | X | [Bearbeiten](cards/0037_dire.yml) |
 | 38 | elle | sie | 33 | X | [Bearbeiten](cards/0038_elle.yml) |
 | 39 | devoir | müssen; Pflicht | 57 |  | [Bearbeiten](cards/0039_devoir.yml) |
