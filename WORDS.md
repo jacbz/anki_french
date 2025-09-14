@@ -123,7 +123,7 @@
 | 121 | contre | gegen | 57 |  | [Bearbeiten](cards/0121_contre.yml) |
 | 122 | sous | unter | 62 | X | [Bearbeiten](cards/0122_sous.yml) |
 | 123 | côté | Seite | 61 | X | [Bearbeiten](cards/0123_côté.yml) |
-| 124 | ensemble | zusammen, gemeinsam | 54 |  | [Bearbeiten](cards/0124_ensemble.yml) |
+| 124 | ensemble | zusammen, gemeinsam | 54 | X | [Bearbeiten](cards/0124_ensemble.yml) |
 | 125 | chose | Sache, Ding | 62 | X | [Bearbeiten](cards/0125_chose.yml) |
 | 126 | enfant | Kind | 60 | X | [Bearbeiten](cards/0126_enfant.yml) |
 | 127 | cause | Ursache, Anliegen | 58 |  | [Bearbeiten](cards/0127_cause.yml) |
