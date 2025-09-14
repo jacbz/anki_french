@@ -740,8 +740,18 @@ u {
       }
     }
 
-    &.expanded > .section-title:after {
-      content: "\2212";
+    &.expanded {
+      > .section-title:after {
+        content: "\2212";
+      }
+
+      > .section-content {
+        margin-top: 0.5em;
+      }
+
+      &:has(.section) > .section-content {
+        margin-bottom: 1em;
+      }
     }
   }
 
@@ -790,17 +800,9 @@ u {
     padding: 0 10px;
     max-height: 0;
     overflow: hidden;
-    transition: max-height 0.2s ease-out;
+    transition: max-height 0.2s ease-out, margin 0.2s ease-out;
     display: grid;
     gap: 0.5em;
-
-    > *:first-child {
-      margin-top: 1em !important;
-    }
-
-    > *:last-child {
-      margin-bottom: 1.5em !important;
-    }
   }
 }
 
@@ -1133,6 +1135,38 @@ tr[data-tense="PC"] .tense_stem {
       margin-bottom: 0.5em;
       font-weight: bold;
       font-size: 120%;
+    }
+
+    #cefr-filter {
+      margin-bottom: 0.6em;
+      
+      .level-pills {
+        display: flex;
+        justify-content: space-between;
+        max-width: 350px;
+        gap: 6px;
+        font-weight: 500;
+
+        .pill {
+          flex: 1;
+          text-align: center;
+          padding: 4px 8px;
+          border-radius: 10px;
+          background: rgba(120, 120, 128, 0.16);
+          color: var(--secondary-text);
+          cursor: pointer;
+          transition: all 0.15s ease;
+
+          &.active {
+            background: var(--highlight-color);
+            color: white;
+          }
+
+          &:hover:not(.active) {
+            background: rgba(120, 120, 128, 0.24);
+          }
+        }
+      }
     }
 
     .section-title {

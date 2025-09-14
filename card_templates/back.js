@@ -590,6 +590,59 @@ function renderGrammaryLibrary() {
     grammarSections.appendChild(categorySection);
   }
   enableSectionToggle();
+  initCefrFilter();
+}
+
+function initCefrFilter() {
+  const levelPills = document.querySelectorAll(".pill");
+  
+  const applyFilter = (expandSections = false) => {
+    const cefrLevels = ["A1", "A2", "B1", "B2", "C1"];
+    const activePills = document.querySelectorAll(".pill.active");
+    const selectedLevels = Array.from(activePills).map(pill => pill.dataset.level);
+    
+    grammarLibrary.querySelectorAll(".section").forEach(section => {
+      const titleElement = section.querySelector(".section-title[data-topic]");
+      if (!titleElement) {
+        section.style.display = null;
+        return;
+      }
+
+      const sectionTopic = titleElement.dataset.topic;
+      const topicLevels = sectionTopic.split("/").map(level => level.trim());
+      
+      const shouldShow = 
+        // if every level is selected, show all
+        selectedLevels.length === cefrLevels.length ||
+        // if no level is selected, show only sections without level
+        (selectedLevels.length === 0 && topicLevels.every(level => !cefrLevels.includes(level))) ||
+        // if there is a filter, show only matching levels
+        topicLevels.some(level => selectedLevels.includes(level));
+      console.log(sectionTopic, topicLevels, selectedLevels, shouldShow);
+      section.style.display = shouldShow ? "" : "none";
+    });
+
+    grammarLibrary.querySelectorAll("#grammar-sections > .section").forEach(section => {
+      // if all children are hidden, hide the parent section as well
+      const visibleChildren = Array.from(section.querySelectorAll(".section")).filter(child => child.style.display !== "none");
+      section.style.display = visibleChildren.length > 0 ? "" : "none";
+    });
+
+    if (expandSections) {
+      grammarLibrary.querySelectorAll("#grammar-sections > .section:not(.expanded)").forEach(section => {
+        expandSection(section);
+      });
+    }
+  };
+
+  levelPills.forEach(pill => {
+    pill.onclick = () => {
+      pill.classList.toggle("active");
+      applyFilter(true);
+    };
+  });
+
+  applyFilter();
 }
 
 /**
