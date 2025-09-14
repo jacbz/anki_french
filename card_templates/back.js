@@ -573,14 +573,14 @@ function renderGrammaryLibrary() {
     const categoryContent = document.createElement("div");
     categoryContent.className = "section-content";
 
-    for (const [subcategory, id] of Object.entries(subcategories)) {
+    for (const id of subcategories) {
       const subcategorySection = document.createElement("div");
       subcategorySection.className = "section";
 
-      const subcategoryTitle = document.createElement("div");
-      subcategoryTitle.className = "section-title";
+      const tempDiv = document.createElement("div");
+      tempDiv.innerHTML = grammar.sectionTitles[id];
+      const subcategoryTitle = tempDiv.firstElementChild;
       subcategoryTitle.dataset.grammar = id;
-      subcategoryTitle.innerHTML = subcategory;
       subcategorySection.appendChild(subcategoryTitle);
 
       categoryContent.appendChild(subcategorySection);
