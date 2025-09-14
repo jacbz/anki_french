@@ -1460,7 +1460,7 @@
 | 1458 | meurtre | Mord | 15 |  | [Bearbeiten](cards/1458_meurtre.yml) |
 | 1459 | exemplaire | Exemplar | 23 |  | [Bearbeiten](cards/1459_exemplaire.yml) |
 | 1460 | propriété | Eigentum, Besitz | 41 |  | [Bearbeiten](cards/1460_propriété.yml) |
-| 1461 | final | letze(-r/s), End- | 25 |  | [Bearbeiten](cards/1461_final.yml) |
+| 1461 | final | letze(-r/s), End- | 25 | X | [Bearbeiten](cards/1461_final.yml) |
 | 1462 | site | Website, Standort | 30 |  | [Bearbeiten](cards/1462_site.yml) |
 | 1463 | séance | Sitzung, Vorstellung | 32 |  | [Bearbeiten](cards/1463_séance.yml) |
 | 1464 | durée | Dauer | 26 | X | [Bearbeiten](cards/1464_durée.yml) |
@@ -4155,7 +4155,7 @@
 | 4153 | poudre | Pulver | 34 |  | [Bearbeiten](cards/4153_poudre.yml) |
 | 4154 | teneur | Gehalt, Inhalt | 18 |  | [Bearbeiten](cards/4154_teneur.yml) |
 | 4155 | inverser | umkehren, vertauschen | 21 |  | [Bearbeiten](cards/4155_inverser.yml) |
-| 4156 | naval | See-, Schiff- | 19 |  | [Bearbeiten](cards/4156_naval.yml) |
+| 4156 | naval | See-, Schiff- | 19 | X | [Bearbeiten](cards/4156_naval.yml) |
 | 4157 | dérive | Abdrift, Abweichung | 22 |  | [Bearbeiten](cards/4157_dérive.yml) |
 | 4158 | mécontent | unzufrieden | 19 |  | [Bearbeiten](cards/4158_mécontent.yml) |
 | 4159 | vocabulaire | Wortschatz | 21 |  | [Bearbeiten](cards/4159_vocabulaire.yml) |
@@ -4220,7 +4220,7 @@
 | 4218 | résistant | robust, -beständig | 26 |  | [Bearbeiten](cards/4218_résistant.yml) |
 | 4219 | admiration | Bewunderung | 19 |  | [Bearbeiten](cards/4219_admiration.yml) |
 | 4220 | acide | Säure | 29 |  | [Bearbeiten](cards/4220_acide.yml) |
-| 4221 | banal | gewöhnlich, alltäglich | 15 |  | [Bearbeiten](cards/4221_banal.yml) |
+| 4221 | banal | gewöhnlich, alltäglich | 15 | X | [Bearbeiten](cards/4221_banal.yml) |
 | 4222 | poulet | Hähnchen, Huhn | 22 | X | [Bearbeiten](cards/4222_poulet.yml) |
 | 4223 | pêcher | fischen, angeln; aufstöbern | 34 |  | [Bearbeiten](cards/4223_pêcher.yml) |
 | 4224 | brigade | Brigade | 20 |  | [Bearbeiten](cards/4224_brigade.yml) |
@@ -4237,7 +4237,7 @@
 | 4235 | taxi | Taxi | 16 | X | [Bearbeiten](cards/4235_taxi.yml) |
 | 4236 | limitation | Beschränkung, Begrenzung | 18 |  | [Bearbeiten](cards/4236_limitation.yml) |
 | 4237 | irréversible | unumkehrbar | 15 |  | [Bearbeiten](cards/4237_irréversible.yml) |
-| 4238 | fatal | verhängnisvoll, tödlich | 26 |  | [Bearbeiten](cards/4238_fatal.yml) |
+| 4238 | fatal | verhängnisvoll, tödlich | 26 | X | [Bearbeiten](cards/4238_fatal.yml) |
 | 4239 | furieux | wütend | 32 |  | [Bearbeiten](cards/4239_furieux.yml) |
 | 4240 | verbal | mündlich, sprachlich | 23 | X | [Bearbeiten](cards/4240_verbal.yml) |
 | 4241 | contacter | kontaktieren | 13 |  | [Bearbeiten](cards/4241_contacter.yml) |
@@ -4928,7 +4928,7 @@
 | 4926 | résident | Bewohner, Anwohner | 19 |  | [Bearbeiten](cards/4926_résident.yml) |
 | 4927 | empresser | sich beeilen, sich eifrig bemühen | 16 |  | [Bearbeiten](cards/4927_empresser.yml) |
 | 4928 | inonder | überfluten | 29 |  | [Bearbeiten](cards/4928_inonder.yml) |
-| 4929 | réglementer | regulieren, reglementieren | 14 |  | [Bearbeiten](cards/4929_réglementer.yml) |
+| 4929 | réglementer | (gesetzlich) regeln | 14 |  | [Bearbeiten](cards/4929_réglementer.yml) |
 | 4930 | sonder | untersuchen, sondieren | 26 |  | [Bearbeiten](cards/4930_sonder.yml) |
 | 4931 | vigilant | wachsam | 15 |  | [Bearbeiten](cards/4931_vigilant.yml) |
 | 4932 | rhétorique | Rhetorik | 20 |  | [Bearbeiten](cards/4932_rhétorique.yml) |
