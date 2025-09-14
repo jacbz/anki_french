@@ -89,7 +89,7 @@
 | 87 | dernier | letzter | 57 |  | [Bearbeiten](cards/0087_dernier.yml) |
 | 88 | venir | kommen | 64 | X | [Bearbeiten](cards/0088_venir.yml) |
 | 89 | pendant | während; Gegenstück | 53 | X | [Bearbeiten](cards/0089_pendant.yml) |
-| 90 | passer | verbringen, durchlaufen | 59 | X | [Bearbeiten](cards/0090_passer.yml) |
+| 90 | passer | verbringen, durchlaufen | 58 | X | [Bearbeiten](cards/0090_passer.yml) |
 | 91 | peu | wenig | 59 | X | [Bearbeiten](cards/0091_peu.yml) |
 | 92 | lequel | welche(-r/s); der/die/das [Relativpronomen] | 37 | X | [Bearbeiten](cards/0092_lequel.yml) |
 | 93 | suite | Folge, Fortsetzung | 61 |  | [Bearbeiten](cards/0093_suite.yml) |
@@ -105,7 +105,7 @@
 | 103 | toujours | immer | 37 | X | [Bearbeiten](cards/0103_toujours.yml) |
 | 104 | tenir | halten, festhalten | 60 |  | [Bearbeiten](cards/0104_tenir.yml) |
 | 105 | porter | tragen | 58 |  | [Bearbeiten](cards/0105_porter.yml) |
-| 106 | parler | sprechen | 58 | X | [Bearbeiten](cards/0106_parler.yml) |
+| 106 | parler | sprechen | 56 | X | [Bearbeiten](cards/0106_parler.yml) |
 | 107 | fort | stark | 59 | X | [Bearbeiten](cards/0107_fort.yml) |
 | 108 | montrer | zeigen, vorzeigen | 54 |  | [Bearbeiten](cards/0108_montrer.yml) |
 | 109 | là | dort, da | 59 | X | [Bearbeiten](cards/0109_là.yml) |
@@ -1674,7 +1674,7 @@
 | 1672 | dos | Rücken | 63 | X | [Bearbeiten](cards/1672_dos.yml) |
 | 1673 | consommateur | Verbraucher | 20 | X | [Bearbeiten](cards/1673_consommateur.yml) |
 | 1674 | soviétique | sowjetisch; Sowjet | 13 | X | [Bearbeiten](cards/1674_soviétique.yml) |
-| 1675 | volontaire | freiwillig | 31 | X | [Bearbeiten](cards/1675_volontaire.yml) |
+| 1675 | volontaire | freiwillig, gewollt | 31 | X | [Bearbeiten](cards/1675_volontaire.yml) |
 | 1676 | négocier | verhandeln | 22 |  | [Bearbeiten](cards/1676_négocier.yml) |
 | 1677 | finance | Finanzwesen | 28 |  | [Bearbeiten](cards/1677_finance.yml) |
 | 1678 | rêver | träumen | 40 |  | [Bearbeiten](cards/1678_rêver.yml) |
@@ -3380,7 +3380,7 @@
 | 3378 | savant | Gelehrter; bewandert | 37 | X | [Bearbeiten](cards/3378_savant.yml) |
 | 3379 | terreur | Schrecken, Terror | 28 |  | [Bearbeiten](cards/3379_terreur.yml) |
 | 3380 | recruter | anwerben, einziehen | 25 |  | [Bearbeiten](cards/3380_recruter.yml) |
-| 3381 | conformer | entsprechen, anpassen | 17 |  | [Bearbeiten](cards/3381_conformer.yml) |
+| 3381 | conformer | anpassen; [sich an etw.] halten | 17 |  | [Bearbeiten](cards/3381_conformer.yml) |
 | 3382 | virus | Virus | 19 | X | [Bearbeiten](cards/3382_virus.yml) |
 | 3383 | reconnaissant | dankbar | 12 |  | [Bearbeiten](cards/3383_reconnaissant.yml) |
 | 3384 | délibérer | beraten, überlegen | 20 |  | [Bearbeiten](cards/3384_délibérer.yml) |
@@ -4910,23 +4910,23 @@
 | 4908 | buter | (an-)stoßen, stolpern | 27 |  | [Bearbeiten](cards/4908_buter.yml) |
 | 4909 | bulle | Blase | 22 |  | [Bearbeiten](cards/4909_bulle.yml) |
 | 4910 | défavorable | ungünstig; ablehnend | 17 |  | [Bearbeiten](cards/4910_défavorable.yml) |
-| 4911 | promoteur | Bauträger | 17 |  | [Bearbeiten](cards/4911_promoteur.yml) |
+| 4911 | promoteur | Baufirma; Initiator | 16 |  | [Bearbeiten](cards/4911_promoteur.yml) |
 | 4912 | albanais | albanisch; Albaner | 13 | X | [Bearbeiten](cards/4912_albanais.yml) |
 | 4913 | obsession | Besessenheit | 18 |  | [Bearbeiten](cards/4913_obsession.yml) |
 | 4914 | exciter | erregen, reizen | 40 | X | [Bearbeiten](cards/4914_exciter.yml) |
-| 4915 | voisinage | Nachbarschaft | 22 |  | [Bearbeiten](cards/4915_voisinage.yml) |
-| 4916 | savoir-faire | Fertigkeit, Geschick | 11 |  | [Bearbeiten](cards/4916_savoir-faire.yml) |
-| 4917 | sévèrement | stark, strengstens | 14 |  | [Bearbeiten](cards/4917_sévèrement.yml) |
-| 4918 | écrasant | überwältigend | 19 |  | [Bearbeiten](cards/4918_écrasant.yml) |
-| 4919 | vendu | verkauft | 15 |  | [Bearbeiten](cards/4919_vendu.yml) |
-| 4920 | munition | Munition | 22 |  | [Bearbeiten](cards/4920_munition.yml) |
-| 4921 | capturer | fangen, einfangen | 16 |  | [Bearbeiten](cards/4921_capturer.yml) |
-| 4922 | compliment | Kompliment | 23 |  | [Bearbeiten](cards/4922_compliment.yml) |
-| 4923 | allouer | zuweisen, bewilligen | 15 |  | [Bearbeiten](cards/4923_allouer.yml) |
-| 4924 | scandaliser | skandalisieren | 16 |  | [Bearbeiten](cards/4924_scandaliser.yml) |
+| 4915 | voisinage | Nachbarschaft, Nähe | 22 |  | [Bearbeiten](cards/4915_voisinage.yml) |
+| 4916 | savoir-faire | Know-how | 11 |  | [Bearbeiten](cards/4916_savoir-faire.yml) |
+| 4917 | sévèrement | streng, hart | 14 |  | [Bearbeiten](cards/4917_sévèrement.yml) |
+| 4918 | écrasant | erdrückend, überwältigend | 19 |  | [Bearbeiten](cards/4918_écrasant.yml) |
+| 4919 | vendu | gekauft | 15 |  | [Bearbeiten](cards/4919_vendu.yml) |
+| 4920 | munition | Munition | 21 |  | [Bearbeiten](cards/4920_munition.yml) |
+| 4921 | capturer | einfangen, fassen | 16 |  | [Bearbeiten](cards/4921_capturer.yml) |
+| 4922 | compliment | Kompliment, Glückwunsch | 23 |  | [Bearbeiten](cards/4922_compliment.yml) |
+| 4923 | allouer | gewähren, bewilligen | 15 |  | [Bearbeiten](cards/4923_allouer.yml) |
+| 4924 | scandaliser | schockieren, empören | 16 |  | [Bearbeiten](cards/4924_scandaliser.yml) |
 | 4925 | cassette | Kassette | 19 |  | [Bearbeiten](cards/4925_cassette.yml) |
 | 4926 | résident | Bewohner, Anwohner | 19 |  | [Bearbeiten](cards/4926_résident.yml) |
-| 4927 | empresser | sich beeilen | 16 |  | [Bearbeiten](cards/4927_empresser.yml) |
+| 4927 | empresser | sich beeilen, sich eifrig bemühen | 16 |  | [Bearbeiten](cards/4927_empresser.yml) |
 | 4928 | inonder | überfluten | 29 |  | [Bearbeiten](cards/4928_inonder.yml) |
 | 4929 | réglementer | regulieren, reglementieren | 14 |  | [Bearbeiten](cards/4929_réglementer.yml) |
 | 4930 | sonder | untersuchen, sondieren | 26 |  | [Bearbeiten](cards/4930_sonder.yml) |

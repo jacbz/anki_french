@@ -34,7 +34,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 149.900 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1238 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 149.895 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1238 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -127,7 +127,7 @@ Insgesamt gibt es 5000 Karten mit 149.900 Beispielsätzen (durchschnittlich 30.0
 | 87 | dernier | letzter | 57 |  | [Bearbeiten](cards/0087_dernier.yml) |
 | 88 | venir | kommen | 64 | X | [Bearbeiten](cards/0088_venir.yml) |
 | 89 | pendant | während; Gegenstück | 53 | X | [Bearbeiten](cards/0089_pendant.yml) |
-| 90 | passer | verbringen, durchlaufen | 59 | X | [Bearbeiten](cards/0090_passer.yml) |
+| 90 | passer | verbringen, durchlaufen | 58 | X | [Bearbeiten](cards/0090_passer.yml) |
 | 91 | peu | wenig | 59 | X | [Bearbeiten](cards/0091_peu.yml) |
 | 92 | lequel | welche(-r/s); der/die/das [Relativpronomen] | 37 | X | [Bearbeiten](cards/0092_lequel.yml) |
 | 93 | suite | Folge, Fortsetzung | 61 |  | [Bearbeiten](cards/0093_suite.yml) |
