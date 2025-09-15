@@ -686,7 +686,12 @@ u {
   background: var(--highlight-color);
   color: white;
   padding: 0.1em 0.2em;
-  border-radius: 0.5em;
+  border-radius: 0.4em;
+
+  u {
+    color: white;
+    text-decoration: underline;
+  }
 }
 
 u {
