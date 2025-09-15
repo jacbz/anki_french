@@ -34,7 +34,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 149.895 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1264 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 149.895 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1278 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -67,10 +67,10 @@ Insgesamt gibt es 5000 Karten mit 149.895 Beispielsätzen (durchschnittlich 30.0
 | 27 | mettre | tun, legen, anziehen | 69 |  | [Bearbeiten](cards/0027_mettre.yml) |
 | 28 | autre | andere(-r/s) | 58 | X | [Bearbeiten](cards/0028_autre.yml) |
 | 29 | on | man, wir | 42 | X | [Bearbeiten](cards/0029_on.yml) |
-| 30 | mais | aber, sondern | 43 |  | [Bearbeiten](cards/0030_mais.yml) |
+| 30 | mais | aber, sondern | 43 | X | [Bearbeiten](cards/0030_mais.yml) |
 | 31 | nous | wir | 57 | X | [Bearbeiten](cards/0031_nous.yml) |
-| 32 | comme | wie, als | 60 |  | [Bearbeiten](cards/0032_comme.yml) |
-| 33 | ou | oder; sonst | 51 |  | [Bearbeiten](cards/0033_ou.yml) |
+| 32 | comme | wie, als | 60 | X | [Bearbeiten](cards/0032_comme.yml) |
+| 33 | ou | oder; sonst | 51 | X | [Bearbeiten](cards/0033_ou.yml) |
 | 34 | si | wenn, falls, ob; doch | 58 | X | [Bearbeiten](cards/0034_si.yml) |
 | 35 | leur | ihr(-e/s); ihnen | 45 | X | [Bearbeiten](cards/0035_leur.yml) |
 | 36 | y | dort, dahin | 27 | X | [Bearbeiten](cards/0036_y.yml) |
@@ -108,7 +108,7 @@ Insgesamt gibt es 5000 Karten mit 149.895 Beispielsätzen (durchschnittlich 30.0
 | 68 | falloir | müssen | 60 | X | [Bearbeiten](cards/0068_falloir.yml) |
 | 69 | voir | sehen | 58 | X | [Bearbeiten](cards/0069_voir.yml) |
 | 70 | quelque | einige(-r/s) | 43 | X | [Bearbeiten](cards/0070_quelque.yml) |
-| 71 | sans | ohne | 42 |  | [Bearbeiten](cards/0071_sans.yml) |
+| 71 | sans | ohne | 42 | X | [Bearbeiten](cards/0071_sans.yml) |
 | 72 | raison | Vernunft, Grund | 61 |  | [Bearbeiten](cards/0072_raison.yml) |
 | 73 | notre | unser | 22 | X | [Bearbeiten](cards/0073_notre.yml) |
 | 74 | dont | dessen, von denen | 37 | X | [Bearbeiten](cards/0074_dont.yml) |

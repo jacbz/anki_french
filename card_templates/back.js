@@ -379,8 +379,14 @@ function loadGrammar(id, into) {
   if (content) {
     content.innerHTML += `<div class="github"><a href="${grammar.github[id]}">Auf GitHub bearbeiten</a></div>`;
   }
+  // highlight lemmas that match the current word
   content.querySelectorAll(".marklemma").forEach(function (el) {
-    if (el.textContent !== word) {
+    const normalize = (s) => (s ? s.normalize() : s);
+    const text = el.textContent.trim();
+    const lemmaAttr =
+      el.dataset.lemma || el.getAttribute("data-lemma") || el.getAttribute("lemma");
+
+    if (normalize(text) !== normalize(word) && normalize(lemmaAttr) !== normalize(word)) {
       el.classList.remove("marklemma");
     }
   });

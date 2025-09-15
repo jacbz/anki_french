@@ -692,6 +692,10 @@ u {
     color: white;
     text-decoration: underline;
   }
+
+  &::before {
+    color: var(--highlight-color);
+  }
 }
 
 u {
@@ -760,6 +764,7 @@ u {
 
       > .section-content {
         margin-top: 0.5em;
+        margin-bottom: 0.5em;
       }
 
       &:has(.section) > .section-content {
@@ -997,6 +1002,17 @@ u {
   padding: 0 0.3em;
   border-radius: 0.5em;
   margin-bottom: 0.2em;
+  position: relative;
+
+  &::before {
+    content: attr(data-level);
+    position: absolute;
+    left: -10px;
+    top: -4px;
+    font-size: 11px;
+    font-weight: 400;
+    font-family: 'NittiGroteskCondensed';
+  }
 }
 
 sup {

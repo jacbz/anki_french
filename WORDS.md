@@ -29,10 +29,10 @@
 | 27 | mettre | tun, legen, anziehen | 69 |  | [Bearbeiten](cards/0027_mettre.yml) |
 | 28 | autre | andere(-r/s) | 58 | X | [Bearbeiten](cards/0028_autre.yml) |
 | 29 | on | man, wir | 42 | X | [Bearbeiten](cards/0029_on.yml) |
-| 30 | mais | aber, sondern | 43 |  | [Bearbeiten](cards/0030_mais.yml) |
+| 30 | mais | aber, sondern | 43 | X | [Bearbeiten](cards/0030_mais.yml) |
 | 31 | nous | wir | 57 | X | [Bearbeiten](cards/0031_nous.yml) |
-| 32 | comme | wie, als | 60 |  | [Bearbeiten](cards/0032_comme.yml) |
-| 33 | ou | oder; sonst | 51 |  | [Bearbeiten](cards/0033_ou.yml) |
+| 32 | comme | wie, als | 60 | X | [Bearbeiten](cards/0032_comme.yml) |
+| 33 | ou | oder; sonst | 51 | X | [Bearbeiten](cards/0033_ou.yml) |
 | 34 | si | wenn, falls, ob; doch | 58 | X | [Bearbeiten](cards/0034_si.yml) |
 | 35 | leur | ihr(-e/s); ihnen | 45 | X | [Bearbeiten](cards/0035_leur.yml) |
 | 36 | y | dort, dahin | 27 | X | [Bearbeiten](cards/0036_y.yml) |
@@ -70,7 +70,7 @@
 | 68 | falloir | müssen | 60 | X | [Bearbeiten](cards/0068_falloir.yml) |
 | 69 | voir | sehen | 58 | X | [Bearbeiten](cards/0069_voir.yml) |
 | 70 | quelque | einige(-r/s) | 43 | X | [Bearbeiten](cards/0070_quelque.yml) |
-| 71 | sans | ohne | 42 |  | [Bearbeiten](cards/0071_sans.yml) |
+| 71 | sans | ohne | 42 | X | [Bearbeiten](cards/0071_sans.yml) |
 | 72 | raison | Vernunft, Grund | 61 |  | [Bearbeiten](cards/0072_raison.yml) |
 | 73 | notre | unser | 22 | X | [Bearbeiten](cards/0073_notre.yml) |
 | 74 | dont | dessen, von denen | 37 | X | [Bearbeiten](cards/0074_dont.yml) |
@@ -144,7 +144,7 @@
 | 142 | tel | solch, so ein | 62 | X | [Bearbeiten](cards/0142_tel.yml) |
 | 143 | droit | Recht; gerade(-aus) | 60 | X | [Bearbeiten](cards/0143_droit.yml) |
 | 144 | question | Frage | 61 | X | [Bearbeiten](cards/0144_question.yml) |
-| 145 | donc | also, daher | 26 |  | [Bearbeiten](cards/0145_donc.yml) |
+| 145 | donc | also, daher | 26 | X | [Bearbeiten](cards/0145_donc.yml) |
 | 146 | quel | welche(-r/s) [+Bezugswort] | 41 | X | [Bearbeiten](cards/0146_quel.yml) |
 | 147 | général | allgemein | 63 |  | [Bearbeiten](cards/0147_général.yml) |
 | 148 | moment | Moment | 59 | X | [Bearbeiten](cards/0148_moment.yml) |
@@ -165,8 +165,8 @@
 | 163 | partir | verlassen, abfahren | 60 | X | [Bearbeiten](cards/0163_partir.yml) |
 | 164 | plan | Plan | 61 |  | [Bearbeiten](cards/0164_plan.yml) |
 | 165 | décider | entscheiden | 49 |  | [Bearbeiten](cards/0165_décider.yml) |
-| 166 | soit | entweder ... oder; einverstanden; d.h. | 25 |  | [Bearbeiten](cards/0166_soit.yml) |
-| 167 | ici | hier | 52 |  | [Bearbeiten](cards/0167_ici.yml) |
+| 166 | soit | entweder ... oder; einverstanden; d.h. | 25 | X | [Bearbeiten](cards/0166_soit.yml) |
+| 167 | ici | hier | 52 | X | [Bearbeiten](cards/0167_ici.yml) |
 | 168 | rien | nichts | 61 | X | [Bearbeiten](cards/0168_rien.yml) |
 | 169 | cours | Kurs; Lauf | 59 |  | [Bearbeiten](cards/0169_cours.yml) |
 | 170 | affaire | Angelegenheit, Sache | 57 |  | [Bearbeiten](cards/0170_affaire.yml) |
@@ -194,7 +194,7 @@
 | 192 | maintenant | jetzt | 24 |  | [Bearbeiten](cards/0192_maintenant.yml) |
 | 193 | pourquoi | warum | 36 | X | [Bearbeiten](cards/0193_pourquoi.yml) |
 | 194 | meilleur | besser, das Beste | 50 | X | [Bearbeiten](cards/0194_meilleur.yml) |
-| 195 | trop | zu (viel) | 55 |  | [Bearbeiten](cards/0195_trop.yml) |
+| 195 | trop | zu (viel) | 55 | X | [Bearbeiten](cards/0195_trop.yml) |
 | 196 | laisser | lassen | 61 |  | [Bearbeiten](cards/0196_laisser.yml) |
 | 197 | ordre | Ordnung, Befehl | 62 |  | [Bearbeiten](cards/0197_ordre.yml) |
 | 198 | devant | vor [örtlich] | 60 | X | [Bearbeiten](cards/0198_devant.yml) |
@@ -247,7 +247,7 @@
 | 245 | semaine | Woche | 31 | X | [Bearbeiten](cards/0245_semaine.yml) |
 | 246 | également | ebenfalls | 14 |  | [Bearbeiten](cards/0246_également.yml) |
 | 247 | ci | hier [Suffix] | 24 | X | [Bearbeiten](cards/0247_ci.yml) |
-| 248 | façon | Art, Weise; Arbeit | 59 |  | [Bearbeiten](cards/0248_façon.yml) |
+| 248 | façon | Art, Weise; Arbeit | 59 | X | [Bearbeiten](cards/0248_façon.yml) |
 | 249 | nombre | Anzahl, Zahl | 59 |  | [Bearbeiten](cards/0249_nombre.yml) |
 | 250 | perdre | verlieren | 60 |  | [Bearbeiten](cards/0250_perdre.yml) |
 | 251 | français | französisch; Franzose | 37 | X | [Bearbeiten](cards/0251_français.yml) |
@@ -320,7 +320,7 @@
 | 318 | détail | Einzelheit, Detail | 36 | X | [Bearbeiten](cards/0318_détail.yml) |
 | 319 | appartenir | gehören | 27 |  | [Bearbeiten](cards/0319_appartenir.yml) |
 | 320 | liberté | Freiheit | 62 |  | [Bearbeiten](cards/0320_liberté.yml) |
-| 321 | assez | genug, ziemlich | 40 |  | [Bearbeiten](cards/0321_assez.yml) |
+| 321 | assez | genug, ziemlich | 40 | X | [Bearbeiten](cards/0321_assez.yml) |
 | 322 | risquer | riskieren | 53 |  | [Bearbeiten](cards/0322_risquer.yml) |
 | 323 | chacun | jeder (Einzelne) | 23 | X | [Bearbeiten](cards/0323_chacun.yml) |
 | 324 | concerner | betreffen | 17 |  | [Bearbeiten](cards/0324_concerner.yml) |
@@ -350,7 +350,7 @@
 | 348 | tard | spät | 33 | X | [Bearbeiten](cards/0348_tard.yml) |
 | 349 | enfin | endlich, schließlich | 29 | X | [Bearbeiten](cards/0349_enfin.yml) |
 | 350 | différent | unterschiedlich | 23 | X | [Bearbeiten](cards/0350_différent.yml) |
-| 351 | sorte | Art, Sorte | 35 |  | [Bearbeiten](cards/0351_sorte.yml) |
+| 351 | sorte | Art, Sorte | 35 | X | [Bearbeiten](cards/0351_sorte.yml) |
 | 352 | cependant | jedoch, allerdings | 15 |  | [Bearbeiten](cards/0352_cependant.yml) |
 | 353 | sujet | Thema, Frage | 62 |  | [Bearbeiten](cards/0353_sujet.yml) |
 | 354 | importer | importieren | 51 | X | [Bearbeiten](cards/0354_importer.yml) |
@@ -403,9 +403,9 @@
 | 401 | objet | Objekt, Gegenstand | 57 |  | [Bearbeiten](cards/0401_objet.yml) |
 | 402 | unique | (←) einzig(-e/r/s), (→) einzigartig | 35 | X | [Bearbeiten](cards/0402_unique.yml) |
 | 403 | souhaiter | wünschen | 24 | X | [Bearbeiten](cards/0403_souhaiter.yml) |
-| 404 | afin | damit, um ... zu | 16 |  | [Bearbeiten](cards/0404_afin.yml) |
+| 404 | afin | damit, um ... zu | 16 | X | [Bearbeiten](cards/0404_afin.yml) |
 | 405 | peine | Mühe, Strafe; kaum | 62 |  | [Bearbeiten](cards/0405_peine.yml) |
-| 406 | malgré | trotz | 22 |  | [Bearbeiten](cards/0406_malgré.yml) |
+| 406 | malgré | trotz | 22 | X | [Bearbeiten](cards/0406_malgré.yml) |
 | 407 | période | Zeitraum, Periode | 53 | X | [Bearbeiten](cards/0407_période.yml) |
 | 408 | engager | anstellen, einstellen | 62 |  | [Bearbeiten](cards/0408_engager.yml) |
 | 409 | réaliser | verwirklichen | 42 |  | [Bearbeiten](cards/0409_réaliser.yml) |
@@ -3242,7 +3242,7 @@
 | 3240 | interface | Schnittstelle | 16 |  | [Bearbeiten](cards/3240_interface.yml) |
 | 3241 | administrateur | Verwalter, Geschäftsführer | 18 |  | [Bearbeiten](cards/3241_administrateur.yml) |
 | 3242 | doucement | sanft, langsam | 26 |  | [Bearbeiten](cards/3242_doucement.yml) |
-| 3243 | quoique | obwohl | 16 |  | [Bearbeiten](cards/3243_quoique.yml) |
+| 3243 | quoique | obwohl | 16 | X | [Bearbeiten](cards/3243_quoique.yml) |
 | 3244 | projection | Projektion, Vorstellung | 27 |  | [Bearbeiten](cards/3244_projection.yml) |
 | 3245 | treize | dreizehn | 31 | X | [Bearbeiten](cards/3245_treize.yml) |
 | 3246 | antenne | Antenne, Sender | 30 |  | [Bearbeiten](cards/3246_antenne.yml) |
@@ -4937,7 +4937,7 @@
 | 4935 | téléspectateur | Fernsehzuschauer | 11 |  | [Bearbeiten](cards/4935_téléspectateur.yml) |
 | 4936 | golf | Golf [Sport] | 15 | X | [Bearbeiten](cards/4936_golf.yml) |
 | 4937 | forestier | Wald-, Forst- | 17 |  | [Bearbeiten](cards/4937_forestier.yml) |
-| 4938 | hum | ähem, hüstel | 13 |  | [Bearbeiten](cards/4938_hum.yml) |
+| 4938 | hum | hm | 13 |  | [Bearbeiten](cards/4938_hum.yml) |
 | 4939 | ravager | verwüsten | 20 |  | [Bearbeiten](cards/4939_ravager.yml) |
 | 4940 | réveil | Wecker | 37 |  | [Bearbeiten](cards/4940_réveil.yml) |
 | 4941 | racial | Rassen- | 13 |  | [Bearbeiten](cards/4941_racial.yml) |
