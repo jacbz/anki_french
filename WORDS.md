@@ -128,12 +128,12 @@
 | 126 | enfant | Kind | 60 | X | [Bearbeiten](cards/0126_enfant.yml) |
 | 127 | cause | Ursache, Anliegen | 58 |  | [Bearbeiten](cards/0127_cause.yml) |
 | 128 | politique | Politik | 64 |  | [Bearbeiten](cards/0128_politique.yml) |
-| 129 | place | Platz | 59 | X | [Bearbeiten](cards/0129_place.yml) |
+| 129 | place | Platz | 58 | X | [Bearbeiten](cards/0129_place.yml) |
 | 130 | seulement | nur | 25 | X | [Bearbeiten](cards/0130_seulement.yml) |
 | 131 | moi | ich, mir, mich | 57 | X | [Bearbeiten](cards/0131_moi.yml) |
 | 132 | vie | Leben | 60 | X | [Bearbeiten](cards/0132_vie.yml) |
 | 133 | connaître | kennen, erfahren | 60 |  | [Bearbeiten](cards/0133_connaître.yml) |
-| 134 | jusque | bis | 52 | X | [Bearbeiten](cards/0134_jusque.yml) |
+| 134 | jusque | bis | 51 | X | [Bearbeiten](cards/0134_jusque.yml) |
 | 135 | croire | glauben | 57 |  | [Bearbeiten](cards/0135_croire.yml) |
 | 136 | homme | Mann | 61 | X | [Bearbeiten](cards/0136_homme.yml) |
 | 137 | cas | Fall | 61 |  | [Bearbeiten](cards/0137_cas.yml) |
@@ -151,7 +151,7 @@
 | 149 | entendre | hören, verstehen | 58 | X | [Bearbeiten](cards/0149_entendre.yml) |
 | 150 | beaucoup | viel | 43 | X | [Bearbeiten](cards/0150_beaucoup.yml) |
 | 151 | chaque | jede(-r/s) | 21 | X | [Bearbeiten](cards/0151_chaque.yml) |
-| 152 | jeune | jung | 58 | X | [Bearbeiten](cards/0152_jeune.yml) |
+| 152 | jeune | jung | 57 | X | [Bearbeiten](cards/0152_jeune.yml) |
 | 153 | travail | Arbeit | 60 |  | [Bearbeiten](cards/0153_travail.yml) |
 | 154 | femme | Frau | 51 | X | [Bearbeiten](cards/0154_femme.yml) |
 | 155 | attendre | warten, erwarten | 60 | X | [Bearbeiten](cards/0155_attendre.yml) |
