@@ -66,7 +66,7 @@
 | 64 | lui | er, ihm/ihr | 55 | X | [Bearbeiten](cards/0064_lui.yml) |
 | 65 | temps | Zeit; Wetter | 58 | X | [Bearbeiten](cards/0065_temps.yml) |
 | 66 | très | sehr | 38 |  | [Bearbeiten](cards/0066_très.yml) |
-| 67 | savoir | wissen | 59 |  | [Bearbeiten](cards/0067_savoir.yml) |
+| 67 | savoir | wissen | 59 | X | [Bearbeiten](cards/0067_savoir.yml) |
 | 68 | falloir | müssen | 60 | X | [Bearbeiten](cards/0068_falloir.yml) |
 | 69 | voir | sehen | 58 | X | [Bearbeiten](cards/0069_voir.yml) |
 | 70 | quelque | einige(-r/s) | 43 | X | [Bearbeiten](cards/0070_quelque.yml) |
@@ -94,7 +94,7 @@
 | 92 | lequel | welche(-r/s); der/die/das [Relativpronomen] | 37 | X | [Bearbeiten](cards/0092_lequel.yml) |
 | 93 | suite | Folge, Fortsetzung | 61 |  | [Bearbeiten](cards/0093_suite.yml) |
 | 94 | bon | gut | 62 | X | [Bearbeiten](cards/0094_bon.yml) |
-| 95 | comprendre | verstehen | 60 |  | [Bearbeiten](cards/0095_comprendre.yml) |
+| 95 | comprendre | verstehen | 60 | X | [Bearbeiten](cards/0095_comprendre.yml) |
 | 96 | depuis | seit | 46 | X | [Bearbeiten](cards/0096_depuis.yml) |
 | 97 | point | Punkt | 62 |  | [Bearbeiten](cards/0097_point.yml) |
 | 98 | ainsi | so, auf diese Weise | 30 | X | [Bearbeiten](cards/0098_ainsi.yml) |
@@ -115,7 +115,7 @@
 | 113 | continuer | fortsetzen | 38 |  | [Bearbeiten](cards/0113_continuer.yml) |
 | 114 | pays | Land | 59 |  | [Bearbeiten](cards/0114_pays.yml) |
 | 115 | trois | drei | 35 | X | [Bearbeiten](cards/0115_trois.yml) |
-| 116 | penser | denken | 61 |  | [Bearbeiten](cards/0116_penser.yml) |
+| 116 | penser | denken | 61 | X | [Bearbeiten](cards/0116_penser.yml) |
 | 117 | lieu | Ort | 62 | X | [Bearbeiten](cards/0117_lieu.yml) |
 | 118 | partie | Teil; Gebiet | 62 | X | [Bearbeiten](cards/0118_partie.yml) |
 | 119 | quand | wann | 48 | X | [Bearbeiten](cards/0119_quand.yml) |
@@ -155,7 +155,7 @@
 | 153 | travail | Arbeit | 60 |  | [Bearbeiten](cards/0153_travail.yml) |
 | 154 | femme | Frau | 51 | X | [Bearbeiten](cards/0154_femme.yml) |
 | 155 | attendre | warten, erwarten | 60 | X | [Bearbeiten](cards/0155_attendre.yml) |
-| 156 | remettre | übergeben, zurückstellen, verschieben | 60 |  | [Bearbeiten](cards/0156_remettre.yml) |
+| 156 | remettre | übergeben, zurückstellen, verschieben | 60 | X | [Bearbeiten](cards/0156_remettre.yml) |
 | 157 | appeler | (an-)rufen, nennen | 58 | X | [Bearbeiten](cards/0157_appeler.yml) |
 | 158 | permettre | ermöglichen, erlauben | 49 |  | [Bearbeiten](cards/0158_permettre.yml) |
 | 159 | occuper | besetzen; beschäftigen; in Anspruch nehmen | 58 |  | [Bearbeiten](cards/0159_occuper.yml) |
@@ -416,7 +416,7 @@
 | 414 | voix | Stimme | 61 | X | [Bearbeiten](cards/0414_voix.yml) |
 | 415 | terminer | beenden, abschließen | 48 |  | [Bearbeiten](cards/0415_terminer.yml) |
 | 416 | base | Basis | 58 |  | [Bearbeiten](cards/0416_base.yml) |
-| 417 | espérer | hoffen | 40 |  | [Bearbeiten](cards/0417_espérer.yml) |
+| 417 | espérer | hoffen | 40 | X | [Bearbeiten](cards/0417_espérer.yml) |
 | 418 | main | Hand | 60 | X | [Bearbeiten](cards/0418_main.yml) |
 | 419 | gros | groß, dick, schwer | 60 | X | [Bearbeiten](cards/0419_gros.yml) |
 | 420 | arrêter | anhalten, aufhören | 60 | X | [Bearbeiten](cards/0420_arrêter.yml) |
@@ -638,7 +638,7 @@
 | 636 | acheter | kaufen | 32 |  | [Bearbeiten](cards/0636_acheter.yml) |
 | 637 | justice | Gerechtigkeit | 51 |  | [Bearbeiten](cards/0637_justice.yml) |
 | 638 | production | Produktion | 46 | X | [Bearbeiten](cards/0638_production.yml) |
-| 639 | ignorer | nicht wissen, ignorieren | 39 |  | [Bearbeiten](cards/0639_ignorer.yml) |
+| 639 | ignorer | nicht wissen, ignorieren | 39 | X | [Bearbeiten](cards/0639_ignorer.yml) |
 | 640 | directeur | Direktor | 41 | X | [Bearbeiten](cards/0640_directeur.yml) |
 | 641 | santé | Gesundheit | 39 |  | [Bearbeiten](cards/0641_santé.yml) |
 | 642 | souffrir | leiden | 46 |  | [Bearbeiten](cards/0642_souffrir.yml) |
@@ -648,7 +648,7 @@
 | 646 | croissance | Wachstum | 23 |  | [Bearbeiten](cards/0646_croissance.yml) |
 | 647 | risque | Risiko | 45 |  | [Bearbeiten](cards/0647_risque.yml) |
 | 648 | arme | Waffe | 62 |  | [Bearbeiten](cards/0648_arme.yml) |
-| 649 | estimer | schätzen, bewerten | 38 |  | [Bearbeiten](cards/0649_estimer.yml) |
+| 649 | estimer | schätzen, bewerten | 38 | X | [Bearbeiten](cards/0649_estimer.yml) |
 | 650 | endroit | Stelle, Ort | 43 | X | [Bearbeiten](cards/0650_endroit.yml) |
 | 651 | comité | Ausschuss, Komitee | 24 | X | [Bearbeiten](cards/0651_comité.yml) |
 | 652 | impossible | unmöglich | 41 | X | [Bearbeiten](cards/0652_impossible.yml) |
@@ -729,7 +729,7 @@
 | 727 | accompagner | begleiten | 35 | X | [Bearbeiten](cards/0727_accompagner.yml) |
 | 728 | actuellement | aktuell, zurzeit | 13 |  | [Bearbeiten](cards/0728_actuellement.yml) |
 | 729 | union | Vereinigung, Einheit | 43 |  | [Bearbeiten](cards/0729_union.yml) |
-| 730 | supposer | annehmen, voraussetzen | 29 |  | [Bearbeiten](cards/0730_supposer.yml) |
+| 730 | supposer | annehmen, voraussetzen | 29 | X | [Bearbeiten](cards/0730_supposer.yml) |
 | 731 | fournir | bereitstellen, liefern | 43 | X | [Bearbeiten](cards/0731_fournir.yml) |
 | 732 | ceci | es, dies; [unbestimmtes Demonstrativpro.] | 20 | X | [Bearbeiten](cards/0732_ceci.yml) |
 | 733 | exiger | fordern, verlangen | 25 | X | [Bearbeiten](cards/0733_exiger.yml) |
@@ -1107,7 +1107,7 @@
 | 1105 | moindre | geringste(-r/s), kleinste(-r/s) | 27 |  | [Bearbeiten](cards/1105_moindre.yml) |
 | 1106 | convenir | passen, geeignet sein | 49 |  | [Bearbeiten](cards/1106_convenir.yml) |
 | 1107 | logique | Logik | 33 |  | [Bearbeiten](cards/1107_logique.yml) |
-| 1108 | examiner | prüfen, untersuchen | 23 |  | [Bearbeiten](cards/1108_examiner.yml) |
+| 1108 | examiner | prüfen, untersuchen | 23 | X | [Bearbeiten](cards/1108_examiner.yml) |
 | 1109 | soin | Sorgfalt, Pflege | 64 |  | [Bearbeiten](cards/1109_soin.yml) |
 | 1110 | mesurer | messen | 47 |  | [Bearbeiten](cards/1110_mesurer.yml) |
 | 1111 | traitement | Behandlung | 45 |  | [Bearbeiten](cards/1111_traitement.yml) |
@@ -1206,7 +1206,7 @@
 | 1204 | analyse | Analyse | 45 |  | [Bearbeiten](cards/1204_analyse.yml) |
 | 1205 | disponible | verfügbar | 26 | X | [Bearbeiten](cards/1205_disponible.yml) |
 | 1206 | regard | Blick | 44 |  | [Bearbeiten](cards/1206_regard.yml) |
-| 1207 | prévenir | benachrichtigen, warnen, vorbeugen | 33 |  | [Bearbeiten](cards/1207_prévenir.yml) |
+| 1207 | prévenir | benachrichtigen, warnen, vorbeugen | 33 | X | [Bearbeiten](cards/1207_prévenir.yml) |
 | 1208 | bientôt | bald | 18 |  | [Bearbeiten](cards/1208_bientôt.yml) |
 | 1209 | analyser | analysieren | 21 |  | [Bearbeiten](cards/1209_analyser.yml) |
 | 1210 | mariage | Hochzeit, Ehe | 42 | X | [Bearbeiten](cards/1210_mariage.yml) |
@@ -1235,7 +1235,7 @@
 | 1233 | rare | selten, außergewöhnlich | 42 | X | [Bearbeiten](cards/1233_rare.yml) |
 | 1234 | extraordinaire | außergewöhnlich, außerordentlich | 37 | X | [Bearbeiten](cards/1234_extraordinaire.yml) |
 | 1235 | dimanche | Sonntag | 28 | X | [Bearbeiten](cards/1235_dimanche.yml) |
-| 1236 | vérifier | überprüfen | 29 |  | [Bearbeiten](cards/1236_vérifier.yml) |
+| 1236 | vérifier | überprüfen | 29 | X | [Bearbeiten](cards/1236_vérifier.yml) |
 | 1237 | envie | Lust, Verlangen | 44 | X | [Bearbeiten](cards/1237_envie.yml) |
 | 1238 | enregistrer | verzeichnen | 32 |  | [Bearbeiten](cards/1238_enregistrer.yml) |
 | 1239 | moderne | modern | 33 | X | [Bearbeiten](cards/1239_moderne.yml) |
@@ -1355,7 +1355,7 @@
 | 1353 | totalement | vollständig, total | 13 |  | [Bearbeiten](cards/1353_totalement.yml) |
 | 1354 | gérer | verwalten, führen | 21 | X | [Bearbeiten](cards/1354_gérer.yml) |
 | 1355 | samedi | Samstag | 12 | X | [Bearbeiten](cards/1355_samedi.yml) |
-| 1356 | informer | informieren | 28 |  | [Bearbeiten](cards/1356_informer.yml) |
+| 1356 | informer | informieren | 28 | X | [Bearbeiten](cards/1356_informer.yml) |
 | 1357 | fou | verrückt | 60 | X | [Bearbeiten](cards/1357_fou.yml) |
 | 1358 | attacher | anhängen, anbinden | 60 |  | [Bearbeiten](cards/1358_attacher.yml) |
 | 1359 | renouveler | erneuern, verlängern | 44 |  | [Bearbeiten](cards/1359_renouveler.yml) |
@@ -2374,7 +2374,7 @@
 | 2372 | malheureux | unglücklich | 42 |  | [Bearbeiten](cards/2372_malheureux.yml) |
 | 2373 | numérique | digital; zahlenmäßig | 23 |  | [Bearbeiten](cards/2373_numérique.yml) |
 | 2374 | combattant | Kämpfer | 18 |  | [Bearbeiten](cards/2374_combattant.yml) |
-| 2375 | soupçonner | verdächtigen | 17 |  | [Bearbeiten](cards/2375_soupçonner.yml) |
+| 2375 | soupçonner | verdächtigen | 17 | X | [Bearbeiten](cards/2375_soupçonner.yml) |
 | 2376 | merde | Scheiße | 33 |  | [Bearbeiten](cards/2376_merde.yml) |
 | 2377 | entrepreneur | Unternehmer | 18 |  | [Bearbeiten](cards/2377_entrepreneur.yml) |
 | 2378 | exposition | Ausstellung | 42 |  | [Bearbeiten](cards/2378_exposition.yml) |
@@ -4201,7 +4201,7 @@
 | 4199 | exploit | (Helden-)tat, Leistung | 18 |  | [Bearbeiten](cards/4199_exploit.yml) |
 | 4200 | encourageant | ermutigend | 13 |  | [Bearbeiten](cards/4200_encourageant.yml) |
 | 4201 | climatique | Klima- | 17 |  | [Bearbeiten](cards/4201_climatique.yml) |
-| 4202 | aviser | benachrichtigen; unterstehen; sich einfallen lassen | 27 |  | [Bearbeiten](cards/4202_aviser.yml) |
+| 4202 | aviser | benachrichtigen; unterstehen; sich einfallen lassen | 27 | X | [Bearbeiten](cards/4202_aviser.yml) |
 | 4203 | épidémie | Seuche | 16 |  | [Bearbeiten](cards/4203_épidémie.yml) |
 | 4204 | alarme | Alarm, Aufregung | 21 |  | [Bearbeiten](cards/4204_alarme.yml) |
 | 4205 | parier | wetten | 26 |  | [Bearbeiten](cards/4205_parier.yml) |
