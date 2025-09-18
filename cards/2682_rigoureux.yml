@@ -7,7 +7,7 @@ Wortart: adj
 Wort mit Artikel: rigoureux
 Femininum / Plural: rigoureuse
 IPA: \ʁi.ɡu.ʁø\
-Definition: streng, genau
+Definition: streng, gründlich
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -96,4 +96,30 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>rigoureux</i>, <i>sévère</i> und <i>strict</i></div>
+    <div class="section-content">
+      <p><span class="fr">Rigoureux</span> bedeutet <span class="de">"streng"</span> oder <span class="de">"gewissenhaft"</span> und bezieht sich auf Genauigkeit, Präzision und methodische Herangehensweise.</p>
+      <div class="examples">
+        <div class="fr">Il faut appliquer une méthode rigoureuse dans cette recherche.</div>
+        <div class="de spoiler">Man muss bei dieser Forschung eine strenge Methode anwenden.</div>
+        <div class="fr">Son analyse rigoureuse a permis de découvrir l'erreur.</div>
+        <div class="de spoiler">Seine gewissenhafte Analyse ermöglichte es, den Fehler zu entdecken.</div>
+      </div>
+      <p><span class="fr">Sévère</span> (#1733) bedeutet <span class="de">"streng"</span> oder <span class="de">"hart"</span> und hat oft eine negative Konnotation von Härte oder mangelnder Nachsicht.</p>
+      <div class="examples">
+        <div class="fr">Le professeur est très sévère avec les élèves qui arrivent en retard.</div>
+        <div class="de spoiler">Der Lehrer ist sehr streng mit Schülern, die zu spät kommen.</div>
+        <div class="fr">Elle a reçu une punition sévère pour sa faute.</div>
+        <div class="de spoiler">Sie erhielt eine harte Strafe für ihren Fehler.</div>
+      </div>
+      <p><span class="fr">Strict</span> (#1859) bedeutet <span class="de">"strikt"</span> oder <span class="de">"genau"</span> und bezieht sich auf die genaue Einhaltung von Regeln oder Vorschriften.</p>
+      <div class="examples">
+        <div class="fr">Il respecte les règles de façon stricte.</div>
+        <div class="de spoiler">Er hält sich strikt an die Regeln.</div>
+        <div class="fr">Au sens strict du terme, ce n'est pas correct.</div>
+        <div class="de spoiler">Im strengen Sinne des Wortes ist das nicht korrekt.</div>
+      </div>
+    </div>
+  </div>
