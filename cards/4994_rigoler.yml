@@ -7,7 +7,7 @@ Wortart: vi
 Wort mit Artikel: rigoler
 Femininum / Plural: ''
 IPA: \ʁi.ɡɔ.le\
-Definition: lachen
+Definition: lachen; Spaß haben
 Register: ↘Sachtext
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -63,4 +63,28 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>rire</i> und <i>rigoler</i></div>
+    <div class="section-content">
+      <p><span class="fr">Rire</span> (#1193) bedeutet <span class="de">"lachen"</span> und ist das standardsprachliche, neutrale Verb für das Lachen. Es wird in allen Registern verwendet, von formell bis informell.</p>
+      <div class="examples">
+        <div class="fr">Elle a ri de bon cœur à cette blague.</div>
+        <div class="de spoiler">Sie hat herzlich über diesen Witz gelacht.</div>
+        <div class="fr">Il ne faut pas rire de ses malheurs.</div>
+        <div class="de spoiler">Man sollte nicht über sein Unglück lachen.</div>
+      </div>
+      <p><span class="fr">Rigoler</span> bedeutet ebenfalls <span class="de">"lachen"</span>, ist jedoch umgangssprachlicher und informeller. Es wird hauptsächlich in der gesprochenen Sprache verwendet und hat oft eine spielerischere Konnotation.</p>
+      <div class="examples">
+        <div class="fr">On a bien rigolé hier soir chez Pierre.</div>
+        <div class="de spoiler">Wir haben gestern Abend bei Pierre gut gelacht.</div>
+        <div class="fr">Tu rigoles ou tu es sérieux?</div>
+        <div class="de spoiler">Machst du Witze oder meinst du das ernst?</div>
+      </div>
+      <p><span class="fr">Rigoler</span> kann auch <span class="de">"Spaß haben"</span> oder <span class="de">"scherzen"</span> bedeuten, während <span class="fr">rire</span> sich spezifischer auf das Lachen als Handlung bezieht.</p>
+      <div class="examples">
+        <div class="fr">Les enfants ont rigolé toute la journée au parc.</div>
+        <div class="de spoiler">Die Kinder hatten den ganzen Tag im Park Spaß.</div>
+      </div>
+    </div>
+  </div>
