@@ -10,11 +10,8 @@ Hilf mit, das Deck **Französisch 5000** zu verbessern! Das Deck enthält die 50
 Zum Beispiel:
 
 - In den Beispielsätzen soll das jeweilige Wort mit einem \* markiert werden. In manchen Sätzen ist das falsche Wort markiert, oder es ist zu viel markiert (z.B. "\*Grundrecht\*" statt "Grund\*recht\*" für das Wort "droit").
-- Definitionen verbessern: Es gibt Karten, wo die Definition identisch ist mit einer anderen Karte. **[Hier](TODO.md) ist eine komplette Liste**. Hier sollten die Definitionen angepasst werden und eine Notiz hinzugefügt werden, in der erklärt wird, wie sich die Wörter unterscheiden ([Beispiel](cards/1952_bâtiment.yml)).
 - Die Grammatik-Bibliothek verbessern
-- Notizen zur Verwendung hinzufügen. Beispiele:
-  - [Um den Unterschied zu einem ähnlichen Wort zu erklären.](cards/1952_bâtiment.yml)
-  - [Wenn auf ein Wort keine Liaison folgt.](cards/0006_et.yml)
+- Notizen zur Verwendung hinzufügen
 - Allgemein: Fehler korrigieren
 
 ## How-To
@@ -34,7 +31,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 149.892 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1294 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 149.886 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1302 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -134,7 +131,7 @@ Insgesamt gibt es 5000 Karten mit 149.892 Beispielsätzen (durchschnittlich 30.0
 | 94 | bon | gut | 62 | X | [Bearbeiten](cards/0094_bon.yml) |
 | 95 | comprendre | verstehen | 60 | X | [Bearbeiten](cards/0095_comprendre.yml) |
 | 96 | depuis | seit | 46 | X | [Bearbeiten](cards/0096_depuis.yml) |
-| 97 | point | Punkt | 62 |  | [Bearbeiten](cards/0097_point.yml) |
+| 97 | point | Punkt | 61 |  | [Bearbeiten](cards/0097_point.yml) |
 | 98 | ainsi | so, auf diese Weise | 30 | X | [Bearbeiten](cards/0098_ainsi.yml) |
 | 99 | heure | Stunde, Uhrzeit | 58 | X | [Bearbeiten](cards/0099_heure.yml) |
 | 100 | rester | bleiben | 60 |  | [Bearbeiten](cards/0100_rester.yml) |
