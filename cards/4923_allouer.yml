@@ -7,7 +7,7 @@ Wortart: vt
 Wort mit Artikel: allouer
 Femininum / Plural: ''
 IPA: \a.lwe\
-Definition: gewähren, bewilligen
+Definition: zuteilen, bewilligen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -63,4 +63,24 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>octroyer</i> und <i>allouer</i></div>
+    <div class="section-content">
+      <p><span class="fr">Octroyer</span> (#4232) bedeutet <span class="de">"gewähren"</span> oder <span class="de">"bewilligen"</span> und wird verwendet, wenn eine Autorität oder Institution etwas offiziell zugesteht oder verleiht, oft als Gunst oder Privileg.</p>
+      <div class="examples">
+        <div class="fr">Le roi a octroyé une charte à la ville.</div>
+        <div class="de spoiler">Der König hat der Stadt eine Charte gewährt.</div>
+        <div class="fr">L'université lui a octroyé un doctorat honorifique.</div>
+        <div class="de spoiler">Die Universität hat ihm einen Ehrendoktor verliehen.</div>
+      </div>
+      <p><span class="fr">Allouer</span> bedeutet <span class="de">"zuteilen"</span> oder <span class="de">"bewilligen"</span> und bezieht sich auf die Verteilung von Ressourcen, Mitteln oder Zeit nach bestimmten Kriterien oder Bedürfnissen.</p>
+      <div class="examples">
+        <div class="fr">Le gouvernement a alloué un budget considérable à l'éducation.</div>
+        <div class="de spoiler">Die Regierung hat der Bildung ein beträchtliches Budget zugeteilt.</div>
+        <div class="fr">Il faut allouer plus de temps à cette tâche importante.</div>
+        <div class="de spoiler">Man muss dieser wichtigen Aufgabe mehr Zeit zuweisen.</div>
+      </div>
+      <p><span class="fr">Octroyer</span> hat eine feierlichere Konnotation und impliziert oft eine Autorität, die etwas Besonderes gewährt, während <span class="fr">allouer</span> neutraler ist und sich auf die praktische Verteilung von Ressourcen konzentriert.</p>
+    </div>
+  </div>
