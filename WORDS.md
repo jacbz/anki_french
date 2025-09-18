@@ -191,7 +191,7 @@
 | 189 | rapport | Bericht, Beziehung, Verhältnis | 60 |  | [Bearbeiten](cards/0189_rapport.yml) |
 | 190 | peut-être | vielleicht | 30 |  | [Bearbeiten](cards/0190_peut-être.yml) |
 | 191 | vue | Aussicht | 59 |  | [Bearbeiten](cards/0191_vue.yml) |
-| 192 | maintenant | jetzt | 24 |  | [Bearbeiten](cards/0192_maintenant.yml) |
+| 192 | maintenant | jetzt | 24 | X | [Bearbeiten](cards/0192_maintenant.yml) |
 | 193 | pourquoi | warum | 36 | X | [Bearbeiten](cards/0193_pourquoi.yml) |
 | 194 | meilleur | besser, das Beste | 50 | X | [Bearbeiten](cards/0194_meilleur.yml) |
 | 195 | trop | zu (viel) | 55 | X | [Bearbeiten](cards/0195_trop.yml) |
@@ -871,7 +871,7 @@
 | 869 | tellement | so sehr, derartig | 27 |  | [Bearbeiten](cards/0869_tellement.yml) |
 | 870 | espace | Platz, Raum | 62 |  | [Bearbeiten](cards/0870_espace.yml) |
 | 871 | demain | morgen | 26 | X | [Bearbeiten](cards/0871_demain.yml) |
-| 872 | hier | gestern | 21 |  | [Bearbeiten](cards/0872_hier.yml) |
+| 872 | hier | gestern | 21 | X | [Bearbeiten](cards/0872_hier.yml) |
 | 873 | confier | anvertrauen | 22 |  | [Bearbeiten](cards/0873_confier.yml) |
 | 874 | remarquer | bemerken | 35 | X | [Bearbeiten](cards/0874_remarquer.yml) |
 | 875 | égard | Achtung, Rücksicht | 30 |  | [Bearbeiten](cards/0875_égard.yml) |
@@ -4951,7 +4951,7 @@
 | 4949 | atroce | grauenhaft, fürchterlich | 19 |  | [Bearbeiten](cards/4949_atroce.yml) |
 | 4950 | civique | bürgerlich | 17 |  | [Bearbeiten](cards/4950_civique.yml) |
 | 4951 | ancrer | verankern | 17 |  | [Bearbeiten](cards/4951_ancrer.yml) |
-| 4952 | raccrocher | auflegen | 29 |  | [Bearbeiten](cards/4952_raccrocher.yml) |
+| 4952 | raccrocher | auflegen; aufhängen | 29 |  | [Bearbeiten](cards/4952_raccrocher.yml) |
 | 4953 | cirque | Zirkus | 26 |  | [Bearbeiten](cards/4953_cirque.yml) |
 | 4954 | législature | Legislaturperiode | 11 |  | [Bearbeiten](cards/4954_législature.yml) |
 | 4955 | audiovisuel | audiovisuell | 14 |  | [Bearbeiten](cards/4955_audiovisuel.yml) |
