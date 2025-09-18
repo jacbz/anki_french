@@ -55,7 +55,7 @@
 | 53 | aller | gehen | 61 | X | [Bearbeiten](cards/0053_aller.yml) |
 | 54 | cela | es, das [unbestimmtes Demonstrativpro.] | 26 | X | [Bearbeiten](cards/0054_cela.yml) |
 | 55 | entre | zwischen | 49 | X | [Bearbeiten](cards/0055_entre.yml) |
-| 56 | premier | erste(-r/s) | 61 |  | [Bearbeiten](cards/0056_premier.yml) |
+| 56 | premier | erste(-r/s) | 61 | X | [Bearbeiten](cards/0056_premier.yml) |
 | 57 | vouloir | wollen | 60 |  | [Bearbeiten](cards/0057_vouloir.yml) |
 | 58 | déjà | schon, bereits | 28 |  | [Bearbeiten](cards/0058_déjà.yml) |
 | 59 | grand | (←) bedeutungsvoll; (→) groß | 54 | X | [Bearbeiten](cards/0059_grand.yml) |
@@ -378,7 +378,7 @@
 | 376 | relever | (auf-)heben | 59 |  | [Bearbeiten](cards/0376_relever.yml) |
 | 377 | autant | so viel, gleich viel | 51 |  | [Bearbeiten](cards/0377_autant.yml) |
 | 378 | peuple | Volk | 40 |  | [Bearbeiten](cards/0378_peuple.yml) |
-| 379 | second | zweite [Platzierung]; Sekunde | 59 |  | [Bearbeiten](cards/0379_second.yml) |
+| 379 | second | zweite [Platzierung]; Sekunde | 59 | X | [Bearbeiten](cards/0379_second.yml) |
 | 380 | prochain | (←) nächste(-r/s); (→) kommend | 33 | X | [Bearbeiten](cards/0380_prochain.yml) |
 | 381 | particulier | besondere(-r/s), bestimmt | 55 | X | [Bearbeiten](cards/0381_particulier.yml) |
 | 382 | écrire | schreiben | 62 | X | [Bearbeiten](cards/0382_écrire.yml) |
@@ -1116,7 +1116,7 @@
 | 1114 | science | Wissenschaft | 48 |  | [Bearbeiten](cards/1114_science.yml) |
 | 1115 | individu | Person, Individuum | 20 |  | [Bearbeiten](cards/1115_individu.yml) |
 | 1116 | donnée | Daten | 23 |  | [Bearbeiten](cards/1116_donnée.yml) |
-| 1117 | demi | halb; Hälfte | 37 |  | [Bearbeiten](cards/1117_demi.yml) |
+| 1117 | demi | halb; Hälfte | 37 | X | [Bearbeiten](cards/1117_demi.yml) |
 | 1118 | combattre | kämpfen | 27 | X | [Bearbeiten](cards/1118_combattre.yml) |
 | 1119 | violent | gewalttätig, heftig | 38 | X | [Bearbeiten](cards/1119_violent.yml) |
 | 1120 | comporter | enthalten; sich benehmen | 23 |  | [Bearbeiten](cards/1120_comporter.yml) |
@@ -1532,7 +1532,7 @@
 | 1530 | soirée | Abend, Abendgesellschaft | 28 | X | [Bearbeiten](cards/1530_soirée.yml) |
 | 1531 | vol | Flug; Diebstahl | 62 | X | [Bearbeiten](cards/1531_vol.yml) |
 | 1532 | marcher | gehen, laufen | 61 | X | [Bearbeiten](cards/1532_marcher.yml) |
-| 1533 | tiers | Drittel, Dritter | 31 |  | [Bearbeiten](cards/1533_tiers.yml) |
+| 1533 | tiers | Drittel, Dritter | 31 | X | [Bearbeiten](cards/1533_tiers.yml) |
 | 1534 | mètre | Meter | 28 |  | [Bearbeiten](cards/1534_mètre.yml) |
 | 1535 | aborder | ansprechen, angehen | 30 |  | [Bearbeiten](cards/1535_aborder.yml) |
 | 1536 | occidental | westlich | 21 |  | [Bearbeiten](cards/1536_occidental.yml) |
@@ -1574,7 +1574,7 @@
 | 1572 | hausse | Anstieg, Anhebung | 27 |  | [Bearbeiten](cards/1572_hausse.yml) |
 | 1573 | mécanisme | Mechanismus | 20 | X | [Bearbeiten](cards/1573_mécanisme.yml) |
 | 1574 | traditionnel | traditionell | 18 |  | [Bearbeiten](cards/1574_traditionnel.yml) |
-| 1575 | quart | Viertel, Viertelstunde | 56 |  | [Bearbeiten](cards/1575_quart.yml) |
+| 1575 | quart | Viertel, Viertelstunde | 56 | X | [Bearbeiten](cards/1575_quart.yml) |
 | 1576 | approcher | sich nähern, annähern | 46 | X | [Bearbeiten](cards/1576_approcher.yml) |
 | 1577 | trafic | Verkehr, (Schwarz-)handel | 35 |  | [Bearbeiten](cards/1577_trafic.yml) |
 | 1578 | catholique | katholisch | 20 | X | [Bearbeiten](cards/1578_catholique.yml) |
@@ -1602,7 +1602,7 @@
 | 1600 | parfait | perfekt | 37 |  | [Bearbeiten](cards/1600_parfait.yml) |
 | 1601 | résumer | zusammenfassen | 23 |  | [Bearbeiten](cards/1601_résumer.yml) |
 | 1602 | prévision | Vorhersehen, Erwartung | 24 | X | [Bearbeiten](cards/1602_prévision.yml) |
-| 1603 | quatrième | vierte(-r/s) | 23 |  | [Bearbeiten](cards/1603_quatrième.yml) |
+| 1603 | quatrième | vierte(-r/s) | 23 | X | [Bearbeiten](cards/1603_quatrième.yml) |
 | 1604 | fenêtre | Fenster | 31 |  | [Bearbeiten](cards/1604_fenêtre.yml) |
 | 1605 | incapable | unfähig | 25 | X | [Bearbeiten](cards/1605_incapable.yml) |
 | 1606 | hésiter | zögern | 28 |  | [Bearbeiten](cards/1606_hésiter.yml) |
@@ -2029,7 +2029,7 @@
 | 2027 | secondaire | Neben- | 34 |  | [Bearbeiten](cards/2027_secondaire.yml) |
 | 2028 | reporter | zurückbringen, verschieben, [auf jmd] richten | 41 |  | [Bearbeiten](cards/2028_reporter.yml) |
 | 2029 | partisan | Befürworter | 26 | X | [Bearbeiten](cards/2029_partisan.yml) |
-| 2030 | cinquième | fünfte(-r/s) | 27 |  | [Bearbeiten](cards/2030_cinquième.yml) |
+| 2030 | cinquième | fünfte(-r/s) | 27 | X | [Bearbeiten](cards/2030_cinquième.yml) |
 | 2031 | distinction | Unterscheidung; Auszeichnung | 27 |  | [Bearbeiten](cards/2031_distinction.yml) |
 | 2032 | impact | (Aus-)wirkung; Einschlag | 21 |  | [Bearbeiten](cards/2032_impact.yml) |
 | 2033 | magazine | Magazin | 22 |  | [Bearbeiten](cards/2033_magazine.yml) |
@@ -3123,7 +3123,7 @@
 | 3121 | lac | See | 22 | X | [Bearbeiten](cards/3121_lac.yml) |
 | 3122 | souhait | Wunsch | 19 |  | [Bearbeiten](cards/3122_souhait.yml) |
 | 3123 | prévaloir | vorherrschen, durchsetzen | 23 |  | [Bearbeiten](cards/3123_prévaloir.yml) |
-| 3124 | sixième | sechste(-r/s) | 21 |  | [Bearbeiten](cards/3124_sixième.yml) |
+| 3124 | sixième | sechste(-r/s) | 21 | X | [Bearbeiten](cards/3124_sixième.yml) |
 | 3125 | enveloppe | Umschlag, Hülle | 31 |  | [Bearbeiten](cards/3125_enveloppe.yml) |
 | 3126 | extension | (Aus-)dehnung, Erweiterung | 29 |  | [Bearbeiten](cards/3126_extension.yml) |
 | 3127 | effondrer | zusammenbrechen, einstürzen | 26 |  | [Bearbeiten](cards/3127_effondrer.yml) |
@@ -3880,7 +3880,7 @@
 | 3878 | confession | Beichte, Bekenntnis | 23 |  | [Bearbeiten](cards/3878_confession.yml) |
 | 3879 | suspens | offen; Spannung | 16 |  | [Bearbeiten](cards/3879_suspens.yml) |
 | 3880 | dégradation | Verschlechterung, Zerstörung | 20 |  | [Bearbeiten](cards/3880_dégradation.yml) |
-| 3881 | vingtième | zwanzigste(-r/s) | 19 |  | [Bearbeiten](cards/3881_vingtième.yml) |
+| 3881 | vingtième | zwanzigste(-r/s) | 19 | X | [Bearbeiten](cards/3881_vingtième.yml) |
 | 3882 | agenda | (Termin-)kalender | 16 | X | [Bearbeiten](cards/3882_agenda.yml) |
 | 3883 | grand-mère | Großmutter | 15 | X | [Bearbeiten](cards/3883_grand-mère.yml) |
 | 3884 | phare | Scheinwerfer | 25 |  | [Bearbeiten](cards/3884_phare.yml) |
@@ -3996,7 +3996,7 @@
 | 3994 | archives | Archiv | 19 |  | [Bearbeiten](cards/3994_archives.yml) |
 | 3995 | honteux | beschämend, schändlich | 29 |  | [Bearbeiten](cards/3995_honteux.yml) |
 | 3996 | rapporteur | Berichterstatter | 17 |  | [Bearbeiten](cards/3996_rapporteur.yml) |
-| 3997 | dix-neuvième | neunzehnte(-r/s) | 16 |  | [Bearbeiten](cards/3997_dix-neuvième.yml) |
+| 3997 | dix-neuvième | neunzehnte(-r/s) | 16 | X | [Bearbeiten](cards/3997_dix-neuvième.yml) |
 | 3998 | indemnisation | Schadensersatz | 16 |  | [Bearbeiten](cards/3998_indemnisation.yml) |
 | 3999 | harceler | belästigen, bedrängen | 19 | X | [Bearbeiten](cards/3999_harceler.yml) |
 | 4000 | leadership | Führungsposition | 13 |  | [Bearbeiten](cards/4000_leadership.yml) |
@@ -4027,7 +4027,7 @@
 | 4025 | ambiance | Stimmung, Atmosphäre | 21 |  | [Bearbeiten](cards/4025_ambiance.yml) |
 | 4026 | coopérer | zusammenarbeiten, zusammenwirken | 14 | X | [Bearbeiten](cards/4026_coopérer.yml) |
 | 4027 | bus | Bus | 17 | X | [Bearbeiten](cards/4027_bus.yml) |
-| 4028 | septième | siebte(-r/s) | 21 |  | [Bearbeiten](cards/4028_septième.yml) |
+| 4028 | septième | siebte(-r/s) | 21 | X | [Bearbeiten](cards/4028_septième.yml) |
 | 4029 | façade | Fassade | 21 |  | [Bearbeiten](cards/4029_façade.yml) |
 | 4030 | charmant | charmant, bezaubernd | 22 |  | [Bearbeiten](cards/4030_charmant.yml) |
 | 4031 | marginal | Rand-; Außenseiter | 28 |  | [Bearbeiten](cards/4031_marginal.yml) |
@@ -4601,7 +4601,7 @@
 | 4599 | amer | bitter | 26 |  | [Bearbeiten](cards/4599_amer.yml) |
 | 4600 | orchestre | Orchester | 32 |  | [Bearbeiten](cards/4600_orchestre.yml) |
 | 4601 | foncier | Grund-; grundlegend | 22 |  | [Bearbeiten](cards/4601_foncier.yml) |
-| 4602 | dixième | zehnte(-r/s) | 20 |  | [Bearbeiten](cards/4602_dixième.yml) |
+| 4602 | dixième | zehnte(-r/s) | 20 | X | [Bearbeiten](cards/4602_dixième.yml) |
 | 4603 | est | Osten | 31 |  | [Bearbeiten](cards/4603_est.yml) |
 | 4604 | envelopper | einwickeln, umhüllen | 32 |  | [Bearbeiten](cards/4604_envelopper.yml) |
 | 4605 | troublant | verwirrend, beunruhigend | 18 |  | [Bearbeiten](cards/4605_troublant.yml) |
@@ -4777,7 +4777,7 @@
 | 4775 | tube | Röhre, Tube | 32 |  | [Bearbeiten](cards/4775_tube.yml) |
 | 4776 | coffre | Truhe; Kofferraum | 23 |  | [Bearbeiten](cards/4776_coffre.yml) |
 | 4777 | intimider | einschüchtern | 15 |  | [Bearbeiten](cards/4777_intimider.yml) |
-| 4778 | huitième | achte(-r/s) | 23 |  | [Bearbeiten](cards/4778_huitième.yml) |
+| 4778 | huitième | achte(-r/s) | 23 | X | [Bearbeiten](cards/4778_huitième.yml) |
 | 4779 | forger | fälschen, schmieden | 27 |  | [Bearbeiten](cards/4779_forger.yml) |
 | 4780 | périr | umkommen, zugrunde gehen | 21 |  | [Bearbeiten](cards/4780_périr.yml) |
 | 4781 | notoire | offenkundig, notorisch | 16 |  | [Bearbeiten](cards/4781_notoire.yml) |

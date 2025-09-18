@@ -31,7 +31,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 149.877 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1302 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 149.877 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1315 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -90,7 +90,7 @@ Insgesamt gibt es 5000 Karten mit 149.877 Beispielsätzen (durchschnittlich 30.0
 | 53 | aller | gehen | 61 | X | [Bearbeiten](cards/0053_aller.yml) |
 | 54 | cela | es, das [unbestimmtes Demonstrativpro.] | 26 | X | [Bearbeiten](cards/0054_cela.yml) |
 | 55 | entre | zwischen | 49 | X | [Bearbeiten](cards/0055_entre.yml) |
-| 56 | premier | erste(-r/s) | 61 |  | [Bearbeiten](cards/0056_premier.yml) |
+| 56 | premier | erste(-r/s) | 61 | X | [Bearbeiten](cards/0056_premier.yml) |
 | 57 | vouloir | wollen | 60 |  | [Bearbeiten](cards/0057_vouloir.yml) |
 | 58 | déjà | schon, bereits | 28 |  | [Bearbeiten](cards/0058_déjà.yml) |
 | 59 | grand | (←) bedeutungsvoll; (→) groß | 54 | X | [Bearbeiten](cards/0059_grand.yml) |
