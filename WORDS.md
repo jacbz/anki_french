@@ -123,7 +123,7 @@
 | 121 | contre | gegen | 57 |  | [Bearbeiten](cards/0121_contre.yml) |
 | 122 | sous | unter | 62 | X | [Bearbeiten](cards/0122_sous.yml) |
 | 123 | côté | Seite | 61 | X | [Bearbeiten](cards/0123_côté.yml) |
-| 124 | ensemble | zusammen, gemeinsam | 54 | X | [Bearbeiten](cards/0124_ensemble.yml) |
+| 124 | ensemble | zusammen, gemeinsam; Gesamtheit | 54 | X | [Bearbeiten](cards/0124_ensemble.yml) |
 | 125 | chose | Sache, Ding | 62 | X | [Bearbeiten](cards/0125_chose.yml) |
 | 126 | enfant | Kind | 60 | X | [Bearbeiten](cards/0126_enfant.yml) |
 | 127 | cause | Ursache, Anliegen | 58 |  | [Bearbeiten](cards/0127_cause.yml) |
@@ -2684,7 +2684,7 @@
 | 2682 | rigoureux | streng, gründlich | 26 | X | [Bearbeiten](cards/2682_rigoureux.yml) |
 | 2683 | mentir | lügen | 26 |  | [Bearbeiten](cards/2683_mentir.yml) |
 | 2684 | fréquent | häufig | 15 |  | [Bearbeiten](cards/2684_fréquent.yml) |
-| 2685 | œuf | Ei | 47 | X | [Bearbeiten](cards/2685_œuf.yml) |
+| 2685 | œuf | Ei | 46 | X | [Bearbeiten](cards/2685_œuf.yml) |
 | 2686 | ambassadeur | Botschafter | 18 |  | [Bearbeiten](cards/2686_ambassadeur.yml) |
 | 2687 | observateur | Beobachter | 20 | X | [Bearbeiten](cards/2687_observateur.yml) |
 | 2688 | revêtir | beschichten; [Form] annehmen; bekleiden | 35 |  | [Bearbeiten](cards/2688_revêtir.yml) |
@@ -2715,7 +2715,7 @@
 | 2713 | excellence | Erstklassigkeit | 20 |  | [Bearbeiten](cards/2713_excellence.yml) |
 | 2714 | apparence | (An-)schein, Anblick | 25 |  | [Bearbeiten](cards/2714_apparence.yml) |
 | 2715 | oriental | östlich, orientalisch | 20 | X | [Bearbeiten](cards/2715_oriental.yml) |
-| 2716 | écriture | Schrift, Schreibung | 42 |  | [Bearbeiten](cards/2716_écriture.yml) |
+| 2716 | écriture | Schrift, Schreibung | 41 |  | [Bearbeiten](cards/2716_écriture.yml) |
 | 2717 | parcours | Strecke | 19 |  | [Bearbeiten](cards/2717_parcours.yml) |
 | 2718 | républicain | Republikaner | 21 | X | [Bearbeiten](cards/2718_républicain.yml) |
 | 2719 | embarquer | einsteigen, einschiffen | 37 |  | [Bearbeiten](cards/2719_embarquer.yml) |
@@ -2880,7 +2880,7 @@
 | 2878 | axe | Achse | 32 |  | [Bearbeiten](cards/2878_axe.yml) |
 | 2879 | chasseur | Jäger | 29 | X | [Bearbeiten](cards/2879_chasseur.yml) |
 | 2880 | chéri | Schatz, Liebling | 16 |  | [Bearbeiten](cards/2880_chéri.yml) |
-| 2881 | peinture | Malerei, Farbe | 49 |  | [Bearbeiten](cards/2881_peinture.yml) |
+| 2881 | peinture | Malerei, Farbe | 48 |  | [Bearbeiten](cards/2881_peinture.yml) |
 | 2882 | déchets | Abfall | 31 |  | [Bearbeiten](cards/2882_déchets.yml) |
 | 2883 | siéger | sitzen, tagen | 22 |  | [Bearbeiten](cards/2883_siéger.yml) |
 | 2884 | grand-chose | [verneint] nicht viel, nichts Besonderes | 15 |  | [Bearbeiten](cards/2884_grand-chose.yml) |
@@ -2928,7 +2928,7 @@
 | 2926 | rayon | Strahl; Abteilung | 60 | X | [Bearbeiten](cards/2926_rayon.yml) |
 | 2927 | lèvre | Lippe | 33 | X | [Bearbeiten](cards/2927_lèvre.yml) |
 | 2928 | promener | spazieren | 29 |  | [Bearbeiten](cards/2928_promener.yml) |
-| 2929 | boulot | Job, Arbeit | 21 |  | [Bearbeiten](cards/2929_boulot.yml) |
+| 2929 | boulot | Job, Arbeit | 20 |  | [Bearbeiten](cards/2929_boulot.yml) |
 | 2930 | correctement | korrekt, richtig | 15 |  | [Bearbeiten](cards/2930_correctement.yml) |
 | 2931 | colonne | Säule, Spalte; Reihe | 41 |  | [Bearbeiten](cards/2931_colonne.yml) |
 | 2932 | arranger | ordnen, regeln | 58 |  | [Bearbeiten](cards/2932_arranger.yml) |
@@ -3254,7 +3254,7 @@
 | 3252 | décret | Erlass, Verordnung | 18 |  | [Bearbeiten](cards/3252_décret.yml) |
 | 3253 | écrit | Schrift(-stück) | 30 |  | [Bearbeiten](cards/3253_écrit.yml) |
 | 3254 | suggestion | Vorschlag, Anregung | 13 | X | [Bearbeiten](cards/3254_suggestion.yml) |
-| 3255 | queue | Schwanz; (Warte-)schlange | 62 |  | [Bearbeiten](cards/3255_queue.yml) |
+| 3255 | queue | Schwanz; (Warte-)schlange | 60 |  | [Bearbeiten](cards/3255_queue.yml) |
 | 3256 | durement | heftig, hart | 18 |  | [Bearbeiten](cards/3256_durement.yml) |
 | 3257 | applaudir | klatschen, Beifall spenden | 22 |  | [Bearbeiten](cards/3257_applaudir.yml) |
 | 3258 | sucre | Zucker | 29 | X | [Bearbeiten](cards/3258_sucre.yml) |
@@ -3358,7 +3358,7 @@
 | 3356 | spécialité | Spezialität | 22 | X | [Bearbeiten](cards/3356_spécialité.yml) |
 | 3357 | cruel | grausam | 30 |  | [Bearbeiten](cards/3357_cruel.yml) |
 | 3358 | démission | Rücktritt | 17 |  | [Bearbeiten](cards/3358_démission.yml) |
-| 3359 | quatorze | vierzehn | 27 | X | [Bearbeiten](cards/3359_quatorze.yml) |
+| 3359 | quatorze | vierzehn | 26 | X | [Bearbeiten](cards/3359_quatorze.yml) |
 | 3360 | redouter | fürchten, befürchten | 18 | X | [Bearbeiten](cards/3360_redouter.yml) |
 | 3361 | médaille | Medaille | 25 |  | [Bearbeiten](cards/3361_médaille.yml) |
 | 3362 | célibataire | single | 17 |  | [Bearbeiten](cards/3362_célibataire.yml) |
@@ -3489,10 +3489,10 @@
 | 3487 | hebdomadaire | wöchentlich; Wochenzeitschrift | 20 |  | [Bearbeiten](cards/3487_hebdomadaire.yml) |
 | 3488 | approbation | Zustimmung, Anerkennung | 15 |  | [Bearbeiten](cards/3488_approbation.yml) |
 | 3489 | protestant | Protestant | 17 |  | [Bearbeiten](cards/3489_protestant.yml) |
-| 3490 | faisceau | Strahl, Bündel | 35 |  | [Bearbeiten](cards/3490_faisceau.yml) |
+| 3490 | faisceau | Strahl, Bündel | 34 |  | [Bearbeiten](cards/3490_faisceau.yml) |
 | 3491 | regagner | zurückgewinnen, zurückkehren | 19 |  | [Bearbeiten](cards/3491_regagner.yml) |
 | 3492 | dégât | Schäden | 21 | X | [Bearbeiten](cards/3492_dégât.yml) |
-| 3493 | pilier | Stütze, Pfeiler | 23 |  | [Bearbeiten](cards/3493_pilier.yml) |
+| 3493 | pilier | Stütze, Pfeiler | 22 |  | [Bearbeiten](cards/3493_pilier.yml) |
 | 3494 | animateur | Moderator, Betreuer | 18 |  | [Bearbeiten](cards/3494_animateur.yml) |
 | 3495 | multinational | multinational | 12 |  | [Bearbeiten](cards/3495_multinational.yml) |
 | 3496 | méfier | sich in Acht nehmen, misstrauen | 17 |  | [Bearbeiten](cards/3496_méfier.yml) |
