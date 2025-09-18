@@ -7,7 +7,7 @@ Wortart: vt, vr
 Wort mit Artikel: provoquer
 Femininum / Plural: ''
 IPA: \pʁɔ.vɔ.ke\
-Definition: herausfordern, provozieren
+Definition: herausfordern, hervorrufen
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -96,4 +96,23 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>causer</i> und <i>provoquer</i></div>
+    <div class="section-content">
+      <p><span class="fr">Causer</span> (#1089) bedeutet <span class="de">"verursachen"</span> im allgemeinen Sinne und wird für die meisten Ursache-Wirkungs-Beziehungen verwendet. Es ist das neutralste der drei Verben.</p>
+      <div class="examples">
+        <div class="fr">La pluie a causé des inondations dans la région.</div>
+        <div class="de spoiler">Der Regen hat Überschwemmungen in der Region verursacht.</div>
+        <div class="fr">Son imprudence a causé l'accident.</div>
+        <div class="de spoiler">Seine Unvorsichtigkeit hat den Unfall verursacht.</div>
+      </div>
+      <p><span class="fr">Provoquer</span> bedeutet <span class="de">"hervorrufen"</span> oder <span class="de">"auslösen"</span> und impliziert oft eine bewusste oder direkte Verursachung. Es kann auch emotionale Reaktionen beschreiben.</p>
+      <div class="examples">
+        <div class="fr">Ses paroles ont provoqué une vive réaction.</div>
+        <div class="de spoiler">Seine Worte haben eine heftige Reaktion hervorgerufen.</div>
+        <div class="fr">Il a provoqué la bagarre intentionnellement.</div>
+        <div class="de spoiler">Er hat die Schlägerei absichtlich provoziert.</div>
+      </div>
+    </div>
+  </div>
