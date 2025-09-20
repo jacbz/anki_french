@@ -263,7 +263,7 @@
 | 261 | économique | preiswert; Wirtschaft- | 27 |  | [Bearbeiten](cards/0261_économique.yml) |
 | 262 | mesure | Maß, Messung | 59 | X | [Bearbeiten](cards/0262_mesure.yml) |
 | 263 | histoire | Geschichte | 63 | X | [Bearbeiten](cards/0263_histoire.yml) |
-| 264 | haut | hoch; Höhe | 61 |  | [Bearbeiten](cards/0264_haut.yml) |
+| 264 | haut | hoch; Höhe | 61 | X | [Bearbeiten](cards/0264_haut.yml) |
 | 265 | ensuite | anschließend, danach | 17 |  | [Bearbeiten](cards/0265_ensuite.yml) |
 | 266 | guerre | Krieg | 61 |  | [Bearbeiten](cards/0266_guerre.yml) |
 | 267 | loi | Gesetz | 63 |  | [Bearbeiten](cards/0267_loi.yml) |
@@ -864,7 +864,7 @@
 | 862 | élection | Wahl(-gang) | 25 | X | [Bearbeiten](cards/0862_élection.yml) |
 | 863 | usage | Gebrauch | 59 |  | [Bearbeiten](cards/0863_usage.yml) |
 | 864 | conflit | Konflikt | 28 |  | [Bearbeiten](cards/0864_conflit.yml) |
-| 865 | hors | außerhalb | 61 |  | [Bearbeiten](cards/0865_hors.yml) |
+| 865 | hors | außerhalb | 61 | X | [Bearbeiten](cards/0865_hors.yml) |
 | 866 | enquête | Untersuchung, Ermittlung | 36 |  | [Bearbeiten](cards/0866_enquête.yml) |
 | 867 | terrain | Gelände | 47 |  | [Bearbeiten](cards/0867_terrain.yml) |
 | 868 | mars | März | 12 | X | [Bearbeiten](cards/0868_mars.yml) |
@@ -1571,7 +1571,7 @@
 | 1569 | patient | Patient; geduldig | 21 |  | [Bearbeiten](cards/1569_patient.yml) |
 | 1570 | notion | Begriff, Vorstellung | 22 |  | [Bearbeiten](cards/1570_notion.yml) |
 | 1571 | siège | Sitz, Platz | 55 |  | [Bearbeiten](cards/1571_siège.yml) |
-| 1572 | hausse | Anstieg, Anhebung | 27 |  | [Bearbeiten](cards/1572_hausse.yml) |
+| 1572 | hausse | Anstieg, Anhebung | 27 | X | [Bearbeiten](cards/1572_hausse.yml) |
 | 1573 | mécanisme | Mechanismus | 20 | X | [Bearbeiten](cards/1573_mécanisme.yml) |
 | 1574 | traditionnel | traditionell | 18 |  | [Bearbeiten](cards/1574_traditionnel.yml) |
 | 1575 | quart | Viertel, Viertelstunde | 56 | X | [Bearbeiten](cards/1575_quart.yml) |
@@ -1652,7 +1652,7 @@
 | 1650 | instrument | Instrument | 25 |  | [Bearbeiten](cards/1650_instrument.yml) |
 | 1651 | indépendance | Unabhängigkeit | 26 |  | [Bearbeiten](cards/1651_indépendance.yml) |
 | 1652 | tort | Unrecht, Fehler | 42 |  | [Bearbeiten](cards/1652_tort.yml) |
-| 1653 | hauteur | Höhe | 47 |  | [Bearbeiten](cards/1653_hauteur.yml) |
+| 1653 | hauteur | Höhe | 47 | X | [Bearbeiten](cards/1653_hauteur.yml) |
 | 1654 | critiquer | kritisieren | 16 |  | [Bearbeiten](cards/1654_critiquer.yml) |
 | 1655 | attaque | Angriff | 34 |  | [Bearbeiten](cards/1655_attaque.yml) |
 | 1656 | assurance | Versicherung | 41 |  | [Bearbeiten](cards/1656_assurance.yml) |
@@ -1882,7 +1882,7 @@
 | 1880 | richesse | Reichtum, Fülle | 41 |  | [Bearbeiten](cards/1880_richesse.yml) |
 | 1881 | caisse | Kasse; Kasten | 46 |  | [Bearbeiten](cards/1881_caisse.yml) |
 | 1882 | hasard | Zufall | 48 | X | [Bearbeiten](cards/1882_hasard.yml) |
-| 1883 | héros | Held | 28 |  | [Bearbeiten](cards/1883_héros.yml) |
+| 1883 | héros | Held | 28 | X | [Bearbeiten](cards/1883_héros.yml) |
 | 1884 | oreille | Ohr | 60 | X | [Bearbeiten](cards/1884_oreille.yml) |
 | 1885 | incident | Vorfall, Zwischenfall | 29 |  | [Bearbeiten](cards/1885_incident.yml) |
 | 1886 | café | Kaffee | 50 | X | [Bearbeiten](cards/1886_café.yml) |
@@ -1942,7 +1942,7 @@
 | 1940 | poche | Tasche | 53 | X | [Bearbeiten](cards/1940_poche.yml) |
 | 1941 | affronter | sich stellen, gegenübertreten | 21 | X | [Bearbeiten](cards/1941_affronter.yml) |
 | 1942 | éclater | platzen, explodieren, ausbrechen | 54 |  | [Bearbeiten](cards/1942_éclater.yml) |
-| 1943 | honte | Scham | 45 |  | [Bearbeiten](cards/1943_honte.yml) |
+| 1943 | honte | Scham | 45 | X | [Bearbeiten](cards/1943_honte.yml) |
 | 1944 | faiblesse | Schwäche | 40 |  | [Bearbeiten](cards/1944_faiblesse.yml) |
 | 1945 | fédération | Verband | 17 |  | [Bearbeiten](cards/1945_fédération.yml) |
 | 1946 | presser | drücken; beschleunigen; drängen | 61 |  | [Bearbeiten](cards/1946_presser.yml) |
@@ -2276,7 +2276,7 @@
 | 2274 | zéro | Null | 46 | X | [Bearbeiten](cards/2274_zéro.yml) |
 | 2275 | drame | Drama | 22 |  | [Bearbeiten](cards/2275_drame.yml) |
 | 2276 | visible | sichtbar | 25 |  | [Bearbeiten](cards/2276_visible.yml) |
-| 2277 | haine | Hass | 21 |  | [Bearbeiten](cards/2277_haine.yml) |
+| 2277 | haine | Hass | 21 | X | [Bearbeiten](cards/2277_haine.yml) |
 | 2278 | instance | Instanz, Verfahren | 36 |  | [Bearbeiten](cards/2278_instance.yml) |
 | 2279 | cérémonie | Feierlichkeit | 24 |  | [Bearbeiten](cards/2279_cérémonie.yml) |
 | 2280 | ambition | Ambition | 21 |  | [Bearbeiten](cards/2280_ambition.yml) |
@@ -3462,7 +3462,7 @@
 | 3460 | hâte | Eile | 24 | X | [Bearbeiten](cards/3460_hâte.yml) |
 | 3461 | instituer | einsetzen, einrichten | 22 |  | [Bearbeiten](cards/3461_instituer.yml) |
 | 3462 | format | Format | 34 |  | [Bearbeiten](cards/3462_format.yml) |
-| 3463 | hiérarchie | Hierarchie | 21 |  | [Bearbeiten](cards/3463_hiérarchie.yml) |
+| 3463 | hiérarchie | Hierarchie | 21 | X | [Bearbeiten](cards/3463_hiérarchie.yml) |
 | 3464 | estimation | Schätzung | 21 |  | [Bearbeiten](cards/3464_estimation.yml) |
 | 3465 | mutation | Mutation | 20 |  | [Bearbeiten](cards/3465_mutation.yml) |
 | 3466 | imminent | bevorstehend, drohend | 14 |  | [Bearbeiten](cards/3466_imminent.yml) |
@@ -3936,7 +3936,7 @@
 | 3934 | exporter | exportieren | 16 |  | [Bearbeiten](cards/3934_exporter.yml) |
 | 3935 | étaler | ausbreiten, ausrollen | 54 |  | [Bearbeiten](cards/3935_étaler.yml) |
 | 3936 | reconduire | zurückbringen; fortführen; abschieben | 23 |  | [Bearbeiten](cards/3936_reconduire.yml) |
-| 3937 | handicap | Behinderung | 17 |  | [Bearbeiten](cards/3937_handicap.yml) |
+| 3937 | handicap | Behinderung | 17 | X | [Bearbeiten](cards/3937_handicap.yml) |
 | 3938 | bonsoir | guten Abend | 17 |  | [Bearbeiten](cards/3938_bonsoir.yml) |
 | 3939 | casque | Helm; Kopfhörer | 21 |  | [Bearbeiten](cards/3939_casque.yml) |
 | 3940 | autrui | ein(-e) andere(-r), andere | 15 |  | [Bearbeiten](cards/3940_autrui.yml) |
@@ -4791,7 +4791,7 @@
 | 4789 | boule | Kugel | 54 | X | [Bearbeiten](cards/4789_boule.yml) |
 | 4790 | médiation | Schlichtung, Vermittlung | 17 | X | [Bearbeiten](cards/4790_médiation.yml) |
 | 4791 | réprimer | unterdrücken, zurückhalten | 17 |  | [Bearbeiten](cards/4791_réprimer.yml) |
-| 4792 | hall | Halle | 15 |  | [Bearbeiten](cards/4792_hall.yml) |
+| 4792 | hall | Halle | 15 | X | [Bearbeiten](cards/4792_hall.yml) |
 | 4793 | visuel | visuell, optisch | 24 |  | [Bearbeiten](cards/4793_visuel.yml) |
 | 4794 | semblant | Schein, Anschein | 19 |  | [Bearbeiten](cards/4794_semblant.yml) |
 | 4795 | jadis | einst | 14 | X | [Bearbeiten](cards/4795_jadis.yml) |

@@ -136,7 +136,7 @@ const memoizedTTSUrls = {};
 const voices = ["Zephyr", "Puck", "Charon", "Kore", "Fenrir", "Leda", "Orus", "Aoede", "Callirhoe", "Autonoe", "Enceladus", "Iapetus", "Umbriel", "Algieba", "Despina", "Erinome", "Algenib", "Rasalgethi", "Laomedeia", "Achernar", "Alnilam", "Schedar", "Gacrux", "Pulcherrima", "Achird", "Zubenelgenubi", "Vindemiatrix", "Sadachbia", "Sadaltager", "Sulafar"];
 
 async function getTTSUrl(textToRead, forceGoogleTranslate = false, lang = "fr-FR") {
-  const text = textToRead.replaceAll("*", "").replaceAll("‿", "");
+  const text = textToRead.replaceAll("*", "").replaceAll("‿", " ");
   
   // if no API key is set, fallback to use the free Google Translate TTS
   if (!options.googleTTSApiKey || forceGoogleTranslate) {

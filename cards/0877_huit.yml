@@ -6,7 +6,7 @@ Wortart: num, nmi, nf
 # Diese Felder gerne verbessern!
 Wort mit Artikel: huit
 Femininum / Plural: ''
-IPA: \ɥit\
+IPA: \'ɥit\
 Definition: acht
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
@@ -147,4 +147,6 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: <grammar data-id="Zahlen"></grammar>
+Notiz: |-
+  <grammar data-id="Zahlen"></grammar>
+  <grammar data-id="Das h aspiré"></grammar>
