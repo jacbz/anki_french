@@ -597,58 +597,183 @@ function renderGrammaryLibrary() {
   }
   enableSectionToggle();
   initCefrFilter();
+  initGrammarSearch();
 }
 
-function initCefrFilter() {
-  const levelPills = document.querySelectorAll(".pill");
+function filter(expandSections = false) {
+  const cefrLevels = ["A1", "A2", "B1", "B2", "C1"];
+  const activePills = document.querySelectorAll(".pill.active");
+  const selectedLevels = Array.from(activePills).map(pill => pill.dataset.level);
   
-  const applyFilter = (expandSections = false) => {
-    const cefrLevels = ["A1", "A2", "B1", "B2", "C1"];
-    const activePills = document.querySelectorAll(".pill.active");
-    const selectedLevels = Array.from(activePills).map(pill => pill.dataset.level);
+  const searchInput = document.getElementById("grammar-search-input");
+  const searchTerm = searchInput ? searchInput.value.trim().toLowerCase() : "";
+  const normalizeText = (str) => str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  const normalizedSearchTerm = normalizeText(searchTerm);
+  
+  // Store sections that were previously hidden but are becoming visible
+  const sectionsBecomingVisible = [];
+  
+  grammarLibrary.querySelectorAll(".section").forEach(section => {
+    const wasHidden = section.style.display === "none";
+    const titleElement = section.querySelector(".section-title[data-topic]");
+    let shouldShow = true;
     
-    grammarLibrary.querySelectorAll(".section").forEach(section => {
-      const titleElement = section.querySelector(".section-title[data-topic]");
-      if (!titleElement) {
-        section.style.display = null;
-        return;
-      }
-
+    // CEFR level filtering
+    if (titleElement) {
       const sectionTopic = titleElement.dataset.topic;
       const topicLevels = sectionTopic.split("/").map(level => level.trim());
       
-      const shouldShow = 
+      shouldShow = 
         // if every level is selected, show all
         selectedLevels.length === cefrLevels.length ||
         // if no level is selected, show only sections without level
         (selectedLevels.length === 0 && topicLevels.every(level => !cefrLevels.includes(level))) ||
         // if there is a filter, show only matching levels
         topicLevels.some(level => selectedLevels.includes(level));
-      console.log(sectionTopic, topicLevels, selectedLevels, shouldShow);
-      section.style.display = shouldShow ? "" : "none";
-    });
-
-    grammarLibrary.querySelectorAll("#grammar-sections > .section").forEach(section => {
-      // if all children are hidden, hide the parent section as well
-      const visibleChildren = Array.from(section.querySelectorAll(".section")).filter(child => child.style.display !== "none");
-      section.style.display = visibleChildren.length > 0 ? "" : "none";
-    });
-
-    if (expandSections) {
-      grammarLibrary.querySelectorAll("#grammar-sections > .section:not(.expanded)").forEach(section => {
-        expandSection(section);
-      });
+    } else {
+      // sections without data-topic should always be shown by CEFR filter
+      shouldShow = true;
     }
-  };
+    
+    // Search filtering
+    if (shouldShow && searchTerm) {
+      const sectionTitle = section.querySelector(".section-title");
+      if (sectionTitle) {
+        const titleText = sectionTitle.textContent.toLowerCase();
+        const normalizedTitleText = normalizeText(titleText);
+        shouldShow = normalizedTitleText.includes(normalizedSearchTerm);
+      } else {
+        shouldShow = false;
+      }
+    }
+    
+    // Track sections becoming visible that might need expansion state reset
+    if (wasHidden && shouldShow) {
+      sectionsBecomingVisible.push(section);
+    }
+    
+    section.style.display = shouldShow ? "" : "none";
+  });
+
+  grammarLibrary.querySelectorAll("#grammar-sections > .section").forEach(section => {
+    const wasHidden = section.style.display === "none";
+    // if all children are hidden, hide the parent section as well
+    const visibleChildren = Array.from(section.querySelectorAll(".section")).filter(child => child.style.display !== "none");
+    const shouldShowParent = visibleChildren.length > 0;
+    
+    // Track parent sections becoming visible
+    if (wasHidden && shouldShowParent) {
+      sectionsBecomingVisible.push(section);
+    }
+    
+    section.style.display = shouldShowParent ? "" : "none";
+  });
+
+  // Fix expansion state for sections that were hidden and are now becoming visible
+  sectionsBecomingVisible.forEach(section => {
+    const content = section.querySelector(".section-content");
+    if (content && section.classList.contains("expanded")) {
+      // Section is marked as expanded but might have corrupted maxHeight due to being hidden
+      // Reset the maxHeight to ensure proper display
+      content.style.maxHeight = content.scrollHeight + "px";
+      
+      // Also fix any nested ancestor maxHeights
+      let ancestor = section.parentElement;
+      while (ancestor) {
+        if (ancestor.classList.contains("section-content")) {
+          ancestor.style.maxHeight = "unset";
+        }
+        ancestor = ancestor.parentElement;
+      }
+    }
+  });
+
+  if (expandSections) {
+    grammarLibrary.querySelectorAll("#grammar-sections > .section:not(.expanded)").forEach(section => {
+      expandSection(section);
+    });
+  }
+
+  // Show/hide "no results" message
+  const noResultsElement = document.getElementById("grammar-no-results");
+  const visibleSections = grammarLibrary.querySelectorAll("#grammar-sections > .section").length;
+  const visibleSectionsCount = Array.from(grammarLibrary.querySelectorAll("#grammar-sections > .section")).filter(section => section.style.display !== "none").length;
+  
+  if (noResultsElement) {
+    if (searchTerm && visibleSectionsCount === 0) {
+      noResultsElement.style.display = "block";
+    } else {
+      noResultsElement.style.display = "none";
+    }
+  }
+}
+
+function initCefrFilter() {
+  const levelPills = document.querySelectorAll(".pill");
 
   levelPills.forEach(pill => {
     pill.onclick = () => {
       pill.classList.toggle("active");
-      applyFilter(true);
+      filter(true);
     };
   });
 
-  applyFilter();
+  filter();
+}
+
+function initGrammarSearch() {
+  const searchInput = document.getElementById("grammar-search-input");
+  const clearButton = document.getElementById("grammar-search-clear");
+  
+  if (!searchInput || !clearButton) return;
+  
+  let searchTimeout;
+  let hasScrolledToSearch = false;
+  
+  // Scroll to search input when first focused
+  searchInput.addEventListener("focus", () => {
+    if (!hasScrolledToSearch) {
+      hasScrolledToSearch = true;
+      setTimeout(() => {
+        searchInput.scrollIntoView({ 
+          behavior: "smooth", 
+          block: "start",
+          inline: "nearest"
+        });
+      }, 100); // Small delay to ensure the element is properly positioned
+    }
+  });
+  
+  searchInput.addEventListener("input", () => {
+    clearTimeout(searchTimeout);
+    searchTimeout = setTimeout(() => {
+      filter(searchInput.value.trim() !== "");
+      
+      // Scroll to search input after filtering (especially useful on mobile)
+      if (searchInput.value.trim()) {
+        setTimeout(() => {
+          searchInput.scrollIntoView({ 
+            behavior: "smooth", 
+            block: "start",
+            inline: "nearest"
+          });
+        }, 100);
+      }
+    }, 300); // Debounce search
+  });
+  
+  clearButton.addEventListener("click", () => {
+    searchInput.value = "";
+    filter();
+  });
+  
+  // Show/hide clear button based on input content
+  const toggleClearButton = () => {
+    clearButton.style.display = searchInput.value.trim() ? "block" : "none";
+  };
+  
+  searchInput.addEventListener("input", toggleClearButton);
+  toggleClearButton(); // Initial state
 }
 
 /**

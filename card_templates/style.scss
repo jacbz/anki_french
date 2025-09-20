@@ -78,7 +78,7 @@ $section-within-section-title-background: hsla(201, 100%, 14%, 0.07);
 }
 
 /**
-  Buttons
+  Buttons & Inputs
   -----------------------------------------------
 **/
 
@@ -172,6 +172,11 @@ $section-within-section-title-background: hsla(201, 100%, 14%, 0.07);
 
 .night_mode svg {
   fill: white;
+}
+
+input {
+  font-family: "NittiGrotesk";
+  font-size: 1rem;
 }
 
 /**
@@ -1011,7 +1016,7 @@ u {
     top: -4px;
     font-size: 11px;
     font-weight: 400;
-    font-family: 'NittiGroteskCondensed';
+    font-family: "NittiGroteskCondensed";
   }
 }
 
@@ -1166,9 +1171,78 @@ tr[data-tense="PC"] .tense_stem {
       font-size: 120%;
     }
 
+    #grammar-search {
+      margin-bottom: 0.6em;
+
+      .search-container {
+        position: relative;
+
+        #grammar-search-input {
+          width: 100%;
+          padding: 8px 35px 8px 12px;
+          border: 1px solid rgba(120, 120, 128, 0.3);
+          border-radius: 10px;
+          background: rgba(255, 255, 255, 0.9);
+          color: var(--secondary-text);
+          transition: all 0.15s ease;
+          box-sizing: border-box;
+
+          .night_mode & {
+            background: rgba(0, 0, 0, 0.2);
+            border-color: rgba(120, 120, 128, 0.5);
+          }
+
+          &:focus {
+            outline: none;
+            border-color: var(--highlight-color);
+            box-shadow: 0 0 0 2px rgba(var(--highlight-color), 0.2);
+          }
+
+          &::placeholder {
+            color: rgba(120, 120, 128, 0.7);
+          }
+        }
+
+        .search-clear-button {
+          position: absolute;
+          right: 8px;
+          top: 50%;
+          transform: translateY(-50%);
+          width: 20px;
+          height: 20px;
+          display: none;
+          cursor: pointer;
+          color: rgba(120, 120, 128, 0.8);
+          transition: color 0.15s ease;
+
+          &:hover {
+            color: var(--secondary-text);
+          }
+
+          svg {
+            width: 100%;
+            height: 100%;
+          }
+        }
+      }
+    }
+
+    #grammar-no-results {
+      margin-bottom: 0.6em;
+      padding: 1em;
+      text-align: center;
+      color: rgba(120, 120, 128, 0.8);
+      font-style: italic;
+      
+      p {
+        margin: 0;
+        font-size: 14px;
+      }
+    }
+
     #cefr-filter {
       margin-bottom: 0.6em;
-      
+
       .level-pills {
         display: flex;
         justify-content: space-between;
@@ -1235,19 +1309,19 @@ tr[data-tense="PC"] .tense_stem {
   border-radius: 0.5em;
   padding: 1em;
   margin: 1em 0;
-  
+
   p {
     margin: 0.5em 0;
-    
+
     &:first-child {
       margin-top: 0;
     }
-    
+
     &:last-child {
       margin-bottom: 0;
     }
   }
-  
+
   .error-details {
     font-family: monospace;
     background: rgba(240, 57, 57, 0.1);
@@ -1256,11 +1330,11 @@ tr[data-tense="PC"] .tense_stem {
     font-size: 0.9em;
     border: 1px solid rgba(240, 57, 57, 0.3);
   }
-  
+
   a {
     color: rgb(240, 57, 57);
     text-decoration: underline;
-    
+
     &:hover {
       text-decoration: none;
     }
@@ -1270,12 +1344,12 @@ tr[data-tense="PC"] .tense_stem {
 .night_mode .error-message {
   background: rgba(240, 57, 57, 0.15);
   border-color: rgb(255, 82, 82);
-  
+
   .error-details {
     background: rgba(240, 57, 57, 0.15);
     border-color: rgba(255, 82, 82, 0.4);
   }
-  
+
   a {
     color: rgb(255, 82, 82);
   }

@@ -140,6 +140,17 @@ var options = {
       </svg>
       Grammatik-Bibliothek
     </div>
+    <div id="grammar-search">
+      <div class="search-container">
+        <input type="text" id="grammar-search-input" placeholder="Grammatik durchsuchen...">
+        <div class="search-clear-button" id="grammar-search-clear">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </div>
+      </div>
+    </div>
     <div id="cefr-filter">
       <div class="level-pills">
         <div class="pill active" data-level="A1">A1</div>
@@ -148,6 +159,9 @@ var options = {
         <div class="pill active" data-level="B2">B2</div>
         <div class="pill active" data-level="C1">C1</div>
       </div>
+    </div>
+    <div id="grammar-no-results" style="display: none;">
+      <p>Keine Ergebnisse gefunden.</p>
     </div>
   </div>
 </div>
