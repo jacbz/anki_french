@@ -2675,7 +2675,7 @@
 | 2673 | compromis | Kompromiss | 15 |  | [Bearbeiten](cards/2673_compromis.yml) |
 | 2674 | investisseur | Investor | 14 |  | [Bearbeiten](cards/2674_investisseur.yml) |
 | 2675 | présumer | vermuten, annehmen | 23 | X | [Bearbeiten](cards/2675_présumer.yml) |
-| 2676 | abandon | Aufgabe, Verlassen | 31 |  | [Bearbeiten](cards/2676_abandon.yml) |
+| 2676 | abandon | Aufgabe, Verlassen | 32 |  | [Bearbeiten](cards/2676_abandon.yml) |
 | 2677 | identique | identisch | 22 |  | [Bearbeiten](cards/2677_identique.yml) |
 | 2678 | exploser | explodieren, platzen | 27 |  | [Bearbeiten](cards/2678_exploser.yml) |
 | 2679 | mensonge | Lüge | 23 |  | [Bearbeiten](cards/2679_mensonge.yml) |
@@ -3608,7 +3608,7 @@
 | 3606 | pénurie | Knappheit | 26 |  | [Bearbeiten](cards/3606_pénurie.yml) |
 | 3607 | tirage | Ziehung; Druck | 35 |  | [Bearbeiten](cards/3607_tirage.yml) |
 | 3608 | perception | Wahrnehmung | 21 |  | [Bearbeiten](cards/3608_perception.yml) |
-| 3609 | philosophe | Philosoph | 24 |  | [Bearbeiten](cards/3609_philosophe.yml) |
+| 3609 | philosophe | Philosoph | 23 |  | [Bearbeiten](cards/3609_philosophe.yml) |
 | 3610 | planche | Brett | 56 |  | [Bearbeiten](cards/3610_planche.yml) |
 | 3611 | crédibilité | Glaubwürdigkeit | 13 |  | [Bearbeiten](cards/3611_crédibilité.yml) |
 | 3612 | fiction | Fiktion | 22 |  | [Bearbeiten](cards/3612_fiction.yml) |
@@ -4963,19 +4963,19 @@
 | 4961 | performant | leistungsstark | 15 |  | [Bearbeiten](cards/4961_performant.yml) |
 | 4962 | sérénité | Gelassenheit, Ruhe | 17 |  | [Bearbeiten](cards/4962_sérénité.yml) |
 | 4963 | cuire | kochen, braten, backen | 46 |  | [Bearbeiten](cards/4963_cuire.yml) |
-| 4964 | raser | rasieren, abreißen, niederreißen | 35 |  | [Bearbeiten](cards/4964_raser.yml) |
-| 4965 | ha | ha | 15 |  | [Bearbeiten](cards/4965_ha.yml) |
+| 4964 | raser | rasieren; schleifen | 35 |  | [Bearbeiten](cards/4964_raser.yml) |
+| 4965 | ha | ha | 11 |  | [Bearbeiten](cards/4965_ha.yml) |
 | 4966 | revivre | wieder aufleben | 25 |  | [Bearbeiten](cards/4966_revivre.yml) |
 | 4967 | piano | Klavier | 40 |  | [Bearbeiten](cards/4967_piano.yml) |
-| 4968 | concertation | Beratung, Absprache | 12 |  | [Bearbeiten](cards/4968_concertation.yml) |
-| 4969 | vaisseau | Schiff | 22 |  | [Bearbeiten](cards/4969_vaisseau.yml) |
+| 4968 | concertation | Absprache, Abstimmung | 12 |  | [Bearbeiten](cards/4968_concertation.yml) |
+| 4969 | vaisseau | Gefäß; Schiff | 22 |  | [Bearbeiten](cards/4969_vaisseau.yml) |
 | 4970 | interaction | Wechselwirkung | 14 |  | [Bearbeiten](cards/4970_interaction.yml) |
 | 4971 | pessimiste | Pessimist | 14 |  | [Bearbeiten](cards/4971_pessimiste.yml) |
-| 4972 | sillage | Wasserwirbel, Kielwasser | 15 |  | [Bearbeiten](cards/4972_sillage.yml) |
-| 4973 | synonyme | Synonym | 16 |  | [Bearbeiten](cards/4973_synonyme.yml) |
-| 4974 | hisser | hissen, hochziehen | 23 | X | [Bearbeiten](cards/4974_hisser.yml) |
+| 4972 | sillage | Spur, Kielwasser | 14 | X | [Bearbeiten](cards/4972_sillage.yml) |
+| 4973 | synonyme | Synonym; gleichbedeutend | 16 |  | [Bearbeiten](cards/4973_synonyme.yml) |
+| 4974 | hisser | hochziehen | 23 | X | [Bearbeiten](cards/4974_hisser.yml) |
 | 4975 | agréer | annehmen, zustimmen | 20 |  | [Bearbeiten](cards/4975_agréer.yml) |
-| 4976 | comble | Höhepunkt, Gipfel | 34 |  | [Bearbeiten](cards/4976_comble.yml) |
+| 4976 | comble | Höhepunkt, Gipfel; (brechend) voll | 34 |  | [Bearbeiten](cards/4976_comble.yml) |
 | 4977 | bosniaque | bosnisch; Bosnier | 12 | X | [Bearbeiten](cards/4977_bosniaque.yml) |
 | 4978 | insignifiant | unbedeutend | 18 |  | [Bearbeiten](cards/4978_insignifiant.yml) |
 | 4979 | décoller | starten, abheben, abziehen | 35 |  | [Bearbeiten](cards/4979_décoller.yml) |
