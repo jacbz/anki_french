@@ -31,7 +31,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 149.872 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1344 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 149.872 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1422 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -39,10 +39,10 @@ Insgesamt gibt es 5000 Karten mit 149.872 Beispielsätzen (durchschnittlich 30.0
 | 2 | de | von, aus, [Teilungsartikel] | 56 | X | [Bearbeiten](cards/0002_de.yml) |
 | 3 | un | eins; ein(-e) | 58 | X | [Bearbeiten](cards/0003_un.yml) |
 | 4 | à | nach, in [örtlich], um [zeitlich] | 59 | X | [Bearbeiten](cards/0004_à.yml) |
-| 5 | être | sein | 59 |  | [Bearbeiten](cards/0005_être.yml) |
+| 5 | être | sein | 59 | X | [Bearbeiten](cards/0005_être.yml) |
 | 6 | et | und | 36 | X | [Bearbeiten](cards/0006_et.yml) |
 | 7 | en | in; davon | 56 | X | [Bearbeiten](cards/0007_en.yml) |
-| 8 | avoir | haben, besitzen | 59 |  | [Bearbeiten](cards/0008_avoir.yml) |
+| 8 | avoir | haben, besitzen | 59 | X | [Bearbeiten](cards/0008_avoir.yml) |
 | 9 | que | dass; was; den/die/das; nur | 58 | X | [Bearbeiten](cards/0009_que.yml) |
 | 10 | pour | für | 59 | X | [Bearbeiten](cards/0010_pour.yml) |
 | 11 | dans | in, innerhalb | 57 | X | [Bearbeiten](cards/0011_dans.yml) |
@@ -54,7 +54,7 @@ Insgesamt gibt es 5000 Karten mit 149.872 Beispielsätzen (durchschnittlich 30.0
 | 17 | se | sich | 30 | X | [Bearbeiten](cards/0017_se.yml) |
 | 18 | pas | nicht; Schritt | 57 | X | [Bearbeiten](cards/0018_pas.yml) |
 | 19 | plus | mehr | 58 | X | [Bearbeiten](cards/0019_plus.yml) |
-| 20 | pouvoir | können; Macht | 59 |  | [Bearbeiten](cards/0020_pouvoir.yml) |
+| 20 | pouvoir | können; Macht | 59 | X | [Bearbeiten](cards/0020_pouvoir.yml) |
 | 21 | par | durch, von | 58 | X | [Bearbeiten](cards/0021_par.yml) |
 | 22 | je | ich | 26 | X | [Bearbeiten](cards/0022_je.yml) |
 | 23 | avec | mit | 60 | X | [Bearbeiten](cards/0023_avec.yml) |
@@ -73,7 +73,7 @@ Insgesamt gibt es 5000 Karten mit 149.872 Beispielsätzen (durchschnittlich 30.0
 | 36 | y | dort, dahin | 27 | X | [Bearbeiten](cards/0036_y.yml) |
 | 37 | dire | sagen | 58 | X | [Bearbeiten](cards/0037_dire.yml) |
 | 38 | elle | sie | 33 | X | [Bearbeiten](cards/0038_elle.yml) |
-| 39 | devoir | müssen; Pflicht | 57 |  | [Bearbeiten](cards/0039_devoir.yml) |
+| 39 | devoir | müssen; Pflicht | 57 | X | [Bearbeiten](cards/0039_devoir.yml) |
 | 40 | avant | vor(-her), bevor | 59 | X | [Bearbeiten](cards/0040_avant.yml) |
 | 41 | deux | zwei | 61 | X | [Bearbeiten](cards/0041_deux.yml) |
 | 42 | même | gleich, derselbe; sogar | 59 | X | [Bearbeiten](cards/0042_même.yml) |
@@ -91,7 +91,7 @@ Insgesamt gibt es 5000 Karten mit 149.872 Beispielsätzen (durchschnittlich 30.0
 | 54 | cela | es, das [unbestimmtes Demonstrativpro.] | 26 | X | [Bearbeiten](cards/0054_cela.yml) |
 | 55 | entre | zwischen | 49 | X | [Bearbeiten](cards/0055_entre.yml) |
 | 56 | premier | erste(-r/s) | 61 | X | [Bearbeiten](cards/0056_premier.yml) |
-| 57 | vouloir | wollen | 60 |  | [Bearbeiten](cards/0057_vouloir.yml) |
+| 57 | vouloir | wollen | 60 | X | [Bearbeiten](cards/0057_vouloir.yml) |
 | 58 | déjà | schon, bereits | 28 |  | [Bearbeiten](cards/0058_déjà.yml) |
 | 59 | grand | (←) bedeutungsvoll; (→) groß | 54 | X | [Bearbeiten](cards/0059_grand.yml) |
 | 60 | mon | mein | 36 | X | [Bearbeiten](cards/0060_mon.yml) |
@@ -117,9 +117,9 @@ Insgesamt gibt es 5000 Karten mit 149.872 Beispielsätzen (durchschnittlich 30.0
 | 80 | demander | fragen, bitten | 60 | X | [Bearbeiten](cards/0080_demander.yml) |
 | 81 | alors | dann, also | 35 | X | [Bearbeiten](cards/0081_alors.yml) |
 | 82 | après | nach, später | 60 | X | [Bearbeiten](cards/0082_après.yml) |
-| 83 | trouver | finden | 60 |  | [Bearbeiten](cards/0083_trouver.yml) |
+| 83 | trouver | finden | 60 | X | [Bearbeiten](cards/0083_trouver.yml) |
 | 84 | personne | Person; niemand | 60 | X | [Bearbeiten](cards/0084_personne.yml) |
-| 85 | rendre | zurückgeben; [zu etw.] machen | 59 |  | [Bearbeiten](cards/0085_rendre.yml) |
+| 85 | rendre | zurückgeben; [zu etw.] machen | 59 | X | [Bearbeiten](cards/0085_rendre.yml) |
 | 86 | part | Anteil, Teil | 60 |  | [Bearbeiten](cards/0086_part.yml) |
 | 87 | dernier | (←) letzte(-r/s); (→) vorige(-r/s) | 57 | X | [Bearbeiten](cards/0087_dernier.yml) |
 | 88 | venir | kommen | 64 | X | [Bearbeiten](cards/0088_venir.yml) |
@@ -134,6 +134,6 @@ Insgesamt gibt es 5000 Karten mit 149.872 Beispielsätzen (durchschnittlich 30.0
 | 97 | point | Punkt | 61 |  | [Bearbeiten](cards/0097_point.yml) |
 | 98 | ainsi | so, auf diese Weise | 30 | X | [Bearbeiten](cards/0098_ainsi.yml) |
 | 99 | heure | Stunde, Uhrzeit | 58 | X | [Bearbeiten](cards/0099_heure.yml) |
-| 100 | rester | bleiben | 60 |  | [Bearbeiten](cards/0100_rester.yml) |
+| 100 | rester | bleiben | 60 | X | [Bearbeiten](cards/0100_rester.yml) |
 
 [Vollständige Liste](WORDS.md)

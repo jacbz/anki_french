@@ -4,10 +4,10 @@
 | 2 | de | von, aus, [Teilungsartikel] | 56 | X | [Bearbeiten](cards/0002_de.yml) |
 | 3 | un | eins; ein(-e) | 58 | X | [Bearbeiten](cards/0003_un.yml) |
 | 4 | à | nach, in [örtlich], um [zeitlich] | 59 | X | [Bearbeiten](cards/0004_à.yml) |
-| 5 | être | sein | 59 |  | [Bearbeiten](cards/0005_être.yml) |
+| 5 | être | sein | 59 | X | [Bearbeiten](cards/0005_être.yml) |
 | 6 | et | und | 36 | X | [Bearbeiten](cards/0006_et.yml) |
 | 7 | en | in; davon | 56 | X | [Bearbeiten](cards/0007_en.yml) |
-| 8 | avoir | haben, besitzen | 59 |  | [Bearbeiten](cards/0008_avoir.yml) |
+| 8 | avoir | haben, besitzen | 59 | X | [Bearbeiten](cards/0008_avoir.yml) |
 | 9 | que | dass; was; den/die/das; nur | 58 | X | [Bearbeiten](cards/0009_que.yml) |
 | 10 | pour | für | 59 | X | [Bearbeiten](cards/0010_pour.yml) |
 | 11 | dans | in, innerhalb | 57 | X | [Bearbeiten](cards/0011_dans.yml) |
@@ -19,7 +19,7 @@
 | 17 | se | sich | 30 | X | [Bearbeiten](cards/0017_se.yml) |
 | 18 | pas | nicht; Schritt | 57 | X | [Bearbeiten](cards/0018_pas.yml) |
 | 19 | plus | mehr | 58 | X | [Bearbeiten](cards/0019_plus.yml) |
-| 20 | pouvoir | können; Macht | 59 |  | [Bearbeiten](cards/0020_pouvoir.yml) |
+| 20 | pouvoir | können; Macht | 59 | X | [Bearbeiten](cards/0020_pouvoir.yml) |
 | 21 | par | durch, von | 58 | X | [Bearbeiten](cards/0021_par.yml) |
 | 22 | je | ich | 26 | X | [Bearbeiten](cards/0022_je.yml) |
 | 23 | avec | mit | 60 | X | [Bearbeiten](cards/0023_avec.yml) |
@@ -38,7 +38,7 @@
 | 36 | y | dort, dahin | 27 | X | [Bearbeiten](cards/0036_y.yml) |
 | 37 | dire | sagen | 58 | X | [Bearbeiten](cards/0037_dire.yml) |
 | 38 | elle | sie | 33 | X | [Bearbeiten](cards/0038_elle.yml) |
-| 39 | devoir | müssen; Pflicht | 57 |  | [Bearbeiten](cards/0039_devoir.yml) |
+| 39 | devoir | müssen; Pflicht | 57 | X | [Bearbeiten](cards/0039_devoir.yml) |
 | 40 | avant | vor(-her), bevor | 59 | X | [Bearbeiten](cards/0040_avant.yml) |
 | 41 | deux | zwei | 61 | X | [Bearbeiten](cards/0041_deux.yml) |
 | 42 | même | gleich, derselbe; sogar | 59 | X | [Bearbeiten](cards/0042_même.yml) |
@@ -56,7 +56,7 @@
 | 54 | cela | es, das [unbestimmtes Demonstrativpro.] | 26 | X | [Bearbeiten](cards/0054_cela.yml) |
 | 55 | entre | zwischen | 49 | X | [Bearbeiten](cards/0055_entre.yml) |
 | 56 | premier | erste(-r/s) | 61 | X | [Bearbeiten](cards/0056_premier.yml) |
-| 57 | vouloir | wollen | 60 |  | [Bearbeiten](cards/0057_vouloir.yml) |
+| 57 | vouloir | wollen | 60 | X | [Bearbeiten](cards/0057_vouloir.yml) |
 | 58 | déjà | schon, bereits | 28 |  | [Bearbeiten](cards/0058_déjà.yml) |
 | 59 | grand | (←) bedeutungsvoll; (→) groß | 54 | X | [Bearbeiten](cards/0059_grand.yml) |
 | 60 | mon | mein | 36 | X | [Bearbeiten](cards/0060_mon.yml) |
@@ -82,9 +82,9 @@
 | 80 | demander | fragen, bitten | 60 | X | [Bearbeiten](cards/0080_demander.yml) |
 | 81 | alors | dann, also | 35 | X | [Bearbeiten](cards/0081_alors.yml) |
 | 82 | après | nach, später | 60 | X | [Bearbeiten](cards/0082_après.yml) |
-| 83 | trouver | finden | 60 |  | [Bearbeiten](cards/0083_trouver.yml) |
+| 83 | trouver | finden | 60 | X | [Bearbeiten](cards/0083_trouver.yml) |
 | 84 | personne | Person; niemand | 60 | X | [Bearbeiten](cards/0084_personne.yml) |
-| 85 | rendre | zurückgeben; [zu etw.] machen | 59 |  | [Bearbeiten](cards/0085_rendre.yml) |
+| 85 | rendre | zurückgeben; [zu etw.] machen | 59 | X | [Bearbeiten](cards/0085_rendre.yml) |
 | 86 | part | Anteil, Teil | 60 |  | [Bearbeiten](cards/0086_part.yml) |
 | 87 | dernier | (←) letzte(-r/s); (→) vorige(-r/s) | 57 | X | [Bearbeiten](cards/0087_dernier.yml) |
 | 88 | venir | kommen | 64 | X | [Bearbeiten](cards/0088_venir.yml) |
@@ -99,11 +99,11 @@
 | 97 | point | Punkt | 61 |  | [Bearbeiten](cards/0097_point.yml) |
 | 98 | ainsi | so, auf diese Weise | 30 | X | [Bearbeiten](cards/0098_ainsi.yml) |
 | 99 | heure | Stunde, Uhrzeit | 58 | X | [Bearbeiten](cards/0099_heure.yml) |
-| 100 | rester | bleiben | 60 |  | [Bearbeiten](cards/0100_rester.yml) |
+| 100 | rester | bleiben | 60 | X | [Bearbeiten](cards/0100_rester.yml) |
 | 101 | seul | (←) einzig; (→) allein, einsam | 53 | X | [Bearbeiten](cards/0101_seul.yml) |
 | 102 | année | Jahr [Dauer] | 56 | X | [Bearbeiten](cards/0102_année.yml) |
 | 103 | toujours | immer | 37 | X | [Bearbeiten](cards/0103_toujours.yml) |
-| 104 | tenir | halten, festhalten | 60 |  | [Bearbeiten](cards/0104_tenir.yml) |
+| 104 | tenir | halten, festhalten | 60 | X | [Bearbeiten](cards/0104_tenir.yml) |
 | 105 | porter | tragen | 58 |  | [Bearbeiten](cards/0105_porter.yml) |
 | 106 | parler | sprechen | 56 | X | [Bearbeiten](cards/0106_parler.yml) |
 | 107 | fort | stark | 59 | X | [Bearbeiten](cards/0107_fort.yml) |
@@ -157,11 +157,11 @@
 | 155 | attendre | warten, erwarten | 60 | X | [Bearbeiten](cards/0155_attendre.yml) |
 | 156 | remettre | übergeben, zurückstellen, verschieben | 60 | X | [Bearbeiten](cards/0156_remettre.yml) |
 | 157 | appeler | (an-)rufen, nennen | 58 | X | [Bearbeiten](cards/0157_appeler.yml) |
-| 158 | permettre | ermöglichen, erlauben | 49 |  | [Bearbeiten](cards/0158_permettre.yml) |
+| 158 | permettre | ermöglichen, erlauben | 49 | X | [Bearbeiten](cards/0158_permettre.yml) |
 | 159 | occuper | besetzen; beschäftigen; in Anspruch nehmen | 58 |  | [Bearbeiten](cards/0159_occuper.yml) |
 | 160 | gouvernement | Regierung | 33 |  | [Bearbeiten](cards/0160_gouvernement.yml) |
 | 161 | eux | sie [Plural] | 28 | X | [Bearbeiten](cards/0161_eux.yml) |
-| 162 | devenir | werden | 31 |  | [Bearbeiten](cards/0162_devenir.yml) |
+| 162 | devenir | werden | 31 | X | [Bearbeiten](cards/0162_devenir.yml) |
 | 163 | partir | verlassen, abfahren | 60 | X | [Bearbeiten](cards/0163_partir.yml) |
 | 164 | plan | Plan | 61 |  | [Bearbeiten](cards/0164_plan.yml) |
 | 165 | décider | entscheiden | 49 |  | [Bearbeiten](cards/0165_décider.yml) |
@@ -179,7 +179,7 @@
 | 177 | servir | dienen, bedienen | 58 |  | [Bearbeiten](cards/0177_servir.yml) |
 | 178 | mois | Monat | 27 | X | [Bearbeiten](cards/0178_mois.yml) |
 | 179 | jamais | niemals | 40 | X | [Bearbeiten](cards/0179_jamais.yml) |
-| 180 | sembler | scheinen | 32 |  | [Bearbeiten](cards/0180_sembler.yml) |
+| 180 | sembler | scheinen | 32 | X | [Bearbeiten](cards/0180_sembler.yml) |
 | 181 | tant | so viel, solange, so sehr | 61 |  | [Bearbeiten](cards/0181_tant.yml) |
 | 182 | vers | zu, in Richtung von | 45 | X | [Bearbeiten](cards/0182_vers.yml) |
 | 183 | besoin | Bedarf, Notwendigkeit | 60 |  | [Bearbeiten](cards/0183_besoin.yml) |
@@ -198,7 +198,7 @@
 | 196 | laisser | lassen | 61 |  | [Bearbeiten](cards/0196_laisser.yml) |
 | 197 | ordre | Ordnung, Befehl | 62 |  | [Bearbeiten](cards/0197_ordre.yml) |
 | 198 | devant | vor [örtlich] | 60 | X | [Bearbeiten](cards/0198_devant.yml) |
-| 199 | recevoir | erhalten, empfangen | 64 |  | [Bearbeiten](cards/0199_recevoir.yml) |
+| 199 | recevoir | erhalten, empfangen | 64 | X | [Bearbeiten](cards/0199_recevoir.yml) |
 | 200 | répondre | antworten | 60 | X | [Bearbeiten](cards/0200_répondre.yml) |
 | 201 | vivre | leben | 60 |  | [Bearbeiten](cards/0201_vivre.yml) |
 | 202 | long | lang, langwierig | 62 | X | [Bearbeiten](cards/0202_long.yml) |
@@ -207,10 +207,10 @@
 | 205 | face | Gesicht; Vorderseite | 62 | X | [Bearbeiten](cards/0205_face.yml) |
 | 206 | chez | bei, zu | 38 | X | [Bearbeiten](cards/0206_chez.yml) |
 | 207 | te | dich, dir | 31 | X | [Bearbeiten](cards/0207_te.yml) |
-| 208 | rappeler | erinnern, zurückrufen | 59 |  | [Bearbeiten](cards/0208_rappeler.yml) |
+| 208 | rappeler | erinnern, zurückrufen | 59 | X | [Bearbeiten](cards/0208_rappeler.yml) |
 | 209 | présenter | vorstellen, präsentieren | 60 |  | [Bearbeiten](cards/0209_présenter.yml) |
 | 210 | accepter | annehmen | 38 |  | [Bearbeiten](cards/0210_accepter.yml) |
-| 211 | agir | handeln | 41 |  | [Bearbeiten](cards/0211_agir.yml) |
+| 211 | agir | handeln | 41 | X | [Bearbeiten](cards/0211_agir.yml) |
 | 212 | simple | einfach, leicht | 60 | X | [Bearbeiten](cards/0212_simple.yml) |
 | 213 | plusieurs | mehrere | 22 | X | [Bearbeiten](cards/0213_plusieurs.yml) |
 | 214 | votre | euer, Ihr | 19 | X | [Bearbeiten](cards/0214_votre.yml) |
@@ -241,7 +241,7 @@
 | 239 | idée | Idee | 63 |  | [Bearbeiten](cards/0239_idée.yml) |
 | 240 | selon | gemäß, je nach | 33 |  | [Bearbeiten](cards/0240_selon.yml) |
 | 241 | région | Region | 38 |  | [Bearbeiten](cards/0241_région.yml) |
-| 242 | aimer | lieben, mögen | 58 |  | [Bearbeiten](cards/0242_aimer.yml) |
+| 242 | aimer | lieben, mögen | 58 | X | [Bearbeiten](cards/0242_aimer.yml) |
 | 243 | sens | Sinn | 62 |  | [Bearbeiten](cards/0243_sens.yml) |
 | 244 | retrouver | wiederfinden, treffen | 62 |  | [Bearbeiten](cards/0244_retrouver.yml) |
 | 245 | semaine | Woche | 31 | X | [Bearbeiten](cards/0245_semaine.yml) |
@@ -249,7 +249,7 @@
 | 247 | ci | hier [Suffix] | 24 | X | [Bearbeiten](cards/0247_ci.yml) |
 | 248 | façon | Art, Weise; Arbeit | 59 | X | [Bearbeiten](cards/0248_façon.yml) |
 | 249 | nombre | Anzahl, Zahl | 59 |  | [Bearbeiten](cards/0249_nombre.yml) |
-| 250 | perdre | verlieren | 60 |  | [Bearbeiten](cards/0250_perdre.yml) |
+| 250 | perdre | verlieren | 60 | X | [Bearbeiten](cards/0250_perdre.yml) |
 | 251 | français | französisch; Franzose | 37 | X | [Bearbeiten](cards/0251_français.yml) |
 | 252 | expliquer | erklären, erläutern | 43 | X | [Bearbeiten](cards/0252_expliquer.yml) |
 | 253 | quatre | vier | 51 | X | [Bearbeiten](cards/0253_quatre.yml) |
@@ -268,7 +268,7 @@
 | 266 | guerre | Krieg | 61 |  | [Bearbeiten](cards/0266_guerre.yml) |
 | 267 | loi | Gesetz | 63 |  | [Bearbeiten](cards/0267_loi.yml) |
 | 268 | président | Präsident | 31 | X | [Bearbeiten](cards/0268_président.yml) |
-| 269 | exister | existieren | 25 |  | [Bearbeiten](cards/0269_exister.yml) |
+| 269 | exister | existieren | 25 | X | [Bearbeiten](cards/0269_exister.yml) |
 | 270 | sûr | sicher | 57 | X | [Bearbeiten](cards/0270_sûr.yml) |
 | 271 | refuser | ablehnen, verweigern | 53 | X | [Bearbeiten](cards/0271_refuser.yml) |
 | 272 | plutôt | eher | 29 |  | [Bearbeiten](cards/0272_plutôt.yml) |
@@ -282,7 +282,7 @@
 | 280 | marché | Markt | 61 |  | [Bearbeiten](cards/0280_marché.yml) |
 | 281 | condition | Bedingung, Zustand | 61 | X | [Bearbeiten](cards/0281_condition.yml) |
 | 282 | international | international | 30 |  | [Bearbeiten](cards/0282_international.yml) |
-| 283 | changer | ändern, wechseln | 59 |  | [Bearbeiten](cards/0283_changer.yml) |
+| 283 | changer | ändern, wechseln | 59 | X | [Bearbeiten](cards/0283_changer.yml) |
 | 284 | oui | ja | 51 | X | [Bearbeiten](cards/0284_oui.yml) |
 | 285 | public | Öffentlichkeit, Publikum | 62 | X | [Bearbeiten](cards/0285_public.yml) |
 | 286 | humain | menschlich | 52 |  | [Bearbeiten](cards/0286_humain.yml) |
@@ -318,7 +318,7 @@
 | 316 | mener | führen, leiten | 60 | X | [Bearbeiten](cards/0316_mener.yml) |
 | 317 | information | Information | 45 | X | [Bearbeiten](cards/0317_information.yml) |
 | 318 | détail | Einzelheit, Detail | 36 | X | [Bearbeiten](cards/0318_détail.yml) |
-| 319 | appartenir | gehören | 27 |  | [Bearbeiten](cards/0319_appartenir.yml) |
+| 319 | appartenir | gehören | 27 | X | [Bearbeiten](cards/0319_appartenir.yml) |
 | 320 | liberté | Freiheit | 62 |  | [Bearbeiten](cards/0320_liberté.yml) |
 | 321 | assez | genug, ziemlich | 40 | X | [Bearbeiten](cards/0321_assez.yml) |
 | 322 | risquer | riskieren | 53 |  | [Bearbeiten](cards/0322_risquer.yml) |
@@ -430,13 +430,13 @@
 | 428 | résultat | Ergebnis | 44 |  | [Bearbeiten](cards/0428_résultat.yml) |
 | 429 | écouter | hören, zuhören | 47 | X | [Bearbeiten](cards/0429_écouter.yml) |
 | 430 | terre | Erde, Land | 60 |  | [Bearbeiten](cards/0430_terre.yml) |
-| 431 | valoir | kosten, wert sein | 60 |  | [Bearbeiten](cards/0431_valoir.yml) |
+| 431 | valoir | kosten, wert sein | 60 | X | [Bearbeiten](cards/0431_valoir.yml) |
 | 432 | dollar | Dollar | 12 |  | [Bearbeiten](cards/0432_dollar.yml) |
 | 433 | intérieur | Innere | 58 |  | [Bearbeiten](cards/0433_intérieur.yml) |
 | 434 | page | (Buch-)seite | 46 | X | [Bearbeiten](cards/0434_page.yml) |
 | 435 | confiance | Vertrauen | 34 |  | [Bearbeiten](cards/0435_confiance.yml) |
 | 436 | choix | Wahl | 36 |  | [Bearbeiten](cards/0436_choix.yml) |
-| 437 | prévoir | vorhersehen | 33 |  | [Bearbeiten](cards/0437_prévoir.yml) |
+| 437 | prévoir | vorhersehen | 33 | X | [Bearbeiten](cards/0437_prévoir.yml) |
 | 438 | chance | Glück, Chance | 40 |  | [Bearbeiten](cards/0438_chance.yml) |
 | 439 | notamment | vor allem, insbesondere | 14 |  | [Bearbeiten](cards/0439_notamment.yml) |
 | 440 | type | Typ | 42 |  | [Bearbeiten](cards/0440_type.yml) |
@@ -549,7 +549,7 @@
 | 547 | tomber | fallen | 60 | X | [Bearbeiten](cards/0547_tomber.yml) |
 | 548 | départ | Abfahrt, Abreise | 49 |  | [Bearbeiten](cards/0548_départ.yml) |
 | 549 | mondial | weltweit, global | 17 |  | [Bearbeiten](cards/0549_mondial.yml) |
-| 550 | entraîner | trainieren, mit sich bringen | 43 |  | [Bearbeiten](cards/0550_entraîner.yml) |
+| 550 | entraîner | trainieren, mit sich bringen | 43 | X | [Bearbeiten](cards/0550_entraîner.yml) |
 | 551 | disposer | anordnen, verfügen | 47 |  | [Bearbeiten](cards/0551_disposer.yml) |
 | 552 | parole | Wort, Sprache | 60 |  | [Bearbeiten](cards/0552_parole.yml) |
 | 553 | fond | Boden, Hintergrund | 60 | X | [Bearbeiten](cards/0553_fond.yml) |
@@ -596,7 +596,7 @@
 | 594 | autour | um ... (herum) | 26 |  | [Bearbeiten](cards/0594_autour.yml) |
 | 595 | réduire | verringern, reduzieren | 61 |  | [Bearbeiten](cards/0595_réduire.yml) |
 | 596 | d’après | laut, nach | 58 | X | [Bearbeiten](cards/0596_d’après.yml) |
-| 597 | préférer | vorziehen | 27 |  | [Bearbeiten](cards/0597_préférer.yml) |
+| 597 | préférer | vorziehen | 27 | X | [Bearbeiten](cards/0597_préférer.yml) |
 | 598 | rue | Straße, Gasse | 40 | X | [Bearbeiten](cards/0598_rue.yml) |
 | 599 | riche | reich | 52 | X | [Bearbeiten](cards/0599_riche.yml) |
 | 600 | bref | kurz; jedenfalls | 33 | X | [Bearbeiten](cards/0600_bref.yml) |
@@ -666,7 +666,7 @@
 | 664 | conserver | aufbewahren, behalten | 41 |  | [Bearbeiten](cards/0664_conserver.yml) |
 | 665 | réel | echt, real | 39 | X | [Bearbeiten](cards/0665_réel.yml) |
 | 666 | campagne | Land, ländliche Gegend | 44 |  | [Bearbeiten](cards/0666_campagne.yml) |
-| 667 | naître | geboren werden | 45 |  | [Bearbeiten](cards/0667_naître.yml) |
+| 667 | naître | geboren werden | 45 | X | [Bearbeiten](cards/0667_naître.yml) |
 | 668 | accorder | gewähren; [sich] einigen | 45 |  | [Bearbeiten](cards/0668_accorder.yml) |
 | 669 | tourner | drehen, abbiegen | 58 | X | [Bearbeiten](cards/0669_tourner.yml) |
 | 670 | participer | teilnehmen, mitmachen | 26 |  | [Bearbeiten](cards/0670_participer.yml) |
@@ -692,7 +692,7 @@
 | 690 | militaire | Militär | 34 | X | [Bearbeiten](cards/0690_militaire.yml) |
 | 691 | frais | frisch; Gebühr | 60 | X | [Bearbeiten](cards/0691_frais.yml) |
 | 692 | industrie | Industrie | 38 | X | [Bearbeiten](cards/0692_industrie.yml) |
-| 693 | apparaître | auftauchen | 29 |  | [Bearbeiten](cards/0693_apparaître.yml) |
+| 693 | apparaître | auftauchen | 29 | X | [Bearbeiten](cards/0693_apparaître.yml) |
 | 694 | responsabilité | Verantwortung | 61 |  | [Bearbeiten](cards/0694_responsabilité.yml) |
 | 695 | réserver | reservieren, vorbehalten | 52 |  | [Bearbeiten](cards/0695_réserver.yml) |
 | 696 | porte | Tür | 60 |  | [Bearbeiten](cards/0696_porte.yml) |
@@ -709,19 +709,19 @@
 | 707 | signe | Zeichen | 62 |  | [Bearbeiten](cards/0707_signe.yml) |
 | 708 | blanc | weiß | 62 | X | [Bearbeiten](cards/0708_blanc.yml) |
 | 709 | origine | Ursprung | 51 |  | [Bearbeiten](cards/0709_origine.yml) |
-| 710 | vendre | verkaufen | 47 |  | [Bearbeiten](cards/0710_vendre.yml) |
+| 710 | vendre | verkaufen | 47 | X | [Bearbeiten](cards/0710_vendre.yml) |
 | 711 | vite | schnell, bald | 41 | X | [Bearbeiten](cards/0711_vite.yml) |
 | 712 | langue | Sprache, Zunge | 61 | X | [Bearbeiten](cards/0712_langue.yml) |
 | 713 | dangereux | gefährlich | 28 | X | [Bearbeiten](cards/0713_dangereux.yml) |
 | 714 | déplacer | verschieben, bewegen | 42 | X | [Bearbeiten](cards/0714_déplacer.yml) |
 | 715 | importance | Bedeutung; Ausmaß | 29 |  | [Bearbeiten](cards/0715_importance.yml) |
-| 716 | suffire | genügen, ausreichen | 43 |  | [Bearbeiten](cards/0716_suffire.yml) |
+| 716 | suffire | genügen, ausreichen | 43 | X | [Bearbeiten](cards/0716_suffire.yml) |
 | 717 | espoir | Hoffnung | 37 |  | [Bearbeiten](cards/0717_espoir.yml) |
 | 718 | davantage | mehr; länger | 19 | X | [Bearbeiten](cards/0718_davantage.yml) |
 | 719 | saisir | erfassen | 62 |  | [Bearbeiten](cards/0719_saisir.yml) |
 | 720 | énergie | Energie | 40 | X | [Bearbeiten](cards/0720_énergie.yml) |
 | 721 | réseau | Netzwerk | 52 |  | [Bearbeiten](cards/0721_réseau.yml) |
-| 722 | mourir | sterben | 59 |  | [Bearbeiten](cards/0722_mourir.yml) |
+| 722 | mourir | sterben | 59 | X | [Bearbeiten](cards/0722_mourir.yml) |
 | 723 | faible | schwach | 62 | X | [Bearbeiten](cards/0723_faible.yml) |
 | 724 | employer | verwenden; einstellen | 31 |  | [Bearbeiten](cards/0724_employer.yml) |
 | 725 | possibilité | Möglichkeit | 29 |  | [Bearbeiten](cards/0725_possibilité.yml) |
@@ -775,7 +775,7 @@
 | 773 | discours | Rede | 36 |  | [Bearbeiten](cards/0773_discours.yml) |
 | 774 | banque | Bank | 30 |  | [Bearbeiten](cards/0774_banque.yml) |
 | 775 | compagnie | Gesellschaft, Truppe | 39 | X | [Bearbeiten](cards/0775_compagnie.yml) |
-| 776 | reposer | sich ausruhen | 56 |  | [Bearbeiten](cards/0776_reposer.yml) |
+| 776 | reposer | sich ausruhen | 56 | X | [Bearbeiten](cards/0776_reposer.yml) |
 | 777 | opinion | Meinung | 37 |  | [Bearbeiten](cards/0777_opinion.yml) |
 | 778 | classe | Klasse | 61 |  | [Bearbeiten](cards/0778_classe.yml) |
 | 779 | particulièrement | besonders, vor allem | 15 |  | [Bearbeiten](cards/0779_particulièrement.yml) |
@@ -790,7 +790,7 @@
 | 788 | observer | beobachten | 37 |  | [Bearbeiten](cards/0788_observer.yml) |
 | 789 | capacité | Fähigkeit, Kapazität | 64 |  | [Bearbeiten](cards/0789_capacité.yml) |
 | 790 | désigner | bezeichnen, benennen | 30 | X | [Bearbeiten](cards/0790_désigner.yml) |
-| 791 | dépendre | [von etw./jmd.] abhängen | 32 |  | [Bearbeiten](cards/0791_dépendre.yml) |
+| 791 | dépendre | [von etw./jmd.] abhängen | 32 | X | [Bearbeiten](cards/0791_dépendre.yml) |
 | 792 | message | Nachricht | 31 |  | [Bearbeiten](cards/0792_message.yml) |
 | 793 | construire | bauen, errichten | 34 |  | [Bearbeiten](cards/0793_construire.yml) |
 | 794 | scène | Bühne | 55 |  | [Bearbeiten](cards/0794_scène.yml) |
@@ -803,7 +803,7 @@
 | 801 | nul | nichts, schlecht; Null | 48 | X | [Bearbeiten](cards/0801_nul.yml) |
 | 802 | absence | Abwesenheit | 31 |  | [Bearbeiten](cards/0802_absence.yml) |
 | 803 | cher | (←) lieb; (→) teuer | 51 | X | [Bearbeiten](cards/0803_cher.yml) |
-| 804 | plaire | gefallen | 55 |  | [Bearbeiten](cards/0804_plaire.yml) |
+| 804 | plaire | gefallen | 55 | X | [Bearbeiten](cards/0804_plaire.yml) |
 | 805 | derrière | hinter | 59 | X | [Bearbeiten](cards/0805_derrière.yml) |
 | 806 | connaissance | Kenntnis, Bekanntschaft | 61 |  | [Bearbeiten](cards/0806_connaissance.yml) |
 | 807 | immédiatement | sofort, unverzüglich | 16 |  | [Bearbeiten](cards/0807_immédiatement.yml) |
@@ -852,7 +852,7 @@
 | 850 | envisager | erwägen; rechnen mit | 20 |  | [Bearbeiten](cards/0850_envisager.yml) |
 | 851 | commune | Gemeinde | 16 |  | [Bearbeiten](cards/0851_commune.yml) |
 | 852 | ressource | Ressource | 42 |  | [Bearbeiten](cards/0852_ressource.yml) |
-| 853 | monter | (be-)steigen, aufstellen | 59 |  | [Bearbeiten](cards/0853_monter.yml) |
+| 853 | monter | (be-)steigen, aufstellen | 59 | X | [Bearbeiten](cards/0853_monter.yml) |
 | 854 | promettre | versprechen | 42 | X | [Bearbeiten](cards/0854_promettre.yml) |
 | 855 | motion | Antrag | 13 | X | [Bearbeiten](cards/0855_motion.yml) |
 | 856 | concentrer | konzentrieren | 30 |  | [Bearbeiten](cards/0856_concentrer.yml) |
@@ -924,7 +924,7 @@
 | 922 | rapporter | zurückbringen; berichten | 55 | X | [Bearbeiten](cards/0922_rapporter.yml) |
 | 923 | appuyer | lehnen, drücken; unterstützen | 50 |  | [Bearbeiten](cards/0923_appuyer.yml) |
 | 924 | liste | Liste | 33 |  | [Bearbeiten](cards/0924_liste.yml) |
-| 925 | rentrer | nach Hause kommen, zurückkehren | 60 |  | [Bearbeiten](cards/0925_rentrer.yml) |
+| 925 | rentrer | nach Hause kommen, zurückkehren | 60 | X | [Bearbeiten](cards/0925_rentrer.yml) |
 | 926 | mémoire | Gedächtnis, Erinnerung | 60 |  | [Bearbeiten](cards/0926_mémoire.yml) |
 | 927 | caractère | Charakter | 62 | X | [Bearbeiten](cards/0927_caractère.yml) |
 | 928 | détruire | zerstören | 41 |  | [Bearbeiten](cards/0928_détruire.yml) |
@@ -969,7 +969,7 @@
 | 967 | amour | Liebe | 60 | X | [Bearbeiten](cards/0967_amour.yml) |
 | 968 | manifester | zeigen, äußern | 27 | X | [Bearbeiten](cards/0968_manifester.yml) |
 | 969 | menacer | drohen | 24 |  | [Bearbeiten](cards/0969_menacer.yml) |
-| 970 | conseiller | empfehlen, beraten | 39 |  | [Bearbeiten](cards/0970_conseiller.yml) |
+| 970 | conseiller | empfehlen, beraten | 39 | X | [Bearbeiten](cards/0970_conseiller.yml) |
 | 971 | réunion | Treffen, Versammlung | 44 |  | [Bearbeiten](cards/0971_réunion.yml) |
 | 972 | opposition | Opposition | 39 |  | [Bearbeiten](cards/0972_opposition.yml) |
 | 973 | maladie | Krankheit | 36 | X | [Bearbeiten](cards/0973_maladie.yml) |
@@ -1099,13 +1099,13 @@
 | 1097 | ramener | zurückbringen | 53 | X | [Bearbeiten](cards/1097_ramener.yml) |
 | 1098 | soldat | Soldat | 27 | X | [Bearbeiten](cards/1098_soldat.yml) |
 | 1099 | collègue | Kollege | 13 | X | [Bearbeiten](cards/1099_collègue.yml) |
-| 1100 | concevoir | entwerfen, konzipieren | 34 |  | [Bearbeiten](cards/1100_concevoir.yml) |
+| 1100 | concevoir | entwerfen, konzipieren | 34 | X | [Bearbeiten](cards/1100_concevoir.yml) |
 | 1101 | procéder | vorgehen, verfahren | 26 |  | [Bearbeiten](cards/1101_procéder.yml) |
 | 1102 | poids | Gewicht | 62 |  | [Bearbeiten](cards/1102_poids.yml) |
 | 1103 | voici | hier ist/sind | 27 |  | [Bearbeiten](cards/1103_voici.yml) |
 | 1104 | acquérir | erwerben | 41 |  | [Bearbeiten](cards/1104_acquérir.yml) |
 | 1105 | moindre | geringste(-r/s), kleinste(-r/s) | 27 |  | [Bearbeiten](cards/1105_moindre.yml) |
-| 1106 | convenir | passen, geeignet sein | 49 |  | [Bearbeiten](cards/1106_convenir.yml) |
+| 1106 | convenir | passen, geeignet sein | 49 | X | [Bearbeiten](cards/1106_convenir.yml) |
 | 1107 | logique | Logik | 33 |  | [Bearbeiten](cards/1107_logique.yml) |
 | 1108 | examiner | prüfen, untersuchen | 23 | X | [Bearbeiten](cards/1108_examiner.yml) |
 | 1109 | soin | Sorgfalt, Pflege | 64 |  | [Bearbeiten](cards/1109_soin.yml) |
@@ -1134,10 +1134,10 @@
 | 1132 | vif | lebhaft, lebendig | 59 |  | [Bearbeiten](cards/1132_vif.yml) |
 | 1133 | exact | genau, exakt | 31 |  | [Bearbeiten](cards/1133_exact.yml) |
 | 1134 | exception | Ausnahme | 32 |  | [Bearbeiten](cards/1134_exception.yml) |
-| 1135 | doubler | überholen, verdoppeln | 50 |  | [Bearbeiten](cards/1135_doubler.yml) |
+| 1135 | doubler | überholen, verdoppeln | 50 | X | [Bearbeiten](cards/1135_doubler.yml) |
 | 1136 | février | Februar | 12 | X | [Bearbeiten](cards/1136_février.yml) |
 | 1137 | mode | Methode; Mode | 62 | X | [Bearbeiten](cards/1137_mode.yml) |
-| 1138 | tendre | zart, weich; ausstrecken | 64 |  | [Bearbeiten](cards/1138_tendre.yml) |
+| 1138 | tendre | zart, weich; ausstrecken | 64 | X | [Bearbeiten](cards/1138_tendre.yml) |
 | 1139 | musique | Musik | 57 |  | [Bearbeiten](cards/1139_musique.yml) |
 | 1140 | gestion | Verwaltung, Management | 27 |  | [Bearbeiten](cards/1140_gestion.yml) |
 | 1141 | honneur | Ehre | 62 |  | [Bearbeiten](cards/1141_honneur.yml) |
@@ -1153,7 +1153,7 @@
 | 1151 | envers | gegenüber; Rückseite | 35 |  | [Bearbeiten](cards/1151_envers.yml) |
 | 1152 | distribuer | verteilen | 33 |  | [Bearbeiten](cards/1152_distribuer.yml) |
 | 1153 | existence | Existenz | 28 |  | [Bearbeiten](cards/1153_existence.yml) |
-| 1154 | prétendre | behaupten; beanspruchen | 29 |  | [Bearbeiten](cards/1154_prétendre.yml) |
+| 1154 | prétendre | behaupten; beanspruchen | 29 | X | [Bearbeiten](cards/1154_prétendre.yml) |
 | 1155 | global | global, weltweit | 16 |  | [Bearbeiten](cards/1155_global.yml) |
 | 1156 | dommage | Schaden; schade | 35 |  | [Bearbeiten](cards/1156_dommage.yml) |
 | 1157 | crédit | Kredit | 60 |  | [Bearbeiten](cards/1157_crédit.yml) |
@@ -1273,7 +1273,7 @@
 | 1271 | néanmoins | nichtsdestotrotz | 14 | X | [Bearbeiten](cards/1271_néanmoins.yml) |
 | 1272 | bénéficier | profitieren, Nutzen ziehen | 17 |  | [Bearbeiten](cards/1272_bénéficier.yml) |
 | 1273 | vingt | zwanzig | 34 | X | [Bearbeiten](cards/1273_vingt.yml) |
-| 1274 | revoir | wiedersehen | 37 |  | [Bearbeiten](cards/1274_revoir.yml) |
+| 1274 | revoir | wiedersehen | 37 | X | [Bearbeiten](cards/1274_revoir.yml) |
 | 1275 | perspective | Perspektive | 30 |  | [Bearbeiten](cards/1275_perspective.yml) |
 | 1276 | défaut | Fehler, Defekt | 48 |  | [Bearbeiten](cards/1276_défaut.yml) |
 | 1277 | précieux | wertvoll, kostbar | 29 |  | [Bearbeiten](cards/1277_précieux.yml) |
@@ -1301,7 +1301,7 @@
 | 1299 | organisme | Organismus | 23 | X | [Bearbeiten](cards/1299_organisme.yml) |
 | 1300 | leçon | Lektion, Unterrichtsstunde | 34 |  | [Bearbeiten](cards/1300_leçon.yml) |
 | 1301 | accomplir | vollbringen, erfüllen | 29 |  | [Bearbeiten](cards/1301_accomplir.yml) |
-| 1302 | décevoir | enttäuschen | 16 |  | [Bearbeiten](cards/1302_décevoir.yml) |
+| 1302 | décevoir | enttäuschen | 16 | X | [Bearbeiten](cards/1302_décevoir.yml) |
 | 1303 | bataille | Schlacht | 37 |  | [Bearbeiten](cards/1303_bataille.yml) |
 | 1304 | port | Hafen | 56 | X | [Bearbeiten](cards/1304_port.yml) |
 | 1305 | naissance | Geburt | 39 |  | [Bearbeiten](cards/1305_naissance.yml) |
@@ -1330,7 +1330,7 @@
 | 1328 | candidat | Kandidat | 18 | X | [Bearbeiten](cards/1328_candidat.yml) |
 | 1329 | rapprocher | annähern | 45 | X | [Bearbeiten](cards/1329_rapprocher.yml) |
 | 1330 | résistance | Widerstand | 50 |  | [Bearbeiten](cards/1330_résistance.yml) |
-| 1331 | fier | stolz; (ver-)trauen | 43 |  | [Bearbeiten](cards/1331_fier.yml) |
+| 1331 | fier | stolz; (ver-)trauen | 43 | X | [Bearbeiten](cards/1331_fier.yml) |
 | 1332 | justement | genau, eben, gerade | 21 |  | [Bearbeiten](cards/1332_justement.yml) |
 | 1333 | habitant | Bewohner | 18 | X | [Bearbeiten](cards/1333_habitant.yml) |
 | 1334 | formule | Formel | 40 |  | [Bearbeiten](cards/1334_formule.yml) |
@@ -1414,7 +1414,7 @@
 | 1412 | photo | Foto | 32 |  | [Bearbeiten](cards/1412_photo.yml) |
 | 1413 | précéder | vorausgehen | 25 |  | [Bearbeiten](cards/1413_précéder.yml) |
 | 1414 | solide | fest, stabil | 53 |  | [Bearbeiten](cards/1414_solide.yml) |
-| 1415 | correspondre | entsprechen, übereinstimmen | 31 |  | [Bearbeiten](cards/1415_correspondre.yml) |
+| 1415 | correspondre | entsprechen, übereinstimmen | 31 | X | [Bearbeiten](cards/1415_correspondre.yml) |
 | 1416 | navire | (großes) Schiff | 23 | X | [Bearbeiten](cards/1416_navire.yml) |
 | 1417 | centaine | Hundert (ungefähr) | 23 |  | [Bearbeiten](cards/1417_centaine.yml) |
 | 1418 | explication | Erklärung | 23 |  | [Bearbeiten](cards/1418_explication.yml) |
@@ -1506,8 +1506,8 @@
 | 1504 | arrière | hinten | 55 | X | [Bearbeiten](cards/1504_arrière.yml) |
 | 1505 | vision | Vision | 34 | X | [Bearbeiten](cards/1505_vision.yml) |
 | 1506 | investir | investieren | 28 |  | [Bearbeiten](cards/1506_investir.yml) |
-| 1507 | diminuer | nachlassen, reduzieren | 46 |  | [Bearbeiten](cards/1507_diminuer.yml) |
-| 1508 | réfugier | flüchten | 15 |  | [Bearbeiten](cards/1508_réfugier.yml) |
+| 1507 | diminuer | nachlassen, reduzieren | 46 | X | [Bearbeiten](cards/1507_diminuer.yml) |
+| 1508 | réfugier | flüchten | 15 | X | [Bearbeiten](cards/1508_réfugier.yml) |
 | 1509 | entourer | umgeben, umzingeln | 38 |  | [Bearbeiten](cards/1509_entourer.yml) |
 | 1510 | juif | jüdisch; Jude | 22 | X | [Bearbeiten](cards/1510_juif.yml) |
 | 1511 | considérable | beträchtlich, erheblich | 17 |  | [Bearbeiten](cards/1511_considérable.yml) |
@@ -1657,10 +1657,10 @@
 | 1655 | attaque | Angriff | 34 |  | [Bearbeiten](cards/1655_attaque.yml) |
 | 1656 | assurance | Versicherung | 41 |  | [Bearbeiten](cards/1656_assurance.yml) |
 | 1657 | déficit | Defizit | 30 |  | [Bearbeiten](cards/1657_déficit.yml) |
-| 1658 | évoluer | sich entwickeln | 31 |  | [Bearbeiten](cards/1658_évoluer.yml) |
+| 1658 | évoluer | sich entwickeln | 31 | X | [Bearbeiten](cards/1658_évoluer.yml) |
 | 1659 | drogue | Droge | 21 |  | [Bearbeiten](cards/1659_drogue.yml) |
 | 1660 | concret | konkret | 25 |  | [Bearbeiten](cards/1660_concret.yml) |
-| 1661 | percevoir | wahrnehmen | 27 |  | [Bearbeiten](cards/1661_percevoir.yml) |
+| 1661 | percevoir | wahrnehmen | 27 | X | [Bearbeiten](cards/1661_percevoir.yml) |
 | 1662 | rythme | Rhythmus | 34 |  | [Bearbeiten](cards/1662_rythme.yml) |
 | 1663 | approuver | genehmigen, zustimmen | 22 |  | [Bearbeiten](cards/1663_approuver.yml) |
 | 1664 | douze | zwölf | 32 | X | [Bearbeiten](cards/1664_douze.yml) |
@@ -1729,7 +1729,7 @@
 | 1727 | suffisamment | genug, ausreichend | 14 |  | [Bearbeiten](cards/1727_suffisamment.yml) |
 | 1728 | défi | Herausforderung | 22 |  | [Bearbeiten](cards/1728_défi.yml) |
 | 1729 | front | Stirn | 42 | X | [Bearbeiten](cards/1729_front.yml) |
-| 1730 | suspendre | (auf-)hängen, aussetzen | 34 |  | [Bearbeiten](cards/1730_suspendre.yml) |
+| 1730 | suspendre | (auf-)hängen, aussetzen | 34 | X | [Bearbeiten](cards/1730_suspendre.yml) |
 | 1731 | calme | Ruhe; ruhig | 40 |  | [Bearbeiten](cards/1731_calme.yml) |
 | 1732 | montagne | Berg | 34 | X | [Bearbeiten](cards/1732_montagne.yml) |
 | 1733 | sévère | hart, streng | 30 | X | [Bearbeiten](cards/1733_sévère.yml) |
@@ -1852,7 +1852,7 @@
 | 1850 | langage | Sprache | 39 | X | [Bearbeiten](cards/1850_langage.yml) |
 | 1851 | plainte | Klage, Beschwerde | 26 |  | [Bearbeiten](cards/1851_plainte.yml) |
 | 1852 | chaud | warm, heiß | 63 | X | [Bearbeiten](cards/1852_chaud.yml) |
-| 1853 | taire | still sein, schweigen | 35 |  | [Bearbeiten](cards/1853_taire.yml) |
+| 1853 | taire | still sein, schweigen | 35 | X | [Bearbeiten](cards/1853_taire.yml) |
 | 1854 | émotion | Emotion | 19 |  | [Bearbeiten](cards/1854_émotion.yml) |
 | 1855 | judiciaire | Justiz-, gerichtlich | 32 |  | [Bearbeiten](cards/1855_judiciaire.yml) |
 | 1856 | progresser | fortschreiten, vorankommen | 24 | X | [Bearbeiten](cards/1856_progresser.yml) |
@@ -2040,7 +2040,7 @@
 | 2038 | procurer | beschaffen, verschaffen | 20 |  | [Bearbeiten](cards/2038_procurer.yml) |
 | 2039 | officier | Offizier | 33 | X | [Bearbeiten](cards/2039_officier.yml) |
 | 2040 | remarquable | bemerkenswert | 21 |  | [Bearbeiten](cards/2040_remarquable.yml) |
-| 2041 | efforcer | sich bemühen, sich anstrengen | 16 |  | [Bearbeiten](cards/2041_efforcer.yml) |
+| 2041 | efforcer | sich bemühen, sich anstrengen | 16 | X | [Bearbeiten](cards/2041_efforcer.yml) |
 | 2042 | tragique | tragisch | 29 |  | [Bearbeiten](cards/2042_tragique.yml) |
 | 2043 | anniversaire | Geburtstag, Jubiläum | 22 | X | [Bearbeiten](cards/2043_anniversaire.yml) |
 | 2044 | issu | hervorgegangen, stammend | 17 |  | [Bearbeiten](cards/2044_issu.yml) |
@@ -2094,7 +2094,7 @@
 | 2092 | volet | (Fenster-)laden, Klappe | 22 |  | [Bearbeiten](cards/2092_volet.yml) |
 | 2093 | bâtir | bauen | 28 |  | [Bearbeiten](cards/2093_bâtir.yml) |
 | 2094 | prime | Prämie | 48 |  | [Bearbeiten](cards/2094_prime.yml) |
-| 2095 | résulter | ergeben, entstehen | 16 |  | [Bearbeiten](cards/2095_résulter.yml) |
+| 2095 | résulter | ergeben, entstehen | 16 | X | [Bearbeiten](cards/2095_résulter.yml) |
 | 2096 | occupation | Beschäftigung, Besetzung | 26 |  | [Bearbeiten](cards/2096_occupation.yml) |
 | 2097 | japonais | japanisch; Japaner | 16 | X | [Bearbeiten](cards/2097_japonais.yml) |
 | 2098 | emmener | [jemanden] mitnehmen, wegbringen | 23 | X | [Bearbeiten](cards/2098_emmener.yml) |
@@ -2198,7 +2198,7 @@
 | 2196 | parallèle | Parallele | 36 |  | [Bearbeiten](cards/2196_parallèle.yml) |
 | 2197 | répartir | verteilen, aufteilen | 36 |  | [Bearbeiten](cards/2197_répartir.yml) |
 | 2198 | courageux | mutig | 17 |  | [Bearbeiten](cards/2198_courageux.yml) |
-| 2199 | réveiller | aufwecken, aufwachen | 45 |  | [Bearbeiten](cards/2199_réveiller.yml) |
+| 2199 | réveiller | aufwecken, aufwachen | 45 | X | [Bearbeiten](cards/2199_réveiller.yml) |
 | 2200 | satellite | Satellit | 27 | X | [Bearbeiten](cards/2200_satellite.yml) |
 | 2201 | ordinateur | Computer | 27 | X | [Bearbeiten](cards/2201_ordinateur.yml) |
 | 2202 | fondé | fundiert sein | 20 |  | [Bearbeiten](cards/2202_fondé.yml) |
@@ -2250,8 +2250,8 @@
 | 2248 | dispositif | Vorrichtung | 17 |  | [Bearbeiten](cards/2248_dispositif.yml) |
 | 2249 | constitutionnel | Verfassungs- | 24 |  | [Bearbeiten](cards/2249_constitutionnel.yml) |
 | 2250 | contrainte | Zwang | 24 |  | [Bearbeiten](cards/2250_contrainte.yml) |
-| 2251 | tarder | trödeln, sich Zeit lassen | 24 |  | [Bearbeiten](cards/2251_tarder.yml) |
-| 2252 | refaire | wieder machen | 45 |  | [Bearbeiten](cards/2252_refaire.yml) |
+| 2251 | tarder | trödeln, sich Zeit lassen | 24 | X | [Bearbeiten](cards/2251_tarder.yml) |
+| 2252 | refaire | wieder machen | 45 | X | [Bearbeiten](cards/2252_refaire.yml) |
 | 2253 | pleurer | weinen | 53 |  | [Bearbeiten](cards/2253_pleurer.yml) |
 | 2254 | débattre | debattieren, verhandeln | 23 |  | [Bearbeiten](cards/2254_débattre.yml) |
 | 2255 | immigration | Einwanderung | 16 |  | [Bearbeiten](cards/2255_immigration.yml) |
@@ -2398,12 +2398,12 @@
 | 2396 | pleinement | voll (und ganz) | 12 |  | [Bearbeiten](cards/2396_pleinement.yml) |
 | 2397 | désastre | Desaster | 21 |  | [Bearbeiten](cards/2397_désastre.yml) |
 | 2398 | joli | hübsch, schön | 43 |  | [Bearbeiten](cards/2398_joli.yml) |
-| 2399 | promouvoir | befördern, fördern | 17 |  | [Bearbeiten](cards/2399_promouvoir.yml) |
+| 2399 | promouvoir | befördern, fördern | 17 | X | [Bearbeiten](cards/2399_promouvoir.yml) |
 | 2400 | écho | Widerhall | 28 | X | [Bearbeiten](cards/2400_écho.yml) |
 | 2401 | fusion | Verschmelzung | 32 |  | [Bearbeiten](cards/2401_fusion.yml) |
 | 2402 | innovation | Innovation | 15 |  | [Bearbeiten](cards/2402_innovation.yml) |
 | 2403 | sélection | Auswahl | 29 |  | [Bearbeiten](cards/2403_sélection.yml) |
-| 2404 | confondre | verwechseln, durcheinanderbringen | 37 |  | [Bearbeiten](cards/2404_confondre.yml) |
+| 2404 | confondre | verwechseln, durcheinanderbringen | 37 | X | [Bearbeiten](cards/2404_confondre.yml) |
 | 2405 | honnête | ehrlich, anständig | 38 |  | [Bearbeiten](cards/2405_honnête.yml) |
 | 2406 | tournant | Wende, Dreh- | 34 |  | [Bearbeiten](cards/2406_tournant.yml) |
 | 2407 | automobile | Auto-; Kraftfahrzeug | 25 | X | [Bearbeiten](cards/2407_automobile.yml) |
@@ -2432,7 +2432,7 @@
 | 2430 | porteur | Träger | 52 | X | [Bearbeiten](cards/2430_porteur.yml) |
 | 2431 | préalable | (Vor-)bedingung; vorherig | 23 |  | [Bearbeiten](cards/2431_préalable.yml) |
 | 2432 | programmer | programmieren | 18 |  | [Bearbeiten](cards/2432_programmer.yml) |
-| 2433 | traîner | (hin-)ziehen, schleppen | 61 |  | [Bearbeiten](cards/2433_traîner.yml) |
+| 2433 | traîner | (hin-)ziehen, schleppen | 61 | X | [Bearbeiten](cards/2433_traîner.yml) |
 | 2434 | domicile | Wohnsitz, Haus- | 24 |  | [Bearbeiten](cards/2434_domicile.yml) |
 | 2435 | oiseau | Vogel | 29 | X | [Bearbeiten](cards/2435_oiseau.yml) |
 | 2436 | quarante | vierzig | 30 | X | [Bearbeiten](cards/2436_quarante.yml) |
@@ -2769,7 +2769,7 @@
 | 2767 | éventuellement | eventuell, möglicherweise | 11 |  | [Bearbeiten](cards/2767_éventuellement.yml) |
 | 2768 | vache | Kuh; gemein | 62 | X | [Bearbeiten](cards/2768_vache.yml) |
 | 2769 | gris | grau | 52 | X | [Bearbeiten](cards/2769_gris.yml) |
-| 2770 | aise | Wohlbefinden, Bequemlichkeit | 35 |  | [Bearbeiten](cards/2770_aise.yml) |
+| 2770 | aise | Wohlbefinden, Bequemlichkeit | 35 | X | [Bearbeiten](cards/2770_aise.yml) |
 | 2771 | agression | Überfall | 20 |  | [Bearbeiten](cards/2771_agression.yml) |
 | 2772 | loisir | Freizeit | 24 | X | [Bearbeiten](cards/2772_loisir.yml) |
 | 2773 | chaleur | Hitze, Wärme | 41 | X | [Bearbeiten](cards/2773_chaleur.yml) |
@@ -2857,7 +2857,7 @@
 | 2855 | cigarette | Zigarette | 19 | X | [Bearbeiten](cards/2855_cigarette.yml) |
 | 2856 | vallée | Tal | 17 | X | [Bearbeiten](cards/2856_vallée.yml) |
 | 2857 | artificiel | künstlich | 28 |  | [Bearbeiten](cards/2857_artificiel.yml) |
-| 2858 | différer | sich unterscheiden; verschieben | 22 |  | [Bearbeiten](cards/2858_différer.yml) |
+| 2858 | différer | sich unterscheiden; verschieben | 22 | X | [Bearbeiten](cards/2858_différer.yml) |
 | 2859 | honorer | ehren, würdigen | 36 |  | [Bearbeiten](cards/2859_honorer.yml) |
 | 2860 | entrevue | Treffen, Interview | 13 |  | [Bearbeiten](cards/2860_entrevue.yml) |
 | 2861 | ressort | Feder; Zuständigkeit | 36 |  | [Bearbeiten](cards/2861_ressort.yml) |
@@ -3122,7 +3122,7 @@
 | 3120 | souffle | Atem, Hauch | 51 | X | [Bearbeiten](cards/3120_souffle.yml) |
 | 3121 | lac | See | 22 | X | [Bearbeiten](cards/3121_lac.yml) |
 | 3122 | souhait | Wunsch | 19 |  | [Bearbeiten](cards/3122_souhait.yml) |
-| 3123 | prévaloir | vorherrschen, durchsetzen | 23 |  | [Bearbeiten](cards/3123_prévaloir.yml) |
+| 3123 | prévaloir | vorherrschen, durchsetzen | 23 | X | [Bearbeiten](cards/3123_prévaloir.yml) |
 | 3124 | sixième | sechste(-r/s) | 21 | X | [Bearbeiten](cards/3124_sixième.yml) |
 | 3125 | enveloppe | Umschlag, Hülle | 31 |  | [Bearbeiten](cards/3125_enveloppe.yml) |
 | 3126 | extension | (Aus-)dehnung, Erweiterung | 29 |  | [Bearbeiten](cards/3126_extension.yml) |
@@ -3160,7 +3160,7 @@
 | 3158 | manuel | Handbuch; handwerklich | 29 |  | [Bearbeiten](cards/3158_manuel.yml) |
 | 3159 | contracter | zusammenziehen, zuziehen; eingehen | 37 |  | [Bearbeiten](cards/3159_contracter.yml) |
 | 3160 | territorial | Gebiets- | 19 |  | [Bearbeiten](cards/3160_territorial.yml) |
-| 3161 | subsister | (fort-)bestehen, (über-)leben | 16 |  | [Bearbeiten](cards/3161_subsister.yml) |
+| 3161 | subsister | (fort-)bestehen, (über-)leben | 16 | X | [Bearbeiten](cards/3161_subsister.yml) |
 | 3162 | carré | Quadrat | 46 |  | [Bearbeiten](cards/3162_carré.yml) |
 | 3163 | voleur | Dieb | 24 | X | [Bearbeiten](cards/3163_voleur.yml) |
 | 3164 | centrale | Kraftwerk | 41 |  | [Bearbeiten](cards/3164_centrale.yml) |
@@ -3334,7 +3334,7 @@
 | 3332 | proie | Beute | 25 |  | [Bearbeiten](cards/3332_proie.yml) |
 | 3333 | domination | Vormacht, Herrschaft | 18 |  | [Bearbeiten](cards/3333_domination.yml) |
 | 3334 | otage | Geisel | 15 | X | [Bearbeiten](cards/3334_otage.yml) |
-| 3335 | moquer | sich lustig machen, spotten | 28 |  | [Bearbeiten](cards/3335_moquer.yml) |
+| 3335 | moquer | sich lustig machen, spotten | 28 | X | [Bearbeiten](cards/3335_moquer.yml) |
 | 3336 | allier | verbünden, vereinen | 22 |  | [Bearbeiten](cards/3336_allier.yml) |
 | 3337 | couvert | Besteck, Gedeck; bedeckt | 42 |  | [Bearbeiten](cards/3337_couvert.yml) |
 | 3338 | demi-heure | halbe Stunde | 11 | X | [Bearbeiten](cards/3338_demi-heure.yml) |
@@ -3495,7 +3495,7 @@
 | 3493 | pilier | Stütze, Pfeiler | 22 |  | [Bearbeiten](cards/3493_pilier.yml) |
 | 3494 | animateur | Moderator, Betreuer | 18 |  | [Bearbeiten](cards/3494_animateur.yml) |
 | 3495 | multinational | multinational | 12 |  | [Bearbeiten](cards/3495_multinational.yml) |
-| 3496 | méfier | sich in Acht nehmen, misstrauen | 17 |  | [Bearbeiten](cards/3496_méfier.yml) |
+| 3496 | méfier | sich in Acht nehmen, misstrauen | 17 | X | [Bearbeiten](cards/3496_méfier.yml) |
 | 3497 | étroitement | eng [adv.] | 21 |  | [Bearbeiten](cards/3497_étroitement.yml) |
 | 3498 | jouet | Spielzeug | 21 |  | [Bearbeiten](cards/3498_jouet.yml) |
 | 3499 | formé | gebildet, ausgebildet | 16 |  | [Bearbeiten](cards/3499_formé.yml) |
@@ -3787,7 +3787,7 @@
 | 3785 | notable | erheblich, beachtlich | 19 |  | [Bearbeiten](cards/3785_notable.yml) |
 | 3786 | rationnel | vernünftig, rational | 24 |  | [Bearbeiten](cards/3786_rationnel.yml) |
 | 3787 | divin | göttlich | 31 |  | [Bearbeiten](cards/3787_divin.yml) |
-| 3788 | endormir | einschlafen | 37 |  | [Bearbeiten](cards/3788_endormir.yml) |
+| 3788 | endormir | einschlafen | 37 | X | [Bearbeiten](cards/3788_endormir.yml) |
 | 3789 | épais | dick, dicht | 45 |  | [Bearbeiten](cards/3789_épais.yml) |
 | 3790 | exposé | Referat, Darstellung | 22 |  | [Bearbeiten](cards/3790_exposé.yml) |
 | 3791 | boutique | Laden, Geschäft | 20 |  | [Bearbeiten](cards/3791_boutique.yml) |
@@ -3803,12 +3803,12 @@
 | 3801 | quota | Quote | 14 |  | [Bearbeiten](cards/3801_quota.yml) |
 | 3802 | tailler | schneiden, schnitzen | 40 |  | [Bearbeiten](cards/3802_tailler.yml) |
 | 3803 | apparent | offensichtlich, sichtbar | 19 |  | [Bearbeiten](cards/3803_apparent.yml) |
-| 3804 | enfuir | fliehen, entschwinden | 17 |  | [Bearbeiten](cards/3804_enfuir.yml) |
+| 3804 | enfuir | fliehen, entschwinden | 17 | X | [Bearbeiten](cards/3804_enfuir.yml) |
 | 3805 | assistant | Assistent | 23 |  | [Bearbeiten](cards/3805_assistant.yml) |
 | 3806 | portion | Stück, Teil | 20 |  | [Bearbeiten](cards/3806_portion.yml) |
 | 3807 | allocation | Zuwendung, Unterstützung | 18 |  | [Bearbeiten](cards/3807_allocation.yml) |
 | 3808 | spéculation | Spekulation | 16 |  | [Bearbeiten](cards/3808_spéculation.yml) |
-| 3809 | décéder | versterben | 13 |  | [Bearbeiten](cards/3809_décéder.yml) |
+| 3809 | décéder | versterben | 13 | X | [Bearbeiten](cards/3809_décéder.yml) |
 | 3810 | serré | eng, dicht | 34 |  | [Bearbeiten](cards/3810_serré.yml) |
 | 3811 | enquêter | ermitteln, nachforschen | 16 |  | [Bearbeiten](cards/3811_enquêter.yml) |
 | 3812 | dix-sept | siebzehn | 25 | X | [Bearbeiten](cards/3812_dix-sept.yml) |
@@ -3869,7 +3869,7 @@
 | 3867 | tennis | Tennis | 21 | X | [Bearbeiten](cards/3867_tennis.yml) |
 | 3868 | avenue | Allee | 13 |  | [Bearbeiten](cards/3868_avenue.yml) |
 | 3869 | vengeance | Rache | 16 |  | [Bearbeiten](cards/3869_vengeance.yml) |
-| 3870 | émouvoir | [Emotion] bewegen, erregen | 20 |  | [Bearbeiten](cards/3870_émouvoir.yml) |
+| 3870 | émouvoir | [Emotion] bewegen, erregen | 20 | X | [Bearbeiten](cards/3870_émouvoir.yml) |
 | 3871 | hé | he | 18 |  | [Bearbeiten](cards/3871_hé.yml) |
 | 3872 | génial | genial, großartig | 17 |  | [Bearbeiten](cards/3872_génial.yml) |
 | 3873 | réduit | reduziert; Kammer | 26 |  | [Bearbeiten](cards/3873_réduit.yml) |
@@ -3958,7 +3958,7 @@
 | 3956 | apport | Beitrag, Zufuhr | 21 |  | [Bearbeiten](cards/3956_apport.yml) |
 | 3957 | remboursement | Rückerstattung, Erstattung | 22 |  | [Bearbeiten](cards/3957_remboursement.yml) |
 | 3958 | échelon | Stufe, Ebene | 22 |  | [Bearbeiten](cards/3958_échelon.yml) |
-| 3959 | fondre | schmelzen | 61 |  | [Bearbeiten](cards/3959_fondre.yml) |
+| 3959 | fondre | schmelzen | 61 | X | [Bearbeiten](cards/3959_fondre.yml) |
 | 3960 | occurrence | Vorkommen | 15 |  | [Bearbeiten](cards/3960_occurrence.yml) |
 | 3961 | authentique | echt, unverfälscht | 22 |  | [Bearbeiten](cards/3961_authentique.yml) |
 | 3962 | attentivement | aufmerksam, genau | 11 |  | [Bearbeiten](cards/3962_attentivement.yml) |
@@ -4069,7 +4069,7 @@
 | 4067 | voiler | verhüllen, verschleiern | 36 |  | [Bearbeiten](cards/4067_voiler.yml) |
 | 4068 | nationalité | Staatsangehörigkeit | 21 |  | [Bearbeiten](cards/4068_nationalité.yml) |
 | 4069 | serment | Eid | 28 |  | [Bearbeiten](cards/4069_serment.yml) |
-| 4070 | envoler | abheben, wegfliegen | 26 |  | [Bearbeiten](cards/4070_envoler.yml) |
+| 4070 | envoler | abheben, wegfliegen | 26 | X | [Bearbeiten](cards/4070_envoler.yml) |
 | 4071 | pasteur | Pastor [evang.] | 16 |  | [Bearbeiten](cards/4071_pasteur.yml) |
 | 4072 | activer | aktivieren, vorantreiben | 26 |  | [Bearbeiten](cards/4072_activer.yml) |
 | 4073 | chimie | Chemie | 17 |  | [Bearbeiten](cards/4073_chimie.yml) |
@@ -4212,7 +4212,7 @@
 | 4210 | confidentiel | vertraulich | 15 |  | [Bearbeiten](cards/4210_confidentiel.yml) |
 | 4211 | sanctionner | bestrafen, sanktionieren | 17 |  | [Bearbeiten](cards/4211_sanctionner.yml) |
 | 4212 | recrutement | Einstellung, Rekrutierung | 16 |  | [Bearbeiten](cards/4212_recrutement.yml) |
-| 4213 | détendre | entspannen | 28 |  | [Bearbeiten](cards/4213_détendre.yml) |
+| 4213 | détendre | entspannen | 28 | X | [Bearbeiten](cards/4213_détendre.yml) |
 | 4214 | aisé | einfach, leicht; wohlhabend | 23 |  | [Bearbeiten](cards/4214_aisé.yml) |
 | 4215 | toilette | Toilette, Badezimmer | 40 |  | [Bearbeiten](cards/4215_toilette.yml) |
 | 4216 | autobus | (Auto-)bus | 15 | X | [Bearbeiten](cards/4216_autobus.yml) |
@@ -4291,7 +4291,7 @@
 | 4289 | sous-sol | Untergeschoss | 14 |  | [Bearbeiten](cards/4289_sous-sol.yml) |
 | 4290 | rat | Ratte | 34 | X | [Bearbeiten](cards/4290_rat.yml) |
 | 4291 | flot | Flut | 46 |  | [Bearbeiten](cards/4291_flot.yml) |
-| 4292 | mordre | beißen | 50 |  | [Bearbeiten](cards/4292_mordre.yml) |
+| 4292 | mordre | beißen | 50 | X | [Bearbeiten](cards/4292_mordre.yml) |
 | 4293 | partiellement | teilweise | 12 |  | [Bearbeiten](cards/4293_partiellement.yml) |
 | 4294 | radioactif | radioaktiv | 16 |  | [Bearbeiten](cards/4294_radioactif.yml) |
 | 4295 | passe | Pass | 27 |  | [Bearbeiten](cards/4295_passe.yml) |
@@ -4359,7 +4359,7 @@
 | 4357 | jumeau | Zwilling | 25 | X | [Bearbeiten](cards/4357_jumeau.yml) |
 | 4358 | piéger | in die Falle locken | 19 |  | [Bearbeiten](cards/4358_piéger.yml) |
 | 4359 | confiant | selbstsicher, zuversichtlich | 19 |  | [Bearbeiten](cards/4359_confiant.yml) |
-| 4360 | pendre | hängen; aufhängen | 48 |  | [Bearbeiten](cards/4360_pendre.yml) |
+| 4360 | pendre | hängen; aufhängen | 48 | X | [Bearbeiten](cards/4360_pendre.yml) |
 | 4361 | intact | unversehrt | 20 |  | [Bearbeiten](cards/4361_intact.yml) |
 | 4362 | rapidité | Schnelligkeit | 22 |  | [Bearbeiten](cards/4362_rapidité.yml) |
 | 4363 | localité | Ort, Örtlichkeit | 12 |  | [Bearbeiten](cards/4363_localité.yml) |
@@ -4468,7 +4468,7 @@
 | 4466 | répliquer | erwidern, entgegnen | 20 |  | [Bearbeiten](cards/4466_répliquer.yml) |
 | 4467 | passionnant | fesselnd | 14 |  | [Bearbeiten](cards/4467_passionnant.yml) |
 | 4468 | théologie | Theologie | 15 |  | [Bearbeiten](cards/4468_théologie.yml) |
-| 4469 | advenir | geschehen | 19 |  | [Bearbeiten](cards/4469_advenir.yml) |
+| 4469 | advenir | geschehen | 19 | X | [Bearbeiten](cards/4469_advenir.yml) |
 | 4470 | immigrer | einwandern | 11 |  | [Bearbeiten](cards/4470_immigrer.yml) |
 | 4471 | tache | Fleck | 32 |  | [Bearbeiten](cards/4471_tache.yml) |
 | 4472 | tendresse | Zärtlichkeit | 14 |  | [Bearbeiten](cards/4472_tendresse.yml) |
@@ -4516,10 +4516,10 @@
 | 4514 | pneu | Reifen | 21 | X | [Bearbeiten](cards/4514_pneu.yml) |
 | 4515 | fraude | Betrug | 20 |  | [Bearbeiten](cards/4515_fraude.yml) |
 | 4516 | coton | Baumwolle | 33 | X | [Bearbeiten](cards/4516_coton.yml) |
-| 4517 | entrevoir | (er-)ahnen, flüchtig sehen | 17 |  | [Bearbeiten](cards/4517_entrevoir.yml) |
+| 4517 | entrevoir | (er-)ahnen, flüchtig sehen | 17 | X | [Bearbeiten](cards/4517_entrevoir.yml) |
 | 4518 | stipuler | (vertraglich) festlegen, (ausdrücklich) sagen | 13 |  | [Bearbeiten](cards/4518_stipuler.yml) |
 | 4519 | remédier | beheben, abhelfen | 15 |  | [Bearbeiten](cards/4519_remédier.yml) |
-| 4520 | flotter | schweben, treiben, schweifen | 29 |  | [Bearbeiten](cards/4520_flotter.yml) |
+| 4520 | flotter | schweben, treiben, schweifen | 29 | X | [Bearbeiten](cards/4520_flotter.yml) |
 | 4521 | fraction | Bruch, Teil | 19 |  | [Bearbeiten](cards/4521_fraction.yml) |
 | 4522 | impossibilité | Unmöglichkeit | 19 |  | [Bearbeiten](cards/4522_impossibilité.yml) |
 | 4523 | conditionnel | bedingt | 20 |  | [Bearbeiten](cards/4523_conditionnel.yml) |
@@ -4585,7 +4585,7 @@
 | 4583 | consigne | Anweisung; Pfand | 23 |  | [Bearbeiten](cards/4583_consigne.yml) |
 | 4584 | harmonie | Harmonie | 34 |  | [Bearbeiten](cards/4584_harmonie.yml) |
 | 4585 | blond | blond | 30 | X | [Bearbeiten](cards/4585_blond.yml) |
-| 4586 | pleuvoir | regnen | 24 |  | [Bearbeiten](cards/4586_pleuvoir.yml) |
+| 4586 | pleuvoir | regnen | 24 | X | [Bearbeiten](cards/4586_pleuvoir.yml) |
 | 4587 | déplaire | missfallen | 29 |  | [Bearbeiten](cards/4587_déplaire.yml) |
 | 4588 | innombrable | unzählig | 13 |  | [Bearbeiten](cards/4588_innombrable.yml) |
 | 4589 | félicitations | Glückwünsche | 16 |  | [Bearbeiten](cards/4589_félicitations.yml) |
@@ -4618,7 +4618,7 @@
 | 4616 | expérimental | experimentell | 21 |  | [Bearbeiten](cards/4616_expérimental.yml) |
 | 4617 | incomber | zufallen, obliegen | 14 |  | [Bearbeiten](cards/4617_incomber.yml) |
 | 4618 | retombée | Auswirkung, Folge | 22 |  | [Bearbeiten](cards/4618_retombée.yml) |
-| 4619 | équivaloir | entsprechen, gleichkommen | 16 |  | [Bearbeiten](cards/4619_équivaloir.yml) |
+| 4619 | équivaloir | entsprechen, gleichkommen | 16 | X | [Bearbeiten](cards/4619_équivaloir.yml) |
 | 4620 | différencier | unterscheiden, auseinanderhalten | 20 | X | [Bearbeiten](cards/4620_différencier.yml) |
 | 4621 | éventail | Fächer | 20 |  | [Bearbeiten](cards/4621_éventail.yml) |
 | 4622 | solde | Sonderangebot; Saldo | 41 |  | [Bearbeiten](cards/4622_solde.yml) |

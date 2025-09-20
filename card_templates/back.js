@@ -505,7 +505,9 @@ function formatConjugationTables(within) {
       .map((text) => text.charAt(0).toUpperCase() + text.slice(1))
       .filter((text) => text.length > 0)
       .join("")
-      .replaceAll("’ ", "’");
+      .replaceAll("’ ", "'")
+      .replaceAll("' ", "'")
+      .replaceAll("/", ", ");
 
     if (
       el.parentElement.classList.contains("section-conjugation-table-wrapper")
@@ -874,6 +876,9 @@ function getVisibleText(htmlElement) {
       if (isVisible(node.parentElement)) {
         const text = node.textContent.trim();
         if (text.length > 0) {
+          if (node.parentElement.tagName !== "TD") {
+            visibleText = visibleText.trim();
+          }
           visibleText += text + " ";
         }
       }
