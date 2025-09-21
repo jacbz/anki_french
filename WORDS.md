@@ -45,7 +45,7 @@
 | 43 | prendre | nehmen | 59 | X | [Bearbeiten](cards/0043_prendre.yml) |
 | 44 | aussi | auch, ebenfalls | 38 | X | [Bearbeiten](cards/0044_aussi.yml) |
 | 45 | celui | diese(-r/s) | 22 | X | [Bearbeiten](cards/0045_celui.yml) |
-| 46 | donner | geben | 58 |  | [Bearbeiten](cards/0046_donner.yml) |
+| 46 | donner | geben | 58 | X | [Bearbeiten](cards/0046_donner.yml) |
 | 47 | bien | gut, sehr, richtig | 57 | X | [Bearbeiten](cards/0047_bien.yml) |
 | 48 | où | wo | 62 | X | [Bearbeiten](cards/0048_où.yml) |
 | 49 | fois | Mal, Zeit | 61 |  | [Bearbeiten](cards/0049_fois.yml) |
@@ -1555,7 +1555,7 @@
 | 1553 | adapter | anpassen | 33 |  | [Bearbeiten](cards/1553_adapter.yml) |
 | 1554 | cour | Gericht; Hof | 47 |  | [Bearbeiten](cards/1554_cour.yml) |
 | 1555 | dépense | Ausgabe, Kosten | 42 |  | [Bearbeiten](cards/1555_dépense.yml) |
-| 1556 | souci | Sorge, Anliegen | 32 |  | [Bearbeiten](cards/1556_souci.yml) |
+| 1556 | souci | Sorge, Anliegen | 24 |  | [Bearbeiten](cards/1556_souci.yml) |
 | 1557 | expert | Experte | 31 | X | [Bearbeiten](cards/1557_expert.yml) |
 | 1558 | sœur | Schwester | 37 | X | [Bearbeiten](cards/1558_sœur.yml) |
 | 1559 | relativement | vergleichsweise, relativ | 17 |  | [Bearbeiten](cards/1559_relativement.yml) |
@@ -3334,7 +3334,7 @@
 | 3332 | proie | Beute | 25 |  | [Bearbeiten](cards/3332_proie.yml) |
 | 3333 | domination | Vormacht, Herrschaft | 18 |  | [Bearbeiten](cards/3333_domination.yml) |
 | 3334 | otage | Geisel | 15 | X | [Bearbeiten](cards/3334_otage.yml) |
-| 3335 | moquer | sich lustig machen, spotten | 28 | X | [Bearbeiten](cards/3335_moquer.yml) |
+| 3335 | moquer | sich lustig machen, spotten | 28 |  | [Bearbeiten](cards/3335_moquer.yml) |
 | 3336 | allier | verbünden, vereinen | 22 |  | [Bearbeiten](cards/3336_allier.yml) |
 | 3337 | couvert | Besteck, Gedeck; bedeckt | 42 |  | [Bearbeiten](cards/3337_couvert.yml) |
 | 3338 | demi-heure | halbe Stunde | 11 | X | [Bearbeiten](cards/3338_demi-heure.yml) |
@@ -4980,23 +4980,23 @@
 | 4978 | insignifiant | unbedeutend | 18 |  | [Bearbeiten](cards/4978_insignifiant.yml) |
 | 4979 | décoller | starten, abheben, abziehen | 35 |  | [Bearbeiten](cards/4979_décoller.yml) |
 | 4980 | solidaire | solidarisch | 23 |  | [Bearbeiten](cards/4980_solidaire.yml) |
-| 4981 | ferroviaire | Eisenbahn- | 16 |  | [Bearbeiten](cards/4981_ferroviaire.yml) |
-| 4982 | dépouiller | ausziehen, entkleiden, berauben | 40 |  | [Bearbeiten](cards/4982_dépouiller.yml) |
+| 4981 | ferroviaire | Bahn- | 16 |  | [Bearbeiten](cards/4981_ferroviaire.yml) |
+| 4982 | dépouiller | berauben; abstreifen | 40 |  | [Bearbeiten](cards/4982_dépouiller.yml) |
 | 4983 | céréale | Getreide | 15 | X | [Bearbeiten](cards/4983_céréale.yml) |
-| 4984 | aménager | einrichten, gestalten | 21 |  | [Bearbeiten](cards/4984_aménager.yml) |
-| 4985 | agitation | Unruhe, Aufregung | 20 |  | [Bearbeiten](cards/4985_agitation.yml) |
+| 4984 | aménager | einrichten, anlegen, umbauen | 21 |  | [Bearbeiten](cards/4984_aménager.yml) |
+| 4985 | agitation | Unruhe, Aufregung, Treiben | 20 |  | [Bearbeiten](cards/4985_agitation.yml) |
 | 4986 | exode | Massenauswanderung | 17 |  | [Bearbeiten](cards/4986_exode.yml) |
-| 4987 | aire | Fläche, Bereich | 24 | X | [Bearbeiten](cards/4987_aire.yml) |
+| 4987 | aire | Fläche, Bereich, Platz | 24 | X | [Bearbeiten](cards/4987_aire.yml) |
 | 4988 | orgueil | Hochmut, Stolz | 18 |  | [Bearbeiten](cards/4988_orgueil.yml) |
 | 4989 | socialisme | Sozialismus | 14 |  | [Bearbeiten](cards/4989_socialisme.yml) |
-| 4990 | harmonisation | Harmonisierung | 17 |  | [Bearbeiten](cards/4990_harmonisation.yml) |
-| 4991 | provisoirement | vorest | 14 |  | [Bearbeiten](cards/4991_provisoirement.yml) |
+| 4990 | harmonisation | Angleichung | 17 |  | [Bearbeiten](cards/4990_harmonisation.yml) |
+| 4991 | provisoirement | vorübergehend, behelfsweise | 14 |  | [Bearbeiten](cards/4991_provisoirement.yml) |
 | 4992 | cocktail | Cocktail | 15 | X | [Bearbeiten](cards/4992_cocktail.yml) |
 | 4993 | moyenne | Durchschnitt | 29 |  | [Bearbeiten](cards/4993_moyenne.yml) |
 | 4994 | rigoler | lachen; Spaß haben | 15 | X | [Bearbeiten](cards/4994_rigoler.yml) |
-| 4995 | compression | Kompression, Druck | 25 |  | [Bearbeiten](cards/4995_compression.yml) |
-| 4996 | réfléchi | überlegt, besonnen | 29 |  | [Bearbeiten](cards/4996_réfléchi.yml) |
-| 4997 | expérimenter | experimentieren, ausprobieren | 16 |  | [Bearbeiten](cards/4997_expérimenter.yml) |
+| 4995 | compression | Verdichtung, Kürzung | 23 |  | [Bearbeiten](cards/4995_compression.yml) |
+| 4996 | réfléchi | durchdacht | 29 |  | [Bearbeiten](cards/4996_réfléchi.yml) |
+| 4997 | expérimenter | erproben, testen | 16 |  | [Bearbeiten](cards/4997_expérimenter.yml) |
 | 4998 | détériorer | verschlechtern, beschädigen | 21 |  | [Bearbeiten](cards/4998_détériorer.yml) |
 | 4999 | exprès | absichtlich, extra | 27 |  | [Bearbeiten](cards/4999_exprès.yml) |
 | 5000 | écrouler | einstürzen, zusammenfallen, umkippen | 25 | X | [Bearbeiten](cards/5000_écrouler.yml) |

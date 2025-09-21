@@ -31,7 +31,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 149.872 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1422 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 149.862 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1422 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -80,7 +80,7 @@ Insgesamt gibt es 5000 Karten mit 149.872 Beispielsätzen (durchschnittlich 30.0
 | 43 | prendre | nehmen | 59 | X | [Bearbeiten](cards/0043_prendre.yml) |
 | 44 | aussi | auch, ebenfalls | 38 | X | [Bearbeiten](cards/0044_aussi.yml) |
 | 45 | celui | diese(-r/s) | 22 | X | [Bearbeiten](cards/0045_celui.yml) |
-| 46 | donner | geben | 58 |  | [Bearbeiten](cards/0046_donner.yml) |
+| 46 | donner | geben | 58 | X | [Bearbeiten](cards/0046_donner.yml) |
 | 47 | bien | gut, sehr, richtig | 57 | X | [Bearbeiten](cards/0047_bien.yml) |
 | 48 | où | wo | 62 | X | [Bearbeiten](cards/0048_où.yml) |
 | 49 | fois | Mal, Zeit | 61 |  | [Bearbeiten](cards/0049_fois.yml) |

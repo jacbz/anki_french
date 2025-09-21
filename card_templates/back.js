@@ -528,7 +528,7 @@ function formatConjugationTables(within) {
         `;
       el.parentNode.replaceChild(wrapper, el);
       const reflexiveButton = wrapper.querySelector(".reflexive-button");
-      if (isReflexive) {
+      if (isReflexive || !wrapper.querySelector(".reflexive")) {
         reflexiveButton.style.display = "none";
       }
       reflexiveButton.onclick = () => {
