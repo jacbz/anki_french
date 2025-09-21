@@ -13,14 +13,14 @@ Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
 # Zwischen jedem Paar kommen zwei Zeilenumbrüche.
 Beispielsätze: |-
-  Je dirais en *parenthèses* que l'histoire présente est opaque.
+  Je dirais *en parenthèses* que l'histoire présente est opaque.
   Ich möchte am *Rande* bemerken, dass die gegenwärtige Geschichte undurchsichtig ist.
 
   Il a mis son numéro de téléphone entre *parenthèses*.
   Er hat seine Telefonnummer in *Klammern* gesetzt.
 
-  "Mettez cette affaire entre *parenthèses* pour le moment."
-  "Lassen Sie diese Angelegenheit vorläufig *beiseite*."
+  "*Mettez* cette affaire *entre parenthèses* pour le moment."
+  "*Lassen* Sie diese Angelegenheit vorläufig *beiseite*."
 
   Cette *parenthèse* explicative est vraiment nécessaire.
   Dieser erklärende *Einschub* ist wirklich notwendig.
@@ -46,14 +46,14 @@ Beispielsätze: |-
   *Parenthèse* fermante ou ouvrante - laquelle utiliser ici ?
   Schließende oder öffnende *Klammer* - welche soll hier verwendet werden?
 
-  Soit dit entre *parenthèses*, je ne l'ai jamais vraiment aimé.
-  *Nebenbei* bemerkt, ich habe ihn nie wirklich gemocht.
+  *Soit dit entre parenthèses*, je ne l'ai jamais vraiment aimé.
+  *Nebenbei bemerkt*, ich habe ihn nie wirklich gemocht.
 
   Cette longue *parenthèse* a fait perdre le fil à tout le monde.
   Dieser lange *Exkurs* hat alle den Faden verlieren lassen.
 
-  Par *parenthèse*, as-tu déjà lu son nouveau livre ?
-  In *Klammern* gesagt, hast du sein neues Buch schon gelesen?
+  *Par parenthèse*, as-tu déjà lu son nouveau livre ?
+  *In Klammern gesagt*, hast du sein neues Buch schon gelesen?
 
   Les vacances furent une courte *parenthèse* dans notre routine.
   Der Urlaub war ein kurzes *Intermezzo* in unserer Routine.
@@ -64,8 +64,8 @@ Beispielsätze: |-
   Cette *parenthèse* historique mérite d'être développée.
   Dieser historische *Einschub* verdient es, ausgeführt zu werden.
 
-  Entre *parenthèses*, je trouve cette idée excellente.
-  In *Klammern* gesagt, ich finde diese Idee ausgezeichnet.
+  *Entre parenthèses*, je trouve cette idée excellente.
+  *In Klammern gesagt*, ich finde diese Idee ausgezeichnet.
 
 # Notizen können HTML enthalten. Um Beispielsätze zu formatieren, gerne dieses Format benutzen:
 # <div class="examples">
