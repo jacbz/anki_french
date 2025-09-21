@@ -4987,7 +4987,7 @@
 | 4985 | agitation | Unruhe, Aufregung, Treiben | 20 |  | [Bearbeiten](cards/4985_agitation.yml) |
 | 4986 | exode | Massenauswanderung | 17 |  | [Bearbeiten](cards/4986_exode.yml) |
 | 4987 | aire | Fläche, Bereich, Platz | 24 | X | [Bearbeiten](cards/4987_aire.yml) |
-| 4988 | orgueil | Hochmut, Stolz | 18 |  | [Bearbeiten](cards/4988_orgueil.yml) |
+| 4988 | orgueil | Hochmut, Stolz | 18 | X | [Bearbeiten](cards/4988_orgueil.yml) |
 | 4989 | socialisme | Sozialismus | 14 |  | [Bearbeiten](cards/4989_socialisme.yml) |
 | 4990 | harmonisation | Angleichung | 17 |  | [Bearbeiten](cards/4990_harmonisation.yml) |
 | 4991 | provisoirement | vorübergehend, behelfsweise | 14 |  | [Bearbeiten](cards/4991_provisoirement.yml) |
