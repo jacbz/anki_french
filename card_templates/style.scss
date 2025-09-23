@@ -437,6 +437,7 @@ span.spoiler {
 a {
   text-decoration: none;
   color: #1d4ed8;
+  cursor: pointer;
 }
 
 .night_mode a {
@@ -1040,6 +1041,10 @@ small {
 
 #verb-classification {
   font-style: italic;
+
+  a.verb-classification-link {
+    font-weight: bold;
+  }
 }
 
 #conjugation-table {

@@ -290,6 +290,13 @@ if (conjugationTable) {
     showHideButton.onclick = toggleConjugations;
     if (verbClassification) {
       verbClassification.ondblclick = toggleConjugations;
+
+      const verbClassificationLink = verbClassification.querySelector("a.verb-classification-link");
+      if (verbClassificationLink) {
+        verbClassificationLink.onclick = function (e) {
+          loadConjugationGrammar([`Die Verben auf -${verbClassificationLink.dataset.model}`]);
+        }
+      }
     }
   }
 
@@ -306,11 +313,9 @@ if (conjugationTable) {
   }
   squish_cells();
 
-  conjugationTable.querySelectorAll("tr").forEach(function (el) {
-    const tense = el.dataset.tense;
-    el.onclick = function () {
-      conjugationGrammar.innerHTML = "";
-      for (const grammarId of grammar.tenses[tense]) {
+  function loadConjugationGrammar(grammarIds) {
+    conjugationGrammar.innerHTML = "";
+      for (const grammarId of grammarIds) {
         const grammarElement = document.createElement("grammar");
         grammarElement.dataset.id = grammarId;
         conjugationGrammar.appendChild(grammarElement);
@@ -325,6 +330,12 @@ if (conjugationTable) {
           behavior: "smooth",
         });
       }
+  }
+
+  conjugationTable.querySelectorAll("tr").forEach(function (el) {
+    const tense = el.dataset.tense;
+    el.onclick = function () {
+      loadConjugationGrammar(grammar.tenses[tense]);
     };
   });
 }
