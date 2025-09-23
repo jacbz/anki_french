@@ -193,34 +193,7 @@ Beispielsätze: |-
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
-  <div class="section">
-    <div class="section-title">Aussprache von -s</div>
-    <div class="section-content">
-      <p>Wenn <span class="fr">plus</span> <span class="de">mehr</span> oder <span class="de">zusätzlich</span> bedeutet (z.B. +Nomen oder +que), dann wird das -s ausgesprochen.</p>
-      <div class="examples">
-        <div class="fr">On veut <u>plu<span style="color:red;">s</span></u> de devoirs à l'école.</div>
-        <div class="de spoiler">Man möchte in der Schule <u>mehr</u> Hausaufgaben.</div>
-        <div class="fr">Je t'aime <u>plu<span style="color:red;">s</span></u> que tout.</div>
-        <div class="de spoiler">Ich liebe dich <u>mehr</u> als alles andere.</div>
-        <div class="fr">Victor a <u>plu<span style="color:red;">s</span></u> d'imagination que moi.</div>
-        <div class="de spoiler">Victor hat <u>mehr</u> Fantasie als ich.</div>
-      </div>
-      <p>Auch, wenn ein Adjektiv/Adverb folgt, das mit einem Vokal oder stummen h beginnt:</p>
-      <div class="examples">
-        <div class="fr">Ce matin, il fait <u>plu<span style="color:red;">s</span></u> agréable qu'hier.</div>
-        <div class="de spoiler">Heute Morgen ist das Wetter <u>schöner</u> als gestern.</div>
-        <div class="fr">Elle est <u>plu<span style="color:red;">s</span></u> heureuse aujourd'hui qu'hier.</div>
-        <div class="de spoiler">Sie ist heute <u>glücklicher</u> als gestern.</div>
-      </div>
-      <p>Wenn <span class="fr">plus</span> <span class="de">nicht mehr</span> oder <span class="de">keine mehr</span> bedeutet oder vor einem Adjektiv/Adverb steht, das mit einem Konsonanten beginnt, wird das -s nicht ausgesprochen.</p>
-      <div class="examples">
-        <div class="fr">Nous n'avons <u>plu<span style="opacity:50%">s</span></u> de travail.</div>
-        <div class="de spoiler">Wir haben keine Arbeit <u>mehr</u>.</div>
-        <div class="fr">Nous allons rester <u>plu<span style="opacity:50%">s</span></u> longtemps.</div>
-        <div class="de spoiler">Wir werden <u>länger</u> bleiben.</div>
-      </div>
-    </div>
-  </div>
+  <grammar data-id="Die Aussprache von plus"></grammar>
   <grammar data-id="SteigerungDerAdjektive"></grammar>
   <grammar data-id="SteigerungDerAdverbien"></grammar>
   <grammar data-id="Gegensätze"></grammar>

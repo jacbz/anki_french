@@ -172,9 +172,5 @@ Beispielsätze: |-
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
-  <p class="highlight">Vor <b>oui</b> gibt es keine Liaison.</p>
-  <div class="examples">
-    <div class="fr">Il a répondu deux oui et un non à mes questions.</div>
-    <div class="de spoiler">Er hat auf meine Fragen mit zwei Ja und einem Nein geantwortet.</div>
-  </div>
+  <grammar data-id="Die Liaison"></grammar>
   <grammar data-id="Gegensätze"></grammar>
