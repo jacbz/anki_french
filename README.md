@@ -29,7 +29,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 149.840 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1423 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 149.840 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1494 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -57,7 +57,7 @@ Insgesamt gibt es 5000 Karten mit 149.840 Beispielsätzen (durchschnittlich 30.0
 | 22 | je | ich | 26 | ✓ | [Bearbeiten](cards/0022_je.yml) |
 | 23 | avec | mit | 60 | ✓ | [Bearbeiten](cards/0023_avec.yml) |
 | 24 | tout | alles, ganz, jede(-r/s) | 56 | ✓ | [Bearbeiten](cards/0024_tout.yml) |
-| 25 | faire | machen, tun | 56 |  | [Bearbeiten](cards/0025_faire.yml) |
+| 25 | faire | machen, tun | 56 | ✓ | [Bearbeiten](cards/0025_faire.yml) |
 | 26 | son | sein(-e), ihr(-e); Ton, Klang | 56 | ✓ | [Bearbeiten](cards/0026_son.yml) |
 | 27 | mettre | tun, legen, anziehen | 69 |  | [Bearbeiten](cards/0027_mettre.yml) |
 | 28 | autre | andere(-r/s) | 58 | ✓ | [Bearbeiten](cards/0028_autre.yml) |
