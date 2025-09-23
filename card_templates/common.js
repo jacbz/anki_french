@@ -131,24 +131,29 @@ async function playAudio({text, customFileName = undefined, lang = "fr-FR"}) {
   }
 }
 
+function preprocessTextToRead(sentence) {
+  return sentence.replaceAll("*", "").replaceAll("‿", " ").replaceAll("/", ",").replaceAll("→", ";").replace("’", "'").replace(/[\u0000-\u001F\u007F-\u009F\u200B\u2060\uFEFF\u202f]/g, "").trim();
+}
+
 const memoizedTTSUrls = {};
 
 const voices = ["Zephyr", "Puck", "Charon", "Kore", "Fenrir", "Leda", "Orus", "Aoede", "Callirhoe", "Autonoe", "Enceladus", "Iapetus", "Umbriel", "Algieba", "Despina", "Erinome", "Algenib", "Rasalgethi", "Laomedeia", "Achernar", "Alnilam", "Schedar", "Gacrux", "Pulcherrima", "Achird", "Zubenelgenubi", "Vindemiatrix", "Sadachbia", "Sadaltager", "Sulafar"];
 
-async function getTTSUrl(textToRead, forceGoogleTranslate = false, lang = "fr-FR") {
-  const text = textToRead.replaceAll("*", "").replaceAll("‿", " ");
+async function getTTSUrl(encodedText, forceGoogleTranslate = false, lang = "fr-FR") {
+  const textInput = preprocessTextToRead(decodeURIComponent(encodedText));
   
   // if no API key is set, fallback to use the free Google Translate TTS
   if (!options.googleTTSApiKey || forceGoogleTranslate) {
-    return `https://translate.google.com/translate_tts?ie=UTF-8&q=${text}&tl=${lang}&client=tw-ob`;
+    return `https://translate.google.com/translate_tts?ie=UTF-8&q=${encodeURIComponent(textInput)}&tl=${lang}&client=tw-ob`;
   }
 
-  if (memoizedTTSUrls && memoizedTTSUrls[text]) {
-    return memoizedTTSUrls[text];
+  if (memoizedTTSUrls && memoizedTTSUrls[textInput]) {
+    return memoizedTTSUrls[textInput];
   }
+
+  console.log(textInput);
 
   try {
-    const textInput = decodeURIComponent(text).replaceAll("*", "").replaceAll("→", ";").replace("’", "'").replace(/[\u0000-\u001F\u007F-\u009F\u200B\u2060\uFEFF\u202f]/g, "");
     let voice = {
       languageCode: "fr-FR",
       name: "fr-FR-Chirp3-HD-" + voices[Math.floor(Math.random() * voices.length)],
@@ -187,7 +192,7 @@ async function getTTSUrl(textToRead, forceGoogleTranslate = false, lang = "fr-FR
       const audioBlob = b64ToBlob(audioContent, "audio/mp3");
       const audioUrl = URL.createObjectURL(audioBlob);
       if (memoizedTTSUrls) {
-        memoizedTTSUrls[text] = audioUrl;
+        memoizedTTSUrls[textInput] = audioUrl;
       }
       return audioUrl;
     }
