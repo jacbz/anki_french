@@ -438,6 +438,10 @@ a {
   text-decoration: none;
   color: #1d4ed8;
   cursor: pointer;
+
+  &[grammar]::before {
+    content: "→";
+  }
 }
 
 .night_mode a {

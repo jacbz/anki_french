@@ -322,7 +322,7 @@ if (conjugationTable) {
       }
       const loadedGrammarElements = loadAllGrammar();
       if (loadedGrammarElements.length === 1) {
-        expandSection(loadedGrammarElements[0]);
+        toggleSection(loadedGrammarElements[0]);
       }
       if (loadedGrammarElements.length > 0) {
         window.scrollTo({
@@ -382,14 +382,19 @@ function loadGrammar(id, into) {
 
   const grammarElement = document.createElement("div");
   grammarElement.className = "section";
+  grammarElement.dataset.id = id;
   grammarElement.innerHTML = htmlString;
 
   into.parentElement.replaceChild(grammarElement, into);
 
   const content = grammarElement.querySelector(".section-content");
-  if (content) {
-    content.innerHTML += `<div class="github"><a href="${grammar.github[id]}">Auf GitHub bearbeiten</a></div>`;
+
+  if (!content) {
+    console.error("Loaded grammar has no content:", id, grammarElement);
+    return grammarElement;
   }
+
+  content.innerHTML += `<div class="github"><a href="${grammar.github[id]}">Auf GitHub bearbeiten</a></div>`;
   // highlight lemmas that match the current word
   content.querySelectorAll(".marklemma").forEach(function (el) {
     const normalize = (s) => (s ? s.normalize() : s);
@@ -404,6 +409,7 @@ function loadGrammar(id, into) {
 
   enableSectionToggle(grammarElement);
   formatSentences(grammarElement);
+  initGrammarLinks(grammarElement);
 
   // fall back map
   let conjugationInfinitive = "regarder";
@@ -563,14 +569,19 @@ const showHideGrammarLibraryButton = document.getElementById(
 );
 const closeLibraryButton = document.getElementById("close-grammar-library");
 let isRendered = false;
+
+function showGrammarLibrary() {
+  grammarLibrary.classList.remove("collapsed");
+
+  if (!isRendered) {
+    isRendered = true;
+    renderGrammaryLibrary();
+  }
+}
+
 if (grammar) {
   showHideGrammarLibraryButton.onclick = function () {
-    grammarLibrary.classList.remove("collapsed");
-
-    if (!isRendered) {
-      isRendered = true;
-      renderGrammaryLibrary();
-    }
+    showGrammarLibrary();
   };
   closeLibraryButton.onclick = function () {
     grammarLibrary.classList.add("collapsed");
@@ -583,6 +594,7 @@ function renderGrammaryLibrary() {
   for (const [category, subcategories] of Object.entries(grammar.index)) {
     const categorySection = document.createElement("div");
     categorySection.className = "section";
+    categorySection.dataset.id = category;
 
     const categoryTitle = document.createElement("div");
     categoryTitle.className = "section-title";
@@ -595,11 +607,11 @@ function renderGrammaryLibrary() {
     for (const id of subcategories) {
       const subcategorySection = document.createElement("div");
       subcategorySection.className = "section";
+      subcategorySection.dataset.id = id;
 
       const tempDiv = document.createElement("div");
       tempDiv.innerHTML = grammar.sectionTitles[id];
       const subcategoryTitle = tempDiv.firstElementChild;
-      subcategoryTitle.dataset.grammar = id;
       subcategorySection.appendChild(subcategoryTitle);
 
       categoryContent.appendChild(subcategorySection);
@@ -703,13 +715,12 @@ function filter(expandSections = false) {
 
   if (expandSections) {
     grammarLibrary.querySelectorAll("#grammar-sections > .section:not(.expanded)").forEach(section => {
-      expandSection(section);
+      toggleSection(section);
     });
   }
 
   // Show/hide "no results" message
   const noResultsElement = document.getElementById("grammar-no-results");
-  const visibleSections = grammarLibrary.querySelectorAll("#grammar-sections > .section").length;
   const visibleSectionsCount = Array.from(grammarLibrary.querySelectorAll("#grammar-sections > .section")).filter(section => section.style.display !== "none").length;
   
   if (noResultsElement) {
@@ -792,28 +803,48 @@ function initGrammarSearch() {
 /**
  * Collapsible sections
  */
+function loadGrammarSection(section) {
+  console.log("Loading section:", section.dataset.id || "(no id)");
+  if (section.dataset.id && !section.querySelector(".section-content")) {
+    console.log("Section has id, loading grammar:", section.dataset.id);
+    const newGrammar = loadGrammar(
+      section.dataset.id,
+      section
+    );
+    return newGrammar;
+  }
+  return section;
+}
 function enableSectionToggle(within = document) {
-  within.querySelectorAll(".section-title").forEach(function (title) {
+  const sections = within.classList?.contains("section") ? [within] : within.querySelectorAll(".section");
+
+  sections.forEach(function (section) {
+    const title = section.querySelector(".section-title");
+    if (!title) {
+      console.error("Section has no title:", section);
+      return;
+    }
     title.onclick = function () {
-      if (title.dataset.grammar) {
-        const newGrammar = loadGrammar(
-          title.dataset.grammar,
-          title.parentElement
-        );
-        expandSection(newGrammar);
-        return;
+      if (!section.querySelector(".section-content")) {
+        toggleSection(loadGrammarSection(section));
+      } else {
+        toggleSection(section);
       }
-      expandSection(title.parentElement);
     };
   });
 }
 enableSectionToggle();
 
-function expandSection(section) {
+function toggleSection(section, forceExpand = false) {
   const content = section.querySelector(".section-content");
-  section.classList.toggle("expanded");
+  if (!content) {
+    console.error("Section has no content to expand:", section);
+    return;
+  }
 
-  if (content.style.maxHeight) {
+  section.classList.toggle("expanded", forceExpand || !section.classList.contains("expanded"));
+
+  if (content.style.maxHeight && !forceExpand) {
     content.style.maxHeight = null;
   } else {
     content.style.maxHeight = content.scrollHeight + "px";
@@ -827,6 +858,56 @@ function expandSection(section) {
     }
   }
 }
+
+// Returns the parent .sections of the given element, from outermost to innermost, including the element itself if it is a .section
+function getParentSections(el) {
+  const sections = [];
+  let current = el;
+  while (current) {
+    if (current.classList && current.classList.contains("section")) {
+      sections.unshift(current);
+    }
+    current = current.parentElement;
+  }
+  return sections;
+}
+
+function initGrammarLinks(grammarElement) {
+  grammarElement.querySelectorAll("a[grammar]").forEach(function (el) {
+    const grammarId = el.getAttribute("grammar");
+      if (!grammarId) {
+        el.style.color = "red";
+        return;
+      }
+    el.title = grammarId;
+
+    el.onclick = function (e) {
+      if (grammarLibrary.classList.contains("collapsed")) {
+        showGrammarLibrary();
+      }
+
+      let section = grammarLibrary.querySelector(`.section[data-id="${grammarId}"]`);
+      if (section) {
+        console.log(getParentSections(section));
+        for (const ancestorSection of getParentSections(section)) {
+          if (!ancestorSection.classList.contains("expanded")) {
+            console.log("Loading ancestor section:", ancestorSection.dataset.id || "(no id)");
+            section = loadGrammarSection(ancestorSection);
+            toggleSection(section, true);
+          }
+        }
+
+        window.scrollTo({
+          top: section.getBoundingClientRect().top + window.scrollY - 50,
+          behavior: "smooth",
+        });
+      }
+      e.preventDefault();
+    }
+  });
+}
+
+// Grammar links
 
 ___DICT___;
 
