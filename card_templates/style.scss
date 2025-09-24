@@ -311,30 +311,30 @@ input {
 .definition {
   font-style: italic;
   font-weight: bold;
+}
 
-  &.small {
-    font-size: 45%;
-    font-weight: normal;
-    opacity: 75%;
+.word.small, .definition.small {
+  font-size: 45%;
+  font-weight: normal;
+  opacity: 75%;
 
-    &::before {
-      content: "(";
-    }
+  &::before {
+    content: "(";
+  }
+
+  &::after {
+    content: ")";
+  }
+
+  .disamb {
+    display: none;
+  }
+
+  br {
+    content: " ";
 
     &::after {
-      content: ")";
-    }
-
-    .disamb {
-      display: none;
-    }
-
-    br {
-      content: " ";
-
-      &::after {
-        content: "; ";
-      }
+      content: "; ";
     }
   }
 }
@@ -658,7 +658,7 @@ hr {
 }
 
 #front-sentence {
-  margin-top: 1.5em;
+  margin-top: 2.5em;
   margin-bottom: 1.5em;
   font-size: 55%;
 
@@ -667,7 +667,8 @@ hr {
   }
 
   #sentences-inner {
-    margin-bottom: 1.5em;
+    font-size: 110%;
+    margin-bottom: 2.5em;
 
     &.bold-word .word-highlight {
       font-weight: bold;

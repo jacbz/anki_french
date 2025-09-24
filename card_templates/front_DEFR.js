@@ -28,6 +28,13 @@ function render() {
   gameContainer.innerHTML = "";
   gameContainer.className = "";
   initClozeGame({sentence: fr, gameContainer});
+
+  // if sentence contains a marking, move the definition down and make it small
+  const definition = document.querySelector(".definition");
+  if (de.includes("word-highlight")) {
+    definition.classList.add("small");
+    definition.parentNode.appendChild(definition);
+  }
 }
 
 render();

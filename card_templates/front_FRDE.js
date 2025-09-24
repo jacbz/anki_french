@@ -26,6 +26,13 @@ function render() {
   gameContainer.innerHTML = "";
   gameContainer.className = "";
   initClozeGame({sentence: de, sentenceToRead: sentencePair[0], gameContainer, isGerman: true});
+
+  // if sentence contains a marking, move the word down and make it small
+  const word = document.querySelector(".word");
+  if (fr.includes("word-highlight")) {
+    word.classList.add("small");
+    word.parentNode.appendChild(word);
+  }
 }
 
 render();
