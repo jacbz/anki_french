@@ -127,7 +127,7 @@ function refreshExampleSentences() {
       sentenceToRead: processText(fr, true, false),
       gameContainer,
       isGerman: frenchFirst,
-      showOverlay: false
+      showOverlay: false,
     });
   } else {
     sentencesInner.innerHTML = frenchFirst
@@ -196,16 +196,16 @@ async function initAudioButtons(within = document) {
       const text = this.dataset.text;
       const customFileName = this.dataset.fileName;
 
-      playAudio({text, customFileName});
+      playAudio({ text, customFileName });
     };
   });
 
   if (within == document && options.autoPlaySentence) {
     setTimeout(() => {
       if (options.autoPlaySentenceInGerman) {
-        playAudio({text: sentencesPairs[0].split("\n")[1], lang: "de-DE"});
+        playAudio({ text: sentencesPairs[0].split("\n")[1], lang: "de-DE" });
       } else {
-        playAudio({text: sentencesPairs[0].split("\n")[0]});
+        playAudio({ text: sentencesPairs[0].split("\n")[0] });
       }
     }, options.autoPlaySentenceDelay ?? 1000);
   }
@@ -290,13 +290,6 @@ if (conjugationTable) {
     showHideButton.onclick = toggleConjugations;
     if (verbClassification) {
       verbClassification.ondblclick = toggleConjugations;
-
-      const verbClassificationLink = verbClassification.querySelector("a.verb-classification-link");
-      if (verbClassificationLink) {
-        verbClassificationLink.onclick = function (e) {
-          loadConjugationGrammar([`Die Verben auf -${verbClassificationLink.dataset.model}`]);
-        }
-      }
     }
   }
 
@@ -315,21 +308,21 @@ if (conjugationTable) {
 
   function loadConjugationGrammar(grammarIds) {
     conjugationGrammar.innerHTML = "";
-      for (const grammarId of grammarIds) {
-        const grammarElement = document.createElement("grammar");
-        grammarElement.dataset.id = grammarId;
-        conjugationGrammar.appendChild(grammarElement);
-      }
-      const loadedGrammarElements = loadAllGrammar();
-      if (loadedGrammarElements.length === 1) {
-        toggleSection(loadedGrammarElements[0]);
-      }
-      if (loadedGrammarElements.length > 0) {
-        window.scrollTo({
-          top: conjugationTable.getBoundingClientRect().top + window.scrollY,
-          behavior: "smooth",
-        });
-      }
+    for (const grammarId of grammarIds) {
+      const grammarElement = document.createElement("grammar");
+      grammarElement.dataset.id = grammarId;
+      conjugationGrammar.appendChild(grammarElement);
+    }
+    const loadedGrammarElements = loadAllGrammar();
+    if (loadedGrammarElements.length === 1) {
+      toggleSection(loadedGrammarElements[0]);
+    }
+    if (loadedGrammarElements.length > 0) {
+      window.scrollTo({
+        top: conjugationTable.getBoundingClientRect().top + window.scrollY,
+        behavior: "smooth",
+      });
+    }
   }
 
   conjugationTable.querySelectorAll("tr").forEach(function (el) {
@@ -364,8 +357,7 @@ fetch(`${getAnkiPrefix()}/FR5000_grammar____VERSION___.json`)
   .catch((err) => {
     console.error(err);
     grammarLibrary.classList.remove("collapsed");
-    grammarLibrary.innerHTML =
-      `<div class="error-message">
+    grammarLibrary.innerHTML = `<div class="error-message">
         <p>Es ist ein Fehler beim Laden der Grammatik-Bibliothek aufgetreten:</p>
         <p class="error-details">${err.message}</p>
         <p>Bitte melde das Problem auf <a href='https://github.com/jacbz/anki_french/issues'>GitHub</a>.</p>
@@ -400,9 +392,14 @@ function loadGrammar(id, into) {
     const normalize = (s) => (s ? s.normalize() : s);
     const text = el.textContent.trim();
     const lemmaAttr =
-      el.dataset.lemma || el.getAttribute("data-lemma") || el.getAttribute("lemma");
+      el.dataset.lemma ||
+      el.getAttribute("data-lemma") ||
+      el.getAttribute("lemma");
 
-    if (normalize(text) !== normalize(word) && normalize(lemmaAttr) !== normalize(word)) {
+    if (
+      normalize(text) !== normalize(word) &&
+      normalize(lemmaAttr) !== normalize(word)
+    ) {
       el.classList.remove("marklemma");
     }
   });
@@ -488,6 +485,7 @@ function loadAllGrammar() {
     const id = el.dataset.id;
     loadedGrammarElements.push(loadGrammar(id, el));
   });
+  initGrammarLinks();
   return loadedGrammarElements;
 }
 
@@ -628,38 +626,42 @@ function renderGrammaryLibrary() {
 function filter(expandSections = false) {
   const cefrLevels = ["A1", "A2", "B1", "B2", "C1"];
   const activePills = document.querySelectorAll(".pill.active");
-  const selectedLevels = Array.from(activePills).map(pill => pill.dataset.level);
-  
+  const selectedLevels = Array.from(activePills).map(
+    (pill) => pill.dataset.level
+  );
+
   const searchInput = document.getElementById("grammar-search-input");
   const searchTerm = searchInput ? searchInput.value.trim().toLowerCase() : "";
-  const normalizeText = (str) => str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  const normalizeText = (str) =>
+    str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
   const normalizedSearchTerm = normalizeText(searchTerm);
-  
+
   // Store sections that were previously hidden but are becoming visible
   const sectionsBecomingVisible = [];
-  
-  grammarLibrary.querySelectorAll(".section").forEach(section => {
+
+  grammarLibrary.querySelectorAll(".section").forEach((section) => {
     const wasHidden = section.style.display === "none";
     const titleElement = section.querySelector(".section-title[data-topic]");
     let shouldShow = true;
-    
+
     // CEFR level filtering
     if (titleElement) {
       const sectionTopic = titleElement.dataset.topic;
-      const topicLevels = sectionTopic.split("/").map(level => level.trim());
-      
-      shouldShow = 
+      const topicLevels = sectionTopic.split("/").map((level) => level.trim());
+
+      shouldShow =
         // if every level is selected, show all
         selectedLevels.length === cefrLevels.length ||
         // if no level is selected, show only sections without level
-        (selectedLevels.length === 0 && topicLevels.every(level => !cefrLevels.includes(level))) ||
+        (selectedLevels.length === 0 &&
+          topicLevels.every((level) => !cefrLevels.includes(level))) ||
         // if there is a filter, show only matching levels
-        topicLevels.some(level => selectedLevels.includes(level));
+        topicLevels.some((level) => selectedLevels.includes(level));
     } else {
       // sections without data-topic should always be shown by CEFR filter
       shouldShow = true;
     }
-    
+
     // Search filtering
     if (shouldShow && searchTerm) {
       const sectionTitle = section.querySelector(".section-title");
@@ -671,37 +673,41 @@ function filter(expandSections = false) {
         shouldShow = false;
       }
     }
-    
+
     // Track sections becoming visible that might need expansion state reset
     if (wasHidden && shouldShow) {
       sectionsBecomingVisible.push(section);
     }
-    
+
     section.style.display = shouldShow ? "" : "none";
   });
 
-  grammarLibrary.querySelectorAll("#grammar-sections > .section").forEach(section => {
-    const wasHidden = section.style.display === "none";
-    // if all children are hidden, hide the parent section as well
-    const visibleChildren = Array.from(section.querySelectorAll(".section")).filter(child => child.style.display !== "none");
-    const shouldShowParent = visibleChildren.length > 0;
-    
-    // Track parent sections becoming visible
-    if (wasHidden && shouldShowParent) {
-      sectionsBecomingVisible.push(section);
-    }
-    
-    section.style.display = shouldShowParent ? "" : "none";
-  });
+  grammarLibrary
+    .querySelectorAll("#grammar-sections > .section")
+    .forEach((section) => {
+      const wasHidden = section.style.display === "none";
+      // if all children are hidden, hide the parent section as well
+      const visibleChildren = Array.from(
+        section.querySelectorAll(".section")
+      ).filter((child) => child.style.display !== "none");
+      const shouldShowParent = visibleChildren.length > 0;
+
+      // Track parent sections becoming visible
+      if (wasHidden && shouldShowParent) {
+        sectionsBecomingVisible.push(section);
+      }
+
+      section.style.display = shouldShowParent ? "" : "none";
+    });
 
   // Fix expansion state for sections that were hidden and are now becoming visible
-  sectionsBecomingVisible.forEach(section => {
+  sectionsBecomingVisible.forEach((section) => {
     const content = section.querySelector(".section-content");
     if (content && section.classList.contains("expanded")) {
       // Section is marked as expanded but might have corrupted maxHeight due to being hidden
       // Reset the maxHeight to ensure proper display
       content.style.maxHeight = content.scrollHeight + "px";
-      
+
       // Also fix any nested ancestor maxHeights
       let ancestor = section.parentElement;
       while (ancestor) {
@@ -714,15 +720,19 @@ function filter(expandSections = false) {
   });
 
   if (expandSections) {
-    grammarLibrary.querySelectorAll("#grammar-sections > .section:not(.expanded)").forEach(section => {
-      toggleSection(section);
-    });
+    grammarLibrary
+      .querySelectorAll("#grammar-sections > .section:not(.expanded)")
+      .forEach((section) => {
+        toggleSection(section);
+      });
   }
 
   // Show/hide "no results" message
   const noResultsElement = document.getElementById("grammar-no-results");
-  const visibleSectionsCount = Array.from(grammarLibrary.querySelectorAll("#grammar-sections > .section")).filter(section => section.style.display !== "none").length;
-  
+  const visibleSectionsCount = Array.from(
+    grammarLibrary.querySelectorAll("#grammar-sections > .section")
+  ).filter((section) => section.style.display !== "none").length;
+
   if (noResultsElement) {
     if (searchTerm && visibleSectionsCount === 0) {
       noResultsElement.style.display = "block";
@@ -735,7 +745,7 @@ function filter(expandSections = false) {
 function initCefrFilter() {
   const levelPills = document.querySelectorAll(".pill");
 
-  levelPills.forEach(pill => {
+  levelPills.forEach((pill) => {
     pill.onclick = () => {
       pill.classList.toggle("active");
       filter(true);
@@ -748,54 +758,54 @@ function initCefrFilter() {
 function initGrammarSearch() {
   const searchInput = document.getElementById("grammar-search-input");
   const clearButton = document.getElementById("grammar-search-clear");
-  
+
   if (!searchInput || !clearButton) return;
-  
+
   let searchTimeout;
   let hasScrolledToSearch = false;
-  
+
   // Scroll to search input when first focused
   searchInput.addEventListener("focus", () => {
     if (!hasScrolledToSearch) {
       hasScrolledToSearch = true;
       setTimeout(() => {
-        searchInput.scrollIntoView({ 
-          behavior: "smooth", 
+        searchInput.scrollIntoView({
+          behavior: "smooth",
           block: "start",
-          inline: "nearest"
+          inline: "nearest",
         });
       }, 100); // Small delay to ensure the element is properly positioned
     }
   });
-  
+
   searchInput.addEventListener("input", () => {
     clearTimeout(searchTimeout);
     searchTimeout = setTimeout(() => {
       filter(searchInput.value.trim() !== "");
-      
+
       // Scroll to search input after filtering (especially useful on mobile)
       if (searchInput.value.trim()) {
         setTimeout(() => {
-          searchInput.scrollIntoView({ 
-            behavior: "smooth", 
+          searchInput.scrollIntoView({
+            behavior: "smooth",
             block: "start",
-            inline: "nearest"
+            inline: "nearest",
           });
         }, 100);
       }
     }, 300); // Debounce search
   });
-  
+
   clearButton.addEventListener("click", () => {
     searchInput.value = "";
     filter();
   });
-  
+
   // Show/hide clear button based on input content
   const toggleClearButton = () => {
     clearButton.style.display = searchInput.value.trim() ? "block" : "none";
   };
-  
+
   searchInput.addEventListener("input", toggleClearButton);
   toggleClearButton(); // Initial state
 }
@@ -804,19 +814,16 @@ function initGrammarSearch() {
  * Collapsible sections
  */
 function loadGrammarSection(section) {
-  console.log("Loading section:", section.dataset.id || "(no id)");
   if (section.dataset.id && !section.querySelector(".section-content")) {
-    console.log("Section has id, loading grammar:", section.dataset.id);
-    const newGrammar = loadGrammar(
-      section.dataset.id,
-      section
-    );
+    const newGrammar = loadGrammar(section.dataset.id, section);
     return newGrammar;
   }
   return section;
 }
 function enableSectionToggle(within = document) {
-  const sections = within.classList?.contains("section") ? [within] : within.querySelectorAll(".section");
+  const sections = within.classList?.contains("section")
+    ? [within]
+    : within.querySelectorAll(".section");
 
   sections.forEach(function (section) {
     const title = section.querySelector(".section-title");
@@ -842,7 +849,10 @@ function toggleSection(section, forceExpand = false) {
     return;
   }
 
-  section.classList.toggle("expanded", forceExpand || !section.classList.contains("expanded"));
+  section.classList.toggle(
+    "expanded",
+    forceExpand || !section.classList.contains("expanded")
+  );
 
   if (content.style.maxHeight && !forceExpand) {
     content.style.maxHeight = null;
@@ -872,13 +882,14 @@ function getParentSections(el) {
   return sections;
 }
 
-function initGrammarLinks(grammarElement) {
-  grammarElement.querySelectorAll("a[grammar]").forEach(function (el) {
+function initGrammarLinks(within = document) {
+  within.querySelectorAll("a[grammar]").forEach(function (el) {
     const grammarId = el.getAttribute("grammar");
-      if (!grammarId) {
-        el.style.color = "red";
-        return;
-      }
+    if (!grammarId || (!grammar.content[grammarId] && !grammar.index[grammarId])) {
+      console.log(grammarId, grammar.content, grammar.index);
+      el.classList.add("red-link");
+      return;
+    }
     el.title = grammarId;
 
     el.onclick = function (e) {
@@ -886,28 +897,26 @@ function initGrammarLinks(grammarElement) {
         showGrammarLibrary();
       }
 
-      let section = grammarLibrary.querySelector(`.section[data-id="${grammarId}"]`);
+      let section = grammarLibrary.querySelector(
+        `.section[data-id="${grammarId}"]`
+      );
       if (section) {
-        console.log(getParentSections(section));
         for (const ancestorSection of getParentSections(section)) {
           if (!ancestorSection.classList.contains("expanded")) {
-            console.log("Loading ancestor section:", ancestorSection.dataset.id || "(no id)");
             section = loadGrammarSection(ancestorSection);
             toggleSection(section, true);
           }
         }
 
         window.scrollTo({
-          top: section.getBoundingClientRect().top + window.scrollY - 50,
+          top: section.getBoundingClientRect().top + window.scrollY - 100,
           behavior: "smooth",
         });
       }
       e.preventDefault();
-    }
+    };
   });
 }
-
-// Grammar links
 
 ___DICT___;
 

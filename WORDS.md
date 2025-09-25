@@ -2154,7 +2154,7 @@
 | 2152 | déclencher | auslösen | 21 |  | [Bearbeiten](cards/2152_déclencher.yml) |
 | 2153 | uni | vereint | 28 |  | [Bearbeiten](cards/2153_uni.yml) |
 | 2154 | connexion | Verbindung | 17 |  | [Bearbeiten](cards/2154_connexion.yml) |
-| 2155 | écouler | absetzen, fließen | 27 |  | [Bearbeiten](cards/2155_écouler.yml) |
+| 2155 | écouler | absetzen, fließen | 27 | ✓ | [Bearbeiten](cards/2155_écouler.yml) |
 | 2156 | option | Option | 25 |  | [Bearbeiten](cards/2156_option.yml) |
 | 2157 | pétrole | (Erd-)öl | 19 | ✓ | [Bearbeiten](cards/2157_pétrole.yml) |
 | 2158 | laboratoire | Labor | 23 |  | [Bearbeiten](cards/2158_laboratoire.yml) |
@@ -3171,7 +3171,7 @@
 | 3169 | allumer | anzünden, einschalten | 42 |  | [Bearbeiten](cards/3169_allumer.yml) |
 | 3170 | quelquefois | manchmal, hin und wieder | 13 | ✓ | [Bearbeiten](cards/3170_quelquefois.yml) |
 | 3171 | disperser | verstreuen, zerstreuen | 32 |  | [Bearbeiten](cards/3171_disperser.yml) |
-| 3172 | déchirer | zerreißen, aufreißen | 41 |  | [Bearbeiten](cards/3172_déchirer.yml) |
+| 3172 | déchirer | zerreißen, aufreißen | 41 | ✓ | [Bearbeiten](cards/3172_déchirer.yml) |
 | 3173 | mépris | Verachtung, Missachtung | 20 |  | [Bearbeiten](cards/3173_mépris.yml) |
 | 3174 | échantillon | (Stich-)probe, Muster | 26 |  | [Bearbeiten](cards/3174_échantillon.yml) |
 | 3175 | continuité | Kontinuität | 16 |  | [Bearbeiten](cards/3175_continuité.yml) |

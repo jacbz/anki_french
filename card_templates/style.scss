@@ -436,16 +436,25 @@ span.spoiler {
 
 a {
   text-decoration: none;
-  color: #1d4ed8;
+  color: #3056a9;
   cursor: pointer;
 
-  &[grammar]::before {
-    content: "→";
+  &[grammar]::after {
+    content: "↗";
+    opacity: 0.8;
+  }
+
+  &.red-link {
+    color: #bf3c2c;
   }
 }
 
 .night_mode a {
-  color: #bfdbfe;
+  color: #88a3e8;
+
+  &.red-link {
+    color: #fd7865;
+  }
 }
 
 .github {
@@ -662,8 +671,9 @@ hr {
 }
 
 #front-sentence {
-  margin-top: 2.5em;
-  margin-bottom: 1.5em;
+  margin-top: 2.25em;
+  margin-bottom: 1.25em;
+  padding: 0.25em;
   font-size: 55%;
 
   .fr {
@@ -671,7 +681,7 @@ hr {
   }
 
   #sentences-inner {
-    font-size: 110%;
+    font-size: 105%;
     margin-bottom: 2.5em;
 
     &.bold-word .word-highlight {
@@ -1046,10 +1056,6 @@ small {
 
 #verb-classification {
   font-style: italic;
-
-  a.verb-classification-link {
-    font-weight: bold;
-  }
 }
 
 #conjugation-table {
