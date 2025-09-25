@@ -724,6 +724,15 @@ u {
   color: var(--highlight-color);
 }
 
+.warning::before {
+  content: "⚠\fe0e";
+  color: var(--attention-color);
+  margin-right: 0.2em;
+  font-size: 120%;
+  font-family: monospace;
+  line-height: 0%;
+}
+
 .card-box {
   p {
     margin: 0;
