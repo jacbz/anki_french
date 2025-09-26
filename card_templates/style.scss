@@ -765,6 +765,10 @@ u {
     p:not(:first-child) {
       margin-top: 0.5em;
     }
+
+    .fr + .fr {
+      margin-top: 0 !important;
+    }
   }
 
   h3:not(:first-child) {
