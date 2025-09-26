@@ -34,6 +34,7 @@ function render() {
   if (de.includes("word-highlight")) {
     definition.classList.add("small");
     definition.parentNode.appendChild(definition);
+    definition.innerHTML = definition.innerHTML.replace("<br>", "; ");
   }
 }
 

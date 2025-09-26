@@ -1105,7 +1105,7 @@
 | 1103 | voici | hier ist/sind | 27 |  | [Bearbeiten](cards/1103_voici.yml) |
 | 1104 | acquérir | erwerben | 41 |  | [Bearbeiten](cards/1104_acquérir.yml) |
 | 1105 | moindre | geringste(-r/s), kleinste(-r/s) | 27 |  | [Bearbeiten](cards/1105_moindre.yml) |
-| 1106 | convenir | passen, geeignet sein | 49 | ✓ | [Bearbeiten](cards/1106_convenir.yml) |
+| 1106 | convenir | passen; vereinbaren | 49 | ✓ | [Bearbeiten](cards/1106_convenir.yml) |
 | 1107 | logique | Logik | 33 |  | [Bearbeiten](cards/1107_logique.yml) |
 | 1108 | examiner | prüfen, untersuchen | 23 | ✓ | [Bearbeiten](cards/1108_examiner.yml) |
 | 1109 | soin | Sorgfalt, Pflege | 64 |  | [Bearbeiten](cards/1109_soin.yml) |
@@ -3411,7 +3411,7 @@
 | 3409 | interpeller | ansprechen, herausfordern | 19 |  | [Bearbeiten](cards/3409_interpeller.yml) |
 | 3410 | fréquemment | häufig, regelmäßig | 12 |  | [Bearbeiten](cards/3410_fréquemment.yml) |
 | 3411 | symbolique | symbolisch | 24 |  | [Bearbeiten](cards/3411_symbolique.yml) |
-| 3412 | pavillon | Häuschen | 34 |  | [Bearbeiten](cards/3412_pavillon.yml) |
+| 3412 | pavillon | Häuschen; Flagge | 30 |  | [Bearbeiten](cards/3412_pavillon.yml) |
 | 3413 | pape | Papst | 17 |  | [Bearbeiten](cards/3413_pape.yml) |
 | 3414 | préliminaire | vorbereitend, Vor- | 19 |  | [Bearbeiten](cards/3414_préliminaire.yml) |
 | 3415 | sensation | Empfindung, Gefühl | 24 |  | [Bearbeiten](cards/3415_sensation.yml) |

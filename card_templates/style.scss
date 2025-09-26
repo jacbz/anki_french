@@ -123,6 +123,8 @@ $section-within-section-title-background: hsla(201, 100%, 14%, 0.07);
     min-height: 20px;
     max-width: 20px;
     max-height: 20px;
+    margin: -0.3em;
+    padding: 0.3em;
   }
 
   /** increase the clickable area of the button **/
@@ -329,14 +331,6 @@ input {
   .disamb {
     display: none;
   }
-
-  br {
-    content: " ";
-
-    &::after {
-      content: "; ";
-    }
-  }
 }
 
 .pre-suffix {
@@ -427,12 +421,22 @@ span.spoiler {
   padding-bottom: 0.15em;
 }
 
-.sentence-with-audio .svg-button {
-  display: inline-flex;
-  margin-right: 0.1em;
-  align-items: center;
-  transform: translateY(0.1em);
+.sentence-with-audio {
+  white-space: nowrap;
+
+  .svg-button {
+    display: inline-flex;
+    margin-right: -0.2em !important;
+    align-items: center;
+    transform: translateY(0.1em);
+    vertical-align: top;
+  }
+
+  span {
+    white-space: normal;
+  }
 }
+
 
 a {
   text-decoration: none;
