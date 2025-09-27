@@ -132,7 +132,15 @@ async function playAudio({text, customFileName = undefined, lang = "fr-FR"}) {
 }
 
 function preprocessTextToRead(sentence) {
-  return sentence.replaceAll("*", "").replaceAll("‿", " ").replaceAll("/", ",").replaceAll("→", ";").replace("’", "'").replace(/[\u0000-\u001F\u007F-\u009F\u200B\u2060\uFEFF\u202f]/g, "").trim();
+  return sentence
+    .replaceAll(/(&nbsp;|<([^>]+)>)/ig, "") // remove HTML tags
+    .replaceAll("*", "")
+    .replaceAll("‿", " ")
+    .replaceAll("/", ",")
+    .replaceAll("→", ";")
+    .replaceAll("’", "'")
+    .replaceAll(/[\u0000-\u001F\u007F-\u009F\u200B\u2060\uFEFF\u202f]/g, "")
+    .trim();
 }
 
 const memoizedTTSUrls = {};
