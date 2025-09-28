@@ -488,6 +488,14 @@ function loadGrammar(id, into) {
       "regardiez",
       "regardent",
     ],
+    SI: [
+      "regardasse",
+      "regardasses",
+      "regardât",
+      "regardassions",
+      "regardassiez",
+      "regardassent",
+    ],
     PS: [
       "regardai",
       "regardas",

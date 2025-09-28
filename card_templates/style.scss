@@ -421,8 +421,8 @@ span.spoiler {
     display: inline-flex;
     margin-right: -0.2em !important;
     align-items: center;
-    transform: translateY(0.1em);
-    vertical-align: top;
+    vertical-align: middle;
+    line-height: 0;
   }
 
   span {
