@@ -217,10 +217,6 @@ input {
 
 .word {
   font-weight: bold;
-
-  &:has(.feminine .stem) {
-    margin-bottom: 0.75em;
-  }
 }
 
 .word_span {
@@ -237,10 +233,6 @@ input {
   user-select: none;
   -webkit-user-select: none;
   white-space: nowrap;
-
-  &:has(.stem) {
-    top: 60%;
-  }
 }
 
 .stem {

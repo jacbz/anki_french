@@ -14,18 +14,59 @@ function longestCommonPrefix(a, b) {
   return a.slice(0, i);
 }
 
+const feminineHeight = 0.65;
 if (feminine) {
-  wordWithArticle.innerHTML = wordWithArticle.textContent.replace(
-    word,
-    `<span class="word_span">${word}<span class="feminine">${feminine}</span></span>`
-  );
-  if (word !== feminine.slice(0, word.length)) {
-    const stem = longestCommonPrefix(word, feminine);
-    document.querySelector(
-      ".feminine"
-    ).innerHTML = `<span class="stem" data-before="${stem}" data-after="${feminine.slice(
-      stem.length
-    )}">${stem.length > 0 ? stem : "​"}</span>`;
+  const feminineWords = feminine.split(',').map(f => f.trim()).filter(f => f.length > 0);
+  
+  let commonStem = word;
+  for (const feminineWord of feminineWords) {
+    commonStem = longestCommonPrefix(commonStem, feminineWord);
+  }
+  
+  const wordSpan = document.createElement('span');
+  wordSpan.className = 'word_span';
+  wordSpan.textContent = word;
+
+  // only one feminine and word is fully contained within it => simply attach to lemma
+  if (feminineWords.length === 1 && commonStem === word) {
+    const feminineSpan = document.createElement('span');
+    feminineSpan.className = 'feminine';
+    feminineSpan.textContent = feminineWords[0];
+    
+    wordSpan.appendChild(feminineSpan);
+  } else {
+    const marginBottom = feminineWords.length * feminineHeight;
+    wordWithArticle.style.marginBottom = `${marginBottom}em`;
+    
+    feminineWords.forEach((feminineWord, index) => {
+      const feminineSpan = document.createElement('span');
+      feminineSpan.className = 'feminine';
+      
+      const topPosition = 0.7 + (index * feminineHeight);
+      feminineSpan.style.top = `${topPosition}em`;
+      
+      const stemSpan = document.createElement('span');
+      stemSpan.className = 'stem';
+      stemSpan.dataset.before = commonStem;
+      stemSpan.dataset.after = feminineWord.slice(commonStem.length);
+      stemSpan.textContent = commonStem.length > 0 ? commonStem : "​";
+      
+      feminineSpan.appendChild(stemSpan);
+      
+      wordSpan.appendChild(feminineSpan);
+    });
+  }
+  
+  const textContent = wordWithArticle.textContent;
+  const parts = textContent.split(word);
+  
+  wordWithArticle.innerHTML = '';
+  if (parts[0]) {
+    wordWithArticle.appendChild(document.createTextNode(parts[0]));
+  }
+  wordWithArticle.appendChild(wordSpan);
+  if (parts[1]) {
+    wordWithArticle.appendChild(document.createTextNode(parts[1]));
   }
 }
 
