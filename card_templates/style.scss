@@ -1110,6 +1110,11 @@ small {
 
 table {
   width: 100%;
+
+  td > .examples:first-child {
+    margin-top: -0.2em;
+    margin-bottom: 0.8em;
+  }
 }
 
 tbody {

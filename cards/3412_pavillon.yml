@@ -7,7 +7,7 @@ Wortart: nm
 Wort mit Artikel: le pavillon
 Femininum / Plural: ''
 IPA: \pa.vi.jɔ̃\
-Definition: Häuschen; Flagge
+Definition: Häuschen; (Schiffs-)flagge
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -108,4 +108,25 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>drapeau</i> und <i>pavillon</i></div>
+    <div class="section-content">
+      <p><span class="fr">Drapeau</span> (#2582) bedeutet <span class="de">"Fahne"</span> oder <span class="de">"Flagge"</span> im allgemeinen Sinne. Es bezeichnet das nationale Symbol eines Landes oder eine Fahne, die eine Gruppe oder Institution repräsentiert.</p>
+      <div class="examples">
+        <div class="fr">Le drapeau français flotte sur l'Élysée.</div>
+        <div class="de spoiler">Die französische Flagge weht über dem Élysée-Palast.</div>
+        <div class="fr">Les supporters agitent leurs drapeaux dans les tribunes.</div>
+        <div class="de spoiler">Die Fans schwenken ihre Fahnen auf den Tribünen.</div>
+      </div>
+      <p><span class="fr">Pavillon</span> hat mehrere Bedeutungen: Es kann <span class="de">"Flagge"</span> bedeuten, wird aber speziell für Schiffsflaggen verwendet, die die Nationalität eines Schiffes anzeigen. Es bezeichnet auch einen <span class="de">"Pavillon"</span> (kleines Gebäude) oder einen <span class="de">"Flügel"</span> eines größeren Gebäudes.</p>
+      <div class="examples">
+        <div class="fr">Le navire bat pavillon français.</div>
+        <div class="de spoiler">Das Schiff fährt unter französischer Flagge.</div>
+        <div class="fr">Ils habitent dans un petit pavillon de banlieue.</div>
+        <div class="de spoiler">Sie wohnen in einem kleinen Pavillon in der Vorstadt.</div>
+        <div class="fr">Le pavillon des urgences de l'hôpital a été rénové.</div>
+        <div class="de spoiler">Der Notaufnahme-Flügel des Krankenhauses wurde renoviert.</div>
+      </div>
+    </div>
+  </div>

@@ -57,4 +57,25 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>œuvrer à</i> und <i>œuvrer pour</i></div>
+    <div class="section-content">
+      <p><span class="fr">Œuvrer à</span> betont den Prozess des Arbeitens an einem bedeutsamen Ziel oder Projekt.</p>
+      <div class="examples">
+        <div class="fr">Le gouvernement œuvre au rétablissement économique du pays.</div>
+        <div class="de spoiler">Die Regierung arbeitet an der wirtschaftlichen Wiederherstellung des Landes.</div>
+        <div class="fr">Cette association œuvre à la protection de l'environnement.</div>
+        <div class="de spoiler">Dieser Verein arbeitet am Schutz der Umwelt.</div>
+      </div>
+      <p><span class="fr">Œuvrer pour</span> unterstreicht das Ziel oder den Zweck der Anstrengungen.</p>
+      <div class="examples">
+        <div class="fr">J'œuvre pour assurer votre sécurité.</div>
+        <div class="de spoiler">Ich setze alles daran, Ihre Sicherheit zu gewährleisten.</div>
+        <div class="fr">Les médecins œuvrent pour sauver des vies.</div>
+        <div class="de spoiler">Die Ärzte arbeiten daran, Leben zu retten.</div>
+      </div>
+    </div>
+  </div>
+  <grammar data-id="Verben mit à"></grammar>
+  <grammar data-id="Verben mit anderen Präpositionen"></grammar>

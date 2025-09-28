@@ -822,7 +822,7 @@
 | 820 | précédent | vorhergehend | 23 |  | [Bearbeiten](cards/0820_précédent.yml) |
 | 821 | installer | aufstellen; sich niederlassen | 46 |  | [Bearbeiten](cards/0821_installer.yml) |
 | 822 | facile | einfach, bequem | 48 | ✓ | [Bearbeiten](cards/0822_facile.yml) |
-| 823 | augmenter | erhöhen, steigern | 38 |  | [Bearbeiten](cards/0823_augmenter.yml) |
+| 823 | augmenter | erhöhen, steigern | 38 | ✓ | [Bearbeiten](cards/0823_augmenter.yml) |
 | 824 | réunir | vereinigen, versammeln | 43 |  | [Bearbeiten](cards/0824_réunir.yml) |
 | 825 | impression | Eindruck | 43 | ✓ | [Bearbeiten](cards/0825_impression.yml) |
 | 826 | octobre | Oktober | 14 | ✓ | [Bearbeiten](cards/0826_octobre.yml) |
@@ -836,7 +836,7 @@
 | 834 | attitude | Einstellung, Haltung | 21 | ✓ | [Bearbeiten](cards/0834_attitude.yml) |
 | 835 | faute | Fehler, Schuld | 61 |  | [Bearbeiten](cards/0835_faute.yml) |
 | 836 | série | Serie | 48 | ✓ | [Bearbeiten](cards/0836_série.yml) |
-| 837 | lever | heben, aufstehen | 61 |  | [Bearbeiten](cards/0837_lever.yml) |
+| 837 | lever | heben, aufstehen | 61 | ✓ | [Bearbeiten](cards/0837_lever.yml) |
 | 838 | proche | nah | 40 | ✓ | [Bearbeiten](cards/0838_proche.yml) |
 | 839 | direct | direkt | 62 | ✓ | [Bearbeiten](cards/0839_direct.yml) |
 | 840 | imaginer | sich vorstellen, erdenken | 36 | ✓ | [Bearbeiten](cards/0840_imaginer.yml) |
@@ -2927,7 +2927,7 @@
 | 2925 | coupe | Schale; Pokal; Schnitt | 57 |  | [Bearbeiten](cards/2925_coupe.yml) |
 | 2926 | rayon | Strahl; Abteilung | 60 | ✓ | [Bearbeiten](cards/2926_rayon.yml) |
 | 2927 | lèvre | Lippe | 33 | ✓ | [Bearbeiten](cards/2927_lèvre.yml) |
-| 2928 | promener | spazieren | 29 |  | [Bearbeiten](cards/2928_promener.yml) |
+| 2928 | promener | spazieren | 29 | ✓ | [Bearbeiten](cards/2928_promener.yml) |
 | 2929 | boulot | Job, Arbeit | 20 |  | [Bearbeiten](cards/2929_boulot.yml) |
 | 2930 | correctement | korrekt, richtig | 15 |  | [Bearbeiten](cards/2930_correctement.yml) |
 | 2931 | colonne | Säule, Spalte; Reihe | 41 |  | [Bearbeiten](cards/2931_colonne.yml) |
@@ -3391,7 +3391,7 @@
 | 3389 | géographique | geografisch | 14 |  | [Bearbeiten](cards/3389_géographique.yml) |
 | 3390 | réacteur | Reaktor | 15 |  | [Bearbeiten](cards/3390_réacteur.yml) |
 | 3391 | ajuster | passend machen, einstellen | 31 |  | [Bearbeiten](cards/3391_ajuster.yml) |
-| 3392 | œuvrer | (hin-)arbeiten, wirken | 13 |  | [Bearbeiten](cards/3392_œuvrer.yml) |
+| 3392 | œuvrer | (hin-)arbeiten, wirken | 13 | ✓ | [Bearbeiten](cards/3392_œuvrer.yml) |
 | 3393 | sommeil | Schlaf, Müdigkeit | 35 |  | [Bearbeiten](cards/3393_sommeil.yml) |
 | 3394 | automatiquement | automatisch; unweigerlich | 13 |  | [Bearbeiten](cards/3394_automatiquement.yml) |
 | 3395 | balance | Bilanz; Waage | 46 |  | [Bearbeiten](cards/3395_balance.yml) |
@@ -3411,7 +3411,7 @@
 | 3409 | interpeller | ansprechen, herausfordern | 19 |  | [Bearbeiten](cards/3409_interpeller.yml) |
 | 3410 | fréquemment | häufig, regelmäßig | 12 |  | [Bearbeiten](cards/3410_fréquemment.yml) |
 | 3411 | symbolique | symbolisch | 24 |  | [Bearbeiten](cards/3411_symbolique.yml) |
-| 3412 | pavillon | Häuschen; Flagge | 30 |  | [Bearbeiten](cards/3412_pavillon.yml) |
+| 3412 | pavillon | Häuschen; (Schiffs-)flagge | 30 | ✓ | [Bearbeiten](cards/3412_pavillon.yml) |
 | 3413 | pape | Papst | 17 |  | [Bearbeiten](cards/3413_pape.yml) |
 | 3414 | préliminaire | vorbereitend, Vor- | 19 |  | [Bearbeiten](cards/3414_préliminaire.yml) |
 | 3415 | sensation | Empfindung, Gefühl | 24 |  | [Bearbeiten](cards/3415_sensation.yml) |
@@ -4412,7 +4412,7 @@
 | 4410 | convenable | anständig, schicklich | 23 | ✓ | [Bearbeiten](cards/4410_convenable.yml) |
 | 4411 | itinéraire | Route | 18 |  | [Bearbeiten](cards/4411_itinéraire.yml) |
 | 4412 | purger | entleeren [und reinigen] | 25 |  | [Bearbeiten](cards/4412_purger.yml) |
-| 4413 | fâcher | verärgern | 30 |  | [Bearbeiten](cards/4413_fâcher.yml) |
+| 4413 | fâcher | verärgern | 30 | ✓ | [Bearbeiten](cards/4413_fâcher.yml) |
 | 4414 | repasser | bügeln; nochmal vorbeikommen | 57 |  | [Bearbeiten](cards/4414_repasser.yml) |
 | 4415 | alternatif | alternativ | 21 |  | [Bearbeiten](cards/4415_alternatif.yml) |
 | 4416 | palier | Stufe, Etage | 17 |  | [Bearbeiten](cards/4416_palier.yml) |
