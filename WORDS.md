@@ -1872,7 +1872,7 @@
 | 1870 | assumer | übernehmen, auf sich nehmen | 21 |  | [Bearbeiten](cards/1870_assumer.yml) |
 | 1871 | partiel | Teil- | 19 | ✓ | [Bearbeiten](cards/1871_partiel.yml) |
 | 1872 | éprouver | empfinden, erleben; prüfen | 36 | ✓ | [Bearbeiten](cards/1872_éprouver.yml) |
-| 1873 | rendez-vous | Verabredung, Treffen | 30 |  | [Bearbeiten](cards/1873_rendez-vous.yml) |
+| 1873 | rendez-vous | Verabredung, Treffen | 30 | ✓ | [Bearbeiten](cards/1873_rendez-vous.yml) |
 | 1874 | argument | Argument | 22 |  | [Bearbeiten](cards/1874_argument.yml) |
 | 1875 | planète | Planet | 17 | ✓ | [Bearbeiten](cards/1875_planète.yml) |
 | 1876 | maire | Bürgermeister | 17 | ✓ | [Bearbeiten](cards/1876_maire.yml) |
@@ -2389,7 +2389,7 @@
 | 2387 | autochtone | einheimisch | 15 |  | [Bearbeiten](cards/2387_autochtone.yml) |
 | 2388 | continent | Kontinent | 17 | ✓ | [Bearbeiten](cards/2388_continent.yml) |
 | 2389 | définitivement | endgültig, für immer | 14 |  | [Bearbeiten](cards/2389_définitivement.yml) |
-| 2390 | heureusement | glücklicherweise | 20 |  | [Bearbeiten](cards/2390_heureusement.yml) |
+| 2390 | heureusement | glücklicherweise | 19 |  | [Bearbeiten](cards/2390_heureusement.yml) |
 | 2391 | digne | würdig | 28 |  | [Bearbeiten](cards/2391_digne.yml) |
 | 2392 | guide | Führer, Ratgeber | 35 |  | [Bearbeiten](cards/2392_guide.yml) |
 | 2393 | tabac | Tabak | 35 | ✓ | [Bearbeiten](cards/2393_tabac.yml) |
@@ -2696,7 +2696,7 @@
 | 2694 | inspecteur | Inspektor | 22 |  | [Bearbeiten](cards/2694_inspecteur.yml) |
 | 2695 | tempête | Sturm | 22 | ✓ | [Bearbeiten](cards/2695_tempête.yml) |
 | 2696 | tissu | Stoff, Gewebe | 33 | ✓ | [Bearbeiten](cards/2696_tissu.yml) |
-| 2697 | souverain | Herrscher | 34 | ✓ | [Bearbeiten](cards/2697_souverain.yml) |
+| 2697 | souverain | Herrscher; unübertroffen | 34 | ✓ | [Bearbeiten](cards/2697_souverain.yml) |
 | 2698 | distinct | verschieden; deutlich | 18 |  | [Bearbeiten](cards/2698_distinct.yml) |
 | 2699 | survie | Überleben | 17 |  | [Bearbeiten](cards/2699_survie.yml) |
 | 2700 | repousser | abwehren, verschieben, wegdrängen | 42 |  | [Bearbeiten](cards/2700_repousser.yml) |
@@ -3126,7 +3126,7 @@
 | 3124 | sixième | sechste(-r/s) | 21 | ✓ | [Bearbeiten](cards/3124_sixième.yml) |
 | 3125 | enveloppe | Umschlag, Hülle | 31 |  | [Bearbeiten](cards/3125_enveloppe.yml) |
 | 3126 | extension | (Aus-)dehnung, Erweiterung | 29 |  | [Bearbeiten](cards/3126_extension.yml) |
-| 3127 | effondrer | zusammenbrechen, einstürzen | 26 |  | [Bearbeiten](cards/3127_effondrer.yml) |
+| 3127 | effondrer | zusammenbrechen, einstürzen | 26 | ✓ | [Bearbeiten](cards/3127_effondrer.yml) |
 | 3128 | apprêter | bereit machen, herrichten | 22 |  | [Bearbeiten](cards/3128_apprêter.yml) |
 | 3129 | anonyme | anonym | 21 |  | [Bearbeiten](cards/3129_anonyme.yml) |
 | 3130 | cibler | anvisieren, bestimmen | 15 |  | [Bearbeiten](cards/3130_cibler.yml) |
@@ -3308,7 +3308,7 @@
 | 3306 | acier | Stahl | 31 | ✓ | [Bearbeiten](cards/3306_acier.yml) |
 | 3307 | vainqueur | siegreich; Sieger | 23 |  | [Bearbeiten](cards/3307_vainqueur.yml) |
 | 3308 | dépendant | abhängig | 16 | ✓ | [Bearbeiten](cards/3308_dépendant.yml) |
-| 3309 | sud-est | Südosten | 15 |  | [Bearbeiten](cards/3309_sud-est.yml) |
+| 3309 | sud-est | Südosten | 15 | ✓ | [Bearbeiten](cards/3309_sud-est.yml) |
 | 3310 | brancher | anschließen, einstecken | 26 |  | [Bearbeiten](cards/3310_brancher.yml) |
 | 3311 | concession | Zugeständnis, Nutzungsrecht | 27 |  | [Bearbeiten](cards/3311_concession.yml) |
 | 3312 | mystérieux | geheimnisvoll | 21 |  | [Bearbeiten](cards/3312_mystérieux.yml) |
@@ -3530,7 +3530,7 @@
 | 3528 | peintre | Maler | 25 |  | [Bearbeiten](cards/3528_peintre.yml) |
 | 3529 | volontairement | freiwillig, absichtlich | 15 |  | [Bearbeiten](cards/3529_volontairement.yml) |
 | 3530 | magique | magisch | 18 |  | [Bearbeiten](cards/3530_magique.yml) |
-| 3531 | bien-être | Wohlbefinden | 13 |  | [Bearbeiten](cards/3531_bien-être.yml) |
+| 3531 | bien-être | Wohlbefinden | 13 | ✓ | [Bearbeiten](cards/3531_bien-être.yml) |
 | 3532 | cap | Kurs [Ziel] | 23 | ✓ | [Bearbeiten](cards/3532_cap.yml) |
 | 3533 | raide | steif, stur, steil | 49 |  | [Bearbeiten](cards/3533_raide.yml) |
 | 3534 | maigre | mager | 43 | ✓ | [Bearbeiten](cards/3534_maigre.yml) |
@@ -3684,7 +3684,7 @@
 | 3682 | charme | Charme | 35 |  | [Bearbeiten](cards/3682_charme.yml) |
 | 3683 | atout | Trumpf | 18 |  | [Bearbeiten](cards/3683_atout.yml) |
 | 3684 | portugais | portugiesisch; Portugiese | 18 | ✓ | [Bearbeiten](cards/3684_portugais.yml) |
-| 3685 | nord-ouest | Nordwesten | 17 |  | [Bearbeiten](cards/3685_nord-ouest.yml) |
+| 3685 | nord-ouest | Nordwesten | 17 | ✓ | [Bearbeiten](cards/3685_nord-ouest.yml) |
 | 3686 | affaiblissement | Schwächung | 20 |  | [Bearbeiten](cards/3686_affaiblissement.yml) |
 | 3687 | balayer | fegen | 26 |  | [Bearbeiten](cards/3687_balayer.yml) |
 | 3688 | peupler | bevölkern | 26 |  | [Bearbeiten](cards/3688_peupler.yml) |
@@ -3772,7 +3772,7 @@
 | 3770 | apte | geeignet, fähig | 16 |  | [Bearbeiten](cards/3770_apte.yml) |
 | 3771 | dépêcher | beeilen | 16 |  | [Bearbeiten](cards/3771_dépêcher.yml) |
 | 3772 | démentir | dementieren | 23 |  | [Bearbeiten](cards/3772_démentir.yml) |
-| 3773 | sud-ouest | Südwesten | 16 |  | [Bearbeiten](cards/3773_sud-ouest.yml) |
+| 3773 | sud-ouest | Südwesten | 16 | ✓ | [Bearbeiten](cards/3773_sud-ouest.yml) |
 | 3774 | envergure | Spannweite | 22 |  | [Bearbeiten](cards/3774_envergure.yml) |
 | 3775 | touche | Taste | 55 |  | [Bearbeiten](cards/3775_touche.yml) |
 | 3776 | déterminant | bestimmend⁠, ausschlaggebend | 17 | ✓ | [Bearbeiten](cards/3776_déterminant.yml) |
@@ -3909,7 +3909,7 @@
 | 3907 | linguistique | Linguistik | 20 |  | [Bearbeiten](cards/3907_linguistique.yml) |
 | 3908 | accompli | vollendet | 18 |  | [Bearbeiten](cards/3908_accompli.yml) |
 | 3909 | terriblement | furchtbar, äußerst | 14 |  | [Bearbeiten](cards/3909_terriblement.yml) |
-| 3910 | main-d’œuvre | Arbeitskräfte | 16 |  | [Bearbeiten](cards/3910_main-d’œuvre.yml) |
+| 3910 | main-d’œuvre | Arbeitskräfte | 16 | ✓ | [Bearbeiten](cards/3910_main-d’œuvre.yml) |
 | 3911 | invasion | Invasion | 20 |  | [Bearbeiten](cards/3911_invasion.yml) |
 | 3912 | orange | Orange | 24 | ✓ | [Bearbeiten](cards/3912_orange.yml) |
 | 3913 | jury | Jury | 18 |  | [Bearbeiten](cards/3913_jury.yml) |
@@ -4185,7 +4185,7 @@
 | 4183 | éventualité | Möglichkeit, Eventualität | 16 |  | [Bearbeiten](cards/4183_éventualité.yml) |
 | 4184 | massacrer | niedermetzeln | 19 |  | [Bearbeiten](cards/4184_massacrer.yml) |
 | 4185 | réciproque | gegenseitig⁠; Gleiche(-s) | 28 | ✓ | [Bearbeiten](cards/4185_réciproque.yml) |
-| 4186 | état-major | Generalstab, Führungsstab | 21 |  | [Bearbeiten](cards/4186_état-major.yml) |
+| 4186 | état-major | Generalstab, Führungsstab | 21 | ✓ | [Bearbeiten](cards/4186_état-major.yml) |
 | 4187 | attarder | aufhalten, verweilen | 20 |  | [Bearbeiten](cards/4187_attarder.yml) |
 | 4188 | englober | (mit) einbeziehen, einschließen | 16 |  | [Bearbeiten](cards/4188_englober.yml) |
 | 4189 | grossir | zunehmen, dicker werden | 44 |  | [Bearbeiten](cards/4189_grossir.yml) |
@@ -4288,7 +4288,7 @@
 | 4286 | compétitivité | Wettbewerbsfähigkeit | 14 |  | [Bearbeiten](cards/4286_compétitivité.yml) |
 | 4287 | enthousiaste | begeistert | 16 |  | [Bearbeiten](cards/4287_enthousiaste.yml) |
 | 4288 | quarantaine | ungefähr vierzig | 19 |  | [Bearbeiten](cards/4288_quarantaine.yml) |
-| 4289 | sous-sol | Untergeschoss | 14 |  | [Bearbeiten](cards/4289_sous-sol.yml) |
+| 4289 | sous-sol | Untergeschoss | 14 | ✓ | [Bearbeiten](cards/4289_sous-sol.yml) |
 | 4290 | rat | Ratte | 34 | ✓ | [Bearbeiten](cards/4290_rat.yml) |
 | 4291 | flot | Flut | 44 |  | [Bearbeiten](cards/4291_flot.yml) |
 | 4292 | mordre | beißen | 50 | ✓ | [Bearbeiten](cards/4292_mordre.yml) |
@@ -4387,7 +4387,7 @@
 | 4385 | levée | Aufhebung, Erhebung | 24 |  | [Bearbeiten](cards/4385_levée.yml) |
 | 4386 | déformer | verformen, verzerren | 24 |  | [Bearbeiten](cards/4386_déformer.yml) |
 | 4387 | menaçant | bedrohlich | 17 |  | [Bearbeiten](cards/4387_menaçant.yml) |
-| 4388 | nord-est | Nordosten | 15 |  | [Bearbeiten](cards/4388_nord-est.yml) |
+| 4388 | nord-est | Nordosten | 15 | ✓ | [Bearbeiten](cards/4388_nord-est.yml) |
 | 4389 | substitution | Ersetzung, Austausch | 17 |  | [Bearbeiten](cards/4389_substitution.yml) |
 | 4390 | parer | abwehren; vorbereiten | 44 |  | [Bearbeiten](cards/4390_parer.yml) |
 | 4391 | avantageux | vorteilhaft | 21 |  | [Bearbeiten](cards/4391_avantageux.yml) |
@@ -4829,7 +4829,7 @@
 | 4827 | proportionnel | proportional | 21 |  | [Bearbeiten](cards/4827_proportionnel.yml) |
 | 4828 | aboutissement | Ergebnis, Erfüllung | 14 |  | [Bearbeiten](cards/4828_aboutissement.yml) |
 | 4829 | triomphe | Triumph | 26 |  | [Bearbeiten](cards/4829_triomphe.yml) |
-| 4830 | libre-échange | Freihandel | 14 |  | [Bearbeiten](cards/4830_libre-échange.yml) |
+| 4830 | libre-échange | Freihandel | 14 | ✓ | [Bearbeiten](cards/4830_libre-échange.yml) |
 | 4831 | sincérité | Aufrichtigkeit, Echtheit | 17 |  | [Bearbeiten](cards/4831_sincérité.yml) |
 | 4832 | serre | Gewächshaus; Klaue | 17 |  | [Bearbeiten](cards/4832_serre.yml) |
 | 4833 | doré | vergoldet, golden | 22 | ✓ | [Bearbeiten](cards/4833_doré.yml) |
@@ -4898,7 +4898,7 @@
 | 4896 | traite | Wechsel, Handel | 26 |  | [Bearbeiten](cards/4896_traite.yml) |
 | 4897 | démarrage | Start, Anlassen | 22 |  | [Bearbeiten](cards/4897_démarrage.yml) |
 | 4898 | oubli | Vergessen | 31 |  | [Bearbeiten](cards/4898_oubli.yml) |
-| 4899 | procès-verbal | Protokoll, Niederschrift | 18 |  | [Bearbeiten](cards/4899_procès-verbal.yml) |
+| 4899 | procès-verbal | Protokoll, Niederschrift | 18 | ✓ | [Bearbeiten](cards/4899_procès-verbal.yml) |
 | 4900 | formalité | Formalität | 17 |  | [Bearbeiten](cards/4900_formalité.yml) |
 | 4901 | insensible | unempfindlich, gefühllos | 24 |  | [Bearbeiten](cards/4901_insensible.yml) |
 | 4902 | distant | entfernt, distanziert | 18 |  | [Bearbeiten](cards/4902_distant.yml) |
@@ -4915,7 +4915,7 @@
 | 4913 | obsession | Besessenheit | 18 |  | [Bearbeiten](cards/4913_obsession.yml) |
 | 4914 | exciter | erregen, reizen | 40 | ✓ | [Bearbeiten](cards/4914_exciter.yml) |
 | 4915 | voisinage | Nachbarschaft, Nähe | 22 |  | [Bearbeiten](cards/4915_voisinage.yml) |
-| 4916 | savoir-faire | Know-how | 11 |  | [Bearbeiten](cards/4916_savoir-faire.yml) |
+| 4916 | savoir-faire | Know-how | 11 | ✓ | [Bearbeiten](cards/4916_savoir-faire.yml) |
 | 4917 | sévèrement | streng, hart | 14 |  | [Bearbeiten](cards/4917_sévèrement.yml) |
 | 4918 | écrasant | erdrückend, überwältigend | 19 |  | [Bearbeiten](cards/4918_écrasant.yml) |
 | 4919 | vendu | gekauft | 15 |  | [Bearbeiten](cards/4919_vendu.yml) |

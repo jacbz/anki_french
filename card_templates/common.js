@@ -44,7 +44,7 @@ function processText(text, isFrench, processStars = true) {
     // insert thin non-breaking space before punctuation (but not inside HTML tags)
     text = text.replaceAll(/(?!.*<[^>]+>)(\s?)([?|:|!|;])/g, "\u202F$2");
     // Replace " with French quote marks « ... », except inside HTML tags
-    text = text.replace(/"(?![^<]*>)(.*?)"(?![^<]*>)/g, "«\u202F$1\u202F»");
+    text = text.replaceAll(/"(?![^<]*>)(.*?)"(?![^<]*>)/g, "«\u202F$1\u202F»");
 
     // replace hyphen or en-dash at beginning of text with em-dash
     if (text.startsWith("-") || text.startsWith("–")) {
@@ -58,7 +58,10 @@ function processText(text, isFrench, processStars = true) {
       for (let line of lines) {
         line = line.trim();
         line = line.replaceAll(/^(–|-|—)\s*/g, "— ");
-        line = line.replaceAll("\"", "").replaceAll("«\u202F", "").replaceAll("\u202F»", "");
+        line = line
+          .replaceAll('"', "")
+          .replaceAll("«\u202F", "")
+          .replaceAll("\u202F»", "");
         formattedLines.push(line);
       }
       text = formattedLines.join("<br>");
@@ -88,7 +91,10 @@ function processText(text, isFrench, processStars = true) {
 
   // replace *...* with word-highlight span
   if (processStars) {
-    text = text.replaceAll(/\*(.*?)\*/g, '\u2060<span class="word-highlight">$1</span>\u2060');
+    text = text.replaceAll(
+      /\*(.*?)\*/g,
+      '\u2060<span class="word-highlight">$1</span>\u2060'
+    );
   }
   return text;
 }
@@ -110,7 +116,11 @@ function shuffleArray(arr, persist = true) {
   return arr;
 }
 
-async function fetchAudio({text, customFileName = undefined, lang = "fr-FR"}) {
+async function fetchAudio({
+  text,
+  customFileName = undefined,
+  lang = "fr-FR",
+}) {
   const url = customFileName
     ? getAnkiPrefix() + "/" + customFileName
     : await getTTSUrl(text, false, lang);
@@ -119,8 +129,8 @@ async function fetchAudio({text, customFileName = undefined, lang = "fr-FR"}) {
   audioCurrent.src = url;
 }
 
-async function playAudio({text, customFileName = undefined, lang = "fr-FR"}) {
-  await fetchAudio({text, customFileName, lang});
+async function playAudio({ text, customFileName = undefined, lang = "fr-FR" }) {
+  await fetchAudio({ text, customFileName, lang });
   const audioCurrent = document.querySelector("audio");
 
   try {
@@ -145,14 +155,51 @@ function preprocessTextToRead(sentence) {
 
 const memoizedTTSUrls = {};
 
-const voices = ["Zephyr", "Puck", "Charon", "Kore", "Fenrir", "Leda", "Orus", "Aoede", "Callirhoe", "Autonoe", "Enceladus", "Iapetus", "Umbriel", "Algieba", "Despina", "Erinome", "Algenib", "Rasalgethi", "Laomedeia", "Achernar", "Alnilam", "Schedar", "Gacrux", "Pulcherrima", "Achird", "Zubenelgenubi", "Vindemiatrix", "Sadachbia", "Sadaltager", "Sulafar"];
+const voices = [
+  "Zephyr",
+  "Puck",
+  "Charon",
+  "Kore",
+  "Fenrir",
+  "Leda",
+  "Orus",
+  "Aoede",
+  "Callirhoe",
+  "Autonoe",
+  "Enceladus",
+  "Iapetus",
+  "Umbriel",
+  "Algieba",
+  "Despina",
+  "Erinome",
+  "Algenib",
+  "Rasalgethi",
+  "Laomedeia",
+  "Achernar",
+  "Alnilam",
+  "Schedar",
+  "Gacrux",
+  "Pulcherrima",
+  "Achird",
+  "Zubenelgenubi",
+  "Vindemiatrix",
+  "Sadachbia",
+  "Sadaltager",
+  "Sulafar",
+];
 
-async function getTTSUrl(encodedText, forceGoogleTranslate = false, lang = "fr-FR") {
+async function getTTSUrl(
+  encodedText,
+  forceGoogleTranslate = false,
+  lang = "fr-FR"
+) {
   const textInput = preprocessTextToRead(decodeURIComponent(encodedText));
-  
+
   // if no API key is set, fallback to use the free Google Translate TTS
   if (!options.googleTTSApiKey || forceGoogleTranslate) {
-    return `https://translate.google.com/translate_tts?ie=UTF-8&q=${encodeURIComponent(textInput)}&tl=${lang}&client=tw-ob`;
+    return `https://translate.google.com/translate_tts?ie=UTF-8&q=${encodeURIComponent(
+      textInput
+    )}&tl=${lang}&client=tw-ob`;
   }
 
   if (memoizedTTSUrls && memoizedTTSUrls[textInput]) {
@@ -164,12 +211,15 @@ async function getTTSUrl(encodedText, forceGoogleTranslate = false, lang = "fr-F
   try {
     let voice = {
       languageCode: "fr-FR",
-      name: "fr-FR-Chirp3-HD-" + voices[Math.floor(Math.random() * voices.length)],
+      name:
+        "fr-FR-Chirp3-HD-" + voices[Math.floor(Math.random() * voices.length)],
     };
     if (lang === "de-DE") {
       voice = {
         languageCode: "de-DE",
-        name: "de-DE-Chirp3-HD-" + voices[Math.floor(Math.random() * voices.length)],
+        name:
+          "de-DE-Chirp3-HD-" +
+          voices[Math.floor(Math.random() * voices.length)],
       };
     }
 

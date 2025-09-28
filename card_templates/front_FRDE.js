@@ -32,7 +32,7 @@ function render() {
   if (fr.includes("word-highlight")) {
     word.classList.add("small");
     word.parentNode.appendChild(word);
-    word.innerHTML = word.innerHTML.replace("<br>", "; ");
+    word.innerHTML = word.innerHTML.replaceAll("<br>", "; ");
   }
 }
 
