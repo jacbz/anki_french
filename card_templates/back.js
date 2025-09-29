@@ -688,109 +688,78 @@ function filter(expandSections = false) {
     str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
   const normalizedSearchTerm = normalizeText(searchTerm);
 
-  // Store sections that were previously hidden but are becoming visible
-  const sectionsBecomingVisible = [];
-
+  // Set initial visibility on all sections based on filters ---
   grammarLibrary.querySelectorAll(".section").forEach((section) => {
-    const wasHidden = section.style.display === "none";
     const titleElement = section.querySelector(".section-title[data-topic]");
     let shouldShow = true;
 
-    // CEFR level filtering
     if (titleElement) {
-      const sectionTopic = titleElement.dataset.topic;
-      const topicLevels = sectionTopic.split("/").map((level) => level.trim());
-
+      const topicLevels = titleElement.dataset.topic
+        .split("/")
+        .map((l) => l.trim());
       shouldShow =
         // if every level is selected, show all
         selectedLevels.length === cefrLevels.length ||
         // if no level is selected, show only sections without level
         (selectedLevels.length === 0 &&
-          topicLevels.every((level) => !cefrLevels.includes(level))) ||
+          topicLevels.every((l) => !cefrLevels.includes(l))) ||
         // if there is a filter, show only matching levels
-        topicLevels.some((level) => selectedLevels.includes(level));
-    } else {
-      // sections without data-topic should always be shown by CEFR filter
-      shouldShow = true;
+        topicLevels.some((l) => selectedLevels.includes(l));
     }
 
-    // Search filtering
     if (shouldShow && searchTerm) {
       const sectionTitle = section.querySelector(".section-title");
       if (sectionTitle) {
         const titleText = sectionTitle.textContent.toLowerCase();
-        const normalizedTitleText = normalizeText(titleText);
-        shouldShow = normalizedTitleText.includes(normalizedSearchTerm);
+        shouldShow = normalizeText(titleText).includes(normalizedSearchTerm);
       } else {
         shouldShow = false;
       }
     }
-
-    // Track sections becoming visible that might need expansion state reset
-    if (wasHidden && shouldShow) {
-      sectionsBecomingVisible.push(section);
-    }
-
     section.style.display = shouldShow ? "" : "none";
   });
 
+  // Hide any parent sections that now have no visible children ---
   grammarLibrary
     .querySelectorAll("#grammar-sections > .section")
     .forEach((section) => {
-      const wasHidden = section.style.display === "none";
-      // if all children are hidden, hide the parent section as well
-      const visibleChildren = Array.from(
-        section.querySelectorAll(".section")
-      ).filter((child) => child.style.display !== "none");
-      const shouldShowParent = visibleChildren.length > 0;
-
-      // Track parent sections becoming visible
-      if (wasHidden && shouldShowParent) {
-        sectionsBecomingVisible.push(section);
+      const visibleChildren = section.querySelectorAll(
+        ".section[style*='display: initial'], .section:not([style])"
+      );
+      if (visibleChildren.length === 0) {
+        section.style.display = "none";
       }
-
-      section.style.display = shouldShowParent ? "" : "none";
     });
 
-  // Fix expansion state for sections that were hidden and are now becoming visible
-  sectionsBecomingVisible.forEach((section) => {
-    const content = section.querySelector(".section-content");
-    if (content && section.classList.contains("expanded")) {
-      // Section is marked as expanded but might have corrupted maxHeight due to being hidden
-      // Reset the maxHeight to ensure proper display
-      content.style.maxHeight = content.scrollHeight + "px";
-
-      // Also fix any nested ancestor maxHeights
-      let ancestor = section.parentElement;
-      while (ancestor) {
-        if (ancestor.classList.contains("section-content")) {
-          ancestor.style.maxHeight = "unset";
-        }
-        ancestor = ancestor.parentElement;
+  // Adjust height for sections that were already expanded
+  grammarLibrary.querySelectorAll(".section.expanded").forEach((section) => {
+    if (section.style.display !== "none") {
+      const content = section.querySelector(".section-content");
+      if (content) {
+        content.style.maxHeight = content.scrollHeight + "px";
       }
     }
   });
 
+  // Animate the expansion of newly revealed sections ---
   if (expandSections) {
     grammarLibrary
       .querySelectorAll("#grammar-sections > .section:not(.expanded)")
       .forEach((section) => {
-        toggleSection(section);
+        if (section.style.display !== "none") {
+          toggleSection(section, true);
+        }
       });
   }
 
-  // Show/hide "no results" message
+  // Update the "no results" message ---
   const noResultsElement = document.getElementById("grammar-no-results");
-  const visibleSectionsCount = Array.from(
-    grammarLibrary.querySelectorAll("#grammar-sections > .section")
-  ).filter((section) => section.style.display !== "none").length;
-
+  const visibleTopLevelCount = grammarLibrary.querySelectorAll(
+    "#grammar-sections > .section:not([style*='display: none'])"
+  ).length;
   if (noResultsElement) {
-    if (searchTerm && visibleSectionsCount === 0) {
-      noResultsElement.style.display = "block";
-    } else {
-      noResultsElement.style.display = "none";
-    }
+    noResultsElement.style.display =
+      searchTerm && visibleTopLevelCount === 0 ? "block" : "none";
   }
 }
 
@@ -901,19 +870,16 @@ function toggleSection(section, forceExpand = false) {
     return;
   }
 
-  const isCollapsing = section.classList.contains("expanded") && !forceExpand;
+  const isExpanding = forceExpand || !section.classList.contains("expanded");
+  const isCollapsing = !isExpanding;
 
+  // This function contains the logic that changes the class and style to trigger the animation.
   const performToggleAnimation = () => {
-    section.classList.toggle(
-      "expanded",
-      forceExpand || !section.classList.contains("expanded")
-    );
-
-    if (content.style.maxHeight && !forceExpand) {
-      content.style.maxHeight = null;
-    } else {
+    if (isExpanding) {
+      section.classList.add("expanded");
       content.style.maxHeight = content.scrollHeight + "px";
 
+      // Allow parent containers to grow
       let ancestor = section.parentElement;
       while (ancestor) {
         if (ancestor.classList.contains("section-content")) {
@@ -921,6 +887,10 @@ function toggleSection(section, forceExpand = false) {
         }
         ancestor = ancestor.parentElement;
       }
+    } else {
+      // Collapsing
+      section.classList.remove("expanded");
+      content.style.maxHeight = null;
     }
   };
 
