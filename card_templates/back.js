@@ -16,51 +16,54 @@ function longestCommonPrefix(a, b) {
 
 const feminineHeight = 0.65;
 if (feminine) {
-  const feminineWords = feminine.split(',').map(f => f.trim()).filter(f => f.length > 0);
-  
+  const feminineWords = feminine
+    .split(",")
+    .map((f) => f.trim())
+    .filter((f) => f.length > 0);
+
   let commonStem = word;
   for (const feminineWord of feminineWords) {
     commonStem = longestCommonPrefix(commonStem, feminineWord);
   }
-  
-  const wordSpan = document.createElement('span');
-  wordSpan.className = 'word_span';
+
+  const wordSpan = document.createElement("span");
+  wordSpan.className = "word_span";
   wordSpan.textContent = word;
 
   // only one feminine and word is fully contained within it => simply attach to lemma
   if (feminineWords.length === 1 && commonStem === word) {
-    const feminineSpan = document.createElement('span');
-    feminineSpan.className = 'feminine';
+    const feminineSpan = document.createElement("span");
+    feminineSpan.className = "feminine";
     feminineSpan.textContent = feminineWords[0];
-    
+
     wordSpan.appendChild(feminineSpan);
   } else {
     const marginBottom = feminineWords.length * feminineHeight;
     wordWithArticle.style.marginBottom = `${marginBottom}em`;
-    
+
     feminineWords.forEach((feminineWord, index) => {
-      const feminineSpan = document.createElement('span');
-      feminineSpan.className = 'feminine';
-      
-      const topPosition = 0.7 + (index * feminineHeight);
+      const feminineSpan = document.createElement("span");
+      feminineSpan.className = "feminine";
+
+      const topPosition = 0.7 + index * feminineHeight;
       feminineSpan.style.top = `${topPosition}em`;
-      
-      const stemSpan = document.createElement('span');
-      stemSpan.className = 'stem';
+
+      const stemSpan = document.createElement("span");
+      stemSpan.className = "stem";
       stemSpan.dataset.before = commonStem;
       stemSpan.dataset.after = feminineWord.slice(commonStem.length);
       stemSpan.textContent = commonStem.length > 0 ? commonStem : "​";
-      
+
       feminineSpan.appendChild(stemSpan);
-      
+
       wordSpan.appendChild(feminineSpan);
     });
   }
-  
+
   const textContent = wordWithArticle.textContent;
   const parts = textContent.split(word);
-  
-  wordWithArticle.innerHTML = '';
+
+  wordWithArticle.innerHTML = "";
   if (parts[0]) {
     wordWithArticle.appendChild(document.createTextNode(parts[0]));
   }
@@ -898,24 +901,54 @@ function toggleSection(section, forceExpand = false) {
     return;
   }
 
-  section.classList.toggle(
-    "expanded",
-    forceExpand || !section.classList.contains("expanded")
-  );
+  const isCollapsing = section.classList.contains("expanded") && !forceExpand;
 
-  if (content.style.maxHeight && !forceExpand) {
-    content.style.maxHeight = null;
-  } else {
-    content.style.maxHeight = content.scrollHeight + "px";
+  const performToggleAnimation = () => {
+    section.classList.toggle(
+      "expanded",
+      forceExpand || !section.classList.contains("expanded")
+    );
 
-    let ancestor = section.parentElement;
-    while (ancestor) {
-      if (ancestor.classList.contains("section-content")) {
-        ancestor.style.maxHeight = "unset";
+    if (content.style.maxHeight && !forceExpand) {
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+
+      let ancestor = section.parentElement;
+      while (ancestor) {
+        if (ancestor.classList.contains("section-content")) {
+          ancestor.style.maxHeight = "unset";
+        }
+        ancestor = ancestor.parentElement;
       }
-      ancestor = ancestor.parentElement;
+    }
+  };
+
+  if (isCollapsing) {
+    const title = section.querySelector(".section-title");
+    if (title) {
+      const titleRect = title.getBoundingClientRect();
+      const sectionRect = section.getBoundingClientRect();
+      const isStickyActive = sectionRect.top < titleRect.top - 1;
+
+      if (isStickyActive) {
+        // Perform the scroll immediately to prevent visual jump.
+        const sectionAbsoluteTop = window.scrollY + sectionRect.top;
+        const targetScrollY = sectionAbsoluteTop - titleRect.top;
+        const newScrollPosition = Math.max(0, targetScrollY);
+        window.scrollTo(0, newScrollPosition);
+
+        // Defer the animation logic to the next event loop tick.
+        // This prevents the mobile browser from cancelling it.
+        setTimeout(performToggleAnimation, 0);
+        return; // Exit early as the deferred function will handle the rest.
+      }
     }
   }
+
+  // For all other cases (expanding, or collapsing a non-sticky section),
+  // run the animation logic immediately.
+  performToggleAnimation();
 }
 
 // Returns the parent .sections of the given element, from outermost to innermost, including the element itself if it is a .section
@@ -934,7 +967,10 @@ function getParentSections(el) {
 function initGrammarLinks(within = document) {
   within.querySelectorAll("a[grammar]").forEach(function (el) {
     const grammarId = el.getAttribute("grammar");
-    if (!grammarId || (!grammar.content[grammarId] && !grammar.index[grammarId])) {
+    if (
+      !grammarId ||
+      (!grammar.content[grammarId] && !grammar.index[grammarId])
+    ) {
       console.log(grammarId, grammar.content, grammar.index);
       el.classList.add("red-link");
       return;

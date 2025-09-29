@@ -2,10 +2,12 @@ $highlight-color: hsl(192, 70%, 40%);
 $attention-color: hsl(43, 100%, 38%);
 $tip-color: hsl(119, 19%, 43%);
 $celebration-color: hsl(320, 65%, 55%);
-$section-title-background: hsla(201, 100%, 14%, 0.15);
-$section-within-section-title-background: hsla(201, 100%, 14%, 0.07);
+$section-title-background: mix(hsl(201, 100%, 14%), white, 15%);
+$section-within-section-title-background: mix(hsl(201, 100%, 14%), white, 7%);
+$h3-title-background: mix(hsl(201, 100%, 14%), white, 3%);
 
 :root {
+  --hover-brightness: 1.04;
   --secondary-text: #333;
   --highlight-color: #{$highlight-color};
   --attention-color: #{$attention-color};
@@ -13,9 +15,13 @@ $section-within-section-title-background: hsla(201, 100%, 14%, 0.07);
   --celebration-color: #{$celebration-color};
   --section-title-background: #{$section-title-background};
   --section-within-section-title-background: #{$section-within-section-title-background};
+  --h3-title-background: #{$h3-title-background};
+  --section-height: 2.1rem;
+  --subsection-height: 1.9rem;
 }
 
 .night_mode {
+  --hover-brightness: 1.2;
   --secondary-text: #ddd;
   --highlight-color: #{adjust-color($highlight-color, $lightness: 8%)};
   --attention-color: #{adjust-color($attention-color, $lightness: 5%)};
@@ -23,6 +29,7 @@ $section-within-section-title-background: hsla(201, 100%, 14%, 0.07);
   --celebration-color: #{adjust-color($celebration-color, $lightness: 10%)};
   --section-title-background: hsl(201, 100%, 18%);
   --section-within-section-title-background: hsl(201, 100%, 13%);
+  --h3-title-background: hsl(201, 100%, 8%);
 }
 
 /**
@@ -75,6 +82,18 @@ $section-within-section-title-background: hsla(201, 100%, 14%, 0.07);
 @font-face {
   font-family: NotoSans;
   src: url("_NotoSans-Light.ttf");
+}
+
+@mixin hover {
+  &:active {
+    filter: brightness(var(--hover-brightness));
+  }
+  
+  @media (hover: hover) and (pointer: fine) {
+    &:hover {
+      filter: brightness(var(--hover-brightness));
+    }
+  }
 }
 
 /**
@@ -379,7 +398,9 @@ span.no-break {
 }
 
 .spoiler {
-  transition: color 0.2s, background-color 0.2s;
+  @include hover;
+
+  transition: 0.2s;
   -webkit-tap-highlight-color: transparent;
   cursor: pointer;
   border-radius: 0.2em;
@@ -391,7 +412,7 @@ span.no-break {
     background: #e3e3e3;
     > * {
       opacity: 0;
-      transition: all 0.2s;
+      transition: 0.2s;
     }
   }
 }
@@ -489,7 +510,7 @@ hr {
   background: #f5f5f5;
   padding: 1em;
   border-radius: 0.5em;
-  transition: background-color 0.2s, color 0.2s, padding 0.2s;
+  transition: 0.2s;
   overflow: hidden;
   position: relative;
 
@@ -514,7 +535,7 @@ hr {
     backdrop-filter: blur(5px);
     -webkit-backdrop-filter: blur(5px);
     z-index: 500;
-    transition: opacity 0.2s, background-color 0.2s;
+    transition: 0.2s;
     font-size: 75%;
     color: var(--secondary-text);
     cursor: pointer;
@@ -530,7 +551,7 @@ hr {
       display: flex;
       justify-content: center;
       align-items: center;
-      transition: background-color 0.2s;
+      transition: 0.2s;
       width: 100%;
 
       .overlay-icon {
@@ -573,7 +594,7 @@ hr {
 
   .cloze {
     display: inline-block;
-    transition: background-color 0.2s, color 0.2s;
+    transition: 0.2s;
   }
 
   .spoiler {
@@ -768,9 +789,11 @@ u {
     }
   }
 
-  h3:not(:first-child) {
-    margin: 0;
-    margin-top: 0.75em;
+  h3 {
+    &:not(:first-child) {
+      margin: 0;
+      margin-top: 0.75em;
+    }
   }
 
   h4 {
@@ -783,8 +806,16 @@ u {
 
     .section {
       .section-title {
+        top: var(--section-height);
         font-size: 100%;
         background: var(--section-within-section-title-background);
+        height: var(--subsection-height);
+        line-height: var(--subsection-height);
+        z-index: 998;
+      }
+
+      .section-content h3 {
+        top: calc(var(--section-height) + var(--subsection-height));
       }
     }
 
@@ -796,6 +827,7 @@ u {
       > .section-content {
         margin-top: 0.5em;
         margin-bottom: 0.5em;
+        overflow: visible;
       }
 
       &:has(.section) > .section-content {
@@ -805,13 +837,23 @@ u {
   }
 
   .section-title {
+    @include hover;
+
+    position: sticky;
+    z-index: 999;
+    top: 0;
     font-weight: bold;
     font-size: 120%;
     background: var(--section-title-background);
     margin: 0 -10px;
-    padding: 0.2em 10px;
+    padding: 0 2em;
     cursor: pointer;
-    transition: opacity 0.2s;
+    transition: 0.2s;
+    text-align: center;
+    height: var(--section-height);
+    line-height: var(--section-height);
+    box-sizing: border-box;
+    white-space: nowrap;
 
     &::before {
       display: none;
@@ -819,11 +861,14 @@ u {
       font-size: 70%;
       border-radius: 0.5em;
       padding: 0 0.35em;
-      margin-right: 0.5em;
       border-width: 1px;
       border-color: var(--secondary-text);
       border-style: solid;
-      vertical-align: middle;
+      position: absolute;
+      left: 0.5em;
+      top: 50%;
+      transform: translateY(-50%);
+      line-height: 1.2em;
     }
 
     &[data-topic] {
@@ -833,14 +878,11 @@ u {
       }
     }
 
-    &:active {
-      opacity: 0.7;
-    }
     &:after {
       content: "\002B";
       font-weight: bold;
-      float: right;
-      margin-left: 5px;
+      position: absolute;
+      right: 0.5em;
     }
   }
 
@@ -852,12 +894,15 @@ u {
     transition: max-height 0.2s ease-out, margin 0.2s ease-out;
     display: grid;
     gap: 0.5em;
-  }
-}
 
-@media (hover: hover) and (pointer: fine) {
-  .card-box .section-title:hover {
-    opacity: 0.7;
+    h3 {
+      position: sticky;
+      top: var(--section-height);
+      z-index: 997;
+      background: var(--h3-title-background);
+      margin: 0 -10px;
+      padding: 0.15em 10px;
+    }
   }
 }
 
@@ -1083,7 +1128,7 @@ small {
   tr {
     line-height: 135%;
     cursor: pointer;
-    transition: background-color 0.2s;
+    transition: 0.2s;
 
     &:active {
       background: rgba(200, 200, 200, 0.5);
