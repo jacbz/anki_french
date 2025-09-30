@@ -719,16 +719,14 @@ function filter(expandSections = false) {
     section.style.display = shouldShow ? "" : "none";
   });
 
-  // Hide any parent sections that now have no visible children ---
+  // Hide any parent sections that now have no visible children
   grammarLibrary
     .querySelectorAll("#grammar-sections > .section")
     .forEach((section) => {
-      const visibleChildren = section.querySelectorAll(
-        ".section[style*='display: initial'], .section:not([style])"
+      const hasVisibleChildren = Array.from(section.querySelectorAll(".section")).some(
+        (child) => child.style.display !== 'none'
       );
-      if (visibleChildren.length === 0) {
-        section.style.display = "none";
-      }
+      section.style.display = hasVisibleChildren ? "" : "none";
     });
 
   // Adjust height for sections that were already expanded

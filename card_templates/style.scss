@@ -29,7 +29,7 @@ $h3-title-background: mix(hsl(201, 100%, 14%), white, 3%);
   --celebration-color: #{adjust-color($celebration-color, $lightness: 10%)};
   --section-title-background: hsl(201, 100%, 18%);
   --section-within-section-title-background: hsl(201, 100%, 13%);
-  --h3-title-background: hsl(201, 100%, 8%);
+  --h3-title-background: #17272F;
 }
 
 /**
@@ -454,7 +454,8 @@ span.spoiler {
 
 a {
   text-decoration: none;
-  color: #3056a9;
+  // AnkiWeb overrides this, so we need !important
+  color: #3056a9 !important;
   cursor: pointer;
 
   &[grammar]::after {
@@ -463,15 +464,15 @@ a {
   }
 
   &.red-link {
-    color: #bf3c2c;
+    color: #bf3c2c !important;
   }
 }
 
 .night_mode a {
-  color: #88a3e8;
+  color: #88a3e8 !important;
 
   &.red-link {
-    color: #fd7865;
+    color: #fd7865 !important;
   }
 }
 
@@ -648,8 +649,20 @@ hr {
   text-align: left;
 }
 
-.note > *:not(.section-title) + *:not(.section-title) {
-  margin-top: 0.5em;
+.note {
+  overflow: hidden;
+
+  &:has(> .section:first-child) {
+    padding-top: 0;
+  }
+
+  &:has(> .section:last-child) {
+    padding-bottom: 0;
+  }
+
+  > *:not(.section-title) + *:not(.section-title) {
+    margin-top: 0.5em;
+  }
 }
 
 .card-box:not(:last-of-type) {
@@ -821,7 +834,7 @@ u {
 
     &.expanded {
       > .section-title:after {
-        content: "\2212";
+        transform: scaleY(-1) translateY(-11%);
       }
 
       > .section-content {
@@ -879,10 +892,12 @@ u {
     }
 
     &:after {
-      content: "\002B";
-      font-weight: bold;
+      content: "⌄";
       position: absolute;
       right: 0.5em;
+      transition: 0.2s;
+      opacity: 0.8;
+      transform: translateY(-12%);
     }
   }
 
@@ -900,8 +915,10 @@ u {
       top: var(--section-height);
       z-index: 997;
       background: var(--h3-title-background);
-      margin: 0 -10px;
+      margin: 0.1em -10px;
       padding: 0.15em 10px;
+      font-size: 1.1em;
+      font-weight: normal;
     }
   }
 }
@@ -1099,9 +1116,15 @@ sub {
   vertical-align: bottom;
 }
 
+.condensed {
+  font-family: "NittiGroteskCondensed";
+}
+
 small {
   font-family: "NittiGroteskCondensed";
   opacity: 0.8;
+  display: inline-block;
+  line-height: 1em;
 }
 
 /**
