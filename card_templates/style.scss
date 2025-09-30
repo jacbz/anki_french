@@ -1,5 +1,7 @@
 @import "icons";
 
+$base-font-size: 19px;
+
 $highlight-color: hsl(192, 70%, 40%);
 $attention-color: hsl(43, 100%, 38%);
 $tip-color: hsl(119, 19%, 43%);
@@ -18,8 +20,8 @@ $h3-title-background: mix(hsl(201, 100%, 14%), white, 3%);
   --section-title-background: #{$section-title-background};
   --section-within-section-title-background: #{$section-within-section-title-background};
   --h3-title-background: #{$h3-title-background};
-  --section-height: 2.1rem;
-  --subsection-height: 1.9rem;
+  --section-height: 1.9rem;
+  --subsection-height: 1.75rem;
 }
 
 .night_mode {
@@ -163,9 +165,12 @@ input {
   -----------------------------------------------
 **/
 
+html {
+  font-size: $base-font-size;
+}
+
 .card {
   font-family: "NittiGrotesk";
-  font-size: 38px;
   text-align: center;
   background-color: white;
   width: 96%;
@@ -178,7 +183,6 @@ input {
 
 .rank {
   position: absolute;
-  font-size: 50%;
   right: 0.5em;
   top: 0.5em;
 
@@ -213,6 +217,7 @@ input {
 }
 
 .word {
+  font-size: 2rem;
   font-weight: bold;
 }
 
@@ -265,7 +270,7 @@ input {
 }
 
 #ipa {
-  font-size: 60%;
+  font-size: 1.2rem;
   line-height: 1.3em;
 }
 
@@ -280,6 +285,7 @@ input {
 }
 
 .pos-definition {
+  font-size: 2rem;
 }
 
 .pos {
@@ -306,7 +312,7 @@ input {
 }
 
 .word.small, .definition.small {
-  font-size: 45%;
+  font-size: 0.9rem;
   font-weight: normal;
   opacity: 75%;
 
@@ -356,7 +362,7 @@ span.no-break {
 }
 
 .register {
-  font-size: 40%;
+  font-size: 0.8rem;
   background: #eee;
   padding: 0.3em;
   border-radius: 0.8em;
@@ -452,7 +458,7 @@ a {
 }
 
 .github {
-  font-size: 12px;
+  font-size: 0.65rem;
   text-align: center;
 
   a::before {
@@ -471,7 +477,7 @@ a {
 }
 
 .version {
-  font-size: 12px;
+  font-size: 0.65rem;
 }
 
 hr {
@@ -512,7 +518,7 @@ hr {
     -webkit-backdrop-filter: blur(5px);
     z-index: 500;
     transition: 0.2s;
-    font-size: 75%;
+    font-size: 1.5rem;
     color: var(--secondary-text);
     cursor: pointer;
     user-select: none;
@@ -617,7 +623,7 @@ hr {
 .card-box {
   margin-top: 1.5em;
   position: relative;
-  font-size: 40%;
+  font-size: 0.8rem;
   border: 1px solid gray;
   border-radius: 14px;
   padding: 10px;
@@ -672,6 +678,7 @@ hr {
   border-width: 3px;
   padding: 12px;
   font-size: 50%;
+  font-size: 1rem;
   margin-top: 2.5em;
 
   #cloze-game {
@@ -688,7 +695,7 @@ hr {
   margin-top: 2.25em;
   margin-bottom: 1.25em;
   padding: 0.25em;
-  font-size: 55%;
+  font-size: 1.1rem;
 
   .fr {
     font-weight: normal;
@@ -1311,6 +1318,12 @@ tr[data-tense="PC"] .tense_stem {
   margin-right: auto;
   box-sizing: border-box;
   width: 100%;
+
+  #close-grammar-library {
+    transform: none;
+    top: 0.25rem;
+    right: 0.25rem;
+  }
 
   #show-hide-grammar-library {
     display: none;
