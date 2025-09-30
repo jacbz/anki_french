@@ -841,6 +841,7 @@ function loadGrammarSection(section) {
   }
   return section;
 }
+
 function enableSectionToggle(within = document) {
   const sections = within.classList?.contains("section")
     ? [within]
@@ -861,9 +862,89 @@ function enableSectionToggle(within = document) {
     };
   });
 }
+
 enableSectionToggle();
 
-function toggleSection(section, forceExpand = false) {
+function removeSectionButtons(section) {
+  const container = section.querySelector(".section-buttons-container");
+  if (container) {
+    container.remove();
+  }
+}
+
+function updateSectionButtons(section) {
+  const content = section.querySelector(".section-content");
+  if (!content) return;
+
+  removeSectionButtons(section);
+
+  const buttons = [];
+
+  // 1. "Return button"
+  if (section._returnLink) {
+    const button = document.createElement("div");
+    button.className = "section-button button";
+    button.dataset.buttonType = "return";
+
+    const iconSpan = document.createElement("span");
+    iconSpan.className = "section-button-icon";
+    button.appendChild(iconSpan);
+    button.appendChild(document.createTextNode("Zurück"));
+
+    button.onclick = (e) => {
+      e.stopPropagation();
+      toggleSection(section, false, true);
+      const link = section._returnLink;
+      link.scrollIntoView({
+        behavior: "smooth",
+        block: "center",
+      });
+      link.classList.add("flash-highlight");
+      link.addEventListener(
+        "animationend",
+        () => {
+          link.classList.remove("flash-highlight");
+        },
+        { once: true }
+      );
+    };
+    buttons.push(button);
+  }
+
+  // 2. "Go to marked lemma" button
+  const marklemma = content.querySelector(".marklemma");
+  if (marklemma) {
+    const rect = marklemma.getBoundingClientRect();
+    const isOutOfView =
+      rect.top < content.getBoundingClientRect().top || rect.bottom > window.innerHeight;
+
+    if (isOutOfView) {
+      const button = document.createElement("div");
+      button.className = "section-button button";
+      button.dataset.buttonType = "lemma";
+
+      const iconSpan = document.createElement("span");
+      iconSpan.className = "section-button-icon";
+      button.appendChild(iconSpan);
+      button.appendChild(document.createTextNode(marklemma.dataset.lemma || marklemma.textContent.trim()));
+
+      button.onclick = (e) => {
+        e.stopPropagation();
+        marklemma.scrollIntoView({ behavior: "smooth", block: "center" });
+      };
+      buttons.push(button);
+    }
+  }
+
+  if (buttons.length > 0) {
+    const container = document.createElement("div");
+    container.className = "section-buttons-container";
+    buttons.forEach((btn) => container.appendChild(btn));
+    content.insertBefore(container, content.firstChild);
+  }
+}
+
+function toggleSection(section, forceExpand = false, disableScroll = false) {
   const content = section.querySelector(".section-content");
   if (!content) {
     console.error("Section has no content to expand:", section);
@@ -877,18 +958,18 @@ function toggleSection(section, forceExpand = false) {
   const performToggleAnimation = () => {
     if (isExpanding) {
       section.classList.add("expanded");
+      updateSectionButtons(section);
       content.style.maxHeight = content.scrollHeight + "px";
 
       // Allow parent containers to grow
       let ancestor = section.parentElement;
-      while (ancestor) {
-        if (ancestor.classList.contains("section-content")) {
-          ancestor.style.maxHeight = "unset";
-        }
+      while (ancestor && ancestor.classList.contains("section-content")) {
+        ancestor.style.maxHeight = "unset";
         ancestor = ancestor.parentElement;
       }
     } else {
       // Collapsing
+      removeSectionButtons(section);
       section.classList.remove("expanded");
       content.style.maxHeight = null;
     }
@@ -906,12 +987,13 @@ function toggleSection(section, forceExpand = false) {
         const sectionAbsoluteTop = window.scrollY + sectionRect.top;
         const targetScrollY = sectionAbsoluteTop - titleRect.top;
         const newScrollPosition = Math.max(0, targetScrollY);
-        window.scrollTo(0, newScrollPosition);
+        if (!disableScroll) {
+          window.scrollTo(0, newScrollPosition);
+        }
 
         // Defer the animation logic to the next event loop tick.
-        // This prevents the mobile browser from cancelling it.
         setTimeout(performToggleAnimation, 0);
-        return; // Exit early as the deferred function will handle the rest.
+        return;
       }
     }
   }
@@ -946,6 +1028,7 @@ function initGrammarLinks(within = document) {
     el.title = grammarId;
 
     el.onclick = function (e) {
+      e.preventDefault();
       if (grammarLibrary.classList.contains("collapsed")) {
         showGrammarLibrary();
       }
@@ -957,8 +1040,13 @@ function initGrammarLinks(within = document) {
         for (const ancestorSection of getParentSections(section)) {
           if (!ancestorSection.classList.contains("expanded")) {
             section = loadGrammarSection(ancestorSection);
-            toggleSection(section, true);
+            toggleSection(section, true, false);
           }
+        }
+        
+        section._returnLink = el;
+        if (section.classList.contains("expanded")) {
+          updateSectionButtons(section);
         }
 
         window.scrollTo({
@@ -966,7 +1054,6 @@ function initGrammarLinks(within = document) {
           behavior: "smooth",
         });
       }
-      e.preventDefault();
     };
   });
 }

@@ -5,7 +5,6 @@ $celebration-color: hsl(320, 65%, 55%);
 $section-title-background: mix(hsl(201, 100%, 14%), white, 15%);
 $section-within-section-title-background: mix(hsl(201, 100%, 14%), white, 7%);
 $h3-title-background: mix(hsl(201, 100%, 14%), white, 3%);
-
 :root {
   --hover-brightness: 1.04;
   --secondary-text: #333;
@@ -13,6 +12,7 @@ $h3-title-background: mix(hsl(201, 100%, 14%), white, 3%);
   --attention-color: #{$attention-color};
   --tip-color: #{$tip-color};
   --celebration-color: #{$celebration-color};
+  --grammar-link-color: #3056a9;
   --section-title-background: #{$section-title-background};
   --section-within-section-title-background: #{$section-within-section-title-background};
   --h3-title-background: #{$h3-title-background};
@@ -27,6 +27,7 @@ $h3-title-background: mix(hsl(201, 100%, 14%), white, 3%);
   --attention-color: #{adjust-color($attention-color, $lightness: 5%)};
   --tip-color: #{adjust-color($tip-color, $lightness: 5%)};
   --celebration-color: #{adjust-color($celebration-color, $lightness: 10%)};
+  --grammar-link-color: #88a3e8 !important;
   --section-title-background: hsl(201, 100%, 18%);
   --section-within-section-title-background: hsl(201, 100%, 13%);
   --h3-title-background: #17272F;
@@ -110,7 +111,7 @@ $h3-title-background: mix(hsl(201, 100%, 14%), white, 3%);
   justify-content: center;
   align-items: center;
   cursor: pointer;
-  transition: opacity 0.2s;
+  transition: 0.2s;
   position: relative;
   user-select: none;
   -webkit-user-select: none;
@@ -476,7 +477,7 @@ span.spoiler {
 a {
   text-decoration: none;
   // AnkiWeb overrides this, so we need !important
-  color: #3056a9 !important;
+  color: var(--grammar-link-color) !important;
   cursor: pointer;
 
   &[grammar]::after {
@@ -490,8 +491,6 @@ a {
 }
 
 .night_mode a {
-  color: #88a3e8 !important;
-
   &.red-link {
     color: #fd7865 !important;
   }
@@ -958,6 +957,79 @@ u {
       font-size: 1.1em;
       font-weight: normal;
     }
+  }
+}
+
+.section-buttons-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  justify-content: center;
+}
+
+.section-button {
+  gap: 0.4em;
+  padding: 0.2em 0.8em;
+  border-radius: 9999px;
+  font-weight: bold;
+
+  .section-button-icon {
+    display: block;
+    width: 1.1em;
+    height: 1.1em;
+    background-color: currentColor;
+    mask-size: contain;
+    mask-repeat: no-repeat;
+    mask-position: center;
+  }
+
+  &[data-button-type="return"] {
+    border: 1px solid var(--grammar-link-color);
+    color: var(--grammar-link-color);
+
+    .section-button-icon {
+      // Return Arrow SVG
+      mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12.5,8C9.85,8 7.45,9 5.6,10.6L2,7V16H11L7.38,12.38C8.77,11.22 10.54,10.5 12.5,10.5C16.04,10.5 19.05,12.81 20.1,16L22.47,15.22C21.08,11.03 17.15,8 12.5,8Z' fill='currentColor'/%3E%3C/svg%3E");
+    }
+
+    &:hover {
+      background-color: var(--grammar-link-color);
+      color: white;
+    }
+  }
+
+  &[data-button-type="lemma"] {
+    border: 1px solid var(--highlight-color);
+    color: var(--highlight-color);
+    
+    .section-button-icon {
+        // Star SVG
+        mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12,17.27L18.18,21L16.54,13.97L22,9.24L14.81,8.62L12,2L9.19,8.62L2,9.24L7.45,13.97L5.82,21L12,17.27Z' fill='currentColor'/%3E%3C/svg%3E");
+    }
+
+    &:hover {
+      background-color: var(--highlight-color);
+      color: white;
+    }
+  }
+}
+
+.flash-highlight {
+  animation: flash 1s ease-out;
+}
+
+@keyframes flash {
+  0% {
+    background-color: transparent;
+  }
+  25% {
+    background-color: var(--grammar-link-color);
+    color: white;
+    border-radius: 4px;
+    outline: 2px solid var(--grammar-link-color);
+  }
+  100% {
+    background-color: transparent;
   }
 }
 
