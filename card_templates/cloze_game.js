@@ -38,7 +38,7 @@ function initClozeGame({
     const clozeOverlay = document.createElement("div");
     clozeOverlay.className = "overlay-button overlay-button-cloze";
     clozeOverlay.innerHTML = `
-      <div class="svg-icon icon-cloze-blocks huge"></div>
+      <div class="svg-icon icon-cloze huge"></div>
     `;
     clozeOverlay.onclick = () => {
       overlay.classList.add("hidden");
@@ -124,7 +124,7 @@ function initClozeGame({
         return;
       }
       hasStarButton = true;
-      wordButton.innerText = "★";
+      wordButton.innerHTML = '<div class="svg-icon icon-star"></div>';
       wordButton.dataset.word = "*";
     } else {
       wordButton.innerText = word;

@@ -620,12 +620,13 @@ const closeLibraryButton = document.getElementById("close-grammar-library");
 let isRendered = false;
 
 function showGrammarLibrary() {
-  grammarLibrary.classList.remove("collapsed");
-
   if (!isRendered) {
+    renderGrammarLibrary();
     isRendered = true;
-    renderGrammaryLibrary();
   }
+  setTimeout(() => {
+    grammarLibrary.classList.remove("collapsed");
+  }, 10);
 }
 
 if (grammar) {
@@ -639,7 +640,7 @@ if (grammar) {
   grammarLibrary.remove();
 }
 
-function renderGrammaryLibrary() {
+function renderGrammarLibrary() {
   for (const [category, subcategories] of Object.entries(grammar.index)) {
     const categorySection = document.createElement("div");
     categorySection.className = "section";
@@ -674,7 +675,6 @@ function renderGrammaryLibrary() {
   initCefrFilter();
   initGrammarSearch();
 }
-
 function filter(expandSections = false) {
   const cefrLevels = ["A1", "A2", "B1", "B2", "C1"];
   const activePills = document.querySelectorAll(".pill.active");

@@ -2377,7 +2377,7 @@
 | 2375 | soupçonner | verdächtigen | 17 | ✓ | [Bearbeiten](cards/2375_soupçonner.yml) |
 | 2376 | merde | Scheiße | 33 |  | [Bearbeiten](cards/2376_merde.yml) |
 | 2377 | entrepreneur | Unternehmer | 18 |  | [Bearbeiten](cards/2377_entrepreneur.yml) |
-| 2378 | exposition | Ausstellung | 42 |  | [Bearbeiten](cards/2378_exposition.yml) |
+| 2378 | exposition | Ausstellung | 37 |  | [Bearbeiten](cards/2378_exposition.yml) |
 | 2379 | marchand | Händler | 51 |  | [Bearbeiten](cards/2379_marchand.yml) |
 | 2380 | cri | Schrei | 39 |  | [Bearbeiten](cards/2380_cri.yml) |
 | 2381 | féminin | weiblich | 33 |  | [Bearbeiten](cards/2381_féminin.yml) |
@@ -2910,7 +2910,7 @@
 | 2908 | chapeau | Hut | 30 | ✓ | [Bearbeiten](cards/2908_chapeau.yml) |
 | 2909 | calmer | beruhigen, lindern | 32 |  | [Bearbeiten](cards/2909_calmer.yml) |
 | 2910 | mythe | Mythos | 22 |  | [Bearbeiten](cards/2910_mythe.yml) |
-| 2911 | alternative | Alternative | 15 |  | [Bearbeiten](cards/2911_alternative.yml) |
+| 2911 | alternative | Alternative | 14 |  | [Bearbeiten](cards/2911_alternative.yml) |
 | 2912 | soulager | erleichtern, lindern | 28 |  | [Bearbeiten](cards/2912_soulager.yml) |
 | 2913 | scrutin | Wahl(-gang), Abstimmung | 19 | ✓ | [Bearbeiten](cards/2913_scrutin.yml) |
 | 2914 | culpabilité | Schuld | 15 |  | [Bearbeiten](cards/2914_culpabilité.yml) |
@@ -3441,7 +3441,7 @@
 | 3439 | gamin | (kleiner) Junge | 21 |  | [Bearbeiten](cards/3439_gamin.yml) |
 | 3440 | induire | verleiten, herbeiführen | 22 |  | [Bearbeiten](cards/3440_induire.yml) |
 | 3441 | temple | Tempel | 18 |  | [Bearbeiten](cards/3441_temple.yml) |
-| 3442 | maîtrise | Beherrschung, Können | 25 |  | [Bearbeiten](cards/3442_maîtrise.yml) |
+| 3442 | maîtrise | Beherrschung, Können | 20 |  | [Bearbeiten](cards/3442_maîtrise.yml) |
 | 3443 | arbitrage | Schiedsverfahren, Schlichtung | 17 |  | [Bearbeiten](cards/3443_arbitrage.yml) |
 | 3444 | boucler | fertigstellen, zumachen | 38 |  | [Bearbeiten](cards/3444_boucler.yml) |
 | 3445 | réparation | Reparatur | 34 |  | [Bearbeiten](cards/3445_réparation.yml) |

@@ -1,6 +1,9 @@
 @import "icons";
 
 $base-font-size: 19px;
+$border-radius: 0.75rem;
+$border-radius-small: 0.5rem;
+$box-padding: 0.5rem;
 
 $highlight-color: hsl(192, 70%, 40%);
 $attention-color: hsl(43, 100%, 38%);
@@ -9,9 +12,12 @@ $celebration-color: hsl(320, 65%, 55%);
 $section-title-background: mix(hsl(201, 100%, 14%), white, 15%);
 $section-within-section-title-background: mix(hsl(201, 100%, 14%), white, 7%);
 $h3-title-background: mix(hsl(201, 100%, 14%), white, 3%);
+
 :root {
   --hover-brightness: 1.04;
+  --accent-text: #{$highlight-color};
   --secondary-text: #333;
+  --box-border-color: gray;
   --highlight-color: #{$highlight-color};
   --attention-color: #{$attention-color};
   --tip-color: #{$tip-color};
@@ -26,6 +32,7 @@ $h3-title-background: mix(hsl(201, 100%, 14%), white, 3%);
 
 .night_mode {
   --hover-brightness: 1.2;
+  --accent-text: #{adjust-color($highlight-color, $lightness: 12%)};
   --secondary-text: #ddd;
   --highlight-color: #{adjust-color($highlight-color, $lightness: 8%)};
   --attention-color: #{adjust-color($attention-color, $lightness: 5%)};
@@ -34,7 +41,7 @@ $h3-title-background: mix(hsl(201, 100%, 14%), white, 3%);
   --grammar-link-color: #88a3e8 !important;
   --section-title-background: hsl(201, 100%, 18%);
   --section-within-section-title-background: hsl(201, 100%, 13%);
-  --h3-title-background: #17272F;
+  --h3-title-background: #17272f;
 }
 
 /**
@@ -124,7 +131,7 @@ $h3-title-background: mix(hsl(201, 100%, 14%), white, 3%);
   &:active {
     filter: brightness(var(--hover-brightness));
   }
-  
+
   @media (hover: hover) and (pointer: fine) {
     &:hover {
       filter: brightness(var(--hover-brightness));
@@ -157,7 +164,7 @@ $h3-title-background: mix(hsl(201, 100%, 14%), white, 3%);
 
 input {
   font-family: "NittiGrotesk";
-  font-size: 1rem;
+  font-size: 0.8rem;
 }
 
 /**
@@ -219,6 +226,9 @@ html {
 .word {
   font-size: 2rem;
   font-weight: bold;
+}
+.word:not(.small) {
+  color: var(--accent-text);
 }
 
 .word_span {
@@ -311,7 +321,8 @@ html {
   font-weight: bold;
 }
 
-.word.small, .definition.small {
+.word.small,
+.definition.small {
   font-size: 0.9rem;
   font-weight: normal;
   opacity: 75%;
@@ -364,8 +375,10 @@ span.no-break {
 .register {
   font-size: 0.8rem;
   background: #eee;
-  padding: 0.3em;
+  padding: 0.1em 0.3em;
   border-radius: 0.8em;
+  margin-top: 0.6rem;
+  display: inline-flex;
 }
 
 .night_mode .register {
@@ -433,7 +446,6 @@ span.spoiler {
     white-space: normal;
   }
 }
-
 
 a {
   text-decoration: none;
@@ -624,10 +636,11 @@ hr {
   margin-top: 1.5em;
   position: relative;
   font-size: 0.8rem;
-  border: 1px solid gray;
-  border-radius: 14px;
-  padding: 10px;
+  border: 0.06rem solid var(--box-border-color);
+  border-radius: $border-radius;
+  padding: $box-padding;
   text-align: left;
+  box-shadow: 0 0.25rem 1rem rgba(0, 0, 0, 0.12);
 }
 
 .note {
@@ -638,15 +651,15 @@ hr {
   &:has(> .section:last-child) {
     padding-bottom: 0;
   }
-  
+
   > .section:first-child > .section-title {
-    border-top-left-radius: 14px;
-    border-top-right-radius: 14px;
+    border-top-left-radius: $border-radius;
+    border-top-right-radius: $border-radius;
   }
 
   > .section:last-child:not(.expanded) > .section-title {
-    border-bottom-left-radius: 14px;
-    border-bottom-right-radius: 14px;
+    border-bottom-left-radius: $border-radius;
+    border-bottom-right-radius: $border-radius;
   }
 
   > *:not(.section-title) + *:not(.section-title) {
@@ -675,11 +688,12 @@ hr {
 }
 
 #sentences {
-  border-width: 3px;
-  padding: 12px;
+  border-width: 0.15rem;
+  padding: 0.65rem;
   font-size: 50%;
   font-size: 1rem;
   margin-top: 2.5em;
+  border-color: var(--accent-text);
 
   #cloze-game {
     background: transparent !important;
@@ -689,6 +703,10 @@ hr {
       padding: 0 !important;
     }
   }
+}
+
+.night_mode #sentences {
+  border-color: var(--box-border-color);
 }
 
 #front-sentence {
@@ -839,7 +857,7 @@ u {
       }
     }
 
-    &+ .section.expanded > .section-title {
+    & + .section.expanded > .section-title {
       margin-top: 0.5em !important;
     }
   }
@@ -853,7 +871,7 @@ u {
     font-weight: bold;
     font-size: 120%;
     background: var(--section-title-background);
-    margin: 0 -10px;
+    margin: 0 (-$box-padding);
     padding: 0 2em;
     transition: 0.2s;
     text-align: center;
@@ -896,8 +914,8 @@ u {
   }
 
   .section-content {
-    margin: 0 -10px;
-    padding: 0 10px;
+    margin: 0 (-$box-padding);
+    padding: 0 $box-padding;
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.2s ease-out, margin 0.2s ease-out;
@@ -914,8 +932,8 @@ u {
       top: var(--section-height);
       z-index: 997;
       background: var(--h3-title-background);
-      margin: 0.1em -10px;
-      padding: 0.15em 10px;
+      margin: 0.1em (-$box-padding);
+      padding: 0.15em $box-padding;
       font-size: 1.1em;
       font-weight: normal;
     }
@@ -1103,23 +1121,23 @@ $highlight-styles: (
   "highlight": (
     "icon": "info",
     "color-var": "--highlight-color",
-    "color-scss": $highlight-color
+    "color-scss": $highlight-color,
   ),
   "attention": (
     "icon": "warning",
-    "color-var": "--attention-color", 
-    "color-scss": $attention-color
+    "color-var": "--attention-color",
+    "color-scss": $attention-color,
   ),
   "tip": (
-    "icon": "lightbulb-tip",
+    "icon": "lightbulb",
     "color-var": "--tip-color",
-    "color-scss": $tip-color
+    "color-scss": $tip-color,
   ),
   "celebration": (
     "icon": "celebration",
     "color-var": "--celebration-color",
-    "color-scss": $celebration-color
-  )
+    "color-scss": $celebration-color,
+  ),
 );
 
 @each $type, $config in $highlight-styles {
@@ -1128,20 +1146,20 @@ $highlight-styles: (
     $css-color: var(#{map-get($config, "color-var")});
     $icon-name: map-get($config, "icon");
     $background: rgba($scss-color, 0.15);
-    
+
     color: $css-color;
     border-color: $css-color;
     background: $background;
-    
+
     .spoiler:not(.clicked) {
       background: $background !important;
     }
-    
+
     &::before {
       content: "";
       mask-image: map-get($icons, $icon-name);
     }
-    
+
     svg {
       fill: $css-color;
     }
@@ -1312,25 +1330,76 @@ tr[data-tense="PC"] .tense_stem {
   Grammar library
   -----------------------------------------------
 **/
+
+$stagger-base-delay: 0.15s;
+$stagger-item-increment: 0.04s;
+
 #grammar-library {
-  transition: all 0.3s ease-out;
+  display: grid;
+  grid-template-rows: 1fr;
+
+  transition: width 0.4s cubic-bezier(0.65, 0, 0.35, 1),
+    grid-template-rows 0.4s cubic-bezier(0.65, 0, 0.35, 1),
+    border-radius 0.4s cubic-bezier(0.65, 0, 0.35, 1);
+
+  position: relative;
   margin-left: auto;
   margin-right: auto;
   box-sizing: border-box;
   width: 100%;
 
   #close-grammar-library {
-    transform: none;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    transform: scale(1);
+    opacity: 1;
+    z-index: 10;
     top: 0.25rem;
     right: 0.25rem;
   }
 
   #show-hide-grammar-library {
-    display: none;
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease 0.1s;
     border: none;
   }
 
   #grammar-sections {
+    opacity: 1;
+    transition: opacity 0.25s ease;
+    min-height: 0;
+
+    > *,
+    .level-pills .pill {
+      opacity: 1;
+      transform: translateY(0);
+      transition: transform 0.4s cubic-bezier(0.2, 0.8, 0.2, 1),
+        opacity 0.3s ease;
+    }
+
+    $cefr-container-delay: $stagger-base-delay + $stagger-item-increment;
+    @for $i from 1 through 5 {
+      #cefr-filter .pill:nth-child(#{$i}) {
+        transition-delay: $cefr-container-delay + (($i - 1) * $stagger-item-increment);
+      }
+    }
+    #grammar-search {
+      transition-delay: $cefr-container-delay + (5 * $stagger-item-increment);
+    }
+    @for $i from 1 through 30 {
+      > .section:nth-child(#{$i}) {
+        transition-delay: $cefr-container-delay + (($i - 1) * $stagger-item-increment);
+      }
+    }
+
     #grammar-sections-title {
       display: flex;
       align-items: center;
@@ -1342,36 +1411,30 @@ tr[data-tense="PC"] .tense_stem {
 
     #grammar-search {
       margin-bottom: 0.6em;
-
       .search-container {
         position: relative;
-
         #grammar-search-input {
           width: 100%;
           padding: 8px 35px 8px 12px;
           border: 1px solid rgba(120, 120, 128, 0.3);
-          border-radius: 10px;
+          border-radius: $border-radius-small;
           background: rgba(255, 255, 255, 0.9);
           color: var(--secondary-text);
           transition: all 0.15s ease;
           box-sizing: border-box;
-
           .night_mode & {
             background: rgba(0, 0, 0, 0.2);
             border-color: rgba(120, 120, 128, 0.5);
           }
-
           &:focus {
             outline: none;
             border-color: var(--highlight-color);
             box-shadow: 0 0 0 2px rgba(var(--highlight-color), 0.2);
           }
-
           &::placeholder {
             color: rgba(120, 120, 128, 0.7);
           }
         }
-
         .search-clear-button {
           position: absolute;
           right: 8px;
@@ -1383,11 +1446,9 @@ tr[data-tense="PC"] .tense_stem {
           cursor: pointer;
           color: rgba(120, 120, 128, 0.8);
           transition: color 0.15s ease;
-
           &:hover {
             color: var(--secondary-text);
           }
-
           svg {
             width: 100%;
             height: 100%;
@@ -1402,38 +1463,32 @@ tr[data-tense="PC"] .tense_stem {
       text-align: center;
       color: rgba(120, 120, 128, 0.8);
       font-style: italic;
-      
+
       p {
         margin: 0;
-        font-size: 14px;
       }
     }
 
     #cefr-filter {
       margin-bottom: 0.6em;
-
       .level-pills {
         display: flex;
         justify-content: space-between;
         max-width: 350px;
         gap: 6px;
         font-weight: 500;
-
         .pill {
           flex: 1;
           text-align: center;
           padding: 4px 8px;
-          border-radius: 10px;
+          border-radius: $border-radius-small;
           background: rgba(120, 120, 128, 0.16);
           color: var(--secondary-text);
           cursor: pointer;
-          transition: all 0.15s ease;
-
           &.active {
             background: var(--highlight-color);
             color: white;
           }
-
           &:hover:not(.active) {
             background: rgba(120, 120, 128, 0.24);
           }
@@ -1447,23 +1502,35 @@ tr[data-tense="PC"] .tense_stem {
   }
 
   &.collapsed {
+    grid-template-rows: 0fr;
+    min-height: 36px;
+
     width: 112px;
-    height: 36px;
     border-radius: 36px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 
     #show-hide-grammar-library {
-      display: flex;
+      opacity: 1;
+      pointer-events: auto;
+      transition-delay: 0.25s;
     }
 
     #close-grammar-library {
-      display: none;
+      opacity: 0;
+      pointer-events: none;
+      transform: scale(0.7);
+      transition-duration: 0.15s;
     }
 
     #grammar-sections {
-      display: none;
+      opacity: 0;
+      pointer-events: none;
+      > *,
+      .level-pills .pill {
+        opacity: 0;
+        transform: translateY(15px);
+        transition: transform 0.2s ease, opacity 0.15s ease;
+        transition-delay: 0s !important;
+      }
     }
   }
 }
