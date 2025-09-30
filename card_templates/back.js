@@ -2,7 +2,8 @@ ___CONFIG___;
 
 const wordWithArticle = document.querySelector(".word");
 const word = wordWithArticle.dataset.word;
-const rank = parseInt(document.querySelector(".rank").dataset.content);
+const rankElement = document.querySelector(".rank");
+const rank = parseInt(rankElement.dataset.content);
 
 /**
  * Feminine form
@@ -184,10 +185,10 @@ function refreshExampleSentences() {
   sentenceCounter.textContent = `${currentSentence + 1}/${
     sentencesPairs.length
   }`;
-  formatSentences(document.querySelector("#sentences"));
+  formatLanguageText(document.querySelector("#sentences"));
 }
 
-function formatSentences(within = document) {
+function formatLanguageText(within = document) {
   within.querySelectorAll(".fr").forEach(function (el) {
     if (el.querySelector(".sentence-with-audio")) {
       return;
@@ -256,7 +257,7 @@ async function initAudioButtons(within = document) {
 }
 
 refreshExampleSentences();
-formatSentences();
+formatLanguageText();
 
 // do not show spoiler for first sentence
 document.querySelector(".spoiler").classList.add("clicked");
@@ -449,7 +450,7 @@ function loadGrammar(id, into) {
   });
 
   enableSectionToggle(grammarElement);
-  formatSentences(grammarElement);
+  formatLanguageText(grammarElement);
   initGrammarLinks(grammarElement);
 
   // fall back map
@@ -653,6 +654,7 @@ function renderGrammaryLibrary() {
 
     const categoryContent = document.createElement("div");
     categoryContent.className = "section-content";
+    categoryContent.classList.add("has-subsections");
 
     for (const id of subcategories) {
       const subcategorySection = document.createElement("div");
@@ -897,7 +899,7 @@ function toggleSection(section, forceExpand = false) {
     if (title) {
       const titleRect = title.getBoundingClientRect();
       const sectionRect = section.getBoundingClientRect();
-      const isStickyActive = sectionRect.top < titleRect.top - 1;
+      const isStickyActive = sectionRect.top < titleRect.top - 10;
 
       if (isStickyActive) {
         // Perform the scroll immediately to prevent visual jump.
@@ -914,9 +916,7 @@ function toggleSection(section, forceExpand = false) {
     }
   }
 
-  // For all other cases (expanding, or collapsing a non-sticky section),
-  // run the animation logic immediately.
-  performToggleAnimation();
+  setTimeout(performToggleAnimation, 0);
 }
 
 // Returns the parent .sections of the given element, from outermost to innermost, including the element itself if it is a .section
@@ -974,6 +974,49 @@ function initGrammarLinks(within = document) {
 ___DICT___;
 
 /**
+ * Easter egg: Clicking on rank shows the number spelled out
+ */
+function numberToFrench(n) {
+  if (n === 0) return 'zéro';
+
+  const units = ['', 'un', 'deux', 'trois', 'quatre', 'cinq', 'six', 'sept', 'huit', 'neuf', 'dix', 'onze', 'douze', 'treize', 'quatorze', 'quinze', 'seize'];
+  const tens = ['', '', 'vingt', 'trente', 'quarante', 'cinquante', 'soixante'];
+
+  if (n >= 1000) {
+    const thousands = Math.floor(n / 1000);
+    const remainder = n % 1000;
+    const prefix = thousands === 1 ? 'mille' : units[thousands] + ' mille';
+    return prefix + (remainder > 0 ? ' ' + numberToFrench(remainder) : '');
+  }
+  if (n >= 100) {
+    const hundreds = Math.floor(n / 100);
+    const remainder = n % 100;
+    const prefix = hundreds === 1 ? 'cent' : units[hundreds] + ' cent';
+    return prefix + (remainder === 0 && hundreds > 1 ? 's' : '') + (remainder > 0 ? ' ' + numberToFrench(remainder) : '');
+  }
+  if (n >= 80) return 'quatre-vingt' + (n === 80 ? 's' : '-' + numberToFrench(n - 80));
+  if (n >= 70) return 'soixante' + (n === 71 ? ' et onze' : '-' + numberToFrench(n - 60));
+  if (n >= 20) {
+    const ten = Math.floor(n / 10);
+    const unit = n % 10;
+    if (unit === 0) return tens[ten];
+    return tens[ten] + (unit === 1 ? ' et un' : '-' + units[unit]);
+  }
+  if (n > 16) return 'dix-' + units[n % 10];
+  
+  return units[n];
+}
+
+if (rank >= 1) {
+  rankElement.onclick = function () {
+    rankElement.classList.add("spelled-out");
+    rankElement.innerHTML = `<div class="fr force-audio condensed">${numberToFrench(rank)}</div>`;
+    formatLanguageText(rankElement);
+    rankElement.onclick = null;
+  };
+}
+
+/**
  * GitHub
  */
 const github = document.querySelector(".github > a");
@@ -1010,6 +1053,8 @@ function getAnkiPrefix() {
     : ".";
 }
 
+// Dirty hack to get visible text including pseudo-elements
+// Code should be refactored at some point to avoid needing this
 function getVisibleText(htmlElement) {
   const isVisible = (element) => {
     const style = window.getComputedStyle(element);

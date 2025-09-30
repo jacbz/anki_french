@@ -85,6 +85,7 @@ $h3-title-background: mix(hsl(201, 100%, 14%), white, 3%);
 }
 
 @mixin hover {
+  cursor: pointer;
   &:active {
     filter: brightness(var(--hover-brightness));
   }
@@ -229,8 +230,29 @@ input {
     display: none;
   }
 
-  &::before {
-    content: "#";
+  &:not(.spelled-out) {
+    cursor: pointer;
+    &::before {
+      content: "#";
+    }
+  }
+
+  &.spelled-out {
+    position: unset;
+    height: 2em;
+
+    .fr {
+      font-weight: normal;
+      position: absolute;
+      right: 0.5em;
+      top: 0.5em;
+    }
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .rank {
+    font-family: "NittiGroteskCondensed";
   }
 }
 
@@ -402,7 +424,6 @@ span.no-break {
 
   transition: 0.2s;
   -webkit-tap-highlight-color: transparent;
-  cursor: pointer;
   border-radius: 0.2em;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
@@ -650,14 +671,22 @@ hr {
 }
 
 .note {
-  overflow: hidden;
-
   &:has(> .section:first-child) {
     padding-top: 0;
   }
 
   &:has(> .section:last-child) {
     padding-bottom: 0;
+  }
+  
+  > .section:first-child > .section-title {
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+  }
+
+  > .section:last-child:not(.expanded) > .section-title {
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
   }
 
   > *:not(.section-title) + *:not(.section-title) {
@@ -815,6 +844,7 @@ u {
   }
 
   .section {
+    transition: 0.2s;
     margin: 0 !important;
 
     .section {
@@ -847,6 +877,10 @@ u {
         margin-bottom: 1em;
       }
     }
+
+    &+ .section.expanded > .section-title {
+      margin-top: 0.5em !important;
+    }
   }
 
   .section-title {
@@ -860,7 +894,6 @@ u {
     background: var(--section-title-background);
     margin: 0 -10px;
     padding: 0 2em;
-    cursor: pointer;
     transition: 0.2s;
     text-align: center;
     height: var(--section-height);
@@ -909,6 +942,11 @@ u {
     transition: max-height 0.2s ease-out, margin 0.2s ease-out;
     display: grid;
     gap: 0.5em;
+
+    &.has-subsections {
+      gap: 0;
+      margin-top: 0 !important;
+    }
 
     h3 {
       position: sticky;
