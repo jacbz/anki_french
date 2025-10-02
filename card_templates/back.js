@@ -631,6 +631,7 @@ function showGrammarLibrary() {
 
 if (grammar) {
   showHideGrammarLibraryButton.onclick = function () {
+    window.scrollTo({ top: grammarLibrary.offsetTop, behavior: "smooth" });
     showGrammarLibrary();
   };
   closeLibraryButton.onclick = function () {
@@ -723,9 +724,9 @@ function filter(expandSections = false) {
   grammarLibrary
     .querySelectorAll("#grammar-sections > .section")
     .forEach((section) => {
-      const hasVisibleChildren = Array.from(section.querySelectorAll(".section")).some(
-        (child) => child.style.display !== 'none'
-      );
+      const hasVisibleChildren = Array.from(
+        section.querySelectorAll(".section")
+      ).some((child) => child.style.display !== "none");
       section.style.display = hasVisibleChildren ? "" : "none";
     });
 
@@ -893,18 +894,20 @@ function updateSectionButtons(section) {
       e.stopPropagation();
       toggleSection(section, false, true);
       const link = section._returnLink;
-      link.scrollIntoView({
-        behavior: "smooth",
-        block: "center",
-      });
-      link.classList.add("flash-highlight");
-      link.addEventListener(
-        "animationend",
-        () => {
-          link.classList.remove("flash-highlight");
-        },
-        { once: true }
-      );
+      setTimeout(() => {
+        link.scrollIntoView({
+          behavior: "smooth",
+          block: "center",
+        });
+        link.classList.add("flash-highlight");
+        link.addEventListener(
+          "animationend",
+          () => {
+            link.classList.remove("flash-highlight");
+          },
+          { once: true }
+        );
+      }, 200);
     };
     buttons.push(button);
   }
@@ -914,7 +917,8 @@ function updateSectionButtons(section) {
   if (marklemma) {
     const rect = marklemma.getBoundingClientRect();
     const isOutOfView =
-      rect.top < content.getBoundingClientRect().top || rect.bottom > window.innerHeight;
+      rect.top < content.getBoundingClientRect().top ||
+      rect.bottom > window.innerHeight;
 
     if (isOutOfView) {
       const button = document.createElement("div");
@@ -924,7 +928,11 @@ function updateSectionButtons(section) {
       const iconSpan = document.createElement("div");
       iconSpan.className = "svg-icon icon-star";
       button.appendChild(iconSpan);
-      button.appendChild(document.createTextNode(marklemma.dataset.lemma || marklemma.textContent.trim()));
+      button.appendChild(
+        document.createTextNode(
+          marklemma.dataset.lemma || marklemma.textContent.trim()
+        )
+      );
 
       button.onclick = (e) => {
         e.stopPropagation();
@@ -1041,16 +1049,18 @@ function initGrammarLinks(within = document) {
             toggleSection(section, true, false);
           }
         }
-        
-        section._returnLink = el;
-        if (section.classList.contains("expanded")) {
-          updateSectionButtons(section);
-        }
 
-        window.scrollTo({
-          top: section.getBoundingClientRect().top + window.scrollY - 100,
-          behavior: "smooth",
-        });
+        setTimeout(() => {
+          window.scrollTo({
+            top: section.getBoundingClientRect().top + window.scrollY - 100,
+            behavior: "smooth",
+          });
+
+          section._returnLink = el;
+          if (section.classList.contains("expanded")) {
+            updateSectionButtons(section);
+          }
+        }, 200);
       }
     };
   });
@@ -1062,40 +1072,66 @@ ___DICT___;
  * Easter egg: Clicking on rank shows the number spelled out
  */
 function numberToFrench(n) {
-  if (n === 0) return 'zéro';
+  if (n === 0) return "zéro";
 
-  const units = ['', 'un', 'deux', 'trois', 'quatre', 'cinq', 'six', 'sept', 'huit', 'neuf', 'dix', 'onze', 'douze', 'treize', 'quatorze', 'quinze', 'seize'];
-  const tens = ['', '', 'vingt', 'trente', 'quarante', 'cinquante', 'soixante'];
+  const units = [
+    "",
+    "un",
+    "deux",
+    "trois",
+    "quatre",
+    "cinq",
+    "six",
+    "sept",
+    "huit",
+    "neuf",
+    "dix",
+    "onze",
+    "douze",
+    "treize",
+    "quatorze",
+    "quinze",
+    "seize",
+  ];
+  const tens = ["", "", "vingt", "trente", "quarante", "cinquante", "soixante"];
 
   if (n >= 1000) {
     const thousands = Math.floor(n / 1000);
     const remainder = n % 1000;
-    const prefix = thousands === 1 ? 'mille' : units[thousands] + ' mille';
-    return prefix + (remainder > 0 ? ' ' + numberToFrench(remainder) : '');
+    const prefix = thousands === 1 ? "mille" : units[thousands] + " mille";
+    return prefix + (remainder > 0 ? " " + numberToFrench(remainder) : "");
   }
   if (n >= 100) {
     const hundreds = Math.floor(n / 100);
     const remainder = n % 100;
-    const prefix = hundreds === 1 ? 'cent' : units[hundreds] + ' cent';
-    return prefix + (remainder === 0 && hundreds > 1 ? 's' : '') + (remainder > 0 ? ' ' + numberToFrench(remainder) : '');
+    const prefix = hundreds === 1 ? "cent" : units[hundreds] + " cent";
+    return (
+      prefix +
+      (remainder === 0 && hundreds > 1 ? "s" : "") +
+      (remainder > 0 ? " " + numberToFrench(remainder) : "")
+    );
   }
-  if (n >= 80) return 'quatre-vingt' + (n === 80 ? 's' : '-' + numberToFrench(n - 80));
-  if (n >= 70) return 'soixante' + (n === 71 ? ' et onze' : '-' + numberToFrench(n - 60));
+  if (n >= 80)
+    return "quatre-vingt" + (n === 80 ? "s" : "-" + numberToFrench(n - 80));
+  if (n >= 70)
+    return "soixante" + (n === 71 ? " et onze" : "-" + numberToFrench(n - 60));
   if (n >= 20) {
     const ten = Math.floor(n / 10);
     const unit = n % 10;
     if (unit === 0) return tens[ten];
-    return tens[ten] + (unit === 1 ? ' et un' : '-' + units[unit]);
+    return tens[ten] + (unit === 1 ? " et un" : "-" + units[unit]);
   }
-  if (n > 16) return 'dix-' + units[n % 10];
-  
+  if (n > 16) return "dix-" + units[n % 10];
+
   return units[n];
 }
 
 if (rank >= 1) {
   rankElement.onclick = function () {
     rankElement.classList.add("spelled-out");
-    rankElement.innerHTML = `<div class="fr force-audio condensed">${numberToFrench(rank)}</div>`;
+    rankElement.innerHTML = `<div class="fr force-audio condensed">${numberToFrench(
+      rank
+    )}</div>`;
     formatLanguageText(rankElement);
     rankElement.onclick = null;
   };

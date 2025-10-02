@@ -3464,7 +3464,7 @@
 | 3462 | format | Format | 34 |  | [Bearbeiten](cards/3462_format.yml) |
 | 3463 | hiérarchie | Hierarchie | 21 | ✓ | [Bearbeiten](cards/3463_hiérarchie.yml) |
 | 3464 | estimation | Schätzung | 21 |  | [Bearbeiten](cards/3464_estimation.yml) |
-| 3465 | mutation | Mutation | 20 |  | [Bearbeiten](cards/3465_mutation.yml) |
+| 3465 | mutation | Umbruch, Mutation | 20 |  | [Bearbeiten](cards/3465_mutation.yml) |
 | 3466 | imminent | bevorstehend, drohend | 14 |  | [Bearbeiten](cards/3466_imminent.yml) |
 | 3467 | héroïne | Heldin; Heroin | 15 |  | [Bearbeiten](cards/3467_héroïne.yml) |
 | 3468 | esclave | Sklave | 26 | ✓ | [Bearbeiten](cards/3468_esclave.yml) |
@@ -3951,7 +3951,7 @@
 | 3949 | natal | Geburts- | 15 |  | [Bearbeiten](cards/3949_natal.yml) |
 | 3950 | humour | Humor | 17 |  | [Bearbeiten](cards/3950_humour.yml) |
 | 3951 | défaillance | Schwäche, Ausfall | 27 |  | [Bearbeiten](cards/3951_défaillance.yml) |
-| 3952 | hélas | ach, leider | 14 |  | [Bearbeiten](cards/3952_hélas.yml) |
+| 3952 | hélas | ach, leider | 13 |  | [Bearbeiten](cards/3952_hélas.yml) |
 | 3953 | cabine | Kabine | 25 |  | [Bearbeiten](cards/3953_cabine.yml) |
 | 3954 | fardeau | Last, Bürde | 15 | ✓ | [Bearbeiten](cards/3954_fardeau.yml) |
 | 3955 | héritier | Erbe/Erbin | 22 | ✓ | [Bearbeiten](cards/3955_héritier.yml) |

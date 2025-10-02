@@ -14,6 +14,8 @@ $section-within-section-title-background: mix(hsl(201, 100%, 14%), white, 7%);
 $h3-title-background: mix(hsl(201, 100%, 14%), white, 3%);
 
 :root {
+  --canvas: #fefefe;
+  --element-background: white;
   --hover-brightness: 1.04;
   --accent-text: #{$highlight-color};
   --secondary-text: #333;
@@ -31,6 +33,8 @@ $h3-title-background: mix(hsl(201, 100%, 14%), white, 3%);
 }
 
 .night_mode {
+  --canvas: black;
+  --element-background: #121212;
   --hover-brightness: 1.2;
   --accent-text: #{adjust-color($highlight-color, $lightness: 12%)};
   --secondary-text: #ddd;
@@ -179,7 +183,6 @@ html {
 .card {
   font-family: "NittiGrotesk";
   text-align: center;
-  background-color: white;
   width: 96%;
   padding-left: 0.2em;
   padding-right: 0.2em;
@@ -633,6 +636,7 @@ hr {
 **/
 
 .card-box {
+  background-color: var(--element-background);
   margin-top: 1.5em;
   position: relative;
   font-size: 0.8rem;
@@ -641,6 +645,10 @@ hr {
   padding: $box-padding;
   text-align: left;
   box-shadow: 0 0.25rem 1rem rgba(0, 0, 0, 0.12);
+}
+
+.night_mode .card-box {
+  box-shadow: 0 0.25rem 1rem 0.2rem rgba(255, 255, 255, 0.12);
 }
 
 .note {
@@ -952,6 +960,11 @@ u {
   padding: 0.2em 0.8em;
   border-radius: 9999px;
   font-weight: bold;
+  animation-name: animate-pop;
+  animation-timing-function: cubic-bezier(0.26, 0.53, 0.74, 1.48);
+  animation-duration: 0.5s;
+  animation-delay: 0.2s;
+  animation-fill-mode: both;
 
   .svg-icon {
     width: 1.1em;
@@ -976,6 +989,18 @@ u {
       background-color: var(--highlight-color);
       color: white;
     }
+  }
+}
+
+@keyframes animate-pop {
+  0% {
+    opacity: 0;
+    transform: scale(0.5, 0.5);
+  }
+
+  100% {
+    opacity: 1;
+    transform: scale(1, 1);
   }
 }
 
@@ -1504,9 +1529,11 @@ $stagger-item-increment: 0.04s;
   &.collapsed {
     grid-template-rows: 0fr;
     min-height: 36px;
-
     width: 112px;
     border-radius: 36px;
+    
+    // to fix bug on AnkiMobile that causes horizontal scrollbars to appear
+    overflow: hidden;
 
     #show-hide-grammar-library {
       opacity: 1;
