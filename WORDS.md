@@ -284,7 +284,7 @@
 | 282 | international | international | 30 |  | [Bearbeiten](cards/0282_international.yml) |
 | 283 | changer | ändern, wechseln | 59 | ✓ | [Bearbeiten](cards/0283_changer.yml) |
 | 284 | oui | ja | 51 | ✓ | [Bearbeiten](cards/0284_oui.yml) |
-| 285 | public | Öffentlichkeit, Publikum | 62 | ✓ | [Bearbeiten](cards/0285_public.yml) |
+| 285 | public | Öffentlichkeit, Publikum | 22 |  | [Bearbeiten](cards/0285_public.yml) |
 | 286 | humain | menschlich | 52 |  | [Bearbeiten](cards/0286_humain.yml) |
 | 287 | souvent | oft | 18 |  | [Bearbeiten](cards/0287_souvent.yml) |
 | 288 | cinq | fünf | 61 | ✓ | [Bearbeiten](cards/0288_cinq.yml) |
@@ -553,7 +553,7 @@
 | 551 | disposer | anordnen, verfügen | 47 | ✓ | [Bearbeiten](cards/0551_disposer.yml) |
 | 552 | parole | Wort, Sprache | 60 |  | [Bearbeiten](cards/0552_parole.yml) |
 | 553 | fond | Boden, Hintergrund | 60 | ✓ | [Bearbeiten](cards/0553_fond.yml) |
-| 554 | public | öffentlich; Publikum | 63 | ✓ | [Bearbeiten](cards/0554_public.yml) |
+| 554 | public | öffentlich | 39 | ✓ | [Bearbeiten](cards/0554_public.yml) |
 | 555 | faux | falsch | 62 | ✓ | [Bearbeiten](cards/0555_faux.yml) |
 | 556 | genre | Art, Gattung | 45 | ✓ | [Bearbeiten](cards/0556_genre.yml) |
 | 557 | retenir | behalten, zurückhalten | 62 |  | [Bearbeiten](cards/0557_retenir.yml) |
@@ -1157,7 +1157,7 @@
 | 1155 | global | global, weltweit | 16 |  | [Bearbeiten](cards/1155_global.yml) |
 | 1156 | dommage | Schaden; schade | 35 | ✓ | [Bearbeiten](cards/1156_dommage.yml) |
 | 1157 | crédit | Kredit | 60 |  | [Bearbeiten](cards/1157_crédit.yml) |
-| 1158 | tendance | Tendenz | 41 |  | [Bearbeiten](cards/1158_tendance.yml) |
+| 1158 | tendance | Trend, Neigung | 41 |  | [Bearbeiten](cards/1158_tendance.yml) |
 | 1159 | chaîne | Kette, Fernsehsender | 63 |  | [Bearbeiten](cards/1159_chaîne.yml) |
 | 1160 | relatif | relativ | 39 |  | [Bearbeiten](cards/1160_relatif.yml) |
 | 1161 | note | Note, Zettel | 53 |  | [Bearbeiten](cards/1161_note.yml) |
@@ -1185,7 +1185,7 @@
 | 1183 | égal | gleich, ausgeglichen | 58 |  | [Bearbeiten](cards/1183_égal.yml) |
 | 1184 | promesse | Versprechen | 23 | ✓ | [Bearbeiten](cards/1184_promesse.yml) |
 | 1185 | entretenir | pflegen | 52 |  | [Bearbeiten](cards/1185_entretenir.yml) |
-| 1186 | habiter | wohnen | 27 | ✓ | [Bearbeiten](cards/1186_habiter.yml) |
+| 1186 | habiter | wohnen | 27 |  | [Bearbeiten](cards/1186_habiter.yml) |
 | 1187 | quartier | Stadtviertel | 54 |  | [Bearbeiten](cards/1187_quartier.yml) |
 | 1188 | avocat | Anwalt | 33 | ✓ | [Bearbeiten](cards/1188_avocat.yml) |
 | 1189 | accueillir | empfangen, aufnehmen | 23 |  | [Bearbeiten](cards/1189_accueillir.yml) |

@@ -432,7 +432,7 @@ function loadGrammar(id, into) {
   content.innerHTML += `<div class="github"><a href="${grammar.github[id]}">Auf GitHub bearbeiten</a></div>`;
   // highlight lemmas that match the current word
   content.querySelectorAll(".marklemma").forEach(function (el) {
-    const normalize = (s) => (s ? s.normalize() : s);
+    const normalize = (s) => (s ? s.normalize().toLowerCase() : s);
     const text = el.textContent.trim();
     const lemmaAttr =
       el.dataset.lemma ||
