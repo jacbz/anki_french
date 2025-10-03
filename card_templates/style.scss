@@ -1410,20 +1410,23 @@ $stagger-item-increment: 0.04s;
         opacity 0.3s ease;
     }
 
-    $cefr-container-delay: $stagger-base-delay + $stagger-item-increment;
-    @for $i from 1 through 5 {
-      #cefr-filter .pill:nth-child(#{$i}) {
-        transition-delay: $cefr-container-delay + (($i - 1) * $stagger-item-increment);
+    &.fly-in {
+      $cefr-container-delay: $stagger-base-delay + $stagger-item-increment;
+      @for $i from 1 through 5 {
+        #cefr-filter .pill:nth-child(#{$i}) {
+          transition-delay: $cefr-container-delay + (($i - 1) * $stagger-item-increment);
+        }
+      }
+      #grammar-search {
+        transition-delay: $cefr-container-delay + (5 * $stagger-item-increment);
+      }
+      @for $i from 1 through 30 {
+        > .section:nth-child(#{$i}) {
+          transition-delay: $cefr-container-delay + (($i - 1) * $stagger-item-increment);
+        }
       }
     }
-    #grammar-search {
-      transition-delay: $cefr-container-delay + (5 * $stagger-item-increment);
-    }
-    @for $i from 1 through 30 {
-      > .section:nth-child(#{$i}) {
-        transition-delay: $cefr-container-delay + (($i - 1) * $stagger-item-increment);
-      }
-    }
+
 
     #grammar-sections-title {
       display: flex;
