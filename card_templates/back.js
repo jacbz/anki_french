@@ -431,7 +431,7 @@ function loadGrammar(id, into) {
 
   content.innerHTML += `<div class="github"><a href="${grammar.github[id]}">Auf GitHub bearbeiten</a></div>`;
   // highlight lemmas that match the current word
-  content.querySelectorAll(".marklemma").forEach(function (el) {
+  content.querySelectorAll(".tag-lemma").forEach(function (el) {
     const normalize = (s) => (s ? s.normalize().toLowerCase() : s);
     const text = el.textContent.trim();
     const lemmaAttr =
@@ -443,7 +443,7 @@ function loadGrammar(id, into) {
       normalize(text) !== normalize(word) &&
       normalize(lemmaAttr) !== normalize(word)
     ) {
-      el.classList.remove("marklemma");
+      el.classList.remove("tag-lemma");
     }
   });
 
@@ -916,9 +916,9 @@ function updateSectionButtons(section) {
     buttons.push(button);
   }
 
-  // 2. "Go to marked lemma" button
-  const marklemma = content.querySelector(".marklemma");
-  if (marklemma) {
+  // 2. "Go to tagged lemma" button
+  const tagLemma = content.querySelector(".tag-lemma");
+  if (tagLemma) {
     const button = document.createElement("div");
     button.className = "section-button button";
     button.dataset.buttonType = "lemma";
@@ -928,13 +928,13 @@ function updateSectionButtons(section) {
     button.appendChild(iconSpan);
     button.appendChild(
       document.createTextNode(
-        marklemma.dataset.lemma || marklemma.textContent.trim()
+        tagLemma.dataset.lemma || tagLemma.textContent.trim()
       )
     );
 
     button.onclick = (e) => {
       e.stopPropagation();
-      marklemma.scrollIntoView({ behavior: "smooth", block: "center" });
+      tagLemma.scrollIntoView({ behavior: "smooth", block: "center" });
     };
     buttons.push(button);
   }

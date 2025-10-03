@@ -750,7 +750,7 @@ u {
   line-height: 100%;
 }
 
-.marklemma {
+.tag-lemma {
   background: var(--highlight-color);
   color: white;
   padding: 0.1em 0.2em;
@@ -1191,7 +1191,7 @@ $highlight-styles: (
   }
 }
 
-.cell-title {
+.rounded-border {
   display: inline-block;
   border: 1px solid;
   padding: 0 0.3em;
