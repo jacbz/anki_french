@@ -50,7 +50,7 @@
 | 48 | où | wo | 62 | ✓ | [Bearbeiten](cards/0048_où.yml) |
 | 49 | fois | Mal, Zeit | 61 |  | [Bearbeiten](cards/0049_fois.yml) |
 | 50 | vous | ihr/Sie [Plural] | 61 | ✓ | [Bearbeiten](cards/0050_vous.yml) |
-| 51 | encore | noch, wieder | 55 |  | [Bearbeiten](cards/0051_encore.yml) |
+| 51 | encore | noch, wieder | 55 | ✓ | [Bearbeiten](cards/0051_encore.yml) |
 | 52 | nouveau | neu | 60 | ✓ | [Bearbeiten](cards/0052_nouveau.yml) |
 | 53 | aller | gehen | 61 | ✓ | [Bearbeiten](cards/0053_aller.yml) |
 | 54 | cela | es, das [unbestimmtes Demonstrativpro.] | 26 | ✓ | [Bearbeiten](cards/0054_cela.yml) |
@@ -96,7 +96,7 @@
 | 94 | bon | gut | 62 | ✓ | [Bearbeiten](cards/0094_bon.yml) |
 | 95 | comprendre | verstehen | 60 | ✓ | [Bearbeiten](cards/0095_comprendre.yml) |
 | 96 | depuis | seit | 46 | ✓ | [Bearbeiten](cards/0096_depuis.yml) |
-| 97 | point | Punkt | 61 |  | [Bearbeiten](cards/0097_point.yml) |
+| 97 | point | Punkt | 61 | ✓ | [Bearbeiten](cards/0097_point.yml) |
 | 98 | ainsi | so, auf diese Weise | 30 | ✓ | [Bearbeiten](cards/0098_ainsi.yml) |
 | 99 | heure | Stunde, Uhrzeit | 58 | ✓ | [Bearbeiten](cards/0099_heure.yml) |
 | 100 | rester | bleiben | 60 | ✓ | [Bearbeiten](cards/0100_rester.yml) |
@@ -284,7 +284,7 @@
 | 282 | international | international | 30 |  | [Bearbeiten](cards/0282_international.yml) |
 | 283 | changer | ändern, wechseln | 59 | ✓ | [Bearbeiten](cards/0283_changer.yml) |
 | 284 | oui | ja | 51 | ✓ | [Bearbeiten](cards/0284_oui.yml) |
-| 285 | public | Öffentlichkeit, Publikum | 22 |  | [Bearbeiten](cards/0285_public.yml) |
+| 285 | public | Öffentlichkeit, Publikum | 22 | ✓ | [Bearbeiten](cards/0285_public.yml) |
 | 286 | humain | menschlich | 52 |  | [Bearbeiten](cards/0286_humain.yml) |
 | 287 | souvent | oft | 18 |  | [Bearbeiten](cards/0287_souvent.yml) |
 | 288 | cinq | fünf | 61 | ✓ | [Bearbeiten](cards/0288_cinq.yml) |
@@ -525,7 +525,7 @@
 | 523 | tour | Tour, Umfang; Turm | 61 | ✓ | [Bearbeiten](cards/0523_tour.yml) |
 | 524 | voilà | da/dort (ist) | 56 | ✓ | [Bearbeiten](cards/0524_voilà.yml) |
 | 525 | volonté | Wille | 34 | ✓ | [Bearbeiten](cards/0525_volonté.yml) |
-| 526 | envoyer | senden | 61 |  | [Bearbeiten](cards/0526_envoyer.yml) |
+| 526 | envoyer | senden | 61 | ✓ | [Bearbeiten](cards/0526_envoyer.yml) |
 | 527 | partager | teilen, freigeben | 54 |  | [Bearbeiten](cards/0527_partager.yml) |
 | 528 | puisque | da (ja) | 18 | ✓ | [Bearbeiten](cards/0528_puisque.yml) |
 | 529 | établir | errichten, gründen | 62 |  | [Bearbeiten](cards/0529_établir.yml) |
@@ -1609,7 +1609,7 @@
 | 1607 | menace | Bedrohung, Drohung | 23 |  | [Bearbeiten](cards/1607_menace.yml) |
 | 1608 | universel | universal | 41 |  | [Bearbeiten](cards/1608_universel.yml) |
 | 1609 | jeunesse | Jugend | 43 | ✓ | [Bearbeiten](cards/1609_jeunesse.yml) |
-| 1610 | voler | fliegen; stehlen | 49 |  | [Bearbeiten](cards/1610_voler.yml) |
+| 1610 | voler | fliegen; stehlen | 49 | ✓ | [Bearbeiten](cards/1610_voler.yml) |
 | 1611 | résister | widerstehen, sich wehren | 33 |  | [Bearbeiten](cards/1611_résister.yml) |
 | 1612 | profondément | zutiefst | 22 |  | [Bearbeiten](cards/1612_profondément.yml) |
 | 1613 | séparation | Trennung | 27 |  | [Bearbeiten](cards/1613_séparation.yml) |
@@ -2113,7 +2113,7 @@
 | 2111 | arbre | Baum | 30 | ✓ | [Bearbeiten](cards/2111_arbre.yml) |
 | 2112 | univers | Universum | 24 |  | [Bearbeiten](cards/2112_univers.yml) |
 | 2113 | aéroport | Flughafen | 12 | ✓ | [Bearbeiten](cards/2113_aéroport.yml) |
-| 2114 | sauter | springen | 59 |  | [Bearbeiten](cards/2114_sauter.yml) |
+| 2114 | sauter | springen | 59 | ✓ | [Bearbeiten](cards/2114_sauter.yml) |
 | 2115 | chasse | Jagd | 52 | ✓ | [Bearbeiten](cards/2115_chasse.yml) |
 | 2116 | collège | (≈)Sekundarschule [Frankreich] | 20 | ✓ | [Bearbeiten](cards/2116_collège.yml) |
 | 2117 | garantie | Garantie | 42 |  | [Bearbeiten](cards/2117_garantie.yml) |
@@ -2193,7 +2193,7 @@
 | 2191 | plastique | Kunststoff | 34 | ✓ | [Bearbeiten](cards/2191_plastique.yml) |
 | 2192 | autonome | selbstständig, unabhängig | 25 |  | [Bearbeiten](cards/2192_autonome.yml) |
 | 2193 | héritage | Erbe, Erbschaft | 21 |  | [Bearbeiten](cards/2193_héritage.yml) |
-| 2194 | voyager | reisen | 18 |  | [Bearbeiten](cards/2194_voyager.yml) |
+| 2194 | voyager | reisen | 18 | ✓ | [Bearbeiten](cards/2194_voyager.yml) |
 | 2195 | électronique | Elektronik | 25 |  | [Bearbeiten](cards/2195_électronique.yml) |
 | 2196 | parallèle | Parallele | 36 |  | [Bearbeiten](cards/2196_parallèle.yml) |
 | 2197 | répartir | verteilen, aufteilen | 36 |  | [Bearbeiten](cards/2197_répartir.yml) |
@@ -2376,7 +2376,7 @@
 | 2374 | combattant | Kämpfer | 18 |  | [Bearbeiten](cards/2374_combattant.yml) |
 | 2375 | soupçonner | verdächtigen | 17 | ✓ | [Bearbeiten](cards/2375_soupçonner.yml) |
 | 2376 | merde | Scheiße | 33 |  | [Bearbeiten](cards/2376_merde.yml) |
-| 2377 | entrepreneur | Unternehmer | 18 |  | [Bearbeiten](cards/2377_entrepreneur.yml) |
+| 2377 | entrepreneur | Unternehmer | 18 | ✓ | [Bearbeiten](cards/2377_entrepreneur.yml) |
 | 2378 | exposition | Ausstellung | 37 |  | [Bearbeiten](cards/2378_exposition.yml) |
 | 2379 | marchand | Händler | 51 |  | [Bearbeiten](cards/2379_marchand.yml) |
 | 2380 | cri | Schrei | 39 |  | [Bearbeiten](cards/2380_cri.yml) |
@@ -2598,7 +2598,7 @@
 | 2596 | gravité | Ernst, Ausmaß; Schwerkraft | 26 |  | [Bearbeiten](cards/2596_gravité.yml) |
 | 2597 | pénétrer | eindringen, durchdringen | 44 |  | [Bearbeiten](cards/2597_pénétrer.yml) |
 | 2598 | civilisation | Zivilisation, Kultur | 18 |  | [Bearbeiten](cards/2598_civilisation.yml) |
-| 2599 | rouler | rollen, fahren | 63 |  | [Bearbeiten](cards/2599_rouler.yml) |
+| 2599 | rouler | rollen, fahren | 63 | ✓ | [Bearbeiten](cards/2599_rouler.yml) |
 | 2600 | technologique | technologisch | 11 |  | [Bearbeiten](cards/2600_technologique.yml) |
 | 2601 | heurter | (an-)stoßen, aufprallen | 47 | ✓ | [Bearbeiten](cards/2601_heurter.yml) |
 | 2602 | football | Fußball | 14 | ✓ | [Bearbeiten](cards/2602_football.yml) |
@@ -2645,7 +2645,7 @@
 | 2643 | sage | weise | 29 | ✓ | [Bearbeiten](cards/2643_sage.yml) |
 | 2644 | commandement | Befehl(-sgewalt) | 26 |  | [Bearbeiten](cards/2644_commandement.yml) |
 | 2645 | correspondant | entsprechend, zugehörig | 24 |  | [Bearbeiten](cards/2645_correspondant.yml) |
-| 2646 | grimper | (hoch-)klettern | 32 |  | [Bearbeiten](cards/2646_grimper.yml) |
+| 2646 | grimper | (hoch-)klettern | 32 | ✓ | [Bearbeiten](cards/2646_grimper.yml) |
 | 2647 | pause | Pause | 25 |  | [Bearbeiten](cards/2647_pause.yml) |
 | 2648 | répartition | Verteilung, Aufteilung | 21 | ✓ | [Bearbeiten](cards/2648_répartition.yml) |
 | 2649 | sacrifier | opfern | 34 |  | [Bearbeiten](cards/2649_sacrifier.yml) |
@@ -4116,7 +4116,7 @@
 | 4114 | oral | mündlich | 25 |  | [Bearbeiten](cards/4114_oral.yml) |
 | 4115 | téléviser | im Fernsehen übertragen | 11 |  | [Bearbeiten](cards/4115_téléviser.yml) |
 | 4116 | consolider | festigen, stärken | 23 |  | [Bearbeiten](cards/4116_consolider.yml) |
-| 4117 | muet | stumm | 41 |  | [Bearbeiten](cards/4117_muet.yml) |
+| 4117 | muet | stumm | 41 | ✓ | [Bearbeiten](cards/4117_muet.yml) |
 | 4118 | contrevenant | Zuwiderhandelnder | 11 |  | [Bearbeiten](cards/4118_contrevenant.yml) |
 | 4119 | offensive | Offensive | 19 |  | [Bearbeiten](cards/4119_offensive.yml) |
 | 4120 | routine | Routine | 20 |  | [Bearbeiten](cards/4120_routine.yml) |

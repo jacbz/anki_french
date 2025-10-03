@@ -29,7 +29,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 149.759 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1642 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 149.759 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1653 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -83,7 +83,7 @@ Insgesamt gibt es 5000 Karten mit 149.759 Beispielsätzen (durchschnittlich 30.0
 | 48 | où | wo | 62 | ✓ | [Bearbeiten](cards/0048_où.yml) |
 | 49 | fois | Mal, Zeit | 61 |  | [Bearbeiten](cards/0049_fois.yml) |
 | 50 | vous | ihr/Sie [Plural] | 61 | ✓ | [Bearbeiten](cards/0050_vous.yml) |
-| 51 | encore | noch, wieder | 55 |  | [Bearbeiten](cards/0051_encore.yml) |
+| 51 | encore | noch, wieder | 55 | ✓ | [Bearbeiten](cards/0051_encore.yml) |
 | 52 | nouveau | neu | 60 | ✓ | [Bearbeiten](cards/0052_nouveau.yml) |
 | 53 | aller | gehen | 61 | ✓ | [Bearbeiten](cards/0053_aller.yml) |
 | 54 | cela | es, das [unbestimmtes Demonstrativpro.] | 26 | ✓ | [Bearbeiten](cards/0054_cela.yml) |
@@ -129,7 +129,7 @@ Insgesamt gibt es 5000 Karten mit 149.759 Beispielsätzen (durchschnittlich 30.0
 | 94 | bon | gut | 62 | ✓ | [Bearbeiten](cards/0094_bon.yml) |
 | 95 | comprendre | verstehen | 60 | ✓ | [Bearbeiten](cards/0095_comprendre.yml) |
 | 96 | depuis | seit | 46 | ✓ | [Bearbeiten](cards/0096_depuis.yml) |
-| 97 | point | Punkt | 61 |  | [Bearbeiten](cards/0097_point.yml) |
+| 97 | point | Punkt | 61 | ✓ | [Bearbeiten](cards/0097_point.yml) |
 | 98 | ainsi | so, auf diese Weise | 30 | ✓ | [Bearbeiten](cards/0098_ainsi.yml) |
 | 99 | heure | Stunde, Uhrzeit | 58 | ✓ | [Bearbeiten](cards/0099_heure.yml) |
 | 100 | rester | bleiben | 60 | ✓ | [Bearbeiten](cards/0100_rester.yml) |
