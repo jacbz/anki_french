@@ -25,6 +25,7 @@ $h3-title-background: mix(hsl(201, 100%, 14%), white, 3%);
   --tip-color: #{$tip-color};
   --celebration-color: #{$celebration-color};
   --grammar-link-color: #3056a9;
+  --error-color: rgb(240, 57, 57);
   --section-title-background: #{$section-title-background};
   --section-within-section-title-background: #{$section-within-section-title-background};
   --h3-title-background: #{$h3-title-background};
@@ -43,6 +44,7 @@ $h3-title-background: mix(hsl(201, 100%, 14%), white, 3%);
   --tip-color: #{adjust-color($tip-color, $lightness: 5%)};
   --celebration-color: #{adjust-color($celebration-color, $lightness: 10%)};
   --grammar-link-color: #88a3e8 !important;
+  --error-color: rgb(255, 82, 82);
   --section-title-background: hsl(201, 100%, 18%);
   --section-within-section-title-background: hsl(201, 100%, 13%);
   --h3-title-background: #17272f;
@@ -397,6 +399,26 @@ span.no-break {
   font-style: italic;
 }
 
+.wrong {
+  font-weight: normal;
+  text-decoration: line-through;
+  text-decoration-line: line-through;
+  text-decoration-color: var(--error-color);
+
+  &::after {
+    content: "✗";
+    display:inline-block;
+    color: var(--error-color);
+    margin-left: 0.3em;
+    font-family: monospace;
+    line-height: 0;
+  }
+}
+
+.alternative {
+  opacity: 60%;
+}
+
 .spoiler {
   @include hover;
 
@@ -462,13 +484,7 @@ a {
   }
 
   &.red-link {
-    color: #bf3c2c !important;
-  }
-}
-
-.night_mode a {
-  &.red-link {
-    color: #fd7865 !important;
+    color: var(--error-color) !important;
   }
 }
 
@@ -1571,7 +1587,7 @@ $stagger-item-increment: 0.04s;
 **/
 .error-message {
   background: rgba(240, 57, 57, 0.1);
-  border: 1px solid rgb(240, 57, 57);
+  border: 1px solid var(--error-color);
   border-radius: 0.5em;
   padding: 1em;
   margin: 1em 0;
@@ -1598,7 +1614,7 @@ $stagger-item-increment: 0.04s;
   }
 
   a {
-    color: rgb(240, 57, 57);
+    color: var(--error-color);
     text-decoration: underline;
 
     &:hover {
@@ -1609,14 +1625,9 @@ $stagger-item-increment: 0.04s;
 
 .night_mode .error-message {
   background: rgba(240, 57, 57, 0.15);
-  border-color: rgb(255, 82, 82);
 
   .error-details {
     background: rgba(240, 57, 57, 0.15);
     border-color: rgba(255, 82, 82, 0.4);
-  }
-
-  a {
-    color: rgb(255, 82, 82);
   }
 }
