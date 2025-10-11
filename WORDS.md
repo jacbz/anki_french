@@ -1020,7 +1020,7 @@
 | 1018 | attaquer | angreifen | 53 |  | [Bearbeiten](cards/1018_attaquer.yml) |
 | 1019 | table | Tisch | 61 |  | [Bearbeiten](cards/1019_table.yml) |
 | 1020 | remonter | hinaufsteigen, zurückverfolgen | 59 |  | [Bearbeiten](cards/1020_remonter.yml) |
-| 1021 | certes | gewiss, sicherlich | 17 |  | [Bearbeiten](cards/1021_certes.yml) |
+| 1021 | certes | zugegeben, zwar | 17 |  | [Bearbeiten](cards/1021_certes.yml) |
 | 1022 | avril | April | 12 | ✓ | [Bearbeiten](cards/1022_avril.yml) |
 | 1023 | autrement | anders, sonst | 23 |  | [Bearbeiten](cards/1023_autrement.yml) |
 | 1024 | ferme | fest, sicher; Bauernhof | 61 | ✓ | [Bearbeiten](cards/1024_ferme.yml) |
@@ -1319,7 +1319,7 @@
 | 1317 | chapitre | Kapitel | 23 |  | [Bearbeiten](cards/1317_chapitre.yml) |
 | 1318 | quotidien | Alltag | 25 | ✓ | [Bearbeiten](cards/1318_quotidien.yml) |
 | 1319 | clairement | klar, offensichtlich | 13 |  | [Bearbeiten](cards/1319_clairement.yml) |
-| 1320 | joindre | zusammenfügen, verbinden | 54 | ✓ | [Bearbeiten](cards/1320_joindre.yml) |
+| 1320 | joindre | zusammenfügen, verbinden; [jdn.] erreichen | 54 | ✓ | [Bearbeiten](cards/1320_joindre.yml) |
 | 1321 | léger | leicht, dünn | 62 |  | [Bearbeiten](cards/1321_léger.yml) |
 | 1322 | permanent | dauerhaft, ständig | 31 | ✓ | [Bearbeiten](cards/1322_permanent.yml) |
 | 1323 | juge | Richter | 38 | ✓ | [Bearbeiten](cards/1323_juge.yml) |
@@ -2761,7 +2761,7 @@
 | 2759 | pêcheur | Fischer | 20 | ✓ | [Bearbeiten](cards/2759_pêcheur.yml) |
 | 2760 | amateur | Hobby-, -liebhaber | 26 | ✓ | [Bearbeiten](cards/2760_amateur.yml) |
 | 2761 | regret | Bedauern, Reue | 29 |  | [Bearbeiten](cards/2761_regret.yml) |
-| 2762 | accroissement | Anstieg, Zuwachs | 16 |  | [Bearbeiten](cards/2762_accroissement.yml) |
+| 2762 | accroissement | Steigerung, Zuwachs | 16 |  | [Bearbeiten](cards/2762_accroissement.yml) |
 | 2763 | trimestre | Quartal | 18 |  | [Bearbeiten](cards/2763_trimestre.yml) |
 | 2764 | onde | -welle, Woge | 39 |  | [Bearbeiten](cards/2764_onde.yml) |
 | 2765 | spatial | räumlich | 20 |  | [Bearbeiten](cards/2765_spatial.yml) |
@@ -3482,7 +3482,7 @@
 | 3480 | ennuyer | langweilen, nerven | 27 |  | [Bearbeiten](cards/3480_ennuyer.yml) |
 | 3481 | élan | Schwung, Anlauf | 28 |  | [Bearbeiten](cards/3481_élan.yml) |
 | 3482 | nominal | nominell | 27 |  | [Bearbeiten](cards/3482_nominal.yml) |
-| 3483 | manipuler | manipulieren | 22 |  | [Bearbeiten](cards/3483_manipuler.yml) |
+| 3483 | manipuler | handhaben, manipulieren | 22 |  | [Bearbeiten](cards/3483_manipuler.yml) |
 | 3484 | peiner | abmühen; enttäuschen | 22 |  | [Bearbeiten](cards/3484_peiner.yml) |
 | 3485 | renouvellement | Erneuerung | 21 |  | [Bearbeiten](cards/3485_renouvellement.yml) |
 | 3486 | noble | edel, adlig | 37 |  | [Bearbeiten](cards/3486_noble.yml) |
@@ -4895,7 +4895,7 @@
 | 4893 | craquer | krachen, brechen | 36 |  | [Bearbeiten](cards/4893_craquer.yml) |
 | 4894 | clarifier | klären | 15 |  | [Bearbeiten](cards/4894_clarifier.yml) |
 | 4895 | crête | [Tier] Kamm; Grat | 22 |  | [Bearbeiten](cards/4895_crête.yml) |
-| 4896 | traite | Wechsel, Handel | 26 |  | [Bearbeiten](cards/4896_traite.yml) |
+| 4896 | traite | Wechsel, Handel, Rate | 26 |  | [Bearbeiten](cards/4896_traite.yml) |
 | 4897 | démarrage | Start, Anlassen | 22 |  | [Bearbeiten](cards/4897_démarrage.yml) |
 | 4898 | oubli | Vergessen | 31 |  | [Bearbeiten](cards/4898_oubli.yml) |
 | 4899 | procès-verbal | Protokoll, Niederschrift | 18 | ✓ | [Bearbeiten](cards/4899_procès-verbal.yml) |
