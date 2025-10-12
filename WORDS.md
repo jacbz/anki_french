@@ -404,7 +404,7 @@
 | 402 | unique | (←) einzig(-e/r/s); (→) einzigartig | 35 | ✓ | [Bearbeiten](cards/0402_unique.yml) |
 | 403 | souhaiter | wünschen | 24 | ✓ | [Bearbeiten](cards/0403_souhaiter.yml) |
 | 404 | afin | damit, um ... zu | 16 | ✓ | [Bearbeiten](cards/0404_afin.yml) |
-| 405 | peine | Mühe, Strafe; kaum | 62 | ✓ | [Bearbeiten](cards/0405_peine.yml) |
+| 405 | peine | Mühe, Strafe; kaum | 62 |  | [Bearbeiten](cards/0405_peine.yml) |
 | 406 | malgré | trotz | 22 | ✓ | [Bearbeiten](cards/0406_malgré.yml) |
 | 407 | période | Zeitraum, Periode | 53 | ✓ | [Bearbeiten](cards/0407_période.yml) |
 | 408 | engager | anstellen, einstellen | 62 | ✓ | [Bearbeiten](cards/0408_engager.yml) |
@@ -538,7 +538,7 @@
 | 536 | sentir | fühlen, riechen | 60 | ✓ | [Bearbeiten](cards/0536_sentir.yml) |
 | 537 | payer | bezahlen | 60 | ✓ | [Bearbeiten](cards/0537_payer.yml) |
 | 538 | esprit | Geist, Verstand | 63 | ✓ | [Bearbeiten](cards/0538_esprit.yml) |
-| 539 | domaine | Bereich, Gebiet | 43 | ✓ | [Bearbeiten](cards/0539_domaine.yml) |
+| 539 | domaine | Bereich, Gebiet | 43 |  | [Bearbeiten](cards/0539_domaine.yml) |
 | 540 | diriger | leiten, steuern | 51 |  | [Bearbeiten](cards/0540_diriger.yml) |
 | 541 | noter | notieren, bemerken | 25 | ✓ | [Bearbeiten](cards/0541_noter.yml) |
 | 542 | nature | Natur | 61 | ✓ | [Bearbeiten](cards/0542_nature.yml) |
@@ -640,7 +640,7 @@
 | 638 | production | Produktion | 46 |  | [Bearbeiten](cards/0638_production.yml) |
 | 639 | ignorer | nicht wissen, ignorieren | 39 | ✓ | [Bearbeiten](cards/0639_ignorer.yml) |
 | 640 | directeur | Direktor | 41 | ✓ | [Bearbeiten](cards/0640_directeur.yml) |
-| 641 | santé | Gesundheit | 39 |  | [Bearbeiten](cards/0641_santé.yml) |
+| 641 | santé | Gesundheit | 39 | ✓ | [Bearbeiten](cards/0641_santé.yml) |
 | 642 | souffrir | leiden | 46 | ✓ | [Bearbeiten](cards/0642_souffrir.yml) |
 | 643 | précis | genau, klar | 29 | ✓ | [Bearbeiten](cards/0643_précis.yml) |
 | 644 | fixer | festlegen, befestigen | 61 |  | [Bearbeiten](cards/0644_fixer.yml) |
@@ -782,7 +782,7 @@
 | 780 | commun | gemeinsam; gewöhnlich | 62 | ✓ | [Bearbeiten](cards/0780_commun.yml) |
 | 781 | satisfaire | befriedigen, zufriedenstellen | 35 |  | [Bearbeiten](cards/0781_satisfaire.yml) |
 | 782 | intention | Absicht | 30 |  | [Bearbeiten](cards/0782_intention.yml) |
-| 783 | autorité | Autorität | 57 | ✓ | [Bearbeiten](cards/0783_autorité.yml) |
+| 783 | autorité | Autorität | 57 |  | [Bearbeiten](cards/0783_autorité.yml) |
 | 784 | anglais | englisch; Engländer | 29 | ✓ | [Bearbeiten](cards/0784_anglais.yml) |
 | 785 | échange | Austausch | 40 |  | [Bearbeiten](cards/0785_échange.yml) |
 | 786 | feu | Feuer | 60 | ✓ | [Bearbeiten](cards/0786_feu.yml) |
@@ -963,7 +963,7 @@
 | 961 | déterminer | bestimmen, festlegen | 34 |  | [Bearbeiten](cards/0961_déterminer.yml) |
 | 962 | budget | Haushalt, Etat | 31 |  | [Bearbeiten](cards/0962_budget.yml) |
 | 963 | fonder | gründen | 35 |  | [Bearbeiten](cards/0963_fonder.yml) |
-| 964 | structure | Struktur, Aufbau | 34 |  | [Bearbeiten](cards/0964_structure.yml) |
+| 964 | structure | Struktur, Aufbau | 34 | ✓ | [Bearbeiten](cards/0964_structure.yml) |
 | 965 | complet | vollständig, komplett | 48 | ✓ | [Bearbeiten](cards/0965_complet.yml) |
 | 966 | exercer | ausüben, trainieren | 47 |  | [Bearbeiten](cards/0966_exercer.yml) |
 | 967 | amour | Liebe | 60 | ✓ | [Bearbeiten](cards/0967_amour.yml) |
@@ -1416,7 +1416,7 @@
 | 1414 | solide | fest, stabil | 53 |  | [Bearbeiten](cards/1414_solide.yml) |
 | 1415 | correspondre | entsprechen, übereinstimmen | 31 | ✓ | [Bearbeiten](cards/1415_correspondre.yml) |
 | 1416 | navire | (großes) Schiff | 23 | ✓ | [Bearbeiten](cards/1416_navire.yml) |
-| 1417 | centaine | Hundert (ungefähr) | 23 | ✓ | [Bearbeiten](cards/1417_centaine.yml) |
+| 1417 | centaine | Hundert (ungefähr) | 23 |  | [Bearbeiten](cards/1417_centaine.yml) |
 | 1418 | explication | Erklärung | 23 |  | [Bearbeiten](cards/1418_explication.yml) |
 | 1419 | transmettre | übertragen, weitergeben | 39 |  | [Bearbeiten](cards/1419_transmettre.yml) |
 | 1420 | appareil | Gerät, Apparat | 40 |  | [Bearbeiten](cards/1420_appareil.yml) |
@@ -2119,7 +2119,7 @@
 | 2117 | garantie | Garantie | 42 |  | [Bearbeiten](cards/2117_garantie.yml) |
 | 2118 | morceau | Stück | 34 |  | [Bearbeiten](cards/2118_morceau.yml) |
 | 2119 | salarié | Arbeitnehmer | 17 | ✓ | [Bearbeiten](cards/2119_salarié.yml) |
-| 2120 | discipline | Disziplin | 30 |  | [Bearbeiten](cards/2120_discipline.yml) |
+| 2120 | discipline | Disziplin | 30 | ✓ | [Bearbeiten](cards/2120_discipline.yml) |
 | 2121 | explosion | Explosion | 24 |  | [Bearbeiten](cards/2121_explosion.yml) |
 | 2122 | peau | Haut | 60 | ✓ | [Bearbeiten](cards/2122_peau.yml) |
 | 2123 | commande | Bestellung, Befehl | 40 |  | [Bearbeiten](cards/2123_commande.yml) |
@@ -2437,7 +2437,7 @@
 | 2435 | oiseau | Vogel | 29 | ✓ | [Bearbeiten](cards/2435_oiseau.yml) |
 | 2436 | quarante | vierzig | 30 | ✓ | [Bearbeiten](cards/2436_quarante.yml) |
 | 2437 | sacrifice | Opfer(-ung) | 22 |  | [Bearbeiten](cards/2437_sacrifice.yml) |
-| 2438 | barrière | Schranke, Barriere | 28 |  | [Bearbeiten](cards/2438_barrière.yml) |
+| 2438 | barrière | Schranke, Barriere | 28 | ✓ | [Bearbeiten](cards/2438_barrière.yml) |
 | 2439 | biais | Schräge, Umweg, Verzerrung | 20 |  | [Bearbeiten](cards/2439_biais.yml) |
 | 2440 | feuille | Blatt | 48 |  | [Bearbeiten](cards/2440_feuille.yml) |
 | 2441 | délégation | Delegation | 21 |  | [Bearbeiten](cards/2441_délégation.yml) |
@@ -2529,7 +2529,7 @@
 | 2527 | primaire | Grund-; Grundschule | 42 |  | [Bearbeiten](cards/2527_primaire.yml) |
 | 2528 | vital | lebenswichtig, Lebens- | 23 |  | [Bearbeiten](cards/2528_vital.yml) |
 | 2529 | destinée | Schicksal, Bestimmung | 19 | ✓ | [Bearbeiten](cards/2529_destinée.yml) |
-| 2530 | patrimoine | Vermögen, Erbe | 21 | ✓ | [Bearbeiten](cards/2530_patrimoine.yml) |
+| 2530 | patrimoine | Vermögen, Erbe | 21 |  | [Bearbeiten](cards/2530_patrimoine.yml) |
 | 2531 | conforme | entsprechend, -gemäß | 26 |  | [Bearbeiten](cards/2531_conforme.yml) |
 | 2532 | adjoint | Stellvertreter, Assistent | 15 |  | [Bearbeiten](cards/2532_adjoint.yml) |
 | 2533 | ultime | (aller-)letzte(-r/s), äußerste(-r/s) | 14 |  | [Bearbeiten](cards/2533_ultime.yml) |
@@ -3911,7 +3911,7 @@
 | 3909 | terriblement | furchtbar, äußerst | 14 |  | [Bearbeiten](cards/3909_terriblement.yml) |
 | 3910 | main-d’œuvre | Arbeitskräfte | 16 | ✓ | [Bearbeiten](cards/3910_main-d’œuvre.yml) |
 | 3911 | invasion | Invasion | 20 |  | [Bearbeiten](cards/3911_invasion.yml) |
-| 3912 | orange | Orange | 24 | ✓ | [Bearbeiten](cards/3912_orange.yml) |
+| 3912 | orange | Orange [Farbe]; Orange [Frucht] | 24 | ✓ | [Bearbeiten](cards/3912_orange.yml) |
 | 3913 | jury | Jury | 18 |  | [Bearbeiten](cards/3913_jury.yml) |
 | 3914 | bœuf | Rind | 39 | ✓ | [Bearbeiten](cards/3914_bœuf.yml) |
 | 3915 | rallier | sich anschließen, vereinen | 30 |  | [Bearbeiten](cards/3915_rallier.yml) |
@@ -4338,7 +4338,7 @@
 | 4336 | tente | Zelt | 15 |  | [Bearbeiten](cards/4336_tente.yml) |
 | 4337 | goutte | Tropfen | 43 |  | [Bearbeiten](cards/4337_goutte.yml) |
 | 4338 | poussée | Druck, Schub, Stoß | 28 |  | [Bearbeiten](cards/4338_poussée.yml) |
-| 4339 | moine | Mönch | 17 | ✓ | [Bearbeiten](cards/4339_moine.yml) |
+| 4339 | moine | Mönch | 17 |  | [Bearbeiten](cards/4339_moine.yml) |
 | 4340 | modéré | gemäßigt | 22 |  | [Bearbeiten](cards/4340_modéré.yml) |
 | 4341 | négligeable | vernachlässigbar | 15 |  | [Bearbeiten](cards/4341_négligeable.yml) |
 | 4342 | vice | Laster, schlechte Angewohnheit | 28 |  | [Bearbeiten](cards/4342_vice.yml) |
