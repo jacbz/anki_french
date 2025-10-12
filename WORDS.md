@@ -1069,7 +1069,7 @@
 | 1067 | portée | Reichweite, Tragweite | 50 |  | [Bearbeiten](cards/1067_portée.yml) |
 | 1068 | élève | Schüler/in | 18 | ✓ | [Bearbeiten](cards/1068_élève.yml) |
 | 1069 | contrôler | kontrollieren | 29 |  | [Bearbeiten](cards/1069_contrôler.yml) |
-| 1070 | merci | danke | 36 |  | [Bearbeiten](cards/1070_merci.yml) |
+| 1070 | merci | danke | 36 | ✓ | [Bearbeiten](cards/1070_merci.yml) |
 | 1071 | certainement | bestimmt, (ganz) sicher | 17 | ✓ | [Bearbeiten](cards/1071_certainement.yml) |
 | 1072 | visite | Besuch | 50 |  | [Bearbeiten](cards/1072_visite.yml) |
 | 1073 | assemblée | Versammlung | 26 |  | [Bearbeiten](cards/1073_assemblée.yml) |
@@ -1138,7 +1138,7 @@
 | 1136 | février | Februar | 12 | ✓ | [Bearbeiten](cards/1136_février.yml) |
 | 1137 | mode | Methode; Mode | 62 | ✓ | [Bearbeiten](cards/1137_mode.yml) |
 | 1138 | tendre | zart, weich; ausstrecken | 64 | ✓ | [Bearbeiten](cards/1138_tendre.yml) |
-| 1139 | musique | Musik | 57 |  | [Bearbeiten](cards/1139_musique.yml) |
+| 1139 | musique | Musik | 57 | ✓ | [Bearbeiten](cards/1139_musique.yml) |
 | 1140 | gestion | Verwaltung, Management | 27 |  | [Bearbeiten](cards/1140_gestion.yml) |
 | 1141 | honneur | Ehre | 62 |  | [Bearbeiten](cards/1141_honneur.yml) |
 | 1142 | vaste | weit, ausgedehnt | 24 |  | [Bearbeiten](cards/1142_vaste.yml) |
@@ -1150,7 +1150,7 @@
 | 1148 | parfaitement | vollkommen, perfekt | 18 |  | [Bearbeiten](cards/1148_parfaitement.yml) |
 | 1149 | méthode | Methode | 33 |  | [Bearbeiten](cards/1149_méthode.yml) |
 | 1150 | professeur | Lehrer | 29 | ✓ | [Bearbeiten](cards/1150_professeur.yml) |
-| 1151 | envers | gegenüber; Rückseite | 35 |  | [Bearbeiten](cards/1151_envers.yml) |
+| 1151 | envers | gegenüber; Rückseite | 35 | ✓ | [Bearbeiten](cards/1151_envers.yml) |
 | 1152 | distribuer | verteilen | 33 |  | [Bearbeiten](cards/1152_distribuer.yml) |
 | 1153 | existence | Existenz | 28 |  | [Bearbeiten](cards/1153_existence.yml) |
 | 1154 | prétendre | behaupten; beanspruchen | 29 | ✓ | [Bearbeiten](cards/1154_prétendre.yml) |
@@ -1245,7 +1245,7 @@
 | 1243 | efficace | effizient | 20 |  | [Bearbeiten](cards/1243_efficace.yml) |
 | 1244 | intéressant | interessant | 28 |  | [Bearbeiten](cards/1244_intéressant.yml) |
 | 1245 | île | Insel | 21 | ✓ | [Bearbeiten](cards/1245_île.yml) |
-| 1246 | cité | Stadt, Altstadt, Siedlung | 26 |  | [Bearbeiten](cards/1246_cité.yml) |
+| 1246 | cité | Stadt, Altstadt, Siedlung | 26 | ✓ | [Bearbeiten](cards/1246_cité.yml) |
 | 1247 | carrière | Karriere | 26 | ✓ | [Bearbeiten](cards/1247_carrière.yml) |
 | 1248 | voter | wählen, abstimmen | 22 | ✓ | [Bearbeiten](cards/1248_voter.yml) |
 | 1249 | traité | Vertrag, Abkommen | 19 | ✓ | [Bearbeiten](cards/1249_traité.yml) |
@@ -1411,7 +1411,7 @@
 | 1409 | avion | Flugzeug | 43 | ✓ | [Bearbeiten](cards/1409_avion.yml) |
 | 1410 | minimum | Minimum | 39 |  | [Bearbeiten](cards/1410_minimum.yml) |
 | 1411 | criminel | Verbrecher | 33 | ✓ | [Bearbeiten](cards/1411_criminel.yml) |
-| 1412 | photo | Foto | 32 |  | [Bearbeiten](cards/1412_photo.yml) |
+| 1412 | photo | Foto | 32 | ✓ | [Bearbeiten](cards/1412_photo.yml) |
 | 1413 | précéder | vorausgehen | 25 |  | [Bearbeiten](cards/1413_précéder.yml) |
 | 1414 | solide | fest, stabil | 53 | ✓ | [Bearbeiten](cards/1414_solide.yml) |
 | 1415 | correspondre | entsprechen, übereinstimmen | 31 | ✓ | [Bearbeiten](cards/1415_correspondre.yml) |
@@ -2755,7 +2755,7 @@
 | 2753 | isolé | abgelegen, vereinzelnt | 23 |  | [Bearbeiten](cards/2753_isolé.yml) |
 | 2754 | revendiquer | fordern, beanspruchen | 26 | ✓ | [Bearbeiten](cards/2754_revendiquer.yml) |
 | 2755 | secouer | schütteln, rütteln | 34 |  | [Bearbeiten](cards/2755_secouer.yml) |
-| 2756 | bizarre | seltsam | 19 |  | [Bearbeiten](cards/2756_bizarre.yml) |
+| 2756 | bizarre | seltsam | 19 | ✓ | [Bearbeiten](cards/2756_bizarre.yml) |
 | 2757 | abus | Missbrauch | 25 |  | [Bearbeiten](cards/2757_abus.yml) |
 | 2758 | procédé | Verfahren, Methode | 21 | ✓ | [Bearbeiten](cards/2758_procédé.yml) |
 | 2759 | pêcheur | Fischer | 20 | ✓ | [Bearbeiten](cards/2759_pêcheur.yml) |
@@ -3204,7 +3204,7 @@
 | 3202 | propice | günstig, geeignet | 18 |  | [Bearbeiten](cards/3202_propice.yml) |
 | 3203 | chèque | Scheck, Gutschein | 25 |  | [Bearbeiten](cards/3203_chèque.yml) |
 | 3204 | explorer | erkunden, erforschen | 20 |  | [Bearbeiten](cards/3204_explorer.yml) |
-| 3205 | matériau | Werkstoff, Material | 20 |  | [Bearbeiten](cards/3205_matériau.yml) |
+| 3205 | matériau | Werkstoff, Material | 20 | ✓ | [Bearbeiten](cards/3205_matériau.yml) |
 | 3206 | dépendance | Abhängigkeit | 24 |  | [Bearbeiten](cards/3206_dépendance.yml) |
 | 3207 | nu | nackt | 56 |  | [Bearbeiten](cards/3207_nu.yml) |
 | 3208 | poignée | Griff; Handvoll | 26 |  | [Bearbeiten](cards/3208_poignée.yml) |
