@@ -29,7 +29,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 149.759 Beispielsätzen (durchschnittlich 30.0 pro Karte). 1950 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 149.759 Beispielsätzen (durchschnittlich 30.0 pro Karte). 2450 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -104,7 +104,7 @@ Insgesamt gibt es 5000 Karten mit 149.759 Beispielsätzen (durchschnittlich 30.0
 | 69 | voir | sehen | 58 | ✓ | [Bearbeiten](cards/0069_voir.yml) |
 | 70 | quelque | einige(-r/s) | 43 | ✓ | [Bearbeiten](cards/0070_quelque.yml) |
 | 71 | sans | ohne | 42 | ✓ | [Bearbeiten](cards/0071_sans.yml) |
-| 72 | raison | Vernunft, Grund | 61 |  | [Bearbeiten](cards/0072_raison.yml) |
+| 72 | raison | Vernunft, Grund | 61 | ✓ | [Bearbeiten](cards/0072_raison.yml) |
 | 73 | notre | unser | 22 | ✓ | [Bearbeiten](cards/0073_notre.yml) |
 | 74 | dont | dessen, von denen | 37 | ✓ | [Bearbeiten](cards/0074_dont.yml) |
 | 75 | non | nein | 62 | ✓ | [Bearbeiten](cards/0075_non.yml) |
