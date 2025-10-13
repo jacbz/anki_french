@@ -1108,9 +1108,9 @@
 | 1106 | convenir | passen; vereinbaren | 49 | ✓ | [Bearbeiten](cards/1106_convenir.yml) |
 | 1107 | logique | Logik | 33 |  | [Bearbeiten](cards/1107_logique.yml) |
 | 1108 | examiner | prüfen, untersuchen | 23 | ✓ | [Bearbeiten](cards/1108_examiner.yml) |
-| 1109 | soin | Sorgfalt, Pflege | 64 |  | [Bearbeiten](cards/1109_soin.yml) |
+| 1109 | soin | Sorgfalt, Pflege | 64 | ✓ | [Bearbeiten](cards/1109_soin.yml) |
 | 1110 | mesurer | messen | 47 |  | [Bearbeiten](cards/1110_mesurer.yml) |
-| 1111 | traitement | Behandlung | 45 |  | [Bearbeiten](cards/1111_traitement.yml) |
+| 1111 | traitement | Behandlung | 45 | ✓ | [Bearbeiten](cards/1111_traitement.yml) |
 | 1112 | jeudi | Donnerstag | 13 | ✓ | [Bearbeiten](cards/1112_jeudi.yml) |
 | 1113 | impliquer | einbeziehen, verwickeln | 24 | ✓ | [Bearbeiten](cards/1113_impliquer.yml) |
 | 1114 | science | Wissenschaft | 48 | ✓ | [Bearbeiten](cards/1114_science.yml) |
@@ -1198,7 +1198,7 @@
 | 1196 | commettre | begehen, verüben | 24 | ✓ | [Bearbeiten](cards/1196_commettre.yml) |
 | 1197 | précisément | genau, präzise | 19 |  | [Bearbeiten](cards/1197_précisément.yml) |
 | 1198 | soutien | Unterstützung | 24 |  | [Bearbeiten](cards/1198_soutien.yml) |
-| 1199 | urgence | Notfall, Dringlichkeit | 32 |  | [Bearbeiten](cards/1199_urgence.yml) |
+| 1199 | urgence | Notfall, Dringlichkeit | 32 | ✓ | [Bearbeiten](cards/1199_urgence.yml) |
 | 1200 | clé | Schlüssel | 54 | ✓ | [Bearbeiten](cards/1200_clé.yml) |
 | 1201 | enlever | ausziehen, wegnehmen | 60 | ✓ | [Bearbeiten](cards/1201_enlever.yml) |
 | 1202 | jeter | (weg-)werfen | 61 | ✓ | [Bearbeiten](cards/1202_jeter.yml) |
@@ -1856,7 +1856,7 @@
 | 1854 | émotion | Emotion | 19 | ✓ | [Bearbeiten](cards/1854_émotion.yml) |
 | 1855 | judiciaire | Justiz-, gerichtlich | 32 |  | [Bearbeiten](cards/1855_judiciaire.yml) |
 | 1856 | progresser | fortschreiten, vorankommen | 24 | ✓ | [Bearbeiten](cards/1856_progresser.yml) |
-| 1857 | secours | Hilfe, Rettungsdienst | 38 |  | [Bearbeiten](cards/1857_secours.yml) |
+| 1857 | secours | Hilfe, Rettungsdienst | 38 | ✓ | [Bearbeiten](cards/1857_secours.yml) |
 | 1858 | confronter | konfrontieren, gegenüberstellen | 20 |  | [Bearbeiten](cards/1858_confronter.yml) |
 | 1859 | strict | strikt, streng | 28 | ✓ | [Bearbeiten](cards/1859_strict.yml) |
 | 1860 | club | Klub, Verein | 22 |  | [Bearbeiten](cards/1860_club.yml) |
@@ -1985,7 +1985,7 @@
 | 1983 | dame | Dame | 47 | ✓ | [Bearbeiten](cards/1983_dame.yml) |
 | 1984 | joie | Freude | 41 | ✓ | [Bearbeiten](cards/1984_joie.yml) |
 | 1985 | durable | dauerhaft, nachhaltig | 17 |  | [Bearbeiten](cards/1985_durable.yml) |
-| 1986 | faim | Hunger | 28 |  | [Bearbeiten](cards/1986_faim.yml) |
+| 1986 | faim | Hunger | 28 | ✓ | [Bearbeiten](cards/1986_faim.yml) |
 | 1987 | excuser | entschuldigen | 31 |  | [Bearbeiten](cards/1987_excuser.yml) |
 | 1988 | recommander | empfehlen | 36 | ✓ | [Bearbeiten](cards/1988_recommander.yml) |
 | 1989 | concept | Konzept | 17 | ✓ | [Bearbeiten](cards/1989_concept.yml) |
@@ -2217,7 +2217,7 @@
 | 2215 | urbain | städtisch | 28 |  | [Bearbeiten](cards/2215_urbain.yml) |
 | 2216 | musée | Museum | 17 | ✓ | [Bearbeiten](cards/2216_musée.yml) |
 | 2217 | pluie | Regen | 41 | ✓ | [Bearbeiten](cards/2217_pluie.yml) |
-| 2218 | précaution | Vorsicht(-smaßnahme) | 24 |  | [Bearbeiten](cards/2218_précaution.yml) |
+| 2218 | précaution | Vorsicht(-smaßnahme) | 24 | ✓ | [Bearbeiten](cards/2218_précaution.yml) |
 | 2219 | anticiper | vorwegnehmen, vorhersehen | 25 |  | [Bearbeiten](cards/2219_anticiper.yml) |
 | 2220 | cheval | Pferd | 61 | ✓ | [Bearbeiten](cards/2220_cheval.yml) |
 | 2221 | communiqué | (Presse-)mitteilung | 13 |  | [Bearbeiten](cards/2221_communiqué.yml) |
@@ -2480,7 +2480,7 @@
 | 2478 | invité | Gast | 14 | ✓ | [Bearbeiten](cards/2478_invité.yml) |
 | 2479 | militant | Aktivist | 18 | ✓ | [Bearbeiten](cards/2479_militant.yml) |
 | 2480 | participant | Teilnehmer | 16 | ✓ | [Bearbeiten](cards/2480_participant.yml) |
-| 2481 | blessure | Verletzung | 25 |  | [Bearbeiten](cards/2481_blessure.yml) |
+| 2481 | blessure | Verletzung | 25 | ✓ | [Bearbeiten](cards/2481_blessure.yml) |
 | 2482 | privilégier | bevorzugen, begünstigen | 20 |  | [Bearbeiten](cards/2482_privilégier.yml) |
 | 2483 | midi | Mittag; Süden | 33 | ✓ | [Bearbeiten](cards/2483_midi.yml) |
 | 2484 | disque | Scheibe, Platte | 33 |  | [Bearbeiten](cards/2484_disque.yml) |
@@ -2520,7 +2520,7 @@
 | 2518 | capitaine | Kapitän | 21 |  | [Bearbeiten](cards/2518_capitaine.yml) |
 | 2519 | solliciter | anfragen, ersuchen | 30 | ✓ | [Bearbeiten](cards/2519_solliciter.yml) |
 | 2520 | convoquer | einberufen | 17 | ✓ | [Bearbeiten](cards/2520_convoquer.yml) |
-| 2521 | prévention | Vorbeugung | 28 |  | [Bearbeiten](cards/2521_prévention.yml) |
+| 2521 | prévention | Vorbeugung | 28 | ✓ | [Bearbeiten](cards/2521_prévention.yml) |
 | 2522 | terrestre | Erd-, Land- | 27 |  | [Bearbeiten](cards/2522_terrestre.yml) |
 | 2523 | utilisateur | Benutzer | 13 | ✓ | [Bearbeiten](cards/2523_utilisateur.yml) |
 | 2524 | obligatoire | verpflichtend | 17 |  | [Bearbeiten](cards/2524_obligatoire.yml) |
@@ -2875,7 +2875,7 @@
 | 2873 | pente | Hang, Neigung | 32 | ✓ | [Bearbeiten](cards/2873_pente.yml) |
 | 2874 | album | Album | 20 |  | [Bearbeiten](cards/2874_album.yml) |
 | 2875 | mixte | gemischt | 22 |  | [Bearbeiten](cards/2875_mixte.yml) |
-| 2876 | clinique | Klinik | 20 |  | [Bearbeiten](cards/2876_clinique.yml) |
+| 2876 | clinique | Klinik | 20 | ✓ | [Bearbeiten](cards/2876_clinique.yml) |
 | 2877 | spectateur | Zuschauer | 16 | ✓ | [Bearbeiten](cards/2877_spectateur.yml) |
 | 2878 | axe | Achse | 32 |  | [Bearbeiten](cards/2878_axe.yml) |
 | 2879 | chasseur | Jäger | 29 | ✓ | [Bearbeiten](cards/2879_chasseur.yml) |
@@ -2921,7 +2921,7 @@
 | 2919 | vaincre | (be-)siegen, bezwingen | 27 |  | [Bearbeiten](cards/2919_vaincre.yml) |
 | 2920 | pétition | Petition | 14 |  | [Bearbeiten](cards/2920_pétition.yml) |
 | 2921 | renseigner | Auskunft geben, informieren | 25 | ✓ | [Bearbeiten](cards/2921_renseigner.yml) |
-| 2922 | ordonnance | Verordnung, [ärztliches] Rezept | 41 |  | [Bearbeiten](cards/2922_ordonnance.yml) |
+| 2922 | ordonnance | Verordnung, [ärztliches] Rezept | 41 | ✓ | [Bearbeiten](cards/2922_ordonnance.yml) |
 | 2923 | aile | Flügel | 40 |  | [Bearbeiten](cards/2923_aile.yml) |
 | 2924 | température | Temperatur | 26 | ✓ | [Bearbeiten](cards/2924_température.yml) |
 | 2925 | coupe | Schale; Pokal; Schnitt | 57 | ✓ | [Bearbeiten](cards/2925_coupe.yml) |
@@ -3108,7 +3108,7 @@
 | 3106 | décrocher | abnehmen; ergattern | 35 |  | [Bearbeiten](cards/3106_décrocher.yml) |
 | 3107 | rembourser | zurückzahlen, erstatten | 20 |  | [Bearbeiten](cards/3107_rembourser.yml) |
 | 3108 | adhérer | beitreten, zustimmen | 19 |  | [Bearbeiten](cards/3108_adhérer.yml) |
-| 3109 | défenseur | Verteidiger | 18 | ✓ | [Bearbeiten](cards/3109_défenseur.yml) |
+| 3109 | défenseur | Verteidiger | 18 |  | [Bearbeiten](cards/3109_défenseur.yml) |
 | 3110 | citation | Zitat | 20 |  | [Bearbeiten](cards/3110_citation.yml) |
 | 3111 | reconstruction | Wiederaufbau | 11 |  | [Bearbeiten](cards/3111_reconstruction.yml) |
 | 3112 | retomber | (wieder) hinfallen, aufkommen | 50 | ✓ | [Bearbeiten](cards/3112_retomber.yml) |
@@ -3235,7 +3235,7 @@
 | 3233 | bulletin | Zeugnis, Bericht, Schein | 31 |  | [Bearbeiten](cards/3233_bulletin.yml) |
 | 3234 | flotte | Flotte | 22 |  | [Bearbeiten](cards/3234_flotte.yml) |
 | 3235 | décourager | entmutigen | 21 |  | [Bearbeiten](cards/3235_décourager.yml) |
-| 3236 | poussière | Staub | 35 | ✓ | [Bearbeiten](cards/3236_poussière.yml) |
+| 3236 | poussière | Staub | 35 |  | [Bearbeiten](cards/3236_poussière.yml) |
 | 3237 | fierté | Stolz | 20 | ✓ | [Bearbeiten](cards/3237_fierté.yml) |
 | 3238 | épisode | Episode, Folge | 20 |  | [Bearbeiten](cards/3238_épisode.yml) |
 | 3239 | détacher | lösen, abtrennen | 60 |  | [Bearbeiten](cards/3239_détacher.yml) |
@@ -3395,7 +3395,7 @@
 | 3393 | sommeil | Schlaf, Müdigkeit | 35 | ✓ | [Bearbeiten](cards/3393_sommeil.yml) |
 | 3394 | automatiquement | automatisch; unweigerlich | 13 |  | [Bearbeiten](cards/3394_automatiquement.yml) |
 | 3395 | balance | Bilanz; Waage | 46 |  | [Bearbeiten](cards/3395_balance.yml) |
-| 3396 | dépression | Depression | 22 |  | [Bearbeiten](cards/3396_dépression.yml) |
+| 3396 | dépression | Depression | 22 | ✓ | [Bearbeiten](cards/3396_dépression.yml) |
 | 3397 | pompe | Pumpe | 39 | ✓ | [Bearbeiten](cards/3397_pompe.yml) |
 | 3398 | contestation | Anfechtung, Protest | 16 |  | [Bearbeiten](cards/3398_contestation.yml) |
 | 3399 | inconvénient | Nachteil, unangenehme Folge | 15 | ✓ | [Bearbeiten](cards/3399_inconvénient.yml) |
@@ -3603,7 +3603,7 @@
 | 3601 | ange | Engel | 28 | ✓ | [Bearbeiten](cards/3601_ange.yml) |
 | 3602 | guérir | heilen | 35 |  | [Bearbeiten](cards/3602_guérir.yml) |
 | 3603 | immobilier | Immobilien- | 25 |  | [Bearbeiten](cards/3603_immobilier.yml) |
-| 3604 | certificat | Bescheinigung | 25 |  | [Bearbeiten](cards/3604_certificat.yml) |
+| 3604 | certificat | Bescheinigung | 25 | ✓ | [Bearbeiten](cards/3604_certificat.yml) |
 | 3605 | contaminer | anstecken, verseuchen | 17 |  | [Bearbeiten](cards/3605_contaminer.yml) |
 | 3606 | pénurie | Knappheit | 26 |  | [Bearbeiten](cards/3606_pénurie.yml) |
 | 3607 | tirage | Ziehung; Druck | 35 |  | [Bearbeiten](cards/3607_tirage.yml) |
@@ -3820,7 +3820,7 @@
 | 3818 | touristique | touristisch | 18 |  | [Bearbeiten](cards/3818_touristique.yml) |
 | 3819 | obscur | dunkel, unklar | 29 |  | [Bearbeiten](cards/3819_obscur.yml) |
 | 3820 | cou | Hals | 29 | ✓ | [Bearbeiten](cards/3820_cou.yml) |
-| 3821 | invention | Erfindung | 28 |  | [Bearbeiten](cards/3821_invention.yml) |
+| 3821 | invention | Erfindung | 28 | ✓ | [Bearbeiten](cards/3821_invention.yml) |
 | 3822 | boucle | Schleife, Schlaufe | 33 |  | [Bearbeiten](cards/3822_boucle.yml) |
 | 3823 | flou | Verschwommenheit; verschwommen | 31 |  | [Bearbeiten](cards/3823_flou.yml) |
 | 3824 | redire | erneut sagen, weitererzählen | 21 | ✓ | [Bearbeiten](cards/3824_redire.yml) |
@@ -3887,7 +3887,7 @@
 | 3885 | virtuel | virtuell | 22 |  | [Bearbeiten](cards/3885_virtuel.yml) |
 | 3886 | gagnant | Gewinner | 24 | ✓ | [Bearbeiten](cards/3886_gagnant.yml) |
 | 3887 | nettoyer | reinigen | 32 |  | [Bearbeiten](cards/3887_nettoyer.yml) |
-| 3888 | diagnostic | Diagnose, Beurteilung | 17 |  | [Bearbeiten](cards/3888_diagnostic.yml) |
+| 3888 | diagnostic | Diagnose, Beurteilung | 17 | ✓ | [Bearbeiten](cards/3888_diagnostic.yml) |
 | 3889 | poing | Faust | 21 | ✓ | [Bearbeiten](cards/3889_poing.yml) |
 | 3890 | étiquette | Etikett | 23 |  | [Bearbeiten](cards/3890_étiquette.yml) |
 | 3891 | tante | Tante | 14 | ✓ | [Bearbeiten](cards/3891_tante.yml) |
@@ -4012,7 +4012,7 @@
 | 4010 | exil | Exil | 19 |  | [Bearbeiten](cards/4010_exil.yml) |
 | 4011 | artisan | Handwerker | 17 | ✓ | [Bearbeiten](cards/4011_artisan.yml) |
 | 4012 | rassurant | beruhigend, zuversichtlich | 15 |  | [Bearbeiten](cards/4012_rassurant.yml) |
-| 4013 | remède | Heilmittel, Abhilfe | 29 |  | [Bearbeiten](cards/4013_remède.yml) |
+| 4013 | remède | Heilmittel, Abhilfe | 29 | ✓ | [Bearbeiten](cards/4013_remède.yml) |
 | 4014 | composant | Bestandteil | 22 | ✓ | [Bearbeiten](cards/4014_composant.yml) |
 | 4015 | économiquement | wirtschaftlich, sparsam | 13 |  | [Bearbeiten](cards/4015_économiquement.yml) |
 | 4016 | hurler | brüllen, schreien, heulen | 32 | ✓ | [Bearbeiten](cards/4016_hurler.yml) |
@@ -4101,7 +4101,7 @@
 | 4099 | émerger | auftauchen, hervorkommen | 22 | ✓ | [Bearbeiten](cards/4099_émerger.yml) |
 | 4100 | instruire | belehren; ermitteln | 31 | ✓ | [Bearbeiten](cards/4100_instruire.yml) |
 | 4101 | équité | Fairness⁠, Billigkeit | 18 | ✓ | [Bearbeiten](cards/4101_équité.yml) |
-| 4102 | inconscient | unbewusst, bewusstlos | 28 |  | [Bearbeiten](cards/4102_inconscient.yml) |
+| 4102 | inconscient | unbewusst, bewusstlos | 28 | ✓ | [Bearbeiten](cards/4102_inconscient.yml) |
 | 4103 | chaleureux | herzlich | 15 |  | [Bearbeiten](cards/4103_chaleureux.yml) |
 | 4104 | déguiser | verkleiden | 20 | ✓ | [Bearbeiten](cards/4104_déguiser.yml) |
 | 4105 | fièvre | Fieber | 30 | ✓ | [Bearbeiten](cards/4105_fièvre.yml) |
@@ -4228,7 +4228,7 @@
 | 4226 | reçu | Quittung; üblich | 22 |  | [Bearbeiten](cards/4226_reçu.yml) |
 | 4227 | civiliser | zivilisieren | 14 |  | [Bearbeiten](cards/4227_civiliser.yml) |
 | 4228 | relance | Wiederbelebung, Aufschwung | 20 |  | [Bearbeiten](cards/4228_relance.yml) |
-| 4229 | dose | Dosis | 26 |  | [Bearbeiten](cards/4229_dose.yml) |
+| 4229 | dose | Dosis | 26 | ✓ | [Bearbeiten](cards/4229_dose.yml) |
 | 4230 | loyer | Miete | 20 |  | [Bearbeiten](cards/4230_loyer.yml) |
 | 4231 | distorsion | Verzerrung | 15 |  | [Bearbeiten](cards/4231_distorsion.yml) |
 | 4232 | octroyer | gewähren, bewilligen | 14 |  | [Bearbeiten](cards/4232_octroyer.yml) |
@@ -4253,7 +4253,7 @@
 | 4251 | complément | Ergänzung | 24 |  | [Bearbeiten](cards/4251_complément.yml) |
 | 4252 | initialement | ursprünglich, anfänglich | 12 |  | [Bearbeiten](cards/4252_initialement.yml) |
 | 4253 | comédien | Schauspieler [Theater] | 18 | ✓ | [Bearbeiten](cards/4253_comédien.yml) |
-| 4254 | successeur | Nachfolger | 16 | ✓ | [Bearbeiten](cards/4254_successeur.yml) |
+| 4254 | successeur | Nachfolger | 16 |  | [Bearbeiten](cards/4254_successeur.yml) |
 | 4255 | méfiance | Misstrauen | 14 | ✓ | [Bearbeiten](cards/4255_méfiance.yml) |
 | 4256 | replier | (wieder) zusammenfalten | 35 | ✓ | [Bearbeiten](cards/4256_replier.yml) |
 | 4257 | vérificateur | Prüfer | 17 | ✓ | [Bearbeiten](cards/4257_vérificateur.yml) |
@@ -4805,7 +4805,7 @@
 | 4803 | blâmer | tadeln, beschuldigen | 15 |  | [Bearbeiten](cards/4803_blâmer.yml) |
 | 4804 | duc | Herzog | 15 | ✓ | [Bearbeiten](cards/4804_duc.yml) |
 | 4805 | raciste | rassistisch | 12 |  | [Bearbeiten](cards/4805_raciste.yml) |
-| 4806 | stress | Stress | 19 |  | [Bearbeiten](cards/4806_stress.yml) |
+| 4806 | stress | Stress | 19 | ✓ | [Bearbeiten](cards/4806_stress.yml) |
 | 4807 | inexistant | nicht vorhanden | 17 |  | [Bearbeiten](cards/4807_inexistant.yml) |
 | 4808 | théoriquement | in der Theorie | 15 |  | [Bearbeiten](cards/4808_théoriquement.yml) |
 | 4809 | danois | dänisch; Däne | 14 | ✓ | [Bearbeiten](cards/4809_danois.yml) |
@@ -4863,7 +4863,7 @@
 | 4861 | caresser | streicheln | 22 |  | [Bearbeiten](cards/4861_caresser.yml) |
 | 4862 | hymne | Hymne | 19 |  | [Bearbeiten](cards/4862_hymne.yml) |
 | 4863 | sécuritaire | Sicherheits-, sicher | 14 | ✓ | [Bearbeiten](cards/4863_sécuritaire.yml) |
-| 4864 | famine | Hungersnot | 13 |  | [Bearbeiten](cards/4864_famine.yml) |
+| 4864 | famine | Hungersnot | 13 | ✓ | [Bearbeiten](cards/4864_famine.yml) |
 | 4865 | écrier | [vor Emotion] rufen | 13 | ✓ | [Bearbeiten](cards/4865_écrier.yml) |
 | 4866 | précipitation | Hast; Niederschlag | 17 | ✓ | [Bearbeiten](cards/4866_précipitation.yml) |
 | 4867 | caution | Bürgschaft, Kaution | 26 |  | [Bearbeiten](cards/4867_caution.yml) |
@@ -4876,7 +4876,7 @@
 | 4874 | foudre | Blitzschlag | 28 | ✓ | [Bearbeiten](cards/4874_foudre.yml) |
 | 4875 | justesse | Genauigkeit, Richtigkeit | 26 | ✓ | [Bearbeiten](cards/4875_justesse.yml) |
 | 4876 | rente | Rente | 27 |  | [Bearbeiten](cards/4876_rente.yml) |
-| 4877 | hépatite | Hepatitis | 15 |  | [Bearbeiten](cards/4877_hépatite.yml) |
+| 4877 | hépatite | Hepatitis | 15 | ✓ | [Bearbeiten](cards/4877_hépatite.yml) |
 | 4878 | blindé | gepanzert | 21 | ✓ | [Bearbeiten](cards/4878_blindé.yml) |
 | 4879 | clan | Clan | 15 |  | [Bearbeiten](cards/4879_clan.yml) |
 | 4880 | accélération | Beschleunigung | 15 |  | [Bearbeiten](cards/4880_accélération.yml) |
@@ -4984,7 +4984,7 @@
 | 4982 | dépouiller | berauben; abstreifen | 40 |  | [Bearbeiten](cards/4982_dépouiller.yml) |
 | 4983 | céréale | Getreide | 15 | ✓ | [Bearbeiten](cards/4983_céréale.yml) |
 | 4984 | aménager | einrichten, anlegen, umbauen | 21 |  | [Bearbeiten](cards/4984_aménager.yml) |
-| 4985 | agitation | Unruhe, Aufregung, Treiben | 20 |  | [Bearbeiten](cards/4985_agitation.yml) |
+| 4985 | agitation | Unruhe, Aufregung, Treiben | 20 | ✓ | [Bearbeiten](cards/4985_agitation.yml) |
 | 4986 | exode | Massenauswanderung | 17 |  | [Bearbeiten](cards/4986_exode.yml) |
 | 4987 | aire | Fläche, Bereich, Platz | 24 | ✓ | [Bearbeiten](cards/4987_aire.yml) |
 | 4988 | orgueil | Hochmut, Stolz | 18 | ✓ | [Bearbeiten](cards/4988_orgueil.yml) |
