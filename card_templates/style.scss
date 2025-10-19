@@ -1250,6 +1250,17 @@ small {
   font-weight: normal !important;
 }
 
+.emoji {
+  line-height: 0;
+  font-size: 90%;
+  user-select: none;
+  -webkit-user-select: none;
+
+  &::before {
+    content: "\2002";
+  }
+}
+
 /**
   Conjugations
   -----------------------------------------------

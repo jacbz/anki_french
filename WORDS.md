@@ -430,7 +430,7 @@
 | 428 | résultat | Ergebnis | 44 |  | [Bearbeiten](cards/0428_résultat.yml) |
 | 429 | écouter | hören, zuhören | 47 | ✓ | [Bearbeiten](cards/0429_écouter.yml) |
 | 430 | terre | Erde, Land | 60 | ✓ | [Bearbeiten](cards/0430_terre.yml) |
-| 431 | valoir | kosten, wert sein | 60 | ✓ | [Bearbeiten](cards/0431_valoir.yml) |
+| 431 | valoir | wert sein, kosten | 60 | ✓ | [Bearbeiten](cards/0431_valoir.yml) |
 | 432 | dollar | Dollar | 12 | ✓ | [Bearbeiten](cards/0432_dollar.yml) |
 | 433 | intérieur | Innere | 58 | ✓ | [Bearbeiten](cards/0433_intérieur.yml) |
 | 434 | page | (Buch-)seite | 46 | ✓ | [Bearbeiten](cards/0434_page.yml) |
@@ -2154,7 +2154,7 @@
 | 2152 | déclencher | auslösen | 21 |  | [Bearbeiten](cards/2152_déclencher.yml) |
 | 2153 | uni | vereint | 28 |  | [Bearbeiten](cards/2153_uni.yml) |
 | 2154 | connexion | Verbindung | 17 |  | [Bearbeiten](cards/2154_connexion.yml) |
-| 2155 | écouler | absetzen, fließen | 27 | ✓ | [Bearbeiten](cards/2155_écouler.yml) |
+| 2155 | écouler | absetzen; [se] fließen | 27 | ✓ | [Bearbeiten](cards/2155_écouler.yml) |
 | 2156 | option | Option | 25 |  | [Bearbeiten](cards/2156_option.yml) |
 | 2157 | pétrole | (Erd-)öl | 19 | ✓ | [Bearbeiten](cards/2157_pétrole.yml) |
 | 2158 | laboratoire | Labor | 23 | ✓ | [Bearbeiten](cards/2158_laboratoire.yml) |
@@ -3483,7 +3483,7 @@
 | 3481 | élan | Schwung, Anlauf | 28 |  | [Bearbeiten](cards/3481_élan.yml) |
 | 3482 | nominal | nominell | 27 |  | [Bearbeiten](cards/3482_nominal.yml) |
 | 3483 | manipuler | handhaben, manipulieren | 22 |  | [Bearbeiten](cards/3483_manipuler.yml) |
-| 3484 | peiner | abmühen; enttäuschen | 22 |  | [Bearbeiten](cards/3484_peiner.yml) |
+| 3484 | peiner | sich abmühen; enttäuschen | 22 |  | [Bearbeiten](cards/3484_peiner.yml) |
 | 3485 | renouvellement | Erneuerung | 21 |  | [Bearbeiten](cards/3485_renouvellement.yml) |
 | 3486 | noble | edel, adlig | 37 |  | [Bearbeiten](cards/3486_noble.yml) |
 | 3487 | hebdomadaire | wöchentlich; Wochenzeitschrift | 20 |  | [Bearbeiten](cards/3487_hebdomadaire.yml) |
@@ -3911,7 +3911,7 @@
 | 3909 | terriblement | furchtbar, äußerst | 14 |  | [Bearbeiten](cards/3909_terriblement.yml) |
 | 3910 | main-d’œuvre | Arbeitskräfte | 16 | ✓ | [Bearbeiten](cards/3910_main-d’œuvre.yml) |
 | 3911 | invasion | Invasion | 20 |  | [Bearbeiten](cards/3911_invasion.yml) |
-| 3912 | orange | Orange [Farbe]; Orange [Frucht] | 24 | ✓ | [Bearbeiten](cards/3912_orange.yml) |
+| 3912 | orange | <span class="disamb">un: </span>Orange [Farbe]; <span class="disamb">une: </span>Orange [Frucht] | 24 | ✓ | [Bearbeiten](cards/3912_orange.yml) |
 | 3913 | jury | Jury | 18 | ✓ | [Bearbeiten](cards/3913_jury.yml) |
 | 3914 | bœuf | Rind | 39 | ✓ | [Bearbeiten](cards/3914_bœuf.yml) |
 | 3915 | rallier | sich anschließen, vereinen | 30 |  | [Bearbeiten](cards/3915_rallier.yml) |
