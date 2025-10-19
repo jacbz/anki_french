@@ -559,6 +559,17 @@ hr {
     &.hidden {
       opacity: 0;
       pointer-events: none;
+
+      .overlay-divider {
+        display: none;
+      }
+    }
+
+    .overlay-buttons-row {
+      display: flex;
+      flex: 1;
+      flex-direction: row;
+      width: 100%;
     }
 
     .overlay-button {
@@ -575,11 +586,10 @@ hr {
 
     .overlay-button-lightning {
       flex: 1;
+    }
 
-      .svg-icon {
-        width: 30px;
-        height: 30px;
-      }
+    .overlay-button-play {
+      flex: 1;
     }
 
     .overlay-button-cloze {
@@ -595,6 +605,11 @@ hr {
       height: 3px;
       background-color: white;
       width: 100%;
+
+      &.vertical {
+        height: 100%;
+        width: 1px;
+      }
     }
   }
 
@@ -643,6 +658,11 @@ hr {
     .overlay-divider {
       background-color: rgba(255, 255, 255, 0.4);
       height: 1px;
+
+      &.vertical {
+        width: 1px;
+        height: 100%;
+      }
     }
   }
 }
