@@ -1985,7 +1985,7 @@
 | 1983 | dame | Dame | 47 | ✓ | [Bearbeiten](cards/1983_dame.yml) |
 | 1984 | joie | Freude | 41 | ✓ | [Bearbeiten](cards/1984_joie.yml) |
 | 1985 | durable | dauerhaft, nachhaltig | 17 |  | [Bearbeiten](cards/1985_durable.yml) |
-| 1986 | faim | Hunger | 28 | ✓ | [Bearbeiten](cards/1986_faim.yml) |
+| 1986 | faim | Hunger | 28 |  | [Bearbeiten](cards/1986_faim.yml) |
 | 1987 | excuser | entschuldigen | 31 |  | [Bearbeiten](cards/1987_excuser.yml) |
 | 1988 | recommander | empfehlen | 36 | ✓ | [Bearbeiten](cards/1988_recommander.yml) |
 | 1989 | concept | Konzept | 17 | ✓ | [Bearbeiten](cards/1989_concept.yml) |
@@ -2769,7 +2769,7 @@
 | 2767 | éventuellement | eventuell, möglicherweise | 11 |  | [Bearbeiten](cards/2767_éventuellement.yml) |
 | 2768 | vache | Kuh; gemein | 62 | ✓ | [Bearbeiten](cards/2768_vache.yml) |
 | 2769 | gris | grau | 52 | ✓ | [Bearbeiten](cards/2769_gris.yml) |
-| 2770 | aise | Wohlbefinden, Bequemlichkeit | 35 | ✓ | [Bearbeiten](cards/2770_aise.yml) |
+| 2770 | aise | Wohlbefinden, Bequemlichkeit | 35 |  | [Bearbeiten](cards/2770_aise.yml) |
 | 2771 | agression | Überfall | 20 | ✓ | [Bearbeiten](cards/2771_agression.yml) |
 | 2772 | loisir | Freizeit | 24 | ✓ | [Bearbeiten](cards/2772_loisir.yml) |
 | 2773 | chaleur | Hitze, Wärme | 41 | ✓ | [Bearbeiten](cards/2773_chaleur.yml) |
@@ -3346,7 +3346,7 @@
 | 3344 | exigeant | anspruchsvoll | 19 |  | [Bearbeiten](cards/3344_exigeant.yml) |
 | 3345 | primitif | ursprünglich, primitiv | 39 |  | [Bearbeiten](cards/3345_primitif.yml) |
 | 3346 | lune | Mond | 38 | ✓ | [Bearbeiten](cards/3346_lune.yml) |
-| 3347 | mention | Erwähnung, Vermerk | 22 |  | [Bearbeiten](cards/3347_mention.yml) |
+| 3347 | mention | Erwähnung, Vermerk | 22 | ✓ | [Bearbeiten](cards/3347_mention.yml) |
 | 3348 | pertinent | treffend, passend | 17 |  | [Bearbeiten](cards/3348_pertinent.yml) |
 | 3349 | brièvement | kurz, knapp | 12 |  | [Bearbeiten](cards/3349_brièvement.yml) |
 | 3350 | actionnaire | Aktionär | 24 | ✓ | [Bearbeiten](cards/3350_actionnaire.yml) |
@@ -3483,7 +3483,7 @@
 | 3481 | élan | Schwung, Anlauf | 28 |  | [Bearbeiten](cards/3481_élan.yml) |
 | 3482 | nominal | nominell | 27 |  | [Bearbeiten](cards/3482_nominal.yml) |
 | 3483 | manipuler | handhaben, manipulieren | 22 |  | [Bearbeiten](cards/3483_manipuler.yml) |
-| 3484 | peiner | sich abmühen; enttäuschen | 22 |  | [Bearbeiten](cards/3484_peiner.yml) |
+| 3484 | peiner | sich abmühen; enttäuschen | 22 | ✓ | [Bearbeiten](cards/3484_peiner.yml) |
 | 3485 | renouvellement | Erneuerung | 21 |  | [Bearbeiten](cards/3485_renouvellement.yml) |
 | 3486 | noble | edel, adlig | 37 |  | [Bearbeiten](cards/3486_noble.yml) |
 | 3487 | hebdomadaire | wöchentlich; Wochenzeitschrift | 20 |  | [Bearbeiten](cards/3487_hebdomadaire.yml) |
@@ -4764,7 +4764,7 @@
 | 4762 | retenue | Zurückhaltung, Einbehaltung | 31 |  | [Bearbeiten](cards/4762_retenue.yml) |
 | 4763 | visée | Ziel, Absicht, Bestrebung | 16 |  | [Bearbeiten](cards/4763_visée.yml) |
 | 4764 | dénonciation | Anzeige, Denunziation | 19 |  | [Bearbeiten](cards/4764_dénonciation.yml) |
-| 4765 | plaie | Wunde | 24 |  | [Bearbeiten](cards/4765_plaie.yml) |
+| 4765 | plaie | Wunde | 24 | ✓ | [Bearbeiten](cards/4765_plaie.yml) |
 | 4766 | exiler | verbannen | 16 |  | [Bearbeiten](cards/4766_exiler.yml) |
 | 4767 | rocher | Felsen | 22 | ✓ | [Bearbeiten](cards/4767_rocher.yml) |
 | 4768 | mortalité | Sterblichkeit | 15 |  | [Bearbeiten](cards/4768_mortalité.yml) |
