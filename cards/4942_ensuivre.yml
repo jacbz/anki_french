@@ -76,8 +76,15 @@ Beispielsätze: |-
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
+  <p class="warning">In der modernen Sprache wird <span class="fr">s'ensuivre</span> oft als <span class="fr">en + suivre</span> analysiert. Daher findet man in zusammengesetzten Zeiten häufig <span class="fr">il s'en est suivi</span> statt der theoretisch korrekten Form <span class="fr">il s'est ensuivi</span>.</p>
+  <div class="examples">
+    <div class="fr">Une discussion animée s'en est suivie.</div>
+    <div class="de spoiler">Eine lebhafte Diskussion folgte darauf.</div>
+  </div>
+  <p>Aus demselben Grund wird <span class="fr">s'ensuivre de quelque chose</span> selten verwendet, da die Präposition <span class="fr">de</span> als redundant mit <span class="fr">en</span> empfunden wird.</p>
+  <hr>
   <div class="section">
-    <div class="section-title"><i>s'ensuivre</i> und <i>découler</i></div>
+    <div class="section-title"><i>s’ensuivre</i> und <i>découler</i></div>
     <div class="section-content">
       <p><span class="fr">S'ensuivre</span> bedeutet <span class="de">"folgen"</span> oder <span class="de">"sich ergeben"</span> und beschreibt eine direkte, oft unmittelbare Folge oder Konsequenz. Es wird meist unpersönlich verwendet.</p>
       <div class="examples">
@@ -96,4 +103,5 @@ Notiz: |-
       <p><span class="fr">S'ensuivre</span> betont die zeitliche Abfolge, während <span class="fr">découler</span> mehr den kausalen Ursprung hervorhebt.</p>
     </div>
   </div>
+  <!-- Grammar automatically added -->
   <grammar data-id="Reflexive Verben"></grammar>

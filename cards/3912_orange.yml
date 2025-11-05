@@ -4,10 +4,12 @@ Wort: orange
 Wortart: nf, nm, adj
 
 # Diese Felder gerne verbessern!
-Wort mit Artikel: une orange
+Wort mit Artikel: un/une orange
 Femininum / Plural: ''
 IPA: \o.ʁɑ̃ʒ\
-Definition: Orange
+Definition: |-
+  <span class="disamb">un: </span>Orange [Farbe]<br>
+  <span class="disamb">une: </span>Orange [Frucht]
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -91,5 +93,7 @@ Beispielsätze: |-
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
-  <grammar data-id="Essen"></grammar>
+  <!-- Grammar automatically added -->
+  <grammar data-id="Essen und Trinken"></grammar>
   <grammar data-id="Farben"></grammar>
+  <grammar data-id="Das Geschlecht bei bestimmten Wortendungen"></grammar>

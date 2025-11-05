@@ -431,8 +431,8 @@ function loadGrammar(id, into) {
 
   content.innerHTML += `<div class="github"><a href="${grammar.github[id]}">Auf GitHub bearbeiten</a></div>`;
   // highlight lemmas that match the current word
-  content.querySelectorAll(".marklemma").forEach(function (el) {
-    const normalize = (s) => (s ? s.normalize() : s);
+  content.querySelectorAll(".tag-lemma").forEach(function (el) {
+    const normalize = (s) => (s ? s.normalize().toLowerCase() : s);
     const text = el.textContent.trim();
     const lemmaAttr =
       el.dataset.lemma ||
@@ -443,7 +443,7 @@ function loadGrammar(id, into) {
       normalize(text) !== normalize(word) &&
       normalize(lemmaAttr) !== normalize(word)
     ) {
-      el.classList.remove("marklemma");
+      el.classList.remove("tag-lemma");
     }
   });
 
@@ -626,12 +626,16 @@ function showGrammarLibrary() {
   }
   setTimeout(() => {
     grammarLibrary.classList.remove("collapsed");
+    setTimeout(() => {
+      grammarSections.classList.remove("fly-in");
+    }, 500);
   }, 10);
 }
 
 if (grammar) {
   showHideGrammarLibraryButton.onclick = function () {
     window.scrollTo({ top: grammarLibrary.offsetTop, behavior: "smooth" });
+    grammarSections.classList.add("fly-in");
     showGrammarLibrary();
   };
   closeLibraryButton.onclick = function () {
@@ -912,34 +916,27 @@ function updateSectionButtons(section) {
     buttons.push(button);
   }
 
-  // 2. "Go to marked lemma" button
-  const marklemma = content.querySelector(".marklemma");
-  if (marklemma) {
-    const rect = marklemma.getBoundingClientRect();
-    const isOutOfView =
-      rect.top < content.getBoundingClientRect().top ||
-      rect.bottom > window.innerHeight;
+  // 2. "Go to tagged lemma" button
+  const tagLemma = content.querySelector(".tag-lemma");
+  if (tagLemma) {
+    const button = document.createElement("div");
+    button.className = "section-button button";
+    button.dataset.buttonType = "lemma";
 
-    if (isOutOfView) {
-      const button = document.createElement("div");
-      button.className = "section-button button";
-      button.dataset.buttonType = "lemma";
+    const iconSpan = document.createElement("div");
+    iconSpan.className = "svg-icon icon-star";
+    button.appendChild(iconSpan);
+    button.appendChild(
+      document.createTextNode(
+        tagLemma.dataset.lemma || tagLemma.textContent.trim()
+      )
+    );
 
-      const iconSpan = document.createElement("div");
-      iconSpan.className = "svg-icon icon-star";
-      button.appendChild(iconSpan);
-      button.appendChild(
-        document.createTextNode(
-          marklemma.dataset.lemma || marklemma.textContent.trim()
-        )
-      );
-
-      button.onclick = (e) => {
-        e.stopPropagation();
-        marklemma.scrollIntoView({ behavior: "smooth", block: "center" });
-      };
-      buttons.push(button);
-    }
+    button.onclick = (e) => {
+      e.stopPropagation();
+      tagLemma.scrollIntoView({ behavior: "smooth", block: "center" });
+    };
+    buttons.push(button);
   }
 
   if (buttons.length > 0) {

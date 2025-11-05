@@ -11,40 +11,93 @@ function initClozeGame({
     const overlay = document.createElement("div");
     overlay.id = "overlay";
     
-    if (sentence.includes("*")) {      
-      const lightningOverlay = document.createElement("div");
-      lightningOverlay.className = "overlay-button overlay-button-lightning";
-      lightningOverlay.innerHTML = `
-        <div class="svg-icon icon-lightning extra-large"></div>
-      `;
-      lightningOverlay.onclick = () => {
-        overlay.classList.add("hidden");
-        clozeOverlay.style.display = "none";
-        lightningOverlay.style.display = "none";
-        document
-          .querySelectorAll(".cloze:not(.word-highlight)")
-          .forEach((c) => c.click());
-        document.querySelector("#cloze-game hr").style.display = "none";
-        document.querySelector("#cloze-game #word-buttons").style.display = "none";
-      };
-      
-      overlay.appendChild(lightningOverlay);
+    const hasStar = sentence.includes("*");
+    const buttons = [];
 
-      const divider = document.createElement("div");
-      divider.className = "overlay-divider";
-      overlay.appendChild(divider);
+    // Add lightning button if sentence has *
+    if (hasStar) {
+      buttons.push({
+        type: "lightning",
+        icon: "lightning",
+        iconSize: "extra-large",
+        onClick: (overlay, allButtons) => {
+          overlay.classList.add("hidden");
+          allButtons.forEach(btn => btn.element.style.display = "none");
+          document
+            .querySelectorAll(".cloze:not(.word-highlight)")
+            .forEach((c) => c.click());
+          document.querySelector("#cloze-game hr").style.display = "none";
+          document.querySelector("#cloze-game #word-buttons").style.display = "none";
+        }
+      });
     }
 
-    const clozeOverlay = document.createElement("div");
-    clozeOverlay.className = "overlay-button overlay-button-cloze";
-    clozeOverlay.innerHTML = `
-      <div class="svg-icon icon-cloze huge"></div>
-    `;
-    clozeOverlay.onclick = () => {
-      overlay.classList.add("hidden");
-    };
-    
-    overlay.appendChild(clozeOverlay);
+    // Add audio button
+    buttons.push({
+      type: "play",
+      icon: "play",
+      iconSize: "large",
+      onClick: () => {
+        playAudio({ text: sentenceToRead });
+      }
+    });
+
+    // Add cloze button (always present)
+    buttons.push({
+      type: "cloze",
+      icon: "cloze",
+      iconSize: "huge",
+      onClick: (overlay) => {
+        overlay.classList.add("hidden");
+      }
+    });
+
+    // Create button elements
+    const buttonElements = buttons.map(config => {
+      const button = document.createElement("div");
+      button.className = `overlay-button overlay-button-${config.type}`;
+      button.innerHTML = `<div class="svg-icon icon-${config.icon} ${config.iconSize}"></div>`;
+      return { element: button, config };
+    });
+
+    // If we have multiple buttons before cloze (lightning and/or play), wrap them in a container
+    if (buttons.length > 1 && (hasStar || isGerman)) {
+      const preButtonsCount = buttons.length - 1; // all except cloze
+      
+      if (preButtonsCount > 0) {
+        const container = document.createElement("div");
+        container.className = "overlay-buttons-row";
+        
+        for (let i = 0; i < preButtonsCount; i++) {
+          container.appendChild(buttonElements[i].element);
+          
+          // Add divider between buttons (but not after the last one)
+          if (i < preButtonsCount - 1) {
+            const divider = document.createElement("div");
+            divider.className = "overlay-divider vertical";
+            container.appendChild(divider);
+          }
+        }
+        
+        overlay.appendChild(container);
+        
+        // Add horizontal divider after the container
+        const divider = document.createElement("div");
+        divider.className = "overlay-divider";
+        overlay.appendChild(divider);
+      }
+      
+      // Add cloze button (last one)
+      overlay.appendChild(buttonElements[buttonElements.length - 1].element);
+    } else {
+      // Just add the cloze button directly
+      buttonElements.forEach(({ element }) => overlay.appendChild(element));
+    }
+
+    // Attach click handlers
+    buttonElements.forEach(({ element, config }) => {
+      element.onclick = () => config.onClick(overlay, buttonElements);
+    });
     
     gameContainer.appendChild(overlay);
   }

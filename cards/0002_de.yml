@@ -187,10 +187,11 @@ Beispielsätze: |-
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
 Notiz: |-
-  <p class="attention">Die Präposition <b>de</b> verschmilzt mit dem bestimmten Artikel <b>le</b> und <b>les</b> zu einem Wort:<br>
+  <p class="attention">Die Präposition <b>de</b> verschmilzt mit dem <a grammar="Der bestimmte Artikel">bestimmten Artikel</a> <b>le</b> bzw. <b>les</b> zu einem Wort:<br>
     de + le = <b>du</b><br>
     de + les = <b>des</b>
   </p>
+  <!-- Grammar automatically added -->
   <hr>
   <grammar data-id="Der Teilungsartikel"></grammar>
   <grammar data-id="Präpositionen des Ortes"></grammar>

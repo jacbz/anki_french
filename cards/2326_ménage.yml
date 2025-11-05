@@ -111,4 +111,26 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <div class="section">
+    <div class="section-title"><i>foyer</i> und <i>ménage</i></div>
+    <div class="section-content">
+      <p><span class="fr">Foyer</span> (#1579) bedeutet <span class="de">"Haushalt"</span> oder <span class="de">"Heim"</span> und bezeichnet den Ort, an dem eine Familie lebt, oder die Familieneinheit selbst. Es kann auch <span class="de">"Herd"</span> im wörtlichen Sinne bedeuten.</p>
+      <div class="examples">
+        <div class="fr">Ce foyer compte quatre personnes.</div>
+        <div class="de spoiler">Dieser Haushalt besteht aus vier Personen.</div>
+        <div class="fr">Elle a quitté le foyer familial à 18 ans.</div>
+        <div class="de spoiler">Sie verließ das Elternhaus mit 18 Jahren.</div>
+      </div>
+      <p><span class="fr">Ménage</span> bedeutet <span class="de">"Haushalt"</span> im Sinne der Haushaltsführung oder der häuslichen Gemeinschaft. Es bezieht sich auch auf <span class="de">"Hausarbeit"</span> oder <span class="de">"Putzen"</span>.</p>
+      <div class="examples">
+        <div class="fr">Elle fait le ménage tous les samedis.</div>
+        <div class="de spoiler">Sie putzt jeden Samstag.</div>
+        <div class="fr">Un ménage de trois personnes consomme beaucoup d'électricité.</div>
+        <div class="de spoiler">Ein Haushalt mit drei Personen verbraucht viel Strom.</div>
+      </div>
+      <p>Während <span class="fr">foyer</span> eher den emotionalen und physischen Aspekt des Heims betont, bezieht sich <span class="fr">ménage</span> stärker auf die praktischen Aspekte des Zusammenlebens und der Haushaltsführung.</p>
+    </div>
+  </div>
+  <!-- Grammar automatically added -->
+  <grammar data-id="Familie"></grammar>

@@ -193,11 +193,12 @@ Notiz: |-
   <div class="attention">
     <p>In der Umgangssprache wird fast ausschließlich <span class="fr">on</span> (#29) statt <span class="fr">nous</span> verwendet, wenn es als Subjekt verwendet wird.</p>
     <div class="examples">
-      <div class="fr" style="text-decoration: line-through">"Nous allons au cinéma ce soir."</div>
+      <div class="fr wrong">"Nous allons au cinéma ce soir."</div>
       <div class="fr">"On va au cinéma ce soir."</div>
       <div class="de spoiler">"Wir gehen heute Abend ins Kino."</div>
     </div>
   </div>
+  <!-- Grammar automatically added -->
   <hr>
   <grammar data-id="Die verbundenen Personalpronomen"></grammar>
   <grammar data-id="Die unverbundenen Personalpronomen"></grammar>
