@@ -137,7 +137,7 @@ const sentencesData = sentencesInner.innerHTML;
 const sentencesPairs = sentencesData.split("\n\n");
 shuffleArray(sentencesPairs, false);
 
-let currentSentence = 0;
+let currentSentence = Persistence.getItem("sentenceIndex") || 0;
 let showClozeGame = false;
 const sentenceCounter = document.getElementById("sentence-counter");
 

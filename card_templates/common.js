@@ -102,10 +102,10 @@ function processText(text, isFrench, processStars = true) {
 function shuffleArray(arr, persist = true) {
   let seed = Math.random();
   if (persist) {
-    Persistence.setItem(seed);
+    Persistence.setItem("seed", seed);
   } else {
-    seed = Persistence.getItem();
-    Persistence.clear();
+    seed = Persistence.getItem("seed");
+    Persistence.removeItem("seed");
   }
   let currentSeed = seed;
   for (let i = arr.length - 1; i > 0; i--) {

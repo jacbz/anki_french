@@ -7,6 +7,7 @@ let sentenceIndex = 0;
 
 sentencesInner.ondblclick = () => {
   sentenceIndex = (sentenceIndex + 1) % sentencesPairs.length;
+  Persistence.setItem("sentenceIndex", sentenceIndex);
   render();
 }
 
