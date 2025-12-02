@@ -6,6 +6,7 @@ const sentencesPairs = sentencesData.split("\n\n");
 shuffleArray(sentencesPairs);
 
 let sentenceIndex = 0;
+Persistence.setItem("sentenceIndex", sentenceIndex);
 
 sentencesInner.ondblclick = () => {
   sentenceIndex = (sentenceIndex + 1) % sentencesPairs.length;
