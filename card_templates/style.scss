@@ -407,11 +407,26 @@ span.no-break {
 
   &::after {
     content: "✗";
-    display:inline-block;
+    display: inline-block;
     color: var(--error-color);
     margin-left: 0.3em;
     font-family: monospace;
     line-height: 0;
+  }
+
+  &.left-x {
+    &::after {
+      display: none;
+    }
+
+    &::before {
+      content: "✗";
+      display: inline-block;
+      color: var(--error-color);
+      margin-right: 0.3em;
+      font-family: monospace;
+      line-height: 0;
+    }
   }
 }
 

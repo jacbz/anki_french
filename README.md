@@ -29,7 +29,7 @@ Jeder Eintrag kann auf einer Karte in den Notizen eingebunden werden, dazu in de
 Das Deck selber ist unter der Creative Commons-Lizenz [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) veröffentlicht. Der Quelltext im Ordner [card_templates](card_templates) liegt unter der Apache-2.0-Lizenz.
 
 ## Übersicht
-Insgesamt gibt es 5000 Karten mit 149.722 Beispielsätzen (durchschnittlich 29.9 pro Karte). 2537 Karten haben eine Notiz.
+Insgesamt gibt es 5000 Karten mit 149.714 Beispielsätzen (durchschnittlich 29.9 pro Karte). 2553 Karten haben eine Notiz.
 
 | Rang | Wort | Definition | Beispielsätze | Notiz | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -37,7 +37,7 @@ Insgesamt gibt es 5000 Karten mit 149.722 Beispielsätzen (durchschnittlich 29.9
 | 2 | de | von, aus, [Teilungsartikel] | 56 | ✓ | [Bearbeiten](cards/0002_de.yml) |
 | 3 | un | eins; ein(-e) | 58 | ✓ | [Bearbeiten](cards/0003_un.yml) |
 | 4 | à | nach, in [örtlich], um [zeitlich] | 59 | ✓ | [Bearbeiten](cards/0004_à.yml) |
-| 5 | être | sein | 59 | ✓ | [Bearbeiten](cards/0005_être.yml) |
+| 5 | être | sein | 58 | ✓ | [Bearbeiten](cards/0005_être.yml) |
 | 6 | et | und | 36 | ✓ | [Bearbeiten](cards/0006_et.yml) |
 | 7 | en | in; davon | 56 | ✓ | [Bearbeiten](cards/0007_en.yml) |
 | 8 | avoir | haben, besitzen | 59 | ✓ | [Bearbeiten](cards/0008_avoir.yml) |
@@ -56,7 +56,7 @@ Insgesamt gibt es 5000 Karten mit 149.722 Beispielsätzen (durchschnittlich 29.9
 | 21 | par | durch, von | 58 | ✓ | [Bearbeiten](cards/0021_par.yml) |
 | 22 | je | ich | 26 | ✓ | [Bearbeiten](cards/0022_je.yml) |
 | 23 | avec | mit | 60 | ✓ | [Bearbeiten](cards/0023_avec.yml) |
-| 24 | tout | alles, ganz, jede(-r/s) | 56 | ✓ | [Bearbeiten](cards/0024_tout.yml) |
+| 24 | tout | alles, ganz, jede(-r/s) | 55 | ✓ | [Bearbeiten](cards/0024_tout.yml) |
 | 25 | faire | machen, tun | 56 | ✓ | [Bearbeiten](cards/0025_faire.yml) |
 | 26 | son | sein(-e), ihr(-e); Ton, Klang | 56 | ✓ | [Bearbeiten](cards/0026_son.yml) |
 | 27 | mettre | tun, legen, anziehen | 69 | ✓ | [Bearbeiten](cards/0027_mettre.yml) |
@@ -101,7 +101,7 @@ Insgesamt gibt es 5000 Karten mit 149.722 Beispielsätzen (durchschnittlich 29.9
 | 66 | très | sehr | 38 |  | [Bearbeiten](cards/0066_très.yml) |
 | 67 | savoir | wissen | 59 | ✓ | [Bearbeiten](cards/0067_savoir.yml) |
 | 68 | falloir | müssen | 60 | ✓ | [Bearbeiten](cards/0068_falloir.yml) |
-| 69 | voir | sehen | 58 | ✓ | [Bearbeiten](cards/0069_voir.yml) |
+| 69 | voir | sehen | 57 | ✓ | [Bearbeiten](cards/0069_voir.yml) |
 | 70 | quelque | einige(-r/s) | 43 | ✓ | [Bearbeiten](cards/0070_quelque.yml) |
 | 71 | sans | ohne | 42 | ✓ | [Bearbeiten](cards/0071_sans.yml) |
 | 72 | raison | Vernunft, Grund | 61 | ✓ | [Bearbeiten](cards/0072_raison.yml) |
