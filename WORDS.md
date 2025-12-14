@@ -110,7 +110,7 @@
 | 108 | montrer | zeigen, vorzeigen | 54 |  | [Bearbeiten](cards/0108_montrer.yml) |
 | 109 | là | dort, da | 59 | ✓ | [Bearbeiten](cards/0109_là.yml) |
 | 110 | certain | (←) gewiss, einige; (→) sicher, bestimmt | 48 | ✓ | [Bearbeiten](cards/0110_certain.yml) |
-| 111 | fin | Ende; fein | 59 | ✓ | [Bearbeiten](cards/0111_fin.yml) |
+| 111 | fin | Ende; fein | 58 | ✓ | [Bearbeiten](cards/0111_fin.yml) |
 | 112 | tu | du | 19 | ✓ | [Bearbeiten](cards/0112_tu.yml) |
 | 113 | continuer | fortsetzen | 38 | ✓ | [Bearbeiten](cards/0113_continuer.yml) |
 | 114 | pays | Land | 59 | ✓ | [Bearbeiten](cards/0114_pays.yml) |
@@ -375,7 +375,7 @@
 | 373 | produit | Produkt | 62 | ✓ | [Bearbeiten](cards/0373_produit.yml) |
 | 374 | américain | amerikanisch; Amerikaner | 24 | ✓ | [Bearbeiten](cards/0374_américain.yml) |
 | 375 | minute | Minute | 42 | ✓ | [Bearbeiten](cards/0375_minute.yml) |
-| 376 | relever | (auf-)heben | 59 | ✓ | [Bearbeiten](cards/0376_relever.yml) |
+| 376 | relever | (auf-)heben, feststellen | 59 | ✓ | [Bearbeiten](cards/0376_relever.yml) |
 | 377 | autant | so viel, gleich viel | 51 |  | [Bearbeiten](cards/0377_autant.yml) |
 | 378 | peuple | Volk | 40 | ✓ | [Bearbeiten](cards/0378_peuple.yml) |
 | 379 | second | zweite [Platzierung]; Sekunde | 59 | ✓ | [Bearbeiten](cards/0379_second.yml) |
@@ -2239,7 +2239,7 @@
 | 2237 | invitation | Einladung | 20 |  | [Bearbeiten](cards/2237_invitation.yml) |
 | 2238 | présidentiel | Präsidial- | 15 |  | [Bearbeiten](cards/2238_présidentiel.yml) |
 | 2239 | concurrent | Konkurrent | 20 | ✓ | [Bearbeiten](cards/2239_concurrent.yml) |
-| 2240 | prévu | geplant, vorgesehen | 26 |  | [Bearbeiten](cards/2240_prévu.yml) |
+| 2240 | prévu | geplant, vorgesehen | 18 |  | [Bearbeiten](cards/2240_prévu.yml) |
 | 2241 | suisse | schweizerisch; Schweizer | 23 | ✓ | [Bearbeiten](cards/2241_suisse.yml) |
 | 2242 | franchement | ehrlich, offen gesagt | 19 |  | [Bearbeiten](cards/2242_franchement.yml) |
 | 2243 | paiement | Zahlung | 33 | ✓ | [Bearbeiten](cards/2243_paiement.yml) |
@@ -2281,7 +2281,7 @@
 | 2279 | cérémonie | Feierlichkeit | 24 |  | [Bearbeiten](cards/2279_cérémonie.yml) |
 | 2280 | ambition | Ambition | 21 | ✓ | [Bearbeiten](cards/2280_ambition.yml) |
 | 2281 | recourir | zurückgreifen, sich [an jdn.] wenden | 23 |  | [Bearbeiten](cards/2281_recourir.yml) |
-| 2282 | sanction | Strafe, Maßnahme | 24 | ✓ | [Bearbeiten](cards/2282_sanction.yml) |
+| 2282 | sanction | Strafe, Maßnahme | 21 | ✓ | [Bearbeiten](cards/2282_sanction.yml) |
 | 2283 | géant | Riese | 35 |  | [Bearbeiten](cards/2283_géant.yml) |
 | 2284 | jardin | Garten | 34 | ✓ | [Bearbeiten](cards/2284_jardin.yml) |
 | 2285 | nourriture | Essen, Nahrung | 22 | ✓ | [Bearbeiten](cards/2285_nourriture.yml) |
@@ -3433,7 +3433,7 @@
 | 3431 | fouiller | durchsuchen, wühlen | 38 |  | [Bearbeiten](cards/3431_fouiller.yml) |
 | 3432 | respectivement | jeweils | 13 |  | [Bearbeiten](cards/3432_respectivement.yml) |
 | 3433 | éternel | ewig | 42 |  | [Bearbeiten](cards/3433_éternel.yml) |
-| 3434 | intime | intim | 38 |  | [Bearbeiten](cards/3434_intime.yml) |
+| 3434 | intime | intim | 37 |  | [Bearbeiten](cards/3434_intime.yml) |
 | 3435 | cerner | umreißen, erfassen | 20 |  | [Bearbeiten](cards/3435_cerner.yml) |
 | 3436 | hostilité | Feindseligkeit | 21 |  | [Bearbeiten](cards/3436_hostilité.yml) |
 | 3437 | manche | Griff, Stiel; Ärmel | 38 | ✓ | [Bearbeiten](cards/3437_manche.yml) |
@@ -3479,7 +3479,7 @@
 | 3477 | guise | Weise, Form | 22 |  | [Bearbeiten](cards/3477_guise.yml) |
 | 3478 | scandaleux | skandalös | 16 |  | [Bearbeiten](cards/3478_scandaleux.yml) |
 | 3479 | vulnérable | verletzlich, verwundbar | 17 |  | [Bearbeiten](cards/3479_vulnérable.yml) |
-| 3480 | ennuyer | langweilen, nerven | 27 |  | [Bearbeiten](cards/3480_ennuyer.yml) |
+| 3480 | ennuyer | langweilen, nerven | 26 |  | [Bearbeiten](cards/3480_ennuyer.yml) |
 | 3481 | élan | Schwung, Anlauf | 28 |  | [Bearbeiten](cards/3481_élan.yml) |
 | 3482 | nominal | nominell | 27 |  | [Bearbeiten](cards/3482_nominal.yml) |
 | 3483 | manipuler | handhaben, manipulieren | 22 |  | [Bearbeiten](cards/3483_manipuler.yml) |
@@ -3559,18 +3559,18 @@
 | 3557 | querelle | Streit, Auseinandersetzung | 20 | ✓ | [Bearbeiten](cards/3557_querelle.yml) |
 | 3558 | explosif | Sprengstoff | 27 |  | [Bearbeiten](cards/3558_explosif.yml) |
 | 3559 | flic | Bulle, Polizist | 11 |  | [Bearbeiten](cards/3559_flic.yml) |
-| 3560 | solitaire | einsam, einzeln | 36 |  | [Bearbeiten](cards/3560_solitaire.yml) |
+| 3560 | solitaire | einsam, einzeln | 32 |  | [Bearbeiten](cards/3560_solitaire.yml) |
 | 3561 | déceler | entdecken, erkennen lassen | 19 |  | [Bearbeiten](cards/3561_déceler.yml) |
 | 3562 | herbe | Gras, Kraut | 42 | ✓ | [Bearbeiten](cards/3562_herbe.yml) |
 | 3563 | élevé | hoch, erhöht | 47 | ✓ | [Bearbeiten](cards/3563_élevé.yml) |
-| 3564 | acharner | sich abmühen, sich anstrengen | 20 |  | [Bearbeiten](cards/3564_acharner.yml) |
+| 3564 | acharner | sich abmühen, beharren | 20 |  | [Bearbeiten](cards/3564_acharner.yml) |
 | 3565 | bombardement | Bombardierung | 16 | ✓ | [Bearbeiten](cards/3565_bombardement.yml) |
 | 3566 | bagage | Gepäck; Kenntnisse | 24 | ✓ | [Bearbeiten](cards/3566_bagage.yml) |
 | 3567 | singulier | Einzahl; eigenartig | 24 |  | [Bearbeiten](cards/3567_singulier.yml) |
 | 3568 | capitalisme | Kapitalismus | 14 |  | [Bearbeiten](cards/3568_capitalisme.yml) |
 | 3569 | suspension | Aussetzung, Unterbrechung | 33 |  | [Bearbeiten](cards/3569_suspension.yml) |
 | 3570 | mince | dünn, schlank | 27 |  | [Bearbeiten](cards/3570_mince.yml) |
-| 3571 | assimiler | aufnehmen, gleichsetzen | 26 |  | [Bearbeiten](cards/3571_assimiler.yml) |
+| 3571 | assimiler | aufnehmen; gleichsetzen | 26 |  | [Bearbeiten](cards/3571_assimiler.yml) |
 | 3572 | plume | Feder | 40 | ✓ | [Bearbeiten](cards/3572_plume.yml) |
 | 3573 | publicitaire | Werbe- | 23 |  | [Bearbeiten](cards/3573_publicitaire.yml) |
 | 3574 | incarner | verkörpern | 19 |  | [Bearbeiten](cards/3574_incarner.yml) |
