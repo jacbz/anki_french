@@ -261,7 +261,7 @@
 | 259 | exemple | Beispiel | 36 |  | [Bearbeiten](cards/0259_exemple.yml) |
 | 260 | ville | Stadt | 38 | ✓ | [Bearbeiten](cards/0260_ville.yml) |
 | 261 | économique | preiswert; Wirtschaft- | 27 |  | [Bearbeiten](cards/0261_économique.yml) |
-| 262 | mesure | Maß, Messung | 59 | ✓ | [Bearbeiten](cards/0262_mesure.yml) |
+| 262 | mesure | Maß(-nahme), Messung | 59 | ✓ | [Bearbeiten](cards/0262_mesure.yml) |
 | 263 | histoire | Geschichte | 63 | ✓ | [Bearbeiten](cards/0263_histoire.yml) |
 | 264 | haut | hoch; Höhe | 61 | ✓ | [Bearbeiten](cards/0264_haut.yml) |
 | 265 | ensuite | anschließend, danach | 17 |  | [Bearbeiten](cards/0265_ensuite.yml) |
@@ -1384,7 +1384,7 @@
 | 1382 | largement | bei weitem, reichlich | 26 |  | [Bearbeiten](cards/1382_largement.yml) |
 | 1383 | échouer | scheitern; stranden | 30 |  | [Bearbeiten](cards/1383_échouer.yml) |
 | 1384 | désirer | wünschen, begehren | 28 | ✓ | [Bearbeiten](cards/1384_désirer.yml) |
-| 1385 | côte | Küste; Hang | 41 | ✓ | [Bearbeiten](cards/1385_côte.yml) |
+| 1385 | côte | Küste; Hang | 40 | ✓ | [Bearbeiten](cards/1385_côte.yml) |
 | 1386 | génération | Generation | 33 |  | [Bearbeiten](cards/1386_génération.yml) |
 | 1387 | vent | Wind | 64 | ✓ | [Bearbeiten](cards/1387_vent.yml) |
 | 1388 | technologie | Technologie | 21 | ✓ | [Bearbeiten](cards/1388_technologie.yml) |
@@ -2051,7 +2051,7 @@
 | 2049 | infirmier | Krankenpfleger | 19 | ✓ | [Bearbeiten](cards/2049_infirmier.yml) |
 | 2050 | caractéristique | Merkmal, Eigenschaft | 27 | ✓ | [Bearbeiten](cards/2050_caractéristique.yml) |
 | 2051 | dépenser | ausgeben, verbrauchen | 26 |  | [Bearbeiten](cards/2051_dépenser.yml) |
-| 2052 | censé | eigentlich | 13 |  | [Bearbeiten](cards/2052_censé.yml) |
+| 2052 | censé | eigentlich (sollen) | 13 |  | [Bearbeiten](cards/2052_censé.yml) |
 | 2053 | fuite | Flucht; Leck | 41 |  | [Bearbeiten](cards/2053_fuite.yml) |
 | 2054 | conviction | Überzeugung | 23 | ✓ | [Bearbeiten](cards/2054_conviction.yml) |
 | 2055 | nettement | deutlich, unmissverständlich | 18 |  | [Bearbeiten](cards/2055_nettement.yml) |
@@ -2774,7 +2774,7 @@
 | 2772 | loisir | Freizeit | 24 | ✓ | [Bearbeiten](cards/2772_loisir.yml) |
 | 2773 | chaleur | Hitze, Wärme | 41 | ✓ | [Bearbeiten](cards/2773_chaleur.yml) |
 | 2774 | ranger | aufräumen, ordnen | 48 |  | [Bearbeiten](cards/2774_ranger.yml) |
-| 2775 | partage | Unterteilung, Aufteilung | 27 | ✓ | [Bearbeiten](cards/2775_partage.yml) |
+| 2775 | partage | Aufteilung, Teilen | 27 | ✓ | [Bearbeiten](cards/2775_partage.yml) |
 | 2776 | étoile | Stern | 51 | ✓ | [Bearbeiten](cards/2776_étoile.yml) |
 | 2777 | mystère | Geheimnis, Rätsel | 38 | ✓ | [Bearbeiten](cards/2777_mystère.yml) |
 | 2778 | quasi | fast, nahezu | 15 |  | [Bearbeiten](cards/2778_quasi.yml) |
