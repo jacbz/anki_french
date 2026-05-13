@@ -2716,7 +2716,7 @@
 | 2714 | apparence | (An-)schein, Anblick | 25 |  | [Bearbeiten](cards/2714_apparence.yml) |
 | 2715 | oriental | östlich, orientalisch | 20 | ✓ | [Bearbeiten](cards/2715_oriental.yml) |
 | 2716 | écriture | Schrift, Schreibung | 41 | ✓ | [Bearbeiten](cards/2716_écriture.yml) |
-| 2717 | parcours | Strecke | 19 |  | [Bearbeiten](cards/2717_parcours.yml) |
+| 2717 | parcours | Strecke, Lauf | 19 |  | [Bearbeiten](cards/2717_parcours.yml) |
 | 2718 | républicain | Republikaner | 21 | ✓ | [Bearbeiten](cards/2718_républicain.yml) |
 | 2719 | embarquer | einsteigen, einschiffen | 37 | ✓ | [Bearbeiten](cards/2719_embarquer.yml) |
 | 2720 | révolte | Aufstand | 19 |  | [Bearbeiten](cards/2720_révolte.yml) |
@@ -2933,7 +2933,7 @@
 | 2931 | colonne | Säule, Spalte; Reihe | 41 |  | [Bearbeiten](cards/2931_colonne.yml) |
 | 2932 | arranger | ordnen, regeln | 58 |  | [Bearbeiten](cards/2932_arranger.yml) |
 | 2933 | lointain | Ferne; fern | 30 | ✓ | [Bearbeiten](cards/2933_lointain.yml) |
-| 2934 | danser | tanzen | 30 | ✓ | [Bearbeiten](cards/2934_danser.yml) |
+| 2934 | danser | tanzen | 29 | ✓ | [Bearbeiten](cards/2934_danser.yml) |
 | 2935 | charbon | Kohle | 24 | ✓ | [Bearbeiten](cards/2935_charbon.yml) |
 | 2936 | passionner | faszinieren, begeistern | 19 |  | [Bearbeiten](cards/2936_passionner.yml) |
 | 2937 | colline | Hügel | 13 | ✓ | [Bearbeiten](cards/2937_colline.yml) |
