@@ -88,7 +88,7 @@
 | 86 | part | Anteil, Teil | 60 |  | [Bearbeiten](cards/0086_part.yml) |
 | 87 | dernier | (←) letzte(-r/s); (→) vorige(-r/s) | 57 | ✓ | [Bearbeiten](cards/0087_dernier.yml) |
 | 88 | venir | kommen | 64 | ✓ | [Bearbeiten](cards/0088_venir.yml) |
-| 89 | pendant | während; Gegenstück | 53 | ✓ | [Bearbeiten](cards/0089_pendant.yml) |
+| 89 | pendant | während; Gegenstück | 44 | ✓ | [Bearbeiten](cards/0089_pendant.yml) |
 | 90 | passer | verbringen, durchlaufen | 58 | ✓ | [Bearbeiten](cards/0090_passer.yml) |
 | 91 | peu | wenig | 59 | ✓ | [Bearbeiten](cards/0091_peu.yml) |
 | 92 | lequel | welche(-r/s); der/die/das [Relativpronomen] | 37 | ✓ | [Bearbeiten](cards/0092_lequel.yml) |
@@ -782,7 +782,7 @@
 | 780 | commun | gemeinsam; gewöhnlich | 62 | ✓ | [Bearbeiten](cards/0780_commun.yml) |
 | 781 | satisfaire | befriedigen, zufriedenstellen | 35 |  | [Bearbeiten](cards/0781_satisfaire.yml) |
 | 782 | intention | Absicht | 30 |  | [Bearbeiten](cards/0782_intention.yml) |
-| 783 | autorité | Autorität | 57 | ✓ | [Bearbeiten](cards/0783_autorité.yml) |
+| 783 | autorité | Autorität; Behörde | 57 | ✓ | [Bearbeiten](cards/0783_autorité.yml) |
 | 784 | anglais | englisch; Engländer | 29 | ✓ | [Bearbeiten](cards/0784_anglais.yml) |
 | 785 | échange | Austausch | 40 |  | [Bearbeiten](cards/0785_échange.yml) |
 | 786 | feu | Feuer | 60 | ✓ | [Bearbeiten](cards/0786_feu.yml) |
@@ -2810,7 +2810,7 @@
 | 2808 | permanence | Dienst(-stelle); Fortbestehen | 22 |  | [Bearbeiten](cards/2808_permanence.yml) |
 | 2809 | reine | Königin | 33 | ✓ | [Bearbeiten](cards/2809_reine.yml) |
 | 2810 | privatisation | Privatisierung | 12 |  | [Bearbeiten](cards/2810_privatisation.yml) |
-| 2811 | correspondance | Korrespondenz, Briefwechsel | 36 |  | [Bearbeiten](cards/2811_correspondance.yml) |
+| 2811 | correspondance | Korrespondenz, Briefwechsel; Übereinstimmung | 36 |  | [Bearbeiten](cards/2811_correspondance.yml) |
 | 2812 | planter | pflanzen | 58 |  | [Bearbeiten](cards/2812_planter.yml) |
 | 2813 | strictement | streng(-stens) | 17 |  | [Bearbeiten](cards/2813_strictement.yml) |
 | 2814 | violation | Verletzung, Missachtung | 26 | ✓ | [Bearbeiten](cards/2814_violation.yml) |
@@ -2899,7 +2899,7 @@
 | 2897 | amorcer | einleiten, bereit machen | 26 | ✓ | [Bearbeiten](cards/2897_amorcer.yml) |
 | 2898 | détester | verabscheuen, hassen | 25 | ✓ | [Bearbeiten](cards/2898_détester.yml) |
 | 2899 | fondateur | Gründer | 20 | ✓ | [Bearbeiten](cards/2899_fondateur.yml) |
-| 2900 | charte | Charta | 16 |  | [Bearbeiten](cards/2900_charte.yml) |
+| 2900 | charte | Leitbild, Urkunde, Charta | 16 |  | [Bearbeiten](cards/2900_charte.yml) |
 | 2901 | productivité | Produktivität | 17 | ✓ | [Bearbeiten](cards/2901_productivité.yml) |
 | 2902 | succession | Nachfolge; Erbschaft | 26 |  | [Bearbeiten](cards/2902_succession.yml) |
 | 2903 | simplifier | vereinfachen | 18 | ✓ | [Bearbeiten](cards/2903_simplifier.yml) |
@@ -3044,13 +3044,13 @@
 | 3042 | acheteur | Käufer | 18 | ✓ | [Bearbeiten](cards/3042_acheteur.yml) |
 | 3043 | équiper | ausrüsten | 25 |  | [Bearbeiten](cards/3043_équiper.yml) |
 | 3044 | édifice | Gebäude, Bauwerk | 18 | ✓ | [Bearbeiten](cards/3044_édifice.yml) |
-| 3045 | lot | Preis; Stapel | 26 |  | [Bearbeiten](cards/3045_lot.yml) |
+| 3045 | lot | Preis; Stapel; (An)teil | 26 |  | [Bearbeiten](cards/3045_lot.yml) |
 | 3046 | fondement | Grundlage | 22 | ✓ | [Bearbeiten](cards/3046_fondement.yml) |
 | 3047 | spirituel | geistig, geistreich | 29 |  | [Bearbeiten](cards/3047_spirituel.yml) |
 | 3048 | fournisseur | Lieferant | 20 | ✓ | [Bearbeiten](cards/3048_fournisseur.yml) |
 | 3049 | détriment | Nachteil, Schaden | 14 |  | [Bearbeiten](cards/3049_détriment.yml) |
 | 3050 | unanime | einstimmig | 17 |  | [Bearbeiten](cards/3050_unanime.yml) |
-| 3051 | agiter | schwenken, bewegen | 30 |  | [Bearbeiten](cards/3051_agiter.yml) |
+| 3051 | agiter | schwenken, bewegen; beunruhigen | 30 |  | [Bearbeiten](cards/3051_agiter.yml) |
 | 3052 | élimination | Beseitigung, Ausschaltung | 24 |  | [Bearbeiten](cards/3052_élimination.yml) |
 | 3053 | nazi | Nazi | 16 | ✓ | [Bearbeiten](cards/3053_nazi.yml) |
 | 3054 | col | Kragen; (Berg-)pass | 31 | ✓ | [Bearbeiten](cards/3054_col.yml) |
@@ -4359,7 +4359,7 @@
 | 4357 | jumeau | Zwilling | 25 | ✓ | [Bearbeiten](cards/4357_jumeau.yml) |
 | 4358 | piéger | in die Falle locken | 19 |  | [Bearbeiten](cards/4358_piéger.yml) |
 | 4359 | confiant | selbstsicher, zuversichtlich | 19 | ✓ | [Bearbeiten](cards/4359_confiant.yml) |
-| 4360 | pendre | hängen; aufhängen | 48 | ✓ | [Bearbeiten](cards/4360_pendre.yml) |
+| 4360 | pendre | hängen; aufhängen | 57 | ✓ | [Bearbeiten](cards/4360_pendre.yml) |
 | 4361 | intact | unversehrt | 20 |  | [Bearbeiten](cards/4361_intact.yml) |
 | 4362 | rapidité | Schnelligkeit | 22 |  | [Bearbeiten](cards/4362_rapidité.yml) |
 | 4363 | localité | Ort, Örtlichkeit | 12 |  | [Bearbeiten](cards/4363_localité.yml) |

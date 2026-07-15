@@ -121,7 +121,7 @@ Insgesamt gibt es 5000 Karten mit 149.711 Beispielsätzen (durchschnittlich 29.9
 | 86 | part | Anteil, Teil | 60 |  | [Bearbeiten](cards/0086_part.yml) |
 | 87 | dernier | (←) letzte(-r/s); (→) vorige(-r/s) | 57 | ✓ | [Bearbeiten](cards/0087_dernier.yml) |
 | 88 | venir | kommen | 64 | ✓ | [Bearbeiten](cards/0088_venir.yml) |
-| 89 | pendant | während; Gegenstück | 53 | ✓ | [Bearbeiten](cards/0089_pendant.yml) |
+| 89 | pendant | während; Gegenstück | 44 | ✓ | [Bearbeiten](cards/0089_pendant.yml) |
 | 90 | passer | verbringen, durchlaufen | 58 | ✓ | [Bearbeiten](cards/0090_passer.yml) |
 | 91 | peu | wenig | 59 | ✓ | [Bearbeiten](cards/0091_peu.yml) |
 | 92 | lequel | welche(-r/s); der/die/das [Relativpronomen] | 37 | ✓ | [Bearbeiten](cards/0092_lequel.yml) |
